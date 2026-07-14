@@ -133,6 +133,7 @@ def main():
     font-family: -apple-system, "Pretendard", "Segoe UI", sans-serif;
     font-size: 13px;
     line-height: 1.4;
+    overflow-x: hidden;
   }}
   .topbar {{
     display: flex;
@@ -190,7 +191,12 @@ def main():
     padding: 1px 7px;
     border-radius: 999px;
   }}
-  .item-list {{ display: flex; flex-direction: column; }}
+  .item-list {{
+    display: flex;
+    flex-direction: column;
+    max-height: 420px;   /* 이 값만 바꾸면 카드 높이 조절 가능 */
+    overflow-y: auto;
+  }}
   .item {{
     display: flex;
     align-items: flex-start;
@@ -224,7 +230,7 @@ def main():
     font-weight: 500;
     font-size: 12.5px;
     white-space: normal;
-    overflow-wrap: break-word;
+    overflow-wrap: anywhere;
   }}
   .headline:hover {{ color: var(--accent); text-decoration: underline; }}
   .summary {{
@@ -235,6 +241,7 @@ def main():
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    overflow-wrap: anywhere;
     padding-top: 1px;
   }}
   .source {{
