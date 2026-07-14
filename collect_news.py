@@ -1,6 +1,8 @@
 import json
 import os
 import time
+from datetime import timedelta, timezone
+from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 
 import feedparser
@@ -82,6 +84,21 @@ CATEGORIES = {
 
 def is_korean(text: str) -> bool:
     return any("가" <= ch <= "힣" for ch in text)
+
+
+def format_published(raw: str) -> str:
+    """RSS의 RFC-2822 날짜 문자열을 'MM/DD HH:MM' (KST) 형태로 짧게 변환.
+    파싱 실패 시 원본을 20자로 잘라 반환 (화면에서 헤드라인과 안 겹치도록)."""
+    if not raw:
+        return ""
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        kst = dt.astimezone(timezone.utc) + timedelta(hours=9)
+        return kst.strftime("%m/%d %H:%M")
+    except Exception:
+        return raw[:20]
 
 
 def build_rss_url(query: str) -> str:
@@ -226,7 +243,7 @@ def main():
                     "headline": it["title"],
                     "summary": summary,
                     "source": it["source"],
-                    "published": it["published"],
+                    "published": format_published(it["published"]),
                     "tag": tag,
                     "first_seen": now,
                 }
