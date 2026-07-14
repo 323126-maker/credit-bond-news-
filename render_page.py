@@ -202,7 +202,9 @@ def main():
     color: var(--muted);
     font-size: 11px;
     white-space: nowrap;
-    width: 42px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 76px;
   }}
   .tag {{
     flex: 0 0 auto;
