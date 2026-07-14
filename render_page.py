@@ -20,7 +20,7 @@ CATEGORY_META = {
     "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#5b8dee", "full_width": True},
     "credit_issue": {"label": "크레딧 이슈", "color": "#e0664f"},
     "perpetual": {"label": "신종자본증권", "color": "#f0a84c"},
-    "liquidity": {"label": "크레딧 경색", "color": "#e05a5a"},
+    "liquidity": {"label": "크레딧", "color": "#e05a5a"},
     "policy": {"label": "채권정책 · 추경", "color": "#3fc48a"},
     "politics": {"label": "정책 발언 (대통령실 등)", "color": "#9b7de8"},
     "global_bond": {"label": "글로벌 채권이슈", "color": "#4fb8b0"},
