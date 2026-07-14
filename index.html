@@ -52,12 +52,13 @@
   .chip b { color: var(--text); font-weight: 600; }
   .dot { width: 7px; height: 7px; border-radius: 50%; display: inline-block; }
   .grid {
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
     gap: 12px;
   }
   @media (max-width: 760px) {
-    .grid { grid-template-columns: 1fr; }
+    .card { width: 100% !important; resize: none !important; }
   }
   .card {
     background: var(--panel);
@@ -65,8 +66,14 @@
     border-top: 3px solid;
     border-radius: 10px;
     padding: 10px 14px 6px;
+    flex: 0 0 auto;
+    width: calc(50% - 6px);   /* 기본 폭. 카드 우측 모서리를 가로로 드래그하면 폭 조절 가능 */
+    min-width: 260px;
+    max-width: 100%;
+    overflow: hidden;
+    resize: horizontal;
   }
-  .card.full { grid-column: 1 / -1; }
+  .card.full { width: 100%; resize: none; }
   .card-head {
     display: flex;
     align-items: center;
@@ -154,7 +161,7 @@
 <body>
 <div class="topbar">
   <h1>Credit &amp; Bond News</h1>
-  <span class="updated">마지막 업데이트 2026-07-14 22:24:17</span>
+  <span class="updated">마지막 업데이트 2026-07-14 22:29:37</span>
 </div>
 <div class="chips">
 <div class="chip"><span class="dot" style="background:#5b8dee"></span>Credit Watchlist (보유종목) <b>0</b></div><div class="chip"><span class="dot" style="background:#e0664f"></span>크레딧 이슈 <b>18</b></div><div class="chip"><span class="dot" style="background:#f0a84c"></span>신종자본증권 · 콜옵션 미행사 <b>12</b></div><div class="chip"><span class="dot" style="background:#e05a5a"></span>크레딧 경색 <b>14</b></div><div class="chip"><span class="dot" style="background:#3fc48a"></span>채권정책 · 추경 <b>15</b></div><div class="chip"><span class="dot" style="background:#9b7de8"></span>정책 발언 (대통령실 등) <b>22</b></div><div class="chip"><span class="dot" style="background:#4fb8b0"></span>글로벌 채권이슈 <b>40</b></div>
@@ -687,7 +694,121 @@
     <h2>글로벌 채권이슈</h2>
     <span class="count" style="background:#4fb8b022;color:#4fb8b0">40</span>
   </div>
-  <div class="item-list"><div class="item" title="Federal Reserve Chair Kevin Warsh delivers first semiannual monetary policy testimony to Congress - Crypto Briefing — ">
+  <div class="item-list"><div class="item" title="Fed&#x27;s Warsh to appear before Congress after tentative steps away from Trump - Reuters — ">
+  <span class="time">07/14 21:32</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMipgFBVV95cUxPY2lZbFpmejAtNW91RmFHRWZqT0NkdzF5M3NOQWF6UUZxVXZHYW0xTnlZX1FQZ1lvcTE0UlBqV3l1MnY3WHVoVl92OWJYUW44Sjl5Zk1oMzFSQ0s2NjlYQ1hpUVRIc1RzVEZVY1ZuTE9nVVpwUXhRRmJnU0s4emhnbXh4ellpV01qc3VOeVo5eEJ6VHVMUnhmSXR5c1dCS2dXREhsdmtB?oc=5" target="_blank" rel="noopener">Fed&#x27;s Warsh to appear before Congress after tentative steps away from Trump - Reuters</a>
+  <span class="summary"></span>
+  <span class="source">Reuters</span>
+</div><div class="item" title="Warsh&#x27;s statement to Congress: Fed has &#x27;no tolerance for persistently elevated inflation&#x27; - Yahoo Finance — ">
+  <span class="time">07/14 21:30</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxQcHl0NkxMNTQyUjM2cUc3aUsxYmhDZGhlZEdsQjVmSUJjMWZKSlBDQVF1eHNVbWRDSUZFMEdCQk8xTzNFZmU1bHpZcGdUMzlVeGtMZUM4SE1sdjFXQ0U3WkRYRzUwNkFjSTA3NTg4MXhOSG5wLUZlbV9mRjk2ZXJFZmVpZ2R0c04yVEVUcVVXOE5vNWhiOXdpclRTdU5hb1VVX3pKX3dKZkQ4Z3JWVW1jWXVkbjVLaWFKU0xDaFhuZTVicXhnRTVjTTFSUlBIRUJQZG04SFdES0Y0VjROaW9aaXIxNA?oc=5" target="_blank" rel="noopener">Warsh&#x27;s statement to Congress: Fed has &#x27;no tolerance for persistently elevated inflation&#x27; - Yahoo Finance</a>
+  <span class="summary"></span>
+  <span class="source">Yahoo Finance</span>
+</div><div class="item" title="Warsh promises inflation will be a &#x27;thing of the past,&#x27; cites benefits of AI investment boom - CNBC — ">
+  <span class="time">07/14 21:30</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMixAFBVV95cUxPMTVOeldLR0ZKajhJYmlDM2V0TlVUNkVnUGdNTnZUX0poam1SbnQ4Mk1ycmRZR3VXV3dVTlEza3pEMTBaODNVWi0xVFA3ckRjNVdDUDFHS3p5UkRLUHpDUzU5VGJZRVAtVm5EZmdxRW9qZTRlVUFLTE9IVE1DQllsQkp2MFM5RXVBMmt5WTFWdjBXbHNvU1k4VkphNXY2djVnMlRpWUx0azRWZUIxU2ZmNTNoRl9lMHZJbVhkY0hMZ291aV900gHKAUFVX3lxTE8zbVlvYkpJNHhjUm1GNTR4WmJDVXZQUkFfNEVuQ1ZaSzJKV1U5UklkRnZ1bkp0cmludnVqTGJPSGt0RUd0R2dyblRZLTQxa056cUU1V25TcFpyNGNwSkcwNnhrMEw5LTFfdllZbXByeDJNd0N3cnRBVXNGckQ2UkM0UVlmaHpWdk1MaW1pS2VIaE96bGRlUEFyU2daSmNnV0k5MTkxb1dmRlN0RFB5YTZqR3RYT2NMRmoyWlZhWlFGTzVjVzE0SkI1OGc?oc=5" target="_blank" rel="noopener">Warsh promises inflation will be a &#x27;thing of the past,&#x27; cites benefits of AI investment boom - CNBC</a>
+  <span class="summary"></span>
+  <span class="source">CNBC</span>
+</div><div class="item" title="Watch: Fed Chair Kevin Warsh Testifies Before House Finance Committee - WSJ — ">
+  <span class="time">07/14 17:12</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiywFBVV95cUxPekc1R3RhSmx6dFFkUFZwTnJocUVlMm5CMllvdDJfZ25fYTd2eUMwbThEcTJ6MzJFNk9mZDJpQWdtQnR1OXRFRk9GR3MyREZhUl9hVXlqLVpWbDZkczlHSHhic0pVM01qekUwc2FhLUEyb1otaTJEdXNGY1l5bjJvYVJqUmVLalpnQVZNbUFia2Fnd0NHTl9fZ2hLUUdwckc5dXh2M2RWWGExUVBqUllQcGZUV0FSNGNRZnItbmsyeTBXcE1hWldvekVtOA?oc=5" target="_blank" rel="noopener">Watch: Fed Chair Kevin Warsh Testifies Before House Finance Committee - WSJ</a>
+  <span class="summary"></span>
+  <span class="source">WSJ</span>
+</div><div class="item" title="WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in House hearing - PBS — ">
+  <span class="time">07/14 07:26</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMitwFBVV95cUxNNGoza1B1bFlYakZUZTlfMDZXQW5lak5PUUJmazNOUTZXdzZsb0ZfaUdNRmRZSmRHQmVLM1YweXBYaG5QWko3UE9pWk13MThsazJXZnAxZXQzdjFBNS1JQndtTU5WYzNjbExBWFVmaHRiUGlzNVB6WW9yTmdwQWdyWGNvWktMMWpQcXZrVWFtVGxwYW5WUEY1WEhJUWw2MTFfaFFBREMxQkVfUmx6WGVsNzZoU1AwYjjSAbwBQVVfeXFMTmJaLU9CcDhYZjVFbnJ1OEk5MFdNTzNNNlNQcjZTNnBndmtVMUFaaGVhYVZaR05MMnVKekp6NmlLdXZRbUwyUEdmLUZvT3h1bkVsVEZoR0k3MFN2QXIxTmY5bUtPdVVBODgwMHBiSDlqbl96VU9xSHppMGY4Q1M1VTVRVXl3VldVQ1dMTHoxNndVcDd5VEUySWZhSmU1RWtsSVpvUFVWWkI5T3Bfdy1FWHN2Zy1GT0R4UnhmN1M?oc=5" target="_blank" rel="noopener">WATCH LIVE: Fed chair Kevin Warsh testifies on monetary policy in House hearing - PBS</a>
+  <span class="summary"></span>
+  <span class="source">PBS</span>
+</div><div class="item" title="Fed chair Kevin Warsh promises to defeat five years of elevated inflation in Congress debut - qz.com — ">
+  <span class="time">07/14 21:44</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBwMzZqMkw3SGI5ZnRWcjFaeUlPbGJMdUxFMzkyeDIyWkRCRFBqczJDaVJQWEs2X0lJdURSLXdFa0plSEo2S3RDcXZTclY0TlpsdGlKU3UzZGI2SkxkSk94RHVDdERqYW9XM1U5cWpUVjRsTlpxUkQxeDJObEw?oc=5" target="_blank" rel="noopener">Fed chair Kevin Warsh promises to defeat five years of elevated inflation in Congress debut - qz.com</a>
+  <span class="summary"></span>
+  <span class="source">qz.com</span>
+</div><div class="item" title="Warsh says Fed has &#x27;no tolerance&#x27; for high inflation but provides no hints on next move - The Washington Post — ">
+  <span class="time">07/14 21:51</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiygFBVV95cUxOeW9rODFxb3RNdDZuUlRSdVNHOEdMdmVIY3JQakt0OFU2b0hWRmFwcjBXMU9YNGtMVU42Yjcxb0hMcTdnOWxWZ0prSFI5SEhkaEhwVkJpbGUyVE9nNU9vc1B3RGliWU1Cd0NKdnJUZ3RtNlpwbGU2cVp1YktSMVVmUGFfZUVjeUtSNHdFQVNLb2RkWnRYYXhObHctLXpBeEttOUhwRThvMmY5bjJ0WHZJZzJxN2ZUOWF1TmVXM0pwMHhkMnFxM01qd1l3?oc=5" target="_blank" rel="noopener">Warsh says Fed has &#x27;no tolerance&#x27; for high inflation but provides no hints on next move - The Washington Post</a>
+  <span class="summary"></span>
+  <span class="source">The Washington Post</span>
+</div><div class="item" title="워시 美 연준 의장 &quot;높은 인플레 절대 용납 못해&quot; - 네이트 — ">
+  <span class="time">07/14 22:13</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzNGtJbkVtd1hfd0pfZGtfUm1uZ1JaNHI4RnE4LTloX3pZZGoxWGxHZDdBek54V2QzNjFaNDhYZXZvTE54LXV4YmFoaEJUZzZSNFNB?oc=5" target="_blank" rel="noopener">워시 美 연준 의장 &quot;높은 인플레 절대 용납 못해&quot; - 네이트</a>
+  <span class="summary"></span>
+  <span class="source">네이트</span>
+</div><div class="item" title="[코인 시황] 비트코인, &#x27;운명의 일주일&#x27;…美 CPI·연준·트럼프 리스크에 향방 갈린다 - 네이트 — ">
+  <span class="time">07/14 18:31</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoRUE4OFlMejRlTTVuRWtCOVNScS1xYmdrOW1kcldjRDkzY1hjQ0tYOUpna0hDNlhwTWFHaXhYbGlFNFc4RDRBN2ZoTXhhMVA5ckxN?oc=5" target="_blank" rel="noopener">[코인 시황] 비트코인, &#x27;운명의 일주일&#x27;…美 CPI·연준·트럼프 리스크에 향방 갈린다 - 네이트</a>
+  <span class="summary"></span>
+  <span class="source">네이트</span>
+</div><div class="item" title="Short-Dated Yields Hit One-Month High as Trump Trade Blockade and Hawkish Fed Reshape Rate Bets - CryptoRank — ">
+  <span class="time">07/14 19:30</span>
+  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMTk0ZllGVG8zMXNTcHVCNlE0aGdfZnUxcm9jbTgzNUVoYWhkaWJYdmJ0V0VKaUhQVFU0V1EtYzVtQXNiTUNNTHBqU2xzMllfNkVkSlpVX1FJaHExdVBQazlNYmZiMEI4bzU2QU5xRkFkeHdkeUYtd2NWSjBnNVdyRmM4MkhjeEhu?oc=5" target="_blank" rel="noopener">Short-Dated Yields Hit One-Month High as Trump Trade Blockade and Hawkish Fed Reshape Rate Bets - CryptoRank</a>
+  <span class="summary"></span>
+  <span class="source">CryptoRank</span>
+</div><div class="item" title="&quot;日정부, 시장 동요에 경제 기본정책 결정 일정 연기&quot; - 네이트 — ">
+  <span class="time">07/14 09:27</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zYU5IaUhfNUd0Qm9ZdzR1SHlveUVuQjRRbC1QTG1hQmpvM19sbV9LSllrWjRtckpVUkU3Z2Z1bHZEazVqdUZPVlI0akRST3ctOTg0?oc=5" target="_blank" rel="noopener">&quot;日정부, 시장 동요에 경제 기본정책 결정 일정 연기&quot; - 네이트</a>
+  <span class="summary"></span>
+  <span class="source">네이트</span>
+</div><div class="item" title="6월 외국인 307억달러 순유출…환율은 1501.4원 유지 - 네이트 — ">
+  <span class="time">07/14 12:03</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE12OVhGNWNvdENtUnBoem4zX3dCRW85Qk9LNktxVjhHSGlsTGxPWXRxRjEycG4xclpqc2Q4d2R4RVZ1a1lQaXNkT1d0SFJubGp4Mkw4bW1RUlVWSU9BSmgxaw?oc=5" target="_blank" rel="noopener">6월 외국인 307억달러 순유출…환율은 1501.4원 유지 - 네이트</a>
+  <span class="summary"></span>
+  <span class="source">네이트</span>
+</div><div class="item" title="[도쿄증시-마감] 오후장서 상승폭 확대…국채금리 일제히 하락 - 연합인포맥스 — ">
+  <span class="time">07/14 17:51</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBoWWhfN2tMckhpeFhGMkxVTGZXMG85VUJBdFVFYUlveUJhcDNkVDZiNXNwNkd5bThYWHNaZzBZVHMtVGZ3U0FCNXlBWTN4TFpCbkFFT3NxSVJmYnRBbzZBRVZFdzUxMjFtTGZoNkw3NlQ?oc=5" target="_blank" rel="noopener">[도쿄증시-마감] 오후장서 상승폭 확대…국채금리 일제히 하락 - 연합인포맥스</a>
+  <span class="summary"></span>
+  <span class="source">연합인포맥스</span>
+</div><div class="item" title="일본 국채, 1996년 이후 최고치 폭등...9.3조엔 역대급 자금 유입 - 코인리더스 — ">
+  <span class="time">07/14 21:00</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE05aF9xa3RlRGVvQzJ5dHlVZmdYbk5ud0NLOENfM041MFdKak5taXBZTTdwajdxUmJQallKa2ZZUzVlQnZiaFd5Y0FB?oc=5" target="_blank" rel="noopener">일본 국채, 1996년 이후 최고치 폭등...9.3조엔 역대급 자금 유입 - 코인리더스</a>
+  <span class="summary"></span>
+  <span class="source">코인리더스</span>
+</div><div class="item" title="&quot;시장 동요에 日정부,경제 기본정책 결정 일정 연기&quot; - v.daum.net — ">
+  <span class="time">07/14 09:36</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiRkFVX3lxTE42ZFo3UWVGZ2x3X2JYX1p2UHdYdlB0Y1U1OGFCeURfbF9VZEtObW1JLXFldTBfYnc4OThoUnhnZTdxVUxvRGc?oc=5" target="_blank" rel="noopener">&quot;시장 동요에 日정부,경제 기본정책 결정 일정 연기&quot; - v.daum.net</a>
+  <span class="summary"></span>
+  <span class="source">v.daum.net</span>
+</div><div class="item" title="자금세탁 방지 관련 법적 체계의 허점을 해결합니다. - Vietnam.vn — ">
+  <span class="time">07/14 19:18</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNSmVuUGhLbU5ZcUxEd2RnMzFvUjBEQnhZRDVEWkpwaWJZZFpMeVpHWEF5QjFkY1lUYzluUlN0b3d6dFZJT0dKTWFkRDlqcjRUbHhBdk0tQkJtXzhCLVlKTDNkRzF3M01ib3pwTVo1ZU53Z040a1BhekpWUTRiSnFYZ0dwRklxOE01R0FsQ2hMVzdiMExqcVhuRA?oc=5" target="_blank" rel="noopener">자금세탁 방지 관련 법적 체계의 허점을 해결합니다. - Vietnam.vn</a>
+  <span class="summary"></span>
+  <span class="source">Vietnam.vn</span>
+</div><div class="item" title="미국 국채금리 상승·달러 강세 지속···환율 소폭↓ - 더리포트 — ">
+  <span class="time">07/14 15:07</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMibkFVX3lxTE1jUFlNRUk1ejRoSzRyeTZiNy1lWTlYUkxXbzdWNkphdUJUekhjMjJ6MXQ4QXdwUnVoZS1heW9lUXhlMEZBZHdDRnBOaVZKSE03T0pzTjhwRllObGxrb0VVYV81aXJDUjRteDl6REVB?oc=5" target="_blank" rel="noopener">미국 국채금리 상승·달러 강세 지속···환율 소폭↓ - 더리포트</a>
+  <span class="summary"></span>
+  <span class="source">더리포트</span>
+</div><div class="item" title="토스뱅크, 해외송금 수수료 면제 2026년 말까지 연장…10개 통화로 확대 - 더게이트 — ">
+  <span class="time">07/14 10:20</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JOWFCNUhsbEFiTEExMFQ3RG5iVTJJb21JYlJOSkd1MVhXNlN6cW1rQlNjbzVZQTc0TG1QQWVZS0ZKRGFCbVppbTYzb1J6QldvdDVDc2RBNGxLMFFma3NYLXU3cG1JVG5E0gFsQVVfeXFMT014OHJEb19hLVhiVldHVklDWkhRc3VLc0M2QjdkU1RHdHhzZGtFMm90cHZVV2FUNlJYTFIyY2RVbEtpTGVQX25NRG5yWURJR1pDTkJNZlVpMDduZ3VDYTBtSzVhYmVpUURnaTdF?oc=5" target="_blank" rel="noopener">토스뱅크, 해외송금 수수료 면제 2026년 말까지 연장…10개 통화로 확대 - 더게이트</a>
+  <span class="summary"></span>
+  <span class="source">더게이트</span>
+</div><div class="item" title="7월 14일 오전, 베트남 중앙은행은 기준환율을 25,225 VND로 발표했습니다. - Vietnam.vn — ">
+  <span class="time">07/14 12:19</span>
+  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxQVElvc1JhbVRpNnU5UjdKZzJhLUhGVDVPcWtjTWNHZDFXbnNqRHlaczA3bnA5NXBlNnNOLXpFai1RRDB2Z0U5TUM3RlJ0NFA2R2pQOElRNDJoc3JuQ2tCTHEyNWw0cjVDTVlhZlNZb1ZtQy1BbGpkT2ZrR0ZCNHBtTkNXdkN6MFRRT0FGTA?oc=5" target="_blank" rel="noopener">7월 14일 오전, 베트남 중앙은행은 기준환율을 25,225 VND로 발표했습니다. - Vietnam.vn</a>
+  <span class="summary"></span>
+  <span class="source">Vietnam.vn</span>
+</div><div class="item" title="Federal Reserve Chair Kevin Warsh delivers first semiannual monetary policy testimony to Congress - Crypto Briefing — ">
   <span class="time">07/14 21:54</span>
   <span class="tag" style="background:#63992222;color:#639922">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGlUa2xwWklMX0lJWlZtdlFsOGlsamo0SDJwNjc2WTFQSnhfS2JQc181azh5cGIwcUZXeDhUNTFKSloyaXhTWEhVSGgzTlNtUDJXU2JuRkdlcjlXNS1ma2FuNEhGNGRhWjF3azlia3V5RzRwVjU3b2loSmRmemRQd2tmY0Z5dWM?oc=5" target="_blank" rel="noopener">Federal Reserve Chair Kevin Warsh delivers first semiannual monetary policy testimony to Congress - Crypto Briefing</a>
@@ -813,120 +934,6 @@
   <a class="headline" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQMVFBaGlfUGZKREJ6UWtwcjcyT1ZiZVROaEtIZUg0R25BQVd3SFZPX2UxX1BfWUtEWDFmRE90emhEWk1pT1lsRUpPa0QzRHpYN1E4X0J4YTJZZDJ6UmdzWERXdGxGZWZRQ1pXU0FONnVFa0R2aHU1T2dKUW9NMkVxbjdUbjRXWEl2dlk1TVRoeVE0Y0kzcVkzcXFB?oc=5" target="_blank" rel="noopener">The Federal Reserve has nearly a 50% chance of raising interest rates this month! Are global markets really panicking this time? - 富途牛牛</a>
   <span class="summary"></span>
   <span class="source">富途牛牛</span>
-</div><div class="item" title="Japan’s bond market is back in play after decades in the wilderness - CNBC — ">
-  <span class="time">07/14 08:19</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBlT0JFa3BhdEd3MVNaaXQwLUw5SlF1VHI4NU1NbVZielR6Z3NXQUxMckh2UnBiUVFfcWhFLTFKSUVJLU9sUUJic1gxMUh6RTRmWEFTWGRXeVVING5nNHN1Wm9JX2EzdlRJdzhN0gFwQVVfeXFMTWJGZjNXLTNDczJYXzZOVjhVdERUS05EclVZMHhSS2xHdGtNNEFpQmIwbVhQZXRfbUlhRnlfNTdwTy16SG9WQ0NqcG9jU2lkVFpOZnBWWFBPYlRmSFVpcE9lUW1fUWp3V091RHFnbHk3Mg?oc=5" target="_blank" rel="noopener">Japan’s bond market is back in play after decades in the wilderness - CNBC</a>
-  <span class="summary"></span>
-  <span class="source">CNBC</span>
-</div><div class="item" title="Weekly market commentary - BlackRock — ">
-  <span class="time">07/14 15:57</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5" target="_blank" rel="noopener">Weekly market commentary - BlackRock</a>
-  <span class="summary"></span>
-  <span class="source">BlackRock</span>
-</div><div class="item" title="Global interest rate &#x27;great reset&#x27; storm sweeps Japan: JGB yields hit a 30-year high, BlackRock warns of crowded yen short positions - Moomoo — ">
-  <span class="time">07/14 14:50</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOWGZNQ2FXbnJwaHJnOXpscTRGdm96eWlSQTJ3VDdwZU5TRlFJb1F3YW5ZSWRSUHNDS3JrWG4zeU81QmRYRUloWEs5U3IyRVZEcnlTanpkNlM4TUNqMEhVNG9na3ZoX0t2QjM4ZWlRSXk2SzQ3ME1ZcEowQ1UzWm0wbF9EdWFVb1BKNXRxcUN6X2piNEFJRU1qN3ptQ1JndnFhZ0pxMlBTdw?oc=5" target="_blank" rel="noopener">Global interest rate &#x27;great reset&#x27; storm sweeps Japan: JGB yields hit a 30-year high, BlackRock warns of crowded yen short positions - Moomoo</a>
-  <span class="summary"></span>
-  <span class="source">Moomoo</span>
-</div><div class="item" title="Japan 10-Year Yield Resumes Decline - TradingView — ">
-  <span class="time">07/14 11:28</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNM0cyU05scE9TOWwyU1FUZXBZaVZiakdDbmtBbjV4YnJNWklwVWI4dEVNNTlLd1pnSzV5Qmdmaklid3FZNE90VllDcVpBSjg4Mm5YYVRNWDluOUJpb1FjZDNDVlEteDdReGtWVXNzck1YRUkzR1g0eUlYWGZfTmpHMGs2S2xPM29rUFozOF9TYw?oc=5" target="_blank" rel="noopener">Japan 10-Year Yield Resumes Decline - TradingView</a>
-  <span class="summary"></span>
-  <span class="source">TradingView</span>
-</div><div class="item" title="Japan&#x27;s long-term bond yields sink on pension shift hopes - Breakingthenews.net — ">
-  <span class="time">07/14 16:39</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxOXy1DQkJfOVJQc1U5eE1sWlBUVGtwUk85WEtPRC1YNWQzSUQ0TjhScmZ3UDRpY25CampUUU9JMmtxVTVVWTdSM0NPVWxEVk5xYmUzOGExa3hxTTg4cW1vb19nNHZCUllyczRBS3FVcERvUlVMM3MzQUpoYzVYY1hDblpWNnBVb2VYODJBRkpaYlpMVUZ0VHlOLTZpcTUwY256ZGJ1NlJHMUQtelY1SkkxcnkwWmEzYm1x?oc=5" target="_blank" rel="noopener">Japan&#x27;s long-term bond yields sink on pension shift hopes - Breakingthenews.net</a>
-  <span class="summary"></span>
-  <span class="source">Breakingthenews.net</span>
-</div><div class="item" title="Contradictory Signals From BOJ and Takaichi Government Rattle Bond, Currency Markets - JAPAN Forward — ">
-  <span class="time">07/14 08:15</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWEtJOUtHenFDTFgycnpfQm0xcERselhzNmVDQTI2ZGNzNmk2bi1IcGZoVDR5bFFYMmgzWEpRYWlqNFh1d1dZY0JCU2JHd1N5UXR1elVSeWR6ZlNCVFJYRlpfd2lkOV9FVzUxMG5rbWRYd2hDRVZtS1U0N3BkZjIwT01xTUhsVnh1ZGNv?oc=5" target="_blank" rel="noopener">Contradictory Signals From BOJ and Takaichi Government Rattle Bond, Currency Markets - JAPAN Forward</a>
-  <span class="summary"></span>
-  <span class="source">JAPAN Forward</span>
-</div><div class="item" title="Japan&#x27;s 20-year bond auction sees strong demand amid elevated yields, sending ripple effects through crypto markets - Crypto Briefing — ">
-  <span class="time">07/14 12:55</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE93ajJOdkJTR2VHbkRKbjJVcHVNSGQxVDZIVVlaeHMtbFo0RWxKN2ttMkhwNHdhUVJuVUZLb003MmdJX2pacFYtZTZMVjBuQ3FWcUUtbWZURlE1Ulo3bzlvY2czU21FWk8zRkVCT0Z1UGJldm03Szk4?oc=5" target="_blank" rel="noopener">Japan&#x27;s 20-year bond auction sees strong demand amid elevated yields, sending ripple effects through crypto markets - Crypto Briefing</a>
-  <span class="summary"></span>
-  <span class="source">Crypto Briefing</span>
-</div><div class="item" title="Will Japanese government bonds see stabilizing buying? Societe Generale estimates GPIF could purchase up to USD 76 billion more; Deutsche Bank calculates inflows of USD 90 billion. - 富途牛牛 — ">
-  <span class="time">07/14 12:59</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMivgFBVV95cUxOeUtnWFlXSXg0RGFQbWxjSlU4VVFvZTJRQnFDTFZjc0VMbHVkRTRIZnZpNWxScUdhZ0Q4OVJCbXlnelZ3bl9fdS1qa2p1YjdRMTBQbnA1bDRmV09DM3ZrLXRvbWhTZnZFNHNiR3hma1RTZ2ZfRHZtaWl1Z2RHSVJCVFdSd05Xd0JscjNJbTdIVXpGV1Q2UUVKZUhFZFFOckhQeVlzaUoxTGExcGluWmFXMlp6cG82MXFpaTgxVERB?oc=5" target="_blank" rel="noopener">Will Japanese government bonds see stabilizing buying? Societe Generale estimates GPIF could purchase up to USD 76 billion more; Deutsche Bank calculates inflows of USD 90 billion. - 富途牛牛</a>
-  <span class="summary"></span>
-  <span class="source">富途牛牛</span>
-</div><div class="item" title="Surging Japan yields cement global rate reset - BlackRock (EWJ:NYSEARCA) - Seeking Alpha — ">
-  <span class="time">07/14 03:06</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQRWxlMjA0V084TDdVWnotV0h2NGY0WEhkakxEZGxuX0NIY1h2QjY1aXpnMmV5NG82eEdMZllCWnNFNkdzUGpZa3dhQ09IemNYSnpabmVfNzVJdFF1eC02bE5UYlExODJnNFRyajdBT2lMS3hFZnExdlB4cm1QTWkycS1JbUI0MUFwZWZUQW9HZUc0MC1UcGg0cEd2dw?oc=5" target="_blank" rel="noopener">Surging Japan yields cement global rate reset - BlackRock (EWJ:NYSEARCA) - Seeking Alpha</a>
-  <span class="summary"></span>
-  <span class="source">Seeking Alpha</span>
-</div><div class="item" title="Japan bond market signals waning faith in inflation, government&#x27;s fiscal management - MSN — ">
-  <span class="time">07/14 06:26</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMi8gFBVV95cUxNZ1VnRGlGRXBTSGRUQTRSZnNjZ1FxQ3lGaG1ybl9ZcTlZV3lSMzNTOHhpVTJMU2lNSFhBZ2owd0s1UHJldllxV1RHTjVNazR2cnJIV2JSQkUyWmVKdFBBTnlqTGhDNVFlZlc2M2lXcHFDMUQ1cXlWdGtpbFlET2tDNDRCZGVEVGk1TzVaak5VOGcxYTJ1OVZaV3BHdVpxWjNJM0lGYUFPOEY3dTlCa0RsTndoRURNVG54LTAyTUJfX2lBWUtqOWlwR1k5WFlUak5sYXdxZTNKQU81UFZCNWh2S09BMVRjcVNKaHZ4Ry1iUUVPZw?oc=5" target="_blank" rel="noopener">Japan bond market signals waning faith in inflation, government&#x27;s fiscal management - MSN</a>
-  <span class="summary"></span>
-  <span class="source">MSN</span>
-</div><div class="item" title="&quot;20년간 외면받던 일본 국채의 귀환&quot;…&#x27;금보다 낫다&#x27;는 월가, 왜 주목하나 - 뉴스핌 — ">
-  <span class="time">07/14 19:48</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBqYy14NEJvQkY0dlpkRmMtcUlpQ2VmMTYxMFB5UGd2anNjbzRVbzl6dWVrcnBQNUJFMDQ0bFNydGNFUWZydm02ZmtCeDE0OGxhVG1sNmxQTDRxTEd3?oc=5" target="_blank" rel="noopener">&quot;20년간 외면받던 일본 국채의 귀환&quot;…&#x27;금보다 낫다&#x27;는 월가, 왜 주목하나 - 뉴스핌</a>
-  <span class="summary"></span>
-  <span class="source">뉴스핌</span>
-</div><div class="item" title="[채권-마감] 日 국채 금리 급락에도 팽배한 금통위 경계 - 연합인포맥스 — ">
-  <span class="time">07/14 18:43</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Vkt2SmVpX0xwQUx4UkhSdF91R1ZYdVUzRHFEdldmVFUzUWRmeThObDFkdjJYQmtxYU9DaWZqZVN5YVFWYmVVTlJkSkIxSzlITjlYWUMyWmYwMzNBWlRBUVN4bERiclQzNUlYSWhCYjM?oc=5" target="_blank" rel="noopener">[채권-마감] 日 국채 금리 급락에도 팽배한 금통위 경계 - 연합인포맥스</a>
-  <span class="summary"></span>
-  <span class="source">연합인포맥스</span>
-</div><div class="item" title="중동 불확실성에도 글로벌 투자심리 유지…원·달러 환율 1,501.4원으로 하락 - the-news.co.kr — ">
-  <span class="time">07/14 17:30</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE1JYWNJN21pSFpxTERKenp0Qjc2dWpwUnV6djNZWWZXZkFHbFNHdVZsdnVTNlJyNkRzQWxaaVB6YnNYRk5nelJrcjIzb0RuaEtROTY3NUVjZ3Robmt3RGljeFgtY3JIUG9rdVpXTWZ5ONIBb0FVX3lxTE1JYWNJN21pSFpxTERKenp0Qjc2dWpwUnV6djNZWWZXZkFHbFNHdVZsdnVTNlJyNkRzQWxaaVB6YnNYRk5nelJrcjIzb0RuaEtROTY3NUVjZ3Robmt3RGljeFgtY3JIUG9rdVpXTWZ5OA?oc=5" target="_blank" rel="noopener">중동 불확실성에도 글로벌 투자심리 유지…원·달러 환율 1,501.4원으로 하락 - the-news.co.kr</a>
-  <span class="summary"></span>
-  <span class="source">the-news.co.kr</span>
-</div><div class="item" title="워시 연준 의장 &quot;인플레 반드시 잡는다…AI 투자가 미국 성장 이끌 것&quot; - 네이트 — ">
-  <span class="time">07/14 21:46</span>
-  <span class="tag" style="background:#63992222;color:#639922">Fed</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBoV24tbU9DZFRZdWVwZlBqTTFlN1VtWkt5Nkx5S2JycHhONmNyVnozUlEyajNaaTBLbFlxNVFJMll5NmRXTVpxb0xYeURNTDVPS1Ew?oc=5" target="_blank" rel="noopener">워시 연준 의장 &quot;인플레 반드시 잡는다…AI 투자가 미국 성장 이끌 것&quot; - 네이트</a>
-  <span class="summary"></span>
-  <span class="source">네이트</span>
-</div><div class="item" title="GPIF 발언에 20년물 흥행까지…日 금리 전 구간 하락 - KB Think — ">
-  <span class="time">07/14 13:09</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBhYkREVnItYTJ1YjN3bkM5bkF4eXNvc09iaThfaXlZQXhUM0ZqVkp2U2NyZk42N0NIU3hDWnVWNW1XRzRHcXhCbmt2dGRUR1RidkdUZlB3SnVjQlliS2x1NFhYRVh4ZEstVDQxcW9qV21QZw?oc=5" target="_blank" rel="noopener">GPIF 발언에 20년물 흥행까지…日 금리 전 구간 하락 - KB Think</a>
-  <span class="summary"></span>
-  <span class="source">KB Think</span>
-</div><div class="item" title="시장에 밀린 日정부…호네부토 방침 확정 미루고 문구 수정 - 아주경제 — ">
-  <span class="time">07/14 17:46</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1leloxTHNtbVBDNHh5cE9lV2RrUTI4cjQwYjVGRWxHdUNvTDdXNWxkaF95ZTRVV0J4X2JQY202MmdLNGNyMU13UWp4anhOWjFjd0tSNl9BMDLSAVhBVV95cUxNZXpaMUxzbW1QQzR4eXBPZVdka1EyOHI0MGI1RkVsR3VDb0w3VzVsZGhfeWU0VVdCeF9iUGNtNjJnSzRjcjFNd1FqeGp4TloxY3dLUjZfQTAy?oc=5" target="_blank" rel="noopener">시장에 밀린 日정부…호네부토 방침 확정 미루고 문구 수정 - 아주경제</a>
-  <span class="summary"></span>
-  <span class="source">아주경제</span>
-</div><div class="item" title="&quot;시장 동요에 日정부,경제 기본정책 결정 일정 연기&quot; - v.daum.net — ">
-  <span class="time">07/14 09:36</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwVDROMEJaTFBRd0hqOEpBcWwtWXdBNlFsenIzY2RBU0o0c0d4cmhCeXNpa1JHV2ZBMnI4X0l5bTJTZ2d5cTc4YUpxWFd3dzQ?oc=5" target="_blank" rel="noopener">&quot;시장 동요에 日정부,경제 기본정책 결정 일정 연기&quot; - v.daum.net</a>
-  <span class="summary"></span>
-  <span class="source">v.daum.net</span>
-</div><div class="item" title="&quot;日 국채, 금리 상승으로 수십년 만에 투자 매력 회복&quot; - 연합인포맥스 — ">
-  <span class="time">07/14 11:17</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE01QkVlQ3ppdkFsVDFwNzFuX0pTNVZhVUxaOXI2WFZJMl80TGQyQ2hVTUNVck9IeUc4STgyeDA3eGozLUJRd2kxWnJYdldEV25hdUhwMkEtLXBTMkh5MWlVTlZlN052WW84Sml2THRqRm4?oc=5" target="_blank" rel="noopener">&quot;日 국채, 금리 상승으로 수십년 만에 투자 매력 회복&quot; - 연합인포맥스</a>
-  <span class="summary"></span>
-  <span class="source">연합인포맥스</span>
-</div><div class="item" title="日정부, &#x27;일본은행 견제설&#x27; 재차 진화…&quot;금융정책 방향 제시안해&quot; - MSN — ">
-  <span class="time">07/14 02:09</span>
-  <span class="tag" style="background:#d4537e22;color:#d4537e">JGB</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMihwNBVV95cUxOUmlWT3dwbzdMZS1wdlNacUl6dnZGeDlaNHN5dEh2eEhvS2F0di1oVmRlZlh6T0ZMTmJfRUpQOVM2MkNWbVJHcWlwQWtnSnNSM1F3cENDVG9NcW42SzlGUDRKNUxHb1psYzY0U2g3dUVYNGhmSmFpclJDX3Z2cnh6aW1XWFRmc0FMRXl4NWtkV2hEaHlIY1owMmRNbUR3TFQ5SkxLRVFwRk1wbkZtdGZkVGdVRDZuNkZqNlpPbk5WcmJSdDVDd0VMVXNOZmN5S0RNcW5zRlUxWWtMRV9sRjFaLTkydTg4TlFhcGhrVHlHajMtWDRpUjNvZ0lIUkxOVXlwcVRoSUxIZXZsSmhfSjRMZjM2blB1dXpiSlhtVTZVUWRaWnpBV1huZEViWUFseTdFSnRmdHVvV0ZySUI5YXdGbDkyTFllNTBBYTZxaGx6UncwdnVXVEx4dzExX3ZId2tlLWlZUE55akozcEZFQW9RSUYzNlhDN25VWDBoT0l2OVZDTGxFYXVj?oc=5" target="_blank" rel="noopener">日정부, &#x27;일본은행 견제설&#x27; 재차 진화…&quot;금융정책 방향 제시안해&quot; - MSN</a>
-  <span class="summary"></span>
-  <span class="source">MSN</span>
 </div></div>
 </section>
 </div>
