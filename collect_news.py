@@ -1,7 +1,7 @@
 import json
 import os
 import time
-from datetime import timedelta, timezone
+from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from urllib.parse import quote
 
@@ -123,9 +123,12 @@ def save_json(path, obj):
 
 
 def summarize(title: str, snippet: str) -> str:
-    """Claude API로 1~2문장 한국어 요약. 키가 없으면 원문 스니펫을 그대로 사용."""
+    """Claude API로 1~2문장 한국어 요약.
+    Google News RSS의 snippet 필드는 실제 기사 요약이 아니라
+    '<a href=...>제목</a> 출처' 형태의 HTML 링크뿐이라, API 키가 없으면
+    의미 없는 텍스트를 억지로 보여주는 대신 요약을 비워둔다."""
     if not ANTHROPIC_API_KEY:
-        return snippet[:120] if snippet else title
+        return ""
 
     try:
         resp = requests.post(
@@ -256,7 +259,7 @@ def main():
 
         data["categories"][cat_key] = merged
 
-    data["updated_at"] = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(now))
+    data["updated_at"] = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M:%S")
     save_json(DATA_FILE, data)
 
 
