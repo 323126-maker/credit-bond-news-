@@ -2,7 +2,7 @@ name: credit-bond-news-update
 
 on:
   schedule:
-    - cron: "*/15 * * * *"   # 15분마다 (UTC 기준 주기, 5분 미만은 GitHub가 무시함)
+    - cron: "*/10 * * * *"   # 10분마다 (UTC 기준 주기, 5분 미만은 GitHub가 무시함)
   workflow_dispatch: {}       # Actions 탭에서 수동 실행 버튼
 
 permissions:
