@@ -163,12 +163,13 @@ def main():
   .chip b {{ color: var(--text); font-weight: 600; }}
   .dot {{ width: 7px; height: 7px; border-radius: 50%; display: inline-block; }}
   .grid {{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
     gap: 12px;
   }}
   @media (max-width: 760px) {{
-    .grid {{ grid-template-columns: 1fr; }}
+    .card {{ width: 100% !important; resize: none !important; }}
   }}
   .card {{
     background: var(--panel);
@@ -176,8 +177,14 @@ def main():
     border-top: 3px solid;
     border-radius: 10px;
     padding: 10px 14px 6px;
+    flex: 0 0 auto;
+    width: calc(50% - 6px);   /* 기본 폭. 카드 우측 모서리를 가로로 드래그하면 폭 조절 가능 */
+    min-width: 260px;
+    max-width: 100%;
+    overflow: hidden;
+    resize: horizontal;
   }}
-  .card.full {{ grid-column: 1 / -1; }}
+  .card.full {{ width: 100%; resize: none; }}
   .card-head {{
     display: flex;
     align-items: center;
