@@ -1,0 +1,35 @@
+name: credit-bond-news-update
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"   # 15분마다 (UTC 기준 주기, 5분 미만은 GitHub가 무시함)
+  workflow_dispatch: {}       # Actions 탭에서 수동 실행 버튼
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - run: python collect_news.py
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+
+      - run: python render_page.py
+
+      - name: Commit updated data + page
+        run: |
+          git config user.name "credit-bond-news-bot"
+          git config user.email "credit-bond-news-bot@users.noreply.github.com"
+          git add data.json index.html
+          git diff --quiet --cached || git commit -m "auto-update news"
+          git push
