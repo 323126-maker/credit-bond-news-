@@ -194,13 +194,16 @@ def main():
   .item-list {{
     display: flex;
     flex-direction: column;
-    max-height: 420px;   /* 이 값만 바꾸면 카드 높이 조절 가능 */
-    overflow-y: auto;
+    height: 420px;      /* 기본 높이. 사용자가 우측 하단을 드래그해서 직접 조절 가능 */
+    min-height: 80px;
+    overflow: auto;
+    resize: vertical;   /* 카드 우측 하단 모서리를 드래그하면 높이 조절됨 */
   }}
   .item {{
     display: flex;
-    align-items: flex-start;
-    gap: 8px;
+    align-items: baseline;
+    flex-wrap: wrap;
+    gap: 4px 8px;
     padding: 6px 0;
     border-bottom: 1px solid var(--border);
   }}
@@ -223,8 +226,8 @@ def main():
     white-space: nowrap;
   }}
   .headline {{
-    flex: 1 1 55%;
-    min-width: 0;
+    flex: 0 1 auto;
+    max-width: 100%;
     color: var(--text);
     text-decoration: none;
     font-weight: 500;
@@ -234,19 +237,20 @@ def main():
   }}
   .headline:hover {{ color: var(--accent); text-decoration: underline; }}
   .summary {{
-    flex: 1 1 40%;
+    flex: 0 1 auto;
+    max-width: 45%;
     min-width: 0;
     color: var(--muted);
     font-size: 12px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
-    overflow-wrap: anywhere;
     padding-top: 1px;
   }}
   .source {{
     flex: 0 0 auto;
     max-width: 90px;
+    margin-left: auto;
     color: var(--muted);
     font-size: 11px;
     white-space: nowrap;
