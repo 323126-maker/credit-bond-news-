@@ -87,6 +87,8 @@
     min-height: 80px;
     overflow: auto;
     resize: vertical;   /* 카드 우측 하단 모서리를 드래그하면 높이 조절됨 */
+    border-bottom: 2px dashed var(--border);
+    padding-bottom: 10px;
   }
   .item {
     display: flex;
@@ -139,23 +141,23 @@
   .source {
     flex: 0 0 auto;
     max-width: 90px;
-    margin-left: auto;
     color: var(--muted);
     font-size: 11px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }
+  .source::before { content: "· "; }
   .empty { color: var(--muted); font-size: 12px; margin: 4px 0 8px; }
 </style>
 </head>
 <body>
 <div class="topbar">
   <h1>Credit &amp; Bond News</h1>
-  <span class="updated">마지막 업데이트 2026-07-14 22:16:53</span>
+  <span class="updated">마지막 업데이트 2026-07-14 22:24:17</span>
 </div>
 <div class="chips">
-<div class="chip"><span class="dot" style="background:#5b8dee"></span>Credit Watchlist (보유종목) <b>0</b></div><div class="chip"><span class="dot" style="background:#e0664f"></span>크레딧 이슈 <b>18</b></div><div class="chip"><span class="dot" style="background:#f0a84c"></span>신종자본증권 <b>12</b></div><div class="chip"><span class="dot" style="background:#e05a5a"></span>크레딧 <b>14</b></div><div class="chip"><span class="dot" style="background:#3fc48a"></span>채권정책 · 추경 <b>15</b></div><div class="chip"><span class="dot" style="background:#9b7de8"></span>정책 발언 (대통령실 등) <b>22</b></div><div class="chip"><span class="dot" style="background:#4fb8b0"></span>글로벌 채권이슈 <b>40</b></div>
+<div class="chip"><span class="dot" style="background:#5b8dee"></span>Credit Watchlist (보유종목) <b>0</b></div><div class="chip"><span class="dot" style="background:#e0664f"></span>크레딧 이슈 <b>18</b></div><div class="chip"><span class="dot" style="background:#f0a84c"></span>신종자본증권 · 콜옵션 미행사 <b>12</b></div><div class="chip"><span class="dot" style="background:#e05a5a"></span>크레딧 경색 <b>14</b></div><div class="chip"><span class="dot" style="background:#3fc48a"></span>채권정책 · 추경 <b>15</b></div><div class="chip"><span class="dot" style="background:#9b7de8"></span>정책 발언 (대통령실 등) <b>22</b></div><div class="chip"><span class="dot" style="background:#4fb8b0"></span>글로벌 채권이슈 <b>40</b></div>
 </div>
 <div class="grid">
 <section class="card full" style="border-top-color:#5b8dee">
@@ -280,7 +282,7 @@
 </div></div>
 </section><section class="card" style="border-top-color:#f0a84c">
   <div class="card-head">
-    <h2>신종자본증권</h2>
+    <h2>신종자본증권 · 콜옵션 미행사</h2>
     <span class="count" style="background:#f0a84c22;color:#f0a84c">12</span>
   </div>
   <div class="item-list"><div class="item" title="포스코이앤씨, 4,000억 원 규모 신종자본증권 발행 결정...채무상환 자금 조달 - Investing.com 한국어 — ">
@@ -358,7 +360,7 @@
 </div></div>
 </section><section class="card" style="border-top-color:#e05a5a">
   <div class="card-head">
-    <h2>크레딧</h2>
+    <h2>크레딧 경색</h2>
     <span class="count" style="background:#e05a5a22;color:#e05a5a">14</span>
   </div>
   <div class="item-list"><div class="item" title="단기 자금시장 상반기 &#x27;1000조원&#x27; 육박…예탁원, 경기 불확실성에 초단기물 쏠림 심화 - catchnews.kr — ">
