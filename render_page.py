@@ -163,8 +163,11 @@ def main():
   .dot {{ width: 7px; height: 7px; border-radius: 50%; display: inline-block; }}
   .grid {{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-template-columns: repeat(2, 1fr);
     gap: 12px;
+  }}
+  @media (max-width: 760px) {{
+    .grid {{ grid-template-columns: 1fr; }}
   }}
   .card {{
     background: var(--panel);
@@ -190,11 +193,10 @@ def main():
   .item-list {{ display: flex; flex-direction: column; }}
   .item {{
     display: flex;
-    align-items: baseline;
+    align-items: flex-start;
     gap: 8px;
-    padding: 5px 0;
+    padding: 6px 0;
     border-bottom: 1px solid var(--border);
-    overflow: hidden;
   }}
   .item:last-child {{ border-bottom: none; }}
   .time {{
@@ -215,25 +217,25 @@ def main():
     white-space: nowrap;
   }}
   .headline {{
-    flex: 1 1 40%;
+    flex: 1 1 55%;
     min-width: 0;
     color: var(--text);
     text-decoration: none;
     font-weight: 500;
     font-size: 12.5px;
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
+    white-space: normal;
+    overflow-wrap: break-word;
   }}
   .headline:hover {{ color: var(--accent); text-decoration: underline; }}
   .summary {{
-    flex: 1 1 45%;
+    flex: 1 1 40%;
     min-width: 0;
     color: var(--muted);
     font-size: 12px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    padding-top: 1px;
   }}
   .source {{
     flex: 0 0 auto;
