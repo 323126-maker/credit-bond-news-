@@ -19,8 +19,8 @@ CATEGORY_ORDER = [
 CATEGORY_META = {
     "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#5b8dee", "full_width": True},
     "credit_issue": {"label": "크레딧 이슈", "color": "#e0664f"},
-    "perpetual": {"label": "신종자본증권", "color": "#f0a84c"},
-    "liquidity": {"label": "크레딧", "color": "#e05a5a"},
+    "perpetual": {"label": "신종자본증권 · 콜옵션 미행사", "color": "#f0a84c"},
+    "liquidity": {"label": "크레딧 경색", "color": "#e05a5a"},
     "policy": {"label": "채권정책 · 추경", "color": "#3fc48a"},
     "politics": {"label": "정책 발언 (대통령실 등)", "color": "#9b7de8"},
     "global_bond": {"label": "글로벌 채권이슈", "color": "#4fb8b0"},
@@ -198,6 +198,8 @@ def main():
     min-height: 80px;
     overflow: auto;
     resize: vertical;   /* 카드 우측 하단 모서리를 드래그하면 높이 조절됨 */
+    border-bottom: 2px dashed var(--border);
+    padding-bottom: 10px;
   }}
   .item {{
     display: flex;
@@ -250,13 +252,13 @@ def main():
   .source {{
     flex: 0 0 auto;
     max-width: 90px;
-    margin-left: auto;
     color: var(--muted);
     font-size: 11px;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
   }}
+  .source::before {{ content: "· "; }}
   .empty {{ color: var(--muted); font-size: 12px; margin: 4px 0 8px; }}
 </style>
 </head>
