@@ -81,6 +81,15 @@
   .yc-value { font-size: 17px; font-weight: 700; margin-top: 2px; }
   .yc-chg { font-size: 11px; font-weight: 700; margin-top: 1px; }
   .spark { width: 100%; height: 26px; margin-top: 4px; }
+  .yc-live-link {
+    display: block;
+    text-align: right;
+    font-size: 11px;
+    color: var(--muted);
+    text-decoration: none;
+    padding: 4px 12px 6px;
+  }
+  .yc-live-link:hover { color: var(--accent); text-decoration: underline; }
   .chips {
     display: flex;
     flex-wrap: wrap;
@@ -116,7 +125,7 @@
     border-radius: 12px;
     padding: 12px 16px 8px;
     flex: 0 0 auto;
-    width: calc(50% - 7px);   /* 기본 폭. 카드 우측 모서리를 가로로 드래그하면 폭 조절 가능 */
+    width: calc(50% - 7px);
     min-width: 260px;
     max-width: 100%;
     overflow: hidden;
@@ -145,7 +154,7 @@
   .item-list {
     display: flex;
     flex-direction: column;
-    height: 420px;      /* 기본 높이. 우측 하단 점선 부분을 드래그해서 조절 가능 */
+    height: 420px;
     min-height: 80px;
     overflow: auto;
     resize: vertical;
@@ -271,7 +280,7 @@
   .wl-item-list {
     display: flex;
     flex-direction: column;
-    max-height: 116px;   /* 대략 4줄. 더 있으면 스크롤 */
+    max-height: 116px;
     overflow-y: auto;
   }
   .wl-item {
@@ -304,7 +313,7 @@
     <h1>Credit &amp; Bond News</h1>
     <span class="tagline">채권·크레딧 뉴스 대시보드 · 총 186건</span>
   </div>
-  <span class="updated">마지막 업데이트 <b>2026-07-15 18:23:59</b></span>
+  <span class="updated">마지막 업데이트 <b>2026-07-15 19:12:56</b></span>
 </div>
 <div class="layout">
   <div class="main">
@@ -335,7 +344,7 @@
   <span class="yc-value">4.476%</span>
   <span class="yc-chg" style="color:#2f6fed">-1.5bp</span>
   <svg class="spark" viewBox="0 0 100 30" preserveAspectRatio="none"><polyline points="0.0,28.0 5.3,23.0 10.5,19.0 15.8,18.3 21.1,15.6 26.3,17.6 31.6,16.1 36.8,12.5 42.1,14.7 47.4,6.8 52.6,11.9 57.9,13.1 63.2,10.2 68.4,8.0 73.7,4.8 78.9,4.9 84.2,6.8 89.5,6.1 94.7,2.0 100.0,3.4" fill="none" stroke="#2f6fed" stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></svg>
-</div></div>
+</div></div><a class="yc-live-link" href="https://www.investing.com/rates-bonds/south-korea-government-bonds" target="_blank" rel="noopener">장중 실시간으로 보기 (investing.com) →</a>
     </div>
     <div class="chips">
     <div class="chip"><span class="dot" style="background:#2f6fed"></span>Credit Watchlist (보유종목) <b>35</b></div><div class="chip"><span class="dot" style="background:#d1553d"></span>크레딧·채권 <b>40</b></div><div class="chip"><span class="dot" style="background:#c2790f"></span>신종자본증권 <b>22</b></div><div class="chip"><span class="dot" style="background:#1a7f4b"></span>채권정책 · 추경 <b>31</b></div><div class="chip"><span class="dot" style="background:#7a56c9"></span>정책 발언 (대통령실 등) <b>18</b></div><div class="chip"><span class="dot" style="background:#0f8f85"></span>글로벌 채권이슈 <b>40</b></div>
@@ -346,62 +355,68 @@
     <h2>크레딧·채권</h2>
     <span class="count" style="background:#d1553d1a;color:#d1553d">40</span>
   </div>
-  <div class="item-list"><div class="item" title="삼닉 레버리지 파급력…회사채 시장도 타격 — ">
-  <span class="time">07/15 17:57<em>15분 전</em></span>
+  <div class="item-list"><div class="item" title="[채권-마감] 美CPI 호재 속 금통위 경계…커브 스팁 — ">
+  <span class="time">07/15 18:46<em>방금</em></span>
+  <span class="new-badge">NEW</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9KWnJNdjY3aUFuenN5Y2EtcjhsUnkyR3NmRFR1SWxtb1NXdkdyR2JxM3N4U3VIem53WGNFYXEyMXQzRFh0VG5vdTd0U05ieTRlRDlZNl9DanRMZTZObXQ1Q2NIMkctR2taQkF5czV1aUM?oc=5" target="_blank" rel="noopener">[채권-마감] 美CPI 호재 속 금통위 경계…커브 스팁</a>
+  <span class="summary"></span>
+  <span class="source">연합인포맥스</span>
+</div><div class="item" title="삼닉 레버리지 파급력…회사채 시장도 타격 — ">
+  <span class="time">07/15 17:57<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpU25xMHhKUmhzMExKQVVvYVMwY2NqLXJXZk9qVlhQWU5XTkpnblQwZ1c2Sm90Tk1LWjV5SnhMd0U0SmQ0WGotY0FQQmdDb3QtVXVJ?oc=5" target="_blank" rel="noopener">삼닉 레버리지 파급력…회사채 시장도 타격</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="JTBC 채권 피해 키운 주범, &#x27;안일함&#x27;이었다 — ">
-  <span class="time">07/15 17:17<em>23분 전</em></span>
+  <span class="time">07/15 17:17<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOb0cxR2h3MHJDRUxGWEk5ZjVPUllISXNBYXRUdkJkWG0ySFRKVUFMdC1FUENidjBQQzdpNHNHcXhhWXlfLUxnRTZDeXpGMjdYeWtwSnBMdU4?oc=5" target="_blank" rel="noopener">JTBC 채권 피해 키운 주범, &#x27;안일함&#x27;이었다</a>
   <span class="summary"></span>
   <span class="source">뷰어스</span>
 </div><div class="item" title="[강현철의 뉴스 솎아내기] 벼랑 끝 몰린 회사채 개인 투자자들 — ">
-  <span class="time">07/15 17:03<em>23분 전</em></span>
+  <span class="time">07/15 17:03<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LN2NvT1RWb1FJNGQ5enpqc2tNenNic2ZvYWZQaTZOWk1aa1ZQUnFfcEZjNW8tUl94RElhcVFaODQ2YjRlS1RsQWRWTnJmZnc?oc=5" target="_blank" rel="noopener">[강현철의 뉴스 솎아내기] 벼랑 끝 몰린 회사채 개인 투자자들</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="[채권마감] 전날 약세 일부 되돌림, 미국 물가 안도 — ">
-  <span class="time">07/15 16:50<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/15 16:50<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFSnpVMkJrUUNza0dPN2E5SklJNkhDUXRwWGpZZU9jbk8zZ3ZsRzRkSnRBTGUzbWRHQjl5a0JuQ3V1ZC1wa2dFa0N1WE5RbnNMQmc4?oc=5" target="_blank" rel="noopener">[채권마감] 전날 약세 일부 되돌림, 미국 물가 안도</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="[외환-마감] 약달러·외인 매수에 하이닉스까지…1,480원대로 하락 — ">
-  <span class="time">07/15 16:37<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/15 16:37<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE9UWDRjanZUSlFfd1ZUbTBZdzBMb29fSlBCdUV3aV83ZmhVc3d2MEZlanhwTGk0MlVOT3M1UEFUMFEzTTBNb2ZRMTdmVlNreFF3ZEY5UFh4cXFBNlVXZG43WmlHdjUyUWUtUGp3ZzI0SGhNZw?oc=5" target="_blank" rel="noopener">[외환-마감] 약달러·외인 매수에 하이닉스까지…1,480원대로 하락</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="SK하이닉스 환전 물량 또 나왔다…당분간 꾸준히 출회 예상 — ">
-  <span class="time">07/15 15:26<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/15 15:26<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE9fSEdkdm1QM0E0aWxDeDR0dFpYbVNBeVZnWmNwQ0RBZFBXOEx3MWFGMmpjRmh1NGI3RWpOZWRLTmcwd0pFeDlNeDFzY1ZubkgyYXZTN3NDcnduUThIQ1lITVdidDJPemdOZlIzZ3FaSGRJdw?oc=5" target="_blank" rel="noopener">SK하이닉스 환전 물량 또 나왔다…당분간 꾸준히 출회 예상</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="이복현 전면 등판…&quot;JTBC, 회사채 발행 전 자본잠식&quot; — ">
-  <span class="time">07/15 15:01<em>2시간 전</em></span>
+  <span class="time">07/15 15:01<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkQzZiVHVBVnhleHhuNXF3Y056cGZqX3VWRkxaOG96d2FfZ2dEYlVwelcxVjJ2MGt4T0RGcTh3eWhjYjJrTktjMWcya2NabzVWb3FZ?oc=5" target="_blank" rel="noopener">이복현 전면 등판…&quot;JTBC, 회사채 발행 전 자본잠식&quot;</a>
   <span class="summary"></span>
   <span class="source">경제타임스</span>
 </div><div class="item" title="금통위 앞두고 회사채 금리 연중 최고…기업 조달 부담 커졌다 — ">
-  <span class="time">07/15 14:51<em>2시간 전</em></span>
+  <span class="time">07/15 14:51<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTFBUZkhZUWdKSnU3S1RObWZMZVp5VU5SQ2RZa01wT09tcEJPY01qODhVNGliUXpHMTA2b0l2bHBOTWtFN00xbzBEeWNldTEwaUFhYVpPV2tZRzE4a1o1VXZWTjdlcThPRXZDcjIyaVREZ3JFQQ?oc=5" target="_blank" rel="noopener">금통위 앞두고 회사채 금리 연중 최고…기업 조달 부담 커졌다</a>
   <span class="summary"></span>
   <span class="source">마켓인</span>
 </div><div class="item" title="[미국 특징주] 골드만 삭스, 100억달러 회사채 발행에 수요 3배 몰려 — ">
-  <span class="time">07/15 13:23<em>2시간 전</em></span>
+  <span class="time">07/15 13:23<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE01VDZRNXQ2eVlFNUl1V1RkdWo5WVNtcEYwSm1TeDZyMjJLREdmMEdUek1qSnRfS1V2dlFTNUM1V1B5VlFQVmtQLVM2d3VzLWI1OWptd0FBYVJJdHdF?oc=5" target="_blank" rel="noopener">[미국 특징주] 골드만 삭스, 100억달러 회사채 발행에 수요 3배 몰려</a>
   <span class="summary"></span>
   <span class="source">뉴스핌</span>
 </div><div class="item" title="산불은 더 거세졌는데 보험료는 왜 떨어질까…재해채권 시장의 역설 — ">
-  <span class="time">07/15 13:00<em>2시간 전</em></span>
+  <span class="time">07/15 13:00<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PZG9DY2w2WmpKXzlkSGM5SU9wOVBzcWFBQk8wNXllR0tzOGdyR3dqNUpPSVVZTnRGMENGYUY4cnhmZnBYZTQweHBMTnlPa1pZMUV6Q0pCZG1yUQ?oc=5" target="_blank" rel="noopener">산불은 더 거세졌는데 보험료는 왜 떨어질까…재해채권 시장의 역설</a>
   <span class="summary"></span>
@@ -413,31 +428,31 @@
   <span class="summary"></span>
   <span class="source">Chosunbiz</span>
 </div><div class="item" title="(07/15) 장전 데일리 리포트(트럼프의 속내는 이겁니다) — ">
-  <span class="time">07/15 12:01<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/15 12:01<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNVFZXNXVadWtKYVVENWZqbWQySERHSVc4NHh5T3dFQ05FMlB0bU1LLUdFeEJKSG1ITlNBRDlsOVZVZHc1RzAySFdpNzU5ZkpKMnVqQndhMVZISUExUVlUNFRBbW1RbWFGUVNIWXJLYWZUTXZyUnRIVmY1Z01rdlk4dUhWUjJUV0hRdUYzTQ?oc=5" target="_blank" rel="noopener">(07/15) 장전 데일리 리포트(트럼프의 속내는 이겁니다)</a>
   <span class="summary"></span>
   <span class="source">네이버 프리미엄콘텐츠</span>
 </div><div class="item" title="&#x27;부정적&#x27; 꼬리표 단 롯데케미칼, 4월 이어 또 은행보증채 카드 — ">
-  <span class="time">07/15 10:28<em>7시간 전</em></span>
+  <span class="time">07/15 10:28<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMigwFBVV95cUxNekV4V1RvUVl1QkhxNUh1bV9rc0lMa0V2cFNtb2lnWVZCOFUtenVVb0VlQmo3N1JsUW1BSVZBQVlPOTQxRVlfb01jR2lndmdoRnRabjFKRl9VSGs2Z25oN2ZteXpScHpuZERzX0JKUHBBa282NHZQYmZQU2JacUowX05sMA?oc=5" target="_blank" rel="noopener">&#x27;부정적&#x27; 꼬리표 단 롯데케미칼, 4월 이어 또 은행보증채 카드</a>
   <span class="summary"></span>
   <span class="source">인베스트조선</span>
 </div><div class="item" title="상반기 국내 회사채 발행 규모 감소, 시장 금리 상승 영향 — ">
-  <span class="time">07/15 10:24<em>7시간 전</em></span>
+  <span class="time">07/15 10:24<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GVlZZV2FfMlBMb3lZc21iV1lpS3REVjh0TUpHUEZMWlJBMnZ5UklSbTVlUG9yajdMSXM3ay1UUjJQYmJ2bmNieGNIQ2J1V3c0UFcwaUZNVFY4Y1FLWFhHR19qZHFJV2cy?oc=5" target="_blank" rel="noopener">상반기 국내 회사채 발행 규모 감소, 시장 금리 상승 영향</a>
   <span class="summary"></span>
   <span class="source">2news.co.kr</span>
 </div><div class="item" title="SK디앤디, 자금 경색 우려에 주가 급락…최대주주 한앤코 득실은 — ">
-  <span class="time">07/15 10:13<em>7시간 전</em></span>
+  <span class="time">07/15 10:13<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9fNS1TckFudk1wYkhCdE5VMWd1SVVmY1ZvaDlpSEY2eVgwUmZKc0Z1S0N4TVpQRHVvRzBybnFBMUFNMF81QmN3cVA3MVVmenE1N1lJbG5JQy0zb0J5XzRmVmR1eHhIeUYwdEFDcnBTVnY?oc=5" target="_blank" rel="noopener">SK디앤디, 자금 경색 우려에 주가 급락…최대주주 한앤코 득실은</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="[7월 금통위 D-1] 채권시장 시나리오는 — ">
-  <span class="time">07/15 10:07<em>7시간 전</em></span>
+  <span class="time">07/15 10:07<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9OQkwzb2U0bG5SaW1PUHp4NFU0Znd3Y3pfbjF4SUE1RU1sZGtlVnpwUUZOOUVWM3g0REFWNnlacDRsVVN0Yk5oaDJLQnJzZTQ0M2xibkFnWkNkdWRsblViOGlkRVZEUFBkODFfa0tCbUc?oc=5" target="_blank" rel="noopener">[7월 금통위 D-1] 채권시장 시나리오는</a>
   <span class="summary"></span>
@@ -449,59 +464,65 @@
   <span class="summary"></span>
   <span class="source">메디컬투데이</span>
 </div><div class="item" title="주식 허준서·채권 이정욱·자산배분 허성규…매니저가 꼽은 최고의 루키는 [주니어 애널리스트] — ">
-  <span class="time">07/15 09:34<em>7시간 전</em></span>
+  <span class="time">07/15 09:34<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfVjBsX3FRUW9HNjd5cXlnQnZnbzBFbzF0bUU0MkttUHZiRnREM096REtxRHA0V1I2OVJGbEhtdWIwdmRycFpucERzQmc2WlE?oc=5" target="_blank" rel="noopener">주식 허준서·채권 이정욱·자산배분 허성규…매니저가 꼽은 최고의 루키는 [주니어 애널리스트]</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="상반기 채권·CD 전자등록발행 규모 328조원…전년비 4.6%↑ — ">
-  <span class="time">07/15 09:29<em>7시간 전</em></span>
+  <span class="time">07/15 09:29<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE90emtCNk9kQTIxbjVnLXpSYjNDUWFzY3p2US10YUNLWHMyUUJkaWhlNlBJa2pOSkJpaXpSRk55RDJXNUMwTWlrbEpQUDRsaHFVVExwaV9DOXBzMFHSAWBBVV95cUxNT3k1MFJwZFhxZkttQmlfblhWSFJRWkRoVFQxUFdmQk1HR0FOejlDeXFBWkFCVGFiR0plS0szdkZPZzlrcGtYVzZ4T2xMNC00Ul92V0dvOFJnMkQ1UGI5dVE?oc=5" target="_blank" rel="noopener">상반기 채권·CD 전자등록발행 규모 328조원…전년비 4.6%↑</a>
   <span class="summary"></span>
   <span class="source">연합뉴스</span>
 </div><div class="item" title="[외환] 美 물가발 달러 하락에 1,480원대로 하락…금통위 D-1 — ">
-  <span class="time">07/15 09:22<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/15 09:22<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE5TeFpYZTFmVl9GVEx4YXpVQWRpMDM0WDhXakJubVBHMWNPakwwM21xVWx5SDA3am9wVmxDaTR1bFVJZElKZ2FSSWpHUV9McU5SYnNiSXpzUmRVaWZ5bk85Y1hoM1p6eGpkNlVDZFhyNUo0dw?oc=5" target="_blank" rel="noopener">[외환] 美 물가발 달러 하락에 1,480원대로 하락…금통위 D-1</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="한진 회사채마저 미매각…리테일·하이일드 떠난 비우량채 시장 | — ">
-  <span class="time">07/15 08:54<em>7시간 전</em></span>
+  <span class="time">07/15 08:54<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1CamlXbjMwaWN5RS1iaS1rTm5CcXplTlpHYlJuYWo4STFkc3FQam5ocS0wOEJlQ254VElvdGZIVGZxS1E2S25oWG1sTURUYTZCazFoMFBpdmVCWHd1NzZ6NmRIdkg1a2RhNzZDdloyYWJoZVdi?oc=5" target="_blank" rel="noopener">한진 회사채마저 미매각…리테일·하이일드 떠난 비우량채 시장 |</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="은행채도 사는 SK하이닉스…정작 은행들은 발행 확대 &#x27;신중&#x27; — ">
-  <span class="time">07/15 07:01<em>7시간 전</em></span>
+  <span class="time">07/15 07:01<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPY0E5TFdVSENGdi1sLWdtcExBd3REZWVIb0Zod1dsRWdUb1lESkNGVlpCYkIxNF9zUnNncFJNdk9RRkgtc2VKVm85ZmNfeUdzaFlMR0c2aEtVUzk1akRLaTV6V2htVmxZMnExRzJ1QW1TMUZKS1hHLUlrNmRrNnVHMklHQQ?oc=5" target="_blank" rel="noopener">은행채도 사는 SK하이닉스…정작 은행들은 발행 확대 &#x27;신중&#x27;</a>
   <span class="summary"></span>
   <span class="source">인베스트조선</span>
 </div><div class="item" title="[DCM] 차환에 쏠린 회사채 시장… 투자 발행은 SK·삼성뿐 [26 상반기 리뷰③] — ">
-  <span class="time">07/15 06:00<em>7시간 전</em></span>
+  <span class="time">07/15 06:00<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1SMTJoVzRTV3dFRkluMDhpdk9talRBQmFiRXg2bDlKQkJDUldpdzhIbTVQYlpoTDNib29YbmpTQ1F2QUlHSHV4SFB5YVFpMzFxMV92clRGUHZmcTI3R2V5TURWTXRncmFCVVNaMG12T3FFMWlVUFdlc0hVZTc?oc=5" target="_blank" rel="noopener">[DCM] 차환에 쏠린 회사채 시장… 투자 발행은 SK·삼성뿐 [26 상반기 리뷰③]</a>
   <span class="summary"></span>
   <span class="source">한국금융신문</span>
 </div><div class="item" title="iM뱅크, 무디스 등급전망 &#x27;안정적&#x27; 상향 — ">
-  <span class="time">07/15 03:29<em>23분 전</em></span>
+  <span class="time">07/15 03:29<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMipANBVV95cUxQZnkwUUcxcFM0UExZeFE4NmUwQ0tvMklCeHBvM2dIbmlfdUxmaGE1WU5Lb1lnUXRkajNxdWNyWTROUHlYNWZ2UE9ES3o3aHZNYVZZOWdvUFRRbTMwbEhxanRZNGJlZWp6NzNlNnlXUURScTBieVRHQkQwcWlrQnJHN2NMd3otbTc1eHZsZkozT2J2bFRHVGIxd2NNV0VLeVprVExUamdJTmhTR2gyeDhxcnFmS2F3V0ZKdVFFZTJ5a0FMSnBIaTdFZ05vTktZTHBNZlZOQlFHMk5fM01ta3hvZmZHWDE1V3AxVThDUDZZelpfM1I2dmlsNFdqdGVQOEVyVTRtUlRJMnpNZEJqVFdfNHFmMDV4NUpDRFN5QVJLRW9feVF1ck1rdjVPSFpsVDZMYWhBZ3VySlBHV1ZGRFNMOFBQOHdrS3ZsTG1IU2ZMQVFjZDVxT25NMFlYNW5INUxoWWNzQzZRWVozUFVZTWhqV1VLQkpHUTBiT3dyazRFUzhnMFJ0UVRtbU55VFRoVHB2d25oYmVJQlphaUNpR0FiVUl0OEs?oc=5" target="_blank" rel="noopener">iM뱅크, 무디스 등급전망 &#x27;안정적&#x27; 상향</a>
   <span class="summary"></span>
   <span class="source">MSN</span>
 </div><div class="item" title="중앙일보 결국 &#x27;1차 부도&#x27;…220억 어음 변제 못해 — ">
-  <span class="time">07/15 02:24<em>7시간 전</em></span>
+  <span class="time">07/15 02:24<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiwwNBVV95cUxOZTh1R1Ztck1rNUEwUGJjU28wN25uV3Y5V0k3UGdpeXFwck1tZ0lYSEtJUFF2elBmX19KMHk2eXY5Z3VBUmRPNHJuaTY4OFZabzRobVJ0ZWpja1I3WHFHM28tSGhOWnpBeER3S04wRlNYY19ZWkZvTE1rbGpZRlZQLWdQeV90NGJSZGZtdFhOTFM5RHB6TFlFQlhvT2lwMkd1VWRpMmN4d2hjaG5aXzZBbHc3eE0zYVdmWGVvMkoxTjh4M1pETEVZb1QzSnpZSWRDUU9lbzhIbHhuNkZzangxd3Y3RWNMbFhfOGNvX1g4YzVVWTFTejNnZVJ4U2tWSXFONUM0cWdqaVBFSkg2elZkNjc2MkF0YU1fbGtKZVUtMzNxSUlzTWJUaTBzX25JbWY4cjJ4djdwY0V2RFh4TV9JXzRLMU52b1hxMG1ZRGxKZ2Q5OXp0WF8tNnNMN016VHJZZ1FhTnlJN2Y0bEFPcWc0MldyRzhOd29hN05wUV9xVEl3Z3lLNzZkX281Qmdxb0p4dkpxeGp1NUpXRXU3eERRbTFOSU1LMjdrLURqWjh1MGt2ZUM4NzNYV3V6QVgyQnVMZDc4?oc=5" target="_blank" rel="noopener">중앙일보 결국 &#x27;1차 부도&#x27;…220억 어음 변제 못해</a>
   <span class="summary"></span>
   <span class="source">MSN</span>
 </div><div class="item" title="기업들 회사채 찍어 60% 이상 빚부터 갚았다 — ">
-  <span class="time">07/15 00:08<em>7시간 전</em></span>
+  <span class="time">07/15 00:08<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE5leFR5VjhUS3RFWTg4RDJjWEVpRDdWdk9ubmxvUlY4aXdONlV3bUs5aVVlaDFUcjNUWHhwQXNiNUZFaWJHMGV2Tm9ZRUxpY1k?oc=5" target="_blank" rel="noopener">기업들 회사채 찍어 60% 이상 빚부터 갚았다</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
+</div><div class="item" title="골드만삭스, 2분기 주식 거래 수익 예상치 크게 상회하며 주가 상승 (BTC, Goldman Sachs, 7.42B, 5.02B) — ">
+  <span class="time">07/14 20:39<em>방금</em></span>
+  <span class="new-badge">NEW</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9ONWF5U0JhX2RkR0dvLUcxbmdGdVVKcGNyaXhmTXR6X0J5X2wxTG1jS2hCem9UTFIzbVQyRHl3UWpTOWlLemR5ZDhfaDJyWGVWOVRxTnh2TWRnN01NUC1PQ25UMFV1ZlI4ZkdUMQ?oc=5" target="_blank" rel="noopener">골드만삭스, 2분기 주식 거래 수익 예상치 크게 상회하며 주가 상승 (BTC, Goldman Sachs, 7.42B, 5.02B)</a>
+  <span class="summary"></span>
+  <span class="source">민심뉴스</span>
 </div><div class="item" title="지난달 국고채 초장기물 금리 급등…회사채 스프레드도 확대 — ">
   <span class="time">07/14 20:07<em>5시간 전</em></span>
   
@@ -509,19 +530,25 @@
   <span class="summary"></span>
   <span class="source">MSN</span>
 </div><div class="item" title="한진, 400억 수요예측서 일부 미매각…BBB급 시장 위축 — ">
-  <span class="time">07/14 20:00<em>7시간 전</em></span>
+  <span class="time">07/14 20:00<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XOXpFYkxqX3E0Qm9pTFloOWJ0MENtOXc1VHFKZEVENzdpNERkS0dubE1fZE5xRUtoRUFvSnA0Y2licEVPd1Bza2lSeTVta3M?oc=5" target="_blank" rel="noopener">한진, 400억 수요예측서 일부 미매각…BBB급 시장 위축</a>
   <span class="summary"></span>
   <span class="source">딜사이트</span>
-</div><div class="item" title="[채권-마감] 日 국채 금리 급락에도 팽배한 금통위 경계 — ">
-  <span class="time">07/14 18:43<em>방금</em></span>
+</div><div class="item" title="비트코인 VIP 상품 출시, 최대 1% 수익률 제공은 무엇을 의미할까? (+BTC, Huobi Earn, VIP, 수익률) — ">
+  <span class="time">07/14 18:53<em>방금</em></span>
   <span class="new-badge">NEW</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5TRk5Vc3Z3UTdwcElfb0p6QXBBRHVnVkxlTWloMlBOaDJvcXVOQTVxX0lRT3cwY3VTTE1Sc1RjSXZDSjg0ekhjTDNYbzRraEZkZm9zSlhoc3Q1ZTNqLVlQVUkzNjU1a1NCM2kzTg?oc=5" target="_blank" rel="noopener">비트코인 VIP 상품 출시, 최대 1% 수익률 제공은 무엇을 의미할까? (+BTC, Huobi Earn, VIP, 수익률)</a>
+  <span class="summary"></span>
+  <span class="source">민심뉴스</span>
+</div><div class="item" title="[채권-마감] 日 국채 금리 급락에도 팽배한 금통위 경계 — ">
+  <span class="time">07/14 18:43<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Vkt2SmVpX0xwQUx4UkhSdF91R1ZYdVUzRHFEdldmVFUzUWRmeThObDFkdjJYQmtxYU9DaWZqZVN5YVFWYmVVTlJkSkIxSzlITjlYWUMyWmYwMzNBWlRBUVN4bERiclQzNUlYSWhCYjM?oc=5" target="_blank" rel="noopener">[채권-마감] 日 국채 금리 급락에도 팽배한 금통위 경계</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="회사채 금리 뛰고 국채 3년물 3.8% 돌파 — ">
-  <span class="time">07/14 18:07<em>7시간 전</em></span>
+  <span class="time">07/14 18:07<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTFBzaS1TWFozY3V5YndCMjVnbDRjcHhhMEtIMkd2dkxWNm9VNElVbHpRckNsR0lmTTJjc3ZPSlBBb0t5dUVmLTdVZUk4SkR1cHdyZHRtZW1qSUI1QQ?oc=5" target="_blank" rel="noopener">회사채 금리 뛰고 국채 3년물 3.8% 돌파</a>
   <span class="summary"></span>
@@ -533,59 +560,41 @@
   <span class="summary"></span>
   <span class="source">ibtomato.com</span>
 </div><div class="item" title="KB증권, 상반기 공모채 1위 수성…하반기 시장 위축 변수 — ">
-  <span class="time">07/14 17:41<em>7시간 전</em></span>
+  <span class="time">07/14 17:41<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FdEl4VkNSam00MFR6d25ubi1IUFdrM2pPMTJkVjJBVEwzNkNMbk1NbDREV3lmbl9mZ0FxZTJpZXNfWkVQZzBNdHdQRzJ4ZXNSOHdIdGhLWEpjREhmeWRLbVRkeVY?oc=5" target="_blank" rel="noopener">KB증권, 상반기 공모채 1위 수성…하반기 시장 위축 변수</a>
   <span class="summary"></span>
   <span class="source">서울경제TV</span>
 </div><div class="item" title="[채권마감] 4단 충격에…베어플랫, 30년·50년금리 역대최고 — ">
-  <span class="time">07/14 17:34<em>방금</em></span>
-  <span class="new-badge">NEW</span>
+  <span class="time">07/14 17:34<em>49분 전</em></span>
+  
   <a class="headline" href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE80RjgxdXhwWndvU0JyX0dsamNjQUNqd2VOUmRMTkk1dkVWR0NCczVHSlV2VGktTnp2TWlEM1NkcDhYODZFQ0p5TkVPcw?oc=5" target="_blank" rel="noopener">[채권마감] 4단 충격에…베어플랫, 30년·50년금리 역대최고</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="AI 버블 논쟁, 채권시장으로 확산 — 2026년 AI 관련 부채 조달 5,000억 달러 전망 — ">
-  <span class="time">07/14 17:06<em>7시간 전</em></span>
+  <span class="time">07/14 17:06<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE1CY19ta3dSNXNqUXo3cnQwS2VFYUJiUXB4TXRCLUk3akFiQ3VsNFdmM3FEWnE0RGplSDF1c283Y1YxRjV4RmRUNE9qMFZYOE1NZVE?oc=5" target="_blank" rel="noopener">AI 버블 논쟁, 채권시장으로 확산 — 2026년 AI 관련 부채 조달 5,000억 달러 전망</a>
   <span class="summary"></span>
   <span class="source">EBC Financial Group</span>
 </div><div class="item" title="롯데케미칼, 순차입금 8조원…재무 부담 가중 — ">
-  <span class="time">07/14 17:05<em>7시간 전</em></span>
+  <span class="time">07/14 17:05<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTFByZ2lhRFhGcXlQTUYyMDJTbTVXbWI5R3NiZ053ekFaczlmaVIwNU9xRGhBclY3a2RFZzBublZ0ejh1bUJNRnJuRktINFd0aDc1a3pUYjRpbHFnZlgxTkxRNm5mMEEwWXRlTm1ORw?oc=5" target="_blank" rel="noopener">롯데케미칼, 순차입금 8조원…재무 부담 가중</a>
   <span class="summary"></span>
   <span class="source">스페셜경제</span>
 </div><div class="item" title="BBB급 투심 악화에 한진도 결국 회사채 일부 미매각 — ">
-  <span class="time">07/14 16:57<em>7시간 전</em></span>
+  <span class="time">07/14 16:57<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE5sSzNLLXBYeWtOVllfLXJZV3JBVV8zd1N0ZHZuVVBMRDJuTjlNSV8xWnJ3YUpoR2stcWZiV0tUZHVQOElWUm1iMU13ZlljWjZPVUxoNHBKekpocGkyODhCX0doMjNpaHBYTXF4X25fVHpudw?oc=5" target="_blank" rel="noopener">BBB급 투심 악화에 한진도 결국 회사채 일부 미매각</a>
   <span class="summary"></span>
   <span class="source">마켓인</span>
 </div><div class="item" title="대우건설만 신용전망 &#x27;부정적&#x27;…가덕신공항 단독시공, 재무 리스크 논란 커진다 — ">
-  <span class="time">07/14 15:03<em>7시간 전</em></span>
+  <span class="time">07/14 15:03<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ncDlYZ00wU25UNnhYLVlrNEM5T2poMkx0OFpUWXlmYjdLM3RzS016aXhjWC1QcWhGcjBCbWtCS2x5NnRGSlpMUnFsV1J2aVFrVXZ0UXROdkRObVh2cGpFVEJQWm9ZeERG?oc=5" target="_blank" rel="noopener">대우건설만 신용전망 &#x27;부정적&#x27;…가덕신공항 단독시공, 재무 리스크 논란 커진다</a>
   <span class="summary"></span>
   <span class="source">복지TV부울경방송</span>
-</div><div class="item" title="제이알리츠·JTBC 연쇄 채무불이행 충격…얼어붙은 회사채 시장 — ">
-  <span class="time">07/14 14:38<em>7시간 전</em></span>
-  
-  <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE91Qnp1UmZxZ3FqcGw2OFBibWpPM0dlaTlzVjdteHR1X1FhV3Z6T29mcHhkSU1ZczVQSTA1ZTZsSDR4LXJobERKWUQ3TlJTcFJOYjZyRnFJZmowZVdoZnFITmczMkVkTUNHVVdpYTdzVjJjUDTSAXNBVV95cUxPdUJ6dVJmcWdxanBsNjhQYm1qTzNHZWk5c1Y3bXh0dV9RYVd2ek9vZnB4ZElNWXM1UEkwNWU2bEg0eC1yaGxESllEN05SU3BSTmI2ckZxSWZqMGVXaGZxSE5nMzJFZE1DR1VXaWE3c1YyY1A0?oc=5" target="_blank" rel="noopener">제이알리츠·JTBC 연쇄 채무불이행 충격…얼어붙은 회사채 시장</a>
-  <span class="summary"></span>
-  <span class="source">뉴스퀘스트</span>
-</div><div class="item" title="상반기 단기사채 990조 돌파···증권사 발행 207%↑ — ">
-  <span class="time">07/14 14:27<em>7시간 전</em></span>
-  
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5vcDJYaThRVFV6SlRQR29KSjFMRUVtSGk4dnpOSGFzVlV0Y2hWUnI3YWFOMW5DeU4wREFCTE9qTUZsdEZhLU9mUUh1cTdsWmVFMmtYQXRZS25ETzlIc2lRSU9qWVZoYmM?oc=5" target="_blank" rel="noopener">상반기 단기사채 990조 돌파···증권사 발행 207%↑</a>
-  <span class="summary"></span>
-  <span class="source">자본시장뉴스</span>
-</div><div class="item" title="카드사 단기사채 1년새 두 배로… 금리상승·시장 경색땐 차환부담 — ">
-  <span class="time">07/14 11:35<em>7시간 전</em></span>
-  
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiUEFVX3lxTE9jemN3cUNIMFlOeGZESk5ZRWp4YlQ0LXNDVnpGcXJNYm9JNzJTQ1Z1Qjc3bEJIQlJ1dEEyMHM0R3hKalBvZTBvN1Vnbk9abE51?oc=5" target="_blank" rel="noopener">카드사 단기사채 1년새 두 배로… 금리상승·시장 경색땐 차환부담</a>
-  <span class="summary"></span>
-  <span class="source">문화일보</span>
 </div></div>
 </section><section class="card" style="border-top-color:#c2790f">
   <div class="card-head">
@@ -593,37 +602,37 @@
     <span class="count" style="background:#c2790f1a;color:#c2790f">22</span>
   </div>
   <div class="item-list"><div class="item" title="6월 코픽스 0.15%p↑…3개월 연속 상승 — ">
-  <span class="time">07/15 16:52<em>23분 전</em></span>
+  <span class="time">07/15 16:52<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTE8wa3BmTHhrU3BGNDJWNThPcTNxeTdCeHBrM2p0elJQbEswY3k2V2JwOTRtNDd1QzJSbmNwbWduNk9BdTRnMlZteExtVE84My1PY0cwN2hnZlpXNnNUbUFmWTFJMGw0YnloY1lHcFE0MNIBc0FVX3lxTE9uRFAwVFFfTVJWdFV4a1RORHJMVEdKOGM3VHI2WXN2VWdybjVXdXBMTmwwcGRnblFsNTA4c0lncFZMM1BJb0Jqc2NEOHRVSHpLcmJOSWhldkY1M1hBald2LXQ5dGt6b1hRR29IMW5Qc1V3SkU?oc=5" target="_blank" rel="noopener">6월 코픽스 0.15%p↑…3개월 연속 상승</a>
   <span class="summary"></span>
   <span class="source">시사저널</span>
 </div><div class="item" title="증권사 ‘영끌’ 자본확충 경쟁…유증부터 신종자본증권·CP까지 총동원 — ">
-  <span class="time">07/15 15:55<em>23분 전</em></span>
+  <span class="time">07/15 15:55<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1QTGJxeU1QRzBFWWViYVBVNXlaQlA2cURKbDVQbHN0Q0x3TVVRdWNJSGl4Z0ZLdFZIdlpMVUlua1JuU094NTB2VjhpWFJIZUk?oc=5" target="_blank" rel="noopener">증권사 ‘영끌’ 자본확충 경쟁…유증부터 신종자본증권·CP까지 총동원</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="주담대 변동금리 뛴다…6월 코픽스 1년5개월 만에 3%대로 — ">
-  <span class="time">07/15 15:15<em>2시간 전</em></span>
+  <span class="time">07/15 15:15<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5TG9NS2szLTFHaUtuNVd3eXMwLTc4djUtVG1ncV9rRUpvRmlsbWEtNXBsLThjYnRGU01GOEJ3SE4tY1lDU3NXTllGUlpaREY4UmxjNlZrUGVvRFZvRDdrTtIBeEFVX3lxTE15cENJN3dmV2YzX3VOc1owRFh4UW05SHlfYkhPQ0JrUGtmUV9FRjR6YU1hNng5U2NwSW5GZ3hJN09oRWhqaTZDTlNyTEV6Rk9aSEk1dlBVUVIydDIxQWh3XzNhc0h4d3VmVUtjaE4tYjd5ejhyTTh2Tg?oc=5" target="_blank" rel="noopener">주담대 변동금리 뛴다…6월 코픽스 1년5개월 만에 3%대로</a>
   <span class="summary"></span>
   <span class="source">뉴시스</span>
 </div><div class="item" title="주담대 변동금리 석 달째 상승…6월 코픽스 0.15%p↑ — ">
-  <span class="time">07/15 15:02<em>1시간 전</em></span>
+  <span class="time">07/15 15:02<em>2시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE83bnBTMlU5TUpBdFRmcjFScFBWdUdLT1JNWDU3bDRacFlVSUlmQWt3N1J3NzB0ejF5ZzFVQTB6WmJTNDZTZllvOVBNam5USzdHRllYSWVraXhZSWUwWUFJb9IBYEFVX3lxTE83bnBTMlU5TUpBdFRmcjFScFBWdUdLT1JNWDU3bDRacFlVSUlmQWt3N1J3NzB0ejF5ZzFVQTB6WmJTNDZTZllvOVBNam5USzdHRllYSWVraXhZSWUwWUFJbw?oc=5" target="_blank" rel="noopener">주담대 변동금리 석 달째 상승…6월 코픽스 0.15%p↑</a>
   <span class="summary"></span>
   <span class="source">연합뉴스</span>
 </div><div class="item" title="이복현 전면 등판…&quot;JTBC, 회사채 발행 전 자본잠식&quot; — ">
-  <span class="time">07/15 15:01<em>2시간 전</em></span>
+  <span class="time">07/15 15:01<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkQzZiVHVBVnhleHhuNXF3Y056cGZqX3VWRkxaOG96d2FfZ2dEYlVwelcxVjJ2MGt4T0RGcTh3eWhjYjJrTktjMWcya2NabzVWb3FZ?oc=5" target="_blank" rel="noopener">이복현 전면 등판…&quot;JTBC, 회사채 발행 전 자본잠식&quot;</a>
   <span class="summary"></span>
   <span class="source">경제타임스</span>
 </div><div class="item" title="농협손보, 1천억 후순위채 조기상환…차환 발행은 일단 연기 | — ">
-  <span class="time">07/15 08:34<em>7시간 전</em></span>
+  <span class="time">07/15 08:34<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5Ga25YODQ2bjVzUGZsVTlaajhJUTh5bFJNT1RVSVJXTUZPTy1wZmV4d0FlNFVVWmgyRUV5b2MyOUF6SWxpYzc4UVR3MEdoYlJIQzk1Z2thN09Tdll1WEdWVzdFQjBWWHhkWGRzN0gwWlJNbDFk?oc=5" target="_blank" rel="noopener">농협손보, 1천억 후순위채 조기상환…차환 발행은 일단 연기 |</a>
   <span class="summary"></span>
@@ -635,91 +644,91 @@
   <span class="summary"></span>
   <span class="source">딜사이트</span>
 </div><div class="item" title="포스코이앤씨 신종자본증권으로 4천억 조달, &quot;재무건전성 강화&quot; — ">
-  <span class="time">07/14 15:41<em>7시간 전</em></span>
+  <span class="time">07/14 15:41<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE1LdmVfdUxvMFZHYmd3cHhjNHdNQXR0Sm9sNEp1UXp4SF90VWQ2NU16d1BFaHJ5QTBRXzlrQWVGa2tuYmNRWGhfRHprT2RNUlRPd2xmdXJoSmJESWM4dkVHNXdNUjdzMHl5WElGOGNPWV9qRm8?oc=5" target="_blank" rel="noopener">포스코이앤씨 신종자본증권으로 4천억 조달, &quot;재무건전성 강화&quot;</a>
   <span class="summary"></span>
   <span class="source">비즈니스포스트</span>
 </div><div class="item" title="BP, 2분기 업스트림 생산 감소·석유 트레이딩 소폭 개선 전망 — ">
-  <span class="time">07/14 15:36<em>7시간 전</em></span>
+  <span class="time">07/14 15:36<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE96X3VoUEw0RHc3YzlOcVgzOFo5Sm5oUjh6dHBhd0hEZ0FWODJPS2t1MENITlZLenlqNTZDbEt1cFZGQ0I2M1Brclc0QmpqOXViN3ZST2tWSzZIWWlsTVM1TkZtblY?oc=5" target="_blank" rel="noopener">BP, 2분기 업스트림 생산 감소·석유 트레이딩 소폭 개선 전망</a>
   <span class="summary"></span>
   <span class="source">Investing.com 한국어</span>
 </div><div class="item" title="포스코이앤씨, 4,000억 원 규모 신종자본증권 발행 결정...채무상환 자금 조달 — ">
-  <span class="time">07/14 15:31<em>7시간 전</em></span>
+  <span class="time">07/14 15:31<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE41ZThwNEY2dFBvbmRaOWVhWDhHRmU5TWVCSHY1ZkFTdWRGN21fcFl2cklhZ1ctYkt3Y3dubDZEOWJySHdEdzVxaExQRFZNOW04N2p6UDZBUU5sMkdtQmtPS2V3WE45RXpYSWo1RzN5M1p0OUk?oc=5" target="_blank" rel="noopener">포스코이앤씨, 4,000억 원 규모 신종자본증권 발행 결정...채무상환 자금 조달</a>
   <span class="summary"></span>
   <span class="source">Investing.com 한국어</span>
 </div><div class="item" title="iM증권, 자본 확충·조직 개편 &#x27;투트랙&#x27;…성장 기반 강화 — ">
-  <span class="time">07/14 15:15<em>7시간 전</em></span>
+  <span class="time">07/14 15:15<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTFBiRjBwdzFlTzJJX1lFNHNqX3VicV9oNmYzZWhZTUlVVllJcnU2SFVwS1pENUNhTjlEZF9sY0VYdnhwa3FrdVBIME8zanR6RkItNm9yY3A4bGFNWVFGeEhFZTlYbTRXMk5qRElET2hqa9IBc0FVX3lxTFAzUTNIZXNtZ3c2OU9sVlJpakxsd05fYUN5WDBCay1CR2txbTlEejZ2Z0FfZVM0QTNKcWZ0ZzhyYTQ5TlFaWEs5YkRTWktCRWczd19QUU5jRVpueGJWYWQ5RW5sRHhlQjlnSVg2eFFSX1lzZEE?oc=5" target="_blank" rel="noopener">iM증권, 자본 확충·조직 개편 &#x27;투트랙&#x27;…성장 기반 강화</a>
   <span class="summary"></span>
   <span class="source">데일리한국</span>
 </div><div class="item" title="메리츠증권, 신종자본증권 발행 확대…IB 경쟁력 강화 — ">
-  <span class="time">07/14 13:52<em>7시간 전</em></span>
+  <span class="time">07/14 13:52<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFBEVi1Rc2Zadlh1Vm5hQzJxQmV6SnFxLVBFeUp2aGYtMFY0NlNMS2kyeDdVV21Qc2JXN3k1aVNZRE91Nkl0eGxYRms2cEhySHFLckxOTHF2aE4wbVZ0dE9CMk9DMG8?oc=5" target="_blank" rel="noopener">메리츠증권, 신종자본증권 발행 확대…IB 경쟁력 강화</a>
   <span class="summary"></span>
   <span class="source">PRESS9</span>
 </div><div class="item" title="JTBC, ‘자본잠식 은폐’ 의혹 전면 반박… “신종자본증권 발행, 적법 절차” — ">
-  <span class="time">07/13 22:38<em>7시간 전</em></span>
+  <span class="time">07/13 22:38<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZXJUbnNNZVZyNFkxWUNmSzBYTkNiX3ppNzRVTjZLLURmaW43R2lKTnRTdmpGb2N4VDdPMDJnMnFPRFRKY2FaWW9Id2lveXdOTEI2R3BOVHEtam5aQnVFSlNuR3pVX19aYWt3?oc=5" target="_blank" rel="noopener">JTBC, ‘자본잠식 은폐’ 의혹 전면 반박… “신종자본증권 발행, 적법 절차”</a>
   <span class="summary"></span>
   <span class="source">서울뉴스통신</span>
 </div><div class="item" title="새로운 장기 하이브리드 채권이 CIBC(TSX:CM)의 자본 건전성 평가에 변화를 가져올까? — ">
-  <span class="time">07/13 19:43<em>7시간 전</em></span>
+  <span class="time">07/13 19:43<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1dvRnRaZ1FGVkFHeGlRS3BSRkNNUG9CcENNYzFYVWwyY0ZXckt3Tmwzb1RVcXZSX1dELXVFOEI3V2RPVHNPSzZKbWdKZ3F6bWh5ekttX3gtY2RCTm1SUE1IR08tQy1mOXlDc3BfbTN1S25kOE9sOUpZeXcxVG5VbEFYTVlFdXBkdGZyWk43UFhnem1pQ1BaYTVXb2RRczV0ZklmWk9VRDhkY3g4ZGFRQnNjc29yQdIBtgFBVV95cUxOU1dvRnRaZ1FGVkFHeGlRS3BSRkNNUG9CcENNYzFYVWwyY0ZXckt3Tmwzb1RVcXZSX1dELXVFOEI3V2RPVHNPSzZKbWdKZ3F6bWh5ekttX3gtY2RCTm1SUE1IR08tQy1mOXlDc3BfbTN1S25kOE9sOUpZeXcxVG5VbEFYTVlFdXBkdGZyWk43UFhnem1pQ1BaYTVXb2RRczV0ZklmWk9VRDhkY3g4ZGFRQnNjc29yQQ?oc=5" target="_blank" rel="noopener">새로운 장기 하이브리드 채권이 CIBC(TSX:CM)의 자본 건전성 평가에 변화를 가져올까?</a>
   <span class="summary"></span>
   <span class="source">simplywall.st</span>
 </div><div class="item" title="JTBC &quot;400억 신종자본증권 발행 적법…자금 유출 아냐&quot; — ">
-  <span class="time">07/13 19:21<em>7시간 전</em></span>
+  <span class="time">07/13 19:21<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPdUtVX2gwYU5pUTZSNlJFWmY1MFRxQkpCVjctU01RdHNaQlh6Z3pQb0Exdzd4VTNJYUdrM2k2amRqSkJLdnNEZ2lsLS1FcmNjQV9GR0NoWmd2eGpLMkFUZVRiWVVjSEdLU0dXUWtXQldNQ3ZlWlZ4MTFDMUxiN0RmRw?oc=5" target="_blank" rel="noopener">JTBC &quot;400억 신종자본증권 발행 적법…자금 유출 아냐&quot;</a>
   <span class="summary"></span>
   <span class="source">edaily.co.kr</span>
 </div><div class="item" title="JTBC 신종자본증권 공시·자본시장법 준수…투자자 권익 보호 노력 — ">
-  <span class="time">07/13 19:21<em>7시간 전</em></span>
+  <span class="time">07/13 19:21<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wU1pTazgxRjhxZVdvdkk5VnFDV0xITlotQkFkWEsxcHp0UVdwNjRFdWw3OW5zM0lfVEF3WEJfWUw1WjdUUkNCX2hpUVNweUVxeGN2blNPaHk3Z9IBWEFVX3lxTE9Ocno0eFl4cnpxMzhDT0MwenVyQmNOQUhraFUzM0lWZ1VLTmV6TEZTbEZDN2JHVTNyRmtuMjc4WWpUYVRTelFEMzctRGhMSDJkT3prbklPYTc?oc=5" target="_blank" rel="noopener">JTBC 신종자본증권 공시·자본시장법 준수…투자자 권익 보호 노력</a>
   <span class="summary"></span>
   <span class="source">아주경제</span>
 </div><div class="item" title="[판읽기] 금감원 떠난 이복현, 중앙그룹 채권 책임선 파고든다 — ">
-  <span class="time">07/13 16:48<em>7시간 전</em></span>
+  <span class="time">07/13 16:48<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9ETnJNOWJoS2RSYTBaaE1sRG8tTkdESmpfRnFpczRENWw1M0N5c1ZPcjgxekxsMUVlaDgtU0JFZm43VGl6VnpTa1EtcGhzZnp2ZllHU0Jsa1RPa2NJMjFvT3FSQQ?oc=5" target="_blank" rel="noopener">[판읽기] 금감원 떠난 이복현, 중앙그룹 채권 책임선 파고든다</a>
   <span class="summary"></span>
   <span class="source">조세금융신문</span>
 </div><div class="item" title="신종자본증권 상환 미룬 SC제일은행···이유는 — ">
-  <span class="time">07/13 16:20<em>7시간 전</em></span>
+  <span class="time">07/13 16:20<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE8ySzR6VWxkRk0tUThaRUMwTmhqSU1TTzZsMU9COU1WNEJDNTkxTUN5aS10NWNlZHpBWERGNUc1eFVMY0M5bHdzWkdGODFZUzVVNzcxaWpnbVVKaG9nT20wRmwzMlB6eTBMSm5BTHBPYkNhZ9IBdkFVX3lxTFBINmI1ZjZ4djREWmtpUUNRc3NCN1BwSmxPZk5tVnd2bF9OZHlVN1BRdTBJZDhQbXh0bnFic0duUnhFSUo2eU41bnpQaS1PZGg2UnpCa3A5SHpuZHFDUGhrTUVIcUJFM2FFNjhvSXNPdzYyQmJodnc?oc=5" target="_blank" rel="noopener">신종자본증권 상환 미룬 SC제일은행···이유는</a>
   <span class="summary"></span>
   <span class="source">시사저널e</span>
 </div><div class="item" title="iM증권, 1500억 자본확충 승부수… 실적 회복세 이어갈까 — ">
-  <span class="time">07/13 14:08<em>7시간 전</em></span>
+  <span class="time">07/13 14:08<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMib0FVX3lxTFA5ZHhaZm5DNGRtTFpJWkJ3Z1VvMjZjbGd2M0wtbEtBVUhaWHZLNzhQQ0RqUGx1M1ZCY1NOUmlRVmVLVm0wUzBJaGVWVzJGdWthbEtJWVNlZFk1UldERXdaV2hZMXQwdUR5ZWxhRnVlNA?oc=5" target="_blank" rel="noopener">iM증권, 1500억 자본확충 승부수… 실적 회복세 이어갈까</a>
   <span class="summary"></span>
   <span class="source">이코리아</span>
 </div><div class="item" title="중앙그룹 사태 겨눈 이복현…퇴임 후 금감원 향한 첫 공개 압박 — ">
-  <span class="time">07/13 11:59<em>7시간 전</em></span>
+  <span class="time">07/13 11:59<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQY09zRWI0OGZlZUIxZm1YVWQzR1BIdHNKcndyZUlmSHRqWWZhMU84cWJHT3NvcDBLek5PS0VKMThiQXFXbzdSbVFmUDJERjN4enAwelhlT2JUM2J6TUZPaHY2QlYzaHpUUmZka3RYZkpSVjd2VkJXeklrLVlFNHFMOQ?oc=5" target="_blank" rel="noopener">중앙그룹 사태 겨눈 이복현…퇴임 후 금감원 향한 첫 공개 압박</a>
   <span class="summary"></span>
   <span class="source">edaily.co.kr</span>
 </div><div class="item" title="중앙그룹 채권투자자들, 금감원에 철저한 조사 촉구...JTBC, 채권 발행 전 사실상 자본잠식 — ">
-  <span class="time">07/13 11:14<em>7시간 전</em></span>
+  <span class="time">07/13 11:14<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBXank3ZHJOOWQtRXBmdlhPeVhvb3NhdUM3TFFsMzZRazM2SUdPem9XLVBLOWhpVUFwLWlzYkV4bDR5dWVHZUpMUGU2aF8zSDAwMmYyQUVRU0vSAVhBVV95cUxQV2p5N2RyTjlkLUVwZnZYT3lYb29zYXVDN0xRbDM2UWszNklHT3pvVy1QSzloaVVBcC1pc2JFeGw0eXVlR2VKTFBlNmhfM0gwMDJmMkFFUVNL?oc=5" target="_blank" rel="noopener">중앙그룹 채권투자자들, 금감원에 철저한 조사 촉구...JTBC, 채권 발행 전 사실상 자본잠식</a>
   <span class="summary"></span>
   <span class="source">아주경제</span>
 </div><div class="item" title="[증권 Pick] 자본 확충 위한 신종자본증권·외화채 발행 — ">
-  <span class="time">07/13 10:31<em>7시간 전</em></span>
+  <span class="time">07/13 10:31<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5pVUlyZW85c3FYc3k5LVJySjNjWGNTMVBSa1BUZDljNWlsUUNzbWh6eVpSY0txYkNveG4xN1pvdEdONkJub3BoNW5IbXVnWmpaVFZWdXNudXlST2t3X0FpVW9PNHVWV0lFbTkw?oc=5" target="_blank" rel="noopener">[증권 Pick] 자본 확충 위한 신종자본증권·외화채 발행</a>
   <span class="summary"></span>
@@ -731,19 +740,19 @@
     <span class="count" style="background:#1a7f4b1a;color:#1a7f4b">31</span>
   </div>
   <div class="item-list"><div class="item" title="美 물가 둔화에 국고채 금리 일제히 하락…금통위 앞두고 낙폭 제한 — ">
-  <span class="time">07/15 17:09<em>23분 전</em></span>
+  <span class="time">07/15 17:09<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsQXVMcGc3QWk0WXpBRkNNUThJMkxMOWFVMDJNcUJJTXRORzduY0hVTE9vYUpXYm1MNDc2VE04STRLcmlTZUFZQlRXZXZZdGIwX1J0MmQ2VXNIMWhmNHdVb3J4UlBKRWV5?oc=5" target="_blank" rel="noopener">美 물가 둔화에 국고채 금리 일제히 하락…금통위 앞두고 낙폭 제한</a>
   <span class="summary"></span>
   <span class="source">ebn.co.kr</span>
 </div><div class="item" title="채권시장, 한은 기준금리 인상 앞두고 금통위 &#x27;시그널&#x27; 촉각 — ">
-  <span class="time">07/15 16:06<em>1시간 전</em></span>
+  <span class="time">07/15 16:06<em>2시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRmxjWUM5S3FKd21NNU5WZURRZXNWSnM5OEt6TlU4Y2Z3bmlMS3BxdFhHeFVpR2R2LXEtenRHenF0cFdXaVNnSkJuN0NiTGVYM0tZ?oc=5" target="_blank" rel="noopener">채권시장, 한은 기준금리 인상 앞두고 금통위 &#x27;시그널&#x27; 촉각</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="&#x27;삼전닉스&#x27; 집값 자극 우려에…금융위, 성과급 DSR 죈다(종합) — ">
-  <span class="time">07/15 14:31<em>2시간 전</em></span>
+  <span class="time">07/15 14:31<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTFBobHhzODJiVlJwMDBlZkh5eFFoZEVfVl9iZG1tT2FkbkdZMnN3VHh4Y0hlcDFydmFEY3hsVUJ3eDh5MDczdTc4VWJJWml3ZjFLM3BVcmpIbHlHRHdLTGtTbdIBeEFVX3lxTFA0YjFkTkNjVkhTVmMxcDNVN1NOWHlxRlV4ZjZGa25kY0l4OVpubHVpNkN6VkpiQjdyaWxfWmtyLWRZRGwyV0U5enJzYWF4c2VTTEpORGJ4TjlwTEtrcDFWX0xDQzJWSlB0YlBpeVNDcWExX3hxUVBUaA?oc=5" target="_blank" rel="noopener">&#x27;삼전닉스&#x27; 집값 자극 우려에…금융위, 성과급 DSR 죈다(종합)</a>
   <span class="summary"></span>
@@ -755,121 +764,121 @@
   <span class="summary"></span>
   <span class="source">뉴시스</span>
 </div><div class="item" title="[7월 금통위 D-1] 채권시장 시나리오는 — ">
-  <span class="time">07/15 10:07<em>7시간 전</em></span>
+  <span class="time">07/15 10:07<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9OQkwzb2U0bG5SaW1PUHp4NFU0Znd3Y3pfbjF4SUE1RU1sZGtlVnpwUUZOOUVWM3g0REFWNnlacDRsVVN0Yk5oaDJLQnJzZTQ0M2xibkFnWkNkdWRsblViOGlkRVZEUFBkODFfa0tCbUc?oc=5" target="_blank" rel="noopener">[7월 금통위 D-1] 채권시장 시나리오는</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="한·미 10년물 금리차 0.29%p...3년 만에 &#x27;최소&#x27; — ">
-  <span class="time">07/15 09:18<em>7시간 전</em></span>
+  <span class="time">07/15 09:18<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Wk5DODZUdGpla2ZJeFBJVF9qeXZBQk54c0I3T0ZMNUJDRkVsY1FySElrYkVTM0lUVzhGcWxiUl94Wk8wOEhCamtRNHA5bXRfaUtZX1VxVk94TE14WHVybUVXSFBwaU0?oc=5" target="_blank" rel="noopener">한·미 10년물 금리차 0.29%p...3년 만에 &#x27;최소&#x27;</a>
   <span class="summary"></span>
   <span class="source">청년일보</span>
 </div><div class="item" title="(상보) 반도체주 반등...필리 반도체지수 2.5% 상승 — ">
-  <span class="time">07/15 07:30<em>23분 전</em></span>
+  <span class="time">07/15 07:30<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE90WDBJS3lHanNHN21jWTdkdWdEOUNRLWRxeVoxa0xna1BkXzdmQzR5eEhreE03TWVGUE52T2hMd056cjVGUzRBRHprVVNRRXdoT1gzb1lENFJ3cTR3dDd5OWFRNFp6T1B1ZlktQzhYWnBpWnBXclZNSzV6NjA5dw?oc=5" target="_blank" rel="noopener">(상보) 반도체주 반등...필리 반도체지수 2.5% 상승</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="(상보) SK하이닉스 ADR, 27.3% 급등 마감…월가 저평가 진단에 투자심리 급반전 — ">
-  <span class="time">07/15 06:58<em>23분 전</em></span>
+  <span class="time">07/15 06:58<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5LT1Q3MnlEbUxxbUtWcTVNNTNRYV96WUtyOTJPZTZCeVpNMlpvZldtYnIxbmNvV1BwYzJmUjRYYTVuZURTUW0xbTJUSU5pQ1BFNHB5b0RIQzFKVkxNTl91eFJJMUMtemFrZVdncUpwWnZlOGM1d20zclQxYVNPUQ?oc=5" target="_blank" rel="noopener">(상보) SK하이닉스 ADR, 27.3% 급등 마감…월가 저평가 진단에 투자심리 급반전</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="국고채 이자 올해 34.4조 예상…6년 만에 두 배로 급증 — ">
-  <span class="time">07/15 06:30<em>7시간 전</em></span>
+  <span class="time">07/15 06:30<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMieEFVX3lxTE53TnNaWDViWWxpZF84U1RBeXV4MUxRZ2o4VFVGbHRZZUlmUF9vUVhHZlZhZ1EtWUVUTzdOaWhGd1NBWnphQUZLdlI1SkhIWF91Z1FlZDNCQ015QzllRWtod2Zxc2FOT1BZblBZUG9tX183dEVCYnp4dtIBeEFVX3lxTE53TnNaWDViWWxpZF84U1RBeXV4MUxRZ2o4VFVGbHRZZUlmUF9vUVhHZlZhZ1EtWUVUTzdOaWhGd1NBWnphQUZLdlI1SkhIWF91Z1FlZDNCQ015QzllRWtod2Zxc2FOT1BZblBZUG9tX183dEVCYnp4dg?oc=5" target="_blank" rel="noopener">국고채 이자 올해 34.4조 예상…6년 만에 두 배로 급증</a>
   <span class="summary"></span>
   <span class="source">뉴시스</span>
 </div><div class="item" title="(속보) SK하이닉스 ADR, 27.3% 급등 마감 — ">
-  <span class="time">07/15 05:53<em>23분 전</em></span>
+  <span class="time">07/15 05:53<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9vSklZSnZBUF9RSmNYUkRadDZneWRpdmVOa1d2eFVxS1RxbWRRNHA3V2V3VEtEaDdKanJkeTJLbUtUUzBwemJoN3pxeFFjTllFeWhRMG11MXJpNFZrVkdBNVhtRlYxamhOZWtsbDd5R05KVXZxcmxv?oc=5" target="_blank" rel="noopener">(속보) SK하이닉스 ADR, 27.3% 급등 마감</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="한국, 2027년 도매 CBDC를 통해 정부 채권 토큰화 예정 — ">
-  <span class="time">07/15 00:09<em>7시간 전</em></span>
+  <span class="time">07/15 00:09<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiggFBVV95cUxNSFdWQkQ3cUlTZTRXNGFyMFRjTVUtVHBxR29waDZGYTg0QXR1cmpmX2JDS19GRmM2VlVGWlpqLWVwWWg2Y19OZDN0bUstSTdQQnl0VTRtZTVBa1NTZ1lGR0l3c2VCclpJaTBHS3lnemx2VWdLM09mSHVMYVAwU3pyUGtB?oc=5" target="_blank" rel="noopener">한국, 2027년 도매 CBDC를 통해 정부 채권 토큰화 예정</a>
   <span class="summary"></span>
   <span class="source">Cryptopolitan</span>
 </div><div class="item" title="&#x27;레버리지 ETF&#x27; 논란에 당국 부랴부랴 대책…증권사 CEO 소집 — ">
-  <span class="time">07/14 18:28<em>7시간 전</em></span>
+  <span class="time">07/14 18:28<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5WQVlHR3VrZWZtSWNnM2JkS0RRdmVfT3BiNGdReWs4NXdtSGJuY2ZmSzN3SUQtMVgtZ0lwWHh5eWxOUXBRdmxuQy1UcjBmVXkwejVHVHVkRUt1ZVVmN0VwaDlkNkpXTVJXQlpkS2JSUV8?oc=5" target="_blank" rel="noopener">&#x27;레버리지 ETF&#x27; 논란에 당국 부랴부랴 대책…증권사 CEO 소집</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="채권 전문가 66% “이달 금통위 금리 인상”…두 달 전엔 99%가 ‘동결’ — ">
-  <span class="time">07/14 16:42<em>7시간 전</em></span>
+  <span class="time">07/14 16:42<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kOGgtdHU5ZlBBUU5VVTZfTy1YNTJRUC05cnZZN3BaOERjNU9lWFFqVUQ3d3RZMG9NNFNOdkkyalJZSVZDZnRCMzdCQmQ0ZjFhakVwbTU5SWRyb3dXZzd4TU5jbFVoelZS?oc=5" target="_blank" rel="noopener">채권 전문가 66% “이달 금통위 금리 인상”…두 달 전엔 99%가 ‘동결’</a>
   <span class="summary"></span>
   <span class="source">녹색경제신문</span>
 </div><div class="item" title="&#x27;금리 인상 온다&#x27; 채권시장 참가자 10명 중 7명, 7월 금통위 전망 — ">
-  <span class="time">07/14 16:01<em>7시간 전</em></span>
+  <span class="time">07/14 16:01<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kSVNENHQ3eHM4Z1dEYTBqRnEyR0VwNmcycGtTdldlMFZQUmMzZ0M1akNOZlFlRTBNTTFiTDh5cXQ0aFlxYTQyV2l1M2RaQ1RVRXU0dzFFNUpCa1Y1?oc=5" target="_blank" rel="noopener">&#x27;금리 인상 온다&#x27; 채권시장 참가자 10명 중 7명, 7월 금통위 전망</a>
   <span class="summary"></span>
   <span class="source">뉴스핌</span>
 </div><div class="item" title="[채권-마감] 국채선물, 외인 대규모 매도에 약세 마감…환율 안정에도 유가·美금리 부담 — ">
-  <span class="time">07/14 15:57<em>23분 전</em></span>
+  <span class="time">07/14 15:57<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMifkFVX3lxTE1iS1M4d0l1YjVyTkZCMzVVdEI2OFJWMzBFcW42R3NmRFNId1VSM2hBY3kydnNtZGJIVTFqZ1BFbHVuZE0tN3VBZDdDUG9Eck5WSW92S3poMWhmaWUwS2JLVE8xV3U3ZEJRYkx3dkRrN2N1cWRZMjlYMzBocng0dw?oc=5" target="_blank" rel="noopener">[채권-마감] 국채선물, 외인 대규모 매도에 약세 마감…환율 안정에도 유가·美금리 부담</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="[외환-마감] 달러-원, 기업 달러매도에 1,493.0원으로 급락…두 달 만에 최저 마감 — ">
-  <span class="time">07/14 15:48<em>23분 전</em></span>
+  <span class="time">07/14 15:48<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9XRllyT2JoWkwwY3BGX2VtWDI3djRUZlZrc3FRZXoyRG1wN0c2RXlfeFhjME5nZ043RGw2QXh5Yk1IOTNSTmk3OFcxNUFSQ0VxSktoUjBOMWhLU2pQOXJFZUFGZnFPV0tMakxPa1B4RnlyM09OZ3o4?oc=5" target="_blank" rel="noopener">[외환-마감] 달러-원, 기업 달러매도에 1,493.0원으로 급락…두 달 만에 최저 마감</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="채권전문가 66% &quot;금리 인상&quot;…한은, 3년 6개월 만 긴축 유력 — ">
-  <span class="time">07/14 14:27<em>7시간 전</em></span>
+  <span class="time">07/14 14:27<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMia0FVX3lxTE5aVmtESTBHSERvZGFHVmRFT0k1ZHNjTHRWUHo5RlhoTUJ1V2dkSEthMTI2UmxXUjEwXzJaYXR2NzNySFlXNjhQTnRwZW1JcUhIRXMtSGJRLWh4TVo2N2dDVVE5aWNzcG55azRB?oc=5" target="_blank" rel="noopener">채권전문가 66% &quot;금리 인상&quot;…한은, 3년 6개월 만 긴축 유력</a>
   <span class="summary"></span>
   <span class="source">뉴시안</span>
 </div><div class="item" title="채권시장 전문가 66% &quot;이달 금통위 기준금리 인상&quot; — ">
-  <span class="time">07/14 14:06<em>7시간 전</em></span>
+  <span class="time">07/14 14:06<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE90WC0xUlpJbmdnRHFhQjhIVVkzRkF2Ym5zN1Q5VkRSenBBYjBhSmtZNmdLcVNTNmx3TjdVaHNiemNJYlJKZUhwamlYcGxLOTA?oc=5" target="_blank" rel="noopener">채권시장 전문가 66% &quot;이달 금통위 기준금리 인상&quot;</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="정부, 올해 실질성장률 3.0%로 상향 — ">
-  <span class="time">07/14 13:13<em>7시간 전</em></span>
+  <span class="time">07/14 13:13<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMic0FVX3lxTE9UUEhKcjAxQjVHdHBpT2p3YUNySXo0YzBmLUdJcFVHVE5OUjRjaTl4akdDQlE4bExuOW9UenRkakJGd3hyTmlLR0VMeTQ3OWUyVG1iOTdpN2RjcHFpYWZHN3BkbTV6eHJURDBXNGJmbkZlUVXSAXdBVV95cUxOR3ZqWW5uTGs0RGU3Z0RrWmlaMXhvT1ktcGg4b1Eyb0tmMmlSMlViZFN3R3ByRFFILTAweGlpbDI5ZDFROElBX3JvY3lvVDJMQTVVanl2bTdnOUc2OWhhTlZnVnBqRTNXZFREcEJLUXVpQnJTWGxIYw?oc=5" target="_blank" rel="noopener">정부, 올해 실질성장률 3.0%로 상향</a>
   <span class="summary"></span>
   <span class="source">스트레이트뉴스</span>
 </div><div class="item" title="채권 전문가 10명 중 7명 &quot;이달 기준금리 인상할 것&quot; | — ">
-  <span class="time">07/14 12:02<em>7시간 전</em></span>
+  <span class="time">07/14 12:02<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMicEFVX3lxTE14NlBHb256NTZzN051N2VQa090U0VsdFVDNjJaMzRyWDVHbU1TN29VcXRtaG83UzFfeVQ2TURoMG00ei1JNEVEbnRaZXRxMlhQOU9mLTRNN2dRZG1WNUpoTG10Z29xODcycUtrZ05LSVQ?oc=5" target="_blank" rel="noopener">채권 전문가 10명 중 7명 &quot;이달 기준금리 인상할 것&quot; |</a>
   <span class="summary"></span>
   <span class="source">데일리굿뉴스</span>
 </div><div class="item" title="[금융 HOT 뉴스] 채권시장 전문가 66% &quot;7월 기준금리 오를 것&quot; — ">
-  <span class="time">07/14 11:24<em>7시간 전</em></span>
+  <span class="time">07/14 11:24<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMia0FVX3lxTE9DSHZEUG1vNFVTTnhWN3BUTXh5ZUxRU003TWk0WHNLVHdobEZrSjhXSFNGN2NfVEZtOGo3X3B3MWNHbURaOWFvQVdlaDJsYTNHdTRadUc3emVGTjV0M3lnbk0zMjRzN3g3R1BV?oc=5" target="_blank" rel="noopener">[금융 HOT 뉴스] 채권시장 전문가 66% &quot;7월 기준금리 오를 것&quot;</a>
   <span class="summary"></span>
   <span class="source">비즈월드</span>
 </div><div class="item" title="채권시장 종사자 3명 중 2명, &quot;8월 기준금리 인상 전망&quot; — ">
-  <span class="time">07/14 10:58<em>7시간 전</em></span>
+  <span class="time">07/14 10:58<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBEN3pRT3I3UUNva2xNYnREbE8yTG0xclkwZ292eWtZUDNQenZMRklzV2oyV0JWRFFScGRiaHZxem0tZ1FrYzRFazRWLXY1VFlWU2RfZEZNX05qUFpscFpYV2Q1WmxCcFE4NXJuM0930gFuQVVfeXFMUEQ3elFPcjdRQ29rbE1idERsTzJMbTFyWTBnb3Z5a1lQM1B6dkxGSXNXajJXQlZEUVJwZGJodnF6bS1nUWtjNEVrNFYtdjVUWVZTZF9kRk1fTmpQWmxwWlhXZDVabEJwUTg1cm4zT3c?oc=5" target="_blank" rel="noopener">채권시장 종사자 3명 중 2명, &quot;8월 기준금리 인상 전망&quot;</a>
   <span class="summary"></span>
   <span class="source">머니투데이</span>
 </div><div class="item" title="채권시장 참여자 66% &quot;7월 금통위서 기준금리 인상 예상&quot; — ">
-  <span class="time">07/14 10:28<em>2시간 전</em></span>
+  <span class="time">07/14 10:28<em>3시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFB3OTF6clJQLW5WcnE1dzJEY3pkaFVuZ2cyenNuTHl6THRPLUJyeEZPSUVBMFZlSTduNjRlMlhzUmtsMnVzQlFuNWdTRUpRNlE?oc=5" target="_blank" rel="noopener">채권시장 참여자 66% &quot;7월 금통위서 기준금리 인상 예상&quot;</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="7월 금통위 D-2…채권전문가 66% “기준금리 0.25%p 인상” 전망 — ">
-  <span class="time">07/14 10:06<em>7시간 전</em></span>
+  <span class="time">07/14 10:06<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ld1lwUklwbHJGQ3FtZW5zbzhFMUFFX0tUdTAtTXl1aWh0clBKQjNTTjg0aUt3OS1qanNhMkVqUk0zdmFSc2h5R1I4UVVwVXBwTElYSHV1VFRwV0piOTVhY2ctNDYzaDdvVmFVStIBcEFVX3lxTE1CYlN5a2VGcHU0b21WWm55dlNqd09kLWtKNmRHa2dscENWTGh4eW5jRXhrdkNNVnl2QzdWdENGVUc2ZGRlVzk3VUdQeW5RLThSMTBQejZtMFk4RXRZZDRFN0NfTlFMOXR1ZFNZNmNtdnI?oc=5" target="_blank" rel="noopener">7월 금통위 D-2…채권전문가 66% “기준금리 0.25%p 인상” 전망</a>
   <span class="summary"></span>
@@ -881,37 +890,37 @@
   <span class="summary"></span>
   <span class="source">헤럴드경제</span>
 </div><div class="item" title="한국 주가 폭락의 진앙은... - 신한證 — ">
-  <span class="time">07/14 08:38<em>23분 전</em></span>
+  <span class="time">07/14 08:38<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTFBCTkNxNF9ta29qZjFMMG45TkhrazN2d0lUSHN4QW56TWJRNVJOOTl2VWhFbklDZnU0TElvRzBBNmNoaGFlMXVDVG1ZN0c5Z2JPeFM1VF84TkloMDdGOWdCam5lQmllczM5eWtNazVfa2JCaVNmSHVB?oc=5" target="_blank" rel="noopener">한국 주가 폭락의 진앙은... - 신한證</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="(상보) ‘상장 첫날 13% 급등’ SK하닉 ADR 9% 급락 마감 — ">
-  <span class="time">07/14 07:10<em>23분 전</em></span>
+  <span class="time">07/14 07:10<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9Zc2s0bERmVzctdVhManBKZGFURlphd3ptWVNCTWtPYjRaa3cyd0VBcExkZ1dmdlFQRG5wVXdyVGhSTDNjNVhrM1NjTURIOE9sN1FlUFkyZm5FUVhJQmI2V1lJUF9HaVdTLS1DQThOTHNNbW5JeUVSSVNKN3Y?oc=5" target="_blank" rel="noopener">(상보) ‘상장 첫날 13% 급등’ SK하닉 ADR 9% 급락 마감</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="[채권-마감] 중동 리스크·유가 급등 속 채권 약세…외인 선물 매수에 낙폭은 제한 — ">
-  <span class="time">07/13 15:57<em>23분 전</em></span>
+  <span class="time">07/13 15:57<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBFMVE3V3JZdVVrUGR6V2pYc0oydXVvempVblB0WkhSTnZyWEtrVjVkcTZ3M3U4bkRZQThqMzhMeWt3QTFPT2ZlQmRkSTM4ZktrTl9sWVYxdDZqQ0VNLTVBWnhUNDdFVU11bkQ3UU9yZExkYVJtQXc?oc=5" target="_blank" rel="noopener">[채권-마감] 중동 리스크·유가 급등 속 채권 약세…외인 선물 매수에 낙폭은 제한</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="[외환-마감] 달러-원, 1510원 근접 후 1503원대로 상승폭 축소…막판 매도 물량 집중 — ">
-  <span class="time">07/13 15:50<em>23분 전</em></span>
+  <span class="time">07/13 15:50<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE9uZmJpZmo4ZHVzaHAwQVF3SEtVc3R3cUtNVURwSVpXajNmNUJ3d0JZbmpzYnd2MzF4cWFpSHpjUHBIWFdvMkE1Vl9EZkZRai1VTl9KeGtORF9JbENtM0FjNVZVQnB0ZHlmMU1ndW1Ya3JxbEtwTW1N?oc=5" target="_blank" rel="noopener">[외환-마감] 달러-원, 1510원 근접 후 1503원대로 상승폭 축소…막판 매도 물량 집중</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="[장태민의 채권포커스] 하이닉스, ADR 상장 후 한국장서 폭락...마이크론급 재평가 대신 200만원도 과하다고 재평가 — ">
-  <span class="time">07/13 13:44<em>23분 전</em></span>
+  <span class="time">07/13 13:44<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMid0FVX3lxTE5Gb0NBMmhSWHE4SnFhX0x6WkJUSnhkRTBZZ2lEblVpaHlNUkpMbVRmQ0RlNUdVaDk1c2Zpa0c3UHVLWEtjQ2xKTUNFQVZZMU1QS2JwV3BjbEYyNWwwWmJmNGxzRk1rRHRaZHV6X1ZYX20yRUpWN3hB?oc=5" target="_blank" rel="noopener">[장태민의 채권포커스] 하이닉스, ADR 상장 후 한국장서 폭락...마이크론급 재평가 대신 200만원도 과하다고 재평가</a>
   <span class="summary"></span>
   <span class="source">뉴스콤</span>
 </div><div class="item" title="정부, 26조 ‘전쟁추경’ 국무회의 의결…소득 하위 70%에 최대 60만원 지원 — ">
-  <span class="time">07/12 20:04<em>7시간 전</em></span>
+  <span class="time">07/12 20:04<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiqgRBVV95cUxPWmZFQWdKakg2RVhHQXJqVV9DQ3lpS2lmaldPNlFaZEVZaV9HZ1V4eWxLZTdaaWhyTDc0dEhZWVpZYTQ4NDI0NTBBdTFqMW11VjdBc0Z6VXJDaWlmSjNVQ1NvN0tSNDhuVjM3RXhZQmQ3M21XQWlDcVBTalNaUkdqcW1XWlpTZ1FpM19uMW5GaTl0bHdWS2FSM0F2d3M2SElSdFFIbHQ5R1pqUE5yV3R1RlZiV3p6ZkNYbFNBWHp2RWlSTG1SM1hqM2FTaWlvRkwwUWF5enlqR3hucjR4VDM1MUI0dmpnbmN2cWNMaTA5VXhHZVlKMmdTSVphODRLSlVkODI2TFR0RUxVT2llTU5tYmozU29OV0gzZmZJSE5HNk4yWmotZ2w0YkV5MENtbW1DR3JkdndIcTNnNS1iNWtycmlqU2VNenJ4bGN3V3hUYWlZR1JuMFQ1d3FVRXBDOVFaMVhwYlpNQUNzNnV4cDZRR3IwRWoyVkZiUGlZZU43UVdPeEhTci1PYS1uWVlXdlQ2WVJlcUV6S2dTdjNLYkJHQ2h4VllKN1VkcFhQeHBsWHNJYUR6LTZGb1g2Yi1rU0V5YnI5Y0NjR2pPYWp5Q1pSQkNiRFVQa0hqcFlsM0YzUDRjb25ublNPb2I5UjR0Y2FXM1ZzNklBY0dEZ08taEdqVTQ5dlM0dzNYcDluUTFZRWw0dkdhaG84VmNOc3c4ZXE1UmNFRHFTMWJudw?oc=5" target="_blank" rel="noopener">정부, 26조 ‘전쟁추경’ 국무회의 의결…소득 하위 70%에 최대 60만원 지원</a>
   <span class="summary"></span>
@@ -923,43 +932,43 @@
     <span class="count" style="background:#7a56c91a;color:#7a56c9">18</span>
   </div>
   <div class="item-list"><div class="item" title="이재명 대통령, 재정경제부 업무보고 발언 — ">
-  <span class="time">07/15 10:30<em>7시간 전</em></span>
+  <span class="time">07/15 10:30<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZlg2Y1VXbFE5dHhyS1hQRXBncXV6Y3dhcVRfUGsxVk96QTdaeUM2THNnNFVDcUhsMWZhZ0k5NlctSTVFbnAyRW14UnFuRlMwSGEyVlNPMFZuWjlOd2ZJdEJwbWktRGR2NmdQbHI0azZ4T2tfdmZwag?oc=5" target="_blank" rel="noopener">이재명 대통령, 재정경제부 업무보고 발언</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="정부, 하반기 디지털자산기본법 입법 추진…현물 ETF 제도화 [하반기 경제전략] — ">
-  <span class="time">07/14 17:42<em>7시간 전</em></span>
+  <span class="time">07/14 17:42<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE52UkgwMElJeVVFMkxEQ2tzNDVFeUlVYU9FMjRhaHdvUHY2eTFQWm1xelRpZklXRU9SYnR2RWQ2bzhOX2ZFQWxsakpVQzZvX1FYTDdNS2hoVU85eEdV?oc=5" target="_blank" rel="noopener">정부, 하반기 디지털자산기본법 입법 추진…현물 ETF 제도화 [하반기 경제전략]</a>
   <span class="summary"></span>
   <span class="source">supple.kr</span>
 </div><div class="item" title="정부, 디지털자산기본법 하반기 입법…비트코인 ETF 제도화 속도 — ">
-  <span class="time">07/14 14:15<em>7시간 전</em></span>
+  <span class="time">07/14 14:15<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1akF0YW5sOVk0dzBseEhxelN4dXY5QWhzZ1Rxajd1b0t5VGg3SEtBQktHdmNGcDl4cExxVWZVZzdHeGhUUk9GZnBGdHRuVWdRZFkw0gFTQVVfeXFMUDVqQXRhbmw5WTR3MGx4SHF6U3h1djlBaHNnVHFqN3VvS3lUaDdIS0FCS0d2Y0ZwOXhwTHFVZlVnN0d4aFRST0ZmcEZ0dG5VZ1FkWTA?oc=5" target="_blank" rel="noopener">정부, 디지털자산기본법 하반기 입법…비트코인 ETF 제도화 속도</a>
   <span class="summary"></span>
   <span class="source">서울경제</span>
 </div><div class="item" title="정부, 디지털자산기본법 하반기 입법… 국채 토큰화 추진 — ">
-  <span class="time">07/14 13:44<em>7시간 전</em></span>
+  <span class="time">07/14 13:44<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5hVkZMbm1XU05GNVpPYzR6c2tNUFpVNDR0SzdfUS1BSUV1VW5RdjJuNTBfNHV2RHhIZnhLSXc4dmc2empZWXF1cmdRdDJYbEtuUHdZbWhrQXUwUWhVMnp3UXlvTjgwLUZ6dWMydVo0bF9aQWtM0gF0QVVfeXFMTmFWRkxubVdTTkY1Wk9jNHpza01QWlU0NHRLN19RLUFJRXVVblF2Mm41MF80dXZEeEhmeEtJdzh2ZzZ6allZcXVyZ1F0MlhsS25Qd1ltaGtBdTBRaFUyendReW9OODAtRnp1YzJ1WjRsX1pBa0w?oc=5" target="_blank" rel="noopener">정부, 디지털자산기본법 하반기 입법… 국채 토큰화 추진</a>
   <span class="summary"></span>
   <span class="source">IT조선</span>
 </div><div class="item" title="정부, 원화 스테이블코인 입법 착수…달러코인 공습 대비 — ">
-  <span class="time">07/14 13:20<em>7시간 전</em></span>
+  <span class="time">07/14 13:20<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibkFVX3lxTE80WlhJLWJlNF9jSkJoenJqOUtydF9pZ0lHVUxfOTNQS0hEc3JEUF9TWnFVdGNPY3FUOXF0LVZ4Y2d3cUc3Q3JsRUdtTEFhUzBodlpQT1VITzdIZGotVVlUQzFLR25mN3RfV3ZwZ21R?oc=5" target="_blank" rel="noopener">정부, 원화 스테이블코인 입법 착수…달러코인 공습 대비</a>
   <span class="summary"></span>
   <span class="source">뉴스후플러스</span>
 </div><div class="item" title="발언하는 구윤철 부총리 겸 재정경제부 장관 — ">
-  <span class="time">07/14 11:15<em>7시간 전</em></span>
+  <span class="time">07/14 11:15<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVzFIbkdLQ0NPcHJ2dnBqbVJVSG9Mbmg2U0JrcDBLWTl6R19LaVpBNk5HZTNYT1l5SUgwbkIwa1kxQzBnU2MyemZwVQ?oc=5" target="_blank" rel="noopener">발언하는 구윤철 부총리 겸 재정경제부 장관</a>
   <span class="summary"></span>
   <span class="source">뉴스1</span>
 </div><div class="item" title="유가 급등·월러 매파 발언에 7월 美 금리인상 확률 40%→50% — ">
-  <span class="time">07/14 09:42<em>7시간 전</em></span>
+  <span class="time">07/14 09:42<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE5FUHlwTHA0dkVQMjl4ekp6Y3Q2STRWcGVwcm1SUnU3eWhpQnlHeUNfMjhfRHBiUHhDbFd6R3JOMmM1TGFVaC1ZLUcyLXdUOXpSRFRkOTlHMjZGYkhmVEtwS1llT2libkpLSUNFSA?oc=5" target="_blank" rel="noopener">유가 급등·월러 매파 발언에 7월 美 금리인상 확률 40%→50%</a>
   <span class="summary"></span>
@@ -971,61 +980,61 @@
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="종전 기대 후퇴로 3대 지수 모두↓ — ">
-  <span class="time">07/14 07:44<em>23분 전</em></span>
+  <span class="time">07/14 07:44<em>1시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMibEFVX3lxTE1UakljMFpWZ0oyNFlGRV9iVEt3RUhOV2wzTjQ1dzVPZW5KOVlrd3MwMTUza2dDZVk2S1lhUG5FOV9LcUFvS0JmRDRXLXJOcXpNNW5IYl9WMDg3TXpzMFdYVkJPQzhGam1TeDIzMA?oc=5" target="_blank" rel="noopener">종전 기대 후퇴로 3대 지수 모두↓</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="[뉴욕채권] 베어 플랫…유가 급등 속 월러 매파 발언에 이달 인상 경계감 | — ">
-  <span class="time">07/14 07:09<em>7시간 전</em></span>
+  <span class="time">07/14 07:09<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMidEFVX3lxTFBIV2NPVWltU2hUTlljTHVJRkhiM0VEMEc1S3AwdlhXQjJ5cXBRZWcxOXNtZzdNR1VVN190SE5NWjFlVzkyMU9KaUdwT3JMa3RRQmpZNnlTZXA2ek5GdmxhOEhnRkgzSDBONkZJTmNCYzZ0NG1x?oc=5" target="_blank" rel="noopener">[뉴욕채권] 베어 플랫…유가 급등 속 월러 매파 발언에 이달 인상 경계감 |</a>
   <span class="summary"></span>
   <span class="source">연합인포맥스</span>
 </div><div class="item" title="[뉴욕마켓워치] MOU 이전으로 돌아간 美·이란…주식·채권↓달러↑ — ">
-  <span class="time">07/14 05:57<em>7시간 전</em></span>
+  <span class="time">07/14 05:57<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTFAyRGswcC1LNGhuMXJ2d2dzTG9oWEhUOWZKMlJVbHV3QkNPaDhkeHF5dHBhOElNQnQ3cWRFYzBsaUo3Rk5PbHk1TlcxOVlJVkl6RlRkaVdLN29XcEFSOU5MNmxTcXJuYWRfbXZJSVNNVWNoQQ?oc=5" target="_blank" rel="noopener">[뉴욕마켓워치] MOU 이전으로 돌아간 美·이란…주식·채권↓달러↑</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="종전 MOU 끝난듯 트럼프 폭탄발언에… 유가 뛰고 국채금리도 상승(종합) — ">
-  <span class="time">07/14 05:13<em>7시간 전</em></span>
+  <span class="time">07/14 05:13<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMi_gRBVV95cUxPMFZSWVVHbmhnMlBpNTdkMF9wVlNMVXNpMkJGMzU1c1BZTjVqa0lhcnA5WG5xeExpNjktdi1GR0g1azkxcDVIX0tHWG9aT3p4RVdIRnJ0dG9FUzA5Q21uU0VDZXpfSExHc3RSbDVjUktmeGljN3BxN1lhdkdZNS10NXI0ZEpITE1SblV2S2xmLWs5THI2ZnduaTlaNXRrSFZRTTh2cFRpLTFBV2J3RkRwUXc1VUZsUlRyTlpxT1ZfbUJLb0lhemI5M09pRk5KeW5iek00c2piOHlIaTdHSWpieWNsdDZKTi1FM0tOdFplMXhfeGtVbjF5QTJQZFlVeHlQRHk2d2hVVi13QkdBQlNLZFoyNUN1d09yRVZKbEU0ZFpBV1djaDFzMWFiYUtPdGcyY3NzQ2Eza19MVzJ0MFFwWUhnbjFtdVI4TzA1dXMySUhXZDBoQzV5Q25hWXloVmdWaDRxWGxZYVRVd2lSYXRrU2NYVWpZWHRsdHVHNVJXendoV1FsaHlXVXYyMUFpVzFlSjc5Z054VWsxbzZNY2xHbE1zcksteG4yUUIxWGNiN1F0VldtVDFjTjdWRy1wQm5XNTNrYXVhTDdEeTZ1MTVNS2c5U2dBVjE5bVlnQjZFQUNabjR0a0pSTXNwX2ZWUG5vZDlLTVFoQmRCN0tlR0tYRXBNYmFYWUotWk0xNDZyNThzSUJ4eFFhd2haQWZmd0hndTZtVWNtM2FqYkZMc2p3b0VRdGV5TTJfX2VzQ3ZTVTJudHM3ZWN5Uk5kclZVeVVtbURqMG1PSnUydElrT0ZTT1dfWjFlaV90S0dRdTRDSHB1RWZQQktmU3YxeEE0Zw?oc=5" target="_blank" rel="noopener">종전 MOU 끝난듯 트럼프 폭탄발언에… 유가 뛰고 국채금리도 상승(종합)</a>
   <span class="summary"></span>
   <span class="source">MSN</span>
 </div><div class="item" title="&quot;망하도록 고사 지내는...&quot; 이재명 대통령이 국가재정전략회의서 한 마무리 작심 발언 — ">
-  <span class="time">07/13 20:13<em>7시간 전</em></span>
+  <span class="time">07/13 20:13<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFB4cjBMUU9mdzFicnRtOWpsSjhZcnlsMzR5MUZWQWx2T3lWM3VOWkI0NUh2dzlyLUJnUWNrZWhxeDEyVU1tN3QyX2R1VjI5X3NVVXRXNUp3?oc=5" target="_blank" rel="noopener">&quot;망하도록 고사 지내는...&quot; 이재명 대통령이 국가재정전략회의서 한 마무리 작심 발언</a>
   <span class="summary"></span>
   <span class="source">위키트리</span>
 </div><div class="item" title="발언 경청하는 이재명 대통령 — ">
-  <span class="time">07/13 16:32<em>7시간 전</em></span>
+  <span class="time">07/13 16:32<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiS0FVX3lxTFAwUlhMU1FmX2FPamFEaUlBRXRUOEpIVGw4ODVoc0RGYThXdWwxWG52XzBFWkhOc3lfTjZGMjlxRkZNbGFYTEtsVFVkNA?oc=5" target="_blank" rel="noopener">발언 경청하는 이재명 대통령</a>
   <span class="summary"></span>
   <span class="source">뉴스1</span>
 </div><div class="item" title="국가재정전략회의에서 발언하는 이재명 대통령 — ">
-  <span class="time">07/13 14:56<em>7시간 전</em></span>
+  <span class="time">07/13 14:56<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBkdHF0WUpjRm5ESEdjbWhrZk9RWG1YenBTaHlJTkhIeEUxVWVaSXY1R1FudUF5X2pTQXFwOTJuWEF4WTllREtPbi1DZWFOVGJ2Smw1VGlRVjAyaXIwaGlVY1lOZHlGN0lKTnpOVTFPQjdlY0dpb09CWtIBeEFVX3lxTFBkdHF0WUpjRm5ESEdjbWhrZk9RWG1YenBTaHlJTkhIeEUxVWVaSXY1R1FudUF5X2pTQXFwOTJuWEF4WTllREtPbi1DZWFOVGJ2Smw1VGlRVjAyaXIwaGlVY1lOZHlGN0lKTnpOVTFPQjdlY0dpb09CWg?oc=5" target="_blank" rel="noopener">국가재정전략회의에서 발언하는 이재명 대통령</a>
   <span class="summary"></span>
   <span class="source">뉴시스</span>
 </div><div class="item" title="이재명 대통령, 국가재정전략회의 발언 — ">
-  <span class="time">07/13 14:15<em>7시간 전</em></span>
+  <span class="time">07/13 14:15<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE52TWl0TVkydjhjLV94dVVvd2hIQm1RZG0td1g2VE81ajFaOGdmdmduVTlfYTUwQmRYcEJnV2ZQb1NvTkU2SUFMcENpekZRMEdmSW56emJlSFhMYTNwZjJRcNIBYEFVX3lxTE52TWl0TVkydjhjLV94dVVvd2hIQm1RZG0td1g2VE81ajFaOGdmdmduVTlfYTUwQmRYcEJnV2ZQb1NvTkU2SUFMcENpekZRMEdmSW56emJlSFhMYTNwZjJRcA?oc=5" target="_blank" rel="noopener">이재명 대통령, 국가재정전략회의 발언</a>
   <span class="summary"></span>
   <span class="source">연합뉴스</span>
 </div><div class="item" title="원·달러 환율, 1498.28원…약보합권서 등락 전망 — ">
-  <span class="time">07/13 08:03<em>7시간 전</em></span>
+  <span class="time">07/13 08:03<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oVjhHMEluaHRIQ0NYTUx5MGlfb2h0UHNsMG8xMzdXTzgtdFJxNTVaRlBpQ21FeVpENDk5UWpyNGNrZGkyYzJMemNMcWw4N01DYUk4ZU95aVM1dkFQVG93?oc=5" target="_blank" rel="noopener">원·달러 환율, 1498.28원…약보합권서 등락 전망</a>
   <span class="summary"></span>
   <span class="source">조세일보</span>
 </div><div class="item" title="[뉴욕마켓워치] 중동 불안에도 SK하이닉스 &#x27;13% 급등&#x27; 데뷔…주식·달러↑채권↓ — ">
-  <span class="time">07/13 06:10<em>7시간 전</em></span>
+  <span class="time">07/13 06:10<em>8시간 전</em></span>
   
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE04cVlfVGxqU2VYRFkwbEx1MWtwdXJ0U2s5cnhxTk5FUngtZ2ZTNXlkQmZ5ZjR6RXZpVkROaUNzZDI3VTBLWEhVbVV6aWNpUEpTM0xWXy1QTlhEQWozZDBScElDX1ZlTUgyazlMc2huNWM0dw?oc=5" target="_blank" rel="noopener">[뉴욕마켓워치] 중동 불안에도 SK하이닉스 &#x27;13% 급등&#x27; 데뷔…주식·달러↑채권↓</a>
   <span class="summary"></span>
@@ -1036,74 +1045,86 @@
     <h2>글로벌 채권이슈</h2>
     <span class="count" style="background:#0f8f851a;color:#0f8f85">40</span>
   </div>
-  <div class="item-list"><div class="item" title="“원화 환율에 미칠 영향 촉각” 엔저 방어 나선 일본 — ">
-  <span class="time">07/15 16:18<em>1시간 전</em></span>
+  <div class="item-list"><div class="item" title="AAA credit PM sounds alert over &#x27;massive collective hallucination&#x27; — ">
+  <span class="time">07/15 18:49<em>방금</em></span>
+  <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span><span class="new-badge">NEW</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOUVNtYml0Z2dlMDJUYWZXMHZoWlVFbmhRVElKTnNmTWZWYURnSkRrRnJWeGY4dnd2c21GMEFVazUwQlVHMU9tam9UVVFuT0ZOUUhQa0k1WmlEdzdsZGJFMlFOaDktNGZuVmowUmdYOVd5eVNSMDMtWWl3MGZzamRSWU45TTVVMHA0VGFEOFQ0blJSbUdjZWJWcWtIRzJCcVhhLUk3ektNb3JINjJK?oc=5" target="_blank" rel="noopener">AAA credit PM sounds alert over &#x27;massive collective hallucination&#x27;</a>
+  <span class="summary"></span>
+  <span class="source">Citywire</span>
+</div><div class="item" title="Why Smarter Fixed Income Indexing Is On The Rise — ">
+  <span class="time">07/15 18:35<em>방금</em></span>
+  <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span><span class="new-badge">NEW</span>
+  <a class="headline" href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUWU1NV9WTTZSSjA4SWY4eEVPRTV1TTNDSi1uMzZqTWVPR3hRV1FxNTRnNF83amJVc1BlYWxQaDdzTnBqVWowelVaS2JjeHZaNFJjVnBKSC1jVHEtbDNrVjI3dzRPOTUyWmdBZENWRXhLc1o4Vkc3V1lVSVdsTWRObmJROVBNX1li?oc=5" target="_blank" rel="noopener">Why Smarter Fixed Income Indexing Is On The Rise</a>
+  <span class="summary"></span>
+  <span class="source">Seeking Alpha</span>
+</div><div class="item" title="“원화 환율에 미칠 영향 촉각” 엔저 방어 나선 일본 — ">
+  <span class="time">07/15 16:18<em>2시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqUUhQRE5iMk1KUmhkY2dKVlo2eE9jeUVBWV9lbHVHVjFST0tRdjdqdG53MENNT2hrVEs5bW9WWld3U0s0UUJBMFl2Zk9sQ0U?oc=5" target="_blank" rel="noopener">“원화 환율에 미칠 영향 촉각” 엔저 방어 나선 일본</a>
   <span class="summary"></span>
   <span class="source">v.daum.net</span>
 </div><div class="item" title="Global Market: Japan bond market sees steeper curve amid yield divergence — ">
-  <span class="time">07/15 16:08<em>1시간 전</em></span>
+  <span class="time">07/15 16:08<em>2시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbnRQOUVFaEZiMm9BalpadG1rWHRrdl9HLU00ZThnQU1jZE9md2h2NlhTN2xZM2VndHd1UTZ3eFBjX09MS0ktVVNtZmpYV3ZGZzVHWkdRYXRuSnM0QllFVy0ydGN1Vno5aVprYklKcm5GQmpPU3hoTXRLSlhhSl9SSGdzMFRaWTFvN1I1SXA0cVM4NVpRWW1kanV5WlRjN0ZGcDB0YjR5OUpKNGhvcV9lLVI5OVVKZlZMbFZhbzlVajhFdEVrQ2c4d2Nsa1BlLThqMVI4cTY3WGRUM0NXTExISnpYRdIB6AFBVV95cUxNc2lFLU1aemUtQ2U1N3BxNXpQSFIxdzlZalRmV05rSHl1RC1xVVBhbGNfdE5FbUs1NzgzLTJWdkVJbmNaSHkxampxaXFOb182OWN5akJOUWlUaEthWW50ckozN3F0NnNZNmdYc0VyUnVQVjZ1ZEs4VEtfblNHcHZUWHdrN0xYLS1BbEJJaFpDc1NkOVMtMTlpNF9zZ1ZKUmpxdGZXNWc4Q2dXS2pvZF9pWkM4NDFvelVvUDZFTS1FMlF1bHRmV0tVWV85eUV2LVVEYk1YaGNNdXhBM3JveXZReGVFNWxmbzl3?oc=5" target="_blank" rel="noopener">Global Market: Japan bond market sees steeper curve amid yield divergence</a>
   <span class="summary"></span>
   <span class="source">The Economic Times</span>
 </div><div class="item" title="Long-Term Yields Fall to 2.685% as Cooling US CPI Dampens Early Rate Hike Expectations — ">
-  <span class="time">07/15 15:55<em>23분 전</em></span>
+  <span class="time">07/15 15:55<em>1시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9JV2Q3WENSQ0Mwc0E1WG1UVm5Bb1hkLURSUGpIUDVLa0pBSWIwdmFxcFNlWlZLTHVmSWtKVnEzN054VlBmSnRGN0xtbGR6QTVSeWpNU3R2eG9zelctakVxcU9yaFdlSnNYalJHSnhMTENVTzlya2c?oc=5" target="_blank" rel="noopener">Long-Term Yields Fall to 2.685% as Cooling US CPI Dampens Early Rate Hike Expectations</a>
   <span class="summary"></span>
   <span class="source">finance.biggo.com</span>
 </div><div class="item" title="Japan PM Takaichi says draft economic blueprint not cause of bond market rout — ">
-  <span class="time">07/15 15:51<em>2시간 전</em></span>
+  <span class="time">07/15 15:51<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1jZmFUWUhrUVZRZmYzbmlXenExSWtycTRkaUppRWZ0NUtxVlNWY19RVGk3YnZQZEhvRDczMUY3eGx5SHI1TFRpcHZBcV9vZWNLWElTTENUeXAwTTAwR3VVV2RxYnU4Y1RZUmMwUW1LdnZPSzRNcUJxMml3WGE?oc=5" target="_blank" rel="noopener">Japan PM Takaichi says draft economic blueprint not cause of bond market rout</a>
   <span class="summary"></span>
   <span class="source">AOL.com</span>
 </div><div class="item" title="Fixed Income Insights - July 2026 — ">
-  <span class="time">07/15 15:48<em>2시간 전</em></span>
+  <span class="time">07/15 15:48<em>3시간 전</em></span>
   <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiigFBVV95cUxQOVVkQmc4c3J0b0xXNERpazVTNTFlZVJIV2Y0R0JEWUdrQjJxbjJueFU4MGZJUkJsUl8tYlQ0UmxHVlNfZ3BRbEtHeWRpZGdCYkJqUEJNN05hbjlwRUgzY2FJT2NqQlBVSkF0NHlYenRvTVVrV0Jfdk5VQ2ozcjc3X0toN2RhTEJ0NVE?oc=5" target="_blank" rel="noopener">Fixed Income Insights - July 2026</a>
   <span class="summary"></span>
   <span class="source">LSEG</span>
 </div><div class="item" title="2주간 1500P 빠진 코스피, 은행株 &#x27;피난처&#x27; 부각…&quot;실적·배당·금리 요인이 강세 배경&quot; — ">
-  <span class="time">07/15 15:39<em>1시간 전</em></span>
+  <span class="time">07/15 15:39<em>2시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yUFlncjBsV2ZhZUxzTmdJVExCYjh1dVMwQ3A2T2pEWFhTUnRYa0dBSlhySGN4NUVPY3paZGg2aDczOE1uby0yZG5jVFJVY3RVSnVR?oc=5" target="_blank" rel="noopener">2주간 1500P 빠진 코스피, 은행株 &#x27;피난처&#x27; 부각…&quot;실적·배당·금리 요인이 강세 배경&quot;</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="Corporate Bond Market Size To Exceed $101.21 Trillion By 2035 — ">
-  <span class="time">07/15 15:07<em>23분 전</em></span>
+  <span class="time">07/15 15:07<em>1시간 전</em></span>
   <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9sRUlXT0xJT01fWnBXVFdsRkV6UEJBOF9IR1JMdDBZaTZMb0pfcG9CSnE5eERhdmdxdWJhLUxzeklSRnd3OHFYLTdZNWx5NUZxZEIxT2U1aDRwa1p3Nklza0djRzlHYWo3clpSR0JlT2t6QVJTVlVpYQ?oc=5" target="_blank" rel="noopener">Corporate Bond Market Size To Exceed $101.21 Trillion By 2035</a>
   <span class="summary"></span>
   <span class="source">SNS Insider</span>
 </div><div class="item" title="일본 국채 30년 만에 부활…세계 자금 ‘도쿄 귀환’ 시작됐다 — ">
-  <span class="time">07/15 15:07<em>2시간 전</em></span>
+  <span class="time">07/15 15:07<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFa3VhTlBHTkVpeUZwdzR5OExFdzdPOHdBdTQ1d3lUSVRtUWRHVENwNWJIYnRCNHV3dVo4cjZKaDZVbmRpdEpXUkJ0WklSS3A1NWxrR1BnTVBsSTVRb1JuMjctV0pMa3hl?oc=5" target="_blank" rel="noopener">일본 국채 30년 만에 부활…세계 자금 ‘도쿄 귀환’ 시작됐다</a>
   <span class="summary"></span>
   <span class="source">OBC 뉴스</span>
 </div><div class="item" title="&quot;달러-엔, 연말 160엔 안팎 전망…엔화 강세 폭 제한&quot; — ">
-  <span class="time">07/15 14:24<em>2시간 전</em></span>
+  <span class="time">07/15 14:24<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMickFVX3lxTE1xc1htSHo5TzBFdlBhZi1EQUlIaWNVaF9fdnZqVnlYdGI1YmlOX2VDaDNqNVpuQkRGRFpXS0lyQ1hZcWtDenBLTUdVV1VVNmNIQjZKOVFEWlk3NTRDcnRGT3FqVXR3WjAtM2tqVlpTMnNNdw?oc=5" target="_blank" rel="noopener">&quot;달러-엔, 연말 160엔 안팎 전망…엔화 강세 폭 제한&quot;</a>
   <span class="summary"></span>
   <span class="source">KB Think</span>
 </div><div class="item" title="물가 잡히자 원화 쓸어 담은 외인…폭락 장 비웃은 ‘이틀 연속 1조 폭격’ — ">
-  <span class="time">07/15 14:18<em>2시간 전</em></span>
+  <span class="time">07/15 14:18<em>3시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMibkFVX3lxTFBYSjVNdHZGMHJhaEFBdTVwb3Q4ejFNZXdVWjU3cnhfcFhaRjlYLUJ0eHRQU1BCSGFIbHRUR2VHRUdHZzJDSkVtR2U5dV9NNGJsZGdwczVwelYtWUlXTmVzWUhXc01nT25la2Y4cnpR0gFuQVVfeXFMUFhKNU10dkYwcmFoQUF1NXBvdDh6MU1ld1VaNTdyeF9wWFpGOVgtQnR4dFBTUEJIYUhsdFRHZUdFR0dnMkNKRW1HZTl1X000YmxkZ3BzNXB6Vi1ZSVdOZXNZSFdzTWdPbmVrZjhyelE?oc=5" target="_blank" rel="noopener">물가 잡히자 원화 쓸어 담은 외인…폭락 장 비웃은 ‘이틀 연속 1조 폭격’</a>
   <span class="summary"></span>
   <span class="source">파이낸셜투데이</span>
 </div><div class="item" title="日 국채 금리 급락 뒤 GPIF 그림자…국민 노후자금으로 시장 떠받치나 — ">
-  <span class="time">07/15 14:15<em>2시간 전</em></span>
+  <span class="time">07/15 14:15<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQmw2cC1wdzdNbEFsQjc3OUNOZUhFWHVkQnc2Slh0elZTcFRhRnVrMXRyM1ZoejctTGJtQnpUT19DbWczbnEtb3hfX254TEoxb2FZdklIajFUd9IBWEFVX3lxTE1VcjRuYjkxenoyY0habXdEWFkxTWsxanNfVzlIR01OdlZmZFk5Zld6QmNJX1pYcWl3M2N3bG9hbHlSbmgzZVl4WDM0ZUZ6RE80N0ZSWXBIU1Q?oc=5" target="_blank" rel="noopener">日 국채 금리 급락 뒤 GPIF 그림자…국민 노후자금으로 시장 떠받치나</a>
   <span class="summary"></span>
   <span class="source">아주경제</span>
 </div><div class="item" title="Why Is iShares Core Composite Bond ETF IAF Back In Focus? — ">
-  <span class="time">07/15 13:12<em>2시간 전</em></span>
+  <span class="time">07/15 13:12<em>3시간 전</em></span>
   <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMimwFBVV95cUxOMk81WkFHd2d0SnBZLTdtVVRQSEZSWTh0UkowdjJXX2EtRXMtRTZ0aXIySGYtYXNBd2tTVGtNc3hCbUhVSldPbElVUWZYanh1cU9oM1FkbTNlRlRtUloxSmxCd3B1SVVzM2JlalJDeWdxNExyaDFhYXBuam1JX1FqT1NoZ3RyY3dvNDlweHYyV2tMYm1aZTdBNlhrUQ?oc=5" target="_blank" rel="noopener">Why Is iShares Core Composite Bond ETF IAF Back In Focus?</a>
   <span class="summary"></span>
@@ -1115,19 +1136,19 @@
   <span class="summary"></span>
   <span class="source">Business Post</span>
 </div><div class="item" title="워시 연준 의장 “인플레이션 용납 없다”…물가 안정 재확인 : 글로벌 — ">
-  <span class="time">07/15 12:59<em>2시간 전</em></span>
+  <span class="time">07/15 12:59<em>3시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiSkFVX3lxTFBOSjc2SDViam14Y0o4VmJtZXFoZTFJZnJpTzRlNDdCdzZVd0V2dmV6Yk9uUzNMZUV6cENZLU1ZQS1ORzJEb0xkcFpR?oc=5" target="_blank" rel="noopener">워시 연준 의장 “인플레이션 용납 없다”…물가 안정 재확인 : 글로벌</a>
   <span class="summary"></span>
   <span class="source">재경일보</span>
 </div><div class="item" title="3 Dividend Stocks For More Stable Income In A Volatile Rate Market — ">
-  <span class="time">07/15 12:46<em>2시간 전</em></span>
+  <span class="time">07/15 12:46<em>3시간 전</em></span>
   <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxNbFBxNmttUC02eEdaLTlFdkRqT3ZMbnNyYnhqMkFmSjc1U1B2Mk1nTExxSW04VkNsQjZNVjMtYlBfQzdEN2xkQ0FHcndkVWdxQnJNS0pPUkhtVDI5Mk1fbmxTNlFwVU1adWNyZ01kREVpNjRHV2VCajV3aEZJYkJDUlhXalhGcHNFdFNLVk1RRGdDMUxWbHRqYXNGSmlodnBLekk0OVp1YkhXMVBfNG5rWEVJaWx2YUZJWUNXaE8zUWlpd0tWNXdGTkpYdkFSam5vLWt0RTE1MVcyTWtVWXfSAeMBQVVfeXFMTmk1UWhoVl80TWozT3dQR1p1dElkTmZ5VGtibVVEWnVpcjV4QVpBeERKY1BLS2ZXcVM0WS12ZDNMNDRtcG1rbHByN1o5VEcwd2d0dVlkVVo1dGx4RWZHaWYxVnZ4LS11TV9BS0ZhRFdWWlJzQWJVWXktUl9wdnd6OV9JeFZIcXU1d19BN3pUUlQtT1JEdDFiZ3J1X19kelEyWnNGS0ExM0VSM0M2LThpdlV5NnM0bW8zQ3JDMjZfZGI3cWFyX2t6M29BbHVYX1lqbTVZcDRvTFdfRDF1cEFPRkFwbXc?oc=5" target="_blank" rel="noopener">3 Dividend Stocks For More Stable Income In A Volatile Rate Market</a>
   <span class="summary"></span>
   <span class="source">simplywall.st</span>
 </div><div class="item" title="Federal Reserve Chair Testifies on State of U.S. Economy — ">
-  <span class="time">07/15 12:42<em>15분 전</em></span>
+  <span class="time">07/15 12:42<em>1시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjVtU2J6d1RYc3N1UDc1Q3FVUFpGM0ZmOE9SaTlUdjF2dEp2bjQ3U3dzakRJMTlSZ3ZablVYb21fYXZjblRlQVhwZ1NsU0ZWdE1rUDdxLWxaUnZFSlQxSWxhdTF6bU9sRHkwZFNMWGE3bTRhMkNrNHJOMVF0dVp2ZU44Y3ZJb1d3NEpkQUdGM1M2RjJvN1BELWNEa2FSal8yVC0tY1QwSUliUQ?oc=5" target="_blank" rel="noopener">Federal Reserve Chair Testifies on State of U.S. Economy</a>
   <span class="summary"></span>
@@ -1139,73 +1160,73 @@
   <span class="summary"></span>
   <span class="source">TradingView</span>
 </div><div class="item" title="Surge or selloff: Stanlib raises the odds on market extremes — ">
-  <span class="time">07/15 11:15<em>23분 전</em></span>
+  <span class="time">07/15 11:15<em>1시간 전</em></span>
   <span class="tag" style="background:#3f7ecf1a;color:#3f7ecf">Global</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMingFBVV95cUxPU3FQRzg2WGJlNzBSTFM3ZnBIVVIwdzc3VFpHc0E3UHEzQy14RTltcUQtenlyRVc4WDhpanh1VUsxUFBndEV1NXZHbC1IaGltNHpXUnpIQ0JJeENORE5uaDkwVmVOVjRVaDg0TnN2UEJhRThjcjZ1dFhMZU1wWUM0NndiTjIwQWVyM1Y3b3dNV0RoT3hKRnp4YUxnQ3N5dw?oc=5" target="_blank" rel="noopener">Surge or selloff: Stanlib raises the odds on market extremes</a>
   <span class="summary"></span>
   <span class="source">Citywire</span>
 </div><div class="item" title="Fed Chair Kevin Warsh vows to make 5 years of high inflation &#x27;a thing of the past&#x27; — ">
-  <span class="time">07/15 10:53<em>1시간 전</em></span>
+  <span class="time">07/15 10:53<em>2시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMigwFBVV95cUxORFhrMUdfcUd5OTd1Y1RWbmZMVnRyeFBCYm96a2tWOURLSzlRS0cyOFcxZmlXS1BzajRxN3M4YmtZZlhuY0VFRFRoTUJIX1ZZVm1HZHV0UmZDRkxxM1IyOFZjb3JSSERiYVprbkp2cHNMZW1EU0JGY1lfRkZ4V0pmbXhZQQ?oc=5" target="_blank" rel="noopener">Fed Chair Kevin Warsh vows to make 5 years of high inflation &#x27;a thing of the past&#x27;</a>
   <span class="summary"></span>
   <span class="source">qz.com</span>
 </div><div class="item" title="US yields face a new pressure point as Fed risk meets Japan intervention fears — ">
-  <span class="time">07/15 10:48<em>2시간 전</em></span>
+  <span class="time">07/15 10:48<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbHFTNlBSOWJkRWhFdGViUzFaVHpKczBRSFhlTVNsU1ltYWw2MHJuMVJMUFpSdnJPbHNqSHkxdllsYXRSd2pTMmVWN29yOXRaVlR2RXZGQm9iaklqYVN3Z2V3b2Vra3c1OXdGQUZsWVA3ZVRpUlFZWk9rbUktZDUwTHlzUEZoX0VBS2tDQ2UwNDc1YkZmQTF6SEJ4X1FnMXRMbEV6b2hlMkZXbkZfbXNtT0kwTWx6NllHcHE0d29rWmtqbFZzT1F5Qg?oc=5" target="_blank" rel="noopener">US yields face a new pressure point as Fed risk meets Japan intervention fears</a>
   <span class="summary"></span>
   <span class="source">equiti.com</span>
 </div><div class="item" title="日 채권·외환시장 개입 강화, 원화 강세 영향주나 — ">
-  <span class="time">07/15 10:27<em>7시간 전</em></span>
+  <span class="time">07/15 10:27<em>8시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE8yVGN6RnpJWlR3RlBZLXY5b1BSbWVJZ0NrbXVreHFPVVFwM3lEc2tGT1VDNjNNRXltei1sWjFSa1g2M3JySXBSLUZRdjhxM2l1eHFqSk8xc3NqQk52SmlrcFpmdnhfRzFl?oc=5" target="_blank" rel="noopener">日 채권·외환시장 개입 강화, 원화 강세 영향주나</a>
   <span class="summary"></span>
   <span class="source">fetv.co.kr</span>
 </div><div class="item" title="오늘(7월 15일) 미국 달러 환율: 미국 달러는 계속해서 약세를 보이고 있습니다. — ">
-  <span class="time">07/15 10:19<em>2시간 전</em></span>
+  <span class="time">07/15 10:19<em>3시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMigAFBVV95cUxQM0htbmMzTGRSQ2xmVXNyNGx1RUk4YXgzUnVWWURvaU5VZmN2QTBUUzE2TWw0MlgwdEpYM3dOV3NDbVlNMTZ1bFdFUUN0aGNWUUU1T0JvdXZoNXBVTjJHbGxVMnB0N1NnaXdyUW9kbk01MTJMUnRPVXkyNVNYTHNEYQ?oc=5" target="_blank" rel="noopener">오늘(7월 15일) 미국 달러 환율: 미국 달러는 계속해서 약세를 보이고 있습니다.</a>
   <span class="summary"></span>
   <span class="source">Vietnam.vn</span>
 </div><div class="item" title="워시 美 연준 의장 &quot;높은 인플레이션 용납 안 해&quot; — ">
-  <span class="time">07/15 10:07<em>7시간 전</em></span>
+  <span class="time">07/15 10:07<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUmZOb1pPQWNxS0d3dDc1bnc4ZUZpMFcwYXZBSE9xZUdPNDQtM2NLdmtpNVNUV2dxMG1xZEpwVVBmclBRanUzbndyRl94N2tiaXJv?oc=5" target="_blank" rel="noopener">워시 美 연준 의장 &quot;높은 인플레이션 용납 안 해&quot;</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="“일본 정부 시장 개입 강화…엔화·원화 추가 상승 가능성도” — ">
-  <span class="time">07/15 09:23<em>7시간 전</em></span>
+  <span class="time">07/15 09:23<em>8시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hQlZoT2dld1F4dFU0bkdBaE5oS2RIRkM4azBkTWlJd0xFTkx0bXFzNVIybUh6M1VuM21xVWVER2tFeTFNSTJoVXJxWEF5U2MyT044VEN0azRoeXF4VFE?oc=5" target="_blank" rel="noopener">“일본 정부 시장 개입 강화…엔화·원화 추가 상승 가능성도”</a>
   <span class="summary"></span>
   <span class="source">뉴스투데이</span>
 </div><div class="item" title="[포토] 美 하원 출석한 케빈 워시 연준 의장 — ">
-  <span class="time">07/15 09:07<em>7시간 전</em></span>
+  <span class="time">07/15 09:07<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTQjhXOGVtT0VFdTFyNmh4ZTFobV9NemdmRFRRbFhkdjZ1MUFveTV0M0FubnBWZGJONjVtY3h0aS1ESEVIdlVPdDJyd2kxSXlGV2tr?oc=5" target="_blank" rel="noopener">[포토] 美 하원 출석한 케빈 워시 연준 의장</a>
   <span class="summary"></span>
   <span class="source">네이트</span>
 </div><div class="item" title="[모닝 리포트] &quot;일본, 채권·외환시장 개입 강화, 엔 캐리 자금 환류 가능성&quot; — ">
-  <span class="time">07/15 08:59<em>7시간 전</em></span>
+  <span class="time">07/15 08:59<em>8시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTFBBS25vOVNnb3RMWm9ORlpEUVBTdndZV2hyTDQ1ei1oLWlzTE9xc3dRTUlqdHdrX0xZN1Jma3J6c3VyLXpqUjd0SHp1QktwZG5pMFFMcmVRZzIycEdh?oc=5" target="_blank" rel="noopener">[모닝 리포트] &quot;일본, 채권·외환시장 개입 강화, 엔 캐리 자금 환류 가능성&quot;</a>
   <span class="summary"></span>
   <span class="source">뉴스핌</span>
 </div><div class="item" title="New Fed chair Kevin Warsh testifies before Congress — ">
-  <span class="time">07/15 08:42<em>7시간 전</em></span>
+  <span class="time">07/15 08:42<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOZVBHTE9yMnIwMzNfclVpY0QxV1lpZ3AzaFh6R0I5Q3BnaG1EdHNMd0E0MEZlUXFXMjItMms5Y2Z0WnhVWkdYbGVqam9jSGUyM3pQcGZFUTk2M2pqdldFSDBWcms0R2diX09Wc2UtdVhfLTQ1eVVWM2NWNXItenZHaGpfZWluc0pCODJaZ2dnRU1CSXR3Ums5Y1BhOXFkcHF6?oc=5" target="_blank" rel="noopener">New Fed chair Kevin Warsh testifies before Congress</a>
   <span class="summary"></span>
   <span class="source">localnewslive.com</span>
 </div><div class="item" title="“CPI 둔화 만족 못한다”지만 긴축 전망은 ‘요동’ [트럼프 스톡커] — ">
-  <span class="time">07/15 08:33<em>7시간 전</em></span>
+  <span class="time">07/15 08:33<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiUkFVX3lxTE9PWGp3NHMtQm56NnRzMTJ3OS03YTR6TVRVWVBnbU9NLU1jbHFFVkl3TDZteDlFWXhmSXFHR09pR05Qc213X1d3d00wcDI0QjI5NFHSAVNBVV95cUxQV3pKcWttYU9nSklCTThCdWRwdHZMV3Nsc1NGWTZxT0daTFJGdUJqVTFSLTJRN2JJVWowZ3hVNG9zTEpOLXlHbDNia2tWTksxS2F6MA?oc=5" target="_blank" rel="noopener">“CPI 둔화 만족 못한다”지만 긴축 전망은 ‘요동’ [트럼프 스톡커]</a>
   <span class="summary"></span>
   <span class="source">서울경제</span>
 </div><div class="item" title="Fed chair says AI ‘hasn’t displaced workers’ so far, has boosted productivity — ">
-  <span class="time">07/15 08:21<em>7시간 전</em></span>
+  <span class="time">07/15 08:21<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiekFVX3lxTFBueFNjM2E3Y05HTDJFNUVQcWY3VThDNXBzaWJqZTNOV1Y1Um1xR0IxVUFURnZtV2U2VnlJUnNlZ1RIdS1PSVJ3Uy1HLWM3REFJUTBKMmNERGJaSllBaVEzLUpsRmxJdXRxQ2lqU3dxMzJjdklITThxMHJB?oc=5" target="_blank" rel="noopener">Fed chair says AI ‘hasn’t displaced workers’ so far, has boosted productivity</a>
   <span class="summary"></span>
@@ -1217,65 +1238,53 @@
   <span class="summary"></span>
   <span class="source">PBS</span>
 </div><div class="item" title="Fed Interest Rate Decision July 2026: Market Impact &amp; Investment Strategy — ">
-  <span class="time">07/15 06:58<em>7시간 전</em></span>
+  <span class="time">07/15 06:58<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5zbFZQMnVUbXdTc2wyQVl0anVnY3p5bWFWSlZVRGNET2NRY1VFWG1ENXZuS2VXdzBYLWFtdVk1dlphLXJ4c0NJQ2JSd0VpZGE3SmhTZFNXTmozdGczVjhueTk0TzRxYW4tSks0QUdJUy12clRVYkE?oc=5" target="_blank" rel="noopener">Fed Interest Rate Decision July 2026: Market Impact &amp; Investment Strategy</a>
   <span class="summary"></span>
   <span class="source">Intellectia AI</span>
 </div><div class="item" title="Japan’s bond market signals significant global rates reset, says BlackRock — ">
-  <span class="time">07/15 06:35<em>7시간 전</em></span>
+  <span class="time">07/15 06:35<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBzc1ZuQ3dsQl80TGVpSDYyUnd6LU4yMGlZWkZnS1FqX0NHQllVblRfY2FWQV92U3lweldobDN4ZEUyVjhSSVl0V19sbG55Q09mWERxZVZVb0xQX1JFak9QX1VjOWFNbURhTVhueTEzejh2MHVHVU5YMjZZRl9MTzA?oc=5" target="_blank" rel="noopener">Japan’s bond market signals significant global rates reset, says BlackRock</a>
   <span class="summary"></span>
   <span class="source">Crypto Briefing</span>
 </div><div class="item" title="Rep. Young Kim Discusses Federal Reserve Monetary Policy with Chairman Kevin Warsh — ">
-  <span class="time">07/15 06:30<em>7시간 전</em></span>
+  <span class="time">07/15 06:30<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQMERqdmZvcXczcEQ2RVk3XzZNT01obVQ3bjBrdnNlLUhxWUlpYTZwQ3c5M0tQeS1LZUZqWGhDVS1UemtCYkFJVVRkV1d5R2N1eGItMC1TdDRfaFpzN1ZWV2FMYzJrS2xyZ0xZZHY4dWJFbU5QUmVCT0dVNEF4X2UyVXJKZzNCVGxjRU1uZVo1cFdrSXRyMVNoZDFTM2NYRGtIZHhfbE5vREU3SHltSUpjSDFESjdtNHp4c1RsTg?oc=5" target="_blank" rel="noopener">Rep. Young Kim Discusses Federal Reserve Monetary Policy with Chairman Kevin Warsh</a>
   <span class="summary"></span>
   <span class="source">Congresswoman Young Kim (.gov)</span>
 </div><div class="item" title="워시 의장 “높은 인플레 용납 않겠다…연준은 독립적” — ">
-  <span class="time">07/15 05:43<em>7시간 전</em></span>
+  <span class="time">07/15 05:43<em>8시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtTFNsVE9scFJVZ1N1LS1QT252SHk3Mm84YU5VSUp2MWZMOHM0b3JFNDRFaGVvek12c0haaklMdUo3eE9OR2doclR0VER4Zzl4bktCZU5B?oc=5" target="_blank" rel="noopener">워시 의장 “높은 인플레 용납 않겠다…연준은 독립적”</a>
   <span class="summary"></span>
   <span class="source">헤럴드경제</span>
 </div><div class="item" title="Japan&#x27;s Benchmark 10-Year Yield Hits 2.901%, Highest Since 1996 — ">
-  <span class="time">07/15 05:34<em>7시간 전</em></span>
+  <span class="time">07/15 05:34<em>8시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMikgFBVV95cUxPVkRDMnB3VGoxa25kbDRpNWxiRWkxMHFBR0x3Qm9VZVNUR2otT0ZKME11dTlFRUFlQjIzMGhibnVRNTJweUpJV1RHZENpUmNVekZGWmU2OG9NLXRsWVFlZzFUVEI1RTB1LUxzd0VaOEtOLU5UeUoxdEJQMWJFZ1JudFZOWjVrNVRWMUM5VHdwTDhjQQ?oc=5" target="_blank" rel="noopener">Japan&#x27;s Benchmark 10-Year Yield Hits 2.901%, Highest Since 1996</a>
   <span class="summary"></span>
   <span class="source">Briefs Finance</span>
 </div><div class="item" title="Fed&#x27;s &#x27;ample reserves&#x27; approach is a focus of Warsh&#x27;s balance sheet review — ">
-  <span class="time">07/15 05:33<em>2시간 전</em></span>
+  <span class="time">07/15 05:33<em>3시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3B2U1ljWDc5VkhpZE9DR1ZTSFczMlpNTnlqUTVBeDE1M25DUGQ2enI5MHZJeWhMTFZPbDJMek1iSFlMeURvdXRnUy1DVlhaeFpGeEs2ejV3d0Nrc3QwVUJzMmFEdW00bng1eWFET1V6SDZUT0dZbVRzZjRzaFFEb05ETG13eVVqR1czNGtEZk9oeGZuUG5FaUQ0aUl2TUs0Nl9acGtvTXRJTGNiem40WURn?oc=5" target="_blank" rel="noopener">Fed&#x27;s &#x27;ample reserves&#x27; approach is a focus of Warsh&#x27;s balance sheet review</a>
   <span class="summary"></span>
   <span class="source">Reuters</span>
 </div><div class="item" title="5 Takeaways From Fed Chair Warsh’s Testimony To Congress — ">
-  <span class="time">07/15 05:17<em>23분 전</em></span>
+  <span class="time">07/15 05:17<em>1시간 전</em></span>
   <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQOUNzaml5NkVrMTZqVllac3A0dmpLRkhMTjNmd182ZGlMcDJ0bEM4T1I3OFczNzFaVDQzOVVKUWVkUnFzaFVqX0N1SjloclM4emIwOWtKdEN4dXdkOEd2b1hjMzNuLUQyV0hCX2V2aHJ5Y0ZaVzJNVzJ2Q2VkaXBaTHB3NExBUkgtTTY3VGdWbGZtcy16b3hwcDlB?oc=5" target="_blank" rel="noopener">5 Takeaways From Fed Chair Warsh’s Testimony To Congress</a>
   <span class="summary"></span>
   <span class="source">Investopedia</span>
 </div><div class="item" title="Global Investors Flock to Japan as Bond Yields Hit Three-Decade Peaks — ">
-  <span class="time">07/15 05:15<em>7시간 전</em></span>
+  <span class="time">07/15 05:15<em>8시간 전</em></span>
   <span class="tag" style="background:#c23e721a;color:#c23e72">JGB</span>
   <a class="headline" href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQdThfamkwRWd6cUN4TXFYY1k3Ymc3QlEzNXNjQmZOSWI3ZC1PeldTSWJ0YlVkbVNsT1pmc3RkSk15bl9pcFdWb0g1ZGxZOTUwM0Z5dWNSUWhVT2ZVY2dnMTZqd1hIc1VXZWxMTGVSQUplTHJyc2xHc3lUb2xySk1iUDZMLTdLZi1oTlRVRWxzcHViUQ?oc=5" target="_blank" rel="noopener">Global Investors Flock to Japan as Bond Yields Hit Three-Decade Peaks</a>
   <span class="summary"></span>
   <span class="source">Briefs Finance</span>
-</div><div class="item" title="Warsh Tells Congress the Fed Has ‘No Tolerance’ for High Inflation — ">
-  <span class="time">07/15 05:15<em>7시간 전</em></span>
-  <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXF3UHk1b1IzRTN2T3Bza0xEM0hBeG9faGJQRHM3ZHJwbUZEdjBRVm9zRl9SYVVnSzFScDlOb0pra1F2Y000MWRMSnNqV2xwNTFpOUdiaURwSWJ6cVBxRXRLd0Z1enV5VXhIQWpoVUFvUW8zMmtiWnQ5clJHYjBFS01EMkNQTFlabXpvUjMtbWYyMGZRSDlCR3E0c2NHaDNzU1FXZG1HRkFQcjNlU08temtPNDJkQjZS?oc=5" target="_blank" rel="noopener">Warsh Tells Congress the Fed Has ‘No Tolerance’ for High Inflation</a>
-  <span class="summary"></span>
-  <span class="source">WSJ</span>
-</div><div class="item" title="Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony — ">
-  <span class="time">07/15 04:35<em>2시간 전</em></span>
-  <span class="tag" style="background:#4a8c1c1a;color:#4a8c1c">Fed</span>
-  <a class="headline" href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1VPZWtHLUJfVTFXc20weUhWUU5OSERKVTgwVzFjc2xRLXJ3TG9wal96U2tTVDFYMVZHcEQtUkNOUlgwaUdHSjgwbVRlSGhGWmRhdGhUdDFBQXVvQ0ozNWJXbzRrc2lkdnY3Wk1PVGhEWGI0MEMtQUJKUm9hVy1QeUt3TGUzU014S2hsNA?oc=5" target="_blank" rel="noopener">Takeaways from Fed Chairman Kevin Warsh’s first congressional testimony</a>
-  <span class="summary"></span>
-  <span class="source">CNN</span>
 </div></div>
 </section>
     </div>
@@ -1319,7 +1328,7 @@
   <div class="wl-block-head">신한지주</div>
   <div class="wl-item-list"><a class="wl-item" href="https://news.google.com/rss/articles/CBMibEFVX3lxTFAwX0N2X2tJbEo4YlpHdFgzZUdrZVdUbXRXczdOVHVhY21PSlNPT1pDV0dyS1pLb19IbVVpV0FXcmdWZ1RkR0NmM1pmTExvSFhJeTFjamRlanlRSVVLa1E5cURpcHdtXzlOOEZnZA?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">메리츠금융, 회사채 발행 뒤 PF 부담 부각</span>
-  <span class="wl-item-time">방금</span>
+  <span class="wl-item-time">49분 전</span>
 </a><a class="wl-item" href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE9US3Q0aWVkaWZUVGkyUGJBYnJCTnJBd3lTOGMwSWlMbThZa3ltTmFWVXFSN1VXY2dpYXpGb19EeG5uTVJiRjNLb3ptZkRHNkpXeDBHSGlvMTNsLTRr?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">금융권, 생산적 금융에 150조 공급…&#x27;스타트업 빌드업&#x27; 보증 신설[금융위 업무보고]</span>
   <span class="wl-item-time">5시간 전</span>
@@ -1328,16 +1337,16 @@
   <span class="wl-item-time">5시간 전</span>
 </a><a class="wl-item" href="https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XOXpFYkxqX3E0Qm9pTFloOWJ0MENtOXc1VHFKZEVENzdpNERkS0dubE1fZE5xRUtoRUFvSnA0Y2licEVPd1Bza2lSeTVta3M?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">한진, 400억 수요예측서 일부 미매각…BBB급 시장 위축</span>
-  <span class="wl-item-time">23분 전</span>
+  <span class="wl-item-time">1시간 전</span>
 </a></div>
 </div><div class="wl-block">
   <div class="wl-block-head">우리지주</div>
   <div class="wl-item-list"><a class="wl-item" href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uUVgtcHVJb0t1UXFwbGpyU1VZQ2F3TGRNZGhHQ2Z1QTdndHpKcTdvb0pNT1ZXa0VYbVRMWTFoOU1MaWxqdXVEUEFSMVZYNzRFdUo3YUxXcHlUZw?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">우리금융그룹, 연 7% 상한·채권 소각…7.6조로 취약계층 자립 힘 보탠다</span>
-  <span class="wl-item-time">1시간 전</span>
+  <span class="wl-item-time">2시간 전</span>
 </a><a class="wl-item" href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1ZbUxWOXpuUlR1VE9uU1RoQXFNckRxLTdRMUVLVXhmZWJSaG93Qng1TjBvYXJKNGRRU3F3MGdZTDR6UThYUE85WC1iUWEzaWFndnNILUdMNTliQmVmZ3ptUV9hMUpFa3QzeUZPaUpiRzNSZ0RQa0s1bFpGX2Q?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">삼성전자·신한금융·우리금융·기아·KB금융, ESG &#x27;S등급&#x27;</span>
-  <span class="wl-item-time">2시간 전</span>
+  <span class="wl-item-time">3시간 전</span>
 </a><a class="wl-item" href="https://news.google.com/rss/articles/CBMieEFVX3lxTE9JT2ZPZzdKbUFmZzRlcHlrNE5JcVJGOURTVzVMQV93dUFLTU91d3JMdUhGUV9ueC1YTk5RVjVPYjVINFhEaFFtZ3hpa1o0Y0pycjZRVFVfWWIxRERDdWdONm5lYm1qSVc1YWNCWnNRZWJHaWlSckhxdNIBeEFVX3lxTE9JT2ZPZzdKbUFmZzRlcHlrNE5JcVJGOURTVzVMQV93dUFLTU91d3JMdUhGUV9ueC1YTk5RVjVPYjVINFhEaFFtZ3hpa1o0Y0pycjZRVFVfWWIxRERDdWdONm5lYm1qSVc1YWNCWnNRZWJHaWlSckhxdA?oc=5" target="_blank" rel="noopener">
   <span class="wl-item-headline">얼라인, &#x27;JB·BNK금융 합병&#x27; 검토 제안…&quot;최대 단일 지방금융지주 만들자&quot;</span>
   <span class="wl-item-time">5시간 전</span>
