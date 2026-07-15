@@ -8,7 +8,6 @@ WATCHLIST_FILE = "watchlist.json"
 OUTPUT_FILE = "index.html"
 
 CATEGORY_ORDER = [
-    "watchlist",
     "credit_issue",
     "perpetual",
     "policy",
@@ -17,12 +16,14 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_META = {
-    "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed", "full_width": True},
+    # watchlist는 더 이상 이 그리드에 카드로 안 나오고, 오른쪽 사이드바에 별도로 표시됨.
+    # 여기 남겨둔 건 칩(chip) 색상/라벨을 재사용하기 위함.
+    "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed"},
     "credit_issue": {"label": "크레딧 이슈", "color": "#d1553d"},
     "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
     "policy": {"label": "채권정책 · 추경", "color": "#1a7f4b"},
     "politics": {"label": "정책 발언 (대통령실 등)", "color": "#7a56c9"},
-    "global_bond": {"label": "글로벌 채권이슈", "color": "#0f8f85"},
+    "global_bond": {"label": "글로벌 채권이슈", "color": "#0f8f85", "full_width": True},
 }
 
 TAG_COLORS = {
@@ -30,6 +31,10 @@ TAG_COLORS = {
     "JGB": "#c23e72",
     "Global": "#3f7ecf",
 }
+
+YIELD_UP_COLOR = "#d1553d"     # 금리 상승(전일比) 색
+YIELD_DOWN_COLOR = "#2f6fed"   # 금리 하락(전일比) 색
+YIELD_FLAT_COLOR = "#6b746f"
 
 REFRESH_SECONDS = 600  # 워크플로 cron 주기와 맞춰두면 좋음 (10분)
 
@@ -97,6 +102,96 @@ def render_items(items):
     return f'<div class="item-list">{"".join(rows)}</div>'
 
 
+def sparkline_svg(values, width=100, height=30, color="#1a7f4b") -> str:
+    """숫자 리스트를 아주 작은 꺾은선(스파크라인) SVG로 그려줌. 외부 차트 라이브러리 없이
+    빌드 시점에 파이썬에서 직접 그림 (TradingView 위젯이 국고채 심볼을 임베드 못 해서 대체)."""
+    if not values or len(values) < 2:
+        return ""
+    lo, hi = min(values), max(values)
+    rng = (hi - lo) or 1
+    step = width / (len(values) - 1)
+    pts = []
+    for i, v in enumerate(values):
+        x = i * step
+        y = height - ((v - lo) / rng) * (height - 4) - 2
+        pts.append(f"{x:.1f},{y:.1f}")
+    points = " ".join(pts)
+    return (
+        f'<svg class="spark" viewBox="0 0 {width} {height}" preserveAspectRatio="none">'
+        f'<polyline points="{points}" fill="none" stroke="{color}" '
+        f'stroke-width="1.6" stroke-linejoin="round" stroke-linecap="round"/></svg>'
+    )
+
+
+def render_yield_panel(yields) -> str:
+    """국고채 만기별(3/5/10/20/30년) 금리를 한 화면에 나란히(좌르륵) 보여주는 패널.
+    ECOS_API_KEY가 없거나 조회 실패로 yields가 비어있으면 안내 문구만 표시."""
+    if not yields:
+        return '<p class="empty">ECOS_API_KEY가 설정되지 않았거나 국고채 금리를 아직 못 가져왔습니다. (설정 가이드 참고)</p>'
+
+    cells = []
+    for y in yields:
+        chg = y.get("chg_bp", 0)
+        if chg > 0:
+            color = YIELD_UP_COLOR
+            sign = "+"
+        elif chg < 0:
+            color = YIELD_DOWN_COLOR
+            sign = ""
+        else:
+            color = YIELD_FLAT_COLOR
+            sign = ""
+        spark = sparkline_svg(y.get("series", []), color=color)
+        cells.append(
+            f"""<div class="yield-cell">
+  <span class="yc-label">국고채 {html.escape(y.get('label',''))}</span>
+  <span class="yc-value">{y.get('value', 0):.3f}%</span>
+  <span class="yc-chg" style="color:{color}">{sign}{chg:.1f}bp</span>
+  {spark}
+</div>"""
+        )
+    return f'<div class="yield-grid">{"".join(cells)}</div>'
+
+
+def render_watchlist_sidebar(watchlist_names, watchlist_items) -> str:
+    """토스 앱 우측 '관심' 패널처럼, 보유 종목별로 가장 최근 헤드라인 1개씩만 나란히 보여줌.
+    watchlist_items는 이미 main()에서 최신순 정렬돼 있으므로, 종목명이 처음 매칭되는 항목이 최신 기사."""
+    if not watchlist_names:
+        return '<p class="empty">watchlist.json에 종목명을 추가하면 여기에 표시됩니다.</p>'
+
+    latest_by_company = {}
+    for it in watchlist_items:
+        name = it.get("tag")
+        if name and name not in latest_by_company:
+            latest_by_company[name] = it
+
+    rows = []
+    for name in watchlist_names:
+        name = name.strip()
+        if not name:
+            continue
+        it = latest_by_company.get(name)
+        if it:
+            headline = html.escape(it.get("headline", ""))
+            link = html.escape(it.get("link", "#"))
+            ago = relative_time(it.get("first_seen"))
+            rows.append(
+                f"""<a class="wl-row" href="{link}" target="_blank" rel="noopener">
+  <span class="wl-name">{html.escape(name)}</span>
+  <span class="wl-headline">{headline}</span>
+  <span class="wl-time">{ago}</span>
+</a>"""
+            )
+        else:
+            rows.append(
+                f"""<div class="wl-row wl-row-empty">
+  <span class="wl-name">{html.escape(name)}</span>
+  <span class="wl-headline wl-empty-text">최근 소식 없음</span>
+</div>"""
+            )
+    return f'<div class="wl-list">{"".join(rows)}</div>'
+
+
 def main():
     data = load_json(DATA_FILE, {"categories": {}, "updated_at": ""})
     watchlist = load_json(WATCHLIST_FILE, [])
@@ -104,8 +199,17 @@ def main():
     updated_at = html.escape(data.get("updated_at") or "-")
 
     total_count = sum(len(v) for v in categories.values())
+    yield_panel_html = render_yield_panel(data.get("yields", []))
 
-    chips = []
+    watchlist_items = categories.get("watchlist", [])
+    watchlist_sidebar_html = render_watchlist_sidebar(watchlist, watchlist_items)
+    wl_color = CATEGORY_META["watchlist"]["color"]
+    wl_label = CATEGORY_META["watchlist"]["label"]
+    watchlist_count = len(watchlist_items)
+
+    chips = [
+        f'<div class="chip"><span class="dot" style="background:{wl_color}"></span>{wl_label} <b>{watchlist_count}</b></div>'
+    ]
     cards = []
 
     for key in CATEGORY_ORDER:
@@ -114,13 +218,9 @@ def main():
         label = meta["label"]
         full_width = meta.get("full_width", False)
 
-        if key == "watchlist" and not watchlist:
-            body = '<p class="empty">watchlist.json에 종목명을 추가하면 여기에 표시됩니다.</p>'
-            count = 0
-        else:
-            items = categories.get(key, [])
-            body = render_items(items)
-            count = len(items)
+        items = categories.get(key, [])
+        body = render_items(items)
+        count = len(items)
 
         chips.append(
             f'<div class="chip"><span class="dot" style="background:{color}"></span>{label} <b>{count}</b></div>'
@@ -202,6 +302,24 @@ def main():
     margin-bottom: 4px;
   }}
   .yield-panel-head h2 {{ font-size: 12.5px; margin: 0; font-weight: 700; color: var(--muted); }}
+  .yield-grid {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0;
+  }}
+  .yield-cell {{
+    flex: 1 1 0;
+    min-width: 110px;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 12px 10px;
+    border-right: 1px solid var(--border);
+  }}
+  .yield-cell:last-child {{ border-right: none; }}
+  .yc-label {{ font-size: 11px; color: var(--muted); }}
+  .yc-value {{ font-size: 17px; font-weight: 700; margin-top: 2px; }}
+  .yc-chg {{ font-size: 11px; font-weight: 700; margin-top: 1px; }}
+  .spark {{ width: 100%; height: 26px; margin-top: 4px; }}
   .chips {{
     display: flex;
     flex-wrap: wrap;
@@ -349,6 +467,56 @@ def main():
   }}
   .source::before {{ content: "· "; }}
   .empty {{ color: var(--muted); font-size: 12px; margin: 4px 0 8px; }}
+  .layout {{
+    display: flex;
+    align-items: flex-start;
+    gap: 16px;
+  }}
+  .main {{ flex: 1; min-width: 0; }}
+  .sidebar {{
+    flex: 0 0 300px;
+    position: sticky;
+    top: 72px;
+    background: var(--panel);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    padding: 12px 14px;
+    max-height: calc(100vh - 96px);
+    overflow: auto;
+  }}
+  @media (max-width: 900px) {{
+    .layout {{ flex-direction: column; }}
+    .sidebar {{ position: static; width: 100%; flex: none; max-height: none; }}
+  }}
+  .sidebar-head {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6px;
+  }}
+  .sidebar-head h2 {{ font-size: 13.5px; margin: 0; font-weight: 700; }}
+  .wl-list {{ display: flex; flex-direction: column; }}
+  .wl-row {{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 8px 4px;
+    border-bottom: 1px solid var(--border);
+    text-decoration: none;
+    color: inherit;
+  }}
+  .wl-row:last-child {{ border-bottom: none; }}
+  .wl-row:hover {{ background: var(--accent-bg); }}
+  .wl-name {{ font-size: 11.5px; font-weight: 700; color: var(--accent); }}
+  .wl-headline {{
+    font-size: 12.5px;
+    color: var(--text);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }}
+  .wl-time {{ font-size: 10.5px; color: var(--muted); }}
+  .wl-empty-text {{ color: var(--muted); }}
 </style>
 </head>
 <body>
@@ -359,59 +527,26 @@ def main():
   </div>
   <span class="updated">마지막 업데이트 <b>{updated_at}</b></span>
 </div>
-<div class="yield-panel">
-  <div class="yield-panel-head"><h2>국고채 금리 (KTB) · 구간별 · 당일 변동</h2></div>
-  <div class="tradingview-widget-container">
-    <div class="tradingview-widget-container__widget"></div>
-    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
-    {{
-    "symbols": [
-      ["국고채 3년", "TVC:KR03Y|1D"],
-      ["국고채 5년", "TVC:KR05Y|1D"],
-      ["국고채 10년", "TVC:KR10Y|1D"],
-      ["국고채 20년", "TVC:KR20Y|1D"],
-      ["국고채 30년", "TVC:KR30Y|1D"]
-    ],
-    "chartOnly": false,
-    "width": "100%",
-    "height": "180",
-    "locale": "kr",
-    "colorTheme": "light",
-    "autosize": true,
-    "showVolume": false,
-    "showMA": false,
-    "hideDateRanges": false,
-    "hideMarketStatus": false,
-    "hideSymbolLogo": true,
-    "scalePosition": "right",
-    "scaleMode": "Normal",
-    "fontFamily": "Pretendard, -apple-system, sans-serif",
-    "fontSize": "10",
-    "noTimeScale": false,
-    "valuesTracking": "1",
-    "changeMode": "price-and-percent",
-    "chartType": "area",
-    "maLineColor": "#1a7f4b",
-    "maLineWidth": 1,
-    "maLength": 9,
-    "headerFontSize": "medium",
-    "lineWidth": 2,
-    "lineType": 0,
-    "dateRanges": [
-      "1d|1",
-      "1m|30",
-      "3m|60",
-      "12m|1D"
-    ]
-    }}
-    </script>
+<div class="layout">
+  <div class="main">
+    <div class="yield-panel">
+      <div class="yield-panel-head"><h2>국고채 금리 (KTB) · 구간별 · 당일 변동</h2></div>
+      {yield_panel_html}
+    </div>
+    <div class="chips">
+    {''.join(chips)}
+    </div>
+    <div class="grid">
+    {''.join(cards)}
+    </div>
   </div>
-</div>
-<div class="chips">
-{''.join(chips)}
-</div>
-<div class="grid">
-{''.join(cards)}
+  <aside class="sidebar">
+    <div class="sidebar-head">
+      <h2>{wl_label}</h2>
+      <span class="count" style="background:{wl_color}1a;color:{wl_color}">{watchlist_count}</span>
+    </div>
+    {watchlist_sidebar_html}
+  </aside>
 </div>
 </body>
 </html>
