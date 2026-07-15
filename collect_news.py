@@ -116,6 +116,20 @@ def format_published(raw: str) -> str:
         return raw[:20]
 
 
+def published_epoch(raw: str) -> float:
+    """정렬 전용: RSS 원본 날짜 문자열을 epoch(초)로 변환. 최신순 정렬에 사용.
+    파싱 실패 시 0을 반환해 맨 뒤로 밀려나게 한다."""
+    if not raw:
+        return 0
+    try:
+        dt = parsedate_to_datetime(raw)
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        return dt.timestamp()
+    except Exception:
+        return 0
+
+
 def clean_headline(title: str, source: str) -> str:
     """구글/네이버 뉴스 제목 끝에 자동으로 붙는 ' - 출처명'을 제거.
     화면에서 출처를 이미 따로 보여주므로 중복 표시를 막기 위함."""
@@ -339,19 +353,22 @@ def main():
             new_norm_titles.append(norm)
 
             summary = summarize(it["title"], it["snippet"])
+            raw_published = it["published"]
             new_items.append(
                 {
                     "link": it["link"],
                     "headline": headline,
                     "summary": summary,
                     "source": it["source"],
-                    "published": format_published(it["published"]),
+                    "published": format_published(raw_published),
+                    "published_ts": published_epoch(raw_published),
                     "tag": tag,
                     "first_seen": now,
                 }
             )
 
         merged = new_items + existing
+        merged.sort(key=lambda it: it.get("published_ts", 0), reverse=True)  # 최신 기사가 위로
         cutoff = now - MAX_AGE_DAYS * 86400
         merged = [it for it in merged if it.get("first_seen", now) >= cutoff]
         merged = merged[:MAX_PER_CATEGORY]
