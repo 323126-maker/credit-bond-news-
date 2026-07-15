@@ -1,5 +1,7 @@
+import difflib
 import json
 import os
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
@@ -12,12 +14,16 @@ DATA_FILE = "data.json"
 WATCHLIST_FILE = "watchlist.json"
 MAX_AGE_DAYS = 10
 MAX_PER_CATEGORY = 40
+TITLE_SIMILARITY_THRESHOLD = 0.72  # 이 이상 비슷하면 같은 기사로 간주해 중복 제거
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 
+NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID")
+NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET")
+
 # 카테고리 정의. "keywords"만 있으면 단순 카테고리, "subgroups"가 있으면
-# 하위 태그별로 나눠 검색하고 각 기사에 태그를 붙인다 (예: 글로벌 채권이슈 안에서 Fed/JGB 구분).
+# 하위 태그별로 나눠 검색하고 각 기사에 태그를 붙인다 (예: 글로벌 채권이슈 안에서 Fed/JGB/Global 구분).
 CATEGORIES = {
     "watchlist": {
         "label": "Credit Watchlist (보유종목)",
@@ -32,23 +38,19 @@ CATEGORIES = {
         ],
     },
     "perpetual": {
-        "label": "신종자본증권",
+        "label": "신종자본증권 · 콜옵션 미행사",
         "keywords": [
             "신종자본증권 콜옵션",
-            "신종자본증권",
-            "콜옵션 미행사",
+            "코코본드 콜옵션 미행사",
             "영구채 콜옵션 스킵",
         ],
     },
     "liquidity": {
-        "label": "크레딧",
+        "label": "크레딧 경색",
         "keywords": [
             "회사채 시장 경색",
-            "회사채 시장"
-            "크레딧"
-            "크레딧 스프레드"
-            "회사채 유동성",
-            "단기자금시장",
+            "자금경색 유동성 위기",
+            "단기자금시장 경색",
         ],
     },
     "policy": {
@@ -58,8 +60,6 @@ CATEGORIES = {
             "국채 발행계획 기획재정부",
             "금융당국 회사채 시장 안정화",
             "추경 국채 발행",
-             "추경"
-             "초과세수"
         ],
     },
     "politics": {
@@ -82,6 +82,12 @@ CATEGORIES = {
                 "Japan government bond yield",
                 "일본 국채 금리",
                 "일본은행 통화정책",
+            ],
+            "Global": [
+                "global bond market credit spread",
+                "corporate bond market outlook",
+                "high yield bond default risk",
+                "emerging market bond selloff",
             ],
         },
     },
@@ -107,6 +113,32 @@ def format_published(raw: str) -> str:
         return raw[:20]
 
 
+def clean_headline(title: str, source: str) -> str:
+    """구글/네이버 뉴스 제목 끝에 자동으로 붙는 ' - 출처명'을 제거.
+    화면에서 출처를 이미 따로 보여주므로 중복 표시를 막기 위함."""
+    if not title:
+        return title
+    title = title.strip()
+    source = (source or "").strip()
+    if source:
+        pattern = r"[\s ]*[-–—][\s ]*" + re.escape(source) + r"[\s ]*$"
+        title = re.sub(pattern, "", title, flags=re.IGNORECASE)
+    return title.strip()
+
+
+def normalize_title(title: str) -> str:
+    """제목 유사도 비교용: 공백/기호 제거하고 소문자화."""
+    return re.sub(r"[^\w가-힣]+", "", (title or "").lower())
+
+
+def is_similar_title(a: str, b: str) -> bool:
+    """서로 다른 소스(구글/네이버)가 같은 기사를 다른 제목으로 줄 때
+    중복으로 판단하기 위한 유사도 체크."""
+    if not a or not b:
+        return False
+    return difflib.SequenceMatcher(None, a, b).ratio() >= TITLE_SIMILARITY_THRESHOLD
+
+
 def build_rss_url(query: str) -> str:
     korean = is_korean(query)
     hl = "ko" if korean else "en-US"
@@ -129,7 +161,7 @@ def save_json(path, obj):
 
 
 def summarize(title: str, snippet: str) -> str:
-    """Claude API로 1~2문장 한국어 요약.
+    """Claude API로 1~2문장 한국어 요약 (해외 영문 기사도 한국어로 요약됨).
     Google News RSS의 snippet 필드는 실제 기사 요약이 아니라
     '<a href=...>제목</a> 출처' 형태의 HTML 링크뿐이라, API 키가 없으면
     의미 없는 텍스트를 억지로 보여주는 대신 요약을 비워둔다."""
@@ -153,6 +185,7 @@ def summarize(title: str, snippet: str) -> str:
                         "content": (
                             "다음 기사 제목과 스니펫을 바탕으로, 채권/크레딧 투자자가 "
                             "빠르게 이해할 수 있도록 한국어 1~2문장으로 핵심만 요약해줘. "
+                            "원문이 영어여도 반드시 한국어로 요약해줘. "
                             "번역체 쓰지 말고 자연스럽게. 불필요한 서두 없이 요약문만 출력.\n\n"
                             f"제목: {title}\n스니펫: {snippet}"
                         ),
@@ -168,7 +201,7 @@ def summarize(title: str, snippet: str) -> str:
         return snippet[:120] if snippet else title
 
 
-def fetch_for_keyword(query: str) -> list:
+def fetch_google(query: str) -> list:
     url = build_rss_url(query)
     try:
         feed = feedparser.parse(url)
@@ -188,13 +221,61 @@ def fetch_for_keyword(query: str) -> list:
         items.append(
             {
                 "link": link,
-                "title": title,
+                "title": clean_headline(title, source),
                 "snippet": snippet,
                 "source": source,
                 "published": published,
             }
         )
     return items
+
+
+def fetch_naver(query: str) -> list:
+    """네이버 뉴스 검색 API. NAVER_CLIENT_ID/SECRET이 없으면 그냥 빈 리스트를
+    돌려줘서 기능 자체가 꺼진 것처럼 동작 (기존 구글 전용 흐름 그대로 유지)."""
+    if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
+        return []
+    if not is_korean(query):
+        return []  # 네이버는 국내 언론 위주라 한글 검색어에만 사용
+
+    try:
+        resp = requests.get(
+            "https://openapi.naver.com/v1/search/news.json",
+            headers={
+                "X-Naver-Client-Id": NAVER_CLIENT_ID,
+                "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
+            },
+            params={"query": query, "display": 10, "sort": "date"},
+            timeout=15,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except Exception:
+        return []
+
+    items = []
+    for it in data.get("items", []):
+        title = re.sub(r"<[^>]+>", "", it.get("title", ""))
+        title = title.replace("&quot;", '"').replace("&amp;", "&").replace("&#39;", "'")
+        link = it.get("originallink") or it.get("link") or ""
+        snippet = re.sub(r"<[^>]+>", "", it.get("description", ""))
+        pub_date = it.get("pubDate", "")
+        if not link or not title:
+            continue
+        items.append(
+            {
+                "link": link,
+                "title": title.strip(),
+                "snippet": snippet,
+                "source": "네이버뉴스",
+                "published": pub_date,
+            }
+        )
+    return items
+
+
+def fetch_for_keyword(query: str) -> list:
+    return fetch_google(query) + fetch_naver(query)
 
 
 def collect_for_category(cfg: dict, watchlist: list) -> list:
@@ -237,19 +318,28 @@ def main():
 
         existing = data["categories"].get(cat_key, [])
         existing_links = {it["link"] for it in existing}
+        existing_norm_titles = [normalize_title(it.get("headline", "")) for it in existing]
 
         raw_pairs = collect_for_category(cfg, watchlist)
 
         new_items = []
+        new_norm_titles = []
         for it, tag in raw_pairs:
             if it["link"] in existing_links:
                 continue
+            headline = clean_headline(it["title"], it["source"])
+            norm = normalize_title(headline)
+            if any(is_similar_title(norm, seen) for seen in existing_norm_titles + new_norm_titles):
+                continue  # 이미 비슷한 제목의 기사가 있음 (다른 소스가 준 같은 기사)
+
             existing_links.add(it["link"])
+            new_norm_titles.append(norm)
+
             summary = summarize(it["title"], it["snippet"])
             new_items.append(
                 {
                     "link": it["link"],
-                    "headline": it["title"],
+                    "headline": headline,
                     "summary": summary,
                     "source": it["source"],
                     "published": format_published(it["published"]),
