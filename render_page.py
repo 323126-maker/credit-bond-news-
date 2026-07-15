@@ -19,7 +19,7 @@ CATEGORY_META = {
     # watchlist는 더 이상 이 그리드에 카드로 안 나오고, 오른쪽 사이드바에 별도로 표시됨.
     # 여기 남겨둔 건 칩(chip) 색상/라벨을 재사용하기 위함.
     "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed"},
-    "credit_issue": {"label": "크레딧 이슈", "color": "#d1553d"},
+    "credit_issue": {"label": "크레딧·채권", "color": "#d1553d"},
     "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
     "policy": {"label": "채권정책 · 추경", "color": "#1a7f4b"},
     "politics": {"label": "정책 발언 (대통령실 등)", "color": "#7a56c9"},
