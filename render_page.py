@@ -16,8 +16,6 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_META = {
-    # watchlist는 더 이상 이 그리드에 카드로 안 나오고, 오른쪽 사이드바에 별도로 표시됨.
-    # 여기 남겨둔 건 칩(chip) 색상/라벨을 재사용하기 위함.
     "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed"},
     "credit_issue": {"label": "크레딧·채권", "color": "#d1553d"},
     "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
@@ -32,11 +30,11 @@ TAG_COLORS = {
     "Global": "#3f7ecf",
 }
 
-YIELD_UP_COLOR = "#d1553d"     # 금리 상승(전일比) 색
-YIELD_DOWN_COLOR = "#2f6fed"   # 금리 하락(전일比) 색
+YIELD_UP_COLOR = "#d1553d"
+YIELD_DOWN_COLOR = "#2f6fed"
 YIELD_FLAT_COLOR = "#6b746f"
 
-REFRESH_SECONDS = 600  # 워크플로 cron 주기와 맞춰두면 좋음 (10분)
+REFRESH_SECONDS = 600
 
 
 def load_json(path, default):
@@ -103,8 +101,6 @@ def render_items(items):
 
 
 def sparkline_svg(values, width=100, height=30, color="#1a7f4b") -> str:
-    """숫자 리스트를 아주 작은 꺾은선(스파크라인) SVG로 그려줌. 외부 차트 라이브러리 없이
-    빌드 시점에 파이썬에서 직접 그림 (TradingView 위젯이 국고채 심볼을 임베드 못 해서 대체)."""
     if not values or len(values) < 2:
         return ""
     lo, hi = min(values), max(values)
@@ -123,14 +119,16 @@ def sparkline_svg(values, width=100, height=30, color="#1a7f4b") -> str:
     )
 
 
+YIELD_LIVE_URL = "https://www.investing.com/rates-bonds/south-korea-government-bonds"
+
+
 def render_yield_panel(yields) -> str:
-    """국고채 만기별(3/5/10/20/30년) 금리를 한 화면에 나란히(좌르륵) 보여주는 패널.
-    ECOS_API_KEY가 없거나 조회 실패로 yields가 비어있으면 안내 문구만 표시."""
     if not yields:
         return '<p class="empty">ECOS_API_KEY가 설정되지 않았거나 국고채 금리를 아직 못 가져왔습니다. (설정 가이드 참고)</p>'
 
     cells = []
     for y in yields:
+        label = y.get("label", "")
         chg = y.get("chg_bp", 0)
         if chg > 0:
             color = YIELD_UP_COLOR
@@ -142,21 +140,24 @@ def render_yield_panel(yields) -> str:
             color = YIELD_FLAT_COLOR
             sign = ""
         spark = sparkline_svg(y.get("series", []), color=color)
+
         cells.append(
             f"""<div class="yield-cell">
-  <span class="yc-label">국고채 {html.escape(y.get('label',''))}</span>
+  <span class="yc-label">국고채 {html.escape(label)}</span>
   <span class="yc-value">{y.get('value', 0):.3f}%</span>
   <span class="yc-chg" style="color:{color}">{sign}{chg:.1f}bp</span>
   {spark}
 </div>"""
         )
-    return f'<div class="yield-grid">{"".join(cells)}</div>'
+    grid = f'<div class="yield-grid">{"".join(cells)}</div>'
+    live_link = (
+        f'<a class="yc-live-link" href="{YIELD_LIVE_URL}" target="_blank" rel="noopener">'
+        f"장중 실시간으로 보기 (investing.com) →</a>"
+    )
+    return grid + live_link
 
 
 def normalize_watchlist(raw) -> list:
-    """watchlist.json 항목은 문자열("삼성카드")도, 객체({"name":"삼성카드","rating":"AA+"})도 지원.
-    rating은 자동 수집이 아니라 직접 적어 넣는 값 (무료 공개 API가 없어서).
-    민평금리는 매일 바뀌어서 수동 관리가 비현실적이라 제외 (등급은 자주 안 바뀌어서 수동 관리 가능)."""
     result = []
     for entry in raw:
         if isinstance(entry, str):
@@ -170,13 +171,10 @@ def normalize_watchlist(raw) -> list:
     return result
 
 
-WATCHLIST_MAX_PER_COMPANY = 4  # 종목당 사이드바에 보여줄 최근 헤드라인 개수 (넘으면 스크롤)
+WATCHLIST_MAX_PER_COMPANY = 4
 
 
 def render_watchlist_sidebar(watchlist_raw, watchlist_items) -> str:
-    """토스 앱 우측 '관심' 패널처럼, 보유 종목별로 블록을 나눠서 종목명(+등급) 아래에
-    최근 헤드라인을 여러 개(WATCHLIST_MAX_PER_COMPANY개, 넘으면 스크롤) 보여줌.
-    watchlist_items는 이미 main()에서 최신순 정렬돼 있으므로 그 순서 그대로 최신순 유지."""
     watchlist = normalize_watchlist(watchlist_raw)
     if not watchlist:
         return '<p class="empty">watchlist.json에 종목명을 추가하면 여기에 표시됩니다.</p>'
@@ -348,6 +346,15 @@ def main():
   .yc-value {{ font-size: 17px; font-weight: 700; margin-top: 2px; }}
   .yc-chg {{ font-size: 11px; font-weight: 700; margin-top: 1px; }}
   .spark {{ width: 100%; height: 26px; margin-top: 4px; }}
+  .yc-live-link {{
+    display: block;
+    text-align: right;
+    font-size: 11px;
+    color: var(--muted);
+    text-decoration: none;
+    padding: 4px 12px 6px;
+  }}
+  .yc-live-link:hover {{ color: var(--accent); text-decoration: underline; }}
   .chips {{
     display: flex;
     flex-wrap: wrap;
@@ -383,7 +390,7 @@ def main():
     border-radius: 12px;
     padding: 12px 16px 8px;
     flex: 0 0 auto;
-    width: calc(50% - 7px);   /* 기본 폭. 카드 우측 모서리를 가로로 드래그하면 폭 조절 가능 */
+    width: calc(50% - 7px);
     min-width: 260px;
     max-width: 100%;
     overflow: hidden;
@@ -412,7 +419,7 @@ def main():
   .item-list {{
     display: flex;
     flex-direction: column;
-    height: 420px;      /* 기본 높이. 우측 하단 점선 부분을 드래그해서 조절 가능 */
+    height: 420px;
     min-height: 80px;
     overflow: auto;
     resize: vertical;
@@ -538,7 +545,7 @@ def main():
   .wl-item-list {{
     display: flex;
     flex-direction: column;
-    max-height: 116px;   /* 대략 4줄. 더 있으면 스크롤 */
+    max-height: 116px;
     overflow-y: auto;
   }}
   .wl-item {{
