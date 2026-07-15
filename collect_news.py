@@ -376,6 +376,24 @@ def fetch_ktb_yields() -> list:
     return results
 
 
+def normalize_watchlist(raw: list) -> list:
+    """watchlist.json 항목은 문자열("삼성카드")도, 객체({"name":"삼성카드","rating":"AA+"})도 지원.
+    신용등급은 자동으로 못 가져와서(무료 공개 API가 없음) 직접 적어 넣는 값이라
+    문자열이면 이름만 있는 것으로 취급하고 rating은 빈 값으로 채운다.
+    민평금리는 매일 바뀌어서 수동 입력이 비현실적이라 아예 제외 (등급은 자주 안 바뀌어서 수동 관리 가능)."""
+    result = []
+    for entry in raw:
+        if isinstance(entry, str):
+            name = entry.strip()
+            if name:
+                result.append({"name": name, "rating": ""})
+        elif isinstance(entry, dict):
+            name = (entry.get("name") or "").strip()
+            if name:
+                result.append({"name": name, "rating": entry.get("rating", "")})
+    return result
+
+
 def collect_for_category(cfg: dict, watchlist: list) -> list:
     """(item, tag) 튜플 리스트를 반환. tag는 subgroup 이름(글로벌 채권이슈) 또는
     보유 종목명(워치리스트) 또는 None."""
@@ -390,10 +408,8 @@ def collect_for_category(cfg: dict, watchlist: list) -> list:
 
     if cfg is CATEGORIES["watchlist"]:
         # 종목별로 검색해서 결과에 종목명을 태그로 붙임 -> 사이드바에서 종목별로 묶어 보여주는 데 사용
-        for name in watchlist:
-            name = name.strip()
-            if not name:
-                continue
+        for w in normalize_watchlist(watchlist):
+            name = w["name"]
             for query in (f"{name} 회사채", f"{name} 신용등급"):
                 for item in fetch_for_keyword(query):
                     results.append((item, name))
