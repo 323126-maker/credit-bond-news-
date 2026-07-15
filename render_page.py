@@ -11,17 +11,15 @@ CATEGORY_ORDER = [
     "watchlist",
     "credit_issue",
     "perpetual",
-    "liquidity",
     "policy",
     "politics",
     "global_bond",
 ]
 
 CATEGORY_META = {
-    "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed", "full_width": True},
+    "watchlist": {"label": "Credit Watchlist", "color": "#2f6fed", "full_width": True},
     "credit_issue": {"label": "크레딧 이슈", "color": "#d1553d"},
-    "perpetual": {"label": "신종자본증권 ", "color": "#c2790f"},
-    "liquidity": {"label": "크레딧", "color": "#c93f3f"},
+    "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
     "policy": {"label": "채권정책 · 추경", "color": "#1a7f4b"},
     "politics": {"label": "정책 발언 (대통령실 등)", "color": "#7a56c9"},
     "global_bond": {"label": "글로벌 채권이슈", "color": "#0f8f85"},
