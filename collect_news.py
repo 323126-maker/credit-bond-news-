@@ -35,10 +35,12 @@ CATEGORIES = {
         "keywords": [],  # watchlist.json 종목명으로 동적 생성
     },
     "credit_issue": {
-        "label": "크레딧 이슈",
+        "label": "크레딧·채권",
         "keywords": [
             "크레딧 스프레드",
             "크레딧 채권",
+            "채권 마감"
+            "채권 장전"
             "회사채 신용등급 강등",
             "신용등급 전망 조정",
             "워크아웃 부도",
