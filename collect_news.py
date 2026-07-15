@@ -15,6 +15,7 @@ WATCHLIST_FILE = "watchlist.json"
 MAX_AGE_DAYS = 10
 MAX_PER_CATEGORY = 40
 TITLE_SIMILARITY_THRESHOLD = 0.72  # 이 이상 비슷하면 같은 기사로 간주해 중복 제거
+WHEN_DAYS = 3  # 검색 시 몇 일치 뉴스까지 조회할지. 니치한 카테고리는 하루치(1d)로는 결과가 거의 안 나옴
 
 ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY")
 ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
@@ -32,28 +33,27 @@ CATEGORIES = {
     "credit_issue": {
         "label": "크레딧 이슈",
         "keywords": [
-            "크레딧 스프레드"
-            "크레딧 채권"
+            "크레딧 스프레드",
+            "크레딧 채권",
             "회사채 신용등급 강등",
             "신용등급 전망 조정",
             "워크아웃 부도",
+            "회사채 시장",
+            "자금경색 유동성 위기",
+            "단기자금시장 경색",
         ],
     },
     "perpetual": {
         "label": "신종자본증권",
         "keywords": [
             "신종자본증권 콜옵션",
-            "신종자본증권"
+            "신종자본증권",
             "코코본드 콜옵션 미행사",
             "영구채 콜옵션 스킵",
-        ],
-    },
-    "liquidity": {
-        "label": "크레딧",
-        "keywords": [
-            "회사채 시장 ",
-            "자금경색 유동성 위기",
-            "단기자금시장 경색",
+            "AT1 채권",
+            "코코본드",
+            "후순위채",
+            "하이브리드채권",
         ],
     },
     "policy": {
@@ -147,7 +147,7 @@ def build_rss_url(query: str) -> str:
     hl = "ko" if korean else "en-US"
     gl = "KR" if korean else "US"
     ceid = f"{gl}:{'ko' if korean else 'en'}"
-    q = quote(f"{query} when:1d")
+    q = quote(f"{query} when:{WHEN_DAYS}d")
     return f"https://news.google.com/rss/search?q={q}&hl={hl}&gl={gl}&ceid={ceid}"
 
 
