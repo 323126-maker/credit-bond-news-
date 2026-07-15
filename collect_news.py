@@ -35,10 +35,8 @@ CATEGORIES = {
         "keywords": [],  # watchlist.json 종목명으로 동적 생성
     },
     "credit_issue": {
-        "label": "크레딧·채권",
+        "label": "크레딧 이슈",
         "keywords": [
-            "채권 마감"
-            "채권 장전"
             "크레딧 스프레드",
             "크레딧 채권",
             "회사채 신용등급 강등",
@@ -69,6 +67,8 @@ CATEGORIES = {
             "국채 발행계획 기획재정부",
             "금융당국 회사채 시장 안정화",
             "추경 국채 발행",
+            "채권 장전 site:newskom.co.kr",  # 뉴스콤의 [채권-장전] 시황 브리핑
+            "채권 마감 site:newskom.co.kr",  # 뉴스콤의 [채권-마감] 시황 브리핑
         ],
     },
     "politics": {
