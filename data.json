@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpU25xMHhKUmhzMExKQVVvYVMwY2NqLXJXZk9qVlhQWU5XTkpnblQwZ1c2Sm90Tk1LWjV5SnhMd0U0SmQ0WGotY0FQQmdDb3QtVXVJ?oc=5",
+        "headline": "삼닉 레버리지 파급력…회사채 시장도 타격",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/15 17:57",
+        "published_ts": 1784105820.0,
+        "tag": null,
+        "first_seen": 1784106483.1096914
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBOb0cxR2h3MHJDRUxGWEk5ZjVPUllISXNBYXRUdkJkWG0ySFRKVUFMdC1FUENidjBQQzdpNHNHcXhhWXlfLUxnRTZDeXpGMjdYeWtwSnBMdU4?oc=5",
         "headline": "JTBC 채권 피해 키운 주범, '안일함'이었다",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "theconnectmoney.com",
         "published": "07/14 08:48",
         "published_ts": 1783986480.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5FTWhHTWt3RVlPLUMweHJHUTJEdm9KR0pDZUhXN0FzV29xdUZTRHN6NF9zaWhrZzBLVnViSlY1SWcwYkYtNXRqdQ?oc=5",
-        "headline": "“건강 관리에 쓰는 사람이 부도 위험 낮다”",
-        "summary": "",
-        "source": "플래텀(Platum)",
-        "published": "07/14 08:47",
-        "published_ts": 1783986464.0,
         "tag": null,
         "first_seen": 1784080028.5739875
       }
@@ -1270,6 +1270,16 @@
         "first_seen": 1784096646.0207589
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZjVtU2J6d1RYc3N1UDc1Q3FVUFpGM0ZmOE9SaTlUdjF2dEp2bjQ3U3dzakRJMTlSZ3ZablVYb21fYXZjblRlQVhwZ1NsU0ZWdE1rUDdxLWxaUnZFSlQxSWxhdTF6bU9sRHkwZFNMWGE3bTRhMkNrNHJOMVF0dVp2ZU44Y3ZJb1d3NEpkQUdGM1M2RjJvN1BELWNEa2FSal8yVC0tY1QwSUliUQ?oc=5",
+        "headline": "Federal Reserve Chair Testifies on State of U.S. Economy",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "07/15 12:42",
+        "published_ts": 1784086954.0,
+        "tag": "Fed",
+        "first_seen": 1784106483.1096914
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVXNpT1JIRmhTZXNsN04yZF82NDF3T21MNkFZMm9DYUtBWmU2UGdXZ0JlMTNHREhwek9ocGhha2k1eGlaUUM3ZWY5TlR4cEozZF9pcHI4RUhtSUd6MGNualhPZmtsXzU4eTVHaUJrWGk0YVlKbEZybHhyTHIzYTQ5cVFHbHRoS0VrcEdJbzZHWnlZTllvNEVJ?oc=5",
         "headline": "Japan 10-Year Yield Stays Near 2-Week Low",
         "summary": "",
@@ -1508,16 +1518,6 @@
         "published_ts": 1784057717.0,
         "tag": "Fed",
         "first_seen": 1784096646.0207589
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNQ3RhM2pzdGRCQk9NNEZJa3h6WmtDeTZtUHZIZzlBbU5FRnFfZTcxSkdzTjR2cnZoczBWSG1WWTRkZ1FVS2ZKZmlxNGZUQ1JvSnNZcHB5aDN1MUdVMkotVkJvNzNDOUFqRkNyMDEySEgzRnpXYXE4WEYzTmdnTTc1RjNIR0VuZGNlQ2NhRkl5UWZ3UEJpZkJLTjRqOFJzbzJlMzVOOGFXbmdrTVZ4eG9VNDlZZEdSNW05aXZ1ZGdBYkpPeFptMzROWWxINUV2U2RKTWEzNjNiNmNscUtaVG1mdm9kRVZXVHpxSm54ODJXcVVzc1gwWHIyTmU2NTNEZDNBcUE?oc=5",
-        "headline": "Iran barrage sweeps Mideast as Trump weighs in on succession",
-        "summary": "",
-        "source": "MSN",
-        "published": "07/15 04:25",
-        "published_ts": 1784057134.0,
-        "tag": "Global",
-        "first_seen": 1784100400.560883
       }
     ],
     "watchlist": [
@@ -1863,5 +1863,142 @@
       }
     ]
   },
-  "updated_at": "2026-07-15 18:00:48"
+  "updated_at": "2026-07-15 18:08:21",
+  "yields": [
+    {
+      "label": "3년",
+      "value": 3.866,
+      "chg_bp": -2.1,
+      "series": [
+        3.75,
+        3.784,
+        3.81,
+        3.77,
+        3.772,
+        3.757,
+        3.722,
+        3.733,
+        3.703,
+        3.791,
+        3.747,
+        3.748,
+        3.776,
+        3.78,
+        3.775,
+        3.778,
+        3.768,
+        3.809,
+        3.887,
+        3.866
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 4.112,
+      "chg_bp": -1.6,
+      "series": [
+        3.949,
+        4.005,
+        4.044,
+        4.016,
+        4.014,
+        3.992,
+        3.946,
+        3.965,
+        3.925,
+        4.028,
+        3.981,
+        3.98,
+        3.991,
+        3.999,
+        3.999,
+        4.016,
+        4.008,
+        4.041,
+        4.128,
+        4.112
+      ]
+    },
+    {
+      "label": "10년",
+      "value": 4.327,
+      "chg_bp": -0.6,
+      "series": [
+        4.118,
+        4.171,
+        4.195,
+        4.171,
+        4.171,
+        4.144,
+        4.117,
+        4.144,
+        4.091,
+        4.205,
+        4.183,
+        4.197,
+        4.203,
+        4.213,
+        4.245,
+        4.25,
+        4.23,
+        4.263,
+        4.333,
+        4.327
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.468,
+      "chg_bp": -2.4,
+      "series": [
+        4.232,
+        4.264,
+        4.293,
+        4.298,
+        4.316,
+        4.297,
+        4.301,
+        4.333,
+        4.27,
+        4.365,
+        4.336,
+        4.344,
+        4.375,
+        4.396,
+        4.431,
+        4.431,
+        4.413,
+        4.423,
+        4.492,
+        4.468
+      ]
+    },
+    {
+      "label": "30년",
+      "value": 4.476,
+      "chg_bp": -1.5,
+      "series": [
+        4.204,
+        4.259,
+        4.303,
+        4.311,
+        4.341,
+        4.319,
+        4.335,
+        4.375,
+        4.351,
+        4.438,
+        4.382,
+        4.368,
+        4.4,
+        4.425,
+        4.46,
+        4.459,
+        4.438,
+        4.446,
+        4.491,
+        4.476
+      ]
+    }
+  ]
 }
