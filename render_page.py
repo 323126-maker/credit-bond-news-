@@ -17,7 +17,7 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_META = {
-    "watchlist": {"label": "Credit Watchlist", "color": "#2f6fed", "full_width": True},
+    "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed", "full_width": True},
     "credit_issue": {"label": "크레딧 이슈", "color": "#d1553d"},
     "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
     "policy": {"label": "채권정책 · 추경", "color": "#1a7f4b"},
@@ -170,16 +170,38 @@ def main():
     overflow-x: hidden;
   }}
   .topbar {{
+    position: sticky;
+    top: 0;
+    z-index: 20;
     display: flex;
     align-items: baseline;
     justify-content: space-between;
-    margin-bottom: 2px;
+    margin: -24px -32px 14px;
+    padding: 16px 32px 10px;
+    background: rgba(244,246,245,0.88);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--border);
   }}
   .brand {{ display: flex; align-items: baseline; gap: 8px; }}
   h1 {{ font-size: 20px; margin: 0; font-weight: 700; letter-spacing: -0.2px; }}
   .tagline {{ font-size: 12px; color: var(--muted); }}
   .updated {{ color: var(--muted); font-size: 12px; white-space: nowrap; }}
   .updated b {{ color: var(--accent); font-weight: 600; }}
+  .yield-panel {{
+    background: var(--panel);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    padding: 10px 14px 2px;
+    margin-bottom: 16px;
+  }}
+  .yield-panel-head {{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 4px;
+  }}
+  .yield-panel-head h2 {{ font-size: 12.5px; margin: 0; font-weight: 700; color: var(--muted); }}
   .chips {{
     display: flex;
     flex-wrap: wrap;
@@ -211,7 +233,6 @@ def main():
   }}
   .card {{
     background: var(--panel);
-    border: 1px solid var(--border);
     border-top: 3px solid;
     border-radius: 12px;
     padding: 12px 16px 8px;
@@ -222,7 +243,11 @@ def main():
     overflow: hidden;
     resize: horizontal;
     box-shadow: var(--shadow);
-    transition: box-shadow 0.15s ease;
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+  }}
+  .card:hover {{
+    box-shadow: 0 2px 4px rgba(22,32,28,0.06), 0 10px 24px rgba(22,32,28,0.09);
+    transform: translateY(-1px);
   }}
   .card.full {{ width: 100%; resize: none; }}
   .card-head {{
@@ -333,6 +358,54 @@ def main():
     <span class="tagline">채권·크레딧 뉴스 대시보드 · 총 {total_count}건</span>
   </div>
   <span class="updated">마지막 업데이트 <b>{updated_at}</b></span>
+</div>
+<div class="yield-panel">
+  <div class="yield-panel-head"><h2>국고채 금리 (KTB) · 구간별 · 당일 변동</h2></div>
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-symbol-overview.js" async>
+    {{
+    "symbols": [
+      ["국고채 3년", "TVC:KR03Y|1D"],
+      ["국고채 5년", "TVC:KR05Y|1D"],
+      ["국고채 10년", "TVC:KR10Y|1D"],
+      ["국고채 20년", "TVC:KR20Y|1D"],
+      ["국고채 30년", "TVC:KR30Y|1D"]
+    ],
+    "chartOnly": false,
+    "width": "100%",
+    "height": "180",
+    "locale": "kr",
+    "colorTheme": "light",
+    "autosize": true,
+    "showVolume": false,
+    "showMA": false,
+    "hideDateRanges": false,
+    "hideMarketStatus": false,
+    "hideSymbolLogo": true,
+    "scalePosition": "right",
+    "scaleMode": "Normal",
+    "fontFamily": "Pretendard, -apple-system, sans-serif",
+    "fontSize": "10",
+    "noTimeScale": false,
+    "valuesTracking": "1",
+    "changeMode": "price-and-percent",
+    "chartType": "area",
+    "maLineColor": "#1a7f4b",
+    "maLineWidth": 1,
+    "maLength": 9,
+    "headerFontSize": "medium",
+    "lineWidth": 2,
+    "lineType": 0,
+    "dateRanges": [
+      "1d|1",
+      "1m|30",
+      "3m|60",
+      "12m|1D"
+    ]
+    }}
+    </script>
+  </div>
 </div>
 <div class="chips">
 {''.join(chips)}
