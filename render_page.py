@@ -30,6 +30,7 @@ CATEGORY_META = {
 TAG_COLORS = {
     "Fed": "#4a8c1c",
     "JGB": "#c23e72",
+    "Global": "#3f7ecf",
 }
 
 REFRESH_SECONDS = 600  # 워크플로 cron 주기와 맞춰두면 좋음 (10분)
@@ -315,7 +316,8 @@ def main():
   }}
   .source {{
     flex: 0 0 auto;
-    max-width: 90px;
+    max-width: 110px;
+    margin-left: auto;
     color: var(--muted);
     font-size: 11px;
     white-space: nowrap;
