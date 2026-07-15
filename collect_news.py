@@ -23,6 +23,10 @@ ANTHROPIC_MODEL = "claude-haiku-4-5-20251001"
 NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID")
 NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET")
 
+ECOS_API_KEY = os.environ.get("ECOS_API_KEY")
+ECOS_STAT_CODE = "817Y002"  # 한국은행 ECOS "시장금리(일별)" 통계표. 국고채 만기별 수익률이 여기 포함됨
+KTB_MATURITIES = ["3년", "5년", "10년", "20년", "30년"]  # 상단 금리 패널에 보여줄 만기 구간
+
 # 카테고리 정의. "keywords"만 있으면 단순 카테고리, "subgroups"가 있으면
 # 하위 태그별로 나눠 검색하고 각 기사에 태그를 붙인다 (예: 글로벌 채권이슈 안에서 Fed/JGB/Global 구분).
 CATEGORIES = {
@@ -295,8 +299,86 @@ def fetch_for_keyword(query: str) -> list:
     return fetch_google(query) + fetch_naver(query)
 
 
+def fetch_ecos_item_codes() -> dict:
+    """817Y002(시장금리 일별) 통계표 안에서 '국고채'가 들어간 항목을 만기별로 찾아
+    {"3년": "통계항목코드", ...} 형태로 반환. 코드를 하드코딩하지 않고 매번 이름으로
+    찾는 이유는 ECOS 항목코드가 바뀌거나 잘못 추측하면 조용히 빈 데이터만 나오기 때문."""
+    if not ECOS_API_KEY:
+        return {}
+    url = f"https://ecos.bok.or.kr/api/StatisticItemList/{ECOS_API_KEY}/json/kr/1/1000/{ECOS_STAT_CODE}"
+    try:
+        resp = requests.get(url, timeout=15)
+        rows = resp.json().get("StatisticItemList", {}).get("row", [])
+    except Exception:
+        return {}
+
+    mapping = {}
+    for row in rows:
+        name = row.get("ITEM_NAME", "")
+        if "국고채" not in name:
+            continue
+        for m in KTB_MATURITIES:
+            if m in name and m not in mapping:
+                mapping[m] = row.get("ITEM_CODE")
+    return mapping
+
+
+def fetch_ktb_yields() -> list:
+    """국고채 만기별(3/5/10/20/30년) 최근 수익률과 전일 대비 변동(bp), 최근 20개 시계열을 반환.
+    ECOS_API_KEY가 없거나 API 조회에 실패하면 빈 리스트를 반환 (기존 값 유지는 main()에서 처리)."""
+    item_codes = fetch_ecos_item_codes()
+    if not item_codes:
+        return []
+
+    end = datetime.now(timezone.utc) + timedelta(hours=9)
+    start = end - timedelta(days=45)  # 주말/공휴일 감안해 넉넉히 조회
+    start_s = start.strftime("%Y%m%d")
+    end_s = end.strftime("%Y%m%d")
+
+    results = []
+    for maturity in KTB_MATURITIES:
+        code = item_codes.get(maturity)
+        if not code:
+            continue
+        url = (
+            f"https://ecos.bok.or.kr/api/StatisticSearch/{ECOS_API_KEY}/json/kr/1/100/"
+            f"{ECOS_STAT_CODE}/D/{start_s}/{end_s}/{code}"
+        )
+        try:
+            resp = requests.get(url, timeout=15)
+            rows = resp.json().get("StatisticSearch", {}).get("row", [])
+        except Exception:
+            continue
+        if not rows:
+            continue
+
+        rows.sort(key=lambda r: r.get("TIME", ""))
+        series = []
+        for r in rows:
+            try:
+                series.append(float(r["DATA_VALUE"]))
+            except (KeyError, ValueError, TypeError):
+                continue
+        if not series:
+            continue
+
+        latest = series[-1]
+        prev = series[-2] if len(series) > 1 else latest
+        chg_bp = round((latest - prev) * 100, 1)  # %p 차이를 bp(0.01%p)로 환산
+        results.append(
+            {
+                "label": maturity,
+                "value": round(latest, 3),
+                "chg_bp": chg_bp,
+                "series": series[-20:],
+            }
+        )
+    return results
+
+
 def collect_for_category(cfg: dict, watchlist: list) -> list:
-    """(item, tag) 튜플 리스트를 반환. tag는 subgroup 이름 또는 None."""
+    """(item, tag) 튜플 리스트를 반환. tag는 subgroup 이름(글로벌 채권이슈) 또는
+    보유 종목명(워치리스트) 또는 None."""
     results = []
 
     if "subgroups" in cfg:
@@ -306,16 +388,18 @@ def collect_for_category(cfg: dict, watchlist: list) -> list:
                     results.append((item, tag))
         return results
 
-    keywords = list(cfg.get("keywords", []))
     if cfg is CATEGORIES["watchlist"]:
+        # 종목별로 검색해서 결과에 종목명을 태그로 붙임 -> 사이드바에서 종목별로 묶어 보여주는 데 사용
         for name in watchlist:
             name = name.strip()
             if not name:
                 continue
-            keywords.append(f"{name} 회사채")
-            keywords.append(f"{name} 신용등급")
+            for query in (f"{name} 회사채", f"{name} 신용등급"):
+                for item in fetch_for_keyword(query):
+                    results.append((item, name))
+        return results
 
-    for query in keywords:
+    for query in cfg.get("keywords", []):
         for item in fetch_for_keyword(query):
             results.append((item, None))
 
@@ -374,6 +458,10 @@ def main():
         merged = merged[:MAX_PER_CATEGORY]
 
         data["categories"][cat_key] = merged
+
+    yields = fetch_ktb_yields()
+    if yields:  # 조회 실패 시 기존 값을 그대로 유지 (화면이 갑자기 비지 않도록)
+        data["yields"] = yields
 
     data["updated_at"] = (datetime.now(timezone.utc) + timedelta(hours=9)).strftime("%Y-%m-%d %H:%M:%S")
     save_json(DATA_FILE, data)
