@@ -153,43 +153,71 @@ def render_yield_panel(yields) -> str:
     return f'<div class="yield-grid">{"".join(cells)}</div>'
 
 
-def render_watchlist_sidebar(watchlist_names, watchlist_items) -> str:
-    """토스 앱 우측 '관심' 패널처럼, 보유 종목별로 가장 최근 헤드라인 1개씩만 나란히 보여줌.
-    watchlist_items는 이미 main()에서 최신순 정렬돼 있으므로, 종목명이 처음 매칭되는 항목이 최신 기사."""
-    if not watchlist_names:
+def normalize_watchlist(raw) -> list:
+    """watchlist.json 항목은 문자열("삼성카드")도, 객체({"name":"삼성카드","rating":"AA+"})도 지원.
+    rating은 자동 수집이 아니라 직접 적어 넣는 값 (무료 공개 API가 없어서).
+    민평금리는 매일 바뀌어서 수동 관리가 비현실적이라 제외 (등급은 자주 안 바뀌어서 수동 관리 가능)."""
+    result = []
+    for entry in raw:
+        if isinstance(entry, str):
+            name = entry.strip()
+            if name:
+                result.append({"name": name, "rating": ""})
+        elif isinstance(entry, dict):
+            name = (entry.get("name") or "").strip()
+            if name:
+                result.append({"name": name, "rating": entry.get("rating", "")})
+    return result
+
+
+WATCHLIST_MAX_PER_COMPANY = 4  # 종목당 사이드바에 보여줄 최근 헤드라인 개수 (넘으면 스크롤)
+
+
+def render_watchlist_sidebar(watchlist_raw, watchlist_items) -> str:
+    """토스 앱 우측 '관심' 패널처럼, 보유 종목별로 블록을 나눠서 종목명(+등급) 아래에
+    최근 헤드라인을 여러 개(WATCHLIST_MAX_PER_COMPANY개, 넘으면 스크롤) 보여줌.
+    watchlist_items는 이미 main()에서 최신순 정렬돼 있으므로 그 순서 그대로 최신순 유지."""
+    watchlist = normalize_watchlist(watchlist_raw)
+    if not watchlist:
         return '<p class="empty">watchlist.json에 종목명을 추가하면 여기에 표시됩니다.</p>'
 
-    latest_by_company = {}
+    by_company = {}
     for it in watchlist_items:
         name = it.get("tag")
-        if name and name not in latest_by_company:
-            latest_by_company[name] = it
-
-    rows = []
-    for name in watchlist_names:
-        name = name.strip()
         if not name:
             continue
-        it = latest_by_company.get(name)
-        if it:
-            headline = html.escape(it.get("headline", ""))
-            link = html.escape(it.get("link", "#"))
-            ago = relative_time(it.get("first_seen"))
-            rows.append(
-                f"""<a class="wl-row" href="{link}" target="_blank" rel="noopener">
-  <span class="wl-name">{html.escape(name)}</span>
-  <span class="wl-headline">{headline}</span>
-  <span class="wl-time">{ago}</span>
+        by_company.setdefault(name, []).append(it)
+
+    blocks = []
+    for w in watchlist:
+        name = w["name"]
+        rating = w.get("rating") or ""
+        meta_html = f' <span class="wl-meta">{html.escape(rating)}</span>' if rating else ""
+        items = by_company.get(name, [])[:WATCHLIST_MAX_PER_COMPANY]
+
+        if items:
+            rows = []
+            for it in items:
+                headline = html.escape(it.get("headline", ""))
+                link = html.escape(it.get("link", "#"))
+                ago = relative_time(it.get("first_seen"))
+                rows.append(
+                    f"""<a class="wl-item" href="{link}" target="_blank" rel="noopener">
+  <span class="wl-item-headline">{headline}</span>
+  <span class="wl-item-time">{ago}</span>
 </a>"""
-            )
+                )
+            body = f'<div class="wl-item-list">{"".join(rows)}</div>'
         else:
-            rows.append(
-                f"""<div class="wl-row wl-row-empty">
-  <span class="wl-name">{html.escape(name)}</span>
-  <span class="wl-headline wl-empty-text">최근 소식 없음</span>
+            body = '<p class="wl-empty-text">최근 소식 없음</p>'
+
+        blocks.append(
+            f"""<div class="wl-block">
+  <div class="wl-block-head">{html.escape(name)}{meta_html}</div>
+  {body}
 </div>"""
-            )
-    return f'<div class="wl-list">{"".join(rows)}</div>'
+        )
+    return "".join(blocks)
 
 
 def main():
@@ -495,28 +523,46 @@ def main():
     margin-bottom: 6px;
   }}
   .sidebar-head h2 {{ font-size: 13.5px; margin: 0; font-weight: 700; }}
-  .wl-list {{ display: flex; flex-direction: column; }}
-  .wl-row {{
+  .wl-block {{
+    padding: 8px 2px;
+    border-bottom: 1px solid var(--border);
+  }}
+  .wl-block:last-child {{ border-bottom: none; }}
+  .wl-block-head {{
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--text);
+    margin-bottom: 4px;
+  }}
+  .wl-meta {{ font-size: 10.5px; font-weight: 600; color: var(--accent); margin-left: 4px; }}
+  .wl-item-list {{
     display: flex;
     flex-direction: column;
-    gap: 2px;
-    padding: 8px 4px;
-    border-bottom: 1px solid var(--border);
+    max-height: 116px;   /* 대략 4줄. 더 있으면 스크롤 */
+    overflow-y: auto;
+  }}
+  .wl-item {{
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: 8px;
+    padding: 4px 2px;
+    border-radius: 6px;
     text-decoration: none;
     color: inherit;
   }}
-  .wl-row:last-child {{ border-bottom: none; }}
-  .wl-row:hover {{ background: var(--accent-bg); }}
-  .wl-name {{ font-size: 11.5px; font-weight: 700; color: var(--accent); }}
-  .wl-headline {{
-    font-size: 12.5px;
+  .wl-item:hover {{ background: var(--accent-bg); }}
+  .wl-item-headline {{
+    font-size: 12px;
     color: var(--text);
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    min-width: 0;
+    flex: 1 1 auto;
   }}
-  .wl-time {{ font-size: 10.5px; color: var(--muted); }}
-  .wl-empty-text {{ color: var(--muted); }}
+  .wl-item-time {{ font-size: 10px; color: var(--muted); flex: 0 0 auto; }}
+  .wl-empty-text {{ color: var(--muted); font-size: 12px; margin: 0; }}
 </style>
 </head>
 <body>
