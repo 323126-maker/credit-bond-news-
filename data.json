@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsVXR6MTNiRmZ3MmpteHZzcU9sS3JoenFpdllHSUk5MnRHMzBNN3VqazNZWHNyV19fejc2U21WR05Sa3plb3NBQ2xIVzVmeU1QcmVuVTZ6ZHQ3SzdNTHFvWnl0eWRwdw?oc=5",
+        "headline": "ADI Chain와 ZIGChain, RWA 토큰화 관련 MOU 체결",
+        "summary": "",
+        "source": "FinanceFeeds",
+        "published": "07/16 21:26",
+        "published_ts": 1784204798.0,
+        "tag": null,
+        "first_seen": 1784222124.8377953
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93WHJ6SVFNV3ZsM0NlTkNCYU50Ml95eGpLQkxqYnN2MC1zX2lqelgySTJWTXFNR2ZPTUdlR3J0aFdzVzY1eEJaZzRERzVvMG9uZEHSAVNBVV95cUxNWGlKRUl2em01eVZJVUM5Q1JaMkNsWUt6SDVsRWo3eGN6QmRhSnAwMS1JZzVQR05rXy1wQU9vcGlrcTY2ZkNYYzhWMVJ1X05rM1VEOA?oc=5",
         "headline": "빚투 브레이크 걸리나…“주식 시장 선반영돼 엑소더스는 제한적”",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784103098.0,
         "tag": null,
         "first_seen": 1784147972.623359
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1LN2NvT1RWb1FJNGQ5enpqc2tNenNic2ZvYWZQaTZOWk1aa1ZQUnFfcEZjNW8tUl94RElhcVFaODQ2YjRlS1RsQWRWTnJmZnc?oc=5",
-        "headline": "[강현철의 뉴스 솎아내기] 벼랑 끝 몰린 회사채 개인 투자자들",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/15 17:03",
-        "published_ts": 1784102590.0,
-        "tag": null,
-        "first_seen": 1784106030.5174205
       }
     ],
     "perpetual": [
@@ -1510,6 +1510,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWQ2UTJibGNZUU5KSFduZWJjd0tEbFFBb21WWDZZVVByT0VQTThQN2NyYU9RSXNfTzIxY3JlTUE3VUZtRV9QdnNkQVNpSTF3WnlmOEhTRmYtTG54dXZMTnRVUkw5M3RlX3VfVHZBYmNnT2t3YUs4dEd3aTZNRmZiMUFmR3MyYlgzT3BBRkxpWlNKX3VpZ1ZuTUpMOHh3Y1BjclJZNF9B?oc=5",
+        "headline": "Average 30-year US mortgage rate climbs to 6.55%, highest level in nearly a year",
+        "summary": "",
+        "source": "News-Times",
+        "published": "07/17 02:10",
+        "published_ts": 1784221833.0,
+        "tag": "Fed",
+        "first_seen": 1784222124.8377953
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNjF0ckZrWldzZmhQXzFIN3lLbFdTb212YmpMdFloZ0FvdDlHWEM0OGdXVVV6SGVPUFMwLWJkYVpYY1gzLWlxbGhHUk9rS21PUmF1Z2J0RVJaWEV6NlZCRFlTdkJ1dzhfSFBqZGZUUzJQcGxaOHdqeklObjVJUEZERXF5ZFhLX2paSHAtZmRnNHNIZklsWVczeFdMVGhpbTNEeG04?oc=5",
         "headline": "Warren, Warsh spar over Bowman’s appearance at private dinner",
         "summary": "",
@@ -1898,16 +1908,6 @@
         "published_ts": 1784179800.0,
         "tag": "Fed",
         "first_seen": 1784191525.0234513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbVF3dHVfMll6QWI1R2tOZTNhbFFVNkNQT0NPT182ZVRrblFKMm1Ud2pWWXFiX1dtUm0yeld3YUFzd3JNa3RxMXlLS0ZmdndMVTlncWtFd0FXNkk0cV96YmVCVFlSUGh2c1l2eDRudWxJOWxFVkhSQjRiZXRTVVFzRmRGQ3dvd1E2ZVhWQmlrdnZyaThiaHVPWVVMUGl5QlJMRzVWNXI4ZENhTnNsVHBPeUF3YjlOc2RFM3JBR1E5RmcwMFcxaHdXQzZidG1EbUpHNGhZQmZMbS1wdHM?oc=5",
-        "headline": "Vanguard International Fixed Interest ETF (ASX:VIF) Advances While Investors Monitor Interest-Rate Trends",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "07/16 13:52",
-        "published_ts": 1784177520.0,
-        "tag": "Global",
-        "first_seen": 1784186838.3176548
       }
     ],
     "watchlist": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 02:01:04",
+  "updated_at": "2026-07-17 02:15:49",
   "yields": [
     {
       "label": "3년",
