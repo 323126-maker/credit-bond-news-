@@ -1500,6 +1500,16 @@
         "first_seen": 1784208644.1417153
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZElZMXZOWnRIelVJN0w0VWxYd2JuQnBJcDUtM3dDUl9kZHBJZWwyN2N2clBmOHZwQzhoR09RY01GajNBUWlaZDlMemUxMEM2cHNRM3lOVV9VNnZTMDFwMzdzcUNTeXI1MGFubU41THhabGlnZEc3SzZval9VVUEwWUhPTnlrc2kwdzZKOWdB?oc=5",
+        "headline": "Warsh's Fed plan means it's time to read the bond market backward, says Morgan Stanley chief",
+        "summary": "",
+        "source": "Fortune",
+        "published": "07/16 22:18",
+        "published_ts": 1784207880.0,
+        "tag": "Fed",
+        "first_seen": 1784209527.071648
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWxCMFhpWGlJMmtIQk5tSzIxaGxNbFBOTHJqV1MyVVlYNGZReTc2bnVtZ2E5Q0FlUHV3QnZWTXdxdGJOeEJhcG85VlBMRnlpN3NDdWxFclBBSUdXa1YxZWNZenlGWXViYm5mTktBb1hIMTgzN0NZcHVhQWNJZm9yNFptd3llR2RlbXZBZHRfVzRZSU5ZS05VUVB6d2p0OUlMc0NoeUxHQWgzM0VMLTJNT1V1aw?oc=5",
         "headline": "Can the Fed lower inflation? 5 takeaways from Warsh on Capitol Hill",
         "summary": "",
@@ -1876,16 +1886,6 @@
         "source": "경인매일",
         "published": "07/16 11:04",
         "published_ts": 1784167445.0,
-        "tag": "JGB",
-        "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQm1CUHdlRkF4RXZRTUdoakFfQTNhNVcwMUdNT2ZDQ1BDUjlkSjlaMGhlOWQ4dHlJUWNyWEZ2REU3b3NxbXl0ckZqSGxGcFlEbVVTaWJEUnk0NkRaUkF4bkhid2FtWnpCTV9wNl80aGlUUWFId2w5WU5fQXNtczVWZA?oc=5",
-        "headline": "BOJ may face pressure to ramp up bond-buying if yields spike, ex-central bank policymaker says",
-        "summary": "",
-        "source": "Yahoo! Finance Canada",
-        "published": "07/16 10:56",
-        "published_ts": 1784166960.0,
         "tag": "JGB",
         "first_seen": 1784167726.8348706
       }
@@ -2293,7 +2293,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 22:31:09",
+  "updated_at": "2026-07-16 22:45:59",
   "yields": [
     {
       "label": "3년",
