@@ -1560,6 +1560,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZcmV5UXFLYk1vYk13eU01X0JRbXdBc2M3eGJrN1Z3cjBMMGtLQW5mSXhZcGo4MEkzUjI4NUNPT2FETnhSLVRkUHVFZDBXamdvaWhKWVFITDVqdzB3MGVUV3JYUmJidjJuQ1VINUZuczZrZGc?oc=5",
+        "headline": "Warsh Defends Fed Independence Amid Political Pressure",
+        "summary": "",
+        "source": "Legis1",
+        "published": "07/17 03:02",
+        "published_ts": 1784224954.0,
+        "tag": "Fed",
+        "first_seen": 1784225728.7682
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQWQ2UTJibGNZUU5KSFduZWJjd0tEbFFBb21WWDZZVVByT0VQTThQN2NyYU9RSXNfTzIxY3JlTUE3VUZtRV9QdnNkQVNpSTF3WnlmOEhTRmYtTG54dXZMTnRVUkw5M3RlX3VfVHZBYmNnT2t3YUs4dEd3aTZNRmZiMUFmR3MyYlgzT3BBRkxpWlNKX3VpZ1ZuTUpMOHh3Y1BjclJZNF9B?oc=5",
         "headline": "Average 30-year US mortgage rate climbs to 6.55%, highest level in nearly a year",
         "summary": "",
@@ -1948,16 +1958,6 @@
         "published_ts": 1784179954.0,
         "tag": "JGB",
         "first_seen": 1784213125.5036416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY1l5U3lacGdkWEpOd2pNTXFGM2hmbGdYbVRXNzY5aVJLTlRXZ1NldW1neUZoMzRoeGhyMWVITFoxT2x2ZUs3UDE2X18yY1NzenhpTGNTcURyOHMtVUhYbGtsYjhwU3Y2NDJVR21ib3VCSE9QYzNuNTVPTVlwUjRTaWFjM1RzR0NRbnIxV0p3NThELUtMeUZ4MHVnMA?oc=5",
-        "headline": "Fed chair Warsh sidesteps Senate questions on inflation, AI, contact with Trump",
-        "summary": "",
-        "source": "TelegraphHerald.com",
-        "published": "07/16 14:30",
-        "published_ts": 1784179800.0,
-        "tag": "Fed",
-        "first_seen": 1784191525.0234513
       }
     ],
     "watchlist": [
@@ -2363,7 +2363,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 03:01:03",
+  "updated_at": "2026-07-17 03:15:51",
   "yields": [
     {
       "label": "3년",
