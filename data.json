@@ -1500,6 +1500,16 @@
         "first_seen": 1784188993.4405036
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YTkpvSWdnbE1hRDZwa29VOXFQNG9DaWQyMzdMT0haM05GQi1mTUIxanA5ejJTRTZrYi1lWHJ2MEtOY0Q0TF9aaWtYOHFROFdkSkdlUk9NdXBjTzFyMHVvd3ln?oc=5",
+        "headline": "3년 반 만에 긴축 사이클 진입 \"물가·집값 잡아야\" …저소득·저신용층 대책 시급",
+        "summary": "",
+        "source": "매일신문",
+        "published": "07/16 16:27",
+        "published_ts": 1784186857.0,
+        "tag": "JGB",
+        "first_seen": 1784198724.801075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rYVlpb29mdlZUd0RCYWlacGdwWEFxRjFySVZZUVJ3dFFnbHZabVNCN0ZxODJQcG1zUEFfcS1uMXpuRVZmU3FPZzFSTlFtRy1x0gFWQVVfeXFMTVNyRHUxam5vZTN1enl0VUhNYXl3NkFrSFlnVXhhMkJTQkFlSkhudmo2WG41Y2ZzQ0lTN3ExUTVFd1VkNUpCVnVIM3lTcG5JLXNhOExOQ3c?oc=5",
         "headline": "Japan bond yields rise as US-Iran tensions fuel inflation concerns",
         "summary": "",
@@ -1826,16 +1836,6 @@
         "source": "아주경제",
         "published": "07/16 10:39",
         "published_ts": 1784165985.0,
-        "tag": "JGB",
-        "first_seen": 1784186838.3176548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40bG1iVTE1Z1pwNHdEMGNOQkFVZU5RSkhNeFY4X280Y0xxOVBnX2VvRFVFQnBEckNvamZnaFBBSTVaYWRENkxCRGowRFNuZzV5U0F5OHlyamttR1ZMNjNzT1FCT3ByTkkyOEgzR0ZWYVjSAXBBVV95cUxONGxtYlUxNWdacDR3RDBjTkJBVWVOUUpITXhWOF9vNGNMcTlQZ19lb0RVRUJwRHJDb2pmZ2hQQUk1WmFkRDZMQkRqMERTbmc1eVNBeTh5cmprbUdWTDYzc09RQk9wck5JMjhIM0dGVmFY?oc=5",
-        "headline": "한은, 3년 6개월 만에 기준금리 전격 인상…물가·가계빚 잡기 나섰다",
-        "summary": "",
-        "source": "데일리굿뉴스",
-        "published": "07/16 10:38",
-        "published_ts": 1784165880.0,
         "tag": "JGB",
         "first_seen": 1784186838.3176548
       }
@@ -2243,7 +2243,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 19:31:13",
+  "updated_at": "2026-07-16 19:45:46",
   "yields": [
     {
       "label": "3년",
