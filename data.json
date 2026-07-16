@@ -1480,6 +1480,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbkxFcnRpaWtxTDdKaHJ4dXVKQWIxRElxZU1iWF85N3JJRVlFeUtBcmlDUzZpbjhHYXpsRGVHTWRMbDFoRmNKSHV5a1ViTWx4MFZmVEpvTHA5Y3EzOGxVdmN4Njd5N1BUaGZFdG9wQ3VhNGd0bXVGVTdsTTE0NTZ4emhoQk16UUhkYzR4czBONU9XcmRfeU1uVFVnRHdqbENYR3FiSF9JN0ctN3ZxcnfSAa4BQVVfeXFMT2U5c3NDMWkzRWZabERGVnlBLWR6X2N6c0RFa1Q4RlVHMUpVdUxaOW1QLXo1UEtzYm9sNW5SNHQ2YlVzbnpxaUhqNzdRRHZCa25aVkhRaUtkWVdfQk9xWXZYMFMyTXJwVTdGWHpmbzE4T1RKR1R2SnlDQlZtQ29aUEFMMEJJMkcweFhVUFMyZElRWHFPaE0zT0tVUlYwN3pFWlVBT0VnMll2YzlrQUt3?oc=5",
+        "headline": "Macroscope | Silence isn’t golden for a world looking to Kevin Warsh’s Fed",
+        "summary": "",
+        "source": "South China Morning Post",
+        "published": "07/16 21:30",
+        "published_ts": 1784205006.0,
+        "tag": "Fed",
+        "first_seen": 1784205925.2778127
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wSW1VaXlhelNEM0xJUUtlek10Z0tEbVNaM1dTQ1k3UHowWmx3dmhOblBnUlpybUx6dHRQZEJoNUYyYTZWOWFGaFNXSzdNdGlGQmxGMllaamhJTnBXOEh0ZFhpZC1RVWdSQ1dXMUtoTzhhQkE?oc=5",
         "headline": "UK gilts: The bed on which they lie",
         "summary": "",
@@ -1866,16 +1876,6 @@
         "source": "네이트",
         "published": "07/16 10:51",
         "published_ts": 1784166660.0,
-        "tag": "JGB",
-        "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jRWI0OHZ3RlY4RkxTMDdvZzhncFRBcFA1RHFSQlFRQTFMcWxMSkZtU1A5bFVDWVVWaldDRDduV3lfMHhKaUdNZ1hDX294blU0NXdFdHY1bzFSbnNobEswOHB3UHkySFpZNk9GcVppVEs5UFRt?oc=5",
-        "headline": "한은, 기준금리 0.25%포인트 인상…물가, 환율 모두 인상 요인",
-        "summary": "",
-        "source": "부산일보",
-        "published": "07/16 10:43",
-        "published_ts": 1784166220.0,
         "tag": "JGB",
         "first_seen": 1784167726.8348706
       }
@@ -2283,7 +2283,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 21:31:13",
+  "updated_at": "2026-07-16 21:45:49",
   "yields": [
     {
       "label": "3년",
