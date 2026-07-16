@@ -1490,6 +1490,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2NKQUhHbFZJUHNaN1BlbVgwdVQtdnZ0RC1HVVlaNzdHMlVJdmNSaXFoX2RUbHJuRTBnZW5veThjSGF6TUhwSXNpWjVwRXRybm52cGNmWEpHdDBLUDFxT0w4YVVQYlg4cXdxRlc1ZzRvQnUxRnlqaFQ1czlFUTg4elRNYzFYM0pWeWIyWtIBkgFBVV95cUxQM1IxZVZpcWJ1UE9EbFZGOHRSVzlxN1RBZFNQZGMxV1BSUl9oakhBSmk0R2x4WGZwbVJlNDIwc3hEaDhfWXhjcGJaQURSUjA3S183T1FYQ2E0RUpWNHRMcGtTd1d5Y2JZVWM3bmszdTd5Q2sxUk1rclE1UnE1YkxWamE1QXdCTlBWeFZLWVBLa2h0dw?oc=5",
+        "headline": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
+        "summary": "",
+        "source": "CNBC",
+        "published": "07/16 22:54",
+        "published_ts": 1784210084.0,
+        "tag": "Fed",
+        "first_seen": 1784210454.0536299
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObVY1cl9NazItLTJ6Wk1rSmtSYnExT1RqRmtBOE5CRTh3THdnUHl3Smtwd2t1QXB0QVY0N3lOWm9uYzhCenlsYkxoNHJvQmE0ODdqeEhkRzBLS2dwTnlPV216bERUU2V1OWdCbjM4d1U1Rnk0OTZZQzR6djEwUjhmdjlYd21tMVQtRFE?oc=5",
         "headline": "The AI Revolution Is Reshaping Credit Markets — Here Is What It Really Says About Risk",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1784188603.0,
         "tag": "Global",
         "first_seen": 1784188993.4405036
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNY2hpRFUyTHItbjBCOUMyQi1saG50M0prVkxLZmJsV29VQUV4ajBoVUo5eHRBMG1lVlVwOEJUZExraVZCYWU4VkVvTlhyTnp2NWx3dHBkMHRsOUl3b0MxWGdzdDgwLXJMYjRPbHRjdl9SMHV6Y1dDWkVZa3JUM1lhZHlJa2syT0N6eXdyMldfZmdUa1J1SHotQzcwUGh6VW9L?oc=5",
+        "headline": "Q3 Strategic Income Outlook: Perception Is Reality - Osterweis Capital Management - Commentaries",
+        "summary": "",
+        "source": "Advisor Perspectives",
+        "published": "07/16 16:56",
+        "published_ts": 1784188580.0,
+        "tag": "Global",
+        "first_seen": 1784210454.0536299
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YTkpvSWdnbE1hRDZwa29VOXFQNG9DaWQyMzdMT0haM05GQi1mTUIxanA5ejJTRTZrYi1lWHJ2MEtOY0Q0TF9aaWtYOHFROFdkSkdlUk9NdXBjTzFyMHVvd3ln?oc=5",
@@ -1868,26 +1888,6 @@
         "published_ts": 1784168447.0,
         "tag": "JGB",
         "first_seen": 1784188729.6294293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBva1RlOE1zSWtFUWZ3S0hmZGVZMHMzbERWSjhIRTRkMnhDZFBoM3lIRmhzbkJ0QjNJdjNuUEliYkxvWlV0U0pfTGUtQnZ4QWlCX0Mw?oc=5",
-        "headline": "韓銀, 42개월 만의 금리 인상…다시 긴축 사이클로",
-        "summary": "",
-        "source": "경제타임스",
-        "published": "07/16 11:12",
-        "published_ts": 1784167944.0,
-        "tag": "JGB",
-        "first_seen": 1784186838.3176548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE55SExnclVQR1NPYW1fNXkxVVIySm1GVWY0bURZVVJ6dlVvejc4SzZTMExLal9wbzRULUFxampTdVR4Qml6eDJGOTVIM3VYUVJMSTJiQURiOHVkSmkxWFBLMlhTdnR4ZU1m?oc=5",
-        "headline": "한은, 기준금리 2.75%로 인상… 3년6개월 만에 긴축 전환",
-        "summary": "",
-        "source": "경인매일",
-        "published": "07/16 11:04",
-        "published_ts": 1784167445.0,
-        "tag": "JGB",
-        "first_seen": 1784167726.8348706
       }
     ],
     "watchlist": [
@@ -2293,7 +2293,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 22:45:59",
+  "updated_at": "2026-07-16 23:01:16",
   "yields": [
     {
       "label": "3년",
