@@ -98,6 +98,26 @@ CATEGORIES = {
                 "high yield bond default risk",
                 "emerging market bond selloff",
             ],
+            "Strategist": [
+                # 유명 매크로/채권 전략가들이 금리·인플레이션에 대해 던지는 발언(정식 기사화된 것)을 잡기 위한 이름 기반 검색.
+                # 정식 리서치 노트가 아니라 인터뷰·코멘트성 발언이라도, 언론이 기사화하는 순간 바로 잡힘.
+                "Nouriel Roubini bond yield",
+                "루비니 국채 금리",
+                "Mohamed El-Erian bond market",
+                "엘에리언 채권",
+                "Ray Dalio bond market",
+                "레이 달리오 채권",
+                "Jeffrey Gundlach bond market",
+                "건들락 채권",
+                "Larry Summers inflation bond",
+                "서머스 인플레이션",
+                "Stanley Druckenmiller bond",
+                "드러켄밀러 채권",
+                "Jamie Dimon bond market warning",
+                "다이먼 채권 경고",
+                "Bill Gross bond market",
+                "빌 그로스 채권",
+            ],
         },
     },
 }
