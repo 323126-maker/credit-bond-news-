@@ -1490,6 +1490,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14T0xRN0lPRm8yRzhyZFFra0Vid0hla0R2a0tlUVVlNlpNMUR6X2dGSmEydVBhU2xtQkI4ak90TE5CV0JQZDZ4alVSMS1DZUVOVXRJ?oc=5",
+        "headline": "[사설] 3년반 만에 긴축 돌입…통화·재정 정책 엇박자 경계해야",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/17 00:02",
+        "published_ts": 1784214131.0,
+        "tag": "JGB",
+        "first_seen": 1784214928.852791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2NKQUhHbFZJUHNaN1BlbVgwdVQtdnZ0RC1HVVlaNzdHMlVJdmNSaXFoX2RUbHJuRTBnZW5veThjSGF6TUhwSXNpWjVwRXRybm52cGNmWEpHdDBLUDFxT0w4YVVQYlg4cXdxRlc1ZzRvQnUxRnlqaFQ1czlFUTg4elRNYzFYM0pWeWIyWtIBkgFBVV95cUxQM1IxZVZpcWJ1UE9EbFZGOHRSVzlxN1RBZFNQZGMxV1BSUl9oakhBSmk0R2x4WGZwbVJlNDIwc3hEaDhfWXhjcGJaQURSUjA3S183T1FYQ2E0RUpWNHRMcGtTd1d5Y2JZVWM3bmszdTd5Q2sxUk1rclE1UnE1YkxWamE1QXdCTlBWeFZLWVBLa2h0dw?oc=5",
         "headline": "Banking Committee's Sen. Rounds liked Warsh's 'tone' in first testimony as Fed chairman",
         "summary": "",
@@ -1518,6 +1528,16 @@
         "published_ts": 1784207880.0,
         "tag": "Fed",
         "first_seen": 1784209527.071648
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMk1GZ3lNTFFoUkR0SjRDYnpIQjRSMFlSU2FtckUtWWlWeGluQThWUXNIVEthOVpmUnhaVDYzVV9POWZ1emR1a011cGd2YlJlZGN5amZ6LUpzRndRY0pWNm1zN2hFZHFwX3ZzamE5cHVmR282bjY1QXZYc282WGFnTEJMdGw5VHlKcXVqQVVodEFTcV9O?oc=5",
+        "headline": "What's the Fundamental Difference Between VCSH and SCHO",
+        "summary": "",
+        "source": "Kavout | AI",
+        "published": "07/16 22:08",
+        "published_ts": 1784207289.0,
+        "tag": "Global",
+        "first_seen": 1784214928.852791
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWxCMFhpWGlJMmtIQk5tSzIxaGxNbFBOTHJqV1MyVVlYNGZReTc2bnVtZ2E5Q0FlUHV3QnZWTXdxdGJOeEJhcG85VlBMRnlpN3NDdWxFclBBSUdXa1YxZWNZenlGWXViYm5mTktBb1hIMTgzN0NZcHVhQWNJZm9yNFptd3llR2RlbXZBZHRfVzRZSU5ZS05VUVB6d2p0OUlMc0NoeUxHQWgzM0VMLTJNT1V1aw?oc=5",
@@ -1866,26 +1886,6 @@
         "source": "v.daum.net",
         "published": "07/16 12:30",
         "published_ts": 1784172637.0,
-        "tag": "JGB",
-        "first_seen": 1784186838.3176548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WT2dVajdpMHh1VkZkTC1wSXlUd0VpYjNzaUluUG10cU93dFpzTlJOOUJBRVJOWGxDQWJmRUJqNFhZTzM5WW5jN2VhNlMxLWFBeE1TRmlWR2lLT2o0d2FPcHd4aUdNckgwMU12Ykx3UklaOFhVQ3c?oc=5",
-        "headline": "'Dr. Doom' Roubini Warns 10-Year U.S. Treasury Yield Could Hit 8% — Market Crash Risk as Inflation Reignites",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "07/16 12:26",
-        "published_ts": 1784172360.0,
-        "tag": "Strategist",
-        "first_seen": 1784194245.8554032
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5acW16MS0zZ2ZPYzlXVVhWOGR1QjZxejBMR2lyMGJ4cmpUbmRFOGh4RnVMV2RCX29HMVB4VUtMc3pOQ1oxWHVhZ2hldzRRYlVKTHlZ?oc=5",
-        "headline": "다카이치, '호네부토 쇼크' 일축…\"국채금리 급등, 초안탓 아냐\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/16 12:02",
-        "published_ts": 1784170920.0,
         "tag": "JGB",
         "first_seen": 1784186838.3176548
       }
@@ -2293,7 +2293,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 00:01:06",
+  "updated_at": "2026-07-17 00:15:54",
   "yields": [
     {
       "label": "3년",
