@@ -1218,6 +1218,16 @@
         "first_seen": 1784188729.6294293
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ydDlxcFdPSG1zeXBnYkF6WTk5cVloTUlkdjlFWWJuamx2V0FWdEh2RDJBcmNoTl9FcDJvb1V5VGt3N1ZBdHRVNjdJNnJUdU8zdmV4THE0TFFnVmFSdUU1OTdra3NDT2dZZnZMem5GbzXSAXBBVV95cUxOMnQ5cXBXT0htc3lwZ2JBelk5OXFZaE1JZHY5RVlibmpsdldBVnRIdkQyQXJjaE5fRXAyb29VeVRrdzdWQXR0VTY3STZyVHVPM3ZleExxNExRZ1ZhUnVFNTk3a2tzQ09nWWZ2THpuRm81?oc=5",
+        "headline": "李 \"데이터처, 장관급으로?\"…재정·조세지출 이원화엔 \"맞는지 모르겠다\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "07/15 14:13",
+        "published_ts": 1784092415.0,
+        "tag": null,
+        "first_seen": 1784203250.4101603
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZlg2Y1VXbFE5dHhyS1hQRXBncXV6Y3dhcVRfUGsxVk96QTdaeUM2THNnNFVDcUhsMWZhZ0k5NlctSTVFbnAyRW14UnFuRlMwSGEyVlNPMFZuWjlOd2ZJdEJwbWktRGR2NmdQbHI0azZ4T2tfdmZwag?oc=5",
         "headline": "이재명 대통령, 재정경제부 업무보고 발언",
         "summary": "",
@@ -2263,8 +2273,35 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 20:45:55",
+  "updated_at": "2026-07-16 21:01:12",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.848,
+      "chg_bp": -1.8,
+      "series": [
+        3.784,
+        3.81,
+        3.77,
+        3.772,
+        3.757,
+        3.722,
+        3.733,
+        3.703,
+        3.791,
+        3.747,
+        3.748,
+        3.776,
+        3.78,
+        3.775,
+        3.778,
+        3.768,
+        3.809,
+        3.887,
+        3.866,
+        3.848
+      ]
+    },
     {
       "label": "5년",
       "value": 4.099,
