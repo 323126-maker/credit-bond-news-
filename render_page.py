@@ -16,6 +16,8 @@ CATEGORY_ORDER = [
 ]
 
 CATEGORY_META = {
+    # watchlist는 더 이상 이 그리드에 카드로 안 나오고, 오른쪽 사이드바에 별도로 표시됨.
+    # 여기 남겨둔 건 칩(chip) 색상/라벨을 재사용하기 위함.
     "watchlist": {"label": "Credit Watchlist (보유종목)", "color": "#2f6fed"},
     "credit_issue": {"label": "크레딧·채권", "color": "#d1553d"},
     "perpetual": {"label": "신종자본증권", "color": "#c2790f"},
@@ -28,13 +30,14 @@ TAG_COLORS = {
     "Fed": "#4a8c1c",
     "JGB": "#c23e72",
     "Global": "#3f7ecf",
+    "Strategist": "#b8590f",
 }
 
-YIELD_UP_COLOR = "#d1553d"
-YIELD_DOWN_COLOR = "#2f6fed"
+YIELD_UP_COLOR = "#d1553d"     # 금리 상승(전일比) 색
+YIELD_DOWN_COLOR = "#2f6fed"   # 금리 하락(전일比) 색
 YIELD_FLAT_COLOR = "#6b746f"
 
-REFRESH_SECONDS = 600
+REFRESH_SECONDS = 600  # 워크플로 cron 주기와 맞춰두면 좋음 (10분)
 
 
 def load_json(path, default):
@@ -101,6 +104,8 @@ def render_items(items):
 
 
 def sparkline_svg(values, width=100, height=30, color="#1a7f4b") -> str:
+    """숫자 리스트를 아주 작은 꺾은선(스파크라인) SVG로 그려줌. 외부 차트 라이브러리 없이
+    빌드 시점에 파이썬에서 직접 그림 (TradingView 위젯이 국고채 심볼을 임베드 못 해서 대체)."""
     if not values or len(values) < 2:
         return ""
     lo, hi = min(values), max(values)
@@ -120,9 +125,15 @@ def sparkline_svg(values, width=100, height=30, color="#1a7f4b") -> str:
 
 
 YIELD_LIVE_URL = "https://www.investing.com/rates-bonds/south-korea-government-bonds"
+# 국고채 전 만기(1~50년)를 한 페이지에서 장중 실시간(초 단위 타임스탬프)으로 보여주는 곳.
+# 로그인 불필요. TradingView 위젯/링크는 심볼 자체가 막혀있어서 이걸로 대체.
 
 
 def render_yield_panel(yields) -> str:
+    """국고채 만기별(3/5/10/20/30년) 금리를 한 화면에 나란히(좌르륵) 보여주는 패널.
+    ECOS_API_KEY가 없거나 조회 실패로 yields가 비어있으면 안내 문구만 표시.
+    ECOS/금투협 데이터는 하루 1회(장 마감 후) 갱신되는 값이라 실시간이 아니라서,
+    패널 상단에 장중 실시간 확인용 외부 링크(investing.com)를 같이 붙여둠."""
     if not yields:
         return '<p class="empty">ECOS_API_KEY가 설정되지 않았거나 국고채 금리를 아직 못 가져왔습니다. (설정 가이드 참고)</p>'
 
@@ -157,7 +168,50 @@ def render_yield_panel(yields) -> str:
     return grid + live_link
 
 
+# 트레이딩뷰에서 "국고채 금리(%)" 심볼(TVC:KR03Y 등)은 임베드·직접접속 둘 다 막혀있지만,
+# KRX에 실제 상장된 "국채선물"(파생상품)은 막혀있지 않아 무료 위젯으로 임베드 가능함.
+# 단, 트레이딩뷰에 심볼이 있는 건 3년물·10년물뿐 (5년·20년·30년물은 심볼 자체가 없음).
+TV_KTB_FUTURES = [
+    ("KRX:FKTB", "3년 국채선물"),
+    ("KRX:10YFKTB", "10년 국채선물"),
+]
+
+
+def render_tv_futures_panel() -> str:
+    """국채선물(3년·10년) 실시간 시세를 트레이딩뷰 무료 미니 위젯으로 임베드.
+    위 ECOS 패널은 전일 종가 기준이라 장중엔 값이 안 바뀌는 반면, 이 위젯은 진짜 장중 실시간(호가 반영).
+    다만 이건 '%금리'가 아니라 '선물가격/지수'라서 값이 오르면 금리는 반대로 내려가는 구조 —
+    그래서 방향(↑↓) 참고용으로만 쓰고, 정확한 %금리 숫자는 위 ECOS 패널을 기준으로 보는 게 맞음."""
+    boxes = []
+    for symbol, label in TV_KTB_FUTURES:
+        boxes.append(
+            f"""<div class="tv-widget-box">
+  <span class="tv-widget-label">{label}</span>
+  <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+    {{
+    "symbol": "{symbol}",
+    "width": "100%",
+    "height": "180",
+    "locale": "kr",
+    "dateRange": "1D",
+    "colorTheme": "light",
+    "isTransparent": true,
+    "autosize": true,
+    "largeChartUrl": ""
+    }}
+    </script>
+  </div>
+</div>"""
+        )
+    return f'<div class="tv-widgets">{"".join(boxes)}</div>'
+
+
 def normalize_watchlist(raw) -> list:
+    """watchlist.json 항목은 문자열("삼성카드")도, 객체({"name":"삼성카드","rating":"AA+"})도 지원.
+    rating은 자동 수집이 아니라 직접 적어 넣는 값 (무료 공개 API가 없어서).
+    민평금리는 매일 바뀌어서 수동 관리가 비현실적이라 제외 (등급은 자주 안 바뀌어서 수동 관리 가능)."""
     result = []
     for entry in raw:
         if isinstance(entry, str):
@@ -171,10 +225,13 @@ def normalize_watchlist(raw) -> list:
     return result
 
 
-WATCHLIST_MAX_PER_COMPANY = 4
+WATCHLIST_MAX_PER_COMPANY = 4  # 종목당 사이드바에 보여줄 최근 헤드라인 개수 (넘으면 스크롤)
 
 
 def render_watchlist_sidebar(watchlist_raw, watchlist_items) -> str:
+    """토스 앱 우측 '관심' 패널처럼, 보유 종목별로 블록을 나눠서 종목명(+등급) 아래에
+    최근 헤드라인을 여러 개(WATCHLIST_MAX_PER_COMPANY개, 넘으면 스크롤) 보여줌.
+    watchlist_items는 이미 main()에서 최신순 정렬돼 있으므로 그 순서 그대로 최신순 유지."""
     watchlist = normalize_watchlist(watchlist_raw)
     if not watchlist:
         return '<p class="empty">watchlist.json에 종목명을 추가하면 여기에 표시됩니다.</p>'
@@ -226,6 +283,7 @@ def main():
 
     total_count = sum(len(v) for v in categories.values())
     yield_panel_html = render_yield_panel(data.get("yields", []))
+    tv_futures_html = render_tv_futures_panel()
 
     watchlist_items = categories.get("watchlist", [])
     watchlist_sidebar_html = render_watchlist_sidebar(watchlist, watchlist_items)
@@ -355,6 +413,34 @@ def main():
     padding: 4px 12px 6px;
   }}
   .yc-live-link:hover {{ color: var(--accent); text-decoration: underline; }}
+  .tv-panel {{
+    background: var(--panel);
+    border-radius: 12px;
+    box-shadow: var(--shadow);
+    padding: 10px 14px 12px;
+    margin-bottom: 16px;
+  }}
+  .tv-note {{
+    font-size: 11px;
+    color: var(--muted);
+    margin: 0 0 8px;
+  }}
+  .tv-widgets {{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }}
+  .tv-widget-box {{
+    flex: 1 1 220px;
+    min-width: 200px;
+  }}
+  .tv-widget-label {{
+    display: block;
+    font-size: 11px;
+    color: var(--muted);
+    margin-bottom: 4px;
+    font-weight: 600;
+  }}
   .chips {{
     display: flex;
     flex-wrap: wrap;
@@ -390,7 +476,7 @@ def main():
     border-radius: 12px;
     padding: 12px 16px 8px;
     flex: 0 0 auto;
-    width: calc(50% - 7px);
+    width: calc(50% - 7px);   /* 기본 폭. 카드 우측 모서리를 가로로 드래그하면 폭 조절 가능 */
     min-width: 260px;
     max-width: 100%;
     overflow: hidden;
@@ -419,7 +505,7 @@ def main():
   .item-list {{
     display: flex;
     flex-direction: column;
-    height: 420px;
+    height: 420px;      /* 기본 높이. 우측 하단 점선 부분을 드래그해서 조절 가능 */
     min-height: 80px;
     overflow: auto;
     resize: vertical;
@@ -545,7 +631,7 @@ def main():
   .wl-item-list {{
     display: flex;
     flex-direction: column;
-    max-height: 116px;
+    max-height: 116px;   /* 대략 4줄. 더 있으면 스크롤 */
     overflow-y: auto;
   }}
   .wl-item {{
@@ -585,6 +671,11 @@ def main():
     <div class="yield-panel">
       <div class="yield-panel-head"><h2>국고채 금리 (KTB) · 구간별 · 당일 변동</h2></div>
       {yield_panel_html}
+    </div>
+    <div class="tv-panel">
+      <div class="yield-panel-head"><h2>국채선물 실시간 (참고용) · 3년 · 10년</h2></div>
+      <p class="tv-note">국고채 %금리가 아니라 국채선물 가격/지수예요. 값이 오르면 금리는 반대로 움직이니 방향(↑↓)만 참고하시고, 정확한 %금리는 위 패널 기준으로 봐주세요. (5·20·30년물은 트레이딩뷰에 데이터가 없어서 3·10년만 제공)</p>
+      {tv_futures_html}
     </div>
     <div class="chips">
     {''.join(chips)}
