@@ -1560,6 +1560,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLUpuaDRnSDhXa0txdmk3WVJqeXMzODdtMllySGVXTnlpT0Z5Sk9wbWxyZnV5UE0ydG1wNmZoMHplcXM0REM5bVN2WHZSVHY0MXRVVjg0MVlwYVM2RWt3azlVUnVRRWFuSmNpczZLMGFnQldkX3hlM19tTFNKd0gwbElqVjBGQkQwa1NVT19DMmVJb3hneDgzZ1dZZFIwU0hvQjFia1VUZF9OVDNpNXc?oc=5",
+        "headline": "Jamie Dimon's JPMorgan Is Closing In on a Historic Milestone. The World's First $1 Trillion Bank",
+        "summary": "",
+        "source": "International Business Times",
+        "published": "07/17 03:29",
+        "published_ts": 1784226559.0,
+        "tag": "Strategist",
+        "first_seen": 1784226637.8411934
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZcmV5UXFLYk1vYk13eU01X0JRbXdBc2M3eGJrN1Z3cjBMMGtLQW5mSXhZcGo4MEkzUjI4NUNPT2FETnhSLVRkUHVFZDBXamdvaWhKWVFITDVqdzB3MGVUV3JYUmJidjJuQ1VINUZuczZrZGc?oc=5",
         "headline": "Warsh Defends Fed Independence Amid Political Pressure",
         "summary": "",
@@ -1948,16 +1958,6 @@
         "published_ts": 1784180493.0,
         "tag": "Strategist",
         "first_seen": 1784196927.4556146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQM0hZNXkyRy03ZkZsa1VMQUd4dHhNM3Frc1hCQTJnY3EzTU9WSDJIQXRtMkFQWFBCTmJNRzY1eDVLZ2JaaWxLV0M1ZG5RcjFRX0JYeHJ2NFhKbWt2eVZCN1FackVQdjRqY0NVVWpKaXFOQlBmeEpMbmRzWDlQRV9ZZ2dUSG55bGVDWXZ4MW52bw?oc=5",
-        "headline": "Japan’s Long Bonds Wobble As Oil Rekindles Inflation Fears",
-        "summary": "",
-        "source": "Finimize",
-        "published": "07/16 14:32",
-        "published_ts": 1784179954.0,
-        "tag": "JGB",
-        "first_seen": 1784213125.5036416
       }
     ],
     "watchlist": [
@@ -2363,7 +2363,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 03:15:51",
+  "updated_at": "2026-07-17 03:31:01",
   "yields": [
     {
       "label": "3년",
