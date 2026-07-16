@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE93WHJ6SVFNV3ZsM0NlTkNCYU50Ml95eGpLQkxqYnN2MC1zX2lqelgySTJWTXFNR2ZPTUdlR3J0aFdzVzY1eEJaZzRERzVvMG9uZEHSAVNBVV95cUxNWGlKRUl2em01eVZJVUM5Q1JaMkNsWUt6SDVsRWo3eGN6QmRhSnAwMS1JZzVQR05rXy1wQU9vcGlrcTY2ZkNYYzhWMVJ1X05rM1VEOA?oc=5",
+        "headline": "빚투 브레이크 걸리나…“주식 시장 선반영돼 엑소더스는 제한적”",
+        "summary": "",
+        "source": "서울경제",
+        "published": "07/16 17:58",
+        "published_ts": 1784192339.0,
+        "tag": null,
+        "first_seen": 1784197843.5401576
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5FQzNtTVhnWmRMRDh1RGVlc1dkWWUtVy1aWmpXVWtxZ1ptbEh1R0JtMG5JU2FocTNockpXTVRPY0FNOFR6QThqbGxRa2l2RjZsOEY1TmN2QWRkRkZVSlN3OHJyWFBKRXgwY0xkYS1ibw?oc=5",
         "headline": "증시 흔들리자 채권시장 '반사이익' 기대…수급 개선 이어질까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784102590.0,
         "tag": null,
         "first_seen": 1784106030.5174205
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQV1ZFYXNRaEpvS2ROVm1TUW9fTzVGZTBnbkdQY3Rxb3VxVG1BQlBQS0hxY1VSZks5LVVIdkxCTWhhU2lsVllCVEk1ZEVSd3FhYW5BSE5PeFpmZlBFbFFLOWF0cUppZUE1TDFnelVFdjlLck85S3oyUzZ3eGg4aGZkeQ?oc=5",
-        "headline": "[마켓인]금통위 앞두고 회사채 금리 연중 최고…기업 조달 부담 커졌다",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/15 16:52",
-        "published_ts": 1784101923.0,
-        "tag": null,
-        "first_seen": 1784190643.3425047
       }
     ],
     "perpetual": [
@@ -614,6 +614,26 @@
         "first_seen": 1784147972.623359
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5IMjVCRWVJeEtiR2owYkloZ0R3aU5TRnZ0MTZCNzNxS2lXaXBaeEdsMVptMjhkejFQYVNmM1ZobUZJMjlaamlZekZOTW43Y0ZjVFI1WHhMcEU4eFl1LVh0aEx1Z1k3c2xWRG5pSnZB?oc=5",
+        "headline": "JTBC, 채권 투자자에 사과…“330억 대여는 예능 제작비·실제 자금 유출 없어”",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "07/14 08:17",
+        "published_ts": 1783984629.0,
+        "tag": null,
+        "first_seen": 1784197843.5401576
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ZMUVUYWJLbzFIT3NlS294SllJdVMwbVBDdGgzTENtbWlYekdfOHRPUmFnOHVNRUwwQXVRaGhlSE5EUGNhLURDR1VuV1FtNkY4WDdzd3ZxTVNpWTZnaWRCOGpsRHU?oc=5",
+        "headline": "JTBC 채권 부실판매 의혹, 피해자 250명 325억",
+        "summary": "",
+        "source": "bntnews.co.kr",
+        "published": "07/14 05:53",
+        "published_ts": 1783976007.0,
+        "tag": null,
+        "first_seen": 1784197843.5401576
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhZXJUbnNNZVZyNFkxWUNmSzBYTkNiX3ppNzRVTjZLLURmaW43R2lKTnRTdmpGb2N4VDdPMDJnMnFPRFRKY2FaWW9Id2lveXdOTEI2R3BOVHEtam5aQnVFSlNuR3pVX19aYWt3?oc=5",
         "headline": "JTBC, ‘자본잠식 은폐’ 의혹 전면 반박… “신종자본증권 발행, 적법 절차”",
         "summary": "",
@@ -735,6 +755,16 @@
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1YaUpFSXZ6bTV5VklVQzlDUloyQ2xZS3pINWxFajd4Y3pCZGFKcDAxLUlnNVBHTmtfLXBBT29waWtxNjZmQ1hjOFYxUnVfTmszVUQ40gFTQVVfeXFMTVhpSkVJdnptNXlWSVVDOUNSWjJDbFlLekg1bEVqN3hjekJkYUpwMDEtSWc1UEdOa18tcEFPb3Bpa3E2NmZDWGM4VjFSdV9OazNVRDg?oc=5",
+        "headline": "빚투 브레이크 걸리나…“주식 시장 선반영돼 엑소더스는 제한적”",
+        "summary": "",
+        "source": "서울경제",
+        "published": "07/16 17:58",
+        "published_ts": 1784192339.0,
+        "tag": null,
+        "first_seen": 1784197843.5401576
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBCTWs2enJTRWhlcEREYnNKVllZZm0zb19NX1MwMG02VUZ5TnNJXzhySmtlR1VUcmhucDRpUDlUcFE3RVVpN2pFaGZLamRTbUJ2LUl4eGRQZUR3ck1vZDFtN1dfaHBlX0E?oc=5",
         "headline": "기준금리 올랐는데 국고채 금리 하락…7·8월 인상 우려 덜어",
@@ -1124,16 +1154,6 @@
         "published_ts": 1783992518.0,
         "tag": null,
         "first_seen": 1784096646.0207589
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9Ld1lwUklwbHJGQ3FtZW5zbzhFMUFFX0tUdTAtTXl1aWh0clBKQjNTTjg0aUt3OS1qanNhMkVqUk0zdmFSc2h5R1I4UVVwVXBwTElYSHV1VFRwV0piOTVhY2ctNDYzaDdvVmFVStIBcEFVX3lxTE1CYlN5a2VGcHU0b21WWm55dlNqd09kLWtKNmRHa2dscENWTGh4eW5jRXhrdkNNVnl2QzdWdENGVUc2ZGRlVzk3VUdQeW5RLThSMTBQejZtMFk4RXRZZDRFN0NfTlFMOXR1ZFNZNmNtdnI?oc=5",
-        "headline": "7월 금통위 D-2…채권전문가 66% “기준금리 0.25%p 인상” 전망",
-        "summary": "",
-        "source": "글로벌경제신문",
-        "published": "07/14 10:06",
-        "published_ts": 1783991201.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
       }
     ],
     "politics": [
@@ -2223,7 +2243,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-16 19:15:48",
+  "updated_at": "2026-07-16 19:31:13",
   "yields": [
     {
       "label": "3년",
