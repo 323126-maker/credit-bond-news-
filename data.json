@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQ0NldGhkSzg3clZ4c0lOTU56MjRBWkFQVk1HWHFSZ1ZXd0toSFo0SUkzaTFhVkNwcmI4NEhHZDBuSVZOelZ5RmVhNzJFWUF4THhncGdkZXFEc2NSLUJSbEdNV2xsZEFfMDE5ZGQ4OWVyUV9zdHEweDhDbUhqM3kzNg?oc=5",
+        "headline": "어게인 2022?…다시 시작된 금리의 시간[김유성의 통캐스트]",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "07/17 12:00",
+        "published_ts": 1784257200.0,
+        "tag": null,
+        "first_seen": 1784260839.6723347
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aRkhtT19HQ3ZxbjZUMkdZeVpnaXZzaVBvVWlkWFdUWGFRNkhhVEQ2WmptX08tbl85MzlkSzY1SjZNcHl3dzZGVmJQQUZkcXBpWE00SWF2OTNwMElFZ0pfb3lqY09HVXBIUGZVSkdFT0xaS0U?oc=5",
         "headline": "한국은행 금리 인상에도 채권시장 안도… 국채 금리 하락세 유지",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "데일리굿뉴스",
         "published": "07/14 12:02",
         "published_ts": 1783998165.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9DSHZEUG1vNFVTTnhWN3BUTXh5ZUxRU003TWk0WHNLVHdobEZrSjhXSFNGN2NfVEZtOGo3X3B3MWNHbURaOWFvQVdlaDJsYTNHdTRadUc3emVGTjV0M3lnbk0zMjRzN3g3R1BV?oc=5",
-        "headline": "[금융 HOT 뉴스] 채권시장 전문가 66% \"7월 기준금리 오를 것\"",
-        "summary": "",
-        "source": "비즈월드",
-        "published": "07/14 11:24",
-        "published_ts": 1783995840.0,
         "tag": null,
         "first_seen": 1784080028.5739875
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 12:45:50",
+  "updated_at": "2026-07-17 13:01:03",
   "yields": [
     {
       "label": "3년",
