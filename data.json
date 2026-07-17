@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84eDlscDVwRm9venlqM21KTkF0TG1TeVFPcmt5Q2Z4cl9sTjEwbUZOV3RzS2RkSVctN3dmZ2FBTTdHM1VMSTA4aUR5YWlqZDJ6WHFvM3hOZGhld3lZdEY1UVVLSXA?oc=5",
+        "headline": "하반기 기업 신용등급 '업종별 양극화' 전망…기업 체력이 등급 좌우",
+        "summary": "",
+        "source": "entv.kr",
+        "published": "07/18 02:20",
+        "published_ts": 1784308809.0,
+        "tag": null,
+        "first_seen": 1784310327.037982
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBDazdwQ2l6ZTJ5bkdRUUFIZGtxQlBHLTh6SEY0RGZsNzJVMkVwMDd6dlJzNGVMM1BuVl9uMG5feHRSOUs0LWotS3FIR013ek12TWVYTGt30gFbQVVfeXFMT1JHTnM3WnBCWjFTUHF4a2dfa0Y3cDBkWlVOMGUtREI1cXkzNU1XdkJ1aE1DR1ZFcmhVZE1yXzVNMEx4N2tRTlVDMTg0RGFuV3BrdVBROFNqMm5vSQ?oc=5",
         "headline": "스페이스X 회사채 급락…BBB 등급인데 수익률은 정크 수준",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "지디넷코리아",
         "published": "07/16 09:55",
         "published_ts": 1784163350.0,
-        "tag": null,
-        "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96eTB3MjlXZDZHY1VTZXBWOXhEUnZoaVgwN29DYkJLSEpHbDFHUTlBSEZWTU1EbUpzQWhwY3VQSldidkxMeExWbENpUThPZ0x6NVlCaWZxMmJnQTFncnc?oc=5",
-        "headline": "\"하반기 크레딧 투자 기회 모색해야\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "07/16 09:47",
-        "published_ts": 1784162820.0,
         "tag": null,
         "first_seen": 1784167726.8348706
       }
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNDA4TTZ4dlJTYzZzSGZVY1RXbUtaRFhIX0JPdGFrMDlCR2tFZXM1ODl4a3l5dnVtRDBDdmdXVk01djJYUVQwaVZrRmxXbXV3VjJ4X2thUFRIYXFWRGJjanJsTzZYOXFRQnp2endMQTBYV2pHdWhvSlJnYTJnSDdoQkd5V2FKc1BQMEtxRGtkOGNKajBzekFYd0gtWnFra1k4b2pZZUhB?oc=5",
+        "headline": "Why Oracle's recent credit downgrade could be a warning sign for stocks",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "07/18 02:34",
+        "published_ts": 1784309645.0,
+        "tag": "Global",
+        "first_seen": 1784310327.037982
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFlIaDdaSTJSTmNUVkd4S2xycFdmdV9aWE11Y1hDTTQ1Z1FmM1lfYlRCdl80MzlHWTVidUoyenhBWXphZ3E3WVFPd3dyRkhseFo1WmlDZW00ajFKRkhVMU9FYVdlRkFwMC1vVVlYR0xrVlEwLXNyMVpTQnR3V19kOXJMbjR3Z9IBiwFBVV95cUxQUl9WbElVVUVXaF9RejZtQ3ZKOHZRRWNqamFFVEwwX2IyTTlWT0RfSjFORlRiQTZaWmk4bTB6b0lfSHlTY3libmoxcmVqejJ1bW9tZ2NxTnFxQlJhQ3ZvT3RsMHJqUG14THloNzJSRWNiSmxGOUNHTF9wZ2RZbTJzTTZLaUpkWkZTLXdB?oc=5",
+        "headline": "Pyth Network’s TradFi push gains steam as PYTH nears $0.05",
+        "summary": "",
+        "source": "AMBCrypto",
+        "published": "07/18 02:00",
+        "published_ts": 1784307623.0,
+        "tag": "Global",
+        "first_seen": 1784310327.037982
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdms1UmRHTGx3Qk8tS1lZR3lOUktaa1RnM3ZkWVQ0bFpJMUFkcVp0bFhTd0d6YXZXOVVIMVZBQXlvZmllU0pEcXJNLWZyMGpJS3h5U2FrSzI2dmRMMlZrNEg5a3ljbDBjLXNQTUtSdFdVbml1V0o3b3F3UGE?oc=5",
         "headline": "The Fed’s Hawkish Tone Doesn’t Signal Rate Increases—at Least Not Yet",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784266020.0,
         "tag": "JGB",
         "first_seen": 1784267123.5364153
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SMWNLcmJHYVc1WDlWYk56VEVRckM1N0FLN08xSGR3N3pRWll3dFIyOUxVLUNLT1ZvOUVnQ1NSU0I4MGVLNEJ6UkNMYTV4NWlqLU9jM2N4QWwxb0pqSy1JQnpOdFA?oc=5",
-        "headline": "\"Yen Strength to Drive Won Appreciation\"... FX Market on Alert as Japan Steps Up Intervention [Weekend Money]",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "07/17 14:20",
-        "published_ts": 1784265600.0,
-        "tag": "JGB",
-        "first_seen": 1784273648.3677635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14U2dFeFJGTGtabGpoZTVoWmt1RXJPazRLQmJfQTNDWG5hbVlJMVJaZUdhak51RWF6ZnlDS1lXd3pCYzRMTTZibnpWellJVTE0QUpF?oc=5",
-        "headline": "\"엔화 강세가 원화 강세 부른다\"…日 적극 개입에 외환시장 '촉각'[주末머니]",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/17 14:20",
-        "published_ts": 1784265600.0,
-        "tag": "JGB",
-        "first_seen": 1784266234.545966
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 02:31:03",
+  "updated_at": "2026-07-18 02:45:59",
   "yields": [
     {
       "label": "3년",
