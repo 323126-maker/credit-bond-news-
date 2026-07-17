@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNLVlMN0F6elJXNm9qUF96bmxYNW5Wd0h5VDJSRUhWaTBvd2JxNGFUV3hpMVhqRkpXSEVfUFRlY2VodnZvUW1JeTBheVoyM0VuREhXYlJsREZHcVVSdXlONmlVdUVvVWRta1RsNHFnblllQk1xNm83Q1dsb0hVYUc3ZFhUYUJpc2hFcEotb1NsQ1pKOF90NGRUS1djdUI0cGNqVFowWHRzVXhtY1ctX3BPNFpzaW1IZU1UcjNLYzF4LVFvQm9XYTVVRTNlMFp1dw?oc=5",
+        "headline": "End of an era for this long-term bond bull as inflation takes hold and yields trend higher",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "07/17 22:39",
+        "published_ts": 1784295540.0,
+        "tag": "Strategist",
+        "first_seen": 1784295926.6548536
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54bEQwRjlaaDF1T2JtSlhHMTV2ZV9iS2lXYU5wTjRuaXQ5N2VPLVZoRFJobEFPUkRBdUtLOFkwY2J2VHo4NVd3NmRBTXgtdWNCbF9RNm5QOXBoWUljMkdkanVKMldLajgzcG9tdw?oc=5",
+        "headline": "[외신이 보는 한·미·일·중 주간 이슈] 반도체 호황 속 금리 인상한 한국, 중간선거 앞둔 미국…일본은 물가, 중국은 성장 둔화와 씨름",
+        "summary": "",
+        "source": "전국시민의소리",
+        "published": "07/17 22:32",
+        "published_ts": 1784295170.0,
+        "tag": "JGB",
+        "first_seen": 1784295926.6548536
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJkb2s2azVZcll1azNSMU5HalVaN01TbWN3Q0dJSm5VUnNKbTdpcnBLY3NGVXdoZHNDbU1YVmFoOFFfWjNaRVRIbHBOcGFZdFlQcDIxY1cxOHpNNG1HeHVRZG1aS05GMWZfOWIzbHJEMFNpOEozUVlOYkZzTzYzVGxPTEVzbUVDQ3F2aC1YeWRleE4yWTRIUGwzbmxXbWUzUTdF?oc=5",
         "headline": "Tech giants are rushing to borrow money for AI, overwhelming global bond markets—bonds tied to these deals are consistently underperforming wherever they are issued.",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784232781.0,
         "tag": "Global",
         "first_seen": 1784241924.819246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSXFaWGFxOEFtUFZBVUFxbHhzYkxNUVkybGp6YUZhZ3dOU2xtTTNKUlVnWkhES05Hc2N6dXlLNDIydzJWcHoxaHZIYzlfRnpjOHpVOHBVTjdGcUxTbXBUUFVyMHNFZE9DanNuVDBkUWhLZVk0MjdRWlpXYjhZaVo3cE9PQl9fcU83QVhCTTNVb00tUjd0VHRQbUhzTzFycjdQaENjUjY2azlKZzA5SXZNeDM1VmdMWWxJeVE?oc=5",
-        "headline": "India Needs Rs 130-140 Lakh Cr Debt By FY31 To Fund Economic Growth: Crisil",
-        "summary": "",
-        "source": "BW Businessworld",
-        "published": "07/17 05:10",
-        "published_ts": 1784232656.0,
-        "tag": "Global",
-        "first_seen": 1784253637.33118
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWxCMFhpWGlJMmtIQk5tSzIxaGxNbFBOTHJqV1MyVVlYNGZReTc2bnVtZ2E5Q0FlUHV3QnZWTXdxdGJOeEJhcG85VlBMRnlpN3NDdWxFclBBSUdXa1YxZWNZenlGWXViYm5mTktBb1hIMTgzN0NZcHVhQWNJZm9yNFptd3llR2RlbXZBZHRfVzRZSU5ZS05VUVB6d2p0OUlMc0NoeUxHQWgzM0VMLTJNT1V1aw?oc=5",
-        "headline": "Can the Fed lower inflation? 5 takeaways from Warsh on Capitol Hill.",
-        "summary": "",
-        "source": "USA Today",
-        "published": "07/17 04:50",
-        "published_ts": 1784231400.0,
-        "tag": "Fed",
-        "first_seen": 1784270726.822646
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 22:30:54",
+  "updated_at": "2026-07-17 22:45:51",
   "yields": [
     {
       "label": "3년",
