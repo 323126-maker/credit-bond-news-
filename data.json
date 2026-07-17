@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTVNhRkp5eVo3ZmFFWXRqOU9LWTA3anJoVVJtd2tHdmc3Q2pzMUN2MTg0RlVLQWZObHhqZ0hLLVk5ZDBHdENxQ0VSOFdWOUJ4bm5mN0RlSkJVMUVjdnprWXA2QjBMMlR4M1J0MDJGejRaVlBkbHNwU3AzRC1mLTVMQ0hJXzkwdDRCS3dmMnlKV1Z4MjQ?oc=5",
+        "headline": "Japan 10-Year Yield Rises on Oil Rally",
+        "summary": "",
+        "source": "TradingView",
+        "published": "07/17 11:45",
+        "published_ts": 1784256300.0,
+        "tag": "JGB",
+        "first_seen": 1784259034.1260018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiRmhub0x2U0lOU2l1ZXBLNnctbDFSUlVwYnV4VFp3ZUdqSzNZQzljb25FcmtjN3VOcnNfcDNaMjBIc0pINWthV3I1dDdFVFh3T0NlajlwZDRUWHpxMHBqS3dnR1ZtdnlqblVtUVdfd1hoVzZZeW1TOXNMdlZOZFU?oc=5",
         "headline": "Why More Retirees Are Replacing 40% Bond Allocations With Dividend Stocks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784199601.0,
         "tag": "Global",
         "first_seen": 1784250923.4058998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQlNmNHlLbXVBY3RNM3FMVmplVWZqa3NLN0Z6TWRIZmMxWUV5R3h6amJCSkFad3htMzlVQkJVTWRiM1JCLU1IeTZrV0lhZmpvRG95QUFYTXpVOXgtbWdBdE9OajdocXlzeFFfek5CcDNrSVhjM2U4SzV0NXNYRjBONm1yTjNUMi00ejd3cDBLbFRPNFNJaUlZWHUxck5vb0RPeGVYZ0hZbUlJTHhpTUE0SU5Fal8weVRxVTVSbmNneWVsRzJZN1VDZlRQN21kMmPSAc8BQVVfeXFMTkJTZjR5S211QWN0TTNxTFZqZVVmamtzSzdGek1kSGZjMVlFeUd4empiQkpBWnd4bTM5VUJCVU1kYjNSQi1NSHk2a1dJYWZqb0RveUFBWE16VTl4LW1nQXRPTmo3aHF5c3hRX3pOQnAza0lYYzNlOEs1dDVzWEYwTjZtck4zVDItNHo3d3AwS2xUTzRTSWlJWVh1MXJOb29ET3hlWGdIWW1JSUx4aU1BNElORWpfMHlUcVU1Um5jZ3llbEcyWTdVQ2ZUUDdtZDJj?oc=5",
-        "headline": "India's non-sovereign debt may rise to 150 pc of GDP by 2047: Crisil",
-        "summary": "",
-        "source": "ET CFO",
-        "published": "07/16 20:00",
-        "published_ts": 1784199600.0,
-        "tag": "Global",
-        "first_seen": 1784234314.6733544
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 12:15:51",
+  "updated_at": "2026-07-17 12:30:56",
   "yields": [
     {
       "label": "3년",
