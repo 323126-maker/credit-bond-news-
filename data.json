@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeGVBd2VlUUNlX09jWF92WU9TUTJiZUgzWi1ybnY5RzZfNVd1ekNxVWlEeFdHdUxnSHdBNW1YeThZYVpIaGp5LVp5X1N1R2MzN01kWEx2WTV2LURodDlOVTM1Tm53QVhBWjZUT0Q0SmIwZDF4VVEyd2VKNzFnbllLV25tdE5zei1nTHctM25rV1JnemFHUjh4WTBHOXA3dk1pVWdlZFhoRzU2cVNIRGNDdHkwZUcyT3prb3A0NzZQQ1RHMTJjazlqeU5mS1Q1TUJxc2VlcUNqeGRlYmF1cXNOWFV0bmtxbzEybVVHU3g4TGNncjBQVDI3a3J1cm9WZw?oc=5",
+        "headline": "“하반기 경제 대전환 가속화 하루 단축하면 100일 벌 수 있다”",
+        "summary": "",
+        "source": "gonggam.korea.kr",
+        "published": "07/16 21:10",
+        "published_ts": 1784203851.0,
+        "tag": null,
+        "first_seen": 1784254523.9368517
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8yS2tkTDdtTGgtcmhkdWRHalJQY2M2aEJ2dTctMlctVlJ0SmxkNVJ4MWs5dXpBb1Vjak5QWmREM2lyclpWaUlWZ3ZhSXcxTGV0Tjh2QlJZcW1UeElUc1NHNjYzVjZtMnJaVl9oV2FSRjdUVEk?oc=5",
         "headline": "유시민 발언 논란…이재명 대통령 외연 확장 가능성 급락",
         "summary": "",
@@ -1594,16 +1604,6 @@
         "source": "조세일보",
         "published": "07/13 08:03",
         "published_ts": 1783897398.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE04cVlfVGxqU2VYRFkwbEx1MWtwdXJ0U2s5cnhxTk5FUngtZ2ZTNXlkQmZ5ZjR6RXZpVkROaUNzZDI3VTBLWEhVbVV6aWNpUEpTM0xWXy1QTlhEQWozZDBScElDX1ZlTUgyazlMc2huNWM0dw?oc=5",
-        "headline": "[뉴욕마켓워치] 중동 불안에도 SK하이닉스 '13% 급등' 데뷔…주식·달러↑채권↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/13 06:10",
-        "published_ts": 1783890600.0,
         "tag": null,
         "first_seen": 1784080028.5739875
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 11:01:00",
+  "updated_at": "2026-07-17 11:15:46",
   "yields": [
     {
       "label": "3년",
