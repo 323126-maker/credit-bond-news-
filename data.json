@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBUdms1UmRHTGx3Qk8tS1lZR3lOUktaa1RnM3ZkWVQ0bFpJMUFkcVp0bFhTd0d6YXZXOVVIMVZBQXlvZmllU0pEcXJNLWZyMGpJS3h5U2FrSzI2dmRMMlZrNEg5a3ljbDBjLXNQTUtSdFdVbml1V0o3b3F3UGE?oc=5",
+        "headline": "The Fed’s Hawkish Tone Doesn’t Signal Rate Increases—at Least Not Yet",
+        "summary": "",
+        "source": "Barron's",
+        "published": "07/18 01:54",
+        "published_ts": 1784307240.0,
+        "tag": "Fed",
+        "first_seen": 1784309437.0884352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE82NTNnMC1sRFFUWUVCc0gwbFRJRFVGXzlsUDIzYXdmUldWdTd6ZVVmSDZhSnplTG1IRElfdUVYd1pJeW9DSFF4NXc0OEdtQkhEeGtYLUJCTVFYbm80Q1J3WHpBZ0ZTbWNWT1FZdFZQak84ZlVkVHNadERn?oc=5",
         "headline": "The Fed’s Kevin Warsh Is Already on the Right Track",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784265600.0,
         "tag": "JGB",
         "first_seen": 1784266234.545966
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSTVUOS1mWkFlX1RYbVg5aFJKQ0l5dVhVVG1iSEdjc3Nwd0laS3FQWXZyY2V1X3pEc3JCQTFPd0JlTEIybnJFTjF3T0QxV09ObW15bW5xQ3RnVlYwcEN0YTBwS25kQnYtSG85aWswTVdOYjR4cDJQSUI5RW1WODVfTHUwb3p4Q2RNaHlncXA4cw?oc=5",
-        "headline": "DoubleLine CIO: Wallsh is not a 'dove in hawk's clothing'; the bond market has already done the Fed's tightening work.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "07/17 14:19",
-        "published_ts": 1784265550.0,
-        "tag": "Strategist",
-        "first_seen": 1784277044.7587245
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 02:16:03",
+  "updated_at": "2026-07-18 02:31:03",
   "yields": [
     {
       "label": "3년",
