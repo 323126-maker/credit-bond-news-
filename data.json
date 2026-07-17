@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14U2dFeFJGTGtabGpoZTVoWmt1RXJPazRLQmJfQTNDWG5hbVlJMVJaZUdhak51RWF6ZnlDS1lXd3pCYzRMTTZibnpWellJVTE0QUpF?oc=5",
+        "headline": "\"엔화 강세가 원화 강세 부른다\"…日 적극 개입에 외환시장 '촉각'[주末머니]",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/17 14:20",
+        "published_ts": 1784265600.0,
+        "tag": "JGB",
+        "first_seen": 1784266234.545966
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRGJuUFViSFgwNWVKVFJFWDlydTJldFU4TDRDRHJMUUtiVEt2MWUzYjZqWFZjTlFPU212Wk43Q0trek1rN0M1cUZrc1NRSXItbTRqRTAxNVMyUzFqRDdYNjNReEVlTmxGdmtLRzhBRldvYkJIOFc5N1h0MVdIMDdRU3lUMUY?oc=5",
         "headline": "The lessons Burnham must heed on the economy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784203440.0,
         "tag": "Global",
         "first_seen": 1784207724.4458992
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zRjhONFhVRGhkYnh6cXdIcl9nNUdDQlkxSTl4ZWZVY0VxdmNRNUM5ZDhaNXAzNk9WdjYyY2dLLU93RGIwUERJTFdkX1NBdDZYRDlQLUV0al9NcVRXRzRaRU5MNUVLTy1uSDN6bUxB0gFuQVVfeXFMTnNGOE40WFVEaGRieHpxd0hyX2c1R0NCWTFJOXhlZlVjRXF2Y1E1QzlkOFo1cDM2T1Z2NjJjZ0stT3dEYjBQRElMV2RfU0F0NlhEOVAtRXRqX01xVFdHNFpFTkw1RUtPLW5IM3ptTEE?oc=5",
-        "headline": "[통화정책] 한은, 기준금리 2.75%로 인상...3년 6개월 만에 긴축 전환",
-        "summary": "",
-        "source": "fnnews1.com",
-        "published": "07/16 20:56",
-        "published_ts": 1784203011.0,
-        "tag": "JGB",
-        "first_seen": 1784211327.234591
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 14:15:47",
+  "updated_at": "2026-07-17 14:30:56",
   "yields": [
     {
       "label": "3년",
