@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOclIwdGRtZ2tLdnUtZWNjLS1aNGUyUHBCQnRqMGF1X0tYWU5EbWR3MlZVSmdQVFBiOFNhLXI0cEZsOV9JTUlfN0ZpT0dkOEJaQnJmV2dVY0JqSUtLclVaZTc1S0JKZTZpUHlOT2VwYnZwMUNsYUNFOWctRDNMLVhTSGZrRngzVkdMc2JUYzZCbw?oc=5",
+        "headline": "Sumitomo Mitsui Financial Group Inc (SMFG) 주식 움직였습니다 하락 3.25%에 7월17일: 변동 원인",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "07/18 00:16",
+        "published_ts": 1784301386.0,
+        "tag": "JGB",
+        "first_seen": 1784302234.5130067
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUFR5ZTIzZWNSV2ZoX1BraWFEbzVBYUU4Z0tUeWxYT2VxdTRUYnUzdlN6NXpZenI2Z1l6clQzOEZHRGhiWEhxLWpEWU1GZkpHOW5WZF9yaUZncGVUZGxhQ09XN3ZkSWRyU0s2QnBaczRILTJQaUhPbWVWMGtLdWI4MWVYb0FoOC01SmRUd0hoaEVCN3ZhYkJtWkVyU1JnSjlRNlQ5QQ?oc=5",
         "headline": "Fixed Income Outlook 3Q 2026: Looking to the Data When Visibility Is Low",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784250072.0,
         "tag": "Fed",
         "first_seen": 1784297732.7714307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFVRRVpmaThnb19nYlFTMzZxRnkwdmQxTlRrVUFSRDFhWnl6MngtUW84M2NoSU9SbTQtTDd2cEJaZzJlTXhlWl9iajFMcUcydFpEWlpfVEYxWE1CeHBIWEZaMHprbEgwVEhyUjRFTGVscUJMVG5waHZRRVpTZldUamYzT0xTalk?oc=5",
-        "headline": "Japan’s Bond Yields Split As Inflation Nerves Linger",
-        "summary": "",
-        "source": "Finimize",
-        "published": "07/17 09:55",
-        "published_ts": 1784249700.0,
-        "tag": "JGB",
-        "first_seen": 1784253637.33118
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 00:15:56",
+  "updated_at": "2026-07-18 00:30:57",
   "yields": [
     {
       "label": "3년",
