@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tbFc5SGd1cjBDSklSZmtwMGp1QVhYbUcwTkd6YVRBX0g2SHpxcDd6b1BhYmFnZFBUblRDdWhKVnpvYkRuUTBveW85N25DeU9DcFHSAVNBVV95cUxPSEtudFE4NU1HUUJuZllucVZYSE00X0FJSjNLSHl0Nm5ySDN5N25sTWdvbXpFdTFoN3NGRDdWVkxoajF2N2xOSnMyUmV3dEgwNnZOZw?oc=5",
+        "headline": "3년 6개월 만에 금리 인상…하반기 회사채 시장 반등할까 [시그널]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "07/17 16:00",
+        "published_ts": 1784271600.0,
+        "tag": null,
+        "first_seen": 1784272527.4147553
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13ZkJtNDRMdlJoYU1UMkE1MktyUFJ4VzFsSG9wQ1BoSW1ocXZlMlB5LWdvQkFMT0NFeUNhLVVjMWZiWlpuQW8tdDJGc2lmbG1TV0VWRWh0M2RmNEJNcHJrQVc5bGNuVnM?oc=5",
+        "headline": "국내 기업 신용등급 전망 엇갈려… 반도체·조선 긍정, 석유화학·철강 부정",
+        "summary": "",
+        "source": "공감신문",
+        "published": "07/17 15:59",
+        "published_ts": 1784271549.0,
+        "tag": null,
+        "first_seen": 1784272527.4147553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5yenc4WUZsTndleEpwWmZjR0c5ekswc0lSZkhZZDBKd2dpR19TUEptem1fZE9MeWlWQ0Fqbll1U01jaldIN1JRZzlR?oc=5",
         "headline": "\"분산투자인줄 알았는데\"...인공지능(AI), 채권까지 싹쓸이",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1784157673.0,
         "tag": null,
         "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBlU1NQbzV4d1NZdkpaaUVORzhYNTlwbjFPbm5VYk8wS20weGlubHNBN245X2N0bDhkVmFQQXlQbmNOMzQwbTRVQldsM1lHZGhGMDNv?oc=5",
-        "headline": "[핀포인트] [SK디앤디] 주주?기업가치 추락 이끈 한앤코…투자 셈법도 꼬여",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/16 08:01",
-        "published_ts": 1784156460.0,
-        "tag": null,
-        "first_seen": 1784160529.554525
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiRGZ3TVdETFJwd0kzVlJWeE9STDZHRWltX01MLTd3SUs3aFZHZVBhNzUtV1BIUHZIbHRFZENwdldQOGdlT1psQk5ramM4Y0o1VWlIeW1FSWl1YkdwY0NHNHI1V1FTMzNzNnhJdHNnMGrSAXBBVV95cUxQYkRmd01XRExScHdJM1ZSVnhPUkw2R0VpbV9NTC03d0lLN2hWR2VQYTc1LVdQSFB2SGx0RWRDcHZXUDhnZU9abEJOa2pjOGNKNVVpSHltRUlpdWJHcGNDRzRyNVdRUzMzczZ4SXRzZzBq?oc=5",
-        "headline": "[주간 미디어동향] 네이버 뉴스제휴위, 새 평가 규정 시범운영 7월 말까지 연장 外",
-        "summary": "",
-        "source": "반론보도닷컴",
-        "published": "07/16 08:00",
-        "published_ts": 1784156400.0,
-        "tag": null,
-        "first_seen": 1784195123.907292
       }
     ],
     "perpetual": [
@@ -1700,6 +1700,16 @@
         "first_seen": 1784253637.33118
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
+        "headline": "Stocks slump on chip selloff, oil set for weekly gain",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/17 10:16",
+        "published_ts": 1784250960.0,
+        "tag": "Global",
+        "first_seen": 1784272527.4147553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFVRRVpmaThnb19nYlFTMzZxRnkwdmQxTlRrVUFSRDFhWnl6MngtUW84M2NoSU9SbTQtTDd2cEJaZzJlTXhlWl9iajFMcUcydFpEWlpfVEYxWE1CeHBIWEZaMHprbEgwVEhyUjRFTGVscUJMVG5waHZRRVpTZldUamYzT0xTalk?oc=5",
         "headline": "Japan’s Bond Yields Split As Inflation Nerves Linger",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784207889.0,
         "tag": "Strategist",
         "first_seen": 1784240123.9737458
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZElZMXZOWnRIelVJN0w0VWxYd2JuQnBJcDUtM3dDUl9kZHBJZWwyN2N2clBmOHZwQzhoR09RY01GajNBUWlaZDlMemUxMEM2cHNRM3lOVV9VNnZTMDFwMzdzcUNTeXI1MGFubU41THhabGlnZEc3SzZval9VVUEwWUhPTnlrc2kwdzZKOWdB?oc=5",
-        "headline": "Warsh's Fed plan means it's time to read the bond market backward, says Morgan Stanley chief",
-        "summary": "",
-        "source": "Fortune",
-        "published": "07/16 22:18",
-        "published_ts": 1784207880.0,
-        "tag": "Fed",
-        "first_seen": 1784209527.071648
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 16:01:10",
+  "updated_at": "2026-07-17 16:15:48",
   "yields": [
     {
       "label": "3년",
