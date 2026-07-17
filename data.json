@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNUTBCQnZjQkdBWlV5ZHUxLWNDX3dEMVJxQnJwX1lVcENMbUhfVkYxTmJSNmc4b2JPVUd1OEtZT0NnSHA5TFZod1d1Nlo3N2lQZ3BFTGM1UG5DYXVZNFNNZ2d3OFhQQnY3cXh1MUk4dWp3OEJheFZJdllyVGtaM3BsN0RYQ19vMUNCb3l2MWJHZ0hCeWU3a2pzOHU1d1lGUng1MVJBZG53?oc=5",
+        "headline": "Skyrocketing home values, sluggish wages drive support for abolishing Ohio’s property taxes",
+        "summary": "",
+        "source": "Crain's Cleveland",
+        "published": "07/17 18:45",
+        "published_ts": 1784281500.0,
+        "tag": "Global",
+        "first_seen": 1784282439.238754
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWlpNbVNLdzhJanYyMWtBVkhZQ04xalZ3VERlMXh2eXo0azRzSHFIUkJrc0lPQlFmN3JVd0cyci1wR05lT09oTThFUWNzc3R1ZlRFNlQxZ090Y0l3THFDa05rMG01dGxLT1JKWUo4ZkJkclZCN2tFSnpxOE5pWDBFUHV5OEc5Rk1CYjNacW8zY0Y3NV9NYUxOQUc5anlFN1paV3FSZ2E2d1VzSVZuOEFDSFNwbWhPQ0xKTVFhVA?oc=5",
         "headline": "UBS upgrades high-yield bonds to attractive on yield outlook By Investing.com",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784221833.0,
         "tag": "Fed",
         "first_seen": 1784222124.8377953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZmFqRVM1MUtnUVJSZnJjME1DMHhQUERMTzRNRFNCVHcwSzFqMVptOE82RE5pVXRUQ2d5RG1iR2FjUWRsN19YR0QzWXJ5NVZ1YUNJRmxKV0tGUnVMb1BsTjlTaGNvWFFURHBMTGI1MEF1M0J2OWJlSUROYjl3dU9FMXFwSzE?oc=5",
-        "headline": "The great British corporate sell-off",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/17 01:47",
-        "published_ts": 1784220440.0,
-        "tag": "Global",
-        "first_seen": 1784229327.714886
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-17 18:45:44",
+  "updated_at": "2026-07-17 19:01:01",
   "yields": [
     {
       "label": "3년",
