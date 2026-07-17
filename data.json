@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMWlHTGExc3p2TG9NUFdKWXR4UkJ2VmZBQWFsWDlLY1lfMDg4cWJIRmtCLXJ0cHZJQkdXTHFZdTFJWFVTZ013XzNZVmstSnNHQm1JQVNkdno2YW1xOGFSa2wtbzROc09zUFBJVzg0aGhaUVZ1VlJxTlFTTVh1RmR5Nw?oc=5",
+        "headline": "Ice Cream Cartels and MMT's Japanese Illusion",
+        "summary": "",
+        "source": "The Unseen and The Unsaid",
+        "published": "07/18 01:02",
+        "published_ts": 1784304159.0,
+        "tag": "JGB",
+        "first_seen": 1784304925.271366
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdndOUkJCc3hDSG50dW54WThmYnFiWWZtcHpTd0stalJ4QXJNdHI3VWxYYjhIMUdBQXdtWTdwem03RmRkS0Y0dWVsbkRZRlBmd2k3MXBfaVZWcUx2U2ZxTEpxVUJ1Y083QTl5UFpuODZkUHJoV1dFLUlLNGRpZzktM25XYU52YllaT2I0MFRZU09PYTZpQkNpUkIySGgxR2hiRjNEN1pVaHFYbWJFRnRRckI2bG1WWWVSZzFnbGhvS2c3QQ?oc=5",
         "headline": "Global Fixed Income Outlook Q3 2026 – Bonds keep calm and carry on",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784259360.0,
         "tag": "Fed",
         "first_seen": 1784281522.9412603
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFVRRVpmaThnb19nYlFTMzZxRnkwdmQxTlRrVUFSRDFhWnl6MngtUW84M2NoSU9SbTQtTDd2cEJaZzJlTXhlWl9iajFMcUcydFpEWlpfVEYxWE1CeHBIWEZaMHprbEgwVEhyUjRFTGVscUJMVG5waHZRRVpTZldUamYzT0xTalk?oc=5",
-        "headline": "Japan’s Bond Yields Split As Inflation Nerves Linger",
-        "summary": "",
-        "source": "Finimize",
-        "published": "07/17 11:55",
-        "published_ts": 1784256900.0,
-        "tag": "JGB",
-        "first_seen": 1784303128.4060311
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 01:01:03",
+  "updated_at": "2026-07-18 01:15:51",
   "yields": [
     {
       "label": "3년",
