@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOTQ5LTYxYm1JRWdSVVYwMEE5VTBaLXpleTFNSndMZ0xjWU5pY2IwbkhLT0tGMElzSU9PeWktNzZmbk9zVUstZVY5RWtrc0xzcjJMS2NERjU0UkU5ZW4zX0huc1IyenhMYndMaWFJVkFIZ2tIM3pPRVJKLWw5elhMS3JnWTMxVFZqZ0s2NnFmQ0RKMjlnNEU0Nnh6NVl1MFF1QnNxazhIb2xfamw3ZzRfcVd4MHpJNEh5ODd0eXluVjRzamU3MzRkcXZlU0FqcE5RMVdPeFd3bjZ1Y1ZET1pUeUEzT3N5TlU2c0NDSFMtZ3VaTGgzd2c?oc=5",
+        "headline": "The sell-off for AI stars worsens, while oil prices keep jumping",
+        "summary": "",
+        "source": "The Northern Virginia Daily",
+        "published": "07/18 04:17",
+        "published_ts": 1784315848.0,
+        "tag": "Global",
+        "first_seen": 1784316632.3161283
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOC1udEhBbk40ZGJLUjlWV3g0OWRoNGprQ1Rnb1NzRUo1STFEZ0RhYlBZSlhoem5NYVYxZFBtenBIX0YySU5MSWhNdGNHRG56ejBHdC15cXJKd0Vxei1tSXJNT3NUYnBNdnVKcVhEVXoyamdHMXEwZ005Ym5wLUxHYnFtSlNDVUdXb0Z2TWQwdVRkS3ZXN0hlNFZ2NFRjY1U4MXZBclU3UFkwcFV3eG9sekFQbzJhNmxGWlRSUlJSOHpoUGtyNkFwUVdTOVZvOVhWUWpzOV9IX3Rwa3owRWpuZDMwcnBxRmwxWGM0?oc=5",
         "headline": "Donald Trump Once Said He Would Eliminate America's $19 Trillion in Debt. The Total Is Now Approaching $50 Trillion.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784268121.0,
         "tag": "JGB",
         "first_seen": 1784268924.2753627
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIcTFCQlZiN1FqdDktSDEwYzIwNWJyMnFKV3lvRHM5V0xmRk03QUZFcHc2eTdoclRlNUlXSTNMM0JYMG5sNFdwSFVPdEFsNUVCcjVNNXJQdUZsR1lQQnNMZW1XSU1za3RWR0JaU2RvZ0dDUWhMUHc?oc=5",
-        "headline": "After 30 Years, Wall Street's Famed Treasury Bull Hoisington Makes Rare Bearish Turn",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "07/17 14:58",
-        "published_ts": 1784267918.0,
-        "tag": "Strategist",
-        "first_seen": 1784269833.1673691
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 04:15:49",
+  "updated_at": "2026-07-18 04:30:56",
   "yields": [
     {
       "label": "3년",
