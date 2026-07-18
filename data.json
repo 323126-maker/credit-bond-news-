@@ -282,6 +282,16 @@
         "first_seen": 1784188852.44112
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9XWGw1VXk4TjBFbmdEUlYyYmQ0RVR5UmpjVnRaRV9HR0FSLUtDRFp0ZGNLR1AyMG0xY3ZNbGlYQVpIV0EtRk1HWmRESXRKVG43V2c?oc=5",
+        "headline": "국고채 금리 일제히 하락…3년물 연 3.848%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/16 16:44",
+        "published_ts": 1784187879.0,
+        "tag": null,
+        "first_seen": 1784386925.478434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CUElGODVvTHNyQ1lsenhGTHZ4ZXhzR1NrNzd5VklOSGZhaTY0RzVqSnFIMng4TC1IdnRYd2FLV1BXLUduM0E1elhtanNxTmFUcmk4Z0xIWlJ1ZlVHYkhIR2NnaEZCMWp5NHAxMGR3SzBPdw?oc=5",
         "headline": "[외환-마감] 금리 인상과 쏟아지는 수출업체 달러 매도…1,480원선도 하향 돌파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784175190.0,
         "tag": null,
         "first_seen": 1784195123.907292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2dVdtNDhPQktPOUpUME5HdGdVM3E3WFZGdnFqVC1peHNoelB3cXJiRTlwQUU4c2tGX3ppR0E0ck1KSmxPdkZUWmxMWQ?oc=5",
-        "headline": "\"물가 안정 확신까지 대응\"…채권시장 \"생각보단 매파 아니다\"(종합)",
-        "summary": "",
-        "source": "아이뉴스24",
-        "published": "07/16 13:01",
-        "published_ts": 1784174497.0,
-        "tag": null,
-        "first_seen": 1784186838.3176548
       }
     ],
     "perpetual": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1784376109.3888512
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVTlHVU9uWHJ4X3pmandzZ29zYVgxQ2ZrbF9HaTZPenZna3JFU1NiTUZJb3I2OHROZktheEJyeXI4S0ViM0VvYnVmYVZEY2RyWVFock55MW53Tk1YWGQ5NEVxN1Fzak5KejNnSGtOcy1TTDhyb0ZkRVVjVkw2VWxOYzcxeFhBcHVOYXpwNXFLdVhMT2podlpZUXBobE0zS1R5ejJWWg?oc=5",
+        "headline": "Stock Market Records and Inflation Concerns: New Fed Chair Kevin Warsh Takes Over in 2026 - News and Statistics",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "07/18 20:30",
+        "published_ts": 1784374200.0,
+        "tag": "Fed",
+        "first_seen": 1784386925.478434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTVRY3NUTGZwRFlfd25UOC0wMTc2V01OSVpqUTBsVUUxSGV2c3pNTms5MjNLNVlsUUY0U1BjTzRHVEJwOFg4YlppUk9aZ1IxS09XMl8xRXNEcDNOdnFtN1pXbVBLckpxcno5X0ZkaC1UalgwX3lWTFNSdzQzVDBiNXhSWDV0Ty1BT0VodEhDUQ?oc=5",
         "headline": "Will the Fed hike interest rates this month?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784297039.0,
         "tag": "Global",
         "first_seen": 1784297732.7714307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVVNOUWFqUXF6RUJteFA5U05IRzdFYWRieEVQRGx1X2FGdFBJYUVPQk0zaWxmenYyV1hWT2RDazlsM1JyMGJENlQyTXZZQ3VzSUQxSmtHejlJWXF1S3daTXNkU3BDMG8wVE9rOExIMWZkd3dDdWc1ZEZRZ2Y2TTBRS2pJT2loeUVCTnlv?oc=5",
-        "headline": "Lock in yields",
-        "summary": "",
-        "source": "UBS",
-        "published": "07/17 22:59",
-        "published_ts": 1784296740.0,
-        "tag": "Global",
-        "first_seen": 1784301329.3119957
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 23:46:48",
+  "updated_at": "2026-07-19 00:02:28",
   "yields": [
     {
       "label": "3년",
