@@ -1238,6 +1238,16 @@
         "first_seen": 1784349030.7971435
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GZWF2c1QtbnZNTmRkSkFYMm1FNi11Vl9kZnNmNTJWXzUzR0VfdGw4c0d6NDllSzFNR09IRTZtd1oxTXdFR2VDVVRsM0oyMGdfSk1iejg4ekVCeW5scnFaR9IBeEFVX3lxTFBSNFZDWTcwVTBrMVRObFB4aVhnSWhnZFZaZUprWFR5WjktWDhTdVpjSF95b2wyQWNIcHkyeWJGaldWLVZVZzhDWnQxQWo4YTE4ZmFDazFzUm9nSDN2YXhENG1zNlNvam12NEliZmZHRktkWEI0Z0RmSw?oc=5",
+        "headline": "李 \"신고 회사 차려도\"…보조금 점검 20배, 국고환수 이어질까",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/18 08:00",
+        "published_ts": 1784329200.0,
+        "tag": null,
+        "first_seen": 1784363492.8980231
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QNHduUEY5U0tVOWhFelBidFAydVlvTjVnQkQxbjZZVE5rbVhxR3lKVmRZZ3g0bVFDSmZDbFZZQXVZTEVmdzlnLUpPNVJHQmNEODJKWkh5R0xpM3h1c2ExS0VwWEluaHBwTDBVbnRFUXZKRDc0dElTYw?oc=5",
         "headline": "청와대 일주일 [뉴시스Pic]",
         "summary": "",
@@ -1406,6 +1416,16 @@
         "published_ts": 1784111557.0,
         "tag": null,
         "first_seen": 1784186838.3176548
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2MUpqT2tSLUxFbkh4QkZIRU1lbkdXODVEczRraGIwbVFQV1c0cjFRVzVnWk52SmphRzZVUDNnTTNBenlOdF9mMnRMVkl4UXY0OFE4THVJVkN4N255U1E?oc=5",
+        "headline": "하반기 3% 이내 물가관리 총력…3대 메가프로젝트 역량 집중",
+        "summary": "",
+        "source": "한국방송뉴스",
+        "published": "07/15 19:27",
+        "published_ts": 1784111274.0,
+        "tag": null,
+        "first_seen": 1784363492.8980231
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QdGdWeVN1ZjBHT3FmR1RkWEdrVVVqZ2M1N3hUVHdaenl4TV9sazZzWUF1OEZRSzZGeEczMm1QdzJqUS1ESzZaMnJJeVVlejYxNGs2R19rdngyWVdrWUhQdU9R?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1784014493.0,
         "tag": null,
         "first_seen": 1784186838.3176548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9yUzJTOEJUTnFxenRlbS1LUjdoOVhKNVlaRnltaWlRZjdkRVphMGxGd2lLZ2VyRC1ISHNYbWZZUGtNNWNEUzA2Sk5YWk1fS3NZY2xzMXAwSmtIeW1vY1k5cWhoREdvQTFPd2RoSQ?oc=5",
-        "headline": "이준석 “포퓰리즘적 긴축재정은 모순”…이재명 대통령 발언 비판",
-        "summary": "",
-        "source": "시사신문",
-        "published": "07/14 16:00",
-        "published_ts": 1784012400.0,
-        "tag": null,
-        "first_seen": 1784223933.4075081
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA1akF0YW5sOVk0dzBseEhxelN4dXY5QWhzZ1Rxajd1b0t5VGg3SEtBQktHdmNGcDl4cExxVWZVZzdHeGhUUk9GZnBGdHRuVWdRZFkw0gFTQVVfeXFMUDVqQXRhbmw5WTR3MGx4SHF6U3h1djlBaHNnVHFqN3VvS3lUaDdIS0FCS0d2Y0ZwOXhwTHFVZlVnN0d4aFRST0ZmcEZ0dG5VZ1FkWTA?oc=5",
-        "headline": "정부, 디지털자산기본법 하반기 입법…비트코인 ETF 제도화 속도",
-        "summary": "",
-        "source": "서울경제",
-        "published": "07/14 14:15",
-        "published_ts": 1784006156.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 17:15:47",
+  "updated_at": "2026-07-18 17:31:59",
   "yields": [
     {
       "label": "3년",
