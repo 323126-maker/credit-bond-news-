@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QOUpKT3IzQU0yODR3SVRiRVFBSVh6RktlcGZTNXRpWWJvT2pMUEdVcTNQVWV1TTk5SWxHNFJiVEQ5VHJUMTFKTXhlVGx1ZVlZRjVrTmVsNmpaMUg5eEUxSUZmSV9xZG9JTDRsenpTSHFjekpvZkxSV9IBeEFVX3lxTE9QOUpKT3IzQU0yODR3SVRiRVFBSVh6RktlcGZTNXRpWWJvT2pMUEdVcTNQVWV1TTk5SWxHNFJiVEQ5VHJUMTFKTXhlVGx1ZVlZRjVrTmVsNmpaMUg5eEUxSUZmSV9xZG9JTDRsenpTSHFjekpvZkxSVw?oc=5",
+        "headline": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업 확대",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/18 16:00",
+        "published_ts": 1784358000.0,
+        "tag": null,
+        "first_seen": 1784361633.258621
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTR3BYLW1FSFUwQk1yQTRiYkhfUWtiNWI0b2doaEVKV1ZjY0kzTU9SNHFtTk4yY215RnlLalh1QndjTHFWa0dEeVJuTk1jZ3E5dHdBTWc5YTBJQlMwZllyUHJWdTF0cTRPVXdHdTRUaE8wS28?oc=5",
         "headline": "\"트럼프 대통령 발언, 돈 주면 먼저 보여드립니다\"…월가엔 먼저 열고 국민에겐 늦게",
         "summary": "",
@@ -1594,16 +1604,6 @@
         "source": "서울경제",
         "published": "07/14 14:15",
         "published_ts": 1784006156.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5hVkZMbm1XU05GNVpPYzR6c2tNUFpVNDR0SzdfUS1BSUV1VW5RdjJuNTBfNHV2RHhIZnhLSXc4dmc2empZWXF1cmdRdDJYbEtuUHdZbWhrQXUwUWhVMnp3UXlvTjgwLUZ6dWMydVo0bF9aQWtM0gF0QVVfeXFMTmFWRkxubVdTTkY1Wk9jNHpza01QWlU0NHRLN19RLUFJRXVVblF2Mm41MF80dXZEeEhmeEtJdzh2ZzZ6allZcXVyZ1F0MlhsS25Qd1ltaGtBdTBRaFUyendReW9OODAtRnp1YzJ1WjRsX1pBa0w?oc=5",
-        "headline": "정부, 디지털자산기본법 하반기 입법… 국채 토큰화 추진",
-        "summary": "",
-        "source": "IT조선",
-        "published": "07/14 13:44",
-        "published_ts": 1784004257.0,
         "tag": null,
         "first_seen": 1784080028.5739875
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 16:46:45",
+  "updated_at": "2026-07-18 17:00:56",
   "yields": [
     {
       "label": "3년",
