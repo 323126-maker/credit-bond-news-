@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWOGhxanNzTW80akRabGFVS2UxVi1mbEhxUnFDVWQ5RThiUkF4a3pianpGS0ZBQzZUaVZJOTZmLVdfQzVDSVU3a0ZKWDF6VlpuX2RZY1VOd1RfRkFJLXBYNkdpZGNBYnJyM0VWRHFPQXhZQ201THNkWdIBeEFVX3lxTFBWOGhxanNzTW80akRabGFVS2UxVi1mbEhxUnFDVWQ5RThiUkF4a3pianpGS0ZBQzZUaVZJOTZmLVdfQzVDSVU3a0ZKWDF6VlpuX2RZY1VOd1RfRkFJLXBYNkdpZGNBYnJyM0VWRHFPQXhZQ201THNkWQ?oc=5",
+        "headline": "트럼프 게시물 '먼저 보기' 유료 판매…이해충돌 논란 재점화",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/18 11:57",
+        "published_ts": 1784343473.0,
+        "tag": null,
+        "first_seen": 1784349030.7971435
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5QNHduUEY5U0tVOWhFelBidFAydVlvTjVnQkQxbjZZVE5rbVhxR3lKVmRZZ3g0bVFDSmZDbFZZQXVZTEVmdzlnLUpPNVJHQmNEODJKWkh5R0xpM3h1c2ExS0VwWEluaHBwTDBVbnRFUXZKRDc0dElTYw?oc=5",
         "headline": "청와대 일주일 [뉴시스Pic]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1783996032.0,
         "tag": null,
         "first_seen": 1784223933.4075081
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1yVzFIbkdLQ0NPcHJ2dnBqbVJVSG9Mbmg2U0JrcDBLWTl6R19LaVpBNk5HZTNYT1l5SUgwbkIwa1kxQzBnU2MyemZwVQ?oc=5",
-        "headline": "발언하는 구윤철 부총리 겸 재정경제부 장관",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "07/14 11:15",
-        "published_ts": 1783995327.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 13:15:49",
+  "updated_at": "2026-07-18 13:30:52",
   "yields": [
     {
       "label": "3년",
