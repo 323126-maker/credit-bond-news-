@@ -1288,6 +1288,16 @@
         "first_seen": 1784275239.4673407
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9mTVdZMU4wNlk2RUNfalpYV201OERjN1VhdGpheGc0Mk80bkJ5YVZXT3ZrdmVfT05IMkdlRTE2WDIyTU85NHhHUmlEUQ?oc=5",
+        "headline": "이재명 대통령 '업무보고 청취'",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "07/16 10:53",
+        "published_ts": 1784166808.0,
+        "tag": null,
+        "first_seen": 1784354433.3205698
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ab0NIdzBQZ0F3ekt3ZVJyb0tyejNXbUNnLXV0emxPbmVWVUJoWWptWm5wajNOUW50ckJXaG5sS0ZzYkVFQUdMdWUtYjBxc1pLZE1aWHlRbzB3RWRCQUhxNGFTMGI1YS1NWXc?oc=5",
         "headline": "업무보고 (재정경제부, 국가데이터처, 금융위원회, 기획예산처) - 포토 | 멀티미디어",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1783996620.0,
         "tag": null,
         "first_seen": 1784191525.0234513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zRHhaTFhIbUJ0SXhaQm8weHBNSDU5UmYySGlEOTJsdVlVZ3E0el9QN0gxVU9fYUI3S2xucnZMT0tLSVBCbHZsMmlzTmdPaVNqbEtFRldIMnhhS0XSAWBBVV95cUxPaFJrQjdtN05vZklzdDBpdjVXaUN5VmlLLU5HYXpRYnNxZHIxbGRtM3ZaRTFpWXNQb1JoQlRreHd0RzVpWm1pcGZJUk5NQ3pJYkR3dFJ5ZVd3anl5QU9vajc?oc=5",
-        "headline": "'모두의 AI' 경쟁 본격화…네카오·통신사·스타트업 총출동",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "07/14 11:27",
-        "published_ts": 1783996032.0,
-        "tag": null,
-        "first_seen": 1784223933.4075081
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 14:45:51",
+  "updated_at": "2026-07-18 15:00:56",
   "yields": [
     {
       "label": "3년",
