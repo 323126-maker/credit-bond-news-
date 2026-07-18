@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ?oc=5",
+        "headline": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+        "summary": "",
+        "source": "CNBC",
+        "published": "07/18 20:31",
+        "published_ts": 1784374263.0,
+        "tag": "Fed",
+        "first_seen": 1784376109.3888512
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTVRY3NUTGZwRFlfd25UOC0wMTc2V01OSVpqUTBsVUUxSGV2c3pNTms5MjNLNVlsUUY0U1BjTzRHVEJwOFg4YlppUk9aZ1IxS09XMl8xRXNEcDNOdnFtN1pXbVBLckpxcno5X0ZkaC1UalgwX3lWTFNSdzQzVDBiNXhSWDV0Ty1BT0VodEhDUQ?oc=5",
         "headline": "Will the Fed hike interest rates this month?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784295170.0,
         "tag": "JGB",
         "first_seen": 1784295926.6548536
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeDJkb2s2azVZcll1azNSMU5HalVaN01TbWN3Q0dJSm5VUnNKbTdpcnBLY3NGVXdoZHNDbU1YVmFoOFFfWjNaRVRIbHBOcGFZdFlQcDIxY1cxOHpNNG1HeHVRZG1aS05GMWZfOWIzbHJEMFNpOEozUVlOYkZzTzYzVGxPTEVzbUVDQ3F2aC1YeWRleE4yWTRIUGwzbmxXbWUzUTdF?oc=5",
-        "headline": "Tech giants are rushing to borrow money for AI, overwhelming global bond markets—bonds tied to these deals are consistently underperforming wherever they are issued.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "07/17 22:11",
-        "published_ts": 1784293917.0,
-        "tag": "Global",
-        "first_seen": 1784295031.507565
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 20:46:33",
+  "updated_at": "2026-07-18 21:02:11",
   "yields": [
     {
       "label": "3년",
