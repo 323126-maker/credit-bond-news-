@@ -1418,6 +1418,16 @@
         "first_seen": 1784203250.4101603
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9LOWtmWXp0RUY1X1luRlBNVkp5VzRJb2tsNDJVYU1fQUh1cEtUTEZXYkpkajJ2SUduRkFhaHFmdlc2b05TZWtDbmdySQ?oc=5",
+        "headline": "국민참여단 발언",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "07/15 10:34",
+        "published_ts": 1784079283.0,
+        "tag": null,
+        "first_seen": 1784338238.2027042
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWZlg2Y1VXbFE5dHhyS1hQRXBncXV6Y3dhcVRfUGsxVk96QTdaeUM2THNnNFVDcUhsMWZhZ0k5NlctSTVFbnAyRW14UnFuRlMwSGEyVlNPMFZuWjlOd2ZJdEJwbWktRGR2NmdQbHI0azZ4T2tfdmZwag?oc=5",
         "headline": "이재명 대통령, 재정경제부 업무보고 발언",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1783989739.0,
         "tag": null,
         "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xSkVhNm9HUjlybGg1eHNCdklIdUNlR3BxbGZfZ3prNlJfMUZ3Z3hDWXJjN3ZqZ2RNdUQ3ZkMwaXN3S0FuRkxqUzc0SE1MWlZvLUROa1JFbnJlUmx3UUJ5NWVoUlE2SDdOV3dmMXNncUI4VmNR0gF0QVVfeXFMTjFKRWE2b0dSOXJsaDV4c0J2SUh1Q2VHcHFsZl9nems2Ul8xRndneENZcmM3dmpnZE11RDdmQzBpc3dLQW5GTGpTNzRITUxaVm8tRE5rUkVucmVSbHdRQnk1ZWhSUTZIN05Xd2Yxc2dxQjhWY1E?oc=5",
-        "headline": "[뉴욕 마켓 브리핑](14일)",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/14 09:17",
-        "published_ts": 1783988268.0,
-        "tag": null,
-        "first_seen": 1784089047.5015297
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 10:15:47",
+  "updated_at": "2026-07-18 10:30:58",
   "yields": [
     {
       "label": "3년",
