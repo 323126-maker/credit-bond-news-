@@ -1268,6 +1268,16 @@
         "first_seen": 1784359829.4397948
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1TNW1lLThMN0F0QmtDYUQ5UHJpRndhTVNpeWVSWlJwQXVrVmdSWDNiTmVxMVBHb0tpdmlfSENqWWFKcW1sd0dJaVhxbw?oc=5",
+        "headline": "김용범, AI 시대 '신국가·신재정론' 예고…\"이념 논쟁이 아닌 생산적 토론 필요\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/17 15:25",
+        "published_ts": 1784269550.0,
+        "tag": null,
+        "first_seen": 1784371582.294211
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFZG9lYmhnRExlQUk0WGZXWjRUMVkwaGszVlpRNG5pYUFDRnhub3MtekE4ZWUwemVlRGVtMjlWVDE2Z0lELXBjTnc1U2g5SDRNRFAwZnBJdHdkcW0tWlRER09LX2ZNRnhSODVDRNIBbEFVX3lxTFBFZG9lYmhnRExlQUk0WGZXWjRUMVkwaGszVlpRNG5pYUFDRnhub3MtekE4ZWUwemVlRGVtMjlWVDE2Z0lELXBjTnc1U2g5SDRNRFAwZnBJdHdkcW0tWlRER09LX2ZNRnhSODVDRA?oc=5",
         "headline": "李대통령, 국정 지지율 52%…2주 연속 하락세",
         "summary": "",
@@ -1296,6 +1306,16 @@
         "published_ts": 1784252389.0,
         "tag": null,
         "first_seen": 1784256329.2156742
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBrdWdVWkJRU3EteUs3TzlRZE9KWTlRVFRfaURrbk9BLXBpUV9hRXNiM01Lb0NHZFZMZ3k1MHQ2Qi1YVVlRcHRjVkUweUpidE5jdTBuWlR5aU50UkFwSlVlWHY2N3ZXZlhBSk9uVGktU0dOUQ?oc=5",
+        "headline": "李대통령, 전기료 인상 시사…4분기엔 오를까",
+        "summary": "",
+        "source": "동방일보",
+        "published": "07/17 07:46",
+        "published_ts": 1784241995.0,
+        "tag": null,
+        "first_seen": 1784371582.294211
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNeGVBd2VlUUNlX09jWF92WU9TUTJiZUgzWi1ybnY5RzZfNVd1ekNxVWlEeFdHdUxnSHdBNW1YeThZYVpIaGp5LVp5X1N1R2MzN01kWEx2WTV2LURodDlOVTM1Tm53QVhBWjZUT0Q0SmIwZDF4VVEyd2VKNzFnbllLV25tdE5zei1nTHctM25rV1JnemFHUjh4WTBHOXA3dk1pVWdlZFhoRzU2cVNIRGNDdHkwZUcyT3prb3A0NzZQQ1RHMTJjazlqeU5mS1Q1TUJxc2VlcUNqeGRlYmF1cXNOWFV0bmtxbzEybVVHU3g4TGNncjBQVDI3a3J1cm9WZw?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1784018520.0,
         "tag": null,
         "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpX21tT1J5SzdLd0twZkhqWGxpQVNTNXBENndnZnAtaGhLWFdHY3dtVm51bTNCZGdMQWpEWnoxdGgyX2lMR29oLVBCbXdkeThSd0pCSkxNRjFkb1NRdGNIZENqRW5LQnhxOUc4MWJR?oc=5",
-        "headline": "[하반기 성장전략] 반도체 추가 세수 '미래대응기금' 적립…KIC 종합형 국부펀드로 확대",
-        "summary": "",
-        "source": "글로벌경제신문",
-        "published": "07/14 16:38",
-        "published_ts": 1784014714.0,
-        "tag": null,
-        "first_seen": 1784117273.2287948
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1fX2NzNVotSENfR3BuN3d0Z1BIdVRBdkg2cG1SZjNhNGZHeFBXNHpZSWRkdXJwSDNTUlJpU0JOOFp5NWk1T1VtV1lMdGJOZHJJcU43X2wxVk9hcURTVHplZTA2WV8zUW8?oc=5",
-        "headline": "정부, 반도체 초과 세수 기반 '미래대응기금' 신설…재정전략회의서 공식화",
-        "summary": "",
-        "source": "교수신문",
-        "published": "07/14 16:34",
-        "published_ts": 1784014493.0,
-        "tag": null,
-        "first_seen": 1784186838.3176548
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-18 19:38:18",
+  "updated_at": "2026-07-18 19:46:53",
   "yields": [
     {
       "label": "3년",
