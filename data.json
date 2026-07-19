@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jSnd1QkgybkU3MlYyOG1uR1pick1OSlFHNnBtSjZLNExuQUdSNXMwTExVcFJ6MldhcWFfcm1FOThtM3dwOXFJTDlYT0ZEWDMybEo5Vzg4aHpiNEpDVEx5Yng2ZHh5SEVHVDJ3ZklzX1ViUQ?oc=5",
+        "headline": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/19 13:00",
+        "published_ts": 1784433600.0,
+        "tag": null,
+        "first_seen": 1784434625.425794
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYeWE3a1pRNVFvVXJSejFsSDhZeHdGdFFjV0QtM0RsWDd3akh6QlR1ZVlKLVNGMWxfT3VIYTkwVF92VWRvYVlPRXdkQzBKQkFOajhDSmJFMUc1QXNiaVJwY2h6SmEwTkdQ0gFsQVVfeXFMTWJvT0lPMDByNWJZODZqajlhQ1NNRzZya2lrUjNXMUNhbklQY2lPNE1HcDFVRlpYNklDbXhUZzhPRDYwNFYyVzd4eElXMzFKWFd2MWtCS1pLZ1NGRDFNbS0zX3c2ek5NSXNZdmxa?oc=5",
+        "headline": "중후장대 ‘신용도 양극화’, 조선·방산 웃고 철강·석화 울고",
+        "summary": "",
+        "source": "블로터",
+        "published": "07/19 13:00",
+        "published_ts": 1784433600.0,
+        "tag": null,
+        "first_seen": 1784434625.425794
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9weDJRTnhwVXgyNHZLYmx4dVFON1hPTXBxbzVyRW5faUdyekhIYVJDZkFFdWVOODljSFhaWHlQVWktQkQ0aWgzdWZjeTIyVzNTbzM1QmlvWm5UYzdDUHZaVkVUMjdER1ZuV0VnbA?oc=5",
         "headline": "회사채 대신 은행대출 찾는 기업들…조달시장 '역전 현상' 심화",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1784192339.0,
         "tag": null,
         "first_seen": 1784197843.5401576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRnhmeXFoeVU5RmZoaG1aNTEzdFlFejZ0RGFvb2sySll3bTlNQnQ2M0IyVWVaMFJ1SkwxNEZuRHVuVk9RdGlVWElqRGc5ajJYM2MzS3ZJNXFqZGQxTS0yaEpzb24yUWVkYmNTaFNzdXJHYnN2Q1F0LWVlT0NKdHZTdA?oc=5",
-        "headline": "[마켓인]보증채 뒤 숨은 롯데케미칼…약정위반·1.3조 트리거 ‘산 넘어 산’",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/16 17:47",
-        "published_ts": 1784191624.0,
-        "tag": null,
-        "first_seen": 1784428309.6828585
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDSHV4RlYta3IxNnowb3hkaWdzR1BGX211ZHhVOHZZLWlXclBDVDZ5Y1pWY0tQUjFRTzN6XzV3WExUVTQ2UE9xRHo4Tk9PXzZRWHVSWHF1M1JFMnBjN1N3dTVpc1VyYmRZX0xXMDdpUXPSAXRBVV95cUxNZ2JPMTJ6aVo4Z3dsb0pEN0hhbmtRRUVvMlBwVlM0TW56Zm0yWTNaOHF2NXNtSTJDR0NKNTdoT2FDX2NZaTZ1S0kzMnoyWU9YWlQ3ZC1VY0s3WjlDZGJjS0xRVXpoN1JxZHA0Sm1NaEtRLWNBSg?oc=5",
-        "headline": "달러-원, 서울장 1,480.40원에 마감…또 두 달여 만에 최저",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/16 17:31",
-        "published_ts": 1784190719.0,
-        "tag": null,
-        "first_seen": 1784277924.096013
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 13:02:50",
+  "updated_at": "2026-07-19 13:17:28",
   "yields": [
     {
       "label": "3년",
