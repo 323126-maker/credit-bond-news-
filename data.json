@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZlRNTXdySl9MTmJKZU52ajlOZDc5b3V5dWRSLXkxS1hVVTF2Y1RRaFMtQzctNVpsb2VJN3g1SlFuZ3pMeDdodE9DajQxNFFTZlZHTTJLemc1aEZiV3drMmg3QVVYSGhDb1NZdFNJSWVDMnhlWGU5LUNTbFV3NkE4ZDZ3TG9yNkowNGZ3NnYxOW05QmtSXzNfQ1BTc2JWTWVqclBqNk9vZ2ZHaWtEY3ExTmVXNFl4cEVKTkZHd1YyWQ?oc=5",
+        "headline": "Japan mega pension fund's speculated JGB buying sways yields and yen",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "07/20 07:21",
+        "published_ts": 1784499660.0,
+        "tag": "JGB",
+        "first_seen": 1784500297.5607085
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YN0lCQzdzcUhucUZfdmtQdXkxLXkwYkRiTVJndTU2RkxrVDBaSjgyYU01c2NpdDZmUjViUmtWTm93YnZCbXg0dV92aHo4SUpaSlNV?oc=5",
         "headline": "[주간경제전망]삼성전자 '갤럭시 언팩'…유럽중앙은행은 기준금리 결정",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784419952.0,
         "tag": "JGB",
         "first_seen": 1784470600.7142167
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CN1JsZWJWRXVrY0IwS2VuS0hjTHBvSHRSSExuN1hMY3BlQV9OajNnQTg0MHdQWEZEQW1JbTk1bjR2Y29KYjVRUFVuXzFIalJTSFd4RjIzTEFPcXEtcS1WUkhzMA?oc=5",
-        "headline": "유가 뛰고 환율 오르고.. 일본發 물가 충격, 한국도 안심 못해",
-        "summary": "",
-        "source": "엔트로피타임즈",
-        "published": "07/19 08:55",
-        "published_ts": 1784418921.0,
-        "tag": "JGB",
-        "first_seen": 1784443689.8739343
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 07:15:57",
+  "updated_at": "2026-07-20 07:31:58",
   "yields": [
     {
       "label": "3년",
