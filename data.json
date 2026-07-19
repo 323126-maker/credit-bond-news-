@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tSHZHOVQ1LU5QTDZhRUY3Vm5KRHBYYnpIbVFfRGFOUGRCNUYtaDJaNmlFaXJwRUtETXh4VlhYUXdHZ0RqZERjT3JoMXNhWGFHTWs4M3RZQdIBXEFVX3lxTE9uX2xNbHV4YlFfdWtUbEtMdXRzNnYxWnlnS2RUdUYxMVRIZVF1S0JkUzRxTXZXWURtZWxfemVRakxaZjdpMlJUTWxORmI5OW54QmNibmtsTGFPeUtx?oc=5",
+        "headline": "국내 채권 발행, 휴가철에 감소세… 2조3천억 예상",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "07/19 09:24",
+        "published_ts": 1784420653.0,
+        "tag": null,
+        "first_seen": 1784422003.9335299
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOeWRoS05aek5FZ3l3Qkl2NnpuX2NidWxUUjVXZFJYaXROVlpJVVFXemdGUlNxUXZObGZKWVRxdWloR2hRMXE5b3A2TEhxeEdNbzNIdUlENUVYa0hyVEt1d01GTWhpakRwLXVlVXhXZU96TTlDU2l4TmNuZXNDZjBiNHJNOWdPaEJPRjh0RlQwZ9IBjwFBVV95cUxOeWRoS05aek5FZ3l3Qkl2NnpuX2NidWxUUjVXZFJYaXROVlpJVVFXemdGUlNxUXZObGZKWVRxdWloR2hRMXE5b3A2TEhxeEdNbzNIdUlENUVYa0hyVEt1d01GTWhpakRwLXVlVXhXZU96TTlDU2l4TmNuZXNDZjBiNHJNOWdPaEJPRjh0RlQwZw?oc=5",
         "headline": "부채를 통한 AI 확장 속에서 신용등급 하향 조정이 발표된 후 오라클(ORCL) 주가가 10.1% 하락한 이유와 향후 전망",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784185916.0,
         "tag": null,
         "first_seen": 1784380524.7677667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHR0VEWW8wVXc0WUo0RjFkVEdJOTdHS1VOT2NfNFBSbUFjTGVkX3RXMV9YNlB0VFd4ZWtxY09vRjlCTS12UDBCMVExd0RtQUh6aGVHTHNwMzlxSDhha1UyWFN1Y0xhaFRIM2U5Znk2Z2hFZw?oc=5",
-        "headline": "알테오젠, 코스피 이전상장 추진 미룬다…30% 무상증자 결정",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/16 16:05",
-        "published_ts": 1784185505.0,
-        "tag": null,
-        "first_seen": 1784247324.4679685
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 09:32:07",
+  "updated_at": "2026-07-19 09:47:04",
   "yields": [
     {
       "label": "3년",
