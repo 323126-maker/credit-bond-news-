@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5S3Vra011YkFIdXFwVjBxU3UxakMySkc4bTNBWUU5M0t2VzBpTnhkQV9YdF9ieHZaVzBkYWxfa1BXX0ozNzdyUW5SeUZ4MlhZMzJMdFIzQnB0VXVlUkdjODhTWmhiSS1mQk5leHRvZi1MX3c?oc=5",
+        "headline": "[포커스] JTBC 디폴트 후폭풍…증권사 책임론? '불완전판매' 쟁점",
+        "summary": "",
+        "source": "오늘경제",
+        "published": "07/19 17:00",
+        "published_ts": 1784448000.0,
+        "tag": null,
+        "first_seen": 1784448970.7476132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DX0FtdkZrdGprNXI0Tl9RQllRU014Q0RXeTRMZWIxN1o2YURzeGhZNU84TTc2WGx4LTRDcFpCYnhfVXVTOGpQaGhsWmdvekhDWEcySmNiNXBFZkJXS0NtbnZpaWtxd2tPYlZvTzRpTGkzQQ?oc=5",
         "headline": "[뉴욕채권-주간] '유가 vs 반도체' 장기금리 향방은…연준은 침묵기간",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784240596.0,
         "tag": null,
         "first_seen": 1784241924.819246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlSlJaNjRnWnUyMVdNQ1dubHVZNUVkY2VpNFZlVTFjekRrTVZ6bDg2bTNyQ2JTbUFPNTJZSWhqeDdzczFVSkZhU0tucWVuXzg1cjh4clJ0S1ZqV0xneWszaFEzcXpxUVFuWFI4SjFrS3E?oc=5",
-        "headline": "[뉴욕채권] 사흘만에 약세…'홍해도 봉쇄' 경계감 속 美 지표 호조",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/17 06:59",
-        "published_ts": 1784239171.0,
-        "tag": null,
-        "first_seen": 1784368940.2998853
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQjJQc1hrcnpvRzFHOHNaVVFQZXpCbExMbU9aSUN4blIyS1J3eXZTM0RaV1FPajAtWmJ6cU5VVThkUlE2a2Z0TDdTbElwY1J3SGpvV21SYkNXN1FtM3pkbVdtTnJEdnFUVGZYaEVkazBFd3NrQzVKQWgxUk4tR0hxc0lMTkJwZW1iaDBmbEJRbU5xMHFtbndaZGt0NmxaV2J1X19JbHVYLTRWbThIeGQ3RmdBb2IzQ09kampsM3o0XzVGVFZ0aW1kdw?oc=5",
+        "headline": "Moody's stock holds gains as revenue and earnings grow ahead of credit cycle shifts",
+        "summary": "",
+        "source": "ad-hoc-news.de",
+        "published": "07/19 16:57",
+        "published_ts": 1784447862.0,
+        "tag": "Global",
+        "first_seen": 1784448970.7476132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kQjlOS29SUUFIdXkwS3lkbWgxeThTZUhCbzFIRklMYjN2eTd5eGFuVk44NG12ckdNLTlEejZzLWdDbGZKb1RnY0t6M0xjNmhoQlgwUERqV2lwXzJKc19Kdmw5bkt2V2VRVktmcXVHbklZZw?oc=5",
         "headline": "[뉴욕환시-주간] 중동 불안 고조 속 ECB 회의…9월 인상 가능성 열어둘까",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784326800.0,
         "tag": "Fed",
         "first_seen": 1784333727.0405753
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sQ3U4MWJVTHhBa2lGQ2owLUFVcWpqQTVCQkFUWWdCWHppdGl6VzhrNmtERnJtLTkzNHdENEl6YlVTaGlzZGNLdHQtRXdqSjVCTDY0?oc=5",
-        "headline": "케빈 워시 연준 의장 \"암호화폐는 구제금융 대상 아니다\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/18 06:55",
-        "published_ts": 1784325300.0,
-        "tag": "Fed",
-        "first_seen": 1784326524.411735
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 17:02:43",
+  "updated_at": "2026-07-19 17:16:41",
   "yields": [
     {
       "label": "3년",
