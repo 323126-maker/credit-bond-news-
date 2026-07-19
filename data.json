@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9weDJRTnhwVXgyNHZLYmx4dVFON1hPTXBxbzVyRW5faUdyekhIYVJDZkFFdWVOODljSFhaWHlQVWktQkQ0aWgzdWZjeTIyVzNTbzM1QmlvWm5UYzdDUHZaVkVUMjdER1ZuV0VnbA?oc=5",
+        "headline": "회사채 대신 은행대출 찾는 기업들…조달시장 '역전 현상' 심화",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "07/19 10:29",
+        "published_ts": 1784424598.0,
+        "tag": null,
+        "first_seen": 1784425582.7592695
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43c0t5aTVFOTJ1clNQdnBNZTZSTER0bVp5Q3FsQXBsLVdWMGNHSkFLbzdLSW9yb0QwRGhnWWVvWWlYb1lzWmZvc0xJZE9WTDNfSFdMYjlWa1NMak5mQUpFb21QOGI1Q2Qw?oc=5",
         "headline": "이번 주 크레딧채 2조3천억원 발행…20일 물량 집중",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784188006.0,
         "tag": null,
         "first_seen": 1784188729.6294293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aaFdXbUpJMzFWcDJoM1NneUszV2ZvT0N4S3RGU1lhM3JheXJuZUNPc2IyYTR0WDBjdVBrVjRsOGFTQk40LTktQlkwVWhqQjVUOFVFTTY4TGd1YjlvWHp3Rnc3dmZMTEEzSkxJdEF2aGVWZw?oc=5",
-        "headline": "[채권-마감] '데이터 보자'는 신현송에 일시 안도…국고 3년 1.8bp↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/16 16:46",
-        "published_ts": 1784187989.0,
-        "tag": null,
-        "first_seen": 1784188852.44112
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 10:30:54",
+  "updated_at": "2026-07-19 10:46:45",
   "yields": [
     {
       "label": "3년",
