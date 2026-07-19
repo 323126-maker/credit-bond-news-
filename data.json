@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DX0FtdkZrdGprNXI0Tl9RQllRU014Q0RXeTRMZWIxN1o2YURzeGhZNU84TTc2WGx4LTRDcFpCYnhfVXVTOGpQaGhsWmdvekhDWEcySmNiNXBFZkJXS0NtbnZpaWtxd2tPYlZvTzRpTGkzQQ?oc=5",
+        "headline": "[뉴욕채권-주간] '유가 vs 반도체' 장기금리 향방은…연준은 침묵기간",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/19 15:04",
+        "published_ts": 1784441043.0,
+        "tag": null,
+        "first_seen": 1784447291.473227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jSnd1QkgybkU3MlYyOG1uR1pick1OSlFHNnBtSjZLNExuQUdSNXMwTExVcFJ6MldhcWFfcm1FOThtM3dwOXFJTDlYT0ZEWDMybEo5Vzg4aHpiNEpDVEx5Yng2ZHh5SEVHVDJ3ZklzX1ViUQ?oc=5",
         "headline": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784236289.0,
         "tag": null,
         "first_seen": 1784408524.2162895
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBqSHpJNDNpT09XWmlQcDFEN0N6NExzZk1SXzAyR2JEZ1VLUHF6SjZOb2xsQjhJNlp6QUtacy1VMThXOENUaXFud0VYd0tBbFhjc0RsTkk0TklMNHBPQWk4RnBaazEyX3dZYmoxQ1VXVGo?oc=5",
-        "headline": "케인 앤더슨 에너지 인프라 펀드, 6,500만 달러 사모 발행 추진",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/17 05:38",
-        "published_ts": 1784234280.0,
-        "tag": null,
-        "first_seen": 1784440004.7384174
       }
     ],
     "perpetual": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1784445322.8011386
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPU2hWTkVvRm1ZOEw1blhzdXJFNk0wMjhVMWF0LUctNHA4ZVIwUHFwS1hhWmxpMmxlQ2Q2T1N0RXBJTnRaSk9BUm1KTC1jRDBWcVRUcFcwRHhCc1NBNjhSaDltd2QxVGlZS0ZnSUhCNzRCSWxNUlZ4Tkg1WXlXQ0lEM3NrNFdTckZfZVJiX1ZOTUdZLWdrY2N3dXhCc1NzTGktOVkzc3pEQTkzeHE5UUVhNnNrelRCbmlYTlVKY0JCQ3ozNTJ0aWtJ?oc=5",
+        "headline": "Swiss Re stock trades steadily as recent earnings and capital returns shape outlook",
+        "summary": "",
+        "source": "ad-hoc-news.de",
+        "published": "07/19 10:43",
+        "published_ts": 1784425389.0,
+        "tag": "Global",
+        "first_seen": 1784447291.473227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CN1JsZWJWRXVrY0IwS2VuS0hjTHBvSHRSSExuN1hMY3BlQV9OajNnQTg0MHdQWEZEQW1JbTk1bjR2Y29KYjVRUFVuXzFIalJTSFd4RjIzTEFPcXEtcS1WUkhzMA?oc=5",
         "headline": "유가 뛰고 환율 오르고.. 일본發 물가 충격, 한국도 안심 못해",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784325300.0,
         "tag": "Fed",
         "first_seen": 1784326524.411735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTBUX2ZaNk9EY2M2SU5BaEw4VkRFXzF6OE1MeENrcVRwT1hnd2gtbzVDODJ3VUh2ZXdOYi03b2ZobHhhdlMzSE1fOWM0b3lWTlh1Q2VENEFFdHlKWmNuOVltd0R4X254aFM0SmNjZ3RIWVNqREU3OXlHSFNsUGtBUXYyUQ?oc=5",
-        "headline": "World stocks fall in semiconductor rout; oil rises on Middle East escalation",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/18 06:46",
-        "published_ts": 1784324774.0,
-        "tag": "Global",
-        "first_seen": 1784331038.423454
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 16:45:55",
+  "updated_at": "2026-07-19 16:48:36",
   "yields": [
     {
       "label": "3년",
