@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTlZUmpzY19jLVFZODM3amxUQVlwRnVpSlhjMmNNS0ZqTzZmOW16SVZFazd6WnlOa1RLOG9UQnI0M1duTXo2ckt2N2lYNDhmUmdpRlB0S09wTGFVTjhNX1FqSmhCM3Y2aU1RenEwaWtQSUs2dHpDbndIcU00WFRKUjVnTkxCWWpfWVR3Nm03ZU1yNE1xRDdhTTZzZ1lmQ1V0YjVzWi1ESy1VSTM1b3RhclU3QzFTb0J1TVd1MVFKY290NlZwdXB4bzJKc0xZeGZEYV96SWxuUUItdFdPSFYwUlJHLVFLb0x5NjYyMDJB?oc=5",
+        "headline": "Vanguard VCLT vs. VGLT: Which Long-Term Bond ETF Deserves Your Portfolio?",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "07/20 02:53",
+        "published_ts": 1784483620.0,
+        "tag": "Global",
+        "first_seen": 1784484421.616418
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUJZb0pzT0tOckJWRW8yWEN4S00wOW92X0w0UzlXQ2ptdERFUEhNeFRSemNTcVJMUnA0X2tBU1gyQklTcFRBX2xMUUFGNDhVSldfNHduUzRPMTVPRUIxTlBrZ0tMYk9zZEs2MTk0ZkpjVkZldVJHdWhJNzJvbUFOZG5jTQ?oc=5",
         "headline": "Standard Chartered hosts 2026 Markets Forum",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784404860.0,
         "tag": "Fed",
         "first_seen": 1784428309.6828585
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxPZ1hfT3lzN1Rjd0xtT1JOV1A1dldvLTJIODR5ZUpEamZoSWdwLTc5UUNRZHdZcFpPV3B5Y19xaDdUOHFSVGRWVWdBcTVyVlJYekZqQkR2bUJTTHg1TGU5andfSWZJRnNiRktmelFuU0JxQmNqb1FmOVQ2SFlUc1g3U3JqUlBBTDk0eHd4LXdWMllwb1E3Wmd1NzcwZUFUQWtSRkJ6RS1DbDhORFhTRjY3X0JHSDBxNGhyWGRQanVVZTVjWlJ3emFlRnVfXzRNUDJhSkRWOHNPYzB2REJCbEZocTJYZG9SWUM1eHJBS2duZHk2WHNvNnNrQnEydnRDNXZwTW03SnlLeTBVa2tBTHFRcngwOVBYa1A2OWFxVmRXN2RNSXpVT2o4SFBybTcwaUJ2bk1VMERTbm9USFpyS2JSbEo4Y25Zbml5Y3JSRDZCREE5ZkthaldJVFZGMmdQejhzQl9HbTZ0ckhhTUx3ODRrMEtB?oc=5",
-        "headline": "What the market is pricing for Fed and global central bank interest rates after the cease-fire",
-        "summary": "",
-        "source": "MSN",
-        "published": "07/19 03:52",
-        "published_ts": 1784400763.0,
-        "tag": "JGB",
-        "first_seen": 1784431917.2653892
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 03:00:59",
+  "updated_at": "2026-07-20 03:07:24",
   "yields": [
     {
       "label": "3년",
