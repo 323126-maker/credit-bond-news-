@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLUJZb0pzT0tOckJWRW8yWEN4S00wOW92X0w0UzlXQ2ptdERFUEhNeFRSemNTcVJMUnA0X2tBU1gyQklTcFRBX2xMUUFGNDhVSldfNHduUzRPMTVPRUIxTlBrZ0tMYk9zZEs2MTk0ZkpjVkZldVJHdWhJNzJvbUFOZG5jTQ?oc=5",
+        "headline": "Standard Chartered hosts 2026 Markets Forum",
+        "summary": "",
+        "source": "Daily Tribune",
+        "published": "07/20 02:49",
+        "published_ts": 1784483399.0,
+        "tag": "Global",
+        "first_seen": 1784484037.46638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBFYWJrMWRMY1RDajRoQ0t5VTFNN3E1QVA1NFV1WWFGcy1STWhzVTc0SXc2Rko3RW9hbE1uR1M1d3lOajhfbHRIQmVGakRvcHZYUkw0VFhTNGxKOFIyLUhUTTRJUXlsZmpMOHVzcVI2bXRyNkEyejhBUVlHMmtZQQ?oc=5",
         "headline": "Federal Reserve Chairman Kevin Warsh agrees inflation fight continues",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1784476986.0,
         "tag": "JGB",
         "first_seen": 1784477724.498976
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTTV0OU5Zb25LWmMyMkNSaDBSUzMtTlRqRmQ3ODU0TWZGOTMzU21GMG5ydGN4TUp0ZGpJQjNDZnNSNUN0Z0FjSHJZbXQwek5veTdERUxuaElCTm1yQl9HZXdYMzh5dW5TWU9RSEFNaXBfdl9saWE3OFloWGlRblVnLUtEdndEVXNv?oc=5",
+        "headline": "VanEck's Fallen Angel ETF offers 6% yield by bu...",
+        "summary": "",
+        "source": "Pluang",
+        "published": "07/20 00:47",
+        "published_ts": 1784476059.0,
+        "tag": "Global",
+        "first_seen": 1784484037.46638
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX01WR0N5SmJjREFWTWgzeHFTeklUcFZkLWdFckdkRTMxZFRLWUR3NWw5S1BjQlA5cE1ZZS1ubENmREpLb3JrX3hGb2Q2VUMyOURzbl9QVERwOFlvZTEzNkFaa01ZTXR2VFFvb05ySGNnZmZoYVp4cmU3am5EZWxuRVBBckp2a0NIX0JoZGpUMl9vVzI0MDNUSWxJcmVBdmdFcnVldF9TUEJaOE1x?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784400763.0,
         "tag": "JGB",
         "first_seen": 1784431917.2653892
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb2tybjljOXNkQjRMTkNkY1FhUjRjVDc4aHdmSk1aREEzODQ1OEZFclRzeXJTOFo5TzhHSmhYLWhhRHJEMS1aRlQyTC01Mzg3SDlUNjJGZ3JfZkNFcjYyb1QzOUhUNWlLRFVlcUFzczdJSHhSdFllZ3FqM080TGR5QzVvcmxTemJuWEhkdUpkVzdxUlRwdEM1ZlBVZWx6TUdRbGRDblRmeEVMOHM5WWRHMTBnemV0cDg1RGZyeTlhVjA2aGo5dEx4dWtQR2J3WkQ4aVBkYg?oc=5",
-        "headline": "Dimon says market is 'close to as good as it gets'",
-        "summary": "",
-        "source": "MSN",
-        "published": "07/19 02:54",
-        "published_ts": 1784397294.0,
-        "tag": "Strategist",
-        "first_seen": 1784439229.911846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTThneGI0dlQ0TlZvM1dDTXA3bmRhT1pKeHF0bU52cGd2LW5HeTNZdWdaalp6R1FkT0ExYkZuVzhTMHNDZzJQMTd4TENBcncwV2pXdUR5Tm1FTXgyR0EyVFRqVXYwdTVhVWQ3Z3ZiMkdhdHliVm8wYzBmZ3pZSzRtMlhTZlFZMWhfSzNxNFhKTWtsaWdKUzVIWFZnZ2t4U3pNZ05DRnBzNk9vdDJxVXF2bA?oc=5",
-        "headline": "This Is the Bond Fund ETF That Actually Likes ‘Higher for Longer’",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "07/19 00:32",
-        "published_ts": 1784388754.0,
-        "tag": "Global",
-        "first_seen": 1784467832.176285
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 02:47:02",
+  "updated_at": "2026-07-20 03:00:59",
   "yields": [
     {
       "label": "3년",
