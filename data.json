@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE16cHhsQVZEMDlGenhDNmpsUDRQaHFuQTRnWUQwT3JMRDA3MF92SXJsMF9abk5VWlFjdUdxMWFDbVZzOGdRR3B3YWNFSWI?oc=5",
+        "headline": "AI 투자 과열과 고유가가 미국 경제에 미칠 2027~2028년 파장",
+        "summary": "",
+        "source": "한국AI부동산신문",
+        "published": "07/20 01:16",
+        "published_ts": 1784477793.0,
+        "tag": null,
+        "first_seen": 1784478633.3389804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE55d096SEk3WXhkTmV1Z096eUhnc09MNEY0YzdjbEt3RWF5cHl0cDFDZWNpRzduR1NRVWl2R2FxbFR4VkM4aS1zMWc2UUtsUjRwMVlsU1Jwa255VW5FTEFhYUZ2Zkd2Vk5nUDlmd1ln?oc=5",
         "headline": "한화솔루션, 미국 벤처투자펀드 매각… 유상증자 자구안 이행",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784271549.0,
         "tag": null,
         "first_seen": 1784272527.4147553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNk5Na3B5Mkoxei1kYmdqc3dla1Z4RFRYTDJTWG13emtkR2dJSGEtRDBVVm1CNERVVzRLV3dMSFNydFVIQzRYdl9pMGpOU0hfZ0ZUTFZOMXdYWGRfeDVCNlZOSS1XMDFqWHFISzNwaXJYbVZJcnZiZEE4SFZqdnRhVURlNFFWREtZRjg0Wg?oc=5",
-        "headline": "자본 시장은 새로운 성장 단계의 초석이 될 것입니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "07/17 14:31",
-        "published_ts": 1784266266.0,
-        "tag": null,
-        "first_seen": 1784277044.7587245
       }
     ],
     "perpetual": [
@@ -1258,6 +1258,16 @@
         "first_seen": 1784428309.6828585
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4ya1NRUkJaU3Ewd1dwRTdZZTAwUU5QbWVvWlJVdjU1eERWcERORU1qZDMzY1B4UDROUEZDOW52d2p5MXdRZ1FwQXp5S1FxcHVH?oc=5",
+        "headline": "‘이재명 필연적 실패’ 유시민 발언은 ‘예방주사?’…친문계 윤건영의 말",
+        "summary": "",
+        "source": "문화일보",
+        "published": "07/19 07:34",
+        "published_ts": 1784414081.0,
+        "tag": null,
+        "first_seen": 1784478633.3389804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QOUpKT3IzQU0yODR3SVRiRVFBSVh6RktlcGZTNXRpWWJvT2pMUEdVcTNQVWV1TTk5SWxHNFJiVEQ5VHJUMTFKTXhlVGx1ZVlZRjVrTmVsNmpaMUg5eEUxSUZmSV9xZG9JTDRsenpTSHFjekpvZkxSV9IBeEFVX3lxTE9QOUpKT3IzQU0yODR3SVRiRVFBSVh6RktlcGZTNXRpWWJvT2pMUEdVcTNQVWV1TTk5SWxHNFJiVEQ5VHJUMTFKTXhlVGx1ZVlZRjVrTmVsNmpaMUg5eEUxSUZmSV9xZG9JTDRsenpTSHFjekpvZkxSVw?oc=5",
         "headline": "李대통령 잇단 언급에 '모듈러주택·히트펌프' 주목…삼성·LG전자 사업 확대",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784098868.0,
         "tag": null,
         "first_seen": 1784339125.0631797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3cTBpT3pzRG9YSUt1SUNVNU1oR0c4Y2p6WmxmMm1qdG5oOEdSWnhGNlB0akllb2djWFVUc3AzME11S3dOcFZMV0I4YVd5Q256MF9uMkwwTUNjY3pQaGZIenJ3dng?oc=5",
-        "headline": "'李정부 첫 출범' 예산처, 적극재정·구조조정 '투트랙' 대전환 마중물",
-        "summary": "",
-        "source": "매일일보",
-        "published": "07/15 15:59",
-        "published_ts": 1784098767.0,
-        "tag": null,
-        "first_seen": 1784342726.3862443
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 01:15:45",
+  "updated_at": "2026-07-20 01:30:54",
   "yields": [
     {
       "label": "3년",
