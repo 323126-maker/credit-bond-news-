@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IcVlESnRWY3F3Z25EWmRQaU1GNTlMdG90b3NILXhjNkgzeEtNQ2tseHV2SVdqV2Nnc2Q2OWNNdjVGWHJEc1ZaU0JtVmswaTdyanpGbXRwNnAtYjNhSXdTdVU0QWdtSmJfN09rMg?oc=5",
+        "headline": "주택담보대출 금리 0.4%p 급등…차주 이자 부담 1조8000억 늘어난다",
+        "summary": "",
+        "source": "뉴스토피아",
+        "published": "07/20 08:34",
+        "published_ts": 1784504048.0,
+        "tag": null,
+        "first_seen": 1784504544.8286047
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNQVFJeDdubVdxM3RRRGJZaGNvdzljVTNYdmVZdmtoZjMwNlFaTGJyTktzMmdJQ1JxSXpaSVFqenc3YUpqY01YN3I5WktOV3dFWEZVUlRrODlRNDVtWnZ1Z1FablU5eHVNTjlfeVZLQ2xwdENGVE9RUtIBeEFVX3lxTFBNQVFJeDdubVdxM3RRRGJZaGNvdzljVTNYdmVZdmtoZjMwNlFaTGJyTktzMmdJQ1JxSXpaSVFqenc3YUpqY01YN3I5WktOV3dFWEZVUlRrODlRNDVtWnZ1Z1FablU5eHVNTjlfeVZLQ2xwdENGVE9RUg?oc=5",
+        "headline": "주담대 금리 최고 7%대…영끌족 직격탄",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/20 06:03",
+        "published_ts": 1784494981.0,
+        "tag": null,
+        "first_seen": 1784504544.8286047
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSnJxLWZ4QlVtMktzTkFBU3BwMnhRRXBaTzZIX0xxQkkwcnJENjdPOGRyN004S0h0U1UzU1BsT2k5QXo3MFR3a1laanQ0ckh5T1BlU1hYQVU0bWxyUllPWnJkZXpYQzE2TmZtSnhfbXRMQ2FOYzh3WkVvcGFCR3hQejVSSEsxUdIBmgFBVV95cUxQVU1lQ3piRkRlZmFGeVo2U1N0X25LTlFNUXdXOW9BSDBTTzJzZ3RMdGhqbWZBckJsN3g5cDFfa2d6WDlwSi1kZW9Hb19Yd2ZjaUtoMVdoTzNrbWV5SnNOOEVOTVlZdE54MjB2emM5LUt3TFh6aktSX3U4OVlRZkN3UlFIdVlCS2xLZllEWmd3ZEpPWVJXSEtadW93?oc=5",
         "headline": "[경제 포커스] 국민이 세금 내서 갚아야 할 나랏빚, 작년에만 110兆 늘어 총 926兆 - 조선비즈",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1784156212.0,
         "tag": null,
         "first_seen": 1784160420.7666938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNGo1NE00eDI2bzhlSjJtVzFfektvUFJHLUd5Qmhhb2RtVnhvcXM5NEFaTXNscU5BT1M5Szg5RFd0ZFN6Mk5TcjdUZnhteUN0ak1UZXB6dnVwZw?oc=5",
-        "headline": "오늘 금통위…3년 6개월 만에 기준금리 인상 유력",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "07/16 06:05",
-        "published_ts": 1784149500.0,
-        "tag": null,
-        "first_seen": 1784160420.7666938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tdV8wZFNJZWhpOUs4WjZFc2dKTnZhcHA1R0kxWGpGMDhJR1hvdzRXR0dFTFpFclZFX1FHUEVqSTNidjFRYlpSX1B0SnNLbDhYaEphVWxQZkdaLTBMai1YRnRKTG02UXZr0gFsQVVfeXFMT3dXWkdjRnh5QUNMdkxLWlhiN0p1VVhaT2xJeTc1elBBUTUwNWE2WXlWdnozaTV0c000MlRvVTJaWjduSXpGbkVPaFVPYnl5RGhicnFDX0FJTlFiN1VSWWdRZllPX01KQlZzMGRh?oc=5",
-        "headline": "금융시장, 美 물가 둔화에 ‘숨통’…한은, 금리 인상 카드 접을까",
-        "summary": "",
-        "source": "직썰",
-        "published": "07/16 00:00",
-        "published_ts": 1784127600.0,
-        "tag": null,
-        "first_seen": 1784147972.623359
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 08:32:30",
+  "updated_at": "2026-07-20 08:42:47",
   "yields": [
     {
       "label": "3년",
