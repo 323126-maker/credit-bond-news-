@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Cekx0c2dzS3UwQ3diS09GMVlLRVpCWnZCZHc2enJ2NXZqWGJnTmpuclNqNWdnV2NubXhxRHdsVGMtRG5LRldXMlhqX2h6R0tDRU9JNnljdUJWdEhMS1lGSm5GbUw0dk1xVkt5MkNoMEx3QQ?oc=5",
+        "headline": "증시가 간과하는 채권시장의 '조기 경고 신호'",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/20 07:46",
+        "published_ts": 1784501185.0,
+        "tag": null,
+        "first_seen": 1784502117.259101
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1ZHNHMVo1bEJqSUp5aV9WRXdZa3l4bWx1MGcwQ3BTMWhGNGYxMUttYTdkM0NTQ1VIVWpkaFhIM0pBSXU1cTVSZVhHLXRWZEFJaVgxdGg4UUFYcmRxRUhnZHIwRlhVckVHeFh3a1lTY9IBc0FVX3lxTE96Y19JdmZ2dW55a21hSXcxSEdSN085T1ZMMllrcHh0WFJJQl9TRktmLXBzTU1EeFdZNTVyVTZJaUVfOFREd3ZfcTdacnRRbjlYUnpkb3hJaHQ1bUk1blZQRDhrZXFka3dhTk80LWtJT3R4SDQ?oc=5",
         "headline": "​'수주 잔고 6.9조' 한신공영, 공공·정비사업 양축으로 '내실' 다진다",
         "summary": "",
@@ -130,6 +140,16 @@
         "published_ts": 1784441043.0,
         "tag": null,
         "first_seen": 1784447291.473227
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2UFNTWWtvQV9iSUFGMmFJdkdKYjA2S1dvb2poYTdQUTJjQzljbDFraVB0SmM2U2FwaFNuQW9QYk4xaFpfNjlOaXhTRVJ0RGljOEV3ODJiSTIzbFd2b091UVVXYTE2UkHSAWdBVV95cUxQdlBTU1lrb0FfYklBRjJhSXZHSmIwNktXb29qaGE3UFEyY0M5Y2wxa2lQdEpjNlNhcGhTbkFvUGJOMWhaXzY5Tml4U0VSdERpYzhFdzgyYkkyM2xXdm9PdVFVV2ExNlJB?oc=5",
+        "headline": "피치 레이팅스, HD은행에 첫 신용등급 부여… 견조한 재무 건전성 인정",
+        "summary": "",
+        "source": "국민기자뉴스",
+        "published": "07/19 13:54",
+        "published_ts": 1784436887.0,
+        "tag": null,
+        "first_seen": 1784502117.259101
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jSnd1QkgybkU3MlYyOG1uR1pick1OSlFHNnBtSjZLNExuQUdSNXMwTExVcFJ6MldhcWFfcm1FOThtM3dwOXFJTDlYT0ZEWDMybEo5Vzg4aHpiNEpDVEx5Yng2ZHh5SEVHVDJ3ZklzX1ViUQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1784320262.0,
         "tag": null,
         "first_seen": 1784498439.205368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE91N2lrX3BTa21QWFhhUE5yUm0tY0NIVlc4ZlJXdkhQQzd3bXhfZ2h3VmppQVRlei1kT0lPYUVtMkhaMmNtRXRQZTZhdkVCT3N1dmlMR2xaRklQZWNWcUlrbmhsUGdudk9WcEIzeE1KWGlaUQ?oc=5",
-        "headline": "[뉴욕채권] 단기물 약세 속 혼조…유가 급등 vs 반도체發 증시 약세",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/18 05:17",
-        "published_ts": 1784319425.0,
-        "tag": null,
-        "first_seen": 1784321128.6733422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE84eDlscDVwRm9venlqM21KTkF0TG1TeVFPcmt5Q2Z4cl9sTjEwbUZOV3RzS2RkSVctN3dmZ2FBTTdHM1VMSTA4aUR5YWlqZDJ6WHFvM3hOZGhld3lZdEY1UVVLSXA?oc=5",
-        "headline": "하반기 기업 신용등급 '업종별 양극화' 전망…기업 체력이 등급 좌우",
-        "summary": "",
-        "source": "entv.kr",
-        "published": "07/18 02:20",
-        "published_ts": 1784308809.0,
-        "tag": null,
-        "first_seen": 1784310327.037982
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 07:45:47",
+  "updated_at": "2026-07-20 08:02:17",
   "yields": [
     {
       "label": "3년",
