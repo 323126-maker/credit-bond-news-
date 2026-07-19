@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMGR6Uk9wN25RaF9GamxqOHdBdGFQdUxaSVNraGtHbkFXZnpEWTdzd3RzSmo3Y3VNdlJmTHM4aVREZzZRTjZ5Vkdxd19aaEJveFJJdll2eFVTOGU2NUtlNm00cDRmYU5KWGFFUkRWTXJEV28xaE5tUGowQmFSalU4b3U0SjJpdEhDUmk5TGU5QmVkZw?oc=5",
+        "headline": "WDI: The Yield Isn't Worth the Risk (NYSE:WDI)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/19 20:25",
+        "published_ts": 1784460300.0,
+        "tag": "Global",
+        "first_seen": 1784460631.8411725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93aU5QSHVPWGxfcG5KNVJySmFqMGdMd1Mya1pvbmpIU3pXMGtLNFkxUzdBZzE4MGpfX1FMSnNsRm8yUlZQdFd0OGhYODFjdGZGVE8tTzVyNnNoNEtJaF9pV2FDMkcxeF9YZm54RTNKQjhVNUtLNVJHWVI4SGNNQQ?oc=5",
         "headline": "Federal Reserve chair Warsh touts ‘sea change’ in thinking at first hearing",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1784437961.0,
         "tag": "Global",
         "first_seen": 1784438192.3184807
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0VrcHFfbGNfV3ZaSS1WeFFlc2NQZXM2N2RHSC1neDBmSTlSdWY2MVlocHJGRUE0TlQyMjR3MGQwNFQ3OE5CSFQyUVB0bXYwck5oVFpEWTlvZmRHNkNrOUEtV2E3THpBd0pDUlNYS0lzV01Qdmp1VDVQRFN5Nk1OY19zMjAta1BIaWI1MlF0ZUxTNGFjOUFpQ1JfRG9BY1pVS0llc00yR1RfQWxN?oc=5",
+        "headline": "Fixed Income Outlook Q3 2026: Looking To The Data When Visibility Is Low",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/19 14:00",
+        "published_ts": 1784437200.0,
+        "tag": "Global",
+        "first_seen": 1784460631.8411725
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaGUzaG5qcGsxdTJwWV83bmxDeXJiMjVyTU5DRjN1eHFkRlg1NDdjWHFFUTB6bjBnUVlHRmZEYjFDUl9fMmhldEJTcDFFRlJ2dGpXZVhhNjhlbXowR3M4d2ZCVHNkS2dXbW00dVpaNWg5M3FWNm5GUEZlVU5wUGtaYzZqaWMta3JDYXZfLVpTeVNWQTV0cFMwYUhYeVlLZFBSTWphWENIVzFpeGNtTDNqdUxrcW1GS3lTbWIyMzhpLVRFcWJCQjBxOF9QVi1TejlOM29fNG9WTlg3di1ISnNfeUVnT1dKZE5uTGlxT0hoN2E3RnNyN2lLdXBvdw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784339700.0,
         "tag": "Global",
         "first_seen": 1784343636.61956
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0yT3FJREdlUk1kYjZDR2Y2UzJsaXJtY3FTTzJJQnZmc09vbWRJZHBFUHQ4a2NLSEsxX2NFQWtYczBFUVhMc2JJTENrcDhGckU2N0VwWnp2Tm1SRUtaOXBadHBKclVwZkZOb2NmWWJPY05jRUZpNEtj?oc=5",
-        "headline": "엔달러 환율 예측 전문가 \"내년 엔화 달러당 170엔\"",
-        "summary": "",
-        "source": "thecommoditiesnews.com",
-        "published": "07/18 10:32",
-        "published_ts": 1784338334.0,
-        "tag": "JGB",
-        "first_seen": 1784426521.250031
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMVEd6bWc5d0htV2d5Vi0tdDVGSE1fcU1GMmpOdjJXSzRxcTI2Vmc5ZHg0YTNuWXlMbVROYVNianB1U2NjWHk1X1ZCLVV0Zm5EVDhrQVdvTzFlWWxiZklSRg?oc=5",
-        "headline": "[글로벌 증시 캘린더] 알파벳·테슬라 어닝·ECB 회의·한국 2분기 GDP까지…빅테크 실적 밀집주",
-        "summary": "",
-        "source": "theconnectmoney.com",
-        "published": "07/18 10:21",
-        "published_ts": 1784337660.0,
-        "tag": "JGB",
-        "first_seen": 1784366194.8810556
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 20:15:44",
+  "updated_at": "2026-07-19 20:30:52",
   "yields": [
     {
       "label": "3년",
