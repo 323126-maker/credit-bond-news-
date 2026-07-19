@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPR0NkRllBQzY4YUJ3ZUEwekYyaDUxYmRFOFRTd2dpRTlvUk9wNUJ0el9Bd19fbzhqVDRBR0dXSmRSMTJmNF9tbGlZRGU4VExzT0JwTFlkajVkb3B5X0F0ZFhFcWxxTFpXbkFvd1YzcjVxZzhyVlpOcFA0bFdFR0I4QVk1SUdhNENPcDJNOHBUaU1KMV92cDZMSzNnMHRoVTduUV9yTkI4MUItZTNW?oc=5",
+        "headline": "Bond market still expects Fed rate hikes despite softer inflation data (BND:NASDAQ)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/20 02:56",
+        "published_ts": 1784483790.0,
+        "tag": "Fed",
+        "first_seen": 1784486770.5469847
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSTlZUmpzY19jLVFZODM3amxUQVlwRnVpSlhjMmNNS0ZqTzZmOW16SVZFazd6WnlOa1RLOG9UQnI0M1duTXo2ckt2N2lYNDhmUmdpRlB0S09wTGFVTjhNX1FqSmhCM3Y2aU1RenEwaWtQSUs2dHpDbndIcU00WFRKUjVnTkxCWWpfWVR3Nm03ZU1yNE1xRDdhTTZzZ1lmQ1V0YjVzWi1ESy1VSTM1b3RhclU3QzFTb0J1TVd1MVFKY290NlZwdXB4bzJKc0xZeGZEYV96SWxuUUItdFdPSFYwUlJHLVFLb0x5NjYyMDJB?oc=5",
         "headline": "Vanguard VCLT vs. VGLT: Which Long-Term Bond ETF Deserves Your Portfolio?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784408626.0,
         "tag": "JGB",
         "first_seen": 1784456134.3070874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43azgzVXNTZ3BXZWRBX2ZZeDVZRUY1TXMxUWFFUzNZMkhLbFNjTUV3bnBLQXlvRXFOajB6QXhwOEFFWFFQSmhSTFpkcElFaUt2QWVF?oc=5",
-        "headline": "\"고물가 용납 못해\" 美 워시 첫 시험대…시장은 7월 동결 베팅",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/19 05:01",
-        "published_ts": 1784404860.0,
-        "tag": "Fed",
-        "first_seen": 1784428309.6828585
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 03:32:20",
+  "updated_at": "2026-07-20 03:46:33",
   "yields": [
     {
       "label": "3년",
