@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPX2VkeUp3WGZDSGF2bV9YVU5kLVdOV19EN0pZejc1eVVpZ1JvUkdNQlMybUJDUTc2N3BoczluOFJJWTRDbnJMWi1fbXlRNkJkRmtWRF82MFJJU1g1d3BFdk5PS0VjMUNfTjhhM0hKT3lselNJZHNFMkhnMVJUTFFINU9yUDBvM1E3?oc=5",
+        "headline": "채권 시장의 신용 등급 상향 조정.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "07/19 18:49",
+        "published_ts": 1784454547.0,
+        "tag": null,
+        "first_seen": 1784455329.1998222
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fZm1BVUdvRzl5UmxYVHhuMXJvUGJNWUtKU0Q3d0ttdnpwVG4wUFFFZ2tfZWhnX2VlNVNvUDE3WnZCbEJ0aGJXb3U4REd5NDQ2Ymxv?oc=5",
         "headline": "'70bp 벽' 뚫은 신용 스프레드…금리 불확실성에 매수세 '잠잠' [시그널]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784253584.0,
         "tag": null,
         "first_seen": 1784445322.8011386
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vZmhUQ1pFQlRDS2F3Ny0tUGs2X0pkeTFVVThhZGpmQkg3MFNfTy1YYXBwdlhIcThuTlB3Wk10TnEybEdJQnpQQXZfNm1HazVCczZmS3Biald1MlNNZnhseVo0QW8zWjFnZldFS0h0aTJQWDBl0gF0QVVfeXFMT29maFRDWkVCVENLYXc3LS1QazZfSmR5MVVVOGFkamZCSDcwU19PLVhhcHB2WEhxOG5OUHdaTXROcTJsR0lCelBBdl82bUdrNUJzNmZLcGJqV3UyU01meGx5WjRBbzNaMWdmV0VLSHRpMlBYMGU?oc=5",
-        "headline": "하반기 기업 신용도 ‘업종별 희비’…수출주는 선방, 소재·건설은 경고등",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "07/17 10:51",
-        "published_ts": 1784253069.0,
-        "tag": null,
-        "first_seen": 1784421104.264881
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 18:46:23",
+  "updated_at": "2026-07-19 19:02:30",
   "yields": [
     {
       "label": "3년",
