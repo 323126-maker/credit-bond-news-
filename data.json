@@ -886,6 +886,16 @@
         "first_seen": 1784260839.6723347
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBEN1RiblhpQU9xRFhpMmhIdkczblNLMFBjeGtvN0VQeVpKMENMdG4zUHUyWlE1QTNNdFRIQkZUakIyd19sSzYtV3NBLXR0eDVGYkZDTG9yaEs?oc=5",
+        "headline": "기준금리 인상에 자금조달 부담…기업 ‘유동성 관리’ 관건",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "07/17 08:42",
+        "published_ts": 1784245373.0,
+        "tag": null,
+        "first_seen": 1784473233.0676808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5bUJSakU0UlZyTFhJMEV4WWc4dUgwZ0NjVWtvOEQzQzB0SnNXODR5ODlPN3R2czZQNXdlOXpjb3RaZEJnOWdoZDd4M2JpeGlwQXNidUF3LUE?oc=5",
         "headline": "[뉴욕 금·채권·달러] 달러 강세·금 2% 하락…한은 금리 인상에 원화 강세",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "연합인포맥스",
         "published": "07/15 10:07",
         "published_ts": 1784077625.0,
-        "tag": null,
-        "first_seen": 1784080028.5739875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Wk5DODZUdGpla2ZJeFBJVF9qeXZBQk54c0I3T0ZMNUJDRkVsY1FySElrYkVTM0lUVzhGcWxiUl94Wk8wOEhCamtRNHA5bXRfaUtZX1VxVk94TE14WHVybUVXSFBwaU0?oc=5",
-        "headline": "한·미 10년물 금리차 0.29%p...3년 만에 '최소'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "07/15 09:18",
-        "published_ts": 1784074729.0,
         "tag": null,
         "first_seen": 1784080028.5739875
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-19 23:46:35",
+  "updated_at": "2026-07-20 00:01:03",
   "yields": [
     {
       "label": "3년",
