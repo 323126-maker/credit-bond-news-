@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNQ3JUNG1mMFNpY1dTaHVXTXpxZkJOWVhFSHpwamRRWVU1QjR3anlFWkdjMHRteFZhQ2tIN3BDMC12bHBFNmN3TldHYThSanpyQmh4VnFFVTFGblRfZHpyZzF2ckI5UWF0aldUbXUxbDFyZzQwcldLRGN0bm9YUW10a1NWZzdSZVh4dXlOSU5yTDd4LUN1N1phVlQ1aVRrNURYWEdFMVJQWWd3MzFvNVBKdWhZTHAzY1RsbGE3Zzk4blRSU1k0QTVVZ2h4bzk5Z3IxT1REZUtVb2dxdmczSWc?oc=5",
+        "headline": "Wharton Economist: \"The Worst of the Inflation Is Behind Us,\" but AI Could Face an Overbuild in 3-4 Years",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/21 01:15",
+        "published_ts": 1784564131.0,
+        "tag": "Strategist",
+        "first_seen": 1784564195.307202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTkxJWjBTNVcza285bDAteFl3cDlmUXN5TFhteVJGNTJoamRFQXliU0RMYzNzSW5vWlEwSUREZUJLRjJYVXN5Mzc5Ml9PUGlFUlBxb2VlTW1EYk4wU2dnWUd2RXY5Rk13MjV6VXNkTC0td0VEYTdwLTZrUmNxQXdXMlRBZTMwaVgxWC16aWNKVQ?oc=5",
         "headline": "Could AI-Driven Inflation Lead to Fed Rate Hikes?",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/20 15:14",
         "published_ts": 1784528040.0,
         "tag": "Fed",
-        "first_seen": 1784529031.350206
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRzU5aWNzQ0VCOUlBNjAyc1ZpUzFyT0dxNDBDZUpQLWpjanpSUVoza1YzZkFzV200NFZxcVJMZTVJNVJuMzNyeWg5QVJPWG5QOGVnTHg4eFd2cGlhbHpkR2Q5X2pyTV9WSGhj0gFvQVVfeXFMUHc5MUpSN0tPT3NrV09sTWN3c09LTHZPMDI4RlhxT21BU1FWNjJTTFZfVVlHUG9IdkxSQjRnS29Yb1ZuNnhWQUV6Ty1NdDE3ZWVxNnRfbjZUQWFfWUZXR0h5NVBzQnNHZ2VreE1hNnVB?oc=5",
-        "headline": "“이대로 두면 다 죽는다”…1년 10개월 만에 최대 폭 튄 가계대출의 경고",
-        "summary": "",
-        "source": "더퍼블릭",
-        "published": "07/20 15:13",
-        "published_ts": 1784528018.0,
-        "tag": "JGB",
         "first_seen": 1784529031.350206
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 01:15:54",
+  "updated_at": "2026-07-21 01:16:57",
   "yields": [
     {
       "label": "3년",
