@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8wVXBJb1pHTU9zdnplNU1oQ1poZW93eVhLNHRlX3FWcVhiN3R6Q3BJVjEyX2R2U3A3RmVKMTJSTlllYXRtU1Nadnpzajlpak9nYzBjTjFPaTQ?oc=5",
+        "headline": "넷플릭스, 10억달러 회사채 발행…부채 상환용",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "07/21 04:00",
+        "published_ts": 1784574000.0,
+        "tag": null,
+        "first_seen": 1784576725.471439
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kajNxcGxUS2lZQkpWSDVFdWh6Ymc5RFBLVVJMWU1oS0lfaTdObXN6cm1BLWZQVGp3TW42NFBDQmMxUFlYYlFIZEo5cWhRWnZDS25oQnlLMTlEQVN1WkpuVmRtN2g?oc=5",
         "headline": "국고채 금리 '미국·이란 충돌 격화'에 일제히 상승 마감...3년물 3.895%로 4.7bp 올라",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784507241.0,
         "tag": null,
         "first_seen": 1784515605.714623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2Mmg2Y3I2Y1UwaXNLb0MyQkhJRi1VUzd6NVlBR0VsQW5iYkswSncwQ0Y3VlRTVnN2cy1NY25NZnhRR3FkY2lkaVNNMjdJRHB0dFVIcDRDRjdVdldFSWc?oc=5",
-        "headline": "\"회사채 1년물 캐리 매력 살아있어\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "07/20 09:20",
-        "published_ts": 1784506800.0,
-        "tag": null,
-        "first_seen": 1784511046.0173697
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wSXpVbVBodEVJZS1ydU54NXd1dnJvaE51X1RnSUw2QVZpVTNUVWZmSFZRWTR6NFpqbjJ3MnRhel80cEhSTm9jWUJhQi1VYkF4UlE?oc=5",
+        "headline": "‘160엔 마지노선’ 무너진 일본 … ‘일본판 국민연금’ 카드 꺼냈다",
+        "summary": "",
+        "source": "매일경제",
+        "published": "07/21 04:44",
+        "published_ts": 1784576640.0,
+        "tag": "JGB",
+        "first_seen": 1784576725.471439
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazlxTF9NRVNLVTZaWUhQLW9YNGNpSzk5aHFzMDFDbEdqaHFUTExqQ18yUjMwNlo5VUV4WEIwaEZUYVA4RVV4Mk1GUXZ2aHVjRTZTSlpjOXR2Q2lNSXNlNVlTektmRF84MWg4cW9MTFBabjF6aGtrdmtNUkNoaWdMLVBVa3l1YWVKWGEtWmROVTFQcmNiOHpFOFJ4T0ZHZXlSMVpMVFd0ZXY?oc=5",
         "headline": "DoubleLine bets on stable US interest rates under new Fed Chair Warsh in 2026",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1784556040.964657
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVzYzaHdSTl95M0JMNGJoUEkwY1FZMnlkd1JHS1d0SjlWVnJ6dVg4WHd2Zm1NcDZiVEI2OXRUVTEzMWNwcVhUM2dVUzEtd0t3YmdibHpXaU41VDVQYWEyems1WlZ1dkczdjFzTXlnRmtBTS0wMEpxLVR3MWEzcHhrSTFxUjdUbmk5Z2p6MklrM3hRakpDQkJDaVBYU3IyUFU3a05ZRHpxRlRNVkZNQU1uZURub1NkX2JpRnpFbkhzSjhHWk5NbWxTR3lCOTlFU3F3N0E?oc=5",
+        "headline": "Hyperliquid’s HIP-4 Opens Permissionless Prediction Markets with a 500K HYPE Bond and Slashing Risk",
+        "summary": "",
+        "source": "CryptoRank",
+        "published": "07/20 22:09",
+        "published_ts": 1784552955.0,
+        "tag": "Fed",
+        "first_seen": 1784576725.471439
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwJBVV95cUxQSWg4d20xZVk4SGJZSlBjSFpSeWdUZ2k0Y3FSZzJpTFpuaEpjQmNvcDFpTEdDY19Tb01SQ1ZuYmxfS2FmT3Y0WUlKc0pQaTF3WHFVUlFYRWJNM19NdHRqaG9wd1J0MXhrWUFLSlZucWxOTlc2WE5RbUNtQ1dUTHk1ZmV0OTdJZjZVS3J5OXZ2TVJEd2tuYlh1RTlwSHYzNEpSem42VExKQkVsRlBaV0dPZkxuamZkc3BMcmotMUhnM3lNU0FucTZuQ2hYQzNBWWtHdktVNXE3akc0RFZxSDJ3dkNSa0ducHVKdldUOGVYYTRYeFRxYkFhWU5KWWpkMDVDRjk3MmlCVkZJUXd3NEFGOThGbW1HMmk4Ym12Z2Z0a091OFNRZERyZDJDenAwTENpOHlMT2hkMHBKczBQMkpn?oc=5",
         "headline": "MBA Advocacy Update: Warsh, Vought Hill Hearings Recap; FHFA Proposed Amendment to SCP Regulation; MBA's VA Recommendations to Modernize Handbook; more",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784541600.0,
         "tag": "Fed",
         "first_seen": 1784549723.9913251
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaUtVU19MejZPQ2ZUQkRpU1BDMXE0TjNLS0tFUUxkLU0zLVY1VlVYVXhlaGxPQ2o3cHRReG1EZ2xVQlhSRnRYSE1UN252cUlkX3dyWjB4M28tNWt4cTczTkMwNUEyR3gxeEtTcExtTzJwc2lpZDJxMGdxSHo3UmQ5MmtEZGg3U3hYRWtWNmlQTnBBUGRSRVAyWA?oc=5",
-        "headline": "Inflation is broadening out, says Goldman economist",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "07/20 18:32",
-        "published_ts": 1784539920.0,
-        "tag": "Fed",
-        "first_seen": 1784540725.5037456
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQQVB6amJkUlp5VTNpbWhFTTRRY0xjdEc5Z3o1ZC00YTVPWXhfRUtlamczRHhzYkxNb3ZQMTAxelFwbENUanRIX3V2Y0wtWmNVbWx2X2tNQUx2eUd3VllJOWpvbFlZdnFoRkNIdUc1RXlmWlRiSV9lN2E5V01hMUdBRkdjSF9HY2V2RjRxVDl0WUhLWFZjb0ZhU3ZfVTk5T0oyaDZMd1lB?oc=5",
-        "headline": "The Federal Reserve Needs to Tighten Monetary Policy",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "07/20 18:30",
-        "published_ts": 1784539820.0,
-        "tag": "Fed",
-        "first_seen": 1784547924.331959
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 04:30:53",
+  "updated_at": "2026-07-21 04:45:47",
   "yields": [
     {
       "label": "3년",
