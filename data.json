@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBIWUp1WU9vYzdFVlc3WERhdHNHV052d1QwR0JwdEIzQUhOekVKX0l3Ni1VYXd2QmZZUWR4M180M0VkTjB3bEFzRW9YYw?oc=5",
+        "headline": "Squawk Box: Watch Interviews & Clips, Schedule, Latest News",
+        "summary": "",
+        "source": "CNBC",
+        "published": "07/20 23:49",
+        "published_ts": 1784558969.0,
+        "tag": "Strategist",
+        "first_seen": 1784559640.7416227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRGJiZXQ2TnVXTkFNcTY0dmJlQ2VNUklPY1ZkaUR6YkVlVkp5OU8wSkE3VkZ1bjFuSmZoR3ZKUkVSN2VIVGlLUWtHRE1XWTQ2aFJJN0FWbVgzdkE4bVI0NkpSQ2VHdTdkTzZHVjVYb3N2U1JNU2lFbkhEUWtzTkh0MDQybVdzNUwtbGxEYjhfc0hCTkxrT25uR29sU2VaZUpEUWVzT3hVZ0xOdW5WTUF1U2x6Z2JnU2JFWDNHX2pfbzhMdVZJZ2NRV3JkSXg?oc=5",
         "headline": "Forget the Fed and Oil Prices: The Real Recession Risk Is the $39.5 Trillion U.S. Debt Bomb",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1784549854.0,
         "tag": "JGB",
         "first_seen": 1784553324.294807
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWkJzY1AwWEJrV0g0eW4xaENjekJwNk9IR2l4eU45NXZMQ1lmVlBDSjNvdnUxclVOYWV5MmR0LWVMSDQ5UzJCLVdvelNsRi1Ga3dPcHFSS2ExMjZVbjdxd0h6MndjX0RkM29vdXNWT3BwalBJRnJYM1oxMDUtLW03UUtqLWpvRXdTZm1LblpjeGhsS1pEbTBzVFp3YmlHSm5K?oc=5",
+        "headline": "Indonesia’s budget squeeze multiplies monetary policy dilemmas",
+        "summary": "",
+        "source": "East Asia Forum",
+        "published": "07/20 21:00",
+        "published_ts": 1784548800.0,
+        "tag": "JGB",
+        "first_seen": 1784559640.7416227
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTXNEQWJwcnJ3YU9ISHJhNVBUaW1jVVFxZ2g2OTFoaFhYSEl5WGRDUER5NmNseTR4N1c4eWc4LW1xeFdHSHRrZ0I5Y1FWd0NheDBNcFpydkRiSmJibjlGS3J0d2xGTFowUzNicDlNZXJMZk4zRFdUbTAwMXdNd2FheVJPU2F6bXRtcE5sM1J6S3l5Nm0xeFdLSmgzR1A5QUp6ckRSSUJyaEVpZmVveTNTZk9xdVlUalVla1d6eHV1ZUROYkNIaGR1akdYd0lJa1VzWDlnZGN6UHJWRGNnNjBDeTMxWQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784526425.0,
         "tag": "Global",
         "first_seen": 1784527308.0127165
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3WlI1cGZkZ2FLdUZJaWl0bEpwanI4NUVrTWRFSG4zdGUxUDJHV1lobEw0bVRXUnFGNUs4cUJvTjk2RWFfTklBeVBGZUpBM2laT2dmQVIxVFpBc0pfU0l0STFrZVUyX2hscWpLckxn?oc=5",
-        "headline": "고물가·가계부채 부담 한은 '기준금리' 인상",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "07/20 14:30",
-        "published_ts": 1784525419.0,
-        "tag": "JGB",
-        "first_seen": 1784526486.7023196
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DMHRoSDhnRjR4MUZ0ejhrTVdDQVA1cHlFTFZ2SG1mc0pBbXZlb2pwcnpZa1dlT1Y2Ni0zU2tGRHRSUjRjcHdlM1k3R0pGb3B0dE9OTUxOeS1oX1c5OGw2dlYxNGxjOWk5TFA1RnFORnMyUQ?oc=5",
-        "headline": "GPIF의 매수 추측에 흔들린 日국채금리…시장 왜곡 우려 고조",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/20 14:29",
-        "published_ts": 1784525370.0,
-        "tag": "JGB",
-        "first_seen": 1784531726.714724
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 23:45:51",
+  "updated_at": "2026-07-21 00:01:02",
   "yields": [
     {
       "label": "3년",
