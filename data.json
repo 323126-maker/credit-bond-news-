@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazlxTF9NRVNLVTZaWUhQLW9YNGNpSzk5aHFzMDFDbEdqaHFUTExqQ18yUjMwNlo5VUV4WEIwaEZUYVA4RVV4Mk1GUXZ2aHVjRTZTSlpjOXR2Q2lNSXNlNVlTektmRF84MWg4cW9MTFBabjF6aGtrdmtNUkNoaWdMLVBVa3l1YWVKWGEtWmROVTFQcmNiOHpFOFJ4T0ZHZXlSMVpMVFd0ZXY?oc=5",
+        "headline": "DoubleLine bets on stable US interest rates under new Fed Chair Warsh in 2026",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "07/21 04:24",
+        "published_ts": 1784575442.0,
+        "tag": "Fed",
+        "first_seen": 1784575830.9436734
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPemF6d1hkcllDNGRkc1ducG9lUDNQeVdwRmJqaDJDdHpLSVBzSGF1a19TdTJlTDlBYzFfSm4xV29lRTRLRkxyR2xuOHdONm4tdjFxM3c4Wl9VVVlNSFZheUVsTVc5MjNQSkljX0JtN0lFd0dNdWRoQ0x0NHdaZEs3cjA3UUdtRlJMendDVUc4SkFCLURncDEtOGtWbFJPSG5LajUtTzNQUUJKendGRWlfWTE5NFI4R2owOGpoZklHeF9LU2VyUHpn?oc=5",
         "headline": "Nine nights of strikes send Treasury yields toward danger zone",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784539820.0,
         "tag": "Fed",
         "first_seen": 1784547924.331959
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1PT0p2WWQyU09DY3EzRGNNbDNUTV9XeUNselpJMTdyTFY5ZEo1U3ZRQ1NVdGF1eWlKaE5uTTFZU0ZLT1FjNngxWUp5YlhHYzF0RHh1eUdxRGpES3IxMGRQaloxR1hKN0k?oc=5",
-        "headline": "‘인상파’ 워시 의장이 말을 아끼는 이유",
-        "summary": "",
-        "source": "한겨레",
-        "published": "07/20 18:15",
-        "published_ts": 1784538900.0,
-        "tag": "Fed",
-        "first_seen": 1784539829.7780058
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 04:15:47",
+  "updated_at": "2026-07-21 04:30:53",
   "yields": [
     {
       "label": "3년",
