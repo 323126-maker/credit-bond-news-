@@ -12,6 +12,16 @@
         "first_seen": 1784519127.3307853
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yX0hHWEU2cmJKM0RwTElDU3JZbHBMM2w1NnhiZ2NqNjhyQVFZU0JlRTdKRXVPQXFtS3Bqb3F1U21aVmR6WXlvTDBsb004eFVWWlMyUF9BRUpoYS1sdDFZajc4N2hZTDZYTV9hd9IBbEFVX3lxTE0yX0hHWEU2cmJKM0RwTElDU3JZbHBMM2w1NnhiZ2NqNjhyQVFZU0JlRTdKRXVPQXFtS3Bqb3F1U21aVmR6WXlvTDBsb004eFVWWlMyUF9BRUpoYS1sdDFZajc4N2hZTDZYTV9hdw?oc=5",
+        "headline": "주춤하던 채권 금리, 국고채·회사채 동반 상승",
+        "summary": "",
+        "source": "엔지오프레스",
+        "published": "07/20 11:37",
+        "published_ts": 1784515058.0,
+        "tag": null,
+        "first_seen": 1784520034.0894525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jYmZUN1dqYU44aGNmbkYwYXFRZVZKUVIxRnRzMmNHdnE2LTc2NEpId01KUkxGWGRiWkpHbGFBNXpXcU9sRGd4YWVETnhZTEctdzNyOXljaFZXWDlMSzVncmpwWXdxd1VUS1ZCaHFkSTJrYkwzdVB2TQ?oc=5",
         "headline": "\"우려 덜었지만 방망이는 짧게\"…단기채로 몰리는 매수세",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784424598.0,
         "tag": null,
         "first_seen": 1784425582.7592695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43c0t5aTVFOTJ1clNQdnBNZTZSTER0bVp5Q3FsQXBsLVdWMGNHSkFLbzdLSW9yb0QwRGhnWWVvWWlYb1lzWmZvc0xJZE9WTDNfSFdMYjlWa1NMak5mQUpFb21QOGI1Q2Qw?oc=5",
-        "headline": "이번 주 크레딧채 2조3천억원 발행…20일 물량 집중",
-        "summary": "",
-        "source": "CBC뉴스",
-        "published": "07/19 10:22",
-        "published_ts": 1784424120.0,
-        "tag": null,
-        "first_seen": 1784424631.9976423
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 12:45:51",
+  "updated_at": "2026-07-20 13:00:55",
   "yields": [
     {
       "label": "3년",
