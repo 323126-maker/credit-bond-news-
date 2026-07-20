@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQXBTMGFnWDJvR3ppT0hFT201OHRKUFE5YTJHbXFTUU5KTmhRLXpaSng5d3Y4TUJjQmVVSi1oTmVYS3lLYXdGdHdnRWcyZHJxU3l0d0NCeWpZbm5MZzBjUHV6TUlLRnVVSXp2eUFpMlh4QzZKMmlWamo5UjNDdmVZNU0zQmJQdElXc0tZbFpqc1RkcGFKOF92THFfZlBEX25xSTBIN1FzcTcydjg?oc=5",
+        "headline": "Don't be fooled: Why Fed Chair Warsh's tough talk could be the real deal (SHY:NASDAQ)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/20 21:49",
+        "published_ts": 1784551796.0,
+        "tag": "Fed",
+        "first_seen": 1784552435.9765632
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRVB5alFBck1CWEtFNHJVVk5fTGlIVV9TUkxCXzZLUXlRbXQzazlDNXcwc3d0TDlmMUZsNHdJVDJieUoyeWZsUnBCc0pxclVGR1V2YW5JZ3NBS2hIYWM5UUVxUlM0d3dockp4aVNSX2RvS1R0WmRndnZ5Qk1WM2JRZUxUcHpUdTZld3ZXOVlYa1daQVhDTXIwZHBMeWotRVFK?oc=5",
         "headline": "AAA bond PM: ESG impact doesn’t mean sacrificing returns",
         "summary": "",
@@ -1950,6 +1960,16 @@
         "first_seen": 1784546124.6300707
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jWUhzMjA2b2hPQjgwaGdkWXFDSklPaXNfaWxveWhBMGhiYWtwQlh0dW9pZnZlVW1MUFptR2E2MmxmbGdVMUZkWjF1VDRmMUltSUJZ?oc=5",
+        "headline": "[아시아라운드업 20260720] 일본 ‘핵 반입 금지’ 재검토 기류 확산",
+        "summary": "",
+        "source": "kor.theasian.asia",
+        "published": "07/20 13:45",
+        "published_ts": 1784522700.0,
+        "tag": "JGB",
+        "first_seen": 1784552435.9765632
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXNhUFplSXhMcTF1WlBBMnFuNDdhcXRBSnVxV1hiV3FtaFJLUHZ1Y1hhWE9kMmJVbkZmS2VmOExHT0l5bjFuYXdXdGU1ejhNQjY5dWdJc1lTVDhKRmt3RndVV21KOHUyQ1FZeHZQWjN2WHZtY08wb3pZWnZwOGtQVy1tVXE2a0dyNlJtNEZqeDJoYy1NbzY2YQ?oc=5",
         "headline": "Fed Chair Kevin Warsh Vowed to End 5 Years of High Inflation in First Congressional Testimony",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784521008.0,
         "tag": "Strategist",
         "first_seen": 1784524650.2215114
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYTE2cXctcGl4ZGZpVnZfTENieG5pTjAxWm5aZjNBRXptQURjdjZNOS1qeTlhc1JhTDczaFZQa1ZpWTZaTnUtS1NuRFNMSmcwcmFIb0k3TThFSGtqOE9xa0pGNk9kd2loVmlRTkNGY3RkaE1kRzQ1dEkwMkt4bEV3NTVvNExRc094SmtOeGtaRDRzb0R1T0hXYlhQUDVWanlVZC1LT3lsUS1XdWRTck5aLQ?oc=5",
-        "headline": "위안화 환율 변동은 중국의 통화 정책에 어떤 영향을 미칠까요?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "07/20 13:13",
-        "published_ts": 1784520780.0,
-        "tag": "JGB",
-        "first_seen": 1784522006.7416859
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UY29fOUFHT04xeG51Mzl1VUw0amNYeWtDRGh3UDE2UFZDbWlDRlhoMDNDc2lWODVjSkxqVGN1bk5zLU5BRG1pRENmM1Nmemp4aldZ?oc=5",
-        "headline": "[국제동향] ‘키미 쇼크’에 미 반도체 흔들, 中 알리바바·BOJ·중동·우크라까지 동시 압박",
-        "summary": "",
-        "source": "산업종합저널",
-        "published": "07/20 13:09",
-        "published_ts": 1784520569.0,
-        "tag": "JGB",
-        "first_seen": 1784527308.0127165
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 21:45:51",
+  "updated_at": "2026-07-20 22:00:58",
   "yields": [
     {
       "label": "3년",
