@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxQld6ZWVFTHJhbEd6NXpIN1VYVTl4N2hNeG9ycDk0bWVFRE9LR0JHQl9VWHF5Y3RDX1VPMmF0LXZOMEJDNFBFbVYwR21pYkMzbGJ3STcwbDVMdkYxSHdOM05nR0laVnBzN2NZTWlUdWF3QQ?oc=5",
+        "headline": "금통위 재평가 속 심리 취약…국고 3년 5.6bp↑",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/20 11:15",
+        "published_ts": 1784513715.0,
+        "tag": null,
+        "first_seen": 1784514632.659345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5vTzZRWVpRX3hUcE1nMXM4V2RzREUtOXhLNDJJZENrZC12QkxnUkZZcFU1a1QxQl9LdnhIXzJQVHdHQ0NWcU5IMXZ2Ml83aDBmTFYyZWd6S3BmcnE4NmF1OG1ybU9JTEJFQ013?oc=5",
         "headline": "기준금리 인상 직격탄 맞은 중소기업…연체율·부실채권 동반 상승",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784163926.0,
         "tag": null,
         "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKdnk5YlNSUW52UVdVckl3TDczS1VPNlB0T0ZFSEkzSmQ3cmhZRU1hS092UEN1cWJMcTdpZ3RfUVZNdFJfV2JKQnBjaHFkN0hpSEdSMThyNUxRMFdv?oc=5",
-        "headline": "한은, 기준금리 2.75%로 0.25%p 인상…14개월 동결 기조 '마침표'",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "07/16 09:59",
-        "published_ts": 1784163540.0,
-        "tag": null,
-        "first_seen": 1784280632.9234478
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-20 11:15:45",
+  "updated_at": "2026-07-20 11:30:52",
   "yields": [
     {
       "label": "3년",
