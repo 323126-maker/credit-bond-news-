@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPOU9jb042TURtbVJNNXU0RzhYWC0wQU1jRzBZTFZsdFlsRFBNQ2RYTDVRR3BYWHlkX1EzMjIxR0R3SGJFeTdsQ2FxWm1TVGpVeWVF?oc=5",
+        "headline": "李 발언은 당무개입?…쟁점별로 검증해보니[노컷체크]",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/21 05:02",
+        "published_ts": 1784577720.0,
+        "tag": null,
+        "first_seen": 1784578526.841688
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ya3VVejU3UmlwbjdiekNRYUtjaTF5ZXQ5RHJnRF9ib01BOVBHUUUtM1k3eGoxMFJ0elB4XzRJQzRGN2IyZWFZUXluSi1IYVc4ZlpvNXBPV0pFeUllZThLY2FtbkVqeDc1aE9maGtn0gFuQVVfeXFMTnJrdVV6NTdSaXBuN2J6Q1FhS2NpMXlldDlEcmdEX2JvTUE5UEdRRS0zWTd4ajEwUnR6UHhfNElDNEY3YjJlYVlReW5KLUhhVzhmWm81cE9XSkV5SWVlOEtjYW1uRWp4NzVoT2Zoa2c?oc=5",
         "headline": "李 ‘전대 기탁금 발언’ 둘러싼 당무개입 공방",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1784114074.0,
         "tag": null,
         "first_seen": 1784186838.3176548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3a2RnN3N3NmdReEU4aGhBMnA5QnotS0c4aEFmNHdCTm1NWlc1WFFTal9na3VLbnpndzR5ZUNfSGxmOWNZWmtReVE2VjlEM2ZtbFFSamJxal9WVFEtTjFLSUlIMUw4RF9zRGc?oc=5",
-        "headline": "이재명 대통령 “국민 체감 국정 펼쳐라”",
-        "summary": "",
-        "source": "인천일보",
-        "published": "07/15 20:03",
-        "published_ts": 1784113380.0,
-        "tag": null,
-        "first_seen": 1784296840.943878
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPWVUxUDJhZFRRQXE4SWtnZmpfcnRid3IxWDBsU2h3WW51SFF4QUZ5NnpkTG9pNVlGMnVpTTdBZ1NYVzhZTGRySWtJcHFxMngxd0U3azNLZmRZdnhHMTNCQ1JB?oc=5",
+        "headline": "[야고부-김수용] 호네부토 쇼크",
+        "summary": "",
+        "source": "매일신문",
+        "published": "07/21 05:00",
+        "published_ts": 1784577600.0,
+        "tag": "JGB",
+        "first_seen": 1784578526.841688
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3djQ0NNb2JabXlHVmlrRWJIY3cxM2hrVGs5dXFtanMzZW1BbFlDNlVPblY5RXdVOGx0X1RqNXMzWnNsVGlKUklRcDFDejhZeWI4N2hFb2xjODV5anBZNGtWOWZmWTBJMU1FYWtuY1U0MWMzckp3ZENOQnZ4ZGRaZXRkMndLZU5pbjkxdHZySnNGcTdTTXlRbGFLdWhRQ1QzWGZlTy1Oelk?oc=5",
         "headline": "Will Warsh Break the Fed's 56-Year Rate-Hike Streak?",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784543153.0,
         "tag": "JGB",
         "first_seen": 1784544325.748608
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWENIWXFJQnBZUlZ4RkU5UEctMXhNRm1xbkZyZS1VaHZTRml5NTBYQ0x1ZVFqYjM3SWRpeE9fRmFxMkxXS1d1SVJmbE9Hd0ZOSFN1ZVF1bVBYbVRSdFFPWk5RVlFUYUVxSHhmLUMtWmFWcnVhdG9ENXlXbDVuUEUyeFZHUUozMmI5RXVESUhPVzd6Tm9Wc1RvTVRGcG4?oc=5",
-        "headline": "New USD/JPY Analytics Quant Finance Terminal Combines Two AI Models With Central-Bank Data Sources",
-        "summary": "",
-        "source": "openPR.com",
-        "published": "07/20 19:23",
-        "published_ts": 1784542998.0,
-        "tag": "JGB",
-        "first_seen": 1784550632.656531
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 05:00:58",
+  "updated_at": "2026-07-21 05:15:59",
   "yields": [
     {
       "label": "3년",
