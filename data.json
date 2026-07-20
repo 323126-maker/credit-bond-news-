@@ -182,6 +182,16 @@
         "first_seen": 1784511046.0173697
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFA0ZGhUbTlHTUdrLW1RLXdLbElHNlNmQldoUjhlZXhPZXV3ZXlLWDBqeHcxTmJMNGlRSFMwNTZmOW93Y3ppNWdKUnVR?oc=5",
+        "headline": "스포티파이, 시장 기대치 못 미치며 하락세로 마감 : 해외증시",
+        "summary": "",
+        "source": "재경일보",
+        "published": "07/20 09:43",
+        "published_ts": 1784508180.0,
+        "tag": null,
+        "first_seen": 1784529031.350206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yR1RmQkQ4NFFuazlZQ1FPVDRFRFFESy1UMlotYXFPSlNsVkxuUHZGZjZXVjVXVG0zRG16bktEdkJxTXhodjU5NDhKa2VJSTZYNFU3VWZrQU5oZFlMUW9IZzJ6Sk1XVTB3dWdZMA?oc=5",
         "headline": "LS, 일본 JCR 'A0' 신용등급 획득…국내 신평사도 일제히 전망 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784449941.0,
         "tag": null,
         "first_seen": 1784505646.3268209
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fZm1BVUdvRzl5UmxYVHhuMXJvUGJNWUtKU0Q3d0ttdnpwVG4wUFFFZ2tfZWhnX2VlNVNvUDE3WnZCbEJ0aGJXb3U4REd5NDQ2Ymxv?oc=5",
-        "headline": "'70bp 벽' 뚫은 신용 스프레드…금리 불확실성에 매수세 '잠잠' [시그널]",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/19 17:32",
-        "published_ts": 1784449920.0,
-        "tag": null,
-        "first_seen": 1784450723.3579924
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSlFUQkpSbTBlWWVHUHVRUm90VW5IRWpOcHF1VndfbWFLUFlOdXUxU01naUI4a2pJanYxQ2JIZ05mb2hVTFcxTjRYM2RuSXFHY2dDcTBSSGJHSWxoMHhLWUNOd2tGUmlLSllRWFhwRHU4Q1ZxLXl5cVBXenVJT2ZJcDlKUWY5STlq?oc=5",
+        "headline": "[김대호 인물] 크리스토퍼 윌러 \"비둘기-매파 어지러운 변신\"",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/20 15:14",
+        "published_ts": 1784528040.0,
+        "tag": "Fed",
+        "first_seen": 1784529031.350206
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lRzU5aWNzQ0VCOUlBNjAyc1ZpUzFyT0dxNDBDZUpQLWpjanpSUVoza1YzZkFzV200NFZxcVJMZTVJNVJuMzNyeWg5QVJPWG5QOGVnTHg4eFd2cGlhbHpkR2Q5X2pyTV9WSGhj0gFvQVVfeXFMUHc5MUpSN0tPT3NrV09sTWN3c09LTHZPMDI4RlhxT21BU1FWNjJTTFZfVVlHUG9IdkxSQjRnS29Yb1ZuNnhWQUV6Ty1NdDE3ZWVxNnRfbjZUQWFfWUZXR0h5NVBzQnNHZ2VreE1hNnVB?oc=5",
+        "headline": "“이대로 두면 다 죽는다”…1년 10개월 만에 최대 폭 튄 가계대출의 경고",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "07/20 15:13",
+        "published_ts": 1784528018.0,
+        "tag": "JGB",
+        "first_seen": 1784529031.350206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUzVvem9JZ1lUWG9TUkVlc1pOSXFZRHpxa2VReDNKUnNmOUhoTGstRmNPd0hqQnpIR0JFaUZCU2lDRVhvZTVxdTAwQUdROGdTYzdxVjhQdGVfd0FqMjZZeHNsOXdCOTRINVIzZ0RwR3RNUlJtX21VVnBYX0MyYm5McHZDWlNLdGhWZlJwWWl0SGVBU3FsLUJXLXVQb0hKeHhVY194bkhzNDlLLVJJbW5Tb2RvQ3VhNWxpMVJ3OEVydWdtY3A0UDRrS3pNZUtKaXJGQlBsN1dSdDB3UGU3OGlR0gHkAUFVX3lxTFAyb2xQbmFnWVBjZzU4SkZIQU1aUDY5U050WjU3RVAwLXFIUmM1YS0wdmxyQTFoakhweV9ES0tKTmxsNEJ2WHZGQzB6Y21zUTNmQ3ZRclhFVFVWSk1INmhqellhWGN2OGx3WXBkRVFrZkQtV0w0a0lUeS1EMUJvUFIxREtLWTY4Z0FlUkoyb0dmUWoxMmJYMDBVQ0syRVM4TlY4RldUdlNxU2ZacHJpUUtqaThOMVRwTmlSRkR0UDRwR3E4MnNGRVo5VU9DTGVPYlpqYVhEY29SNlQxZS1wTnZyUTYtXw?oc=5",
         "headline": "‘You’re only buying time’: Shankar Sharma says RBI’s FCNR(B) plan will fund FII exits",
         "summary": "",
@@ -1810,6 +1830,16 @@
         "first_seen": 1784513723.9017012
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE04SkRPOVR3U1dIZDRjTUtEWl8wc0RGc090bnN0REd3M3BIcjhrSTBDTGpGemlYUHIzVFBPNkJUU1dRNjdxNGlVOFBKbmRnaC1XRTExMzEtVU52MTBrTzVtbUpwTFhqTjh3ZW4yWkVxMDBLUlhlVmc?oc=5",
+        "headline": "Treasury Yield Curve Acts as \"Proxy Rate Hike\" as Warsh's Hawkish Stance Anchors Expectations; Markets Await September Window",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/20 10:26",
+        "published_ts": 1784510760.0,
+        "tag": "Fed",
+        "first_seen": 1784529031.350206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOT3otemVvZHJFNnR2cjBKUFAzT2pYTkN1MDlwUWU0NlI2RGJyNEt5Sk1QVXhVbVBhcUg3cVZrTGF6UzhkeVJsRzlYT2JwLVA0Q2hBQ1czc291MG43dHZjd1NYNVFhU0ZhdVh5UWtQWi11VG4tMHpneHQ1eXlxTWhTMEVveWhrOWVyMlFrd3pwZXhFZy1PbGlUNzlDdlQ?oc=5",
         "headline": "Rate hikes are imminent! Warsh and the bond market agree: the Fed’s fight against inflation is far from over.",
         "summary": "",
@@ -1828,6 +1858,16 @@
         "published_ts": 1784509600.0,
         "tag": "Strategist",
         "first_seen": 1784522727.0657098
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GOEcxRWhudms4Q2pLb2VHRDBZSE9YV3RnRWpaQ2Rha1NobDJnRXMxUEh4ZmNWUDVtOEQydk02b1pOdjNCTG9SaVFHdHQta0tBcDJJb3dOTGFBRFNfa2J6ZUt6UHp5TDA4NHBrXy04SWFfV1dBTVE?oc=5",
+        "headline": "Fed Chair Warsh Declares War on Sticky Prices, Markets Brace for Rate Hikes",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/20 10:05",
+        "published_ts": 1784509500.0,
+        "tag": "Fed",
+        "first_seen": 1784529031.350206
       },
       {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcURackp6ajJONWdObUlfMWdtN0tidXljbE9TTzVEN0ZRcV9pNTVpRGd1c2dWOS1nOTNWYXZUZ2tEUHZsdEczMVBZTnh0RXRBeE40UEtYNEoyZU41a1V3RWRqQVd4ZXgtTF92ZkN5QVgxWklpRHBobjBtOGJEWnJjSnFzaTdlU0dVcGJjUzE5bkZZYTlNbDg3YWpyWVBIMVU?oc=5",
@@ -1968,49 +2008,19 @@
         "published_ts": 1784482077.0,
         "tag": "Fed",
         "first_seen": 1784483199.3306775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdGtCZlNSdFJ4NHBmTEg4RTdBX3JyTWJ1dmM2UVY4U2pLU0llSVZoZHZKdTZzdXhkbFFRUEpMVG1iVE43VEl0UERraEkwV055RXJkV0NWRWN3UXNLdEtYek9KWVlLSDVUMWZWeVVmN3BZTFlsRjNPNmZRRzB1cEdsMEJiWjFUSUJCT0E?oc=5",
-        "headline": "Oracle's stock crash looks embarrassing for billionaire founder Larry Ellison",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/20 02:27",
-        "published_ts": 1784482058.0,
-        "tag": "Global",
-        "first_seen": 1784502928.214872
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNb0dGMkFham00czdaTWYxdU0wcHh1Q1o2b1FBdmd6QUJXSlR1ZFF2eFN0YWRwcnN4V0xzamF1TVNLUktpYjg3d0RVV0tZejB0MEpXZTl0czJnaVA3VEJRbTd4MENMWUVGYTdiX0xrYWRKSHhVR1dNS0FFcTBTWTc1elpB?oc=5",
-        "headline": "Larry Ellison Was Once the World’s Richest Man. Now Oracle Is Down Over 50% While He Bankrolls His Son’s Fight to Control a $110 Billion Media Empire",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/20 02:19",
-        "published_ts": 1784481578.0,
-        "tag": "Global",
-        "first_seen": 1784483199.3306775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdHNBUVZldGYzN3pIWVFLSWVEMGlySHg2RUxZUmRfUVdoVmdKM3FzWGROZFFDWlZ0V2lvc3JXeFB0R2NKOXRsZFFYbDcyZm1ZUkJjZUhDOW5nSjRTTW9pRFNzdFNRUHZodURnRkV2SWZxNko1Qm9QbkVuWDR6eGxZbHc1TTY2QQ?oc=5",
-        "headline": "Kevin Warsh, the Fed, and Gold Prices in 2026",
-        "summary": "",
-        "source": "Discovery Alert",
-        "published": "07/20 02:12",
-        "published_ts": 1784481167.0,
-        "tag": "Fed",
-        "first_seen": 1784511935.872552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1BZFFOWWFYczhFOWRYcGxDYlFNc2EwLUg2U3ZKMjg5X0R2Z3RUSDc1elhYQU5JLUhJLTJEOUNKSkk2ODJKb1MxRkFEZXhpR2dDUmJEZmhBR291am5QVW1Hd2VuOVBjWGd0Wl83RUdpTFo2d2hGSzh4U2t6aDV3QQ?oc=5",
-        "headline": "“Is the U.S. Fiscal Outlook Japanese?” Or “Is Illinois the Same as Japan?”",
-        "summary": "",
-        "source": "The Unseen and The Unsaid",
-        "published": "07/20 01:03",
-        "published_ts": 1784476986.0,
-        "tag": "JGB",
-        "first_seen": 1784477724.498976
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE00b2dOTFVOWHluVm15UTFEeE9jT1VPbDU2WHlFV1F6MmN3NnFSd2NvZkZrSjZVMVE4ZXpSQk8zWXZ0T2ZSeFZzT3BtbzJrNjBOdjJPVDBvZDZ0anVzMGJiaGJuWG1qaXlnWEI5MWlNdmNwS2M?oc=5",
+        "headline": "[이슈] \"채권으론 수익성 방어 어렵다\"...삼성생명, 대체 투자로 눈 돌린 이유",
+        "summary": "",
+        "source": "오늘경제",
+        "published": "07/20 15:22",
+        "published_ts": 1784528571.0,
+        "tag": "삼성카드",
+        "first_seen": 1784529031.350206
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxeGlSZm5LaVU2LVNZVVBiU2N3N1RSZDh6eGtMaHNkS2xVNTkzMHo4TTdLczd5NFo3cmVwN2MxS01WZGozZFJpLXpBSjByTUNQeTVoNW5B?oc=5",
         "headline": "삼성이 푼 돈 벌써 1조원…국민에게 한 '약속' 결국 지켰다",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784161542.0,
         "tag": "우리지주",
         "first_seen": 1784167726.8348706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9BUTdGN0JfVldycUQwTWpDdnItSTJwWEoxVm5HUTc4QmlVTE1GY2pyX1pHSjVVblZDbGw2d29hdlctcGtMSUx5cFFDZU1BTEZZclhDQXZtX29CLTJxRlJtQnlwQWVGT3RZVE1CS2QxS2xhRmNm?oc=5",
-        "headline": "카드사, 휴가철 고객 잡기 분주...여행·레저·쇼핑 혜택 '풍성'",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "07/16 08:31",
-        "published_ts": 1784158260.0,
-        "tag": "삼성카드",
-        "first_seen": 1784160420.7666938
       }
     ]
   },
-  "updated_at": "2026-07-20 15:23:11",
+  "updated_at": "2026-07-20 15:30:52",
   "yields": [
     {
       "label": "3년",
