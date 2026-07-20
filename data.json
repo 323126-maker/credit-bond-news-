@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQT3djQ0NNb2JabXlHVmlrRWJIY3cxM2hrVGs5dXFtanMzZW1BbFlDNlVPblY5RXdVOGx0X1RqNXMzWnNsVGlKUklRcDFDejhZeWI4N2hFb2xjODV5anBZNGtWOWZmWTBJMU1FYWtuY1U0MWMzckp3ZENOQnZ4ZGRaZXRkMndLZU5pbjkxdHZySnNGcTdTTXlRbGFLdWhRQ1QzWGZlTy1Oelk?oc=5",
+        "headline": "Will Warsh Break the Fed's 56-Year Rate-Hike Streak?",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "07/21 04:50",
+        "published_ts": 1784577032.0,
+        "tag": "Fed",
+        "first_seen": 1784577635.78294
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8wSXpVbVBodEVJZS1ydU54NXd1dnJvaE51X1RnSUw2QVZpVTNUVWZmSFZRWTR6NFpqbjJ3MnRhel80cEhSTm9jWUJhQi1VYkF4UlE?oc=5",
         "headline": "‘160엔 마지노선’ 무너진 일본 … ‘일본판 국민연금’ 카드 꺼냈다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784542998.0,
         "tag": "JGB",
         "first_seen": 1784550632.656531
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU25Oekd5VmpNX0huSjNvQm5odUFhS3RfQVF4MmZsZ1ZGSXN2VjZ1Rl90NWxPT19RUWtvRTd6eFpFakFDVlhpNTVEM3U2aVVTejVSR1l6d2lpd3FFdFY3d1FoU01PMXd2clNtSGIydFhfYnJsSjhfT0JDSjhmZkJZeGJKU3RRMFN0ZFNvUS1GYTU3dw?oc=5",
-        "headline": "What comes next for the Fed's regulatory independence?",
-        "summary": "",
-        "source": "American Banker",
-        "published": "07/20 19:00",
-        "published_ts": 1784541600.0,
-        "tag": "Fed",
-        "first_seen": 1784549723.9913251
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 04:45:47",
+  "updated_at": "2026-07-21 05:00:58",
   "yields": [
     {
       "label": "3년",
