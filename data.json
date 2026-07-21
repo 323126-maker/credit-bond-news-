@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYU56WUlMTnQxa1duV29MeVhqNzZxQjlwUEhMaTAwOW5CU24tT3NDLXhLQjZpbGZ4akRlcHJ6SXFYU3g0OE5LTFdJVHk0WHBNRFFBTWRpRHRKd3pUYlItYmdrdVZETzF4RGo0UHpXV1FsQjNSU25sLWoyUTZWRmg3ejB3eEhLMFM0TWVLVnZCcUpOYkhreUVLb2lnTDhpQzJGSEF3?oc=5",
+        "headline": "Why Rising Bond Yields Matter More to Gold Than Investors Realize",
+        "summary": "",
+        "source": "StoneX",
+        "published": "07/21 20:27",
+        "published_ts": 1784633257.0,
+        "tag": "Fed",
+        "first_seen": 1784633428.6759114
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFp2UG9RTGQ2QW1GX1EyYUVzc0V4SnNQQ21ndndsQlE3QXNIMXBPRHJvVlRsWjBNS0Jjc1p3dGdVTjhSNEY0ck4wVnA0ZTBzRk5JamUwM3dnTWt4c2J2Z2lDLU45alFORDBGZ0RXY3RvQlRXal94UXFDb19yMXVpWHRCaE01NU8xdXhGbmg5aDZsTFk2NmFZWVJwMk1qeWdkU3pLZWJBYkk2RWlsQ2lwMVpTNWM?oc=5",
         "headline": "Takaichi Bets On Investment-Led Growth As Markets Worry Debt Risks",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1784630286.0,
         "tag": "Fed",
         "first_seen": 1784631641.6838844
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX193YlVmSGtIR1FZRkJUVnJVeUJiM2lTUWlCNDFaOHMzY25vdFBRQUh0VE5lSURwWTFEMUR2MzZGX2ZVVXNFbE95cC1Pc0JIckVTZUFCdk5CeklYOVRRVVRoMVh4dGJtNWRFazVaNHZyUWNfUTVMejBYdXJ3NzY5ZjMtMWZSeEgxVE1IXzhxTlU0YU0yTXE1bUpieWxUb3MyUzVXUQ?oc=5",
+        "headline": "Dimon fires warning shot and wider industry reaction to new UK PM, Chancellor",
+        "summary": "",
+        "source": "Retail Banker International",
+        "published": "07/21 19:30",
+        "published_ts": 1784629854.0,
+        "tag": "Strategist",
+        "first_seen": 1784633428.6759114
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HTS1aQ1JQdXJCNDhrTUNHS1NMbEdkWHBLajRXUmp3RUxKcGVfeTdGd055amtDMWJWUVFOUFZ6QkdEcC0xWVNoUkpIS1h2N3h1SVNDMDdsdFpiQQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784616173.0,
         "tag": "Global",
         "first_seen": 1784628043.9960995
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82bnBmRlNIc3ZsRUJzLW1vNzhsWnlvYWRQRHh1Y0RUc25HTk00YnNmQkZNN1ZBeW9neEtaMi1pdG1OWnhxaXlxVmdaSDVHYlJObFlvY3ZHMWJ4WHFjUWJIQkh0Vm5DSU5K0gFuQVVfeXFMUFFTZEVhZk5yYTN5aEtRZ0hVNFpUaUp2OUNQNDg3eWtBM2NUQ3FHMDBIQ1ptNWFUbm9KeXItV1prOUxaNVduQlBxVkxHVkRGOG5EZkpOQU9xOVFPNlprdU00U1VIMUhOUElDc3VCVlE?oc=5",
-        "headline": "월가, 침묵하는 연준 생각 보려 이런것까지…'워시GPT' 개발",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "07/21 15:40",
-        "published_ts": 1784616018.0,
-        "tag": "Fed",
-        "first_seen": 1784616423.3197417
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1GNzVlM19sQzZxeHF3eXFteW5DZnRrOURUM1VjOHo5TkRBRFBXcW1LZDZlUzVoWGdhRHRzUGFmdVc2XzFQUlRkQWEzeHRWMzRUeXI4NklZaDZHUQ?oc=5",
-        "headline": "日, 재정건전화 지우고 370조엔 투자…'다카이치표 적극재정' 시동",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "07/21 14:22",
-        "published_ts": 1784611337.0,
-        "tag": "JGB",
-        "first_seen": 1784611828.7718732
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 20:15:49",
+  "updated_at": "2026-07-21 20:30:50",
   "yields": [
     {
       "label": "3년",
