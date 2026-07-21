@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sd3FnY2lrdFdHelZqVGt0cG42eWVCMU1FLVVlQjNzNHF0dmtySmlSM193SEZNRWYzT2JXa3Z4MzhpMl91anY3SzduUW1UYVFWY0E?oc=5",
+        "headline": "국고채 금리 혼조세…단기물 내리고 초장기물 최고치 기록(종합2보)",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/21 19:38",
+        "published_ts": 1784630288.0,
+        "tag": null,
+        "first_seen": 1784632526.9633605
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CY3Y1aU9lX3Q4Mkw2QTdnXzhsWEVhTENmYTlRZkJWSjlYZzJXRkZYV1VWcEhBMXZTZ08xX25uWmRLWjRpR0FYY19wMDlCQ2VVZEM5djhpRGtrRUZOV05xbVBVX2JhaUFoQTJnb3pSYkI?oc=5",
         "headline": "[채권-마감] 중단기 금리 하락하며 불스팁…수급적 우위",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784538540.0,
         "tag": null,
         "first_seen": 1784538924.6464913
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92MXduRnN0UXo0MWxDeVE5QlhQU1lSMFd6T1hPQ2FlaWxORldsTUVZeE1pRXU0RWl3Vm5xcDMyLUczZVhPckhueVpzMVRHdGRDSVdNNG8ycExZTENwYjZrTEFoNmxvVTFxT3htNmFqeVdzQQ?oc=5",
-        "headline": "국제유가 상승의 영향… 한국 국채 금리 급등, 경제 전반에 미치는 파장은?",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "07/20 17:51",
-        "published_ts": 1784537507.0,
-        "tag": null,
-        "first_seen": 1784538036.8416884
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQSFp2UG9RTGQ2QW1GX1EyYUVzc0V4SnNQQ21ndndsQlE3QXNIMXBPRHJvVlRsWjBNS0Jjc1p3dGdVTjhSNEY0ck4wVnA0ZTBzRk5JamUwM3dnTWt4c2J2Z2lDLU45alFORDBGZ0RXY3RvQlRXal94UXFDb19yMXVpWHRCaE01NU8xdXhGbmg5aDZsTFk2NmFZWVJwMk1qeWdkU3pLZWJBYkk2RWlsQ2lwMVpTNWM?oc=5",
+        "headline": "Takaichi Bets On Investment-Led Growth As Markets Worry Debt Risks",
+        "summary": "",
+        "source": "StratNews Global",
+        "published": "07/21 20:04",
+        "published_ts": 1784631869.0,
+        "tag": "JGB",
+        "first_seen": 1784632526.9633605
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaW1qUWNuQzlVMzNySlRmUTN0NGE1MFgzREp3dk04SUoxWDFtN01UQlpFck9hYnFVdVkxcXN4bjVQUDVnV1hZS0VnVnV0cVl1amk5ZVRPMWp3V25VZmRrMXV2TTBIMG03ZWF6VVY5bW0ySnpNSjA3SDBpWEJ6cFY5T1lySHBLU3hPWF9aTHBGaGFralYxZ0lxTkNIOFJWVl82UzVBb0NadktkZlVLMDhTaWFRbk5HYnhLTnV5cmpDLVZORDRYeloyanFLU2hLLTBqcktYQXg4aGV6eHM?oc=5",
+        "headline": "Rick Scott Warns US Debt Is Flashing Pre-2008 Warning Signs— 'We Don’t Want to Go Back There...'",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "07/21 20:00",
+        "published_ts": 1784631605.0,
+        "tag": "Strategist",
+        "first_seen": 1784632526.9633605
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0xQW9UVU5KVVdyVlVRUlFjLWc5T2MxNkpDdWtYckdMSWh1UElzcklmQ0NydGdSX0U0QXRTdDhNVDhEcFpaRnJyR1hOaURUb1dNRE9MOU5jUDAyV2cwVmRTNW5sTWJCWDVuY2JncDlvd3A2ZjQ?oc=5",
         "headline": "에이프릴바이오, 큐리진 이중타겟 siRNA 기반 대사질환 신약 후보 물질 기술도입 계약 체결",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784611337.0,
         "tag": "JGB",
         "first_seen": 1784611828.7718732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTFpxaXZNcnNaSXlUTng4QVJNNXppNmhKcnZPWDFJRjVzZUdwQURKSnNLZUk3Yk84VUo4N2xzSmNrQ2JLWHRvTy16WkVpbkU0SDh4VzljZFlMLXJQeDF4bS1HZGQybWMwQzU1a25lZGw3RXRCZElsckY5VjQwN3F5SENNRDlsOGpKOU54dkdMOTJkNVpFeW54YVV5dkJJUDZzejAtcUdERkl3N0NX?oc=5",
-        "headline": "JPMorgan CEO Jamie Dimon warns: markets are underestimating the dual risks of geopolitics and fiscal policy; he would not buy equities or long-term U.S. Treasuries at current levels.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "07/21 14:08",
-        "published_ts": 1784610539.0,
-        "tag": "Strategist",
-        "first_seen": 1784624441.8485632
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBSallMZ01PRTNXRGl3dTBiOU1yc1dRLWRtVHRWX09uNnlpYlRqWGNuSThpT1dRejZxN0VINzZRTHlCaWk0cFVreEFn?oc=5",
-        "headline": "다이먼 \"지금은 주식도 국채도 안 산다\"…시장 낙관론에 경고 : 글로벌",
-        "summary": "",
-        "source": "재경일보",
-        "published": "07/21 13:45",
-        "published_ts": 1784609100.0,
-        "tag": "Strategist",
-        "first_seen": 1784610042.6066842
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 20:01:04",
+  "updated_at": "2026-07-21 20:15:49",
   "yields": [
     {
       "label": "3년",
