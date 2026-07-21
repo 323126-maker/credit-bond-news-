@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DSWlCUndEVEdfMVBOQXNXamE1MWdiSHYwYThSd253OUhVNndsYl8ydE9aMjBHUkxZUkl5RkRwQWFiM3BhZDlJTFEzX3cxRVZSTEE?oc=5",
+        "headline": "국고채 금리 혼조세…3년물 연 3.867%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/21 16:43",
+        "published_ts": 1784619839.0,
+        "tag": null,
+        "first_seen": 1784620835.920698
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZkVlTWZ5el9BcUdiSFFRRTZBaVF3empDcjlIMWoxRkRfNlhXWUFZN2prV29XY1pHeWZoOV9vLUFENW40cG9McUh6aGx1VVVjUjJpenhweGRSbUlKMmFKZW5vYkNhVVRGYmd4dTU1QW9tMy1BTFkzNA?oc=5",
         "headline": "무디스 \"인도네시아 신용등급 하향 위험 지속\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784530657.0,
         "tag": null,
         "first_seen": 1784531726.714724
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1BMkdIcHZ3Y3lwRHdLa21OdEtYMmJOT0RpSG5SaHo1UEJuX2s1dEZyejFTVHFlck5OZGtOQU1JU3BKX3k5ajRhUHhnMlBCS1AycnpXX0pHOHNiY19XdkxPeHZpTndIZ2ptSzZNRTBXaUsyVVhmUUYtRHEtdzY?oc=5",
-        "headline": "증권사 FICC는 진화중…\"수익구조 다변화 핵심축\" [증권사 수익엔진 FICC (하)]",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "07/20 14:41",
-        "published_ts": 1784526107.0,
-        "tag": null,
-        "first_seen": 1784583927.2508805
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 16:45:53",
+  "updated_at": "2026-07-21 17:00:58",
   "yields": [
     {
       "label": "3년",
