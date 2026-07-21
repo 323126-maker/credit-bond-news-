@@ -382,6 +382,16 @@
         "first_seen": 1784511935.872552
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1qT2VDNm9VZVY5MmM2b0tQeXhPZlV5eG9udnZxMm9xRU5NdE0xNFhtSVlPejM3SGZydzJfT0JuTDA3T1FLa1YxZHhqa0IzS0ZOeXZkR2hoSWx0WUZ2MWwxU0cwZkR5VEhaYW1JbW16QVRXTjYy?oc=5",
+        "headline": "LS, 日 신평사에서 'A0' 등급 받아…韓 3대 신평사 전망 일제히↑ |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/20 10:35",
+        "published_ts": 1784511356.0,
+        "tag": null,
+        "first_seen": 1784594725.1950767
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDYUV2M2xUSVhMYUZhUUc4d3I5ZFNKMHh2WVd1NFNVZ3I0MkZXUlpoNnBqd3BRQjVEY2pxYUVGaW9oZDB6dkQ5cmMwTGoxMTBlSW1lSzFRSXhvdUtPNmtwdGJRT1Q1TzFFZkJxUWxYc0jSAXBBVV95cUxQQ2FFdjNsVElYTGFGYVFHOHdyOWRTSjB4dllXdTRTVWdyNDJGV1JaaDZwandwUUI1RGNqcWFFRmlvaGQwenZEOXJjMExqMTEwZUltZUsxUUl4b3VLTzZrcHRiUU9UNU8xRWZCcVFsWHNI?oc=5",
         "headline": "LS, 日 신용평가사 JCR서 ‘A0’ 획득… 글로벌 신용도 입증",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784511296.0,
         "tag": null,
         "first_seen": 1784593829.3320775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1QMEVaRDdVTWhaNDBsd2FuejJLaGdpc2VDLWF3cW1Wd0FkNTV4NVRTcFJFSnhneDhNQUVhczFkbnA4R0FweXFZNFBSN1pnUmVMVjhjdlJneW94N2tHOEh6Z2ZDM3NVdjk5RHdsX2FOV0Q?oc=5",
-        "headline": "(주)LS, 일본신용평가사 '‘A0(안정적)’ 등급 받아",
-        "summary": "",
-        "source": "코리아리포트",
-        "published": "07/20 10:31",
-        "published_ts": 1784511064.0,
-        "tag": null,
-        "first_seen": 1784521016.9028492
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85U0p0V3ZlTmlkZlVPeDJ2N3dsVW10LUhtYVJ0R2U3dWNIVTMxSWVZZE9ZU0ZwZzdtRFlnbzVyLVBycHJlVFpEdjRFb3RLZUlfMkFv?oc=5",
+        "headline": "\"지금 주가·국채값이면 안 산다\"…월가 황제 다이먼의 경고",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/21 09:33",
+        "published_ts": 1784593980.0,
+        "tag": "Strategist",
+        "first_seen": 1784594725.1950767
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE54UDRRd2dLOWVNTmQwWTZOczVGRkJ5aE5yVU1ZcHo1dHdKbklVRkVFbUhvOUI4dF9JSGJ1cXVvVURZcEN0cE56RDA1NWxLN3dsVHpRamlfbXA5VzVVa0E?oc=5",
         "headline": "“원화는 강세·엔화는 횡보…원·엔 차별화 심화”",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784550600.0,
         "tag": "Global",
         "first_seen": 1784558729.7276027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORlg3THJWd0t5VEh3WnZLRk1tbkRjZEt1RVRUWU1DYmo1dnNid2JmbWdtTzRObUVpRUMtQ2YxdC1ZTXpPNUNQRVVQSzY3YUVVTkVmWUtfVllYRkJNelIyVGJQNF9SNWdtV0FXWHRLc0tHTmxBb2gwaGMwQWxUdE0yYmZn?oc=5",
-        "headline": "Japan’s monetary conundrum — why the yen hit a 40-year low as interest rates hit a 31-year high",
-        "summary": "",
-        "source": "Fortune",
-        "published": "07/20 21:30",
-        "published_ts": 1784550600.0,
-        "tag": "JGB",
-        "first_seen": 1784556040.964657
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 09:30:52",
+  "updated_at": "2026-07-21 09:45:46",
   "yields": [
     {
       "label": "3년",
