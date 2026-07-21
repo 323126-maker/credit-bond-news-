@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00Tm1lQ2ZLMWdjRkdNeFZiREdGUGxadnZHWnlJQjdxMVZteFdmeFpMRnNkbWNjVS1IWU9EOHp5al90M2d1RWRBMURzODNDNnZrWUM0NDRRVmPSAVRBVV95cUxOTi1panMwZC0wdThxX3FaUkw3a2M3NXE1T0JoQ2NWaGM2aVFOaUx2WWttbmpoYV9XUGZ5czNidWxJOWcwN3Qtckg3UGhpbmxKSEpUUW0?oc=5",
+        "headline": "당정 \"청년·성장동력·지방에 재투자, 재정운영 체질 개선\"",
+        "summary": "",
+        "source": "세계일보",
+        "published": "07/21 09:58",
+        "published_ts": 1784595529.0,
+        "tag": null,
+        "first_seen": 1784597438.7542942
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPOU9jb042TURtbVJNNXU0RzhYWC0wQU1jRzBZTFZsdFlsRFBNQ2RYTDVRR3BYWHlkX1EzMjIxR0R3SGJFeTdsQ2FxWm1TVGpVeWVF?oc=5",
         "headline": "李 발언은 당무개입?…쟁점별로 검증해보니[노컷체크]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784130863.0,
         "tag": null,
         "first_seen": 1784337323.7506785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfX091UFg5MXBQTnZEWUJ3TXRhNVdqZlVxZUFGR0ZwTndYRTdoMkRkQkhpODR0WUVxeEEyeTB4aHN1dXVtbklrRS1nNjYtZzc0SFhSbXNlZVpNQlp1QVhDWmRQeWF3NHY4cUE?oc=5",
-        "headline": "2026 국가재정전략회의 - 포토 | 멀티미디어",
-        "summary": "",
-        "source": "대한민국 정책브리핑",
-        "published": "07/15 20:14",
-        "published_ts": 1784114074.0,
-        "tag": null,
-        "first_seen": 1784186838.3176548
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 10:15:46",
+  "updated_at": "2026-07-21 10:31:01",
   "yields": [
     {
       "label": "3년",
