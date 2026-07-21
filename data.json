@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1QVzJieVJtSDBFMmE4aS1ySWxiMmZvYUZUci1mcS1Sbi1Hdm5VLWdfc1ZxSkYycm45aEN5TGZlaWxUaGhIWE50LVpINWF6a2RVWWhhVUNwTHFGdEFkNGh2cnJLZERJSGpSRENlYndjLU9LcEJsUWZieExXM3RDUQ?oc=5",
+        "headline": "Warsh's First Test: Fed Chair Faces Inflation Scrutiny",
+        "summary": "",
+        "source": "Legis1",
+        "published": "07/22 02:09",
+        "published_ts": 1784653789.0,
+        "tag": "Fed",
+        "first_seen": 1784654132.8639169
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTW1XQ2djaUg3N0lFdUk3SW1BVkFuZ0l2WUl5bVgyZkt1VHl6ZlhCZ0dIbV9HUWxHNzZjcngtS2tWWGd3SWd3RS1WRTItX0xCb01EOWlYWk5RQURXSEFuWmtwZ0VFRVZrVm8yNURrYWVDdUhjUVBoOFhsQWp0ejI5bDdFTVZQTVNJelFhcVR5UQ?oc=5",
         "headline": "Mitsubishi UFJ Financial Group Inc (MUFG) 주식 움직였습니다 상승 3.43%에 7월21일: 변동을 뒷받침하는 사실",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/21 17:44",
         "published_ts": 1784623440.0,
         "tag": "Global",
-        "first_seen": 1784624441.8485632
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02ejRwdl9Dbi1KaFBROUtFTkxMM1JCV2x5aXhDeURybUFvTFNPVDRCY0RROW4tb2FZRWxtanNlcW0yTHU1bHNjVTNRbGlyX08xMlZ3?oc=5",
-        "headline": "\"긴축 끊고 투자로 성장\"…일, 적극 재정으로 GDP 1경 원 달성 목표",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 17:41",
-        "published_ts": 1784623260.0,
-        "tag": "JGB",
         "first_seen": 1784624441.8485632
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 02:01:08",
+  "updated_at": "2026-07-22 02:15:56",
   "yields": [
     {
       "label": "3년",
