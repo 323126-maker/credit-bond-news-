@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVV9xUWZxN3hxakhjd3VxZ0RCeU5qa3pqc043cG1vQ0NQMWxiLW5DQkxoMnp5M2k5ZE54UEVxUm1JbUdOTGJZNFhYajZsTjVFRlZWamk4eGpjMGtkb0ZEOXJoY1plc2VDSjI5enVHOHRSMkVzVEdnQ2VGaDB4V2dwZ2NScXZQUnh2MzVLLWcwS2hkc2JUczBwME5sTU9zNmE5LXgxWXp2eE0wUkNOUUJpZll3cEtfb042Z1VzTlpfamtLbTJqTjVjOGVCNERlcFhqNFJrTlB2TjdoYzVfM3NmOVVpUDBQR3VvSGdydUZLT0hXMjE4eU10TTQ3SkNKZVk3elBDZVB4N1NWRWph?oc=5",
+        "headline": "JPMorgan's Jamie Dimon made bearish call on treasury bond market. Many investors already acted on it",
+        "summary": "",
+        "source": "MSN",
+        "published": "07/22 07:56",
+        "published_ts": 1784674607.0,
+        "tag": "Strategist",
+        "first_seen": 1784674836.8543184
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjhaY05PT0k1THhrNm1tOTNmRDZsbi15OE5pa2ljXzRuOWlHVzN5QnY3NU42UFRvQjZQeWlLOEpoNm9xYm0tRl82VndURDc2czMySS1lUHh2YUZqdnFxQ0tOdnI4bUxqTFEta1BuVGxKNDdZV0h4Z0xQUzlhemx3TA?oc=5",
+        "headline": "유가·금리·엔저 ‘삼중 악재’에도…“AI 투자 영향 제한적”",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "07/22 07:56",
+        "published_ts": 1784674565.0,
+        "tag": "JGB",
+        "first_seen": 1784674836.8543184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBM19CVGlBYUJ2UXNsRmF4bzNlQ0lwc3RDREFkVWJDY0tvOEdKOUxSUlRFQkM1MzdlUUpLWm1oWTBBYzlienQtdElkNmhfclJNYjg2dGF4NjlMY3c?oc=5",
         "headline": "Jeffrey Gundlach: I'm 'optimistic' that Warsh will be a better Fed chair than Jerome Powell",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784633782.0,
         "tag": "Strategist",
         "first_seen": 1784664926.3371472
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tM0ZzWVlQbkp2a3JMTVlraFRwZVlYLWNZUmJiSS0xdkRiRzRYSGNtTGRORFo3aElzYy11MWtIY1VlQ1pKaXduQUN5WWpUYlp5eGV5SXREZFZOcGY0bTlkMUJZU1VDYlR5dTh3?oc=5",
-        "headline": "Jamie Dimon warns on market risks, avoids stocks and bonds",
-        "summary": "",
-        "source": "qz.com",
-        "published": "07/21 20:32",
-        "published_ts": 1784633559.0,
-        "tag": "Strategist",
-        "first_seen": 1784647840.8417215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd2hjdUxYdjNXMUdwUWRfdjQ1RHpsa2d5WjFmc0VyVjRrdDhIMlpUUzQyS0xsZ2MycXVLdHJiUVoyQXp3ZXJtcXVMVkhORjhVWVZQcmZlS0VwOWFBWE1uY0ZPeW5vR3NCYmwxQlZkS09XeXdEWHptYlZOMC12WVp4WHg2WFk?oc=5",
-        "headline": "Japan is flirting with its own Liz Truss moment",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/21 20:30",
-        "published_ts": 1784633401.0,
-        "tag": "JGB",
-        "first_seen": 1784669431.3872142
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 07:45:54",
+  "updated_at": "2026-07-22 08:01:02",
   "yields": [
     {
       "label": "3년",
