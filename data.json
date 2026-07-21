@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vX0JnUlRDT09ZN25jb3VCblVBYnZ2TXBjaWdsQmtaZHd2Z1hFOHg3Mi1VZ1NHcDJDVlZ1MVhOUjVBYTZrS2h4YlU2RzE0NTZTWnJjbDhIcGx2QkNqME9NRnlzcllOVVdp?oc=5",
+        "headline": "한화에어로스페이스, 5억 달러 해외 공모 채권 발행 성과",
+        "summary": "",
+        "source": "2news.co.kr",
+        "published": "07/21 10:58",
+        "published_ts": 1784599080.0,
+        "tag": null,
+        "first_seen": 1784600123.9242308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbVRGQ0J2a0dZbEhoQTM5MTRRenR3elVWcFBNOTJRWXdWRzhrbzZfU0xtLVBKc0dNZ0VsSnkxUHV6QmRCbnBoc1lMS2l5QnUwa3ROampVSkttLTVVcnc5U1g5aTlYUmtCM09Ua2VRWVJYQXBFSC14anJTdEdPUnY5aGF6bTFZaktmdkE?oc=5",
         "headline": "7월 21일 오전 세계 금 가격은 4,000달러 안팎에서 등락을 반복했습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784511708.0,
         "tag": null,
         "first_seen": 1784513723.9017012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBJRjFaQXlpWFlXMnhfcjkxSjRRLWotX0M5YzkxSE8yWFdfSHJnVWtkSjhNODVDQnlraWI3elhsZFU2TEZzbzlVbHowNDdkUQ?oc=5",
-        "headline": "LS, 日 신용평가사 JCR 'A0' 신용등급 획득",
-        "summary": "",
-        "source": "전자신문",
-        "published": "07/20 10:37",
-        "published_ts": 1784511461.0,
-        "tag": null,
-        "first_seen": 1784511935.872552
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4zOWdqQ1JLMTZwWWs2WExLSWJjeXo1VWFEY0E0SkE5NHdvdVlFQnI5WENQa3lxY1NqaFdPZE8xY1lHY09fbmFIdU11ZFlCTk1iS3V6ajVYUFYzazJiaGtDck1sZnhXTnV1U0NjUjZKYw?oc=5",
+        "headline": "Jamie Dimon Won’t Buy S&P 500 or Bonds. Here Are the Warnings Investors Are Missing",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "07/21 10:54",
+        "published_ts": 1784598840.0,
+        "tag": "Strategist",
+        "first_seen": 1784600123.9242308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9EbUo1UkNsbFlvVmxGTEI0OEhTRGlEWjU5a2o2aHIwSHRoSVBxVzZIU3lCeDdVYnNKZlB3aHI3dUkxMHhQRkJ6UWQzTHRUTFFyaHBj?oc=5",
         "headline": "워시 연준 의장의 침묵, 개혁인가 혼란인가",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784556328.0,
         "tag": "Fed",
         "first_seen": 1784556927.693235
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYWpTb1BMcTRvSGtCUTd0dmsyRlJLekZZV3paTXlNV2pJVmNZOUt1S0JBSmt4dHJPTlpDUFFHSjFrS1VUWXJzS055VHZFM0tTZ093RFNwbWF1cXRrRnNQc1hpNmJHN0c2eDcxWHFZQkhXTjZvWnRWNzNSZkdTQkliOXhScDJvMkJPUmdWa09zbHE?oc=5",
-        "headline": "British Pound Outperformance Tied to Yield Differentials and Political Repricing, MUFG Says",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "07/20 22:26",
-        "published_ts": 1784553973.0,
-        "tag": "JGB",
-        "first_seen": 1784565926.4555235
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 11:00:58",
+  "updated_at": "2026-07-21 11:15:46",
   "yields": [
     {
       "label": "3년",
