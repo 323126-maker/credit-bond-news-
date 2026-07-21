@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSDEtWUtQMl9yUEtVMUVvUFduUUlTUm40MWJ0b0dGcjBFdkRlYzhFd2JPem5BNnkxdko5ZHgzbmRDS2U1MDJZdlJqekppX1BXYTBoSHF2R1F2MXlJcjh6UjVyMkh3Zy11OHBJUmY4SkM1RS05ZFkyOUI3eTJRUXZ1MG90aWI3bTB4Sk51empNOFR5cDMxYzYyWFB3?oc=5",
+        "headline": "JPMorgan CEO Is Avoiding US Stocks and Long-Term Bonds: 'Risks Are Bigger Than People Think'",
+        "summary": "",
+        "source": "International Business Times UK",
+        "published": "07/21 23:59",
+        "published_ts": 1784645984.0,
+        "tag": "Strategist",
+        "first_seen": 1784646930.5449417
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMUstdHV5dXFZanloZklUdDQ1aElETld1dTI5VngyTWpEb0tSWXRENDRZUVRZRHVTMGpwbUlxd3pWeFBZeXVISHZwRUFvYnRLSTJZeVBFcmxURlNwbzFBRUVWaVhndFI3UTNXU1pXamU2US1uUGozQ1ByUVhrSEdmNGswTXppYlNBZnBxemlqXy1qdzl4Q3dRUDZrX3pObWlReFlDaWsxMTRvRkxhRlhoOHVtS2hkOWk3NHVsN2NSUjhnbl9F?oc=5",
         "headline": "Gold Is Technically Oversold With the Debasement Trade Alive and Well",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/21 17:25",
         "published_ts": 1784622335.0,
         "tag": "Strategist",
-        "first_seen": 1784622630.2795017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYWFBUUpyR2lBTlpna19DTnVCb2JOV3JPYW0xY25xY2wtTXhhWncwZzl6RERubVNCX3Q3dlFOU2hiNDFIV2QxYjc3Qmdja3dvaUVsX2lqclRKclc1cTNWWFJnYnUybEdZeXdMUGFQMmlReDIydXYwMzFSdGtLV041Y0hQeXZHN1hBdWtBRFJxaDVKaW00cXZuazhtd0c0LXlUQXg1QTBxWnAzVkkx?oc=5",
-        "headline": "SGD bonds: Let quality carry and credit do more of the work",
-        "summary": "",
-        "source": "The Business Times",
-        "published": "07/21 17:20",
-        "published_ts": 1784622000.0,
-        "tag": "Fed",
         "first_seen": 1784622630.2795017
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 00:01:11",
+  "updated_at": "2026-07-22 00:15:55",
   "yields": [
     {
       "label": "3년",
