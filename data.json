@@ -122,6 +122,16 @@
         "first_seen": 1784621732.3385894
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SNWFodHJsNE9PYzBXTmtnMUNQS2NEbU05RGNfM2RkSVBBZnlLTFFCbTZfclFYZk5kVS1pMTd2N2JFUjdubkZKNGF2Vk1FRVl3T3Y3TnNJWnhkQWI2VVhIS3B6S0FGZ0ZVazJQOUNYcEc?oc=5",
+        "headline": "금리 급등세에 회사채 수요 ‘뚝’···이자 부담에 은행채로 수급 몰려",
+        "summary": "",
+        "source": "투데이코리아",
+        "published": "07/21 17:00",
+        "published_ts": 1784620800.0,
+        "tag": null,
+        "first_seen": 1784649640.4406655
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DSWlCUndEVEdfMVBOQXNXamE1MWdiSHYwYThSd253OUhVNndsYl8ydE9aMjBHUkxZUkl5RkRwQWFiM3BhZDlJTFEzX3cxRVZSTEE?oc=5",
         "headline": "국고채 금리 혼조세…3년물 연 3.867%",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784574000.0,
         "tag": null,
         "first_seen": 1784576725.471439
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1kajNxcGxUS2lZQkpWSDVFdWh6Ymc5RFBLVVJMWU1oS0lfaTdObXN6cm1BLWZQVGp3TW42NFBDQmMxUFlYYlFIZEo5cWhRWnZDS25oQnlLMTlEQVN1WkpuVmRtN2g?oc=5",
-        "headline": "국고채 금리 '미국·이란 충돌 격화'에 일제히 상승 마감...3년물 3.895%로 4.7bp 올라",
-        "summary": "",
-        "source": "베타뉴스",
-        "published": "07/20 19:58",
-        "published_ts": 1784545090.0,
-        "tag": null,
-        "first_seen": 1784546124.6300707
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 00:56:33",
+  "updated_at": "2026-07-22 01:01:03",
   "yields": [
     {
       "label": "3년",
