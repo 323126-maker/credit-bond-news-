@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUFmOFpoT3hQSGNaN2pJTk1mNDZPbVdXOG4wZ0NieDNwU0pranhWNUtsQnhlU0FWUlhkd2pTUERzSWlyRU5FM19INzFBQkQwUzJsRW5pVVhieGVsRjlnbjhLMnNLX3VXQlhvWFRPMWlaNTVERkhhU2pNVTBpR0hHLW5RM0dZZDhs?oc=5",
+        "headline": "단기자금 쏠림 우려에…증권사들, '만기 다변화' 선회",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/21 14:57",
+        "published_ts": 1784613420.0,
+        "tag": null,
+        "first_seen": 1784615430.4285178
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90WDEwZHMzWTFDaWtrOURYdmM1YUdnQlBjVVA5TGpMN2NESlNXN3dCdVpfZjhXdWo5aXAzaDFlV0lBOFdwd3hHRE82a2FtQllFVldj?oc=5",
         "headline": "오라클 CDS 18년 만에 최고…\"AI 투자, 돈으로 못 바꾸나\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784524080.0,
         "tag": null,
         "first_seen": 1784530835.545915
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE82WGxsckE3eW1zOVdKSVAtMHdoZnd0WTdtRlNTZjhscTZNeFo4b0QteGxaYXQ4WDRUQ3lJVHNUWTJFb0JPQmVUMU5OQ3BPQml3bFFfR2E5RG51M0F6NjJtYXJGN1NfLXBFUnZsWA?oc=5",
-        "headline": "㈜LS, 국내 3대 신평사 이어 일본 JCR서도 신용등급 전망 '우수' 평가",
-        "summary": "",
-        "source": "한경매거진&북",
-        "published": "07/20 13:24",
-        "published_ts": 1784521440.0,
-        "tag": null,
-        "first_seen": 1784524650.2215114
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 15:15:43",
+  "updated_at": "2026-07-21 15:31:01",
   "yields": [
     {
       "label": "3년",
