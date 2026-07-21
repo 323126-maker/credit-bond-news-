@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1xX1o0ZnNYekp0ejROZ21JdkFJNmVVZk9EcGdkSDZUVlZmcGo4WWdCUWVDZElic1hiYmE5Z0JIMnh1SkNYRy1ROXZ3?oc=5",
+        "headline": "수출 대박에도 채권 시장 '극과 극'…초장기물 '사상 최고' 금리 왜? : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "07/21 20:00",
+        "published_ts": 1784631600.0,
+        "tag": null,
+        "first_seen": 1784635244.8613486
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5sd3FnY2lrdFdHelZqVGt0cG42eWVCMU1FLVVlQjNzNHF0dmtySmlSM193SEZNRWYzT2JXa3Z4MzhpMl91anY3SzduUW1UYVFWY0E?oc=5",
         "headline": "국고채 금리 혼조세…단기물 내리고 초장기물 최고치 기록(종합2보)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784539660.0,
         "tag": null,
         "first_seen": 1784540725.5037456
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5uT29JaThHWFQ2UHJ5ak51d0xUZng4eERKSXdybXR5UWtna2NGVmJnVjI4ZDE2NDFGaEYxLWlMbEZ5a2xSOTBBNG9VdmdoSDRCaHE0?oc=5",
-        "headline": "[마켓인]BBB급 회사채 '반토막'…한진 미매각이 드러낸 수요 절벽",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/20 18:09",
-        "published_ts": 1784538540.0,
-        "tag": null,
-        "first_seen": 1784538924.6464913
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MTDhQSmpueFFTT25obGotMk91dWphdDhsNG50TlpBUFkxdTBmYVlGNzBOVDBvemx5WUVUZHF2andscnhkTWsyeFQ4dmRqeWlWVWFUTW5XTzlZZDAyOXJBaTZnUlFhTjg3UTFyZWs2SVhXMERWTkVJ?oc=5",
+        "headline": "Japan’s bond market turmoil under Takaichi tests global risk appetite",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "07/21 20:56",
+        "published_ts": 1784634988.0,
+        "tag": "JGB",
+        "first_seen": 1784635244.8613486
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYU56WUlMTnQxa1duV29MeVhqNzZxQjlwUEhMaTAwOW5CU24tT3NDLXhLQjZpbGZ4akRlcHJ6SXFYU3g0OE5LTFdJVHk0WHBNRFFBTWRpRHRKd3pUYlItYmdrdVZETzF4RGo0UHpXV1FsQjNSU25sLWoyUTZWRmg3ejB3eEhLMFM0TWVLVnZCcUpOYkhreUVLb2lnTDhpQzJGSEF3?oc=5",
         "headline": "Why Rising Bond Yields Matter More to Gold Than Investors Realize",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784616891.0,
         "tag": "JGB",
         "first_seen": 1784623529.0518055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GZFJmT1pjaXBaQU1OSnlWaTRnR19GOFR5azBmazY1Unc4T2twcm1XVEZ3RlNFOE9EUllJb1ZpaVFrZ3lTT3h0NElNMXYzelB3ejhjVFMyMjhxbmdZTlMxeGp1RnJYY3FrS0NnYUhKUm5fQ01DTWpvWEhzQQ?oc=5",
-        "headline": "Tired of 4% Money Markets? This ‘Scary-Sounding’ Bond Fund Pays Nearly Double",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/21 15:42",
-        "published_ts": 1784616173.0,
-        "tag": "Global",
-        "first_seen": 1784628043.9960995
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 20:45:46",
+  "updated_at": "2026-07-21 21:01:05",
   "yields": [
     {
       "label": "3년",
