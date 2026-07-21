@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mekdTdExNSjROYTV1OGlibmhtMEtNSlFIa2VFT2tpWG8wb3YtT2QtQWE2Z2ltLXRtNFBLWENrUGFzVExPRjNvM0psYUhtTFhkMWV6QQ?oc=5",
+        "headline": "[기자24시] 레버리지ETF가 만든 '돈맥경화'",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/21 17:45",
+        "published_ts": 1784623503.0,
+        "tag": null,
+        "first_seen": 1784656840.6278365
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1aNWNwZkRLWWJycGNCX2JCdE54Z3IwdmxwX2N2YkR0RnVfTlZ3bWEwZEtwWkFnTWVtdmlXTE5pbWVOQjhVaWRKc1JVZjNHY1pCS0E?oc=5",
         "headline": "유가 쇼크에 물가 공포까지 … 국채 30년물 금리 사상 최고",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784198734.0,
         "tag": null,
         "first_seen": 1784199649.3507802
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wNBVV95cUxPRzlVamQ1ekZhU0xKSEl3OGZMOVNCbTB5NW5Hbl9MLWZlUUdqcDIxaXJzU3hzLUdZb3lJbzZPd3pNaFBQNThKSjRWQUlNWG5qQnBiRlk1NjlvVmd2UGl1U3hBMmUySXhBLUtwSkhBQmo1U3lKS2dVYk0tYlRBRWFIUDFOTXR5Q0NjUURSN0V6clo0NEoyT0s4SFl0dDBtODMybDhZcDRiNFVaZm42OC11ak1HeG81bGI0TWtwWlhoejdNMk84bGs1ci1UT191eHBwZHdHQy1ITVNiMWhRd2J6bmEtV0xHZnR0VFk4bC1PaVVZRVZsS09LWTNKdjZoX3JVUnpETXM4TVFCdEpFcUlQYW5XNlFIXzFKUWRPTWVhNlNFNGsyWUNnUjc4OWpxcXBPNTRQeThIWF9tQ1d1YWdidnBwdERrQmJWcFhrWm0tRVRLdWswTkhUOURFZFRaV01XOXk4dVBjSkFuQXYyeTktN2Z4UzVSUDBRRDU0by1YTnhfeEtVNjU2dXQzLXk1LWFPaFdZQ3cxQWVEWVlfNWQwcC1FUUQ1UU94czA5NklMTVFPNXpQRDMtMFQtU2xHb1lGM1Y5LTVVTlZPd2M2ZjlNbGtyRQ?oc=5",
-        "headline": "상임위서 증액된 '전쟁 추경'…3.5조원을 어디서?",
-        "summary": "",
-        "source": "MSN",
-        "published": "07/16 18:56",
-        "published_ts": 1784195804.0,
-        "tag": null,
-        "first_seen": 1784221241.7071464
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 02:45:52",
+  "updated_at": "2026-07-22 03:01:05",
   "yields": [
     {
       "label": "3년",
