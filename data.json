@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HTS1aQ1JQdXJCNDhrTUNHS1NMbEdkWHBLajRXUmp3RUxKcGVfeTdGd055amtDMWJWUVFOUFZ6QkdEcC0xWVNoUkpIS1h2N3h1SVNDMDdsdFpiQQ?oc=5",
+        "headline": "다이먼,\"현재 가격에 미국주식이나 장기 미국채 안 살 것\"",
+        "summary": "",
+        "source": "한국경제",
+        "published": "07/21 19:24",
+        "published_ts": 1784629487.0,
+        "tag": "Strategist",
+        "first_seen": 1784629835.1915524
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVltTWZFM0p0ODJ1M0hoWFBJWXlMUzZwVFgwNHYyZUxPTWVZbDE2dGJ3T3pUVVMyMmxPaGx2a04waEJxeFNEM3NoN3R5VGYxMU5aakZRNFdWNkhHSUtiZTBLaXpucWNpMVRELWVwd3VFOHdacHVpQzV1N2t1VnFydXVYeFRxNUhtUlVMeDl5dHhmcTh6Y2c?oc=5",
         "headline": "Billionaire Ray Dalio's Blunt 6-Word Statement on AI Sends a Chilling Message to Wall Street",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784602845.0,
         "tag": "JGB",
         "first_seen": 1784608230.4599247
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQWGoydTd0ZXhORnNNN3hVbGZ1REdTYkpENXUzR2R1aE5GNWdNZm1oRExlcUNOVXBXVTA1eF9iQjRpdHUyUTdNOUZDYmpQMS1tZEM4Nl9YU3RHc0xENUxzc0xrbFJQYUlEWjRZSVZ6TkJvbmlVNFI2OFpUX3ZRNkVwYlhtdVhDXzdnaS0xM2ZRTk9MTmtUQWVIdUNPU2puUmhiVDdReHhFNHBLSFpKemRkS3QxaGVSOXJoc1N6cUtaTHhtY3c?oc=5",
-        "headline": "The highest yields in 15 years are creating an opportunity to generate efficient income",
-        "summary": "",
-        "source": "Livewire Markets",
-        "published": "07/21 12:00",
-        "published_ts": 1784602819.0,
-        "tag": "Global",
-        "first_seen": 1784603722.5815377
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 19:15:48",
+  "updated_at": "2026-07-21 19:30:54",
   "yields": [
     {
       "label": "3년",
