@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvamVMczU2SHBGMlBlYXVxZl8zTWxWMlVlWU1uOGQ2OHJPRUlZRFpkeENya1pCV1VtSUJyYnJOT0pxSDFMVWQtbUk4cWhOZy0tVlZtZUttWGgxOTlwdkZzZnZOMmJCQXkySi1rS3FGUHVKdw?oc=5",
+        "headline": "다시 4% 가까워진 국고채 3년물…백투백 가능성에 흔들리는 채권시장",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/21 08:50",
+        "published_ts": 1784591439.0,
+        "tag": null,
+        "first_seen": 1784592924.9779317
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5rZUhRbE5aaEpRYmdmb2JlS0NsQy1vWWh0RGJXZ2c3V2VnMUdxRFR6U2xQdnRwWjdpc3NKVDI4cHJOcjVMaHhDcTBzRUgzWUZFSE5RVzJOZDIzU09v?oc=5",
         "headline": "여전채 이미 4.5%인데 금리 인상 거론…카드사 하반기 '조달 비상'",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1784510763.0,
         "tag": null,
         "first_seen": 1784511935.872552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1adzdYTXlGVWhRek5aMll6bU1HT291TGFNeWsyeGYxSktjXzh3QzFBODIxOU9heHdUUnhtUU1nNXppVUR0YkhYQW53RTFEMHhBWWVEYkVCYWs0UlFNMVVKcUd2alFKVkFWYVE?oc=5",
-        "headline": "LS, 일본 신용평가사 JCR서 'A0' 획득하며 글로벌 신용도 공인",
-        "summary": "",
-        "source": "포인트경제",
-        "published": "07/20 10:16",
-        "published_ts": 1784510198.0,
-        "tag": null,
-        "first_seen": 1784511046.0173697
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNR1NkODBZTTFSZl9vZ1Y4bTNtM0NVUnhuQk53MW54U2dROXI2MHJfOTlwcHZlWXRFUjdfV2lmSGw2dm1kVFNtSlBGUFptWXA5Y1ZTenZjbGptOC1zMGl1UEluc3BTbFluLWkzWlpFMjFwOFlycC16WmNURDVDV2J2MGp6UHBtdkHSAZsBQVVfeXFMTUtrTW05MmVpejFSR1VBNnA3ekJycVUxVkd2ZWRud290U3dRZWZvTDNYeU9zaC1oZmtNNUFBYWVQcnFyOFBIZGZfM1I2R2FoZGVEU1pBTjdiWFFxR2xmeGtSdnNTZ2pxczVhR3hpQjFZZlI2dkhKQ2piS1BwRnRfdEJRRkhOM3NHT0xHci0wNHR1bFFSV2kwYkNwWTg?oc=5",
+        "headline": "부채비율 부담에 영구채 찍는 건설사들… “실상은 연 6~9% 고금리 차입” - 조선비즈",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "07/21 09:00",
+        "published_ts": 1784592000.0,
+        "tag": null,
+        "first_seen": 1784592924.9779317
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zRXBKYjdzMUJoeWlWZ2owdDh1Rnp1THZ2aFRUUmF3RFgwYWtBMnFRbW1XWXlIckJJRGZnN2FoZmgyVkZFS1RUVF9xQ3FpaTA0amE0dGJ3Y1UxMjczYjdFZndFdG55X0ViaS1GVFR5TWU?oc=5",
         "headline": "첫 영구채로 4천억 수혈한 포스코이앤씨…신용등급 사수 총력",
@@ -792,16 +802,6 @@
         "published_ts": 1784170981.0,
         "tag": null,
         "first_seen": 1784385984.3748853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBVUkRLaHcyNUVwUWdHMmdHdkRuTHJmblhsU1pCOXFLRVViZ2x5enFGdXQySmhVS19iNGZ3aF9TLTU5ZjBtV1E?oc=5",
-        "headline": "[정비사업 스케치] GS건설, 1.8조 '목동 12단지' 4파전 깰까",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/16 11:01",
-        "published_ts": 1784167298.0,
-        "tag": null,
-        "first_seen": 1784424631.9976423
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-21 09:01:00",
+  "updated_at": "2026-07-21 09:15:45",
   "yields": [
     {
       "label": "3년",
