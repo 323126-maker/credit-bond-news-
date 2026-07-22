@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84ZTdYaWFNNGhFbklSNHo5Q21QT3hRZFotczNIUDkwc1dQc1E1VjI4SmlWOU9Hc2RVS2Q3ZkxuXzZ0TUZkdzVFaUpqWTc4MFJxZDVneA?oc=5",
+        "headline": "日 6월 수출 전년比 19.3% 급증⋯3년 7개월래 최대폭",
+        "summary": "",
+        "source": "이투데이",
+        "published": "07/22 10:19",
+        "published_ts": 1784683140.0,
+        "tag": "JGB",
+        "first_seen": 1784683830.113656
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlh6enhQc3kxdUNCNnBhSGtMQzIySE9aX0FnVWR3ZU15UVRpNXpWQ0dMdmV6VXQwRTE5WWlxdDIwR2pSNFBmaFhkSmJTU0U3ajFVTGVWUHpuelFyMi1TMzlWc091dU9NVTZpNUYwQjJkMDNSXzhZMVd6VDlmc3gzTlJ5Y2o?oc=5",
         "headline": "Investors fear Japanese bond bets risk becoming new ‘widow-maker trade’",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1784644911.0,
         "tag": "Global",
         "first_seen": 1784645125.8229206
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE10VDdhWU42WEhtbDQxMXdjeUUzVm5yZnJHcFhmMkE1Y1RPZFpULVZveXhpbktnSHlhLVJRM2ZhWQ?oc=5",
-        "headline": "주식 처분 계획 당긴 버핏 “나는 총기를 잃어가고 있다.”",
-        "summary": "",
-        "source": "슬로우뉴스",
-        "published": "07/21 23:05",
-        "published_ts": 1784642704.0,
-        "tag": "Fed",
-        "first_seen": 1784664926.3371472
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfeEM3ODEyYlhjclRCeC1MUzBjMUpnUElsSjBJLUxENnpITkVhZVZPVG5qSlJjbV96TzdUaFIxUnhwZkh1eFRuN0J6RjhtZ3BmNjdIbnpER0hvOWdEQml2Sw?oc=5",
+        "headline": "S&P, 삼성전자 등급전망 '긍정적' 상향…AI 메모리 호황 수혜 기대",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "07/22 09:43",
+        "published_ts": 1784680988.0,
+        "tag": "삼성카드",
+        "first_seen": 1784683830.113656
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xek13aFVsaG03ajB0YklRNUVNNGhObTRKX3J1eU5UbGhJRTFsWFZSYmJMOGxMU29KY2VjWnlaWEUwUEVIS0ozaXNMWEpveEZKNEc4MGlNSFk?oc=5",
         "headline": "생산적금융 84조 짊어진 하나금융…한기평 \"건전성 부담 커질 수도\"",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784412000.0,
         "tag": "현대카드",
         "first_seen": 1784452611.8176246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EWW5FVDM0UXJ5ZFl5a0VQdkd1eVZmYUhodFlkZGdhSnZ0eFl1c3BSYnA2R2hRWElvNjdxVENmVWZtYTAySWhGYXcwV3ZjZlVrY2kw?oc=5",
-        "headline": "상반기 치솟은 방산주, 이젠 코스피 밑돌아…\"전쟁도 길면 부담\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/19 06:25",
-        "published_ts": 1784409900.0,
-        "tag": "한국항공우주",
-        "first_seen": 1784411124.7047193
       }
     ]
   },
-  "updated_at": "2026-07-22 10:15:48",
+  "updated_at": "2026-07-22 10:30:53",
   "yields": [
     {
       "label": "3년",
@@ -2521,6 +2521,33 @@
         4.453,
         4.512,
         4.541
+      ]
+    },
+    {
+      "label": "30년",
+      "value": 4.564,
+      "chg_bp": 4.4,
+      "series": [
+        4.311,
+        4.341,
+        4.319,
+        4.335,
+        4.375,
+        4.351,
+        4.438,
+        4.382,
+        4.368,
+        4.4,
+        4.425,
+        4.46,
+        4.459,
+        4.438,
+        4.446,
+        4.491,
+        4.476,
+        4.468,
+        4.52,
+        4.564
       ]
     }
   ]
