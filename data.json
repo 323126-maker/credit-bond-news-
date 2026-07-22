@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyaDc5RDhJMHZvb1Q2dF9XUmRmUGVmMEs1eEhIRnBMQ2RFcDZfTVlVa1RvTE16OUlxOTkxM0JmZ2FtNzViMHZqeFRwNzc2aWVFSnlmSlNUeFdjMzA3Y3R5X1FzcWZlV2ozOGVjTUVzalA?oc=5",
+        "headline": "[채권-마감] 2분기 GDP 앞두고 금리 급등…3년물 3.9%·30년물 4.6% 돌파",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/22 18:49",
+        "published_ts": 1784713767.0,
+        "tag": null,
+        "first_seen": 1784714442.2287548
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOFdDcGRmcllxMmZ1YzRad3l3djlzeTJnVk9rOGphaGhWUE5hc1h2a0NMWWRMTE9nSmQ2MmhkWnUxeE5KTS14QUFpY0JhMlp3bjNZRmRxQXhuMDA4eExHODYyTDB1RWRT?oc=5",
         "headline": "[이슈] \"채권시장 강세 전환? 시간 더 필요하다\"...한·미 장기금리차 빠르게 축소",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784617158.0,
         "tag": null,
         "first_seen": 1784627124.25348
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBPZkVlTWZ5el9BcUdiSFFRRTZBaVF3empDcjlIMWoxRkRfNlhXWUFZN2prV29XY1pHeWZoOV9vLUFENW40cG9McUh6aGx1VVVjUjJpenhweGRSbUlKMmFKZW5vYkNhVVRGYmd4dTU1QW9tMy1BTFkzNA?oc=5",
-        "headline": "무디스 \"인도네시아 신용등급 하향 위험 지속\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 15:53",
-        "published_ts": 1784616780.0,
-        "tag": null,
-        "first_seen": 1784617238.0120335
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 18:45:57",
+  "updated_at": "2026-07-22 19:01:04",
   "yields": [
     {
       "label": "3년",
