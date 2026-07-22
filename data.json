@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aV2toNmZqQ0tzY0I3a2pqNkpfRU10QXlSS0tTWjhUMXdjQU9tUTJwVjlKZG1hV3JTNzFwc19FcTA0NGgxTVRMZjZsU0Fyb0E5bjBB?oc=5",
+        "headline": "엔/달러 환율 40년 만에 최저치…엔화에 무슨 일이",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/23 07:30",
+        "published_ts": 1784759400.0,
+        "tag": "JGB",
+        "first_seen": 1784760329.743339
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iX1hyUzQxVWl4VzM1TXR4eVNlbmtzNTU0UGlReFk1ZjlmVFBoRHk0RE9GcEJLOXlhelJwNENrUjR5dzVGdkg4X3RnUUxmSUtmbkc5T1kwbk5DU20zcWFNM213Znc?oc=5",
         "headline": "Trading Day: $100 oil looms",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1784755860.0,
         "tag": "JGB",
         "first_seen": 1784756164.5237563
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aazR3MThNdUVCT2pkQl94YmozcGc5ZUVpMmxQUk5GYWFiejN3WTFpNU9SZHh2M3FCc19melRJRTBWUGxGV0RNQzNOXzdyUQ?oc=5",
+        "headline": "日, 중동리스크·엔저 여파에 6월 수입액 전년 대비 25.4% 증가",
+        "summary": "",
+        "source": "dt.co.kr",
+        "published": "07/23 06:00",
+        "published_ts": 1784754000.0,
+        "tag": "JGB",
+        "first_seen": 1784760329.743339
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwYmxjalFEMWh5OGFVM0dSY1kxbzBCeW85T25TTHVvWThDRkNsSVhiSDdnc0JrMTBKQjl1VTRhR2xrUjdPcjRsVzJHOV9aUnB2M25ydmZNZ2lUWXls?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784714820.0,
         "tag": "Global",
         "first_seen": 1784743238.7525852
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QdWk1UHpUaW93aUVyTE9Uem44cUpuZTZpNDdWcVdpSm1KNm40T2w2ZUJWUjNuaUZtS0ZTWHhSUl80OGNtdTR4UjQ2a09jc2M?oc=5",
-        "headline": "‘호네부토 쇼크’ 다카이치 지지율 50% 첫 붕괴",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/22 19:04",
-        "published_ts": 1784714688.0,
-        "tag": "JGB",
-        "first_seen": 1784715325.9005873
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWdVMHFpc0d6S3o3TXlwbEt6a01wdU5rQ1VHbE5qRmJDMkhWX0R3aUF0QXBFeWplM1c4Q1NQdVdLNlVPWFhMU1F4Ml92clNrM0Z3OXh6anZ3eHRobTRWcmUtS1ZKX3B0Z0VORHAzY0Z3Y0RJbmZjUUtNUWtxb0lZZjViNUk1UmJEejR0YW5jaXoya3pjT1Y4dTRJa3l4VW5KTnRrbktxQmptU3RjSFV5NW5fYy1nZw?oc=5",
-        "headline": "Kevin Warsh Has Breathing Space, For Now",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "07/22 19:00",
-        "published_ts": 1784714420.0,
-        "tag": "Fed",
-        "first_seen": 1784715325.9005873
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 07:30:54",
+  "updated_at": "2026-07-23 07:45:56",
   "yields": [
     {
       "label": "3년",
