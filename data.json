@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ib2w3RVRyRVFrWE9nMVRPVExOeVB3N1VaY2JldmxxX1A4dVJtSjZCbE9RTTRUSjdselhtVC1xN1RkaUxFWGJuOGtaNzl5N2h6VFF0eEc5RzZsSFhhc3U5NzJOTFFuNkt3RkNUUXNWWdIBb0FVX3lxTE5Ib2w3RVRyRVFrWE9nMVRPVExOeVB3N1VaY2JldmxxX1A4dVJtSjZCbE9RTTRUSjdselhtVC1xN1RkaUxFWGJuOGtaNzl5N2h6VFF0eEc5RzZsSFhhc3U5NzJOTFFuNkt3RkNUUXNWWQ?oc=5",
+        "headline": "내년 예산 ‘800조+α’ 초확장 재정…반도체 세수·구조조정으로 ‘3대 메가프로젝트’ 올인",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "07/22 11:07",
+        "published_ts": 1784686041.0,
+        "tag": null,
+        "first_seen": 1784692834.3925302
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DWk5LaDFxSnRCbFNiNURUOTVvNkM0UU56ZGFfN08wVUd6QnpYclRrdDlrVE9TRTM5blhGYnZnSDNKeDBJWE5FNmd6TXVLTi1COHRtTDJKRjQ3QXlEekRfeklPY05tWVlSRjduV1BZZUJoOVFX?oc=5",
         "headline": "정점식 \"아파트 편법 거래한 李대통령, 공정·상식 파괴한 주범\" |",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784511358.0,
         "tag": null,
         "first_seen": 1784513723.9017012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0yM2hXdkxQOUE0cFJfbHFKQ1lJOTU4Rk1xYkEwTWplVHpuRGFfVWd5QUpxYWY0UHJndjU2QzV0cDh5dWVZYUMwcDI0OVNpaklwY2xR?oc=5",
-        "headline": "발언하는 구윤철 부총리 겸 재정경제부 장관",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/20 09:23",
-        "published_ts": 1784506980.0,
-        "tag": null,
-        "first_seen": 1784511046.0173697
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 12:45:49",
+  "updated_at": "2026-07-22 13:00:58",
   "yields": [
     {
       "label": "3년",
