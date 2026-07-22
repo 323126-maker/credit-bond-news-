@@ -2,6 +2,36 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HTWRXTVRvTHRIYl9oOTFYUmhndnlpRU5xbGpBUVRxNE1WRHdDa0Z0OTZhWllzZzJzbHBuaE1kY3RqS1VtU01vdmdrM3dMT2E1eWlzNg?oc=5",
+        "headline": "[채권마감] 10년금리도 4.4% 육박 3년9개월만 최고 '중동 우려+외인 선물매도'",
+        "summary": "",
+        "source": "이투데이",
+        "published": "07/22 17:28",
+        "published_ts": 1784708880.0,
+        "tag": null,
+        "first_seen": 1784709033.3090014
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BZ2dqcFJubm5iLWxjNXI3aDB1VWg0WEl4UWZzYmpaV1FyX2llRVBGMVFHRDlFQi1PcHc1RlFaYjF4ZkFkaWF4Ym5zc05MRXNzNmsw?oc=5",
+        "headline": "[롯데건설 리빌딩]① 1.3조 성수4지구 수주 '정비사업' 재건 신호탄",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/22 17:15",
+        "published_ts": 1784708100.0,
+        "tag": null,
+        "first_seen": 1784709033.3090014
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Kand4NXF0d2NIZHZxVlc2SldSMnBXaU40RG1nNEo4U1h5MG1wUTVYOHdwYnMySm50LWhVeUdNT01fc0RDZFdXOXA4bEpxc3BiT3ZqZnNZMm82QQ?oc=5",
+        "headline": "\"AI 투자에 5448조원 몰렸다\" 회사채 시장 '과열' 경고",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "07/22 17:13",
+        "published_ts": 1784708005.0,
+        "tag": null,
+        "first_seen": 1784709033.3090014
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LckI4ZEYtV0k3TVhTYmtMSnN3NVBOYndkdkhVWWZWWWFkRTZTSTFDZTd4M2RDUGt6emxDQjdQZ0tybi05SFpUN2kwWERCSGM3Zll4Z1VIVFdTOHNBNUdOZ1dGLU0zT2F3aFQtLWlidGNEQQ?oc=5",
         "headline": "현금흐름 둔화 뚜렷한 KCC…회사채 흥행 ‘안갯속’",
         "summary": "",
@@ -370,36 +400,6 @@
         "published_ts": 1784610600.0,
         "tag": null,
         "first_seen": 1784611828.7718732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80cDZvZGJjZ3liYkVUTjNEbmpJcENFWGFqWkpNSzVzWjBYWGIyMzFOTDdFb1VBQTBNdWFBOFRRVFBCM09oTWxuMlVOd05kclk?oc=5",
-        "headline": "[AI 인프라 전쟁] 오라클, 데이터센터 투자에 '정크등급' 경고",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/21 14:08",
-        "published_ts": 1784610505.0,
-        "tag": null,
-        "first_seen": 1784611828.7718732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXSnpjVWZFUnBYVmFfa1BTUk81MlNqNXRhWWNudWQ1TXJ2WHhjR0lCaG5DcUx5dTVNdW9WVmh4dHR4bVZXZWU0dlRJY1Z0bzBobTNv?oc=5",
-        "headline": "충북도, 중소기업 자금 933억 푼다…홈플러스 피해기업 '우선 지원'",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 13:39",
-        "published_ts": 1784608740.0,
-        "tag": null,
-        "first_seen": 1784609126.2084386
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9jWUxHM2VnWTBaYjV1cEM5c1ZMU3A4a296RWYxV1FiUFgtT3Z4bWUtTGc4QVhDS2Q1UmxpRDNzNnFLWGdZNThxbGw5WC0xdW43Ty1J?oc=5",
-        "headline": "'AI 카나리아' 오라클, 신용위험 18년 만에 최고 수준",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 13:31",
-        "published_ts": 1784608260.0,
-        "tag": null,
-        "first_seen": 1784609126.2084386
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBrNUt1NHNSY0ZZMmpNY3ZzeHBDSE9BVWpRZndjMV85dlVzQkRDSU0xQnBvWXZRNVhnLXNvaEJ3U3dvNDEtMkdtcmNaWVA5SXRCYV9WWkNXaTlsVFhFRUU1dUtONWJTNGs?oc=5",
+        "headline": "[이슈] \"채권시장 강세 전환? 시간 더 필요하다\"...한·미 장기금리차 빠르게 축소",
+        "summary": "",
+        "source": "팍스경제TV",
+        "published": "07/22 17:21",
+        "published_ts": 1784708494.0,
+        "tag": null,
+        "first_seen": 1784709033.3090014
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeG1QTGotNWYtV0NxOThDdjRrSm5wVzVIOTY0R3RwT1FKdDBuTzBncnB2RUw5TGVfWExpNDFqS09OTHpqeHY0RHJaZXV5UGl2RzNaQW00QmRzM2ZSRjdnZ2ZnMmVhaVpaeUZPclA0Wlgzdw?oc=5",
         "headline": "[한은은 지금] 부총재 인사 하마평…백투백 인상도 영향 줄까",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1784238960.0,
         "tag": null,
         "first_seen": 1784449915.528357
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBkZ3JUbXJVX0l6d3NMR0IxZk1meGliRV9PNS1aVVlaQ2E0eHVSd2x0RmliTGU0NnBoSmJXU1RHX2xjVnFYZW5DcGVhRQ?oc=5",
-        "headline": "公敵 전락 '삼닉 레버리지ETF'…금융당국은 궁극의 해결책 찾을수 있을까?",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/17 04:51",
-        "published_ts": 1784231460.0,
-        "tag": null,
-        "first_seen": 1784308528.8799646
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TX3Voam5VRVZ4NkotTnFYZ1JVNDNzdXNId3dwdWlQblA1VFdfQS1VcElIRlVlblc4ZEw2RGVGMGpIV19rNUxLeVJwWGtHU3o2YUJTWklXSTZDSlBJQ1piczhoODdJMzVIUkRseE9sWW0?oc=5",
+        "headline": "이재명, 부동산 국민 대토론회 23일 개최…유튜버·실수요자까지 140명 참여",
+        "summary": "",
+        "source": "코리아리포트",
+        "published": "07/22 15:24",
+        "published_ts": 1784701478.0,
+        "tag": null,
+        "first_seen": 1784709033.3090014
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OWnJRSW45NnJSSkgwVDYxQ290NFRnQjdjLW9yZ09CMUIyQkJZV2hMR1luM3ZNeEFhVDF0SFNRUWRGUzlzZFo4UElkTERRcTlvVW5NbzlRWmFteXpybXRrenZTT2Q?oc=5",
         "headline": "정점식 “부동산 폭등시킨 이재명 정부…청년·서민 무주택 내몰아”",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784518137.0,
         "tag": null,
         "first_seen": 1784519127.3307853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9rOE0wWVF3LXo4dm5fX3l2Rk8zOHlVZmNFd3d5WHZOVmhsUWw4OGJZRFNrbjlUejM5eVZEWFNxMDdQYlZSNGgyYXFzd0o0ZE1GdmpDMlEyaF9heXZMXzg2YW1ZNGlHamNqdzBB?oc=5",
-        "headline": "이 대통령 “주가 누르기 방지법 속도 내라…선진국 지수 편입 왜 안 되나”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "07/20 11:44",
-        "published_ts": 1784515484.0,
-        "tag": null,
-        "first_seen": 1784538036.8416884
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 17:15:48",
+  "updated_at": "2026-07-22 17:30:55",
   "yields": [
     {
       "label": "3년",
