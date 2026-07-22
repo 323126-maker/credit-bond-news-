@@ -1620,6 +1620,16 @@
         "first_seen": 1784723432.5250742
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OYV9QMjlNS0IzNFlHNDliYUpWOFJKT3ppVmlUZTc4WC1IckxXQ2RNX053VnQzTEVST1FCeVlLNXBZcTZaQVlRV0pvQ09LeGNGRXB4UA?oc=5",
+        "headline": "UK, Japan 30-Year Bond Yields Rise More Than 10 Basis Points as Spending Plans Fan Debt Concerns",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "07/22 21:22",
+        "published_ts": 1784722937.0,
+        "tag": "JGB",
+        "first_seen": 1784725240.8961112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1lGM3IwY1FjV1RDQ3VFYUxRMlVjX0ZDQUZod2NsQTdXZk9XRFlaNDJmNE5uTXc0YWVlVFF2R3RLc09xNTZmZm5PLUR2V2xUcFZIb0g0czNObzNPeExsTlczdEJ2Y2FmT2l3V25BTUd0NU1teTh5X0lwTldrQmJnLUxqLWpUWGVhM2R6MA?oc=5",
         "headline": "Meet WarshGPT, the AI tool to decode the Fed chair’s limited communications",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Financial Times",
         "published": "07/22 10:00",
         "published_ts": 1784682035.0,
-        "tag": "JGB",
-        "first_seen": 1784682925.153999
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE55U2hvS2EwQ3FSdG5Va0xodTgyOVg3MmV4SUhXTGx5dGs4YXdMM1ZqanZSMlJlcXliWXpHckZQd2x3STA0OFpmSnAzR21BXzhGOW51OUs1NEt4V1MyV2c?oc=5",
-        "headline": "“금융시장 각종 리스크… 강한 수출 모멘텀으로 감내 가능”",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "07/22 09:59",
-        "published_ts": 1784681940.0,
         "tag": "JGB",
         "first_seen": 1784682925.153999
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 21:45:51",
+  "updated_at": "2026-07-22 22:01:19",
   "yields": [
     {
       "label": "3년",
