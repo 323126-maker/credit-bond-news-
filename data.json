@@ -72,6 +72,16 @@
         "first_seen": 1784715325.9005873
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05R2ZPWFJRalFLVFZJQldDcm4xWkRyX3Z0WVZhSWRaaWZ4bkNDdGFyLUNMVzNNUVFBRlY0RUdBczk0WWVhdFNhWFAzeC1MQmYza2fSAVNBVV95cUxNQldWaS1ldlJzRnRtVjhHdlZRRUxMcjZRSkFPLVV0QU8tdnhOM3lkN25NdE1ZV3NDSG9ZWndoZFF3bEthMlYzd2dsdjREOHVqc2sySQ?oc=5",
+        "headline": "금리 방향성 잡히자 회사채 시장 다시 기지개…3개사 5000억 발행 [시그널]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "07/22 17:29",
+        "published_ts": 1784708978.0,
+        "tag": null,
+        "first_seen": 1784725924.3585646
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yaTZWbS16dW5PTmlqMnFEa3JRZEJua3V4OWNBcksxdUsyMHBQX1R1eUlUTlFuWHdNaG9zU2xJTnBCUEZTTXVBN0ZmR2tMMnJwUmc5a0ZMSnd1ZVBEc3pLWElYOHo4T0dhTmtSamJn?oc=5",
         "headline": "SK에코플랜트, 회사채 수요예측 ‘10대 1’ 흥행…9870억원 주문 몰려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784622000.0,
         "tag": null,
         "first_seen": 1784622630.2795017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBYUzZOUndWN1Q1QjJic1B0a1hxT3doVzFMX0pxdVFwRUxfSU1oejZSbXNKZFRhNUI1LVV6azdNdFUzamJyd0RwT19Ta0kyaWdXajk2Y2ZCS0tHQVlOYjdwbQ?oc=5",
-        "headline": "[채권마감] 외인 수급+환율 하락에 커브스팁…초장기금리 이틀째 역대최고",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 17:07",
-        "published_ts": 1784621220.0,
-        "tag": null,
-        "first_seen": 1784621732.3385894
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Nk80RXRzRzJsSTZ3N0lubk84TmVsdEVIWUhIM1dRVGVFdW5IS2o2ZjlkODlsaFlWTjJrSFJEOVVJWFZxcDRXcVNwZEtNanFyREtmeEFQLVNqeUFlRjdndEdnZGw1RWM5azMybXBB?oc=5",
+        "headline": "[일본 엔화가 이상하다? ] 40년 만에 최저…'초엔저' 장기화에 일본 경제 시험대",
+        "summary": "",
+        "source": "코리아포스트 한글판",
+        "published": "07/22 22:09",
+        "published_ts": 1784725741.0,
+        "tag": "JGB",
+        "first_seen": 1784725924.3585646
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbXpPRXRlUWJiMDh2UXZJLU9EUzU4bkhfZmpkMEFvS1haWEU0MzFKRHFqNkZaaE5xa0ozNVR4UEdBUGY5MXBlRzdZXzRVOFRhelIxRE1yRm5RTzQzcGc5cWlVNUM5UjZzeEhwXzNnMm9BN0kyZ1E0UVhxd2RkSlZNVXFVZEFQTHZ3WlZxRjY3eUJ2b0RpRjMwbDltclk1WTRXUDU1UHViZXVKM3BlMzVOVS1aazk?oc=5",
+        "headline": "Japan's policy doom loop sends yen to 40-year low",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/22 22:02",
+        "published_ts": 1784725341.0,
+        "tag": "JGB",
+        "first_seen": 1784725924.3585646
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQzVHbTdjRW9GOGZyZFhZdmtzemRrRzlxNmQzTTF6Ry1XZHNPOGxqcUZCTmN0bFBBSl9aX2lLS3lGQzZ1N0JJeDFxOXExOXp4NGIwNEtYbm1xNTdoWEt0OG9mWm51MEtWRWVRVi1pOWVTdnZQWVpVVDJQREVwQzdvQU9fOFN6ZnROa3dSVVd1ZjlrS1VSLXY0TQ?oc=5",
         "headline": "Moody’s quarterly profit jumps on bond issuance activity strength",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784684540.0,
         "tag": "JGB",
         "first_seen": 1784718925.4721959
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84ZTdYaWFNNGhFbklSNHo5Q21QT3hRZFotczNIUDkwc1dQc1E1VjI4SmlWOU9Hc2RVS2Q3ZkxuXzZ0TUZkdzVFaUpqWTc4MFJxZDVneA?oc=5",
-        "headline": "日 6월 수출 전년比 19.3% 급증⋯3년 7개월래 최대폭",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/22 10:19",
-        "published_ts": 1784683140.0,
-        "tag": "JGB",
-        "first_seen": 1784683830.113656
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUlh6enhQc3kxdUNCNnBhSGtMQzIySE9aX0FnVWR3ZU15UVRpNXpWQ0dMdmV6VXQwRTE5WWlxdDIwR2pSNFBmaFhkSmJTU0U3ajFVTGVWUHpuelFyMi1TMzlWc091dU9NVTZpNUYwQjJkMDNSXzhZMVd6VDlmc3gzTlJ5Y2o?oc=5",
-        "headline": "Investors fear Japanese bond bets risk becoming new ‘widow-maker trade’",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/22 10:00",
-        "published_ts": 1784682035.0,
-        "tag": "JGB",
-        "first_seen": 1784682925.153999
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 22:01:19",
+  "updated_at": "2026-07-22 22:12:28",
   "yields": [
     {
       "label": "3년",
