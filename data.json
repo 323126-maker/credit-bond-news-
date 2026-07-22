@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOFEyQzMxdDE4MlBVaU9kY1A4M0QwSTFqd05oaTVRV3lwaVhtMGNtc1NmbF94SGpwekVKT1pMaUxIZGExT3ZLc0dBQTNBMHU4OTd0MG16UHRDYnNkU0dlUEZkTXZjZHFkM1VHTXRPUTg1MFFtMWo1dTZCZkNvU2FSbjR5TTZUc18xWHlhRUFNYzVwV3Nja0RzR0V4Q0FwZTlpS3UwRTBMTVAwLUJxNHprekMzZVVoT2d6ckhKeEJn?oc=5",
+        "headline": "The Fed Sought Early Access To Anthropic's Mythos To Address Its Capabilities. It Didn't Get It For Months",
+        "summary": "",
+        "source": "International Business Times",
+        "published": "07/23 00:13",
+        "published_ts": 1784733199.0,
+        "tag": "Fed",
+        "first_seen": 1784733333.278411
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaG03eFQtTEw5NGZmLVF0Z3lhbWVqb3ZacU5LSW5JMzgzUlIzSjRSNXVweW9LQzU0TnhuZUZfOFlyZldhVmVBVlNwX09pa1l6MXdidWxhZklTYUlsSkVZQmF2cVFjaVZBNHRsWlhJbTZHeWQyZlRzT0E1T0Q4bjRGME9HYVNNTTROT3R0ZEt5anFhYnUwdzRsajdNb0dSLVNSbm50d0htR2tIcXdibmhMalpR?oc=5",
         "headline": "As Oil Races Toward $100, the Federal Reserve’s Next Move Gets Cloudier",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784692202.0,
         "tag": "JGB",
         "first_seen": 1784693730.8153396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYWx0VFBjRFp1SGhIZzBYd19ZM2szczNTVVNISERDcXE1R2VLRnFrcE80ODlHWWNrYXluMTA1c1psTE54ZHBpdFdoU0RfVGkyeVk2UFloTGRFVUE5X0RHZE1PM211bkV5RWpTMUR5bXVwanQ5YWVsOW01bUl5MWhCMEh2SGNiNXI0Y2pYUWl3?oc=5",
-        "headline": "7월 22일 금 시세: 금, 은, 보석 회사별 가격표.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "07/22 12:15",
-        "published_ts": 1784690145.0,
-        "tag": "Fed",
-        "first_seen": 1784723432.5250742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 00:01:05",
+  "updated_at": "2026-07-23 00:15:55",
   "yields": [
     {
       "label": "3년",
