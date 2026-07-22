@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTBtckZxQ3VDVU5xSjdsOEsyU3Z0blliOWR0Ujg2RXVock0zYkF6UHoxUElwMzZNTEVreXE1Ynh3djljZWVyUGxUdjJmSzJIZ3laa1FFZTBxRTFSWjE3dE03T2Y0Zi1uODMwYXpuMEZsQ3BLMzBRaWgwNERkWkFYVDVyVQ?oc=5",
+        "headline": "Oakmark Bond Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/23 03:50",
+        "published_ts": 1784746200.0,
+        "tag": "Global",
+        "first_seen": 1784746842.4078984
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX295UWp6cWRqTDRKMkxCaXZXb0Q0QjdhVjdKeGJYclZZVDRqZHdLZnlzVmk0NlVndFNSWkhDU2RLMUxzY3RXaEJnQVU3UTgzMHN4bHFvVGpNT1VmUnBwYlNLMjRGMmdRbWoxSzFFS1k1TVNOVzl3dFg1TVRyVGdwcE95SVFZVkhrZ0c1MVYzR0JNQ3NRQkdNOENHTmRoWTRCZ3VCVlg0VFR0eS1FeVRsMFp0SHhvZzZW?oc=5",
+        "headline": "Global corporate bond sales hit $3.7tn in first half on AI funding race",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "07/23 03:41",
+        "published_ts": 1784745660.0,
+        "tag": "Global",
+        "first_seen": 1784746842.4078984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUERXeldBSWVjOGs2SHE1azMyOEU1SFRabTdBemprZFI2Z01kRkd3d240c2dtQm1SOThqRnpFWmg2U1ZGYkRYSXdFVHJMM2ZOM0ZWMWVBekZZMkN0X1pyMzlFcDJUN0VFY1Uya084TGZLUzhudTFObE9vTFNOeXJxeGdfNXVBZVRIb2hpTnJuLS1feF8yWk5NaU1B?oc=5",
         "headline": "JPMorgan CEO Jamie Dimon Just Issued a Stark Warning About Long-Term US Bonds: 'I Would Not Be a Buyer...'",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784709060.0,
         "tag": "JGB",
         "first_seen": 1784710847.5204263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzQ2ZoNkw4eGJ4VTh1dDhPVUdBU1d5VXlNeVg5S0FDWG5SeThaSERFSDQ1a0o3RjNVTWo2VGdWdTgteHZmNGxlVW5HcDY1OVdSczBN?oc=5",
-        "headline": "이러다 원·엔 환율 800원대 가겠네…'슈퍼 엔저'에 금융시장 바짝 긴장",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/22 17:31",
-        "published_ts": 1784709060.0,
-        "tag": "JGB",
-        "first_seen": 1784709925.465496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Teno1TzNnUU55S1dURkNNallPRU44X01Fd1RaZXNyYl9DY3Bzcmx1UVpydzZiWno1eXFEZF84WWkzYUpWWUdKRjQ1MmpVenV1NXFqbjZxcTBaaDFuTjhnRQ?oc=5",
-        "headline": "\"BOJ, 엔 약세발 물가 우려에 금리인상 가속화 열어둬\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/22 17:31",
-        "published_ts": 1784709060.0,
-        "tag": "JGB",
-        "first_seen": 1784709925.465496
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 03:45:51",
+  "updated_at": "2026-07-23 04:01:06",
   "yields": [
     {
       "label": "3년",
