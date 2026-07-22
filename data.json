@@ -1640,6 +1640,16 @@
         "first_seen": 1784715325.9005873
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbk5XTWpZVmxfNVVfS09IeVhTdzhNQ2hGRkFaWl9rLXFKZ1VrYkxLY18zcEQ1XzRpREM4NTNsMlJqZ0ZvTDlFeTNmWVdIQXBEWDBHeHNiaXBaaUdvVzdmdHFnMk5UNFZuYWt2X2d2RERZTHp5TzFHbHNXVjJCVXo2aG9sYWdhVkpsRWx0RUxlMWlxbGRvSFBCTlcyM2F1MmZKa1Zz?oc=5",
+        "headline": "As the Fed rethinks its balance sheet, all eyes are on liabilities",
+        "summary": "",
+        "source": "American Banker",
+        "published": "07/22 19:00",
+        "published_ts": 1784714400.0,
+        "tag": "Fed",
+        "first_seen": 1784718045.1276052
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OMmp4S2ZRWlJQdW9ZdFVEaEFjODQ5MkF1Q1BOdkFibzFmY1JBUDVLZ0ZfaFpNRGFHTXE5MnlBU05fSkFuQ1NmV0FBa2UtZ2p5aW9UT3p4WVpOUQ?oc=5",
         "headline": "재정지출 늘리는 英·日…국채금리 상승 '부채질'",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "네이트",
         "published": "07/22 09:21",
         "published_ts": 1784679660.0,
-        "tag": "JGB",
-        "first_seen": 1784680232.4088266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzZPcVRpOEh4QTlRVHhXbF9sdk9GWUpSNVIzMk1ob1FDN2FEUjNLdV95QzMxZHhFR1BQemZfQXE1d3g2aUZheEstQlBZT0YwSjJacmZMRlAxSE1RelZkYVVUWXA4LXpzWnRQTGdNSm9PcW0yX3NtLTNFbF9YOUVmM2R4dHg?oc=5",
-        "headline": "Yen Plummets to 39-Year Low Amid Fiscal Policies, Middle East Tensions",
-        "summary": "",
-        "source": "조선일보",
-        "published": "07/22 09:17",
-        "published_ts": 1784679468.0,
         "tag": "JGB",
         "first_seen": 1784680232.4088266
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 19:45:50",
+  "updated_at": "2026-07-22 20:01:16",
   "yields": [
     {
       "label": "3년",
