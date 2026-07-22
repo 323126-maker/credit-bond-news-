@@ -1218,6 +1218,16 @@
         "first_seen": 1784682925.153999
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GeTFidFZ3OW5HajRRRmR5Zzg0TTZLVjZFVnBlbmhOakttZ21FVHJJTEo0VU14RTBUNzlqdzZaMFdXNUpWMDNJdy11dEttbWZRU2I5VnpNQkpscUtuRlo3YtIBYEFVX3lxTE9GeTFidFZ3OW5HajRRRmR5Zzg0TTZLVjZFVnBlbmhOakttZ21FVHJJTEo0VU14RTBUNzlqdzZaMFdXNUpWMDNJdy11dEttbWZRU2I5VnpNQkpscUtuRlo3Yg?oc=5",
+        "headline": "국힘 \"노란봉투법이 메가프로젝트도 가로막아…자업자득\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "07/22 09:45",
+        "published_ts": 1784681118.0,
+        "tag": null,
+        "first_seen": 1784688328.9825096
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzbFBJMzJsTFIwSmZXT1JtQXZrbHNlZFcyVjZKa0NCUEhDN0llZS1NeXNuMi1sTWc5MzJDZ1BtQzhxc29YRklIdjJISG9rVHBqdVFV?oc=5",
         "headline": "유튜버·맘카페까지 총출동…이재명표 부동산 난상토론에 쏠리는 시선",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1784505798.0,
         "tag": null,
         "first_seen": 1784525590.8824158
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4T0g5ZWJaMmJnVWR4MF9zdzBndHFlLTZmZXlSTVVfbjZvT29wRDRPNDVQQlN4OWh2eWRxT1RmdGdxaVByNzRZYmJ1bUwxSGl1aTJuekZoZXVoNFAtYU43cEQwd0pmOWJnT2hz?oc=5",
-        "headline": "김정관 산업장관 \"반도체는 국가 생존 전쟁\"…재정·제도 총동원 예고",
-        "summary": "",
-        "source": "폴리타임즈",
-        "published": "07/19 14:35",
-        "published_ts": 1784439313.0,
-        "tag": null,
-        "first_seen": 1784440004.7384174
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtMHEyT1g0WVRGck1rRGY0NWVRQmVQTzMxWXN1OHI3MUR6RjdyLXd5SVFPblFPOG84QVIyc0RObmJRTzJLbHgyd1R5dkZvenZkNnhIcVBUN1pJX3MwSUpxb28zRlFHY3Z6VHd3elFB?oc=5",
+        "headline": "日370조엔 ‘사나에노믹스’ 경고…국채금리 30년만 최고·엔가치 41년만 최저",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "07/22 11:29",
+        "published_ts": 1784687361.0,
+        "tag": "JGB",
+        "first_seen": 1784688328.9825096
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QSktVcVA5cGk4NWtuSERFNHdnSlppQ2ZwZzNPWklwUVlUa3FjVk1Hci03akQxVDJOdm9fUDFNNERCbWxoMTlfN2FwMUJRZGUxVXFIa05WYTFCclZkME1oSw?oc=5",
         "headline": "엔·달러 환율, 40년 만에 첫 163엔 돌파…중동 긴장에 정부 개입 경고 무색",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784649302.0,
         "tag": "Strategist",
         "first_seen": 1784673032.3368428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU2FEdGlvUHNza0piMnNIZ1RFMGgzdHU0d3JLTjZTUTF0Zl9kRnNjVG5wODNRcTAxRC16ZFZib0Fyc0Rna3FCejNPYV9TME5zVFZPSGtwMGFpZkp2Yno5VGM3MWRfd28wQkFGOFdVX0lyWmJnRFJ5OXdFdTVaVGxnQjhvd09MeG8yUDFMNGdjYVhUZHNUSlVCaFBlNHdJNm1Td2ZJYjhOcGt5aHlMR191U0picldtUzBQUUJONDB1WVZxd3NNdGY5MzliLUs4dHRXcUR2QzdlTXB1Zw?oc=5",
-        "headline": "U.S. Investors Looking for Global Fixed Income Exposure: Try Government Bonds, Selective Credit Picks",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "07/22 00:15",
-        "published_ts": 1784646910.0,
-        "tag": "Global",
-        "first_seen": 1784647840.8417215
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 11:30:53",
+  "updated_at": "2026-07-22 11:45:50",
   "yields": [
     {
       "label": "3년",
