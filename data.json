@@ -32,6 +32,16 @@
         "first_seen": 1784709925.465496
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SUQwcFJraGN1QVFfcVlwRmozd3pQMGl4SXlTd0pHUC1xREZWRzhla1kxdGlDRUU0Y0d6ZUp6aGNOdW1OSklwUEEzcWZaVkhtVmNsUFZRS1hSdHRnamIzSUpCMGVoOWRKSXNKZDdyT2LSAXRBVV95cUxOWWtTOXItb05IRVBlSmtKQmtoQkpsNVJKdVFSU1l5MWVmTk9ZcnFRNnpoWHRtdnp4d19fRFJVcHlPc25IWkJ2X2hjMGxTMzBadlVvNDF1WTBtaU1FUlpaWEVXc1BDWUpsRE9ESkxWWGJGejBBVw?oc=5",
+        "headline": "달러-원, 7거래일 만에 상승 마감…서울장 종가 1,480.10원",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/22 17:30",
+        "published_ts": 1784709055.0,
+        "tag": null,
+        "first_seen": 1784715325.9005873
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yaTZWbS16dW5PTmlqMnFEa3JRZEJua3V4OWNBcksxdUsyMHBQX1R1eUlUTlFuWHdNaG9zU2xJTnBCUEZTTXVBN0ZmR2tMMnJwUmc5a0ZMSnd1ZVBEc3pLWElYOHo4T0dhTmtSamJn?oc=5",
         "headline": "SK에코플랜트, 회사채 수요예측 ‘10대 1’ 흥행…9870억원 주문 몰려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784617586.0,
         "tag": null,
         "first_seen": 1784644239.2499845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9zcEEzMENVLVE3U2Vham4tM2FoeUU4VFE5SEZubmJ5OUVyYUlCb1F6WGl6Y2MxaGR0LU9nUzBnbFUzbjVXUGZhbnp6ZE9UNzNJLTFiMHQ2WDVBdmNjNjBlREpFWGdOUnNXX1M1VHJoY9IBc0FVX3lxTFBqQnFEdWQwbjljZWpTWHl1M09vZ1BSVmNzNmJSVE5IMVRheU5aRkxTbTQ2UXNLYTg3YU5VbHJPRUFWRW90MThMY1N5cHhYampPaEJoVGU4WUU4b1ZoeHMwa2hqNDZnYlVtOTg5LVZjbnRSUUE?oc=5",
-        "headline": "부동산 PF 부실 장기화 … '저축은행 신용등급 '줄강등'",
-        "summary": "",
-        "source": "세이프타임즈",
-        "published": "07/21 15:59",
-        "published_ts": 1784617158.0,
-        "tag": null,
-        "first_seen": 1784627124.25348
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5QdWk1UHpUaW93aUVyTE9Uem44cUpuZTZpNDdWcVdpSm1KNm40T2w2ZUJWUjNuaUZtS0ZTWHhSUl80OGNtdTR4UjQ2a09jc2M?oc=5",
+        "headline": "‘호네부토 쇼크’ 다카이치 지지율 50% 첫 붕괴",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/22 19:04",
+        "published_ts": 1784714688.0,
+        "tag": "JGB",
+        "first_seen": 1784715325.9005873
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUWdVMHFpc0d6S3o3TXlwbEt6a01wdU5rQ1VHbE5qRmJDMkhWX0R3aUF0QXBFeWplM1c4Q1NQdVdLNlVPWFhMU1F4Ml92clNrM0Z3OXh6anZ3eHRobTRWcmUtS1ZKX3B0Z0VORHAzY0Z3Y0RJbmZjUUtNUWtxb0lZZjViNUk1UmJEejR0YW5jaXoya3pjT1Y4dTRJa3l4VW5KTnRrbktxQmptU3RjSFV5NW5fYy1nZw?oc=5",
+        "headline": "Kevin Warsh Has Breathing Space, For Now",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "07/22 19:00",
+        "published_ts": 1784714420.0,
+        "tag": "Fed",
+        "first_seen": 1784715325.9005873
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OMmp4S2ZRWlJQdW9ZdFVEaEFjODQ5MkF1Q1BOdkFibzFmY1JBUDVLZ0ZfaFpNRGFHTXE5MnlBU05fSkFuQ1NmV0FBa2UtZ2p5aW9UT3p4WVpOUQ?oc=5",
         "headline": "재정지출 늘리는 英·日…국채금리 상승 '부채질'",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784675264.0,
         "tag": "Fed",
         "first_seen": 1784679327.1797373
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNVV9xUWZxN3hxakhjd3VxZ0RCeU5qa3pqc043cG1vQ0NQMWxiLW5DQkxoMnp5M2k5ZE54UEVxUm1JbUdOTGJZNFhYajZsTjVFRlZWamk4eGpjMGtkb0ZEOXJoY1plc2VDSjI5enVHOHRSMkVzVEdnQ2VGaDB4V2dwZ2NScXZQUnh2MzVLLWcwS2hkc2JUczBwME5sTU9zNmE5LXgxWXp2eE0wUkNOUUJpZll3cEtfb042Z1VzTlpfamtLbTJqTjVjOGVCNERlcFhqNFJrTlB2TjdoYzVfM3NmOVVpUDBQR3VvSGdydUZLT0hXMjE4eU10TTQ3SkNKZVk3elBDZVB4N1NWRWph?oc=5",
-        "headline": "JPMorgan's Jamie Dimon made bearish call on treasury bond market. Many investors already acted on it",
-        "summary": "",
-        "source": "MSN",
-        "published": "07/22 07:56",
-        "published_ts": 1784674607.0,
-        "tag": "Strategist",
-        "first_seen": 1784674836.8543184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQjhaY05PT0k1THhrNm1tOTNmRDZsbi15OE5pa2ljXzRuOWlHVzN5QnY3NU42UFRvQjZQeWlLOEpoNm9xYm0tRl82VndURDc2czMySS1lUHh2YUZqdnFxQ0tOdnI4bUxqTFEta1BuVGxKNDdZV0h4Z0xQUzlhemx3TA?oc=5",
-        "headline": "유가·금리·엔저 ‘삼중 악재’에도…“AI 투자 영향 제한적”",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/22 07:56",
-        "published_ts": 1784674565.0,
-        "tag": "JGB",
-        "first_seen": 1784674836.8543184
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 19:01:04",
+  "updated_at": "2026-07-22 19:15:45",
   "yields": [
     {
       "label": "3년",
