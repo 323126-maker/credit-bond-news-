@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNY0lYNy1fdVFFTjdwRG11OXdkb2dSdldLNDlDZlNUcm1rT3dBcFl5Ukc0SWxCNjRoSnRBUmNWcGV4X01VWDExTnV6QW5VaVlvYmtyUGFKUC1iVzJmdi1uXy04WVIzN21JM0FkUko1MzExaS1vVy14QVhURFpRWGJIYllPNUo0ZXBzLXk0MkFGUHlDMDlRMVZ0cjRibERTNGljeURHejVDREQtTGF2QzRTdmRSLWhIejJuVENiSG0yS3VUN0dsVlMyU0drXzdweTJUSjh5VG0wWlJpVVRhTGc?oc=5",
+        "headline": "Bond yields rise as elevated oil prices reignite threat of 'renewed pressure on inflation'",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "07/23 01:26",
+        "published_ts": 1784737579.0,
+        "tag": "Fed",
+        "first_seen": 1784737834.4533443
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SzVreGNCUzJWbDJpMXRuS2lkd2lTaTNRd2V3NDIwSnFUa1lCNHI3VHdpLWFwSkVaWmZYbEQ4TTVSYTg2U29GbFdoNWg2V1ZpQ0hFazlSbFlIMV82cnlMX2lCQmxkZ191?oc=5",
         "headline": "A quieter Fed chief means others narrate the story",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784700121.0,
         "tag": "JGB",
         "first_seen": 1784706335.4965017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjhQNE5MMmVYVVljY2pfUVRVYzdKcGdlZlM1bmpKR3ZodDhCSGJyeng3Z2Y1YVZRel84eTBKRGpQWVVzWTNheW5od0xKNFZkOUtkX0RVUHJUV0VfYUctYkpJTVZxMVBsdHBYMXd5RVFsNU1GM1VTTXpWOEtzVkJfd1VJNXczUDY2X3RGS0wzSVBCYkRYN2tIRVExVUc0WUHSAZ8BQVVfeXFMT2I4UDROTDJlWFVZY2NqX1FUVWM3SnBnZWZTNW5qSkd2aHQ4Qkhicnp4N2dmNWFWUXpfOHkwSkRqUFlVc1kzYXluaHdMSjRWZDlLZF9EVVByVFdFX2FHLWJKSU1WcTFQbHRwWDF3eUVRbDVNRjNVU016VjhLc1ZCX3dVSTV3M1A2Nl90RktMM0lQQmJEWDdrSEVRMVVHNFlB?oc=5",
-        "headline": "The Unseen Forces Shaping the U.S. Economy",
-        "summary": "",
-        "source": "Devdiscourse",
-        "published": "07/22 15:01",
-        "published_ts": 1784700078.0,
-        "tag": "Fed",
-        "first_seen": 1784712636.724277
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 01:16:00",
+  "updated_at": "2026-07-23 01:30:56",
   "yields": [
     {
       "label": "3년",
