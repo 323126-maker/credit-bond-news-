@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1lQjFxMjg3T3piRGMxNWNmZjBtd21QRzc4MDVxMzNGMVJlOWkyNmhfSndTVlRJWnQ3MklpZkpVY2xaN2NZMkNBS3NFemY1b3JKS3lUVU93?oc=5",
+        "headline": "‘엔캐리 청산’ 피바람 불지도…日 정부의 수상한 시그널",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "07/23 05:00",
+        "published_ts": 1784750444.0,
+        "tag": "JGB",
+        "first_seen": 1784751327.2372136
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOTBtckZxQ3VDVU5xSjdsOEsyU3Z0blliOWR0Ujg2RXVock0zYkF6UHoxUElwMzZNTEVreXE1Ynh3djljZWVyUGxUdjJmSzJIZ3laa1FFZTBxRTFSWjE3dE03T2Y0Zi1uODMwYXpuMEZsQ3BLMzBRaWgwNERkWkFYVDVyVQ?oc=5",
         "headline": "Oakmark Bond Fund Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784710892.0,
         "tag": "JGB",
         "first_seen": 1784711726.1375055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA2XzdMSmQwU3JlODFrTmc0T0lQNDdjTTd5VjB4TjJOYnZzVlpyTTBObjdLQmdrQS1UeHZVY3BkVW5rOVZsMU90T3J5cDdSVDRLZ0MtY0g1eXFhOFFMZC1wWG5VZGNQNVZRa1JCb2lJS0I3aFduRkh3M29aa9IBgAFBVV95cUxQTkdDU0l6d2lKSV9Pd253Vkx0TFJjdHdvN0dtRkV0OG81S09NdFVRa2ZMWGV0SW9rOWNONkZpbFN6aU9JUHVnSlJaV1ZXemVRcEY3OGNGZF9QUnBfZWpGTmJuSklTYXdxSVA5UVlkVzd5cGFfdVZtSUQ5bTdjd1BwWQ?oc=5",
-        "headline": "U.S. 10-year Treasury yield flat as traders reassess Fed rate hike bets",
-        "summary": "",
-        "source": "CNBC",
-        "published": "07/22 18:00",
-        "published_ts": 1784710813.0,
-        "tag": "Fed",
-        "first_seen": 1784731528.707481
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 05:01:04",
+  "updated_at": "2026-07-23 05:15:50",
   "yields": [
     {
       "label": "3년",
