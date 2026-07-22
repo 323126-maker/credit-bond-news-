@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeG1QTGotNWYtV0NxOThDdjRrSm5wVzVIOTY0R3RwT1FKdDBuTzBncnB2RUw5TGVfWExpNDFqS09OTHpqeHY0RHJaZXV5UGl2RzNaQW00QmRzM2ZSRjdnZ2ZnMmVhaVpaeUZPclA0Wlgzdw?oc=5",
+        "headline": "[한은은 지금] 부총재 인사 하마평…백투백 인상도 영향 줄까",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/22 13:10",
+        "published_ts": 1784693400.0,
+        "tag": null,
+        "first_seen": 1784694633.026915
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSMGdlaXhzQ05LZWpVeko1RDhiUk03OVBkNXZxTUZSRzdhY3lsSEpzUW1PbVBEdk9wWWRBSVFMeFgwWThfc2xYN2RXX1FSdWQxaXRvUUtlcTFGb3Z4R3FyT0xMSDU0RGxjUUJVUHl3MERRUQ?oc=5",
         "headline": "[노현우의 채권분석] 채권시장 대체 왜 그래…체면 구긴 족집게",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784231460.0,
         "tag": null,
         "first_seen": 1784308528.8799646
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vMEtUM0ppbDBMQ2Z2MjVKemdUbnc3c0h5cmZkWERNVHhzX1pPNEoyekhmM3NVWElia3VPY21PRVl4d1FXMl9odDZEWVB0b0szak1lS3lUd0tjTXZwSWdtR0pKeVNKYlFHMGEwZzlWbE4?oc=5",
-        "headline": "한은, 기준금리 2.75%로 0.25%p 인상…물가·집값·가계빚에 3년6개월 만의 긴축",
-        "summary": "",
-        "source": "thedailyeconomy.kr",
-        "published": "07/17 00:00",
-        "published_ts": 1784214000.0,
-        "tag": null,
-        "first_seen": 1784450723.3579924
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05NjUweFZfcV9VMzJTNjRBRWxfckVITkt1MzRUTlJKdG1tWnpMVnBmd3V1SFFrRDhYQ21iRmw0aFgwNUxmZnJFY19RdE92Vm9pbk1mc0hPRDNGOV9XbmhZVVdsLU4zODQ?oc=5",
+        "headline": "아시아 외환: 엔화 163엔 돌파, 원화는 강세 유지",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/22 13:13",
+        "published_ts": 1784693580.0,
+        "tag": "JGB",
+        "first_seen": 1784694633.026915
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0wT1V1RzhZNm9CZHlVUWo3T1c4MlJHLTJLaFoyR1pxdWFkVGRkeTFiX19aZXlrOVRxV1VKd3dwdXl2b0RHcVRoVXRSWTE5QUlqY2Q1bTJ6ekExejA2Y1Z6b2xjUmR6VHBydWN1RktSajMxQQ?oc=5",
         "headline": "前 골드만 분석가 \"BOJ 매입 없다면 日 장기금리 두자릿수\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784652300.0,
         "tag": "Strategist",
         "first_seen": 1784666724.9975524
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTW1XQ2djaUg3N0lFdUk3SW1BVkFuZ0l2WUl5bVgyZkt1VHl6ZlhCZ0dIbV9HUWxHNzZjcngtS2tWWGd3SWd3RS1WRTItX0xCb01EOWlYWk5RQURXSEFuWmtwZ0VFRVZrVm8yNURrYWVDdUhjUVBoOFhsQWp0ejI5bDdFTVZQTVNJelFhcVR5UQ?oc=5",
-        "headline": "Mitsubishi UFJ Financial Group Inc (MUFG) 주식 움직였습니다 상승 3.43%에 7월21일: 변동을 뒷받침하는 사실",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "07/22 01:16",
-        "published_ts": 1784650619.0,
-        "tag": "JGB",
-        "first_seen": 1784651445.7733269
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-22 13:15:52",
+  "updated_at": "2026-07-22 13:31:03",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.297,
         4.336,
         4.328
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.541,
-      "chg_bp": 2.9,
-      "series": [
-        4.298,
-        4.316,
-        4.297,
-        4.301,
-        4.333,
-        4.27,
-        4.365,
-        4.336,
-        4.344,
-        4.375,
-        4.396,
-        4.431,
-        4.431,
-        4.413,
-        4.423,
-        4.492,
-        4.468,
-        4.453,
-        4.512,
-        4.541
       ]
     },
     {
