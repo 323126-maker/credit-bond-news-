@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQ2lubGNTWnNMYlU4czVITWxHX2FqaGRubDlTdFVVMHlZNEVfNFZUV2k0cEdGMlU3aThKUjNTODliTm15Z1JlQlRYa0E3SS05ZWYwa2N6ZDRodlY1UXhSZUVQeHRNU25iVndMa05wUF92UQ?oc=5",
+        "headline": "국채선물, 美 국채 약세에도 소폭 상승…10년물 1틱↑",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/23 06:09",
+        "published_ts": 1784754548.0,
+        "tag": null,
+        "first_seen": 1784754979.7574
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1dnNfZ0R2WG54Vi1wYk9VWnVYUXY4WnJLMnFIdGlsa0lEeWR4a1ZYOXhmZHAzSXhkNWd3VlpBSVpqMURkVXlHdVItVkR5Wi1hWnZIZ3E0VnViNXZ3djU2OHN3c1lmdzJDU2dLd0pNY0FoUQ?oc=5",
         "headline": "[뉴욕채권] 이틀째 베어 플랫…유가 급등 속 FOMC 인상 경계감↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784623500.0,
         "tag": null,
         "first_seen": 1784624441.8485632
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBqcWsxUXhobmttM1FTNGhuUVczTDN2WnJiYWl6cGJvakl4NXJKc19HdDBCbVAwbndGMHZYN3NfQVQ2d3pyXzRBeUNkOHp2U2xSNUxz?oc=5",
-        "headline": "커지는 AI 투자 불안감…'풍향계' 오라클 신용위험 역대 최고",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 17:35",
-        "published_ts": 1784622909.0,
-        "tag": null,
-        "first_seen": 1784623529.0518055
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 06:06:05",
+  "updated_at": "2026-07-23 06:16:43",
   "yields": [
     {
       "label": "3년",
