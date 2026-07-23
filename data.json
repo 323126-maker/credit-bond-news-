@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQMXBzd3BUSEgzbTBrWUZMSEFXWVpsVGtrSVZFeDJjZjJQbnY5Q3ViTE55Z05RQ18xS0trZG84X0xaZi1ielBFeW9IYkJvT3dYVFVkSlo2U2Z5Y0h1bzJyN21acnV3S0VzMHdNSWk0WmxBS00?oc=5",
+        "headline": "BIS비율 높이는 KB금융, 2700억 영구채 발행해 채무 상환 나선다",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "07/23 16:08",
+        "published_ts": 1784790507.0,
+        "tag": null,
+        "first_seen": 1784790932.7588973
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9PVERmRHRadEJqSTFLUjNfbjZCLXh1dEFHQ2VjNlBVNjFNZjZtYXZXSzJlNVJudDJoR29ETTJOQ0M0TE80Vy1SWlNwYk1kOFdvX0ZKcklmSHRMdEFULTh1R3IxUExkanpMbmJXTA?oc=5",
         "headline": "신한지주, 최대 4천억원 영구채 발행…BIS 비율·자본건전성 강화",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1784273697.0,
         "tag": null,
         "first_seen": 1784355326.1231687
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1iTDF2UFBCcmk5SDNZWmZ0el9keGNSbk1KbUJpQ0FYVXNBbHBabTRUeTZzSVFudXpmVS0tUi1kOUc0SlVrVS1QR0JEd0wxRk9KX1lPdzJYUkJXTU5RbktUSkRvUVVHQUlHYW9qelAwQdIBb0FVX3lxTE1iTDF2UFBCcmk5SDNZWmZ0el9keGNSbk1KbUJpQ0FYVXNBbHBabTRUeTZzSVFudXpmVS0tUi1kOUc0SlVrVS1QR0JEd0wxRk9KX1lPdzJYUkJXTU5RbktUSkRvUVVHQUlHYW9qelAwQQ?oc=5",
-        "headline": "건전성·자금조달 부담…한은 긴축 전환 영향은?",
-        "summary": "",
-        "source": "한스경제",
-        "published": "07/17 11:26",
-        "published_ts": 1784255190.0,
-        "tag": null,
-        "first_seen": 1784426521.250031
       }
     ],
     "policy": [
@@ -1650,6 +1650,16 @@
         "first_seen": 1784787326.2736354
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVZYU2hOU3JLU2dYdzI5R01vd3h1MmJuVFFaTTFDX3NjOVltbWw4Ri11VEZjMzZMUzJCOHhkRE5zVk1tSUc5dzhZaWtKcUtQN28wc3l6OUV3bWdOeXNCMW1DSW84cy1LU0Z1bzVrSmhEOE85Q3UyZlhDWHJSV1J2Y0RZMTJ0ZlFmckFVMg?oc=5",
+        "headline": "Bond outlook: Between a barrel, ballot box",
+        "summary": "",
+        "source": "The Malaysian Reserve",
+        "published": "07/23 14:37",
+        "published_ts": 1784785050.0,
+        "tag": "Fed",
+        "first_seen": 1784790932.7588973
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVR1M2VqT0FRMHFMSlduSVI1V0tabHJ6S3RpQkp1bF95RU1SOTNjUHJoT1Z5MVBTeURacDlJN25FT1BFcHA3RnRtUjVJaWJnMlh0VG1qVGJxdTRMZ2p5OE9NN2lCX3FFREdXdVNibzJqS1dtdTN5b2ZKVExMaUpranFKU3NDY19vZzQtUklKVHFYRkhtY3pMOUU5OU1rTE1EYkhF?oc=5",
         "headline": "Nikkei 225 Index wavers as Japan bond yields and tech stocks rise",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/23 01:12",
         "published_ts": 1784736728.0,
         "tag": "Fed",
-        "first_seen": 1784736930.3347003
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPM19iWC1Rc2hKRG1BY0s4dTdaVGJPcXppWVJLQW9hTm1PUVV4ZV9EWWhrN3pIY2x6VlhrYW5JbHFOX2ZQV21aQWkyN0s2MjJxdlhreVJaWldpamhMRGVGU0lfSmdKVm9VY09QZ0hleGNwSGEyY1REekFnU1dlQ1phQXhYUWJuajlVTEF4YVZHWXdMX0dDWXZhTUlSNk0wd28?oc=5",
-        "headline": "Columbia Adaptive Risk Allocation Fund Q2 2026 Commentary (CRAZX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "07/23 01:08",
-        "published_ts": 1784736480.0,
-        "tag": "Global",
         "first_seen": 1784736930.3347003
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 16:01:03",
+  "updated_at": "2026-07-23 16:15:57",
   "yields": [
     {
       "label": "3년",
