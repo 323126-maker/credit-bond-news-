@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjh0NF9mVmhSU095SGxpaGc3ZlljVTliakxkS0FNajljSDhUZDB6dERYeEVGZG9mU3hWWW83eTQxRDV5SFp4T2dGVjhVZ1VmY2NsbVNyMXZvTnBEREFTMElzZUZscFpKcU5mcmdESl9XdlVULWNwbEh6M0RDUnh3S096X3pWLWQ3MzcwT0Itdw?oc=5",
+        "headline": "10-Year Treasury Yield Tops 4.7%: Three Forces Behind the Surge",
+        "summary": "",
+        "source": "Discovery Alert",
+        "published": "07/23 23:14",
+        "published_ts": 1784816065.0,
+        "tag": "Fed",
+        "first_seen": 1784816131.226228
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFhpZHE3UnNCanZnWEZSTEgxMU8xRGUxUE1lRzdvdFRjWWtCQ3RIWkZzYm9lcXF0aG1tRm9ZZXo4STZleHhhM0VUbTVTTHk5ZDJ6LTM1M0R0ajFlRy00ODBwX05hV200XzdWeWNiR3gtVllITXZ1TmJDR1hOUGhGUWhWWDNzQXhDMG9jUk9RMGN6QQ?oc=5",
+        "headline": "USD/JPY(USDJPY) 종목이 7월23일에 0.51% 상승했습니다. 통화 움직임의 배경은 무엇인가요?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "07/23 23:01",
+        "published_ts": 1784815311.0,
+        "tag": "JGB",
+        "first_seen": 1784816131.226228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vaUpfMnRwWkMycTBBWUFXX2ZBajFMYW1tS2ZvU3BUMXFkYmY0a3NhXzdXdVdrOXlfWE5TYWhsTDdINEhobjduWDN3cEtGMlo0aXJaMlgwX2xwWC1WM2lZaU9zVW5DTDAwNTI1M2JTbjhwS3I3QTJqMGxFLWpBX00?oc=5",
         "headline": "The $100 Million Question Kevin Warsh Will Not Answer",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784786715.0,
         "tag": "JGB",
         "first_seen": 1784787326.2736354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZVZYU2hOU3JLU2dYdzI5R01vd3h1MmJuVFFaTTFDX3NjOVltbWw4Ri11VEZjMzZMUzJCOHhkRE5zVk1tSUc5dzhZaWtKcUtQN28wc3l6OUV3bWdOeXNCMW1DSW84cy1LU0Z1bzVrSmhEOE85Q3UyZlhDWHJSV1J2Y0RZMTJ0ZlFmckFVMg?oc=5",
-        "headline": "Bond outlook: Between a barrel, ballot box",
-        "summary": "",
-        "source": "The Malaysian Reserve",
-        "published": "07/23 14:37",
-        "published_ts": 1784785050.0,
-        "tag": "Fed",
-        "first_seen": 1784790932.7588973
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaVR1M2VqT0FRMHFMSlduSVI1V0tabHJ6S3RpQkp1bF95RU1SOTNjUHJoT1Z5MVBTeURacDlJN25FT1BFcHA3RnRtUjVJaWJnMlh0VG1qVGJxdTRMZ2p5OE9NN2lCX3FFREdXdVNibzJqS1dtdTN5b2ZKVExMaUpranFKU3NDY19vZzQtUklKVHFYRkhtY3pMOUU5OU1rTE1EYkhF?oc=5",
-        "headline": "Nikkei 225 Index wavers as Japan bond yields and tech stocks rise",
-        "summary": "",
-        "source": "Invezz",
-        "published": "07/23 14:09",
-        "published_ts": 1784783389.0,
-        "tag": "JGB",
-        "first_seen": 1784783723.383758
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 23:01:26",
+  "updated_at": "2026-07-23 23:15:52",
   "yields": [
     {
       "label": "3년",
