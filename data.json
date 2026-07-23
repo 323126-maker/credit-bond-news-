@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYjJtTkZtQTRHTWdlM3FaaTBLM2pwQXU0WkFTZ2lQMmRHOFpDbENGdzFUMkJibE0ySnpGbDh3cE9fQkZEdTVOSXpLd21vbm05ZlFEQm41Zm1VcEJXUjNuNUJFNHZHWF85aFhEdnF0aGhiaWpheXlOZnVQMjRpNGx6cHdmcDdHUQ?oc=5",
+        "headline": "Jeffrey Gundlach: U.S. bond market questions credit ratings amid AI spending surge",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "07/24 04:45",
+        "published_ts": 1784835928.0,
+        "tag": "Strategist",
+        "first_seen": 1784836838.9234278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOX0trRW5YOGJXd2g4d2tya0NSSUZZSE12RVVTSm5HV1k2aXJYcWlqQlJBbzJDVUF0OTFnVEJrTVBNR0VDZVdxX1ZzOUU5ZGh5UkVSaEVxWGF5WjRIeGlqTFMxMDdmbktqVW15ZXhCT3RDNDZLcE03eWE3Z0lFVVJGeENXQkNnLVQ3aEhJbmJScG0zNElkWDVRZw?oc=5",
         "headline": "U.S. mortgage rate spread adds pressure on homebuilder margins as 7% nears",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784797505.0,
         "tag": "Global",
         "first_seen": 1784798127.8396327
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SzVreGNCUzJWbDJpMXRuS2lkd2lTaTNRd2V3NDIwSnFUa1lCNHI3VHdpLWFwSkVaWmZYbEQ4TTVSYTg2U29GbFdoNWg2V1ZpQ0hFazlSbFlIMV82cnlMX2lCQmxkZ191?oc=5",
-        "headline": "A quieter Fed chief means others narrate the story",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/23 17:50",
-        "published_ts": 1784796617.0,
-        "tag": "Fed",
-        "first_seen": 1784815251.2529664
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 04:45:48",
+  "updated_at": "2026-07-24 05:01:03",
   "yields": [
     {
       "label": "3년",
