@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvazNHWFh0NnBWVHc3Z0hwQ1UyN1RhQXh5dmxRMmN5N1lnVkZId3lRT0NaNEJuemRKeGxKTzdKRWlHNmJHV3Z6cEw5UmRCeUVfRmx1TUw0bk5Sd3VhVEtXRA?oc=5",
+        "headline": "[채권마감] 보합권 혼조, GDP 호조 vs 선반영 인식+환율 급락",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/23 17:09",
+        "published_ts": 1784794140.0,
+        "tag": null,
+        "first_seen": 1784794525.6459634
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41NXlxMDhSOWdJYW9ySmExaGU1eGJnWkJQU3lnc0FpemhJQ1pmczdjd01wVGk0Yi1KTVNLanVTOWVLYkp1MW9Wa1ZyMHVIVE12dnZNNTZ6N1lWUkx3NENndDZYbnduVklCZTV3aFg4M3JvQQ?oc=5",
+        "headline": "'공모·사모' 경계 허문다…KKR·캐피털그룹, 개인투자자 겨냥 '하이브리드' 승부...",
+        "summary": "",
+        "source": "마켓인",
+        "published": "07/23 16:57",
+        "published_ts": 1784793439.0,
+        "tag": null,
+        "first_seen": 1784794525.6459634
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JQ2RsX243ZllLclJ6bWxOOXhlTjBoS2VzZjg2Z0I0WmRtc045WEtDUXRmMWpiZFBrb1I0NTV2U0c0WFFLSmp3TTZWWUdlcEV5NkU5aFd3YXdXY3BfSFgzaWItamVqeWp4bUFFVkpPWjRMQQ?oc=5",
         "headline": "[채권-마감] '백투백을 어떻게 봐야 할까'…국고채 금리 보합권 혼조",
         "summary": "",
@@ -20,6 +40,16 @@
         "published_ts": 1784791933.0,
         "tag": null,
         "first_seen": 1784792726.4274707
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTWEREZDJrdUpFb0tJZXE2REVWY1RPZVIxNm56OTVTZ3lCajFVUWNDVkhJbGVWdjUtcWxIeXJWdlpneTJyVHhuQTR0OTlZU2VuOWVsZlp2c3ZvX3U1Slo2dQ?oc=5",
+        "headline": "AI 투자 붐 여파에 전세계 채권 발행액 2년 연속 최고 경신",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/23 15:55",
+        "published_ts": 1784789700.0,
+        "tag": null,
+        "first_seen": 1784794525.6459634
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZOENWV0d2dDN4M2hrUXFlbkpCeXBEMVFzYWIwQmRuTlJRWnNBWlZnbk5VM3c3T1d2WGdVMERRc2pmVGdYUFhjTG5idHFwaFUzQzNrNFNlRHVoYjVGOVBBWjBEemVhQzU0Vlh0QWJkc25SZ9IBdkFVX3lxTE1FX0JsWmh0T09Hcjhzc1dSS0RDc0lnYjhVU2VnWjlPYTN2RnIwTldoa2JjeVhhbWRXWV9UTERJRC05dW9TWmsxMnQxZ2ZFaWkxbHVTN0x5cWxRRXd3am9Wd3pldGlwZUM1VURjbnZOdkhsOVJwSkE?oc=5",
@@ -370,39 +400,19 @@
         "published_ts": 1784686272.0,
         "tag": null,
         "first_seen": 1784687429.3565903
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WN3hYY2VJdHhPYmM3SHZHYXJmWFlkaldoaWlqTDE2ckR2NWdhay1PdndDREVEV1hVa0c5R1dyX2R4V29ORzloQ21pa29BOTZTYWM2b3FET3JKVmVMaG5UcklJREpCcTBCNlBoTA?oc=5",
-        "headline": "S&P, 삼성전자 신용등급 전망 '긍정적' 상향…AI 메모리 성장성 반영",
-        "summary": "",
-        "source": "뉴스락",
-        "published": "07/22 10:53",
-        "published_ts": 1784685236.0,
-        "tag": null,
-        "first_seen": 1784689239.523911
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mSzYzeEk4dnd4NHJPbGtjWS1GSFJxSFpZUjRybDZnQm45M0V3M2NFQ0M0MjhhVXJSWnh0Ymt1TUg5VUs2SDhXN3pZaXBxMmdWS1Z6VnUzaTRDdjRuLU0wNF9OTl8tc2FTWHd4WnhMNU12d3fSAXNBVV95cUxNZks2M3hJOHZ3eDRyT2xrY1ktRkhScUhaWVI0cmw2Z0JuOTNFdzNjRUNDNDI4YVVyUlp4dGJrdU1IOVVLNkg4Vzd6WWlwcTJnVktWelZ1M2k0Q3Y0bi1NMDRfTk5fLXNhU1h3eFp4TDVNdnd3?oc=5",
-        "headline": "S&P, 삼성전자 신용등급 전망 상향 조정…메모리 슈퍼사이클 최대 수혜 기대",
-        "summary": "",
-        "source": "뉴스퀘스트",
-        "published": "07/22 10:53",
-        "published_ts": 1784685228.0,
-        "tag": null,
-        "first_seen": 1784790042.3243136
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBscU9BMjZhTTFQZnZfR0d6RXN0S1BhZHpBd3pQMFd0MkR4NEUtUFNWRlBtZjdoV01pcnRqUDBNeDdVY2hpQ2JBeWxKOEdxUy11cHNBOGZacDR1TWlyYmdHZWdwTS1ycXpjT3dqTkNpRXdmUGs?oc=5",
-        "headline": "S&P 삼성전자 신용등급 전망 '긍정적' 상향, \"메모리 공급 부족 최소 2년 지속\"",
-        "summary": "",
-        "source": "비즈니스포스트",
-        "published": "07/22 10:41",
-        "published_ts": 1784684496.0,
-        "tag": null,
-        "first_seen": 1784684724.3711479
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41NXlxMDhSOWdJYW9ySmExaGU1eGJnWkJQU3lnc0FpemhJQ1pmczdjd01wVGk0Yi1KTVNLanVTOWVLYkp1MW9Wa1ZyMHVIVE12dnZNNTZ6N1lWUkx3NENndDZYbnduVklCZTV3aFg4M3JvQQ?oc=5",
+        "headline": "'공모·사모' 경계 허문다…KKR·캐피털그룹, 개인투자자 겨냥 '하이브리드' 승부...",
+        "summary": "",
+        "source": "마켓인",
+        "published": "07/23 16:57",
+        "published_ts": 1784793439.0,
+        "tag": null,
+        "first_seen": 1784794525.6459634
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBQMXBzd3BUSEgzbTBrWUZMSEFXWVpsVGtrSVZFeDJjZjJQbnY5Q3ViTE55Z05RQ18xS0trZG84X0xaZi1ielBFeW9IYkJvT3dYVFVkSlo2U2Z5Y0h1bzJyN21acnV3S0VzMHdNSWk0WmxBS00?oc=5",
         "headline": "BIS비율 높이는 KB금융, 2700억 영구채 발행해 채무 상환 나선다",
@@ -792,16 +802,6 @@
         "published_ts": 1784319235.0,
         "tag": null,
         "first_seen": 1784339125.0631797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1fYldwWmxyYlhuUWl5V0Ytd2ZQazF0Z25VWUtQODNjWVdVY1k4VGF3X2xkaHk0TDRSclphWUttc29kUmpWRjNpNHVWVGM2Nno2VnNuS1hlbG9FeXZsS3JPdXBTWdIBY0FVX3lxTE1fYldwWmxyYlhuUWl5V0Ytd2ZQazF0Z25VWUtQODNjWVdVY1k4VGF3X2xkaHk0TDRSclphWUttc29kUmpWRjNpNHVWVGM2Nno2VnNuS1hlbG9FeXZsS3JPdXBTWQ?oc=5",
-        "headline": "‘여의도 저승사자’가 JTBC 사태 ‘피해자 편’으로 나선 이유",
-        "summary": "",
-        "source": "뉴오토포스트",
-        "published": "07/17 16:34",
-        "published_ts": 1784273697.0,
-        "tag": null,
-        "first_seen": 1784355326.1231687
       }
     ],
     "policy": [
@@ -1900,6 +1900,16 @@
         "first_seen": 1784770233.9247887
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlcDhXVGZQd3NYaXNnS2dZT3NPdnlkMmNKaFRJc1pGRlk2UVJjMEdobWk0ZXE4Z2RYUzZBQ1VvRmlhU0tPRXFXSF9pTQ?oc=5",
+        "headline": "\"한국만 난리인 줄 알았는데 일본 더 심각\" 엔·달러 환율 40년만에 최저…엔화에 무슨 일이",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/23 07:32",
+        "published_ts": 1784759559.0,
+        "tag": "JGB",
+        "first_seen": 1784794525.6459634
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5aV2toNmZqQ0tzY0I3a2pqNkpfRU10QXlSS0tTWjhUMXdjQU9tUTJwVjlKZG1hV3JTNzFwc19FcTA0NGgxTVRMZjZsU0Fyb0E5bjBB?oc=5",
         "headline": "엔/달러 환율 40년 만에 최저치…엔화에 무슨 일이",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784749449.0,
         "tag": "Global",
         "first_seen": 1784756164.5237563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONHlSZnBCS2E3UUNELXdxUEN2QmUwSUw4d1UyVTJSYTlHS3dvdUlUbWwtOHhSQW8xQnhzbHZmSnpEMzVqSHRiTVRDTjhSSXl0dUo5UUZPVnhqRXFoMjlwT3VoTnZWWVgxMTUtTm83azUtclB3b1B5MTBILXdMeF9XVHR1RXVSZHdq?oc=5",
-        "headline": "Jamie Dimon just sent a warning about the market",
-        "summary": "",
-        "source": "thestreet.com",
-        "published": "07/23 03:50",
-        "published_ts": 1784746248.0,
-        "tag": "Strategist",
-        "first_seen": 1784772038.048843
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 17:01:00",
+  "updated_at": "2026-07-23 17:15:51",
   "yields": [
     {
       "label": "3년",
