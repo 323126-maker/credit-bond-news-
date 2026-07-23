@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE15a2UtMzAwVDI4TExHR1hrZm5wRG9JVFJ3d0lhSWtVWWkzbGZWdzYwR3RSQ1pzY0Z3eVhKenI2YXhTa1ZENVd6cUY2YVZVY1lIbXNHRTExNjJvdl9vQTBfdVFFSzFBcHBvWTQyNklLblNsX3c?oc=5",
+        "headline": "CNB 파이낸셜, 2분기 순이익 2,720만 달러 기록…전년비 크게 증가",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "07/24 05:59",
+        "published_ts": 1784840344.0,
+        "tag": null,
+        "first_seen": 1784841324.7601466
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPa3hfMjlWQjZwVHpyUGd3OUt3Z0U2S0ZQclM5VWk1WHJiOW9VRmJfUm1rNkVxQ21Jb29yZDBjZ3NEeUFZNllPN3ZFY25RRHBBbFBfNmtlcjAxX0FGZnd5dkZqeFBCX3l0dlJxX2dVSThSVTRuY1hDcWFndHFScklxb01BU29pNGVBaUFEc2QxQ04zdkVRUG5BbnZ3ZzdvVjh1Z3dvM1FKbnTSAagBQVVfeXFMT2t4XzI5VkI2cFR6clBndzlLd2dFNktGUHJTOVVpNVhyYjlvVUZiX1JtazZFcUNtSW9vcmQwY2dzRHlBWTZZTzd2RWNuUURwQWxQXzZrZXIwMV9BRmZ3eXZGanhQQl95dHZScV9nVUk4UlU0bmNYQ3FhZ3RxUnJJcW9NQVNvaTRlQWlBRHNkMUNOM3ZFUVBuQW52d2c3b1Y4dWd3bzNRSm50?oc=5",
         "headline": "미즈호 금융그룹(TSE:8411)의 810억 엔 규모 영구 후순위 채권 발행이 투자 전망을 어떻게 바꿨는가",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "뉴스톱",
         "published": "07/20 11:01",
         "published_ts": 1784512866.0,
-        "tag": null,
-        "first_seen": 1784513723.9017012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPUWpxU2tyVDVBMGdCMDNjN0JzOS1hSHV3bFN6R1JHZUxKOGtPTndRcXctQlQ3Zld1QXJ5ak8zYmZyZ2FfYVNjVWNmSEJXVk1HM00w?oc=5",
-        "headline": "[증권사 PF 잔불]①대신證, 자기자본 넘어선 부동산금융 '마이웨이'",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/20 10:57",
-        "published_ts": 1784512620.0,
         "tag": null,
         "first_seen": 1784513723.9017012
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 06:01:05",
+  "updated_at": "2026-07-24 06:15:49",
   "yields": [
     {
       "label": "3년",
