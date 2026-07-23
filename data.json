@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zYWF3N0V4Z243cldzRlh3cjBnaUd0UmJrNjk2LURjdWpmZjhveERSajROYzhMcTRoMU56Q29oQ0ZoOFE3bUxEZlk2cDNPV25DMkhsT1UwZVV5Z2pWWWd4UXYycHMwcGlJM0JYeENrMWdpdw?oc=5",
+        "headline": "[亞증시-종합] 알파벳 투자 확대 호조에 일제히 상승",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/23 17:29",
+        "published_ts": 1784795361.0,
+        "tag": "JGB",
+        "first_seen": 1784796324.941278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVEVYRnp2S3Fhc0VQZklPdjg3ajc5dlRad3E2M1oweTRwaC1yZVc4QWFsVE42Mm5VWFljZkVkWUpDbUNRX0ZZMjFJMTZrc3l6OUVQLWtXU3FWU1BwUDhGbU15SkJ1ZjJIcmtEM29OZW13T0gtaVAyODlyWTZaWlMyWHdxSWlWUXFzb1pWVW45UTAxbWJEdXQ1LVhrMjFmbThFVWMxcnlSQTdWWHg4WlFwUTZhaWpKeGh5S2NrOGpzMFpiSzhsWExUQ3J5VkdELVFpYy0wNnlqRWFMcG96MnBvbi1YZXhHdnBqcjJMc1VzSUpXenpkb0huOENLWW5GaU5abGczam81REFMRUNVX2ZpV3hKa2JHSVBOS1pCNC1kS2w3UQ?oc=5",
         "headline": "Jim Bianco Says Bond Investors Need a Rate Hike as 30-Year Treasury Yield Hits 5.15%: 'When the Fed Start",
         "summary": "",
@@ -1970,6 +1980,16 @@
         "first_seen": 1784766635.4000523
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSUduTjdNOHBWM21KeGV6Z1p3N3plU1RTOVFCVm1lRXc5QlJDdy1lckc3UUd4X0tTd2NzaFhfZG13TGNqX19KaU9SUmVvTmhXTGpRdVU0Z184V0ptY3ZNdXpEMFRaNmlnSVN5aUhRcjlTUzJTUEluaE1RNVBDeG9hQ3FIdzhKZWo5dld1TjdMZjF6b19TT1Bpazc2ZWEwNkxXRHhLRF8tVGU?oc=5",
+        "headline": "Introducing S&P UBS USD Liquid Leveraged Loan Index Futures",
+        "summary": "",
+        "source": "CME Group",
+        "published": "07/23 06:50",
+        "published_ts": 1784757000.0,
+        "tag": "Global",
+        "first_seen": 1784796324.941278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5iX1hyUzQxVWl4VzM1TXR4eVNlbmtzNTU0UGlReFk1ZjlmVFBoRHk0RE9GcEJLOXlhelJwNENrUjR5dzVGdkg4X3RnUUxmSUtmbkc5T1kwbk5DU20zcWFNM213Znc?oc=5",
         "headline": "Trading Day: $100 oil looms",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784756350.0,
         "tag": "JGB",
         "first_seen": 1784756596.7856102
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EMUpYaFJ4REU5M0l0TnJhOERQU0pOdGdOMzl2NEhFaXlWVHczQjQ0R1gzQjM5VXJ1N0hZTGV1aGgxb1JEVVFrYWwyWG9uZmVKMTE2UFhfMUxnNnR1alFoVg?oc=5",
-        "headline": "엔화는 빠지고 원화는 오르고…같은 인상, 다른 결과",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/23 06:31",
-        "published_ts": 1784755860.0,
-        "tag": "JGB",
-        "first_seen": 1784756164.5237563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aazR3MThNdUVCT2pkQl94YmozcGc5ZUVpMmxQUk5GYWFiejN3WTFpNU9SZHh2M3FCc19melRJRTBWUGxGV0RNQzNOXzdyUQ?oc=5",
-        "headline": "日, 중동리스크·엔저 여파에 6월 수입액 전년 대비 25.4% 증가",
-        "summary": "",
-        "source": "dt.co.kr",
-        "published": "07/23 06:00",
-        "published_ts": 1784754000.0,
-        "tag": "JGB",
-        "first_seen": 1784760329.743339
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 17:30:51",
+  "updated_at": "2026-07-23 17:45:49",
   "yields": [
     {
       "label": "3년",
