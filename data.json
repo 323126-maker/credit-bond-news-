@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0dlJIcjJJY0xHQ3hhbG0wb0FIS0l2OEtFSGp6QzQwbjVoUmd0NFJiWElleUZPUUFFUzF1MHhfZWJRaXlVSC1XOVRlR2c2Qm9LRTBlcF9UZzNsbERCbWtPdXBJNmpqdEtHV2lGS1BnSQ?oc=5",
+        "headline": "TotalEnergies, 2026년 2분기 매출 예상치 상회... 주가 상승",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/23 22:04",
+        "published_ts": 1784811840.0,
+        "tag": null,
+        "first_seen": 1784812534.1390681
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yb1hmNVZ3dmdKWEZFeUpvelNLSlUzWUx5N0xKWG9PWWJQaUdOT09IRDIwRFd1VHRnalpTNXM4SGVrM09FSExIOUY3X0VJaDMzUXRvNng0VGdTWUxucEQ5bDdURS11bHhNOHlxWG5yU2FQTkE?oc=5",
         "headline": "JB금융지주, 1000억원 규모 신종자본증권 발행 결정…BIS 자기자본비율 제고",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1784498820.0,
         "tag": null,
         "first_seen": 1784499326.3208992
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1fTWM3WUVPYndrb3puSTJYMlliOWx1WE01RTFZSFNaWk81c1lRRjZGd0lFcTNlTWZMR1JVd2VZc2lEMzNIb1VScDJROWNQSVAyeF84R05VY2s3YTd3VlBkX3BvOGpuT1ozQUHSAWpBVV95cUxNaDdmel8xeEVXaEptSUlMMlh0R0lJYmEyTW9yTGtucGR2am9uMUV2ME5ZaWpOampiLXQ0Nldsd0NsZUNNbHRmSDZ5eW80eU1waFdSemJXLWV6dHA2aWIwajJLRU1HNm5hbV9B?oc=5",
-        "headline": "[스트레이트] '미디어 제국' 추락의 책임",
-        "summary": "",
-        "source": "MBC 뉴스",
-        "published": "07/19 21:09",
-        "published_ts": 1784462960.0,
-        "tag": null,
-        "first_seen": 1784466924.5787642
       }
     ],
     "policy": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1784809835.1274529
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFAwUWpJX0h4UzB2TUxUc1ljMDMxUmhtQVhmbE5QUkRHcWg1aF9TLXhGM3ZDcWYzdXNkYkxNS3pyQlVxeDNjLS1pVnFmaENVTjEzNk83cUVhM3NYOHJxZUxrNXhzVmJaRlZTWGZYcC1VTV9HRlFtUzJyeWM1R3dlczdnQjg4UUhXYkRzNTJ1dEpGaGdzc0JFcGRNRjFCaFliX045bm1taHg0dEJNb0tneVBrVno4VGFEWnZhcHdtZw?oc=5",
+        "headline": "Junk bonds’ ‘thin’ spreads are an illusion",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/23 21:05",
+        "published_ts": 1784808350.0,
+        "tag": "Global",
+        "first_seen": 1784812534.1390681
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9FRmxINWZfM0ZVUnNhclktUzRKVlM3QVpWMXJ3V080VFRCcGhXQVVBY3A0emgtOVk2bzlTYXhRbEJIOTZNaVhzNlM2RnJoSHIyejZwSXp5WDdScFZyWmlnOXA5dkpLMUhvMGtsREo0d0tuckh6MFZhRQ?oc=5",
         "headline": "Treasury 2-year yield hits 2025 high at 4.33%, and Bitcoin is feeling the squeeze",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784775360.0,
         "tag": "Global",
         "first_seen": 1784797246.4752889
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SzVreGNCUzJWbDJpMXRuS2lkd2lTaTNRd2V3NDIwSnFUa1lCNHI3VHdpLWFwSkVaWmZYbEQ4TTVSYTg2U29GbFdoNWg2V1ZpQ0hFazlSbFlIMV82cnlMX2lCQmxkZ191?oc=5",
-        "headline": "A quieter Fed chief means others narrate the story",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/23 11:46",
-        "published_ts": 1784774777.0,
-        "tag": "Fed",
-        "first_seen": 1784798127.8396327
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 22:01:06",
+  "updated_at": "2026-07-23 22:15:59",
   "yields": [
     {
       "label": "3년",
