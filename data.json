@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzEyWGlTaURWNzFrWTNsWG1uSzNVUXk0OGpqNHZtMXphZHhCejhNdGV3SEIyREwzc3YzVDV0d19zZXpWeXkwdWVNa2Vvb01YamtaODR2MnpscFktal8tV3N4NkJJVXpjb1ZqdUJ3dC1GWmpTSWhfZ3JqVGt6QnRBbEJ2ZFAwLWYyZGs0bVZ1WUw2V3NPd2xBektNRkxIUQ?oc=5",
+        "headline": "The Credit Market's Warning On Big Tech Spending Grows Louder",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/24 00:49",
+        "published_ts": 1784821787.0,
+        "tag": "Global",
+        "first_seen": 1784822443.2402833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdTRVd3Jha2VaSVd0UkcxZEljWk5SVW94OGViNm5wV0lScmc5TUNrT0RKQjcyX1EtV18xLVZwd1R3ZW1mTHZUZU5RMUdkVVlvVUM5R2VPYVBrdFZnSTEwaXZRQzh2aUoweGtfTUgxaGlEZ1ZKRHQxWk9yVW1RbjJxRXhfczBPdDdFcDVRdFp1a29vMWNXM3lkYUtGTHVUZ3N5ZWo0LVhtN1J2RUVyTWp4alh4eng4Mks0RFI0MnFxTW5jdnpZalVRQ0VSMEpkeVByb1lPWA?oc=5",
         "headline": "Pressure Builds on Kevin Warsh to Hike Rates. Here's Why Rates Could Rise in As Little as 7 Days.",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1784808459.0,
         "tag": "Fed",
         "first_seen": 1784819724.7572978
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9lNFZWN2MwWXoxaEZIdWtMc0pPbzBqczF4RUtrRnpua0ZrNWNaY2FqZ1lrNGhURGJLX3UzWVRaVnpOUkNmb3N2cGROanpyRDBqdFB1M2VNVQ?oc=5",
+        "headline": "BlackRock Review: Revenue, Impact on Financial Markets, and Aladdin",
+        "summary": "",
+        "source": "incrypted",
+        "published": "07/23 21:07",
+        "published_ts": 1784808434.0,
+        "tag": "Global",
+        "first_seen": 1784822443.2402833
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWFAwUWpJX0h4UzB2TUxUc1ljMDMxUmhtQVhmbE5QUkRHcWg1aF9TLXhGM3ZDcWYzdXNkYkxNS3pyQlVxeDNjLS1pVnFmaENVTjEzNk83cUVhM3NYOHJxZUxrNXhzVmJaRlZTWGZYcC1VTV9HRlFtUzJyeWM1R3dlczdnQjg4UUhXYkRzNTJ1dEpGaGdzc0JFcGRNRjFCaFliX045bm1taHg0dEJNb0tneVBrVno4VGFEWnZhcHdtZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784790284.0,
         "tag": "JGB",
         "first_seen": 1784791833.7936707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UM1hJaWNlOFRfQlhidTVFQU9qaVFJWERCZmFzdU1RM1pZOFBvRjc3X0JUS29SRTdsNTFnMGlWbHp2S1Iyb1Y2N1FJMl9QQ3FWdFHSAVNBVV95cUxNZVRNNkZKVVFzaVlNVmZRbEVBeDVnYTVmRDlhem5HTG43cTBqcWxER3RSdHJGSmxQU1JDM0h4SXlWTkNOUTZUSlBWbVkxeThOQkVUcw?oc=5",
-        "headline": "엔화 40년 만에 최저…日 국채금리 30년 만에 최고치",
-        "summary": "",
-        "source": "서울경제",
-        "published": "07/23 16:04",
-        "published_ts": 1784790284.0,
-        "tag": "JGB",
-        "first_seen": 1784791833.7936707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44Q1FhR3RheXg1bHR2YldvaUpQU0NCSFJhRDJSYm5DclVBS2g5ejZ6MVF2a1paRW1oWXVUaHROaWs4bFl3Z05UeXZhMEM1Rm1DTXhYTkIyWE01TkNJc0ZuUA?oc=5",
-        "headline": "침묵 택한 워시 연준 의장…엇갈리는 금리 예측 '뉴노멀'되나",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/23 15:54",
-        "published_ts": 1784789640.0,
-        "tag": "Fed",
-        "first_seen": 1784790042.3243136
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 00:45:51",
+  "updated_at": "2026-07-24 01:01:05",
   "yields": [
     {
       "label": "3년",
