@@ -312,6 +312,16 @@
         "first_seen": 1784745036.820677
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VY0dzeThXSFg1XzNPTUMtOGVlUXNzVzlQNTk2aEk1dVVrbmhrOXdJbklLejloc1daUWRpLUhHSVY2TDYtMVVmTmVLWQ?oc=5",
+        "headline": "[롯데건설 리빌딩]① 1.3조 성수4지구 수주 '정비사업' 재건 신호탄",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/22 19:07",
+        "published_ts": 1784714861.0,
+        "tag": null,
+        "first_seen": 1784845834.3128045
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAyaDc5RDhJMHZvb1Q2dF9XUmRmUGVmMEs1eEhIRnBMQ2RFcDZfTVlVa1RvTE16OUlxOTkxM0JmZ2FtNzViMHZqeFRwNzc2aWVFSnlmSlNUeFdjMzA3Y3R5X1FzcWZlV2ozOGVjTUVzalA?oc=5",
         "headline": "[채권-마감] 2분기 GDP 앞두고 금리 급등…3년물 3.9%·30년물 4.6% 돌파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784708959.0,
         "tag": null,
         "first_seen": 1784709925.465496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1HTWRXTVRvTHRIYl9oOTFYUmhndnlpRU5xbGpBUVRxNE1WRHdDa0Z0OTZhWllzZzJzbHBuaE1kY3RqS1VtU01vdmdrM3dMT2E1eWlzNg?oc=5",
-        "headline": "[채권마감] 10년금리도 4.4% 육박 3년9개월만 최고 '중동 우려+외인 선물매도'",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/22 17:28",
-        "published_ts": 1784708880.0,
-        "tag": null,
-        "first_seen": 1784709033.3090014
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 07:15:48",
+  "updated_at": "2026-07-24 07:30:54",
   "yields": [
     {
       "label": "3년",
