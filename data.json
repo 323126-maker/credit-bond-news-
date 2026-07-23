@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONEVsMkRLQ3p1UV9lc3QyZHlXc2lsak1XVDJpWThjVl94d212d3N3c3J2YzVkN0lGSmIyVklEZURhX1lGWmNlV3J0LWNkdzZNUzVzWHRnNGV3djhpeFhoUnBPQ1NwT2xORDVJRDNoQmQzdFdBczM5WnJWdkIyM0lLUTlVZld3RVNSaHlCRl93d1JEdWE2Sk1QWV84SzdvS0RnMjhYS0hqQVU?oc=5",
+        "headline": "Is it a good idea to limit Federal Reserve rate guidance?",
+        "summary": "",
+        "source": "San Diego Union-Tribune",
+        "published": "07/24 03:25",
+        "published_ts": 1784831156.0,
+        "tag": "Fed",
+        "first_seen": 1784831439.083314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOLWFTUGh3Yl9qQVNXdGpULTVTdnZjWVdLaWtIM0JqUFJDZGlLUVJ5QzAxOE9zbFRQVzVIVnBwajc2VGVlX1N4UDVkMmhhVnFIRVZuUGIwQmw4ak1YemNMM3U2QnpLUDQxV2k5ZHh1STZrYlRCTDB2UmdkX2ltQjZUXzA1cUJvM1J1S29XVVJ5X2ktYUktSWhHeDVQOFBmcFdPV3dvUFdwQnVSRFk?oc=5",
         "headline": "U.S. Debt Smashes WWII Record — But It’s About to Get So Much Worse",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784795220.0,
         "tag": "Fed",
         "first_seen": 1784828730.6049662
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNVEVYRnp2S3Fhc0VQZklPdjg3ajc5dlRad3E2M1oweTRwaC1yZVc4QWFsVE42Mm5VWFljZkVkWUpDbUNRX0ZZMjFJMTZrc3l6OUVQLWtXU3FWU1BwUDhGbU15SkJ1ZjJIcmtEM29OZW13T0gtaVAyODlyWTZaWlMyWHdxSWlWUXFzb1pWVW45UTAxbWJEdXQ1LVhrMjFmbThFVWMxcnlSQTdWWHg4WlFwUTZhaWpKeGh5S2NrOGpzMFpiSzhsWExUQ3J5VkdELVFpYy0wNnlqRWFMcG96MnBvbi1YZXhHdnBqcjJMc1VzSUpXenpkb0huOENLWW5GaU5abGczam81REFMRUNVX2ZpV3hKa2JHSVBOS1pCNC1kS2w3UQ?oc=5",
-        "headline": "Jim Bianco Says Bond Investors Need a Rate Hike as 30-Year Treasury Yield Hits 5.15%: 'When the Fed Start",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "07/23 17:23",
-        "published_ts": 1784795035.0,
-        "tag": "Fed",
-        "first_seen": 1784795431.3723223
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 03:16:00",
+  "updated_at": "2026-07-24 03:31:07",
   "yields": [
     {
       "label": "3년",
