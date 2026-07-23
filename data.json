@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdTRVd3Jha2VaSVd0UkcxZEljWk5SVW94OGViNm5wV0lScmc5TUNrT0RKQjcyX1EtV18xLVZwd1R3ZW1mTHZUZU5RMUdkVVlvVUM5R2VPYVBrdFZnSTEwaXZRQzh2aUoweGtfTUgxaGlEZ1ZKRHQxWk9yVW1RbjJxRXhfczBPdDdFcDVRdFp1a29vMWNXM3lkYUtGTHVUZ3N5ZWo0LVhtN1J2RUVyTWp4alh4eng4Mks0RFI0MnFxTW5jdnpZalVRQ0VSMEpkeVByb1lPWA?oc=5",
+        "headline": "Pressure Builds on Kevin Warsh to Hike Rates. Here's Why Rates Could Rise in As Little as 7 Days.",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/23 23:54",
+        "published_ts": 1784818486.0,
+        "tag": "Fed",
+        "first_seen": 1784818846.3352206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMjh0NF9mVmhSU095SGxpaGc3ZlljVTliakxkS0FNajljSDhUZDB6dERYeEVGZG9mU3hWWW83eTQxRDV5SFp4T2dGVjhVZ1VmY2NsbVNyMXZvTnBEREFTMElzZUZscFpKcU5mcmdESl9XdlVULWNwbEh6M0RDUnh3S096X3pWLWQ3MzcwT0Itdw?oc=5",
         "headline": "10-Year Treasury Yield Tops 4.7%: Three Forces Behind the Surge",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784787300.0,
         "tag": "Fed",
         "first_seen": 1784788232.9651845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWnBKTXNUY3JzdFNJRXh4U0pEc1hVWXdVT2tiQXVMZ3F2NFpIZEUwOXN1TngwS0ZydjE1OE9qMzZyRTdUUlVVdktxb3NCbXQwY2tuYlQwQ24tZGl6OFJOSzN0dkVKZU9xZVJmMnktbFJReG8wRW5hWU43WXhEalV5ZA?oc=5",
-        "headline": "\"제로금리밖에 몰랐는데\"…일본, 금리 1% 시대의 명과 암",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/23 15:05",
-        "published_ts": 1784786715.0,
-        "tag": "JGB",
-        "first_seen": 1784787326.2736354
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-23 23:45:54",
+  "updated_at": "2026-07-24 00:01:20",
   "yields": [
     {
       "label": "3년",
