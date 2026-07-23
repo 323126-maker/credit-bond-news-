@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4xMnByRnFKd2U4OU83eDNFSEhCZFZDRzBhWGZfQU5ueHNwQ0JkbWNTd3RZdUV4Y1M4cHF2NEFkTGhoZXZEMjg1SThzTUp2VXM4RF91cTh5TVlmUnNVaUpYbVQySFB3UE9HSGVUatIBbEFVX3lxTE4xMnByRnFKd2U4OU83eDNFSEhCZFZDRzBhWGZfQU5ueHNwQ0JkbWNTd3RZdUV4Y1M4cHF2NEFkTGhoZXZEMjg1SThzTUp2VXM4RF91cTh5TVlmUnNVaUpYbVQySFB3UE9HSGVUag?oc=5",
+        "headline": "기준금리 인상, 시장금리 재조정···채권·예금·환율 연쇄 요동",
+        "summary": "",
+        "source": "직썰",
+        "published": "07/24 07:18",
+        "published_ts": 1784845113.0,
+        "tag": null,
+        "first_seen": 1784849431.4238455
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uOGZPbzQxWlg5UjgwOHpBY0w5eUtOLTZJMFhtdnFCT3JzU0tQb3lIN19ZTUF3Mk9BaUZhdTJjOUQ3OHVZQk11TWVUTi1Qc1RWTTJGSDF1VmtaQU56Q1NrZFRuQ1BBNmJnR1BkLdIBbEFVX3lxTE5uOGZPbzQxWlg5UjgwOHpBY0w5eUtOLTZJMFhtdnFCT3JzU0tQb3lIN19ZTUF3Mk9BaUZhdTJjOUQ3OHVZQk11TWVUTi1Qc1RWTTJGSDF1VmtaQU56Q1NrZFRuQ1BBNmJnR1BkLQ?oc=5",
         "headline": "여전채 금리 상승에 ‘흔들’…카드사, 조달비용 압박 거세진다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784443670.0,
         "tag": null,
         "first_seen": 1784474126.433922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45c1FHd29sQVduLXpFZV9IZGVkZ1VKSlI5ZlZfOFBobzNrVWxlRW5PbnNZXzZ0N1V1UnNON2t6aUtoODVILXhDbnlSaEdqSUx6YVBDeFlxVE5TNnAwRkhvWEU3endXT1JOdHkzVWVGTmE?oc=5",
-        "headline": "[채권-주간] 중동전쟁 격화 여파·2분기 GDP 주시…연속 금리인상 가늠자",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/19 13:00",
-        "published_ts": 1784433612.0,
-        "tag": null,
-        "first_seen": 1784452611.8176246
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 08:15:50",
+  "updated_at": "2026-07-24 08:30:55",
   "yields": [
     {
       "label": "3년",
