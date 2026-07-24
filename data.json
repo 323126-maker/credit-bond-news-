@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZUFVDdFFXWVJVRkYtUnBId0x6NTctMGE4aWQweGstMUIyd0tFck1pbndnSkFfdnozM2dMbGdYWUNHWlZTaC0xQjVPVUlEbTNPNlBlNHRDY3BoMUxYV0JlVNIBeEFVX3lxTE5WSWg3YllwMUxsWU83ejBDWF94N2xWSk50WWMxbEFjaXBrM3ZrRHBMT24weEtZdV9taE53aWhQX09sUDZEOGhLRXg0WDQ0S3JCRnZYQXpta09qZmRqeURtbTdsWnlXM0VHbWpZOFpwTUxUODVPUXRFZw?oc=5",
+        "headline": "JTBC 채권자연대 \"관련 기관 전방위 압수수색해야\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/24 13:33",
+        "published_ts": 1784867612.0,
+        "tag": null,
+        "first_seen": 1784868329.5994132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2TlNqb2RiVjFwN0JUMFZJcTgzUWFpNzVYdkJzRFhqWUw1cVZNWllrdU11YlBNTkt6alcwTlozVF8tYWdtVEZoQVhsMEpVNGNMaUZXMQ?oc=5",
         "headline": "시간에 쫓기는 풀무원…재무 부담 커졌다 [재계톡톡]",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1784529840.0,
         "tag": null,
         "first_seen": 1784530835.545915
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZN3JUVlR4X0xUNV9FcmxLbTN4ZjdDSU85bTFDS2g2N0ZZZElJdVBpSU9qMFpxeFp5Qk9PbnJla1FKcThzZU9UdktIRmRJelE2eGdPcWIzNWhtU1c1RXZyR2JjMENUMUNHWnA5Y3MwOGE?oc=5",
-        "headline": "SGC에너지 신용등급 2단계 하향... \"SGC이앤씨 재무 지원 때문\"",
-        "summary": "",
-        "source": "meconomynews.com",
-        "published": "07/20 15:42",
-        "published_ts": 1784529728.0,
-        "tag": null,
-        "first_seen": 1784529925.5070865
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 13:30:54",
+  "updated_at": "2026-07-24 13:45:56",
   "yields": [
     {
       "label": "3년",
