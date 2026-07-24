@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WkVmZmdTeTdhYXpQT21tQUdUdXlMTld2QnR1WU1GWk9LT0M4NC1IbFVPNFZLajJQZGRzUl80R0ZDNDY2VXJqZW95bWNLUWhuY1BTdEVHZl91Ykl6Q1JOX1phY3QyUXZieVhjMFhKLTk?oc=5",
+        "headline": "[채권-마감] 4% 코앞에 둔 국고 3년…다음주 국제유가 주시",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/24 18:53",
+        "published_ts": 1784886792.0,
+        "tag": null,
+        "first_seen": 1784887242.2183247
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KSUlBT2ZuZDdNSmVHNnBPcXRuaWsyb19fTFdCakRDRkJ6MUNsMTgwaGQ0eG9TLUFxT3Fsd1gycHpJYWNELUdER2s0cXljaW5PTXl0ZA?oc=5",
         "headline": "[채권마감] 3년 금리 4% 코앞 ‘연중 최고’..유가 100달러 충격",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784761475.0,
         "tag": null,
         "first_seen": 1784850325.2457387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zX19WNk1sOGFpZ3N2TlpocWRUZFZ6RHJxSE5JLVpydmNrSWlKZTV4VU1OZUFpNjkyeXl6TXVTakM1a2FKeW9SZVphOXV2bDJISHJUOFdZcWxDTkl5R2NYRnMyX0V4bkc1dE5LMVdqRkR0eWvSAXNBVV95cUxOc19fVjZNbDhhaWdzdk5aaHFkVGRWekRycUhOSS1acnZja0lpSmU1eFVNTmVBaTY5Mnl5ek11U2pDNWthSnlvUmVaYTl1dmwySEhyVDhXWXFsQ05JeUdjWEZzMl9FeG5HNXROSzFXakZEdHlr?oc=5",
-        "headline": "미래에셋생명, AI 투자 '쏠림' 경계…3분기 MVP 리포트 '자산배분 전략' 제시",
-        "summary": "",
-        "source": "뉴스웍스",
-        "published": "07/23 07:21",
-        "published_ts": 1784758890.0,
-        "tag": null,
-        "first_seen": 1784768436.88618
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 18:45:47",
+  "updated_at": "2026-07-24 19:01:03",
   "yields": [
     {
       "label": "3년",
