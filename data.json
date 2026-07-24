@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRk1GSmo0dHBTQ2o1dXo1MkRiVENyZXZ5bUtoUVAzRjVvWGs2b1NIWnFUQVYwMlhob1ZqMHNqYWtlWlppOVk5OUUyeXRTSmluckg1cndFcllTQWc2NzBhSmNsd2NVenMtMVBHdy1Ub3E5bFQycUNaUFJZVDJXS0pWNktGeXBkTjgwMUtDZ3J5NHdJVXFybzFvNXc3Sl9rYkFHMG5hS1JuSzRKYXN2ZjN5eUpkcw?oc=5",
+        "headline": "Japan’s 40-Year Yield Rises 10 Basis Points on Inflation Fears",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "07/24 15:14",
+        "published_ts": 1784873640.0,
+        "tag": "JGB",
+        "first_seen": 1784874630.0938652
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNFplNXlPUDRzRFFaeWZZcUJvWmRpc25JMk1BZ3ZwZ25SN1phRmRPSWlHSW00S2ptM1J4N1V5TWllUjRaZlA5ZEdHXzlJR05fSExj?oc=5",
         "headline": "일본 연기금 '자금 회귀' 신호…엔화·미 국채 영향 주목",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784826022.0,
         "tag": "Strategist",
         "first_seen": 1784839362.6251173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTS03SlMtbVJWdC1oZndtTXQxUGRDVllhYnB4M3k3ODQ4cnQyV0VtVGY0YjBjR25lUzYwRXJCN09EbFF2LXEtYmNkQ3c4ZTR0RUxfZEltckJ3ejZva3g3N0d3ZnllUVhqMTI2MkdmandUUGN1c0U0TGlaUlZzOUJwenJUaDZldFlzSGtCMEtYVVhadXUtdVMxWnVibGVwaXpnUklvenBCcHg?oc=5",
-        "headline": "Treasury Trespasses Into Fed's Monetary Policy",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "07/24 01:33",
-        "published_ts": 1784824391.0,
-        "tag": "Fed",
-        "first_seen": 1784862041.4996681
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 15:15:47",
+  "updated_at": "2026-07-24 15:30:52",
   "yields": [
     {
       "label": "3년",
