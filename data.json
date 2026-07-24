@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWVFM2lXNUo0dURrY1ZsVENOejBEQXBzYWRfUGJsSV9BV0ZENXNrN3JUUmZsb214djN6ZU1LTWxkTVlnTVFiSnhrUFY5aVU2WWJOLU5RX3hpVmpmUWk1NzQ0T2Q1TFJjYl9Vd2RPdnNMZ3RQNFdSb0RwaWExRXpfVDU3Q1VuczdVOVBxN1NYbl92LWFxakNSN1l5OVJIamh5UkpUSTgydDlJc0pXbFJYRUtIcUJsTzcyT1J6SE05SDlxR0JWYUNlRQ?oc=5",
+        "headline": "T-Bill Returns Without the Annual Tax Bill: The $12 Billion Fund Using an Options Trick",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/25 05:58",
+        "published_ts": 1784926731.0,
+        "tag": "Strategist",
+        "first_seen": 1784928633.2541308
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQank5Q2lrUUZnNkVvN0NYLUxUZ2FEUnZhWWN6MU9NQ1B1aE56a3JhbG9OM2l6dmVCRnRweFR6VG1ieUg5U3ptQWxLZlZ2NGEtZGVZanFiSVZIZ09Da0lGRUIwSUFndUplTk5pa1NnaW1FVTdadHBYSW9HN2dyVFl1cUMwOXHSAYQBQVVfeXFMUGp5OUNpa1FGZzZFbzdDWC1MVGdhRFJ2YVljejFPTUNQdWhOemtyYWxvTjNpenZlQkZ0cHhUelRtYnlIOVN6bUFsS2ZWdjRhLWRlWWpxYklWSGdPQ2tJRkVCMElBZ3VKZU5OaWtTZ2ltRVU3WnRwWElvRzdnclRZdXFDMDlx?oc=5",
+        "headline": "Bond market anxiety is growing over AI capex budgets",
+        "summary": "",
+        "source": "CNBC",
+        "published": "07/25 05:07",
+        "published_ts": 1784923656.0,
+        "tag": "Global",
+        "first_seen": 1784928633.2541308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPQmVCN0lYNjZzLXhTcEs0Q1VyNmpFS0cwZ0VQYXdoSmhLajhVQUozVU1GOE9WaVEyX2lWSTJhcm42U1JGZnZEZUw2Z0dVRmpKY19ka3IyUTdHWWxJY2Foazl1cUkxRTBTa3d3c2p2X2lCckxma0JoTWpwX1F1ZURqT3JlMzUxakYzOE50M3doWG8zSEtjcF90eURYSW5ESDVlWmY5MUdjdFJIQnQ2M0Z1b2U4Nmtod1pZV0V3WU1LaXRmdmcwLWk3cTQwbGo1TGh6eExldFc4WkRqNHV2RjVUMFBRdUQ1bnBSNzEwa1hEU0FSOWVIQXc?oc=5",
         "headline": "Econometer: Is it a good idea to limit Federal Reserve rate guidance?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784887213.0,
         "tag": "Fed",
         "first_seen": 1784888127.9839587
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE85ZG84U2hsM0ozMFFVRGVtWldJM0dQeFUtQ3N1RFZuampzdDR4RkdZM2FmWUNWVXBGQndBcmgwV3F0ZjJHc29MSlFxZjRHb09FR1V4c2hmZDRpRmhFTzViTEdBemEwOFN5ZzEyMFQ3dXpudw?oc=5",
-        "headline": "Investors want a bigger reward for lending money",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/24 18:55",
-        "published_ts": 1784886946.0,
-        "tag": "Fed",
-        "first_seen": 1784916040.2841074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc1FRSGppOFYtWWZrdk5yT1ZGcXcwVU9ldHlDVzEtTVRRWkZrbjZZRHgtU1ZRY0dRUm9rdTlCS0VfVERydjBrc21lZXhFQUdRSHNSNVBUNzZiMVBYT29mVVJqQlVCVWlQYTk1VkNRYWVyYjZlbWZTMXc4aDhiZThxa0hMTEwzOTFucGNiei1YSnNOeElib1dwdHVVZmJ4YnBzaW9TOXdLRFQ3UmxZeHJF?oc=5",
-        "headline": "Fed Chair Kevin Warsh Commits to 2% Inflation Target as July Meeting Approaches - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "07/24 18:32",
-        "published_ts": 1784885520.0,
-        "tag": "Fed",
-        "first_seen": 1784894444.9534369
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 06:15:51",
+  "updated_at": "2026-07-25 06:30:57",
   "yields": [
     {
       "label": "3년",
