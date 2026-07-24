@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQkw2bndOQ1hUbTkwTVJfYngya3BZUXktZklVdzFvTnpYNjl4Z3M5SkJuVnpHdXNMTnlrazQ0VTlFZnY4d3h6VWFwR1g5Ul8yT3JvYXpfclNuVmpyMkRld1NDUF9lcFZMa3pLaWdsMWtWYVFTT3Y5NC1mdGRhVmJsQ3hiZF9sZmJUOHpKLVU5OUlZaGlCc0hXcUJHOHZaQQ?oc=5",
+        "headline": "Why a chief economist thinks a surprise rate hike could be coming at next week's Fed meeting",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "07/24 23:43",
+        "published_ts": 1784904214.0,
+        "tag": "Fed",
+        "first_seen": 1784904322.0886092
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQOGFnWE9VbUVvY3ctVm9qU2d2UmM2QnRVcGpKM05rTk0tR05KUjYxOW1qekpzSTFaMG9FWE1OV1NpcjFlNE9McExZSDN3VzB2Zy1zeHZYcTVvUldMQ3NOS3NweWhlU0JOai1Nb0dYTXotTjhrZm5vUC1meGVCTnVTWkxpcWhQZHM5RWV0aUtYVQ?oc=5",
+        "headline": "Form 497K Columbia ETF Trust I",
+        "summary": "",
+        "source": "StreetInsider",
+        "published": "07/24 23:35",
+        "published_ts": 1784903734.0,
+        "tag": "Global",
+        "first_seen": 1784904322.0886092
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSXVkZ01EUVBEblJmSF9JZlBNLXNVeU9iUV9HT0RkNWhCMk1WdlhNa2V0VTBoeGlqUllTUkVSMDhsYllfbU9mNC1zSFdZdndUR1NuNVgyUU5fVEk0ckIyYVFxSGJIbG1XX3hmYjJtcXY0V2U3akxVNUNneEVVeF9KV2RzTWNuRk5ablU0RGFxMDFGY1BnSWxCRVljZ01nRk1BNlBYRQ?oc=5",
         "headline": "Nifty Under Pressure: Five Reasons Behind This Week's Market Sell-Off",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784864280.0,
         "tag": "Strategist",
         "first_seen": 1784864725.0511503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1UYWZyOEMxbk9fTldSRWN6TG1mcWw5SXZHdW1KYnNxTHltUVc3NVE3MEFTbnl5S2ZnMU85V0JjcEVycGk1cWR4LWdDUFJ2VWVY?oc=5",
-        "headline": "2007 年以来未见，美债市场正在拉响警报",
-        "summary": "",
-        "source": "odaily.news",
-        "published": "07/24 12:25",
-        "published_ts": 1784863515.0,
-        "tag": "Fed",
-        "first_seen": 1784863833.834339
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9MWUM4ZUhFVWhqQjM2V0RmMW54WGxhMUlQUUFTSzBjeU4zbF9CY3dVcm5VdUZOSktCakNRcUk1MmlWcGFHellXaDJlX0NOMEwzUW5NNm9kZURFc3Exc3Bn?oc=5",
-        "headline": "유가 100달러에 금리 부담↑…코스피·코스닥 동반 사이드카[장중시황]",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "07/24 12:20",
-        "published_ts": 1784863235.0,
-        "tag": "JGB",
-        "first_seen": 1784863833.834339
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 23:30:56",
+  "updated_at": "2026-07-24 23:45:46",
   "yields": [
     {
       "label": "3년",
