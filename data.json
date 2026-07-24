@@ -1218,6 +1218,16 @@
         "first_seen": 1784808042.977301
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRXZtRTJzaWhwd3p4al82XzFXSnBHNHBRUklkNXI1N3BPYVhUdWtUYXh5MExLYWJzSEMwVmJlRUFGMl9zUUxWOW5zc0pWYUIyZTc4TDBsaFhQWGVKYVdZRWFHOEhpVTBfWHB1Y3JOcmlzQmd4WWRidUM5ajBMRnUzbkk1TlVHempYd1E?oc=5",
+        "headline": "기술 지원에서 국가 생산능력 구축으로",
+        "summary": "",
+        "source": "OhmyNews",
+        "published": "07/23 16:40",
+        "published_ts": 1784792400.0,
+        "tag": null,
+        "first_seen": 1784907925.2108645
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Uk1LRHAxWWdFZ0RwLTE2YW1LX1ZXNGpVYVJtQ0dJXzloc29RQUNVUXZmb2N5QUJ1eTZVdExreVFGTk83MFFSZmhiR2NXTEpiOHZDZG5B?oc=5",
         "headline": "“집값 낮추는 게 목표 아냐” 눈길 확 쏠린 이재명 대통령 발언",
         "summary": "",
@@ -1226,6 +1236,16 @@
         "published_ts": 1784775720.0,
         "tag": null,
         "first_seen": 1784902528.5276232
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMWJDSHVyT2xMTmtMbl9taWFaVVE5ODVDTjE0bVZtMUNPdlNOZmVuR01KWUpSdFVMVFNKMkRrYk5HbVhMWmNDaWNoZXFJbXNHc01pdDZpbVBBRjZqNWYzbmxzUk9uamgtRE5YUzNzb0p2ak3SAXNBVV95cUxNLTFiQ0h1ck9sTE5rTG5fbWlhWlVROTg1Q04xNG1WbTFDT3ZTTmZlbkdNSllKUnRVTFRTSjJEa2JOR21YTFpjQ2ljaGVxSW1zR3NNaXQ2aW1QQUY2ajVmM25sc1JPbmpoLUROWFMzc29KdmpN?oc=5",
+        "headline": "李대통령 “부동산 버블 터지면 ‘잃어버린 30년’…공급에 한계 뚜렷”",
+        "summary": "",
+        "source": "시사저널",
+        "published": "07/23 11:49",
+        "published_ts": 1784774971.0,
+        "tag": null,
+        "first_seen": 1784907925.2108645
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vbHVZNV9SVVBOcWExTS1rV0dQbkdRbmUzcDIwQWtEeFQ1cFh6OUNQNU9RQ3I5UWZIY2h1YmJJUV84VVhFWlpwRm1wSnpseHd3bExIWVd4M0syUEF2Z0pnQ05Ed3ZseU1vUzQtZzRBb0VBbkho?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1784600340.0,
         "tag": null,
         "first_seen": 1784601030.5025346
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85aE1FX2tQTExPSUJuQ2hwWjJMcHB2SXVrRFlqOC1jamVreWlWWHliYjZMVjZXcGxkaHlnOGdsWk5ZbTBzbWU4N3kzVEoybkk0VG9CRGp3?oc=5",
-        "headline": "구윤철 “8차 석유 최고가격, 유가 상승 감안해 결정”",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "07/21 10:56",
-        "published_ts": 1784598985.0,
-        "tag": null,
-        "first_seen": 1784599236.0497482
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DV1piSU1Dd2gxOW9wLWxYSzAyN1lya3EtdkJ0TFRIQW8zbDExUXlKZXNQYkxHWGVoV1BDTWFJRHVlV1NtSWpzc0Q2NDdDNWJqTTB3R3ViVnFxUQ?oc=5",
-        "headline": "李대통령 \"유가 급등에 최고가격제 다시 강화해야\"…매점매석 선제대응 주문",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "07/21 10:55",
-        "published_ts": 1784598946.0,
-        "tag": null,
-        "first_seen": 1784605524.131901
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 00:30:52",
+  "updated_at": "2026-07-25 00:45:46",
   "yields": [
     {
       "label": "3년",
