@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tcVhJU0V0QWZhMEN3R1FBVnJycVh3Q2Y1UlBpamRuZUNCdE5RbnE0R1ZfQkRuVHgyeElMTnBvTXdxWjBVazhYdVpKYU82MnFINUc0QzEzM0l4aTRKMXMtaVNrMEhMQVdmTkdGVFU1NWxrR0EyN1J5Qg?oc=5",
+        "headline": "Will the Federal Reserve raise interest rates? Here is what experts predict for July's meeting.",
+        "summary": "",
+        "source": "CBS News",
+        "published": "07/24 19:00",
+        "published_ts": 1784887213.0,
+        "tag": "Fed",
+        "first_seen": 1784888127.9839587
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
         "headline": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784836860.0,
         "tag": "Fed",
         "first_seen": 1784838631.1487544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPOUwtNktEQnRYNy1NQ1ZIczNSaTc3MVJtVUZoWnhDT0Z6MG5PMDlSVWhqZURLODR3amlxYnFuOG5TQXR0M3BmRHdXVVJrWDJ4aV91MFVYVExVcEZxRzgxdnhCcHdXcUQ3NW9URnR3Q1QyaFZkUF9Qd1dMcW5waUY3QWdCd1EtOFlYS01YQmZyc29IWE42OFE?oc=5",
-        "headline": "Alphabet's century bond fell below 90% of par value for the first time, as credit spreads widened on bonds issued by hyperscale cloud service providers.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "07/24 04:51",
-        "published_ts": 1784836268.0,
-        "tag": "Global",
-        "first_seen": 1784844043.755723
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 19:01:03",
+  "updated_at": "2026-07-24 19:15:50",
   "yields": [
     {
       "label": "3년",
