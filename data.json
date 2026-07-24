@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE90NllHQnBaTDMxRU1wQWtFZHppMUpYRDdJWE1UMG5OTEttYmd3dHB6aWMtRTREem9tWGZMeG85dU5ZWlJDMkYyOUhWVW10VkUzUFo1ZHN3TVFrNWpo?oc=5",
+        "headline": "[미국 특징주] 젯블루 채권 급락, 2분기 실적 발표 앞두고 불안감",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "07/24 12:52",
+        "published_ts": 1784865120.0,
+        "tag": null,
+        "first_seen": 1784865643.675737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONzhFR2NOS3J5dUlLSlQzdFdIUlFKbG0tUWJrdkNTQkhTRWF0SUl0d2x4cy1HS2VnM19GT2pJa2lpVWYzNEY3enJEeUVaMWgzTElhOUkwLThwQ0FNN3FYcnIxSVFud18yT3JSb20wT2JCbW5yZXN3d3pEYV9sTXpGVw?oc=5",
         "headline": "[크레딧체크포인트]‘NPL 호황’ 하나F&I의 딜레마…짙어진 ‘비주거 담보’ 불확실성",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784715911.0,
         "tag": null,
         "first_seen": 1784745036.820677
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1VY0dzeThXSFg1XzNPTUMtOGVlUXNzVzlQNTk2aEk1dVVrbmhrOXdJbklLejloc1daUWRpLUhHSVY2TDYtMVVmTmVLWQ?oc=5",
-        "headline": "[롯데건설 리빌딩]① 1.3조 성수4지구 수주 '정비사업' 재건 신호탄",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/22 19:07",
-        "published_ts": 1784714861.0,
-        "tag": null,
-        "first_seen": 1784845834.3128045
       }
     ],
     "perpetual": [
@@ -1650,6 +1650,16 @@
         "first_seen": 1784863833.834339
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPY3dha2QybkU3ZE5xMEc5WVNhSXFrY3dlcGgzSlY3dTVGQ3c3bFdkQ1d4R2FHM0VtT0JvWlZYa3VRREs2N1NGSEJZb3R0QXYzLTFjUmlKdGJ3di1aNDl2bUJmU2RtSkQtMThueFh4dmRtNWNaaXJILVdzdkJzeVFJWlJKZTFzU2tXUHRRRVFR?oc=5",
+        "headline": "Japan 10-Year Yield at 2-Week High",
+        "summary": "",
+        "source": "TradingView",
+        "published": "07/24 12:00",
+        "published_ts": 1784862000.0,
+        "tag": "JGB",
+        "first_seen": 1784865643.675737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPeE00M3JyM0RBd3BjM2s2TEg4em84YmY2ZVNZb2p3Q01Ba0dDR0tKdTl6ZGRQUXpjekl1MlBLUE5oWUg2amtvRnZSTXlVNy00S1VremQyRG1RUURTdFBoY2ttRHdNcFd0Z2tfSHJlX2lXQzV4bGtWWXhQUUJRbERIdGVnOUI4ekVwMktkNUpyMkExNDZJUEFSMmFpUklWQ1pFTmJYZWRtcWVXQVdjbW9HWg?oc=5",
         "headline": "AI Debt Fears Slam Technology Bonds as Oil Shock Reprices Global Markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784822290.0,
         "tag": "Global",
         "first_seen": 1784823326.8996522
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNzEyWGlTaURWNzFrWTNsWG1uSzNVUXk0OGpqNHZtMXphZHhCejhNdGV3SEIyREwzc3YzVDV0d19zZXpWeXkwdWVNa2Vvb01YamtaODR2MnpscFktal8tV3N4NkJJVXpjb1ZqdUJ3dC1GWmpTSWhfZ3JqVGt6QnRBbEJ2ZFAwLWYyZGs0bVZ1WUw2V3NPd2xBektNRkxIUQ?oc=5",
-        "headline": "The Credit Market's Warning On Big Tech Spending Grows Louder",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "07/24 00:49",
-        "published_ts": 1784821787.0,
-        "tag": "Global",
-        "first_seen": 1784822443.2402833
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 12:45:48",
+  "updated_at": "2026-07-24 13:01:15",
   "yields": [
     {
       "label": "3년",
