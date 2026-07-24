@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZVkRWLXo4aVQ0c1ctV3RRYWhmV0xRSzlYS3A5TXNnc3RPYnRVWWpQWDNEWjR1c2VBd0NhMnRUM3RTMzZocVN3YVFDajJqcU1ENkdTa183N25jUnFkb192Nm9LLXBkU19mVHZNYVk4aHpwS0ZpRk1vTjVQYTY?oc=5",
+        "headline": "[DCM] SK에코 · KCC 언더, 롯데케미칼 오버…크레딧별 스프레드 '희비'",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "07/25 00:12",
+        "published_ts": 1784905956.0,
+        "tag": null,
+        "first_seen": 1784907028.4946003
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeVRTNzY3NHVoUmlkeFM3Nlk5MkNYNk5fZTNyRUR3LURhMkhFaS1RaGNHcnFjbjVSUFBZbkVLazlESU9XVXhNRW9pdVEtRG1DMWlIWTVXXzl1M3haZW1RNDE4dTJtTVdZeEtHQS0xRU9TdWp2SExsVlRGNFpKczg4bFNEWnRxSFlvRXBOQXctenBRRGlBTWZINXQ2c25pUkhIbUJzUF9iVmxXak1oMzZFemRCVDZuZFJhWnZRVFU4aVU3Y05VSDk5NzBHZjA4ZWNycDFSVDV3UHJSMzRqV056WEdFMzNMWUZ5czJMbnpQLU5taGVFaFg4bnVfQ1NQa2pjR1B5eFdtaTVmWEU0SnFkVVdSenZ1dEhLQWpMaGFzcndpeXF6ZlVtemJuYldEZ0lNa2xsTms4dzR0eDVnUWptZFNnQThQS2U4c1Z0dXNwUXdaMURmTG5VNnV3?oc=5",
+        "headline": "유가 급등·스태그플레이션 우려에 기술주 타격…글로벌 증시 하락, 하이일드 스프레드 확대",
+        "summary": "",
+        "source": "VT Markets",
+        "published": "07/24 20:13",
+        "published_ts": 1784891596.0,
+        "tag": null,
+        "first_seen": 1784907028.4946003
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3WkVmZmdTeTdhYXpQT21tQUdUdXlMTld2QnR1WU1GWk9LT0M4NC1IbFVPNFZLajJQZGRzUl80R0ZDNDY2VXJqZW95bWNLUWhuY1BTdEVHZl91Ykl6Q1JOX1phY3QyUXZieVhjMFhKLTk?oc=5",
         "headline": "[채권-마감] 4% 코앞에 둔 국고 3년…다음주 국제유가 주시",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1784767320.0,
         "tag": null,
         "first_seen": 1784768436.88618
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11bUs4QVRHSXhzZm1BNDBERFprdUxoRzFKUjA0cW1EWWoxem1FRGI3QlpURERTcXZDOXV6UkNqUk16bG05dWRwOEJYNDExS3NtQzBkRllTTHVYQlJXcnQ4dFExY25keUVyd2xZUjRmNDdkdw?oc=5",
-        "headline": "국채선물, GDP 서프라이즈에도 혼조세…선반영+CPI 대기(상보)",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/23 09:09",
-        "published_ts": 1784765367.0,
-        "tag": null,
-        "first_seen": 1784880928.27751
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoS0ZMTk55bnA4OEFRdm03WlQxMzNwc3pHbFgxMTJIVDFka19NeDlfekZOU04zY2Z6Z2VfSmVzenVBMEROaTdMMmJiWk9yR2dueFlvVEFWczRkNnhqYWF0UjRLUnZkN2t0LUVFWGJiTXo?oc=5",
-        "headline": "SK에서 롯데로…발행 큰손 바뀐 회사채 시장, 반도체 활황이 바꾼 지형도",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/23 08:57",
-        "published_ts": 1784764629.0,
-        "tag": null,
-        "first_seen": 1784765726.6776264
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 00:15:40",
+  "updated_at": "2026-07-25 00:30:52",
   "yields": [
     {
       "label": "3년",
