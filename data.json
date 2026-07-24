@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sNFplNXlPUDRzRFFaeWZZcUJvWmRpc25JMk1BZ3ZwZ25SN1phRmRPSWlHSW00S2ptM1J4N1V5TWllUjRaZlA5ZEdHXzlJR05fSExj?oc=5",
+        "headline": "일본 연기금 '자금 회귀' 신호…엔화·미 국채 영향 주목",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/24 14:37",
+        "published_ts": 1784871420.0,
+        "tag": "JGB",
+        "first_seen": 1784871922.51106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMXlFc0F3cXdQY2p1LW5pV0Q4R2Fjckh5T0V0LVRnNWN5U29fdnU4SWdGcVpMUVliVGs1aXY4T1FoVkQ0ZUZ0YzJpMm5qdkdHXzdnbi1QeVFFcmpOcXZwWWxMMGRfSTlrTjRWT0lMdnljV2x2RDIxUHJ2bWhKSC10dVpJWkh2RUZ6MXNYZVVtLXktT18xd3hEYm9mZ1pEdnlhdXp6dDE2XzdlTm1Yd2c?oc=5",
         "headline": "Malaysia sells first dollar bonds in 5 years as fuel subsidy bill rises",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784823482.0,
         "tag": "Fed",
         "first_seen": 1784851240.5659306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcTdhS1BIdjB2WXAxeGszTlJOZ0hnYUNQdlNoYUZyM2pFWnh3Xy1uUlpjb1F3SDgtaGpVaVJBU0dOejliYTFuZ2VxZ0c1WmJHb01MakdMd3VHOTJKa1ZVMDFxNTVzZzVsa0JteDl3djdNcVhXc2xnM3RhNGVzdlFpcFBGRnFLaXktXzNLNnRJT0NkUENNZmFiTDB1RWgxT1FubjhaWVFBTFBEZjFjZUhEZUhmT3VrczRjT1VSYm9Rcy1UXzlZX0YwVF9MX2NfMFBfQXgyeS1ET1RyMDFiOW9NYWN1NW5jdDFnMWxMcUtSS3dsTkk0dGZ3?oc=5",
-        "headline": "Average 30-year US mortgage rate climbs to 6.58%, highest level in nearly a year",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "07/24 01:06",
-        "published_ts": 1784822779.0,
-        "tag": "Fed",
-        "first_seen": 1784823326.8996522
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 14:30:54",
+  "updated_at": "2026-07-24 14:45:46",
   "yields": [
     {
       "label": "3년",
