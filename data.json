@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVZmYklwaHhvOHA3cjNpRExLaEVLZUkyS3QtaktUWU43QmhlMUNtc2p1WV9qTFRoVTdmRHBhR2VJdUlScmhELVdzclloN2MzZ0ZBNTR6M29GWFlfdkFOclc3M2JaMXVmTEVnTTEyd2dlbXZ1RE5zWmhuWFBNM0dxazVKRFgyTUFKLWJ0TV9pdlUzN2R3ZHYxenRDOWFWU0lSaXNmdUxHdlFuUQ?oc=5",
+        "headline": "New York Stocks End Mixed as Chip Selloff Offsets Oil Drop",
+        "summary": "",
+        "source": "Seoul Economic Daily",
+        "published": "07/25 06:38",
+        "published_ts": 1784929130.0,
+        "tag": "Global",
+        "first_seen": 1784930438.8792975
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWVFM2lXNUo0dURrY1ZsVENOejBEQXBzYWRfUGJsSV9BV0ZENXNrN3JUUmZsb214djN6ZU1LTWxkTVlnTVFiSnhrUFY5aVU2WWJOLU5RX3hpVmpmUWk1NzQ0T2Q1TFJjYl9Vd2RPdnNMZ3RQNFdSb0RwaWExRXpfVDU3Q1VuczdVOVBxN1NYbl92LWFxakNSN1l5OVJIamh5UkpUSTgydDlJc0pXbFJYRUtIcUJsTzcyT1J6SE05SDlxR0JWYUNlRQ?oc=5",
         "headline": "T-Bill Returns Without the Annual Tax Bill: The $12 Billion Fund Using an Options Trick",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1784923656.0,
         "tag": "Global",
         "first_seen": 1784928633.2541308
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5TYktfMkYyMk5TY0RWbWc4aEtVT2h5WTBLcDdnZVp5YU40X0dFZFUxU3ZHMmxzeVJJbHgwSno1WDA2SWVqYVVmd2JXVjFBdw?oc=5",
+        "headline": "UK chancellor faces rocky path to economic renewal",
+        "summary": "",
+        "source": "Arab News",
+        "published": "07/25 04:47",
+        "published_ts": 1784922439.0,
+        "tag": "Strategist",
+        "first_seen": 1784930438.8792975
       },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43eGtPRzViT3J4MzhlTk03Uzd2RFJzd1poa0FSYmQ1OEFUTWNTZkVYSGZaNEV1ZE9XT0RReEotWFBCNnluWlBFRlNHT0RHZEV1SXU4RVYyMkVnZXU1eEJLVEZtbmRwbTEzUFZz0gFrQVVfeXFMTjd4a09HNWJPcngzOGVOTTdTN3ZEUnN3WmhrQVJiZDU4QVRNY1NmRVhIZlo0RXVkT1dPRFF4Si1YUEI2eW5aUEVGU0dPREdkRXVJdThFVjIyRWdldTV4QktURm1uZHBtMTNQVnM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784891546.0,
         "tag": "JGB",
         "first_seen": 1784893528.1058571
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPYVRCMXNDaHJWRk9ET3BLVEJzU0loSnRRM3hNcTAxQ1pXT1VoWlA1MUJxelBHYlFyRVVGQkZUZkFNc0NfMFNYbE1KN3pXYzRWYnIwN0JTeDVXaEdfOEpaN0pJSU91aEppRURTR1JSSld2cVl5b3Bval8wb3N0MWI4ZlBBcXlUbDA0Q0MtdFcxa3dRMzFXWkZzdC1WTGJRbW02NkE?oc=5",
-        "headline": "Fed Chairman Warsh faces cruel summer as bond yields spike",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/24 20:09",
-        "published_ts": 1784891384.0,
-        "tag": "Fed",
-        "first_seen": 1784891728.9357314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONTU1aEFzVW1jYTYxUENwNmxjdmJ5M1ZKRGlmaVVmaEFVb19pYnk4MGR5dVN4amlfV1U3cUZaeXItVjBkSlZzUHNNODc2SkU5NjVkZVNBTFdrc2lkUlR5U1MzNm1SMXVMZVhOdlNWbXpRaE9oSVRsZ3FWMzJLa3BEME5xOUVpXzVLdTlMRUNCTVRQaktmSWZB?oc=5",
-        "headline": "Is SPHIX a Strong Bond Fund Right Now?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "07/24 20:00",
-        "published_ts": 1784890802.0,
-        "tag": "Global",
-        "first_seen": 1784910971.7870002
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 06:45:48",
+  "updated_at": "2026-07-25 07:01:03",
   "yields": [
     {
       "label": "3년",
