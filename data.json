@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4Rk1YUUZjTnVNb2Ruc0lEVkFBdzRqSDA5TjZlbFN0TjB3SEd6a3ZYV0h6amdtZ3FMQkMza3ZIcHRVUWtNbHJHbEZvX0VHazJFakdtMlI5VkJrQQ?oc=5",
+        "headline": "무디스, 알파벳 등 하이퍼스케일러 신용등급 강등 경고…\"AI 지출 위험\"",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "07/25 03:43",
+        "published_ts": 1784918593.0,
+        "tag": null,
+        "first_seen": 1784923234.9509661
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZVkRWLXo4aVQ0c1ctV3RRYWhmV0xRSzlYS3A5TXNnc3RPYnRVWWpQWDNEWjR1c2VBd0NhMnRUM3RTMzZocVN3YVFDajJqcU1ENkdTa183N25jUnFkb192Nm9LLXBkU19mVHZNYVk4aHpwS0ZpRk1vTjVQYTY?oc=5",
         "headline": "[DCM] SK에코 · KCC 언더, 롯데케미칼 오버…크레딧별 스프레드 '희비'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784771640.0,
         "tag": null,
         "first_seen": 1784772038.048843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVG9MWGFUamlMVnBQZGF0a2J5ZW8zMDhObjdESEgwWFh5bXJCNzhla3F2TnZzMUJLRDV6T1dYSmd0OFFFMm1GWVl0Ukp1Q001VlVlc1lyUmtXVm4yaE1WenZ5Ri1aWk9vOV9HeF8ybkNtOHplN2RRcWY2MjBSM25UMnd2UQ?oc=5",
-        "headline": "빅테크 AI 투자에 전 세계 회사채 발행 사상 최대",
-        "summary": "",
-        "source": "조선일보",
-        "published": "07/23 10:31",
-        "published_ts": 1784770260.0,
-        "tag": null,
-        "first_seen": 1784771123.7989855
       }
     ],
     "perpetual": [
@@ -1780,6 +1780,16 @@
         "first_seen": 1784918722.0521252
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNemEta0NlRWw2aGRCRHVlWXEwUEZzNEVnd3JGZTJ2aVhnNGJSVHFybUlDVXBIWEtObEVBVnJlaEMtR3ZseHlyVTdvR3Voc1B5ZExVb0NKZldEeEdRX1ktUUJwMk1nazhvN2NmaTM5WXM4VXMxV1l6YkpMb3ktU19iS09vOTVySmxJZ1Y1MjZwLUhKU0dybkFJQVM2VTRkZWNvTkVRYnV6RXFrbFhvelhsVDB2QQ?oc=5",
+        "headline": "Oil Hits $100 as Iran War Rattles Bond Market: Treasury Yields Surge, Borrowing Costs Rise",
+        "summary": "",
+        "source": "inkl",
+        "published": "07/24 22:16",
+        "published_ts": 1784899008.0,
+        "tag": "Strategist",
+        "first_seen": 1784923234.9509661
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3lJbG1oV0dXUkdmMFRHZnNxSTZTQUVOcndMNk9lZ1JLYXh1akdUNWg1ZDcxeDJESlRHVE0zYlVvU2J1RkxId2lZVnZmNVpQLVBzc2piVjV1N1pBOFJDYXVGRjUxUWE5Sl9KMmlqdE9vZDk5cklkeExYcTR2WHktOFY1STdNd1piZHFOUng1aUhsWmE3dFJmM2pzSjJ2WGluMVduaE9OcVBJSWxZRkVETlZydmNwUmc4bHBxZ09mdXJ0QQ?oc=5",
         "headline": "U.S. bond sell-off deepens as energy shock and trade friction lock in hawkish Fed",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784883900.0,
         "tag": "Fed",
         "first_seen": 1784884412.165852
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQUE5qX1k4YmJHY0JsZHQ3U3A1cGo3cDIwMVdwakVmV0tVNG00MHpLNGdkVFpYS2lEemc5YURIdkNOdGxxdFNyVkNqZFN4d2dZQ1lEZkR0Mi02Nm85R0ozVnh5Q1M3MHF2VWh0cE9KWjZjX0g3QzctMHZneHozNVMxblhDZHQyNUlJV0RPSHBn?oc=5",
-        "headline": "The Bond Market Is Forcing the Fed’s Hand",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "07/24 18:04",
-        "published_ts": 1784883855.0,
-        "tag": "Fed",
-        "first_seen": 1784889034.913943
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 04:45:55",
+  "updated_at": "2026-07-25 05:00:57",
   "yields": [
     {
       "label": "3년",
