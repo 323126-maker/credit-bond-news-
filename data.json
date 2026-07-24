@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMEpud3VoQXV2bUYyLXU5dU5EU0tLWTVGaFVLcm83WXA5WWlhbTZfcXJqSjRNNHBjTjFDdXVULUVWc3hwcExPWEdQczc5OXc5Y2tXUEJWQk9qUmtsdGIwMjhhM180OXZVQjR4My1PbGNITkxlQ0hUWUdrTm5uODFwMXpaYi1sWFMzYjFkWXhXN0V4Y1ZyR0E1RkNXV3VGMXJUUnZXN2d0S0lya2t0cHVrcFZIeGFrdw?oc=5",
+        "headline": "Fed chair 'an enigma:' Why July interest rate move is hard to predict",
+        "summary": "",
+        "source": "USA Today",
+        "published": "07/24 18:05",
+        "published_ts": 1784883900.0,
+        "tag": "Fed",
+        "first_seen": 1784884412.165852
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aZGpYRTVIR1lLbGVHQjE1YzluT01NWDhGb3lTbVlUOUlCZVFQaVlWQzFmX3UxdmRaWXR0LU10TmhDVW5iRWFicno1X3IxVG84NWVQN0p1N1BtNUFGQjNtbmRwUk9nODVJOVNXS1dQOUJEazQ?oc=5",
         "headline": "Korean firms shun long‑term bonds; SK Hynix lifts short‑term demand",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784835928.0,
         "tag": "Strategist",
         "first_seen": 1784836838.9234278
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMXk4M05FMDdySy0xdEtxLXNScG93TTVtc0VLcnl2YTFSWmpfWXpMYUlGbnFoQ1dnbFVFZDdKZ3lGd2x6LUpIOFVDUUMxQnVsQlpsdmhiZmxyWnVQSlFqb1FzNlozd3dXMlhFYjhQaVBFd18tcndyYWpIVkFFZ2hDazZEUk13TEIzY1EwY0dXU1hXeXBaUGNOVDNPWE5Mb05UeEJGa2ZlM3FRLW9OZFhGXy1BYjhacVQ1TFQxVHhLOWY?oc=5",
-        "headline": "Bond market regime change could reshape Gold investing for years ahead [Video]",
-        "summary": "",
-        "source": "FXStreet",
-        "published": "07/24 04:35",
-        "published_ts": 1784835335.0,
-        "tag": "Fed",
-        "first_seen": 1784852127.7779927
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-24 18:01:04",
+  "updated_at": "2026-07-24 18:13:52",
   "yields": [
     {
       "label": "3년",
