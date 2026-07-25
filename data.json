@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE00eGVSS3Rsdm5obWtrOHNEamhxVW1BVFFDZ3kwbUxFRmRCMDIzbk1UY05kNFdQeV9MTWU2OHVRMTJXejMzZy1FZ0ZLU2JFaXRteWNMdTRfbUkxSlpOdGVRVU5pNlNZbi1fX1dUYkp0aXpQSGdyLWE2UjFtdFBIVnd5RUVHT0d0XzZRX0xB?oc=5",
+        "headline": "오늘(7월 26일) 미국 달러 환율: 미국 달러는 4주 연속 상승했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "07/26 08:43",
+        "published_ts": 1785023002.0,
+        "tag": "JGB",
+        "first_seen": 1785023051.293736
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXJYOW91Zk9Lcll5alFHWmF6TDJ5cFdNbThmeGdXVktVR1pnX0UyVFlfX1JrNjlIQVVsZW5NSUhHUi1CdVV6NW9HUXNPMERmeFZYaUdlRndPYUd0UjVUeEhtemdDaDJfeUJwaHdQVW1rMGdIRE1KX21PNWV4YjIwQUtsQ2RNc21tMTZQSnY4SU52RTRtTFhrTQ?oc=5",
         "headline": "The next Fed meeting will be a 'family feud' — and that's exactly what Chairman Kevin Warsh wants",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1784928537.0,
         "tag": "Global",
         "first_seen": 1784958420.3948636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWF9PQzM0M0V3Mmx0Uk9fV3RIWkJIWkg5U2poRTZzaEhGaVZ1VW55cEg5Rzc4YnlaaGFyRnhaaE9Db0VIZjBmR3hnNmdianhqeGZfZFFYVFZ5MHVmdE1TVVkyRHZfUjFHSVZrcFFLUmZfQ1hFUzJwOEFQZTBuejFiOEtBcVhoekZRREo3cDFzcGVwRXA1Q1hJNlREdEhZY1JEQXM0?oc=5",
-        "headline": "Federal Reserve Chair Warsh Holds News Conference",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "07/25 06:09",
-        "published_ts": 1784927341.0,
-        "tag": "Fed",
-        "first_seen": 1784936684.6001406
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZd3hsMEpNNGxFb1o2M1IzTGdjalRRS0dVdUpsR3ZpTHVuZ2FWeTVTYS1zVVlWTnRGbFRCYVEzc0ZnbnE0OHNlQU54WENvYTVfY185aHRQbFUwSXhKOUxpZnlZN21QY3Zi0gFsQVVfeXFMTzZYVWZxTS1ZOFB0Wk4wbTNtTFFpbnFEOE5SWHZjdkxMZ2VneTNJYXZYbmFaVzNISXVTc1NwZHJMNWJQSHJOV00xNzRkaGt3UEVfTjdMZmNiZ0RsNzIwanZvM3EtZEpuSExCcDNX?oc=5",
+        "headline": "증권이 만든 역대급 실적…금융지주, 비은행 판도 새로 짠다",
+        "summary": "",
+        "source": "직썰",
+        "published": "07/26 06:00",
+        "published_ts": 1785013200.0,
+        "tag": "우리지주",
+        "first_seen": 1785023051.293736
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHdjFKaGFKS3VZZ01XSThLSFFqYjNnRjFrWGprcGg0Mjd5T1QycFp6QjVMRGc4RlJvekE4bHFIMTdlRXJjOWF2ankxWEJ5OGJCSzFv?oc=5",
         "headline": "시중은행 막히자 수협으로 몰렸다…'풍선효과'에 수협도 대출 조이기",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784726075.0,
         "tag": "삼성카드",
         "first_seen": 1784736930.3347003
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1DeUpOUEsxMXd0czBHZWowVHFCN2RYSy1yZ3FXZDhvLVJuMDZ2S2ZWVXJBaGZsa2lqamlzakJyWmtWQlU1aXJyTXVta01Odw?oc=5",
-        "headline": "S&P, 삼성전자 등급전망 ‘긍정적’…\"메모리 슈퍼사이클 최대 수혜\"",
-        "summary": "",
-        "source": "dt.co.kr",
-        "published": "07/22 19:16",
-        "published_ts": 1784715365.0,
-        "tag": "삼성카드",
-        "first_seen": 1784951197.914979
       }
     ]
   },
-  "updated_at": "2026-07-26 08:32:47",
+  "updated_at": "2026-07-26 08:44:35",
   "yields": [
     {
       "label": "3년",
