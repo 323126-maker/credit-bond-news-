@@ -302,6 +302,16 @@
         "first_seen": 1784834126.2112935
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9venJ5ajRweXhid0paWDRBUzFFRUF2MjU1M01yTjVpVEc1d1g5VDJSUUlEbk15OEFzbEtPWmh1Z2QwZmhPR0tLR0RLSWk0a0NwOXc?oc=5",
+        "headline": "무디스, 아르헨티나 신용등급 B3로 상향 — 페소는 왜 약세였나",
+        "summary": "",
+        "source": "EBC Financial Group",
+        "published": "07/23 18:54",
+        "published_ts": 1784800440.0,
+        "tag": null,
+        "first_seen": 1784988974.8798082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGWjlMVnZGRDY0aDhiWGxhRHZsaFExZWRrSFAwS2htUDIyTVk3T0VIWUpvbFB5b09nSGdIT1F6Z2wtakpNMS13anpwaktWdnlmTDBLTk1aa083RkRiVWZDZTVpQXhwUVBL?oc=5",
         "headline": "IBK운용, MMF 대비 추가수익 추구 초단기채권 ETF 상장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784791952.0,
         "tag": null,
         "first_seen": 1784885437.1366503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xOGtOajFudUJlSjFldXRHd1d6eHNTakViVUpyZFRvV3REOTVqREQ5eWhjTHJZY2UyZUZRbGlJVFlLOXpyd3hzUkFMRXFqNWg3emtRZklQaWtJUQ?oc=5",
-        "headline": "AI 시대, ‘곡괭이와 삽’은 채권 시장에도 있다",
-        "summary": "",
-        "source": "한국경제",
-        "published": "07/23 16:32",
-        "published_ts": 1784791933.0,
-        "tag": null,
-        "first_seen": 1784792726.4274707
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 23:01:01",
+  "updated_at": "2026-07-25 23:16:37",
   "yields": [
     {
       "label": "3년",
