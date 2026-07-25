@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXJYOW91Zk9Lcll5alFHWmF6TDJ5cFdNbThmeGdXVktVR1pnX0UyVFlfX1JrNjlIQVVsZW5NSUhHUi1CdVV6NW9HUXNPMERmeFZYaUdlRndPYUd0UjVUeEhtemdDaDJfeUJwaHdQVW1rMGdIRE1KX21PNWV4YjIwQUtsQ2RNc21tMTZQSnY4SU52RTRtTFhrTQ?oc=5",
+        "headline": "The next Fed meeting will be a 'family feud' — and that's exactly what Chairman Kevin Warsh wants",
+        "summary": "",
+        "source": "Fortune",
+        "published": "07/26 07:38",
+        "published_ts": 1785019080.0,
+        "tag": "Fed",
+        "first_seen": 1785020516.4200695
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanE5RVl0dzBQNzdjRVZCdTlVMWF2MGpNM1cyVDNzVWYteWFndXVSWGxRRU96SDVsME5EbEtGOHhocmJPVG1GQ3h5WGRmalFhMHNnaGJwcjFBZjNSa0dNa3JfOHEwUE5tSzVxamE3cHpSalByZmNHTmxNVU5NbHlDX0NqZk9QWEhDc0R6a1hVOEx6STh0SVptVGNZQU9FWW82SlJOWkZvd1pLeElmX3pkT3ItSjJqVWpPNU1fbC1TbEZNWkZGeklhQQ?oc=5",
         "headline": "Borrowing Costs In Bond Market May Rise As 10-Yr Bond Yield Faces Upside Risks: Report",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784927087.0,
         "tag": "Fed",
         "first_seen": 1784932311.889008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcWVFM2lXNUo0dURrY1ZsVENOejBEQXBzYWRfUGJsSV9BV0ZENXNrN3JUUmZsb214djN6ZU1LTWxkTVlnTVFiSnhrUFY5aVU2WWJOLU5RX3hpVmpmUWk1NzQ0T2Q1TFJjYl9Vd2RPdnNMZ3RQNFdSb0RwaWExRXpfVDU3Q1VuczdVOVBxN1NYbl92LWFxakNSN1l5OVJIamh5UkpUSTgydDlJc0pXbFJYRUtIcUJsTzcyT1J6SE05SDlxR0JWYUNlRQ?oc=5",
-        "headline": "T-Bill Returns Without the Annual Tax Bill: The $12 Billion Fund Using an Options Trick",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "07/25 05:58",
-        "published_ts": 1784926731.0,
-        "tag": "Strategist",
-        "first_seen": 1784928633.2541308
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 07:45:52",
+  "updated_at": "2026-07-26 08:02:19",
   "yields": [
     {
       "label": "3년",
