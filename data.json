@@ -1620,6 +1620,16 @@
         "first_seen": 1784952133.668345
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME8yUzhBcmdNQUR3Q1dZaFZaN0ItWlVlcEgtQjBUMjJnblhmM0xCRGlYS3pxWkd0Y3NiLWtMQjhvSWQzdU9LTTRmYWdOMzEyOW55SUtmOGJqa1BrQWR5QVdONXBnbXZKcFM1bDh4MWFCd2M0UXNCSVRfN3FQRTRoUFhTWUNxVDB1aXdmYk9jYk5ZbTJQSzFiRk52eDRXbEZwN1d2MElPUlc1dw?oc=5",
+        "headline": "Fed Chair Kevin Warsh's First Testimony: Inflation Fight, Policy Shift, and Market Implications - News and Statistics",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "07/25 10:50",
+        "published_ts": 1784944200.0,
+        "tag": "Fed",
+        "first_seen": 1784957431.421498
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPT1hvbVZfSlV2MWRYeWJEdVRyU09BbVR6b0dyZnBPa0pBSG1kQmM3UHNtLWdXR2lzMFBVbnRVRzFjQmEtMkVDdE5LUzF2dmhqand4dWJWS3ZXTkx2bk5VMlNCYmJIdHhIMWRkN0xJeHlscWdhWWFPMHhEcFY4NWZHS25XdDZhU1gtandOdVotc1RheVFaRUVBbA?oc=5",
         "headline": "Kevin Warsh Just Vowed to Bring a \"Regime Change\" to the Fed. It Could Rattle Wall Street.",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/24 22:08",
         "published_ts": 1784898480.0,
         "tag": "JGB",
-        "first_seen": 1784899833.0702233
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9YQVZhdkRiQmh6c3JabFRtYjZUNFVFYVhIazlNak02M1VlelRBaWpkRUZ1VnlTbGUxcTRPTm1ObXM3blBPcXZVSW5kM3RHZWhzbFFMemtNcE4yUFZKdWFXV2hlZG1zQUNKTVRYYnZWT2V5ajVROGc?oc=5",
-        "headline": "Treasuries Tumble After Warsh Shuns Guidance: 2-Year, 10-Year Yields Approach Financial Crisis Territory",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "07/24 21:56",
-        "published_ts": 1784897760.0,
-        "tag": "Fed",
         "first_seen": 1784899833.0702233
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 14:17:34",
+  "updated_at": "2026-07-25 14:30:56",
   "yields": [
     {
       "label": "3년",
