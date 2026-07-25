@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVGdDMHFqX2FBMWZMQVpTd1dYVGF3NkstVW1DNER3WWZqejIwcDJTSEJkYWIzWjdtdDk0elVFRFlRd1FyakxxeXRJVm82TjJTSFo0Vy1PMEN6WklMRnNkaWw1b0lwQW8zOFM0Z1Fzcm5seXBDYVNkcjB4OEFBVkJxdk83YUk?oc=5",
+        "headline": "Investors bet on Federal Reserve rate rise after oil price surge",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "07/25 19:00",
+        "published_ts": 1784973609.0,
+        "tag": "Fed",
+        "first_seen": 1784975429.7408044
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0xuNW1lZnloZU5fRHNiYUREa0ZtOTdnUHNXTEpBRW9hd052LWo1YmczbTBrLXJyTkp3MzhneXZwVV9rNFExVUZHa280SjNHYVNZbUxWeDlnbFdTTlB1WDRNZ0NKUGpIVE50eXVRQUdPcDMxdl81WFVDU0U0ckU5eUVua2U1RjdPTU1venpDMnlkenl3a3pvMA?oc=5",
         "headline": "JPMorgan CEO Jamie Dimon Just Sent an Ominous Warning to Wall Street: \"Close to as Good as It Gets\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784901919.0,
         "tag": "Global",
         "first_seen": 1784903433.6344829
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14NXk2SnNZOER2bWJ4NkZqemJuVjItelBCbFc4S0NRYmNRd3JpSjN0ZzdrWG1FTlZjYzZDZ2hsVGhyOXhCS2xUdWl4anFXTUZlSXBFT1Q0RTgzYmNVcEFGMkNFcWEzMnJIMHdOc3hZejdZT1di?oc=5",
-        "headline": "Liberation Day, Reloaded?",
-        "summary": "",
-        "source": "Investorsobserver",
-        "published": "07/24 22:59",
-        "published_ts": 1784901548.0,
-        "tag": "Fed",
-        "first_seen": 1784905248.0764832
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 19:15:46",
+  "updated_at": "2026-07-25 19:30:52",
   "yields": [
     {
       "label": "3년",
