@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9ocEs5MGQxR2pIeXBYdkxzWmQyWUViVWtMc3p3dkVYRUZiSzQzMDlWc1FFcEI1OHZicEctTWVod01IRDN1eGxhSE5aeEpTbXB6OGswaW5QX1B4dUo5b1E?oc=5",
+        "headline": "[힘내라 K산업]③두산, 차입금 줄고 현금 쑥…'A급' 신용 복귀 청신호",
+        "summary": "",
+        "source": "아시아타임즈",
+        "published": "07/25 08:03",
+        "published_ts": 1784934226.0,
+        "tag": null,
+        "first_seen": 1784944836.7284214
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWWWhwOERCUXRvTkdJWHU2UlU0cmlYay04VmI1c0V0b3IxTUt1cXdHSFh1MVpxaXF5QmZPY3g2ZDZRTlVDS1ZBd1ZWRUdOekpsdGFoMzNRNm5BWVhST1k4YlVHMUQtS0xlQm1rWTFWOGo?oc=5",
         "headline": "헤라클레스 캐피탈, 6.3% 금리 3억 2,500만 달러 채권 발행 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784785860.0,
         "tag": null,
         "first_seen": 1784787326.2736354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE14OVVicjRRa2gyWmJrMkQ5d2hJRHRnT3BCMHN6cXJPWC1hQUpjYWhrcGJURlJES25KMDZYVzBMWDB6anRGNHN2SjZ4ajdCS0Rya1J6SXBZaS03c3d0S3g4THFwekRKdmxOOWRuMzdsMFpmdw?oc=5",
-        "headline": "백투백 인상 우려 반영하며 소폭 약세 전환…국고 3년 0.3bp↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/23 11:19",
-        "published_ts": 1784773180.0,
-        "tag": null,
-        "first_seen": 1784791833.7936707
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-25 10:53:31",
+  "updated_at": "2026-07-25 11:00:59",
   "yields": [
     {
       "label": "3년",
