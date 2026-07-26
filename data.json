@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9rajI5WjFWYXBxTE93NG9PZm9yaDFuMEx6Wnpka1c4N2x6MFBTZDhJcUJSWEtseW00RzB1cWZpOUNQWkZjSHZiUDg0U1hQcHQ4ZUhJ?oc=5",
+        "headline": "롯데케미칼, 2000억원 회사채 발행으로 만기구조 개선",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/26 13:31",
+        "published_ts": 1785040267.0,
+        "tag": null,
+        "first_seen": 1785041202.794703
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGbWpCWjVicS1QbS1MbHdwSXpIMjUtbEVwOUdzUVBYYnlTSHlSaWdvZTlqbVNZdXJQTXBkWmtwbmp3UWlzOFVpWURKS1FDR1JEcGhaSW84NDN3RG5uZ1dmbGtNdnplWjR0bDAtaXhTeGhyQQ?oc=5",
+        "headline": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/26 13:00",
+        "published_ts": 1785038400.0,
+        "tag": null,
+        "first_seen": 1785041202.794703
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcDZoUm5MQU9JVGNoTGVXb0EwQzhGa3VDQ1UxQWtOVEU0RFg3cl9FbGRDZjJ1QXU4U1B2MUZVSFkweTFoWHhFVnk2clp6a3dPWHZaOUhMTEhGR0FZdF9qVtIBeEFVX3lxTE05MFNQZVJVSDVTWkV5MEdaSnVMT2M2UWhyVXBFT0lpZXlZOGxFUExFNFJaVVlGVFFRM2gtRG9DVGpHcXRaTVVjOUwxQ0MyRTViUlB6Z2NFWm56TkJ1Mm9lLU50WDExVUMyWFI0SWFobjlBTEJBd09oZQ?oc=5",
         "headline": "회사채 금리 2년8개월 만에 최고…증권가 \"투자매력 높아져\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1784852713.0,
         "tag": null,
         "first_seen": 1784985325.10088
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9OMjZxS0lXMllrcWZjQV9Mbzk3ZTQwWHhIczgxM1ZRZWpTcUFrbkRhdklVWm1tVTFzSmM3M0p0SFFyOGtxRVpzQXZNZGxmdThFT1cxMWhQOUdEWmYyYzVQMDdxODF0T1pnRF9F?oc=5",
-        "headline": "롯데케미칼, 은행 보증 힘입어 2000억 공모채 발행",
-        "summary": "",
-        "source": "numbers.co.kr",
-        "published": "07/24 09:07",
-        "published_ts": 1784851643.0,
-        "tag": null,
-        "first_seen": 1784956630.2115674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9mdk85ZDM2N21QT1NlTU8zMDR0eWVqbkQ1b1pzNVI0LUVWNlA4NTA0d3pwaUM1VWIwX2l4c1BZYkpQc1AwUzhjZV95cE9zWVlWV19HalRHa183NUFNc0Fhdy1iV1JQZlFOOVhGSFpzbzB1dw?oc=5",
-        "headline": "LH, 하반기 10.5조원 조달…\"자금원 다변화\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/24 08:31",
-        "published_ts": 1784849476.0,
-        "tag": null,
-        "first_seen": 1784989835.7951105
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGbWpCWjVicS1QbS1MbHdwSXpIMjUtbEVwOUdzUVBYYnlTSHlSaWdvZTlqbVNZdXJQTXBkWmtwbmp3UWlzOFVpWURKS1FDR1JEcGhaSW84NDN3RG5uZ1dmbGtNdnplWjR0bDAtaXhTeGhyQQ?oc=5",
+        "headline": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/26 13:00",
+        "published_ts": 1785038400.0,
+        "tag": null,
+        "first_seen": 1785041202.794703
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwcDZoUm5MQU9JVGNoTGVXb0EwQzhGa3VDQ1UxQWtOVEU0RFg3cl9FbGRDZjJ1QXU4U1B2MUZVSFkweTFoWHhFVnk2clp6a3dPWHZaOUhMTEhGR0FZdF9qVtIBeEFVX3lxTE05MFNQZVJVSDVTWkV5MEdaSnVMT2M2UWhyVXBFT0lpZXlZOGxFUExFNFJaVVlGVFFRM2gtRG9DVGpHcXRaTVVjOUwxQ0MyRTViUlB6Z2NFWm56TkJ1Mm9lLU50WDExVUMyWFI0SWFobjlBTEJBd09oZQ?oc=5",
         "headline": "회사채 금리 2년8개월 만에 최고…증권가 \"투자매력 높아져\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784539410.0,
         "tag": null,
         "first_seen": 1784539829.7780058
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0OUwyc3pYYWlnXzB6OG9DLWZpU1l2N0FqYjlRRWlfbjF2cUlZOWpITjVYcUt3bGNxN1BhMHFETHlBYUJ3ckVldUhJanJrTFFnX3VKMw?oc=5",
-        "headline": "[채권마감] 30년·50년금리 또 사상 최고, 중동·백투백인상 불안",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/20 17:26",
-        "published_ts": 1784535960.0,
-        "tag": null,
-        "first_seen": 1784537122.863081
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 13:30:53",
+  "updated_at": "2026-07-26 13:47:03",
   "yields": [
     {
       "label": "3년",
