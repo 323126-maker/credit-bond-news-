@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaa1NlMzN3WG9NOEd0U0F2aW90cWFZdjZWMEFoMFE1NWxQNVRONlZITGRpbUVjZnc3VFNmTHZFdTRQTXExbHVmcHZMbGt1eU1janlqRW9pNURvdw?oc=5",
+        "headline": "The Guarantee Switzerland Never Had to Cash",
+        "summary": "",
+        "source": "economy.ac",
+        "published": "07/27 06:28",
+        "published_ts": 1785101309.0,
+        "tag": "Global",
+        "first_seen": 1785105926.102188
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYloyWHZIOWtTTGxpNy1yemtPMkRaOHBGakFCcEJ3UnhKa1ZNNE9acGlzYWp5bzBUa2RKdXdyclZmdHZ6NE9NblZGczlkaUZqVjFBaVdZM0pvMzFxZWswY2NuRzljVWk4bDVwQ1R6OEt2bFY3M1FtNVo1ZmE3aFBtVkhRQzVnbGFWaXd0bG4ycHhQVmZNTXdPdlJWU2ZVVFM4?oc=5",
         "headline": "Blockbuster AI debt issuance: coming to a bond market near you",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1785080252.0,
         "tag": "Fed",
         "first_seen": 1785080685.2152686
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMzFTSWp6M1ZBRXBNVVlvMWc5SHh6WTlDbFJ4TUZPWUw0VnBJM3ZmVV90MXdmbk5CcnYxVzRCUzc1eFBKSTlpTV9LbTFEMGt6TkJ6VlN5RWo2ZVE4X3dnRUxTTnpfTk9KdUswM0dYVWd6ak5VU1B6amdVSXVNNnlnRw?oc=5",
+        "headline": "엔화, 800원대까지 추락... 엔화 약세가 뉴노멀 된다?",
+        "summary": "",
+        "source": "데일리바이트(DAILY BYTE)",
+        "published": "07/27 00:11",
+        "published_ts": 1785078676.0,
+        "tag": "JGB",
+        "first_seen": 1785105926.102188
       },
       {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1acFBVNjNoMVRJY25BRG1LY0hBbjZSbkMwTEtxMFUxYi1PbzJzalpWY2gzOFlDb0FQRGxpc05sazVRNkRQcUIwY2p4LW5xMVViUHFSLVF0eVFuT2hsYzRVRkcwa3JzZ2lRYWRJdDNYTWhyVzRTNS10cHRWUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785020100.0,
         "tag": "Global",
         "first_seen": 1785043925.16822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONXJYOW91Zk9Lcll5alFHWmF6TDJ5cFdNbThmeGdXVktVR1pnX0UyVFlfX1JrNjlIQVVsZW5NSUhHUi1CdVV6NW9HUXNPMERmeFZYaUdlRndPYUd0UjVUeEhtemdDaDJfeUJwaHdQVW1rMGdIRE1KX21PNWV4YjIwQUtsQ2RNc21tMTZQSnY4SU52RTRtTFhrTQ?oc=5",
-        "headline": "The next Fed meeting will be a 'family feud' — and that's exactly what Chairman Kevin Warsh wants",
-        "summary": "",
-        "source": "Fortune",
-        "published": "07/26 07:38",
-        "published_ts": 1785019080.0,
-        "tag": "Fed",
-        "first_seen": 1785020516.4200695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX2ZhRjFOWlpuMFY3TUJkZVBua1hNeThtMXRaZ2ZVUGJidFZkUXREajZpbXMza0FHT0xJMDlvNXlROWtULWlnMjc3QjZoUVc5ZmR2RjVsVU1oeUR6UE5ldTdzYkFGTUlUbWNDWDRKZTZzcmNpTXJNVkc0cXB4ekhzVnJvTW5MSUN1N2ZiUWQwVkhEelA4bWlsbkZCdVFxMkhKWXF6eTB1aTNobDhfYVJKNG1rTTVmQQ?oc=5",
-        "headline": "German Police Hunt Suspect After Deadly Car Ramming Near Berlin Gay Pride",
-        "summary": "",
-        "source": "Barron's",
-        "published": "07/26 07:31",
-        "published_ts": 1785018660.0,
-        "tag": "Strategist",
-        "first_seen": 1785035816.169182
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 07:32:31",
+  "updated_at": "2026-07-27 07:45:48",
   "yields": [
     {
       "label": "3년",
