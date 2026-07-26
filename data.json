@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUWxodWxfTE55bXFDbjBtXy1ZOXFqcW9LR2VBRkNFSDZYNzVscHI2Y1d1TTlqQy00d2hCWlNJXzRQY2ppMW9SMDVqcXRIWW95UDdV?oc=5",
+        "headline": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/27 04:31",
+        "published_ts": 1785094260.0,
+        "tag": "Fed",
+        "first_seen": 1785095197.9656892
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
         "headline": "야르데니, 워시 연준 의장의 인플레이션 타깃은 무엇인가?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785013237.0,
         "tag": "JGB",
         "first_seen": 1785023178.6777582
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbHpFaDN2Y0hfVDhJWkJITGN4YnlxTzlzZktJcVk3LWhJSHo2cnBVTFUtMFRObGZLd1d3d21QcjJRVmk0U1M2LVhzRFU4Rkljd29jb2M4aFRCTXdOM0hlbEh4N0ROVGtWcWIweHpTMUhKVktRZThGVXVLUkt5YlBFaHRXZ0E4QQ?oc=5",
-        "headline": "The Bond Rout Is Bruising Would-Be Home Buyers—and Challenging the Fed",
-        "summary": "",
-        "source": "Barron's",
-        "published": "07/26 04:12",
-        "published_ts": 1785006720.0,
-        "tag": "Fed",
-        "first_seen": 1785085236.3106828
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 04:30:51",
+  "updated_at": "2026-07-27 04:47:01",
   "yields": [
     {
       "label": "3년",
