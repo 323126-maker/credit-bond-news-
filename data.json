@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQUs3dkp1cHJtYl9WN1hId2lwb3BCMDRQLXl3TFprVDY1RWxrTnZRVVZEb29SZC1OTE0tZnFSRlduRXMwTGtTV1RRU0hyZ1dJcUVFelZfVkRDRC1Gdm5pMkFXd09saWJEbjJ5UEFJdmhMUQ?oc=5",
+        "headline": "\"AI 투자 경쟁에 채권 부담 확대…네오클라우드 신용위험 주목\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/27 08:18",
+        "published_ts": 1785107887.0,
+        "tag": null,
+        "first_seen": 1785108631.1411657
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0FEWXIyYkwzMXg4c0ZlRmhxRFlIT0lwaFJBejBSZ21JQXZDM3V0OEVjSUFhdUF3RDJzd0RIMHA1c2Z5N3ZoZTF5Zmt4R1ZwV01SX2o4amZfRGZ5MXlLOEhMaDV5UWtLVG44cjZpOC1jR3NHRVdyQ3Vhek9jQTFsQWJUVnpHaXNJ?oc=5",
         "headline": "美 채권시장, 연준 금리 인상 경계감 고조",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784881985.0,
         "tag": null,
         "first_seen": 1785054632.4991355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBfNnpvLWtXX2puMThBZlJJb1gxVHJEQWpFY0hWaFR4V2kwRkNrRGR6RzVsRFNyNFZPWTA3R2FMbmp3TWdzMS1fMVJmWktmNU9ud1ZpSFRjVzlfTWhoRjBCZUlRQ21ud0E2WGtqSHM3S0LSAXRBVV95cUxQTFp0cWVJQnk2R1c0cllESFpVbjdSeVBvRFl2RWxtMVRVVnV5MWQ2Qmc4cERmNnBQMlBqbk1rQXptbFNUVkFVWjJVOHM4TVFDbEVBb2R5MUZRUFNHd0pLX19zR3dJYmZHTmhTRU9EemFYTFotWQ?oc=5",
-        "headline": "달러-원, 1,466.60원에 서울장 마감…5월 7일 이후 최저",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/24 17:32",
-        "published_ts": 1784881941.0,
-        "tag": null,
-        "first_seen": 1784913331.616723
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFdGWnI1blg1dmVhWklFS292b01ITU9qWVM0ODJiS2daNkV0c1hGelkzSjZqMFl1QTVIeE9JVi12X2xkUVFCSHVmckdmTVJ4dmpjWE1uSWJZbWpvbUJ0NC1rOVIxRHdSei1jQ1piNHRDN0U5MnpnQ2h4dkpKeWlCWktVYVlYSDA0?oc=5",
+        "headline": "日 엔화 163엔대 숨고르기… 美 이란 공습 중단에 유가·채권금리 하락",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/27 08:27",
+        "published_ts": 1785108438.0,
+        "tag": "JGB",
+        "first_seen": 1785108631.1411657
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOGZ6OVRXVV82UDhPSW9uWm5pZTExdWlqdU45N2NBSUpwU0VybHdqU1FIUEZodGpxcTMtTmdkVjJoZ3NMTHBPNjVaSHZTZkdjSHR1aV9kbUprMzNhMndObzRmbXg2cE9aVWs3Sldid0FORWU4SXdNZ0h2eTlhQVNmZXFfeEF5TzRkSmNhSnVZUEpZTlluQzZDZWRfY3AzS2VrS1dqR3haOA?oc=5",
         "headline": "El-Erian: Markets Face Defining Week as Fed Decision, Oil Prices, and AI Spending Converge",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "theconnectmoney.com",
         "published": "07/26 09:51",
         "published_ts": 1785027060.0,
-        "tag": "JGB",
-        "first_seen": 1785027718.4577887
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdmtRZmQ4VkFVTm03V2dTVmE2eUZDT0JjSXh5TmsxbW54TW9wWnpaVlFzYjFFZkZzWDZwdzU3MzJwcGh1S2dOYWhPYmJIdkN1ZjR5ZHhn?oc=5",
-        "headline": "주간 금시세(금값) 전망... 금가격 추세 결정지을 중대한 국면 돌입",
-        "summary": "",
-        "source": "위키트리",
-        "published": "07/26 09:43",
-        "published_ts": 1785026580.0,
         "tag": "JGB",
         "first_seen": 1785027718.4577887
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 08:15:49",
+  "updated_at": "2026-07-27 08:30:54",
   "yields": [
     {
       "label": "3년",
