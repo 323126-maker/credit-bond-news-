@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TOGhoZnl6MExBb3dCc3VvRDdiNDVuMDhnSTZPVE5LSEpfVS1ZR0p0cFd2RUs0MTJoNEZhc25TVEJHRVBBT2hsMUNPYnVYYm90dzFsTzAtNEwtU2oxSE1LVA?oc=5",
+        "headline": "[글로벌 증시 캘린더] \"FOMC에 MS·애플까지 다 모였다\"… 증시 운명 가를 '지옥의 슈퍼위크'",
+        "summary": "",
+        "source": "theconnectmoney.com",
+        "published": "07/26 09:51",
+        "published_ts": 1785027060.0,
+        "tag": "JGB",
+        "first_seen": 1785027718.4577887
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TdmtRZmQ4VkFVTm03V2dTVmE2eUZDT0JjSXh5TmsxbW54TW9wWnpaVlFzYjFFZkZzWDZwdzU3MzJwcGh1S2dOYWhPYmJIdkN1ZjR5ZHhn?oc=5",
+        "headline": "주간 금시세(금값) 전망... 금가격 추세 결정지을 중대한 국면 돌입",
+        "summary": "",
+        "source": "위키트리",
+        "published": "07/26 09:43",
+        "published_ts": 1785026580.0,
+        "tag": "JGB",
+        "first_seen": 1785027718.4577887
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVE00eGVSS3Rsdm5obWtrOHNEamhxVW1BVFFDZ3kwbUxFRmRCMDIzbk1UY05kNFdQeV9MTWU2OHVRMTJXejMzZy1FZ0ZLU2JFaXRteWNMdTRfbUkxSlpOdGVRVU5pNlNZbi1fX1dUYkp0aXpQSGdyLWE2UjFtdFBIVnd5RUVHT0d0XzZRX0xB?oc=5",
         "headline": "오늘(7월 26일) 미국 달러 환율: 미국 달러는 4주 연속 상승했습니다.",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1784934601.0,
         "tag": "JGB",
         "first_seen": 1784952926.9310184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTEI0Zm1KUFF0bkJHbWlLdVluQlRGbmRRZXFNZExzU2NXYUd0SUM4SEVSZGtXLW5uVWNJcE5PR00zZEd0T2U2U0xERzJsZkVmT2RDbUJhZVdyVmdiZTVRY2RRX2hvSlMxZURlbGJxTmFsSWxlMHZWcnduTkhwWHRRVFFETTAzVnZsTlBWR3pGYk11WlRiXzkwYlA0Zk10RkpuLUE?oc=5",
-        "headline": "Gold is Gradually Replacing Treasuries at the Heart of the Global Monetary System",
-        "summary": "",
-        "source": "GoldBroker.com",
-        "published": "07/25 07:11",
-        "published_ts": 1784931080.0,
-        "tag": "Global",
-        "first_seen": 1784931325.8583624
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSVZmYklwaHhvOHA3cjNpRExLaEVLZUkyS3QtaktUWU43QmhlMUNtc2p1WV9qTFRoVTdmRHBhR2VJdUlScmhELVdzclloN2MzZ0ZBNTR6M29GWFlfdkFOclc3M2JaMXVmTEVnTTEyd2dlbXZ1RE5zWmhuWFBNM0dxazVKRFgyTUFKLWJ0TV9pdlUzN2R3ZHYxenRDOWFWU0lSaXNmdUxHdlFuUQ?oc=5",
-        "headline": "New York Stocks End Mixed as Chip Selloff Offsets Oil Drop",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "07/25 06:38",
-        "published_ts": 1784929130.0,
-        "tag": "Global",
-        "first_seen": 1784930438.8792975
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 09:47:09",
+  "updated_at": "2026-07-26 10:02:22",
   "yields": [
     {
       "label": "3년",
