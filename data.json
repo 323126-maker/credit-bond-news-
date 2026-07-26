@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KZGhyekZNOXhJUzBZQnYwcVB5NW1lekpSR3hNa1BYOXVKQVpQaVRKVWJZd1FqQlh5bGJ6ckc1Z0FCYnVtNDVZU1RvcGZPaUNERkllS1pXbmg?oc=5",
+        "headline": "유가 100달러…연준·영란은행·일본은행, 금리 셈법 복잡해졌다",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "07/26 15:19",
+        "published_ts": 1785046740.0,
+        "tag": "JGB",
+        "first_seen": 1785047435.0203943
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5MTDY0enQzdVBuT2hXak14Q1ZZZ3pHZFVqTThyOXhKTlQ2cW8tYml1NUFQUFZCdGZLdjJtZW1PQ3JlZ19nTG9hdDhqMkpxaldmNmNNbnR4NTJ4TjBEaThzTmY2Rk5qYXhjemc?oc=5",
         "headline": "[주간환율전망] 중동 긴장 누른 달러 공급우위···FOMC 주목",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784964669.0,
         "tag": "Fed",
         "first_seen": 1784986229.42843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPajJTck5yTmY1ZldoRlE4N1dHR280TTVwd0xKZ0dQNUFRTnVJZjZFbnRBYThBNzU5Z216ejlxS3NfdGh4TEpMak90cHh3WmlEWkZZeHRyRkdOdlZMTlV1Yjg0cTBFQmFyWHhXRUJPTjNqazNFRC1iNzRPY29Vazd2TjFtdDM0RV9Ia01qd19JMA?oc=5",
-        "headline": "What can we tell from Fed chief's apparent U-turn on US interest rates?",
-        "summary": "",
-        "source": "The Herald",
-        "published": "07/25 15:22",
-        "published_ts": 1784960550.0,
-        "tag": "Fed",
-        "first_seen": 1784970222.3554032
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 15:17:12",
+  "updated_at": "2026-07-26 15:30:58",
   "yields": [
     {
       "label": "3년",
