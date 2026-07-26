@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN3JZeWp6MlRuY0h3U1ZiV3d1UFcyTlJBTEJSRFhtbU01THoxb3hjSXBMUC10ZmdXNV91Z2NvM3VZamtnZW5JNXdNVFdlT29q?oc=5",
+        "headline": "환율·채권시장, 유가·FOMC 촉각…원·달러 1400원대 중후반 전망",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "07/26 17:35",
+        "published_ts": 1785054911.0,
+        "tag": null,
+        "first_seen": 1785055525.0145352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iazRzbGhDME0wdWVwSWNLLXRJVkxtYWVvcHptenpoRXctMUE1MWdLeG5QWEc5X2FHOHNCRUl3a0JvamQ5UXN5N2ZLa3ByS1laR2RWT2kwOE14cHRYVUxmQ240UTR0N19Ic3U1U1ViYXFnd9IBckFVX3lxTE5iazRzbGhDME0wdWVwSWNLLXRJVkxtYWVvcHptenpoRXctMUE1MWdLeG5QWEc5X2FHOHNCRUl3a0JvamQ5UXN5N2ZLa3ByS1laR2RWT2kwOE14cHRYVUxmQ240UTR0N19Ic3U1U1ViYXFndw?oc=5",
         "headline": "한국증시, 주간 하락 '중동 리스크에 투심 축소'...이번주 외국인 순매수세 지속•원화 강세로 반등할까? [이완수의 한국금융시장 핫이슈]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784597805.0,
         "tag": null,
         "first_seen": 1784628927.820024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1jSWpzWTVMX0puUjdoSWV2VlpJY2k0eFU0M24xcGctc1M5SjY2OTRtWmhqQTNPem53X2RaZ0FydWhSM0V5ZTZxZjIxVENramRybEJn?oc=5",
-        "headline": "회사채시장 '개점휴업'…조달금리 급등에 기업들 일정 연기",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/21 10:34",
-        "published_ts": 1784597640.0,
-        "tag": null,
-        "first_seen": 1784604632.7701442
       }
     ],
     "politics": [
@@ -1700,6 +1700,16 @@
         "first_seen": 1785039422.3986232
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGbWpCWjVicS1QbS1MbHdwSXpIMjUtbEVwOUdzUVBYYnlTSHlSaWdvZTlqbVNZdXJQTXBkWmtwbmp3UWlzOFVpWURKS1FDR1JEcGhaSW84NDN3RG5uZ1dmbGtNdnplWjR0bDAtaXhTeGhyQQ?oc=5",
+        "headline": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/26 13:00",
+        "published_ts": 1785038400.0,
+        "tag": "JGB",
+        "first_seen": 1785055525.0145352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE41TE5qS3pGMDZHSnVuU1JvaE91dFZySFZ3MUNhRXBXaWs1YWEtd2tZZ1VOaTk3ZlJnc0c1UHVGSDFHZlFzRXFPZWE5ZlBpMlRJeHVVUnoteTk3UkFqdFBfajM3YnFDRlZNTWc?oc=5",
         "headline": "긴축 시작한 한국, 미·일 기준금리 향방은?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1784977200.0,
         "tag": "Fed",
         "first_seen": 1784979996.7300467
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JVjdBck9HODZRVEhzRkFXamZaVWRPckxMLWdoN3U4WDJjX1lTMjJ3c3ZsSXRFYjIzRlRXdXYwcjlVR2lkXzhpZnpac2U0czdZZmdGNXlOZURnOHpUTzlBeXdkTVRWSUZmUnlJMnFWQkU0Z1F2aEpVOElR?oc=5",
-        "headline": "Fed Chair Kevin Warsh Just Threw Cold Water on Investors Who Thought the Worst of Inflation Was Over",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/25 19:12",
-        "published_ts": 1784974329.0,
-        "tag": "Fed",
-        "first_seen": 1785022338.6749525
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 17:30:52",
+  "updated_at": "2026-07-26 17:45:47",
   "yields": [
     {
       "label": "3년",
