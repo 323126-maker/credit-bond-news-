@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYloyWHZIOWtTTGxpNy1yemtPMkRaOHBGakFCcEJ3UnhKa1ZNNE9acGlzYWp5bzBUa2RKdXdyclZmdHZ6NE9NblZGczlkaUZqVjFBaVdZM0pvMzFxZWswY2NuRzljVWk4bDVwQ1R6OEt2bFY3M1FtNVo1ZmE3aFBtVkhRQzVnbGFWaXd0bG4ycHhQVmZNTXdPdlJWU2ZVVFM4?oc=5",
+        "headline": "Blockbuster AI debt issuance: coming to a bond market near you",
+        "summary": "",
+        "source": "Livewire Markets",
+        "published": "07/27 05:00",
+        "published_ts": 1785096010.0,
+        "tag": "Global",
+        "first_seen": 1785096923.9916797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IUWxodWxfTE55bXFDbjBtXy1ZOXFqcW9LR2VBRkNFSDZYNzVscHI2Y1d1TTlqQy00d2hCWlNJXzRQY2ppMW9SMDVqcXRIWW95UDdV?oc=5",
         "headline": "투자자들, 유가 상승으로 美 연준 금리 인상에 베팅",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785016800.0,
         "tag": "JGB",
         "first_seen": 1785031235.3807712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WR182a3FnMjNETDdOZVVxRHUtaExPS1FoTWJkVk1jVHhTZ05Uc2VFZVdFMG03YWhtaEtJWk4zSFItU25mTEdETnZkci1MQm9pTVpBVW1IRFV1NTVqbS0wbNIBYEFVX3lxTE5WR182a3FnMjNETDdOZVVxRHUtaExPS1FoTWJkVk1jVHhTZ05Uc2VFZVdFMG03YWhtaEtJWk4zSFItU25mTEdETnZkci1MQm9pTVpBVW1IRFV1NTVqbS0wbA?oc=5",
-        "headline": "[마켓인사이트] 반등 시도하다 또 출렁…코스피 변동성 이어지나",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "07/26 06:00",
-        "published_ts": 1785013237.0,
-        "tag": "JGB",
-        "first_seen": 1785023178.6777582
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 05:02:37",
+  "updated_at": "2026-07-27 05:15:47",
   "yields": [
     {
       "label": "3년",
