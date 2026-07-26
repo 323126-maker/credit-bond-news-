@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFMFV6MjctWWhVY3dnYkdzREFiZlgzaHhaXzI2WFhMOGRxeXFzbWVGQ1Ftd2VNUXVjSy13ZXlidWpnSEg1T1llUWFJTkxOS2M2dkZKU3ljQU9KZ0dVOE82ZFgwT01JTXhmYl9iTlpqZzdxbzR1aUHSAWZBVV95cUxNbkZ1RlBGczZfR2NaVkh0b0lkME8tRlljVDNFRTBmOFhFMmRuS1pPbi0teEdtYk1CZzluSm4xWDZpZGIwOHpPZUNLM1Z6N3A5WW1XT2JSQWFoa1hvRGpweEI3c011WGc?oc=5",
+        "headline": "고금리에… 금융사 순익 13조 최대, 가계 연체율은 10년새 최악",
+        "summary": "",
+        "source": "동아일보",
+        "published": "07/27 00:30",
+        "published_ts": 1785079800.0,
+        "tag": null,
+        "first_seen": 1785080768.3312302
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbFNMcm5Nbmg3TDgwNlhQNTFNUy1ya2hCM1ZMM0VNaUVwRmEtSnR0T0FwT1RVVEt2bFBYeURCcTM4VFA3a3RmVmh4MUpvWW5E?oc=5",
         "headline": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784602783.0,
         "tag": null,
         "first_seen": 1784772038.048843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tUDBkRUJEcjVBOEdjcTlIVU12eXItYmljd1JDQmZwcTdYNzlVckVjaWllVlRIR01uRHdhckRmaWhCRWw1VnNrc25od0pXWWY2SWpOOEZzLTNzclF6TzVDbHRsejBRYjhqNXNQZV9GcE3SAXBBVV95cUxObVAwZEVCRHI1QThHY3E5SFVNdnlyLWJpY3dSQ0JmcHE3WDc5VXJFY2lpZVZUSEdNbkR3YXJEZmloQkVsNVZza3NuaHdKV1lmNklqTjhGcy0zc3JRek81Q2x0bHowUWI4ajVzUGVfRnBN?oc=5",
-        "headline": "[한국은행] 기준금리 오르자 예·적금 금리도 뛴다…은행권 ‘수신금리 인상 경쟁’ 확산할까?",
-        "summary": "",
-        "source": "내외뉴스통신",
-        "published": "07/21 11:10",
-        "published_ts": 1784599805.0,
-        "tag": null,
-        "first_seen": 1784603722.5815377
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 00:45:05",
+  "updated_at": "2026-07-27 00:46:31",
   "yields": [
     {
       "label": "3년",
