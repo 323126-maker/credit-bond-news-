@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZUzVkYTM1RGwwbTVNVktxay1RQVYwd0tXSXV5a05IYnpSdk9DRDU0NWRUNmJZN2lvTTdscG04YUxMQzhkNE1mTm9DUkFMbE5ibzdmWUVBM0xLX0FmSGRVY096NlUwelpZTWc?oc=5",
+        "headline": "야르데니, 워시 연준 의장의 인플레이션 타깃은 무엇인가?",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/27 02:57",
+        "published_ts": 1785088620.0,
+        "tag": "Fed",
+        "first_seen": 1785089722.4835122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE52OEVQN2pxWGZPN2h2ZnF2MjIxUUhDZllMcFdWa2Vsb01rcnZlTTJUc1pJMHJjWG16aDBqVHhmcFp2TzJzWWRFbld1MDVCVFM2UHBDS0NDaHo1cG80NThNRVdfWmRrWkNMM0d1NnVXWk5VRWE1dEd0dg?oc=5",
         "headline": "Japan's Economic Reckoning: Debt, Geopolitics, and the Limits of Monetary Power",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785082920.0,
         "tag": "JGB",
         "first_seen": 1785083431.6651425
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNXNaa2JNR1o1UnNwTlI0ZnFXcmFCM2VQbVR6dnVkNmlwc1llenJJbFR3akFlXzcteURheDZHcHRpZHpKS1F6SmFjUVNidWhYMVZZNHdHOVJWWC1tVXBueEl6RFdCV05Ca3JaVkpWMWd0M2VlemUyWUhJMDlCTmE4STRTeHFFbVdrNlQ2R1hmQWJTNkt0Y0dvZmk5OWR2NzJlN1dNOXh1dzFVUEJvYm9v?oc=5",
+        "headline": "Elon Musk Issues Dire Warning: U.S. Heading \"1000% Toward Bankruptcy\"",
+        "summary": "",
+        "source": "mibolsillo.co",
+        "published": "07/27 01:07",
+        "published_ts": 1785082020.0,
+        "tag": "Strategist",
+        "first_seen": 1785089722.4835122
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3RDVHdDbG9WMWV1OXFxMEcxS242cVl4S2FnVllTanNNTFR4RkZndng3U1BjNEN3YXd0bU80S0dwVEFDcU9HSVFHUTNvVXFGeFVrMHAtUVdOSWx4VXBOMlBvdzlKamptUmlIdmx5TzM2X29SengxR2dYWXJ0Zk9YdjFDZ2RkRFJsSkZBN3lhdFNUc0psWVl3Zw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785006720.0,
         "tag": "Fed",
         "first_seen": 1785085236.3106828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPanE5RVl0dzBQNzdjRVZCdTlVMWF2MGpNM1cyVDNzVWYteWFndXVSWGxRRU96SDVsME5EbEtGOHhocmJPVG1GQ3h5WGRmalFhMHNnaGJwcjFBZjNSa0dNa3JfOHEwUE5tSzVxamE3cHpSalByZmNHTmxNVU5NbHlDX0NqZk9QWEhDc0R6a1hVOEx6STh0SVptVGNZQU9FWW82SlJOWkZvd1pLeElmX3pkT3ItSjJqVWpPNU1fbC1TbEZNWkZGeklhQQ?oc=5",
-        "headline": "Borrowing Costs In Bond Market May Rise As 10-Yr Bond Yield Faces Upside Risks: Report",
-        "summary": "",
-        "source": "BW Businessworld",
-        "published": "07/26 03:00",
-        "published_ts": 1785002436.0,
-        "tag": "Global",
-        "first_seen": 1785010526.2811809
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9IeWRPZWlMNFc4ZHFtcm9qWmZtLWNNQWgwZGg4Q1JKX0NxZTZTUWlmalphSWp6UnlQUTkwekJiNkJaNDg4blI2c3hKZ0VQREFCSGFiV0FnTGJoUTFZUV9uTnBCdXRWYXk0YlFBVm5KOGo4ZHNCQ0FzS0hyVzVoY3M?oc=5",
-        "headline": "Fair Value, Saturday, July 25, 2026",
-        "summary": "",
-        "source": "Buttondown",
-        "published": "07/26 02:46",
-        "published_ts": 1785001597.0,
-        "tag": "Global",
-        "first_seen": 1785002509.0708158
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 03:02:21",
+  "updated_at": "2026-07-27 03:15:44",
   "yields": [
     {
       "label": "3년",
