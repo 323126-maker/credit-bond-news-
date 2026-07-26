@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM0FEWXIyYkwzMXg4c0ZlRmhxRFlIT0lwaFJBejBSZ21JQXZDM3V0OEVjSUFhdUF3RDJzd0RIMHA1c2Z5N3ZoZTF5Zmt4R1ZwV01SX2o4amZfRGZ5MXlLOEhMaDV5UWtLVG44cjZpOC1jR3NHRVdyQ3Vhek9jQTFsQWJUVnpHaXNJ?oc=5",
+        "headline": "美 채권시장, 연준 금리 인상 경계감 고조",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/27 07:07",
+        "published_ts": 1785103635.0,
+        "tag": null,
+        "first_seen": 1785105129.6123135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9HQWlITWRpTnlxVWZGTjY0TXRlRndGeFZhRDhjNmUtdXc0aHBiRDkyaHdsb2FhOWdCTmdIY1NJS3VNUXpzVkdybWxtd3h0NV9hM2dvSXV5bGswUHRLcnFpaXZVTlpoVmhmSkcwZkJR?oc=5",
         "headline": "[마켓파워] 롯데케미칼, 유동성 우려에 지급보증 사채로 급한 불 꺼",
         "summary": "",
@@ -110,6 +120,16 @@
         "published_ts": 1785030809.0,
         "tag": null,
         "first_seen": 1785031235.3807712
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE05WU40aENtSmRPdHNyalRwLWFESlBaN2x6VjR4aFpnUk5vR1BjQVhPQ1ozZ0JxSmhxeTdBQWpFMGxYb01XUEFxWTVObERwUFJGaDI1cW5wN2p0SHZ4LWU1SGE1UHBHWEdTdkN4aXFXUXdlSUs0dE5QQdIBeEFVX3lxTE05WU40aENtSmRPdHNyalRwLWFESlBaN2x6VjR4aFpnUk5vR1BjQVhPQ1ozZ0JxSmhxeTdBQWpFMGxYb01XUEFxWTVObERwUFJGaDI1cW5wN2p0SHZ4LWU1SGE1UHBHWEdTdkN4aXFXUXdlSUs0dE5QQQ?oc=5",
+        "headline": "규제 강화 전 물타기?…삼전·닉스 2배 손절했던 개미들, 다시 폭풍매수",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/26 10:32",
+        "published_ts": 1785029544.0,
+        "tag": null,
+        "first_seen": 1785105129.6123135
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9RdmFYeWVfa0c0b1hhN0JjYW44c281cHJYSkd0Z2NudzUxSHB6d2dPd05scXk1SGZFbDZuR1BLUFZXd216dkFMZWRnNXVTVDNtelV3MFRHQdIBXEFVX3lxTE91SDE3d0w1NUNMWlJmYTZiQ3JCX0lrbWtmVEFzOEdjc24xSGxCR0V4WkQ1Q092YnZ1Z2QzTnhaWmpYa05ZVzVwZWZUcEwwR1FjSDNjRzVuT3o1cEpi?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1784881941.0,
         "tag": null,
         "first_seen": 1784913331.616723
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9KSUlBT2ZuZDdNSmVHNnBPcXRuaWsyb19fTFdCakRDRkJ6MUNsMTgwaGQ0eG9TLUFxT3Fsd1gycHpJYWNELUdER2s0cXljaW5PTXl0ZA?oc=5",
-        "headline": "[채권마감] 3년 금리 4% 코앞 ‘연중 최고’..유가 100달러 충격",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/24 17:17",
-        "published_ts": 1784881020.0,
-        "tag": null,
-        "first_seen": 1784881831.028633
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5jcllMSF94eFlxY1JvVTM1UEtSdHBZRVdXb0YxMzFLNzZTR3d6ZTBrRk1IUUw2cTMzZ05UOVpvM0E3bFg3THVKbFNWWHJMTEF4WExJaGV2MG10dXpkUWFCeHFwNmpPRUVxMTZUX3hn?oc=5",
-        "headline": "레버리지 증거금 쫓기는 증권사…고금리 회사채 발행 급증",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "07/24 17:01",
-        "published_ts": 1784880066.0,
-        "tag": null,
-        "first_seen": 1784886326.6560476
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 07:15:44",
+  "updated_at": "2026-07-27 07:32:31",
   "yields": [
     {
       "label": "3년",
