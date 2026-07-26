@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbFNMcm5Nbmg3TDgwNlhQNTFNUy1ya2hCM1ZMM0VNaUVwRmEtSnR0T0FwT1RVVEt2bFBYeURCcTM4VFA3a3RmVmh4MUpvWW5E?oc=5",
+        "headline": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "07/26 18:09",
+        "published_ts": 1785056963.0,
+        "tag": null,
+        "first_seen": 1785078107.3896804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN3JZeWp6MlRuY0h3U1ZiV3d1UFcyTlJBTEJSRFhtbU01THoxb3hjSXBMUC10ZmdXNV91Z2NvM3VZamtnZW5JNXdNVFdlT29q?oc=5",
         "headline": "환율·채권시장, 유가·FOMC 촉각…원·달러 1400원대 중후반 전망",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784599805.0,
         "tag": null,
         "first_seen": 1784603722.5815377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE40Y0JRNVVSMTdrTldROXdRb3AyQ3oxSDBfY0cyZjV6X2ZGWVp3THZaMVRBbXhJb0ZIN0hSbUNRWEo2SVdWZ0Z4R0o5Sm5SV0xuUllhY1NJdzBtVWE5UjViWG1ZQWpDek5MNlE?oc=5",
-        "headline": "기준금리 오르자 대출금리도 들썩…주담대 7.49%",
-        "summary": "",
-        "source": "중기이코노미",
-        "published": "07/21 10:36",
-        "published_ts": 1784597805.0,
-        "tag": null,
-        "first_seen": 1784628927.820024
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-26 23:45:49",
+  "updated_at": "2026-07-27 00:02:07",
   "yields": [
     {
       "label": "3년",
