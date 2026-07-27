@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xQXg1TnB1cjJObmZWOTVWc2RGRzdPVHZFVWIzQ0ZpQy1mSDduei1ZZlNURjhZelNaY2M1MnJmM21Hd01WU3pUVFNUYVRvQjg2c0hKVTRab2xtNVRRcUVzTDdpdWxWaVVDQ2dZenFpWVQ?oc=5",
+        "headline": "국채선물, 美 국채 강세 제한 속 하락…10년물 9틱↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/28 08:07",
+        "published_ts": 1785193666.0,
+        "tag": null,
+        "first_seen": 1785195031.1414468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEQ4S0I0TUZmS0FhWDhvdlRfQ2ZPT09USGVfbVRVdVRLZzZRWW1scG9oSUFUbVR3SWRrMkJOWEZudkc3dmIwNlRfdEFYeU5xZmVRNWtoSGQ4LUpnVWpKdzQwYy1BM0ZWNzNyZjNsSUE1UFB3eEt5YnNCLVhCTlNvYWxmOWdnZTlH?oc=5",
         "headline": "AI 투자 폭주에 빅테크 채권시장 신용위험 급등",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785110760.0,
         "tag": null,
         "first_seen": 1785111326.8727047
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0MGpzVXJrOFJ1NW5BSjZmcEVsaFVTaVU3NDZOS05ZZFk1UUZ2ZjBoVFA0cC1WNkpLMDBKZ3BKYl9QRUFLcW1pUjUxaDc2TkVnM09oT2tnM2ZmUU83UF9NRUluejk0MXBVRXVZd1ZQaUVFZw?oc=5",
-        "headline": "[크레디트, 금통위 그 후] 선별 매수와 고점 베팅 사이…8월 살피는 회사채",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/27 08:49",
-        "published_ts": 1785109753.0,
-        "tag": null,
-        "first_seen": 1785116823.7871404
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 08:15:59",
+  "updated_at": "2026-07-28 08:30:56",
   "yields": [
     {
       "label": "3년",
