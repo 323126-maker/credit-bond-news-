@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE53WFRQeTBBQ0xVcXlYTEdaM0ZqODJMajF6b3FUZEUwOEpBWjUxUFBNY3VaWGs1WTZBLXZkZUpvNENXcnc1Nngwek55Rjc2WU1xcHNB?oc=5",
+        "headline": "트럼프, FOMC 하루 앞두고 금리 인하 압박…\"세계 최저 금리 가져야\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/28 06:25",
+        "published_ts": 1785187500.0,
+        "tag": "Fed",
+        "first_seen": 1785189637.8718126
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BZTR2UXRQTEVtQ3ZScjFjSXRQWFZ0YTVGeXVjTTdZR1dBV3BYWERGLUNYOUJ0cUM3V0cyTlRZM2VZdjVnUnpIWFE4eFpYVEV6R0V3c3dQTWd2VzFPSUxVMU5EczFBcHcwNUJxTmpFbmJMNlBkeGtsZ2dyb0g5QQ?oc=5",
         "headline": "Oil Prices Plunge as Stocks and Bonds Hold Steady Amid Fed Uncertainty",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785155434.0,
         "tag": "Global",
         "first_seen": 1785157296.1856213
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbjIyN2otTTBKaFBITjcyeS1PR0R2REtHS2FieWVkSlN6Rk5yZ2V5dkgzUF9iNTZFM3JhYXM2a2IxZ1VqUlVhandzbnFkNXFKOHJnLXMzSm5oYjNldThoSEZyTktwcmJRMmQxeFZyS25RdUxYcE5FTzBDTjRwanA5WGIxNWUyam9qSDM4cVRHQ2M1anJpYjVaZnhLSVRQQmw2Z0V3aHF5VXB6ODVpZnc2dkJabw?oc=5",
-        "headline": "Fed Rate: Expectations Pressure Crypto as Bitcoin Risks Breaking Below $64,000",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "07/27 21:17",
-        "published_ts": 1785154673.0,
-        "tag": "Fed",
-        "first_seen": 1785168042.5856297
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 06:45:56",
+  "updated_at": "2026-07-28 07:00:57",
   "yields": [
     {
       "label": "3년",
