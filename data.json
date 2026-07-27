@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUJsZVh5OWZyVEg3MVdORjBIdkJHc3ZmNEpaZElvWFNQWXpHVUtQTXJvaS00dnBaSEhhVnZQSXlBY3lzYU1XYzlpV1hoOFB2enhHSFlVZUxQNDJMbS1LejFCUG55MkZXek9FTDlmZGR0dUVLcnFhc3NqTG1JQkdwN283cC1LNDdRZnYyWFV0RTF3UVBpZEFfZWNTb0drNVRTNU1pUWljT3ByRWhheFE?oc=5",
+        "headline": "Azimut Fund Manager Bets on Japanese Bonds as Yields Surge",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "07/28 04:18",
+        "published_ts": 1785179936.0,
+        "tag": "JGB",
+        "first_seen": 1785180632.6929662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQalM3Z2xhY2w1bGlxYU9zekIxRjZRTXBFMW4zY2x4UU1DQmMyN2JhMDhtSnFHRG5tUTRSMGdRZnFodndjRk1hUXNDQmV6UGtxT2N6MEE4Wlp3eTY0VzNPcVQyTElWMk0yS20zTDhrYlctYWl5Y3Y3MlRlVF91V1JaTUYwYzZSMmhPVzIxNUIwUTNyR2Vfb2E2MEhNUzRPd0NGT3fSAacBQVVfeXFMUFUxZGVhS2tSQlBKbGZscEZOVUlHWUtCMFd1S20wNFdmSFF1Y2xyNEItaXRPNnpFZkZUNnlNdnVDcXZtUmFJUkN6cGIydXY5bHE3YTBITDNzdllEajNwa3BNOUdPQl9INUdBYzBnWTRRbXo1T0pzMVVUcmF2M0xrci10bGt6Y254VEY4QndkbG9QRE4zUm1jdUJuU05TSkJsLXBnSVpoVnM?oc=5",
         "headline": "From 'oil' to 'shock', here's what Kalshi traders expect Fed Chair Kevin Warsh will say this week",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785151582.0,
         "tag": "Global",
         "first_seen": 1785169840.9317155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTE1lMlRIT0liQmhkcjRrLXM2S2JYXzVjbUFrcjE5S25TTGM3bDlKUWdiVEhpbURmakExYl81OGRQMzdfOGplRUdnOVZDcjItOHZISTBrcFdWN3JtY3Q2cGZCUi1lb09lUDM0eWlpbVkweUxzMmR2all2ZUtvWl9SN25BVXZNZnlqdlNYMtIBkgFBVV95cUxOZDNhdmVOSUEya242NldMZVlaTi1LbWhlVF9GamVJcDdoZFgtRjBHazlhRFI3MVZOdkJXU2J5bGhCcXVFUW5Vd2dzaGNZZkl2eVdwTW8wN284aGVSV1VEc1J5eFJ6cnNpWEtpQXdKMWVQSjNJQ3RyY2k2SUtvRUp0VVhxMUZRaUx4U1lwWFdueGExdw?oc=5",
-        "headline": "T-bill rates slide ahead of July inflation data",
-        "summary": "",
-        "source": "Inquirer.net",
-        "published": "07/27 20:16",
-        "published_ts": 1785150960.0,
-        "tag": "Strategist",
-        "first_seen": 1785151831.2179937
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 04:15:52",
+  "updated_at": "2026-07-28 04:30:53",
   "yields": [
     {
       "label": "3년",
