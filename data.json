@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fLUJYNGxtV2JsMndJcFBVYzJyTWRYaHZDQ0JZN1pDTEVaNXFnWWRxQkZ2aEtxUF9Sd3U1eTdadTVWd0Vrb2JzRmZHcnJGOVd3eG1xLWtjaVVKRTlkT1oxT0RjZUo2MEJKT2VKa3B1WGI3dw?oc=5",
+        "headline": "회사채 금리 2년 8개월 만에 최고…우량채만 ‘뭉칫돈’",
+        "summary": "",
+        "source": "마켓인",
+        "published": "07/27 20:44",
+        "published_ts": 1785152662.0,
+        "tag": null,
+        "first_seen": 1785153645.131983
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5QmFtMEVlN2Q4ZTNmVXNVaUd6MlRCVWZ0U25naVFEb3VVcWtuLVd3djJzXzJ3aDFuS2tlZ2tQQ3VfMmZfeDB4N1lyQXRaakZXTWlIaGJxQmtzdkJZMXhVRzQ5QktSbW0yczg0VzkxN3ZfaVhz?oc=5",
         "headline": "BMO, 로버트 하프 주식 등급 상향 조정... 회복 전망 기대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785056832.0,
         "tag": null,
         "first_seen": 1785104125.3435338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN3JZeWp6MlRuY0h3U1ZiV3d1UFcyTlJBTEJSRFhtbU01THoxb3hjSXBMUC10ZmdXNV91Z2NvM3VZamtnZW5JNXdNVFdlT29q?oc=5",
-        "headline": "환율·채권시장, 유가·FOMC 촉각…원·달러 1400원대 중후반 전망",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "07/26 17:35",
-        "published_ts": 1785054911.0,
-        "tag": null,
-        "first_seen": 1785101429.228292
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamJEb2VtcmJFNU45LWZRWnk1R1RUNkRPYnlFUE01ME5KZ2x0THhiNkkzRVRLUnpYc3JnZ05wN3F1bTJfd0R6UWN4elhCV09TS1hrUVFmWmFKcEY4T0N2UEgwSlZFMzFDVEwyWmc3WFpKdEpDRmsxOC1nUGJhZDc3aktDcGNJRW9QTXdMYzlBUkI0bVBmRjdObEVoVWp5cEJNOURIODJZSnVkRGxvT0h0Z3VuNUliSVQw0gG-AUFVX3lxTE9WTVBHb0pUbWQtcDgzczFtVS1mR0pnRGFMM1VfUU0xVE82c2hiUjZKVXBDQ0lyMDlrNTVsd0Z0eVlFTlkyRjM1eDZ0eU5FUVhRWG54THNLOVpaLVd1UndMM0N3eEtKbERHLW5rbU1ESFNoRDYwZWMtbktoZk81a1pNR042TTh4YjBWZnlHQ3dkaWFnYnFJQTc0VWZmb2pPWWo3UzRVR3B3eDA0WG9IWEtqWGdQNk9IM19YY2Ezd0E?oc=5",
+        "headline": "DSEX snaps three-week gaining streak as foreign, institutional investors lead sell-off",
+        "summary": "",
+        "source": "The Business Standard",
+        "published": "07/27 20:47",
+        "published_ts": 1785152862.0,
+        "tag": "Global",
+        "first_seen": 1785153645.131983
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMzh0cDRKVVI5S0x6WF9SVzRfNlFFcjlVamQ5OEpTLWZqQTBTZHY4Vl9DbVpEVnRxb1otU3V3U2NaNlgzUW5OWmxsMGJOUDRoQXRDVUE4Q0c0TnlRMG40NzI1a2ZPVE00MlprZkdPMmZKMWU5Y0RKVnpuRlRTV1FpZXU0a0lPbmdJNHZQaTVXOEZtdlBZT2dmTmt0LVplamtCYTVIYVJITF9DSGJ5dmJNcldhX0FwMzluMGZwNC14N3BqRmVkck9EUTljaS1aYzR5UXNwNkdSQ01GUVdsVklGVkpPZ2dIR1k?oc=5",
+        "headline": "CBN’s liquidity squeeze leaves banking system with N2.6tn cash inflows",
+        "summary": "",
+        "source": "Business News Nigeria",
+        "published": "07/27 20:46",
+        "published_ts": 1785152782.0,
+        "tag": "Global",
+        "first_seen": 1785153645.131983
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNTE1lMlRIT0liQmhkcjRrLXM2S2JYXzVjbUFrcjE5S25TTGM3bDlKUWdiVEhpbURmakExYl81OGRQMzdfOGplRUdnOVZDcjItOHZISTBrcFdWN3JtY3Q2cGZCUi1lb09lUDM0eWlpbVkweUxzMmR2all2ZUtvWl9SN25BVXZNZnlqdlNYMtIBkgFBVV95cUxOZDNhdmVOSUEya242NldMZVlaTi1LbWhlVF9GamVJcDdoZFgtRjBHazlhRFI3MVZOdkJXU2J5bGhCcXVFUW5Vd2dzaGNZZkl2eVdwTW8wN284aGVSV1VEc1J5eFJ6cnNpWEtpQXdKMWVQSjNJQ3RyY2k2SUtvRUp0VVhxMUZRaUx4U1lwWFdueGExdw?oc=5",
         "headline": "T-bill rates slide ahead of July inflation data",
         "summary": "",
@@ -1648,6 +1668,16 @@
         "published_ts": 1785147308.0,
         "tag": "Fed",
         "first_seen": 1785150044.0601523
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ySmxuUWt4X0laZUU3Qkk5bXVEbGZZVWowMXhQMXNQRWcyTmRrSThuUXBZMGk4YmxzbmctQm1idDF1Q2pWNHU4MExGX3Y1R2VUdkpfNWdGRXhkOE50RHUyd1hrX3Z1TUwyemMyb2VhR1cxQQ?oc=5",
+        "headline": "What to Expect from the July Fed Meeting",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "07/27 19:14",
+        "published_ts": 1785147266.0,
+        "tag": "Fed",
+        "first_seen": 1785153645.131983
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXA5TEtnWUV2QTZYWUdyYkRFSVE0b3ExWUJhVklWeXBLa29ON05BZHBGRGg1alhaTHdwQjJ2YklZa3BPWFZLZTlLNjlNNnlNcW9KUFFlRlRtMEEyWjBQU1RWc2VFSHViLS01V3lqZHRxTG1UbG1yT2Vwd09Zb2VrTTR4Z0E1Mnp1QXdjTUNEREtyQUNTck5yS3Nn?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785129960.0,
         "tag": "JGB",
         "first_seen": 1785130319.4124506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mQVNLZERsOEk1UFFEbjdJVjYxaVllV0paaVppcHZIWHJZa3F1V2RTUERQR2pXLUdjemxqSUZjZFJwRGZ6Y2pZRm1CS1dRSE1RU0wzekZQcjBMcTZfbVdjN0lXQTEzb1lqWng2RkVQZ3E?oc=5",
-        "headline": "The sting in the tail of Japan’s lost decades",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/27 14:00",
-        "published_ts": 1785128405.0,
-        "tag": "JGB",
-        "first_seen": 1785129404.0174382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNUVKV0VoNUtCZmpUR3hvT284bU9Vb3ZSeUVSR2VzdFBsMmVyZVliWE1veHNtTkNfVWlZZy1WTVpFVllpVlN1LWV5SUpIbHZvNDgwWXhSRmxpSllndnlEcUdxMXNmRV82NUVsMzV3MjE?oc=5",
-        "headline": "'슈퍼 엔저'의 귀환…韓 산업이 읽어야 할 신호와 전략은",
-        "summary": "",
-        "source": "오피니언뉴스",
-        "published": "07/27 13:50",
-        "published_ts": 1785127847.0,
-        "tag": "JGB",
-        "first_seen": 1785137432.8370583
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmFENTJiNFBjOVVlMWZXRzVlWFQ4YlVYUnNZMnpUVDNGUjRoQkFXaGl2UGhqQlJCNHo1blJGUjktU01QcGtsVWdlVy1mM3p0X1NtdGY1NXpEMzVmSVZpWGMxangweFR6bGRucVRDOWpPdHZzSGRySFIwelJuOS1oOXR5dmU5N1ZhRWNDdV9uaw?oc=5",
-        "headline": "BlackRock’s Stephen Gough: Fixed income is in a ‘golden age’",
-        "summary": "",
-        "source": "Fund Selector Asia",
-        "published": "07/27 13:40",
-        "published_ts": 1785127212.0,
-        "tag": "Global",
-        "first_seen": 1785149122.1648543
       }
     ],
     "watchlist": [
@@ -2080,6 +2080,16 @@
         "published_ts": 1785131861.0,
         "tag": "삼성카드",
         "first_seen": 1785133831.735047
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5jUTd1X2ktRFFtUC0zZlZhRlRGMGRUNUlXdXcwSGFIcjdrdUNOYllQbDJXbGl6eVY0XzZxdTJrbXZ6ZklRVTZLMHU0ZmFIT0RRbDJQa0QwazBRb3BjTlpWa3g0TGdwZkVo?oc=5",
+        "headline": "우리은행, 2분기 순익 전분기比 59%↑...수수료이익 '껑충'",
+        "summary": "",
+        "source": "녹색경제신문",
+        "published": "07/27 14:53",
+        "published_ts": 1785131638.0,
+        "tag": "우리지주",
+        "first_seen": 1785153645.131983
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiMDh5VGY3VzNkNGRrdDdaRFpGbFFOTkNUR1FVYnRIazNyRzI2bFphUGtHYmlNWDdxUFJuRXdJM0YzdE5pTFVSdVByUWVPMGUzWC1Rcl9NbFpkNTBuRjQ0UNIBeEFVX3lxTFBybk5DS3pDU3d2dk1ZUnUxS0NTUWFjcmFONDFfR2hEQUV3MzRZODhNTUNBNGFPYnZ3U3ZOUXQtY3QzWGM5RTIyRnA2YkozUFpoTXQ0OUt6eGJjUjNsRzJBSkV6Wm1fdDh3V2JUMmJFal9WZE5mVjMzTQ?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784871856.0,
         "tag": "우리지주",
         "first_seen": 1784879126.785605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pVzlwM2Vmb0lhX2NyWS1rTTFFRlAzM0hoMXJUNVJqY1h5QndsMC1NQ1VTRUh1MUJsak5rYU9xbzJrbGxLTXNfbHRKUDJqREZSR2dWQVZzR0VjLUVnSXh6NHp6RHJsODc2U09fRXEtM2Y2blpMRnlQVmNTONIBgAFBVV95cUxOMVhDeXE3amZCd2psOVdzX19fTXQ1VUlpOEptZlhGcWV1ZE1FVEkxSWRkbmg1alRCUzQtQXZRZmQwektqSWYtMkMyM2N5TmN3S2lFTlZiSHdZamtVQ1MtOW4tbDhTSDdxNTRBMTdfaHBNRHF3V3hRNlZOZ0J4VHp0cQ?oc=5",
-        "headline": "당국 인센티브에도 카드사 중금리 '뒷걸음' … 조달 부담 적은 삼성카드만 늘었다",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "07/24 13:52",
-        "published_ts": 1784868742.0,
-        "tag": "삼성카드",
-        "first_seen": 1784870126.6469378
       }
     ]
   },
-  "updated_at": "2026-07-27 20:53:07",
+  "updated_at": "2026-07-27 21:01:06",
   "yields": [
     {
       "label": "3년",
