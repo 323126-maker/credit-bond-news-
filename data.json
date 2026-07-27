@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5peUZ0QVc0N2xYNlZ6SkJJVTE1R1ZjN202LXgyS2E2SUVLZm1VOGlhZkluZG1FeVdmTUdnU2QtRVdHWjAzUVhUWFZDV0pMWkxtSkZ0VnVfN1NCUVVNOHVYNlM1bHZHQmJrcV9TOWxn?oc=5",
+        "headline": "What would a rate hike signal about the new Fed chief's MO?",
+        "summary": "",
+        "source": "Axios",
+        "published": "07/28 01:00",
+        "published_ts": 1785168041.0,
+        "tag": "Fed",
+        "first_seen": 1785168926.4939158
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZktodVJha0hGU21NdTJzSXBHandrc053YWpGNGxaejgyQXd5R0V5QkJ5eERVWkRLNi1oZUJubXNnMnhTMEN1SG9uaVZaTnQzZE5mdWN4UlNkdklfUkxnTG1RSFlJZzFjQS1aU19PY1Y5MmszMFFRYlE2eWh4RUNEQ0htcnhoaVU0?oc=5",
+        "headline": "중동긴장 완화·유가 급락에 글로벌 국채금리 하락",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/28 01:00",
+        "published_ts": 1785168000.0,
+        "tag": "JGB",
+        "first_seen": 1785168926.4939158
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBXeEVNNE91Y3Zod0ZYUVBXc29IeGZsU0FtTW56NWFRaE9yU0JoSW5DUXFFTHFUYlhWNmFqWkZHVVNhalBmR1Z2ZUNzanhEenRaTWdfMDJJcG1BeTlBSXUwVUVzYy1KaXk1ZnRqcTlR?oc=5",
         "headline": "Global Bond Yields Hit Highest Level Since 2008 as Fed Decision Looms",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785144949.0,
         "tag": "Strategist",
         "first_seen": 1785146442.139534
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbnF5NDZ3bHNQTThQeGRFS0lRMWRyY1I4MkpiczJjeUl2Y3haUnEyZDNBd0VQemZSZ0hzclFOVDBIaEE5ZFRLWnRhVHB5YnhWbEVSQVgtM1RHd1BJRG9GV2sxcDl6U2F2a2RqeW4wbnpTZGh2VlRpWktYU09ldG1GUmRTR1dMQlNOdlphLXdVc1lGT2NvWmRYTG1wcHFCdGdyUkZz?oc=5",
-        "headline": "Week Ahead: Gold Faces Fed Test as Dollar and Yields Shift",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "07/27 18:35",
-        "published_ts": 1785144918.0,
-        "tag": "Fed",
-        "first_seen": 1785149122.1648543
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaa1NlMzN3WG9NOEd0U0F2aW90cWFZdjZWMEFoMFE1NWxQNVRONlZITGRpbUVjZnc3VFNmTHZFdTRQTXExbHVmcHZMbGt1eU1janlqRW9pNURvdw?oc=5",
-        "headline": "The Guarantee Switzerland Never Had to Cash",
-        "summary": "",
-        "source": "economy.ac",
-        "published": "07/27 18:28",
-        "published_ts": 1785144509.0,
-        "tag": "Global",
-        "first_seen": 1785145522.4917517
       }
     ],
     "watchlist": [
@@ -2080,6 +2080,16 @@
         "published_ts": 1785133380.0,
         "tag": "삼성카드",
         "first_seen": 1785141032.68209
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DbWF1aU1tMGRhYmpLc3ZaSlBWMktjT3lFUVA2c2dBTV9oZVNBb2dSSWU0WlpfY0hqMURXZ0tRUTc2eWVoY2cxdUtxVnVvNE9KMkQ3NU91c0FxYnFOS3BjcmNjWUdvd3UxODY4NV93?oc=5",
+        "headline": "금융위, 소상공인 신용평가 은행권 확대…16개 은행 2.2조 적용",
+        "summary": "",
+        "source": "뉴스후플러스",
+        "published": "07/27 15:01",
+        "published_ts": 1785132069.0,
+        "tag": "수협은행",
+        "first_seen": 1785168926.4939158
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0c2pqMGZLN2xJTjVpd2tzU2Jfb1A4ODFuNDdyQzdwQU5iVndSUmVGX2l5b3l5ek9jOWJpNFdOWURwREhPdnR4Y2E5NE1TSjhfd3MxeUdDeUVuLVMyOE5DeDI3QjYwZk5TYldDN2NiTlRWV0tG?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784876460.0,
         "tag": "우리지주",
         "first_seen": 1785118525.8206697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CWEJiR0N6dXN2THRkVkdFWE1lOWxlVFFNTGZOdkMwemFpREIwZ0p1aGJabEZmckxXRmxwcGFhZ2w5ZV9BQnBPN0F4US1CeERpRlA0WVEyY0hHRVlVb2V6eWJoOA?oc=5",
-        "headline": "동양생명 주총 문턱 넘었다…우리금융 100% 자회사 눈앞",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "07/24 14:45",
-        "published_ts": 1784871929.0,
-        "tag": "우리지주",
-        "first_seen": 1784873724.2509406
       }
     ]
   },
-  "updated_at": "2026-07-28 01:01:06",
+  "updated_at": "2026-07-28 01:15:50",
   "yields": [
     {
       "label": "3년",
