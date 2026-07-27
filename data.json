@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMVB1QTVaU0NKSmFrdnBkOTZxS1ZQLXI4dk5kU3dKMGR0em5iREdXVTVnU2xRSzdZR2tFc2lhWTVLNjhwS3hXTGtia3phbEM0emx3VmVjZHhPOG9jMHptcEgwcmh6S1NoUFZ2aElvdVJnNTB5RkRNckdoc1pGYlBPa3daTE13SkJNOUhpUG9UMkhVUzAyUjdHdEtBb2hpSVcxRndpV2tfeVBxMVRBYjJaemFtZFlOLVRNTEtXd0FTTVk1Wm9XVUHSAc4BQVVfeXFMTkxPc2pZQUFRQ0NBdlJoQl9iZmZBWmRXZGpwN0ltVEYydm16dmRkczY1Y1RaRkdnOUlJUVNxSTVsa3NzSmpya0N0NjRqTUlxZFpDZ3NlWEdGYlhfV25HZEVHOGhtYURlSnZ0WWVuUncwaVl1SEpzVl9iR1dJc0Qtc3lLUjFGU19zUWE1NzZlZG1nd1I0VC00M3BqcUplWnFCT1pjRHNyWkQ0UC1Cc19Ed0FZWTFTaElnNGcxVlVXU1g0emN6bVhLZndiSVB1dUE?oc=5",
+        "headline": "US Fed Prepping For Rate Hike This Week? What Bond Market Activity Suggests",
+        "summary": "",
+        "source": "NDTV Profit",
+        "published": "07/28 02:25",
+        "published_ts": 1785173113.0,
+        "tag": "Fed",
+        "first_seen": 1785174327.6312492
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YaXdnS0FFVlloNC1BLV9qNjJ0Qy00WmR2RkVBaGMtT3Y2SnZJSVVnLTI2ekx6ZTZGVENOcjA0NEJjTklmOHp1RTBlNl9ZMFpQNW1kVnp6MUtxVFBNZzdRWg?oc=5",
         "headline": "트럼프 \"이란과 좋은 대화 중…무슨 일이든 일어날 것\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785147244.0,
         "tag": "Global",
         "first_seen": 1785171638.5315733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMDJvTHdDN0RHXzlrTzJDTDVuSHpENWp2dGNMMGtOOHFOV3BjNDRrXzRaYkQ0M1BzMFBYczc1dWtpWF9JZ1gweGJ0MTNwcmpkaUN5N01mTUkwZ3J6Q2w3d254LTg5RGhYUTVxajdTMWFhZEl4LTFEdEJfVHRPWVZGOUItdHVrMjRqOE9fajZFT0h6b3JYSlk5aGVLdVVCaDg?oc=5",
-        "headline": "The Federal Reserve is expected to hold rates steady, and insufficient policy guidance could trigger volatility in U.S. Treasury yields.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "07/27 19:12",
-        "published_ts": 1785147178.0,
-        "tag": "Fed",
-        "first_seen": 1785155919.4648707
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 02:30:59",
+  "updated_at": "2026-07-28 02:45:50",
   "yields": [
     {
       "label": "3년",
