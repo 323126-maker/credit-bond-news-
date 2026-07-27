@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pM0pGWjF0M0R5VTcwVVBad2dWeFpITmF1WWdKRXFCZkY4cU40ZzI2S0pKb2pJNEF0ekNETXZHbVNtOTNGYzdjLXBUN290SGJmdFZxRm4xdjBNRWFCaEcxNkp5Wkt6Q21VSERZ?oc=5",
+        "headline": "하나에프앤아이, 올해 두 번째 공모채 노크…조달구조 재편",
+        "summary": "",
+        "source": "numbers.co.kr",
+        "published": "07/27 08:46",
+        "published_ts": 1785109576.0,
+        "tag": null,
+        "first_seen": 1785110440.758026
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oQUs3dkp1cHJtYl9WN1hId2lwb3BCMDRQLXl3TFprVDY1RWxrTnZRVVZEb29SZC1OTE0tZnFSRlduRXMwTGtTV1RRU0hyZ1dJcUVFelZfVkRDRC1Gdm5pMkFXd09saWJEbjJ5UEFJdmhMUQ?oc=5",
         "headline": "\"AI 투자 경쟁에 채권 부담 확대…네오클라우드 신용위험 주목\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784882609.0,
         "tag": null,
         "first_seen": 1785069986.1145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBPRjVtbEV6ZlJlaWdqY2hXT2dxQVNibXg1Z3JfeWRZeF8wVWkwLW5MWWZ4RFdRcm81aFNTaXB4NFpSajZhQlgtZ2M0MUR2czQ?oc=5",
-        "headline": "국고채 금리, 100달러 넘은 유가에 일제히 연고점 경신",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/24 17:33",
-        "published_ts": 1784881985.0,
-        "tag": null,
-        "first_seen": 1785054632.4991355
       }
     ],
     "perpetual": [
@@ -422,6 +422,16 @@
         "published_ts": 1785103200.0,
         "tag": null,
         "first_seen": 1785107728.767086
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB4OEZyLVFxM2lFejNpZm5vRmgwNDAzeWh5TElpVEpxNFhWZ3FJRndLTk5fTF9kWGE0aUdrTjM3S0lCamZ2V3Y4TE03LUNSTmpfTHZsaXROZ1JJeEYzaC1jek9ZRTZudnU2dWRORFdR0gFyQVVfeXFMTlJuUTUzcVYwLTIyMWhZWnFRYVBNc2FPU251QVYyU0V2cXUzU2RvV3RlTS1PMWVXeVNvNElNOTIwWnhXcXRrV1pKdURYZHo5emlVcWR0cC1tc0kxTUlZSVZ0TFBKSGxCUmZDNndnZGg4ZHNR?oc=5",
+        "headline": "중앙그룹 채권 피해자 대리인단, 금감원에 감리 요청",
+        "summary": "",
+        "source": "법률신문",
+        "published": "07/27 06:05",
+        "published_ts": 1785099900.0,
+        "tag": null,
+        "first_seen": 1785110440.758026
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5tX2ZlODd6VmJJR2g1ek9QRkVod3doTkFwc1RaYUFTVXBHb0ZoX1BRcjdTc3NiaUJROVdNZEg3VG9vOTVUci15NWdmT0daNU1XZE9CSkdoZ1RHY01iVk1LcGgtUHhrMnRwdmtYVjlBU0h3TGVpNGRKMDcxQU4?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1784772180.0,
         "tag": null,
         "first_seen": 1784772923.8584094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE16Z1NGWVdwM3NqbnBZZ2N3RFZhSXFta0ZtYUFGQnNmT2lXMFAwQVNNUHFYc1lsOEdiekVJTGwyNHBwLWtMaWJpWGRDaXpKb0xTVjBV?oc=5",
-        "headline": "우리금융지주, 다음달 최대 4000억원 영구채 발행 [fn마켓워치]",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/23 10:36",
-        "published_ts": 1784770560.0,
-        "tag": null,
-        "first_seen": 1784771123.7989855
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 08:45:48",
+  "updated_at": "2026-07-27 09:01:03",
   "yields": [
     {
       "label": "3년",
