@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1EydHJJUktRZlBvZW9ONjlka182UTludjVpUndYYzhweXJ1Qlh6OGZERHp2YTVrNWk5cVhiV0tSU0g0aU94YlIwT3EtVDJOakZ3QmVUX2RBbXJIUWZZT0RBeGotLVpkWFc2bG91RnlmbzdCbXBGRVNmWjJscExTcGVTN2d6Mm9QVHNxMTJqQ2cxam14NHBwT3ZVTGJGZw?oc=5",
+        "headline": "The Fed’s New Chairman Faces His Biggest Test Yet",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "07/27 18:03",
+        "published_ts": 1785143021.0,
+        "tag": "Fed",
+        "first_seen": 1785143725.7751555
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5kZFlCSm9ITzBRRXVXM1FoYVd4UUlEUFpRUmlCMnVqNkl6Q1ZvSjVCQkJwYTJuSUdDN2ZKX1dUNEl1Nml5STZKRG9Sd3p6YjQ?oc=5",
         "headline": "AI's Biggest Bull Market Enemy Isn't a Bubble, But the Bond Market?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785101309.0,
         "tag": "Global",
         "first_seen": 1785105926.102188
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOdU45RnhqcTdGNXo4NHhsUm4xNjJaNVdsbU13TnZlOVFPcHl3Z2R6Wk9obWJ5YnV1RmJQSzg5dFFBTTVLbEUyVGhpNmJJUVlDYnR5aWs1aldhTlpUQVFBTFdEaXM0V3hrV3d0UF9reW50bXRsNFB4Vm84WE1QS2c1RHFaWlFGdkJFdkE0aEhhOW1SLW1lZFk2anVlTWdaZmxzME9MdVRZMnY4bTZ0UzdHcllRRTRyT0l1X3c?oc=5",
-        "headline": "BOJ early rate rise bets increase as yen reaches multidecade low",
-        "summary": "",
-        "source": "Nikkei Asia",
-        "published": "07/27 06:00",
-        "published_ts": 1785099600.0,
-        "tag": "JGB",
-        "first_seen": 1785131183.782696
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 18:00:59",
+  "updated_at": "2026-07-27 18:15:47",
   "yields": [
     {
       "label": "3년",
