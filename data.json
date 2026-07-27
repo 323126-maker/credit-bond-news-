@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mZTlBNkdwc1ZUU0NDbXQ3dmRnTHlELVp5YUdWR0E2cUd1RFRDdGg5c1JkOGFKRXFVcVBGUDJ1eUZNNDh4RERiSEQyVnhXcnJCTDk0?oc=5",
+        "headline": "엔저·고유가 이중고에 빠진 日…추가 금리 인상 앞당기나",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/27 14:26",
+        "published_ts": 1785129960.0,
+        "tag": "JGB",
+        "first_seen": 1785130319.4124506
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mQVNLZERsOEk1UFFEbjdJVjYxaVllV0paaVppcHZIWHJZa3F1V2RTUERQR2pXLUdjemxqSUZjZFJwRGZ6Y2pZRm1CS1dRSE1RU0wzekZQcjBMcTZfbVdjN0lXQTEzb1lqWng2RkVQZ3E?oc=5",
         "headline": "The sting in the tail of Japan’s lost decades",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1785055619.0,
         "tag": "Fed",
         "first_seen": 1785064544.3102455
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xdC1GNjVmZk5aZ0x6RlhGREVoT3ZoWGpnR093NEZwdXFPMWZ5aHpGMGdZTnVCQmQ2RGYzRkY5TVIwWksxaWU1VDdJM2t3d19pQmxQTHJvV1BsZlppbk50YWtMbjhqbEk?oc=5",
-        "headline": "다시 직면한 고유가-고금리 위험",
-        "summary": "",
-        "source": "한겨레",
-        "published": "07/26 17:27",
-        "published_ts": 1785054420.0,
-        "tag": "JGB",
-        "first_seen": 1785054632.4991355
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE80bk5XUmdQOGRPaHp2UUxiQUsxd25tWFBTUHoxZnpiaXlIejUwZU1uSDk0Wm4zRmpjMXNScGFzbGwwZ1d5VGRnOFI1WUY5eHV4N053?oc=5",
+        "headline": "\"신용 낮아도 기회\"…소상공인 대출 심사, 8월 말부터 바뀐다",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/27 14:23",
+        "published_ts": 1785129780.0,
+        "tag": "수협은행",
+        "first_seen": 1785130319.4124506
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwUklKZkROSUN5ZUpfZjRfTTU5Yy1ucHFSajF5NUZ6T2NtQzd6MUxYNzNfLWFhVmpKX05IbURFd3BVdVBNcG1ONmtfZ2VFS3llVXk0UTNla1A3Q2tsWS1CNtIBeEFVX3lxTE10NzA1Ry1JN0I0T3hqckppVTVUZUc5ZDZwWWp3LWpCSWlNSTZMQmF4TEQzQXkwbEhEaTlNWW12MG9mTzh2QnNnOXhuVjJ0RWFER0xLaWtEWHp1aE1jS21WUHI0eU1oR0VTUXRYV0hrS1MxZ0x4VmNqaA?oc=5",
         "headline": "Sh수협은행, 상반기 순이익 2034억…전년比 3.6%↑",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784786902.0,
         "tag": "우리지주",
         "first_seen": 1784787326.2736354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE51QXNmc3hVaDFnQnBkU05BUG92YVBlMTV3cHV2dDAzVWhIdU1jbkJTcHVVQUc0OUFYUDlaenJtR0VqRVNMUUNMeEMzZ0JWMzFSbnRPWHVibHdhQXRTS0xDQ3Itajh4ZGJLcXVTRWt2alhzTzA?oc=5",
-        "headline": "[포커스] 금리 상한 낮추고 혜택 모르쇠?...캐피탈 중금리대출 '진퇴양난'",
-        "summary": "",
-        "source": "오늘경제",
-        "published": "07/23 15:07",
-        "published_ts": 1784786821.0,
-        "tag": "현대카드",
-        "first_seen": 1784789158.448827
       }
     ]
   },
-  "updated_at": "2026-07-27 14:17:13",
+  "updated_at": "2026-07-27 14:32:20",
   "yields": [
     {
       "label": "3년",
