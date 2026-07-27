@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1M0pDeFFoT1VWMW1pLWk5X0x4RmVlVFFFdXJtZmszZXZETFk1SVFZazN1ZkQ3Rm5UN3V6SjdNbjhXQ3hqQS0zYlN0WFFkQWQtUXBpODF5bjdVWkhhUlRCOWdKQzdpRnVOQ1o5ejBLaDnSAXRBVV95cUxQQ0x4b19MbTB3T1l0QmltaTl3NmxZcVhoZ0VKeFVFUUU1OTl3RjVyTDlzT2JzNEN1encwU0N6eTlJYXIzY0ViVm45R0QtSllYWGxwaHdaa2U0TmZ2SWI5Z3ZaY0g4YUdneTdSc3Zvc1gtN2NzbA?oc=5",
+        "headline": "FX스와프, '달러 풍년'에 전 구간 상승…1개월물 플러스 전환",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/27 18:44",
+        "published_ts": 1785145457.0,
+        "tag": null,
+        "first_seen": 1785146442.139534
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZV9IYjZUT0RFQmhhRlpFYzZESk9WaGpqdmZjM29Rb0NtQi03VGpnT014Z0pfWHJSc2RPUl8zc1BmcWNDZWkyMjFUNlZRUVBtYUZpSG94V3gtVk82ZTJWODZXeGtKRF9TQnlnTERvRm8tWFYzLXZsU3lxOE80clBKVVA0aw?oc=5",
         "headline": "미국 IT 기업들이 14만 명의 직원을 해고했다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785025049.0,
         "tag": null,
         "first_seen": 1785025917.8621702
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tMGk2M1hEVTZ2WFRjXzJJbW4xbkNLOXo1WEhkSXA3OUZwNTlLRnpmdDFnN0FrQ01nZFlJVEljUWxQV2FhX0pwU05wNFpQSHJYNlZodnExVi1yajZrSlVOSGZDWU4?oc=5",
-        "headline": "우리금융저축은행, 상반기 순익 113억…반년 만에 작년 연간 이익 넘었다",
-        "summary": "",
-        "source": "매일일보",
-        "published": "07/26 09:06",
-        "published_ts": 1785024389.0,
-        "tag": null,
-        "first_seen": 1785033033.0475864
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYS1Ydko2ZkdyaE53QnZiYVl5WGJEdVhfWHh6ZjBiUThUTnowb3EyeGROT29fRDhaMldtMWt0djRBaUFfTzAtcFZ3Wm1mdXJFWnh5a1Z1NERFc0ZSMmI5bXpzQ0JWajN2WE9pOGJlTlA0akM5NVNCUkFPRXpPTE9jX2pJTkFZcGpaNWNXUGln?oc=5",
+        "headline": "미 국방부는 이란과의 분쟁으로 인한 사상자 수를 예상치 못하게 상향 조정했다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "07/27 18:51",
+        "published_ts": 1785145881.0,
+        "tag": "Fed",
+        "first_seen": 1785146442.139534
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPMDV6WnI4ZW04V2hFWVc4dHIxN2JFbFBjOGJSMzdhUGdkRmF6eENEaU5QMnQzekdISVBCS1B1Q3RTbFBCTS1jcDF6Q3FvOURjWnpJVERBTVNKdThYbWNzUnVzdmNhNFFoTHlwZHNqWTdsTng2aE50SkQ0SWVLOGNBaXRoQTBCeFU5X1RrX2hSVjNyNUgxYVdjRTVLNFZQQVlGWUdJMWV0elVOWE1OT3hrcmpJYVRhNnpKUVRyUzlJQUVtaWlBYXVpRFQ4eFFKN0JzeTl1c2o0blhXbTFZMy0ya0xoWm5DdXJrNG9pT0pLaw?oc=5",
+        "headline": "Stock Market Today: S&P 500, Dow Jones Futures Rise as…",
+        "summary": "",
+        "source": "inkl",
+        "published": "07/27 18:35",
+        "published_ts": 1785144949.0,
+        "tag": "Strategist",
+        "first_seen": 1785146442.139534
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaa1NlMzN3WG9NOEd0U0F2aW90cWFZdjZWMEFoMFE1NWxQNVRONlZITGRpbUVjZnc3VFNmTHZFdTRQTXExbHVmcHZMbGt1eU1janlqRW9pNURvdw?oc=5",
         "headline": "The Guarantee Switzerland Never Had to Cash",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785112280.0,
         "tag": "JGB",
         "first_seen": 1785134824.7353544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlOXp4Zm9xNTM1MEM0NjB1d2hSc24yc2hRbXpRZEVfRmJBVlFuSE5iNFl3d1VEQVlkVE1fYVJ6eFFrLUJLWl8yaDBMcnVzcVU2aU9tRVdiaGJRZDFTVGN1OFRlVXNic1ZoYVJtRHI1U05Idw?oc=5",
-        "headline": "How $400,000 in BDC ETFs Can Pay $36,000 a Year and What the Default Risk Really Looks Like",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/27 09:05",
-        "published_ts": 1785110718.0,
-        "tag": "Global",
-        "first_seen": 1785111326.8727047
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORFdGWnI1blg1dmVhWklFS292b01ITU9qWVM0ODJiS2daNkV0c1hGelkzSjZqMFl1QTVIeE9JVi12X2xkUVFCSHVmckdmTVJ4dmpjWE1uSWJZbWpvbUJ0NC1rOVIxRHdSei1jQ1piNHRDN0U5MnpnQ2h4dkpKeWlCWktVYVlYSDA0?oc=5",
-        "headline": "日 엔화 163엔대 숨고르기… 美 이란 공습 중단에 유가·채권금리 하락",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "07/27 08:27",
-        "published_ts": 1785108438.0,
-        "tag": "JGB",
-        "first_seen": 1785108631.1411657
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 18:45:44",
+  "updated_at": "2026-07-27 19:01:05",
   "yields": [
     {
       "label": "3년",
