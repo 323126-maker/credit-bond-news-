@@ -32,6 +32,16 @@
         "first_seen": 1785108631.1411657
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBJSGdQQWVtSW9IVmJIUV9HdzlYek5NYk1MWGE4UWlhSEdCLUM5bjJmTDhGMXRuVWpoRjdPWWV2Mm9sRm1JMnZTalFaMGRKNFVnNDRlbklNR2w?oc=5",
+        "headline": "미 국채시장의 경고…\"연준 금리 올리지 않으면 더 큰 충격 올 수도\"",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "07/27 08:11",
+        "published_ts": 1785107460.0,
+        "tag": null,
+        "first_seen": 1785114039.5867052
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9SLXBRTmI2UnBjcUE2VlJIZlFtRW0wMURSSGJGOVVMQllqX0pEeFZIelNWMGJTS09uMV9UMnQxV3Y1ZjkwZEdPdlFHMXk2QmItWTBYM2NYVWFqN29kZDNkY0hXTThlY0Fm?oc=5",
         "headline": "[채권마감] 3년 금리 4% 코앞 ‘연중",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1784895732.0,
         "tag": null,
         "first_seen": 1785017728.197161
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOeVRTNzY3NHVoUmlkeFM3Nlk5MkNYNk5fZTNyRUR3LURhMkhFaS1RaGNHcnFjbjVSUFBZbkVLazlESU9XVXhNRW9pdVEtRG1DMWlIWTVXXzl1M3haZW1RNDE4dTJtTVdZeEtHQS0xRU9TdWp2SExsVlRGNFpKczg4bFNEWnRxSFlvRXBOQXctenBRRGlBTWZINXQ2c25pUkhIbUJzUF9iVmxXak1oMzZFemRCVDZuZFJhWnZRVFU4aVU3Y05VSDk5NzBHZjA4ZWNycDFSVDV3UHJSMzRqV056WEdFMzNMWUZ5czJMbnpQLU5taGVFaFg4bnVfQ1NQa2pjR1B5eFdtaTVmWEU0SnFkVVdSenZ1dEhLQWpMaGFzcndpeXF6ZlVtemJuYldEZ0lNa2xsTms4dzR0eDVnUWptZFNnQThQS2U4c1Z0dXNwUXdaMURmTG5VNnV3?oc=5",
-        "headline": "유가 급등·스태그플레이션 우려에 기술주 타격…글로벌 증시 하락, 하이일드 스프레드 확대",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "07/24 20:13",
-        "published_ts": 1784891596.0,
-        "tag": null,
-        "first_seen": 1784907028.4946003
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-27 09:47:10",
+  "updated_at": "2026-07-27 10:01:01",
   "yields": [
     {
       "label": "3년",
