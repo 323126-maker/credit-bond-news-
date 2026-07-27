@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMkhwbmVRdG1OSUdQZmcxdjFoUFhyN2dOXzVkOGtxeFlBczhqeC1qa0tsSkpwckNteG1TcUVjUU5FN2M1OEdMc215Q2lURG1DZDNvMk10S2FJWERoeWZTTWUyTWVTUm9IU0pDN29WUWJOLXRlelUxeno3RXUyLUtOWWtaX2pVT0JZanZrTzZoQnJkRGZEWHktYzh6R1ZIa1pHYmdGUjNuUVlPRmFKalowSzBNcGNlb0MzTU9yd3RBaHZWWTRiQlNpekMtaGpGaERvZTNMWkREbnk1N2w0UEplYQ?oc=5",
+        "headline": "Indonesia’s rupiah crashes past 18,000 per dollar as emerging market stress builds",
+        "summary": "",
+        "source": "TradingView",
+        "published": "07/27 13:08",
+        "published_ts": 1785125280.0,
+        "tag": "Global",
+        "first_seen": 1785127524.168457
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZHFsQTRnVU84d2JjYm1USUxHTXNIN3JoN3I3Qy16c05hU1B6VWU0YWt2UHhCQjF1WU9ZWlZXa01ZdmhTYUNhVUR2NlFlYmtWVzBnS0Z3cFBLSzRMcTYyaDhIWkNpUlAtbklUOGc2Zk1qbVBZOHZ2UFRQVXUtRTAxRW5fT0JBTy00WVlUX3Z3TGZTcDVoTVIyV1dTcjA2emNlMmNpTGlhaGM?oc=5",
         "headline": "CLSA Warns AI-led Disruption Could Redraw Markets Before 2030",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1785054262.0,
         "tag": "JGB",
         "first_seen": 1785125799.4662187
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OMFlJOUotTkotZ0FuMXpKeTZiNDhvbUtiQ0hQZ2V0dDFNYm1SQk90bVpOZFowSV9VRjc3bFNaS082Z01PN2Zpd08yTGFFemlkVEZ4eW5ZYXFoWlM2UWVUS1RtRFlzS2JxdGZlVG05Z0Z6Q3FT?oc=5",
-        "headline": "[뉴욕채권-주간] 선제안내 없는 FOMC…놓을 수 없는 '깜짝 인상' 불안감 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/26 17:18",
-        "published_ts": 1785053901.0,
-        "tag": "Fed",
-        "first_seen": 1785124932.0117757
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSmVDbUx3TzRLQkZPWGhvZ25KUWNBaDZFWWxsV3BLaU9iR0FGQ0xmWjNuM1MwSldGVS0zUWVxa05Ncnd4QzRLOE11MjVYUVIyUjdmTWloQV9ZMjh0TFU4bQ?oc=5",
+        "headline": "삼성카드, 상반기 순이익 3105억원…전년비 7.5% 감소",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/27 13:34",
+        "published_ts": 1785126874.0,
+        "tag": "삼성카드",
+        "first_seen": 1785127524.168457
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0RWd1elR5Z2I3MWhESkRzUXFpNGZHbGF1dmFwSW1iNWlBa20tblpDRFVCenVMSW5SZDlnN3lLRHQxR2IzeVVBRWlhejl1MHM0Uk84M01wT3VtZWJoaGtSWVVjT09PcDhKMkE?oc=5",
         "headline": "AI가 소상공인 신용평가…16개 은행 2.2조 대출에 첫 적용",
@@ -2400,20 +2410,10 @@
         "published_ts": 1784784600.0,
         "tag": "한국항공우주",
         "first_seen": 1784799924.7754087
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9idE9yallOMHd6eG5mdDU5WWJjQUt2NDBPMlI3bENUbUhGUlhYUHJmNm5VeV9fczNrVWlQSjRBbkVhN3d5SnliaTFzMVZGTFRZdVJ5YWdDcFYyaW51TkNQdw?oc=5",
-        "headline": "4대 금융 2분기 실적 시즌 개막, 11조 순익 전망",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "07/23 13:48",
-        "published_ts": 1784782133.0,
-        "tag": "우리지주",
-        "first_seen": 1784911527.386139
       }
     ]
   },
-  "updated_at": "2026-07-27 13:32:15",
+  "updated_at": "2026-07-27 13:45:47",
   "yields": [
     {
       "label": "3년",
