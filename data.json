@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOci1uU0VXS3ZfWHp1a01fdEZhaGtCcDFaRjc4UkJQSlNNNVE0RXFyRW91LVc5WFdWeTVwYzFhZzAzbHFHYWt6M0FKQXc1TTJxalRhS0NGeGZNWUN3LVVaSDh4UzdCdHlTd0o5UkFaa0IyZl9rU3RLV21Zc0dtVmJrTXBpVDBxMDU1cHF0VU1mVFhfSWR2VGdaTEU3VF9UaVhiQVdqZXlzcS1taGNzUzlIUGcxeXlKWDJ3TWlzNmRtWElsVV9lR3VF?oc=5",
+        "headline": "U.S. yields ease off multi-month peaks as anxious bond market braces for Fed call",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "07/28 21:00",
+        "published_ts": 1785240000.0,
+        "tag": "Fed",
+        "first_seen": 1785240926.3166432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXhqaDdad0E5STRtSElIYXlnZmVBczhjWlRVeXlWVEJVeDhfc1BtcUdvNWpSUXFVSEliMnJ6cDRlaE4zMXlRbzFrRkZXaEdESnA2bVdPd0tDOTI3RTRXSUUwc3F0U2FINWc3VDR2Y2U2alhxY2ZsUkpjTU1tR2JMLXhlVjFXOTlUWTJmQ251OTY?oc=5",
         "headline": "European Shares End Flat as Tech Selloff Blunts Summer Earnings Season Gains",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785205050.0,
         "tag": "Fed",
         "first_seen": 1785205833.7394478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbWVTY2FNWnJyS1R3NVdiWEdqVzQtNGNPNVcyYlNPVng5T1Fka05iQ0F1RmhTWjBQU0dFSG5IazlkOWdqYlREZHJibUhZUkJEVmtTRTA3SjM3eU82S2tOblE1YVM0Q1FzZ3R4X2RieFo2S09VNEg4N1M0UlVvOUp0VVpDZEVFNkp4TTZiazhQdDhYaUY5MXNFbWdDbTd2ZkNDcUw4?oc=5",
-        "headline": "AI Investment Fears Grow as Big Tech CDS Premiums Hit Record Highs",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "07/28 11:01",
-        "published_ts": 1785204076.0,
-        "tag": "Global",
-        "first_seen": 1785206723.381335
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 21:01:09",
+  "updated_at": "2026-07-28 21:15:48",
   "yields": [
     {
       "label": "3년",
