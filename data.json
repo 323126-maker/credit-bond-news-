@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWldfSTRtS2NmZ3k0VndyRERKQjFLbkkyN2Zqa09MQ2tSQTNzVVlTZ2FZYXR6UU9OR3pkRm5jNk1CX2xKYnhFVW1oQzZzQ0o1c3hybFhoQktzVl9PNzFKN2FyZW95STB3MjhBaWlldmZFVkxITkdZYXg4QUkwd1pTcnBjZnQzOWZwM1lLTHJVVGxtYXk1VFRzQUxycklULXRBcVRsT185Q0VpbmhEVVZkYzBZTHhHZw?oc=5",
+        "headline": "HSBC sees upside room for stocks as sell signal loses steam By Investing.com",
+        "summary": "",
+        "source": "Investing.com South Africa",
+        "published": "07/28 22:20",
+        "published_ts": 1785244831.0,
+        "tag": "Global",
+        "first_seen": 1785245442.91531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZElkNTBwMmpFaFZRc1R2VGE3Sm43R0Y5UE9tUVozUVkxYmcyR0NSZnI5MEpwNHltSkV6QVVteVFxTTNaU1R4bURGTjlMd1ExYjNnZTV6ckV2VDNyTlFld2dmZFZSVnlkb2xzSnl5VWpPMmI4TE5OckJxR01aSVFuX1VrWFh5eFRZSGJWcWRrRG9UT3YtTmJoS3laTmk3cmV5dy14aUtkSm9CRGNQZktsUm15akQ?oc=5",
         "headline": "Land of confusion: Why the global bond sell-off may be far from over",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785244208.0,
         "tag": "JGB",
         "first_seen": 1785244527.931901
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yYzd3UVlfRnl4ampPOHhZLWdZSjhLYWdRcFExbS1pZnVGQ0VhME5vbkJzaXpFLVlPWU5ZM0xfak53dlBCVGluXzNCbjhCVTZDTHRLbU1qUHkyLXNCNGtqSXR5Z9IBY0FVX3lxTE0yYzd3UVlfRnl4ampPOHhZLWdZSjhLYWdRcFExbS1pZnVGQ0VhME5vbkJzaXpFLVlPWU5ZM0xfak53dlBCVGluXzNCbjhCVTZDTHRLbU1qUHkyLXNCNGtqSXR5Zw?oc=5",
+        "headline": "Global Energy Roundup: Market Talk",
+        "summary": "",
+        "source": "Bitget",
+        "published": "07/28 21:39",
+        "published_ts": 1785242398.0,
+        "tag": "Global",
+        "first_seen": 1785245442.91531
       },
       {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9adzBpbzdKbGxDR2k3YXNJTDhESWh4dURpb051djdnNUYwYUd4SHNCSHhwMzZ0Z0lVVDQ3Nzd5OXR4ckVIYVlCR0MtMkdCbjQtdmJOeW4zWlhPVlpuWGpqNUVwQmNTWVUtR3ZaUWdrRHRybW1vUUQ0Tw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785211621.0,
         "tag": "Strategist",
         "first_seen": 1785217524.1474054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFYNGRGdFBvMUJaT3VGanFWcjd1anhzSXpUS2pCMDBxdTA1bjFmTkNfZmZyeW9GdzdLM2tiRWMwTjNURWZJRTB3VWJvNHhCVGxYdXlUVkZuS0NYNHVWNGhFcFNxMHFQUjgyNlNpWGhvakV6eHRVYlh3cm9oQUxDeGFYTFc?oc=5",
-        "headline": "Hungary’s thawing relations with EU provide lucrative trade for foreign funds",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/28 13:01",
-        "published_ts": 1785211276.0,
-        "tag": "Global",
-        "first_seen": 1785212131.4743593
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3Q1RjEtdlNwWjVxZkpHY1NDNmd6Yi1TUWxYMzNtT3l3UGx1NW84X2c0TnNCR1VGN01IbkMxRFR6MTBEY3dOU1M2c3YwVmlxTklKY0lmU0NtREM5X1NycG5tdS1Ia0h4Q1ViZjNoVG1KNDBUZ0NVeUlnR09ab3ZzdGJubjgzOTkwdGpjbWdrSHc5VUxJMUlUVg?oc=5",
-        "headline": "8 Words From Fed Chair Kevin Warsh That Signal Where Interest Rates Are Headed",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "07/28 12:15",
-        "published_ts": 1785208500.0,
-        "tag": "Fed",
-        "first_seen": 1785243641.2848508
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 22:15:52",
+  "updated_at": "2026-07-28 22:31:04",
   "yields": [
     {
       "label": "3년",
