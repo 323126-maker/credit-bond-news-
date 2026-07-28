@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3U3VISFJFb2UtMkpLM2lKS3U1VDhYbnZNV1NoajQ3VGU2X0txeVYxV3gzU3F1MmtDaDBfSnpXTGJ3WTVTMWkxaEVTQnd5cEw2V1FN?oc=5",
+        "headline": "연준 금리동결 확률 62%…\"깜짝 인상 가능성도\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/28 10:28",
+        "published_ts": 1785202080.0,
+        "tag": "Fed",
+        "first_seen": 1785203127.301638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOekdpTGFSSVVERm42bzBiQ3p5b1BjdW1MaThCTXNsbmJBSnN6SmR0U1pMNXBnU3hGMWRNa3lKWnZySnRQUndBVHJTMHBoUlNjOWZQdG04VW9pMlV1elZnTHJrT3V4ckZBeVFHSkRPZ2lPUGhlSHJBVWpQLUREckRZQ2pPaGgtSW5kSEg5SlBVYTc1RUVsOHc?oc=5",
         "headline": "Kevin Warsh Wanted a ‘Good Family Fight’ at the Fed. He’s Getting One.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785162221.0,
         "tag": "Global",
         "first_seen": 1785162642.9350076
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakxmX2k2VjJWU3U0UXpWVGpVeW01eXNtcC1PaFk3VFVWYlFFQXhOYVJmakhudWFVdWxxLU5jeDYwNUVUZGVxTVBLalRPWXZwejNpU2pLdTNjZThaRDllNHcwdDBrY1oxT3V4UG1QMnFJQ3doRm1BVlZTRUZZV2o3Mjd1NjJRS0NPYURybHNJak8wdTJOb3c?oc=5",
-        "headline": "Hana F&I Draws 5 Times Target in Bond Demand Forecast",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "07/27 23:22",
-        "published_ts": 1785162137.0,
-        "tag": "Global",
-        "first_seen": 1785195928.3487883
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 10:31:02",
+  "updated_at": "2026-07-28 10:45:52",
   "yields": [
     {
       "label": "3년",
