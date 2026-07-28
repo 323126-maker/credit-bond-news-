@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUTc4VFp5bXBqdTl5ZmltbUYtemNtOE5pS21SV2hva2pKeWhQX3hBN3F6clVWU0wxOVQ0aU1KUDlkM0lYY3NnQUMweXpfVkptWWN3?oc=5",
+        "headline": "시타델증권 \"연준, 깜짝 금리인상 가능성…워시 신뢰 높일 것\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/28 09:38",
+        "published_ts": 1785199080.0,
+        "tag": "Fed",
+        "first_seen": 1785199523.3647916
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNG41V29COHRzRVpscHZmZzJsQ3QzOHFxUERtaTNKOTBVM1BDRzRFX2JmR1otajlYV256ZFRwNEctdTNTaVhaazFjMWEyb1JxRTV1Q1ZZVDlYdDk5RnVLYjFiNWdRV28?oc=5",
         "headline": "[데일리 머니마켓] 미-이란 공격 중단…국제유가 8% 급락",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785193121.0,
         "tag": "JGB",
         "first_seen": 1785196848.266617
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWF9PQzM0M0V3Mmx0Uk9fV3RIWkJIWkg5U2poRTZzaEhGaVZ1VW55cEg5Rzc4YnlaaGFyRnhaaE9Db0VIZjBmR3hnNmdianhqeGZfZFFYVFZ5MHVmdE1TVVkyRHZfUjFHSVZrcFFLUmZfQ1hFUzJwOEFQZTBuejFiOEtBcVhoekZRREo3cDFzcGVwRXA1Q1hJNlREdEhZY1JEQXM0?oc=5",
+        "headline": "Federal Reserve Chair Warsh Holds News Conference",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "07/28 07:50",
+        "published_ts": 1785192601.0,
+        "tag": "Fed",
+        "first_seen": 1785199523.3647916
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTZmblZJeVdiZHFtV1ZSVHc1Z2dIWGVDZlgtdVNKVUZ0Sl80YTNfZUx3OC15Nm5RV2wtT1plb3FQRm8yY25WSXo3VG5xbUZBM3FPNm4tak5nQ0JpeWtyemRsMFdwdlBKQ3JsN1NTT2NlUERKcFNVdFVpc1JjZ0ZyZVBFeGRMV1BaU1FkcHk3cHdhOXk5UXl1aGQ3em9PeVJnRThNZGVqTy0?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785159193.0,
         "tag": "JGB",
         "first_seen": 1785167125.6097825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMGxfT0JPdmwxeVE3MFZCbzhobWFzaTdUNUhQOTN3YWtpMUVBckNaT1daWnkwckhjZlI3bEptWXg2VlNKczlCYVVLN0dqMXpuYjc3SjU4VVp1U3NOR0ZwT2NpM2tXNmw0WWRON0praTBtc0hCU2psTkNUc2F1LVg4Zm5OeHpOVDJjcnB5UGM4TndCRUpNV2h1eDBGUmt1akwt?oc=5",
-        "headline": "Bank of America: Bond market emerges as the 'most dangerous variable' in the AI-driven bull market! Even better-than-expected earnings reports may fail to sustain the rally if liquidity tightens.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "07/27 22:26",
-        "published_ts": 1785158780.0,
-        "tag": "Global",
-        "first_seen": 1785159925.8228652
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9HVUpJUURZNm10LWxDNkNEbXZpTzdyWHpjdnozOGdORW9WdldvMV9OYzhkYTJTRVEtTHEwMkpKSTRFZGhmZnlnSU9XUDg1ZFVoMlEwcWJMRFpHTG92a3dmNlZiZ29oRWdIZEo5LWFINkZrSHB3ZHMxS1RhTWQ?oc=5",
-        "headline": "Fair Value, Monday, July 27, 2026",
-        "summary": "",
-        "source": "Buttondown",
-        "published": "07/27 22:26",
-        "published_ts": 1785158775.0,
-        "tag": "Global",
-        "first_seen": 1785159039.2287276
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 09:31:00",
+  "updated_at": "2026-07-28 09:45:46",
   "yields": [
     {
       "label": "3년",
