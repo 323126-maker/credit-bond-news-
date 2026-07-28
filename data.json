@@ -162,6 +162,16 @@
         "first_seen": 1785193239.326916
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWUDFiR0pZVkpwV3JiNHo4dEs5TnNOdHdvYUJ4ZEdIT3UwNGV3RlRhRDVJdFhFdjdrb2dDZkZ5aGxiRUY4Rk4tNHNYWmpOVHdtYmg3bXZOQWtkd9IBWEFVX3lxTE1LWGxneHVaYTJYbWJfekVNc2pqYk80dDIxNTkwZHk2bmx1b0Q3Y0NRNlhKUmx2anJJQ0VFN21yVWJzeEdLQWFrSzFMYTE2VFR2M2ZLaW1rZk4?oc=5",
+        "headline": "[뉴욕증시 마감] 유가 급락에도 엔비디아 5%↓…3대 지수 혼조",
+        "summary": "",
+        "source": "아주경제",
+        "published": "07/28 07:19",
+        "published_ts": 1785190764.0,
+        "tag": null,
+        "first_seen": 1785212131.4743593
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5INk1aUFpDVTdCQUE1MnNKX2VOcVJyLXZmMElJekZ3MGFQRWlhaFRrdkdWb0c1b1VPX3gyTWpFMWhCdllLMWxkQnpuVi04SFV6SU5mdVEzWlR1VHBHZjd3X3BHa3l6QmNRd2NMT1M3OU42QQ?oc=5",
         "headline": "[뉴욕채권] 이틀째↑…유가 급락에도 입찰·회사채 부담에 강세폭 제한",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785140795.0,
         "tag": null,
         "first_seen": 1785141926.0199442
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBIWWdPdm80VEw3V2hEbTRZZjJScUxUWkQ3NmZ5VU1iVnFHajdqRjd4V2RubGZpQzZRQnQ1ZjJiOVBJLTA2QXVpNUZseG1rZE0?oc=5",
-        "headline": "중동 긴장 완화에 국고채 금리 일제히↓…3년물 연 3.865%(종합)",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/27 17:23",
-        "published_ts": 1785140584.0,
-        "tag": null,
-        "first_seen": 1785210330.0338051
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQWFYNGRGdFBvMUJaT3VGanFWcjd1anhzSXpUS2pCMDBxdTA1bjFmTkNfZmZyeW9GdzdLM2tiRWMwTjNURWZJRTB3VWJvNHhCVGxYdXlUVkZuS0NYNHVWNGhFcFNxMHFQUjgyNlNpWGhvakV6eHRVYlh3cm9oQUxDeGFYTFc?oc=5",
+        "headline": "Hungary’s thawing relations with EU provide lucrative trade for foreign funds",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "07/28 13:01",
+        "published_ts": 1785211276.0,
+        "tag": "Global",
+        "first_seen": 1785212131.4743593
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZjBnUjRhTEZNX1R2U1RwZUw1dU5iaEVzNWR0OVcwNko0bjAtMU9RWkpsVlNSLTRCMjJlRWNSX1ZpR1NmV1JZNmhnVlY1REdVS3NMUzJPSk5hbWFfOHdya3lIVDRuaWxaNTJ0SExYa0owcDBzREEtX1dtSEFMNmtMLWo1VHE3eTlSOWlMTmdvblVKS1lzNVB0Vm1Dc3I5MFQ0X0E?oc=5",
+        "headline": "Japan 10-Year Yield Steadies Ahead of BOJ Meeting",
+        "summary": "",
+        "source": "TradingView",
+        "published": "07/28 11:45",
+        "published_ts": 1785206700.0,
+        "tag": "JGB",
+        "first_seen": 1785212131.4743593
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSkxIR2VjZDNxSnJNanVVZ3RUMTM4NThycVJzZFczQnRURUJlMWFLUDhaYzlnQVNYNVVSVlk4VDJQSlA3WlhvUURTdm1ocDhmVGNxRWc1cHQxRkd0eXBLeWNhLUNFTkFsY2N6dEdJcXIwekZHUndvejlJMElGdURlaFZtTklPVG9UYkJlQWJXU0RTZ2xBVE1VclY2UmpObjd4MlBDNG9R?oc=5",
+        "headline": "NVIDIA CDS soars to record highs, Oracle downgraded—as 'circular financing' hits the bond ceiling",
+        "summary": "",
+        "source": "富途牛牛",
+        "published": "07/28 11:34",
+        "published_ts": 1785206040.0,
+        "tag": "Global",
+        "first_seen": 1785212131.4743593
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3Q1RjEtdlNwWjVxZkpHY1NDNmd6Yi1TUWxYMzNtT3l3UGx1NW84X2c0TnNCR1VGN01IbkMxRFR6MTBEY3dOU1M2c3YwVmlxTklKY0lmU0NtREM5X1NycG5tdS1Ia0h4Q1ViZjNoVG1KNDBUZ0NVeUlnR09ab3ZzdGJubjgzOTkwdGpjbWdrSHc5VUxJMUlUVg?oc=5",
         "headline": "8 Words From Fed Chair Kevin Warsh That Signal Where Interest Rates Are Headed",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785168000.0,
         "tag": "JGB",
         "first_seen": 1785168926.4939158
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUVRpWnpzel9vdWlfUTRyMGZwLVhXN2dmVDBNclBHRzhhNWx4MnVDSFBZNl8wZmxuZzlpZjZPTC0zMTZMRU9Udl9zWTB1X0FFR2ZBMGFQaWgydTVSY21qTzBkUWoyaTlGUHFJeVZybVZnb3d3YWoyRkZHeDVyLWszMmFPLUNZUmh0WUh3UG9ZejBFanRudmt5VV9YNmVSa1hmeWp2TE1CUWgtdw?oc=5",
-        "headline": "Weekly market commentary",
-        "summary": "",
-        "source": "BlackRock",
-        "published": "07/28 00:57",
-        "published_ts": 1785167829.0,
-        "tag": "JGB",
-        "first_seen": 1785177039.206914
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMDJhOG1HT0xOUUxGbUswcElCT0taeEd1cUJHMlcyN1V5ZGdOYmhoYnZJMVlFSzdnczdwcW42djViZTlBc2MySmotT1hOaFp5NFpTQ2VCUjNYZzZ1QUxOWWd0b0otTmdFa2UxLVU1emk2WlF5WEQ5ckNPZ3c1emRGQWpwMEhIYW5iV0dmRUlWeFY?oc=5",
-        "headline": "Federal Reserve: Extended Pause, But Rate Hike Risk Grows, Says UOB",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "07/28 00:26",
-        "published_ts": 1785165980.0,
-        "tag": "Fed",
-        "first_seen": 1785178844.964015
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSkp0V1pWV1pRWWl6a203a1ZUVmRzOU9ZMWVHVUZzOEFPREZfY0l1TVJQU3N3QUdQQ0NfSlN6RktFS3Rqd09qdWpic1VhVUNTRkI2WEFSTzR3dHNuYURGejg1dHQ1TXdSZTlQRko5Wnl5SGlqNmNXSnVyR1RHUGdlYWd4YWVlT3lKT3FGbVlXQlR3alRPbEMtNm5Hd3QwX2NjdlcyVWl1SWRIdEcwRGppbDZZblRwUDU3SDBJNXJoR1MwcVlKRUxxSXJzOWZjZUlFaWMzRjA4UG9pR0lyd0pabGhxV2RWak51ZndIWU5nb25EZWp6X2owZ0NtOE1QMGxPUmfSAYICQVVfeXFMUEpKdFdaVldaUVlpemttN2tWVFZkczlPWTFlR1VGczhBT0RGX2NJdU1SUFNzd0FHUENDX0pTekZLRUt0andPanVqYnNVYVVDU0ZCNlhBUk80d3RzbmFERno4NXR0NU13UmU5UEZKOVp5eUhpajZjV0p1ckdUR1BnZWFneGFlZU95Sk9xRm1ZV0JUd2pUT2xDLTZuR3d0MF9jY3ZXMlVpdUlkSHRHMERqaWw2WW5UcFA1N0gwSTVyaEdTMHFZSkVMcUlyczlmY2VJRWljM0YwOFBvaUdJcndKWmxocVdkVmpOdWZ3SFlOZ29uRGVqel9qMGdDbThNUDBsT1Jn?oc=5",
-        "headline": "Rupee outperforms emerging market peers since March as RBI measures cushion war shocks",
-        "summary": "",
-        "source": "BusinessLine",
-        "published": "07/28 00:18",
-        "published_ts": 1785165535.0,
-        "tag": "Global",
-        "first_seen": 1785170727.7213237
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 13:01:06",
+  "updated_at": "2026-07-28 13:15:54",
   "yields": [
     {
       "label": "3년",
