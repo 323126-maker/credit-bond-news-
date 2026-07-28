@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaUxDaFhVLXBHRHV3b3ZMaXQwWW9nbmZvaU4xdlZTeVBsOXJzalB4a1hRT09JMjZQY0djdmNQU2c0anRYQUhueEdGUzFvTG1kN0pFUmlZZ19FY05KU3podEx4cUVFVXpyODZWOVk0SHBXaTZFTjYyMWdIYzVvVS01TEtiT2pnQ2RJYW0wUUw2N2xEeGd0a1pQSE4xWVBETFcwWXJTLWI1QmxFWE9udkxjWHVfX2M1RWlHeVJhcGZ3TjRlclZpallUVA?oc=5",
+        "headline": "Trump Says Kevin Warsh \"Wants to Do the Right Thing.\" But Could He Raise Rates This Week?",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/29 04:51",
+        "published_ts": 1785268302.0,
+        "tag": "Fed",
+        "first_seen": 1785268835.6046805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOU0Y2Vl9qcy0tYk1UUlV2OGdJRG5vRUdZVC1LTXRWWjdaN2swSmdoVkVrSk9LMUYxOU1EVGNOQWpkSFdscG1YU256MWxmQndhejZRZ3hmeldrb1JNUThuS3hqUlJtNS1ZdGo4ZUxmc21ZNmVQNF9fX19pdVJQQUJfM3Q4R2ZQdzVRWTkxUnotY2Q?oc=5",
+        "headline": "Hike or Hold? Fed Meeting Will Surprise Either Way",
+        "summary": "",
+        "source": "Investopedia",
+        "published": "07/29 04:32",
+        "published_ts": 1785267163.0,
+        "tag": "Fed",
+        "first_seen": 1785268835.6046805
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDFxUE5pcU9JVTk4djVhRHhxajJGdXo3Y0xPZFVYbDNyT2trZ0Z5WTY0dWlKb1dCVGFoSmxiTF9TSk1nc0hMeWJOVUNrQkVuYTJFZXZGb0RnUkZ0R3puVm05RWhwVDNsV05VMTAyQXA2WlR4SXhxcXRRbW9qWDFrM2p2NzlNX3lidmQ5VUl3OGpFdnVyN1lxaDBOSzFQZERScmRFWA?oc=5",
         "headline": "John Hancock 2010 Lifetime Blend Portfolio Q2 2026 Commentary",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785235480.0,
         "tag": "Global",
         "first_seen": 1785250843.7197714
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOa3Bldlk3YjRqNDRPX1pMd0JXT2w1WVY0VVI4QjlxU3BLbU13d0llU25ndjZZbzVZcnB5Q0d1bS13UEgtYmdOalZISzRpcjdyT090R055b04zeU54cm9PNUJxOVcxQ0lFM0pKMEdUak5IZFRhcGhhMEowakpwc0dsZ29ZemNLNW11UGVNaVNDNmRZT2kyaFZLazRndGRKcVMtSVVoY2E3aEhucHc?oc=5",
-        "headline": "US bond market avoids big rate bets as inflation dims Fed outlook",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/28 19:09",
-        "published_ts": 1785233384.0,
-        "tag": "Fed",
-        "first_seen": 1785233733.4802284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckZwUnEtMTFQNmJDSU1EM2duaG5qc0pOeTNudlFxb0NwcklRXy1JZy11VXlPMHpadnFNMEo2ZnptRGNZZlJhRUtwaUozaENuSGQ2NnE1R1hYOGNqRGhSVGxZYXJieXFPVFJCNTNpaWw5SU5tZEJWa0tubzFWekNCcWVyWHk0bDNsUm95UENNa3lSUQ?oc=5",
-        "headline": "Market Minute: Will Warsh be more specific about inflation?",
-        "summary": "",
-        "source": "The Real Economy Blog",
-        "published": "07/28 19:00",
-        "published_ts": 1785232852.0,
-        "tag": "Fed",
-        "first_seen": 1785242723.9043224
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 04:45:55",
+  "updated_at": "2026-07-29 05:00:58",
   "yields": [
     {
       "label": "3년",
