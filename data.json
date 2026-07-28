@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Q2JtM3hHaWhLNi12X0VaaEhubHVVaFU1UE96UUJDdmo0TWtXb0htdTJGX0Qwbk95R0NxQnBBcktkZ0haNWJZQWNnQWpJVk5kaGfSAVNBVV95cUxNZGMwampTZjRVbm52aWZGRXpjaHlHYmRZdUpIZVZ2UG1wNFRKVDhVNlNJQWFwbXBNSE5naWl5eEJYOFJVR0hDVTA5N0V3NTlOVDJDaw?oc=5",
+        "headline": "AI 투자 불안 커지나...빅테크 CDS 프리미엄 줄줄이 최고치",
+        "summary": "",
+        "source": "서울경제",
+        "published": "07/28 11:01",
+        "published_ts": 1785204076.0,
+        "tag": null,
+        "first_seen": 1785205833.7394478
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE45VlNfYW0tdGlFNlhVYUx6RDZjTFVUWWNJV1hBOUhVRW1YM3Jhbl9JS0xRNEtSOWI2MklhX01SVlctM091bTVkOXktNFVXa3BTNUhn?oc=5",
         "headline": "올 최장인 나흘째 국고채 내다 판 외국인 '이유는'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785132720.0,
         "tag": null,
         "first_seen": 1785135642.887549
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xVTQ5V0VfSVgzQ1BYSGRaS01MV0k1SFJHM1R6QWRyUkpHLXg4SVptYlFwSDVncmtNTVktZTlUSm5rU0dSdmJvUTMzbFpEcFc5WGR2ZzF4WFhYc00xYnBVTg?oc=5",
-        "headline": "[IB토마토](크레딧시그널)BNK캐피탈, 자동차금융이 끌고 부실여신이 발목",
-        "summary": "",
-        "source": "뉴스토마토",
-        "published": "07/27 14:44",
-        "published_ts": 1785131041.0,
-        "tag": null,
-        "first_seen": 1785133003.0272012
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3Q1RjEtdlNwWjVxZkpHY1NDNmd6Yi1TUWxYMzNtT3l3UGx1NW84X2c0TnNCR1VGN01IbkMxRFR6MTBEY3dOU1M2c3YwVmlxTklKY0lmU0NtREM5X1NycG5tdS1Ia0h4Q1ViZjNoVG1KNDBUZ0NVeUlnR09ab3ZzdGJubjgzOTkwdGpjbWdrSHc5VUxJMUlUVg?oc=5",
+        "headline": "8 Words From Fed Chair Kevin Warsh That Signal Where Interest Rates Are Headed",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "07/28 11:17",
+        "published_ts": 1785205050.0,
+        "tag": "Fed",
+        "first_seen": 1785205833.7394478
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3U3VISFJFb2UtMkpLM2lKS3U1VDhYbnZNV1NoajQ3VGU2X0txeVYxV3gzU3F1MmtDaDBfSnpXTGJ3WTVTMWkxaEVTQnd5cEw2V1FN?oc=5",
         "headline": "연준 금리동결 확률 62%…\"깜짝 인상 가능성도\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785162360.0,
         "tag": "Strategist",
         "first_seen": 1785184239.0397768
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVFlFU2VZeHJqRUcya0dMS3BYNHpGOUFqWjJTX1hRYVZvRHhlSVdKdVJaRE9YUVFXRVNDUzYzV0V0aWVKSDZXZEZjYzZWaW40TGZacUFSUXY2VnZ3TnRSRzFLOW1FeTd4czhwRnIyODJ0TndkdWtyQXNZdU12ajVmUWJfWG9laDdwdWdQYWhOVTF1WFBxUjdGcWFRYkhSX0tyMEFmTkJKM0lDeWNXMWNKS0Q4V2dxdnhoLXFyUkluSkdBS29YS0g0R2Q1eUwtbFk4?oc=5",
-        "headline": "Investment-Grade Corporate Bonds Are Offering Real Income. That's Not Why You Should Be Nervous.",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "07/27 23:23",
-        "published_ts": 1785162221.0,
-        "tag": "Global",
-        "first_seen": 1785162642.9350076
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 11:15:55",
+  "updated_at": "2026-07-28 11:30:54",
   "yields": [
     {
       "label": "3년",
