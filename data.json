@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NRDEwaVNFcHdHQ0ExNlNIRGhQQ25jWGNpcEFnTV9ZRE1DSXRCSWw1NElFUmZDYTBNbkhBT1RMTEtsUmpKcS1pUHN2cmxNMXFrZVF5MzlhSl9XOXBtN2tPZjJtT3dabnZacnR4Tg?oc=5",
+        "headline": "신한투자증권, 연 3.65% 중개형 ISA 특판 RP 2차 출시",
+        "summary": "",
+        "source": "뉴스락",
+        "published": "07/28 11:45",
+        "published_ts": 1785206707.0,
+        "tag": null,
+        "first_seen": 1785208525.4382608
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Q2JtM3hHaWhLNi12X0VaaEhubHVVaFU1UE96UUJDdmo0TWtXb0htdTJGX0Qwbk95R0NxQnBBcktkZ0haNWJZQWNnQWpJVk5kaGfSAVNBVV95cUxNZGMwampTZjRVbm52aWZGRXpjaHlHYmRZdUpIZVZ2UG1wNFRKVDhVNlNJQWFwbXBNSE5naWl5eEJYOFJVR0hDVTA5N0V3NTlOVDJDaw?oc=5",
         "headline": "AI 투자 불안 커지나...빅테크 CDS 프리미엄 줄줄이 최고치",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785138333.0,
         "tag": null,
         "first_seen": 1785140126.8835886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SUExfRnUyemoxUnhWbWx2MFhXcDE0ejRqaHdLTUVKSFVLMWdWby1oemFlOGRmcVJqRE1tNXpsdnFacjdwWGtHTnRWREhYenZraDVhUDJwNXpoWW1PQjFBNFh2QXUxQTQ3Rm5Ja1ZFeXI1UEJ0Mm9sQ2RR?oc=5",
-        "headline": "정몽진 회장의 KCC, 회사채에 1.4조원 몰려…시장 신뢰 재확인",
-        "summary": "",
-        "source": "로이슈",
-        "published": "07/27 16:31",
-        "published_ts": 1785137475.0,
-        "tag": null,
-        "first_seen": 1785139239.312108
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 12:01:09",
+  "updated_at": "2026-07-28 12:15:51",
   "yields": [
     {
       "label": "3년",
