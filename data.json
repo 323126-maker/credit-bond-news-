@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5HeW5IQzhFYnJ4MjBvc29LZUd5NWlFSWhLY0VtbzYwTFpySjVBTDdPZEtYUnJLUDRFdUhoTEprazg0eGR1aG1hbDUwQW1lS3lKcWRFdnpYeDVjNFlodGh4ZnhjWXNHaF9VZ0E?oc=5",
+        "headline": "한국증시 흔드는 엔비디아 '순환금융' 논란...채권시장 경고음",
+        "summary": "",
+        "source": "대한데일리",
+        "published": "07/28 16:10",
+        "published_ts": 1785222644.0,
+        "tag": null,
+        "first_seen": 1785223837.2457318
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ROW9LaENYZkt4Z05IT1M2dmIya2Q0OHhPV3k1QVlsSy1zaVROV3lOS0hybWtPZzhuZ2kxbTZSVUFFQWdUUGlmYXpjLUVqeVRZR2oySnhRZGJrQlF2UUN2V2NmNEctM3hh?oc=5",
         "headline": "현금 쏟아지는 SK하이닉스 시중 카드채 싹쓸이 채권시장 경악한 역대급 자금 몰빵",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785145353.0,
         "tag": null,
         "first_seen": 1785154529.122855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZV9IYjZUT0RFQmhhRlpFYzZESk9WaGpqdmZjM29Rb0NtQi03VGpnT014Z0pfWHJSc2RPUl8zc1BmcWNDZWkyMjFUNlZRUVBtYUZpSG94V3gtVk82ZTJWODZXeGtKRF9TQnlnTERvRm8tWFYzLXZsU3lxOE80clBKVVA0aw?oc=5",
-        "headline": "미국 IT 기업들이 14만 명의 직원을 해고했다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "07/27 18:35",
-        "published_ts": 1785144906.0,
-        "tag": null,
-        "first_seen": 1785145522.4917517
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 16:15:58",
+  "updated_at": "2026-07-28 16:30:57",
   "yields": [
     {
       "label": "3년",
