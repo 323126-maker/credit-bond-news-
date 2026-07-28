@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQld2YW1tcUotMHlRQ3lkZWRDZEhoc3lLbUVtMGJwLURHTktzNUdFeUg0dEtmYmg2Q2VuZGZ4TDE1M0tvTUxoYVZ3dVlMYTVqQXktRWNFSU5HdjBCUHljckxVcDZJZDRfcmpzcTFRTnnSAXRBVV95cUxQUjc4QUhfSG5BSVpodnYwckQ0NDdSM2FmcUNWeUVXZGs0WlFxR3FDenBONEtqaVhZWTFlUEdTR0t6QTFHYTRSSUJuMUNIOVdzLTJTSzhkcnRQc2JGUG4ySE5IWERpQkgxZUVNMFIyMjdXc0NBSw?oc=5",
+        "headline": "달러-원, 1,462.50원에 서울장 마감…5월 7일 이후 최저",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/28 17:31",
+        "published_ts": 1785227482.0,
+        "tag": null,
+        "first_seen": 1785228331.7997131
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xZUM5UVA4TzZXSHR2aEpNeVByQTVmYXNOQjhLOEJVTTJUTl9VaXFKUEJKelBFWXUyRUtiRWdwbHZqODBudkNvNlQ2RzZua2oxT2RSdDlWUmRxRmhqWm9sMjg3UTZFMnFzYWQ1SUdNQ3NxUQ?oc=5",
+        "headline": "정부 7000억 지원에 석화업계 ‘숨통’…신용도 강등 멈출까",
+        "summary": "",
+        "source": "마켓인",
+        "published": "07/28 17:24",
+        "published_ts": 1785227059.0,
+        "tag": null,
+        "first_seen": 1785228331.7997131
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95OFpFdlN2MG1YUVJfSEFwMWpWZnNWcURkb005MjdCc3JSRGt3UTA4V08xTUhzZVRsd3Z0Rkoxb29ndGVNTTZjV1BYRk1WVjE5cWpEZ2ZWbG5fWXFfSjFBNzhmNmVGOEcxSVNNcHNLU2VMTlRW?oc=5",
         "headline": "[채권마감] 이틀째 강세, 지난주 약세 다 되돌림..유가 하락+주가 폭락",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785157503.0,
         "tag": null,
         "first_seen": 1785158126.2408054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsZ1owT05aNjJNUk9uTUVNdWE3dkNheWM4X1g3bXhWbFFZVlJUXy1RX2ptQURmNU9FOXlnSWU1ellKSkFZTHhoU0daUnJkeVFQZXVhQXlqaER3S05wYmZLdFdGWEJUdWMtMlhVZkJMczk?oc=5",
-        "headline": "S&P, 성장 둔화 우려에 방글라데시 신용 등급 전망 ’부정적’ 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/27 21:11",
-        "published_ts": 1785154260.0,
-        "tag": null,
-        "first_seen": 1785162642.9350076
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fLUJYNGxtV2JsMndJcFBVYzJyTWRYaHZDQ0JZN1pDTEVaNXFnWWRxQkZ2aEtxUF9Sd3U1eTdadTVWd0Vrb2JzRmZHcnJGOVd3eG1xLWtjaVVKRTlkT1oxT0RjZUo2MEJKT2VKa3B1WGI3dw?oc=5",
-        "headline": "회사채 금리 2년 8개월 만에 최고…우량채만 ‘뭉칫돈’",
-        "summary": "",
-        "source": "마켓인",
-        "published": "07/27 20:44",
-        "published_ts": 1785152662.0,
-        "tag": null,
-        "first_seen": 1785153645.131983
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 17:31:02",
+  "updated_at": "2026-07-28 17:45:56",
   "yields": [
     {
       "label": "3년",
