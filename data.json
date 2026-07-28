@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcWMweXc1aF9XUmZad2JhZ2lGNnJUaDhYN3hGSl9RS1dYLVVLNmF0NnE3RktxR25IeHBxUEVBQ2pudkcyZ3RTTjZic2FnSjBFRml6VDNzLUx4cUE0a3JJN1ROakZSR0JUYjZyYjlUajJvMmx0TC1QZUF2WjFIejJvTDhZV3I4eWdyblRnWTA5QnFUbDJ5ZlRMSFh1ejlDTlN0S29QLXVtWTg?oc=5",
+        "headline": "Why Kevin Warsh Thinks the Fed Talks Too Much",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "07/29 02:30",
+        "published_ts": 1785259809.0,
+        "tag": "Fed",
+        "first_seen": 1785260729.9260807
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnRtNjZfVjd0YkhpMGRfMExHMkk5UlBaRzZHSXZjc3ZvaXh0YlJ4TDRLSnFrZ3VQOWJIakJlRW1laExNTF9iX2pnbGI4WmhaTlV4YWVtT3hMWEpiM2h4Wk5rNHBqQS1pREMtZU5PRGlpVThtTnlBMTdKLU9HOE13c0pyV0ZrSDRlY2YtSGc3WE43MUZySkc5YTdWMmlMVVl6UEVoMTJ6amtobUU?oc=5",
         "headline": "The Federal Open Market Committee Meeting Starts Today: Here’s What To Know",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785226200.0,
         "tag": "Global",
         "first_seen": 1785227439.656425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOejhOM3dFaFE5N2dOSDV0MzdhdWZwOWRYbGlqVFZ2cTE2dHQtZUJ1alpYUTJ6S0hIdklJdlFZZnFkQzk3V3NtSGktajBObVdURGxwWUY3dEphNnBsY1V4SEQtX056WWJmTHlNaFNXb2tWQ180dXEtVWlqOGh4N25pQWhmcnpkamZ2bGJzbWZNVnp0S3JHaUdtdlpMeHViSWctb040U3ZXQzRDWVlJQWFZaGNlQUdPaW5QZ2p6UEhJbE1BVUg0SExGM1hiS0kxOWdMNnRsbnNIZmI3UXZ6bFlVMg?oc=5",
-        "headline": "London open: FTSE gains despite Asian tech selloff; Unilever jumps on results",
-        "summary": "",
-        "source": "Sharecast.com",
-        "published": "07/28 16:53",
-        "published_ts": 1785225236.0,
-        "tag": "Global",
-        "first_seen": 1785237333.72895
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 02:30:56",
+  "updated_at": "2026-07-29 02:46:00",
   "yields": [
     {
       "label": "3년",
