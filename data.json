@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fLUJYNGxtV2JsMndJcFBVYzJyTWRYaHZDQ0JZN1pDTEVaNXFnWWRxQkZ2aEtxUF9Sd3U1eTdadTVWd0Vrb2JzRmZHcnJGOVd3eG1xLWtjaVVKRTlkT1oxT0RjZUo2MEJKT2VKa3B1WGI3dw?oc=5",
+        "headline": "회사채 금리 2년 8개월 만에 최고…우량채만 ‘뭉칫돈’",
+        "summary": "",
+        "source": "마켓인",
+        "published": "07/27 20:44",
+        "published_ts": 1785152662.0,
+        "tag": null,
+        "first_seen": 1785196848.266617
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aZ1liTnNQemNmdHlNM3Rwb2RuODVCWXNycl9FX1RsMlRFTWZMSzVZYXRiYU1Md2UzREptMVZVSzZSM1FZOVJwN1k4cGhjc3d4U0pRSERUNXV2TXhQbHZz0gFTQVVfeXFMTjJkMkh5dnN6Nl9YdFpmZmNxME9leVdjcVFlU1JvU0l4b0Zra0RybDQ2WkRZQlNXQ19uTHhHdk1IckgwQnhkMklERHZwN2puZHEtbFU?oc=5",
         "headline": "청년주거 해법인데…고금리에 물건너간 초장기 고정금리 주담대",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784764876.0,
         "tag": null,
         "first_seen": 1784765726.6776264
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnN0twQ0VRRzNoa2JBbDN6R2tHY1FmUV84b1dSaWNtVGRGUVIzSk5rYWE5SEJXdmlXTWZLRVZORU5lSmxncklYWllTNTgwR2VKS3dabnVPUmJzWG8tX0xjWA?oc=5",
-        "headline": "경남도의회 기획행정위, 2026년도 제2회 추경예산안 심사",
-        "summary": "",
-        "source": "메트로신문",
-        "published": "07/23 07:34",
-        "published_ts": 1784759669.0,
-        "tag": null,
-        "first_seen": 1784805324.686917
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PNG41V29COHRzRVpscHZmZzJsQ3QzOHFxUERtaTNKOTBVM1BDRzRFX2JmR1otajlYV256ZFRwNEctdTNTaVhaazFjMWEyb1JxRTV1Q1ZZVDlYdDk5RnVLYjFiNWdRV28?oc=5",
+        "headline": "[데일리 머니마켓] 미-이란 공격 중단…국제유가 8% 급락",
+        "summary": "",
+        "source": "빅터뉴스",
+        "published": "07/28 07:58",
+        "published_ts": 1785193121.0,
+        "tag": "JGB",
+        "first_seen": 1785196848.266617
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPQTZmblZJeVdiZHFtV1ZSVHc1Z2dIWGVDZlgtdVNKVUZ0Sl80YTNfZUx3OC15Nm5RV2wtT1plb3FQRm8yY25WSXo3VG5xbUZBM3FPNm4tak5nQ0JpeWtyemRsMFdwdlBKQ3JsN1NTT2NlUERKcFNVdFVpc1JjZ0ZyZVBFeGRMV1BaU1FkcHk3cHdhOXk5UXl1aGQ3em9PeVJnRThNZGVqTy0?oc=5",
         "headline": "EMHY: I Think It's Time To Average Out (BATS:EMHY)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785158775.0,
         "tag": "Global",
         "first_seen": 1785159039.2287276
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR1EydHJJUktRZlBvZW9ONjlka182UTludjVpUndYYzhweXJ1Qlh6OGZERHp2YTVrNWk5cVhiV0tSU0g0aU94YlIwT3EtVDJOakZ3QmVUX2RBbXJIUWZZT0RBeGotLVpkWFc2bG91RnlmbzdCbXBGRVNmWjJscExTcGVTN2d6Mm9QVHNxMTJqQ2cxam14NHBwT3ZVTGJGZw?oc=5",
-        "headline": "The Fed’s New Chairman Faces His Biggest Test Yet",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "07/27 22:13",
-        "published_ts": 1785157997.0,
-        "tag": "Fed",
-        "first_seen": 1785170727.7213237
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 08:45:53",
+  "updated_at": "2026-07-28 09:01:12",
   "yields": [
     {
       "label": "3년",
