@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVDFxUE5pcU9JVTk4djVhRHhxajJGdXo3Y0xPZFVYbDNyT2trZ0Z5WTY0dWlKb1dCVGFoSmxiTF9TSk1nc0hMeWJOVUNrQkVuYTJFZXZGb0RnUkZ0R3puVm05RWhwVDNsV05VMTAyQXA2WlR4SXhxcXRRbW9qWDFrM2p2NzlNX3lidmQ5VUl3OGpFdnVyN1lxaDBOSzFQZERScmRFWA?oc=5",
+        "headline": "John Hancock 2010 Lifetime Blend Portfolio Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/29 03:38",
+        "published_ts": 1785263880.0,
+        "tag": "Global",
+        "first_seen": 1785265242.742693
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdDh6Y01yVFVKS0RueW9RcFluSzBvVzVXNlMtRnhIamlJNTJ4amJISTctLUFTeWhCQ2FGVFlCNVc3QjQxREJwYl9heTVZa1B4dEc5X0I3dmwwdHltM2U0VllwejFodTU4ckVfOXJVdXFqY1ZIeWhhajJsZFVsUERkOE9MNU5mQ1BZLWRaWHM4SndsNzdBa0o2b3BFZ0cyZDAxRXBRUXU5cGdLSDQ?oc=5",
         "headline": "Investors are bracing for a hawkish Fed meeting. Here's what it means for markets.",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1785250800.0,
         "tag": "Fed",
         "first_seen": 1785251737.6268587
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPczRrYVpRbzlySHYxTWtsUkMzaDBWRkxjUzlQeEpwREVadUxZQ2FqVHYzNURrWEJRQ2wwcXFoa0lIeVFlb3dZMzBLR1NnRjBQeWpTSFRLQ2hWR3pCTU1IbzhpVkV0V1ZEZW1rT09CR2lKX0h0RGFyZGVNNWxZSFFBSHVpM2JKM2ROWjlvMUc2UTRFbnU4ZGRyVzhCY2tXWk8ycTY4d09CX0tURjRZZTVpMGJPaw?oc=5",
+        "headline": "US Fed begins meeting with markets expecting steady interest rates",
+        "summary": "",
+        "source": "France 24",
+        "published": "07/28 23:45",
+        "published_ts": 1785249913.0,
+        "tag": "Fed",
+        "first_seen": 1785265242.742693
       },
       {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTG52ZS1nTGprT3JCN25iaU5zb25XZnN6c1FfYTdlUUZiNUpxY0hsdnFRTEk4eWZ3WDFqTlBfTzRyaFlaUzVQcVRncFhrc2MtbFE5X0R4M3p5aWFWY09CR2k2d2RHUjQ2SHM3Rzk5VnZia21jdXlCS2FVc2F2ZnJTeVZGN0Ffek94UWdnQzg4YlNVcGoxY2pQaTIzVkVtbEtMdlI5OHVWbXVRcGRVd3RCZnd5b1dWVjhYZFZacDh0SXNBYUV1?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785231600.0,
         "tag": "Global",
         "first_seen": 1785231929.9702392
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3Y2OGdHeDZTeFR3TkhNaWU5MW1RWjhrZ1RKeEJETnVLRWhqeUNlQ090b2t2bmNvSEV0SmxOdDcxeFVFNDJ5UWVoYThfZW9JdmRvc04yNTM0dUFyNWVUd2NmcXc2eU1OVVgtTkRVdXdtQ3pWaHVOUDJYRUxtRWZEc3UtSjJscHBjREpaczFoRzJLYU5QZWl5UjZtSQ?oc=5",
-        "headline": "2 Under-the-Radar Dividend Stocks Yielding Up to 12.3%",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "07/28 18:31",
-        "published_ts": 1785231063.0,
-        "tag": "Strategist",
-        "first_seen": 1785237333.72895
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPcktZN0FfaEQ3TDdvdnFqT1dXcGFONUJaaWZXdHJ1cXpGcFRNQWsycnRhd04zVVF1cE4tQWxWUWhZWmdraERnRkpnWEtzWXM1bldWQQ?oc=5",
-        "headline": "Big Tech CDS Hits Record as $244 Billion AI Bond Surge Stokes Market Stress",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "07/28 18:21",
-        "published_ts": 1785230496.0,
-        "tag": "Global",
-        "first_seen": 1785231042.3300145
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 03:45:46",
+  "updated_at": "2026-07-29 04:01:03",
   "yields": [
     {
       "label": "3년",
