@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWUJQMXlYZzZ4Wl84RnBRblFXYzExTFlpT1NXWGt5VDhFZmZUM1dJYlgwcThHSEVhd0kyTjFzblp5U0FvcExLb0s0N2c5azNjcGM0djRscUJHd9IBWEFVX3lxTFBXXzJmV19iR2UwYmlVMmNScmpqRjJCRmVyYmJyWUZlLVg4a3BaV0ZUR0tNb2cybVI1eUM5b3ZPT25EeXRKdy1RRTlpNHFLdDdXb2F1eTNyMW8?oc=5",
+        "headline": "AI 투자 경쟁에 부채 부담 커진 빅테크…신용시장서 경고음",
+        "summary": "",
+        "source": "아주경제",
+        "published": "07/28 14:09",
+        "published_ts": 1785215365.0,
+        "tag": null,
+        "first_seen": 1785215723.23662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSnFCeEE3WDlSb3JpNXRiVExqY1JMNl9GOG9mcFpxWkxRQzI4TldBQ2dvNmR5bzBXUjZhYllfckRxYjYzX2YyOEpBR2lNanZNVnlzZ3kzcFRQRE5VQ05oZDdFb2ZIeFdjenhua3liZkFuTlN6aUpVbDc3dWV1MXVVUQ?oc=5",
         "headline": "\"AI 투자 급증 불안\"…빅테크 신용 위험도 최고치로 치솟아",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785141738.0,
         "tag": null,
         "first_seen": 1785142839.335765
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBnZno4dFR5XzVlUGk2RmZSR0VWUHJITXZVcXc0b0FROEVoQ2R3OGsxNmNHcUpFdUMyTGdkUjFJMVRvRjRNVF9rWEJxMGg1TlItYThBVEV6T2tjaThPQW9KNDBwb0EwSE9y?oc=5",
-        "headline": "[재계줌인] 정몽진의 '선제 재편'이 만든 신뢰…KCC, 건설 한파에도 회사채 완판",
-        "summary": "",
-        "source": "데일리팝",
-        "published": "07/27 17:36",
-        "published_ts": 1785141395.0,
-        "tag": null,
-        "first_seen": 1785141926.0199442
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 14:00:57",
+  "updated_at": "2026-07-28 14:15:45",
   "yields": [
     {
       "label": "3년",
