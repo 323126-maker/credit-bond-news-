@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1QclEtMDJOZ1RzQU9nSGpTdmZUdkJuY0daQ054NlY2Rk9manZ4ekE0YTlZU0k0S2I1T2xfM1lTeERYdF9qY3FvdHdoSzRKVUhjelBma1duRWg?oc=5",
+        "headline": "워시 연준에 예측 손놓은 채권시장…\"美장기금리 6%도 대비\"",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "07/28 11:59",
+        "published_ts": 1785207554.0,
+        "tag": null,
+        "first_seen": 1785209429.8275225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5NRDEwaVNFcHdHQ0ExNlNIRGhQQ25jWGNpcEFnTV9ZRE1DSXRCSWw1NElFUmZDYTBNbkhBT1RMTEtsUmpKcS1pUHN2cmxNMXFrZVF5MzlhSl9XOXBtN2tPZjJtT3dabnZacnR4Tg?oc=5",
         "headline": "신한투자증권, 연 3.65% 중개형 ISA 특판 RP 2차 출시",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "네이트",
         "published": "07/27 17:01",
         "published_ts": 1785139260.0,
-        "tag": null,
-        "first_seen": 1785140126.8835886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfM2FZMFZvbjhYcGFmOE5xSjlmb1QyNV9uY1J4SjJUaFdaYTMzV2FfNTBDWHFqUnZoalJTU3FLODdreHFROXhMWHlBQnE3M200MWc?oc=5",
-        "headline": "국고채 금리 일제히 하락…3년물 연 3.865%",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "07/27 16:45",
-        "published_ts": 1785138333.0,
         "tag": null,
         "first_seen": 1785140126.8835886
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 12:15:51",
+  "updated_at": "2026-07-28 12:30:52",
   "yields": [
     {
       "label": "3년",
