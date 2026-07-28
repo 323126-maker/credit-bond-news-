@@ -22,6 +22,16 @@
         "first_seen": 1785231929.9702392
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUbUZmWnZqTXJPVEZvU2VJZnV5WnU1QklpWFUzV3M2QzhPUXBCUXRkek15empLblJJQnlBZHBEYmpaN3RXXzVoVnZjOXFidWF3X0Z0QjRyaUNCMTJEMk1scUVIN0NMNUd6TTVZM2dzMk7SAXRBVV95cUxQQ0kyRFY0RlBpZW1sT2h2ZFhSU3czd3VPVEJWOHBsM1RTZTRFbjRITzZIVzEwcjlOOXNubmZyck9jYi14OERWelZiMm40aE5QdFRNeThLSUJxdmNWUG5OamJyajBaV0ZJc18xcGo2SFhlU2Zlbg?oc=5",
+        "headline": "FX스와프, 전날 급등 되돌림에 하락",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/28 18:04",
+        "published_ts": 1785229498.0,
+        "tag": null,
+        "first_seen": 1785238237.0211174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQld2YW1tcUotMHlRQ3lkZWRDZEhoc3lLbUVtMGJwLURHTktzNUdFeUg0dEtmYmg2Q2VuZGZ4TDE1M0tvTUxoYVZ3dVlMYTVqQXktRWNFSU5HdjBCUHljckxVcDZJZDRfcmpzcTFRTnnSAXRBVV95cUxQUjc4QUhfSG5BSVpodnYwckQ0NDdSM2FmcUNWeUVXZGs0WlFxR3FDenBONEtqaVhZWTFlUEdTR0t6QTFHYTRSSUJuMUNIOVdzLTJTSzhkcnRQc2JGUG4ySE5IWERpQkgxZUVNMFIyMjdXc0NBSw?oc=5",
         "headline": "달러-원, 1,462.50원에 서울장 마감…5월 7일 이후 최저",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785182893.0,
         "tag": null,
         "first_seen": 1785184239.0397768
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FUUVvZkROdnNhMWZlNk1ITEh6NzRrTTNVWTMyMmRPUktEaF8xNVFYTVQ1amhkV2ZTcWZEM3VXR3Q5VGRWNi1acWZXY1BYbDJZMFlN?oc=5",
-        "headline": "[채권/외환] 유가 급락에 미 국채 수익률 하락…FOMC 대기",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/28 05:00",
-        "published_ts": 1785182400.0,
-        "tag": null,
-        "first_seen": 1785190616.2619832
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1lHaHNxTVNiU2Jyd1hkbzYtLThvTWgyLUplN1ExUS1VRHJsdzhBaU5ONV9maWxMNlpYY3VaWnZvc2pMdXBOeDN4ekZ0Z1lQU25EN25nMEVSejRfSlpXMi1uQzBBN09FYlItSGJ3dkZld3M2a3RNS2pwV1llNVVlRW1BTC1lWG1zZGpGMFZibUpGTFdXeGV4amV2TmRSMVk?oc=5",
+        "headline": "Fitch warns AI market correction emerging as major global credit risk",
+        "summary": "",
+        "source": "WSAU",
+        "published": "07/28 20:15",
+        "published_ts": 1785237359.0,
+        "tag": "Global",
+        "first_seen": 1785238237.0211174
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORzVNc2dycEJxc1l2UzctOFVzYmMxX0oyYVp4Tm1PYmI3bHJQcklaaU9oR3NoaEtVVUt1Y0dCYndiMUpzMGxOcVVNbGVKV3FibE1xT1pOdVRQY0xvZVRUVGdJTFgyZ09fbDV2MU5iOVo0Y3hfWGR4RHZrekliMldQWDJuSElXaldBVTRPVHNvS01Mcms4LXpiOEwwMC1BWFF1SThIZ3c0V2ZDeFNqWk5vbDYxQm0yOVJYQlh4OQ?oc=5",
+        "headline": "HYG: 3 Reasons To Sell This High-Yield Corporate Bond ETF (NYSEARCA:HYG)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/28 20:15",
+        "published_ts": 1785237300.0,
+        "tag": "Global",
+        "first_seen": 1785238237.0211174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYzhKcTh6QzZySElwMEtHYks5WXdoMmFMSllMNmtiNHlUZkZLUGpoTnhPOEg1aUw1RkZVTjJET1cxVXU1aXJMUG9LUUZHS1VmY3J4U0dwWFpYVGJaTWlwWjVRV0tNT3didktQV3huU0RJSlIwVUVjNl9lRnlrSmRuTVlQdTBjQ0w4RGpuemJCTGpzTFZTOGVNeFVCTEpXNkVmNXlxQTFWYkNZaDU1ekNRb2QzcHRYQVF1dWU4b0FQS2NSSzdLbHNDQ2xNUEZ0eWJpaWlUWS1BM0RXRHMtTV9vRERieks1dG5ONDRCbmNaNGEtQ3ZWZXZsNWNDanpSUQ?oc=5",
         "headline": "S&P Global to Acquire Majority Stake in Agusto & Company Limited, Expanding Ratings' Presence in Africa's Debt Markets",
         "summary": "",
@@ -1790,6 +1810,16 @@
         "first_seen": 1785230131.0795648
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWF9PQzM0M0V3Mmx0Uk9fV3RIWkJIWkg5U2poRTZzaEhGaVZ1VW55cEg5Rzc4YnlaaGFyRnhaaE9Db0VIZjBmR3hnNmdianhqeGZfZFFYVFZ5MHVmdE1TVVkyRHZfUjFHSVZrcFFLUmZfQ1hFUzJwOEFQZTBuejFiOEtBcVhoekZRREo3cDFzcGVwRXA1Q1hJNlREdEhZY1JEQXM0?oc=5",
+        "headline": "Federal Reserve Chair Warsh Holds News Conference",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "07/28 16:07",
+        "published_ts": 1785222469.0,
+        "tag": "Fed",
+        "first_seen": 1785238237.0211174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaVWRnM0lmeU54blk3WF91czVPQ01xZ1NkeGptY3JJRzNCUDZjQi1JUGdveG9UZG1Ib2czYlN5bE9hNWxBOU1Rd21ZX1NMcjF4MW1qNTYweDc4S2pSQ3hkSHVDbFdEWEJGc2wyVmRRdDRQN0c0SldlbTg0SFN4Zw?oc=5",
         "headline": "Bank of Japan preview: The slow path to higher rates",
         "summary": "",
@@ -1920,6 +1950,16 @@
         "first_seen": 1785222932.2710533
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5peUZ0QVc0N2xYNlZ6SkJJVTE1R1ZjN202LXgyS2E2SUVLZm1VOGlhZkluZG1FeVdmTUdnU2QtRVdHWjAzUVhUWFZDV0pMWkxtSkZ0VnVfN1NCUVVNOHVYNlM1bHZHQmJrcV9TOWxn?oc=5",
+        "headline": "What would a rate hike signal about the new Fed chief's MO?",
+        "summary": "",
+        "source": "Axios",
+        "published": "07/28 11:29",
+        "published_ts": 1785205742.0,
+        "tag": "Fed",
+        "first_seen": 1785238237.0211174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3Q1RjEtdlNwWjVxZkpHY1NDNmd6Yi1TUWxYMzNtT3l3UGx1NW84X2c0TnNCR1VGN01IbkMxRFR6MTBEY3dOU1M2c3YwVmlxTklKY0lmU0NtREM5X1NycG5tdS1Ia0h4Q1ViZjNoVG1KNDBUZ0NVeUlnR09ab3ZzdGJubjgzOTkwdGpjbWdrSHc5VUxJMUlUVg?oc=5",
         "headline": "8 Words From Fed Chair Kevin Warsh That Signal Where Interest Rates Are Headed",
         "summary": "",
@@ -1966,46 +2006,6 @@
         "source": "WSJ",
         "published": "07/28 10:00",
         "published_ts": 1785200400.0,
-        "tag": "Fed",
-        "first_seen": 1785201330.1620157
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHc2SE5CemJqN2dCOUlJeTFXZEtkMFlMSnZJSnFocTltSjZpLS1fajlkRGVpeFJpeHhlVjd1cmpNM1dFa04yUjBVbm92c29TUlpNRlN6OEdnZllBQWxUajRELS1NV000ZGZSN1doVC03Z0MzWm9xTzlYbjVhbFEtbFQtRmtPNkZsMFp0NTJiZzNjdXF1bnhIdmJzZllfNlV5bWFIWVlrRjI1WGJtcXg4ZEln?oc=5",
-        "headline": "Kevin Warsh and the new era for the Federal Reserve",
-        "summary": "",
-        "source": "Silicon Valley Bank",
-        "published": "07/28 09:57",
-        "published_ts": 1785200224.0,
-        "tag": "Global",
-        "first_seen": 1785214837.8435957
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUTc4VFp5bXBqdTl5ZmltbUYtemNtOE5pS21SV2hva2pKeWhQX3hBN3F6clVWU0wxOVQ0aU1KUDlkM0lYY3NnQUMweXpfVkptWWN3?oc=5",
-        "headline": "시타델증권 \"연준, 깜짝 금리인상 가능성…워시 신뢰 높일 것\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/28 09:38",
-        "published_ts": 1785199080.0,
-        "tag": "Fed",
-        "first_seen": 1785199523.3647916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5jQVdkbFlkMGprTHdUM2RnRFFJODAyYTBPRzZTd2VnOXk2U1BnWkZmR29KT3JUbDRhN2tTczJLY3FaV0lEVGhJWTU1aVk1alRpdllj?oc=5",
-        "headline": "시타델 \"연준, 이번 주 깜짝 금리 인상 나설 수도\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/28 08:59",
-        "published_ts": 1785196740.0,
-        "tag": "Fed",
-        "first_seen": 1785206723.381335
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYkhqZGszZldHdjAtaEhkTE9oc1hPemg2amg1cUtNRnhJUTFkbHd2U1pBMWYxblVBcFJjUHJTZzRPT2tiNjFmRHFTbTVfUDQ5Y0JGX1FINDhacFdoQ3BydzczdGg5Yk8tSTNjc3p6VFNndzc1b1YxQkhGUkFMaGpHN0piQzJoekZ4c0Q0SDRIMXVLTUZiTDZOUnJ5WlJGQUljLWxmUUpGRzdxZGhMY2FGVnpYX0_SAbQBQVVfeXFMTmJIamRrM2ZXR3YwLWhIZExPaHNYT3poNmpoNXFLTUZ4SVExZGx3dlNaQTFmMW5VQXBSY1ByU2c0T09rYjYxZkRxU201X1A0OWNCRl9RSDQ4WnBXaENwcnc3M3RoOWJPLUkzY3N6elRTZ3c3NW9WMUJIRlJBTGhqRzdKYkMyaHpGeHNENEg0SDF1S01GYkw2TlJyeVpSRkFJYy1sZlFKRkc3cWRoTGNhRlZ6WF9P?oc=5",
-        "headline": "Federal Reserve's Delicate Dance: Inflation vs. Credibility",
-        "summary": "",
-        "source": "Devdiscourse",
-        "published": "07/28 08:30",
-        "published_ts": 1785195042.0,
         "tag": "Fed",
         "first_seen": 1785201330.1620157
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 20:15:57",
+  "updated_at": "2026-07-28 20:31:09",
   "yields": [
     {
       "label": "3년",
