@@ -92,6 +92,16 @@
         "first_seen": 1785227439.656425
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94dGFkTU55bnl6QTNEX2VHbmtjOHkxM0dSOFlNQ1dGcU5EdkdrVXZaRDdfSEUzOExwLUNuZnhOb3RHOWVqRzBQRmZqb1E1b3g2eVE4VVFsYTI?oc=5",
+        "headline": "NH투자증권, 5천억원 회사채 발행…SK하이닉스가 인수 관측",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "07/28 16:52",
+        "published_ts": 1785225120.0,
+        "tag": null,
+        "first_seen": 1785234633.2017274
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yaGNxdDU3Y2I4aXNzMkVGUHB1NXp3bXRDNl9SNTBNUG1BemJZTHZOT1VxeEl3OUJyNTE4WFVFQVE1Q2RJdGhSNU1sYk5uSWl1eVE?oc=5",
         "headline": "국고채 금리 일제히 하락…3년물 연 3.829%",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785170201.0,
         "tag": null,
         "first_seen": 1785178844.964015
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZdTUxd09iTTd4TjU0R3NxQS1JSHFicEFNV3lKWHBKV0VBZ3RjZGJBZHJjS2NXOUdUbGV6aTg1WTNKMWwzMi1ldFlYQ2FXTkpIYTZGdXpqc3dZbmM?oc=5",
-        "headline": "[딥파이낸셜] 현대 외환보유의 핵심은 달러 확보 역량",
-        "summary": "",
-        "source": "The Economy Korea",
-        "published": "07/27 23:41",
-        "published_ts": 1785163316.0,
-        "tag": null,
-        "first_seen": 1785165328.3005617
       }
     ],
     "perpetual": [
@@ -1720,6 +1720,16 @@
         "first_seen": 1785230131.0795648
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaVWRnM0lmeU54blk3WF91czVPQ01xZ1NkeGptY3JJRzNCUDZjQi1JUGdveG9UZG1Ib2czYlN5bE9hNWxBOU1Rd21ZX1NMcjF4MW1qNTYweDc4S2pSQ3hkSHVDbFdEWEJGc2wyVmRRdDRQN0c0SldlbTg0SFN4Zw?oc=5",
+        "headline": "Bank of Japan preview: The slow path to higher rates",
+        "summary": "",
+        "source": "ING Think",
+        "published": "07/28 15:59",
+        "published_ts": 1785221954.0,
+        "tag": "JGB",
+        "first_seen": 1785234633.2017274
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZ1TkxhcjZBUF83b1NTTC0yMDR2Z2xGZzk1bVRSOUJONno2b3AtRndlN29kR0VvMWVldVFnbUlrekhfdW9LTUw3aGtUQWNpdW1LZy1xc1d4aVhwelFWNVJhTk9CVDI1VndHY0YyMXdnTUttU1lSNFRwaWJURHk4anpRNnQ4c0Nma1ZZNEU5UFNheGxXclc2RVdJcm1GR084?oc=5",
         "headline": "Where the US Stock Market May Be Heading Next",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785190822.0,
         "tag": "JGB",
         "first_seen": 1785213029.9832177
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUZ1eU9IbkxOS3M3ckVSeFJIVDZ0eFI0Mm1RX2ZGSW9HdGlMUnNrYjlOSVcxRDkxZGlIeGV3WUlEbG1xVlpuaHprUEZGZFVzdkp1MzV6N0NmR2xWckpReVltRGNwNlh5ZFRCa09XdERHQlhVSEhKeUtJcll0VmV2ZzYtV3lCMHZ1bF90THNzUWtmSHlJOHBpbFJmbTB1c2E4NEpwMVpyQ2dOWWZZdTNpVXhXWjQ?oc=5",
-        "headline": "Citadel Securities Sees Warsh Delivering Surprise Fed Rate Hike",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "07/28 06:42",
-        "published_ts": 1785188533.0,
-        "tag": "Fed",
-        "first_seen": 1785219329.7974305
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 19:15:58",
+  "updated_at": "2026-07-28 19:30:58",
   "yields": [
     {
       "label": "3년",
