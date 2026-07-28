@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9adzBpbzdKbGxDR2k3YXNJTDhESWh4dURpb051djdnNUYwYUd4SHNCSHhwMzZ0Z0lVVDQ3Nzd5OXR4ckVIYVlCR0MtMkdCbjQtdmJOeW4zWlhPVlpuWGpqNUVwQmNTWVUtR3ZaUWdrRHRybW1vUUQ0Tw?oc=5",
+        "headline": "Fixed Income Outlook Q3 2026",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/28 21:22",
+        "published_ts": 1785241320.0,
+        "tag": "Global",
+        "first_seen": 1785242723.9043224
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOci1uU0VXS3ZfWHp1a01fdEZhaGtCcDFaRjc4UkJQSlNNNVE0RXFyRW91LVc5WFdWeTVwYzFhZzAzbHFHYWt6M0FKQXc1TTJxalRhS0NGeGZNWUN3LVVaSDh4UzdCdHlTd0o5UkFaa0IyZl9rU3RLV21Zc0dtVmJrTXBpVDBxMDU1cHF0VU1mVFhfSWR2VGdaTEU3VF9UaVhiQVdqZXlzcS1taGNzUzlIUGcxeXlKWDJ3TWlzNmRtWElsVV9lR3VF?oc=5",
         "headline": "U.S. yields ease off multi-month peaks as anxious bond market braces for Fed call",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1785233384.0,
         "tag": "Fed",
         "first_seen": 1785233733.4802284
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOckZwUnEtMTFQNmJDSU1EM2duaG5qc0pOeTNudlFxb0NwcklRXy1JZy11VXlPMHpadnFNMEo2ZnptRGNZZlJhRUtwaUozaENuSGQ2NnE1R1hYOGNqRGhSVGxZYXJieXFPVFJCNTNpaWw5SU5tZEJWa0tubzFWekNCcWVyWHk0bDNsUm95UENNa3lSUQ?oc=5",
+        "headline": "Market Minute: Will Warsh be more specific about inflation?",
+        "summary": "",
+        "source": "The Real Economy Blog",
+        "published": "07/28 19:00",
+        "published_ts": 1785232852.0,
+        "tag": "Fed",
+        "first_seen": 1785242723.9043224
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONms2TDlqY2M1NW1mLWRJNHh1d3VTZWxaNXZNVTJqdVBvZXJzODNqMmRJYXpTN2FXNWR1Sk9reWdkTWdzRHdXbVplUWdYTW5WRFpVc3dSLVhOVjg3aHA2a2JZXzhPbDZSMU1mMm44QnA5VWU1N0xYV2pldG9qSG5ISnlUREZxVkpDaDB4c0tvY2gwNmFDZUh3UFlDVUF3b2tyOEE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785205800.0,
         "tag": "Global",
         "first_seen": 1785222932.2710533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5peUZ0QVc0N2xYNlZ6SkJJVTE1R1ZjN202LXgyS2E2SUVLZm1VOGlhZkluZG1FeVdmTUdnU2QtRVdHWjAzUVhUWFZDV0pMWkxtSkZ0VnVfN1NCUVVNOHVYNlM1bHZHQmJrcV9TOWxn?oc=5",
-        "headline": "What would a rate hike signal about the new Fed chief's MO?",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/28 11:29",
-        "published_ts": 1785205742.0,
-        "tag": "Fed",
-        "first_seen": 1785238237.0211174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa3Q1RjEtdlNwWjVxZkpHY1NDNmd6Yi1TUWxYMzNtT3l3UGx1NW84X2c0TnNCR1VGN01IbkMxRFR6MTBEY3dOU1M2c3YwVmlxTklKY0lmU0NtREM5X1NycG5tdS1Ia0h4Q1ViZjNoVG1KNDBUZ0NVeUlnR09ab3ZzdGJubjgzOTkwdGpjbWdrSHc5VUxJMUlUVg?oc=5",
-        "headline": "8 Words From Fed Chair Kevin Warsh That Signal Where Interest Rates Are Headed",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "07/28 11:17",
-        "published_ts": 1785205050.0,
-        "tag": "Fed",
-        "first_seen": 1785205833.7394478
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 21:30:59",
+  "updated_at": "2026-07-28 21:45:49",
   "yields": [
     {
       "label": "3년",
