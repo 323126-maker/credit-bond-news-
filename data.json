@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVDZ1TkxhcjZBUF83b1NTTC0yMDR2Z2xGZzk1bVRSOUJONno2b3AtRndlN29kR0VvMWVldVFnbUlrekhfdW9LTUw3aGtUQWNpdW1LZy1xc1d4aVhwelFWNVJhTk9CVDI1VndHY0YyMXdnTUttU1lSNFRwaWJURHk4anpRNnQ4c0Nma1ZZNEU5UFNheGxXclc2RVdJcm1GR084?oc=5",
+        "headline": "Where the US Stock Market May Be Heading Next",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "07/28 15:05",
+        "published_ts": 1785218734.0,
+        "tag": "Global",
+        "first_seen": 1785222039.78658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxObmVVRzJnUTk0SmdjWEtMa3luS2oyZmRGRWlsTURpYnlJSlphUDhZdXBvakRmOXpFejN4N2RwZmJuVmhYM2IyTXhZbUx3MUROZzN1NVFIYVZ4dG9uMXM4dVA4aUJubnQ0WWpTd0Jyak1aRkdyWmZRZzF5eXh1dWNYOVRzLWotX3M?oc=5",
         "headline": "Mohamed A. El-Erian: Tech stock selloff offsets benefit of lower oil prices",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785180300.0,
         "tag": "Fed",
         "first_seen": 1785182446.724075
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUJsZVh5OWZyVEg3MVdORjBIdkJHc3ZmNEpaZElvWFNQWXpHVUtQTXJvaS00dnBaSEhhVnZQSXlBY3lzYU1XYzlpV1hoOFB2enhHSFlVZUxQNDJMbS1LejFCUG55MkZXek9FTDlmZGR0dUVLcnFhc3NqTG1JQkdwN283cC1LNDdRZnYyWFV0RTF3UVBpZEFfZWNTb0drNVRTNU1pUWljT3ByRWhheFE?oc=5",
-        "headline": "Azimut Fund Manager Bets on Japanese Bonds as Yields Surge",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "07/28 04:18",
-        "published_ts": 1785179936.0,
-        "tag": "JGB",
-        "first_seen": 1785180632.6929662
       }
     ],
     "watchlist": [
@@ -2100,6 +2100,16 @@
         "published_ts": 1785196740.0,
         "tag": "삼성카드",
         "first_seen": 1785197724.581477
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tc2xrQllvYjFubUpDUzMyNFRSVUlOWmZMWGRtSFJtbUlleXZ3QVZhQ2k4dXRXc3d2VWlFZ0t0elYwREFNUVpuX1lpei1mcXMyd0N6UERMN3NHWjVJbmstT1dZR0t6YTlNSDNoOFl3?oc=5",
+        "headline": "DB證 \"삼성카드, 시장 금리 상승에 조달 비용 부담 불가피…목표가 하향\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/28 08:05",
+        "published_ts": 1785193500.0,
+        "tag": "삼성카드",
+        "first_seen": 1785222039.78658
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ZSDJHZ0NleFl3cl9NTVpSNDh5cXk1SHdiY0VoSm0yUDdNRzhTRlhDdDM2UGNlT0dvNllqT2ZqamVhUGEyN2pxbDhVYWJtakNyZzV2eFNmYXltUQ?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1785013200.0,
         "tag": "우리지주",
         "first_seen": 1785023051.293736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHdjFKaGFKS3VZZ01XSThLSFFqYjNnRjFrWGprcGg0Mjd5T1QycFp6QjVMRGc4RlJvekE4bHFIMTdlRXJjOWF2ankxWEJ5OGJCSzFv?oc=5",
-        "headline": "시중은행 막히자 수협으로 몰렸다…'풍선효과'에 수협도 대출 조이기",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "07/26 05:30",
-        "published_ts": 1785011400.0,
-        "tag": "수협은행",
-        "first_seen": 1785013238.8770683
       }
     ]
   },
-  "updated_at": "2026-07-28 15:45:45",
+  "updated_at": "2026-07-28 16:01:02",
   "yields": [
     {
       "label": "3년",
