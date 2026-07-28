@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPcktZN0FfaEQ3TDdvdnFqT1dXcGFONUJaaWZXdHJ1cXpGcFRNQWsycnRhd04zVVF1cE4tQWxWUWhZWmdraERnRkpnWEtzWXM1bldWQQ?oc=5",
+        "headline": "Big Tech CDS Hits Record as $244 Billion AI Bond Surge Stokes Market Stress",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "07/28 18:21",
+        "published_ts": 1785230496.0,
+        "tag": "Global",
+        "first_seen": 1785231042.3300145
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOUXoyQ2hOa0pIQnJZZmdoeVFIaWFKWFJib1owS25xUDRuQjFJak1vX1c3bXhwbmhuaWpHVXhhcEwtN3EwRFlnRjFHeUtwaHlzM1FDbDI4bHVLNVZYb0NrYm14QVZDOV9ldnMyVkxKYm83Zk42QnZCSlVPaUF2UzF6VW5kZzFhXzIxaXFjSGJKZUFvamdPN3R6MUxYN2RjWXY0NS1GWjdoRWFYYmxtbzBHYXZ4d2xmUjBhTXZjOUt4QTlpRkZCU0lLa2p6UE91dDNUSUJyajdWTEs1M2ZubEtZV0NqOURCSVFyWkx4SlBVaHdUZTJ5M1BvMlA2VzM0QW9hT0Y5SVBpZTdhWFXSAZACQVVfeXFMT1ZsR3AxdG5TbktuUEVrQ25iZTE1ZTlud25XMXhUR0w5cXpubS1oLXI0aDA0c2NiOXRWdm1UMmZ1RERVQTBIOE1SX3JHODI1aWwtZ2hNTTAxS3ZOclEwNmhNbDhRcE1MN2J0OFdvZ0d2V0xQSEhZTzJNSnBiNEFvdmhqS1Q5RmNJR25nU0dTTVRrd0JsNUkxMG8wajcweV9fMU9UdXdkV3VuRGVhZVVUemJVTTVVZ3NWVnA5MzZWbUhBSEJqanEtZThGWkJfN2lfbS1qY0FFSWFrenpTVVJVSXY5akVQaWVCZFkwYzNiSVZmOXE0azJnWERXUG5nOG1JMTVUN3d1amVqZmRaek84UVg?oc=5",
+        "headline": "Global Market: Japan's 10-year bond yield climbs as fiscal concerns weigh on market ahead of BOJ meeting",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "07/28 18:20",
+        "published_ts": 1785230411.0,
+        "tag": "JGB",
+        "first_seen": 1785231042.3300145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XSDkwY0luVnFYQkRpVi1OWXJYN2FjLUhlbEJSMGpCWkp5aHFmOXRROEUtLXZYSHFWdGZwOHVuQW1vMVFFRlZSUG4zTld0djlFSk1uZGFGaHRCOHlFdFU2REhjdU9oYkVOZG1ZRjRVcmVCOEdIeXRZcndR?oc=5",
         "headline": "Kevin Warsh can’t reopen the Strait of Hormuz",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785187343.0,
         "tag": "Global",
         "first_seen": 1785216631.7131486
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWFWbzBrREpyYnFHVW5HY1pWQ0FjR0ZwdDdReFRPcVZNT092WVgwTHVnOVpRMlU1QmUxM1lYcHp6YXJycEEwdmJQV0duaG9RbFZnWFc4VnV2WHprSm5CV0FsVWhuc3F0WS1DbkdGWXpzd3U2THoyMlVrSERXU3owa2JjcEthSDh4ajN6T0hxT0pfaEhOamxUOXB2bjE5b0N4T01yc2I1S1BpTDc1Tkp4N1VkazBhTnpMQTJZ?oc=5",
-        "headline": "President Trump Calls for Federal Reserve to Lower Interest Rates",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "07/28 06:08",
-        "published_ts": 1785186501.0,
-        "tag": "Fed",
-        "first_seen": 1785187830.655564
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBpdnNJRm5sbmNjSFUta1ItQ3JCbUVYb0lPRTJCNU5rWldHUkJfQmk2TS1tUFhwYXFKaWNnNlFaSWpFR1lGWmpsUTg1c05KUWc?oc=5",
-        "headline": "'금리 위크' 열린다…먼저 올린 한은, 美·日은?",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/28 06:02",
-        "published_ts": 1785186165.0,
-        "tag": "JGB",
-        "first_seen": 1785187830.655564
       }
     ],
     "watchlist": [
@@ -2413,35 +2413,8 @@
       }
     ]
   },
-  "updated_at": "2026-07-28 18:15:55",
+  "updated_at": "2026-07-28 18:31:05",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.865,
-      "chg_bp": -9.4,
-      "series": [
-        3.733,
-        3.703,
-        3.791,
-        3.747,
-        3.748,
-        3.776,
-        3.78,
-        3.775,
-        3.778,
-        3.768,
-        3.809,
-        3.887,
-        3.866,
-        3.848,
-        3.895,
-        3.867,
-        3.913,
-        3.917,
-        3.959,
-        3.865
-      ]
-    },
     {
       "label": "5년",
       "value": 4.117,
