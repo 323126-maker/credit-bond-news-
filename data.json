@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaGQ1dUhxYm9FZ3AzN3VYeVFRS202ekh5ME5wRXNFTUEzNUJ6TmItaXMzWC1xWEFfQXFFdU5xVVZRbkZ2dHp3ZDV2RlRoLXlYMEs3SGV6c0NtNGdkRzJ0SmlDRVVIUWpUTmZydU92akNtWWpzLTNRWl91bE1kY1N0RzF6Rl9HS2lQUm05MnU0YkFBMDg?oc=5",
+        "headline": "What to Watch for at the Fed Meeting",
+        "summary": "",
+        "source": "WSJ",
+        "published": "07/29 10:00",
+        "published_ts": 1785286800.0,
+        "tag": "Fed",
+        "first_seen": 1785290437.9794722
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ST2tlNzBqUzFvMnpDTF9SQXZtbjJXanhSNDEtZ19DZWhzc1g2RmZLMVdtaFZ1Qm1iYzRkUG5yRmhEZUZJQ0F1aXdLZFNCMzJ0aTNBQWpEdWRvOGc3Z0VJdWVvLTlnQVY0LUlZUThtd3M5OTg?oc=5",
         "headline": "엔화 가치, 40년 만 최저치…일본은행 긴축 신호에 암호화폐 시장 '촉각'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785242905.0,
         "tag": "Strategist",
         "first_seen": 1785266134.0700033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0yYzd3UVlfRnl4ampPOHhZLWdZSjhLYWdRcFExbS1pZnVGQ0VhME5vbkJzaXpFLVlPWU5ZM0xfak53dlBCVGluXzNCbjhCVTZDTHRLbU1qUHkyLXNCNGtqSXR5Z9IBY0FVX3lxTE0yYzd3UVlfRnl4ampPOHhZLWdZSjhLYWdRcFExbS1pZnVGQ0VhME5vbkJzaXpFLVlPWU5ZM0xfak53dlBCVGluXzNCbjhCVTZDTHRLbU1qUHkyLXNCNGtqSXR5Zw?oc=5",
-        "headline": "Global Energy Roundup: Market Talk",
-        "summary": "",
-        "source": "Bitget",
-        "published": "07/28 21:39",
-        "published_ts": 1785242398.0,
-        "tag": "Global",
-        "first_seen": 1785245442.91531
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 10:45:45",
+  "updated_at": "2026-07-29 11:01:00",
   "yields": [
     {
       "label": "3년",
