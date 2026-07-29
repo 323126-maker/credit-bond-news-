@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE55aDhDWFNURWw3WWJ4UW50YUhELVNpQ2xLbW5hTUU0TEktOFVMa2NwazVWTkNISjdYREhMdk5PdUpmclpnOGJTVFdxVTA4WVBLV0NiVGJpUHE4TXlneWJTV0VLRm5PZGVBLXBDUFBEOFM5Q1pO?oc=5",
+        "headline": "연준 금리동결에 시장 실망감…美주식·채권 동반 급락",
+        "summary": "",
+        "source": "부산일보",
+        "published": "07/30 07:02",
+        "published_ts": 1785362555.0,
+        "tag": null,
+        "first_seen": 1785363325.4258883
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FWHdYNW94R2ZiQVVuWlMyUEJPTzJLNzVDZnFIcHZ4VmIyM1NySDMxSUcxamU4T0NyeUNFLTFfSTRIMlJId2ZMcTFEdDM1dU5OYWtianZudWRQbjVmTExPNS04ZTJONEJVUmUzUjJjUTNxQQ?oc=5",
+        "headline": "신보, 채권시장안정 P-CBO 모집…비우량물 조달 숨통 트일까",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "07/30 07:00",
+        "published_ts": 1785362400.0,
+        "tag": null,
+        "first_seen": 1785363325.4258883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTlFUUXQzcVJnUzZaX1R0MHRoVnF1TzRBZ3ZHS3pjM1J2b0hoSjlnVnpyYmJSXzdzTmtqMjNFbFo5eG9jeU8wc2x0V0lZaFNzMkM5c2xocnZmM0tWYjJQbUNXSG1aZG9r0gFuQVVfeXFMT0hhWWZ4aFVaT2Rqa3lxcXJJRmRZYU9qcm9Wa2ZzbERaQ1JpZ2JDdFdaczBOMXQ0Z05Hbk9DSUhrV2ZES2xjNmJYS3BoZFZfYUNrY1JtSDNTNHA5ZmdzeWp5RzJtZDhxYkJBVks4Tmc?oc=5",
         "headline": "\"물가 잡겠다\" 워시 못 믿는 채권시장...미 증시 '와르르'[뉴욕마감]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785227290.0,
         "tag": null,
         "first_seen": 1785233733.4802284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xZUM5UVA4TzZXSHR2aEpNeVByQTVmYXNOQjhLOEJVTTJUTl9VaXFKUEJKelBFWXUyRUtiRWdwbHZqODBudkNvNlQ2RzZua2oxT2RSdDlWUmRxRmhqWm9sMjg3UTZFMnFzYWQ1SUdNQ3NxUQ?oc=5",
-        "headline": "정부 7000억 지원에 석화업계 ‘숨통’…신용도 강등 멈출까",
-        "summary": "",
-        "source": "마켓인",
-        "published": "07/28 17:24",
-        "published_ts": 1785227059.0,
-        "tag": null,
-        "first_seen": 1785228331.7997131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE95OFpFdlN2MG1YUVJfSEFwMWpWZnNWcURkb005MjdCc3JSRGt3UTA4V08xTUhzZVRsd3Z0Rkoxb29ndGVNTTZjV1BYRk1WVjE5cWpEZ2ZWbG5fWXFfSjFBNzhmNmVGOEcxSVNNcHNLU2VMTlRW?oc=5",
-        "headline": "[채권마감] 이틀째 강세, 지난주 약세 다 되돌림..유가 하락+주가 폭락",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/28 17:13",
-        "published_ts": 1785226380.0,
-        "tag": null,
-        "first_seen": 1785227439.656425
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FWHdYNW94R2ZiQVVuWlMyUEJPTzJLNzVDZnFIcHZ4VmIyM1NySDMxSUcxamU4T0NyeUNFLTFfSTRIMlJId2ZMcTFEdDM1dU5OYWtianZudWRQbjVmTExPNS04ZTJONEJVUmUzUjJjUTNxQQ?oc=5",
+        "headline": "신보, 채권시장안정 P-CBO 모집…비우량물 조달 숨통 트일까",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "07/30 07:00",
+        "published_ts": 1785362400.0,
+        "tag": null,
+        "first_seen": 1785363325.4258883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zc09WU1hVRXNhZERxaFBJS3lsTFIwNXcwWGpuMERkQkpCaEJEOFlqbExMRU03N1lZNGRQaEdYZ3lidGZNYUhIRXVjSW5BUkxkNlJ4YjQ3c1cxRkNFem1HWnc2WjBsZUJSZXc?oc=5",
         "headline": "금리 동결에도 30년물 5.2% 돌파…워시의 ‘매파적 멈춤’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784819313.0,
         "tag": null,
         "first_seen": 1784824235.1352978
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE01ZjJjSEc4NWdsR1JKWXBmc2RFb2FPUVpIcjVWMXBoMFNIU2pMSE93OGlZVi1GWHI5a2Z3QkpOaHhVSTAxRWdfZEplNGhic3NmeXVQaTVCbGV1ek9aWTVTdC01QU14NHdnT3VhZU5nWnDSAXRBVV95cUxNZnRDRlNpbi1zajF2MlAyZlJvSTZtbThTVVUzampieGhHZTVPSDNhOVFCZVpjVXM0eE5CMWhkMkVVajJHZ28xeURFUFNKWGlfN0p0cmtjZExGdUxxcU8xeGdpQi1CcUk4RnBqNlFzaExCX21OUQ?oc=5",
-        "headline": "‘깜짝 성장’에도 국고채 금리 보합권…3년물 연 3.917%",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "07/23 18:41",
-        "published_ts": 1784799707.0,
-        "tag": null,
-        "first_seen": 1784800849.6438084
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWpabl9CTHZlTE8tNFNUR1VuUFNqZXJGYXBhT2hyLWlvbm1OTXN3NUdZa2lmWF9PQ3VWU0FsaU1hMjhfSzZ0UG5ZZ0lNVC15Rncyd2JZVmM0VWV4MldJd1pGOXBUeFNCbEI0YzY1c2tJdmNRVW11VkVGck05d2g3WlJBcWgxaTBIZUFtbHFKaGZnazFicXJqTTZTWF9pX0N6eUtjS01vMWRzMTk1WGtIQTJyZ2xCM0xHdzJoTmtpdVNZc3N3YnlYVw?oc=5",
+        "headline": "Oil prices surge while US stocks fall as Fed keeps rates unchanged",
+        "summary": "",
+        "source": "Free Malaysia Today",
+        "published": "07/30 07:10",
+        "published_ts": 1785363032.0,
+        "tag": "Strategist",
+        "first_seen": 1785363325.4258883
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBTFNvcXdOaWgxd2hLajNoY3RVU20wdEpDVVpyUXVKUFdXWG9UcmNHeFlYSGQ2QmJXVWY3UEowRGQwcFBHSXdKbFRBbW5FeWtpREVEZ0hURnQxTnlEa1dnWnhpUXNycUpaOUFHYjgzbEN6b0Z0VkE?oc=5",
+        "headline": "Dow Plunges 1,153 Points as Middle East Conflict, Oil Surge Slam Markets — First 1,000-Point Drop in 15 Months",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/30 07:05",
+        "published_ts": 1785362700.0,
+        "tag": "Global",
+        "first_seen": 1785363325.4258883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NWtrX1A2dGlMUmMtbzFJTTk3TWNFVzROQllwdFdxUTl4aGpCVFBGdU9yRW9yQWtLOFdQcXlSckgyVkVOSGVzR19kdkJUSlhIVUpN?oc=5",
         "headline": "연준 동결에 시장은 '긴축 부족' 판단…美 주식·채권 동반 급락",
         "summary": "",
@@ -1820,6 +1840,16 @@
         "first_seen": 1785358838.884428
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VYMUVfX1dTczZhTlFYdV9Sb0JFdW8xT0VUQ1hWVDN6VHdFcEJGZk5TanMwS1RLUGlFeFR6SnE0SGtJc2dULWNCdWcyZktqcFY2aWFwM2dLNzNpRmhkWEt5czVYNnlOVjlESjlEN2tzWnJtYjZadWJ0cVBvZFAtQmJMeDdIZGJ1ZXNXWGhybjBKRTVqQTZNTi1UcmYxOU1OcVlOa1E1U0tscnYxN3BxQ2t2MTJEZw?oc=5",
+        "headline": "The quiet outperformer: A compelling case for Global USD Sukuk",
+        "summary": "",
+        "source": "BNP Paribas Asset Management",
+        "published": "07/30 04:50",
+        "published_ts": 1785354626.0,
+        "tag": "Global",
+        "first_seen": 1785363325.4258883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wZm5aRnVCTDJ5bm1FclBhMllVRTF0cVJPU1dmS1VkMEhHbl8zOU8yclpSdC1tRXZmVWk1VVZCRElnNEVaOFdvLW9ZVlpVS1hZcVM5VHNHN19zdmU1R3FoUmFCNE1ERXI00gFuQVVfeXFMUEVmWmt5cE10TFdhUWp2TkxKa3ZNX0RnUHhEeWk0Y3FMcC1WbVNVbDZYM2VFU2psanRSQzJtRkN0Qll6NUJDejVKUjAzcDNWdWszQU5rNUVGbnFnVDRfbEx2THNYWWVxY0piZ0FWZUE?oc=5",
         "headline": "워시 \"연준 목표는 물가 2%…내부 이견, 방법론 차이일 뿐\"",
         "summary": "",
@@ -1976,36 +2006,6 @@
         "source": "CNBC",
         "published": "07/30 03:05",
         "published_ts": 1785348305.0,
-        "tag": "Fed",
-        "first_seen": 1785359726.295759
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fSUdxRFVfckhQT1UwNGlXc1czVk9pZkNmUnFlXzRUMF9XM1hBbV9rQUJMWWZiNWFjTDZjakl5X0JFdUgwWWJpOWh6U283QmMyMGVoUmJQSXd5cE15QnNQcHhYX1ZDOUQ1bUxxelVla3J2cGl6YVg5btIBfkFVX3lxTE00NUVsV2dsNzVfbDBaZ3FKdTFwcWtFek5vLXV6YXZqUHd6T0FmblZWVVMzaEJMZXFRQVlFbmNUcU1vZHZ6QURZNlhwZDlEY2RLeGNTVENWeEtyQXNlOU9ETFpIVl9WbF95QjM5SUxGd1dOXy12dXZzbktVNUdxdw?oc=5",
-        "headline": "Fed holds interest rates as new Iran tensions raise inflation risks",
-        "summary": "",
-        "source": "The Hill",
-        "published": "07/30 03:02",
-        "published_ts": 1785348120.0,
-        "tag": "Fed",
-        "first_seen": 1785348925.0283802
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbWprLW5qMWxhbDFjaU9XY183blpJX09mY0hSOXg3dTVxZ250OFp3cFNPekxFdFkxX09jTzNNNWlFNGtjQnduS2JYX3FPdTZSUVZiMDJZYlRyeXlIX19XaGprcFp5dnhjSWxiOUNZeG16WkJqZXF2dGRIbTI3YzFGR3ZOVXkwbzBpVTFSclNWRmx3OTRPdmg1RTNvQXYzb3p2aGcyMjB2NW9Hc24tYkdsMVgyb3Q?oc=5",
-        "headline": "Fed Holds Rates Steady but Three Officials Vote for Increase",
-        "summary": "",
-        "source": "WSJ",
-        "published": "07/30 03:01",
-        "published_ts": 1785348060.0,
-        "tag": "Fed",
-        "first_seen": 1785354323.6464472
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVTFpMmpKVlY3blBmOVRqVnR0RHQ2Rm96eUo3dHZoNmp5WmdGOHd0YW03U2lzbWVSZDZsWHExVlNmenB6bmJvZGdscUo2MW4yN1BiaFFn?oc=5",
-        "headline": "WATCH LIVE: Federal Reserve Chair Kevin Warsh delivers remarks after interest rate decision",
-        "summary": "",
-        "source": "Fox News",
-        "published": "07/30 02:47",
-        "published_ts": 1785347231.0,
         "tag": "Fed",
         "first_seen": 1785359726.295759
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 07:01:10",
+  "updated_at": "2026-07-30 07:15:50",
   "yields": [
     {
       "label": "3년",
