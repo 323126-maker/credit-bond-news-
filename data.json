@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHQ4WFRxYmtna0Npbkt3UGduQ0l5b3FPSGtwWGNjRUFnSmVyRlh1bGtpWklac3E0cXJCTFBOZ2dzU0xEc2NrR1hzdUplR28teWotWngxNlFka0FxT0k4WDJrN1dScFRFUVhWM2J0Z014Y1J2Y0JJQjBuVmZXdWhUSHU2ekE1eHI1d2hEUFpEc0JscTIzR19tRV9BV1RSS3N6SjhsNTdkQ1o3d0VlS2k5NjU1UGVkenk3Q0kyUk1fVDlDV3VONmJ2NDY5SQ?oc=5",
+        "headline": "Wall Street Expects the Fed to Hold Rates Steady Today. Kevin Warsh May Have Other Plans",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/30 01:36",
+        "published_ts": 1785342965.0,
+        "tag": "Fed",
+        "first_seen": 1785343528.4627383
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU19RcXVtbW42aU83V0lHVFNRS1NkcWVNT3RPUjZ5eU95Q184bURrQllKZ3o1cXowaTdlQlRrNWJLMWJpdjk4RmxYODg5WGZET1VUU0puWHhmQnVYSmVBUmxPSUY5OVFneGwwZEotby0xcjRDZ1huaEtHTDhqWTFNZHNVNFJuR1hvR0xDQlpZdm1JTkRWaFNwdmluY1k5VXZES3ZWWDBfUXdPOFJ5?oc=5",
         "headline": "AI spending spree rattles credit markets! Credit risk hedging costs for tech giants surge, with Oracle's (ORCL.US) CDS hitting a multi-year high",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785308762.0,
         "tag": "JGB",
         "first_seen": 1785309323.0758946
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTm4zVExrdUFQWTUyYWlETTJqbUh0T3pEZXlHd0xNeXU2R0tCeHVRWVVyd0NUVk5Ld1JLRUh6YUQtSWlyT29TQTE2NEw1dU5TZ1VWYlY0dWtRbnJXeFNSaEh1ajF2a1d4bEQ5emZyc2tPLW8xd2dyRTVaYlF1blRaX0Jmc3I4dw?oc=5",
-        "headline": "JGB Yields Slip As Markets Wait On The Fed And BOJ",
-        "summary": "",
-        "source": "Finimize",
-        "published": "07/29 15:29",
-        "published_ts": 1785306555.0,
-        "tag": "JGB",
-        "first_seen": 1785317434.9862418
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 01:31:02",
+  "updated_at": "2026-07-30 01:45:55",
   "yields": [
     {
       "label": "3년",
