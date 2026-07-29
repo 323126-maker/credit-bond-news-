@@ -1700,6 +1700,16 @@
         "first_seen": 1785358838.884428
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOWF9PQzM0M0V3Mmx0Uk9fV3RIWkJIWkg5U2poRTZzaEhGaVZ1VW55cEg5Rzc4YnlaaGFyRnhaaE9Db0VIZjBmR3hnNmdianhqeGZfZFFYVFZ5MHVmdE1TVVkyRHZfUjFHSVZrcFFLUmZfQ1hFUzJwOEFQZTBuejFiOEtBcVhoekZRREo3cDFzcGVwRXA1Q1hJNlREdEhZY1JEQXM0?oc=5",
+        "headline": "Federal Reserve Chair Warsh Holds News Conference",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "07/30 05:50",
+        "published_ts": 1785358203.0,
+        "tag": "Fed",
+        "first_seen": 1785365129.836771
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQVNuOEVQYkVoSXlvZjUtaXp6Q1RDcmdWeXM0aWhHQU44em42Mk5rMDdMdjhYbkVIWW1vY1F5b0tPWmZiZUNPV01nSDRjWXFxRkdvblJQSVVDVzNvbHFaclhZbXJ6WXQ2dnRpMzhlUS1va3JacVNOc25YRU0zd0xGNQ?oc=5",
         "headline": "연준 동결에도 채권시장은 '불신'…다우 2%대 급락[월스트리트in]",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1785357990.0,
         "tag": "Strategist",
         "first_seen": 1785358838.884428
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pbklTdGY2UVN5b0NQQWRMWnI4bjhua3NOTHRhajNpMTlwWW1OVkJvanRqQV9sWUlwU3k3YUh5ekdLYlIzcVBqU1lMVWtCN28xZXBQdkdWdHp5cEVmRFdBdERqMFB0OUdPN1JSSVVVaE9faENyc0dOSkEwQTI?oc=5",
+        "headline": "5 key takeaways from Jamie Dimon's hourlong podcast interview",
+        "summary": "",
+        "source": "aol.com",
+        "published": "07/30 05:37",
+        "published_ts": 1785357467.0,
+        "tag": "Strategist",
+        "first_seen": 1785365129.836771
       },
       {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZER5Wk1oZjBsVTJJd2lBdC02eXhGejdYaFJwWVVNZVB3cnRYczRyYlZtbXVkRXN4bEEyZnZqQW1yNTk3c21KXzZTNWticW5vdmF4Ym1jZXEwd2FCb0w5MU5tS3FyaUVHS1J1ZUhTT0xTd2JKRDQyVldMNW1RREYyWDN6U1NmZ01lYzRHU2ViWmVtZkIzc1hWc2tKdlNhb1lp?oc=5",
@@ -1986,26 +2006,6 @@
         "source": "Forbes",
         "published": "07/30 03:08",
         "published_ts": 1785348481.0,
-        "tag": "Fed",
-        "first_seen": 1785348925.0283802
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXhqTkhuVFhZUVVRaFdXYXp2OTJ2TXJtVEFFNEp6YVFLbUZKS25KT2JDaGdCbjdGWnVqRVN6NVBfMjI5SEwwU2F1VDF0VndmYWE0U1JzQnRwMjJhZjFNWU1vbjJ2WjduQ1F3cFQ1TVBSQllFUVotX2R4MEw2UXBtTWF1eEdUYjRjc1pBSU9n?oc=5",
-        "headline": "A divided Federal Reserve holds interest rates steady despite high inflation",
-        "summary": "",
-        "source": "NPR",
-        "published": "07/30 03:06",
-        "published_ts": 1785348369.0,
-        "tag": "Fed",
-        "first_seen": 1785350724.9840379
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRGc4clFvdXhTQk1TMW1fdzBfc2hSYU5GWlNRTXg2N3ZjdC1BdDM5azhUTV92elNvdU9xLUptemxYbVpEMjJONTFZdFJ4eUJxcVpqd3cxR0poeFo5YWhOUzNEeHNQU1pQVEtOVGhvblJlLVlhTHJuUlZGMkdRNlREXzVQWTZQX0FGNEl1cy1WNE02a2FOUGRjVDV4Q3RFVUwzSnFxLVNPTQ?oc=5",
-        "headline": "Fed holds interest rates steady as pressure builds for a hike",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "07/30 03:06",
-        "published_ts": 1785348367.0,
         "tag": "Fed",
         "first_seen": 1785348925.0283802
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 07:30:56",
+  "updated_at": "2026-07-30 07:45:53",
   "yields": [
     {
       "label": "3년",
