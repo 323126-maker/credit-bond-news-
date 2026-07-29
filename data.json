@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBJOEJjVThCZ3dMb1VPYUd0eGZCZ2xwYVltU2xib2hWU2lwbVl1WllzdlVjVlNGdlF2Q3BlSDBFODFyalBzeTNUSjliS0RiRWE3Z080?oc=5",
+        "headline": "구윤철 부총리, 긴급 F4 회의 주재…금융시장 대응 논의",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/29 17:37",
+        "published_ts": 1785314227.0,
+        "tag": null,
+        "first_seen": 1785315653.354996
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB0WG95OTR5UF9VZVIyVkMzMVpLUUdGUUZ0cDcxMTZ2dndIblV1Ui10cUdzN2Y4a05GNWRsa3p2YlRkdS1QVGZNakJjS3NheDQ?oc=5",
         "headline": "[채권마감] 사흘째 강세, 주식 패닉 반사익",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1785218863.0,
         "tag": null,
         "first_seen": 1785226527.4072337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KWUJQMXlYZzZ4Wl84RnBRblFXYzExTFlpT1NXWGt5VDhFZmZUM1dJYlgwcThHSEVhd0kyTjFzblp5U0FvcExLb0s0N2c5azNjcGM0djRscUJHd9IBWEFVX3lxTFBXXzJmV19iR2UwYmlVMmNScmpqRjJCRmVyYmJyWUZlLVg4a3BaV0ZUR0tNb2cybVI1eUM5b3ZPT25EeXRKdy1RRTlpNHFLdDdXb2F1eTNyMW8?oc=5",
-        "headline": "AI 투자 경쟁에 부채 부담 커진 빅테크…신용시장서 경고음",
-        "summary": "",
-        "source": "아주경제",
-        "published": "07/28 14:09",
-        "published_ts": 1785215365.0,
-        "tag": null,
-        "first_seen": 1785215723.23662
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aS0xRN2tZMHppb3VjR3l4Y1BxYm5Hc3F5cjhJcm5pOW83TzV0VC1OTHhsMVQ3UVYza24zVjZNWlpHb3VxeWJwcUltYTJkQXowaDRfREVkdFB5ZTRJZDVuRW5NdEhPVUFPS1HSAW5BVV95cUxON0xzeTJONEFKaS1aRVJkWTdfblE2SUdVeEpXUFlsVXF1RG04SGJKZTZqd3AxVDlDY0Z4eDNnbnY2ZHVNWktvc1JHQVVwNl9xcHFkYlF0Z1NJVnNXNkhCZkU0UE9WNEI5VGxES1p6UQ?oc=5",
+        "headline": "하나금융 보험계열사 한 달 새 4500억 자본확충…킥스 방어 나섰다",
+        "summary": "",
+        "source": "파이낸셜투데이",
+        "published": "07/29 17:06",
+        "published_ts": 1785312394.0,
+        "tag": null,
+        "first_seen": 1785315653.354996
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDc2djcHpEQ1JnM3lDUHJGeUI2VXl4ZmhEclUwbEZQNU1jZG1oSTJMeFpidmczQ0pKaFVMUWgwVzRhV0FteWVNQnpfZ2RuTnkxbWlDWjZFcWZhQm43b0Q0SjZIVld6V3lZdjRZdEM3eGFKZw?oc=5",
         "headline": "교보생명, 최대 4000억 신종자본증권 발행한다",
@@ -792,16 +802,6 @@
         "published_ts": 1784799939.0,
         "tag": null,
         "first_seen": 1785049308.531362
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yb1hmNVZ3dmdKWEZFeUpvelNLSlUzWUx5N0xKWG9PWWJQaUdOT09IRDIwRFd1VHRnalpTNXM4SGVrM09FSExIOUY3X0VJaDMzUXRvNng0VGdTWUxucEQ5bDdURS11bHhNOHlxWG5yU2FQTkE?oc=5",
-        "headline": "JB금융지주, 1000억원 규모 신종자본증권 발행 결정…BIS 자기자본비율 제고",
-        "summary": "",
-        "source": "디지털투데이",
-        "published": "07/23 17:53",
-        "published_ts": 1784796783.0,
-        "tag": null,
-        "first_seen": 1784798127.8396327
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 17:45:51",
+  "updated_at": "2026-07-29 18:01:18",
   "yields": [
     {
       "label": "3년",
