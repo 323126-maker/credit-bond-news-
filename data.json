@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1ob0hSMmxsbjlxU0c3NzE4LVhRUFpJNU56Yzd0aXdTQjJoOVRQYW9QZDFnNzhhb1RkQWxob0VXNXhxUnIwVV9xQnQ3UFY2dV9ReVN6QUF3RdIBXEFVX3lxTFBvdmZmS0IxVmVWTklXMUJoTmQ0Ujh1bDlydWZ6VS10Z180bzcwekJhTmxoZ1FFWHJoX210Q1NiZzY1QTlROWFmSVN4akNYMjNjWW9hSkstZkNKalN6?oc=5",
+        "headline": "청와대 경제 책임자의 무게…증시 불안 속 정책·메시지 관리 중요",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "07/30 08:06",
+        "published_ts": 1785366402.0,
+        "tag": null,
+        "first_seen": 1785366931.1742308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xSzJQd2tsS2xmMTlxMk1ZVDdTMmNTTEo3UGFTcy1BLVNQeGl0eS1uWE53Ti1RWUk0X01uUmlfU1JuMWc3MVN5VVRTVkcwVllJTUFN?oc=5",
         "headline": "[시간들] 증시 아노미…靑 경제사령탑이 던져야 할 메시지는",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785230446.0,
         "tag": null,
         "first_seen": 1785231929.9702392
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB4NHp0Uzd4NGpZdUtCZWpPX2FPelF1Ny0zWm5LdkpwUm5kd0pzNGVwbDVCc0pUb2RpVmFDLXkwLTdoT2ZyX0ZlRDFYNmg4bkRoR3FEaHdBYmtLdmRKQ2Q4cWMzVUZ5c2tQb1A0?oc=5",
-        "headline": "국고채·회사채 금리 동반 하락…시장 금리 안정세 이어져",
-        "summary": "",
-        "source": "hdnews.co.kr",
-        "published": "07/28 18:13",
-        "published_ts": 1785230014.0,
-        "tag": null,
-        "first_seen": 1785244527.931901
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 08:00:59",
+  "updated_at": "2026-07-30 08:15:54",
   "yields": [
     {
       "label": "3년",
