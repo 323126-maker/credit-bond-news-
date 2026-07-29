@@ -42,6 +42,16 @@
         "first_seen": 1785282324.15427
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5Gb29VRHV4eGFUOWZPUktIMjZmT3kxdWJHTjJtVzRRVG9tNG1KM3Z5WE96VjJqNjllU1VtVkpRRklmbVZvbFl0ZWhhWVlIUWRCeTVZRUhUcElTR29XMHF6Y2MxUzJ2aU9Ib3hRWUxLaEJlTFlM0gF0QVVfeXFMTkZvb1VEdXh4YVQ5Zk9SS0gyNmZPeTF1YkdOMm1XNFFUb200bUozdnlYT3pWMmo2OWVTVW1WSlFGSWZtVm9sWXRlaGFZWUhRZEJ5NVlFSFRwSVNHb1cwcXpjYzFTMnZpT0hveFFZTEtoQmVMWUw?oc=5",
+        "headline": "[세계는 지금] 아마존 80조 원 AI 투입 vs 한국 AI 서버 국산화율 3.3%… 격차 벌어지나",
+        "summary": "",
+        "source": "한국데이터경제신문",
+        "published": "07/29 06:05",
+        "published_ts": 1785272700.0,
+        "tag": null,
+        "first_seen": 1785287730.501532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zYXNlTEhpMG5VZ3dHc0xWWENtU3RiaklzYkVidUkydTBWVW0xRlNzLTZoZG1DRHJUVDdjVDNxNDdxRnhOVUlaNktoQVExek5LVWdzSUpJQWhfZFhQX2w4Vl9PSjRRWm5GanpkRUhManpRUQ?oc=5",
         "headline": "[뉴욕채권] 사흘째↑…FOMC 목전 '유가 급락+지표 부진'에 인상 베팅↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785205941.0,
         "tag": null,
         "first_seen": 1785210330.0338051
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4Q2JtM3hHaWhLNi12X0VaaEhubHVVaFU1UE96UUJDdmo0TWtXb0htdTJGX0Qwbk95R0NxQnBBcktkZ0haNWJZQWNnQWpJVk5kaGfSAVNBVV95cUxNZGMwampTZjRVbm52aWZGRXpjaHlHYmRZdUpIZVZ2UG1wNFRKVDhVNlNJQWFwbXBNSE5naWl5eEJYOFJVR0hDVTA5N0V3NTlOVDJDaw?oc=5",
-        "headline": "AI 투자 불안 커지나...빅테크 CDS 프리미엄 줄줄이 최고치",
-        "summary": "",
-        "source": "서울경제",
-        "published": "07/28 11:01",
-        "published_ts": 1785204076.0,
-        "tag": null,
-        "first_seen": 1785205833.7394478
       }
     ],
     "perpetual": [
@@ -1860,6 +1860,16 @@
         "first_seen": 1785265242.742693
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5peUZ0QVc0N2xYNlZ6SkJJVTE1R1ZjN202LXgyS2E2SUVLZm1VOGlhZkluZG1FeVdmTUdnU2QtRVdHWjAzUVhUWFZDV0pMWkxtSkZ0VnVfN1NCUVVNOHVYNlM1bHZHQmJrcV9TOWxn?oc=5",
+        "headline": "What would a rate hike signal about the new Fed chief's MO?",
+        "summary": "",
+        "source": "Axios",
+        "published": "07/28 23:35",
+        "published_ts": 1785249353.0,
+        "tag": "Fed",
+        "first_seen": 1785287730.501532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTG52ZS1nTGprT3JCN25iaU5zb25XZnN6c1FfYTdlUUZiNUpxY0hsdnFRTEk4eWZ3WDFqTlBfTzRyaFlaUzVQcVRncFhrc2MtbFE5X0R4M3p5aWFWY09CR2k2d2RHUjQ2SHM3Rzk5VnZia21jdXlCS2FVc2F2ZnJTeVZGN0Ffek94UWdnQzg4YlNVcGoxY2pQaTIzVkVtbEtMdlI5OHVWbXVRcGRVd3RCZnd5b1dWVjhYZFZacDh0SXNBYUV1?oc=5",
         "headline": "Will tough talk be enough? Fed Chair Warsh faces pressure to combat inflation",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785241320.0,
         "tag": "Global",
         "first_seen": 1785242723.9043224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOci1uU0VXS3ZfWHp1a01fdEZhaGtCcDFaRjc4UkJQSlNNNVE0RXFyRW91LVc5WFdWeTVwYzFhZzAzbHFHYWt6M0FKQXc1TTJxalRhS0NGeGZNWUN3LVVaSDh4UzdCdHlTd0o5UkFaa0IyZl9rU3RLV21Zc0dtVmJrTXBpVDBxMDU1cHF0VU1mVFhfSWR2VGdaTEU3VF9UaVhiQVdqZXlzcS1taGNzUzlIUGcxeXlKWDJ3TWlzNmRtWElsVV9lR3VF?oc=5",
-        "headline": "U.S. yields ease off multi-month peaks as anxious bond market braces for Fed call",
-        "summary": "",
-        "source": "Investing.com India",
-        "published": "07/28 21:00",
-        "published_ts": 1785240000.0,
-        "tag": "Fed",
-        "first_seen": 1785240926.3166432
       }
     ],
     "watchlist": [
@@ -2040,6 +2040,16 @@
         "published_ts": 1785279602.0,
         "tag": "우리지주",
         "first_seen": 1785280529.8024848
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5BVUpOdk9VUFFfTElsemxJRDNWa3h6YTgzQm1XTUxqMzBTUEJOdHB3Zlg1ZTk2ZDZxbS1jSlV4bE1UQUdJMGl0QnU1OWlGMG9UXzRNNjBjeHkwMEZ3RmhZXzFsaXBBQ0RjZXc?oc=5",
+        "headline": "120조 수주잔고 앞세워 실적 '견인'...방산 4사, 올 2분기 합산 영업익 1.4조원",
+        "summary": "",
+        "source": "청년일보",
+        "published": "07/29 08:00",
+        "published_ts": 1785279600.0,
+        "tag": "한국항공우주",
+        "first_seen": 1785287730.501532
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yYlloNW9KQTBGU2pSSlQ1NDdWcG5nSlh3RW9RTUJ6Zm9Nb2twa09FQWptSE0wUllWVGVnY1hwYS1QQ0luak8wcEp2RXhTWEMtWnlTekxrTmM3b1d3NnlWag?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1785126874.0,
         "tag": "삼성카드",
         "first_seen": 1785127524.168457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0RWd1elR5Z2I3MWhESkRzUXFpNGZHbGF1dmFwSW1iNWlBa20tblpDRFVCenVMSW5SZDlnN3lLRHQxR2IzeVVBRWlhejl1MHM0Uk84M01wT3VtZWJoaGtSWVVjT09PcDhKMkE?oc=5",
-        "headline": "AI가 소상공인 신용평가…16개 은행 2.2조 대출에 첫 적용",
-        "summary": "",
-        "source": "금융소비자뉴스",
-        "published": "07/27 11:36",
-        "published_ts": 1785119771.0,
-        "tag": "수협은행",
-        "first_seen": 1785121238.0692723
       }
     ]
   },
-  "updated_at": "2026-07-29 10:00:59",
+  "updated_at": "2026-07-29 10:15:54",
   "yields": [
     {
       "label": "3년",
@@ -2471,10 +2471,9 @@
     },
     {
       "label": "10년",
-      "value": 4.333,
-      "chg_bp": -11.4,
+      "value": 4.289,
+      "chg_bp": -4.4,
       "series": [
-        4.144,
         4.091,
         4.205,
         4.183,
@@ -2493,15 +2492,15 @@
         4.394,
         4.392,
         4.447,
-        4.333
+        4.333,
+        4.289
       ]
     },
     {
       "label": "20년",
-      "value": 4.561,
-      "chg_bp": -8.1,
+      "value": 4.531,
+      "chg_bp": -3.0,
       "series": [
-        4.333,
         4.27,
         4.365,
         4.336,
@@ -2520,7 +2519,8 @@
         4.617,
         4.616,
         4.642,
-        4.561
+        4.561,
+        4.531
       ]
     },
     {
