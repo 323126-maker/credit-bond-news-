@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS255YjVWcTJJRnhSWTFRbHFKOWxNN3lZaE11WndkQnVZRTR6aEc0Rm9HLTNLUGxGQjh2R0R3a1pta1J0U3RPQlVWaDYyZ1ltUk1ySWdySjhQRjRxZ3ZtTENQM1V3TjRSMXZPc04wZ203TzVvbmlGZG45MUp2blFUcHFZNEdQTkJhS1RqZnpUVVV1MGdPQXZSQ29ZTEVNQjVyTUhQT25VMFpCWmpqNjFUekRBV0NzWmM?oc=5",
+        "headline": "Opinion | The Fed held rates steady, but Kevin Warsh is serious about inflation",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "07/30 08:02",
+        "published_ts": 1785366165.0,
+        "tag": "Fed",
+        "first_seen": 1785367836.2592368
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQV0ZaZnlGZXBaWXRJbnNxUUtrYWpzcEt6MTRWSnYzSVNQTk9sYWFadlhWaHU1b19aLXpQVWtoc1NRODZXc0FBSXQzeUpvczNrMzFQQ1EwR29HQklITkdiTGxjMVREd0lYdGI4a0NVRkVIYmZleHhudFMwQk9OT01YdmNOclFzQjM1VUHSAY8BQVVfeXFMTUwwNmlzdjdSb2tla0g1MnNiZ2loRVpsUmkxNDhzb0R1WE8tQ1lRcGhyUTZuUFRVaEMyUFUwWk0yZHdqRHRGcEJFZFZmTTFUQ1pvN242NjFIUkU1UXV2RklLMTVNdkFBOU5MM096WVJpZDdBcTNnY1g3Sk83Mm85VGJJRHd4aGtXUF9OeXBIeTQ?oc=5",
         "headline": "What a divided Fed means for investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785351120.0,
         "tag": "Fed",
         "first_seen": 1785352522.5749137
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xV3BUbVQwX20tX3JfcU9oVVJ2bnAzdWdOY0lGTi05RVJxSG0tUGlzTkVfOURaenlDT19FbUJtR0x6N2k4UFFmYUtSWllqVW8?oc=5",
-        "headline": "美금리 3.50∼3.75%로 5연속 동결…\"9대3 표결로 동결 결정\"(종합)",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/30 03:33",
-        "published_ts": 1785349996.0,
-        "tag": "Fed",
-        "first_seen": 1785359726.295759
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 08:15:54",
+  "updated_at": "2026-07-30 08:31:03",
   "yields": [
     {
       "label": "3년",
