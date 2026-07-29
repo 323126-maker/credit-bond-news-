@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56NTVfbTM0cGFYODdjUU41QkxlLTY5QWJCdWhDckxiSEplUlQ5MXQyVlFxV3FfUnI2aWtUdkY4cXVyZEtJZFNMOEFpenRYbU83Y1A1NDl5bXZLV01QejBwM015LWJ1RWd3dkZTME9QMzRsdw?oc=5",
+        "headline": "[채권-마감] 국내증시 투매에 일제히 강세…FOMC 대기",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/29 16:40",
+        "published_ts": 1785310808.0,
+        "tag": null,
+        "first_seen": 1785312043.956958
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzdWZSZEtNTUZjejREVVNQc0xkWkhySG5YbFoyR1V6NW5TMlBOS0pLOHlvUXdhUnhoSGJzcFhuVjd0b3hET05wdWY3ZHEyS195ek1ZaHFxd2JPazJQbmtSQ1RoVll1UGwyUkpfLUhVV3lUWnN0?oc=5",
         "headline": "UBS, 실적 전망 상향 조정에 보스턴프로퍼티즈 주식 등급 유지",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785215257.0,
         "tag": null,
         "first_seen": 1785219329.7974305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5JM2dUR09NX1p0UHVGOE44Znd1cHdPci1RUVMweU9qeVFYLVpwTVQwRm1OS0VndXNHVFlPRnlWZDRqVGs3VzVKeE16aFVta1hsR053eGN2dnNOSGRGNjltZVo3MndPazhwZTN2MHBJUWxiakVSRjJv?oc=5",
-        "headline": "RBA 총재 \"근원 인플레 여전히 너무 높아\"(상보)",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/28 12:59",
-        "published_ts": 1785211140.0,
-        "tag": null,
-        "first_seen": 1785235526.1216476
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8wc0pDal9HeE1PVFg1dURBbnhQRWRZM09WOEV4SFFFY0VPRThGdWFUN2UzeTJnWE9kZURzUnZucGZqYWk2YkZJbDlFX1dpY1hMdWw4aUdzN254NTJfU0FiTkF1VERxMmxURTZCcVlPZw?oc=5",
+        "headline": "AI chip sell-off deepens after SK Hynix earnings miss",
+        "summary": "",
+        "source": "AMWatch",
+        "published": "07/29 16:46",
+        "published_ts": 1785311207.0,
+        "tag": "Global",
+        "first_seen": 1785312043.956958
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORlZMVC1zUTBLdW5yWjlqbnZ2cGFaZFozNlBwT0VRU2hVOUlvUUNiajAyeDVFWDFSREw0TkROVTdjQmpfaVRlSkxmTE5oSnplNFg0dEw4ZnMxcHpxbUtyNWwxQnhWM0ZKSDVXVmdqa05zOVJTVWtDaG5HcjhjNVc2eWVQa3FoWWN5RUNRTjlNS1NwNEdWTE55bEF6X3V0M0h5Ul9OYTFCb0hON1lRbkE?oc=5",
         "headline": "Despite high inflation, Fed expected to hold rates steady for now",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785254621.0,
         "tag": "Global",
         "first_seen": 1785256230.4919536
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE51SHlmRmhhMlU4SXhUNDJaY2FUeEwtZENTdGhvS1ROb2F1QUtSRWFTZmRXOGtSTXFwaWRuQ3JTbWFXdXZVOVpCWGRwLTRmcHdRX25zYlhhWDYzV01uTlUyWWo4UFg1T3NRbTlCeElUbVEtYy1vdFE?oc=5",
-        "headline": "3 High-Yield BDC Stocks to Buy Before August",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "07/29 00:50",
-        "published_ts": 1785253837.0,
-        "tag": "Global",
-        "first_seen": 1785254165.297365
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 16:45:45",
+  "updated_at": "2026-07-29 17:01:15",
   "yields": [
     {
       "label": "3년",
