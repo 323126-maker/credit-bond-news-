@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15c0FMZmRLN1d2d3MteWlSX05tRDRDVXJlWS1xcDBQbDZ6cFMzQ1QzaHh4UmVlYzRQSm9sWmYxemdxaTRpTHhqSjNHRFBYOHJZeV9KNWhkZ0dEdWVzN2lEZGhlUW5SWjBoNTNr?oc=5",
+        "headline": "여야 한목소리로 금융당국 질타…'단일종목 레버리지 ETF' 후폭풍 확산",
+        "summary": "",
+        "source": "충청메트로",
+        "published": "07/29 20:45",
+        "published_ts": 1785325541.0,
+        "tag": null,
+        "first_seen": 1785326444.0742993
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnTllwNmVVcVZSTmNTYnBhaW9vRVhFcDRfbk1ScGtEeldyMzh2UDRkQmxKNW9DNzRDdWo1MFR0aWRUYzBRSDZYLUEzSGQ0LWlVV2c?oc=5",
         "headline": "與 \"대책 발표 늦어\"·野 \"선거에 졸속도입\"…정무위서 ETF 질타(종합)",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784793205.0,
         "tag": null,
         "first_seen": 1785033033.0475864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rX2VEX1BQc09OaHJEU3o2dzBsRDFzT2p5WkVhLXhaWG9mRzFlREQtaURDdjRuR0xGS29WcndleHA0QjFvQW1pVlFBMGN0SVBvRDJSaVBJd1h1Zw?oc=5",
-        "headline": "안도걸 “중동발 위기 대응 위해 25조 추경 필요”…재정 대응 촉구",
-        "summary": "",
-        "source": ":: 위즈경제 ::",
-        "published": "07/23 16:04",
-        "published_ts": 1784790262.0,
-        "tag": null,
-        "first_seen": 1784954800.8810265
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNVVpQ3Y4NlJadFR3NkllNFVXVTlSdGotNGhzSGlySzViakh3eXhkR0taeTJKWmo2RmNvdzc2Uk11MXktSmFLZHlIODRBU043X1ktM0czWkpvQm1pc2VWelU3Ync2Y21VTTNpT05lVG5lWHBuWF9jR3N5UnhZVk5pVm9RT1ZNdmxXbERHOG0tUlZXcWhLTGRvalZfUmdTSWduM2FPbl9YcDFEVHhjYjBzMTQ5OUpvU0ZKRWNSNmxKNnJiYktGQTNlWjFBTFRTamJnZjIwdE80b1RPdV9iOEFBWFk0TGZQRG9RUDl4R1dCemhuVjBob3c?oc=5",
+        "headline": "Trump Calls Warsh \"Fantastic\" But Says \"We Should Have the Lowest Interest Rate in the World\" Ahead of Critical Fed Meeting",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "07/29 20:51",
+        "published_ts": 1785325915.0,
+        "tag": "Fed",
+        "first_seen": 1785326444.0742993
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZmdKMDlDRUpNSnY1a1VUMFRlQ0ZDR1UtS3dPZk9SeEJ4Um5ZemEtejUxaDB4OWhhM200ZlRHcU5La1JnUmg3eVJHV1IybzZfRWZlWHQ4dU1GXzhvb0l6OUZielJtRVhHaURLa0JFUzRaaDAzOC1mQlVxdUMteUItVg?oc=5",
         "headline": "Fair Value, Wednesday, July 29, 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785282300.0,
         "tag": "JGB",
         "first_seen": 1785283246.262496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV2RjSWxHaWEwbGMzSVlxWVFJdF9pamlic09UTmpxUEZibEdEZFlDTEJfVFl6YUJoVm82NUozOFVNZ01KUm5vQ2hEQWNmTjRuMXhJRkJMRldrb3g1Tnlidzd0dk5XS2tlS0RENkVoQzU3bnlMcFhsQnV0cFNRYlBMWHNzblg2dndMcWpZZnhLRnRwUGsxNkEyT085SDFsZ3NqRVZpbk53?oc=5",
-        "headline": "No really, what is Kevin Warsh thinking?",
-        "summary": "",
-        "source": "marketplace.org",
-        "published": "07/29 07:45",
-        "published_ts": 1785278700.0,
-        "tag": "Fed",
-        "first_seen": 1785281431.4421616
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 20:45:44",
+  "updated_at": "2026-07-29 21:01:09",
   "yields": [
     {
       "label": "3년",
