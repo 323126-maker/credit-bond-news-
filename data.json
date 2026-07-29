@@ -12,6 +12,16 @@
         "first_seen": 1785359726.295759
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EZFMtX3lzemhveFV0MEhKcFRYQzFMOHRWSjByN1FNbVFJMGJ5cmlVQ3NianZCNTU2RkRQY2JCbDZmT3lsUkFUUnN6bl9UZEJYUXVz0gFYQVVfeXFMT3pCTmdnSEtndzNVWXRaVU96S2RuQlZ3a0daUXQwZWptQ1pyR2tERHluZTRBT29Yb1RwXzNNcGJqWHp6Q1h4RnpzclZ2bzVNU0gxT1V6enVCZA?oc=5",
+        "headline": "[속보] 美 연준 금리동결 속 채권금리 상승…뉴욕증시 하락 마감",
+        "summary": "",
+        "source": "biz.sbs.co.kr",
+        "published": "07/30 05:22",
+        "published_ts": 1785356520.0,
+        "tag": null,
+        "first_seen": 1785361527.347428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1RBa01lNjVfZWdWZmxOZWtvU3RHR2xaR3JBTUtmTWFRNzJfeXFlcERxbXpReVVkLV9peTk2MEVHTkdXWmVJQ1JSN1JsWjk1U0x6TEoySmF2emFYc0xxeDQ0MUJ5LU5qSzBvbXVlU1pHeEpTeW9OQ2NpbnQ5NGE2UA?oc=5",
         "headline": "[속보]다우 2% 급락…연준 '동결'에도 채권시장 \"매파적 발언 못 믿겠다\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785226080.0,
         "tag": null,
         "first_seen": 1785227439.656425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBpcVdGYjZMTE80cGI4QUJTQVc4bG5NLTQwOXF1Mm4yUVZHY3VjVWdVV194Tm5fcXhsUXJRdF82TkFhZVpwN3BDbzBia191b3d3WFBVcTJDUUE0N1EzV3VDN1hnTDdjZHNIQnZJSmxYbw?oc=5",
-        "headline": "사프란, 사상 최고 상반기 실적 기록 후 2026년 전망 상향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/28 17:07",
-        "published_ts": 1785226020.0,
-        "tag": null,
-        "first_seen": 1785226527.4072337
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5",
+        "headline": "Fed leaves rates steady, with internal dissent",
+        "summary": "",
+        "source": "Axios",
+        "published": "07/30 06:22",
+        "published_ts": 1785360142.0,
+        "tag": "Fed",
+        "first_seen": 1785361527.347428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDVNN2Z3M2ZDdjdxS2FmVkVKSVphVENFQjVtQWZDeWhDYmpValc1eHdxeVE4RjFMbGNXdFFHNlFER2IxZ2N2dk9HZWVxSzI3WWhXdXpGM2JORk95aWdPY3pRbGtWN1BmQ2Z5OGg0d2NhUFYzQWhKZFZ5SVZfazJ4b19DSlFTVkJSYW1hOGhrMS01QTdFZi1GdnZLOGFQRnhUazdIdE9lNDZlbGM?oc=5",
         "headline": "Market to Fed: Act on inflation or we will. US30Y surges to 19-year high",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785344527.0,
         "tag": "Strategist",
         "first_seen": 1785345324.0664902
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRHQ4WFRxYmtna0Npbkt3UGduQ0l5b3FPSGtwWGNjRUFnSmVyRlh1bGtpWklac3E0cXJCTFBOZ2dzU0xEc2NrR1hzdUplR28teWotWngxNlFka0FxT0k4WDJrN1dScFRFUVhWM2J0Z014Y1J2Y0JJQjBuVmZXdWhUSHU2ekE1eHI1d2hEUFpEc0JscTIzR19tRV9BV1RSS3N6SjhsNTdkQ1o3d0VlS2k5NjU1UGVkenk3Q0kyUk1fVDlDV3VONmJ2NDY5SQ?oc=5",
-        "headline": "Wall Street Expects the Fed to Hold Rates Steady Today. Kevin Warsh May Have Other Plans",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "07/30 01:36",
-        "published_ts": 1785342965.0,
-        "tag": "Fed",
-        "first_seen": 1785343528.4627383
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 06:30:59",
+  "updated_at": "2026-07-30 06:45:49",
   "yields": [
     {
       "label": "3년",
