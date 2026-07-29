@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fTlV0a0NKY3Y2NTJPUExLNkZVX2ZGLV9rUl80R0FDbjdEUVp3WnJneFhaY1BkQkxtaVpHNnJCNm9VRjlZc1lnbFh0eTJwYmdrQlE?oc=5",
+        "headline": "토론토 도미니언 뱅크, 싱가포르달러 후순위채 3억5000만 달러 발행",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/29 19:09",
+        "published_ts": 1785319740.0,
+        "tag": null,
+        "first_seen": 1785321037.1479652
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9aS0xRN2tZMHppb3VjR3l4Y1BxYm5Hc3F5cjhJcm5pOW83TzV0VC1OTHhsMVQ3UVYza24zVjZNWlpHb3VxeWJwcUltYTJkQXowaDRfREVkdFB5ZTRJZDVuRW5NdEhPVUFPS1HSAW5BVV95cUxON0xzeTJONEFKaS1aRVJkWTdfblE2SUdVeEpXUFlsVXF1RG04SGJKZTZqd3AxVDlDY0Z4eDNnbnY2ZHVNWktvc1JHQVVwNl9xcHFkYlF0Z1NJVnNXNkhCZkU0UE9WNEI5VGxES1p6UQ?oc=5",
         "headline": "하나금융 보험계열사 한 달 새 4500억 자본확충…킥스 방어 나섰다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1784811840.0,
         "tag": null,
         "first_seen": 1784812534.1390681
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5KajFmYTFPcGhfTHZ5SzVjSDlISDd6OXE1ellNRGFqLUdMQVYzNmk3djAzamVUSGRQV3ctVTRDdjBqc0xHMUE?oc=5",
-        "headline": "홈트러스트 뱅크셰어스, 2분기 순이익 1560만 달러·배당 15% 인상",
-        "summary": "",
-        "source": "매일경제",
-        "published": "07/23 21:08",
-        "published_ts": 1784808536.0,
-        "tag": null,
-        "first_seen": 1784815251.2529664
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-29 19:16:49",
+  "updated_at": "2026-07-29 19:31:01",
   "yields": [
     {
       "label": "3년",
