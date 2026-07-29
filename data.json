@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOSWpBRHR5MXZVRGxEekxHTUJ3eHE5S1NWN0RzbGJaY0lWVTJROUstcEVNbXpSdy1HdzFSWllWeGJHTGk5LUlVNlVZNWRKU1ZvTGxfNVM4YzdNanNFVWJzdnZGVGV6QklEdGJhLVkxTlFCYm1kS0luakptRGpVR2p5d1l0THkydW51RUJZSmxrLWk1eDlEU3FvQmhaOVhfZVl6X3V5dERuaEFsM1c5aHFMMW9melJVOHI4NXJnZVlyNFNLdWQtSEhXYnZCeUN5TEpfb3RrcGgwUVRFdUtfdXlFV0xHUDlaQk5xZ0R4WHVhR3RBc0JlRmFyNW1SRWFaclVpY055Z2I4N1gzTElZN1VJRDlQNGlVMmU3QzBJRlktYlU5X3ZBQnhJQ3ZOWmJwV3ZOamF5WFJyaFc5NERKU0Z3d0ZaazdvWGV6TkF4OWk3OGF0SWtPa1dOSU5jRU5aMUc2RGxOcmFRRGZwVF9qNUxRVG5kS0JPZ1VJN05MWVhLci14aTA4LVBXTkQ0dHcxNktKM25OWjMxeXpUOVJU?oc=5",
+        "headline": "Federal Reserve expected to keep rates unchanged as Warsh faces questions on inflation",
+        "summary": "",
+        "source": "WSBT",
+        "published": "07/30 00:59",
+        "published_ts": 1785340766.0,
+        "tag": "Fed",
+        "first_seen": 1785341035.8528414
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR1BZa2dPa1lOcjNBSmF2MHFHcTNBTV9mQzZOZ3BzR1ZrekhVWUhzLWszajBVWExhYWxJUWJDejh4SjBTdFdobFk1Y1NlMEpad0I4cUtrY0o1VzhMYmNOX2tuWjF3dXhGbkFVOWJncnZDdEt2dUEydkhhX2pwQXZlaF96QTZ3Z2l3OURfN2lLaVRRcEFLejhVTGZVSEl4XzJLWmE0RmxKRy16Mkh2ZGJvbm0wMUExTU83dHVJUlRn0gHDAUFVX3lxTE9kWHZBeUc3cjFTeGNrQk5QeGl2cHpycW5zR19kQl9vbEY3MzdUX0ZCa2pmV0RNT1VSUElKTEhhNmRmaVVnc1k5R0V2RkhTYkJROUZ3YXZmVjlPSWZ5MWVTWkxYS1B3ai1BZnRVeTE5bmR6Mm01eHlDYlpJblAta3hYSnN5Tnhzc19ZRjJwUWVTZzNRQXd0MUJGU29NRko2aVVuTTByMndYeWU3bTRXNWpEeFBlVDF5RTBUU1VaQUdlT1RlRQ?oc=5",
         "headline": "WATCH LIVE: Fed chair Warsh holds news conference after latest interest rate decision",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785302040.0,
         "tag": "JGB",
         "first_seen": 1785303035.0291405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0VrVFo3WDZGLU51QU9Eem9COGUyUHBvc085UFVFZjJrUkFuNzFwWm51bEVGTng1MENKc2NaSWJoekRwaHlQUnNyMGhnaGpKaGxacUtQOTJrWlQ4N3FrZWtkODVVLUZBaDBkSzlFVEszcFhGY250VkNTalU0aUxvZWplWnljUXJkZHgtbkV0MlFUSjRIanRnV1VLNWxUUjVoemNteG5IMnFLcklGTGJpWFZtdUJFZlp2V25zeTJ3?oc=5",
-        "headline": "Fitch Global Risk Outlook: AI Market Correction Emerging As Major Credit Risk",
-        "summary": "",
-        "source": "BusinessToday Malaysia",
-        "published": "07/29 13:28",
-        "published_ts": 1785299301.0,
-        "tag": "Global",
-        "first_seen": 1785300322.867788
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 01:01:03",
+  "updated_at": "2026-07-30 01:04:21",
   "yields": [
     {
       "label": "3년",
