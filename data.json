@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTlFUUXQzcVJnUzZaX1R0MHRoVnF1TzRBZ3ZHS3pjM1J2b0hoSjlnVnpyYmJSXzdzTmtqMjNFbFo5eG9jeU8wc2x0V0lZaFNzMkM5c2xocnZmM0tWYjJQbUNXSG1aZG9r0gFuQVVfeXFMT0hhWWZ4aFVaT2Rqa3lxcXJJRmRZYU9qcm9Wa2ZzbERaQ1JpZ2JDdFdaczBOMXQ0Z05Hbk9DSUhrV2ZES2xjNmJYS3BoZFZfYUNrY1JtSDNTNHA5ZmdzeWp5RzJtZDhxYkJBVks4Tmc?oc=5",
+        "headline": "\"물가 잡겠다\" 워시 못 믿는 채권시장...미 증시 '와르르'[뉴욕마감]",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "07/30 06:08",
+        "published_ts": 1785359330.0,
+        "tag": null,
+        "first_seen": 1785359726.295759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1RBa01lNjVfZWdWZmxOZWtvU3RHR2xaR3JBTUtmTWFRNzJfeXFlcERxbXpReVVkLV9peTk2MEVHTkdXWmVJQ1JSN1JsWjk1U0x6TEoySmF2emFYc0xxeDQ0MUJ5LU5qSzBvbXVlU1pHeEpTeW9OQ2NpbnQ5NGE2UA?oc=5",
         "headline": "[속보]다우 2% 급락…연준 '동결'에도 채권시장 \"매파적 발언 못 믿겠다\"",
         "summary": "",
@@ -282,6 +292,16 @@
         "first_seen": 1785239127.0580854
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxUDBtTk5NeGdlTWxrVFJYTHV6WjF3V2xNYk1leTM2RnN2cVZkZUIzWkNDX1U5ZHVmOVBDNmY0b0NJbERXa3Q1TTNkR3g3ZEVndWRndlctbENLblROeTRFUDZJc0J3NnVzbThESlZfa3k?oc=5",
+        "headline": "[채권-마감] 위험회피·外人 3년 선물 1만계약 순매수…국고 3년 3.6bp↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/28 18:40",
+        "published_ts": 1785231615.0,
+        "tag": null,
+        "first_seen": 1785359726.295759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XcFFuVjNtdHFVU3lxbkNuOTdCVi04SkNlZjZrOUptQU9kajNvQW9lUmdjWGRMaFhlbnZlUUk1dEM5NW9yd0JJamR2Yl9aU1l2NFJZTUFSY2tfQ1lkckhWaVgtZHBoRmQxdEZTY3VJZng?oc=5",
         "headline": "[외환-마감] 'SK하이닉스·삼성전자發 달러 매도' 공세에 하락…6.00원↓",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785226020.0,
         "tag": null,
         "first_seen": 1785226527.4072337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14WVNCUXlxU0JOTUhuWW9PRk1QTnBKckc3aFgzYkhlUllmZ3ZqMHlld0dUUWY2b3RxOE03SFN3aUxabEZKeVhfMWhrWFhyaURnYk1nckQ0UlpMVFdC?oc=5",
-        "headline": "[투자 노하우] 뉴욕증시, 유가 급락에도 혼조 마감…반도체주 하락 · 시장 영향은?",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "07/28 17:02",
-        "published_ts": 1785225721.0,
-        "tag": null,
-        "first_seen": 1785227439.656425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94dGFkTU55bnl6QTNEX2VHbmtjOHkxM0dSOFlNQ1dGcU5EdkdrVXZaRDdfSEUzOExwLUNuZnhOb3RHOWVqRzBQRmZqb1E1b3g2eVE4VVFsYTI?oc=5",
-        "headline": "NH투자증권, 5천억원 회사채 발행…SK하이닉스가 인수 관측",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "07/28 16:52",
-        "published_ts": 1785225120.0,
-        "tag": null,
-        "first_seen": 1785234633.2017274
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaDVNN2Z3M2ZDdjdxS2FmVkVKSVphVENFQjVtQWZDeWhDYmpValc1eHdxeVE4RjFMbGNXdFFHNlFER2IxZ2N2dk9HZWVxSzI3WWhXdXpGM2JORk95aWdPY3pRbGtWN1BmQ2Z5OGg0d2NhUFYzQWhKZFZ5SVZfazJ4b19DSlFTVkJSYW1hOGhrMS01QTdFZi1GdnZLOGFQRnhUazdIdE9lNDZlbGM?oc=5",
+        "headline": "Market to Fed: Act on inflation or we will. US30Y surges to 19-year high",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "07/30 06:09",
+        "published_ts": 1785359371.0,
+        "tag": "Strategist",
+        "first_seen": 1785359726.295759
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZTlFUUXQzcVJnUzZaX1R0MHRoVnF1TzRBZ3ZHS3pjM1J2b0hoSjlnVnpyYmJSXzdzTmtqMjNFbFo5eG9jeU8wc2x0V0lZaFNzMkM5c2xocnZmM0tWYjJQbUNXSG1aZG9r0gFuQVVfeXFMT0hhWWZ4aFVaT2Rqa3lxcXJJRmRZYU9qcm9Wa2ZzbERaQ1JpZ2JDdFdaczBOMXQ0Z05Hbk9DSUhrV2ZES2xjNmJYS3BoZFZfYUNrY1JtSDNTNHA5ZmdzeWp5RzJtZDhxYkJBVks4Tmc?oc=5",
+        "headline": "\"물가 잡겠다\" 워시 못 믿는 채권시장...미 증시 '와르르'[뉴욕마감]",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "07/30 06:08",
+        "published_ts": 1785359330.0,
+        "tag": "Strategist",
+        "first_seen": 1785359726.295759
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUTNYQldyOTlxVkt5ei1MX1BtWWZ5Vm10eFdCZDRELVVSemlDZzF3UG5mTGFjWW1VMDVPYVlkN2duN0hIc0plTDFyT1dPVGtXR3ZWT2FOaFJkS1dLRFVMU0RFSW41VGpsQVZEWk1BY1lyV0hleDQtaEF3OVg3ZGpGR3E0TU1Ld1dBbFliT0Y2bDhpUQ?oc=5",
+        "headline": "Munis slow to react to Fed decision, UST sell off out long",
+        "summary": "",
+        "source": "Bond Buyer",
+        "published": "07/30 06:01",
+        "published_ts": 1785358860.0,
+        "tag": "Global",
+        "first_seen": 1785359726.295759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9keHpfdkVySXF2cHJqOFdWdjhwcVRkY2FCMWRxZnJBcTNIM3JLUjRwOFp2X1Z4VVVoQWM1ZlRlRUhoUXZvM19tYVBZa3czUjR3M2Z3S3lCUDd5VW9SQjN0SnhfN0ZIcndZaG9qa2pGcGJESVlDblJUQ3JjcU0?oc=5",
         "headline": "[New York Stocks] 30-Year Yield Surges to 5.2% After FOMC Decision... Broad Market Ends Lower",
         "summary": "",
@@ -1648,6 +1678,16 @@
         "published_ts": 1785357060.0,
         "tag": "Fed",
         "first_seen": 1785358838.884428
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Jbm94MHNHUGZUcDB1M3BVX19jY19WTllNeE9VX0hGQkFDMDRtRnMwX1ZGZjRFUmxQZ0d1eS12TGQ1QzlEaC1aRkU5VkRLb2EzY2FISg?oc=5",
+        "headline": "워시 “2% 목표”, 3명 “인상”...美 증시 급락, 채권금리 급등 [월가월부]",
+        "summary": "",
+        "source": "매일경제",
+        "published": "07/30 05:26",
+        "published_ts": 1785356763.0,
+        "tag": "Fed",
+        "first_seen": 1785359726.295759
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOQmNJSmNyR2pHLWpiR2pyTVBkY3dPMkVtQUF5TzdnOVhyV3B2djhZcUxjRmZSc1M3V2VZakI0YnRZVDRHX2VRUzdacURJUUdjaGc?oc=5",
@@ -1830,6 +1870,16 @@
         "first_seen": 1785352522.5749137
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9xV3BUbVQwX20tX3JfcU9oVVJ2bnAzdWdOY0lGTi05RVJxSG0tUGlzTkVfOURaenlDT19FbUJtR0x6N2k4UFFmYUtSWllqVW8?oc=5",
+        "headline": "美금리 3.50∼3.75%로 5연속 동결…\"9대3 표결로 동결 결정\"(종합)",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/30 03:33",
+        "published_ts": 1785349996.0,
+        "tag": "Fed",
+        "first_seen": 1785359726.295759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXzhLd1pxV0xXOE9HVGtaZ0FmQlV0ek40aHhLcTluZF9KVGprUDRXLUtGR01OenpjWk5VZnZxa3dTdVVWWkc1VFY5clRlcVgyV0pnN2tmWkMzUTFwbF93X1dqRjVXTWZOSTZOd2o2d1ktVkpXRjBvS1B2eDhZVEFiTWVyVlFlUEdDeWlOS3NXVGhmOUNRSHU3c3Bn0gGfAUFVX3lxTE04TzUzemNVcXFnaUZ5NkE3TkhsR1JmMk84WWhXVTdodWFyY0U3a21JWjhwNnJTQTBuVHdILVM2ak4wUUJqRHlIMERqUHBVbFZwSTdSYmdRUmtwWF94YU1JN0E2WjJMbnFsdV9pR3NPWEljQzRsbVVOZzZCNGJOR1dtZjBWSWplUmp2QkN2b3RzOGF2bThSQnBGNXg2QjNBdw?oc=5",
         "headline": "Watch live: Warsh gives remarks as Fed holds interest rates steady",
         "summary": "",
@@ -1890,6 +1940,16 @@
         "first_seen": 1785348925.0283802
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNGVHX25zMWZPbFFtOGhDTTdqd0RqejEwZHo0ejNIRlhpREpXcHNiTTdTUXRYZkdtbHJlS0o1UFNtV3hlUkM1S3dVOVNOd2FyVFBpVTBQLVhSZEc2dTN4eUQ4di1PdU90eFdlRkV0aGtlYThybFlaWVI2UHp1SG9UcUpXX2R0MnZVSTRxdmVVemhlSmdFZXRKdTJ2N2RnMzhvYUV2Nnk4MWsyVkRHVmJSYXpB0gG3AUFVX3lxTE9ObWc2RXNHMEtQUDVBZHZLd0I4MlFmNTdhZHlNTjZnZFBGV0NCOXlvOE1tV3BCZmFyR3FOTjY3Y1ZjZ2thNC1HREQ5eU9oeFZrLWpoSjNsREV6ZHhIeG9qbnJtTnlCeTJrQ0JkM2k2Y0MybFY1WmZWOUNBRFYwN29adWlpdHM5cU1IN201WTQxUGhTaUQ5VnAwZlZqbkJvNS11QVBfV01hX2hjdkt6ZHdTbUZ2TmhNSQ?oc=5",
+        "headline": "Here's what changed in the second Fed statement under Warsh",
+        "summary": "",
+        "source": "CNBC",
+        "published": "07/30 03:05",
+        "published_ts": 1785348305.0,
+        "tag": "Fed",
+        "first_seen": 1785359726.295759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fSUdxRFVfckhQT1UwNGlXc1czVk9pZkNmUnFlXzRUMF9XM1hBbV9rQUJMWWZiNWFjTDZjakl5X0JFdUgwWWJpOWh6U283QmMyMGVoUmJQSXd5cE15QnNQcHhYX1ZDOUQ1bUxxelVla3J2cGl6YVg5btIBfkFVX3lxTE00NUVsV2dsNzVfbDBaZ3FKdTFwcWtFek5vLXV6YXZqUHd6T0FmblZWVVMzaEJMZXFRQVlFbmNUcU1vZHZ6QURZNlhwZDlEY2RLeGNTVENWeEtyQXNlOU9ETFpIVl9WbF95QjM5SUxGd1dOXy12dXZzbktVNUdxdw?oc=5",
         "headline": "Fed holds interest rates as new Iran tensions raise inflation risks",
         "summary": "",
@@ -1908,6 +1968,16 @@
         "published_ts": 1785348060.0,
         "tag": "Fed",
         "first_seen": 1785354323.6464472
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xVTFpMmpKVlY3blBmOVRqVnR0RHQ2Rm96eUo3dHZoNmp5WmdGOHd0YW03U2lzbWVSZDZsWHExVlNmenB6bmJvZGdscUo2MW4yN1BiaFFn?oc=5",
+        "headline": "WATCH LIVE: Federal Reserve Chair Kevin Warsh delivers remarks after interest rate decision",
+        "summary": "",
+        "source": "Fox News",
+        "published": "07/30 02:47",
+        "published_ts": 1785347231.0,
+        "tag": "Fed",
+        "first_seen": 1785359726.295759
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMnZ4UUFmWWdIX0F3RzRMV2UxaXd0Qi1rY21rRTBTeS1uems5bHg2Tm9nNVdNN2lCQlA1a0FuN09jQ2pTc1dWZFM5Ul9VeTJlUW9TZjNPeThSUmh1TnRmUzNZT2FJSnlFRUQ3QU1wWjBGVTI0ZGhoMnNlWVFsVmVOR0oyYmJramtONzM5aGtZaTdoM3NLYlZTU2QtWW45bVluLXB0RThOYlFqZHNySXZjUXRWd1pLQ29EX2RGSFljckhXcnVZVkJUSDV3ekJ4VHVBNEJlTjVHWDdmYXRDX0pQVg?oc=5",
@@ -1938,76 +2008,6 @@
         "published_ts": 1785342900.0,
         "tag": "Global",
         "first_seen": 1785344441.9526758
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY0FKTTM4VjFDaXNmbHh1b2E1VEdBT1dGMmJlQzZPb1VCanFXOFJIRTEwTXJNOTdXMUNIb2xKa1VjbHhZV2hhd21mVDhHZFE3WmFaOXBXWkxLeVNuQmRLU1pPdXZ0U3QwT0hTblF5bHlRQ3Q3Sl9LQ2hucFU1aWFoMkZRTnhIRXRwVi02UHplckxVWUls?oc=5",
-        "headline": "All Eyes Are on Kevin Warsh: 1 Reason the Federal Reserve's Actions Don't Matter to Long-Term Investors.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "07/30 01:30",
-        "published_ts": 1785342600.0,
-        "tag": "Fed",
-        "first_seen": 1785344441.9526758
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU19RcXVtbW42aU83V0lHVFNRS1NkcWVNT3RPUjZ5eU95Q184bURrQllKZ3o1cXowaTdlQlRrNWJLMWJpdjk4RmxYODg5WGZET1VUU0puWHhmQnVYSmVBUmxPSUY5OVFneGwwZEotby0xcjRDZ1huaEtHTDhqWTFNZHNVNFJuR1hvR0xDQlpZdm1JTkRWaFNwdmluY1k5VXZES3ZWWDBfUXdPOFJ5?oc=5",
-        "headline": "AI spending spree rattles credit markets! Credit risk hedging costs for tech giants surge, with Oracle's (ORCL.US) CDS hitting a multi-year high",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "07/30 01:00",
-        "published_ts": 1785340845.0,
-        "tag": "Global",
-        "first_seen": 1785342639.474505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinANBVV95cUxOSWpBRHR5MXZVRGxEekxHTUJ3eHE5S1NWN0RzbGJaY0lWVTJROUstcEVNbXpSdy1HdzFSWllWeGJHTGk5LUlVNlVZNWRKU1ZvTGxfNVM4YzdNanNFVWJzdnZGVGV6QklEdGJhLVkxTlFCYm1kS0luakptRGpVR2p5d1l0THkydW51RUJZSmxrLWk1eDlEU3FvQmhaOVhfZVl6X3V5dERuaEFsM1c5aHFMMW9melJVOHI4NXJnZVlyNFNLdWQtSEhXYnZCeUN5TEpfb3RrcGgwUVRFdUtfdXlFV0xHUDlaQk5xZ0R4WHVhR3RBc0JlRmFyNW1SRWFaclVpY055Z2I4N1gzTElZN1VJRDlQNGlVMmU3QzBJRlktYlU5X3ZBQnhJQ3ZOWmJwV3ZOamF5WFJyaFc5NERKU0Z3d0ZaazdvWGV6TkF4OWk3OGF0SWtPa1dOSU5jRU5aMUc2RGxOcmFRRGZwVF9qNUxRVG5kS0JPZ1VJN05MWVhLci14aTA4LVBXTkQ0dHcxNktKM25OWjMxeXpUOVJU?oc=5",
-        "headline": "Federal Reserve expected to keep rates unchanged as Warsh faces questions on inflation",
-        "summary": "",
-        "source": "WSBT",
-        "published": "07/30 00:59",
-        "published_ts": 1785340766.0,
-        "tag": "Fed",
-        "first_seen": 1785341035.8528414
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRU1BaG13MmRCRjVYQXVrZkRiUHFXRnhyMV9CczFKTWUyYkZDSWRneTRldnN3dmZOSHo5enhfamU2MjNXRE9tZlhTWmM1WUY5NHpNNkVPUVpxTzFIYTBoMHpMaVNvYTliVlZHRmpTT1NZMzNwZWJhSlUzZ0dxSUotNzVQRktuOUpUTDNwY2lDb0hlWmJFVllWQTA4WHQzeXRIamI4TngyZU9kbXhad2dybXI1dUU?oc=5",
-        "headline": "Warsh Stands to Make Market History If Fed Opts for a Rate Hike",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "07/30 00:57",
-        "published_ts": 1785340622.0,
-        "tag": "Fed",
-        "first_seen": 1785342639.474505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTThBZ09ZOU5fYTBQa0NWUWRteDMzeEItek16REUwNzdMQ2xsNURxU2pzU3hrd1pIQ0tXUzh0d1F5LTFRVmF6dkozMzhySTVXZEROdWkxd2pTRmlReGVZQlpZdUZnRkZyN1R4aEY2ZjUwTVJ1T1dZaTU0VnY4MVd6UXIzeHdMYVly?oc=5",
-        "headline": "Explainer: What are credit default swaps and why are they spooking AI investors?",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/29 23:59",
-        "published_ts": 1785337189.0,
-        "tag": "Global",
-        "first_seen": 1785356174.5519168
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZjZwajJPMnBveWtPQktYMGZuZjc5SmJDY0hMdC1aMGs0MnB4REZDNXVoQm9DUk82SlgwVzFYTk5ZT1ktSklfQUZnS1FPdkF2WUFQSVgzckZ6X2x4dTEzbmxuZUhXNkd0NkZOZ09zSkdZT1V1NFlfWGJoRFhsdFBnbTd2U1BXVG9YaDMyaW02cDVWZEhF?oc=5",
-        "headline": "EM Debt Emerges as Top Relative-Value Play for Yield",
-        "summary": "",
-        "source": "connectmoney.com",
-        "published": "07/29 23:58",
-        "published_ts": 1785337132.0,
-        "tag": "Global",
-        "first_seen": 1785356126.877871
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYkZyckRGT2lMVjhLUVdOVmVUM2IwSndGM09Ialk3QW15TElmSW9WaGNhNmEwQ0lKRzlhTWR0S0NaRWlyb004SS1DbWVwT0tHZ01mcWVkNG40bFFzX1FWSzU0UjdST0N4dHBTOEdxSnIxaUZwNXVIMUhkTXhhbTN5cEdJX0N0bURLeFhZNURKVElNdw?oc=5",
-        "headline": "Form 497K Datum One Series Trust",
-        "summary": "",
-        "source": "StreetInsider",
-        "published": "07/29 23:49",
-        "published_ts": 1785336584.0,
-        "tag": "Global",
-        "first_seen": 1785358838.884428
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 06:01:04",
+  "updated_at": "2026-07-30 06:15:48",
   "yields": [
     {
       "label": "3년",
