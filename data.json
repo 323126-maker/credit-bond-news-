@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWJ3RGw1RWlwc0VVdkxaYUh2VUhjaGt5MTlXdGgtNWRIWHpKcFNROTF3WGVWbkpGZzBWVFl6cU12Y1FsQmNXNWdjVFBlZzZ4YUVYRjVmY25hX2xDdDdhNXNkcXRmenU2WWI1YzhMaFF2ekJsSWdQYl9abVZLZzM3cmw1SS1PVS1nNVE?oc=5",
+        "headline": "Kevin Warsh, You Are the Ball",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "07/31 02:13",
+        "published_ts": 1785431611.0,
+        "tag": "Fed",
+        "first_seen": 1785435324.7280989
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GaFNPMjAtWnRXZGJIbWMxOHhOX0NtSG1LcFdvTTBhQkJLY3RaM09tallTTXI2bTZ4bEVCRTI1aDJvZlI1cURNR0JJRDZPNF9WWjhpNzJmVFViQldvMzhxeGoyRDRnRU5zbm1aR1Vn?oc=5",
         "headline": "Don’t freak out about Kevin Warsh’s ‘credibility’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785401336.0,
         "tag": "Global",
         "first_seen": 1785405643.734735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTWNET1FJSnQxVVJaNF9xX2NlbDJRelo3bkI5M0F4LXhBTzZEWWxybzNGSVQ0UGhySW52MFhWUzdhUHJ6T1Z2WDFsX3IwS0VaandYWFMydTl5Vkk?oc=5",
-        "headline": "“감세효과는 미미, 재정위험은 확대” 다카이치의 1% 소비세 승부수, 국채·환율 불안만 키울 것",
-        "summary": "",
-        "source": "The Economy Korea",
-        "published": "07/30 17:36",
-        "published_ts": 1785400570.0,
-        "tag": "JGB",
-        "first_seen": 1785401125.0625224
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 03:00:56",
+  "updated_at": "2026-07-31 03:15:47",
   "yields": [
     {
       "label": "3년",
