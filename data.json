@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mMC1tMW1tM29UbzJOS2JoQTNrc3p0VU1FNGkyMHp0MGNSVTladkxBcjdmV0ZSa0NKNUp2WHJRUklvUXliUU1SakoxNndQbGlOMlRFU3JNaUVSM0NQ?oc=5",
+        "headline": "[GAM] AI 치킨게임에 차입 불어나는데…금리가 안 도와주네",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "07/30 16:41",
+        "published_ts": 1785397260.0,
+        "tag": null,
+        "first_seen": 1785397521.5824594
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTEtfei1sRFNUQjZzaXpCSjJIMWFWTTNBaXVSWnhNU3prRnB1czBzT183NlBVSHg5SDlzTkdwc0gxZk8ycDR1OVFvZzhGZEFzQ2Y0bTQ4OFBwRG1VeHdndnFWWjY2bjFLbmFnb1JLQ3A?oc=5",
         "headline": "피치 \"AI發 시장 조정, 심각한 크레디트 위험 요소\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785312846.0,
         "tag": null,
         "first_seen": 1785313848.752942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56NTVfbTM0cGFYODdjUU41QkxlLTY5QWJCdWhDckxiSEplUlQ5MXQyVlFxV3FfUnI2aWtUdkY4cXVyZEtJZFNMOEFpenRYbU83Y1A1NDl5bXZLV01QejBwM015LWJ1RWd3dkZTME9QMzRsdw?oc=5",
-        "headline": "[채권-마감] 국내증시 투매에 일제히 강세…FOMC 대기",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/29 16:40",
-        "published_ts": 1785310808.0,
-        "tag": null,
-        "first_seen": 1785312043.956958
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeDFBWEFVTXdLbklhdEx0NW9qR00yd0F0TUVTZ1hPTkhSX0ZVVXhqbXBsVkNqTFZkSEpaOEpidkczVVh2SktxT3lseEpSanF0aUlFblFfRVBBVFRIcWhoQUNSakRhSl82T1ZsbkllMUlkQVdCZkFoSUxVNG5NQm96X0xHOW5vdGJtQkpiOXVjREJxZnBmbVBudnJCdzZFOTJLR1dYenVxQzRPLUFpWmc?oc=5",
+        "headline": "Mohamed El-Erian Warns AI Financing Strains Are 'Much Broader' Than Any Single Company, Market Commentato",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "07/30 16:30",
+        "published_ts": 1785396607.0,
+        "tag": "Strategist",
+        "first_seen": 1785397521.5824594
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFd6bTBGWjBxQnlyaVE2QmM3OFJsdmVzT09tN29xdU0yblBlZ1cxWXZrWnY4ZTNhajUxd3AzRzgwV0NBOVlrdjZ5bDR4SmdJbnJEaFFFeEtCSGktN3Q4cHNTRkNFcG12SW0wbGxnYVAzYmJ4M0Ywa2FtTm9oU2V1dG5YR1VJUHZBVXc1d2plS1JIZFFnRTJrZ1QzREY?oc=5",
         "headline": "CBN lowers T-bill yield as oversubscription jumps sevenfold",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1785389409.0,
         "tag": "Fed",
         "first_seen": 1785396637.5207088
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbzNjaFVLcGRUWlBxSUhsTnlsWVQ5ZkVibkZfM2FxTjFLbFZpZHRJYmFhSkJBSENvVl9qSzNBU2FqbXc4dktZOERuMmNoT2pWa0Fhb2ZBYndrTXVybjhfalJvYnBZc3pUZHBzeWRQbU5vdGZ6YjZQT3QzTm90N0JqQ1ZWNDFmeFNKTklrRWdNZTI1V28?oc=5",
+        "headline": "Asian stocks stutters after rout, Fed leaves markets guessing on rates",
+        "summary": "",
+        "source": "SRN News",
+        "published": "07/30 14:20",
+        "published_ts": 1785388800.0,
+        "tag": "Global",
+        "first_seen": 1785397521.5824594
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNS255YjVWcTJJRnhSWTFRbHFKOWxNN3lZaE11WndkQnVZRTR6aEc0Rm9HLTNLUGxGQjh2R0R3a1pta1J0U3RPQlVWaDYyZ1ltUk1ySWdySjhQRjRxZ3ZtTENQM1V3TjRSMXZPc04wZ203TzVvbmlGZG45MUp2blFUcHFZNEdQTkJhS1RqZnpUVVV1MGdPQXZSQ29ZTEVNQjVyTUhQT25VMFpCWmpqNjFUekRBV0NzWmM?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1785370200.0,
         "tag": "Fed",
         "first_seen": 1785383123.8643095
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFcwWGRGeEpoajRqYUFqTTRrdG1mSTAzSXA0MGpWR1cyVjNncjFMY083Ujl3dmt2cDhza05hVGpZY3RnNGpwUVBBWnhZWm9sU2JoQWpMamxSY3VqZEkxbXFXUmpxTnJkcDZ6blZUMENNaDJhVGdNZzJkUDFsQVJuVTVaaU13SHA1c0pVYnh3NnpyNklzaVB3Nw?oc=5",
-        "headline": "UAE borrowers tap int’l debt markets at a record clip",
-        "summary": "",
-        "source": "EnterpriseAM",
-        "published": "07/30 09:00",
-        "published_ts": 1785369600.0,
-        "tag": "Global",
-        "first_seen": 1785381324.9980733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV18wWklmb09Ha2dFNVQtZVR1UUJudE5sMmhiQjdsUXR3bFVSY3A0bE1VekFxejZOcDZIcG0tcUxCOVJDdk5BQU8wVWNqVEVpRDkyM3BaejJReUJsTmdRd2NhVkRGeUY2MFZkckdhdEV4Z2NiZ0FFdnBqSGRQNmxOeHpaQnNIdE15?oc=5",
-        "headline": "\"금리 동결 속 조기 인상 신호 찾는다\"… 일본은행 통화정책회의 개막",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "07/30 08:32",
-        "published_ts": 1785367943.0,
-        "tag": "JGB",
-        "first_seen": 1785368722.004902
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SeEhXdnVBakl0RDgzVGNnaERZc3NYeE8xQ0p5b3VPc2pjNXJIRGdSMUVINzJSQmlxRE5MQjJ6MFFuSDMtSnA1bzdQaDhUUVI2SXFJ?oc=5",
+        "headline": "상권과 단골 수요가 대출 한도 가른다…소상공인 특화 신용평가 8월말 도입",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/30 16:28",
+        "published_ts": 1785396480.0,
+        "tag": "수협은행",
+        "first_seen": 1785397521.5824594
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCczMxa05kRmlHRFA1X0FiU0hCd3V4TWdDWVJyRGk3ZkVlcm1fbUFrSFVHcTg3eUJaRUVRQjVicEZLQlNoaFFHWUlGdG95cUVsNUZIS1dReXlJNmxPNVpwclZZLWQ3YkkwU21FbUx5SQ?oc=5",
         "headline": "신한투자증권, 반기 최대 실적에도 IB 수수료는 뒷걸음",
@@ -2400,27 +2410,16 @@
         "published_ts": 1785283044.0,
         "tag": "신한지주",
         "first_seen": 1785283246.262496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IWUc4cGVHUFJmbU1qdWlHZVo4bzZjcEtlNV9PaEhGUXdZRW9WZUZYMWNLTk5nYWFjbXl4ZEpQVWxCaUFHc3ZYSVpYV2Fjb25ob0h1QjlpcEVDeFdSbk9FUTR5SjZWckRseFE?oc=5",
-        "headline": "4대 금융지주계열 증권사, 상반기 순익 '두배'...증시 활황에 비은행 핵심축 '부상'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "07/29 08:00",
-        "published_ts": 1785279602.0,
-        "tag": "우리지주",
-        "first_seen": 1785280529.8024848
       }
     ]
   },
-  "updated_at": "2026-07-30 16:31:00",
+  "updated_at": "2026-07-30 16:45:45",
   "yields": [
     {
       "label": "3년",
-      "value": 3.8,
-      "chg_bp": -2.9,
+      "value": 3.831,
+      "chg_bp": 3.1,
       "series": [
-        3.791,
         3.747,
         3.748,
         3.776,
@@ -2439,15 +2438,15 @@
         3.959,
         3.865,
         3.829,
-        3.8
+        3.8,
+        3.831
       ]
     },
     {
       "label": "5년",
-      "value": 4.037,
-      "chg_bp": -3.1,
+      "value": 4.078,
+      "chg_bp": 4.1,
       "series": [
-        4.028,
         3.981,
         3.98,
         3.991,
@@ -2466,15 +2465,15 @@
         4.214,
         4.117,
         4.068,
-        4.037
+        4.037,
+        4.078
       ]
     },
     {
       "label": "10년",
-      "value": 4.257,
-      "chg_bp": -3.2,
+      "value": 4.311,
+      "chg_bp": 5.4,
       "series": [
-        4.205,
         4.183,
         4.197,
         4.203,
@@ -2493,15 +2492,15 @@
         4.447,
         4.333,
         4.289,
-        4.257
+        4.257,
+        4.311
       ]
     },
     {
       "label": "20년",
-      "value": 4.485,
-      "chg_bp": -4.6,
+      "value": 4.506,
+      "chg_bp": 2.1,
       "series": [
-        4.365,
         4.336,
         4.344,
         4.375,
@@ -2520,15 +2519,15 @@
         4.642,
         4.561,
         4.531,
-        4.485
+        4.485,
+        4.506
       ]
     },
     {
       "label": "30년",
-      "value": 4.515,
-      "chg_bp": -2.8,
+      "value": 4.537,
+      "chg_bp": 2.2,
       "series": [
-        4.438,
         4.382,
         4.368,
         4.4,
@@ -2547,7 +2546,8 @@
         4.643,
         4.567,
         4.543,
-        4.515
+        4.515,
+        4.537
       ]
     }
   ]
