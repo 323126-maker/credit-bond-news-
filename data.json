@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtOGlkUTVMT1RDeXdtdEp0dFQwUlE3V0hiUy1iQmJ5RURlb0ZJSkFjaFA1eWxrWkJZYUpVcFB6dUoyTUZzdFFFTzhwOV9CSVlBcHc?oc=5",
+        "headline": "아그니코 이글 마인스, 2분기 금 생산 86만온스·프리 캐시플로우 13억 달러 기록",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/31 06:36",
+        "published_ts": 1785447377.0,
+        "tag": null,
+        "first_seen": 1785449721.8334584
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5OVg5T284UWU1WVIxWXdycmRBVlJGeThGdmtUaGZmQzIwS0xzNHloQjlKSGczN1dvYXREYzZ5VkRGNjBCOTJSYTlxZVNGRm83ZkoxbTFSMDlDeVhXZjI3TkhFZXl4bFByQ1ZaRGJrb25zbHROSGhN?oc=5",
         "headline": "S&P 글로벌, 노키아 전망 상향 조정… AI 수요 및 다각화 효과",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "뷰어스",
         "published": "07/30 10:00",
         "published_ts": 1785373241.0,
-        "tag": null,
-        "first_seen": 1785374123.0452175
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRjZPcjB5TjdWTlE0RmZ0TVVZSDYxdFdwM1puVS1mZ183WGxnaDN3QWllc1hwR0VGeHFOd1l1aTR5SHJoR0N4T1FxRmhoRzhGclVwckxwdHNtSVVLOE1vbV9MVjZQemdWcW5sTHQxUno?oc=5",
-        "headline": "'채권왕' 건들락 \"채권시장, 기준금리 올리라고 신호\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/30 09:56",
-        "published_ts": 1785373015.0,
         "tag": null,
         "first_seen": 1785374123.0452175
       }
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMEpNYjQxWFNQQXN4UjBrdGhLR1hadzVLT000UWl3QTRZWDlWRUExX2E1c3JnTndCSzJWZXhkekRtMm5hb1oyb1o0NTVzM3lwaEJQR2Vjaldudk03Y0lKeUs0YjRzN2JRQldCWlQ2emtDd21JOWZHOWdIQldOU2hsZ0RMNEsxYm43WHlCMzRDbVVhUzc2M25CajQ5S0l6RWoyT3R4V0VTcFZpRFV5MjFGa0NjNnpua3ljcFl1enl3OGhocUl3Ulg2aGdmNWV3ZDd3cy1vTFR2c0VwOXlKNXdBX1gtZ2JBQ3hiMGZzbHR3RzFTWHRtSU52ZUFhQ1FOOHJOcXF1OEZMSDhyekd2b3g4TTRDTDRsV2o5YzNuZlltaEF2ZDg?oc=5",
+        "headline": "매파 연준에도 버틴 비트코인…일본 금리 변수도 넘을까",
+        "summary": "",
+        "source": "데일리안",
+        "published": "07/31 07:01",
+        "published_ts": 1785448860.0,
+        "tag": "JGB",
+        "first_seen": 1785449721.8334584
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDJ3UXJHMlhVM1NmQW9rd0ZOQllENFg5a3FtTTZqYlV2a2FFbUxrNkEzY0NFS0ZzbXhNN0pMbHROWUVuTTB0QjVKbEd6M1NPUXpxRXNpMUl0VmdQRmlsMHFqOWNEWUNNQ0F2YlNoMVhXUXI1LTBhVUp6V25SM3VjejlmVzVoYkp6?oc=5",
+        "headline": "50분 만에 5엔 솟구친 엔화… 日 당국 '기습 개입설'에 157엔대로 급등",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "07/31 06:59",
+        "published_ts": 1785448789.0,
+        "tag": "JGB",
+        "first_seen": 1785449721.8334584
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCZW5VYjhGV0pjWFI2YWRXS3lkX3JmZDZ5ekxDX21zOWFkcXFZbkduSWlFcGlCaG80dUNoYzdodnpuYXI1TDJWNklPNU0xNkxY?oc=5",
         "headline": "엔·달러 환율 급락…\"美·日 당국 시장개입 추정\"",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1785445800.0,
         "tag": "Fed",
         "first_seen": 1785447030.9747224
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqSVBwQVNZVXRhYXFJMC01Qy1sdTlkUXB4b0V2UnBiVXhJRm52LUx2V1Bia3VrYUlmdTNKWFFKejYyWEJ2ak9aeDdsaWs4SkJuQVBsblhCNUJNQTRwUXRDWURIa0N5UzNIaDB1WDZTS2pjQQ?oc=5",
+        "headline": "[뉴욕환시] 달러-엔, 日 개입 추정 속 4엔 급락…DXY '100' 하회",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/31 05:49",
+        "published_ts": 1785444588.0,
+        "tag": "JGB",
+        "first_seen": 1785449721.8334584
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PeGF2YUk1R1c1Qi1Ybjh1VjNRc3pucUdsY05DdEFwOVZSRmFTeHhzV21KckU0aWNuRVZqNzRtWm9ZWExvZU9QcTRkbFlWaFVVbXdpbFB3WEJXTmRKTWxHWnRPVHA?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785411033.0,
         "tag": "Global",
         "first_seen": 1785417323.0268662
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcVIwQU9peDNIM2M3ejJCbFBQY1lfendlei1NakVXZEtoZkdaRWpPQXdMdkNKVUhvZGs3ZWtoZDBVMlk1cTRSaHA4X05PMUhfUmtzN2RMc05VSlpLR2I1djYyQmNQYjNadmpISmRwbTFPMVo0Nm1rS3BNaDJaMktoaXRrOHAyR0VPWUhsd19OYm5WUXgwUnhJLUR3?oc=5",
-        "headline": "Jamie Dimon warns market risks are big",
-        "summary": "",
-        "source": "Money.ca",
-        "published": "07/30 20:30",
-        "published_ts": 1785411012.0,
-        "tag": "Strategist",
-        "first_seen": 1785420036.3739824
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDdWaVlhdF96NXc0QkR5WGh2SmRaZk10OUh3RHE4cXlUaHpHaUd6cmctTjJmZGZ0aXhfQ3hERmFFUlAzMEhDeFIwdkpzWHAydVd0YldseDZ5TWVqakIwdXd3X0JwTWpoX3FVUndXVGpyUF9SMF93VTFKaTVvSTdTT3NtMVJqSnM?oc=5",
-        "headline": "Kevin Warsh Just Broke One of the Fed’s Most Powerful Habits",
-        "summary": "",
-        "source": "inc.com",
-        "published": "07/30 20:30",
-        "published_ts": 1785411011.0,
-        "tag": "Fed",
-        "first_seen": 1785412835.310482
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVzNBaHBuV3FGS0R6SUhxVW4tVzZvX1VaRDdfRnowS0ZtSjBZeFVYTmcwcjZEUmctVzdDcFlUal9KWTV2YzRIREd1b0xTRVRjZEJWbGZHb2JJcFBiQzRkNHV0dnBFeUZvV1lwRW1rQXkzZElfRnBYd01YVFZ4VG1fTkVleFJtbktrQW1vYXR6YWRWVDdEZEVXQ0NMUFA3UUZ5ZWhCRVJwcmdzUEFxQVo2QQ?oc=5",
-        "headline": "Tradeweb Reports Second Quarter 2026 Financial Results",
-        "summary": "",
-        "source": "Business Wire",
-        "published": "07/30 20:00",
-        "published_ts": 1785409200.0,
-        "tag": "Global",
-        "first_seen": 1785419127.0333526
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 07:01:05",
+  "updated_at": "2026-07-31 07:15:43",
   "yields": [
     {
       "label": "3년",
