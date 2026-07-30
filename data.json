@@ -12,6 +12,16 @@
         "first_seen": 1785382229.546941
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2dnJ6b1F5N0xwVW02Zm1Nb0xOeHZLbDRGdnczbl9LX0tqLWpDOUp5UlI0NmlLY1hGSXpuclVHQkdZMFZYZlIwclJKVEtRRVFQaXc?oc=5",
+        "headline": "기업 10곳 중 3곳만 \"주식시장, 경영활동에 긍정적 영향\"",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/30 12:00",
+        "published_ts": 1785380419.0,
+        "tag": null,
+        "first_seen": 1785384925.381244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1fT1gtOHRQRTd4dW9KU1NCZDhRNjQ5Zjk3QWZrUnkwRTBEUkFONlViN1pIdjMxOThleGxXQV9kY045X09Rc1Nmd3JiWTRMdm5ZbmJpRmZxMElvYXJETHdpSVdoSkotVzJVYlZnRkpPMzh3eTQ?oc=5",
         "headline": "‘녹색채권 40조원’ 시대인데…절차 장벽에 시장 비중은 1.8% 그쳐",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785298598.0,
         "tag": null,
         "first_seen": 1785303924.347251
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE14QUNXTVVKTHQxWklSbjJVMFhhX2NuVzIwa2dOYkFtVVlubnBzVTJoV0JiYnk3ZWhTZUpfMllyU3RJN2xQc1dnTjRTSnowR0pTQ2luUVJVQjdQV2NMQXljbHlVTkNUNzZsdlE0?oc=5",
-        "headline": "미래에셋생명, AI 분야 세분화·다변화 …3분기 MVP 포트폴리오 재편",
-        "summary": "",
-        "source": "sisaon.co.kr",
-        "published": "07/29 09:25",
-        "published_ts": 1785284701.0,
-        "tag": null,
-        "first_seen": 1785291326.3452156
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcldqal9yRV9aT0EzTzZjU1ZqUlZsRWhDR0ZqVlFwNXBWc0lCSUNNcGRZbTdmZjQ1NkJRQnpVWDZ6eFZQSEt6REw3UUpsbUpsT2Vfb0djdVk2U3VrV05ZMlZ5NGFTcC1kTGpuRXFBQ2x1dXpqVG9IcjN0WE1IaXQycVBRVWM?oc=5",
+        "headline": "AI investment concentration risk is not just in equities",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "07/30 13:00",
+        "published_ts": 1785384051.0,
+        "tag": "Global",
+        "first_seen": 1785384925.381244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQOFBHVmpEY0pkc1VKek53Tll6STZ3Y1FhNmtFY0U3RlFsa3ByeU1MZUJvS1NqTkN0a1gycXpaMENOZnI5cXR5cG1lS3hxZ1ZFTkM3ck45MHlaNUZIUzhXUFhMTDBSMGozM2YzbkZiaUJjWmFxWXMwN0Z4S24wZnNTRDNHSHVfZHMyU1dmQzU5cDLSAZYBQVVfeXFMTkFOSEdCbHQzd3dtSDc5My11N29rVzc4VW44d1dSbllQOFlhVFA3SXZsUmdkMFlreXVvd1RnU0ZiOEN4eEwzUTB5Z012WVlMYXVmRnZmaElvM1VGRFdXVVBUUk53dHVsSjJzT2tGQUNMcS1rTnh4cTVVTElVRzZhdlpMWWprZTNnVlI5cWVvQmRFeHZoUnpR?oc=5",
         "headline": "Kensington Credit Opportunities ETF Surpasses $100 Million In Assets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785360415.0,
         "tag": "Fed",
         "first_seen": 1785366036.200535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0xN1RyYkU2Y191bDhkT1RXTEU5cG5mX1prc3haLWxIWW8zTHFjVlV6czVJUUZIX1hYTFFYYUZuOHdRX1dnVURNY3F6UTUyeVNSQi1OSGhqeVVnc05OSUd4Wnl1Tzh1ZzlLbXc?oc=5",
-        "headline": "Fed leaves rates steady, with internal dissent",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/30 06:22",
-        "published_ts": 1785360142.0,
-        "tag": "Fed",
-        "first_seen": 1785361527.347428
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 13:01:00",
+  "updated_at": "2026-07-30 13:15:48",
   "yields": [
     {
       "label": "3년",
