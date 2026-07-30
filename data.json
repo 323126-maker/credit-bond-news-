@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTWFfZlVWZ21lRXRSX2lvTGQ1d0JjekthNmpOQzdRbXF4cU1ueHE2UEs3WXRJWkhfSldaUEJ0RzVEaERVNHVTY0FmbHFpTHp4UEQtTlJkVFJwUUJWRW9yRmlqb2lyYUV3?oc=5",
+        "headline": "손보 이어 생명도…하나금융 보험家, 자본 확충 ‘총력’",
+        "summary": "",
+        "source": "fetv.co.kr",
+        "published": "07/31 06:00",
+        "published_ts": 1785445200.0,
+        "tag": null,
+        "first_seen": 1785447922.5879242
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YbEFlYTlzMDN1RTFhM3FIaGt4ck5RaEx5YnVRQmlTdzNPTWx2aGtDci16NG5jZGxpOFUxbnBKdTNVMUVEclpyMEZVMVI3Y2pvT1ZQMGk2aWpTVkhSRVVqb282bnFaVC11WGdNY3RpaVQ?oc=5",
         "headline": "한미금융, 5,500만 달러 규모 후순위채 발행 완료",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785068125.0,
         "tag": null,
         "first_seen": 1785069031.1523492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03eEFIRlpRQVVnOWpSNWt4SEFwaE1wR0l3Rkg3Y1VTWHZ1U1pUSVpmeW5xOTdzMnRPcHJWNFdDOFE1SFdFeU11QmwzOG94bXBJekJab2hhZVRQcWs5OTMweWI3Mk1jeDJFeXhrUWo4TVpzX0pJeE9YNnhaZHI?oc=5",
-        "headline": "배성완 하나손보 대표, 계리적 가정 여파에 적자 확대…장기보험 매출·자동차보험 손해율은 개선 [2026 금융사 상반기 실적]",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "07/26 20:38",
-        "published_ts": 1785065893.0,
-        "tag": null,
-        "first_seen": 1785066323.9001288
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBCZW5VYjhGV0pjWFI2YWRXS3lkX3JmZDZ5ekxDX21zOWFkcXFZbkduSWlFcGlCaG80dUNoYzdodnpuYXI1TDJWNklPNU0xNkxY?oc=5",
+        "headline": "엔·달러 환율 급락…\"美·日 당국 시장개입 추정\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "07/31 06:41",
+        "published_ts": 1785447692.0,
+        "tag": "JGB",
+        "first_seen": 1785447922.5879242
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2RRU3lMZGliLUVabktTZzc5b0xjZkdmbXNqR0RZME9NdW9xT2hldDcxZ2NCVWczOUo0eHY2VlU0MVpMeF9WMHd4aUJtcVZwUjRyUDlrNmVCYWg0SEZkbVVvVHhKY2FaNEM1SFB2bG1wdmlyOTNkdkVqODEwaVE0dlJ5WEJIOWFsaUhidjlWV1hRb25JdUYxMEliTkYzdnAzdzgzZw?oc=5",
         "headline": "People Are Starting to Worry if Kevin Warsh is a Credible Fed Chair",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785408300.0,
         "tag": "Fed",
         "first_seen": 1785433522.3825705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSl9nUjJVbDdyTlN0V2h2QnFvUmJ4UWRfQTdFYXlWMXNLWlRNY3NCSlZPY2tWU3VCUXMtYnVxb1hEc1pwamo5NUlfMG1wSFFFLVh5MVh0YnlsbFRHbTc4clV4WHJsci1aNkw4alMzaU5UQUVUOWxWRFh6Z0RyMlEwcEljM3A4WVhTTjJvTFEwbFBZb290ZTdpTXoxUmpKZ1ZEY0R2ajRoeXRqQngta3lQMnB3eFVDR1ZiMENOdzdaNnFhY3JvaHFFc2pkXzY0bGVTRHdTMTFsZVFSTXIyN3VJ?oc=5",
-        "headline": "Doubleline’s Gundlach Says Fed May Need Rate Hikes To Restore Inflation Credibility As Bond Market Challenges Policymakers",
-        "summary": "",
-        "source": "Tekedia",
-        "published": "07/30 19:36",
-        "published_ts": 1785407799.0,
-        "tag": "Fed",
-        "first_seen": 1785422737.4000797
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 06:30:56",
+  "updated_at": "2026-07-31 06:45:46",
   "yields": [
     {
       "label": "3년",
