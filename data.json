@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTEtfei1sRFNUQjZzaXpCSjJIMWFWTTNBaXVSWnhNU3prRnB1czBzT183NlBVSHg5SDlzTkdwc0gxZk8ycDR1OVFvZzhGZEFzQ2Y0bTQ4OFBwRG1VeHdndnFWWjY2bjFLbmFnb1JLQ3A?oc=5",
+        "headline": "피치 \"AI發 시장 조정, 심각한 크레디트 위험 요소\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/30 15:41",
+        "published_ts": 1785393696.0,
+        "tag": null,
+        "first_seen": 1785394835.969763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5HLW5PTFNhU00zdjRnRmZOVUlDODBmRG0wX3hjMmplSGhBeUppLXdTZU4xSlZlbHN4UjhzZEoyRVEwb3JkV2MyZWF0d0Q1Ul80eU5yWS1yUGlTSmNsaWNJZzA3Vld3Zk1rbVBVbg?oc=5",
         "headline": "국내 녹색채권 시장 '걸음마'…한은 \"발행 절차 간소화·투자 유인 확대해야\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785310808.0,
         "tag": null,
         "first_seen": 1785312043.956958
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzdWZSZEtNTUZjejREVVNQc0xkWkhySG5YbFoyR1V6NW5TMlBOS0pLOHlvUXdhUnhoSGJzcFhuVjd0b3hET05wdWY3ZHEyS195ek1ZaHFxd2JPazJQbmtSQ1RoVll1UGwyUkpfLUhVV3lUWnN0?oc=5",
-        "headline": "UBS, 실적 전망 상향 조정에 보스턴프로퍼티즈 주식 등급 유지",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/29 16:18",
-        "published_ts": 1785309480.0,
-        "tag": null,
-        "first_seen": 1785310234.6415312
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSFd6bTBGWjBxQnlyaVE2QmM3OFJsdmVzT09tN29xdU0yblBlZ1cxWXZrWnY4ZTNhajUxd3AzRzgwV0NBOVlrdjZ5bDR4SmdJbnJEaFFFeEtCSGktN3Q4cHNTRkNFcG12SW0wbGxnYVAzYmJ4M0Ywa2FtTm9oU2V1dG5YR1VJUHZBVXc1d2plS1JIZFFnRTJrZ1QzREY?oc=5",
+        "headline": "CBN lowers T-bill yield as oversubscription jumps sevenfold",
+        "summary": "",
+        "source": "Nairametrics",
+        "published": "07/30 15:50",
+        "published_ts": 1785394211.0,
+        "tag": "Strategist",
+        "first_seen": 1785394835.969763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnVzlhZ18takpiRGxJOVBPSXNKWnl1dkNBa3ZoQVJtaGJGWmFNLTg0dkZWMm95ZDMwdFBCODVVODBrY0czSHJWU3d6MGFMM1RXQzBlX1lHa21YQURSTzV2ZVR0VkRwalp1STBlVEp0b1F3QQ?oc=5",
         "headline": "[도쿄환시] 달러-엔, BOJ 앞둔 경계감 속 강보합",
         "summary": "",
@@ -1698,6 +1708,16 @@
         "published_ts": 1785380400.0,
         "tag": "Global",
         "first_seen": 1785381324.9980733
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocGxLV19BODZLRGdENVVJOWZfbUxhSkZ1d1dpS1JtVDY2Sk9DUEJNSDQ2NmtKLU9xRHQzVG9xT1lVT1dFN1FWa2d6WjdmTGh3cUVtdkVFZmZmQlpTOElqaW5wN0dqV2cwX2VIU1A2NFBScjRUWVE?oc=5",
+        "headline": "Long-Term JGB Yield Surges to 2.790% as Post-FOMC Rate Spike and Crude Oil Gains Compound Pressure",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/30 11:56",
+        "published_ts": 1785380160.0,
+        "tag": "JGB",
+        "first_seen": 1785394835.969763
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcUx2cWhVbEliN0JSMVFBUUg3cE1NbEhJemNmOTRwWWpKREhFd19ja190a2xJZ0V0a3Y0MEZUWVo4TEFiOUNxa0IybE1WX0JYNVdtU2U3WmZWWjhodmE0LWZJci1VczVta1Yxekp2SzdidDBTUUhiWmVjZWNuU3Fic2M5aEh2Z3NnVHZqbXpDNlhPUFBtSkNpcTBDTE9TX2VOdlA2eg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785365814.0,
         "tag": "Strategist",
         "first_seen": 1785368722.004902
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB5dlo1UDZMSnlvMEIwN0VhSXJweHZJR0U1TVJTa3ZKWGZQZi0xVlJsRVR1R3hlTE9DVEQxQnlyTmMzZEdVMHI1MU8zNEZnV1J5SngyNkNqM2dEbVB4a1drdmRSWUVyYzVV?oc=5",
-        "headline": "美금리 3.50∼3.75% 5연속 동결…연준 의장 \"인플레 2% 목표\"",
-        "summary": "",
-        "source": "한국NGO신문",
-        "published": "07/30 07:53",
-        "published_ts": 1785365593.0,
-        "tag": "Fed",
-        "first_seen": 1785375037.5953307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNakNQUEVaSGRfaDlNRUQ3aVV0LVkyVElTODlOZFRVSi16d3piT0Y0NFIyMjFOWVFPTURmcExaMnBTRUMxU1l6RGtldmlWWHo3UUgyT0NkUmNINFJwczJxc0hia1NFVE1TRlp5dlRJMDREMXpUbG1MYUt3S1FNRGs2Y0tBVWV1NDlOTllmdTRHc29tcVNudnEtZ2prVFRqMFd5Vm1ZaWxVazR6LUhaajlUa3NPSDBZRm1XVGZteWRQNks5M2R1WmFzbDBXZXozRWQtSG5Lag?oc=5",
-        "headline": "Insurance Midyear Outlook: Finding Value in Tight Markets",
-        "summary": "",
-        "source": "AllianceBernstein",
-        "published": "07/30 07:45",
-        "published_ts": 1785365121.0,
-        "tag": "Global",
-        "first_seen": 1785375929.5832217
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 15:45:46",
+  "updated_at": "2026-07-30 16:00:59",
   "yields": [
     {
       "label": "3년",
