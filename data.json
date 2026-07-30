@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUW4xVTNGSUtqN3RJeTZjX0k5UFlFTGE2TnRBNEgzWmVSU3RUdjFQdVdwYVdxQURnbFNoQkV4dmlMQ2ZPbVVZM2JRMmxPa1Y5SC01NUE2RQ?oc=5",
+        "headline": "금리 묶은 美, 증시는 하락… 한은, 8월 추가 인상 놓고 ‘고심’",
+        "summary": "",
+        "source": "서울신문",
+        "published": "07/30 17:56",
+        "published_ts": 1785401798.0,
+        "tag": null,
+        "first_seen": 1785405643.734735
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5hOWdoSVBSdkRrOHF2MDk1T25FcmtKWlNfRFNSNGtmSFhOeTA5S2g1Tm5pelVWRDA5dFZNU3Z1aUc0Z1ppWDZVRUJwaVJiZmJydnZuTw?oc=5",
         "headline": "美금리인상 불씨…한은 추가인상 나서나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785046370.0,
         "tag": null,
         "first_seen": 1785054632.4991355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGbWpCWjVicS1QbS1MbHdwSXpIMjUtbEVwOUdzUVBYYnlTSHlSaWdvZTlqbVNZdXJQTXBkWmtwbmp3UWlzOFVpWURKS1FDR1JEcGhaSW84NDN3RG5uZ1dmbGtNdnplWjR0bDAtaXhTeGhyQQ?oc=5",
-        "headline": "[채권-주간] 7월 물가 확인 전 FOMC부터 주목",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/26 13:00",
-        "published_ts": 1785038400.0,
-        "tag": null,
-        "first_seen": 1785041202.794703
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KcHUyV0JhZXpsajBoSVJLUnktcGdXU3QyaDZ1RWlfWm5teVEtTnlfal9CeU5meXZwRE84Ti05Y2FuUUZkQS1zclV3VXFDZklLQ2ZJ?oc=5",
+        "headline": "\"물가 잡을 마법 지팡이는 없어\"…인플레 해결, 시장에 맡긴 워시",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/30 18:43",
+        "published_ts": 1785404580.0,
+        "tag": "Fed",
+        "first_seen": 1785405643.734735
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQllLTEpJb25kRk5fLW9GQnhzTGlLc2tGMEJTZ3dHb1BsVE1KYnFvUzVBVnItaHNjTW5mNEVlbi0zR0g2b1plXzZqMU96VEQ5V3B3?oc=5",
         "headline": "\"물가 잡는다더니 금리 인상 의지 있나\"…워시 불신 충격, 이유 '셋'[오미주]",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1785401370.0,
         "tag": "JGB",
         "first_seen": 1785402034.2632852
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQW4tWDNaRWIxRGJWbEplSld3cXRiTlpmamQtOGh3ckxjeVhFWjhPd2ZORDBFNDlvMnZ5NG1saWlyVnNKNG5QbVRLempucFJtcm11LVpLV3lHUXdjSlE3NEwydmQzSHlZODV6VHA3dU96U0QxWk9HWVZEYjhleUpFNWJKa25KTDg2UmVaMg?oc=5",
+        "headline": "Chinese Tech Stocks Tumble Amid Global AI Sell-Off",
+        "summary": "",
+        "source": "streamlinefeed.co.ke",
+        "published": "07/30 17:48",
+        "published_ts": 1785401336.0,
+        "tag": "Global",
+        "first_seen": 1785405643.734735
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pTWNET1FJSnQxVVJaNF9xX2NlbDJRelo3bkI5M0F4LXhBTzZEWWxybzNGSVQ0UGhySW52MFhWUzdhUHJ6T1Z2WDFsX3IwS0VaandYWFMydTl5Vkk?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785376535.0,
         "tag": "Global",
         "first_seen": 1785377725.7192993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qWWxQQmpvZmZlY1FsYURZWEdzdnhHUFhRRTE1YlN0TDc0WTV1Tkt5a0ZCYnREY3BsWWo3Uk05bi1FcGhZcnB5enJYLWZITHplNzBrMWhraVEwdUNudGx1Nm1PdEhJUFRuUVZlY2ZqWdIBc0FVX3lxTE5oM0NpMXFOZXZPdW1wWW5pN3dOUlI3TWJ6c1NCd0FhbVBFUkVIYzFhaWE1QzN3MFJCcXFUM2ZrcFZYSGlzRm5PQXg1Wm1hVF9USXlrX01ieDBjVkltbVBfYzFvVjFsc2F1eGk4QWJLUmJnT2c?oc=5",
-        "headline": "美 연준 '5연속' 금리 유지…'인상기' 일본은행도 내일 동결할 듯",
-        "summary": "",
-        "source": "뉴스웍스",
-        "published": "07/30 10:54",
-        "published_ts": 1785376498.0,
-        "tag": "JGB",
-        "first_seen": 1785376844.610232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUNpa08ybERnTTBvcWl2RHlWTk5ISGgtRENNNzhDYjA1cEN4Rk5HLUQwaE0tX2IzTzNRMUJMZWFwSHNMeVlaZ3NTZjR4T0JxdUR0cXJpRW5xXzRTcl9KdFRBM2JsQS1QMzlUUWVaSUJ6T29SLUZ4eFJPUm1iUUlzajc2UWQ3WC10RWh1SjA4UEdlVzFGSk9LdklmV2d2RTFtY0ZkM0M2SXVKX3pH?oc=5",
-        "headline": "Kevin Warsh answers uncertainty with silence",
-        "summary": "",
-        "source": "Breakingviews",
-        "published": "07/30 10:53",
-        "published_ts": 1785376416.0,
-        "tag": "Fed",
-        "first_seen": 1785380434.693828
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 18:45:46",
+  "updated_at": "2026-07-30 19:01:04",
   "yields": [
     {
       "label": "3년",
