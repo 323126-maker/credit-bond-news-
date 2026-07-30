@@ -72,6 +72,16 @@
         "first_seen": 1785380434.693828
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcy1vUWVkc1pUaVlEcXN3X2N0cmVsZ2FaNGNEVlZDTC1JSXUxTGVLWU95QnlYTEpOSnBHby1MNkxMS1M5TzBzcDFJcy1sQlItclo2NlFMcEZVRDRnbWZkNWN0c0kxZW55MmpTeHZRUVhxT3BuRnRKaXBQM0tkTkxLaTFCZ1VPNDEzaUM1eFpSYW5LOGRuZ1kzdWJn?oc=5",
+        "headline": "제2강: 기업채권 시장의 파란만장한 여정",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "07/30 11:46",
+        "published_ts": 1785379589.0,
+        "tag": null,
+        "first_seen": 1785386726.0577972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUEFZcU1yWDBwaWU3N04tdnJDdlFndkszME50NWZpTnRLZDVnUUlKREotNzZ3ZzNKRm4xLXktaEo1SkZxUGhmYXlQR2lKWE05MWVualJLNlQ4Zw?oc=5",
         "headline": "예상 밖 비둘기 워시…채권시장이 Fed에 보낸 '경고장' [심성미의 중앙은행 워치]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785301320.0,
         "tag": null,
         "first_seen": 1785302121.801265
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9PNnUxVERGTHpZYXhiYlhkZ3FLa1BqRUVYTmNCUVNxTUUtNDFEb0NRMDlEdGZ6QUJrRWNOVGhnWFFGSU02Q1JpY3ZkdUJSaDd5dEdkZHNBTHlhUG5sZ3E2TWNwZGNDVDcwV1VfaUl4bXBhdzJjRHE0TQ?oc=5",
-        "headline": "[마켓인]\"크레딧 시장 강세장 전환 시기상조…단기시장 주시해야\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/29 13:29",
-        "published_ts": 1785299340.0,
-        "tag": null,
-        "first_seen": 1785300322.867788
       }
     ],
     "perpetual": [
@@ -1790,6 +1790,16 @@
         "first_seen": 1785373236.5627778
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHZyYjVlRFdCUFJaTkVlRk5ncmdYd0RzN0lsdWQxZE11aFBraFdmY1F1Z0w2eHNLcFc4b0RQRGZfVUUzcFZkRlhOYW5BRVhwZXhWQ3hBQXVCTnBzbjBVVUl2d0ZoM2VzMEtzTUZVMmY4Z0JTYW8tRE1lQlJjV21tcWhwM1V3M25QUGU4ZnlR?oc=5",
+        "headline": "5연속 금리 동결한 美 연준…한은, 8월 연속 금리 인상 여부에 관심",
+        "summary": "",
+        "source": "조선일보",
+        "published": "07/30 09:34",
+        "published_ts": 1785371640.0,
+        "tag": "Fed",
+        "first_seen": 1785386726.0577972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Tb2VkOUNfRGt5OGVVTG1lYzg3cC1jdF9NNlFoOEtzdmx6OGlkNlNCU0pXdE15VG95NFI0TzA1elZUd3N6M2hjLWc3bWd5REhpOHN3?oc=5",
         "headline": "美 증시·채권 추락 왜?…금리 동결·중동 격화에 물가 공포까지[뉴욕증시]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785362700.0,
         "tag": "Global",
         "first_seen": 1785363325.4258883
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15NWtrX1A2dGlMUmMtbzFJTTk3TWNFVzROQllwdFdxUTl4aGpCVFBGdU9yRW9yQWtLOFdQcXlSckgyVkVOSGVzR19kdkJUSlhIVUpN?oc=5",
-        "headline": "연준 동결에 시장은 '긴축 부족' 판단…美 주식·채권 동반 급락",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/30 06:37",
-        "published_ts": 1785361020.0,
-        "tag": "Strategist",
-        "first_seen": 1785362447.1304345
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 13:30:54",
+  "updated_at": "2026-07-30 13:45:45",
   "yields": [
     {
       "label": "3년",
