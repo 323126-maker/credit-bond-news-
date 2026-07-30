@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OVVpLTGprSWozajRTeURNYm90WDA0cmg3ZUlrbWxOWGZDSzQxeFVtQmQ1Z01TSlUyb0pBdk0wWmlsUDVrZFg5c2lDUnF2cGtwTVJv?oc=5",
+        "headline": "AI 빅테크 채권 폭증, 경기 둔화 도화선 되나",
+        "summary": "",
+        "source": "경제타임스",
+        "published": "07/30 20:40",
+        "published_ts": 1785411617.0,
+        "tag": null,
+        "first_seen": 1785412835.310482
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4eXpPM0c2MHB3S2FaSXJicmJxZ2IwcGNSMWt4aWdnSmF3TEFsOHpjaEhHOWozTzl4V1pGUE81X2RBUldlREFjcW56TWllNllhQ011cUJmWUlSMkZ4WnE5WGIzTkdvd3NnQkpMOXdsNEZuVGc?oc=5",
         "headline": "라이프 타임 그룹 홀딩스, 2분기 호실적 발표…연간 전망치 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785357990.0,
         "tag": null,
         "first_seen": 1785362447.1304345
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94b3ZOT1ZwNEMzWWVISVFBUWg1ZU9YMXFSSkRuNUkwUk1OaDVfNGNRdGVpdV92YzdsWnQ5X0t6ODUzc05HLWZ4MUNNTzc5ZkRXZUJ5QW4wTUlsbllqOGlGeXVKeDEwZ3V3bFBpMlVLRzhOZw?oc=5",
-        "headline": "[뉴욕채권] '2년물↑·30년물↓' 가파른 다이버전스…워시 \"시장이 긴축\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/30 05:42",
-        "published_ts": 1785357767.0,
-        "tag": null,
-        "first_seen": 1785366036.200535
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWlVYzFwU0RvbVFpdDFRNDd6LWtoekREelhmWlA2S1VkMzVvME1WTnAza3RnMm9vNHdJUHVUdDBHempkMUlkc3FpTWJwWTRaMi1qaHg4N05JV25uSHk0c3I1Um8tUUxWampLYk9QZEtaRm5KMV81eThQMnRtOEhFbEFYTEdUVUxVS25YUUUwYWRMdV9kUzZVOUpuYk4tTzFESDFjODFIbUxKMFkwUGh2c1oyTGJ2UkdkaXZOV2I1RUdnR1Q5UHF0Yk8tVzdRYXlWZ2NLemJzaGVFOEtFSWd4NmRiY2Q?oc=5",
+        "headline": "In Just 3 Words, Fed Chair Kevin Warsh Summed Up What We're All Thinking About Inflation, and It's Devastating",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "07/30 20:36",
+        "published_ts": 1785411394.0,
+        "tag": "Fed",
+        "first_seen": 1785412835.310482
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdDdWaVlhdF96NXc0QkR5WGh2SmRaZk10OUh3RHE4cXlUaHpHaUd6cmctTjJmZGZ0aXhfQ3hERmFFUlAzMEhDeFIwdkpzWHAydVd0YldseDZ5TWVqakIwdXd3X0JwTWpoX3FVUndXVGpyUF9SMF93VTFKaTVvSTdTT3NtMVJqSnM?oc=5",
+        "headline": "Kevin Warsh Just Broke One of the Fed’s Most Powerful Habits",
+        "summary": "",
+        "source": "inc.com",
+        "published": "07/30 20:30",
+        "published_ts": 1785411011.0,
+        "tag": "Fed",
+        "first_seen": 1785412835.310482
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE02aGlxcTk5RWNSRm9GMXBNZzhQTTdSSk9xSVJabkpFdm9VbHlDaFFmTzVrS05CSkNQeVNKTkdsTV9LWmt2czVzel9IM1hTT0ZnZEFr?oc=5",
         "headline": "미국 기준금리 5번째 동결했지만 불확실성 커지자 한국은행 셈법은 더욱 복잡해져",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785380040.0,
         "tag": "Fed",
         "first_seen": 1785389437.1514652
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaXE5WVZKSmY5Wl8yUGZ6Rnk2dHY2SEZVZHNWWG8wSFM0VUVBV3hmcEpDNDdGMDZWZURPMjNWNEtObGtGSmRSamdfazVZSks3aDFVOGhGZ3VnWWN2eDlpRWlCaW5qaXpLMDBXMFloTC1uOWVPa3hPbDNsZU1OZXAzQ0c0SmJuZlU3eVhQSlVJQ19Edm9zcDVWR0ZfMFM2MUlSNzRwX1hUSk5EUlZPemhkTzM0RDQ3djJjUFFfeWVQYnZxZENFTGQwelZQNFlpdEotMktaSEVKalNWamE5ZUJWNFZEd2VQcGVZMHFtRFl3U0RZaU5udmZxUFI0dHViWm5tdlgzMW82WjFxX0diOTYyTGRoNFPSAZoCQVVfeXFMTUVvN1NLY3UzZkgtenc1UW8tLU44UUJCQ3pTb2FjWWVJWVI2Vm9LYld1TERuUk8tUXhWNE16SGxFaTVNellrY2hVUFBtNFJ4N2diM1BDMUd5OXJGQjk2aVpHRVJpOUY3enBfbHlnZS0xWG5jWFVkYXlPYU1YZWw4MFEyUnpXRkdaNUt4al9vNklwVmhHVm10NTFiYlhlY1VXNkRFbGtVNmRPODA2X1QtWlFiN3lSRUozQXc4YkpvQ0ppQXdLMWF6RE9US2VmNERTQ1F4d3JFZ0ZpN21sU3JMQ3FtVmJmMDBVV1c3ZVNiUDVpQlFWeHpGaENleUFyYnRXYkxpaW9UMDN2dC03aHBqVmhXSXpsOUJYQll3?oc=5",
-        "headline": "Asian stocks remain volatile after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points",
-        "summary": "",
-        "source": "The Times of India",
-        "published": "07/30 11:53",
-        "published_ts": 1785379980.0,
-        "tag": "Global",
-        "first_seen": 1785380434.693828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZi1pQUpuOHo4NU8tWC03U0tBN1I3dVdLRGRDNjgwbmYzc25sWGtqSzE2a2tqSzNfVGxybHdXQ2ZIMUNucWcycUZkSGFwZm13MVZPeE9jdlFkYUtXNnRldENRUmN6X1pJQ3c?oc=5",
-        "headline": "Fed 소극적 대응 우려에…30년물 금리 19년래 최고",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/30 11:36",
-        "published_ts": 1785378960.0,
-        "tag": "Strategist",
-        "first_seen": 1785380434.693828
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 20:45:47",
+  "updated_at": "2026-07-30 21:01:08",
   "yields": [
     {
       "label": "3년",
