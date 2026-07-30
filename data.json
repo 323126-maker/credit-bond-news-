@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVl9hYXNSdE9VS3UyR1dsODhYWnB3MnRYb2ZNQWk2aThWemtfM2ttQl9lMnU3dlFTc2NWNVphempvR2thTlN4NVE1Sy0tZVhSZ01fR2h6UExOTnU3NjZta29CdjlOVG1GUXJLckZVMUliRDdXM2tKd1JOZFB5bE9sOXMxZ1BvZTdfWmpfM2lCYlU2ZW9zTDd3V2dfcmVNbEh2THpSRy1XTXlBVVlCOEtMWDljVHFqbldGcmJqa0F1a2dNUQ?oc=5",
+        "headline": "The bond market isn’t buying what Fed Chair Warsh is selling",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/30 21:35",
+        "published_ts": 1785414921.0,
+        "tag": "Fed",
+        "first_seen": 1785418231.7106562
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQeWlVYzFwU0RvbVFpdDFRNDd6LWtoekREelhmWlA2S1VkMzVvME1WTnAza3RnMm9vNHdJUHVUdDBHempkMUlkc3FpTWJwWTRaMi1qaHg4N05JV25uSHk0c3I1Um8tUUxWampLYk9QZEtaRm5KMV81eThQMnRtOEhFbEFYTEdUVUxVS25YUUUwYWRMdV9kUzZVOUpuYk4tTzFESDFjODFIbUxKMFkwUGh2c1oyTGJ2UkdkaXZOV2I1RUdnR1Q5UHF0Yk8tVzdRYXlWZ2NLemJzaGVFOEtFSWd4NmRiY2Q?oc=5",
         "headline": "In Just 3 Words, Fed Chair Kevin Warsh Summed Up What We're All Thinking About Inflation, and It's Devastating",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785380400.0,
         "tag": "Global",
         "first_seen": 1785381324.9980733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ocGxLV19BODZLRGdENVVJOWZfbUxhSkZ1d1dpS1JtVDY2Sk9DUEJNSDQ2NmtKLU9xRHQzVG9xT1lVT1dFN1FWa2d6WjdmTGh3cUVtdkVFZmZmQlpTOElqaW5wN0dqV2cwX2VIU1A2NFBScjRUWVE?oc=5",
-        "headline": "Long-Term JGB Yield Surges to 2.790% as Post-FOMC Rate Spike and Crude Oil Gains Compound Pressure",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "07/30 11:56",
-        "published_ts": 1785380160.0,
-        "tag": "JGB",
-        "first_seen": 1785394835.969763
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 22:15:48",
+  "updated_at": "2026-07-30 22:30:56",
   "yields": [
     {
       "label": "3년",
