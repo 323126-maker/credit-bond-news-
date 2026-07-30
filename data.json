@@ -1830,6 +1830,16 @@
         "first_seen": 1785420922.4787745
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kRGpFZ05QUzEtMk5OREV3dElSdlkxN1c0bzRDUk9ZZjBCUmx5eWV2WFQzOHppbE1XMzMwdTZGZHJ6RERtbkxtTUVVczFpTDRDLWlqa1V4eElXUk0?oc=5",
+        "headline": "Dalio Warns AI Stocks Mirror 1929 and 2000 Bubbles as the 'Big Cycle' Reaches Breaking Point",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/30 18:09",
+        "published_ts": 1785402540.0,
+        "tag": "Strategist",
+        "first_seen": 1785424525.360296
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBRQllLTEpJb25kRk5fLW9GQnhzTGlLc2tGMEJTZ3dHb1BsVE1KYnFvUzVBVnItaHNjTW5mNEVlbi0zR0g2b1plXzZqMU96VEQ5V3B3?oc=5",
         "headline": "\"물가 잡는다더니 금리 인상 의지 있나\"…워시 불신 충격, 이유 '셋'[오미주]",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "KB Think",
         "published": "07/30 15:42",
         "published_ts": 1785393741.0,
-        "tag": "JGB",
-        "first_seen": 1785399322.9878976
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yYVRMakZ6VEtFTDVpa3RNVk9USEJuRWJnLWxZNzNDa1l0T29rZjNFcUtOTUFHS2lLd25tdVBVSGFIYlAyQjdtdm80aTN6cHdWNlRkWmt30gFWQVVfeXFMTjJhVExqRnpUS0VMNWlrdE1WT1RIQm5FYmctbFk3M0NrWXRPb2tmM0VxS05NQUdLaUt3bm11UFVIYUhiUDJCN212bzRpM3pwd1Y2VGRaa3c?oc=5",
-        "headline": "JGB yields jump to track US yields higher",
-        "summary": "",
-        "source": "Business Recorder",
-        "published": "07/30 15:39",
-        "published_ts": 1785393581.0,
         "tag": "JGB",
         "first_seen": 1785399322.9878976
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 00:01:04",
+  "updated_at": "2026-07-31 00:15:49",
   "yields": [
     {
       "label": "3년",
