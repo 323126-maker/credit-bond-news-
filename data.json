@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQ2hkcGI5ZzAxVEJ2TGlOaWhfX2FTei1pd2FPMUN2OHlLVFY1OTRIWHkzcUxBbF9mbUlLWG5jTmh4MU1OTDFISHpLQWxnbDA?oc=5",
+        "headline": "연준, 기준금리 5연속 동결",
+        "summary": "",
+        "source": "애틀랜타 중앙일보",
+        "published": "07/30 23:58",
+        "published_ts": 1785423500.0,
+        "tag": "Fed",
+        "first_seen": 1785423636.5937152
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EamFaMTlRVnpiMWRkdWNVWEd1OEFOeDNfaF9CUjlKTjVKNXIwbmozZkV4bkh4MlUzVkIxS2Q2WjhxV1BzQ0hSN2trNUlmZWVEQzhIY081azMzcGM?oc=5",
+        "headline": "엔화 환율 163엔 찍더니 급락…日정부, ‘시장 개입’ 칼 빼들었나",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "07/30 23:55",
+        "published_ts": 1785423335.0,
+        "tag": "JGB",
+        "first_seen": 1785423636.5937152
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeERMblM2SDNZUHBDcFlWWkdpSF9hNnRDdkpjcjlpNWhxTHF5ZDdtZ2lpcTlFX2JXdWJGd0lMVkVrcnFVTUd2VHNwZEE3QnUzSFNHU0lRNEdFWkJpZ1hYM1RwcmVLMTBlQTVjZzZoYmRrMlptRlJyREh0Z1ZaQngyaVhodG90Z2NXaC1vY1BIRVdublBDMFhsUFRkcjFpWUZSY19GclBoTmxDWWtLWjZwVklEWXRrX3k5YkkwbUlhdEtNS1JqNVE?oc=5",
         "headline": "Bond rout warns Warsh that tough talk is not enough",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785393581.0,
         "tag": "JGB",
         "first_seen": 1785399322.9878976
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYVFPdkQ5Mml3cXA5eC1WMk5TZ1hTRnEzcUsxOTNaRHlxWXo3NnVhZGFwWGh1bjdRSDEwVUswUE9sS3hNeVBsNHdLVFdXbzdhQWFDMXg4RU1maUpTV3ZWbEJvQ2hEZUlNVDM3SVI4bjItaHhPUlZDODBEdVBYX3pnM3otM0Z4eE9CWWh3?oc=5",
-        "headline": "Japan’s Bond Yields Rose As US Long Bonds Hit New Highs",
-        "summary": "",
-        "source": "Finimize",
-        "published": "07/30 15:35",
-        "published_ts": 1785393357.0,
-        "tag": "JGB",
-        "first_seen": 1785421832.3056936
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeUxUUlQ5S3F2Z3R3OVZzWmRxZkVxX1FvcG1XUHF2b2dTNEdac2R3MHBKYmprV05haEVjYlhiR3p4X0FwRW9zdmtNM3MtazFnYjU5blpzTEYyRXJoUmpPMlFBc1Vkb2NIaHBxRy03dWNPNEFxMHJ1aVdQaWlYMTdMZ3VQZmt0TjRkRnphRzlTaXR4dw?oc=5",
-        "headline": "FX Daily: Bond vigilantes may be the dollar’s best friends",
-        "summary": "",
-        "source": "ING Think",
-        "published": "07/30 15:30",
-        "published_ts": 1785393020.0,
-        "tag": "Global",
-        "first_seen": 1785408321.8802838
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 23:46:01",
+  "updated_at": "2026-07-31 00:01:04",
   "yields": [
     {
       "label": "3년",
