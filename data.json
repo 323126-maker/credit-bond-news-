@@ -816,6 +816,16 @@
         "first_seen": 1785381324.9980733
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zS0lyMEs5clcxNzlVaHV6bG4xZnptdnhldWFXeWktSEJuN2tMSHpXQl95OTdTX1BWSk9hc2JqSGtJbVhQY2FFX0x3aVFhTW5GUnc?oc=5",
+        "headline": "\"동결에도 美 장기 시장금리↑, 워시가 채권자경단 유도한 것\"",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/30 10:41",
+        "published_ts": 1785375701.0,
+        "tag": null,
+        "first_seen": 1785388522.3865032
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4yeE5tZGRPR0hCajlxZF9UNmpYSTBkeEF2RnozcVNHb1pCczZjUzVTdDkycGc0enZydXN4eEFzX1RJRlk1dDFTMlFn?oc=5",
         "headline": "한은 \"미 연준 통화정책·중동 불확실성 확대\" : 경제",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785013200.0,
         "tag": null,
         "first_seen": 1785046612.4739532
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9Uazl3ZkdNaklubEc0U21QdkVZUV9SOGdleWlBNXdEWEpySWRmLVhjLU5pVzh0NDlnTkpxdFJoX1pZWHBPMVRRWWRxUzBtaUd0bVFwaXlDSmhyYWZ3Q1JTUTBsN0FRM29k0gFuQVVfeXFMTzk0aGZXVVhyZmdXZFZOMG4weUxWY0pTQlZxMmR0NW5GcHRXSEdNSFA2NzJTTDczYS1YQ1dwLU5EZ3MtbFJEVkhuYjVPczdCd1VaMUE0R3NpdU4xVm52TFNhamtyWFZMb2lLdWZhOWc?oc=5",
-        "headline": "제이알·중앙 사태에 유가 급등까지…회사채 금리 2년8개월만에 최고",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "07/26 06:00",
-        "published_ts": 1785013200.0,
-        "tag": null,
-        "first_seen": 1785014124.202895
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40dTh1bENvWWdXZXhqSXQxUlJtaHIwYzlpMEtULThNOFE5bHdVaTV5RXVYRmktekQ4UTV2YWs4TzFHdzQ2WmJ5Qy1ScW9YSnJTbHBQY0psNEdsLTd0b1ppZ3NvbTZaYktZbFQxWE9jUnBFZjJ6aDVqVw?oc=5",
+        "headline": "Jamie Dimon Says: Don't Buy Long-Dated Bonds. These Short-Term Bond ETFs Could Be Better for Most Investors.",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "07/30 14:04",
+        "published_ts": 1785387863.0,
+        "tag": "Strategist",
+        "first_seen": 1785388522.3865032
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1MSnR0SXh5RHBnNUFreDNWclVETTZ4aDE5ZEo5S3V6WnJ4ODk0NE9LYUMyRVhhTUFLSEVtNEhNQ0FQUVF0Z1ozUUNtMGMtdkR2SDNDaVlxWHoyUFlVcTU2OHc1b0l1dmY1VXhOemdWb2tCR0g1X0JQMXBEeF94Smc?oc=5",
         "headline": "Morning Bid: Bond markets doing the Fed's work",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785364542.0,
         "tag": "JGB",
         "first_seen": 1785382229.546941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUc4UERsbnluclh5aFVubEtfSFdnNTg0U0xYdUNXcDhrU0ZZdHpMTFJmQ0dfelFScjl1b3FvRzk0Zkx1ZVU3WnpCRzZjdWxOTDJzSUFDWmJGQnBiN1poM1VTLXF5Z0xXcEQzWERoVGt6WmVVTFZRbjMwNU1RZldTajhEY25uLW1Nd0NXWGhPalFLeFc2Q0dtelhEcUpnbWZuQkJ4VUVuWQ?oc=5",
-        "headline": "Trump stands by his 'brilliant' Fed pick despite no rate cuts",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/30 07:27",
-        "published_ts": 1785364057.0,
-        "tag": "Fed",
-        "first_seen": 1785387641.3707626
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 14:01:04",
+  "updated_at": "2026-07-30 14:15:45",
   "yields": [
     {
       "label": "3년",
