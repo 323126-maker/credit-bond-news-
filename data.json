@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPeERMblM2SDNZUHBDcFlWWkdpSF9hNnRDdkpjcjlpNWhxTHF5ZDdtZ2lpcTlFX2JXdWJGd0lMVkVrcnFVTUd2VHNwZEE3QnUzSFNHU0lRNEdFWkJpZ1hYM1RwcmVLMTBlQTVjZzZoYmRrMlptRlJyREh0Z1ZaQngyaVhodG90Z2NXaC1vY1BIRVdublBDMFhsUFRkcjFpWUZSY19GclBoTmxDWWtLWjZwVklEWXRrX3k5YkkwbUlhdEtNS1JqNVE?oc=5",
+        "headline": "Bond rout warns Warsh that tough talk is not enough",
+        "summary": "",
+        "source": "The Detroit News",
+        "published": "07/30 23:22",
+        "published_ts": 1785421320.0,
+        "tag": "Fed",
+        "first_seen": 1785422737.4000797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhTjYxOEJHM0ZkNnpHeFppdWxGRjBlQXRuQlRCQ19pS1BuRWdHamlJWWxkZWswOFpULU1qcXR2Q2s1YXQ2dDMwU2ltOUo4Y2Joalhj?oc=5",
         "headline": "日 엔화 장중 2%대 급등…당국 개입설 부상",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1785408900.0,
         "tag": "Strategist",
         "first_seen": 1785409236.5788643
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNSl9nUjJVbDdyTlN0V2h2QnFvUmJ4UWRfQTdFYXlWMXNLWlRNY3NCSlZPY2tWU3VCUXMtYnVxb1hEc1pwamo5NUlfMG1wSFFFLVh5MVh0YnlsbFRHbTc4clV4WHJsci1aNkw4alMzaU5UQUVUOWxWRFh6Z0RyMlEwcEljM3A4WVhTTjJvTFEwbFBZb290ZTdpTXoxUmpKZ1ZEY0R2ajRoeXRqQngta3lQMnB3eFVDR1ZiMENOdzdaNnFhY3JvaHFFc2pkXzY0bGVTRHdTMTFsZVFSTXIyN3VJ?oc=5",
+        "headline": "Doubleline’s Gundlach Says Fed May Need Rate Hikes To Restore Inflation Credibility As Bond Market Challenges Policymakers",
+        "summary": "",
+        "source": "Tekedia",
+        "published": "07/30 19:36",
+        "published_ts": 1785407799.0,
+        "tag": "Fed",
+        "first_seen": 1785422737.4000797
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRWIzU2FjQVhvWXBGaU5YTVhrVzIxRXlpMkllRUZabjJ0WFlXSmhtWWZ3NUNIM3BBOUZra2xvZjh6WTlXazhiOXVWaTZWOHlmaTV0a2Y0SVE4VWZpSXZwN2tUaFNQQlNKTWV6YU1RTHFrR1d6UDhreWFFY185UmVWRzdDTHQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785393020.0,
         "tag": "Global",
         "first_seen": 1785408321.8802838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSFdCMllUQm9KbDl2c3F3cnk3SXdKdUJUME5mRkhoeTJGRk01TXJWT0JzdnltN2ZxeF9Sc0ZEVl9JeG1tSlU4ZFJHdDhpWkRUY1NsRkhYM3gzeWFDQVVMZTFQd2xQS2hGdHlzRTNXNU9vcUZwMUE5RGxBcUJDQWZ3RHB5eDBxTE53Sk5BTmNqUnVkWktzZG5vN0c0LTlhYkxYWWc?oc=5",
-        "headline": "Asian Stocks Struggle Amid Fed Rate Uncertainty and AI Selloff",
-        "summary": "",
-        "source": "Global Banking & Finance Review",
-        "published": "07/30 14:56",
-        "published_ts": 1785390979.0,
-        "tag": "Fed",
-        "first_seen": 1785420036.3739824
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTnlUT3YybEtkcU10RHJYbTNJTFdPWG56RlJzMjh2T2ktMlJrT3dEMXRfSFAxWjlDSWNRTWJxS1gtdlgzQ2MwUjdjQXoxR0NfdEhBSURoUU1wZnpKbE0zQVJNU3NKYjZueWF5UlNRMFR6S1Vrb3JwQzJHMk1ER3U3Z1VLS1A?oc=5",
-        "headline": "Kevin Warsh is confusing markets",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "07/30 14:30",
-        "published_ts": 1785389409.0,
-        "tag": "Fed",
-        "first_seen": 1785396637.5207088
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 23:30:56",
+  "updated_at": "2026-07-30 23:46:01",
   "yields": [
     {
       "label": "3년",
