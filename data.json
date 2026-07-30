@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02SmRRR0hSc28talVlWVFBeVZKeHFnWDZib0VLN1pnenF1aVlNd0hRemx2d0dYNTJiaXJuOTVObXpRTEtTOEdFRGprLXE3QmRwLW5wck9zUDFlVUhyblVqWWlKRVh2VnRiU3V6a0ZHR3BYM19V?oc=5",
+        "headline": "울프 리서치, 아반토 주식 등급 상향 조정…전망 개선",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/30 19:22",
+        "published_ts": 1785406920.0,
+        "tag": null,
+        "first_seen": 1785407428.783301
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYU9qSEJQOXkwMkFUYkN4T0JQR3o0N015MHp5Ync4ekJLMVlVUC1rUTNoa2ViOUpDUERfc1NoNmdRRGg5a05xdkFTTklCWUV3WjVWeg?oc=5",
         "headline": "[채권마감] 나흘만 약세·커브스팁..아시아장서 미국채 약세",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1785355903.0,
         "tag": null,
         "first_seen": 1785358838.884428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01TWc0ZmFuMnI2eTRnQVlhWERrSVVKaUNCd1pacVl1Vml6Y1ZxUy0wWFd0VUgxTDBsZTJlcnZiTE9jOFg4d3VuZEEtQlNldUhUWHhHdWdaZGUzb3RXdksweW1sWnlIRE40ZXE4dEhuOWV2TGhydEww?oc=5",
-        "headline": "S&P, 폴라리스 전망 ’긍정’으로 상향…부채 감축 및 업무용 수요",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/30 01:55",
-        "published_ts": 1785344100.0,
-        "tag": null,
-        "first_seen": 1785345324.0664902
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1aWEJtdUZrcUlDOVBQcDI2b0lGMVJTME9oVmZ0aFhVc1VfRTZJLU40QUo5M2Zna0FyX1JaRHJxRmthY0RRcWktUnBORU04NGtYV2pFSzhTUWFQY3pEZVdPSVVxWUtRdk1kaUxnZVhFQQ?oc=5",
+        "headline": "아르케마 2분기 2026 실적, 마진 예상치 상회하며 주가 6.2% 상승",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/30 19:01",
+        "published_ts": 1785405660.0,
+        "tag": null,
+        "first_seen": 1785407428.783301
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5uNTVSNWpOS3ZsUXQwOVVvY3R6WVhjZWk1aGFQcFB4TTlhdUY1OC1YZG95TnpzNFpfeWVwMHlDYU43SzJqVmFvNmk1eEhxUGVTUmIyNlRJSlFOSk5qU0ZHbUJfYW53N00y0gFsQVVfeXFMTm5iVFVzMDlaNzRraFVZTWxTamRYdDhKdmJlSEtIT3E0amRIN1VjZ1ZYeng1ZkxwTnR4X3NGREd1eDNOdE5zbjNNR3dTNDJBeFdJTVczRXpjbkVxOTNSWTVoNDA0b2hoaGpHcWJk?oc=5",
         "headline": "풀무원, 8년 만에 RCPS 발행…'고금리 영구채 늪' 끊어낸다",
@@ -792,16 +802,6 @@
         "published_ts": 1784947128.0,
         "tag": null,
         "first_seen": 1784970222.3554032
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wY2pfZkxDTzV5dUFUQmhkNWZmbTl6eGw5LXNQWFBPblhaUGFBcExXdExxRVZTMzdsYkZqOXZuRWxHU21RWDIwSFc3NzFfOENYa3Z5eFNpXzd3SktXV3Q2bkhFaWl2QThQRUNVNGUwVjZiUQ?oc=5",
-        "headline": "산업부, 8차 최고가격 '동결'…\"중동사태로 원유 수급 우려↑\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/24 19:00",
-        "published_ts": 1784887200.0,
-        "tag": null,
-        "first_seen": 1785059196.459704
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 19:15:45",
+  "updated_at": "2026-07-30 19:30:54",
   "yields": [
     {
       "label": "3년",
