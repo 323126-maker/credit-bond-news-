@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5OVg5T284UWU1WVIxWXdycmRBVlJGeThGdmtUaGZmQzIwS0xzNHloQjlKSGczN1dvYXREYzZ5VkRGNjBCOTJSYTlxZVNGRm83ZkoxbTFSMDlDeVhXZjI3TkhFZXl4bFByQ1ZaRGJrb25zbHROSGhN?oc=5",
+        "headline": "S&P 글로벌, 노키아 전망 상향 조정… AI 수요 및 다각화 효과",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "07/31 04:23",
+        "published_ts": 1785439380.0,
+        "tag": null,
+        "first_seen": 1785440722.6261623
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mRnlnTTNsQWdxd1pULVNiQzJTWkY1WElzMElYNjkxRzljRGhraW02Q1R4RUswT1VFV0VIdWE4OXBHNTFBYVpoYnB5Y203dUFwSkJ2TW90VWoxblc3MjREeDNfNk84ajNYTktpWFRmOTBmTzNmNFg0?oc=5",
         "headline": "무디스, 블루밍 브랜즈 마진 압박으로 신용등급 하향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785373015.0,
         "tag": null,
         "first_seen": 1785374123.0452175
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCYlByX0pLTXVTcWVFSXZ3WC1wM2k4bU5YdHBub2pwVUptZkdfcWtWVE9KcnJZcnVReUpiaTVRazZnN3FYQ3lLcDhVZU5vUi13QWVHRTlzazA2ZEpyTnVHd0dBc3dQcm9Oc0MtZlpaQjJ2bDI0c0FEZG96WVo?oc=5",
-        "headline": "[DCM] 반도체가 가린 경고음…신용시장은 이미 긴축 국면",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "07/30 09:22",
-        "published_ts": 1785370949.0,
-        "tag": null,
-        "first_seen": 1785371435.378658
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 04:38:39",
+  "updated_at": "2026-07-31 04:45:49",
   "yields": [
     {
       "label": "3년",
