@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1oNDBkZjVYUG5lZFN1M1YyNFBBSUpYRjFBYzBueU9yX21FemNVcGpCbF9LZ2NPeGgwbm0wMjZXWFdKV0I5dWxHZnEtTURNUG1HdWFrQ2VCRGY?oc=5",
+        "headline": "\"AI 시대, 반도체는 더 깊게...포트폴리오는 더 넓게\"",
+        "summary": "",
+        "source": "뷰어스",
+        "published": "07/30 10:00",
+        "published_ts": 1785373241.0,
+        "tag": null,
+        "first_seen": 1785374123.0452175
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tRjZPcjB5TjdWTlE0RmZ0TVVZSDYxdFdwM1puVS1mZ183WGxnaDN3QWllc1hwR0VGeHFOd1l1aTR5SHJoR0N4T1FxRmhoRzhGclVwckxwdHNtSVVLOE1vbV9MVjZQemdWcW5sTHQxUno?oc=5",
+        "headline": "'채권왕' 건들락 \"채권시장, 기준금리 올리라고 신호\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/30 09:56",
+        "published_ts": 1785373015.0,
+        "tag": null,
+        "first_seen": 1785374123.0452175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCYlByX0pLTXVTcWVFSXZ3WC1wM2k4bU5YdHBub2pwVUptZkdfcWtWVE9KcnJZcnVReUpiaTVRazZnN3FYQ3lLcDhVZU5vUi13QWVHRTlzazA2ZEpyTnVHd0dBc3dQcm9Oc0MtZlpaQjJ2bDI0c0FEZG96WVo?oc=5",
         "headline": "[DCM] 반도체가 가린 경고음…신용시장은 이미 긴축 국면",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785255496.0,
         "tag": null,
         "first_seen": 1785256230.4919536
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RDF2dVdqS3F0Y1lQZXNpWWh3YjBCOXFyVTF6aXhiWXh4a09OWDc3dHVBSnBOd3h0U2wzdmNUU0tucHEyYlg0ZEVjS3VDaUNpcklJOXNReXFwWjA?oc=5",
-        "headline": "[딥파이낸셜] 크레디트스위스 구제, 시장 안정과 원칙 훼손의 딜레마",
-        "summary": "",
-        "source": "The Economy Korea",
-        "published": "07/28 23:27",
-        "published_ts": 1785248832.0,
-        "tag": null,
-        "first_seen": 1785254165.297365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdWtrTk41MERHUjhPN2pCZ0Rid3hxRXRVNUMxLU1FN1VYcGQtWGd4U0ktSHItSkthZHN3THl1UlVMR2FqQ2haYnBHZnI2WEF3bWtIX2VPTlU5VGNHX19RMWd1ZVZEU0J2aDIySmdPeVo4aUFDUkFjMU9BdUUwcGU1ckIyZ2VnWkZxd1BqNUM1Ukc0MHNWZTBBbk1CNmJ5c2E5QU16SkxCdGZVMXk5MFpqNDN3akxjdGNqcVFodw?oc=5",
-        "headline": "Seaport Downgrades Warner Bros Discovery as Paramount Merger Faces Long Delay",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "07/28 22:44",
-        "published_ts": 1785246257.0,
-        "tag": null,
-        "first_seen": 1785251737.6268587
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CYmVSSnVxUnhfNmVGamllN1A5UTdBWnRtMlVyQTVERGRRVTVuN04tTjdnS2xhRjY1WTAzSHdhRXpiME1adjF6anBhY2RudThSYVgxLTdYbmhZMU1EajU1WUgxcGprZ28?oc=5",
+        "headline": "Wall Street’s Worst Day Since April 2025: Did the Fed Just Lose the Market?",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "07/30 10:03",
+        "published_ts": 1785373380.0,
+        "tag": "Strategist",
+        "first_seen": 1785374123.0452175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzE1VkRsdTlLTzBjSmlNX2E2bHdacWMyc2prMHRxRUNvUnE3SFhWSHlnWGUtMlRzTDgzc2haMm1HWE5LLVBpRjJBNEhFMlFfOU9sNmJlZzRWZ3l0NTFfVDczOG96Rkp5UFgtN0k4OHJoZGNBOWppdGRPQndaU1ZGZVdnbU9fTU9IaXlmTHFQWnlxYjVFeXNOYjBDOXk?oc=5",
         "headline": "Wall Street slides as bond market questions Fed resolve on inflation",
         "summary": "",
@@ -1620,6 +1630,16 @@
         "first_seen": 1785373236.5627778
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rdVp3Qk8tS2dHWUxqNVQwcWRjSDRnR2trdGptWndKOEV6VHZ4Y1VSTnpTMGZvb3lQV3pBWEgyNVJzMjZSQ3hVZnRZREdCYS1sVHpqSHlmNU9xVnB5UF9XcDJVRTlONDRIV1BQZ1VORmZ2QQ?oc=5",
+        "headline": "[ICYMI] 말만 매파였나…워시의 두번째 FOMC, 달라진 '기대 인플레' 반응",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/30 09:24",
+        "published_ts": 1785371088.0,
+        "tag": "Fed",
+        "first_seen": 1785374123.0452175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTG51VFZKZy0xSDZmN0U1N0s1TXNKeGRSNEd0N09scUR1N19OWWJHajhlOVlsc1V5UGppb3loUWxnek5zall1XzFJWHBqWFdhRFR3T0dLd3JCenRLdmcxcDNhVk1vWUVLb1FXZThsZ1ktVW9VTEJsWUdTSXdzOUx3TTBGb3h6SGU5Q1MtOFJ5dm1Rdw?oc=5",
         "headline": "2 Words From Fed Chair Kevin Warsh Sent the Stock Market Tumbling, and This May Be Just the Beginning",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1785370920.0,
         "tag": "Fed",
         "first_seen": 1785373236.5627778
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzQmdxTlBQSWVPWnlpQTlUbHRoV1hoaHdRRmd3Y3hCY3FWak1RSnhLSnI1RS1US0pSSDc0cGhZcVBoQlhiUHhsR0trekJ3d0RoUmlWaA?oc=5",
+        "headline": "반대 3표속 美 기준금리 동결 … 트럼프와 시장 사이에서 딜레마에 빠진 워시",
+        "summary": "",
+        "source": "매일경제",
+        "published": "07/30 09:21",
+        "published_ts": 1785370862.0,
+        "tag": "Fed",
+        "first_seen": 1785374123.0452175
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV18wWklmb09Ha2dFNVQtZVR1UUJudE5sMmhiQjdsUXR3bFVSY3A0bE1VekFxejZOcDZIcG0tcUxCOVJDdk5BQU8wVWNqVEVpRDkyM3BaejJReUJsTmdRd2NhVkRGeUY2MFZkckdhdEV4Z2NiZ0FFdnBqSGRQNmxOeHpaQnNIdE15?oc=5",
@@ -1800,6 +1830,16 @@
         "first_seen": 1785359726.295759
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
+        "headline": "Warsh vows not to 'waver' on inflation as divided Fed leaves rates unchanged",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/30 06:00",
+        "published_ts": 1785358856.0,
+        "tag": "Fed",
+        "first_seen": 1785374123.0452175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9keHpfdkVySXF2cHJqOFdWdjhwcVRkY2FCMWRxZnJBcTNIM3JLUjRwOFp2X1Z4VVVoQWM1ZlRlRUhoUXZvM19tYVBZa3czUjR3M2Z3S3lCUDd5VW9SQjN0SnhfN0ZIcndZaG9qa2pGcGJESVlDblJUQ3JjcU0?oc=5",
         "headline": "[New York Stocks] 30-Year Yield Surges to 5.2% After FOMC Decision... Broad Market Ends Lower",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1785355903.0,
         "tag": "Strategist",
         "first_seen": 1785356126.877871
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tSzltNml0RzY1LXpLcVo2UjBQVGZYWS14aEcyd2pOalk1YXoxb1gwODVNcE0zSzQ0UDBNZmdiWUd6SGt3ZUFWazJYWG9fOVk?oc=5",
-        "headline": "美금리 3.50∼3.75% 5연속 동결…연준 의장 \"인플레 2% 목표\"(종합2보)",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "07/30 05:06",
-        "published_ts": 1785355612.0,
-        "tag": "Fed",
-        "first_seen": 1785356126.877871
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONi1iUVViakNPM2pBdkZnMXNqbzloZlJPZ1hqWWRxZ2lndW1DaEZRZTNJTEprVDU3Nm5rRUhTY3ZfS01raE9HOXMzUGN4LTA2c3VvQzdidWdoTkhtTmxySm9vMXc5LUxIb0hpX0VIbXlGYVpCbWc3Mm5rRkdlXy1FTTI2SWxManhhMjZveW1GeERTNHg1STZ6ZkFIN3JoaVdodjF2RnYxcEg1dU9MTmNSV1VOOW1UY1h3QzhBbm1zWTZWU19yUWZORHFWX0diNlRqUlE?oc=5",
-        "headline": "Kevin Warsh explains why Fed is leaving interest rate steady",
-        "summary": "",
-        "source": "The Detroit News",
-        "published": "07/30 04:53",
-        "published_ts": 1785354786.0,
-        "tag": "Fed",
-        "first_seen": 1785358838.884428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1VYMUVfX1dTczZhTlFYdV9Sb0JFdW8xT0VUQ1hWVDN6VHdFcEJGZk5TanMwS1RLUGlFeFR6SnE0SGtJc2dULWNCdWcyZktqcFY2aWFwM2dLNzNpRmhkWEt5czVYNnlOVjlESjlEN2tzWnJtYjZadWJ0cVBvZFAtQmJMeDdIZGJ1ZXNXWGhybjBKRTVqQTZNTi1UcmYxOU1OcVlOa1E1U0tscnYxN3BxQ2t2MTJEZw?oc=5",
-        "headline": "The quiet outperformer: A compelling case for Global USD Sukuk",
-        "summary": "",
-        "source": "BNP Paribas Asset Management",
-        "published": "07/30 04:50",
-        "published_ts": 1785354626.0,
-        "tag": "Global",
-        "first_seen": 1785363325.4258883
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5wZm5aRnVCTDJ5bm1FclBhMllVRTF0cVJPU1dmS1VkMEhHbl8zOU8yclpSdC1tRXZmVWk1VVZCRElnNEVaOFdvLW9ZVlpVS1hZcVM5VHNHN19zdmU1R3FoUmFCNE1ERXI00gFuQVVfeXFMUEVmWmt5cE10TFdhUWp2TkxKa3ZNX0RnUHhEeWk0Y3FMcC1WbVNVbDZYM2VFU2psanRSQzJtRkN0Qll6NUJDejVKUjAzcDNWdWszQU5rNUVGbnFnVDRfbEx2THNYWWVxY0piZ0FWZUE?oc=5",
-        "headline": "워시 \"연준 목표는 물가 2%…내부 이견, 방법론 차이일 뿐\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "07/30 04:43",
-        "published_ts": 1785354208.0,
-        "tag": "Fed",
-        "first_seen": 1785355237.901288
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 10:00:58",
+  "updated_at": "2026-07-30 10:15:43",
   "yields": [
     {
       "label": "3년",
