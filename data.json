@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91ZEFYWHBXcllxOUp5bV9ndE52TjRGTFdUUTFoejJ0dHpfWXJQczlBbzNrYzl6TmtCbU9uWWExcERYQWhYeEtEb2FYNFhadVBCNlQ4WmlyUjBwOUg2LTB4cWhWenhHV0FfVm1r?oc=5",
+        "headline": "미 연준, 기준금리 3.50∼3.75% 동결…뉴욕증시 급락",
+        "summary": "",
+        "source": "BBS불교방송",
+        "published": "07/30 09:30",
+        "published_ts": 1785371450.0,
+        "tag": null,
+        "first_seen": 1785372324.839101
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNS1I4VWczeUlIZEJmWHlFbFlBc2dTU2JrMGZBMmJhZEJIS2FiX29uQ1dDMDZUYlFpS0lrZG9iVXhxS3lSM3NQWXIxdWM1cVFmRkk0Wk1EbkZDX2d5V2VFNmh3ejJHOGxlZlJTSThoWEllT3FOX1IyRUI2MmJ3eDNPYXB0a25iNm94VzVSNDNB?oc=5",
         "headline": "“떠먹여주는 연준은 이제 없습니다”…회의 두 번만에 굳힌 ‘워시 스타일’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1784941661.0,
         "tag": null,
         "first_seen": 1785033033.0475864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ySlVMdHRfLVNCQ0lxczUzV1JPa1FzOWJuZ3FnczhRWFo5X0t5Rmt3QUpQN1VId1l6bGJwS1pZbEpBSnFGeHhqLXp6SWtxM2M3RTFGaWtPZXVKa1VEcmZMddIBYEFVX3lxTE8ySlVMdHRfLVNCQ0lxczUzV1JPa1FzOWJuZ3FnczhRWFo5X0t5Rmt3QUpQN1VId1l6bGJwS1pZbEpBSnFGeHhqLXp6SWtxM2M3RTFGaWtPZXVKa1VEcmZMdQ?oc=5",
-        "headline": "커지는 기준금리 연속인상 경계감…\"근원물가에 달렸다\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "07/24 14:00",
-        "published_ts": 1784869202.0,
-        "tag": null,
-        "first_seen": 1784873724.2509406
       }
     ],
     "politics": [
@@ -1336,6 +1336,16 @@
         "published_ts": 1785295612.0,
         "tag": null,
         "first_seen": 1785296721.3301868
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9FVkJpaVA1LTRhTkFPUGE0emt6aThhMmphYU8xd2tKTVd3RGVEaEc1TTdBUldCZ2pTak1yRTV1MXFia0hXSFBHSXo3Wkp4ellla19YMWc5RE9xZEFxbFdpbUlB?oc=5",
+        "headline": "李대통령 \"담배소송 어떻게 됐나요?\"…이제 이 사람에 달렸다",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "07/29 06:40",
+        "published_ts": 1785274800.0,
+        "tag": null,
+        "first_seen": 1785372324.839101
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9qVVQ1dEphSVZpblFmZ0ZKN0Q1bVhyVnJCaTZtMDlqVWNHQUlQWVNTbWZXUVRuNnZJY3lqQmNScEFnVVFCaUlhLU1R?oc=5",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784755800.0,
         "tag": null,
         "first_seen": 1784756596.7856102
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB1YjV5azR0cWhjNTZjdFVZYy1FWHpTQnR0OG9xNHpMa3NnWEtoWFBGME03SDhfTGFIMVdsMGNTTDFzWDNLUElxN3g3TUxBX0twMFBxRHdpVW5qendhTVV5dnR4VGVTM0dEYTdYZ2ZUZFM4dDE3UlBmZNIBeEFVX3lxTFB1YjV5azR0cWhjNTZjdFVZYy1FWHpTQnR0OG9xNHpMa3NnWEtoWFBGME03SDhfTGFIMVdsMGNTTDFzWDNLUElxN3g3TUxBX0twMFBxRHdpVW5qendhTVV5dnR4VGVTM0dEYTdYZ2ZUZFM4dDE3UlBmZA?oc=5",
-        "headline": "이 대통령, 부동산 대토론회 주재…공급·대출·세제 해법 논의",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "07/23 05:01",
-        "published_ts": 1784750499.0,
-        "tag": null,
-        "first_seen": 1784757652.6476812
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-30 09:31:00",
+  "updated_at": "2026-07-30 09:45:49",
   "yields": [
     {
       "label": "3년",
