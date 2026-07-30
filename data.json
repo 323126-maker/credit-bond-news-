@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObnpxOEhJYUQ2bUZlQ1I1LXZBTlFOa3ZRSWQ2bXpYSzQ5RzdMSzVKS3IxcUNOOUxSeUI0WV83dVpMQmJjQ214LWk3dlIyWmxNbG9iX0pITXNLVjFTVC14bTRIZG5qcGNGdFZTYkJlMF9WOUR2NVpPclZnSmVFRG1ZX1REbTN6eTQ1Q0ZOSUpTZVJzM0kxX3ZIUkRNdzBOeGFjOXROU0gxb0h4WnF4a3ZKWnM2Zw?oc=5",
+        "headline": "SeABank는 무디스로부터 여러 부문에서 신용 등급 상향 조정을 받았으며, 전망은 긍정적입니다.",
+        "summary": "",
+        "source": "vietnam.vn",
+        "published": "07/30 11:51",
+        "published_ts": 1785379881.0,
+        "tag": null,
+        "first_seen": 1785380434.693828
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBBUEFZcU1yWDBwaWU3N04tdnJDdlFndkszME50NWZpTnRLZDVnUUlKREotNzZ3ZzNKRm4xLXktaEo1SkZxUGhmYXlQR2lKWE05MWVualJLNlQ4Zw?oc=5",
         "headline": "예상 밖 비둘기 워시…채권시장이 Fed에 보낸 '경고장' [심성미의 중앙은행 워치]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785275700.0,
         "tag": null,
         "first_seen": 1785276039.4773283
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tR3oteUxsWDdGbWgxNTZYQXZzcngwZnB0T1phRjFqaE9VUkdZSWx3T1dsY0Z5V05jWERhcXIxR1pmMlFPQ2ZFS2cyQlVWN2VzazJ4bVVfREhvU2twUE9xT3FUOE9OZU1KU1gxcmxab1NiZw?oc=5",
-        "headline": "국채선물, 유가 사흘째 급락 속 상승…10년물 9틱↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/29 06:13",
-        "published_ts": 1785273228.0,
-        "tag": null,
-        "first_seen": 1785282324.15427
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPaXE5WVZKSmY5Wl8yUGZ6Rnk2dHY2SEZVZHNWWG8wSFM0VUVBV3hmcEpDNDdGMDZWZURPMjNWNEtObGtGSmRSamdfazVZSks3aDFVOGhGZ3VnWWN2eDlpRWlCaW5qaXpLMDBXMFloTC1uOWVPa3hPbDNsZU1OZXAzQ0c0SmJuZlU3eVhQSlVJQ19Edm9zcDVWR0ZfMFM2MUlSNzRwX1hUSk5EUlZPemhkTzM0RDQ3djJjUFFfeWVQYnZxZENFTGQwelZQNFlpdEotMktaSEVKalNWamE5ZUJWNFZEd2VQcGVZMHFtRFl3U0RZaU5udmZxUFI0dHViWm5tdlgzMW82WjFxX0diOTYyTGRoNFPSAZoCQVVfeXFMTUVvN1NLY3UzZkgtenc1UW8tLU44UUJCQ3pTb2FjWWVJWVI2Vm9LYld1TERuUk8tUXhWNE16SGxFaTVNellrY2hVUFBtNFJ4N2diM1BDMUd5OXJGQjk2aVpHRVJpOUY3enBfbHlnZS0xWG5jWFVkYXlPYU1YZWw4MFEyUnpXRkdaNUt4al9vNklwVmhHVm10NTFiYlhlY1VXNkRFbGtVNmRPODA2X1QtWlFiN3lSRUozQXc4YkpvQ0ppQXdLMWF6RE9US2VmNERTQ1F4d3JFZ0ZpN21sU3JMQ3FtVmJmMDBVV1c3ZVNiUDVpQlFWeHpGaENleUFyYnRXYkxpaW9UMDN2dC03aHBqVmhXSXpsOUJYQll3?oc=5",
+        "headline": "Asian stocks remain volatile after Fed holds rates; Kospi rallies 4%, Shenzhen slips 300 points",
+        "summary": "",
+        "source": "The Times of India",
+        "published": "07/30 11:53",
+        "published_ts": 1785379980.0,
+        "tag": "Global",
+        "first_seen": 1785380434.693828
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1TZi1pQUpuOHo4NU8tWC03U0tBN1I3dVdLRGRDNjgwbmYzc25sWGtqSzE2a2tqSzNfVGxybHdXQ2ZIMUNucWcycUZkSGFwZm13MVZPeE9jdlFkYUtXNnRldENRUmN6X1pJQ3c?oc=5",
+        "headline": "Fed 소극적 대응 우려에…30년물 금리 19년래 최고",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/30 11:36",
+        "published_ts": 1785378960.0,
+        "tag": "Strategist",
+        "first_seen": 1785380434.693828
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPUWRvOFVRQVpkdlVnOERmZy10VGhDdURSc1NFM2pWNmNKUDlCZDVwWDdXbUVqMG9McVQtN3FSNVRmZjhXVmpLZlU1clBXUUdiMU9sbXkzdlRkX0VZUGstREtQYmUyYS1TYk5OSkptemRIdnllN1ZTeGhMa2Uya1Vjcl9UR1QyQTN6dGxvMU02V2hLUEUwcGEtSndyWmxpdWRNQ1U4UDRiUHhqNW9pZEF4Tm5IM2J3VjhjTnZXTk1vOHFrck82eXJScWRqSmFHUVQ1cmN1NllENE43TU9pdGFWWEx1SVdYR0N6YXd6dGRRbWpZbk5ZZ2Y0UXo1QXAwUQ?oc=5",
         "headline": "Asian stocks choppy after South Korea's US$2 trillion rout, Fed leaves markets uncertain on rates",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1785376498.0,
         "tag": "JGB",
         "first_seen": 1785376844.610232
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSUNpa08ybERnTTBvcWl2RHlWTk5ISGgtRENNNzhDYjA1cEN4Rk5HLUQwaE0tX2IzTzNRMUJMZWFwSHNMeVlaZ3NTZjR4T0JxdUR0cXJpRW5xXzRTcl9KdFRBM2JsQS1QMzlUUWVaSUJ6T29SLUZ4eFJPUm1iUUlzajc2UWQ3WC10RWh1SjA4UEdlVzFGSk9LdklmV2d2RTFtY0ZkM0M2SXVKX3pH?oc=5",
+        "headline": "Kevin Warsh answers uncertainty with silence",
+        "summary": "",
+        "source": "Breakingviews",
+        "published": "07/30 10:53",
+        "published_ts": 1785376416.0,
+        "tag": "Fed",
+        "first_seen": 1785380434.693828
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqZmE1YnVRTDByMkItb0w3WXBLZlpRd2g3SXYyanFQc3BncGNFSnMwYWlMY3lEeGNGX0dVRjNVeHRJbEtDT01CdHd0eTlvVXlId1k2OTZiS0lOX3QtLXRVUdIBeEFVX3lxTE1hU1VZRmdkN1pQLTctREVEbWdtT2JMM2loYUhwMHR3SUR5ZjFGdm10amdod2lWXzR3MmR0QUFRdEZUVmM2OXlXTlNnTjVUSkZjQ0x3T1hIT2FrRGVaRnZ4Z3JLZ1JxQlpKcXJPdWljYWVnN1htY0xmRg?oc=5",
@@ -1970,47 +2000,37 @@
         "first_seen": 1785358838.884428
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pbklTdGY2UVN5b0NQQWRMWnI4bjhua3NOTHRhajNpMTlwWW1OVkJvanRqQV9sWUlwU3k3YUh5ekdLYlIzcVBqU1lMVWtCN28xZXBQdkdWdHp5cEVmRFdBdERqMFB0OUdPN1JSSVVVaE9faENyc0dOSkEwQTI?oc=5",
-        "headline": "5 key takeaways from Jamie Dimon's hourlong podcast interview",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjlTU01BdEtfNExvSmZPc3hIYWU3QmRzTW9zSjFCQnhBRkxRbGF6WFNNSFZYbXVUU1kzTGZwa1FBVUhhaGFDcFF4REhoWGFSNGJUNGN5R2RsZ1owV2p4bU9ZUDRrOXFTZ0J4Qmg3SVFmbVF2WjJ2aVdCZ205cndFSDVGOXQ3WktqMzlQUVkyQmtTYkxCcnRTMEhCcGpSUQ?oc=5",
+        "headline": "금리 동결이 인플레이션 우려 자극했다...뉴욕 증시 일제히 하락",
         "summary": "",
-        "source": "aol.com",
-        "published": "07/30 05:37",
-        "published_ts": 1785357467.0,
-        "tag": "Strategist",
-        "first_seen": 1785365129.836771
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZER5Wk1oZjBsVTJJd2lBdC02eXhGejdYaFJwWVVNZVB3cnRYczRyYlZtbXVkRXN4bEEyZnZqQW1yNTk3c21KXzZTNWticW5vdmF4Ym1jZXEwd2FCb0w5MU5tS3FyaUVHS1J1ZUhTT0xTd2JKRDQyVldMNW1RREYyWDN6U1NmZ01lYzRHU2ViWmVtZkIzc1hWc2tKdlNhb1lp?oc=5",
-        "headline": "What Today's Fed Decision Means for Mortgage Rates",
-        "summary": "",
-        "source": "U.S. News - Money",
-        "published": "07/30 05:36",
-        "published_ts": 1785357377.0,
+        "source": "조선일보",
+        "published": "07/30 05:39",
+        "published_ts": 1785357540.0,
         "tag": "Fed",
-        "first_seen": 1785364232.783302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUFR0Q1NnLW5IVjZ4cUF5LWhoY1RPcjVVRGRkMkpBbkhVWnRrRTliRGNIQkR1d1JkZjE1bmJyZWRITkJaVkhTZGRhM1VQZE1GUUJuNk40SXJ5LXRia0w5NW1tanhYNU9LWm5uS3VDeWphSnZpaFBRX3ZQYVRxMk15Q3VkWXNrMjg3bHJ5QlZVRmh3clpuYWdmMzJocnR4MVlKT21VNGRsMA?oc=5",
-        "headline": "Jeffrey Gundlach says Fed must raise rates to hit inflation target (SHY:NASDAQ)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "07/30 05:33",
-        "published_ts": 1785357217.0,
-        "tag": "Strategist",
-        "first_seen": 1785358838.884428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMXZZT1hoRmtISTFuemVaVVVVY3N1SllWSEMyMmRtTnY1UzhoSjhWdlluOUo5TG5xMEdsOXZYeWM2UmtWSXh5T3ljQWUxVmxhMVFIR1VMWFdtY0ZwcU1nOXJ1T1VoTVJ3cG9JNGpfY09sQjhHLUVqc3dLN3JSUlhWS1Vnaw?oc=5",
-        "headline": "Wall Street is panicking over Kevin Warsh’s patience",
-        "summary": "",
-        "source": "Fortune",
-        "published": "07/30 05:32",
-        "published_ts": 1785357120.0,
-        "tag": "Fed",
-        "first_seen": 1785366036.200535
+        "first_seen": 1785380434.693828
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42UHl3dW5JOTBSRVBZZ0Y2RW1Obmc0RTVkcDN6MVN4VW1GZlpVOXRSUVNkSXNtTXFvOE5jTDNaY21FZXlfb1EzQ3NnVTdxZEpoRVgtT0IxcS1HNXFFQmFINtIBeEFVX3lxTE1YTmJDakRLXzZqSVlKcVp4ME84NWdPUzhWdnd5VnBDYU1JaEF4NEhIMGFTeUpacVc1LUYxbzNJTDNNU25yUFgzemxSSHpRaFBaUGNXVXBLbzRGX1BYbGU2dlhGN0RCbmZtVGw0VC0wR3B1bzhTWjNJQw?oc=5",
+        "headline": "\"이제 우리가 오를 차례\"…미·이란 무력 충돌에 방산주 강세",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "07/30 11:42",
+        "published_ts": 1785379334.0,
+        "tag": "한국항공우주",
+        "first_seen": 1785380434.693828
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWE0xbjdSTXpPajVVMXlqdURuMkdLRmVHeExjX1BMMkFiQkhIeV9jY0tKWUQ1c3hobV84UEtSSFpUMnluVzZ1cmlXc3JtR0ozTWF1SFhrMjZlQ3RIZ1lPSHFOUVQwR3BJVVVZMEMwM3NRR3Z0cV93UEl6Y1M0N1VOWDBB?oc=5",
+        "headline": "저점매수 기회인가 관망 시점인가...개인 투자자들의 선택은",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "07/30 10:26",
+        "published_ts": 1785374811.0,
+        "tag": "한국항공우주",
+        "first_seen": 1785380434.693828
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibGNMdWRiXy1BUlFoeTc1UDZ6OGRwVW9WMFFNbzVVWENmU0tKZzdXaHhGS094TTFFUzVwLVpwVmNjMHlHbTNIYnUyU3BRNDJLTXp3?oc=5",
         "headline": "카드사 조달금리 2년 8개월 만 최고…하반기 실적 최대 변수",
@@ -2390,85 +2410,11 @@
         "published_ts": 1785229685.0,
         "tag": "신한지주",
         "first_seen": 1785235526.1216476
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LVWRjQldOeUp5ZXRUMmhJRUdXbkQ2M0R5LUdLNFl3UjdaUVZGVUZRQlFqSTgxU3NqRWFwNk55dXVkQkZ2UzR4aDhxQlV6ZXhfcU5pLXhrTXF4Zw?oc=5",
-        "headline": "\"증권 계열사 자기자본 늘리자\" 영구채 찍는 금융지주",
-        "summary": "",
-        "source": "한국경제",
-        "published": "07/28 17:24",
-        "published_ts": 1785227052.0,
-        "tag": "신한지주",
-        "first_seen": 1785227439.656425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkeTFxaElKX1hSdTVqaDMtMmlQT2RnRUhsaV9ObUJvcWNSX2lhSmpCa2ZuamRBWS1zUVMtTTJfY3pSVVJ4Q2t1U0pSUl9hRjYwRHJ6dU9DUS0tV190Qk5iZkNaQ0wzWmhxM1pn?oc=5",
-        "headline": "카드사,가맹점 데이터로 SCB 판 키우나",
-        "summary": "",
-        "source": "sisaon.co.kr",
-        "published": "07/28 17:01",
-        "published_ts": 1785225707.0,
-        "tag": "삼성카드",
-        "first_seen": 1785247543.0118353
       }
     ]
   },
-  "updated_at": "2026-07-30 11:53:37",
+  "updated_at": "2026-07-30 12:00:56",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.8,
-      "chg_bp": -2.9,
-      "series": [
-        3.791,
-        3.747,
-        3.748,
-        3.776,
-        3.78,
-        3.775,
-        3.778,
-        3.768,
-        3.809,
-        3.887,
-        3.866,
-        3.848,
-        3.895,
-        3.867,
-        3.913,
-        3.917,
-        3.959,
-        3.865,
-        3.829,
-        3.8
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 4.037,
-      "chg_bp": -3.1,
-      "series": [
-        4.028,
-        3.981,
-        3.98,
-        3.991,
-        3.999,
-        3.999,
-        4.016,
-        4.008,
-        4.041,
-        4.128,
-        4.112,
-        4.099,
-        4.154,
-        4.12,
-        4.172,
-        4.164,
-        4.214,
-        4.117,
-        4.068,
-        4.037
-      ]
-    },
     {
       "label": "10년",
       "value": 4.257,
@@ -2494,33 +2440,6 @@
         4.333,
         4.289,
         4.257
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.485,
-      "chg_bp": -4.6,
-      "series": [
-        4.365,
-        4.336,
-        4.344,
-        4.375,
-        4.396,
-        4.431,
-        4.431,
-        4.413,
-        4.423,
-        4.492,
-        4.468,
-        4.453,
-        4.512,
-        4.541,
-        4.617,
-        4.616,
-        4.642,
-        4.561,
-        4.531,
-        4.485
       ]
     },
     {
