@@ -32,6 +32,16 @@
         "first_seen": 1785366931.1742308
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EcEpKSTV6U2ExUDZrcmx4bWwySXA3X1FnX01aZURMUU5JM3ExSWV5Q2wxMFJ1cE5GSXpqakhFWERaMlV0bXlxcm9lVGN4cllMMFFyNW9MS0JIYjYxa2dqZA?oc=5",
+        "headline": "다우 1153포인트 폭락…연준 동결에도 채권시장이 \"긴축 부족\" 경고",
+        "summary": "",
+        "source": "theconnectmoney.com",
+        "published": "07/30 07:29",
+        "published_ts": 1785364140.0,
+        "tag": null,
+        "first_seen": 1785373236.5627778
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5xSzJQd2tsS2xmMTlxMk1ZVDdTMmNTTEo3UGFTcy1BLVNQeGl0eS1uWE53Ti1RWUk0X01uUmlfU1JuMWc3MVN5VVRTVkcwVllJTUFN?oc=5",
         "headline": "[시간들] 증시 아노미…靑 경제사령탑이 던져야 할 메시지는",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785246257.0,
         "tag": null,
         "first_seen": 1785251737.6268587
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5USnZ3dGpicTl1WlppdHp0cjJyMEoxUTBpME9LY2NFVEVrWmRzN1hCUDduOC1HWDQ5cldubzJfX3U2dklkSFdQekFkRnNsX3ZJYTVwQzF4eXV1NTVNeTNaWXNLRkh2NnFNdE5jOA?oc=5",
-        "headline": "NH투자증권, 5000억원 회사채 발행…'반도체 자금' 유입?",
-        "summary": "",
-        "source": "ER 이코노믹리뷰",
-        "published": "07/28 20:27",
-        "published_ts": 1785238078.0,
-        "tag": null,
-        "first_seen": 1785239127.0580854
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNzE1VkRsdTlLTzBjSmlNX2E2bHdacWMyc2prMHRxRUNvUnE3SFhWSHlnWGUtMlRzTDgzc2haMm1HWE5LLVBpRjJBNEhFMlFfOU9sNmJlZzRWZ3l0NTFfVDczOG96Rkp5UFgtN0k4OHJoZGNBOWppdGRPQndaU1ZGZVdnbU9fTU9IaXlmTHFQWnlxYjVFeXNOYjBDOXk?oc=5",
+        "headline": "Wall Street slides as bond market questions Fed resolve on inflation",
+        "summary": "",
+        "source": "Dimsum Daily",
+        "published": "07/30 09:56",
+        "published_ts": 1785373004.0,
+        "tag": "Strategist",
+        "first_seen": 1785373236.5627778
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTG51VFZKZy0xSDZmN0U1N0s1TXNKeGRSNEd0N09scUR1N19OWWJHajhlOVlsc1V5UGppb3loUWxnek5zall1XzFJWHBqWFdhRFR3T0dLd3JCenRLdmcxcDNhVk1vWUVLb1FXZThsZ1ktVW9VTEJsWUdTSXdzOUx3TTBGb3h6SGU5Q1MtOFJ5dm1Rdw?oc=5",
+        "headline": "2 Words From Fed Chair Kevin Warsh Sent the Stock Market Tumbling, and This May Be Just the Beginning",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "07/30 09:22",
+        "published_ts": 1785370920.0,
+        "tag": "Fed",
+        "first_seen": 1785373236.5627778
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV18wWklmb09Ha2dFNVQtZVR1UUJudE5sMmhiQjdsUXR3bFVSY3A0bE1VekFxejZOcDZIcG0tcUxCOVJDdk5BQU8wVWNqVEVpRDkyM3BaejJReUJsTmdRd2NhVkRGeUY2MFZkckdhdEV4Z2NiZ0FFdnBqSGRQNmxOeHpaQnNIdE15?oc=5",
         "headline": "\"금리 동결 속 조기 인상 신호 찾는다\"… 일본은행 통화정책회의 개막",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1785354208.0,
         "tag": "Fed",
         "first_seen": 1785355237.901288
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNNmJITjR0aWo3U2x0Yk8zVElRVG5vM3BvTU5sb2ZwblNxalZ0ZHNBYXB1cW5xSC1wZk96ZHZ6YjBaRzBLRF9hQWJNaHpXQ3AtTjZHWVRFOGNNQTFqOGhvSml4b1c2RHAyNVh6OEpkUTdSRjhYNWF2NUVxblQ2T3RQbVdhTkdLQUtveDIwR1JlQjFIZVZTelZoa1F4WTVjLTk4ZnN1c1RIdkVmR1gxTE9uc2pmbUpNMHVoRlVhTktBYk00RzhGYnhGelBDN2VlUENmOTE0dkc4bDg0c3RpX1NyNjA2ZGUzT0EtOGpMMXVZb213UTR4S0YyMNIB_gFBVV95cUxNUWQwdnhBTTdWejhkU3FMN0pFa2JRdGJoM0hEazdOZGRWbFcxTWRXRl9Td3puWXZLbk44c1lINUdjYU13QlZHMTRfc2hKd01OUXVlWm1IcVV5RnBFOV9Ga3dXd2o4RFR5MDNzV0ZVZXk0bExTWXhxa05ueGdlUmFvd0V2V2NXZENLdWE3VVdGbXc0U01Hd3dxdU1YWE81bkU0TFhQRDU4NFlLRHJQTi1rMy10U2RORXF3ckY0dy1CeVdJQnVRcldUM0dZMTNiZ1BRajdEWXNmVkxOU1JsbXRBdHZGYkxKRktKVEdkb1J0dlJRN2ZuTG9fdXVQUDE2dw?oc=5",
-        "headline": "'Play the ball, not the referee': Fed Chair Warsh says Treasury yields are responding to data, not policy",
-        "summary": "",
-        "source": "Moneycontrol.com",
-        "published": "07/30 04:34",
-        "published_ts": 1785353658.0,
-        "tag": "Fed",
-        "first_seen": 1785354323.6464472
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMWE0UWlwemdYNE5CaEZPSVBqZVNuSmlVSmIxWHV6R1hXa3lua1RReGpYaTEtZGttNzZoTU1XT3VGbjZWUmxFSWxnN21mMGlHVW1fazREOXdRZVk1ek9ya1JVMVNWM0NoVEVzRHY2bWJSYy1JRUtrNElLb3BPSjJzNm9wWmpmYTU3OXRIQ0E1dG82TkU2emF4QVoxTEJJU01ydzF5cHZHRVlnbGp6T3JESUtzV0ZZYjZUc2c?oc=5",
-        "headline": "Fed leaves rates unchanged; three policymakers dissent in favor of a hike",
-        "summary": "",
-        "source": "Reuters",
-        "published": "07/30 04:13",
-        "published_ts": 1785352424.0,
-        "tag": "Fed",
-        "first_seen": 1785355237.901288
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ibGNMdWRiXy1BUlFoeTc1UDZ6OGRwVW9WMFFNbzVVWENmU0tKZzdXaHhGS094TTFFUzVwLVpwVmNjMHlHbTNIYnUyU3BRNDJLTXp3?oc=5",
+        "headline": "카드사 조달금리 2년 8개월 만 최고…하반기 실적 최대 변수",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/30 09:48",
+        "published_ts": 1785372480.0,
+        "tag": "삼성카드",
+        "first_seen": 1785373236.5627778
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9QVUxRcXRDX05CazRfMVh3U3FMYV9PcTlfZ1picHkyb1ljbkE2NVVPRHhRVmt3aXRzZ1lQTTJOMm9OTkgxZTNKNHBpb0VCQnYxeUHSAVNBVV95cUxNREJQQUpEanlqN2ZETDBWdWFHaWEyLXhTS2lkTVZYNXBnVWItci1FLVBQOVVUa3dXZDRVMDRObnJlX3Z0TlRFam10emt4NGRqZGpXZw?oc=5",
         "headline": "메리츠금융 회사채 수요예측 흥행…4800억 주문 유입 [시그널]",
@@ -2400,20 +2410,10 @@
         "published_ts": 1785225707.0,
         "tag": "삼성카드",
         "first_seen": 1785247543.0118353
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMlc5SUMwZWhNUWlneGduei1vcVlObmtMeGRIREVCQUk5eTE4Yzhhc1kxclVCVnJOZXNvRnpORVpmTUtpUngzcXZGY0N6RmR4SjE1YVNXN3VkNEZRbURVWDJ0WE9aUnF0UWNKbUhqZ0p1b0V1LXNOTklNMHdPUEdFSQ?oc=5",
-        "headline": "카드사, 상반기 실적 선방…하반기는 고금리가 변수",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/28 16:26",
-        "published_ts": 1785223595.0,
-        "tag": "삼성카드",
-        "first_seen": 1785225634.8676057
       }
     ]
   },
-  "updated_at": "2026-07-30 09:45:49",
+  "updated_at": "2026-07-30 10:00:58",
   "yields": [
     {
       "label": "3년",
