@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakxWbEw4NWpYbkVMVmFCU21YLVh1ejYzVzB0RURybks4X25TTkgyRUl0Q1BGTC1FRV9oNjNnQllUcFVNNmhLZmdZTVdCZ09iMTBrQUlFUkpIX3NCREJQV1I4M2I1NE9UUW5aT05TRlZmUDhZMzhpODNHaVNRUk5SLXBvcjFQbENqVWc5bEJab0xYUQ?oc=5",
+        "headline": "USD/JPY (USDJPY) 7월31일에 급증했습니다. 주요한 이유는 무엇인가요?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "07/31 13:01",
+        "published_ts": 1785470496.0,
+        "tag": "JGB",
+        "first_seen": 1785471321.4064112
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzVhT1l3RHpHREllbHBQdUZZbkVCUWlWMUZPU2poaERqLXZtM2kwVTNuR0pFV3RDekFWeXlfXzdzazZHS0hmaGxmbk5XZmNXSzB3UjBUdHVxZUh3LUJyNUppVnpXUEpFWHB5OEo4WC1jNExrMnlGSzFnbkNpMEV5dEF5Wk1JVGlqTERNbndR?oc=5",
+        "headline": "USD/JPY (USDJPY) is up 0.69% on Jul 31: The Reason Has Emerged",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "07/31 13:00",
+        "published_ts": 1785470425.0,
+        "tag": "JGB",
+        "first_seen": 1785471321.4064112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEc4M0V3S3UzZ3dkak5zNFdCOXdWbTZldmRILUpXTjRRaWtNdU5MNktYdkJnQmYzM0JKeWRHckR6UjlMNllsYmxzSmdKTHRQMnVNM2R1RGxXOTZPWUZWcnF6MURBSERiMTQxd2R3UlNRSUI4Ulo2U2puU01kMGtwdEdkdFhEQdIBiwFBVV95cUxNVWhKRFphWHZXNVoyZWlHZkxQYnZCN08xSk5uWjdTNzBCQlNneHBmUkNoeWhkWEpCUEZ6TklCZ2RJZU1FRUh0YmhsUzNKdVhJUWY1bUN4T0ZZREo0TzEwWEFLY0FrQ1VNU1I2T3BWY041VmxiUVJnY0pNb21fWWx0UGtzTWVjZkd5SGhF?oc=5",
         "headline": "BOJ holds rates at 1%, warns of underlying inflation exceeding 2% target",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1785468660.0,
         "tag": "JGB",
         "first_seen": 1785469524.4514062
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVXkwNjh1UkhuU1kxWTRpQjkwSGZuWkpXTlhYT3YyYWZBckpQXzY3U3lkRTRBaGNvdjU5TnFFMl9VcGtleWpZS3BhYzZNYmhoM0U3cTlZWXVoRVZscVJLU08zVkN1Z2d3ZF9LLTdhMW9HcEN1YmlUdG5YbmZnblYxSTJkbVAxZmFsVHJrX1B5VUZJT05hRVE?oc=5",
+        "headline": "Japan 10Y Yield Eases as BOJ Holds Rates",
+        "summary": "",
+        "source": "TradingView",
+        "published": "07/31 12:30",
+        "published_ts": 1785468600.0,
+        "tag": "JGB",
+        "first_seen": 1785471321.4064112
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOGFPOUVXN2NWRlFsQUtYSWFkelVTdk5QZXZUcVdVSTU3Mzc2V3BxNU04ZTBHR1Q0VzJYLWMwQVlFMDVfckdLQkFGeUY5aURGMmRvSDNBNURIWWJ2ZXdKetIBeEFVX3lxTE9uZ29ET2xLY2dlVnljSWNBVFRoaWNST3gybklnY3NPdjZSSjZ4ZUsxcFRZcW9MZGxQdlNCTV85bmtycGhVVkVLT0pXR0RhUnhNdHRPVkh6STNseTZueFNiZEdhc2NlNDJPRjZBdDM2dGc2LUE5UGp4OQ?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785435285.0,
         "tag": "Global",
         "first_seen": 1785436235.6459901
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbElpWmdaQTg4UnhnNW5ONzZGRnBLY0ZWdTk1MjVpWjVObjR2Ymx1QXF1cW1selZZVTNzLTNYV0s2T3paVGRRVWRtRThYeldaMEhoQVhRSGk1SWtyT3dnalB2M2wxYWF0dkRJYzJ2MVJZT0l1NlpESlFIMjRvVzVUUFpOOWh4ODZyM2JwclV6TjlpVmhDeUtJZVZWZWUycF8xOEIzZThGSTN6WnVHVFJkNTlXUTBCU1U?oc=5",
-        "headline": "The Bond Market Is Unhappy With the Federal Reserve's Unwillingness To Fight Inflation",
-        "summary": "",
-        "source": "Reason Magazine",
-        "published": "07/31 02:30",
-        "published_ts": 1785432633.0,
-        "tag": "Fed",
-        "first_seen": 1785438040.1428504
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbE1ZTld6eGRtRGpackJwclEzb0VMaTA1c0NFU1JFVThxNzk1cGJKcFpfSm83YUZrZmI1ZVNEUkhROXRsbFFuN21SajlTUWl2MWhMLXQtTktpT2Y0aWdZcXBmS2hTT1NsbmlXZ0wzN1pqZ0VtVFNaS0tfT0FwTmg0c2l4TVhtclUyN3gwWDZVMmU4M21wb3ZSNm5zRHlhczFLUV9oVUQ5WEpoay13RXhrbnRiQVlfUXl2THZGX2VWUkRDbmhUYl9oTHdJQ2YzUQ?oc=5",
-        "headline": "30-Year Treasury Yields Hit 2007 Highs as Bond Market Reacts",
-        "summary": "",
-        "source": "Whalesbook",
-        "published": "07/31 02:23",
-        "published_ts": 1785432219.0,
-        "tag": "Global",
-        "first_seen": 1785448841.6982574
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWJ3RGw1RWlwc0VVdkxaYUh2VUhjaGt5MTlXdGgtNWRIWHpKcFNROTF3WGVWbkpGZzBWVFl6cU12Y1FsQmNXNWdjVFBlZzZ4YUVYRjVmY25hX2xDdDdhNXNkcXRmenU2WWI1YzhMaFF2ekJsSWdQYl9abVZLZzM3cmw1SS1PVS1nNVE?oc=5",
-        "headline": "Kevin Warsh, You Are the Ball",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "07/31 02:13",
-        "published_ts": 1785431611.0,
-        "tag": "Fed",
-        "first_seen": 1785435324.7280989
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 13:00:57",
+  "updated_at": "2026-07-31 13:15:44",
   "yields": [
     {
       "label": "3년",
