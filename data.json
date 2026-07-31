@@ -102,6 +102,16 @@
         "first_seen": 1785412835.310482
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55ZUp4WkY4NWp5b19mbVhmVm02NWNhZ0xiTFF4cVZBYV9NNTBneTNiSjE1OF82NUZlN3ZjT1ZmZWhPc2lYc0d6ekI5bTJORXpMZWc?oc=5",
+        "headline": "라이프 타임 그룹 홀딩스, 2분기 매출액 8억6600만 달러..전년비 13.7% 증가",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/30 20:30",
+        "published_ts": 1785411034.0,
+        "tag": null,
+        "first_seen": 1785462320.7767513
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4eXpPM0c2MHB3S2FaSXJicmJxZ2IwcGNSMWt4aWdnSmF3TEFsOHpjaEhHOWozTzl4V1pGUE81X2RBUldlREFjcW56TWllNllhQ011cUJmWUlSMkZ4WnE5WGIzTkdvd3NnQkpMOXdsNEZuVGc?oc=5",
         "headline": "라이프 타임 그룹 홀딩스, 2분기 호실적 발표…연간 전망치 상향 조정",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "한국경제",
         "published": "07/30 10:46",
         "published_ts": 1785375965.0,
-        "tag": null,
-        "first_seen": 1785376844.610232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wRGd2NW5XSjZuVDA4ZkVFdWVraE5CcHQxd1QtcC1SMWRLNVlmQkJnZ0VPazdWZjkxZGZKcS1mY0gxd3VWcXMxekdQR1hHZWNFR3Mw?oc=5",
-        "headline": "\"월가 CDS 시장, AI 승자와 패자 예측 시작\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/30 10:39",
-        "published_ts": 1785375540.0,
         "tag": null,
         "first_seen": 1785376844.610232
       }
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OblowLTBiNi1sbFUxT09CN29zOWdpNWsyRGhkdzN6WTRrMUYwSm1NS000d3dQZGV3OHI5TXZDaFNGNHhfZU55My14NWlnT1lTLWZmOFEwaWRKSU1sbHkwbzZzWlBvNU9MWmRabG8ta1cwN2M?oc=5",
+        "headline": "[포커스] 미·일 당국 외환시장 개입…엔화 1시간새 3%대 요동",
+        "summary": "",
+        "source": "오늘경제",
+        "published": "07/31 10:22",
+        "published_ts": 1785460962.0,
+        "tag": "JGB",
+        "first_seen": 1785462320.7767513
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWWUta2UzYzMtZ3hveWhreE1sSGR4SG9zdjRGZ3pybW1lbXN1bnNmOXRKOFJER1NaOGdJZ1lTSWZFYXB3RVJaeW9MYWNpbEliazh0V2NZcW5qRnYyY05BQzFGa1dfNlA5YmdtWkJiaFp4MHoxbHc?oc=5",
+        "headline": "Treasury Yields Diverge After Fed Holds Steady; Long-End Rates Climb While Short-End Finds Support",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "07/31 10:06",
+        "published_ts": 1785459960.0,
+        "tag": "Fed",
+        "first_seen": 1785462320.7767513
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX3BmTUp1MW5oMHJ5RzVtWUF4MGhlTllwbjlOSklUNkQ4bEU4Y0JTdDh6SVpsZDdhVm5RM0tXVTg2SHAwOS05MzRBT0dFbTRpM2tSTTY5TEdWQjZQTWNlTzlGR1NZVFJJdGJKWWpXbWpBMlVDVFNvLXVfRUlrREZzNl9qaWtWSTlvS2c?oc=5",
         "headline": "Japan’s Bond Yields Rose As The BOJ Faced Yen Pressure",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785424065.0,
         "tag": "JGB",
         "first_seen": 1785453330.3531928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9FQ2hkcGI5ZzAxVEJ2TGlOaWhfX2FTei1pd2FPMUN2OHlLVFY1OTRIWHkzcUxBbF9mbUlLWG5jTmh4MU1OTDFISHpLQWxnbDA?oc=5",
-        "headline": "연준, 기준금리 5연속 동결",
-        "summary": "",
-        "source": "애틀랜타 중앙일보",
-        "published": "07/30 23:58",
-        "published_ts": 1785423500.0,
-        "tag": "Fed",
-        "first_seen": 1785423636.5937152
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EamFaMTlRVnpiMWRkdWNVWEd1OEFOeDNfaF9CUjlKTjVKNXIwbmozZkV4bkh4MlUzVkIxS2Q2WjhxV1BzQ0hSN2trNUlmZWVEQzhIY081azMzcGM?oc=5",
-        "headline": "엔화 환율 163엔 찍더니 급락…日정부, ‘시장 개입’ 칼 빼들었나",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "07/30 23:55",
-        "published_ts": 1785423335.0,
-        "tag": "JGB",
-        "first_seen": 1785423636.5937152
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 10:30:58",
+  "updated_at": "2026-07-31 10:45:44",
   "yields": [
     {
       "label": "3년",
