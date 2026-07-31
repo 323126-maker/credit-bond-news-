@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRlpRVjVHdGJHOGlHNVM3Qk1EOXA0VVFwNDdvdEhJOE5qWE1HMjczdUlPM1NyQVZZVVNBczZ3MVJENVhJYWYwemlsNGs4OWV5QmlQWmt4Y3VXallzUUxNR3lLNzNLZU42LWZNUmtjbVNQaDZuVmtEanRxdGhLZllTWUFjdExQMzFoOE5MQXVwWjFmTE1VWlpHc2FDNkNwT1JVaE1EdmNHM1ZLQQ?oc=5",
+        "headline": "Kevin Warsh’s Honeymoon With the Bond Market Is Already Over",
+        "summary": "",
+        "source": "WSJ",
+        "published": "07/31 09:30",
+        "published_ts": 1785457800.0,
+        "tag": "Fed",
+        "first_seen": 1785459634.7612307
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Jd2o1TVlwSGlTdjQxSjdyY3BUUFhId0xtQ2VUanE2ZE01NEtYTjdpc2ptRkxjaEhmMkJJMmxyYUdmckNpMTBndG9oQmxFa1ZCaDZ3S0tTQncxRG9tZ0NXZlAzQTFlZFRCVW9FeDNCMENSZw?oc=5",
         "headline": "AB Asset Management: \"Actual Profit Generation More Important Than Vague AI Expectations\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785421320.0,
         "tag": "Fed",
         "first_seen": 1785422737.4000797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBhTjYxOEJHM0ZkNnpHeFppdWxGRjBlQXRuQlRCQ19pS1BuRWdHamlJWWxkZWswOFpULU1qcXR2Q2s1YXQ2dDMwU2ltOUo4Y2Joalhj?oc=5",
-        "headline": "日 엔화 장중 2%대 급등…당국 개입설 부상",
-        "summary": "",
-        "source": "news.nate.com",
-        "published": "07/30 23:19",
-        "published_ts": 1785421140.0,
-        "tag": "JGB",
-        "first_seen": 1785421832.3056936
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 09:45:47",
+  "updated_at": "2026-07-31 10:00:58",
   "yields": [
     {
       "label": "3년",
