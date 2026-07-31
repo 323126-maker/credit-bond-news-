@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02YnFTQW9JcGdXLS1WY1JmVzBsU29xVjg1T1plY0NobWI5ekROYXZFNThuRDBQNl9YYXNMU2xDcy0yN3FjeUJuUmRqWUFlRDFUdC1PZnR5Q19hbWpzTkhPT3dnS01INTRXRGg5aThSa0xzZVRpOThxeGlPbFRvQQ?oc=5",
+        "headline": "Treasuries Get Whacked by Japan’s Big Yen Fix. Bonds Don’t Need More Trouble.",
+        "summary": "",
+        "source": "Barron's",
+        "published": "08/01 00:39",
+        "published_ts": 1785512340.0,
+        "tag": "JGB",
+        "first_seen": 1785512724.1957395
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZVc0RTNjYzdieFRwOVMtTDZ4OFppN1BtXzhXaGtyR1pXMXo2TkZ2bDlXNEhfeXpoTWpGUkhVOUFKbHV1V0Njcnd5aUc4bVczRjUxWTg0SzUyQktPY0xDVTRBWGFNdVgzd093enZGVWplZm1DN2RleGtwdERaUFhsMFFOSXpseDlDdWlRUjdGRGZtcXFzcHNwcXl4Q0hINGg2Ym9zQlpkN1dWdHBv?oc=5",
+        "headline": "Bond market sell-off sweeps the curve as yields climb across the board",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/01 00:31",
+        "published_ts": 1785511911.0,
+        "tag": "Global",
+        "first_seen": 1785512724.1957395
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJ5YXBWTFgzRHN1dnJmMjdFNnBkYXItWE8tRUdhZndicVEwaDVIdE9qWVU1SjliN1hWdXJUME01MTlYN3NGVFctanYyZG1xaU44a19zS0FBTjZhN2VOYW14RjJjTDBoWkZKNjRlVE5VbEhfSHFWdUZpUVc4MVZ6OU5KcGwtYlBSbUphRmJ2RjI2eFZFdHMyQWl6aGdvUENOZnhLNmxMdTFFTUI1V2pzejRNd2t3OWFYR1BJ?oc=5",
         "headline": "Stocks seesaw as Amazon surge countered by Apple slide, bond sell-off",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785473280.0,
         "tag": "JGB",
         "first_seen": 1785475832.379356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EX0trb2NFZ2NKRmcwN2RKRmFvY3VHYnJwQ3ZNaEQ4QlVjOUVvWG10U1R2V2w4alJXV2d2NjAyTFpVVFFScXFKSWF4T0M5YXRjOWZ1dUtPbVk3dkdzci1hNXduUEhHY1A4RHg4dmtGaFhsblNVekU0cA?oc=5",
-        "headline": "지난달 올리더니 이번엔 멈췄다…일본은행, 기준금리 1% 유지",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/31 13:36",
-        "published_ts": 1785472560.0,
-        "tag": "JGB",
-        "first_seen": 1785473121.8448312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WX0hfa3p6cGpvSTRZYUxNbE04SGY3cFk3OUJXOW5oWTFielBvMTdwVGhaNUxiNzVvQ2QtQWNjWjVvNzdFczRPV1BBR3lSX0NkTS16NlNyZmxJRzJDVDF4b1Utd2o4SmV4OXdzVdIBcEFVX3lxTE81el8zZGFJM1RmeFRCTXlScUdUV3VPTURCTGxvTEFROWRkNlFHMUVLdFVzUjdRODZxX2llSG9LaWtoZkJtSzk1Vmc2MlFSY3h4UlhrQ2tGU3AzeC02VjljMU9hMjJhd243Q0VONERvT3Y?oc=5",
-        "headline": "일본은행, 기준금리 1% 유지…추가 인상 숨 고르기",
-        "summary": "",
-        "source": "남도일보",
-        "published": "07/31 13:27",
-        "published_ts": 1785472020.0,
-        "tag": "JGB",
-        "first_seen": 1785474035.9162505
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 00:30:54",
+  "updated_at": "2026-08-01 00:45:45",
   "yields": [
     {
       "label": "3년",
