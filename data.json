@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmcwTXFrcFZXbWF2aTBqN250ZkxXaGlTVjdkUk51d0NYWV96ZlJ4Vi1kdmVWTXBDVlZmOXF4bF8wT0luazdRbTNmU2E0dW5oQk8wSXAyUEFrRnExNW4yNlp2V3E2QzJPLWFoeUZoVG94WHBpcF9QRUd4VUg5RmNTeHJfQTIySkZKWlJSdWZxX2hPMHluWEhLRGowZ095RnNLN29uZ0oyV3ZPTUZtM0RDeEY3Zm9JeEtEVjl3MA?oc=5",
+        "headline": "Opinion: Warsh’s Fed is failing to stick to its own principles for good monetary policy",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/01 02:38",
+        "published_ts": 1785519480.0,
+        "tag": "Fed",
+        "first_seen": 1785519932.8549972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaHU2eTA0VU1IVS1EdHU4cVRBbzZCc1RJZ0pMVHp2WVhkTlI3blFvRk1ISE1wUkYtZXhoNlFjVm1OTGxNNkVkYTIwU1FzZzBFSkNNS0xFNjRmSDJTQm95SHY2Q3c3QXpKWGRyV3A4X2JFN0ZNUVRnLUtnMDN3cVVRVGdOd08zSXZBQ3J0eXFJRVViazh0ZFA3ZTRfeTI2aTdOblN4a0JVTU44ZENlSF9ZZVoxRld6aWIyYUpiYXlTdw?oc=5",
         "headline": "Premiums to hedge against a deeper U.S. bond selloff as getting too expensive – report (US30Y:)",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785517563.0,
         "tag": "Global",
         "first_seen": 1785518213.0399537
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmJfVkFVelJHWW96d1dXdm44X2I2eWlWMkxGN0FUZFZKTFdCVUd4VE1WZjNHMTB3Z2Ywb1JRVjZPS0Q4YjFCR1ROR2hDaFdNRldqQTdreFR0QXhwUGpwSmFoUlpWOXMtTEx2UVNEOU1SWklHZVRmZ3dLT2p3ZWZmMjRaVTV0RUZQdFZ3YUpfd0Nvc0FFMmc?oc=5",
+        "headline": "Japan’s Bond-vs-Yen Dilemma Could Shake Bitcoin and Crypto: Analyst",
+        "summary": "",
+        "source": "CryptoPotato",
+        "published": "08/01 02:03",
+        "published_ts": 1785517380.0,
+        "tag": "JGB",
+        "first_seen": 1785519932.8549972
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXZjVTBzUEhqaFl5QUFJRkxLYUMxWVJvRkc0WmVpOU0wc3gxc0RmSkhVdWRQSlREUjZRN2lHNjNhd2ExdWZ0WXZoMEpYc2ZjMVFIRS1sRmlRYXU4Wng4bDFqVVNHbUE2QmM2MC1KcVh6NzVfTTVaamRaQ3dTVHdhanRJaHZVVHllZVJHWl9R?oc=5",
@@ -1850,6 +1870,16 @@
         "first_seen": 1785491123.7793736
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd0owUTVJNzUzQXNjUWR5ZkpVRXNKaDhRQzBXT0xmbUFQRmFSRlEwb200c2JBVnhFZlJzOVljRFZmVjUwQnBFV2E1Sy1SU183VXc?oc=5",
+        "headline": "'엔화 구하기' 작전 …日 대량매입 맞춘 美 연준개입에 3% '쑥'",
+        "summary": "",
+        "source": "mk.co.kr",
+        "published": "07/31 18:09",
+        "published_ts": 1785488951.0,
+        "tag": "JGB",
+        "first_seen": 1785519932.8549972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE43NE9qX2RZUXozZkdDZ0I0aHRUYmd6eWRiaTV6TXVaWWtuMktuZnRhby10eUVoZldWajQzTkdqRmdwczBGQ1pNUkl4cUJNeXdhN09oV3ZDdmFvNXRoSEQyYjVxNnZlbUxWX2puYnN2S25ia01yRmJrdHQtVQ?oc=5",
         "headline": "The Fed’s struggle for independence",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785480232.0,
         "tag": "JGB",
         "first_seen": 1785483928.8070805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTdzRzUtZ29DdDRkVVVWTVg5bDlVYU11QUN1bXNRYzZGYlhxQWFqNWZtUTNlTEZ4UjJSTWdMNlVnTFUtb3BicGVtUmM3cWhaN2p1VHhNNmo1SS1ReHZSa1hjSUNEZ3FfVV8xU3dfdUNDRVRXQVgzWDhjTUFPTXJnUmhIOEZnRDdYQTc1bjNxdDRiYl9lUU9FdmZoa1ZYekRXTkxGakpTQ1dWSEthVDhSSmtYaw?oc=5",
-        "headline": "Spooked investors demand clarity on Fed’s anti-inflation strategy",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "07/31 15:35",
-        "published_ts": 1785479725.0,
-        "tag": "Fed",
-        "first_seen": 1785488437.7867422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95VnR6MTVZa0JQS0VBaE83XzJZbFp2Z2VCRmxlRExEb1poYVFVU1RERm9ka0NnR2h1cTMwVHdWZzdnaFlXVnRkaGRLeDB3bWROMktlNndTbkJBb290cFQzaFd2Z3FmdzdRVVlYd0lRQjA?oc=5",
-        "headline": "일본은행, 기준금리 1% 유지…지난달 인상 후 첫 동결",
-        "summary": "",
-        "source": "팩트인뉴스",
-        "published": "07/31 15:16",
-        "published_ts": 1785478607.0,
-        "tag": "JGB",
-        "first_seen": 1785501924.5220056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0NEdxQVJPR0RWdkJrb21mTU9qN2o2TmJfaVBhaTJXYTJyQlpzd1dPWG5UamgzU01xU2llbEdPQm55MUJDMjE5eHM3U3pQUTJsbUdTVWVGWlk3Q3VMcXplaEd0aHAtQnFQT2c?oc=5",
-        "headline": "Why the bond market is doubting Fed chairman Kevin Warsh",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/31 14:47",
-        "published_ts": 1785476830.0,
-        "tag": "Fed",
-        "first_seen": 1785506437.7263565
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 02:30:52",
+  "updated_at": "2026-08-01 02:45:56",
   "yields": [
     {
       "label": "3년",
