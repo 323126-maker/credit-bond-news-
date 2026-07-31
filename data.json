@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1NEVkFiYmQ1TUdyaGhvSkRfY2FnOHlJRlpSQ2t0Tzh4c1I5N3lsQzd6YnI2TEdsMnk4UmZ2ZmNXUDhmN1pTVjVNb2Y3Z1NaY1FaaHRqTU1HMnp4dkIzZWdoUExCc25NQUl0MnRITkN5c19FeUxyOXU1VlB4bWpXM2EzZ2M1R1kxYUxyc05JSQ?oc=5",
+        "headline": "Warsh considering reducing number of Fed meetings, NYT reports",
+        "summary": "",
+        "source": "Fortune",
+        "published": "08/01 07:21",
+        "published_ts": 1785536460.0,
+        "tag": "Fed",
+        "first_seen": 1785537146.5128045
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNlhxNnpHYVlJOUYzZXdZQXZGVDFFSGNYUmplZmFmVTNWUVFhVTU2aGphd0dJODdvR0NYdW03Ym1HbFRST3FxaG1KTUhNXzRDYW5QcXZHN3lKdnlsZ0VvRDlKaTVma0RFMV9KeGNGU0dNZDRZSnQyZ3B5TGoxcUJkZmF4bG41d29IZHNNXw?oc=5",
+        "headline": "Warsh Weighs Fewer Fed Meetings, Report Says. Investors Could Get Less Guidance.",
+        "summary": "",
+        "source": "Barron's",
+        "published": "08/01 07:18",
+        "published_ts": 1785536280.0,
+        "tag": "Fed",
+        "first_seen": 1785537146.5128045
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBCSFg3LUF1RDVSN1B5VFRhRVlycWJSTWFaZmpWdUE5bXlsT0JodTBwY2dwdmR2MVRrRDBoM3R0UWtrREhCZXlSRE4wVkdRMUZHYTNmcEQ4TUE?oc=5",
         "headline": "[뉴욕 금·채권·달러] 엔화 개입 경계에 달러인덱스 하락…미 국채금리 급등에 금값 4041달러",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785492238.0,
         "tag": "Global",
         "first_seen": 1785493828.9860232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWxFLVBKa3M3d3lwQXhsbGZXRS1mb0IzZnRBOFJMaHJFRFlyRXNqT1E1NjhrZVJQYnhvMHFYOTlHTlliMTEteGpiSmMzQWdTdk9DNjVPMnUzZkEzZnFPMXhnZGZTaTgxX2tzWFZ5cTFOamZ1MzZObHgwMXVweXI5azhNa0Q3NHZDUG1FV1hxZFJKWk93?oc=5",
-        "headline": "Market Minute: The Warsh effect and U.S. financial conditions",
-        "summary": "",
-        "source": "The Real Economy Blog",
-        "published": "07/31 19:00",
-        "published_ts": 1785492027.0,
-        "tag": "Fed",
-        "first_seen": 1785500134.9912002
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fYkhhUWt2YmpvQW4tMlpGakVSdllPMlNQQjhDZ3QyS0RQRW9Nd3l5dzJ0b1JjbHFCMjlVSFdQUTJVSDJyN3I0ajYzNWI1bkw4bDdJQW9hai0yZW1JcEtUMjVLRWxwVkZJd0dRZXc3dFo?oc=5",
-        "headline": "[채권-마감] 금리 급락…내달 국고채 발행계획·WGBI·환율에 환호",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "07/31 18:54",
-        "published_ts": 1785491661.0,
-        "tag": "JGB",
-        "first_seen": 1785523524.852067
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 07:15:49",
+  "updated_at": "2026-08-01 07:32:50",
   "yields": [
     {
       "label": "3년",
