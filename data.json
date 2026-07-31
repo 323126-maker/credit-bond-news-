@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dXkwZWw2QWZ6VnUwRHdLWkE5SUxaQW4ybFZFZTJhdEFBN2pHVDJ3NDQ5RE9KRnFVcTZYU2xFSTdrem4yRU5CTG1pU2phbkk?oc=5",
+        "headline": "[채권마감] 10년-3년 금리차 50bp 돌파 ‘4년4개월만 최대’",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/31 17:07",
+        "published_ts": 1785485229.0,
+        "tag": null,
+        "first_seen": 1785485722.4072773
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Eb0RQTHcxbmRnN2ZhQnUwZWFrTS1kY2pHcV96RU9XQmJsbnhLeW9xLU4wWndrc2paMmY3V1pOam9DTWgzQ3pqLUJ3T0d2bkoyelhHZThubVdzQU5YTXpRdTEwbWNvcXpPbjd4S01fUC1XQQ?oc=5",
+        "headline": "[채권-마감] 금리 급락…내달 국고채 발행계획·WGBI·환율에 환호",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/31 16:54",
+        "published_ts": 1785484460.0,
+        "tag": null,
+        "first_seen": 1785485722.4072773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EaVp2VUpWcXltRGZVWkNMTVg5LVFSZHgyTEIxVmFZcnZvUDhfcGl2V3lubUdlRkk3TXhpTmt2VkNrWFBGNncxcFFNWm84SWNfVnI1Zg?oc=5",
         "headline": "회사채 2000억원 모집에 1조3850억원 ‘흥행’",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785382929.0,
         "tag": null,
         "first_seen": 1785413721.6654377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xV3dTejFjd2NlREdGUHNKRWl2TFF0WG5CLVRFNXI4REVsNE9zc2RWZGVueF9vLXBWTzhBcm1wb01qMlpjeTQ3bkdRTXJ0VnNOdmNmcGdFUWxfdHVrWTBEdQ?oc=5",
-        "headline": "한은 \"녹색채권, 시장 비중 1.8% 불과…투자 요인 높여야\"",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "07/30 12:18",
-        "published_ts": 1785381504.0,
-        "tag": null,
-        "first_seen": 1785382229.546941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2dnJ6b1F5N0xwVW02Zm1Nb0xOeHZLbDRGdnczbl9LX0tqLWpDOUp5UlI0NmlLY1hGSXpuclVHQkdZMFZYZlIwclJKVEtRRVFQaXc?oc=5",
-        "headline": "기업 10곳 중 3곳만 \"주식시장, 경영활동에 긍정적 영향\"",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "07/30 12:00",
-        "published_ts": 1785380419.0,
-        "tag": null,
-        "first_seen": 1785384925.381244
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVlZQWGNoSFNIclRCcDgyRXdjSUVkejhEN1ZuYjkyMjNvTnRsMFUxcjl4UlVKdF9RT0kxSnhhc04za3BJSmszR0hQZnpMNmxvbDRiZUZycmY2SlU?oc=5",
+        "headline": "국고채, 美 금리 하락·외인 매수 속 강세…3년물 연 3.758%(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "07/31 17:03",
+        "published_ts": 1785484997.0,
+        "tag": null,
+        "first_seen": 1785485722.4072773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50MkhSa2pud3U4dTJjOHhUOXpUY2RDeXllT002WFpuOFhxVWhidGExZ0o1RDd6OGtueWlZSjVoZWtHczJoYVR6R1BvQVZpSGVCdnlWT2Zna3RJVkNzSnJ3TTZLWTBpTGhaeVE?oc=5",
         "headline": "FOMC, '매파' 기조 강화…한은, 연내 추가 금리 인상하나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785103200.0,
         "tag": null,
         "first_seen": 1785104125.3435338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFMFV6MjctWWhVY3dnYkdzREFiZlgzaHhaXzI2WFhMOGRxeXFzbWVGQ1Ftd2VNUXVjSy13ZXlidWpnSEg1T1llUWFJTkxOS2M2dkZKU3ljQU9KZ0dVOE82ZFgwT01JTXhmYl9iTlpqZzdxbzR1aUHSAWZBVV95cUxNbkZ1RlBGczZfR2NaVkh0b0lkME8tRlljVDNFRTBmOFhFMmRuS1pPbi0teEdtYk1CZzluSm4xWDZpZGIwOHpPZUNLM1Z6N3A5WW1XT2JSQWFoa1hvRGpweEI3c011WGc?oc=5",
-        "headline": "고금리에… 금융사 순익 13조 최대, 가계 연체율은 10년새 최악",
-        "summary": "",
-        "source": "동아일보",
-        "published": "07/27 00:30",
-        "published_ts": 1785079800.0,
-        "tag": null,
-        "first_seen": 1785080768.3312302
       }
     ],
     "politics": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8tbUd2MVo0N0lCUUZvOUNCTFRlX05PTVBnU24xMDFyRVdTZzB4WUlqTldhQVB2MmN3bjJ2NThQVWQ0MUU5TG5HQlJRREFZbFF0WDFoTUJuQWNEUGpzSXAwTlhUUGg0NFl10gFuQVVfeXFMTTNQdFV2Y296ZlNXTEY2TGxjcC1NRkZrQ3ZWSVhiSTFrQVdlQ3Vzajh4N0tTdE8tcmRNYW4yUEZLcERJOGc3RGlwWGJHN2w5dERnRTRsSllVQkNJT2NWd3ZBWW4xTmtfbzFZTlFiYlE?oc=5",
+        "headline": "일본은행 총재 \"9월 회의 이후부터 추가 금리인상 본격 논의\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "07/31 17:10",
+        "published_ts": 1785485438.0,
+        "tag": "JGB",
+        "first_seen": 1785485722.4072773
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVlZQWGNoSFNIclRCcDgyRXdjSUVkejhEN1ZuYjkyMjNvTnRsMFUxcjl4UlVKdF9RT0kxSnhhc04za3BJSmszR0hQZnpMNmxvbDRiZUZycmY2SlU?oc=5",
+        "headline": "국고채, 美 금리 하락·외인 매수 속 강세…3년물 연 3.758%(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "07/31 17:03",
+        "published_ts": 1785484997.0,
+        "tag": "JGB",
+        "first_seen": 1785485722.4072773
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Eb0RQTHcxbmRnN2ZhQnUwZWFrTS1kY2pHcV96RU9XQmJsbnhLeW9xLU4wWndrc2paMmY3V1pOam9DTWgzQ3pqLUJ3T0d2bkoyelhHZThubVdzQU5YTXpRdTEwbWNvcXpPbjd4S01fUC1XQQ?oc=5",
+        "headline": "[채권-마감] 금리 급락…내달 국고채 발행계획·WGBI·환율에 환호",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/31 16:54",
+        "published_ts": 1785484460.0,
+        "tag": "JGB",
+        "first_seen": 1785485722.4072773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51ZXUtNVk2c0dNazhuVi10VDNBbjM4Njk2WGRKVThnNjF3MG5ySVFXMlZzUTZocmtMQ1Z6c0d3aFNNYk9uLWJZcGdyd2EzQmM?oc=5",
         "headline": "일본은행, 금리 1% 동결…엔저 못 잡고 추가 인상 딜레마",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785454309.0,
         "tag": "Fed",
         "first_seen": 1785458724.2901533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOcXlqT01iMmZ4dzBWTl9DRWNIQXc4SzNCTEFvWXQ5ZURXSjdHOHE0TGlXeGc4aDJxckJzQmVzY0hFY2dtNDdNRVh2OWpuTTllZ05fcmEtdWZrejJ6TnJBMkk3RzFRMGxydl84RzlkRlZGaVJ4RUNINzlXc3FBTkZrbk51dWdqQQ?oc=5",
-        "headline": "Japanese Yen Rockets Against US Dollar Amid Suspected Tokyo Market Intervention",
-        "summary": "",
-        "source": "International Business Times UK",
-        "published": "07/31 08:19",
-        "published_ts": 1785453540.0,
-        "tag": "Strategist",
-        "first_seen": 1785475832.379356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTUVQQVdQZkhPU2c0WmR2ZS1fWHFQeVJJYV9fMVU5OFdCOHUwSTR2S25xazR4alUzVE9wYUs4VmxJMlU4bFozVTlvRC1mUVBpQzN1MGtXZUdZd21vVkkzQ0FjMGxKdkhtYXVIbnVkZEV5SWt6SEhpOXNKYzVXSVBRTg?oc=5",
-        "headline": "日, 40년 만의 엔저에 개입 정황…BOJ 결정 임박",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/31 08:10",
-        "published_ts": 1785453032.0,
-        "tag": "JGB",
-        "first_seen": 1785453330.3531928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80NTB6RkJNN0ZSR0MzQ3J4VzI1U1MwZGYwVE5SSGFENkpVYXdDX041ekhEX3pTSGVmQzNKLThOQzhwQnFtZXFrc0c3Y21PT3FNMnVKOGx6MkdTUGJWcU9KbWdtR3FlWjZBNVVFcTg0UkNSQQ?oc=5",
-        "headline": "[노현우의 채권분석] '내 델타 너무 큰가' 걱정 들던 찰나",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/31 07:53",
-        "published_ts": 1785451983.0,
-        "tag": "JGB",
-        "first_seen": 1785455120.7903006
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 17:00:58",
+  "updated_at": "2026-07-31 17:15:44",
   "yields": [
     {
       "label": "3년",
