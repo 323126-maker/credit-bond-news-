@@ -1620,6 +1620,16 @@
         "first_seen": 1785516367.6109867
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPX3p0Q1Q4Q0FINjZxX19vd2JlVm93RUl1ZzBvNm5HeEVabjRrOU00M1c5V2hrNE41cFQ0U1NnRjJJcE11bEstSE1zeldocE9FVzczM1JfQ2oxNHUzdWJhT3IwTEtkcXFlM2NzS0NGU01PWVplUGVNS1lZSUJubkt0dGZWb0NIMUlqd2VrTG04RHpUTmtlcXVOTWt0TGJGbUxRNlpia2lCc3BDbHFvUFRrWUxkSDh3Z0l1R21XZGhBYkdjbnh0V1hWZ2k4X0Fydw?oc=5",
+        "headline": "What does the steepening of the US Treasury yield curve mean for Federal Reserve policy?",
+        "summary": "",
+        "source": "Economies.com",
+        "published": "08/01 01:27",
+        "published_ts": 1785515220.0,
+        "tag": "Fed",
+        "first_seen": 1785517244.3203137
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZW1IMm5pUXR6bTdxbDVGNnotTlQ5aVZwY3hHM0pISDd6WDZEME9SMG5JcTZCRjRBMF93aThUeTlLMk9rTUdScWFBczNVN0EwSjltRGNhOEFkXzh3NGY4eERaVjJNZ2NXTWdqaG9yaTcwVG9FQ21YQXhCeXU4Zzdra3RMV0JfU1Uzb0E?oc=5",
         "headline": "Healey sets budget for late October, promising to ‘spread money and power’ around UK",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785475624.0,
         "tag": "JGB",
         "first_seen": 1785476768.8727994
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ULXI4STNuX3k4UXhPYXhxUE45T0JjZHo4cW1UbDZCMlUxNjR3OGtGRHFNYlJ0YmZyUmRibFdjdGJxTy1RbHpGSVZlSWlqV3dzUjVJ?oc=5",
-        "headline": "엔달러환율 급락…당국 개입 관측 [글로벌 머니플로우]",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/31 14:10",
-        "published_ts": 1785474600.0,
-        "tag": "Strategist",
-        "first_seen": 1785475832.379356
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 01:46:32",
+  "updated_at": "2026-08-01 02:01:08",
   "yields": [
     {
       "label": "3년",
