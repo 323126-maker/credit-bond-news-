@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXJ4a0VaTndxYUFmSFV3MDhKUlhNZzItZEFKY1QwOVhJMC1yMVZ0aU10ZGh1TW9kNFFkN2FIbDFZbkQxaXZsc29hRUx0SzNxam5wRnpTNElaYWxOeXBsbU56dnQxTEM5eFktb3RyVG9FaHVmdHpMQ29EdzZLUUNGeS1LVnFWQUU1NTFNMjUxeTk1eEhTdDU0cVFUdlVuMTZJa2t0dVJB?oc=5",
+        "headline": "Fed Chair Kevin Warsh mulls fewer interest-rate meetings: report",
+        "summary": "",
+        "source": "New York Post",
+        "published": "08/01 05:52",
+        "published_ts": 1785531120.0,
+        "tag": "Fed",
+        "first_seen": 1785531634.3079321
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTUxrbjBLc2d0NEF6REFjVXJvendUakU4cDdBX0pvTlpPUGhSZ20yTFEwM2xWd1NFTzAtQ0Y4bUpQVDRzUzhvelM0SUR3Z21vTTZvSkJVN3N4bVVrcDl2UHNUSlhTUlJWQmdMMVZvVWstdHgwcjZoYnV1YVJuOTZxeVJ4alhxZw?oc=5",
+        "headline": "Warsh Considers Reducing Frequency of Fed Policy Meetings",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/01 05:30",
+        "published_ts": 1785529827.0,
+        "tag": "Fed",
+        "first_seen": 1785531634.3079321
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFd4MjJlY3ZBbmtITThJSG1TMFd4SjBXZ1MyLTVtVVRUMDYxaVEyNHhpMDRkZTZaaW9EekNQb18ydWVlSDRjSXB6M1A1amVpZ2tsQ1M0Qk9wWWdQTFY3NFVCRFpVdjRsWGZYZDRWY0ZfZ0JzNjJmeU1INDA3bF90d1pFUGtwQknSAYwBQVVfeXFMUGswaXg3a0FsZ215TXpjVGFva0Q4STVQRnJYX1JYMHFJam5EY0pwekd1RkI0eGhoVTJ3UXNLS2tjNWJxYVhoWlUtTGd6NDRweWt0ZUJ0V0QwTTJCRWlDSEVKZGxKbnVpWnVoWENPWl8tOFc4SmJVUUhDUmhiREZjYnlpU2cyMlNLWU81c0I?oc=5",
         "headline": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785487744.0,
         "tag": "JGB",
         "first_seen": 1785494722.3594935
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGpad280UlpndVlrRlVZTHZKX1FpeVU4NjNVRFpjdkZoX252NlQydEJINjZELXh2Q1VGSGFldHFPRF9vcWM1eEpfTG5mZURwblZyZ0h0N2FIa0hlZmZNcW44VFB0bXY3YzI3aGhCaTVEdW5TcEJHOGg1THZGc0p1MjBjVFVCc1ZDR3hBbzI4bVhtNFIxZGppRW5tekQwUG9FV0tFWnl2OXg?oc=5",
-        "headline": "Why Give the Fed a Mute Button?",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "07/31 17:40",
-        "published_ts": 1785487215.0,
-        "tag": "Fed",
-        "first_seen": 1785492035.5398448
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96WUliQ2xBR2RpSTBKSG5VZWF2cDI5anQzeXNxRVAxcDRfX1Fic1VJMjk3dE9mTmxsa1ozcGp1UnloaVoxSm9DaUZMZVZvSmZGMzBhalhvaFlYRjZOSUZSWDF3ai0?oc=5",
-        "headline": "日銀, 기준금리 1% 동결…추가 인상 가능성 열어둬",
-        "summary": "",
-        "source": "MTN 머니투데이방송",
-        "published": "07/31 17:39",
-        "published_ts": 1785487150.0,
-        "tag": "JGB",
-        "first_seen": 1785498323.6550295
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 05:49:56",
+  "updated_at": "2026-08-01 06:00:59",
   "yields": [
     {
       "label": "3년",
