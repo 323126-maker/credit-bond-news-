@@ -1650,6 +1650,16 @@
         "first_seen": 1785510929.1557882
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9TcEJvbmQ2b1JnZWttMkJjTURWelVFZEZKU2RqUUVPRXRpN0dDRm1JUm8xYkhHNnBNVk9UOHFkYVQwazlueVp6bkxULXQ5UXJVeTBTal9JQTR0YldBR2RSUVpWNktLTHpnT0RNTXUxR3VNQQ?oc=5",
+        "headline": "美 재무 \"BOJ, 통화 및 금융 안정 향한 강한 신념 보여줬다\" (상보)",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "07/31 23:42",
+        "published_ts": 1785508927.0,
+        "tag": "JGB",
+        "first_seen": 1785514561.2101235
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xOHFGX3MyaGxuUHI0Y1QzQ19fQ2ZmN2Jrd3Q2czMwQ3IzVUw5ZXVVNjBvTVpKbWpUV3hldllHNk5lZ1lsSnRQS0d0VGs5MzhYUVpMVE1nbm5vY3hzMTJQdW5iSFNOZ0JqT0pVaFlNeUJNdXhUTHRfOE1n?oc=5",
         "headline": "Lawler: Update on the GSEs: Agency MBS Holdings Decline, Interest Rate Risk Measures Keep Rising",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1785496801.0,
         "tag": "Global",
         "first_seen": 1785501924.5220056
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMTRoS3N5azNINl9oWHF0ZFdoMnBUNVFNdS1Hc0N1TWpCdjdXUDlQR0NJT1JsNE1Gc3YtZU1KcVFDNDVvRUNfbkF4cTRDVy1SclJQMTNqTzVEX3ZSQUlqaUd5MmZEQTFPczRWNDdDanRJQ2NuVlNhTXA3Q1RyZXBSbWdyMzQ0SUowcXliSXk1OA?oc=5",
+        "headline": "Fed Holds Rates Steady, But Long-Term Treasury Yields Signal Growing Investor Unease",
+        "summary": "",
+        "source": "CryptoRank",
+        "published": "07/31 19:45",
+        "published_ts": 1785494748.0,
+        "tag": "Fed",
+        "first_seen": 1785514561.2101235
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2F1Ym44eTBuUWtjNmNkTG1zdVhzQTZIaG51Z254TVFiZXNUX0FzaGZ6UHNzNlVHTVhvSkR0LUtPeXJwOURwbXlkMlNEN0NmMW53cm1fU3BFeWlSbnhENy1VR3VmcFdqSjF6RGZmTURzZEdIbDFTdW1md0ZuYURrdklSWk9ZZDM2ZUQ2aWRabHhjSmJQa0d4NmNLMzRVSFdPMVNsUS1OWFdqYmIwMS1EZUhWSmc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785474098.0,
         "tag": "JGB",
         "first_seen": 1785475832.379356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5PVVFoc01FT3ZlLU5mS2Y1QnNTU2h4N01zbEF5NldLcWJmOV9JZWdXYTV0S28xSWtZbzFIN0plWXV4eEc2N3hjbGh5UnpXN2VldHFDWDAxSDZUM3VTemc?oc=5",
-        "headline": "[파이낸셜 워치(177)] 일본은행, 기준금리 1% 동결⋯엔화 약세 속 추가 인상 신호는 유지",
-        "summary": "",
-        "source": "포커스온경제",
-        "published": "07/31 13:59",
-        "published_ts": 1785473950.0,
-        "tag": "JGB",
-        "first_seen": 1785474921.1810837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE00dWl5dEhLRHJFV3FQTHc3VGJCcFQ3TTJPRTZvUnVvN3BIT08wWWYtVDA5eDlCWndPd084NkZYY3RUZzRCbk9ZdHVjdUhYbGJnbVI2NXNGRDHSAVhBVV95cUxNNHVpeXRIS0RyRVdxUEx3N1RiQnBUN00yT0U2b1J1bzdwSE9PMFlmLVQwOXg5Qlp3T3dPODZGWGN0VGc0Qm5PWXR1Y3VIWGxiZ21SNjVzRkQx?oc=5",
-        "headline": "日, 시장 허 찌른 기습 환시 개입…엔화 가치 50분 만에 5엔 급등",
-        "summary": "",
-        "source": "아주경제",
-        "published": "07/31 13:55",
-        "published_ts": 1785473726.0,
-        "tag": "JGB",
-        "first_seen": 1785477635.5264406
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 01:00:57",
+  "updated_at": "2026-08-01 01:16:29",
   "yields": [
     {
       "label": "3년",
