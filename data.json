@@ -232,6 +232,16 @@
         "first_seen": 1785413721.6654377
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcEFtRS0zdkd1cl9ZODJfYWp3MTBpTmZ1aEduUWM4MFEtNkF5bjRpVDZjeVhmZmVjRUdmS3JXOTNJcjNFVS1pSXZTZGs4ZUxkbXFCUWhfcnU3YVBzdFptaEhGLVd2UFhMSDE2VmlleklvZTlEemxwdzRyOERlYVRNdEhMcE9rSEFTQVUtcTdlNzNrNUk0TGRSdVNuY0RaM1hCdUE?oc=5",
+        "headline": "일본 정부의 회사채시장 활성화 방안의 주요 내용",
+        "summary": "",
+        "source": "KDI 경제교육",
+        "published": "07/30 20:54",
+        "published_ts": 1785412486.0,
+        "tag": null,
+        "first_seen": 1785495634.132946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OVVpLTGprSWozajRTeURNYm90WDA0cmg3ZUlrbWxOWGZDSzQxeFVtQmQ1Z01TSlUyb0pBdk0wWmlsUDVrZFg5c2lDUnF2cGtwTVJv?oc=5",
         "headline": "AI 빅테크 채권 폭증, 경기 둔화 도화선 되나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785394838.0,
         "tag": null,
         "first_seen": 1785398341.3830397
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTEtfei1sRFNUQjZzaXpCSjJIMWFWTTNBaXVSWnhNU3prRnB1czBzT183NlBVSHg5SDlzTkdwc0gxZk8ycDR1OVFvZzhGZEFzQ2Y0bTQ4OFBwRG1VeHdndnFWWjY2bjFLbmFnb1JLQ3A?oc=5",
-        "headline": "피치 \"AI發 시장 조정, 심각한 크레디트 위험 요소\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/30 15:41",
-        "published_ts": 1785393696.0,
-        "tag": null,
-        "first_seen": 1785394835.969763
       }
     ],
     "perpetual": [
@@ -1920,6 +1920,16 @@
         "first_seen": 1785468630.050588
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0NEdxQVJPR0RWdkJrb21mTU9qN2o2TmJfaVBhaTJXYTJyQlpzd1dPWG5UamgzU01xU2llbEdPQm55MUJDMjE5eHM3U3pQUTJsbUdTVWVGWlk3Q3VMcXplaEd0aHAtQnFQT2c?oc=5",
+        "headline": "Why the bond market is doubting Fed chairman Kevin Warsh",
+        "summary": "",
+        "source": "Axios",
+        "published": "07/31 11:46",
+        "published_ts": 1785465984.0,
+        "tag": "Fed",
+        "first_seen": 1785495634.132946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1hZRHNWR2drR3JKUlRiZ2s1SjJxV08zOGFVZjRianRXV1ZBWXItc05PckhLWnVWNWhVZHRleE5WanBkOG15d3VIQ19WZE16cWIteHUwcFlzQVp6TmVOc2lmV2o5THpfd3U5TUxkTkhocWl3cVlrMDhvRDliZDl1cUhJb3Z1Y3RROTdVSFd3?oc=5",
         "headline": "Carnage In Hyperscaler Credit: Really? - RIA",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785462229.0,
         "tag": "Strategist",
         "first_seen": 1785463239.1125238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9OblowLTBiNi1sbFUxT09CN29zOWdpNWsyRGhkdzN6WTRrMUYwSm1NS000d3dQZGV3OHI5TXZDaFNGNHhfZU55My14NWlnT1lTLWZmOFEwaWRKSU1sbHkwbzZzWlBvNU9MWmRabG8ta1cwN2M?oc=5",
-        "headline": "[포커스] 미·일 당국 외환시장 개입…엔화 1시간새 3%대 요동",
-        "summary": "",
-        "source": "오늘경제",
-        "published": "07/31 10:22",
-        "published_ts": 1785460962.0,
-        "tag": "JGB",
-        "first_seen": 1785462320.7767513
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 19:45:46",
+  "updated_at": "2026-07-31 20:00:58",
   "yields": [
     {
       "label": "3년",
@@ -2440,33 +2440,6 @@
         3.8,
         3.831,
         3.758
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 4.015,
-      "chg_bp": -6.3,
-      "series": [
-        3.98,
-        3.991,
-        3.999,
-        3.999,
-        4.016,
-        4.008,
-        4.041,
-        4.128,
-        4.112,
-        4.099,
-        4.154,
-        4.12,
-        4.172,
-        4.164,
-        4.214,
-        4.117,
-        4.068,
-        4.037,
-        4.078,
-        4.015
       ]
     },
     {
