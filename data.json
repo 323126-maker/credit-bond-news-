@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQZW1IMm5pUXR6bTdxbDVGNnotTlQ5aVZwY3hHM0pISDd6WDZEME9SMG5JcTZCRjRBMF93aThUeTlLMk9rTUdScWFBczNVN0EwSjltRGNhOEFkXzh3NGY4eERaVjJNZ2NXTWdqaG9yaTcwVG9FQ21YQXhCeXU4Zzdra3RMV0JfU1Uzb0E?oc=5",
+        "headline": "Healey sets budget for late October, promising to ‘spread money and power’ around UK",
+        "summary": "",
+        "source": "AOL.co.uk",
+        "published": "08/01 00:52",
+        "published_ts": 1785513164.0,
+        "tag": "Strategist",
+        "first_seen": 1785513636.0623949
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE02YnFTQW9JcGdXLS1WY1JmVzBsU29xVjg1T1plY0NobWI5ekROYXZFNThuRDBQNl9YYXNMU2xDcy0yN3FjeUJuUmRqWUFlRDFUdC1PZnR5Q19hbWpzTkhPT3dnS01INTRXRGg5aThSa0xzZVRpOThxeGlPbFRvQQ?oc=5",
         "headline": "Treasuries Get Whacked by Japan’s Big Yen Fix. Bonds Don’t Need More Trouble.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785473726.0,
         "tag": "JGB",
         "first_seen": 1785477635.5264406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9GR2NTZ0VDMTk0MklVM2hUNXpVYlY3T0ZvMU1JLUcyUmVmY0FUYmVSdlo1THp6Mm9Scjdlb0xWNU1VYWZtVmMtZ01TREc5Q2t6X1dGWEFtWGl3RDhBZ2c?oc=5",
-        "headline": "일본은행, 기준금리 1% 동결...올해 경제성장률 0.6%로 상향",
-        "summary": "",
-        "source": "YTN",
-        "published": "07/31 13:48",
-        "published_ts": 1785473280.0,
-        "tag": "JGB",
-        "first_seen": 1785475832.379356
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 00:45:45",
+  "updated_at": "2026-08-01 01:00:57",
   "yields": [
     {
       "label": "3년",
