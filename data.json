@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50MkhSa2pud3U4dTJjOHhUOXpUY2RDeXllT002WFpuOFhxVWhidGExZ0o1RDd6OGtueWlZSjVoZWtHczJoYVR6R1BvQVZpSGVCdnlWT2Zna3RJVkNzSnJ3TTZLWTBpTGhaeVE?oc=5",
+        "headline": "FOMC, '매파' 기조 강화…한은, 연내 추가 금리 인상하나",
+        "summary": "",
+        "source": "컨슈머타임스",
+        "published": "07/31 08:45",
+        "published_ts": 1785455107.0,
+        "tag": null,
+        "first_seen": 1785456041.617991
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VcDA0LVlaUHR3akMyNHJkREgwcjdIV3psVi14QjRrZWVINm5tdzU0blZHY1VURUVIdGVOdmFuMjJ6emhua2U1TkFCa2hHTjgxckV3MWpJd2ZVRFNTREM1bXdJLXVFOC1TcUdDTzBVeUhGUQ?oc=5",
         "headline": "[채권금리 POLL] 8월 백투백·예산안 경계…\"하방압력 제한\"",
         "summary": "",
@@ -864,6 +874,16 @@
         "published_ts": 1785382254.0,
         "tag": null,
         "first_seen": 1785391234.9369988
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HT1hCSXExYzZ1UzNlemJyenY1cWg4a3NVWmtDd2VOTTl6VktUSkNsSFJKdHFCNzN3VS04QnhtXzJjR21YOUxkbFZzcw?oc=5",
+        "headline": "한은 \"우리나라 녹색채권 발행, 주요국 평균 상당폭 하회\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/30 12:03",
+        "published_ts": 1785380583.0,
+        "tag": null,
+        "first_seen": 1785456041.617991
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NdEZYWW5Hdm5saTl4SVdHNkFGYlpYMkRSakpxSjYzeFBCWXF4RWlDc3ZKTzA4TllIUjc4d0FCcFVXa0hhSHYwVDYycU1hRnZGRlh3?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1785056963.0,
         "tag": null,
         "first_seen": 1785078107.3896804
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jN3JZeWp6MlRuY0h3U1ZiV3d1UFcyTlJBTEJSRFhtbU01THoxb3hjSXBMUC10ZmdXNV91Z2NvM3VZamtnZW5JNXdNVFdlT29q?oc=5",
-        "headline": "환율·채권시장, 유가·FOMC 촉각…원·달러 1400원대 중후반 전망",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "07/26 17:35",
-        "published_ts": 1785054911.0,
-        "tag": null,
-        "first_seen": 1785055525.0145352
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uOE85cmJoUy1qdThIQUJQUGxmRUt5WmtfWFRTckNoSE84X1NTUXFMVGJWR1NmaXRESk1xck9yUTVuQ1J3RkhnN3VKVDQ3Zk5NVFo3clh0TXJ4QQ?oc=5",
-        "headline": "환율·채권, 원·달러 1400원대 중후반 유지할듯",
-        "summary": "",
-        "source": "한국경제",
-        "published": "07/26 17:10",
-        "published_ts": 1785053420.0,
-        "tag": null,
-        "first_seen": 1785111326.8727047
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 08:46:56",
+  "updated_at": "2026-07-31 09:01:05",
   "yields": [
     {
       "label": "3년",
