@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EaVp2VUpWcXltRGZVWkNMTVg5LVFSZHgyTEIxVmFZcnZvUDhfcGl2V3lubUdlRkk3TXhpTmt2VkNrWFBGNncxcFFNWm84SWNfVnI1Zg?oc=5",
+        "headline": "회사채 2000억원 모집에 1조3850억원 ‘흥행’",
+        "summary": "",
+        "source": "매일경제",
+        "published": "07/31 16:14",
+        "published_ts": 1785482081.0,
+        "tag": null,
+        "first_seen": 1785483928.8070805
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdUl6TW43ZTdlT0pQYjJjYVZ3bzY3YS1ILUxEUGpYbUFsOXBVeDh6bG1UbTNqclp1SExLY2p1SkE1YURoTjBmTDY1WUVVdzBpcVY4?oc=5",
         "headline": "'채권시장 큰손' 하이닉스 채권운용역 채용 공고에 시선 집중",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785380409.0,
         "tag": null,
         "first_seen": 1785382229.546941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmMkxCWDN1ZHhZZWd2bjI4YzdOd1I5dW1tOWdaV0lsMnU0QmtMSDhaeGltT1VjN284alR1U2YxelBOUjZRQ2EtaWpHTkJPQQ?oc=5",
-        "headline": "발행액 40조원 넘긴 녹색채권… 시장 저변 여전히 ‘제자리’",
-        "summary": "",
-        "source": "dt.co.kr",
-        "published": "07/30 12:00",
-        "published_ts": 1785380400.0,
-        "tag": null,
-        "first_seen": 1785420036.3739824
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE51ZXUtNVk2c0dNazhuVi10VDNBbjM4Njk2WGRKVThnNjF3MG5ySVFXMlZzUTZocmtMQ1Z6c0d3aFNNYk9uLWJZcGdyd2EzQmM?oc=5",
+        "headline": "일본은행, 금리 1% 동결…엔저 못 잡고 추가 인상 딜레마",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/31 16:25",
+        "published_ts": 1785482700.0,
+        "tag": "JGB",
+        "first_seen": 1785483928.8070805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xUzJTYko3YzRoQS1lblhnbFVOZnN0ZHdBN3o5VHRXUVY5MDNHX1FvTXlYU2IxS1Y4bDhLQmZ1QzZ3MFk1ZjlQc3RGV1E2YXhkNmJtbjdqelBVdFotcmUwMlNnSUstV1d0eXlyQ2R6SEh1QQ?oc=5",
+        "headline": "[도쿄증시-마감] 닛케이 4%대 상승…BOJ 회견 주목",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "07/31 15:43",
+        "published_ts": 1785480232.0,
+        "tag": "JGB",
+        "first_seen": 1785483928.8070805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWlJjc1FnVXJFSUNKc09SVktQVlZJQXpQTWk1YzczZWNVYzJicjN1dzJBMmUxUEhDQUFiQlVydUxyOFgtWjFFWUJiZzl3STdka1RxeUlHeC0wdjZCVUowOUNEV3ExaTNhNzVQRGtFam5DR1lLWVlLQUt6dk1iVm0zR1VVLWNrdFhlblhkU0psc19ZbEZGZDJGdC11ekxZS0NJdDM2RE9HYVNFd9IBrwFBVV95cUxNOEZlTVJUZ3h1bUloUGVDSUNhb3dOMGJUOTVOWHFTSVpIQUcxSUpqUHdDdlE3eWxlQzR6ckJNUER6RXgzcmN2dEdieDFlbmJHMzJUNzJWWFc1bktSSVVZdWlBMzZ6Uk04YURTeEVNRDRXMzhORFFPS1BzNEozM2RmSld4R2xtYWd4SmVGWVY3TzJCMUk5Z1FQbnlPNEZXZEtNa2RDTV8wemt4RUZHaXZn?oc=5",
+        "headline": "S&P revises Bangladesh outlook to negative on banking sector, fiscal risks",
+        "summary": "",
+        "source": "tbsnews.net",
+        "published": "07/31 14:44",
+        "published_ts": 1785476686.0,
+        "tag": "Global",
+        "first_seen": 1785483928.8070805
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54RmVRWE9Vb1h6X0UwYlVsUUNRaHBMeFVMVjlSWHR1RmVOZEF2NG5GeW9vbEpDT0VYV0JMZWJweUVkenJqcVhqeUlLTjJpMDFwLXlGSVFEVWlLUGlj?oc=5",
         "headline": "[글로벌 증시 따라잡기] 6월 근원 PCE 전월대비 0.1% 상승…예상치 하회",
         "summary": "",
@@ -1978,39 +2008,19 @@
         "published_ts": 1785449383.0,
         "tag": "Fed",
         "first_seen": 1785451528.2380662
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxPMEpNYjQxWFNQQXN4UjBrdGhLR1hadzVLT000UWl3QTRZWDlWRUExX2E1c3JnTndCSzJWZXhkekRtMm5hb1oyb1o0NTVzM3lwaEJQR2Vjaldudk03Y0lKeUs0YjRzN2JRQldCWlQ2emtDd21JOWZHOWdIQldOU2hsZ0RMNEsxYm43WHlCMzRDbVVhUzc2M25CajQ5S0l6RWoyT3R4V0VTcFZpRFV5MjFGa0NjNnpua3ljcFl1enl3OGhocUl3Ulg2aGdmNWV3ZDd3cy1vTFR2c0VwOXlKNXdBX1gtZ2JBQ3hiMGZzbHR3RzFTWHRtSU52ZUFhQ1FOOHJOcXF1OEZMSDhyekd2b3g4TTRDTDRsV2o5YzNuZlltaEF2ZDg?oc=5",
-        "headline": "매파 연준에도 버틴 비트코인…일본 금리 변수도 넘을까",
-        "summary": "",
-        "source": "데일리안",
-        "published": "07/31 07:01",
-        "published_ts": 1785448860.0,
-        "tag": "JGB",
-        "first_seen": 1785449721.8334584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWDJ3UXJHMlhVM1NmQW9rd0ZOQllENFg5a3FtTTZqYlV2a2FFbUxrNkEzY0NFS0ZzbXhNN0pMbHROWUVuTTB0QjVKbEd6M1NPUXpxRXNpMUl0VmdQRmlsMHFqOWNEWUNNQ0F2YlNoMVhXUXI1LTBhVUp6V25SM3VjejlmVzVoYkp6?oc=5",
-        "headline": "50분 만에 5엔 솟구친 엔화… 日 당국 '기습 개입설'에 157엔대로 급등",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "07/31 06:59",
-        "published_ts": 1785448789.0,
-        "tag": "JGB",
-        "first_seen": 1785449721.8334584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxObHV4SWR2cGhwOUxlZ3ZhWEVvNDlGM01HU2hSSlZPV0ZIc3ZrTFNxb201NWpneWNVZHFBWDhVcjljeWs0RTlScWdaR0JlajZCVWhJQVV4R3pMcEVRMlZUNDllSk1VLWY5U2xTcERKd0VpZ3NKNnZ6SGU4aWpzekJMTFhnUkdYYnJRbVpqMXRwNC1hNmZBVm95WA?oc=5",
-        "headline": "Fed Chair Kevin Warsh Is Stuck Between a Rock and a Hard Place. And It Could Be a Problem for the Market",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "07/31 06:45",
-        "published_ts": 1785447900.0,
-        "tag": "Fed",
-        "first_seen": 1785477635.5264406
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBvYkR2QllzTHYtQ1dTZkJqUWZIdy02QmFaenVZc2JUTWhGTnlCYVUwMWRqeS1aSVlPUEV1dF9VYzZsVVFQWmdVTFo0UFd5UXNlUTEwLWRqcE5PaGpWUjZCNEhYTmMzSk43WGRGNnpoNVlPVk1C?oc=5",
+        "headline": "[오늘의 은행] 신한은행·하나은행·IBK기업은행·새마을금고·BNK경남은행·Sh수협은행",
+        "summary": "",
+        "source": "파이낸셜리뷰",
+        "published": "07/31 16:26",
+        "published_ts": 1785482811.0,
+        "tag": "수협은행",
+        "first_seen": 1785483928.8070805
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4yZkpLY1lIbGJ2Sm9BVng2VTEtTU9SNm1vOGNLQWVSVkl1a3hrZmhRVkkzVkV3ZThIZmkxdGdXMU50Nk5UdTFzRWxDd3l3WFk?oc=5",
         "headline": "[컨콜종합]\"영업익 1조 첫 돌파\"…한화에어로, 방산 수출 날개 달았다",
@@ -2400,27 +2410,16 @@
         "published_ts": 1785290610.0,
         "tag": "신한지주",
         "first_seen": 1785340837.3717136
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB2R3dVVXpmUVROUzBUM3NOaDE4T2w1ZTlrdWotOHFIMWNFWU1IXzhtNndMZG5zODJRQzdYQ2JDVUZIMHg2Y1VvazFudFdiRnZXdjAxOUIxUDg2RlU?oc=5",
-        "headline": "삼성카드, 조달비용 하반기에도 ‘발목’…증권가 잇단 눈높이 하향",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "07/29 10:52",
-        "published_ts": 1785289932.0,
-        "tag": "삼성카드",
-        "first_seen": 1785302121.801265
       }
     ]
   },
-  "updated_at": "2026-07-31 16:38:30",
+  "updated_at": "2026-07-31 16:45:52",
   "yields": [
     {
       "label": "3년",
-      "value": 3.831,
-      "chg_bp": 3.1,
+      "value": 3.758,
+      "chg_bp": -7.3,
       "series": [
-        3.747,
         3.748,
         3.776,
         3.78,
@@ -2439,15 +2438,15 @@
         3.865,
         3.829,
         3.8,
-        3.831
+        3.831,
+        3.758
       ]
     },
     {
       "label": "5년",
-      "value": 4.078,
-      "chg_bp": 4.1,
+      "value": 4.015,
+      "chg_bp": -6.3,
       "series": [
-        3.981,
         3.98,
         3.991,
         3.999,
@@ -2466,15 +2465,15 @@
         4.117,
         4.068,
         4.037,
-        4.078
+        4.078,
+        4.015
       ]
     },
     {
       "label": "10년",
-      "value": 4.311,
-      "chg_bp": 5.4,
+      "value": 4.261,
+      "chg_bp": -5.0,
       "series": [
-        4.183,
         4.197,
         4.203,
         4.213,
@@ -2493,15 +2492,15 @@
         4.333,
         4.289,
         4.257,
-        4.311
+        4.311,
+        4.261
       ]
     },
     {
       "label": "20년",
-      "value": 4.506,
-      "chg_bp": 2.1,
+      "value": 4.463,
+      "chg_bp": -4.3,
       "series": [
-        4.336,
         4.344,
         4.375,
         4.396,
@@ -2520,15 +2519,15 @@
         4.561,
         4.531,
         4.485,
-        4.506
+        4.506,
+        4.463
       ]
     },
     {
       "label": "30년",
-      "value": 4.537,
-      "chg_bp": 2.2,
+      "value": 4.507,
+      "chg_bp": -3.0,
       "series": [
-        4.382,
         4.368,
         4.4,
         4.425,
@@ -2547,7 +2546,8 @@
         4.567,
         4.543,
         4.515,
-        4.537
+        4.537,
+        4.507
       ]
     }
   ]
