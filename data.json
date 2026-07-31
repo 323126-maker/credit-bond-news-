@@ -1660,6 +1660,16 @@
         "first_seen": 1785488437.7867422
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MMkZHVDZ4Y2NsTWo4LWV5U3h0OHRyTEZGWndJSzI3a2NyX01CXzlhY0l4cmZiNnROeVFraE9iMVN3dTRRYk82dUlHd2NBd3RfQ1RNN0NVYVQ3ek9aTjMxN21HVDFIRTFxR1JNUWJNQmFTVGRrS0M5TNIBeEFVX3lxTE9MMkZHVDZ4Y2NsTWo4LWV5U3h0OHRyTEZGWndJSzI3a2NyX01CXzlhY0l4cmZiNnROeVFraE9iMVN3dTRRYk82dUlHd2NBd3RfQ1RNN0NVYVQ3ek9aTjMxN21HVDFIRTFxR1JNUWJNQmFTVGRrS0M5TA?oc=5",
+        "headline": "일본은행 총재 \"물가 위험 커지면 단계적으로 금리 인상\"(종합)",
+        "summary": "",
+        "source": "newsis.com",
+        "published": "07/31 17:49",
+        "published_ts": 1785487744.0,
+        "tag": "JGB",
+        "first_seen": 1785494722.3594935
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORGpad280UlpndVlrRlVZTHZKX1FpeVU4NjNVRFpjdkZoX252NlQydEJINjZELXh2Q1VGSGFldHFPRF9vcWM1eEpfTG5mZURwblZyZ0h0N2FIa0hlZmZNcW44VFB0bXY3YzI3aGhCaTVEdW5TcEJHOGg1THZGc0p1MjBjVFVCc1ZDR3hBbzI4bVhtNFIxZGppRW5tekQwUG9FV0tFWnl2OXg?oc=5",
         "headline": "Why Give the Fed a Mute Button?",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/31 10:22",
         "published_ts": 1785460962.0,
         "tag": "JGB",
-        "first_seen": 1785462320.7767513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9HWWUta2UzYzMtZ3hveWhreE1sSGR4SG9zdjRGZ3pybW1lbXN1bnNmOXRKOFJER1NaOGdJZ1lTSWZFYXB3RVJaeW9MYWNpbEliazh0V2NZcW5qRnYyY05BQzFGa1dfNlA5YmdtWkJiaFp4MHoxbHc?oc=5",
-        "headline": "Treasury Yields Diverge After Fed Holds Steady; Long-End Rates Climb While Short-End Finds Support",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "07/31 10:06",
-        "published_ts": 1785459960.0,
-        "tag": "Fed",
         "first_seen": 1785462320.7767513
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 19:30:53",
+  "updated_at": "2026-07-31 19:45:46",
   "yields": [
     {
       "label": "3년",
