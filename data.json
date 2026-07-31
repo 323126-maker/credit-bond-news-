@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRXJ5YXBWTFgzRHN1dnJmMjdFNnBkYXItWE8tRUdhZndicVEwaDVIdE9qWVU1SjliN1hWdXJUME01MTlYN3NGVFctanYyZG1xaU44a19zS0FBTjZhN2VOYW14RjJjTDBoWkZKNjRlVE5VbEhfSHFWdUZpUVc4MVZ6OU5KcGwtYlBSbUphRmJ2RjI2eFZFdHMyQWl6aGdvUENOZnhLNmxMdTFFTUI1V2pzejRNd2t3OWFYR1BJ?oc=5",
+        "headline": "Stocks seesaw as Amazon surge countered by Apple slide, bond sell-off",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "07/31 23:59",
+        "published_ts": 1785509940.0,
+        "tag": "Global",
+        "first_seen": 1785510929.1557882
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xOHFGX3MyaGxuUHI0Y1QzQ19fQ2ZmN2Jrd3Q2czMwQ3IzVUw5ZXVVNjBvTVpKbWpUV3hldllHNk5lZ1lsSnRQS0d0VGs5MzhYUVpMVE1nbm5vY3hzMTJQdW5iSFNOZ0JqT0pVaFlNeUJNdXhUTHRfOE1n?oc=5",
         "headline": "Lawler: Update on the GSEs: Agency MBS Holdings Decline, Interest Rate Risk Measures Keep Rising",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785506633.0,
         "tag": "Global",
         "first_seen": 1785507325.2311316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA1aGNKdFRla19jakQ4b1lGMERITnFlTzFmRkIyLVU5ejlzbU1Vb2NnQzlkOERXaUVxSjhZbFQxMWRfcUM5TE04V2NLbS1HLXNRVDFiaVVNeXFqN3Q3ZUFCdW5uckQtNFZ2RENoSHRrWkNFeVlRd0M1MzA5eWl1Zw?oc=5",
+        "headline": "LIVE: Fed Chair Warsh takes the stage to announce key rates decision",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "07/31 22:27",
+        "published_ts": 1785504428.0,
+        "tag": "Fed",
+        "first_seen": 1785510929.1557882
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOXzl6YnVIUzlHRi0xYXF4QmNJQXNDaWYtNFN1X3plSk1YSXpkTnJzX0VCX0htcFloTzFMckI1eXBxeW0tUTJONG5qLUdjNFJucjRJT3JRVWdTZVNnQmJlT0dRU09oV3NZdUV5RllubFk4SHlKVFlFUmY3NnFsWjlfdy1LLXRPZ0swQTctRHhXWEY2TGpENFQ1YUpxMGM0VWpMTEEta3N0ZHdZdGhtcTVWUHVaWjJCRE9JT2ZONDJ6c1BIRFE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785472020.0,
         "tag": "JGB",
         "first_seen": 1785474035.9162505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9hM3hBTFQtaWY2c1RFVEhEeF8ydWNEU0gzRV9sTjd5Y0pUY3JOYTVqQ1o1YUMydmJmY2Nwd19zSnJMcHM4TkJFTmk3ZWlGa25LdHNOZzdjcDk?oc=5",
-        "headline": "[글로벌 증시 따라잡기] AI회의론 걷은 빅테크 실적 반도체 랠리 재개되나?",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "07/31 13:21",
-        "published_ts": 1785471660.0,
-        "tag": "JGB",
-        "first_seen": 1785501924.5220056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakxWbEw4NWpYbkVMVmFCU21YLVh1ejYzVzB0RURybks4X25TTkgyRUl0Q1BGTC1FRV9oNjNnQllUcFVNNmhLZmdZTVdCZ09iMTBrQUlFUkpIX3NCREJQV1I4M2I1NE9UUW5aT05TRlZmUDhZMzhpODNHaVNRUk5SLXBvcjFQbENqVWc5bEJab0xYUQ?oc=5",
-        "headline": "USD/JPY (USDJPY) 7월31일에 급증했습니다. 주요한 이유는 무엇인가요?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "07/31 13:01",
-        "published_ts": 1785470496.0,
-        "tag": "JGB",
-        "first_seen": 1785471321.4064112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 00:01:15",
+  "updated_at": "2026-08-01 00:15:54",
   "yields": [
     {
       "label": "3년",
