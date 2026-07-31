@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FSlZJSDY5N0JGNUpPS0t4ZDJ6RmNETXVmVXNEWTBpeno4RXEyUE9vb1BKdTBlNDRpLVBEVGNBM0VVWF9NTUFoVzFpODFnYzdiWEZn?oc=5",
+        "headline": "워시 한마디에 美 국채시장 '휘청'…연준 신뢰 시험대 올랐다",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/31 11:13",
+        "published_ts": 1785463980.0,
+        "tag": null,
+        "first_seen": 1785465030.8688495
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00eUZlMWVQZDVzcDduVU1jdzF6dF9GOWx4aVN3UjFwYjNDWUNPc2YxeVFTSWY3UXpVQ1NERTJuWko1VEtzbk1LYjlXS2x4cHdrOHQwbkFQLU9wc0VWWGJnT0dxbk5WWDRtUWVzXzlnNHpIQQ?oc=5",
         "headline": "건들락 \"다음 FOMC까지 美 장기금리 5%대 중반으로 오를 것\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785379589.0,
         "tag": null,
         "first_seen": 1785386726.0577972
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBQVXdyXzNaeUJVd0NnSU1kd2lkNTRtTy1YT290bVJpTTdqQkRLbmNDTmdtRXlBVTlkMUkxWWg5bllzVGVYeUFtVDBnWjNIRENNVGtKM01BMXQ?oc=5",
-        "headline": "[시론] 증시 아노미…靑 경제사령탑의 메시지는",
-        "summary": "",
-        "source": "경북신문",
-        "published": "07/30 11:39",
-        "published_ts": 1785379154.0,
-        "tag": null,
-        "first_seen": 1785425635.843016
       }
     ],
     "perpetual": [
@@ -946,6 +946,16 @@
         "first_seen": 1785371435.378658
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5SUVNIcFN2VlJpVWpGUnFJLWYxemlyaExMQW9haUZINERCcVlCX2Z2OFNRZkJ0Y3NCSS1XU2NjSFlJb01Ibjg1WWZyQjliTFR1Njhqdg?oc=5",
+        "headline": "반대 3표속 美 기준금리 동결 … 트럼프와 시장 사이에서 딜레마에 빠진 워시",
+        "summary": "",
+        "source": "매일경제",
+        "published": "07/30 08:25",
+        "published_ts": 1785367509.0,
+        "tag": null,
+        "first_seen": 1785465030.8688495
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxUHp2UUdBZ01nZWNXSFgxclpoSEJIVDJ6MEV5eDVsaXY0eW5ONVd4U05sUkgwR1B1SlBDVEpSRG5zTmluTzlXRXRvdUExQWFLcEJUcDdwWl9WU2hRTzBmbEtNOFByYm9lYUZ0VmM4dmt0UQ?oc=5",
         "headline": "[오늘의 채권분석] 매인 척하는 비둘기였을까…고민 깊어지는 한은",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785079800.0,
         "tag": null,
         "first_seen": 1785080768.3312302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQbFNMcm5Nbmg3TDgwNlhQNTFNUy1ya2hCM1ZMM0VNaUVwRmEtSnR0T0FwT1RVVEt2bFBYeURCcTM4VFA3a3RmVmh4MUpvWW5E?oc=5",
-        "headline": "한 달 만에 22조 '대이동'…주식 떠난 뭉칫돈 몰린 곳이",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "07/26 18:09",
-        "published_ts": 1785056963.0,
-        "tag": null,
-        "first_seen": 1785078107.3896804
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 11:15:46",
+  "updated_at": "2026-07-31 11:30:55",
   "yields": [
     {
       "label": "3년",
