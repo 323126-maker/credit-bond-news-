@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5EX0trb2NFZ2NKRmcwN2RKRmFvY3VHYnJwQ3ZNaEQ4QlVjOUVvWG10U1R2V2w4alJXV2d2NjAyTFpVVFFScXFKSWF4T0M5YXRjOWZ1dUtPbVk3dkdzci1hNXduUEhHY1A4RHg4dmtGaFhsblNVekU0cA?oc=5",
+        "headline": "지난달 올리더니 이번엔 멈췄다…일본은행, 기준금리 1% 유지",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/31 13:36",
+        "published_ts": 1785472560.0,
+        "tag": "JGB",
+        "first_seen": 1785473121.8448312
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQakxWbEw4NWpYbkVMVmFCU21YLVh1ejYzVzB0RURybks4X25TTkgyRUl0Q1BGTC1FRV9oNjNnQllUcFVNNmhLZmdZTVdCZ09iMTBrQUlFUkpIX3NCREJQV1I4M2I1NE9UUW5aT05TRlZmUDhZMzhpODNHaVNRUk5SLXBvcjFQbENqVWc5bEJab0xYUQ?oc=5",
         "headline": "USD/JPY (USDJPY) 7월31일에 급증했습니다. 주요한 이유는 무엇인가요?",
         "summary": "",
@@ -1940,6 +1950,16 @@
         "first_seen": 1785451528.2380662
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUXdSMlpsa05VVUNyNjVfNnI0YVljYmwzcW9scnZPZTN3b3lRSl9VeXZid2ZaS0F4QVEyUmxpUVh2ZTExdUxac2Z1c1Z1MlBTem9qNW8tbFc0djBIMmVDLUxVRy02ZndXZ1BYQmk2TW5seE1IUnNjMzVhOWZzZWFoNEI5S0d5QmJvOXc3MnJENU11c0ducmIxYzhnNS1HTTk5cW5oOVd5ODZpV0dwYUVsZnU4Uzh5Ukw0NjUtbGRR?oc=5",
+        "headline": "BOJ keeps rates steady, delivers hawkish signal as government props up yen",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/31 06:02",
+        "published_ts": 1785445320.0,
+        "tag": "JGB",
+        "first_seen": 1785473121.8448312
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqSVBwQVNZVXRhYXFJMC01Qy1sdTlkUXB4b0V2UnBiVXhJRm52LUx2V1Bia3VrYUlmdTNKWFFKejYyWEJ2ak9aeDdsaWs4SkJuQVBsblhCNUJNQTRwUXRDWURIa0N5UzNIaDB1WDZTS2pjQQ?oc=5",
         "headline": "[뉴욕환시] 달러-엔, 日 개입 추정 속 4엔 급락…DXY '100' 하회",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785438120.0,
         "tag": "Fed",
         "first_seen": 1785443428.644741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYmQwd0RqUS1IT2tsNnpOTXVNV2pHZHJwSXgyUFdsZ3lSV0d4YUpscmtkNzJxWnluSjU0N2hjMUR6MGtBTnFwWnh1RjVKOHNBQjBpUGtXN3F2NVVRZUEwZlBESllHcEp3THBVWkNWVnRPdjRNbXlncmFtNnNKSm5LVXVJWDYzV2RicmE2TFFodVdITkEwSFVBaU9hZ2VDX3ZkNUFkZWIyRzZKVWhEc0Rz?oc=5",
-        "headline": "Here's where Jeffrey Gundlach is investing after the Fed held rates steady",
-        "summary": "",
-        "source": "CNBC",
-        "published": "07/31 03:59",
-        "published_ts": 1785437944.0,
-        "tag": "Strategist",
-        "first_seen": 1785438931.3602726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU2RUSVhQQlBxOTlTbkpfUF9aY0Y4bEUxRF96NXRtWGxqZWRUVFozcEI4eFhvT2RRUXNzSmp1RmZidHNFa2ZlTzFKU09Uclh4OE9YZl9zMDh0LU1Ua0QwUXBKWEZYRVR1WU1sMV9hcmlWQWtSTWdINGxHTkJBNDJmeGFjQlJKTzlJ?oc=5",
-        "headline": "2026 Cumberland Advisors Midyear Outlook",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "07/31 03:45",
-        "published_ts": 1785437100.0,
-        "tag": "Global",
-        "first_seen": 1785438040.1428504
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 13:30:51",
+  "updated_at": "2026-07-31 13:45:43",
   "yields": [
     {
       "label": "3년",
