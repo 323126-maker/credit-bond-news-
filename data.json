@@ -332,6 +332,16 @@
         "first_seen": 1785407428.783301
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaWdZYWIwaTNTX25jUHVCTkFhdjlrdTYtWmlCZ0ZhdEU1TjZxNmJULUhMVXVCV2c4RnlVRV9QR3FWM3dSN0x0TzZrUTFZbl9PSHhXMUtucjd5NUVHa3ZaTnZ1ZW9adjFncHNXSzdRM1g?oc=5",
+        "headline": "[채권-마감] FOMC 반영하며 베어 스팁…국발계 경계도",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/30 18:45",
+        "published_ts": 1785404700.0,
+        "tag": null,
+        "first_seen": 1785529067.3202174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1eXpzelBQX1FQSUJWUXA0ZW1kUi1LLVlOMER2UGV0QVA1ZExZQ1VzRWhEbnBWcENXSHBfN3JLVjJLRlFHUFF3QnFOR3RpRlh5Z1hDX253aTVfMjU1ZWdtN3g3T1RfbHZFQWpzR9IBbEFVX3lxTFB1eXpzelBQX1FQSUJWUXA0ZW1kUi1LLVlOMER2UGV0QVA1ZExZQ1VzRWhEbnBWcENXSHBfN3JLVjJLRlFHUFF3QnFOR3RpRlh5Z1hDX253aTVfMjU1ZWdtN3g3T1RfbHZFQWpzRw?oc=5",
         "headline": "'증시와 따로 노는' 기업 자금조달…은행대출도 직접금융도 막혔다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785398400.0,
         "tag": null,
         "first_seen": 1785404723.4002602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PT2lIbzFKWTZSSGZnTW9JZGNXT3FMWHVmTVhReVU4aFZoWF94NFBobmIyVlY4cHA0Rk5fMS1KMm9ucmo3YjNISGVQNkV4eW9Oekd0Z0lyVFVib0FvVnNZYjcyeDhOcnlSOUF0QkdCaFhxUQ?oc=5",
-        "headline": "증시 흔들리자 채권 ‘반색’…회사채 시장 살아날까",
-        "summary": "",
-        "source": "마켓인",
-        "published": "07/30 16:47",
-        "published_ts": 1785397661.0,
-        "tag": null,
-        "first_seen": 1785398439.6109033
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 05:03:11",
+  "updated_at": "2026-08-01 05:18:11",
   "yields": [
     {
       "label": "3년",
