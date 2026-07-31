@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPdlpaTmZjc25DSERjQWl6R2xUaVBMRGZDeGhoTk9IMHJ3MnBfdnlnTWVtUHpBbnFtVldZZHN0dWUybUlKSEo0OWkwZnVXdGFnd05hY1RzOHU3NDVhYmFCRlFVRkIyWkg4?oc=5",
+        "headline": "IPO 한파에 회사채 위축까지…증권사 IB, 하반기 더 춥다",
+        "summary": "",
+        "source": "녹색경제신문",
+        "published": "07/31 20:21",
+        "published_ts": 1785496863.0,
+        "tag": null,
+        "first_seen": 1785497430.1170201
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdFRnZm1YX0FzdjZFd1NrRzZxWS1tbjlKd3VjVVUzSUNITTkxUWRBSVo1aXJ6RUREVU9TMjEwZGtoTXBTai1ZNHRQUGR1UHdlSmxzYUVUU2wyTF94MHg5UDdiTTR0anpNY1FaME5TcEFQM0J5WVAxT0dHaVFsUWkwbzN2YjVMQzh3MXlYeFc5M21wQlE4UTNDX0k5RWwzMmFDSlJwbDVwUlp6dw?oc=5",
         "headline": "Vistra Backs KKR’s $10 Billion AI Infrastructure Bet. Here’s the Story Behind It",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785397260.0,
         "tag": null,
         "first_seen": 1785397521.5824594
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wWnlUN0NUam9CVWd5N1NSWmJJajRieFNVaVd0Y3JEel9ERzhVY3NPZlNuX2Ztd0FydVJIUE13dXdJV2kydEZEdlJaU0tWUU9yaTRGWTZia2Y1Z0E0MXNjdUJMSGctbHls0gFsQVVfeXFMUDRQRGdoby1aYXRkVGRERDF5NVZoTmdueWlDZlpVRzMyUUhOQXJ4RW9UN3NDdE5XbzBJMmRFYUU4YXI5OENNMEQyd2NQdFVRQW9jUWdBWUdZWnMxWXI1NEFYZlJXX1pxblgtX1Vy?oc=5",
-        "headline": "롯데케미칼, 2000억 CP 만기 '3년 뒤로'…은행 보증으로 차환",
-        "summary": "",
-        "source": "블로터",
-        "published": "07/30 16:00",
-        "published_ts": 1785394838.0,
-        "tag": null,
-        "first_seen": 1785398341.3830397
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT2F1Ym44eTBuUWtjNmNkTG1zdVhzQTZIaG51Z254TVFiZXNUX0FzaGZ6UHNzNlVHTVhvSkR0LUtPeXJwOURwbXlkMlNEN0NmMW53cm1fU3BFeWlSbnhENy1VR3VmcFdqSjF6RGZmTURzZEdIbDFTdW1md0ZuYURrdklSWk9ZZDM2ZUQ2aWRabHhjSmJQa0d4NmNLMzRVSFdPMVNsUS1OWFdqYmIwMS1EZUhWSmc?oc=5",
+        "headline": "Aristotle Funds Enters ETF Market with Launch of Three Actively Managed Fixed Income Funds",
+        "summary": "",
+        "source": "ffnews.com",
+        "published": "07/31 19:11",
+        "published_ts": 1785492694.0,
+        "tag": "Global",
+        "first_seen": 1785497430.1170201
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
         "headline": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1785485438.0,
         "tag": "JGB",
         "first_seen": 1785485722.4072773
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWEJMNlJnNGUyM0pRZkZ5bU1yMk5BSmR2WnFVWUdiT0Yybnp1ZlRZVElCRzZWazhxdDBaaGtXcGZPeTJ2OEhQZHlMMmdySjZXTVE4SDJLQ3NDWEJ3RTVPU1VYY3ZIVnhyN3RnT25RVDMzU0x0Ri1BWDdiWXNLZ0o3dUVzaHJwcGlPNXZVajBabmJ5QmlnMFZ5akR2VWJnT1dsQkJkbl9NY2xDRmkyX0JMUWloLVNsV0lfR3FQTWNlcllhVlFSUVE?oc=5",
+        "headline": "Japan’s central bank keeps rates steady, delivers hawkish signal as government props up yen",
+        "summary": "",
+        "source": "The Straits Times",
+        "published": "07/31 17:05",
+        "published_ts": 1785485100.0,
+        "tag": "JGB",
+        "first_seen": 1785497430.1170201
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVlZQWGNoSFNIclRCcDgyRXdjSUVkejhEN1ZuYjkyMjNvTnRsMFUxcjl4UlVKdF9RT0kxSnhhc04za3BJSmszR0hQZnpMNmxvbDRiZUZycmY2SlU?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785462900.0,
         "tag": "JGB",
         "first_seen": 1785472228.0858905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YdThhR0NWTEpHOGl4RVJxVUc5bE45b2FrZFM1VHE5ZFJxbGs5WnJZczVLOGpFclFRQ1h1Z01Nb29XNk4zWlVxTVlXTkxyQW9zV2ZKUWltX1FzQQ?oc=5",
-        "headline": "Yen surges past 158 versus U.S. dollar, spurring intervention speculation",
-        "summary": "",
-        "source": "Japan Wire by Kyodo News",
-        "published": "07/31 10:51",
-        "published_ts": 1785462702.0,
-        "tag": "JGB",
-        "first_seen": 1785465923.654595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00eUZlMWVQZDVzcDduVU1jdzF6dF9GOWx4aVN3UjFwYjNDWUNPc2YxeVFTSWY3UXpVQ1NERTJuWko1VEtzbk1LYjlXS2x4cHdrOHQwbkFQLU9wc0VWWGJnT0dxbk5WWDRtUWVzXzlnNHpIQQ?oc=5",
-        "headline": "건들락 \"다음 FOMC까지 美 장기금리 5%대 중반으로 오를 것\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/31 10:43",
-        "published_ts": 1785462229.0,
-        "tag": "Strategist",
-        "first_seen": 1785463239.1125238
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 20:16:02",
+  "updated_at": "2026-07-31 20:30:51",
   "yields": [
     {
       "label": "3년",
