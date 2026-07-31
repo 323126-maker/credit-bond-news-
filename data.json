@@ -1660,6 +1660,16 @@
         "first_seen": 1785523026.394249
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTBJUDFISUdSTi1lQUVRUERVeVFSdjBnV3ROSTh3Q2xvc1dCcGlqRlo2MDg1TlE3RWJpaWVBeTE1a3hnUTJtZ3VCY3lUQXEtZjBqWHBKUDNGVUtuc3hheXo0d0s0aEdwODJXZUVVOFpXZ0l1NGZyY0NteEVDR1QxRHMwWi01Vm9kQTNoWGZKbmJQXzF5dkt4VlA1amN4WjNnSmhUdkRvQkJrY05JV1hQaloxYTRHQQ?oc=5",
+        "headline": "Treasury Warns Banks It Might Intervene in Dollar-Yen Exchange Rate",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/01 02:49",
+        "published_ts": 1785520140.0,
+        "tag": "JGB",
+        "first_seen": 1785534334.5521808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcmcwTXFrcFZXbWF2aTBqN250ZkxXaGlTVjdkUk51d0NYWV96ZlJ4Vi1kdmVWTXBDVlZmOXF4bF8wT0luazdRbTNmU2E0dW5oQk8wSXAyUEFrRnExNW4yNlp2V3E2QzJPLWFoeUZoVG94WHBpcF9QRUd4VUg5RmNTeHJfQTIySkZKWlJSdWZxX2hPMHluWEhLRGowZ095RnNLN29uZ0oyV3ZPTUZtM0RDeEY3Zm9JeEtEVjl3MA?oc=5",
         "headline": "Opinion: Warsh’s Fed is failing to stick to its own principles for good monetary policy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785489821.0,
         "tag": "JGB",
         "first_seen": 1785491123.7793736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSd0owUTVJNzUzQXNjUWR5ZkpVRXNKaDhRQzBXT0xmbUFQRmFSRlEwb200c2JBVnhFZlJzOVljRFZmVjUwQnBFV2E1Sy1SU183VXc?oc=5",
-        "headline": "'엔화 구하기' 작전 …日 대량매입 맞춘 美 연준개입에 3% '쑥'",
-        "summary": "",
-        "source": "mk.co.kr",
-        "published": "07/31 18:09",
-        "published_ts": 1785488951.0,
-        "tag": "JGB",
-        "first_seen": 1785519932.8549972
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 06:33:06",
+  "updated_at": "2026-08-01 06:46:33",
   "yields": [
     {
       "label": "3년",
