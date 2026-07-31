@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fREhqcXEzb3c0SDBFdWpFa2IwZ2NjTkt2dEtvT0dxUGtmNUh0VWctaWcwWTRGQ3ZjOGF0Z2thb1NEZTc1RG9YUkR4cE5sdWduWUlWR0dkbTB0XzdzZTN4TlFaeTVaUDNNUkM0QUpDdUZQZ1dHN0HSAXZBVV95cUxNX0RIanFxM293NEgwRXVqRWtiMGdjY05LdnRLb09HcVBrZjVIdFVnLWlnMFk0RkN2YzhhdGdrYW9TRGU3NURvWFJEeHBObHVnbllJVkdHZG0wdF83c2UzeE5RWnk1WlAzTVJDNEFKQ3VGUGdXRzdB?oc=5",
+        "headline": "[폴란드] EIB, 폴란드 두 번째 규모 육상풍력단지에 2억6천만 유로 이상 금융 지원",
+        "summary": "",
+        "source": "워터저널",
+        "published": "07/31 12:48",
+        "published_ts": 1785469697.0,
+        "tag": null,
+        "first_seen": 1785476768.8727994
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UURoVE8wVmpiRGpOQVQyaElabU1xUGxZN25kNDRzcmhqTHVXaFBHdUwxaGNNeEszNGNEYmhrcHAwVGFEejN2aEt6cmE0VHM?oc=5",
         "headline": "모험자본의 시대…증권에 조단위 증자, 신종자본 보강",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "한겨레",
         "published": "07/26 21:34",
         "published_ts": 1785069240.0,
-        "tag": null,
-        "first_seen": 1785069986.1145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE03Y1Q0V1c5WUtndklOb2xEVzBHV25zZ3VzWWp0UEtxMlNFdWh0WWVWeTZvUjVYczVUYW1DbV9XX0hYUlpMcnl5UlZ6bjNCeUoySDBiT0lGNlJfbUFiamcyWF9lejdHd0ZFTFE?oc=5",
-        "headline": "중앙그룹 계열사 회계 감리 요구",
-        "summary": "",
-        "source": "전파신문",
-        "published": "07/26 21:32",
-        "published_ts": 1785069120.0,
         "tag": null,
         "first_seen": 1785069986.1145
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54RmVRWE9Vb1h6X0UwYlVsUUNRaHBMeFVMVjlSWHR1RmVOZEF2NG5GeW9vbEpDT0VYV0JMZWJweUVkenJqcVhqeUlLTjJpMDFwLXlGSVFEVWlLUGlj?oc=5",
+        "headline": "[글로벌 증시 따라잡기] 6월 근원 PCE 전월대비 0.1% 상승…예상치 하회",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "07/31 14:27",
+        "published_ts": 1785475624.0,
+        "tag": "JGB",
+        "first_seen": 1785476768.8727994
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ULXI4STNuX3k4UXhPYXhxUE45T0JjZHo4cW1UbDZCMlUxNjR3OGtGRHFNYlJ0YmZyUmRibFdjdGJxTy1RbHpGSVZlSWlqV3dzUjVJ?oc=5",
         "headline": "엔달러환율 급락…당국 개입 관측 [글로벌 머니플로우]",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1785467951.0,
         "tag": "JGB",
         "first_seen": 1785468630.050588
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS1hZRHNWR2drR3JKUlRiZ2s1SjJxV08zOGFVZjRianRXV1ZBWXItc05PckhLWnVWNWhVZHRleE5WanBkOG15d3VIQ19WZE16cWIteHUwcFlzQVp6TmVOc2lmV2o5THpfd3U5TUxkTkhocWl3cVlrMDhvRDliZDl1cUhJb3Z1Y3RROTdVSFd3?oc=5",
+        "headline": "Carnage In Hyperscaler Credit: Really? - RIA",
+        "summary": "",
+        "source": "Real Investment Advice",
+        "published": "07/31 11:43",
+        "published_ts": 1785465831.0,
+        "tag": "Global",
+        "first_seen": 1785476768.8727994
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeWJ3RGw1RWlwc0VVdkxaYUh2VUhjaGt5MTlXdGgtNWRIWHpKcFNROTF3WGVWbkpGZzBWVFl6cU12Y1FsQmNXNWdjVFBlZzZ4YUVYRjVmY25hX2xDdDdhNXNkcXRmenU2WWI1YzhMaFF2ekJsSWdQYl9abVZLZzM3cmw1SS1PVS1nNVE?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1785446821.0,
         "tag": "Fed",
         "first_seen": 1785468630.050588
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ2RRU3lMZGliLUVabktTZzc5b0xjZkdmbXNqR0RZME9NdW9xT2hldDcxZ2NCVWczOUo0eHY2VlU0MVpMeF9WMHd4aUJtcVZwUjRyUDlrNmVCYWg0SEZkbVVvVHhKY2FaNEM1SFB2bG1wdmlyOTNkdkVqODEwaVE0dlJ5WEJIOWFsaUhidjlWV1hRb25JdUYxMEliTkYzdnAzdzgzZw?oc=5",
-        "headline": "People Are Starting to Worry if Kevin Warsh is a Credible Fed Chair",
-        "summary": "",
-        "source": "Talking Points Memo",
-        "published": "07/31 06:10",
-        "published_ts": 1785445800.0,
-        "tag": "Fed",
-        "first_seen": 1785447030.9747224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNG5SUjZLMEMydnJ6c25fQ1NRUTFFUk5vSnRTOUVUNVRVWUZlV0hsWW5jcGVXZkdNUGFGdVBwVWlDSXFUMTg5RDNuMkxFRGJuSzZRWjNoVXRLMF82RW1FTjJ0ZFlvRG1weHpOSGxBclU0LXV4MmpIWDFaSnZuNDRvS0hvTXZLWUFJTVl3MkxMOGswMnVVWk5N?oc=5",
-        "headline": "Fed Chair Kevin Warsh Is Stuck Between a Rock and a Hard Place. And It Could Be a Problem for the Market",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "07/31 06:05",
-        "published_ts": 1785445500.0,
-        "tag": "Fed",
-        "first_seen": 1785451528.2380662
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfVzFuQUpCV0k1cjZfZ1V4NmRDZ3JVZkpXTWl2MFhwQ3NlaHZKQXBwREJIbVZxelN3S2dkOVZhX2tJYWxDNzlTS1BnaGEwTGtyVjRXZHlqT1VGN1hUaktHSzBSb2JPRmNJNEE?oc=5",
+        "headline": "Sh수협은행, 전역장교 신입행원 임명장 수여...\"미래 금융전문가로 성장\"",
+        "summary": "",
+        "source": "청년일보",
+        "published": "07/31 14:39",
+        "published_ts": 1785476361.0,
+        "tag": "수협은행",
+        "first_seen": 1785476768.8727994
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0zLU1MVHA0Mlhrb3lYdHA2RVZ5QUFEczRlSk1GeklSY3RnWDV4cWQySU5CZHRZeGVNUjdKRGxtVG9XdDFjaWdvOG5oOVpGY1A5bGlHR0swSGhjUEkxLTV6X3dQM2NoT05TbUYw?oc=5",
         "headline": "신한자산신탁·리츠운용 흡수합병…부동산 사업라인 일원화",
@@ -2400,20 +2410,10 @@
         "published_ts": 1785288486.0,
         "tag": "삼성카드",
         "first_seen": 1785289524.1075609
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1LUXd3ZG92czBqZ2dsVVlBSmJGSFREdzRpcUpwNTZHZDFQZFhtdnNuel80cWdCcFo2UTB5YWRQdU5kQ0lJOTFDSjIzVnJfY21VWW1JYndTSTVQZ0NrV0ZDRTU4Mm94QVZYbVBvOXlyUDdaX1nSAXdBVV95cUxNMlpPSnI4NmYtaW1sWXpjTUNXWWtySlFfOFFjUXdiQnlqZWt3Zlk3dW9QWU5vcEhxWkl1S0ZjdVZER0NDMHE2NmJVQ29YN2VGTXl4LU14WFhDSnZfemJYZ0RISWZpZFVkT1dCc19lc01RV1NNbFhOMA?oc=5",
-        "headline": "삼성카드, 포르쉐 고객 겨냥한 프리미엄 제휴카드 내놨다",
-        "summary": "",
-        "source": "인사이트코리아",
-        "published": "07/29 10:21",
-        "published_ts": 1785288068.0,
-        "tag": "삼성카드",
-        "first_seen": 1785329124.179474
       }
     ]
   },
-  "updated_at": "2026-07-31 14:30:53",
+  "updated_at": "2026-07-31 14:46:30",
   "yields": [
     {
       "label": "3년",
