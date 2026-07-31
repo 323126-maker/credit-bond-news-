@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82WUhaNnhuWGNRVDJfbkJpWGc2dzllZlRvMHFsWWNHY1RHYWF5TmlrT1Zfejcyd29TeFBOSkNwWkg2UkV4cUMtOWZ0eU9SbUEyWmg1SXI4N1lNZ0tRbVNva2ZrXzBSeVlnSzh0UmcxUEUwVWhEZ1l3?oc=5",
+        "headline": "S&P, 경쟁 심화에 ZipRecruiter 등급 B-로 하향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/01 04:41",
+        "published_ts": 1785526860.0,
+        "tag": null,
+        "first_seen": 1785528168.5053546
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbC1vWnBZdnQyZE1vSEp0WWlRU3ZTVkNZQlhSSnFlUlY1blg3Vmw5bEFaaUdPdmcyVjllZDBtZ01VYU9HVi1FR2pINWlYSnJYYWdHMHdEak40REY2R1dPSnJMRC1ZRVMwUTBhRU9zcGJFUQ?oc=5",
         "headline": "AI 잭팟·신용도 훈풍 탄 두산…2.3조 실트론 빅딜 완충판 갖췄다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785397661.0,
         "tag": null,
         "first_seen": 1785398439.6109033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzZVNXckRKSWF6VXpBYVMwYmUzRGUtVHBHempmVmEwTkJKSFB0bWxuMU82bjBvOVpvSEJEU3M5dUQ1S3hvU29PNnRuR1R2ZmxNRVdVQkk3bjdzWUJ4eWZZakRGRWNCaGI4cTlKb0Y4aFEydw?oc=5",
-        "headline": "[채권-마감] FOMC 반영하며 베어 스팁…국발계 경계도",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/30 16:44",
-        "published_ts": 1785397499.0,
-        "tag": null,
-        "first_seen": 1785398341.3830397
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 04:45:48",
+  "updated_at": "2026-08-01 05:03:11",
   "yields": [
     {
       "label": "3년",
