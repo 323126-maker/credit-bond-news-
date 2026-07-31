@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE41UURoVE8wVmpiRGpOQVQyaElabU1xUGxZN25kNDRzcmhqTHVXaFBHdUwxaGNNeEszNGNEYmhrcHAwVGFEejN2aEt6cmE0VHM?oc=5",
+        "headline": "모험자본의 시대…증권에 조단위 증자, 신종자본 보강",
+        "summary": "",
+        "source": "딜사이트",
+        "published": "07/31 07:35",
+        "published_ts": 1785450900.0,
+        "tag": null,
+        "first_seen": 1785469524.4514062
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUTWFfZlVWZ21lRXRSX2lvTGQ1d0JjekthNmpOQzdRbXF4cU1ueHE2UEs3WXRJWkhfSldaUEJ0RzVEaERVNHVTY0FmbHFpTHp4UEQtTlJkVFJwUUJWRW9yRmlqb2lyYUV3?oc=5",
         "headline": "손보 이어 생명도…하나금융 보험家, 자본 확충 ‘총력’",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785069054.0,
         "tag": null,
         "first_seen": 1785069986.1145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BZExpUFZOOTVHdnRORzlwUDNKb0pHS1JTWUFTMmRIQWtSRURRRE5qb0RhQXpHUmRqN3NfemFOUnQzYlZYU3R1aUpoREV4RHc4MDFhVzEzWUZCZUxOa2JaVDd2bjR2RHBjUU5DN2Y2NlI2YjFm?oc=5",
-        "headline": "중앙그룹 채권투자자들, 금감원에 감리 요구…\"회계처리 의문\"",
-        "summary": "",
-        "source": "연합뉴스 한민족센터",
-        "published": "07/26 21:15",
-        "published_ts": 1785068125.0,
-        "tag": null,
-        "first_seen": 1785069031.1523492
       }
     ],
     "policy": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEc4M0V3S3UzZ3dkak5zNFdCOXdWbTZldmRILUpXTjRRaWtNdU5MNktYdkJnQmYzM0JKeWRHckR6UjlMNllsYmxzSmdKTHRQMnVNM2R1RGxXOTZPWUZWcnF6MURBSERiMTQxd2R3UlNRSUI4Ulo2U2puU01kMGtwdEdkdFhEQdIBiwFBVV95cUxNVWhKRFphWHZXNVoyZWlHZkxQYnZCN08xSk5uWjdTNzBCQlNneHBmUkNoeWhkWEpCUEZ6TklCZ2RJZU1FRUh0YmhsUzNKdVhJUWY1bUN4T0ZZREo0TzEwWEFLY0FrQ1VNU1I2T3BWY041VmxiUVJnY0pNb21fWWx0UGtzTWVjZkd5SGhF?oc=5",
+        "headline": "BOJ holds rates at 1%, warns of underlying inflation exceeding 2% target",
+        "summary": "",
+        "source": "cnbc.com",
+        "published": "07/31 12:33",
+        "published_ts": 1785468780.0,
+        "tag": "JGB",
+        "first_seen": 1785469524.4514062
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sYi1kWGtOY1k2TVBWblR0NGNsekpQYTdIbjJuNHZxLWFQNk5jR3V3cG9kY2JUUEdiVWE3aTRhcXFXYU1kV1BKX3ZlX2VadXFuUU9PVzJRWHhwcG1M?oc=5",
+        "headline": "BOJ, 기준금리 1.0% 동결...향후 인상 시기·속도 주목",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "07/31 12:32",
+        "published_ts": 1785468720.0,
+        "tag": "JGB",
+        "first_seen": 1785469524.4514062
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTMDJoNjdlV3lUdHFtS3VFY1pDRWFWVjRMYUlhbGhzYmNYbDU4YWlLM2ZvVER3STBLTkstUHBXSlFsOU1XTGNiUkEwYklRYThNcTZjdWdvank?oc=5",
+        "headline": "일본은행 금리 1% 동결…’1.25% 인상’ 소수의견 나왔다",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "07/31 12:31",
+        "published_ts": 1785468660.0,
+        "tag": "JGB",
+        "first_seen": 1785469524.4514062
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YOGFPOUVXN2NWRlFsQUtYSWFkelVTdk5QZXZUcVdVSTU3Mzc2V3BxNU04ZTBHR1Q0VzJYLWMwQVlFMDVfckdLQkFGeUY5aURGMmRvSDNBNURIWWJ2ZXdKetIBeEFVX3lxTE9uZ29ET2xLY2dlVnljSWNBVFRoaWNST3gybklnY3NPdjZSSjZ4ZUsxcFRZcW9MZGxQdlNCTV85bmtycGhVVkVLT0pXR0RhUnhNdHRPVkh6STNseTZueFNiZEdhc2NlNDJPRjZBdDM2dGc2LUE5UGp4OQ?oc=5",
         "headline": "[속보]일본은행, 기준금리 1%로 동결…시장 예상 부합",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785430620.0,
         "tag": "Fed",
         "first_seen": 1785433522.3825705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0NEdxQVJPR0RWdkJrb21mTU9qN2o2TmJfaVBhaTJXYTJyQlpzd1dPWG5UamgzU01xU2llbEdPQm55MUJDMjE5eHM3U3pQUTJsbUdTVWVGWlk3Q3VMcXplaEd0aHAtQnFQT2c?oc=5",
-        "headline": "Why the bond market is doubting Fed chairman Kevin Warsh",
-        "summary": "",
-        "source": "Axios",
-        "published": "07/31 01:43",
-        "published_ts": 1785429825.0,
-        "tag": "Fed",
-        "first_seen": 1785467724.6780694
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGpLRGt1emhLaXM2Qm1DSGdGMUN6M1NVODRPMXlwT0RQbXJlUmtnSnNGN0tvZzdPeVBZZXJlaFk0TDFLUDlwQ2EwVi1qR082akRQWURvRlZ0Q0JKMkZ2V2dYSjM0S3lWVWRVSjN1Qnl2SWZ1VVVldnB2UVZGTWFBY3VZaENPbEpkemFoU28zQUxqa0MyZUNaN043VDN3NmNCRVdBbmljMGJaSkFzSjQ0V2hPcWM0Wi1ZQnpORnl6SDc?oc=5",
-        "headline": "Western Asset High Yield Opportunity Fund (NYSE: HYI) posts 7.65% NAV return",
-        "summary": "",
-        "source": "Stock Titan",
-        "published": "07/31 01:28",
-        "published_ts": 1785428924.0,
-        "tag": "Global",
-        "first_seen": 1785429042.8291497
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRms5ZDRURzFvYmV5aHZRMnNIcFBuSmZfSE55R0ZzR3FkUWxFcmlpeTdDdzFmWGxWZXgwOHFoa2JLRG45VzBjWFdZVVhELVRLSDlPUDlEQW5lNDAzTEZmb093M1l3S1RDbDlIdVJnekdRUEpSMWhRUk5qeE9vTXQwRXF0eHUzU004U0RqV3lxSnlNaEotTHI3LWZjLTVsMWRJeUtsSHppUlNheEhtN0E1Uk1BX19mRFI4RUJIaVdyUXNfQS1JQXE5aTlKRmtjSWRYT2c?oc=5",
-        "headline": "Average 30-year US mortgage rate rises to highest level in a year at 6.66%",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "07/31 01:19",
-        "published_ts": 1785428357.0,
-        "tag": "Fed",
-        "first_seen": 1785429042.8291497
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 12:30:53",
+  "updated_at": "2026-07-31 12:45:54",
   "yields": [
     {
       "label": "3년",
