@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2WUs0cGZaOGxFX1RHMC1pVTdnM3U5ZVFPcWM5T2lJN3lacUZRX1M3QjUzWFZpRmJ5dmx6UUw1RmRoem9Ka1AxeWRrQzhwb2NZX1c2UmZSLTA4SG5VRUxiaWh2MUw3V0xuUmxleWpqbjlrUQ?oc=5",
+        "headline": "S&P \"삼성화재 신용등급 'AA' 상향…삼전 지분평가는 중립\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/31 09:10",
+        "published_ts": 1785456652.0,
+        "tag": null,
+        "first_seen": 1785457836.826539
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamQxZElQcFNURTZnZEtCN2xjOXBGa3BsU3ZWX1ZxWFpKM3UyQmhuSC1XU2c0SzVodTlENnEyWVhTNjBSNUI2bHlHOFlDaHhmRHk0R3VLUEQ0TjhGa0hBbWotQ1RaejBQaG9XazZ2S28xZnd5N3VhU0tjUk0yMFdENVg1WU5iQ2ZZa1UyTnVEdDZ3UXJQQTdNc3RDUVBoeDRDYkxIbUF1eHZKNlBTMkMwZ1Z0dmNuZ21IT1RHbnQtNmtCaFFzdlhlTTRqRlMwb0VOdEpvd0NYV0hlRXB2Nmxib3E0NXNSTlNRRjhybm5B?oc=5",
         "headline": "SK디앤디, 1367억 유상증자 승부수…악재만은 아니다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785375000.0,
         "tag": null,
         "first_seen": 1785377725.7192993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4ta1B4MjA3YjVDVzI2ZVVGUnA0aXE3a243aWNFdnAxM1ZoT2ZHMUotMDgzNlhyVldjWGxSN1NiTi0yZUdPOTNXSlRrbGV4WU9YUDZaOE9OcjhXUTJiNXNCS0xjSHhTVEUtZ2tkazNLeWw?oc=5",
-        "headline": "서울채권시장 \"7월 FOMC, 과한 우려 되돌렸지만…방향은 '스팁'\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "07/30 10:28",
-        "published_ts": 1785374884.0,
-        "tag": null,
-        "first_seen": 1785375929.5832217
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzZDliTU9yLUdMUEJ5dXFuaGZTSWZXYURmMWRWWVVJVndGTEoxRUo5aDBqeG5weUxlU1pLaEw5cUpFVHlVNVRyeTQ3c2l1b3lFYmFJZ3FoT2c0bXl6ZC1QaDdydjBVWDZUVXNsM3Q3YUxUQQ?oc=5",
+        "headline": "국채선물, 원화 강세·WGBI 수요 기대에 상승 출발",
+        "summary": "",
+        "source": "KB Think",
+        "published": "07/31 09:10",
+        "published_ts": 1785456634.0,
+        "tag": "JGB",
+        "first_seen": 1785457836.826539
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWTdzRzUtZ29DdDRkVVVWTVg5bDlVYU11QUN1bXNRYzZGYlhxQWFqNWZtUTNlTEZ4UjJSTWdMNlVnTFUtb3BicGVtUmM3cWhaN2p1VHhNNmo1SS1ReHZSa1hjSUNEZ3FfVV8xU3dfdUNDRVRXQVgzWDhjTUFPTXJnUmhIOEZnRDdYQTc1bjNxdDRiYl9lUU9FdmZoa1ZYekRXTkxGakpTQ1dWSEthVDhSSmtYaw?oc=5",
         "headline": "Spooked investors demand clarity on Fed’s anti-inflation strategy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785418874.0,
         "tag": "JGB",
         "first_seen": 1785420036.3739824
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSl9uRXExbTBERGx2MnU2R2V0dXdyaEVJYk1TbXp1Um05T2Nkc3drbmxXcExKWG5zUjZnc0NkSDhvbDNhS2wwd2k1eExmU3NkMEtaUE9TZ1pmRUJKeTVaSUZQRjFtd3RsNGhJb2VCR0JmRkdVcTdXaEVLT2U3RjhfM2V1RWsyME5EVk5HVEp3?oc=5",
-        "headline": "USD/JPY (USDJPY) Is down 1.43% on Jul 30: Why It Happened",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "07/30 22:40",
-        "published_ts": 1785418818.0,
-        "tag": "JGB",
-        "first_seen": 1785425635.843016
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 09:15:50",
+  "updated_at": "2026-07-31 09:30:59",
   "yields": [
     {
       "label": "3년",
