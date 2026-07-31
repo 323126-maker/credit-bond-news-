@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54X3piZU5oakRURHIzQWFIZ091cEVMZ0hNRno5bWRjYnRTN0hjY3NkaXZINW10eThlY3hKQkVsMHlOalRIVm0xY3IwbS1EVHlOSk9RbVB1Y0xkdGNGbU1jdQ?oc=5",
+        "headline": "'부동산토론회.kr' 오늘 자정 운영 종료…약 7,500건 의견 접수",
+        "summary": "",
+        "source": "네이트",
+        "published": "07/31 11:01",
+        "published_ts": 1785463260.0,
+        "tag": null,
+        "first_seen": 1785464124.3031163
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VN2E5eEY2N2syejNPa0ZIcTZjdUY4aUwtRkZQZDZxN1NieWstbXVnVnE3LVdYaldOTDFYQXVwY3owZW4wLXRUWVZhb01YTVhqQ0E1SGZpeXdyZlhZLUZ4eQ?oc=5",
         "headline": "'부동산토론회.kr' 운영 종료…\"국민 의견 7천500건 정책 활용\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784769480.0,
         "tag": null,
         "first_seen": 1784771123.7989855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaS3F1TWR6NDNpd25nVzlwMmdWMV8zRXFQMzJtajlULURZWGVWZHdHWFh4TWJILVpiM1ZZZDFGQS1NM2JUMTZ5WXc2RnZKSmxVS1pwOTV6bWdlOEVhSzBOTExn?oc=5",
-        "headline": "부동산 정책 국민 대토론회 발언하는 이재명 대통령",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "07/23 10:07",
-        "published_ts": 1784768867.0,
-        "tag": null,
-        "first_seen": 1784820635.8801134
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 11:01:01",
+  "updated_at": "2026-07-31 11:15:46",
   "yields": [
     {
       "label": "3년",
