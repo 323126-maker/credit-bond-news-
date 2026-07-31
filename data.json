@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5vLUNPbEU0b3F6SzNqMFdiQ3RzQy00TlduMDlQaVZ0Z2I0aXpiR21WVDBySFBpYWhyVDZHV1pXbm5BTEg3NXoyZ1ZISlRqN3c5Q3c?oc=5",
+        "headline": "한미 파이낸셜 코퍼래이션, 2분기 순이익 2350만 달러..전년비 55% 증가",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "07/31 19:03",
+        "published_ts": 1785492213.0,
+        "tag": null,
+        "first_seen": 1785492931.1929913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfdkR3SVFtNmx5aF80SnlyRnp0eEs2S2tpUHhBU0JMTklZcWh4czc3alNNbG5WU1psSXBtZFdjRjJCeUpHcTAtNEZlMmRWT0E?oc=5",
         "headline": "풀무원, 8년 만에 RCPS 꺼냈다…영구채 시대 끝내고 자본 재편",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785071453.0,
         "tag": null,
         "first_seen": 1785072629.418762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1GLVU5SDZrREVvQzZTcFFnMThNNzl1MURSLXllcjAzeWhuWllJZjZSTFFDWmVWZ2FhUW81YTc2TE1LTXo4emdQeWhRb0Q2U0xQMnA1eDFTaUJuMDZWQXJiQ3R3eG1QamkyeFE?oc=5",
-        "headline": "JTBC 채권 투자자, 금감원에 중앙그룹 5개사 '회계 감리' 요청… \"자금 돌리기로 자본잠식 숨겨\"",
-        "summary": "",
-        "source": "sisaworld.kr",
-        "published": "07/26 21:53",
-        "published_ts": 1785070409.0,
-        "tag": null,
-        "first_seen": 1785071723.0168426
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMERpMHRBTzlIVWdUcV9memhfa19FRnM0UGY3YnpwdjRLYjJyQ1A1UXRrZU5FTDZSejhiV3VmeC00TEg2RUFhZ1VlQ0pieEJicEw2MTBIaWFBSEtBVUJfbVA1MnBfc0F5bTl6bFNTRno3RHItN1MwTWpnQ21JLUZGZmFONXZyY1pfMHVJXzFnM3ZzZk1rSW1MblBzSlcxSk15dkJMRDYtRW1adDMxNE94anZDelY1NWM?oc=5",
+        "headline": "Fed chief Warsh faces hard choice on inflation after bond market's 'red flag'",
+        "summary": "",
+        "source": "Reuters",
+        "published": "07/31 19:08",
+        "published_ts": 1785492508.0,
+        "tag": "Fed",
+        "first_seen": 1785492931.1929913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQUFhakRtbnhBanVjVHlRNGU3MTJWakY1M1BfakFJbkM5S0pqTmJGZ3JYcVVOSDdubDFtVlA4ZU5ya1dNbF9ZcENXRXFGVklqa2p5T2lwOFczWmU0ZFpoRXg1c3V2TFNHVGU4bkpKZmFrZGg2am1qclpDdi1sbmxlNXZ5d3F2cFh3bF9QeDYwd0wzSXVneW15eW5zV2RTckxITnpRNnRjWGlVcTdfZl84RVJVS1pQQjBL?oc=5",
         "headline": "Kevin Warsh faces challenge of uniting a divided Federal Reserve",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785459668.0,
         "tag": "JGB",
         "first_seen": 1785460529.7970927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9FZjB6bEpNVEtxMTA5ZmZ1NGZzLVd2TmM5U2tKZEU5VThzdmJ5eGtlRFg2V21kU1dxbmgzQkRnOENVOU40bFIyY0lxd0l6NDZESzR4SUtrTm5DUQ?oc=5",
-        "headline": "엔화 50분 만에 5엔 급등…'엔캐리 청산 쇼크' 재연 경계 [최만수의 재팬 인사이트]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "07/31 09:44",
-        "published_ts": 1785458683.0,
-        "tag": "JGB",
-        "first_seen": 1785463239.1125238
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-07-31 19:02:25",
+  "updated_at": "2026-07-31 19:15:56",
   "yields": [
     {
       "label": "3년",
