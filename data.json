@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PUXZkR1h1Z3B3emFKcHN2b2pYNXVpcWVfblZZQjBOaG9BVjk2UzBFRi1NbWlleHNrQ2Q5SFJGSzdKQlFxdVlFaF9YWGR2RWViTHlES19sZkllWWNoUlFIZHpXNU9MazZ5SDBsSndYNXQ?oc=5",
+        "headline": "\"8월 국발계 보니…장단기 커브 플래트닝될 것\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/01 08:05",
+        "published_ts": 1785539104.0,
+        "tag": null,
+        "first_seen": 1785540633.38694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Famg0WW4ybjkwcjNxZmNVZWVoOTNSeEI4ZzktVkVjQldKUXpjNDd0ZVZGU1Y0MG9LT1NkOUNWRHEzN3U4WXNSX0FHUDFlMVJOWE5B?oc=5",
         "headline": "국고채 금리, 美 국채 강세·외국인 선물 순매수에 동시 하락",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785110163.0,
         "tag": null,
         "first_seen": 1785111326.8727047
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBBZndIWTJiVjh5SVhvVTJia295T1FGN3Q5c0RleS1WNGtJT1RPRDJWd1lneGJsdlZ4LVJrd3JKLWJNV25QMWVZVmZWWGp2M0J4S3phRXg1WlNieHU2TzJFM19ZeWtERjlnWEpwS0RkLW9CUQ?oc=5",
-        "headline": "[크레디트, 금통위 그 후] 하이닉스 끌고 환율 밀고…장밋빛 전망은 아직",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/27 08:44",
-        "published_ts": 1785109475.0,
-        "tag": null,
-        "first_seen": 1785113206.0955598
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 08:02:38",
+  "updated_at": "2026-08-01 08:30:59",
   "yields": [
     {
       "label": "3년",
