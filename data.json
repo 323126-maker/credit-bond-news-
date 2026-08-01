@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWZZbVRkX25TanlJdlFnYmxoU0FOOW0tRGh4MTNyVTI2QW9EUEFNcXo5dl9RZFZwamlCaXJmZTdRdFpVWE1WckFoUzRoQ3oyNXoyTXl5WWp0VUFsX2NFcG9pMk5QSFM1dElLNkdQbl85OHJCTjBaS3lZeUxzMkhGb0tvVmVaMHdxaGtlVk9JVXgtcmxEZlV3ck02WUZkVXM?oc=5",
+        "headline": "Bond sell-off signals need to maintain credibility, St. Louis Fed's Musalem says: FT",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/01 22:45",
+        "published_ts": 1785591949.0,
+        "tag": "Global",
+        "first_seen": 1785592938.369642
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcTRPUS1lQ05ucDRDUXA0dFNORWgyVU1tZWlSOHA2RHBVOXZQeUFjLXdWLWN0N1hDYXE0NWhkdjFJMzhZOU5ZSFVLSW5yVUtTZDNJWFFSa3ZXNjIwOGhJVmFjNm5OdzVESTNVbTZYTXgzSVAzRDBlc0xJWDFjTGZ2VmFiV2lTSVpDQVlPbllGQWg?oc=5",
         "headline": "U.S. economy is ‘past point of no return’, billionaire Ray Dalio warns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785516127.0,
         "tag": "JGB",
         "first_seen": 1785573026.2586057
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWXZjVTBzUEhqaFl5QUFJRkxLYUMxWVJvRkc0WmVpOU0wc3gxc0RmSkhVdWRQSlREUjZRN2lHNjNhd2ExdWZ0WXZoMEpYc2ZjMVFIRS1sRmlRYXU4Wng4bDFqVVNHbUE2QmM2MC1KcVh6NzVfTTVaamRaQ3dTVHdhanRJaHZVVHllZVJHWl9R?oc=5",
-        "headline": "일본은 엔화 가치 지지를 위해 거의 590억 달러를 지출했을 가능성이 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/01 01:34",
-        "published_ts": 1785515692.0,
-        "tag": "JGB",
-        "first_seen": 1785516367.6109867
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 22:45:58",
+  "updated_at": "2026-08-01 23:02:43",
   "yields": [
     {
       "label": "3년",
