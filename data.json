@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE93d0lwYTJybVNKRjdqRWt6aDJjU09UaXhQQjUwaWRqd2NldkJwRVhGYWFON2FDQ1RWLWdNSXAtcElfVVZVZThET2JJTktudXJKLVE0TUNwd2NJRm50VVUtUUdqbEdIbFhBdDRIWlZtd2jSAXNBVV95cUxQRUktU0RQUlhGRXBnV2dHb0IwZXpkdG5ndnRTQU8wX2dwbUM3QkxfVGtENGp6SFdXZmNnRndickMwek1VTzh0dFI1TGhPYVVBejF1Vzhod3JvMDRmRFc3dEtFX2QxTHQ5WEdUSDVZdlVrcC1Z?oc=5",
+        "headline": "주요 빅테크 기업들, 사상 최대 채권 발행...왜?",
+        "summary": "",
+        "source": "choicenews.co.kr",
+        "published": "08/01 09:14",
+        "published_ts": 1785543254.0,
+        "tag": null,
+        "first_seen": 1785555169.3863122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82WUhaNnhuWGNRVDJfbkJpWGc2dzllZlRvMHFsWWNHY1RHYWF5TmlrT1Zfejcyd29TeFBOSkNwWkg2UkV4cUMtOWZ0eU9SbUEyWmg1SXI4N1lNZ0tRbVNva2ZrXzBSeVlnSzh0UmcxUEUwVWhEZ1l3?oc=5",
         "headline": "S&P, 경쟁 심화에 ZipRecruiter 등급 B-로 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785404106.0,
         "tag": null,
         "first_seen": 1785408321.8802838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTHhQTUxPZVpUWHJReEpyZXhEMEdseVE4R0lPT0ZLWUZtOWZGM1dWdHdYeDVFUHZKNzR1NW14a1VvUE5Vd2Qwd0VRVFhHX0ZHbDJBM19ibmh4Q09LZWh5cFVPSmFxckV4TFJfZ2xBNkcyMTRWSnMwZGVkWURHSk9XTTB4Z0ZVMTNSYU81TUY2UWgxbHlLM1NJOXlrd9IBmwFBVV95cUxQTHhQTUxPZVpUWHJReEpyZXhEMEdseVE4R0lPT0ZLWUZtOWZGM1dWdHdYeDVFUHZKNzR1NW14a1VvUE5Vd2Qwd0VRVFhHX0ZHbDJBM19ibmh4Q09LZWh5cFVPSmFxckV4TFJfZ2xBNkcyMTRWSnMwZGVkWURHSk9XTTB4Z0ZVMTNSYU81TUY2UWgxbHlLM1NJOXlrdw?oc=5",
-        "headline": "AI 데이터센터 수요에 대한 우려와 규제 리스크로 인해 캐터필러(CAT) 주가가 12.0% 하락한 이유",
-        "summary": "",
-        "source": "simplywall.st",
-        "published": "07/30 17:38",
-        "published_ts": 1785400712.0,
-        "tag": null,
-        "first_seen": 1785410123.8289707
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 12:17:59",
+  "updated_at": "2026-08-01 12:33:12",
   "yields": [
     {
       "label": "3년",
