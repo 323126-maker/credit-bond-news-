@@ -162,6 +162,16 @@
         "first_seen": 1785483928.8070805
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3dHlKZ1hHQVIzYk8wa1NfSk0tMzlsWkJrUHhuNThRWE14ZjFvY3RsUjVwS05wSDFOd2hkRzh4cWVpa1l0enc0NFBQWmt1SW9hM3NsdWdfYThpNHdlVTVjZ3lzaHZxOTR4ak1uN3ZrTEExUQ?oc=5",
+        "headline": "[증시-마감] 코스피 18% 폭등…하이닉스 등 대형주 줄줄이 상한가",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "07/31 16:13",
+        "published_ts": 1785482038.0,
+        "tag": null,
+        "first_seen": 1785618990.6407065
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrUHBqWjYycEhaRkZHeUVNdllQUjhsd3dGZS0xS3hqM0xndlZNRncwcURreDZWZENBNWxRNVYydEkzcWJGZUJUS1E5SHZUUWtyRGtsOVRQMFUtZkVj?oc=5",
         "headline": "AB자산운용 \"AI, 막연한 기대보다 실제 이익 창출 능력이 중요\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785411034.0,
         "tag": null,
         "first_seen": 1785462320.7767513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA4eXpPM0c2MHB3S2FaSXJicmJxZ2IwcGNSMWt4aWdnSmF3TEFsOHpjaEhHOWozTzl4V1pGUE81X2RBUldlREFjcW56TWllNllhQ011cUJmWUlSMkZ4WnE5WGIzTkdvd3NnQkpMOXdsNEZuVGc?oc=5",
-        "headline": "라이프 타임 그룹 홀딩스, 2분기 호실적 발표…연간 전망치 상향 조정",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "07/30 20:28",
-        "published_ts": 1785410912.0,
-        "tag": null,
-        "first_seen": 1785411926.6657841
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBOdFpwU1lhbHVBVjl4dlpWdHl4eVJsM1A5eUlGU2tnaGZEaHBuREpuY3FTRmU4VUlzZjF0RVJKN0M1SnZ6TUM5X2t2cjNwMFNnZzltWGJIbHA4UQ?oc=5",
+        "headline": "'164→157엔' 日 연이틀 개입..배후엔 美베센트?",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/02 06:00",
+        "published_ts": 1785618000.0,
+        "tag": "JGB",
+        "first_seen": 1785618990.6407065
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVZvUTZaMHdvcmFxRDNzdEJlcllyRUFXbzc0YjhfUFVGaTVLZnQ3NXMtLVhlODhBOVhLS2Y0RGJuWGVyWHZyTDBXdHhERno5ZU1mSWZrUElaQ1BUMUpQNm90MmlaTVVuVFJjSG5sRXplRGp3TDUyLXZOZUhZNDU0Vm9mWWZtak1LUUlKMDlRZHpEM3dBUTlnSGZRblRBc2xWSkY0STZZMA?oc=5",
         "headline": "Kevin Warsh talks a big game, but this market indicator will tell you if Wall Street trusts him",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785529827.0,
         "tag": "Fed",
         "first_seen": 1785531634.3079321
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hRHlCMjRJQXBFTDFic2FxNmNEX2MtUTNPNFYzcmNfQzU2QWlpbjRHODk1RTBUaU84RnRQX201UGROYXBpcGpjTHRqLUZmT1g1NmUxaXVKYnd2Z2pQUzNUdmFNN2pwSXlQNVJZZ1JUNNIBc0FVX3lxTE11WW9FeV9vdUNUUDhOMXNWRzY5T0ZiVUNtSjJZQXBONnNheEpxLXh3cHMxMkdPYVJ6bm93cWtZM0xNMlhreFpsRHhlQzNNbnNtVGMzTlVPS1gwV3lQZWhycmtsNHpHeUNLSldoV1NkYXZlWnM?oc=5",
-        "headline": "엔화-달러 힘겨루기 속...달러 '강보합', 엔화 환율 '뚝'",
-        "summary": "",
-        "source": "초이스경제",
-        "published": "08/01 05:02",
-        "published_ts": 1785528140.0,
-        "tag": "JGB",
-        "first_seen": 1785565012.6961558
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 06:02:57",
+  "updated_at": "2026-08-02 06:17:04",
   "yields": [
     {
       "label": "3년",
