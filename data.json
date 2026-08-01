@@ -12,6 +12,16 @@
         "first_seen": 1785528168.5053546
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16elNnQVF3Um5ObjRTVUt4eGRtUlVnRV96U1l1dVlvWGdMdndZaHBaRXZYU1lkNWV5V3A4QTVRSl81dHlxdEFtZndFYW9SaDVuNS1OZW9VYWhramZuQlRiaVNHMl9CSkVNakxKU1V2RVM?oc=5",
+        "headline": "헤리퍼드셔 캐피탈, A3 신용등급 유지, 전망 ’안정적’",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/01 00:03",
+        "published_ts": 1785510180.0,
+        "tag": null,
+        "first_seen": 1785552485.8697116
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nbC1vWnBZdnQyZE1vSEp0WWlRU3ZTVkNZQlhSSnFlUlY1blg3Vmw5bEFaaUdPdmcyVjllZDBtZ01VYU9HVi1FR2pINWlYSnJYYWdHMHdEak40REY2R1dPSnJMRC1ZRVMwUTBhRU9zcGJFUQ?oc=5",
         "headline": "AI 잭팟·신용도 훈풍 탄 두산…2.3조 실트론 빅딜 완충판 갖췄다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785400712.0,
         "tag": null,
         "first_seen": 1785410123.8289707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYU9qSEJQOXkwMkFUYkN4T0JQR3o0N015MHp5Ync4ekJLMVlVUC1rUTNoa2ViOUpDUERfc1NoNmdRRGg5a05xdkFTTklCWUV3WjVWeg?oc=5",
-        "headline": "[채권마감] 나흘만 약세·커브스팁..아시아장서 미국채 약세",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/30 17:12",
-        "published_ts": 1785399120.0,
-        "tag": null,
-        "first_seen": 1785400238.1899426
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1785545221.4846408
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4yRXFKbzBQakpEZTBMaF9tQklnNnd6OG1lWEo2TzRoMlA4NE9HMWQ4b1VOclhyc3duWDh1Nnh4RjFQZkdUdHgyZk9Qc3puT3ZhMUlrM0dXZTJXNDUwVzhnZzhlOWJ3MG8?oc=5",
+        "headline": "[데일리 머니마켓] 일본 당국 기습 개입…엔화 0.22% 상승 그쳐",
+        "summary": "",
+        "source": "빅터뉴스",
+        "published": "08/01 07:55",
+        "published_ts": 1785538546.0,
+        "tag": "JGB",
+        "first_seen": 1785552485.8697116
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcUJLVUtjRDlVeDNFa3NYbTljYWtteURfaE5ITEVWdWs1TFdQUkxEUmlMVFloSER5RzZ2VFBRVDM4Z254ZDhObnk3b3pNekNuWEg0MWFUTFdCcS1FUjBTWlptc1RwY21ISWt6VERxSkZFSDJOVjRvUFUtUDlLdjJkWU01bkl6SV9rN2tZRw?oc=5",
         "headline": "Warsh Floats Fewer Fed Meetings",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785503727.0,
         "tag": "Global",
         "first_seen": 1785504629.720172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1Atcnh5NmNJU1REaEpBTGQ1ZnpyenJySnlDV2I0STVSSFpscklDTFNpcEFmLUw1U2xhdk1ETVI4ejI0MnIyRzh0SUgxNEFta0lKR2pHZDJ2bnhtX1hoU1BJYk5EQlhwcVB3NzV3b1NISlJ2cUF2XzVXMGMwMGZMMG9UcDBqem5WM2V3dTNpN3VPVTRnN243TXVFelpJLUk?oc=5",
-        "headline": "Trading frenzy builds in hyperscaler debt and CDS markets",
-        "summary": "",
-        "source": "ifr-logo",
-        "published": "07/31 22:13",
-        "published_ts": 1785503616.0,
-        "tag": "Global",
-        "first_seen": 1785546176.0129213
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 11:30:55",
+  "updated_at": "2026-08-01 11:48:28",
   "yields": [
     {
       "label": "3년",
