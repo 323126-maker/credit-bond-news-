@@ -866,6 +866,16 @@
         "first_seen": 1785454230.5316412
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5uYVJsZlI2WHpwMDZTUF80eTFVRXB2cDFFbkplQkg0S3BTaFByc3d1cWZERUZwcGtuRzZpMmMwUnVqcmpYaEtZeDFPLUQ0Rm40ZHFaSkdjR2rSAVRBVV95cUxNWHNUUF9wNGV2Q3B6dG1CeHFfN1hPemdESEF5UkNESWdzRFZyamlIbTduZlFrcER1YWlPMENoaEF5d2xiY01OSWp5TlF1dGJvd3g0QlE?oc=5",
+        "headline": "한은 “불확실성 확대”… 8월 금리 인상 힘 받나",
+        "summary": "",
+        "source": "세계일보",
+        "published": "07/30 19:50",
+        "published_ts": 1785408600.0,
+        "tag": null,
+        "first_seen": 1785602789.7024975
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1CUW4xVTNGSUtqN3RJeTZjX0k5UFlFTGE2TnRBNEgzWmVSU3RUdjFQdVdwYVdxQURnbFNoQkV4dmlMQ2ZPbVVZM2JRMmxPa1Y5SC01NUE2RQ?oc=5",
         "headline": "금리 묶은 美, 증시는 하락… 한은, 8월 추가 인상 놓고 ‘고심’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785131062.0,
         "tag": null,
         "first_seen": 1785132041.6908324
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcDhXSVpLMnU2N2lUZ1NUV25mVVBBQmpSemVDYVdtQlNwN05nbW1HSl9LMmZKTHE3VEFKZTQ0cFdRQnRLNEJzZHRIQlVOM21kTVlBdmZVbmd3d9IBVEFVX3lxTE9NOGRsX2RiRlJPQTFOX09PTVBULV9YQkt5WVdWVFB6Q3VIaUk5SHpETTUtX2huZzVNZUZwNnRtNlpwQkEwcC1jcmhlVVlSN0VkMkN0aQ?oc=5",
-        "headline": "저축은행 예금금리 다시 4%…조달경쟁에 수익성 '경고등'",
-        "summary": "",
-        "source": "더팩트",
-        "published": "07/27 14:04",
-        "published_ts": 1785128670.0,
-        "tag": null,
-        "first_seen": 1785137432.8370583
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 01:32:18",
+  "updated_at": "2026-08-02 01:46:51",
   "yields": [
     {
       "label": "3년",
