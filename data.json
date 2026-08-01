@@ -1278,6 +1278,16 @@
         "first_seen": 1785447030.9747224
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1wWnZjYjVXN3o2am9MWjJxNEtGcEU5VmNTUU5DLUFkMjl0ZlMtQmVnU1hsV25EdThUV09XRHBXWGUtQVdjZUlMU0xmNmcxUUdpVWFBUW9GeEJWcURYQU1uMtIBYEFVX3lxTE1wWnZjYjVXN3o2am9MWjJxNEtGcEU5VmNTUU5DLUFkMjl0ZlMtQmVnU1hsV25EdThUV09XRHBXWGUtQVdjZUlMU0xmNmcxUUdpVWFBUW9GeEJWcURYQU1uMg?oc=5",
+        "headline": "연임개헌 논란에 박홍근 \"불가능…대통령 국정에 부담주는 발언\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "07/30 10:44",
+        "published_ts": 1785375887.0,
+        "tag": null,
+        "first_seen": 1785616307.126961
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GbV80SENJeTdGNHE0THFpSVZnbU5SYTRURmhveTBwbUc5RlptU3hfbk5kZXF2STNoVi11Z1BDaGZpSmxMUHB2eVZZZEZzRmNGM2tUaE50eTZZX1l4TDVvaUQ1dGVEb1EwYjR2UkRYMmM?oc=5",
         "headline": "국채선물, 워시 비둘기 발언 부메랑에 하락…10년물 18틱↓",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784774971.0,
         "tag": null,
         "first_seen": 1784907925.2108645
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85SG9RSXRjTWxwdGNDSEYycWRZWUF4RXBIYVFVZTVTVEgwanhYNjE1YndvYlBHeXhwYXpkOUQtNldjM2ZUQ3hCOXd6WjhuVGlJUlJWSjdrelo0UdIBWEFVX3lxTE9rTERVeDJJYlVMS1N2OUM4Q1UxZlFTVDU5c1gxMWRNWGRsSWtHSEtpcG80XzB6X2JiVVhhVkd6VTV0QXZDTjV4bFplTzF6QW84TVMxTmJEa2U?oc=5",
-        "headline": "국민들이 꼽은 부동산 쟁점 초고가 1주택 혜택제한·실거주 요건 강화",
-        "summary": "",
-        "source": "아주경제",
-        "published": "07/23 11:34",
-        "published_ts": 1784774089.0,
-        "tag": null,
-        "first_seen": 1785032130.3298616
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 05:15:44",
+  "updated_at": "2026-08-02 05:32:10",
   "yields": [
     {
       "label": "3년",
