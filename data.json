@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2VxZGRPZWdWd0p0YWF2emZMemg4ZTZFbDYxUDhRWkh4WTJneWU0NnpENUV4N3BvOU1xZ3VBMWZ6bG5zWXR3RE9yM0xiMmJzS0M2alA5NEVjUG9YajBxNzZ5UTRuREZsc3YtbVFHN3BMWE1sMWJvdVUtTTl6YTd3WFVCb1VrM2F6S0lPQUV4eEhVY0tQd3NTSVJJeEJRS041MmpydDd5NXNsTEVHSE8zaXE0Ym9GS2F6cHk5V0Y3Y1FpY0xQbFdJMQ?oc=5",
+        "headline": "Is the Fed Becoming an Even Bigger Black Box? Warsh Wants to Reduce Number of Meetings",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/01 23:29",
+        "published_ts": 1785594579.0,
+        "tag": "Fed",
+        "first_seen": 1785595612.3761923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWZZbVRkX25TanlJdlFnYmxoU0FOOW0tRGh4MTNyVTI2QW9EUEFNcXo5dl9RZFZwamlCaXJmZTdRdFpVWE1WckFoUzRoQ3oyNXoyTXl5WWp0VUFsX2NFcG9pMk5QSFM1dElLNkdQbl85OHJCTjBaS3lZeUxzMkhGb0tvVmVaMHdxaGtlVk9JVXgtcmxEZlV3ck02WUZkVXM?oc=5",
         "headline": "Bond sell-off signals need to maintain credibility, St. Louis Fed's Musalem says: FT",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785517289.0,
         "tag": "Fed",
         "first_seen": 1785525326.921118
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRG04Tnk0YXdKLUJISUl0VjJJM201RmVqZXZhbUVtdEc5T01UbV9yNTFKbk50QV85S3d1UWx5T2tVWEp2bC1BVnBpTG9iRnlNdlpOajVPdE9xNGxTcGtVYzhhcU5td1pxRTZXUUpFZHo?oc=5",
-        "headline": "美 재무 \"BOJ, 통화 및 금융 안정 향한 강한 신념 보여줬다\" (상보)",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "08/01 01:42",
-        "published_ts": 1785516127.0,
-        "tag": "JGB",
-        "first_seen": 1785573026.2586057
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 23:30:58",
+  "updated_at": "2026-08-01 23:47:17",
   "yields": [
     {
       "label": "3년",
