@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQM1BBVEhDUUx1RF8temU5bFowRURwZDNnNDZDU2ZnamNsbEpNeGNSbEFkcE8wV1ptdWtZYnlPYmdKODNrTjZzbWczYUlCTXpheHhGZU9xMm1NdFhVYVhZNy10Si1CS1NYSlJhb0IxWmxYY0JaWTFWaFpaRjZ5NE9fUFR4RmRpV0pGUUhRelhfTVN1SEFubnN1UHhQaWFPUjU1WGJEeGk4VFBZT19vVnp2cUVqR2xHVzRsUk1VZXhnbjZMSXl3cXdHdw?oc=5",
+        "headline": "The 'Fallen Angel' Bond Fund Pays 6.5% and Has Beaten the Biggest Junk Fund for a Decade",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/02 02:07",
+        "published_ts": 1785604074.0,
+        "tag": "Global",
+        "first_seen": 1785604631.191546
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2VxZGRPZWdWd0p0YWF2emZMemg4ZTZFbDYxUDhRWkh4WTJneWU0NnpENUV4N3BvOU1xZ3VBMWZ6bG5zWXR3RE9yM0xiMmJzS0M2alA5NEVjUG9YajBxNzZ5UTRuREZsc3YtbVFHN3BMWE1sMWJvdVUtTTl6YTd3WFVCb1VrM2F6S0lPQUV4eEhVY0tQd3NTSVJJeEJRS041MmpydDd5NXNsTEVHSE8zaXE0Ym9GS2F6cHk5V0Y3Y1FpY0xQbFdJMQ?oc=5",
         "headline": "Is the Fed Becoming an Even Bigger Black Box? Warsh Wants to Reduce Number of Meetings",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1785572340.0,
         "tag": "Strategist",
         "first_seen": 1785583831.3021584
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOV19pcUVhRnhEZndDRE8wN3Z6NzhVRnlfU3RYSXJGekRnSnltbjQ2N1BGOGZ1MFZ6TUIyeGlETkcxaVI4X2hLZG0zOFMtZS1uU0lPdWt2RGJsWE1KbEpGMGpMWnRwV05pVDhUcGpqODRCa3ZGSFExOFFMRHRPSlkteW56ZTQyX0huY3E2dlVoRjk?oc=5",
+        "headline": "The 2 Major Forces Driving Growth Stocks Lower",
+        "summary": "",
+        "source": "Investing.com Nigeria",
+        "published": "08/01 17:09",
+        "published_ts": 1785571796.0,
+        "tag": "Global",
+        "first_seen": 1785604631.191546
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTWFnNk5JcVQ3WUM1T1Y3NmRMT0JuckNvZGk5VS1Gb3MyYnM3LW9ybHNiTFJianM2YVhqRkVNaFNqMWhxZXJDbFZINlVQZTRNOGhkZEhUTkNwOS1YdkNWZTZsTG9jTDBWTnJDZnY3dFhvanVmUnI5R0p2VGNlU081T2drUzR3RmhSdXUtaU5CaC1hdWVZbDlfeGdB?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785517563.0,
         "tag": "Global",
         "first_seen": 1785518213.0399537
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYmJfVkFVelJHWW96d1dXdm44X2I2eWlWMkxGN0FUZFZKTFdCVUd4VE1WZjNHMTB3Z2Ywb1JRVjZPS0Q4YjFCR1ROR2hDaFdNRldqQTdreFR0QXhwUGpwSmFoUlpWOXMtTEx2UVNEOU1SWklHZVRmZ3dLT2p3ZWZmMjRaVTV0RUZQdFZ3YUpfd0Nvc0FFMmc?oc=5",
-        "headline": "Japan’s Bond-vs-Yen Dilemma Could Shake Bitcoin and Crypto: Analyst",
-        "summary": "",
-        "source": "CryptoPotato",
-        "published": "08/01 02:03",
-        "published_ts": 1785517380.0,
-        "tag": "JGB",
-        "first_seen": 1785519932.8549972
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LUENGVXdwODkyY3NGNk5zbzN0cl9uWkpUYTZka1YzV0tBazlaZTdUUkhkcHpfTlNZMVp4TzNySVg5NEUwY01GUmt3TXZaZFVwTnBWQkxua0dzLVZkMWxHRE1ZZFZEQldHek5hN1BJLVc?oc=5",
-        "headline": "Warsh goes blank",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/01 02:01",
-        "published_ts": 1785517289.0,
-        "tag": "Fed",
-        "first_seen": 1785525326.921118
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 02:03:11",
+  "updated_at": "2026-08-02 02:17:35",
   "yields": [
     {
       "label": "3년",
