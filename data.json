@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVZvUTZaMHdvcmFxRDNzdEJlcllyRUFXbzc0YjhfUFVGaTVLZnQ3NXMtLVhlODhBOVhLS2Y0RGJuWGVyWHZyTDBXdHhERno5ZU1mSWZrUElaQ1BUMUpQNm90MmlaTVVuVFJjSG5sRXplRGp3TDUyLXZOZUhZNDU0Vm9mWWZtak1LUUlKMDlRZHpEM3dBUTlnSGZRblRBc2xWSkY0STZZMA?oc=5",
+        "headline": "Kevin Warsh talks a big game, but this market indicator will tell you if Wall Street trusts him",
+        "summary": "",
+        "source": "Fortune",
+        "published": "08/02 05:27",
+        "published_ts": 1785616020.0,
+        "tag": "Fed",
+        "first_seen": 1785617214.334509
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQSjRnamQ2S1NINjgwbEJndlV5WUZPZ2laZDd3MXBJMWJnWjAtc2JNeVRVd0g2eVNnRmxvRlJkYkNUTngyM0JSa0xZdUhzMk5NSkN1QjV0UlAtTEJrZ1VCb2Z4Y1VjR1liU3RtYUtEVHE0Yi1EVjJ3VnBVdml0ZC1SNzNDLTV4SVp3M09XV3hPb2FrV1ZPTGpoQjRkb0pNbWZSTUk3QXJ6eXZJUDFRY09TQ2xkX0VNeTZoUnhSLTdib0xXMlgtcldtVFVJeWYxU2M?oc=5",
         "headline": "Most Income Investors Have Never Heard of These 3 Bond ETFs Paying Over 10 Percent Monthly",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785528140.0,
         "tag": "JGB",
         "first_seen": 1785565012.6961558
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVFd4MjJlY3ZBbmtITThJSG1TMFd4SjBXZ1MyLTVtVVRUMDYxaVEyNHhpMDRkZTZaaW9EekNQb18ydWVlSDRjSXB6M1A1amVpZ2tsQ1M0Qk9wWWdQTFY3NFVCRFpVdjRsWGZYZDRWY0ZfZ0JzNjJmeU1INDA3bF90d1pFUGtwQknSAYwBQVVfeXFMUGswaXg3a0FsZ215TXpjVGFva0Q4STVQRnJYX1JYMHFJam5EY0pwekd1RkI0eGhoVTJ3UXNLS2tjNWJxYVhoWlUtTGd6NDRweWt0ZUJ0V0QwTTJCRWlDSEVKZGxKbnVpWnVoWENPWl8tOFc4SmJVUUhDUmhiREZjYnlpU2cyMlNLWU81c0I?oc=5",
-        "headline": "Analysis: Markets heard a dovish Kevin Warsh. The Fed chairman's own words suggest a rate hike",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/01 03:16",
-        "published_ts": 1785521778.0,
-        "tag": "Fed",
-        "first_seen": 1785523026.394249
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 05:32:10",
+  "updated_at": "2026-08-02 05:47:18",
   "yields": [
     {
       "label": "3년",
