@@ -72,6 +72,16 @@
         "first_seen": 1785485722.4072773
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE12U1gyUE5XU0xYOTF5aEhDWXB1Ni1ONzRTWHJaeEx2VFdWcV9pTDEyRzEzdTNKMEV0ZUhISnJNR2dwb2pvU0FrY2sySnZIRmQzVWViWE1heEdfYlZhMU81OA?oc=5",
+        "headline": "국고채, 美 금리 하락·외인 매수 속 강세…3년물 연 3.758%(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "07/31 17:03",
+        "published_ts": 1785484997.0,
+        "tag": null,
+        "first_seen": 1785550532.328978
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Eb0RQTHcxbmRnN2ZhQnUwZWFrTS1kY2pHcV96RU9XQmJsbnhLeW9xLU4wWndrc2paMmY3V1pOam9DTWgzQ3pqLUJ3T0d2bkoyelhHZThubVdzQU5YTXpRdTEwbWNvcXpPbjd4S01fUC1XQQ?oc=5",
         "headline": "[채권-마감] 금리 급락…내달 국고채 발행계획·WGBI·환율에 환호",
         "summary": "",
@@ -180,6 +190,16 @@
         "published_ts": 1785456652.0,
         "tag": null,
         "first_seen": 1785457836.826539
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XZ2hNeWlMYzQtRTRFanF0MkpXRUZPQUNxbFRSdzVPWFg0VElMUUVtaHNNdUF2MnNiZVFpSWxuZUg2YnZTRzhCWDhrazF4dVQxYS1FYmxTTzNMbXd1OUNlN0R5eWxvM2NOZ1FQNDRJa0PSAXRBVV95cUxPTkZKMjVJZEt4b2l2b3RTQ3FQY21LYnJ1NWR6dk1tM3YtR3NFbVg2Z3RlLXFkeXdxRVByUERoOEZlR3JFeHptUjVsYm5DRUhlVVNIWGlqVGd2ckhmOHBwYmJyZHEtUmpMbGk4RzFWTVhxaC1ORg?oc=5",
+        "headline": "달러-원, 1,418.00원에 급락 마감…작년 10월 20일 이후 최저",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "07/31 08:02",
+        "published_ts": 1785452523.0,
+        "tag": null,
+        "first_seen": 1785550532.328978
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQamQxZElQcFNURTZnZEtCN2xjOXBGa3BsU3ZWX1ZxWFpKM3UyQmhuSC1XU2c0SzVodTlENnEyWVhTNjBSNUI2bHlHOFlDaHhmRHk0R3VLUEQ0TjhGa0hBbWotQ1RaejBQaG9XazZ2S28xZnd5N3VhU0tjUk0yMFdENVg1WU5iQ2ZZa1UyTnVEdDZ3UXJQQTdNc3RDUVBoeDRDYkxIbUF1eHZKNlBTMkMwZ1Z0dmNuZ21IT1RHbnQtNmtCaFFzdlhlTTRqRlMwb0VOdEpvd0NYV0hlRXB2Nmxib3E0NXNSTlNRRjhybm5B?oc=5",
@@ -378,26 +398,6 @@
         "source": "이투데이",
         "published": "07/30 17:12",
         "published_ts": 1785399120.0,
-        "tag": null,
-        "first_seen": 1785400238.1899426
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ycnduOGxxUUZzQjk3TllrV0dXbkFDX1VQdEFwWlpfYmFxUDRHaHVmZ2dYcWw5ZkFWdlV3SlJfWVB4LV9pQmpuUDdpdnNnU0MzUFl3YWpWMG01RmJKbXE4VEZVQ1FjdmZfQTVYQlMzdEI2UQ?oc=5",
-        "headline": "'54조 큰손' SK하이닉스 운용역 채용에 여의도 들썩",
-        "summary": "",
-        "source": "마켓인",
-        "published": "07/30 17:10",
-        "published_ts": 1785399047.0,
-        "tag": null,
-        "first_seen": 1785491123.7793736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uZG5fOEZLeGVaXzVZNTV4RlRMZl9NSkRnZ2QtS1ZTTmNWaDBFNlV2U3VMWGVkbkljWi1WZWZuSTl1Q0h3cHpoTzNpeUlFUFFWODRpT290Z0lqQ0Z1Ry02bjhmODFQckh0eVVCMndZT2xHV0FrMndn?oc=5",
-        "headline": "롤스로이스 주가, 오늘 급등하는 이유는?",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/30 17:06",
-        "published_ts": 1785398760.0,
         "tag": null,
         "first_seen": 1785400238.1899426
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 11:03:08",
+  "updated_at": "2026-08-01 11:15:56",
   "yields": [
     {
       "label": "3년",
