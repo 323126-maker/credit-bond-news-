@@ -122,6 +122,16 @@
         "first_seen": 1785487521.4013884
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE94ZnJMNHZCMmRHLXFQWVhKcUdOcDVHWTYxYlpLak9feE1GQmk0YlQ1VGszamZDUFRxTjBXeFY4NUpDTXhwNHpTOG9zbFU4eFd3VF9rZmVvQk1QZ1pMa2djbU0yaTduNkRtMDgyZFpwU3cxaFk?oc=5",
+        "headline": "국고채 금리 일제히 하락…3년물 연 3.758% 마감",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "07/31 17:09",
+        "published_ts": 1785485388.0,
+        "tag": null,
+        "first_seen": 1785627598.5221415
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dXkwZWw2QWZ6VnUwRHdLWkE5SUxaQW4ybFZFZTJhdEFBN2pHVDJ3NDQ5RE9KRnFVcTZYU2xFSTdrem4yRU5CTG1pU2phbkk?oc=5",
         "headline": "[채권마감] 10년-3년 금리차 50bp 돌파 ‘4년4개월만 최대’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785437820.0,
         "tag": null,
         "first_seen": 1785438931.3602726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05NU1jRVN0eWJoZEFNUHhPNmNSZDBZUmJZUUs2V2xBTDNYNkliMmt5MmJvYU1NSUhyMGlWMW1RTktvSnV1eW1ZczJjWmxiOFpaVVg0Y2hKRVhXZC1KNXpjTDhvSGllRkpmTklZdl8yZU1laVNQ?oc=5",
-        "headline": "Piper Sandler, 휴매너 주식 등급 상향 조정... 마진 회복 전망",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/30 22:30",
-        "published_ts": 1785418200.0,
-        "tag": null,
-        "first_seen": 1785420036.3739824
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHBuc0tNMGQycHdBS2dLRVN3dVN6TXA4aUtFUWxQNHhMNGZadXBRSE4waS1iakNyR3VJYl9MVF9nVWo4dmUxcnZZVXBtbUI5clBYRVlqWDVxbEJNRWZ2ai1JZG9wZTBYUDYyckF5ejNPWVJyaFllTXA3NGIyZXBHcHJzNVBhdlVlRFRqN3lR?oc=5",
+        "headline": "Federal Reserve Chair Warsh Seeks Fewer FOMC Meetings",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/02 08:37",
+        "published_ts": 1785627421.0,
+        "tag": "Fed",
+        "first_seen": 1785627598.5221415
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SZGowa2toeGFXeXZCVnlaazNDVEFscXdCVkpwSzBQQjlTU1V0TlQtSXZ6czNoUmpCdkxhZjhmVF9xV3lReTNORjZRYzU1bURVUTZFbF9GTERqZw?oc=5",
         "headline": "엔저 막으려 165조 쏟은 일본…美재무장관이 금리까지 압박 [최만수의 재팬 인사이트]",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/01 06:25",
         "published_ts": 1785533130.0,
         "tag": "JGB",
-        "first_seen": 1785533556.636548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPR3dFSGpMejIyS3lpcXB2ZWlReXNqQzNzbW1ZY2FFdkdEVUpVTzNxX1pzZHBFQkwtMzVSY0VEZ0RTMXQ1NkZ2UnRaZmdBdWdTWmNUN0pzTXBNNk5zQVc5SFphS0VBWktIRlgxb1pUb0VSYkV5RUsxV2h2WjhIVGhOZnhfNmduUQ?oc=5",
-        "headline": "Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "08/01 06:23",
-        "published_ts": 1785533008.0,
-        "tag": "Fed",
         "first_seen": 1785533556.636548
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 08:33:03",
+  "updated_at": "2026-08-02 08:40:19",
   "yields": [
     {
       "label": "3년",
