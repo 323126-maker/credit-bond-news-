@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPU0J2VF9idDczQWpUNlVyMmx1RjVkOGJVLXBZcFVQMmg1WXljMGVwb3VYWHJRR28xYzhqQ3MzZjlRZjdGUmt0UEZMYWZhdTY3Mi1fUXNOZkUwei10dDVPWDdmZFRFd29vUTZJSkl4cVNOS0JFd0RJTWFyU3BvNTNiYy1xWTc?oc=5",
+        "headline": "Why South Korea’s won is one of world’s best performers",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "08/01 11:10",
+        "published_ts": 1785550246.0,
+        "tag": "Global",
+        "first_seen": 1785555925.377824
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZHNoQXhDamhmal9nN3JOYWl5RUJUNkJURjl4em5mWDU2V2VPLWVvQktGUDIybVlUVUdwcWEtTWZ5bjNJMkFSWEt0UFFuUkpvWGxxLV8zU3Rjb2xCRkpBRlFDMjhKOGI5N0p1cnhIV3M2Zk9rV0k0c0ctWXU5OUtmaXBWMVFpSm1rYUd2OUUwNm1OZkpqZTh6Q25aVURid0Z1UFRodGtWSFJxcWtqeGdhcjRHOWFBNld0ODlPTUlzbHU0SEFYT0ZvSVRB?oc=5",
         "headline": "FIFA has scrapped $20 billion World Cup sell-off plan, New York Post reports By Reuters",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "07/31 22:21",
         "published_ts": 1785504060.0,
         "tag": "Fed",
-        "first_seen": 1785504629.720172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWVBqQ1ktWVl6Y2RuaUMxOWR0WlFsanMtcVFYLXN6bVlORzQwU3lTbEx0SGNjaWNXLUhiVk9hUC1IdzU0cEg0QnZBRjNoNkRFWWs0Tll2Y2xJSlM0dDRMYkNyRmU2Sk12QXBreTktaWp5dVZhSXhSMFFXVDBSaFJrRkZlR3V4dlhQcHgzeXBTc1JKeldiZElCRGZtWDlwdGFjRXY5amhoRF9faU0tRGQ3V1JFR291Y0dNbkpUWGdvRlMyWHU2X0xMX1M5VHBPbkxPbFJ1dHREMk92M0s1LTg0ZXVaamRwSUU?oc=5",
-        "headline": "Debt Outlook: August to be driven by RBI, oil prices and global cues; fund managers prefer shorter-duration bets",
-        "summary": "",
-        "source": "Cafemutual",
-        "published": "07/31 22:15",
-        "published_ts": 1785503727.0,
-        "tag": "Global",
         "first_seen": 1785504629.720172
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-01 12:33:12",
+  "updated_at": "2026-08-01 12:45:47",
   "yields": [
     {
       "label": "3년",
