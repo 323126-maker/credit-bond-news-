@@ -886,6 +886,16 @@
         "first_seen": 1785577632.223471
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBPdlpaTmZjc25DSERjQWl6R2xUaVBMRGZDeGhoTk9IMHJ3MnBfdnlnTWVtUHpBbnFtVldZZHN0dWUybUlKSEo0OWkwZnVXdGFnd05hY1RzOHU3NDVhYmFCRlFVRkIyWkg4?oc=5",
+        "headline": "IPO 한파에 회사채 위축까지…증권사 IB, 하반기 더 춥다",
+        "summary": "",
+        "source": "녹색경제신문",
+        "published": "07/31 20:21",
+        "published_ts": 1785496863.0,
+        "tag": null,
+        "first_seen": 1785693632.9523296
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1Famg0WW4ybjkwcjNxZmNVZWVoOTNSeEI4ZzktVkVjQldKUXpjNDd0ZVZGU1Y0MG9LT1NkOUNWRHEzN3U4WXNSX0FHUDFlMVJOWE5B?oc=5",
         "headline": "국고채 금리, 美 국채 강세·외국인 선물 순매수에 동시 하락",
         "summary": "",
@@ -894,6 +904,16 @@
         "published_ts": 1785486420.0,
         "tag": null,
         "first_seen": 1785487521.4013884
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE56dXkwZWw2QWZ6VnUwRHdLWkE5SUxaQW4ybFZFZTJhdEFBN2pHVDJ3NDQ5RE9KRnFVcTZYU2xFSTdrem4yRU5CTG1pU2phbkk?oc=5",
+        "headline": "[채권마감] 10년-3년 금리차 50bp 돌파 ‘4년4개월만 최대’",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "07/31 17:07",
+        "published_ts": 1785485229.0,
+        "tag": null,
+        "first_seen": 1785693632.9523296
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zVlZQWGNoSFNIclRCcDgyRXdjSUVkejhEN1ZuYjkyMjNvTnRsMFUxcjl4UlVKdF9RT0kxSnhhc04za3BJSmszR0hQZnpMNmxvbDRiZUZycmY2SlU?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1785329075.0,
         "tag": null,
         "first_seen": 1785332724.4049408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15c0FMZmRLN1d2d3MteWlSX05tRDRDVXJlWS1xcDBQbDZ6cFMzQ1QzaHh4UmVlYzRQSm9sWmYxemdxaTRpTHhqSjNHRFBYOHJZeV9KNWhkZ0dEdWVzN2lEZGhlUW5SWjBoNTNr?oc=5",
-        "headline": "여야 한목소리로 금융당국 질타…'단일종목 레버리지 ETF' 후폭풍 확산",
-        "summary": "",
-        "source": "충청메트로",
-        "published": "07/29 20:45",
-        "published_ts": 1785325541.0,
-        "tag": null,
-        "first_seen": 1785326444.0742993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnTllwNmVVcVZSTmNTYnBhaW9vRVhFcDRfbk1ScGtEeldyMzh2UDRkQmxKNW9DNzRDdWo1MFR0aWRUYzBRSDZYLUEzSGQ0LWlVV2c?oc=5",
-        "headline": "與 \"대책 발표 늦어\"·野 \"선거에 졸속도입\"…정무위서 ETF 질타(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "07/29 18:08",
-        "published_ts": 1785316082.0,
-        "tag": null,
-        "first_seen": 1785317434.9862418
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 02:45:52",
+  "updated_at": "2026-08-03 03:00:56",
   "yields": [
     {
       "label": "3년",
