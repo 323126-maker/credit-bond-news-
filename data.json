@@ -372,6 +372,16 @@
         "first_seen": 1785590223.131149
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTHo2aFNyTFpUOEhuSUg5ai1YNkJXRTEtSGFDZHg1WGROT2VudWZFZnBFandEWU1JQXRXZ195b1BLREJTTUNjc3Y3TTJpd24yUExhNThzWmwya1FjeFZtUTlEaDFGN0NRZFEtb3lSbTY5Z3pkSE1kaW9wZGdsdDZsWDJzQWhNUWxKMXFSXzdNNklXdENL0gGUAUFVX3lxTE1MejZoU3JMWlQ4SG5JSDlqLVg2QldFMS1IYUNkeDVYZE5PZW51ZkVmcEVqd0RZTUlBdFdnX3lvUEtEQlNNQ2NzdjdNMml3bjJQTGE1OHNabDJrUWN4Vm1ROURoMUY3Q1FkUS1veVJtNjlnemRITWRpb3BkZ2x0NmxYMnNBaE1RbEoxcVJfN002SVd0Q0s?oc=5",
+        "headline": "JPMorgan Chase (JPM) 메타 데이터 센터 123억 달러 채권 주관 맡았다",
+        "summary": "",
+        "source": "simplywall.st",
+        "published": "07/31 15:02",
+        "published_ts": 1785477745.0,
+        "tag": null,
+        "first_seen": 1785704443.7354147
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdUl6TW43ZTdlT0pQYjJjYVZ3bzY3YS1ILUxEUGpYbUFsOXBVeDh6bG1UbTNqclp1SExLY2p1SkE1YURoTjBmTDY1WUVVdzBpcVY4?oc=5",
         "headline": "'채권시장 큰손' 하이닉스 채권운용역 채용 공고에 시선 집중",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785474000.0,
         "tag": null,
         "first_seen": 1785486629.6591024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FSlZJSDY5N0JGNUpPS0t4ZDJ6RmNETXVmVXNEWTBpeno4RXEyUE9vb1BKdTBlNDRpLVBEVGNBM0VVWF9NTUFoVzFpODFnYzdiWEZn?oc=5",
-        "headline": "워시 한마디에 美 국채시장 '휘청'…연준 신뢰 시험대 올랐다",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/31 11:13",
-        "published_ts": 1785463980.0,
-        "tag": null,
-        "first_seen": 1785465030.8688495
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 05:45:53",
+  "updated_at": "2026-08-03 06:01:07",
   "yields": [
     {
       "label": "3년",
