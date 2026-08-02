@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9NNkZRMUNSX0tOeE4ySHg3U0pDODJZSURhc1FIdlZ2cHRGa2hya0l4TnJOZi0yWnlaLUprSDBkbm5rSGlZYmRpUnRMN29QWnF3SXpvNg?oc=5",
+        "headline": "Ok 캐시백 수수료 에 대한 완벽한 가이드: 초보자부터 전문가까지",
+        "summary": "",
+        "source": "pekergyo.com",
+        "published": "08/03 04:10",
+        "published_ts": 1785697841.0,
+        "tag": null,
+        "first_seen": 1785703531.7926078
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4ybXJ4X1Z6bXp2Tl9mbngzTXdQQ29VRXhiUFdQaGFJMGQwYXpzeWMtNFdSeW9qa3lzUm1LZVA4T1NGMnhhY09zc1JiOFZhQ1ZoT05KaXg2UTJjVmJpOG9hStIBYEFVX3lxTE4ybXJ4X1Z6bXp2Tl9mbngzTXdQQ29VRXhiUFdQaGFJMGQwYXpzeWMtNFdSeW9qa3lzUm1LZVA4T1NGMnhhY09zc1JiOFZhQ1ZoT05KaXg2UTJjVmJpOG9hSg?oc=5",
         "headline": "李대통령, 순방 마치자마자 부동산·증시 점검…3일 비공개 회의(종합)",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1784778720.0,
         "tag": null,
         "first_seen": 1785032130.3298616
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12Uk1LRHAxWWdFZ0RwLTE2YW1LX1ZXNGpVYVJtQ0dJXzloc29RQUNVUXZmb2N5QUJ1eTZVdExreVFGTk83MFFSZmhiR2NXTEpiOHZDZG5B?oc=5",
-        "headline": "“집값 낮추는 게 목표 아냐” 눈길 확 쏠린 이재명 대통령 발언",
-        "summary": "",
-        "source": "위키트리",
-        "published": "07/23 12:02",
-        "published_ts": 1784775720.0,
-        "tag": null,
-        "first_seen": 1784902528.5276232
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 05:30:52",
+  "updated_at": "2026-08-03 05:45:53",
   "yields": [
     {
       "label": "3년",
