@@ -1950,6 +1950,16 @@
         "first_seen": 1785579323.134243
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PVGFZZHZEdGpIektjYnBENDVEaUZtSFQ4c25rNUVKSXlMbU1kczRMekxsX2puVHMzZ3dNamZEaVdJOFF1dElzdnUwbVBZU2FMelBF?oc=5",
+        "headline": "\"워시 연준 의장, '1년에 8번' 금리결정 회의 축소 검토\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/01 08:31",
+        "published_ts": 1785540660.0,
+        "tag": "Fed",
+        "first_seen": 1785649523.1811666
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUlJuWU9UQlBuWUdqeXowNUhVdnpTTVMtb0hqRVB0X2dDNUNLbDBfd1k4eVB3T0VfR25sUjNDcjhZcVZwZXpOVnJCNkRieGE0MFBVMjBKc0xSZ251WDhnU2ZCczFBZlpXU09LQWZKenpPbFFCSGRuVUJldjZhWUZkUDhGZFk?oc=5",
         "headline": "Bond sell-off sent warning on Federal Reserve’s credibility, says top central bank official",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "marketplace.org",
         "published": "08/01 07:35",
         "published_ts": 1785537300.0,
-        "tag": "Fed",
-        "first_seen": 1785537923.9295766
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBJdEFSazVZaXRSclpDc2lYLTY2d2xZOGZaU1RxTXctOGlvM0s0TmcwZjdtTWJaY3FVZ3NValFvd1JOLUl6UVpRWEN4OGhjUVFsbUExU2NSazQ2aTRBUnVOZUlSTzhNNW82V1NidTZDMA?oc=5",
-        "headline": "연준 45년 관행 깨지나…워시 의장, 연 8회 금리회의 축소 검토",
-        "summary": "",
-        "source": "조세일보",
-        "published": "08/01 07:32",
-        "published_ts": 1785537138.0,
         "tag": "Fed",
         "first_seen": 1785537923.9295766
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 14:41:53",
+  "updated_at": "2026-08-02 14:45:44",
   "yields": [
     {
       "label": "3년",
