@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wTFZIS0d6YmRRR3ozRlAtc19HblFpYmN0MXZfMGNJMG15VEpweUtpY0Vjd3FHMXNlbXhOMFBSTEkzQjVmT1pTcVRvcFVmRlYtVGJoTFhkQmVtX241Y3J4SEctcVgwOVZBWU8w?oc=5",
+        "headline": "삼성화재, S&P 신용등급 ‘AA’ 상향 조정",
+        "summary": "",
+        "source": "라이센스뉴스",
+        "published": "08/02 15:04",
+        "published_ts": 1785650684.0,
+        "tag": null,
+        "first_seen": 1785651586.999098
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9uZGQweENycnRfV0NGWTZyV3FlTElsLUpuc1M0U2lkUnV5WFVwVWFyaWFlcFZLZXN6TEhrREtDVktuTnhFcGt0V3lGX3FlQlZNUWhia1dWN1EtLXdwSE1xX2RvYkhUbmM1SW1fZmRsYkh3aVE?oc=5",
         "headline": "S&P글로벌 삼성화재의 신용등급을 'AA'로 상향, 한국 민간기업 사상 최초",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785451422.0,
         "tag": null,
         "first_seen": 1785560536.3153858
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uQzlTYl9QOWJHeUw5VElxOHEyU01fSTNLUFJGbkM5RWMzTzkxSFRCdHZPc3RBLVFucENBbi0yQ0hvYVVMRVM1cFZJTWFWQUpLdzFOQmxDOEZPcEcyM28zQkd1X1JVUGxTUi10ZWl3?oc=5",
-        "headline": "원달러 환율 1437원 마감 2월 이후 '최저'",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "07/31 07:42",
-        "published_ts": 1785451368.0,
-        "tag": null,
-        "first_seen": 1785619957.6799839
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 15:08:11",
+  "updated_at": "2026-08-02 15:20:14",
   "yields": [
     {
       "label": "3년",
