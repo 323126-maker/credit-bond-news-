@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ITDZHUlZHc2RocjQ3SzZqZjVCdnp3b2hNSVVYekVkUGFveUtkMVdPLUo0aUVfeVdWRGpadmphNlJUZWZ2YTdYM01oR29GTFlpaTZ6dm9vRThmS19YMjlWUWc2TXV1dktJbENVM1NadzI3TE1hUU9YMHRjN1E?oc=5",
+        "headline": "안정의 착각: 1999년 이후 일본 금융정책의 결정적 오판 [김성민의 일본 위기 딥리뷰]",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "08/03 05:00",
+        "published_ts": 1785700800.0,
+        "tag": null,
+        "first_seen": 1785701723.830317
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5KazNvSm1uN3hES2dSa2RpbjZVdGM2cVl4MXY3eXZRTk9rc01jOHZXWHUxMjE5T3Y5cHBtQjVwcFA3bTlOYjE3QjhYdmF3UXhiYWF2LUVWVnpvdnd2U1lCMkh2QktPYkY1?oc=5",
         "headline": "“하루하루 버티기도 버겁다” … 건설사 줄도산 공포",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1785463980.0,
         "tag": null,
         "first_seen": 1785465030.8688495
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hYXpSREJFVWl5SnBxVVNjRng0RjlTT0FIanNrb3k2Y1NIWWVhUjZfdDc0Q0ZucUMxNEZENmdiUnN1Wm5vRWlmV0xLOUVQZjFoOXU0UXNjNGJtbmNqdEwxQ2hRNmc0bEJmQWdPREQ2OS1EUQ?oc=5",
-        "headline": "코스피 불기둥에도 WGBI 수요에 거는 기대…국고 3년 5.2bp↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/31 11:12",
-        "published_ts": 1785463938.0,
-        "tag": null,
-        "first_seen": 1785623590.9039958
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XRGJfcDJqUjJ6Y0gyc052OFg3X0xNN1lxb0dKVE1nRHNTejRWMFZqZkoybmg4UDdXMFRrdXo5ZkU1LUpNeFpjUmRuWGZoYWkzU09r?oc=5",
+        "headline": "기업은행, 1700억원 딥테크 펀드 조성···AI·첨단산업 투자 확대",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/03 05:00",
+        "published_ts": 1785700800.0,
+        "tag": null,
+        "first_seen": 1785701723.830317
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCaU9yM2tlVGVxNmdQeXdzaF91X3NDRjlzQlhlRU1HLUZqZ0QzOXhkZ1pnRkZSbEtpQ3VqN3dPdFpqQzdmODRNNmpkbXppVEF1NXBuWjJYcFpTcnZpRlQ3TnR2ZC1rR0JXQzNUa2xiZ9IBb0FVX3lxTFBCaU9yM2tlVGVxNmdQeXdzaF91X3NDRjlzQlhlRU1HLUZqZ0QzOXhkZ1pnRkZSbEtpQ3VqN3dPdFpqQzdmODRNNmpkbXppVEF1NXBuWjJYcFpTcnZpRlQ3TnR2ZC1rR0JXQzNUa2xiZw?oc=5",
         "headline": "기본자본비율제도 도입 앞둔 보험사, 자본관리 시험대",
@@ -792,16 +802,6 @@
         "published_ts": 1785200040.0,
         "tag": null,
         "first_seen": 1785333637.1389012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5mOUVXQnJ4c1JzaTRrdGgtRTBJZHRWNWxxY2JXd3BXVDZ5T2xFTHllT3R0VGNTN2dQa1B1VHMtbTZfNlY3ckI2dE1ydGkxVndBb0E?oc=5",
-        "headline": "아틀란틱 유니언 뱅크셰어스, 2억 달러 후순위채 발행..2029년 만기채 상환",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "07/27 21:53",
-        "published_ts": 1785156819.0,
-        "tag": null,
-        "first_seen": 1785158126.2408054
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 05:02:10",
+  "updated_at": "2026-08-03 05:15:43",
   "yields": [
     {
       "label": "3년",
