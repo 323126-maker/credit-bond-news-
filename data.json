@@ -222,6 +222,16 @@
         "first_seen": 1785528168.5053546
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxTERQbkc3NmVqUm9Xb3hHTEFWczN1dHZURENka2xTUERnMFlZS291WjB6TVhhM3g0SmZxXzVCZ25xY0xaTGZjTHdMcVVJUWw5NGg3ZkFiMlVFNmNHZUdxeElnYm9vNExCOUZ6Zi1FZDFzYUloeUhZ?oc=5",
+        "headline": "채권 시장의 ‘경고 신호’에 따라 연준의 워시 의장, 인플레이션 문제로 어려운 선택에 직면",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/01 00:31",
+        "published_ts": 1785511886.0,
+        "tag": null,
+        "first_seen": 1785710724.2842052
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16elNnQVF3Um5ObjRTVUt4eGRtUlVnRV96U1l1dVlvWGdMdndZaHBaRXZYU1lkNWV5V3A4QTVRSl81dHlxdEFtZndFYW9SaDVuNS1OZW9VYWhramZuQlRiaVNHMl9CSkVNakxKU1V2RVM?oc=5",
         "headline": "헤리퍼드셔 캐피탈, A3 신용등급 유지, 전망 ’안정적’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785477745.0,
         "tag": null,
         "first_seen": 1785704443.7354147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sdUl6TW43ZTdlT0pQYjJjYVZ3bzY3YS1ILUxEUGpYbUFsOXBVeDh6bG1UbTNqclp1SExLY2p1SkE1YURoTjBmTDY1WUVVdzBpcVY4?oc=5",
-        "headline": "'채권시장 큰손' 하이닉스 채권운용역 채용 공고에 시선 집중",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/31 14:55",
-        "published_ts": 1785477300.0,
-        "tag": null,
-        "first_seen": 1785478521.7494798
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kLVBkZjh1alFQd1lNSk9wSmVseTlpRmowb0Fjcl80Znk3U3ZhTDBPVy1mTnRIaXZfSC1DZk1UNFpkTEw5S010a3pTRFpfc09NZWRFNktR?oc=5",
+        "headline": "[위기의 중소형사] [카카오페이증권] 야심찬 IB 출사표, 시장엔 '먹구름' 가득",
+        "summary": "",
+        "source": "DealSite경제TV",
+        "published": "08/03 07:30",
+        "published_ts": 1785709822.0,
+        "tag": null,
+        "first_seen": 1785710724.2842052
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tUkxTSmZVNGVFNFNXWU9iNVBKdU1KT0ZteWJycmNMVlNuVzdDM2draWxBV2dxZlU4Rk13OS1SNFJjclpVYkNWTjcxakZ0TzQ0aVlZaVZaeTNFZVI3OTlnaFdXOE1SckpDNEtveTI1dWVrU03SAXNBVV95cUxNLVJMU0pmVTRlRTRTV1lPYjVQSnVNSk9GbXlicnJjTFZTblc3QzNna2lsQVdncWZVOEZNdzktUjRSY3JaVWJDVk43MWpGdE80NGlZWWlWWnkzRWVSNzk5Z2hXVzhNUnJKQzRLb3kyNXVla1NN?oc=5",
         "headline": "증시 출렁이자 돈 몰린 '파킹형 ETF'…\"하루만 보유해도 이자 준다\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785364671.0,
         "tag": null,
         "first_seen": 1785366036.200535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5FWHdYNW94R2ZiQVVuWlMyUEJPTzJLNzVDZnFIcHZ4VmIyM1NySDMxSUcxamU4T0NyeUNFLTFfSTRIMlJId2ZMcTFEdDM1dU5OYWtianZudWRQbjVmTExPNS04ZTJONEJVUmUzUjJjUTNxQQ?oc=5",
-        "headline": "신보, 채권시장안정 P-CBO 모집…비우량물 조달 숨통 트일까",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "07/30 07:00",
-        "published_ts": 1785362400.0,
-        "tag": null,
-        "first_seen": 1785363325.4258883
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 07:30:51",
+  "updated_at": "2026-08-03 07:45:47",
   "yields": [
     {
       "label": "3년",
