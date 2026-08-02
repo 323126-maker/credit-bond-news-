@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWkg0Zl9WcklWM0k5RW1oUldoWjRNMG1QMDJwNjAyM09JSHg0dThLUG0yVVVNdFM4S0xwb0ExblVGbmFXWjZmSVlscDBQUmU4YndWenduOGJ5RmlPdFhZejIzaEVaS2RYYl9GWWhMOE1wUDNMYjEzZDRncnY3SVBzZXlZRkVPWU1wLUp3LS1wVjdxQnR1QWFLQUgzUFpHNkx4QTRhXzE2SC1jTFl0YkNZ?oc=5",
+        "headline": "What will Kevin Warsh do if America’s economy breaks?",
+        "summary": "",
+        "source": "The Economist",
+        "published": "08/03 01:12",
+        "published_ts": 1785687122.0,
+        "tag": "Fed",
+        "first_seen": 1785687331.904017
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNXZycWZQSENsdDc2NFNWdG5pOG5UTXdET1hYWnMxWFR1NTZCa2JWSFZLZi0xWkxDZTFScEttRm5UNDFfeXVra25XVEVUTV9iV1h1MjNUeEFyaTNvdWtCLWZCY2NPSnRoOUNBUTZUWlI0dWh3Q2paWnRUS3FDRnlVQjd6a051SHFJRGNMMU9oMjFJcnkxQktZd04wdWVpU0tET3hFVUxsYzRHUQ?oc=5",
+        "headline": "T-bill, bond rates may be mixed before CPI data",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "08/03 01:05",
+        "published_ts": 1785686748.0,
+        "tag": "Strategist",
+        "first_seen": 1785687331.904017
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejRDUmFPSl9sRDJJWmU0QURKZ01vSGFwbDFaQjYyd1B1UmZaZGNGcmdUWlRJU0hRM0RXUS0tUmN4VlVZUkhqSHNpbXhFVWRVelRoRXhGdm5MaWZERC16MERuLXE1b0p3b2g5Qm02RzM2UlF2bHFRYmdtOVN6b3QzU0R5LXhpOFdVd3lCb3JRZnp2c00tc2pQT2x2UmY1RWJsQmdTczhJbw?oc=5",
         "headline": "3 Fixed-Income ETFs Show Why Yield Is Only Part of the Income Story",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785604074.0,
         "tag": "Global",
         "first_seen": 1785604631.191546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQX2VxZGRPZWdWd0p0YWF2emZMemg4ZTZFbDYxUDhRWkh4WTJneWU0NnpENUV4N3BvOU1xZ3VBMWZ6bG5zWXR3RE9yM0xiMmJzS0M2alA5NEVjUG9YajBxNzZ5UTRuREZsc3YtbVFHN3BMWE1sMWJvdVUtTTl6YTd3WFVCb1VrM2F6S0lPQUV4eEhVY0tQd3NTSVJJeEJRS041MmpydDd5NXNsTEVHSE8zaXE0Ym9GS2F6cHk5V0Y3Y1FpY0xQbFdJMQ?oc=5",
-        "headline": "Is the Fed Becoming an Even Bigger Black Box? Warsh Wants to Reduce Number of Meetings",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "08/01 23:29",
-        "published_ts": 1785594579.0,
-        "tag": "Fed",
-        "first_seen": 1785595612.3761923
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSWZZbVRkX25TanlJdlFnYmxoU0FOOW0tRGh4MTNyVTI2QW9EUEFNcXo5dl9RZFZwamlCaXJmZTdRdFpVWE1WckFoUzRoQ3oyNXoyTXl5WWp0VUFsX2NFcG9pMk5QSFM1dElLNkdQbl85OHJCTjBaS3lZeUxzMkhGb0tvVmVaMHdxaGtlVk9JVXgtcmxEZlV3ck02WUZkVXM?oc=5",
-        "headline": "Bond sell-off signals need to maintain credibility, St. Louis Fed's Musalem says: FT",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/01 22:45",
-        "published_ts": 1785591949.0,
-        "tag": "Global",
-        "first_seen": 1785592938.369642
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 01:03:07",
+  "updated_at": "2026-08-03 01:15:55",
   "yields": [
     {
       "label": "3년",
