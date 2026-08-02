@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU3lQR01HSGpzLTQzeWh3QUthSXA2REFXa0hpY3ZpZ296Qm5PZG9IeHd6T2tybHprbkl3YWhydWJhb0UyY0ZoXy1pRmdFU2k4al9tdGdCdUJMenNrcjFfdnVuWEZELWhaR0dHNWZacXMweVktOXhzYXRLX3A3cDBRdlpNYVg1T1owdWFLOVdzVTZwbW5NQVBsX2FEMGo4ajRVczFnd29SUEdSR0UzaWV0RnJOSQ?oc=5",
+        "headline": "Bond Traders Flying Blind on Fed See Risk Yields Spiral Higher",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/02 23:00",
+        "published_ts": 1785679200.0,
+        "tag": "Fed",
+        "first_seen": 1785681926.8738928
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM3J2RVV5Mk1yZEZXMEhycHJVSHBac3BDYWtNOGQ4VTBxVUx1eDYxVUlnVTFaWE54WURuMVN6cFZ1cEpUVlI0Y2NpTmRrSDhIVkJ0czFxd3RJV2ttbVI3ZjMyMG1WQU5FbUhQMThwX0UzM2VGM0JDWm9YZTVZd3QtSVBDSzlFeVI3S1phc051UmZ6VzNjUDJQbTBUcHRIYmZ1VlRrSUhyQV9DYUxtZjNhOEJObW9fXy1icXc?oc=5",
         "headline": "Kevin Warsh & Christopher Waller Are Wrong, But For Different Reasons",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785577500.0,
         "tag": "JGB",
         "first_seen": 1785584835.7012355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50Vlp5YWxKQ3FmM3V1TkJSNDdWRkRnaWpWRW5WY2hEVHlMaGllQ2RMMzlNcnhBTHBab1czVE5KNjVucHB0TTh5blp0OGpFMDhwdnRDbmw0SEhzYVg4eTd3V2ZqQk4xWGxlS2xIbFptdDVTbkpUVkdIdzdtZFc?oc=5",
-        "headline": "Ray Dalio Says Bitcoin Is 1% of His Portfolio but Still Prefers Gold",
-        "summary": "",
-        "source": "HOKANEWS.COM",
-        "published": "08/01 17:19",
-        "published_ts": 1785572340.0,
-        "tag": "Strategist",
-        "first_seen": 1785583831.3021584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-02 23:31:00",
+  "updated_at": "2026-08-02 23:45:49",
   "yields": [
     {
       "label": "3년",
