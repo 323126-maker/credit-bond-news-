@@ -1218,6 +1218,16 @@
         "first_seen": 1785771036.257645
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA0djBzQnNVakg1dktiNEFnNVUza0dxN3VaWlRXMWhLUDJJbzZhXzNZMHRqQVlQejAxQ0lOLUE3M3hMUnlYXzZDMC1pWnN1RWg5Nl80R0ZoTlLSAVhBVV95cUxQNHYwc0JzVWpINXZLYjRBZzVVM2tHcTd1WlpUVzFoS1AySW82YV8zWTB0akFZUHowMUNJTi1BNzN4TFJ5WF82QzAtaVpzdUVoOTZfNEdGaE5S?oc=5",
+        "headline": "李대통령, 순방 귀국 직후 마라톤 회의…부동산 공급 속도 내라",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/03 23:24",
+        "published_ts": 1785767086.0,
+        "tag": null,
+        "first_seen": 1785771924.6092358
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYjZCby14SUdXNWxObjRjUVVZYWxuSkc4YnFHRHVWNWE0Qk1FQjBDbVprQVJhRmpIXzhQY1JwOWVvRFR2T3VXSjNyZkJFMklLOGpRdzMxcWQ1c1hPZjdZSw?oc=5",
         "headline": "이형일 재정경제부 차관 \"거주 중심 주택 시장 정착되도록 부동산 세제 개편할 것\" [TF사진관]",
         "summary": "",
@@ -1596,19 +1606,29 @@
         "published_ts": 1785041972.0,
         "tag": null,
         "first_seen": 1785051030.6724684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAtWlNXN0dhZ3p1cHlOb1QzbmhVNE9VYmdNTHNzeXBEVFBBMi1JMGI1eEVtVWM5ZlJIR3RYTENSNjlDUmJHeE1SMzBJa0V4dVh6VHZFV2xnSV9rUFdNUHpMc2dld195bzZ6SGpXZ1NmONIBb0FVX3lxTFAtWlNXN0dhZ3p1cHlOb1QzbmhVNE9VYmdNTHNzeXBEVFBBMi1JMGI1eEVtVWM5ZlJIR3RYTENSNjlDUmJHeE1SMzBJa0V4dVh6VHZFV2xnSV9rUFdNUHpMc2dld195bzZ6SGpXZ1NmOA?oc=5",
-        "headline": "이재명 대통령, 140명 참석 부동산 대토론회 개최…이달 말 세제 개편안 예고",
-        "summary": "",
-        "source": "더브리프뉴스",
-        "published": "07/25 07:50",
-        "published_ts": 1784933457.0,
-        "tag": null,
-        "first_seen": 1784961354.2265928
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHZBQXl3bWF3am13OXMzbWFsRlU5NWVfZG9ESjVOR2daV2xCUVlsSThIVEFsTXlYc1F4bU1pSFdUVlFBR25Gc25ic2ZRamtHZVBlS1Rubnc2WmE5MVVtMEJEeENUZmRNYXg1Q2ZSQl9WSHRRT3plZmhKV3B4SkQyb2hlMFh5TEJ0SDNNMFhxZ3ZCTkdFeWctdXhoRmxwNHh1RWhYNzY0SEtoRGc?oc=5",
+        "headline": "What top minds in markets are saying about the US intervention to prop up Japan's currency",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "08/04 00:31",
+        "published_ts": 1785771114.0,
+        "tag": "JGB",
+        "first_seen": 1785771924.6092358
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQUJsbDR6c0xMZ1FWVGd4QjVMVU1GRXNvWVdSaVp3eFMxU18wQTNzQ0REYjY0U0hQSkhuempvU2lGNTkzbGkyblJnczNfUF8wdjd3MWJEQjFDMzQxbV8zcXZqLWNBbzRFeXJkbmZDMFVQZl9OMEFGeFJDT2J3cnlzMjRIRmJ3d3RRTTVSRGNTQjZFeXRiVjZ3bUJ3Y3dENXh4cEVtaTdjekdMZW9xTDV1UUsxWFdLRFZtRWVfckM5dEJFMHpMRllIYUpR?oc=5",
+        "headline": "IBM’s Gary Cohn Says Kevin Warsh Is Trying To Break Wall Street’s Fed ‘Addiction’",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "08/04 00:26",
+        "published_ts": 1785770760.0,
+        "tag": "Fed",
+        "first_seen": 1785771924.6092358
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRUZVNmUyY3dZY05sZ3BsbWVIYkU3NEkzaEpEcDE5cFFEbXNTNklGTWxzUFJvcXJQZU5wZUJOdnRFRXNiZm9VdDlzTU1PMUxTSnFhVzc3VnNvb003dEZYQmhQY05CeDNKWG0ydlk1NEljSnc2aXZtdmw2Z1NSNjFRLWtKSjh0Ui12elM1UFU2MW9vRFFxVnVxb1ZaNkNOZ0l6Q01JQkhjaw?oc=5",
         "headline": "INTERVIEW: Election-Related Uncertainty May Influence Investment Decisions — SEC DG",
@@ -1668,6 +1688,16 @@
         "published_ts": 1785761640.0,
         "tag": "JGB",
         "first_seen": 1785765644.5886018
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS2hHelFoNkxXTnY2dmQtRlI1U2RldkpIVGRxaDhyM0h5M0QyUE1pcXRBM21xbEs5d1FLOTIwNjA2bXdUSzgtZ0Y3YnF2eE1nWGNIU2thNmpZa055YVJFMkVvY2s2dzhoX1ZjYjNHZTFneDhHZlVPdHZMUU5OX3RCX1B1NFVGMnZzLVBZdlotcklHN1lnOEVVREpHaWpLOEJCM0d2azNCUDBER05DOGxNZ0NDNF9raFF3eEhqa01KaXBSSDhxTVpQZUZLVkNNSmF0YWVkNTN5X0QwWUtGTjBWTDFESnhSeWxYWkpzQWNGeTMzVXc?oc=5",
+        "headline": "GME Stock Slides Premarket: Retail Traders Split As GameStop’s $1.4B Debt Exchange Sparks Selloff",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "08/03 21:31",
+        "published_ts": 1785760318.0,
+        "tag": "Global",
+        "first_seen": 1785771924.6092358
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pbXZwLXA2YmM5elpNRFZrbzBLbi1KRnlfN1Jla3JRY0Jvc3JhTlNHNkN6WDgyODY4d3dyVjBpZlZHNkFSZVViOTR5WTBURmFrZXZnZmNqb242cWNtdl9ERTlxTm14NVprbUJKNzFzdzN1eF9tTHZSS2VsLVM?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785744116.0,
         "tag": "Global",
         "first_seen": 1785745009.1149168
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW9GbzhuMnBwend2MmlOTVc5ZU1uVXVMb0Q5WlFNSnhSV09QS0RxNFVKU2t3ZlZnTDZPT2h3aXRfYWtqMUlxZU5qQnpNQXFsTDNVUTlwZWtlZkFnbFhZQTh0VHowMGpoSHZXTkRyMjlpanZ1MjNjTWt3eXJuMHk0bDFFdmFwU2JsS0hJU2t1ZkNiWnBWT3U4UFdKNFJkR2d2NDgwMUNtWTdxaXlFY19RdFU1em5xSGlhMGJr?oc=5",
-        "headline": "Product roundup: Guardian Capital’s new fund uses AI to pick AI winners",
-        "summary": "",
-        "source": "Investment Executive",
-        "published": "08/03 16:40",
-        "published_ts": 1785742826.0,
-        "tag": "Global",
-        "first_seen": 1785744075.699011
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTkyM2F2RjVtYV9OUkllWFZpclpWeHpiaHowblRGcGFXNjFIdl9YR0JIb2xXeVRvcjdMVEdHSkt0WUlPbk4yb0tFel94dXNCMVFIS1JlczY1OS1ySjZtVUV6X2w5MzBiMVg5a1R4OFBNLWQ0TDR6THRkWFZHNUZNRzVVdEJOUW1tZlFZUElOcG1YSTlrM2QtUkVRVUkzekNJN1M1RURTY09GS2x4Qzdmd0ZpbXZxQVBaanlaS094dy0tTklIM3dKaXRSU05EQlXSAdQBQVVfeXFMT2xmU0FyejM0NU01NjhFNWc0bzEtV19nUEE0aGYtWEpya2FuQUVYaVg0d25iWTd3Y3BlY0RXclZmZ2JfTXV0N3prR0tJUjZPNTM1OE5TZHpKMlBZbmZJVHJlRjhXNTYwWndYZkYtRnZvMUh1TTFZN1ZwcWZldUFrdzRCN2luM1RNTHFJcFZBSjNRQ084MjhQc1hYTHNpLXZoRFQ1ZVdpaGVSdDRab1Q0Uk9GVTU4YWVZSl9MUVFveklScU5HYVRDcmEzc2FnVjctRmFJZm4?oc=5",
-        "headline": "Explained - What triggered the first US-Japan joint intervention in 15 years to save the Yen",
-        "summary": "",
-        "source": "CNBC TV18",
-        "published": "08/03 16:40",
-        "published_ts": 1785742814.0,
-        "tag": "JGB",
-        "first_seen": 1785745009.1149168
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY01tZUVfY0g2U25nc054RUNWVnl6S3NHcXlpWXFLaWplUGtiMzJ5djlJWUhBOTBWNjAtQ1ZXNWYwcllnRXo5Q29VQzNHNHl3aHBvQWJKS3lqRXNjUjE0ZnN4VGIxZktSN3hWaEFKMXdodHJVTnVXaHJfNTh5ZS00bXBfMzVQVl81OF95SkdXelpfVUdjbDRXTEhxOXlSd09hQW5jQVB3bGQ?oc=5",
-        "headline": "Hirschmann Capital 2026 Mid-Year Letter",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/03 16:20",
-        "published_ts": 1785741600.0,
-        "tag": "Global",
-        "first_seen": 1785744075.699011
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 00:31:00",
+  "updated_at": "2026-08-04 00:45:47",
   "yields": [
     {
       "label": "3년",
