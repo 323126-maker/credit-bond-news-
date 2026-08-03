@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUV9sY3ZlcTg4YzBFNmhMZldNbnN6ZS1IbnIzVU5CTk9kWk5CTm5BLTBLM2RiUmYzYXRvUjI5TFUzT2NhMkR0WkViX0xudFpSdmE4bE9venFpTnlCTnQzRUNla1F5UkdIVGE3NHJfRVg4QTBVWDZQb0dBN2NHZFJXR005Zw?oc=5",
+        "headline": "무디스, SK하이닉스 신용등급 'A3'로 상향…\"반도체 하강 국면서도 완충력 확보\"",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "08/04 08:21",
+        "published_ts": 1785799260.0,
+        "tag": null,
+        "first_seen": 1785799831.384809
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpd2w0WEJiX0RIQ0tnd3JXUXpkYVZiUEJ4NmNFUUhwUDhWMVJOTDlCOGE4YzVfM0pfS1FMd2JJNzU4SVJSVGRpQmJhNTBiay1ySkNOUEhR?oc=5",
         "headline": "[핀포인트] [KCC글라스] 신용 하향 위험…늘어난 외형 불구 수익성 악화",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785720241.0,
         "tag": null,
         "first_seen": 1785754844.4209893
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTUd5Uk1RT1ZkNGx4Ym9hMFRUeFFIQVo1c2otM0EySGlsTUV3bTVMS3JfYVI5NHYwZjZNMWd0NHFoVGQ3MTlNdmJPSlJDUE5tcDkzNHpJSm95ZVNXRkE?oc=5",
-        "headline": "\"8월 크레딧시장, 발행 부담 속 옥석 가리기 국면\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "08/03 10:10",
-        "published_ts": 1785719400.0,
-        "tag": null,
-        "first_seen": 1785719734.8361
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzV05QUmVQT0ZKU3Z5UVFWNmR2aE1yTXdsMm8tYk10M2tlYkJJNmFDWW9KQlk3LU1fOTRzTWdRdVlPU2FXR25Md1dETERaMmJWblZLRFVGUXFMUnpTZHhDdVVIN055aHhJdEFTV3Y1MA?oc=5",
+        "headline": "미국이 엔화 부양 나선 이유, ‘미국채금리·대미투자 때문’ 분석 나와",
+        "summary": "",
+        "source": "한겨레",
+        "published": "08/04 08:07",
+        "published_ts": 1785798420.0,
+        "tag": "JGB",
+        "first_seen": 1785799831.384809
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13ajFtR1FRZ2RsRmJzcE9VVE54bERXbTZRNnhTR1doTHRVcUZLY3l3emQ0Wk1CcnZkVG9Damhza29RMHNoTmhTQWVMNzBiMG5nbGhhNWJuZDE?oc=5",
         "headline": "미국이 엔화를 구한 진짜 이유…’30조달러 국채시장’ 흔들렸다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785762360.0,
         "tag": "Fed",
         "first_seen": 1785765644.5886018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbkdwSURscC1uV0hUZFQ3WGppa3BXWmNubnA4TkdiamZlSmRnUWY4emxnVWpycFJXVXVjVjY5WXJGaEZTWmpEN0VzbzZ4b2oyc1lkSzNGR29RZmFiUTNWa1NKdElMTEhjb09oOWNSOHJFc3NYamoxT2R2WVFYYUU5ZllwaTN3RGdWNVU2RVFnejRaNlpmcnBCRmsxdzlTUV9mUGNCSzR3clFUd0E2R2JTa0hYbDU2QQ?oc=5",
-        "headline": "Japan and U.S. Join Hands to Support the Yen: ETFs to Benefit",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/03 22:00",
-        "published_ts": 1785762000.0,
-        "tag": "JGB",
-        "first_seen": 1785777329.087835
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 08:15:42",
+  "updated_at": "2026-08-04 08:30:52",
   "yields": [
     {
       "label": "3년",
