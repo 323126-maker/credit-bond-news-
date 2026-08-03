@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjRCRHVIZmJ4c2FyQ3l3WFZRUXZ2V2JaZUx0REZSbVFWN0diUmFJYkZkUVlEbHZMZER1YmRXVHAydm8wX0VSSXBHaWY4MnpzNE9PYWpzUFd2eWZxSVVaZ2Jnc053RHBPTHJjSjFJTGZyb016dV9FYUJjZUhEaDB1SEJDbXQ4UDJlUzVseFhEMC1maTVNY3h4OVlIcWJQMGdweFNrUmZfOVo?oc=5",
+        "headline": "The New Fed Chair Needs to Prove His Independence from Donald Trump",
+        "summary": "",
+        "source": "The New Yorker",
+        "published": "08/03 19:00",
+        "published_ts": 1785751200.0,
+        "tag": "Fed",
+        "first_seen": 1785752123.9589236
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcGxtcXZ3MjNLSkcwX1VIV1lMYnd3Sll1eUlMcWxwZDB0MThnTno5UThQcUdGTU5WZzFjVkdCZ1pDZVRxYUgzTkJnWEFEQUpTdkliUHZLODhLVUtrV2tqam5SdEFTbk5raWE3ckJ0UlN1aTZJMHhZZw?oc=5",
         "headline": "The Market CanNOT Tighten for the Fed",
         "summary": "",
@@ -1788,6 +1798,16 @@
         "published_ts": 1785738034.0,
         "tag": "JGB",
         "first_seen": 1785739524.0239384
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rZDdQOUVORERNWHppZGJZWXBmRENzRU9oOTNfWml0b05SaExmaGpYblNLTDJrQ0xjZXEtQ0RFWmdJRXBqSElZQXd6UHJFTlB6OHpWSlc3U0REUUVKRk00WXprMjl1YmladlE?oc=5",
+        "headline": "\"적에서 동지로\"…미·일, 엔화 방어 공조 그 '속내’는",
+        "summary": "",
+        "source": "junggi.co.kr",
+        "published": "08/03 15:12",
+        "published_ts": 1785737569.0,
+        "tag": "JGB",
+        "first_seen": 1785752123.9589236
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjlpQWJzMUpBVzNCTU41M2tsN3hvOXF2bDYwTE45U2ZpbG5EMmN3emhGY0RBTHRIOXJHYVFuTDhqVUV3SW9KMHFJSU1jbXhsVEJZMVpVekxTb1VteEVFNGI5aEQ3SGo1SGNaQ3hUaTU1U3NTZzNrQVctZ2p1WlI3c21Pa3BjVTQ1bFh4aG9DZWpkSk9sYXh6UEF3ZDd3UnVJa2NrdkhXOW1IaVFZNDVGeGFIRzVKaXc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785724680.0,
         "tag": "JGB",
         "first_seen": 1785746729.1785607
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5fcVpiSllWSG9hN1MtdDMzUVZUT0RVMG1qLUZVSV9IY1Z1bFNsV3k0MFAwZ1l6Vm40M09feGFZOTFmbGRneExQSWg1TWpfb0k?oc=5",
-        "headline": "\"워시, FOMC 연 8회→6회 검토\"…美연준 체제 개편 속도",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/03 11:31",
-        "published_ts": 1785724287.0,
-        "tag": "Fed",
-        "first_seen": 1785744075.699011
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSldtR3RTblRwbjBrdTdEXzlNMFNuUklGd0xjT3JQeDY0Q1pKZnBvMXlBdHlrcExQUVhveGtaNGloTkFmZ2pDZVVfRFpPX01NcjhLT3dlYW9KVmlFR0lHU3l0Z2k0MXNIZzAwd3cwNWx3V1EwcG13eU9LVXFHYXp1NGNhLVZNWGdfRDlEN2pRdWs1Y1VGOVYxaVdkY2xXb05QNGVwcTktcHFBUlA2ZW1nT3B6TQ?oc=5",
-        "headline": "Treasury Bills, OMO Dominate Fixed Income Market as Turnover Hits N29.36tn",
-        "summary": "",
-        "source": "THISDAYLIVE",
-        "published": "08/03 11:27",
-        "published_ts": 1785724020.0,
-        "tag": "Strategist",
-        "first_seen": 1785725128.6289978
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 19:01:03",
+  "updated_at": "2026-08-03 19:15:51",
   "yields": [
     {
       "label": "3년",
