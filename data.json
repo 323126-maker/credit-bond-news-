@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOenlPV21Ncm1vMFR5MTFwYTRjTnlBMFRxWENfX3hsYXRQTURUQmU1c2VEcm5Wdi1sNHk4dWRHV2ZmdFdHdnZEazZYRFc4MDVCN0JQdWY3S1hsLTl3TjFIbzFiM1RQQ0Z2MFdyWHlhNkdfZm1RcGFiYnVfZWt4Tk9vUkFxSTFCLTRUR2hMd1RxaElSSEprYnJBelRCYnN2dUxDWUJyMWdFa3N6Qk9GQkwxSlp3eGpaejBjdmpTTlM4a1Jnc0g0aTN4YnBlVnlCWE5pZEE?oc=5",
+        "headline": "JPMorgan says Warsh failure to buttress Fed credibility may force a rate hike before year-end",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/03 22:06",
+        "published_ts": 1785762360.0,
+        "tag": "Fed",
+        "first_seen": 1785765644.5886018
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPM1RNUEE5d21GMl9hZmtnUUxEQWZjLS0wU0lZLXZnOXpCNTN1YzBuRHZQOGpnWkN5M2xiYTFVTlJKekN6S2FCWXJuR0pCTXF6aUpqU1Z2cEhSRzFWd0c1SVZKOFR3TFFYZktCaXNJOHpqTFR5cmJmbUI3SFdkZkpuZERJRXd2U3Z0b21wU1MtdGpGSUkzdmNrWXEzdGpsV1Njc1FRTDdUT3o3SUdqb1BjOGx4NWEwTUV3SGduSV9MblhLTElSWmctNkhhSGF6MDFUNHZmYlVaS1FzZHRmMlFJ?oc=5",
+        "headline": "US 30-year Treasury yield outlook: bull and bear cases at near two-decade highs",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "08/03 21:54",
+        "published_ts": 1785761640.0,
+        "tag": "JGB",
+        "first_seen": 1785765644.5886018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5pbXZwLXA2YmM5elpNRFZrbzBLbi1KRnlfN1Jla3JRY0Jvc3JhTlNHNkN6WDgyODY4d3dyVjBpZlZHNkFSZVViOTR5WTBURmFrZXZnZmNqb242cWNtdl9ERTlxTm14NVprbUJKNzFzdzN1eF9tTHZSS2VsLVM?oc=5",
         "headline": "Debt Digest | Federal Debt is a Health Care Problem",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785739800.0,
         "tag": "JGB",
         "first_seen": 1785740438.8992424
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pc3pYTnVSNERzaU1vWjNTc2w0OXFzUmswYl9Xa1lvYWEta1JNU04zUFRLTHJSU3B0aXljSWlXNG1Hc0ZadTNzNzR0a1c3RjcwMC1FRk5acEtXNFgzVzlMMFRIOXVYTjlIVXQ0QksteEV0Zw?oc=5",
-        "headline": "[도쿄증시-마감] 엔화 강세 속 1% 안팎 하락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/03 15:49",
-        "published_ts": 1785739771.0,
-        "tag": "JGB",
-        "first_seen": 1785747655.876628
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xSUdXaENFYmo3cmFqQkFIRVgtZmgxT3lyOGtRSjRLOWJ2cDJLR2psdU9tYjhrQ3hWenk4UldCZGI5UFY4M0xCMDd6RXZOekoyTk8yMk9hdkhIVXNmYnV2Um55WHBhYUxDNTVWNi1pZ0zSAXRBVV95cUxQUkwtV2ZMT0h2bkxjZjVlSEwtcEFoNnN3dGVrbWc5OHJ1bDAtOVpibGk4Z25LQ3F0R2VFcUtZV2x0azFIQzJrSG5SazFmWXR2YVh0c2FHYW1IUVk4NG11b3dCNy02SU96R3BDM0U1UkVoNE1RLQ?oc=5",
-        "headline": "美, 15년 만에 엔화 방어 나섰다… 日 돕고 국채시장 지킨 ‘환율 공조’",
-        "summary": "",
-        "source": "it.chosun.com",
-        "published": "08/03 15:28",
-        "published_ts": 1785738538.0,
-        "tag": "JGB",
-        "first_seen": 1785749473.3268895
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 22:45:54",
+  "updated_at": "2026-08-03 23:01:06",
   "yields": [
     {
       "label": "3년",
