@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbW1BcWFsby1DRk8zRGNfRzBKWmUyMWJYUFY1WHVCeWFCTTJTYm1mSUh5WHRXZ0lSYjZCODViMVBFbUNmSTEtZll6bjQ0WXpWcWYwMkJpX214TGdtVmpoWXduSTRNclBvT2dDNW05Sm5fUHZYdFVEUFZTdkFQM081T1liNkxNSlR0Nlh3UW16cld4SXJpa2lDSTktNkhsR25fdnY4SlAwYUJPWEIzaGxCdGF3S3d4eHJWUloyQXlhOXBic2M?oc=5",
+        "headline": "US Joined Japan Yen Intervention to Block Tokyo From Dumping US Treasury Bonds",
+        "summary": "",
+        "source": "Tech Times",
+        "published": "08/04 04:54",
+        "published_ts": 1785786888.0,
+        "tag": "Strategist",
+        "first_seen": 1785787237.886354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSEJCMUxqakFPZEI4VS1uQXZvVnV1TDBkSm1BVXNsUXVaTC1lWUtHRnB1OXFPaFcxT29GWVZMenJVRWJ6QTM1RDF5b0NJalVXZFRZTXJ6dDBRX3A3bFd4YXJHYU1ld2sxcXozTUkwRHVWZjN0a2Q1MEs1T3E2YnU1N2FyZERJTmRUd212TGJwQ3MtYVhhM2FTMVo1UmhhVDg?oc=5",
         "headline": "GameStop Stock Outlook After $1.4B Debt Exchange Triggers 10% Sell-Off",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785755596.0,
         "tag": "JGB",
         "first_seen": 1785756629.6804492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RYU1vUWN5ZnhXRkxMVnFVcXg1SW81Yk9wZnhoOW13dm5kN3NXR2J4Y1k0MkdqREc2bE1HeEZSWHQ3VVVjYVQ2NzBjbVIyRjBiZXRoQTBWN3VuQQ?oc=5",
-        "headline": "미·일 '엔저공조'확인에 엔화 강세…\"금리인상까지 시간벌기\"",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/03 20:02",
-        "published_ts": 1785754935.0,
-        "tag": "JGB",
-        "first_seen": 1785755729.6004348
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 04:45:49",
+  "updated_at": "2026-08-04 05:01:01",
   "yields": [
     {
       "label": "3년",
