@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBabUo3NzVsNTRDaW92bDZrY20zMlAxMmRRN3pjaWlvODVxZEZwaVZRUFZkblpCR01ZUjhHSk5KSzZaZnZPeUtOSzNiWTYwRE9HRktaeTFQbkl4dGxBampWSGNncUlmWHlKZ3RaWmRqdGNLU1U?oc=5",
+        "headline": "앳코어, 이탈리아 프리스미안에 38억 달러 규모 피인수 합의",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "08/03 19:14",
+        "published_ts": 1785752041.0,
+        "tag": null,
+        "first_seen": 1785753027.8367496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdVlhRDdhREdHZWx0WWstbHpvbVdJZDlhUlE0QmJNb3I5dWpoY2JaX1NPM2Y5M0ZfQ2ktZlRQWU9KMWo3aHktdUVpWkhRN25pQlFyajhCczJqSmxsT1lpekFCUklvMVBiZ19xV28xazBCakZPcUtfQzV6dXNacGN3Vmd6X284aDJvSHI0b3NCdw?oc=5",
         "headline": "[신세계프라퍼티 점프업] 3조 국내 투자에 글로벌 확장까지…자금조달 셈법은 : 네이버 블로그",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785317074.0,
         "tag": null,
         "first_seen": 1785321931.5371785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9udlZUSUxSQjBBMzhxOHIyVDhQQ1NPYXFVX0k4MkxvMHV6QUdmOGxsbUNHdEMyV0JjRmRxUHVlWUgyUm9xZUhkM21sVlhGLXFqV2gzVzZCYzIxZUlmbWk4TzcxQm1nUlJoalJHOFVSdTRIUm1yWGNR?oc=5",
-        "headline": "레데이아, 예상치 부합 상반기 실적에도 주가 하락",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "07/29 18:11",
-        "published_ts": 1785316260.0,
-        "tag": null,
-        "first_seen": 1785565829.880717
       }
     ],
     "policy": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1785752123.9589236
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRVXdOM1FMY2g1c0ZCZmNQTGluaG9FYnZCS3JaTXo3WmpNdExnY0cyRWtJVkc0cTBCbHZXY2FrOFZpcTNmSDFUc3ZmdG9KUHBSR1NiOHI2NFk2VXJqYUZj?oc=5",
+        "headline": "US backs yen intervention as fears grow over Japan selling Treasuries",
+        "summary": "",
+        "source": "Nation Thailand",
+        "published": "08/03 18:44",
+        "published_ts": 1785750240.0,
+        "tag": "JGB",
+        "first_seen": 1785753027.8367496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcGxtcXZ3MjNLSkcwX1VIV1lMYnd3Sll1eUlMcWxwZDB0MThnTno5UThQcUdGTU5WZzFjVkdCZ1pDZVRxYUgzTkJnWEFEQUpTdkliUHZLODhLVUtrV2tqam5SdEFTbk5raWE3ckJ0UlN1aTZJMHhZZw?oc=5",
         "headline": "The Market CanNOT Tighten for the Fed",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785725741.0,
         "tag": "JGB",
         "first_seen": 1785736021.780873
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeFdYby1OcVFHRV85WjlCUENyQ2FnUXJYcjlCQXBDZHN2a1N5ZHl1cUJVWGlldi05eXozVzkwaWk0d0J1OExjbWdsYmZfa2RQaXNZMkRNSy1TU29KTHFTQjZsVktuYkNrMERYdk1vSUlISW0wTFlSQW9sdWtFdE1weDg1WDVxTTBGU3V1WVduakhfZDJl?oc=5",
-        "headline": "Japan 10Y Yield Rises in Rate Hike Bets",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/03 11:38",
-        "published_ts": 1785724680.0,
-        "tag": "JGB",
-        "first_seen": 1785746729.1785607
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 19:15:51",
+  "updated_at": "2026-08-03 19:30:50",
   "yields": [
     {
       "label": "3년",
