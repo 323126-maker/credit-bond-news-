@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kYWdaTWpfdEN0WUluNEIzMGl6WExTX3BmTHU5a055ZUlEazlrS0F6M0JGdk1yY05vV3VqY25pdnlua1p6bUtUaW81WnN5d2JQbVNBWklJNTMyWXgyNXo1a01mczZCUW5Md0kw?oc=5",
+        "headline": "SK실트론, 두산 매각에 신용등급 하향검토",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "08/03 20:25",
+        "published_ts": 1785756300.0,
+        "tag": null,
+        "first_seen": 1785757523.0578804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yWjlxaGxjaG8yUWlSUTVIbE83LUxyTFpYai02b0xuOHU2VnUzU29rQzR1RC1zdjJycFN2Tng1cUhOMlJzOUhxZk1RZ3poR2pQN0ZUTU1HVGw1NlhZLWxwcg?oc=5",
         "headline": "[마켓인]비싼 회사채 대신 대출·CP로…기업 자금조달 '단기 쏠림'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785626340.0,
         "tag": null,
         "first_seen": 1785658523.623343
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nUy1EWnNWdzZGWjhnS3FlTDEweGltNXhNd1hqdGN5Z3dPZnhvSVp0QlBpOU1Cd3dyN1lldHVBQnJhX2dSYkpLNkJNSll5UFJXODlNNVpfUkhWaW1IVHkySXdBM3ptQ0JR?oc=5",
-        "headline": "[채권마감] 10년-3년 금리차 50bp 돌",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/02 07:58",
-        "published_ts": 1785625095.0,
-        "tag": null,
-        "first_seen": 1785745009.1149168
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdnp5dkZzY3JNdjhkLTFJdlZCOEtKM2tZS0ZFaDJ0cXA2a25ydVBhbXBvZ0xJaDNjYTdtNkF5YXg2OTJXeUFSczhDM2d3UFEyME00NjRlcDY3RTlDbkNMWGp5am9DQ0sxd2hYajFKdmkwOVlMY0FhWmtOZG1wWjNDdDhJUHhqRWZaRjVNczV5UWRGSFFXVnFVR0pkUE12ek43azc3QlBCM1lLSHZKQm9UUnhkd3I5NHQwSU5oM0h0TW1POThqakdJdVQ3TWphdw?oc=5",
+        "headline": "AI Loan Investors Demand Covenants After CoreWeave Spread Blows Out 125 Points",
+        "summary": "",
+        "source": "Tech Times",
+        "published": "08/03 20:33",
+        "published_ts": 1785756790.0,
+        "tag": "Global",
+        "first_seen": 1785757523.0578804
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbXVRalJRUEUtY1l1V296QlRZR2pQUEdPVDdRRDRfMktWckdweGhsSVNidzNWOHRORERlMTVtRlAxazVPZ0ZuSlZUVVlyOUlOS25qSkVEanFsa2I1azRmUENDcGdzWGhjdWdnQ1lQRGh5ODRid1RLcUI2QWFJMlJzenVRNUNqU0RXVXdnY21pLThXU0N0S2U3MEx1dGd3Tm9NU2VrN2diSQ?oc=5",
+        "headline": "Fed Chair Warsh may be misreading an important bond market signal",
+        "summary": "",
+        "source": "American Banker",
+        "published": "08/03 20:30",
+        "published_ts": 1785756600.0,
+        "tag": "Fed",
+        "first_seen": 1785757523.0578804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5BLXMtOEJabld5WG1Ba2VUS3ljLWsxQUl4Z3BNMnVrUnBRRHVMRERtclBHZzU5Mlluc0NaaWtRUDJUTlFPNS1wUmhFelR4VnJXcWY3Tw?oc=5",
         "headline": "Yen Holds Gains Near 157 Per Dollar After US, Japan Confirm Joint Intervention",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785729694.0,
         "tag": "JGB",
         "first_seen": 1785744075.699011
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0JQc3gzcS1PQlFxMFk5TWR3VWY1UlpCcUNyZUNxMDdnNk5saklEOGc4RHRNSS1na2dsSVB3V2NWQzlmVWRGTFdDQi1Gcno1RkxhRnJ2cktvWVluY3Z6eVlOLUx3aFlhdUJWVGpkV005bng2UkZaM0c3QjJWR2lRT0pPcGM?oc=5",
-        "headline": "A second act for high-yield bonds",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/03 13:01",
-        "published_ts": 1785729687.0,
-        "tag": "Global",
-        "first_seen": 1785730530.6769245
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQzVUZFJ1N1drRUdKLVVEaXNMUUdVLXhTNTJkMXJyRFZzNV9qYWpzeXpJOU5LbGlEWERFOWo0R2QwMk5hMXJMSjMtVG1SbHU1MTFmM0c3NkhMSnRsdWptOHR4cG5kdkF6NzZlNUx2dUY4TllhaHViNExzaFl4U1dzc3lyXzBfZ9IBiwFBVV95cUxQV2ZGa2JpNEF4ZDFfQkQzOVRjRWNDQ2IzQy1uYjRZci1mckd4MWJOLTRMeThUdlhNdEYybFBMYWFqMjZvZDZDZURmVTFBa1JpS2tzVVVMR3hyV0dXbHFWV2NzXzVhRHhEME9GLW56dU43Z2xLbWNxdFYwTThxdEVaOUVVSDhlalh5Qktz?oc=5",
-        "headline": "Why the U.S. stepped in after decades to prop up Japan's yen — and what's at stake",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/03 13:01",
-        "published_ts": 1785729679.0,
-        "tag": "JGB",
-        "first_seen": 1785731431.2207003
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 20:30:54",
+  "updated_at": "2026-08-03 20:45:41",
   "yields": [
     {
       "label": "3년",
