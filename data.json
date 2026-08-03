@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GY1VRLUQ4OHNKRUlxY3c5cXZ2T1c2b3dPUEdfVTJkVDFwNGdSRWR3S2dpb2dJb19JRi1nNVBTN2lFV0FzQXRIQ3FTVEVjWkxvRTZBV2tMZmt1VkgxSG5iQTdKWHcxSC1NVUln0gFvQVVfeXFMT2tsSThPaXpDejBQM2w2LURZdHBXRGNqRjJDc1ZPTlpkajNfa1ZSQ04zMU9Nb3ZtOFRxR2ttTFpodVF2a1F0VDhPR0hCVGFZcHRtVXk4YTJUZUNDVmhXcTltX3ZRQlg2eXpXLUlsb1d3?oc=5",
+        "headline": "미국과 일본이 공격적으로 엔화 방어에 나선 이유는?",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "08/03 15:20",
+        "published_ts": 1785738034.0,
+        "tag": "JGB",
+        "first_seen": 1785739524.0239384
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRjlpQWJzMUpBVzNCTU41M2tsN3hvOXF2bDYwTE45U2ZpbG5EMmN3emhGY0RBTHRIOXJHYVFuTDhqVUV3SW9KMHFJSU1jbXhsVEJZMVpVekxTb1VteEVFNGI5aEQ3SGo1SGNaQ3hUaTU1U3NTZzNrQVctZ2p1WlI3c21Pa3BjVTQ1bFh4aG9DZWpkSk9sYXh6UEF3ZDd3UnVJa2NrdkhXOW1IaVFZNDVGeGFIRzVKaXc?oc=5",
         "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785736704.0,
         "tag": "Strategist",
         "first_seen": 1785737724.5343375
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBpSTlDRVpjTmtOVFpMWEY0bWdiUzFibzhhZFNibVl1ZnBnYTdJTGQ4ODJPX1Rfckd2VWxEQzFJVG5CTUNxWXp2eDZmWWo4WWEya1FPWWNZTndpSkFMLVkyZFh5eFNxUjVFUVBJaEtqcjVZdUlZcTRvUtIBeEFVX3lxTFBpSTlDRVpjTmtOVFpMWEY0bWdiUzFibzhhZFNibVl1ZnBnYTdJTGQ4ODJPX1Rfckd2VWxEQzFJVG5CTUNxWXp2eDZmWWo4WWEya1FPWWNZTndpSkFMLVkyZFh5eFNxUjVFUVBJaEtqcjVZdUlZcTRvUg?oc=5",
+        "headline": "美, 왜 30년 만에 엔화 방어 나섰나…속내는 '국채시장 안정'",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/03 14:35",
+        "published_ts": 1785735340.0,
+        "tag": "JGB",
+        "first_seen": 1785739524.0239384
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ud3NEY1M4WW80a1JKS2xIcEJadWMxYUF2Q2pYS2labjJMU0xFR0czSlhsak0tUDBtc2FrNWRyVjFBd2JsTUlpc21WZlBZOGNPN29GSmJFR3RwYkZMUUNQbTBCVV9sV293LXJGVnpGYTlQZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785686050.0,
         "tag": "Global",
         "first_seen": 1785686559.1287549
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLWx2N3ZKLVl0X0dNclYxQjlpTGM3U2twd0pXclIxTjlrQ1c3LW8yZ04zSG01Y0ktaTJqTGZfUTJnbEw5Z29kei1hU1Zpc0h6WURqYXBfSnZUa2tiX1pHYks5aG15SXIzR0QyNGxRNzJvbEZFWmJtcWVGMWJNMHJxVU1JM2NybXZHWjduWjVUdkZoOUpwaE8zR3FrNmZyaVJ6UC10MkxHRVJPMVlROHY0?oc=5",
-        "headline": "Warsh’s Fed credibility crisis looms under Donald Trump’s presidency",
-        "summary": "",
-        "source": "The Times",
-        "published": "08/03 00:35",
-        "published_ts": 1785684955.0,
-        "tag": "Fed",
-        "first_seen": 1785685418.3804562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZ3Y0WGlJY2FZRks3YjB1cDBFRkx2YkNfRjVMdnBEMlVLaXFOMGNVb1E5aWZ2c0JUMTlTNk9MdFBpTkxQdzhOVll2TVpMRzl4Q2VKVWgzeTR5Q2J0ZVZIYVRjTU05S0RTS1JQclBtYzlJaVNOZE1tUnhDMEQySHRJVmwyT0RPSko5QXpWM3NuQVF3LXplNmdkX3pCZXBQSkhsQjkwUVJJNEJtejdKR3NidGVaSGpGcWJsYTczOHdZem9NcHpqM3BoaXpldHBFVjjSAdQBQVVfeXFMTzlxWjZaRmdLMmEwNWtURERzbXQtNnhVRllnT1lCc1k1cHdjV0NZM2xQVUlfUmdlRXF6QzlnajRYc1BjRmRfZHI0SVZybTFtc2laendZNzhEM0xTZFhNSndhWFhfSzB2ZHFDWjNLYjRWWGJKMzhkdmwyb09PU1d5TEw1Zk01dWVhc2l5amNKTFRzbHp1aHZ6SXg0Zzk3elBMWnpPVEo5U3RKSHhLbUlFQ1FkS0l2NGUySTh6RlJweHdhTTBKTllDMkF2UkZQWGNDaTFCeUQ?oc=5",
-        "headline": "3 Utility Stocks For Defensive Dividend Income In Uncertain Markets",
-        "summary": "",
-        "source": "simplywall.st",
-        "published": "08/03 00:21",
-        "published_ts": 1785684110.0,
-        "tag": "Strategist",
-        "first_seen": 1785684745.397135
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 15:30:54",
+  "updated_at": "2026-08-03 15:45:43",
   "yields": [
     {
       "label": "3년",
