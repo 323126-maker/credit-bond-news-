@@ -162,6 +162,16 @@
         "first_seen": 1785751235.928414
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBvbkFiX1ZQc2VNdXlYMWpHSU5VU3VyeFVNOEh2VG0yY0dPR05WTk50eFpvSWtaZllMckhSUUJ4REhNdzdCNEpuWFRuUVYyR3ByUy1ycG41aWJHcS1QVXVMWmlhcG1CQ3PSAWtBVV95cUxNTl9BZkZBbUNOcXlJUkxPSkE0MDFEWkJSYUxaS3dUZ2t4TTRZTFpHTmp1MGNMV1dpeFlmTFRGT185OFo2UXNBVHdQcG9ORjZNU2RNOU1sUkI2TEJqMDBUM2RuQkFpUE1JZGtIbw?oc=5",
+        "headline": "타이거자산운용, 중앙일보채 115억 ‘직격탄’…매입 넉 달 만에 발행사 부도",
+        "summary": "",
+        "source": "한국원자력신문",
+        "published": "08/03 10:24",
+        "published_ts": 1785720241.0,
+        "tag": null,
+        "first_seen": 1785754844.4209893
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTUd5Uk1RT1ZkNGx4Ym9hMFRUeFFIQVo1c2otM0EySGlsTUV3bTVMS3JfYVI5NHYwZjZNMWd0NHFoVGQ3MTlNdmJPSlJDUE5tcDkzNHpJSm95ZVNXRkE?oc=5",
         "headline": "\"8월 크레딧시장, 발행 부담 속 옥석 가리기 국면\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785622203.0,
         "tag": null,
         "first_seen": 1785622659.5459356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPWU1oVXRsOVd1NmxSc2l0QWJFUTNYdUpQbHJ3LThmb3QxN0I0dDgxd3hjTXhnQ08yeF9GVjdORmIxRFd0bzVaSzlCMTZObHR6TlZlVVlSSUJXaVhrMlNPMWRnckQ?oc=5",
-        "headline": "타이거배팅센터 분야의 최신 동향: 업계 전문가들의 분석 - 2026년 최신 가이드",
-        "summary": "",
-        "source": "les24heures.fr",
-        "published": "08/02 06:03",
-        "published_ts": 1785618226.0,
-        "tag": null,
-        "first_seen": 1785692729.015296
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02em04MzBRWjBSWkczb3ZqSVhfTHhGQU9kLVh4blRwRkh2TVk4NXZrRU9XNVc1ZTJCOHBrYUlGaVQzc2g2NHF5d3l0N19EZmk0aGtYMm5vdzI4bWZx?oc=5",
+        "headline": "美, 왜 日과 함께 엔화 방어 나섰나…'국채 매도 막고 동맹 강화' 노렸다",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/03 19:46",
+        "published_ts": 1785753960.0,
+        "tag": "JGB",
+        "first_seen": 1785754844.4209893
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWQ2YldEWXVMR01rR2o2dEJMTzZXdFMxTGphS0N6cjg2d05wNnVUbVk3ZGhnSFpKVktqSGNEZkF0dzNucWdoRE1BTmIwYk1rNTZNVWVxXzJkLUtPVEdnY3pTZEVtX002OXBFcE5QNVU1OFJpeVN2Zzdtb3VJTzI0QWczck8zOXRUc21tSXJSZm1XQlZJbnIwMVZ2TWE4dXpHcDF0Vk5GLWhnUQ?oc=5",
         "headline": "Japan's fight with yen bears goes on after joint rescue",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785726229.0,
         "tag": "JGB",
         "first_seen": 1785726930.3185213
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBzMWNaREc3YnpKTmpRZ1ZnUXBLV2xRMEpJOS1ONks5ZDB6YUxWdnVZRUZsUDNqQVNVRzZSNzZQQ2pXdW1qWUpHU3phRGlJeWpIZU41cDBwZmZZams1eElUc0J6bnlyaUlZTHFRc3dqMlpTakxN?oc=5",
-        "headline": "前 골드만 분석가 \"엔화 개입, 요란스럽지만 실패할 것\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/03 11:59",
-        "published_ts": 1785725983.0,
-        "tag": "JGB",
-        "first_seen": 1785729640.0870428
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 19:45:46",
+  "updated_at": "2026-08-03 20:01:04",
   "yields": [
     {
       "label": "3년",
