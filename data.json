@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93R0xPS1h0SVZFeThSdUl0WmJGT25XaDZNcHhnRWhubkNVNW43X2ljenpGN2E1MGhvRkhLbkhVWHNubmFTWkJlLS11bXRRaWQyWnVr0gFYQVVfeXFMT2liN0lxalhtbkxZaklOOGZSQVpZTWNZYUdfbEhaYlBzQXRTVG0xQ0w4WnN1Wk9kRDNaN0tHazVIRFdBSFZfbGlwdDU4QWtfWUd5M3FQTG5PVA?oc=5",
+        "headline": "신용평가 3사, '매각' SK실트론 신용등급 전망 하향 검토",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "08/03 16:57",
+        "published_ts": 1785743820.0,
+        "tag": null,
+        "first_seen": 1785745009.1149168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xbG15T19Ld21lTU9BQ1ZRVEphWHlJOHZaYXA3OEh2dDYyb0JnZGJQX1Z6R2lmUk5hSkNqRTNqbG1BRzRwRXBJTkZhbll2M3dEWkdfbHJiR0ZiUmlvTE16MW04eEFoX3ZpS1U2WTNHZ21TZGRSUkFF?oc=5",
         "headline": "[단독] JTBC 채권 손실 우려…타이거운용 “문제는 내부통제”",
         "summary": "",
@@ -272,6 +282,16 @@
         "first_seen": 1785658523.623343
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9nUy1EWnNWdzZGWjhnS3FlTDEweGltNXhNd1hqdGN5Z3dPZnhvSVp0QlBpOU1Cd3dyN1lldHVBQnJhX2dSYkpLNkJNSll5UFJXODlNNVpfUkhWaW1IVHkySXdBM3ptQ0JR?oc=5",
+        "headline": "[채권마감] 10년-3년 금리차 50bp 돌",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/02 07:58",
+        "published_ts": 1785625095.0,
+        "tag": null,
+        "first_seen": 1785745009.1149168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kd05OTWprMHV4WjhQbzBtSTduVFFTcnp6eFRPVTJOSGQ5WTJ6M25VNnNjWlk2bWNoSHlkUmxRdXBORHNGSW96YUVuaWZ3clR0eVQzd29Najc2clZwcHlHa3VHMTk4dlFQcHlPY3ZoT3prUQ?oc=5",
         "headline": "8월 회사채 시장 ‘개점휴업’…우리금융 신종자본증권만 출격",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785526860.0,
         "tag": null,
         "first_seen": 1785528168.5053546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBxTERQbkc3NmVqUm9Xb3hHTEFWczN1dHZURENka2xTUERnMFlZS291WjB6TVhhM3g0SmZxXzVCZ25xY0xaTGZjTHdMcVVJUWw5NGg3ZkFiMlVFNmNHZUdxeElnYm9vNExCOUZ6Zi1FZDFzYUloeUhZ?oc=5",
-        "headline": "채권 시장의 ‘경고 신호’에 따라 연준의 워시 의장, 인플레이션 문제로 어려운 선택에 직면",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/01 00:31",
-        "published_ts": 1785511886.0,
-        "tag": null,
-        "first_seen": 1785710724.2842052
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16elNnQVF3Um5ObjRTVUt4eGRtUlVnRV96U1l1dVlvWGdMdndZaHBaRXZYU1lkNWV5V3A4QTVRSl81dHlxdEFtZndFYW9SaDVuNS1OZW9VYWhramZuQlRiaVNHMl9CSkVNakxKU1V2RVM?oc=5",
-        "headline": "헤리퍼드셔 캐피탈, A3 신용등급 유지, 전망 ’안정적’",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/01 00:03",
-        "published_ts": 1785510180.0,
-        "tag": null,
-        "first_seen": 1785552485.8697116
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQRk91R0tfNC1TUkgtcG9wbTFBOTNvNEhTcUd1T3dsVlZmeF9lS0hBMmZPS2hSMFh1c0NqSVBjb2h4R3pPMmNfM3NVV2diUG1zVmw1XzM5YzVQTVhiVG9vU1RnclY3N3VpS0J1ajl5ZGgxVktKMDVxTWFEaWRtSk94MEVPd1ZvRm5SVzN4d1N4UVhNNWRXRnlJb2JXM09jRmgza1VhQTVVY0RIeXY0cWx2SjFFeEo0OHZ4NC0tSnl2OHJOcFEzTEt6QmpUYnBxZ1BPNUdTTzJxblY?oc=5",
+        "headline": "Term-Limited Bond Funds As An Alternative To Individually Managed Bond Portfolios",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/03 17:01",
+        "published_ts": 1785744116.0,
+        "tag": "Global",
+        "first_seen": 1785745009.1149168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbW9GbzhuMnBwend2MmlOTVc5ZU1uVXVMb0Q5WlFNSnhSV09QS0RxNFVKU2t3ZlZnTDZPT2h3aXRfYWtqMUlxZU5qQnpNQXFsTDNVUTlwZWtlZkFnbFhZQTh0VHowMGpoSHZXTkRyMjlpanZ1MjNjTWt3eXJuMHk0bDFFdmFwU2JsS0hJU2t1ZkNiWnBWT3U4UFdKNFJkR2d2NDgwMUNtWTdxaXlFY19RdFU1em5xSGlhMGJr?oc=5",
         "headline": "Product roundup: Guardian Capital’s new fund uses AI to pick AI winners",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1785742826.0,
         "tag": "Global",
         "first_seen": 1785744075.699011
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTkyM2F2RjVtYV9OUkllWFZpclpWeHpiaHowblRGcGFXNjFIdl9YR0JIb2xXeVRvcjdMVEdHSkt0WUlPbk4yb0tFel94dXNCMVFIS1JlczY1OS1ySjZtVUV6X2w5MzBiMVg5a1R4OFBNLWQ0TDR6THRkWFZHNUZNRzVVdEJOUW1tZlFZUElOcG1YSTlrM2QtUkVRVUkzekNJN1M1RURTY09GS2x4Qzdmd0ZpbXZxQVBaanlaS094dy0tTklIM3dKaXRSU05EQlXSAdQBQVVfeXFMT2xmU0FyejM0NU01NjhFNWc0bzEtV19nUEE0aGYtWEpya2FuQUVYaVg0d25iWTd3Y3BlY0RXclZmZ2JfTXV0N3prR0tJUjZPNTM1OE5TZHpKMlBZbmZJVHJlRjhXNTYwWndYZkYtRnZvMUh1TTFZN1ZwcWZldUFrdzRCN2luM1RNTHFJcFZBSjNRQ084MjhQc1hYTHNpLXZoRFQ1ZVdpaGVSdDRab1Q0Uk9GVTU4YWVZSl9MUVFveklScU5HYVRDcmEzc2FnVjctRmFJZm4?oc=5",
+        "headline": "Explained - What triggered the first US-Japan joint intervention in 15 years to save the Yen",
+        "summary": "",
+        "source": "CNBC TV18",
+        "published": "08/03 16:40",
+        "published_ts": 1785742814.0,
+        "tag": "JGB",
+        "first_seen": 1785745009.1149168
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY01tZUVfY0g2U25nc054RUNWVnl6S3NHcXlpWXFLaWplUGtiMzJ5djlJWUhBOTBWNjAtQ1ZXNWYwcllnRXo5Q29VQzNHNHl3aHBvQWJKS3lqRXNjUjE0ZnN4VGIxZktSN3hWaEFKMXdodHJVTnVXaHJfNTh5ZS00bXBfMzVQVl81OF95SkdXelpfVUdjbDRXTEhxOXlSd09hQW5jQVB3bGQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785717085.0,
         "tag": "JGB",
         "first_seen": 1785724235.5381563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ITTNQY245cGRkVUhWUktnZU00SFBRaVlvcTQ3MHBnLTdBQmhDQlljYWRkT2xhY2ljanYxM1NDRXQ4VmVvdFFRaDRqcXFFZ0ZaZ1pwR2swM2pxd0ZQZjk2aVk5MVFqeUZX?oc=5",
-        "headline": "日, 엔저 막으려 '금리인상·환율개입' 총동원·…엔캐리 청산 우려 현실화?",
-        "summary": "",
-        "source": "녹색경제신문",
-        "published": "08/03 09:30",
-        "published_ts": 1785717024.0,
-        "tag": "JGB",
-        "first_seen": 1785732328.6977441
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZSVkVjSnkyT3Vja1hOd25wdlVRc016R2JtQ3Y4QVNmLThzT05rcTRoVEFqelZYQWNjQzcxWVZHVlJ2dGxsUUg5Q08yVjVQRWMwTlhhWUdwNFlmVVhiVWJ0dnV2aFRMVGxRMjRlTnB6VXI0cWZXdW5JMmhMc0pOdmVCNHI?oc=5",
-        "headline": "[긴급진단] 엔캐리청산 폭탄 미국-일본 17년만의 외환시장 공조 개입... 대체 왜?",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/03 08:19",
-        "published_ts": 1785712790.0,
-        "tag": "JGB",
-        "first_seen": 1785713435.3164692
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 17:01:39",
+  "updated_at": "2026-08-03 17:17:08",
   "yields": [
     {
       "label": "3년",
