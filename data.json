@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTzFrXzNCN2JaN0ZRa1NyUWFvNVZzSUtJYzlWMERhVEVkYU9WclcwampNbl9YcmNVVVRCeEVqR0tFdVJYZm5GVWxlSUFubHlqWmNSaUQ1dmFfZURQcDhLWXR0STNwR3BOSGlLdnh0VWpUOEtIb2plYk9MOVVuWTRxZHI5bFRaYS11TGJGQjZmWVZUMnU3WHVqY0lSRE16MksxbDhyNnVjb3FWeEU?oc=5",
+        "headline": "Kevin Warsh’s Mission: Reviving the Era of Monetary Restraint: News Article",
+        "summary": "",
+        "source": "Independent Institute",
+        "published": "08/04 03:30",
+        "published_ts": 1785781842.0,
+        "tag": "Fed",
+        "first_seen": 1785782729.33037
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPODQ4aWtXNmhVMTJqZDAwdUxhcF9vTFRqc1dZaHQ1VGZhdWY4dW1sSHp5OXFraGZPT1ZLaWpyVWpnSzM2YWJLX0tYM19ta0tpYk9saVRxYjhfT3FCTjUtOS1qdXVmdGxRa3Q5SGo1alNXVU5kMThHWmFfYnR4dlVKVTIzMVpVUQ?oc=5",
         "headline": "Ed Yardeni: Fed Chairman Kevin Warsh 'failed his first credibility test'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785753960.0,
         "tag": "JGB",
         "first_seen": 1785754844.4209893
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQWQ2YldEWXVMR01rR2o2dEJMTzZXdFMxTGphS0N6cjg2d05wNnVUbVk3ZGhnSFpKVktqSGNEZkF0dzNucWdoRE1BTmIwYk1rNTZNVWVxXzJkLUtPVEdnY3pTZEVtX002OXBFcE5QNVU1OFJpeVN2Zzdtb3VJTzI0QWczck8zOXRUc21tSXJSZm1XQlZJbnIwMVZ2TWE4dXpHcDF0Vk5GLWhnUQ?oc=5",
-        "headline": "Japan's fight with yen bears goes on after joint rescue",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/03 19:40",
-        "published_ts": 1785753641.0,
-        "tag": "JGB",
-        "first_seen": 1785753926.0530872
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 03:30:54",
+  "updated_at": "2026-08-04 03:45:50",
   "yields": [
     {
       "label": "3년",
