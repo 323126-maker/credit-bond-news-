@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE95Z1FvUG14c3hELVpQdzIyOTFlc3ZWOXZyVkpxcGFLd3J0Z0JJR0lDcUZxcUtSc1RDamsxTUdEU2dqYWszOGhOMDJqNThJVnQ0RmUxNm1HVWVqUXE1?oc=5",
+        "headline": "국고채 금리 혼조…단기물 하락·장기물 상승 엇갈림(종합)",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/03 16:57",
+        "published_ts": 1785743840.0,
+        "tag": null,
+        "first_seen": 1785745839.0751996
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93R0xPS1h0SVZFeThSdUl0WmJGT25XaDZNcHhnRWhubkNVNW43X2ljenpGN2E1MGhvRkhLbkhVWHNubmFTWkJlLS11bXRRaWQyWnVr0gFYQVVfeXFMT2liN0lxalhtbkxZaklOOGZSQVpZTWNZYUdfbEhaYlBzQXRTVG0xQ0w4WnN1Wk9kRDNaN0tHazVIRFdBSFZfbGlwdDU4QWtfWUd5M3FQTG5PVA?oc=5",
         "headline": "신용평가 3사, '매각' SK실트론 신용등급 전망 하향 검토",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785534223.0,
         "tag": null,
         "first_seen": 1785659430.973705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE82WUhaNnhuWGNRVDJfbkJpWGc2dzllZlRvMHFsWWNHY1RHYWF5TmlrT1Zfejcyd29TeFBOSkNwWkg2UkV4cUMtOWZ0eU9SbUEyWmg1SXI4N1lNZ0tRbVNva2ZrXzBSeVlnSzh0UmcxUEUwVWhEZ1l3?oc=5",
-        "headline": "S&P, 경쟁 심화에 ZipRecruiter 등급 B-로 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/01 04:41",
-        "published_ts": 1785526860.0,
-        "tag": null,
-        "first_seen": 1785528168.5053546
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVno2T3VIdE5vd2Q1OHd2NWN0ZHIxWG50UjNzd085WExvR015d2FuOWhHLUgxcDFNVlhGOWtldFl2dUdZck5aRGxVaUtwSjlrMmxacU1EYUUzN1pDLWlEN2ZDZV81ZGhCbjNQLVp3?oc=5",
+        "headline": "대신증권, 코스피 목표치 1만1500→9300 하향…금리 부담 반영",
+        "summary": "",
+        "source": "이지경제",
+        "published": "08/03 15:56",
+        "published_ts": 1785740213.0,
+        "tag": null,
+        "first_seen": 1785745839.0751996
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBQRWVKOE84WWtLMk9yNUZ3a1MxY280b0xBYUg5RFRtNXkza2g5ZVZtMWtkdTRYTGZYZWlsd3gyczFIbGFnR0FRN2lXOC1wXzdhS0dCRlFPVFNybFRVajhUY3NWM1pOb2lQcTA3LWZNMl_SAXRBVV95cUxORWtoV1l1S0x4bTBWZU4xdjloeFlpZjVoNzhISlI1eHNSaWZfTTFBV1pCa05YX2ZqeHFjcElCbl9odEJSeXNpaGpCMkJQTElQQm4xX2Jib2tVUEQzMkgtTmhNU0xnMlhmakR3WF9VbjVpWmNYWQ?oc=5",
         "headline": "증시 충격에 흔들린 8월 금리 전망…채권시장 ‘동결 가능성’ 무게",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785401475.0,
         "tag": null,
         "first_seen": 1785402034.2632852
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAxYU9qSEJQOXkwMkFUYkN4T0JQR3o0N015MHp5Ync4ekJLMVlVUC1rUTNoa2ViOUpDUERfc1NoNmdRRGg5a05xdkFTTklCWUV3WjVWeg?oc=5",
-        "headline": "[채권마감] 나흘만 약세·커브스팁..아시아장서 미국채 약세",
-        "summary": "",
-        "source": "이투데이",
-        "published": "07/30 17:12",
-        "published_ts": 1785399120.0,
-        "tag": null,
-        "first_seen": 1785400238.1899426
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 17:17:08",
+  "updated_at": "2026-08-03 17:30:59",
   "yields": [
     {
       "label": "3년",
