@@ -202,6 +202,16 @@
         "first_seen": 1785692729.015296
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UVUN0NmF5R2pHN2QwZTlIajFzYm81WGtNN3pYcU9SRjUtZGtDSEFRdWR6OU16ZGhiVFhBZ0c0U0tlTi03UHVhN3NxRWNXUkE?oc=5",
+        "headline": "[김남현의 채권썰] 빨랐던 금리 하락, 다시 박스권",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/01 23:45",
+        "published_ts": 1785595507.0,
+        "tag": null,
+        "first_seen": 1785722434.0637152
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxON2lZYzZuNFN2aTF5bWR3U0tzUGt0V2I5Wjl6T3ZNUUk2Y2lUQXpqQ1JycVgwenNGaUM0WU9VQUw3OFplZmYwOVA4Qkh1cHBFQXZhQ2diaFBYT182NXdJMlZETW05QTViN3hKcUN1SGVCTU84UUZHN3BTbTdVNk1oeg?oc=5",
         "headline": "지금 주식시장에 투자해야 할까? UBS의 견해",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785484997.0,
         "tag": null,
         "first_seen": 1785550532.328978
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Eb0RQTHcxbmRnN2ZhQnUwZWFrTS1kY2pHcV96RU9XQmJsbnhLeW9xLU4wWndrc2paMmY3V1pOam9DTWgzQ3pqLUJ3T0d2bkoyelhHZThubVdzQU5YTXpRdTEwbWNvcXpPbjd4S01fUC1XQQ?oc=5",
-        "headline": "[채권-마감] 금리 급락…내달 국고채 발행계획·WGBI·환율에 환호",
-        "summary": "",
-        "source": "KB Think",
-        "published": "07/31 16:54",
-        "published_ts": 1785484460.0,
-        "tag": null,
-        "first_seen": 1785485722.4072773
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWpKZXMtcV9IM3VURG9aRllVQ2dIa0tHeHdKSlk4Y1hzS2FNX2ktbWZzY09xclVFNUxKVmxnLTVWem5DWGNoY2ZiS1dQQ2lCN2wyRGYyVUtqVE9jcTVSRHhBdWN6TVNxSlEzd2Q1Tlk2LXlZUjZsWHZNVlFXSzZxZUlqTmVKakRFcEJGTzU1WTlJS2RkWUNIUERScXJpcE1sVG1feG1YdFRHWncyUDVuOWpZTklpak0?oc=5",
+        "headline": "The Fed Held Interest Rates Steady for a 2nd Straight Meeting Under Kevin Warsh, With 3 Officials Dissenting. Here's What Investors Should Expect Next.",
+        "summary": "",
+        "source": "fool.com",
+        "published": "08/03 10:56",
+        "published_ts": 1785722186.0,
+        "tag": "Fed",
+        "first_seen": 1785722434.0637152
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWZSVkVjSnkyT3Vja1hOd25wdlVRc016R2JtQ3Y4QVNmLThzT05rcTRoVEFqelZYQWNjQzcxWVZHVlJ2dGxsUUg5Q08yVjVQRWMwTlhhWUdwNFlmVVhiVWJ0dnV2aFRMVGxRMjRlTnB6VXI0cWZXdW5JMmhMc0pOdmVCNHI?oc=5",
         "headline": "[긴급진단] 엔캐리청산 폭탄 미국-일본 17년만의 외환시장 공조 개입... 대체 왜?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785632842.0,
         "tag": "Global",
         "first_seen": 1785689131.5608776
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTHBuc0tNMGQycHdBS2dLRVN3dVN6TXA4aUtFUWxQNHhMNGZadXBRSE4waS1iakNyR3VJYl9MVF9nVWo4dmUxcnZZVXBtbUI5clBYRVlqWDVxbEJNRWZ2ai1JZG9wZTBYUDYyckF5ejNPWVJyaFllTXA3NGIyZXBHcHJzNVBhdlVlRFRqN3lR?oc=5",
-        "headline": "Federal Reserve Chair Warsh Seeks Fewer FOMC Meetings",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/02 08:37",
-        "published_ts": 1785627421.0,
-        "tag": "Fed",
-        "first_seen": 1785627598.5221415
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-03 10:46:47",
+  "updated_at": "2026-08-03 11:00:53",
   "yields": [
     {
       "label": "3년",
