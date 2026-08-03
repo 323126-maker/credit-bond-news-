@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tM1h0VXFFZzdjLTZXYlBlUk53Y2hJSHYycmQzX3JURUJRazlxREpZOGVHbHFscEREejRMSnZUQzRGRmFiUk5Vb3Qyd1pVTENlemNaSkxvdW1Fa1pTeHVSNzFrdW16Uk82c0hVMUhTVjY?oc=5",
+        "headline": "How big was the American JPY intervention?",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "08/04 02:14",
+        "published_ts": 1785777250.0,
+        "tag": "Global",
+        "first_seen": 1785778310.3337917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQR04tY095aHVqa2NSWVRPT091cVRwY2hxbHNsU0NnZGw0ZTBNYVQ0WUcyM1FyN0JoM0pvSjFsclU2LTZhaWJnZmZteUN5bk9zZDlfRExIck1odURZQmZSZ09yaHRNYWowYkg5S01KR2VPMnRybS1xZEtMVXVGcHp5NFI0aDhoUEpfeC1jSHA5X3gtejdiTlBDaHZPZXFUVXZSRHc4NVVUbExPUzdKVmlzMDV5TmR6bGxvbWgwNnhMTVNMOXVwUG9FZloxcHc1blEwMUdWenBIWmhjaTFUd3lHdnpFemRrOWxWZVJGcnBCWklsYzA?oc=5",
         "headline": "Warsh floats fewer Fed meetings to reduce market dependence",
         "summary": "",
@@ -1850,6 +1860,16 @@
         "first_seen": 1785762039.1158442
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lcGxtcXZ3MjNLSkcwX1VIV1lMYnd3Sll1eUlMcWxwZDB0MThnTno5UThQcUdGTU5WZzFjVkdCZ1pDZVRxYUgzTkJnWEFEQUpTdkliUHZLODhLVUtrV2tqam5SdEFTbk5raWE3ckJ0UlN1aTZJMHhZZw?oc=5",
+        "headline": "The Market CanNOT Tighten for the Fed",
+        "summary": "",
+        "source": "Haver Analytics",
+        "published": "08/03 21:19",
+        "published_ts": 1785759597.0,
+        "tag": "Global",
+        "first_seen": 1785778310.3337917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNazE2QnRRcG9WeUo0YmZ4d09na1NuUkk5SG1vQ2tnbzctN2xacmlwekhESnIxQWN4d2p1S0hOUzktbng2LXJuQ2wwYlZzX296WDRTOWRxZjFqWjhQd01jZlV1N0luLTFKc0xxNUplc2lYaGYxSnYtNHJfZ2M3ZXUzNUpvTUNXZ2Y0MkF5cV9LNWtQUFBEZTZZVjBBVEFYaGNNOXZ6bUs3Z0hFVXA4WVNyYklTMzg0Ym04cmtjWkh6R0xZZWdtWkJYNWNB?oc=5",
         "headline": "Building an Income Strategy Around Liquid ETFs: Choosing Underlyings That Execute Efficiently",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785751386.0,
         "tag": "Fed",
         "first_seen": 1785761127.3741462
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxORjRCRHVIZmJ4c2FyQ3l3WFZRUXZ2V2JaZUx0REZSbVFWN0diUmFJYkZkUVlEbHZMZER1YmRXVHAydm8wX0VSSXBHaWY4MnpzNE9PYWpzUFd2eWZxSVVaZ2Jnc053RHBPTHJjSjFJTGZyb016dV9FYUJjZUhEaDB1SEJDbXQ4UDJlUzVseFhEMC1maTVNY3h4OVlIcWJQMGdweFNrUmZfOVo?oc=5",
-        "headline": "The New Fed Chair Needs to Prove His Independence from Donald Trump",
-        "summary": "",
-        "source": "The New Yorker",
-        "published": "08/03 19:00",
-        "published_ts": 1785751200.0,
-        "tag": "Fed",
-        "first_seen": 1785752123.9589236
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBRVXdOM1FMY2g1c0ZCZmNQTGluaG9FYnZCS3JaTXo3WmpNdExnY0cyRWtJVkc0cTBCbHZXY2FrOFZpcTNmSDFUc3ZmdG9KUHBSR1NiOHI2NFk2VXJqYUZj?oc=5",
-        "headline": "US backs yen intervention as fears grow over Japan selling Treasuries",
-        "summary": "",
-        "source": "Nation Thailand",
-        "published": "08/03 18:44",
-        "published_ts": 1785750240.0,
-        "tag": "JGB",
-        "first_seen": 1785753027.8367496
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 02:15:52",
+  "updated_at": "2026-08-04 02:32:11",
   "yields": [
     {
       "label": "3년",
