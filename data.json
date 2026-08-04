@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XZ2JGWVEtUzdmVkNKYjJPZ0E0dnRJdUhfS1FjME1ySHV3V3lHTXVTY3VLakZOUFZmSWs1cTNKMlVBMEctRnpQQ1hCaXlIV1NTR0g4VmFkcFlNNmxnVlRPbg?oc=5",
+        "headline": "李대통령 \"산재 감소·수출 최대 성과…창업 중심 국가 대전환해야\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/04 16:55",
+        "published_ts": 1785830100.0,
+        "tag": null,
+        "first_seen": 1785830443.4238267
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tS3hEdkFvdURzbWJjWUc2ekExcGtxeVVNeWF6WDFWUUtOMVFaUHZERkctTkVEaDVuckVHT1VkandIaHh0WXVLRjcwQWFWeUxpb1RnNGhvV2FOTHh0M29wTXlfYw?oc=5",
         "headline": "李 대통령, 전력망 확충 점검…“AI 전력 폭증에 송전망 지연 우려”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785306562.0,
         "tag": null,
         "first_seen": 1785314728.4121287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KdXBPZXh6S09kN2xRWUlvOC1VdFQ2N0pHTW84TzA3TklZVEl3VlZhUmFic25NSmdmYlRORkFJbTNScVpVMW10c19WcExRd3RHQldz?oc=5",
-        "headline": "野, '보유세 3배' 발언 공세…\"세금으로 집값 못 잡아\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/29 15:22",
-        "published_ts": 1785306120.0,
-        "tag": null,
-        "first_seen": 1785306631.5047357
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 16:45:48",
+  "updated_at": "2026-08-04 17:01:03",
   "yields": [
     {
       "label": "3년",
