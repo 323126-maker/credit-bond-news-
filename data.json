@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUkpFcHlLWDFHdmNMVmxnNmtIdXUtLWJ4MjF5ejRpRFViQU5kWGZaZmNWU19Ua2t1R3hLXy1QVTVsOWlJUkQtTmp1NjAxbDhGQUpNU3BMblgyRTlHNDFOUlBIT2tPbWZKSzE3UTFSQjBfbWc2OUdRa1ZDaXRWVnR4em5ta09pQVdMQXl0Xw?oc=5",
+        "headline": "Warsh Wanted ‘Regime Change.’ Markets Are Demanding a Reset.",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/05 00:11",
+        "published_ts": 1785856264.0,
+        "tag": "Fed",
+        "first_seen": 1785857436.178443
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQc3JCb1A2N1otbnZyQXlZYXFlUlEyQy14Yjc1SGV1ZDhLdDhTakJPaVNaOUdWbVNCS0I3LW5wRllWN216eXJhbTFocTZIc0tqbXhUZUJER293YmR4UGtHSS1Mb29yMUxhUGFDWHVCRW1kaGNsUThSdXVZWDU2WnpHLTZOZnY2aFA4dk5KOHV6OW91M0dFX3JwUk9Id1JzRE9FMTR4cFJoYXZDUEFKWm9aUm9kLWczaWVRUlZR?oc=5",
+        "headline": "3 Fixed-Income ETFs Show Why Yield Is Only Part of the Income Story",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "08/04 23:13",
+        "published_ts": 1785852780.0,
+        "tag": "Global",
+        "first_seen": 1785857436.178443
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTWM5SEtqN1FhMzhZYkZLNHhTdE90V3BzVVprQnduZmRyWl90Nld0SXpCenkxNVkxWllSS3JIakQtWWhfUzJKUE9hMUhXZUcxRTc2Q1E1SWt4aDYycUdoS3U0RTUwQTRWZ290NTJqSTRueGRrUk5DZlBEdlgwVTZDdGQwTVJUNU8tMjlLbHR3TnBxQXViRUZMYzA3Zy03aEFWVE9mWTFHYzZaUEx5UzRRMTJvYjB6UklGMHVyU3NHcGlCTnFWM2N4a2xYalE1QnZSNV9RNWw1eVdYeng1bFBkN1N2Vm5sZWRBdWd3c0xmU3Q2Q2JvMUVwRVJSTktkbVZHOUg0dlc4VUcxMTU4SEE?oc=5",
         "headline": "美 \"韓 원화 변동성 과도…엔저 확산 땐 아시아 통화 흔들릴 수도\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785822060.0,
         "tag": "JGB",
         "first_seen": 1785827724.830689
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPSm1vTUJJeXY0VS1DTF9sWVVqajA4ai02c2UxOXFSdzU3NlVFRXIwalQ4aGhaTHF2THBRVGRjR01uOGN5VjVuTjJWRkpfUXF2d2xrOThwRlg2ZXJzTFp1UGNPSmF2SERBYWpuUERRYkVjSkw0QzEwdGRTenRWbUhjZkFFMA?oc=5",
-        "headline": "Yen Slides As Japan Bond Auction Rattles Markets",
-        "summary": "",
-        "source": "finimize.com",
-        "published": "08/04 14:39",
-        "published_ts": 1785821992.0,
-        "tag": "JGB",
-        "first_seen": 1785847523.389563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3pJLXI2RXJWYVdjalFRUV83ZXIxT21xNnV2WkJnbWo2Y1ZBY0c4dTRLbWEzU3RkRkR2V1VyM094X3dBY3NfenpfRGpWbTV1ZzNOdHNBREVKczFPZUlqS01ISDFXNnp2Z1piZlFsYjZfeTVkZEpVTE9VQ09ndHhQZXZ6YjdYczZp?oc=5",
-        "headline": "日 외환 개입 후폭풍… 일본은행 9월 조기 금리 인상론 부상",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/04 14:37",
-        "published_ts": 1785821839.0,
-        "tag": "JGB",
-        "first_seen": 1785822322.5661502
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 00:15:52",
+  "updated_at": "2026-08-05 00:30:57",
   "yields": [
     {
       "label": "3년",
