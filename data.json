@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPd2RTb1ZKMzhSZnQ5a1dEeEJQVk5walNNRlNiYXVhTVBQaXVUaWppU2V5WFhRdXdXVUFDZDAzWlh2RXktX292V1pGNWY3OWtBY0hOWWJmWk5tLTkxODVFNFl2dEZWYkxnak53cm9nVTA1czJoRFR0M3lRdko0WVFXWXc0T29UQ2d5SXUtZmRDUGhGU1UtV3V3?oc=5",
+        "headline": "Investors Just Got a Blunt Reality Check From Fed Chair Kevin Warsh. Here's What History Says Is Coming Next.",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "08/04 11:35",
+        "published_ts": 1785810945.0,
+        "tag": "Fed",
+        "first_seen": 1785811526.2131164
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iRnNocXQzTUFlaDRxRk9JR2NIOU5CMnRsb2JFVXJXZnVEc0IyU0w5cUZ0Qjc5bmtLY18zdTFselNvc0UxbzcxcWFzbU1hVHR3SHVZVFhCdTNLUlVS?oc=5",
         "headline": "미·일 15년 만의 공동개입…엔화 약세와의 싸움은 끝나지 않았다",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1785794831.0,
         "tag": "Fed",
         "first_seen": 1785804323.0901258
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "08/04 06:42",
+        "published_ts": 1785793363.0,
+        "tag": "JGB",
+        "first_seen": 1785811526.2131164
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yT1Fycnp0TUw4VVJDMlBPYUtkUU5NUVphNVh2OXdYU2d0bUVsMjllbE1BekxMZHZ4bkVJTmxIMHVYTGFET3ZUMnlaMnJ3ZUgyU1otQ1Bn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785772616.0,
         "tag": "Fed",
         "first_seen": 1785773729.737736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQOHI4cTdGWHVVcHRfWVVtWmx4VGdYTGE5ckppRWkxbmhBbjVrWVozU1FCQXFWenV1OHd5bUJUcjhxM0RZdnF3Zl9ObWdSNEsyNkN0RmJSblB2UmR2STJyd3UxUlppTnJJQ3RqdnRRNTdzMFlwQ1RqOVFtaGsyODFsQzI0WXltRTk0bTZ2N1FteGVNNlNxT1RDN2NUelFEcVBpTW5KV0wycUhRSUFabE1wSHRLRGYtVkdr?oc=5",
-        "headline": "Treasury yields slide as Iran tensions ease — for now",
-        "summary": "",
-        "source": "mpamag.com",
-        "published": "08/04 00:44",
-        "published_ts": 1785771844.0,
-        "tag": "Fed",
-        "first_seen": 1785772845.854916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fc2JJTlF4eE93aGtGYlZLUjJiUEhuV20wcUEwUzVYcHJURE9fdnl3SHBtSVloQU9Yd01xMVc3R2dzV2V1LXpGMS1TbE54STlzUVZDbkVqUlBobzNuV0VRb29qZ1ZDZktaeEthbFhLazgyZzlqQWpDbWxyTklibE0?oc=5",
-        "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/04 00:42",
-        "published_ts": 1785771728.0,
-        "tag": "JGB",
-        "first_seen": 1785774640.9693458
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 11:30:50",
+  "updated_at": "2026-08-04 11:45:46",
   "yields": [
     {
       "label": "3년",
