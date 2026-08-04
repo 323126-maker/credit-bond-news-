@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3pNWjUxUGxQWnp2TnFfZ2kxU2djcWw0cXJqbDVBakwzSUxKbWZkVTN2aVVBT1gxQThzamxTUkhWZFVCN0RPaG0zVDJkaC10OVRoaTJNRFJjYnNCN1Jodzd5UFJ6OFN5cHpuRHc3TG0wUGZvbjJlQWs1QXM?oc=5",
+        "headline": "[DCM] 7월 회사채 시장…보증채 롯데케미칼 오버·SK에코플랜트 언더 [7월 리뷰①]",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "08/05 06:00",
+        "published_ts": 1785877200.0,
+        "tag": null,
+        "first_seen": 1785877378.700693
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YajRLa1hPWlZaZV84bWtVZ2ZxUTFCaFFjQXJremNWOUdNckcybmV2REhBZHJaYWF2Q1ZkWUs4REJaN0RvaXNFVWdtSDRjMk5hN1pZc04taGJBNFJLZkxxRzhaZno2cU5hQmJN?oc=5",
         "headline": "[AI 인프라 전쟁] 빅테크 회사채 급증…시장은 공급과잉 경계",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785798027.0,
         "tag": null,
         "first_seen": 1785798923.5921037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1nWUFacU5nMWVSRDR2ckVPLW4xdEZpWUdIUGN5SmlEaDlKVlB3aG96S3g5Z3RJX09pMC1CcHRzc2xVQkJrY1ZHbmFwakhJbWhjMUZrdTFPNWhYY3FWQ2oxLUJ0ZG12Yk1tNlNz0gFvQVVfeXFMTjhNWldQMEdBcTJRZTFlX1FUakxpbVFqZjJzbE5NU1F2M21aVWdMcTZNWm5iSHBwZXFEbEFPbVdfNG9fYm14bGJ4SF9rMzNCS1dfX1pHQ2s3b00wRE5kMEJlaVF4NGZwVEJFd1hDOHZV?oc=5",
-        "headline": "유가 급락에 미 증시·채권 동반 랠리…나스닥 2% 넘게 급등",
-        "summary": "",
-        "source": "뉴스로드",
-        "published": "08/04 07:50",
-        "published_ts": 1785797441.0,
-        "tag": null,
-        "first_seen": 1785817833.890233
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 05:58:10",
+  "updated_at": "2026-08-05 06:03:22",
   "yields": [
     {
       "label": "3년",
