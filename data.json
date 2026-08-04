@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rMEpUMjlKTzB0WlJxY3FqWnlyenhoS2RuTzVpeUdHeVpIZWJzeWdKamtSeV9kZWUxR1FrVEQxdmlFVDIydGY5d0V5M0pwa1VKQTZXRGpuc08xSFl5MkE0MFFyX3Ruc08yWTZoOTJNelJNUQ?oc=5",
+        "headline": "회사채 한파에 유동화 쏠림 심화…짧은 만기에 차환 리스크도 커져",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "08/05 07:00",
+        "published_ts": 1785880828.0,
+        "tag": null,
+        "first_seen": 1785880974.001795
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1hT3pNWjUxUGxQWnp2TnFfZ2kxU2djcWw0cXJqbDVBakwzSUxKbWZkVTN2aVVBT1gxQThzamxTUkhWZFVCN0RPaG0zVDJkaC10OVRoaTJNRFJjYnNCN1Jodzd5UFJ6OFN5cHpuRHc3TG0wUGZvbjJlQWs1QXM?oc=5",
         "headline": "[DCM] 7월 회사채 시장…보증채 롯데케미칼 오버·SK에코플랜트 언더 [7월 리뷰①]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785799233.0,
         "tag": null,
         "first_seen": 1785812436.5945141
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpd2w0WEJiX0RIQ0tnd3JXUXpkYVZiUEJ4NmNFUUhwUDhWMVJOTDlCOGE4YzVfM0pfS1FMd2JJNzU4SVJSVGRpQmJhNTBiay1ySkNOUEhR?oc=5",
-        "headline": "[핀포인트] [KCC글라스] 신용 하향 위험…늘어난 외형 불구 수익성 악화",
-        "summary": "",
-        "source": "DealSite경제TV",
-        "published": "08/04 08:00",
-        "published_ts": 1785798027.0,
-        "tag": null,
-        "first_seen": 1785798923.5921037
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 06:45:55",
+  "updated_at": "2026-08-05 07:03:19",
   "yields": [
     {
       "label": "3년",
