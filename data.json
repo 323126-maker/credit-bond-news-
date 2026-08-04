@@ -414,6 +414,16 @@
         "first_seen": 1785824125.8873372
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oSTQwN01lc0otT0ZqcnViR2pUTVdyMzR0dWtselZxZm9JMEx0QlhVNkJFRzVlbjVnRzBCRm5vaHBmUEczUUd2a3J3SFhaSDlZTEtOaloycUhJN3hnU2FQVw?oc=5",
+        "headline": "중앙그룹 채권 피해자들 \"JTBC 신종자본증권 손상차손 누락 의혹\"",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "08/04 14:46",
+        "published_ts": 1785822413.0,
+        "tag": null,
+        "first_seen": 1785825031.609475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15RmRTeldjS0k4YzFrS3dDUW5GWVhXRnJLaU5NX0twTTZLRUZ4SE1BZGJWOERXM2I3bVJZN04xcnBPY3NQMV96bjRwYlcwY3JqRmhoVUlldk9wU2ZZb0UwdA?oc=5",
         "headline": "중앙그룹 채권 피해자 변호인단 \"손상차손 미인식, 정반대 회계처리 규명 필요\"",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785477663.0,
         "tag": null,
         "first_seen": 1785478521.7494798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YS1JfLVhFbElabGlZWkJKVTZhLUJ4ZnF2U2pMVUFFUk84OHJEMWxYcEdWTUNCVWNmT2Y2cnE5bERXLWVMODUydUxuT1FlaE5ydWNxRWlB?oc=5",
-        "headline": "IPO 재도전 앞둔 소노…티웨이 주가 부진에 속앓이 [재계톡톡]",
-        "summary": "",
-        "source": "매일경제",
-        "published": "07/31 13:32",
-        "published_ts": 1785472367.0,
-        "tag": null,
-        "first_seen": 1785670232.3761733
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOWNRWEpJNzA5QW1pYmYtTlJxcVRKTkJsRUh2U1l0SVlHWlJOemdlWGhjOGtoWFltV2pMT29SOEUtS1JaVmpNaUdQdF9EU0I3STFVUlhIYXgxM3JxQkJhS3Mza0syTTUyLXJfb2VCU1pGMVUzYmZ4Q3I2OEhWY0trUXhQQWtTbkNsMkxzcUhlaDlzV2FhYnpLR1NOclJoSDYyeC1Kb1BHaGo?oc=5",
+        "headline": "Japan, US likely to intervene again if yen resumes slide, ex-BOJ official says",
+        "summary": "",
+        "source": "The Mighty 790 KFGO",
+        "published": "08/04 15:28",
+        "published_ts": 1785824907.0,
+        "tag": "JGB",
+        "first_seen": 1785825031.609475
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOHY2NXVJdWhIbHpaMkRGakVhNW9TNDkxZFJ4Zkt0Tzhjdjg2SkdXMjVXM2l3R191amVHVmhWS0g1ano3UkNra29JSmlYTWxFRnlXRS1mY0NySDQ2Z2ItOTE4LUV4amh5ZFh2NXRJemhaU3lCaG4xWXhhXzFXNl9GRTlkMl9oZWRVLW1VVVZPNDF1TVkxTEdITXFhOUNkMHhBcEpNTWFn?oc=5",
+        "headline": "Is the US Economy Overheating and Should Bond Markets Be Worried?",
+        "summary": "",
+        "source": "Modern Diplomacy",
+        "published": "08/04 15:12",
+        "published_ts": 1785823958.0,
+        "tag": "Fed",
+        "first_seen": 1785825031.609475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd3pJLXI2RXJWYVdjalFRUV83ZXIxT21xNnV2WkJnbWo2Y1ZBY0c4dTRLbWEzU3RkRkR2V1VyM094X3dBY3NfenpfRGpWbTV1ZzNOdHNBREVKczFPZUlqS01ISDFXNnp2Z1piZlFsYjZfeTVkZEpVTE9VQ09ndHhQZXZ6YjdYczZp?oc=5",
         "headline": "日 외환 개입 후폭풍… 일본은행 9월 조기 금리 인상론 부상",
         "summary": "",
@@ -1778,6 +1798,16 @@
         "published_ts": 1785809684.0,
         "tag": "Global",
         "first_seen": 1785816036.7697146
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFZ5SU1MQTBiMlJHRFB0WFdHSExFbnBTMFp4bjRiYXlSb3pkS1ZDbThEaVZ2NnVqZmVueVB5UXVjeUpmNjJaRnZZT3c0OFg4bzhMMEl0VC1kS1NKSFBJanB3S3ZiYVpSTWdXQ3VVeVhXelN3Zy0yM3FLdU12U1ljdXVWa0RiUlBzb2s5TWMxOU5DMmlBXzN4TWpmMDlIcU5BU3Jfd1k5aVd0R3lB?oc=5",
+        "headline": "The real reason Trump just rushed to help Japan",
+        "summary": "",
+        "source": "SMH.com.au",
+        "published": "08/04 10:57",
+        "published_ts": 1785808628.0,
+        "tag": "JGB",
+        "first_seen": 1785825031.609475
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iRnNocXQzTUFlaDRxRk9JR2NIOU5CMnRsb2JFVXJXZnVEc0IyU0w5cUZ0Qjc5bmtLY18zdTFselNvc0UxbzcxcWFzbU1hVHR3SHVZVFhCdTNLUlVS?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785793020.0,
         "tag": "JGB",
         "first_seen": 1785794443.7678778
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jWDVpaEdPa3Nzb1VWbVhnSWstaGhLa1JjRF9jS3V2a2hFVmM3NTFhaFBLRFlJTlNYSE5SM0l3WlZsTGJhQUx3VGhkOXZ6b1NlbGx1dVVuendjUEtRQzg2ODBpRFJ2SkRiMDh4WmlqYUNLZXFtWnc?oc=5",
-        "headline": "AI Chip Financing Wave Hits: Citadel Securities Says US Tech Will Borrow Another $500 Billion by 2028",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/04 06:35",
-        "published_ts": 1785792900.0,
-        "tag": "Global",
-        "first_seen": 1785816036.7697146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY29FYlFFN1RWSmhmQVZHNDlHMWZzMjRsZnF4ZGtORVpOdTB6S2U3dy1PbDk5SlBESUVfSkplWHRVQUhMTWgyNU9QR1dWQjlucXg3WG9MZ0RUUU9zcXdxUUY2X1lDWXRNbE5wOG9wbmppQ29tRG1QRkp1Ql9QZ0RNTXVnNlJXWmp2ZUNIcy1PWllNbC14UVh1TFN4dlJUZGx4VVNrdFU2S3UtZDJS0gGyAUFVX3lxTE5jNUJwTEdjdjctRkoyQ0NxZmtTdmgtNjFGc0F2UjlqV1otbkNfS1VWakp1SVJ3YlJCbTJZa0RvMmFReTdUY0FiUEZOUmR1T2JfcXJ1U2Rnb0FpMm5aNTRQQjBjTEhJcThpSWsxZzFEWGEtcDhDcFZjSldTSS1qTkZaeEFodXNOUkw0WlRBUHRkUkJIXy1EWXhvYXpRWm9aQ1k0dzZfS3N1M2VWMkRXX0Q0VHc?oc=5",
-        "headline": "Milei’s money man shuns foreign markets after failed bond binge",
-        "summary": "",
-        "source": "Buenos Aires Times",
-        "published": "08/04 06:27",
-        "published_ts": 1785792469.0,
-        "tag": "Global",
-        "first_seen": 1785803433.0544703
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjTWU5NmRxSVoySU8tQ3NZcVl1SjRaS3RlY1VpWEY1cmdiOVBPNzN5QnVlU2NSaHNuamk0R09yQ2NXQUdlU3hPR3FzcjZnMVU?oc=5",
-        "headline": "\"엔화 살린 美의 진짜 목적은 국채금리\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/04 06:20",
-        "published_ts": 1785792010.0,
-        "tag": "JGB",
-        "first_seen": 1785792631.846846
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 15:15:50",
+  "updated_at": "2026-08-04 15:30:57",
   "yields": [
     {
       "label": "3년",
