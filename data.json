@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1saFYzSVE0MW04QWxldkR1dkFrWWxkbDd6UUZPcmk0UFN1S3hkRjZqWWEtWGZPMmlzekZSczFBT3lXSXR5bEJ4UTBpZV8yYkh6QkZ3QktZS0d6cW16Y0g2bA?oc=5",
+        "headline": "'엔화 방어 공조' 약효는 단기뿐···관건은 일본은행 [트럼프의 환율 베팅②]",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/05 05:01",
+        "published_ts": 1785873660.0,
+        "tag": "JGB",
+        "first_seen": 1785874596.4779012
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kaUZPeHBvRmZqc092Zm5zZEVIUlJOYlp0enQzcjhjYXdILTVvYTR4ajIwVDF4aDV1ajlHX0tGVEoxdTVQYnpwTXN6eFZ4WGlaaWlnMnJVVG9KVE9ZS01Fcjc0a3JhX0c1Nk5fMUV4VExfaWIy?oc=5",
         "headline": "ECONOMICS WATCH – New Fed Chair Facing Economy Challenges",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1785852548.0,
         "tag": "Strategist",
         "first_seen": 1785860546.6522048
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85RUYyM3E4cVN5amRuZnNKWmJ1X1llRklHTEc2MU5QamN4TzR4OXF3NGE4aXljM3lmMnlNOW1TcUs2TDFXVkF4elgzVndzU0psMjlRZGNhN1RQOGsyWEx6eA?oc=5",
+        "headline": "필라델피아 연은 총재 \"지금 금리면 물가 잡기에 충분\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/04 23:02",
+        "published_ts": 1785852120.0,
+        "tag": "Fed",
+        "first_seen": 1785874596.4779012
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOTWM5SEtqN1FhMzhZYkZLNHhTdE90V3BzVVprQnduZmRyWl90Nld0SXpCenkxNVkxWllSS3JIakQtWWhfUzJKUE9hMUhXZUcxRTc2Q1E1SWt4aDYycUdoS3U0RTUwQTRWZ290NTJqSTRueGRrUk5DZlBEdlgwVTZDdGQwTVJUNU8tMjlLbHR3TnBxQXViRUZMYzA3Zy03aEFWVE9mWTFHYzZaUEx5UzRRMTJvYjB6UklGMHVyU3NHcGlCTnFWM2N4a2xYalE1QnZSNV9RNWw1eVdYeng1bFBkN1N2Vm5sZWRBdWd3c0xmU3Q2Q2JvMUVwRVJSTktkbVZHOUg0dlc4VUcxMTU4SEE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785835217.0,
         "tag": "Strategist",
         "first_seen": 1785841237.8970861
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Md2VnelZvOUVhMmtHZDk2NWtTRU4weE5Vd1NvQzgxWENYSERXVHBNUjgtZ2Z0RTRKdEZkMDdFYjVQdjJBZ190cmVXN2JiU0dnQ3QxWnBzeWZoekhnblF0YQ?oc=5",
-        "headline": "약발 안먹힌 엔화 구출작전…日 조기 금리인상 불지펴",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/04 18:05",
-        "published_ts": 1785834300.0,
-        "tag": "JGB",
-        "first_seen": 1785834923.3398192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wWklYSlFJeldDbGVaeEdieXRQNDFJT1ZWb2FQal9OTmpKNy1pY1hVUGItNXB0OVA5TzhxeWN0SW1vZjRKSXhvXzRwLXJ1SXREeGdreS1hOTRFRlZyd0xMZHVXT29HeENvRW9vN1R1OWw?oc=5",
-        "headline": "Q&A on Yen Intervention",
-        "summary": "",
-        "source": "Robin J Brooks | Substack",
-        "published": "08/04 18:01",
-        "published_ts": 1785834084.0,
-        "tag": "JGB",
-        "first_seen": 1785856526.833462
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 05:03:11",
+  "updated_at": "2026-08-05 05:16:57",
   "yields": [
     {
       "label": "3년",
