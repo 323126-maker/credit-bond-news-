@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YajRLa1hPWlZaZV84bWtVZ2ZxUTFCaFFjQXJremNWOUdNckcybmV2REhBZHJaYWF2Q1ZkWUs4REJaN0RvaXNFVWdtSDRjMk5hN1pZc04taGJBNFJLZkxxRzhaZno2cU5hQmJN?oc=5",
+        "headline": "[AI 인프라 전쟁] 빅테크 회사채 급증…시장은 공급과잉 경계",
+        "summary": "",
+        "source": "numbers.co.kr",
+        "published": "08/04 23:06",
+        "published_ts": 1785852375.0,
+        "tag": null,
+        "first_seen": 1785853835.928884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemtYSGdLT0tDSG1FTW1nZTZDUTVNUG1jYTRVVmFEMnB3TnFkaGtiUU40YUVjUE00MVFaMW10ZDREdnNjcjk3U2tETWNtVEI3OGR3aWRjRVpEVHhFZFRIdXh0SW9nczE2ZmR6UlNFZWFVc2p4ZUtMelFHYjk5MXR5bVFFQzFnRlVia21xZ1FxN1hGNDB4MjdjWGc5eGfSAZwBQVVfeXFMUHprWEhnS09LQ0htRU1tZ2U2Q1E1TVBtY2E0VVZhRDJwd05xZGhrYlFONGFFY1BNNDFRWjFtdGQ0RHZzY3I5N1NrRE1jbVRCNzhkd2lkY0VaRFR4RWRUSHV4dElvZ3MxNmZkelJTRWVhVXNqeGVLTHpRR2I5OTF0eW1RRUMxZ0ZVYmttcWdRcTdYRjQweDI3Y1hnOXhn?oc=5",
         "headline": "IMM크레딧, 하나마이크론에 교환사채 1000억원 투자 추진 - 조선비즈",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785794421.0,
         "tag": null,
         "first_seen": 1785813324.2190738
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBScjc3YWpHMTZDaEdyMlVCamQ0ZHBidld6cjdfYkYySm5IR2RwX2pYd25NX2dpYU81Vnkyd2hfNnhYRVlOaFVIQXNFWGV0b19GMW92VlZZdFhUVTlEZ3lQX3l3?oc=5",
-        "headline": "8월도 회사채 시장 부진…\"내년 연초 회복 전망\"[클릭e시장]",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "08/04 07:00",
-        "published_ts": 1785794400.0,
-        "tag": null,
-        "first_seen": 1785795334.0295463
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 23:15:57",
+  "updated_at": "2026-08-04 23:31:02",
   "yields": [
     {
       "label": "3년",
