@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iRnNocXQzTUFlaDRxRk9JR2NIOU5CMnRsb2JFVXJXZnVEc0IyU0w5cUZ0Qjc5bmtLY18zdTFselNvc0UxbzcxcWFzbU1hVHR3SHVZVFhCdTNLUlVS?oc=5",
+        "headline": "미·일 15년 만의 공동개입…엔화 약세와의 싸움은 끝나지 않았다",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/04 10:47",
+        "published_ts": 1785808020.0,
+        "tag": "JGB",
+        "first_seen": 1785808833.1307223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1JR1F0NWdBMHBYalZFZ1FoS3lieDdid2dObVVOdVRwWnpwc2cyX2UwUzFrZGItWXdIYmh1aGpxVno2cWFMdzFIRmN3STRPbFBIRGVrSDZ1SmIydVFVT3haRldQd0NkbU1Xd1d1UUl1UllRUEl1b3B3?oc=5",
         "headline": "美日 엔低 방어 공조 효과있지만 일본 금리 인상 촉진할 수도",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785771647.0,
         "tag": "Global",
         "first_seen": 1785777329.087835
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWHZBQXl3bWF3am13OXMzbWFsRlU5NWVfZG9ESjVOR2daV2xCUVlsSThIVEFsTXlYc1F4bU1pSFdUVlFBR25Gc25ic2ZRamtHZVBlS1Rubnc2WmE5MVVtMEJEeENUZmRNYXg1Q2ZSQl9WSHRRT3plZmhKV3B4SkQyb2hlMFh5TEJ0SDNNMFhxZ3ZCTkdFeWctdXhoRmxwNHh1RWhYNzY0SEtoRGc?oc=5",
-        "headline": "What top minds in markets are saying about the US intervention to prop up Japan's currency",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "08/04 00:31",
-        "published_ts": 1785771114.0,
-        "tag": "JGB",
-        "first_seen": 1785771924.6092358
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 10:45:46",
+  "updated_at": "2026-08-04 11:00:57",
   "yields": [
     {
       "label": "3년",
