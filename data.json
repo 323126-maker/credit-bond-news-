@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ocEdqdklqVGxsa1ZJNkd5NnlMam1aSjJ3XzBsSE95V0JlQVExcDhJbDR0UFJLTHBTN2t1TTJ2bWFIQ0xaSm9DTFRYUDR3X3ctZWJBVktNMDBGb2JnQ3c?oc=5",
+        "headline": "동양생명, 진통 끝에 우리금융 완전자회사 확정",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "08/04 16:36",
+        "published_ts": 1785828960.0,
+        "tag": "우리지주",
+        "first_seen": 1785829524.3313544
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5LXl6SzdydnFESDEzd212b2pIcWhEWTJqLTI4MEdwN3VJcWJGMEZtT2FNVE1HaHJyN3k1TUdPS0ZpRlgtV3FaajBuaVBJTTJfazVTdERJSVg5N3lrRVBQMA?oc=5",
         "headline": "\"기업 돈줄이 마른다\"...회사채 금리 뛰고, 발행시장 위축",
         "summary": "",
@@ -2400,27 +2410,16 @@
         "published_ts": 1785477420.0,
         "tag": "한국항공우주",
         "first_seen": 1785478521.7494798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBfVzFuQUpCV0k1cjZfZ1V4NmRDZ3JVZkpXTWl2MFhwQ3NlaHZKQXBwREJIbVZxelN3S2dkOVZhX2tJYWxDNzlTS1BnaGEwTGtyVjRXZHlqT1VGN1hUaktHSzBSb2JPRmNJNEE?oc=5",
-        "headline": "Sh수협은행, 전역장교 신입행원 임명장 수여...\"미래 금융전문가로 성장\"",
-        "summary": "",
-        "source": "청년일보",
-        "published": "07/31 14:39",
-        "published_ts": 1785476361.0,
-        "tag": "수협은행",
-        "first_seen": 1785476768.8727994
       }
     ]
   },
-  "updated_at": "2026-08-04 16:30:54",
+  "updated_at": "2026-08-04 16:45:48",
   "yields": [
     {
       "label": "3년",
-      "value": 3.742,
-      "chg_bp": -1.6,
+      "value": 3.74,
+      "chg_bp": -0.2,
       "series": [
-        3.776,
         3.78,
         3.775,
         3.778,
@@ -2439,15 +2438,15 @@
         3.8,
         3.831,
         3.758,
-        3.742
+        3.742,
+        3.74
       ]
     },
     {
       "label": "5년",
-      "value": 4.014,
-      "chg_bp": -0.1,
+      "value": 4.004,
+      "chg_bp": -1.0,
       "series": [
-        3.991,
         3.999,
         3.999,
         4.016,
@@ -2466,7 +2465,8 @@
         4.037,
         4.078,
         4.015,
-        4.014
+        4.014,
+        4.004
       ]
     },
     {
@@ -2525,10 +2525,9 @@
     },
     {
       "label": "30년",
-      "value": 4.537,
-      "chg_bp": 3.0,
+      "value": 4.557,
+      "chg_bp": 2.0,
       "series": [
-        4.4,
         4.425,
         4.46,
         4.459,
@@ -2547,7 +2546,8 @@
         4.515,
         4.537,
         4.507,
-        4.537
+        4.537,
+        4.557
       ]
     }
   ]
