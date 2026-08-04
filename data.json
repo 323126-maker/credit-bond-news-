@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNWGhJRmhRdjE3WnpwRnh3anZqa3pmRGswN2JNRlRsc2NEemVLbVpsOHlvUy0zaGtXTGNZZ0RwbjdyWFR5LUdrWE8wemlIRXduSElMVF95QlZUNUV3QXlaVEhWTTA2TFZ5djFOTEZzaDBOa18yamREcWpnZ0FHUUUzT3FzWVRSLVB6S1BtZWNQQm9UMVhBUFJnY25YM3pwcGV2dE1ONGxseDE5VWN1ZzctS2djY1Z2QUMxRk1qekI0aU03MUQyZ2pMV2Y2TU1mamw3SXZyN2pWU1RYd09nSndOaG1qenNHRzZSV0tkUFpmNjhBcnlY0gH6AUFVX3lxTE1jRnFOZmZ1Smd6bVZMRUo3LVZKN0lobjl2YjRjcWF2dTk1UEJEN3hvMEt5ZUxhYXBnVnJDV3pGNEtSRjhPMHlSUFh5N05xaFRhMXdqVU5xWTZDLTBUZTNXcnAxckNaVG44Q2Z6WjhtajhUOThCUWk3czA1VEp0eU8zM21vSjl4Vzc3alU5dE9XTmdxSkpFT19Ia1BOd0F1RnluVTdNZnZYdnNxS3laVmYtRUM1NlNzVUxpMTVpZWxzU0lKSkF6dkd3NWtCMERacmZ5dTJVRkw4aFBkbEJ1SWt4MUFrUzBHQVVxbnd3SWpyMjZIQlJQRF9TM1E?oc=5",
+        "headline": "Global Market: Japan's 10-year bond yield climbs after weak auction signals soft demand",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "08/04 16:47",
+        "published_ts": 1785829659.0,
+        "tag": "JGB",
+        "first_seen": 1785830840.7448754
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9Fc2JJTlF4eE93aGtGYlZLUjJiUEhuV20wcUEwUzVYcHJURE9fdnl3SHBtSVloQU9Yd01xMVc3R2dzV2V1LXpGMS1TbE54STlzUVZDbkVqUlBobzNuV0VRb29qZ1ZDZktaeEthbFhLazgyZzlqQWpDbWxyTklibE0?oc=5",
         "headline": "Here’s Why the US Is Helping Prop Up the Japanese Yen",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785798121.0,
         "tag": "Fed",
         "first_seen": 1785823246.2960443
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ub3RsRUdKTk9sZ2pReG1Dc2J4TmN6VlZYV25HenZYSzRpRm9LRU8zWDVlU1hja2JiY0ZyQ2Y2RDR3Z1I4akdmSTZfalZNX28wUVZTZVZ3ckZFU09Kdm1yZ3h0bVFYeWNodTF4aExYUW9jdw?oc=5",
-        "headline": "베선트가 띄운 'FIMA 레포'…한국도 쓰게 될까",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/04 07:56",
-        "published_ts": 1785797785.0,
-        "tag": "JGB",
-        "first_seen": 1785806123.3460112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-04 17:01:03",
+  "updated_at": "2026-08-04 17:07:40",
   "yields": [
     {
       "label": "3년",
@@ -2467,33 +2467,6 @@
         4.015,
         4.014,
         4.004
-      ]
-    },
-    {
-      "label": "10년",
-      "value": 4.26,
-      "chg_bp": -0.4,
-      "series": [
-        4.213,
-        4.245,
-        4.25,
-        4.23,
-        4.263,
-        4.333,
-        4.327,
-        4.297,
-        4.336,
-        4.328,
-        4.394,
-        4.392,
-        4.447,
-        4.333,
-        4.289,
-        4.257,
-        4.311,
-        4.261,
-        4.264,
-        4.26
       ]
     },
     {
