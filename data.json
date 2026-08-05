@@ -1620,6 +1620,16 @@
         "first_seen": 1785912322.9925745
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWNTSHBTc0ZZN0RXYURtWHF2NG54U2txMHpTMWJLQzRwa0hGSnlqWkFOeS1qaDd0eWN0dlFkY0hxejRiMnRWeHVaS1U2bmZZZHI3ZVJKWGpxQ2R6bFZic0FzX1NYUWRmd0JrZl8xR1o4NnpDVTNGWmRGTHVDV1NnUmJVV2RTX0g30gGcAUFVX3lxTE1VNnhLbW9Za2EwX1JlQzd1d1RtSzBldUpsRzJBaFlLNHZ4eC1EZThPeThYWUVRNVUzTElUZmo5TXpBSlNtZjdVTXJ2QzZjYV9NdlphSXhzXzB4RDRjaWVMUndPdXZNVWl6QU1odmJGT09OeHlhVW8xSl9aWENoc0ttZ3JSN2F2RlltLTFsVDBtSjFCclhhR2hqLWx1Yw?oc=5",
+        "headline": "US-Japan yen move shields US inflation and bonds while bolstering Japan",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "08/05 14:52",
+        "published_ts": 1785909120.0,
+        "tag": "JGB",
+        "first_seen": 1785915923.4700081
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0VYRnZod1g3Z3JhS052RWFGZGd5TnR3c1hHTDBUSllDUVRER0tHR2EyYTcyUEF5eUdBMUVJZlI1TVpvTWlUMVQ5YUV1M3pMQmV5ZUt4ZGFsa3JyYjh0RTl0RlZrWW1TN1dLTmdnQ0VBQlJ3N2d2d0NhZElXeHpCS2g4VGNPazd2ZWZqdkkzVno4TWFIaEhHX01pNGp1d1FPM2lwZWdMdnYweWZWM20tLUJId08wY0dFZnlSblpTZFVRZGFHRnlzeg?oc=5",
         "headline": "Japan's government bond yields fall as lower oil prices ease inflation fears",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785861178.0,
         "tag": "Fed",
         "first_seen": 1785861925.393831
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnNicndkejlEY2VCY2ptVzU5VXJ6VU9jWDNMc3VBbXU4M2JUQVBhYU9vRXF3ZE9qNXRLWU0taWp4aHZSX2RDLWJLLWIxNjB0aHJQa2lxaXVaRUtjc1g0NGstS1VYMVBPTVJTYTJpd2JFVm1jZVFpQVZFYjE2WC1xSk10MUl5SFE1elV6NHB6MHVZdVM0TXluZXc3dnBDamxHNC1RaFZKcktENjJxaWkxUUVSMlo1SXBvSXhUemV2SVB0c2tvRFJibzRn?oc=5",
-        "headline": "Bessent defends Warsh, saying markets are going through ‘detox’ from too much Fed guidance",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "08/05 01:25",
-        "published_ts": 1785860700.0,
-        "tag": "Fed",
-        "first_seen": 1785875435.4604452
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 16:30:53",
+  "updated_at": "2026-08-05 16:45:47",
   "yields": [
     {
       "label": "3년",
-      "value": 3.74,
-      "chg_bp": -0.2,
+      "value": 3.669,
+      "chg_bp": -7.1,
       "series": [
-        3.78,
         3.775,
         3.778,
         3.768,
@@ -2439,15 +2438,15 @@
         3.831,
         3.758,
         3.742,
-        3.74
+        3.74,
+        3.669
       ]
     },
     {
       "label": "5년",
-      "value": 4.004,
-      "chg_bp": -1.0,
+      "value": 3.916,
+      "chg_bp": -8.8,
       "series": [
-        3.999,
         3.999,
         4.016,
         4.008,
@@ -2466,15 +2465,15 @@
         4.078,
         4.015,
         4.014,
-        4.004
+        4.004,
+        3.916
       ]
     },
     {
       "label": "10년",
-      "value": 4.26,
-      "chg_bp": -0.4,
+      "value": 4.15,
+      "chg_bp": -11.0,
       "series": [
-        4.213,
         4.245,
         4.25,
         4.23,
@@ -2493,15 +2492,15 @@
         4.311,
         4.261,
         4.264,
-        4.26
+        4.26,
+        4.15
       ]
     },
     {
       "label": "20년",
-      "value": 4.526,
-      "chg_bp": 1.3,
+      "value": 4.471,
+      "chg_bp": -5.5,
       "series": [
-        4.396,
         4.431,
         4.431,
         4.413,
@@ -2520,15 +2519,15 @@
         4.506,
         4.463,
         4.513,
-        4.526
+        4.526,
+        4.471
       ]
     },
     {
       "label": "30년",
-      "value": 4.557,
-      "chg_bp": 2.0,
+      "value": 4.511,
+      "chg_bp": -4.6,
       "series": [
-        4.425,
         4.46,
         4.459,
         4.438,
@@ -2547,7 +2546,8 @@
         4.537,
         4.507,
         4.537,
-        4.557
+        4.557,
+        4.511
       ]
     }
   ]
