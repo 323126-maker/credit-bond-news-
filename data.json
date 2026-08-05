@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDhWR1FzT0E5ODdrdDhwQmcxVC1fNHhVeGJEdjQtamRFZ0NIOHgwSm5FSHJuQnB4OHZEdkJoYnlYcGdPMEtwdWxSLVhvQ294aS1ldzFkNnRBWmNUMGZQUDN1T0pnTnJxNHk0dmJOZGdqNG52LTFOeVE5SmgzU0l4eVFFcjRUWW8?oc=5",
+        "headline": "The Fed Holds, But Bond Volatility Breaks Higher",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/05 17:20",
+        "published_ts": 1785918000.0,
+        "tag": "Global",
+        "first_seen": 1785918629.0241756
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNk5sdW91VXpaQjBLVGI2NjBxMjZkSklOMERBS3EyR0NwbGVyN3lxVExnWkF5aXJTbjVMRGE4YndTZVVTbzZvLV93em83RnRRRHQ3NWl0blJuaDNoV3ltOURIZlJCTXVsVWxQZ0lqTGdTWk9KX0RaSTgxNGJBdUo5Y0FlaFZnVmJmcTBfcU5aTUM2QQ?oc=5",
+        "headline": "What the New UK Chancellor Means for the UK Economy",
+        "summary": "",
+        "source": "MercoPress",
+        "published": "08/05 17:18",
+        "published_ts": 1785917880.0,
+        "tag": "Strategist",
+        "first_seen": 1785918629.0241756
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmEyYUR2Ri1OOTUwamo2NDRNdmRpZ3RuSmJvS3J1UjBaMmJxb09IVURycnNUcWN5OG5EYXY0TFE2UDhrNWQwSVpUWGo4Tkh3eTU5M2czcmUwZTN2UGFuV2tNWDRpQkpDcmJLS2NiY1Zwb2JrMFhKUEJCR0JSN3poZUJ3dG1zaDQxc09UOWlwVEExSzRpOEZUeg?oc=5",
         "headline": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785875764.0,
         "tag": "Global",
         "first_seen": 1785882634.1707413
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
-        "headline": "Trump Fed chair’s inflation strategy: leave it to the market",
-        "summary": "",
-        "source": "The Guardian",
-        "published": "08/05 05:31",
-        "published_ts": 1785875460.0,
-        "tag": "Fed",
-        "first_seen": 1785890726.652253
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxObnNicndkejlEY2VCY2ptVzU5VXJ6VU9jWDNMc3VBbXU4M2JUQVBhYU9vRXF3ZE9qNXRLWU0taWp4aHZSX2RDLWJLLWIxNjB0aHJQa2lxaXVaRUtjc1g0NGstS1VYMVBPTVJTYTJpd2JFVm1jZVFpQVZFYjE2WC1xSk10MUl5SFE1elV6NHB6MHVZdVM0TXluZXc3dnBDamxHNC1RaFZKcktENjJxaWkxUUVSMlo1SXBvSXhUemV2SVB0c2tvRFJibzRn?oc=5",
-        "headline": "So what’s the plan to bring down inflation? The new Fed chair and his White House allies say you shouldn’t ask.",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "08/05 05:26",
-        "published_ts": 1785875160.0,
-        "tag": "Fed",
-        "first_seen": 1785916835.975553
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 17:15:52",
+  "updated_at": "2026-08-05 17:30:52",
   "yields": [
     {
       "label": "3년",
