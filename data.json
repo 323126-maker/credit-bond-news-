@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcmdoNnpjVTVUXzFzTHBxa0s2T1JRSU9nZGJ5MDAzU3ZlQzNjN3VGX2RVRWF6dUR3cFhjY0Vla0E1UjRrdmw3bk02c0I2TUhBSl9DU1pVQ2lxQQ?oc=5",
+        "headline": "채권 순매수 41% 급감… 기업성 자금, 채권시장 '단비'로",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/05 18:28",
+        "published_ts": 1785922136.0,
+        "tag": null,
+        "first_seen": 1785923122.9516537
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5XQWdXNDBBeFdxMVlEMUg4aExlOENvWjBRZEw1cWNXWGtrTFNwTjhSZkdOdUdGR0NPZnZfUUl3TnlmNzF5a0RheEhvTngxS29IcUw5QkU5Z3d2cXpoa3EzQlEzcEVVYklUUFppYkRR?oc=5",
         "headline": "[분석] 기업 자금조달 시장 '단기화' 심화···올 상반기 CP·단기사채 발행 68% '폭증'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785810420.0,
         "tag": null,
         "first_seen": 1785818725.4639354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBnZl9va25CTnJzVm9KdXkxRzNEQ1BYWDc3MXNoZDlENU50V1E5S1duZGhlVjdkMV9CWDdCb0FDYnRIMjJmWnluaFlJS1BWbE5Kay0xQTRoQkZIaHMzRlFUeGhVQXhTMXBkRDFj?oc=5",
-        "headline": "SK하이닉스, 국제 신용등급 첫 A등급…AI 경쟁력 반영",
-        "summary": "",
-        "source": "ngetnews.com",
-        "published": "08/04 11:21",
-        "published_ts": 1785810103.0,
-        "tag": null,
-        "first_seen": 1785810629.9421494
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQnFWcTliTmRwa2J2ckRzN1ZhWVBtR3Azay10ZjE3T0FHQTI5OFI2UXJRTGxCUVk2OGdwY1ZrN3ExNFlzc1ZFYkJVNFdvY3BSWmlpVGxFbVNmcncyZEFpTmxjY1Zsbl9HZjl2SGtUSDRlZzk3ODVkajJzTUFYNE9lZVNQcDFpSXZZRkhfbmhFYnJkU2QwVUFvVEVhR1FQelNEb0xJV1FrZFFNYmtndERLczhJeG4zeU9leENkWFdkUDA3ckNLZUp1M01Bb1g1MU4wUVBFN2FyMi00QXpDU3dBcjc2ZHFmcGNMcmJBVA?oc=5",
+        "headline": "Commentary: The Fed needs to start listening to normal people",
+        "summary": "",
+        "source": "The Derrick",
+        "published": "08/05 18:00",
+        "published_ts": 1785920400.0,
+        "tag": "Fed",
+        "first_seen": 1785923122.9516537
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT1ZmcExjWlZnOVF5Q0RuUG9wSHoyR3VTOWpXNEJkbjdwY0x5Ym8xYWYzWllab3c3NGh4dHpvRWxJcW0zVkhkOE8weDM2allfdVJFZ1BncEpnOGYyU1Foa3hIWjVzYUJWUndTaThlQWhZbzd2Y25YNURKREFDNkxyVkFUY05DSGNNSkc5eXVZTkJ5bFp2eVc1Y09pelNJOWlFVVl1QnFiZWFaQVY0OGQ1eXhvRElYV0pfRHNnbg?oc=5",
         "headline": "Fed’s transparency playbook changing under Warsh",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1785885336.0,
         "tag": "JGB",
         "first_seen": 1785896132.9542274
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBzV3drSktjcnJXclNpMl9ZeXNOSmlKLTFyZXRaTDZCXzdVcUJ4eF80WmYyeFJRbWV6Y2h1ME5la1VwbC1vcVM0RU5kSkVrYVJ3cGNUYmJmblbSAVhBVV95cUxQc1d3a0pLY3JyV3JTaTJfWXlzTkppSi0xcmV0Wkw2Ql83VXFCeHhfNFpmMnhSUW1lemNodTBOZWtVcGwtb3FTNEVOZEpFa2FSd3BjVGJiZm5W?oc=5",
-        "headline": "[미·일 환율 공조 후폭풍] 미국채 지키려 손잡은 양국…국내 장기금리도 촉각",
-        "summary": "",
-        "source": "아주경제",
-        "published": "08/05 08:15",
-        "published_ts": 1785885303.0,
-        "tag": "JGB",
-        "first_seen": 1785901558.4053206
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcmdoNnpjVTVUXzFzTHBxa0s2T1JRSU9nZGJ5MDAzU3ZlQzNjN3VGX2RVRWF6dUR3cFhjY0Vla0E1UjRrdmw3bk02c0I2TUhBSl9DU1pVQ2lxQQ?oc=5",
+        "headline": "채권 순매수 41% 급감… 기업성 자금, 채권시장 '단비'로",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/05 18:28",
+        "published_ts": 1785922136.0,
+        "tag": "삼성카드",
+        "first_seen": 1785923122.9516537
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ubVRGZG5RZDVod2x0dTZGaVZXeE1CMkR2OWJ3ZHBpT1U5MFlCRWs4NGNlQTl0VmlGeUl6RGNTZWlGODFBQlB3R1M5cTNoeF9IWTFnb0VkNHdDR0pVZjdjUHljMEZZRjRWekExdzNR?oc=5",
         "headline": "높아진 조달금리에…삼성 빼고 10대그룹 회사채 잔액 감소",
@@ -2400,20 +2410,10 @@
         "published_ts": 1785660545.0,
         "tag": "삼성카드",
         "first_seen": 1785905124.7071695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uWEFtcjY0MU9hWnhwaGdhVnhFQ0JDQ3pJbDlnOUFJX3o4YnFnYXRpa19hZzVaajhDb1hUMEVWazFnQjNCNUFXNmh1ZGZOVjFxbmF2eTd4WkFUaUw5NC1VRtIBeEFVX3lxTE9vYjZBWmFIQ0F3OE1kU3piT0pEZmZ3VHY5UGRUWWZMSGpvLUhFQVZiXzNpNmJWVzZzUHo5VGxickhraEZ0UGNFSjJTNi1KQURQZzFkR0NvWEtlaUMySk9sZnotU2JhaF9mbnRCV2xpVllKWmE2WDE3QQ?oc=5",
-        "headline": "상반기 실적 선방했지만…지주계열 카드사 CEO 연임 변수는",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/02 13:00",
-        "published_ts": 1785643200.0,
-        "tag": "우리지주",
-        "first_seen": 1785690039.2621238
       }
     ]
   },
-  "updated_at": "2026-08-05 18:30:51",
+  "updated_at": "2026-08-05 18:45:46",
   "yields": [
     {
       "label": "3년",
