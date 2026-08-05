@@ -1218,6 +1218,16 @@
         "first_seen": 1785968134.0315366
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0tMWlIQ204SUtxcEFmWFZkWWd5SVA4UlJwamIwQ1RfcG5nQ1pBNC1pUkdZT3p6SW12U0thbVM5cVFkS1hZYXJFM3l6NThGQVc5dmlWNTExOXNLLTVOczNCMENn?oc=5",
+        "headline": "\"코로나 빚, 정부 나서야\"…소상공인 부채 '국가 책임' 화두",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/06 06:20",
+        "published_ts": 1785964800.0,
+        "tag": null,
+        "first_seen": 1785969930.5686517
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZm8xM3MzUXkwb2RhMDQ0U1R4d1dLQ1FHS3gzMWxfZ2EzV0xpU0Z6OGJRY1g2N1p1bl9ibnJhcEhiRGVhOFVNcTJRejdOcWpSNnRPc0RHV05xbmtlVXZfTDJFNUNEaXB3Vy0w?oc=5",
         "headline": "이준석, 추미애 지사 ‘재정비상’ 선언에 직격…“경기도 빚, 이재명 지사 시절 64.5% 급증”",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785465720.0,
         "tag": null,
         "first_seen": 1785465923.654595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9yak1mUGprMFc4YVFKUlhhdjN6Z1FrV3M1UjhKcUR2Mm10elhudFB2d01kQ3YzTEFGLU8zVENibDczOThXWDF1V2kzSHZmSmhIRjZz?oc=5",
-        "headline": "[정치家] 박홍근 기획예산처 장관 ④ㅣ정치 공방 넘어 민생·미래·재정까지 전방위 행보",
-        "summary": "",
-        "source": "네이트",
-        "published": "07/31 11:20",
-        "published_ts": 1785464400.0,
-        "tag": null,
-        "first_seen": 1785526237.4566739
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lTkNIS2d0WVZ4S3FGWlJkR1hWUmpZRkxRTkVGQVRFMlg3Ui0zTGJtZHNwUEEwS25XVTRaLWRJN05Tbk5YM2djLXZkN1ZmTG9rYjI1SnJ3OXRZVjkxSVE?oc=5",
+        "headline": "'28년 만' 미·일 공조 환율 개입…엔캐리 청산, 국내 증시 새 변수로",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "08/06 07:24",
+        "published_ts": 1785968640.0,
+        "tag": "JGB",
+        "first_seen": 1785969930.5686517
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNpZ0Zhb3BrWGNmSFpTRVV4TW9qNVUwZUEzT0ItU0xmbHQ1VTJJQi02QmJwTHVwSXhUZGVQdWxkWWRXVnJQLWJzeGt0cEM0SGNRUTFseTR4YklNLUsxUEJteFZQMkVqQUhiemF4WjR2Q2tLaFZqV1dRUVFKRVd3dElQSEFVY1lXNERaNjRvTVR6QjhsbGNiTUw0Rk1kRmJLLUJn?oc=5",
         "headline": "Long-term US bond yields to rise further on US Fed fears",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785917880.0,
         "tag": "Strategist",
         "first_seen": 1785918629.0241756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbmEyYUR2Ri1OOTUwamo2NDRNdmRpZ3RuSmJvS3J1UjBaMmJxb09IVURycnNUcWN5OG5EYXY0TFE2UDhrNWQwSVpUWGo4Tkh3eTU5M2czcmUwZTN2UGFuV2tNWDRpQkpDcmJLS2NiY1Zwb2JrMFhKUEJCR0JSN3poZUJ3dG1zaDQxc09UOWlwVEExSzRpOEZUeg?oc=5",
-        "headline": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "08/05 17:10",
-        "published_ts": 1785917412.0,
-        "tag": "Fed",
-        "first_seen": 1785917725.9006896
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 07:31:00",
+  "updated_at": "2026-08-06 07:45:57",
   "yields": [
     {
       "label": "3년",
