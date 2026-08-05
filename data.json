@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNSU1LZ2NsNHZKSDVOeVNYS2lNNE1yOWtWdjFxSVNWUDFKaFI4UTAzOF9fSEhaREhadXJyQ0I1TUluZTQxcXdId01JT2NFWWcxU2FlbFNhaF82alhwYlZUdg?oc=5",
+        "headline": "채권 쓸어 담던 SK하이닉스, 이젠 살 게 없다…'반도체 머니' 어디로",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/05 14:54",
+        "published_ts": 1785909240.0,
+        "tag": null,
+        "first_seen": 1785910446.8261638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1MFpaeDdHTjRJNXU0d3dnMHNzU3h2Z2U5S3QxY19CbzVYaV9lYXNVNjVsdVZ1LVVaVnhlS2lRbFpHSFFCeGxhbWJqamJDeHhjS3dBTFk0MWp5bmhZVW9oUjJObmJEY2M?oc=5",
         "headline": "채권시장 ‘큰손’ 하이닉스 반도체머니, 8월엔 인수할 채권 ‘품귀’?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785806814.0,
         "tag": null,
         "first_seen": 1785810629.9421494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05a0d1akZrNFhZSmxsYnhvbnFQUzVTa3h2OWJQeWpHRHpramJLYTk1VnEwZEx6SDBiZjFRRzUwMy1KZy15alJiRnZ5b0hzQXNPSnUwQVlRTWRfVnhuOVdtWTgteWxad0h0?oc=5",
-        "headline": "무디스, SK하이닉스 신용등급 A3로 상향...\"AI 메모리 시장 주도\"",
-        "summary": "",
-        "source": "공감신문",
-        "published": "08/04 10:13",
-        "published_ts": 1785806004.0,
-        "tag": null,
-        "first_seen": 1785807032.9425595
       }
     ],
     "perpetual": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1785904298.4016368
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQaFF2U080a1A0NTB6VlRQTXEzdVhNQUxfMlVsZWpEZ3JsbTFYcjBDRHdVbHo4N21FVER3MHFlWm1fS0d5bUdvV3pQU3I2clk4RnowOW5Yd28yNmpGLWh3QWpQMHB5TlZJQVg2RllJZFlvOXNXWlRWaWpQN1BKeUlpMUlJbS0zLWt3cU00RVhEOGRJcXZ6WmdxYm1B?oc=5",
+        "headline": "Japan 10Y Yield Slips on Falling Oil Prices",
+        "summary": "",
+        "source": "tradingview.com",
+        "published": "08/05 12:54",
+        "published_ts": 1785902040.0,
+        "tag": "JGB",
+        "first_seen": 1785910446.8261638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXBDQThmYnluX2NEN1pMR1JQZW1NX0lGM1BXNzNadVkxcERGQk4wLVJ5WXdoWXlfTlVvN0haWlVmdVNRb2tGci1iZ1lLTGlPNzVaMFJwS0lWaUJ3ZExqM29MMVVrVWpsRkZ5NFBmbVlkOExBc3poS01kazZvaFlXZFNwMHl2ZmpJOE1hTUtjb2ZIRV9vbWhVOHc0QUtnRlE0S3l1YmUxVjNzREZpRURiLXlKbw?oc=5",
         "headline": "Japan’s ruling party backs Takaichi’s costly food tax cut plan despite fiscal concerns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785860012.0,
         "tag": "Strategist",
         "first_seen": 1785861029.7504191
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdmpQd29WcHJNNE4yU1FDcmowQ3Q0QTlQR19BQWFnazQ3SmFNUTNLQVNKZklOelRRZWljREcwTUVTRUNBN2V3VDBqV2FuY2VBQXpiNnJyMS1NNUYzVXF6ZVIxcW10NTdKRHBlMS1KN0tmU2thaXBsZDJRWmxqdTJEeks2bnlmMmtXNlVkZ25FakZKSDBxQ2xPa0p0Y3ZfTXNlZ0txeFFnNkUwZw?oc=5",
-        "headline": "Goldman Sachs fears Kevin Warsh's Fed strategy could amplify misinformation and instability",
-        "summary": "",
-        "source": "fortune.com",
-        "published": "08/05 01:00",
-        "published_ts": 1785859200.0,
-        "tag": "Fed",
-        "first_seen": 1785860546.6522048
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 15:03:25",
+  "updated_at": "2026-08-05 15:14:30",
   "yields": [
     {
       "label": "3년",
