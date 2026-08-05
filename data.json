@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KTXNUY3VfRG80bV9vQmIwZFNjZW1rUFJuOUFXNFRyYmljcnlXM1oxenk1SjZpOVhqQmhaT1JZcTNVMUczS0diUHVablFZSjVOellEMDI5VzhNQWtj?oc=5",
+        "headline": "하나금융, 5580억 주주환원 뒤 2700억 보강···’양손잡이 자본 전략’",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/06 08:01",
+        "published_ts": 1785970864.0,
+        "tag": null,
+        "first_seen": 1785971730.9903283
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RelVLZzE0MEFnd0xIb0NWckowMGdtZjd1TW9lVkgzbzgtY2xQTTVJa1M3Ui11bHY3M3h6dDhWSThyTTBSUnUza2N0UnBtbXNZRlpfRVQwcnJEYkdTelB6eWtWazA?oc=5",
         "headline": "'회사채 만기 도래' 건설사들, CB·신종자본증권으로 '버티기'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785667980.0,
         "tag": null,
         "first_seen": 1785721532.5838547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CUzgxUFd3UHhhUFZRRE0zdzFJN2lqSGwxSVhlYTBBSGljNVdWMlpwRkdLUlg2T0tpcXJ2NFQ2dV9xcnJQdlZLV2NOT3V1anFKWjhkR0hmRTRRd0VjdHdIVXpUb2E5VHRz?oc=5",
-        "headline": "[TVis] 이준, 벌크업을 얼마나 한 거야… “옷이 다 안 맞아” (1박2일)",
-        "summary": "",
-        "source": "isplus.live.joins.com",
-        "published": "08/02 19:46",
-        "published_ts": 1785667560.0,
-        "tag": null,
-        "first_seen": 1785748524.1293743
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 08:01:03",
+  "updated_at": "2026-08-06 08:15:52",
   "yields": [
     {
       "label": "3년",
