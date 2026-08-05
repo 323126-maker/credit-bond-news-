@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mZDk2V1JBTkxiNnoxbW15YWg3LVpqYzhvS3Y3TV8yNUlUNi1hZ21IWmxWbUkwWTFLSmx2cWtfdDdWOVlUa3pXc2htV2ZJa2JmcktfMlJiZlVjc29tVmRWTzc4bm0xajBNNjFQYU5yM09WVUNs?oc=5",
+        "headline": "[뉴욕채권] 국채가 강보합…호르무즈 기대감 속 '입찰 축소' 가능성 돌출 |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/06 07:13",
+        "published_ts": 1785967984.0,
+        "tag": null,
+        "first_seen": 1785970839.907277
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14a2ZVSGsxYXZCcG5jbmY4OUhTeWxvVVpIOUppMHg5alE3NXRsenE5bXpNVk1VajhuS0dONndOWFd0Vm9CeUtiUVZlN3luWXVka2hnVTBxNE80Rzh0YWJCSg?oc=5",
         "headline": "[마켓인]투기등급보다 적격서 더 터졌다…부도율 역설에 얼어붙은 투심",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785823062.0,
         "tag": null,
         "first_seen": 1785824125.8873372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9tX1BrOVVZbk1JY0VqVVBaRWNBSlNlWS1jRHNKVll4TndtX1lMM1RVdUVJZng2V1BnVXFZTGhaRHA1OTBwdzVVTFFicGZQc2M3ejdVbmgybk5mNTlTZFFjVHhBM3Y?oc=5",
-        "headline": "고금리에 차갑게 식은 회사채 시장…단기사채 수요 몰려",
-        "summary": "",
-        "source": "매일일보",
-        "published": "08/04 14:46",
-        "published_ts": 1785822384.0,
-        "tag": null,
-        "first_seen": 1785823246.2960443
       }
     ],
     "perpetual": [
@@ -1990,6 +1990,16 @@
         "first_seen": 1785919527.3829377
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXlETmRHaHUwd296eGpId2Q0d0hJT1FyampLU1dqbTEtck5FcjRfdGYydjktWTh4RTZIRWZoTGxOekJHTEZyc0ljZ24tU3VzMUpVWVZRdVQ1SzNseGowVTdWaDJvTDNLYXlibGRqaG5YeHU4cjJXTm9KcTg5RFdxVlZoUXJ5Q1lrY2lMMHVSeUY2dUxIcGlZeGJWUTVUcHM?oc=5",
+        "headline": "Fed Chair Kevin Warsh Is Considering Fewer Annual FOMC Meetings, Which Would Be Disastrous for Wall Street",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "08/05 17:26",
+        "published_ts": 1785918360.0,
+        "tag": "Fed",
+        "first_seen": 1785970839.907277
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDhWR1FzT0E5ODdrdDhwQmcxVC1fNHhVeGJEdjQtamRFZ0NIOHgwSm5FSHJuQnB4OHZEdkJoYnlYcGdPMEtwdWxSLVhvQ294aS1ldzFkNnRBWmNUMGZQUDN1T0pnTnJxNHk0dmJOZGdqNG52LTFOeVE5SmgzU0l4eVFFcjRUWW8?oc=5",
         "headline": "The Fed Holds, But Bond Volatility Breaks Higher",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/05 17:20",
         "published_ts": 1785918000.0,
         "tag": "Global",
-        "first_seen": 1785918629.0241756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNk5sdW91VXpaQjBLVGI2NjBxMjZkSklOMERBS3EyR0NwbGVyN3lxVExnWkF5aXJTbjVMRGE4YndTZVVTbzZvLV93em83RnRRRHQ3NWl0blJuaDNoV3ltOURIZlJCTXVsVWxQZ0lqTGdTWk9KX0RaSTgxNGJBdUo5Y0FlaFZnVmJmcTBfcU5aTUM2QQ?oc=5",
-        "headline": "What the New UK Chancellor Means for the UK Economy",
-        "summary": "",
-        "source": "MercoPress",
-        "published": "08/05 17:18",
-        "published_ts": 1785917880.0,
-        "tag": "Strategist",
         "first_seen": 1785918629.0241756
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 07:45:57",
+  "updated_at": "2026-08-06 08:01:03",
   "yields": [
     {
       "label": "3년",
