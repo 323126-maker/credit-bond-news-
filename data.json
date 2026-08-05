@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pwaGxmemVTX0pRdWhfNUllc2ljT2pnaWJtbGFBSVcyMlczaTBKaWRNcG1NLU1jcmhzcHk5TklMcXktQmNXbmh6MDBLcXZzLTliNV9zZlZkd0pGNVFPWV9uRTE2RkZ6M1FNNjBXQzY3czVHTEJyOElwcV9RbWItUlVPMVNLZHNweTQtR2VLYkVMd2JKRDVRTzJhdzNEakVxZm1UVjhmT1ZtV1NYNFE?oc=5",
+        "headline": "Kevin Warsh Has Some Explaining to Do",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/05 19:00",
+        "published_ts": 1785924016.0,
+        "tag": "Fed",
+        "first_seen": 1785926734.347646
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTU5NDhscWh5T3FNOXFoeGdzRDVzeGJvWEdRazk2dXhSV0dtSGNRdkF5ZzhSVWpvcldUby1Nb2ZhYjhwaXZHNzZmcXVOMGxwME9INXF3QWNBNTNudnNFdWdOaTVEYzNqNmpXR0FBSlJLQjNVUDBjcjgxVUE2aFlGUldTYklSX0d2c0R5X1FjNnhnQQ?oc=5",
         "headline": "Banks price in higher rates as Fed credibility wanes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785888535.0,
         "tag": "Global",
         "first_seen": 1785892525.6988225
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjJjd0JUdDhRTERGdXZwMkpHVFBsLWVhUTBlb2FkM0JRLU9qNkJtYldQTjhJQkwxM2pVX3BxY2VUYTVZcDZYa216bG5URThsdmo1MHlnTlNQR3dzUkVKRmdBQ1dvSTJrSDNHNV9FczZTWEZiRUpNTC1tZW1ZOE1URzRYUFREWk1vV1BhWDdiYmxINTE1Q3FkZVB1Y1BZQWtiblpz?oc=5",
-        "headline": "Bond market heat on Warsh should be on Bullock too",
-        "summary": "",
-        "source": "AFR",
-        "published": "08/05 08:42",
-        "published_ts": 1785886930.0,
-        "tag": "Fed",
-        "first_seen": 1785905124.7071695
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 19:30:58",
+  "updated_at": "2026-08-05 19:45:58",
   "yields": [
     {
       "label": "3년",
