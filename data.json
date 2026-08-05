@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbk5mSVlIWnVXX2RlR1RxS1k4T3VCSEplMDJORHVtMnhyUmtER2Y2NDBnenpBd1F4MXBjVXVybWNfQndOQzgwV2JUV0tkdTk2RHdzYmFxUFBHTWxJcFZjY0FUbkdUM0lVM1hHdVBIRDYxUjJpQ0w0MVc2dms1S2NXWjZtZjFQUHd1aWYwU2VVeEhfajdGOXVZWU44ai1PQUNmQkFEVXBBRWRQdFhxMVFDMjdGdkFtLW1aTi0wa0NwMHNnYVFyY0lfeNIBzgFBVV95cUxOSExlak9zSTBPb1FzenJOTmhiN2MxTFFzVXN6LVYxbTA5RU5Ib0tlMHFtNnZQQzRpY1ZEaUFSMHhlUTNUclBublN4ZktLSUFWdG45dEVJenRVTS0wUGR0cXlNNnVoWjBPT2pQX0EzQl8zOFVhZVh3Y3lhOFcwTE94TlQ1R2R3YlE5TE44SWp5dVFZYXNpNVZyTFVoLVZzcW9PVDRVMzVzLTh2cnlBaUl5eVJMOE0wd19DMUswQ1R0RmFMR3RCU1VURUQ5RW1Jdw?oc=5",
+        "headline": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+        "summary": "",
+        "source": "CNBC",
+        "published": "08/06 04:21",
+        "published_ts": 1785957684.0,
+        "tag": "Fed",
+        "first_seen": 1785959129.9674373
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSTJMV2cwMmVudkw4YWc4b3hsc1lmdGpZNnFySHNvZHVHaHh1S3ZtN0FUNVUzWmxvNGxLV1ROMjJnSXJzbjBKWlJYbDZnX05CSkVBTlBxNTk5b3o2cUVOUk5zcWt6WkNqTXdHM28zY2trVTVoSnFnSFpoeGRVaTNWa2pCR1R2TE9rSHgwNmFTdlNXTHlfLUVBZnpTcmdDYk1OR1RROUx6Ym40eWUyaEdwWWtCWQ?oc=5",
         "headline": "Wall Street risk signal is flashing red with superannuation exposed to tech",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Seeking Alpha",
         "published": "08/05 16:30",
         "published_ts": 1785915000.0,
-        "tag": "Global",
-        "first_seen": 1785919527.3829377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVU9NTk9sZmR2OGV0Y2djQ0JHVkROc2NnZElMRzdYTE9jRV9EVm5pcTI2LXliVzkwVTZFdU5sZ2hxWkdwQmc5dHNhUWlHQkY4ajBmNXV2TFVxX0xNWkRnSUhoNlBTeXZ4d2RsRks5WWpYQVBDT3lyWXc2d1F4Tmh1Q0VVQk1aTkREMGRXdC00UFdSUjRUNjJpS1pB?oc=5",
-        "headline": "Janus Henderson Flexible Bond Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/05 16:25",
-        "published_ts": 1785914700.0,
         "tag": "Global",
         "first_seen": 1785919527.3829377
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 04:31:05",
+  "updated_at": "2026-08-06 04:45:54",
   "yields": [
     {
       "label": "3년",
