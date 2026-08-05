@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zYUpOeGl2N21jdGdPUVRNRFZpYjI0eW0yWnV5V19LMTdXNEZ6dzNxSVhyeGE5QnltZWllSTA3TFhkUUhUT3ZVY3FLU2RCVEdVTVFLZDlRT1lmRE45eWlpVUctTjNBNTdhM0Y4VGh3?oc=5",
+        "headline": "빅테크 AI 회사채 봇물",
+        "summary": "",
+        "source": "yonhapmidas.com",
+        "published": "08/05 15:41",
+        "published_ts": 1785912107.0,
+        "tag": null,
+        "first_seen": 1785914129.0418022
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9kUjhmYzJid1J3Q2VvWVo2Y0NQbDIxZWdySTA3TDNoZmRFVkoyN1Z6N2lqOGRPdFI0a0RxTDA4Wmxua1NZdE5UUDhFSHJrZ3F4TXlWbG9feXZ4czRtMm1HOGU3Z3Q?oc=5",
         "headline": "신한투자증권 회사채에 대규모 투자…SK하이닉스, 우량 금융채 큰손 부상",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785809476.0,
         "tag": null,
         "first_seen": 1785814231.969211
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5BTWhxX054UllnMnBpTEVrSURrdGZVcEtLWHN5VEx5WVgta1JlNUpoVkpIR3k5MUxDSkQxVmZWSXFoS1hqRkRZTEhpa0o3bzdsWE9IT2p6RjA3dnJRc3pWd2N2Z1BabnBlXzZLbnhYNG1KTGZGR0JBVA?oc=5",
-        "headline": "7월 소비자물가 안도 속 국고채 30년물 입찰 반영…국고 10년 2.8bp↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/04 11:10",
-        "published_ts": 1785809403.0,
-        "tag": null,
-        "first_seen": 1785867330.1824386
       }
     ],
     "perpetual": [
@@ -1830,6 +1830,16 @@
         "first_seen": 1785905124.7071695
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOVhFamJnNjNYd1piUGFvMUR6WV9tSWVOdkdaa1lsYmd2UEp3blppbXVKYnZma2E5YjBHQWV1MlJoQjNSZFlQMW04RWRMSEQ3Ykl6Um9DNzJOTFBvSkxuMTVNSC1xWlpzbmtJZFpRMm5NWkxSUFZZRGlpcmpXYjBrNmJHR19UendSQUJzRElnZEtBal94dUUtVlhjN1pacWZNZE10Vlp3Qjk3ZTZzd3ZlZG5FWDROSkUybHNUZE1LamlkYm1heFFFNEhTVEF4UQ?oc=5",
+        "headline": "US yen intervention signals perfect storm rising in FX and bond markets",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/05 08:30",
+        "published_ts": 1785886225.0,
+        "tag": "JGB",
+        "first_seen": 1785914129.0418022
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRFVsck1Fck1ZZ1lKUjcxLVhLbFdmZEZlQzhzZkFYanJZLUEwWjNtc3VFd1dkbkJnektQT1cxVzhGb3ZJYlhLLTE1SW1xVmMwclVYLUQ1VGFmd9IBWEFVX3lxTE5hRkFlOVV4QmZodUVCbjQ3Yll0UGJJd1I4ZjdQSlAwRGJGakZXeHphMnlMaGxWemU0ZmFNR1RsSUNqcDdpREJmRTBfTGxhaUxjQnNkRkR3YTk?oc=5",
         "headline": "[미·일 환율 공조 후폭풍] 양국 공동 개입에 엔화 반등…원·달러는 어디로",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785860700.0,
         "tag": "Fed",
         "first_seen": 1785875435.4604452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1CSmtjelhTRlFUYWo2OWNMcVJUZmd0ME5zV3lBbGJZOFR6Ukx5c0VwQnhiZFI3VE5BNDlmdllaZUs5RkNYUkdwdDkzb0RNaWZ5eWNBWk9zUTVFT2NVVU9rWW1aT0h2ZTFIM2k2SjN1d0EzdXc2ald6c1NB?oc=5",
-        "headline": "Quarterly Review",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/05 01:16",
-        "published_ts": 1785860165.0,
-        "tag": "Global",
-        "first_seen": 1785870042.4945967
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 16:01:08",
+  "updated_at": "2026-08-05 16:15:51",
   "yields": [
     {
       "label": "3년",
