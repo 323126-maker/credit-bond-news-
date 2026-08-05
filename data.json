@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMnNpZ0Zhb3BrWGNmSFpTRVV4TW9qNVUwZUEzT0ItU0xmbHQ1VTJJQi02QmJwTHVwSXhUZGVQdWxkWWRXVnJQLWJzeGt0cEM0SGNRUTFseTR4YklNLUsxUEJteFZQMkVqQUhiemF4WjR2Q2tLaFZqV1dRUVFKRVd3dElQSEFVY1lXNERaNjRvTVR6QjhsbGNiTUw0Rk1kRmJLLUJn?oc=5",
+        "headline": "Long-term US bond yields to rise further on US Fed fears",
+        "summary": "",
+        "source": "Financial Newswire",
+        "published": "08/06 05:36",
+        "published_ts": 1785962198.0,
+        "tag": "Fed",
+        "first_seen": 1785964526.0795786
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlo3Nlc3dGh1R1RMYThKclFaZS1lOFZrS1NOZXFORWVCRElMSHhhX3RmU0NJVjBvYlVuSW1wTXR1LXN6N2JscXBfcWxzVVA1MF9xMkpyakFkWEV0T0VUbTlUVVpOdjRVdjRUeTlmRGZSWkYta0g0dFVBTXBPZndFM0MzOS1BYmc5Q2xPbmJFOWl0V0VxYmNtUVpBQUlteVpVcDZzUk85NjdpaWtuQU1HVGo0Z1BuY01rNDNlUGQ3R2c?oc=5",
         "headline": "Wall Street Alarm as Big Tech Debt Surges and Credit Default Swaps Hit Record Highs",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785916481.0,
         "tag": "Fed",
         "first_seen": 1785921322.7137842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXOUoxdlF6ZzlCNHpqcU9sVHN0R2U4WTIta2x4d0E4OExoZ1ZHMlJrTXVrYVk1RUh3SWRoOFRUYVJMbUJWWDJsOHB2dEp4Znc?oc=5",
-        "headline": "“트럼프 닮아가나”…日총리, 중앙은행에 국채 매입 직접 요청",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/05 16:48",
-        "published_ts": 1785916082.0,
-        "tag": "JGB",
-        "first_seen": 1785917725.9006896
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 06:08:49",
+  "updated_at": "2026-08-06 06:15:50",
   "yields": [
     {
       "label": "3년",
