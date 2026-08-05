@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9HWHhTR3RPMmRIOUx2LXI4eDNKYUY3WWVxUDZDV2U0RWxLMkw5eDBpX2pmNkV2LURkOWhCUFZzV1Z0aU1hZXlXNkdXYjBVcFNSOVp2dE53RGF0WDBaNG1KVWFYaUtLcndRd2lrLQ?oc=5",
+        "headline": "발언하는 이재명 대통령",
+        "summary": "",
+        "source": "newsis.com",
+        "published": "08/05 14:39",
+        "published_ts": 1785908368.0,
+        "tag": null,
+        "first_seen": 1785908723.535572
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bb1I2M2ZaMnFiMWRxUFE0Wk1SMjFCR0NQbV93R0RMN2MxTmRiWUozZzN5ZTVxMWlFcXllUkc0eWVVeG1ieXl0VzZqeDd0TFBXN0pFWl9oV2x4MVU?oc=5",
         "headline": "이준석, 秋 ‘재정비상’ 선언에 반박…“빚 증가폭, 李 도정 마지막해 64%↑”",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785360091.0,
         "tag": null,
         "first_seen": 1785360635.993889
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQc1RBa01lNjVfZWdWZmxOZWtvU3RHR2xaR3JBTUtmTWFRNzJfeXFlcERxbXpReVVkLV9peTk2MEVHTkdXWmVJQ1JSN1JsWjk1U0x6TEoySmF2emFYc0xxeDQ0MUJ5LU5qSzBvbXVlU1pHeEpTeW9OQ2NpbnQ5NGE2UA?oc=5",
-        "headline": "[속보]다우 2% 급락…연준 '동결'에도 채권시장 \"매파적 발언 못 믿겠다\"",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "07/30 05:11",
-        "published_ts": 1785355903.0,
-        "tag": null,
-        "first_seen": 1785356126.877871
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc0VYRnZod1g3Z3JhS052RWFGZGd5TnR3c1hHTDBUSllDUVRER0tHR2EyYTcyUEF5eUdBMUVJZlI1TVpvTWlUMVQ5YUV1M3pMQmV5ZUt4ZGFsa3JyYjh0RTl0RlZrWW1TN1dLTmdnQ0VBQlJ3N2d2d0NhZElXeHpCS2g4VGNPazd2ZWZqdkkzVno4TWFIaEhHX01pNGp1d1FPM2lwZWdMdnYweWZWM20tLUJId08wY0dFZnlSblpTZFVRZGFHRnlzeg?oc=5",
+        "headline": "Japan's government bond yields fall as lower oil prices ease inflation fears",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "08/05 14:30",
+        "published_ts": 1785907857.0,
+        "tag": "JGB",
+        "first_seen": 1785908723.535572
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN25LcUM1ejJhNXVIWFBlWGZEX0txNEdONVdnU3ZnOVlSTVp5eEtielVtcF9kbTl1a2dxQU9VLVVMaVE2S25QbGQtVC1pVjhCNDB1cHIzWjlwVXl6RTVDNk02dmh0dW5XNG1IOE4xM0Nnc0hpVlBuVGY4TTRneWVraExxNy1FT0FJ?oc=5",
         "headline": "美 \"엔저 방어 지원\"… 베센트, 아시아 통화 불안 경고",
@@ -1718,6 +1728,16 @@
         "published_ts": 1785892780.0,
         "tag": "JGB",
         "first_seen": 1785899811.640509
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE52TG9VaC1fWDdUN2Iyc3RndFJZM0V2Rm45dFFPUEI5THRWbnkzU0ZIbmQ4M0tuM1V4UVlVMEg0MWU3LWJCaDRXdWVaWWFQLS1QT2wwanRXZ205WVp6QTBVZFhEbUE2RGZ6WmlKdw?oc=5",
+        "headline": "美, 국채 금리 방어 노렸나...엔화 부양 나선 배경은?",
+        "summary": "",
+        "source": "한경매거진&북",
+        "published": "08/05 10:00",
+        "published_ts": 1785891600.0,
+        "tag": "JGB",
+        "first_seen": 1785908723.535572
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzSjRWcS0waFJJMGN1MkdjTFJFZnE0VC1pdUhzWTZfSVBkVENRWVByQkpBa09LcER0c01kOEFTbGdQOUlpUmpMWE1ONm5JVmJyY18ySWRVOWY2dVJER1ZPaXZjNHp2bnVpRVR4aC1R?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785859200.0,
         "tag": "Fed",
         "first_seen": 1785860546.6522048
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3IwZi0zRFNSWFJNbmRMR0RQZ05OWTJfdHdteG9TRWczQmhpWFhqVVFiVTRqRUNtaDZGWXhFdi1qZ09PUml2dndjM1FZcmRYWUpibnk4ZWVpNkhPdWJyblk4Vm5nMGFZb1RWRmxnZXpHSkRILXFkZWtCa2t6ZUxpZUdRWHprLWJXcmpGUnR5TW42THhqNjk2Mk5kcElBOVRjMmFaN2d0WWlOYkdHMlJ4Z0xxbUEybXczSnI4QjRDTEVvRzY5YmR4S3VUTTN2Mnoz?oc=5",
-        "headline": "Fed’s Kevin Warsh Faces Oil-Driven Inflation Test — Jeremy Siegel Sees 5%-10% Upside For Markets If Strait Of Hormuz Reopens",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "08/05 00:40",
-        "published_ts": 1785858019.0,
-        "tag": "Fed",
-        "first_seen": 1785863734.1136203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpa2c5OXBvY3Y2c2VPSXdZaGU5RS1UMW01VGVjRUpYNzY0TU1MUHQxNWU4NXFlOTR4aDc0LUJDcHp5NmYwSFpEOGxZZW11ZHN4RWVIYkhUM3FocnFmYWdwV0ZJa3hwMEF0WjFMZXN1ZGh4QVNRNC1CMkVfNTE?oc=5",
-        "headline": "Wall Street Expects the Fed to Hold Rates Steady Today. Kevin Warsh May Have Other Plans",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/05 00:35",
-        "published_ts": 1785857720.0,
-        "tag": "Fed",
-        "first_seen": 1785862840.6930854
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 14:30:59",
+  "updated_at": "2026-08-05 14:45:47",
   "yields": [
     {
       "label": "3년",
