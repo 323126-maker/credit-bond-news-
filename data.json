@@ -162,6 +162,16 @@
         "first_seen": 1785877378.700693
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wSzlZOGxVS2g3ekNiSlc0azFkSlppZERROWhfQUtTNThIWEgxaXZESm5FYUpVVFlodjEydzhsRWpVOE9WY0NsZmVrMGstNVN5MzNKS2lDWGhVSDFSamZocUh1V0xEQ2ljOTNGQld2b2o?oc=5",
+        "headline": "달러-원, 뉴욕장서 1,420원 중반대 거래",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/05 00:58",
+        "published_ts": 1785859100.0,
+        "tag": null,
+        "first_seen": 1785929430.2627861
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YajRLa1hPWlZaZV84bWtVZ2ZxUTFCaFFjQXJremNWOUdNckcybmV2REhBZHJaYWF2Q1ZkWUs4REJaN0RvaXNFVWdtSDRjMk5hN1pZc04taGJBNFJLZkxxRzhaZno2cU5hQmJN?oc=5",
         "headline": "[AI 인프라 전쟁] 빅테크 회사채 급증…시장은 공급과잉 경계",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785813300.0,
         "tag": null,
         "first_seen": 1785850232.8459244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4tclJMQkpFR1dmVkM1a3pPa1YtNWVPMXJxUFVfcUlBSFo0NUpiUG5NbXZiOVpzTUZHZHI2YUJhRDRfR003dThLWGhEUTduXzBGakduODljTlZSdENJQkxKVTJIS2hUbWZNNVdqS3FXU2s1aS14?oc=5",
-        "headline": "무디스, SK하이닉스 신용등급 A3로 상향…\"향후 견조한 수익성\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/04 11:40",
-        "published_ts": 1785811220.0,
-        "tag": null,
-        "first_seen": 1785816928.8259132
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZENndW5NY1BGMVdKN3VyMEdKZTlhQ2dqZ1pzSTJ2MnNDZ0Nnb1ZvenNfbUtnd0l3Yk5tanNOeVhzSHFRbjNwVWtHM2VYSU9HZlo3Mk1DbnBnS0N1TURJVmMtbzNWQVRjdElNOTI0dGpnY0V3N3p4VWJLWUZac291NmFtc24?oc=5",
+        "headline": "Populism Arrives at the Federal Reserve",
+        "summary": "",
+        "source": "orfonline.org",
+        "published": "08/05 20:27",
+        "published_ts": 1785929250.0,
+        "tag": "Fed",
+        "first_seen": 1785929430.2627861
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdENvVTFiQlV1N3ZqbXltb1ZVYVNKQ3dkZHoxRXFPeHp1bnFBRU5GeVMxdzNRbzZSYmkzajhSRklNUUxTZ2M4UnVFX2RqcTBvS2ZSZHdYQUx3T2lKN1dMUVVVdGFpN0p1cGc?oc=5",
+        "headline": "일본 ‘호네부토 쇼크’… 10년물 국채 금리 2.83%로 30년 만 최고·엔저 심화\"",
+        "summary": "",
+        "source": "sisaworld.kr",
+        "published": "08/05 20:12",
+        "published_ts": 1785928349.0,
+        "tag": "JGB",
+        "first_seen": 1785929430.2627861
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM1pwaGxmemVTX0pRdWhfNUllc2ljT2pnaWJtbGFBSVcyMlczaTBKaWRNcG1NLU1jcmhzcHk5TklMcXktQmNXbmh6MDBLcXZzLTliNV9zZlZkd0pGNVFPWV9uRTE2RkZ6M1FNNjBXQzY3czVHTEJyOElwcV9RbWItUlVPMVNLZHNweTQtR2VLYkVMd2JKRDVRTzJhdzNEakVxZm1UVjhmT1ZtV1NYNFE?oc=5",
         "headline": "Kevin Warsh Has Some Explaining to Do",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1785924000.0,
         "tag": "Fed",
         "first_seen": 1785924923.7626684
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWW5uRHFDZ3JqWWVQU1dDQkNvY1kwV0tfWUdrSi03ZFB0Wmk4cjBSSU8tU1ctTEJPSkw2RnV3SDlTQXN2M1RadXlMcWRfT2J6b0hkY0pINDQ4NlJIS3YwbldlNXBJdGY3RTdGUDl0R2EwZFJiQ19XT3NMZ2U4QXdOdFBUN2luUWZTN2lHVUdXR1RKOV9kYVpkcE1HYVpSWkY3WGdmRUNENU1fejBneVNuZ3pnZw?oc=5",
+        "headline": "Barclays, HSBC Say Warsh Boosts Case for Inflation-Linked Bonds",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/05 18:02",
+        "published_ts": 1785920539.0,
+        "tag": "Fed",
+        "first_seen": 1785929430.2627861
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQnFWcTliTmRwa2J2ckRzN1ZhWVBtR3Azay10ZjE3T0FHQTI5OFI2UXJRTGxCUVk2OGdwY1ZrN3ExNFlzc1ZFYkJVNFdvY3BSWmlpVGxFbVNmcncyZEFpTmxjY1Zsbl9HZjl2SGtUSDRlZzk3ODVkajJzTUFYNE9lZVNQcDFpSXZZRkhfbmhFYnJkU2QwVUFvVEVhR1FQelNEb0xJV1FrZFFNYmtndERLczhJeG4zeU9leENkWFdkUDA3ckNLZUp1M01Bb1g1MU4wUVBFN2FyMi00QXpDU3dBcjc2ZHFmcGNMcmJBVA?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785889544.0,
         "tag": "JGB",
         "first_seen": 1785917725.9006896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEY4WHNWd0hWaVY2dVFjOUloN0RBcXVRWmxUMkNYZ0ZEZEw0R0U4SUE2Q3dUZVZNazNJTFhhcEJaODVDQVNNUktJSDhfbDVKVWI2VERkQjlXSlpxaC05ZHZfdlptTUtqRTl3YVZKZjcxUl91RXg2bXFhRmdwVDR5WlEwd0w3aHAydkQ3MDdR?oc=5",
-        "headline": "U.S. and Japan Intervene to Curb Yen Carry Trade Risks",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/05 09:17",
-        "published_ts": 1785889024.0,
-        "tag": "JGB",
-        "first_seen": 1785889834.8350196
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZnFPNGNZVnJOaVJ5bnJVM0NHbkNUWGhaWDBKTER3U3NBWEdBTi1BMVNBT29lQ0FpdGhJZlRvZ2ZMWXp0VkNKcUFvbU52c3ZnNFhvaHYtdk1NUE9sWUwybmFROVo4SUFjN1RVYnlaM1pCWUJmeURYRVRNelZZNXZRNmZfLXBtejJjY3Vr?oc=5",
-        "headline": "미국도 엔캐리 청산 안 원해. 왜?",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/05 09:12",
-        "published_ts": 1785888720.0,
-        "tag": "JGB",
-        "first_seen": 1785889834.8350196
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNR1liN0U5UVlkb1UwS2Q4OWpWR2g4cE5wdERNV1Zod1ZCb1YwQm9wWUc1UDhrRHI0MVktVHZPZ1NkREVlZ1hDa1Y5QVRJRmNCODFuWS1idHNyQ0d0ck9taW9fcDVoSHh4aVg4UlJiQTJuNENsRW9ZcWpZckVsbkNtaXE4a0RfeDBIbmJFamhtS1gyLUlsdy1feE5uNF9JWEtoTWRxX0k2b3NVSzZtd3NJSmlqVEtFVUZZTk1KRDlmb2t5b183QWgxQmJtaTA?oc=5",
-        "headline": "Nabard cancels Rs 8,000 cr bond issue on high-yield bids",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "08/05 09:08",
-        "published_ts": 1785888535.0,
-        "tag": "Global",
-        "first_seen": 1785892525.6988225
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 20:15:49",
+  "updated_at": "2026-08-05 20:30:55",
   "yields": [
     {
       "label": "3년",
