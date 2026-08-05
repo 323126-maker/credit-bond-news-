@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9WSXlXVEhBMmRPd1Y3ZXU1d3YtaHVOb1diQ25ET3JrU1RMRXQtYlFhbHNsWVg5alhvU3FaQnVFSFNfTkpEVTJFa0ZNQkhlYmFwZ0ljLWVmcjY4UQ?oc=5",
+        "headline": "채권시장 큰손된 삼성전자… 국고채 등 수조원 투자",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/05 18:37",
+        "published_ts": 1785922658.0,
+        "tag": null,
+        "first_seen": 1785924034.6588662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TcmdoNnpjVTVUXzFzTHBxa0s2T1JRSU9nZGJ5MDAzU3ZlQzNjN3VGX2RVRWF6dUR3cFhjY0Vla0E1UjRrdmw3bk02c0I2TUhBSl9DU1pVQ2lxQQ?oc=5",
         "headline": "채권 순매수 41% 급감… 기업성 자금, 채권시장 '단비'로",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1785921304.0,
         "tag": null,
         "first_seen": 1785922228.8872495
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IVUhoRXR0aTVYVXItLTZDN3cxU3FKQ3VJRXlsU0Q5dFhaYVB4QUJPeDhLVHcxaUYzX3VsYW85X0pFVVlNRHpfNGUtUGJOdFZkSU9seFE1REswQVU?oc=5",
+        "headline": "유가 급락에 국고채 금리 일제히 하락…3년물 연 3.669%(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "08/05 17:17",
+        "published_ts": 1785917823.0,
+        "tag": null,
+        "first_seen": 1785924034.6588662
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zYUpOeGl2N21jdGdPUVRNRFZpYjI0eW0yWnV5V19LMTdXNEZ6dzNxSVhyeGE5QnltZWllSTA3TFhkUUhUT3ZVY3FLU2RCVEdVTVFLZDlRT1lmRE45eWlpVUctTjNBNTdhM0Y4VGh3?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1785811220.0,
         "tag": null,
         "first_seen": 1785816928.8259132
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNamVfVm1BT3ptbU5Oa2ROMnpNNzhYMHNJTEFkelhiTmdwdjVCU1FCZHFjYm1FNVMydnVhbWM1bWNnSzhhN0N2Um81SmtxNzQ3cTZnLUpiVFhkWk9xVFROQVczcTdZTTVzekJaRVUtVHNIU2l2M2xNY051NXpIeTFidTk1ZmNrT01s0gGcAUFVX3lxTE9XbDAtNVRXRm1WQlA3WkFrVl9TbXpuRG5GREJuUnkzT01EYlFxcTVuM0N2UXEwYktnZmhHTG9Lc1dtT21tUFE4aE50WXZZZWhDODRfOWNYNzQyZlFzdzV3WVRRRUdWb3BGUHdmN2hRWGs3dFVjMThJV0NnQWFRenF6d3RmZ25kYTBJdzhPRWxSSnZ2SHNFUlpkbWVncA?oc=5",
-        "headline": "무디스, SK하이닉스 신용등급 첫 A등급으로 상향…‘Baa1→A3’ - 조선비즈",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "08/04 11:38",
-        "published_ts": 1785811080.0,
-        "tag": null,
-        "first_seen": 1785815130.0419886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vMTBnNktaRnBYaGVvbHd1WnVuNHVmdlZfaGM5VFAwNGh5R0xPMXhFUEpHNngwWlBMOFM4Unl5Q25mNWZCVU9HOG1IWTdGOTR4b19fYm5fVm45OWpObVVSVi1wMnBMZFNVYmI4ck1FSXpyNm8?oc=5",
-        "headline": "현금 쌓이는 SK하이닉스…국제 신평사 신용등급 ＇A3＇ 상향",
-        "summary": "",
-        "source": "한국경제TV",
-        "published": "08/04 11:27",
-        "published_ts": 1785810420.0,
-        "tag": null,
-        "first_seen": 1785818725.4639354
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 18:45:46",
+  "updated_at": "2026-08-05 19:00:59",
   "yields": [
     {
       "label": "3년",
