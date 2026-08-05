@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFVpT2t0UUJMSEFyUXlPaWw2ZWkyQWhpRjF0SjY3ZXFLSG9TNkVQR2pzMGo2SEVIS2d2UlhsRWpENDJLQ0JRVFFkVVZ6S0Z5Y2xXUlMwR0RIeTBjVzdQOS0ydEdEWlI5blhIdDhPRGxMaHBxeHpIZWxDRVdId08zbVhITXE0MVJic1VkX1Z5R3g4WGEzMEhxa0YyN2czdmJGQUFnVWRCZElyejlU?oc=5",
+        "headline": "An economist says Kevin Warsh is right to nix Fed guidance, and flags one thing he can do to calm markets",
+        "summary": "",
+        "source": "businessinsider.com",
+        "published": "08/06 00:38",
+        "published_ts": 1785944304.0,
+        "tag": "Fed",
+        "first_seen": 1785944733.4041
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZllaUjktVkF0QVNJakJhWjRxYzEtSE5uUnJZNk91M2lWNEstNWhVZ2tXVU1FZzlkdkZ0VTJ0b2x1NElPOVFoZFpfZmV0VFJJeFE3NjE2cmRCUmNrSk9IUFVkeEsyWVBwRERxZUxtTnQ5ZXVGemdXcUtodU40M1NxeVR4Q1h5VENBZVJGN1VnSEhtSUltZHlLUTlSRks?oc=5",
         "headline": "Kevin Warsh Has a Problem",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785905656.0,
         "tag": "JGB",
         "first_seen": 1785907834.9537468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA2NjQ1Sno3UFhmUXQxRmk4QVBYdjJIcS1PbWZodGFpaENabnZhejJ2bm9hcXVkMTJCTFdJMjlwaGxCOW5IQi1UMk1QeXF6bU5CRlNjUkV6SW9tUzhib0NSeEZoaDNRa0h5R2RhOQ?oc=5",
-        "headline": "日 다카이치 총리, 일본은행 국채 매입 요청…장기금리 안정 위한 대응 강조",
-        "summary": "",
-        "source": "재팬코리아데일리",
-        "published": "08/05 13:19",
-        "published_ts": 1785903564.0,
-        "tag": "JGB",
-        "first_seen": 1785904298.4016368
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 00:31:04",
+  "updated_at": "2026-08-06 00:45:56",
   "yields": [
     {
       "label": "3년",
