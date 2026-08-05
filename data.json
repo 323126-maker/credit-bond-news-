@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE14a2ZVSGsxYXZCcG5jbmY4OUhTeWxvVVpIOUppMHg5alE3NXRsenE5bXpNVk1VajhuS0dONndOWFd0Vm9CeUtiUVZlN3luWXVka2hnVTBxNE80Rzh0YWJCSg?oc=5",
+        "headline": "[마켓인]투기등급보다 적격서 더 터졌다…부도율 역설에 얼어붙은 투심",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/06 04:02",
+        "published_ts": 1785956520.0,
+        "tag": null,
+        "first_seen": 1785958231.3870816
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBobWN3QUxaUjJQR3N5V3B0YTlmWU9iNVdBT3lTRW1DR3EzMUxGWXN1MFF1dXRtaE5qNkNoXzN2azZibk4wVS01Z1BMOUh2SjZnZ3ktSklVVHZPaE04ZzZsb3dGUlFpOEZWbkxjcUxNNEg?oc=5",
         "headline": "[채권-마감] 외국인 10거래일째 순매수…국고 3년 7.1bp↓",
         "summary": "",
@@ -332,6 +342,16 @@
         "first_seen": 1785888036.1672177
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZT2NfUHJKZGVqaTRfeUx5ZWZRbmFSMlFxOXBYSU53ZUE2ZlJINUFQQjRRakdhYk9BbWplRXBlN01aSnZISDN0T001RGNtdmY0eEo0UGxoNFlpcTF2TV9LWk4yOUZORWxSbnllVw?oc=5",
+        "headline": "무디스, SK하이닉스 첫 A등급 상향…AI 메모리 호황 반영",
+        "summary": "",
+        "source": "메디컬투데이",
+        "published": "08/04 16:00",
+        "published_ts": 1785826836.0,
+        "tag": null,
+        "first_seen": 1785958231.3870816
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MFI5U285MFVZU0N6RU5JdXlLc0JNQ3VVSXN6dDBWQkFLalpaNjY1bmR2SnEwU0dwMlEwVjRrd1A3ZEYza0FGRHQxMzlfQ3JHNEdHUmttVUhMVTJYZXNza3ZBdjB4WDdv?oc=5",
         "headline": "회사채 15% 줄 때 단기사채 90% 늘었다…기업 차환 부담 '경고등'",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785822384.0,
         "tag": null,
         "first_seen": 1785823246.2960443
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE13OEw3ckQ2Z0lQc3lkeUVfS3hoR3pQc203TDNaYW4zNktVNzV6OVhtWUZSMG9ZdDU1MGdaTlhWMy1fZm9WSmRHalhHelVzUWwzc0dycXdUUlRpb2VpTDYxbw?oc=5",
-        "headline": "[마켓인]무디스, '파죽지세' SK하이닉스 신용등급 'A3'로 상향",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/04 14:46",
-        "published_ts": 1785822360.0,
-        "tag": null,
-        "first_seen": 1785823246.2960443
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3WGZPTFRvR0V1ckFBc25CSUxKZjdxXzU0VERvMkFJenp3bGJyb3MxaEE4Q2ZTZjJyeVN3MlV2TFl2TGhDMGs0MTA0bUp0VG5kTk9WVUh1dXhWdHVSbnFfc19Ecm5oNDRnUk1RUHdB?oc=5",
-        "headline": "상반기 '단기사채 발행액' 반기 기준 최대",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "08/04 14:38",
-        "published_ts": 1785821889.0,
-        "tag": null,
-        "first_seen": 1785827724.830689
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 04:16:00",
+  "updated_at": "2026-08-06 04:31:05",
   "yields": [
     {
       "label": "3년",
