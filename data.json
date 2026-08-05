@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6SnROckUwTWxpMWJ2S21vT0dmYXRUaFgtdkpkVnB2c2pleVNFVzJ6YS1UaUNZYmt3WE5ZNV9IZ1prN0tTUDc2YkZmT3J2X0pQVWlBdkIwdU4wc2Vi?oc=5",
+        "headline": "다카이치, BOJ에 \"국채 매입\" 요구...중앙은행 독립성 논란",
+        "summary": "",
+        "source": "newspim.com",
+        "published": "08/05 10:34",
+        "published_ts": 1785893640.0,
+        "tag": "JGB",
+        "first_seen": 1785894334.6116185
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzSjRWcS0waFJJMGN1MkdjTFJFZnE0VC1pdUhzWTZfSVBkVENRWVByQkpBa09LcER0c01kOEFTbGdQOUlpUmpMWE1ONm5JVmJyY18ySWRVOWY2dVJER1ZPaXZjNHp2bnVpRVR4aC1R?oc=5",
         "headline": "엔저 막으려 美끌어들인 日, ‘금리인상 청구서’ 받나…美베선트 “개입보다 정책”",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785848734.0,
         "tag": "JGB",
         "first_seen": 1785886235.6062312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUFdMdzZaVGZZb1BVYlNhMkltVzQ1eERSR1FHOENkUnYtcnptNHdxeU10UEtlaEVnNzU2RHdUOFZqTWN4WGFJUTc0MVREMkk3QkdmSXBvTmQ2ZThMblhENUlFMjIxV1ZxN1lWdWxsUTlsUUcyLXVMUWlhaVUxcnpTZDJVLTN3Z1ZpZWhuR3h3?oc=5",
-        "headline": "Jamie Dimon Just Said He Wouldn't Buy the S&P 500 or Long-Dated Treasuries at Current Prices, a Red Flag for Investors",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "08/04 21:16",
-        "published_ts": 1785845788.0,
-        "tag": "Strategist",
-        "first_seen": 1785846633.2544637
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 10:30:58",
+  "updated_at": "2026-08-05 10:45:57",
   "yields": [
     {
       "label": "3년",
