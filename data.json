@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeTU5NDhscWh5T3FNOXFoeGdzRDVzeGJvWEdRazk2dXhSV0dtSGNRdkF5ZzhSVWpvcldUby1Nb2ZhYjhwaXZHNzZmcXVOMGxwME9INXF3QWNBNTNudnNFdWdOaTVEYzNqNmpXR0FBSlJLQjNVUDBjcjgxVUE2aFlGUldTYklSX0d2c0R5X1FjNnhnQQ?oc=5",
+        "headline": "Banks price in higher rates as Fed credibility wanes",
+        "summary": "",
+        "source": "American Banker",
+        "published": "08/05 19:00",
+        "published_ts": 1785924000.0,
+        "tag": "Fed",
+        "first_seen": 1785924923.7626684
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOQnFWcTliTmRwa2J2ckRzN1ZhWVBtR3Azay10ZjE3T0FHQTI5OFI2UXJRTGxCUVk2OGdwY1ZrN3ExNFlzc1ZFYkJVNFdvY3BSWmlpVGxFbVNmcncyZEFpTmxjY1Zsbl9HZjl2SGtUSDRlZzk3ODVkajJzTUFYNE9lZVNQcDFpSXZZRkhfbmhFYnJkU2QwVUFvVEVhR1FQelNEb0xJV1FrZFFNYmtndERLczhJeG4zeU9leENkWFdkUDA3ckNLZUp1M01Bb1g1MU4wUVBFN2FyMi00QXpDU3dBcjc2ZHFmcGNMcmJBVA?oc=5",
         "headline": "Commentary: The Fed needs to start listening to normal people",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785886225.0,
         "tag": "JGB",
         "first_seen": 1785914129.0418022
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwRFVsck1Fck1ZZ1lKUjcxLVhLbFdmZEZlQzhzZkFYanJZLUEwWjNtc3VFd1dkbkJnektQT1cxVzhGb3ZJYlhLLTE1SW1xVmMwclVYLUQ1VGFmd9IBWEFVX3lxTE5hRkFlOVV4QmZodUVCbjQ3Yll0UGJJd1I4ZjdQSlAwRGJGakZXeHphMnlMaGxWemU0ZmFNR1RsSUNqcDdpREJmRTBfTGxhaUxjQnNkRkR3YTk?oc=5",
-        "headline": "[미·일 환율 공조 후폭풍] 양국 공동 개입에 엔화 반등…원·달러는 어디로",
-        "summary": "",
-        "source": "아주경제",
-        "published": "08/05 08:15",
-        "published_ts": 1785885336.0,
-        "tag": "JGB",
-        "first_seen": 1785896132.9542274
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 19:00:59",
+  "updated_at": "2026-08-05 19:15:45",
   "yields": [
     {
       "label": "3년",
