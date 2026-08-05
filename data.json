@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTjFZNlUyT1dGUF9heG5vSXB6b1BZbV9MaTJicngyVmUwV1Nod2M4YkdEWjZWd0RaU1FzTnQtT2U5dHlOdzlvZ0dGNkYteE91eGtiZndrMlljcDF4LTUwci1kUXk3LTFxOEFCZDJUN2hBLUJJLUhZdzZMRGRIeEhEVlFfUVU0YU5jMjB0WkpVRnQ?oc=5",
+        "headline": "Confluence Asset Allocation Quarterly",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "08/05 23:23",
+        "published_ts": 1785939800.0,
+        "tag": "Global",
+        "first_seen": 1785940232.1027236
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWVlUbTZiNVdqcjBEZ0ljZ3RtR1ZnTTR6Y3Q0V3B1ZkhXa1ZGclVJQnR3ZG9uS2pMa3VJX3JZWmtBNVJmVERmMFhaU0ZZcE9Wb1l1OTBGZ0VsWEhoNG5PZGhHMHdTbGFldlNSLWNVWnpYR1Btajhlb1NvcF9TWjltSnU4M3F6d2JQc2Y4bjdEWQ?oc=5",
+        "headline": "Fed Credibility Is Now the Market’s Biggest Trade",
+        "summary": "",
+        "source": "connectmoney.com",
+        "published": "08/05 23:00",
+        "published_ts": 1785938434.0,
+        "tag": "Fed",
+        "first_seen": 1785940232.1027236
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUXM0UGc3UmJNd1lqSE1yX05ObHpRQUxKeW9zNmJtY2dqNzFOb0J3QzNsUVRnQWtPN2xXZ1dNcDE1NWhIckNXaXZ6eGpqSm1WbkdYNng1SXVNRmg3bXFfNTJpdDcteFVfUk5XdnZhc1BESktQN3NRRklzWEpNaUJ1dGdqR2o3MGRxelV1MkRMbUxWWEpEV1A5V3RncXVSai1YcEgwdTI2d1Y2aXVzeDhYRl81WHZVWVRXR3VjYmlR?oc=5",
         "headline": "Rand among emerging market winners as oil falls below $80",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785896820.0,
         "tag": "JGB",
         "first_seen": 1785897930.8147438
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPOFZ1THpwSUpRMUlTMzNXSFdEclhaamtybVJwWURIUW9uZzMtc3JMNWFEMy1kT1NXcnlMRU1xaktpZmRlSVhuZmpCLXFLektZM0JMTnZ4QkI5VVE2SDlGd25xdHE3RDZCMl91VDNGSFdxVFpmOUUwck43YU13UGZVNUdsc0ZZZ3BfcWJWaFZFRXUtUHgxTnpYTHB1b1c2VWNPTEUwX1hKbXo5R1k5V2lBVlhkUDJLLThiQnRHX3QzMzJ6VHoxRVpvcThiYWFidTljTUItLS1VWTJ5bUpvTFNBRmJRTV84Zw?oc=5",
-        "headline": "Nasdaq Futures Tick Higher As Microsoft Lifts AI Trade, PCE, Fed Split, And Iran Strikes Keep Investors Cautious: Why META, AMZN, AAPL, MU, IBRX Are In Focus",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "08/05 11:26",
-        "published_ts": 1785896775.0,
-        "tag": "Strategist",
-        "first_seen": 1785925836.701916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHdtd21HWHZJU0VLTDZrLVJpcjJnb2ljbUltWC1ZaWJlcW44OHlOTjBvbGZjYlFVMXpFMjF3UTcweUhuWjhOZWJ1S0pUY3R3a2piVEFYSjJNMzB2c1h3VVM1aGlDSC1xRHZabDlNR01JYndQUnRmalVORXNZWndONFZrd2JWLTZicldiSkpab055VDZtdjd0VWZ3UmhoY2lVRjUzdQ?oc=5",
-        "headline": "Silver – A Complex Bottoming Process Continues",
-        "summary": "",
-        "source": "news.metal.com",
-        "published": "08/05 11:11",
-        "published_ts": 1785895909.0,
-        "tag": "Fed",
-        "first_seen": 1785896132.9542274
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 23:15:56",
+  "updated_at": "2026-08-05 23:30:57",
   "yields": [
     {
       "label": "3년",
