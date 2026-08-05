@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50bXdBengwSkd3YjQ3d0pPNGk0NE1qQldRSjVpcmRDM1JmZnBjMlVOa3JVMUctVW5HT08xRmE0eDJBcXZmUWhOUXoycDVha0d4dDdMem4xazlYQQ?oc=5",
+        "headline": "\"근로소득과 형평 안 맞아\"…25억 번 李 대통령 양도세 보니",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/05 11:33",
+        "published_ts": 1785897206.0,
+        "tag": null,
+        "first_seen": 1785897930.8147438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5maFFyMXRhNlpqOTBVNWJjWFhvUnY1Q1FjS1lTbjJjX3U0VjZnSFBTQUpwcF9NLU5jRlMtdHZMSEFzeU04eGNyVmJ2NlQ3NEM2SDgzbnVaYmFnUnNmY0FSTE1nZElPZnlETDdZZDEwS05yNURqeGFIeNIBeEFVX3lxTE5maFFyMXRhNlpqOTBVNWJjWFhvUnY1Q1FjS1lTbjJjX3U0VjZnSFBTQUpwcF9NLU5jRlMtdHZMSEFzeU04eGNyVmJ2NlQ3NEM2SDgzbnVaYmFnUnNmY0FSTE1nZElPZnlETDdZZDEwS05yNURqeGFIeA?oc=5",
         "headline": "교육부, 오늘 대통령 업무보고…AI 인재양성·교부금 주목",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785308400.0,
         "tag": null,
         "first_seen": 1785520843.899678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNQUFpVkIzdlNRVGRUdjYtS2JpUV9mQXZvWVMxQm1uVHkzZ3dhSi1vM29LdXA4R1N4R29iZE1yMHRCTnBYWWJ3djYxLXI1RWhZVTBzTWl2Q1U5RlA5?oc=5",
-        "headline": "구윤철 \"세제개편안, 세수·징벌 목적 아냐…1주택 서민 부담 줄일 것\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "07/29 15:31",
-        "published_ts": 1785306660.0,
-        "tag": null,
-        "first_seen": 1785307523.0370164
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4wUjZBU29LbXBSdmQ2SEhfOEs5R0I5OGFMaDVFdHhBYlA1TGxQYXJPNzBrY2dGYUtwNUpGclN0RDY0NGd6TEtvaUxZOS1Cem9zcExhMTdYY2VtSms3cVNJNQ?oc=5",
+        "headline": "다카이치, 日銀에 \"필요시 국채 매입\" 요청…통화정책 개입 논란",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/05 11:27",
+        "published_ts": 1785896820.0,
+        "tag": "JGB",
+        "first_seen": 1785897930.8147438
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRHdtd21HWHZJU0VLTDZrLVJpcjJnb2ljbUltWC1ZaWJlcW44OHlOTjBvbGZjYlFVMXpFMjF3UTcweUhuWjhOZWJ1S0pUY3R3a2piVEFYSjJNMzB2c1h3VVM1aGlDSC1xRHZabDlNR01JYndQUnRmalVORXNZWndONFZrd2JWLTZicldiSkpab055VDZtdjd0VWZ3UmhoY2lVRjUzdQ?oc=5",
         "headline": "Silver – A Complex Bottoming Process Continues",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785850838.0,
         "tag": "Strategist",
         "first_seen": 1785860132.2439473
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQV05TWXE1Y1dqc09NWkluTElpMERsYVZVbVFjU3lITUVySzR3YXpvZXRZSFhvUEZXZkp1ekhUMVlBa1hTcHBDcmNBa0h0cjYyYWpCQkFFSHVzUUhFNFZ2OGF2LWlwVHBVNEpuZ1JjUTVTVkxsMHF1SUUzVWFqdEVXcnY4OWxkV1BfSjRweEZSS1pmbnQ5SkVDSnVSNVZKcWdLaDd4NmZndWZZZHFpWmVkWVR0bm5kVlh2dkx1TFp5U29rRnljMjlsNTlrdldmVFZzWEc0b0otdFBvTUFaNzA4ekxoSlh3a1pJVXJSdE9ZT2l2UlFfcVRfQVhFSW9VSlFB?oc=5",
-        "headline": "Warsh floats fewer Fed meetings to reduce market dependence",
-        "summary": "",
-        "source": "KRCR",
-        "published": "08/04 22:38",
-        "published_ts": 1785850719.0,
-        "tag": "Fed",
-        "first_seen": 1785858331.2528512
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 11:30:55",
+  "updated_at": "2026-08-05 11:45:54",
   "yields": [
     {
       "label": "3년",
