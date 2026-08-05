@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzSjRWcS0waFJJMGN1MkdjTFJFZnE0VC1pdUhzWTZfSVBkVENRWVByQkpBa09LcER0c01kOEFTbGdQOUlpUmpMWE1ONm5JVmJyY18ySWRVOWY2dVJER1ZPaXZjNHp2bnVpRVR4aC1R?oc=5",
+        "headline": "엔저 막으려 美끌어들인 日, ‘금리인상 청구서’ 받나…美베선트 “개입보다 정책”",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "08/05 09:39",
+        "published_ts": 1785890399.0,
+        "tag": "JGB",
+        "first_seen": 1785890726.652253
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmpCUHdla2pBVFIzM08ybktPeEppV0VlUjFlUDBhMGotOTc4UVpjTGhBRk1iTklQeWwzUDdPWFdqN1IteTBUTndURzBoSENKTThueHlDd1BQbzRZbjRmX0JzWG9POGo5R1Z3WExEVDZGOUM3YUZMUG1aVmt3Z1VxYmpXRzB0UkdqbWxGYnJn?oc=5",
+        "headline": "Dow and S&P 500 Hit Record Highs, Ending Two-Month Decline",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/05 09:31",
+        "published_ts": 1785889868.0,
+        "tag": "Global",
+        "first_seen": 1785890726.652253
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEY4WHNWd0hWaVY2dVFjOUloN0RBcXVRWmxUMkNYZ0ZEZEw0R0U4SUE2Q3dUZVZNazNJTFhhcEJaODVDQVNNUktJSDhfbDVKVWI2VERkQjlXSlpxaC05ZHZfdlptTUtqRTl3YVZKZjcxUl91RXg2bXFhRmdwVDR5WlEwd0w3aHAydkQ3MDdR?oc=5",
         "headline": "U.S. and Japan Intervene to Curb Yen Carry Trade Risks",
         "summary": "",
@@ -1688,6 +1708,16 @@
         "published_ts": 1785875764.0,
         "tag": "Global",
         "first_seen": 1785882634.1707413
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5vanhmVlcyZExqNUlXblV5WS1GTjBjYV9iLUF2R2prbkpuNXg2U19KcmZMU2tiVmZjclNuZi1oVlRBMXU0dGUzbGJwX1JEdjNiMjBsbms2ZENfT2NxR2hHNzVyM3RyYWlFLXgyelBKdTFxZUkwQ1lpaDRB?oc=5",
+        "headline": "Trump Fed chair’s inflation strategy: leave it to the market",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "08/05 05:31",
+        "published_ts": 1785875460.0,
+        "tag": "Fed",
+        "first_seen": 1785890726.652253
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSS1yV2EtQUVhS3JOaHFoRTZ3WDVKemJ3RlhiRENDU2d0YXlBa2U2X1RQM0xfY0h5OWRENGNfWnhZTlpBNFhYWmViN2xNM3N1RVU5T0JRako2UlNJSGdiSTF5TmYzZVNERVNfd1NlSlZZbFRJR01xQ3pjZ2tzcG82by1uUnFIUksySzFjYmRJMFpyelZjZDNGaHNmMDVwRUNvMWdwLXo5MUFYSHc?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785843269.0,
         "tag": "Fed",
         "first_seen": 1785843930.0155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUkFWYmN6RWRoU1pHc2dkTmxONHd1VUVYYy1OQUxXTG9Zc3gyZWVXMUVpQW1fUDFjT2dnR1V1WGlDNHc1ejkwTVA3UHFsRlZ1ajhoaWg0OThUM3JtMkg5M29iQ2J4RS1NU3NkWlQxekRvZjBHU3hzeGNiQlpzM3lNX3FUMEc?oc=5",
-        "headline": "The Federal Reserve goes Wacko",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/04 20:30",
-        "published_ts": 1785843001.0,
-        "tag": "Fed",
-        "first_seen": 1785844837.1316926
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNnJFSEsweW5kcVE0ZGNpQmdiMUdsTGRZZm42OElyaEpWUDlPNUhGVm1pQWxVSWRueS1Bby1ncmJ4eE9wc2Q1aUVIMU1FWWVGeGt5Z0lPdTdTVnUwVWNvQ1NqM0dWNGhZaWNRdVlxbEVKM3pQWHIxWXBCbHBXeS1wNGN3d3lJSmlOYnNZMXZ4MUE3a3VxUFowa09vQzBmSGxiVHVNd0ZZNkZLY3BMYi1MMFJ5eUFRX3FCLXVJemhUZ3NEQV9OQkVpb0VrSW0zRTR0Y3Zuc0VXYldrdG5jOWMxVWNqbw?oc=5",
-        "headline": "Charlotte municipal bonds: top exchange-traded muni funds and direct bond options",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/04 20:19",
-        "published_ts": 1785842340.0,
-        "tag": "Global",
-        "first_seen": 1785850232.8459244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1ScWdmS2NnZDBhODVQNVl6bktUNVE0M25PbmN3ZExEZ1lrcTlwdy1YZDhBTDRQX0JRRkN5N0dnT3hVMThuTExPLVZDU2xxVVlsbVpWdEtQNGJaZzh1YnQtWnNYclctOTlCQWtn?oc=5",
-        "headline": "Wall Street: Less Fed information will mean more volatile markets",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/04 20:12",
-        "published_ts": 1785841932.0,
-        "tag": "Fed",
-        "first_seen": 1785842126.9993896
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-05 09:31:07",
+  "updated_at": "2026-08-05 09:45:53",
   "yields": [
     {
       "label": "3년",
