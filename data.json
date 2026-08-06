@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LVEZtWjRWUjJmNldERF9UNy1kT0hHeUZER2pkeWVzSkxsUVN1MDdBTE43RWt2eFZid01Xc3dPdnEzYS0xRjN6S3VrcGU4eWlSc1VnZ3JoUHZTRTJEcU5HSFFIcGtBamVsUHNodms3SVF0QjlGU1E?oc=5",
+        "headline": "JGB Futures Extend Gains, Long-Term Yield Falls to Low 2.8% Range — Direction Lacking Amid Hormuz Strait Talks and Fiscal Caution",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/06 10:05",
+        "published_ts": 1785978300.0,
+        "tag": "JGB",
+        "first_seen": 1785978924.101997
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMU5sWTBfdE5lbnV5Z09nQ2JadTdNMFB6OHFJQTluaGFxYTZuQmd2dDhKOC1lMXM0TVV1Q0FUOHZmZnd0ekpHbkplelFOeHBXeWNyNWtwM29WRkNnVWR1Z19sSHJSZXpFNFBORTY1Vm02eDJ4UWJrLWliTkpQanhLbWRyT1g4VXBZUDVUZDlNWUZoa0x6d1M5V0JOSEZWdndJcFNEenhzUQ?oc=5",
+        "headline": "Exclusive | Trump Has Called Warsh Repeatedly Since He Became Fed Chair",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/06 10:00",
+        "published_ts": 1785978000.0,
+        "tag": "Fed",
+        "first_seen": 1785978924.101997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tc2NzSk9vak9rZTFPQ0E3UlI2TGJ0TzhWX3lhZ2VSd3FLZElxYS0wTHpabnFoLTZsM0pXYlpWRURvcGlfeFBIeWxDSXk0b2lkdTE0?oc=5",
         "headline": "미·일 공조 개입 한계…원·달러 1480원 상회 전망",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785923814.0,
         "tag": "JGB",
         "first_seen": 1785932128.4953134
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYkFHRmhabmxQeFgxd2YwWlZJQ0s1UkRmaWItbzU1Vnd3d3EzNmVYZ2V4M3VIenRYNXZyVE5zNE1VWHBDSThaYzFVOVRBdjBwOUpaQkpjazludmlka3lsMDFvc21Pa2tzWFY2Yy1hRTE2eVFHZi02UHZLN3Z4U3duWFFuT1JJNGJu?oc=5",
-        "headline": "BTZ: Rates Are Attractive, Spreads Are Not (NYSE:BTZ)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/05 18:15",
-        "published_ts": 1785921328.0,
-        "tag": "Global",
-        "first_seen": 1785951925.889729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWW5uRHFDZ3JqWWVQU1dDQkNvY1kwV0tfWUdrSi03ZFB0Wmk4cjBSSU8tU1ctTEJPSkw2RnV3SDlTQXN2M1RadXlMcWRfT2J6b0hkY0pINDQ4NlJIS3YwbldlNXBJdGY3RTdGUDl0R2EwZFJiQ19XT3NMZ2U4QXdOdFBUN2luUWZTN2lHVUdXR1RKOV9kYVpkcE1HYVpSWkY3WGdmRUNENU1fejBneVNuZ3pnZw?oc=5",
-        "headline": "Barclays, HSBC Say Warsh Boosts Case for Inflation-Linked Bonds",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/05 18:02",
-        "published_ts": 1785920539.0,
-        "tag": "Fed",
-        "first_seen": 1785929430.2627861
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 10:01:10",
+  "updated_at": "2026-08-06 10:15:42",
   "yields": [
     {
       "label": "3년",
