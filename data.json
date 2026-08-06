@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA0a1JvSURTQnNnZkh1VWJZWnVRSzBWaTgxd1RPc2hSRzc0RUpzenlRMnpPRklkQlh3eVdsVHRlbndYejZwTGIzVElZak9DU3h3QWw2TTE2WWtIU0s2ZndhVzFYSzlHTTROWEQtNVlHdlM0R0VmZk5haXZR?oc=5",
+        "headline": "은행은 연 10%에 달하는 높은 이자율의 채권을 발행하고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/06 14:30",
+        "published_ts": 1785994239.0,
+        "tag": null,
+        "first_seen": 1785998735.827921
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlliUzJ3bmU5VmJndFB1YnpMYU1kemp2MU00MU1IU082eWtLcWNFZWh6VmRIUVloTHlOYWMtWEZsWWliQ203R3IzZzlUeFQwVHVyS3hpUW16S0RITGE0NnRLbjQwb3p3T3M2a0tEWnZqekJwWDFoOFhsUG1RTFFXQ2VSbzRLdVBx?oc=5",
         "headline": "AI 빅테크, 채권 발행 폭증… 글로벌 크레디트 수급 부담 가중",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1785981600.0,
         "tag": null,
         "first_seen": 1785983432.4166713
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43YjdTTU53Zi1jX3l4Tk11aDNGdXBnMlVIakljNDlNT1ljbTVhVXdkdzRzam5mdUZ6T0wyTHB3d3RKWXdoNkctcFUwa3R5S1hEbUpFN3FRQnYyNlUzR0t3bDI1ZWJabWdMQzg4eVkxY2lrc3Nj?oc=5",
+        "headline": "[뉴욕마켓워치] 호르무즈 정말 열리나 지켜보자…주식 혼조·채권↑달러↓ |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/06 08:20",
+        "published_ts": 1785972034.0,
+        "tag": null,
+        "first_seen": 1785998735.827921
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mZDk2V1JBTkxiNnoxbW15YWg3LVpqYzhvS3Y3TV8yNUlUNi1hZ21IWmxWbUkwWTFLSmx2cWtfdDdWOVlUa3pXc2htV2ZJa2JmcktfMlJiZlVjc29tVmRWTzc4bm0xajBNNjFQYU5yM09WVUNs?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1785828360.0,
         "tag": null,
         "first_seen": 1785888036.1672177
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ZT2NfUHJKZGVqaTRfeUx5ZWZRbmFSMlFxOXBYSU53ZUE2ZlJINUFQQjRRakdhYk9BbWplRXBlN01aSnZISDN0T001RGNtdmY0eEo0UGxoNFlpcTF2TV9LWk4yOUZORWxSbnllVw?oc=5",
-        "headline": "무디스, SK하이닉스 첫 A등급 상향…AI 메모리 호황 반영",
-        "summary": "",
-        "source": "메디컬투데이",
-        "published": "08/04 16:00",
-        "published_ts": 1785826836.0,
-        "tag": null,
-        "first_seen": 1785958231.3870816
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53MFI5U285MFVZU0N6RU5JdXlLc0JNQ3VVSXN6dDBWQkFLalpaNjY1bmR2SnEwU0dwMlEwVjRrd1A3ZEYza0FGRHQxMzlfQ3JHNEdHUmttVUhMVTJYZXNza3ZBdjB4WDdv?oc=5",
-        "headline": "회사채 15% 줄 때 단기사채 90% 늘었다…기업 차환 부담 '경고등'",
-        "summary": "",
-        "source": "녹색경제신문",
-        "published": "08/04 15:36",
-        "published_ts": 1785825411.0,
-        "tag": null,
-        "first_seen": 1785825933.347615
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 15:30:53",
+  "updated_at": "2026-08-06 15:45:59",
   "yields": [
     {
       "label": "3년",
