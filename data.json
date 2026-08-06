@@ -52,6 +52,16 @@
         "first_seen": 1786012233.3882432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JV01qdm84MlRCM190VWdtMHZJbjMyNndyXzRYRUFUR20xdDZ6U0FPVEt0MXctVXkzWk1CNjJ2TEQtWVk1VjhxNVotQlhOVEw2YU9tUFdrUGNBODEyOW9XNXF3eEhOaENmV0QxOU1wSlg?oc=5",
+        "headline": "[증시-마감] 코스피, 4.6% 급락 마감…코스닥 3주만에 800선 회복",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/06 15:51",
+        "published_ts": 1785999060.0,
+        "tag": null,
+        "first_seen": 1786020331.821531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84QlR5Y2VrWmZNQktTRzhWcEcwX1JpaUdyczJMN0psbUlSN2hvZFFOQ3VuTFFJUnFfc2J2cENpX2g4SEhrbVZmMVRIdk5nWkhJRkVBYkRBektHSUE2N3RhMGVyMA?oc=5",
         "headline": "모건스탠리 \"하이퍼스케일러 유럽 채권 발행, 시장 매력도 떨어뜨릴 것\"",
         "summary": "",
@@ -70,6 +80,16 @@
         "published_ts": 1785994239.0,
         "tag": null,
         "first_seen": 1785998735.827921
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zZDMtY1ZkMUhhREF0SnBlTEg1TnZYbTQtUlczamlKd1U2Qi03SXlSWHdheWhFeGU1Ukw0QmQ3d0R3YlE0UVR1b3NrX09kSnFxSFNPOUdhdHctVkJNS2RtVHhFWVRieDMtT1dSTm1XTXhjNTA?oc=5",
+        "headline": "컴퍼스 미네랄스, 3분기 순손실 대폭 축소…부채 감축에 S&P 신용등급 상향",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "08/06 13:59",
+        "published_ts": 1785992354.0,
+        "tag": null,
+        "first_seen": 1786020331.821531
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlliUzJ3bmU5VmJndFB1YnpMYU1kemp2MU00MU1IU082eWtLcWNFZWh6VmRIUVloTHlOYWMtWEZsWWliQ203R3IzZzlUeFQwVHVyS3hpUW16S0RITGE0NnRLbjQwb3p3T3M2a0tEWnZqekJwWDFoOFhsUG1RTFFXQ2VSbzRLdVBx?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1785884908.0,
         "tag": null,
         "first_seen": 1785907834.9537468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rMEpUMjlKTzB0WlJxY3FqWnlyenhoS2RuTzVpeUdHeVpIZWJzeWdKamtSeV9kZWUxR1FrVEQxdmlFVDIydGY5d0V5M0pwa1VKQTZXRGpuc08xSFl5MkE0MFFyX3Ruc08yWTZoOTJNelJNUQ?oc=5",
-        "headline": "회사채 한파에 유동화 쏠림 심화…짧은 만기에 차환 리스크도 커져",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "08/05 07:00",
-        "published_ts": 1785880828.0,
-        "tag": null,
-        "first_seen": 1785880974.001795
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYZWlBeGhlR216THM3VFA1T3g4NTM4SHhMd2s4eHN5RGk4TFNxQ0c2LTB2VV9nV2xvUi1tY2pTZGZfal9pWmRYbVFBX1JDaEpNa21TOHdHd2J0OVhPcFQ2RU5TNWxZWkJiNWFJU2NuUW8?oc=5",
-        "headline": "[뉴욕채권] 국채가 이틀째↑…베선트發 호르무즈 기대감에 유가 또 급락",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/05 06:20",
-        "published_ts": 1785878453.0,
-        "tag": null,
-        "first_seen": 1785888036.1672177
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 21:30:58",
+  "updated_at": "2026-08-06 21:45:57",
   "yields": [
     {
       "label": "3년",
