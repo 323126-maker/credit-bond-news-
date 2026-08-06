@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuVElfVUVMd0lUd3dqRDdkcHVYZ1c0dGpESFhQeGYtbzJ6R05SZ1FTZ0F4RzlWcEpMOEtveGhyMXhxSEZHQnVWelowaVVlR293ai1iY29LVWw1Z25jZlZKUDEzUDVJNE5X?oc=5",
+        "headline": "Fed Interest Rate Policy 2026: Impact on Global Markets & Investors",
+        "summary": "",
+        "source": "Intellectia AI",
+        "published": "08/06 21:05",
+        "published_ts": 1786017956.0,
+        "tag": "Fed",
+        "first_seen": 1786018533.1309257
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNm14UkF5YlhKaGlUZHlyTlg4bnpsNXR2TElBQXFmWkxXSWlWUXN2S3R4T0Y4S1VWNUJ6Tzh0UlcyUHVZMl9JRXZldGtINmtBY1M2U1JqLVl1cC05TTllZ0dkN1M5Z0dQYmhMekdvZGc3Z0h6R3pMSXRuZmxXUW1kQzhXY0FUV1VNWWNiZFBwLUNXU1dqS3hmRmZzVQ?oc=5",
         "headline": "Active ETFs Top $2 Trillion, Led by Bond Demand",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1786012500.0,
         "tag": "Fed",
         "first_seen": 1786015829.4726765
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdkJCN3U0cVJ3OUlVdkNscHNQOWtqeTk3dkNIZ0tBVHZzWW9LUEQtWUwyN0JiSENKQmtfQzcxZ00wSmhuNnYtOEIwUjJ5RmcxZlJfeHRZMFYzTE5USjVjaGd2UlctSVZCbTRPUFRnbEc1ak1VdkZ6NGV1MFdueWtVU21EWnRrX1FreUNRalEwUEE0NEZKVVAzYlB0X201MWp1WEE?oc=5",
+        "headline": "Treasury Yields Surge As Markets Bet On September Hike",
+        "summary": "",
+        "source": "Investor's Business Daily",
+        "published": "08/06 19:32",
+        "published_ts": 1786012338.0,
+        "tag": "Fed",
+        "first_seen": 1786018533.1309257
       },
       {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMUZQa2dWbUY4N3I0SUdfZEI5bC1rbmNZNzhQYU8zNW9saVlZbWtTLVhaNTRLVFBxS2k3T0ZpSkd6T0lBQ3RrQkgzWjdHNHJhRHVZQ05EWjJkaWgyZXp0TGstTjI5dVNTeWVKV3ItSW00MWhIcU1tT2hEZ0tpOW5jamtibzg3WWNpLTdaYVlidTJhcm50SFpOV0pmWHFSZktRTjg4TGtGRzBqVGpBR05yMw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785978300.0,
         "tag": "JGB",
         "first_seen": 1785978924.101997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMU5sWTBfdE5lbnV5Z09nQ2JadTdNMFB6OHFJQTluaGFxYTZuQmd2dDhKOC1lMXM0TVV1Q0FUOHZmZnd0ekpHbkplelFOeHBXeWNyNWtwM29WRkNnVWR1Z19sSHJSZXpFNFBORTY1Vm02eDJ4UWJrLWliTkpQanhLbWRyT1g4VXBZUDVUZDlNWUZoa0x6d1M5V0JOSEZWdndJcFNEenhzUQ?oc=5",
-        "headline": "Exclusive | Trump Has Called Warsh Repeatedly Since He Became Fed Chair",
-        "summary": "",
-        "source": "WSJ",
-        "published": "08/06 10:00",
-        "published_ts": 1785978000.0,
-        "tag": "Fed",
-        "first_seen": 1785978924.101997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8tc2NzSk9vak9rZTFPQ0E3UlI2TGJ0TzhWX3lhZ2VSd3FLZElxYS0wTHpabnFoLTZsM0pXYlpWRURvcGlfeFBIeWxDSXk0b2lkdTE0?oc=5",
-        "headline": "미·일 공조 개입 한계…원·달러 1480원 상회 전망",
-        "summary": "",
-        "source": "경제타임스",
-        "published": "08/06 09:30",
-        "published_ts": 1785976225.0,
-        "tag": "JGB",
-        "first_seen": 1785977126.8283942
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 21:01:02",
+  "updated_at": "2026-08-06 21:15:58",
   "yields": [
     {
       "label": "3년",
