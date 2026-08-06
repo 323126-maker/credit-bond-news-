@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbmF2TUR0blpGeDZXbGk1UzZGQWJJOG9pbWlWd3NJeWRUcmdxVHRfcjRwWlZ3MWxVMk1URmREek1hOVM4RVhGVEFLb3c5QWhudkw2Tk5QYW4zZUlBeFpFZTZwUy1oSG9iWHc?oc=5",
+        "headline": "벼랑 끝 내 몰린 충청권 건설업계 ‘폐업대란’ 온다",
+        "summary": "",
+        "source": "동양일보",
+        "published": "08/06 17:51",
+        "published_ts": 1786006289.0,
+        "tag": null,
+        "first_seen": 1786006837.608539
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84QlR5Y2VrWmZNQktTRzhWcEcwX1JpaUdyczJMN0psbUlSN2hvZFFOQ3VuTFFJUnFfc2J2cENpX2g4SEhrbVZmMVRIdk5nWkhJRkVBYkRBektHSUE2N3RhMGVyMA?oc=5",
         "headline": "모건스탠리 \"하이퍼스케일러 유럽 채권 발행, 시장 매력도 떨어뜨릴 것\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785836666.0,
         "tag": null,
         "first_seen": 1785847523.389563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lOE9UdGsyS3lRLUlxODhKQTlVU3pLYWFEVC1MUVhaTGNWWkFQbVlJMFJ3LUNSMmF1Q1pXcDZNZnhHMm9zSEZFQ1JDeFJFdEVxTVBQTFQxZEtycmRYQ25kRFM2MllRQlF2Y3Zpc1R1cVc?oc=5",
-        "headline": "[외환-마감] \"1,420원 부근서 저점 인식 확실\"…되돌림에 1,430원대 초반",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/04 18:21",
-        "published_ts": 1785835315.0,
-        "tag": null,
-        "first_seen": 1785852931.2630346
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1786005037.5187628
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50djNmX0ctMW9sbk5OZTJHR3E3cWNYYzdCR3RENXNveE9hUmpqck9OMlE1ZFpGdGZIQWRVbzR2NW14YTBkV0o0QWEzYUZRZUk?oc=5",
+        "headline": "미 연준 독립성 훼손?…트럼프, 워시 의장과 수시 통화",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/06 16:09",
+        "published_ts": 1786000182.0,
+        "tag": "Fed",
+        "first_seen": 1786006837.608539
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YcFpPME12dFlnZjI3bUFpcUdzenkzbFd0VXVjSXhWV2owMGVpMW1tclRXQ29SUW5vcjFmc1dmN0ZuTE51VHZUOVAybEtOOW8?oc=5",
         "headline": "트럼프, 연준의장 수시로 전화…대통령-중앙은행 거리두기 이탈",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785946140.0,
         "tag": "Global",
         "first_seen": 1785968134.0315366
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
-        "headline": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/06 01:07",
-        "published_ts": 1785946069.0,
-        "tag": "JGB",
-        "first_seen": 1785981636.476606
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 17:45:58",
+  "updated_at": "2026-08-06 18:01:01",
   "yields": [
     {
       "label": "3년",
