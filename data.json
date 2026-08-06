@@ -272,6 +272,16 @@
         "first_seen": 1785922228.8872495
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41ckxxc1BhTHBzbjhJNzVoZjVxcW9LTlJYUjBqakdYSmZJVGdCV21qaFU3NEZST3ZTYVg1cjV4Q3JLdzMzMmlDZnVsV3g5UlZFSjgzSGk0OE0tTG53YWtLOXQ0M3lIS3ZXLU85RWpzV0nSAXRBVV95cUxObVFiem9MSnFRc3ZZNGtiUG1NYlEzWnEyTkpObnRZV2RfcWpncHNzS0p3em95R21wUkg5T3d6TVg0MDNRSmFLaWZQWmxvNjJ0Sm9jczhNUmJra0hiUHQweFFNU1h5NmxJbzFNWndHWTFPQXdlaQ?oc=5",
+        "headline": "FX스와프, 지준 수요 해소에 하락…에셋 우위",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/05 18:03",
+        "published_ts": 1785920636.0,
+        "tag": null,
+        "first_seen": 1786023034.6142075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IVUhoRXR0aTVYVXItLTZDN3cxU3FKQ3VJRXlsU0Q5dFhaYVB4QUJPeDhLVHcxaUYzX3VsYW85X0pFVVlNRHpfNGUtUGJOdFZkSU9seFE1REswQVU?oc=5",
         "headline": "유가 급락에 국고채 금리 일제히 하락…3년물 연 3.669%(종합)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785888000.0,
         "tag": null,
         "first_seen": 1785898843.2951152
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MZy1OVU8wSTNGbU0zQ3ZkTDFRZ19Gc0tyRC1iUWxRSW1TRldVVzlZUHE5RVJxMHFJZWpjYlNDR1lDVXV6bkhoOV9tVTR3WWNXUGk5QTZRUWdaYkhxSEktUXRhT3ByVTJYYjJITk96NnM?oc=5",
-        "headline": "[뉴욕마켓워치] 호르무즈 곧 열린다는 베선트에 주식 나흘째 랠리…채권↑달러↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/05 08:34",
-        "published_ts": 1785886479.0,
-        "tag": null,
-        "first_seen": 1785933038.3614125
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOV1Nib3dmNUVKcTNiNUw4dHYyZG8tWmFKLWMyMExjalBCVk8wUG1kVkNuZ1VfdHVxcEdGa0lLMDhxYkY3WHZfQnlTVjFOUXBNUmdjMV90dDFmdFE2d2ptczRHZ01uVzVXT1FVbVNTOVExekthblBPM2FhUVdjUlRuU1dES1FhZm4xZ3h2OHNYUEhtZmkycmU5YmZZbnFWZ3pfUmJzYzNXa0lzUldIQmd1VThMRDI0RkIweENPQ1hZZDB3cmxtQnBxeVRoT1luQTFveDZRZg?oc=5",
+        "headline": "Jamie Dimon says AI build-out could help unleash 'skunk at the party' for the world economy",
+        "summary": "",
+        "source": "Yahoo! Finance Canada",
+        "published": "08/06 22:17",
+        "published_ts": 1786022227.0,
+        "tag": "Strategist",
+        "first_seen": 1786023034.6142075
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSGRwOWdqeldVQzdSUDhobVZWX2dqQmdPUngxZUxsYUNrQjkxTF9NZ1R5VTljVzl1bDR3eGRVTkVNdHUtaFY3XzJISF9BcWVHYjZxWnI3NnhIMHNOZ3RaR1haczhPNmRYWWJMVDFoRnQ2VHlTRGZOUVcwZjQtbEoyaWpSX2VXS2Z4VkJiTE9nTkhmeTZCeVhiUUNxYzlpODU0eDBkUV9Rc0x2aGJFVlNnUEFoNTh0UncyeHpIUmZxVDRlRGE2eldqbWxQTTJNdXl6WllF?oc=5",
+        "headline": "Trump Said to Call Warsh In Latest Signal of Push to Remake Fed",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/06 22:14",
+        "published_ts": 1786022052.0,
+        "tag": "Fed",
+        "first_seen": 1786023034.6142075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPTnBaQjhydWpRX0ZtY1lGRDlOb3RrdThhNl9acTRPanIwcEZOa3c2S1VUUWpTeE9JNDJZYzJnVDdIVWVTWE5YU3hMb0FJcjZWeG16Szd4ZWU5emZ4N2diemFHZklXbi1ZdVBRc3dWMHk5andmNGUyLTlxLTBvalE2NmJya0ttVk1haXVhcVlCaHhrTWtpV2IzMmZUWjFUVmZuUnBaS3FBaEExT3RqWGV2OTBFeU8?oc=5",
         "headline": "JPMorgan's Dimon Is Warning About Leverage In The Market After Collapse Of Situational Awareness",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1786015853.0,
         "tag": "Global",
         "first_seen": 1786017637.2057793
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYnFZZHZNYk82VzBSbm1rT25RSHExaGxLN1FvY0lNdkZlRXNHR3lCOEpVbVhtLXRqdnNQeHdySFJZSnlVYVpBaGotVWNNUlp4TDk5aV9tS0x6Qi1kb0lCWFRTOExseXF2alBrUXNCbi1sRGhKbUQ2d29PX3lzV2R3S0NzUkJjcXNyZHN0eUdIMUU3dUU1T1NaYTRHMXJTMkdWWG1UbTdDN3VHSjJMd0pMbGtB?oc=5",
+        "headline": "How Bond Investors Should Navigate a Volatile Interest Rate Environment",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "08/06 20:03",
+        "published_ts": 1786014207.0,
+        "tag": "Global",
+        "first_seen": 1786023034.6142075
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTFoyTFVDdW5XamU1QkN0b3doaHhuMm5USE1iUUhQT3d5cDhLanJwY0NJWHJpYUZaSXVnNnB2TGtJeVM2V2pZNWJycXkyUTU3OFhoZXBpbDV1MDVqS0lncnN6YzdCUmVLdFp6QkxvMk5mUENzLXFIYUFMek52alR2NEdQUmg?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1785984480.0,
         "tag": "JGB",
         "first_seen": 1785992435.6284041
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QOWprX2dyaFEtNmNHdEQwOGhQZmQ1YTcyUnJMNVJkMHJxQW5KMXY3ckpScklVUXhaX2kzbmJubjhMR3lVeDVDOTEzRGsyV2d1cXNOS1FzbDk?oc=5",
-        "headline": "The \"Sell America\" ​​trend is returning, with investors fearing US policy will destabilize the dollar and bonds.",
-        "summary": "",
-        "source": "วารสารการเงินธนาคาร",
-        "published": "08/06 11:43",
-        "published_ts": 1785984180.0,
-        "tag": "Fed",
-        "first_seen": 1785999652.8697221
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNFVnYk5JN1RrOEJQMFlXX2toRTd0bUUySGhLb2k1QmZ1YjhoTVA5M1VYMGJKbnpQVk5QNVlGUVZmLW1zLWNTZlVVbE9HYVpGdk5TSEJGWWRSdw?oc=5",
-        "headline": "'더 올려야' vs '지켜보자'…연준 금리전쟁, 9월까지 이어진다",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "08/06 11:15",
-        "published_ts": 1785982554.0,
-        "tag": "Fed",
-        "first_seen": 1785983432.4166713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBaYWxfeFhaa1FtWnUwc2ZIb094U2M3S1BwV0gzb21pNGZlSzNMelYwdVUyTjEtNy1XQk8za2JDb1YybjVDSFVSMVB6cVBmU3NubVZqck1fdTM4RjdIVUVVemZlWExFb0tzUEU2YWZzajloY3Nk?oc=5",
-        "headline": "\"미 엔화 개입이 증시 안정장치\"…S&P500 사상 최고치 이끈 동력 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/06 11:14",
-        "published_ts": 1785982494.0,
-        "tag": "JGB",
-        "first_seen": 1785987032.275178
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 22:15:53",
+  "updated_at": "2026-08-06 22:31:03",
   "yields": [
     {
       "label": "3년",
