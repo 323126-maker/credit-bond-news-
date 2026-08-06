@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wTFBiUWNwSXFIMy1VRXRfUVI5VHpuZDdLZVlKUEFyYUllRkhlaW5BLWRuYXp0WDBGUGRGQzllWGlwV1dzcGRtV1M1Ti05MDdVcDYwSXdvZ2hpdw?oc=5",
+        "headline": "알파벳도 'AI 빚투'…35조원 회사채 발행",
+        "summary": "",
+        "source": "hankyung.com",
+        "published": "08/06 22:40",
+        "published_ts": 1786023655.0,
+        "tag": null,
+        "first_seen": 1786023935.6448748
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8zbkh0bkYzVmtUai1PWmhfWU9SOUtPeHlBT0diYWd2YmRRWVJMNEpZeXE2QWI4dXFvT0d2QTFwdXNGcW1HZlpyMG9zcFJJSUR6S3d6cHJ1N2hQcUktbkxnVFM3TndDX1JIUlNvbjFNdXY?oc=5",
         "headline": "[외환-마감] 연저점 경신 후 되돌림…外人 '주식 팔자'에 1,420원대 중반",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785892150.0,
         "tag": null,
         "first_seen": 1785892525.6988225
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVT3dicWR2dDBCcXdxdklCMmtyT2w3NWxfZEV2RkV1Ty1aSWFoNmF4clNpNVNQQ0pUckZrblRmMUxLVUFsbDBQanIybVhxZ3M?oc=5",
-        "headline": "악재 속 출발한 중기채 ETF…액티브 운용으로 손실 최소화",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "08/05 09:00",
-        "published_ts": 1785888000.0,
-        "tag": null,
-        "first_seen": 1785898843.2951152
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5WS0l0dmVVOGlTRnI5dlFDdlYzOVd1clFVOXkxS0NsVG0xd25KME9mZjlUcFJQTWh3Tm0xQ2F1c1RBUQ?oc=5",
+        "headline": "국민의힘 장동혁·정점식, “李정권 국정 난맥 집중 규탄”",
+        "summary": "",
+        "source": "breaknews.com",
+        "published": "08/06 21:43",
+        "published_ts": 1786020237.0,
+        "tag": null,
+        "first_seen": 1786023935.6448748
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yTjJYX1BBZThrN0NoNmc1TG1KOGxheXFyR3ZGUEVIYXhfd2hlNFh1X2hXcWw3MXAxc2FJRHdMYWVsTDhXTFJ1S05tMTNfMWJzME1RUnBvT000QWpEWGd4QQ?oc=5",
         "headline": "장동혁 \"경기도 재정 비상상황 주범은 이재명 대통령\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785748425.0,
         "tag": null,
         "first_seen": 1785788126.4697287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QYjZCby14SUdXNWxObjRjUVVZYWxuSkc4YnFHRHVWNWE0Qk1FQjBDbVprQVJhRmpIXzhQY1JwOWVvRFR2T3VXSjNyZkJFMklLOGpRdzMxcWQ1c1hPZjdZSw?oc=5",
-        "headline": "이형일 재정경제부 차관 \"거주 중심 주택 시장 정착되도록 부동산 세제 개편할 것\" [TF사진관]",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/03 18:03",
-        "published_ts": 1785747780.0,
-        "tag": null,
-        "first_seen": 1785748524.1293743
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 22:31:03",
+  "updated_at": "2026-08-06 22:45:59",
   "yields": [
     {
       "label": "3년",
