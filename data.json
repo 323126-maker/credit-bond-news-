@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRlliUzJ3bmU5VmJndFB1YnpMYU1kemp2MU00MU1IU082eWtLcWNFZWh6VmRIUVloTHlOYWMtWEZsWWliQ203R3IzZzlUeFQwVHVyS3hpUW16S0RITGE0NnRLbjQwb3p3T3M2a0tEWnZqekJwWDFoOFhsUG1RTFFXQ2VSbzRLdVBx?oc=5",
+        "headline": "AI 빅테크, 채권 발행 폭증… 글로벌 크레디트 수급 부담 가중",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/06 12:31",
+        "published_ts": 1785987090.0,
+        "tag": null,
+        "first_seen": 1785987925.8882678
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ZeXJDRnF3c2Y4WGRVY1dqX2ZTeHVBRGJISGpYbWJ1b2o5UlZjTktDZnhUMnE2Q291akQ3bnF2cFJVZjlpc0QxRzd3ZTk2b2RRS2VvVkIyYjJoMW1TWWZJY3ozbkpUS28?oc=5",
         "headline": "5대 은행 추정손실 1조 2109억…2019년 이후 최대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1785825411.0,
         "tag": null,
         "first_seen": 1785825933.347615
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1RMWFrOGRKeUZvR3pCall0cURhMUZVNzJsSzZDNXVNZHJhV3dnZDZFemlKRDlTWjBiXzNpaTBaU1dGSy1Xa2hsVGVBdzRERTV0WWhlTnlvclBiX283WEE?oc=5",
-        "headline": "SK하이닉스, 무디스 신용등급 평가서 첫 ‘A’등급… AI 메모리 호황 반영",
-        "summary": "",
-        "source": "미디어워치",
-        "published": "08/04 15:21",
-        "published_ts": 1785824466.0,
-        "tag": null,
-        "first_seen": 1785834923.3398192
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 12:30:54",
+  "updated_at": "2026-08-06 12:45:53",
   "yields": [
     {
       "label": "3년",
