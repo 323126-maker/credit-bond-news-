@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE95b3I4aEt6QzFNaTRnX2V3eDd2c29ndkdnRmRtWkJza0UyYmMzYXNULUE3bTFjTFJkQW0tT0JFbkNUUndHcFpjVFNuUFp6VWw3aTRBM3dn?oc=5",
+        "headline": "\"경기도 재정위기, 알고 보면 이재명 도지사 때 시작\"",
+        "summary": "",
+        "source": "위키트리",
+        "published": "08/06 10:42",
+        "published_ts": 1785980520.0,
+        "tag": null,
+        "first_seen": 1785981636.476606
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTjhFdjFDc3BqbTFnTWNDY0o5R2lQajRvQUdvTHlBQ3BkN0hNam51N1RQVGt0XzRqY2J1NWxoaHJqWW9aTjI2ZFEyMmR0YkF5U0djX21DRmxIeGpEUTRXdDNpSXlPZF80VzFLa2VPNVJXeGpWVUlINHRXVWhkMUlKdmFIRXYxbTcyWTlfd2w1bXJtNkdndk1kODNxS2I?oc=5",
         "headline": "[손병관의 뉴스프레소] 경기도 재정위기라며 '김동연 책임론' 꺼낸 추미애",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785661049.0,
         "tag": null,
         "first_seen": 1785668434.081494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nT3lpMGdoQ3Y1SW9ubHN0M0NjRXY3UWFWWjN1bWVkb1dFcFBreVpDbHJQVE44Q29HUXhleUh4UnZQZUV4N1ozN1cxbkpFT0lnY1ktck91cDNCZ203X3N0REYxR1FiZGJ2TWh6UUFweUZTQQ?oc=5",
-        "headline": "[뉴욕채권-주간] 연준, '30년물의 경고' 어떻게 수습할까…때마침 고용",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/02 15:55",
-        "published_ts": 1785653710.0,
-        "tag": null,
-        "first_seen": 1785661237.1391094
       }
     ],
     "global_bond": [
@@ -1748,6 +1748,16 @@
         "published_ts": 1785946140.0,
         "tag": "Global",
         "first_seen": 1785968134.0315366
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1V0ZsTWlIOWFIaWtZXzVQODBRZTI4aTlFYUVGQ05JQUM3V2U2eHd1Z254bWl5M3ZDblJnRkR4QlUxLXpYZ0lDNDI0QzducnRXVDdBWm5aRG5qSmRXZEl5bnhiQ21GbC1ubkhOWWUyYU0yME51WURj?oc=5",
+        "headline": "What the Stock Market’s Record Rally Has to Do With Rescuing the Yen",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/06 01:07",
+        "published_ts": 1785946069.0,
+        "tag": "JGB",
+        "first_seen": 1785981636.476606
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxQWHhBeFpRTVZTSVRDeHdtZmdtbFIzMXZXVS15TkdfQTI2UWJCXzI0SE1ueFcwV3JjaWRCbzBhZnJ2bnNKVGdjQkwyU29KaThxaE1CdFQ3a1VZbVJIS2cxQW9QWENqVHZ0TE02dXF2WnFUS1RseTJzdTRyemFNS205aGhSd1FucWMya1VoeXNwdWt1TURQWmZ3c3ZJMkhwOEFUc3N2VmR0U3FBakJ6SFF6cmVnampKTm14aVBRNzE4WF9LVXFxanlqdzZtVDktZ3pFNDc3bDJkMC0xeEhVbGFWb2EwVV9XLVJ6eW4zYUQwWjNYMG40NGwwbUNhTlI2ZjZnLW1HUWFCQXk0QjZ0WTBXMU9OOEhBU3h5dXFCbjFaWlhJYjA?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785924000.0,
         "tag": "Fed",
         "first_seen": 1785924923.7626684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGZ2U3NGlwMzQzTDRENFU4bFZ3YmhUeVBFRXBxM2FmTXpQWmgxSmZQa0IzRnYwLXVWeWwzNGFlR3p4M1gzRFBuSUpZZ253OFE?oc=5",
-        "headline": "\"다카이치, 일본은행에 국채 매입 요구\"…독립성 논란 부를듯(종합)",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/05 18:56",
-        "published_ts": 1785923814.0,
-        "tag": "JGB",
-        "first_seen": 1785932128.4953134
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 10:45:48",
+  "updated_at": "2026-08-06 11:01:11",
   "yields": [
     {
       "label": "3년",
