@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSUJ4UTYwQlA3MDBqWlR5MHNnemh3czhZVnZ4US1EdkhBNnQ4WGhwMWtRSktvTlZUQ2hBMXAxVmxPNmhYenFIZTdRV0dmNlVrX2xfa3I2aWZtRzZHWktqMEIyWHRDM1BDMHA4aWFzMA?oc=5",
+        "headline": "정부, 산업 GX·탄소차액계약·자발적 탄소시장 추진",
+        "summary": "",
+        "source": "산업단지신문",
+        "published": "08/06 18:02",
+        "published_ts": 1786006945.0,
+        "tag": null,
+        "first_seen": 1786009527.4477243
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1WbmF2TUR0blpGeDZXbGk1UzZGQWJJOG9pbWlWd3NJeWRUcmdxVHRfcjRwWlZ3MWxVMk1URmREek1hOVM4RVhGVEFLb3c5QWhudkw2Tk5QYW4zZUlBeFpFZTZwUy1oSG9iWHc?oc=5",
         "headline": "벼랑 끝 내 몰린 충청권 건설업계 ‘폐업대란’ 온다",
         "summary": "",
@@ -362,6 +372,16 @@
         "first_seen": 1785853835.928884
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB5bVBEbXZaMzB3a2pVODZKUlFaQzJNM3RseHRDWHRaTVh4dDJCUzQ1aHF3NDJMM3JkZklySy1sOW1kZzhJY1dkekVKa1dpTzNDN1E?oc=5",
+        "headline": "IMM크레딧, 하나마이크론 EB 1000억 인수",
+        "summary": "",
+        "source": "매일경제",
+        "published": "08/04 21:31",
+        "published_ts": 1785846714.0,
+        "tag": null,
+        "first_seen": 1786009527.4477243
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQemtYSGdLT0tDSG1FTW1nZTZDUTVNUG1jYTRVVmFEMnB3TnFkaGtiUU40YUVjUE00MVFaMW10ZDREdnNjcjk3U2tETWNtVEI3OGR3aWRjRVpEVHhFZFRIdXh0SW9nczE2ZmR6UlNFZWFVc2p4ZUtMelFHYjk5MXR5bVFFQzFnRlVia21xZ1FxN1hGNDB4MjdjWGc5eGfSAZwBQVVfeXFMUHprWEhnS09LQ0htRU1tZ2U2Q1E1TVBtY2E0VVZhRDJwd05xZGhrYlFONGFFY1BNNDFRWjFtdGQ0RHZzY3I5N1NrRE1jbVRCNzhkd2lkY0VaRFR4RWRUSHV4dElvZ3MxNmZkelJTRWVhVXNqeGVLTHpRR2I5OTF0eW1RRUMxZ0ZVYmttcWdRcTdYRjQweDI3Y1hnOXhn?oc=5",
         "headline": "IMM크레딧, 하나마이크론에 교환사채 1000억원 투자 추진 - 조선비즈",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1785841860.0,
         "tag": null,
         "first_seen": 1785864640.2929718
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5Cd2wxdUQ1bmVHdFpFR2dYSURyNVNjVko4bk5uSXRzWVYzZkNYRzVMbmNwdlVzd3d5VDV1WDV5cnBSRjFER1E?oc=5",
-        "headline": "콴타 서비스, 20억 달러 선순위채권 발행..금리 4.85~5.55%",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/04 19:14",
-        "published_ts": 1785838466.0,
-        "tag": null,
-        "first_seen": 1785845723.6011143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jcnlPR2lCa2Rnb2JaT0Z0VFZhaFY1VTFPV2ZKeThwOUhXRGlSZ0h1X1JwRFZDejU4TE1KQkdzOHVZaE4yZE9SX2xLcFo0bFctbW1DQmUxSHRqdnA4UHRyQWV3NkpKZHk4d1M2S0wwX00?oc=5",
-        "headline": "[채권-마감] 물가 안도·외인 매수에 소폭 강세…3년 0.2bp↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/04 18:48",
-        "published_ts": 1785836920.0,
-        "tag": null,
-        "first_seen": 1785843039.3862586
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 18:30:56",
+  "updated_at": "2026-08-06 18:45:47",
   "yields": [
     {
       "label": "3년",
