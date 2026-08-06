@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kSjBDNmgyYXk1X0p1WG9CWFRiVWd2Q2Yya296YXN6eDFRekF0TmRJZndNbGI0Rl9SN3pqOEplTU4zMVEyNGpXZ3R2YnpXNUc0NnpnVw?oc=5",
+        "headline": "Alphabet Seeks Up to $25 Billion Bond Sale to Step Up AI Spending",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "08/06 23:18",
+        "published_ts": 1786025902.0,
+        "tag": "Global",
+        "first_seen": 1786026634.3896158
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFdEMFdnZ055cE5INnFRMkFySWhtWUJsQzNRcXFSeWhJVHJ5LXQ1X2FZTVZwVGtCc1NlczhsSDkyQTdUVWd3UkdCSjJMZ0UzSTBBX1BzZjFFM2lpRGhKR3JadllZSXRuVW0tMjV6eU9pZ09udnJZY0tEZEdqdEZQeGFCbFA?oc=5",
+        "headline": "This ETF is Built to Handle Fed Ambiguity",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "08/06 23:15",
+        "published_ts": 1786025700.0,
+        "tag": "Fed",
+        "first_seen": 1786026634.3896158
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWElJM01oaGtSbkFXNzhXVVV2cmxhOVFzYWJsbEZISkY1OE5VS3NHQWR2ZDUyNkxvYmNBaEJtVGthcVp2NjVGS0x1LXNzaUMzWno0LTJVRUhfZnhfNVpJelpRb2dNajZSRWRDTkVtbWY1WS1tdXIwMS1Pd25DY2pOOWhJRHQ3bU1SdFI4aDZJN3Zodzg?oc=5",
         "headline": "Latest Fed headlines: The implications of Trump & Kevin Warsh's phone correspondence",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1785992990.0,
         "tag": "JGB",
         "first_seen": 1786000523.0225275
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOd3UyelBhTW9GbkU3ak9EbzhMU2tmdWR4UEVtU3Y2VVd5UVZZRVVPd1JfMnFRY0VZVXZIQWdQcXFfeklCVzh6bjhQTGxzNGw0NVE3b2daUVowRXRaWUhBdGZESTVSTWpVQWQzSlJVQVZVYzQ1YkJ6TGplNXRzd3E5NEJOXzVUekU?oc=5",
-        "headline": "美 베센트 \"日 금리 올려라\"… 일은 9월 조기 인상론 솔솔",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/06 14:09",
-        "published_ts": 1785992986.0,
-        "tag": "JGB",
-        "first_seen": 1785994232.7788439
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5zOFJOVVpDcDZhaFRrejZNS1AwdEVCMFI3LTNkV3dLNUJLcjdtUkRtSDAyWE1yOGlEUnJuMm5tdmhsbkpya2hXOFpRbnc3NEk5enhFbnZ5N2Z0TmNsTzVzMkhybGFib3AtWHJv0gFvQVVfeXFMUHdfenU5cU1sNTgtNEJwNU1fcVdONFFqRkt6RmFSbTdNQnFON3FrNGxkX1IwdTBaR2hEc1MyNXp2N0F5eXl5My1MLWNLVngzVmJndjgwZFVjM3FZQnlIUS1SeFhfUC1MSGxWTVRVdlBr?oc=5",
-        "headline": "연준 ‘금리 동결’ 뒤 인상 경계 커졌다…3명 0.25%포인트 인상 요구",
-        "summary": "",
-        "source": "the-news.co.kr",
-        "published": "08/06 14:02",
-        "published_ts": 1785992520.0,
-        "tag": "Fed",
-        "first_seen": 1786010437.544706
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 23:15:48",
+  "updated_at": "2026-08-06 23:31:02",
   "yields": [
     {
       "label": "3년",
