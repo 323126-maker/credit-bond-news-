@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQalhYOXhjbzFVS1hZSWpCX3RzTmVpSlZ2aERwVG9felFxbTJETTJGM0RVdWh5QTZ0X1Izc3FFSEt3dzBlRWtfZ1gtai1VM3dheldKLTkyNVppQjZwdFZaeXhQXzRvOGlmVXhmUTUxSU1uR0hMWW5ubXNZS3gzQ1NZQ1FPSUg1dERFV3kxM0pPY3JadWFQektEUkxFNEdOV2Z3?oc=5",
+        "headline": "OXLCM CEF: The Case For Oxford Lane’s 2031 Term Preferred Shares (NASDAQ:OXLCM)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/06 12:32",
+        "published_ts": 1785987164.0,
+        "tag": "Global",
+        "first_seen": 1785991530.553056
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xNFVnYk5JN1RrOEJQMFlXX2toRTd0bUUySGhLb2k1QmZ1YjhoTVA5M1VYMGJKbnpQVk5QNVlGUVZmLW1zLWNTZlVVbE9HYVpGdk5TSEJGWWRSdw?oc=5",
         "headline": "'더 올려야' vs '지켜보자'…연준 금리전쟁, 9월까지 이어진다",
         "summary": "",
@@ -1820,6 +1830,16 @@
         "first_seen": 1785944733.4041
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CcVY4eGQyMG5QWDBVUFFGblJJR1M4WTd5YmZUUURpa1oxOFBTd0ZZQ3NRN1FyRUplRk8yTTN1RFRKQjRqdzlhWE5PbGpoWkZhR285ZQ?oc=5",
+        "headline": "베센트, 달러 찍는 연준을 환율전쟁으로?…워시, 외환위기 막아낼까? [홍길용의 화식열전](907회)",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/06 00:26",
+        "published_ts": 1785943576.0,
+        "tag": "Fed",
+        "first_seen": 1785991530.553056
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZllaUjktVkF0QVNJakJhWjRxYzEtSE5uUnJZNk91M2lWNEstNWhVZ2tXVU1FZzlkdkZ0VTJ0b2x1NElPOVFoZFpfZmV0VFJJeFE3NjE2cmRCUmNrSk9IUFVkeEsyWVBwRERxZUxtTnQ5ZXVGemdXcUtodU40M1NxeVR4Q1h5VENBZVJGN1VnSEhtSUltZHlLUTlSRks?oc=5",
         "headline": "Kevin Warsh Has a Problem",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "08/05 20:27",
         "published_ts": 1785929250.0,
         "tag": "Fed",
-        "first_seen": 1785929430.2627861
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRWhqN0R6MHY1QXhpZDR6bmg5SlZpbTRwSnptYjRuTm1iejlNdDVHdGtNQnJRU3dCb1MxQmd3ZHRYclA1ZEV1cnRPYWhqQ0ZJUUJ0QWwwLWVLODZhc29KNThRaTBxU3huR09sOW15M0ZnaExMQTJQeks0YTBlQ0xZaS1qcXBKeVBOY0kxZFdpeGw1SFV1N0VhMnYzZzNCaUxSdGN1cnlpc1o0R3JNUkYtWTVRUmw?oc=5",
-        "headline": "Hidden AI Debt Raises New Questions for Hyperscaler Credit",
-        "summary": "",
-        "source": "Investing.com UK",
-        "published": "08/05 20:18",
-        "published_ts": 1785928739.0,
-        "tag": "Global",
-        "first_seen": 1785933922.4201825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5xdENvVTFiQlV1N3ZqbXltb1ZVYVNKQ3dkZHoxRXFPeHp1bnFBRU5GeVMxdzNRbzZSYmkzajhSRklNUUxTZ2M4UnVFX2RqcTBvS2ZSZHdYQUx3T2lKN1dMUVVVdGFpN0p1cGc?oc=5",
-        "headline": "일본 ‘호네부토 쇼크’… 10년물 국채 금리 2.83%로 30년 만 최고·엔저 심화\"",
-        "summary": "",
-        "source": "sisaworld.kr",
-        "published": "08/05 20:12",
-        "published_ts": 1785928349.0,
-        "tag": "JGB",
         "first_seen": 1785929430.2627861
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 13:30:55",
+  "updated_at": "2026-08-06 13:45:49",
   "yields": [
     {
       "label": "3년",
