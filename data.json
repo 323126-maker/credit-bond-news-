@@ -1248,6 +1248,16 @@
         "first_seen": 1785920439.155355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcDBGVVZJcTdrOVY1cEpOX29JSFR6SkRBWGgzN1pmWE9ObHJOa3cxMWozWE5JMVY3VklDOWR1aUwxRUJycFpfSUxERm5WaXFpNVE?oc=5",
+        "headline": "이준석, 이재명 경기도지사 시절 재정운용 비판… “빚 불어난 시점 명확”",
+        "summary": "",
+        "source": "경인일보",
+        "published": "08/05 16:40",
+        "published_ts": 1785915641.0,
+        "tag": null,
+        "first_seen": 1785974443.567705
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzemgwT3Z0WmprbFVBM2VtZXNKUUdBejB1N2NodWFRQ0RZTEJ3eGxQd3BDUjZWU0NZcFRoU0ItbWJDMmljV0J4c2xUSGU5M1JaRk54akZyV2ZPSUh6X1c0bHZ1anByaElYT1c4cEh3?oc=5",
         "headline": "李대통령, 7일 부동산 정책 2차 점검회의 주재",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785653710.0,
         "tag": null,
         "first_seen": 1785661237.1391094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcDNQei1fdlFNMTIxNjZNV1JUU1N6bzlyQTU0bk5FOEdSZDRRem0yLXdrQUg5SU0zbVRvSkFCN2JkTnc0QS1nVVBzTkNzVlhJd0dMcldVN3BtUTlVZEljY0tEcDFlbklXWkk0anRtdVdJU05sOUNDb0ZqSWpJSGwtcVljWHZsYVZwaTU4TzBR?oc=5",
-        "headline": "올 상반기 국세 223조원 걷혔다…증시·반도체 덕에 전년比 33조↑",
-        "summary": "",
-        "source": "국제신문",
-        "published": "07/31 11:42",
-        "published_ts": 1785465720.0,
-        "tag": null,
-        "first_seen": 1785465923.654595
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85ZE44a1FDWGVWQ1NHQzVOZFNyaHBRNUtyZGRBMnhmaGRTcjI1a013eVc3Tkh5dW5DazJSd2p6akpNVmlESnJIS1ZtQlRhdW12VVBIXzItTGloQnEtVkF0MkVobjRGZ1dLQzBYRE43VQ?oc=5",
+        "headline": "제이미 다이먼, 마진 부채 사상 최고…위험은?",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "08/06 08:50",
+        "published_ts": 1785973817.0,
+        "tag": "Strategist",
+        "first_seen": 1785974443.567705
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5lTkNIS2d0WVZ4S3FGWlJkR1hWUmpZRkxRTkVGQVRFMlg3Ui0zTGJtZHNwUEEwS25XVTRaLWRJN05Tbk5YM2djLXZkN1ZmTG9rYjI1SnJ3OXRZVjkxSVE?oc=5",
         "headline": "'28년 만' 미·일 공조 환율 개입…엔캐리 청산, 국내 증시 새 변수로",
@@ -1998,16 +2008,6 @@
         "published_ts": 1785918360.0,
         "tag": "Fed",
         "first_seen": 1785970839.907277
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUDhWR1FzT0E5ODdrdDhwQmcxVC1fNHhVeGJEdjQtamRFZ0NIOHgwSm5FSHJuQnB4OHZEdkJoYnlYcGdPMEtwdWxSLVhvQ294aS1ldzFkNnRBWmNUMGZQUDN1T0pnTnJxNHk0dmJOZGdqNG52LTFOeVE5SmgzU0l4eVFFcjRUWW8?oc=5",
-        "headline": "The Fed Holds, But Bond Volatility Breaks Higher",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/05 17:20",
-        "published_ts": 1785918000.0,
-        "tag": "Global",
-        "first_seen": 1785918629.0241756
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-06 08:45:46",
+  "updated_at": "2026-08-06 09:01:08",
   "yields": [
     {
       "label": "3년",
