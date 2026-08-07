@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1RelFhREpGcDNRMEpoTHh2cFJOaFBYa000VU04Mjd0Mm8yOF8tYTByRlE5WVlwdExkLWpaaV9yS2ZHajl6MmN4QkRWMmd1TGQxSDh3RU1RY3pUR3dRd0Z2SUhfV3FpR1hEV3c?oc=5",
+        "headline": "금융지주, 영구채 뚫어 '실탄 확보'···'비은행' 자본수혈 총력전",
+        "summary": "",
+        "source": "newsway.co.kr",
+        "published": "08/07 14:34",
+        "published_ts": 1786080844.0,
+        "tag": null,
+        "first_seen": 1786082442.8524694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1DeGJUenJhN2hEV1VLamNxOFFoR3JDZ2FCb0U2ZUdZS29rWUx6VGJZcTBYV29TQjRxOGhvejlZN3VoQ3NwNHotcldUTE13NFJFVkNDYXY4emtiU3M0UG1UTFpzVklBR2pUMS1tc0g1Z28?oc=5",
         "headline": "우리금융, 신종증권 4천억 증액 발행…자본 선제 확충 이유는",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785738360.0,
         "tag": null,
         "first_seen": 1785769238.5306265
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5aEtqSTVIZzRIX2tNX0ZIVHY4bWVYZTZWVlYzRHotMDVCd1VxMVRwdVhUeWZNQl94US01cWxWT2pydUtCeW15MU45Q3hvYm80T0NublFuYnozTVctMnptRXU1OEUyeWhaN2JV?oc=5",
-        "headline": "신한리츠운용, 신한자산신탁에 합쳐진다…\"수익원 다변화\"",
-        "summary": "",
-        "source": "sisaon.co.kr",
-        "published": "08/03 14:14",
-        "published_ts": 1785734079.0,
-        "tag": null,
-        "first_seen": 1785762925.4859052
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcGR2dFJnZWZyZFF6dE9ST3NsNVRCRllEWDFPTlpUS090UnYzOGpjUmYtcVJ2MVJnWVVkT1NEUlEyTUpPZHo3Z1VTcXFpRnRFNE10VUttNHZSRThJUXZvd3pDVFZFLTlXZlpfRmpMUlBTRU1GZjQzQXV6V1lOWkI1QTFlNkN1blU?oc=5",
+        "headline": "South Africa punching above its weight",
+        "summary": "",
+        "source": "Daily Investor",
+        "published": "08/07 14:54",
+        "published_ts": 1786082095.0,
+        "tag": "Global",
+        "first_seen": 1786082442.8524694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbmI4RTJLM1dBYThkUmhiOHUzUlRuTVlTb29BaTJhYzlmXzVSOFp2VWFHNTcyYS1OV3RYdVJwaTJ3c1phTlhObEYyaWhydWhuQnF1Q3FUajdwakZBT1Nxa21sZU44azlyY0VwNGx3R1RsT080cVI1TjZxUkJBTjM3eThGbUo?oc=5",
         "headline": "After the great deleveraging",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786030908.0,
         "tag": "Fed",
         "first_seen": 1786031217.0784333
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEZ6aTVjUm1FNjNXemxaeDFodXNlNkZDUjJFX0dRZzJodEpZclZkZGxWbzhMR2c0OXpBeUEzazBsUWxYVERtM1MwRWh6aGFLdGktWnRXbmxDMWktc3RhbE9ibXBmd05xLVhQMlEtb2U5NlllWHMwVElDOUsxQ0hzVGVFbUpiNEpUZnpPb2czdEhsNXgwX3RMWEdMWGNTaU9YQmdJTk9LTDZUbkFKWlFPZkhGSGlvWkQ2RWhzYVQ3Ql9UZUpo?oc=5",
-        "headline": "Bond Traders Want a Signal—Warsh Is Sending Them Static",
-        "summary": "",
-        "source": "Investopedia",
-        "published": "08/07 00:28",
-        "published_ts": 1786030114.0,
-        "tag": "Fed",
-        "first_seen": 1786057477.5607512
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 14:45:50",
+  "updated_at": "2026-08-07 15:01:04",
   "yields": [
     {
       "label": "3년",
