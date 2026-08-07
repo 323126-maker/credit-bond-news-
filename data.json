@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaEZhaC1mUnRHM3dodnd1V1N2ZzVWMjFVSHRMWWprT0J3Y1IwRFUzVWE5VklLaDJ6NGIxRl85NXA3U3JtTnV5RzFqTi1LVnRDNkRLNnZHdzM0aEJwU2NUNWRkWmVPMFFndVFzSnlXRllFODBIRFhkSTAwYVpnc2tWS2xXYndWSzViUW5CU2lwM3hqLUFMS096ek5xeHNfMXM2NXFZ?oc=5",
+        "headline": "Watch Trump and Fed Chair Warsh Talk 'All the Time,' Hassett Says",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/08 00:14",
+        "published_ts": 1786115679.0,
+        "tag": "Fed",
+        "first_seen": 1786116630.1039038
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUlVIalg2WjF6TGRmcmtMMnJGbE9XYThXWml0OUxNNlNRXzJfc2xja0tQUzJXcDJ0SkxPTVNnZjJVTDdIeUg3RnlHNDZDaVJ1WW1FaEV3cnJ6QjZnZW1YdXRadmg0bTR4WkdUd2JWUG5oTjNVbzY3QzJmcTNYQ01aQW56TW1Lb0dBcVE5alJzcFhVbDZoZUM0OXdTVQ?oc=5",
         "headline": "New Fed Chair Kevin Warsh Promised a Policy \"Regime Change\" to Defeat Inflation When He Took Over in May 2026. Has He Delivered?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786079040.0,
         "tag": "Fed",
         "first_seen": 1786079724.221538
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80LVRqcjNhWkVUTDVJdndGbWQ4ZGg5QlFONWRUOWFBRjYwZ0pUd0FyR0RWUWRVN01tbmxqQnQ4eElRSDREMi1PQXdMZ1FuOHpuamNBVFhnRXhuRElDbW1DdHZWVWY0cHRibzViOHMyaGE?oc=5",
-        "headline": "The curious case of the Japanese government bond yields",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/07 14:00",
-        "published_ts": 1786078845.0,
-        "tag": "JGB",
-        "first_seen": 1786086934.5207562
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 00:15:48",
+  "updated_at": "2026-08-08 00:30:55",
   "yields": [
     {
       "label": "3년",
