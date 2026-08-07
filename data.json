@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oRm5vNHE3RHdVT29wakNkYTY1YndGNTFmZHZYbDVlT0JLOFo0Ny0yaVdZLU5oTDIyQlc3dmNqOXBhcFJyd1RXNkdfZ1NpeVlsMXBYem52T2RON1BZS3FEVjRaNktzNDYy?oc=5",
+        "headline": "[아유경제_기자수첩] 경기도 보고도 ‘확장재정’… 나라 곳간 악화할 셈인가",
+        "summary": "",
+        "source": "아유경제",
+        "published": "08/07 17:54",
+        "published_ts": 1786092844.0,
+        "tag": null,
+        "first_seen": 1786102229.900742
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GaXdFbjFtc2xlZkVOUTRzb1F2ZF9RYk50b1l4X1RzWmNTWW8wTXN5MC1icEdGSndPb1pteTk0UmIxTkNibGpYYUttT28xblpIVnhjT0pmN0XSAVhBVV95cUxNRml3RW4xbXNsZWZFTlE0c29RdmRfUWJOdG9ZeF9Uc1pjU1lvME1zeTAtYnBHRkp3T29abXk5NFJiMU5DYmxqWGFLbU9vMW5aSFZ4Y09KZjdF?oc=5",
         "headline": "환율·물가 잡혔지만 불씨 여전...한은 8월 금리 딜레마",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785723328.0,
         "tag": null,
         "first_seen": 1785741329.0350082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxTUd5Uk1RT1ZkNGx4Ym9hMFRUeFFIQVo1c2otM0EySGlsTUV3bTVMS3JfYVI5NHYwZjZNMWd0NHFoVGQ3MTlNdmJPSlJDUE5tcDkzNHpJSm95ZVNXRkE?oc=5",
-        "headline": "\"8월 크레딧시장, 발행 부담 속 옥석 가리기 국면\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "08/03 10:10",
-        "published_ts": 1785719400.0,
-        "tag": null,
-        "first_seen": 1785719734.8361
       }
     ],
     "politics": [
@@ -1750,6 +1750,16 @@
         "first_seen": 1786085131.107983
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xN2tOQk5sWE1rc0MzZUJud0NlM0QyT1NacTRJNVhITGI4V1E2Z29MOVQxaTVxQkpMXzhLTXJaYm4yUzdBUjJ1RG95aHJCMVFha09uQ1BsQlXSAVhBVV95cUxOcTdrTkJObFhNa3NDM2VCbndDZTNEMk9TWnE0STVYSExiOFdRNmdvTDlUMWk1cUJKTF84S01yWmJuMlM3QVIydURveWhyQjFRYWtPbkNQbEJV?oc=5",
+        "headline": "[아주사설 | 기본·원칙·상식] 월가의 레버리지 경고, 흘려 들어선 안된다",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/07 15:30",
+        "published_ts": 1786084212.0,
+        "tag": "Strategist",
+        "first_seen": 1786102229.900742
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVk8wT1lKc0NYUVZqd3ZkTm9WV0I0WGxmZ21jX20tS1ByS2dZaC1mV2dJQkFPdWR5cEVaY1g5cm1RcEhVcnlTV1E4Q21FUFVDeFA1cDdlT2JUNTFCNTR5dTZvYXBnWjBybkREZFQ5eWIwZ2lFUzBUSFVfbzdZOFpHYTFrTU40Mnd4cHZjUWtR?oc=5",
         "headline": "Japan’s 2-Year Bond Yield Hit A 31-Year High On Rate Bets",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/07 07:40",
         "published_ts": 1786056000.0,
         "tag": "Fed",
-        "first_seen": 1786057477.5607512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sT3pQNHBHZnJGWXhfY0NMNEQtRDBsYWgyalQ4YkFKQjV2RVpPRWh2b1pwQ3ZIbEpsZWJlZ1JaT2hGOExOeHlrdVZkeDczTGUwZHBsLVdNUGpXeFFPcEFVLQ?oc=5",
-        "headline": "[MUST KNOW5]알파벳·스페이스X에 몰린 AI 머니…다이먼은 시장 리스크 경고",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/07 07:28",
-        "published_ts": 1786055280.0,
-        "tag": "Strategist",
         "first_seen": 1786057477.5607512
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 20:15:56",
+  "updated_at": "2026-08-07 20:30:48",
   "yields": [
     {
       "label": "3년",
