@@ -1960,6 +1960,16 @@
         "first_seen": 1786126524.2133691
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NSmpZcF9ia0Q5UTlzcnZHUk1OUS1UVVJhSWp6UktfQ01abFpqdG4xQlVaaGtTNWQ3aTJ3S1p6c2x2RUVKaDNvZkZKa3I4Z2NtQXJudlAtZVFGSlU3aGUxTmNZTEFnRGN3Nm52cEJ6Zw?oc=5",
+        "headline": "The Yen’s Problems Can Be Explained By the Bond Markets",
+        "summary": "",
+        "source": "Barron's",
+        "published": "08/07 16:31",
+        "published_ts": 1786087860.0,
+        "tag": "JGB",
+        "first_seen": 1786129236.815419
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSW1BOHFTZ0pUMm94bUZVVUY4UnoteC1Eb29jMHVnaWREZFdWTTRTam9IYVpOdHRQRG1McmVsLURIaTlsZ1lWTXN4elpzZzNuLVJiOVdSUFhrTzZrZVhwZmJCLTFSVnZfT28zSjQxT2o2eGJBd0l3ZllXMG5YdE0wdnk5a3BrUnJoT1NYRUFER0N6M3FMSnNVR0w0dV9rUTBnLWgzOGo2NWQ3eEhZN3ozeW1XOENfT2xEY0dVOTMybHU1b1ZiZVNVMg?oc=5",
         "headline": "Treasury Bill Yield Drops to 5.5 Percent, Down 61 Percent in One Year Despite Rising Government Borrowing",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Investing.com Nigeria",
         "published": "08/07 15:39",
         "published_ts": 1786084788.0,
-        "tag": "JGB",
-        "first_seen": 1786085131.107983
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54c1E2V1RrYjBGTUhWdktBaGNhY2Y5S1o2SzVKZTFfSUtiUjdsT2N0YjIyZm41TFNfeDgyT1kxek0wbnlIVEVVQ0x0SGZBRkV0QldB0gFYQVVfeXFMT0RoNHhGWG5YbGZNRXVESDVrWnUtUXhxOWdfOWlCU1dJdjRFS0UzdG1LcGthcF9HajVPS2gxRzlaR0kzeEtFQnpBeDhUakh2UGQyLThDVU45bA?oc=5",
-        "headline": "IMF 카츠 수석부총재 일본은행, 통화정책 정상화 지속",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "08/07 15:31",
-        "published_ts": 1786084260.0,
         "tag": "JGB",
         "first_seen": 1786085131.107983
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 03:45:46",
+  "updated_at": "2026-08-08 04:01:03",
   "yields": [
     {
       "label": "3년",
