@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UaXJLM2M4VFFjU2hJY2VEQ0RSSGp0V1JxTDNiMzlLOThQTXRnU0xFZVZoMFlZdVlIaW44M3JmT29ScE1tSHVDOVd1M1U0SEhZZS1HN19ycmhPeEdUNVB6ZFBKVmhDSzA?oc=5",
+        "headline": "7월 고용보고서 대기…알파벳 회사채에 수요 1150억, 톰 리 \"S&P 8000선\"",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "08/07 16:30",
+        "published_ts": 1786087800.0,
+        "tag": null,
+        "first_seen": 1786091439.3703089
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhR2M3d25xZl9feXZ0VlNCQjM0ajJyUWZhR0piTlZaWHhfUEpmVklWeXRWVUd1NzdIUGJkX196RHgxNmhDTnBnQ0NxOFlvMDNuZUE?oc=5",
         "headline": "\"정공법 막힌 기업들, 1270조 '단기 빚 폭탄' 돌린다... 자금 시장에 켜진 적색 경보\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786000334.0,
         "tag": null,
         "first_seen": 1786012233.3882432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB1dmxUMUx6WW9tUWg5YW1sM0ZoQl9MV01pb0xLNmd5LXBTcGV1M3AzZkpUN3dOSHhsb21QS1FqSEJ3N2x3eTdiY1k4XzN4RlpaamppYQ?oc=5",
-        "headline": "2000억대 깡통 증서 발행하고 30억 챙긴 보험사 대표 등 6명 기소",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/06 16:01",
-        "published_ts": 1785999660.0,
-        "tag": null,
-        "first_seen": 1786083336.2942204
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 17:15:52",
+  "updated_at": "2026-08-07 17:31:01",
   "yields": [
     {
       "label": "3년",
