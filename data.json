@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yWVFqSTg3SHFsa1p4XzhRU1FGLXR5a1lUdlBjQmI1NndOSjlXWGt0eUFRd0tXU0V1TkdvMlU0amM4NVRRZDBnM3htdWpPTldzaElQelVrNUczMWczeWpFRQ?oc=5",
+        "headline": "'AI 빚투' 소화불량…월가, 채권 발행 전략 다시 짠다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/08 02:17",
+        "published_ts": 1786123020.0,
+        "tag": null,
+        "first_seen": 1786130126.1440444
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwMnZKa3BZQjc5ZG1wMmlZeVlUc2dDYXRWXzMya2tJQWc4Q1NqbTlFYnZsUVRUT3hBWVZYUGU1Z1FDTFNLR092elRmODlTZ0tYdGlMOEsyNVgxVlpJTmhPTG5ialh4Z3o3X1dVRFpVZWI?oc=5",
         "headline": "달러-원, 뉴욕장서 1,410원 중반대 거래",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786050907.0,
         "tag": null,
         "first_seen": 1786105830.8705368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LY2ltQTFSdmNBOWg3dlUxd2hjR2pZbUEtd25RbGo2WWxpTm9nNXRYc3ZZeE80OGJteEFFbWtLUkQydVZQNzFoU2Q5ZUNvNXF0Vk8zOUg0WUY3SERRZFJpatIBYEFVX3lxTE5LY2ltQTFSdmNBOWg3dlUxd2hjR2pZbUEtd25RbGo2WWxpTm9nNXRYc3ZZeE80OGJteEFFbWtLUkQydVZQNzFoU2Q5ZUNvNXF0Vk8zOUg0WUY3SERRZFJpag?oc=5",
-        "headline": "'현금흐름 적자' 알파벳, 또 36조 채권 발행…164조 청약 몰려",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/07 05:18",
-        "published_ts": 1786047517.0,
-        "tag": null,
-        "first_seen": 1786057477.5607512
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 04:01:03",
+  "updated_at": "2026-08-08 04:15:46",
   "yields": [
     {
       "label": "3년",
