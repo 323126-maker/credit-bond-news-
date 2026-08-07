@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9FUHNMX3pOSHN5TDhOLWJ1NFpHTmZxUGx1MS05V2pnRmlGRlBRTE8xeVdEdVdCV1RGYXlhSUIxdzBuckFvbVdHT0kwcHh0X1o2WHVBUkJtbUNpbWZOYUFuLTFvQ0F4WnZJcXlB?oc=5",
+        "headline": "추미애 \"재정위기, 전임 도정 복지 탓 아냐\"...김동연‧이재명 책임논란 '선긋기'",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "08/07 13:52",
+        "published_ts": 1786078375.0,
+        "tag": null,
+        "first_seen": 1786079724.221538
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcEcwekRIU29hUzNEbVJSbnR1RW85TTZUa1NseFRrOVNzTDZ3WWY0Q204NU5fcXdhVGZIWXJyaHpmSUhRRThzb3h3ei1zQTRNMElUc3cyVWc1T2NUMENFaVZldUt3T0xLTXZj?oc=5",
         "headline": "이 대통령, 오늘 수도권 주택 공급 확대·속도 점검",
         "summary": "",
@@ -1596,19 +1606,39 @@
         "published_ts": 1785809560.0,
         "tag": null,
         "first_seen": 1785810629.9421494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jWDFwUF9aVlN4THpXb1MwaTRleUpPd25ETUFqdzNRWlpWOUhDQTVPdlZVS3ZKMnRlMXdNYTdHZklQRzNmWTNaVnA1cUoyUDVFaENuOC13dXd3Vm9tQ2VOV9IBYEFVX3lxTE1jWDFwUF9aVlN4THpXb1MwaTRleUpPd25ETUFqdzNRWlpWOUhDQTVPdlZVS3ZKMnRlMXdNYTdHZklQRzNmWTNaVnA1cUoyUDVFaENuOC13dXd3Vm9tQ2VOVw?oc=5",
-        "headline": "李대통령 \"부동산, 100억대 양도소득에 세금 몇억…형평 안맞아\"",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "08/04 11:06",
-        "published_ts": 1785809218.0,
-        "tag": null,
-        "first_seen": 1785816928.8259132
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0lCZ3FXZlNiSGlGZ1RQcVdEWE9qTXJHUkc5RS03d0hhZ3lQVGMzV2FQS0NBMGxkbG9tTjZNNUFqUjN4SjYyeGxyWEZTZWk0?oc=5",
+        "headline": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/07 14:04",
+        "published_ts": 1786079040.0,
+        "tag": "Fed",
+        "first_seen": 1786079724.221538
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWS15eGRycFc0bXp3Y0FGajFTMjQ3UWFTbzlucXRSWGRQdm9JMFEwbVVIb040eS1PTFlLbHM2ZzdnY0VZMEhOWmsyNGNhVlJWWk1fMXdsVzd1QTYxTU1mRmpiWnNNNFk5RjV0RVNPeURHcnJpX3lhd2QzZnpyUnBOVVFsbVQ4SmJvQTYtaDR3?oc=5",
+        "headline": "Opinion | Kevin Warsh Wants a New Fed. The Markets Are Not Sure.",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/07 14:00",
+        "published_ts": 1786078815.0,
+        "tag": "Fed",
+        "first_seen": 1786079724.221538
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMGtiRThuSHFwTkx6d0JyRGVSWFBnY2lWZFRuQllmSmZ5dVptb2ZHZDAxcGVod2V2MHFmakwyM2pWY2FxN0FFdi1VZkYteUc1VGFoRnlESEFNWnltbVRfYUJFaTNQbXV3NThqcjFNV2lUdUNmTGFvUlpNbTZjTlVza2p5cVExN3dEaXJrWEFGTC11bEFaT05sUFVOVUFZNUE3RlFjUWVEckdDRHh6?oc=5",
+        "headline": "SA already upgraded by bond market as rating firms lag",
+        "summary": "",
+        "source": "News24",
+        "published": "08/07 14:00",
+        "published_ts": 1786078801.0,
+        "tag": "Global",
+        "first_seen": 1786079724.221538
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnFXSXpSRFFUUm5xZkJQdEp0c093eDVZREVVbUhUSWlhSGhmOGhhWldicXdWLXBZV25heExIaUVhMUt5RjBldWFTMENrV3RLcGNCTHVRaHJXZ3hfbk5KVGtHSTBkYlNwVzF2QmlReU1hY3poUUt4U3lTb1NyVjYtb1JfTnRxUDNHNThzNkVhaV84bGhYZ1NnamZJUG94S1pIejNFYkt1N09HRjIyZ1FOT0J2WWxVdnl0cTdYX0Q5WWhkZw?oc=5",
         "headline": "Virtus Seix Investment Grade Q2 2026 Market Review And Outlook",
@@ -1978,36 +2008,6 @@
         "published_ts": 1786029501.0,
         "tag": "JGB",
         "first_seen": 1786030244.834684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPRzdWU3VZNHc4MGtOdTZtd3dKZDd6aFJmaGZDMDNsVy0wbW55TFl1dWU3N0lJbU5vTmszQWU4U1F4MGVFME1BM0hxTGwwWkpZUWhsT0YyWFFMUmRLaWpoNDBLUEhCYnNMSTNYbWFIeEZTM2JXNUo1OF81bkU5WTdRZTlRbHJoRklkZndqdjBPS1g0dzg4ZTFpT0ZiV2pQWnhQSjZMTUFiYTctWW5VSGgzR3VKc2ViMS1IVnJ4RTRCTVl0Y2xqMG5xRnpLcm1LR1l4YlpZaUV0MkF1MEdPSGw0Q0JjUUppY2N1WjF1LTFtS0gxYjVxT2g5S0docjBqUFFNRDQ3bTQwc19HZUc5MVRrT3hUZUZFNWhmZWxuTzJXbUhDVG56VlNSNUdraUs1NTQ4V0U5a2J1Yll5cUlQOG1vanZB?oc=5",
-        "headline": "JPM, Jamie Dimon Warns of High Leverage in Financial Markets",
-        "summary": "",
-        "source": "GuruFocus",
-        "published": "08/07 00:02",
-        "published_ts": 1786028576.0,
-        "tag": "Strategist",
-        "first_seen": 1786058124.8906255
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdnR2UVZIV3I2a0s0bjBseE5XODNpR1A2OHpCVU54S0xuOUswRXJSTmpYMk1Qck4xVmk4VWVSd0NremYwVTVYV0x6QWxsOWJUN25neGdwZkl2RGJsQkpFSVRCZlZrVTRvc2pHazhULUdjWlh0SW1BQ1hLZEJLRWtGbExiSld4dUpXWXhUajBVdXF1QXFTV2MwWXo5YVJON053ZWxkYUhmbktHc04wY05qLVE0eWVycmhIY1lEYlZXdjJPanZUWlE?oc=5",
-        "headline": "BNP Paribas Sees Gold Hitting $5,000 as Trump’s Pressure on the Fed Weakens the Dollar",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "08/06 23:36",
-        "published_ts": 1786026965.0,
-        "tag": "Strategist",
-        "first_seen": 1786027528.0128176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORFdEMFdnZ055cE5INnFRMkFySWhtWUJsQzNRcXFSeWhJVHJ5LXQ1X2FZTVZwVGtCc1NlczhsSDkyQTdUVWd3UkdCSjJMZ0UzSTBBX1BzZjFFM2lpRGhKR3JadllZSXRuVW0tMjV6eU9pZ09udnJZY0tEZEdqdEZQeGFCbFA?oc=5",
-        "headline": "This ETF is Built to Handle Fed Ambiguity",
-        "summary": "",
-        "source": "ETF Database",
-        "published": "08/06 23:20",
-        "published_ts": 1786026014.0,
-        "tag": "Fed",
-        "first_seen": 1786077039.2536325
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 14:01:01",
+  "updated_at": "2026-08-07 14:15:47",
   "yields": [
     {
       "label": "3년",
