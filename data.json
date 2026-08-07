@@ -12,6 +12,16 @@
         "first_seen": 1786140511.0592413
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9MR2VnV1lIb2xZWWthUXFaWHZYaWZ3eTd5bFhwMndTY1E0d2otYXE3WmNPc0xMRjVqTEt6S0xTc0tHVzlac0VNQTI3THgzRWwtM0p6QTQ5YndPYmwwZ1duZm9fU0k3bXhTeVhsQmNR?oc=5",
+        "headline": "무디스, 베냉 신용등급 Ba3로 상향 조정…경제 회복력 인정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/08 06:12",
+        "published_ts": 1786137120.0,
+        "tag": null,
+        "first_seen": 1786146328.7577255
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51OURwaDRYNjRKUXZjLUR5cDN0MzBXNFEzdkVEZk5zYWlXMzA2NnoySl9YM3gydVVFdTZUYXQ1Z09uV05MQ3F4NU9pMVZKWWFqaUxqQlFITFdSeTFwZ1lSLUFYbk1YRC1JdmptbURxaW5YaFNEZW9z?oc=5",
         "headline": "무디스, 이스트만케미컬 전망 하향 조정…현금흐름 우려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786057060.0,
         "tag": null,
         "first_seen": 1786067021.6393697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kSHhfcHJKbks4V1NBRDRCMDVvd283SllWbndJUnlSWm1JNjZ2TkpYNWZqcldmYUtxZDFiTUFSWktjSS1uMEE0b3JvU2o4bXU3X2I4ZzZqNC02NFlnNXUwci05TVNxMk1zaHdfYw?oc=5",
-        "headline": "알파벳 회사채 1150억달러 몰렸다…QRA가 열어준 AI 투자 자금시장",
-        "summary": "",
-        "source": "ER 이코노믹리뷰",
-        "published": "08/07 07:55",
-        "published_ts": 1786056949.0,
-        "tag": null,
-        "first_seen": 1786057477.5607512
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0zMERxZGZ5WFdPaG5SYTBpN0t1emxNeG4wZkdPejFyX2wwVjI5WGpiakxjMGFWX001dDVXSVk0bkJFemxMdU51dU16eTh2U2gxZmdGb0RiRzkwQ1Q0QlNIbm5LTnh5dUU?oc=5",
+        "headline": "제이미 다이먼 JP모건체이스 회장 \"가장 위험한 건 숨은 레버리지\"…2008년과는 선 그어",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "08/08 08:30",
+        "published_ts": 1786145400.0,
+        "tag": "Strategist",
+        "first_seen": 1786146328.7577255
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSEF6SzZ1cTBab2YtUU9pWVAxRHUtNHVINEg4YnFlNS1QNTQ2Nmc0MUZZcElWdTI3VWVsUS1Ub2tab1dMc3h1SERyMUkxcE9neDZZYzEtLUd5TTFVOWk2dkc1aTN0ZVUwazdTcW9iY0E4NGdUbHExYTQ1S1VLT2RsenlEV2lmV2E3ZVZvZA?oc=5",
         "headline": "How CFOs should digest the Fed’s continued rate holds",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786090009.0,
         "tag": "Fed",
         "first_seen": 1786090531.115577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRyTHAtYUM2X0s3UjZFUUNWTktlZkhUZ0RFLUEzMXpES3FkcThqMVV0MXhWbE5tYWN6bnc4U1BHdFIzY2FUZkcwSERHOS1mTmJ2a0ctTVotQnF3UXNqbnY3bTRsSlhkUmphTmFiTlRxYWdUQWlkVXJvTXhkbnF4LWZuQ0s?oc=5",
-        "headline": "Warsh is being misread",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/07 16:57",
-        "published_ts": 1786089440.0,
-        "tag": "Strategist",
-        "first_seen": 1786119324.6464746
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 08:30:55",
+  "updated_at": "2026-08-08 08:45:54",
   "yields": [
     {
       "label": "3년",
