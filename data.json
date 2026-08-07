@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQSVlJYzU4Nzc5eWUza2NnUW9FV21makRrZnJPMmt5cGh6M0F0VDlvWV8tWXV5SlR0Q2RiNkQ3ekhyY2lCdXZsaUlyeGh4Y0h1bzNXX0xsZU45bUpacHpIcld1aHdTT0ZXZjduS0UyUHZfSFM5NEZOa2hGT3Y5TG10c1oyY0FwdkhHb3UzZ0FLYVVFck9Idm5fUzRBd1NXNFZqWE1DbTNTWG5CdThkbUw4WGNLX3hNX1h4bXlrVXp2M0F2dzN5UndFTXFVaG5HLVJEc1pUQW1JRlhJN0lCYjVpeWJ1V3dxSXIxaUlpZ29ERXBNSVlFdzVwWUhjVUF1NXBiS3FsTFFuRmxsLVlDdnJPeTJpalpvczZqaS15c19JLUp5LXMwSHZsa3FkQXR1RjQ5UkxzOHYwaDd4Tl9GakNhRlR6Ymw5ZkQ2T1VGWnVLdnpqeG5CbUdDS1RaREMwdUo0VldZ0gHoAkFVX3lxTE15V3lDc1laYVZQR28zbW5odnY3Zy1mZmxsRWUyZ2xWbk53eUZkWkgwZWhqZERmRE9pOEVweTFmQ2VLUC02bDd5QVF2SWp0V3Vyb1FPdno5UU80NkdXM0toRnljQTRvX09wckNLMXZuSkIxUmQxMUtxZnJNTXhIZnpYa0NaeEY2R0hKWkhCUXlONjRkZTN3YVl5aElXN2RjZ2lYR0owcVdHRGZHanY0NFpDMXVVRUp2ck5HMnBRN2hVSDVTZHhoSU9wRTdJUW5QN1dxSUlQenM3emJRQUg0em90eERqREVzNmxBaHFJMENVWWtNSkQ1enB3X3luQVJsenJ3MENuQXpvbjBNNWt1NkdzeGZEblRQZThjUlN5eDBBTUgxQ2NuTFp6VDVIdUhOUngzdGVVelkwTzdxXzNRZ1FJMEszdWlXdFhmMDlYZndEaGRxalRORzJTMG8tOGpCQW1VLVdHUWJoOQ?oc=5",
+        "headline": "US stock market today: Wall Street rallies as 23,000 job cuts boost hopes of softer Fed policy",
+        "summary": "",
+        "source": "The Times of India",
+        "published": "08/07 23:34",
+        "published_ts": 1786113240.0,
+        "tag": "Fed",
+        "first_seen": 1786113922.9304032
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGNzaGNKNjRLbGotMTNLWTY1TUx6TFRnUTFmTDVoUFlBS0FIelhGa0Vvb2h5SjNfN2M2LURkOUl5TVBEUnRheEVZaU9qY0xQTmx6UTVkLVZpMG1sMG9UM0tLMjBsckdCSTBjc3ZwSlpRUW92N3ZMTkp4Y2o5SzhybDdpa19CRGxUOUhHUzRiYk5OTi1wYlYxZ3dCTThLTkJveGpUYTlBWVVqbktjQUVTSFFGMjc2NjBlN0V1NDgtTGNZdVdGN19tR053?oc=5",
         "headline": "The Aug. 12 Inflation Report Could Decide Whether Kevin Warsh Raises Rates in September",
         "summary": "",
@@ -1678,6 +1688,16 @@
         "published_ts": 1786106482.0,
         "tag": "Fed",
         "first_seen": 1786106725.6781723
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYnJmNWdDZ3lQUDI3V1VNQ3ROc0xoaGdCS3ZnN281Tllna1NkWEJNamJlODZJSmlRQkFaMzhwTDBKNHdaVzRpV2R2NUV1SkFGdk1kaXd2aUVvYnUyQUJxUW5MMkZDbEF6aHJQTkNuUWd5YVlFTUR5dEx5aGVrRHVMaElQcThyclNoaFFEdU1WazJsZS1JTjJ3dVoyZnRXQW_SAU5BVV95cUxPUFJQbDQyUTNRdzFKWTI4TnBRLWd6NVBLSnNscmhMZENSaEEwS2VKZDM0OHBGVkEySmRQUWExNmFyY3RUOHNmYmhQVndzQ3c?oc=5",
+        "headline": "U.S. joins Japan in rare FX intervention to support weakening yen",
+        "summary": "",
+        "source": "ISNA News Agency",
+        "published": "08/07 21:17",
+        "published_ts": 1786105051.0,
+        "tag": "JGB",
+        "first_seen": 1786113922.9304032
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBsMjRZeERvS1NNSV8yRnRXalROYndFOHhQNzdIemdZdktvWVNUaU5CT0kxcUE1U1o1Yk5HRHFwNlhkMldFVEVSd2lQeWVvTkZQZExYMnFhRTZLV0J4azhDTU1wcXZsUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786078801.0,
         "tag": "Global",
         "first_seen": 1786079724.221538
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYnFXSXpSRFFUUm5xZkJQdEp0c093eDVZREVVbUhUSWlhSGhmOGhhWldicXdWLXBZV25heExIaUVhMUt5RjBldWFTMENrV3RLcGNCTHVRaHJXZ3hfbk5KVGtHSTBkYlNwVzF2QmlReU1hY3poUUt4U3lTb1NyVjYtb1JfTnRxUDNHNThzNkVhaV84bGhYZ1NnamZJUG94S1pIejNFYkt1N09HRjIyZ1FOT0J2WWxVdnl0cTdYX0Q5WWhkZw?oc=5",
-        "headline": "Virtus Seix Investment Grade Q2 2026 Market Review And Outlook",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/07 13:30",
-        "published_ts": 1786077000.0,
-        "tag": "Global",
-        "first_seen": 1786077926.820489
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZjRyTHAtYUM2X0s3UjZFUUNWTktlZkhUZ0RFLUEzMXpES3FkcThqMVV0MXhWbE5tYWN6bnc4U1BHdFIzY2FUZkcwSERHOS1mTmJ2a0ctTVotQnF3UXNqbnY3bTRsSlhkUmphTmFiTlRxYWdUQWlkVXJvTXhkbnF4LWZuQ0s?oc=5",
-        "headline": "Warsh is being misread",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/07 13:00",
-        "published_ts": 1786075217.0,
-        "tag": "Strategist",
-        "first_seen": 1786076123.7692769
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 23:30:56",
+  "updated_at": "2026-08-07 23:45:48",
   "yields": [
     {
       "label": "3년",
