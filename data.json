@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPY21fMUFpVVpNM1lXZHZxVzJkT0F6ZnlWZWJsb3B6QnVHZU5YZkdNR3k2dlBVV24tMFc5Zk9oUUFfaTlyenpJb0ttc1htYVlGbHZOcE9uLXA1Z293emJXRnVLeEhiY2o5SVlDZ1BxZmFNVmhpeVlvVU80Z19UbU1TZEVTZ2hSOGFiVEYzWjB1RHI0U0JuWXpB?oc=5",
+        "headline": "Opinion | The Federal Reserve Status Quo vs. Kevin Warsh",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/08 06:34",
+        "published_ts": 1786138440.0,
+        "tag": "Fed",
+        "first_seen": 1786139125.129958
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSeUlrZ2JCQy1pTU1yNmEwUDlFNHluT19nQkl6a1VQMjRncG8tWFo4MU9ObjJKUTZ0U3hFNUhvZkl3amtlT01KcFB1STdSMnV5VER6T3U1ZnhKU0kzTEo5eTdHUlNJZ3RfNXl1cG9yNTJPX2M?oc=5",
         "headline": "엘에리언 \"워시, 오해받고 있다\"…쿡 이사 해임 재시도엔 \"시장 무반응 흥미로워\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786088165.0,
         "tag": "JGB",
         "first_seen": 1786126524.2133691
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1NSmpZcF9ia0Q5UTlzcnZHUk1OUS1UVVJhSWp6UktfQ01abFpqdG4xQlVaaGtTNWQ3aTJ3S1p6c2x2RUVKaDNvZkZKa3I4Z2NtQXJudlAtZVFGSlU3aGUxTmNZTEFnRGN3Nm52cEJ6Zw?oc=5",
-        "headline": "The Yen’s Problems Can Be Explained By the Bond Markets",
-        "summary": "",
-        "source": "Barron's",
-        "published": "08/07 16:31",
-        "published_ts": 1786087860.0,
-        "tag": "JGB",
-        "first_seen": 1786129236.815419
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 06:30:58",
+  "updated_at": "2026-08-08 06:45:50",
   "yields": [
     {
       "label": "3년",
