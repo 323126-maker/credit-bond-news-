@@ -836,6 +836,16 @@
         "first_seen": 1786077039.2536325
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQXpFZlZTTWxwOGtHTlhUNkNldFlZZlVPeEl6dHgyTS1pRWZwbmJ1M293VmZmbEZLc0pTYm45Y3JjZGpTem1OeElEMUR4NzFDRjlvc0RIZ1B3cldJdFd0WVJrWVRfWnFHQnZrMUJ3?oc=5",
+        "headline": "'팰루시드가 쏘아 올린 공'…금융당국, 집단대출 총량 제외 논의…\"청년·서민·실수요자 피해 최소화\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/06 16:21",
+        "published_ts": 1786000860.0,
+        "tag": null,
+        "first_seen": 1786088730.3308532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5hdTZtenhIUHNIMHhfelV3eGZqQmxva25EMnBUaWR2ZVBuWmFmLXFScXdGd1NBTWd4dHNyaG0tWWd4VmU2T1N3eGtmRF9abzAteDkydTRtN0jSAVhBVV95cUxOYXU2bXp4SFBzSDB4X3pVd3hmakJsb2tuRDJwVGlkdmVQblphZi1xUnF3RndTQU1neHRzcmhtLVlneFZlNk9Td3hrZkRfWm8wLXg5MnU0bTdI?oc=5",
         "headline": "[투자 노하우] 메리츠증권, 연내 금리인하 가능성 언급…8월 이후는?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785706218.0,
         "tag": null,
         "first_seen": 1785724235.5381563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE82b01ERzBBb1NKS3h0dVZIUjBWd3A5WVFGOG9JZGNqQXYyRFR6SGdpRkh3TERTSkhyMFp0bHJCNVdhLU5aNF9VdVFIZ0NubE9rUFJXTw?oc=5",
-        "headline": "美 채권자경단이 움직인다 ... 기준금리 인상 명분 강해졌다",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/03 05:00",
-        "published_ts": 1785700800.0,
-        "tag": null,
-        "first_seen": 1785749473.3268895
       }
     ],
     "politics": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 16:30:56",
+  "updated_at": "2026-08-07 16:45:53",
   "yields": [
     {
       "label": "3년",
-      "value": 3.742,
-      "chg_bp": 7.3,
+      "value": 3.746,
+      "chg_bp": 0.4,
       "series": [
-        3.778,
         3.768,
         3.809,
         3.887,
@@ -2439,15 +2438,15 @@
         3.742,
         3.74,
         3.669,
-        3.742
+        3.742,
+        3.746
       ]
     },
     {
       "label": "5년",
-      "value": 3.957,
-      "chg_bp": 4.1,
+      "value": 3.964,
+      "chg_bp": 0.7,
       "series": [
-        4.016,
         4.008,
         4.041,
         4.128,
@@ -2466,15 +2465,15 @@
         4.014,
         4.004,
         3.916,
-        3.957
+        3.957,
+        3.964
       ]
     },
     {
       "label": "10년",
-      "value": 4.195,
-      "chg_bp": 4.5,
+      "value": 4.208,
+      "chg_bp": 1.3,
       "series": [
-        4.25,
         4.23,
         4.263,
         4.333,
@@ -2493,15 +2492,15 @@
         4.264,
         4.26,
         4.15,
-        4.195
+        4.195,
+        4.208
       ]
     },
     {
       "label": "20년",
-      "value": 4.483,
-      "chg_bp": 1.2,
+      "value": 4.494,
+      "chg_bp": 1.1,
       "series": [
-        4.431,
         4.413,
         4.423,
         4.492,
@@ -2520,15 +2519,15 @@
         4.513,
         4.526,
         4.471,
-        4.483
+        4.483,
+        4.494
       ]
     },
     {
       "label": "30년",
-      "value": 4.516,
-      "chg_bp": 0.5,
+      "value": 4.522,
+      "chg_bp": 0.6,
       "series": [
-        4.459,
         4.438,
         4.446,
         4.491,
@@ -2547,7 +2546,8 @@
         4.537,
         4.557,
         4.511,
-        4.516
+        4.516,
+        4.522
       ]
     }
   ]
