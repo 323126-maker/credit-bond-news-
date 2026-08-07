@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAza05xa1BrMllBRGZGVTZvLW9ZenZUSkg4OHBULUY4SnlsRjNwcGQyaFNlcDZzVEE3MkF5UDFqOU42ajB5clVscEhlT1JMUEFEUzF2ZndJR2w3TVg4aExwNU11eENjQWt4Q3l4eHBGeXTSAXRBVV95cUxOeHVSU2ViSGZuZHRSd1l2RGh2eWhWUnZWc040azBHVmJ5SnNwTms3VEd5Mnl4eVdReEJVaGgwZURvcFRDc3Z5OW5ucF9pWFdJSDVPOEgwcmtZUXUtSzVHX2ZFUUxGNS1XZF9nVkFGTnNveEhzbQ?oc=5",
+        "headline": "FX스와프, 강보합 마감…美 고용 지표 경계",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/07 18:17",
+        "published_ts": 1786094256.0,
+        "tag": null,
+        "first_seen": 1786097739.2692113
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0SDJlNmc2NnVTVkk1YXRxbWxhN0VxRDZnUmxUaTBZX0FGRlozTzVkb3hPRXNsbV9aTkltdWlXdXNsQ25hcEh2UFkwUHRsTDkwZkdSYlFNc1QyMURueFBkNkVEaE96aXVVaFE?oc=5",
         "headline": "구글, 최대 35조원 채권 추가 발행…AI 인프라 투자 재원 확보",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786007820.0,
         "tag": null,
         "first_seen": 1786021237.7889664
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rSUJ4UTYwQlA3MDBqWlR5MHNnemh3czhZVnZ4US1EdkhBNnQ4WGhwMWtRSktvTlZUQ2hBMXAxVmxPNmhYenFIZTdRV0dmNlVrX2xfa3I2aWZtRzZHWktqMEIyWHRDM1BDMHA4aWFzMA?oc=5",
-        "headline": "정부, 산업 GX·탄소차액계약·자발적 탄소시장 추진",
-        "summary": "",
-        "source": "산업단지신문",
-        "published": "08/06 18:02",
-        "published_ts": 1786006945.0,
-        "tag": null,
-        "first_seen": 1786009527.4477243
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 19:01:06",
+  "updated_at": "2026-08-07 19:16:04",
   "yields": [
     {
       "label": "3년",
