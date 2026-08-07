@@ -1228,6 +1228,16 @@
         "first_seen": 1786079724.221538
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1QYkZFOTkxazkxNjhBR3k3S3ZpWnc5bldKVTR6SjE4cFpMbkhmOWszYm0yb2dCQW5QdVdyRUNnSEdFUHNTZ0YzSFh0ejgyVHVqcDBmci15dDFvVHlnM3VQTjl6d0U2Q3hhLUp3dk1R?oc=5",
+        "headline": "李대통령, 부동산 점검 2차 회의…수도권 주택 공급 물량·속도 막판 조율",
+        "summary": "",
+        "source": "뉴스후플러스",
+        "published": "08/07 11:44",
+        "published_ts": 1786070664.0,
+        "tag": null,
+        "first_seen": 1786101328.5116875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcEcwekRIU29hUzNEbVJSbnR1RW85TTZUa1NseFRrOVNzTDZ3WWY0Q204NU5fcXdhVGZIWXJyaHpmSUhRRThzb3h3ei1zQTRNMElUc3cyVWc1T2NUMENFaVZldUt3T0xLTXZj?oc=5",
         "headline": "이 대통령, 오늘 수도권 주택 공급 확대·속도 점검",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785820006.0,
         "tag": null,
         "first_seen": 1785820527.100729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBncGNISmNfV2dhWk85OWQxbkZhV09YYVZWajBfS3RPUGlFRjdnblBNVDF0Q2lzc0lFSVhaZUdBbV91aXhSdTN3VndmSjY5YVBPYXpXUExWbEd3cWhBNlFXUFl4Zm9wUVRBcV8tUtIBbEFVX3lxTFBncGNISmNfV2dhWk85OWQxbkZhV09YYVZWajBfS3RPUGlFRjdnblBNVDF0Q2lzc0lFSVhaZUdBbV91aXhSdTN3VndmSjY5YVBPYXpXUExWbEd3cWhBNlFXUFl4Zm9wUVRBcV8tUg?oc=5",
-        "headline": "“폭염은 국가 재난”···李대통령, 취약계층·노동자 보호 총력 지시",
-        "summary": "",
-        "source": "ziksir.com",
-        "published": "08/04 12:01",
-        "published_ts": 1785812463.0,
-        "tag": null,
-        "first_seen": 1785818725.4639354
       }
     ],
     "global_bond": [
@@ -1708,6 +1708,16 @@
         "published_ts": 1786088268.0,
         "tag": "Fed",
         "first_seen": 1786092321.6413894
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBoMENoQWVDaWpoNDJNWkQtSkdjYTFvOGsxRFpDenB5bEU0b1J2b1FFM2pVc2w5aTRtdGFQNTg2QjhTbEd5eFVOTkM3WXFzMmd2dmVCV0dHbHk?oc=5",
+        "headline": "Federal Reserve Chairman Kevin Warsh Allegedly Prepared to Support Interest Rate Hike at September Meeting",
+        "summary": "",
+        "source": "Cryptonews.net",
+        "published": "08/07 16:01",
+        "published_ts": 1786086109.0,
+        "tag": "Fed",
+        "first_seen": 1786101328.5116875
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUVl4bWJ2dmoyTDZKV3U3Rzg4VGxuQzZrZmxtbmZVUkJ5WXNwVDdrQ2Q4S1VEUUk1TWtiQTFMdXAwUkRpRjU2MElockFYUE5RUmFjdE1Td00zazhqYld5dkFSU3NtRE9qMkZJTDZ2UUJPSkgzT19hU2V0eXoxRGgwMFliMjRGVzJ5dmNia05UZnFHcTVEa2JVZDkwN1dPcTFDTjRpUjBKWEFLOEIwYW9sbXQwR0c5YkNSR3hXTi15RQ?oc=5",
@@ -1997,16 +2007,6 @@
         "published": "08/07 07:28",
         "published_ts": 1786055280.0,
         "tag": "Strategist",
-        "first_seen": 1786057477.5607512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOWjBvV0hvQVVCRDlTTVBLejFha2JxanVYazJSX3o1cDhXLUFfQXY5SU95NVlDTTFVMWpXZ0MzR29wODZZbldRbkE3REM1WjZ3SklUNWZPMzc0d2VVMFJhRFI1TFJ1TFY0NERvLVlnbFkwdkxjbWh6TU1hUTVIRm1pS2VobUtROVF5OGhfX0VZUWN1RWFDd2VDYWExTlc1VEc3YW1qeGhTVXdVZ3FVN3U0ZnBmOXNJRDIz?oc=5",
-        "headline": "Trump Said to Call Fed Chair Warsh Periodically",
-        "summary": "",
-        "source": "bloomberg.com",
-        "published": "08/07 06:55",
-        "published_ts": 1786053311.0,
-        "tag": "Fed",
         "first_seen": 1786057477.5607512
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 20:01:02",
+  "updated_at": "2026-08-07 20:15:56",
   "yields": [
     {
       "label": "3년",
