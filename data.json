@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcjlob1JsdklNNENXVWVrM0FJUDNSOEV6b1FHRVhQSXhvQkt2QjZnUUhhR2IzdDAtUVgzOVpDbDBnR1VTZ290YUI5VTRfYkRxNXY1SmRhSWlNRjdCcnBGRHdrcHZfcFBSbGZBUVBMRTdOcTllbzEwME9NMjlJZGFPMkxxVnYtdVFFa0g5UzRwODA4TEl1WEtETWFB?oc=5",
+        "headline": "Trump Speaks Repeatedly With Warsh, Departing From Precedent",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/07 22:26",
+        "published_ts": 1786109181.0,
+        "tag": "Fed",
+        "first_seen": 1786110324.8241684
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPNnNrTUZyLUV5a24xbGl6a0pvdjhfaWNwcTAyNW5rZDBIMVVSX0JxeXVkS2F4dGg0QllfeTNFM2RDNHdrbWVZSUd3bEJ0V2ROVjQxaWZHaVQ1ak92a1MxZ2hzd1ZtVkpEQ2lUZGZGbUlvQmFsZ1dLMVYwbl9NUnFZZlp3WWtYd21SUHA0?oc=5",
         "headline": "Fed: Kevin Warsh's biggest obstacle may be clarity on inflation, not credibility",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786065960.0,
         "tag": "JGB",
         "first_seen": 1786067021.6393697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWdfTGZrMmJ1OFF3eS0zVzFVQXRBcUJ2NVJuaG5QZ2poWXoxRnB4eEE3RUpMeGwxQVRSLUJTYTNWa2c0YVhSQzlicVU4TDRFSkZIc1p3QjRlVHBmWDFiUUFZVHB2eHptd2lsYW40OXZ0X0lFOFFvV3JwQ3ZCX2RNWDFSdHJsdXdTeGVtZlljaS1Rd3JNTXJfWUZvS0NsZDYzVkQ2QkcxTQ?oc=5",
-        "headline": "Mortgage rates rise for 5th straight week, hitting levels not seen since 2025 for 2nd week in a row",
-        "summary": "",
-        "source": "Jacksonville Journal-Courier",
-        "published": "08/07 09:28",
-        "published_ts": 1786062523.0,
-        "tag": "Fed",
-        "first_seen": 1786086934.5207562
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-07 22:30:55",
+  "updated_at": "2026-08-07 22:45:48",
   "yields": [
     {
       "label": "3년",
