@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTB2MEtQcHBPTTIySTJRZnNnT0NBUkE1YzgxNEE4R3AxQzZPdkVhdFZsTzViZFRfQ0wyS1FmNGVnVi10MDhmV0p3SlZOZWtkclA3aF9kd3NWa0REeW0wOXliUEg0TVFobzByQ1JMNkhidzl5MHd6ZkJNQUlKa1cwT292cmhYU09pTTY0VEMzYjJYbHppRW1uTHI0TG5kbldqSG83RmhIcnl0cGdVNUVFcGloNmRfMXk0ajQxb1BnSjRveXcwMU9ZZXBR?oc=5",
+        "headline": "Trump, Warsh Talk About Economy ‘All the Time,’ Hassett Says",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/08 02:02",
+        "published_ts": 1786122153.0,
+        "tag": "Fed",
+        "first_seen": 1786122929.7559185
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNX2tYUThTZV96dy1BNlZMZld3UVRnU0hnU3ViTmFjdk1ISzlwMkFsWDRxeU9uMVY2SGRNNWJSZzlPemlyZjZUNGZueU5YaV9HSXZDdWZyQTVtdUZrRmZxMXN0dEJxNXBNbGllQnZPdWViLTlpS1pxNFlzRFRudVRWeWt5QQ?oc=5",
         "headline": "Fed Rate Cut Expectations September 2026: Market Impact & Investor Strategy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786082095.0,
         "tag": "Global",
         "first_seen": 1786082442.8524694
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTXZOTk1OZHJRQURBeVVQMDBuaTc0SHpqSm1TMklnZGdnV3NiZG9fOTVzb0x1TjFQRTBIV2pRTVJqeVcta3VVNVF2YXNWLWVkVG1tU0dzczZsVG9IZVY2WUl4cER0UDhpclVoUURJdVZ1aEp6ZlphS1dYZ0pmOER6TUY5Vm1uNHNmdk55RjgtRG9pdzFScFMtRzBJb2MxTF82ZXpZWXFB?oc=5",
-        "headline": "Important upgrade for South Africa is already happening",
-        "summary": "",
-        "source": "businesstech.co.za",
-        "published": "08/07 14:50",
-        "published_ts": 1786081848.0,
-        "tag": "Global",
-        "first_seen": 1786085131.107983
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 02:01:03",
+  "updated_at": "2026-08-08 02:16:02",
   "yields": [
     {
       "label": "3년",
