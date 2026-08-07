@@ -252,6 +252,16 @@
         "first_seen": 1786080631.4601128
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03WDFxa0lndW1aaENWZk5Wc3NVWjQwbGtkaC1TTnhwQTkwOTZLbENNYVpITkhJd3hROEx4RUloQWZHenlKRmdRZENpTF9mREpUcjNxQkp3dlY4Vkd5TXptRTBvLUlhQ1d5LXdGdTE2aknSAXRBVV95cUxOcmRyU0lIeUY4bkFfZGNzbVpianUzLWE0aGRhYUhBb2JDVUNpenZuQThVOW50dldZcFU2ZHJYbEpHVnhTZ01GWjBwZS1UWi1ZY25LSzR2bVRpNWh0U2tFTnlWMXRDdV8tSktSdlNaNzJ2U2I4Rg?oc=5",
+        "headline": "국채선물 약세 출발…호르무즈 해협 불확실성·유가 상승",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/07 11:07",
+        "published_ts": 1786068457.0,
+        "tag": null,
+        "first_seen": 1786136440.0357413
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuTDVYTkJUd0NveE4wUGI3amtwZkc5Zy01TXdqTC05a2c0ZkJIMXBqN2NzaUdZWkNsS0NjU1JFLUM3ZUJHMjNoaEFIU2xxd2N0alQwZmI2TWFjdGZoRElGT2hwVU1mVTRESTUteFZnTF8?oc=5",
         "headline": "네이버 최수연, AI팩토리 자신감 \"내년 상반기부터 매출 발생\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786052640.0,
         "tag": null,
         "first_seen": 1786106725.6781723
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5XbDdQN2hvdHBOX2IwOHRjckFSNnkzN0JIa1JILVBBODRPVEdmU1pld09PbHBmdmVHUVhSR2tEQnJqQ2MyelF1MDcwSVNCaUxPX2FhUW5EUjA3Z0dnekhBSEZmWURGRVZWamRCQQ?oc=5",
-        "headline": "구글, 최대 250억달러 회사채 발행 추진…AI 투자 자금 조달",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "08/07 06:34",
-        "published_ts": 1786052043.0,
-        "tag": null,
-        "first_seen": 1786059037.9803808
       }
     ],
     "perpetual": [
@@ -886,6 +886,16 @@
         "first_seen": 1786077039.2536325
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBkNVdfSmstbHdpOTc5bGh5NDdCZ3VmYW5LLUMyckNmeGc0QmVaZnFlaEhyS0V2T1pycElkZHlxdUNPakNRTjBjRWprdDRTU1U?oc=5",
+        "headline": "\"너무 빠졌나\" 국고채 금리 일제히 상승…3년물 연 3.742%(종합)",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/06 16:50",
+        "published_ts": 1786002655.0,
+        "tag": null,
+        "first_seen": 1786136440.0357413
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5DQXpFZlZTTWxwOGtHTlhUNkNldFlZZlVPeEl6dHgyTS1pRWZwbmJ1M293VmZmbEZLc0pTYm45Y3JjZGpTem1OeElEMUR4NzFDRjlvc0RIZ1B3cldJdFd0WVJrWVRfWnFHQnZrMUJ3?oc=5",
         "headline": "'팰루시드가 쏘아 올린 공'…금융당국, 집단대출 총량 제외 논의…\"청년·서민·실수요자 피해 최소화\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785735677.0,
         "tag": null,
         "first_seen": 1785737724.5343375
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDc1l6Yi1yQS1XMldZU3RKUnlZUlRRdkhFT0NCendna1J6MUxEVVdNcjY5Wk5pY3hybktNQmZlM204MmRXUU8zUWpIN0sydHJlUHVEd01zVHJhMVVHeEdvaQ?oc=5",
-        "headline": "7월 주가 급락, '음'의 부의 효과…8월 채권시장 영향은",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/03 14:00",
-        "published_ts": 1785733200.0,
-        "tag": null,
-        "first_seen": 1785734129.2180538
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 05:45:58",
+  "updated_at": "2026-08-08 06:01:03",
   "yields": [
     {
       "label": "3년",
