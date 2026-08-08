@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0RThCZDR0TUVDUUpKXzY3am9mSnF5RmU4eE5oeW9FR3pJU0RYd08zN0FRXzhjUnozcGd0SzAzb0NUWFJvMFZRYkxWWVVISVJJRnfSAVNBVV95cUxQTnBWMWswMGkzeW1EWGsxSmN6UFlNdlNGLWVBTVVBUjI0aWg4dTlIVzlTTVhoN0V3QnJWYXZyTUhyTno4LXE5dDluUkRua09xaUN5SQ?oc=5",
+        "headline": "‘취업 포기자’ 속출에 ‘통화 내분’ 더 심해질라 [트럼프 스톡커]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "08/08 12:26",
+        "published_ts": 1786159574.0,
+        "tag": null,
+        "first_seen": 1786171527.5493753
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wcnJuSnNLZWthM2wtS2xySEpsd1Z0V3k0RUZ5U3NFUUNFdzJaVmY0Q1lTUTQ5UXkweDhoaTl5N2dsaTV3dDB3czhvS1lBWHE4dnVXVmNMVGwtVG13bVVWNg?oc=5",
         "headline": "\"올해 물가 고점 지났다…10월 한 번 더 올린 뒤 내년 금리 인하할 듯\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785745991.0,
         "tag": null,
         "first_seen": 1785772845.854916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5mVno2T3VIdE5vd2Q1OHd2NWN0ZHIxWG50UjNzd085WExvR015d2FuOWhHLUgxcDFNVlhGOWtldFl2dUdZck5aRGxVaUtwSjlrMmxacU1EYUUzN1pDLWlEN2ZDZV81ZGhCbjNQLVp3?oc=5",
-        "headline": "대신증권, 코스피 목표치 1만1500→9300 하향…금리 부담 반영",
-        "summary": "",
-        "source": "이지경제",
-        "published": "08/03 15:56",
-        "published_ts": 1785740213.0,
-        "tag": null,
-        "first_seen": 1785745839.0751996
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 15:30:52",
+  "updated_at": "2026-08-08 15:45:52",
   "yields": [
     {
       "label": "3년",
