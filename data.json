@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qckowa0NiUERacjZhMjIzY29VRVFwbkY0M3A2b2ZkOGxJMmVMU09MUDBmaW5Ra1pPVVlnSlpJeGo1QWhUNkdoWHpZQkt4cVVZbUR2SzVOVWxFelBOc1YtSFdHWHF5RHd0Y2d5Tm4ySW8?oc=5",
+        "headline": "형소법 개정안 “안 읽어봤다”는 이재명 대통령, 주요 언론 일제히 비판",
+        "summary": "",
+        "source": "미디어오늘",
+        "published": "08/08 17:10",
+        "published_ts": 1786176649.0,
+        "tag": null,
+        "first_seen": 1786179637.7112703
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xaWhJOWp6Vm5zd3RLclhBbVJrMVZEc1pCSk84cmN1QXo2Q3ctcmwwbV9JNkFFVnI5dzhRNnlDaWFpQ0hteWdSQUdld3BKTWM?oc=5",
         "headline": "‘결혼 패널티’ 22개 공개한 李 “정책 탓 결혼 망설이는 일 없어야”",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785897206.0,
         "tag": null,
         "first_seen": 1785897930.8147438
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UMWEyQjJucmlTRGJDUDVsZ1FmYkNScm42YUJFc045bHE3LThJLVlYTUNiQjNlbHJ1U3BOLUtsLUhkTEJtdEJSaFl5TkdlYWtNVU1lUVliWTVoUEZaRXRqaGs5TEkxcDc3QWdibGY1aHd0U0ZG?oc=5",
-        "headline": "국힘 \"李정부 세제개편, 최악의 세금테러…핀셋 아닌 '도끼' 증세\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/05 11:14",
-        "published_ts": 1785896066.0,
-        "tag": null,
-        "first_seen": 1785901558.4053206
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xWlRuS1c3NExRNGtvQUtaUDZyd1ZEZjFOb2JuM3FwV2diX0xoRkRlVlJQbDZkblV5Y2xRVHR2U3VUZjN0VGJ6TjdKV0xtN1U?oc=5",
+        "headline": "“1998년 이후 처음”…美·日, 엔화 방어 나선 이유[주末머니]",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/08 17:02",
+        "published_ts": 1786176159.0,
+        "tag": "JGB",
+        "first_seen": 1786179637.7112703
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSmxLaEJUTk9ESU5xckpNbEg5TFdkSW5JdTVDTEUyU3Q3Ri0tazU0LWxfOC1aTGRzTlFta0JUdGNDb1BNMXcxZ1hmcUpwQW1WUmlyZlBKTl9wZElxM0xkVGdiRzVfLTVWZDQ5bWxMaTg3RHRKZk1fQlE5ck5udkU?oc=5",
         "headline": "How Rising US Treasury Yields Create Corporate Bond Values",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786097006.0,
         "tag": "Fed",
         "first_seen": 1786150838.5935824
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNd1VZLTFFMFQxT05oOVNScVJSbW9SNDZFMjVnc2JsZXI2TXdJWEVSM3p0NzlPTi1SQ2o2aEFTTWxqVVlONlB6NHYzcThZcmhQU1N1cWlGZmQ4ek53aDhzVVpaTTZQdEMzbkU4YTNwQnpldF94S0lCZ3FXZlNiSGlGZ1RQcVdEWE9qTXJHUkc5RS03d0hhZ3lQVGMzV2FQS0NBMGxkbG9tTjZNNUFqUjN4SjYyeGxyWEZTZWk0?oc=5",
-        "headline": "Jobs report will offer fresh test of Fed Chairman Warsh's less-guidance stance",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/07 18:59",
-        "published_ts": 1786096746.0,
-        "tag": "Fed",
-        "first_seen": 1786123830.8608036
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 17:45:44",
+  "updated_at": "2026-08-08 18:00:57",
   "yields": [
     {
       "label": "3년",
