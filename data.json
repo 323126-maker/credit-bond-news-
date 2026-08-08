@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdXlZVXJrTHN1RjhvbVROcThlLWtoSTV4Q3NUTHZMNzJheDRBMXFFVXVMNlhVV3h3Xzg4TTBjTGItVTVTc1ZnbHBxTzJ4QThadjhHODJrekxobGNsenl0cW01M0NOVkNINmpGYVVR0gFyQVVfeXFMTU9qbkZkX0d6MTFKanFtT1I4Ynp6U1QzNW9YbXo3cGhYRWgxZml2bmRPcFVsd3A5LVFkTHVJcng5em9sSThVbVRxM1pOUXk1X1J4ZFZ3Rm9XQnFfb1hpM0xLX2YxRzJ3bFNzY3RQUC1ITEtR?oc=5",
+        "headline": "[AI 10년 전 오늘] 대한민국 국가신용등급 ‘AA’ 상향…역대 최고치 달성",
+        "summary": "",
+        "source": "시선뉴스",
+        "published": "08/08 07:58",
+        "published_ts": 1786143480.0,
+        "tag": null,
+        "first_seen": 1786151731.7305188
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kTnp1S2ZLenJmVURDXzh1a2xvQnhfckpyTVpqT2pBRnJ1ck9FcWpYd3doTHJSaTZKVF9NUWFxWFhoaHZ1OWpuQ0VsYS1IbkFwdVV6VEdjdlFtQWFOSkhMZDhDLU44bW9u?oc=5",
         "headline": "‘마감’이 없어 더 매력적인 달러 투자",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786058975.0,
         "tag": null,
         "first_seen": 1786134631.6725507
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNN2hCUk0ta0FvMVdCdlFIQjBDanN4dlhfWHoySzNJSjlQc0Jtb25taVdaMHdOQTczMkdJeE5EMUEwZnduS093V1pNc3Jnb21fNlhveDJuS2Jja0VGRUtpVnpvUTRiS3dCa2xwdjVNcXZRdmdKOV9wNmcxT0dkbEdVM9IBgAFBVV95cUxNN2hCUk0ta0FvMVdCdlFIQjBDanN4dlhfWHoySzNJSjlQc0Jtb25taVdaMHdOQTczMkdJeE5EMUEwZnduS093V1pNc3Jnb21fNlhveDJuS2Jja0VGRUtpVnpvUTRiS3dCa2xwdjVNcXZRdmdKOV9wNmcxT0dkbEdVMw?oc=5",
-        "headline": "알파벳, AI 투자 위해 회사채 발행 추진 … 빅테크 조달 러시에 투심은 '글쎄'",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "08/07 07:57",
-        "published_ts": 1786057060.0,
-        "tag": null,
-        "first_seen": 1786067021.6393697
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 10:01:02",
+  "updated_at": "2026-08-08 10:16:04",
   "yields": [
     {
       "label": "3년",
