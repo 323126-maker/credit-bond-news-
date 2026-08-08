@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tUkJfZ2xoTzdEbWJldDEzSjlpV0FLaFc5emlBc1FDaE1OLWpHbEFSajRIOGZET0MwTk80R0p3cGdGR1hHVG9sSG5NZmdqZkxKNzlmYTJxLVRjLWtKSlh1cg?oc=5",
+        "headline": "李대통령 'ISA·주가누르기 방지법' 재검토에 與 \"환영\" 野 \"졸속\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/08 12:19",
+        "published_ts": 1786159140.0,
+        "tag": null,
+        "first_seen": 1786160726.7470417
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vVk05WkR0YU9mbVdVTXFTaDNJXzNGZHFESGxKX1FCWlpOYXRFV3FBdjlKRTMxREc5RGZYQkhVSlBTMGNFVmJ0MmNMdXBZX3ZfaFRSeTEwSFNzdHo4UFFaZzZtV2hFeGZnb1ZVVnpSZHlwd2gt?oc=5",
         "headline": "이 대통령 \"전환적으로 판단해 과감히 실천\"…6시간 동안 부동산 2차 회의",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785830100.0,
         "tag": null,
         "first_seen": 1785830443.4238267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tS3hEdkFvdURzbWJjWUc2ekExcGtxeVVNeWF6WDFWUUtOMVFaUHZERkctTkVEaDVuckVHT1VkandIaHh0WXVLRjcwQWFWeUxpb1RnNGhvV2FOTHh0M29wTXlfYw?oc=5",
-        "headline": "李 대통령, 전력망 확충 점검…“AI 전력 폭증에 송전망 지연 우려”",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "08/04 16:26",
-        "published_ts": 1785828370.0,
-        "tag": null,
-        "first_seen": 1785828634.6620898
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-08 12:31:02",
+  "updated_at": "2026-08-08 12:45:48",
   "yields": [
     {
       "label": "3년",
