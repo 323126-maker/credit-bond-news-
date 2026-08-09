@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUZyTFhvYzZOMFZCZ3VSV1lWNU5rZUw4dTNwdUkyWHlDWmlkdml0RWdDajMxV1ZCQnBGZmZJeElUMnZVR09Qc0ZZcEw5SW9lbWhDRTU1SDNlcEFicURLVFVJZFQwNk13N3lEeHNYakJsdVREakljdFFnaERBWE1jU3BxRQ?oc=5",
+        "headline": "Japan: caught between inflation and slump",
+        "summary": "",
+        "source": "Counterfire",
+        "published": "08/09 20:19",
+        "published_ts": 1786274360.0,
+        "tag": "JGB",
+        "first_seen": 1786278635.2852685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmpNNVBKa1Rha2pJdExXcUszZ3lBY1FtdS15akdmeld0bVhDNFdkakVzcGNWS0EtV3gyNmlFNGJweFZvQTRZTUp4SXdfZUc4UFFGd0NlbXktb3BOMG4zcTdiTllLaUotYWs4NHk3Mk85ZGQwTUhqTDd2dmlUbGZDUElaS2NMcWQ2NGp5U1pLemM?oc=5",
         "headline": "Chip stocks hit a wall, but the market did not.",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1786233600.0,
         "tag": "Global",
         "first_seen": 1786248931.1295133
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcFlkR1dCM09FVnk3V0R3T0FnQWhsd2FoV2R1cG1QZjNsVWo5VGNLYVlHNlJEN2ZQTjRqUG1Db25iVU40RGhXVDdfczBHSXZtQV9aTnRDQzNhdlEtNm1XNDBtY3UxTl9yNC1iMFZFbVNzcFJyX3VYdE9BLU9NSmlwdXJkU3dLbm95RkozT3JEUFpraWJ2ekY5dFE4eUk0QTBzdGNIVk9USXRma0xv?oc=5",
+        "headline": "The death of forward guidance: Why the RBA has gone silent",
+        "summary": "",
+        "source": "AFR",
+        "published": "08/09 08:33",
+        "published_ts": 1786231980.0,
+        "tag": "Fed",
+        "first_seen": 1786278635.2852685
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWp4ekl1c21Bdm0taVhwUnZkZWNjaVRfRHhqaE1YNDVXa1lxUXdPaG50dHUyRVB0Q0ltQ3RQNnFSeVJzWjZ1cTQwNzRGd2VtZ1ZJaEE4ek1PVVNwUjloakFxcXN4alVFXzNYOFM0QXdDMmxaQmN6VG1kSkJfdXg4Vmx6MA?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786159559.0,
         "tag": "Global",
         "first_seen": 1786207525.4963198
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9raW8wam5mYkJnVUdDWWNoUFctY2NkY0txZDJsMEtmNVBwZ3VBd25tbDFBazNHS3ozNHBPWldBZzRpMHFfZUJUbnhZTFY2Q2p6TUdDMU0xOGw4MXVvN3ZHT3J2UXMycGRua1huV2M2SnZmZlhraVpEUDRFV3o1eTFiQUowOWp5dkl2V3RudEVvcU9YMDlXX19sWlFRcUxkekRPSzFGVnB6SUdjenN3b0hMdHhha0daZTBsUGVlVHpISTVXNXhqOXNEa2dPVnJ3ZGJNZTRmWkhNZHVkeTYw?oc=5",
-        "headline": "GOOGL Stock In Focus: Waymo Recalls Thousands Of US Robotaxis Over Navigation Issue",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "08/08 11:32",
-        "published_ts": 1786156349.0,
-        "tag": "Strategist",
-        "first_seen": 1786245323.4448514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JS0JLVW9kbmJtSUQtdjZncUg4ZkhVQ3VwMDVxYXdtZHdWbkM3RFFFSGkzWGxfSGxvY1Y3aFowd29BRDl4RUxVRnNsbmZnWXBPQ3Z1RFBycWgzRmExWGVSbDJSbWg3OUNXYzlXM0hsY2pBbkc1OXh1bjdYQXc1WXc?oc=5",
-        "headline": "Weekly Highlights | Google AI Veterans Depart En Masse, Gold Returns to $4,300, CLARITY Bill Postponed to September",
-        "summary": "",
-        "source": "PANews",
-        "published": "08/08 10:30",
-        "published_ts": 1786152600.0,
-        "tag": "Strategist",
-        "first_seen": 1786159836.3525743
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 21:15:46",
+  "updated_at": "2026-08-09 21:30:57",
   "yields": [
     {
       "label": "3년",
