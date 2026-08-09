@@ -1308,6 +1308,16 @@
         "first_seen": 1786101328.5116875
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mR05vUlk3ZHpjaTRqM0k2cHU1LW1kN0JZR1dKR0JvMTJxRWJGQ29Yby1Qd01ES2p4MDB3X3A2Nklrd09kNWpYOURyd2JJUjYtanQ0N0xHVTRVZw?oc=5",
+        "headline": "'경기도 재정비상 선언' 어떻게 볼 것인가…이재명 향한 화살, 추미애 첫 시험대",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/07 10:45",
+        "published_ts": 1786067100.0,
+        "tag": null,
+        "first_seen": 1786238122.9643805
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcEcwekRIU29hUzNEbVJSbnR1RW85TTZUa1NseFRrOVNzTDZ3WWY0Q204NU5fcXdhVGZIWXJyaHpmSUhRRThzb3h3ei1zQTRNMElUc3cyVWc1T2NUMENFaVZldUt3T0xLTXZj?oc=5",
         "headline": "이 대통령, 오늘 수도권 주택 공급 확대·속도 점검",
         "summary": "",
@@ -1596,19 +1606,39 @@
         "published_ts": 1785897840.0,
         "tag": null,
         "first_seen": 1785921322.7137842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50bXdBengwSkd3YjQ3d0pPNGk0NE1qQldRSjVpcmRDM1JmZnBjMlVOa3JVMUctVW5HT08xRmE0eDJBcXZmUWhOUXoycDVha0d4dDdMem4xazlYQQ?oc=5",
-        "headline": "\"근로소득과 형평 안 맞아\"…25억 번 李 대통령 양도세 보니",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/05 11:33",
-        "published_ts": 1785897206.0,
-        "tag": null,
-        "first_seen": 1785897930.8147438
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0UzTUJUQjU2UHFFRVlmOGJpVGlXbXBVN1hkR2pCeFF5VHg1TXFhX2pWLXIxeUhDWUd6aUtmYW1zZ25jck1ycDJMVDV0WXpwbGMwVzhzM2hrNE9XR3AwTE5HcExVRFZBdzVsUUVuQ1lRX29hdE16dGRDU01ra3B2QzB4TjBoWnpCZFMyNGdHdU1vZXFhZXpQV2d5TDh1Q3loTlM3endKTEI4d3c?oc=5",
+        "headline": "South Korea volatility spike ebbs as leveraged trades are flushed out",
+        "summary": "",
+        "source": "The Straits Times",
+        "published": "08/09 10:05",
+        "published_ts": 1786237500.0,
+        "tag": "Global",
+        "first_seen": 1786238122.9643805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BaHR5WnQxUDlnajFaSDRydGc1dFRTR1FreWdPQVQ0cElOME4xQUFoclFHNk5TM3QwZnBhU2lDZnBRalhLT1JMbXNHdENwNkduTG01alFhRnJaejNET0tBSXNYVWhkb0tBLUdQTUhIaWJtQQ?oc=5",
+        "headline": "[엔 캐리 시험대] 공동개입 다음은…시장 안정 열쇠는 BOJ",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/09 10:00",
+        "published_ts": 1786237202.0,
+        "tag": "JGB",
+        "first_seen": 1786238122.9643805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE55eWV3YkRlZXRCWHNnOHc4eHhiaHdKYURIYlVyNC1rVkZhU3hrb0FCZXdHZFpINzRTQmhGZFVZYjZpVFhRUnR3c2JnSXNOUWJTWk40OFF1cE9lcEY3TDNUMzVqS2V5cGVCQlZhTDAwbUE4QQ?oc=5",
+        "headline": "[엔 캐리 시험대] 미·일 공조 개입 후폭풍…글로벌 금융시장 새 뇌관되나",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/09 10:00",
+        "published_ts": 1786237201.0,
+        "tag": "JGB",
+        "first_seen": 1786238122.9643805
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWp4ekl1c21Bdm0taVhwUnZkZWNjaVRfRHhqaE1YNDVXa1lxUXdPaG50dHUyRVB0Q0ltQ3RQNnFSeVJzWjZ1cTQwNzRGd2VtZ1ZJaEE4ek1PVVNwUjloakFxcXN4alVFXzNYOFM0QXdDMmxaQmN6VG1kSkJfdXg4Vmx6MA?oc=5",
         "headline": "IBM’s Post-Collapse Rebound: A Complex Risk Reward Profile Today at $233",
@@ -1978,36 +2008,6 @@
         "published_ts": 1786122900.0,
         "tag": "Fed",
         "first_seen": 1786183509.221159
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPYXMwWmtSNjI2VGgxYk5TLVpHVFhpLXhEN3Z2RlRqay1IUTdfV1FMQ2dOVmVjTmV1MFVYUzJyY1dTZ0RaX1Z2dkE1anJjazJ0aEdURTVCa2VsU3BORlNVSU4zeV9sSHJIY1hPRjhjdUI4U19nOUhGU3FqSmVkNUJCeThTbF8xV0dDbV9hUVRNVUVVcm1TX01JMHJTeE9JY3g2amx0R1dYUGdFU0UxcV85c09tb3ptMmJ2U1ZNU1Y1VEFEMXk0NjlpQXVjVDlyclhpTmc?oc=5",
-        "headline": "S&P 500 Hits Record Highs — But BofA Warns Bullish Sentiment Has Gone Too Far",
-        "summary": "",
-        "source": "tradingview.com",
-        "published": "08/08 02:08",
-        "published_ts": 1786122501.0,
-        "tag": "Global",
-        "first_seen": 1786134631.6725507
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAyUnV1bzFDN01NTWl3cExNUWZLVWxKQ3NMODdrTWhFU1ZPUUhqMFdDbWx1YWd4SFZ0eDJvQkF4QnVtUHFzV29DbWtXeTdPUTdYX2pDa0Q1THAxN1VTaUpIVGRBNE94VjR0OUJWU3JEX3JhXzFX?oc=5",
-        "headline": "$2.76B floods into high-yield bond retail funds as Iran peace bid calms markets",
-        "summary": "",
-        "source": "Crypto Briefing",
-        "published": "08/08 02:04",
-        "published_ts": 1786122260.0,
-        "tag": "Global",
-        "first_seen": 1786137324.2145197
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOLTB2MEtQcHBPTTIySTJRZnNnT0NBUkE1YzgxNEE4R3AxQzZPdkVhdFZsTzViZFRfQ0wyS1FmNGVnVi10MDhmV0p3SlZOZWtkclA3aF9kd3NWa0REeW0wOXliUEg0TVFobzByQ1JMNkhidzl5MHd6ZkJNQUlKa1cwT292cmhYU09pTTY0VEMzYjJYbHppRW1uTHI0TG5kbldqSG83RmhIcnl0cGdVNUVFcGloNmRfMXk0ajQxb1BnSjRveXcwMU9ZZXBR?oc=5",
-        "headline": "Trump, Warsh Talk About Economy ‘All the Time,’ Hassett Says",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/08 02:02",
-        "published_ts": 1786122153.0,
-        "tag": "Fed",
-        "first_seen": 1786122929.7559185
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 10:00:55",
+  "updated_at": "2026-08-09 10:15:47",
   "yields": [
     {
       "label": "3년",
