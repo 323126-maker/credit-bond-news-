@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TlBsLU1UbFhTdGZ5RE1TaGRINC1mWm9uTy1tSmFtRDU3aXRRRHJGWGZxTkhUWkRPaGR5QS1lSFpLeXk3c0hwWjNOVFhTZTZKOUdWdTIyU1I4bjQ1V2FWNkRVZ05rMnlnSXc1OFFReU5PUjRtZDk4bXdFZ1A?oc=5",
+        "headline": "한투운용 김동주 \"높아진 금리 레벨·수익률 곡선 흐름에서 기회\" [인터뷰- 채권시장의 파수꾼들 (1)]",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "08/10 06:00",
+        "published_ts": 1786309200.0,
+        "tag": null,
+        "first_seen": 1786309502.5897357
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmQ4SnI2VjBZV3dOeW80XzFMcGRDUTl1UDBzQk1helJRZnNzOTVTMk9fREZBakFqdWRZc29heHp0UzlWZGtBVTNMZENHNzB6cXBjV1Z2cEc1QUJVRmRzU2VFQjZMYkxfdzVER0xOdDJNdGRaMzJIY3VkSVU0WEZpOGVrN0doRGlj?oc=5",
         "headline": "AI 투자, 채권·SPV로 확산…한국도 리스크 관리 시급",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786086121.0,
         "tag": null,
         "first_seen": 1786086934.5207562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrZUh4QldiZzJKLWVyQzlJOVVKbDRYbENMeVpnWERianB6OHhZQ2kxT1BaTW5VZENsaFhKc0plSF9VM0g4QUptbGQ4MnBuR283OTNWbGZKVjJnbFpDLTl1RQ?oc=5",
-        "headline": "‘현금흐름 적자’ 알파벳, AI 투자 위해 최대 36조원 채권 발행",
-        "summary": "",
-        "source": "한겨레",
-        "published": "08/07 15:05",
-        "published_ts": 1786082700.0,
-        "tag": null,
-        "first_seen": 1786092321.6413894
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 06:00:58",
+  "updated_at": "2026-08-10 06:05:25",
   "yields": [
     {
       "label": "3년",
