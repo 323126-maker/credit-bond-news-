@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55TTZXS1RDZktnN2wtUk1SZ05pcnAzdTl6b2ZISGp5R0V3S0tILVBjQmg0bzM3NXYzMGpBTVU4SFpLUQ?oc=5",
+        "headline": "박성훈 국민의힘 수석대변인“이재명 정부 국정 난맥·선관위 의혹” 비판",
+        "summary": "",
+        "source": "브레이크뉴스",
+        "published": "08/08 18:36",
+        "published_ts": 1786181760.0,
+        "tag": null,
+        "first_seen": 1786243525.7105272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qckowa0NiUERacjZhMjIzY29VRVFwbkY0M3A2b2ZkOGxJMmVMU09MUDBmaW5Ra1pPVVlnSlpJeGo1QWhUNkdoWHpZQkt4cVVZbUR2SzVOVWxFelBOc1YtSFdHWHF5RHd0Y2d5Tm4ySW8?oc=5",
         "headline": "형소법 개정안 “안 읽어봤다”는 이재명 대통령, 주요 언론 일제히 비판",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785900289.0,
         "tag": null,
         "first_seen": 1785946532.4980326
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KTHpPbTNTYWE3VGstSTk3X25KR0xKZnptQjQxNUpzS3NQdjlBZW9nY2syXzNWZjNxWkk1cDM2QUFVNmc4cnVJTGJBTkRwMHlyaC1wQWc0ZEVycnlEM1FuXzF6Z0x0YzhCbThF?oc=5",
-        "headline": "부동산 여론 심상치 않자…이 대통령 “주택 공급 최대한 빨리, 많이” 지시",
-        "summary": "",
-        "source": "hani.co.kr",
-        "published": "08/05 11:44",
-        "published_ts": 1785897840.0,
-        "tag": null,
-        "first_seen": 1785921322.7137842
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 11:30:59",
+  "updated_at": "2026-08-09 11:45:52",
   "yields": [
     {
       "label": "3년",
