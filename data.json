@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1MTUVUU3FWNmNZNnVsdk5SenB1am9NT3FoNnJFM3hfWDBIM2pCWDFaX29PN043UlZ4cnlyZGNwdw?oc=5",
+        "headline": "[나라살림 칼럼] 미래대응기금, 설치보다 설계와 집행이 핵심",
+        "summary": "",
+        "source": "사회적경제뉴스",
+        "published": "08/09 14:42",
+        "published_ts": 1786254120.0,
+        "tag": null,
+        "first_seen": 1786255235.3931544
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43U1V6a2NQVlUwb2JibUhvd2pyQ0tkcVRlUnlHcmw2WkplZmlnbFhyZDByR3lMRjFxdzRIYjhmYUNaaEt4SE5aUEdzQ2V6R0o2MlpJQmNpNHIxcVZTcHhBU2p1YnZrLUViUVZBSFdqcWdRZw?oc=5",
         "headline": "[채권-주간] 7월 美고용 쇼크에 강세전망…백투백 베팅 줄어드나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785812009.0,
         "tag": null,
         "first_seen": 1785815130.0419886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsYXByV0JMZHM5YXJGN3ZGUmdFMUxDSmVsTnlYQVBMNVNaMHFqSDVRQnNhUXhCM0xUS00wQjFoZFZVXzZvbWprN1ZiYkJ5cVRrRDFqNGtCdUx1M0JKdXRKbQ?oc=5",
-        "headline": "둔화한 7월 물가에 채권시장 8월 금리동결 가능성에 무게",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/04 09:54",
-        "published_ts": 1785804840.0,
-        "tag": null,
-        "first_seen": 1785805236.9548984
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 14:45:46",
+  "updated_at": "2026-08-09 15:00:57",
   "yields": [
     {
       "label": "3년",
