@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEhnQ2pLVkVtRmp0djNucm1UX24zYnJla2htekp6Q1J3OWtfcmU4RmNlMWVMZ0lGNHpHOWxfR1RFTkREeWFTNnk2cGlNRjF5aUJsUDY2dFh4aDlXREN2RlptTzNkTVdJT2xkY2YtbFlfWWRGVE9DX21oTGZESVdUT0RENzlTT0o5MzVmOVlGcnRmOVU?oc=5",
+        "headline": "T-bill, bond rates may go down",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "08/10 01:07",
+        "published_ts": 1786291642.0,
+        "tag": "Strategist",
+        "first_seen": 1786292123.8132248
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WZk5lbEtIMDdDTTlmU0VVdnV2WUcxcXRET0VCeEpoeVRHSGF6bFV2aUZMcDhhdGF3MUJjWVhfaHViOGFHVFVXVFl1SHEySmxwR0NORnlKRVZ1QnZrNFV1Q3V4LUptQzE1dXc?oc=5",
+        "headline": "워시 연준 의장 후보, 금융시장 영향력 축소 방침",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/10 01:01",
+        "published_ts": 1786291260.0,
+        "tag": "Fed",
+        "first_seen": 1786292123.8132248
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUxPQ084el81aGpxeWtqUjMxclpPeUFGcUV6Mzh0S1dIU0tiTllvSHdHNkhOeFBXTE9lcWJkZjI3OUxVODNmakdjWDVFWUZYUzJXZ240and0YUNHVXB1VHhEazIxcldpNl80dm5UMHpCTDd5Z3JuQ3Ayd2JWV0E1TURFMEVzZWpLdkZuTU9YZ0h1WnhfY0htNUpwdERKeW8zcUc4M0t4ZklwelI5U0RsdVkwNG1nbk1zUGdJa0plZEE5VHlOc2M1SGxnSU9Bdw?oc=5",
         "headline": "The Fed needs to start listening to normal people",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786177650.0,
         "tag": "Strategist",
         "first_seen": 1786186834.5386147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1xWlRuS1c3NExRNGtvQUtaUDZyd1ZEZjFOb2JuM3FwV2diX0xoRkRlVlJQbDZkblV5Y2xRVHR2U3VUZjN0VGJ6TjdKV0xtN1U?oc=5",
-        "headline": "“1998년 이후 처음”…美·日, 엔화 방어 나선 이유[주末머니]",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/08 17:02",
-        "published_ts": 1786176159.0,
-        "tag": "JGB",
-        "first_seen": 1786179637.7112703
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZ3k4Ylo0YTlXcTFFckNZOEJjZV8tRGlJcEZVYjVOeHhTR3FHdG1aSlVjelVKUURuZzhaYlBqdHNhb0hXU0lwT3JhUHJFOFVRek1NT3hwZ2R2UlY0d2Q3WVVCeTg?oc=5",
-        "headline": "“For the First Time Since 1998”… Why the US and Japan Are Moving to Defend the Yen [Weekend Money]",
-        "summary": "",
-        "source": "asiae.co.kr",
-        "published": "08/08 17:00",
-        "published_ts": 1786176000.0,
-        "tag": "JGB",
-        "first_seen": 1786185027.5445044
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 01:01:02",
+  "updated_at": "2026-08-10 01:15:52",
   "yields": [
     {
       "label": "3년",
