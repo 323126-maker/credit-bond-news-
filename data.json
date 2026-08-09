@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVjZHZDk0MXQ2ZHFDREJQWmJxVkpOMXRLb19rQkFGY3ZRNWZZRlFKWllaTnVYVk9NVTZic1ZEeEI3VTZJeWR2RGJwQzRIcHBhNUpVWVVIR3JsLWwtSWktUGlFbGdMV1FCY1l5Q0dUODBZWm1QaGhub3JNQ2RVc1JNUzExMzRXR3FBY0Rzb3JvTHg4SEJlSWZkUjlqdGlEaVlOVXlSRFNsUE1RMTctSlJzWE9QZElOM2ZOTDVXdEVVYVdldW16NDZudkNiUVpfX0l1eHZnX24ycjVQenIyRXJWUUhjNEc?oc=5",
+        "headline": "Canada Fixed Income ETFs Gain Momentum: Why Bond Funds, Treasury ETFs and Corporate Debt Are Back in Focus",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "08/09 21:13",
+        "published_ts": 1786277580.0,
+        "tag": "Global",
+        "first_seen": 1786280434.9933844
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUZyTFhvYzZOMFZCZ3VSV1lWNU5rZUw4dTNwdUkyWHlDWmlkdml0RWdDajMxV1ZCQnBGZmZJeElUMnZVR09Qc0ZZcEw5SW9lbWhDRTU1SDNlcEFicURLVFVJZFQwNk13N3lEeHNYakJsdVREakljdFFnaERBWE1jU3BxRQ?oc=5",
         "headline": "Japan: caught between inflation and slump",
         "summary": "",
@@ -1820,6 +1830,16 @@
         "first_seen": 1786212033.8270187
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82aHJldWR2SXV6ZWcxaHlpOE02VE9MTnJTM1ZURFg2SFp6V3UyT21lb2t1d1dXU2FMdndsdzRwNzNYdHBi?oc=5",
+        "headline": "Alphabet Returns to Bond Market with Up to $25 Billion Offering",
+        "summary": "",
+        "source": "بوابة التكنولوجيا المالية",
+        "published": "08/08 22:25",
+        "published_ts": 1786195511.0,
+        "tag": "Global",
+        "first_seen": 1786280434.9933844
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWXpXTXl4NFB5ZXJpSmI2cmxCcjFBQjBIeGN6R19vNmREblItQmFEaHA0TWJ1ZVNlSmFuZHVLMTVYOHdxa1Z1eVp6R1dRcnkxSFdCWkhhMU1scGNpa3dwNzgyckNQcThfcVBua29INE5KeEFTNi1IUUhFbFU0MU9jSy1QVGlhOTFZM0VVeE1JQjhONlI4bXBTRGtDTG9YbnB0TUt4WHlBXzRnbjA4Z1kwX1FmaVRjVUhjR1hyb3VzQ25ZTmN6eTZqelRrMU9oSWh2SVE?oc=5",
         "headline": "China’s July credit demand seen weak as low loan growth fuels easing bets and hedging plays",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786162681.0,
         "tag": "Fed",
         "first_seen": 1786184132.2469745
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5wSmxLaEJUTk9ESU5xckpNbEg5TFdkSW5JdTVDTEUyU3Q3Ri0tazU0LWxfOC1aTGRzTlFta0JUdGNDb1BNMXcxZ1hmcUpwQW1WUmlyZlBKTl9wZElxM0xkVGdiRzVfLTVWZDQ5bWxMaTg3RHRKZk1fQlE5ck5udkU?oc=5",
-        "headline": "How Rising US Treasury Yields Create Corporate Bond Values",
-        "summary": "",
-        "source": "Bondsavvy",
-        "published": "08/08 13:02",
-        "published_ts": 1786161720.0,
-        "tag": "Global",
-        "first_seen": 1786170334.453961
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96cDdNaHlON2xTeGpYVkpyNVNyXzVaZnQ4enVXS1Y2UV92bV9fak1yOXUxS2dqVmhOSE85ZU5tX0w4S3dPS1ZDdmZUeXVfcVhlX0NLdTZaMVpaRk42U3IzcUV4UXhfTUlOVFYtZ1dzblFtNkM3R3dmdnZHV1pGQQ?oc=5",
-        "headline": "Bitcoin Emerges as a Leading Liquidity Indicator as AI Capex Growth Faces Slowdown, Fu Peng Says",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "08/08 12:25",
-        "published_ts": 1786159559.0,
-        "tag": "Global",
-        "first_seen": 1786207525.4963198
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 21:45:47",
+  "updated_at": "2026-08-09 22:00:58",
   "yields": [
     {
       "label": "3년",
