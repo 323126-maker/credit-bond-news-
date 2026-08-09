@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE44ZmlXVW9acWFId25XMWxfcWdhQlBSUFY5ZFJheDJCdUFTWExRRVRkaWlyMWRqSDEyQzYwN0d0MUJYZF9uckpGalNrNFZXb3UtRTJ3?oc=5",
+        "headline": "일본여행 가기 전 환전은 언제할까 [주末머니]",
+        "summary": "",
+        "source": "news.nate.com",
+        "published": "08/09 10:13",
+        "published_ts": 1786237980.0,
+        "tag": "JGB",
+        "first_seen": 1786239030.3457072
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN0UzTUJUQjU2UHFFRVlmOGJpVGlXbXBVN1hkR2pCeFF5VHg1TXFhX2pWLXIxeUhDWUd6aUtmYW1zZ25jck1ycDJMVDV0WXpwbGMwVzhzM2hrNE9XR3AwTE5HcExVRFZBdzVsUUVuQ1lRX29hdE16dGRDU01ra3B2QzB4TjBoWnpCZFMyNGdHdU1vZXFhZXpQV2d5TDh1Q3loTlM3endKTEI4d3c?oc=5",
         "headline": "South Korea volatility spike ebbs as leveraged trades are flushed out",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786131011.0,
         "tag": "JGB",
         "first_seen": 1786176923.4594028
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaV80a3BBclQxUV9GRGRhSHFHZThsbDFHMlFONzlwd2JUWnk5c2UwVnFwZ3l3WTRfR3hxd2pONHN5UkJrc2IwRVhNRWNwdExBWHR2dkhYY0R3d3VTelBIWVlFMFlBRWZZb1VfYVFiQ1FQcGtxb2Y3YWtiWUc4YWxhSnBYUXY3OEtRdnU0OQ?oc=5",
-        "headline": "Opinion | The problem with the Fed going quiet",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "08/08 02:15",
-        "published_ts": 1786122900.0,
-        "tag": "Fed",
-        "first_seen": 1786183509.221159
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 10:15:47",
+  "updated_at": "2026-08-09 10:30:53",
   "yields": [
     {
       "label": "3년",
