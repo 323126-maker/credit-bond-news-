@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSEhoZUJPT1FHT09pU0VOVUhfY2RqYk9NbEFqdnNuSGJhX0pXa0lYWmZ2el9jVzlmSVNzeGM2aGhqNm42bVpXZVQ3ZS1LekN0TlJIbHFpZDIydWlqMXFjcnhxMmR5ckJuSldTNkJSRU05NkdhNWhmd3RaQ3gwZUFMVERlRU1vSGdx?oc=5",
+        "headline": "치솟는 美 장기금리… ‘최고 채권 판매자’베선트가 꺼낸 ‘3장의 카드’",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/10 06:35",
+        "published_ts": 1786311300.0,
+        "tag": "JGB",
+        "first_seen": 1786311926.2695768
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBNOGt0dmV0aVh4b2NiUlgyQzdtRG5GVmktcWFMMUNYWE40dlhIc05VbXhpUmNDcmRiUzM0Z2ZfVGp2NlI3QWE4aGdmZnFJUFhkUWJZbGR6endoZ9IBWEFVX3lxTE9PZ1NnQ0NBb2psSjZKNUZtVUc3ek1tTk9zVUVqQWJ5UXJITmx1MXhpLV9WRVNnTnlNTXdwUTRVMl9DZHBEVWwxMTl3MV9Ia2t6azJRbEMwZlA?oc=5",
+        "headline": "美 장기금리 19년 만에 최고…베선트, 국채시장 진화 나섰다",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/10 06:28",
+        "published_ts": 1786310936.0,
+        "tag": "JGB",
+        "first_seen": 1786311926.2695768
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80bXJWMVpmbkxOcXVnUG5FNVVjVWZFMmV3VFBDa0oxS3hFSlhyR01veGJHcEhTQUM0dWZUcGYxWXl0QS1GZ0JXeXY4MEJyOGhxakw1QlIxelZ4WWgwd0o3Vw?oc=5",
         "headline": "美, 엔저 개입 진짜 목적…\"금리 발작 막아라\" 선거 민심잡기 총동원령",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786203125.0,
         "tag": "Global",
         "first_seen": 1786247126.4992843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB5dkItdVU3Ty1hcC1lYWZ6QjJuWGI5M0x3UlRKZE9PM3hFMno2WHkwN2lLUy1vUEFMd2Nsb0VWOHNFU1RMTW1BdFZFRmtTUVZNMlRkUDZnT1ZCQlB1R1BINWVaUWlvRTJ6cnotS2NIN0RyYld2Z0M3TjJpTQ?oc=5",
-        "headline": "Fed Chair Kevin Warsh Plays the Hawk But May Have a Dove Up His Sleeve",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/08 23:59",
-        "published_ts": 1786201145.0,
-        "tag": "Fed",
-        "first_seen": 1786212033.8270187
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE82aHJldWR2SXV6ZWcxaHlpOE02VE9MTnJTM1ZURFg2SFp6V3UyT21lb2t1d1dXU2FMdndsdzRwNzNYdHBi?oc=5",
-        "headline": "Alphabet Returns to Bond Market with Up to $25 Billion Offering",
-        "summary": "",
-        "source": "بوابة التكنولوجيا المالية",
-        "published": "08/08 22:25",
-        "published_ts": 1786195511.0,
-        "tag": "Global",
-        "first_seen": 1786280434.9933844
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 06:30:54",
+  "updated_at": "2026-08-10 06:45:46",
   "yields": [
     {
       "label": "3년",
