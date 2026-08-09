@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mVmFpRmtpQjF6RXg0UTZ5UjF5N2NmZnlPRGNkVzNuMzBmOFp0TXhuUmNSd2JGZmxWUVg4YTltR3cxaWQycTVHTlh5Z0tpN3RzWV9mMHA3a1RSeHBKU0x3cjZxOS1xRGM?oc=5",
+        "headline": "역대급 ‘부채 증가’ 경제…금융기본권을 생각한다",
+        "summary": "",
+        "source": "한겨레",
+        "published": "08/09 09:10",
+        "published_ts": 1786234200.0,
+        "tag": null,
+        "first_seen": 1786234525.5745463
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5DT19uS0x0TXg2aFBqdV9obTlhenNCUHQxeThCLWFWRkd4ZzhFSkVfeEdFOTdhWlUzRHZjdTJFU0ZuSTI5aWpiTjQ1MXNubmR6TmpMM0Rpd2RyODRoSWVERTRwUHVhNWF2SWRPaFVPeDA3c2PSAXdBVV95cUxPMXI0dFJyZzUzWjFlMl9YZ2kzVEdsOVByZ1JGVkhqSkEyTDVaeWZCWU9hY0d5MkJjemxuY2RFaUpKRFZqamNLRGxzSTYtd3JoMVQ5cm4yTWd5OC1MSE82UXh6SUhxS3ZyR1BiQ3RfaU9tM0E4bV9yNA?oc=5",
         "headline": "외국인, 한국 국채선물 12일째 싹쓸이…“금리 내릴 것” 숏커버 시작됐나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785750734.0,
         "tag": null,
         "first_seen": 1785753926.0530872
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEVlRlYjNiQURibGdQMGR6SVpwMV94V3pRa3BCLTJ0LWtfY25XLXRtMmszVV85Q09mUUE3RGY0OHdEZUxqbWlkUEZkQzRlWTY0V2NzVWVWMTY5Zw?oc=5",
-        "headline": "美·日 공동개입에 엔화값 급반등… 원·달러도 1420원대로 [미·일 환율공조]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "08/03 18:33",
-        "published_ts": 1785749604.0,
-        "tag": null,
-        "first_seen": 1785750324.282608
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 09:00:58",
+  "updated_at": "2026-08-09 09:15:47",
   "yields": [
     {
       "label": "3년",
