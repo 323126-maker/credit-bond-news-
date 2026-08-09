@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PU0NKeUxVR1NocWpBc1VoZXhfejV2Z2JXLUJlYm4wWnNiOGZ0QnZ0SWxoZjNPS3pVLVpUVUh6VDhPQk5GRkpZeEhWVm5ZcWZsd2g5SUVsWHJzSDNBT0d5dGg3aTFpLXluTUlvaXZJSQ?oc=5",
+        "headline": "추미애 지사 ‘법인지방소득세 개편’ 카드 통할까",
+        "summary": "",
+        "source": "기호일보",
+        "published": "08/09 18:14",
+        "published_ts": 1786266866.0,
+        "tag": null,
+        "first_seen": 1786267828.5303533
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTDdNRFp4TlpKeUVNVklaalYwODBZY0dDbk9pRHV6ZWJLb01jU0plcnNiMUt6R2V1LTRtUmNycDlCMHVpZ3ZId0FtU2ZRaHpMSlZ2UjBnM2FYXy1wN2gtMUZtSGVxVlQtU1Q1ZdIBckFVX3lxTE5CQVA2akRBN0R1UUxvOWV3bU52eVBBMGRIb2Jwa0ptNUJiMS0xRlU2dWtPMW9pNHNqY0xWcnNWS21KMTItQTdYSGtQcjJSYmthbVFrUHloaC1JSjNIMXNONGJTMXY5WmZXU3BNZjdqaHJUdw?oc=5",
         "headline": "장동혁 \"경기도, 민주당 8년에 '거덜'…이대로면 대한민국 '빈껍데기'\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785908368.0,
         "tag": null,
         "first_seen": 1785908723.535572
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Bb1I2M2ZaMnFiMWRxUFE0Wk1SMjFCR0NQbV93R0RMN2MxTmRiWUozZzN5ZTVxMWlFcXllUkc0eWVVeG1ieXl0VzZqeDd0TFBXN0pFWl9oV2x4MVU?oc=5",
-        "headline": "이준석, 秋 ‘재정비상’ 선언에 반박…“빚 증가폭, 李 도정 마지막해 64%↑”",
-        "summary": "",
-        "source": "경기일보",
-        "published": "08/05 14:14",
-        "published_ts": 1785906887.0,
-        "tag": null,
-        "first_seen": 1785907834.9537468
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 18:15:47",
+  "updated_at": "2026-08-09 18:30:58",
   "yields": [
     {
       "label": "3년",
