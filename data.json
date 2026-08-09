@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeV9hRlFMVUQ3RlB2ZkNMbkh5UjlXUWItRXZlVGdXdldXUFpWYlVRMXVsX1k2RUl6eXE2RjZBSnRmRUN6Q3hja1VGZWs2aGliX0ZRRG1yWlg5S1VPTTcyOWtkZnVTTkJ3dUlRUmFPWGJ1ZDjSAXdBVV95cUxQMVdhRFg4VUhEQm5VdG9YQTNBcDkxWWlscFdsVmoxM1BPbWFBczl6bzJqdndnb085RlRHVUtTVjA2SG5KNGl5VmQ2UTM1QTd0SWw5VGwxY3BjLTZhNEpiZlYxT3Rhak1ORkZMRmRCcGk0ZHhXNEk2VQ?oc=5",
+        "headline": "빚투 ISA 포퓰리즘에 무릎 꿇은 이재명 정부···제2차 거품 터질라",
+        "summary": "",
+        "source": "여성경제신문",
+        "published": "08/09 12:30",
+        "published_ts": 1786246200.0,
+        "tag": null,
+        "first_seen": 1786248931.1295133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55TTZXS1RDZktnN2wtUk1SZ05pcnAzdTl6b2ZISGp5R0V3S0tILVBjQmg0bzM3NXYzMGpBTVU4SFpLUQ?oc=5",
         "headline": "박성훈 국민의힘 수석대변인“이재명 정부 국정 난맥·선관위 의혹” 비판",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1785905880.0,
         "tag": null,
         "first_seen": 1785906043.0487554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aa3ljSWE5aWlsal9hei0ycnEzMzlsRHpuY3gyUTltV19FS2RxQTdxWXIyVzFyZHBRRF8xd0NKQkpySkF3S3FaM1g3aGlZdU1ZanluaC1n?oc=5",
-        "headline": "추미애, 경기도 재정 비상 선언 “마른 땅에 풀 한포기도 안 남았다”",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "08/05 12:24",
-        "published_ts": 1785900289.0,
-        "tag": null,
-        "first_seen": 1785946532.4980326
       }
     ],
     "global_bond": [
@@ -1648,6 +1648,16 @@
         "published_ts": 1786237201.0,
         "tag": "JGB",
         "first_seen": 1786238122.9643805
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMC1PRjV2T1l0MEpRQW1QME1lN3pzb2d3QjhlV1NlRTBnc09oNmJoMnQ2Y0JPbzA0X3NfRHhoaFRHeC0yU18xZFZ5SHhqdldodVBpYVU3RnJjUnlQS3RJVUNrT1g0Y3lYc2tiWGV1SC05bXRJRVV0WEd2R1R4V0xhZTZILXZ2MkRWTk5kQ094QlMyS190OHFWeElMVFdpS2dNTmt1QjJQbXRBSjJqYmpYTHhreExIR1lq?oc=5",
+        "headline": "Local institutions prop up EGX in 1H as foreign selloff tests market depth",
+        "summary": "",
+        "source": "EnterpriseAM",
+        "published": "08/09 09:00",
+        "published_ts": 1786233600.0,
+        "tag": "Global",
+        "first_seen": 1786248931.1295133
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWp4ekl1c21Bdm0taVhwUnZkZWNjaVRfRHhqaE1YNDVXa1lxUXdPaG50dHUyRVB0Q0ltQ3RQNnFSeVJzWjZ1cTQwNzRGd2VtZ1ZJaEE4ek1PVVNwUjloakFxcXN4alVFXzNYOFM0QXdDMmxaQmN6VG1kSkJfdXg4Vmx6MA?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786138440.0,
         "tag": "Fed",
         "first_seen": 1786139125.129958
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSeUlrZ2JCQy1pTU1yNmEwUDlFNHluT19nQkl6a1VQMjRncG8tWFo4MU9ObjJKUTZ0U3hFNUhvZkl3amtlT01KcFB1STdSMnV5VER6T3U1ZnhKU0kzTEo5eTdHUlNJZ3RfNXl1cG9yNTJPX2M?oc=5",
-        "headline": "엘에리언 \"워시, 오해받고 있다\"…쿡 이사 해임 재시도엔 \"시장 무반응 흥미로워\"",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/08 06:19",
-        "published_ts": 1786137579.0,
-        "tag": "Strategist",
-        "first_seen": 1786138231.5354373
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-09 13:04:56",
+  "updated_at": "2026-08-09 13:15:53",
   "yields": [
     {
       "label": "3년",
