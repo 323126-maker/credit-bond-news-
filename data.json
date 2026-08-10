@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9PS0stN0RKcWFlV3BjRmVzRC0zWFIwOXN0T3EzTVExSU1zR3BBNGdjT3BmM2QweHcwaXJzSXhjMmppVkhoQWtsRHVCZ0RSYktWcVFTWDFYN1BzdjUtZUJycnR4MnA2cUNBaHdnYmlpUzFrbTA?oc=5",
+        "headline": "그리폰, 8억 달러 규모 선순위 채권 발행 추진…\"2028년 만기 채권 상환 목적\"",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "08/11 05:11",
+        "published_ts": 1786392703.0,
+        "tag": null,
+        "first_seen": 1786392926.6279895
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzM1lJWmhmT3B5VjRnS0JWT212TmxmSTF0bllRSGpDRkQ0Y2JtZ3VVS3k4WHh0VExVaVF3YkJtRmR1dUpiNjB3Z0hRSE5ad0FhM1FN?oc=5",
+        "headline": "101% 폭등 뒤 22% 급락…\"반도체 대박은 끝, 이 종목 사라\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/11 05:01",
+        "published_ts": 1786392060.0,
+        "tag": null,
+        "first_seen": 1786392926.6279895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qaGJDTlJjZm1lQmZwc2JvNHhfaWkxOV9ZYzRudHJNeWVKVWRjS1VZZmU5R1hoMUYyc0cxOHFDV3dLUldSSlE4bGxydDV2a2VqdUl3VlBjUFZjVUYzeGx2M2I2eUJPbGlIWVZuSjBXNGU2Zw?oc=5",
         "headline": "[뉴욕채권] 국채가↓…유가 급등 속 물가 경계감에 고용發 강세 되돌림",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786320356.0,
         "tag": null,
         "first_seen": 1786329925.1111288
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1fcUFPWF9MZWdKWHJNaDlzbzF2aUMwRjZCOTVXWU9BcUxTcTQxQ2tXT1FwUGZ3YXhERDgweUFJQjJhSFdOSngyWUMzczlKb3F2dkhuWUNWalZPTk9SVXphcW01dzNlOEd4X0FxMVgtVjk5RV9FVTdDOUhNY28?oc=5",
-        "headline": "[두산그룹 줌인] SK실트론 인수로 반도체 '수직계열화' 완성...200% 근접할 부채비율 부담",
-        "summary": "",
-        "source": "빅데이터뉴스",
-        "published": "08/10 09:00",
-        "published_ts": 1786320000.0,
-        "tag": null,
-        "first_seen": 1786321831.4389226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWFZWjZkRktPTmFLMnA5ZjhEVTE5Q1c2MmJISGEtT2drZkRrdkxOaFpscTF2bk9kWUNvU2hNNS1ZVUtsUEJfQ2ZWeWQ1QWowWnhFSDcwSXRjWVg2NGtiZl9qVk1qbmZGaGMtaXJfZk1ENEpacGczUHJoVUVQc0JsblVSNjN2NXZm?oc=5",
-        "headline": "日 3대 은행, 외환 유동성 완충액 확충… 중동 분쟁발 ‘달러 경색’ 대비",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/10 06:55",
-        "published_ts": 1786312500.0,
-        "tag": null,
-        "first_seen": 1786312834.062106
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNFBmWmJkaTRiUE10bHZVUTRyRWpRZlpVLWhtdjNtMnhTc1RTTkwzQkpBM0N4ZUI0bFpzdGJ2Qk1WZ09MTzFWblhPMnhzTXNNTENrMFpmb3dDVnF2bTdGeGZWaUM0aVIwSzVONjUta2tvMHcwbk1yX3BQUzdBbzBzalV0MUFGRDdHWEh5c0hRTG56WWtXYmpyeGhhd0piVUdqS0IwMEZBVGNlaEpOX0dHX29R?oc=5",
+        "headline": "Trump Downplays Talks With Warsh Amid Fed Independence Doubts",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/11 05:01",
+        "published_ts": 1786392089.0,
+        "tag": "Fed",
+        "first_seen": 1786392926.6279895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOVZJUkE1VUhYckVRS21zb3hfMjRRa1JlRVE4aE9hMERWaFRrSHUtdDRmdXlaWk83dXkzTlFWYzhXemFvdTFORk9jaTBPZDEyVHRzUDVvbUNuZlJnbGctYXo0V0RPQWdnNElhN0hPTzZnbE0ySlRIUk5VVzBDMndSZHRJdnFCME82M2xKbWJ2eUNlSW9WX09zUnNsTlJabjhKb0RJTWRRS250WFJZeVo3OG5Cd0ViazdpZDlSYVFsM251OHFtNUFkSFVUWlhhRHdISWl2bFE1ZDHSAd4BQVVfeXFMUDVHclo2YjlyTEQzTE5FemxqenhsZEx4dGN0RXE4eTE2cTI2NlFTcUxzOEU0N0RuTVdZMGViMDNkT1ZCNEJfc01oenNhUDFZSy1ndGxVemlpT2ZaVm5HbXd6alpWd1N4ZVh1NnZPNXZ5RDNJQ2MtcTBRM3M4WFlDc204MnN4Tmw2bDhjWHRTNHFtYU1OWmpQTFhEb0RwWWVULWhhMkVvYVpqLWZvTno4TEYyNmw2aElUWVVVaXM4bGgtb0R2WkxzemF4dWJwTGdrNEF2OXdqRjNic3E0YXdB?oc=5",
         "headline": "High Dividend Japanese Stocks Worth Watching As Bond Yields Rise",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/10 19:34",
         "published_ts": 1786358083.0,
         "tag": "Fed",
-        "first_seen": 1786358727.2892485
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaVVOQ0I1aHo3Y1hteHJnWW1Pa2hXRnoyOExHUDJfRXMyTTBpVDRwMVdaLWZYS0pocFQ5SnNBNk4ydWdYUFZQYTNWQjM4aXdMSWRJcHpKajMyb0JhQURuanFDb1AwQnpveVJxUXlWemYwU1ZRMURHUWRVZWdfN1pKVkQ5RkJBR08wNXpsczZNTlg2ZTJxNFE?oc=5",
-        "headline": "This ETF Brings an ESG Focus to Euro Corporate Bonds",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "08/10 19:30",
-        "published_ts": 1786357800.0,
-        "tag": "Global",
         "first_seen": 1786358727.2892485
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 05:06:20",
+  "updated_at": "2026-08-11 05:15:45",
   "yields": [
     {
       "label": "3년",
