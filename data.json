@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZbndwTkR5emRPVW1xZXhxLWp4d1RaSm9ZSUx4dlc3QUNaNXRZOXhGT0U5cENXWG5RVU5WS0xzaEJuVUlOVmowMWhENmVuOVRBTmRUSmNCWlp1SUlJdUNJTlVpMERSRmYwVGZGaFBwU0xuS3VwU2FyYjVpUdIBgAFBVV95cUxQRC1sQ3EtQlVDOHlBZ1drYTVhTXpXZGphTExVV1g4QlZIczREQWI4VEJzWEQtSVhPMlUwOHJJWWVwSEV6QXVvX3JpU1k3SV9lRWFXR0ZmeWtRTTRWQzlybF90b1JzbjFoX0lod2xzMG9wdlpjMldCdnNhUU5qWXp1RA?oc=5",
+        "headline": "[단독] 급전 확보도 산 넘어 산 … 건설사 절반 공모채 발행 막혔다",
+        "summary": "",
+        "source": "뉴데일리",
+        "published": "08/10 11:01",
+        "published_ts": 1786327265.0,
+        "tag": null,
+        "first_seen": 1786329031.703917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaFFxOFBPZnFVcDF4UWZMM01DM2ZfUHFZa0NTVEJWdUxJMTdfTDVYS2hjS1dORktyM0dqUUwzX2paMjFrSVhSbHBnNFU1Unl2SnFv?oc=5",
         "headline": "[월간 DCM] 삼성증권 '빅딜' SK에코플랜트 '핫딜'…한진 '미매각'",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1785816667.0,
         "tag": null,
         "first_seen": 1785817833.890233
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9kV3NrZGw5MWMxa2pRU2ZFaXRKMjVQVVUzN2lxTlVlRmNFM21LSG1LdVNiYmY1dXgzTFlkOE5lMWtCWWpxU3kyVkJtbGoxdGNqMDR6bUR1NkFtQ3FQeldrTQ?oc=5",
-        "headline": "중앙그룹 채권 피해자들 \"JTBC 채권 손상차손 미인식…감리 필요\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/04 11:16",
-        "published_ts": 1785809760.0,
-        "tag": null,
-        "first_seen": 1785810629.9421494
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyQTVYb3VJS1k0QlF6Tnh3Z1Yxa2s4Q1pfTFNhSEdhYkU5eEVZNS15cDNVV2xnaGpPSk15dzExcFdMOFlTRkJDaHdWNmIxXzlaMmxiV0RQdlV6S1hjNlFyWU9OVWdtOFRKWjNfeTl1U1pXQQ?oc=5",
+        "headline": "백투백 우려 속 외인 매도…국고 3년 2.5bp↑",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "08/10 11:19",
+        "published_ts": 1786328391.0,
+        "tag": null,
+        "first_seen": 1786329031.703917
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNzNmWUtpQmRiZ3kwM3pqWkZoSU5kZVRIQmZ4d3F5ektmaXVDOXNLbV9fUmNXTF9yTTFHTHMxNE1YQUphbjdLd19BOUNKbkdUamVUVG04MEFmRmk5QlRxM1A4cEM5YzcxWi0zeUs3ek_SAXRBVV95cUxPUWVfXzBBd0UxTm5FaFJrMmJXaThNbWNpYUdNYXdyZHc2Y3NSTGtNcnVVU0hQZkMzTWJkZ1F6YWMzUDlzQUZ3c21JN2FPWnlBZ2ZiMGpncy1OWDFTZGRYaUticzNjdGZUM0Fqb2Ffd3lNNEhGVQ?oc=5",
         "headline": "7월 채권시장 위축…외국인 순매수 급감·국고채 금리 상승",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785833447.0,
         "tag": null,
         "first_seen": 1786064439.4471338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5mVksxWjZXd3RncmxwQ0M1cldJVlRMUmphek9GMDdYc0ZvaG9OWFFsTzdLN1V0MHp2Vlh0VHBkdmE5a05JRnNKb3NRVnotaWJGYzRMZzVDeTREU1pwODZaaFpfcw?oc=5",
-        "headline": "인플레이션 공포에 美 국채금리 발작…꿈틀대는 대출금리",
-        "summary": "",
-        "source": "쿠키뉴스",
-        "published": "08/04 17:49",
-        "published_ts": 1785833389.0,
-        "tag": null,
-        "first_seen": 1785933038.3614125
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 11:15:46",
+  "updated_at": "2026-08-10 11:30:53",
   "yields": [
     {
       "label": "3년",
