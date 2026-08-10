@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JZGhuX1FuNzBfTUE5NjlCWDFfZUEtcUpNc1VaeTI2cDdzYjZiLWNxTWZsX3RCTTVRZmc4ajJkcy14VWVzTklEODZNMFhrWEhfMUN1RFh6endwOUltMkZyQnpiZExFSWppZjFybTdSMXFjVWhNQlpF?oc=5",
+        "headline": "S&P, 채무 감축에 그리폰 신용등급 ’BB’로 상향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/11 04:18",
+        "published_ts": 1786389480.0,
+        "tag": null,
+        "first_seen": 1786390232.6224408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPX1o2a0pHNDR5V25pd3YzVmFlaUVuMXZHLXRYNDV4X01uc0NsbFBqdVNPR3k2cjJYc3Rram1lZjVuQ0x5eWg0dXg3eGJ0YzdLYl9QbW1EanJFQVJIOVpPSTRFWXhIU0trckk3X0VqaUlGZ0ZLN0J4T3RCbFhyU3VPVGhuSmVmbDNqN21FVVNn?oc=5",
         "headline": "채권 시장 및 신용 거래의 안전성 강화.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786306219.0,
         "tag": null,
         "first_seen": 1786319124.0612183
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmQ4SnI2VjBZV3dOeW80XzFMcGRDUTl1UDBzQk1helJRZnNzOTVTMk9fREZBakFqdWRZc29heHp0UzlWZGtBVTNMZENHNzB6cXBjV1Z2cEc1QUJVRmRzU2VFQjZMYkxfdzVER0xOdDJNdGRaMzJIY3VkSVU0WEZpOGVrN0doRGlj?oc=5",
-        "headline": "AI 투자, 채권·SPV로 확산…한국도 리스크 관리 시급",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/10 04:05",
-        "published_ts": 1786302300.0,
-        "tag": null,
-        "first_seen": 1786303837.7249546
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 04:15:49",
+  "updated_at": "2026-08-11 04:30:55",
   "yields": [
     {
       "label": "3년",
