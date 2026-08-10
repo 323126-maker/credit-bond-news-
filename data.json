@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTkhMZGY2LXFidjVBX0tjUE5DV0xHN0NVcXlpX2RyWGFWM0ZTR0xwYzJwUlRKSzlVT3NvRXhxTTV3a2Z1bnd6RUd4eWoxWDBDQUtkeGlnQ21nOXdYdXFXN3BiVzI5UWx4UERpQ3NDYUVSaHlKdnRnN3RMeDlISTM1VmkzWEpQZWQ1SkRtWmtfelNEUFJM?oc=5",
+        "headline": "This Income Fund Has an Aggressive Risk Profile",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "08/10 19:19",
+        "published_ts": 1786357183.0,
+        "tag": "Global",
+        "first_seen": 1786357837.60727
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNbGVlbFVVVEc1ZGZ1SUIydEhvQUxBUkVSYnpNcmtUN1J0S3FLS0FUVWI5UWI1SzNuelJrbXFyWHFRUmJhc3RkbWZZN0hoYmFMekNJNm8wRkEySXRjZlgyZDJwQnJRN1JWcFgzRDJPUGFBUHk0R3dMZGFFblA2UW5rNnh6eDJwdUlBeUFfcFV2VUwtemFHblY5NTNoLVNjT3hndXIwdG9rYzUwaE8xdjBqc0N0enRBd2cyWFRrWFZGOVlkcS1lVi0yWHo5bG5sUkEtcl9TdFN4SFg5aEhSbnlVMzZqTF8xZDZNMnJJWWRVc203d3BIYmVuTFhHX1hXQmxrZnMwZGVGV3RTUU4zbTFrR21JS3ZlVFhaVVBtSTEzelpUTUJa?oc=5",
         "headline": "Stock Market Today: Dow Futures Slip, S&P 500 Gains as Trump Says US Is 'Only Semi-Negotiating' With Iran",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786336572.0,
         "tag": "Global",
         "first_seen": 1786339839.357901
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnJ2dlFkLVZ6MUQ3YW9ZSkI1VjQ0YnpJYmdOWkJQUGxCSm9yRmxuck1IRWptOVU2c004RzFlMndPU2ZMNkFDc2tMWGd6UnJueTFEN0hYMjgxelN1dm44b3FuWWlwUy1EWFlyUGx6WE9rc21VcXU2Wmc0S0ZoM0duSmZJSUZFd3NfMENzMGhmVQ?oc=5",
-        "headline": "Japan’s Bond Yields Climb As Oil Rekindles Inflation Fears",
-        "summary": "",
-        "source": "Finimize",
-        "published": "08/10 13:02",
-        "published_ts": 1786334562.0,
-        "tag": "JGB",
-        "first_seen": 1786336238.830452
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 19:15:44",
+  "updated_at": "2026-08-10 19:30:59",
   "yields": [
     {
       "label": "3년",
