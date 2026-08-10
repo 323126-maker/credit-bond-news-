@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVXVIZG9lX3JMZ2xaRHZBNXlIb0tGRlAydmVZSnZqRTd1RjhDcmlGVE1MdndpYUhoTDkzeWxodGhrRUViZEtBbzhqTG55VFhmSHZYWnJEYlVnazBJcXVaLdIBeEFVX3lxTFB3VUM5VEt2NVNYSk1uSHZZa2xTMXBZX2ZpZXBKcEFyZXdva2hmV0pab1BJcmhCWmJvdk8zZi1adUh1TWFKYjh1MGkxYXo1LXlhUlpRa2V1aExDTnpDbEYtLWVkd1pVYWxmdEF5RmtveUp1MW1aSXhxcQ?oc=5",
+        "headline": "중동리스크·환율상승…7월 국고채 금리 전반적으로 상승",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/10 14:44",
+        "published_ts": 1786340681.0,
+        "tag": null,
+        "first_seen": 1786341636.238761
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90YXVhMjEzTk1HN1NabndFbWp2eWNDdUFzTk10WEc2dHcxQTFzSE9iTEN4ZVJKRDlfb1U1Z01HTEo2MFVyZURTOGVYbGNDdGFFOUFZa29Da3IyWFdRMDJNWg?oc=5",
         "headline": "국고채 담합 후폭풍…재경부 \"PD 위축 안돼, 제도 맹점은 점검\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786128153.0,
         "tag": null,
         "first_seen": 1786319847.0834453
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yWVFqSTg3SHFsa1p4XzhRU1FGLXR5a1lUdlBjQmI1NndOSjlXWGt0eUFRd0tXU0V1TkdvMlU0amM4NVRRZDBnM3htdWpPTldzaElQelVrNUczMWczeWpFRQ?oc=5",
-        "headline": "'AI 빚투' 소화불량…월가, 채권 발행 전략 다시 짠다",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/08 02:17",
-        "published_ts": 1786123020.0,
-        "tag": null,
-        "first_seen": 1786130126.1440444
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFVXVIZG9lX3JMZ2xaRHZBNXlIb0tGRlAydmVZSnZqRTd1RjhDcmlGVE1MdndpYUhoTDkzeWxodGhrRUViZEtBbzhqTG55VFhmSHZYWnJEYlVnazBJcXVaLdIBeEFVX3lxTFB3VUM5VEt2NVNYSk1uSHZZa2xTMXBZX2ZpZXBKcEFyZXdva2hmV0pab1BJcmhCWmJvdk8zZi1adUh1TWFKYjh1MGkxYXo1LXlhUlpRa2V1aExDTnpDbEYtLWVkd1pVYWxmdEF5RmtveUp1MW1aSXhxcQ?oc=5",
+        "headline": "중동리스크·환율상승…7월 국고채 금리 전반적으로 상승",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/10 14:44",
+        "published_ts": 1786340681.0,
+        "tag": null,
+        "first_seen": 1786341636.238761
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04aGlBQUNlZTRLakFpT1VsdUk1ekxOaUE0amViZ2N0aU9NS0lWbFIwRk41Ny1NTDhMb09TRlg3NFA1Sk1DcmxXVkpiYk0?oc=5",
         "headline": "7월 채권 발행액 13조원 감소…국고채 금리 상승 여파",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785910052.0,
         "tag": null,
         "first_seen": 1786119324.6464746
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA0dHNhcUVvX3k4cF93amlaaUhmQzFValJWSl9qNENrTUxuOUpVMWdOLVZVUXdLaTVOOVdSdkNMcE5FVHpXamJxNXdYRnc5TDNWd085cXh2ZWMtdEtMZ1BYakJhR1QzVUdDSnc?oc=5",
-        "headline": "7월 급락 후폭풍…8월 증시, '외국인 수급'이 방향키 쥔다",
-        "summary": "",
-        "source": "데일리팝",
-        "published": "08/05 14:10",
-        "published_ts": 1785906600.0,
-        "tag": null,
-        "first_seen": 1785917725.9006896
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 14:45:47",
+  "updated_at": "2026-08-10 15:00:57",
   "yields": [
     {
       "label": "3년",
