@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPamQtQlA3a0lXUHNzSkJDMUhVQk0wYnF0UmViZVJ1Z3M0TWZlX2w0YzRGTUpBNGczdUxsSXV1WUotUXhPOHZtcWVLdGFmYzUwd21JNG9nMHRyNGF3M1EyT1hwOWh0ZkFIVnZlWU1EbDNHM2VTaWRvdTBuNXdWcWdfZFhCYTlDVklvdnFoYjVDNDdPU25iMzJIbGM3c0xIWW9xZ0dEcFhnRmtkSnNuRDktUVk0OGREX0ZRZmV6VXo4RXExa1hFc1A4X2hsVHFQTGc1TlN4RlJMVlZ0OVdRMnFIclBtOVpucnJHT3A1T3VrOE5UR2habHp5WVN1VHQ0RnpEcTFzdzVEcTYxZFhsNHUwVWY2ZnBnV2lsTVlJV1I0RnNfeVkwUDhHQmFDZ1NwOW1kb182YnZMc1pCMjJXc2RtU2p5dnE?oc=5",
+        "headline": "Fed Chair Kevin Warsh Has Held Rates Steady in Back-to-Back Meetings Since Taking Over in 2026. What His Cautious Start Means for Markets.",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "08/10 23:36",
+        "published_ts": 1786372570.0,
+        "tag": "Fed",
+        "first_seen": 1786373125.5742345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGZIN1hOR2swZnNqaEc3WHlPY3dwQkRPUTFnZ2w1SjJCQkdrRml0cTlRY3gxcFZJVk54V0NnYXB3b05VeFppems1SGZzVHhtYWxUMGJ3bkZpMl9HU2ExUEdTdzNZWl9DWW9sWjYyX0lPMi11SDJ6YlI2N2J4c2FPUVM5a1ZwcEtTS2J3?oc=5",
         "headline": "Embraer ADR Representing Four Ord Shs Stock (EMBJ) Opened Up by 9.25% on Aug 10: What Investors Need To Know",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786349100.0,
         "tag": "JGB",
         "first_seen": 1786356036.3426325
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQml1X3BJa2ZwYlE0Z1hmVXZHdlRrazVzQ1E4cGt4Qk9Jbk03Wml1NEFNOEhxTnphbk8zMnBsZTNYZGxyQVFieU1Tak55V1ZKeVB1TG4tVWdyT0JjVkNuaFVRSGZ3NEJMV0FBR2tSOXQ0Vm9venljdXRmRTN5dm9CQjRCNEhFcGFfSzZSZC1SRExOTWI4cWJJMGF3Q2pBcWVqQ2pFVnRlWkUzRGpEQWc?oc=5",
-        "headline": "Australia’s top market whisperer on what actually matters now",
-        "summary": "",
-        "source": "AFR",
-        "published": "08/10 17:00",
-        "published_ts": 1786348800.0,
-        "tag": "Fed",
-        "first_seen": 1786349724.9617295
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 23:33:46",
+  "updated_at": "2026-08-10 23:45:47",
   "yields": [
     {
       "label": "3년",
