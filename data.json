@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90YXVhMjEzTk1HN1NabndFbWp2eWNDdUFzTk10WEc2dHcxQTFzSE9iTEN4ZVJKRDlfb1U1Z01HTEo2MFVyZURTOGVYbGNDdGFFOUFZa29Da3IyWFdRMDJNWg?oc=5",
+        "headline": "국고채 담합 후폭풍…재경부 \"PD 위축 안돼, 제도 맹점은 점검\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/10 14:18",
+        "published_ts": 1786339080.0,
+        "tag": null,
+        "first_seen": 1786339839.357901
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82aXE0QmM2TXE5X0F2V2p2U2lES1gwRVRiQTBpYkRBSDZtQzV4Vk0xQXBVS2ZQUkhmeHZhZW5qMEtRZjdCZ0ZEX3dCTV9HbUZ3dmtyb2d4Tmx6Zw?oc=5",
         "headline": "금리 급등에 채권시장도 얼었다…7월 발행 13조원 급감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786123020.0,
         "tag": null,
         "first_seen": 1786130126.1440444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB5NnFBOWFVdDViUy1CZVRHMHdfSlpPQVh0VEdtVFdXZ3ptaGNVZHdjZkRGal9UaWYyX3pFeU9kM05Wc0RVbEZzM1ZVTGhjYktVZUxUc2VOTUVMMXU5VzhIYlVfcHY5dHlWUmw1X1BoT3J1RU9aemc0?oc=5",
-        "headline": "CVS헬스, 무디스 신용등급 전망 ’긍정적’ 상향...턴어라운드 덕분",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/08 02:04",
-        "published_ts": 1786122240.0,
-        "tag": null,
-        "first_seen": 1786140926.1785598
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXpNZUtUcE45a0NMdlpmZFlYeHl2b2lzWnZhZUx0dHNXcndIU3h1bUt6WUxxMFlUbFZLQTN3Rzk5akhKZlEtak9PVlowaU5oT0pNNENKdnBIUmhoMG9uQm5sLWxBOUxRU0FFSVZtWE05OURTajBkU01jd0FETXpIeTFPXzV4UWpKV0xCSjdHUWVsT1dPbnlZTw?oc=5",
+        "headline": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "08/10 14:19",
+        "published_ts": 1786339190.0,
+        "tag": "Fed",
+        "first_seen": 1786339839.357901
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFByaHlVbkotZ0pucXFMSGVjRlRfRE54Z2ptOUZWTk5HSEVqZlBFSkRQa3Q2VlY4SnhhdHpyV3p4MXpEZ0Y1cFcxd2ZRV0JBcVFVWmVJamlCVXRkVVJkRXVJSi1mcVpuQjQ?oc=5",
         "headline": "원화, 아시아 통화 중 낙폭 최대…달러 강세·엔화 약세",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1786337340.0,
         "tag": "JGB",
         "first_seen": 1786338933.811494
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPeWt6dG44a0MyRFhTYVR1T2JFYnRUT2ZYRGNsdExENUFRMUc4V01CSmpSSVUzZW11aUNLRlhJc0hNMlJRcmcySUVFZGl2VE0yNHJlLVJuU08zTVA0WGVVbzJkTGhBZmNEejFOekdfZ2RwazFBeGZ2eGdQeEllejY2RFNGMHFIVnN3SmF1d0V2ck11dlBEV2tuSWVmZ1J5RTQ2Rl9UOThWenlnX29FbkVKd1E0QQ?oc=5",
+        "headline": "First corporate bond default in seven years exposes cracks in power sector",
+        "summary": "",
+        "source": "businessday.ng",
+        "published": "08/10 13:36",
+        "published_ts": 1786336572.0,
+        "tag": "Global",
+        "first_seen": 1786339839.357901
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnJ2dlFkLVZ6MUQ3YW9ZSkI1VjQ0YnpJYmdOWkJQUGxCSm9yRmxuck1IRWptOVU2c004RzFlMndPU2ZMNkFDc2tMWGd6UnJueTFEN0hYMjgxelN1dm44b3FuWWlwUy1EWFlyUGx6WE9rc21VcXU2Wmc0S0ZoM0duSmZJSUZFd3NfMENzMGhmVQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786297920.0,
         "tag": "Global",
         "first_seen": 1786298444.1982281
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZGNiQW1WQnh3bFE3ZWV2azdzMXRHaHlEVkxiMllqTVc5cERVdFFIVFFES292aXNnbEliUUdMNWZveXdHbzYzXzBNMU1nb0ZxLVlKMjJDWWpCLVhXZ05TZlFKdGJkTTBqQUNqY2xxcDRVbHdYeE40Wi1IVm5xUW9vOGg5ZHlUV0VDTVJHT29na2ZnZGlkcnFLQ3djeTkwb1VDYy10Q2hQMlpsUEdpOVpPbExfdW5ESWhoS0JTVzhn?oc=5",
-        "headline": "Chip stocks decline, yet market stays bullish amid ETF inflows and optimistic sentiment",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "08/10 02:17",
-        "published_ts": 1786295839.0,
-        "tag": "Global",
-        "first_seen": 1786334438.2024667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPbmMtb24wUGZfMlNFVWtfTXJGMjdYeWhfajZUYmVOZDZPSUpWLVBTQWlINVhmTExTUTI3ODBhMHJqMVoxSHpjSzBHUnJxUFJYaUlvUkxzdzFHRGpINFVCNDhDaGwtM0FhM01DaFFhSHhtOHdnMVVQQWhuSmg1dw?oc=5",
-        "headline": "Jamie Dimon Just Said He Wouldn't Buy the S&P 500 or Long-Dated Treasuries at Current Prices, a Red Flag for Investors",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/10 02:12",
-        "published_ts": 1786295558.0,
-        "tag": "Strategist",
-        "first_seen": 1786302926.709052
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 14:15:54",
+  "updated_at": "2026-08-10 14:31:00",
   "yields": [
     {
       "label": "3년",
