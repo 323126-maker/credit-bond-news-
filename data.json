@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSE9hTlVvaWtBYmtOSk5FejdEMkJuTVFielhVOENPUkhKRUU0N0N3MVZna1lzeVhDYkZTUXUxU1dqeHZPU216VjRoNTlNXzd4ak9aaHF5MEtlNWk2aU9DWHY2Si1rRGdfYzJsSkYxcTBDUGhPUmtabm0taWdsNnVmaGplM1pGTy1HdGR1OGhqcXVMSTJFQkY2WjFaM2lCdjdVM3dOOTR0R3RaNUZacmR0cnByWjZlU1F2ZFE?oc=5",
+        "headline": "Nigerian companies rake in N179.5 billion from T-bills, bank placements in H1 2026",
+        "summary": "",
+        "source": "Nairametrics",
+        "published": "08/10 16:12",
+        "published_ts": 1786345962.0,
+        "tag": "Strategist",
+        "first_seen": 1786347030.9496803
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSHJHdDhjV0VWQlppd1EyVkFmRWE5ZGs0VUJtVTNWZlpkVzJ3Z1hKeklNM1MtTzdRR1JlWDJTMW5fVVBFbmlhOFNWVG05T2taT0NfUUN0Z1oza1BnY29mb25KRE9PbHRxTllrckpTVmJtM2g4LUNtd0ZXWWpCRGl0OHlNSllRMm1X?oc=5",
         "headline": "Treasury Secretary Risks Inflation to Control the Bond Market",
         "summary": "",
@@ -1800,6 +1810,16 @@
         "first_seen": 1786333524.697593
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sOU1RV3NoeTNvNFd2RDdXeUF5MDlIT0c5X2VKQWo1UHRueTd5dGRjSi1PMmpBWkhYOHVHQjJKWWl2Q3VHdjdWZDNMaEF3bFJWeDVOdjJIbXY3RUE0b0VUc0VTNXc5dUU?oc=5",
+        "headline": "Vault: Senators weigh the Trump-Warsh chit-chat",
+        "summary": "",
+        "source": "punchbowl.news",
+        "published": "08/10 11:50",
+        "published_ts": 1786330246.0,
+        "tag": "Fed",
+        "first_seen": 1786347030.9496803
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Vk1SWFQ5Zlgxai1QM0pGaHNZT1FJb0E0VXhqMUdtYjZ0RkJHZmZhS3BRc09Rc1Voa2RXRGRJMXVYcHZEN0RlUzFsT3U3WUdoTGxtZ204YUxyQ0tvdWZDdG5HZEItbW14N3NPcGRLcXQ?oc=5",
         "headline": "BOJ \"물가 현실화되면 대폭적인 금리 인상에 이중 충격\"(상보)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786312800.0,
         "tag": "JGB",
         "first_seen": 1786313684.353094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uS3RsS3lnTVFvcTZtd0Rpa0ZWNF9QbEh4OWgwNkg3NFJYWHdOV2FSQ3JMdXoxUGhKWlNtSnh6YjV3Y0R5d0FoVXh5WGlFS0dVX1pBVS01ZWNjLVFoWlZncg?oc=5",
-        "headline": "美 국채금리 4.65% '비상'…베선트, 엔화 개입·장기채 축소 총력전",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/10 06:56",
-        "published_ts": 1786312560.0,
-        "tag": "JGB",
-        "first_seen": 1786312834.062106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQUhZdS1qUlZXOXpqQ0NzalZ6U0U4dFV6YUVoZkdNbUxwcmVwSzQ1bFVVMl9XdUlwaXZpQmlDdmtSajN4Zmt4MmU5dzBBSnRaZkFVTTFmWlVsX2Q1eVA2cTd3dWQ0cld5MTJ5eGpDaDctQ19heTdrTGw4cFAxRHRVc1dqdVp6XzVOWkRKa3U5eDZUVDEwd2xKVTk0a2lCU2NjRG5LTnZsVHgzU083U2NlSUkyMEpQWExxcWRfQk1mMA?oc=5",
-        "headline": "AI investment and the hunt for yield to drive Australian credit markets in H2",
-        "summary": "",
-        "source": "AdviserVoice",
-        "published": "08/10 06:47",
-        "published_ts": 1786312031.0,
-        "tag": "Global",
-        "first_seen": 1786315525.8805645
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 16:15:44",
+  "updated_at": "2026-08-10 16:30:53",
   "yields": [
     {
       "label": "3년",
