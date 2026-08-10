@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
+        "headline": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "08/10 10:48",
+        "published_ts": 1786326501.0,
+        "tag": null,
+        "first_seen": 1786327238.5246253
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBQVjFCbUl4SmpVOWtySDFDMHctcnNSOW02dkxzSmpYdWJtQmNfcDdwaGpJem0tYjRsdldVV2ZuNGdYTXdTbUlqWm1LbmFuc0wyVlRaVXZLNjZqWE9k?oc=5",
         "headline": "금리 인상에 채권시장 '숨고르기'…지난달 발행·거래 모두 감소",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1785831790.0,
         "tag": null,
         "first_seen": 1786011323.8077278
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fT08yelJDMDVzbWx0eGJLLVJ0by1aSFEzVDVRRzBGTVA3NG5QZWZ4Y0V1THU4UldrNFR6QVFkczVaU1g5bmJ3VGNkX2JKT0tSdS10eDE3Um9YZEFs?oc=5",
-        "headline": "한국은행 금통위 \"이번 인상만으로 물가목표 달성 어려워\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "08/04 17:15",
-        "published_ts": 1785831300.0,
-        "tag": null,
-        "first_seen": 1786068038.3189087
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrTU13djhLRDY5cks4eTlPMFFiQnBGbExvUXppaWhhWU04bGhpb2czZFR3NEhvdjdYTzZzNkFCaWUxdkRPZHJnM0pIdGFLQWNiamt2TkMzN0hGTkhOc2tfZg?oc=5",
+        "headline": "李대통령 3대 메가 2차 점검회의 주재…전력·용수 계획 발표(종합)",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/10 09:28",
+        "published_ts": 1786321713.0,
+        "tag": null,
+        "first_seen": 1786327238.5246253
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xTk92MG9UZXdrNW84bFNZQWwwM1liLUc5WWd1eG5xN3R0OEM3SVV4dko4LXpDZW1oMUpBcUF1NEtGQQ?oc=5",
         "headline": "국민의힘 장동혁·정점식, 이재명 정부 부동산·외교실책 비판",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785917792.0,
         "tag": null,
         "first_seen": 1785987032.275178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCcDBGVVZJcTdrOVY1cEpOX29JSFR6SkRBWGgzN1pmWE9ObHJOa3cxMWozWE5JMVY3VklDOWR1aUwxRUJycFpfSUxERm5WaXFpNVE?oc=5",
-        "headline": "이준석, 이재명 경기도지사 시절 재정운용 비판… “빚 불어난 시점 명확”",
-        "summary": "",
-        "source": "경인일보",
-        "published": "08/05 16:40",
-        "published_ts": 1785915641.0,
-        "tag": null,
-        "first_seen": 1785974443.567705
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IdEZNelRZMzNNZGJ1bTZuLTZKSGZROFlCazVaNXJ5Ykdwc3NrUGh6THp1Tlp1RTFSbWNiQUUzaGdSVG9sSXdyVGFpU3NiTlotOC1OZ3NyNFBJNHBWaXBzRHFaR01GblZM?oc=5",
+        "headline": "엔 추가 강세, 日 국채 금리발 충격 우려",
+        "summary": "",
+        "source": "fetv.co.kr",
+        "published": "08/10 10:49",
+        "published_ts": 1786326596.0,
+        "tag": "JGB",
+        "first_seen": 1786327238.5246253
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UYmJEdFNqa2ZJUGlvdkFKRF9jT1ZaMHZoOWtaUjAyY2NMVlFWWDdTekFKOGt6UGJUS0gzUWNRTkNHMlJRTktrZy13MWZWaEZCWWpYSmh0X20zMlg3UXFqWmVteUt0NHVUSUl3NGRmWQ?oc=5",
         "headline": "금융투자협회 “기준금리 인상에 채권시장 위축”…7월 거래량 55조원 감소",
@@ -1870,6 +1880,16 @@
         "first_seen": 1786292123.8132248
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNZ3BVcTFSQUZfYkZ2b05jMEZLVV9kdzFGRF9IZVZRRlVuTTlhR3FsSDlpbFUwMng0bnAwamZyVnhMUGdhaTZDYjJpMUtaUTJPOS1tc3AzVVpXQnB5ZXhiLWFyMVVMc0dYRnNxOF9RWHpSNXVJcFRETzZ1Q3NydHg1VXNPUWREWHVGVW9WTU5mcUYweTdhei0yYVRKRlc1WkRRaWNTMXBiTQ?oc=5",
+        "headline": "JPMorgan Q1 Results Shine, Trading Revenue Hits Record, Why Does CEO Warn of Risks?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "08/09 23:06",
+        "published_ts": 1786284370.0,
+        "tag": "Strategist",
+        "first_seen": 1786327238.5246253
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPbUxPQ084el81aGpxeWtqUjMxclpPeUFGcUV6Mzh0S1dIU0tiTllvSHdHNkhOeFBXTE9lcWJkZjI3OUxVODNmakdjWDVFWUZYUzJXZ240and0YUNHVXB1VHhEazIxcldpNl80dm5UMHpCTDd5Z3JuQ3Ayd2JWV0E1TURFMEVzZWpLdkZuTU9YZ0h1WnhfY0htNUpwdERKeW8zcUc4M0t4ZklwelI5U0RsdVkwNG1nbk1zUGdJa0plZEE5VHlOc2M1SGxnSU9Bdw?oc=5",
         "headline": "The Fed needs to start listening to normal people",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786257985.0,
         "tag": "Fed",
         "first_seen": 1786258835.5010264
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYNzlsXzZBLW5Za1hCZTBGVWhmcG1JeEducVNzSkFPSk9GSzhxbWZSeDVRVW03QmJIMlhrbDhhX0MxMzFBbG1waS1aenBLMzl5QWV1ai1HSmlsVFA4bmIyRHFvSEZVdEl0elBqTjNaa0Vydw?oc=5",
-        "headline": "[뉴욕환시-주간] 투기 세력 '엔화 쇼트' 반토막…美 CPI가 더 도와줄까",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/09 15:29",
-        "published_ts": 1786256970.0,
-        "tag": "JGB",
-        "first_seen": 1786257922.6225386
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHc0aVlOMXRVY29iNWZZSHowLWg4TEpOVExFRk1nTExITjU1MldvUTFxak9jTUpDN2tKakd5eUltVVRKaFFtajdjUXBMSmN0MTBUS2dqZnc2UjMxVWlLQ2d3RW51QUg2MXRfUjM3VDVNQ25UUk16TENHMXZOb1lsTmNR?oc=5",
-        "headline": "Investors Just Got a Blunt Reality Check From Fed Chair Kevin Warsh. Here's What History Says Is Coming Next.",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/09 14:05",
-        "published_ts": 1786251958.0,
-        "tag": "Fed",
-        "first_seen": 1786257033.3689678
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 10:45:45",
+  "updated_at": "2026-08-10 11:01:01",
   "yields": [
     {
       "label": "3년",
