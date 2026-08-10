@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBvaFFxOFBPZnFVcDF4UWZMM01DM2ZfUHFZa0NTVEJWdUxJMTdfTDVYS2hjS1dORktyM0dqUUwzX2paMjFrSVhSbHBnNFU1Unl2SnFv?oc=5",
+        "headline": "[월간 DCM] 삼성증권 '빅딜' SK에코플랜트 '핫딜'…한진 '미매각'",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/10 10:24",
+        "published_ts": 1786325046.0,
+        "tag": null,
+        "first_seen": 1786326325.8467398
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdkFLbkREZ2p5V1d0RVFxanVOWjFGcmFFUUxlYjN4RDVZa0c1M0Q3NlhYYXpfVm1qd2RqdTVZdjAyS193TEprcTRuOXhXYTIwZ1FtbVRwME42Ny1NSWdNdkN6eC1MV0tKSldOcDZ0SS16TjE1RGtDVnMtR3dHWGVYNzFGYw?oc=5",
         "headline": "롯데건설, 회사채 시장 복귀…최대 1000억 발행 검토",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785809760.0,
         "tag": null,
         "first_seen": 1785810629.9421494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1EZy1mMXZ2ZVJlR21ld2FGWEZOR1pBUlFXSkdkdk9Pel9DRGMwTG5CR3o3SWVVRnZhSUhKR1dKQ3BFTWxLVkFrNlBfVXBtY3JNekEtMTEzYTM1RHZmcnBWQ2pzWko4WXPSAWtBVV95cUxNR01WSENvZHFFTjQxOXBxdkFxVXpIRDVXMTg1czR6bE43QnhjaTVNSVJDMjZuN2xSX2JYQlc4bDhjY0MtVXFZTmIzX21TRGpYdURnNm9yczR1b1ZIT2JZQkxOc1NJckRmV2FnNA?oc=5",
-        "headline": "우리금융 6일 스타트, 4대 지주 자본확충 시즌 개막",
-        "summary": "",
-        "source": "현대경제신문",
-        "published": "08/04 10:28",
-        "published_ts": 1785806895.0,
-        "tag": null,
-        "first_seen": 1785885323.4501667
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 10:30:56",
+  "updated_at": "2026-08-10 10:45:45",
   "yields": [
     {
       "label": "3년",
