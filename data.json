@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qaGJDTlJjZm1lQmZwc2JvNHhfaWkxOV9ZYzRudHJNeWVKVWRjS1VZZmU5R1hoMUYyc0cxOHFDV3dLUldSSlE4bGxydDV2a2VqdUl3VlBjUFZjVUYzeGx2M2I2eUJPbGlIWVZuSjBXNGU2Zw?oc=5",
+        "headline": "[뉴욕채권] 국채가↓…유가 급등 속 물가 경계감에 고용發 강세 되돌림",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "08/11 04:56",
+        "published_ts": 1786391764.0,
+        "tag": null,
+        "first_seen": 1786392357.0743496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9JZGhuX1FuNzBfTUE5NjlCWDFfZUEtcUpNc1VaeTI2cDdzYjZiLWNxTWZsX3RCTTVRZmc4ajJkcy14VWVzTklEODZNMFhrWEhfMUN1RFh6endwOUltMkZyQnpiZExFSWppZjFybTdSMXFjVWhNQlpF?oc=5",
         "headline": "S&P, 채무 감축에 그리폰 신용등급 ’BB’로 상향 조정",
         "summary": "",
@@ -202,6 +212,16 @@
         "first_seen": 1786341636.238761
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4SzJ6S0xKajFUTlpyYVFmYVJFUUhLNUhVSGdIS3c0bll2TFRFM2h1bXlNcW5rZUlTaWdKeDdMaG8wWjVnd2tsemwyZFpDT2xjaHhWXzBSZnI2S3k5dVJCNlZ3MTVyTFljcWhUSk5fZw?oc=5",
+        "headline": "채권 발행 13조4000억원 감소…외국인 순매수 1조8510억원",
+        "summary": "",
+        "source": "비즈니스플러스",
+        "published": "08/10 14:39",
+        "published_ts": 1786340383.0,
+        "tag": null,
+        "first_seen": 1786392357.0743496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90YXVhMjEzTk1HN1NabndFbWp2eWNDdUFzTk10WEc2dHcxQTFzSE9iTEN4ZVJKRDlfb1U1Z01HTEo2MFVyZURTOGVYbGNDdGFFOUFZa29Da3IyWFdRMDJNWg?oc=5",
         "headline": "국고채 담합 후폭풍…재경부 \"PD 위축 안돼, 제도 맹점은 점검\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786312500.0,
         "tag": null,
         "first_seen": 1786312834.062106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TlBsLU1UbFhTdGZ5RE1TaGRINC1mWm9uTy1tSmFtRDU3aXRRRHJGWGZxTkhUWkRPaGR5QS1lSFpLeXk3c0hwWjNOVFhTZTZKOUdWdTIyU1I4bjQ1V2FWNkRVZ05rMnlnSXc1OFFReU5PUjRtZDk4bXdFZ1A?oc=5",
-        "headline": "한투운용 김동주 \"높아진 금리 레벨·수익률 곡선 흐름에서 기회\" [인터뷰- 채권시장의 파수꾼들 (1)]",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "08/10 06:00",
-        "published_ts": 1786309200.0,
-        "tag": null,
-        "first_seen": 1786309502.5897357
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQT1diT0RyMnZiYjE1RnNVdVBSVHM5WTdrVFY4Zm85YzQ4d2Z0X21iekxsM1VLanNXbTRVLXk0dkJhaWhWNGtBa0wyaWpHdHFjMXBkQVdoMGFuQ20wVlBFWXpGbHBCRGNYcHBrMGdtWTR0c09Ja2tCc2lNa3lKN290NmhGb19vMldPZnc?oc=5",
-        "headline": "7월에 은행주가 채권 시장에서 선두 자리를 차지했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/10 05:10",
-        "published_ts": 1786306219.0,
-        "tag": null,
-        "first_seen": 1786319124.0612183
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 05:00:59",
+  "updated_at": "2026-08-11 05:06:20",
   "yields": [
     {
       "label": "3년",
