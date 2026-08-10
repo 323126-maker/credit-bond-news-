@@ -262,6 +262,16 @@
         "first_seen": 1786325433.2284765
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsaUJQVzBtQzBnOE5Yc2VZNmlXQmxDTEVxMk03SjZCOE9YbS1TN2U0X0ZyT0hUcTUxZll1NThZV3RvQUxXa1pRTmNWVjY4LV9jalZxcg?oc=5",
+        "headline": "[R&E] 고용 충격이 촉발한 미 금리 하락, 한국금융지주·롯데웰푸드 실적 모멘텀으로 코스피 반등 모색",
+        "summary": "",
+        "source": "newsepoch.co.kr",
+        "published": "08/10 10:00",
+        "published_ts": 1786323600.0,
+        "tag": null,
+        "first_seen": 1786387525.8703747
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdkFLbkREZ2p5V1d0RVFxanVOWjFGcmFFUUxlYjN4RDVZa0c1M0Q3NlhYYXpfVm1qd2RqdTVZdjAyS193TEprcTRuOXhXYTIwZ1FtbVRwME42Ny1NSWdNdkN6eC1MV0tKSldOcDZ0SS16TjE1RGtDVnMtR3dHWGVYNzFGYw?oc=5",
         "headline": "롯데건설, 회사채 시장 복귀…최대 1000억 발행 검토",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786302300.0,
         "tag": null,
         "first_seen": 1786303837.7249546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xY3ZFaTZ3R0JlUFctZ3FoQktEN1RRN0p6dkpyVGZHVElidUd5ZjVFZGxkdXFyRFlyQ3pfT2J3Sy1WVjQ1Ykxyb25pOWd1YVJIQ3RB?oc=5",
-        "headline": "[사설]꽉 막힌 기업 돈줄, 정부가 뚫어 줘야",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/10 04:00",
-        "published_ts": 1786302011.0,
-        "tag": null,
-        "first_seen": 1786302926.709052
       }
     ],
     "perpetual": [
@@ -1830,6 +1830,16 @@
         "first_seen": 1786366836.3483212
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LVGxlbXpZUE5EZWpTMHNORlBRVFpCdDFfS2o4bF96Z1JoLU9FNHBzeDNlRExzUDdheU9QZ0dRVGdtSDNRS0FIQ2w3WUd5eDV5X1J4dDk5N1ZfU0FNVFJ3M3RuODhzUmpnNm1tSk9zTFNhTmhxbGc?oc=5",
+        "headline": "The Fed's Two-Faced Policy: Hiking Rates to Crush Small Businesses While Letting Government Deficits Balloon",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/10 21:35",
+        "published_ts": 1786365300.0,
+        "tag": "Fed",
+        "first_seen": 1786387525.8703747
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLXAtTFdWSzA1em82d1drWEpIYWd2VUpEOFZvcmxybkR0VU1iVHk3T2ZMSEdSYnQzVVVNaWFwYVRTRU1scTJPUndMeWVqWjBBcVRRRVpGc2lJMTdfaWdpbWU0MVg4WXFDNGc5cVQ5VkJBdnpkUGxQZXZFWGdTTHVMNXlENXhVdw?oc=5",
         "headline": "Indel Money Plans Its Biggest Public Bond Sale Yet",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/10 19:09",
         "published_ts": 1786356573.0,
         "tag": "Strategist",
-        "first_seen": 1786356925.3432808
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZy1GUkdsdWtmODFuVjlNc0VJWTN1emtOdTJNdGVlZ0Z1QUI1WXlwXzBSTHRoTUVnZXVidE5aZ21oUlNuNEVITENHSTM4eE5QdzJWRHJLSU9JRHVkVXlKX3ppVnluZ0FMTDRIN0lHVTUzS3FYd2JuM1oybmFBM0dSTFZ3?oc=5",
-        "headline": "The stock market bull case just got stronger",
-        "summary": "",
-        "source": "financialpost.com",
-        "published": "08/10 19:05",
-        "published_ts": 1786356313.0,
-        "tag": "Fed",
         "first_seen": 1786356925.3432808
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 03:30:54",
+  "updated_at": "2026-08-11 03:45:49",
   "yields": [
     {
       "label": "3년",
