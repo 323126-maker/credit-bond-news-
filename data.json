@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOVTJWQzlybktCVzBLTlBEZmNydGU4aWktOTQyUlJRdFhHTVE0cTlWNG9rRks2c0c5elRnTENNQVRQeWY4RDBlNHhXZ0xyNnJZeVI4SV9JTnpCZmtTVGN6TEpzaDBzbkRfdVcwSktPSko2NjFUUVF5WjRFb2s4Z2p2eDF5anR1SnVsRHRZTkZRRVlPRzNZY2NFbFlaS2ZXdjlIcy1uMThvem5EQWYySDhUamNhclNJUmZ3UGl6U2hUR3BXQ1FYTEJQbkpSS2JPNWZaQ2FtVDJZay1haUVPU05HOFN3OEZ2MDFsM1gzM2tsbF9CM0stSndIVDYtZHRmSjFSMXZPN3ZxTG1iU2xu?oc=5",
+        "headline": "장기금리 뛰고 채권 발행 줄었다…7월 채권시장 '냉각'",
+        "summary": "",
+        "source": "데일리안",
+        "published": "08/10 17:16",
+        "published_ts": 1786349760.0,
+        "tag": null,
+        "first_seen": 1786350634.2183685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ET1ktVTJfUkQwTHBCa05hQ2loSTNMZlQzWG5KR3d6YmlwbDdXVno0V1lyUktlT0VEM0lJRTltdXpid00xd0h1ZjRlTjgwQldLMnVSZzh1OG1ZMHVlam85R05DZkV2bjBwREE?oc=5",
         "headline": "기준금리 인상에 채권시장 위축…국고채 금리↑채권 발행·거래량↓",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1785993604.0,
         "tag": null,
         "first_seen": 1786093237.984107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5jaEMzSUlPMXpEYXQ3WHhvQmltUi1pczhjdnQ4SkF3UkZYclVGTmM2OHBmYU85OU80OTQ0bGxFNU5QTnBSR1IyNW5IcktYbFBPNUJFdGtCZHBmYjJEcDVMMWViaUlCZTdPTjA0WUZwZ1ppZw?oc=5",
-        "headline": "채권시장 뒤흔든 外人 왜 들어올까…외국인 시각은",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/06 09:58",
-        "published_ts": 1785977930.0,
-        "tag": null,
-        "first_seen": 1786062632.8913357
       }
     ],
     "politics": [
@@ -1610,6 +1610,66 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVU4YTMyZzBlVkRSS1puYTluVjgycklHS2dRbnVCSkxVMWdjcEUtdlZ0NVpIakhpckplY0dGSGQyOFkxQmhpTnMzT0dRNWlfRHg5R2MzQ3BUcV90cTFjMlF5elB3SUVlMWloQnpleUowUHNHSFJKeW1iV2lkNnhtdGtWUURyQi1DcURaaG1SR18xa3lmd2MtaEsyb2E1Q082c25nX2E3UEYzV0JJcUQxOGNfMFZrdw?oc=5",
+        "headline": "BOJ's rate-hike path runs into Takaichi's bond market problems",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/10 17:23",
+        "published_ts": 1786350230.0,
+        "tag": "JGB",
+        "first_seen": 1786350634.2183685
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMV0g4Q0w3aXZLa2p4RXpvVXNnVFpuOG5BTldiQ25uWkpEZUR5V3Q1MzlURGpBdzVsbmcxd3R3blpoT0FRQm9SRXRmRXhtTmg1RjF5V1JJMWcxcVM3REVGS3ViSzhqeVN0bjNHUkNOS3BSZw?oc=5",
+        "headline": "[亞증시-종합] 美금리 인상 전망 약화에 일제히 상승",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/10 17:14",
+        "published_ts": 1786349663.0,
+        "tag": "JGB",
+        "first_seen": 1786350634.2183685
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kel80X3hDRE9PM2d1aWtUOWw2S0FRNzA1ZzhhNG1tRWRWaVI2M3V6cEdlQndYYTJsa0ljUmIyWGxFWTZCZmF2MEJsOGhjekFwQ3d1aUhRU0c4YXBRbjB6ZTlkNlFlb1JYMm5razVjSkNGR0U?oc=5",
+        "headline": "BOJ, 인플레이션 목표 근접…금리 인상 속도 빨라질 수 있다",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "08/10 17:13",
+        "published_ts": 1786349610.0,
+        "tag": "JGB",
+        "first_seen": 1786350634.2183685
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZkpQQ1FKQ19WQmVxM3lDUFZnbExOaklxc1kxcFdNX0JGLWg1R3JZbkwwaEwtVG9OR3d4emdIb0U1NXJKNDhaMVJISVh1cWY5YXZ0all1WnNtS0pPUTl2U3Z1NTBuOXI5Qm1vV3NPNlo2QjdtVDY1TUg1V3RCQnhHSHZn?oc=5",
+        "headline": "The expanding architecture of ILS",
+        "summary": "",
+        "source": "Bermuda Re",
+        "published": "08/10 17:10",
+        "published_ts": 1786349434.0,
+        "tag": "Global",
+        "first_seen": 1786350634.2183685
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE10ZVFQZlpfTEFvQ2ItZ0dPR2ZUMGk2SDVQU1hrOUxIRzhLTEs4bmxFaGV4YS1BWm9WZDY2Tl9UNjE5U2lqajhXUXZCS3ZtOWs?oc=5",
+        "headline": "美日 ‘통화동맹’에 쫓기는 일본은행… “내년 봄 금리 1.5%까지 뛴다”",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/10 17:09",
+        "published_ts": 1786349348.0,
+        "tag": "JGB",
+        "first_seen": 1786350634.2183685
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5TYVJDbUVINGU2UERfa0Z4eElBYnhsc2JQYUJCSkxEV3owY0ViWWtwRTkxUm9CNjYxSHVPaFFxUWQwLWF4VGdldXlic0JlUGd4enFsaw?oc=5",
+        "headline": "[채권마감] 사흘째 약세, 최근 강세장 되돌림+일본 긴축 우려",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/10 17:07",
+        "published_ts": 1786349220.0,
+        "tag": "JGB",
+        "first_seen": 1786350634.2183685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQml1X3BJa2ZwYlE0Z1hmVXZHdlRrazVzQ1E4cGt4Qk9Jbk03Wml1NEFNOEhxTnphbk8zMnBsZTNYZGxyQVFieU1Tak55V1ZKeVB1TG4tVWdyT0JjVkNuaFVRSGZ3NEJMV0FBR2tSOXQ0Vm9venljdXRmRTN5dm9CQjRCNEhFcGFfSzZSZC1SRExOTWI4cWJJMGF3Q2pBcWVqQ2pFVnRlWkUzRGpEQWc?oc=5",
         "headline": "Australia’s top market whisperer on what actually matters now",
         "summary": "",
@@ -1810,6 +1870,16 @@
         "first_seen": 1786336238.830452
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSERTelgzdDBsbzJYRXc0MTRmM1pCd0xPdmc4dDdFczJhZllJSnR2UnFPNzRvZFgyckdjTjhwUG50WGVWNFByU0sxbVRWbUtGQUx6X2R5UHZuZTk1N2RsalZDcGF0QW1nLU43ZkZZWEVqVXYxVnlIUHIxazhjUlM5OTZkUQ?oc=5",
+        "headline": "‘Regime Change’ at the Federal Reserve?",
+        "summary": "",
+        "source": "The American Conservative",
+        "published": "08/10 13:01",
+        "published_ts": 1786334460.0,
+        "tag": "Fed",
+        "first_seen": 1786350634.2183685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjUxVzhhS2k3NXZyOW8yQ2U4MjJjX3EwNXJaNjYwZDUyczVUNEpUSkQybTNzazZuWTNwOUZIMHQySzY5Ql9paGlEN3hkRl9VTk9BOW5weHh3OUl0ZFd3SXVHWnQtb0s0Z1FzZU9sX1RmRVBjd0ticzJyN0NDbGVoekNIbzM5T2g5dmg5bUJzc3ZmX2NSQXlIdFh2V0lKUG9BWXpZNElPWWJDODJWZUg0?oc=5",
         "headline": "Uncorrelated by Design: Ashmore Makes the Case for Emerging Market Frontier Debt",
         "summary": "",
@@ -1938,76 +2008,6 @@
         "published_ts": 1786325315.0,
         "tag": "JGB",
         "first_seen": 1786328126.294302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGRLSlRZMlFqcWxWcUk3REYwYUJreTJrTHNBQWRZUDBhekxZT1VRMi15ajB0cXp1LXhBTU4xbjRKWVZsT3hwSTY3SG1pdVYyVk1OdmdVSS1naldTZGJwVnVyS3gzRThaRHU3NENhRk13S2lxZ3hxWms0Y0x1eE83SmQteS1uS3M?oc=5",
-        "headline": "Mohamed El-Erian: Why Wall Street Rises While Real Economy Slows?",
-        "summary": "",
-        "source": "Sada Elbalad english",
-        "published": "08/10 10:05",
-        "published_ts": 1786323938.0,
-        "tag": "Strategist",
-        "first_seen": 1786344323.6551547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYWp4ekl1c21Bdm0taVhwUnZkZWNjaVRfRHhqaE1YNDVXa1lxUXdPaG50dHUyRVB0Q0ltQ3RQNnFSeVJzWjZ1cTQwNzRGd2VtZ1ZJaEE4ek1PVVNwUjloakFxcXN4alVFXzNYOFM0QXdDMmxaQmN6VG1kSkJfdXg4Vmx6MA?oc=5",
-        "headline": "IBM’s Post-Collapse Rebound: A Complex Risk Reward Profile Today at $233",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/10 09:56",
-        "published_ts": 1786323361.0,
-        "tag": "Strategist",
-        "first_seen": 1786330839.1558967
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UYmJEdFNqa2ZJUGlvdkFKRF9jT1ZaMHZoOWtaUjAyY2NMVlFWWDdTekFKOGt6UGJUS0gzUWNRTkNHMlJRTktrZy13MWZWaEZCWWpYSmh0X20zMlg3UXFqWmVteUt0NHVUSUl3NGRmWQ?oc=5",
-        "headline": "금융투자협회 “기준금리 인상에 채권시장 위축”…7월 거래량 55조원 감소",
-        "summary": "",
-        "source": "리드경제",
-        "published": "08/10 09:54",
-        "published_ts": 1786323246.0,
-        "tag": "JGB",
-        "first_seen": 1786325433.2284765
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBQbmFhY2lOOE1sSWVYemNQOFZMSXFab2x6eTEyeUp2SzMyLW9fenZuMnQzZnNfMDRXZTNQOGt3TUNZVGNJcVVGNVdnb0N4LUNJMFFTYjZTMk5Jck1TYmZTWG1sQXctRkNrUVkzc0FGWEhVUlN5U3c?oc=5",
-        "headline": "JPMorgan Lifts Tech Bond Sales Forecast to $540 Billion as AI Spending Overwhelms Investor Fatigue",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/10 09:35",
-        "published_ts": 1786322100.0,
-        "tag": "Global",
-        "first_seen": 1786322727.6892505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TdTBxd0kyOUYtdE5hY1Y4STFGR1BNZUlxeUpaV2hrWFhqRWVreDhoRWlpYUV4N0ZuN29vMnlnWFZmMFFiVmtWS3RHZl9aV3VQbFF2Njg2bEkwa1U?oc=5",
-        "headline": "Japan's Bond Crisis Could Trigger America's Next Financial Shock | The Hidden Risk Nobody Sees Madison Keys (mrrIvdQrkf)",
-        "summary": "",
-        "source": "Mshale",
-        "published": "08/10 09:31",
-        "published_ts": 1786321879.0,
-        "tag": "JGB",
-        "first_seen": 1786343434.021926
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uelZFTTM4VHh1SDNnS2U2ak9ncUdpNHFLNTJXS0pqcE9FWjlRNTlEQWhWREpZVzBZMVpUM0pOdWFrb0ZzczJUZDQyNERhWEF4bTRyR05Rb0pENUg2Vk9UNXBmeHRMMWFiSmZQcWhMZ9IBb0FVX3lxTE5uelZFTTM4VHh1SDNnS2U2ak9ncUdpNHFLNTJXS0pqcE9FWjlRNTlEQWhWREpZVzBZMVpUM0pOdWFrb0ZzczJUZDQyNERhWEF4bTRyR05Rb0pENUg2Vk9UNXBmeHRMMWFiSmZQcWhMZw?oc=5",
-        "headline": "베선트 美 재무, “장기 국채 금리 추가 상승 막기 위해 모든 수단 동원” 시사",
-        "summary": "",
-        "source": "뉴스로드",
-        "published": "08/10 09:28",
-        "published_ts": 1786321713.0,
-        "tag": "JGB",
-        "first_seen": 1786349724.9617295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMWxDRXFKbmlHYmhzRlAtZXNXbWxhV2ZGWThpMXJYdGdzRGlfSlV4RkxwQkR1NVBOd0ZCSWprTXc2NEdEM1FrX3VmWWNxeF85dDluMV9aU0cxOXZkTjg0eFQtU0Zfelg4V1RLT25KQ3U5eXZSUVdBb19sdTNQaXliXzVKYUVUd2V3QnJvaWNR?oc=5",
-        "headline": "Treasury Secretary Scott Bessent Deploys Three Tools to Tame Rising Yields",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/10 09:12",
-        "published_ts": 1786320721.0,
-        "tag": "JGB",
-        "first_seen": 1786344323.6551547
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 17:15:51",
+  "updated_at": "2026-08-10 17:31:00",
   "yields": [
     {
       "label": "3년",
