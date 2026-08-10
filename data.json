@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTnJ2dlFkLVZ6MUQ3YW9ZSkI1VjQ0YnpJYmdOWkJQUGxCSm9yRmxuck1IRWptOVU2c004RzFlMndPU2ZMNkFDc2tMWGd6UnJueTFEN0hYMjgxelN1dm44b3FuWWlwUy1EWFlyUGx6WE9rc21VcXU2Wmc0S0ZoM0duSmZJSUZFd3NfMENzMGhmVQ?oc=5",
+        "headline": "Japan’s Bond Yields Climb As Oil Rekindles Inflation Fears",
+        "summary": "",
+        "source": "Finimize",
+        "published": "08/10 13:02",
+        "published_ts": 1786334562.0,
+        "tag": "JGB",
+        "first_seen": 1786336238.830452
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNjUxVzhhS2k3NXZyOW8yQ2U4MjJjX3EwNXJaNjYwZDUyczVUNEpUSkQybTNzazZuWTNwOUZIMHQySzY5Ql9paGlEN3hkRl9VTk9BOW5weHh3OUl0ZFd3SXVHWnQtb0s0Z1FzZU9sX1RmRVBjd0ticzJyN0NDbGVoekNIbzM5T2g5dmg5bUJzc3ZmX2NSQXlIdFh2V0lKUG9BWXpZNElPWWJDODJWZUg0?oc=5",
         "headline": "Uncorrelated by Design: Ashmore Makes the Case for Emerging Market Frontier Debt",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786280291.0,
         "tag": "Global",
         "first_seen": 1786307433.563038
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUZyTFhvYzZOMFZCZ3VSV1lWNU5rZUw4dTNwdUkyWHlDWmlkdml0RWdDajMxV1ZCQnBGZmZJeElUMnZVR09Qc0ZZcEw5SW9lbWhDRTU1SDNlcEFicURLVFVJZFQwNk13N3lEeHNYakJsdVREakljdFFnaERBWE1jU3BxRQ?oc=5",
-        "headline": "Japan: caught between inflation and slump",
-        "summary": "",
-        "source": "counterfire.org",
-        "published": "08/09 21:38",
-        "published_ts": 1786279102.0,
-        "tag": "JGB",
-        "first_seen": 1786335328.45181
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 13:15:52",
+  "updated_at": "2026-08-10 13:31:02",
   "yields": [
     {
       "label": "3년",
