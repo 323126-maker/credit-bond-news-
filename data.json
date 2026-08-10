@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNkNrRFVlYUxQaC1CeW1Td080aWlDdUd2SzdTRHFkb0hMSXFYYXh0dVRxVmpXV05CVklQT3ByM3p1YS1sQTVhZWZLSFQ0WHA4cWluOWJ2NEFqYlRlbXhDNDRVdnM0Zm85VTlybTdPamN0VW5PSElLcWNVTUU4N2xNM3JvSzBTQTlJeS1wS2lOdmttSEVXcWhCcTFpRXZBcm1NeENfTA?oc=5",
+        "headline": "The One Word That Best Describes The Current Market: Unsustainable",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/11 01:05",
+        "published_ts": 1786377909.0,
+        "tag": "Global",
+        "first_seen": 1786378531.6870134
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5sQVJtdTYwU2ZsWnVIYVVDQ1ZPVkRidnhJOXJNQ3VJY1pCYW9NU2FVT2pRNm9YQ0hXNmpkbE1FUHRBdWNvX0djYnpXdFU2Y0pvc1RlVw?oc=5",
         "headline": "Fed Chair Kevin Warsh Completes Divestiture of Assets Covered by Ethics Pledge",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1786361489.0,
         "tag": "Global",
         "first_seen": 1786362325.1788967
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxZUnFoU2hNYkIwazRDR0RURVd5NTcwY2lDWjRPNkVURk9NYWZvR3BRbk9CZkhJOVFmMEdSWS00Q29TTnlpT05qQ1VpV09lSFFWb3JmNUxubU9DeXoxYzRJWE8tYzBaR2ZIaVVlM040aHgta3VsV01YS3ZUVFpzamhsazNHWThEOHlPeGpkV1ZKejg2T2JGbGFSLXlYcGtPMlZ1MjJ3?oc=5",
+        "headline": "Tensions escalate between the Bank of Japan and the government: the central bank seeks tightening, while the prime minister aims for substantial debt expansion.",
+        "summary": "",
+        "source": "富途牛牛",
+        "published": "08/10 20:22",
+        "published_ts": 1786360968.0,
+        "tag": "JGB",
+        "first_seen": 1786378531.6870134
       },
       {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeUlneW1xT1pnbWZCN3F5T0hOb1VYaGpIMTk0djRPM1IxT1k3aEx6WU04dkhoNzVuLTBLZEdsTURfcUdxLTBjQnZxaDdOSWpBZFFUM0JUN0FvRS1XeG85NDZZeEQ2SDdEUDRic1VieTlpUE9ZWWl3TUVuZHZCbnlCdVB5V25UdHVkcnplcXlfeHV0QQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786350720.0,
         "tag": "JGB",
         "first_seen": 1786351526.5870245
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMVU4YTMyZzBlVkRSS1puYTluVjgycklHS2dRbnVCSkxVMWdjcEUtdlZ0NVpIakhpckplY0dGSGQyOFkxQmhpTnMzT0dRNWlfRHg5R2MzQ3BUcV90cTFjMlF5elB3SUVlMWloQnpleUowUHNHSFJKeW1iV2lkNnhtdGtWUURyQi1DcURaaG1SR18xa3lmd2MtaEsyb2E1Q082c25nX2E3UEYzV0JJcUQxOGNfMFZrdw?oc=5",
-        "headline": "BOJ's rate-hike path runs into Takaichi's bond market problems",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/10 17:23",
-        "published_ts": 1786350230.0,
-        "tag": "JGB",
-        "first_seen": 1786350634.2183685
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMV0g4Q0w3aXZLa2p4RXpvVXNnVFpuOG5BTldiQ25uWkpEZUR5V3Q1MzlURGpBdzVsbmcxd3R3blpoT0FRQm9SRXRmRXhtTmg1RjF5V1JJMWcxcVM3REVGS3ViSzhqeVN0bjNHUkNOS3BSZw?oc=5",
-        "headline": "[亞증시-종합] 美금리 인상 전망 약화에 일제히 상승",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/10 17:14",
-        "published_ts": 1786349663.0,
-        "tag": "JGB",
-        "first_seen": 1786350634.2183685
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 01:01:00",
+  "updated_at": "2026-08-11 01:15:54",
   "yields": [
     {
       "label": "3년",
