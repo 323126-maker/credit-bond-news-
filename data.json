@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16Ym83RlpKUG9KOGdmMzBiRzZTcUM5Y052M2ZqcFNUem5UX1BXcE9XVTc1Y0p3NklSQkpGWjVwb0c0ckRjU3ZTN3laNDM2YldQ?oc=5",
+        "headline": "Bank of America's Hartnett: \"Tactically\" Bearish, but \"Strategically\" Bullish, as Policymakers Won't Allow a Market Crash",
+        "summary": "",
+        "source": "odaily.news",
+        "published": "08/10 12:12",
+        "published_ts": 1786331557.0,
+        "tag": "Global",
+        "first_seen": 1786331725.1068213
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMeW84ZVhkVjBGWm14Zjh4VmJoVnVGT0ttSDFrWlgyVXRKMWx1MXFOSGtMNGdCSHpiek92aFlVUGFnVzAxcnBvbHB0VmdkMzF1enY0?oc=5",
+        "headline": "\"日금리인상 속도 시장 예상보다 빨라질 수도…물가 상방위험 경계\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/10 12:09",
+        "published_ts": 1786331340.0,
+        "tag": "JGB",
+        "first_seen": 1786331725.1068213
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4Vk1SWFQ5Zlgxai1QM0pGaHNZT1FJb0E0VXhqMUdtYjZ0RkJHZmZhS3BRc09Rc1Voa2RXRGRJMXVYcHZEN0RlUzFsT3U3WUdoTGxtZ204YUxyQ0tvdWZDdG5HZEItbW14N3NPcGRLcXQ?oc=5",
         "headline": "BOJ \"물가 현실화되면 대폭적인 금리 인상에 이중 충격\"(상보)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786267265.0,
         "tag": "Global",
         "first_seen": 1786318230.1760044
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTmpNNVBKa1Rha2pJdExXcUszZ3lBY1FtdS15akdmeld0bVhDNFdkakVzcGNWS0EtV3gyNmlFNGJweFZvQTRZTUp4SXdfZUc4UFFGd0NlbXktb3BOMG4zcTdiTllLaUotYWs4NHk3Mk85ZGQwTUhqTDd2dmlUbGZDUElaS2NMcWQ2NGp5U1pLemM?oc=5",
-        "headline": "Chip stocks hit a wall, but the market did not.",
-        "summary": "",
-        "source": "moomoo.com",
-        "published": "08/09 17:49",
-        "published_ts": 1786265364.0,
-        "tag": "Global",
-        "first_seen": 1786275923.7355497
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNREtmeElsZUlGYm9aOXRTajUxRllsMG9Yc0RQT3JoRl8zM2c2VExjbzl2cnl6eDdMY3pQVno1UUl3U1JTc3RxckhRYjlvMHNGOTRjLUJSVHViSHNQelNiUlpuamJWN2xlakVjeUhCOTh5WGI5elptU1l3QTF1ak5za0VlWQ?oc=5",
-        "headline": "Ray Dalio compares U.S. markets to 1929 and 2000 — why Canadians holding XEQT or VEQT should check their exposure now",
-        "summary": "",
-        "source": "ca.finance.yahoo.com",
-        "published": "08/09 17:45",
-        "published_ts": 1786265100.0,
-        "tag": "Strategist",
-        "first_seen": 1786309236.3477552
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 12:01:07",
+  "updated_at": "2026-08-10 12:15:43",
   "yields": [
     {
       "label": "3년",
