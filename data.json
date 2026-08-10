@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zNk1PUXY3aW1ZVC1NdExNM1c4dng1aWdHUjRCZ3Jvem5oY1ZHV3Ixbl9uZHF0elNrX0hhMHZEVk5DenlvLXlMUjlEbjdNYXhFZDdqR0dVY3JjekVHam1aN3VMOA?oc=5",
+        "headline": "李 대통령 “주가 누르기 전면 재검토해라”…시가주의 원칙 바뀔지 주목[자본법안 와치]",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "08/10 15:08",
+        "published_ts": 1786342089.0,
+        "tag": null,
+        "first_seen": 1786342525.2842772
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrTU13djhLRDY5cks4eTlPMFFiQnBGbExvUXppaWhhWU04bGhpb2czZFR3NEhvdjdYTzZzNkFCaWUxdkRPZHJnM0pIdGFLQWNiamt2TkMzN0hGTkhOc2tfZg?oc=5",
         "headline": "李대통령 3대 메가 2차 점검회의 주재…전력·용수 계획 발표(종합)",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1785918720.0,
         "tag": null,
         "first_seen": 1785920439.155355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBzZlZGUno4c1gwNGlRcWg2ZXNHNmdqR2tKc2huNEdVR3JrcjQ1b1dSNUFmVVJxUm1KRDBBd0l3dDJ6Mnk2NW5YXzN5dXRWSnhz?oc=5",
-        "headline": "[속보]추미애 ‘재정비상’ 선언…이준석 “이재명때 시작된 재정 위기”",
-        "summary": "",
-        "source": "문화일보",
-        "published": "08/05 17:16",
-        "published_ts": 1785917792.0,
-        "tag": null,
-        "first_seen": 1785987032.275178
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUlgxQ1U0aF9tdU9pNGcybDdvU090Yi0wQi00VF9sRmhWNWV6QWgzbUI2N0dzblQ2YXpyam95bzU2bTNPdVgxWnNYb1ExZGN4V3lv?oc=5",
+        "headline": "베선트 美재무, 장기 국채 금리 상승 방어 총력",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/10 15:06",
+        "published_ts": 1786341960.0,
+        "tag": "JGB",
+        "first_seen": 1786342525.2842772
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaXpNZUtUcE45a0NMdlpmZFlYeHl2b2lzWnZhZUx0dHNXcndIU3h1bUt6WUxxMFlUbFZLQTN3Rzk5akhKZlEtak9PVlowaU5oT0pNNENKdnBIUmhoMG9uQm5sLWxBOUxRU0FFSVZtWE05OURTajBkU01jd0FETXpIeTFPXzV4UWpKV0xCSjdHUWVsT1dPbnlZTw?oc=5",
         "headline": "New Fed Chair Kevin Warsh Has Refused to Give Forward Guidance for 2 Straight Meetings. Here's Why That Should Worry Markets.",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786298400.0,
         "tag": "JGB",
         "first_seen": 1786315525.8805645
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPeV9BcVZRSHZpN2lLUWtwbDFmQnhEM1p1dFZlbE9yLVZMYXBLYWZPNGRmdFI3TGhZam5OTVR4d2NmNzRFRGVWOEFYUldvdGtiNEZ0ZS1UdXpvYUhwYklray1od0J1QkFENEhiMjJOaE42bDM1LTJWMUVqRUl6MVdpVjM1eUxNZXRDT3pJQS15bHQ?oc=5",
-        "headline": "Hartford Floating Rate Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/10 02:52",
-        "published_ts": 1786297920.0,
-        "tag": "Global",
-        "first_seen": 1786298444.1982281
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-10 15:00:57",
+  "updated_at": "2026-08-10 15:15:57",
   "yields": [
     {
       "label": "3년",
