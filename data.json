@@ -1630,6 +1630,16 @@
         "first_seen": 1786375837.420853
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMFpyYV9GNW8xNGhncDZ3NjBfVnRTRU9zZVFEamJTbEFKcEc4VDdkQnVZc3gteDFSa3JjbU5odnVwNU5ycF9VVkFNOVNmVXlwWlgxOTNrX1NPSE9FY1c4N3pxM3poTW9NQjUwUzh2bnVXLS1wRENMb1UxQmhVWVZKXy0wM29yRGdVSkpqYXM0aGlhcGNoYlhBSjZ2VExsNEhDVE9XTlhFVnRxTFRKbXpRT2VR?oc=5",
+        "headline": "US High-Grade Bond Market Sees the Most Issuers Since January",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/11 00:02",
+        "published_ts": 1786374152.0,
+        "tag": "Fed",
+        "first_seen": 1786376725.9657469
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnBwaWJBemZwTDBOek5UTUhPWHdfMHhWRll5R21nYlZ2RFlvLTU1aG50d05SVGpsb0Z6RTB6MFFmZ3RERlI3SHBIZE9pbjNCN0h2ZTA0M1NQQU9QZDIzSmNIV2RpS0YtTHNuZmVzWlQ2TlRZNUR0NlZJdjdNSDVaOGJwdXAwamlDNGpfNXNTQjgyZw?oc=5",
         "headline": "Fed Chair Warsh’s Cautious Stance: Mixed Signals for Markets in 2026 - News and Statistics",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "KB Think",
         "published": "08/10 17:14",
         "published_ts": 1786349663.0,
-        "tag": "JGB",
-        "first_seen": 1786350634.2183685
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kel80X3hDRE9PM2d1aWtUOWw2S0FRNzA1ZzhhNG1tRWRWaVI2M3V6cEdlQndYYTJsa0ljUmIyWGxFWTZCZmF2MEJsOGhjekFwQ3d1aUhRU0c4YXBRbjB6ZTlkNlFlb1JYMm5razVjSkNGR0U?oc=5",
-        "headline": "BOJ, 인플레이션 목표 근접…금리 인상 속도 빨라질 수 있다",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "08/10 17:13",
-        "published_ts": 1786349610.0,
         "tag": "JGB",
         "first_seen": 1786350634.2183685
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 00:31:01",
+  "updated_at": "2026-08-11 00:45:45",
   "yields": [
     {
       "label": "3년",
