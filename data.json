@@ -1620,6 +1620,16 @@
         "first_seen": 1786459529.4366026
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSnFyd191czNSTmg3VmNaaS1CUkJaWEp5T1NNS1Qxbk4xX2FUVFRRS0prY3loT01sT1hQOUs1eGEzYWJkYklRZFlrenZyQXpMcmxPM2dhc0N4ZlplYVBGbmwzdm8wZUEzNUR0VzdGaXNkVDNQUGFBWnhvT0YxbDVsenBDaUthM1lXM3kxN2RlTXpmZkZVdEE2OUR2Tm8zWTB0Y1NFTnNqdDZVa3lIZy1HcnQ4QWVwWXlLemhtTDZIRExIaWxmbGFKR29TRWpnYXdK?oc=5",
+        "headline": "Opinion: Wall Street thinks inflation is under control. Here’s why investors shouldn’t buy it.",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/11 23:21",
+        "published_ts": 1786458060.0,
+        "tag": "Fed",
+        "first_seen": 1786461325.075804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPanIya0JBZnBLcVdwWmhfaUpYblVldG1Xd0VtMUdna19uWGtxRktKZktmMERROU1vVHJIelhmUWs2VEFXd1Bkb25UOERwdlliNXdzcWY3N2dWNy1ZdlgtRGFFVS1BWUI4aHVrY0JBMkp3NzdvTzJUOGhnSnlTSGR1amVnNUUyc1JuS1BCXzRlel9VaGpvY2V2am0zRERyMzA0TV9Lb21aYXU3UGJfbVI4R0JuZk9MZlV6UnhDZ3c2dFdYRk5BcUZoSGxOZUdPaUNtQ1BLdFFuemdkN2FWSHJFN0ppb0VlT3h4VldQdVAzUQ?oc=5",
         "headline": "How Much You'd Need in a Treasury Ladder to Replace a $60,000 Salary, and Why It's More Than Most Retirees Guess",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Seeking Alpha",
         "published": "08/11 16:15",
         "published_ts": 1786432500.0,
-        "tag": "Global",
-        "first_seen": 1786433435.3770878
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWMjhyTWpBa2hWZXo4VWs1QWRUUmsyb2tiWS1SQzRpa2JoNHNRU2dTLXRHWmllV1VSQjhLanMtazNTdkNxX2ZsM0lGVGZBSFN6Rm9pZEZGTjEtSzR4a2ZBeFBFMTQzMy1hSk5qSVJ2VUJfQQ?oc=5",
-        "headline": "FX Daily: Low volatility prevails",
-        "summary": "",
-        "source": "ING THINK economic and financial analysis | ING THINK",
-        "published": "08/11 16:13",
-        "published_ts": 1786432416.0,
         "tag": "Global",
         "first_seen": 1786433435.3770878
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 00:01:00",
+  "updated_at": "2026-08-12 00:15:49",
   "yields": [
     {
       "label": "3년",
