@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IcWRFWDViaG1UanFIMk9jR1ZOWkdoVGVFTVNlbzAtSjJYZ0dNdllLMEFEaTdiM1lIWFloWkhVbzdpOEZYcFY5WUF4Y0dRSE5xVGlB?oc=5",
+        "headline": "회사채 외면하고 은행으로…기업 자금조달 '대출 쏠림'",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/11 10:07",
+        "published_ts": 1786410420.0,
+        "tag": null,
+        "first_seen": 1786411832.6091726
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGNxTFlJMVFYYTdkU0JnTnItLVRSUUhWbTNHc2owZ1JPcmNGSVZ2dXBEcjVQTzZGXzNlZFBERFhSQjExTUZMTDlpTDFsekhZR3o0MlZFb1VneWREbWhEN3FNUHBuVlpSNjRia0tDY2NoN0dubjVNbDFzOGFsVkJWTFlXUmpiY1hCekJNNnlHLS1ZNzdLOE1N?oc=5",
         "headline": "신용 공급이 빠르게 증가하고 있으며, 은행들은 채권 발행을 통한 자금 조달을 가속화하고 있습니다.",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1786333229.0,
         "tag": null,
         "first_seen": 1786333524.697593
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlUtMzlPblRfX1o0TFdMOGlqcjRNanhVU1FpVENENDRLNVZaQlR0bGppcE1MWVRqWkRjcGhRVlNTMXNuWWlFbnhqQ2NfOVE5TlVvd3NoN0R1MUNWRWpGeGF6b0VjRlJ0eXpwWXFEQnktWU55X3JVNWFfR1FHcjBhNA?oc=5",
-        "headline": "이온(8267 JP), 회사채 1115억엔 발행…성장투자 확대 속 재무건전성 ‘주목’ 알파경제 alphabiz",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/10 12:10",
-        "published_ts": 1786331400.0,
-        "tag": null,
-        "first_seen": 1786338933.811494
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5IcWRFWDViaG1UanFIMk9jR1ZOWkdoVGVFTVNlbzAtSjJYZ0dNdllLMEFEaTdiM1lIWFloWkhVbzdpOEZYcFY5WUF4Y0dRSE5xVGlB?oc=5",
+        "headline": "회사채 외면하고 은행으로…기업 자금조달 '대출 쏠림'",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/11 10:07",
+        "published_ts": 1786410420.0,
+        "tag": null,
+        "first_seen": 1786411832.6091726
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41M3hhV1ZjRmxxT3VaT1VpakNrb01tdl9LU1dseS1vUmxBUnQxSG50cUpBeXVaYVRBQVZVU0ZCSXpYRS1ibjMwM1hyemFnYXZ2ZHltR1ZmWlhTQjVtWkh0bNIBZkFVX3lxTE1DVGZGVXZzN3o2eVZQYWI5emQtcjkxUk9sUS1YRmd4Vm94ZXJRNlNLUXZKaTVPNWtJNV9zNUxoSVU4QXZ6bC12UlotZUhuSUVBYTZkbWdONWFWS1hyN054bTVHa3FHdw?oc=5",
         "headline": "700억원 후순위채 차환 안 하는 KB라이프",
@@ -792,16 +802,6 @@
         "published_ts": 1785891149.0,
         "tag": null,
         "first_seen": 1785892525.6988225
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA1MFFVdmtacmxlbEZVZ0laeEVuOUF5ZEc5d2NfamVVY1EtTkQ1NWc0dUNBeWtlVzVvMEVWTzRlR3phV0p4cDgyVXhBN2M3c05TRmZsMFNXVmV1bUl3dm1UbDlIWEpnZm8?oc=5",
-        "headline": "[生기업TALK] 현대캐피탈, 친환경차 보급 확대 목적 ESG 채권 10조원 고지 가시권",
-        "summary": "",
-        "source": "시사캐스트",
-        "published": "08/05 09:47",
-        "published_ts": 1785890845.0,
-        "tag": null,
-        "first_seen": 1785893437.0348227
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ab1Jzb3RIeGxUVjNIS29JcTg1Q21iLUFGYXc4WGtRaXpvc2ZFV1RVRW00LTVxOHdjT1ozOWpvbUJoUFhSN1EwVnlCR2JpOUsxRU9YQzMxOEtsV0xZLUZvR2tCd1JXeERpT0l5c2JB?oc=5",
+        "headline": "美까지 나서 '엔화 방어'…결국 금리 인상 신호였나",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/11 10:18",
+        "published_ts": 1786411080.0,
+        "tag": "JGB",
+        "first_seen": 1786411832.6091726
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE0xVEFNd0YzeEJEX3JyMk5mbG1YU2VwaFpsT01hTVFUeVpmRVZYNklSTEZCT0FhOU9IX002VmJYTGZmdUo3b29GZExB?oc=5",
+        "headline": "워시 의장 물가 지표 시험대, 7·8월 CPI에 '9월 금리 결정' : 국제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "08/11 10:06",
+        "published_ts": 1786410360.0,
+        "tag": "Fed",
+        "first_seen": 1786411832.6091726
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRURaamJzY3pDV2ZTSEpZWlhTNDRMRUhzTFdxdWo5a19LaUdUYmp1U3NZaThJUllfVlF6ekF0dDJ2VnhXd2lPeXI3dUM0c0lPVUxrLXR4MGlWTUI5dXBZQmEzTmx1Zk1JMEhabGN4bTlTR3ZUQWNnbw?oc=5",
         "headline": "\"엔화 매수 美日공동개입, 일본은행 조기 금리인상 신호가 계기\"",
         "summary": "",
@@ -1788,6 +1808,16 @@
         "published_ts": 1786390260.0,
         "tag": "Fed",
         "first_seen": 1786391131.653446
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSzNfdXFVaGFCLWJaNmp3LVUyLUd1NzNjWXB1Zy1NR3plTnNXMTRMVkhSaU9jSVJxUy1PclJpVkw2OUJ1NmVqdGE4WExuSmtJOFBXNlRwTGduWkJYaFItMWQxLTUxVElFRGNUTVNmU3UySGxOeFZfNzEyanJ2OWtVRTB0TFo?oc=5",
+        "headline": "PGIM Balanced Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/11 04:08",
+        "published_ts": 1786388880.0,
+        "tag": "Global",
+        "first_seen": 1786411832.6091726
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTJYTEZndFVjTjR1Wk5BN0ZibFIzLWlfMGpqZGlEZGZEYWZVTGFZT0RBeXNybndCX3dtQUFIbW1YbzhNRGZuLW1uU3liM0JaUkZfYzF5STdWWUVkcWFqUlczaDJnRmhVXzVYNFkta2QwdHpkenpzLTRUYWtycVh5dTdmUXZkOVdtQWFiRmpycndiV25NUFEyaWRB?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1786374152.0,
         "tag": "Fed",
         "first_seen": 1786376725.9657469
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUnBwaWJBemZwTDBOek5UTUhPWHdfMHhWRll5R21nYlZ2RFlvLTU1aG50d05SVGpsb0Z6RTB6MFFmZ3RERlI3SHBIZE9pbjNCN0h2ZTA0M1NQQU9QZDIzSmNIV2RpS0YtTHNuZmVzWlQ2TlRZNUR0NlZJdjdNSDVaOGJwdXAwamlDNGpfNXNTQjgyZw?oc=5",
-        "headline": "Fed Chair Warsh’s Cautious Stance: Mixed Signals for Markets in 2026 - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "08/11 00:01",
-        "published_ts": 1786374060.0,
-        "tag": "Fed",
-        "first_seen": 1786375837.420853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPamQtQlA3a0lXUHNzSkJDMUhVQk0wYnF0UmViZVJ1Z3M0TWZlX2w0YzRGTUpBNGczdUxsSXV1WUotUXhPOHZtcWVLdGFmYzUwd21JNG9nMHRyNGF3M1EyT1hwOWh0ZkFIVnZlWU1EbDNHM2VTaWRvdTBuNXdWcWdfZFhCYTlDVklvdnFoYjVDNDdPU25iMzJIbGM3c0xIWW9xZ0dEcFhnRmtkSnNuRDktUVk0OGREX0ZRZmV6VXo4RXExa1hFc1A4X2hsVHFQTGc1TlN4RlJMVlZ0OVdRMnFIclBtOVpucnJHT3A1T3VrOE5UR2habHp5WVN1VHQ0RnpEcTFzdzVEcTYxZFhsNHUwVWY2ZnBnV2lsTVlJV1I0RnNfeVkwUDhHQmFDZ1NwOW1kb182YnZMc1pCMjJXc2RtU2p5dnE?oc=5",
-        "headline": "Fed Chair Kevin Warsh Has Held Rates Steady in Back-to-Back Meetings Since Taking Over in 2026. What His Cautious Start Means for Markets.",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "08/10 23:36",
-        "published_ts": 1786372570.0,
-        "tag": "Fed",
-        "first_seen": 1786373125.5742345
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQTFQtRGxlTjl0VlVEbWxWdm5SWTJtZllIc1N3ZUs2WVRGT25hZ05OMlNlWmR5YUpnWVJaaXVkTDBVX1VvUVRSeC15QWR0RzFMUzRoVGt5cWxCMzZ0SkVYYUpRMzkxaWFSUnZPUE1IeHRvOFMxU3BEZE5pMXQyZW4tSUlaYTJJZXpBQkVVWjBlUUhoWHVBMXdqbV9jTzdkNWtSaUxMNVg5R0ZmMEdhekd6Ukdjb1gtd3NOTWxaVDVSWUFHeGx1WlBWN2lnVXA2Zmo1aHE3R19TQ0xwVW1OWlh3UEtnWFJJb1M3c2E0OWtVSi13RGI4RlJsckIzc2RLUWpGakxucjhGOTl5aEtDY3c?oc=5",
-        "headline": "Top Economist Says Washington Can’t Fix Its Own Debt Addiction, Calls for Constitutional ‘Debt Brake’ to Stop $40 Trillion Crisis",
-        "summary": "",
-        "source": "newsbreak.com",
-        "published": "08/10 23:00",
-        "published_ts": 1786370439.0,
-        "tag": "Strategist",
-        "first_seen": 1786408231.2200198
       }
     ],
     "watchlist": [
@@ -2413,35 +2413,8 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 10:15:51",
+  "updated_at": "2026-08-11 10:30:59",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.778,
-      "chg_bp": 3.2,
-      "series": [
-        3.809,
-        3.887,
-        3.866,
-        3.848,
-        3.895,
-        3.867,
-        3.913,
-        3.917,
-        3.959,
-        3.865,
-        3.829,
-        3.8,
-        3.831,
-        3.758,
-        3.742,
-        3.74,
-        3.669,
-        3.742,
-        3.746,
-        3.778
-      ]
-    },
     {
       "label": "5년",
       "value": 3.994,
