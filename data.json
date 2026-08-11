@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGNxTFlJMVFYYTdkU0JnTnItLVRSUUhWbTNHc2owZ1JPcmNGSVZ2dXBEcjVQTzZGXzNlZFBERFhSQjExTUZMTDlpTDFsekhZR3o0MlZFb1VneWREbWhEN3FNUHBuVlpSNjRia0tDY2NoN0dubjVNbDFzOGFsVkJWTFlXUmpiY1hCekJNNnlHLS1ZNzdLOE1N?oc=5",
+        "headline": "신용 공급이 빠르게 증가하고 있으며, 은행들은 채권 발행을 통한 자금 조달을 가속화하고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/11 10:04",
+        "published_ts": 1786410288.0,
+        "tag": null,
+        "first_seen": 1786410925.9561574
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE10Zkt6YnJGdjhYSHJiYUUyQjlCOXAzNEt4R0hTRUVLamtrNHJ6aXk3YVFudjRhS1dZa1QySnU4dlNQUUg4dm5GVV83UkYxSXAwWE1aYnU3WWVxOGlFWWVwZlBXOTNIYmF6OW53VDJGR2RMUQ?oc=5",
         "headline": "10년 국채선물 60틱 급락…유가 급등·한은 부총재 간담회 대기(종합)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786331400.0,
         "tag": null,
         "first_seen": 1786338933.811494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5XRTZoVnI3NXh4UzRVSGJ6YjNBQXNyaEw2a2t4OERIZkFqakVqcXJRM3hOdlgxSm1ma0dUaEdoTjF0aFlqQUtkZFB1eTRJU2NoYzFsOWxlNEkyZFlCaGc?oc=5",
-        "headline": "7월 국고채 금리 상승⋯중동 리스크·환율·외국인 매도 겹쳐",
-        "summary": "",
-        "source": "포커스온경제",
-        "published": "08/10 11:49",
-        "published_ts": 1786330180.0,
-        "tag": null,
-        "first_seen": 1786330839.1558967
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRURaamJzY3pDV2ZTSEpZWlhTNDRMRUhzTFdxdWo5a19LaUdUYmp1U3NZaThJUllfVlF6ekF0dDJ2VnhXd2lPeXI3dUM0c0lPVUxrLXR4MGlWTUI5dXBZQmEzTmx1Zk1JMEhabGN4bTlTR3ZUQWNnbw?oc=5",
+        "headline": "\"엔화 매수 美日공동개입, 일본은행 조기 금리인상 신호가 계기\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/11 09:56",
+        "published_ts": 1786409760.0,
+        "tag": "JGB",
+        "first_seen": 1786410925.9561574
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTTd1ZUE0ajFvVXlDSENJcExxWVpFSlBJWXkzSmF5X1N1OFlJbU9yNFBZUnM1dXk5R1VaaEp0SlNOSlMya0hYcFI4VVd4LTM5ZmZGMDNIVi04SmhVMi1fOFdLc2xIdjhCRUlTc0U3Uk1JNDZxNGxjREoxZk5LeEd5RE9FYlFGQlRuTFRwZGJ5bTM5ZnFkcFFtRzVZZXFqcHRx?oc=5",
         "headline": "Inflation Reports Could Test Warsh’s Tough Talk",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786370439.0,
         "tag": "Strategist",
         "first_seen": 1786408231.2200198
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeGZIN1hOR2swZnNqaEc3WHlPY3dwQkRPUTFnZ2w1SjJCQkdrRml0cTlRY3gxcFZJVk54V0NnYXB3b05VeFppems1SGZzVHhtYWxUMGJ3bkZpMl9HU2ExUEdTdzNZWl9DWW9sWjYyX0lPMi11SDJ6YlI2N2J4c2FPUVM5a1ZwcEtTS2J3?oc=5",
-        "headline": "Embraer ADR Representing Four Ord Shs Stock (EMBJ) Opened Up by 9.25% on Aug 10: What Investors Need To Know",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "08/10 22:47",
-        "published_ts": 1786369637.0,
-        "tag": "Global",
-        "first_seen": 1786370435.9844885
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 10:01:03",
+  "updated_at": "2026-08-11 10:15:51",
   "yields": [
     {
       "label": "3년",
