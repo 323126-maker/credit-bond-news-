@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OM3Y0X1hjc3FveXMxVFAwZGJSZDhTU0JjTFU3dGZldm1nTndmdU1ZZFNObjhTUnZIYjVpblY1MXFuRmhFbzJSVVFsTjlJVTV2ME9aZ2JZNDBPXzRoNXR3OVNURGdIck9FcUFlMUJNSzTSAXRBVV95cUxQdG05SV9iMG5CSlVyRVRSZnJsdnFZTlRvODNva3N0cGhUOXhnSmVGN2Z0cE9oT0VLNW5ROUhIRkg1SC1ZM01sRWVBMDVack0zTG5Rb2tTLTZDRmRCUWpoWEpfTEd5b2hXS2dvd2pLUUNCUGU4Tw?oc=5",
+        "headline": "4대 금융지주, 채권 1조1200억 발행…‘실탄’ 쌓는다",
+        "summary": "",
+        "source": "IT조선",
+        "published": "08/12 06:10",
+        "published_ts": 1786482600.0,
+        "tag": null,
+        "first_seen": 1786486524.312223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vYllnU0NMcV85dEMyOTk1WXVXSExCRXo0S1BFR2FNVFI0dnExZllta2V5aHpFMzdLb1dpUGl2bFprNzV2bUFEbTBuTDZuN1YyLXZFWmxpNDg2bWxiNmxVOWpqU0t5UU9nWlZaeWVTdm5HNkE?oc=5",
         "headline": "한미 파이낸셜, 5500만 달러 후순위채 발행 및 1억 1000만 달러 기존 채권 상환 발표",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1786312800.0,
         "tag": null,
         "first_seen": 1786344323.6551547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1fdHNhdnVwUC03dlRSVG4yYmFPQ2hNekppZFh5WkhQcEtaNkNheGxvci1YMFBBRnhzOTlzVjlleXdHWEh3MHJTQUEzMHNTTm1Y?oc=5",
-        "headline": "美银 Hartnett ：「战术」看跌，但「战略」看涨，因为政策制定者不会允许市场崩盘",
-        "summary": "",
-        "source": "odaily.news",
-        "published": "08/09 20:01",
-        "published_ts": 1786273260.0,
-        "tag": null,
-        "first_seen": 1786333524.697593
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbDkyMDVLa1paWUFwUXF5OGJqRWIwYTRJb2w0UTFlVlJ1Z09MNGVzeTFFQWtNc2JnWGxnQmwta2NWRnpnWko4eEMyR1NLdU8tOTNj?oc=5",
+        "headline": "유상대 \"추가 인상 가능성 높다\"…채권 시장 반응은? [Pick코노미]",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/12 06:51",
+        "published_ts": 1786485060.0,
+        "tag": null,
+        "first_seen": 1786486524.312223
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYWpDaXZ2Skp3NEZvVzZrSUFFc19PdHladWxtUFR4RnFaX2xHV2kxTExuU3B4TXVtNGVYMndnSlRCMUkxOUVYRkJzTmlfT1VNS3FLNGtScm9janhrc2xwdGp1bFpfT3IwcGtIR2g0X0pWQ1MtMUQzNTZZX2c1WVNaak5GRHpHQjVRTFhhVFBRT3BkXzhqS1dSRWNucmxzZnpMcFktSURYd0kycC1BTmdVZlAwallGRFcwSTY2MUpKclRqRHhEWmZxVW9KWFhndw?oc=5",
         "headline": "프랑스 룰렛 프리랜서를 위한 시장 분석 효율적 방법",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786092844.0,
         "tag": null,
         "first_seen": 1786102229.900742
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GaXdFbjFtc2xlZkVOUTRzb1F2ZF9RYk50b1l4X1RzWmNTWW8wTXN5MC1icEdGSndPb1pteTk0UmIxTkNibGpYYUttT28xblpIVnhjT0pmN0XSAVhBVV95cUxNRml3RW4xbXNsZWZFTlE0c29RdmRfUWJOdG9ZeF9Uc1pjU1lvME1zeTAtYnBHRkp3T29abXk5NFJiMU5DYmxqWGFLbU9vMW5aSFZ4Y09KZjdF?oc=5",
-        "headline": "환율·물가 잡혔지만 불씨 여전...한은 8월 금리 딜레마",
-        "summary": "",
-        "source": "아주경제",
-        "published": "08/07 15:37",
-        "published_ts": 1786084656.0,
-        "tag": null,
-        "first_seen": 1786092321.6413894
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 07:01:02",
+  "updated_at": "2026-08-12 07:15:47",
   "yields": [
     {
       "label": "3년",
