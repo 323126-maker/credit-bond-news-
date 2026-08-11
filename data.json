@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RYXgxWkotclg2aTUwUEhNRDFjTEMtMnNQMTZlcWh1OVJhVHMtR0pTQ2Vmc3NrOTF4eHN6OWhleXlWekxvcWJ4cjZadkNZeXBCVUNaMnNJbHZRcHl5UTlWZGJpT2NzVEgxTkdDWm05TTI?oc=5",
+        "headline": "[뉴욕채권] 불 스팁…파키스탄이 되살린 호르무즈 낙관론 속 입찰 호조",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/12 06:50",
+        "published_ts": 1786485028.0,
+        "tag": null,
+        "first_seen": 1786485637.111838
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cHNMaXJvQTR5LTM0YklLQnVITzlqTXNGbkk4c0IwaGU4bzVBVTNBeERQTENHcEJEMFJsa2U3YkktcnNINExNQ0hodUVqLVNPaFNNTzNsUFZNUHIwb0d5WmFtYWF3c1JkdFJYazhiNXg?oc=5",
         "headline": "짐 비앙코 \"연준이 패닉해야 채권시장 패닉 멈춰…금리 올려야\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786393800.0,
         "tag": null,
         "first_seen": 1786405528.1798398
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5URE9faGhmbk1VSXlfRks5b1pBUEtud3pwRmpfU25xb25BeFpNeDN1SEhWU1RZRDlZQTJTTTUxUzNzLXRUVmF4bV9hUkpCenRjM09vU3YtUFd6Y1NQWE5HOW9zMWlGSEZfSlRtWG5kb3BOVE0?oc=5",
-        "headline": "HA 서스테이너블, 10억 달러 규모 녹색 선순위 무담보 채권 교환 제안",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/11 05:29",
-        "published_ts": 1786393782.0,
-        "tag": null,
-        "first_seen": 1786394725.8824224
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 06:45:46",
+  "updated_at": "2026-08-12 07:01:02",
   "yields": [
     {
       "label": "3년",
