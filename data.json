@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPb2Q1dE5KZ3o2X202NjV4WFRpR1hQcjBzcjlrSDU1Z2U5QURTQXY4YlVsWTU4cEctRHMwN1N2Z0wxTXJ5cmpqZWxndUJkQVdsaVRzLTVWZGkxTjY0eEF0VVExbWNHS2I3VTltUkZDUEJ3LVJZYmozM19kLWRIUnZOUUl0eXp1SU1UWGdQZ3dnbUPSAZABQVVfeXFMT29kNXROSmd6Nl9tNjY1eFhUaUdYUHIwc3I5a0g1NWdlOUFEU0F2OGJVbFk1OHBHLURzMDdTdmdMMU1yeXJqamVsZ3VCZEFXbGlUcy01VmRpMU42NHhBdFVRMW1jR0tiN1U5bVJGQ1BCdy1SWWJqMzNfZC1kSFJ2TlFJdHl6dUlNVFhnUGd3Z21D?oc=5",
+        "headline": "엔터지(ETR)의 하이브리드 사채 발행이 유연성과 배당금 지급 간의 균형을 재조정하게 될까?",
+        "summary": "",
+        "source": "simplywall.st",
+        "published": "08/11 11:30",
+        "published_ts": 1786415406.0,
+        "tag": null,
+        "first_seen": 1786421725.4801116
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UajNyMXN0UmU1a3h3dEdOUmVoM3pnNW44WkwwUENpcGxzNUQtSGx6VTRVS1BCYXN6eExVWlF0bWdrQUJyVEloZzI4NWFMaFk0cmRpZnI1TUs3QVo5MkQ3bzcwQmVFd3RVd1hxU2tIclZwYjQ?oc=5",
         "headline": "트리니티항공, 4회차 신주인수권 행사가액 1881원→9405원으로 상향 조정",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1785989178.0,
         "tag": null,
         "first_seen": 1785990630.7660255
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5KTXNUY3VfRG80bV9vQmIwZFNjZW1rUFJuOUFXNFRyYmljcnlXM1oxenk1SjZpOVhqQmhaT1JZcTNVMUczS0diUHVablFZSjVOellEMDI5VzhNQWtj?oc=5",
-        "headline": "하나금융, 5580억 주주환원 뒤 2700억 보강···’양손잡이 자본 전략’",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "08/06 08:01",
-        "published_ts": 1785970864.0,
-        "tag": null,
-        "first_seen": 1785971730.9903283
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 13:00:57",
+  "updated_at": "2026-08-11 13:15:48",
   "yields": [
     {
       "label": "3년",
