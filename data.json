@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10cHNMaXJvQTR5LTM0YklLQnVITzlqTXNGbkk4c0IwaGU4bzVBVTNBeERQTENHcEJEMFJsa2U3YkktcnNINExNQ0hodUVqLVNPaFNNTzNsUFZNUHIwb0d5WmFtYWF3c1JkdFJYazhiNXg?oc=5",
+        "headline": "짐 비앙코 \"연준이 패닉해야 채권시장 패닉 멈춰…금리 올려야\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/12 05:42",
+        "published_ts": 1786480952.0,
+        "tag": null,
+        "first_seen": 1786482924.947709
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcVZ3MzRTTGtzN3FGNVdCMEdyUTA2MWQ5YjdkV0RDU0M1cUVpOEVNNm1wM3NNdVZPM2NYdzc5TXBrb0RVSFZKcTdKRTFSSXprN0NoU3I0eGZXTVZ3TzJUTC1ENkh1dTZVWE1jZWpJTjhEWm01YnNfQnRfR2ZFZ1RyUXJZaGVNOVpn?oc=5",
         "headline": "1조 달러 이상 글로벌 대기 자금, 머니무브 시작… MMF에서 사모 크레딧으로 이동",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786391764.0,
         "tag": null,
         "first_seen": 1786392357.0743496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkZEFianVVUThfREctNDdBdFdUYzdYQndQNUViMi1ZWTlvVldFX1l0dW02LXZkc1Jwb2ZLOHNlRDlGNEZrUW1HOVNiQXVrU0lEcktPOEtoSmxTZ24wSkMwVjFzVTlaZTcyelVETmhLbkFCbUFGcVNn?oc=5",
-        "headline": "무디스, 부채 감소로 그리폰 신용등급 Ba2로 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/11 04:18",
-        "published_ts": 1786389480.0,
-        "tag": null,
-        "first_seen": 1786393837.1366615
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 06:01:05",
+  "updated_at": "2026-08-12 06:15:56",
   "yields": [
     {
       "label": "3년",
