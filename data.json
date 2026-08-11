@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1YUHpKeXdSNGpHRV9kMTVxVzliOW5peWE5SHN6ZGVNMGw3NDczZ3RGT2NYOVlEalBKYlBUSkhQdEhIZVR5S1VHQlRQTXpETkdXUVVUamVqQ25wdHdhMUp1UzQtUE9pSllGVFB4TDlLOHQ?oc=5",
+        "headline": "What will Warsh do to favour Main Street over Wall Street?",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "08/11 13:34",
+        "published_ts": 1786422843.0,
+        "tag": "Fed",
+        "first_seen": 1786423522.8872056
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQNUVxRUlpMUw2dm5FY250djRJcDlGMnpTbnVySXR5d3c0bmlTYkRoN1FnNWJLcjJpVVR0WFVqdjNha2RzLWVqY0F3MTZscmh3djBVbU5uOURPNVRYMFc2OVpiX0xqTjR0ZFJSRmMtbVptQWplbjJxU1VCUDQzek5Tb2VpVVZmRzFiRmF2LUZ6RFJiY1ZFTnh1Qk1ia2VpOE16dVFsaGd5X2liczNlNmpreWluOS1XQ2dGX0dmckZBY1R2Sml6Y25ITy1nVFRxTExNcE1PekxDaFY4WV9X?oc=5",
         "headline": "No contradiction in rising earnings, higher bond yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786378418.0,
         "tag": "Fed",
         "first_seen": 1786379433.46735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRXF4a253TVE3SEU4TmhvTjIwNzd1aUE4Z0R0a3VBYXEtREFqdlZGM04wNmRET2pIdXJSdlphQ1pOMDBwel9BUVplTVJrT3lxeXFSQXdrZlNVVWZMVm9fYk4wR3JORGh2S0I3QlpKcXFPSlFxcnJYM1pVRVpFc0VWdkRuaGl2eHNaY3gzbm1FcUZOaUlOX1ozOVEwRE5fd3VmNDBhSmVzd3ExWWZUblhZTHZWa2t5aEczN3JraFR6cU5LWUxV?oc=5",
-        "headline": "Kevin Hassett outlines preference for Fed rate cuts, adding to pressure on Warsh",
-        "summary": "",
-        "source": "Washington Examiner",
-        "published": "08/11 01:11",
-        "published_ts": 1786378260.0,
-        "tag": "Fed",
-        "first_seen": 1786400125.944108
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 13:30:59",
+  "updated_at": "2026-08-11 13:45:45",
   "yields": [
     {
       "label": "3년",
