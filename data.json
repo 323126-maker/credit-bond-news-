@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1NYTdQNmRRbnZRdHlieU5XUHhWdlV3THo0Q1dJVFE4ckZYZzhWMGhOUGV1ZURCUldkNkZaNW5PMzhTYkw2enFUN09VdVZwWWtYcmd0bnpocV9BeG9HcFlfWWxObmdhN0lNX3BGMXNsYnlySGxBenBr?oc=5",
+        "headline": "S&P, 유니버셜 헬스 서비스 레버리지 개선에 전망 상향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/12 01:46",
+        "published_ts": 1786466760.0,
+        "tag": null,
+        "first_seen": 1786467637.9363182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5MaURMcmo1RjZyVXFwVmpEWm9NMEhMWWdMT3RFTkZYX3BTeGgwUU9zdnlEU3dPZ05DTHYyeE9UZ0VJZF9jU2V5ZFlvczZlSzJLZ3djUXUzMW1EU2ZqV2Y4STFlTVVfSEUya1UyaU54ZjR3dVJvZ09n?oc=5",
         "headline": "S&P Global, 부채 감축 진전에 Pirelli 등급 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786376734.0,
         "tag": null,
         "first_seen": 1786383032.7144916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fNktVUWNya0pRLTZ2YW1jWVBvUVVZR1ktVHdZOHBlX3NCWnBpdWJHOEJvc2Y4RUtRUmhwVlFLNGFtX0xrT2ItWHBFRDRVTHl5QjFWRDQtSXJuSTDSAVtBVV95cUxNXzZLVVFjcmtKUS02dmFtY1lQb1FVWUdZLVR3WThwZV9zQlpwaXViRzhCb3NmOEVLUVJocFZRSzRhbV9Ma09iLVhwRUQ0VUx5eUIxVkQ0LUlybkkw?oc=5",
-        "headline": "8억달러 전환채 추진 보도에 실리콘모션 장전 8% 하락",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/11 00:01",
-        "published_ts": 1786374082.0,
-        "tag": null,
-        "first_seen": 1786379433.46735
       }
     ],
     "perpetual": [
@@ -1820,6 +1820,16 @@
         "first_seen": 1786449637.699195
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbUlScGxVRVJnYnZvangzYXNZUHZCOUZzOERXS2xqejREaS12NWVPa2FfOGVhOGdsWW1lS3pXcHZ0X3VNYW93UjRtaTNTQkxxakFHcko5aHdSWmxlc0ZaWUxodk9LMHpZR1NfdzNmSjczaDlk?oc=5",
+        "headline": "The Yen Bailout Won’t Fix Japan’s Bond Problem",
+        "summary": "",
+        "source": "City Journal",
+        "published": "08/11 20:42",
+        "published_ts": 1786448558.0,
+        "tag": "JGB",
+        "first_seen": 1786467637.9363182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObzRZaXFjdU53bkpnSG5VRzVLaXBhamVDWVpjbks4NVY5ZGJWMUdWcUpXaVJnbnoweW93XzNJMTc4T3Z4MzZ1WWdvanp5Zi10TXN2YngxTDl1eElKSmlsUkpfX3FQLXp5U0EzRzlvaVprSG1uQm9tcFhpNnV1T0l6MnlfTEg?oc=5",
         "headline": "How to stop Kevin Warsh becoming a lame duck",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786438500.0,
         "tag": "Global",
         "first_seen": 1786460438.7823033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hQ3BMNFoxUDdRbVFNWHVwUUlOVWpQRnR3RVFxSDZvOTYzeTdyNEZ4a2ZoRVl3TnJ0RWV6a1NUd3hteUlxdFVXMkdOZzFxLVpFazYydmVxdHFZLVF6M3FkWnVURWpNZ9IBU0FVX3lxTE11SWFzWElEb0RxbE11TFdqUWp5WFZNLVdIdDBIa1ZuQjVWQ1dSR3JodUMtWDAtQ2tiMGRja1BPd2RYQ1l4ZWliOE9RUGRTT3htck53?oc=5",
-        "headline": "베선트 카드 약발 떨어졌나...美국채금리 상승·엔화 약세",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/11 17:47",
-        "published_ts": 1786438066.0,
-        "tag": "JGB",
-        "first_seen": 1786440635.9379702
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 01:45:47",
+  "updated_at": "2026-08-12 02:01:02",
   "yields": [
     {
       "label": "3년",
