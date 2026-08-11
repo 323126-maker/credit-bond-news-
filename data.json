@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPanIya0JBZnBLcVdwWmhfaUpYblVldG1Xd0VtMUdna19uWGtxRktKZktmMERROU1vVHJIelhmUWs2VEFXd1Bkb25UOERwdlliNXdzcWY3N2dWNy1ZdlgtRGFFVS1BWUI4aHVrY0JBMkp3NzdvTzJUOGhnSnlTSGR1amVnNUUyc1JuS1BCXzRlel9VaGpvY2V2am0zRERyMzA0TV9Lb21aYXU3UGJfbVI4R0JuZk9MZlV6UnhDZ3c2dFdYRk5BcUZoSGxOZUdPaUNtQ1BLdFFuemdkN2FWSHJFN0ppb0VlT3h4VldQdVAzUQ?oc=5",
+        "headline": "How Much You'd Need in a Treasury Ladder to Replace a $60,000 Salary, and Why It's More Than Most Retirees Guess",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/11 23:09",
+        "published_ts": 1786457388.0,
+        "tag": "Global",
+        "first_seen": 1786457733.7860873
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTjdWdXdBNHpuaHZVSGJEOU90NVpQdHB4NVN0WGRnOWV0d2l0dWtwbUVwUTNTQ29CaVNPV0hqTnIxeFBOX2lqNEF3YUFYdVZlOEoxUDc1VHRRSXRQcFAtRS1xak5wc1ktSGNsWkY0SXl3Z2FCZVZxMVh3cmlnQzQ1cXpGQkhTYjBpeTZ6Y1U3Tl90X0hxd1IzcHFYX1AzUQ?oc=5",
         "headline": "Oil Steady Near $90 as US-Iran Talks Stall; Stocks Edge Up",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786428000.0,
         "tag": "Fed",
         "first_seen": 1786428926.7661638
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSU1WVmJHbmtMOFlwbmNJcmVRbjQ4dzBiR1BiS3d4WnowVGZtdVRmR0w1QkdkSG5pbmU5cGgtU2x0cG1BY1RyY2lLVTB6b051alA0WW5oNTl3ZHdhT0dEWTNoS19MT1hGWkVrOU4xb0ZNb3hGTVVzZm5DcW9DMTkzRdIBgAFBVV95cUxQSU1WVmJHbmtMOFlwbmNJcmVRbjQ4dzBiR1BiS3d4WnowVGZtdVRmR0w1QkdkSG5pbmU5cGgtU2x0cG1BY1RyY2lLVTB6b051alA0WW5oNTl3ZHdhT0dEWTNoS19MT1hGWkVrOU4xb0ZNb3hGTVVzZm5DcW9DMTkzRQ?oc=5",
-        "headline": "일본 국가채무 1346조엔 '사상 최대' … 연말 1500조엔 육박할 듯",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "08/11 14:07",
-        "published_ts": 1786424852.0,
-        "tag": "JGB",
-        "first_seen": 1786431642.7961533
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 23:00:57",
+  "updated_at": "2026-08-11 23:15:57",
   "yields": [
     {
       "label": "3년",
