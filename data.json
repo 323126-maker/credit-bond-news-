@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlh3YS1PcXFpM21CdTlGcFVEZXNid3pXZk0wR2RKTklFb1pxM1BfdzE5VS1WUDZlMHJvZjNxamluZVljaXZONEF0MHZoMnkxcWJ4YU1NNG0xT1R3YWZQVVJ3SUoydlNSQ1RtbU1Ub1ZiV2d5Ynh0ZkNKZGYxalMySw?oc=5",
+        "headline": "[마켓인]무디스, 중소벤처기업진흥공단 신용등급 ‘Aa2’ 재확인",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "08/11 14:08",
+        "published_ts": 1786424882.0,
+        "tag": null,
+        "first_seen": 1786425326.9111412
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhVXRLMlhjWUY3MzNZbHE4Z2R1RFViWS05YW1NaXNUR1g5RDdaUUlhOHU2VzEtZjJLZWlRN1ctM202bGtqWEJDLXF6YTlBMldGNUl0RGZlb01fNFI0b2w4RnhOX0xRc2FNTlRQYk5yRF8?oc=5",
         "headline": "금리 올리고 중동 악재까지…채권시장 얼어붙었다",
         "summary": "",
@@ -100,6 +110,16 @@
         "published_ts": 1786396500.0,
         "tag": null,
         "first_seen": 1786401922.6423159
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWmszTlVONHo4Y09va1RvenhXdU5OUFltV3FxcEc5VGNwZk94czFTMkN0U0lJSTg3NTB2V0ZDZEJQWW5FaXR0OXdrT1hPRXU0dkE?oc=5",
+        "headline": "마스텍, 6.5억 달러 선순위 채권 발행..6억 달러 텀론 상환 예정",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "08/11 06:14",
+        "published_ts": 1786396470.0,
+        "tag": null,
+        "first_seen": 1786425326.9111412
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbFQzd2JQQWdRbHYtTUhqTFh3NkhwTVJHVUIzUTFKdURONlhMUExwNEpkODF4QjhNZEdkN0s0Q2RaS2REdVpucWdUTUNNdHl1M1QtdUR1VGNTMkZ0dXduVmpHb3k1R3ZYc2R5VlNROF93dw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1786345232.0,
         "tag": null,
         "first_seen": 1786352436.8492875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ET1ktVTJfUkQwTHBCa05hQ2loSTNMZlQzWG5KR3d6YmlwbDdXVno0V1lyUktlT0VEM0lJRTltdXpid00xd0h1ZjRlTjgwQldLMnVSZzh1OG1ZMHVlam85R05DZkV2bjBwREE?oc=5",
-        "headline": "기준금리 인상에 채권시장 위축…국고채 금리↑채권 발행·거래량↓",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/10 15:43",
-        "published_ts": 1786344180.0,
-        "tag": null,
-        "first_seen": 1786345238.62936
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUmxnbnJhYWNNblZjZEFvVWFGRl9WR0NuQmo2MWtMMHNIWGZCb3c0SmNVWWY0bUxaaTdWV2VTNlpNUUpDb0tyZFFBb2JxeXRWbEVQWUhycTdCVnYzOFVlb2FNVDVHa0p0dmZ6UmdlbFkzYmNhQXRGRWtDM2hLUkhJRWY0bHowcDBKcHM5UXV3?oc=5",
-        "headline": "무디스의 씨뱅크 신용등급 상향 조정에서 우리는 무엇을 배울 수 있을까요?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/10 15:20",
-        "published_ts": 1786342808.0,
-        "tag": null,
-        "first_seen": 1786343434.021926
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-11 14:00:57",
+  "updated_at": "2026-08-11 14:15:48",
   "yields": [
     {
       "label": "3년",
