@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnRLQi11aEM0V0ZaVE9HcFk1ZzA4V3U1MmU5Rko2OC0tazhjZlEyLXRBVUE1YjRxX3JORVdLUXZTcUJkSC1mRzNrVGl1Uy1WR1hlM0lnYzdqVlAzSGhNYzRQRlVQUVlyMVF1OWtuZjgyUy1yYzFpeXV1SUtjaUZxXw?oc=5",
+        "headline": "[마켓인]‘역대 최대 실적’ 코웨이, 4000억 회사채 발행한다",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "08/12 18:35",
+        "published_ts": 1786527305.0,
+        "tag": null,
+        "first_seen": 1786533322.361068
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9zTXFINGNXdjNRQzZhMTZaNnJiU0lvUFBNSF9xdGd3QmFpVDRtSWR3S242a0NzNXZqNHZSMG1xX013R2ZYOW5vazZmVVozVXN1STJB?oc=5",
         "headline": "고금리에…회사채 한파 더 길어진다 [시그널]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786437766.0,
         "tag": null,
         "first_seen": 1786438839.1523643
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE80R0dnMWlvRHdWdk5vRlNJOUFaRWEwMElOeFg1N1RycEFFRnRHek9jc3lHZF9qM1AxQ3VZVzZoMF9hSldhZUUzQTRKWWJMblk?oc=5",
-        "headline": "[채권마감] 베어스팁 30년·50년 금리 사상최고, 쏟아진 악재에 패닉",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/11 17:24",
-        "published_ts": 1786436646.0,
-        "tag": null,
-        "first_seen": 1786437038.7494464
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 20:01:03",
+  "updated_at": "2026-08-12 20:15:46",
   "yields": [
     {
       "label": "3년",
