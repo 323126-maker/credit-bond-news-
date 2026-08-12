@@ -836,6 +836,16 @@
         "first_seen": 1786469434.7200894
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE43QXR0aTdyaW9lYXZMa2V5S2NnNmdrUVI1ZlYxSDdaT3k1ZzdkdFoybjlwVGVlSGR2TzFDMURiU1ZyVG5hVEtFT2hSMDZWYkU?oc=5",
+        "headline": "국고채 금리↑…한은 '추가 인상' 언급·초장기물 입찰 경계감(종합)",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/11 17:04",
+        "published_ts": 1786435490.0,
+        "tag": null,
+        "first_seen": 1786497326.882423
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Hekd0cGctV21jaG42OWE3cUJsLThnRFB4dHF0d0hTX0ZvMTQ5dTdXX0tJa0Jhc3pESUY4eEFDaDVJMks3NTZxRDJVeFRvRGc3Smx6eEVpRkwwdw?oc=5",
         "headline": "일본 나랏빚 1346조엔 사상 최대…1인당 빚 1억 육박",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786139580.0,
         "tag": null,
         "first_seen": 1786140511.0592413
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1oRm5vNHE3RHdVT29wakNkYTY1YndGNTFmZHZYbDVlT0JLOFo0Ny0yaVdZLU5oTDIyQlc3dmNqOXBhcFJyd1RXNkdfZ1NpeVlsMXBYem52T2RON1BZS3FEVjRaNktzNDYy?oc=5",
-        "headline": "[아유경제_기자수첩] 경기도 보고도 ‘확장재정’… 나라 곳간 악화할 셈인가",
-        "summary": "",
-        "source": "아유경제",
-        "published": "08/07 17:54",
-        "published_ts": 1786092844.0,
-        "tag": null,
-        "first_seen": 1786102229.900742
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1IYk12MGoxNFhmbWhuNlg4VEYtWGw4QWtaeFM5RXZWdjUxRDFEZmkzYWNlN19XNU1Yem1KazNLdDBQczhTVFRYUjZoQ3k?oc=5",
+        "headline": "[박근종 칼럼] 미국 30년 만기 국채금리 5.28%, 시장에 부담 없는 균형과 재정 운용의 신뢰 필요",
+        "summary": "",
+        "source": "시사일보",
+        "published": "08/12 09:56",
+        "published_ts": 1786496160.0,
+        "tag": "JGB",
+        "first_seen": 1786497326.882423
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFJsQmt5VU9pM3EwaXpOLWg2YXNHT3NtUW1SbW9lMmlUZS1iamc2azZZMEVRcmNsdEFtSHRoSkxlY3pyOWpGeFlxQ3pzRldUS2lxTXUtcFlPWmRXMUhHRHJWYnR2bF8wazF6c1VBSFlqeWZqN2swSDl3bnd4Q1luZjVJYTJYQXhSelVpOTlwaUQ5b2RfQ3c?oc=5",
         "headline": "Guggenheim Limited Duration Fund Q2 2026 Commentary (GILHX)",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1786491094.0,
         "tag": "JGB",
         "first_seen": 1786496441.3878305
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPTFJrendtSllLa0U4N0NhUXVvYjdWNl9EMHpRV09rYzdWYmhyeGlTNHFLMS1MU3VBTWJQZ2lYZ0xmdDVmWHMzRFdHVkFuVUcwUktQcjF3UWFnUzJHOWxaM2xlNHZLVUt3NzZ4d1I3c1JQUmFjQjV3cDNMXzlPOXZicUZvRUZiMUtQLUtfT0s5SFBFRS12UTlXY0U4X2VVTFBSRUNZdWdKZjRESzh5dDdvbmdDWk5wVlkzdmRMRUtJal90N0hFa3IxREI1Q04yZw?oc=5",
+        "headline": "토토 하버브릿지 파악 시간 관리 종합 평가",
+        "summary": "",
+        "source": "Gwara Media",
+        "published": "08/12 08:30",
+        "published_ts": 1786491024.0,
+        "tag": "Fed",
+        "first_seen": 1786497326.882423
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03RFpJMjNoX0lEbXQwSUlRckZNLS1KSThmWWt6Q2hDZ2tSLUZSZV9wMUEzV2lXZ05zME9aSE13U2ZXVTlYc2QySm9TcE5kWVJ4Vmt6a2Y0MEJSdXM4NFZMUmdEakJjcXFqTzN0aXlBMW9WUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786452915.0,
         "tag": "Global",
         "first_seen": 1786453244.7600687
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSEFKcUNLYnZIVTAyV1pKcW1EWmdMc2pWY1RSTVhSc3o3LUFkRVJjZUJiS05UdmlfSU5DN21jY1dSeGZXWk5ZUDFvNThCNnZoQnVNQ2lJeUFMSnZHNTFvd0hrc2lOQWI0NEhiQk9wTWROT0RvU1A2Umdid2EwYnBjZC1zM2hQWHYwVVgtR1Q1a0dLRDRSbzBhM1FaUGI1Z3lNMGxZUzA3emJtNlJqdlJZbExWUXlDellZLXNsNA?oc=5",
-        "headline": "The Bond Market Just Sent Trump a $1.25 Trillion Interest Bill",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/11 21:46",
-        "published_ts": 1786452361.0,
-        "tag": "Fed",
-        "first_seen": 1786459529.4366026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVHBGVEF1ZUpaeWQzTjRqWWtlVDFDVVljeHpNcmZBZkl4UnA2TGJCcGxMcDJ0U2tlZnBTa0xUZlBsdTNZNGNjbElqWTRySlZBNzdPTUwtTmJJRmZlNU9mSWNNQ3dEdHRlQmtnTlBMWUl2VjZoWnV6OWJPTjFWd2VSQmc2blNINElwWjFz?oc=5",
-        "headline": "Jamie Dimon Has a Warning for Investors: Inflation May Not Be Coming Down",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/11 21:38",
-        "published_ts": 1786451885.0,
-        "tag": "Strategist",
-        "first_seen": 1786452323.5211742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 10:01:04",
+  "updated_at": "2026-08-12 10:15:53",
   "yields": [
     {
       "label": "3년",
