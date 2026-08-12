@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8taG1nNi1pYVA3elVyOWNTT3prejAzNGQ4a2lDcW1WeHA4Z0dPQ3lpNW5HVjRRSzVDeDdjQjhfbXVwZ0tYMDdMd201cmt3Q05OZGhlOGdETnNRcFAtRnQ4czA3N0w3dVYxc2tMMndHdw?oc=5",
+        "headline": "ERC-7540 신용 볼트 5선, TVL 16억~1.29억 달러",
+        "summary": "",
+        "source": "FinanceFeeds",
+        "published": "08/13 05:40",
+        "published_ts": 1786567238.0,
+        "tag": null,
+        "first_seen": 1786567526.8976073
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE01bGloZEM4bVpXbTNTcklUdlFHNWs0bVFjUDZ3OXczdE1nb3l6RFRaOVQxRWx1UUkyMndhQ20tcEpDM1hCd3V6Y1RUc2NIN1ZYQUhfcVFWaENZeXdwbk0xVHVPYU1zLWU4SVFjOHlvODVPTWJQSjFZ?oc=5",
         "headline": "무디스, Rolls-Royce Holdings 강력한 실적에 전망 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786470216.0,
         "tag": null,
         "first_seen": 1786559434.6387315
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVHpMNzg5TUNXa1NfajFld0ZGRHliQUYtdHFMTWVSZmhSYTNKMjNiQXpBT2FCLWdubUo1dU5iQ2dpbUg3VnRGSmJ0MFQwM0VrR3hCeG1EaHg3bThJd2tuNW04a09neXBxRGZmYWxLTnBITWI0ckFLVDJSVVg5RGtaN3h1T1UzVnZZWS01aVNmLUFQRVRRSW9Ja05tTWNoZXZvelJUdkt2YmV5dTU2SG1Mb1JEeFR5a0hGb21MZG1iQU12SVZfNkY3cWNUY0xCUQ?oc=5",
-        "headline": "암호 화폐 가격 차트 디자이너를 위한 반응형 디자인 실전 핸드북",
-        "summary": "",
-        "source": "Gwara Media",
-        "published": "08/12 02:43",
-        "published_ts": 1786470206.0,
-        "tag": null,
-        "first_seen": 1786473928.5436718
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 05:30:53",
+  "updated_at": "2026-08-13 05:45:51",
   "yields": [
     {
       "label": "3년",
