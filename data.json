@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTXFaX0RKOGRRX0dfWGVUQXZwMjVNNkhFaXRneVc5aTNkaUZyMDhHOTN5enpkczZqSFg0Mld5dzhxV0NEcnU3aW04YXpiQzVIZ1JyVERJeEV0dEZSdVZmb2tWU1ZpcFU5Y2hSRWpSX3JHVXNPVnJQbnR5ODlYcFR4X2Y0ajlyTU02M2xkTjI3ZDVoYlJvcWJER3RRZ0NPdEVLOFBZR3ZnWnBQa252cHZ5d1g3Q1kxOGZhYzdBV0s1RQ?oc=5",
+        "headline": "SeABank는 탄탄한 재무 및 지배구조 역량을 인정받아 두 개의 권위 있는 순위에서 수상의 영예를 안았습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/12 11:31",
+        "published_ts": 1786501875.0,
+        "tag": null,
+        "first_seen": 1786505431.7630901
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VTE9XU3dqUHNrSVdtaWhCZ2NXMFBvamZDdzdhU0dXd0ZWc0JocS1JWGszazVJRmprWGpwZnp2TFF2QURKYTZVSzNqdjVESm9Ldy03M0FvQlpfb05CSHViSE1ZbURKUDJXUGJLS1g3MEk5UQ?oc=5",
         "headline": "초장기 약세·外人 매도에 투심 위축…국고 3년 0.2bp↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786403279.0,
         "tag": null,
         "first_seen": 1786427123.5514557
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41WUwtSTBpaWxHUEhSOGhuLUlPdmpFYUZoTkFCa1dud2Y2OGtnTU8wMTNjOEVqLWl3LXFXVkNwRm1MTEdxd0FxU09WQWNwVkhtZ01sSGlSbXpZWEQ3V2tWRjl1SkJET0VVRzNVNGZTR0s2bnJw?oc=5",
-        "headline": "[뉴욕채권] 국채가↓…유가 급등 속 물가 경계감에 고용發 강세 되돌림 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/11 07:02",
-        "published_ts": 1786399335.0,
-        "tag": null,
-        "first_seen": 1786484725.3405025
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 12:15:49",
+  "updated_at": "2026-08-12 12:30:54",
   "yields": [
     {
       "label": "3년",
