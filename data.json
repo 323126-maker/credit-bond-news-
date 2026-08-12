@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kTlNfYlNpb2xGTXFjYzY2a3VDMEZZekZGaFAwdVRzUmtBZUJxaFA4TjN0Wkd2Y3c5WTgzVlMtdEhYMmEtdlBCTWdJSEV3dXNPdEpMbzNxdVJkSFhPTXhtQk9mT25qT3BIbkhpODhPRkVDdw?oc=5",
+        "headline": "“정식 보고·승인 다 해놓고 여론 나쁘니 부하 탓”… 이재명 대통령의 황당한 ‘유체이탈 화법’ 비판 확산(Out-of-Body Rhetoric: President Shifts Blame to MOFE Over Tax Reform)",
+        "summary": "",
+        "source": "글로벌휴먼타임즈",
+        "published": "08/12 08:54",
+        "published_ts": 1786492440.0,
+        "tag": null,
+        "first_seen": 1786493722.5624027
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvSTA1QzVtWTZBSDBtWFRzR19MWE5BY1lrR2NORkl5YUFaNllCYUxtdE9kdDUybUdIc205aFd4TFZjcXcybmxPQkpKQml1UWk5VTZTQW9femV0RGdCSUhpbk1yRk45dXBHbHFwVTE5YS1UUG1MMkhCYg?oc=5",
         "headline": "李 대통령, 구윤철에 \"세금 바꾸면 욕먹어…무조건 기어서 다니시라\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786067100.0,
         "tag": null,
         "first_seen": 1786238122.9643805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlcEcwekRIU29hUzNEbVJSbnR1RW85TTZUa1NseFRrOVNzTDZ3WWY0Q204NU5fcXdhVGZIWXJyaHpmSUhRRThzb3h3ei1zQTRNMElUc3cyVWc1T2NUMENFaVZldUt3T0xLTXZj?oc=5",
-        "headline": "이 대통령, 오늘 수도권 주택 공급 확대·속도 점검",
-        "summary": "",
-        "source": "애드뉴스인천",
-        "published": "08/07 09:20",
-        "published_ts": 1786062000.0,
-        "tag": null,
-        "first_seen": 1786068038.3189087
       }
     ],
     "global_bond": [
@@ -1678,6 +1678,16 @@
         "published_ts": 1786474800.0,
         "tag": "JGB",
         "first_seen": 1786479911.0814157
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LYWpHaGdJMHI4N2N6TF9tZWhOLTlmM3llVHZDLW53SVFJRWRBc2g5eUdwYkhCVUhmWjc3dTJPTXVfTUxRRlk0UUlHVVh2NVVIUXNTSlZya0RQX2dwUkRVSElsM1lpVW0td3ZiV2FqLTlVRFQxbnc?oc=5",
+        "headline": "Arthur Hayes Says Fed Will Print Trillions to Rescue Yen, Fueling a Bitcoin Surge",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/12 03:58",
+        "published_ts": 1786474680.0,
+        "tag": "Fed",
+        "first_seen": 1786493722.5624027
       },
       {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPelNsTE0tN1VOSTEwM1hPZnFwWm5Bc2hPOUZKbWhYVkhZMGsxX0Eyck5uRTdNa0dSUy1BUl82bnFhdFZPZjI4NzB2RE95cEdQVUk2SWMwRkpld05pT0ZORWNLUzB5NjJ3TDBZZk5Yb1NaeEN2Mkk5SkJORXI1c0FQLXlfeUZfc2xFYUUwbDg2RTBvSDdBOWZuaE1PMTFOUQ?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786448853.0,
         "tag": "Global",
         "first_seen": 1786449637.699195
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GbUlScGxVRVJnYnZvangzYXNZUHZCOUZzOERXS2xqejREaS12NWVPa2FfOGVhOGdsWW1lS3pXcHZ0X3VNYW93UjRtaTNTQkxxakFHcko5aHdSWmxlc0ZaWUxodk9LMHpZR1NfdzNmSjczaDlk?oc=5",
-        "headline": "The Yen Bailout Won’t Fix Japan’s Bond Problem",
-        "summary": "",
-        "source": "City Journal",
-        "published": "08/11 20:42",
-        "published_ts": 1786448558.0,
-        "tag": "JGB",
-        "first_seen": 1786467637.9363182
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 09:01:06",
+  "updated_at": "2026-08-12 09:15:45",
   "yields": [
     {
       "label": "3년",
