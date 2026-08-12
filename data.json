@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUTN4R05hRWJ1WnRicHA3V0liUmNjaEp3VXVXcDBEZUlVWGliVWtiRzBvcU9rOGJ0Wlc5S2N6RExoS2ptLVp4dEhWWVd1bVlMSU9hdktmYVVmbnFWX25aWllodTNQaUdvZHNoN193dFNqTm5veDBoQ2d3eTVETUNuYmRwREQwTG5OMk1ZQU9ia0VnWndPcGVTLVEwZEMxek9Tb2w5Mg?oc=5",
+        "headline": "Opinion | Inflation is still too high",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "08/13 01:57",
+        "published_ts": 1786553822.0,
+        "tag": "Fed",
+        "first_seen": 1786554040.9548302
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQTRTcDRSa3FiLUFsWFlmbHBvbTFXblpJc3JHcFhlZ04zWmdFZ004STA2SFh5VkkxZkJjeTlTa29aaEdKWmlrREh5ejhETkl2V1hMdzlSOEJpOC1KY2E1YkNpV2tkSGN1NmxzSFJOemtiWEZkZE9VSDBWeFd1ekVmRDBRdlZ5ZVFjS3hxczR0OA?oc=5",
         "headline": "Sumitomo Mitsui Financial Group Inc (SMFG) 주식 움직였습니다 상승 3.82%에 8월12일: 변동 원인",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "핀포인트뉴스",
         "published": "08/12 15:33",
         "published_ts": 1786516385.0,
-        "tag": "JGB",
-        "first_seen": 1786517134.9741886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KcjAyYmJEWmk1NmRLQVg2RFUwSkdPQ01vU3ZmanQ4cWFxRUpjQnpKTFhVQm1jcTRMbGdPSTBGc0xWeVE4UkxBYTZRcktnMHpJVHNyMFo4SHpYaE3SAWBBVV95cUxORHJHRGpKYndwQXhxdFZnQk8zMWhJaFRmS0d3UjlTQTVEZVZFOVJPMWJTbHJiVWlBMkdtbWVWN0ZLQmZIdWRzMEIzZ2JINXZJRzJld0VNa3BXY1M3SVd6alQ?oc=5",
-        "headline": "엔화 가치 측정 '돈까스 카레 지수' 등장",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/12 15:31",
-        "published_ts": 1786516284.0,
         "tag": "JGB",
         "first_seen": 1786517134.9741886
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 01:45:52",
+  "updated_at": "2026-08-13 02:01:03",
   "yields": [
     {
       "label": "3년",
