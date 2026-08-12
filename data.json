@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpaEF4Y0V3ZDZNM2VCVm9sVEtJeEM3TlpObWFiRHcxVUhVVjZlQTBfNHFZSGJ0TGRlNTJDdUdwWjNNN1RpTWdoREFGYzBUQ3ItaW1ySk5UQVB6dnlPLTdjeVZUVnQ?oc=5",
+        "headline": "일본 기준금리, 다음 달 0.25%p 인상 전망 확률 80% 육박...연내 2차례 인상 전망도",
+        "summary": "",
+        "source": "베타뉴스",
+        "published": "08/12 18:51",
+        "published_ts": 1786528310.0,
+        "tag": "JGB",
+        "first_seen": 1786528836.3927345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcVdHbWRaUlJEMlRQaVE5U3VJanJZOUF5T25BdHZGMWo4VzlEVTdLRzV4QjFPU0lGWjNLSzFSVlQ0XzU5QWNRbS1hdEVwTE9ZY1hOQmtCSklSNlVQQ0lvS2tnMHk0dDlPVkttQi1qd1h1S0d1ZkxoV1V2Y0ktWVduVjF1OGlkcTY1UVR6aEpmTktYdw?oc=5",
         "headline": "A distressed tail is wagging high yield spreads",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Devdiscourse",
         "published": "08/12 08:30",
         "published_ts": 1786491036.0,
-        "tag": "Fed",
-        "first_seen": 1786500036.9536104
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVBHc1pKbnlleERzenJPUFlWUl9qdGQ0Mi1qNk9sSWRxVmdUaGxDMmtmVzBzSkVVZTM0cVFjVU1MbzhnM1lTV040SU1yTGtZTDRaWDBsSWZuN2Rodlg5M3c0NGlKc2ZlenRPdlJfTU9pbndXWG1Ra3BjVmhOZ0diX25YMDFncFhpMXI3emNlbWhobnNwRWpYRzJqaVlsaW03aHVDbU5LeXpBaXZSaGo1ZmVqU1Bkeno4LVlMbkR3d1d3b0kz?oc=5",
-        "headline": "US yield curve twists expose Trump's and Bessent's rate dilemma",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/12 08:30",
-        "published_ts": 1786491026.0,
         "tag": "Fed",
         "first_seen": 1786500036.9536104
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 18:45:45",
+  "updated_at": "2026-08-12 19:00:59",
   "yields": [
     {
       "label": "3년",
