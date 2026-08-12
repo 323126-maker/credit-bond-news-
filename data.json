@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1reUJ3NG1Pc2hENVMwMGxmQldTUDJLU3M0RFplazJnMEc4Y0ZtaVdoYjJ6UGc0dGwzVGx2czduUjlDWFZZSk1XYU9TU3Q1NDZtNGNXLQ?oc=5",
+        "headline": "[채권마감] 초장기물 약세 지속, 30년·50년 금리 이틀째 사상 최고",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/12 17:13",
+        "published_ts": 1786522380.0,
+        "tag": null,
+        "first_seen": 1786523431.8554897
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9kWmpFSnpFcExBV2kxcFV2TnFCdTVQUjZyX1JzQTJrVHRIcWNmU0Uzbkh4bkJPcVotOWxoa3JYd2lrRGN4Q1FUeExXNDE1dXFLVzlMNXFLcUwzTlRw?oc=5",
         "headline": "[인도 특징주] 피치, 인도 국가신용등급 BBB-로 유지...\"전망 안정적\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786427040.0,
         "tag": null,
         "first_seen": 1786428043.4154503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWlh3YS1PcXFpM21CdTlGcFVEZXNid3pXZk0wR2RKTklFb1pxM1BfdzE5VS1WUDZlMHJvZjNxamluZVljaXZONEF0MHZoMnkxcWJ4YU1NNG0xT1R3YWZQVVJ3SUoydlNSQ1RtbU1Ub1ZiV2d5Ynh0ZkNKZGYxalMySw?oc=5",
-        "headline": "[마켓인]무디스, 중소벤처기업진흥공단 신용등급 ‘Aa2’ 재확인",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "08/11 14:08",
-        "published_ts": 1786424882.0,
-        "tag": null,
-        "first_seen": 1786425326.9111412
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQVB1R0lwRWVEcGJna3hxRVVKRzhsamQwTTdnV3Zpb0pQRmN4N3EtcGNlRV96NXNmM3NxRmcxSUlaRjVwZDBPUTR1SEJXNTVQUVBqMVlFYTQtVWhJcWhkckJNTWR2YlhZTWFqNkEwUXh0TVRhd3hjZW9MdkN2YUp6YUZSVzN2QdIBmgFBVV95cUxNYU9tMUVZWGJBUmxVTUd4Nlh2NUtkREF2WHREY0IwNDN4T01lR09BZ0JPSEpUNWtrSnNZckF0NUVqTXN4WmZvT3V5UG5zMW1wRE11MVZ0bVZqTGhNTHExNHMyNEc4MmJBQ3FWbFVCbEdxZl9hYzRiY0pMVDZJR0dQNVJtaDFwa0ZyeThOR25sajhzOGFJNGRxNVZn?oc=5",
+        "headline": "[경제 포커스] 엔·달러 환율, 美日 공조로 150엔 가더니 2주 만에 다시 160엔 근접 - 조선비즈",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "08/12 17:09",
+        "published_ts": 1786522140.0,
+        "tag": "JGB",
+        "first_seen": 1786523431.8554897
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUng1T25Iam1xSEtTMG82UkNPX0VLVWItVFNEN2QxTFNURG1oWks4QXRqNko4SUhPS2U5dFFQeE1yLUNNQ3FpRVgzSjZlbjI2OGdtQldiSzg0Tzh1OURlb3FvQ2VlRWRGQXdReHNDdnYtcFdCZkdhNnV1VUMzeEZPdXZHQkZoeG53Unk1MU0xbDNEbDF1SGRjb3pxcE0tWVIzOWVuMUs1YXNFTVA4LV82a0RHX2hjQQ?oc=5",
+        "headline": "Japanese Bond Yields Rise Amid Rate Hike Speculation and Oil Pri",
+        "summary": "",
+        "source": "GuruFocus",
+        "published": "08/12 17:08",
+        "published_ts": 1786522090.0,
+        "tag": "JGB",
+        "first_seen": 1786523431.8554897
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0SDVIVWxWYm9OcGd3MFVSYTZ1TDk0NEhDZHJUQlo3YXhLNjZ3SlVZSDFZMkVFUlZYZU5nY3M5YnRLZzRETTVkcHhHRHRJZHJndTg2VDVaUGE1NHg5MGc?oc=5",
         "headline": "빅맥 대신 '돈까스 카레' 지수 등장...엔화 심각한 저평가",
         "summary": "",
@@ -1658,6 +1678,26 @@
         "published_ts": 1786518900.0,
         "tag": "JGB",
         "first_seen": 1786521635.0432498
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MUlidmI4T0haNHlnNkxiRkY1Z0Q1bFRST2ZKVUhOdU5WUmhFcXJZMjRvV3JOV1pXZmc4TnZfUXFCbXROTVJPc253NnBZUmhkLTZWVXo0NzNBT2tk?oc=5",
+        "headline": "美 ‘빅맥 지수’ 처럼.. ‘돈까스카레‘로 日 환율 지표로 활용",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/12 16:05",
+        "published_ts": 1786518307.0,
+        "tag": "JGB",
+        "first_seen": 1786523431.8554897
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBodHVwOTdxTzdKN0FRVDVNdEpUMGxXWEVWazNOMGhTbExzODhQSFZJOFZ6T1JOTURnVXZqNkxMck50cDFpSXlLb1Y2YXg0elRKSzJjeDlYSVZVRHl6OU1SaXFJcXFQeGE4VzA2cFVB?oc=5",
+        "headline": "日 기준금리 인상 속도 빨라지나-연내 두 차례 전망·최종금리 1.75% 부상",
+        "summary": "",
+        "source": "미디어파인",
+        "published": "08/12 15:40",
+        "published_ts": 1786516827.0,
+        "tag": "JGB",
+        "first_seen": 1786523431.8554897
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBOcnJhWlR0MjBKNWFGTmRHTzFoM09lSzBvRlA0Nzd2Z1JUZnBJRHNvMTFZZVZKdVRpMHZxOU5CV2ZDWGZFWGhKMEJfRXFQRmpRSnBPbFg4SmU3VHVYbmpXd2IwbVkzSnotQUprSTlKaFBvaUHSAXdBVV95cUxQdGlMOV80RXo4ek9vUjIxN3EwVTg3OU5LVmRma2puckVDMGFlc3NlTkV6RlpxelFzcVdSeC1EYVhwUE13SVZqeUFvOFd4NkZVdFdmX2ZyakVTa1hNbjhoaFRUTmZnMU5MaTNJMDl2M0VVblBPa0pHTQ?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1786489889.0,
         "tag": "Global",
         "first_seen": 1786496441.3878305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ1ZlX09vOHg4YWd3bGNpdHY1OHlMSVRQOS1CMER0YXZZN2Q0SEd5bzRtcjhpYWNOYnhlU1hYZnpDb3U1WEdZaEN0QjI1akFXSkdhSEZkbDZVeXVpbk1IWXNOYzdQWFdQaWxIOFpRVXJkeG03RHdiVW8yb9IBgAFBVV95cUxQbEhDVTdFZVNnN29pR05WODlhR2dxZ0o2SnB6ODZCLW82bC1qWmxKcXZWaF93MGU3QmtFTEFaa1hVNzRJZ1RxRmg3aHhJNE43OVNHVWNnUXJnaDkxLTlIZEFSTm5aOUhQMENCelp5N19fejdTNDRTLU55VkVmenBDMw?oc=5",
-        "headline": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/12 07:15",
-        "published_ts": 1786486530.0,
-        "tag": "Fed",
-        "first_seen": 1786487210.5652347
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1XMTA2SzF2cDl1YXNGY3RGTG4tU0ZwWU1YLUlhSlNnUEhRNmJ3eEJPUDJ4VExzZDFJUWhQcW9naTcxWFRNZTNwNjdR?oc=5",
-        "headline": "S&P Dow Jones Indices",
-        "summary": "",
-        "source": "S&P Global",
-        "published": "08/12 06:47",
-        "published_ts": 1786484825.0,
-        "tag": "Global",
-        "first_seen": 1786494632.6615226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOam9ZalQtOUktclJDRUkxY1F2MXZmem5Lbm0wRm04WHhERnJrMUI5cVI4cEhFTlVqUUh3UVQ4MGlBenJvVEp3S0t4VnlYTHRNWTFyc19yaTRnd2EwNk9QRmEtaXB5NmdqaWtIdzU0S3JYaG40Q0xRYkt2U2lPYy13OVpvOXdfc3gtOHpuYXR2aFJpSWYxOFBMaFVjV1lDU3pTYUJxc3ZVTFZ3NlJvTVozT1A4aWpyelZxWFZVQXVUQW81ejhKYmdRajlkUG5BaldJbEF3TzVxUXU3N2ZpbDc4OHpsUEhuVjlidHc?oc=5",
-        "headline": "Fewer Fed meetings under Kevin Warsh? What a reduced FOMC calendar could mean for investors",
-        "summary": "",
-        "source": "Chase Bank",
-        "published": "08/12 06:32",
-        "published_ts": 1786483949.0,
-        "tag": "Fed",
-        "first_seen": 1786491031.041981
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAJBVV95cUxPd2t2Sjhla0dlWHVKT1hfdXJEbVJYbTN4Q1p5Y0pEWEhCajhSdGFuWENBUk55MkdkZTRKZUJiRWo1YmRTMmtrWElKRXEzRDJBZEpYdEFMS2VCMWRmSW1UelhLdDRGLTUwaHpDUmwwUHBGaGp2Y2ttTlJjRUpNTEp3eEJNTWVoRzZMTmVlM1dqMnR0MUNzRXM1VUcteEF1M2ZLVGRrX3JEZloxb2c2dFhfbDlfSzhPREpDZ0dkNl8tbXZLSG1oYUlsWFlsZmFadE92dmg4LVVqR3J0cFZMbG1sdXBOaWFFM2EwcnQ2ektPaGhmQkh1X2FWajgxSk8zb3BTUXUtelI3VzQ4LWhMdlk4anhDQS1OV0R0U0w2Mw?oc=5",
-        "headline": "Stock Market Today: Dow Futures Slip, S&P 500 Gains as Trump Says US Is 'Only Semi-Negotiating' With Iran—T. Rowe Price, Plug Power, BIO-Key in Focus",
-        "summary": "",
-        "source": "Sahm",
-        "published": "08/12 06:30",
-        "published_ts": 1786483859.0,
-        "tag": "Strategist",
-        "first_seen": 1786520723.2526076
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 17:23:16",
+  "updated_at": "2026-08-12 17:30:53",
   "yields": [
     {
       "label": "3년",
