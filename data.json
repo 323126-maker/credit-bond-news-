@@ -132,6 +132,16 @@
         "first_seen": 1786487210.5652347
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSFk4OEZ5eEZ3bFd6ekkwTFduS2VLZXFhNFkzSEpnVmViRTBubUhvNzdZd3FfSExVelVkQ1JMVU1ZRnZQNGxkSHc0YjRCaFVma2E2R2ZOWDIwaDFKSWVIdllRY3dNdHhBWWhPbVV5ZlFHbnF0NEpzbml6bndRemxuZw?oc=5",
+        "headline": "꽉 막힌 회사채 발행에 기업들 납작 엎드려 찾아간 곳은",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "08/12 06:50",
+        "published_ts": 1786485000.0,
+        "tag": null,
+        "first_seen": 1786511732.393989
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNFRTTHoyZWloLWYtTEpsVGdkTTd5d1dVZWc2djNuZS0yQ0x1U2phMjVfNGRPNDJFOWFyN2QzNm5Cc0xhU1hOeUVDMGpWTlFEUGt1WXRvdXJXc0hXbXNETEFtekxaa2tnOHRaNDZJSzlXdw?oc=5",
         "headline": "국채선물, 파키스탄發 미 국채 강세에 상승…10년물 13틱↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786410420.0,
         "tag": null,
         "first_seen": 1786411832.6091726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcGNxTFlJMVFYYTdkU0JnTnItLVRSUUhWbTNHc2owZ1JPcmNGSVZ2dXBEcjVQTzZGXzNlZFBERFhSQjExTUZMTDlpTDFsekhZR3o0MlZFb1VneWREbWhEN3FNUHBuVlpSNjRia0tDY2NoN0dubjVNbDFzOGFsVkJWTFlXUmpiY1hCekJNNnlHLS1ZNzdLOE1N?oc=5",
-        "headline": "신용 공급이 빠르게 증가하고 있으며, 은행들은 채권 발행을 통한 자금 조달을 가속화하고 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/11 10:04",
-        "published_ts": 1786410288.0,
-        "tag": null,
-        "first_seen": 1786410925.9561574
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5X0hnSlBQWWJKR0hBNFBlbkotdGZvVkR3NjUtMzlXVlM1WDBPa3RtRW5ZNEhKVFhvaHNENG80bjZqY09ZZVpWajRIYk12aXhGWFJnY0pHcHhta1RnU0l6Nl9LTVItOGRZbHZvbzR0aDVtQQ?oc=5",
+        "headline": "美·日 개입에도 엔화 약세 막지 못하는 이유",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/12 14:02",
+        "published_ts": 1786510975.0,
+        "tag": "JGB",
+        "first_seen": 1786511732.393989
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HVGxHU1ZjdjFxUjZOTDk5cEJGZE9PcG03NHctRDZuRDViYnV5dmNSbElzRnpLREE2Ym9aRHhTaktZdVRHc21UMmUtTjlLclN2?oc=5",
         "headline": "Condivergence: A yen for the dollar: Intervention and the debt loop trap",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786461960.0,
         "tag": "Fed",
         "first_seen": 1786464040.2067623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1CSGxON2pVUWdqT2d2ZnVBMjJzMVpVcnlBXzYtYXo1NENGSS1qLTFPSzZCT0NudXBlVXhvbXFRZnNfRVJYTXFvYVUybnA5SW9DS3Nub0VYWUZLSWpmdTBaQnZ3?oc=5",
-        "headline": "US Bond Yields Surge as Trump and Bessent Diverge Over Federal Reserve Rate Policy",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "08/12 00:25",
-        "published_ts": 1786461948.0,
-        "tag": "Fed",
-        "first_seen": 1786462233.9031985
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 14:12:29",
+  "updated_at": "2026-08-12 14:15:56",
   "yields": [
     {
       "label": "3년",
