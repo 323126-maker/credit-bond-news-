@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUJDMkhDRV9BVl9wM2JSTXpRTGhwSGptNkVTYUdnVTVvdGwwTGQ0LS1lZnlhSTRIVi1NaHAxdVRxT29kcV9JM3F4c3BBSnhIYTFScU14QWRuM3g2QWxWSFg3WFZqeHVQcE1aWm5BNGhQeTA1bmcwMnZDUnRFWU1FTmVqZ0xfYjNkT2d3eTRGeTRlZUprT1JXZ3BHcGNnTzN4NGFDb0NvdXJDalcyN2c?oc=5",
+        "headline": "Japan fund managers chase retail cash as JGB yields surge",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/12 15:08",
+        "published_ts": 1786514880.0,
+        "tag": "JGB",
+        "first_seen": 1786515324.250443
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSlRmSmFEZVNkX19UZ1kzNlQ1Ql9qTTFZeHdIMnFZbkpMVE1XaWFaYkZ6ZllCZV95WS1fb3RhTFA3Q3NLNlBJanR6cUoxLUdXT25YUTZjaE4yYUszVzVDQ09rald0V3lzckdRTThVYWtzWW9hRjVBdEFRMG5uSUhadWF0ZHJyTmc?oc=5",
+        "headline": "TCW Global Bond Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/12 15:00",
+        "published_ts": 1786514400.0,
+        "tag": "Global",
+        "first_seen": 1786515324.250443
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmhzUXc1U0JXUFE0cGF1Z0x5TTJEeWRoU0kyNUgwS0FYQzh3T0pHbjBpVkhVdzdIS0RyUzVEVG1LWHBNQ0l6UzM5WWU0SVJFOHRzYmpDVG11cGVYVWE4VVNTMUE5TFdCdUV4YlFrVEFkZFdtczJYc3ZIbGhtQ0lWZlg2QkZmcEJBUkRxNGJLMndBMElZX256cXBqN0FKendXT0JB?oc=5",
         "headline": "Victory Tax Exempt Intermediate-Term Fund Q2 2026 Commentary (UITIX)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786464096.0,
         "tag": "Strategist",
         "first_seen": 1786471243.54004
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeGJSQk8xeFdVNWpCV2M4V3pTRHVYbVZIMlJVNW9pZDlPbFFnMGtRVktaZFhjVlhIbnU1ZEJwWGp0R3hTWWpRWFNzYkFfTTA2WjVid2lyazFfRFNDUTJMMDN3U2lUQVE5a0ZBb2Jja1NjRFRjam5OeDAwUlpOVzctdXc4Ul9MV2dlaWwyTWxQX1BRdTIwZjJJSk9sZ3ZYVS1UR1pBR2N6LUstTTFHY05SOExMb3NidjhSTWRBRjVLUmZGSnliWXZFTDZzaERhUmxTcnljZDhVbTQ?oc=5",
-        "headline": "El-Erian warns of global market paralysis as oil and liquidity buffers run out",
-        "summary": "",
-        "source": "Bankingnews",
-        "published": "08/12 00:41",
-        "published_ts": 1786462866.0,
-        "tag": "Strategist",
-        "first_seen": 1786464040.2067623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTJTbG5naVJYdVkyVWVPaVpmNlY5XzhFVjZrdlhlWVp1XzVmRlJUckJvamx6UWlLWC1aNlRfZURibEhXX3MweUZyTHg1elBSQ3hhV3NUek94SnZxZHF2VG5zSy05R0FKWUh1elZadEVHT1JTR3lya2N5bG9hcm92RGV2RXZURFZFSHpFRFRDUHNrSV9kVUZPQ3poYkROc2FwLXZkZE9R?oc=5",
-        "headline": "Where credit risk still offers value in a higher-rate world",
-        "summary": "",
-        "source": "Citywire",
-        "published": "08/12 00:34",
-        "published_ts": 1786462499.0,
-        "tag": "Global",
-        "first_seen": 1786463128.186408
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 15:00:58",
+  "updated_at": "2026-08-12 15:15:46",
   "yields": [
     {
       "label": "3년",
