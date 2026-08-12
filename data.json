@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcloxc09sdkdVLU1xYV9uSEdsOTZqZTRGbC0zUlR2b18tY3lFT01ncTdVcjBTTFJYSlB5djVCaVlCb1JoMkxyTTg5WHBGcUlzYUM5cUFacjhvVVd1Z1hkYjRZQjVNaGJ4QmJWdThCSjg5dmNSaFpSWDhLVFhtZ2dpdUNBeENydzRuR2V2NXFxVGVVX3FoNmlDM1cyT3kxRGdkelNLR1RRNVNCNTZfZGEtaVNicG5hdw?oc=5",
+        "headline": "FPA Flexible Fixed Income Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/13 02:53",
+        "published_ts": 1786557180.0,
+        "tag": "Global",
+        "first_seen": 1786557638.0002394
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQU0NpdzkyeWF5UzM5ek92b1ByOUVuc3luLXlocjRzcHdBcUQ2S1Q1YmN1Y0hsdVlvdGY3NG9hempJeE5PVmFMVUs0V2tnU3kzbURHOGwxUmdyQk0tLW5MWFAxM1RwSHJNTGliU1VyUjc2cWJ0MzFxRk1peGwySGRyQ3Jn?oc=5",
         "headline": "PSH: Better Than JNK In Today's Macro (BATS:PSH)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786518471.0,
         "tag": "JGB",
         "first_seen": 1786545927.215781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE54MUlidmI4T0haNHlnNkxiRkY1Z0Q1bFRST2ZKVUhOdU5WUmhFcXJZMjRvV3JOV1pXZmc4TnZfUXFCbXROTVJPc253NnBZUmhkLTZWVXo0NzNBT2tk?oc=5",
-        "headline": "美 ‘빅맥 지수’ 처럼.. ‘돈까스카레‘로 日 환율 지표로 활용",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "08/12 16:05",
-        "published_ts": 1786518307.0,
-        "tag": "JGB",
-        "first_seen": 1786523431.8554897
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 02:45:53",
+  "updated_at": "2026-08-13 03:01:00",
   "yields": [
     {
       "label": "3년",
