@@ -12,6 +12,16 @@
         "first_seen": 1786500923.854006
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04WEQwd3VDejBrcTQzenJuS0ZneGlJbkpIU2FDLWxKbjBvVTZONUNPdU5qcktHUGYwNHVDS2VMbjhWbzJuWWtsbjA4d2tQM3RYdUE?oc=5",
+        "headline": "젠슨 황에 채권시장도 설득당했다 … 코어위브의 깜짝 실적, AI 생태계 여파는",
+        "summary": "",
+        "source": "매일경제",
+        "published": "08/12 09:47",
+        "published_ts": 1786495651.0,
+        "tag": null,
+        "first_seen": 1786501830.6110234
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iN1dnMmhZTk53Vmk5X0dla1dwQmlCMWZ4NTV3WnRZS2FGdlN4bm9oOWpQTnVrcWxSLUVZVEx5bmx4TE9EVEZrMDAzaU01aGhmLXQ5clJLdy1zOVBBR0dCZHU4RUJlSDRzclUwNXByRkZkUQ?oc=5",
         "headline": "'AI 인프라 뱅킹' 자처하는 엔비디아에 채권시장 불안한 눈길",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786397400.0,
         "tag": null,
         "first_seen": 1786398331.4152856
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BQzk0ZjVMeDJ6Z1dGbWt4bGVYWE9vbW9WYmwyc1RWRllXRUtPLU9HM2hZeFhaXzB6WVpqQl9GNk5GR0d6S2RkTVFTMUlseUttVVF0bzhaSVp5aWM1VDMwSXA0Y1VsREd6S3J5X3Awa0FFZw?oc=5",
-        "headline": "국채선물, 유가 급등 속 美 국채 약세에 하락…10년물 13틱↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/11 06:21",
-        "published_ts": 1786396916.0,
-        "tag": null,
-        "first_seen": 1786418133.0449376
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 11:15:46",
+  "updated_at": "2026-08-12 11:30:53",
   "yields": [
     {
       "label": "3년",
