@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iN1dnMmhZTk53Vmk5X0dla1dwQmlCMWZ4NTV3WnRZS2FGdlN4bm9oOWpQTnVrcWxSLUVZVEx5bmx4TE9EVEZrMDAzaU01aGhmLXQ5clJLdy1zOVBBR0dCZHU4RUJlSDRzclUwNXByRkZkUQ?oc=5",
+        "headline": "'AI 인프라 뱅킹' 자처하는 엔비디아에 채권시장 불안한 눈길",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "08/12 09:44",
+        "published_ts": 1786495468.0,
+        "tag": null,
+        "first_seen": 1786496441.3878305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44M2NWQWZvYWEtaTliWkpHSU41Unhraklza1VlZGhkUnl0UjVYeHY3Z2tyZ09ZMkx5MHFONEQ0Vl9HMFF3OUlsSDU2eVNXT3k0ZmlYMHBDVGJ1emRBNUFKbW9NRXR4dHVEdm9XTGljb2hVZw?oc=5",
         "headline": "로젠버그 \"AI 붐 없었다면 美 경제 이미 침체 진입했을 것\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786396500.0,
         "tag": null,
         "first_seen": 1786401922.6423159
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KWmszTlVONHo4Y09va1RvenhXdU5OUFltV3FxcEc5VGNwZk94czFTMkN0U0lJSTg3NTB2V0ZDZEJQWW5FaXR0OXdrT1hPRXU0dkE?oc=5",
-        "headline": "마스텍, 6.5억 달러 선순위 채권 발행..6억 달러 텀론 상환 예정",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/11 06:14",
-        "published_ts": 1786396470.0,
-        "tag": null,
-        "first_seen": 1786425326.9111412
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObFJsQmt5VU9pM3EwaXpOLWg2YXNHT3NtUW1SbW9lMmlUZS1iamc2azZZMEVRcmNsdEFtSHRoSkxlY3pyOWpGeFlxQ3pzRldUS2lxTXUtcFlPWmRXMUhHRHJWYnR2bF8wazF6c1VBSFlqeWZqN2swSDl3bnd4Q1luZjVJYTJYQXhSelVpOTlwaUQ5b2RfQ3c?oc=5",
+        "headline": "Guggenheim Limited Duration Fund Q2 2026 Commentary (GILHX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/12 09:50",
+        "published_ts": 1786495800.0,
+        "tag": "Global",
+        "first_seen": 1786496441.3878305
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOa3YtRU1rY1dvRWtuQTJRYlo5TzVncTBXQk5yUXAwV1BDcGJsQTk1UDhYTnhIN1o1aElWeGxWc0NTcDlZbDlZRXFqZmgtRDBpMGxCNXBVeVVwMXVaaFUyMEZySjR5RldmUlM3WjN2V3FYNUJ4dmpCdWdBMmc3OU9vd1Y1UHZ4R2xv?oc=5",
+        "headline": "엔화 159엔대 혼조세… 160엔 위협하는 미 CPI 대기 랠리",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/12 08:31",
+        "published_ts": 1786491094.0,
+        "tag": "JGB",
+        "first_seen": 1786496441.3878305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03RFpJMjNoX0lEbXQwSUlRckZNLS1KSThmWWt6Q2hDZ2tSLUZSZV9wMUEzV2lXZ05zME9aSE13U2ZXVTlYc2QySm9TcE5kWVJ4Vmt6a2Y0MEJSdXM4NFZMUmdEakJjcXFqTzN0aXlBMW9WUQ?oc=5",
         "headline": "유상대 부총재, 1986년 입행해 두 번째 퇴임…\"정신없이 지냈다\"",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1786490786.0,
         "tag": "JGB",
         "first_seen": 1786495527.3721962
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdFBYRFhFVEJZa3pmNDczTmNGRlJXcng4LWVpXzA1Q2hITU9NN2RCeTZ0V0pMRy03UFBiV0c2UnRNeG9NektpZEZ2b2JlaFhnaGlocGVZLTRLdHRON0YwZ1hfV2JBai01UVFuM3BkZVg1V1l5NEo1ZnllMzJrMTJFTEVERVlUOFREbVRBYlRxekh4RkxIRzhJTTFaT3dGa1VHX0h1WjlyUmpSMThwd0dUZQ?oc=5",
+        "headline": "Building resilient portfolios amidst increasing macro complexity",
+        "summary": "",
+        "source": "Investment Magazine",
+        "published": "08/12 08:11",
+        "published_ts": 1786489889.0,
+        "tag": "Global",
+        "first_seen": 1786496441.3878305
       },
       {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ1ZlX09vOHg4YWd3bGNpdHY1OHlMSVRQOS1CMER0YXZZN2Q0SEd5bzRtcjhpYWNOYnhlU1hYZnpDb3U1WEdZaEN0QjI1akFXSkdhSEZkbDZVeXVpbk1IWXNOYzdQWFdQaWxIOFpRVXJkeG03RHdiVW8yb9IBgAFBVV95cUxQbEhDVTdFZVNnN29pR05WODlhR2dxZ0o2SnB6ODZCLW82bC1qWmxKcXZWaF93MGU3QmtFTEFaa1hVNzRJZ1RxRmg3aHhJNE43OVNHVWNnUXJnaDkxLTlIZEFSTm5aOUhQMENCelp5N19fejdTNDRTLU55VkVmenBDMw?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1786451885.0,
         "tag": "Strategist",
         "first_seen": 1786452323.5211742
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZzMyWmFHanM4eXp4RG5Id2FVSG9mWndwVlZDTHRfY3hGZzhKNlYtSmFpZzEzVmw5eVUxeWFNZlBqZFlVY01ic2lfTHdDRW05NTBfOFJuZjF1TGgxSk8zRkN1NlZYUXo2U3JyUksxVG5Eclg2cHU4S2ZjZUZXYndLcGJwdlJ1Nlh4amp4aExIQTF4NHZGcEFfUndQX2lpYTNHY05ERElVcXM1b3lfazNiX1ByUzNiQVJJajVwanRxcTlvZ1hzaGNyMF9pWkF2dWMwV3lHVw?oc=5",
-        "headline": "Arthur Hayes Backs Bitcoin, Says US Will Have to 'Print Trillions' to Save the Yen",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/11 21:35",
-        "published_ts": 1786451754.0,
-        "tag": "JGB",
-        "first_seen": 1786459613.344659
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRclo4WHlXaXJnVm95YjdSZGw5YlhQYWE3dzU5T3ZUOVBnb2Fnd3FDQm9zd0JhUGhBdWZqVTBHRnJXWTFfR0czZlZxUWdhVUhndVItczdtNEs2RmFmRHFrMU91c1ZONUlDcmloNXRIUG0tMEV5YWdZY3RFVk5qQQ?oc=5",
-        "headline": "Warsh’s first Hill meetings",
-        "summary": "",
-        "source": "Punchbowl News",
-        "published": "08/11 21:33",
-        "published_ts": 1786451628.0,
-        "tag": "Fed",
-        "first_seen": 1786452323.5211742
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcHRSZGpuUmlQem50V1VyR205QjNIQ1RibHNnNkplQVdFYlowTTA5WDB5WjhZSEd4X3lPbFRTMnNJYXJ1eXFhdHIxUTM5WlgwcFNSZnlBVWhDNFpBUXZTS3lBX0FoWFZhQkhjU1Y4QVY4RzZYNnR5YjFiMUI4VWZqdXRKSFBDR1dPNGxhd3lsamJURVZJbDZaWDY0YVNhMURLQVJDSlRjN3o1ZXA3QzVsdTR2a3hoTF9JUUlDaFpoVQ?oc=5",
-        "headline": "Fund Manager of the Year Awards 2026 winner's interview: Schroder Strategic Bond fund",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "08/11 21:25",
-        "published_ts": 1786451146.0,
-        "tag": "Global",
-        "first_seen": 1786471520.7418208
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 09:45:54",
+  "updated_at": "2026-08-12 10:01:04",
   "yields": [
     {
       "label": "3년",
