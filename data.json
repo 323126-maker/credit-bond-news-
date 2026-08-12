@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zNmFjOF9XcmlNX295TEdLWXRoX19ocFpCZXZHSWplLW9OVWZHNnI3ams0dG1lZ09GblUxME5Gam9uX1pFeU1nSkJ1aTdtTmp4OURfVnZBNUZBa09IWGZFMzdfRmE1R3c00gFuQVVfeXFMTThZZWpQcXN6V0dnRTR2blZxamNYOHctbll2LXFfa212YXRKbHl2Sll0UXpIcVUxOEZ3MktIVElDUFlxLUNqWnBfb3gyOUwtZk82cy11OEQ3ajZmSWZZRzVza2VpUlVvQXBGYzRLREE?oc=5",
+        "headline": "美 물가 상승률 석달째 둔화…9월 금리 동결 가능성 커졌다",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "08/12 23:35",
+        "published_ts": 1786545322.0,
+        "tag": "Fed",
+        "first_seen": 1786546838.3756583
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZkFkT3VUeVY2al9sbWZMX1RTVDhmZVB0clV6bHdWRkFhejlWZkVfVTl1WEdFRWlvZlFmRVZoekFLaTRlRjFKQ0VMOEdoT3pXREphOG5vRDhoaE5GZWhvaER2Zk9aVURVd3NFV2JPZUlDQkxJU0pXTGZSNnROU3pYNnpQMFVSZw?oc=5",
         "headline": "Fed's Warsh gets a break as inflation eases",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786515682.0,
         "tag": "JGB",
         "first_seen": 1786516233.082364
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX1JIN3I4amRuRnR6LVpzeTRtN0lXdEppc1VRd1RmcnMydlRtMTVaUmFfS09CX1RmZTlRZVpUcTlTVnVNYV9MWXVFeDZFRkZQLV9oazlXWjRNcDRRZEFPcVRmMnlCbUE5dG9MbTlsalRZTUFqQ29SbUxRWkZQVDBGVzNUMEtpOHQ5X3RRNm1RcURLU0ZqclhzVlg3YmtIUFFVRVpvQW40TmZHSVotRHE3cVVnOUJ4c2VsUTFyTldlc0pHZw?oc=5",
-        "headline": "Japan bond yields rise on faster BOJ rate hike bets, inflation concerns",
-        "summary": "",
-        "source": "The Standard (HK)",
-        "published": "08/12 15:19",
-        "published_ts": 1786515578.0,
-        "tag": "JGB",
-        "first_seen": 1786517134.9741886
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-12 23:45:49",
+  "updated_at": "2026-08-13 00:01:03",
   "yields": [
     {
       "label": "3년",
