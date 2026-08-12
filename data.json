@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96VWh5RHlyemdlZUhiOVBvZ2pUaVI0VzJ6YmptOHpmTUpDRnJXRF9nMDBnMWpVei1SNUR4eHVKNFZfbWdTOFdic3lIT1BvdFA4b3pva0RuYVlhQTZuZXRuUGZrSmJiZlE1VE04eHB2WEQ?oc=5",
+        "headline": "[얼어붙은 회사채] 9월부터 만기 몰렸는데…'해빙' 조짐 없는 회사채 시장",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/13 08:35",
+        "published_ts": 1786577720.0,
+        "tag": null,
+        "first_seen": 1786578326.2560465
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9RYnlNWVZfby1UVlFTOUhGS3RfUUFCVE9nN3hqbmJXTkNhZW91WldTVTJONHZfVzZoRlB5THhMLWZkQVlIQWZjQmdFT3c5M3RBWHJNbUlQQWhZbUNwZm5kdThvX2VZTFJBR2R1ZWFVQUI?oc=5",
+        "headline": "[얼어붙은 회사채] 디폴트발 유통시장 투매는 진정…막힌 저등급 조달",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/13 08:35",
+        "published_ts": 1786577717.0,
+        "tag": null,
+        "first_seen": 1786578326.2560465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56U0IyN1BQNmRvQnFjbHhsYkk0SlVCNTVKRWk3V2lTOGRnbW00Q3JWdzRKV2FjU0o4Z1llVnBLNnVkWThibXRTX3FHRDNZUURBZVRZVWJfeElFWjJLYVk2UzhUdTZHWHAwVk9LNTlYTng2UlU?oc=5",
         "headline": "하우손 호라이즌 크레딧 펀드, 캐터펄트 홀딩스 워런트 전량 행사…지분 12.98% 확보",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786489307.0,
         "tag": null,
         "first_seen": 1786490130.178846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RYXgxWkotclg2aTUwUEhNRDFjTEMtMnNQMTZlcWh1OVJhVHMtR0pTQ2Vmc3NrOTF4eHN6OWhleXlWekxvcWJ4cjZadkNZeXBCVUNaMnNJbHZRcHl5UTlWZGJpT2NzVEgxTkdDWm05TTI?oc=5",
-        "headline": "[뉴욕채권] 불 스팁…파키스탄이 되살린 호르무즈 낙관론 속 입찰 호조",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/12 06:50",
-        "published_ts": 1786485028.0,
-        "tag": null,
-        "first_seen": 1786485637.111838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKSkRCdno1WlJrWS1PVzNNOXJOV3pzSHVtZVg1U0FRTE81ZXJNZmRscFBjWVVGVE9qR1ZCMkNUdnFueEZuQWRmSkhkUUl1YzN4dEHSAVNBVV95cUxQbThQQU1ZUkx5M3NscmtTSUozXzNXWEwyZGZaVU9JWkJPeGFwcURhd0hNZlFQenFKdG92ZmhTNDlmQmpaVnJNQXJkYVhPRU54NjNlNA?oc=5",
-        "headline": "유상대 “추가 인상 가능성 높다”…채권 시장 반응은? [Pick코노미]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/12 06:50",
-        "published_ts": 1786485022.0,
-        "tag": null,
-        "first_seen": 1786487210.5652347
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 08:31:04",
+  "updated_at": "2026-08-13 08:46:01",
   "yields": [
     {
       "label": "3년",
