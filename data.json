@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yTFJBcDNVTmFXX2Z0eEp1NmQ5UUZqNmx3cXAyb25vNEVHRGtZYXNtelMxYmNjc1ZiQndqOWM5Ymx6aTltbFNSdC03emlJeDNnUHpoX1hqVnJYSHJhYXF0QzVvdU9IcVdFVHFYX0ZDdjQ2RkhWcmc?oc=5",
+        "headline": "Long-term yields hold high at 2.855% as corporate goods prices keep inflation pressure in focus",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/13 13:36",
+        "published_ts": 1786595760.0,
+        "tag": "JGB",
+        "first_seen": 1786596327.2987683
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VlllT3Q3WHluQXIyOFpkcldRLUVfVnhwZXcwZm9NdGg4RnFEWWd4bGx1RnBRbXhRcFN5Y0o4X2VwSllJNmhpTGpHQm42SDFaMVRiLUZjYkdfdVpHQmdwcWJLTjZEa0M3OW5oSGthVEI?oc=5",
         "headline": "골드만삭스, 일본 1조 달러 보유…엔 추가 개입 나오나?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786537027.0,
         "tag": "Global",
         "first_seen": 1786576524.3826704
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYjhQUDUtTFNLZGdiSXpUNHVqcWxOQUp4NGFFMVBham9kVUg5ejRTNXFlSkFUeEZTbGVTSXQ3djZKc2lLdXh5bTRIY3lVanRRejlySjFjRUxpWVNhU3dmcmxneE9HRkJxVFR6MDJUR05uMjVVLTBYS0JUSDJGT0RYWmlxU1YwcDlxNk1zTUxxSVRnQnpEdmlUOFhyZ1M0MUxYdkhBUXJ4anhGWkw3RnlFbFpTblR5Zk1qNlc3bw?oc=5",
-        "headline": "Diversified ETF income",
-        "summary": "",
-        "source": "UBS",
-        "published": "08/12 20:56",
-        "published_ts": 1786535793.0,
-        "tag": "Global",
-        "first_seen": 1786543244.2120209
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 13:30:55",
+  "updated_at": "2026-08-13 13:45:48",
   "yields": [
     {
       "label": "3년",
