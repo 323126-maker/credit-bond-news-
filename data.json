@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LRjlXTmdyOFBINkNPX0V5Tm5XdVFNc0JTRDJvZXBkUjVKc1dMOFFkZGlfSWJJazM2QWdGNDhpUHowS2hkbUxoTFJDMkYwY2E2NUdVbVhPNkJ4UkNOX1RIc1A3Y2hUYW91SUJmYnAtTdIBc0FVX3lxTE1temtDSThkRVc1LXpvR2FTamx3RHFtXzR5b3FZam9QX1ZUeFZFeGNiN2l0dVN5NTYydGlCdmN4MjdsQzc0UUViTVVjQ2tRM25rVnMwRmdNVVZCd1BfYmFlRVJNYi0xZGU2Yklacy1OTFVXcnc?oc=5",
+        "headline": "정부, 주택공급에 '47.8조+α' 투입…PF 보증·자금지원 대폭 확대",
+        "summary": "",
+        "source": "뉴스웍스",
+        "published": "08/13 12:00",
+        "published_ts": 1786590000.0,
+        "tag": null,
+        "first_seen": 1786590925.6484396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSFJXY1JzS2lDNmJzR0xYMXkyV2dweWxMU3BDcGJxdlJWVFNvd0pfQk4xT09IVklpTzNENU9WUko4OHZPRE5seVh0ZWpaNGF4QXl4R2hpNmtMdzFxTmRESVZ0VTlDODRVSWJoSmJxeWVSQQ?oc=5",
         "headline": "국고채 금리 혼조, 3년물 3.791%로 하락…美 CPI 발표 대기",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786254120.0,
         "tag": null,
         "first_seen": 1786255235.3931544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43U1V6a2NQVlUwb2JibUhvd2pyQ0tkcVRlUnlHcmw2WkplZmlnbFhyZDByR3lMRjFxdzRIYjhmYUNaaEt4SE5aUEdzQ2V6R0o2MlpJQmNpNHIxcVZTcHhBU2p1YnZrLUViUVZBSFdqcWdRZw?oc=5",
-        "headline": "[채권-주간] 7월 美고용 쇼크에 강세전망…백투백 베팅 줄어드나",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/09 13:00",
-        "published_ts": 1786248001.0,
-        "tag": null,
-        "first_seen": 1786248274.7154946
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE43VlllT3Q3WHluQXIyOFpkcldRLUVfVnhwZXcwZm9NdGg4RnFEWWd4bGx1RnBRbXhRcFN5Y0o4X2VwSllJNmhpTGpHQm42SDFaMVRiLUZjYkdfdVpHQmdwcWJLTjZEa0M3OW5oSGthVEI?oc=5",
+        "headline": "골드만삭스, 일본 1조 달러 보유…엔 추가 개입 나오나?",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "08/13 12:14",
+        "published_ts": 1786590880.0,
+        "tag": "JGB",
+        "first_seen": 1786590925.6484396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBBTk9ac2VzX0tpLTc3eThqS1RvNmJpelhidEt5NlVncHEwelVzVmVNZF9mdFAtMDRjSXJDYUNUNTlKdVg5em01dEIxUFRlRFpiWXcyLWlJRmFOam11NXhELVZ5NDN3S1VhbmZCanAycU0zWXlYbURvZzI4M2ZZNGREU2dDbkV6b0Z5NHFsaTJJUQ?oc=5",
         "headline": "Japan 10Y Bond Yield Hits 4-week High",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786534200.0,
         "tag": "Fed",
         "first_seen": 1786536357.4130447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBxcnhmZGtJaDhuTlhteS0tU3BUMmVXYlkwYkNGb2R0UEJldHdFM29peHpoaVVZajlUcTdKMUpGdllCQ3lFNWg5TEdEb3d3NzMxYmczclhXOXpQZV9zM1MwSk9yUTZpdw?oc=5",
-        "headline": "Kevin Warsh Faces a Market Test as the Fed Cuts Policy Signals",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "08/12 20:21",
-        "published_ts": 1786533685.0,
-        "tag": "Fed",
-        "first_seen": 1786534231.2698903
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 12:01:03",
+  "updated_at": "2026-08-13 12:15:52",
   "yields": [
     {
       "label": "3년",
