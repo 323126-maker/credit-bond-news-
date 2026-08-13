@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1RbXV0WHlVa0loTlFCbjdNYlZfVFRvNU1GS3FVNXJrU3V5Wk9YM0FEWXlsV0cyUFZlcjRQQ2pPdkxKcHVucXZqYXZsVkdpZDdmYVFVWWp2T294MHZ0UzlIMnhn0gFiQVVfeXFMTVFtdXRYeVVrSWhOUUJuN01iVl9UVG81TUZLcVU1cmtTdXlaT1gzQURZeWxXRzJQVmVyNFBDak92TEpwdW5xdmphdmxWR2lkN2ZhUVVZanZPb3gwdnRTOUgyeGc?oc=5",
+        "headline": "\"지역필수공공의료 살리려다 '기울어진 운동장' 만들진 말아야\"",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/14 06:00",
+        "published_ts": 1786654800.0,
+        "tag": null,
+        "first_seen": 1786661126.2281947
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZOXFCX2tRSFFad0luamlFVGF0WEQ4YnJQajJQVWF0aFJxMEdHeWZGc3o3bkFaQ0NFd2NSSnNuNkdzd21ET2Y0ci1qYXltMVd0c2NLRFktX2o0VGJZQ0VzQnpTbEJlUFloaTEySDRfMNIBc0FVX3lxTE5qckdSYkZvUjhtYVVvOWduRzN0c0piRkxIZ1lUUnV5M1BGYzQ5QzkwLUY0cjFvMVRHbmw4ZWQ5VjN0NzlVNWlBQkQzdV9CRWQtWjFzRW0ydXVpTnA0RGdjM0FYS2JCSnBLYmZjYkNPSkZJZDg?oc=5",
         "headline": "“부족한 점 찾는다”…‘민심 8월 한파’에 빨간불 들어온 靑",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786317698.0,
         "tag": null,
         "first_seen": 1786412723.8589292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1xTk92MG9UZXdrNW84bFNZQWwwM1liLUc5WWd1eG5xN3R0OEM3SVV4dko4LXpDZW1oMUpBcUF1NEtGQQ?oc=5",
-        "headline": "국민의힘 장동혁·정점식, 이재명 정부 부동산·외교실책 비판",
-        "summary": "",
-        "source": "브레이크뉴스",
-        "published": "08/09 22:48",
-        "published_ts": 1786283280.0,
-        "tag": null,
-        "first_seen": 1786318230.1760044
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 07:30:51",
+  "updated_at": "2026-08-14 07:45:52",
   "yields": [
     {
       "label": "3년",
