@@ -32,6 +32,16 @@
         "first_seen": 1786572925.0729864
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVJKMzcteUtCNHh5a1BsaTFkOXJpTl8wNU8zU2JfdTUyYkQyUnh4SExLQl9wOGY5MnQtMUpYZUdBdlVpWFo3RmRZcnp4QXZkRmlJMURHc2duUGRKX3VSdVhRY1k5cjM2cERrdFZNSTlSTzFEaTNqalZBaUc4Q014NC1LN3VRWHc?oc=5",
+        "headline": "S&P, 파파존스 신용등급 하향 조정... 매출 부진 탓",
+        "summary": "",
+        "source": "kr.investing.com",
+        "published": "08/13 06:48",
+        "published_ts": 1786571280.0,
+        "tag": null,
+        "first_seen": 1786579238.0535696
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTV90dF9UdUNqMWZ0U0F3Y2I2RVJJbWJ6WHE1OTdkTk9HX09LYl9vdjltWTQ1YXVLMGo0czhycFFwbWFybTh0cnd0ZUpWQnRpWWRzcFR6dmVidEVoUTZMaGtlemhJQWVaakswMnlWOFVSazA?oc=5",
         "headline": "엘링턴 크레딧, 2분기 순이익 1230만 달러 기록…흑자 전환",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1786489387.0,
         "tag": null,
         "first_seen": 1786491031.041981
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE8wM3k2MWwtMWJkZTBsekNMZkp4Z3FKQlpuRjAxN2x0SkxRS1dMZW9wWEV1aFRsbEtOaGpRbTQ5aE1nZ19GMnFGZllPajhPZms?oc=5",
-        "headline": "연내 만기 비우량 회사채 5.1조…\"수요·이자 등 차환 난이도 높아\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/12 08:01",
-        "published_ts": 1786489307.0,
-        "tag": null,
-        "first_seen": 1786490130.178846
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1PYUVrMDlHR3NuQWhLeXUtcmlBLW4waFNMWS1JMGw1MTJOOWg1SFFxX2g1X3M4c3dWY19iR0E1cUwwV3JybTlVcmoyWS1xcHdhUU9mLWFUWnFzTlJfQnBZbVcxcGhIYlJ2NXc?oc=5",
+        "headline": "우리금융, 3.60% 영구채 4.79%로 차환...4000억 자본 확충의 셈법",
+        "summary": "",
+        "source": "월요신문",
+        "published": "08/13 08:44",
+        "published_ts": 1786578279.0,
+        "tag": null,
+        "first_seen": 1786579238.0535696
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1udGVjM09vVG8wVG5ucXdsMEVHRVFocnZCaGkteWZ3ellRaTRTZXEzbmNEUlVzNUZ3OGJmUVJDWkdFOGdVUUo3SldxajhIOEtodWlJdHNTNUg5Y09jTmVEYkROSmo2Wk80bHUzcVhwVnY?oc=5",
         "headline": "5450억 끌어온 iM증권…자본 확충 뒤엔 연 218억 부담",
@@ -792,16 +802,6 @@
         "published_ts": 1786399146.0,
         "tag": null,
         "first_seen": 1786399778.228773
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1hdjluOVVIWWxxT2NZS1hMQjZDRmtETDFlcnFrVmVOSGpZUU0wLVk4SWZYeGhieEdkX2NrUGR0QVJUUHJ4M01WOVRUbF8tSnBlLUtEQUhibDBDUm1wWUhnOUgwUGw0TWJSVS1Da2R1U2U?oc=5",
-        "headline": "LCNB, 2,500만 달러 규모 후순위채 발행 마감",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/11 05:30",
-        "published_ts": 1786393800.0,
-        "tag": null,
-        "first_seen": 1786451433.2848475
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 08:46:01",
+  "updated_at": "2026-08-13 09:01:00",
   "yields": [
     {
       "label": "3년",
