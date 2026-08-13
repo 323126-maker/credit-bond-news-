@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FOVpjSXNuZ0xaSG5QMFEwT3pScDQxUjUyQTIyYUNlUFZlS2hIbC0wdXlEYlctRnpsX2VveExuVkpyNGtES2dzM2RNem1NVzRWT1NfZmJHU1NseFEyUVdFRGxNdWkxZXpKQ3RiMVpJRlfSAXRBVV95cUxPSHAyam5TU0JIdkR1U2gwMDRCNUpCQ3dvRTE1clVCMWw4YXRiZzY4eXlEVXZfNlM3a24zaU1mNzNCZ0wxTzMyWllRc0NwVUJtcDg5LWVkbmJCWGVpTXcwN296VGJReU9MajRqTkJOclNVeXg3OQ?oc=5",
+        "headline": "외국인 자금 유출, 6개월째 여전…한은 “AI 투자 경계감으로 순유출”",
+        "summary": "",
+        "source": "주간한국",
+        "published": "08/13 12:46",
+        "published_ts": 1786592819.0,
+        "tag": null,
+        "first_seen": 1786634127.5360093
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1LRjlXTmdyOFBINkNPX0V5Tm5XdVFNc0JTRDJvZXBkUjVKc1dMOFFkZGlfSWJJazM2QWdGNDhpUHowS2hkbUxoTFJDMkYwY2E2NUdVbVhPNkJ4UkNOX1RIc1A3Y2hUYW91SUJmYnAtTdIBc0FVX3lxTE1temtDSThkRVc1LXpvR2FTamx3RHFtXzR5b3FZam9QX1ZUeFZFeGNiN2l0dVN5NTYydGlCdmN4MjdsQzc0UUViTVVjQ2tRM25rVnMwRmdNVVZCd1BfYmFlRVJNYi0xZGU2Yklacy1OTFVXcnc?oc=5",
         "headline": "정부, 주택공급에 '47.8조+α' 투입…PF 보증·자금지원 대폭 확대",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786327302.0,
         "tag": null,
         "first_seen": 1786328126.294302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10VXdsS3FITjJiSWhtVDZwSTF2b3ZQTGVkLTYwQy1UNGlVTVhvS2hwVWdlakFraTNkSlFLc2RRWU9uZDZzSG1XeXc1SndBVUFkTmEyRFk0MklmN3PSAWBBVV95cUxOa0NwYWJObFJ1dGpoVVRPdlY5MjYxbnR6V3dYdDJFeF9CWlRGRHViX3lIbE1WQmlrb3Q3cUlRZ3dUcUduNkNWeWRHS1Q5NmdJOE1YZ25kOGRfOEh5VmJvVWY?oc=5",
-        "headline": "7월 국고채 금리, 환율 상승·외국인 매도에 전반적 상승",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/10 10:48",
-        "published_ts": 1786326501.0,
-        "tag": null,
-        "first_seen": 1786327238.5246253
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 00:01:11",
+  "updated_at": "2026-08-14 00:15:53",
   "yields": [
     {
       "label": "3년",
