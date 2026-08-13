@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nT05OUlpxdzRNYV9IX0M0TVhnODhYZ2JmOU1USVppSW84QjdLTHdzZlpsbGNUNHd1OXBzSXViYUkwcy1KYlN2MTdXeGdUYWluMVVpUw?oc=5",
+        "headline": "Japan Backs BOJ Rate Hike in September or October to Defend Yen",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "08/13 14:56",
+        "published_ts": 1786600614.0,
+        "tag": "JGB",
+        "first_seen": 1786601723.929927
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOTZ3dEtlazNqcHdOZmVqNDk2V0J0VXp1ckJ6U21hN1BSVTFRbk44aXdLZlJwVG93RnU1cHB5SDJzNGdiN0FGZmprdkYzcVZq?oc=5",
+        "headline": "日 정부, BOJ 9월·10월 금리 인상 지지…엔화 방어에 정책 공조",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "08/13 14:56",
+        "published_ts": 1786600585.0,
+        "tag": "JGB",
+        "first_seen": 1786601723.929927
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaUdZQ211Q01sVHByMWRvdkZnZl96Z00zM25adXhTVExScUt5d2VvbElfV2k2anBlU3lJUnhBdllvLWVXU003VV9DeE43LTVNSjZMbGI3Nk1ZZEM5bWxhQVFjNnBBbzgxSHMtRElrSlI4NXhkOWFUOG4wOUE4Q2hYU1puZnJ3OW1U?oc=5",
         "headline": "물가 치솟은 일본… 시장이 '9월 금리'에 베팅하는 이유는?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786539745.0,
         "tag": "Global",
         "first_seen": 1786543244.2120209
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9NOUxXZmREcUpmUnh5NExUVTh0QnV3VkxMcEl1MmhuNU9vSU5KZ3NSWFI5Zld4SXE3b2pwaExDSWpnRUpzdXYxWEJUMUhRZHYyWkc0?oc=5",
-        "headline": "美 7월 CPI 예상치 '부합'…월가 \"워시, 한숨 돌렸다\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/12 21:57",
-        "published_ts": 1786539420.0,
-        "tag": "Fed",
-        "first_seen": 1786540523.398777
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80ZjkzWmNoZ1V2R2g0anRuYTF5WDBjeW1OZ2h2RFZpYTZ1WncxaThvSlh2QXV5VmoxRDdQRGlyaU1SQWVvbzc1dUNLU1ZoZmRwRlU3NEl4WWVCRlBYa2JkOTZiRmU4VWpmQ25faHpqQUNSbDNKTS1HZUZYYjdZZw?oc=5",
-        "headline": "US Long-End Yields Hit Multi-Year Highs: What It Means for Markets",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "08/12 21:34",
-        "published_ts": 1786538067.0,
-        "tag": "Fed",
-        "first_seen": 1786545032.5783346
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 15:01:01",
+  "updated_at": "2026-08-13 15:15:47",
   "yields": [
     {
       "label": "3년",
