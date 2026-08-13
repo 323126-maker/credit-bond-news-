@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HX0pGYm5EcGZoNXF0TTkyYVhya1dybElkSngzLVNXMV8yc0JCR1ItTFBtR1ZrNU5yVHZXN0U3Vk1zQWVQTXN5dWdGWC0tdTFVT2Y2bEpQUEdDOGvSAWBBVV95cUxOWjZvMmZuUmlzZzFaTHhnZ2dUd3hTeE5SRE5kQnFGSFVyQ3ZqV2Q2N0ZYMDBpckliSGVRX3JzTTBIbTNsQmVucXRwSjE4V2t0ZklaZFhMQ1BWbDE0WXZvVmo?oc=5",
+        "headline": "금투협, 크레딧채권·IB·부동산투자 등 3개 과정 개설",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "08/13 10:08",
+        "published_ts": 1786583312.0,
+        "tag": null,
+        "first_seen": 1786583722.7344465
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VWllkQXZzdDJXNXlmcXR1NUxpY1lWQXFXbE9WOFlFT3VOOUl3OU9vLTNFcE5xeWpVQzUzNHEyd3RMQ2ZsMERZeFdfVDd4RHVvUnFaNktKRjF0WHhJ?oc=5",
+        "headline": "금융투자협회, '크레딧 채권투자' 집합 과정 교육생 모집",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/13 10:06",
+        "published_ts": 1786583160.0,
+        "tag": null,
+        "first_seen": 1786583722.7344465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96VWh5RHlyemdlZUhiOVBvZ2pUaVI0VzJ6YmptOHpmTUpDRnJXRF9nMDBnMWpVei1SNUR4eHVKNFZfbWdTOFdic3lIT1BvdFA4b3pva0RuYVlhQTZuZXRuUGZrSmJiZlE1VE04eHB2WEQ?oc=5",
         "headline": "[얼어붙은 회사채] 9월부터 만기 몰렸는데…'해빙' 조짐 없는 회사채 시장",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786499115.0,
         "tag": null,
         "first_seen": 1786503636.1791372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04WEQwd3VDejBrcTQzenJuS0ZneGlJbkpIU2FDLWxKbjBvVTZONUNPdU5qcktHUGYwNHVDS2VMbjhWbzJuWWtsbjA4d2tQM3RYdUE?oc=5",
-        "headline": "젠슨 황에 채권시장도 설득당했다 … 코어위브의 깜짝 실적, AI 생태계 여파는",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/12 09:47",
-        "published_ts": 1786495651.0,
-        "tag": null,
-        "first_seen": 1786501830.6110234
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5iN1dnMmhZTk53Vmk5X0dla1dwQmlCMWZ4NTV3WnRZS2FGdlN4bm9oOWpQTnVrcWxSLUVZVEx5bmx4TE9EVEZrMDAzaU01aGhmLXQ5clJLdy1zOVBBR0dCZHU4RUJlSDRzclUwNXByRkZkUQ?oc=5",
-        "headline": "'AI 인프라 뱅킹' 자처하는 엔비디아에 채권시장 불안한 눈길",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "08/12 09:44",
-        "published_ts": 1786495468.0,
-        "tag": null,
-        "first_seen": 1786496441.3878305
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdlltZDBvWmFxWnFrVW8xcjczOEdlZDVpbDJKRWFiMmRpdjVIcEpEOU1GRHMxY3ZlRzlKX3BIQ2E0c1VWdE83aG9WaEU1Tk05aVBTTGFfUVQ3SFI2TjdYR2VWcUx4VTRZZHhxQXBvX1BJX0habURNYVB1SG9WWDJJWE9RT2NBdzJRbXRnQnpWWjUtTXhEcTQ5NGVqUVRMNHQwemRxRzNQOTVkRldnMDlrTXk4SVFzYUl4Mlo3Ym1KUnVkaDJyYVNMbnRobzhVYzVXb2N2ZHY3eUkzX1N2?oc=5",
+        "headline": "Here Come the HELOCs: Mortgages, Housing-Debt-to-Income-Ratio, Serious Delinquencies, and Foreclosures in Q2 2026",
+        "summary": "",
+        "source": "Wolf Street",
+        "published": "08/13 09:23",
+        "published_ts": 1786580629.0,
+        "tag": "Global",
+        "first_seen": 1786583722.7344465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcEJaZUQzYTAySGc4V2dWZC1XY0Q4d1NnME5JZFE2a1YyVHpLTUp5T1R2WUV5TXI4X1E4TjFPWXQwV3hFM09KSTNuUk9sZl9QZVBvdWl4UXdvVnB0U2ZZcjBiYkR3Z1F6ZVhLY3duZmxESHJYUW9pNjY4RDFYRnRrVzcwMXBQZElPQjJLRTBQREVoLTFkOTlzeFUybHA2X0NuTWdNUnN1djI?oc=5",
         "headline": "Fed Deep State Undercuts Kevin Warsh, Who Wins Some Surprise Support",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786529040.0,
         "tag": "Global",
         "first_seen": 1786529721.9147863
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpaEF4Y0V3ZDZNM2VCVm9sVEtJeEM3TlpObWFiRHcxVUhVVjZlQTBfNHFZSGJ0TGRlNTJDdUdwWjNNN1RpTWdoREFGYzBUQ3ItaW1ySk5UQVB6dnlPLTdjeVZUVnQ?oc=5",
-        "headline": "일본 기준금리, 다음 달 0.25%p 인상 전망 확률 80% 육박...연내 2차례 인상 전망도",
-        "summary": "",
-        "source": "베타뉴스",
-        "published": "08/12 18:51",
-        "published_ts": 1786528310.0,
-        "tag": "JGB",
-        "first_seen": 1786528836.3927345
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 10:01:08",
+  "updated_at": "2026-08-13 10:15:45",
   "yields": [
     {
       "label": "3년",
