@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZOXFCX2tRSFFad0luamlFVGF0WEQ4YnJQajJQVWF0aFJxMEdHeWZGc3o3bkFaQ0NFd2NSSnNuNkdzd21ET2Y0ci1qYXltMVd0c2NLRFktX2o0VGJZQ0VzQnpTbEJlUFloaTEySDRfMNIBc0FVX3lxTE5qckdSYkZvUjhtYVVvOWduRzN0c0piRkxIZ1lUUnV5M1BGYzQ5QzkwLUY0cjFvMVRHbmw4ZWQ5VjN0NzlVNWlBQkQzdV9CRWQtWjFzRW0ydXVpTnA0RGdjM0FYS2JCSnBLYmZjYkNPSkZJZDg?oc=5",
+        "headline": "“부족한 점 찾는다”…‘민심 8월 한파’에 빨간불 들어온 靑",
+        "summary": "",
+        "source": "시사저널",
+        "published": "08/14 00:18",
+        "published_ts": 1786634319.0,
+        "tag": null,
+        "first_seen": 1786635033.6600678
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82dEVnUmRudDVJOHpPb1p1T01TQVl2MnBLblR3a0FFdjk3allydWx6V01KbHFQb1NYS0dUUjluZHlsZmhZRFhjdGJWMjl1Rkd3ejBJ?oc=5",
         "headline": "경기도의회 국민의힘 \"경기도 재정 위기 시작은 이재명 지사의 무리한 기금 차입\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786283280.0,
         "tag": null,
         "first_seen": 1786318230.1760044
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE85ZmsyQU92Q1JVZEVfSVdYZ1JybXVOV0RVRHZrNW1hYnBseUppcDdEUHVBN0wxMzZOa0RRZkM3X0U4UTZWRUgwXy1uTTc5N2tDeVJhZVJ6cElfd1NpN05wVHQzM3ZWZkU2Tjk0U0d4RdIBb0FVX3lxTE85ZmsyQU92Q1JVZEVfSVdYZ1JybXVOV0RVRHZrNW1hYnBseUppcDdEUHVBN0wxMzZOa0RRZkM3X0U4UTZWRUgwXy1uTTc5N2tDeVJhZVJ6cElfd1NpN05wVHQzM3ZWZkU2Tjk0U0d4RQ?oc=5",
-        "headline": "‘빈껍데기 부자’ 경기도 놓고 책임 공방…장동혁 “이재명 때부터 재정 부담”",
-        "summary": "",
-        "source": "투데이신문",
-        "published": "08/09 18:38",
-        "published_ts": 1786268339.0,
-        "tag": null,
-        "first_seen": 1786275923.7355497
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 00:15:53",
+  "updated_at": "2026-08-14 00:30:58",
   "yields": [
     {
       "label": "3년",
