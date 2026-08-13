@@ -1378,6 +1378,16 @@
         "first_seen": 1786428043.4154503
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE42c3pPakVtbVJMYU5iS0F1NjBucEVHTXA5RzNTckV4bkt4bUp4UHE0UElyakthYTlyakd6bzNfaFZxWDVoM2ppU2ZYOXktSTgxVGVGcmprX0N3UQ?oc=5",
+        "headline": "이재명 대통령 \"갚지 못하는 빚, 빌려준 채권자 책임도\"",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/11 14:18",
+        "published_ts": 1786425512.0,
+        "tag": null,
+        "first_seen": 1786591831.248509
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZzNEdS0tTE0xX0Q4T0J0MV9SSDJ6cHJuZmdFczdPVFJoNTRBN2NqV0t4SVBnVDBQOTlYLU85ekhIY2pqWkR5bW9Oa1UtZFE3T2tPS18wMXF2YUluWHBZZdIBYEFVX3lxTFBDZzNEdS0tTE0xX0Q4T0J0MV9SSDJ6cHJuZmdFczdPVFJoNTRBN2NqV0t4SVBnVDBQOTlYLU85ekhIY2pqWkR5bW9Oa1UtZFE3T2tPS18wMXF2YUluWHBZZQ?oc=5",
         "headline": "李대통령 \"부처 간 엇박자? 각료들이 안 다투면 국민이 싸워\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786246200.0,
         "tag": null,
         "first_seen": 1786248931.1295133
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE55TTZXS1RDZktnN2wtUk1SZ05pcnAzdTl6b2ZISGp5R0V3S0tILVBjQmg0bzM3NXYzMGpBTVU4SFpLUQ?oc=5",
-        "headline": "박성훈 국민의힘 수석대변인“이재명 정부 국정 난맥·선관위 의혹” 비판",
-        "summary": "",
-        "source": "브레이크뉴스",
-        "published": "08/08 18:36",
-        "published_ts": 1786181760.0,
-        "tag": null,
-        "first_seen": 1786243525.7105272
       }
     ],
     "global_bond": [
@@ -1748,6 +1748,16 @@
         "published_ts": 1786561680.0,
         "tag": "JGB",
         "first_seen": 1786562126.9808447
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1GeTZqWFBsZGFrRHZvVDZQcFV6S2ZmdWdSY0tIdjVjWU5nd2ZOQ0h4VmQ1OFlNdTFydFRXZGhQcFR4WXpKVFlZZGUxdlZFcHFUUEF2MG1icHNFc0ZvTVFpRTNVVDRldlhkWkEyQ2ZqVGZHa2lOMTJQYnV5MkEydw?oc=5",
+        "headline": "Post-Inflation Relief Lifts Risk Appetite Across Markets",
+        "summary": "",
+        "source": "CryptoRank",
+        "published": "08/13 03:48",
+        "published_ts": 1786560496.0,
+        "tag": "Global",
+        "first_seen": 1786591831.248509
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUt6T1M3U2s4djc3WG1iaDdJN2dqaDVNeFk2WlJwaWtLQWQ4MkY3Yi0wTUZJclJ4a2FjSDRqOFdQY2xxSnI2dGF6M0Y1aElKN3NJSW1iS3FBVTQ2X04xaWJyVlNTa2htWXlrRnRRalJobHRCQTlnZlgwbTR5M25FbDAwQ3lGVUZRN3k0WmtKanhnTDBrc3ItUk1yTS10T1RUcVN1TDFVaUZITEQ2bkU5LVp1QW1TclpaVm8wYk02Q2lYaVVxeEdFeA?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786534542.0,
         "tag": "Fed",
         "first_seen": 1786540523.398777
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNM3VvWDluU1RwaURQdDNjQlpLTmFuajdKY21nV0dVT0N3dTVZVUpuV0hJSGZKempVUU1rWGw1RVJvbnlvT01fellnVG4xUzFfSktGUHlweGxtWHZJRDhpUkVxVm1QNG5GUmpJNkJqXzFWX3Jtbm5GcFJtVlVFd05TYlM1cjdzd2ctX19VLTlPVFB5Ti1UVHBxTU5Hd2RxVGpmOXNmRVBMTk1sSTQ?oc=5",
-        "headline": "To read U.S. stock market trend, watch bonds, oil and Nvidia first",
-        "summary": "",
-        "source": "디지털투데이",
-        "published": "08/12 20:30",
-        "published_ts": 1786534200.0,
-        "tag": "Fed",
-        "first_seen": 1786536357.4130447
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 12:15:52",
+  "updated_at": "2026-08-13 12:30:54",
   "yields": [
     {
       "label": "3년",
