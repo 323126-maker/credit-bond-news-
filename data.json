@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82dEVnUmRudDVJOHpPb1p1T01TQVl2MnBLblR3a0FFdjk3allydWx6V01KbHFQb1NYS0dUUjluZHlsZmhZRFhjdGJWMjl1Rkd3ejBJ?oc=5",
+        "headline": "경기도의회 국민의힘 \"경기도 재정 위기 시작은 이재명 지사의 무리한 기금 차입\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/13 13:56",
+        "published_ts": 1786596960.0,
+        "tag": null,
+        "first_seen": 1786599029.6888719
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93YllxNEIyQ1J0dkhNM1FWSGg0OVpUZEpabF91dUxjZTJjSkVReWxjbmxPSlZwYjFzcC1CYlMwM1FZQ2s0M0M1QU82RzNKWW0wbms3R0ZfYw?oc=5",
         "headline": "이재명 대통령, 제40차 수석보좌관회의 주재",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786254870.0,
         "tag": null,
         "first_seen": 1786256124.5692866
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8wMFBzcXRLaTN0OThYM1o1cGl6eGROSTB2bGtIdm4wNEJ4VWNLaW04QTBoLTVMbWdROUNXLUhzUi11bkdueWljbkpIc3VFSjVBRlMwUjBXV29TOVpKV1JYU2FucURUTEdpZU54c0tPYXp1V0HSAXNBVV95cUxPMDBQc3F0S2kzdDk4WDNaNXBpenhkTkkwdmxrSHZuMDRCeFVjS2ltOEEwaC01TG1nUTlDVy1Ic1ItdW5HbnlpY25KSHN1RUo1QUZTMFIwV1dvUzlaSldSWFNhbnFEVExHaWVOeHNLT2F6dVdB?oc=5",
-        "headline": "\"공약과 정반대 주택 정책\".. 대통령의 후보 시절 발언 유튜뷰 '파묘'",
-        "summary": "",
-        "source": "땅집고",
-        "published": "08/09 13:34",
-        "published_ts": 1786250082.0,
-        "tag": null,
-        "first_seen": 1786275030.5147324
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 14:23:51",
+  "updated_at": "2026-08-13 14:30:52",
   "yields": [
     {
       "label": "3년",
