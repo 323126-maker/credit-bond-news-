@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV184RHN4bkdnVGNoZ1ZYSzdJaDVZN1hfb2pKN1dTVXcyUDhEX0FZUFE4RERXX2lNWHl6dUVVMjlEUXltbEhnc3R4a3J4aU5MbG53cWc5S1cxbHNTX1A0WjVwUzhkWkFyQ1FENGlkTDNzOG1ZY3IyZDdGWFlCSnpTaDgtOTBCQTVEZk4zb3VNc1RvaFd5ZklUaGlVbHJXZHE2MmtmWlM2cGh2UEI5WEdkZHdiZTdzdlRfaU54dlRKbWRHQlBfWUtUVkcxRGYzR2YxdjN5UVRtN0UzZ0l2Y1RaendhTDJqSzRvR0ZSWUs0d1AyX1ppS09hQ1J3ZW9mdE5WTXhIRlNnLVJmVmlnZFN1VWNEOUFsUQ?oc=5",
+        "headline": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/14 07:59",
+        "published_ts": 1786661961.0,
+        "tag": "Global",
+        "first_seen": 1786662924.5719793
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQcjdCNDVTZElMckFXeHhlSDQzaFdOY0syV3N0bnhySVdGOXAyNzhUMV9KV3JVZFY2UWtaQThqMG1tOTJYWEJSNnUyUWZRT0hWd3F6Zi1Pdk1Uck90aTQxbnRlUVhfODhmRWMwVTNiOE1iVnlEN3lsdWg1Z3dUaDl2SE0yUGhmb1BzQ0FsMERvUzRVdk5IS29oVlM5cnRPVE9URzhpaExYYzZ0QTZXTndhWXJTb1VJWHNwMi1tOTJnQ21IUUFTb2t5RXVfV0hGRXhpR2lwcmJRWmVKYWdLV3kyYzZjZXBnREU2dnRTX3BtRHRVMjkyanJKZFpOa2NSb0daQ19yTHliaXhhY1pjQmd1SXhXZTZQX0NOS3lSNGlJUFE1VTNMR2lYdHhZX3FOT2lp?oc=5",
         "headline": "T. ROWE PRICE OHA SELECT PRIVATE CREDIT FUND ANNOUNCES JUNE 30, 2026 FINANCIAL RESULTS AND DECLARED TOTAL DISTRIBUTIONS OF $0.60 PER SHARE IN Q2 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786600585.0,
         "tag": "JGB",
         "first_seen": 1786601723.929927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVWYxX2JTMlpfamkyaXMtdXV5OV8wMVdpOG03Ui13M1hpX3JsUmdLUW1WcTRqNkRMUEIzQktaRlNwQjZrYUE2YWdkb0lWMmxnWE1qbzk4Wmo0Q25NalNQcm05UGxGSUZldTZ3NnI2OWlmQk9QQTEzS0RrSWF3VEprYTJBWXYxY3Z5UnJLYTh5MlllZTl2LXBVRGxuQm1ZcUlkSFdmRS1FTUlIUWs3UUFES21pWXNMbVlxTkhyeHBCSEpPc0wySnpQVVVuQmdJdU1KS1BNdl9NVW9ReVE?oc=5",
-        "headline": "Kevin Warsh's Fed Faces Split Verdict on Inflation…",
-        "summary": "",
-        "source": "inkl",
-        "published": "08/13 14:15",
-        "published_ts": 1786598109.0,
-        "tag": "Strategist",
-        "first_seen": 1786642241.16978
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 08:06:18",
+  "updated_at": "2026-08-14 08:15:48",
   "yields": [
     {
       "label": "3년",
