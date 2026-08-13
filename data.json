@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5DQjI2Znh4MmdRekRpeHNsNk10Sms1YlhMLXRjS1lhaUtpX2JmbUJLOEQ0dUc3dEE1LUlOTEtsTjVEVFg3bmNJZlN0YjZNV1lmNE1zaGJFcUk1dmVyLS0w?oc=5",
+        "headline": "[IB토마토]키움PE, 풀무원 CB 1000억 중 600억 회수…400억은 주가가 변수",
+        "summary": "",
+        "source": "뉴스토마토",
+        "published": "08/14 06:50",
+        "published_ts": 1786657800.0,
+        "tag": null,
+        "first_seen": 1786658446.1361504
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtbzBMcEtyMkV3Y1RuTUt6b2RYN0JSTkliZVVtNVJWZURJc2UwMnp2WWRyTGg2RkY1TFBTMFRac3UxOWhJR0NyRUR5WWk5VHotdW5LRW1PRHR4V3ZsYXVZcjR4S0pHUklEcTktN0MwWll0dUk?oc=5",
         "headline": "한중엔시에스, 800억 규모 사채 발행... 미국 ESS 영토 확장 본격화",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1786404590.0,
         "tag": null,
         "first_seen": 1786405528.1798398
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54VU1WaklRVV9EUDJqMDJxT1VBVUZKby1sWVkwdHl5dDZvUTNrM3FyOTdaNFItS19xWDBFaHFtUGtvN2pyWGczZC1xTVRQQko2akdtLWZ2NUxGcEFueVVEWTJ2WWVZSmN4SzNoNEk0M1TSAXRBVV95cUxQTGM4TEJTa2F0VHlWTXJ5RjE5OE5pQ2tRMHF1WnBDb1k1OXRnYl9qdHZJTU1QeUdwZ3pNV1hpTzZoeC1FNFNPNGNISnFpNHlEZ3hUWnVBTng2aWhkcmlVQjBMZWNFZGVvQnNjTXNLZHZ6ajNwMQ?oc=5",
-        "headline": "KB라이프, 700억 후순위채도 차환발행 안 한다…고금리 부담",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/11 08:19",
-        "published_ts": 1786403974.0,
-        "tag": null,
-        "first_seen": 1786404634.6501088
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 06:45:46",
+  "updated_at": "2026-08-14 07:01:12",
   "yields": [
     {
       "label": "3년",
