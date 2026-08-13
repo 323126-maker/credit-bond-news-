@@ -484,6 +484,16 @@
         "first_seen": 1786520723.2526076
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1mYVhoMURDMFZFQ29HRUsxcGcyN0RNejFlREswZ3AxTDdGdy1TYmU1aExqWE51aDFKdm5CUWRDaGhMTnN0c1kxeGx3?oc=5",
+        "headline": "우리금융지주, 증권 발행 부담에 하락 마감 : 기업주식정보",
+        "summary": "",
+        "source": "재경일보",
+        "published": "08/12 15:57",
+        "published_ts": 1786517820.0,
+        "tag": null,
+        "first_seen": 1786630536.2578278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA2dDZlMGlsOGc3QWM5UGV0VDBKWm1qeGJxemR0MndUU2JnWVBiRkJVOE9WR0QzQ0VMSW91YUFrNmxuNjRsX1pFTllSeDFJVER5aGc3eWEzM1ZkSXR2?oc=5",
         "headline": "4대 금융지주, 영구채 발행 러시…금리 3%→4% 차환에 부담 ↑",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1786403974.0,
         "tag": null,
         "first_seen": 1786404634.6501088
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaVUyYVFOME9md3NJU3lvdlZrYUV4XzV3WFJTbFRtQ2VFVlA2bUUweVRXbnM2SC0xMzBUQURuOE95UFl1R3ZlbVA3eElPWHI3akdRR1JMWFhrQ05nZnRRSzltWl81NTlmaEVEaG5TQ0ZwRUtGWU5fTEdDYVdfbGJlRUgydw?oc=5",
-        "headline": "뱅크 오브 아메리카의 상승장 경고. 역대급 과열구간 진입.",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "08/11 07:42",
-        "published_ts": 1786401720.0,
-        "tag": null,
-        "first_seen": 1786420837.5506096
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMWZ6d250M1Aya1ZTOFJjS1dNY0NITkVHblBFMHJoZ0RyM1VJTGt4SE01MnVUVDhkZ3FCVVFJcWV5a21SMlFVZmJPM3hRcXN6dnNPNFZ4bzBKRlpaX0dwcG9PZERPbHdPeUI1aHZUTDhOUXdRSDlIZm0wVDNyTnlIemFiOUVIbk5YYjFkOHFpZHlRS3FFREIw?oc=5",
+        "headline": "Here's Where the Fed May Take Interest Rates Under Chairman Kevin Warsh",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "08/13 23:10",
+        "published_ts": 1786630221.0,
+        "tag": "Fed",
+        "first_seen": 1786630536.2578278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNa09wb0hEOG1nZGw1ZTVYZGdBRHFjcTRJNmFwTHZaSktTdHg2LWx6NGRuSFdsSDlBMHMzNEtMTC1vZzh6MHJzVDJJbWVMNUFwOG5QdjltN0dMWlhoVGZSaEpVamRLS21McEVObkhWbEFrMFhvVG5uRmVFUXV1RXE4c1B3ZGxOb1FHS1FBcGxhdzN6WFRqR0VqWlJfUU94WndPcHJYSG0zWnFMZEw1SDhqRVZvajVFb2J0czBjUE1WSno1TWVCWUE?oc=5",
         "headline": "John Hancock 2035 Lifetime Blend Portfolio Q2 2026 Commentary",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/13 04:49",
         "published_ts": 1786564155.0,
         "tag": "JGB",
-        "first_seen": 1786564838.6524274
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUC13X09ET01DTEpKUmt0NmxOSkNVYzVtVkp1U3dwRERBeVZxZWdEQmdBNkM2dnpyREhUa244WklkbnVRYklnWHY3ak9vMGxhNGpmZW5sSkVyMnRHaGZjTE5mVTlJTUNnN0NyQWZvTlBZazd3TGdxTXFPT3BDOXNQMVR4M082bkpxVmdsQTRCMTU?oc=5",
-        "headline": "LQD: Better Income, Still Too Much Duration Risk (NYSEARCA:LQD)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/13 04:39",
-        "published_ts": 1786563599.0,
-        "tag": "Global",
         "first_seen": 1786564838.6524274
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 23:01:08",
+  "updated_at": "2026-08-13 23:16:08",
   "yields": [
     {
       "label": "3년",
