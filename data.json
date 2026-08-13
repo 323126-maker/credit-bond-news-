@@ -816,6 +816,16 @@
         "first_seen": 1786590925.6484396
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4xckljbERmMXEtSU80aTF0aGpOMWtmenhyQnZJTzFoT1ZWSzdqQk5UTE5pazd2TTRaaWU2RkNPeXI0ZU9aZmYxdFFSMmYtUHFTcWZkOEdB?oc=5",
+        "headline": "고금리에…회사채 한파 더 길어진다 [시그널]",
+        "summary": "",
+        "source": "signal.sedaily.com",
+        "published": "08/12 17:56",
+        "published_ts": 1786525006.0,
+        "tag": null,
+        "first_seen": 1786599922.2950141
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9NSFJXY1JzS2lDNmJzR0xYMXkyV2dweWxMU3BDcGJxdlJWVFNvd0pfQk4xT09IVklpTzNENU9WUko4OHZPRE5seVh0ZWpaNGF4QXl4R2hpNmtMdzFxTmRESVZ0VTlDODRVSWJoSmJxeWVSQQ?oc=5",
         "headline": "국고채 금리 혼조, 3년물 3.791%로 하락…美 CPI 발표 대기",
         "summary": "",
@@ -914,6 +924,16 @@
         "published_ts": 1786464354.0,
         "tag": null,
         "first_seen": 1786512637.835279
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBodkowSHhGTHA2bGpTTnRSX1ZNNmNZNkI2V0RfT056UTF6a0VrSGtpUzNqUzhRLWEtYmFzRnA1NUFwQ3NMbVJaaF9YUW1Xc05ZSW5IUUpQNlFmLWZ5UUJnTXI5OVBMMjl5T1E?oc=5",
+        "headline": "한은 부총재 “특별한 충격 없으면 추가 금리인상 가능성 높다”",
+        "summary": "",
+        "source": "서울Pn",
+        "published": "08/12 00:22",
+        "published_ts": 1786461723.0,
+        "tag": null,
+        "first_seen": 1786599922.2950141
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBJM0lSekZpUFhBQnk1ZkdfcGRvc1VLRUNJUnhrd3dzcnI4TTZKMll3UDNVTmRNbnFQa25aTW9KbU9hTTN1ZGYyLW1Pdw?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1786309200.0,
         "tag": null,
         "first_seen": 1786313684.353094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tdmoxbXNvbjFmYWJKekZtd2RUX1pPTE1XOGxWTldUdjRRUktndXVhWFRIbW12MUFZYjM0NkMxckhBX29QTTVUQk56RFI0cFdWTFHSAVNBVV95cUxQZFRnN1dPeGlLU2ZtM0xCSjVQdnFWaTdBaDRIdmNmbU1SQng5TTFtYk1JelhZeHR5dFBUNkl3dXVCT01BTFVLaGFfSnA1UTVEWE14MA?oc=5",
-        "headline": "글로벌 긴축·대출 규제에…가계대출 금리 1년새 0.5%P 더 올랐다",
-        "summary": "",
-        "source": "sedaily.com",
-        "published": "08/09 17:55",
-        "published_ts": 1786265752.0,
-        "tag": null,
-        "first_seen": 1786313684.353094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1MTUVUU3FWNmNZNnVsdk5SenB1am9NT3FoNnJFM3hfWDBIM2pCWDFaX29PN043UlZ4cnlyZGNwdw?oc=5",
-        "headline": "[나라살림 칼럼] 미래대응기금, 설치보다 설계와 집행이 핵심",
-        "summary": "",
-        "source": "사회적경제뉴스",
-        "published": "08/09 14:42",
-        "published_ts": 1786254120.0,
-        "tag": null,
-        "first_seen": 1786255235.3931544
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 14:30:52",
+  "updated_at": "2026-08-13 14:45:53",
   "yields": [
     {
       "label": "3년",
