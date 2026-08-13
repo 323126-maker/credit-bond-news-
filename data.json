@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9wejhEd2tYanh5ZTNEd3FjeGJtMUVwMjFfWVJEbW5YZmloUmdzeU5KTC15UURPbkdSX0F3RzdPQWs5NUtRV0NnU25FYk5PV19fYmt0YXJSNFFUYlZUU05TVGZqdWRlS0p3a0ZnVUF3bnRBaS00UHdKNg?oc=5",
+        "headline": "美 30년물 국채금리 5.22%…25년만 최고치",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/14 08:40",
+        "published_ts": 1786664400.0,
+        "tag": "JGB",
+        "first_seen": 1786664724.5030026
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNV184RHN4bkdnVGNoZ1ZYSzdJaDVZN1hfb2pKN1dTVXcyUDhEX0FZUFE4RERXX2lNWHl6dUVVMjlEUXltbEhnc3R4a3J4aU5MbG53cWc5S1cxbHNTX1A0WjVwUzhkWkFyQ1FENGlkTDNzOG1ZY3IyZDdGWFlCSnpTaDgtOTBCQTVEZk4zb3VNc1RvaFd5ZklUaGlVbHJXZHE2MmtmWlM2cGh2UEI5WEdkZHdiZTdzdlRfaU54dlRKbWRHQlBfWUtUVkcxRGYzR2YxdjN5UVRtN0UzZ0l2Y1RaendhTDJqSzRvR0ZSWUs0d1AyX1ppS09hQ1J3ZW9mdE5WTXhIRlNnLVJmVmlnZFN1VWNEOUFsUQ?oc=5",
         "headline": "US Stock Futures Rangebound After S&P 500 Ends At Record Highs As Data Shows Cooling Inflation — WDAY, SNDK, AMD, DELL, HTZ In Focus",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "bloomingbit",
         "published": "08/13 14:56",
         "published_ts": 1786600614.0,
-        "tag": "JGB",
-        "first_seen": 1786601723.929927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5EOTZ3dEtlazNqcHdOZmVqNDk2V0J0VXp1ckJ6U21hN1BSVTFRbk44aXdLZlJwVG93RnU1cHB5SDJzNGdiN0FGZmprdkYzcVZq?oc=5",
-        "headline": "日 정부, BOJ 9월·10월 금리 인상 지지…엔화 방어에 정책 공조",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "08/13 14:56",
-        "published_ts": 1786600585.0,
         "tag": "JGB",
         "first_seen": 1786601723.929927
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 08:30:55",
+  "updated_at": "2026-08-14 08:45:47",
   "yields": [
     {
       "label": "3년",
