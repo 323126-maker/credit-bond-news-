@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE10bzJKTlVwMTVlZ3V6VEdHNkFDaHNrcjBGSWlMV3M1Q2ZKVnNxaG5ITVRZZWZXVWJIS3o5Yk5mNlU4X1QtN3NzMkdLeFBnY24wc25zQWxva1FhN3o5VUZR?oc=5",
+        "headline": "[요즘투자] \"찬바람이 불기 시작하면 엔화에 투자해 볼만\"",
+        "summary": "",
+        "source": "justeconomix.com",
+        "published": "08/14 04:50",
+        "published_ts": 1786650600.0,
+        "tag": "JGB",
+        "first_seen": 1786651238.1730132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEpxRWc3Y1otZXlJRHB5WDB3b3IwSEU3dl9FTFBmZW1aWEs1dHJqbEJVMURrdlVUS3BQSURSazZnNnJkZGpfbDVLTloxMTkzVEdjUkJDY2FLdzN6eGY5Y19kYVU2bFVuUnlYYnVhQXFZRjY2RDBoYUp0NWg2NmdIVk9lYkxMY0FRVXBHLUVEa2pSWHNIMzFxbnBNc3JXTE5ZOHhNN3ZuTWVpX1I5cWIwNE8wMkNHYlBWYjVId1Q0WlFQRkU?oc=5",
         "headline": "Are rising bond yields and elevated leverage a recipe for market turmoil?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786590480.0,
         "tag": "JGB",
         "first_seen": 1786645836.2364304
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBBTk9ac2VzX0tpLTc3eThqS1RvNmJpelhidEt5NlVncHEwelVzVmVNZF9mdFAtMDRjSXJDYUNUNTlKdVg5em01dEIxUFRlRFpiWXcyLWlJRmFOam11NXhELVZ5NDN3S1VhbmZCanAycU0zWXlYbURvZzI4M2ZZNGREU2dDbkV6b0Z5NHFsaTJJUQ?oc=5",
-        "headline": "Japan 10Y Bond Yield Hits 4-week High",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/13 11:07",
-        "published_ts": 1786586820.0,
-        "tag": "JGB",
-        "first_seen": 1786589125.6896384
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 04:45:51",
+  "updated_at": "2026-08-14 05:01:01",
   "yields": [
     {
       "label": "3년",
