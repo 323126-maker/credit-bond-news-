@@ -886,6 +886,16 @@
         "first_seen": 1786527922.7952063
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN0lCRi1RYl9fS0o0UnNlYWN1UWNNQUY5OEtJN0VOd3llbUV3UVZpbzRiQmNQcUNhZmdHeTJZbHFHQ3EwOFN6Mll0Yjd3WnlYUVMxNWdrcjliN2xJdlFCUUV4dVlOQy1tbUlGYTg4RVhXLVR00gF0QVVfeXFMTlE3SUJGLVFiX19LSjRSc2VhY3VRY01BRjk4S0k3RU53eWVtRXdRVmlvNGJCY1BxQ2FmZ0d5MllscUdDcTA4U3oyWXRiN3daeVhRUzE1Z2tyOWI3bEl2UUJRRXh1WU5DLW1tSUZhODhFWFctVHQ?oc=5",
+        "headline": "[오늘의 채권분석] 남은 2주의 백투백 셈법",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/12 09:40",
+        "published_ts": 1786495218.0,
+        "tag": null,
+        "first_seen": 1786603524.28401
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4tbDkyMDVLa1paWUFwUXF5OGJqRWIwYTRJb2w0UTFlVlJ1Z09MNGVzeTFFQWtNc2JnWGxnQmwta2NWRnpnWko4eEMyR1NLdU8tOTNj?oc=5",
         "headline": "유상대 \"추가 인상 가능성 높다\"…채권 시장 반응은? [Pick코노미]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786310100.0,
         "tag": null,
         "first_seen": 1786340725.946809
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA3TlBsLU1UbFhTdGZ5RE1TaGRINC1mWm9uTy1tSmFtRDU3aXRRRHJGWGZxTkhUWkRPaGR5QS1lSFpLeXk3c0hwWjNOVFhTZTZKOUdWdTIyU1I4bjQ1V2FWNkRVZ05rMnlnSXc1OFFReU5PUjRtZDk4bXdFZ1A?oc=5",
-        "headline": "한투운용 김동주 \"높아진 금리 레벨·수익률 곡선 흐름에서 기회\" [인터뷰- 채권시장의 파수꾼들 (1)]",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "08/10 06:00",
-        "published_ts": 1786309200.0,
-        "tag": null,
-        "first_seen": 1786313684.353094
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRDduUFdnVm0wc0NoVjRyZXB1RjlHTWVhbzU2cVlGSldtQXNWek1WN3BVRktzRFo1VlpHaGpNdm5aMXFYS1ljZHhUV21qckRYTVVMNlZjMUN6VUU0T1ZfYlU1a2dFNWdPT3ZRMjJPeGd1NnNzMFI3TEhaOGc1LWJXU2oyZFlLYnVMN1cxdVNGNERIaUV2eHVV?oc=5",
+        "headline": "Half-year Financial Report",
+        "summary": "",
+        "source": "tradingview.com",
+        "published": "08/13 15:00",
+        "published_ts": 1786600800.0,
+        "tag": "Global",
+        "first_seen": 1786603524.28401
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1nT05OUlpxdzRNYV9IX0M0TVhnODhYZ2JmOU1USVppSW84QjdLTHdzZlpsbGNUNHd1OXBzSXViYUkwcy1KYlN2MTdXeGdUYWluMVVpUw?oc=5",
         "headline": "Japan Backs BOJ Rate Hike in September or October to Defend Yen",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786539854.0,
         "tag": "Fed",
         "first_seen": 1786545927.215781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMFFnWUNMaWpDeWFxYlNzUndyNi16SWZKVmEyZ3hDckhWTlJNMGROV2VfMngxbzljVDhkRE9YTFluaVJQbVBJb1FvREFmREZlVGl1TjAtZzNmMjFnNm1HdW5lM3ZOellSMHA2M1lXYklvSVRKdWJ5Tk1abnZyZ2V4WWlZZGtrOW9GelhCZlV6dGpIamZzWFZ0djNfY0lIcXRsYTdtSExzZ2ZMWHN2NHRkMC1OajNEOW1qeFZpNzZndmpXUnZHblE?oc=5",
-        "headline": "Soaring AI hyperscaler default hedges aren't what they seem",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/12 22:02",
-        "published_ts": 1786539745.0,
-        "tag": "Global",
-        "first_seen": 1786543244.2120209
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 15:30:55",
+  "updated_at": "2026-08-13 15:45:46",
   "yields": [
     {
       "label": "3년",
