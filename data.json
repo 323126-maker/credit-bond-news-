@@ -1328,6 +1328,16 @@
         "first_seen": 1786510837.3953104
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUHExMGlIdVVRdGtyc0paSVA1LXQ5VmxBbWp6MWd2VEktaGQwTFBzRlo4YUw4a1FvNjdWUEhQdm1ISGo4UXBRN0FWN1Z3Y3RNWW9SaTh6cER4anQ4U1UxUDA0dGhRWkY2dDV1UnhJbFVvbVg3X0R2QmM2QmJGSGxmZ054NTRBc1E?oc=5",
+        "headline": "부동산 팔고 연금 납입 시 양도세 감면 혜택, 내년 말 종료",
+        "summary": "",
+        "source": "TBS 서울",
+        "published": "08/12 07:41",
+        "published_ts": 1786488060.0,
+        "tag": null,
+        "first_seen": 1786607125.9336314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvSTA1QzVtWTZBSDBtWFRzR19MWE5BY1lrR2NORkl5YUFaNllCYUxtdE9kdDUybUdIc205aFd4TFZjcXcybmxPQkpKQml1UWk5VTZTQW9femV0RGdCSUhpbk1yRk45dXBHbHFwVTE5YS1UUG1MMkhCYg?oc=5",
         "headline": "李 대통령, 구윤철에 \"세금 바꾸면 욕먹어…무조건 기어서 다니시라\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786254900.0,
         "tag": null,
         "first_seen": 1786269639.3385172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5kTDdNRFp4TlpKeUVNVklaalYwODBZY0dDbk9pRHV6ZWJLb01jU0plcnNiMUt6R2V1LTRtUmNycDlCMHVpZ3ZId0FtU2ZRaHpMSlZ2UjBnM2FYXy1wN2gtMUZtSGVxVlQtU1Q1ZdIBckFVX3lxTE5CQVA2akRBN0R1UUxvOWV3bU52eVBBMGRIb2Jwa0ptNUJiMS0xRlU2dWtPMW9pNHNqY0xWcnNWS21KMTItQTdYSGtQcjJSYmthbVFrUHloaC1JSjNIMXNONGJTMXY5WmZXU3BNZjdqaHJUdw?oc=5",
-        "headline": "장동혁 \"경기도, 민주당 8년에 '거덜'…이대로면 대한민국 '빈껍데기'\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "08/09 14:54",
-        "published_ts": 1786254870.0,
-        "tag": null,
-        "first_seen": 1786256124.5692866
       }
     ],
     "global_bond": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-08-13 16:30:55",
+  "updated_at": "2026-08-13 16:45:48",
   "yields": [
     {
       "label": "3년",
-      "value": 3.791,
-      "chg_bp": -1.7,
+      "value": 3.781,
+      "chg_bp": -1.0,
       "series": [
-        3.866,
         3.848,
         3.895,
         3.867,
@@ -2439,15 +2438,15 @@
         3.746,
         3.778,
         3.808,
-        3.791
+        3.791,
+        3.781
       ]
     },
     {
       "label": "5년",
-      "value": 4.025,
-      "chg_bp": -1.7,
+      "value": 4.016,
+      "chg_bp": -0.9,
       "series": [
-        4.112,
         4.099,
         4.154,
         4.12,
@@ -2466,15 +2465,15 @@
         3.964,
         3.994,
         4.042,
-        4.025
+        4.025,
+        4.016
       ]
     },
     {
       "label": "10년",
-      "value": 4.294,
-      "chg_bp": -0.7,
+      "value": 4.298,
+      "chg_bp": 0.4,
       "series": [
-        4.327,
         4.297,
         4.336,
         4.328,
@@ -2493,15 +2492,15 @@
         4.208,
         4.239,
         4.301,
-        4.294
+        4.294,
+        4.298
       ]
     },
     {
       "label": "20년",
-      "value": 4.651,
-      "chg_bp": 1.2,
+      "value": 4.619,
+      "chg_bp": -3.2,
       "series": [
-        4.468,
         4.453,
         4.512,
         4.541,
@@ -2520,15 +2519,15 @@
         4.494,
         4.555,
         4.639,
-        4.651
+        4.651,
+        4.619
       ]
     },
     {
       "label": "30년",
-      "value": 4.685,
-      "chg_bp": 1.9,
+      "value": 4.68,
+      "chg_bp": -0.5,
       "series": [
-        4.476,
         4.468,
         4.52,
         4.564,
@@ -2547,7 +2546,8 @@
         4.522,
         4.585,
         4.666,
-        4.685
+        4.685,
+        4.68
       ]
     }
   ]
