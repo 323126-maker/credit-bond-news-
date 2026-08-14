@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PNXhSNGZXVmdwd00zZ1FFOGR1cU4yWEdYNDBkekd4RExfWXhYNlRDbTRVMDhtTWZJRzRoYmNMRFpjc0l0aU81NG1fbmRtWXhKVWZoQmpuWThhMi1EQnM5aWF2T2V0TkFHTnhpVThGVE9Hdw?oc=5",
+        "headline": "[뉴욕채권] 베어 스팁…美 소매판매 실망이 오히려 장기물 약세 자극",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/15 05:16",
+        "published_ts": 1786738605.0,
+        "tag": null,
+        "first_seen": 1786739431.4725187
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5QVliVkJsS0t5Y3ZZZTRWQ0djR2daRFVMY1ItMkVXYlMyRGFZU2tFdXZtV25Jb0FpcE05aXo2aE9YY0hfUXkwSkc1RUFkdEttMW1pYTVVZWNIQU5CczAzTThmaXJFVUZaVGZqTURNWDBOQQ?oc=5",
         "headline": "하루 1조씩 사더니…채권투자 중단한 SK하이닉스, 왜?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786615260.0,
         "tag": null,
         "first_seen": 1786616124.3720317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sakc5c0NiMXJJS1otM3hEazZ4bHFvZ091YjlnRDZLTFRCU3NLeFNrRTNkTnFJUUNPbXV3NHg1NlRtTzV0Ylp1RGhkSjVFZW1PTnF1bUFqTG5RM1NKT3JpTjQxQjBWOWdHZi1HSDhydXY?oc=5",
-        "headline": "[채권-마감] 초장기물에 좌우된 시장 분위기…혼조세",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/13 18:38",
-        "published_ts": 1786613936.0,
-        "tag": null,
-        "first_seen": 1786698926.5893145
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-15 05:15:50",
+  "updated_at": "2026-08-15 05:30:54",
   "yields": [
     {
       "label": "3년",
