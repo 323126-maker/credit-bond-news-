@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOVVvOFd3MlMwaHBOLW1YZjRqUUdWWlI1TEJDcWNpQVA0MndyVnc0MU1tTjF4SklVSWt0bU5BM2xKWkJwMk9tNGk2cVM2cDEyNzkxU0NITFhodw?oc=5",
+        "headline": "AI 투자에 외화채 쏟아낸 빅테크…캐나다·스위스 시장 흔든다",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/14 10:12",
+        "published_ts": 1786669946.0,
+        "tag": null,
+        "first_seen": 1786670127.197797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OUTQxTGxXSWdZLUVmUlN5SDFiazdYczR4ZG1TcERSRGtjYlYta2JhS28wdnk1ZVpvc3FSQVFhVkphakVKSEFGRVFKaE9nQ3VtTlNrV2EwMEh4eVBYbzVYY2F1cVM3cnhqMGhlbEFBQlF5anN0?oc=5",
         "headline": "브라질 대선에 채권시장 '긴장'…NH證 \"달러채 이자 먼저 챙기기, 헤알채는 4분기에\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786568400.0,
         "tag": null,
         "first_seen": 1786569922.7838252
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8taG1nNi1pYVA3elVyOWNTT3prejAzNGQ4a2lDcW1WeHA4Z0dPQ3lpNW5HVjRRSzVDeDdjQjhfbXVwZ0tYMDdMd201cmt3Q05OZGhlOGdETnNRcFAtRnQ4czA3N0w3dVYxc2tMMndHdw?oc=5",
-        "headline": "ERC-7540 신용 볼트 5선, TVL 16억~1.29억 달러",
-        "summary": "",
-        "source": "FinanceFeeds",
-        "published": "08/13 05:40",
-        "published_ts": 1786567238.0,
-        "tag": null,
-        "first_seen": 1786567526.8976073
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 10:01:08",
+  "updated_at": "2026-08-14 10:15:48",
   "yields": [
     {
       "label": "3년",
