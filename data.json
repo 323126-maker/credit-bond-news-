@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaTVCQ2NuQ0JhZVlNR1ROa3lnekJaaktmVkRvQUhCdkJ1V0lac1FyQTFZM2YtdTJqNDE4NTlBejVPbmN1cnI2YWNYTnA3dw?oc=5",
+        "headline": "Global economic upheaval: a survival guide",
+        "summary": "",
+        "source": "arabnews.com",
+        "published": "08/14 21:30",
+        "published_ts": 1786710607.0,
+        "tag": "Strategist",
+        "first_seen": 1786712443.5052361
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ3g2S2pVTlk0VFJVQ2UteU5WMERIV2JxWTQ0QUYyS05Cd0xpdDVWc3ZaTkQ5ZHlhN0lUSWlVdWNzVDJrcHNUanJmRmlJdjB1X3ktdUpLa3o5SlhMZjRNVUZWQUlPRUJxMHpMdzdfS280bUY3dVRwTGZyT1RGc3AxWWlYTkJHeF9wUmxsbndtR2lFM2VIQ24zdHYtUlFzdEk3eXR1MXVQMkZBRDNKQzJwSjk1U0RFMkZ0SlhzMHF3?oc=5",
         "headline": "10-Year Yield Premium Rises On Inflation Risk And Fed Uncertainty",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/14 06:11",
         "published_ts": 1786655502.0,
         "tag": "Global",
-        "first_seen": 1786662034.9681365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sWlh6dlhhQmkzSmZhMXZqX0huR3VRelN3ZlhFYzhobmlYeVpXRlZLV0VMNGR3WFQyWFVzVUJEX2t5eHJaMzh6ZU9MM000YkE4WllqS1ZsdnJBRHgxaE1NcHFudXBMbXVnVDRQUGdTUQ?oc=5",
-        "headline": "Rates Spark: The yen link to US Treasuries",
-        "summary": "",
-        "source": "ING Think",
-        "published": "08/14 06:02",
-        "published_ts": 1786654953.0,
-        "tag": "JGB",
         "first_seen": 1786662034.9681365
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 21:46:03",
+  "updated_at": "2026-08-14 22:01:04",
   "yields": [
     {
       "label": "3년",
