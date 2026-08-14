@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wV2l3eTVnek9KaTM5UjNYNHJGLW9vWXNBWjdnMURzZDZ5dUQwNkxtUHhHQ1FfWlUxUXQ5UU92aEdDcjdIbU9uenNteE5wTE1BTlJnSjdXODM3Y3ladEhzNXY4dnlxNl8z?oc=5",
+        "headline": "\"선행지수 꺾이면 코스피도 같이 꺾인다\"",
+        "summary": "",
+        "source": "한경매거진&북",
+        "published": "08/14 06:00",
+        "published_ts": 1786654800.0,
+        "tag": null,
+        "first_seen": 1786683638.1442363
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FOVpjSXNuZ0xaSG5QMFEwT3pScDQxUjUyQTIyYUNlUFZlS2hIbC0wdXlEYlctRnpsX2VveExuVkpyNGtES2dzM2RNem1NVzRWT1NfZmJHU1NseFEyUVdFRGxNdWkxZXpKQ3RiMVpJRlfSAXRBVV95cUxPSHAyam5TU0JIdkR1U2gwMDRCNUpCQ3dvRTE1clVCMWw4YXRiZzY4eXlEVXZfNlM3a24zaU1mNzNCZ0wxTzMyWllRc0NwVUJtcDg5LWVkbmJCWGVpTXcwN296VGJReU9MajRqTkJOclNVeXg3OQ?oc=5",
         "headline": "외국인 자금 유출, 6개월째 여전…한은 “AI 투자 경계감으로 순유출”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786328391.0,
         "tag": null,
         "first_seen": 1786329031.703917
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDNzNmWUtpQmRiZ3kwM3pqWkZoSU5kZVRIQmZ4d3F5ektmaXVDOXNLbV9fUmNXTF9yTTFHTHMxNE1YQUphbjdLd19BOUNKbkdUamVUVG04MEFmRmk5QlRxM1A4cEM5YzcxWi0zeUs3ek_SAXRBVV95cUxPUWVfXzBBd0UxTm5FaFJrMmJXaThNbWNpYUdNYXdyZHc2Y3NSTGtNcnVVU0hQZkMzTWJkZ1F6YWMzUDlzQUZ3c21JN2FPWnlBZ2ZiMGpncy1OWDFTZGRYaUticzNjdGZUM0Fqb2Ffd3lNNEhGVQ?oc=5",
-        "headline": "7월 채권시장 위축…외국인 순매수 급감·국고채 금리 상승",
-        "summary": "",
-        "source": "sankyungtoday.com",
-        "published": "08/10 11:01",
-        "published_ts": 1786327302.0,
-        "tag": null,
-        "first_seen": 1786328126.294302
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 13:45:48",
+  "updated_at": "2026-08-14 14:01:04",
   "yields": [
     {
       "label": "3년",
