@@ -392,14 +392,14 @@
         "first_seen": 1786580129.606077
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE51OTdibGRBcE9mQy1FZFNkbDF0c21USEdGcXB5bTdHWEJfc0ZvYjE3aHJmOUpqTDVSTUEyVk9uN2ZNNVQ1SmxBd3lZdUdscEhRRG4yYzZ2cXZtcDlOQWJjWWsyc2U5MWF1ckRfdjFrM08zSjR5R280?oc=5",
-        "headline": "S&P, Skillsoft 신용등급 하향 조정... 높은 레버리지 우려",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE11RVdaTzRJb2s2WUdlNGlDRm9NRElIcl9WMFI2NDlqVk96MHo0cUJZQ2YtczRSa2JOV0hoWUM4eUFrT2N0ZXhhMnEyNmxWQnlKQ2FjZldnLUE1QldjQzZKeVI4STNQR0l0OUVVbmJ4LTJwMEJSRzFR?oc=5",
+        "headline": "S&P, 파파존스 신용등급 하향 조정... 매출 부진 탓",
         "summary": "",
         "source": "Investing.com 한국어",
         "published": "08/13 06:48",
         "published_ts": 1786571280.0,
         "tag": null,
-        "first_seen": 1786676439.33835
+        "first_seen": 1786677323.9732542
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNeVF3YzY3ZFB3U1JGbUxBeFFwcHBDamNtcWVrT2VJaTNoY1loM1UxZU9xY09TcnVYWV9kR3NCTDhTX1JDcFlFRFozbWV5Vjh6TXIzd1lwTTlvZFc2UXhnQ0ZjcFo5bHZ1TDlobUR0V2hzTkt4SVhIb1czaFlLS2tRTHdQSFpmVzdySnc0UlY4TE1qM1NDLUx6enloUUxlaERRRVJHT2JWVnEwNHlfZ1NLOUYzNGtMWGxGRkxZaGtEOW1MWktvdkZRamJNSk1GTTNHZ2tNUDB5Tl9qSzEzUUZmOXlB?oc=5",
+        "headline": "The Surge in Debt Issuance by Tech Giants Sweeps the Globe, Putting Pressure on Top-Tier Corporate Credit Indicators",
+        "summary": "",
+        "source": "NAI500",
+        "published": "08/14 12:09",
+        "published_ts": 1786676944.0,
+        "tag": "Global",
+        "first_seen": 1786677323.9732542
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQSzZnNHNHUGx5RW9GOGkwaEg2MnNpTEZjMzFXTXlLZ05iN2xrbW5PWDBmaE5YM05lZTllb1E4NnFROUZrT3BQbUNPTzFabWpNT1Y2cXJOdlF6V2laY0lHU3pES0JwR01FV0pZdXNmdU9XeHhDclNuOVF6ck5JMm5iTTYxb1YzMzJ2a3Z4a3RoQzJ3QU1md1lPSHZBRzFNb3RySEE?oc=5",
         "headline": "Peter Schiff Says Kevin Warsh's Fed Is Creating Inflation",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786609560.0,
         "tag": "Fed",
         "first_seen": 1786610727.4352329
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQT1hHMzJSQzdnSjlJclJYX0lkQ1ZiRkl6Sl96dXZnb1ZyaEJuRC12UWkteUZWNXNaZ2dUV1hOei0wX0U3WXRYZjd2UlhRUlVxRGdWRVVTSVRfRVlyNlNTRTIwVDkzNUxZdk8zZ1lPOTBoTlhhVzcyVGZ5WFNwcmUtUV9EZmZudWdGVlIwZGtMMG16TF9oQXJSV21tX1NSekdWaGFVZE14RFRXb0lVcFl5VFJJMzJXQQ?oc=5",
-        "headline": "Africa Finance Corporation Issues CHF 350 Million Tokenised Bond On Swiss Digital Exchange",
-        "summary": "",
-        "source": "SMBtech",
-        "published": "08/13 17:25",
-        "published_ts": 1786609528.0,
-        "tag": "Global",
-        "first_seen": 1786614165.9903777
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 12:01:13",
+  "updated_at": "2026-08-14 12:15:45",
   "yields": [
     {
       "label": "3년",
