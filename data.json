@@ -22,6 +22,16 @@
         "first_seen": 1786698040.4345717
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kejJTNndIc0ZPdWpDbUE2VmNXQnFhRk5SQVI0Z0x4MTF5UnQxWEIxaG04c0xGWjJ1VjN5amhwaVVfLTNEdVB5allwT2N3cUhYclp4aWx2bTBlOUg5b2pIblZqR0ptRjZ0eWEwRTJHSWnSAXRBVV95cUxOZGxsZHJzSGJmZHFmNVR5NE9rQkctQzJWNk8zVnN3a0x1cVFzbmNBdVNZR3ZkX3paS1VWX0tOU21JYV82cDBPVldHV0l3a2pBWllEcFVrU2tGSEViZEZtdU9kbFJoNzRPd3lTdDBGVVBReDVXSw?oc=5",
+        "headline": "달러-원, 1,418.30원에 서울장 마감…이번주 내내 종가 1,410원대",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/14 17:31",
+        "published_ts": 1786696306.0,
+        "tag": null,
+        "first_seen": 1786716924.084453
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xN2N0Rkw3MURNazh5YjJsMWJNaEFLaEpfR0lVVXBTVW9OaGdHQTdhRnBGcGh4Q3VEcU1TRDhZU1NSb05VOUhUNmExQTREd0hWQ0Vpbzhnc181TG9mNVVhc1RB?oc=5",
         "headline": "고금리에 3년물 회사채 대신 3개월 CP 찾는다…“연말 차환 부담 늘듯”",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786611501.0,
         "tag": null,
         "first_seen": 1786616124.3720317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ZTG14ZF9IZEVQTmZVSjV0cVRBYVFfdW1NMXJHQ21saHk2S2I2dE5CTEE5MzBBZFREQV9oeGEwLV9SWDFINFpJb2NTekVCcFhacUVoQ1V4bk44bDRGWUxhN2JkNnhuMDlOeGFuLVNsajXSAXRBVV95cUxQQ1Z4bTFraTFyMjg2SFM0NWZ4VzZsX2pqNGloTzNtbExUenpQbGM4RDRMSWpBbDg2WE8wVXc5TzNEckxrbTdqOEFFNmpvWVlwMUtDTEtpSWVKdC01eFRQemVOSURSNk5NQURWdkY0RWExUnF0Zg?oc=5",
-        "headline": "달러-원, 상승전환 후 1,419.40원 서울장 마감…3거래일만 상승",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/13 17:31",
-        "published_ts": 1786609868.0,
-        "tag": null,
-        "first_seen": 1786659053.0068605
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 23:01:00",
+  "updated_at": "2026-08-14 23:15:48",
   "yields": [
     {
       "label": "3년",
