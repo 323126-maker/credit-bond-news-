@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wSkEzSG1HUlFQd2x0bW5oekRMZVZXaWNFdzZEemdsYXhHWFlHVVVndkpIa3RIc2tWSndkcnNJcFNGV1BVdkFnREF3eHFIUjlPS3M3Si03NENnZw?oc=5",
+        "headline": "미국채 팔고 유럽채 사고…일본 300조엔 ‘머니 무브’ 시작됐나?",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/14 13:00",
+        "published_ts": 1786680006.0,
+        "tag": "JGB",
+        "first_seen": 1786680648.380424
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQUEYzRW1wdUVndHZaTWNZZkQ2ZkJUZDRjanNORy1WYjF4X0llWGQwQ2w3ZklBUFBnX1F0TlhyMjlNNFNmeWh3WjR4S2N6QlpHV0UzelhLSjRySFByYk1lSUI1TG9NVWhCeHdoVVRHYkpZYUwtOUh0bVBFLUNvdlR2X0lVcklXOUhWNkRLMmgxU1JXNXlOZHZVMTd6UnZrRmJZNm51Rm9VQllEcGpqd3pfV2t4WnZoU0NkZVNwZ2Qyc2UwTldTTFlicGdHWm5TRXJTZlhRc0VkSDFEajRCRVFPRXEtS3dDYUhad0xQS0EtMFBLTnJs0gH0AUFVX3lxTFBQRjNFbXB1RWd0dlpNY1lmRDZmQlRkNGNqc05HLVZiMXhfSWVYZDBDbDdmSUFQUGdfUXROWHIyOU00U2Z5aHdaNHhLY3pCWkdXRTN6WEtKNHJIUHJiTWVJQjVMb01VaEJ4d2hVVEdiSllhTC05SHRtUEUtQ292VHZfSVVySVc5SFY2REsyaDFTUlc1eU5kdlUxN3pSdmtGYlk2bnVGb1VCWURwamp3el9Xa3hadmhTQ2RlU3BnZDJzZTBOV1NMWWJwZ0dablNFclNmWFFzRWRIMURqNEJFUU9FcS1Ld0NhSFp3TFBLQS0wUEtOcmw?oc=5",
         "headline": "FIIs dumped nearly Rs 1 lakh crore worth of these 10 stocks but 8 defied the selloff",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786613587.0,
         "tag": "JGB",
         "first_seen": 1786676439.33835
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LaUVkSS1tSThBNXJ4LWtQSHRPNU56d19WM2pRekxzamZ2NW9RSWdaMW82X0F3RGZVWjNQMF96bEpBcXVJTFNpUHVvc3F4SmdsOGc?oc=5",
-        "headline": "Generally, a country's currency becomes stronger when interest rates in a particular country rise. T..",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/13 18:32",
-        "published_ts": 1786613551.0,
-        "tag": "JGB",
-        "first_seen": 1786614165.9903777
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 13:00:59",
+  "updated_at": "2026-08-14 13:11:12",
   "yields": [
     {
       "label": "3년",
