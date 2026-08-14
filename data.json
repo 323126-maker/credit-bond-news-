@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQLThLdjNpZGdmSG1xUkY3UVFXYnRaakhNcXZSY05Qa3lKVE9nUE1UNnpKdVc0VmZFVTZjNVI5V2doM2dheWlieE5nVnNudG1zNmFFQnJSRGx3MDliQU82aFNGWVNSZ2YzN0hMaXpNZnRaNUItV3dqdTdXb1pIbmFCemdva2JkcUpndFVOZDE2ZWRadTVqWTlWSFVVVEdrOUtUN3RJams1NU5MbDJ4c2c?oc=5",
+        "headline": "Why ‘Canada is not immune’ to the effects of Japan’s surging bond yields",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "08/14 19:00",
+        "published_ts": 1786701600.0,
+        "tag": "JGB",
+        "first_seen": 1786702524.941718
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVX296UGlwbFFhaVRscExOVzRrcXQtTndUN0dsRGV2LTR6cE9ULTgxNjRhamZVLXRyUjJZcGRoMUVfdS1EaFprUmotX3NvdjFKVUR6bA?oc=5",
         "headline": "Big Tech’s AI Debt Rush Roils Global Corporate Bond Markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786648369.0,
         "tag": "Global",
         "first_seen": 1786660230.9992614
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOEpxRWc3Y1otZXlJRHB5WDB3b3IwSEU3dl9FTFBmZW1aWEs1dHJqbEJVMURrdlVUS3BQSURSazZnNnJkZGpfbDVLTloxMTkzVEdjUkJDY2FLdzN6eGY5Y19kYVU2bFVuUnlYYnVhQXFZRjY2RDBoYUp0NWg2NmdIVk9lYkxMY0FRVXBHLUVEa2pSWHNIMzFxbnBNc3JXTE5ZOHhNN3ZuTWVpX1I5cWIwNE8wMkNHYlBWYjVId1Q0WlFQRkU?oc=5",
-        "headline": "Are rising bond yields and elevated leverage a recipe for market turmoil?",
-        "summary": "",
-        "source": "Atlantic Council",
-        "published": "08/14 02:54",
-        "published_ts": 1786643640.0,
-        "tag": "Strategist",
-        "first_seen": 1786644927.4988012
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 19:00:59",
+  "updated_at": "2026-08-14 19:15:50",
   "yields": [
     {
       "label": "3년",
