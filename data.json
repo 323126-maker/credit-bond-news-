@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5jZ1FOVkV1Ql9sakxlZHAzQTQyZnhrSG1CYjBkbXBlcmN1bF9DNVlLTzFhaGVIMERJZXh4dUlpN292T1FrQU9kajRzOEZWRUE?oc=5",
+        "headline": "AMD도 AI 투자 가속⋯사상 최대 7조원 육박 회사채 발행",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/14 10:32",
+        "published_ts": 1786671124.0,
+        "tag": null,
+        "first_seen": 1786671926.458065
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fdE93VzE3S3NqYS10dnU3UnlyWTdFYkFnQTAzZGdqYkx3UV9GOVc1dHA5a3Uzbm5xeUptWllteEhWSnNBd2VrM2Y2S0JPZjZTZjFF?oc=5",
+        "headline": "\"100년 뒤 갚겠다\" 이례적…구글, '천문학적 돈' 끌어모으는 까닭",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/14 10:13",
+        "published_ts": 1786669980.0,
+        "tag": null,
+        "first_seen": 1786671926.458065
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOVVvOFd3MlMwaHBOLW1YZjRqUUdWWlI1TEJDcWNpQVA0MndyVnc0MU1tTjF4SklVSWt0bU5BM2xKWkJwMk9tNGk2cVM2cDEyNzkxU0NITFhodw?oc=5",
         "headline": "AI 투자에 외화채 쏟아낸 빅테크…캐나다·스위스 시장 흔든다",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786571280.0,
         "tag": null,
         "first_seen": 1786579238.0535696
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kTV90dF9UdUNqMWZ0U0F3Y2I2RVJJbWJ6WHE1OTdkTk9HX09LYl9vdjltWTQ1YXVLMGo0czhycFFwbWFybTh0cnd0ZUpWQnRpWWRzcFR6dmVidEVoUTZMaGtlemhJQWVaakswMnlWOFVSazA?oc=5",
-        "headline": "엘링턴 크레딧, 2분기 순이익 1230만 달러 기록…흑자 전환",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/13 06:18",
-        "published_ts": 1786569526.0,
-        "tag": null,
-        "first_seen": 1786571123.37982
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkJUWUVubG9PQ0plRm5XQXpNbDhjdWszVGFtdUw0elJfbVFnNDhmWDF2N3BUV0R3MVVfMXl4N0lUeWR2MDNXQ1Q2eU1EVUpwR3h3elpkOXlrY1N0Z2hWNmdRYnpBUkVmX2p4ZUo3VFFRLVNuQi1yQ3RZUEVoN2Z0d2ZlTXZ0YU1j0gGcAUFVX3lxTFB4NDc5SVE2SlhLdFAyVmhRRkZzTGZoLUl5ckl1dGN0ckFVVnV0SG1OelJ1TlhsTzJTUWZ6Z0ZjVzJSVXA1Ym1QMzlKVEtzaEY2M1AxY1Rlb3Zrc1g1WjhUV1E5N0M4dlJyS1JTOXNzaDI0TVQ1VVpBeEFLVGRTSEs0ZFVRaXVvWVV6QjdJNHo1UXJjem1mTm1pYk5MdQ?oc=5",
-        "headline": "SK하이닉스, 채권 투자 돌연 변경…주주환원 앞두고 자금 운용 ‘주목’ - 조선비즈",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "08/13 06:00",
-        "published_ts": 1786568400.0,
-        "tag": null,
-        "first_seen": 1786569922.7838252
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-14 10:30:57",
+  "updated_at": "2026-08-14 10:46:27",
   "yields": [
     {
       "label": "3년",
