@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzBQNjVoQi1rZnlRbWpIVmxWMGUyM0hWVnFPUFNPN0RYaG0ycmltdGNzUmQwdFZOaWtaVXE5NndiNkVkMVdnUEFOaDFDNTUtYlgxbWJqVVRmNlhpVDd1VHBTTXVOLTNoQWxULVB5U3BMY2ZSTUJvUi1fQktTNUlIWEg0U2V0NU5IY2phYjd1RmxqXzBhZi1FZGlkWk0yQmpMbVVaREpoSkY?oc=5",
+        "headline": "US & Japan face debt abyss as bond yields signal turmoil",
+        "summary": "",
+        "source": "Bankingnews",
+        "published": "08/15 23:30",
+        "published_ts": 1786804256.0,
+        "tag": "JGB",
+        "first_seen": 1786807830.195179
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejR2OHVJbHJybW5keVFTdVRfaGpncTBoZ1JqcFNMbVVxRUhyekM3QlJSNnY3T3IwT3JzZ19YbFI3a1YxaE4yMTRWZ0dxYzJBZkxZM2Q4cGtYdm04TXBlTTNUTE1FRkNMejJJTENyZ0h1NFlWV3FmRGJtRnlNOTVRcVFBNmRUazVNQzN4N0VaZGl1MjQ?oc=5",
         "headline": "Kevin Warsh Fed Chair 2026: Policy Overhaul and Market Impact - News and Statistics",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786710607.0,
         "tag": "Strategist",
         "first_seen": 1786712443.5052361
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ3g2S2pVTlk0VFJVQ2UteU5WMERIV2JxWTQ0QUYyS05Cd0xpdDVWc3ZaTkQ5ZHlhN0lUSWlVdWNzVDJrcHNUanJmRmlJdjB1X3ktdUpLa3o5SlhMZjRNVUZWQUlPRUJxMHpMdzdfS280bUY3dVRwTGZyT1RGc3AxWWlYTkJHeF9wUmxsbndtR2lFM2VIQ24zdHYtUlFzdEk3eXR1MXVQMkZBRDNKQzJwSjk1U0RFMkZ0SlhzMHF3?oc=5",
-        "headline": "10-Year Yield Premium Rises On Inflation Risk And Fed Uncertainty",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/14 21:30",
-        "published_ts": 1786710600.0,
-        "tag": "Fed",
-        "first_seen": 1786711527.0607288
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 00:23:54",
+  "updated_at": "2026-08-16 00:30:55",
   "yields": [
     {
       "label": "3년",
