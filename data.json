@@ -1800,6 +1800,16 @@
         "first_seen": 1786787036.7368805
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9PeTZZSm9kX3NqOVFLRy1QWmJ5VnBjZmNzSjFxX1ZyUzVZSnZrSzFKVXRPOFZZSGdwLWZnaU5kYlZ2WHRzVTF6b01Kb3pXbDZUT0NFNWJhaVhER2RUMjNwVVFudnU?oc=5",
+        "headline": "금시세(금값) 15일",
+        "summary": "",
+        "source": "bntnews.co.kr",
+        "published": "08/15 09:17",
+        "published_ts": 1786753022.0,
+        "tag": "JGB",
+        "first_seen": 1786829555.7385242
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdmZ3LXVsbE5xck50ME80aHRNQ1pYZ1RpNmQ0c0tyX1A1Wl9ONGhERk45MXBKUG0yOFA4bFhxSV9yd042ay1FLVI1VDYxdkwwaG93ZkhBWkZBZW5mWVB6ampNT0ZCT3V5am5td1dZOFFhamRhbDBORWx4LXowQm12US1qXzdaSkp4Y2YyQjczbGozU3lFNThpYmhKUmVWQQ?oc=5",
         "headline": "Treasury Yields Edge Higher as Oil Gains Counter Soft Retail Sales",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/14 23:22",
         "published_ts": 1786717376.0,
         "tag": "Fed",
-        "first_seen": 1786717834.143596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNDh5TW1VWVN6bVVQcVIyY3lsSEhYa2FHOEgwUVlZMzBpNVdlUVZ0Z0l6OTlQTUN4Rmh0SE5Ha0I1QkltNGh1d2JIWE9tdm9zaHZXbS1TUFlnTXNPNlNfUXV4T2x5WGszdzRQaVJudkhfWEhhMWxvQW1QNEd1YkxFSFJsZEhyZ0JDZ1E?oc=5",
-        "headline": "Advanced Micro Devices Inc Stock (AMD) Moved Up by 3.04% on Aug 14: Key Drivers Unveiled",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "08/14 23:15",
-        "published_ts": 1786716922.0,
-        "tag": "Global",
         "first_seen": 1786717834.143596
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 06:30:57",
+  "updated_at": "2026-08-16 06:32:59",
   "yields": [
     {
       "label": "3년",
