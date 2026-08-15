@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZTV6WTRGM3VxV1pXc2ZlalZsNF9TNzc4eXF0d2hXWFNOd0dBam00VEpGbldpb0czLXg3ZXdjZHQ4Ql9vdnlZTFhwcnRmQXFGLVQyNVh4MGY?oc=5",
+        "headline": "The Great Long-Bond Selloff Forces a Brutal Fiscal Reckoning",
+        "summary": "",
+        "source": "Cryptonews.net",
+        "published": "08/16 05:19",
+        "published_ts": 1786825154.0,
+        "tag": "JGB",
+        "first_seen": 1786825293.2796755
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXBmaGRtZmpoV0FjZDJ0eC1SOTB1MDRvTXR1bTlNLURvTjQxQzNlUTdRbFQ4aVdWNW9nSzdwVmhuaEk4R3pFLUoyWjMyLXRCbHRPNV80RWd2ZVdjbkd4MFlCWllXRThrdkpDTHl6WXV2N3R0SWNMVXA1bEtzMlZONWx5NkR5MmpQYmR4endqMGxzTWVlTHplS19CbUZtdHBRa2F1VDZHSHBlWXRwSHhUNzV1YzBPbkM3MnYwMDBQR0tTRGMtT3hpVE1DT2ZMSms?oc=5",
         "headline": "Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/14 23:15",
         "published_ts": 1786716922.0,
         "tag": "Global",
-        "first_seen": 1786717834.143596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rQ2cxSVVnTGZhbkRvS0ZpSGpGUnhzTGZVd0VDcS05ZnRjcnhxNWdjWUoycUJpZC1CREZ5MEYxYzVRYUhlcXg1RGdmU0NhV1pRRnpDRG5hWVNZYTVPeWU1ODVMU05fNXNQQmFzM19yNzF0OUlWOFZqbmJR?oc=5",
-        "headline": "Fed Chair Kevin Warsh Has Held Rates Steady in Back-to-Back Meetings Since Taking Over in 2026. What His Cautious Start Means for Markets.",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/14 23:11",
-        "published_ts": 1786716679.0,
-        "tag": "Fed",
         "first_seen": 1786717834.143596
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 05:15:45",
+  "updated_at": "2026-08-16 05:21:53",
   "yields": [
     {
       "label": "3년",
