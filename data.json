@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Uko4SlF0b2dENVBuUURPTTVwNlY5X1FBNl9WS212SWM4Q3ZZajBWdXhnc3o3dlV0MWxpRHVaTWhubm1ELXQ5dFJQWEppVmdna3NQNjdHUEZtWGdaaUg5TtIBZkFVX3lxTE5DdnJpTmtDdHFySC1meEdkak9pd2ZOY1hBTVp3MUdncjFzMlg5TmhxbGhXYlVFU1pfVmZEUGp2UFRyWHQ0c2ZjVkxsSnQ5VlFqWERmNi1PaGp2el95R25XblpzcloxUQ?oc=5",
+        "headline": "크레디트 스프레드 안정, 채권 수요는 미진",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/16 08:22",
+        "published_ts": 1786836141.0,
+        "tag": null,
+        "first_seen": 1786836690.4994473
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE84ZG8tZV9pVEpFNU1SNnJqVUZBcUlFaHhwbm9BWEJCVFNWNVgzX2xzTUtxT0VJUWk5elFNd3JxbEFfVW9EbGNMX1hCOThlUzRsM0EwTlJDcWlmczU4R215aTJpMEkxaXRSUWZjLTJBRzbSAXRBVV95cUxNRGxBT2UzSVRNM3J1emdQRWdFNjBxc0h2YnUyeE5LSDBrMWw5VzA3blRKU3dxTGdNMEVCLXF4OWRkejh2Wm8tNU1SQ1ZzNnhQdkdPT2tLT09ZNVN4Z0VQVUJNTmwyeUJGeC1PZFM5VVF4RlgtUg?oc=5",
         "headline": "\"크레디트 스프레드 안정 흐름…채권 수요 확대 모멘텀은 부재\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786656960.0,
         "tag": null,
         "first_seen": 1786678239.150649
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE53NXRzOFhwdXM5OVY1c2ZPd2xjeWJVbmdGMGh6aDc0NkNabWZ0eGVKSHF5d2xhR2xwY0ZzbjN2M0ZmZlJxV3FGbDBDTUpZc0pvVUprU2lFM05XeFhLdmdINGFYVThBOWlHY3hSQ0k4SFBzR2xKcDc0?oc=5",
-        "headline": "S&P, AI 혼란 및 현금흐름 약화로 Teads 신용등급 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/14 06:27",
-        "published_ts": 1786656420.0,
-        "tag": null,
-        "first_seen": 1786657524.0578349
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 08:15:50",
+  "updated_at": "2026-08-16 08:31:41",
   "yields": [
     {
       "label": "3년",
