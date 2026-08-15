@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1vbWpJUGR3RWhIX0RTRlZmOWlyck5kX1FxTk1IeHZWSDNldEN2cndmZVlUTmN2c1lIYXFTa3pJZEdMeGx6TGFLSUllN2h3UE54eWxTLWRlczRxN3dqM3ZrN3JDLUVBdTlUTzZ5cTI1M2tzZGdo0gF0QVVfeXFMTW9taklQZHdFaEhfRFNGVmY5aXJyTmRfUXFOTUh4dlZIM2V0Q3Zyd2ZlWVROY3ZzWUhhcVNreklkR0x4bHpMYUtJSWU3aHdQTnh5bFMtZGVzNHE3d2ozdms3ckMtRUF1OVRPNnlxMjUza3NkZ2g?oc=5",
+        "headline": "DB증권, 호실적 업고 자기자본 1조원 돌파",
+        "summary": "",
+        "source": "이뉴스투데이",
+        "published": "08/14 18:02",
+        "published_ts": 1786698164.0,
+        "tag": null,
+        "first_seen": 1786752925.9723103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5qN3NGQklWd2dmblBUdlYxM0RPV3JDUi1aaXJVWGJBSzNNUEtuei00RjBLQXZxTmVSQ3pNRjJfNkFRSEkyR1dsTUxVNThiZGFtMDRZ?oc=5",
         "headline": "DB증권, 상반기 순익 708억원…전년比 49.4% 증가",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1786428060.0,
         "tag": null,
         "first_seen": 1786428926.7661638
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBJM3JBOG1UU2lQc0tRVTVrZkNhZkRwSE5hYjlVSDNxTEgtWTJDWkNmd1U1UU42cERUQVpCaGwzWVd6UzZWTTY3YlhxUWRsTm5lbzBtMVFNSGV0TE5KejJMQTJR?oc=5",
-        "headline": "iM증권, 500억원 추가 자본 확충…신종자본증권 발행",
-        "summary": "",
-        "source": "매일신문",
-        "published": "08/11 14:46",
-        "published_ts": 1786427205.0,
-        "tag": null,
-        "first_seen": 1786428043.4154503
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-15 09:01:00",
+  "updated_at": "2026-08-15 09:15:51",
   "yields": [
     {
       "label": "3년",
