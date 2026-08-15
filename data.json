@@ -1640,6 +1640,16 @@
         "first_seen": 1786814123.1755116
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2a2pVNDVYMUtRMElkMzBmZ0g0THAwSGZvWDdFcEs1S2kzUzBnOEJkbHBQYkx0T191X1lDWGJxQXd5VThYVGQ2dEI5NjRpVzlCaEJmcERZNWt2YkExN2fSAV5BVV95cUxQNmtqVTQ1WDFLUTBJZDMwZmdINExwMEhmb1g3RXBLNUtpM1MwZzhCZGxwUGJMdE9fdV9ZQ1hicUF3eVU4WFRkNnRCOTY0aVc5QmhCZnBEWTVrdmJBMTdn?oc=5",
+        "headline": "프랑스 30년물 국채금리 4.85% 부근, 차입비용 재평가",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/16 00:17",
+        "published_ts": 1786807067.0,
+        "tag": "JGB",
+        "first_seen": 1786823124.1930861
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYzBQNjVoQi1rZnlRbWpIVmxWMGUyM0hWVnFPUFNPN0RYaG0ycmltdGNzUmQwdFZOaWtaVXE5NndiNkVkMVdnUEFOaDFDNTUtYlgxbWJqVVRmNlhpVDd1VHBTTXVOLTNoQWxULVB5U3BMY2ZSTUJvUi1fQktTNUlIWEg0U2V0NU5IY2phYjd1RmxqXzBhZi1FZGlkWk0yQmpMbVVaREpoSkY?oc=5",
         "headline": "US & Japan face debt abyss as bond yields signal turmoil",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "AOL.com",
         "published": "08/14 23:11",
         "published_ts": 1786716679.0,
-        "tag": "Fed",
-        "first_seen": 1786717834.143596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMVc0WFZyU25tR3R2UllENHQ1dzZPUjlDbEhUMzkxSnp2NmdIbEU1MGRCSFhablFEdGhGeTFkOS1ScDl3SEx4cUctNm5oVUtwaGVPYWctRUoxdEVDN2QyTHl1Y1lLNk03SmFZWU5ZSW5lYkNPLUM0cmdXclptaFpvRTVkYnI1NVB2a1lXcUx2UWRybGo5TXNF?oc=5",
-        "headline": "The Warsh Rate-Hike Trade Just Collapsed: What It Means for Markets",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "08/14 22:56",
-        "published_ts": 1786715766.0,
         "tag": "Fed",
         "first_seen": 1786717834.143596
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 04:33:14",
+  "updated_at": "2026-08-16 04:45:46",
   "yields": [
     {
       "label": "3년",
