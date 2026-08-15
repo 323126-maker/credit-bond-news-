@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOF9xQzhaNkFzMEU5RVhrUlN3QmoyLWI1T09KU0NDX1A3Q3pZMWY3M0FBWUxWb2ZtQVVGX3BNaEJYaUx5X2VSaWZfSTJ6Y2w0VGtmcERVNzV5dTQxWURIdjM0c2J2eDdVdURnY3JwendkdjVoYlpiTVo0aFlndmQ5Z3Z3MDlQMFdXeGtEem0zVnFzNlFMbEx1TVBXQ2dZSV9hMDVSbzlNQnM?oc=5",
+        "headline": "VVR CEF: Improving, But Don't Expect A Distribution Hike (VVR)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/15 15:50",
+        "published_ts": 1786776626.0,
+        "tag": "Global",
+        "first_seen": 1786777236.83725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaGt1ZUtoTm51MlhKZ285YzFydUxFZWpmM3ZETDRUbXByLWRORXBuU2R6Z2lhZHFFVzNTaGJmcWZSengwY3lOUFFFdnZ2bGllR0dBQ1JlT0JLMXg1dmNhUzl6SWZmRnBKYzBRRVZ4ak1TNUdv?oc=5",
         "headline": "USD/JPY Breaches 160: What It Means For Markets And Policy Credibility",
         "summary": "",
@@ -1830,6 +1840,16 @@
         "first_seen": 1786766436.048401
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUZXS3pENmxjb0hFZEdxdnVXRm1leTlWR3hrdGRNR1ZCcWZ5SFhMVUFHLXNMaVpGemgzVXVyWGp0MThRSTg1eG9JYUJ2ai1lQXZTVUgza0lrNkZOaVA4NTQ5dXJPcDVGWlZCNWdNbW5YY0oxM2NuZm1wNURUaFk4V1pfV1dUdi1DUkhUbE1NN08yMlp3WjlkSEpOLW8?oc=5",
+        "headline": "What's Going On With AMD Stock Friday?",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/14 21:59",
+        "published_ts": 1786712354.0,
+        "tag": "Global",
+        "first_seen": 1786777236.83725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5OaTVCQ2NuQ0JhZVlNR1ROa3lnekJaaktmVkRvQUhCdkJ1V0lac1FyQTFZM2YtdTJqNDE4NTlBejVPbmN1cnI2YWNYTnA3dw?oc=5",
         "headline": "Global economic upheaval: a survival guide",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786689666.0,
         "tag": "JGB",
         "first_seen": 1786776328.4199665
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTUtGdTI5V2lmUW41UnFhalpFMllYVXQyT0x3TVU2ZDlDUHpvN1pCU0JoRTA3QnBNTEhSMGhaSlF3Qld4VWVZZ0k1c0ZEbC1XS1dkclUwQmpXbDJ2RGE4VlVwWWU1blpsSUJjZlRiTldpVERBTzM4Q2RIM0JSRG9ScUhmbkNTYmtobWVMTEtxTkFnemctRVFjdUNFUURoVUoyUnJRMjJHRU9fVi02UzFTcGljNFdqNDBSRUNNbQ?oc=5",
-        "headline": "GENCO Bond Defaults: Credit, Market and Contagion Risks for Investors in Nigeria.",
-        "summary": "",
-        "source": "Business News Nigeria",
-        "published": "08/14 15:19",
-        "published_ts": 1786688394.0,
-        "tag": "Global",
-        "first_seen": 1786691731.384523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNGtDbUxBa0l2ZmR6Q3gtUTZIaEdmbWhjMkE2Tkh6d0VCRVZaaHA0RC1RdXVMZUpCUDBFa3lDb0c1OUlMQWxkblV3T3ZIemlMc2hoWTFoMW1idEVmcHFXb1h1aTNKVko2VU4zc0c0dmpGWGl0U2g5c3BxZ1lpOENtR19uSVJPWDdwTFA4?oc=5",
-        "headline": "A Practitioner’s Guide to Credit Futures",
-        "summary": "",
-        "source": "cmegroup.com",
-        "published": "08/14 15:16",
-        "published_ts": 1786688199.0,
-        "tag": "Global",
-        "first_seen": 1786696492.9984596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-15 15:45:53",
+  "updated_at": "2026-08-15 16:00:59",
   "yields": [
     {
       "label": "3년",
