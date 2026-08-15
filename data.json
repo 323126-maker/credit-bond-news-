@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM0dwRld5WE5ydjFhOUwtRjF4Q09RTEpjOGxUYVlKSjQwX3FDSTJzbFhnbmNiZ0REZlJRYlZENVRlRG5jV0dycVNBV0paN1BabU4zWlRRMlVhdkthdzBBMtIBYEFVX3lxTFBJM0dwRld5WE5ydjFhOUwtRjF4Q09RTEpjOGxUYVlKSjQwX3FDSTJzbFhnbmNiZ0REZlJRYlZENVRlRG5jV0dycVNBV0paN1BabU4zWlRRMlVhdkthdzBBMg?oc=5",
+        "headline": "교부금 개편 놓고 최교진-박홍근 '막판 대치'…발표 지연 가능성(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "08/15 20:57",
+        "published_ts": 1786795070.0,
+        "tag": null,
+        "first_seen": 1786799725.1039264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9LTXdoOUxXX1F5TzVYeVNzMUZtUXhkSU1vTG9sYnkxbWd3NGhtY09tOURrSC1jS2xWcE9YMmZLaWVFWFFBbklyZUVLQlFmSEU?oc=5",
         "headline": "추미애 “경기도 재정파탄 우려”에…이준석 “이재명 빚부터 따져야”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786417020.0,
         "tag": null,
         "first_seen": 1786417240.005906
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoSVNiVEwxX0tDbWc4SVJoeTF1SHhQOFlwTDJxOU9iWnRPSTVsWGdoeFlhdnQ1a29qSVBrLUxUdld3bmhQekZSYTQxQXZxSnQxeTh1eXlR0gFbQVVfeXFMTXZrU0dLQmNsZHgtX0Z0dWRGUG8tN1JWR2xZdW9mZGNzbWpCdUxpb19jdmdrYm1kLUZORUNUbWNMbGxHWnpQQWVaZXozSmNvODl1N0NPMURYbjVPbw?oc=5",
-        "headline": "10년 국채선물 60틱 하락, 유가·한은 발언 대기",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/11 11:17",
-        "published_ts": 1786414651.0,
-        "tag": null,
-        "first_seen": 1786432526.1895816
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-15 22:01:05",
+  "updated_at": "2026-08-15 22:15:49",
   "yields": [
     {
       "label": "3년",
