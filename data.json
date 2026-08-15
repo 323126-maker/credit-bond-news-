@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTB4Zm1rZ0JBNTFualZ5Yzc2V0dkemtaUWJDRktfZlZkLS1IREdhbzdnREpZY2owYjRnSTE1YnRZVzZnS1RERDJpYXRONFhSd29Ib0lVcTYyWVgwMTRsd0N0MEYtLW1ZNS1sS29rN2lJVmJaUDEzWnc1UEVpU2ZfNTZPSktwTElLOG1aUUJDZnFaQjJwMzJYekxrLTlPR0hJbmtxVHRhSzY1RlE?oc=5",
+        "headline": "The Treasury Is Caught In Its Own Trap (SPX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/15 20:59",
+        "published_ts": 1786795152.0,
+        "tag": "Global",
+        "first_seen": 1786795234.4084673
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0R1NG9KNXd0WFJSelBKN1VkRmVHRkZ5ZE5VQU5adGJqbUxZem1BcnhkbWNfWnI1cnZ2X2h4VC0tSmxkZk9rQjVPcUlfZ0xBb0FNYzVuQXNFcEVZOHJ3VkVTcFdCRHBIOEhXV1dORVVNaEp5MWNYQ0JibFlrakhVci1zalcwRzVXTW9GdUdIMXdjWFhsNnZ0alVzZw?oc=5",
         "headline": "Nvidia's AI financing push raises new questions over market leverage",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786698026.0,
         "tag": "Fed",
         "first_seen": 1786706878.229478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVX296UGlwbFFhaVRscExOVzRrcXQtTndUN0dsRGV2LTR6cE9ULTgxNjRhamZVLXRyUjJZcGRoMUVfdS1EaFprUmotX3NvdjFKVUR6bA?oc=5",
-        "headline": "Big Tech’s AI Debt Rush Roils Global Corporate Bond Markets",
-        "summary": "",
-        "source": "en.bloomingbit.io",
-        "published": "08/14 17:43",
-        "published_ts": 1786696985.0,
-        "tag": "Global",
-        "first_seen": 1786697127.4434154
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-15 20:56:09",
+  "updated_at": "2026-08-15 21:00:57",
   "yields": [
     {
       "label": "3년",
