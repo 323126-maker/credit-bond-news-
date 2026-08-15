@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWXBmaGRtZmpoV0FjZDJ0eC1SOTB1MDRvTXR1bTlNLURvTjQxQzNlUTdRbFQ4aVdWNW9nSzdwVmhuaEk4R3pFLUoyWjMyLXRCbHRPNV80RWd2ZVdjbkd4MFlCWllXRThrdkpDTHl6WXV2N3R0SWNMVXA1bEtzMlZONWx5NkR5MmpQYmR4endqMGxzTWVlTHplS19CbUZtdHBRa2F1VDZHSHBlWXRwSHhUNzV1YzBPbkM3MnYwMDBQR0tTRGMtT3hpVE1DT2ZMSms?oc=5",
+        "headline": "Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/16 04:15",
+        "published_ts": 1786821350.0,
+        "tag": "Global",
+        "first_seen": 1786822231.9788904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5GNm5QV2RSU2tRSXNHVkFMc1pjY0NpUWZfQXJ1eEU3ZF9ZNFRsakgwdENQMFRjREpxR3lSUVVteXRtUUpoQnZrTGFlVXBBRHNndVlFMGNRQXVxdDhQMmVJbkdwcmtEWWNYVzRHU1FiVnRMeklwR0lWWFZ2bUxWZw?oc=5",
         "headline": "New Fed Chair Kevin Warsh Sparked a \"Credibility Shock\" on Wall Street After His Latest Rate Decision. Here's Why Investors Should Care.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786715766.0,
         "tag": "Fed",
         "first_seen": 1786717834.143596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOc0R0VHFkUWxCNzYwX09zUm9ObF8zb2gwU1kwaUd3dFg4QmRna184Tk81QlRIOHY5MUJGdllUM0ZybXpVdHBGWGxvNEZsNklrVUFDMFJzRmE2YkhvdVZkaVV6VmZQRHhpZ19HY2lVb3Q4N0tqc0xrZDBOaWY4b1FpTWtSRHIxSWZWYWZiVzMwZ3JaUG12SFdjdF9SY2xaNXBpT0xmc2s5ZHNPbXVXNGpHTkZxZkFvLTRIWFRuR3lvMERaTVRvNTRoTUl5cy1XUGI2bWlVWTNIcHjSAdgBQVVfeXFMTnNEdFRxZFFsQjc2MF9Pc1JvTmxfM29oMFNZMGlHd3RYOEJkZ2tfOE5PNUJUSDh2OTFCRnZZVDNGcm16VXRwRlhsbzRGbDZJa1VBQzBSc0ZhNmJIb3VWZGlVelZmUER4aWdfR2NpVW90ODdLanNMa2QwTmlmOG9RaU1rUkRyMUlmVmFmYlczMGdyWlBtdkhXY3RfUmNsWjVwaU9MZnNrOWRzT211VzRqR05GcWZBby00SFhUbkd5bzBEWk1UbzU0aE1JeXMtV1BiNm1pVVkzSHB4?oc=5",
-        "headline": "Limited supply, strong demand drive down long-tenor bond yields in FY27",
-        "summary": "",
-        "source": "Business Standard",
-        "published": "08/14 22:34",
-        "published_ts": 1786714447.0,
-        "tag": "Global",
-        "first_seen": 1786726104.1573546
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 04:15:45",
+  "updated_at": "2026-08-16 04:30:54",
   "yields": [
     {
       "label": "3년",
