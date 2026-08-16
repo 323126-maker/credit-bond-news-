@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1sVUhIdWVhUXdlN1Bsbnh0b21sR0JqeG5JQzVYYUtROTlkMWQzWnZhNm9aX1B3clFULTlnMXF5RHZRQl9kTnBPQVl0SkpmLUFuY3J6N1NZMlBzOXlCS0o1YlFNRjRXZDNIdHgteV9OSWsxX1U4N0HSAXZBVV95cUxNbFVISHVlYVF3ZTdQbG54dG9tbEdCanhuSUM1WGFLUTk5ZDFkM1p2YTZvWl9Qd3JRVC05ZzFxeUR2UUJfZE5wT0FZdEpKZi1BbmNyejdTWTJQczl5QktKNWJRTUY0V2QzSHR4LXlfTklrMV9VODdB?oc=5",
+        "headline": "“엔화 무너지면 세계 금융 젠가 탑처럼 완파”",
+        "summary": "",
+        "source": "포춘코리아",
+        "published": "08/16 14:14",
+        "published_ts": 1786857288.0,
+        "tag": "JGB",
+        "first_seen": 1786861830.0436828
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjNXMGFlX3pGcF9oVFRmZ2RWRmxVWEtRWXJ1ZXppaERKd2lyOWdsSnBlYTNSbFRWZmY1dmtVRElWYXRFVGpYTzRtcHVhdnZidTctajVPaXQ4YlM5TFBka3Q2eVppVFpieGZMMzFnMl9udFB6YTA5bUdPT3dQaFZHelgwRTUxQjA4RVpnbE9TX1M2WGpENTJPR2Y4YktTQ1U?oc=5",
         "headline": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786736387.0,
         "tag": "Strategist",
         "first_seen": 1786791634.3662853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1KYjVqYTV3NnRxNGlLTmZvYXJHVm5WZzZTOXh6S0NOQWszRFdndnNrRGhmbzVRN0ttbXg3akxHd3JjQ3pvQmJ2RjgtcGhrbHdiS0xLUWtSd1laYkdETEVGXzZzd0hOOEl1WDNVLWFYLW8zR3c?oc=5",
-        "headline": "Why the Fed Stepped In to Replace Departing Treasury Buyers",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "08/15 04:33",
-        "published_ts": 1786736000.0,
-        "tag": "Fed",
-        "first_seen": 1786859123.327112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 15:15:44",
+  "updated_at": "2026-08-16 15:30:50",
   "yields": [
     {
       "label": "3년",
