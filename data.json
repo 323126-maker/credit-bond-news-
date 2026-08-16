@@ -332,6 +332,16 @@
         "first_seen": 1786685431.1377654
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QQlNjV2hsS2FuSEE1dlNaR2VSYzN6NE92eGZGVlpGdXRfMnA2WmYwRm90STFQWXc4NWJpV3QwSW1MRGVZZXNSRzd3?oc=5",
+        "headline": "국민연금, 노후 책임질 30인! 28일 오후 6시 마감 : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "08/14 14:14",
+        "published_ts": 1786684440.0,
+        "tag": null,
+        "first_seen": 1786918529.819986
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGRHZGx4azYyWjBvRzlMeVJFYk1sRlJJVDFGa2tWNERwVTQ0Q0VrNWs2SGtXbjFSVVVOQk1ZdzRPV3pKUXhYOXpGcHQ0bGhqQjV2N2R1QWVSMTdTdXZENEZPaVZKdE9IX3hwaXlGT1JvYklXWWpRWl91UGZidGVyUk1vRFg?oc=5",
         "headline": "소비자 신용 대출 수익은 증가하고 있지만, 부실 채권은 여전히 ​​우려스러운 부분입니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786675633.0,
         "tag": null,
         "first_seen": 1786689924.8842468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sdFY1V1F4cVh5UXcwblRUNmFvaGJKYTRHZHBSRGVUNXFFakZHY2JycTVGT1c4TUh5NVBKX21jdFczQ01RVEtyM2tPdzhXLU5Tbzh1cWw4S2NudDM1dWVNOVU3RzVVNFN0a0lVZ2hFUFZnd9IBckFVX3lxTE9sdFY1V1F4cVh5UXcwblRUNmFvaGJKYTRHZHBSRGVUNXFFakZHY2JycTVGT1c4TUh5NVBKX21jdFczQ01RVEtyM2tPdzhXLU5Tbzh1cWw4S2NudDM1dWVNOVU3RzVVNFN0a0lVZ2hFUFZndw?oc=5",
-        "headline": "[이슈] 국고채 금리 단기물 중심 하락…3년물 3.781% 마감",
-        "summary": "",
-        "source": "폴리뉴스 Polinews",
-        "published": "08/14 11:33",
-        "published_ts": 1786674833.0,
-        "tag": null,
-        "first_seen": 1786781732.8993032
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 07:01:07",
+  "updated_at": "2026-08-17 07:15:53",
   "yields": [
     {
       "label": "3년",
