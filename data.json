@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YbUJCRlBRRml3Q2Eyd2xGbnk1cWlnbmlNTnhEa19MazkxRmgxUExBdGJXTjlDMFd4VFBNT29jTXBmRFJHWFl0OUktNlRZVVV3TGE4?oc=5",
+        "headline": "AI 기업 '그림자 부채' 700억달러…채권시장 뇌관되나",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/16 18:08",
+        "published_ts": 1786871280.0,
+        "tag": null,
+        "first_seen": 1786871633.9708078
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2tUSGM3V3pqVFRVdFVSQWNMX3pBQUs5dWJjdHJ0UEs0ZGEtNmE4MHhyNXBXWVVrZ3g2NlNtMzBQN0RCSlkzSVppRUJCWnNzWTRWVkpCTDQtOXFTMmhteVRuNG9RUnZyNHJaR0JYLWNGYkpRQklyT2RBTkV4bktQUkc0eVgzV1lKbllvZQ?oc=5",
         "headline": "인공지능 경쟁이 신용 시장으로까지 확대되고 있다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786669946.0,
         "tag": null,
         "first_seen": 1786695328.5948079
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOVVvOFd3MlMwaHBOLW1YZjRqUUdWWlI1TEJDcWNpQVA0MndyVnc0MU1tTjF4SklVSWt0bU5BM2xKWkJwMk9tNGk2cVM2cDEyNzkxU0NITFhodw?oc=5",
-        "headline": "AI 투자에 외화채 쏟아낸 빅테크…캐나다·스위스 시장 흔든다",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/14 10:12",
-        "published_ts": 1786669946.0,
-        "tag": null,
-        "first_seen": 1786670127.197797
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 18:00:57",
+  "updated_at": "2026-08-16 18:14:14",
   "yields": [
     {
       "label": "3년",
