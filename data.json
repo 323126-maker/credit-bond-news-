@@ -1710,6 +1710,16 @@
         "first_seen": 1786840232.5436003
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QUEM0U09yMnE4OHFxUGdxUkphc29IaTFGQzdPN3U2ZnJBYkk1b3NSOHYzdHRhRFlDV3R3YzVkSHlJUm5WVVY4SWdvR29CWGl4VHRr?oc=5",
+        "headline": "외환시장 개입한 미 재무부…엔화가 아닌 미 국채를 구했다",
+        "summary": "",
+        "source": "news.nate.com",
+        "published": "08/16 06:00",
+        "published_ts": 1786827600.0,
+        "tag": "JGB",
+        "first_seen": 1786873524.6774468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JZTV6WTRGM3VxV1pXc2ZlalZsNF9TNzc4eXF0d2hXWFNOd0dBam00VEpGbldpb0czLXg3ZXdjZHQ4Ql9vdnlZTFhwcnRmQXFGLVQyNVh4MGY?oc=5",
         "headline": "The Great Long-Bond Selloff Forces a Brutal Fiscal Reckoning",
         "summary": "",
@@ -1798,6 +1808,16 @@
         "published_ts": 1786800057.0,
         "tag": "Fed",
         "first_seen": 1786800629.9635909
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aaHFXOGs0cno0ZFdpaDltNlBBZXdnWFVaVGx2akhDeTZHajk2QndScTllR3A1Vi00MGJ4ZUlWVEJ5WUpDeFNQclpfY3VtUzBZ?oc=5",
+        "headline": "엔화 약세 지속되자…日 ETF 투자자도 '울상' [투자톡]",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "08/15 21:26",
+        "published_ts": 1786796809.0,
+        "tag": "JGB",
+        "first_seen": 1786873524.6774468
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdTB4Zm1rZ0JBNTFualZ5Yzc2V0dkemtaUWJDRktfZlZkLS1IREdhbzdnREpZY2owYjRnSTE1YnRZVzZnS1RERDJpYXRONFhSd29Ib0lVcTYyWVgwMTRsd0N0MEYtLW1ZNS1sS29rN2lJVmJaUDEzWnc1UEVpU2ZfNTZPSktwTElLOG1aUUJDZnFaQjJwMzJYekxrLTlPR0hJbmtxVHRhSzY1RlE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786750340.0,
         "tag": "Fed",
         "first_seen": 1786775799.4172523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlaXpWYjdWTU9EX2h2YlBYbWdFOUc1dzdhTFFWWm4zUDdtX045dlVya3o4NXFzM0Zqb2djb1NUeTVpcjFueS1nVUtIbE1FcjJUUXdPN19jckxQY21wMFRYYm52UXQ4My1Za2RiWHpDSnZxbjNS?oc=5",
-        "headline": "Investors shun lower-rated Korean bonds even at 8% yields",
-        "summary": "",
-        "source": "KED Global",
-        "published": "08/15 07:36",
-        "published_ts": 1786746993.0,
-        "tag": "Global",
-        "first_seen": 1786797580.6322124
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQczNWSHI0V1gyZjB5LUxyYm16RXNNZE1fMHZCbllOamVFODA0MHBTLW1hQkhWZ3lDWHpydElPUDFxNHpCZUpPQ1h0dElud2wxUlFvLVJyZzF2WjNvaWVHaG1xamg3bVNCazFTV3JRV0FlRkRzajllUlFlbE1FMUUzZ3ZrS1R3aUg2blE?oc=5",
-        "headline": "Donald Trump’s Relationship With Fed Chairman Kevin Warsh Is Suddenly Under a Microscope",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/15 07:12",
-        "published_ts": 1786745554.0,
-        "tag": "Fed",
-        "first_seen": 1786746632.15989
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 18:30:54",
+  "updated_at": "2026-08-16 18:45:43",
   "yields": [
     {
       "label": "3년",
