@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53MkFLM05lUjVIUTh1N0tzQmd2SGt3UlZHQW1DUmNvMjAzUm5SaFN2emkyR3FwWnFFUlRFRFBXZFJPbFpMa0FBU29ERXRveDVtTnc?oc=5",
+        "headline": "엔저 현상… 지금 엔화에 투자할까?",
+        "summary": "",
+        "source": "유스연합",
+        "published": "08/16 21:44",
+        "published_ts": 1786884268.0,
+        "tag": "JGB",
+        "first_seen": 1786885060.0018425
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RYzU5SWpFT3FLbWo5S25NTzBMc3ZEazRDeFpUejRlZGNsaE9mNXJ1RlJFV3k1MGgyY1FlandwMW9kWGRNYzVTTWlDaHBycnZLdFJ4ZktxaFVQbV9LU2pYTTN6eWNoTlpQUjdj?oc=5",
         "headline": "Bonds face bigger threat than Federal Reserve as global rates climb",
         "summary": "",
@@ -1718,6 +1728,16 @@
         "published_ts": 1786852800.0,
         "tag": "JGB",
         "first_seen": 1786853425.661314
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYkQzNDZXUlNFM1IzYWpKS3hOeWZvMndiZWFGeTROUWJPQUpOQWstc1ZJWjFWcnMxUENFU3Z0V2d6S0hQS2tBcWpYU2NsNXZYeEdHcEI2SEpxMWdIOV9zMTF6U29tQURUTTVoYi11X25CLUkzVUhubGJvcXZISjJ5dWxGWjY1R1p6eEpjVTE2aXZ2VE1MZC13cUp3TXE1bW5F?oc=5",
+        "headline": "달러화 급락, 전망 불확실; 일본 엔화 강세로 중앙은행 금리 인상 촉구.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/16 11:45",
+        "published_ts": 1786848327.0,
+        "tag": "JGB",
+        "first_seen": 1786885060.0018425
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zR2JHN01HOXJfYldWNkhpMXV3RXQ3MmVBcEJyeGhoWmZBWExZYUs1dE10b3hHQmxjR3ZSYlRYelZWZ29KYXc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786778451.0,
         "tag": "Strategist",
         "first_seen": 1786834840.8908093
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQOF9xQzhaNkFzMEU5RVhrUlN3QmoyLWI1T09KU0NDX1A3Q3pZMWY3M0FBWUxWb2ZtQVVGX3BNaEJYaUx5X2VSaWZfSTJ6Y2w0VGtmcERVNzV5dTQxWURIdjM0c2J2eDdVdURnY3JwendkdjVoYlpiTVo0aFlndmQ5Z3Z3MDlQMFdXeGtEem0zVnFzNlFMbEx1TVBXQ2dZSV9hMDVSbzlNQnM?oc=5",
-        "headline": "VVR CEF: Improving, But Don't Expect A Distribution Hike (VVR)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/15 15:50",
-        "published_ts": 1786776626.0,
-        "tag": "Global",
-        "first_seen": 1786777236.83725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TaGt1ZUtoTm51MlhKZ285YzFydUxFZWpmM3ZETDRUbXByLWRORXBuU2R6Z2lhZHFFVzNTaGJmcWZSengwY3lOUFFFdnZ2bGllR0dBQ1JlT0JLMXg1dmNhUzl6SWZmRnBKYzBRRVZ4ak1TNUdv?oc=5",
-        "headline": "USD/JPY Breaches 160: What It Means For Markets And Policy Credibility",
-        "summary": "",
-        "source": "Bitcoin World",
-        "published": "08/15 15:10",
-        "published_ts": 1786774211.0,
-        "tag": "Global",
-        "first_seen": 1786776328.4199665
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 21:45:52",
+  "updated_at": "2026-08-16 21:57:59",
   "yields": [
     {
       "label": "3년",
