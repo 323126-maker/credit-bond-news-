@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMktlOEtteUF3SWFhR19SVklId05XVnRFMWdYSThFa2RNd1Y0MjNLZ3ZLRW41bURkbWZmMUdXMVE2UTBoZnBpTlo0ZWQ5WnRuX3dNRGxZOWRvRjZVUmR4MXhKdWRMc29aWVRjOXVGdTBDSXBjY3VQWUFvWld4dDYxcDNaM0hBSVhjMHNCaWRrZ3Z2VnpVVnFjM2g4bkN3Tl9vc3NRSXlmU2JpMldIYnRTT0JHYmNtbFdqM1dxTWF3?oc=5",
+        "headline": "John Hancock 2040 Lifetime Blend Portfolio Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/17 03:43",
+        "published_ts": 1786905780.0,
+        "tag": "Global",
+        "first_seen": 1786906834.1531048
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnhDMzMtNV9QNUUxcEFqUVJNZDMyOFZ0Y0doVU93azRha3huWTYtaU5vT2d1VkxFX1daUVpXUEVrYW8yQjdrVUFZc0Yyc3RIQUw3QTV1dkJha2puYkJFeXNEZW53cXI0RW5scTljZ2VOS3F4cXlvTWhKMnlXY1ljMllaVkk2b0li?oc=5",
         "headline": "달러·엔 160엔 돌파 땐 신뢰 추락…165엔 간다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786800057.0,
         "tag": "Fed",
         "first_seen": 1786800629.9635909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aaHFXOGs0cno0ZFdpaDltNlBBZXdnWFVaVGx2akhDeTZHajk2QndScTllR3A1Vi00MGJ4ZUlWVEJ5WUpDeFNQclpfY3VtUzBZ?oc=5",
-        "headline": "엔화 약세 지속되자…日 ETF 투자자도 '울상' [투자톡]",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "08/15 21:26",
-        "published_ts": 1786796809.0,
-        "tag": "JGB",
-        "first_seen": 1786873524.6774468
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 03:45:47",
+  "updated_at": "2026-08-17 04:00:56",
   "yields": [
     {
       "label": "3년",
