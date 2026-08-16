@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjNXMGFlX3pGcF9oVFRmZ2RWRmxVWEtRWXJ1ZXppaERKd2lyOWdsSnBlYTNSbFRWZmY1dmtVRElWYXRFVGpYTzRtcHVhdnZidTctajVPaXQ4YlM5TFBka3Q2eVppVFpieGZMMzFnMl9udFB6YTA5bUdPT3dQaFZHelgwRTUxQjA4RVpnbE9TX1M2WGpENTJPR2Y4YktTQ1U?oc=5",
+        "headline": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
+        "summary": "",
+        "source": "investinglive.com",
+        "published": "08/16 13:27",
+        "published_ts": 1786854451.0,
+        "tag": "JGB",
+        "first_seen": 1786857324.172029
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aRExycEtKOXNWbFRmVGR1MDY0cHZjT0lVbF9mb2NDTHpHcXlsQllKbmZ5alVzOXFTei1nWkx5RGVzWDctTlljZl9pd2RINzNXaUJSOTR3?oc=5",
         "headline": "“절호의 기회 놓쳤다”…‘엔저 저지’ 美日, 금리인상 동상이몽[디브리핑]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786726212.0,
         "tag": "Fed",
         "first_seen": 1786740324.6769457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT0ZwSVBGdWtDRi1FZUY1MVR3YXpndUlaVWl1UEotc2VzdnN6WTZLbUgzZDd2aTdzbFBaX1VxV3hONlhUUkZPUjFpNUtrLUdoVkp6MkN1bzhCWDhGaFdjaDRGRFF2US1QTC1mdnM5Q3JGenpiU2dRVjhZV2FqRVlpeGludzhOT216SU5XUHJKVHk0TDhVX0NN?oc=5",
-        "headline": "Wall Street Is Obsessing Over Every Word From Federal Reserve Chairman Kevin Warsh -- This Is the Phrase That Matters Most",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "08/15 01:29",
-        "published_ts": 1786724953.0,
-        "tag": "Fed",
-        "first_seen": 1786725033.2017665
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 14:01:02",
+  "updated_at": "2026-08-16 14:15:45",
   "yields": [
     {
       "label": "3년",
