@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
+        "headline": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/16 23:38",
+        "published_ts": 1786891128.0,
+        "tag": "Fed",
+        "first_seen": 1786891523.4206774
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53MkFLM05lUjVIUTh1N0tzQmd2SGt3UlZHQW1DUmNvMjAzUm5SaFN2emkyR3FwWnFFUlRFRFBXZFJPbFpMa0FBU29ERXRveDVtTnc?oc=5",
         "headline": "엔저 현상… 지금 엔화에 투자할까?",
         "summary": "",
@@ -1768,6 +1778,16 @@
         "published_ts": 1786846519.0,
         "tag": "JGB",
         "first_seen": 1786852836.8224442
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDczenh5ZUYyZ3M5bjdUWHlMVlFOTU44SnRhcVBFR1JkcXZEOXNUSU96VHo5VXBBWFR5QjRxTFc3YzNUbUVNQWZLSjJBdTJNLWd5WFRfb09RZWl5NVhmbDdzSWtUYmZ2S0VCV2tHRU9FTmRTUVNPRXF3NmxxYWNsWDk0Z0FLWmxaVHpQdHJMMjM5XzVDd3RaVy1STDNQNjV2c3R4TEFqXzhObHpFQmFUUlNPX0pTZ3M2UHVZV0ZzYVl6N01qTFpKQ3BnOVc5SXJud3V3?oc=5",
+        "headline": "SpaceX (SPCX) Fell Despite Investment-Grade Ratings — Why the $20B Bond Deal Matters",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "08/16 10:38",
+        "published_ts": 1786844287.0,
+        "tag": "Global",
+        "first_seen": 1786891523.4206774
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVkdNcks4U1ZYNUlLcWZPVDlsdTE4cmVsei1UZTUzY1U2ZFA3eVVTQXI4aFVXZnZIQUtYSUdQdHFEZTFULVVpcDZQQUdPal9fX1AxQklB?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786784734.0,
         "tag": "Global",
         "first_seen": 1786888655.8535485
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUDYxYmpTT2x4Mmktam9KcHhYcjZrNkRpaUk4UDUyOVlqZ19vVHFrQnhTOXc4OXhyVl9fdU56ZG5PZ2xDZ0dJMlFSWWUwcGlzdE1SSlM0V1Vhbk5nYXktMVFKd2wzeXptbVdLT2xPTks5VUZMMGdDSlRpQmFpQzlGaHdoNjFnd0xJMlVCMERta3c2Tk9u?oc=5",
-        "headline": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
-        "summary": "",
-        "source": "Seattle Post-Intelligencer",
-        "published": "08/15 17:04",
-        "published_ts": 1786781047.0,
-        "tag": "Fed",
-        "first_seen": 1786781433.8034825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTHBlaGUzeVVvTWVGUEUtbjc2TkpyQk9Cdk9ZenV3ZEtCeHc5NUtDdEhlbTZlUUxNeXcxVDVOWHREMnYxZjRwZld0NG9TcG5oVEhqT0RLVlUweWMwblJOd3ZMZmtkWWZtSFRmNGV0RHZYTThuWFV5aXY4Vk1CTi1LZnJnM3poYmxHRnRoNHB3WjF0MGc?oc=5",
-        "headline": "Key Convictions: Third Quarter 2026 - Western Asset Management - Commentaries",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "08/15 17:01",
-        "published_ts": 1786780866.0,
-        "tag": "Global",
-        "first_seen": 1786796126.8255987
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 23:30:54",
+  "updated_at": "2026-08-16 23:45:42",
   "yields": [
     {
       "label": "3년",
