@@ -82,6 +82,16 @@
         "first_seen": 1786754722.758196
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ub0tKaWFlOFhDMEtmMEppc2taNkVsX0JBa2JHUUpqQW9NZmZnaXVsRVdYVWY0eXo4QTFwa0xqbTYxX2t2LWhDYkFBTUxxb0xua2Jwb0VXSENzY0VzbW5fdmtKOGlHRVluVmU0MkJ4MlU?oc=5",
+        "headline": "[뉴욕마켓워치] 소비가 부진해도 금리가 오르네…주식·채권·달러 '트리플 약세'",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/15 08:10",
+        "published_ts": 1786749047.0,
+        "tag": null,
+        "first_seen": 1786862725.5932477
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZVE3d3N6WEVIWGplc0RHT1RYSVFfVWV3aWVrcEx4dmlUbkI4ZXBsVDJQd0dnb3FqamhJbHc1bzhIeXdHN0FoX2U3eFhYZ0EwVVl4bUM1V2oxZnd2ZE9RSXl4NVFTbVN6?oc=5",
         "headline": "하반기 채권시장 \"우량채 매수 지속\"…美 국채 수급 불안은 변수",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786668365.0,
         "tag": null,
         "first_seen": 1786691731.384523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OUTQxTGxXSWdZLUVmUlN5SDFiazdYczR4ZG1TcERSRGtjYlYta2JhS28wdnk1ZVpvc3FSQVFhVkphakVKSEFGRVFKaE9nQ3VtTlNrV2EwMEh4eVBYbzVYY2F1cVM3cnhqMGhlbEFBQlF5anN0?oc=5",
-        "headline": "브라질 대선에 채권시장 '긴장'…NH證 \"달러채 이자 먼저 챙기기, 헤알채는 4분기에\"",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "08/14 09:19",
-        "published_ts": 1786666744.0,
-        "tag": null,
-        "first_seen": 1786668325.6255867
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 15:39:17",
+  "updated_at": "2026-08-16 15:45:56",
   "yields": [
     {
       "label": "3년",
