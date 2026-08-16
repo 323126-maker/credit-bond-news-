@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBBejQ2ZWFzeUlSNWE2U1lodG1obTRJR0NTQk9KNWxqYlFnaVpfRUZYUy1JdXpxTEtDcU5pU1hIRzBIT1NNN0x5U2U5NUVVM0JGQXVydFJPMWzSAVhBVV95cUxQQXo0NmVhc3lJUjVhNlNZaHRtaG00SUdDU0JPSjVsamJRZ2laX0VGWFMtSXV6cUxLQ3FOaVNYSEcwSE9TTTdMeVNlOTVFVTNCRkF1cnRSTzFs?oc=5",
+        "headline": "조달비용·연체율 상승 우려에 카드사 중금리대출 공급 ‘속도 조절’",
+        "summary": "",
+        "source": "미디어펜",
+        "published": "08/16 10:28",
+        "published_ts": 1786843711.0,
+        "tag": null,
+        "first_seen": 1786903218.5692208
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oMWJ3ODZJY24tRjBpQzJSMm1naW8xdW9UeWhkNGlWa19Wc3IzaUd6eTNvMHR4UkpDZURVSnVXWXRfckVIM3dqRnZBc3kzMkdiQlJLUUdHQUYxSENWY1lIZXMyQXNDcDdhZGlEQUZMONIBc0FVX3lxTFBORXdONFIxQUFMaVQ5NEkxUWt6SHdtZ2JZWHFKdFZOZnVtaTFJNjhlTUYzcFQ1azg2UGtEU1FmTnhKaW5yOUtON1Nzcm9QcWlNallvV1N4S3I2c3E3RTdid0dzOWpMTTg0TXFvZ2prVUdCYkk?oc=5",
         "headline": "[단독] “급하다” 추경 3000억 포함 ‘6800억 AI 펀드’, 투자는 570억뿐 [결산대해부⑰]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786495564.0,
         "tag": null,
         "first_seen": 1786527922.7952063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5RN0lCRi1RYl9fS0o0UnNlYWN1UWNNQUY5OEtJN0VOd3llbUV3UVZpbzRiQmNQcUNhZmdHeTJZbHFHQ3EwOFN6Mll0Yjd3WnlYUVMxNWdrcjliN2xJdlFCUUV4dVlOQy1tbUlGYTg4RVhXLVR00gF0QVVfeXFMTlE3SUJGLVFiX19LSjRSc2VhY3VRY01BRjk4S0k3RU53eWVtRXdRVmlvNGJCY1BxQ2FmZ0d5MllscUdDcTA4U3oyWXRiN3daeVhRUzE1Z2tyOWI3bEl2UUJRRXh1WU5DLW1tSUZhODhFWFctVHQ?oc=5",
-        "headline": "[오늘의 채권분석] 남은 2주의 백투백 셈법",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/12 09:40",
-        "published_ts": 1786495218.0,
-        "tag": null,
-        "first_seen": 1786603524.28401
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 02:47:48",
+  "updated_at": "2026-08-17 03:00:38",
   "yields": [
     {
       "label": "3년",
