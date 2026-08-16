@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMnhDMzMtNV9QNUUxcEFqUVJNZDMyOFZ0Y0doVU93azRha3huWTYtaU5vT2d1VkxFX1daUVpXUEVrYW8yQjdrVUFZc0Yyc3RIQUw3QTV1dkJha2puYkJFeXNEZW53cXI0RW5scTljZ2VOS3F4cXlvTWhKMnlXY1ljMllaVkk2b0li?oc=5",
+        "headline": "달러·엔 160엔 돌파 땐 신뢰 추락…165엔 간다",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/17 03:00",
+        "published_ts": 1786903200.0,
+        "tag": "JGB",
+        "first_seen": 1786904126.3765256
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGtrUDh0YkhPQ0Q2RElBUUlWRVFzMTBPY2VjejEtM0JjVWVGRC13Zl9OQXVGbzNQYWIta3luc3dBV3ktakw1bzZ6S3kzZ1BEYlBuSEZ2dnJxRHFpdDZqZ0FHMHB0bjlkQUhUVTllZlVZdVFwSjFDbVpjcl84d0JrMUI0T0gxQzdMZTl5aU5HTjNKREoxNUd3R1Zlc1V4dmlvaWxYM0d4MUpQTURiVUZ2eFhWTXNPcms?oc=5",
         "headline": "Treasury bill, bond rates may be mixed on BSP policy bets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786795152.0,
         "tag": "Global",
         "first_seen": 1786795234.4084673
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOb2RaUmYwSTYyOG1wb3hyLXdpcllmOVBpYjl1VXp0YTVRMy1aUnB1ZkxoQ1Q2YmpvNG5rZ1dTZkM1bFRZS2J4YXJsOHZBQWhjaGsyUW5CQTJzV0RtTVd5QkJYeTloaDl5Uk1Jc3plSnQzVlNpNjZ6eXVZTWNUMTZzWllVUGRqWDdJbmRhY2hNUl9TUXZOYnF6aVFFRUZtMWYtakV1T3JyN0Z6WE5KeWpCZjlvNFJwV2JyY3RZNEFHTGNNRkE?oc=5",
-        "headline": "Markets just flipped the script on Kevin Warsh’s Fed: Chart of the Day",
-        "summary": "",
-        "source": "finance.yahoo.com",
-        "published": "08/15 20:44",
-        "published_ts": 1786794268.0,
-        "tag": "Fed",
-        "first_seen": 1786796126.8255987
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 03:00:38",
+  "updated_at": "2026-08-17 03:15:50",
   "yields": [
     {
       "label": "3년",
