@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zR2JHN01HOXJfYldWNkhpMXV3RXQ3MmVBcEJyeGhoWmZBWExZYUs1dE10b3hHQmxjR3ZSYlRYelZWZ29KYXc?oc=5",
+        "headline": "“엔저 막으려 美국채 팔자니 더 큰 문제”…일본이 꺼내든 엔화 방어 ‘비장의 카드’",
+        "summary": "",
+        "source": "매일경제",
+        "published": "08/16 11:15",
+        "published_ts": 1786846519.0,
+        "tag": "JGB",
+        "first_seen": 1786852836.8224442
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5vVkdNcks4U1ZYNUlLcWZPVDlsdTE4cmVsei1UZTUzY1U2ZFA3eVVTQXI4aFVXZnZIQUtYSUdQdHFEZTFULVVpcDZQQUdPal9fX1AxQklB?oc=5",
         "headline": "주간 금시세(금값) 전망... 전문가 90%가 금가격 상승을 예측한 이유",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786722058.0,
         "tag": "Fed",
         "first_seen": 1786724123.4258623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBmMTU1LWp3NlpjTUE1NlRGSHhQTjkzTm5hTHVoY1QxTDY0RWFVZ29ob0RpUEh1TnFfdGtZWE83a2hVVEUwX1ItS3A2S0hubTAwOTZsOXNLWU9XMy1rdm9XOXJsX1ZaUFk1UkpfTWxhQTE?oc=5",
-        "headline": "Warsh and wait",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/15 00:19",
-        "published_ts": 1786720765.0,
-        "tag": "Fed",
-        "first_seen": 1786721435.6489263
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 12:45:49",
+  "updated_at": "2026-08-16 13:01:00",
   "yields": [
     {
       "label": "3년",
