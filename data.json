@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaGtrUDh0YkhPQ0Q2RElBUUlWRVFzMTBPY2VjejEtM0JjVWVGRC13Zl9OQXVGbzNQYWIta3luc3dBV3ktakw1bzZ6S3kzZ1BEYlBuSEZ2dnJxRHFpdDZqZ0FHMHB0bjlkQUhUVTllZlVZdVFwSjFDbVpjcl84d0JrMUI0T0gxQzdMZTl5aU5HTjNKREoxNUd3R1Zlc1V4dmlvaWxYM0d4MUpQTURiVUZ2eFhWTXNPcms?oc=5",
+        "headline": "Treasury bill, bond rates may be mixed on BSP policy bets",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "08/17 01:06",
+        "published_ts": 1786896380.0,
+        "tag": "Strategist",
+        "first_seen": 1786896922.9553893
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sME1mRnlFWTJjNHdGelRvVC1XOGlIeER2RHBkMjJXV0I5d2E3X3kxaXF6U09SWk9hNXpwUEZGY0RielZ2YTFaa2RTZzhGcTJ4VWVyNmJVYWtDRG1CRTVITGhB?oc=5",
+        "headline": "물가상승 둔화에도 체감 부담 여전",
+        "summary": "",
+        "source": "미주중앙일보",
+        "published": "08/17 01:00",
+        "published_ts": 1786896000.0,
+        "tag": "Fed",
+        "first_seen": 1786896922.9553893
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbkVDbzBlUEVQYjY4OUtDMTlTVzdHM0o0OTEwZjJOWDNzNGJtS2pOWDdIeEZnb3ZoTVhNa0RZVl8wMklYTHBuVU9OZm9Za05EbDZqOThkb2dDaDdWRlRYX2wzWHJUczZPVEVPNGEyTlF6MEpMbWVYYkhaZ29hM3FrQnQ2MnZaUW5lQlBHcG1vUWV0aEs0NTIyRVV2amlPbHpfMkdLemNTdWdoeGg3aTB0SUxQNXhjcDJydXd0aE5FVXNYclJmNUpaaVBpaE5sSUNDZjhNc0FOSWw?oc=5",
         "headline": "The Odds for a September Fed Rate Hike Plunged to 25%. Here's Why the Betting Markets Might Be Wrong",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786794268.0,
         "tag": "Fed",
         "first_seen": 1786796126.8255987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS0R1NG9KNXd0WFJSelBKN1VkRmVHRkZ5ZE5VQU5adGJqbUxZem1BcnhkbWNfWnI1cnZ2X2h4VC0tSmxkZk9rQjVPcUlfZ0xBb0FNYzVuQXNFcEVZOHJ3VkVTcFdCRHBIOEhXV1dORVVNaEp5MWNYQ0JibFlrakhVci1zalcwRzVXTW9GdUdIMXdjWFhsNnZ0alVzZw?oc=5",
-        "headline": "Nvidia's AI financing push raises new questions over market leverage",
-        "summary": "",
-        "source": "invezz.com",
-        "published": "08/15 19:33",
-        "published_ts": 1786789989.0,
-        "tag": "Strategist",
-        "first_seen": 1786790109.7730124
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObDVlWXMzUDhoQkRrWXBoNVJWenlaM3ZFSXRLZHBraV9FTzFyUVpycUFxU2lkRVlWWW1aSEZhNWZ1ZUJzdFBVVmx5Z0dXTmxGb1VBbGdOLVdEZE0taF9KSmVTdzhoSkYtQVFIejVFWlgxRVBmVDZUclAzeEExZ25peERlNktrT1hyNzltN2FycjNQM1ZfVUswbkltLXVGZ0Zqb1BueXR0REpYb000YWIzZWloNWlxRmFISUFwRno0RV9vVW1nZWFiY29LWW9ib1c0Uk5sLW1pUFc?oc=5",
-        "headline": "Could Bond Yields, Inflation and the TSX Rally Reshape Canadian Retirement Portfolios in 2026?",
-        "summary": "",
-        "source": "kalkine.ca",
-        "published": "08/15 19:22",
-        "published_ts": 1786789320.0,
-        "tag": "Global",
-        "first_seen": 1786797580.6322124
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 01:01:36",
+  "updated_at": "2026-08-17 01:15:45",
   "yields": [
     {
       "label": "3년",
