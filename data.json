@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2tUSGM3V3pqVFRVdFVSQWNMX3pBQUs5dWJjdHJ0UEs0ZGEtNmE4MHhyNXBXWVVrZ3g2NlNtMzBQN0RCSlkzSVppRUJCWnNzWTRWVkpCTDQtOXFTMmhteVRuNG9RUnZyNHJaR0JYLWNGYkpRQklyT2RBTkV4bktQUkc0eVgzV1lKbllvZQ?oc=5",
+        "headline": "인공지능 경쟁이 신용 시장으로까지 확대되고 있다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/16 13:44",
+        "published_ts": 1786855474.0,
+        "tag": null,
+        "first_seen": 1786855524.7778172
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lYjVGdFBPSTFuZXgxUzNGbkVHalc5TkNMX3JzaFdWVC0wX1pxRERoU0M0akd5b05obmN5R0Z4OUZDUEtITlFDNHlQRmFnMlJPX2hLZmNUdFBoRDNhbGNrS1pJMy04Q3VUQ0dGVXNpNkM3QQ?oc=5",
         "headline": "금리 꺾였지만 스프레드는 ‘쑥’…회사채 투자심리 꽁꽁",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "파이낸셜포스트",
         "published": "08/14 09:19",
         "published_ts": 1786666744.0,
-        "tag": null,
-        "first_seen": 1786668325.6255867
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hZzRrdThmd1Vndm1rbzZsLWRhNFFJNzdGelBzeUFJT3V5ZlF3YzhOSHFvMzdYOGljZG1RLXJrQlZTd002QTBjQk8ybHdnVk1XcmFTLThzVnozaHAzUTZrUDlQekVvOEs1WU9QVTVWZU1QUQ?oc=5",
-        "headline": "증권채 발행 쏟아진다…대신·하나·DB증권 출격 대기",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/14 09:16",
-        "published_ts": 1786666564.0,
         "tag": null,
         "first_seen": 1786668325.6255867
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 13:30:55",
+  "updated_at": "2026-08-16 13:46:00",
   "yields": [
     {
       "label": "3년",
