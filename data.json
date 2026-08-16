@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5oMWJ3ODZJY24tRjBpQzJSMm1naW8xdW9UeWhkNGlWa19Wc3IzaUd6eTNvMHR4UkpDZURVSnVXWXRfckVIM3dqRnZBc3kzMkdiQlJLUUdHQUYxSENWY1lIZXMyQXNDcDdhZGlEQUZMONIBc0FVX3lxTFBORXdONFIxQUFMaVQ5NEkxUWt6SHdtZ2JZWHFKdFZOZnVtaTFJNjhlTUYzcFQ1azg2UGtEU1FmTnhKaW5yOUtON1Nzcm9QcWlNallvV1N4S3I2c3E3RTdid0dzOWpMTTg0TXFvZ2prVUdCYkk?oc=5",
+        "headline": "[단독] “급하다” 추경 3000억 포함 ‘6800억 AI 펀드’, 투자는 570억뿐 [결산대해부⑰]",
+        "summary": "",
+        "source": "시사저널",
+        "published": "08/16 10:00",
+        "published_ts": 1786842000.0,
+        "tag": null,
+        "first_seen": 1786842932.6370687
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1rYnVxS3hNYjZjZzRVV0Q3aVhRYVR5c0JtdVBpRlA3XzlCR2xuSm9OWm9WN0xtS0hjdXFzLXN0MHVFOERKci02aXJnLUdZa1B5emJ4dTIzOHZ3RnN5azRKWg?oc=5",
         "headline": "[김남현의 채권썰] 왕복달리기, 한은 신임 부총재 관심",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786467155.0,
         "tag": null,
         "first_seen": 1786471520.7418208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOb0FiQ1p2NDgtS3QydmZFUnNjbTV2Mi1VakRZY3g1cXRlSlNhQ1NIMTNhTVk4TmE3QzRJbk01SzVBLXZrcDRyMFB1M3lwRUdIVmlWTnhUN2J5VzctV0I5eERMTjh3aS1sWWJUeTd4QThvQmpnZUVBRk5HM3Ytc045RndMSlRmUnJlWEpmQlhCLWpVVXU0M00zRU1xYUFmbDlWWXotR1BQVndqcGZSa1ZBQnVOcFk0UGJoUkNvZzM0ZDJiUE05SHMwbVVuaEFOUQ?oc=5",
-        "headline": "슬롯 무료 칩 탄파 데포 AI 시대 디자인 패턴: 역사, 현황 및 미래",
-        "summary": "",
-        "source": "Gwara Media",
-        "published": "08/12 01:34",
-        "published_ts": 1786466055.0,
-        "tag": null,
-        "first_seen": 1786469434.7200894
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-16 10:00:58",
+  "updated_at": "2026-08-16 10:15:57",
   "yields": [
     {
       "label": "3년",
