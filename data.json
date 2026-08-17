@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBueVBHNU12VWV5djVhNTYxQXR4Rzg1VWZRMmNsWkFFYnpib2FQTUJnODVSMjMycU1qTGlMMk5scF9SWmhBWkV1a0JxLUw4d0ZHY3Vnd2I2TXY4MVNXN2IyRmdldkdxSjZt0gFuQVVfeXFMUDR6WDZNQXVNTHFQV3RKZFAxRmZHR1BjR01RV2w2WHFYNXlmYTZVejFMbS1wc3dDQkt4Y05FSjYwYlNnUTZpMFhPeHR1RDFzZjR2U29ITHl2STVKRVlEU2JQS3ZZZk54RUFQTWd6eEE?oc=5",
+        "headline": "반도체 훈풍…日 키옥시아 15%↑·中 창신메모리 12%↑[Asia 마감]",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "08/17 17:03",
+        "published_ts": 1786953801.0,
+        "tag": null,
+        "first_seen": 1786954525.5301375
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTY2aWlaQnpObnoySjJhNVU2NVNRTUt6enBXWk14Y1FvdWhiNnJucEZkYlg3ODFTZjdVU0l0OXhhZlJ3by1yQ1BLUGZxRnYtU3JRTzdvNURCd24ySzFXd1VvNGxod3BTTDJPdHd5TXowV0ozeHlMTkV3YWVWUlpoQkVjSlg?oc=5",
         "headline": "[글로벌이코노믹 사설] 예산안 통화정책 주시하는 회사채 시장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786693560.0,
         "tag": null,
         "first_seen": 1786874435.8076823
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9MdmNsUmRxc1UteHlCSFp3YlBkUGl6dnB2ZldXaFp6YmZTUUVYVDdwaDFiN29WdVMxR19ZQW5OeS01N0NWTVoxU0VsTjZ4RC1EQV9Qc1VTUHp1dW04dzFBYzdCaw?oc=5",
-        "headline": "회사채 금리 뛰고 유증 문턱 높아지고…대기업도 눈돌리는 ‘메자닌’",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "08/14 16:38",
-        "published_ts": 1786693085.0,
-        "tag": null,
-        "first_seen": 1786693523.3890293
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQjZudnZ3NFJja0tiaTYzcGkzZ1RhS1JFcm9MWkw0NFczUTBVbFNfVWlIYWxPS2lEZmkzZXRramo5VWl5WEMxVUw3SXNUSTg2MHNlR05wSVk5V0dleGs0SjdxMjcwMmI0VlR4VlNyYXlFZUNCTjRrR3M1ZV9IZFRKakZXcVhUbmtSTDJWTU5WZHdEeFpaWHNhZHlNZ1NGb0YyRE81WU9rUnV5R2pDb0gwMGRjOXB2Yk1EMDMtZXl1TlpCMGEwTkJMTndEb9IB0AFBVV95cUxNb0RYSXh1RjVPNUtNX2hjT1BaUldRdHpJQVpYSnVwZ0hSLUFNRXlpYXphRXpUbWI3Z3dMRFNCNjFpc0VhbExJZE9lRm0xalR6VGcyNXhtcEFQYm96eXB6d0ZRZHJ0S0tTV3hra3YzQ2tiMmRBMFFnMXpNeEV5TE1QOWl3UkljYlF2QXFGVGdOb09jN0lxX1RMWXBQRHp3am1xQ0k1Q3dPaG9kSE9xeDFhOGtrQmxfajBOT0E0bWg1cEQ4X2d1ckdhVDE2aFZXaDV1?oc=5",
+        "headline": "Equirus' $20trn economy roadmap: List railways, cut TDS, end STT & more",
+        "summary": "",
+        "source": "Business Standard",
+        "published": "08/17 17:05",
+        "published_ts": 1786953959.0,
+        "tag": "Global",
+        "first_seen": 1786954525.5301375
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nRlN2ZTFCMlNzNzctZGVtSTk4RFBFd3ZRRTJ1Y0V2blRGTzJQOVpHYzJiT0pwNlVlWmoxcnFqZlVncDVIcHJOalYtYzJmRm9uOHc?oc=5",
+        "headline": "日경제에 '아베노믹스 유령'…엔화 약세 구출 백약이 무효 [백석현의 환율노트]",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "08/17 17:03",
+        "published_ts": 1786953814.0,
+        "tag": "JGB",
+        "first_seen": 1786954525.5301375
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3gtMUZsOEEtT0h3XzN1SzNzNFlZRmxEZUw0NjRQbjdMa2pKWnlMd0Fxd3pRcW50bEJPTWVrb1E5WHVxSzZpNTJDT0F2X3p6Uk1lcE0wQmlSS2lRaEROejMtb1BFaEQ1VkRjUU1yODdNWE9nbXJ3WGJ2WjRTc2FhNlFGbUc1YVVNZHFZaldIT1FlOWN3cDJKbzFJRTVNZkl5WWdfaEJ3?oc=5",
         "headline": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786929425.0,
         "tag": "JGB",
         "first_seen": 1786930229.486252
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORDdTYy1IMkNOTFg5VW9zWGZNbTl6LS1BX0hvZVJoOHAyMmRuMkpOeU5YQTBWWl95NHhMX1lLZVVhOUVzdWxBMlo1SVJTM0VzNlNwWG4wZEtSaTR3SGNBWEJwOTRiaHB3Q3pzaGl4MzdVclNHdUlMbk1RQ2QyUlJ3MkVMR05nWjl3a3hMOTFERlRTYVJwcGNaeVB3?oc=5",
-        "headline": "Japan 10Y Bond Yield Hits Near 30-year High",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/17 10:14",
-        "published_ts": 1786929240.0,
-        "tag": "JGB",
-        "first_seen": 1786932038.8741817
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1lWjlQUmV3LTVnTlk1NG1keGF0RmxpRXp2OFdjZnppNzNMYUczc2VqbXMzLXd2Z1F5RDYyblZPT2c1UlJlanIxVV9hUmZYSTI4?oc=5",
-        "headline": "Tong's Portfolio - Leverage won’t cause the next sell-off ... but it could make it worse",
-        "summary": "",
-        "source": "The Edge Malaysia",
-        "published": "08/17 10:00",
-        "published_ts": 1786928400.0,
-        "tag": "Global",
-        "first_seen": 1786929223.9764173
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 17:01:01",
+  "updated_at": "2026-08-17 17:15:45",
   "yields": [
     {
       "label": "3년",
