@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JYl9MQ0h1dnZ1ME9taS1xeDRhMEFyRXpJREtLRzdueER2YkdWLTRXRENOaXg5RGl5YTNidWZMVm9RRmp0ZlFZcFlEb19lLUR2TVBZNERn?oc=5",
+        "headline": "돈가스카레로는 달러당 62엔인데 시장에선 160엔…금융시장 흔드는 엔저",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "08/17 16:15",
+        "published_ts": 1786950951.0,
+        "tag": "JGB",
+        "first_seen": 1786951831.9267638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOX0JGbFlFeGJsLVdjc1BCNnFuZFFQYkFPQUxuZnhoN0xGbThUX2pnYnZEbnF5a0NiMHFNZ3YxRGY0d1IzdW85RXFnTENmb3pWNUY1SnlFYlhDeG41SENiMEtIQ1ZVZE9Ndjlid1d5MmR5YmRzYlJHSHpnT1RwcXZ6RkxtMXp0dFlJVTBjaTFWYjhpTk5UNDRqQzY0czJJbl9mVXQ4ZDQ5anpGQQ?oc=5",
         "headline": "Analysis-Emerging markets march out of ‘valley of tears’ as investors diversify",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786918440.0,
         "tag": "Fed",
         "first_seen": 1786918789.09951
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9JMW9HYzhLYzI2T3FWV2VDYkg3VFQ5ejgtN3FaY2ZySFc0VHJVRTd1R2syMWNIdVN0cUNOZkVoZHdTUmVkMTVnUUdrRGt1Nlpta190ZDUxQWRtbV9YNi1fSEh0bnR0UURJaHo3U3k0QmVLek4zdVFMbWY3em5KX0HSAYcBQVVfeXFMTzNPN3hINjhIMUJVeldYTl9fenhLMzFfNkVBVzctU29QT1hELVppNEFnVVFBUFNvdjZlLWFWRm11YjNqVFdhQjRMUW9sOHBlczI3dlpDS1kwaGlpZTg5S2h4cmpKOHVaWktNVjlQbm1jSmZZbERKX29pVGg2eVI3T2lzOXN1RTdv?oc=5",
-        "headline": "Is US drifting towards 'silent default'?",
-        "summary": "",
-        "source": "The Express Tribune",
-        "published": "08/17 06:33",
-        "published_ts": 1786915980.0,
-        "tag": "Fed",
-        "first_seen": 1786916724.945607
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 16:15:55",
+  "updated_at": "2026-08-17 16:30:53",
   "yields": [
     {
       "label": "3년",
