@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WZTRic2p2cFI4cXRPb0ZGNWhRbjBuQ3FJd3Z3dmJ1Mm1wQjFyUzd4Z3JvOHBzZVdWVk84Wm1LUFJXcGQxc1VpTmdtZVNoTjkzTloxeDVVVXVOd285WUkzbGRxZmVtc1NIQ01oQkQtUXRFZw?oc=5",
+        "headline": "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/18 04:49",
+        "published_ts": 1786996187.0,
+        "tag": null,
+        "first_seen": 1786997730.5208888
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCU19wWlR6RUxJaFl1X2NpWDJhQm5wTXZwNDRtaHBiUkFmeDJ0VHZLemlDQkt0Z192TnVKS2hvc3Z4WVhadnp3Qy14bnNCTVRFdUI3anlCTzJlSHlqbTJvVTVKMVF6eVVqYXc?oc=5",
         "headline": "AI 부채로 30년물 수익률 5.27%…비트코인 경쟁 가능?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786842603.0,
         "tag": null,
         "first_seen": 1786843831.4638677
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Uko4SlF0b2dENVBuUURPTTVwNlY5X1FBNl9WS212SWM4Q3ZZajBWdXhnc3o3dlV0MWxpRHVaTWhubm1ELXQ5dFJQWEppVmdna3NQNjdHUEZtWGdaaUg5TtIBZkFVX3lxTE5DdnJpTmtDdHFySC1meEdkak9pd2ZOY1hBTVp3MUdncjFzMlg5TmhxbGhXYlVFU1pfVmZEUGp2UFRyWHQ0c2ZjVkxsSnQ5VlFqWERmNi1PaGp2el95R25XblpzcloxUQ?oc=5",
-        "headline": "크레디트 스프레드 안정, 채권 수요는 미진",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/16 08:22",
-        "published_ts": 1786836141.0,
-        "tag": null,
-        "first_seen": 1786836690.4994473
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 05:01:05",
+  "updated_at": "2026-08-18 05:15:51",
   "yields": [
     {
       "label": "3년",
