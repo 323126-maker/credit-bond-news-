@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBna1I4Uy0zM1VfYjZheFRoMTVsUXpxRXpPaDExVjNiTzduZlNlNWF6SnV3UVNKR21jWDhqN2ZXV3VEUjlCeUhXSFdMdWpZbkxJeE5Z?oc=5",
+        "headline": "미래기금 내년 추가세수 최소 60조…“적립·인출 재정원칙부터 정립해야”",
+        "summary": "",
+        "source": "서울경제",
+        "published": "08/17 17:33",
+        "published_ts": 1786955629.0,
+        "tag": null,
+        "first_seen": 1786963523.41237
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA0VEI5UTYtQnh5Rm9zX2QzMklpSDlHN2g2Q0RzRGlDWVo5bERPOE1wTTI5dXUwOXlVT0UxRGhRSE5VSVFXbW1JVG03YTdtVjFhbm5uZzYtNnlVT18zZUl0RDQtWDJBcjllNDRmcw?oc=5",
         "headline": "연준보다 무서운 ‘글로벌 긴축’…한국 금리인상 전망 1위",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786567500.0,
         "tag": null,
         "first_seen": 1786687239.5861888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE16UjZoeUQzbXVvQ2hnakpDeklzYUswckp1SjhhdmVNdjRuUnZ6TTI3bTVxWGNZZHhJZWJCQ2xROVZpY21Fb2h2bHRBZF9xRWc1RE5JRg?oc=5",
-        "headline": "언제 어디로든 갈 수 있는 1548조 … 투심의 향방이 보인다",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/13 04:33",
-        "published_ts": 1786563180.0,
-        "tag": null,
-        "first_seen": 1786688125.1617556
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 19:33:55",
+  "updated_at": "2026-08-17 19:45:45",
   "yields": [
     {
       "label": "3년",
