@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTNwU2szN3B6RTd3dTZpZzZEZzV4RmJWNVpLcUpXczhaVkNpYllQUVVRV0toZ3llYy14d1Vpc2d2S3RGNWJscEhjR3QtNW1rLV9qY1NidmFTbnZZRlNhZzFkR0d1eHdjWnlTc3ZqU2tKR2NXZjNTOThWVENaeGE3bUV2RlpUOVF3bTJyWmZDNmtPLXdjbGNvZzNOTWFOT0dRTHBYSC14WEJwclE?oc=5",
+        "headline": "Suppressed Bond Yields Made Safety Worthless and Risk the Only Trade",
+        "summary": "",
+        "source": "stonex.com",
+        "published": "08/17 22:12",
+        "published_ts": 1786972338.0,
+        "tag": "Global",
+        "first_seen": 1786972524.5289814
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2RXWjIzSkVNb2U1MUZ3MXBNYnFEYmRBUUJMclBtZzlpYTRBRURCaW1xenFQV01uWVFpVXo2ZlJqNjUyeDNYb01nVFlLSjZXOEVQT3dwSlpaNW8xMkZ6UldPVUMzRkNUYlVMMkFZM1c3Zzl5dVI1a0VJTTZZczNBbg?oc=5",
+        "headline": "Mohamed A. El-Erian: Japan second-quarter GDP growth misses forecasts at 1.1 percent",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "08/17 21:35",
+        "published_ts": 1786970120.0,
+        "tag": "Strategist",
+        "first_seen": 1786972524.5289814
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQWGlDZlYwX2RDZUtKcGRYcEhpNEZWT3lHekpkdThwSjYzMWFUd1BJM29VeVBSNTRCYVFiNkFoelN0Z2FyVGR2MU9KWGRNNnpPbkVKZU9LemlMMDQyRmMyRHExb05rSTJQRnRwUExVcDhINThEY3M4ZFp2bXpkTUR1NW9Ud3hkTXFqeEV6NVU3endZSmx6TTRESHFBMHpHZ2ZwTFQtRGVVRjNVemVFRjdRT0p3Z3hDS0tLQ3dzT2pPaE5qbXQ5bGtWeVlTQVNvU2xhVktqdVFhc3k1MDNfX1JaR0NIS25vY2VUVkRFTEZOR01mNUpuV1d0eTBpYWJMT0FGdnh3NmdaSXJnZll1Vi10aEdjQVVYSlZRTkFscUVESEdhUzZSUEI2VjdjOFlYUnJxQnpUVm5mSmg5S1VDVHJpclI3VWxvREw0ZWc?oc=5",
         "headline": "스탠리 드러켄밀러, 브로드컴·인텔·마이크론 등 반도체주 매도···아이렌에 ‘빅 베팅’",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786948002.0,
         "tag": "Fed",
         "first_seen": 1786966229.9152722
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM3pBSUFlUUV5UGtONGxkUUdEZ3lDQVNNay0xeWxaTjZFNm5wZXB1dXJTM1pxU2NsNnc3WGZ0ZlBrbnJsazhRV2VSM01RaUhXZkRTQzZpSjFDX09DdktqV1FSQ2JjY0JfREotbEU5ZVNxbk1RVklQRTVpeXNUR3k2OGEwWkMwUERWdHRwRDR3aWE2QQ?oc=5",
-        "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "08/17 15:22",
-        "published_ts": 1786947720.0,
-        "tag": "Strategist",
-        "first_seen": 1786949124.0068977
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xeHVCemZnN2tKMHZNbS1ma0p1NEZPOG0zTTlTU0xmNWd4S0oyVUswcEVfcGlvMTUwaU03dzVmbGZHYzNsb3pRM0YtNWtfMERqRzB0aw?oc=5",
-        "headline": "연준보다 무서운 ‘글로벌 긴축’…한국 금리인상 전망 1위",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/17 15:08",
-        "published_ts": 1786946880.0,
-        "tag": "JGB",
-        "first_seen": 1786950037.358392
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 22:01:02",
+  "updated_at": "2026-08-17 22:15:50",
   "yields": [
     {
       "label": "3년",
