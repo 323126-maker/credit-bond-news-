@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpJanZ2U3RCRDNSQzM4ZHlfODlqWm5OYjNJdVgzTHFOTGJEemV2Q1FHMmtIaHE5amlnZDJRMmhYVFFjUURTNXRrQ3hDS3JYaEhUUDFBTWpFYXFGblNRQUhHcXJpUWtod2NkWFRCS0V0YnNiQVFfZFVaVDYtZ2F0Ym82VzV4dF9tR0NQdEdn?oc=5",
+        "headline": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/17 13:06",
+        "published_ts": 1786939560.0,
+        "tag": null,
+        "first_seen": 1786940601.1855104
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUVViVnpoVzhvN3Jya2wwMTRxOVlURmgtUndBRXMwWDlqLVlBZGlGa0MzcWxHV3psVkJkT3VSZFF2NllzSlBmTzZDd1hzWmhlZlVzTTlla2o3SVZBSjlxbW4wMzVBUHpKaE1pSmZjZ29wTDNHMGxmZTlEb1VqazJ6Yw?oc=5",
         "headline": "알파벳, 첫 호주달러 회사채 발행 검토…AI 투자 부채 급증",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786690030.0,
         "tag": null,
         "first_seen": 1786926633.067822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE16akNkNWJUMUJjT2dfWTNZZDBSSDUtY1M0d2I3a0x6ZzE3cUZ0QlRoajFkaGd1RFRHU3Z0SVNiUmRXZjg0RzhYTXlrU2t4WDBoYkN0ZUE4VG92OEVWWG42Unp1d1NQbVdCTmpUVl9zQzdZUQ?oc=5",
-        "headline": "9월 회사채 ‘만기 쓰나미’…7.5조 차환 물량 몰린다",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/14 15:46",
-        "published_ts": 1786690015.0,
-        "tag": null,
-        "first_seen": 1786691731.384523
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpJanZ2U3RCRDNSQzM4ZHlfODlqWm5OYjNJdVgzTHFOTGJEemV2Q1FHMmtIaHE5amlnZDJRMmhYVFFjUURTNXRrQ3hDS3JYaEhUUDFBTWpFYXFGblNRQUhHcXJpUWtod2NkWFRCS0V0YnNiQVFfZFVaVDYtZ2F0Ym82VzV4dF9tR0NQdEdn?oc=5",
+        "headline": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/17 13:06",
+        "published_ts": 1786939560.0,
+        "tag": null,
+        "first_seen": 1786940601.1855104
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85Z05kTnB5a3dzcWN6UWdBNTh0a0xNUjFFeDEwLXBZdXRvazdCQUFQTjZ4c2lRbncwUDJmSmRUSjB4ekNiLVVkYklQOEhkc3JBdmtYdE9JVWpKMlh5clU3NWdYWE55dElMR3hYdkR5RlY?oc=5",
         "headline": "[채권-주간] 수급이 남의 편…10년 입찰 등 스티프닝 압력 경계",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786523541.0,
         "tag": null,
         "first_seen": 1786524323.8281355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BV0FYejZKS0dTeXBqQVJyZUs3NzFPU2I2YlJSaFRqWXp6a05mVEc3bVl4VE5Cd3QtVVgtSDcxdkJDMzlON1NIV2lyNy14cGkwd1VQSUhuRFJfUUQtMkVSdg?oc=5",
-        "headline": "美물가지표 관망 속 국고채 금리 혼조…3년물 연 3.791%(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/12 17:17",
-        "published_ts": 1786522637.0,
-        "tag": null,
-        "first_seen": 1786549527.3507054
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 13:15:46",
+  "updated_at": "2026-08-17 13:23:42",
   "yields": [
     {
       "label": "3년",
