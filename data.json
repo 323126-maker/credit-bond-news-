@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MVGpsSG1CQk1wNDdZQmhhMFBGZnRMOVhnazhUdE5abEdvSklKR0Rvb2lTNEttMHA4eHA5MFc3LTVQdE1LMC1wZUhGMEZvTXBVVWthdGFlMEs5Ri1xRlpMWG1fWjNHczhxWEl2VkhuUHdBd1XSAXdBVV95cUxNVGhZQlJtQVBETDhQa0tHVThVNXVLcUo4THM4QllfeTFGSWVyWnBJYjBWODdsZ2FoZlhQcVR3QUNZT2J5dkpKdW9VQTJnTWlsZGRJZ3RWZjAtM0xuSFFyY1N1a0NNT2dYZm9fR19qdjNUVTM1WGloVQ?oc=5",
+        "headline": "일본 10년물 금리 2.93%… 30년 만에 최고, 채권시장 ‘휘청’",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "08/17 11:37",
+        "published_ts": 1786934273.0,
+        "tag": "JGB",
+        "first_seen": 1786934725.9402747
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMdWZfWXJ6aEY2WmtaOVNiY2JQUGtDN3EtbFVUT3BlY082SU5QX2JNMVNVTUcyZ0xOSENwcTV0TC1MS2dBcnl1OEwyaF9mdHZH?oc=5",
         "headline": "Japan's 10-year bond yield hits three-decade high as inflation, central bank pressures mount",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786868102.0,
         "tag": "Fed",
         "first_seen": 1786880683.7069533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85TTBiNS1ZZmdoLUs2V3RZNk1MTEMtWnRuUUQwRWFiRnhDZ3VNSTRfd3dBb3BDR2FHNGhjTG5lRjBwMWplQ2REZzdMX252MXVOR3BRNllPQkE0MzBUcVJmX9IBeEFVX3lxTE9oem5SSElpVmp3NzNUNUtaQ2JZYk9pUTdLQUpObFRGaWlfblFHa1RjNEZqSUVtNHlRb2xTdzJKSzJWTC0tdkpVeTdzQmJ6ejlSNWdYZmdKMEY3dGRCZUxnLXRIUFlQUFpSZHNGRzh4VjYxTHRhX1lQZQ?oc=5",
-        "headline": "\"엔화 지금 몰아서 사면 안 된다\"…28년 만의 미일 개입엔 이유 있다",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/16 17:12",
-        "published_ts": 1786867920.0,
-        "tag": "JGB",
-        "first_seen": 1786869030.4958258
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 11:35:12",
+  "updated_at": "2026-08-17 11:45:46",
   "yields": [
     {
       "label": "3년",
