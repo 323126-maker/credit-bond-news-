@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5TNjV5TjZNamxwQVNyTmNZZnp5Y2JPSEUyQXNKNXNWUkoyUGRYQjYxWUVOWVc4dDF1ZWpVNGZmQkhCVHNxdnhEUFNPWDNxcXBSUzR0MkJOX1RHUQ?oc=5",
+        "headline": "日경제 '진퇴양난'…성장 약한데 국채금리 30년만에 최고 [최만수의 재팬 인사이트]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/17 11:04",
+        "published_ts": 1786932252.0,
+        "tag": "JGB",
+        "first_seen": 1786932924.5796175
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQaU5UN2JjTjdzMk5qZllNMktNMFY3aFY4ZlVMcEJtaWNGbm85LTFsbHFxam0wVlJSVm9VYkxCamEteVJlVDZkbmF3dWdkZWI1YXo1R2tZT1FXd3pDQk9WTGk2X3Rhdnk4bDk1ZDlhV3NOZ3NqdER4N1pvdmpaRENYNVJrTGZfNHlXaC1pS3dnN0FPUTRiVndpcEJjYjRrZUNZbFNWZEV3WHdYTUI2QWRva3JLUFI5dGo1Wk1oc0pTd0RFUVYwSDR4TW1UdWZHeUdhbFFKYm10Qm9penhBR0dNS0J4SGlQdHZpYjBEUDRCX05mU3Ruay1KeEo1Q0l5ejRsNldHSDZ1dFRRWklFOXRv?oc=5",
+        "headline": "Dow Futures Slip, S&P 500, Nasdaq Futures Climb Ahead Of Key Retail Earnings, Fed Minutes: NLST, AVGO, LUNR, MRK Stocks In Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/17 11:02",
+        "published_ts": 1786932120.0,
+        "tag": "Strategist",
+        "first_seen": 1786932924.5796175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVWs4NzRpQ2JkYy05Yy1QcTZqeUxOdTkwSkMtZmJaU21valFhYWp6MG9wU21aSzVkUTA3TU13bWxMSmFvMU5uMklqZTJPLTZ2V3hlSmFXVlFaN3lYZmZXT0pqMHozc3Faazg1QXVITHM0T040N3lCckxLWkR6UTduMWlJMmM3ZXNiR3hFMkpuQkdPaXJfMTJHWExPa1huaS1GV0E?oc=5",
         "headline": "Is a critical moment for capital arriving? The AI narrative shifts from technology to financing, as tech giants face cash flow strain and bond markets sound the alarm.",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786854451.0,
         "tag": "JGB",
         "first_seen": 1786857324.172029
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9aRExycEtKOXNWbFRmVGR1MDY0cHZjT0lVbF9mb2NDTHpHcXlsQllKbmZ5alVzOXFTei1nWkx5RGVzWDctTlljZl9pd2RINzNXaUJSOTR3?oc=5",
-        "headline": "“절호의 기회 놓쳤다”…‘엔저 저지’ 美日, 금리인상 동상이몽[디브리핑]",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "08/16 13:00",
-        "published_ts": 1786852800.0,
-        "tag": "JGB",
-        "first_seen": 1786853425.661314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNT2ItSG9TMXJDM21RUllxQUxIRS0tSmZPYW1zdF82ZUVSQUpxdk16MHhmQnJvLVpLN2RLcndWNHUxeElVZ3FQbDhjaThCTmt3S3dzdGdES1EwYktoSUtldEdkbDJISndrR2JVei1FYlZERUtVMExGOHRubUVMYnBqVUxXdVF6QXNId0h4Mmc0c2NEV3RxX1A5Q0pvY1RGZFBPVVlpTWp6S090d0liY19ZRFFVVmlLMWowZ1pTQS1aMEJyQ21iQlRvWk1yajNOTFJyaXhRRnBtVzVEMWNVajhqNm1sZ08zbHdnOUprNWNCUUpGa2VrTlZWVFpuXzdSdHZoM0VVWnZzaEhCZXhKU2ExbTRSQjRNQUFtVnB3?oc=5",
-        "headline": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released",
-        "summary": "",
-        "source": "WFMZ.com",
-        "published": "08/16 12:38",
-        "published_ts": 1786851490.0,
-        "tag": "Fed",
-        "first_seen": 1786891972.3714516
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 11:01:00",
+  "updated_at": "2026-08-17 11:15:44",
   "yields": [
     {
       "label": "3년",
