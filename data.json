@@ -392,14 +392,14 @@
         "first_seen": 1786862725.5932477
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1OZVE3d3N6WEVIWGplc0RHT1RYSVFfVWV3aWVrcEx4dmlUbkI4ZXBsVDJQd0dnb3FqamhJbHc1bzhIeXdHN0FoX2U3eFhYZ0EwVVl4bUM1V2oxZnd2ZE9RSXl4NVFTbVN6?oc=5",
-        "headline": "하반기 채권시장 \"우량채 매수 지속\"…美 국채 수급 불안은 변수",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16WEkxdnNaYzYwQTJ4UE1ZVGJqdGwwOXh3YnFuUS1kWDZmTnlLYXlkSDNDb19CZVRsMjZHTmgxUWxYdUFzTGdOVVo4RGdOdktXYmdKajlLek52bEVLVHQ3NHlQSFRJUzBqNnFwaTdvNlA?oc=5",
+        "headline": "[뉴욕채권] 베어 스팁…美 소매판매 실망이 오히려 장기물 약세 자극",
         "summary": "",
-        "source": "ebn.co.kr",
-        "published": "08/15 06:00",
-        "published_ts": 1786741200.0,
+        "source": "연합인포맥스",
+        "published": "08/15 07:17",
+        "published_ts": 1786745820.0,
         "tag": null,
-        "first_seen": 1786765529.5002165
+        "first_seen": 1786975461.717155
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lVnNmSjU4ZzFYT2JoWS15QVV4Rkp3MF83cmRGOHhUQW5XM21zemZidDh5TXB4c0xEdlgzeEJ2VFZqa2dpRUxmMi1oX2JoRmJIU0dWRWt0MXkxekNNZG83ZUpteHc4dFJwemhiWWlaZkxzUQ?oc=5",
+        "headline": "美 국채가, 중동 분쟁 고조에 하락세 전환",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "08/17 22:45",
+        "published_ts": 1786974301.0,
+        "tag": "JGB",
+        "first_seen": 1786975461.717155
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOFo0LTlFYTVGXy1Ccm9NTjI1ZjRCTXBBaTFtVjRPOUpHQ0gtVUxWbzVTX2JYYkxfaWcyVE51bjl1MkJJS2k0YXc3ZUpVb0xZV3psaWJuU0EtbldwdlV0bUFKQllURXRpRVRMdnptOXFxU0IyZzFNOGh4VDA0UkNJNjJWd05kSWVYZk80dkE4OUQwVGVGQVM3cGpiN1ZTeGtSd3hVSjBRcDJjYTVU?oc=5",
         "headline": "ByteTree Quality Quarterly Review: A Strong Start",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786953814.0,
         "tag": "JGB",
         "first_seen": 1786954525.5301375
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3gtMUZsOEEtT0h3XzN1SzNzNFlZRmxEZUw0NjRQbjdMa2pKWnlMd0Fxd3pRcW50bEJPTWVrb1E5WHVxSzZpNTJDT0F2X3p6Uk1lcE0wQmlSS2lRaEROejMtb1BFaEQ1VkRjUU1yODdNWE9nbXJ3WGJ2WjRTc2FhNlFGbUc1YVVNZHFZaldIT1FlOWN3cDJKbzFJRTVNZkl5WWdfaEJ3?oc=5",
-        "headline": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
-        "summary": "",
-        "source": "WSJ",
-        "published": "08/17 16:53",
-        "published_ts": 1786953180.0,
-        "tag": "JGB",
-        "first_seen": 1786953639.7814617
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 23:01:04",
+  "updated_at": "2026-08-17 23:04:41",
   "yields": [
     {
       "label": "3년",
@@ -2440,6 +2440,33 @@
         3.791,
         3.781,
         3.796
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 4.047,
+      "chg_bp": 3.1,
+      "series": [
+        4.154,
+        4.12,
+        4.172,
+        4.164,
+        4.214,
+        4.117,
+        4.068,
+        4.037,
+        4.078,
+        4.015,
+        4.014,
+        4.004,
+        3.916,
+        3.957,
+        3.964,
+        3.994,
+        4.042,
+        4.025,
+        4.016,
+        4.047
       ]
     },
     {
