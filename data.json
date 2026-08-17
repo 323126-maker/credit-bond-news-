@@ -102,6 +102,16 @@
         "first_seen": 1786999525.7510855
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBJWndzenJfV0I0bzFvTUJtNkdPMFVndXRIX0VNM1lKRkhFQ01UU1dENVphOUdxYmFCaFVYMUI3b2U3SmxJZ0h2aDdOTkxCcjdPelJtWFUxNFA4VDhmLXFlUS1BOUZ1N2hxazg0OXFNTkRmcUkybU93?oc=5",
+        "headline": "무디스, 강력한 현금 흐름 전망에 TKO 등급 Ba1으로 상향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/18 05:11",
+        "published_ts": 1786997460.0,
+        "tag": null,
+        "first_seen": 1787007028.414631
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WZTRic2p2cFI4cXRPb0ZGNWhRbjBuQ3FJd3Z3dmJ1Mm1wQjFyUzd4Z3JvOHBzZVdWVk84Wm1LUFJXcGQxc1VpTmdtZVNoTjkzTloxeDVVVXVOd285WUkzbGRxZmVtc1NIQ01oQkQtUXRFZw?oc=5",
         "headline": "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786925655.0,
         "tag": null,
         "first_seen": 1786935639.555619
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fM0dyX2ExN3E5U2V4Um1sMmg0bURncWhrU0pjYXdYVUg4RHl5NDRkSGdTZFJGN3Y5YUNVRTZicnZzUFlsSTZOb2paT3l2RWV5YTR1VFNIcnJWSVktUDF1UXNjemlmTWZlOHlqOG03MUs?oc=5",
-        "headline": "산은, 기업 신용평가모형 전면 개편…부도예측·신용등급 재산출",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/17 09:00",
-        "published_ts": 1786924821.0,
-        "tag": null,
-        "first_seen": 1786925722.878421
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWx2WDVHYWxHeW5yRDVSOWxxeTEydjJSODY1SmszTWcxOWhaTzIxMlJRMEpVLUpXb2d1VzJ1VHhOY3QzWk5KQ0wwdDdvQWdUcnBZdWFPSXV6Z2RjQnhCOG5nektKWlpsSWhYY1BLT0FHT0JmMi1TY2RCbk5WUERxSWdTRzlOTURycUtJX09n?oc=5",
+        "headline": "U.S. 30-Year Yield Hits 19-Year High",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/18 07:47",
+        "published_ts": 1787006852.0,
+        "tag": "Global",
+        "first_seen": 1787007028.414631
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZWxuM3ZzQlV5THptLXVoR1NSTUdNTDdIcUxkTmFiRE1tWkhUd1hlT2E2Q1lsd2lKc1VxRXd5bHlpbVBpSnpXN3lKdWFWakVtckNRWE16THhRMDF4QzhtaA?oc=5",
         "headline": "일본이 흔든 美채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786979580.0,
         "tag": "JGB",
         "first_seen": 1786979724.9614758
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdDhVMHlWRU9IWFRSaVVtbm5HVzMzYTI4YkMzYmRaSlo5c3V0ZFVpX0p6WnpZLVJTY1JEMW9wak1fRlRnOVJWSmxYcFBmdTNURTAxaGRzZVgwTHJWdmdITktaZTRwSmEzZTRaWThlRGpFckNaeFkzNE9BLXN3clNyVm05Y3JXdHN5RVY3NlAxenRlR3RnM1l3b2Y4WjIzV2M?oc=5",
-        "headline": "Billionaire investor Jeff Gundlach warns of a market top as AI chips become a 'new asset class'",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "08/17 23:50",
-        "published_ts": 1786978225.0,
-        "tag": "Strategist",
-        "first_seen": 1786978839.7340922
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 07:45:51",
+  "updated_at": "2026-08-18 07:50:52",
   "yields": [
     {
       "label": "3년",
