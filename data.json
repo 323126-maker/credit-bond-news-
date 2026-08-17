@@ -1760,6 +1760,16 @@
         "first_seen": 1786944630.4733355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkVsZHl0R3NfS0xrMDh4YTRBZG14bWc2Rm1qVXd3WEx5UHZtRlpFQmlTOTkyMjlnYjI5U3dnUktvUHMwUHBqRUpaVzlwWDd6bTJDRktucklNUkRfOGs3dUdZUWVmM3M2YmNDY19EVVJqVXpuV0xXRjFXNnpacEdCVXM4RXY?oc=5",
+        "headline": "Japan’s 10-year bond yield hits three-decade high",
+        "summary": "",
+        "source": "ft.com",
+        "published": "08/17 13:36",
+        "published_ts": 1786941391.0,
+        "tag": "JGB",
+        "first_seen": 1786954915.9873376
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9kai1LR0UyTzVaWTc1RDdoaFlXWkw5MVlnVWdLMnJBT292MEFQVHd4cFpLM2pzRTlRXzRhY0doZ3Fpbkc5eU9pNjBGREtKODZEWW1pamVTZEpRd3h3LTNmVnBoNnkxYUMwRm9SdkJ6aU1RVnUwSkE?oc=5",
         "headline": "Japan's 10-Year JGB Yield Hits 2.93%, Highest in 30 Years",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "thecommoditiesnews.com",
         "published": "08/17 10:21",
         "published_ts": 1786929718.0,
-        "tag": "JGB",
-        "first_seen": 1786930229.486252
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA0SURmeW9iZHZJTm9RX05NM2tkdWVTdWgySmM5SFNsOXdxNzdjWkUycTlVazJORHplRWNoTjkwVll0a1gwZVhSWUVZZVlKVTFGc1FvbHpqMmF6elVBZHhZaHM2SnBnUHg4bVU0SnhoMFlEV3lf?oc=5",
-        "headline": "일본은행은 9월에 금리를 인상할까요?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/17 10:17",
-        "published_ts": 1786929425.0,
         "tag": "JGB",
         "first_seen": 1786930229.486252
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 17:15:45",
+  "updated_at": "2026-08-17 17:22:19",
   "yields": [
     {
       "label": "3년",
