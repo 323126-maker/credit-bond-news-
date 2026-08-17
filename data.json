@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVGhDbUt4MlJBcnlRbldSdm9rMmpueW4xekNWUGdSNWE1Qlh3NTk3cEFWNkZnTVpCUGlfNEwtUTlLeFBmZGZvLW5pN241QWRFTmJwUGpOTFpMZw?oc=5",
+        "headline": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/18 06:22",
+        "published_ts": 1787001762.0,
+        "tag": null,
+        "first_seen": 1787001926.5361345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSGxYY0tVUDM2dS1xMzVES1NPdk5OdWdzeDhDZGY3dC1zbVR6bXV4Z1RnNjBNc0FMRHJKSEZEaG5IMmV3N08xa1JFTTNybVpSczE5V0hiRXhqRkk1SVJ5OA?oc=5",
         "headline": "美국채 30년물 19년만에 최고…증시 흔든 금리·유가[뉴욕마감]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786914901.0,
         "tag": null,
         "first_seen": 1786915830.8897116
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE51TGtDNUdVS0JNemthNkZLTGpiU1dzRDJfdXBnY2pqaVRSdS1DOXc3TF9OSXNIajFmU0VrTGZYLWlkSkYyRlBfc3BXTmswdlpMcldtSzgyS01ud25idGFZVW12bDc2cWVJeHc?oc=5",
-        "headline": "포커 온라인 사이트 실패 후 알게 된 점 인사이트",
-        "summary": "",
-        "source": "ilmondodegliarchivi.org",
-        "published": "08/17 06:03",
-        "published_ts": 1786914226.0,
-        "tag": null,
-        "first_seen": 1786933830.7551043
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcmstUmQ3RVJEUHFMczlnNm5tUktESzJEa3BsSDN1YjhiWlJTbmVJZHVPaHo3QTZEOU5CZVFSb2lBNlFlaWwtYy05amJSS3hSTkNZWVZGdWF1c3BGMktwdGhIcHZuWmQtSXVJM2xFUm5LZG1zeDh1TE9IOXRqWHlXazVueGxLOWxvWXY4cTF2OXRmVUoxeXZyNXg3d1Y4UkEzT3NOT09GMGtYTXlJX3NzakplTQ?oc=5",
+        "headline": "Jackson Hole hype outruns Warsh playbook of saying as little as possible",
+        "summary": "",
+        "source": "investingLive",
+        "published": "08/18 06:00",
+        "published_ts": 1787000451.0,
+        "tag": "Fed",
+        "first_seen": 1787001926.5361345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVQT0tiM3A0VjF4RUNYTjdGa2lWOG4wYkF0QTM4c3ZWT29hMld1RWRBdDBMb2cxVG1EbWY5OENfdGVPRUpMT2I3N1M5LVpBSnNNNklxa1Fvb0VxSTFXRjVVbGE0YXU5c0FSbWJUT29WcnMxZEdIQUFMSjUyQzMyOWhZREZoajROWTJsQ2lpVzM3NndxYW9LUDN6Zw?oc=5",
         "headline": "The 30-Year Treasury Yield Just Hit Its Highest Level Since 2007",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786972860.0,
         "tag": "Fed",
         "first_seen": 1786973901.2148361
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPYTNwU2szN3B6RTd3dTZpZzZEZzV4RmJWNVpLcUpXczhaVkNpYllQUVVRV0toZ3llYy14d1Vpc2d2S3RGNWJscEhjR3QtNW1rLV9qY1NidmFTbnZZRlNhZzFkR0d1eHdjWnlTc3ZqU2tKR2NXZjNTOThWVENaeGE3bUV2RlpUOVF3bTJyWmZDNmtPLXdjbGNvZzNOTWFOT0dRTHBYSC14WEJwclE?oc=5",
-        "headline": "Suppressed Bond Yields Made Safety Worthless and Risk the Only Trade",
-        "summary": "",
-        "source": "stonex.com",
-        "published": "08/17 22:12",
-        "published_ts": 1786972338.0,
-        "tag": "Global",
-        "first_seen": 1786972524.5289814
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 06:15:47",
+  "updated_at": "2026-08-18 06:25:48",
   "yields": [
     {
       "label": "3년",
