@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeTY2aWlaQnpObnoySjJhNVU2NVNRTUt6enBXWk14Y1FvdWhiNnJucEZkYlg3ODFTZjdVU0l0OXhhZlJ3by1yQ1BLUGZxRnYtU3JRTzdvNURCd24ySzFXd1VvNGxod3BTTDJPdHd5TXowV0ozeHlMTkV3YWVWUlpoQkVjSlg?oc=5",
+        "headline": "[글로벌이코노믹 사설] 예산안 통화정책 주시하는 회사채 시장",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/17 16:42",
+        "published_ts": 1786952547.0,
+        "tag": null,
+        "first_seen": 1786953639.7814617
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpJanZ2U3RCRDNSQzM4ZHlfODlqWm5OYjNJdVgzTHFOTGJEemV2Q1FHMmtIaHE5amlnZDJRMmhYVFFjUURTNXRrQ3hDS3JYaEhUUDFBTWpFYXFGblNRQUhHcXJpUWtod2NkWFRCS0V0YnNiQVFfZFVaVDYtZ2F0Ym82VzV4dF9tR0NQdEdn?oc=5",
         "headline": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786693085.0,
         "tag": null,
         "first_seen": 1786693523.3890293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SYWlKMkttUXlLTEFPaDlaZzQtb1ZvMkpkT2pGUDl1SlJveGg4YVRrZGVSY1JobmpfSlFMMDJoMGI2ZVZWQWZWSUdEZ0duYzB4WlUw?oc=5",
-        "headline": "[환율마감] 원·달러 하락, 수출업체 네고+외인 코스피 3조 순매수",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/14 16:08",
-        "published_ts": 1786691280.0,
-        "tag": null,
-        "first_seen": 1786921222.0552666
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3gtMUZsOEEtT0h3XzN1SzNzNFlZRmxEZUw0NjRQbjdMa2pKWnlMd0Fxd3pRcW50bEJPTWVrb1E5WHVxSzZpNTJDT0F2X3p6Uk1lcE0wQmlSS2lRaEROejMtb1BFaEQ1VkRjUU1yODdNWE9nbXJ3WGJ2WjRTc2FhNlFGbUc1YVVNZHFZaldIT1FlOWN3cDJKbzFJRTVNZkl5WWdfaEJ3?oc=5",
+        "headline": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/17 16:53",
+        "published_ts": 1786953180.0,
+        "tag": "JGB",
+        "first_seen": 1786953639.7814617
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWHBHWnhFZDJOcDduX1BNVWpSSFd6X1hWWjdnRjUySlA0eDVMNGstWEVkVDdWYWEzRFNSSThKMVpSdGgyaVo4TFZZTWpOUlI1QjdvMVQtQ3NfREFxVm9DYXhlZFh2RTJLUXNZdDB1SlU4b0ktVDNUa1N6RGNPVDlvMUl1RzIyVTIyVEpTQ1F2MV9ZamN6aThlNUJpUjl1Rmd0cmdjcmlDUQ?oc=5",
+        "headline": "Yen Intervention Explained: What’s True, What’s Not and What Markets Should Watch",
+        "summary": "",
+        "source": "equiti.com",
+        "published": "08/17 16:52",
+        "published_ts": 1786953161.0,
+        "tag": "Fed",
+        "first_seen": 1786953639.7814617
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lbGlrSTVkVXAtVVlzYl9pYXZpZjJJcnZqX1I3WFVibW1tUVotRXFrQTNMdUhqaHBQOVJ6QTFKNHNyMHZpVlhyMGRCWGpDRDVYaEotMg?oc=5",
         "headline": "일본 10년물 국채금리, 30년만에 최고치 터치...日 금리인상 무게 실린다",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786928400.0,
         "tag": "Global",
         "first_seen": 1786929223.9764173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFQ1bmZhbklXNmNDUmt5bkowdUZyZl80WGhPLVVzOGo0TFpVTTF3VEJtZDFhY0t6QkV4dm9LODZ5WDdWVUFYY19lMnFOaDdBS3UzU0FPVVFFTzBVaDhYMTU3LTg1UjY5RGJLYktZTzFVZnRYTDdzWXoxYXFFSnpxSXY0bmZBMWZIbDNaRUdQWDZ1SjFGMlJQeGZFdjlJVS05bXNPYy1nbzg?oc=5",
-        "headline": "라이브맨사이트 실제로 비교해본 결과 인사이트",
-        "summary": "",
-        "source": "ilmondodegliarchivi.org",
-        "published": "08/17 09:47",
-        "published_ts": 1786927632.0,
-        "tag": "JGB",
-        "first_seen": 1786947328.7948093
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA4djd3ZzY1QWxpMFFoX0tJN25uLUFoRnhRX3NSaU5maTUyYkhMZWRERmRDaUJuendRZTdGLU5hSXJYWC1BZUdlMC1paW1xSjZMNURGaTJRb1V5Mlk0N1BZX3M2dzZIYUpGOVJ5OXF5YzdxbUtPRkE?oc=5",
-        "headline": "Goldman Sachs: Inflation remains the Fed's core focus; weak nonfarm payrolls won't derail the policy path",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/17 09:35",
-        "published_ts": 1786926900.0,
-        "tag": "Fed",
-        "first_seen": 1786950037.358392
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 16:45:45",
+  "updated_at": "2026-08-17 17:01:01",
   "yields": [
     {
       "label": "3년",
