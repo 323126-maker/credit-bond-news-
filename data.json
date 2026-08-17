@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uSGhpSFFSUFdHRUhNTU5sTm81NGFxT0lhOEJxel9Xb1p4WW5zUUpfM1pJZGpSRHZSSzVqZUFxMTZQM3FXUDNOeTM2RDZrU0g5eU5hc0dZRkRXWjFTYVAwS051TFZFQ2lkYmthRElDczdraTQ?oc=5",
+        "headline": "이노바 인터내셔널, 3억 달러 규모 한도대출 증액 계약 체결 및 3억 달러 규모 자산유동화증권 발행",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "08/17 23:08",
+        "published_ts": 1786975705.0,
+        "tag": null,
+        "first_seen": 1786976126.2207105
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42UFVTdHZERGk1SnJCSWZxOXJraEpJdWlobW93dFdrVUVHZEJhUVFIRHgxMUxaNEZTa05hc0lfRktGOXNvT1FIZ0hiZU5VYzI4NVBXY0kxNnYwM0xHVHBkRUhVblZSSjNMUnNQMTRaU3A?oc=5",
         "headline": "김혜수 엄마 도박 의료인를 위한 알고리즘 설계 실전 기술",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786749047.0,
         "tag": null,
         "first_seen": 1786862725.5932477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16WEkxdnNaYzYwQTJ4UE1ZVGJqdGwwOXh3YnFuUS1kWDZmTnlLYXlkSDNDb19CZVRsMjZHTmgxUWxYdUFzTGdOVVo4RGdOdktXYmdKajlLek52bEVLVHQ3NHlQSFRJUzBqNnFwaTdvNlA?oc=5",
-        "headline": "[뉴욕채권] 베어 스팁…美 소매판매 실망이 오히려 장기물 약세 자극",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/15 07:17",
-        "published_ts": 1786745820.0,
-        "tag": null,
-        "first_seen": 1786975461.717155
       }
     ],
     "perpetual": [
@@ -836,6 +836,16 @@
         "first_seen": 1786947328.7948093
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1IdEhISFNQTU9ybzVGeGtMSXVRbUx4YUl4XzVoSUR3ZERfSVNDQXhHN295VGVMSE91eERGYkV3S0lCVmlabXZsMkNVbXc3ZXdBTXc?oc=5",
+        "headline": "같은 금리 환경인데…은행별 예대금리차 ‘천차만별’",
+        "summary": "",
+        "source": "서울경제",
+        "published": "08/17 15:00",
+        "published_ts": 1786946401.0,
+        "tag": null,
+        "first_seen": 1786976126.2207105
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpJanZ2U3RCRDNSQzM4ZHlfODlqWm5OYjNJdVgzTHFOTGJEemV2Q1FHMmtIaHE5amlnZDJRMmhYVFFjUURTNXRrQ3hDS3JYaEhUUDFBTWpFYXFGblNRQUhHcXJpUWtod2NkWFRCS0V0YnNiQVFfZFVaVDYtZ2F0Ym82VzV4dF9tR0NQdEdn?oc=5",
         "headline": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786590000.0,
         "tag": null,
         "first_seen": 1786590925.6484396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqZHJDQ1ZMNnhLQnBFb21uWGxBWmxWWVVXQTMtSEI3anRNakJsaFl5VHdKLVFJeWhzR0NHQkNOTHlkWVYxZVlpMXd6di1UOTctME1fWGtvVDlXTHVEQnhIb3J3Nzl4Vnl4amRMNDNpZV9IOXJl?oc=5",
-        "headline": "[오늘의 채권분석] 美물가가 영향 줄까…관심은 오직 백투백 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/13 09:52",
-        "published_ts": 1786582355.0,
-        "tag": null,
-        "first_seen": 1786761926.6851118
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 23:04:41",
+  "updated_at": "2026-08-17 23:15:47",
   "yields": [
     {
       "label": "3년",
