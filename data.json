@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMHBCdE9ldnA5UUJYLUw1S2g0blMwajlvT2NXUklJb1lOWEk3QURRamk5UVJuaktmemhUSUhNaXdmZEIxSVNjU3ZiWjdYWXozTlNQTk9PY2JkNkZwbHdWZEktaURZTEFOWlVnNlFfLXU0U28tb2U3bW1XNnZKT19CT19ZX3dQNVRuR0NWdHZxbjctcU53NndVbm5tN0tjUVJiU2NVXzRrNm1UeV9yVkFSWA?oc=5",
+        "headline": "10-year JGB yields slip past 2.9% on faster BOJ tightening expectations",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "08/17 13:19",
+        "published_ts": 1786940340.0,
+        "tag": "JGB",
+        "first_seen": 1786941032.433123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMS1MZ0dIZnJIbnV0RmhUbWhMa2hJSUxTWkZuT1BfVEtXeEtEZnlQbmNBSWttdDJGLS1yamlyTFFUTUIwbzVkbk1PQnV0dnlmaVEzUmNiU3RrT2NKREgyMGQwWXozNEtrWnl0NGFZaTVRVmRjSm1hMVBJQmF3WlVQVkczYmQwcUs4eVhtcnJR?oc=5",
         "headline": "U.S. Long-Term Yields Surge Despite Fed Freeze",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786891128.0,
         "tag": "Fed",
         "first_seen": 1786891523.4206774
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZS1MeWowSjFWYXhRUjUzejA5N2JPWWVBU0Y2UEszUFNzVnM0b0xKZDZSbnlKTHNEYnZlUTRETDlUSnYzeWpVc3lhM19qN0Zzd2NwTmpIZjZlYUFUVkdicW01WF9rZjZ0eEVvTElYa2l4c0V1aHlxRG9uUkM4RElua2FURDRWTmVXcWVWeXZGTlZsVjF1OEEwRUVOVWtxU1Vuak1pa2VfWWJDMG9Mcm0zTGJjYWM3UHlEVHpCTzl0Vi1hZw?oc=5",
-        "headline": "Interest rate dilemma for central banks as inflation rises but growth slows",
-        "summary": "",
-        "source": "The Guardian",
-        "published": "08/16 23:00",
-        "published_ts": 1786888800.0,
-        "tag": "Strategist",
-        "first_seen": 1786907245.525752
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 13:23:42",
+  "updated_at": "2026-08-17 13:30:53",
   "yields": [
     {
       "label": "3년",
