@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lbGlrSTVkVXAtVVlzYl9pYXZpZjJJcnZqX1I3WFVibW1tUVotRXFrQTNMdUhqaHBQOVJ6QTFKNHNyMHZpVlhyMGRCWGpDRDVYaEotMg?oc=5",
+        "headline": "일본 10년물 국채금리, 30년만에 최고치 터치...日 금리인상 무게 실린다",
+        "summary": "",
+        "source": "etoday.co.kr",
+        "published": "08/17 16:41",
+        "published_ts": 1786952460.0,
+        "tag": "JGB",
+        "first_seen": 1786952723.8094406
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kUkJ6ZFlyQVFqLWRVbnFCNjczeXNoOHhRUDI5SDNZaEFnVkRpMmdnX0Fpejd5cVRkc1BPQmxYcF9paVRMYlZKV3FudlFLaHc?oc=5",
         "headline": "日장기금리 3% 눈앞…'9월 인상·재정 불안·채권 약세' 삼중 압박",
         "summary": "",
@@ -1800,6 +1810,16 @@
         "first_seen": 1786937433.4941263
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0NTelljMG13eUttX0p5cnJKM2k4cDIzMFdWTERxZkc0UXZ0Q0ZsSlZXRERSdHIwMVZBcUdwY2VJRW1qcWZtZjFxejA3UXdWallXRHJkdzB2SnlGZndNN3dHTXRJbC1YalZHOFh2VFhORjVmRnU4di1CbXJtOTJ2NGlwX1Y4YmY5R1dJakhsTkkweVhVQ2lJS3dmVDg4Uy1PMG1yVEUyTW9mMWUxZUFxWUd4c18?oc=5",
+        "headline": "U.S. stock futures little changed as investors ponder the Fed’s next move",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/17 12:02",
+        "published_ts": 1786935720.0,
+        "tag": "Fed",
+        "first_seen": 1786952723.8094406
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUVJQOVp5RVRDc1k0UkFMVndTUDAxVElGbE93V0x2dU1veHN5RVd2dFJPdmNfQXR1Ym5BVmNVRlpJQTN3Y01oNUd2NldLWF9uV212TklHYU1veWJXSHlHZU42RHdKR0E?oc=5",
         "headline": "[마켓] 엔·달러 164엔, 40년 만 최저…미·일 공동개입에도 159엔대",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786926900.0,
         "tag": "Fed",
         "first_seen": 1786950037.358392
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBkZHNmTGIxSWNpNnNxVlZKM05KZG1YbEtRNDNUVWthWW1DbHpXMUJ3SXhzQnhBcENjNFgybDdYc0RIVTc1SFdhMVBteGZud3ZETFQxRktlU1dfdnozTGFxQk01NGpodDFxZnA5MnAwSkJ1M1NTSWc?oc=5",
-        "headline": "Fed Hold Seen as Near-Certainty? Financial Conditions Ease to Most Extreme Level in 30 Years, Deepening Policy Contradiction",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/17 09:07",
-        "published_ts": 1786925220.0,
-        "tag": "Global",
-        "first_seen": 1786947328.7948093
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9YLUVaNm02WnRXSXNpeTZKSk13c0dvcTJaenM4VWR2dWpjYnRVMldkSUNaXzdVMXBNcjkwNlJ0VlQ2UkRGMGxZaFBnT08zQzMyU1JxcDJOWkZRclV4b0Y1ODFSN1dRVmc?oc=5",
-        "headline": "‘말로만 매파’ 워시 향한 불신, 수익률 곡선 일으켜세웠다",
-        "summary": "",
-        "source": "한겨레",
-        "published": "08/17 08:33",
-        "published_ts": 1786923180.0,
-        "tag": "Fed",
-        "first_seen": 1786932038.8741817
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 16:32:26",
+  "updated_at": "2026-08-17 16:45:45",
   "yields": [
     {
       "label": "3년",
