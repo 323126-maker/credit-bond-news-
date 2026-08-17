@@ -132,6 +132,16 @@
         "first_seen": 1786940601.1855104
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83OUxacXJYQjRkR09SaGV2VXRLNldYa3dLOEU0b3FNbWFmSmo3Yy1zcjZPUnl1V0ZfTHVEazNIOVF6YXNWM0c5dnJoNE03b3pyekE?oc=5",
+        "headline": "메자닌 발행 9兆 육박…고금리에 CB 찾는 기업들 [시그널]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "08/17 13:03",
+        "published_ts": 1786939392.0,
+        "tag": null,
+        "first_seen": 1786968040.1154394
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42T0xBVkY0c29Vczh3RGRRTDFZUFFyX25STDQxU3FVWUVjOTdaQUVsYTFnX0lHZVcyQnM1MzZ2SjMya3FYTzkxRGJEcV9VdE1tN1lpbnEwckFQTmhUUUtNYlZrX1ozekhBUHNlVXF2QTJfQQ?oc=5",
         "headline": "[채권-주간] 수급이 남의 편…10년 입찰 등 스티프닝 압력 경계",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786738605.0,
         "tag": null,
         "first_seen": 1786739431.4725187
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5QVliVkJsS0t5Y3ZZZTRWQ0djR2daRFVMY1ItMkVXYlMyRGFZU2tFdXZtV25Jb0FpcE05aXo2aE9YY0hfUXkwSkc1RUFkdEttMW1pYTVVZWNIQU5CczAzTThmaXJFVUZaVGZqTURNWDBOQQ?oc=5",
-        "headline": "하루 1조씩 사더니…채권투자 중단한 SK하이닉스, 왜?",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/15 00:44",
-        "published_ts": 1786722252.0,
-        "tag": null,
-        "first_seen": 1786724960.3954065
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 20:57:04",
+  "updated_at": "2026-08-17 21:01:01",
   "yields": [
     {
       "label": "3년",
