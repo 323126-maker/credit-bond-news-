@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcHpRZjZXenFSSVBTaVZVZnhtc3FkOHNWaHJ2dmVIMjdVZFhDT0FGckhia1JNbTdXbk96eFJXai13Ynk2RmVfTTVCeDNCUGtpM0E3S3hFSjFMbDhaaFRJYXJjWk1vWDTSAWxBVV95cUxON0tRUW4xcVl0dDFjaWlTcnRDcjdlaFQ4Q2NZWDF6WXQ5WGkwOEJGSlVWeEhDTEo0RW5CMUlVd2hpNmwzVzBxZTZ5dFg0MHFvZm1sUXJvTl9ZeTVRVU5oTm0zSVc2cTVvcnZaTnM?oc=5",
+        "headline": "S&P500지수 0.5% 하락…이란 긴장·유가 상승에 매도 압박[뉴욕마감]",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/18 05:38",
+        "published_ts": 1786999113.0,
+        "tag": null,
+        "first_seen": 1786999525.7510855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1aNnVJVVNQOFd4Z1ZLblBhYWdkMl8tR2o2bWZ1WXM4OU5LQnVWdHVhal9zWERtQ0JqVzZZOW1DcUl1WnVrdGpiN1VBNE0tMG0ySVNITVJJOEc?oc=5",
+        "headline": "블랙스톤·블루아울 회사채 흥행…美 사모대출 우려에도 기관자금 몰렸다",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/18 05:31",
+        "published_ts": 1786998660.0,
+        "tag": null,
+        "first_seen": 1786999525.7510855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WZTRic2p2cFI4cXRPb0ZGNWhRbjBuQ3FJd3Z3dmJ1Mm1wQjFyUzd4Z3JvOHBzZVdWVk84Wm1LUFJXcGQxc1VpTmdtZVNoTjkzTloxeDVVVXVOd285WUkzbGRxZmVtc1NIQ01oQkQtUXRFZw?oc=5",
         "headline": "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786871280.0,
         "tag": null,
         "first_seen": 1786871633.9708078
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOM2tUSGM3V3pqVFRVdFVSQWNMX3pBQUs5dWJjdHJ0UEs0ZGEtNmE4MHhyNXBXWVVrZ3g2NlNtMzBQN0RCSlkzSVppRUJCWnNzWTRWVkpCTDQtOXFTMmhteVRuNG9RUnZyNHJaR0JYLWNGYkpRQklyT2RBTkV4bktQUkc0eVgzV1lKbllvZQ?oc=5",
-        "headline": "인공지능 경쟁이 신용 시장으로까지 확대되고 있다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/16 13:44",
-        "published_ts": 1786855474.0,
-        "tag": null,
-        "first_seen": 1786855524.7778172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5OM2dBd0U5ZXE3aFJiV3A4ajVQWEVzV3E4cEl6eDFheW1jYzNjWm1MMS01dEU5MEVvQlYtTl92T29FX0tjM21mckdtblJPRTl4bEI2MTlKSDQwaVpGTGlSRtIBZkFVX3lxTE1mUW15MWRmS2tZV0hsTW02eUlxcU5xMzZsQ3JLYnZ0UmlaUFE3djdtNUVIWXlvV0JsUzFsSVB1b1czYkphTEhGVXdhOU8tcUZfelFpY05CUHJ3a2dQMDJMV09FajN3Zw?oc=5",
-        "headline": "AI 보증 700억달러, 채권시장 경계 커졌다",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/16 10:33",
-        "published_ts": 1786843996.0,
-        "tag": null,
-        "first_seen": 1786876542.7817268
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRTVQT0tiM3A0VjF4RUNYTjdGa2lWOG4wYkF0QTM4c3ZWT29hMld1RWRBdDBMb2cxVG1EbWY5OENfdGVPRUpMT2I3N1M5LVpBSnNNNklxa1Fvb0VxSTFXRjVVbGE0YXU5c0FSbWJUT29WcnMxZEdIQUFMSjUyQzMyOWhZREZoajROWTJsQ2lpVzM3NndxYW9LUDN6Zw?oc=5",
+        "headline": "The 30-Year Treasury Yield Just Hit Its Highest Level Since 2007",
+        "summary": "",
+        "source": "thewealthadvisor.com",
+        "published": "08/18 05:28",
+        "published_ts": 1786998537.0,
+        "tag": "Strategist",
+        "first_seen": 1786999525.7510855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNUR3TnNjd3NtaG1udjA1dGVTdHNtMEpoQjJUM2M1REpsT1V5Q002SmZBQm5mSWpjS3ZNamU3aUxlNEUzd2VfVU83YWZaa1BIM1I4bzNpSHQ0UnBvMWRKMXlxcDZnU0dzekVrS3lwWEc4R0ZTYklHSVNMNmRJVFUxZG5xTWdQTHF5V0ltTFFwR3ZRdw?oc=5",
         "headline": "The Davenport Funds Q2 2026 Stock Market Update",
         "summary": "",
@@ -1800,6 +1810,16 @@
         "first_seen": 1786990523.885639
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVhzaFVFT05hTDF6RjhvdS1VZElRVE1YbGE5TFdoOGxnckdaUklBVWVxNHpDeUJ5RzVwX09uMlVzRHRSLTl0YjZtNE1SSVB0QmNRTnlUYW5WWmtQdnUtWllIQ0lqQlRBcUcxVFRsRldRRXZMdmNnRzRLOG5HcGVrNld2aTQxa25MNlQ2UGx2Xzk5djh4V3pWNzFjMEZucjhqN1BkN0VVcnI2UF9GOEpuT2VvQ3pKaG55aTBVYkF4ajZGX3UtOVE3NTljWjVKWEtKRUHSAdcBQVVfeXFMT2MtYU9KTzBXdnFCUXhVQXFkZ1BUcW5lTzB4dTdNb2pLbkRFVzlNSE9mZmgxY0o2ZTZDQTZ0V2tPbTEwelJiNjJRa3B5ekU4VGtKQ1lXNlNxYnVjUVJZdkxkWDJuTmpnMExFZWRIUEpOOTVCcUUxRGEtb2hkdkhFNUZ2OFY3RW9OWDRnejNGMzJrNTc5Z1Y0dkZJajJrVkZZb1lvSWQwS1JxVUhKd1dIaXo5ZzZFLU5EV3p4QmlLTjJTRDY4eDV2MWMzZkxpTEFocWdVUUFIajQ?oc=5",
+        "headline": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "08/18 00:49",
+        "published_ts": 1786981750.0,
+        "tag": "Global",
+        "first_seen": 1786999525.7510855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0pnQmNyamZGVFpyb1pfOUhWMlUzdm4zVkYwN2VucEQ5dTBKUjZGa0RQMzQ1ZG5ySTlVRFBnLUZIaEMzRlg3NHRDalFMbEFzZmZpYlY2cldVbHVWamtLVXg3QlRNZ0RIMnp6SDFPV3BNMVRvVzFLV3RQeXFURUI2bTNSUTJZRDA5NUw4aU5B?oc=5",
         "headline": "U.S. Treasury Yields Surge Despite Rate Freeze Expectations",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786971319.0,
         "tag": "Strategist",
         "first_seen": 1786989609.8183708
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNR2RXWjIzSkVNb2U1MUZ3MXBNYnFEYmRBUUJMclBtZzlpYTRBRURCaW1xenFQV01uWVFpVXo2ZlJqNjUyeDNYb01nVFlLSjZXOEVQT3dwSlpaNW8xMkZ6UldPVUMzRkNUYlVMMkFZM1c3Zzl5dVI1a0VJTTZZczNBbg?oc=5",
-        "headline": "Mohamed A. El-Erian: Japan second-quarter GDP growth misses forecasts at 1.1 percent",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "08/17 21:35",
-        "published_ts": 1786970120.0,
-        "tag": "Strategist",
-        "first_seen": 1786972524.5289814
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQWGlDZlYwX2RDZUtKcGRYcEhpNEZWT3lHekpkdThwSjYzMWFUd1BJM29VeVBSNTRCYVFiNkFoelN0Z2FyVGR2MU9KWGRNNnpPbkVKZU9LemlMMDQyRmMyRHExb05rSTJQRnRwUExVcDhINThEY3M4ZFp2bXpkTUR1NW9Ud3hkTXFqeEV6NVU3endZSmx6TTRESHFBMHpHZ2ZwTFQtRGVVRjNVemVFRjdRT0p3Z3hDS0tLQ3dzT2pPaE5qbXQ5bGtWeVlTQVNvU2xhVktqdVFhc3k1MDNfX1JaR0NIS25vY2VUVkRFTEZOR01mNUpuV1d0eTBpYWJMT0FGdnh3NmdaSXJnZll1Vi10aEdjQVVYSlZRTkFscUVESEdhUzZSUEI2VjdjOFlYUnJxQnpUVm5mSmg5S1VDVHJpclI3VWxvREw0ZWc?oc=5",
-        "headline": "스탠리 드러켄밀러, 브로드컴·인텔·마이크론 등 반도체주 매도···아이렌에 ‘빅 베팅’",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "08/17 21:09",
-        "published_ts": 1786968569.0,
-        "tag": "Strategist",
-        "first_seen": 1786968925.8411121
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 05:31:04",
+  "updated_at": "2026-08-18 05:45:45",
   "yields": [
     {
       "label": "3년",
