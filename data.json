@@ -42,6 +42,16 @@
         "first_seen": 1787001926.5361345
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE54b3dPak80V2ExTHo2Z1phRVBpWktuVWh2aW1KbmdUdUUyUVgzaGR4WVd4dng1NmFhVExxOUZBNllwWFhoYTVGeEl2MG1ZaUVReS1URW5MQUdHelRBbTFwY3EyYkVpNnEzZkF6UHI0R2Z4Zw?oc=5",
+        "headline": "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플 약세'",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "08/18 06:10",
+        "published_ts": 1787001041.0,
+        "tag": null,
+        "first_seen": 1787005832.9574358
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9oSGxYY0tVUDM2dS1xMzVES1NPdk5OdWdzeDhDZGY3dC1zbVR6bXV4Z1RnNjBNc0FMRHJKSEZEaG5IMmV3N08xa1JFTTNybVpSczE5V0hiRXhqRkk1SVJ5OA?oc=5",
         "headline": "美국채 30년물 19년만에 최고…증시 흔든 금리·유가[뉴욕마감]",
         "summary": "",
@@ -50,6 +60,16 @@
         "published_ts": 1787001000.0,
         "tag": null,
         "first_seen": 1787001324.8289442
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9EYnRHcVVpYmNfbEVuWEtUMTQya2lYVDl4N3VlM2pOT1ZtUjJWTnFhalJjcjlORWJUbFkxeERuREhWS2JDdGkzU0x0eUdOOEd0NkhvSkFNazNGN3lieEthazU4QTdhei1IaFNVbUJxSEkzQzd0?oc=5",
+        "headline": "[뉴욕증시] 투심 짓누르는 30년물 국채금리…약세 마감 |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/18 06:00",
+        "published_ts": 1787000454.0,
+        "tag": null,
+        "first_seen": 1787005832.9574358
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FcHpRZjZXenFSSVBTaVZVZnhtc3FkOHNWaHJ2dmVIMjdVZFhDT0FGckhia1JNbTdXbk96eFJXai13Ynk2RmVfTTVCeDNCUGtpM0E3S3hFSjFMbDhaaFRJYXJjWk1vWDTSAWxBVV95cUxON0tRUW4xcVl0dDFjaWlTcnRDcjdlaFQ4Q2NZWDF6WXQ5WGkwOEJGSlVWeEhDTEo0RW5CMUlVd2hpNmwzVzBxZTZ5dFg0MHFvZm1sUXJvTl9ZeTVRVU5oTm0zSVc2cTVvcnZaTnM?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1786923388.0,
         "tag": null,
         "first_seen": 1786924385.4531126
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE42M1hVRHBOU0hzcC14bWdlX0gzaVp4RWVuN1ZVT1A0WGQtaWZFSUw1YnVSd1I2RE5nUlpUNjhXX1VMT0NOa3g2YnVIZWJVbzhjbUR0TlVZUmNGZ2tLcHFtemJfRmJhUzI1cmFJeUYtX2JqZGM?oc=5",
-        "headline": "이익 호조에도 빚 부담…이랜드월드 냉랭한 투심 뚫을까",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/17 08:10",
-        "published_ts": 1786921806.0,
-        "tag": null,
-        "first_seen": 1786924385.4531126
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8xcVNYYU5QTnJ6RDR5RG1fdHVzQnluUjBaUHVZWUJvV2dMMVphdHd4WDFrWDJhZnJ5dmp2SFV1WjkxM3ZHeXBudi1BdDBfX0FqWnZzSnduRVVQRmg3X213RW1QWnZBWkFMblk3QVgtR2FCdw?oc=5",
-        "headline": "회사채 시장 다시 기지개…롯데건설·이랜드월드 수요예측",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/17 08:02",
-        "published_ts": 1786921322.0,
-        "tag": null,
-        "first_seen": 1786922124.6509628
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 07:23:59",
+  "updated_at": "2026-08-18 07:30:55",
   "yields": [
     {
       "label": "3년",
