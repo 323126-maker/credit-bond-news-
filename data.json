@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxcW1nR0ZnR0JEcUNsbWFGalhrMlNsTzJ3cGJxb1QyX09xV1ZfdnptdGdhYjV3WDZYRzA0RWw0TEFsRHJBODl5VkNzc2d1TG1IMnZsclRaajRtdw?oc=5",
+        "headline": "일본이 흔든 美채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
+        "summary": "",
+        "source": "hankyung.com",
+        "published": "08/18 07:38",
+        "published_ts": 1787006305.0,
+        "tag": null,
+        "first_seen": 1787006727.115977
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBPZmtVLUlSam1TTW5OWjExUFJWNEY5dTV6SWh2TGN0azJ6SW5la0l6eGh2NDlOaFdMM3ZZWFNvYk5HRWYydkFxTE5WN1pTRm1xNTZQWXVOQzFHVHZX?oc=5",
         "headline": "[채권/외환] AI發 차입·재정 우려에 美 30년물 국채금리 '껑충'...달러 약세",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786924821.0,
         "tag": null,
         "first_seen": 1786925722.878421
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9tZlpmZWZjSzhWVUZwRUlSTGlRWEptbWp2MTdfY2xhamhFR3pwaklsbEtJaFdEUUd5bHpFYTRFeGdXZ0RNR2VYcjY4cEc5dXo3cWNNd0FwZkZZRXRWRk9pTzllQ0JUME9BU1Ew0gFvQVVfeXFMT2dkT1lRSGJqNHBKMVRtNGExMDNZeUd6MXdIQktxX3B1M2trLUJCN1YzVlk2aGkyY2VsR3g3NVVzSHY4TjVzVG1JRF81cmJpOUZ4RnJrTE5NTUFoTlVfZUNtVDBWaHpMMUduLW95ckl3?oc=5",
-        "headline": "채권시장 4조7000억 발행, 건설社 수요예측도 주목",
-        "summary": "",
-        "source": "한스경제",
-        "published": "08/17 08:36",
-        "published_ts": 1786923388.0,
-        "tag": null,
-        "first_seen": 1786924385.4531126
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SZWxuM3ZzQlV5THptLXVoR1NSTUdNTDdIcUxkTmFiRE1tWkhUd1hlT2E2Q1lsd2lKc1VxRXd5bHlpbVBpSnpXN3lKdWFWakVtckNRWE16THhRMDF4QzhtaA?oc=5",
+        "headline": "일본이 흔든 美채권시장…30년물 금리 19년 만에 최고 [도쿄나우]",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/18 07:39",
+        "published_ts": 1787006340.0,
+        "tag": "JGB",
+        "first_seen": 1787006727.115977
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2swYjVody1wV2plbGp1RklVNXBDQ0NfRUhFMF9ZUHpwLXNRNW9qT001WDg0VW1Gcl9OR2ZlM1RVLWpMbXBjSzlzWXMtdnd1U05GeFd4eURZcEUybW9nOENHYjQ2VGxDd3AxNFF2YWpPMTQ1dFVTNnRRVUYzRkt3ZlVXSjBtWnM?oc=5",
         "headline": "선진국 국채금리 2008년 후 최고… 중동발 고물가 공포",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1786998537.0,
         "tag": "Strategist",
         "first_seen": 1786999525.7510855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLWk5VDE2dVZsZlVYQmNzYmR6RFBGY252WUh0ZTRzc2ZHSmZPaTJxR3hQQ0V3WTJQYUwxSE1OU003ZUhVVHJ2LXhEOTJOMkhvRXVQbnRnX1lNeHZiZ1NwS2Mzc0VnS0ZzMmFWekJHRTBsN1BWRE5kMlJhNTRkYk95cDNBMnFaSFViOHhUZURXNnB3YWFDOGYxWVdxU0tLTkFaYm0xQmNqRQ?oc=5",
+        "headline": "Kevin Warsh Goes to Jackson Hole: Time to Fill in the Blanks",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "08/18 05:27",
+        "published_ts": 1786998451.0,
+        "tag": "Fed",
+        "first_seen": 1787006727.115977
       },
       {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55dExzamdUeVZvRFJCdTRRVnhib2o5ZWt4QVkzVXYwVGpzNXh6VXJGcTlTU0RGTzdvNm5NMzRNZW5uWXNERDE5OTVvZm1IazlwU25aV1VKc1hqWk5sZ2p0dHplN2p6RjdMNl9JaVk4SUkxc2Rhc0RPNlJNM0taT00?oc=5",
@@ -1760,6 +1780,16 @@
         "first_seen": 1786994838.9599311
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdjMydFRwWVFQYkc4Z1VBVFAtRGpUcS03bUZqZ0RmV1YtTWt5SGFIT1lER0ZHRUdhWXJLSlNPYmdDNlFhamF2SU1SUWF2VnBNdVFJR1lzclVLRjM0U19oZnpGV3hDVWtJeHFZaTZ1NmR5V1pGU0lWZ3J1bFVfam90NmFZUWhjcElRaUZyU1Fn?oc=5",
+        "headline": "US 30-year bond yield hits highest level in over 19 years",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "08/18 02:51",
+        "published_ts": 1786989071.0,
+        "tag": "Fed",
+        "first_seen": 1787006727.115977
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUdjdmdGYVh4SlFvdW5Db1FFbmV6R0hmS1pyYkVGUHdiS2FmdlJYT2ptSUpfM05IWVkyNlR4NkZZYnRfWVY4NVZhTDkxRXQ3UG9ESDJrNDR3LTd1b2dhUlUxLUNBbVFNb2xuSkE5Z2tNeXh4TmpaWGtKeUstMzJkbkl2cWkxUkg3T3RnX3RzNmE0RGdZQnlxLXB5Q2wwTU5xX1pGcnM3UFozR3NlSkVqU3B5cXMtdkhmQk04c1h3cw?oc=5",
         "headline": "FBND: Falls Short To Justify A Compelling Allocation At Present (NYSEARCA:FBND)",
         "summary": "",
@@ -1798,6 +1828,16 @@
         "published_ts": 1786985819.0,
         "tag": "Fed",
         "first_seen": 1786985980.1016366
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE04SUlhWDNqeXB0YkU3dnRKMXp1MDdLTktZUkxuNGU5b3VIZFBoSXFjcmtUMUNCSUJ1aHk3Tmd6VGRJa09lTmtNVnJhVVBveUJrZnl0QVJrSjJOb2ZXS2poeW1wbnp3RTVycXNpV1RWaHhsaGh0?oc=5",
+        "headline": "Federal Reserve’s policy reluctance keeps long-term bond yields stubbornly elevated",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "08/18 01:44",
+        "published_ts": 1786985087.0,
+        "tag": "Fed",
+        "first_seen": 1787006727.115977
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd3c0eXdwVlBXV3Q4WkN1NFdKWW9PdHctT1hsZzMzcXJSR0xWUzd1T0JwekVKQjZpUnpGZWRPWHNud1ZGcjJMTG8tWWE5RmhJemN6X2RpUEdTa1NEZHJoN2FmS253VDgzRDIwU3FYNFgtY1NFOFo4cUZuclY5V01oWVc4UnhnTjg2cXZBQnlKY045aUJESXdVYW1USTBqWW9Hb1BDWU1mOThUODB4RkRscWRIQXU?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1786978225.0,
         "tag": "Strategist",
         "first_seen": 1786978839.7340922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkFqQm0zZkR0c19QQ0tyNklWTnNrQTBlaVZ4b3RMOTkyWWN0R3hYUTdVUnVKTmVrMGdfcTVPT1otNGxIbENQOEN1LVZvRk5XSjJrZ3Z0clV6QWN2VmNoa0ZLX2lMRzlscmRyR01YWHF5UnM2cGQ1aUNLaVFhdldXTnBUWVlsTWlKN09mbVlLRzI0NnRSNEE?oc=5",
-        "headline": "Global Forex and Fixed Income Roundup: Market Talk",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "08/17 23:34",
-        "published_ts": 1786977240.0,
-        "tag": "Global",
-        "first_seen": 1786996351.7041924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxORnlKQUZHY2pIaVlhVlIzcEE2TE1JR2ZxZW12djlnQkpGSURkVVNyRjV1dl8yaXo4M3YwRFFJTExRMDNoOTJoOExXa1pOU2Y4UHRONExxbGU0V1JQSDZHeDNuQ25TVGFhaXd3SUtWOWlIcXc4WldDNy1uc0lYbnpaazRIcVVuVkFIcGcyMXhWbXFiWnh5c3p5eEozeWFkbm8yUFlsRnVNcmVqM0VYbVBjUWcwZVg1MGVfOEFzakNRQ0YzVjdR?oc=5",
-        "headline": "Madison Diversified Income Fund Q2 2026 Investment Strategy Letter",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/17 23:30",
-        "published_ts": 1786977000.0,
-        "tag": "Global",
-        "first_seen": 1786978839.7340922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOU0lVcjF5Wk1KZ0NSU3d3NVFQOFZTbkc3LWo4bzZuMUJmaS14ZzFQR1RsRkhqVXRfZDVoTDVJQVYzeTN0VFU5VThuTGxaeEdSQVZyVU5US2JkTVNzUGRVWDRld2JoZF9ETU9EM3QwQ3RiUlA3azNKVHl1Y2FaWFd0WVlfbHU?oc=5",
-        "headline": "Looking beyond tight credit spreads in high yield bonds",
-        "summary": "",
-        "source": "FT Adviser",
-        "published": "08/17 23:03",
-        "published_ts": 1786975405.0,
-        "tag": "Global",
-        "first_seen": 1787003430.8860872
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTDhYUkFSdUljdWdTNWg5NWhtLXR5RGxCWWFnS2tDR3hyVFh2c0FTWk02MTFZdG5CT1dqMGxiVHNVLUJiYjJQZnJTYXM1TXhWVmtzTXpCUklaYl9ndHpYZy0taUluVDFxbFVWcjRiWEFXVFlCYWpZQmtwQzIwZU1rOFVKSXZSeW8zMVFtV3VkZVQ1M0lFWVE?oc=5",
-        "headline": "AI Is Driving Treasury Yields Higher. That May Be Good News.",
-        "summary": "",
-        "source": "thewealthadvisor.com",
-        "published": "08/17 22:58",
-        "published_ts": 1786975099.0,
-        "tag": "Strategist",
-        "first_seen": 1787003123.0135224
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 07:30:55",
+  "updated_at": "2026-08-18 07:45:51",
   "yields": [
     {
       "label": "3년",
