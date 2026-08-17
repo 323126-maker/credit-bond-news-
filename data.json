@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqSWh4SXdsRjc0bFg5T2VRaXdIZW1CVlpsdjR4OFA5T09RVVlfUEJya21KUHJibGlrSzVTWDZsVXMyd1N6ZWRreHl5M2R1SGs?oc=5",
+        "headline": "무디스 “한국 메모리 대체 불가”…올해 한국 성장률 3.5%로 대폭 상향",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/18 08:24",
+        "published_ts": 1787009050.0,
+        "tag": null,
+        "first_seen": 1787009432.267064
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qLWlQS1U4Y1Rkb043RHBOMlBOaUp2WXNGZjROQi1QSHpNTDc2QmlaOVpON0JrbDhyNjZiXzRLb3phTlVOdlJScFAxTFhHcVU?oc=5",
+        "headline": "[굿모닝 마켓] 뉴욕 증시, 협상 난항·유가 상승에 동반 하락 마감",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/18 08:13",
+        "published_ts": 1787008396.0,
+        "tag": null,
+        "first_seen": 1787009432.267064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vT1Qzbk9pSktLV2E0OGktNVQteFNZNHczaHBhU1hDYjhSa3ZnNXdMMzJSYzhmSURBT1UtMFNkcERVQ2JIcW5vVGRQcHZzekRDYlJfNEUtSXlwR0hNU0tIc1JSc1ZBVDJ3WU9MUw?oc=5",
         "headline": "[모닝 경제 브리핑] 중동 지정학적 리스크 재고조 및 금리 급등 속 美 증시 혼조… 메모리 반도체주 '독주'",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1786939201.0,
         "tag": null,
         "first_seen": 1786959031.940122
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oelZhX1ZUb19jWURmWmY2VHJVbVpuNVVRUE9iTDl3T3FaS2dBc1BXU3ZGdzdyX2huRHBYNnFPYktjbFF3NkZnQ1UxN3pSUW14el93b1hMRGlqYnk5V0ljN3FzdlRiMDFa?oc=5",
-        "headline": "SPY 0.2% 하락, 에너지·산업재 강세 속 기술주 부진과 AMD 급등 주도",
-        "summary": "",
-        "source": "InteractiveCrypto",
-        "published": "08/17 11:58",
-        "published_ts": 1786935494.0,
-        "tag": null,
-        "first_seen": 1786975239.266082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WYnBmNC1ObWJOcDVkS0FRYXRRZzVNX0lNR1NwYlFEVGl6OF9zR2ZKUXdXZVZpVzN3c3pTYWxrUThibzNPYzJQR08wQVFieVlLdXFYVTRpcHoxcDNocGJ2TnN5RXF2WmE4Z29SOTdwYmzSAXRBVV95cUxPUlM4aERhSk91cHBjcktTRUhKZ0VsNmFLVWhranU3YXNWX3cyTlBWQ3I3S3JuZFA2ZEpJZTRBZU94dE15ZEI1ekt1ME5aTk1OaHFOajhtalRFM01yQWlSd3NPc05iV1cyeXZvR1pTWEZma0h2Vw?oc=5",
-        "headline": "알파벳, AI 투자 실탄 확보… 호주달러 채권 발행",
-        "summary": "",
-        "source": "IT조선",
-        "published": "08/17 11:26",
-        "published_ts": 1786933586.0,
-        "tag": null,
-        "first_seen": 1786966564.2503636
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IOXN5X0MwRlkybDYteEwyNmkza3AwUzNPSnFjUUlrRndXaHlrQm41alhqd0ZPNkZ2MU5YdDlOU2JOMzNseUN6M0NzeUc2dWlnNFYyQg?oc=5",
+        "headline": "Japan Rattles US Treasuries as 30-Year Yield Hits 19-Year High",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "08/18 08:18",
+        "published_ts": 1787008686.0,
+        "tag": "JGB",
+        "first_seen": 1787009432.267064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vT1Qzbk9pSktLV2E0OGktNVQteFNZNHczaHBhU1hDYjhSa3ZnNXdMMzJSYzhmSURBT1UtMFNkcERVQ2JIcW5vVGRQcHZzekRDYlJfNEUtSXlwR0hNU0tIc1JSc1ZBVDJ3WU9MUw?oc=5",
         "headline": "[모닝 경제 브리핑] 중동 지정학적 리스크 재고조 및 금리 급등 속 美 증시 혼조… 메모리 반도체주 '독주'",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1786993241.6857948
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPSlhtR25vZlJHYVNBa1Y1NzV2TW96dTcyd3k2TWZEYmwtMDdPZklfZWEzRVZ0WjV5bHp4aW1OTzZNMUtrdy1UaUpDUmlzN0ZJZ2NPbGlfd1JUSlp2aDZjZC14N1dyR1M0SlRuZkI5TnlQODVGLUpJcXJYTVhTNW1jQkZrMmVaYUpvdWFGMms3Z2JUNmF2QmxQLTFJYndJQjJlMDI1a2FFTTg0OUFkZnhhSmxpMjFhTkFvMXdSUE0zZ0NfQkxNbllsY1p3?oc=5",
+        "headline": "Leading economies’ borrowing costs hit highest since 2008 crisis",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "08/18 02:56",
+        "published_ts": 1786989360.0,
+        "tag": "JGB",
+        "first_seen": 1787009432.267064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTG85cmxQRWVKc0lWUk9YWC1WWTFSMjdKcUhidTNjeE9VcEMwcEF0OXpCdkJteDdrM2k1cnIxUXQtZ2s4dGtLUGdsbTEyZXRXallMRW1KbWI2TlBaemVxTzBtQzhHRXAzUGlsQzBDVGpjdTk0UEhCaHpxckRqQWRROVJ1bmFqYUN1djVZVkJSVkV5Sk1La2ZPVzFfVXdnNV93XzdGV253OWI4QdIBqgFBVV95cUxPTG85cmxQRWVKc0lWUk9YWC1WWTFSMjdKcUhidTNjeE9VcEMwcEF0OXpCdkJteDdrM2k1cnIxUXQtZ2s4dGtLUGdsbTEyZXRXallMRW1KbWI2TlBaemVxTzBtQzhHRXAzUGlsQzBDVGpjdTk0UEhCaHpxckRqQWRROVJ1bmFqYUN1djVZVkJSVkV5Sk1La2ZPVzFfVXdnNV93XzdGV253OWI4QQ?oc=5",
         "headline": "Saudi Arabia's Wealth Fund Reports Strong Returns",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786981750.0,
         "tag": "Global",
         "first_seen": 1786999525.7510855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0pnQmNyamZGVFpyb1pfOUhWMlUzdm4zVkYwN2VucEQ5dTBKUjZGa0RQMzQ1ZG5ySTlVRFBnLUZIaEMzRlg3NHRDalFMbEFzZmZpYlY2cldVbHVWamtLVXg3QlRNZ0RIMnp6SDFPV3BNMVRvVzFLV3RQeXFURUI2bTNSUTJZRDA5NUw4aU5B?oc=5",
-        "headline": "U.S. Treasury Yields Surge Despite Rate Freeze Expectations",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/18 00:39",
-        "published_ts": 1786981161.0,
-        "tag": "Fed",
-        "first_seen": 1786981527.1131928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONExlYzBIWmVNVW1KTFBWTjlrc05NdC1vREU1RXh0VDFNdWdMTDB0Yk9jZWVQZ1VMZldDMGo5cTVzcXpqT2c0LVN5VmpyWXZnMFRpNG5vSy1lWVA5QmtvNlJMOGN6ZW9kRm1zNl9XUjZpam84SGp3NElnLVFSQkRfQWhxS041SWUweExHR2FDNEtiQW1lTXc4cE1PUV9hUExZd21WajZFcjBoLU9xV19Ec2xOVVF5YTVGdWtsNW9RY1hQaDlNckpj?oc=5",
-        "headline": "Treasury yields hold steady as investors await Fed minutes By Investing.com",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/18 00:39",
-        "published_ts": 1786981140.0,
-        "tag": "Fed",
-        "first_seen": 1786984230.7478797
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 08:22:07",
+  "updated_at": "2026-08-18 08:30:57",
   "yields": [
     {
       "label": "3년",
