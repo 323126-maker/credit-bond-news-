@@ -212,6 +212,16 @@
         "first_seen": 1786959031.940122
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEdHVFUW45VmJ1dXlVMFc5Si1QOGlaREpzdzM4TVhWY0ZZM1lGTUJaMVBFS2NHMEx0ME5IeFhsRXpiWTlqb0xMRHVGNGpMN2stR0E4?oc=5",
+        "headline": "연준보다 무서운 '글로벌 긴축'…한국 금리인상 전망 1위",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/17 15:09",
+        "published_ts": 1786946940.0,
+        "tag": null,
+        "first_seen": 1786998364.2763743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVHpJanZ2U3RCRDNSQzM4ZHlfODlqWm5OYjNJdVgzTHFOTGJEemV2Q1FHMmtIaHE5amlnZDJRMmhYVFFjUURTNXRrQ3hDS3JYaEhUUDFBTWpFYXFGblNRQUhHcXJpUWtod2NkWFRCS0V0YnNiQVFfZFVaVDYtZ2F0Ym82VzV4dF9tR0NQdEdn?oc=5",
         "headline": "금리 ‘동결’ 전망에도 치솟는 美 장기 국채 금리…워시 vs 채권 시장, 승자는?",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1786843996.0,
         "tag": null,
         "first_seen": 1786876542.7817268
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lYjVGdFBPSTFuZXgxUzNGbkVHalc5TkNMX3JzaFdWVC0wX1pxRERoU0M0akd5b05obmN5R0Z4OUZDUEtITlFDNHlQRmFnMlJPX2hLZmNUdFBoRDNhbGNrS1pJMy04Q3VUQ0dGVXNpNkM3QQ?oc=5",
-        "headline": "금리 꺾였지만 스프레드는 ‘쑥’…회사채 투자심리 꽁꽁",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/16 10:10",
-        "published_ts": 1786842603.0,
-        "tag": null,
-        "first_seen": 1786843831.4638677
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xdTJOektkNXFzRWdkNzBiWTM5VHlnYVNTYnV3b1JWV3IxcFpreWNjS2dual81S1pMQUdvd3BuUFV1czZBQy1pc3FIVmkydFNWTGljRWhDVWNjb3dQX3k2SUgyMWVOT2xzUDhXYzZ6NnQ?oc=5",
+        "headline": "노스웨스트 뱅크셰어스, 9월 15일 후순위채 상환 예정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/18 05:17",
+        "published_ts": 1786997820.0,
+        "tag": null,
+        "first_seen": 1786998364.2763743
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5KSkRvS09uamFaQTFwQ3JQRlBPM3VPSW1va2t2NzNXOVdONnE5Mi1ZNzRSU2wtTFByYkRLNmstVE5ocjhxM1dteXkzNF9OeXAwWmtpT09FNFQwbUpPRkE?oc=5",
         "headline": "[N2 포커스] 박태동號 iM증권, PF 부담 덜고 성장 재시동…자본 늘리고 리테일 키운다",
@@ -792,16 +802,6 @@
         "published_ts": 1786599680.0,
         "tag": null,
         "first_seen": 1786694438.497854
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43SjVrLTVlNkdhTHpROFpLWGpkRm0yR2J3Z1cwT2MwMi11eGZRUkJfYVlOZkpYdmtoSnVtTExaOXlNZDl2dkFYRE5LdXlFSS1FQkZtMmUwVlhVWXpvOEtrZ1lUTFpLLUJOdVEtWGlrbw?oc=5",
-        "headline": "교보생명, 3000억 신종자본증권 발행…자본 부담 선제 대응",
-        "summary": "",
-        "source": "뉴스톱",
-        "published": "08/13 13:05",
-        "published_ts": 1786593949.0,
-        "tag": null,
-        "first_seen": 1786594527.883706
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 05:15:51",
+  "updated_at": "2026-08-18 05:26:25",
   "yields": [
     {
       "label": "3년",
