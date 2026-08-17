@@ -82,6 +82,16 @@
         "first_seen": 1787003123.0135224
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMzZhWDZQQ0Q1MWdTeWVHYVFQWXJDUUlnVWFLR3pVN2NXWWM1MEoxQVJzVTEtQV9vbTJybmNzMnN5R0FCckJlYXR2Tm16WFYxbDVCNkMwekZKY3h6TWxTTU9iQk1WVmtlUTRXcVJtM3VGZjRzVDkwRXZFRUdLUWI2cUxDUUhMSERiU3JXZVoyaDlHdTQzTWJYTU4xT3p0c3RWdWlaY3R1NW5FakhoT0lpTU1vTXFaWlB5THloYnVTdno?oc=5",
+        "headline": "채권 발행 채널을 통해 약 290조 VND에 달하는 자금이 유입되었으며, 많은 대형 기관들이 새로운 자본 조달 계획을 발표했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/18 06:30",
+        "published_ts": 1787002221.0,
+        "tag": null,
+        "first_seen": 1787010425.0922027
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVGhDbUt4MlJBcnlRbldSdm9rMmpueW4xekNWUGdSNWE1Qlh3NTk3cEFWNkZnTVpCUGlfNEwtUTlLeFBmZGZvLW5pN241QWRFTmJwUGpOTFpMZw?oc=5",
         "headline": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786939392.0,
         "tag": null,
         "first_seen": 1786968040.1154394
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42T0xBVkY0c29Vczh3RGRRTDFZUFFyX25STDQxU3FVWUVjOTdaQUVsYTFnX0lHZVcyQnM1MzZ2SjMya3FYTzkxRGJEcV9VdE1tN1lpbnEwckFQTmhUUUtNYlZrX1ozekhBUHNlVXF2QTJfQQ?oc=5",
-        "headline": "[채권-주간] 수급이 남의 편…10년 입찰 등 스티프닝 압력 경계",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/17 13:00",
-        "published_ts": 1786939201.0,
-        "tag": null,
-        "first_seen": 1786959031.940122
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 08:45:47",
+  "updated_at": "2026-08-18 08:47:25",
   "yields": [
     {
       "label": "3년",
