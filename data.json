@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkk4dHkzbHRqajNtN09zbVdRbHowcXJaS2ZQSXc0ZmdUZFJlZk00LVpZelJpMEgxdmVJTE1uUnFrcDVjTG9yaUdycE5yRnVKaGZGUlJrSEs1WGFZRmlRSXZ4dTFFR2tQXzdBc1pXdTZqd3FJcHBiVW1EczhPM3J1aG9XMjJLa25reXp1TjhyMDJ6dWxBcXFjZDRzdzZRR1QtZVpXQ0RmRVpQSGNLZ2pNSDBBRlZqUQ?oc=5",
+        "headline": "Fed Rate Hike Bets Are Fading Fast. Cooler Inflation Could Leave Warsh An Easier Choice.",
+        "summary": "",
+        "source": "International Business Times",
+        "published": "08/17 19:11",
+        "published_ts": 1786961461.0,
+        "tag": "Fed",
+        "first_seen": 1786961726.20113
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9WdldycS1Hd2JmWVRIdGpTT2VvOWlyQ0dCZ1RoNDVWY0hPWnBNR0RrRjhZcEFxcVZBVlU5WWJETDVFQ0NnZFRBY1l5eVRoaFBQN0JaSEFMUWUyY1RlYTZjMVNjX19jTWVET1BxanZMdlpHVm1DRjZNd19wWXM?oc=5",
         "headline": "Japan’s 10-Year Bond Yield Nears 3% as Yen Pressure Builds",
         "summary": "",
@@ -1880,6 +1890,16 @@
         "first_seen": 1786944630.4733355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPV1p6TjZQeVpxc2ltX0wxd0NqX3d4ZTdFN3J6bXhGdkNJdnNTM2YxLXladVkwdzRWSDhGQmJoRkNQcnV6ckxFeGczMU9kVDJsRjllWlcxUDJidkpsUjd0ZjVCVmVDcnMwaEUxeGVCTlVfZlFoUVpXNFBTdlQxdVVSUzNKN1FPYWl1RzFkMnhYVkJzM3VkVzZvYkFR?oc=5",
+        "headline": "Could Consumers Keep the Fed on Hold While Japan Hikes Rates?",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "08/17 13:42",
+        "published_ts": 1786941743.0,
+        "tag": "Global",
+        "first_seen": 1786961726.20113
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORkVsZHl0R3NfS0xrMDh4YTRBZG14bWc2Rm1qVXd3WEx5UHZtRlpFQmlTOTkyMjlnYjI5U3dnUktvUHMwUHBqRUpaVzlwWDd6bTJDRktucklNUkRfOGs3dUdZUWVmM3M2YmNDY19EVVJqVXpuV0xXRjFXNnpacEdCVXM4RXY?oc=5",
         "headline": "Japan’s 10-year bond yield hits three-decade high",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786936933.0,
         "tag": "JGB",
         "first_seen": 1786937433.4941263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0NTelljMG13eUttX0p5cnJKM2k4cDIzMFdWTERxZkc0UXZ0Q0ZsSlZXRERSdHIwMVZBcUdwY2VJRW1qcWZtZjFxejA3UXdWallXRHJkdzB2SnlGZndNN3dHTXRJbC1YalZHOFh2VFhORjVmRnU4di1CbXJtOTJ2NGlwX1Y4YmY5R1dJakhsTkkweVhVQ2lJS3dmVDg4Uy1PMG1yVEUyTW9mMWUxZUFxWUd4c18?oc=5",
-        "headline": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "08/17 12:02",
-        "published_ts": 1786935720.0,
-        "tag": "Fed",
-        "first_seen": 1786952723.8094406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HUVJQOVp5RVRDc1k0UkFMVndTUDAxVElGbE93V0x2dU1veHN5RVd2dFJPdmNfQXR1Ym5BVmNVRlpJQTN3Y01oNUd2NldLWF9uV212TklHYU1veWJXSHlHZU42RHdKR0E?oc=5",
-        "headline": "[마켓] 엔·달러 164엔, 40년 만 최저…미·일 공동개입에도 159엔대",
-        "summary": "",
-        "source": "자본시장뉴스",
-        "published": "08/17 12:00",
-        "published_ts": 1786935600.0,
-        "tag": "JGB",
-        "first_seen": 1786947328.7948093
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 19:00:57",
+  "updated_at": "2026-08-17 19:15:52",
   "yields": [
     {
       "label": "3년",
