@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSkx4M1hZeWx5Mnp2endmVlRLNnltcERaNG55Sk9YSmpOU2lQaUhxLUtnRGNJal9KcEtwTG1kdS1HMlRHcGE3amwzRl84LVNWT3JUMmlQWE5VZ3JaQ0VqMUpFNEJRV2U3bjUyLVY0dzFWVndmS3lTcUt6OWluLTQxeVc0cmU2TGRFdlJMVjV1QXZDSkJhM2JTNW12S0JVZmJya1YyRGdMQzloN2FqeFplWEtibVU1T3BWc09Gb0h2SkxvYjFNSjFYa0ZWdw?oc=5",
+        "headline": "Rate hikes may be a blunt tool, but they're all the Fed has to cool inflation",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/18 08:30",
+        "published_ts": 1787009432.0,
+        "tag": "Fed",
+        "first_seen": 1787010325.157768
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5IOXN5X0MwRlkybDYteEwyNmkza3AwUzNPSnFjUUlrRndXaHlrQm41alhqd0ZPNkZ2MU5YdDlOU2JOMzNseUN6M0NzeUc2dWlnNFYyQg?oc=5",
         "headline": "Japan Rattles US Treasuries as 30-Year Yield Hits 19-Year High",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1787007796.0,
         "tag": "Strategist",
         "first_seen": 1787008906.1702528
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0pnQmNyamZGVFpyb1pfOUhWMlUzdm4zVkYwN2VucEQ5dTBKUjZGa0RQMzQ1ZG5ySTlVRFBnLUZIaEMzRlg3NHRDalFMbEFzZmZpYlY2cldVbHVWamtLVXg3QlRNZ0RIMnp6SDFPV3BNMVRvVzFLV3RQeXFURUI2bTNSUTJZRDA5NUw4aU5B?oc=5",
+        "headline": "U.S. Treasury Yields Surge Despite Fed Rate Freeze",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/18 07:57",
+        "published_ts": 1787007465.0,
+        "tag": "Fed",
+        "first_seen": 1787010325.157768
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZWx2WDVHYWxHeW5yRDVSOWxxeTEydjJSODY1SmszTWcxOWhaTzIxMlJRMEpVLUpXb2d1VzJ1VHhOY3QzWk5KQ0wwdDdvQWdUcnBZdWFPSXV6Z2RjQnhCOG5nektKWlpsSWhYY1BLT0FHT0JmMi1TY2RCbk5WUERxSWdTRzlOTURycUtJX09n?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1786982045.0,
         "tag": "Global",
         "first_seen": 1786990523.885639
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FUjc1NUpoS0tnSEJBMzlMcjZnQnR4QXMwbndHaEFKS3ppWTRraERXS2NzSTNXcHRDcGNpMy1VTGJyWU0xWkhOVUdKdThwWWFMeWZDZDNUTzF6aHVqanI3T0RPV3ZZT0RZeER1SVB3dDZ4REdj?oc=5",
-        "headline": "美 국채가, 중동 분쟁 고조에 하락세 전환 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/18 00:53",
-        "published_ts": 1786982001.0,
-        "tag": "JGB",
-        "first_seen": 1787005417.6573052
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVVhzaFVFT05hTDF6RjhvdS1VZElRVE1YbGE5TFdoOGxnckdaUklBVWVxNHpDeUJ5RzVwX09uMlVzRHRSLTl0YjZtNE1SSVB0QmNRTnlUYW5WWmtQdnUtWllIQ0lqQlRBcUcxVFRsRldRRXZMdmNnRzRLOG5HcGVrNld2aTQxa25MNlQ2UGx2Xzk5djh4V3pWNzFjMEZucjhqN1BkN0VVcnI2UF9GOEpuT2VvQ3pKaG55aTBVYkF4ajZGX3UtOVE3NTljWjVKWEtKRUHSAdcBQVVfeXFMT2MtYU9KTzBXdnFCUXhVQXFkZ1BUcW5lTzB4dTdNb2pLbkRFVzlNSE9mZmgxY0o2ZTZDQTZ0V2tPbTEwelJiNjJRa3B5ekU4VGtKQ1lXNlNxYnVjUVJZdkxkWDJuTmpnMExFZWRIUEpOOTVCcUUxRGEtb2hkdkhFNUZ2OFY3RW9OWDRnejNGMzJrNTc5Z1Y0dkZJajJrVkZZb1lvSWQwS1JxVUhKd1dIaXo5ZzZFLU5EV3p4QmlLTjJTRDY4eDV2MWMzZkxpTEFocWdVUUFIajQ?oc=5",
-        "headline": "ICICI Bank raises $750 million as Indian banks tap dollar bond market",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "08/18 00:49",
-        "published_ts": 1786981750.0,
-        "tag": "Global",
-        "first_seen": 1786999525.7510855
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 08:30:57",
+  "updated_at": "2026-08-18 08:45:47",
   "yields": [
     {
       "label": "3년",
