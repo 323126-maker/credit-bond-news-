@@ -1860,6 +1860,16 @@
         "first_seen": 1786956325.190382
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdDl2TkdPdlV1dXAxcnVOeHpPTGpiQzZzWnVIeHpfcGt0SFk1LVlnVlI4MHA5b1lnd0FMSWhqcldtNVUwT0NRLUxqQjBjeEN0VmlfYllLV1BhZXF6R25oUVZxR3NXcURHblFQMXV4WmpPeGs2R1N6WGNLcmpLSU5FZjRoZTBOTVJVelZWeFdvSGNGSWJlajNqT1V0aU9EUzNxTmc?oc=5",
+        "headline": "Japan's Long-Term Bond Yield Hits Highest in 30 Years",
+        "summary": "",
+        "source": "Seoul Economic Daily",
+        "published": "08/17 17:15",
+        "published_ts": 1786954553.0,
+        "tag": "JGB",
+        "first_seen": 1786971073.5590959
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Kc1lyN2dncTVMakhYNXRxSjV4Q3dmaUhHMnJVNnItdWRDU01Wal9DNGhHWUpMVHE0X3JadURQdHFwaVEyel8xUTBwLThEd21zVHRR?oc=5",
         "headline": "일본 장기금리 30년만에 사상 최고치…前 ADB 총재 “회의마다 금리 올려야”",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786946573.0,
         "tag": "JGB",
         "first_seen": 1786962811.3195975
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTDkzVzE0c2s3ZUlmb0dsUzhQanZycDlMcFVYbGY0LV9YYjY1LXFHanpoNGZLSndiamZ0QU9VN25zRWNTaUMyWmFqdFpNQ3cyT1gyblFoTXg4X2pBTk9xV2RTVk1Cd1VWN012eTY5Q0Q0b0dlOHFNSEF4aGtvRGhmMTBYZkh2bWtzTU1xWEtSZmNKNmM3ZW9mUw?oc=5",
-        "headline": "Japanese bond yields rise after economic reports",
-        "summary": "",
-        "source": "Breakingthenews.net",
-        "published": "08/17 14:49",
-        "published_ts": 1786945740.0,
-        "tag": "JGB",
-        "first_seen": 1786946437.31782
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 21:45:45",
+  "updated_at": "2026-08-17 21:51:33",
   "yields": [
     {
       "label": "3년",
