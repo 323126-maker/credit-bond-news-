@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kUkJ6ZFlyQVFqLWRVbnFCNjczeXNoOHhRUDI5SDNZaEFnVkRpMmdnX0Fpejd5cVRkc1BPQmxYcF9paVRMYlZKV3FudlFLaHc?oc=5",
+        "headline": "日장기금리 3% 눈앞…'9월 인상·재정 불안·채권 약세' 삼중 압박",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/17 16:16",
+        "published_ts": 1786950970.0,
+        "tag": "JGB",
+        "first_seen": 1786951924.9560306
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JYl9MQ0h1dnZ1ME9taS1xeDRhMEFyRXpJREtLRzdueER2YkdWLTRXRENOaXg5RGl5YTNidWZMVm9RRmp0ZlFZcFlEb19lLUR2TVBZNERn?oc=5",
         "headline": "돈가스카레로는 달러당 62엔인데 시장에선 160엔…금융시장 흔드는 엔저",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1786923180.0,
         "tag": "Fed",
         "first_seen": 1786932038.8741817
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQb0NTelljMG13eUttX0p5cnJKM2k4cDIzMFdWTERxZkc0UXZ0Q0ZsSlZXRERSdHIwMVZBcUdwY2VJRW1qcWZtZjFxejA3UXdWallXRHJkdzB2SnlGZndNN3dHTXRJbC1YalZHOFh2VFhORjVmRnU4di1CbXJtOTJ2NGlwX1Y4YmY5R1dJakhsTkkweVhVQ2lJS3dmVDg4Uy1PMG1yVEUyTW9mMWUxZUFxWUd4c18?oc=5",
-        "headline": "U.S. stock futures little changed as investors ponder the Fed’s next move",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "08/17 07:14",
-        "published_ts": 1786918440.0,
-        "tag": "Fed",
-        "first_seen": 1786918789.09951
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-17 16:30:53",
+  "updated_at": "2026-08-17 16:32:26",
   "yields": [
     {
       "label": "3년",
