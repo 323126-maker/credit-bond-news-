@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9la0hnX2psN1NBT2FkbjBGUnlQVkhYR2REODVIZk9ZSWpXMWdlUEcyMXJxY2UxdVlEMW9TVkNybjgxZld0SFdUakZQTVFTYVppWV9EaGN0SWlINFE0VFZuLTViT0ZRZnF1b3BXeEMwUEfSAXRBVV95cUxNYnpHTVQzcXRzMm82bzJ5dEd4M3Axc0xWM0Z3elRXVy1WLWVmM3hQQ3ZldG01aG12ZXhBN05tdHZoRjBMMHJYc055dTFtd3hxSXJuU2x2ZWo2R0hlMmY3Q2FjZkV5Qy1kZG5VclBWWll0VEdBdg?oc=5",
+        "headline": "[외환-마감] 수급 공방 속 하단 테스트…1.20원↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/18 18:02",
+        "published_ts": 1787043752.0,
+        "tag": null,
+        "first_seen": 1787044523.5248635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YTENOWDAwcm83c2NOeFhtZlYwNGNIWVowNkdkZXdiX1U4ZDZnaXVqUmM1MkJraVRhWnNxc2NPSXhwbEludkZzZ2loT0VTREtZbk1qOW9vcVRRUk0?oc=5",
         "headline": "국고채 금리 일제히 상승…30년·50년물은 역대 최고치(종합)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787018321.0,
         "tag": null,
         "first_seen": 1787018435.323485
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kYzF3WXhoalBsSGJ6VVJ0VW1vZktzalNJSnZ3em52MGlXc0ZWRVl3dFJXMjEyX1pKVDV1b05CNlF4dVZ2Z3VQVXg3VzFhbXM?oc=5",
-        "headline": "\"K-메모리 대체 어려워\".. 무디스, 한국 성장률 1.8%→2.5%→3.5% 연속 상향",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/18 10:52",
-        "published_ts": 1787017931.0,
-        "tag": null,
-        "first_seen": 1787019332.9298232
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qcGRrS29XMGVjQkw4aE4weXFaSWVTeFlPeVUyczdfbG5GWEF6MmJ3bTRLMkxITmk2RzYtNDY3MXRJT2hHeXBNYVNnWDVuYlNpSXh2UVZxcllxUlp3aldnSzdkallaRjRVZ2lHYVNnUQ?oc=5",
+        "headline": "“1분1초가 위험” “한가롭게 골프채나”…‘1일 2이재명’ 장동혁의 페북 정치",
+        "summary": "",
+        "source": "시사저널",
+        "published": "08/18 16:16",
+        "published_ts": 1787037396.0,
+        "tag": null,
+        "first_seen": 1787044523.5248635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTXBkVmhCQ2ZwVV9HWWREdGNaaWZZWmUxNzR2Y2JQNW96QnVwWTRQSW9oT1BUZ0FoVW1KWk53R2Npb3RQVUU2RjZaNm5KaU9yTGZxMXRB?oc=5",
         "headline": "\"정부, 부동산 세금 정책 다시 바꿀 수도 있다\"",
         "summary": "",
@@ -1596,19 +1606,49 @@
         "published_ts": 1786488060.0,
         "tag": null,
         "first_seen": 1786607125.9336314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBvSTA1QzVtWTZBSDBtWFRzR19MWE5BY1lrR2NORkl5YUFaNllCYUxtdE9kdDUybUdIc205aFd4TFZjcXcybmxPQkpKQml1UWk5VTZTQW9femV0RGdCSUhpbk1yRk45dXBHbHFwVTE5YS1UUG1MMkhCYg?oc=5",
-        "headline": "李 대통령, 구윤철에 \"세금 바꾸면 욕먹어…무조건 기어서 다니시라\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/12 07:26",
-        "published_ts": 1786487160.0,
-        "tag": null,
-        "first_seen": 1786488325.739961
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPd21NcUpWM3hiclA3THBPQWNRU2VfZ0VpLTRyajFiM0xPWDRlQ3d5ZlVhMzdpVFZjYXl1RlBidmFzSGJEQnR4SnJXMzZuMl9ZWHZqTE05WllNMENvYlc2SUplMkk5ZHlCTFRqSzZmc1hFanZlbEEzRXFpNnViQU5XZmNLZXFYb2s1dzZhaU1JNGJ6cHJGbl9pdXp3?oc=5",
+        "headline": "This 12.2% Dividend Has “Paid Back” 97.6% of Our Investment (See How)",
+        "summary": "",
+        "source": "Contrarian Outlook",
+        "published": "08/18 18:05",
+        "published_ts": 1787043906.0,
+        "tag": "Strategist",
+        "first_seen": 1787044523.5248635
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOM3RoR2Z4bHlYYkVLNjB3MDZpVXdCOGpTUlFZNGVTUURlR2luZlN5TmMyM3AtbnhGUEpURVppb3J4Qko2dFdOMzJiem5ENktMSGJIUUJjakZhTGJYRmhDNENxbHRQbkFPN29zZG5fTlhrZ2hCR3RVZUQ4WW9GdzBjYlUybmJFRlNoQmp2ekJQNjdGOG03dkxyRGtoN1VIM1djMGpoYm1raFI3QjExVnJNR0VIdlpDNVNBU1Z1dFNZS1FlVVBQRU1feHQ2cUpUSkVHUDA3bGtwNVJrZ0wxczQyZWFsOER3Znc2SFVsMw?oc=5",
+        "headline": "Why Are Nasdaq, S&P 500 Futures Tumbling Premarket? META, TSLA, NVDA, MU, NBIS, SLS, HD Stocks In Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/18 18:03",
+        "published_ts": 1787043792.0,
+        "tag": "Strategist",
+        "first_seen": 1787044523.5248635
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVk55MldBUk9aVVAxMlZqaTRSNVdLMnUyNHpkeTBkbV9vV3dBQlhfdFBjNHdLRTlGYW1yR091anNjdWx6ZVJNd2I4Z2Q1eC1CX1NhY1FSSWJ5cVdmUW0tcl9jcVVITGduTHB3Tm16aTJ5R3VhclVEWVl4NzVFUU44Q3BDdVNlU2JMNXdLV3Yybk9VdjFYZE56eWdnalpfVExYVUpwOWZiOEQ?oc=5",
+        "headline": "Artisan Floating Rate Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/18 18:00",
+        "published_ts": 1787043600.0,
+        "tag": "Global",
+        "first_seen": 1787044523.5248635
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FOWItRHV5UWpubHlySDQxemlkLWcwSno5Y3FlR1FSS0xEV0NXY1d6anR5ODFEemVuOUlYV3gyYVpHOHlTcXI0ZWdYVWhlbEE?oc=5",
+        "headline": "재정적자 엎친데 고유가 덮쳐 … 한미일 장기 국채금리 치솟아",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/18 17:54",
+        "published_ts": 1787043250.0,
+        "tag": "JGB",
+        "first_seen": 1787044523.5248635
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWg1UEUyVGZjRTV4dlJ1bUJGZDdrN1dGajlyZFVXQmhveWtHTkF4MlM3SHNmUzBNajlBaWxjVVRoYm9LbFdNOFpLdmJQUEpBY0RlWlhlWFRtWTFacUQ4UVJ4UTlrMFVDd1JVNjhaNWhEU3ZLWUFYTmIyd1RMRUdJdHQ1X1pPZ0FGcHhmck91MjBQMnBhWEczb2RvSmU?oc=5",
         "headline": "Global Government Bond Yields Hit Multiyear Highs",
@@ -1738,6 +1778,16 @@
         "published_ts": 1787035601.0,
         "tag": "JGB",
         "first_seen": 1787036438.8403282
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQc2dXYlJNZVpXYmdwb3FlSXNQNEd5ZFFDWHY0OFk3aE1zaV93WGpzbGNjYWZrSXBIazhrVEwwWEpISUdObEptYnJBbUJDUzQxUkpqLTJDZXU0NE1sTWVqWW14cE5YdlRONW5uczNONjliNk9xQmNzZ0tOX1VXc01rTDhyTmlkbWV0cTlMbzBDTlZKbWFsMUNKMW1LVkMwWFFPc2xmbnhJQkgwc0RXRmc?oc=5",
+        "headline": "Hawkish vibe at the Fed",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "08/18 15:45",
+        "published_ts": 1787035500.0,
+        "tag": "Fed",
+        "first_seen": 1787044523.5248635
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkxJUG1jUzNDX1VJc29rV05EMTNJRWRNNEllSzZRSmtTVDF6X3g1NlRhTUVCS05mQjJUUzlUTE9TMXY4QW9sOWxpeVIxU2xqWnRxMmpmdnppc1BGNUYxOFJxOGstLVZuU0lSWlYtc2g5RGFPbDBPLWJCUmFGU2FkQ0hESjlxdVAwaHNUNlM4bmdPT2VXVVdUOHN3U1M2aXlZLWNvX3dVdTdyVmZmdVZHTGtBQ3U3SzNxOEROOFlDcEVydmNjNDdvX1g2YlFKcDBSZmY5Z1pEaUNFOC16OWdnWDVDMEpxVmM?oc=5",
@@ -1958,56 +2008,6 @@
         "published_ts": 1787025512.0,
         "tag": "JGB",
         "first_seen": 1787040037.0862546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSVAwWE1mdUxEWlQ1NDRpbUR6YWdlUzVnQ2dzbkgyUUp6aWQ2dzVDZ2Z4SDBvWkJXVnZoanFTR25GR3ZadmFYX1JlYnBEb3VsQUM1bE9zdkpBS1dfdE42dlpRVFZ2cXBrazlLVXl4cW1wM1MtWTZZcVNTNTJNSzAyNF9rZ2NaRXdq?oc=5",
-        "headline": "미 30년물 국채 금리, 19년 만에 5.3% 돌파… 3대 악재에 글로벌 시장 ‘덜덜’",
-        "summary": "",
-        "source": "g-enews.com",
-        "published": "08/18 12:47",
-        "published_ts": 1787024859.0,
-        "tag": "JGB",
-        "first_seen": 1787026524.6075642
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSmlWbndZaFBSMlZ4eldRNnVGTjBSMUFLWmR1OGRoTVQ4U0cyaFc1Q1NWRlZTYkIwOHY3Unp2TXZGczVpalFXT01hOXNqX3MtSmtMUzYwNmlFck10aVBwU1JUSURwWmp3dEJSaEZVQy1PS1NMLVB3UHlqTHY0bEpVSWJMZXFyWlZ0S1ZkWDBn?oc=5",
-        "headline": "U.S. 30-Year Treasury Yield Hits 19-Year High",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/18 12:28",
-        "published_ts": 1787023692.0,
-        "tag": "Global",
-        "first_seen": 1787038863.1828744
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdGlDekYxcGJqbUo2Z3VoNk4yS1FKSmdOeVo0M0o1a3JILVFiZ1k0TlZRNjhBeV9hd3JtajRUOUEtd1BHRHRfREduX2ZGTzZlNThhZ29GaUZKa3BkdFZYZWlyYWRhc2RBSzQyLTdNb0ZYU1k4LV9TQTF4VlhxZFpzVzdyd1NFZHAxakJaWG9ZVFNUQmJwajU2d2VSMjZUNmpxSmpCZGVQaklySHQwUlN0ONIBsAFBVV95cUxOdGlDekYxcGJqbUo2Z3VoNk4yS1FKSmdOeVo0M0o1a3JILVFiZ1k0TlZRNjhBeV9hd3JtajRUOUEtd1BHRHRfREduX2ZGTzZlNThhZ29GaUZKa3BkdFZYZWlyYWRhc2RBSzQyLTdNb0ZYU1k4LV9TQTF4VlhxZFpzVzdyd1NFZHAxakJaWG9ZVFNUQmJwajU2d2VSMjZUNmpxSmpCZGVQaklySHQwUlN0OA?oc=5",
-        "headline": "Global Markets Rattle as Bond Yields Hit Decades-High",
-        "summary": "",
-        "source": "Devdiscourse",
-        "published": "08/18 12:24",
-        "published_ts": 1787023475.0,
-        "tag": "Global",
-        "first_seen": 1787031031.3792446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4waDJIQW9tdU1sRnFYbnYxbFppY2gyaGZKTXE5eGRxTFJOdTFYa3N5QW1UR19sWUNfYnhwOVpkQUhMWlk0MUZPWmxPUVNJTldoeUlMZDBxcnpQS1Bndl9XNHItVHE?oc=5",
-        "headline": "[뉴스프레소] 미국-이란 휴전 연장 협상 교착… 앤스로픽 호실적에 메모리주 다시 '날개'",
-        "summary": "",
-        "source": "MTN 머니투데이방송",
-        "published": "08/18 12:22",
-        "published_ts": 1787023342.0,
-        "tag": "Strategist",
-        "first_seen": 1787024724.9051135
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVTNWWnBZZDFEbXlBOEZZRWJ6UTNyUWJlX0xDaDd1YWlvTkJQUlJvYWh2MGYwbm5XeEc1VHdRdm8zdUJ0S2t0bEV1NUt5cXAwRDl0ZkFjN055bVRRV215bU1UQXVXRENFSGxBTHFlT2NTWEE1LTVSZXctaHBoTkZTRU11SXFCMEU2eUE3MmxOc1ZuS2Mwb09qYzRadHFjTFFKQUhmZkdOeUFpSFNjdmFLYWNBa1Zuc2NtbkMteG9PRGZTdHpEcGhKbFIxRTVYbThKLUJYQmxTekpHeGdxZXlLV3RB0gHiAUFVX3lxTFBVM1ZacFlkMURteUE4RllFYnpRM3JRYmVfTENoN3VhaW9OQlBSUm9haHYwZjBubld4RzVUd1F2bzN1QnRLa3RsRXU1S3lxcDBEOXRmQWM3TnltVFFXbXltTVRBdVdEQ0VIbEFMcWVPY1NYQTUtNVJldy1ocGhORlNFTXVJcUIwRTZ5QTcybE5zVm5LYzBvT2pjNFp0cWNMUUpBSGZmR055QWlIU2N2YUthY0FrVm5zY21uQy14b09EZlN0ekRwaEpsUjFFNVhtOEotQlhCbFN6Skd4Z3FleUtXdEE?oc=5",
-        "headline": "Several US heavyweight investors reshuffle their Chinese tech stocks amid AI boom",
-        "summary": "",
-        "source": "South China Morning Post",
-        "published": "08/18 12:00",
-        "published_ts": 1787022017.0,
-        "tag": "Strategist",
-        "first_seen": 1787027434.960928
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 18:01:00",
+  "updated_at": "2026-08-18 18:15:46",
   "yields": [
     {
       "label": "3년",
