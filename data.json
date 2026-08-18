@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQckJiaHRfS1JHQ1BlNHNRRGJ2VzlaMk9KUVUxTjhFaVctMzZPblRGN04zUjBXZGRaS3R3ZUp1V0lBWk1tTERmWndGLTB0QUFsSXJYeUQzT0doQmdrSFNaWENhV25mUEV4M2NTdWVDLXVvNWZNVC1lN3F1N0U0RVNiRGJldUM1LXpl?oc=5",
+        "headline": "What smart investors are saying about a 2007-era warning flashing in the bond market",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "08/18 23:45",
+        "published_ts": 1787064302.0,
+        "tag": "Strategist",
+        "first_seen": 1787065241.747095
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdFYyTG1yNTV3cnpUT2xnbjlxY0NtZkJ0anZkSTZZSFZXVUc1LTRPVXJxdFJWUmhNNDZhYUE1T18xSmpLcW00MlYwaTBQZm1lak9tTjhnQ1JnRG5yUmdYUnFzWlFTcW92VFd3ZUczNFVZM3hDY0tKVHlSZzVrbnc2UnY1bmgyMnpkeFlQZlhrMVlTMkNwNlI2cGlwd01Sc2xGLVpVNzZ1bnJFVlFzOFE?oc=5",
+        "headline": "Diamond Hill Short Duration Securitized Bond Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/18 23:45",
+        "published_ts": 1787064300.0,
+        "tag": "Global",
+        "first_seen": 1787065241.747095
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUHVBQ2JoX1IzNy16bXVCQ3ZHa1VNT0dWeVBFU29sZU8wYmhJdzBYMzA4MlBKdGVpbW9kLUdhNzZnRWtWMWJsWmdRcG1sTy05bUNVUFZoZGR3R3RaUEZubjN4TkkwQWZoZVk3Y0ttT3Jndzd1SEFEOGh0SUZRTy1hRDZzc0ZxSkRrc3FtS25LdXJwMEc5?oc=5",
         "headline": "Breaking Down the Global Bond Selloff",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787045194.0,
         "tag": "Global",
         "first_seen": 1787045871.078998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMHBUWWlOaENUOEVXb2lBTE5KZUJta1ZkRjhOTURWdU1scmJZUTNNWk0tWWJqMVQ1dm1JUG9YTHV5Y1NFOEJOLU5jNW94SG55X3FwRUhhVVR5TEFvZHRWdGxQenN4STdDbGpocUo3dGVtT2w4ai1Ub0RmUGR1T2FzYWZxaGs3U0RfNUhwb3h1WWRZOFNuZEdldTJTR2xKZVpxMURkYm5VTnR4UU42S0tCOFVNVnhxaEh6TWV1anZuaGFaejNIbFJaUG93cmVleW9sOG5aUTFWRkQzVEg2WTZxU21jZjVhUzhKMnc2Njhub1JLTVVkcWZIM19DNzV5VWRVNkpPSGZB?oc=5",
-        "headline": "Peter Schiff And Mohamed El-Erian Warn On Rising Treasury Yields - iShares 20+ Year Treasury Bond ETF (NA",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "08/18 18:14",
-        "published_ts": 1787044481.0,
-        "tag": "Strategist",
-        "first_seen": 1787045431.4065855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVlheUxRMHRtQmRQWXpURzhpWENzQjRpNWZyZEdGQ3dRaEN0Z2ZTNm84X0xBYWw1WDR3VUtYYjQ3RXJ0NG9xazJneTE3TzZMNXQzblRidzlfc1pFUy16QTlkYV9JTjdKbVV6YkFmUUxVRFZMZzVXUTMxdm1CMWx6d0JHTXY?oc=5",
-        "headline": "Global bond sell-off deepens amid fears over inflation and AI issuance",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/18 18:13",
-        "published_ts": 1787044432.0,
-        "tag": "JGB",
-        "first_seen": 1787045431.4065855
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 23:45:55",
+  "updated_at": "2026-08-19 00:01:06",
   "yields": [
     {
       "label": "3년",
