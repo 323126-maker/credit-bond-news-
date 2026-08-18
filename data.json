@@ -1800,6 +1800,16 @@
         "first_seen": 1787060726.2786834
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXladXF3Y2NnZ2t5d1FxdVoxRUhTd2FvR2t0ZFY0TWpmRVRjZnFGdEVtQ1JYX3JlbzBLZVFZZEFjc2VpR3RueHdjc1BZZlhGdllVTnVWWGZ0RmJiUncyc1M5ZTNVNWdNX2oxNy1kd3dkSVJ6MUFKbzB2RVNkN0M3MjI1TFVIQTl1YmcxN2FkQjNuWkJnMGI2U04xdzVmUng5Wjc0c040cktLbWs?oc=5",
+        "headline": "Long-term yields in US, Japan, Europe soar to highest in years",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "08/18 21:57",
+        "published_ts": 1787057820.0,
+        "tag": "JGB",
+        "first_seen": 1787071924.1029968
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVRBTzRuOEJ3T083RTdMREpEdlA4WGZsZWJxSElPbzZFa1liRmUteG9lbXEtd24zYjVsM0Q1cDcwWDVBUm1oVjB6bERZdVBVUU9mdkpqeXYxNUV5TXhva2ZINVlVc05IeWlJeWVUVWNBWG0tVW5SdmpyZ0UyUnAtY2pHSFJxM0tDc0pERDRjOVJFZ050VWp3Zm5ueGtJSXNLQ2pZ0gGwAUFVX3lxTE1Kb0xCT1VRQWxEMUEyMWpCUEI0Mm8xMUlOQnNzM2lFbi1UZGdLclk5aDM2MGQzaF9MU3VDZTRqUWxBSnBLMmFhd29PNnlkZGZFU043U3pwa1BHUHgtOXIwYUpwVVhBQmdoRUpLQkt6MnZWSGdUc3hNZlBaNG4wZ0ptZncwSkdUM2pvSkhacEE0cUZLRnBsSnUzMFBJb25xNzlaelNsRUc0eUFxNWY3Wnct?oc=5",
         "headline": "India’s First Blue Bond Is Coming: Who’s Raising ₹1,200 Crore And Why",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/18 19:14",
         "published_ts": 1787048096.0,
         "tag": "JGB",
-        "first_seen": 1787051724.666756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdGdkclBZcVJtVWZuVUxQZ2lFNmtRd21DYXBRVDhid29kdkVfY21SZ2wxNWxyWG9obVUyazBZUXliSDh5RjdPQkRjaTQtWGJTdlA1ZW1VWnBmTkpmU2I2ZWlUTUgtOExBU3M3Y0R5N29UVnpzYUd1TlRQRXpHVUxocG1TbnU?oc=5",
-        "headline": "New Fed Chair Kevin Warsh's Dilemma: Inflation vs. Political Pressure - News and Statistics",
-        "summary": "",
-        "source": "indexbox.io",
-        "published": "08/18 19:11",
-        "published_ts": 1787047860.0,
-        "tag": "Fed",
         "first_seen": 1787051724.666756
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 01:45:48",
+  "updated_at": "2026-08-19 01:52:28",
   "yields": [
     {
       "label": "3년",
