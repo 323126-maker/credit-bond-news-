@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WZ0Z4MGlKcG9fR3BYSzJwNzZhd3Q3TWp1LVZfaWVYc0hkMWtMaUIxZGJ4RnFGbHZ3dmRadVItMGtOZE5jNkVSaUFlZUNsemFMNVFR?oc=5",
+        "headline": "정부도 AI기업도 돈 빌린다…美 장기금리 19년 만에 최고",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/18 08:48",
+        "published_ts": 1787010480.0,
+        "tag": null,
+        "first_seen": 1787011238.2582426
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNcXhtMU0wcVpDblEyZGVSa0lzcXNFd1F3V3pCbUZabGNvN0dGank0OHN1OWRIeWNwdXM3NHdWc1hsbkRRcFAzVVlZLXBPaDJhWkVKNE53VmxHSXY4VllVTHZ4UnBtZHAxYnR5eGhXbkZ6Q29DTjNTS2ZjVlppX3N5Z2ppREQ1ekM0?oc=5",
         "headline": "美 나랏빚에 AI 투자까지 ‘자금 블랙홀’…30년물 금리 19년 만 최고",
         "summary": "",
@@ -824,6 +834,16 @@
         "published_ts": 1787006106.0,
         "tag": null,
         "first_seen": 1787008906.1702528
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1hVkttb09iNFpsLVU4aV80NzdDYkJVVGtpclpDRlZZckp5Q1RtNEJwUEdPS2VkMEQ5MTBWaTJCM0VSYVY0Z3lHazNqSzVUNmNxRHBVZ0xsTjVsUDM4a29OcmZXc2k1NlFXMWVPVw?oc=5",
+        "headline": "美 30년물 5.31% 쇼크…韓 장기금리·환율 변동성 '촉각'",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "08/18 07:15",
+        "published_ts": 1787004900.0,
+        "tag": null,
+        "first_seen": 1787011238.2582426
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOQUlGYUR5cDZxRlRaMDdsU1lLTlpCWEFFaThVVnQyOUd1TDlkaEdxb1poYnRTcmhxMVF1V0NsRWtiUTdKZVlhUUlTV2x1bzVWbVM0bWU0LUNSRE1qbWJ4cWM4NmpUb1NncEtIQW1qSW1lZklkLVlMMlFleF92QXJ4YzR3OVNPS2tvRk40dEp3?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1786654800.0,
         "tag": null,
         "first_seen": 1786683638.1442363
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ZTndXVEZHZ3h6VTZNOWt4SFQ2UUdGRWxuczM3NHRucVZzeHhDWE9BcDl0aWJ2N2Y0QmphNmExdDhFS19vNUxYWUJyOUFTX0xJaTJCMg?oc=5",
-        "headline": "[채권마감] 구간별·현선물별 혼조, 미 CPI 안도+저가매수 vs 외인 선물매도",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/13 17:24",
-        "published_ts": 1786609440.0,
-        "tag": null,
-        "first_seen": 1786753489.673666
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WNDdDUFhQeEV0RjRCb0xZa3hJcUdzRklRS0drc3RyaTI1NmZmR215ZFNnNWEtX2Fsd1BWbjBxeFpBcloxa0stUEFyQUN4c1dYSVhNQmNoU0o5U2RTQWpIOXEyR0U?oc=5",
-        "headline": "美 물가 둔화... 한은 '두 차례 추가 인상' 전망 바뀌나",
-        "summary": "",
-        "source": "매일일보",
-        "published": "08/13 15:32",
-        "published_ts": 1786602762.0,
-        "tag": null,
-        "first_seen": 1786826872.439284
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 08:47:25",
+  "updated_at": "2026-08-18 09:00:57",
   "yields": [
     {
       "label": "3년",
