@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxNVUpYMW9JNnd4Y0pRNVNyVkttRXZtOERwekxJX2JraWZrdlpIQkRVSU4taktUNHRCOVVvd21GcVAwd0NlVmJEYVN4WnVsOU5GenZnTlhBQVFpZnRqSVR4bUp4dEJyN081UDFzR2Izb1E4aWhqTFhSLUxyT09QUm1fN3pNbkxXa0xHdURhSGdQYkcwUUp5ODBOeEFwQUYtZG5QOGwxUmR0SVZuclNpRkFuQTB0SHY0QmhWaVVyX3BqaFg1OWVyZmsxWU9ybnp3WVM0eTBGRzJrQWpuRWZoUzVqbGV0QnZHOGhrRTZtUlJxeTRhTnpnUjVKeUZKYWdYd1RiVlRMRy1OSFVRdVdBUHhHSGRtQ0JGWVdOMDc0WWVleUh6WHlUX0VCRVQtdTc?oc=5",
+        "headline": "유동부채 1.4조 늪…’적정’ 받던 콘텐트리중앙, 5개월 만에 ‘의견거절’",
+        "summary": "",
+        "source": "뉴스필드",
+        "published": "08/18 12:05",
+        "published_ts": 1787022345.0,
+        "tag": null,
+        "first_seen": 1787022925.2867904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5IT1FUZHQ0cVQ4YlhlM0RKbzktZVQ2Q1ZWZjJoS01VWjE0MVV0aUZYMDFXaVQyeFV6SjJjSEhJSWNobE1SRVpaQnpmeUhSZWZnd1JQajF3b2IyMmxoWGFjSlBmUQ?oc=5",
         "headline": "“한국 경제 이 정도였어?”...무디스, 韓 성장률 전망 1.8→3.5%",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786997460.0,
         "tag": null,
         "first_seen": 1787007028.414631
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WZTRic2p2cFI4cXRPb0ZGNWhRbjBuQ3FJd3Z3dmJ1Mm1wQjFyUzd4Z3JvOHBzZVdWVk84Wm1LUFJXcGQxc1VpTmdtZVNoTjkzTloxeDVVVXVOd285WUkzbGRxZmVtc1NIQ01oQkQtUXRFZw?oc=5",
-        "headline": "[뉴욕채권] 베어 스팁…유가 급등 속 30년물 금리 2007년 이후 최고",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/18 04:49",
-        "published_ts": 1786996187.0,
-        "tag": null,
-        "first_seen": 1786997730.5208888
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 12:01:04",
+  "updated_at": "2026-08-18 12:15:45",
   "yields": [
     {
       "label": "3년",
