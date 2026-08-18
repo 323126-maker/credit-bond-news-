@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdWY4OHl2UGRIVURjM2pUcUJpVC1KcUdneFBFMFZuWlBmWS1SeTZHVElXQkxsMDMyak9jN2RlbkR2TEEzcGF3aG1ERFprc2JzcXNQMnU0R3hWaWNLVUlSOUdrOF9PSlRmai1Jd3ZaTXRvTUNrT0Fvc1VzSnFlWjVEOHdheTczbVFSeVluY01wcUNUSlhrY3VHa3dSRVpaZ3RNOVFPYTNLOExac3hOMHFqRm1mZkdCaDZEYXN0STJ3S21ZRjg?oc=5",
+        "headline": "U.S. 30-year Treasury yield hits highest level since 2007 amid global bond sell-off",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/18 19:58",
+        "published_ts": 1787050680.0,
+        "tag": "JGB",
+        "first_seen": 1787051400.897479
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVHE0LXlFTl9UNGZydnFtRHlHbl91T25iVXFlOGJyX2g2Nm9RcE9FTy04WXBYeXl6VnNVNzR0bVczRHZtM2lSZDZwRW5aSlotZ0ViV3VUbThSa2xFeHRKM1NxcnZBSkxocW9xczNaMVVsc21SU3BSV2JSTzZQWWdfd1R5M2p3SGZCSVh0X2x2TzVvQVR5eURpNmhfb3ZkZFU0OXZpTA?oc=5",
         "headline": "Governments’ borrowing costs hit further multi-decade highs as US-Iran peace hopes fade",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787032920.0,
         "tag": "Global",
         "first_seen": 1787033724.7527575
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVHAzQjBlb2FqaUROaUxNVVZBNnhKaVZrQ2plWDlwZVpjSE9oTzQxUWsyTTY3aWhhSjVUUWFUWlZ6WW1TT0JUZEYyeXd0amNvd3E3ZEpVcU02VGJTTms4VzRnV2ZpeDZRcWsyUG9TNkVHYUtxVFJLeHJoU1ByWXFOd0J2TFlLWkh2SUtLYWdLYmlrVmtLWjRQMzcxVnlHUQ?oc=5",
-        "headline": "What the $489B AI Debt Wave Means for Treasury Risk",
-        "summary": "",
-        "source": "The Global Treasurer",
-        "published": "08/18 15:01",
-        "published_ts": 1787032912.0,
-        "tag": "Global",
-        "first_seen": 1787042724.3395603
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 20:00:59",
+  "updated_at": "2026-08-18 20:10:26",
   "yields": [
     {
       "label": "3년",
