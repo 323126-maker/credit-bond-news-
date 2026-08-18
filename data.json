@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUWdMdW96RUpIYi1yak9LdUVaeHNmOTBoNWJFQm00bDNFU3JwZDI0a2VyNGpxajIxOVBZYmYxa0puQjdCSG5CSVZEWHB4LWd6bF9GLUJiVjVORXBxVlBYQ2Q2N3dGTU43c2ptVDZYV3NCZ0ZEaGxoNVMxWGhTcmlFTlFET2ZXMjFhM1BN?oc=5",
+        "headline": "무디스, 韓성장률 전망 대폭 상향…6개월새 1.8→3.5%",
+        "summary": "",
+        "source": "국제신문",
+        "published": "08/18 09:59",
+        "published_ts": 1787014740.0,
+        "tag": null,
+        "first_seen": 1787014834.7241309
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBkX3NvcTkzWVJiNHJLSmJFVUplU2pNd2cxOFlXWmlnbzR1cUJBcng4LUk2RGVXcU5Da2lUSFZabTAzOXN1X2daM05jV1hYdzFyZEtR?oc=5",
         "headline": "美·이란 갈등에 유가 급등…3대 지수 하락 마감 [뉴욕증시]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1786952547.0,
         "tag": null,
         "first_seen": 1786953639.7814617
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5WQlRSUEZCaGNxNUNBOHZHemJlMS1HMXZhZUs1aF9LX2dPSXVqYXR5aktSS3d6WGxrNTJKQUtOMDJSRlBTUFNZd0w2UVRhd2R1Wml4OUZGVXozZw?oc=5",
-        "headline": "기업대출·회사채 담아 안정적 이자수익 노린다",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/17 16:08",
-        "published_ts": 1786950505.0,
-        "tag": null,
-        "first_seen": 1786959031.940122
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE55OXc1MjdwdVNPLXdjZ1lMdGR4LUtmbHJSSzNzdUN6VTJScVBDOUcxdHc3NXlZTkVHeUFHMHo0RWVjVTcwaURyWUNNeFJyQUpUQXpGN1dPODBCMmRTUlRBRQ?oc=5",
+        "headline": "치솟는 美 국채금리에 원·달러 오를까…1410원대 등락",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/18 09:47",
+        "published_ts": 1787014063.0,
+        "tag": null,
+        "first_seen": 1787014834.7241309
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5WZ0Z4MGlKcG9fR3BYSzJwNzZhd3Q3TWp1LVZfaWVYc0hkMWtMaUIxZGJ4RnFGbHZ3dmRadVItMGtOZE5jNkVSaUFlZUNsemFMNVFR?oc=5",
         "headline": "정부도 AI기업도 돈 빌린다…美 장기금리 19년 만에 최고",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786661175.0,
         "tag": null,
         "first_seen": 1786697127.4434154
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ISDlVMXRvZW4yY2lSQWE0S0NJNS1VNEFZV2xvT3NqNUxzd1pvNUozWXB5anJBdDA3X21NRDNaRkIyQjRTOHgwZVJiRTFxUm1HbHhSNkxNaWw?oc=5",
-        "headline": "[뉴욕 금·채권·달러] 미 PPI 둔화에 9월 금리 동결론 힘받아…국채금리·달러 하락",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "08/14 06:51",
-        "published_ts": 1786657860.0,
-        "tag": null,
-        "first_seen": 1786782634.7232893
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 09:45:49",
+  "updated_at": "2026-08-18 10:00:58",
   "yields": [
     {
       "label": "3년",
