@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nOTlpd2hGMHJYZGZYa0JEMG9UcW8yOUQ5YmV6OV9Ca2l3d1E4cGxFWGZ0NkJIajNjTE82eldUcWJCeUx2S0N4emZKUkJQY2JKc0d4NVBGNHV2elZVRGFyRjJnMzFMTTVmems5VktNaw?oc=5",
+        "headline": "미국·일본·유럽 장기 금리 수십 년 만에 최고… '재정 적자·AI 붐'에 글로벌 금융시장 '경고등'",
+        "summary": "",
+        "source": "프리진뉴스",
+        "published": "08/19 06:48",
+        "published_ts": 1787089698.0,
+        "tag": null,
+        "first_seen": 1787091743.6302202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56b050WmczYkI2SnVKOWFLbjVFUFlGcVVRejFJUzRJaktpUmVGUGhITFMxdE1JWjNsaGRPSU9WNXdFODFuTERnRWlINXotcmxzNWc?oc=5",
         "headline": "박스터 인터내셔널, 채권 매입 한도 6억 달러로 상향..42억 달러 조기 응모",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787031480.0,
         "tag": null,
         "first_seen": 1787036438.8403282
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE01a3F4X0k2MTd5TTRGWl9ZaGdNUENrOEkyQWpWQTg0ZFRESDF2ZkFLUE9vUVRXYjJWMldXcWc1Z2NVay1DdXBRYmZ5Tk94dzZZSXdVdHBSd2JHdlFWTmFfMnhB?oc=5",
-        "headline": "[포토]'기이한 연예' 장도연, AI남친과 함께",
-        "summary": "",
-        "source": "일간스포츠",
-        "published": "08/18 14:33",
-        "published_ts": 1787031180.0,
-        "tag": null,
-        "first_seen": 1787031922.722678
       }
     ],
     "perpetual": [
@@ -1690,6 +1690,16 @@
         "first_seen": 1787083236.7062333
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ncjBGNzlkNWRJQjY5QU1UV1hUNDdpS0FmckR1S2REeFc5TkplemhCT2w1SGhQeW5PODJvVFZVY3lyczkySEhuSDZyMGdYX0ZzdnBJTzlST2lUcXZMUmZWNHVvVzJCM3VLMlBseEFpNnNjYVh5eklHSU52bw?oc=5",
+        "headline": "세계 장기금리 더 오를까…월가 “쉽게 안 꺾일 것”",
+        "summary": "",
+        "source": "이데일리TV",
+        "published": "08/19 04:47",
+        "published_ts": 1787082420.0,
+        "tag": "JGB",
+        "first_seen": 1787091743.6302202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQWg1UEUyVGZjRTV4dlJ1bUJGZDdrN1dGajlyZFVXQmhveWtHTkF4MlM3SHNmUzBNajlBaWxjVVRoYm9LbFdNOFpLdmJQUEpBY0RlWlhlWFRtWTFacUQ4UVJ4UTlrMFVDd1JVNjhaNWhEU3ZLWUFYTmIyd1RMRUdJdHQ1X1pPZ0FGcHhmck91MjBQMnBhWEczb2RvSmU?oc=5",
         "headline": "Global Government Bond Yields Hit Multiyear Highs",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787061653.0,
         "tag": "Global",
         "first_seen": 1787062529.8924944
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzZKRGJBcjB6SXNVcW1HRkM3SG1Bd045Qy1PYXNnam9FUEJ6eXhmdE9fTWdjSUV4T2RjaVpFRDBpdTRmbjJxZEhvZnZVcWlxTWo2dTF5d05XVXhPejYtb1oyNDQzYkVuYTRHVzVkb2tUTUlqWGhmRVdoLU9TYjV3aktia1RUVy1YbzhRNHVGSm12YXdxSEhXMlNLZjFuY3NhdWVicTN2eEM?oc=5",
-        "headline": "Central Bank Balance Sheet Runoff Hands Bond Yields to Private Buyers",
-        "summary": "",
-        "source": "stonex.com",
-        "published": "08/18 22:54",
-        "published_ts": 1787061278.0,
-        "tag": "JGB",
-        "first_seen": 1787061593.4182885
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 07:15:51",
+  "updated_at": "2026-08-19 07:22:52",
   "yields": [
     {
       "label": "3년",
