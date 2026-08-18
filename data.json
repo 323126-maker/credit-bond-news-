@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNdVR1dFhVeUp5ODlxd0xoQ0hYR3NEejhNenVpRFpZRkl3ZW5YQURkOGM4X2VxYUQybHRkRlU1SEtNSk54ZEREVjdCZ0k3QVVGblRDMktpYzItUk05QjlnZGxUY2JKemFGcktxV1A2WElwZ255VkRMak02V1E5cGt2aURaUnBabFJvbUdkbkowcHI2bWpyLVh1LTNZemxuRHRMMV9TUndhR0R0cHZhNGFkX01yWlAzVnBsd1dQWmEzdGxETllTQk94b3FfbW9yMGJMczJ1NFd6VTd0TTJMOHB6dGMwNU03bjBa?oc=5",
+        "headline": "The Fed minutes are coming —and they’re more crucial now as Warsh limits his communication",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/19 03:19",
+        "published_ts": 1787077140.0,
+        "tag": "Fed",
+        "first_seen": 1787077834.7581549
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0JWdU1mUW93RlhVZjdJVW5NMWxCYmR3R1czcmZDcGlNcUY3Yk1sTjdEOEVxc21PbmkzYkVkNHVVejhEaW81eTdRSnZmSnFnb1NSXzBVeHMtaWhrMEdqTWFaTUNPbU51QTlSWTh5aWxJRUdfTHRONjdSTkVVZm1GVjVoNTBNZ3c1eU1WRFBzeGUyT3BBNEY0bXQ0RDRLa0JtNUh3?oc=5",
         "headline": "Why This Could Be the Bond Market’s ‘New Normal’",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787076420.0,
         "tag": "Fed",
         "first_seen": 1787076926.7286642
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNRjZuRklaU0VtUkdMUF9FSnJ3MFJoSllVVjhtamF1T1luMm5RMWVaQ2k2dVF1YlpiLXY4dm5JUFZRZDZyZUQ1XzlWajVhYm9WTDJYbXVic2FHRHdjVklwMXRVLUdIVXV3NHlzTE5sLTNtdUlONGVoT2hGRzJzSjMxWW5mVzZGRlFaRFhXcGRHMFp1bFJSeGkw?oc=5",
+        "headline": "Jeffrey Gundlach will discuss market opportunities in a live webcast, David Rosenberg notes",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "08/19 02:35",
+        "published_ts": 1787074537.0,
+        "tag": "Strategist",
+        "first_seen": 1787077834.7581549
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFQUdCS01rX1pDYU1DRUFxWEQ5S1c4Y2VBN1RiQi1ONjRuNnRreVh6UFFqM0RNMVEtbW5rSGkydXA5VGU4N1Z6MHg4VG5NYnUyQUF6RjQteHctUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787054139.0,
         "tag": "Global",
         "first_seen": 1787054438.8947024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ldlE5ZDlCano1Yzd5QnU1Y01Jc24zS20wQTB6Q2dTZXZ3bVlSSlZRX1cyZjVvc1E4UUtZczZjbHZpTm5RQVN6cjFURnBVR2E1UFlhRHhrcTNkM1B4OV9v0gFfQVVfeXFMT2V2UTlkOUJqejVjN3lCdTVjTUlzbjNLbTBBMHpDZ1NldndtWVJKVlFfVzJmNW9zUThRS1lzNmNsdmlOblFBU3pyMVRGcFVHYTVQWWFEeGtxM2QzUHg5X28?oc=5",
-        "headline": "미 30년물 국채 금리, 19년 만에 최고…국내 금융시장 긴장",
-        "summary": "",
-        "source": "경향신문",
-        "published": "08/18 20:42",
-        "published_ts": 1787053320.0,
-        "tag": "JGB",
-        "first_seen": 1787057125.2186813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVVM1Z1pDdXpEVDJkcWF2TDZab1FQa0U5emF0Nk05M0F3X09SeWxKQ1RIeUN6eU9pSzMxSFQzM3J5bVRGWUswM2FNN2E4MmxTT3VTRldQLTYzd2otVUpEZkJOamZHWjQ4NjBhZWVPS3hFeXNSNkYyaGo5ZlVVbTlsT1ljaTZyM2hybk13RzNjVTZXblZNcHpfN1lQQUJMcTRFSkRrVw?oc=5",
-        "headline": "Long-end yields have quietly breached key levels, leaving the Federal Reserve potentially powerless this time.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "08/18 20:41",
-        "published_ts": 1787053288.0,
-        "tag": "Fed",
-        "first_seen": 1787055247.8967068
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 03:15:56",
+  "updated_at": "2026-08-19 03:30:58",
   "yields": [
     {
       "label": "3년",
