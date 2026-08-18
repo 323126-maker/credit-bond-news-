@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5YUThoS3QxY0dxUktNRXhldy1RVWs2VkhQMHR4NTgzVUJMSExTYkZJdlkwOXJ6WG5vdkc5TWI2TW01Z0xKTnZuMXhJYzNneHVTUEd6TEdvN24?oc=5",
+        "headline": "채권시장 ‘강력 경고’ … “쉽게 끝나지 않는다…포트폴리오 다각화하라”(종합)",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/19 07:55",
+        "published_ts": 1787093700.0,
+        "tag": null,
+        "first_seen": 1787094037.948354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGZVdtcmZhN0Y1bktSVmI4a21qc3haSFR1eTZFTFhfOG9wWEhPbS0zZ1JyT0hFSWJqRlBSNkhhNDkzWkhSY1Q0SEJKMndod1Y0SWFvbEZteVE?oc=5",
         "headline": "美 30년물 금리 19년 만에 최고… 월가 “채권 매도 끝나지 않았다”",
         "summary": "",
@@ -170,6 +180,16 @@
         "published_ts": 1787070090.0,
         "tag": null,
         "first_seen": 1787070634.8556714
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qWXJ5c2lzNzVLWWxoZlZlR045c0tucGNLRkpfWDVaWlNxN2Z4UTJCZktoVlphcV9ZNjQ2Rm5yNG9JTGNqX2U0Vk5fNFlxMnM4SVNBdEFTSnNPOTVXQlJyMzQzRU56WVZXTVVpMW5BakRPQQ?oc=5",
+        "headline": "비우량채 발행 42% 급감…BBB급 이하는 ‘반토막’",
+        "summary": "",
+        "source": "마켓인",
+        "published": "08/19 00:08",
+        "published_ts": 1787065695.0,
+        "tag": null,
+        "first_seen": 1787094037.948354
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9RWTR3S0h3emtvcDFza1ZGWEEzQnFneE5pbFgtejNwSjB5YWNZeUpna2ROalVBNDZfY3JGTExVY1RucHFFYjBLZFRIWU05ZExjUkV1OVhkVEZEMmlSWk9HVlVRVzFaVUYwdGc?oc=5",
@@ -378,26 +398,6 @@
         "source": "머니투데이",
         "published": "08/18 15:50",
         "published_ts": 1787035833.0,
-        "tag": null,
-        "first_seen": 1787036196.4440143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9fVExueE12QWQyTjFfa0dMcTdxaWZZSHNnWlN6Q1hhUmVCZW94SHB6QzlNRnRSOXQzVFdpeXVxMjc0ZW53Um5hcjZ3b0lSS2ZKUlRZWA?oc=5",
-        "headline": "美 국채시장 덮친 ‘장기물 발작’…30년물 금리, 19년 만에 최고",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/18 15:42",
-        "published_ts": 1787035320.0,
-        "tag": null,
-        "first_seen": 1787036196.4440143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41aE1LZFpVYVFMelcwVWtodGVYTlJTT09oMFp1TW5YTlhBVjM3SlhDVVk4THJNNFVBdGhqTHQ2RDdWdGtyZjk5Ylo1SF94a3dOZDAybmw0X1FXdjgtS2FONdIBeEFVX3lxTE1NbWFnRnJWM2RlZXNhRWZyT1BkdklhWnNxNUdrV3dtdVE2UTRabXFwY3R5YjQzS2VHdGcwcURwNXE1R2FFUEpqM0RfQndCSzZZelRjdElZSU9oaWJnQm4wUWdRd0R2MDNoTTRhNVFBMHpNU0hIM2ZFVQ?oc=5",
-        "headline": "원·달러 환율, 1.2원 내린 1411.8원 마감(종합)",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/18 15:38",
-        "published_ts": 1787035106.0,
         "tag": null,
         "first_seen": 1787036196.4440143
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 07:51:11",
+  "updated_at": "2026-08-19 08:01:04",
   "yields": [
     {
       "label": "3년",
