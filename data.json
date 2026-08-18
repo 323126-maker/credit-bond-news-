@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeTBYX0FnSk1NdDQtOGlOTzFKVGJhZlJMYVpOb0lGZ0Q5OUpGSTc1MGdlOUZZUmIzVk14dTBlbWlUbHZ3MzlvaW9wTENvYTdhM2tFcWFLaGpMam0xZ3JyaFlod2UwcW9ZbmtmQjMwX0lRVHZ1MjZjQ2VQbFl2bWpJSTJ1c3pGQmdPeXgwWWFFeF9hcl9K?oc=5",
+        "headline": "Japanese Government Bond yields surge, pressuri...",
+        "summary": "",
+        "source": "Pluang",
+        "published": "08/19 02:19",
+        "published_ts": 1787073566.0,
+        "tag": "JGB",
+        "first_seen": 1787073976.427291
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYUwzVmhqOFNJRU9xNmhsSDAzaFNaWlAwRTl5NWxsaU9nbzU0YXBMWkliQTg0X1MxLTVOQWN3cU56bEd5UTlJYWlvY0w5OVpJQXBtczJSSEdvR1VyYl9kZ2x3OWsyQ0gwOXBKQlJUZ3hETXlPWW5CRDd6dFZVWGVxQXl1dHNXWXVHZUZNRk9QZS1vWkt2MW9NR1R5eHRJbVVqOXdCZ0RSSzluMGhkZG45YjA1WQ?oc=5",
         "headline": "Japan’s Bond Market Selloff May Drive Treasury Rates Significantly Higher",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787049648.0,
         "tag": "Global",
         "first_seen": 1787049779.487507
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80MUdEaDJBbmNIaWxJbzZ3UHlmSnUtMHdvdnhFU1Z3akNLRTZtMHFxQW9CdElwWjdmSzkzLUNXR1U4dGtfM09IcDZ1MVNzOVpGdHJQZ3V0UkIxWU9y?oc=5",
-        "headline": "Will Waller Hedge at the Global Central Bank Symposium? Is Internal Fed Divergence the Real Focus?",
-        "summary": "",
-        "source": "深潮TechFlow",
-        "published": "08/18 19:39",
-        "published_ts": 1787049576.0,
-        "tag": "Fed",
-        "first_seen": 1787052635.0154514
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 02:15:48",
+  "updated_at": "2026-08-19 02:26:41",
   "yields": [
     {
       "label": "3년",
