@@ -272,6 +272,16 @@
         "first_seen": 1787009432.267064
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aaEpVT0QyakdSbVNjd3JyX2VvV0RHaGN6S1ZLLWlsVlRIYWxPejVwaklIM29wcHNlLWk3Q1RHWE44NnBqQXZnZmRwOGhWYVNoVXgtR1ItMFE5SFZVLVVGVzd1Q1FUODlxZTgxMk5XUExDSnlQ?oc=5",
+        "headline": "[뉴욕마켓워치] 안 멈추는 장기금리…주식·채권·달러 이틀째 '트리플 약세' |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/18 08:17",
+        "published_ts": 1787008652.0,
+        "tag": null,
+        "first_seen": 1787031113.8839507
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5qLWlQS1U4Y1Rkb043RHBOMlBOaUp2WXNGZjROQi1QSHpNTDc2QmlaOVpON0JrbDhyNjZiXzRLb3phTlVOdlJScFAxTFhHcVU?oc=5",
         "headline": "[굿모닝 마켓] 뉴욕 증시, 협상 난항·유가 상승에 동반 하락 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787002221.0,
         "tag": null,
         "first_seen": 1787010425.0922027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9sVGhDbUt4MlJBcnlRbldSdm9rMmpueW4xekNWUGdSNWE1Qlh3NTk3cEFWNkZnTVpCUGlfNEwtUTlLeFBmZGZvLW5pN241QWRFTmJwUGpOTFpMZw?oc=5",
-        "headline": "\"반도체 호황 내년 중반까지\"…무디스, 韓 성장률 전망 대폭 상향",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/18 06:22",
-        "published_ts": 1787001762.0,
-        "tag": null,
-        "first_seen": 1787001926.5361345
       }
     ],
     "perpetual": [
@@ -1980,6 +1980,16 @@
         "first_seen": 1787013925.813235
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZlNpd0Nxc2EzeU0ycU04dG5WQ0taQjlFZjBHZnNaYmNPTTViOC1xY1lyeW1JdnRvZDYtalFvdGtsc1NFdS12Tk5LQXlQc1BIcjJVekdiSTNKdFZhQnZjY2h4blVHMXpPOFRWQTJSUi1mYzhfREJZNE00NFlHXzBmWGh4OUFUd0czcGZoOUhVRGJGZ0lMT1BuSU13?oc=5",
+        "headline": "Japan’s 10-year government bond yield rises to three-decade peak",
+        "summary": "",
+        "source": "WTVB",
+        "published": "08/18 09:34",
+        "published_ts": 1787013284.0,
+        "tag": "JGB",
+        "first_seen": 1787031113.8839507
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WMkRtV2tsaG5yUmo1ZUVIWkxaRzl2MXFZQVNicW9ELVFZeWVBTFJfMnpkd3h5elBKOVBJMGNfbVVpQm9XZTJmYjcxS1JNS1VCWUZJSWhhMjFMcXNDTDBMUXMxQVgxMGNFMUFrT3FBQnFFQnUxSFJIdjJoZ3g1UQ?oc=5",
         "headline": "US 30-Year Treasury Yield Surges to 2007 High as Bond Market Rattles Investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787012700.0,
         "tag": "JGB",
         "first_seen": 1787022043.0589886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOc0pnQmNyamZGVFpyb1pfOUhWMlUzdm4zVkYwN2VucEQ5dTBKUjZGa0RQMzQ1ZG5ySTlVRFBnLUZIaEMzRlg3NHRDalFMbEFzZmZpYlY2cldVbHVWamtLVXg3QlRNZ0RIMnp6SDFPV3BNMVRvVzFLV3RQeXFURUI2bTNSUTJZRDA5NUw4aU5B?oc=5",
-        "headline": "U.S. Long-Term Treasury Yields Surge Despite Fed Rate Freeze Signals",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/18 09:22",
-        "published_ts": 1787012573.0,
-        "tag": "Fed",
-        "first_seen": 1787027434.960928
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-18 14:30:54",
+  "updated_at": "2026-08-18 14:32:16",
   "yields": [
     {
       "label": "3년",
