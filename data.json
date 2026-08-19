@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUi1JaXhfd0cwXy1iWDRKcExfSWpwYUxqZ1hSSUkzTDhMSkxyODZTRDhWUWQwNGE0Z0FobHk0MjdPdWhhQmhYVkRBS3FyTnNEM3NVNk9oUnlYTTVmXzVVSnEyWTFTQkRqdURhVm5uZzRrck9YTFFnVndPVUpGSEhkZk94VWxQMUYyY1pVc0Mydi1UOG42MEY2dGdYS1FkODFsb1NkNDFaWUR1TGFsd19B?oc=5",
+        "headline": "Fed minutes reveal appetite for rate hikes as inflation lingers",
+        "summary": "",
+        "source": "InvestmentNews",
+        "published": "08/20 07:49",
+        "published_ts": 1787179780.0,
+        "tag": "Fed",
+        "first_seen": 1787180323.9491315
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkhfbzg4NFdERzVYRnY5YmN3aUZzNXFneTQ2YnAtTmF4UDdYVDJ2bFQyY2lyaUN1a3J5UXVON3VWZzBSbGtRNkpjYVdPdHNSTE1NaGdwZWtkY1VuMG1IdWQtZjRKUjZIWkl4dUJBRmJJa1VNOWxGbVZsU05tN0d5Sy05QXhENlJqc2x1VzdLLWJLb3VoVWgtTUwtQXlQdXVxWUlJ?oc=5",
         "headline": "Exclusive | Democrats Press Kevin Warsh to Disclose Calls With Trump",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1787173114.0,
         "tag": "Fed",
         "first_seen": 1787173951.762323
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtX2luVFNQRlNhdjdueDBlQnp0S1ZEWEtseVVjaTRRZUNhZ1U5T3FzeDR1b1NZcXVmTzRZVUVVYUJILW1wSzFoV3R2bm1odWt6eUN0eVRFWDdTX2oyT3FJTU9mSnBIcnZwSjNDak9XWkdUcmIzNXc?oc=5",
+        "headline": "US gross national debt tops $40tn for first time",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "08/20 05:52",
+        "published_ts": 1787172720.0,
+        "tag": "Strategist",
+        "first_seen": 1787180323.9491315
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSHlsMElpb1V4QXN0YUVsRHUtUXI2R0lpZzFuUGNHbEQtMzRpdnNnU0k5a0tWQ2NnS0t5NFVrazNVVUhNbWl2dmVPX3owMmR4QzJ5M1dhLXh6VmJzcWJhaXh1R3haYmtLUjgxNVAwLXJEUjlreWYyU0x0QnBhbDNFb3FSVVdmZ1NzNk5sblhoQkVxSjhMSkhZV3hUOA?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787153700.0,
         "tag": "Strategist",
         "first_seen": 1787155239.2796547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93ZFVvU1pjVi1wM05pVFB3cU9KNXNxUmRySkxjUmZjUlNIejQ4QzFRRGNxNFdjS2dsb3RrU25pa05zSFQtY19JY2c1TUZMNkFHX2dDYThB?oc=5",
-        "headline": "나랏빚 역습…글로벌 국채 발작, 미국 5.3% ‘금리 폭주’",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "08/20 00:21",
-        "published_ts": 1787152861.0,
-        "tag": "JGB",
-        "first_seen": 1787153434.9493444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWlFXUktGem05NWhBdlFLRk5pN2YtUTlqdDVNUW0wamhXNFFiMmw5LTNZaWJucGM5cEZmdzdXakJQYmt3X0psQXhoYzMyRlpZVWFNNTMwSTZya1JQMFdRWk0wQ3I4VVAyV1VIYV9wQU9fdzNXdlVKbXczejdKbVRFRll3VHlEWmFZQTR0OTdKdUxoRVFKa3RSdDBoVUd3QQ?oc=5",
-        "headline": "Bond traders are testing Kevin Warsh: The Fed chair will heed—but not be ruled by—them, says an economist who spent years sitting next to him",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "08/20 00:21",
-        "published_ts": 1787152860.0,
-        "tag": "Fed",
-        "first_seen": 1787165124.6675177
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 07:45:49",
+  "updated_at": "2026-08-20 07:59:12",
   "yields": [
     {
       "label": "3년",
