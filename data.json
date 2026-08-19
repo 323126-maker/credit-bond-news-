@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyVzBuR0ZZbHktTEZkXzd0UVU1a3k5WWhvNkJXSy1aZUxTY09ZLWNwR1Y0aEtTa1pFRkwxREw4THotQng2T0RLb25PSVFpVmc?oc=5",
+        "headline": "[사설]불안한 韓美日 국채금리… 돈풀기-고물가의 경고",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/19 23:31",
+        "published_ts": 1787149909.0,
+        "tag": "JGB",
+        "first_seen": 1787150726.4600825
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOW1tR0F4WTNDQlluTHA1bVFjRW9kMkY4Z1l3SUFNckN4MlFFOXJLM2Y1WlpiQ082ZF84QmNGUk5FdlN5OUR0SGpkWHJnOFpYd0hzZ2k2Szd4Nlo5VWZoQWxsNXBxNExaRlZwUA?oc=5",
         "headline": "US Treasury Debt Buyback Expansion Elevates Stocks",
         "summary": "",
@@ -1800,6 +1810,16 @@
         "first_seen": 1787130038.5327327
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5vc2dOWXBUanZoU2Vsa0pPS1hreFBQekt6T0w3WTlIYmMtUFVYS1N2eFV2NkQ2N19GOVVwTzR1UmhXMFZuTFpxM0VaMHRyamRLSk9F?oc=5",
+        "headline": "Global Bond Market Turmoil Sweeps U.S., Europe & Japan – Goldman Sachs Warns Federal Reserve Could Be Forced to Raise Interest Rates",
+        "summary": "",
+        "source": "eu.36kr.com",
+        "published": "08/19 17:43",
+        "published_ts": 1787128981.0,
+        "tag": "Fed",
+        "first_seen": 1787150726.4600825
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAJBVV95cUxNZnUxa2l2OXNUSXpXbzRuT1FLS2hIbzNUdTQ2bUUyd2JDQVhZd29uNXZLaVhGTzRmX0lfWk1LbzYxZXB2Vm5ETmlBbEpBVDZzTlpidU9aYVh2dWdFbmZPcFNkemtqWXBmakdTejlxR1loaW9acVczanhNNWw4YUdVTDd4V2pLaEsxZ1ZCOGdiSm9uVks0bWhFQklYQlhBR1JuTEJQZUItS1JBZ2xFU0xNWFVkbml0OWlCc1dQSUQ5ZWk4NlNnWXBTN0xKWjhXbVEzUGhMVjMxdmVBMkhWZFpJQnU5cTJOUEVXazVjczk5NGxHVkFNWEFlV1lPVVptclZwVnFvMUcxbjViVTBWUXBnbjZGSXRuZ09qZzZMa3BSZVpFaERP?oc=5",
         "headline": "Exclusive: Marjorie Taylor Greene Warns Social Security Will Go ‘Bankrupt’—But Wall Street CIO Backs Scot",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787115217.0,
         "tag": "JGB",
         "first_seen": 1787126440.2362306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBIX3FNNXJHOHVzYklvWU5MUmNzMzEwUWpEd3hfc0EycDVWNFZUUmJIcjhFZXNQSWU2dUo5a3Z6SUZBV3dzZ0xqS0ZUR2p2dmhmZ2t0R1RWYVU0QXBnd2NpZl8zV3RqUjg5cnRLWVJwbU50UQ?oc=5",
-        "headline": "[장기 금리 쇼크] ①곳곳서 최고치 찍는 장기 국채 금리...재정 우려 어떻길래",
-        "summary": "",
-        "source": "오피니언뉴스",
-        "published": "08/19 13:51",
-        "published_ts": 1787115097.0,
-        "tag": "JGB",
-        "first_seen": 1787115639.6294596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE45OG53ZXdWQmhTTnZsd01jcVQ4RW5lU2lrVHQ1TVQ3QTBlbVZMMUtSaXRJa0Vsek1lTlpqaEtkR1JENHdmd1ZFRXlzSmx4c3JESUo1LWdnaXRGcGZoNzhlZHNnTVZwMUJBU0RRUDR4cmVSOWhTVTlR?oc=5",
-        "headline": "일본 국채 3% 눈앞인데 못 막는다…美까지 전전긍긍하는 이유",
-        "summary": "",
-        "source": "이코노미트리뷴",
-        "published": "08/19 13:51",
-        "published_ts": 1787115089.0,
-        "tag": "JGB",
-        "first_seen": 1787115639.6294596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 23:30:59",
+  "updated_at": "2026-08-19 23:45:49",
   "yields": [
     {
       "label": "3년",
