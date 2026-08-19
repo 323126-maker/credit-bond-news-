@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkhfbzg4NFdERzVYRnY5YmN3aUZzNXFneTQ2YnAtTmF4UDdYVDJ2bFQyY2lyaUN1a3J5UXVON3VWZzBSbGtRNkpjYVdPdHNSTE1NaGdwZWtkY1VuMG1IdWQtZjRKUjZIWkl4dUJBRmJJa1VNOWxGbVZsU05tN0d5Sy05QXhENlJqc2x1VzdLLWJLb3VoVWgtTUwtQXlQdXVxWUlJ?oc=5",
+        "headline": "Exclusive | Democrats Press Kevin Warsh to Disclose Calls With Trump",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/20 07:00",
+        "published_ts": 1787176800.0,
+        "tag": "Fed",
+        "first_seen": 1787176996.3051815
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnd0VVQwLU9qTmUzSzdhZjNJaDdscE1KbUpHUWVSNTVQQW4yUFRDVTkyMDBwSlFtZEdTbG9uYjZlMHU1enBTZUdyRHdENTcwNzJVVGROd2ZlU0k5ei1SNWduei1sTVRzUEtOMFFsc0JLNm5KaXJ2UGpDQ1NsMWZOd1FzN1ZmY2FOVkpwV3ZZdG5tNUU?oc=5",
         "headline": "Why Bond Yields Are Rising—and Might Keep Heading Higher",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787151962.0,
         "tag": "Strategist",
         "first_seen": 1787153434.9493444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTm9ESmZCMHRCSFJ1ZWREajZEVU5aeXM1WG1DbkFKZjVBZlJFQlJveHRIeU4yLWtRM2tBUzNOb250cHV5THZ2U1poNWRrRWRSUkF0VDAxelpkWFc0ZTV4LWtRUl9Mcm1kaERPQXRvSEZ0YWtlUk5GeDF4Ump2bmRuM1gwa0tHc1l0NVJ0T1dDUkd5VThQcWhFaWgzNEVnX3pOZzVCMmNrQ1NNdw?oc=5",
-        "headline": "Treasury Yields Hit Highs: ETF Strategies to Follow",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/20 00:00",
-        "published_ts": 1787151600.0,
-        "tag": "Global",
-        "first_seen": 1787157032.6225955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 07:01:09",
+  "updated_at": "2026-08-20 07:03:40",
   "yields": [
     {
       "label": "3년",
