@@ -1620,6 +1620,16 @@
         "first_seen": 1787142631.0360432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPTUY5OEJlZDAzR19YUEItdnlTRkpHNDMzejVVUTIwTnNHV3NRaEdpbldxVkFuSWpTWXVvZU96dGc1a05wVG1ONmgyTXo4UG1RMlkwX0plNVBPaG5qQ2NmQS12ZlJXTThFb1Jpdmtrb01VaWxWWjhPWVZVN3BXYW1INzBNZkRabk9iZWNmMHNacld0bS16RkJiMHhCaGllX2Z6OEpjTXJLMmVBYXI4RzBXSkQ0UUZPX3oySFpKSXoxcGE?oc=5",
+        "headline": "US dollar softens as bond market steadies ahead of Fed minutes",
+        "summary": "",
+        "source": "The Business Times",
+        "published": "08/19 21:04",
+        "published_ts": 1787141040.0,
+        "tag": "Fed",
+        "first_seen": 1787144436.94782
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNGdiS3dYM202dktMaHJWMXJVQTI1cDhTdVdnaFNOVnNvRW9ZTGVuWUxfNkpBTE5vY3VYVl9tSG5IWG9ZRUFJOVBsU09ZNjg0LWwwamhkQnJsOE5mNTRCRnZ3dEgwMEZsaXdNUHhTeXBISUhHaWRJN09LREVpQlpzNEVOUEdWRHR4dlBhOHdTMmxyaVFfX1ROZklZS0ZBUjlxTDBHNHB5VVJJNkVaNGpUX1d3UHpqZkJuVTctQVFnZkk1eFYyWjB3NkVR?oc=5",
         "headline": "Finding carry without overreaching on credit risk: Oscar Rodriguez on the bonds outlook",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1787128199.0,
         "tag": "Strategist",
         "first_seen": 1787128810.5754552
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtcmtPaFc4OVF1SDlqUHBnR3BJeWlWV28yUHhiSmxRZDZqTmNUeTBVdkJqX0ttNVBIR1RCamJIWUJKUHVoMDlsaHZreWZhVzlhcVIxRDFn?oc=5",
+        "headline": "빚 갚으려 또 빚낸다…61조 달러 쌓인 국채에 장기금리 ‘발작’",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "08/19 17:24",
+        "published_ts": 1787127868.0,
+        "tag": "JGB",
+        "first_seen": 1787144436.94782
       },
       {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9nUm9XZ1M5MzZ3Z0IxYmQ1djh3STloVHRTdFhxZkxhdGxpN2VnNDcyVFVBa214UXBVTGs2WHVXdGxpV0t5eVVzX1c2LTRTT0tYbkx5bnVJSzBIeHl6bU9qSjNMcVZxTUlydHd5MkdHeXRVVFZpYWZzdHlvUW5mV1U?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787112019.0,
         "tag": "Global",
         "first_seen": 1787112931.959011
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbTYya2YwVjVaNi1TWGRlRWkwZ0F1ZG9CSllmVVhTNUZrTXZURmFpVHFQWnozeUR6bFRCdG5abWNpWFI5bnYwT180QmgxV0ZjYTVZUFB4ZzVWc2RUcVRFSGxNSk9KeEpyMTBMZFNjMXRoaGV4TFZzYWg1WXJDRGtmM2tOVWo?oc=5",
-        "headline": "Kazakh tenge soars as foreigners pile into government debt",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/19 13:00",
-        "published_ts": 1787112013.0,
-        "tag": "Global",
-        "first_seen": 1787118326.161871
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZmRmVEdxQkhxa3gycG4tNWVmNTV1WEE5bk1vcHNTeWRzQnEwQVRELWt3bmtWb0stM2laY0tXTkVITTJ2WTdsTDJ6ZWs5SHU2Y2luLXVkampHeTNvVDd6NEw4UjFjdTA?oc=5",
-        "headline": "미 30년물 국채금리 5.33%…일본도 30년 만에 최고 경신",
-        "summary": "",
-        "source": "자본시장뉴스",
-        "published": "08/19 12:42",
-        "published_ts": 1787110952.0,
-        "tag": "JGB",
-        "first_seen": 1787112038.2128441
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 21:45:30",
+  "updated_at": "2026-08-19 22:01:01",
   "yields": [
     {
       "label": "3년",
