@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvV19WM2s5UWZfYWJmMi16cjctN2ZaS2JQZUNhaE8xQ2VITE1oRElBLWlybzFPT1BMTUtXVzNNT3h6UVBwdkdEUXlFVnAwZTJJekpWSjJNQzl6UQ?oc=5",
+        "headline": "일본, 유럽 국채금리도 수십년 만에 최고…'버티던 증시' 흔들",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/20 06:29",
+        "published_ts": 1787174942.0,
+        "tag": "JGB",
+        "first_seen": 1787175035.031855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzE1TERzMThIc2x4Rnc1bzA2ejVWQzBLV2VzSE56ODQ4aWh3SjA0MDNSdlVTb3JEZFJESDVsd1ZqYWVWbVJiOXh5VDVnRHlYTGtjN2oycmZnODgwS3RVTEdiUEtKb1ZVRzYwNE0xSE5xVGhWS3JKaEtldFVZVTZaWg?oc=5",
+        "headline": "U.S. Treasury Bond Buybacks Spark Market Moves Amid Surging Yields",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "08/20 06:15",
+        "published_ts": 1787174122.0,
+        "tag": "Fed",
+        "first_seen": 1787175035.031855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS3FiZEVuTzFGOVdod1NtRDdoNFVGQTdRbWZmOVJYQXl0MkpPemJRaDd1cUktN2RQc2w0T1Z3OEFYbXgxQnk1M05WTGU3RFFCdjVCeFBQLW8yYXAzRGxYelFocUFYNGp2SFNVQjRBRHA5ajVVa2lkREFwcUs2RERQbTdpT3BQQ2JTX295WVJYQ2ItMlRueUpEYjdFYTJXYnJHM0dmeWJuQ3lJamRWeWR0Vm4wZWhvckJ6bWwzTGJTa1dqVHhBVGc?oc=5",
         "headline": "SGOV's Monthly Check on $250,000 Fell From $1,127 to $763 While the Fee Never Changed",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787148567.0,
         "tag": "Strategist",
         "first_seen": 1787151370.5379238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqV05vM1pnZmZXZFVwZkdCdGMwWWRqbjJHdnB1bmFlLWliVkZjc0Z3NWxUak1lbUY2X2ZTZ3VKWVp6YWFoZEZWOTlLeGxBTGVHTXU0WlJPOE55ZDBvUkdVQ2tnTkVNc3JmVEtuS3hkYw?oc=5",
-        "headline": "Bond Market Flashes a Warning for Stocks",
-        "summary": "",
-        "source": "stl.news",
-        "published": "08/19 23:07",
-        "published_ts": 1787148463.0,
-        "tag": "Global",
-        "first_seen": 1787148928.0563009
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOV3YtUlVpWGh0Uzl5azdNM0M4X3IyWnBHMUJheWlWWFplcEtlUVQ0R3NMOGNnOEhPRE0xYklPUFRkYVlKOEhwN0otTldlUDE2REg2SkI0eE5kSEwyLVlvZFVfb19SblQ1NHhEa1hvQUF6WXQ1a3ozWmdwd2IyVGxnbUpNOUxzVjhwSzBBTU1KTzFuZ0lBV1JfRjh3?oc=5",
-        "headline": "Bank Capital’s Riskiest Bonds Are Pricing Like the Safest",
-        "summary": "",
-        "source": "connectmoney.com",
-        "published": "08/19 23:03",
-        "published_ts": 1787148202.0,
-        "tag": "Global",
-        "first_seen": 1787152527.2827408
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 06:15:53",
+  "updated_at": "2026-08-20 06:31:00",
   "yields": [
     {
       "label": "3년",
