@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnd0VVQwLU9qTmUzSzdhZjNJaDdscE1KbUpHUWVSNTVQQW4yUFRDVTkyMDBwSlFtZEdTbG9uYjZlMHU1enBTZUdyRHdENTcwNzJVVGROd2ZlU0k5ei1SNWduei1sTVRzUEtOMFFsc0JLNm5KaXJ2UGpDQ1NsMWZOd1FzN1ZmY2FOVkpwV3ZZdG5tNUU?oc=5",
+        "headline": "Why Bond Yields Are Rising—and Might Keep Heading Higher",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "08/20 06:56",
+        "published_ts": 1787176575.0,
+        "tag": "JGB",
+        "first_seen": 1787176842.5993228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBvV19WM2s5UWZfYWJmMi16cjctN2ZaS2JQZUNhaE8xQ2VITE1oRElBLWlybzFPT1BMTUtXVzNNT3h6UVBwdkdEUXlFVnAwZTJJekpWSjJNQzl6UQ?oc=5",
         "headline": "일본, 유럽 국채금리도 수십년 만에 최고…'버티던 증시' 흔들",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787174942.0,
         "tag": "JGB",
         "first_seen": 1787175035.031855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQM2tuRk14TVlZRThVc1BERFV3U0FLdGhVN0xiZDZ6TzB5Z0VnTm1ZUklrV1lMZkRKMFlhLUI5SFBiMjVDaDlZZTNJOG5jc1JuWG81WGJ1ZlJ1U1Vfc2otNFF6d252d2Zqc05hc2k2NHF6cnF0X0dCM2I3Q0tNX0hMOVBB?oc=5",
+        "headline": "Why US boomers seriously need to prepare for a stock market crash before it’s too late — 3 red flags and what to do now",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "08/20 06:18",
+        "published_ts": 1787174326.0,
+        "tag": "Strategist",
+        "first_seen": 1787176842.5993228
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzE1TERzMThIc2x4Rnc1bzA2ejVWQzBLV2VzSE56ODQ4aWh3SjA0MDNSdlVTb3JEZFJESDVsd1ZqYWVWbVJiOXh5VDVnRHlYTGtjN2oycmZnODgwS3RVTEdiUEtKb1ZVRzYwNE0xSE5xVGhWS3JKaEtldFVZVTZaWg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787151600.0,
         "tag": "Global",
         "first_seen": 1787157032.6225955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGJONGFiR05pMmZKcW5pUFlLSTRsY2VxX0Q3Q3MtR0MtQ1o0MklIWGZDNkg1VW1lSTBIQ0RkcFctX0pubTVidk9ZMHRjQW1kVHFWSWp1UEUxN3NRLW1SS2ptd0ZwMDFtQkZIWjBodGhxSlJOMktLclpjT2ZIeDRKSXhQOEpXZmRmN0plTnhoWE5XU3pNaUs4X3UtOHJseC1vQldpS0V6MUV3d0pFUTFjaGRhUkszUy1k?oc=5",
-        "headline": "Stocks, bonds and gold rally after Treasury indicates it will buy more government bonds to stop yields from surging",
-        "summary": "",
-        "source": "marketwatch.com",
-        "published": "08/20 00:00",
-        "published_ts": 1787151600.0,
-        "tag": "Strategist",
-        "first_seen": 1787152527.2827408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRGE5RGFuOHBlV1NBOER4NFJnN2NkVWFMYTVOYXQ2YjFjNmlGWUxRTFpZbGRrVDJ6cVBMQ1VxX2RCcUpDVzZfbVk1ME10RGJHeThldTNDYUpGQ1pnd1gyTFdpZVRDY296Z3F6NnBXbjROUDRkdUVKbmFEXzBYLTFDQjl2cnNFSnUxd1NkN3B2LTlvVzZWNDJTMQ?oc=5",
-        "headline": "US treasury doubles debt buyback to steady bond market amid inflation fears",
-        "summary": "",
-        "source": "The Guardian",
-        "published": "08/19 23:57",
-        "published_ts": 1787151420.0,
-        "tag": "Fed",
-        "first_seen": 1787167456.837805
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 06:45:55",
+  "updated_at": "2026-08-20 07:01:09",
   "yields": [
     {
       "label": "3년",
