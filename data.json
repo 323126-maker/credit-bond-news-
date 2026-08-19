@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBJcFMzMTdpQzJWSXlrQ09SRGNTbG1XS0w4Y3M4cFRFc3VNclltbmk0dWhMRHNrOUdmRWRqbGdiMXY5Y21LQ1BNWUdwUmUwRXFCRFRkeE9ta1kxSURERThGalFjV1hxYlZiTVZJ?oc=5",
+        "headline": "Foreign Investors Cut US Treasury Purchases as US Debt Funding Risks Grow",
+        "summary": "",
+        "source": "Межа. Новини України.",
+        "published": "08/19 13:15",
+        "published_ts": 1787112934.0,
+        "tag": "Global",
+        "first_seen": 1787113831.2488298
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB4NmhPQm1Od0tIUjg0czV0UHlaM29SMTBHZmVzYlg4OUNhMkJPZy1jTC1SSElTeURlX0FCMENobFl6VTI2azZHalhZeTBGTkR4b1ltZFdzZ1JuejZMYVROd0NrTl9KX0RtVEE?oc=5",
         "headline": "Global Markets Slide as Bond Selloff Pushes Long-Term Yields to Multi-Year Highs",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1787109020.0,
         "tag": "JGB",
         "first_seen": 1787110229.7239344
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1a3dYNmRJQ0ZKWjg1RXhfWl9YNlNJZ3UyT3dSYnhuZUM1QVhTcE9sUkpJUG9tRldJOWs2a3J0VjRIV0FoY2dWZURxME9NeWlyam13Q1lXZ0tUS0tDMkFVRVN4cnF1YnPSAWxBVV95cUxQLTZYU0l5SWFxWlNmUHhINGpnZE1memVUdFUycmxiZllyc05TSTlyVTBpMFNKN0VTb2tvRHpzaDlMcEVQWk5CTFZzWUJxQnpWUTI1VkxWLXF4N1pXckNmOXVKNWxXY0toMWprSHM?oc=5",
+        "headline": "美장기금리 19년래 최고인데…9월 금리인상 확률 '30%'로 뚝",
+        "summary": "",
+        "source": "news1.kr",
+        "published": "08/19 12:07",
+        "published_ts": 1787108878.0,
+        "tag": "Fed",
+        "first_seen": 1787113831.2488298
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zT1Q1YWdHQ3dQOFlqMTV5Z2pUZlhQM1pHSE1qYkxwX0J4QURlRHItcEhsZHM4alBUWjNFVjItWWNyZlBuR0FJeWRuWmIyQzFNSDJpVFBwaWNHb1FqWFNtVHZSelFVbmFHb2xORW13?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787089820.0,
         "tag": "Strategist",
         "first_seen": 1787090435.992527
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSUxrUno5VVNWbTdFZ0hMRkxUeVYxY2s4NnIyUkV4WFJMYnFDNXIzVGdYMm92NzFoemRxRUZyRlA3d3VrYXFjTUtFMGhscE90NmRRNjZKYTc2OUhpYVBEdUVSWXBQUmN4bkpZaGxPQnNQTTQ?oc=5",
-        "headline": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/19 06:44",
-        "published_ts": 1787089440.0,
-        "tag": "JGB",
-        "first_seen": 1787109324.2844355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZmJkaTExVTNWRTk3U1MzQ0FWempFWFBWWl9JNEJXQ2lnTWRDYmVsQnFRMEM1Yk5xdmdiZElnNEpqdDIyMnM1UjJWUWdUdmI3WTA3R1VqNVF4SG13RTgyMUlfRWVPZ3U5YkVCNm13MlR5YXlWZzllZEJEb0pJNFU5WDNPeGQyRHRuOS1wb2FiQUJ2RWVTNXk0YUtSbVJxVkxRZHdrVGxDZTBKYlV0NGN4UEtkMlhHV3plZnl6a2NLNkdNSTdwX1FHbnd3cHFIX0o5aUVXTzRVOUVnSHE0NGk4LWhIQi1DQkU?oc=5",
-        "headline": "Schroders’ Kellie Wood says inflation, growth and fiscal risks will drive fixed income markets over coming months",
-        "summary": "",
-        "source": "AdviserVoice",
-        "published": "08/19 06:19",
-        "published_ts": 1787087943.0,
-        "tag": "Global",
-        "first_seen": 1787090095.405105
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 13:23:06",
+  "updated_at": "2026-08-19 13:30:52",
   "yields": [
     {
       "label": "3년",
