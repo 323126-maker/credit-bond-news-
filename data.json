@@ -172,6 +172,16 @@
         "first_seen": 1787093448.2010853
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yYnVOSVlkSEpoR1BtdU9TT0RhOVpjTTgxV05aTl96NUxRNTZWY2tsdFJzUWlDRFp2ekR1a3N3Z2ZNVkU1cUZRWTExbUo5SUhub2tCWXZJaUVsMkx1MGlzag?oc=5",
+        "headline": "뉴욕증시, 유가·장기금리 상승에 하락 마감...나스닥 1.33%↓",
+        "summary": "",
+        "source": "증권일보",
+        "published": "08/19 06:50",
+        "published_ts": 1787089800.0,
+        "tag": null,
+        "first_seen": 1787112038.2128441
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nOTlpd2hGMHJYZGZYa0JEMG9UcW8yOUQ5YmV6OV9Ca2l3d1E4cGxFWGZ0NkJIajNjTE82eldUcWJCeUx2S0N4emZKUkJQY2JKc0d4NVBGNHV2elZVRGFyRjJnMzFMTTVmems5VktNaw?oc=5",
         "headline": "미국·일본·유럽 장기 금리 수십 년 만에 최고… '재정 적자·AI 붐'에 글로벌 금융시장 '경고등'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787048186.0,
         "tag": null,
         "first_seen": 1787049031.3395636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03TlpEZk9LRUVoRnNsZ3dQSHVndEx2VjI1cEFEM05Ucmg4OUxBS3dLWjdUVkljSkkwSGFFVVFTYzZWbFotNVYzQzdPWElBYm1kc3lwZmR6X0NHSlNRcURnVXJVTUdpazVNMzBLaXVFSVU?oc=5",
-        "headline": "[채권-마감] 약세 스티프닝…유가 급등 속 10년 입찰 소화",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/18 19:02",
-        "published_ts": 1787047331.0,
-        "tag": null,
-        "first_seen": 1787106629.9180105
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1wZmRmVEdxQkhxa3gycG4tNWVmNTV1WEE5bk1vcHNTeWRzQnEwQVRELWt3bmtWb0stM2laY0tXTkVITTJ2WTdsTDJ6ZWs5SHU2Y2luLXVkampHeTNvVDd6NEw4UjFjdTA?oc=5",
+        "headline": "미 30년물 국채금리 5.33%…일본도 30년 만에 최고 경신",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "08/19 12:42",
+        "published_ts": 1787110952.0,
+        "tag": "JGB",
+        "first_seen": 1787112038.2128441
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMW1oRGxualhyMlhkQW8wQUt2UXlFaGItNEhZYnVwRkFSUjljX1RRMGRSdEtOZnY4emRVMUZ3OUlaQjE5bjJDV2RXVWlXMGMz?oc=5",
         "headline": "美·日·英 국채금리 ‘발작’… 미래세대 돈으로 재정 땜질 ‘빨간불’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787086677.0,
         "tag": "Global",
         "first_seen": 1787087727.8926861
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQb0I5MVEtdjI0MVZjZnlYWmJwN1daU1JwVDQ1OWRJQ3pOdll3Qm1SWlZmNDZlVDV6SzF3Vl80Ml9UMjR1eEYtOFBWUWI0M2Z0bUVpdzBQQ3RLQ1UtbEF5V1UzWElxUnJBSFh5MWFiVmIzT3lZZjdZTVN4R1A3YURpbmpkck9aZHV6WE1pWE5UeDlId2taenB4aWVaT245bzl5RWRCMEwzUQ?oc=5",
-        "headline": "Is the AI Dip a Buy? Key S&P 500 Levels and Bond Market Risks",
-        "summary": "",
-        "source": "Beth Kindig – Medium",
-        "published": "08/19 05:12",
-        "published_ts": 1787083963.0,
-        "tag": "Global",
-        "first_seen": 1787106629.9180105
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 12:49:27",
+  "updated_at": "2026-08-19 13:01:03",
   "yields": [
     {
       "label": "3년",
