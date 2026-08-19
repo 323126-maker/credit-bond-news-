@@ -12,6 +12,16 @@
         "first_seen": 1787109324.2844355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yMFkyZ1NSZVRBRW84UHRWM1ljYUZDel9neXJTVmlreUd6djZqQW1NcXplNnJTRGltY3VMUkxaaTBQWUc2WXdTMnVCMXE4ME5LYWxDU1lPeUlHVDVrb1RGQnBlbDRwREF2bnc?oc=5",
+        "headline": "미 국채發 금리 쇼크 글로벌 확산···'엔캐리 트레이드 청산' 공포 재부상",
+        "summary": "",
+        "source": "서울파이낸스",
+        "published": "08/19 11:57",
+        "published_ts": 1787108253.0,
+        "tag": null,
+        "first_seen": 1787110229.7239344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1halJDN0w5TFlSZE1IT1N2ZVBfelN3U2tLNElsbGhDNkh6eHk4N3hKN2EwOWQ1aWVObFVQazViTl9laGZDSVBEQkU5MDNnbXVqcTJuZzFVUWRBaU5OTmFBbFh2MHNJWkhZLTl1MHpJOHd3Zw?oc=5",
         "headline": "주가 급락·외국인 선물 매매에 변동성…국고 3년 1.0bp↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787047331.0,
         "tag": null,
         "first_seen": 1787106629.9180105
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Z0FIWmFMTEJGNlhlZW9PM0NVbWRWVktWdnJqR1dEN09VcUlzQnpaTEx1VXhxWmljLUpzb20wY0lnMDNVUWxMZkVBWDNlbHg4M1lFdy0wQ0tZdw?oc=5",
-        "headline": "美 30년물 금리 5%대 쇼크… 기업 자금조달 비상",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "08/18 18:28",
-        "published_ts": 1787045293.0,
-        "tag": null,
-        "first_seen": 1787051724.666756
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HMW1oRGxualhyMlhkQW8wQUt2UXlFaGItNEhZYnVwRkFSUjljX1RRMGRSdEtOZnY4emRVMUZ3OUlaQjE5bjJDV2RXVWlXMGMz?oc=5",
+        "headline": "美·日·英 국채금리 ‘발작’… 미래세대 돈으로 재정 땜질 ‘빨간불’",
+        "summary": "",
+        "source": "문화일보",
+        "published": "08/19 12:10",
+        "published_ts": 1787109020.0,
+        "tag": "JGB",
+        "first_seen": 1787110229.7239344
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBeThyWGVkRzczVlRWYm1lVWpLOFdzdVBVd25lTDZ1VFl0OWRreDdGSUxCMno0WVJyejliQ0hsTmU1LVllZllvYUw0cktteWhCTEd5QjZUQWtaWEJiMHVCcGtxcUZwTVpOUlE2RGFR0gFzQVVfeXFMTldlLWxydTNKaWlxQThxN09zQW9JZ00wa1AyRkExcVMtNXdCQ29zMnBVUjZnRTJQdUN2TlRxeVdTTy1xcWEtd3JsUUZ5cUMyNVhyRWVzaHYyN2tkdEQyZjFmc3dGbmpVX21hZzN4VjBIMzVWWQ?oc=5",
+        "headline": "美 30년 국채 금리 19년 만 최고... 일본·유럽도 장기채 가격 급락",
+        "summary": "",
+        "source": "한국일보",
+        "published": "08/19 12:00",
+        "published_ts": 1787108400.0,
+        "tag": "JGB",
+        "first_seen": 1787110229.7239344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
         "headline": "Bond selloff slows but stocks wobble",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787083875.0,
         "tag": "JGB",
         "first_seen": 1787089524.0043797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9yMnFmNzdZOHNDMWtYOXB4RkdIR0pjMDRaNWxnZVFKX21BcUx3THFheFB6V0tqWVlfT3A2ektETTFzQmFGVHVVTW1kQXllSWg2VWNFaU55cWhPdHpMRWRfSm5RUVJjeFBD0gFuQVVfeXFMT0JHWmRLdWNIRXVZaVdSd09POGh1SW1ma1BDSUVBWHlncHlTcXRnVzF2RV9TNTNQbGN3YjlqSktQeElSMGF4UmlUMU1oMFRRbVpoRk9XeDhpQ2dPcERfWVJ3LUtmTjBySXBndFpEa1E?oc=5",
-        "headline": "美 국채 금리 19년만에 최고…40조달러 부채에 글로벌시장 '소용돌이'",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "08/19 04:55",
-        "published_ts": 1787082939.0,
-        "tag": "JGB",
-        "first_seen": 1787083236.7062333
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ncjBGNzlkNWRJQjY5QU1UV1hUNDdpS0FmckR1S2REeFc5TkplemhCT2w1SGhQeW5PODJvVFZVY3lyczkySEhuSDZyMGdYX0ZzdnBJTzlST2lUcXZMUmZWNHVvVzJCM3VLMlBseEFpNnNjYVh5eklHSU52bw?oc=5",
-        "headline": "세계 장기금리 더 오를까…월가 “쉽게 안 꺾일 것”",
-        "summary": "",
-        "source": "이데일리TV",
-        "published": "08/19 04:47",
-        "published_ts": 1787082420.0,
-        "tag": "JGB",
-        "first_seen": 1787091743.6302202
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 12:15:47",
+  "updated_at": "2026-08-19 12:30:54",
   "yields": [
     {
       "label": "3년",
