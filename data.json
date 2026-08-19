@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9yaUowZjZHRkNCTTdwajA5WTNMNjFVOWQtLWVDX3FTMW9GcV95TFloeUFfU29NdkxUQjlJVWZkV0dvcFVsQUhTWWR2RWlDTVB0aTZDYnA4VEpjT2dIdVZlNTJha1FRUllTemJEQUdlc3RnMGY4YlM0S0MwTnY?oc=5",
+        "headline": "[DCM] KB금융, 자회사 출자 부담 속 신종자본 2700억 발행",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "08/20 04:00",
+        "published_ts": 1787166000.0,
+        "tag": null,
+        "first_seen": 1787166930.346402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HdFVPLUx5ck1mVlpNZldtUjB4LVBXRmY4Z01iOXFxNFdnMUxMdWhWTU9RYVJETU9FdWlUR1FwVGFMUjdzRVgyZ2NBejR1a1NiMEowZlpFZTBmZkhKMjA3ZU9oZnBBbGI0QUtjeEh1M3o?oc=5",
         "headline": "Nvidia 신용 위험 지표 신고점 돌파…소프트뱅크, 사상 최대 채권 발행 준비",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1786921322.0,
         "tag": null,
         "first_seen": 1786922124.6509628
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5INFJjUlRKVzJoNC0ybFYtZFVJVEg1V2c5Q2VOZGJBVEt5Z21JVFBaUy1kMUVaSjRoVzFmaWs5akVVVTMwRWs0WHNkSkQyZFowbl9UQ0lZeF92NzNOVzNZUko0WjRFUdIBZkFVX3lxTE5INFJjUlRKVzJoNC0ybFYtZFVJVEg1V2c5Q2VOZGJBVEt5Z21JVFBaUy1kMUVaSjRoVzFmaWs5akVVVTMwRWs0WHNkSkQyZFowbl9UQ0lZeF92NzNOVzNZUko0WjRFUQ?oc=5",
-        "headline": "4조7000억원 채권 발행, 회사채 수요예측 재개",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/17 06:39",
-        "published_ts": 1786916371.0,
-        "tag": null,
-        "first_seen": 1786960563.6101992
       }
     ],
     "policy": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE82WTA2THJBaEpGSm1UUFkwMUhLYUkwWUQzRm5UNTkwODMxVy1oeVdhaDhUeHRNWUswOFp6TUdNemt0S2pMQWFDZzZhbFZNQU1vRFpMbUp6WlJIb1JNd0xQM2tMQ1BoeWdv0gFuQVVfeXFMUFJ2NTk1WHpPanB0eXZlOW5qY0lpQ2pVakJPTE50bWZMSnFtX01GQllNTjVuOVRRLVBVN3FfU1c4WW0tblNnNmhMZEZGWm9GejMxTEV0endOSWNkajlZYjVtRkxVcnpkbjNLZXFMRUE?oc=5",
+        "headline": "美 40조달러 부채·인플레 공포… 유럽·일본 국채금리 '발작'",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "08/20 04:11",
+        "published_ts": 1787166660.0,
+        "tag": "JGB",
+        "first_seen": 1787166930.346402
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNGNtNEYtZ3ZmODlLMHF3RE0xR3d6X3BJci1ab3NZR2tyUFRuWlV0WXFKcVktYzZlaWJOenlHRHZOWWV4bnpoaW1pcUVBMWZWNEpqWUY1enpnLXZrWnZOSlNoMnBUd291aUNNWVc4S1pfX0dmWEpFZmJHNFQyMFRyc0RmRHdVWWdfTk9ITGh3d0VDdDY5NkE1UXRrZ3d0VWtKMlNmbTNhSWtSNWpvdjhwU2ZhU2ltX1BRYkFN?oc=5",
+        "headline": "FOMC minutes show a Fed growing restless on inflation as Warsh floats six-meeting FOMC schedule for 2027",
+        "summary": "",
+        "source": "kitco.com",
+        "published": "08/20 03:54",
+        "published_ts": 1787165697.0,
+        "tag": "Fed",
+        "first_seen": 1787166930.346402
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUJId0hQWm5fRUJZenpMRjRKSld6bUZMOXBYa1U5OVFkYUdmX09xMXR1ZTdZQmpqbWtmUnJmaEtQRDR4ODBxdnBBeGFfNWVLak5WTlZxWEZ3bjJKQmFQbEEycVUzMFBhRU9FLXJFM21hVC03RW5JRVlhNFdzUkZnV3drNGw1ei1aUEYtR0pNY3dvcWthaG1GSW11ZWxDbmEtcTMyMW5MazhOWk5XdV9NZTRvNXp3TTdLSVlST0NqTUl1M3pRX210OQ?oc=5",
+        "headline": "Opinion: Bond yields rise best when Fed chair Kevin Warsh says nothing at all",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "08/20 03:54",
+        "published_ts": 1787165696.0,
+        "tag": "Fed",
+        "first_seen": 1787166930.346402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0RGZmNnZGIyNnN1MzhFOEIteHlmSVNxQUo1UW5SOTU1eXFVOGRHNktnRllxc1FuOUZsblZHT1hla2RFaTF2NTgyVm5fQkh4SHVEeTk0NVlhaWxTSTAyOEdvWVY0R1Nwa3paMDJlMWxlZ1RHbHpLcDIzc1pCMjd5MlVyOA?oc=5",
         "headline": "'Many' Fed officials think higher rates will be needed if inflation stays high",
         "summary": "",
@@ -1618,6 +1648,16 @@
         "published_ts": 1787164799.0,
         "tag": "Fed",
         "first_seen": 1787165124.6675177
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxORC1JUmFaSnAtajN6dGREOVk2SHZXV2ZpM1NxZTN1Z2ZWcUExLWt6YXRweWZxWlNFd2RNTmlNSm51TWNVWm0tNzBsSnpYZmtZVENqTzdPTXcyaC12Mm13Mzh5UFlNY3dpOGJFSkx0UWpUUUtCRmg0d0VTRmh2dS14T3A3UEFiZTZRRFpuZHhXT2tpbi1xWk5PZ09RSTRXT1BEOTV1ZEI1clZXMkY2MTB3cERzOWFTUk8zU0pvd2tkb29WN3hpUkE1UWk1UlY0d0c1Y3UzUkh6RzUwLWtJajhHNGNjUFR3Ymw5QlFFTmh1bTVaaVpyZkVmTEJsbzhzTlBrMDBhanlSTkZyUmJReFVER2F0Zw?oc=5",
+        "headline": "Former St. Louis Fed Chief Bullard Supports A September Rate Hike – ‘Good Time To Re-Establish Credibility On Inflation Fighting’",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/20 03:15",
+        "published_ts": 1787163318.0,
+        "tag": "Fed",
+        "first_seen": 1787166930.346402
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGRhS25NcFR5VUpwOWhvYkNOQQ?oc=5",
@@ -1967,46 +2007,6 @@
         "published": "08/19 18:23",
         "published_ts": 1787131383.0,
         "tag": "Global",
-        "first_seen": 1787131889.6592493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNT0J1X0hGN2RTNDZ0SzY2bU9hTG1rMm91MEwyUFdUNVhaUkJMQ2UyajFDLVRvYVJZSlRSVWsyNVYyUUMzY1JvMTdVaHh3UUtCV2dXRkxnMkdKaDJvd0UzNTdKV2d4eWF3TjNzM28wakhpRUZGZGpmRGtlQ3ZfemF0a1dRR2p6NkN2ZkxObXRxbWkwb2xBLXJhME40TWVRckNnd1NnUUk1eV9UQnZNajhLclR3RElVYUFmWk9FYUZaUjY4MnpNOFJLMUV5LURSdWfSAc8BQVVfeXFMTU9CdV9IRjdkUzQ2dEs2Nm1PYUxtazJvdTBMMlBXVDVYWlJCTENlMmoxQy1Ub2FSWUpUUlVrMjVWMlFDM2NSbzE3VWh4d1FLQldnV0ZMZzJHSmgyb3dFMzU3SldneHlhd04zczNvMGpIaUVGRmRqZkRrZUN2X3phdGtXUUdqejZDdmZMTm10cW1pMG9sQS1yYTBONE1lUXJDZ3dTZ1FJNXlfVEJ2TWo4S3JUd0RJVWFBZlpPRWFGWlI2ODJ6TThSSzFFeS1EUnVn?oc=5",
-        "headline": "US Treasury yields rise: Why it matters for consumers, companies and global markets",
-        "summary": "",
-        "source": "Firstpost",
-        "published": "08/19 18:17",
-        "published_ts": 1787131057.0,
-        "tag": "Global",
-        "first_seen": 1787131889.6592493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObWxNbFRwUUt3bDlsVHB4dTdMbVR4NjZHOXVBdGp5MjhSdl9RMmwtTlhZSlRhNmVLbjMxcUc1ZEwtZnZmQnFCM2xBWm1NTURmaklkWGJuOUdpZ3pUZ0YxcWVyUksxZWtBYUFvMVZ1RFhyMUpwdGlVU3UyVDhfNXdMQXZnbUdyaC1pcU82clRFeTIxNlE?oc=5",
-        "headline": "The billionaire 'Bond King' just compared Wall Street's $500 billion AI bet to a warehouse full of bananas",
-        "summary": "",
-        "source": "moneywise.com",
-        "published": "08/19 18:01",
-        "published_ts": 1787130076.0,
-        "tag": "Strategist",
-        "first_seen": 1787153434.9493444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQaHZjbnB5dUZkSkhvWmU0OElqSTNvNG9tM0RTdjVWWnZ5c1Iwemp5LWRCajVEeVl5ZVQ5b2V2TUFscWNLN3NQS19vQWFYV3AwRFI3ZkpiWWJuZHVoNHlTU3hMWXFMdFpadkNja2x6YnlRSXU2YkU2X1NxOTc4Q2N0LWV2czFUdEJtWjlQUFJyNS1KZ0wyNmFDZ2Q5TlQ1bG9OdXgwSWMzNTFCaFZMX1REUUN6QzRfakJyeFF5WHJTckFEeHcyR2VCLWRudGd6d0U0ZUtoTFhlNHhpeEN0bUFpSXR2cXU5Zw?oc=5",
-        "headline": "30-Year Treasury Yield Hits 19-Year High as Borrowing Costs Rise: What It Means for Consumers",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "08/19 17:53",
-        "published_ts": 1787129595.0,
-        "tag": "Strategist",
-        "first_seen": 1787130956.6394713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOX2dsOFZBMi1KaXdDcndHaFZJbEU1eDRjX2tlVzcyOHN3Qkl1N0FtdGI1WVZ6RTBuT0JPZF9pM204NmpfeU00TUoyQUE2YlktY1hRWW5HQ0RJUlZsNkVOMEJNN1lrZEREQlgyMlZkd0t3QmdIUURIbnRGenJWM1ktbDhDUUl0bHBhX0Jn?oc=5",
-        "headline": "30년, 50년 국고채 금리 역대 최고 상승에 한국도 경고등",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/19 17:53",
-        "published_ts": 1787129580.0,
-        "tag": "JGB",
         "first_seen": 1787131889.6592493
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 04:08:54",
+  "updated_at": "2026-08-20 04:16:21",
   "yields": [
     {
       "label": "3년",
