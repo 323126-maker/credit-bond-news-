@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMlhsVWxSaU9UeUlUV2hRUWJPUUZhMlppNWl0bkxtWnY4R1otcmF5MTlMZktqckFuZUtTc1JvOWp6UEtXajZWYzVodF9faV9ZZHhyNFBCc0VJdVNJUlZkV3l6NGtDbW9mUDV6SFR5NG51SkRwa1ZuRXY1TGEtSFhWSm5wTElGMzA4Q1lsZFJwSFh6WkRYcXc4WlhoeUlGaGsxbUdibW1ZR2FUZk5oa1M1UFlB?oc=5",
+        "headline": "Warsh Under Spotlight Amid Bond Market Selloff: The Jackson Hole Preview",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/19 19:02",
+        "published_ts": 1787133779.0,
+        "tag": "Fed",
+        "first_seen": 1787134528.0017316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15akhKaDk0Z3FYcEc3SVdUWHJyTVd3UHZsNVNwRExIMVo1d2szaTR2UEdQeEFsS3AxZlpXc3BaamFXbElqU1QtSmUzTHh3QTduZ3Fz?oc=5",
         "headline": "High-Flying AI Stocks Plummet Across the Board: What Triggered the Sharp Market Sell-Off?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787107929.0,
         "tag": "Global",
         "first_seen": 1787108442.835605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT09kbkgxSlFWVkEweW5MZUo1TXU0SU5rbTNOMEFrcmR6V0lYMjlqN2piYnlJLW9ueDk1Tkw4ZVhWRFFycU5BQmxvWWsxVHNaQTdRZGNHeHE2ZDFaRTJwdjZuN1JuNVhGaUU5V281bU9mT20zTE8xbDJkbkVDdWN2Nzc3elVUSEZHbV9nSU5HY25BRGJtbTVQLUoxXzNzN3owQmlpSEdGYWR6aTZzTlV1VmN0T013UTVVVUc1TFB3NHlJdw?oc=5",
-        "headline": "AI-Led Economic Boom Driving Yields Higher In US As Japanese Yields Continue To Normalize",
-        "summary": "",
-        "source": "Yardeni QuickTakes",
-        "published": "08/19 11:46",
-        "published_ts": 1787107565.0,
-        "tag": "JGB",
-        "first_seen": 1787108181.6018672
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 19:01:02",
+  "updated_at": "2026-08-19 19:15:54",
   "yields": [
     {
       "label": "3년",
