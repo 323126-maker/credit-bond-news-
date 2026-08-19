@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BR1Boc1pGZVNYTll5WkFXWm9WSk5TbEZRLU5VMkNOV2RRSGZzWkhOTE5fcGJzOXBjbmd1UmNKSTMzbWhNakNaZEFOOEsyNE1sTVdSVDZocUdVd3FHMEhSSXNDV0syX2pfejhjb28xV3Q?oc=5",
+        "headline": "발행량 줄이는 공사채, 미매각 반복하는 MBS…회사채는 양극화",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/20 08:25",
+        "published_ts": 1787181908.0,
+        "tag": null,
+        "first_seen": 1787183123.2769923
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaOHpBYWNvbU5SNnBqY3hTcXVma3BxZmp2Z0dtemJoVzZjOEh1djB5UjhGeXhCazRtem5QT01qSXdUYmtnWm9oWExoTXJhYkg5X1Z6Vg?oc=5",
+        "headline": "美재무부 바이백 확대에 채권시장 안도…뉴욕증시 소폭 상승 [종합]",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/20 06:57",
+        "published_ts": 1787176620.0,
+        "tag": null,
+        "first_seen": 1787183123.2769923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zQlQzcmR2bVR2TW9WUTV1Q0thVzFJeGtkeWxISm5yMUtaR19RZmE0YWwzTVhHdzFyUTNSYThEUjVKRGRnNnhDWTZLd2htMkV4OTBTMnhSbktvSHNqS2dveXFqNHVqY0VpUHJNMnFIX1VFYjA?oc=5",
         "headline": "칼라일 크레딧 인컴 펀드, 3분기 주당 순투자수익 0.07달러 기록…배당금 유지",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787100019.0,
         "tag": null,
         "first_seen": 1787101236.9004505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DUVJvbnVTdnphcjRzbjZjX25wQXRtU1pyWk5ZZC1xeWlQN0E2eTYydnFGb0FONmFyUjFLZkRJVV9IVWR4ZlZnVWV2b1JsZGtWV0NxWXMyRmhYbHZPYW4tTtIBYEFVX3lxTE1DUVJvbnVTdnphcjRzbjZjX25wQXRtU1pyWk5ZZC1xeWlQN0E2eTYydnFGb0FONmFyUjFLZkRJVV9IVWR4ZlZnVWV2b1JsZGtWV0NxWXMyRmhYbHZPYW4tTg?oc=5",
-        "headline": "NH증권 \"스페이스X 회사채, AI 투자 부담 우려 과도하게 반영\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/19 08:37",
-        "published_ts": 1787096229.0,
-        "tag": null,
-        "first_seen": 1787126174.7419827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iOExsMVpXUmRFaDBMNDNkVGg5S1hET1dmRmYtQ1ltSmo1MkZFQjZYYjFzOURXNDF5VXlfVmNzWFJMd0hncktqdUs0dkZpUGVfbnVCR1N2YUJvR0V6UW85NQ?oc=5",
-        "headline": "美 채권시장 장·단기 디커플링…단기금리는 '기준금리 인하' 반영(종합)",
-        "summary": "",
-        "source": "asiae.co.kr",
-        "published": "08/19 08:36",
-        "published_ts": 1787096160.0,
-        "tag": null,
-        "first_seen": 1787096723.2562652
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFJiWmkycHowZHRNLVdqTnVNOUhHbVlZbFVXODhXcDFZX0ZrNWxuR3hqRkhiMWRZWEhaSWJwQnRjTk5FVXEzRXowRGhFU1BqR2wtbHFjaHg1dFQ5UWFZbGo0bm02WjZBMVdlVEJ3RFpRa1FRNXZoYTJTMVViajBsNXViNXQ2bkJyU2gyN0kxQjdmNllaUnMwRElJNnd4cU1VT24tdTRfVU5RcFpLTmN3UktJRzRYZ21uNUpfemRKc3I0UFcxZDd4cg?oc=5",
+        "headline": "Don't blame US bond market indigestion on AI debt binge: McGeever",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/20 08:31",
+        "published_ts": 1787182293.0,
+        "tag": "Global",
+        "first_seen": 1787183123.2769923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0FVX3lxTE9sXzNSYjA0Sk0xOVVyVWRja2FsMnZIVmVYSHo1UVBxX2lGQ3BzSXFpazJPbFgzUzgySHJ1UzdhYklkTjdvNEpxd3hBZkdYaVdrdW8xQzNmTG8wS2p0YWlTOEJmY0ZJMWd0NjlBR2JEdEpLckJkTmZz?oc=5",
         "headline": "Federal Reserve officials hint rate increase may be necessary",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787181180.0,
         "tag": "Fed",
         "first_seen": 1787182206.3964705
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNdDFOUHlQM3BEVEZabEkteXdrZTB6ckU1VUdWRFdfMXY1SWFPWGQ0QlVmcmRzZUVIYW5jN2pNRHlIU2tHQ2ZWaXlYN1l0T2k4R1RLWkxRdmdLOUFiR3RSWlFrNkFJcG5KMzZjYXoxRmJfR2JtU2o3U0EyckIwTTNOMmdGazVnakZlbFFkMTFQaUNQSUgxMWRfWElhTVF3cTRHblNTS29RQ1EtZlh1cDBhZF82VQ?oc=5",
+        "headline": "Japan’s 20-Year Bond Auction Faces Test as Global Yields Surge",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "08/20 08:01",
+        "published_ts": 1787180470.0,
+        "tag": "JGB",
+        "first_seen": 1787183123.2769923
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUi1JaXhfd0cwXy1iWDRKcExfSWpwYUxqZ1hSSUkzTDhMSkxyODZTRDhWUWQwNGE0Z0FobHk0MjdPdWhhQmhYVkRBS3FyTnNEM3NVNk9oUnlYTTVmXzVVSnEyWTFTQkRqdURhVm5uZzRrck9YTFFnVndPVUpGSEhkZk94VWxQMUYyY1pVc0Mydi1UOG42MEY2dGdYS1FkODFsb1NkNDFaWUR1TGFsd19B?oc=5",
@@ -1638,6 +1658,16 @@
         "published_ts": 1787179563.0,
         "tag": "Fed",
         "first_seen": 1787181323.8607323
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZl9YZmV0dVJQOEs0N1dRYmF2RFFrNTJuM2ViQkFBalRtVHY2UkJrMGg0Njg2MXhIYWFzS3NsUVJyRW5pTGxRbnZXR0t6UEVZVmNYZDJwYnZlVF90a2tiVjM5Z0JaeW83MEs0OVJuQzJBcF9WWDlNdXJuU1ZlNzJTcEhJYjM?oc=5",
+        "headline": "Why Treasury Yields Are Rising, and What That Means for the Economy",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/20 07:32",
+        "published_ts": 1787178771.0,
+        "tag": "JGB",
+        "first_seen": 1787183123.2769923
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWkhfbzg4NFdERzVYRnY5YmN3aUZzNXFneTQ2YnAtTmF4UDdYVDJ2bFQyY2lyaUN1a3J5UXVON3VWZzBSbGtRNkpjYVdPdHNSTE1NaGdwZWtkY1VuMG1IdWQtZjRKUjZIWkl4dUJBRmJJa1VNOWxGbVZsU05tN0d5Sy05QXhENlJqc2x1VzdLLWJLb3VoVWgtTUwtQXlQdXVxWUlJ?oc=5",
@@ -1788,6 +1818,16 @@
         "published_ts": 1787171077.0,
         "tag": "Fed",
         "first_seen": 1787172324.1306849
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmJ5Y0xWdk1iUFZtVFNyWFVrQjBMbndSVTJfSll6NVBGOTRhNUNoaHhWcGM0Z281RVFxTjFqSWtYeFJPanluTVRaT3gyNHZHWHlTbm9mRlVyaWp3V2pzblNIdldDTGs3WWJpWURrWEhueHptMXdCOEN6Q1BvV1hueUhZMTI?oc=5",
+        "headline": "US government debt hits $40tn as borrowing rises at historic rate",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "08/20 05:18",
+        "published_ts": 1787170735.0,
+        "tag": "JGB",
+        "first_seen": 1787183123.2769923
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3TtIBbEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3Tg?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1787162492.0,
         "tag": "Fed",
         "first_seen": 1787163327.0706334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdGFsYzloTUxQMDJ2bXQ4UU5CMVYzNDRESDUwMENyLTZ3NFFEWWlfXzZzeTFUeDR4RzE1S1U3Y3V5Y3ZOUnM1Ul9xU2FPanJ4VDZnbFJjWlh2enZ1cWtQbVdJUDhSZGFuRG9zaEZlODhtUlRCOXhTNVQ3RXVlUEJWRGcxejUzOFctMGRjbm51MDFUcFlSMFBKTDctN3JaUU1YSml5YU1zMXB0aFNHWU5Z?oc=5",
-        "headline": "Treasury’s Potentially Limitless Buybacks Cloud T-Bill Outlook",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "08/20 02:54",
-        "published_ts": 1787162085.0,
-        "tag": "Strategist",
-        "first_seen": 1787167456.837805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTGJncUxBWlBZY0pfamdMek9CRkhucFk3Yml6U19HdlNqWFl1SE8zem5nZU82Y3lpZU92cFFvaVgyZlhyWjAxVFJCVGQwazlZM0lCSWg0dDJaWlZKVDk5bmx5M05mb0FTcG05UFZCTzcwNEN4N09RX2pyZkcwUDNxd1dsd2s4SVBaVElmRFNuV3ppZkFmeTBvZlVHaGxBbjlsdWh0bGVMdmNjc3lRTXpWZUlzNmlaWVZ5cmtjSVFxN09QdU53bHpTVzVaY1dlalB2QnBUbm1FbXc5WThQTFhFbnRFTnZ1eFYzazRzQUtwQTBMdw?oc=5",
-        "headline": "Bessent Just Doubled Treasury's Bond-Buying Program. Here's What It Means For Your Retirement Account And Your Mortgage.",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "08/20 02:49",
-        "published_ts": 1787161779.0,
-        "tag": "Strategist",
-        "first_seen": 1787162439.0064611
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPRHdwd1BtenBpQVo3U3JiUUFhMXFjTkRmcGdORXMxQmF2VmtWUF9iNHlMRmstUXZIRTk4UDJtVU5OcWN6VGtCQUJXRWU1bURkRHZQeEtTSnpmbVY3WmF3UlpHVmVSQVFERXJaZVdXdTFLVU9ESGR2VHY4clNyRVdJRlM3RVQ2bnVkcWp3Q3l2VElKbnpJT0R6MFRSX1d4VEd3X2ZZS0lVOWJGU00wdjJwS3Q3MXhJMlNvbGhYd3lyaGVwYlVvelZCbmxkcVIxWXhlblV0blA0VTBfMXV0cEhXYjh2cHFfc0JtUDM5ci1DMC1uaTk0VXVnUjFib0NyUQ?oc=5",
-        "headline": "The Treasury Department just pushed down long-term US bond yields. That could make Kevin Warsh's job harder.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "08/20 02:42",
-        "published_ts": 1787161358.0,
-        "tag": "Fed",
-        "first_seen": 1787171434.4612024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNb255WURjUk5takJZcEFTQUppTnh6aWpIZHhFd0phNjh1TUJwVlFQODVjT1AzRjFoTnNsYlBlTEh1bzdMOXlJdTdkekprN2FTNXJkMEswdGVjM1k0WHlablkyeE1YS3ZwLTdJYzhndHVOQVhPUU5BMFl0cnd0dG1IY3gzWldCaFlzOExwNzF6bXlmdw?oc=5",
-        "headline": "American Century’s Greenblath Talks Fed, Yen Impact on Corporates",
-        "summary": "",
-        "source": "ETF Database",
-        "published": "08/20 01:48",
-        "published_ts": 1787158120.0,
-        "tag": "Global",
-        "first_seen": 1787159485.6200154
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 08:30:34",
+  "updated_at": "2026-08-20 08:45:49",
   "yields": [
     {
       "label": "3년",
