@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yWVEwOUQwN04xdjlVWWtJSVk4dzNCbEYxaWNYUVdKYkJ3X21fa2hnNlVlckdQaWhSWGxfX2Vqa2pfS2R0R09nX3B4YnUwTlg2Tk1OQW1GU1d5Z9IBWEFVX3lxTE1IR01yYzY5emRCdFRYN1hDNFdnNW9SRERZRExqY3hsdWRkeS1pNGZaOURhM1lZdUNyLU4zeHJhM2tMUmFUQU5lZzlLSjZlbVJVRVpDNnpzaHg?oc=5",
+        "headline": "[아주사설 | 기본·원칙·상식] 치솟는 장기금리, 가계·기업·재정 삼중고 대비해야",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/19 15:05",
+        "published_ts": 1787119532.0,
+        "tag": null,
+        "first_seen": 1787120126.4333487
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xcmgyN3ZiV0ltVUp2QnhnN1VUMC1KMEdmT1dnZTdfYWlhRkFGYk01ME1kM0U5aVY0cUJBZmtWbFhNQUN2NHp0Q0c5RHRKXzdKSXFNbThPWlBXTEZhY2o3TzVvTWg2Wm5I?oc=5",
         "headline": "장기물 금리 급등…채권시장 부진, 정책금리보다 국채 수급 영향",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1786980960.0,
         "tag": null,
         "first_seen": 1786981527.1131928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55bTQwQ3Y5WEZKVk9teVZEeHRES1Y3TUcxNW42anU1SE1nemgwYk9FMXpqLTdXZFppNnA5ZU50VVRtSWNHRV90a1BQNEJiLWRTbUE?oc=5",
-        "headline": "국채금리 폭등 美·엔저 못 막는 日… “韓도 재정여력 과신 안돼”",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/17 17:34",
-        "published_ts": 1786955699.0,
-        "tag": null,
-        "first_seen": 1786967801.0083435
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qRVllcU9OUTFQY0s4QV9qa0JMQmZhd2E4TkhmRzZaZzVSd3BZbjNETVBlLXRHbWQ0cXBSSG1URjhPUlB5OENEWG9QVjg3YUZsNkRubkJ2STZzVEU?oc=5",
+        "headline": "[심층분석] 美 채권시장 '금리 디커플링' 심화…장기물 급등, 단기물 인하 기대 역설",
+        "summary": "",
+        "source": "데일리연합",
+        "published": "08/19 15:00",
+        "published_ts": 1787119206.0,
+        "tag": "JGB",
+        "first_seen": 1787120126.4333487
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBheC1OcGpRYkpFdXZEQTNkVjNUcnZOV3hKZEMtNkUxZUc1QUJDcTFsVTZsLXBja3JJUW1fQmRCQ2VRZUFRcFdHNEFleTF3dnFSV2N1cHVVNFlsNmMxbVlIdVJ3Z0ItaFByakxORlRKNDhEZw?oc=5",
+        "headline": "다카이치 재정확대 우려, 日 국채금리 추가 상승 부추길까",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/19 14:53",
+        "published_ts": 1787118811.0,
+        "tag": "JGB",
+        "first_seen": 1787120126.4333487
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0xRzVBOTg2MXViSGttMmh0NFF4d0NlZFFuc1Y1SHpmYnhfd1FMeFVSazhMQ1M3UFJoTWZvRlJ1NWgybl9PbXVndXN0Y0NZSjQ?oc=5",
         "headline": "전쟁+AI+일본 = ‘채권 극장’ 블랙홀이 열렸다",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787097720.0,
         "tag": "Global",
         "first_seen": 1787099434.0886815
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBubWhyWUZpUjU0cGhaZHN4YzVCZ2Fod3FRQ2RWTU9lekkzM055TzJjMWZYQ1d1enRQMW5nNGtwTXVuaFRLSVNjQVdYUVRMNjZDQjB5czZtLTNLUQ?oc=5",
-        "headline": "\"우려하던 일 벌어지나\"…겨우 7천피 회복했는데 '발목' [분석+]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/19 08:36",
-        "published_ts": 1787096166.0,
-        "tag": "JGB",
-        "first_seen": 1787099434.0886815
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5tZ2Q3aUwyVExRMEFFMGFUTXBxWVNyc1hSTWI4eGpJZUxhQ3BDZHZOVkRwR0V1ZldlUV9BWFk0QUdsU053LXMtYk8tWWp4dzVYS1FuUFk2ZDN0OVRJRE5wRXNXdHQ?oc=5",
-        "headline": "US Bond Market Shows Short- and Long-Term Decoupling...Short-Term Yields Reflect Policy Rate Cuts (Comprehensive)",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "08/19 08:36",
-        "published_ts": 1787096160.0,
-        "tag": "Fed",
-        "first_seen": 1787096723.2562652
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 15:00:59",
+  "updated_at": "2026-08-19 15:15:54",
   "yields": [
     {
       "label": "3년",
