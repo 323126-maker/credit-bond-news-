@@ -1680,6 +1680,16 @@
         "first_seen": 1787172324.1306849
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPWERIM2I3T0tzZWlQc3dWSzVhX1Z4eGdwbDl3d1N4VUZrWXcwQnpGSVNKbC1aWTU1Z1g4anRBaG15Y3BIT3NhS0YzSGtxSWlnOGpNSlA0ODRZTnBmREwzTWZObHJ6VE1ra25qc2lSRDdGY0VBQWY5Q0RCWDFBNVNDRVRBRTJqMGJ2YWF5QmRQZHR0Y0Jo?oc=5",
+        "headline": "Bond yields fall after Treasury announces surprise move to ease rising rates",
+        "summary": "",
+        "source": "NBC News",
+        "published": "08/20 05:29",
+        "published_ts": 1787171362.0,
+        "tag": "JGB",
+        "first_seen": 1787175923.7808578
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9QZEs2QklWUWNlemo5QlFKbGw0Y25XbWhqUWZMbnROX1NOZnNSamhRZ0RlcWJBR0ZJMlNFMkk0NDRXa1hjSGFJTm5R?oc=5",
         "headline": "7월 FOMC 의사록 공개…“물가 안 잡히면 금리인상 필요” : 경제",
         "summary": "",
@@ -1698,6 +1708,16 @@
         "published_ts": 1787171077.0,
         "tag": "Fed",
         "first_seen": 1787172324.1306849
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3TtIBbEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3Tg?oc=5",
+        "headline": "‘코스피 언제 오르나’ 이번엔 글로벌 장기채 역습… 증시·실물경제 압박 우려",
+        "summary": "",
+        "source": "국민일보",
+        "published": "08/20 05:03",
+        "published_ts": 1787169780.0,
+        "tag": "JGB",
+        "first_seen": 1787175923.7808578
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNXzEwTmtqMDh4SVVSLWdwUHgzbDF6dVJST2wzY0JHVzhXX0dOZGF0ZjdRLUhfRkZ4cW16ZE5Yb0N6TEZBUC1SbzJOaDBMMDEtOWhEc0MwV1FERWlQLUVCVnZUYk5RdWNPY0J0bkRyMW9qQVFxY2F1MHNkZVU1emdnZUpCYmdzUdIBiwFBVV95cUxOT2NBRklGTmdfOE9SS1NuU3QteFQ2Y1ZvX0E4ZDRZTXpOYlE2VzVsQWRMbzlOTWRQWGVDblRYWHBUXzVKXzFuMlhrd29BWllfN25QS3RvRmgtLXR1N3plNzIxQ2RrOWFQNHlSY0tMbXFUcTN2T3BwTUlMd1ZnNmd5T0JWaEN2WHVnRFJv?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787151420.0,
         "tag": "Fed",
         "first_seen": 1787167456.837805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAyVzBuR0ZZbHktTEZkXzd0UVU1a3k5WWhvNkJXSy1aZUxTY09ZLWNwR1Y0aEtTa1pFRkwxREw4THotQng2T0RLb25PSVFpVmc?oc=5",
-        "headline": "[사설]불안한 韓美日 국채금리… 돈풀기-고물가의 경고",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/19 23:31",
-        "published_ts": 1787149909.0,
-        "tag": "JGB",
-        "first_seen": 1787150726.4600825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOW1tR0F4WTNDQlluTHA1bVFjRW9kMkY4Z1l3SUFNckN4MlFFOXJLM2Y1WlpiQ082ZF84QmNGUk5FdlN5OUR0SGpkWHJnOFpYd0hzZ2k2Szd4Nlo5VWZoQWxsNXBxNExaRlZwUA?oc=5",
-        "headline": "US Treasury Debt Buyback Expansion Elevates Stocks",
-        "summary": "",
-        "source": "sekbernews.id",
-        "published": "08/19 23:14",
-        "published_ts": 1787148867.0,
-        "tag": "Strategist",
-        "first_seen": 1787149833.4379919
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 06:44:34",
+  "updated_at": "2026-08-20 06:45:55",
   "yields": [
     {
       "label": "3년",
