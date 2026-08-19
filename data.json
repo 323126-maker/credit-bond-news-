@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0xOW1tR0F4WTNDQlluTHA1bVFjRW9kMkY4Z1l3SUFNckN4MlFFOXJLM2Y1WlpiQ082ZF84QmNGUk5FdlN5OUR0SGpkWHJnOFpYd0hzZ2k2Szd4Nlo5VWZoQWxsNXBxNExaRlZwUA?oc=5",
+        "headline": "US Treasury Debt Buyback Expansion Elevates Stocks",
+        "summary": "",
+        "source": "sekbernews.id",
+        "published": "08/19 23:14",
+        "published_ts": 1787148867.0,
+        "tag": "Strategist",
+        "first_seen": 1787149833.4379919
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqV05vM1pnZmZXZFVwZkdCdGMwWWRqbjJHdnB1bmFlLWliVkZjc0Z3NWxUak1lbUY2X2ZTZ3VKWVp6YWFoZEZWOTlLeGxBTGVHTXU0WlJPOE55ZDBvUkdVQ2tnTkVNc3JmVEtuS3hkYw?oc=5",
         "headline": "Bond Market Flashes a Warning for Stocks",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787148463.0,
         "tag": "Global",
         "first_seen": 1787148928.0563009
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaXZ6aTRUZy16UUFtajFHc3R4ZDNlYzNIWk9JeGhCRWg4WVJrbGdzM3VrcjA5alBUSjgzSDBHWjktdDN3b0ZQeFBHbXhNcXloRXZlTVpXZ1FtTDBHQUpQS2k4ZlpkX2pmVTZoblNWRU1ud1F4NTdqY2RHU05GZTZ6NEZfNWZFTkpabDh3bElNd1N0N1lpMjg3QmRlWDRZTW5pOXZn?oc=5",
+        "headline": "Steve Hanke Says Trump Has Mixed A “Deadly Cocktail” For The Bond Market",
+        "summary": "",
+        "source": "thewealthadvisor.com",
+        "published": "08/19 22:29",
+        "published_ts": 1787146148.0,
+        "tag": "Strategist",
+        "first_seen": 1787149833.4379919
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbktXSmZObU4zV3puZVdBaVk0U1FmcVF6SUV5REJFdHNyMUJNSjRSaEZPTnU0NWhGa050eHkwX2JOME5IMjJXSERFbWRFVm1CVWQwVkY3cVc5dFNhdVVuZ0xIWXFKZVlqNEpfV09IQnRWVUs4WVE?oc=5",
@@ -1986,26 +2006,6 @@
         "source": "이코노미트리뷴",
         "published": "08/19 13:51",
         "published_ts": 1787115089.0,
-        "tag": "JGB",
-        "first_seen": 1787115639.6294596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1Kd1RXTGM3U2l3Rlp3djlLekJ0VVdnS1BqekFPa1FITWxfd0xpSlpiQWVKZ3RhWU9veWtCUkhrTWYyS0RVQmwtRkVNNmZBeGdlMEZnZmNVR3ZRc1VO?oc=5",
-        "headline": "영상미국 장기금리 급등에 코스피 ‘전강후약’…7000선 회복 실패",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/19 13:23",
-        "published_ts": 1787113397.0,
-        "tag": "Strategist",
-        "first_seen": 1787114724.2600944
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZXdqRDFtU0o3S3l6XzZkVE1rTzZkYTRPTnNDdU9yWTdkZkRhYmJ2a3pXX04yR0tIT2ZYUDA1YlFQS0NGZmh0azEwbURZYzY4Ym1icDlOWmlHRnpZRlRmOXIxUWIyRVpJTG50Q3ZyaVYtMlgxdXBYZ2RHc013QnU3NEpqTDROaFFEMkl3RjhxZmtONS1HeVdKMV9pakRaZUd5cDNkRlIycURhUTYyZ185TElZUQ?oc=5",
-        "headline": "Mizuho Markets Head Expects BOJ to Raise Rates Soon, More Often",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/19 13:20",
-        "published_ts": 1787113200.0,
         "tag": "JGB",
         "first_seen": 1787115639.6294596
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 23:16:37",
+  "updated_at": "2026-08-19 23:30:59",
   "yields": [
     {
       "label": "3년",
