@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbFJiWmkycHowZHRNLVdqTnVNOUhHbVlZbFVXODhXcDFZX0ZrNWxuR3hqRkhiMWRZWEhaSWJwQnRjTk5FVXEzRXowRGhFU1BqR2wtbHFjaHg1dFQ5UWFZbGo0bm02WjZBMVdlVEJ3RFpRa1FRNXZoYTJTMVViajBsNXViNXQ2bkJyU2gyN0kxQjdmNllaUnMwRElJNnd4cU1VT24tdTRfVU5RcFpLTmN3UktJRzRYZ21uNUpfemRKc3I0UFcxZDd4cg?oc=5",
+        "headline": "Don't blame US bond market indigestion on AI debt binge",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/19 22:03",
+        "published_ts": 1787144610.0,
+        "tag": "Global",
+        "first_seen": 1787145324.825918
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY0o2UmpJVC15aWY0WnlyeE1PWjJJd19aYlVYeTA3T0hLdmdyUHowOWpkZzNfdU43eDdlUm1uckZlSGZtMUpFaGlQUWJkbGRVTEZLRkJocFVNVlJfNmNhSm5pc0dNYmFQY0ozV0EzLVpIMERuUFhfVmRNckFTdy1LUHJYSjRQZ0ZGZVZpTHBKUm5FZzlMbnBXZUVmMnQyOGxPUTRGdWE5dklpSVhaVWM5aFg0SVNQWXZwVnN5ZE5Iek9RR2Rfd0NDZ2NsYjg2OThvUXUzR2xmMk11S09CdXBKVE10YXRtQjVE?oc=5",
         "headline": "Global bond selloff marks down long-dated holdings in institutional portfolios",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787112524.0,
         "tag": "Global",
         "first_seen": 1787142631.0360432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ2xUM2U5V0NUVG5wRzVVVmo5MEtObU9qaU9ZbnBwN1ZiaVRrSWtfTHl0NFM4VDQ2ejNFaXRudTdmOUNGc2RhNUMzZ1BQMWdlUzV0ZERnV25GekQzV0kzVmRzRm16QkcwWHFkTVBwR2pxejNLV1lpWlcxWVVESC0yMUNkSVRWY3hCU191U1RIbWRNLWdia0FpZ2RRbE01MlRrYVVfdmdjYVoyeENs?oc=5",
-        "headline": "When Treasuries yield 5%: Is corporate credit still worth the risk?",
-        "summary": "",
-        "source": "Citywire",
-        "published": "08/19 13:00",
-        "published_ts": 1787112019.0,
-        "tag": "Global",
-        "first_seen": 1787112931.959011
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 22:01:01",
+  "updated_at": "2026-08-19 22:15:49",
   "yields": [
     {
       "label": "3년",
