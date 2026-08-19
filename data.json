@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5fUkdzbnpGZC1DZVppVVpSNEV3X2JfRVEzQmJoNWpILUpsMXR6c0lFMWFxNVFDdDJ6bVZseWxEUk5QQkx6TmdpeDNLdVRtb29aQ1FIS2wwaVhjRm9IZF81NUNfNm93T0pnWHRLZlRhRElSbnpKLVhv?oc=5",
+        "headline": "S&P Global, SK하이닉스 등급 ’A-’로 상향 조정... AI 경쟁력 부각",
+        "summary": "",
+        "source": "kr.investing.com",
+        "published": "08/19 21:30",
+        "published_ts": 1787142600.0,
+        "tag": null,
+        "first_seen": 1787143506.4832678
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9OemJhVVNubS0tNG9pQXRqalZtMG95N1NaMjNKS3BXQkg2OG1Ed1g0RllaSEVPUnFRdmdiQVRzTWRCc3RZcV9QbFdGaE14N3c?oc=5",
         "headline": "BBB급 회사채 '찬바람'…이랜드월드도 미매각[fn마켓워치]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787089983.0,
         "tag": null,
         "first_seen": 1787093448.2010853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yYnVOSVlkSEpoR1BtdU9TT0RhOVpjTTgxV05aTl96NUxRNTZWY2tsdFJzUWlDRFp2ekR1a3N3Z2ZNVkU1cUZRWTExbUo5SUhub2tCWXZJaUVsMkx1MGlzag?oc=5",
-        "headline": "뉴욕증시, 유가·장기금리 상승에 하락 마감...나스닥 1.33%↓",
-        "summary": "",
-        "source": "증권일보",
-        "published": "08/19 06:50",
-        "published_ts": 1787089800.0,
-        "tag": null,
-        "first_seen": 1787112038.2128441
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 21:30:58",
+  "updated_at": "2026-08-19 21:45:30",
   "yields": [
     {
       "label": "3년",
