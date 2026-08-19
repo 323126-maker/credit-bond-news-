@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPLUxPRTdYWG12TUVQNkRoeDUwU2hDUmJld2RxZUo5ckdlcHgwWFgwajJrdkYzcGlzV0ZWckNkT3RaOFU3VXprWWJIX01rOERxQTVhcExiWWEwSi1DTzN1dWZtdDgxOEcxQ3FyTTJORDNIc3M4VkdlTVdkSG1jd1NYbkdOSQ?oc=5",
+        "headline": "Bond selloff slows but stocks wobble",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/19 11:52",
+        "published_ts": 1787107929.0,
+        "tag": "Global",
+        "first_seen": 1787108442.835605
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPT09kbkgxSlFWVkEweW5MZUo1TXU0SU5rbTNOMEFrcmR6V0lYMjlqN2piYnlJLW9ueDk1Tkw4ZVhWRFFycU5BQmxvWWsxVHNaQTdRZGNHeHE2ZDFaRTJwdjZuN1JuNVhGaUU5V281bU9mT20zTE8xbDJkbkVDdWN2Nzc3elVUSEZHbV9nSU5HY25BRGJtbTVQLUoxXzNzN3owQmlpSEdGYWR6aTZzTlV1VmN0T013UTVVVUc1TFB3NHlJdw?oc=5",
         "headline": "AI-Led Economic Boom Driving Yields Higher In US As Japanese Yields Continue To Normalize",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787081776.0,
         "tag": "Global",
         "first_seen": 1787082234.7799828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vSUxrUno5VVNWbTdFZ0hMRkxUeVYxY2s4NnIyUkV4WFJMYnFDNXIzVGdYMm92NzFoemRxRUZyRlA3d3VrYXFjTUtFMGhscE90NmRRNjZKYTc2OUhpYVBEdUVSWXBQUmN4bkpZaGxPQnNQTTQ?oc=5",
-        "headline": "Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/19 04:17",
-        "published_ts": 1787080672.0,
-        "tag": "JGB",
-        "first_seen": 1787087727.8926861
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-19 11:56:45",
+  "updated_at": "2026-08-19 12:01:06",
   "yields": [
     {
       "label": "3년",
