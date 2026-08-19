@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1RaGNTVFJTUE1FQTdTcEowTThLYXZ6ZC10OUJCWjVXOUZ0aW1wbmR4ejVuMTVkZXNJS1hMQm5ocDNtQzloT2tJU1l3?oc=5",
+        "headline": "일본, 엔화·국채 '휘청'...비트코인(BTC) 엔 캐리 청산에 또 주저앉나",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "08/19 10:55",
+        "published_ts": 1787104500.0,
+        "tag": "JGB",
+        "first_seen": 1787104837.418463
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGxQZ2JxcXROYjlFOThJXzF2a1FwcWtvNU9xZXZlWGQ1Y2VHY0I4amNXZF9jaUlZUUFVTzYtMElvUDhTSHdGd3YydEZQcnh1NzI4bm9GRFdMU044YjdBS2FTSGt4TW80Z2c2U3NUTm9hcktMeEpyTEpnZVpLQ1puVlZKV0NreWhUc0x0eUdSeml6SFF1Tmh5SG9hYnV6aV9fRHUw?oc=5",
         "headline": "Dollar drifts near multi-month lows as Treasury yields ease; Fed minutes awaited",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1787074536.0,
         "tag": "JGB",
         "first_seen": 1787103031.0318334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWFJ4QWF6ZXRKT3NEQzd5U1J5bi1JVGQwZnotbWZGeVNzZEdhdGVGQy00RnJDSUtVZE1VYVR5bFYzcDBKZktkX2xXNVJubmUtZ1VlZDR3RXNHQXVkcVNNVExodkNwcHRQVEV0UzMyZEZjS2Z6bkFQZ3I3Nm9kTTkxOFNaalhnN2FzQTRkcWpVdWpYMVFfa0J0Zi1xRTZHdDhyNVV5V0FtZFlrb0dxUkJ0ZDBKdkJPbGfSAbwBQVVfeXFMTWVadE82UFBkbndVWks0UzdhajNTZlhaVDdnLVhnTlpOQUJqWHBPbFRxMFpZSi1fOXp6em5NalBzSnNfMzY4MW1YVWdMLWwyMUxpNnV4YVd0V09kN1pCWEtYREI0dHMwN2NaQ2NjTm5zWFhNQi12MlZTLXdaLUU3SnRQUmFhbk1KaXpPNHpzNjFiZGk3M0dVOXNUQW1laWRxRXczRFBidW94NGpRbC1ZM01nMGhNSkdyMl84MTk?oc=5",
-        "headline": "U.S. government debt yields are surging at a bad time. Here's what's behind the move",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/19 02:25",
-        "published_ts": 1787073920.0,
-        "tag": "Global",
-        "first_seen": 1787079637.7511694
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1hbVBzRHdvcGt5SkpvMVRHbHpjbnJLM1lla1Mxa3B4MjVsZmdObFA1V3VQQmExSUlDc3g1dWRqazROa0ZQQ1YxM0poRE9HdWRlNnFuSFRkNTBoV0RJVGYyVTFQZE1sZFlrNzRCS0twY9IBc0FVX3lxTFBXUzNWRlh6ZWdPMk1HemExNW9pNmZoblRzNmpVY3ZjcGNWRWIzeVZoYV83Tl9TeHZjcXgyZERQNTRxdFA2RXNlYkthdkpBNzhOV252TXpERzB6cW9KdFBxVDlqcnVFWFd1SUtIT21JR2UtZzA?oc=5",
+        "headline": "[금융톡톡] 현대카드 '올리브영 20% 적립카드' 출시·BC카드 'AI 모델 경량화' 성공·신한카드 '생활요금 캐시백' 진행",
+        "summary": "",
+        "source": "뉴스웍스",
+        "published": "08/19 10:41",
+        "published_ts": 1787103693.0,
+        "tag": "현대카드",
+        "first_seen": 1787104837.418463
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMd1JjaEd1NEt0eDczTDRDYkJOM0xmb0t4c2tzNURieUl5cnNzc0g3Zk84eVRyclUtWFpaTUhVR1M2T2hLanc0Sm4yTGtlZTgzbTFsZzV3?oc=5",
         "headline": "올리브영 1만원 결제하면 2000원 적립…현대카드 업계 최고 수준 제시",
@@ -2400,20 +2410,10 @@
         "published_ts": 1786572000.0,
         "tag": "우리지주",
         "first_seen": 1786787036.7368805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1saWlLY191RlpqUzlycmx1MzFnSUFHOVFHcFVfR2xSZU1jVUgwT3NjczF5eEx6Uzg4R2F1M0FRRVRIYjNoUWVpdUFPQXpULW5Pc2g5enRFTmFMUEt1cU1LWNIBZkFVX3lxTE9hd3d5QVJja0ZXWXVwUzFmNlo0LXRneC1tdGJPd2dzTlNueUo4a3hMNGJVcTdULXVjRE1vcEc4V0Jxckh2ZHI2ZlJoWXAxYWZKcEQ1Z1RWVGg5TnRqVmJsdk9vcFYzUQ?oc=5",
-        "headline": "여전채 4%대·카드채 4% 육박…카드업계, 금리 인상 기조에 조달 부담 ↑",
-        "summary": "",
-        "source": "news1.kr",
-        "published": "08/13 05:45",
-        "published_ts": 1786567500.0,
-        "tag": "현대카드",
-        "first_seen": 1786568507.8931978
       }
     ]
   },
-  "updated_at": "2026-08-19 10:50:38",
+  "updated_at": "2026-08-19 11:00:59",
   "yields": [
     {
       "label": "3년",
