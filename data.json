@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROS1abGdTbTBvcVZlWHd1b0x5eGk5bW5lTlQ4d19JX1N0MDVFTXNablI2NHNDNFh2MmxYMlU1N0JMcExWRjAzS1k2UTFjVVZRdXc?oc=5",
+        "headline": "백악관發 훈풍에 비트코인 7만달러 근접…코인베이스·스트래티지 두자릿수 급등",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "08/20 09:22",
+        "published_ts": 1787185373.0,
+        "tag": null,
+        "first_seen": 1787185832.3190308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnOGtPSDE3QjlQckotUVNxdlBGU3FNcEF5Y1hCNE5kVU53bkoxQVVaWUlybVhxa3lYdWFrcmxlS3pDUmVGanlMV0RCYjFBSUk0cjU4aEJqSkZZeU5BNzlYbzhiTzZudW81TFh4ZTg4UDgyZw?oc=5",
         "headline": "트럼프 'BTC 매입 검토'에 숏 3.8조원 청산...역대 최대",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786500000.0,
         "tag": null,
         "first_seen": 1786500923.854006
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVVZsZVNkSUtpTmZCTWc2MnBlTTRpb181VUF1MHE4N2tNOF9QUllfeFYwWnAzYXR2YVQ4UnlId3pGTGtEek9hUU5qQzVKZl9EbFBweDd6UFV0REJCemd0UkQ4bDg0Zi1ZT3dEQzJyX0VhVlN2WXMxa3lpNDY2VWcyV1dLMnJaUQ?oc=5",
-        "headline": "이 대통령, SMR·핵융합 등 '7대 첨단기술' 보고회 주재",
-        "summary": "",
-        "source": "TBS 서울",
-        "published": "08/12 10:53",
-        "published_ts": 1786499580.0,
-        "tag": null,
-        "first_seen": 1786521635.0432498
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 09:15:50",
+  "updated_at": "2026-08-20 09:30:56",
   "yields": [
     {
       "label": "3년",
