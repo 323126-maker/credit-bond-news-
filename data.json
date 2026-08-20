@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYlc4Q3A1SDZTdUtwN2FrOUtHMXNneXVVek9tRWxldHhmWDEyMGczeUJjNUVaOUpkaEVNQnY2NkdQWWhTekw2ZENWdkw1eDZseFZJcmdzRjh2b3R6MVdxZF9hR1g2RFNQMnhQTUNsQ2NiMTl0cHNTenZxM1dSUTl0aTRCdnZyZHVyZDFKTg?oc=5",
+        "headline": "US Dollar: Policy-driven yield retreat – UBS",
+        "summary": "",
+        "source": "FXStreet",
+        "published": "08/20 18:16",
+        "published_ts": 1787217384.0,
+        "tag": "Fed",
+        "first_seen": 1787218231.7862992
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNblpwLVVjSUVUczBTMDVnS2dZYzQ4WGRhX1QxaVhkdDNQaFVuSHJRUnVnb1QtN19uOHhfakg3eTFRNklQUFhGVDhPcEZ0VXBmZERDdjNoTC13RWJPZ3Q0dU11c09Ocm1mZWNPLUpuMkpLdWJaYVZVU2FxUmY1a3pJUkxIX1FoOFFLWFQxQkdTbXE4QmhJbV9sZ1Y3b19tQQ?oc=5",
         "headline": "미국 달러화는 미국 국채 수익률 상승과 함께 3개월 만에 최저치로 떨어졌다.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787174326.0,
         "tag": "Strategist",
         "first_seen": 1787176842.5993228
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTzE1TERzMThIc2x4Rnc1bzA2ejVWQzBLV2VzSE56ODQ4aWh3SjA0MDNSdlVTb3JEZFJESDVsd1ZqYWVWbVJiOXh5VDVnRHlYTGtjN2oycmZnODgwS3RVTEdiUEtKb1ZVRzYwNE0xSE5xVGhWS3JKaEtldFVZVTZaWg?oc=5",
-        "headline": "U.S. Treasury Bond Buybacks Spark Market Moves Amid Surging Yields",
-        "summary": "",
-        "source": "Global Banking & Finance Review",
-        "published": "08/20 06:15",
-        "published_ts": 1787174122.0,
-        "tag": "Fed",
-        "first_seen": 1787175035.031855
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 18:16:38",
+  "updated_at": "2026-08-20 18:30:54",
   "yields": [
     {
       "label": "3년",
