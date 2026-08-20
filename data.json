@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81RWUzQWhZVThUYmFMUVJmcmNFYjNVVDB1MHFCd2dVS2RXT1BmUVBuUFRzc0pObnBUMmt5SFZKUkF0WEowcW90UWhoZkczZHZpLTJrRVNqNFIzblNX?oc=5",
+        "headline": "금투협, 신탁 실무 교육 개설…PB·자산관리 역량 키운다",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/20 15:22",
+        "published_ts": 1787206920.0,
+        "tag": null,
+        "first_seen": 1787207431.0691354
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qc0M3OE80YXZ0VDBZQ0VjVWxaVnpaNzVGbGZ3cGVvT2dITFFfMDJFSXNpOWZCVHBYLVVlREd4ZWdqTHdmbTZfRlNuOTBYSFZkdUg2M0J5NjNQRmVw?oc=5",
+        "headline": "금투협, 사모운용사 백오피스 실무 교육 개설…펀드 설정부터 청산까지",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/20 15:21",
+        "published_ts": 1787206860.0,
+        "tag": null,
+        "first_seen": 1787207431.0691354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDaGJoQnpYRUR5ZEpBdmt2RVZ4YWd0akVZenVtcnhjdjdNSUE0dnZmb194QjByajFuMjdCb2NPRUNFRVl5ZDFkemp1dTN4cE5rcHh6Skl5UmxyZ3luaWlWLTJ5WnlUNEVXaE9sTVE1eXJnUUpQWDFSZG1TZjg?oc=5",
         "headline": "신한운용 김재정 \"국고채 금리 고점 여부 관건…물가 변수 주목\" [인터뷰- 채권시장의 파수꾼들 (5)]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787125777.0,
         "tag": null,
         "first_seen": 1787127325.6617332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KakR4OWNVV0ZNTUN4elNqSVhFLWRLOXVLT1VWV21sMVhoZTBIYWtOQTRGaWluNURwVUNIZTdDZjRfQlBESXJSdFJTMl94eUZsNmc?oc=5",
-        "headline": "롯데건설, 회사채 ‘전량 미매각’ 충격 지웠다…수요예측서 모집액 3배 확보 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/19 16:47",
-        "published_ts": 1787125649.0,
-        "tag": null,
-        "first_seen": 1787128810.5754552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBsQ29fU2Jib3JPZldoeGRyeW41cFRGWk1QYkdOS0xFclpaNFZlNkM2UkxDYzRpX05XMzVWUm9TN1BEQ3pmWW9FOC1HWTVOangyODlxMktOUnJwa2fSAWBBVV95cUxPdnh2QmZKUjc2YXpUSXpjVzBSU2dqRDc5bXAwaTllbW83Q3Fyc19qOFQzSnUtWVBiSDJ3Q3RDM2xtcHVTUFZ2d2NWR1JmdTk3dWRuMkFlSUhsRGpEeGpVbHU?oc=5",
-        "headline": "롯데건설 회사채 수요예측서 1천510억…예정액의 3배",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/19 16:30",
-        "published_ts": 1787124605.0,
-        "tag": null,
-        "first_seen": 1787125525.428912
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 15:15:51",
+  "updated_at": "2026-08-20 15:30:54",
   "yields": [
     {
       "label": "3년",
