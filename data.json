@@ -856,6 +856,16 @@
         "first_seen": 1787208327.0903096
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xMkhzdFlXVVBFeTBpUXo1N1BqSDBKeDEwdDFGYXZUV21IVWszZkZGNFFLNEU5S0dGOXRSUnpLbVdaQVpVMF9kTW9Hd2Npc1VBZ25uQ2NIX3VIaGp6SnkwbWVJWndBcFFWMjhCbVlmMA?oc=5",
+        "headline": "미국이 국채 사들이자 금리 ‘뚝’…내 대출이자도 내려갈까",
+        "summary": "",
+        "source": "진일보",
+        "published": "08/20 11:40",
+        "published_ts": 1787193600.0,
+        "tag": null,
+        "first_seen": 1787247928.8958054
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFA3QVJ3ZUFZVXdjVTF6cU5GRTk4NXlEQmR5Y1o3SkpTNGEzX0dpVkViTF9lVjFxbjlIWFhxTExEbGlaWTg?oc=5",
         "headline": "이재명 “전쟁 추경 26조2000억 편성…비상 상황엔 비상한 대책 필요”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787032825.0,
         "tag": null,
         "first_seen": 1787051724.666756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE13d0RlMWY5ODBDTjF5eFpHSGtqMXdJSlhha3dMWFNIcEs5UDVSc3d4eVhlX3R3TENnbG1LM210c3p2V2trOGZITEgwSkxHeVI0WU9ranpzOUJWQjVfWVJ2cW5kMTNmQUdTYnVqQ0J4dm9tMDZtNEJSU2R3?oc=5",
-        "headline": "[가장 보통의 투자] 내렸던 금리 다시 오를까…예금·채권·대출 전략 다시 짜기",
-        "summary": "",
-        "source": "bizhankook.com",
-        "published": "08/18 14:29",
-        "published_ts": 1787030944.0,
-        "tag": null,
-        "first_seen": 1787060726.2786834
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYlV3ZVhxbVFLaFJ1NXNmenhvZElsazV5QUtlUVljZFFNSER5NWdxWVRQVXZjZ1ZUcEhsYnJwOFUzQ2tEanhlbElpQzZUOGgwd1QzNWZCbmpuTlFCZDY4MzVfTUk0cFdDRkVMa1d5R3BPY213NEZzTDVLNUJaRjMzUHBhZ2RwT3FvMU4zVFRWTExWbEFLTENIQUJWb0p4emQtT0Ntc05vSzVUOEh1?oc=5",
+        "headline": "US debt hits record $40 trillion as deficit concerns grow",
+        "summary": "",
+        "source": "The American Bazaar",
+        "published": "08/21 02:42",
+        "published_ts": 1787247757.0,
+        "tag": "Strategist",
+        "first_seen": 1787247928.8958054
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZXU0b1JHVXRNb1p1RkNPWnFLNXFGUi1zMkR0NDdEVVRoeThabXRiZHUwa3JmY05LME5QM1V5N05zdVhsQ05aQ3kyLUR2Q0U3QmhsenNGYzE4WGZXUGlLcDZIYXNidnJHWXpYSy1oN1RCR3d3RFRRa1Y3emxVaWcxLTcwcFVtV1Q5bkNfbklFU0hraWV2eWhkVUtwOA?oc=5",
         "headline": "Japanese Rate Hikes Present a Hurdle for Corporate Bond Issuers",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787218540.0,
         "tag": "Fed",
         "first_seen": 1787242526.337513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeUxTdlItdnFubFBDNVFRcGZXQzVWUm1YQVRMU2IzTzc5c2RvVkJYRDd1Y29ZVWdOdG5qOS1XLTVRT0VfbUJlTndqakFxNXc1dFBOUkhZYnFIdFd6OFpyb2VYN3QzbzhZYm9vVVNsQzNSOFNuWk9tbDYyZXdzcE9jYUlheld5cURvVlAzbTg4dEdIck9UWjhIVC1wT2NMTXRJQW5YQm1KdWpGamN6SklLVXJqNUFDUQ?oc=5",
-        "headline": "US debt tops $40 trillion as Treasury doubles bond buybacks to calm markets",
-        "summary": "",
-        "source": "Newswav",
-        "published": "08/20 18:18",
-        "published_ts": 1787217512.0,
-        "tag": "Strategist",
-        "first_seen": 1787219127.4168763
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 02:42:26",
+  "updated_at": "2026-08-21 02:45:53",
   "yields": [
     {
       "label": "3년",
