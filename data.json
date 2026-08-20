@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQM1duT24yV0JXekMtNDBUWWI5eHNtNjFxaDdpbFd6MEVLSkJTbk5jVGZDUXpMbDB5U2xSUWdqMGpGSFpWS010Z2NBQWRLbGNUSU81c2FsY0NYei0zb0I1cDhMaGUxVmNMajFGdzVFQUxnZ041QUU5ZGt5cjdBZDRLQm5mNUZmOEJ3dV9QMjFLODJrWmhOcndIS0NFcWRJbHZ3VTFEblB0SUxyZmVwZXkyUlZNU3RNWmhsdXd6WDJoTDgwei1tbnZrb2RuZlZ5eDRXdklBZm5uSjhiUHh6UFQ2cExZU1NxczUtZl9HRGxn?oc=5",
+        "headline": "US futures little changed after US Treasury doubles bond buybacks",
+        "summary": "",
+        "source": "Union-Bulletin",
+        "published": "08/20 20:45",
+        "published_ts": 1787226330.0,
+        "tag": "JGB",
+        "first_seen": 1787227138.4703863
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWpyTjlXQzR3R3dLdk1CLTBiaUlaTF9Ib3BKcmNubVhPS2lOMUJtcFVjSFhWalJZanFITUlqZmhQQmF2dEcxQVNGRWdGNDVWNG5EY05pTjFzSUQwV2dJRTNYOEdjbkZCa2dJaFloV3E2ZlVncUN4dkVMZU9kNEctUVJfcEp4VkZXWjBobV9zdw?oc=5",
+        "headline": "Treasury buyback and yield surge impact markets, Mohamed A. El-Erian notes",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "08/20 20:20",
+        "published_ts": 1787224815.0,
+        "tag": "Strategist",
+        "first_seen": 1787227138.4703863
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWJOZDJ1a1JETlBYdHh4SjRFUnEtWk0ybDlucDY0dGZCaEQ1RklhRGVWT2M4WFRLYW81UlBpdXlvVnJNdlFNelV5RDdfNGZZWU9ZWjEwZGVtV0lmaERUSnZ6YnhUNkVwLWh5M05lQzU0OV9pSUJ3M0F0UHdCZGUwQ25UZmpmcl9fQV8yY1AyU1JDVE1MRElfYjlDX0taMjN6dURN?oc=5",
         "headline": "World shares are mixed after US Treasury expands debt buybacks, while Brent crude gains 2.2%",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787188620.0,
         "tag": "JGB",
         "first_seen": 1787223600.3757396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWFRYndNMFd1ZjB4U0hKaXBjLUhmeHhZT1JzTzBGT092d2QzZFRmalM3Z3lkaUF0bjNLODZhNjV1bHdLNnpGc2JRcmZmXzhWWWx4N3dXcVlEM0U5aHNVbUlVWnFIREppNDg3cGhEeGRDLV9xVzdBUXUtdlI4X1Y4a0pLMk5fTFNjRmdCQ0pNRWdPb0VnTlQ3M0NTY1pWSjdyV3pKRHp6azVtNzUzdDRFekxB?oc=5",
-        "headline": "Democratic Lawmakers Urge Fed’s Warsh to Disclose Trump Calls",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/20 10:12",
-        "published_ts": 1787188320.0,
-        "tag": "Fed",
-        "first_seen": 1787193029.9925234
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRTctZFZYNWtPLTRad1kxQTl4YXNIN0RrMW9BQXlSWWlQVzM0M3hqY3pvTXVuMjZibElOUzJjem9faXBUSTNaZTVpWXJzeTJhUGJVWFJKMjVvSk4tc05SNGNraEl4dXpNTTU0aDNIeHdwa0hkaXhvTG1IZEtPRGgwUHhzclNHLVAydzU4XzUtT2p0QUxMZXlPS0kwWmhvdVF0QWtr?oc=5",
-        "headline": "JGB yield curve flattens as US Treasury yields rise, impacting Fed outlook",
-        "summary": "",
-        "source": "Crypto Briefing",
-        "published": "08/20 10:03",
-        "published_ts": 1787187810.0,
-        "tag": "Fed",
-        "first_seen": 1787210126.150149
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 20:45:55",
+  "updated_at": "2026-08-20 20:59:20",
   "yields": [
     {
       "label": "3년",
