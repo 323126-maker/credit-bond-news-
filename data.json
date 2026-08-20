@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5neHVDMVZoSXJuY0V0ZEJDLUNteF9yZ2U0c09UczRiZ3RsV05qZVZNX2RZQUhqRnA1dHVMRHRFYmhSckRnSXQ4UVZURDdDTzZ3ampWN1VkQlhGTlJCekpkVWpsSkRzZXh5SjdVLWRja1I?oc=5",
+        "headline": "[뉴욕채권] 베어 스팁…'베선트 풋' 하루만에 소멸 속 역효과 우려도",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/21 07:00",
+        "published_ts": 1787263202.0,
+        "tag": null,
+        "first_seen": 1787269525.3604226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBOMGk0WV9KQ0F2bDBINVlvVTR6TTZLVGdDNmx3dTEwUm1xOEx5NXJxa2J2VlU0alpuZVZsVkdQX042NXV1T1JIa2JQVTI4S054RWpHb1BpRXpWbDZkbllBa3d6b2RXekxQTjlORFdnc0I?oc=5",
         "headline": "크레딧 억셉턴스, 6억 달러 규모 자산유동화 완료",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787176620.0,
         "tag": null,
         "first_seen": 1787183123.2769923
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4yRUM5bnNrRUJQMzBQdmZseFFhUVJETGlYOEl6Y1NOVDZqRkZ1aUlSTjBBXzBRQzFVZUpzRl82V3IwMXVaTlVNNGJIOUV1dVo0bUFGTDhDWHhyelpRd0E3Vg?oc=5",
-        "headline": "[IB토마토](사라진 BBB)②안 팔린 BBB채권, 결국 개인에게…위험 고지 '빈틈'",
-        "summary": "",
-        "source": "뉴스토마토",
-        "published": "08/20 06:20",
-        "published_ts": 1787174400.0,
-        "tag": null,
-        "first_seen": 1787193924.0053024
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04cVFONVBZamR2NXBlYm9QN3k3cndZd0FWcTlubzYxQWVkTjNack8xV3RaOWwtaVhiVjdpd2w0eXFsQ1NFVTNqLXZHWEV4Ym5NS0x2YU55M3daRTVxS2UzRWFJZHFuQQ?oc=5",
+        "headline": "Ex-Fed Chief Dudley Warns Stocks Are in Bubble Territory as Treasury Boosts Buybacks",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "08/21 08:28",
+        "published_ts": 1787268480.0,
+        "tag": "Strategist",
+        "first_seen": 1787269525.3604226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JckZRTzFtQjZONjdOT1AwRk5DaVhDSzZmTEd6NVhYTHFGQ3UxQUpMSTdPbDhwOU1VeXRxYy10OXgwQkcyemhzbkh4alJjUDdlaG5FU3Z2RHlhR1lo?oc=5",
         "headline": "[모닝 리포트] \"글로벌 채권, 美 바이백에도 금리 상승 우려 여전\"",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Bloomberg.com",
         "published": "08/20 22:05",
         "published_ts": 1787231154.0,
-        "tag": "Fed",
-        "first_seen": 1787232634.2066865
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPU1FNX1VSYi1NcjRhdXBianR1cW9kLU4zX3VOTzh0RjNqTEF5S1ZaRDhQdV9HVi1rdktYazBzaEM4dXVPdkx6QUJxbmxJNENlUkIxS2x5emc2NHRjREVLbFV5b29WcEEzWVQyNU1ENlEzRVdZR0VBeGl5R1BsT1NKbTNaWkhNZW1hQ1ctdGdrejBhbG12YkE?oc=5",
-        "headline": "Trump Criticizes Fed Board for Political Rate Decisions, Spares Chairman Warsh - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "08/20 21:53",
-        "published_ts": 1787230380.0,
         "tag": "Fed",
         "first_seen": 1787232634.2066865
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 08:30:59",
+  "updated_at": "2026-08-21 08:45:48",
   "yields": [
     {
       "label": "3년",
