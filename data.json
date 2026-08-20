@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2RfSmxEVW5nc2dWZk9qRFdVTE5NU0ZEYk9ZUVlDZUxKSUtOUGQ2eTUwRW8xdVlqSm5WejlxRnQ0WnltRzlfRFVoMzFUUU1wMTZkT2pWRlpCYlY3T0JaSHpBT2htUHhtS0phYjVwR3Q0US1aamtRWnpFcU5xTkJrV0xwTzFCeUhGQzAxVmNoYWUtaHgwMlp6Y0h4WnVpSms3LWRDOEg3eWtlS1BseEhrZlVtNUxYLW1ZZkHSAb8BQVVfeXFMTkYzeWZLNUhEcmF5NGhqQW1lQ2dfTE1mbkxoc2hXQWFpN1I0YVVUdGVLM2dVSWYybU1mcU5TaXJYNkNOTXBhcjhaZzlKUGd5OUxoMm5meXliQVVBSTN4RGRCNXB1WHdpdkNabEpuajRPMVlaTURSNHhsYUhfSk9uc0U0MU5KRmVyeW1nZGxjVnpwcFJLVF96UC1xNU04MmpHN1NVeHk1QzdmbjZHTHh2NFE0Q3Z4ZVJTcEdxRHdwTUU?oc=5",
+        "headline": "Democrats press Warsh to release reported conversations with Trump",
+        "summary": "",
+        "source": "The Hill",
+        "published": "08/21 00:55",
+        "published_ts": 1787241300.0,
+        "tag": "Fed",
+        "first_seen": 1787241639.2997835
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEhON014SjhsZ2c4aWwxa1R3azJxNXJKak5Rbi1VTE9iQnBibGJNRnZwRzV2RnZleUlIR3QxbU9MTFc2TWE5d2ZCMHVBUWV6UnFUT1ZxMS11cG1fRHJ3RW93VlNBQWJmZEtTS2o0VkFpUkRsd0V3MWtIWHJiMmZCQlc5eE1ONk1UZEowSDd4bEo1dw?oc=5",
+        "headline": "USD/JPY(USDJPY) 종목이 8월20일에 0.52% 상승한 이유는 무엇인가요?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "08/21 00:45",
+        "published_ts": 1787240754.0,
+        "tag": "JGB",
+        "first_seen": 1787241639.2997835
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5IT0twbVQ4MXh1YWpGUHloMnZuNFRYdzQ2N3hma3VhM2hJOHNjZDg0N2I1TDVSbFJCRFNleFlDTDcyellhaVRIVVhUZHhlYm9Ud3RCSTdZSzQyOHhpaXpORkZQVmY?oc=5",
         "headline": "8월 20일 모닝뉴스 헤드라인",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787211335.0,
         "tag": "JGB",
         "first_seen": 1787219127.4168763
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Cb1VfLUJwcGhiRGEyMEdxZnV4WlVwR0VKZVZKVHktdlpvZWkwdU5PUW40NTFrWTF6cDFEdlZLTzlsSFI4WDJyaEhmSlNkRHFyaXJiMHRpdGtSODJkbHQtMGdJUDlGZm54WURZOGp1UkRGdw?oc=5",
-        "headline": "[도쿄증시-마감] 韓 증시 동조해 닛케이 3거래일 만에 상승",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/20 16:04",
-        "published_ts": 1787209475.0,
-        "tag": "JGB",
-        "first_seen": 1787211038.9867215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQlo2R0MxSWNhWEpjdnNWajhZOTdUVjB0UUhoZzExY2FRT0k5SHZRNXZXTmNPeEJIVGhWeG4tWlNsd0k1dkVKV3dhd1BEMm1faGlYOXZ6SnIyZi02bnFVa3FjSi02QmRhVjBhSmlQM0pnLWU1d3ktTlFHNG9yZGJFSnR1MzFjRUE5UXVQYWd3bC02dzR0aVZNb1JmWEtTekNVRU9PZy1fMmFwdjFwbDlUNWVDZjRKWi1kclNTdWpEbVdpN1lVbFZvWVA0YVMyTU5HQm01QmFvQVpzTEpFNFdKNTZ2SzM?oc=5",
-        "headline": "Paul Krugman Says Rising Interest Rates On Government Bonds Not A Debt Crisis: 'Don't Panic'",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/20 15:56",
-        "published_ts": 1787208960.0,
-        "tag": "Global",
-        "first_seen": 1787236232.3240216
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 00:52:02",
+  "updated_at": "2026-08-21 01:01:04",
   "yields": [
     {
       "label": "3년",
