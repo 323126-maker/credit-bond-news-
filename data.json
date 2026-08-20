@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TQlYtWEF4LW5yVnJtcWJTLV9MR1VQRXhxcll1TkdyS1Fyb3ZPQjlYUHUxZURTeThQMHlnM2d1SElmVmpCcW9RY3ZFV1FuVDJkaHhzVEJpRE42eUdmYy1VMmUydmJmSTQ2RDBnT05DVDI1aFJx?oc=5",
+        "headline": "[채권마감] 초장기물 강세에 커브플랫, 미국 바이백 vs 한은 백투백 우려",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/20 17:08",
+        "published_ts": 1787213280.0,
+        "tag": null,
+        "first_seen": 1787213725.6005602
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlZ5cUZBSk5wM2dZRG5NU0l1aExRdmFuVEZpT1V2TlJ4N2lOdWVGazBIY1F0ay1KaEJOUTFFaFF6dFlvcVJlSjlIVkpWWkFCVWpBdHpKeEpmNHJBTzRCYjBMazdidW5XNjdLc3hCamdrN19yQkc4aTZ0TWx0OVJfMzlRQTV5MmxQdUtyS0g0Yw?oc=5",
         "headline": "이랜드월드, 올해 세 번째 회사채…NH 대신 교보 선택했다 : 네이버 블로그",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787129196.0,
         "tag": null,
         "first_seen": 1787135273.4513507
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53MjJKaW9QQVVWaW13dDdHSW9odENUTjdrZnBDUEhXNTd5Q3E3eFBDNjlkeGMtdy02QXVNaFNsaDI2OUFZdVdmd1hsLWFhcHJVd2Y1czRfZjZpN2N0aVRfSW9uU0NaalNJaWs0bmdNb0LSAXRBVV95cUxQTHBqdkZvYmxOSGhMUDJXVXdmbkM4VU1INmlyR0FILVE2bXBhMDFVZ3dzdzVEMnlMbXRkZU93Q2VxRUhQLTgzRmVTb3JrVXp1Z081TVpQNTh2S3duWWV4eXc4bGwxUk5ZVU95WnNWOWJqdElMdg?oc=5",
-        "headline": "달러-원, 1,397.70원에 서울장 마감…11개월만 1,300원대 종가",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "08/19 17:31",
-        "published_ts": 1787128273.0,
-        "tag": null,
-        "first_seen": 1787138124.5813453
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 17:00:58",
+  "updated_at": "2026-08-20 17:15:47",
   "yields": [
     {
       "label": "3년",
