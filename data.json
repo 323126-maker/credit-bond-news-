@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORlZ5cUZBSk5wM2dZRG5NU0l1aExRdmFuVEZpT1V2TlJ4N2lOdWVGazBIY1F0ay1KaEJOUTFFaFF6dFlvcVJlSjlIVkpWWkFCVWpBdHpKeEpmNHJBTzRCYjBMazdidW5XNjdLc3hCamdrN19yQkc4aTZ0TWx0OVJfMzlRQTV5MmxQdUtyS0g0Yw?oc=5",
+        "headline": "이랜드월드, 올해 세 번째 회사채…NH 대신 교보 선택했다 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "08/20 16:38",
+        "published_ts": 1787211500.0,
+        "tag": null,
+        "first_seen": 1787211927.3681865
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE81RWUzQWhZVThUYmFMUVJmcmNFYjNVVDB1MHFCd2dVS2RXT1BmUVBuUFRzc0pObnBUMmt5SFZKUkF0WEowcW90UWhoZkczZHZpLTJrRVNqNFIzblNX?oc=5",
         "headline": "금투협, 신탁 실무 교육 개설…PB·자산관리 역량 키운다",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1787127161.0,
         "tag": null,
         "first_seen": 1787127325.6617332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nZDJDZkJfNGlmOUJBYThzRWhOZGhJSGxlY0Q4NkRPaU1DVmNaNE5hX2xJSVZfZFVycmxkNEFTcWRmUUZIdGN2UUtXdVd6djFjUGc?oc=5",
-        "headline": "롯데건설 회사채 수요예측서 3배 몰려…'BBB' 이랜드월드 20억 미매각(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/19 17:10",
-        "published_ts": 1787127045.0,
-        "tag": null,
-        "first_seen": 1787130038.5327327
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9wdUx4UnJRUXNNV2o3UFlpMTlIOTB2M0NNUlVsWUM2TVcwdC1YVVFQZVptUUpGQjFEM3dFZ1VlTWIzNVNQNGlGSnIwQzI0Q041RHF1Tm80QTN6eTlFWkEyN25Kd3k?oc=5",
+        "headline": "KB금융지주, 2700억 신종자본증권 발행…10월 상환·자본비율 대응",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "08/20 16:40",
+        "published_ts": 1787211647.0,
+        "tag": null,
+        "first_seen": 1787211927.3681865
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlZGhqcTNNTlhDcW51RzgwUUdtUWkwVUc5Zm5FSFFaVHhoekg5a2RlWHFrNVVzNzV3XzFWdGtRMUJJUmhyRmR1cGlsdDBtemd1VFhvTlV5Ml9wUXdGOUNzM2hrNlJEaGFyNVhqbVBCNWgyYWvSAXdBVV95cUxOdlg2SnY0RUJvLU9Mdm9LYnVHQ2pGa00xekRyMk9DR1hvSHd4M0FBcUpWcXpmb0IzYVNURVc4SHQtOWdvSTFIYVZEamRCanVoaHp5ZUFicGNITVMxMWhkaTg1YXpudTVjbUI0R2RnQVJvQnBuZWZoVQ?oc=5",
         "headline": "'홈플러스 부담' 메리츠캐피탈 건전성 후퇴···연체 늘고 충당금 줄었다",
@@ -792,16 +802,6 @@
         "published_ts": 1786976055.0,
         "tag": null,
         "first_seen": 1786990523.885639
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TMnhGb2xWX3Y5azRGVExQN0ZrMGxUOVhlWDRySWc5TVhxa0ZDT0Q1UWp4OUJvaTA2MEcxNWRIdUV4OUoxOE9JblNYZVUzdFZPcVMtRnFGUEczRVRIdGUzczRTQUFHbnFZVVpTdUkwZDduTzFmdU1ycXczQUR6ODQ?oc=5",
-        "headline": "벌컨 인프라스트럭처 & 파워, 2분기 매출 340만 달러…전년비 950만 달러 감소",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/17 23:13",
-        "published_ts": 1786975986.0,
-        "tag": null,
-        "first_seen": 1786984230.7478797
       }
     ],
     "policy": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 16:31:05",
+  "updated_at": "2026-08-20 16:45:54",
   "yields": [
     {
       "label": "3년",
-      "value": 3.798,
-      "chg_bp": -4.9,
+      "value": 3.811,
+      "chg_bp": 1.3,
       "series": [
-        3.913,
         3.917,
         3.959,
         3.865,
@@ -2439,15 +2438,15 @@
         3.781,
         3.796,
         3.847,
-        3.798
+        3.798,
+        3.811
       ]
     },
     {
       "label": "5년",
-      "value": 4.068,
-      "chg_bp": -4.2,
+      "value": 4.066,
+      "chg_bp": -0.2,
       "series": [
-        4.172,
         4.164,
         4.214,
         4.117,
@@ -2466,15 +2465,15 @@
         4.016,
         4.047,
         4.11,
-        4.068
+        4.068,
+        4.066
       ]
     },
     {
       "label": "10년",
-      "value": 4.337,
-      "chg_bp": -4.5,
+      "value": 4.323,
+      "chg_bp": -1.4,
       "series": [
-        4.394,
         4.392,
         4.447,
         4.333,
@@ -2493,15 +2492,15 @@
         4.298,
         4.313,
         4.382,
-        4.337
+        4.337,
+        4.323
       ]
     },
     {
       "label": "20년",
-      "value": 4.63,
-      "chg_bp": -3.1,
+      "value": 4.601,
+      "chg_bp": -2.9,
       "series": [
-        4.617,
         4.616,
         4.642,
         4.561,
@@ -2520,15 +2519,15 @@
         4.619,
         4.558,
         4.661,
-        4.63
+        4.63,
+        4.601
       ]
     },
     {
       "label": "30년",
-      "value": 4.721,
-      "chg_bp": -3.0,
+      "value": 4.675,
+      "chg_bp": -4.6,
       "series": [
-        4.635,
         4.628,
         4.643,
         4.567,
@@ -2547,7 +2546,8 @@
         4.68,
         4.669,
         4.751,
-        4.721
+        4.721,
+        4.675
       ]
     }
   ]
