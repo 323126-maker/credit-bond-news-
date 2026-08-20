@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOU9VMDhFaFpmSC1BUy0tX19meVFBMDItWEd5N1dnV1dJUjdlbFotTkRsZ0VDSHVpTE5LYVVCcGNPVkxFaWtvN1BxUWRFTTJFdW9NZkhneVJJYVBVUmtma1I2c3FJMmpGdDdoRjNiTXJZVV9zR1hpUm5Qa3JDYk9vZnFtWWlraVVZNjZhYzNIcjk?oc=5",
+        "headline": "Treasury Expands Buyback Program, Clouding T-Bill Forecasts",
+        "summary": "",
+        "source": "Briefs Finance",
+        "published": "08/20 11:09",
+        "published_ts": 1787191753.0,
+        "tag": "Strategist",
+        "first_seen": 1787193029.9925234
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTWFRYndNMFd1ZjB4U0hKaXBjLUhmeHhZT1JzTzBGT092d2QzZFRmalM3Z3lkaUF0bjNLODZhNjV1bHdLNnpGc2JRcmZmXzhWWWx4N3dXcVlEM0U5aHNVbUlVWnFIREppNDg3cGhEeGRDLV9xVzdBUXUtdlI4X1Y4a0pLMk5fTFNjRmdCQ0pNRWdPb0VnTlQ3M0NTY1pWSjdyV3pKRHp6azVtNzUzdDRFekxB?oc=5",
+        "headline": "Democratic Lawmakers Urge Fed’s Warsh to Disclose Trump Calls",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/20 10:12",
+        "published_ts": 1787188320.0,
+        "tag": "Fed",
+        "first_seen": 1787193029.9925234
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WcE1LUUZCWWNSUDQ4QXlHN21Gc2NLRGxMZmJNOGhlTUxtNl9YTFFNV2YtRWR0eFVGM1h5TFZnWnM0N1NCZHBOYkpn?oc=5",
         "headline": "\"백악관 통화 공개하라\" 美 상원 민주당 워시 의장 압박 : 국제",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1787165696.0,
         "tag": "Fed",
         "first_seen": 1787166930.346402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQN0RGZmNnZGIyNnN1MzhFOEIteHlmSVNxQUo1UW5SOTU1eXFVOGRHNktnRllxc1FuOUZsblZHT1hla2RFaTF2NTgyVm5fQkh4SHVEeTk0NVlhaWxTSTAyOEdvWVY0R1Nwa3paMDJlMWxlZ1RHbHpLcDIzc1pCMjd5MlVyOA?oc=5",
-        "headline": "'Many' Fed officials think higher rates will be needed if inflation stays high",
-        "summary": "",
-        "source": "Newsday",
-        "published": "08/20 03:39",
-        "published_ts": 1787164799.0,
-        "tag": "Fed",
-        "first_seen": 1787165124.6675177
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZDlkeFFLXzFJX3VNYWcwSDFzUWJWSDFKekYtc1g3YjZuOWFQQ01jU0l0MVNGd2hnMmFOVkpsOTh6YWlQYnRkWFBhc1RYNVpqUDBNVnhCYkRBTjNtb0pSR04yenYtNlY4Wm9wQ0pfZnJJN0d2Ti1VN0J5dHhwZW53TDZXN09fbGFFMnZoN29xdW9aaTdCMDBJV0lodw?oc=5",
-        "headline": "Treasury Doubles Bond Buybacks Amid 19-Year Yield High",
-        "summary": "",
-        "source": "Hoodline",
-        "published": "08/20 03:31",
-        "published_ts": 1787164310.0,
-        "tag": "Strategist",
-        "first_seen": 1787171434.4612024
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEWU12Tkx4Y0p4aU00aVlzeXRKdkhHeXRQdjZpVE1qSkNLM2VXMHg2cFZVaDg0SUpNUkU1RHJ4WGNKeGowVzlZNXRDellQOE04aW5DSlZFeElrUQ?oc=5",
+        "headline": "4대은행 금융사고 '빨간불'…우리은행 2800억 웃돌아 가장 심각",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/20 11:15",
+        "published_ts": 1787192115.0,
+        "tag": "우리지주",
+        "first_seen": 1787193029.9925234
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vYlVsQWVfaDktN1BHeXZoN2F5RmlqMkFnQVg0VktNOURsYmd5LW02RUkydDlSelNfVHJGb1pXQTN6TEZSVXhfUHpkOGd1RWdsNVViLVlCQ2t2MU9hUTBnMdIBeEFVX3lxTE5uOExZSkJVNTR3eE9SOXp3X1M5b210cjA5MHhwTHRhdEJuQkxiYlc4NmZjMHA2U0RtRERPN3ppcEhUcThOd01Xb1hYc25VYUw0LWFKaDBwWEkyeWFqcV9IcnBRS0FLZy1LUWZxYjkxTW5qckZUQ3ZRMA?oc=5",
         "headline": "4대 시중은행, 10년간 금융사고 280여건…사고금액 5500억 달해",
@@ -2400,20 +2410,10 @@
         "published_ts": 1786921291.0,
         "tag": "우리지주",
         "first_seen": 1786943299.8598146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16d2tEdDI4aGFwRU5wWElJRDE3ZEt1NlhaR3ZEY1Q0OVVfNGpYVGJLMjVHcDNHc0pfdGg4UHduZU1pTExKbnpnMjVMUHVJekhpZUlPOEtQd0d4elnSAWBBVV95cUxNUHFQN0VxVlVSY0prVGJrb0g4S19ZUjZnaFJ4T3FvZTlXZ1YxTkNwVVpna2Q4cWlCMGNZTFI2WjlibHZqVVZ5b0hZR1FtMGFCckprazgxZ2doQWl1YVdVNWg?oc=5",
-        "headline": "회사채 조달 비용 오르자…기업들, 메자닌으로 눈 돌리나",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "08/17 06:15",
-        "published_ts": 1786914901.0,
-        "tag": "한국항공우주",
-        "first_seen": 1786915830.8897116
       }
     ]
   },
-  "updated_at": "2026-08-20 11:15:53",
+  "updated_at": "2026-08-20 11:30:51",
   "yields": [
     {
       "label": "3년",
