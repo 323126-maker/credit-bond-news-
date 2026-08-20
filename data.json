@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOdXE3X25ZamdZQzE0YTNrc1lXdHo5SWkyTy14Q3B2UVh0b1E2QjdZUE50SGNVYTV2aG9ITGlJWDhzV1d2SVJ0dHdoaWZRQUN4WnJVOEY0TnlhX3M0TV9BWURReElLY1p0VmMxTTY5OVJQOUJzQVJIWmg3ZXd5NXdOUWIwYWQ5MTRUdG9yTElUZHlmNEhzQWdESy1HcDhMX053VWtYOEJnRHpweE9va0ZUYURCZW9oVXR2R2JaaWZxUjJ1OFFUUGU1UnRBWFlLN05TUDJfcHlmeHNwb1ox?oc=5",
+        "headline": "Asian shares gain, with South Korea's Kospi up 6%, after the US Treasury expands its debt buybacks",
+        "summary": "",
+        "source": "WKMG",
+        "published": "08/20 14:13",
+        "published_ts": 1787202813.0,
+        "tag": "JGB",
+        "first_seen": 1787203818.3164992
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11NUJ5NXYzai0tSWxjMFpGdnAwYjNMaDk1QXdBXzJjQ2J6b0Fqa25xcUVGMlFxck1tWDR6bzl4NjBUdVRXREVNR1A4Zzh2OTJ1ZGhxMUFxUEU0RmFKOV9Ud9IBeEFVX3lxTE1IZ1piOElrYmZNZ01CV3YweVM3LVVEelpUZHNabVFGNnMwOFhMWGRFMXVLRjEzcElhcGVYT3hZWTExTnNPLUVDejdJRGVCMTB3Z1RsS0ZZSHV1d2kyZ3FNcG9VQ1JYY2NrNlBkcUdoeUZOM0UzZ0t3RA?oc=5",
+        "headline": "글로벌 국채금리 치솟는데 中은 하락…분산투자처로 주목",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/20 14:12",
+        "published_ts": 1787202724.0,
+        "tag": "JGB",
+        "first_seen": 1787203818.3164992
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
         "headline": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787170592.0,
         "tag": "Fed",
         "first_seen": 1787193109.9285693
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGNacDVjY3FnUXVmVjc4aV9oc3NsU1VWa19yazE1X3JOeVk3cl9EdE4wZlVtRHB1bnV3Y3liM0dYdmNoTjJxQ3hhSEU3a2dnYld2MkJqTEhtVlJfWC1Ea1NKa09taDRrbGNmM0JLSFRHNjN0Y1R0alZMWUM5MlBSVzlobEZsajcybWxRMnVBNXNZeHM?oc=5",
-        "headline": "‘Drop in the bucket’: Why Wall Street will shrug off Bessent’s bond market plans",
-        "summary": "",
-        "source": "Politico",
-        "published": "08/20 05:08",
-        "published_ts": 1787170080.0,
-        "tag": "JGB",
-        "first_seen": 1787198917.6542256
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3TtIBbEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3Tg?oc=5",
-        "headline": "‘코스피 언제 오르나’ 이번엔 글로벌 장기채 역습… 증시·실물경제 압박 우려",
-        "summary": "",
-        "source": "국민일보",
-        "published": "08/20 05:03",
-        "published_ts": 1787169780.0,
-        "tag": "JGB",
-        "first_seen": 1787175923.7808578
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 14:15:49",
+  "updated_at": "2026-08-20 14:30:42",
   "yields": [
     {
       "label": "3년",
