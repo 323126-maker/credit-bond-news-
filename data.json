@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSdnMyTlp1bG9kdHlTU1pJY3Bid1ZrMmttdllWckxEYnN0MDhuYUlmdHM4WklkX2ZXSXAtRi12YW1WN19NdktMQ01xRERHemxXYmpGYUhyT3NWR1lUM0c3UklWaDMtNHZUXzJoNHpzZHluS1dKLW81NkdZc1E?oc=5",
+        "headline": "채권 시장, 재정 압박 경고.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/20 11:12",
+        "published_ts": 1787191947.0,
+        "tag": null,
+        "first_seen": 1787192128.6206791
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80NjdOaU1oSEVLcy11Uzc2WWljS3YxTENjV1pQT2FtWm1OaFRYRUFiRElDMld5OUliSUhYWUN1RTlFanRxV2RXMDZQS2dSUkxpUU0ySlBEeWQ0cU1IV0pJU3VQMnIzcE01d0w5Y0lDd9IBc0FVX3lxTE1FeDhrUzlqVEY4S0txcVZCbjJMZEkwdUdXS2lBY3dVSTNTUlQ4U3h4aGZRVmdoRVNvT0EwT0xqSU9jTFRpOWEtbVlwbGJ3Uk1IbnFSWThrLVI2VDNjWUdLYjZZcE1GZG8wQXBzb3VXTGlpWTQ?oc=5",
+        "headline": "30년물 4.75% 찍었는데…채권시장 “내년 예산 820조만 넘지 마라”",
+        "summary": "",
+        "source": "newsquest.co.kr",
+        "published": "08/20 11:05",
+        "published_ts": 1787191518.0,
+        "tag": null,
+        "first_seen": 1787192128.6206791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iTU9GVVA5dHYzbk5lcXVySm1qTHZCVFExT3hzUUJEUHpqM0lNcUxwNHJzZVRfWnV6UXpOYmJGSURXYWp4ZFBtajFZUUxTOVRIQXFxTl9yaFpadVBFa3djXw?oc=5",
         "headline": "\"메모리 호황 2028년까지\"…S&P, SK하이닉스 신용등급 'A-'로 상향",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787105707.0,
         "tag": null,
         "first_seen": 1787106629.9180105
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0tRzNxdzUwNjd6WGM2SEE4WENQVENCMmdYSEVFd3M1QjBSNVVRbXc5dURzZVJLX0NmWnBFOGV0TS1JdUlvUk5KVC1SYWZqVDA?oc=5",
-        "headline": "“美국채, AI회사채와 자금 쟁탈전”…빅테크 ‘빚투’에 장기금리 비상",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/19 11:07",
-        "published_ts": 1787105262.0,
-        "tag": null,
-        "first_seen": 1787105723.5607827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yUWN6a2tyYVpVbEUxb3RwOHNqSHZ4X2M3ZXF5R2lFTmlRUEFiNlJvSUZ2bTlaRmR2WGtvb2c0VnA4N0YwTnN3Z0NCUGxVQW43TzQ5ZXVQRm0xZS1J?oc=5",
-        "headline": "[AI회사채 쇼크] 다음 발작 버튼은…美 10년물 금리 5% 넘을까",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "08/19 10:50",
-        "published_ts": 1787104200.0,
-        "tag": null,
-        "first_seen": 1787126174.7419827
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 11:01:00",
+  "updated_at": "2026-08-20 11:15:53",
   "yields": [
     {
       "label": "3년",
