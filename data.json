@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lNaXRIOXU3YTJnYVFpdTRGcEk1bkdlTVU5blUwOVgzZXdfaTB1TnJ0cWhXa0J5Z2Fob3NYLVdVcEx4RnZmdUpwdlgyX05oV21HYlFPMFhWc25HM1l0ZUh2UHluWnBzdl82TmdGZHNnbmI1TXVzenFMdF9SZGFuX1hmZ29SaExqbUhmOTlPQUZGcXpzbTVKSXZ3NVM?oc=5",
+        "headline": "Does the Government Want Higher Borrowing Costs, Or Lower? Top Financial Officials Are Sending Mixed Signals",
+        "summary": "",
+        "source": "Investopedia",
+        "published": "08/21 07:03",
+        "published_ts": 1787263403.0,
+        "tag": "Fed",
+        "first_seen": 1787265032.3550344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSXlIZlE5cGVMWl9DX0NOTVEzbEliOS14S1lwY3IwQkt2VE10X2VhQ0pYOG56QXdyclFWaHlkbS15d2x4aS1QNkMyTkRSZl9YbV84TmRMMG50OW9laVpKdVktc1h2Tmk3dEJhOXNwTGd2a3JUbnUwenJyQmhBR180allaWVdISHk0enhwNkRoNVVhOU1DUlloTUJDeV94N1RhcFR5aUE0a1FoUm8xNXRsYllVRVNYWnp3QkZrYWVR?oc=5",
         "headline": "Is The AI Dip A Buy? Key S&P 500 Levels And The One Bond Market Line To Watch",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/20 21:13",
         "published_ts": 1787228008.0,
         "tag": "Global",
-        "first_seen": 1787228126.4241033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQMW50ZnUwSWtURkF4Z0M1ekdZaW95bTZqOGk2NUlTR0FtbW83SGdqcHFmZE8wSHNUdkxPTmRDdzlnOFlLVVpkbFo3djZ0OUVoeEI5UkE4a2IwY0h0eFRReDNfMXZEREQxbzlWOF9vb1dFemlCMDNROFdCTzJwalNQUFljTnhNbmJBZUx3Rm5nN1NVQUxUMTdIazNKVml4SkY4WFI3aUpFSVY4OUNjM1Q1N3JmZFFOdUU?oc=5",
-        "headline": "Fed officials say rate hike necessary if inflation doesn’t cool, minutes show",
-        "summary": "",
-        "source": "Baltimore Sun",
-        "published": "08/20 21:11",
-        "published_ts": 1787227875.0,
-        "tag": "Fed",
         "first_seen": 1787228126.4241033
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 07:27:03",
+  "updated_at": "2026-08-21 07:31:11",
   "yields": [
     {
       "label": "3년",
