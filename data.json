@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90S21kSGsxOHc1QmhuaGtVamtaUDRaUkJYQTVMZjRNelVseXBxdnBTN0hYZFdWVHl4cFBsQmRuY2ZETDNOV0owSWZoMmJ5eVp1ZzViNE1fdVFNOG83dHdrMTBJTjZIckwwcXNqVWFRWkpnZw?oc=5",
+        "headline": "BIS의 경고…\"정부부채 확대, 위험 프리미엄 높여 기대 인플레 상승\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/20 09:13",
+        "published_ts": 1787184784.0,
+        "tag": null,
+        "first_seen": 1787186725.5667245
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2WnhpN2NPU1gxaEhteWlOTEdnOWtOVGRKX0duZl9aMDJTVUtfV0VwdmpHQVNVZHJxVllGUzF3ZkYyeFJkVFRJZlJ6Qms2eDR4RzRDbkdQOFBIUzc0RGVfanJLSGd5N0IydWhTNWVSS3oyUQ?oc=5",
         "headline": "\"美 경기침체 임박 경고…기업 파산·채권 수익률곡선 '빨간불'\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787102336.0,
         "tag": null,
         "first_seen": 1787103031.0318334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KMnVKS0ZiS195NzU5b1lEV1JIYm83YmJKNGpFVEZ4NzZPRWdUTm9xcGNFbGszQWZrbnVLSm10Tzc0RTJaWGFiM1lDanhobnVkcFp0UExNdUFQTXo3bmN6d0JvMDFVc0U1VHc?oc=5",
-        "headline": "글로벌 장기채 금리 급등...AI 회사채 발행도 상승 부추겨",
-        "summary": "",
-        "source": "금융소비자뉴스",
-        "published": "08/19 10:07",
-        "published_ts": 1787101620.0,
-        "tag": null,
-        "first_seen": 1787102125.7634754
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9WcE1LUUZCWWNSUDQ4QXlHN21Gc2NLRGxMZmJNOGhlTUxtNl9YTFFNV2YtRWR0eFVGM1h5TFZnWnM0N1NCZHBOYkpn?oc=5",
+        "headline": "\"백악관 통화 공개하라\" 美 상원 민주당 워시 의장 압박 : 국제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "08/20 09:29",
+        "published_ts": 1787185740.0,
+        "tag": "Fed",
+        "first_seen": 1787186725.5667245
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM1BWTU9jU0FtWG5lT1FpY1o0SThZVVBBUnphc3BRdllRUW1UNld3V19wRjVmTFl0TGdTOEM0RHNYb3VfV25DNTVWMVdZcmdiMGhaUmxjZTNGVVN0bmpSMUJabEJDNHlzUVo5YjA4RFMzMHJpWWRuZ1Z1NGxfLXprNQ?oc=5",
         "headline": "Rising Treasury Yields Trigger Chip Stocks Selloff: Market Analysis 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787163318.0,
         "tag": "Fed",
         "first_seen": 1787166930.346402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbGJtNHhWeW5zNEk5ZERYN1hFQnI3Vmp3UG9OUENacjBuNndmOHlkZkJ3MHdPMnRRc1RGMUhhZ0xUcTZDV0lYbGVrVU9RTEl0MUFEVTRqVTJvU0U5bXV1emt0dDhCOWtuSDVKSV8xUXVQNGl4OGRhS25NcFR5VUpwOWhvYkNOQQ?oc=5",
-        "headline": "More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/20 03:08",
-        "published_ts": 1787162907.0,
-        "tag": "Fed",
-        "first_seen": 1787163327.0706334
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 09:30:56",
+  "updated_at": "2026-08-20 09:45:52",
   "yields": [
     {
       "label": "3년",
