@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBOU0ppeVl5azdaRF80d3YyXzNQc1FJNExyUHhwREdNY3pxVFFZSF95RDBhTEc4d0h1Mmp3cWF5aTB1ZS1Ba2xjVzMzNmk2SlRIRUptZVJiT2R0UmEtc29xQVNWU1JrVVBYWGdMYmVabDY4QkY2ZFdKVUZrMUs?oc=5",
+        "headline": "[DCM] 교보생명, K-ICS 강화 위해 신종자본증권 3000억 발행",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "08/20 21:34",
+        "published_ts": 1787229285.0,
+        "tag": null,
+        "first_seen": 1787229927.6847346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MRHkyeU5mMHVfYjR6RnV1bVJNN2xCUHZxYkl2czVpS0I0WHRGZ3E2TWV3dmJORW1lMHlQakxjR1VtR2QtTTVnR2NiWjZzczB2OVllRi12UUFOVGlzaDNDMTV4Sk92UmMydldEVnA4elk0YVk?oc=5",
         "headline": "SGC에너지, 연 6.60%에 500억 규모 신종자본증권 발행... 자본 확충 나선다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1786976115.0,
         "tag": null,
         "first_seen": 1786985980.1016366
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9OWkJoQndrMnFZV2VodlUtT2J4UU8yYVZpS1E3Q0tDUDFJU0pGLXg3X1gtZU53NkhpMWxyWnprVGtPSEE2TEh6eDNuQVNLM085SVdYaUpndS1rVU96S0Fxcmg2TG1TVFdwcVg4SmxyVmJLa2VsMDQ5ZHNsOXFoM28?oc=5",
-        "headline": "카바나, 16억 6000만 달러 규모 신규 담보대출 계약 체결…2030년 만기 고금리 채권 조기 상환 목적",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/17 23:14",
-        "published_ts": 1786976069.0,
-        "tag": null,
-        "first_seen": 1786986039.3009953
       }
     ],
     "policy": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1787227138.4703863
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41TFk3RnM3Z0tUazZZVnZtNV8zaVpVYzBSYWYyTU10R2x5ZUtVS1d0eHJ2S0RLVy1XUEEwSEVSZ0c2T2I4SFhPeUFaeGJGYVZJQjVCOWdXbGNielVSX2RyMHMwNmdUUXlJZXZSS29kMDhuRE5sZ3lZ?oc=5",
+        "headline": "Your Default Bond Fund Pays 4%. So Does BSV, Without the 30-Year Risk You Never Agreed To",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "08/20 20:30",
+        "published_ts": 1787225407.0,
+        "tag": "Global",
+        "first_seen": 1787229927.6847346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZWpyTjlXQzR3R3dLdk1CLTBiaUlaTF9Ib3BKcmNubVhPS2lOMUJtcFVjSFhWalJZanFITUlqZmhQQmF2dEcxQVNGRWdGNDVWNG5EY05pTjFzSUQwV2dJRTNYOEdjbkZCa2dJaFloV3E2ZlVncUN4dkVMZU9kNEctUVJfcEp4VkZXWjBobV9zdw?oc=5",
         "headline": "Treasury buyback and yield surge impact markets, Mohamed A. El-Erian notes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787192700.0,
         "tag": "JGB",
         "first_seen": 1787194837.4644783
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPOU9VMDhFaFpmSC1BUy0tX19meVFBMDItWEd5N1dnV1dJUjdlbFotTkRsZ0VDSHVpTE5LYVVCcGNPVkxFaWtvN1BxUWRFTTJFdW9NZkhneVJJYVBVUmtma1I2c3FJMmpGdDdoRjNiTXJZVV9zR1hpUm5Qa3JDYk9vZnFtWWlraVVZNjZhYzNIcjk?oc=5",
-        "headline": "Treasury Expands Buyback Program, Clouding T-Bill Forecasts",
-        "summary": "",
-        "source": "Briefs Finance",
-        "published": "08/20 11:09",
-        "published_ts": 1787191753.0,
-        "tag": "Strategist",
-        "first_seen": 1787193029.9925234
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 21:31:03",
+  "updated_at": "2026-08-20 21:45:50",
   "yields": [
     {
       "label": "3년",
