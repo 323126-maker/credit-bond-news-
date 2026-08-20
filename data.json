@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHRUVvcDBFd2F6UUpVaTliZHZ0Q1dCSzlybTNMTlVfYzdjb2lqcmRKR2VWU29JdnZjRFcySm44NFBLSVV3TVEySlZiWUJMNVJOcnd2Y1pkQ1lXamRzV081UEhPU0JLTnJvQ3pibC1OMXo?oc=5",
+        "headline": "Provident Financial Services, 1.75억 달러 후순위채 발행 가격 결정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/21 05:49",
+        "published_ts": 1787258940.0,
+        "tag": null,
+        "first_seen": 1787259637.0336227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjWk9oTHJkUHQyTzB3SkJzMVBuYnBQYmVDb1FRZHp0YTBfd0F6YnhDVkdNSjlCeGtuMm41djFnRzFfUWFpNFlqbGx1NVZFUlhEeUsyS3AxWkZ1elNjcUlrc0FhUDVTM0xyNWtiZDRLNmRIdFE?oc=5",
         "headline": "비콘 파이낸셜, 1억 7500만 달러 규모 후순위채 발행 완료",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1787000505.0,
         "tag": null,
         "first_seen": 1787011311.5271492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5xdTJOektkNXFzRWdkNzBiWTM5VHlnYVNTYnV3b1JWV3IxcFpreWNjS2dual81S1pMQUdvd3BuUFV1czZBQy1pc3FIVmkydFNWTGljRWhDVWNjb3dQX3k2SUgyMWVOT2xzUDhXYzZ6NnQ?oc=5",
-        "headline": "노스웨스트 뱅크셰어스, 9월 15일 후순위채 상환 예정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/18 05:17",
-        "published_ts": 1786997820.0,
-        "tag": null,
-        "first_seen": 1786998364.2763743
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNExUX05vcVRoMGFiSkhtemgyTmhlSVpPd25ldTV2d0NXQWpvTzJLdTJSOUFnTjBPN2JKVU1oWXA2STYzNHBlVVdoa1V3a25ka1NVbkdSQXo5N2VhQU1DSFIwbjEtM0ZIN1ZPd2tNMDJPR1NTcWpNaWxUSzhsRmw0VHRtenJtc2N6bU9aREw1bnp0d1lMdkU5Y29xSHhZb3paQjRfeGRER1drWEc5aXc?oc=5",
+        "headline": "Fed officials tread carefully after Treasury's bond market intervention",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/21 05:20",
+        "published_ts": 1787257211.0,
+        "tag": "Fed",
+        "first_seen": 1787259637.0336227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9pY2w5MFV6QUF4S1VlRUk1SW9rcW5HSV9uU19iWkQ3Qk9ta2xxbzRobmVRYnZld1hiMVJneVNpZ3FtRXZVbVlUM0pxc3VBeXNPVW93alNieDVSUUh4ZVRwUG9qT2QxR0xYOHo4UXZtM0Fwa0RGS0ZnNjBLYmtQbTQ?oc=5",
         "headline": "Kalshi Fed Odds: Trump's Own Pick Might Hike On Him",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787224815.0,
         "tag": "Strategist",
         "first_seen": 1787227138.4703863
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTWJOZDJ1a1JETlBYdHh4SjRFUnEtWk0ybDlucDY0dGZCaEQ1RklhRGVWT2M4WFRLYW81UlBpdXlvVnJNdlFNelV5RDdfNGZZWU9ZWjEwZGVtV0lmaERUSnZ6YnhUNkVwLWh5M05lQzU0OV9pSUJ3M0F0UHdCZGUwQ25UZmpmcl9fQV8yY1AyU1JDVE1MRElfYjlDX0taMjN6dURN?oc=5",
-        "headline": "World shares are mixed after US Treasury expands debt buybacks, while Brent crude gains 2.2%",
-        "summary": "",
-        "source": "Norwalk Hour",
-        "published": "08/20 20:11",
-        "published_ts": 1787224265.0,
-        "tag": "JGB",
-        "first_seen": 1787226325.7950442
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 05:50:33",
+  "updated_at": "2026-08-21 06:01:03",
   "yields": [
     {
       "label": "3년",
