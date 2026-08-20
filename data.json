@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CcGVrNC1uaVB0RFNDS204elV5dmJjVjFIWmtzZ1hKRDhzQUx5WExQMkd2UlVYYloyMFBfNlVWY3NQanIyVGc1UHlPeGEycndWT01zRjJGRXA3Q1VwWXgyTU5SNzctRlNoclkwVldHa2c?oc=5",
+        "headline": "[현장에서] 공정위 전원회의 대비하는 채권시장",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/20 11:15",
+        "published_ts": 1787192147.0,
+        "tag": null,
+        "first_seen": 1787193109.9285693
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSdnMyTlp1bG9kdHlTU1pJY3Bid1ZrMmttdllWckxEYnN0MDhuYUlmdHM4WklkX2ZXSXAtRi12YW1WN19NdktMQ01xRERHemxXYmpGYUhyT3NWR1lUM0c3UklWaDMtNHZUXzJoNHpzZHluS1dKLW81NkdZc1E?oc=5",
         "headline": "채권 시장, 재정 압박 경고.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787105809.0,
         "tag": null,
         "first_seen": 1787177722.3367577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1halJDN0w5TFlSZE1IT1N2ZVBfelN3U2tLNElsbGhDNkh6eHk4N3hKN2EwOWQ1aWVObFVQazViTl9laGZDSVBEQkU5MDNnbXVqcTJuZzFVUWRBaU5OTmFBbFh2MHNJWkhZLTl1MHpJOHd3Zw?oc=5",
-        "headline": "주가 급락·외국인 선물 매매에 변동성…국고 3년 1.0bp↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/19 11:15",
-        "published_ts": 1787105707.0,
-        "tag": null,
-        "first_seen": 1787106629.9180105
       }
     ],
     "perpetual": [
@@ -1900,6 +1900,16 @@
         "first_seen": 1787183123.2769923
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
+        "headline": "Fed officials warned rate hikes may be needed if inflation stays high",
+        "summary": "",
+        "source": "axios.com",
+        "published": "08/20 05:16",
+        "published_ts": 1787170592.0,
+        "tag": "Fed",
+        "first_seen": 1787193109.9285693
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3TtIBbEFVX3lxTE9ad1NoU2RzNXl6ZUVMaXB3aE0wd3VkTnFMOWJyRFRPVHYtT2pMb3d5di1kcEZ0YXlUeUFxX1l3QVJ2RzZSaGkwU1h6ekNybTYwMzRheldfWk1MSEszVU16dmxaRXNlUk1temx3Tg?oc=5",
         "headline": "‘코스피 언제 오르나’ 이번엔 글로벌 장기채 역습… 증시·실물경제 압박 우려",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "kitco.com",
         "published": "08/20 03:54",
         "published_ts": 1787165697.0,
-        "tag": "Fed",
-        "first_seen": 1787166930.346402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTUJId0hQWm5fRUJZenpMRjRKSld6bUZMOXBYa1U5OVFkYUdmX09xMXR1ZTdZQmpqbWtmUnJmaEtQRDR4ODBxdnBBeGFfNWVLak5WTlZxWEZ3bjJKQmFQbEEycVUzMFBhRU9FLXJFM21hVC03RW5JRVlhNFdzUkZnV3drNGw1ei1aUEYtR0pNY3dvcWthaG1GSW11ZWxDbmEtcTMyMW5MazhOWk5XdV9NZTRvNXp3TTdLSVlST0NqTUl1M3pRX210OQ?oc=5",
-        "headline": "Opinion: Bond yields rise best when Fed chair Kevin Warsh says nothing at all",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "08/20 03:54",
-        "published_ts": 1787165696.0,
         "tag": "Fed",
         "first_seen": 1787166930.346402
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 11:30:51",
+  "updated_at": "2026-08-20 11:32:14",
   "yields": [
     {
       "label": "3년",
