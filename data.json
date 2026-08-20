@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JckZRTzFtQjZONjdOT1AwRk5DaVhDSzZmTEd6NVhYTHFGQ3UxQUpMSTdPbDhwOU1VeXRxYy10OXgwQkcyemhzbkh4alJjUDdlaG5FU3Z2RHlhR1lo?oc=5",
+        "headline": "[모닝 리포트] \"글로벌 채권, 美 바이백에도 금리 상승 우려 여전\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/21 08:26",
+        "published_ts": 1787268360.0,
+        "tag": "JGB",
+        "first_seen": 1787268483.7858067
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3poMmI5cGVHZlFVeHVCbDRJLWh0cnBEb05GbWZMQzl1dld1OW0yZ1I5V21IVU5yb2F2MXp3eEdGZFdmdlBkcFRfWUdSWGg3ZzdlV012c09FT1l4TGNvWTMydWgwRUJtWTdHNThTQndaaE9vV3BTX1NYTy1IMS1yWGlwVGlsT1RFakpDcmJibEE1aTFaM3d5Y2lnTUN4LUFTcjJB?oc=5",
+        "headline": "Fed Chair Kevin Warsh Pledges Price Stability as Treasury Doubles Debt Buybacks",
+        "summary": "",
+        "source": "CoinGape",
+        "published": "08/21 08:00",
+        "published_ts": 1787266814.0,
+        "tag": "Fed",
+        "first_seen": 1787268483.7858067
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU1lNaXRIOXU3YTJnYVFpdTRGcEk1bkdlTVU5blUwOVgzZXdfaTB1TnJ0cWhXa0J5Z2Fob3NYLVdVcEx4RnZmdUpwdlgyX05oV21HYlFPMFhWc25HM1l0ZUh2UHluWnBzdl82TmdGZHNnbmI1TXVzenFMdF9SZGFuX1hmZ29SaExqbUhmOTlPQUZGcXpzbTVKSXZ3NVM?oc=5",
         "headline": "Does the Government Want Higher Borrowing Costs, Or Lower? Top Financial Officials Are Sending Mixed Signals",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787230380.0,
         "tag": "Fed",
         "first_seen": 1787232634.2066865
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYndXMkpaZGdFSGFKVDJKTkVBN3RVNlFtZGFDeEF0YlQ0Sm9YSkwtSUh2Vk9Cay0zcnota1p0cmlNSTZvamp1czhjd1BoYmNUZUZ1Yzlndy1FOEdxTE5NeHQ1MmZUZTlvYWNYSG54bUFYcWswTnpRYUItQzcwRzVuSmdLNW1YbmNEYnFpMjRKUWhfVkdibjFZWVNVcTZ5SUg4czRjay01U01iYzZ3U1RnREdSV2xqSm13UEk4bzFGRXlERC1KTUY2XzJwUThKUDY4bnJtSlp2a3dnTXgxVS1mcm84U2ViODh0YS03MmdmWmpkYVhrRU1qRVQtWTBybkxwcGFpWkxtZUpPSWRRMWpj?oc=5",
-        "headline": "Policy whack-a-mole",
-        "summary": "",
-        "source": "UBS",
-        "published": "08/20 21:34",
-        "published_ts": 1787229242.0,
-        "tag": "Fed",
-        "first_seen": 1787245449.5799851
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd1VNRVF2S1d2NWNHLTcxNlpTZ0pyOXpZeGwwbEtjM0pGaG9wSERxeHFaanRwLU51Y21nRjBwMUFtZFdXZ3FydWQ0MDBYc3VzTG10UEt6VHlHUWRxb0RxZFlOZkI3cGZYS2lSSXN6eWg4VWVkTWVmTWJSVHBEOWVGbw?oc=5",
-        "headline": "30-Year Treasury Yield Hits 19-Year High: What It Means for Investors in 2026",
-        "summary": "",
-        "source": "Intellectia AI",
-        "published": "08/20 21:13",
-        "published_ts": 1787228008.0,
-        "tag": "Global",
-        "first_seen": 1787228126.4241033
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 08:15:49",
+  "updated_at": "2026-08-21 08:28:28",
   "yields": [
     {
       "label": "3년",
