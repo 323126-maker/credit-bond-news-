@@ -1640,6 +1640,16 @@
         "first_seen": 1787203818.3164992
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvQ3hQUjFXbVZkOVg3Y182OU1CWVdWRkVjMzRPUlczYzJOczhsbWFXQXpxeDJGREx5bkx3clkwdHgyRldtVG1rOFkxazg5Sno2LTFJU09LZWZhNGdVR0pfMA?oc=5",
+        "headline": "'초엔저'에 '금리쇼크' 겹쳤다…'엔 캐리 청산' 우려 확대",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "08/20 14:04",
+        "published_ts": 1787202242.0,
+        "tag": "JGB",
+        "first_seen": 1787205625.7747633
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeUNFNVY4V1prRFU5SG40RlZMSHNaWkI2dDBMeGNxWVpEcExuU2FsRU03cDBkWWJvLThHWXhmZy1tWW15VnNnRDVYTlJwODIyb21PczdaZzVUc25WRmQzb0drazZaM2xTcEYtYmF0LWtUdjJyNl9ueHB6bjBuUHJPN2NTUE5NaURMNVV6bTk2MzZCb1RwR0lEN0ZOYkMwM0tFZG5CZ1F2RHdhWmVQamJNUm1Nb1VKeUFJTHZkckY1WG4?oc=5",
         "headline": "Treasury's upsized buybacks may complicate Fed's monetary policy work",
         "summary": "",
@@ -1748,6 +1758,16 @@
         "published_ts": 1787182293.0,
         "tag": "Global",
         "first_seen": 1787183123.2769923
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQWEt5Q3dhWUdERVp6Q3JZQ05KQk5qUTcwZi1WZVMteFVTX09YQVZrZ0FPN0pyRU9qZnpJbElqNEE4Vm05ZmcyZ3ZEdl9YcUpEb2prb1F1cVdLM1daTkMxNjNCV3ZXQlE?oc=5",
+        "headline": "Fed officials warned rate hikes may be needed if inflation stays high",
+        "summary": "",
+        "source": "Axios",
+        "published": "08/20 08:19",
+        "published_ts": 1787181570.0,
+        "tag": "Fed",
+        "first_seen": 1787205625.7747633
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE94NWtnVTFYOGRxSDdodmNaNjBqVEdObFFuVTJfdGVuRFMwUG92RXBOT2E5TTdLVG9UWm5CR2pZOTNNRjgyR2pQZVVNSU5WSnd5U1h3NldjTy1sTG5wQlJtLVg4VHNWTDI1R2NOcS13MGt2UdIBd0FVX3lxTE9sXzNSYjA0Sk0xOVVyVWRja2FsMnZIVmVYSHo1UVBxX2lGQ3BzSXFpazJPbFgzUzgySHJ1UzdhYklkTjdvNEpxd3hBZkdYaVdrdW8xQzNmTG8wS2p0YWlTOEJmY0ZJMWd0NjlBR2JEdEpLckJkTmZz?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787171100.0,
         "tag": "Fed",
         "first_seen": 1787191234.944048
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMWhNT1FpMWZFTWlTYkhvdzdycVFBMEptUkJGR0VZWGVfbVV0VHdrT0M2ZE04cm11eTY4dldkYnpqdVVHa0RPNGJyZzBmZnV6U1BiQnBQOXRHSy1RdHQ0VFpWVkwybFZpcDZBQ2Mtb0t6UWVCQnU3d0JIWnltWE1Va1o4WWZnejlGaFk5aFBzUUY0UkhyX1J0NXhjVFh1eHY0bnA2eUJlQ0VNemkwSFJka2swNzVYZw?oc=5",
-        "headline": "Fed Faces Pressure for Higher Interest Rates and Fewer Meetings",
-        "summary": "",
-        "source": "investopedia.com",
-        "published": "08/20 05:24",
-        "published_ts": 1787171077.0,
-        "tag": "Fed",
-        "first_seen": 1787172324.1306849
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcmJ5Y0xWdk1iUFZtVFNyWFVrQjBMbndSVTJfSll6NVBGOTRhNUNoaHhWcGM0Z281RVFxTjFqSWtYeFJPanluTVRaT3gyNHZHWHlTbm9mRlVyaWp3V2pzblNIdldDTGs3WWJpWURrWEhueHptMXdCOEN6Q1BvV1hueUhZMTI?oc=5",
-        "headline": "US government debt hits $40tn as borrowing rises at historic rate",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "08/20 05:18",
-        "published_ts": 1787170735.0,
-        "tag": "JGB",
-        "first_seen": 1787183123.2769923
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 14:45:53",
+  "updated_at": "2026-08-20 15:00:48",
   "yields": [
     {
       "label": "3년",
