@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbDBaRy1zT01YNGxvakZBRFFjWEgwM3VHdFUxaTFsLUxacEVaRXAwWHdGamZiWTNuNW1uV1U4bXJYc3lUaTZOaDI1NFhlZkdSOFpYU0d3dDdldWNzVzZoWktyckpKVDFteFBjZTNZQQ?oc=5",
+        "headline": "SK하이닉스 신용등급, S&P서 처음으로 'A' 등급대 진입",
+        "summary": "",
+        "source": "피플투데이",
+        "published": "08/20 12:41",
+        "published_ts": 1787197275.0,
+        "tag": null,
+        "first_seen": 1787197527.5932384
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WdG9nQnVjRkNlNlBRTjJVMjdrakRQMDJjckNxSmtWM0ZQS3BvbWdCUUFrNFNUaGZDazdwQ2oxOTlvWnFYdVpHZTdEdE5SemlsaUVEVVR5NjBJdGl2YlA5atIBeEFVX3lxTE1McU9nTlprYnV2c1JuQjA5LW9Ccl9BdDNYb3NlYmRTRnNxZEktUUtGS1JVWnpsQnNmQ3NUMERYa0ZtR21ySHF0TE04VFB5Q1hnVklwSnNSY0hMRUk4cjF2ZzI0TmJKMkI0Qnh3UHpzTUUyVXJpWThWcA?oc=5",
+        "headline": "트럼프 \"美채권시장 우려 안해도 돼…금리 내려야\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/20 12:11",
+        "published_ts": 1787195499.0,
+        "tag": null,
+        "first_seen": 1787197527.5932384
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CcGVrNC1uaVB0RFNDS204elV5dmJjVjFIWmtzZ1hKRDhzQUx5WExQMkd2UlVYYloyMFBfNlVWY3NQanIyVGc1UHlPeGEycndWT01zRjJGRXA3Q1VwWXgyTU5SNzctRlNoclkwVldHa2c?oc=5",
         "headline": "[현장에서] 공정위 전원회의 대비하는 채권시장",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787115250.0,
         "tag": null,
         "first_seen": 1787115639.6294596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1rUzZEMDlXQno1QVJPWXhHZloydkp5SnpiUVJIRjVzLWpjS3JBc09nbV8xVjJjMFJPV1VNaEhWY0xJQWJVeGVsNndKTERReXhCVVRnTXJrU1BoWmZZelViY2xfWHcyZ3YwcmNpWnc5RDZtQQ?oc=5",
-        "headline": "美 증시 경계론 확산…\"채권이 위기 먼저 안다\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/19 13:37",
-        "published_ts": 1787114263.0,
-        "tag": null,
-        "first_seen": 1787115639.6294596
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4V3gwNF8zZm4zc2xsR1BkUmRQYWxHMVNyLXp1QzNZOU9VeW5QNzhsMm91RnJCcjR3VUpTb3o4TXktVHczUUhxRnduYjNtSUloTG1ZXw?oc=5",
-        "headline": "국채도 회사채도 쏟아진다⋯글로벌 채권시장 공급 쇼크",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/19 13:21",
-        "published_ts": 1787113260.0,
-        "tag": null,
-        "first_seen": 1787114724.2600944
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 12:30:54",
+  "updated_at": "2026-08-20 12:45:51",
   "yields": [
     {
       "label": "3년",
