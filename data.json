@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ENVB6RERCWnFfeDhTdFdrTEJoNGRhM1Z3YjJBLTZWaWJmM2R1VGZOS2JPVFBJenl4TjJTZnExbHlMZUI2dWVtSUJKWks5OW9ZR0VsdUdQRWtRSW02NjhNVQ?oc=5",
+        "headline": "블루아울 \"사모신용 여전히 매력적…넷리스·데이터센터 주목\"",
+        "summary": "",
+        "source": "news.nate.com",
+        "published": "08/20 13:22",
+        "published_ts": 1787199720.0,
+        "tag": null,
+        "first_seen": 1787200231.4684322
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1BbDBaRy1zT01YNGxvakZBRFFjWEgwM3VHdFUxaTFsLUxacEVaRXAwWHdGamZiWTNuNW1uV1U4bXJYc3lUaTZOaDI1NFhlZkdSOFpYU0d3dDdldWNzVzZoWktyckpKVDFteFBjZTNZQQ?oc=5",
         "headline": "SK하이닉스 신용등급, S&P서 처음으로 'A' 등급대 진입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787117200.0,
         "tag": null,
         "first_seen": 1787142631.0360432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwOXJGdGJWZkl5aWowMEtxcHZNQzQ2OXBnOTNNbk8zd2QtVXdfR054SlF2S0FjN3FBTVl5MklFMzVvakk5bHBxT3VDQ0pSajVyTURuSzNNWEtvVnpCaUFKU1hjLXhmZ9IBZkFVX3lxTFBwOXJGdGJWZkl5aWowMEtxcHZNQzQ2OXBnOTNNbk8zd2QtVXdfR054SlF2S0FjN3FBTVl5MklFMzVvakk5bHBxT3VDQ0pSajVyTURuSzNNWEtvVnpCaUFKU1hjLXhmZw?oc=5",
-        "headline": "하이닉스 빠진 크레딧, 가격 메리트가 공백 메웠다",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/19 14:12",
-        "published_ts": 1787116354.0,
-        "tag": null,
-        "first_seen": 1787173239.557126
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-20 13:15:50",
+  "updated_at": "2026-08-20 13:31:02",
   "yields": [
     {
       "label": "3년",
