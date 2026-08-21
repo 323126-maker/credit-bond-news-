@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80dTlSRFc3UEVhR3RpRzFQZ3FRSnZtUHM1TWc2ckE3ME1RUDZ6Wlh1RWFnYnVVdVBzXzhaMXQtbHJHYlN4ZTYzMkJDOU03U0gtOG1ERkpveVJENFdYTzJOY0tWYzgwZUgt?oc=5",
+        "headline": "Global Bond Selloff Pushes US 30 Year Yields to Highest Level Since 2007",
+        "summary": "",
+        "source": "Межа. Новини України.",
+        "published": "08/21 23:17",
+        "published_ts": 1787321836.0,
+        "tag": "Global",
+        "first_seen": 1787322634.0355136
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FOTFvaG9QbkQ0cGpGbDd5ZFlVMlpfSnBYSVhFS2lRV2FlWWxib0tmclNuY3FmQ0ZSQnhJZm9VMk1DR0dhU1NfaXRFUGZ6WXl3THc2RDkxSnE4ZzJuaDg5OXc2M3BTS1RV?oc=5",
         "headline": "Global Equity Funds Attract $22 Billion as Rising Risks Trigger Market Selloff",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787279398.0,
         "tag": "JGB",
         "first_seen": 1787286037.885064
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE9fM0J3ZngzTXFuUkxqSjVHTjJEQjFEbU00Y0FtbmhzNUM0RzExOGNSS1dpemNlMUFPZlFobVhDY3EtYXYzQUNHWUJoTWdZcEVIVjFOSmh6VnRLT3VzaFBKQ2p4MWI2LVNITlVINHVveHNydmFwUDZtYVZ5V1Z0QklHRHpMM0hLYm56VFdZalh5M3J1VXFoZUE1ZzhzMzh2?oc=5",
-        "headline": "Japan 10Y Yield Tracks US Treasury Yields Higher",
-        "summary": "",
-        "source": "TradingView",
-        "published": "08/21 11:26",
-        "published_ts": 1787279160.0,
-        "tag": "JGB",
-        "first_seen": 1787283274.7303743
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 23:15:51",
+  "updated_at": "2026-08-21 23:31:09",
   "yields": [
     {
       "label": "3년",
