@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kREVKMVJSdjcxMTNuTkdMMlZGZFZGSm5xZ0dIR2RQcVpTSlR6Y3kyZDFETVlsRnJUaFNWQmtOQ3JPSEZ6QmwxR19La2Uzb0QxQW4tazcyeURaTUZjVnIzWFhHUklFN0UyU2ViUVh3QjhBQQ?oc=5",
+        "headline": "[뉴욕채권] 국채가 이틀째↓…바이백 후폭풍 속 약달러發 기대 인플레↑",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/22 05:06",
+        "published_ts": 1787342775.0,
+        "tag": null,
+        "first_seen": 1787345125.869801
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR09VcFhBNnNUanV5bHpGdTRxTzc4Uk1DTk04UWk1ZEVhbmF2UzFiZ016R2FpVVRJZWN6UDBwa3BuRmpWTUlJeURlSmxueXc1WHhxanBEd1hST1VYYXF5dFlaQjRtQXZHMzl5YWVGQ1FTdDROUXJ1dlVvYVllNmdIeGxB?oc=5",
         "headline": "[박정훈 칼럼] ‘어제의 이재명’과 싸우는 오늘의 추미애",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786854540.0,
         "tag": null,
         "first_seen": 1786859715.2501843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJM0dwRld5WE5ydjFhOUwtRjF4Q09RTEpjOGxUYVlKSjQwX3FDSTJzbFhnbmNiZ0REZlJRYlZENVRlRG5jV0dycVNBV0paN1BabU4zWlRRMlVhdkthdzBBMtIBYEFVX3lxTFBJM0dwRld5WE5ydjFhOUwtRjF4Q09RTEpjOGxUYVlKSjQwX3FDSTJzbFhnbmNiZ0REZlJRYlZENVRlRG5jV0dycVNBV0paN1BabU4zWlRRMlVhdkthdzBBMg?oc=5",
-        "headline": "교부금 개편 놓고 최교진-박홍근 '막판 대치'…발표 지연 가능성(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/15 20:57",
-        "published_ts": 1786795070.0,
-        "tag": null,
-        "first_seen": 1786799725.1039264
       }
     ],
     "global_bond": [
@@ -1618,6 +1618,16 @@
         "published_ts": 1787343060.0,
         "tag": "Fed",
         "first_seen": 1787343326.3169549
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOExTdU9zOVFrb0NfM1RsRlhGU2hkbWthRzAyd2hOcm5feWg5REk4SHBLbFdfd0ctSDhhYnlWUzBQWUdOc01CTUFjVk1ZbjQ?oc=5",
+        "headline": "고개든 금리 우려…美재무부 긴급조치 안 통하나",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/22 05:03",
+        "published_ts": 1787342603.0,
+        "tag": "JGB",
+        "first_seen": 1787345125.869801
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNExGWVhveXBFaV8xMVZXSnU5Q3RFb01ud0Z3REdPTVRsM0JOS290bzVHMy1MelhrZU03OTdmZzdCdWVidnAweC11SVdFXy1kTG1ITHlmSHQzenplMnI4WlRhWkhjV1JEekxuR2piRnBQYkp3Sm9tSHZJeDRaMXlYc1lTY1JoUQ?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787303835.0,
         "tag": "JGB",
         "first_seen": 1787311832.1878576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQeWYzT2NKX0RFcWJ5Rm8zNEZBWkx2OExLRGtGd1NxY0Zoa2s5d1pza2loZVZSXzctek9wMUdsZDVoWnVUY1B4MW9kdkY5NXpId1Z3YkpjbGM3MTRIamNFYjY5Qm9FX2ltUVpkaG5PcmllWGZZYlJjMGpOd21NYlZTUEtCZWdkVlh1NGl6MEhvUUhETVFsYlZ6bTQwamxBTF9oWEN3Z0pvdXl3Z1k2R0NKdkhkTVlMY2Zsd05Td2ZLc0wxYW55?oc=5",
-        "headline": "Bitcoin surges to $78,000 as Treasury move fuels Yyeld-curve control hopes",
-        "summary": "",
-        "source": "CoinDesk",
-        "published": "08/21 18:17",
-        "published_ts": 1787303835.0,
-        "tag": "JGB",
-        "first_seen": 1787306442.4591548
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 05:30:55",
+  "updated_at": "2026-08-22 05:45:58",
   "yields": [
     {
       "label": "3년",
