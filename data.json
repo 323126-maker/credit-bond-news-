@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kTmFiOVJFS1ZJM2tZZFk4bU8wV1Y1UU0tdXE2ZGhxb0hTMU16Uk5iZWxRMjhQV1JUX3NvMFZhbFdYcHhyWVg4Z2UzZGhRZzBFNXFsd0RnUmJnY1lBYUJwSzJEQWdlOG15?oc=5",
+        "headline": "경남 호우 피해 수협 긴급 금융지원 신청 방법은? 500억 규모 대출 및 상환유예 총정리",
+        "summary": "",
+        "source": "창업일보",
+        "published": "08/21 15:45",
+        "published_ts": 1787294757.0,
+        "tag": null,
+        "first_seen": 1787295637.2485068
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxWTNqM2RwcXoyXzVrdEU0c0RXc0lDVTJDakQySm1DNmpQUHJ6TjhHQlJOblZlWU5qaHJRT0pyWGd2eGV3Y3FaYmVsV2pXS2s3bHh2MU81QmU5TEcyS2ZxdNIBeEFVX3lxTE9HcWxUdTl1RVVKT3c5dUVESFFWeThJWG4wTHZ6bFBjeFFadnVTdjE4SnJmQzk5Z3RUQ0RnTUswWnZsa2ZSSmNtZ3hGZV95Z0ZKaUNNeTZ5TGNCYWNNZmhtTElFa3lXT0RKR0E1eXFVRktlbnMzdnJicw?oc=5",
         "headline": "PF 지원 늘리는 정부…증권사도 부동산금융 다시 기지개 켤까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787195285.0,
         "tag": null,
         "first_seen": 1787198917.6542256
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlF6MkJaNFNBZUt6QVEtbFBqaXNFZGdfLTcwRFlCeldwSVpqSkppcFRiZkFnSjI5WERaOWVudVlEUFoyQW5IVkpmajQ2MkphZ3dYNEpBcEJYZGZfZ1NiQ2hmT1pjWVJwTXZVVW5qSzc5bDVaMWhhSlQyVWVkalB6YWJxRUJYSXNCWUtkV2dxaW9jckZaMVJiRXdzbV9ib0ZqcElSUDd3?oc=5",
-        "headline": "2026 컨설턴트 자본시장 가정",
-        "summary": "",
-        "source": "Nasdaq",
-        "published": "08/20 12:00",
-        "published_ts": 1787194813.0,
-        "tag": null,
-        "first_seen": 1787212384.4478424
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40QmNZODRuY1A2aWFvMk5zQzFKSmRaS211ZDlVbTU5TDFFMlRKdmoxVk96UWxKdXdNR29nWHdqM1YzdTAxZzhTaEhDMVh4eWFRY2wyekJoUGRXVUo2ZmVMRGZLS3BHdV80UTFPd3I5aXpldw?oc=5",
+        "headline": "[도쿄증시-마감] 국채금리 반등·중동 불안 속 혼조",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/21 15:47",
+        "published_ts": 1787294831.0,
+        "tag": "JGB",
+        "first_seen": 1787295637.2485068
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5OUV83NzA1bkdQeHhtM19GYjJ1Vm9IdTR1elVIMk05cmlfOF9URHlvZHlQemI5bXhURERqVmRoM3N6SFhpYS1ITHF6QTRmSnZkeHZZ?oc=5",
         "headline": "日 물가 다시 뛴다…'나프타플레이션'에 9월 금리 인상 힘 실려",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787247757.0,
         "tag": "Strategist",
         "first_seen": 1787247928.8958054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acnJJYzZKVjEwOS1WWHdGN2hReTdxRU83aGdXNzh3eW44XzdvdEJYT3hOS0ZTWmhHV0dObDdhOGJtQWJVSXdpLThibE9HUjE1a1VZMW1ncDlNdFFFTDB3SzJibDFlOXNMdkE?oc=5",
-        "headline": "Fed and Treasury appear at odds when it comes to the markets",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/21 02:40",
-        "published_ts": 1787247608.0,
-        "tag": "Fed",
-        "first_seen": 1787284836.891391
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 15:45:54",
+  "updated_at": "2026-08-21 16:01:01",
   "yields": [
     {
       "label": "3년",
