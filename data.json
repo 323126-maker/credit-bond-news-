@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTFJad01QQlhDRkwzZnlyQ2YtVVhuSFZYVHg1SEhIcEpsa1p1M0N0TEo0UzEwUWRRdlVITVI4WFk5a1VMb01TUnZncWwtWXlsOWE2X1pjeVM5bDBRMThrdFcwUlBQSzVDMWRrT240Z2s?oc=5",
+        "headline": "[장기 금리 쇼크]③빅테크 회사채 발행 늘어난다...기술주 부담 더 커지나",
+        "summary": "",
+        "source": "오피니언뉴스",
+        "published": "08/21 14:02",
+        "published_ts": 1787288550.0,
+        "tag": null,
+        "first_seen": 1787289335.1292589
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE11WklOMXFLZkJHWGJCUGxrMnRJZHNTbjRTUEhoN1YxeXd6QlpONVlxeHhDVU1qTzlvT1Y2WGduRnV2LTlCZUlxWFpvOUNOV1MtMmZUUDk5WlE5Zw?oc=5",
         "headline": "AI 투자비 급증에 빚내는 빅테크…이젠 글로벌 회사채시장까지 흔든다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787188140.0,
         "tag": null,
         "first_seen": 1787189431.5530174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcDQ3VVFQcnpSa3QtdmFrdEhoLTRFOUJ0R2lMOG9NZ2toZl9URE9jemNnQUU3amRRMkw3ZmZJRDRLZDJ6eFRyUW1hZEFlNWhsUGxuWFRRTDBtRmdnMEpPSFREMXZaQjZEYTVZ?oc=5",
-        "headline": "블루아울, 하반기 전망서 \"사모시장 견조한 구조적 성장세 지속\"",
-        "summary": "",
-        "source": "파이낸셜신문",
-        "published": "08/20 10:02",
-        "published_ts": 1787187720.0,
-        "tag": null,
-        "first_seen": 1787188299.1341708
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 14:05:05",
+  "updated_at": "2026-08-21 14:16:01",
   "yields": [
     {
       "label": "3년",
