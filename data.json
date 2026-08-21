@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jMWF3SU5HRG9yRHJPVUVUQjFpeXVqcDRBNk90NFFOZUhaQUg3R3JGNXhTWGczeGFnUVZ3TVZPQzlrRzZuZkY5TERVTVZUZEpCQmZZS0VtdlBfQzRRYXVCU0NB?oc=5",
+        "headline": "李 대통령, 취임 후 첫 '반부패정책협의회' 주재",
+        "summary": "",
+        "source": "전자신문",
+        "published": "08/21 13:48",
+        "published_ts": 1787287716.0,
+        "tag": null,
+        "first_seen": 1787288439.4255304
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5sdGhrUWF0cE1GanhhbkM3OHc1cUNXQ2ZKZ1V0WHBhSlJwZWpZc2Y4SzNiRlZ3bmlDdW1mSWd1Y2E0bTJYTDNadVhHeGw4ZGJ1QzRicmFka1loZDVqeXRSZFZqT3dMS0NHNzF3QlBMONIBc0FVX3lxTE5ucldWRWljUHl1VmVwNmNUVTE3U19OZ05ZTlFTMlpxVzlxbWpoaVVraWFPbEdEVGNRR05EeWszV1JETVlIZGpWT2x4TkFDX0RoZEZNMGJOaTBRZEd0bFBxOG9ZcVlkTVhKVnBhTVlGazNCVzg?oc=5",
         "headline": "李대통령 지지율 최저치서 반등해 45%…긍정·부정 동률 [한국갤럽]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786674537.0,
         "tag": null,
         "first_seen": 1786675526.7613056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DenZ6UXVYcUF6NW83dkU1V0ltc25KWHRTTEpPcG51WWtWQWF1TEZpd2NmLWlyYkVxUzFId0x2Wmx1cUUtc0hISTZiUEVXQkVYMkNyV1VHWFgwOGkxczFyYg?oc=5",
-        "headline": "제3차 재정정책자문회의, 발언하는 조용범 차관",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/14 10:29",
-        "published_ts": 1786670940.0,
-        "tag": null,
-        "first_seen": 1786743923.2252953
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 13:45:49",
+  "updated_at": "2026-08-21 14:01:02",
   "yields": [
     {
       "label": "3년",
