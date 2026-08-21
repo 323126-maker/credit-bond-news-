@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvcFh1cWd6MXk3MlRMQ0lDc3NXSk5LZHFXaXozUTJzVFNmR0lHckZaYXA5RFh6Ni1mcTI5amM1ejV2R214c21vclFpRHdNZjJKb3VaWUo2MDdXcTJZdWJDRFNSZmdtdnE1YkdDQWlTVTDSAXRBVV95cUxQUUowSVh1UXhXRTdwN1Y5ejZReUtVX2lBMkg5SDJqMEJibkhQbmxHa0dhRlgzZURUSWo3cnA5YnhXNlF2TklGWHVxTUlOTVFmc0l4RkQ3R0RzbFgyN25qa3pKSmExWTNqSm5WcVZudy0xWnIxeA?oc=5",
+        "headline": "한은 8월 연속 금리 인상론 급부상…증권가 7곳 중 5곳 “25bp 인상”",
+        "summary": "",
+        "source": "산경투데이",
+        "published": "08/21 11:37",
+        "published_ts": 1787279847.0,
+        "tag": null,
+        "first_seen": 1787280325.8345406
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wdkd4RVpLYzVHVzZzX25ibXc0SnpReE9vSGFkdTZxWTVPT01lZE82OEJDYUl4UUZabERpVFdkcE9HczU0V3R0QktaMDdOYk1SQm5NRzlR?oc=5",
+        "headline": "30조 추경·특활비, 국민의힘 결산심사 겨냥",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/21 11:27",
+        "published_ts": 1787279258.0,
+        "tag": null,
+        "first_seen": 1787280325.8345406
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PN2xiMklsOXFIODFRc3RsdFpwLTJEc2h0V0JYMTdQZDJIVTg3MjAzanRENGdCTXZnUVR5OElPbHB3cDNST0Z0V25SZ1JyTVlPNnptc3VJWkJjN1NZeDk3WUFJb3o0QkVVWm9qZEhsc28?oc=5",
         "headline": "국힘 \"과도한 추경에 나랏빚 증가…결산 심사서 책임 추궁\"",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1787050326.0,
         "tag": null,
         "first_seen": 1787050834.434067
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90Z0FIWmFMTEJGNlhlZW9PM0NVbWRWVktWdnJqR1dEN09VcUlzQnpaTEx1VXhxWmljLUpzb20wY0lnMDNVUWxMZkVBWDNlbHg4M1lFdy0wQ0tZdw?oc=5",
-        "headline": "美 30년물 금리 5%대 쇼크… 기업 자금조달 비상",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "08/18 18:28",
-        "published_ts": 1787045293.0,
-        "tag": null,
-        "first_seen": 1787045871.078998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1BYWtMcXBacU5KYzMwM19aeVd3WkVZLVItSHBNV0RWblF4V2RsVU9oandfWmlfRjE2X19PYlA2QWVndnM0UGhOYWVNR290Q1ZDSF9F?oc=5",
-        "headline": "국고채 금리 일제히 상승…30년·50년물은 역대 최고치(종합)",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/18 17:50",
-        "published_ts": 1787043000.0,
-        "tag": null,
-        "first_seen": 1787043640.3377094
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 11:38:24",
+  "updated_at": "2026-08-21 11:45:48",
   "yields": [
     {
       "label": "3년",
