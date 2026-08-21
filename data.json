@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRGliLTZYLVYyNFcyZ1RqdUZtRzBXSGthV2hhRHpYc19KX3lHazVocDlJc1Z3RWtOcXBpX0lDNW0tYTE4dWhwYzh2eUtvajBidEZjaGZ4T3M4Ni1td3dEOA?oc=5",
+        "headline": "'나프타플레이션'이 물가 밀었다…日 9월 금리 인상 확률 70%",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/22 05:42",
+        "published_ts": 1787344920.0,
+        "tag": "JGB",
+        "first_seen": 1787345405.3127308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdVFLenZUaWlQN2RFLTd3b25TcEVHekI0UTBnb0lXVE15WDUzcWJ4RWpPSi1TdTl0XzZXSWliamp1dnVVVFJ2dTdpNHNuWUV5UWo4ZEd3eU5WeE0wWmxnMEFhb3VlQmdFU2Voakd1YWpxSlo4b0t3bEUtRVhNZXJoVy1SbWFzVXlHYXVtXzVmaGdIeENQNk8xeFN0QjZGbFVpaExvcEZBZjZmSFdnaDluQmpQSGhBcmc4LUNEVm1mVHlvem9lSWc?oc=5",
         "headline": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787304223.0,
         "tag": "Global",
         "first_seen": 1787304633.5786695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMnEwRlloWXRIU2pGeERSMFJKYVF6OUVkZTFHZDlmTFVFR3NGejk5RENnQW9vS1IzbFBOWDY3ZWRiT2M5ZU85REkyREJVR2NINU0zT1hnRlNnREFtVkczaHRDN0JPQlRLa3Q5QUtNakxYQnkzaThlUUpMcUhuSkp2NTFXNllMdDlOWVZWOUFjTzE0TlF6bTNta2NycW1fdGFoLUpYT0FlN3dJYklYTFkxVVVTelJsdER2RnlaWnVab0lyc2J1NE5wMA?oc=5",
-        "headline": "비트코인, 재무부 조치로 금리곡선 통제 기대감에 78,000달러까지 급등",
-        "summary": "",
-        "source": "CoinDesk",
-        "published": "08/21 18:17",
-        "published_ts": 1787303835.0,
-        "tag": "JGB",
-        "first_seen": 1787311832.1878576
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 05:45:58",
+  "updated_at": "2026-08-22 05:50:30",
   "yields": [
     {
       "label": "3년",
