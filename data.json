@@ -72,6 +72,16 @@
         "first_seen": 1787292926.7496548
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12UEhsbldBMW9lS3BmNG9XSFlCOURKY1dBZ2Y2S0lJTkZ2czZyUllKMWE1UjIxV1pGUlJzSmQ0bUdqYUxya2hFWWl3bDdLRTdXaFRQUXYtWkFZd0x4eXh0N3hTRFplZllhN0hpRks0VHdRUQ?oc=5",
+        "headline": "월가, AI 회사채에 러브콜…\"고금리 매력\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/21 14:07",
+        "published_ts": 1787288844.0,
+        "tag": null,
+        "first_seen": 1787300131.7882261
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTFJad01QQlhDRkwzZnlyQ2YtVVhuSFZYVHg1SEhIcEpsa1p1M0N0TEo0UzEwUWRRdlVITVI4WFk5a1VMb01TUnZncWwtWXlsOWE2X1pjeVM5bDBRMThrdFcwUlBQSzVDMWRrT240Z2s?oc=5",
         "headline": "[장기 금리 쇼크]③빅테크 회사채 발행 늘어난다...기술주 부담 더 커지나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787203800.0,
         "tag": null,
         "first_seen": 1787204727.1068625
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBqZFB2WEdOdnMxWVNMcDhmak03U0R1QTlLV3VkdnJ5R0RaeTBMZ1VNSFlqdXVlLTBkc182YUpvMTE3QklGS3c?oc=5",
-        "headline": "블루아울 “크레딧·실물자산 중심 사모 성장세 지속”",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/20 14:10",
-        "published_ts": 1787202630.0,
-        "tag": null,
-        "first_seen": 1787206529.0141735
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdUdKbUg0dTlqQUJmYlN2TVN6WnZ6cVpTVWIxVHVnWHJia0JkWFYtVHFJWTg2dDVYeURpclIzT1ZaTE9kRzdyUE9xOW00UExJY0tCbzNwc211cHdNeU1jdkJPcXphVkliWWFrZHp2RmkwN0Q0QW92a3Y2NHhJVlVIazhCTU1GMU9ieVNvTFlaWFJ0RGpMeEtrSlpCcXBIX2xjTE1VZl9MeTUxT1dpcjB6ZmVVLTJPc3I4Y0JDVXYwZ2w2eGllT20yblNVQ3ljZE01SHhLcUNpTHI1NFhja2JPcHVuSjlpM256U3c?oc=5",
+        "headline": "US Treasury bond buybacks spark fresh fears over dollar weakness",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "08/21 16:53",
+        "published_ts": 1787298837.0,
+        "tag": "Strategist",
+        "first_seen": 1787300131.7882261
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX0lPYzNQYzNFb2I1ZW91YXRCQWhCYWV2NGFkMWNtTV9KdUUtSWNOREVHOEJGY3R5THNITzY0d29lTTB3Tk5RQ1dGQ21nYk1oblczcGVua3RuemZLdm1BeXBETDEwN29rWEZGeG1VUy04ZUxGRDRWWEdKa1VLNS1nYzR1Y1VNSFVFcmJ3VQ?oc=5",
         "headline": "Six months of war",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787255890.0,
         "tag": "Global",
         "first_seen": 1787277644.658818
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZ3FxVnZxdmZPOTFlOFZnVGlYUDk3Y0kyRTZybmFWSGc1dWNEdGk3OUJ5Qk9EYUxmaGtjb2ZKVnl4VGctUFdILXNXNjI2R0FEeHc3V2VLa3RFeWxLVG03dnY0bmRQVUtmQkdIZ0RGS0VWRHNrRUhFZlB3cnJ3QWFhN2loN2c?oc=5",
-        "headline": "Treasury Bond Yields Rise, Stocks Slip as Investors Doubt Rescue Bid",
-        "summary": "",
-        "source": "Global Banking & Finance Review",
-        "published": "08/21 04:41",
-        "published_ts": 1787254875.0,
-        "tag": "Fed",
-        "first_seen": 1787276729.250839
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 17:00:50",
+  "updated_at": "2026-08-21 17:15:54",
   "yields": [
     {
       "label": "3년",
