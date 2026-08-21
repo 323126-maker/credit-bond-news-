@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR09VcFhBNnNUanV5bHpGdTRxTzc4Uk1DTk04UWk1ZEVhbmF2UzFiZ016R2FpVVRJZWN6UDBwa3BuRmpWTUlJeURlSmxueXc1WHhxanBEd1hST1VYYXF5dFlaQjRtQXZHMzl5YWVGQ1FTdDROUXJ1dlVvYVllNmdIeGxB?oc=5",
+        "headline": "[박정훈 칼럼] ‘어제의 이재명’과 싸우는 오늘의 추미애",
+        "summary": "",
+        "source": "조선일보",
+        "published": "08/21 23:55",
+        "published_ts": 1787324100.0,
+        "tag": null,
+        "first_seen": 1787324438.0611112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQjllRHhLcXJVSXhCckJubkN6Y0EtVHFMN3UzSmVGOFktNFA2TzE3WkNWN1N5czMwSzRmZTQtaGQ0YU1OeDlpWVdyYlFIM1RpUmxhTmhiTk5WSnRB?oc=5",
         "headline": "李대통령 \"반부패보다 헌정질서 파괴 심각…대책 논의해야\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786746068.0,
         "tag": null,
         "first_seen": 1786764631.6292403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE11SjhfT3lnc1VBVktabXBBRXpIeGVIVG9qaDJVSnVGZEE1VTN3Slp6TFhaZnpRUFVLYUR0RGJ4b3pEWVlJQTJZUTBmbElDb3VyYUVqWG9YQk95WG9ha01VQTN0SXRFYlVoTHV4T2JvVdIBc0FVX3lxTE9PVkRpYkNkVTRtenlrb3BuNG5OVnFUWWVDbFpuQWN0RXowQkxKUGFfR3lVd2JORk1fOEdYTzhPcWp0LVk0MGlmaHpBRmpTRjZQNEF1VmYxOEVxRS13LU1IRGhxOURRaVA1X0oyZXJBdzBmV00?oc=5",
-        "headline": "李대통령 “청년 세대 좌절에 대해 근본적으로 반성하고 점검”",
-        "summary": "",
-        "source": "시사저널",
-        "published": "08/14 17:53",
-        "published_ts": 1786697598.0,
-        "tag": null,
-        "first_seen": 1786698926.5893145
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 23:50:23",
+  "updated_at": "2026-08-22 00:01:03",
   "yields": [
     {
       "label": "3년",
