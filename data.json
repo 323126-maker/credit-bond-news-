@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNQVk5UlRsY05ZYWQ5czZ1Zldqa3VQck9HbUkxYzQ3cWtzYk1feUNWRWdfZEY2ZFBzcTJZdDRmYm14S3U4TTlVVjdYOUJxS1Jsb1hZaDZodVYyaHhTQS1jektQMkkwaG9ncVFlZ1FWRmVvdzJSNHh5dy1tRTFJbEZ4a3UyaF9nVDI0Q0FNZGx6a3ppQVBMWVZSM3JvZEk1UldmWFpDdG1Nb0sxVnpOSVZ1cFBrdzVSa0FhZnB2WExhU3NMcTc0SDRjZHZRWC1VVXk1YTc1andKODZTSUZhVDd4WU42ZlNzTDJaT0x3VWFQbjBfa0t4TzV2UWZHWW4wWUJMcmVIVHlpQnh6dw?oc=5",
+        "headline": "Jackson Hole Carries ‘Asymmetric Risk’ For Markets Unless Fed’s Warsh Offers More Clarity, Says TD Securities Strategist",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/22 02:55",
+        "published_ts": 1787334901.0,
+        "tag": "Fed",
+        "first_seen": 1787336102.9029438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DdFVzTXZMTzVSLS1RX01RdlJacHJTY0V2VWlkUHpvWUlyTHFrM2hONnJRX1JXWFlnUDhSYnoxU2N4Ul9lZDN0cWNSVjNpWFhGVlI0YQ?oc=5",
         "headline": "Ray Dalio Warns US Debt Crisis Could Hit Within 3 Years, Urges Shift From Bonds to Gold and Bitcoin",
         "summary": "",
@@ -1880,6 +1890,16 @@
         "first_seen": 1787304633.5786695
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sdjFlVXU0VEE5eGJqSEI5QnN4Zk9pREJsOGpHZmpGRWUxS0M5QVBtS0xBM0pqSkxla1drSkV2REc0bFRlT1ZuM012eE91dHdCVDk4Z2FQNEVrazdRektwNlpaWDhCbkh5TDAtclNkUDM?oc=5",
+        "headline": "[도쿄증시-마감] 국채금리 반등·중동 불안 속 혼조",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/21 17:47",
+        "published_ts": 1787302032.0,
+        "tag": "JGB",
+        "first_seen": 1787336102.9029438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acnJJYzZKVjEwOS1WWHdGN2hReTdxRU83aGdXNzh3eW44XzdvdEJYT3hOS0ZTWmhHV0dObDdhOGJtQWJVSXdpLThibE9HUjE1a1VZMW1ncDlNdFFFTDB3SzJibDFlOXNMdkE?oc=5",
         "headline": "Fed and Treasury appear at odds when it comes to the markets",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787298803.0,
         "tag": "Fed",
         "first_seen": 1787299225.8500178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtbjlYYm54SXc5T2pXYko3Q0J0OTN0UU9SRkswY1lIeFdHQzUteUx5ZDN4bmhTZEd3bUxHeXdPYi0zcDhKaURTRW5XTWprcGhwYzNTQzVseWQyQQ?oc=5",
-        "headline": "The Yen’s Last Stand",
-        "summary": "",
-        "source": "Vocal",
-        "published": "08/21 16:24",
-        "published_ts": 1787297092.0,
-        "tag": "JGB",
-        "first_seen": 1787303723.0328622
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsQVYtaERqOUVtSml5N000cUFUSmNOeVpUUnNFdGJhMEhpMXpFNmhxXzQtbFoyUldoaFlSS2p1UTdYZFNsZk5DOVlZU2Myb2JMOW90TUhBV1piWkxGdnBMUHZpUUFIZ1pEenlOZA?oc=5",
-        "headline": "일본 물가 상승…9월 BOJ 금리인상 불가피",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "08/21 16:24",
-        "published_ts": 1787297071.0,
-        "tag": "JGB",
-        "first_seen": 1787297433.1539946
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 03:01:06",
+  "updated_at": "2026-08-22 03:15:28",
   "yields": [
     {
       "label": "3년",
