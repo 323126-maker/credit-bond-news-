@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0xGM1RlWFBZNG1PbDRHWEVicWZic1dNQTQtTEY2TkVBS003WHhTd0NQb0hCUGdEcERINngyTDZMZ2tQZUUwUU8tRjQyLXhJbmdYNWxXb05OTEg5eTZYU3p0YU1aaHZTU1Q1M21uUUZHNFhGQkpZNDI0ZHNabXJSSGdXVGRWZnVwa1NGdVhvT3NQak5DanM5YWI5Ty1iNWp4NUcw?oc=5",
+        "headline": "HYDB: A Disciplined High-Yield Bond ETF That Leads On Returns",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/21 19:00",
+        "published_ts": 1787306400.0,
+        "tag": "Global",
+        "first_seen": 1787307325.1045313
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUZpNlNJUVl2Z21GdDdScWtXYS1mS3ZBSndjd01QamhYUDJ2YUd6NURwTnQ1YkNHMXVhQzJ1M25UMGRzZDlpVEk3U3BpTnQzUDNualpGUWNzVjEyckoyMVotMHpBY2c1R3RVT3ZqMTdwd0lpZGZ1OS1QWXBmc2NvRHJwZEp6ai1PbkZvUFdhcW5ycGtVaE13WkxRS1VFY3dNbFZZ?oc=5",
         "headline": "Goldman's top economist warns of market 'cacophony' due to an opaque Fed",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787267312.0,
         "tag": "JGB",
         "first_seen": 1787271324.6459947
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3poMmI5cGVHZlFVeHVCbDRJLWh0cnBEb05GbWZMQzl1dld1OW0yZ1I5V21IVU5yb2F2MXp3eEdGZFdmdlBkcFRfWUdSWGg3ZzdlV012c09FT1l4TGNvWTMydWgwRUJtWTdHNThTQndaaE9vV3BTX1NYTy1IMS1yWGlwVGlsT1RFakpDcmJibEE1aTFaM3d5Y2lnTUN4LUFTcjJB?oc=5",
-        "headline": "Fed Chair Kevin Warsh Pledges Price Stability as Treasury Doubles Debt Buybacks",
-        "summary": "",
-        "source": "CoinGape",
-        "published": "08/21 08:00",
-        "published_ts": 1787266814.0,
-        "tag": "Fed",
-        "first_seen": 1787268483.7858067
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 19:04:54",
+  "updated_at": "2026-08-21 19:15:57",
   "yields": [
     {
       "label": "3년",
