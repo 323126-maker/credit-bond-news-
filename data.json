@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1pMSklYd1FaZzJYLVMxNUQ1OVFzajh4N3M4TzE4dDJ2aUpTSHNkY1p5RVhVcE9pVUE3NHhROEhqRXc3bW1LUkFCc01pX0NnRjFyQUhtRU1LT1V2SlVIX1hsMWxLei1HMV9JZ3ZTaDYwck9faXFyYk5mNERaMUlmRg?oc=5",
+        "headline": "2개월 연속 물가상승…日, 내달 금리인상 급물살타나",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "08/21 09:42",
+        "published_ts": 1787272936.0,
+        "tag": "JGB",
+        "first_seen": 1787273126.3816001
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04cVFONVBZamR2NXBlYm9QN3k3cndZd0FWcTlubzYxQWVkTjNack8xV3RaOWwtaVhiVjdpd2w0eXFsQ1NFVTNqLXZHWEV4Ym5NS0x2YU55M3daRTVxS2UzRWFJZHFuQQ?oc=5",
         "headline": "Ex-Fed Chief Dudley Warns Stocks Are in Bubble Territory as Treasury Boosts Buybacks",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1787246125.9033537
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON2FmSTNBSURza2J6Wk5PbkJWM0VjZ1VNeVBEYUtXOWhHS2FqdFl0dFJkOTMyZ2pSSFFPVDRqV2xvWFhzeThaZVhSX3JCS0VBb0xwRW5uQVY3dnVha3pwbHR6MS1BWFpXWktzTUxPaGVvNkhMOW9CcTVOSHNNLThjLTdreVoweHhKT2REenp5T3M2SXp6c2x6RzV2ZnhfcDE5ZzZ2aQ?oc=5",
+        "headline": "Bond sell-off: Why government bond yields soared – and why it matters",
+        "summary": "",
+        "source": "The World Economic Forum",
+        "published": "08/21 01:27",
+        "published_ts": 1787243220.0,
+        "tag": "JGB",
+        "first_seen": 1787273126.3816001
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNGQwUFdxNTg1RnVlaXRpc0dYdmJMbmUxZHJ3TWxzWUtGeHlzNGEyQnRsNkotbWJUWkYxbTkxdWkwSE1BSENxYkI1bVBNdGFzYTNCenU2c3V4cG9yTVJqS2NOazJpalVuWmE2Y1Z2UWpXQ0VwLWpzVDRiQVFXLVVTVGVEWDBnT0ZOV3JuR1l0MjJLdFZDcW1kbE5fMmE3bHBMcnY0bnZrRmo?oc=5",
         "headline": "Why is US bond market turmoil hitting governments worldwide?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787232498.0,
         "tag": "Fed",
         "first_seen": 1787233526.9848416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMENaY0pOZ0pReG0tc2JxVXpPeENUeE1nMldNREZQMjFFNUF6aFdwaGpRV1drSHg4RFlGc3VwZDBzeU5HOTlqSWFrd3EycHFlM3ZPUXdOSk1LMnBpdTAwdTUxaGE0NHVrWHg0Y2wxaEFMc2FSeUNFN1hKUi1MaUp6ZXQtcm1ubHNXRG5adGlWNFFnQjM3RmNIbGV4cG00R09ab0tvRllpVlg2S1U?oc=5",
-        "headline": "Paul Krugman Says The Bond Vigilantes Aren’t Sending Washington A Message",
-        "summary": "",
-        "source": "thewealthadvisor.com",
-        "published": "08/20 22:27",
-        "published_ts": 1787232454.0,
-        "tag": "Strategist",
-        "first_seen": 1787238037.8304868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5Qb2t4WGMzM3psWEpNTm9WdkJmQ1FrN2dFYWswNjUwWWJ1MktpdDVBZmJXcDRtQTc4SEpyaFdieThtekZBMkxwc3B2QmxsaWdQY25Ud2V5VmF1UExHUGhJOVMxNG9lZw?oc=5",
-        "headline": "etaxkorea",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "08/20 22:26",
-        "published_ts": 1787232392.0,
-        "tag": "Strategist",
-        "first_seen": 1787256669.9076114
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 09:30:56",
+  "updated_at": "2026-08-21 09:45:53",
   "yields": [
     {
       "label": "3년",
