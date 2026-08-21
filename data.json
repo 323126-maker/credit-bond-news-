@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRUYzZWNwN0lWUDdxakF3OE14OVhZNGREZ3FrR0YxWDRUZlNSVUlwT254LWZmeTJsT1AwWDJOdHIzYWM0OHZ2Ym9ETUJkNEhBWVVscTYxeWJhb3hKNTgzQlJScnhXay1KQ3l2aGk4RENua1lNVmQxc2FqdThYRDdIbC0wM0FqMkpCOXhKOXMzM1RZS3I1UENKVjRxMUtScEcwaTdrSVhB?oc=5",
+        "headline": "Peter Schiff Says Treasury's Bond Intervention Made Things Worse",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "08/21 12:38",
+        "published_ts": 1787283532.0,
+        "tag": "Strategist",
+        "first_seen": 1787283924.1201797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE9fM0J3ZngzTXFuUkxqSjVHTjJEQjFEbU00Y0FtbmhzNUM0RzExOGNSS1dpemNlMUFPZlFobVhDY3EtYXYzQUNHWUJoTWdZcEVIVjFOSmh6VnRLT3VzaFBKQ2p4MWI2LVNITlVINHVveHNydmFwUDZtYVZ5V1Z0QklHRHpMM0hLYm56VFdZalh5M3J1VXFoZUE1ZzhzMzh2?oc=5",
         "headline": "Japan 10Y Yield Tracks US Treasury Yields Higher",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787242680.0,
         "tag": "JGB",
         "first_seen": 1787243432.6255624
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acnJJYzZKVjEwOS1WWHdGN2hReTdxRU83aGdXNzh3eW44XzdvdEJYT3hOS0ZTWmhHV0dObDdhOGJtQWJVSXdpLThibE9HUjE1a1VZMW1ncDlNdFFFTDB3SzJibDFlOXNMdkE?oc=5",
-        "headline": "Fed and Treasury appear at odds when it comes to the markets",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/21 01:11",
-        "published_ts": 1787242279.0,
-        "tag": "Fed",
-        "first_seen": 1787271324.6459947
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 12:34:59",
+  "updated_at": "2026-08-21 12:45:56",
   "yields": [
     {
       "label": "3년",
