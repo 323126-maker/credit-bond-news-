@@ -232,6 +232,16 @@
         "first_seen": 1787285726.4240868
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZllObUMyNGFGc3Fqel8zbTZCTmdLZTBUcklpVTZLeElrU05mUHR2OEZXUjE4aDNIeWFseEQ4MzJmNFg1SzhwdS1hX0FOWG01YjJMTkppbTJaZkh1MTJTbDlKcVJRVVYzaWN1MQ?oc=5",
+        "headline": "美 재무부도 안 통하는 채권시장",
+        "summary": "",
+        "source": "아틀라스뉴스",
+        "published": "08/21 11:43",
+        "published_ts": 1787280180.0,
+        "tag": null,
+        "first_seen": 1787323794.3259928
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFByd2E5T216S2JMRjgwTlRyWnJPblNkV0wtclNQNVY1Nl9wVkFCVllad2RqUGQxYWs4bkg0ajdfMWUwUlU0YmJpTVBXaXZEWlp3V0ppaw?oc=5",
         "headline": "AI 빚투, 올해만 2000억달러⋯빅테크 채권 홍수에 금리인상 압박",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787227345.0,
         "tag": null,
         "first_seen": 1787228126.4241033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02a1JNYWtWWkRFa1N0bFkyNEZ2VmUyNmFmelJaaDBxeVlhVkw4OUpDb3FFVFYzOG9MVVZuMWxneFAzVHlwXzd0c1VlRFpuMmk1MEE?oc=5",
-        "headline": "피트니 보우스, 최대 5000만 달러 규모 채권 공개매수 실시",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/20 20:13",
-        "published_ts": 1787224424.0,
-        "tag": null,
-        "first_seen": 1787301032.0594287
       }
     ],
     "perpetual": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1787320841.1116505
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPem44SktrWmRkODBNX3Z3WVIyR0d2OFVlazZBTm5reG1WZnVGeEVOR19NeUZWX2pTSHdqc25NRUlSdzNrVXhETnA5MXFXMXJ0c0RQb3RRaXJMcUVtWW5iaUExb3Jtc0xJV3hGX3Z4UGhMdVhfaTVwVDVacGpWT1hHOG9BZERRMHNCY3FmSnYxY2hJMzNGZF9DcENfOHlSU2VCUmdXUDBvTi1wd1k1bWd6bmdnOFV4Y0FBS2U3ZS0wQWZkQQ?oc=5",
+        "headline": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/21 21:43",
+        "published_ts": 1787316197.0,
+        "tag": "JGB",
+        "first_seen": 1787323794.3259928
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQbU9GcGZ3MWMxbHBjcVVKbGFUMWpCTTUwT3lrQnZTRFFnenMyYzducE5HNDE2WTdOYl9XOUVUejRwX3Jaa0U0SzR5X3dfYnlSWTJGSy1aNUx6ZmI5N0dJaUJGYmViWmZpakRHeGhYa1pVdkYyMU5Fdy1yOTFDWlVwZjEwMzhpOXVPV3VPR2Q5WEtkVGs?oc=5",
         "headline": "Treasury Intervention Puts the Dollar Under Pressure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787280389.0,
         "tag": "Strategist",
         "first_seen": 1787301923.6086037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acnJJYzZKVjEwOS1WWHdGN2hReTdxRU83aGdXNzh3eW44XzdvdEJYT3hOS0ZTWmhHV0dObDdhOGJtQWJVSXdpLThibE9HUjE1a1VZMW1ncDlNdFFFTDB3SzJibDFlOXNMdkE?oc=5",
-        "headline": "Fed and Treasury appear at odds when it comes to the markets",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/21 11:43",
-        "published_ts": 1787280198.0,
-        "tag": "Fed",
-        "first_seen": 1787312725.902785
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 23:45:54",
+  "updated_at": "2026-08-21 23:50:23",
   "yields": [
     {
       "label": "3년",
