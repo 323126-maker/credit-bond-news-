@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmNwZDVPT3F4QzNGZmJxSFgwWnRxYmhRcXA5d1JsSHE3YUdvTGJUQWVoVzVGSm54Vm1RRmdCekZRYUZFdTZVVGUwd3JNZlBoN0p3RzUzTG5ZM2RxZTJocF9lNXZoejhYYlJLLVdjdzROc3JBVlh1V0d0RTdGUHBGcmRNSzhFeHVYb3NKUGNhbGwzd0dWYjNsR1QtV0tmMTh5cEs3ZFdBbkNxNVVXZ2lkb0pUWC04b2hYd0haNjNSSnFQeE9WOGJR?oc=5",
+        "headline": "BofA’s Hartnett sees dollar slump, risk selloff if bond intervention fails",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "08/21 19:46",
+        "published_ts": 1787309186.0,
+        "tag": "Global",
+        "first_seen": 1787310041.3016665
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQd0xGM1RlWFBZNG1PbDRHWEVicWZic1dNQTQtTEY2TkVBS003WHhTd0NQb0hCUGdEcERINngyTDZMZ2tQZUUwUU8tRjQyLXhJbmdYNWxXb05OTEg5eTZYU3p0YU1aaHZTU1Q1M21uUUZHNFhGQkpZNDI0ZHNabXJSSGdXVGRWZnVwa1NGdVhvT3NQak5DanM5YWI5Ty1iNWp4NUcw?oc=5",
         "headline": "HYDB: A Disciplined High-Yield Bond ETF That Leads On Returns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787268480.0,
         "tag": "Strategist",
         "first_seen": 1787269525.3604226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5JckZRTzFtQjZONjdOT1AwRk5DaVhDSzZmTEd6NVhYTHFGQ3UxQUpMSTdPbDhwOU1VeXRxYy10OXgwQkcyemhzbkh4alJjUDdlaG5FU3Z2RHlhR1lo?oc=5",
-        "headline": "[모닝 리포트] \"글로벌 채권, 美 바이백에도 금리 상승 우려 여전\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "08/21 08:26",
-        "published_ts": 1787268360.0,
-        "tag": "JGB",
-        "first_seen": 1787268483.7858067
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 19:45:47",
+  "updated_at": "2026-08-21 20:01:25",
   "yields": [
     {
       "label": "3년",
