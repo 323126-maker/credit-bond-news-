@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmtQSlVhek1IbzVBdTVGVHk1MVBYTjRQZm9qUmJ2TXlwa3dsMGljeEhUemxod1ZEVy1CYVdRTTJaSHE5UE1DVXg4WmFXM2llUnpVM05sSnNOWXhGNm41ekZUajE3Z3RKWU9LVHZOcDNsblNNQVNmbGpPaDFjeXF3REpjZS00alUzSWVPTFpjQ2VqWVE3Tm5oYlhYbkJtY0IzQ0V0cGJyWXBHZw?oc=5",
+        "headline": "Ray Dalio warned of the risk of a U.S. debt crisis and recommended gold and Bitcoin",
+        "summary": "",
+        "source": "UA.NEWS",
+        "published": "08/22 05:55",
+        "published_ts": 1787345734.0,
+        "tag": "Strategist",
+        "first_seen": 1787346037.9445777
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQNTl5aEdLcWh1QVA3b3ZtbzVOWmNOXzZaTzQyREJ5Z1pKLW9QcnZCWHpBWkJrUkVYbjlKMGFCZnA3SDNSb3I3dUszOF9XWGg5RENJbDB5cGVmb2x4UjJhc08xT3F6WUpIMVRpV0lmZlh1QnYwd3ptNVpRUzF4WE91SF9mbWM5cVgwN0RzbGNKa0o3WlRsRnNIeVpWT09rR0cxMnRlTXV0Mk8yWHhsN3lJUjczemtzbTBWbS1qRHlzc0JEckc0R3g5dmhqajVPSVZCQXhtUm13?oc=5",
+        "headline": "Ray Dalio Says Dump Bonds, Buy Gold: 4 ETFs in Focus as US Debt Risks Rise",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "08/22 05:47",
+        "published_ts": 1787345226.0,
+        "tag": "Strategist",
+        "first_seen": 1787346037.9445777
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ZRGliLTZYLVYyNFcyZ1RqdUZtRzBXSGthV2hhRHpYc19KX3lHazVocDlJc1Z3RWtOcXBpX0lDNW0tYTE4dWhwYzh2eUtvajBidEZjaGZ4T3M4Ni1td3dEOA?oc=5",
         "headline": "'나프타플레이션'이 물가 밀었다…日 9월 금리 인상 확률 70%",
         "summary": "",
@@ -1658,6 +1678,16 @@
         "published_ts": 1787340081.0,
         "tag": "Strategist",
         "first_seen": 1787340632.3650787
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1ta3NrZC1JZGtlbVZJZ0hvU2JGRk4wUktkQnpOOTlsNWp1M2FZQTY2cEV4elJpT3BBU1hZX1NOVzJHWS1nUGFwbS15OE8?oc=5",
+        "headline": "Video Federal Reserve leaves interest rates unchanged",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "08/22 04:17",
+        "published_ts": 1787339861.0,
+        "tag": "Fed",
+        "first_seen": 1787346037.9445777
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yWGlhZXVXMHhPWmVCYTFZVkhCVHFSS05xZ21hNEgwNFE5QXVoenhrdDVYdlpjR2JtclRzS214OHhVT3ItU09fSFBRYnozX0E2d01qVzVvSjE?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1787305392.0,
         "tag": "JGB",
         "first_seen": 1787339725.6686585
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUZpNlNJUVl2Z21GdDdScWtXYS1mS3ZBSndjd01QamhYUDJ2YUd6NURwTnQ1YkNHMXVhQzJ1M25UMGRzZDlpVEk3U3BpTnQzUDNualpGUWNzVjEyckoyMVotMHpBY2c1R3RVT3ZqMTdwd0lpZGZ1OS1QWXBmc2NvRHJwZEp6ai1PbkZvUFdhcW5ycGtVaE13WkxRS1VFY3dNbFZZ?oc=5",
-        "headline": "Goldman's top economist warns of market 'cacophony' due to an opaque Fed",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "08/21 18:40",
-        "published_ts": 1787305217.0,
-        "tag": "Fed",
-        "first_seen": 1787306442.4591548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3ZTRE1SQlhJNWlWOFdsYURxQmhkQXQ4SDhqNHBmVmdfWm9aVkp1VE55TlF5X0lqbTN2bGF4eWlhaEtmdHo5d3ZLTTJVZ0RBU2RxVXA5NXR6Yjl6XzRzWVlrQmpmT20tTzBxalAxU3M4aXc1czZDbDVXVUpEa1JuSC1GMnRKMWU3WTlscXlEZkZMMjVJbk9pYWxDSENUc1NMZThQZ3FOTHByRlBSMUZHaXI3Znh3OWk5YnNnc01maUJYUS1T?oc=5",
-        "headline": "What will happen at Jackson Hole? Central bankers head to Wyoming",
-        "summary": "",
-        "source": "The Times",
-        "published": "08/21 18:26",
-        "published_ts": 1787304375.0,
-        "tag": "Fed",
-        "first_seen": 1787304942.2982914
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNcFhpQkxvOHk5Qk1zS25sckFOVjJBRnZMblRlRzFCSHFpWWlMQS16MGdFdEdkZHYxbnhqMS1qYWdkN1FsREFhYjNGSnBtWDNkWWI5R0xnX0xoYTYzejJweGtvNldHNUQ3THRER0dvYXJrZTVLb3FPQ1hMRmJkU3pkeWRR?oc=5",
-        "headline": "Global equity fund inflows hit three-week high before late selloff",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/21 18:23",
-        "published_ts": 1787304223.0,
-        "tag": "Global",
-        "first_seen": 1787304633.5786695
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 05:50:30",
+  "updated_at": "2026-08-22 06:01:03",
   "yields": [
     {
       "label": "3년",
