@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXFUMWxVZllPekxHcDhsa0tBckMwX3FZbGtTODhzSjY0YmE0YnRfaXR5aU94QW1VSDk2cDZUUUJmbzNMUTZKZVZCR1hUS2dHbjk4Z1pxaFVsc21BX19RSm9aQUx3OFFpc3A2dDc3OGdpLVFnMHQ3a3pNMlhURzRCUEQtVnVuU0JNU1lCSVlWRDBZam9odDkzY3YxSkp0elE5X2FuOWhINVIzUWI1?oc=5",
+        "headline": "Ray Dalio warns of impending U.S. debt crisis, urges gold, bitcoin hedging",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/22 03:34",
+        "published_ts": 1787337275.0,
+        "tag": "Strategist",
+        "first_seen": 1787338826.0859818
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6UUpmTW5DME1PRFpxYUVreXhjejdSM2xqeVVMWWxjUDFXWXhEeHo5TzVGV3FnSV9rSTA1b0FtQVoydGxnVmtsa3I2V3h1ZkEtVjlCZjFyTjd3amJfNk0yaFRPMlBQT2NhNkVfVDNiSWZiUQ?oc=5",
         "headline": "달리오 \"美, '3±2'년내 부채위기…채권 줄이고 금·비트코인 늘려라\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787300023.0,
         "tag": "JGB",
         "first_seen": 1787301032.0594287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTk1IcGFlbFBFWmtMdGlQXzFQSEs4N3dMc2FoNTVMYkZjZDdnWnFQeWEwbERUN0h3TE96Zm9HODRndmRhR1FZbURMa0tnTXZJcFpuQnVfZDMzUEUybklKa0Yxd2lCaUtuaElYRDZSUGFtc2tGTm9YNEU0ZmpMOEg5eEhQUQ?oc=5",
-        "headline": "US Treasury’s Bond Move Buys Japan Time On 3% JGBs",
-        "summary": "",
-        "source": "Finimize",
-        "published": "08/21 17:02",
-        "published_ts": 1787299332.0,
-        "tag": "JGB",
-        "first_seen": 1787301923.6086037
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 03:45:51",
+  "updated_at": "2026-08-22 04:00:51",
   "yields": [
     {
       "label": "3년",
