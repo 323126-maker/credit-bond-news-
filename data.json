@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kMURwWjc2WmJoZXF0a1JwYlRmVTFsV1VPT2NsT1dGcDJCcnNnNGNHQkJ0S1JYXzhaSXQ2RWhPaFVPOS1ER3ROWE9lWDZ2X1lpZHNCUDdtQkYxZ0VJMTJXak1LU0NkN3VvdXpZ?oc=5",
+        "headline": "[현대경제 데스크칼럼] 금리의 역습, 미국과 일본의 파도가 왜 한국 서민의 지갑부터 때리는가",
+        "summary": "",
+        "source": "hdnews.co.kr",
+        "published": "08/21 19:57",
+        "published_ts": 1787309879.0,
+        "tag": "JGB",
+        "first_seen": 1787316324.6693232
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmNwZDVPT3F4QzNGZmJxSFgwWnRxYmhRcXA5d1JsSHE3YUdvTGJUQWVoVzVGSm54Vm1RRmdCekZRYUZFdTZVVGUwd3JNZlBoN0p3RzUzTG5ZM2RxZTJocF9lNXZoejhYYlJLLVdjdzROc3JBVlh1V0d0RTdGUHBGcmRNSzhFeHVYb3NKUGNhbGwzd0dWYjNsR1QtV0tmMTh5cEs3ZFdBbkNxNVVXZ2lkb0pUWC04b2hYd0haNjNSSnFQeE9WOGJR?oc=5",
         "headline": "BofA’s Hartnett sees dollar slump, risk selloff if bond intervention fails",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787277352.0,
         "tag": "Global",
         "first_seen": 1787278527.4201603
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5kVnhlR2dNcUFJejFXNUNrcVJRbnhteEVjb19pME5qTDN0amlLNlh0ZG1RZWUtZWE1a2VmaGlOMHdHeGlQalRkcUtOYUNmSk9JaWVLX25QUjFfcDllRXM1b2Vta1RmWnlpOU1FYzVnZjdQZw?oc=5",
-        "headline": "한화證 \"달러-원, 일방적 하락보다 1,370~1,430원 등락하며 내릴 것\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/21 10:44",
-        "published_ts": 1787276676.0,
-        "tag": "JGB",
-        "first_seen": 1787279432.9041524
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 21:31:00",
+  "updated_at": "2026-08-21 21:46:09",
   "yields": [
     {
       "label": "3년",
