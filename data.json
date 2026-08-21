@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00MVVPSzltLTFkT2ZCandxaE9GcThHV0g3S3RZa2w2aEpPbk96aDlWZXV0YXoyTUI5ZDRia0loMFhTN0JhMXg4UHlKSC05NWRlSzlzSjRPLS1oY1XSAWBBVV95cUxQVDF5QzhlbTh3RU9fcEhtN29PckhmOWU4OUM4R3JBMExFc3ZGbmhUMlltVGYzT1dPd212OWVVZExud0cwNzZaZGxvUDlPa3JFV3ZDdC1RbHZ1c3ZwQWtNUDk?oc=5",
+        "headline": "李대통령, 오늘 첫 반부패정책협의회…'토착비리·전관유착' 정조준(종합)",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/21 09:25",
+        "published_ts": 1787271920.0,
+        "tag": null,
+        "first_seen": 1787272231.284346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5HTTh2VmNkTHRfWXdqTndpMkpuUks3eEZ2RnhsNlM5blVpQXoyUXIyOXNpbVNVNUV2emR0Y3JYNW9vU3ZKTF9JZEZpRlRRdEJ6bkNF?oc=5",
         "headline": "뉴욕금값, 베선트 '미 국채 바이백' 발언에 상승…0.6%↑",
         "summary": "",
@@ -1216,6 +1226,16 @@
         "published_ts": 1787266680.0,
         "tag": null,
         "first_seen": 1787267726.9200542
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93VG9jTUM2WmZGbGdZRHBDZHJmMTE2M09vOE9TbkxlaHpSNmFybWx1NHR5UXNBNkY2eXJicktNbWJWUUJ2ZVNNWkk4NXY5V1pjV254cFB6Rmp0UQ?oc=5",
+        "headline": "美재무 \"국채 바이백 회당 40억달러 이상 가능…정책 수단 많다\"",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/21 06:24",
+        "published_ts": 1787261071.0,
+        "tag": null,
+        "first_seen": 1787272231.284346
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5iaXByMFZiNEkySTFKQW03Y0otaTNGTTdxdHFZUkJOaU1QdEZZM0JNMFc4U0JqNUxWZjdoWlBfS3N3ZkZFVmc?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1786586760.0,
         "tag": null,
         "first_seen": 1786619722.3996031
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5DaDA3eTNsZkRXWS12blZZTDVwQUQwMjNEdkhuMjh2N0taMy01QnJxTE9xMlA5cXZQTW5nWVVkQktuWEVhSFFzX19UemhGR0pna01EcHpWajRlQnBUcFBRZi1Sd1NWdw?oc=5",
-        "headline": "경기도 재정 위기 시초는 민선 7기 이재명 지사의 무리한 기금 차입!",
-        "summary": "",
-        "source": "화성저널",
-        "published": "08/13 10:58",
-        "published_ts": 1786586334.0,
-        "tag": null,
-        "first_seen": 1786608923.1849446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE93YllxNEIyQ1J0dkhNM1FWSGg0OVpUZEpabF91dUxjZTJjSkVReWxjbmxPSlZwYjFzcC1CYlMwM1FZQ2s0M0M1QU82RzNKWW0wbms3R0ZfYw?oc=5",
-        "headline": "이재명 대통령, 제40차 수석보좌관회의 주재",
-        "summary": "",
-        "source": "더리얼뉴스",
-        "published": "08/13 03:29",
-        "published_ts": 1786559377.0,
-        "tag": null,
-        "first_seen": 1786595432.5320568
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 09:15:49",
+  "updated_at": "2026-08-21 09:30:56",
   "yields": [
     {
       "label": "3년",
