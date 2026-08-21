@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdE9fM0J3ZngzTXFuUkxqSjVHTjJEQjFEbU00Y0FtbmhzNUM0RzExOGNSS1dpemNlMUFPZlFobVhDY3EtYXYzQUNHWUJoTWdZcEVIVjFOSmh6VnRLT3VzaFBKQ2p4MWI2LVNITlVINHVveHNydmFwUDZtYVZ5V1Z0QklHRHpMM0hLYm56VFdZalh5M3J1VXFoZUE1ZzhzMzh2?oc=5",
+        "headline": "Japan 10Y Yield Tracks US Treasury Yields Higher",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/21 11:26",
+        "published_ts": 1787279160.0,
+        "tag": "JGB",
+        "first_seen": 1787283274.7303743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNd3B6aDd3ZndPVXdhcl9TZHFna2Z1Z280OXRZTDN0UzNuWnIxcUY1R3lIWkU4RzZ4bDRRejJmbE9QdmV4ZXFDQVhienhPQmc3cFhhNkN1cTlvQWVZd0tkcm1fX0VJbGJ5WERVNU1yN0pySTE3a2hfem5jaTRIN25KQWtsWlV5a3c?oc=5",
         "headline": "일본은행의 9월 금리 인상에 대한 '동력'이 더욱 강해졌다.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787242279.0,
         "tag": "Fed",
         "first_seen": 1787271324.6459947
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNU2RfSmxEVW5nc2dWZk9qRFdVTE5NU0ZEYk9ZUVlDZUxKSUtOUGQ2eTUwRW8xdVlqSm5WejlxRnQ0WnltRzlfRFVoMzFUUU1wMTZkT2pWRlpCYlY3T0JaSHpBT2htUHhtS0phYjVwR3Q0US1aamtRWnpFcU5xTkJrV0xwTzFCeUhGQzAxVmNoYWUtaHgwMlp6Y0h4WnVpSms3LWRDOEg3eWtlS1BseEhrZlVtNUxYLW1ZZkHSAb8BQVVfeXFMTkYzeWZLNUhEcmF5NGhqQW1lQ2dfTE1mbkxoc2hXQWFpN1I0YVVUdGVLM2dVSWYybU1mcU5TaXJYNkNOTXBhcjhaZzlKUGd5OUxoMm5meXliQVVBSTN4RGRCNXB1WHdpdkNabEpuajRPMVlaTURSNHhsYUhfSk9uc0U0MU5KRmVyeW1nZGxjVnpwcFJLVF96UC1xNU04MmpHN1NVeHk1QzdmbjZHTHh2NFE0Q3Z4ZVJTcEdxRHdwTUU?oc=5",
-        "headline": "Democrats press Warsh to release reported conversations with Trump",
-        "summary": "",
-        "source": "The Hill",
-        "published": "08/21 00:55",
-        "published_ts": 1787241300.0,
-        "tag": "Fed",
-        "first_seen": 1787241639.2997835
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 12:31:15",
+  "updated_at": "2026-08-21 12:34:59",
   "yields": [
     {
       "label": "3년",
