@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBTQjllRHhLcXJVSXhCckJubkN6Y0EtVHFMN3UzSmVGOFktNFA2TzE3WkNWN1N5czMwSzRmZTQtaGQ0YU1OeDlpWVdyYlFIM1RpUmxhTmhiTk5WSnRB?oc=5",
+        "headline": "李대통령 \"반부패보다 헌정질서 파괴 심각…대책 논의해야\"",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/21 19:38",
+        "published_ts": 1787308686.0,
+        "tag": null,
+        "first_seen": 1787310669.4870148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMMk1zV0lNd1JUdzVyNzBOUU8xYWR2eWF1aEVHdzVkRHliZTVSTTYwVlN2T1Z2ak1OY0h5b3prY3lZZ3BEUF81NHQxOHJzalZOanZTQ1lzM3B4VGxuUTZldmtTNjVxZWtQdTZnQzl5Zw?oc=5",
         "headline": "엇갈린 李대통령 평가...수익 개미는 긍정, 손실 개미는 부정",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1786697598.0,
         "tag": null,
         "first_seen": 1786698926.5893145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Ca0ZoQy1GVnVtVk5IS2dGZnNXZXIydlpKRHJlTmtNUC1KMVdOVnU3dHdldWVsWUMtTWE3bF93dXBhNE5DVlpsWVc0eEFienA0UGtxajl3bHdnTWdpVTZIXzZ3WVY0OHlicldoM0p6Y9IBc0FVX3lxTE90NFYwYTZWRUs2NGttMlZhdU5XM0tzRWxqSUI1TlR4NVg5bWNUNjUwZnY3bUw2am1HM0FraHN1c2h3Z0pFMGtkSmlvX1ozek9jYmRDbUJpWVB5Q2hWTjhTVUtneWJ3ZlhiY2JZTlhMZ19GTzA?oc=5",
-        "headline": "[강준만 시론] ‘보복’은 ‘실용주의’와 상극이다",
-        "summary": "",
-        "source": "시사저널",
-        "published": "08/14 17:00",
-        "published_ts": 1786694400.0,
-        "tag": null,
-        "first_seen": 1786695328.5948079
       }
     ],
     "global_bond": [
@@ -1698,6 +1698,16 @@
         "published_ts": 1787301404.0,
         "tag": "JGB",
         "first_seen": 1787306672.420045
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdGN2S3ppWllhbDc2WHFZY1dtUTg0blR4R3lGS0ZpT2hYR3BmR2owYnR5U2FMRzQ1ZU8yQmNyV2tERl92Y19Ha0wwcTQ3MTVlQmFib1ZnR3JlemNnOWRBYUNrRlZUQmptVjZ3M0Nyc3fSAXRBVV95cUxORHNScWhCMTR6X21RNWJEc29FbXJvSWdtTDVRMklaQVVIQTRtZ2F5YVVRbHR0VWhrUmpTUkE3emxINVk3b1dEREpsOW9yVkhkZlJHMkVqcTQtOWQzWklxNUZRV0NCOXUtc2ZwM3JnaW4wU2FrNg?oc=5",
+        "headline": "[정인호 객원기자칼럼] 엔화 약세가 글로벌 경제정책에 주는 시사점",
+        "summary": "",
+        "source": "주간한국",
+        "published": "08/21 17:24",
+        "published_ts": 1787300640.0,
+        "tag": "JGB",
+        "first_seen": 1787310669.4870148
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyYnZUUTd2QjAzLWI5dnh5TkM4dmxKaHRJXzNkZHB4M0dIQkJWUDNtSEZ3c0laLUN5Vzc3X18wWWtYTm1QR0U5Z25uSEl4cW5BVTdHczNyaUZxNWJxQ3Fyd0pRTU0zWERpYjlaYXRnT2RyUQ?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787269411.0,
         "tag": "Fed",
         "first_seen": 1787299225.8500178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE04cVFONVBZamR2NXBlYm9QN3k3cndZd0FWcTlubzYxQWVkTjNack8xV3RaOWwtaVhiVjdpd2w0eXFsQ1NFVTNqLXZHWEV4Ym5NS0x2YU55M3daRTVxS2UzRWFJZHFuQQ?oc=5",
-        "headline": "Ex-Fed Chief Dudley Warns Stocks Are in Bubble Territory as Treasury Boosts Buybacks",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "08/21 08:28",
-        "published_ts": 1787268480.0,
-        "tag": "Strategist",
-        "first_seen": 1787269525.3604226
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 20:01:25",
+  "updated_at": "2026-08-21 20:11:37",
   "yields": [
     {
       "label": "3년",
