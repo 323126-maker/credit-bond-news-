@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0NqOEhkLXFidG9RUGIzSkxkNFo3M0JFV3NmNHdvTjVEMTRJNXp1R1ZoWDdaWEgxN1hiN0N6NzdYekhIalVrZ3dhU1BGeHhtUU1QNGRkZllSRnFCSl9CRjhQNG5tOVU4R3hYcDlMNUcycG1zaV95M21DTVlGQ29rUW5ZaW1CWFJraWFDNUNrNEJVNEhoQ1QzZ1Boa2RIS1pDN05UOGlR?oc=5",
+        "headline": "Ray Dalio Recommends Buying Bitcoin, Gold as Hedge Against Looming U.S. Debt Crisis",
+        "summary": "",
+        "source": "CoinGape",
+        "published": "08/22 04:04",
+        "published_ts": 1787339085.0,
+        "tag": "Strategist",
+        "first_seen": 1787339725.6686585
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXFUMWxVZllPekxHcDhsa0tBckMwX3FZbGtTODhzSjY0YmE0YnRfaXR5aU94QW1VSDk2cDZUUUJmbzNMUTZKZVZCR1hUS2dHbjk4Z1pxaFVsc21BX19RSm9aQUx3OFFpc3A2dDc3OGdpLVFnMHQ3a3pNMlhURzRCUEQtVnVuU0JNU1lCSVlWRDBZam9odDkzY3YxSkp0elE5X2FuOWhINVIzUWI1?oc=5",
         "headline": "Ray Dalio warns of impending U.S. debt crisis, urges gold, bitcoin hedging",
         "summary": "",
@@ -1870,6 +1880,16 @@
         "first_seen": 1787308233.405845
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTk1IcGFlbFBFWmtMdGlQXzFQSEs4N3dMc2FoNTVMYkZjZDdnWnFQeWEwbERUN0h3TE96Zm9HODRndmRhR1FZbURMa0tnTXZJcFpuQnVfZDMzUEUybklKa0Yxd2lCaUtuaElYRDZSUGFtc2tGTm9YNEU0ZmpMOEg5eEhQUQ?oc=5",
+        "headline": "US Treasury’s Bond Move Buys Japan Time On 3% JGBs",
+        "summary": "",
+        "source": "Finimize",
+        "published": "08/21 18:43",
+        "published_ts": 1787305392.0,
+        "tag": "JGB",
+        "first_seen": 1787339725.6686585
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVUZpNlNJUVl2Z21GdDdScWtXYS1mS3ZBSndjd01QamhYUDJ2YUd6NURwTnQ1YkNHMXVhQzJ1M25UMGRzZDlpVEk3U3BpTnQzUDNualpGUWNzVjEyckoyMVotMHpBY2c1R3RVT3ZqMTdwd0lpZGZ1OS1QWXBmc2NvRHJwZEp6ai1PbkZvUFdhcW5ycGtVaE13WkxRS1VFY3dNbFZZ?oc=5",
         "headline": "Goldman's top economist warns of market 'cacophony' due to an opaque Fed",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787300435.0,
         "tag": "JGB",
         "first_seen": 1787312725.902785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVFhxOUdndWxHTURPVUJyUFJINnZyMnhUSEFvUGNWSHIwZGtiSk9BdEVUYmI4VE4wX2pXOGlCWEJ5a2JxVnlnNWxhVm1sLXBzc2dmbjJMMGt1ZF91QjZHZlpwYUVEUDBUTy02S0dva1FRVjlzSmlSeDNzQW1oYnZCb2FFbV9HM1FENUpidzMtZDlaWlhpRERSOXJfdXY?oc=5",
-        "headline": "Australia’s $1trn debt is the bill for political cowardice",
-        "summary": "",
-        "source": "AFR",
-        "published": "08/21 17:19",
-        "published_ts": 1787300340.0,
-        "tag": "Strategist",
-        "first_seen": 1787333432.6985502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyYnZUUTd2QjAzLWI5dnh5TkM4dmxKaHRJXzNkZHB4M0dIQkJWUDNtSEZ3c0laLUN5Vzc3X18wWWtYTm1QR0U5Z25uSEl4cW5BVTdHczNyaUZxNWJxQ3Fyd0pRTU0zWERpYjlaYXRnT2RyUQ?oc=5",
-        "headline": "[亞증시-종합] 中·臺·홍콩 증시 상승…日 하락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/21 17:13",
-        "published_ts": 1787300023.0,
-        "tag": "JGB",
-        "first_seen": 1787301032.0594287
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 04:00:51",
+  "updated_at": "2026-08-22 04:15:50",
   "yields": [
     {
       "label": "3년",
