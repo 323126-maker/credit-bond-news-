@@ -1660,6 +1660,16 @@
         "first_seen": 1787320841.1116505
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQUp0SUphV2JaX252WkdsdExWMkkyVFlsWlQ3eXpScXF1LVMwQVpMdXJHNk5jSmc4TzdDNGp5UXl6QVp0REt4eWRrQW91dDA2R01nRjZLVjJKamJKWEVoOUNKUXFJamM2WFNpVFpOTTRIQkpaSlMwLWJYLXM4TVZ6OXhQN3I?oc=5",
+        "headline": "UK retail investors snap up gilts in wake of bond sell-off",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "08/21 22:01",
+        "published_ts": 1787317303.0,
+        "tag": "Global",
+        "first_seen": 1787332525.555405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPem44SktrWmRkODBNX3Z3WVIyR0d2OFVlazZBTm5reG1WZnVGeEVOR19NeUZWX2pTSHdqc25NRUlSdzNrVXhETnA5MXFXMXJ0c0RQb3RRaXJMcUVtWW5iaUExb3Jtc0xJV3hGX3Z4UGhMdVhfaTVwVDVacGpWT1hHOG9BZERRMHNCY3FmSnYxY2hJMzNGZF9DcENfOHlSU2VCUmdXUDBvTi1wd1k1bWd6bmdnOFV4Y0FBS2U3ZS0wQWZkQQ?oc=5",
         "headline": "Bond Yields Are Rising Everywhere: Why This Isn't a US Debt Crisis",
         "summary": "",
@@ -1798,6 +1808,16 @@
         "published_ts": 1787303669.0,
         "tag": "Fed",
         "first_seen": 1787304633.5786695
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5acnJJYzZKVjEwOS1WWHdGN2hReTdxRU83aGdXNzh3eW44XzdvdEJYT3hOS0ZTWmhHV0dObDdhOGJtQWJVSXdpLThibE9HUjE1a1VZMW1ncDlNdFFFTDB3SzJibDFlOXNMdkE?oc=5",
+        "headline": "Fed and Treasury appear at odds when it comes to the markets",
+        "summary": "",
+        "source": "Axios",
+        "published": "08/21 17:45",
+        "published_ts": 1787301909.0,
+        "tag": "Fed",
+        "first_seen": 1787332525.555405
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOUVZalFZOUFTOXFlNTJIV2pIY3ZsLVp0bDBLa2ZoanhvYkh5NWRvT1RzRFdpZ2owV0djTGtGOFNMYmc2ajBNaWVlVVU3MWxxYXhCT25BY2FLMGZ5Q1lRemFJX3JyNzhtRW12NUkzd25vVXh6WU5JbnB4alRGZF9ydXRhQQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787290409.0,
         "tag": "JGB",
         "first_seen": 1787329831.9434855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBQVnN1WWJYMG9xamVtZjcwOHlhQUllRVJiRFdOZkJxOXBCWTJWbjh3ZXNHZy10Mk1VQ2hjelBsNEpCc2dpNElNai14NFZ0Q2hEZE5B?oc=5",
-        "headline": "재무부는 사고, 워시는 말 줄인다…美국채 5%가 드러낸 '두 얼굴'",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/21 14:31",
-        "published_ts": 1787290260.0,
-        "tag": "Fed",
-        "first_seen": 1787313639.7292144
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2EzRUFhSlFYWkdIU1lDZHJoNEtkZ1Y1N242T0dFNXpvUWZSNC03YkNVcEk2TkVCMFVwTHM5N2JPWTRfMk1IRHkwZ0lqVmw4RnB2Vk00UzVfMl9tenE1MVJFdlkxRGh6TFBEOWVkMVo0dW1UTUx0ME1TQl8tVDlKTC04SFBYX3lIcGk4WFpYWDJOdjNSNnc?oc=5",
-        "headline": "Fidelity Limited Term Bond Fund Q2 2026 Commentary (FJRLX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/21 14:15",
-        "published_ts": 1787289300.0,
-        "tag": "Global",
-        "first_seen": 1787328925.5338743
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 02:13:02",
+  "updated_at": "2026-08-22 02:15:51",
   "yields": [
     {
       "label": "3년",
