@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nVHRiQ1hYNHRsTlEyM2MyYmtDVU1XM3dRc3FTXzF3bDRYTjNQOGRqM0c2a2Y2X0hUdnpPNDZIT3pzUnp4dVhjc2h2b3IwbXA3YVdFOXlDNUVYaEpTYVVRRG5CT2ZDaklIbndTdW1XV28?oc=5",
+        "headline": "[뉴욕채권] 국채가 이틀째↓…바이백 후폭풍 속 약달러發 기대 인플레↑",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/22 07:06",
+        "published_ts": 1787349990.0,
+        "tag": null,
+        "first_seen": 1787350522.6261837
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQOWh1dFJ6X3lpanYxb0ptYXFyRnVyQ1Jrd1RpcFhpZFRxYmVzdXNaWF9HTTY3YkdmYU9yNmZlaVU0U2UyRExQWFZmNXlSLV9vQkktY3F2Rm52WEhKc1Znb1h3N0NpamFZTU1mS3JB?oc=5",
         "headline": "S&P, 강력한 성장 및 재정 노력에 카자흐스탄 신용등급 BBB로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787267695.0,
         "tag": null,
         "first_seen": 1787343884.4554226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5neHVDMVZoSXJuY0V0ZEJDLUNteF9yZ2U0c09UczRiZ3RsV05qZVZNX2RZQUhqRnA1dHVMRHRFYmhSckRnSXQ4UVZURDdDTzZ3ampWN1VkQlhGTlJCekpkVWpsSkRzZXh5SjdVLWRja1I?oc=5",
-        "headline": "[뉴욕채권] 베어 스팁…'베선트 풋' 하루만에 소멸 속 역효과 우려도",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/21 07:00",
-        "published_ts": 1787263202.0,
-        "tag": null,
-        "first_seen": 1787269525.3604226
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 07:02:43",
+  "updated_at": "2026-08-22 07:15:48",
   "yields": [
     {
       "label": "3년",
