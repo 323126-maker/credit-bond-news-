@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5",
+        "headline": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin",
+        "summary": "",
+        "source": "CNBC",
+        "published": "08/22 04:21",
+        "published_ts": 1787340081.0,
+        "tag": "Strategist",
+        "first_seen": 1787340632.3650787
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4yWGlhZXVXMHhPWmVCYTFZVkhCVHFSS05xZ21hNEgwNFE5QXVoenhrdDVYdlpjR2JtclRzS214OHhVT3ItU09fSFBRYnozX0E2d01qVzVvSjE?oc=5",
+        "headline": "레이 달리오 \"정부 못 만드는 금·비트코인 사라\"",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/22 04:17",
+        "published_ts": 1787339820.0,
+        "tag": "Strategist",
+        "first_seen": 1787340632.3650787
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0NqOEhkLXFidG9RUGIzSkxkNFo3M0JFV3NmNHdvTjVEMTRJNXp1R1ZoWDdaWEgxN1hiN0N6NzdYekhIalVrZ3dhU1BGeHhtUU1QNGRkZllSRnFCSl9CRjhQNG5tOVU4R3hYcDlMNUcycG1zaV95M21DTVlGQ29rUW5ZaW1CWFJraWFDNUNrNEJVNEhoQ1QzZ1Boa2RIS1pDN05UOGlR?oc=5",
         "headline": "Ray Dalio Recommends Buying Bitcoin, Gold as Hedge Against Looming U.S. Debt Crisis",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787301360.0,
         "tag": "Fed",
         "first_seen": 1787314506.9739103
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdGN2S3ppWllhbDc2WHFZY1dtUTg0blR4R3lGS0ZpT2hYR3BmR2owYnR5U2FMRzQ1ZU8yQmNyV2tERl92Y19Ha0wwcTQ3MTVlQmFib1ZnR3JlemNnOWRBYUNrRlZUQmptVjZ3M0Nyc3fSAXRBVV95cUxORHNScWhCMTR6X21RNWJEc29FbXJvSWdtTDVRMklaQVVIQTRtZ2F5YVVRbHR0VWhrUmpTUkE3emxINVk3b1dEREpsOW9yVkhkZlJHMkVqcTQtOWQzWklxNUZRV0NCOXUtc2ZwM3JnaW4wU2FrNg?oc=5",
-        "headline": "[정인호 객원기자칼럼] 엔화 약세가 글로벌 경제정책에 주는 시사점",
-        "summary": "",
-        "source": "주간한국",
-        "published": "08/21 17:24",
-        "published_ts": 1787300640.0,
-        "tag": "JGB",
-        "first_seen": 1787310669.4870148
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlNHNBNFdMcS1UaE9VWEZvZkNURjRfcktwYTV2TDhvR1pDMlZrNDhSUnQxSm1pRGE4ak9RcGt5SF9TRHZ4ajlUT3pKbm9nTmxJTGlQUnF0Wi11TTFqaEtENDZXRUpvcTNi?oc=5",
-        "headline": "美 정부 부채 급증, 국채 금리 추이 주목",
-        "summary": "",
-        "source": "fetv.co.kr",
-        "published": "08/21 17:20",
-        "published_ts": 1787300435.0,
-        "tag": "JGB",
-        "first_seen": 1787312725.902785
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 04:15:50",
+  "updated_at": "2026-08-22 04:30:55",
   "yields": [
     {
       "label": "3년",
