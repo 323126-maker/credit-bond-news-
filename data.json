@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZVVnNDhjZkRXSmstNjh3V2M4cnEwVWFINXdReG9BUHdDLXlwbC1UMjVuZDZvTjdtMTVYemdXUkQ4U0tyZU9vam5BTjB2dGFSVVdR?oc=5",
+        "headline": "[어바웃 포스코] 장인화式 자본효율 성과 속 '재무·신용도' 부담 가중",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/21 16:25",
+        "published_ts": 1787297108.0,
+        "tag": null,
+        "first_seen": 1787297433.1539946
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VEJjN3NoellWbnJIZGc0Z3BJRXRQZUZ4ZmZuT20xVFBlYnBTLWVNMzk5azJtMVVlX285dGVzWi1VLXVjQkc5WENEa29aaUpfWlMtOWdicWJUVDBsOXVlLWtPNUZPTWtyWW5qdmFJb2s?oc=5",
+        "headline": "유럽 증시, 유가·채권 압박에 7월 이후 최악의 한 주 마감",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/21 16:12",
+        "published_ts": 1787296320.0,
+        "tag": null,
+        "first_seen": 1787297433.1539946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kTmFiOVJFS1ZJM2tZZFk4bU8wV1Y1UU0tdXE2ZGhxb0hTMU16Uk5iZWxRMjhQV1JUX3NvMFZhbFdYcHhyWVg4Z2UzZGhRZzBFNXFsd0RnUmJnY1lBYUJwSzJEQWdlOG15?oc=5",
         "headline": "경남 호우 피해 수협 긴급 금융지원 신청 방법은? 500억 규모 대출 및 상환유예 총정리",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787197275.0,
         "tag": null,
         "first_seen": 1787197527.5932384
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WdG9nQnVjRkNlNlBRTjJVMjdrakRQMDJjckNxSmtWM0ZQS3BvbWdCUUFrNFNUaGZDazdwQ2oxOTlvWnFYdVpHZTdEdE5SemlsaUVEVVR5NjBJdGl2YlA5atIBeEFVX3lxTE1McU9nTlprYnV2c1JuQjA5LW9Ccl9BdDNYb3NlYmRTRnNxZEktUUtGS1JVWnpsQnNmQ3NUMERYa0ZtR21ySHF0TE04VFB5Q1hnVklwSnNSY0hMRUk4cjF2ZzI0TmJKMkI0Qnh3UHpzTUUyVXJpWThWcA?oc=5",
-        "headline": "트럼프 \"美채권시장 우려 안해도 돼…금리 내려야\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/20 12:11",
-        "published_ts": 1787195499.0,
-        "tag": null,
-        "first_seen": 1787197527.5932384
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13YnVjVzNqSG96VlZfWmVweXdXTWpBMnhUdGFyZV80cW9xdVZhNDJKVE92Rm42bG1KSG01ZWh4NHNWc3VuZW9XcTRiR0hlVUpXZXc?oc=5",
-        "headline": "앤트로픽 데이터센터, 1.8조원 사모대출까지 추가 확보",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/20 12:08",
-        "published_ts": 1787195285.0,
-        "tag": null,
-        "first_seen": 1787198917.6542256
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBsQVYtaERqOUVtSml5N000cUFUSmNOeVpUUnNFdGJhMEhpMXpFNmhxXzQtbFoyUldoaFlSS2p1UTdYZFNsZk5DOVlZU2Myb2JMOW90TUhBV1piWkxGdnBMUHZpUUFIZ1pEenlOZA?oc=5",
+        "headline": "일본 물가 상승…9월 BOJ 금리인상 불가피",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "08/21 16:24",
+        "published_ts": 1787297071.0,
+        "tag": "JGB",
+        "first_seen": 1787297433.1539946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaXVkOHROTV8tbmozY1JlZjRSSEpKMFRzTmFMNmRTUmhCck9qUVA2LWF4S2VkX08weVZTMVloUTU3RjRNaFpnZ2xhTDNPbVpKai1XSG1lT2FOa01fYWVEQUtDMC05UTRNX3h6d2J5VWJhcXdPS1JKZXpwMlFNQVJVTWcxU01wWEx1emRrTW1keUg5NUVnVlZ2UnMzQ3FPM2540gGmAUFVX3lxTE1uXzFZcWV5a21yc09udXBWZjdfVGxiYTFCbjY5cWM0NDRZdThrekNCaXhTX1NfVkdWOXZETVdjVkdxdWRKdXVVZ2gtR0lSZ0hJdDFacVBzMGlsZzR6cjhhTWpxTk1YWXpET3YtN3RyX2I1aEhoYTE3cWwzZ3Y3TVVOSl9qWTNKWjhBU0FDa3h1U0VaVURORXBITjB6MWc0VDFSSlFuZ2c?oc=5",
         "headline": "Asian shares are mixed following Wall Street losses as US Treasury's moves fail to calm markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787249820.0,
         "tag": "Fed",
         "first_seen": 1787283032.0494711
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT1hPSHM0SW5BM2ozOUNOYl90ZkxMeFZ2ZTdlRXpmQTk3Q2RWb1dLems3dzVPZWx3b2hmajdxWDlQZU9aS3FjLXdhZ0cxNWZMcVY0NnB0aVNRTXVJejN2c0JjUVhMTzFBNVhMZ05ZaUdrMEpKWl83RG1CV2U2d0sxM2hHNWhsd1BQc2NDOW9SNlNDNENkWGc?oc=5",
-        "headline": "Limit Municipal Bond Risks With This ETF",
-        "summary": "",
-        "source": "ETF Database",
-        "published": "08/21 02:48",
-        "published_ts": 1787248125.0,
-        "tag": "Global",
-        "first_seen": 1787248836.5500014
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-21 16:15:51",
+  "updated_at": "2026-08-21 16:30:54",
   "yields": [
     {
       "label": "3년",
