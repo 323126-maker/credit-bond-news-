@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnOHdSdEphTVhRMGY3UmpoUURic1RMd0lTZEFXOFdOdzdSRGxtT3Brbm0wTDVXM2wzbVYzWDJKODFic0piNlZCbjVHRUFjVGZHS1RiMlVrUS1qT084YmhwUDJWUGhvd1lySm03MjBOY9IBc0FVX3lxTE82ZGQ1UElnblRYOXp0aGVINllPdkhHc2s1ejJYdW9JZDRyMWswYjhCa0VVY0pTMzR6UmR0cHlRTU93cVh2bDNJVU1mdDB5YWkxWjdTWTdFUnctMEtjSVRHNm5vNkR2dU44RlB5czFTU292b28?oc=5",
+        "headline": "‘1400억 재원 구멍’…전남광주시, 지방채 발행 논란",
+        "summary": "",
+        "source": "시사저널",
+        "published": "08/22 09:25",
+        "published_ts": 1787358300.0,
+        "tag": null,
+        "first_seen": 1787361742.5408833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZ2J1M19iX3FYRlUzUHRPTFR4MWtnVEw4d0puMkJ1WTZZTlNRUW1lQWgtOWRJSzhMeU5Ba1U1SFIwdzhLaXdkSWtGNnFISkE4R3ZzcmxUUFFQUHJzSk1VajgzeWp6dEF3?oc=5",
         "headline": "국민의힘, 2025 결산 ‘100대 문제사업’ 정조준…“추경·특활비·예비비 철저검증”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787102651.0,
         "tag": null,
         "first_seen": 1787103031.0318334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LSTVlaUFuNG9EUTRrSVZUMFdMLUFmTlRrY2JkRUxlSHk2a0VkQUlleVZzYTFsdV84aG8yVGRVay0xX2tXYjJTLVQyelJQY3RzMVVTQ1dB?oc=5",
-        "headline": "[김종인] 미국 장기 국채금리 급등…원인과 전망은",
-        "summary": "",
-        "source": "지디넷코리아",
-        "published": "08/19 10:16",
-        "published_ts": 1787102190.0,
-        "tag": null,
-        "first_seen": 1787104215.0765243
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 10:15:59",
+  "updated_at": "2026-08-22 10:22:49",
   "yields": [
     {
       "label": "3년",
