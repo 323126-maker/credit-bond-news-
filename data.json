@@ -222,6 +222,16 @@
         "first_seen": 1787301032.0594287
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTeG12NHVwSlJvcHJpQzBxeDYxdjFIQTdRTkNsTDNuVkxnb3U0eEU2VWQxZl8tTlFPTkRoaE5rejg2UjZIXzBtN3Qwb0RQZC1hRXgyYUoyX2dsMzVmbkM1UtIBeEFVX3lxTFBwSHFTZENfYVQzS2hQMnAwSzdDR3c5Yk5Pa2ZDcTdtSm1sdUlqc0FmaHlEams3RUdsM0d0cnRJNDh0TU9HdGk0OUtKdTE4RU1hSmJsOUF2ZWwzU2szak9hSDhjTHBTYkt0MmsySW9vSmt3cVAya0lZcA?oc=5",
+        "headline": "국고채 금리, 다시 일제히 상승 마감…30년물 4.703%, 50년물 4.623%",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/21 16:46",
+        "published_ts": 1787298375.0,
+        "tag": null,
+        "first_seen": 1787389237.714257
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xQkdGOC1JblkzU09vZVNqSWRvYnZYVjhHSUptM3hwNUxVMWFlMndoMzVBQ3BuQmNVY3F2MWhOZG9nUzQ4RDFPOG9NM2t3dG5MOFlvQmtidndkSHRkMkczeFQ2TU9uMXdUWHdMNEUwN2ladw?oc=5",
         "headline": "[채권-마감] 약세 스티프닝…外人 장기 매도·미래기금 영향 주시",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787277868.0,
         "tag": null,
         "first_seen": 1787291129.1544123
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBHZjcyZXpGMHA0RldMNjdJQkU5TWtGYkNpUGlwYXBRd0czcTd5bWFvOHNBZ0p3eW43TzJXaFNMV3JkMXNva2hnaXUxNXZCbW1UaUdiZnZNU3l6TjB2?oc=5",
-        "headline": "[GAM] 미국 국채시장 9월 시험대…\"회사채 2000억달러 몰린다\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "08/21 11:04",
-        "published_ts": 1787277840.0,
-        "tag": null,
-        "first_seen": 1787278527.4201603
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 17:45:50",
+  "updated_at": "2026-08-22 18:01:06",
   "yields": [
     {
       "label": "3년",
