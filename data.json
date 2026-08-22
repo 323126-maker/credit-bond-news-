@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFQ4dUt1a0p3TGlFdXVRM2hxZ1Vpa2htZUlXWWtDV0RfVXRNYVpJdUJiZ2hnWjFodFZMZzhjM0RWQ3NMcjVpZENNQVFyQ2JrOTdNOGpJVl9EeUoyYWV4cmROQTF2VFBxZXpBbHo4RlRkLVg3N091UUl2QUxQNUYxZUFQN09RaGdoWVRMXzVYdkR2X0o2Rjhub2FlUlctaElSTVhHNHhoV3hDeHNhSVE?oc=5",
+        "headline": "Why the bond market is flexing its muscles, and why everyone needs to care",
+        "summary": "",
+        "source": "Jacksonville Journal-Courier",
+        "published": "08/22 13:09",
+        "published_ts": 1787371799.0,
+        "tag": "JGB",
+        "first_seen": 1787372126.9807358
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
+        "headline": "Treasury Yields Rising August 2026: Investor Guide to Bond Market",
+        "summary": "",
+        "source": "Intellectia AI",
+        "published": "08/22 13:07",
+        "published_ts": 1787371645.0,
+        "tag": "Fed",
+        "first_seen": 1787372126.9807358
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JQnBaY0JxZnhrSjZjbHp3Vm5FU0pBbUxlTnpOaU5SdnJ2YjJieENfQWJtc2lOQnd0eDlCM0dnYzV4OXZtcFJIaHoyZ3ljb2JJX3BLMl9hVlMwY1M3ZGExbUZNZ0lidXg1QmNzX0dkM1lwbVVzenc?oc=5",
         "headline": "Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787334901.0,
         "tag": "Fed",
         "first_seen": 1787336102.9029438
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9DdFVzTXZMTzVSLS1RX01RdlJacHJTY0V2VWlkUHpvWUlyTHFrM2hONnJRX1JXWFlnUDhSYnoxU2N4Ul9lZDN0cWNSVjNpWFhGVlI0YQ?oc=5",
-        "headline": "Ray Dalio Warns US Debt Crisis Could Hit Within 3 Years, Urges Shift From Bonds to Gold and Bitcoin",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "08/22 02:48",
-        "published_ts": 1787334485.0,
-        "tag": "Strategist",
-        "first_seen": 1787335242.4633584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBVaWxtUzV0eU5JYTloRl9BMjExNm04aDZPcFVHRk5xa1VBWHdHbEtHbkdjVkVUNTktbXN0S1ZqZnBHcFlTakZMZURQLWhJcVFL?oc=5",
-        "headline": "레이 달리오 \"美 부채 위기 임박…채권 줄이고 금·비트코인(BTC) 사야\"",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "08/22 02:47",
-        "published_ts": 1787334462.0,
-        "tag": "Strategist",
-        "first_seen": 1787335242.4633584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 13:06:24",
+  "updated_at": "2026-08-22 13:15:51",
   "yields": [
     {
       "label": "3년",
