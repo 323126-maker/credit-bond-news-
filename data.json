@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1JQnBaY0JxZnhrSjZjbHp3Vm5FU0pBbUxlTnpOaU5SdnJ2YjJieENfQWJtc2lOQnd0eDlCM0dnYzV4OXZtcFJIaHoyZ3ljb2JJX3BLMl9hVlMwY1M3ZGExbUZNZ0lidXg1QmNzX0dkM1lwbVVzenc?oc=5",
+        "headline": "Fed Chair Warsh's Jackson Hole Debut: Goldman Sachs Warns of Amplified FX Volatility",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/22 12:05",
+        "published_ts": 1787367900.0,
+        "tag": "Fed",
+        "first_seen": 1787368528.3562768
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tWkFnM2NHRjFLdVlUOHVBWUhMQjFWY3F6WlVzVGU2RlA2ZkQ2LUowRlNvRjFpR2tac2JIazlkSjgwMGtWZ0c2TVF3aUpJbmc?oc=5",
         "headline": "엔화 강세가 다시 흔드나…'엔캐리 청산' 금융시장 새 변수 부상",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/22 02:18",
         "published_ts": 1787332694.0,
         "tag": "Strategist",
-        "first_seen": 1787333432.6985502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YSVEzSkN5SkFYTDB5N0NLR3RCdUstQTNzMUpiRDI2RG56ZFBaRjNKQzNnSktXS0lzTnpsUThid1NNaWJBNV9nTVRLeGhvYnVyMlFMc3RuYlFaWnFYd0dDcnE5UTlWX2NIRzdXVkJUVHN5MkE?oc=5",
-        "headline": "美국채금리 잡으려다 달러 흔드나…“日 엔화 약세 전철 위험”",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/22 02:12",
-        "published_ts": 1787332363.0,
-        "tag": "JGB",
         "first_seen": 1787333432.6985502
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 12:01:00",
+  "updated_at": "2026-08-22 12:15:52",
   "yields": [
     {
       "label": "3년",
