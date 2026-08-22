@@ -32,6 +32,16 @@
         "first_seen": 1787350522.6261837
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMHM0OVZfQ19IWUZqaVk0V05IN2hLdUNtb0kxMkg5VXMyVVVoMVgwX21Obl9RaDB6UDcyODJITkVRTEpQU1hQalJUcHFWWnJ2dTQxdEI3WEpCSmdUZW9xWFFhaUFST29yYk52QXhNWmJuNGJiLWgw?oc=5",
+        "headline": "피치, 재무 건전성 개선에 서밋 미드스트림 등급 상향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/22 06:30",
+        "published_ts": 1787347800.0,
+        "tag": null,
+        "first_seen": 1787390123.9379203
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQOWh1dFJ6X3lpanYxb0ptYXFyRnVyQ1Jrd1RpcFhpZFRxYmVzdXNaWF9HTTY3YkdmYU9yNmZlaVU0U2UyRExQWFZmNXlSLV9vQkktY3F2Rm52WEhKc1Znb1h3N0NpamFZTU1mS3JB?oc=5",
         "headline": "S&P, 강력한 성장 및 재정 노력에 카자흐스탄 신용등급 BBB로 상향",
         "summary": "",
@@ -120,6 +130,16 @@
         "published_ts": 1787321340.0,
         "tag": null,
         "first_seen": 1787321725.363798
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1vSjdsWUdvbzExV3lfWENpcDN0U3RPVXA4WWt0M2NoMlI5NFRlalV1NGs0TGJkZWpfeUZxcmRhWThIbllqeUtQamFuN1F2ZWs2RHhYNV9BRlJVZjMxcHhKR3c4SQ?oc=5",
+        "headline": "“메모리 호황 2028년까지”…S&P, SK하이닉스 신용등급 ‘A-’로 상향",
+        "summary": "",
+        "source": "쿠키뉴스",
+        "published": "08/21 22:45",
+        "published_ts": 1787319928.0,
+        "tag": null,
+        "first_seen": 1787390123.9379203
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQTdwMVg0MUhoaFZlMnNxSVBVbTVyRXRtSW5HVGJCZDdJblF5b1FYRlFPTUdCMHc1ZUNDVUV3U1A4Y19JYnNJd3dIMUFYOU4wRG5USTlR?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1787281143.0,
         "tag": null,
         "first_seen": 1787358641.8307266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9MeHNUam4yOEh4WWZNNE8xc3Y4VXRQai1ONnNEY01UU2JGcDRNSzVzRU83Q2R5cFlvQS1pNnd4VUxxd09aUkptd0tFQ0lmZ1ZES2FwWEJGX1AxZnRUVFHSAV5BVV95cUxPTHhzVGpuMjhIeFlmTTRPMXN2OFV0UGotTjZzRGNNVFNiRnA0TUs1c0VPN0NkeXBZb0EtaTZ3eFVMcXdPWlJKbXdLRUNJZmdWREthcFhCRl9QMWZ0VFRR?oc=5",
-        "headline": "美국채금리 끌어올리는 'AI 투자'…\"빅테크 채권 발행 눈덩이\"",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "08/21 11:55",
-        "published_ts": 1787280931.0,
-        "tag": null,
-        "first_seen": 1787285726.4240868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84ZllObUMyNGFGc3Fqel8zbTZCTmdLZTBUcklpVTZLeElrU05mUHR2OEZXUjE4aDNIeWFseEQ4MzJmNFg1SzhwdS1hX0FOWG01YjJMTkppbTJaZkh1MTJTbDlKcVJRVVYzaWN1MQ?oc=5",
-        "headline": "美 재무부도 안 통하는 채권시장",
-        "summary": "",
-        "source": "아틀라스뉴스",
-        "published": "08/21 11:43",
-        "published_ts": 1787280180.0,
-        "tag": null,
-        "first_seen": 1787323794.3259928
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 18:12:17",
+  "updated_at": "2026-08-22 18:15:51",
   "yields": [
     {
       "label": "3년",
