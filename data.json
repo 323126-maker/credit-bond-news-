@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBlajdjbE93WFFfd1ItU1ZMN0d6NXVNQmdrTHU3NTVJeTZSQTQ5QVB2dUhlWnZyZ3pQcmV6Ym1SRlV2YkhwRjNsTDU1bFZnLTBSdmdOWWhOdUNrZ3Z3Q0lKMTdPYmRlUXc?oc=5",
+        "headline": "국고채 30년물 4.751% 역대 최고…금리 못 잡으면 주식도 무너진다",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "08/22 17:30",
+        "published_ts": 1787387400.0,
+        "tag": "JGB",
+        "first_seen": 1787388252.302903
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1jeHliVGhsb29pV2pDQmFYTlFrTkFZTFlCMHY1NFNfa1ozLTg1OUpjd1E5cjlGNmJyaWhfZk1hYjlRbmoyaU1PbW04Qm8wNEMyU2dhYmlULXE?oc=5",
         "headline": "Billionaire Ray Dalio: “U.S. Debt Is Reaching a Point of No Return—Turn to Gold and Bitcoin”",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787342940.0,
         "tag": "Strategist",
         "first_seen": 1787373961.765425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5yOExTdU9zOVFrb0NfM1RsRlhGU2hkbWthRzAyd2hOcm5feWg5REk4SHBLbFdfd0ctSDhhYnlWUzBQWUdOc01CTUFjVk1ZbjQ?oc=5",
-        "headline": "고개든 금리 우려…美재무부 긴급조치 안 통하나",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/22 05:03",
-        "published_ts": 1787342603.0,
-        "tag": "JGB",
-        "first_seen": 1787345125.869801
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 17:30:55",
+  "updated_at": "2026-08-22 17:44:35",
   "yields": [
     {
       "label": "3년",
