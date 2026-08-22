@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE80QzhXLVZHNjZhUzd1MWptZk5IRGpaVXMwRlVma0FvUDNmRUdiSUJ1cWZHTS1iZUtfVi1meFZGNl9ERHY0LVVWN1pEVVNQSWpaZTJrd3Nqel9rTTd1WmowMHIwbUFnNFU?oc=5",
+        "headline": "미국 1998년 이후 첫 엔화 매수 개입…163엔서 157엔으로 급락",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "08/22 14:30",
+        "published_ts": 1787376600.0,
+        "tag": "JGB",
+        "first_seen": 1787379226.3783514
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW5td296MGdoeTdlYUxuejdNbDVLTnBBdTlHTUlJZWpWS051YVlvZUl3WU83VGFGblNnR3o0ZnJXQ0JWTktnRnBhSnVZTlFtaGRhc1pZTW1zQUtDenF4aGtDQmpVMEdvX3R2a0FYU2NUUmlXeUVwUkR3UjY2WWlmdWpXZmZjaDFITWxkYU5jQkZsbzFkTTJuRkphNmxvYW1kRWVBOEtGTzJia0FJdTR1dWt3?oc=5",
         "headline": "Warsh's Jackson Hole debut lands 19 days before the Fed decision.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787339820.0,
         "tag": "Strategist",
         "first_seen": 1787340632.3650787
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQY0NqOEhkLXFidG9RUGIzSkxkNFo3M0JFV3NmNHdvTjVEMTRJNXp1R1ZoWDdaWEgxN1hiN0N6NzdYekhIalVrZ3dhU1BGeHhtUU1QNGRkZllSRnFCSl9CRjhQNG5tOVU4R3hYcDlMNUcycG1zaV95M21DTVlGQ29rUW5ZaW1CWFJraWFDNUNrNEJVNEhoQ1QzZ1Boa2RIS1pDN05UOGlR?oc=5",
-        "headline": "Ray Dalio Recommends Buying Bitcoin, Gold as Hedge Against Looming U.S. Debt Crisis",
-        "summary": "",
-        "source": "CoinGape",
-        "published": "08/22 04:04",
-        "published_ts": 1787339085.0,
-        "tag": "Strategist",
-        "first_seen": 1787339725.6686585
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 15:01:03",
+  "updated_at": "2026-08-22 15:14:12",
   "yields": [
     {
       "label": "3년",
