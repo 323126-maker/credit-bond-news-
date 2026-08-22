@@ -82,6 +82,16 @@
         "first_seen": 1787348549.5754704
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DcFcwYnkyY1ROcGtucmVmSG01VkNfSUgxUDlTRVR5VU1xbmxJTXpOVU9XQjJlTVI2eGJTME1WUVFlMlJ6enZ6RktCbjFka29WZ25ETVlWR2dvcXFmejQ3d2twTzlEdVhWM0J2emZZSXrSAXRBVV95cUxOdUJxVlE3eDQ5Y2o4dXFHaVE2SkMtNG5sMVBsZlJpUk1qTF9QTHhUNGZtUEVLcGd4dV9EeEVpTTg0MndYM1F5TVhXWi1mVU9yNkxFaXdUdkdiZW92WXJUU1B1ZnBqcnFDMExzczFBUVBNZWd1Vw?oc=5",
+        "headline": "[세계는 지금] 미국 30년물 국채 금리 5.31%, AI 회사채 발행이 장기금리 밀어올린 구조 분석",
+        "summary": "",
+        "source": "한국데이터경제신문",
+        "published": "08/22 06:00",
+        "published_ts": 1787346000.0,
+        "tag": null,
+        "first_seen": 1787415771.524617
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGZmM3RmxCMk1GR2pMRW1OSTFyb1FZVjVLYmVES3hfNDFwTHhvVFJJeWtlYzJIQ1NxclUyc29kU3FISDdEaGlYMlJET2xjWkxqTXpmR2dqajMyc0F0S0V0V2taUDlwcUdKNERvdFlTbGltQVIx?oc=5",
         "headline": "[딜로이트 글로벌 경제 리뷰] 미국의 외환ㆍ채권시장 개입과 불안한 시중 금리",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787288844.0,
         "tag": null,
         "first_seen": 1787300131.7882261
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAwTFJad01QQlhDRkwzZnlyQ2YtVVhuSFZYVHg1SEhIcEpsa1p1M0N0TEo0UzEwUWRRdlVITVI4WFk5a1VMb01TUnZncWwtWXlsOWE2X1pjeVM5bDBRMThrdFcwUlBQSzVDMWRrT240Z2s?oc=5",
-        "headline": "[장기 금리 쇼크]③빅테크 회사채 발행 늘어난다...기술주 부담 더 커지나",
-        "summary": "",
-        "source": "오피니언뉴스",
-        "published": "08/21 14:02",
-        "published_ts": 1787288550.0,
-        "tag": null,
-        "first_seen": 1787289335.1292589
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 01:15:49",
+  "updated_at": "2026-08-23 01:23:19",
   "yields": [
     {
       "label": "3년",
