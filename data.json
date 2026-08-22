@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbzhpdEo1eXJIN2YyQktjMGV4N3RhTG5mRHFHQUZ2cFFWVmFPODlsWnFWZlU5TXdjOHNYYkdTdWd0dnI2UE9lMzdtWGlCMjRlY0Qwa2hqWWo5MkRFUF9Od0dYVmRrVG5BVmxoRGJIZDVMZUVBU2U0YWt6THZZa2tQcg?oc=5",
+        "headline": "빠르게 늘어나는 퇴직연금…채권시장 새 수급처 될까",
+        "summary": "",
+        "source": "한국경제TV",
+        "published": "08/23 06:35",
+        "published_ts": 1787434500.0,
+        "tag": null,
+        "first_seen": 1787436922.8051865
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IR0hiZ0Yza29SaG9MM2paUTlQNUlOV3R4QzYzekN3aWdlZDNZS2kyUUs5Zk1DbUpkakpkMGdXQUJfMHJKSzYxYTBTck82X040RlFGaFBOT2dRRkMzSFEtZw?oc=5",
         "headline": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "뉴시스",
         "published": "08/21 14:57",
         "published_ts": 1787291840.0,
-        "tag": null,
-        "first_seen": 1787292926.7496548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTUd1dXJNa0pnTk5pWkYtWGkxWlotRnFOdGpxMDVaVXd6cndMdHU2cW1UcXYtRXFCV1QxakJhS1lYTGMyQXpYTXNWNmtKajQwMVg2MnJKeEx4cVlSR2V6etIBeEFVX3lxTE9WWm8tVnBFS0hYQjNaUUZreFRyVHFwTDFlaWx5bnRLaHdWWXdsOF93UUZxZUhQRFdNa0tnc0RKZUoyc1NuUm5TcmNqajE4RWJhX2ZSZzMxR0Q4TGNaWHFVaHZkRUpUeFdvdmVxbThoNnZOcHNweVFoUA?oc=5",
-        "headline": "\"현금으로 투자하던 시대는 끝났다\"…빅테크 AI 빚, 국채금리도 압박",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/21 14:54",
-        "published_ts": 1787291682.0,
         "tag": null,
         "first_seen": 1787292926.7496548
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 07:00:57",
+  "updated_at": "2026-08-23 07:15:45",
   "yields": [
     {
       "label": "3년",
