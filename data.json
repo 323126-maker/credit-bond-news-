@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTlBqUVZxbmV4RFB6X25PS3BfbktLeUliaVA3SGlYeHFCLUwtTWpuVVh4eVFoTDAzY3o3OVZvMVlPS0xKdE85VEJKU1BsbEt5elg4bnhzM3BtSnVaUW9SWVJVbDFGNjJkSUxneEduVGhLbU5FdFRkUmdtekIxUlNGRm1pTXU3XzJPYUx0cmxQV2xOa2Z1WTJ0ekNsUC0wcUdQUldqTjQ0elBGWmJfTnpXRTdHdlVZd0E?oc=5",
+        "headline": "Read My Lips: Warsh's Jackson Hole Playbook, Nvidia Numbers To Steer Wall Street This Week",
+        "summary": "",
+        "source": "International Business Times",
+        "published": "08/23 02:54",
+        "published_ts": 1787421252.0,
+        "tag": "Fed",
+        "first_seen": 1787422524.3096733
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBReGNzVGdqb1lkSlV4aDB4V25hUnYxRXhlcVlxWkwtWVBtb3dQNnRyYW9jVTA0Wmx0WWhMT29FamxIWUh4Y2VCdHNjWjVseG9TZWtjWkJkZHp4SEV5M1NZUDl4YlBQbWpOYUdlMXl0bmN4aGNVSUZNd0JIRXVrYlE?oc=5",
         "headline": "JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: \"Margin Debt Is the Highest It Has Ever Been.\" Should Investors Be Worried?",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1787411000.0,
         "tag": "Global",
         "first_seen": 1787413523.8219373
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFlMaEp3UHluWU1XTmcwV196dDd3SnR0ckE5M3FQRERfbTNXUmZPb19IT3ZHZzdLenJ6T3p3d3FKTXRrRTNVeklRWlJqU3NrdC1ub3RSQ3l6NmtSbFBpRWpVNjZZaFZBaXROdVRETUFFY1lwaGpTVUprY01IMFQtOVc2TWV5OHBHSWtpeW8tTlJETmwzMVhKb3Y3LU5Ydw?oc=5",
+        "headline": "'The U.S. is not the only game in town anymore' — Treasury debt faces more competition from higher-yielding bonds overseas than in recent decades",
+        "summary": "",
+        "source": "Fortune",
+        "published": "08/22 22:58",
+        "published_ts": 1787407080.0,
+        "tag": "JGB",
+        "first_seen": 1787422524.3096733
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelVkSEw0UXFVYzlBRGxPZVBDWjY1OGVPZ0x5cnBuOXhIOUJMcWpjdXZSM01kdnJFLTRKS2ZnZWUtQjJJbzJocXk0cDhhZi03bjJSNjRaWnJHd3ZfbVc3Wko4enBkQVRwMkVvTHRuT01ta093MUh5UEpOaU1vWWQwTnByMWdvLWpISjJIdDN3ZFZLcTlFR0E?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787360404.0,
         "tag": "Strategist",
         "first_seen": 1787361332.9640036
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelhhTm0wSUhQVXR0TVU0VE1EaV9mdDRuQTZNSGZZS0drRm5WQ1ZRZVBFbDA5dkJiWk5IMnBvc1NGODNRQTV5TVhBeXJ6ZnkzNGZ5WWR1c3I3bmxNQi1zajBBdHd1ZWtVZXlkQTJEbzlDZWZrTzJLTzFIZ1lQZUp6N1FRVnNDNklSUHpBRTVsS1VLQ05aTTB1RUhscFBnb0lmNktqUS13V0k?oc=5",
-        "headline": "This Week in Review | US Debt, Global Bond Yields, US-Canada Trade",
-        "summary": "",
-        "source": "Fisher Investments",
-        "published": "08/22 09:53",
-        "published_ts": 1787360028.0,
-        "tag": "Global",
-        "first_seen": 1787364922.011894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBncUUtOGlNZlpqelo4NFF4U1Jlb09ncUVOOS1SdHh5Q3VaT3dGYUJWWS00QlNQT1l1UGl5dzZyb1Y3WUtFbkJsaTZwV0ZOYWxxNmRmcDcwb2tLay1YOHJmWVNmWlN2YURCQXM0?oc=5",
-        "headline": "엔화 강세 전환 시 원화 동조화…\"엔캐리 청산 리스크 점검해야\"",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "08/22 09:38",
-        "published_ts": 1787359102.0,
-        "tag": "JGB",
-        "first_seen": 1787382923.7769005
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 03:08:51",
+  "updated_at": "2026-08-23 03:15:50",
   "yields": [
     {
       "label": "3년",
