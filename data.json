@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZW5td296MGdoeTdlYUxuejdNbDVLTnBBdTlHTUlJZWpWS051YVlvZUl3WU83VGFGblNnR3o0ZnJXQ0JWTktnRnBhSnVZTlFtaGRhc1pZTW1zQUtDenF4aGtDQmpVMEdvX3R2a0FYU2NUUmlXeUVwUkR3UjY2WWlmdWpXZmZjaDFITWxkYU5jQkZsbzFkTTJuRkphNmxvYW1kRWVBOEtGTzJia0FJdTR1dWt3?oc=5",
+        "headline": "Warsh's Jackson Hole debut lands 19 days before the Fed decision.",
+        "summary": "",
+        "source": "CME Group",
+        "published": "08/22 14:23",
+        "published_ts": 1787376237.0,
+        "tag": "Fed",
+        "first_seen": 1787376631.814616
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGhKQnI0WFowOXJGVW9aWk5HR3R1SEJ4bUtGc2JjZVMyN3JPb21ZNDdDN0FuZnE1SzZkZFpNOVVMRTVOelBvZlhrcGwwaElwTWlyNE9yQzlldC0tbGRsSzFoWXZZekd5dEVGV0hEd1pZaDBrNkVyYWY2ZGI2MFhnaW5Uc2NvbXQ1YkluX0VkbDdOdHNPQlVHQw?oc=5",
         "headline": "Japan eyes fiscal 2027 assumed bond interest rate at 3.8%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787339085.0,
         "tag": "Strategist",
         "first_seen": 1787339725.6686585
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vLWNGa3NPWFZCVldGeUl4ZGR5Z29BcjhueWlkMVVEUnhmWlp5MTdUb243LTJ5cUJyRG9qc3NpbFFhRUhVZUxxaVFpV1VqdHFoRDRMTzZRY2U1dnViYUN3VVB0X0c3N1Rnd2o4T19TLWpGeTgtbGc?oc=5",
-        "headline": "Wall Street Rebounds as Treasury Market Finds Footing After Volatile Week",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/22 03:55",
-        "published_ts": 1787338500.0,
-        "tag": "Fed",
-        "first_seen": 1787360434.073023
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 14:15:49",
+  "updated_at": "2026-08-22 14:30:54",
   "yields": [
     {
       "label": "3년",
