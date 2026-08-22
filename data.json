@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBReGNzVGdqb1lkSlV4aDB4V25hUnYxRXhlcVlxWkwtWVBtb3dQNnRyYW9jVTA0Wmx0WWhMT29FamxIWUh4Y2VCdHNjWjVseG9TZWtjWkJkZHp4SEV5M1NZUDl4YlBQbWpOYUdlMXl0bmN4aGNVSUZNd0JIRXVrYlE?oc=5",
+        "headline": "JPMorgan Chase CEO Jamie Dimon Dropped a 9-Word Warning: \"Margin Debt Is the Highest It Has Ever Been.\" Should Investors Be Worried?",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "08/23 01:35",
+        "published_ts": 1787416500.0,
+        "tag": "Strategist",
+        "first_seen": 1787418039.881206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYVhFbThLODU5RTAzdGFGSkJwRVRDdU41emxIbF9fUnBXVnlkRmhxQ0ttUFYxU1dkTmdLYXVVX2RnM2JwQ2ppUWlHR3VFdlVpZzhuQjJBUmhHY29oaHRyODhaaFdyUm5RSFZOa1lHN3RyMnd2bnFTc05VeTZ1bVg1UzBSeVFKTXVvcHREbm1qdHd2Y28?oc=5",
         "headline": "Mohamed El-Erian says 30-year Treasury yield at 5.27% signals a structural shift that will make America more expensive",
         "summary": "",
@@ -1910,6 +1920,16 @@
         "first_seen": 1787415324.8454773
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jMUtSV1NVODRuOG9uT3NCdFFVeUctTEJjZENMTDhZbFp1UDBfWHVaYkkyU3JSYUlWQlNrb2dxZi0xdUFLNTRpd2J1M2xLam5LMWJFTUZqXzdPbmZBaklGSWpuV2lDNXRIRWc?oc=5",
+        "headline": "금융연 \"美日 외환 개입에 엔캐리 트레이드 청산 우려\"",
+        "summary": "",
+        "source": "금융소비자뉴스",
+        "published": "08/22 10:38",
+        "published_ts": 1787362686.0,
+        "tag": "JGB",
+        "first_seen": 1787418039.881206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOX1Y2NDQ2Mlg0SWhJUGpITUNqRXBkRXJyVnFSMl83UXZxNF9qZ1pfdjFsWmlEMy1EMTA2LTFqZnc5SEdLUXMtNGhiWFhUUnl5VWRLQlQycnZtY2JhSG44d0c5aDVxb1YwLVdqZlB3Y0NHTzJKM2pfRG5vd9IBgAFBVV95cUxOT1I4UFlkeGo1SkZPQ0RhX00wVDN5OUZhdlVsOVV4TU5uZXFveFZ6QmNhbVBaVlpoMmh5MjBOalhXcnpFUGxybmRrTy1RNWdmZzdCWlVONDR4UjFZZnp2TThvcU42VlBvVWtsanRQLUdDLXhSbFM2Q2k1N3h1Z25YcA?oc=5",
         "headline": "美·日 외환개입에 엔캐리 청산 우려 … 금융연 \"시장 변동성 주시해야\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787359102.0,
         "tag": "JGB",
         "first_seen": 1787382923.7769005
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVzNHQzBNZE1hNG13cjJUVzlyUnpPNFZmanZXM3FKUGZGalhUenFsNzlPU3RYRFVzd2tBQ3VJcVRJMlhlcVptR2RBVjJaREV0bWpVRjVOWnIxVDZDNHpjd1VTUGdMdF9XaEZ2RkFuRVNyODduTjJCYl9LT2FVZ056Ng?oc=5",
-        "headline": "Ray Dalio: more gold and Bitcoin against debt risk",
-        "summary": "",
-        "source": "portalcripto.com.br",
-        "published": "08/22 09:28",
-        "published_ts": 1787358527.0,
-        "tag": "Strategist",
-        "first_seen": 1787374836.3430576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE50ZEVmR28tanFxOTdLWmtKTzVTYm92b3p0MWgxRmRCaTdwU0NPOXN2NUY5enBycnlSV3gxSHJtelZhUS1OSXZnZXkzUGh3bnBXMmNn?oc=5",
-        "headline": "엔캐리 트레이드 청산 위험 다시 부각",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/22 09:16",
-        "published_ts": 1787357760.0,
-        "tag": "JGB",
-        "first_seen": 1787358641.8307266
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 01:50:30",
+  "updated_at": "2026-08-23 02:01:05",
   "yields": [
     {
       "label": "3년",
