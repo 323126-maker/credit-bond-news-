@@ -1218,6 +1218,16 @@
         "first_seen": 1787373031.517898
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3REVmV2VfeHVEc1FLbFZsOVM2aFA0cVZtUU5Pa3Q2dmdkNjNTdTdycUFqeV93elBid0JoNkx6ejRhUXEyYlVRUTdtOVU2cVBfaFd4bE8ybmQ5eks2LWxVaV8xSnc1X2xnWUlmTGdB0gFuQVVfeXFMUDdERWZXZV94dURzUUtsVmw5UzZoUDRxVm1RTk9rdDZ2Z2Q2M1N1N3JxQWp5X3d6UGJ3Qmg2THp6NGFRcTJiVVFRN205VTZxUF9oV3hsTzJuZDl6SzYtbFVpXzFKdzVfbGdZSWZMZ0E?oc=5",
+        "headline": "李대통령 “반부패 넘어 헌정질서 파괴 대응”...AI로 비리 적발",
+        "summary": "",
+        "source": "fnnews1.com",
+        "published": "08/22 11:21",
+        "published_ts": 1787365265.0,
+        "tag": null,
+        "first_seen": 1787382194.7906544
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kREVKMVJSdjcxMTNuTkdMMlZGZFZGSm5xZ0dIR2RQcVpTSlR6Y3kyZDFETVlsRnJUaFNWQmtOQ3JPSEZ6QmwxR19La2Uzb0QxQW4tazcyeURaTUZjVnIzWFhHUklFN0UyU2ViUVh3QjhBQQ?oc=5",
         "headline": "[뉴욕채권] 국채가 이틀째↓…바이백 후폭풍 속 약달러發 기대 인플레↑",
         "summary": "",
@@ -1246,6 +1256,16 @@
         "published_ts": 1787308686.0,
         "tag": null,
         "first_seen": 1787310669.4870148
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zRWlhcnJ3UlhCUmhlVWNid0lhT0NfN1liTS1ScFpfc013Vk1uVVQ1UnVzN2JrVjFkQ0daUmpZb1NMNmRaUFFOekFWQTFIcmQ3Ykhr?oc=5",
+        "headline": "이 대통령 \"부패 청산에 여야와 네 편 내 편 없어…엄정하게 정리\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/21 19:26",
+        "published_ts": 1787307960.0,
+        "tag": null,
+        "first_seen": 1787382194.7906544
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMMk1zV0lNd1JUdzVyNzBOUU8xYWR2eWF1aEVHdzVkRHliZTVSTTYwVlN2T1Z2ak1OY0h5b3prY3lZZ3BEUF81NHQxOHJzalZOanZTQ1lzM3B4VGxuUTZldmtTNjVxZWtQdTZnQzl5Zw?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1787012220.0,
         "tag": null,
         "first_seen": 1787015724.5410337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xUlBJMFZqcUZueF9CS2hjNUozczBxelVjMkpyVS0xOTlURGNJdmRkQmk2NTZqV1VTVmtLWmNISFY0VnUxT0hvSVByOFVuX3RGZUE?oc=5",
-        "headline": "뉴욕증시 3대지수 하락···30년물 국채금리 19년래 최고[월가월부]",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/18 06:06",
-        "published_ts": 1787000767.0,
-        "tag": null,
-        "first_seen": 1787001324.8289442
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1jNDhUR3I3YUU0RFBkWWJ2dnkyM2lnSGNva1Y0Zm1JeDhRQzJXZ3RKNjIxMzVSWlprZ09YX1o5Qm56azVmaHFFTmhkRTdVOXFXNzR0aGRBb1V2TGlTY3ZIQ1VJb3NKU05jU3VQalpsRdIBc0FVX3lxTFB5Y2pSbWpNd1VRV29vMVBxTWtwWUQzbUlYYmxvUFE2dkZZNktfZVg5WDdBclY4cjRPZHdlY3dWMEdvTWZrZDg1V1JGODI5TGtza3ZpTG9hY0tqYW01TjhxQUZzNkI4SXl1S1hPVDR6N0xXUEE?oc=5",
-        "headline": "李대통령 지지율 5주 연속 하락…43.0%로 ‘취임 후 최저’ [리얼미터]",
-        "summary": "",
-        "source": "sisajournal.com",
-        "published": "08/17 10:55",
-        "published_ts": 1786931759.0,
-        "tag": null,
-        "first_seen": 1786933830.7551043
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-22 16:01:00",
+  "updated_at": "2026-08-22 16:03:39",
   "yields": [
     {
       "label": "3년",
