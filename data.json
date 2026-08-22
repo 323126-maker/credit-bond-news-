@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVPbGNlWlprdllRS05ISmRyVHhxVGlmYkxuaG55OURubkVfTEUxN01jek1oR3JCbFotMFdPUFhzTGtXZl9saWhHSHdxVEJSRjVLbXhibDh5V2x4MDRmQWpjTG1xeUJLZVZxQmNmZ0lhOW9jWU5CbDdtZUlWZk00bWtuMU9rdElRMHlZcTNlbkdWTkxBaWh2cmwwY0pMNkJjMTNaTkE3aURDQ1hiQnc?oc=5",
+        "headline": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/23 05:00",
+        "published_ts": 1787428800.0,
+        "tag": "Fed",
+        "first_seen": 1787429725.9000573
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE16emhCSDJ4d2xNY3kwRTlRRUJUNDNfTUlfdTJYRW9UMjFTVWI1RGstYldTeHgwRTdqRmJlNEJRMWVWMVhhN2pXWThB?oc=5",
+        "headline": "레이 달리오, 美 국가부채에 경고...\"채권 줄이고 금·비트코인(BTC) 사라\"",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "08/23 05:00",
+        "published_ts": 1787428800.0,
+        "tag": "Strategist",
+        "first_seen": 1787429725.9000573
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEFmMXROQ3lXcEdQa0dQTFJuQWY1dW5BZW1icXNrRzlib21oenJzcldDeFVlU3hzbXRIR05HQ2xxelpBVHB1a0FndnpPNHhWbXRzQXV0b1VIQ3ZyMG1QUnBENXJGdkY1SkJzaVVXRWd2SVM0VmFodktOenhsOVFIaTRja0RSMjdncDNsdWV3?oc=5",
         "headline": "Man Plans, Markets Laugh",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787362349.0,
         "tag": "JGB",
         "first_seen": 1787366726.4389517
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kekpmZ1pCelZKUXZfMXhOQWxuclFkVUxmbkxnQlpRMHBlejQwTkNFalpoT21FeGN0Rnd6MnVSV3Qzc1RJT2lsZDVFZ2FTQ2xpbFdiSHBDLUdYZk5LdHdjMWRPdlNLWl9Rb0dfV1RneFpsT1FS?oc=5",
-        "headline": "엔화 약세 끝나나…`엔캐리 트레이드` 청산 리스크",
-        "summary": "",
-        "source": "부산일보",
-        "published": "08/22 10:26",
-        "published_ts": 1787361984.0,
-        "tag": "JGB",
-        "first_seen": 1787364922.011894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5mRU5FRmRzNVhHRVg3aXlmVEtZRllaSDVsYUlLcU1VeEM1RXozVEk1Vmw2cnZRT2JMemxUVW1vbmdMTWJnd0RXVEhRc21jVFNCalhNYWM5SVNmaC02?oc=5",
-        "headline": "금융硏 \"美·日 외환개입에 엔캐리 청산 우려…변동성 확대 대비\" · 주요 내용은?",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "08/22 10:12",
-        "published_ts": 1787361166.0,
-        "tag": "JGB",
-        "first_seen": 1787362233.5023906
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 05:01:01",
+  "updated_at": "2026-08-23 05:15:48",
   "yields": [
     {
       "label": "3년",
