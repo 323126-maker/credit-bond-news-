@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5IR0hiZ0Yza29SaG9MM2paUTlQNUlOV3R4QzYzekN3aWdlZDNZS2kyUUs5Zk1DbUpkakpkMGdXQUJfMHJKSzYxYTBTck82X040RlFGaFBOT2dRRkMzSFEtZw?oc=5",
+        "headline": "비우량 채권시장 급격히 냉각…올해 BBB급 공모채 발행사 10곳뿐",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/23 06:25",
+        "published_ts": 1787433900.0,
+        "tag": null,
+        "first_seen": 1787434230.25319
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2JWZXNTTWwtWDNxajY5ZmRMYUROUzF4b3hxb1daaVZibGhMT05Na0ZOcDYxR2JJbVBmdVU3X284NjEtTkdFQXZWVkRYRHA2alJMRkw5THhDRzZVTi1mT2RyeVhwTlFYbkJzN3g2dkl2UUY1NDd3VXcySV9vajVlMXJseHNNRkdr?oc=5",
         "headline": "회사채가 새로운 심사 단계에 진입합니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787291682.0,
         "tag": null,
         "first_seen": 1787292926.7496548
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12UEhsbldBMW9lS3BmNG9XSFlCOURKY1dBZ2Y2S0lJTkZ2czZyUllKMWE1UjIxV1pGUlJzSmQ0bUdqYUxya2hFWWl3bDdLRTdXaFRQUXYtWkFZd0x4eXh0N3hTRFplZllhN0hpRks0VHdRUQ?oc=5",
-        "headline": "월가, AI 회사채에 러브콜…\"고금리 매력\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/21 14:07",
-        "published_ts": 1787288844.0,
-        "tag": null,
-        "first_seen": 1787300131.7882261
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9FbkNiVTAwWUozdXF6ejd3dWxoazFsa2FyMFQyMklCdXVfaXhiT3V3MkRkT1BEWG10VGRJLWNDTVEtRU81MF9oTTFrZEo2Mjd5MS05bXNzX1c2QlJfTnFUUw?oc=5",
+        "headline": "엔비디아 실적·워시 첫 잭슨홀…뉴욕증시, 'AI랠리·고금리' 시험대",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/23 06:19",
+        "published_ts": 1787433540.0,
+        "tag": "Fed",
+        "first_seen": 1787434230.25319
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVEVPbGNlWlprdllRS05ISmRyVHhxVGlmYkxuaG55OURubkVfTEUxN01jek1oR3JCbFotMFdPUFhzTGtXZl9saWhHSHdxVEJSRjVLbXhibDh5V2x4MDRmQWpjTG1xeUJLZVZxQmNmZ0lhOW9jWU5CbDdtZUlWZk00bWtuMU9rdElRMHlZcTNlbkdWTkxBaWh2cmwwY0pMNkJjMTNaTkE3aURDQ1hiQnc?oc=5",
         "headline": "Kevin Warsh to Make First Jackson Hole Speech as Fed Chair",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787364005.0,
         "tag": "Global",
         "first_seen": 1787415324.8454773
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1jMUtSV1NVODRuOG9uT3NCdFFVeUctTEJjZENMTDhZbFp1UDBfWHVaYkkyU3JSYUlWQlNrb2dxZi0xdUFLNTRpd2J1M2xLam5LMWJFTUZqXzdPbmZBaklGSWpuV2lDNXRIRWc?oc=5",
-        "headline": "금융연 \"美日 외환 개입에 엔캐리 트레이드 청산 우려\"",
-        "summary": "",
-        "source": "금융소비자뉴스",
-        "published": "08/22 10:38",
-        "published_ts": 1787362686.0,
-        "tag": "JGB",
-        "first_seen": 1787418039.881206
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 06:15:46",
+  "updated_at": "2026-08-23 06:30:53",
   "yields": [
     {
       "label": "3년",
