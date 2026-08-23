@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIVktFVmxtV1RMbzdRSzRyODBMcEpuYXNuaVIzT2ZYSWRubnFfN3YtV3JTUW1IakhmcEtnZ2o3SVc5ZGxDbWQtTm1pN2FyMk9xSmFuakVYQ2R1bS1oaTdMbjZRV2FvYmlj0gFsQVVfeXFMUHdQZC1BeEN6UWhaS2hQU3BGMjJERmZqM2txczgyeTZQcWJ1THotT1E5STVIOWhseS1maHRzdV9YY3UwcGpYNjFXdHNUaExXekVEa3FCR3JlNjBvQ0w5dUlhT0VXa1E1YklqSEdj?oc=5",
+        "headline": "“AI 전력수요 폭증”…빅테크, 탄소제거·재생에너지 확보전",
+        "summary": "",
+        "source": "중소기업투데이",
+        "published": "08/23 14:05",
+        "published_ts": 1787461547.0,
+        "tag": null,
+        "first_seen": 1787480578.7706401
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2tKTkh3MUZzVENSeWZJc25SbG9YTjhvZXJ6azhPbWkyLWxULWoxNG1GSUpzQ3BrdDJ4cHZ2b2dpdk1XanRvVHJmZGhiOFdkWWpmYmFiQ2g5NDc0TW5hTFVDUTNfOGJyYmJWbTJWRFVJZHdQUHR2M3pIcnVtNkx5ejZ6d25HR0VIUmlWdkZyWFppVHBYdzlhSVc5cnFVV1ozZ3c?oc=5",
         "headline": "지난주 증시: VN-Index 급등, 등급 상향 조정 기대감으로 자본 유입 증가",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787301735.0,
         "tag": null,
         "first_seen": 1787303723.0328622
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9fSUJWTmMzQmpVRVFEOS1QNEF1SmhESWo4Ymk5QzV6VWlzdlY4S0VPS2NvUWw2Xy1MTWFNUF95ZFRoN1NGSzkzVmNQbmNudGxrSDRTMUVPTnVqVk5pWmRNM3RWX1IwR3pXLVp4U01MblPSAXRBVV95cUxNd3dJcVFMX2txQWtmTms5UGMxem5HRXVRZkVkT3VQX2UyOXNGVDduTThMU013UnptZFJMUVpfSGhxTEFxaFlHbzRabWhQbk5wSFlEenJ5REZhMHUxRkFXLWNZZGdQclNRRkNCX2NheFV6REZKbQ?oc=5",
-        "headline": "달러-원, 1,386.50원에 서울장 마감…작년 9월 17일 이후 최저",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/21 17:33",
-        "published_ts": 1787301189.0,
-        "tag": null,
-        "first_seen": 1787320841.1116505
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 19:15:47",
+  "updated_at": "2026-08-23 19:23:20",
   "yields": [
     {
       "label": "3년",
