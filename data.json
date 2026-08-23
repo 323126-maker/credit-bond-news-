@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TNWhMQ2xMZ2MyUXE1WUo5WnpkRkthVVozcjYxYkpCQ2JKcG9yWEUtT24yVTRwemN0cUVVTnMzeVNETzQwUFlSdExjV3VxZ0Ryb0s3dw?oc=5",
+        "headline": "Japan’s Debt-Service Costs to Hit Record ¥36.6 Trillion in Fiscal 2027",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "08/23 14:09",
+        "published_ts": 1787461752.0,
+        "tag": "JGB",
+        "first_seen": 1787462124.0966332
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aLWN3QmdkWVhGd20xbmFkdmFHZUlhZG56bldvVHBDMlRmd2U1Z2sxZzh4aWxEdFhxeXVucXlOUmo2eU95RG1KMXNpQ2ZWZVlaakctUFVFNW1ZZw?oc=5",
+        "headline": "\"이자·원금 갚는 데만 319조원\"…日 나랏빚 부담 역대 최대",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/23 14:03",
+        "published_ts": 1787461386.0,
+        "tag": "JGB",
+        "first_seen": 1787462124.0966332
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NOUxzU05zZG03akFja3FHNWVWTmxaM25rWnVXVkwwaE1PTTh6bzRib2d3ZHdDb1l1dWg3N25qbE5tLUlXejR1STlST3E4QkU?oc=5",
         "headline": "일본 국채비 36.6조엔 ‘역대 최대’…금리 상승, 재정 부담 가중",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787387153.0,
         "tag": "Strategist",
         "first_seen": 1787387431.9303951
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaWNBN0djRzd4MDQzQ3lIcWN6ejNMMUthXzNsSF9ZOWE2aHU2a2dlazNJTUZja2Y0cVVsVzlzbVpzNGlzbW1vUm5FNXNVYURMOGNfeEpUbDhSRndray1Kbm5jWjJmWl9Gal9TeVIyZ0NMdHZCVU0wNUwzQnl5MkN0QVVIbFlQUzU1dU5MVkMxUDdZU1NmaFQwWTNkRXpKZ0x5R1JKc1VyY1lIOXY5c1lrSDhZUS1CclBQZEI3M3JCb0Ixb3lHOE9lVm9JLXlCeDgzMF9JNUtHa1VCcUxobF8zclFmNGtiTWxlZWhj?oc=5",
-        "headline": "MRVL Stock Rises Premarket: Marvell Ships Over 5M Photonic Chips Ahead Of S&P 500 Entry",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "08/22 17:20",
-        "published_ts": 1787386847.0,
-        "tag": "Strategist",
-        "first_seen": 1787394994.907593
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNalVXMXFkOUJHNkpGTmRYRU1RdE9iZENiZFktb0l4aWZlbHM5NFBmTlc1ZUJDbkJaZTJJMzE1LTUxRHhQa3prLXAtSHZjSVl2SlFFeldBeWphS2ZpZjBtN2tUOWViTzVGOUtlLXl3enZabEZRUDJhN19CMnVVLTlZNDVKYU8zQUJXWmc?oc=5",
-        "headline": "Markets consider impact of U.S. Treasury decisions on yields, Mohamed A. El-Erian notes",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "08/22 17:20",
-        "published_ts": 1787386806.0,
-        "tag": "Strategist",
-        "first_seen": 1787400034.7703056
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 14:01:47",
+  "updated_at": "2026-08-23 14:15:49",
   "yields": [
     {
       "label": "3년",
