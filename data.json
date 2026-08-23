@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZWi1aRjNFRzJBMmJoTDAxZmtvSFJ4dzVlLU1HVHphQUphZGxUS2RKQWMwYXlmMjZIZ2syWEJROHlkU3l1RXV1QXlxRXNuRmNQeUotYnlxUTFJWlNfZ0FRRGwtZUdPeDJlUmkyalZIV2s3QTlz?oc=5",
+        "headline": "회사채 금리 연초 대비 1%p 급등…자금조달 비상",
+        "summary": "",
+        "source": "대한경제",
+        "published": "08/24 06:20",
+        "published_ts": 1787520036.0,
+        "tag": null,
+        "first_seen": 1787521530.520829
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRFp4ZnAxLUFiYlhHWi1KRlZUNHY4bVJ0YjI1LTdyN1MweXZRbkNDVjgycWdubk1VSlRxZGdCTUdZT3M4TEI4LTlZT05lTWhiTWdpaHFhLUJkeXMzcGNXX19TYU9nUV9MWVU0TUVuSFlfeDJleEEzQg?oc=5",
         "headline": "'제2의 실리콘밸리' 미국 리노에 대형 산불",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787319928.0,
         "tag": null,
         "first_seen": 1787390123.9379203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIQTdwMVg0MUhoaFZlMnNxSVBVbTVyRXRtSW5HVGJCZDdJblF5b1FYRlFPTUdCMHc1ZUNDVUV3U1A4Y19JYnNJd3dIMUFYOU4wRG5USTlR?oc=5",
-        "headline": "AI가 만든 채권 홍수, 금리가 다시 AI 때린다 [Deep Spot]",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "08/21 20:30",
-        "published_ts": 1787311800.0,
-        "tag": null,
-        "first_seen": 1787312725.902785
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdW1JNTZvSFlCc2c2S1RUb0tZNWhqbWdlRkF6SXJMZG9xWVRmeHJ3dkNIdFd5dEd6ODRuRTdOaDZ0NzhjQWJuR2pLazJtQjJRSVNqYTFZSTRFUzIyTjh0ZEJCV1BvUjhRNEp1UngwU2xLUnpYcldLU2JsOVZ6eXl4akFDWU16bnB5ZFhQcEFMdmoxd3NNUURLdzR3dmZrcDRLeWEwRlhuR2VVeVJwV2c4N2RQcWhrVElLNkJzekxkVDFYZVl6bHc?oc=5",
+        "headline": "Week Ahead for FX, Bonds: Warsh Speech at Jackson Hole, U.S. PCE Data in Focus",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/24 06:38",
+        "published_ts": 1787521081.0,
+        "tag": "Fed",
+        "first_seen": 1787521530.520829
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5MOHZLSkNqN2RlWVBOYnZYNy1LQ0g2R3RYN3E0dU8zRWpZZlhvNjhUMHMyLXd1TV9UMHlZOXBsSUE5cXFUUVYxU2ZJRjZGYkRMbjd6bTlFUXFJRVJZRF9CVTM5VHZ5bkNRT3JzeGRzQ3VmTnRZcE5BVg?oc=5",
         "headline": "[미리보는 증시재료] 美 엔비디아·韓 금통위 '촉각'…코스피 향방 좌우",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "bloomingbit",
         "published": "08/23 14:09",
         "published_ts": 1787461752.0,
-        "tag": "JGB",
-        "first_seen": 1787462124.0966332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aLWN3QmdkWVhGd20xbmFkdmFHZUlhZG56bldvVHBDMlRmd2U1Z2sxZzh4aWxEdFhxeXVucXlOUmo2eU95RG1KMXNpQ2ZWZVlaakctUFVFNW1ZZw?oc=5",
-        "headline": "\"이자·원금 갚는 데만 319조원\"…日 나랏빚 부담 역대 최대",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/23 14:03",
-        "published_ts": 1787461386.0,
         "tag": "JGB",
         "first_seen": 1787462124.0966332
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 06:35:05",
+  "updated_at": "2026-08-24 06:45:51",
   "yields": [
     {
       "label": "3년",
