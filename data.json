@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNWF5czc4TG03RzVGNzVVaWljdndhVk16SmlwRDRoeHhvM2dHb0gtdEZKSS1uNGUxTkFjbW51OTNRdXhGWWRhMmVTRkFnLVdkYV9KdllTU1NadGJqbDhQc0NrU0FvdXV5RVJ2NmpEa3FoSVZoYjRxZUpVZzVMdWlYOW1GaEJLTWszbnNEODBkakk0czQtQ3BWTUx5SGVOcUZuWlp1Nm9B?oc=5",
+        "headline": "The Three Minds Leading the Fed’s Inflation Rethink",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/24 00:50",
+        "published_ts": 1787500236.0,
+        "tag": "Fed",
+        "first_seen": 1787500494.8416185
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNR3NyekdFMVhSSlNMbWpFWVJCQ0ViLXVwallqTU9nOFJjNG9ra20xNHVZMWFKRHJJX3ZSZ2xwN0hrMjZjRk0tamhfOVZpVlMzSkxTV1VHaXFtRHo3eEJOVF9ONDRHOVZlai1fbEJxd3Z6bS16S2hNN0tjbFFFb05uMEVIWnN5QTZtMGJvQw?oc=5",
         "headline": "Economic Growth or a Debt Warning? for OANDA:XAUUSD by forexcitypro_leemeenal",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787436000.0,
         "tag": "Fed",
         "first_seen": 1787471073.065439
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9URm1kV2swX2VMVUI0UVI0ejlVdDBteC1uXzNCdm1jTXdQS3daODB3RDBQTmlNa2VkX0tRcGgyMlJLZUdDSEFQRWV2WVc2S2tuTWFSNVZuZ19ZQkVwSVNCaFFVSmJTaTVPdEd1R1UxOUM4RU9C0gF0QVVfeXFMT1RGbWRXazBfZUxVQjRRUjR6OVV0MG14LW5fM0J2bWNNd1BLd1o4MHdEMFBOaU1rZWRfS1FwaDIyUktlR0NIQVBFZXZZVzZLa25NYVI1Vm5nX1lCRXBJU0JoUVVKYlNpNU90R3VHVTE5QzhFT0I?oc=5",
-        "headline": "미 국채금리 상승 ‘나비효과’…모기지부터 주식까지 압박",
-        "summary": "",
-        "source": "thefairnews.co.kr",
-        "published": "08/23 06:49",
-        "published_ts": 1787435385.0,
-        "tag": "JGB",
-        "first_seen": 1787439882.9150004
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 00:45:46",
+  "updated_at": "2026-08-24 00:55:18",
   "yields": [
     {
       "label": "3년",
