@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4yYVlCWEpVZ0JxdzlkYUszNzBOMHlOUFlJeks5UEdLLS1BWjBxbVBRUkhpUkh4bzlfMkVmX0JxYXVQZHZnMEZ6VE8tUDlobk1VeGg4?oc=5",
+        "headline": "日 금리 상승에 재정 부담 눈덩이…국채비 36조엔 '사상 최대'",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/23 15:17",
+        "published_ts": 1787465820.0,
+        "tag": "JGB",
+        "first_seen": 1787467525.5393436
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9welllRVU2Y3E4T2IwSEQyT0tVekduUVlFOWQ3WnpOamtveE1qUVFEcEF1aXZkQ3VZWmpnOFFhRy1IV3M5OUx5M2VDV2k0NEU?oc=5",
         "headline": "돌아온 확장재정 계산서…日 국채 원리금 부담 17% 급증 ‘사상 최대’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787391612.0,
         "tag": "Strategist",
         "first_seen": 1787391923.1138628
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
-        "headline": "Fed holds interest rates steady as inflation hits 3-year high",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "08/22 18:00",
-        "published_ts": 1787389209.0,
-        "tag": "Fed",
-        "first_seen": 1787452709.0173857
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 15:30:51",
+  "updated_at": "2026-08-23 15:45:51",
   "yields": [
     {
       "label": "3년",
