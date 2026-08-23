@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q0FVbW42VnVwN183clNCcjd0U05HREdyak1mTHhzbk9ZRVdXRWpWNjAwdkJXUGlxX3oyRTR3N3BCa3lUYXV4RFhuci0xWDZFRXNnbWF4U1FvTFRwczJIMG00dUZTMUJPdVQ40gFwQVVfeXFMTkQ2WXNJaU4yVGtodEZPQ1g3TnRaS2pZNFVYMzZmSGRDUzdSU0F0OEZpbnA2OUZVaXJfYnNGZlhpbjBSZWdxcVdWeDFVRW5MZzIyNlFGdFpQMW5LRm5VOF9hbkoxVzRDNFNVVXUzaHVOUA?oc=5",
+        "headline": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "08/23 10:00",
+        "published_ts": 1787446800.0,
+        "tag": null,
+        "first_seen": 1787447722.4201434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBxd2tDMmVPQlJHQTlnT3NlTEpPeDNNTUFjQ1lXMWtLS2FjeWxGSkxLVlNKZW5XRGJpZVNlZ0NSVFZxd3JYQWs1R05nQmZCZXRKUEFPYUtEY1dIZldVMm5mWVdyU1VDdHRGOThXT0FrQ1NIUQ?oc=5",
         "headline": "'적자성 채무' 1천조인데 추가세수로 미래 투자…재정건전성 논란 재점화",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1787130489.0,
         "tag": null,
         "first_seen": 1787180438.339778
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VRjJqaEc5dmlGWUpudTFaYXVibVZmT0hmQTNwc1pSQmgtQTlHYWdYaXdyMHdlOVlmYVZHRVN2NTFQYm1HQlAxckNpWVFsNGp2X2VkNS0xUDQteG5QdG1zcXh30gFnQVVfeXFMT3JwNTNOTzB1N1Y3cUpsdVp2dkZnMktFYlRVa01EVXZpWXdrY1Vxc1IwRU0zSUU2WnlpemZrbXZQZzlRTlQwMENFd1d3Yl9UQUJScTF5VkY4QWZuTkVDR2RtUlVZeWdvdw?oc=5",
-        "headline": "美·日 '장기금리 쇼크' 한국 덮친다…주담대 금리 또 뛰나",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "08/19 15:21",
-        "published_ts": 1787120470.0,
-        "tag": null,
-        "first_seen": 1787121040.4681807
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYll0dklzemNUWHU3WThEYk1aZVl1cHFvSVNETjhvcHhraXlpMU02UTk2aW5zSU9kOTdzYXhuTWdfcXZaYi1vS0tZWGozdVBCQW9XTjFJZDVWOUg5RHZWMGhCaFhGcFZxRWMyTHE4U1JhdGR1anpzNFJJSGMwdnpOZkRWcENMN1RHQXJZVjF3?oc=5",
+        "headline": "내년 예산 `800조+α`에 구조조정도 `사상 최대` 50조원대 단행",
+        "summary": "",
+        "source": "국제신문",
+        "published": "08/23 10:08",
+        "published_ts": 1787447280.0,
+        "tag": null,
+        "first_seen": 1787447722.4201434
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB1LW11UmhBcE45S1NEdUNoaHF0dHlDMGRqOTdwREQ3RlVHNkdzai1JT0xfTDJCbFpCTUlFLVAwVlFHcVUzSXBoMHByRTVOUlJPU0t5aUs0ZzM5NHJqenN3RVZuUHprV0lid2FqeDk3S1FGVkNIN3Zz?oc=5",
         "headline": "베센트 ‘풋’에도 꿈쩍 않는 美 국채…트럼프 “궁극적 개입은 미군” 돌출 발언",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787013890.0,
         "tag": null,
         "first_seen": 1787017659.933117
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GNUh4V3hwVnJRcVcwSEFXeG9LYWFkRV9uU3lXOHUwMVFCQTU0UzNBdGRfR3lGZk4wTUdKbzZuTElFNktHcDNqZVp1Zkt5czN2QnRj?oc=5",
-        "headline": "박찬대, 시도지사 수장 올라…이재명·김민석과 '케미' 주목",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/18 09:17",
-        "published_ts": 1787012220.0,
-        "tag": null,
-        "first_seen": 1787015724.5410337
       }
     ],
     "global_bond": [
@@ -2062,6 +2062,16 @@
         "first_seen": 1787294726.0241635
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4waWNyc0c3XzlBcGF2czgzN2RWM0FKX1FGVU5mYWdFX0U4UWlFMG1xZWQ1QzBmejNUVFA0S0ZrbXJJdVloc1dURGJqci1lNDNydEpaMDRZbTVzMGhvVGV0a3JrUTlGdFJvUmc1MG54WQ?oc=5",
+        "headline": "해운기업 부실징후 데이터로 읽는다…Sh수협은행, ‘CDM’ 신용진단 공유",
+        "summary": "",
+        "source": "이코노미사이언스",
+        "published": "08/21 13:43",
+        "published_ts": 1787287401.0,
+        "tag": "수협은행",
+        "first_seen": 1787447722.4201434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5hQTE4TmZQcF8tN005a05oOWpER0FlU3Z6emE2WHRjeGVYazJJbU04X041Q2t2MnQzZHJ0XzYtNEJHN251ajdKM2pZRGRBajVkR0ltLVBKUFdjb2oyYW83TXhzVzlNNjZWbjFSU193RQ?oc=5",
         "headline": "‘외국계 무덤’서 ‘기회의 땅’으로… K금융, 인도네시아 다시 본다",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1787103693.0,
         "tag": "현대카드",
         "first_seen": 1787104837.418463
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBMd1JjaEd1NEt0eDczTDRDYkJOM0xmb0t4c2tzNURieUl5cnNzc0g3Zk84eVRyclUtWFpaTUhVR1M2T2hLanc0Sm4yTGtlZTgzbTFsZzV3?oc=5",
-        "headline": "올리브영 1만원 결제하면 2000원 적립…현대카드 업계 최고 수준 제시",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "08/19 10:33",
-        "published_ts": 1787103203.0,
-        "tag": "현대카드",
-        "first_seen": 1787103923.0997474
       }
     ]
   },
-  "updated_at": "2026-08-23 10:01:05",
+  "updated_at": "2026-08-23 10:15:46",
   "yields": [
     {
       "label": "3년",
