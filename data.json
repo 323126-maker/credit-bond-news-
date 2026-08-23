@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBDRFp4ZnAxLUFiYlhHWi1KRlZUNHY4bVJ0YjI1LTdyN1MweXZRbkNDVjgycWdubk1VSlRxZGdCTUdZT3M4TEI4LTlZT05lTWhiTWdpaHFhLUJkeXMzcGNXX19TYU9nUV9MWVU0TUVuSFlfeDJleEEzQg?oc=5",
+        "headline": "'제2의 실리콘밸리' 미국 리노에 대형 산불",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/24 06:18",
+        "published_ts": 1787519880.0,
+        "tag": null,
+        "first_seen": 1787520631.556916
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwLUJxTWNjMGZuZHktc0E3YVZjMC1GbjcwNjZZLTBHeHJJRjhOSy1Ub2xHdndOTG5LTHlWS3MycnVvcEowVmQzRHV3elBQcjI3Zms3M2RxU2g0aEdI?oc=5",
         "headline": "타이거자산운용 지분 12%까지 늘렸지만…한신공영이 여유로운 이유",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787311800.0,
         "tag": null,
         "first_seen": 1787312725.902785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rUjY2TTktWlFsSjBrUmQ3d0ZGMEVDZFBoLXE3WXdaMlp6QURaOHNNSnZyY2d6Q0R1YUNaZFZReE5XOGNlNU1OQ05qSTNMM2ZlbXdJTXdmV0s2eXRyeU50QlZVUE04aGNmY1VlVm5vRjNtWTA?oc=5",
-        "headline": "“AI 쏠림 막아라”…대체투자 '강제 분산' 전략 뜬다",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/21 19:48",
-        "published_ts": 1787309284.0,
-        "tag": null,
-        "first_seen": 1787374836.3430576
       }
     ],
     "perpetual": [
@@ -432,6 +432,16 @@
         "published_ts": 1787301926.0,
         "tag": null,
         "first_seen": 1787308233.405845
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lRm9Iem9HeFJ1d1ZNN1ZNYVp0RTBBX3gyOVdoSk1IOUhPOXV3dzA2VndFbVBka1FPRXVyenV3LUZsYThqNk1KbUM4dlBYRDd0M1djM2V3ZGllZ2t1SXh5QjAxQU5ZMndJQ01PTdIBcEFVX3lxTE9MVzdtcElzc0RVcWtXd2ZQOVRta3lCN05wdnZCWTcxd1NKX1EzWE1hY3FyVFZfM3lJeE9wNEUxX3FpcEZSajRKSkttbm5JSlc3R0w4OFY2dndwSE52V2V0TjVla1JwVlluZUNXRERxVWo?oc=5",
+        "headline": "해약준비금 엎친 데 콜옵션 덮친 교보생명, 기본자본 ‘속앓이’",
+        "summary": "",
+        "source": "DFT 대한금융신문",
+        "published": "08/21 17:31",
+        "published_ts": 1787301060.0,
+        "tag": null,
+        "first_seen": 1787520631.556916
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZZ3B6SGFyODFjamtyWnpfcVhuWTBsemlFR3RvZ21ISXk5Xzh4akczN1p3MHQxUWdfeFdSRnFNMENZeDZwWlYzaVZIc1hMQ2l2dnRYSmtB0gFbQVVfeXFMT0xuZTVkdWYwWHgyY0tqem9oRUZkTVkzTGdCbHlDZ2NVcFFNaHByMjNQTHAya1pjaXlGYkdTay1rUTh0RzFMemUwTTM5azVFc0tydXJDeUs3TmpZMA?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1787040600.0,
         "tag": null,
         "first_seen": 1787082234.7799828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0tTUNPV0NzODhHWFhEam41aTdMQk81QUFtS0JucFNNRGIwX3BkX2NhMTZvelZKOFVBamRHMi14OEV2cGRVUXdjdGI2amtLX2ZFd1ZUWHo2NVZXNGNJVktkV0VRRU0zZGZR?oc=5",
-        "headline": "HLB글로벌, 전환사채 납입 방식은?",
-        "summary": "",
-        "source": "CBC뉴스",
-        "published": "08/18 16:53",
-        "published_ts": 1787039614.0,
-        "tag": null,
-        "first_seen": 1787058925.0683064
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 06:15:49",
+  "updated_at": "2026-08-24 06:30:54",
   "yields": [
     {
       "label": "3년",
