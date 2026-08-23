@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GRG1iWkF5d0YyOTB2MnUyR1FSeFZ4eW9PdFZUNWtwWUxNQm5ERi0xX294Y0NlMlRteWg2WHhsRW5vM0pxMkswRDVZdGlmQ1RfdDUySUx1YVI?oc=5",
+        "headline": "달러 약세로 웃은 비트코인…다음 복병은 ‘엔화 강세’",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/24 05:58",
+        "published_ts": 1787518680.0,
+        "tag": "JGB",
+        "first_seen": 1787518835.9859502
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaYWVfYnUxUFFlM1pIVTRTbEQ4cGtRWnJ0NkVYVHZsejNjNkZqeldoRVhnVktUMlU1ajZnVk5kU0tKSHZ2bl84b1hhb1Y0aW5sOEVN?oc=5",
         "headline": "미국·일본은 금리 치솟는데 … 중국 금리가 떨어지는 이유",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787455860.0,
         "tag": "JGB",
         "first_seen": 1787456100.932169
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZm9GQnA4YkhYY0RVTEZ4cjUxQzFPUzFDek9vUlRYR3BtZ01qcGRManhzd2tlM2xNSXlWOE14RU40N183V1pPLVlsRDhqZDMyYVBLRE5xWDBWTFR0SWNtbjZMRkNQZnBkOFNjeHFBLVlTNUV3cHVpaWM2Z25JNEtIV00xdnRjclI0YWxWeFRlcmVGMTA3ZWhuZ1Z0eEo5c1BhRnNqbHRzcUR1VTFoRzBpLTJmUnF1TlZJdWFwWGUtTVVZQzkwUGNvX2xaT1NiLTg?oc=5",
-        "headline": "Nikkei 225 Plunges 3.16% Closing at 65,326.42 as Bond Market Storm Batters Japanese Tech Stocks",
-        "summary": "",
-        "source": "BBN Times",
-        "published": "08/23 12:27",
-        "published_ts": 1787455673.0,
-        "tag": "JGB",
-        "first_seen": 1787455832.2912223
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 05:49:23",
+  "updated_at": "2026-08-24 06:01:01",
   "yields": [
     {
       "label": "3년",
