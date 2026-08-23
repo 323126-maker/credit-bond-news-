@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1wSTQzV2pzYnI4ellEWjBkOFljMkJuemMyQl9CdFozSFI3MnpmYk0wNGtVWkI5UmxJQUhNcXJxcW9RemQ2bXVBM0YyRFFxSnd2Z2VB?oc=5",
+        "headline": "미국보다 일본 국채 금리가 더 중요하다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/23 19:00",
+        "published_ts": 1787479200.0,
+        "tag": "JGB",
+        "first_seen": 1787480127.0617244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVVZsdHEzV0lpNVdzdGUyT2RrRUV3Mk02R0gxeVgxVlFmNlZ1ZDRwZGJWb0ZYUWh5bXpvY2J2dHRhNjJWVnNSSHpHYU1UaDlHNlZlRmJXZzZ5OFRZTFBNTkljQW9zS0FuSVlQNmpqelUyNEhyNXRTZllkTnJwMWtkbw?oc=5",
         "headline": "Rising Treasury Yields Stock Market Impact: August 2026 Investment Guide",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787402835.0,
         "tag": "Global",
         "first_seen": 1787403431.5028224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZUpxUVJacE5sSnlPczFGUENFLU5zZmUwcU9WV04xS2hibG1zWDdvWlU0SVFyNmxmYi04TmFSRW1RTjZNaDF4UktCbkFXUlh3bU54TDhKamhxUXdNZkY3LVpRUHNMTWpacmJEeDd3WEtoU1EzejRCRGUzZXVfYllFc2xRN0Z5MkFaX2NlZ1NzRDdUejloMzhxa3JadVliUURfTkpMMXpSRG82aFJzRmFwd1B3M3FORk1ac3AzSldkbXdxelpxbU9hY3VyWVJ5X1M4bFBYSk02UFTSAd4BQVVfeXFMUC1fdk9YYjAtY3EyMkJsRnRoR2FoRDZZZTFGMnI3SGdyTXRWYllTN3lQVjNDTVlfbWZIZW9mZFJhQTZkNTNFTmxOLVdUb1ZCcURkVzJjS0w5U3JhcVVCeGVheGMzUzFURUpwMzE1aFFIREZHU1R5UTNaQlRNOG41SVBFN19HWThPcE9rZFdjX1BmMjFiNk1Pc29fNmp0TThSTDdkM2R0QTRWNHBIZmlTbk42LV9pdkdOWDhkOVVHSkJOTTQ0NWpFUWpIaWcyclB2QWxZWmFycFY2aEtnNk93?oc=5",
-        "headline": "Sebi proposes tighter curbs on promotional claims by online bond platforms",
-        "summary": "",
-        "source": "Business Standard",
-        "published": "08/22 21:44",
-        "published_ts": 1787402661.0,
-        "tag": "Global",
-        "first_seen": 1787404528.3571146
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 19:08:41",
+  "updated_at": "2026-08-23 19:15:47",
   "yields": [
     {
       "label": "3년",
