@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9NOUxzU05zZG03akFja3FHNWVWTmxaM25rWnVXVkwwaE1PTTh6bzRib2d3ZHdDb1l1dWg3N25qbE5tLUlXejR1STlST3E4QkU?oc=5",
+        "headline": "일본 국채비 36.6조엔 ‘역대 최대’…금리 상승, 재정 부담 가중",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/23 13:06",
+        "published_ts": 1787457969.0,
+        "tag": "JGB",
+        "first_seen": 1787458526.7491066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE40TzRFOEpVMldudmVyNWNmclNkVFhBTWQ1M1owU19lOExaQU9vWG1NLWVKS3pQTFdKTWdJWEFuaU5DUHVMOFZGdEd1aHNJYzg0dDQwdDEzcTRaM09WMWJmcGF3WGhjZEFMTmIwSjVNRzlKWVZNeTI2LQ?oc=5",
         "headline": "日확장재정 '부메랑'…내년 나랏빚 원리금 부담 17% '껑충'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787386806.0,
         "tag": "Strategist",
         "first_seen": 1787400034.7703056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yM09nSDNPVUxCWGNSTEl4aUM4T3JQbVFIYXFZN3U2SDgyWEVNRHVhRExpVlR5bktYTHdMNms5d0NhcC1XdC14REdGLWJkVlBFakE1ek1WN1ZEd2xvalNoMDhnemdRVHF6Qy1Xekdn?oc=5",
-        "headline": "More Ways to Buy Bonds, Fewer Ways to Oversell Them: Inside SEBI's Twin Bond Proposals",
-        "summary": "",
-        "source": "NiftyTrader",
-        "published": "08/22 16:54",
-        "published_ts": 1787385292.0,
-        "tag": "Global",
-        "first_seen": 1787395527.3171062
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 13:00:56",
+  "updated_at": "2026-08-23 13:15:50",
   "yields": [
     {
       "label": "3년",
