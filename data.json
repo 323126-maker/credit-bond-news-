@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VbjFoQVZlcjdrVW1BMm53b2JvLXdjdV9MaG1SbFo3T2tfNkNwcEo0ck5SSEF0b0hJQVM3ZGpaZEl5ZzJMTUtTWWF0clRCU3pOMHlrUk1DUFpIQdIBWEFVX3lxTE05aFF0ZnlZZkJrQTdBZzBjMVVfbzFrZFZmb1RKcjdsQkd0a19iZHpUbnpqV0NxQjZpdmpsTktYLWxKX0tDaVFEMmp2emNmNVNfeG9uckgyYkk?oc=5",
+        "headline": "[긴축의 서막] 국채금리 뛰는데 기준금리까지…금리 상승 악순환 우려",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/23 17:00",
+        "published_ts": 1787472000.0,
+        "tag": null,
+        "first_seen": 1787472924.6091487
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9oOE5hTWdXVEtCVFZONUZOWWhYWXBEeG1sWHlHRldXbXV2YWI4Smw1WGdMOXNvTXcxU2JQZFBkSElROHNKUXVkcWo5WHh0dUVFSjQ4ZzRzbHphQ3ZxMUE?oc=5",
         "headline": "이번 주 주식 시장 전망...기준 금리 인상 가능성은?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787184599.0,
         "tag": null,
         "first_seen": 1787189431.5530174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80ZWZzWWJ6cFRVbU4yLV9XdENmX3BieWs1VmNOTDE5cXktbG9nVGkySHA3NDV0bGVDMHRKbzlGMGdGaEZzLTdHWlB3cTJxWWNHcTdsVVNkSGJyUm5iMTFFV0FfdGpfTVFBbW9fMmxvMUN3M0xqakE?oc=5",
-        "headline": "[0820주요일정] 이노스페이스, 다목적 준궤도 로켓 '세빛' 첫 시험비행 등",
-        "summary": "",
-        "source": "인포스탁데일리",
-        "published": "08/20 06:00",
-        "published_ts": 1787173200.0,
-        "tag": null,
-        "first_seen": 1787173951.762323
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 17:11:46",
+  "updated_at": "2026-08-23 17:15:45",
   "yields": [
     {
       "label": "3년",
