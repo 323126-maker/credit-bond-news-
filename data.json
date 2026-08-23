@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3WUkzSTJrWTFneWdCM190Q19tY3ltMXBRSE5ybFpJdHJTSUdjcjFiM0ZiaXZ5eGNCMWs1RWttd2ZfVExHLXY0dk9kSm1SS3kxZjlXaXhRYm1nSmdvcEh4MVpSTV8?oc=5",
+        "headline": "美국채금리 급등 못 잡은 베선트…\"채권시장에 교육당해\"",
+        "summary": "",
+        "source": "서울경제TV",
+        "published": "08/23 11:08",
+        "published_ts": 1787450887.0,
+        "tag": null,
+        "first_seen": 1787452235.2794158
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmlwT0NJZGw4Q0JlZTRXQkdqbGVwcDdpRkdNY0o5VlIxU1JfdC02b1d3Y01QTWZKaVpQMDVlazhkMjhjUzgzRllsTURqUzl6aTlrTFEwVTV0d0ZnMl9pTWpvU0o4Yk9CV1l3ZlM5UUs5NHZoRGZPSHVwM001cS01WllPRFRaNzYz?oc=5",
         "headline": "AI 채권, 7% 돌파…정크본드 자금 몰리며 시장 왜곡",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787298000.0,
         "tag": null,
         "first_seen": 1787298323.1279547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZVVnNDhjZkRXSmstNjh3V2M4cnEwVWFINXdReG9BUHdDLXlwbC1UMjVuZDZvTjdtMTVYemdXUkQ4U0tyZU9vam5BTjB2dGFSVVdR?oc=5",
-        "headline": "[어바웃 포스코] 장인화式 자본효율 성과 속 '재무·신용도' 부담 가중",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/21 16:25",
-        "published_ts": 1787297108.0,
-        "tag": null,
-        "first_seen": 1787297433.1539946
       }
     ],
     "perpetual": [
@@ -1990,6 +1990,16 @@
         "first_seen": 1787373923.0342886
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rb0NmbUVuZXhGVk1nbFN0RndCenhRVzVJVVJ1dVB2bjJ3MHBHdmRQSkFocHV5RHhueEdEZUNWS3ByOWV0Z3I4ZE5WNkhlX0hXMTBTMkhtX0E3RW5QdTNhdGh6cV9nb01Zc1JtbGJrOA?oc=5",
+        "headline": "Treasury Yields Rising August 2026: Investor Guide to Bond Market",
+        "summary": "",
+        "source": "Intellectia AI",
+        "published": "08/22 13:15",
+        "published_ts": 1787372152.0,
+        "tag": "Fed",
+        "first_seen": 1787452235.2794158
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeFQ4dUt1a0p3TGlFdXVRM2hxZ1Vpa2htZUlXWWtDV0RfVXRNYVpJdUJiZ2hnWjFodFZMZzhjM0RWQ3NMcjVpZENNQVFyQ2JrOTdNOGpJVl9EeUoyYWV4cmROQTF2VFBxZXpBbHo4RlRkLVg3N091UUl2QUxQNUYxZUFQN09RaGdoWVRMXzVYdkR2X0o2Rjhub2FlUlctaElSTVhHNHhoV3hDeHNhSVE?oc=5",
         "headline": "Why the bond market is flexing its muscles, and why everyone needs to care",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787371799.0,
         "tag": "JGB",
         "first_seen": 1787372126.9807358
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3aW1Sb08wb3lxNjl5d1l3SDQ4blRlX0x2WmFFXzVuU2xsV3ZrZWN3YWtTYkJaVHJWVmh1V1AwakstNlNkal9QcW00d1AzR2dEZk9R?oc=5",
-        "headline": "엔화 강세에 커지는 '엔캐리 청산' 경계…국내 증시 변동성 촉각",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/22 13:08",
-        "published_ts": 1787371680.0,
-        "tag": "JGB",
-        "first_seen": 1787373031.517898
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 11:15:48",
+  "updated_at": "2026-08-23 11:30:58",
   "yields": [
     {
       "label": "3년",
