@@ -936,6 +936,16 @@
         "first_seen": 1787478324.8514695
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzdk1vMjU5YzFiRDlfMmI0SnIyMFdfcmR6aHBZb3VBYi0yZEV1a1VvNTFDQkxxajZwVHpkenNPVGZpbThrOXdUMHRmdGt4YklwWFdn?oc=5",
+        "headline": "[크레딧 시그널] 치솟는 국고채 금리에 회사채도 바짝 긴장…냉랭한 투심",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/21 19:44",
+        "published_ts": 1787309040.0,
+        "tag": null,
+        "first_seen": 1787529269.8343484
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9BZkVDWjRyVEgyUDRKcXp5SW1PWWR1ODQ2MXE5OVdWRmZVODRPQlowYlpGVXNaZkJnSnJQMUprM0xNVmwxaGFjRHd1ME9DNDRmWlE4QUNoX2hCYzlDRGIyazhBeXh6SGhRT015VG81ZVR0QQ?oc=5",
         "headline": "[채권마감] 베어스팁 20년금리 15년4개월 최고…미국채 약세+금통위·입찰 부담",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787208180.0,
         "tag": null,
         "first_seen": 1787208327.0903096
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8xMkhzdFlXVVBFeTBpUXo1N1BqSDBKeDEwdDFGYXZUV21IVWszZkZGNFFLNEU5S0dGOXRSUnpLbVdaQVpVMF9kTW9Hd2Npc1VBZ25uQ2NIX3VIaGp6SnkwbWVJWndBcFFWMjhCbVlmMA?oc=5",
-        "headline": "미국이 국채 사들이자 금리 ‘뚝’…내 대출이자도 내려갈까",
-        "summary": "",
-        "source": "진일보",
-        "published": "08/20 11:40",
-        "published_ts": 1787193600.0,
-        "tag": null,
-        "first_seen": 1787247928.8958054
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tSUE5aVdsSzZDUTZPcnFYckc1cWs2SmFrT0dsUXpYODFHU2VHVXdLZDhVbU1OVnJSM19ubmcwN2ZXZ0FiSkZQYWRkdUhuNWVLeU5mMFYxdmtuTUtrMnBhdU12UGJKM1NxRzh4c2FWdzJUdXE5VWpj?oc=5",
+        "headline": "＂미국 부채 위험 수위＂…레이 달리오 ＂3년 내 부채 위기＂ 경고 [ 글로벌 IB리포트 ]",
+        "summary": "",
+        "source": "한국경제TV",
+        "published": "08/24 08:39",
+        "published_ts": 1787528340.0,
+        "tag": "Strategist",
+        "first_seen": 1787529269.8343484
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmRURnN5bThsN0RFaW9xc2k2SFotU2RQanduQnlUV2hYTURubG5jTlhZQ3RJSGxSWXl1Zi0xOThma3RrMHZ6a3k1YWJoWV9RUkFBOEYyS2U0Qm9mNV9tTk5OVWIzdWdOUmNRb1FlUVc1Q0drZFkxeEhyVnBIRVRSR3RIRnpDOVprb09JdG1hSHZZeHZRVkh0TnlMcHh5NDByMzNkV3JkUXFFSkoycnc?oc=5",
         "headline": "The AI Debt Boom Is Helping Push Everyone’s Cost of Capital Higher",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787472652.0,
         "tag": "Global",
         "first_seen": 1787474722.2672312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95R0ZmN0Y4MzdfSEZEOXBvaVFSeWtrYVd0c2ZxNFNQaTh3UFprMWxCLVRWT1U2dUl0M0k0RGRhM1licHJhcDZWd01seG9yVl85OXZvaQ?oc=5",
-        "headline": "Japan’s Debt Burden Deepens as Yields Rise Despite World’s Highest Debt Load",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "08/23 17:07",
-        "published_ts": 1787472440.0,
-        "tag": "Global",
-        "first_seen": 1787494526.2602558
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 08:45:44",
+  "updated_at": "2026-08-24 08:54:53",
   "yields": [
     {
       "label": "3년",
