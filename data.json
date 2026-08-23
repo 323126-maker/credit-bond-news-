@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmlwT0NJZGw4Q0JlZTRXQkdqbGVwcDdpRkdNY0o5VlIxU1JfdC02b1d3Y01QTWZKaVpQMDVlazhkMjhjUzgzRllsTURqUzl6aTlrTFEwVTV0d0ZnMl9pTWpvU0o4Yk9CV1l3ZlM5UUs5NHZoRGZPSHVwM001cS01WllPRFRaNzYz?oc=5",
+        "headline": "AI 채권, 7% 돌파…정크본드 자금 몰리며 시장 왜곡",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/23 09:47",
+        "published_ts": 1787446056.0,
+        "tag": null,
+        "first_seen": 1787446838.3430235
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WWM0QVlmeUh2YmN4ZUFDdVE1THBkeVI4ZHJrcEZTeHFwQ1c3bkRvbnBwWFc1enFrVjFCZHNWZklHd0FiamkzUkw5YWVkeU0tYW1J0gFYQVVfeXFMTXhOUGdUUXgtTTV2dm5aYkxYOWFnMEktSUEta1dvbkI0cnVpQ0ExclJJOFBIQThpRWtvakg1Z1daUzEtNlZYT2piZ0Rpb0o5cXBpSVRueHVvYQ?oc=5",
+        "headline": "연 7% 줘도 안 산다…BBB급 회사채 시장 '꽁꽁'",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "08/23 09:40",
+        "published_ts": 1787445600.0,
+        "tag": null,
+        "first_seen": 1787446838.3430235
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14VEotajRiV19kV19IWGdzbXFpRklSTzNGLUVGN1Axc3BCVGRMYVZvZHdWZGhIVlB4cTdjUGt0a01VdkU1ZlVmUHpkWEdRamk0NmJKcGxTa0ljR2o2MGNHZmdxR09zWjM3aWZqZA?oc=5",
         "headline": "BBB급 회사채 시장 '찬바람'…올해 공모채 발행사 10곳뿐",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787297108.0,
         "tag": null,
         "first_seen": 1787297433.1539946
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0VEJjN3NoellWbnJIZGc0Z3BJRXRQZUZ4ZmZuT20xVFBlYnBTLWVNMzk5azJtMVVlX285dGVzWi1VLXVjQkc5WENEa29aaUpfWlMtOWdicWJUVDBsOXVlLWtPNUZPTWtyWW5qdmFJb2s?oc=5",
-        "headline": "유럽 증시, 유가·채권 압박에 7월 이후 최악의 한 주 마감",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/21 16:12",
-        "published_ts": 1787296320.0,
-        "tag": null,
-        "first_seen": 1787297433.1539946
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kTmFiOVJFS1ZJM2tZZFk4bU8wV1Y1UU0tdXE2ZGhxb0hTMU16Uk5iZWxRMjhQV1JUX3NvMFZhbFdYcHhyWVg4Z2UzZGhRZzBFNXFsd0RnUmJnY1lBYUJwSzJEQWdlOG15?oc=5",
-        "headline": "경남 호우 피해 수협 긴급 금융지원 신청 방법은? 500억 규모 대출 및 상환유예 총정리",
-        "summary": "",
-        "source": "창업일보",
-        "published": "08/21 15:45",
-        "published_ts": 1787294757.0,
-        "tag": null,
-        "first_seen": 1787295637.2485068
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 09:45:57",
+  "updated_at": "2026-08-23 10:01:05",
   "yields": [
     {
       "label": "3년",
