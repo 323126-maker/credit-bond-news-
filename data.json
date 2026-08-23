@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pekJZUXdfdXEzTXB4bzh5LURYdW1qSFpTcUdGVUFNdmJscXREVS1RX0xjeVMxcWdESThGOU1FOUhRWmpWZXZfUEltRVJ6ejJDTkVB?oc=5",
+        "headline": "원·달러 NDF 0.55원 하락…미국 금리 상승 vs 중동 불안",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/24 07:31",
+        "published_ts": 1787524269.0,
+        "tag": null,
+        "first_seen": 1787525123.519994
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81cWZlRWR5eDJ6bmF3WHhvZWVrNWdpMm5TREZPQXZtd192S0NYdlNxY0puR3ZuamJlbDFhRmVvRjhyNk5Fa1dJdGpuTlVUTTIwSDNDTXhhNA?oc=5",
         "headline": "글로벌 금리 천장론 ‘솔솔’…채권, 지금 담아도 될까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787342460.0,
         "tag": null,
         "first_seen": 1787343326.3169549
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qWWhEcUZia2pGbkJYMXhqSmZ6YkFuTFBRcS1JOUxYV3FGRzNLNFpXaFFRN24tdTMwOFBtRXVGemNJbV9KUDhOcDFZeHFnbzFlWjJSX0wwdFNwc3lndWJVc29jcEpCWk5ZRmFxQ3JnNFXSAXRBVV95cUxORDByWllwSHdxWDhXLWlOZnZiVWZRR2poT2tFVzJvNXZWYXc3UDZRSlpNdkE3aGlsNHV2X2d4VnYxT2FqU2lrT3czLUdmZi1jNVJkR3NVUFl6VG8wVGRlU3ZDcWEycFdJVXdkSG42WklBTm5IVw?oc=5",
-        "headline": "미 증시 반등 채권시장 불안…다우 1.1%↑·10년물 4.73%",
-        "summary": "",
-        "source": "thefairnews.co.kr",
-        "published": "08/22 04:52",
-        "published_ts": 1787341940.0,
-        "tag": null,
-        "first_seen": 1787346929.0551195
       }
     ],
     "perpetual": [
@@ -1670,6 +1670,16 @@
         "first_seen": 1787518835.9859502
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPc3EtSmM1Z3IyWmg5ekFqY0RGb1lCa2RXR21wakV0VDZVRnRURmwzelVoZ2NDLWRieHNCdHVDazhsTXFLSkVuVmI3TjlfX194Tk11YTJmMDBXbV83NV8weGNiUG9XcXlBbEdnWlBmaUZoS3E1cUNwN3dwSkxib0p5Y25ES0NnaVBBUW9EWWJEWEFVZlI0WFBTQzJUQVdlU0ItTXNyRTlQenJzUE5qWDc4WmJXOTdjTVZlbG44d1hmMEhXNTJZbEdVUEt4azg?oc=5",
+        "headline": "Fed Chair Warsh Heads to Jackson Hole: What Markets Are Bracing For",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "08/24 05:51",
+        "published_ts": 1787518262.0,
+        "tag": "Fed",
+        "first_seen": 1787525123.519994
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBaYWVfYnUxUFFlM1pIVTRTbEQ4cGtRWnJ0NkVYVHZsejNjNkZqeldoRVhnVktUMlU1ajZnVk5kU0tKSHZ2bl84b1hhb1Y0aW5sOEVN?oc=5",
         "headline": "미국·일본은 금리 치솟는데 … 중국 금리가 떨어지는 이유",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787463180.0,
         "tag": "JGB",
         "first_seen": 1787493633.6135535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9welllRVU2Y3E4T2IwSEQyT0tVekduUVlFOWQ3WnpOamtveE1qUVFEcEF1aXZkQ3VZWmpnOFFhRy1IV3M5OUx5M2VDV2k0NEU?oc=5",
-        "headline": "돌아온 확장재정 계산서…日 국채 원리금 부담 17% 급증 ‘사상 최대’",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/23 14:32",
-        "published_ts": 1787463129.0,
-        "tag": "JGB",
-        "first_seen": 1787466628.997422
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 07:30:58",
+  "updated_at": "2026-08-24 07:45:50",
   "yields": [
     {
       "label": "3년",
