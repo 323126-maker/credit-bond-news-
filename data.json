@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40dHV4dTBiRkZRaTluSXNWTkVyTFZTR3d5Mkd6eUxwSnZzelBCS2cwX21zaE5wbGdNUkx6OEpzRVdMN3lKZWxOUURRYVItb1BrVnk0MWlIdFNWMXRtU0FLRDN4WEpGS1JnaGNncEN4UkZTQmFyXzdMM2dKWQ?oc=5",
+        "headline": "Kevin Warsh’s Jackson Hole Speech Puts Bond Yields on Notice.",
+        "summary": "",
+        "source": "Mott Capital Management",
+        "published": "08/23 22:00",
+        "published_ts": 1787490031.0,
+        "tag": "Fed",
+        "first_seen": 1787490923.185791
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZEJqMkN5T0dHa2RlcmJZSHpzU0dMdHFBUXJjT2JFQW5MM2xLU1BUSGMxdnRwYXpXeVoxUW1IUFg3OHNGeXBTNFVLem41bVJOb21pOXR1TmhtbG9NeUNPcVhGSWJuZzA1dFFQOWJMUExuaGF0N1lCNER3WGcxelczUDg0RVBIVDRBd3JXb0t3QllCMUVMbEtQMVZvQmc5a2o1QXVr?oc=5",
+        "headline": "Trump made a multimillion-dollar bond bet — and Fed Chair Kevin Warsh could shape the outcome. What investors can learn",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "08/23 22:00",
+        "published_ts": 1787490000.0,
+        "tag": "Fed",
+        "first_seen": 1787490923.185791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84QWZVNmpubWpyU1MtV1JNVE04amREdk1FZmZxZnVrbEZ5WXFnNDZTbUlmYWNRUW1MWGdYOWVfcGYydXBKRXFUT2lNOFVTUzB6a2ZNQmhpOXpLSnUtRnRiN1VCRDFheFB3d3dkYU5nWQ?oc=5",
         "headline": "Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787428490.0,
         "tag": "Global",
         "first_seen": 1787485522.8779533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEFmMXROQ3lXcEdQa0dQTFJuQWY1dW5BZW1icXNrRzlib21oenJzcldDeFVlU3hzbXRIR05HQ2xxelpBVHB1a0FndnpPNHhWbXRzQXV0b1VIQ3ZyMG1QUnBENXJGdkY1SkJzaVVXRWd2SVM0VmFodktOenhsOVFIaTRja0RSMjdncDNsdWV3?oc=5",
-        "headline": "Man Plans, Markets Laugh",
-        "summary": "",
-        "source": "RealClearMarkets",
-        "published": "08/23 04:26",
-        "published_ts": 1787426763.0,
-        "tag": "Strategist",
-        "first_seen": 1787427028.9078026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcDRPYkl6eUcyQl90NlNYRFV4b29OMmRVd1NuTkdONkQ1UGdNdDh1QjJ6M1d5X1lLRGxwOERnaUZ3RXdBc1JPTENvdnJHWUkxbGlkN1NWbjU3QnhaQ3F2dlJScldlSS1ndlR3bGp3YTdpZ2R0dzdUZjRGT3ItaS16cDFONm5CX3JTcEdQMEd3OWpjSzlWZGFfdk9LU1g?oc=5",
-        "headline": "Debt has become the main character on Wall Street as markets decide it's now gotten out of control",
-        "summary": "",
-        "source": "Fortune",
-        "published": "08/23 04:25",
-        "published_ts": 1787426700.0,
-        "tag": "Global",
-        "first_seen": 1787478324.8514695
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 22:01:00",
+  "updated_at": "2026-08-23 22:15:47",
   "yields": [
     {
       "label": "3년",
