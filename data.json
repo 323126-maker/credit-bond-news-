@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBLejlDQ0tjclh3S2RwMEthS1VObURwZVU4NUhlVmd1cFRXejg3S1NJTURLdUFaN1RCUDFZU1h5RVZucmRRXzJwUm9pM3FvZWlmeXZTYkhHbVAzSEZrZ2JQQjNxVXBPRzFDelczSGtB0gFuQVVfeXFMUEt6OUNDS2NyWHdLZHAwS2FLVU5tRHBlVTg1SGVWZ3VwVFd6ODdLU0lNREt1QVo3VEJQMVlTWHlFVm5yZFFfMnBSb2kzcW9laWZ5dlNiSEdtUDNIRmtnYlBCM3FVcE9HMUN6VzNIa0E?oc=5",
+        "headline": "빅테크 채권 폭탄, 美국채금리 올렸다",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "08/24 04:00",
+        "published_ts": 1787511600.0,
+        "tag": null,
+        "first_seen": 1787514753.9682677
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVWhfMS1EeG9WT21Wd0lnMW1KV3U3TTJnZFFSR3cxNmtUbFA3WndtQXI5OTVCYlFUSFdLQUxqZl94NjZob0tHa2lmRUVEU1F6VlA5dzlsQy1YTDluYVhRMzFwUzNONWFzLVdSV216SEhIM1F1TXRJWXQ0TU9kbFpkemd1S1Z3M25a?oc=5",
         "headline": "美 금리 인하 앞둔 기관 자금, 중기 채권·전력망 AI로 이동",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787307305.0,
         "tag": null,
         "first_seen": 1787475635.888092
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aak9PXzBoc3pXQXhtRFQxNVVERk8wRGRDR09xSHpxdHNqblpEc3QwNkVQNzdYNktsamx4TjV0S2RDeUVrVjQyZ1Fwd1hPZTZFUXNoUEdHV1ZHWmFNSVFz?oc=5",
-        "headline": "돈 먹는 하마 된 AI…빅테크 ‘채권 폭탄’에 美 국채금리도 뛴다",
-        "summary": "",
-        "source": "조세일보",
-        "published": "08/21 19:00",
-        "published_ts": 1787306413.0,
-        "tag": null,
-        "first_seen": 1787310923.8865736
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 04:45:49",
+  "updated_at": "2026-08-24 04:52:57",
   "yields": [
     {
       "label": "3년",
