@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wZXdHYUwyLVZZZ2d6SkNVcGVQNjlqMjd3Nm1CUWJGYmtMdkNORUNvT2ttNlZMeTllRVVSSnlDSmotdFNKTDgydTBmMUM0aTJPN0hFcjduRWt4Mko2RDhSN3oxRDB3QmMyeWtTdjdvZFgwZFBmZDB6VA?oc=5",
+        "headline": "일본이 어쩌다가…나랏빚 '세계 최고'인데 금리까지 뛴다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/23 16:47",
+        "published_ts": 1787471220.0,
+        "tag": "JGB",
+        "first_seen": 1787472032.7493773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zRUxpalFpazZqZWtab19uSWlUUEY2SG1mRjU0a0FQTlU3UUtOZW1KaDhaYUxDSjVHWVlaR0IxN3k5SHhGUUVrMHVhbElISTBzb194b3dVcW1YZw?oc=5",
         "headline": "나랏빚에 허리 휘는 日…내년 원리금 부담 17% '껑충'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787392796.0,
         "tag": "Strategist",
         "first_seen": 1787424323.868651
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZTVBUS1fTzJzQXMzSGtBWW0yQnBkNjJrT0xKN0d4UFBQTUZ5cEtDVkRzcXdHQkVvRTN0TUExN1dpaVkwV25IbjRaRWZ4V2NMX0dxM3kxQzVPVjd0RW1OUG5vdWwxZG9zTUFVdmU3bFMtMXpyRTRkdmY5V1kyMFhGWm14WW9udVgyeUtyN3VLTVcyQUZoM0hJ?oc=5",
-        "headline": "‘This is no ordinary bond market selloff': Mohamed El-Erian warns of ‘considerable risks to our well-being'",
-        "summary": "",
-        "source": "moneywise.com",
-        "published": "08/22 18:43",
-        "published_ts": 1787391828.0,
-        "tag": "Strategist",
-        "first_seen": 1787391923.1138628
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 16:45:48",
+  "updated_at": "2026-08-23 17:00:56",
   "yields": [
     {
       "label": "3년",
