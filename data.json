@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5",
+        "headline": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "08/23 19:55",
+        "published_ts": 1787482500.0,
+        "tag": "Global",
+        "first_seen": 1787484836.3841531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82MUllN29qVEdMUGRJcFhKbDVhbko3MWV4SFJTcDhQdTZvQjZRODFsdFMxSmZTVXZpSDZIVk5RNkEyWHAyQXE4Yjg2ZFZDbV9yd1dj?oc=5",
         "headline": "일본이 어쩌다 이렇게까지 됐나…'세계 최악 빚더미' 오명 썼는데 금리까지 오른다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787411000.0,
         "tag": "Global",
         "first_seen": 1787413523.8219373
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWFlMaEp3UHluWU1XTmcwV196dDd3SnR0ckE5M3FQRERfbTNXUmZPb19IT3ZHZzdLenJ6T3p3d3FKTXRrRTNVeklRWlJqU3NrdC1ub3RSQ3l6NmtSbFBpRWpVNjZZaFZBaXROdVRETUFFY1lwaGpTVUprY01IMFQtOVc2TWV5OHBHSWtpeW8tTlJETmwzMVhKb3Y3LU5Ydw?oc=5",
-        "headline": "'The U.S. is not the only game in town anymore' — Treasury debt faces more competition from higher-yielding bonds overseas than in recent decades",
-        "summary": "",
-        "source": "Fortune",
-        "published": "08/22 22:58",
-        "published_ts": 1787407080.0,
-        "tag": "JGB",
-        "first_seen": 1787422524.3096733
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 20:30:54",
+  "updated_at": "2026-08-23 20:34:19",
   "yields": [
     {
       "label": "3년",
