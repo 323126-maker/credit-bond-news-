@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DT2tvOU84bjdmNGZPcnpnWnp3c0ZHODN0NDk3VlFzMzlmUjlyTElNb0oxdGhGTHJsb1VsaG9uMU1DdVMtTUVSaVpTZm9zZVdfcGpZanJPZ0pSQQ?oc=5",
+        "headline": "\"채권시장에 참교육당했다\"…美 재무장관 처방, 이틀도 못가",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/23 11:38",
+        "published_ts": 1787452702.0,
+        "tag": null,
+        "first_seen": 1787453122.7816882
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3WUkzSTJrWTFneWdCM190Q19tY3ltMXBRSE5ybFpJdHJTSUdjcjFiM0ZiaXZ5eGNCMWs1RWttd2ZfVExHLXY0dk9kSm1SS3kxZjlXaXhRYm1nSmdvcEh4MVpSTV8?oc=5",
         "headline": "美국채금리 급등 못 잡은 베선트…\"채권시장에 교육당해\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787298123.0,
         "tag": null,
         "first_seen": 1787299225.8500178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNSDJselVBZFV0WlpjbUdlSGVfNTUzZGVKZXFkVEtiWml3NnZZQjdZZjN4T1dzQVNCVFFZVDdPMEhXRlVJQng3elltVTJVNmRjbUJqZ2JRbUxlak92eEkzZ09YODlLY0pBVGx3?oc=5",
-        "headline": "PF 지원 확대에 증권사도 움직일까…부동산금융 재개 '촉각'",
-        "summary": "",
-        "source": "서울뉴스통신",
-        "published": "08/21 16:40",
-        "published_ts": 1787298000.0,
-        "tag": null,
-        "first_seen": 1787298323.1279547
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-23 11:38:50",
+  "updated_at": "2026-08-23 11:45:46",
   "yields": [
     {
       "label": "3년",
