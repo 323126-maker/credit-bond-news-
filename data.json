@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wWjd2WmR5aTZKalc1d18xNGs4SDJuUkF5dFFEdFo2aHA2WUZVOWx1eFhRV2ctcy1TcHJrOEFrT0RNS2VLLWlLMWhRb3NNNGdSZVYw?oc=5",
+        "headline": "[단독] 내년 820조 '수퍼 예산'…역대최대 90조 늘려 민생·미래 투자",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/24 05:01",
+        "published_ts": 1787515260.0,
+        "tag": null,
+        "first_seen": 1787516125.3877726
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYll0dklzemNUWHU3WThEYk1aZVl1cHFvSVNETjhvcHhraXlpMU02UTk2aW5zSU9kOTdzYXhuTWdfcXZaYi1vS0tZWGozdVBCQW9XTjFJZDVWOUg5RHZWMGhCaFhGcFZxRWMyTHE4U1JhdGR1anpzNFJJSGMwdnpOZkRWcENMN1RHQXJZVjF3?oc=5",
         "headline": "내년 예산 `800조+α`에 구조조정도 `사상 최대` 50조원대 단행",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787015850.0,
         "tag": null,
         "first_seen": 1787043640.3377094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzLTJKNlRNVkQ4MHhqVERJTHdVemV3em5SOE5aYllwbG5jTF9fbUtZUlFHdFRDTmF4ZUZCaVR4YmsxZUw4VExEX21Cc2FPemJ2YlNENzRWajBlMEtzSndfQ3RMSTh2aHhCQXNvNEJR0gFuQVVfeXFMUHMtMko2VE1WRDgweGpURElMd1V6ZXd6blI4TlpiWXBsbmNMX19tS1lSUUd0VENOYXhlRkJpVHhiazFlTDhUTERfbUJzYU96YnZiU0Q3NFZqMGUwS3NKd19DdExJOHZoeEJBc280QlE?oc=5",
-        "headline": "[김현철의 美증시] 30년물 금리 19년 만에 최고치 경신",
-        "summary": "",
-        "source": "공공뉴스",
-        "published": "08/18 09:44",
-        "published_ts": 1787013890.0,
-        "tag": null,
-        "first_seen": 1787017659.933117
       }
     ],
     "global_bond": [
@@ -1618,6 +1618,16 @@
         "published_ts": 1787514600.0,
         "tag": "JGB",
         "first_seen": 1787515241.4168515
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZHpmMW1LTjZkTnhQek1PYTBIaHlRWEZxcHJ1dk1ULUFjUEd0cHRWVGlhQzVSMmxRVXJRV1haeXFJYnRZVThzMmVSVzVZMkZBU2s2Wk9aQTI1Y3ZoRkFVQmpXNGVEdS04UjduUXU4MklfR3BvYTdiMndGSDV1QVB2bGtvaWNGaWFpTnktbF95Mk5PaERPOUFWQm5OUk5wZ3IzV0xSUlVzMHIwOXZVRXlDWFpWbW9FZw?oc=5",
+        "headline": "Scott Bessent Tried to Calm the Bond Market. Bitcoin Had Its Best Week in Three Years.",
+        "summary": "",
+        "source": "thewealthadvisor.com",
+        "published": "08/24 04:43",
+        "published_ts": 1787514207.0,
+        "tag": "Strategist",
+        "first_seen": 1787516125.3877726
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9FazRNTlFobHV6eVJpMnZBd3AxQkpONWtjUE02UWFNcTR1MzZrSUxSYTUtUXFNcXVEMVFOcmNrenptQ2RXTVRtaUZrTUZOc0JZT2RoZUtfT1loTm50TXQ0UVMzZWpTa3VjUG5LMElIcmZ5NjA?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787455673.0,
         "tag": "JGB",
         "first_seen": 1787455832.2912223
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KaUhwaG5mSGZzNURCMzdMclV1WGxvVmFOdFl6TW05ZUhUcnpkM1FJRHp0cXcwbVpHaEYzT19saG5qa0tueWgzUUJDNzczTzBvY1RNdmlEejJxQmduOWtQbHdUODNuU3hDTlZGN0wwa1doQ3JqSC1F?oc=5",
-        "headline": "레이 달리오 \"美 부채위기 3년 내 올 수도…채권 줄이고 금 10~15%\"",
-        "summary": "",
-        "source": "thecommoditiesnews.com",
-        "published": "08/23 12:00",
-        "published_ts": 1787454000.0,
-        "tag": "Strategist",
-        "first_seen": 1787484631.738987
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 05:01:07",
+  "updated_at": "2026-08-24 05:15:57",
   "yields": [
     {
       "label": "3년",
