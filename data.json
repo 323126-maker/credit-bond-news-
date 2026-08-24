@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FWmtxcHlfeTBCamxCRF9iVEdYRk14VHBjZ184bFpxQXBicmhmakxNWjQ1LVJGMDRWTlBoX3QzVGYwYjgydUxxa3ppRzhSa1hudHNZ?oc=5",
+        "headline": "소프트뱅크, 日 개인 투자자 대상 1조엔 규모 채권 발행 추진",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/24 20:36",
+        "published_ts": 1787571360.0,
+        "tag": null,
+        "first_seen": 1787571926.2626438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41NUo4dlBGU2R5ZzJsYjBMNlNuZ0Y3VGxQRWwzb3didmhiY2otdmNTV09nMFFHU0dCa1BvUGRlRjFiZEZUaFVkY3Z6UXlsMEZYRko5VzAxZGFWelBCQU42Y0Y3YkFhbVpnTGpqc1lrd2Y?oc=5",
         "headline": "무디스, 파키스탄 국가 신용등급 Caa1에서 B3로 상향 조정",
         "summary": "",
@@ -150,6 +160,16 @@
         "published_ts": 1787554537.0,
         "tag": null,
         "first_seen": 1787555563.0315213
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40YWFXNm9nRVkzM2xtSVloWjY2QkRyRm0yTTFqNWhSLUYzUmlMM3IyZ1FES1AzVi0xenl6T1E2UzRjb1MyaGxaelJMZ3gxXzNXY3E0dGRVUjQxM2VzUXJ6NmlEVGJFVjNH0gFrQVVfeXFMTjFmRmUta0FoRmg4V3JQVGxCVkVua3ZqUzVfNXI0M2c3VWlqNUNHay1JdHhHNzltcEUtaWNkRU5Bak5lOXBwUEMzb1RyVDNibERNMEJjQnBoa3o2dzVtSlQyRzJaeUdZQS1RVjA?oc=5",
+        "headline": "롯데, 돈부족 심화에 8백억 회사채 발행?…'차환용'일 뿐 유동성은 넉넉",
+        "summary": "",
+        "source": "논객닷컴",
+        "published": "08/24 15:48",
+        "published_ts": 1787554093.0,
+        "tag": null,
+        "first_seen": 1787571926.2626438
       },
       {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBkV1dSb1JCTl9US3l0dFAxV2hfclJrcDR5QWZ4MmQtVG54QVlCa3Z6OURIc256ZDBPd2pjSTN1bktxYXUtSkFMZnU0b3lDYkctbmpock1CaWtTelZIWmtiVUhXRzByZTFJUjVHSmVhQWhiTGRyQlFPNNIBeEFVX3lxTFBkV1dSb1JCTl9US3l0dFAxV2hfclJrcDR5QWZ4MmQtVG54QVlCa3Z6OURIc256ZDBPd2pjSTN1bktxYXUtSkFMZnU0b3lDYkctbmpock1CaWtTelZIWmtiVUhXRzByZTFJUjVHSmVhQWhiTGRyQlFPNA?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1787460173.0,
         "tag": null,
         "first_seen": 1787463032.5414019
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oY3ZzZlBIeUtNdmNmeERfR25oNGVxZlowUzdoQmNUNFlLUFMxWU9URXUtd1dCdWo4OWZQSmlVbFJaZGpUb2hmMDF2V0lOWmRuSmVFWk9yZWFfVURFeGdaWkZjSDNyWTJ4UUZadUM5MHdKdw?oc=5",
-        "headline": "[채권-주간] 드디어 열리는 8월 금통위…이후엔 잭슨홀 관심",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/23 13:00",
-        "published_ts": 1787457601.0,
-        "tag": null,
-        "first_seen": 1787490034.4665627
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE13TmVlVDV2anlYelQ3bE5WSldGeHlyR2RiMURXRjVnakN1WEkzbWJyWTdDblBHbi0xdXVKei1FV0tESi1UUXBTV0VNUVhNTUVvMUVhdmFTQnh0WFE3b1plT3B2YU1weGVLQmI0?oc=5",
-        "headline": "금리 오르자 보험사 채권 투자 수익률 개선…평가액 감소는 부담",
-        "summary": "",
-        "source": "라이센스뉴스",
-        "published": "08/23 12:31",
-        "published_ts": 1787455875.0,
-        "tag": null,
-        "first_seen": 1787490034.4665627
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzZfY3JhSWZFejQ5VDB3UVctZENGRk9kNXRYNHpOVDhqTjBsbDcya0ViNDNHYXhmeUV3bkpOZldFN3FtU1pqUXMwTmVCV3ladGhWVXNGN0ZzUmdYSzg0cVcyTWQ5MFR6bFF3ZUJ0cG9DQ19KR0xxQzdWaXlSWWxFbENLakxOM1VQ?oc=5",
+        "headline": "Mohamed A. El-Erian: Bond markets may be challenging Federal Reserve",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "08/24 20:35",
+        "published_ts": 1787571321.0,
+        "tag": "Strategist",
+        "first_seen": 1787571926.2626438
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1ZYMEVTV0pFYU1RLWF5aHZYZnE5dXlmNnVwZGJzOUZfbXFrVzFCUy1PU1c1V3ZFb0NFMjhhaG9Hbmt0ajVBdzlGT2JnRXJWdUtrSWUzcXM3R2lwQkVEZnJ4MHltWWg0dF8wRElNbnZVZkdNdkhQRW5tNHl6UW0wS1pVOFVKVXNvWXU4NzVOeGJhQ3Y2VzJQNQ?oc=5",
+        "headline": "IUSB: Hormuz And AI Buildout Still An Issue For Rates (NASDAQ:IUSB)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/24 20:30",
+        "published_ts": 1787571000.0,
+        "tag": "Global",
+        "first_seen": 1787571926.2626438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZnlJcGFnU191cFNWaHRIWk5JSjY5bHZNM25YYWxBMVRmSjRaR2hMaGtycko2QXVYeXNhRHlRUHRqUFRHcFhhbHZ5Q0JpUlZaNzJDMktPdW12bUJxbnJ2WnNpMXVHMi1RaDhneVlMQWdPc3VBYjhKZzNldVk0cDNKSA?oc=5",
         "headline": "Is SAMBX a Strong Bond Fund Right Now?",
         "summary": "",
@@ -1738,6 +1758,26 @@
         "published_ts": 1787564842.0,
         "tag": "JGB",
         "first_seen": 1787569238.9095874
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcElWSjRfeDZVSmhZOVdIUFc5eHRHLXczdDhCaEFBTkNaM1lFcTdzSFMxSnRhLUp2YWViMnJYQ1I2TGU3N0VTU0dhd2pscE13M0pTWWhfVmRkT0N3Tjd5MFRtWUFBTS14ZFk5YW5DQ2sybkVZU0RzZHg2RUxOTGM5amZPazFjMGxuOVpVazF2c1cyLU5fRVR3VXQ4VFZrOU9aZllyY0NfYw?oc=5",
+        "headline": "Yen Intervention Explained: What’s True, What’s Not and What Markets Should Watch",
+        "summary": "",
+        "source": "equiti.com",
+        "published": "08/24 18:33",
+        "published_ts": 1787564023.0,
+        "tag": "Fed",
+        "first_seen": 1787571926.2626438
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQdTVhUjNHanNId1pRbElGSFJEMlZIdmJJcGNDVEJxWmFER1g4TDFYMWVMOWd3U1V0eHF2LXNmRGFZT2F1Zmg4UHNraWswN19hSFJ2WEJCZ1pjZ1NCSzk1N01rYmkyY1VmS0pYNnhJUTc5bzJ5STg1YjAzWmNxd01mcXp1b1FUN0JUX2dRNVRNTkZvcGNUbVNick5ISnZRYWg4SUJOMnFBd3ozX3FKVXE3cDdNV1B3ZFhWT296OTJjZjlkUXMyZTFKZ0p5aTlicVFVcnduRld1TG10MVdrN3RmazZTM1djaFRQb0lDbjhJNngxU0Rpb21SX2M0Y3dac3NzdE9MOEJlQ2FLRW91WGFOdE1Eb2s1c3JxZHc?oc=5",
+        "headline": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip Ahead of Data-Heavy Week, Nvidia Earnings, and Jackson Hole—BABA, PMI, BIRK in Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/24 18:30",
+        "published_ts": 1787563808.0,
+        "tag": "Fed",
+        "first_seen": 1787571926.2626438
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEhSWGx2RFRxMEpTZjVDWXpFXzBSTTlueDBHVXU4Z0lYZmNaZHN0NThjVHczdUNzU3Joc2syQUxlazZnMDYxeG1RNTZubUxINF90RHVZb3JKSTBnNFk5XzlxVmVLSWRjRllRQ01NLU14VW1rMVdDQW14OHNZRnJieFNoSjd6bjNIRy1lOS1IWXN6dUp2MXBWeGNuRnVMYnEtdEpkYlFZblFyZHFVYUs0?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1787553006.0,
         "tag": "Fed",
         "first_seen": 1787556632.0455885
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc3gtMUZsOEEtT0h3XzN1SzNzNFlZRmxEZUw0NjRQbjdMa2pKWnlMd0Fxd3pRcW50bEJPTWVrb1E5WHVxSzZpNTJDT0F2X3p6Uk1lcE0wQmlSS2lRaEROejMtb1BFaEQ1VkRjUU1yODdNWE9nbXJ3WGJ2WjRTc2FhNlFGbUc1YVVNZHFZaldIT1FlOWN3cDJKbzFJRTVNZkl5WWdfaEJ3?oc=5",
-        "headline": "Growing Rate-Hike Bets Push 10-Year JGB Yield to Three-Decade High",
-        "summary": "",
-        "source": "WSJ",
-        "published": "08/24 15:00",
-        "published_ts": 1787551255.0,
-        "tag": "JGB",
-        "first_seen": 1787556632.0455885
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SUDM5WlFYaUF1RFZfeWdHR1hXdTdMRGpGQUZIOThTekRFMEJvTDhuWmNFblMwczNER25pdHFkYVEwXy1SNkc0T3dIWnoxTFdsYUQ5a0tRMVF0Y1FSYmpRQXRiTXVid1RGYThEU3ZrSFRSVkIwYkE?oc=5",
-        "headline": "Decoding Fed Chair Kevin Warsh's Decision-Making: A Supply-Side Pessimist",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/24 15:00",
-        "published_ts": 1787551245.0,
-        "tag": "Fed",
-        "first_seen": 1787552125.1979039
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPU2NqN0JsLUFwcjBNOTRFT0JQdVIweDZWX2tpdTluY1pLd2pRUmN4dXlGTlNxQ21iWEc2QWQ0cERjVlR4eVBXeXNhaU15bzJNdFFGU3pTYzBaOWZsVXAyT1J6N251QVlkLUViOEJreEN6TUl3S2VXTzdnMVpQRnk2LTlWTHQ4ZnZH0gGcAUFVX3lxTE5lb2xCSHVxSEl1TVQwRHk0Y3R2eFQ4ekoyV05PWkRtS2l5OU11YXZiamVQSU9nUm41UU9NOHZoZ0ZjeXVURUt4NEI4N1NxdDNwNTNTSzd2YlROdkJGazBtX0ZQZ2xkTktCRGlvN3hvN3VIZ0xrZFE0X1RidkJUTHJ4eFdDVktkcnpJR1lNdlVCbWs3UVdGdFZLc3d5cg?oc=5",
-        "headline": "U.S. debt tops $40 trillion as Treasury market network effects sustain demand",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "08/24 14:55",
-        "published_ts": 1787550900.0,
-        "tag": "Fed",
-        "first_seen": 1787554840.0646558
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJb0xndWJHRzFCM2dfRzZRUDRkS0F1RnVKSWh0a0FHbzlpaFpzU2RKT0JLdjNKQ3daSWZhZW11SXZZTlJqTWtMQWJHeEV4SS1tQjN1dDlaSDNNbG9IVzBTdVJRNEpqMnFyUzdQM3hjUGJLUEJqdUVvZ1Jxb9IBgAFBVV95cUxONVYwcF9USWtoQjFhY0lqRkxqY3ExdXh5V1VNSEdWM0pyMXk5YU12Y3B1Zl95WFRCNkkwT1V3a1ZuV19WYUhiQ1lIcE1aMENKZXVUbnNUelhIei02cEwzY3NjVUliYTB1V3BpLThuZTVWb1ViN2ZUS0dvS3FKRzVibA?oc=5",
-        "headline": "달리오 \"3년 내 美 부채위기 올 수도\" … 채권 비중 낮추고 분산투자 조언",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "08/24 14:46",
-        "published_ts": 1787550410.0,
-        "tag": "Strategist",
-        "first_seen": 1787551093.7909212
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 20:30:57",
+  "updated_at": "2026-08-24 20:45:54",
   "yields": [
     {
       "label": "3년",
