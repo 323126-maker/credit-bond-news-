@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9OZXJfUWZ5eGk1dW42WnZpT2pJZHdqN1RMbVluc3Q3RDJjX1B0YWNGanRtOWhfclc5M3VzNm44TzBhWVd1eEFsemNITWFUY3pFY1ZXcA?oc=5",
+        "headline": "[채권마감] 불플랫, 미국채 약세에도 선반영 인식+외인 선물매수",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/24 17:06",
+        "published_ts": 1787558760.0,
+        "tag": null,
+        "first_seen": 1787594438.431848
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SenFzbk9LT0tGSHA2UHZFWmlpbjFRcGl5Y2dTSkRMU09yVEM4RUoyV3ZKblhLUVlZQ2dfMVh3Sk93VVh5SW5CVEkyQU95elJxcmtmQ2wxejF4TU9HWDhPRERaOWlXV0pvMjFNTGJSUTjSAXBBVV95cUxOUnpxc25PS09LRkhwNlB2RVppaW4xUXBpeWNnU0pETFNPclRDOEVKMld2Sm5YS1FZWUNnXzFYd0pPd1VYeUluQlRJMkFPeXpScXJrZkNsMXoxeE1PR1g4T0REWjlpV1dKbzIxTUxiUlE4?oc=5",
         "headline": "채권 운용손실 눈덩이…美 국채금리 급등에 은행권 골머리",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787278200.0,
         "tag": null,
         "first_seen": 1787279432.9041524
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5zZ3pFNWwzSmVucTZyNm8wcG1UNXJ0S2M2YUhITFdPQTJNTjFMd25tcjhEZGY5a1FERjVSRGtOUTZ5NEV4cmhKMW1MYlRnVlpOZWpYRmJfRlTSAVhBVV95cUxOc2d6RTVsM0plbnE2cjZvMHBtVDVydEtjNmFISExXT0EyTU4xTHdubXI4RGRmOWtRREY1UkRrTlE2eTRFeHJoSjFtTGJUZ1ZaTmVqWEZiX0ZU?oc=5",
-        "headline": "국민의힘 결산 심사서 李 정부 재정확대 정책 적정성 검증",
-        "summary": "",
-        "source": "아주경제",
-        "published": "08/21 11:09",
-        "published_ts": 1787278178.0,
-        "tag": null,
-        "first_seen": 1787288681.55431
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAyVlF6Qmhub3RPbWpPLV92Qzlwdl95b3dMaGlfMnNNaE1HWERaZnhiSE80ejdEZWE5Q1VXSVFSV0h2UHZvQldjYldsVmUwcklsWGdlWm1KeE1SbWM4dFZKN3ZfcWxwVFR6bGdzeWJfUFY1c1JpNHFwUzVqaU92QQ?oc=5",
+        "headline": "Treasury Cannot and Should Not Engineer Bond Prices",
+        "summary": "",
+        "source": "Cato Institute",
+        "published": "08/25 02:57",
+        "published_ts": 1787594259.0,
+        "tag": "Strategist",
+        "first_seen": 1787594438.431848
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0VxaWRJcUJPQnU2MU5kMjRSamJPYkZfbVBoVEEwcEFqaEJyeTJvVlhPNnFEZ3NVVS16MjdGbFdCSjAyeTFWZWxGeUVJTkZvMHQ0X3pSSDh4cmdCMzFhZGdiN2VSNjJPWGRrVVk2WG9SZUZhTTFLZTZtVzh4TUszSEYxWnJ0VE9mdnZFTjNGdDh5d28?oc=5",
         "headline": "Fidelity Short-Term Bond Fund Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787569080.0,
         "tag": "Fed",
         "first_seen": 1787570030.7296607
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNajBSWGJuOE0zRTI5aUNsXzE2czBGVmdSMjlDTEJnaU1UT2xCaWVpMFNKNTNRLWQ2VWpyM0NEUGV3aTcxczd2NXRUN25TWjc3cDZzck5qT0JLNlNWc29DTXRLZG5JLUUxMWR1dUIyaWtKd0VOQjNSV0ZrbnY3Z2VCMWVCOFpBWXg5SlFhaTNyQmdoVnJjWmxNYzZpVkp0ZXl0X1VLVTRPY3kyMENs?oc=5",
-        "headline": "What investors want to hear from Kevin Warsh's Jackson Hole speech",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/24 19:54",
-        "published_ts": 1787568867.0,
-        "tag": "Fed",
-        "first_seen": 1787569238.9095874
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 02:50:34",
+  "updated_at": "2026-08-25 03:01:23",
   "yields": [
     {
       "label": "3년",
