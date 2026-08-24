@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVmxuWHNKV3MxRC1oYU5qT3hrNDRhTXBxbWxpb25oR202UHQxVnd3ZGZtQUNKV1hhNU9odWlEQTFTTnZKZWJtOUhsN19DRVkwRHNLak5vYkJueHlXU0NUUk9PSEhyLU9yRmZMTHpKVW4wRnlMWWdBdGRDSFhDZ3ktRXQ4MEh5T2lJZXJsWERCalh2aTF2?oc=5",
+        "headline": "Japan 10Y Yield Gains on Rate Hike Bets",
+        "summary": "",
+        "source": "TradingView",
+        "published": "08/24 12:29",
+        "published_ts": 1787542140.0,
+        "tag": "JGB",
+        "first_seen": 1787544036.827011
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5PbFhDZk8xU2duR0tRNW5oQkVNSUdmUTVDTlVqUUdNSFpxeHR5LUg4OERYNlg3OHgtYzB5ZWlFRFNRM2N1Nnc4T3R3N183U2prNUJhZXB1dGxuMkNTcVJpaWpBZjMzbm8zc2s2eFQwVU9aekpyTlE5MWd0QkdqUFk?oc=5",
         "headline": "Pimco expects elevated term premium, says bonds are attractive",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787500236.0,
         "tag": "Fed",
         "first_seen": 1787500494.8416185
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWHI2OW5vYkFkSVlZbzVyN3d4LW5vU2g0TmQzdVVQc19aSHJ3Uk1TOVNJazMzYWZibVRCRWhzN2V2M0RPeGFDcFlhTjRHRUlraGlLWVFsZjUzaWNoSUJXcW9KNkp1VmdjUDZDRmlabEJCLU93NTZoem05NXIxYnhiYzJvOVZVcTA?oc=5",
-        "headline": "Trump Suggests He Can Use the Military on Bond Markets: ‘If We Have To Use That, We Will’",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/24 00:43",
-        "published_ts": 1787499805.0,
-        "tag": "Strategist",
-        "first_seen": 1787537725.8303928
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 12:45:47",
+  "updated_at": "2026-08-24 13:00:58",
   "yields": [
     {
       "label": "3년",
