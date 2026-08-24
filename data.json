@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42N0lkUU5NRi1MYWNZcllVYl9nUmlUMVFKeHRwa3BCaHJqcGtvQnFHWmNSYThZakpuWk0wa3g1T0dnd3dZNklrMGh2V1NQeXpRdnhUcDBNT3dsSE9sZnJuUGdxcTBJSkFqMVRtR0dTY2ZYYnVqcG1OV29zUEg?oc=5",
+        "headline": "유동성이 덜 경색되었는데 왜 금리가 떨어지지 않았을까요?",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/25 02:37",
+        "published_ts": 1787593079.0,
+        "tag": null,
+        "first_seen": 1787593527.8248382
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCRzFsVzFrTkJlSURsQjNBUEp2LTkxZlZBRXNDLUV2QzdVRWRTNlVtNUtyNTBiLWx3VEVyM2c5MlBWcVNsc29SYTE1UUtNS1RRcEdkRnp1WXBKZ0MtQzUxS2E2REpjQdIBZkFVX3lxTFBCRzFsVzFrTkJlSURsQjNBUEp2LTkxZlZBRXNDLUV2QzdVRWRTNlVtNUtyNTBiLWx3VEVyM2c5MlBWcVNsc29SYTE1UUtNS1RRcEdkRnp1WXBKZ0MtQzUxS2E2REpjQQ?oc=5",
+        "headline": "회사채 2500억달러, JP모건 \"문제 아니다\"",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/24 23:37",
+        "published_ts": 1787582232.0,
+        "tag": null,
+        "first_seen": 1787593527.8248382
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9rT3B2VWpueDc2V0xrNm9DTmo0ZmxINWs3MVlYcHJVUmVnQ0lVLTlBRkEwVmlXdEZLUHFlckpqTjZHQUgyTEE0MGU1UEhqLTBhTG5ILXFn?oc=5",
         "headline": "인도 REC, 5700만달러 토큰화 회사채 9월 발행…SEBI 일정보다 앞선다",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787526300.0,
         "tag": null,
         "first_seen": 1787527832.267652
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pekJZUXdfdXEzTXB4bzh5LURYdW1qSFpTcUdGVUFNdmJscXREVS1RX0xjeVMxcWdESThGOU1FOUhRWmpWZXZfUEltRVJ6ejJDTkVB?oc=5",
-        "headline": "원·달러 NDF 0.55원 하락…미국 금리 상승 vs 중동 불안",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/24 07:31",
-        "published_ts": 1787524269.0,
-        "tag": null,
-        "first_seen": 1787525123.519994
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE81cWZlRWR5eDJ6bmF3WHhvZWVrNWdpMm5TREZPQXZtd192S0NYdlNxY0puR3ZuamJlbDFhRmVvRjhyNk5Fa1dJdGpuTlVUTTIwSDNDTXhhNA?oc=5",
-        "headline": "글로벌 금리 천장론 ‘솔솔’…채권, 지금 담아도 될까",
-        "summary": "",
-        "source": "데일리안",
-        "published": "08/24 07:03",
-        "published_ts": 1787522580.0,
-        "tag": null,
-        "first_seen": 1787523324.433791
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0VxaWRJcUJPQnU2MU5kMjRSamJPYkZfbVBoVEEwcEFqaEJyeTJvVlhPNnFEZ3NVVS16MjdGbFdCSjAyeTFWZWxGeUVJTkZvMHQ0X3pSSDh4cmdCMzFhZGdiN2VSNjJPWGRrVVk2WG9SZUZhTTFLZTZtVzh4TUszSEYxWnJ0VE9mdnZFTjNGdDh5d28?oc=5",
+        "headline": "Fidelity Short-Term Bond Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/25 02:25",
+        "published_ts": 1787592300.0,
+        "tag": "Global",
+        "first_seen": 1787593527.8248382
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalduSDRhMnlkZ2RzdkxwdzUyNnpPZzN2WFhIeFNMbC1oMWVyTE53ZlZQWlBlRWxkNTFlNGRJTElFWmdNTzQtSmFPWG9MSENKUDNsUXpnM0c1RW5vTEFFTC05bXBnMGo4RTUzLWY3WFEzaVMxcDh4Uk5HMzQtWUFVckNNQk92WVBYUS0zMTZ1eFdWSFJHdk9adWh0cGFLZmFTajcwREhld01YWkxoOThrVkY0M25iNHVkTmd3?oc=5",
         "headline": "Scott Bessent’s $1 Trillion Bond Market Fight — Treasury Yields Aren’t Buying It",
         "summary": "",
@@ -1800,6 +1810,16 @@
         "first_seen": 1787585433.3079588
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JeDMyUktfbEdOSHpHUmVkMy00QXJCUFdCTUpxS2QwSzVtNWpvVlMwSzd6QTBqWFE2VjZ6cnhCMmUya0hBS2xKMkZIMUlFY2kxcUJQNjd6Z19tTjA?oc=5",
+        "headline": "EVERYTHING I WARNED YOU ABOUT JUST HAPPENED... ALL IN ONE WEEK | Stanley Druckenmiller Real (iQflCUaVHj)",
+        "summary": "",
+        "source": "Mshale",
+        "published": "08/24 21:59",
+        "published_ts": 1787576353.0,
+        "tag": "Strategist",
+        "first_seen": 1787593527.8248382
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3RVoyQ0xsN2x0M2N0Q2QzbTlJQkN4Z3o5UlN0ZW84LWliSVJURXBSMHUyUjNDUEdZQ2dMZnR1ajhkdGZfVHRjSUp1YUY0NUZJbWpUMFZuS3oxZFdseFVsZXQ2cXF2dWlCOGhZa25fOWx3dGt1MEdMNNIBeEFVX3lxTFA3RVoyQ0xsN2x0M2N0Q2QzbTlJQkN4Z3o5UlN0ZW84LWliSVJURXBSMHUyUjNDUEdZQ2dMZnR1ajhkdGZfVHRjSUp1YUY0NUZJbWpUMFZuS3oxZFdseFVsZXQ2cXF2dWlCOGhZa25fOWx3dGt1MEdMNA?oc=5",
         "headline": "레이 달리오, 美 부채위기 경고…\"금·비트코인 비중 높여야\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787568702.0,
         "tag": "Fed",
         "first_seen": 1787569238.9095874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWjlickdFS3V2OW1kSElPaWVGQ2ptN0kxVERzTWVld1ZRcGJkU3YteEVYbmMwOW5SZ3JoXzJRSGRPMVlTNUQ3MndaRTFkVXkyczQzckwwWTU3ZnBySm9yYU1TWkNBYk5LSG8xX0I2ZVlWa2xKTjcxUHY2WUVpVmhDQ29BRnY5MmxwVmJTTHVDa09XU0RteTZNQlBBRlRQZ1VSekdVVmlGWnZmU2JrbjZwVlA3SE9FbVRfU3c?oc=5",
-        "headline": "NatWest stock steady as markets notice new debt listing",
-        "summary": "",
-        "source": "Ad-hoc-news.de",
-        "published": "08/24 19:41",
-        "published_ts": 1787568088.0,
-        "tag": "Global",
-        "first_seen": 1787583640.8852637
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV1JHMVVldmNQQWdoRkpoWnhPSnVkdGJrMV84Mno3bmpvdXZpdG1rNVM1dzNlcEpad2c4aktvOFdNNDBxeFdmWHBmLXAzU1FlZzhacFQ4RDRKQV9fU0c0aGFJVTZRTDNOaXkzd3VfbmFaUlA0TXhmUi1xUUl6SHhFZ0d5UHVmV2VxcGZXUTRhQ29xNC03TVRZWWlTa09Wak1GMG9wY1h0WGJINTV2a1E1VnNTektsT3J5Y1BhNA?oc=5",
-        "headline": "US $40 Trillion Debt Spiral Is Feeding Itself as Markets Underprice the Risks",
-        "summary": "",
-        "source": "Investing.com UK",
-        "published": "08/24 19:33",
-        "published_ts": 1787567580.0,
-        "tag": "Global",
-        "first_seen": 1787568325.5059931
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 02:31:07",
+  "updated_at": "2026-08-25 02:46:01",
   "yields": [
     {
       "label": "3년",
