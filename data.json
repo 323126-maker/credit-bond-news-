@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAwNUcxY0E3WDctODAta2lqWXVoZlB5a3RfMzZDSnotTXJMazNYMnE3ZEJxSWVsVVlnWTVERnVJWGpKbVA2UFA1UUttc1JNRUVRM214ZUk0Tk5PeUlldm9oQlpTRkZyQUIwaEstbE5fN2tGcjVDUXc?oc=5",
+        "headline": "Long-Term JGB Futures Extend Decline as U.S. Fiscal Expansion Fuels Bond Selling Pressure Amid Global Rate Surge",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/24 09:41",
+        "published_ts": 1787532060.0,
+        "tag": "JGB",
+        "first_seen": 1787532323.6648011
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5rTnN0YmFHRkpLYXBHSG5qQVFhQ2Z1ZFdmczZNNGd4NVdEZ2tCLVFIaHhXbUdpTVIwOGE2MmFobEI5cWZwYVhOZGlzMFBuN01C?oc=5",
         "headline": "日 9월 금리 인상 기대 82%로 급등…BOJ '인상 신호' 내놓을까",
         "summary": "",
@@ -1940,6 +1950,16 @@
         "first_seen": 1787491830.4802153
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5laFRWWkJ6b3ZZaGtwZEFpQmo3NThOT3hVNFdYQkpNNjdLUTk3b202UmZGZUU1RmdzcV9ocS1ReDRXeXp4V3pnNnJkSG51Q3k1UFhKa3BmbVFpYXFVYjl6dUFUdHJGZ3c?oc=5",
+        "headline": "미국보다 일본 국채 금리가 더 중요하다",
+        "summary": "",
+        "source": "한겨레",
+        "published": "08/23 21:27",
+        "published_ts": 1787488020.0,
+        "tag": "JGB",
+        "first_seen": 1787532323.6648011
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84QWZVNmpubWpyU1MtV1JNVE04amREdk1FZmZxZnVrbEZ5WXFnNDZTbUlmYWNRUW1MWGdYOWVfcGYydXBKRXFUT2lNOFVTUzB6a2ZNQmhpOXpLSnUtRnRiN1VCRDFheFB3d3dkYU5nWQ?oc=5",
         "headline": "Jackson Hole 2026: Fed Chair Warsh's Speech Could Move Markets",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "08/23 19:26",
         "published_ts": 1787480779.0,
         "tag": "Strategist",
-        "first_seen": 1787488229.7257116
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82MUllN29qVEdMUGRJcFhKbDVhbko3MWV4SFJTcDhQdTZvQjZRODFsdFMxSmZTVXZpSDZIVk5RNkEyWHAyQXE4Yjg2ZFZDbV9yd1dj?oc=5",
-        "headline": "일본이 어쩌다 이렇게까지 됐나…'세계 최악 빚더미' 오명 썼는데 금리까지 오른다",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/23 19:25",
-        "published_ts": 1787480700.0,
-        "tag": "JGB",
-        "first_seen": 1787482201.8676348
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPaTJ3c19zd2FsU0RKdzNXelZFMktzTUt4aHNDUGlWWVJPZmRjUWtnb19DbENlUWxKem1vWGN6NU43RnB4djNBbGpidlFmeVJDQW5tQmkzdDAzdDRrSW5zMnNyOWVvZlpvS09vYld6Uy1iY0otbG9TbVJxeWFXc1F6MW5kMDdHRGgxZGNDRkRaWW9ua2VsYjI5Xzl3TlRZU3U5R0hsZTRFYU5SeVJvME1SeEdZOXkzUzVFNWtIY0RVUzBNZ3ZJRFAyMTlvWl8xMUZkSUYxQ0xn0gHWAUFVX3lxTE9pMndzX3N3YWxTREp3M1d6VkUyS3NNS3hoc0NQaVZZUk9mZGNRa2dvX0NsQ2VRbEp6bW9YY3o1TjdGcHh2M0FsamJ2UWZ5UkNBbm1CaTN0MDN0NGtJbnMyc3I5ZW9mWm9LT29iV3pTLWJjSi1sb1NtUnF5YVdzUXoxbmQwN0dEaDFkY0NGRFpZb25rZWxiMjlfOXdOVFlTdTlHSGxlNEVhTlJ5Um8wTVJ4R1k5eTNTNUU1a0hjRFVTME1ndklEUDIxOW9aXzExRmRJRjFDTGc?oc=5",
-        "headline": "Investors seek clearer Fed guidance from Warsh at Jackson Hole address",
-        "summary": "",
-        "source": "Business Standard",
-        "published": "08/23 19:17",
-        "published_ts": 1787480230.0,
-        "tag": "Fed",
         "first_seen": 1787488229.7257116
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 09:31:01",
+  "updated_at": "2026-08-24 09:45:47",
   "yields": [
     {
       "label": "3년",
