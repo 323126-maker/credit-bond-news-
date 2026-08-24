@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrLUozYUdlTmp1UDVPT3daSk5PalBUcmtyRnR0N2tVOTJLZE9FMlY2S25ORjMycDVhMGY3SUxZc2NsYjZDUi1QRFNCYlJybUFvb01jeU9ad18yWnJWTTYwLVlUSlRSeFVUYXhtR3UtRQ?oc=5",
+        "headline": "[시포TV] 임이자, \"미래대응기금 취지 동의하지만 '짝퉁 예비비'\" 비판",
+        "summary": "",
+        "source": "시사포커스",
+        "published": "08/24 12:10",
+        "published_ts": 1787541023.0,
+        "tag": null,
+        "first_seen": 1787542684.7980745
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1M0prNUhSUm1vbllEVGVPanlSZXg3blhoNTFJajlYNkJqdzdUbXpldUhvV2NjSUZpdmNFNHNBUUJfOHBiWVZneWVBZEFna1BMUnJEeg?oc=5",
         "headline": "금리인상 사전포석인가…한은 통안91일물 입찰, 3년반만 CD금리보다 높게 낙찰",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787274180.0,
         "tag": null,
         "first_seen": 1787302463.7056527
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5BM1dBVUdGNEhwSVplWWxNSlZmcUV2NGxwbG1VdWJhcTZ5SVljdkpnczVfa05YNkJDM2xuRDA5Sk8yenNOZXZTdnNpQjNQTzhEMkpJ?oc=5",
-        "headline": "국힘 \"결산 심사서 대통령실·3대 특검 특활비 검증할 것\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/21 09:48",
-        "published_ts": 1787273291.0,
-        "tag": null,
-        "first_seen": 1787274036.166518
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 12:30:56",
+  "updated_at": "2026-08-24 12:38:30",
   "yields": [
     {
       "label": "3년",
