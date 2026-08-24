@@ -342,6 +342,16 @@
         "first_seen": 1787552125.1979039
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSkJ6VEtzaTNXdnVUenJhZVhGMVMtcVQ0THBNWlJZTGNrc29tcjlQX3FVblJmaWREa2dXZjRlVk0ycExZenBCdnlhUTR1Y1RZX2tZZ2o1Y2V1cUhJdkhpSHZocDljTC1rQnlHT0NuSTJCRmxxLUtjMHdZR2ZIQk1PTUZ6aWxOQm9na3c4UVg0SlpaNHcxZk1NajF1cU1IMHl1Z1NWeFFRUzFwWm13NTNOS0FmSTlzRkpGZkY3YTByLWdYZi1QUlJKQ1FLN3ZQMmFwNmR6LThaX2xTUnhXMXc?oc=5",
+        "headline": "미 증시 마감: 다우지수 140포인트 상승, SOX 2.7% 하락; AI 하드웨어주 매도세, 메모리주 하락 주도; 마이크론 5% 이상 하락",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "08/24 13:11",
+        "published_ts": 1787544660.0,
+        "tag": null,
+        "first_seen": 1787603432.5132346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yX0JaQVdPWnpkN1ZrU0wyM3NGNUlhY3NiOGl2S2luU2M4cGw4OUxlRFNtckZaNnpVTWw1YzdBNjFuWVdEZ0xTTXJDdTV2UnhYQXNOTUxHVy1WTUFv?oc=5",
         "headline": "금융투자협회, '토지신탁 시공사 리스크관리 실무' 수강생 모집",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787539068.0,
         "tag": null,
         "first_seen": 1787539525.3505597
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PWDR6OFFsSmZTcThjSXc0MFl4WVFiWUhESEdXS2RmVkRhRzI0WmZKYS16R1p5czZXS04wU2J6bWtLa0lLTkpHQlFpWTB4YWNRa25v?oc=5",
-        "headline": "'모든 버블은 금리로 터진다' 정부·기업이 만든 채권 홍수의 역설 [Deep Spot]",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/24 11:25",
-        "published_ts": 1787538300.0,
-        "tag": null,
-        "first_seen": 1787539129.715512
       }
     ],
     "perpetual": [
@@ -906,6 +906,16 @@
         "first_seen": 1787566524.239955
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmeWExcENwTUl0YkJ5aG05Mm9jcmtjcWctdVJ6S1pCYk80Nkt5cE42M1FaNVd5cndqSFI4UjZxT2RCdHp3UVhSYkZfNUZ3YWZXMkE?oc=5",
+        "headline": "AI가 보내온 ‘채권발작’ 청구서 … 누가, 무엇으로 갚나",
+        "summary": "",
+        "source": "매일경제",
+        "published": "08/24 05:00",
+        "published_ts": 1787515200.0,
+        "tag": null,
+        "first_seen": 1787603432.5132346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlRndzN2VucUV2bFJPcW9aNFYxcmJZUnRvMDZZUGY2OHhjYnZrVVplSXVJNHR1V0t4VUR3dTVNenl1ZGlGdFN5RkYtUnBlNFVsZ3JwcS1teHPSAVRBVV95cUxNdmR4N1hEckI5YkUzd19HS240ZXVBZ21iQk5YUF8ySXpTS3VBb09xZ1lueExFSUVJVTdSSXlRVzRRcmNjRDZvNWJMem0zMzlvZTlGYks?oc=5",
         "headline": "반도체 세수로 100조+α… “재정 저수지” vs “정부 쌈짓돈” [미래대응기금 조성 논란]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787279258.0,
         "tag": null,
         "first_seen": 1787280325.8345406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PN2xiMklsOXFIODFRc3RsdFpwLTJEc2h0V0JYMTdQZDJIVTg3MjAzanRENGdCTXZnUVR5OElPbHB3cDNST0Z0V25SZ1JyTVlPNnptc3VJWkJjN1NZeDk3WUFJb3o0QkVVWm9qZEhsc28?oc=5",
-        "headline": "국힘 \"과도한 추경에 나랏빚 증가…결산 심사서 책임 추궁\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/21 11:13",
-        "published_ts": 1787278434.0,
-        "tag": null,
-        "first_seen": 1787279432.9041524
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 05:15:49",
+  "updated_at": "2026-08-25 05:30:58",
   "yields": [
     {
       "label": "3년",
