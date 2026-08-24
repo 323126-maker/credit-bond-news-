@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHFlWnZob2cwZklEUjNJWkkxanRiUy0tQU9qQ1FOUnI1VjRqWEhQNC10SU5sYjFOS04zX3VRNHRHazZSR2RfdmVHQmZDSmY3Ums3dFRiTXdwVDhZSWJScHdaZGNXTXkyeHBzUFZvOVRZV3J4clhIZ2pBTWk1RTJHbjBUemRpWHpzYW9ad1BraHZDMjZIcnNYbjJBd2YyZmV2TGVFWQ?oc=5",
+        "headline": "Kevin Warsh seeks to reassure investors as U.S. economic strains worsen",
+        "summary": "",
+        "source": "Financial Post",
+        "published": "08/25 03:37",
+        "published_ts": 1787596654.0,
+        "tag": "Fed",
+        "first_seen": 1787596736.924361
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWS1OMG55enRQN0luN2I3UGk2UHBkZ2tCdnpTazh4dW9EV2ZJeEtTbi1qQ3JHaVp6QlYzRGVpeEZzYnkxOXY5czFNSTcwa285ZEZRcnZBTEd3X2JIbUk4YUhlblRxNUVlODJSSEtncHhUU19hMzJoLXg2bXE5U3ZFekU3Um9KMERFSmdRTWkyYzM?oc=5",
+        "headline": "Two Investors, One Debt Number, Same Gold Call",
+        "summary": "",
+        "source": "GoldSilver",
+        "published": "08/25 03:05",
+        "published_ts": 1787594740.0,
+        "tag": "Strategist",
+        "first_seen": 1787596736.924361
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM3ZyMVlOUGd0aWNwQzFFWl8zXzM1MWRKSHpqLVdZTzZTSktrLUVpZFg2N3lRYVpUVHhBOXktaHZTdndJMk1uVlpvU3F6TWYzaENxVkt1LWpLYzlJd0E3SUhuZkZDN3U4djlvT29XWm4yc0VTd0tJb3RfYWRNVWlwTzkwS2lfSzBORTA2MHVXc1dSV0U?oc=5",
         "headline": "Markets near highs despite bond yield spikes an...",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787572740.0,
         "tag": "Global",
         "first_seen": 1787573726.9700017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMzZfY3JhSWZFejQ5VDB3UVctZENGRk9kNXRYNHpOVDhqTjBsbDcya0ViNDNHYXhmeUV3bkpOZldFN3FtU1pqUXMwTmVCV3ladGhWVXNGN0ZzUmdYSzg0cVcyTWQ5MFR6bFF3ZUJ0cG9DQ19KR0xxQzdWaXlSWWxFbENLakxOM1VQ?oc=5",
-        "headline": "Mohamed A. El-Erian: Bond markets may be challenging Federal Reserve",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "08/24 20:35",
-        "published_ts": 1787571321.0,
-        "tag": "Strategist",
-        "first_seen": 1787571926.2626438
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ1ZYMEVTV0pFYU1RLWF5aHZYZnE5dXlmNnVwZGJzOUZfbXFrVzFCUy1PU1c1V3ZFb0NFMjhhaG9Hbmt0ajVBdzlGT2JnRXJWdUtrSWUzcXM3R2lwQkVEZnJ4MHltWWg0dF8wRElNbnZVZkdNdkhQRW5tNHl6UW0wS1pVOFVKVXNvWXU4NzVOeGJhQ3Y2VzJQNQ?oc=5",
-        "headline": "IUSB: Hormuz And AI Buildout Still An Issue For Rates (NASDAQ:IUSB)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/24 20:30",
-        "published_ts": 1787571000.0,
-        "tag": "Global",
-        "first_seen": 1787571926.2626438
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 03:31:05",
+  "updated_at": "2026-08-25 03:39:20",
   "yields": [
     {
       "label": "3년",
