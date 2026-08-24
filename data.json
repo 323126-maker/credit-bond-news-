@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42cnhWTmYzZzkzWjFuN25BT043elM1Q0VyME9uS1h6bnRDV0dEdVJDb1FTZEl3elNHdThYelNvWm5vQ0w0X0xZQ0tsQkN2NllySmRya3ZwLTVEM0w1VXMtRzUyZUlqbWhuN196Y2pibXItQQ?oc=5",
+        "headline": "[채권-마감] 국고 3년 1.8bp↓…外人 폭풍매수·초장기물 주시",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/24 16:59",
+        "published_ts": 1787558355.0,
+        "tag": null,
+        "first_seen": 1787558816.7839725
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBEa1k4dDNfRF9mbGRCT0piS3BhQmJNS3R3WmQ0QnVLaGlmYmVCSHBvMmptT1pWQURnYndqZ3R1aUI3VzNodkxtZkE2TVZNN0ZLT0dMbXFSMDNaM0xs?oc=5",
+        "headline": "채권 운용손실 눈덩이…美 국채금리 급등에 은행권 골머리 · 시장 영향은?",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/24 16:53",
+        "published_ts": 1787557989.0,
+        "tag": null,
+        "first_seen": 1787558816.7839725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNTRhXzl5TXEyaWNveWM2Q3lDMkY0SmdMX202eldETDRsRVlVcDRrNkJvbW9IeHRYWFhyRmdodVdoaVdYTVFqRFFnbldjRmFsUDVlem5OYmlrdHlxY0NmRXlpWQ?oc=5",
         "headline": "[단독] 대구 ‘탑3’ 중견건설사 태왕, 법정관리 신청",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787388500.0,
         "tag": null,
         "first_seen": 1787393724.7026458
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96TjNSbHZNS2VZVGtlYUs2MGZWUGFlUzVHQkVaNHJCQjBEelYzTDVTSmFLUEM3bjhvRmVNdXphSTRDNFBrQ04xSmU4RFk5S2UzYktHNUxNZjZYRjNSR3RrZmJfVUpjd9IBZkFVX3lxTE96TjNSbHZNS2VZVGtlYUs2MGZWUGFlUzVHQkVaNHJCQjBEelYzTDVTSmFLUEM3bjhvRmVNdXphSTRDNFBrQ04xSmU4RFk5S2UzYktHNUxNZjZYRjNSR3RrZmJfVUpjdw?oc=5",
-        "headline": "STRC, BTC 반등에도 100달러 기준가 못 회복",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/22 11:29",
-        "published_ts": 1787365780.0,
-        "tag": null,
-        "first_seen": 1787483354.3082755
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmdCSWRfZEVIdmpYckRXaWE2U29tTUo4VGNaSG9XWWVJdkhkUUZHX3N0WXFLdUVNd1ZzYjUzNWdLTDQ4aWEyM0ktNGpMTUduLUlhdVp3RldqemZmSkRMMXRxUDBYeHY1cV9vV2lDNlF1NXJveHQ0V3kwU3AydWxsel84ZlVmRUZCSnNpeUhjWQ?oc=5",
-        "headline": "BBB급 시장이 외면한 이랜드월드…또 20억 미매각 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "08/22 11:03",
-        "published_ts": 1787364236.0,
-        "tag": null,
-        "first_seen": 1787364922.011894
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 17:01:01",
+  "updated_at": "2026-08-24 17:07:17",
   "yields": [
     {
       "label": "3년",
