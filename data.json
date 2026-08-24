@@ -52,6 +52,26 @@
         "first_seen": 1787562039.911598
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Vl94MWNDOXpBaFU4cV9XQUxIMEdtRUdRUFlDak9OdnpsU2Jqam56a3ljUW9SdWp4WVZIOGhlUDZGWEtZTHgyZ0p2TWxoR3pUWXZka19IcWtURVR4OXFEeU5wY0JteGhhN1IxNmZmREnSAXRBVV95cUxQN1NDT2MwTC15OG83T3BXd1pHdVJzc0lqazlQWTlnVnpaVUdLdjdRcHBmWnBjby1LQ2NsTlliVnY4all5Q0ZFaG1JczM0MzJNVHF0NnFGQ3doOXFUQWR3MWdheVNleGxRb0ZNOHZCMWZFUENMaA?oc=5",
+        "headline": "달러-원, 1,382.40원에 서울장 마감…작년 9월 이후 최저 또 경신",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/24 17:31",
+        "published_ts": 1787560318.0,
+        "tag": null,
+        "first_seen": 1787571033.2523828
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aTc5R0Rhd1l5cjdwVVJyZ3BJZktCaEdoZnY4aUNBTE1HVHA1NDREN0ZCTmNhcUZOd2ZDNHdCOVdsNmtVUU5UVkN3YnZZdHI0MFZ1M1R5ODg3N0JzMGNtaVVrSHRQeGhTNjdXRkF4RXlCQQ?oc=5",
+        "headline": "증권채 조달 러시…9월 최대 1.3조 발행 채비",
+        "summary": "",
+        "source": "마켓인",
+        "published": "08/24 17:30",
+        "published_ts": 1787560249.0,
+        "tag": null,
+        "first_seen": 1787571033.2523828
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1iTXFwRXAyY3REdXdfVm1yMjNxRkZRejFNdTZ5QzdhZkZWQWhvRkdNMTBsQWZoTjg1amRIdjV0OVh1T2s0cXUzZ1hhZi1UTjh5dy1uaERIN1lWU19sR2tRdFpYb2dKWVNEUS0xNkd2aUtYbHFSMDBtVg?oc=5",
         "headline": "금통위 앞두고 원화·채권 강세…씨티 \"내년 국고채 물량 더 늘어\" [김혜란의 FX]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787455875.0,
         "tag": null,
         "first_seen": 1787490034.4665627
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1DT2tvOU84bjdmNGZPcnpnWnp3c0ZHODN0NDk3VlFzMzlmUjlyTElNb0oxdGhGTHJsb1VsaG9uMU1DdVMtTUVSaVpTZm9zZVdfcGpZanJPZ0pSQQ?oc=5",
-        "headline": "\"채권시장에 참교육당했다\"…美 재무장관 처방, 이틀도 못가",
-        "summary": "",
-        "source": "한국경제",
-        "published": "08/23 11:38",
-        "published_ts": 1787452702.0,
-        "tag": null,
-        "first_seen": 1787453122.7816882
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3WUkzSTJrWTFneWdCM190Q19tY3ltMXBRSE5ybFpJdHJTSUdjcjFiM0ZiaXZ5eGNCMWs1RWttd2ZfVExHLXY0dk9kSm1SS3kxZjlXaXhRYm1nSmdvcEh4MVpSTV8?oc=5",
-        "headline": "美국채금리 급등 못 잡은 베선트…\"채권시장에 교육당해\"",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "08/23 11:08",
-        "published_ts": 1787450887.0,
-        "tag": null,
-        "first_seen": 1787452235.2794158
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 20:15:46",
+  "updated_at": "2026-08-24 20:30:57",
   "yields": [
     {
       "label": "3년",
