@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYUY4US12S3JXX25PSnRpbVlyTk94dzBrcDV4UW0ycTRTUkE1U2lKSDhIZjMwVzVkZHd3UkdxWURacEx5dEVuTklVMkVWR3NWdWRyUDBDUmw4VVViNTliMdIBeEFVX3lxTFAtSDNBajgwMS1IVXRwd2pxa0lvR2ZtX1RzOEx1LUdjWHhfMGRMOWl4b1ZUU1Y0SG1WbHNIVzE1cU13bkhUaHBjclNvd25XYW96QkQ3TFlPbWtQNnFPUml3YmJucElBNEpReUJNMHBJSDI4UDFrSUx2Sg?oc=5",
+        "headline": "뉴욕증시, 국채 금리 하락에도 혼조 마감…다우 0.26%↑",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/25 06:26",
+        "published_ts": 1787606777.0,
+        "tag": null,
+        "first_seen": 1787610631.9335592
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yNTUzQW13SWp2V3JCdUxUYzhhYzdQdjZ4eTdXTGFVdHdldk1UYXQwTWRUTXQ5VEVMdlhEQlV0OEExOTByUVdwcDNIdE4yYkVlaGE0WlJ6VFgwT1g1LUNhR1JfMmp1VE9lWldpeDY1LUx4dw?oc=5",
         "headline": "[뉴욕마켓워치] 반도체주 덮친 AI 비용 우려…달러↑주식·채권 혼조",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787550960.0,
         "tag": null,
         "first_seen": 1787552125.1979039
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSkJ6VEtzaTNXdnVUenJhZVhGMVMtcVQ0THBNWlJZTGNrc29tcjlQX3FVblJmaWREa2dXZjRlVk0ycExZenBCdnlhUTR1Y1RZX2tZZ2o1Y2V1cUhJdkhpSHZocDljTC1rQnlHT0NuSTJCRmxxLUtjMHdZR2ZIQk1PTUZ6aWxOQm9na3c4UVg0SlpaNHcxZk1NajF1cU1IMHl1Z1NWeFFRUzFwWm13NTNOS0FmSTlzRkpGZkY3YTByLWdYZi1QUlJKQ1FLN3ZQMmFwNmR6LThaX2xTUnhXMXc?oc=5",
-        "headline": "미 증시 마감: 다우지수 140포인트 상승, SOX 2.7% 하락; AI 하드웨어주 매도세, 메모리주 하락 주도; 마이크론 5% 이상 하락",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "08/24 13:11",
-        "published_ts": 1787544660.0,
-        "tag": null,
-        "first_seen": 1787603432.5132346
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 07:26:46",
+  "updated_at": "2026-08-25 07:30:59",
   "yields": [
     {
       "label": "3년",
