@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0UGJIOXl6cDBRdzZreE9wSnF0Z25UWEFldUcxTWFYTEJVdW9Ebm9kenNMNTNMd1R5bnlhU2NELW1ZNkk3TkVZVTJ0azdEakVGcU9z?oc=5",
+        "headline": "소프트뱅크, 일본서 개인 대상 8.6조원 채권 발행 계획",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/24 15:20",
+        "published_ts": 1787552400.0,
+        "tag": null,
+        "first_seen": 1787553033.302192
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yZ2F6VHFoUURJV05DNzFZVkE0LXEzaTBYenc3N1pjNUREQjFMYUs5dVgzTl9IZzhzbHNkNkpJbWM2UXdqMmZ3V1dZMG9wdFRiN0U0aFFpTGNWemhOaVJUZA?oc=5",
         "headline": "씨티, 내년 국고채 211조 발행…\"미래대응기금에 감소폭 제한\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787347800.0,
         "tag": null,
         "first_seen": 1787390123.9379203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBQOWh1dFJ6X3lpanYxb0ptYXFyRnVyQ1Jrd1RpcFhpZFRxYmVzdXNaWF9HTTY3YkdmYU9yNmZlaVU0U2UyRExQWFZmNXlSLV9vQkktY3F2Rm52WEhKc1Znb1h3N0NpamFZTU1mS3JB?oc=5",
-        "headline": "S&P, 강력한 성장 및 재정 노력에 카자흐스탄 신용등급 BBB로 상향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/22 06:27",
-        "published_ts": 1787347620.0,
-        "tag": null,
-        "first_seen": 1787348549.5754704
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9HRlJmSkF0NXVnb29ReVVsTW10TTBGZ0dFckw3R3NIVnlqeEVpOGluMjlkeklHeVFWdUpIWk9ua3BGYURFSjRQWm1JZGJSeC12emVBT2h1dXpVZlhKTVdGR3MyNDhlakExSDcwVjh4MU0?oc=5",
+        "headline": "안도걸 의원 “이재명 정부 출범으로 재정 파행에서 정상화로 극적 전환...적극 재정 통해 성장과 재정건전성 높여야”",
+        "summary": "",
+        "source": "산경일보",
+        "published": "08/24 15:20",
+        "published_ts": 1787552456.0,
+        "tag": null,
+        "first_seen": 1787553033.302192
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTQ3k3WnFvcG9fMVRvRUppaGk0RnUyakw3Tk00bXlWcERCNjVaTkJ5dHpxeVdHQmZ2alk1TjRBVmJBZ3ZTakM1N0FmdVRTZnBzTGVV?oc=5",
         "headline": "[공지] 이재명 정부 기초연금 개편 논의 바로잡기 기자간담회 개최(8/25(화) 오후 1시, 참여연대) - 참여연대 - 사회복지위원회",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787037396.0,
         "tag": null,
         "first_seen": 1787044523.5248635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpTXBkVmhCQ2ZwVV9HWWREdGNaaWZZWmUxNzR2Y2JQNW96QnVwWTRQSW9oT1BUZ0FoVW1KWk53R2Npb3RQVUU2RjZaNm5KaU9yTGZxMXRB?oc=5",
-        "headline": "\"정부, 부동산 세금 정책 다시 바꿀 수도 있다\"",
-        "summary": "",
-        "source": "위키트리",
-        "published": "08/18 15:59",
-        "published_ts": 1787036340.0,
-        "tag": null,
-        "first_seen": 1787037326.8027704
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 15:15:47",
+  "updated_at": "2026-08-24 15:30:54",
   "yields": [
     {
       "label": "3년",
