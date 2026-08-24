@@ -1830,6 +1830,16 @@
         "first_seen": 1787513431.6729193
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORkxpWW4zR0FzYXZWZTJCcGprWkZSSnNtblRIbV9CRFluYjhXZEtEaVUtanE1YVBCUTR1a1loUzU4Q0Z5M251M190bjhwV3pENHBpOVJneFhBczlEaEloVy1kSE43LWM1cGxObDU3VE5ZaGtjV1Q4cjBFZktkWVpncDEyZmt4cDItRUxwVzJETWxCSzIySHhXTnJpa1l2MXdGaXdRYVNfTFZkMWdsMEZ0OG9fci1DMmJvTUhLM0tB?oc=5",
+        "headline": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "08/24 04:04",
+        "published_ts": 1787511840.0,
+        "tag": "Global",
+        "first_seen": 1787535930.951739
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hanVuYjFIdXBsOHFwOXhWd2drT1NPcjdsaEpPS2psdndtVkh3SmhoZ1hKSHJmNEtBckZGY3BQVS1wcllIOW5HYjFRU2VyZ0hWR2hlWFA2UHY3enFublJIX1pSZlU?oc=5",
         "headline": "Minneapolis Fed President: \"U.S. Treasury Market Functioning Normally... Long-term Yields Determined by Fundamentals\"",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Intellectia AI",
         "published": "08/23 21:07",
         "published_ts": 1787486853.0,
-        "tag": "Fed",
-        "first_seen": 1787488229.7257116
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTkxjSEhjZzlRM0p3a2FlVmlpZWRhWGZnUzRFRFJLMnVQQ0thTjIwNmpBMHltWjFCVW44WjA3OC1TclVPci1pYzMyLXgtdFRiNG1wOEF0cjF2RGlKRVgzUkZ1MTRpYjNBZ3FERDBCMlZSLWFCYTZvMDBIRGtVUmRfR3dDaEx2WXZiOHd6ejczUElpUW5wUE4yUlBqdTdCN0tQTndVMDlXUjBQNzJxUzJWUnFaYi12d1F6QXZJbnB0QVVfdEJqNXhMR0huYzYtVjN1UTBiQTJQZw?oc=5",
-        "headline": "The Week Ahead: Warsh Makes Jackson Hole Debut as Nvidia and Marvell Earnings Test AI Investment Demand",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "08/23 21:04",
-        "published_ts": 1787486672.0,
         "tag": "Fed",
         "first_seen": 1787488229.7257116
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 10:30:51",
+  "updated_at": "2026-08-24 10:45:55",
   "yields": [
     {
       "label": "3년",
