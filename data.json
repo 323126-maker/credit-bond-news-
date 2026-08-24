@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9qcEQ2cWx6eTZGNlRpNE9tWjB4WGdTSzNnZzhhMjBFQnVVM1JGS0tNNWR6SGtFbTAydVlzZGFwbUhmNE51MGN4Ty12U0Q4bWhKNzVHMHJhckwzTnBn?oc=5",
+        "headline": "[기술과 쩐의 전쟁] ④ 호르무즈에 발목 잡힌 오일머니...자금회수 나서나",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/25 08:40",
+        "published_ts": 1787614800.0,
+        "tag": null,
+        "first_seen": 1787615123.96205
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZVE2eGNfeW5KcEFlc24zREF5X1plaEhwS1pFRDUtcVU3T1lsWXdDWldVcWxuX2FMR3llekhVQktMWjQ3MkdCR3V0Wl9OZ2tDRWlqWjZMSHl5Z1NFYm9BaVlFMG5EQmRYNnBBaEdvVVY?oc=5",
+        "headline": "[외환] 이란 제재에도 유가는 하락…1,383.20원에 마감",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/25 08:29",
+        "published_ts": 1787614173.0,
+        "tag": null,
+        "first_seen": 1787615123.96205
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtYUY4US12S3JXX25PSnRpbVlyTk94dzBrcDV4UW0ycTRTUkE1U2lKSDhIZjMwVzVkZHd3UkdxWURacEx5dEVuTklVMkVWR3NWdWRyUDBDUmw4VVViNTliMdIBeEFVX3lxTFAtSDNBajgwMS1IVXRwd2pxa0lvR2ZtX1RzOEx1LUdjWHhfMGRMOWl4b1ZUU1Y0SG1WbHNIVzE1cU13bkhUaHBjclNvd25XYW96QkQ3TFlPbWtQNnFPUml3YmJucElBNEpReUJNMHBJSDI4UDFrSUx2Sg?oc=5",
         "headline": "뉴욕증시, 국채 금리 하락에도 혼조 마감…다우 0.26%↑",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787553529.0,
         "tag": null,
         "first_seen": 1787558438.5385635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0UGJIOXl6cDBRdzZreE9wSnF0Z25UWEFldUcxTWFYTEJVdW9Ebm9kenNMNTNMd1R5bnlhU2NELW1ZNkk3TkVZVTJ0azdEakVGcU9z?oc=5",
-        "headline": "소프트뱅크, 일본서 개인 대상 8.6조원 채권 발행 계획",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/24 15:20",
-        "published_ts": 1787552400.0,
-        "tag": null,
-        "first_seen": 1787553033.302192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yZ2F6VHFoUURJV05DNzFZVkE0LXEzaTBYenc3N1pjNUREQjFMYUs5dVgzTl9IZzhzbHNkNkpJbWM2UXdqMmZ3V1dZMG9wdFRiN0U0aFFpTGNWemhOaVJUZA?oc=5",
-        "headline": "씨티, 내년 국고채 211조 발행…\"미래대응기금에 감소폭 제한\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/24 14:56",
-        "published_ts": 1787550960.0,
-        "tag": null,
-        "first_seen": 1787552125.1979039
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPWXpwQmpkOEVaQzN3TEw4VVZ2VVFpeGdJUXlMa2tNYWNEMDBhM0w5SW0wb29JMHhIN3YxcUFYUzBIQzJKcUNmSGJmRTBzdnBZZ2xHSmtTQjF0WXRLbGhWSUFYeElqeG1wQkk5NktzOVlkbUg3eUNqR0lJZzFYYUxuZkhFWXZCVERsRzVDY1o1cUlwWWpPU1NtejdB?oc=5",
+        "headline": "Warsh’s Next Move May Be Fewer Fed Meetings",
+        "summary": "",
+        "source": "Forbes",
+        "published": "08/25 08:21",
+        "published_ts": 1787613671.0,
+        "tag": "Fed",
+        "first_seen": 1787615123.96205
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONUxtOXVqcy1zbXJOLXpIbVl5UFZiUlB0NlpEcHZlaW1qMDV5b2ZmUVdhRzNDbXdvYnYyamN0OWhvcUJaUTl0Y3BMZ0lVYWU3VlVzUl9LVXF4YUk4YnBMeno0cmJNaUpoeEFFcG5SWjBCVW8zblJCR1ViX2JBbXA2S0ZSUXh2RVJLYVJNMG1aYlRMcFpzaWkwMTFVRkhCeWFsQ1VmZFczbmZsZw?oc=5",
         "headline": "What to expect out of Fed Chair Kevin Warsh at Jackson Hole",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1787581080.0,
         "tag": "Fed",
         "first_seen": 1787586326.9263773
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0zREhOdVI0T2pCck1fVEUwNmRzbGlrNC1FZmx1VVdFbjdNRVJPQ3ZsUUNtR0h3RmZzZUtBZXhnejVpQzNNTUtHOWk3LWVFM3FkSXhjVWNIbFRhckg1dW1YQXFCMFJkWEpTdl9LcFctVTByUkJZZWswTkVndl9DUQ?oc=5",
-        "headline": "Don’t Leave the Party… But Start Drinking Water",
-        "summary": "",
-        "source": "ETF Database",
-        "published": "08/24 23:17",
-        "published_ts": 1787581056.0,
-        "tag": "Global",
-        "first_seen": 1787581833.323374
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3dDVlSWw3c0thY2RJa3lQSDJpT0o1M0x4Qm1CS3AzQkI2WE1VYjlMZ2JHbXE3MWIwUzZCbVZwenpTMm5vNTY5WGtFYlNKQlVMUlpQb3g1YkVPN2pWcGQ1RFd4MnFXdmZYdG5MTmdJLVFMUQ?oc=5",
+        "headline": "한화·현대차·SK, 금융지주 차입 확대…대규모 투자에 빚도 늘어",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/25 08:33",
+        "published_ts": 1787614391.0,
+        "tag": "우리지주",
+        "first_seen": 1787615123.96205
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSmJDQ1pqM1pNMVJSN0tob25WSUxRX1c3cm85SGtybUZJeFM2SnAtQWNtTUd6dm9XR1U1eWxoaHlucGxPQkxIUkFWSmF1U0RBVm8wWHZqblJVUzdWX2xST2Y2Z054VHJIRmVIVnZqdnBlUmxnZ2RKTjY1aFhLSmRKWTZKSFNZbEFvS2cwWUlB?oc=5",
         "headline": "고금리 영향 카드 업계, 모집인 3년여 새 반토막",
@@ -2400,20 +2410,10 @@
         "published_ts": 1787147160.0,
         "tag": "삼성카드",
         "first_seen": 1787169637.6983757
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPY2dsSEVfNlVZRVd6S0hrcS1iVXo5Tzc1NUZIMTNYMjZVZzFSaTNmeUN1emc2cWRKUTRWMTJoRWs2cG9uSUhxWksyRXQybm5tUW80UkJYU2Nnc3FCR0hOOFhadXVxLUlBQ24zZWNDZlJYeFXSAXNBVV95cUxQT2NnbEhFXzZVWUVXektIa3EtYlV6OU83NTVGSDEzWDI2VWcxUmkzZnlDdXpnNnFkSlE0VjEyaEVrNnBvbklIcVpLMkV0Mm5ubVFvNFJCWFNjZ3NxQkdITjhYWnV1cS1JQUNuM2VjQ2ZSWHhV?oc=5",
-        "headline": "현대카드, 'CJ올리브영 현대카드 플러스' 출시",
-        "summary": "",
-        "source": "초이스경제",
-        "published": "08/19 19:49",
-        "published_ts": 1787136599.0,
-        "tag": "현대카드",
-        "first_seen": 1787147131.6640606
       }
     ]
   },
-  "updated_at": "2026-08-25 08:31:02",
+  "updated_at": "2026-08-25 08:45:47",
   "yields": [
     {
       "label": "3년",
