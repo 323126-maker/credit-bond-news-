@@ -62,6 +62,16 @@
         "first_seen": 1787571926.2626438
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE01VDJ5RVk4VXhuNDVlTndSSWdBTFlZT2VkOE1JazlvaFJFc2ZnT09kQjd4WloxWE5ZNFJ1bl9LWVEwZmZQNDdWLUlpVWxLenJfaE9kRWVocEVRdUppb1lMZmR6NHhGcG5sdFVKcmxlbGRyU0VyZUxfUVVRRk9DZw?oc=5",
+        "headline": "부동산이 상승세를 주도하며 베트남 지수(VN-Index)가 20포인트 이상 상승했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/24 20:34",
+        "published_ts": 1787571263.0,
+        "tag": null,
+        "first_seen": 1787587240.1012712
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41NUo4dlBGU2R5ZzJsYjBMNlNuZ0Y3VGxQRWwzb3didmhiY2otdmNTV09nMFFHU0dCa1BvUGRlRjFiZEZUaFVkY3Z6UXlsMEZYRko5VzAxZGFWelBCQU42Y0Y3YkFhbVpnTGpqc1lrd2Y?oc=5",
         "headline": "무디스, 파키스탄 국가 신용등급 Caa1에서 B3로 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787522400.0,
         "tag": null,
         "first_seen": 1787523324.433791
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02aEtOR1NJUzl6Y1U1dXNEUWZnSUFNM3J0YUlXYUQ5RnZ5cnBVemxhT0J2V0JLc3UtQk9XOUR2TFJaYVdxTFNUWVFKZWVMUzJDazllSk5mcWRSRUs2YWVHa1VyMnZwQVk5OVQ5bml2c1dYRkN2?oc=5",
-        "headline": "금리 부담에 단기채ㆍ주식관련 사채로 조달 늘리는 기업",
-        "summary": "",
-        "source": "대한경제",
-        "published": "08/24 06:20",
-        "published_ts": 1787520039.0,
-        "tag": null,
-        "first_seen": 1787522067.318995
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQalduSDRhMnlkZ2RzdkxwdzUyNnpPZzN2WFhIeFNMbC1oMWVyTE53ZlZQWlBlRWxkNTFlNGRJTElFWmdNTzQtSmFPWG9MSENKUDNsUXpnM0c1RW5vTEFFTC05bXBnMGo4RTUzLWY3WFEzaVMxcDh4Uk5HMzQtWUFVckNNQk92WVBYUS0zMTZ1eFdWSFJHdk9adWh0cGFLZmFTajcwREhld01YWkxoOThrVkY0M25iNHVkTmd3?oc=5",
+        "headline": "Scott Bessent’s $1 Trillion Bond Market Fight — Treasury Yields Aren’t Buying It",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/25 00:37",
+        "published_ts": 1787585877.0,
+        "tag": "Fed",
+        "first_seen": 1787587240.1012712
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWNFdTh2R0t0ZE9RTXF1eUZqb0RGZjJKZTllZFdVdE5pTjY4a3lIcTFFd1dRTFFLUG91a09FVC1FaUdnMkdQZlZkTlRSWFBURjVfNy1tZXFVMGt0TVllZHFJRmlwNjU0a0djZWhVbmdFTldWVlRhZjdmSmVwbHRJX1BlbVZNX1lRQTJEOUJ4TzZsOEo5T3E0VlZGcVdHNWJOTVRwRGdUcw?oc=5",
         "headline": "What Kevin Warsh can say this week to spark a new market rally, according to economist Jeremy Siegel",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787566097.0,
         "tag": "JGB",
         "first_seen": 1787566524.239955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Bd2JoclJ5MHc1bENXS0tLcE1QYUdrQUpMNEFrX3FycjdhLWJIVlppX0Q0ODNzaUFIVE1WSUtmdVVJSHgyTU93YzVoaUxvNEU?oc=5",
-        "headline": "\"3년 내 터질 수도, 금·비트코인 모아라\"…세계 최대 헤지펀드 창업자 경고",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/24 19:02",
-        "published_ts": 1787565771.0,
-        "tag": "Strategist",
-        "first_seen": 1787568325.5059931
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 00:52:02",
+  "updated_at": "2026-08-25 01:01:02",
   "yields": [
     {
       "label": "3년",
