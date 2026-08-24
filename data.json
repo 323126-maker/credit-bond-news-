@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNTRhXzl5TXEyaWNveWM2Q3lDMkY0SmdMX202eldETDRsRVlVcDRrNkJvbW9IeHRYWFhyRmdodVdoaVdYTVFqRFFnbldjRmFsUDVlem5OYmlrdHlxY0NmRXlpWQ?oc=5",
+        "headline": "[단독] 대구 ‘탑3’ 중견건설사 태왕, 법정관리 신청",
+        "summary": "",
+        "source": "영남일보",
+        "published": "08/24 15:55",
+        "published_ts": 1787554537.0,
+        "tag": null,
+        "first_seen": 1787555563.0315213
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0UGJIOXl6cDBRdzZreE9wSnF0Z25UWEFldUcxTWFYTEJVdW9Ebm9kenNMNTNMd1R5bnlhU2NELW1ZNkk3TkVZVTJ0azdEakVGcU9z?oc=5",
         "headline": "소프트뱅크, 일본서 개인 대상 8.6조원 채권 발행 계획",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787348400.0,
         "tag": null,
         "first_seen": 1787524231.0126007
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5jMHM0OVZfQ19IWUZqaVk0V05IN2hLdUNtb0kxMkg5VXMyVVVoMVgwX21Obl9RaDB6UDcyODJITkVRTEpQU1hQalJUcHFWWnJ2dTQxdEI3WEpCSmdUZW9xWFFhaUFST29yYk52QXhNWmJuNGJiLWgw?oc=5",
-        "headline": "피치, 재무 건전성 개선에 서밋 미드스트림 등급 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/22 06:30",
-        "published_ts": 1787347800.0,
-        "tag": null,
-        "first_seen": 1787390123.9379203
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 16:01:00",
+  "updated_at": "2026-08-24 16:13:05",
   "yields": [
     {
       "label": "3년",
