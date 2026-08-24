@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE85aXVCMVpQYkJGWmZkTWpXLV9NRTEwS213RjROU09rOHRNcm9QODR1VkdRblJ1Y1phVzlhSDFKc3lLT0pmR01mQXRncUVKc3RGNWd5SGRvVzhfckMxZ21iRNIBYEFVX3lxTE85aXVCMVpQYkJGWmZkTWpXLV9NRTEwS213RjROU09rOHRNcm9QODR1VkdRblJ1Y1phVzlhSDFKc3lLT0pmR01mQXRncUVKc3RGNWd5SGRvVzhfckMxZ21iRA?oc=5",
+        "headline": "美재무, 추가 국채시장 조치엔 말아껴…\"정례 국채 입찰 지속\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "08/25 04:34",
+        "published_ts": 1787600086.0,
+        "tag": null,
+        "first_seen": 1787615186.8336804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE11UXBVeDJsVE9OMmpGa2tsTTg2ZG9QQ1lnM1RFeEgwVUFaRkpCeFJjanNxa3NuZjVQTGxUdndfMEp1M2ZEdEtTeTNYVGZsSnZI?oc=5",
         "headline": "피터 시프 \"트럼프, 국채 바이백 실패 시 '군사 개입' 의미 의문\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787185373.0,
         "tag": null,
         "first_seen": 1787185832.3190308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBnOGtPSDE3QjlQckotUVNxdlBGU3FNcEF5Y1hCNE5kVU53bkoxQVVaWUlybVhxa3lYdWFrcmxlS3pDUmVGanlMV0RCYjFBSUk0cjU4aEJqSkZZeU5BNzlYbzhiTzZudW81TFh4ZTg4UDgyZw?oc=5",
-        "headline": "트럼프 'BTC 매입 검토'에 숏 3.8조원 청산...역대 최대",
-        "summary": "",
-        "source": "디지털애셋",
-        "published": "08/20 08:50",
-        "published_ts": 1787183400.0,
-        "tag": null,
-        "first_seen": 1787184042.6437883
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 08:45:47",
+  "updated_at": "2026-08-25 08:46:51",
   "yields": [
     {
       "label": "3년",
