@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJdDlTS2ZxOUtjNUo4QWwtenRVZ1ZHTmdLT2hyMlhFQ3c5OVI2RmFGXzNZVUtIaW00SzJoUS1hM0w5eFIyaFRYNUl3Qm8xeHNDMld5U1hZeGZMYXZHRFZOMmUxdHJ2bE9SOGlfWlRzQUPSAXBBVV95cUxQSXQ5U0tmcTlLYzVKOEFsLXp0VWdWR05nS09ocjJYRUN3OTlSNkZhRl8zWVVLSGltNEsyaFEtYTNMOXhSMmhUWDVJd0JvMXhzQzJXeVNYWXhmTGF2R0RWTjJlMXRydmxPUjhpX1pUc0FD?oc=5",
+        "headline": "기업은행, 중금채 금리 급등…조달비용 비상",
+        "summary": "",
+        "source": "DFT 대한금융신문",
+        "published": "08/25 06:12",
+        "published_ts": 1787605938.0,
+        "tag": null,
+        "first_seen": 1787609721.569546
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sWUx0U0g0SzNEdzlOang2U1hBaS1pdkZEUjljbEtJZTRRa2NQWWJNajM2Q1AtaFRoWGtzdU5XdkZWZkFlZUZpUnJOTkoybjFLTXBpaEtELXBkejJH?oc=5",
         "headline": "금리 뛰자 손실도 뛰네… 은행 '채권 앓이'",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "산경투데이",
         "published": "08/21 11:37",
         "published_ts": 1787279847.0,
-        "tag": null,
-        "first_seen": 1787280325.8345406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Wdkd4RVpLYzVHVzZzX25ibXc0SnpReE9vSGFkdTZxWTVPT01lZE82OEJDYUl4UUZabERpVFdkcE9HczU0V3R0QktaMDdOYk1SQm5NRzlR?oc=5",
-        "headline": "30조 추경·특활비, 국민의힘 결산심사 겨냥",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/21 11:27",
-        "published_ts": 1787279258.0,
         "tag": null,
         "first_seen": 1787280325.8345406
       }
@@ -1640,6 +1640,16 @@
         "first_seen": 1787606883.9702303
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
+        "headline": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/25 06:07",
+        "published_ts": 1787605663.0,
+        "tag": "Fed",
+        "first_seen": 1787609721.569546
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPM1NsQXFPWDJFbkNkcVlVTEZPczYyb0pZS09OUmRxUEQyTUNhWGx2bHN5TE93NjFmR08tamxNc3JWSUJqSm91NVZ0LTdkWjZYd0JfeQ?oc=5",
         "headline": "[논현광장-오건영의 금융진단] 중앙銀 행보가 가른 ‘원 강세·엔 약세’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787579045.0,
         "tag": "Fed",
         "first_seen": 1787584525.5327451
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ2F2SVN4Y0FUZWtmamJCYlFuZmxfV3htaDNvX3JESDlSNXZwM1JSSHBWeE9pcS1rSnpHMmRHS2pBUEpwWXNwelZNeDJQdEdWcUNhME5za3FyTFUyR1hpcW82d2c4cnpnZFJJbVlpdTlvekpfYk1JdnFKalFUSzdMR2xjbnlESElEaWltS1A1YWVtOG1YU3p0TXRySVU?oc=5",
-        "headline": "The Hidden Cost of Holding Too Much Corporate Liquidity",
-        "summary": "",
-        "source": "Global Banking & Finance Review",
-        "published": "08/24 22:37",
-        "published_ts": 1787578650.0,
-        "tag": "Global",
-        "first_seen": 1787579125.5702813
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 07:01:03",
+  "updated_at": "2026-08-25 07:15:45",
   "yields": [
     {
       "label": "3년",
