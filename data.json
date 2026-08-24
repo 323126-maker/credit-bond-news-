@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZzJ5QlVwUkQ3NHMwMzZzb3pWZGdsOUdzX05LY09GRzlBTWZxSTRqcmNod3plUU1LM25lZFAwcktvZlVRNTAtOVhST01EbkZjQ3dDdk13d0s1MlpWT1BRaHRqMUtvXzlUWi11bEkxNjFCZHhvTjN0SW1JMU9TUldSV3FGVjY3S1dsZXZGV1ZJaFBGZk02bl9N?oc=5",
+        "headline": "Scott Bessent versus the markets is a contest dripping with irony",
+        "summary": "",
+        "source": "The Times",
+        "published": "08/24 23:57",
+        "published_ts": 1787583474.0,
+        "tag": "Strategist",
+        "first_seen": 1787583812.6934123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONE9GN0V1dENUV1UyRE1pU1NHdjR5MHhLazlkd21QOFRyZjZzaVRCNWp4endoaE5JUjk3aFZXXzFtZ29PS2FBVkZmMHZTWi1kZFUwams2XzZzUV9meEh5c3hQM3NVNGhBdnJ3MWNITUFfTi1FdlFyZFhHdzd0LTRIdTNHcGV0dDhUUnU1aTRwV3FMaE5ERXkzM1BqQ3ZqdnhLNmdGVjRCVFlSZEpK?oc=5",
         "headline": "An economist who studies financial crises sees a debt-fueled US recession coming by 2027",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787563800.0,
         "tag": "JGB",
         "first_seen": 1787580039.2512321
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEhSWGx2RFRxMEpTZjVDWXpFXzBSTTlueDBHVXU4Z0lYZmNaZHN0NThjVHczdUNzU3Joc2syQUxlazZnMDYxeG1RNTZubUxINF90RHVZb3JKSTBnNFk5XzlxVmVLSWRjRllRQ01NLU14VW1rMVdDQW14OHNZRnJieFNoSjd6bjNIRy1lOS1IWXN6dUp2MXBWeGNuRnVMYnEtdEpkYlFZblFyZHFVYUs0?oc=5",
-        "headline": "Treasuries Gain With Bessent and Warsh Due to Set Direction",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/24 18:22",
-        "published_ts": 1787563336.0,
-        "tag": "Fed",
-        "first_seen": 1787564726.4859788
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 00:01:02",
+  "updated_at": "2026-08-25 00:03:56",
   "yields": [
     {
       "label": "3년",
