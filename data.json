@@ -192,6 +192,16 @@
         "first_seen": 1787558816.7839725
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBOVVpRQ2E3aXh4b2hqdVppU0VDcXNyNlM0c0lHNlQtUGJRRWZNdG5JYm01cmY0UGs0bU9NRkw4eHRhVTlRMnhkWEZYak5fYjJvV1E?oc=5",
+        "headline": "국고채 금리 일제히 하락…3년물 연 3.836%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "08/24 16:40",
+        "published_ts": 1787557254.0,
+        "tag": null,
+        "first_seen": 1787578233.1651933
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hNTRhXzl5TXEyaWNveWM2Q3lDMkY0SmdMX202eldETDRsRVlVcDRrNkJvbW9IeHRYWFhyRmdodVdoaVdYTVFqRFFnbldjRmFsUDVlem5OYmlrdHlxY0NmRXlpWQ?oc=5",
         "headline": "[단독] 대구 ‘탑3’ 중견건설사 태왕, 법정관리 신청",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787519880.0,
         "tag": null,
         "first_seen": 1787520631.556916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAwLUJxTWNjMGZuZHktc0E3YVZjMC1GbjcwNjZZLTBHeHJJRjhOSy1Ub2xHdndOTG5LTHlWS3MycnVvcEowVmQzRHV3elBQcjI3Zms3M2RxU2g0aEdI?oc=5",
-        "headline": "타이거자산운용 지분 12%까지 늘렸지만…한신공영이 여유로운 이유",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "08/24 06:00",
-        "published_ts": 1787518800.0,
-        "tag": null,
-        "first_seen": 1787519291.042807
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWk5uUTg2Z2NsMUxmay1zNVhBenFuNWlMVGhOREI5QmF5bVVVQVh3Mk0zdmdoTk1nN0lVaXZGSEwtS0RFQVVOZlBIWlBsQTNqTFNzaTNxMGJmQVhLNHZ4MlpWb3l1QXhTOEhiWVpnNUJtTXpFcDFPYmZyY3dvck5kS1NGSFpLQVBLUzRlVU9Jd1JBQ2xBLUtpd2ZYX0dtc2t2UzRwQ2hMZnJkdw?oc=5",
+        "headline": "Why Corporate Cash Is Becoming More Strategic Than Debt",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "08/24 22:27",
+        "published_ts": 1787578024.0,
+        "tag": "Global",
+        "first_seen": 1787578233.1651933
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtldzZmLVVIbXVwOFk3NXNqbWdDcDNXcXVzRDR0UkhWaEluVkg3LUFpZ2tVbTlNLU9BZjBVdTNtekxmNGlFMlQ5dzh4cHNkamIxUUhtSnlLdUU3dkhyb05GamZWTlZjd1ZZSnlkZUVfNjBkNDlSQUxncE96NXFxX0EyTi02OFNiakROOVB6ZEZOOWJqVHp1aHd4VmF3Zy0xUHhXZFBxdUFkS1JDWDJFckFHYmlfSnRmRUtDbTRhWEMzbmVpcVE?oc=5",
         "headline": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787558831.0,
         "tag": "Strategist",
         "first_seen": 1787559324.9360547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GaWJJRGkwQk9YX0RPRGNVdzlHWXRaeWxYemZHN2NGTWswSERCYzhzYi1OSF9aUGRIRlFFRjdtNmxJMlBaYnRGOG9OVmNZWFlMbzNkV2dsUE54Y29tZzUyMlBQeXpyZEx2ZlE?oc=5",
-        "headline": "달리오 “3년 내 미국 부채위기” 경고…금·비트코인을 찍은 이유",
-        "summary": "",
-        "source": "OBC 뉴스",
-        "published": "08/24 16:38",
-        "published_ts": 1787557106.0,
-        "tag": "Strategist",
-        "first_seen": 1787558438.5385635
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 22:24:45",
+  "updated_at": "2026-08-24 22:30:57",
   "yields": [
     {
       "label": "3년",
