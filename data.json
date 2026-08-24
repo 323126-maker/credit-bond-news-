@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLSWJLXzhJSkRicXdtaDdyUGhYMGNhLU9UNDRhWVhKaDdicjZkNWUzMDNGU2c4V2dxcnQ2YUVlQW9wNDJmSkY1VXdvaTVXSHMyQlBxcVJtdGVTMVU5cHhpRVI4dk5CZDBNZ2VpZVEtNk5wQQ?oc=5",
+        "headline": "[뉴욕채권] 장기물 강세 속 혼조…보유현금 바이백 활용설+유가 하락",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/25 05:13",
+        "published_ts": 1787602427.0,
+        "tag": null,
+        "first_seen": 1787604329.8570344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBTRV8zb2tEQVc1VlBBSWNadThrUDFFRHVhcGM0a3c1QjhMRzZjUXpVVEk1MFRhUUd1SWZIeTJrLVhtbllxcDBrSGtudmZTbjFvLUo5WXZTeC1kOWFPaE1OTHF6a2RHYXBURzBvRFRKNldLSHo4OEZz?oc=5",
         "headline": "무디스, 마진 개선에 XPO 신용등급 Ba1으로 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787539556.0,
         "tag": null,
         "first_seen": 1787562039.911598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORkQySmY5SkZQb3kyRzA0SGltSzZOaEFTUjF5NG5VdU9VM0JzSVhReWVWQ1VhaUlTU2lZRUlKWkJKMUE5dDJsS3NWUktaVDI3QU5jRDBCSUlvYTdJVGZZX0pOWk5xdFI1S0VKSXF5aGYtR1h0R24wN3FEZllUcG0zTg?oc=5",
-        "headline": "AI 회사채 너무 많아…우량등급인데 정크본드 수익률",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "08/24 11:37",
-        "published_ts": 1787539068.0,
-        "tag": null,
-        "first_seen": 1787539525.3505597
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZZR05jSEhBRVpEdkZjMmxTRlh1VVpFb1RYY3o2S285V2ZkdHNrbjNTY2ozUVFKS2o0NDc5UjJ1bWVwZ0poWmVrcFF0T1N5bm5WOTVfTTYxT1RkT1lnalhwOERwbGtvSlFiWlVYbFl4ZjIxNEk3cEoyZlB6YjA5dmtwc2hfemJrUGwtWkVpVzI?oc=5",
+        "headline": "Will Warsh Hit Reset With Markets at Jackson Hole?",
+        "summary": "",
+        "source": "Investopedia",
+        "published": "08/25 05:33",
+        "published_ts": 1787603605.0,
+        "tag": "Fed",
+        "first_seen": 1787604329.8570344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQaENsdFpoc2NQaXM5ek42Q2NMdm5MZkNFMDZ6M0Z5dERzQ05CNnFWTDU0WjIyQ0sxLUI3VHNTS1FueTlCSWgwWDYtSnVMLVYwZExXQUZEeWZBbGdkUWVadHNGb0xOWVV6czAwQjJ0a1lkNFg5WkhOVmMtTUs5S0lBYm9FWS0?oc=5",
         "headline": "Democrats stump for labor representation on Fed’s AI task force",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787575137.0,
         "tag": "Strategist",
         "first_seen": 1787580625.1149874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWWtldzZmLVVIbXVwOFk3NXNqbWdDcDNXcXVzRDR0UkhWaEluVkg3LUFpZ2tVbTlNLU9BZjBVdTNtekxmNGlFMlQ5dzh4cHNkamIxUUhtSnlLdUU3dkhyb05GamZWTlZjd1ZZSnlkZUVfNjBkNDlSQUxncE96NXFxX0EyTi02OFNiakROOVB6ZEZOOWJqVHp1aHd4VmF3Zy0xUHhXZFBxdUFkS1JDWDJFckFHYmlfSnRmRUtDbTRhWEMzbmVpcVE?oc=5",
-        "headline": "First Thing: New Fed chair Kevin Warsh faces early test amid bond market worries",
-        "summary": "",
-        "source": "The Guardian",
-        "published": "08/24 21:28",
-        "published_ts": 1787574480.0,
-        "tag": "Fed",
-        "first_seen": 1787574634.0932858
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 05:30:58",
+  "updated_at": "2026-08-25 05:45:54",
   "yields": [
     {
       "label": "3년",
