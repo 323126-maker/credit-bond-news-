@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbDdfbVg2U0NzQW5odDRVZEtqTWFXb3NMQndRYmVDNGhGeTNNa0piMlBJajJycGpUS2VkMlhjTUg5SU1VakU3UTdUYlpPUmExUWZGWDF1OEY0Z1NwTFpFMi10bEIxUTdhcEVoMEdOZko?oc=5",
+        "headline": "[외환-마감] 네고·역외 매도에 또 연저점…4.10원↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/24 18:28",
+        "published_ts": 1787563733.0,
+        "tag": null,
+        "first_seen": 1787564726.4859788
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92QmFvbnJ6SDNJSHRDZ0FhRDFqQzl6VkpqRDJTRWpaQ2lpX1RWV3lxWjltV3BBbjhtdXlCQk9UOUt0TUc1ZHJOdVF4OXAwd3dUNUE?oc=5",
         "headline": "AI가 보내온 ‘채권발작’ 청구서…누가, 무엇으로 갚나[목대균의 글로벌 인사이트]",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "글로벌이코노믹",
         "published": "08/23 09:47",
         "published_ts": 1787446056.0,
-        "tag": null,
-        "first_seen": 1787446838.3430235
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43WWM0QVlmeUh2YmN4ZUFDdVE1THBkeVI4ZHJrcEZTeHFwQ1c3bkRvbnBwWFc1enFrVjFCZHNWZklHd0FiamkzUkw5YWVkeU0tYW1J0gFYQVVfeXFMTXhOUGdUUXgtTTV2dm5aYkxYOWFnMEktSUEta1dvbkI0cnVpQ0ExclJJOFBIQThpRWtvakg1Z1daUzEtNlZYT2piZ0Rpb0o5cXBpSVRueHVvYQ?oc=5",
-        "headline": "연 7% 줘도 안 산다…BBB급 회사채 시장 '꽁꽁'",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "08/23 09:40",
-        "published_ts": 1787445600.0,
         "tag": null,
         "first_seen": 1787446838.3430235
       }
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOEhSWGx2RFRxMEpTZjVDWXpFXzBSTTlueDBHVXU4Z0lYZmNaZHN0NThjVHczdUNzU3Joc2syQUxlazZnMDYxeG1RNTZubUxINF90RHVZb3JKSTBnNFk5XzlxVmVLSWRjRllRQ01NLU14VW1rMVdDQW14OHNZRnJieFNoSjd6bjNIRy1lOS1IWXN6dUp2MXBWeGNuRnVMYnEtdEpkYlFZblFyZHFVYUs0?oc=5",
+        "headline": "Treasuries Gain With Bessent and Warsh Due to Set Direction",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/24 18:22",
+        "published_ts": 1787563336.0,
+        "tag": "Fed",
+        "first_seen": 1787564726.4859788
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON1RiZ296Vk9lSlo1Q0Q1dEtNaHhkbE9NMzlVSTA1d0p4d1Nkc3VSMlZEQkZOTVZZUnJIeUVGS3hSRlFoZzVqcWtYOTlfMFlHdjlaTE45SXd1a3dKT2N5eXJnMEhrYzdiR2NtTUFnZU1RWF85X1JMOG5OM09idWIwcGx4R21PTG5XRFBDY0VlUjRJVDRUTjJ4dzMzemU2dUnSAaQBQVVfeXFMTzVMTXVBaF9tWkZPRkt3S25MRUtpSFlYbDd2dnFvbkdnYm5YVWVXY1c5MzRpb2t2WmFMeDd2Y3hOdGsxQmpZMEpEVUFuNzhaRVRfZDNDYzVpWEVuTWtLemRVVXlkdHN6dTlRNUw3anBOYk9WMmdUWkcwZWkxUjJtZEhZVXkzQmVBN0hUZWdTUDNuNXhscmFyWHlxRFM3NUgyeVUtS0w?oc=5",
+        "headline": "Japan bond auctions pose another threat to US debt yields",
+        "summary": "",
+        "source": "The Edge Singapore",
+        "published": "08/24 18:02",
+        "published_ts": 1787562136.0,
+        "tag": "JGB",
+        "first_seen": 1787564726.4859788
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxONllYRWtnTWF3c1NPT0t4a1hvMXJZQXJ2VkxkTl9leHlqTGdoR2ZRSDR0U3VrcXJGQWRfZ3FNNk0ycDdBNklkRUlWMnRVUC0xNzh1bi1qY3VmVGxaZzlxTDNEaG5VcDRfWENVQUZ6U3pyQWZhWkU5OFh4bkVyZ0xiaTFTZzhzZjZNb2VMbVBhcHJyMXBLVmFQQVRSdENqZw?oc=5",
         "headline": "Why Scott Bessent Can’t Fix the Bond Market",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787540003.0,
         "tag": "Fed",
         "first_seen": 1787540440.6830695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMGEwbXR1UEl0WTNEc0JBcGNIa0YyTkl4VWhQWDVoRnZ3ZHFja00xRC12RzNkMWdGc29MNnNsd2tqRzV2OFFMNHBzZWdRd1JPc3ktV0dURjFWVHZTQUZ4ZVpGSE5XZkpQVkxJT0hsOGphRjc5TFUwLTNnT3ZvcjIyU1pPTldhT2phbFRZb0k0VTcwZkV1UWw0X2syZHVmblZybGlUcUpiY0pJNk4yZnJXMGNET2ZGZmtQ?oc=5",
-        "headline": "Alphabet (NASDAQ:GOOGL) Opens a New Chapter for Australia's Kangaroo Bond Market",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "08/24 11:38",
-        "published_ts": 1787539080.0,
-        "tag": "Global",
-        "first_seen": 1787540440.6830695
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaU5WTzNQenZqaS00RkdfbUFUNUp6dlRvRDBhWVVqekhnOVJHVlQxTGhLZFRsVWJYdzl3S1JTNDBXQ19NOTk3U3o1TU85N3pFTFBBVm1RSEttVEdiNFlZWUtMZHlNaDB5RkpBd0dHbUpVTkNJVjRhbFR5V1VNbXM2NkJoSEEyYzFEcGRfblEzakRaaXA2ZTJYZS02bGdsczM1VnfSAacBQVVfeXFMUDRsak1hQ3JSWV9VZGVZNWVXdVZhUllMa1FLbGpkYkFqaUJtazZ2eHJOUmJHdGFyVW9GeW5aVERfMmlrVl9LNHFoMEhJSWx4NWZMeUgyV0t6ZHpYWmJLVE56Nm5zbjMyZzJnaW8yTEF5Tkd3Y2hxMVJYWmhWZDFsVlNsZWlKS3F4SmpsWjBZWHNhSk01MkRpRzFneHJYNk9xNjBvVUpzTWs?oc=5",
-        "headline": "Gold hits over 3-month high ahead of U.S. inflation data, Fed chair speech",
-        "summary": "",
-        "source": "CNBC",
-        "published": "08/24 11:31",
-        "published_ts": 1787538660.0,
-        "tag": "Fed",
-        "first_seen": 1787539525.3505597
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-24 18:30:57",
+  "updated_at": "2026-08-24 18:45:49",
   "yields": [
     {
       "label": "3년",
