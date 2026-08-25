@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWs5OGRESHpCbGtjZnV5MkRaYnoyalAtWTdHZGFhWmo4blhLSkltYTNfdC1NNV9fNVNENldoSHllSkNKakhuVXNMOVJtUHhXdzNzOVhDdEt0S0VndVpfcEcyX3NNejZIdnpuTVBxRXBaT2NIdU5veEhWZmkyYzZWZWVZMHJkc0ZCT2hGTzZpMVV0UUxnUFZsZkQ2bmZFNndITWs2WE8zOXF5WkdDdmtUZ1pzN1VrZw?oc=5",
+        "headline": "JPIE: Strong Returns Above The Treasury Without A Big Bet On Interest Rates",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/25 21:24",
+        "published_ts": 1787660651.0,
+        "tag": "Global",
+        "first_seen": 1787661925.8708704
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTE5wc0RSNjhrODh1TTRabm90V0dRLTZiTXhuWUtaYnpBZW9TZU04eG9VcW9CeW9GS201ZzNxNnNnVkZjdGtNVnhtd1hLbkZ2bTk2Y0dwLTdxVHlGeXJRekJabXkwTXNUTVJWbS1DQk4wNk9XYVpmdUF2c2Y2ZUNyckRJbDVnVGdjR1hXLTNzVWpsTTlKLXRvaWw1VQ?oc=5",
+        "headline": "Stanley Druckenmiller Criticizes Treasury's Doubled Long-End Bond Buybacks - News and Statistics",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "08/25 21:21",
+        "published_ts": 1787660460.0,
+        "tag": "Strategist",
+        "first_seen": 1787661925.8708704
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcV9Xb2laUkNBR191OHVLaFk4cE8wY3VYV2ZyYmloN1FkUVNZOGtnZ3RNRnBrUzBfZUdud2lEVWtkODJsWkRLbWRQbEZNV2o2azNQZFE2RTcyN2t2WTd5bW51cFJzVkpkVEhNRjd4ZkRnYTlqbHV1Vlg4ZlFjSkFDbng3dVRma01RS0l2Q1V2LXp5U0RyOUw3eFAzeHp6aFBXSHZDdUNGYWZSOEZ2bHZ3OGw4TUdxOGQwN25QbGZsY0xJMVpPcFdYam9KcHhqZVIydUZMQQ?oc=5",
         "headline": "Japanese bond ETFs attract threefold increase in flows amid fixed income diversification appeal",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787638860.0,
         "tag": "JGB",
         "first_seen": 1787639435.4167242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBPakZuODlEcVRHRy1IbUxBVTBKTmkxNURNaTVfVlF5aHRraC1SdzFVT3VObTgwZEdXZ1lCbmE5OUVpT3ZqYVlsU0FrRzBldXlFRTJN?oc=5",
-        "headline": "\"미국, 3년 내 부채 위기\"…레이 달리오 경고에 금·비트코인 뛴다",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/25 15:17",
-        "published_ts": 1787638620.0,
-        "tag": "Strategist",
-        "first_seen": 1787640325.1237166
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1xdmVaeXFwUi1xS0gyRGRfbzQ5aHAyU1E3SmNZekNxM1p6QnFIaTF2UnpqN2Q3UUVFU0thTmNIVjVJdEZEamFEeW1zalI0ODcyQURsWTJQOA?oc=5",
-        "headline": "“Japan’s Fiscal Expansion Comes Back to Bite” Debt Service to Consume 30% of Budget, Tax-Cut Push Threatens Even Bigger Interest Bill",
-        "summary": "",
-        "source": "economy.ac",
-        "published": "08/25 15:14",
-        "published_ts": 1787638473.0,
-        "tag": "JGB",
-        "first_seen": 1787650232.0388584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 21:31:03",
+  "updated_at": "2026-08-25 21:45:47",
   "yields": [
     {
       "label": "3년",
