@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwWEk4aC1KdXVfZUNNZUc0Vm1qZThPYTk3RVZLMjVZTzNwQ2Q0VUlWMjFMWERQMlpRUzU3Y09ZaUxFRTBkOGo0ckR6NGwzNGRNZHFzQVVqNFUxeXpwZV8wZjlnY3JQQmllY3JJMXhB?oc=5",
+        "headline": "채권시장 전문가 79% \"8월 금통위서 금리 동결 예상\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/25 11:58",
+        "published_ts": 1787626680.0,
+        "tag": null,
+        "first_seen": 1787628631.8155043
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9nb2ltSnNLSk4wbzNDV29SaWY5RF91cXhpQV9HT3NhR3NwYXp1dHhhaTlGOTRLTlRmRDZ3T0dWX0E1cXJaRWdWWURxVQ?oc=5",
         "headline": "채권 전문가들, 9월 금리 동결 전망…채권시장 심리 개선",
         "summary": "",
@@ -140,6 +150,16 @@
         "published_ts": 1787606777.0,
         "tag": null,
         "first_seen": 1787610631.9335592
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAtUkxVRE9DVmc5T0VxWjgwVzUxSXRZaE1BOHM4UGMydmRYM0pYZlVoZ1c5RHprYlJNWmRpYVhEYmgtRXRqaFl3RTBRVlEtZjVyMUFhM1A5U0k3OW1CaE9n?oc=5",
+        "headline": "[WHY뉴스] 스콧 베센트 미 재무장관 \"스테이블 코인 곧 10배 성장\" 논리는?",
+        "summary": "",
+        "source": "저스트 이코노믹스",
+        "published": "08/25 06:21",
+        "published_ts": 1787606460.0,
+        "tag": null,
+        "first_seen": 1787628631.8155043
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yNTUzQW13SWp2V3JCdUxUYzhhYzdQdjZ4eTdXTGFVdHdldk1UYXQwTWRUTXQ5VEVMdlhEQlV0OEExOTByUVdwcDNIdE4yYkVlaGE0WlJ6VFgwT1g1LUNhR1JfMmp1VE9lWldpeDY1LUx4dw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1787561674.0,
         "tag": null,
         "first_seen": 1787562039.911598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Vl94MWNDOXpBaFU4cV9XQUxIMEdtRUdRUFlDak9OdnpsU2Jqam56a3ljUW9SdWp4WVZIOGhlUDZGWEtZTHgyZ0p2TWxoR3pUWXZka19IcWtURVR4OXFEeU5wY0JteGhhN1IxNmZmREnSAXRBVV95cUxQN1NDT2MwTC15OG83T3BXd1pHdVJzc0lqazlQWTlnVnpaVUdLdjdRcHBmWnBjby1LQ2NsTlliVnY4all5Q0ZFaG1JczM0MzJNVHF0NnFGQ3doOXFUQWR3MWdheVNleGxRb0ZNOHZCMWZFUENMaA?oc=5",
-        "headline": "달러-원, 1,382.40원에 서울장 마감…작년 9월 이후 최저 또 경신",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/24 17:31",
-        "published_ts": 1787560318.0,
-        "tag": null,
-        "first_seen": 1787571033.2523828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84aTc5R0Rhd1l5cjdwVVJyZ3BJZktCaEdoZnY4aUNBTE1HVHA1NDREN0ZCTmNhcUZOd2ZDNHdCOVdsNmtVUU5UVkN3YnZZdHI0MFZ1M1R5ODg3N0JzMGNtaVVrSHRQeGhTNjdXRkF4RXlCQQ?oc=5",
-        "headline": "증권채 조달 러시…9월 최대 1.3조 발행 채비",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/24 17:30",
-        "published_ts": 1787560249.0,
-        "tag": null,
-        "first_seen": 1787571033.2523828
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xU0RHWnhfUUp4N0hkMTlCLVVCeFlmTnJiYkVnWGw5cWs4clh0TFNrRnNOeXZKN21vOThhVUM3bjZqMEhKMVRMT1I1bDZFTzNaQnVlQno5ZVptSk41cnY0cnZTbXFqYjNiUDJ3TDRjZmNnU2I1UjE4elRBSFZ5cFU?oc=5",
+        "headline": "Stanley Druckenmiller criticizes Scott Bessent's bond buyback plan as 'price management' disguised as liquidity support",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "08/25 12:22",
+        "published_ts": 1787628123.0,
+        "tag": "Strategist",
+        "first_seen": 1787628631.8155043
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYTRPUWQ2dGQ2WXl6QWUyTUlLTmZmUFJYakdIQmxxcWFOY2ZyYjhuaE9Lc0ROcnotbFgxbndZOW1ZNTIyNF9Dd0ZIRXR2cHFnRmFQTk5kV05ENlJTOUFzMFlubzlrMW9XbjRQdWdEbk1Vbk9pZXlaWkhFOUdGcVh5UGVvcU0ta21MWGpaZ0d6UHd2bGtoaWstZXhmbw?oc=5",
+        "headline": "Pakistan army chief holds talks with Iran to ease regional tensions",
+        "summary": "",
+        "source": "Crypto Briefing",
+        "published": "08/25 12:22",
+        "published_ts": 1787628123.0,
+        "tag": "Strategist",
+        "first_seen": 1787628631.8155043
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQN0R4U2JEc0EyU3MyV3VrYnpvS3JNLW5yMFZrOVFwdzJILUpUS21FelBob2RXdVNnRGJ5aldJX3RVTVFQM1BJSUktRVRURVI5ekcwamxGZ2NvY04tOGkyYjlnM3ZnVW9tSmJURVo0ZjgyTU4wX1NfLXAzdU05d1BBTnF6bERSYTBWamNpR2djUDdaSlRuRVhUeHhZc2RFZFVrdHhOWG1rVXc1V0pfdUU4eWgtUmxBZU5ReE8xT3pIZkdqUEFBUzBKZm9nNHFWTlpVNmNiLTdTZkR6OC1TZzF1Z3BhNkcwTm1DWGpRRjBac1BqRHJJRWUtRnRHTS1EQQ?oc=5",
         "headline": "The credibility of the US Federal Reserve, the world's most powerful financial institution, is at risk",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1787625180.0,
         "tag": "Strategist",
         "first_seen": 1787626839.9990757
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTnZEQnJpcks0a09VcHNXaDhDYTVreXduOERjNXZvZnpaUjVfWjl6TTNDSVFob3l1NmMwOHJHZUZCVHl5U1FldTBNS0xIV0NELVBqSnRZUU9XXzhfeXZscDBlVWQyVlNaeFhwd3k4elBfblpaSEpFWllUMnBacENhR2RYelh0VWRna1ZVZ2hJdjlrV3ludXVoTkd4SkxJeVBlY050X1hnd3JBczBMU1E?oc=5",
+        "headline": "US borrowing costs rise as attempts to ease rates prove short-lived",
+        "summary": "",
+        "source": "internationalfinance.com",
+        "published": "08/25 11:00",
+        "published_ts": 1787623220.0,
+        "tag": "Fed",
+        "first_seen": 1787628631.8155043
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPa19wWldLblItc0RJQll2b1V1UjFVR2JXZXFRenUxNUJMdGUxY25lRmVEOXRRZk1FUkdob21FLU1PejhsYUN5QzFRSHBla29mSWJhR3hJa3ZjaEpWWTBzWVNMRzE3cWtWUWxqM1pPR3M1bjNzRF9oU2VubDJuMG9BX0ZHY3UyTGRIYmlUblZvdHg5WlJ4U0NORXBhMHU5OW9ZODQwYjdGTVBRZw?oc=5",
@@ -1778,6 +1808,16 @@
         "published_ts": 1787609662.0,
         "tag": "Fed",
         "first_seen": 1787610382.8749287
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB5NVZTNTFmRnhObkpUQktmVC15RURKeUN5R3FtMk1mQ1cwTWVrMGZDalJtdnE4b19YOG5VTTQ3b2p5Ync1TWZlTjJzMVpHcGdra3NxODNaMjhhbmc?oc=5",
+        "headline": "Taro Kimura: Japan's Return to Inflation Is Real, But the Yen's Fate Now Hinges on Robots and Takaichi's Fiscal Gamble",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/25 07:08",
+        "published_ts": 1787609280.0,
+        "tag": "JGB",
+        "first_seen": 1787628631.8155043
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9PdEFLaGozMDF3SXN1U2RYYzlVdHNfYWdJTThlakk5TVNJSkw0blFKd2NuZktOclk3UFh4bmh2ZTRuQVJrLTVES1Y5S212b3lpNHRGc0RqVG1qellRTDJaOFpic0x3ckwyMXFjMHNVdw?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1787598662.0,
         "tag": "JGB",
         "first_seen": 1787614233.4361377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkhaa2VnWlctRzJVWTYyOU43ak1EUWRsU0g0T0VtZVN2NGFsTnlmLW5HVFF1UmViY0ZaSU9XNzZJSGVseGlSREw2RlRWZ01sYTFXUnlqekVic0Z5ZzlZa00tTlBiUnpYTlRIX0hrdkx4ckxkSHBQVkZ1QS1IbW84bjBZLUw1RUlwYW1pZVoySlJqMWVnOHljWWVUU0w1clpFdWhVczVQZDU?oc=5",
-        "headline": "How the Bank of Japan’s September interest-rate meeting will risk Bitcoin’s 21% rally",
-        "summary": "",
-        "source": "AMBCrypto",
-        "published": "08/25 04:00",
-        "published_ts": 1787598056.0,
-        "tag": "JGB",
-        "first_seen": 1787600725.6541555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBZN2EyQWw3ZlBJUWlDNThQME5RS1FGZDhrekQ4cEhoYi1HLTRHd2JZRHNlTzBRZHJjWDJBZGlHeC1uM1J0b1pUa3FCdWEtRjRHMmtvVksyWGMySGNwTmhRSWRRa9IBY0FVX3lxTFBZN2EyQWw3ZlBJUWlDNThQME5RS1FGZDhrekQ4cEhoYi1HLTRHd2JZRHNlTzBRZHJjWDJBZGlHeC1uM1J0b1pUa3FCdWEtRjRHMmtvVksyWGMySGNwTmhRSWRRaw?oc=5",
-        "headline": "US Dollar: Event-driven risks shape debasement narrative – MUFG",
-        "summary": "",
-        "source": "Bitget",
-        "published": "08/25 03:58",
-        "published_ts": 1787597885.0,
-        "tag": "Strategist",
-        "first_seen": 1787608836.9945083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZmRzMkZWQzJRa2NrdE5Qb05LOUFHT1M5ckpFLW1mZ1FZZGxVTEhEQXd0RjNYUHFUMXgzWkxtWTlJUThNVW9GMnB0SlBKal9ZQ2tvYXV0ZV9aZkU4XzN1WUVZdllRaWRnYnp5VC0yX2ZOcU1wb3V2ZUxua3lsTFBrU2x2MzByYkZVRlVWajlXZm1ITUJwTXZiVG9IZ1VKVXoybFRkazg4M0U1YWc2Ulo3c3ExOXpEMHRSbXNn?oc=5",
-        "headline": "The AI trade and the Fed meet this week — Here's what advisors need to know",
-        "summary": "",
-        "source": "InvestmentNews",
-        "published": "08/25 03:54",
-        "published_ts": 1787597665.0,
-        "tag": "Fed",
-        "first_seen": 1787598046.4167101
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdHFlWnZob2cwZklEUjNJWkkxanRiUy0tQU9qQ1FOUnI1VjRqWEhQNC10SU5sYjFOS04zX3VRNHRHazZSR2RfdmVHQmZDSmY3Ums3dFRiTXdwVDhZSWJScHdaZGNXTXkyeHBzUFZvOVRZV3J4clhIZ2pBTWk1RTJHbjBUemRpWHpzYW9ad1BraHZDMjZIcnNYbjJBd2YyZmV2TGVFWQ?oc=5",
-        "headline": "Kevin Warsh seeks to reassure investors as U.S. economic strains worsen",
-        "summary": "",
-        "source": "Financial Post",
-        "published": "08/25 03:37",
-        "published_ts": 1787596654.0,
-        "tag": "Fed",
-        "first_seen": 1787596736.924361
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 12:15:46",
+  "updated_at": "2026-08-25 12:30:57",
   "yields": [
     {
       "label": "3년",
