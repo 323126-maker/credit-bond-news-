@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBMWVpvZG5xd0VIb2MtT0g2U2lMYTJ3RjA2NzBCR3dBS3MyejVaU1VVbVpRb3dmMmVYNVdjQTR1OG5yODNsSUdMRk1NSzhrSkR2dW4wX18xUmZCQdIBWEFVX3lxTFBYTmQ1WE5XMnJoYUJEZXVCMFZaMkdJYlp2Y2lFM1ZpQ3NjRE5vS2hvQ2xqU2NKOWlyVElseVFHeXpqNFA0U01LOWFSQTVBSExVUXFwdlk5bW0?oc=5",
+        "headline": "태왕이앤씨 법정관리 파장…대구시·금융권, 지역 건설업계 연쇄 위기 막는다",
+        "summary": "",
+        "source": "아주경제",
+        "published": "08/25 19:41",
+        "published_ts": 1787654467.0,
+        "tag": null,
+        "first_seen": 1787655637.6919148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBVOVRJNTZBRkVKR1doZFJEMWRFTGJUUzQxUjJiUDhDUG1sb1FvXzBzOGtlWFBWRmdGYUswV0MxZ0tQVlF0OFh0eUE0LXpjLVZwU0RQc3UyX21VWGFXOHhqN2xGdWhRYkVqMHMza25RTHM?oc=5",
         "headline": "[외환-마감] '되돌림·커스터디 달러 매수'에 상승 전환…1,380원대 중반",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "뉴스핌",
         "published": "08/25 08:40",
         "published_ts": 1787614800.0,
-        "tag": null,
-        "first_seen": 1787615123.96205
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FZVE2eGNfeW5KcEFlc24zREF5X1plaEhwS1pFRDUtcVU3T1lsWXdDWldVcWxuX2FMR3llekhVQktMWjQ3MkdCR3V0Wl9OZ2tDRWlqWjZMSHl5Z1NFYm9BaVlFMG5EQmRYNnBBaEdvVVY?oc=5",
-        "headline": "[외환] 이란 제재에도 유가는 하락…1,383.20원에 마감",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/25 08:29",
-        "published_ts": 1787614173.0,
         "tag": null,
         "first_seen": 1787615123.96205
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHFDcE1HR2xRUUQ4VUJHMS13MUU2Q0xXaGxDQ2RESmZWRzZKU09VWmYtaDJFN285T3BxRWJTXy1lcGJ3dktJQmR3WG90QTV6T1RSalFyMFUwa3lHTGhxSWxTQzQ1b0NBSktveW1heFFKaE13Nl9uXzZ1Yldrb0lhWFNZYzRMRVBVNjZfVnFxTTlxQlItRWdZbUNWZk9XM0s4bExEVQ?oc=5",
+        "headline": "Druckenmiller urges US Treasury to cut deficit instead of buying back bonds",
+        "summary": "",
+        "source": "UA.NEWS",
+        "published": "08/25 19:35",
+        "published_ts": 1787654114.0,
+        "tag": "Strategist",
+        "first_seen": 1787655637.6919148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPakRJdVpMZE11SEMtQzVGWVhIbHFxOE5ud2RxTGFMLUt4S01URFBtWEZIU1dIcDJCNFBNTmRKbHUzWmRsYXIxd3BzeHJuOHNac2ZaeHNNOWx4M3dpdkFXN1RqYzF2cmNOaVRRY2NtZE1YZ1otRzFYNFB2SnJscFVPTUdPM3k0dU85bkpidG9POTVUSmo3SGtqNkduUlJVTlVKaGt5SkRfdzF2VWs?oc=5",
         "headline": "Explainer-Why the bond market may be resetting expectations about the US",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787632638.0,
         "tag": "Strategist",
         "first_seen": 1787633123.969368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOa1UwdTRUY2tHN1N3cEJwVDVkTVdpMlBiTU1MYUlvT216UFBURHdfVEZVanRRLXlkQ1M1VE01Z1pjQ3BEMUZ5UkwwaXl2OXBQbm5WaUN2MDJvY0NvbXZma1B6bEZlWmNxRDdhMHEyMWVqeldUZ3BZdG9LSk9EYi12YXpB?oc=5",
-        "headline": "Government bond yields are back",
-        "summary": "",
-        "source": "Advisor.ca",
-        "published": "08/25 13:35",
-        "published_ts": 1787632558.0,
-        "tag": "JGB",
-        "first_seen": 1787652267.2305055
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 19:46:32",
+  "updated_at": "2026-08-25 20:01:06",
   "yields": [
     {
       "label": "3년",
