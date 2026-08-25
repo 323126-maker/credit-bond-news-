@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12T1RpRzZOMWxCMGpLVzBuejFTSWVGU3NFX2pOb0tXN3YxTU5HUkpQbVRTbEhUNDU1aURzNUlDSGJhajRHd2xGTzNDNVJWZ01UMjFDQ1ZyV0xES1JkbVZTRkNpb3VGcnoyYjVFWVByRdIBc0FVX3lxTE1IRDZKZjFESk9GZ2s5RXVoWk5iNm96MUh1ZFhTUHJxRk9zMG8tSXZ5dVlTYmNQT0ZqZnlkUndkd090ZFpKVDVwam9lNDNzeXZhSzFQSGI0YVQxZkdaVDNCeU1rU0c4NzZnXzNsLVJUU0VmRVE?oc=5",
+        "headline": "기업 직접금융 7월에도 '주춤'…유증 뛰었지만 회사채·IPO '동반 감소'",
+        "summary": "",
+        "source": "뉴스웍스",
+        "published": "08/26 06:00",
+        "published_ts": 1787691600.0,
+        "tag": null,
+        "first_seen": 1787692524.3747427
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oeVRBY2NqaTZYWS1KRDlJX3BxUi13UDc4MFNOZXhrX2dFMWZkeXdJS2RSQk9sRkZTbm1fYjJqUlM5TE9fanZ5NmFBRnVKQ2JfZ2ZCRTVlZ0Y0VWJzeVJMcGtzX2dGNEVIS3NSOF80Y2NfTEQ1YnRJ?oc=5",
         "headline": "S&P, 실적 성장세에 사우스웨스트 항공 전망 상향 조정",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "네이트",
         "published": "08/25 13:26",
         "published_ts": 1787631960.0,
-        "tag": null,
-        "first_seen": 1787633123.969368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VOHdFNXJWMnlTeXRxYXJzdFE0SlVtSTFzX1RteHNsaGZ1TnBPSG16elJRSG51WDRpczR0S3dfMzExUmFtckNCVVBkU1NsZDZwM1UydkZZNHFTUi1abG1zUzRYOFVDZnRTV1E?oc=5",
-        "headline": "대구 중견 건설사 태왕이앤씨 결국 법정관리…유동성 위기 못 버텨",
-        "summary": "",
-        "source": "hidomin.com",
-        "published": "08/25 13:20",
-        "published_ts": 1787631600.0,
         "tag": null,
         "first_seen": 1787633123.969368
       }
@@ -1890,6 +1890,16 @@
         "first_seen": 1787663727.4760578
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYWI2akJWd0lKNmQtSXZJYzVQU0k3X0JneXhDTHF2UXBDV0V5c2JZY1R1RDNvekoxUjA1d3AtVFNaRHYyOERaREJMaldMOTdsM2JPQWZkT1NUaXpfSm1BSEtIWS1XQlB4ZGpVcE1WbWE1LWoyWTl1X21VRDAzbXhhd016Sjg5WkE0dC1pRkExTHJyTUNrN3BuWDgtYTBYSlQxUlNsMEN1dU1ycUJVeDFOTDhnTXZQSjM2eDNidzhlNjVqcUttZEJkNF9ER3I0QTdn?oc=5",
+        "headline": "Japanese bond funds see record inflows as yields attract European buyers",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/25 21:38",
+        "published_ts": 1787661516.0,
+        "tag": "JGB",
+        "first_seen": 1787692524.3747427
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWWs5OGRESHpCbGtjZnV5MkRaYnoyalAtWTdHZGFhWmo4blhLSkltYTNfdC1NNV9fNVNENldoSHllSkNKakhuVXNMOVJtUHhXdzNzOVhDdEt0S0VndVpfcEcyX3NNejZIdnpuTVBxRXBaT2NIdU5veEhWZmkyYzZWZWVZMHJkc0ZCT2hGTzZpMVV0UUxnUFZsZkQ2bmZFNndITWs2WE8zOXF5WkdDdmtUZ1pzN1VrZw?oc=5",
         "headline": "JPIE: Strong Returns Above The Treasury Without A Big Bet On Interest Rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787657519.0,
         "tag": "Strategist",
         "first_seen": 1787662848.6758761
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMXh4U1NPRXZQOFg1RVd2dHNya0dJX3V6RmhPWVg3Zk1YYTJlRS1WSTdwekRBVUtFMm5NMDlfamVYRHlaSE1lenF6SG5rZzBQU2kyRHVFampFZUNoN1FJWDk5bEdfVjBGbi1nczZ5MDYyVUlhSmNIQXhGckMwSzFiM2tNeWZyOUNtUm04LUd4UWVlTTY5NE56Rm5yMlJPYjg1Qjg1bU5YQQ?oc=5",
-        "headline": "Warsh Faces Market Scrutiny at Jackson Hole Over Slimmed-Down Fed Communications - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "08/25 20:30",
-        "published_ts": 1787657400.0,
-        "tag": "Fed",
-        "first_seen": 1787658328.5478072
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 06:12:10",
+  "updated_at": "2026-08-26 06:15:54",
   "yields": [
     {
       "label": "3년",
