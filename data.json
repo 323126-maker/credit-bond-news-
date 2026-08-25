@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwQmM2dU5EUWo4Y3cwdVJuMzEtMFhvVnpoREVFWFFQX2NJSllzcWZOSlAySHY5RngxbGdCNmlTVExRb1ZQRDZNUnBvbnE5V2pBWlBkbE5OLWZBT3ZoaFBDQQ?oc=5",
+        "headline": "나신평, 에코프로 등급전망 ‘부정적’ 하향",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "08/25 12:05",
+        "published_ts": 1787627117.0,
+        "tag": null,
+        "first_seen": 1787629525.811723
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAwWEk4aC1KdXVfZUNNZUc0Vm1qZThPYTk3RVZLMjVZTzNwQ2Q0VUlWMjFMWERQMlpRUzU3Y09ZaUxFRTBkOGo0ckR6NGwzNGRNZHFzQVVqNFUxeXpwZV8wZjlnY3JQQmllY3JJMXhB?oc=5",
         "headline": "채권시장 전문가 79% \"8월 금통위서 금리 동결 예상\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787563733.0,
         "tag": null,
         "first_seen": 1787564726.4859788
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE92QmFvbnJ6SDNJSHRDZ0FhRDFqQzl6VkpqRDJTRWpaQ2lpX1RWV3lxWjltV3BBbjhtdXlCQk9UOUt0TUc1ZHJOdVF4OXAwd3dUNUE?oc=5",
-        "headline": "AI가 보내온 ‘채권발작’ 청구서…누가, 무엇으로 갚나[목대균의 글로벌 인사이트]",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/24 17:54",
-        "published_ts": 1787561674.0,
-        "tag": null,
-        "first_seen": 1787562039.911598
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1BhWmZHYWZqVEZpVGRnRzdZR1k5UWVzOV9DYzdLS0tIclJBMGU3dWRFRFZ3bWlndDZfYXVST1U4NGJ4bzB6TmIzc09LeXc3SGVOQW9kVmtVNldxUzhlZXJobFBfSWktSEU0Y2J3QnpiR3drbWhoRlg3ZGNpSVZYTnVMWm9zQUNlUzF3bnduemYwc1h1b2c?oc=5",
+        "headline": "investingLive Asia-Pacific market news: Gold down, Bitcoin up",
+        "summary": "",
+        "source": "investingLive",
+        "published": "08/25 12:35",
+        "published_ts": 1787628925.0,
+        "tag": "Strategist",
+        "first_seen": 1787629525.811723
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xU0RHWnhfUUp4N0hkMTlCLVVCeFlmTnJiYkVnWGw5cWs4clh0TFNrRnNOeXZKN21vOThhVUM3bjZqMEhKMVRMT1I1bDZFTzNaQnVlQno5ZVptSk41cnY0cnZTbXFqYjNiUDJ3TDRjZmNnU2I1UjE4elRBSFZ5cFU?oc=5",
         "headline": "Stanley Druckenmiller criticizes Scott Bessent's bond buyback plan as 'price management' disguised as liquidity support",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787599236.0,
         "tag": "Strategist",
         "first_seen": 1787625927.1093872
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkhIUEhlVWYzRHhna2h6MGs4ZUJjVFl4bVBjOUU5c2U3OWloWG0ta0l0R0dTTDJHV3JSZmVuWER0eVN6RXpEdGFXOW1reTlCRkEwcGprTGV5UWo1eE4zOTJRQUhvMldqLVAxdWwtQzdYcXJmNlBRMHRmNzl2Vlh1Zw?oc=5",
-        "headline": "Convulsion in credit markets",
-        "summary": "",
-        "source": "FXStreet",
-        "published": "08/25 04:11",
-        "published_ts": 1787598715.0,
-        "tag": "Global",
-        "first_seen": 1787599842.1510954
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 12:35:56",
+  "updated_at": "2026-08-25 12:45:49",
   "yields": [
     {
       "label": "3년",
