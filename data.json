@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1GVzdsZEtrUEZMQmE0cTl1YkpKQVZjU1NkYUptdkctUWR0NEtaMmJmd0FxU3NJYTFMeFJwTHFURVhoM25DZW1xNk50TTF6czNzb2RHWEtOUGk?oc=5",
+        "headline": "인도, CBDC 기반 첫 토큰화 회사채 발행…9월 파일럿 착수",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/26 02:19",
+        "published_ts": 1787678340.0,
+        "tag": null,
+        "first_seen": 1787679032.0819285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pYUNOaTlkYXNveWVyNTR0bkdhekVDdUx5emFaR3RobEZ1M0JTaFRHa2o5VjR1RGFWZTRvcVlZWmZoSUh2X2lackhzMDFidGc?oc=5",
         "headline": "'10월, 그들이 온다'...코스피가 불안한 이유 [B급기자의 B급리포트]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787623275.0,
         "tag": null,
         "first_seen": 1787624127.167258
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92T0JOV2ZPXzRMNlgxRnF2VnZLTzgteEZzY21nV0JMRHcwZlYxOEZ2elJCaGNveE1mdjRDQmFJQmstMmN1cFI4SG16TDh5aDFhbDdsZXdHNjQyV29VWkZjYtIBeEFVX3lxTFBVZVBUSmhCV3VRN2Q5LUFOSDFWUk9GNnlFZlcxdmR2V3BjZ0JTTTZ4WEhyamUwVHBNMUxwZ1hWUGdoSUdqckdHUzBhRDJzQzBLdkJUWkdXTFoxTTZfVi1GRU5NcTl6MHNFbWViQnU4MFVWX1B3YlZVSg?oc=5",
-        "headline": "㈜태왕, 기업회생절차 개시 신청… \"조기 정상화 총력\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/25 10:10",
-        "published_ts": 1787620220.0,
-        "tag": null,
-        "first_seen": 1787622325.8698745
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 02:15:32",
+  "updated_at": "2026-08-26 02:30:58",
   "yields": [
     {
       "label": "3년",
