@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWjVzZFhBM3J4MzRUb1Bpb3Q4cDl0bGhWVEYzOFFPTGUyeENWMERKMDNid2lVbHdKQzRpVXdRMEV4QjVKOGdhekhYcHphaGktV21CYUhTUjVLSXpZOEcyWS1ScjEzMnE4amNEZURtLUpWaHE2eFllYmVNWlhHLUhrRDNTZFVGN3ZKMFROaW4wT1pWZkdqb0FIWThjWER6TmVNclhkWWVqMVRkUQ?oc=5",
+        "headline": "Stanley Druckenmiller Critiques Scott Bessent's Bond Market Stra",
+        "summary": "",
+        "source": "GuruFocus",
+        "published": "08/25 14:59",
+        "published_ts": 1787637589.0,
+        "tag": "Strategist",
+        "first_seen": 1787638524.4566936
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DR0RzWDVBQWhyekJVeFFBNERLY2RQTnNTczlNQ0E0S3VocERoTVJvY0NDUGQySTR4XzVpbnhtQUx1UndEUzUzTmxFdHh1MEd1NFdV?oc=5",
         "headline": "'멘토의 일침' 드러켄밀러, 베선트 국채매입에 \"정부가 시장 못 이긴다\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787605779.0,
         "tag": "Global",
         "first_seen": 1787606883.9702303
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcnNlclhfMG4yZE9OTExTUEQ4Zi1sUml5RFdoUVZiU2tXd3EtaTJSc0E4YlRBQUp4T1hvSzdmVHRBeFhobTMxV1hodmhsRl80Zm4zSldlTzBWTGJMeTNEd0RnekpmLV9RaVprUWp4SlBCQXJheXc1ZUt4NEx2T3pON0NQQTVlQTlldVA0SWRWdmN6OWVwc25jUlRBeGFTUFIzaC1YNlRQSzFrREtrQ3FXWQ?oc=5",
-        "headline": "Bond market anxiety raises stakes for Warsh's debut Jackson Hole speech",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/25 06:07",
-        "published_ts": 1787605663.0,
-        "tag": "Fed",
-        "first_seen": 1787609721.569546
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 15:01:02",
+  "updated_at": "2026-08-25 15:15:47",
   "yields": [
     {
       "label": "3년",
