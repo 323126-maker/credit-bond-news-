@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aNDdDbXc5M2ViUjNYYUVkWC1xcHpRNXpEWUJINUJ1T3N2QWRZWGI4TXZHVDJSanBXVTEteE0tOUJFQ3I0aVFhNW16T1hWR1luLWNBbDJHN1U3UEo1Y1E5b3I0Sm1ER0Z6Q0FSYkd0SGt5QQ?oc=5",
+        "headline": "[8월 금통위 D-1] 채권시장 시나리오는",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/26 07:42",
+        "published_ts": 1787697773.0,
+        "tag": null,
+        "first_seen": 1787698836.3998332
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EaEpwUXJtYnZ1VjQwQnJ2Zkg0QlVkLTNqZ2hUSjY5akVjMHhqTmF5Q190WDloTktYaWdOMVJrRjdpNGdGajc1MC1yOXdKOFNVclZabg?oc=5",
         "headline": "경남도, 4364억 원 규모 3회 추경안 편성···재난·생활안전 집중",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787451060.0,
         "tag": null,
         "first_seen": 1787451323.729027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4Q0FVbW42VnVwN183clNCcjd0U05HREdyak1mTHhzbk9ZRVdXRWpWNjAwdkJXUGlxX3oyRTR3N3BCa3lUYXV4RFhuci0xWDZFRXNnbWF4U1FvTFRwczJIMG00dUZTMUJPdVQ40gFwQVVfeXFMTkQ2WXNJaU4yVGtodEZPQ1g3TnRaS2pZNFVYMzZmSGRDUzdSU0F0OEZpbnA2OUZVaXJfYnNGZlhpbjBSZWdxcVdWeDFVRW5MZzIyNlFGdFpQMW5LRm5VOF9hbkoxVzRDNFNVVXUzaHVOUA?oc=5",
-        "headline": "전문가도 반으로 갈렸다…8월 금리 '인상·동결' 5 대 5",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "08/23 10:00",
-        "published_ts": 1787446800.0,
-        "tag": null,
-        "first_seen": 1787447722.4201434
       }
     ],
     "politics": [
@@ -1316,6 +1316,16 @@
         "published_ts": 1787625042.0,
         "tag": null,
         "first_seen": 1787632230.326901
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fQ2cyTlJhRkFyMWFnc1ctTThiMmdjaXF5Mi1nUUFaWWo5U3p1Y25KUGlrUFhZaWR4ZmNiMmpOU0FkZ29xRHZhaTJwUG02dm1RbWRvNV9FOGpEV0ZvNFhoNw?oc=5",
+        "headline": "발언하는 이재명 대통령",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/25 11:04",
+        "published_ts": 1787623455.0,
+        "tag": null,
+        "first_seen": 1787698836.3998332
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52MENUVFBZVlQ1QWJfbHBES3p4MVNYa0dYcmZYYzY3VjhzbWtmZ1BkTDEyZjBoaHhDbnZDNTlFQTRXd25aN09vVFIzbnhUNURtekxFUHVIa1lYcXUwcGRGVXFPaG4xM0k?oc=5",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787515260.0,
         "tag": null,
         "first_seen": 1787516125.3877726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYll0dklzemNUWHU3WThEYk1aZVl1cHFvSVNETjhvcHhraXlpMU02UTk2aW5zSU9kOTdzYXhuTWdfcXZaYi1vS0tZWGozdVBCQW9XTjFJZDVWOUg5RHZWMGhCaFhGcFZxRWMyTHE4U1JhdGR1anpzNFJJSGMwdnpOZkRWcENMN1RHQXJZVjF3?oc=5",
-        "headline": "내년 예산 `800조+α`에 구조조정도 `사상 최대` 50조원대 단행",
-        "summary": "",
-        "source": "국제신문",
-        "published": "08/23 10:08",
-        "published_ts": 1787447280.0,
-        "tag": null,
-        "first_seen": 1787447722.4201434
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 07:45:49",
+  "updated_at": "2026-08-26 08:01:02",
   "yields": [
     {
       "label": "3년",
