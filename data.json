@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PeUFZbUdzaUdXZTBnS0dNQ0pQNXdrMjh6OUM5eExlRDU2UDBEU1R5WVppdzRCSEdqZHNzS2R3ZTBqU0JsZTBvWDJkR1RYRGs0VG5aQ0RST0djY3lTbkNPWGxsa1piN0MyY3NWVnNaYkFLdDBCekEyemN4cDV2dw?oc=5",
+        "headline": "Government bond yields are back",
+        "summary": "",
+        "source": "Investment Executive",
+        "published": "08/25 13:15",
+        "published_ts": 1787631341.0,
+        "tag": "JGB",
+        "first_seen": 1787631676.337566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMElBYm1rODczT2dTYzRCYUl1a3dMTXpLZzF6MUQzbWdfazhHUlkyZTdrbWdUZUhiNVVmYVpxU2ZDT3FscGU4ZS1wcUw2UUdJMVViTnNTUWZXSm5WT1J5MG40ajVCcUc5WlhsSmJXYWNWeVB1X3JVUlowSDFuTDFBYTVaVVVuWllrS1FjSUc1ajhrYkZ2S3lmanJPTm4tMVk?oc=5",
         "headline": "Stanley Druckenmiller Critiques Treasury's Bond Buyback Plan",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787600336.0,
         "tag": "Fed",
         "first_seen": 1787600725.6541555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5PdUN6V2tlc0NLT3VTQm93Z1I5RGFLNEI4a3V0VE9CZ2xrUlpMcTZ2Y1BsWm9OUnBPalhXVEZaUG5lMGJwclUycnQ3dnFuSjlyTm4wYm9qU2VsLWIzb09oNzRvSnpMb1dZVkZIdTdGdmhKbTQzTXc?oc=5",
-        "headline": "Fed Chair Warsh to Make Jackson Hole Debut — Policy Tensions with Treasury in Focus",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/25 04:35",
-        "published_ts": 1787600100.0,
-        "tag": "Fed",
-        "first_seen": 1787605236.3226104
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 13:15:49",
+  "updated_at": "2026-08-25 13:21:39",
   "yields": [
     {
       "label": "3년",
