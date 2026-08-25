@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UeVFpVGJwRjBPNHMwclpZNXdvQlB2aGIxZ0h1bGMtdjBZR0txM1Q5Y2VCOWNkeTIyY0g0MTBMVGtiWUV2a2tSb1VrMU9Jemc?oc=5",
+        "headline": "채권전문가 79% \"한은, 8월 금리 동결\"…인상론 한풀 꺾였다",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/25 14:39",
+        "published_ts": 1787636390.0,
+        "tag": null,
+        "first_seen": 1787636651.7431169
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZ2IzTjI2UEoxNXB6a3k2RmlyUVdUZGRabVh1Y3J6RGNxZ3RXQXR1a3l6bksyWTkzVkxjM3ZjSngxUkZPejV4SGRBZG8xM19GSHpNMlpkb2pBeUVPdnU1eDlUU3JucXI3QW53?oc=5",
+        "headline": "채권전문가 10명 중 8명 \"8월 금통위 기준금리 동결될 것\"",
+        "summary": "",
+        "source": "파이낸셜신문",
+        "published": "08/25 14:32",
+        "published_ts": 1787635939.0,
+        "tag": null,
+        "first_seen": 1787636651.7431169
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9pUzJvZWhGZGJlSmNwSHR3bWkzc2t6VkR5YmptdWhpNk9wZUdncHlEN3BDQlY3em9NTWFhOWt6ekgtR0xDNmNBRG5YNmNCaDY0Qkh3YjM4azU3cS1EcS1XWdIBeEFVX3lxTE84cFI5NjJTSWZTNjVjeTRkRVN4RUlPQkM1bFFRWlpBLVZmelMxQkcwa2pFUmlyM2duV0Q1bmJxXzBmUFN6cjk2a0JWNGpreTR3LWx2S1ZuRF9sVk1lMW9oTWFyWDBFQ1A5ZDFTbDItRHVlazRuT2QtRQ?oc=5",
         "headline": "채권시장 전문가 79% \"이달 금통위 기준금리 동결\"",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1787360082.0,
         "tag": null,
         "first_seen": 1787369435.1982293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBnOHdSdEphTVhRMGY3UmpoUURic1RMd0lTZEFXOFdOdzdSRGxtT3Brbm0wTDVXM2wzbVYzWDJKODFic0piNlZCbjVHRUFjVGZHS1RiMlVrUS1qT084YmhwUDJWUGhvd1lySm03MjBOY9IBc0FVX3lxTE82ZGQ1UElnblRYOXp0aGVINllPdkhHc2s1ejJYdW9JZDRyMWswYjhCa0VVY0pTMzR6UmR0cHlRTU93cVh2bDNJVU1mdDB5YWkxWjdTWTdFUnctMEtjSVRHNm5vNkR2dU44RlB5czFTU292b28?oc=5",
-        "headline": "‘1400억 재원 구멍’…전남광주시, 지방채 발행 논란",
-        "summary": "",
-        "source": "시사저널",
-        "published": "08/22 09:25",
-        "published_ts": 1787358300.0,
-        "tag": null,
-        "first_seen": 1787361742.5408833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PZ2J1M19iX3FYRlUzUHRPTFR4MWtnVEw4d0puMkJ1WTZZTlNRUW1lQWgtOWRJSzhMeU5Ba1U1SFIwdzhLaXdkSWtGNnFISkE4R3ZzcmxUUFFQUHJzSk1VajgzeWp6dEF3?oc=5",
-        "headline": "국민의힘, 2025 결산 ‘100대 문제사업’ 정조준…“추경·특활비·예비비 철저검증”",
-        "summary": "",
-        "source": "복지TV부울경방송",
-        "published": "08/22 08:41",
-        "published_ts": 1787355694.0,
-        "tag": null,
-        "first_seen": 1787356583.553461
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 14:30:53",
+  "updated_at": "2026-08-25 14:44:34",
   "yields": [
     {
       "label": "3년",
