@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DR0RzWDVBQWhyekJVeFFBNERLY2RQTnNTczlNQ0E0S3VocERoTVJvY0NDUGQySTR4XzVpbnhtQUx1UndEUzUzTmxFdHh1MEd1NFdV?oc=5",
+        "headline": "'멘토의 일침' 드러켄밀러, 베선트 국채매입에 \"정부가 시장 못 이긴다\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/25 14:55",
+        "published_ts": 1787637300.0,
+        "tag": "Strategist",
+        "first_seen": 1787637638.3036008
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Q3RnR29BV2JhaGJnVmw0aFoydkJfSE53UHNNWmFPZUJfalFCVkxJWnZmLU1aT0xPV1lkZDVFY3FsdWxEV21UNVF0dmZpZ3Jn?oc=5",
+        "headline": "日 근원물가 2.3% 상승…BOJ 9월 금리 인상 전망 힘 실려",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "08/25 14:45",
+        "published_ts": 1787636752.0,
+        "tag": "JGB",
+        "first_seen": 1787637638.3036008
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeU9iX0drZ0RrZG5Qck8xUFQtYmdXaXZRUng0T1pxMnFYNGI5MTIxQTlTNzJZcWVtTW9HbGhuRElxNjdOYWZjNl9zTmtQeTRUSjNBVG5pejZhT1N5N3lQeU9LSjRuVE44X1ZtTGR5bFdnQ3NfbUVzWmVxUEYzYWEtUGk2bmRxanlDa3RnQW5qOWstUHAzQXBWaDFMSmNzWUFpTzVmZTlQSFNBV3E5eW44?oc=5",
         "headline": "Touchstone US Quality Bond Fund Q2 2026 Commentary (TCPNX)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787605663.0,
         "tag": "Fed",
         "first_seen": 1787609721.569546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcElWSjRfeDZVSmhZOVdIUFc5eHRHLXczdDhCaEFBTkNaM1lFcTdzSFMxSnRhLUp2YWViMnJYQ1I2TGU3N0VTU0dhd2pscE13M0pTWWhfVmRkT0N3Tjd5MFRtWUFBTS14ZFk5YW5DQ2sybkVZU0RzZHg2RUxOTGM5amZPazFjMGxuOVpVazF2c1cyLU5fRVR3VXQ4VFZrOU9aZllyY0NfYw?oc=5",
-        "headline": "Yen Intervention Explained: What’s True, What’s Not and What Markets Should Watch",
-        "summary": "",
-        "source": "equiti.com",
-        "published": "08/25 06:05",
-        "published_ts": 1787605553.0,
-        "tag": "Fed",
-        "first_seen": 1787612062.21071
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBPM1NsQXFPWDJFbkNkcVlVTEZPczYyb0pZS09OUmRxUEQyTUNhWGx2bHN5TE93NjFmR08tamxNc3JWSUJqSm91NVZ0LTdkWjZYd0JfeQ?oc=5",
-        "headline": "[논현광장-오건영의 금융진단] 중앙銀 행보가 가른 ‘원 강세·엔 약세’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "08/25 06:00",
-        "published_ts": 1787605200.0,
-        "tag": "JGB",
-        "first_seen": 1787607922.3217647
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 14:45:49",
+  "updated_at": "2026-08-25 15:01:02",
   "yields": [
     {
       "label": "3년",
