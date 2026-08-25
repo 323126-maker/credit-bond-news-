@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE01YWRLeEhWaXJWMGpCQnhUOG10WGxSbGlWQXFrVFZ4V3kxbk9xRHE4WHFZMzljSTdTVmlYVGR2MjZ0cGJSdWdWSXk4dkFZb3RJZUlSZQ?oc=5",
+        "headline": "인도, 내달 첫 토큰화 채권 발행⋯글로벌 시장 대열 합류",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/26 06:00",
+        "published_ts": 1787691600.0,
+        "tag": null,
+        "first_seen": 1787694325.487408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12T1RpRzZOMWxCMGpLVzBuejFTSWVGU3NFX2pOb0tXN3YxTU5HUkpQbVRTbEhUNDU1aURzNUlDSGJhajRHd2xGTzNDNVJWZ01UMjFDQ1ZyV0xES1JkbVZTRkNpb3VGcnoyYjVFWVByRdIBc0FVX3lxTE1IRDZKZjFESk9GZ2s5RXVoWk5iNm96MUh1ZFhTUHJxRk9zMG8tSXZ5dVlTYmNQT0ZqZnlkUndkd090ZFpKVDVwam9lNDNzeXZhSzFQSGI0YVQxZkdaVDNCeU1rU0c4NzZnXzNsLVJUU0VmRVE?oc=5",
         "headline": "기업 직접금융 7월에도 '주춤'…유증 뛰었지만 회사채·IPO '동반 감소'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787635380.0,
         "tag": null,
         "first_seen": 1787642006.264761
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBhX1prUWJQSjZOYi1icVh3SUpRQzJnTjcwQVVHUHpRNEN5eXJ4NGZ1emRoU2VTRjFyWFAwNFN5OGp6eG4xX2phWXd5RVRadkVGTWowdmxyZnpXZzVlQV9QVg?oc=5",
-        "headline": "바클레이즈 \"내년 국고채 221.5조 발행 가능성…종전 185.6조 전망 대폭 상향\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/25 13:26",
-        "published_ts": 1787631960.0,
-        "tag": null,
-        "first_seen": 1787633123.969368
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRUtaaXJjWC1DTWVvemZvTzk5YnRvN2NfNGZfRGNJVXdIWUktQmRtSUNBTUFocUNYOThsemNzNm4wRXJNb1JjZVdGM3piVjZDcmJKbXRycWNFNTRyS2VYMXlBNTB1MTdYQjZmT1VRdzdfN3N3bXVJRksyOFBfN2ZYREdqWFVIRVYycU1Td2ZEWTQ2bU4zSDVLbUVRaEozUHljbzF3Tmxyb0ljY1lHMWpmbzhyZHNzbjdwaDBJaVBTbXdSa2I1bzJBNXo5dFBLNE9HLUdN0gHYAUFVX3lxTFBKLUJUdmxOTUNxM2dpTnd5Z3kyRVJlaDJITGZ4S0ZSMi0tMkVRNFpQWURlUHU5aHZSbXJJTmdJaC12TUdudVU1VTg2MmwxckNxVmtTdk1iZEZ4U21lazM3UFJvV1JGMmUyVWY0VmJrUklCMW81Rlp0RnBzb0VaRzB6QnZyd0ZDZXpnN3FzN0ZYLXNrOVB0NHJObkFSX2hEaHZVTmZUVjZoaW5uS1JVSXBJRnd4SnhJbGdpU1Z6czlhV0lzeTBBSkFVc2dMZnQtREZDX2c5aDBkNw?oc=5",
+        "headline": "US Treasury Turmoil Could Reshape Invesco SEI And Acadian Stock Outlook",
+        "summary": "",
+        "source": "simplywall.st",
+        "published": "08/26 06:38",
+        "published_ts": 1787693906.0,
+        "tag": "Global",
+        "first_seen": 1787694325.487408
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wR2FLMW5NY0wzSXktcGdXZVRDbXhZbVVtSHZKVTJTU3BLRGh5QVJ3d2F4QlhyS2ZoOU9tS21BY3pGMUJtNVVpajhWQzEzdkNxR0E0?oc=5",
+        "headline": "美 경제학자들 \"워시 때문에 연준 신뢰 떨어져…인플레 안정에 더 걸릴 것\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/26 06:23",
+        "published_ts": 1787692980.0,
+        "tag": "Fed",
+        "first_seen": 1787694325.487408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUlpvVjBmNkEtR3pXNE1kQzRLOGFSSmgtLTNGXzlnRE52OU41TXJyTmlsQXhrZC1oc1B5T1JkYnZOdzA5YWdYdV9SZDBLZEJ3WktZaXAxbkNabE1RYzNCSlMyOWRWOXhXVk9tV2RCMFhlU1VDYjVKQUJYX0R6cFpQQTh2LVAzS3ZNVWVmcjlhekFBWFpzaGg0SGM4LVgzUE4xeHJvT0ZHYXJJdw?oc=5",
         "headline": "Will Fed Chair Warsh actually say anything in his big Friday speech?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787658300.0,
         "tag": "Global",
         "first_seen": 1787659239.0702858
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwS2NtVjIzTUFWWUpLcUJjVXFkNDdhMTlOa3U0elVOQXNhUVhuZXlLNjBMd1Y3Nk1xN1pvaHAxSWtONGtFc2VmQV9zSWdISjJPLW5uRWpNa3c0OXlUUVR2T3dpZ094d0Y3TzdsQVAxZl9jc3lVeklBb3NrTmd3X0k?oc=5",
-        "headline": "Druckenmiller slammed Bessent's bond buyback plan as \"price management\" doomed to fail",
-        "summary": "",
-        "source": "qz.com",
-        "published": "08/25 20:33",
-        "published_ts": 1787657595.0,
-        "tag": "Strategist",
-        "first_seen": 1787658328.5478072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVjh1RXZtMXpRMHA1QjRWcmJIbm0xYlprYml5MDBrUW1QUkttWEFGb0dKN1B1Tm5NbGZEdWFMQmUzT0FxSnZUQmhha3Q0MmVaZEk4QjB4dFJKak9VeXJzUmJTUGIzOVhYM3FBNEppZkJuTGhZRWIwYzQtNUcxQ3VnNkNzWlBPZ3VBSnlxVzNLQzQyZlJ5WjZB?oc=5",
-        "headline": "Bessent, Tilting at Windmills, Risks Reflexive Crisis",
-        "summary": "",
-        "source": "Heisenberg Report",
-        "published": "08/25 20:31",
-        "published_ts": 1787657519.0,
-        "tag": "Strategist",
-        "first_seen": 1787662848.6758761
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 06:30:54",
+  "updated_at": "2026-08-26 06:45:49",
   "yields": [
     {
       "label": "3년",
