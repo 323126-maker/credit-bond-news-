@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUVk1aVYwVTVjclhjanc3c0ZtNGZKSHRiOUR5QnVXVGs1cHgtMUFkSUlXM0g3dzVaeC1XZ3hhZ0piR1NJOGZtZU5DS1NnSFdfS0RfYjBQYjQ4V3djb1ZvWlVTMmVuLW9ZaWZOSEx2bkNFcHpDM0JBYXdybTAtWlNBS3l4RzN5ZkdyeGc?oc=5",
+        "headline": "TCW Corporate Bond ETF Q2 2026 Commentary (IGCB)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/25 20:45",
+        "published_ts": 1787658300.0,
+        "tag": "Global",
+        "first_seen": 1787659239.0702858
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwS2NtVjIzTUFWWUpLcUJjVXFkNDdhMTlOa3U0elVOQXNhUVhuZXlLNjBMd1Y3Nk1xN1pvaHAxSWtONGtFc2VmQV9zSWdISjJPLW5uRWpNa3c0OXlUUVR2T3dpZ094d0Y3TzdsQVAxZl9jc3lVeklBb3NrTmd3X0k?oc=5",
         "headline": "Druckenmiller slammed Bessent's bond buyback plan as \"price management\" doomed to fail",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/25 14:55",
         "published_ts": 1787637300.0,
         "tag": "Strategist",
-        "first_seen": 1787637638.3036008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95Q3RnR29BV2JhaGJnVmw0aFoydkJfSE53UHNNWmFPZUJfalFCVkxJWnZmLU1aT0xPV1lkZDVFY3FsdWxEV21UNVF0dmZpZ3Jn?oc=5",
-        "headline": "日 근원물가 2.3% 상승…BOJ 9월 금리 인상 전망 힘 실려",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "08/25 14:45",
-        "published_ts": 1787636752.0,
-        "tag": "JGB",
         "first_seen": 1787637638.3036008
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 20:48:11",
+  "updated_at": "2026-08-25 21:01:01",
   "yields": [
     {
       "label": "3년",
