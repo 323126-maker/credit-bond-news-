@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyOGJJVXdhTEdXeEktNmVQN0VUdFFXaFF2cHZGaDdQMTEtNXRod1k2cnNEVTJycDZpN3B0UWxWUk5VWjc5NnN0OWpwS1RFaWhfT2xWZjk4RlktdVNo?oc=5",
+        "headline": "금융투자협회, '정비사업 인허가 관련 실무(주간)' 교육생 모집",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/25 17:30",
+        "published_ts": 1787646600.0,
+        "tag": null,
+        "first_seen": 1787647526.2180943
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mVWYwTmxyRVBhTHFsNWtycEpJbmJyZGIyc1dMTzEwOE8tYi1HMkQ0NXBubGdGdy1HZHpUZzN3c1UxaU1aSUlaSEpwRVM5QTU3Vnl0WQ?oc=5",
         "headline": "[채권마감] 장단기 금리차(10년-3년) 보름만 최저, 재경부 국발계 조정 시사",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1787605468.0,
         "tag": null,
         "first_seen": 1787606883.9702303
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBM2pfQnRyRUM0VXV1TnVWcnNzM0JvOG9lc1lXcUJWZU1hcFNkanhBSVphMmw1aGp3dENpRVFGQUpwbVlvOVZiWEhrN3dQVmphRHYyb2ZEUFVaQ0JwNk51Uzd2TVZHaGp6ZWZ2MS1tdGoxalk?oc=5",
-        "headline": "차터 커뮤니케이션스, 채권 교환 제안 최종 완료…9167만 8000달러 규모 신규 선순위 담보 채권 추가 발행",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/25 06:04",
-        "published_ts": 1787605467.0,
-        "tag": null,
-        "first_seen": 1787606883.9702303
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90TkdXXzZuZTZBcVVCN3RZNXp0WEstTUxrNFgtSXhEVTYzbFk4OEg1QkFNb1BmTmt1TWowbi00SnZnWjBOLXBqeUpzbkZrNXRZQXg4WWlHVHF6Y2VQWDEzSXpicnAySGpxWlNN0gFvQVVfeXFMTUxQc1I0ZWl3UnZxQzlIaDVldFZGWUdyZE9KRmFBMmx0a0hVQmgzS0J3QlhtbzY2OUFxd0hqU2c2NFhJaXRaeEV6VUNEYWNwczhmM09ya1ZrRGpSWGd3REk1TUpzSFBrUDJVQWtUWGtF?oc=5",
+        "headline": "‘자본확충 순항’ 교보생명, 신종자본증권 수요예측 ‘완판’ 분위기...4460억원 ‘러브콜’",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "08/25 17:26",
+        "published_ts": 1787646397.0,
+        "tag": null,
+        "first_seen": 1787647526.2180943
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1kS1g3QTFlR1RTRVdDWDNDM2g3dzFEMml6X1BLZk1NM3pKblhvdFNsMGN5NnVDaHIzUlhFaDZpSk50RC0zUVg2Xy10Y29HRXZ1XzN0ZE94cWVIbERDcFdTX0VkZDNENXNWTHJn?oc=5",
         "headline": "교보생명, 3000억 조달 '숨은 1인치'…지주사 전환·콜옵션 차환 정조준",
@@ -792,16 +802,6 @@
         "published_ts": 1787131560.0,
         "tag": null,
         "first_seen": 1787132725.0574849
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpNkw1RHZSa0wzUVdTdHdvdHJOUGI5STVQZXBkZUVkYmxyVWYwX285Z3Z6bEN5T1FEUmE4RHdfTW04UlZGMUZUVzBsRVBnODY2Q1lQVnprbXBvakhBaGktNWd5NmlVTnd4?oc=5",
-        "headline": "교보생명, 최대 5000억 신종자본증권 발행…콜옵션 행사",
-        "summary": "",
-        "source": "fetv.co.kr",
-        "published": "08/19 17:47",
-        "published_ts": 1787129237.0,
-        "tag": null,
-        "first_seen": 1787130956.6394713
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 17:30:57",
+  "updated_at": "2026-08-25 17:45:53",
   "yields": [
     {
       "label": "3년",
