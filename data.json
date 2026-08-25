@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0a2w1RHhHeXpRZWVOQmlZSGgyNjhxMjlpWjl6NXVxajNVWENrb0JEZi1qSHR0VERjdWE2TWNJV1FUTFpxeHlzajcycWU3QXV1ZGRJ?oc=5",
+        "headline": "李 \"재정수치만 볼 때 아냐\"…AI·균형발전에 내년 예산 집중",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/25 10:36",
+        "published_ts": 1787621760.0,
+        "tag": null,
+        "first_seen": 1787622544.489318
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01TVNOcy01MWhaamRydmE1OFFUX1did3ZlRW5tclk1alQ5eXFVRVMzcjQyQnFXQXR4UmNwMXRjV1hDRjhIazVYT3p1aDB4cFc4N29sNEgzX3ZjVnh2d0FNVWlZZmdIZkFZTXlR?oc=5",
         "headline": "이 대통령, 800조원대 예산 예고에 “재정수치 관리에 매몰되는 우 범할 때 아냐”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787225730.0,
         "tag": null,
         "first_seen": 1787233526.9848416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBNS0hTUk1MQUxibWxWdmp4WVhFTkpoU3dPR2d0dmo5c0RDcFRIWDlvM2FfWGRaWFlTYUJHbi1WaXVqMl8zcE5NLWtOWlJyMTdPZXZWUVllWnpyd2xZdmV0OXZyTm5HenA3RHhsb0pn0gFuQVVfeXFMUE1LSFNSTUxBTGJtbFZ2anhZWEVOSmhTd09HZ3R2ajlzRENwVEhYOW8zYV9YZFpYWVNhQkduLVZpdWoyXzNwTk0ta05aUnIxN09ldlZRWWVaenJ3bFl2ZXQ5dnJObkd6cDdEeGxvSmc?oc=5",
-        "headline": "돌아온 트럼프 상승빔…비트코인 7만1000달러 급등",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "08/20 18:32",
-        "published_ts": 1787218372.0,
-        "tag": null,
-        "first_seen": 1787222725.8546734
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 10:45:54",
+  "updated_at": "2026-08-25 10:49:26",
   "yields": [
     {
       "label": "3년",
