@@ -1680,6 +1680,16 @@
         "first_seen": 1787683524.5220752
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
+        "headline": "Wall St recovers as tech bounces back before Nvidia results, inflation data",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/26 00:53",
+        "published_ts": 1787673198.0,
+        "tag": "Global",
+        "first_seen": 1787686233.096104
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM2hhZXdWVUpiT3k3SXRNYXZBdDBSalNJMS1GYVc1WEVTTnpwQ2dYTXhOdHdRRzBZbWlmWklpVkgwd3o0QXRUbE14UDkxM1RIb0J6dXJfZmwyRzB2Z2pmUDhBODRySGhyOUVibXlCcFRUeHFDVGNzVDE5eWUxN0JnTHV0NEVyT0I4dTRzNGJEdERJeGd5b0U0VUlEb00xdzRqMGlVbkl3YUk?oc=5",
         "headline": "Treasuries Gain as Oil Drop Eases Pressure on Inflation, Bessent",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1787669408.0,
         "tag": "JGB",
         "first_seen": 1787673360.4083364
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdWI0YXNicHBYaFNIdHAxRDkzemtGTG1ManRueDlQa2lBc0w2VTNMTHZqZHVxZ1BrRkh3bVQyWk43Qjd3TklYR195dTNCNjNaZzFPSi1zNjdqb3l1TV85NUpwWmxQQkxvOEwwQ080M2pPd0VlZm1Va0NWZFIyTHZDRWFn?oc=5",
+        "headline": "‘An economic heart attack’: Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now to protect their finances",
+        "summary": "",
+        "source": "moneywise.com",
+        "published": "08/25 23:05",
+        "published_ts": 1787666744.0,
+        "tag": "Strategist",
+        "first_seen": 1787686233.096104
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PeUFZbUdzaUdXZTBnS0dNQ0pQNXdrMjh6OUM5eExlRDU2UDBEU1R5WVppdzRCSEdqZHNzS2R3ZTBqU0JsZTBvWDJkR1RYRGs0VG5aQ0RST0djY3lTbkNPWGxsa1piN0MyY3NWVnNaYkFLdDBCekEyemN4cDV2dw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787650083.0,
         "tag": "JGB",
         "first_seen": 1787650609.7256162
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qbXJzd3lQeHh2b2luckFkdlM5QW55SWdIMnFvczdXRDhUbnNWQlpxcGFMRHo5T0NuNkhlS3BTUTF3ZHdhNF9aMzhYbGpvRjZGTThuNVhiZzh2U0VwejNpZ2pFYW50WmR2MzFV0gFvQVVfeXFMT2FWelppTjlDb1dKdVAzVk93NjIxWW1GRHpoeWF3WkRnYUo4WUhWUHdRX3RyR3BLem9NZjNBNGNEbkg2ODZlTXhIb0dqS2dvWWt0VHFDb2NRMjlnYnJKM0tuSTRRSzVIN1NDUE9PWmtr?oc=5",
-        "headline": "“미국 부채 위기 3년 안에 터질 수도”…레이 달리오가 본 미국의 시한폭탄",
-        "summary": "",
-        "source": "더퍼블릭",
-        "published": "08/25 18:23",
-        "published_ts": 1787649826.0,
-        "tag": "Strategist",
-        "first_seen": 1787673360.4083364
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yVG05RlhIUjUtM0trMkpNVkp6VWVVdlI1MXJEMHVJSEhDRmdPdGV5alVtWTIzam80ckZnRFd5RktId1dDUV9JXzVxS3Nqb0hwdTU5RHpqaWhWSnowckxFQk9ia2x1NXhUSzhHdG51cXBaMWxTN2dPMXZ6MEJKdw?oc=5",
-        "headline": "Analysis-US corporate AI debt surge tests investor limits as fatigue emerges",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "08/25 18:23",
-        "published_ts": 1787649790.0,
-        "tag": "Global",
-        "first_seen": 1787660263.4366884
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 04:15:49",
+  "updated_at": "2026-08-26 04:30:59",
   "yields": [
     {
       "label": "3년",
