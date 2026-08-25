@@ -322,6 +322,16 @@
         "first_seen": 1787567434.1609192
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jaFpVQS0yT1FHX0RwTWZjYWw3YVgxNGFZZW8za2JqOXhwX1BsaklpamM5UjJUSlcxUFFjRzNHdDg1T1hCWVU1eFhzVWY1N2FtQmFJOWpsZlhnSUxuUmdsenJzUHlFMnJFSHdUTG5Tc0E?oc=5",
+        "headline": "[채권-마감] 국고 3년 1.8bp↓…外人 폭풍매수·초장기물 주시",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/24 18:59",
+        "published_ts": 1787565555.0,
+        "tag": null,
+        "first_seen": 1787626028.4818022
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KbDdfbVg2U0NzQW5odDRVZEtqTWFXb3NMQndRYmVDNGhGeTNNa0piMlBJajJycGpUS2VkMlhjTUg5SU1VakU3UTdUYlpPUmExUWZGWDF1OEY0Z1NwTFpFMi10bEIxUTdhcEVoMEdOZko?oc=5",
         "headline": "[외환-마감] 네고·역외 매도에 또 연저점…4.10원↓",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "마켓인",
         "published": "08/24 17:08",
         "published_ts": 1787558898.0,
-        "tag": null,
-        "first_seen": 1787559324.9360547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MVm5WWjFlT0ljQVFra2JzRy1yU2ZXTlRWQkU0NEpxcnA5NUdJWWZMSFZMN21CT0lSdkp4M19IRzYzU21GQ1VpT2JBdVJJR3ZPUGxTZzJPNG5hZ0NrTVdCYg?oc=5",
-        "headline": "[채권마감] 불플랫, 미국채 약세에도 선반영 인식+외인 선물매수",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/24 17:08",
-        "published_ts": 1787558880.0,
         "tag": null,
         "first_seen": 1787559324.9360547
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 11:45:52",
+  "updated_at": "2026-08-25 11:47:31",
   "yields": [
     {
       "label": "3년",
