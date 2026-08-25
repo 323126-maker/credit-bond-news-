@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CSTVLZUQ0Y2dVUkJ4OWhIeE5nZGQ3SzFxY0xTVGNmXy12MHBzT3hjZmRBWVJ5V3ZUVk9Ed1ZzWmdtUDAzVWstM2Z2VDZZVEtIV2pvYkw4cXpxb01VODdIVNIBeEFVX3lxTE5zVXduWmp5ZHR6S2hWbGVTTngySGFOMk5GUV81NkZFQUQzVFh0NVlJYmVxdHFhSU9RS19vOFRWaVdDVkZJZTA2S2lNenF2alV0RFJwWWZraHVlSmdkNlRUYTZHLVNEeVl0WFIwWkRJUW9JVDV5ZkZKZQ?oc=5",
+        "headline": "국고채 금리, 장단기 모두 하락세…30년물 연 4.632% 마감",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/25 16:36",
+        "published_ts": 1787643416.0,
+        "tag": null,
+        "first_seen": 1787643924.876626
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LSmJXT0ZiQTFnZmx3dkp5MEVYbkZmYmlvaXBsTDVnMktIQ2EweTk0UXJUZTZ0eVpTc1RuSGlpZEFIOElEUUk5d1dZLWRfQm9vaUxGdldmcUdrOFpFcXJmLURyOGIzSHJqVkhXaA?oc=5",
+        "headline": "금리 인상론 꺾였다…채권시장 전문가 79% “동결”",
+        "summary": "",
+        "source": "스페셜경제",
+        "published": "08/25 16:34",
+        "published_ts": 1787643260.0,
+        "tag": null,
+        "first_seen": 1787643924.876626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1EMk9YM2E1bTU0UUlpTGxGVkhQQlFXcFJLVmNJbEhhanU1WU80NU8wcjVmbTNHazlIZUZNYnM2YjVwanhZY0o4bmY3VVJkZVRyTG8zT2VaTEp4M0VXX2ZncA?oc=5",
         "headline": "포스코인터내셔널, 미국서 무역 매출채권 토큰화 실증 [크립토360]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787577960.0,
         "tag": null,
         "first_seen": 1787579125.5702813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE55MEpKTEttWEZxamViVzd0ekpNNFdSWk83c01IczJqQnFEazZzT1RjbFptU3hFZm9GVm9DUHhCQjZ6OTBETVF3NlpHQTNxeHU3MXc?oc=5",
-        "headline": "건설경기 침체·금융경색에 대구3위 건설사 태왕, 법정관리 신청(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/24 21:48",
-        "published_ts": 1787575699.0,
-        "tag": null,
-        "first_seen": 1787576437.947383
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pS2ppN2VoZjd4c0pDNC1pVVNhZTR4VWZvYWNEeFVxeXpMUjVOeFQ5OGNzVFBNTjVWVHVucmNVWEZ6dWw4MHpwTHF0aXE1QXBIQ2FzdkVvMTl0TkVOa1UteTBUN1pGazF3aEVn?oc=5",
-        "headline": "[태왕 법정관리 신청] 산업포장 수상·지역 건설사 최초 골프단까지 뒀는데 ‘왜?’… PF비용 급증에 자금경색",
-        "summary": "",
-        "source": "영남일보",
-        "published": "08/24 21:30",
-        "published_ts": 1787574656.0,
-        "tag": null,
-        "first_seen": 1787575523.8138294
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04QmJRZGgtM29IcWVMcHVCYmxHMEd2bU44MnJWTEhnZUs5SHRaUFYtYVpNS3FkYmtGR1RBaXNkVnJUeG9iU2lZYVA5czNRZ0ozWVh3YWh2YWJFemNPQXFTVVI3dU9wVFNkZWhjYjFYWWpwS2s?oc=5",
+        "headline": "李 “재정 수치 매몰될 때 아냐”…800조+α ‘슈퍼예산’의 딜레마",
+        "summary": "",
+        "source": "마켓인",
+        "published": "08/25 16:25",
+        "published_ts": 1787642724.0,
+        "tag": null,
+        "first_seen": 1787643924.876626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIUVkxQWlzcHc4QmRDYTF6c1NsOGVrZm5rNWF6VVZtcFNqVnJpbG1GRFd0VjZQMFpCOEU4dFJqXzJJSWw5bHhxb1c1STVmQnU4TDV4NjdCUk5JUHVzZ3FyZl92MzlUamx5NzZR?oc=5",
         "headline": "李대통령 \"생산적 재정 전략 전환 ... 눈앞 재정수치 관리에 매몰 안돼\"",
         "summary": "",
@@ -1256,6 +1266,16 @@
         "published_ts": 1787625042.0,
         "tag": null,
         "first_seen": 1787632230.326901
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE52MENUVFBZVlQ1QWJfbHBES3p4MVNYa0dYcmZYYzY3VjhzbWtmZ1BkTDEyZjBoaHhDbnZDNTlFQTRXd25aN09vVFIzbnhUNURtekxFUHVIa1lYcXUwcGRGVXFPaG4xM0k?oc=5",
+        "headline": "이 대통령 \"경찰, 앞으로 가장 큰 권력…개혁기구 고민해야\"",
+        "summary": "",
+        "source": "연합뉴스TV",
+        "published": "08/25 11:01",
+        "published_ts": 1787623260.0,
+        "tag": null,
+        "first_seen": 1787643924.876626
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuam9vdERlenhjdWpTeHVZRTNqOE5rU1hZcGQzWHh3QXdTSkJOajFONlBwR2RNcWNxWU9ONTBaWWhrYlRfU19oZ0dFTi13cFNkMWhObkh0UU51MzFocE1ObQ?oc=5",
@@ -1586,29 +1606,19 @@
         "published_ts": 1787308686.0,
         "tag": null,
         "first_seen": 1787310669.4870148
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zRWlhcnJ3UlhCUmhlVWNid0lhT0NfN1liTS1ScFpfc013Vk1uVVQ1UnVzN2JrVjFkQ0daUmpZb1NMNmRaUFFOekFWQTFIcmQ3Ykhr?oc=5",
-        "headline": "이 대통령 \"부패 청산에 여야와 네 편 내 편 없어…엄정하게 정리\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/21 19:26",
-        "published_ts": 1787307960.0,
-        "tag": null,
-        "first_seen": 1787382194.7906544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBMMk1zV0lNd1JUdzVyNzBOUU8xYWR2eWF1aEVHdzVkRHliZTVSTTYwVlN2T1Z2ak1OY0h5b3prY3lZZ3BEUF81NHQxOHJzalZOanZTQ1lzM3B4VGxuUTZldmtTNjVxZWtQdTZnQzl5Zw?oc=5",
-        "headline": "엇갈린 李대통령 평가...수익 개미는 긍정, 손실 개미는 부정",
-        "summary": "",
-        "source": "뉴스톱",
-        "published": "08/21 17:38",
-        "published_ts": 1787301532.0,
-        "tag": null,
-        "first_seen": 1787301923.6086037
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEQxYjdwdXd5NUdSU1p4Qk5jVmFNSjBJYTdHV0l3SEs4M1N2STc2OGFTQXdxUFRQeW1QRUttX2UyNk9wUUdxM1FJNnN4RS10S2NvR0lFblFubVRCTHJkdHZHaWFaVlVFSGhJdDBJeGc0VDhPNEtXUFRWbzJCLW5RcjVmanNOSkZpVFRwSC00YkdDSjZIa3R0MU9oNGhmaHZWVktXd1d1cm5jS25PTlB1MkUxWFNnNE5jcndxRkI4Z1RqLU5CaTNhelJnYVlZYjluNm5xMUtIOE1QM2NjWXc?oc=5",
+        "headline": "Druckenmiller says Treasury’s $4B bond plan driving BTC higher is flawed",
+        "summary": "",
+        "source": "CoinDesk",
+        "published": "08/25 16:32",
+        "published_ts": 1787643152.0,
+        "tag": "Strategist",
+        "first_seen": 1787643924.876626
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxORUZOMzBZWEZwczYzUXhfQjlvVUtFRnZUQS1oSER0SkxMbjFNWC1JVi10SDFvMUlndTViNmR3a3F5STVKWm5DVk5sU0VIcm5qU3NpMllBaTN5M0VVN3FIbExWMkJYRWZhX1NldmhvV1FPdWJZQkdQcjhxQU9velNTdUhtQkQ1U1E5UHcyNzBmVFMwTlY0dnU5dldpYnI5OExLbHR5ODZmWTFnUjhCQ25LXzFQTzdPeC1MMFlFNDloVUZ1Qmk3eC1kX052TG9RT0JZczVuaFRXYThSeUdZblZoT0ZVVEZNRkgwZTB1Q1JuSkhEZ3pXTGFSZ1NQeXRSTmdnMm5kbThNRktfY3VK?oc=5",
         "headline": "Stanley Druckenmiller Slams Scott Bessent’s $4 Billion Treasury Buybacks: ‘This Wasn’t Liquidity Manageme",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787616953.0,
         "tag": "Fed",
         "first_seen": 1787617830.9094675
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOamxJcF9RY21sRGMzWWNyNUQ4UDYzazlubmkxMGlYbnc1STJqUUpzX1F0cjVjaUV5VnNpLUtHb1pveURRWktXNHpwX3MzbFhFYUFRQlh1ZERrX1ZJQ19tWG9jMVNMZG9tdWpyODc4cy0zR1g0UVJ5M05FY3Z6NkFJQzc5MGNaemlZZ3M1SHE3cmJtUDJQZVhyQlFrdUU?oc=5",
-        "headline": "Colombia faces $9.6 bln reconstruction cost as earthquake recovery puts bonds under pressure",
-        "summary": "",
-        "source": "TechStock²",
-        "published": "08/25 09:08",
-        "published_ts": 1787616535.0,
-        "tag": "Strategist",
-        "first_seen": 1787616924.7727935
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 16:30:55",
+  "updated_at": "2026-08-25 16:45:47",
   "yields": [
     {
       "label": "3년",
-      "value": 3.836,
-      "chg_bp": -1.8,
+      "value": 3.83,
+      "chg_bp": -0.6,
       "series": [
-        3.865,
         3.829,
         3.8,
         3.831,
@@ -2439,15 +2438,15 @@
         3.798,
         3.811,
         3.854,
-        3.836
+        3.836,
+        3.83
       ]
     },
     {
       "label": "5년",
-      "value": 4.068,
-      "chg_bp": -4.3,
+      "value": 4.039,
+      "chg_bp": -2.9,
       "series": [
-        4.117,
         4.068,
         4.037,
         4.078,
@@ -2466,15 +2465,15 @@
         4.068,
         4.066,
         4.111,
-        4.068
+        4.068,
+        4.039
       ]
     },
     {
       "label": "10년",
-      "value": 4.335,
-      "chg_bp": -4.1,
+      "value": 4.32,
+      "chg_bp": -1.5,
       "series": [
-        4.333,
         4.289,
         4.257,
         4.311,
@@ -2493,15 +2492,15 @@
         4.337,
         4.323,
         4.376,
-        4.335
+        4.335,
+        4.32
       ]
     },
     {
       "label": "20년",
-      "value": 4.621,
-      "chg_bp": -4.3,
+      "value": 4.576,
+      "chg_bp": -4.5,
       "series": [
-        4.561,
         4.531,
         4.485,
         4.506,
@@ -2520,15 +2519,15 @@
         4.63,
         4.601,
         4.664,
-        4.621
+        4.621,
+        4.576
       ]
     },
     {
       "label": "30년",
-      "value": 4.677,
-      "chg_bp": -2.6,
+      "value": 4.632,
+      "chg_bp": -4.5,
       "series": [
-        4.567,
         4.543,
         4.515,
         4.537,
@@ -2547,7 +2546,8 @@
         4.721,
         4.675,
         4.703,
-        4.677
+        4.677,
+        4.632
       ]
     }
   ]
