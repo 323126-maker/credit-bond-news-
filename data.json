@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTS1pWUdrZkxyeGVsT0Q5dTJiek8xVDIzSmw1UUxpenJFb0hncXU5WnQ1UFpSbnRZVFFVSmdQTGZWNXlyWUJNLVMzN0VUNTEyaVZaM0NvNVFaYUdUSXVad1RncFVVOW13aWpiUWFzdS1ObXJnWFZUajI5NHotdUlOTkJ6ZDVmMVNWSnlkU0t0S3FFVVBKNHJMZHpKUEl2c09SWHZISGN5SjA0OUNOUXhyZGd2NmZWU2lGYlE?oc=5",
+        "headline": "Japanese bond funds see record inflows as yields attract European buyers",
+        "summary": "",
+        "source": "CNA",
+        "published": "08/25 19:58",
+        "published_ts": 1787655533.0,
+        "tag": "JGB",
+        "first_seen": 1787656350.2487373
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWFdmd3Uwd242Yk1obkRHQmZEVFlZWUg0cTFqb0xwNWI4ZG91T2RZRmU2SFpBVmZ3UE1ZVGVNenotMkFtRDg0NWZHdGE2aHJTQjl1Q2lIejhxNHY0b2l6ZnltY1k2RkY2bVhxZUpTYkpwcTQ1NWxQQl9vOG1kd3JPWlhkRTU0SXVjaEd4Q3FEYw?oc=5",
+        "headline": "Druckenmiller Calls Out Bessent for Bond Market Meddling: ‘You Will Lose’",
+        "summary": "",
+        "source": "Barron's",
+        "published": "08/25 19:57",
+        "published_ts": 1787655420.0,
+        "tag": "Strategist",
+        "first_seen": 1787656350.2487373
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHFDcE1HR2xRUUQ4VUJHMS13MUU2Q0xXaGxDQ2RESmZWRzZKU09VWmYtaDJFN285T3BxRWJTXy1lcGJ3dktJQmR3WG90QTV6T1RSalFyMFUwa3lHTGhxSWxTQzQ1b0NBSktveW1heFFKaE13Nl9uXzZ1Yldrb0lhWFNZYzRMRVBVNjZfVnFxTTlxQlItRWdZbUNWZk9XM0s4bExEVQ?oc=5",
         "headline": "Druckenmiller urges US Treasury to cut deficit instead of buying back bonds",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787633441.0,
         "tag": "JGB",
         "first_seen": 1787641240.6085687
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBENkJubTUzTGdEdHd3UUVGWjExbUpPcERlMGJhN1p4SWVoRnUwTDVlbUpBRlc2QmZWeTdvbnJRMjdXXzIwM1FhU2ZKVHVhUmJEbWEwZ0dsXzRzaE1ZelJEYdIBZkFVX3lxTE1SSExOX2lYLVd1VEVHSGpDUHEzVE01Uk5uWEdIREtrQXA2WlRMZU9xVjRMc3lnTDNacnF3OHBSR3hhaWlWcGQ3azlkUnBBbE1oSjNvaTBPQnU0TFB6ckZ4Q1NpWnViUQ?oc=5",
-        "headline": "40억달러 바이백, 미 재정 경고 논쟁 키웠다",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/25 13:50",
-        "published_ts": 1787633409.0,
-        "tag": "Strategist",
-        "first_seen": 1787634038.2509112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5udG5EMU43OUtLSHFMSVMzaEFEWVFKMkg5R1J0cUFMT3RLT2JRS1pXTlQyNnFQVlZIajBpX2lBRG0tYjlCTVFyYWphYUVwc0ZfTWM0T2dLMGM4bVRUd2MyQVF0X19EdjN1UkgyVWRWR2VGWHVESTV0WHhJZw?oc=5",
-        "headline": "베센트 전 멘토 드루켄밀러, 미국 국채 바이백 비판",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "08/25 13:37",
-        "published_ts": 1787632638.0,
-        "tag": "Strategist",
-        "first_seen": 1787633123.969368
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 20:01:06",
+  "updated_at": "2026-08-25 20:12:53",
   "yields": [
     {
       "label": "3년",
