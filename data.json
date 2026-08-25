@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSE5HQUlIMFdmYnA1YVYwS2RmOGlFT2xGMlNJaDZoTVlWWW9QcmtYRHdxUHZEdVV2M0lQVklNaDJvR2JwR2p6cUpsV3lHNWhaZEM5bmZMVlF5bV9Idjc1M3ZEbG84MEZoWjFzSEtmY2VPQUJfVDdxVUZZS05oYkptSDZQVWJuTngxWmpvbktDV3JTaFBBVWU3aUtnbnRzZ3M2SXJrOWtja3JJYVlMdGt2aFdXYw?oc=5",
+        "headline": "S&P 500: Nvidia’s Earnings and Fed Outlook Could Determine the Next Move",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "08/25 18:11",
+        "published_ts": 1787649117.0,
+        "tag": "Global",
+        "first_seen": 1787649324.735894
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYWlzS0QySnhtQWZXeUpBVTV4cFBkaWxwNDhpbFpnUGdMYUhVeXRjakhzdE5fODhEVTJzRFMwd194QlN1dnM1aFJQUEItUkx5TGVnYnZmQzI0NjFWam9NNDYtNkRyV182bzczUmlENVJMZVFMakRIOHlhUE9aUHlSSkM0OVpoUVFFNWp6TXdpNzh3dlE?oc=5",
+        "headline": "The Fed doesn’t know who’s financing the $3 trillion AI boom",
+        "summary": "",
+        "source": "Fortune",
+        "published": "08/25 18:00",
+        "published_ts": 1787648400.0,
+        "tag": "Fed",
+        "first_seen": 1787649324.735894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON1pqc3g5QlFyWDVsV0JOZkZaeXJaWTF6Z2gtVE92UG5zRkF4OGpHZ1RWR05sSVRVRUxJNExMbXNXOW1IeVBBQ0EweWVwSjdMRzBlazBxeGwyMW5zV2dOOTZONHNCNXE3dUdRa2Z4bkctX2RiQldrTzljSUxrQWo4WUJCRkFYTTlkU2lpMHo0S2JXVkg1X1FxWjlQeGNRNXNVaGlMdXEzbHFFY3llakE?oc=5",
         "headline": "Treasuries take centre stage as bond yields, oil and US debt unsettle markets",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787628925.0,
         "tag": "Strategist",
         "first_seen": 1787629525.811723
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQSUd6MU82cFRabW04SDRWZTdiZWtQWTVYOEZjMzhHekNIZHJFQWFDbnRRZnh4WWlhdk5JbkFiY3lmYjR6dnJjSldJbEVpSTZ6SzdKMWU0d3MwM2IwdkpCSDM2X2xGamlzX2RicGFnVENreF9YdlowNVRVbjQ4N3F3QndqVmsxSl96SU1VODdXSmlXdUdEQUlLSTRUUzNzTVdxNENka0pOSFhocXl0WjBnOEF5dDdKTnBVUWtYelp5ay1BX2xIQ3BjemlqU2FFNjVRS1hlcVJERF9NNFhY?oc=5",
-        "headline": "No contradiction in rising earnings, higher bond yields",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "08/25 12:22",
-        "published_ts": 1787628179.0,
-        "tag": "Global",
-        "first_seen": 1787633123.969368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4xU0RHWnhfUUp4N0hkMTlCLVVCeFlmTnJiYkVnWGw5cWs4clh0TFNrRnNOeXZKN21vOThhVUM3bjZqMEhKMVRMT1I1bDZFTzNaQnVlQno5ZVptSk41cnY0cnZTbXFqYjNiUDJ3TDRjZmNnU2I1UjE4elRBSFZ5cFU?oc=5",
-        "headline": "Stanley Druckenmiller criticizes Scott Bessent's bond buyback plan as 'price management' disguised as liquidity support",
-        "summary": "",
-        "source": "Crypto Briefing",
-        "published": "08/25 12:22",
-        "published_ts": 1787628123.0,
-        "tag": "Strategist",
-        "first_seen": 1787628631.8155043
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-25 18:01:10",
+  "updated_at": "2026-08-25 18:15:51",
   "yields": [
     {
       "label": "3년",
