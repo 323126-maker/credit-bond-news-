@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHQ4SFdwVmlaQmxKYlpyQWhKd2xyLVlZX28wbFh6YmdhWkZ6bHF0Y2dkMUJCNXRvbmNjSEF3bXNxdDNhMExRSDg5WG4zSWR5aWVUc1kwd24tNDJlR0p4Ui1PYnU2dWxJdmJqZTIweThXM3pXS1A0dUVQWWV6Z2FvVmZBVGV3MGI0Yy1LU19aR1lJQ3pObFI5bElHTnp3ZlYxc3hUZW9RMFM3WWVxbVVBdmIzUdIBuAFBVV95cUxQNE93MDJBTHVmN3NwT05fVW9SZ0N2TndOdnptd1k5UG45RHoyLU92bm8weXdkV2NyUjVYay15S29Eb1BkYnFSbW9Vd0Q4RHo5UXcyVmh0cVFRUGxhLVFIeGJmOThtSHJaX0IwRmhHT2lvOVR2NllUTUxaUzF1d293MHRtOGFCVnhpb2dSdUVsTEx3RlRaWjczaXRZZElzYTVaOTZySnVyOVdpQVlObEdXdGdaYjFSNk9f?oc=5",
+        "headline": "Stanley Druckenmiller leads doubters who think Bessent's bond ploys will fail",
+        "summary": "",
+        "source": "CNBC",
+        "published": "08/26 01:12",
+        "published_ts": 1787674341.0,
+        "tag": "Strategist",
+        "first_seen": 1787675438.7471302
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCTXpCWnpnSEY2U2RWeGRrZHlRMzRTZmVDMFQ2WUFFNElBeDdxY1BQVWpTYTZoUHpnVzhuS1ViX1FhVGJCOHhBbDBLZkk1cDNqMTludnZqWUNySE5ZY2VzN3ZjSkRxTnJLa3d1czFqZGJWamQ3ZmZNQw?oc=5",
         "headline": "Argentina Country Risk Below 500bps? Manifold Traders Bet 84% Yes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787646485.0,
         "tag": "Fed",
         "first_seen": 1787648162.206306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOYWI2akJWd0lKNmQtSXZJYzVQU0k3X0JneXhDTHF2UXBDV0V5c2JZY1R1RDNvekoxUjA1d3AtVFNaRHYyOERaREJMaldMOTdsM2JPQWZkT1NUaXpfSm1BSEtIWS1XQlB4ZGpVcE1WbWE1LWoyWTl1X21VRDAzbXhhd016Sjg5WkE0dC1pRkExTHJyTUNrN3BuWDgtYTBYSlQxUlNsMEN1dU1ycUJVeDFOTDhnTXZQSjM2eDNidzhlNjVqcUttZEJkNF9ER3I0QTdn?oc=5",
-        "headline": "Japanese bond ETFs attract a record $1.5 billion in net inflows in 2026 so far, Morningstar say",
-        "summary": "",
-        "source": "Reuters",
-        "published": "08/25 17:19",
-        "published_ts": 1787645983.0,
-        "tag": "JGB",
-        "first_seen": 1787646633.0004492
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 01:15:58",
+  "updated_at": "2026-08-26 01:31:00",
   "yields": [
     {
       "label": "3년",
