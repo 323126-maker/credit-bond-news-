@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FaFc3TTlMSjlxeWptRGJoMGFWQS1ZdTR6blVPajgzVHlXa2dQYmdKY0dXVXpScFA4RmpZOFRDdDRSYndDalg5ZXcwYzVZQXhETEJn?oc=5",
+        "headline": "TPG, 롯데렌탈 '무차입 인수'…'선 에쿼티, 후 리캡'으로 IRR 잡는다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/27 08:01",
+        "published_ts": 1787785260.0,
+        "tag": null,
+        "first_seen": 1787786126.2860808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMV0s3VmY3NzdNOTdsdlBsZjd5TTlneGRFbHJmaHh6YmVORmswMjFFcUpkZENzMV9rQjl0ZTBCLW1pLVdwN2RQRkg4eDRjbVUzejBJ?oc=5",
         "headline": "고금리에도 회사채 스프레드 축소…우량채 '캐리 수요' 유입 [시그널]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787691108.0,
         "tag": null,
         "first_seen": 1787702525.9904206
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwWHk2bGx5OVlWemFnNHFZSG14a3VfR2hCV1BMaW1wVUVXQlozMW9PbVFSdnkzdEZoWEYwU1ZrQ21GZ1lSOUE2NDlJM2p3a0RxZHdrQkpQUWR4U0N3TUFJczI5WTRoUE10VFBn?oc=5",
-        "headline": "추경호 대구시장 “태왕이앤씨 법정관리, 지역 건설업계 전체 위기로 번져선 안 돼”",
-        "summary": "",
-        "source": "웹플러스뉴스",
-        "published": "08/26 05:50",
-        "published_ts": 1787691034.0,
-        "tag": null,
-        "first_seen": 1787737524.6382875
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 08:01:02",
+  "updated_at": "2026-08-27 08:15:51",
   "yields": [
     {
       "label": "3년",
