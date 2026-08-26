@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EWldZNVk0LWU4S1ZIYURDbWJaOGpWMGV1VGNFaWFwRDJLb2FzUHk1TC1IRzJlYUdZTW5UazBsVndvUjVsNlJMV1FEV2FCeHNCdllj?oc=5",
+        "headline": "신한증권 \"IMA 시장 4조원대 성장에도 회사채 수혜 제한적\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/27 08:35",
+        "published_ts": 1787787300.0,
+        "tag": null,
+        "first_seen": 1787787924.17998
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FaFc3TTlMSjlxeWptRGJoMGFWQS1ZdTR6blVPajgzVHlXa2dQYmdKY0dXVXpScFA4RmpZOFRDdDRSYndDalg5ZXcwYzVZQXhETEJn?oc=5",
         "headline": "TPG, 롯데렌탈 '무차입 인수'…'선 에쿼티, 후 리캡'으로 IRR 잡는다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787691600.0,
         "tag": null,
         "first_seen": 1787692524.3747427
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlVW5xNGpNaFlpRWZMZTNGbzRrMEtSN3ViZHA0V3JNQWo2RFdkdzZ3aWtQX3gyMVZwMENaU09WWmp3OURULWhMWW1hcHhwdFVXdWc?oc=5",
-        "headline": "유가·채권금리 하락에 美 증시 상승...미·이란 재휴전? [월가월부]",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/26 05:51",
-        "published_ts": 1787691108.0,
-        "tag": null,
-        "first_seen": 1787702525.9904206
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 08:30:57",
+  "updated_at": "2026-08-27 08:45:49",
   "yields": [
     {
       "label": "3년",
