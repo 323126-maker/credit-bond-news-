@@ -262,6 +262,16 @@
         "first_seen": 1787688927.313287
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45YmUwTU9DX1laZDZEeGlYMWd2d25CaUNkeUpYdF9VSWhOX0Z6MURVeHVJTkVsRG1XWkdCS21nSnVVWnNkaUxFdFZ2OVJmRm9yMExpNmc0QWE2aW1kV1N5TDFwd3Y2RVlqSTd6dHRYNzE?oc=5",
+        "headline": "CGI, AgVantis와 파트너십…팜 크레딧 기술 현대화",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/25 21:07",
+        "published_ts": 1787659620.0,
+        "tag": null,
+        "first_seen": 1787720439.7706268
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5pYUNOaTlkYXNveWVyNTR0bkdhekVDdUx5emFaR3RobEZ1M0JTaFRHa2o5VjR1RGFWZTRvcVlZWmZoSUh2X2lackhzMDFidGc?oc=5",
         "headline": "'10월, 그들이 온다'...코스피가 불안한 이유 [B급기자의 B급리포트]",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1787645640.0,
         "tag": null,
         "first_seen": 1787646633.0004492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ydlhkZUxrcnAzZXVmd1BNWGN1UmlBVW1BR21wbjJ2OVI5bW5rQmJfeGY4NjZZTjBDNlhzUi1MQXpqUU5MTy03aXUyMHh5QmsxZ3BJNUE1OERyVUlBQnJtUkFPMHhrMTFXT3A3cExBYmJFZw?oc=5",
-        "headline": "국고채 금리 일제히 하락…3년물 연 3.830%",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "08/25 17:07",
-        "published_ts": 1787645267.0,
-        "tag": null,
-        "first_seen": 1787645723.114187
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00UzVOMkRXZWtUY29LUVZYWk85U2FKMVZ1UHVteFVvRC1RNFRqUktUbnR6QVR3VkpFb3RuT2ZSTWVSQ1dGWE84X1VFWk5DSk9aeTJibFFHQlZFZk1JdmFUdFFsLVkzMUJz?oc=5",
+        "headline": "[그래픽] 금융지주 하반기 신종자본증권 발행 일정",
+        "summary": "",
+        "source": "CEO스코어데일리",
+        "published": "08/26 13:40",
+        "published_ts": 1787719226.0,
+        "tag": null,
+        "first_seen": 1787720439.7706268
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VOUJrQnpKcXdidGd0LXFrbGtIdVBYbVlfd3VaQlhzV29odmtjNEJKdEpfLXlRVU5FaUlrdURMTHM2MzlGZURuaHk5dGY3UDlBX3dlbUV2cXprRktwZHhWWGNMTk5rNllYaU0tNlZHVDc?oc=5",
         "headline": "푸본현대생명, 후순위채 950억 조기상환…'이자부담 덜기'",
@@ -792,16 +802,6 @@
         "published_ts": 1787202979.0,
         "tag": null,
         "first_seen": 1787238037.8304868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBlZGhqcTNNTlhDcW51RzgwUUdtUWkwVUc5Zm5FSFFaVHhoekg5a2RlWHFrNVVzNzV3XzFWdGtRMUJJUmhyRmR1cGlsdDBtemd1VFhvTlV5Ml9wUXdGOUNzM2hrNlJEaGFyNVhqbVBCNWgyYWvSAXdBVV95cUxOdlg2SnY0RUJvLU9Mdm9LYnVHQ2pGa00xekRyMk9DR1hvSHd4M0FBcUpWcXpmb0IzYVNURVc4SHQtOWdvSTFIYVZEamRCanVoaHp5ZUFicGNITVMxMWhkaTg1YXpudTVjbUI0R2RnQVJvQnBuZWZoVQ?oc=5",
-        "headline": "'홈플러스 부담' 메리츠캐피탈 건전성 후퇴···연체 늘고 충당금 줄었다",
-        "summary": "",
-        "source": "여성경제신문",
-        "published": "08/20 13:21",
-        "published_ts": 1787199686.0,
-        "tag": null,
-        "first_seen": 1787204727.1068625
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 13:50:19",
+  "updated_at": "2026-08-26 14:01:03",
   "yields": [
     {
       "label": "3년",
