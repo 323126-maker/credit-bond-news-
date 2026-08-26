@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VlFLRnQ4ZHBpQW1wN2treW5fRGpvYmhqZkJmcXlhY0dGSE5CVXBEdmJPenRXSjBsb3ZBMWdVcGhCS1pjeHZGbUJYMWFHbjh1R2xGclJXdEtIQlRETDFV0gFfQVVfeXFMT3ZWUUtGdDhkcGlBbXA3a2t5bl9Eam9iaGpmQmZxeWFjR0ZITkJVcER2Yk96dFdKMGxvdkExZ1VwaEJLWmN4dkZtQlgxYUduOHVHbEZyUld0S0hCVERMMVU?oc=5",
+        "headline": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심",
+        "summary": "",
+        "source": "경향신문",
+        "published": "08/27 06:00",
+        "published_ts": 1787778000.0,
+        "tag": null,
+        "first_seen": 1787780893.5708895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VWXFuMzZPNTgxM05lWFNRbEdFSTFmOGxtbmN3bWNRTkVjQ1J6V1ptakswOF9Tbk1SNGZ6RU1OT2cyMUJ2WWFUOEJ5LWluTTE0U1VzQ1F4NG1uZjDSAVtBVV95cUxNVVlxbjM2TzU4MTNOZVhTUWxHRUkxZjhsbW5jd21jUU5FY0NSeldabWpLMDhfU25NUjRmekVNTk9nMjFCdllhVDhCeS1pbk0xNFNVc0NReDRtbmYw?oc=5",
         "headline": "70억달러 인수, 고객자산 5710억달러로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787689800.0,
         "tag": null,
         "first_seen": 1787690726.9152567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9VZlVUMmdzQl9sWWZiQUx5X0JKY09JaFA3VWJ2Wl9qMDhidTdLNGMtNTBwTTFCVjA4S19rdTVTMjFXTGxBQkNzTW5PRE1FeTJlTThXaWZOb2hhY3FtVFd6dGJuUm5xOHF1bGtvc29LWWQ4WFk?oc=5",
-        "headline": "크레디트 억셉턴스, 6억 달러 규모 자산유동화 금융 조달 완료",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "08/26 05:05",
-        "published_ts": 1787688315.0,
-        "tag": null,
-        "first_seen": 1787688600.6845186
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 06:45:58",
+  "updated_at": "2026-08-27 06:48:39",
   "yields": [
     {
       "label": "3년",
