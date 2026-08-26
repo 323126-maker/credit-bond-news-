@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qb00wTTFuNkpDVF9LSDdiamNUeDA3QUYtd1JSNkJXYVB3SWJvZ3k2TDhtTUJTR1JIeGQ1b1k1SUhCbUt5VG5kM2Jydk10Y1lxTlRTc1FIbDU5TmPSAVtBVV95cUxOam9NME0xbjZKQ1RfS0g3YmpjVHgwN0FGLXdSUjZCV2FQd0lib2d5Nkw4bU1CU0dSSHhkNW9ZNUlIQm1LeVRuZDNicnZNdGNZcU5UU3NRSGw1OU5j?oc=5",
+        "headline": "에스에이피 4.12% 하락, AI 토큰화주 약세",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/26 19:24",
+        "published_ts": 1787739896.0,
+        "tag": null,
+        "first_seen": 1787745636.9462714
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TWm5rUUhiaG9GazB4YkdLTGVDUmFnY0Vib0QwaFNySTUzLXNWa044eWhRTlFRaG12czA4aG92OThhOVBLSGZDMlFpYTFqdFl1ZVlWdzVIb0RnZHl4MjVmdGEtOU1KbzBNcmgzWWdqU3Q?oc=5",
         "headline": "[외환-마감] '네고·저가 매수' 소화 후 '美 PCE·금통위' 대기…1.30원↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787668464.0,
         "tag": null,
         "first_seen": 1787688927.313287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45YmUwTU9DX1laZDZEeGlYMWd2d25CaUNkeUpYdF9VSWhOX0Z6MURVeHVJTkVsRG1XWkdCS21nSnVVWnNkaUxFdFZ2OVJmRm9yMExpNmc0QWE2aW1kV1N5TDFwd3Y2RVlqSTd6dHRYNzE?oc=5",
-        "headline": "CGI, AgVantis와 파트너십…팜 크레딧 기술 현대화",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/25 21:07",
-        "published_ts": 1787659620.0,
-        "tag": null,
-        "first_seen": 1787720439.7706268
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 20:50:03",
+  "updated_at": "2026-08-26 21:01:03",
   "yields": [
     {
       "label": "3년",
