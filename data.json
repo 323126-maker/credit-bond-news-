@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WT2hCWlRPd21xaE1BZEM2aTFTeWlKb1NBUnRGekRFYzVKREZuejUxREh6c3pocjB6UFVfVTFqdUotaUtWRFEwd0NJbnZHZEZZMVBlOTFFOUxGcF82MXhnWVNEV0Q?oc=5",
+        "headline": "고금리에 단기 자금조달에 몰리는 기업들…비우량 회사채 지원 필요성도",
+        "summary": "",
+        "source": "매일일보",
+        "published": "08/26 14:47",
+        "published_ts": 1787723271.0,
+        "tag": null,
+        "first_seen": 1787723694.7646718
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4zYkFVS0F0dmpBakpzWktFRC1XRkNtR185eUdBOTZ5ZDcyc1RxUlY2cF95dnhSU21RMHZnX0E4eHZtYUVsZzlPQUJMdnc1a1FPV3lpeUFZcHA5UQ?oc=5",
         "headline": "IMA 4조 뭉칫돈에도…비우량채는 '풍요 속 빈곤' [fn마켓워치]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787646104.0,
         "tag": null,
         "first_seen": 1787712324.46962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lQ0hUZ1lsZ2RKUjZLUU96dDlZWHBBdzc5Qi1McmU1SDhBSll3VHJDSnd6TlB0eWRDLUJyVl9BRWdQdU90OHdFQTRHZVJEQTBzMUR6Sjl5MEtOa2dudTRqUmxya21xa2llWnc?oc=5",
-        "headline": "에코프로 신용등급 유지했지만… 전망은 ‘부정적’ 하향",
-        "summary": "",
-        "source": "중부매일",
-        "published": "08/25 17:16",
-        "published_ts": 1787645771.0,
-        "tag": null,
-        "first_seen": 1787664633.1754375
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 14:45:50",
+  "updated_at": "2026-08-26 14:55:16",
   "yields": [
     {
       "label": "3년",
@@ -2467,33 +2467,6 @@
         4.111,
         4.068,
         4.039
-      ]
-    },
-    {
-      "label": "10년",
-      "value": 4.32,
-      "chg_bp": -1.5,
-      "series": [
-        4.289,
-        4.257,
-        4.311,
-        4.261,
-        4.264,
-        4.26,
-        4.15,
-        4.195,
-        4.208,
-        4.239,
-        4.301,
-        4.294,
-        4.298,
-        4.313,
-        4.382,
-        4.337,
-        4.323,
-        4.376,
-        4.335,
-        4.32
       ]
     },
     {
