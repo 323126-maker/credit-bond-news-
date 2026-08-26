@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wSHp5N3JtYzl5WGZNWUxMaG44WUpiLUg3REhna1RWM0pfemZ5cEI2TnFnSWpYT1VPZnFjb3BxRFp6a2tkUW5ZLTczMWpfYmxSSXBENjItRVlEODFic2ZjY09SbzM5LVNUQmJuVTM2clRyb0FlZnc?oc=5",
+        "headline": "[0827주요일정] 8월 금융통화위원회 개최 예정…기준금리 결정 예정 등",
+        "summary": "",
+        "source": "인포스탁데일리",
+        "published": "08/27 06:00",
+        "published_ts": 1787778000.0,
+        "tag": null,
+        "first_seen": 1787778925.2128303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BaU5hTklmTUhNTlZBOHVrVjItbFJiQjd0ZXl3N3Z4bUY4MlNaS0d2TWRDT0w3YWdYZktFVXc0Tm84Rm4zSE5sQy1jMXVCTTFMaXA3SEZ1c0lsTExPSmF3ZTBwLXpWb1hHOGc?oc=5",
         "headline": "청와대 “반도체 호황 따른 대규모 세수, 미래대응기금으로 적재적소 투자”…국채 급감 주장엔 선 그어",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787632521.0,
         "tag": null,
         "first_seen": 1787633123.969368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1VM0pwZU42TWhWamxORHlNQVBFNXNrMzNETlVHT2pTOGh0bjJEeDY4clZGM1dBTjBfcU1PZ1lkb2ZpZmpFbHdRSDRxQi1NeGlXWU4zY29YUWpVVVR6QlhSMDQybUxLQy03bmc?oc=5",
-        "headline": "채권시장 10명 중 8명 \"8월 금리 동결 예상\"···인상 전망 한 달 새 급감",
-        "summary": "",
-        "source": "서울파이낸스",
-        "published": "08/25 12:47",
-        "published_ts": 1787629625.0,
-        "tag": null,
-        "first_seen": 1787634923.7686431
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01QU1GZTdpcnUyeEpGU1FpTnh4VGNwclJOeDNCY1R5dkNQNDBkemhFR3l5clhrRl9pbEFqTHltUDVwb3lOd2Q5UmNISUIwNVJsTkJRZk5XZnc4dw?oc=5",
+        "headline": "\"시장과 싸우지 마라\"…채권시장이 美·日·韓 정부에 청구서 내밀었다 [쓸만한 이슈]",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/27 06:05",
+        "published_ts": 1787778313.0,
+        "tag": "Strategist",
+        "first_seen": 1787778925.2128303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ILVJqYjB1aXNWRnFOcjJONXdIZ29xLW05M3NHZ21vbkJJeUxwdzdWLV9Idm9SVk5la2tfNnBqNTkteElxRzFGcXhZdmdlNWl3YTczZg?oc=5",
         "headline": "다시 움직이는 세계 통화정책…금리 인하 시대 끝났나 [잭슨홀 2026 ①]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787734008.0,
         "tag": "JGB",
         "first_seen": 1787735501.968146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjNZY25rNklfTXFubVJjRGxBN0M4Ym1xUUhnbEhmS3N5bVFXQl9aM0hRM3cybDJkRURmcDBjV2ZiUlotaWFxQkJFMTNreW1XQ19oNnNKNzhPaWpHM3ZyVzhGcHBqSFZiYTFROGxfOGxZN1BCT01Zc1Y4czIzN1ZUeDFQcWpGNHQ5TkZnOU9fU3lXRHRkOXBTVGl2ZFlVcnYyX2dzT0lWd1VKOFdMTDBuRC1tcm02c0VpSm4zLUJjNFRnWlJoS3lPWWR5Zzl5WG1YWUxqNVgzcUZVZ1lmR3Br?oc=5",
-        "headline": "iShares Global High Yield Bond ETF (ASX:IHHY): Balancing Higher Income Potential With Credit Risk",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "08/26 17:37",
-        "published_ts": 1787733420.0,
-        "tag": "Global",
-        "first_seen": 1787733927.9297273
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 06:01:05",
+  "updated_at": "2026-08-27 06:15:51",
   "yields": [
     {
       "label": "3년",
