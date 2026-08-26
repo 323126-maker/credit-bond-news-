@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVE9NWEpXWl8zb3dTN2p2bkpqRzBDU0dfLTRzSkJRWlRpWEtBWmEwVm5KQ3ZnWGdDbVFoVWtMYnlPd2E1aldWZk9PX184b3Y5TG5Mc0c2NW5MMHFPTTFEMXB4ME1Jbk1fUGp6d1RaZk9oS0lkWmpOU2dNbTBCVnE0QUFBTE9DVEVZZWpXNjZFSzlYRXhMT01Iel8xNXEyMkp3ZzBHUlBHY2E5QmliYXpoUVpYR0xuXzE4T0lJUGV5Q0l2cHdB?oc=5",
+        "headline": "Japan leads global equity risk premium as U.S. stocks offer the lowest among major markets (EWJ:NYSEARCA)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/26 22:03",
+        "published_ts": 1787749397.0,
+        "tag": "JGB",
+        "first_seen": 1787750124.712719
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXJYUU5oNWloRjNpZ1hOQndLSkxmUUNaSmZTV0xUMjg3cklpdVNDVFdnbE5JLU1RSEhUSk93TTBiN3VCVml2b1cyQUJVRG5ZV3VKXzZNVlpHWUhkSjk2WlBsVWJ3VVJJdVhZN0dLQ3pZNnVQOE5KLWl6TzcteGp5aThoZkR2YlZjbG9ONXdtdTRhN09kd3JPMzFhcUxtMWtmLXc?oc=5",
         "headline": "PCE comes in hot days before Warsh's Jackson Hole test",
         "summary": "",
@@ -1920,6 +1930,16 @@
         "first_seen": 1787728524.338331
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQX25qWDBDdWw5S2J1dEVpOFYtaXlRYi1IWjk4UXE1ckw3S19GeTFHbUdKcjNObjZCangtSUVmbDFKVm1PQWdIdUdBTTZnV2hsNjNyNUxDV1pWY2w4ZEtRalJ0U1NhZ3JORHkwWTU2S0xKUUo3M2F3Z3MxX2FpVFRxNC13?oc=5",
+        "headline": "Brazil Congress approves spending curbs as debt concerns mount",
+        "summary": "",
+        "source": "AOL.ca",
+        "published": "08/26 12:47",
+        "published_ts": 1787716045.0,
+        "tag": "Strategist",
+        "first_seen": 1787750124.712719
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xWE0xRkc0bTF4bW43ZE8wWUtfNFFGd0xJZlBLOFp4R1NNN3NKMXdGZkhYQnA1U2tPSnNfTEhfYUYyYWptN1hnM1k2TG5fQmQ0bmU3OXh6LWl2Zw?oc=5",
         "headline": "“South Korea Is the World’s Craziest Stock Market”: Cars, Steel and Chemicals Lose Ground to China as Semiconductors Race Ahead Alone",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787709999.0,
         "tag": "JGB",
         "first_seen": 1787710524.1359015
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5fN0tzU1RXako2dU1DWXdtQ1BBSi1kcmc3Z0hIV0thZEtvNGQ1VVRTWktZOFVWZkNfMVRSTmZjSkhSMmRXcThzZXFxU1JGUVcwaHFCQUpMbXUwLTAyN0tWSGxMUExaeHJGRDVuUg?oc=5",
-        "headline": "AI 도움 받았다는 드러켄밀러 기고문",
-        "summary": "",
-        "source": "아틀라스뉴스",
-        "published": "08/26 10:26",
-        "published_ts": 1787707565.0,
-        "tag": "Strategist",
-        "first_seen": 1787707832.2330909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMGk5MUxsdkZlYWV0cWIzaGZOZUp1TTJudzdQeHpfNEFHWmFBVmwwcm9ObUNxSWR5Nzh4YWlhNDh0a3pxYmhRVVpzS19qWlZpTzFPR2pLbFRDd3k1bFIxd1FpTWg3TjhuYXYtb0xaTUFSMmRqcXBWYVUzZEx5cGZnQzVqWGNQajlHRTZaOTNhT1I2Sm1oczdyZTloUQ?oc=5",
-        "headline": "Developed markets sell-off shines light on EMD, says UBP",
-        "summary": "",
-        "source": "Citywire",
-        "published": "08/26 10:22",
-        "published_ts": 1787707334.0,
-        "tag": "Global",
-        "first_seen": 1787707832.2330909
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 22:01:05",
+  "updated_at": "2026-08-26 22:15:51",
   "yields": [
     {
       "label": "3년",
