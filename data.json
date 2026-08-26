@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05cVFfcFRIRnp6dUhQNlJUYzV4ZmlYcnJjcHNSZUFoc0cybzJoVDJFcEViSDZjNC10cUVxblRHZ0dYNUxLWjdBNVNXZElleDNndF9QejQ0eFhCUdIBVEFVX3lxTFBVVHpwM0hURTZGWEZzbW56UHpqckNOZUZFUlU4M250X01mS2RSUTVxeEFqLTc5SjZjMUlhNnF3RUJ2RWVQOFhLbzlQWW4wbGhlRnQ0Uw?oc=5",
+        "headline": "'백투백 인상'이냐 '숨 고르기'냐…한은 금리 선택 D-1",
+        "summary": "",
+        "source": "더팩트",
+        "published": "08/26 10:45",
+        "published_ts": 1787708737.0,
+        "tag": null,
+        "first_seen": 1787709314.0313694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYV3Z1dUxpWTFxMjhTUjRzWXNvb2JtV3ZNYk5EalJHWEwtVFljVFhXcjV4a21WSFF4V0xwSXdOS1VxQjRsSTZRWlM0NzhHV2JhSWVLcXFXSTZhbXI4ZFpGYTJtQVNtbWozTVhTZzZn?oc=5",
         "headline": "\"대출이자 또 오르나\"…내일 기준금리 '연속 인상' 전문가 전망 엇갈려",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787469461.0,
         "tag": null,
         "first_seen": 1787539129.715512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KYnZyVVEtTlRGZkZKMnctMjc5WEFRMUVnSFc1djI5U0x6S2ttT3Ryd0xBVldycXloTUVXVEliWlVaSVdLVlFIb0R2NHNNbzZjUHNxeWFXS0Z2TzB1ZWUxRdIBYEFVX3lxTE5KYnZyVVEtTlRGZkZKMnctMjc5WEFRMUVnSFc1djI5U0x6S2ttT3Ryd0xBVldycXloTUVXVEliWlVaSVdLVlFIb0R2NHNNbzZjUHNxeWFXS0Z2TzB1ZWUxRQ?oc=5",
-        "headline": "‘3% 금리’ 오나…'연속 인상' 가능성 급부상",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/23 13:45",
-        "published_ts": 1787460358.0,
-        "tag": null,
-        "first_seen": 1787523324.433791
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 10:46:01",
+  "updated_at": "2026-08-26 10:55:41",
   "yields": [
     {
       "label": "3년",
