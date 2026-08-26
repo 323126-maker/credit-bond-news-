@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBMV0s3VmY3NzdNOTdsdlBsZjd5TTlneGRFbHJmaHh6YmVORmswMjFFcUpkZENzMV9rQjl0ZTBCLW1pLVdwN2RQRkg4eDRjbVUzejBJ?oc=5",
+        "headline": "고금리에도 회사채 스프레드 축소…우량채 '캐리 수요' 유입 [시그널]",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/27 07:01",
+        "published_ts": 1787781660.0,
+        "tag": null,
+        "first_seen": 1787783430.3320963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE92VlFLRnQ4ZHBpQW1wN2treW5fRGpvYmhqZkJmcXlhY0dGSE5CVXBEdmJPenRXSjBsb3ZBMWdVcGhCS1pjeHZGbUJYMWFHbjh1R2xGclJXdEtIQlRETDFV0gFfQVVfeXFMT3ZWUUtGdDhkcGlBbXA3a2t5bl9Eam9iaGpmQmZxeWFjR0ZITkJVcER2Yk96dFdKMGxvdkExZ1VwaEJLWmN4dkZtQlgxYUduOHVHbEZyUld0S0hCVERMMVU?oc=5",
         "headline": "미국 빚 감당될까···국채금리 상승을 바라보는 시장의 의구심",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787691034.0,
         "tag": null,
         "first_seen": 1787737524.6382875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1oeVRBY2NqaTZYWS1KRDlJX3BxUi13UDc4MFNOZXhrX2dFMWZkeXdJS2RSQk9sRkZTbm1fYjJqUlM5TE9fanZ5NmFBRnVKQ2JfZ2ZCRTVlZ0Y0VWJzeVJMcGtzX2dGNEVIS3NSOF80Y2NfTEQ1YnRJ?oc=5",
-        "headline": "S&P, 실적 성장세에 사우스웨스트 항공 전망 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/26 05:30",
-        "published_ts": 1787689800.0,
-        "tag": null,
-        "first_seen": 1787690726.9152567
       }
     ],
     "perpetual": [
@@ -1186,22 +1186,22 @@
         "first_seen": 1787641240.6085687
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yenduc05zM1VvcFQ3MXdTaURHUkxTT3Q4T0g0UW1HcDljOHV1N0VWS1E5LXR3ZzdmWlk5OTUxUVRqSzRaMFdkMXplN0ZXalg3Ty1UT0pjQ3pzWUZwUk0zLXY0OTA?oc=5",
+        "headline": "채권시장 전문가 79%, 기준금리 동결 예상",
+        "summary": "",
+        "source": "서울경제TV",
+        "published": "08/25 14:43",
+        "published_ts": 1787636582.0,
+        "tag": null,
+        "first_seen": 1787783430.3320963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UeVFpVGJwRjBPNHMwclpZNXdvQlB2aGIxZ0h1bGMtdjBZR0txM1Q5Y2VCOWNkeTIyY0g0MTBMVGtiWUV2a2tSb1VrMU9Jemc?oc=5",
         "headline": "채권전문가 79% \"한은, 8월 금리 동결\"…인상론 한풀 꺾였다",
         "summary": "",
         "source": "v.daum.net",
         "published": "08/25 14:39",
         "published_ts": 1787636390.0,
-        "tag": null,
-        "first_seen": 1787636651.7431169
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZ2IzTjI2UEoxNXB6a3k2RmlyUVdUZGRabVh1Y3J6RGNxZ3RXQXR1a3l6bksyWTkzVkxjM3ZjSngxUkZPejV4SGRBZG8xM19GSHpNMlpkb2pBeUVPdnU1eDlUU3JucXI3QW53?oc=5",
-        "headline": "채권전문가 10명 중 8명 \"8월 금통위 기준금리 동결될 것\"",
-        "summary": "",
-        "source": "파이낸셜신문",
-        "published": "08/25 14:32",
-        "published_ts": 1787635939.0,
         "tag": null,
         "first_seen": 1787636651.7431169
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 07:15:50",
+  "updated_at": "2026-08-27 07:30:56",
   "yields": [
     {
       "label": "3년",
