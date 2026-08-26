@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM1V4dGQ3MTBRMUNuUlMwTnVDREhibnRuTW1Ka204RHlpaFRydWxoY1VyY3RkLWpZd3FrejROQWdvYllCcUJKR2QzRHRmVTlVV01sX1J4eF96c0o2N2JHUFJHZmRhS3p1OWlBNllKR0tYQVZHWjhQOUpQMEp3bkVuN0NGdzh4MWljNlFUbXFGNnAyMGM?oc=5",
+        "headline": "日 7월 서비스물가 3.6% 쑥… 日銀 추가 금리인상 탄력",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/26 10:10",
+        "published_ts": 1787706646.0,
+        "tag": "JGB",
+        "first_seen": 1787706924.7856822
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UlRjTlZBT1g2RlRjQlRrdWJMVzVTTTRjS3pNMUdaMU1Gck45dlpDM1RkVVh3Y2VRSzM0NGM5eU05SWdjNTN1cHJ0SFRKSjZJclh6di1SOG5PN0pYM0p3aG9naHZHOUM4cUNsMzhfQU1zZWc?oc=5",
+        "headline": "Japan FY 2027 debt-servicing costs likely up 17% at record 36 tril. yen",
+        "summary": "",
+        "source": "毎日新聞",
+        "published": "08/26 10:01",
+        "published_ts": 1787706083.0,
+        "tag": "JGB",
+        "first_seen": 1787706924.7856822
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yTWJ5UUxtRjBub0NxSEFxTlVBbl9NUWZ3MEhzei1Ka2NOeVh6QTRwTjMxZ2hQd21sX2luUElUZGViYWVTNDEyTE5qMW43dnZRNGc?oc=5",
         "headline": "‘채권자경단과 전쟁’ 베센트 숨은 전략 이것이었나",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787666214.0,
         "tag": "JGB",
         "first_seen": 1787680838.6211147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNXlrTU40RVhYWjFENkZBUXN3LVFyT29wdkdHbWdRZWY4VXp5OWtWZWo1UmUxZ3BMUnBNeDd3ajVoOHpZLVU0OGVyb2tlOTZiTVdmMG9PMThpc1ZFV01BRmNFbkhIUDJYVEY5Q0h6eW5iX1JSLXBUZ19OcGY5ZkkwYnpXQmdtZl9UOW1jSnFZcGVPT3JMeGpuUFNLdFlvakM3bWN5NDJWeDI1T0JyNy1RcG5DVmt3NEU4OWJBQktCZDBUd1B6UXc?oc=5",
-        "headline": "Global yields stabilize following U.S. sanctions threat and potential cash plan",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/25 22:50",
-        "published_ts": 1787665830.0,
-        "tag": "Global",
-        "first_seen": 1787666458.509998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPQTFzU0c3dHdvQnFkTy1BLUtMcUxfcW0xaWVhdUZwRXFHdmZuaEJYOFJDeEEzelIwYU52NFZCc2JnRUZ4X1diYmROR3JVcjRwRjFyb2theUJ2eWFTUmVIUmtSdkNhWWdhY1M2R0hrdXgyWURXN21jdGRyLU1pdTAzRkxZaHhPYUN2S0dTSFk2bmJ6T0FPRE5iSmNaYVdGbTVuV0ZOSjRUZVdmLXl6OVNCdVRsQ2hHcVJTQkFWWjRScllKSTRMTzBCZVQ4MHBYVm1TX25GcQ?oc=5",
-        "headline": "Robust credit market liquidity powers increasingly competitive transactions market",
-        "summary": "",
-        "source": "PR Newswire",
-        "published": "08/25 22:40",
-        "published_ts": 1787665200.0,
-        "tag": "Global",
-        "first_seen": 1787665527.3278208
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 10:01:00",
+  "updated_at": "2026-08-26 10:15:50",
   "yields": [
     {
       "label": "3년",
