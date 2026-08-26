@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ZbWJUbGo0SWtWVUtPektPa3lIQXB2M1daUmxqT2QwSXRpRnR1NDRST0tWR3pLeGZtVE9MSVFpem96d3ZiWXRfWEZoVG5hc0FfU1NETmhsUmI5ZjVrU1ZPVA?oc=5",
+        "headline": "미국 자산 이탈 아닌 '차별화'…외국인, 국채 팔고 주식·회사채 샀다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/26 09:05",
+        "published_ts": 1787702700.0,
+        "tag": null,
+        "first_seen": 1787703328.2603946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5lMlFvMl8xWXhwMHFwVkR1bE13ZXJyd2VlVkM3U0RYOURLQjBrcTU0cGhIdkpIRHJJMjBEYUE2eFF6Ql9pT3hURnF0Ty0yTFZVTmppVE53U0pmRU5JWkppdjI2QTQ1TzQ?oc=5",
         "headline": "한화솔루션 유증에 7월 주식발행 1.5조...전월比 373% 급증",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787639100.0,
         "tag": null,
         "first_seen": 1787639435.4167242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5NNUJSUjJndlZpS200TXo0YjNZVWk5cXRNaXdzMG5Ld3B2aU5hSk9uUWVsTkg5bXhocExsUHNqc3Bsd3lWZkJxQnpLN3dXdV9UVmkxa28tYXNlcUxoMXc0RkNn?oc=5",
-        "headline": "채권시장 전문가 79% \"이달 금통위 기준금리 동결 전망\"",
-        "summary": "",
-        "source": "매일신문",
-        "published": "08/25 15:11",
-        "published_ts": 1787638269.0,
-        "tag": null,
-        "first_seen": 1787691637.5214744
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 09:02:34",
+  "updated_at": "2026-08-26 09:15:57",
   "yields": [
     {
       "label": "3년",
