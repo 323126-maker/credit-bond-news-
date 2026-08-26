@@ -52,6 +52,16 @@
         "first_seen": 1787712324.46962
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9WbEVBanF2SGttWTFSWGxfRWVKRV81a2hQUHVkUHNYZ0RZdkRqWkk4NW84a2ZiZmc2UGpPVmJtMnh5NjBjVnQwZ2tXRGZzTklWd3pKUzc5UjJIODVfRXVoaldZYV9FdUFLMjhySWNR?oc=5",
+        "headline": "금통위 D-1…금리 전망 엇갈려 채권시장 참가자들은 동결 예상",
+        "summary": "",
+        "source": "중소기업신문",
+        "published": "08/26 11:03",
+        "published_ts": 1787709827.0,
+        "tag": null,
+        "first_seen": 1787724039.3228889
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBXQU1CVzhYLVMycG1VbTFTVzBhQnQ5SkIyNlM1bEh5RVBBaVNid1VEYTFTU3hGS1hGY1dHa0E1Z0dnVFdMSUlXNkdMdWdaTXpoSmt1NF9CempfNS1WZmYyZjlycGhRZndrb2ZOUVRRZ9IBc0FVX3lxTE9FYVVUMmVVcUg2UWdxTWQ0NV9VU3VwbU5VQU1hdmh4WDhyNTNaQkF2V2VOUmxPd0psRkFydHFENUp0MUJZaWlDc1BRX3BVNldwcnBmNHpucjFLVFk3QmJzZmVUcnlGdlo5MHZKeFJ6M0JRUnM?oc=5",
         "headline": "[대구 24시] 대구시, 태왕이앤씨 법정관리 파장 ‘촉각’…대응체계 가동",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787646600.0,
         "tag": null,
         "first_seen": 1787647526.2180943
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBoZEUzTng1OHRHNEhKZXJKd3A2UnV2VDluTDZQbkJRUXh3X2Fka3lrZFhGdlRxZi1yQmVxUEplUXZyaVZFeUhwcHBIOV9obUJtRzNoWDhrREZYeFHSAVtBVV95cUxQaGRFM054NTh0RzRISmVySndwNlJ1dlQ5bkw2UG5CUVF4d19hZGt5a2RYRnZUcWYtckJlcVBKZVF2cmlWRXlIcHBwSDlfaG1CbUczaFg4a0RGWHhR?oc=5",
-        "headline": "스트래티지 1.8% 상승, 미 장전 크립토주 강세",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "08/25 17:21",
-        "published_ts": 1787646104.0,
-        "tag": null,
-        "first_seen": 1787712324.46962
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 14:55:16",
+  "updated_at": "2026-08-26 15:01:05",
   "yields": [
     {
       "label": "3년",
@@ -2467,6 +2467,33 @@
         4.111,
         4.068,
         4.039
+      ]
+    },
+    {
+      "label": "10년",
+      "value": 4.32,
+      "chg_bp": -1.5,
+      "series": [
+        4.289,
+        4.257,
+        4.311,
+        4.261,
+        4.264,
+        4.26,
+        4.15,
+        4.195,
+        4.208,
+        4.239,
+        4.301,
+        4.294,
+        4.298,
+        4.313,
+        4.382,
+        4.337,
+        4.323,
+        4.376,
+        4.335,
+        4.32
       ]
     },
     {
