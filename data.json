@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RU3NTajFadzdVRjB6ZnU3ZGF0aXRyRGZKWk9nR0xTS2ZwdjNSYm1acmpPMTJCUnFPNnNFOVRrTDlnazRxek44M2pJLW9POWQtOFEyelUzR1gyZjdFbjNmX0FsR0pjSWVnU3dicUdn?oc=5",
+        "headline": "靑 “국가 채무 비율 상당 부분 줄어들 것”",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "08/26 17:05",
+        "published_ts": 1787731513.0,
+        "tag": null,
+        "first_seen": 1787732126.4306862
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50akN2SFRsNnYwRlYwaTkwZUpYSEZuaU1LMTRNM2lqME5QQ3BpbWlWWS1ybjB6ZmVvbi1lTS1WLUVnSE1tSXFoMzAzSjhsOVFTUDNGLWdfWFVxLTFINkg1dnFaeVhmM1JkTnptMzRxcEY?oc=5",
         "headline": "靑 \"미래대응기금, 초과세수 쌓아 미래 투자…책임있는 재정 운용\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787552635.0,
         "tag": null,
         "first_seen": 1787553925.4548879
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrLUozYUdlTmp1UDVPT3daSk5PalBUcmtyRnR0N2tVOTJLZE9FMlY2S25ORjMycDVhMGY3SUxZc2NsYjZDUi1QRFNCYlJybUFvb01jeU9ad18yWnJWTTYwLVlUSlRSeFVUYXhtR3UtRQ?oc=5",
-        "headline": "[시포TV] 임이자, \"미래대응기금 취지 동의하지만 '짝퉁 예비비'\" 비판",
-        "summary": "",
-        "source": "시사포커스",
-        "published": "08/24 12:10",
-        "published_ts": 1787541023.0,
-        "tag": null,
-        "first_seen": 1787542684.7980745
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 17:01:06",
+  "updated_at": "2026-08-26 17:15:49",
   "yields": [
     {
       "label": "3년",
@@ -2521,6 +2521,33 @@
         4.621,
         4.576,
         4.542
+      ]
+    },
+    {
+      "label": "30년",
+      "value": 4.595,
+      "chg_bp": -3.7,
+      "series": [
+        4.515,
+        4.537,
+        4.507,
+        4.537,
+        4.557,
+        4.511,
+        4.516,
+        4.522,
+        4.585,
+        4.666,
+        4.685,
+        4.68,
+        4.669,
+        4.751,
+        4.721,
+        4.675,
+        4.703,
+        4.677,
+        4.632,
+        4.595
       ]
     }
   ]
