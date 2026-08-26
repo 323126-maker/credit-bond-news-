@@ -866,6 +866,16 @@
         "first_seen": 1787735725.9711063
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BbnNVNUhjZkxydVdVSjNYVFJHT0NpN1F5YU5qYnBnWDRtZXdNWjl0V1pDYjY1OW1jZnRJTlpUSG02ekprUFo4VjRmSkIzSWlaSE9RS2JRT1l5aENLOFhHMdIBYEFVX3lxTE9BbnNVNUhjZkxydVdVSjNYVFJHT0NpN1F5YU5qYnBnWDRtZXdNWjl0V1pDYjY1OW1jZnRJTlpUSG02ekprUFo4VjRmSkIzSWlaSE9RS2JRT1l5aENLOFhHMQ?oc=5",
+        "headline": "靑 \"미래기금 쌈짓돈 아냐…3~4년 시계로 효과 있는 사업에 쓸 것\"(종합)",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "08/26 18:00",
+        "published_ts": 1787734834.0,
+        "tag": null,
+        "first_seen": 1787742040.223553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CRE1tajBZdm11b1J6SXBnUjZVNktpT2NlWXhGeDNXMnBnbWFKWmRiaXlzVXU4dG1RMGJEOXJpeXl5S1NIelFUZzloUWF2Tjl2b3Z3OUdlY1BUdW5fd2dVMm5WMDgwaThz?oc=5",
         "headline": "금통위 하루 앞두고 국고채 금리 대체로 하락…3년물 3.816% 마감",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787629200.0,
         "tag": null,
         "first_seen": 1787630439.5687802
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15dHA3NnZvaW0wQ1ZnRXFfMXZyellFMG9jSUNmOGxVSzBRVFJPeDh1Uzhzb1d4OVRBQThXVURITkxCNmlqZGVBS2w1NTFNZkNyYk1V?oc=5",
-        "headline": "채권시장 종사자 5명 중 4명, \"한은 금통위 8월 기준금리 동결할 것\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/25 11:30",
-        "published_ts": 1787625000.0,
-        "tag": null,
-        "first_seen": 1787625927.1093872
       }
     ],
     "politics": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1787735725.9711063
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGZmM3RmxCMk1GR2pMRW1OSTFyb1FZVjVLYmVES3hfNDFwTHhvVFJJeWtlYzJIQ1NxclUyc29kU3FISDdEaGlYMlJET2xjWkxqTXpmR2dqajMyc0F0S0V0V2taUDlwcUdKNERvdFlTbGltQVIx?oc=5",
+        "headline": "[딜로이트 글로벌 경제 리뷰] 미국의 외환ㆍ채권시장 개입과 불안한 시중 금리",
+        "summary": "",
+        "source": "파이낸셜포스트",
+        "published": "08/26 17:49",
+        "published_ts": 1787734148.0,
+        "tag": "JGB",
+        "first_seen": 1787742040.223553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LM1hpNnZXWUJrQlYxT2ZCRTlCU2huVjk1Z2t3aTZXVXkzanNwTGFiR0xqbFZ1dUJuZ3pfSWhaR0xxVkRydmlKQTBDUVB3WGU0TTlPRFNSSmpEQQ?oc=5",
         "headline": "우에다 BOJ 총재, 잭슨홀 회의 불참 \"건강 문제 아냐\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787702833.0,
         "tag": "Strategist",
         "first_seen": 1787707832.2330909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIRFZXQ05XUnF6eFhWb1FkcEY1SmRxUUJod0J2aThHcW9SNHBFMkpPb041TDdBSnVRNUlCbTJGOUZtRkVnN3pESFBaWWtINDhTZlduT2VJQm1HRVdNeVdMZ2lLMjBEcUFuamNIUEx5a1ljZEZkaEZaZg?oc=5",
-        "headline": "Hedge fund legend slams Treasury's bond buybacks",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/26 08:56",
-        "published_ts": 1787702208.0,
-        "tag": "Strategist",
-        "first_seen": 1787734840.8550344
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 19:48:51",
+  "updated_at": "2026-08-26 20:01:08",
   "yields": [
     {
       "label": "3년",
