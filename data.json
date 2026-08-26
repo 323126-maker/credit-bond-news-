@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LM1hpNnZXWUJrQlYxT2ZCRTlCU2huVjk1Z2t3aTZXVXkzanNwTGFiR0xqbFZ1dUJuZ3pfSWhaR0xxVkRydmlKQTBDUVB3WGU0TTlPRFNSSmpEQQ?oc=5",
+        "headline": "우에다 BOJ 총재, 잭슨홀 회의 불참 \"건강 문제 아냐\"",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/26 17:46",
+        "published_ts": 1787734008.0,
+        "tag": "JGB",
+        "first_seen": 1787735501.968146
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbjNZY25rNklfTXFubVJjRGxBN0M4Ym1xUUhnbEhmS3N5bVFXQl9aM0hRM3cybDJkRURmcDBjV2ZiUlotaWFxQkJFMTNreW1XQ19oNnNKNzhPaWpHM3ZyVzhGcHBqSFZiYTFROGxfOGxZN1BCT01Zc1Y4czIzN1ZUeDFQcWpGNHQ5TkZnOU9fU3lXRHRkOXBTVGl2ZFlVcnYyX2dzT0lWd1VKOFdMTDBuRC1tcm02c0VpSm4zLUJjNFRnWlJoS3lPWWR5Zzl5WG1YWUxqNVgzcUZVZ1lmR3Br?oc=5",
         "headline": "iShares Global High Yield Bond ETF (ASX:IHHY): Balancing Higher Income Potential With Credit Risk",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787696043.0,
         "tag": "Strategist",
         "first_seen": 1787710524.1359015
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9RZC1sMHJmcjIyd2M0REdoQWdGT2NMNGMwc1RnTzE5Sm40MW8taHJjbUZFTG9id19BOEhCSzNIOGZmcE82dXR3c2RHcGU0d3dkOWc3T21PTkdjSFFfY3B0YWNhdTlmWTd5MzdZZm9ySjZwSkdaUTB2cWZXaw?oc=5",
-        "headline": "Billionaire Stanley Druckenmiller’s WSJ Op-Ed Criticizing Bessent Was Written With AI",
-        "summary": "",
-        "source": "News of the United States - NOTUS",
-        "published": "08/26 07:06",
-        "published_ts": 1787695570.0,
-        "tag": "Strategist",
-        "first_seen": 1787711434.50516
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 18:01:05",
+  "updated_at": "2026-08-26 18:12:08",
   "yields": [
     {
       "label": "3년",
