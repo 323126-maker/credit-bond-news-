@@ -816,6 +816,16 @@
         "first_seen": 1787714124.6832316
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5tMWxZNDR1c3pRd3h5ckFfTHZodDlaRU5SemM5NU4tS1lkRnhjR2ZNdGhmSkZUSmZxNkRadjRNR3FEeU5mLWQ2bjZxMFJid2VwR3p3MkxlRXAzOE0zN1VRMWdxS2ZMT19fdlVSXzM0Y3cxdWQ3RDl0VNIBeEFVX3lxTE5tMWxZNDR1c3pRd3h5ckFfTHZodDlaRU5SemM5NU4tS1lkRnhjR2ZNdGhmSkZUSmZxNkRadjRNR3FEeU5mLWQ2bjZxMFJid2VwR3p3MkxlRXAzOE0zN1VRMWdxS2ZMT19fdlVSXzM0Y3cxdWQ3RDl0VA?oc=5",
+        "headline": "기획처 \"미래기금, 국회 사전 심의·의결 거쳐…운용계획 변경시 즉시 보고\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "08/26 11:53",
+        "published_ts": 1787712828.0,
+        "tag": null,
+        "first_seen": 1787716807.0223951
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1IaTd6cXdwZHkyNld4ajM2NVVKajhLRHphMmFKUk4wOEdtSmoxb1Z4ZEVQeXBvSkdoVFBMc2RmRkNXWmc1WFhrTWpUVjNkSlRpb2x0aVE5X1RxLVAtZGJBNVdPMy1oNEVpNVh4Nw?oc=5",
         "headline": "금통위 D-1…금리 전망 엇갈려 채권시장 참가자들은 동결 예상",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787515200.0,
         "tag": null,
         "first_seen": 1787603432.5132346
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nSzVZaVhsWHpYVlozNVpWN3NVcE50TDgxaFdvLUlTRHJnbzV1dURtRmFySGFEVFNwdUJNMDVzRmQ0a2RmdENUaXhfdEdEc240YnRHQi03NG5Rcjl6Z3ZESmtpN3lwLVQxek1JSkNR?oc=5",
-        "headline": "‘인상 vs 동결’ 금리 전망 팽팽… 27일 금통위 주목할 포인트 셋",
-        "summary": "",
-        "source": "서울Pn",
-        "published": "08/23 23:36",
-        "published_ts": 1787495812.0,
-        "tag": null,
-        "first_seen": 1787623238.4633977
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-26 12:45:59",
+  "updated_at": "2026-08-26 13:00:30",
   "yields": [
     {
       "label": "3년",
