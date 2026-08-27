@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoUW5oQ240UTlRNjdwS0tUNDZXeTVkWmJicnU4cHFoSHBCYl9ZRF9FazF4VUZBN05uclI1MnFvS3QzRlFIWC1IMV93UEJ5cW1fN1R1aWYzc0tGdk53NTBSSi05MmpncTBRSnhLcA?oc=5",
+        "headline": "Fed chairman Warsh under pressure to clarify message at Jackson Hole",
+        "summary": "",
+        "source": "Axios",
+        "published": "08/28 00:55",
+        "published_ts": 1787846134.0,
+        "tag": "Fed",
+        "first_seen": 1787846441.6256897
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3JCa2hPSEp4M0VWcXNpV3kzWWc3NFQwbngta2dPeENPSlBmbW1DLXhuOVJuNFN5TjBkQzc2RTM3ZWs1VlA1cDAwU05mLXRLN3dDdDFCVkVXRjEyNHl5TVdPYTNCWXo1OElfRklsc3dDSnNFb3dySWRoUXM2bnFWZWV3STJBWkVWREpPdlVCQUc?oc=5",
+        "headline": "Indian Rupee: DBS Says Yields Attractive After Sell-Off",
+        "summary": "",
+        "source": "CryptoRank",
+        "published": "08/28 00:54",
+        "published_ts": 1787846047.0,
+        "tag": "Global",
+        "first_seen": 1787846441.6256897
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBYTdHam1Ha3V5VWxybjFCcEJCR05Zbmo4dUVwZHU1YnpUaE5EYUdtZVZoRVdFenpscVZ5TGNXeVc4VUlhanptOU5aaHl0R0xTeXNydzR4UmxMM0gyMHBFVG15bWpMSEJQWFhhRVVIX3pxMkZDMUp3TWJlM1ZkUQ?oc=5",
         "headline": "Jackson Hole Could End In 3 Ways (NYSEARCA:SPY)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787809884.0,
         "tag": "JGB",
         "first_seen": 1787810438.6581535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcW9jUkRsWjc0TVVlQkdDUlRsZWNXd3F3SElzYVUwdlZGM3Vha3NwREFqYmRKY2F1UEJWQnZLV29Calp5UmRLT1RmbndvbDlGNzNaRnlFdGFqS2dGLWU0cS1EdHlpVmkxTmh0a2duZ1BLa2RmRmRTQmNTd1pZMHJDSzdaVnBVQ3FKaGNlZXRGZk1pQQ?oc=5",
-        "headline": "Keeping on bullish – Yardeni’s thoughts on why AI hasn’t peaked",
-        "summary": "",
-        "source": "roger montgomery",
-        "published": "08/27 14:49",
-        "published_ts": 1787809753.0,
-        "tag": "Strategist",
-        "first_seen": 1787836526.0172262
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMNHd6bVA3ZDVxMllidzd0UGVaaWVVRG9qbkdTODFSdkIxaFNIQTJ3cnlBbk96SjEyVms5b3Jla3dwSlVYcG9TcXlHMHZxU0VGNE45by05Z01GVkZXSm1VcTBRcXlXZmZtamFIRVdR?oc=5",
-        "headline": "日 신용금고, 금리 상승에 '채권 손실' 직격탄…17곳 적자",
-        "summary": "",
-        "source": "알파경제",
-        "published": "08/27 14:34",
-        "published_ts": 1787808849.0,
-        "tag": "JGB",
-        "first_seen": 1787813123.7651837
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 00:46:00",
+  "updated_at": "2026-08-28 01:01:14",
   "yields": [
     {
       "label": "3년",
