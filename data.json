@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81aUh1aFRfZU9CUlRMZEpUTzNxZFkxTE5lRVZpR2xVb2hvVkIwaC1ld2tlZU9OZlo2UVRNbjlBYjQ1ekRubXFoeTJ4VXRrcHlQenlzc0dOdmM?oc=5",
+        "headline": "Swan Bitcoin CEO: AI Bond Boom Could Indirectly Bolster Bitcoin via Treasury Strain",
+        "summary": "",
+        "source": "Cryptonews.net",
+        "published": "08/27 22:02",
+        "published_ts": 1787835769.0,
+        "tag": "Fed",
+        "first_seen": 1787839237.2954721
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5ZYWRwRFZYOTZMOGVfeVlEM2hOVE5qNXJmVXhxemlHUWlBUjExQk9LRFVuLU9seXgxbGQ2NXp5TEtwZGRyYWNFSDZWNGNRR1NTQWZuVXk1MFgwVUJKcDBINGFrMHJXVzV2Unc?oc=5",
         "headline": "Macro Memo: Regime Change",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Devdiscourse",
         "published": "08/27 12:31",
         "published_ts": 1787801513.0,
-        "tag": "JGB",
-        "first_seen": 1787802328.5961165
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5oM2pPek00U2xKbm02dXZOV0Q2ZXJrUkFGcWZvZkVQSWhWYnVSSEZRdDFRcUthVWpKa1o1VVllVmstbTJDblFYQXd5dmVaVlVuTTZF?oc=5",
-        "headline": "BOJ 부총재 \"물가 상방 위험 더 경계…매 회의서 금리인상 논의\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/27 12:30",
-        "published_ts": 1787801400.0,
         "tag": "JGB",
         "first_seen": 1787802328.5961165
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 22:46:01",
+  "updated_at": "2026-08-27 23:01:03",
   "yields": [
     {
       "label": "3년",
