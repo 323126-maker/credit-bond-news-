@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFJFWTFpNW9sV0dGNUtoNGMzTkFXc0FiNVByMmZqTWFDWm1GUWdtMXVHdEhfOGFaR0RVd19UN2tLQjc3cnczZ05KVlcwQU1jQzZDdExkSnUxc29yZXR4NEtxNWVBRXhwaUc3VkhaN185U2k0a2tjTU05N0l4alZ6d1FmOFB1RF9odldQY3NSdHU4S2N3STJRM0Y3MEVSSUNMaUNiUG1pZloxNFU?oc=5",
+        "headline": "Watch Fed Chair Warsh Has Challenges Ahead in Jackson Hole",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "08/27 23:32",
+        "published_ts": 1787841149.0,
+        "tag": "Fed",
+        "first_seen": 1787841926.0445418
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSDZnVmtnUnN5bGFTQ1BDQVJIWVY0UWtXeGxBdmNDenI1UEhUamhWVkwxVnAwZzgyRG1ldHZVQ0RKTVdtMndZaWVCVlg0cE93dVZCSXh0YWtVQlk4LWhfeGxmX0NleVNVVHhnUW0xT0pwOXFwLU4yRWphSUQwVUJhZHpUUm9rR1hLN0JHQVFVVWFvMjQ4dTlMcmFrWFJOUmlNWGJWSVR4VlBVVWhMT3YwaXFOczZ1cDF2SUhjdHB6WnVHTkE?oc=5",
+        "headline": "Bitcoin (BTC) holds near $80,000 as traders brace for Warsh’s Jackson Hole Fed speech",
+        "summary": "",
+        "source": "CoinDesk",
+        "published": "08/27 23:01",
+        "published_ts": 1787839265.0,
+        "tag": "Fed",
+        "first_seen": 1787841926.0445418
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81aUh1aFRfZU9CUlRMZEpUTzNxZFkxTE5lRVZpR2xVb2hvVkIwaC1ld2tlZU9OZlo2UVRNbjlBYjQ1ekRubXFoeTJ4VXRrcHlQenlzc0dOdmM?oc=5",
         "headline": "Swan Bitcoin CEO: AI Bond Boom Could Indirectly Bolster Bitcoin via Treasury Strain",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787806440.0,
         "tag": "Global",
         "first_seen": 1787827525.2083712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oVVlCdHNLNElJVzZNNk0xRDBWalREUks5cm9OWUR4ZS1qOWRvUXZENUFMNFJjQldNamgwcjFTR1JhR09xTnNKV3VKdFRFakpN?oc=5",
-        "headline": "BOJ 부총재 \"물가 상방 위험 더 주의해야\"…9월 금리 인상 가능성 열어둬",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "08/27 13:15",
-        "published_ts": 1787804150.0,
-        "tag": "JGB",
-        "first_seen": 1787805030.8504844
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQR0hseFFVNkx0TUQyOUYyUUQ5Z3p1YlNEbl85cjNDTTVCMTkwbzc1OGJPVENKeVFtclNoZ3lLbnljWUFGelhaeGJOTU5MSS1nVkxGeW04R25qMHEzVTJOYVp6RGU1ZVF2SnpQbHJRTXRCTG5PVDVGSENCYjh2a2hjcE5MQW84TWdyZnBpYkpHQnIxWi1NRW8wcWRvMG1HSWt5cWphMk9WYlVXM2RveGxvVnZmLU5OUkNkV2QycjRRam1uZ1VqbXdZ?oc=5",
-        "headline": "Bond yield surge drives foreign investors to sell Japanese stocks",
-        "summary": "",
-        "source": "Free Malaysia Today",
-        "published": "08/27 13:15",
-        "published_ts": 1787804142.0,
-        "tag": "JGB",
-        "first_seen": 1787841034.5736582
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 23:31:02",
+  "updated_at": "2026-08-27 23:45:56",
   "yields": [
     {
       "label": "3년",
