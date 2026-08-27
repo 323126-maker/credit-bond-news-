@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPck93cXo3QkxvREpEaWFhSHlGWUMwajhiT3pnMWxiOUNjbE9RTnd5ZWYxaDZjZ21LVG0tc1BWTWg3WWFvejVWOERoUE1LNW5KaUF6UXAyd2Z2cm81bXMwYlhuV0NVMUpnbXRYMGZIemdJUDNGRnpBaFIzUHBoSnlpNEVqblRsZnEtd2VMZk1uRzV3TmxhS0FoYmxwWTB0NjA4RmZqN1VadVRWNzdQRS1NUzhwWjZmenFDMVJiSTZmOWY1UVQzaUFVaF94dlg4dWxIN19DUmNDeGNpZm12Q0dpSnZTNzlVUXBEQmZMc2p0eUM0S0tYLUhyNDNPUU50Vm9nUG8ydXBINFdiendIUHfSAY4CQVVfeXFMT3JPd3F6N0JMb0RKRGlhYUh5RllDMGo4Yk96ZzFsYjlDY2xPUU53eWVmMWg2Y2dtS1RtLXNQVk1oN1lhb3o1VjhEaFBNSzVuSmlBelFwMndmdnJvNW1zMGJYbldDVTFKZ210WDBmSHpnSVAzRkZ6QWhSM1BwaEp5aTRFam5UbGZxLXdlTGZNbkc1d05sYUtBaGJscFkwdDYwOEZmajdVWnVUVjc3UEUtTVM4cFo2ZnpxQzFSYkk2ZjlmNVFUM2lBVWhfeHZYOHVsSDdfQ1JjQ3hjaWZtdkNHaUp2Uzc5VVFwREJmTHNqdHlDNEtLWC1IcjQzT1FOdFZvZ1BvMnVwSDRXYnp3SFB3?oc=5",
+        "headline": "US Stock Market: Jackson Hole Symposium in focus as investors seek clarity on Fed policy",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "08/27 16:35",
+        "published_ts": 1787816100.0,
+        "tag": "Fed",
+        "first_seen": 1787816722.8812442
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1adE5MS081cmpOd3RBbWtKYkZjb0UxUDNOMm5RaURaemtVTE92U3NxWXhyOWswZTY3THRPYUZhc3BKRGdLek9jT29NOVBwSFZFQ01hS0dRTy1RY2luSEFBUzRkMUJ1aW1WZmpneFZXa2EtUlJIWmc?oc=5",
         "headline": "Long-Term Yields Rise to 2.890% as BOJ Deputy Governor's Remarks Fuel Expectations of Early Rate Hike",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787770623.0,
         "tag": "JGB",
         "first_seen": 1787780723.1946397
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOQ2pVb2xPS2pZNkx0OUZXY0traktabnhQRmN5clNOdGJ6SFFYWFdpTzljOVZ2RU9SSm1PeVlhQmtJN3FULWJFcEszalpQR1ZrNndqUVB1LUpkTFB0M1AzcWV6UkRrYkkxeE5qVGFCVnJVVGZPdVMyMTlYUXpDRnc4bW1TNWdQeGNyNmNnaUVCYmxZS2hsZWw3cHRzbnNiT2VFbGxndzNZTjdKMk0zNm5YVFNIZkJydUpfQXN5QWw0NGFDUjJlal9oN25ZMXF0bUQ5TEFYMUxSQQ?oc=5",
-        "headline": "Mortgage rate predictions through 2030: Economic factors at plays",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "08/27 03:24",
-        "published_ts": 1787768686.0,
-        "tag": "Global",
-        "first_seen": 1787784328.3076727
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 16:31:05",
+  "updated_at": "2026-08-27 16:45:46",
   "yields": [
     {
       "label": "3년",
