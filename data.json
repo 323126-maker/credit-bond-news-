@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYd0pGdldiN1NsUm5IbGNOa05kWF9Pd0ZoLVFrRlpqRVRYUEtpakRERnRNaXN6c21VSEIxYXpxaEYtbGpZOEluelg2MHk2RUhUS1BuQlJueEpfX1h3MHZWTnYzRzU1Y3M?oc=5",
+        "headline": "한은, 기준금리 3%로 인상…“호미로 막는다” 물가·집값 선제 대응",
+        "summary": "",
+        "source": "지이코노미",
+        "published": "08/28 06:14",
+        "published_ts": 1787865287.0,
+        "tag": null,
+        "first_seen": 1787867125.0006816
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1GLVh1NGkzQVc3QlNjaXN5S2VOTGFrdDg1Vm5UTHdjTEZlTm9TNVhlNC0zWkxrUG1fZk1XRjNwekpJY3Z3Wkx5VDFrNXhDdVFtdDJhclBhSXVxQ2Nmc2M0NVpsalNxd2M?oc=5",
         "headline": "채권시장 79%가 동결 봤는데…한은, 3년 7개월 만에 연속 인상 (종합)",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787731513.0,
         "tag": null,
         "first_seen": 1787732126.4306862
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50akN2SFRsNnYwRlYwaTkwZUpYSEZuaU1LMTRNM2lqME5QQ3BpbWlWWS1ybjB6ZmVvbi1lTS1WLUVnSE1tSXFoMzAzSjhsOVFTUDNGLWdfWFVxLTFINkg1dnFaeVhmM1JkTnptMzRxcEY?oc=5",
-        "headline": "靑 \"미래대응기금, 초과세수 쌓아 미래 투자…책임있는 재정 운용\"",
-        "summary": "",
-        "source": "신아일보",
-        "published": "08/26 16:52",
-        "published_ts": 1787730765.0,
-        "tag": null,
-        "first_seen": 1787731240.580155
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE93YThSZlpaZVBvSEF4RFNoZnFZSmhYMXJRMjlPUlhabFQ3MVVGWXcyekNITWhJMHlCODlpbHJGM0NQa0M2LTJSd1psOUhrbmh5bmlPNzlRS3Z5emhNM2JyYWlUZE5ERjIyMkZzQ0VpU3VNbXBhZlN3eGRXMA?oc=5",
+        "headline": "Federal Reserve chief faces pivotal moment in Jackson Hole",
+        "summary": "",
+        "source": "The Hill",
+        "published": "08/28 06:34",
+        "published_ts": 1787866440.0,
+        "tag": "Fed",
+        "first_seen": 1787867125.0006816
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjY4aVQyeGFSMmlrQ1Z3eC1lMWJOcnVZczgzOUNCcmpwZGpCTjhkakxmTFNNaTE5YnI3MmtZaHA5bkp3SW5nWktaYkh6T25jVHZhYXNaY1FnaXEwUTA3eDQ2Ukx3VmpoMWpKcTdyUDlOeWNRZnpLSE1TdFp3RXNLOS1lM2lzeXBSampjd1JzNlZVeUN3TXF6WHFmZlVIZw?oc=5",
         "headline": "Watch Big Take: All Ears on Fed Chair Kevin Warsh",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "08/27 19:00",
         "published_ts": 1787824800.0,
         "tag": "Fed",
-        "first_seen": 1787825724.4807267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QaVhHRHJZTm9ZeUprZDRCVzNKaTJPaVA2UnFybVdIRXJPRWpqUEVIZXF6Q2hqTDFlY0IzQ0hiM3I5OEVqSnRSYlc1MGNUcFdybjJ0UkJB?oc=5",
-        "headline": "일본은행, 사상 최고 속도 ‘연쇄 금리 인상’ 예고",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "08/27 19:00",
-        "published_ts": 1787824800.0,
-        "tag": "JGB",
         "first_seen": 1787825724.4807267
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 06:30:57",
+  "updated_at": "2026-08-28 06:45:51",
   "yields": [
     {
       "label": "3년",
