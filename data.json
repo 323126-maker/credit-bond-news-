@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ZX3huVnR0Z25BejV5NnE2eDY4dHUtX0NsYXdrVFVBRG54Z3VRdlM4akhuM2ZoN0MzRnVJY3BfcGlvbTJUeXF1aEpLbFVkOGhDZDJMWUV2WFp1aDZVV3JXYUtpOA?oc=5",
+        "headline": "[이슈체크] 동결 전망 깬 한은…기준금리 3%로, 달라진 금리 경로",
+        "summary": "",
+        "source": "조세금융신문",
+        "published": "08/27 10:24",
+        "published_ts": 1787793876.0,
+        "tag": null,
+        "first_seen": 1787794233.8660285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HOVBaWmNjbTRha3lUWFlLamZGV3lYV3NlZEU4TGNQUWtUTkZ0T3Y3N1hJUS01dE5sdDQwaVJrRDZrMk5EZWNDcHJLVnFDZw?oc=5",
         "headline": "[속보] 한은, 기준금리 0.25%P 인상…연 3.00%",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787644993.0,
         "tag": null,
         "first_seen": 1787666923.6253543
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE10SGF2aFN4U21hY3BLczFLZTJyTEdGc0hOcDEwTU9IRnhZRWJlZFQ1SzNzeHJRN1BCYzZZd3ZWbHBYbXVORXh4OFc1aXl4YlZMalA0TlBuY2d0TThPbXJCWHVlZ1k4emVX?oc=5",
-        "headline": "채권전문가 79%, 8월 금통위 '동결' 전망...직전 조사와 분위기 반전",
-        "summary": "",
-        "source": "녹색경제신문",
-        "published": "08/25 16:46",
-        "published_ts": 1787643988.0,
-        "tag": null,
-        "first_seen": 1787644835.7482717
       }
     ],
     "politics": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1787793327.8208566
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMXNvcG9td1lCd01aNHE1YnFFaU5heGladGVPU0hHVzNDMHRRNURCYXlCR0JrZkpheGM3NVktb1JjSDIwN0cxNU16T05yOE11d1JFS1R5SGhRZ3VHTExNYi13WC1ackwyNDRvZDBmNFZuaDAtQi02VGhoS1VuNTliMnlUZDJGdw?oc=5",
+        "headline": "Japan’s Bond Yields Tick Up Ahead Of Key BOJ Speech",
+        "summary": "",
+        "source": "Finimize",
+        "published": "08/27 09:16",
+        "published_ts": 1787789811.0,
+        "tag": "JGB",
+        "first_seen": 1787794233.8660285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55SXJsbkRucjNFNlBqN3Baang3TUcxc3NCSzVwdEtteVVBSkFMcWtLVkk0T0x6YWRFTFZtTm5odzdhel9EV19tc3lCWml5M3AyZzE0?oc=5",
         "headline": "\"허니문은 끝났다\"⋯워시 미 연준의장 잭슨홀 연설에 전 세계 촉각",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787738745.0,
         "tag": "Fed",
         "first_seen": 1787739326.829821
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcmIta0pIUjAwVVRZWDNJNVU3WjJMS2FUbTJhS285RVVMY1gxbHpIWDFSUGxLY2M3YWFKaGNhQWRCY1RNWjBEV0ItWERNR1gtSXBPNkZIUTFucXlJUlR4LUgzbUM5eWgwLUJBVzU0cDY3bHY3M09rdWdkWWEzcmoxckp0X0wwcktrS3pMVU5R0gGTAUFVX3lxTE9NQUNuWW1lTDVnMVRrQmpjeXp0dXAzV01ka3VoTk41RzIzVDZVaUpoRHpGX21jN2F3UUlTWGRKSTJrYUsyejg3THlpbkVUNjhvNVJUVEJuQWVpZDVpS3NHX0J0YV9BU2kyQ0t2VktCTTRUSzZiM2tuYmJkVXJrbGo1dW4zZzNHazZZUVhLbUl3NGVnSQ?oc=5",
-        "headline": "Trump plan to raise borrowing limit on shaky ground as debt roils bond market",
-        "summary": "",
-        "source": "The Hill",
-        "published": "08/26 19:00",
-        "published_ts": 1787738400.0,
-        "tag": "Strategist",
-        "first_seen": 1787779831.5962584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 10:15:55",
+  "updated_at": "2026-08-27 10:31:01",
   "yields": [
     {
       "label": "3년",
