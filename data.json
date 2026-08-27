@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjY4aVQyeGFSMmlrQ1Z3eC1lMWJOcnVZczgzOUNCcmpwZGpCTjhkakxmTFNNaTE5YnI3MmtZaHA5bkp3SW5nWktaYkh6T25jVHZhYXNaY1FnaXEwUTA3eDQ2Ukx3VmpoMWpKcTdyUDlOeWNRZnpLSE1TdFp3RXNLOS1lM2lzeXBSampjd1JzNlZVeUN3TXF6WHFmZlVIZw?oc=5",
+        "headline": "Watch Big Take: All Ears on Fed Chair Kevin Warsh",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "08/28 05:03",
+        "published_ts": 1787860996.0,
+        "tag": "Fed",
+        "first_seen": 1787861733.20957
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdXNrWGdINUw0VXVKZlk2SWpVVEZmNzhQNzMwYnAxMmJCWnhtcXBrdjNqal93VUZjb1pLZDlqaXJIaDJ1WVNRZW5NTWpKWlc5T2NFcmptN2N5Q1lPZktiMmRoTXFJN3FweUg1ZnY5V081ekM5X2hlQlV1Uk1TVkRVcUNzRnZKQkw3XzBIVW80TVpKQk12?oc=5",
+        "headline": "The US$4 billion ripple that could not turn the tide",
+        "summary": "",
+        "source": "Livewire Markets",
+        "published": "08/28 05:00",
+        "published_ts": 1787860815.0,
+        "tag": "Strategist",
+        "first_seen": 1787861733.20957
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjJCallHZWxCYmRTeHlaRDBoSC1GaDE3Ym53M25LX1lhTUROUHNzclh2ZTlyUm9HVFNwWVBnZDZrTEZfWFRqTkJQRWROSlhKbGJUSzNPM1o3SG9UbFBzaUwwWm1YNWN0dkNFYzhQV2VKOVdTWWN3ODRfenIyRHpKMFlNMFdoVUhYMi1KVE9mZkxCcmQ2SnpsTDAydmx0NWs5QTg5RFRfWmLSAa4BQVVfeXFMT1p2ejEzMkVDblNMdDJibE8wVGhoQjJLUzdhSE9MZ3haZ0JwOV9zOGt5cXlYRlpkRDlBbDlZNnhCbmFOejRoUkp0QXdYQnRESTZ0YlJJZ3diSlU2Q1VGbER6blFyNW43aXdqUEI2TTR2MnNKaGNTRVVUNVR3Z1NhUE1wUTVVQ2QyWU45Yk41akdkMm9rN0lubzBjR0ZmeXc5TGZ2SjBPZVpIUTlDVE9R?oc=5",
         "headline": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787821393.0,
         "tag": "Global",
         "first_seen": 1787849127.2382402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUhUT3JPOU5rdWNrNy1FZlJCX2VSb1BwUkx1dlY0WDByWnFIMmdmSVZlVWpiTk9pR0xzWUdPZTk2MEttNG9JQXQzZ2FhWjAwRGM4NUhVUGdHLWFtem1Dc1dsVWoxbC1MVXlZZWpjam56N0FkMWRpT0dTaHBOMUI4cHdVbU4wR0toWjBrQnlwRUpWN1YxQW5NU3QzUHk?oc=5",
-        "headline": "Treasury Yields Just Hit a 19-Year High. Here’s Why That’s Good News",
-        "summary": "",
-        "source": "Contrarian Outlook",
-        "published": "08/27 18:00",
-        "published_ts": 1787821253.0,
-        "tag": "Global",
-        "first_seen": 1787822126.0753772
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9uTGRsV0xEWG9pVmpCRVdSWUF4Z25ROEFOTDIwQVh1Z0MzaDVVOTdaZG9hVXZNU0pZX0RJZUE4YW1NUXE3UTNocEJsRmpoSmd1dHFtSE5qVUFuX28yWUNRZzZFMW9xajM4aXVxU2o2dXE0S0FScE11Mg?oc=5",
-        "headline": "Kevin Warsh has a plan for the Fed. Scott Bessent is getting in the way",
-        "summary": "",
-        "source": "CNN",
-        "published": "08/27 18:00",
-        "published_ts": 1787821229.0,
-        "tag": "Fed",
-        "first_seen": 1787823031.358661
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 05:01:02",
+  "updated_at": "2026-08-28 05:15:58",
   "yields": [
     {
       "label": "3년",
