@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZDN4U0hIM256SWdfV0hXUDE4dzdfdzZNLXg2S00yQnoyZFFBbnpUVTEyeDdkdG5DTFl5Y0haSGJQSXVyZkNyRmlpbGFZSUlYYklBVHRwTUpYMGhsbWVXUXlVRVVwdzgwRkpESmdWZnlJdzVUbHJIM2Rheld1SE05Vk9heWpZRkJ1LUZZRUVqYmp6aVFFdmNERVpqUzZsX0V2Z0I5eFNka3JNelpXU2U5VTNvNDg2dw?oc=5",
+        "headline": "Warsh steps into spotlight after Bessent’s bond move",
+        "summary": "",
+        "source": "The Hill",
+        "published": "08/27 20:20",
+        "published_ts": 1787829600.0,
+        "tag": "Fed",
+        "first_seen": 1787830232.030783
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0VzeDRYcXo1SEU2eVU5VC1MeTZMR0dEZ0pGekpaSTZuS0otLWFjdmo3MlMzWFhsd3FiMGNzWlZUMGI4amo4UXowLW5oUnhublJqc2dES2hlT29kbFVFNjVuTFl6ekpuWlZ4ZmxRYnZ0LTUyOVRudXlHcW14bWItTGxuNGpBa3c?oc=5",
         "headline": "The Real Risk in Hyperscaler Debt Is Not Demand",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1787828530.0,
         "tag": "Fed",
         "first_seen": 1787829323.9123046
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOOGdoYU5RaFI4UkRoamdmY0RHckRNdjZ6bUxUdXl5ME1jaFVzQXlMaG5udzN3Z1ZkUWp5VjhRY242ME9QcHA4emZPLTBsd3k3Z0pyQ3luZGh1c18zZVZPdDhnUVRVZGkwcTI4TWJncnU4aWdGbktTWHZqRThTbHd1dWs5U21FaHpZeGdLUllrUXoyMF9yMTAwMFBOUXFwdnZURnZDdHBjWGo4V0pZeWhSQ1NyNnRScXp0?oc=5",
+        "headline": "Jackson Hole is Warsh’s chance to win over his Fed colleagues — and investors",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "08/27 20:00",
+        "published_ts": 1787828400.0,
+        "tag": "Fed",
+        "first_seen": 1787830232.030783
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUp5YW8xR0FIcUxQWUkxNzlHdkhvMkF0NXdUcUh5cEhRc21ZSlRaQjRqVnhUUHAwZGoyMGpxOWFTekhGbDJqazFJN0tWeHJrRnFVdTg5TkVCLWlhSC11bXd1UnQ3SllMOS03ODFrUTlOQlpPdlo3N20tY2JEbVdZZmJXX2dFTnIzVUt1Yk5EbkZkdUxlMWVyNFJIOTdzRDd1amtJU3ZpMmxDeHQ1N0dNTGpzaw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787799660.0,
         "tag": "Fed",
         "first_seen": 1787822126.0753772
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByVGZNRU5SX1RCdVNfV2NkZGRNcmxHeW5IYk9oeVFISVQ3LTF0dThVWG9QNHlNV1FVWUt0cDNvMzRWcEFtR3hSbnVhdFRsYUMwUmVjdlVxek0tc2JUUDBUSmcxeC0xZlE5Nm9XSVFZZUZwUQ?oc=5",
-        "headline": "BOJ 부총재 \"금리 인상 지속해야…물가 상승 위험 주의\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/27 11:28",
-        "published_ts": 1787797727.0,
-        "tag": "JGB",
-        "first_seen": 1787798724.3320842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZ1JZbmhwSnZGZnh4Tkd4Y1hGbTJWbndTdHFZWFJVMUJ4S3I2RWlIRy16d1hqWXdWOEhfUnBpZlNON1V6TDRZX1c2cHZWTWF2SlhWMFFwQ1NOY1NkTjZiNWZyYVNvM1B3NkpVSE9HZ09KcHRUcWlrejNJVk8yaUhlOWpCUV9rcG5OWmRidkRvNl9YZw?oc=5",
-        "headline": "Mexico Bonds Trade Like Junk Despite Official Optimism",
-        "summary": "",
-        "source": "Briefs Finance",
-        "published": "08/27 11:09",
-        "published_ts": 1787796560.0,
-        "tag": "Global",
-        "first_seen": 1787814040.1864095
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 20:15:49",
+  "updated_at": "2026-08-27 20:30:57",
   "yields": [
     {
       "label": "3년",
