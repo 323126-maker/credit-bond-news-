@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zWng2YkRQSTdGVTdJekNLZjJYYTRPVkFyTXBodTVLaVkyREY5ejdCdU9wQlk0LVE3NVN0WFJGY19mRTdFaDl3WWgwQTVnaDRxc3BvdFFxRWNiWjFFVUxTaQ?oc=5",
+        "headline": "금리인상 선반영 채권시장…3년물 강세론 부상",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/27 09:46",
+        "published_ts": 1787791560.0,
+        "tag": null,
+        "first_seen": 1787792441.16895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50bzA2b0JZU2cwMDVnVTdKZ3h5NkR2ZnpzN3Z4OXhUQkwtejRZWE1ubjk0UEsyWHpUamNJbFJMSF9xbW80c0o5eThfRzdDc2dRWXNnb1BFMFJPbmR2VzkwaA?oc=5",
         "headline": "[김남현의 채권 왈가왈부] 다음 금통위는 10월22일",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787637715.0,
         "tag": null,
         "first_seen": 1787641240.6085687
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8yenduc05zM1VvcFQ3MXdTaURHUkxTT3Q4T0g0UW1HcDljOHV1N0VWS1E5LXR3ZzdmWlk5OTUxUVRqSzRaMFdkMXplN0ZXalg3Ty1UT0pjQ3pzWUZwUk0zLXY0OTA?oc=5",
-        "headline": "채권시장 전문가 79%, 기준금리 동결 예상",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "08/25 14:43",
-        "published_ts": 1787636582.0,
-        "tag": null,
-        "first_seen": 1787783430.3320963
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 09:45:56",
+  "updated_at": "2026-08-27 10:01:08",
   "yields": [
     {
       "label": "3년",
