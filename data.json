@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVFEwdlk2M3BJZXUxcjl0LVVZaHRGSUZKRHNLdEhjVEJHb21IMENhQ28wdzV2VExhZ3NVYXp6WGFWNnluUkwzcEt3UUMxNG83Yzl6dXdYRGk1cVlDaDNfd3I5TXpENF82RmJuaDhLTXRoOW9tZW5PZEtIcXRTU0hKWHBMekFyLWNx?oc=5",
+        "headline": "\"9월 금리인상 예고 없다\"… 日銀, 물가 2% 초과엔 '경계'",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/27 14:51",
+        "published_ts": 1787809884.0,
+        "tag": "JGB",
+        "first_seen": 1787810438.6581535
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oVVlCdHNLNElJVzZNNk0xRDBWalREUks5cm9OWUR4ZS1qOWRvUXZENUFMNFJjQldNamgwcjFTR1JhR09xTnNKV3VKdFRFakpN?oc=5",
         "headline": "BOJ 부총재 \"물가 상방 위험 더 주의해야\"…9월 금리 인상 가능성 열어둬",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787760001.0,
         "tag": "Fed",
         "first_seen": 1787760928.9685202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWnNTU3J3ZkltU3FialA3MmZJTG00WENQdUl3M2d6eWpkRk9BUzE0eVJWMW14b0E3SnEtMVZPOVVwWTNxOVBsVHpoSnJkYVlUbE1DTFNRd1pwdGZqS1d5UGJrZzV3SkpXbXpJQnBhRTY1ZGZkYVlnaVE3WEtYMHRDaEJnVVFBOXR6TFNkVXktLVNmdUlNb0pGemFwRWxlS2drTFBMYWVoQ0VGTzA?oc=5",
-        "headline": "Kevin Warsh Just Got Another Reason to Raise Rates in September",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "08/27 00:52",
-        "published_ts": 1787759571.0,
-        "tag": "Fed",
-        "first_seen": 1787759957.8314035
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 14:45:56",
+  "updated_at": "2026-08-27 15:01:03",
   "yields": [
     {
       "label": "3년",
