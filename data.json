@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUp2dUd4SDQ1cDBrcjBJbTlWcm1lZDE3MWppc2dKQXFrVFhnaUZBVV9IYUYxZ2JFYWt4Z0xoUHVITkpBVmxYS3QwdUlzakVobURHaU1YRnVRMTNUeUd3WlNuckxwMGswOEFGa1ZaVHpNNmRjTEFlWVVWazdWd21RSlRJUkZXMHdtc00yRkVBRHJjVGU0ZV9nT1BhRXljUFdXeERSY2RyY1lLSmFXTUloUzh3?oc=5",
+        "headline": "2 High-Yield ETFs Paying Up to 11% Without Covered Call Capped Upside",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "08/28 03:28",
+        "published_ts": 1787855280.0,
+        "tag": "Global",
+        "first_seen": 1787855431.7438674
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDZjd2pDLTRWQ0JCRXc4SDVpMS1WMTR5cTBlTXhVYmhmVGZfcFNVeThrbXdaaDVtLXNTazdxT0NUTlY0dEFWSzl2b2NTWS02X3dsQXF6SHpDX0ZPb2VYQVp1ak1GSGwxbG9rb3UwWlRrLXpEalQxalBDMTBhRmxua3lwYW9jQzFoS0szeFVjQm5pMGVmcElkMkdoRWlCZXZ3Z21UcExxbS1BVFhOMnlLQ3dscE9HREJzdzBnQmg2NDAtb1U?oc=5",
         "headline": "베센트의 채권 매입 도박이 비트코인 가격 상승에 불을 지필 수도 있다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787819880.0,
         "tag": "JGB",
         "first_seen": 1787851831.8217568
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pV19DY2hBZ1B1U196RTRVYVh2VjFsUlZ2WXZXenRXVnBlVmUzemgwbHpsWlVWR1p2cS13T09MZDdsbHJjeUVKUmt1QlQxSmNBZFVBTnM0MUJOUmRVZ2F5UTNSUjl0WmFSVGVSUlRxdEFtX05MckE?oc=5",
-        "headline": "France's Budget Defense Begins as Bond Spread Surges Toward 100 Basis Points",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/27 17:06",
-        "published_ts": 1787817960.0,
-        "tag": "Global",
-        "first_seen": 1787827525.2083712
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 03:15:58",
+  "updated_at": "2026-08-28 03:31:00",
   "yields": [
     {
       "label": "3년",
