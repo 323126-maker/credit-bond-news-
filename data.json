@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xYVpfMnp3YXlFN0NZNUxULVFYdkg1cFY0NllYMkRRQW1mVjhPam9DNmllODFHUVpicGE2Vk5nRlFEaUM0RDZjOHhfYm5BNFdyMUxNZHpWTzBUQQ?oc=5",
+        "headline": "메타, 1조 원화채 발행 추진…韓으로 번진 'AI 영끌전쟁'",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/27 20:01",
+        "published_ts": 1787828509.0,
+        "tag": null,
+        "first_seen": 1787829323.9123046
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DdDRvUklkQVBLMlpJaGNQNzNNVU0wcnBud04yV3FWczRlVGg4LXpjdVFwSEJ6eHJoQV9MeXdtbUpYa09TUzgyQlUxTXh5bnRaRFlneFNzd1o5WnFaU0M1RWgyYUR1UFk?oc=5",
         "headline": "\"한국은행의 이례적 금리 인상에도 국고채 금리 하락, 채권 시장의 반전\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787730352.0,
         "tag": null,
         "first_seen": 1787731240.580155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1WT2hCWlRPd21xaE1BZEM2aTFTeWlKb1NBUnRGekRFYzVKREZuejUxREh6c3pocjB6UFVfVTFqdUotaUtWRFEwd0NJbnZHZEZZMVBlOTFFOUxGcF82MXhnWVNEV0Q?oc=5",
-        "headline": "고금리에 단기 자금조달에 몰리는 기업들…비우량 회사채 지원 필요성도",
-        "summary": "",
-        "source": "매일일보",
-        "published": "08/26 14:47",
-        "published_ts": 1787723271.0,
-        "tag": null,
-        "first_seen": 1787723694.7646718
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa0VzeDRYcXo1SEU2eVU5VC1MeTZMR0dEZ0pGekpaSTZuS0otLWFjdmo3MlMzWFhsd3FiMGNzWlZUMGI4amo4UXowLW5oUnhublJqc2dES2hlT29kbFVFNjVuTFl6ekpuWlZ4ZmxRYnZ0LTUyOVRudXlHcW14bWItTGxuNGpBa3c?oc=5",
+        "headline": "The Real Risk in Hyperscaler Debt Is Not Demand",
+        "summary": "",
+        "source": "NAI500",
+        "published": "08/27 20:09",
+        "published_ts": 1787828955.0,
+        "tag": "Global",
+        "first_seen": 1787829323.9123046
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNX1ZsanZDSzJVV2VrSjFWbXF5ekhONEFsQkg1ZjJERUVsQTJUV3NtUHU5MUVVNjNfRG14WEtFM25TMUxOX2EyRW5MRzRweUFORWJuY201MWZmVG10amNxOFQ4b0FiT0lnejV6Q3UxNGJ5RXZTQnhSWVpwd1A3bHV3QnM0U1NSWEpWSGN0RUFLd3JFTjdFR1VtTEZTNU5PMHRDMHlqaVllREMxRDg?oc=5",
+        "headline": "Fed's Warsh faces challenge whether inflation is a problem or not",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/27 20:02",
+        "published_ts": 1787828530.0,
+        "tag": "Fed",
+        "first_seen": 1787829323.9123046
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcUp5YW8xR0FIcUxQWUkxNzlHdkhvMkF0NXdUcUh5cEhRc21ZSlRaQjRqVnhUUHAwZGoyMGpxOWFTekhGbDJqazFJN0tWeHJrRnFVdTg5TkVCLWlhSC11bXd1UnQ3SllMOS03ODFrUTlOQlpPdlo3N20tY2JEbVdZZmJXX2dFTnIzVUt1Yk5EbkZkdUxlMWVyNFJIOTdzRDd1amtJU3ZpMmxDeHQ1N0dNTGpzaw?oc=5",
+        "headline": "Fed Chair Kevin Warsh Faces a Crucial Test at Jackson Hole As Treasury Yields Remain High",
+        "summary": "",
+        "source": "International Business Times",
+        "published": "08/27 19:17",
+        "published_ts": 1787825821.0,
+        "tag": "Fed",
+        "first_seen": 1787829323.9123046
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdzdXS0xyZnRYblJOMVpPNVJZaUFaSjZtWlE0cEVaaFQ2U0lKcmFPTXotX2UzcFBFTElyd0tickJzZHM3Q3QwVkRyMDA3aG4zeVlBVG5WLTgyLUR2N0duOUs0UVJVcS1wc0h3TncwSngtWFpfTkJVWHV6eU9OcnBJS1JKeVlwazNwVjVJOXJBTGtTaXNhdVpCRTVIUE5tRzZqWGJXLUtyY3lPUQ?oc=5",
         "headline": "New Fed chair Kevin Warsh under pressure to clarify views on inflation, interest rates",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1787796560.0,
         "tag": "Global",
         "first_seen": 1787814040.1864095
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSndKek1WaVhTd0t1bllvUHJfbzNZRUI3NFJpYlFGZTNUR1p1SVdPMzkzZEhwTldWbHdieC1wb2hsNmY2ZGFFUURCRFBQMEk0bFNtX3VUN05xaUg2enQ1VmNVTXRDT0Zwcm84V3VwdHNCUk9JZ1lGVUpZb3V3eWlONEhFaUY1RFFaemhwaXM3ZHF5OWt1eHRobUFBWWpucUFnT2ZOQ210WXZEZw?oc=5",
-        "headline": "'Be more honest': Markets crave clarity from cryptic Fed chair",
-        "summary": "",
-        "source": "France 24",
-        "published": "08/27 10:57",
-        "published_ts": 1787795831.0,
-        "tag": "Fed",
-        "first_seen": 1787796038.9500415
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbVVUSHNodXUzZi03SjJPelBLeXRFVlBSYkltMTFKX1ByTG9nNWQ1amdSRExQeUlTQzdJYUhQVmxlZGVpWDVDVWE1VHJOWE1ES0swamIzRElPc2prdTRMbzNNMWNxOGFfMkRYc3ROeXU0T2QxVGM1blQwVjBMUEh4NA?oc=5",
-        "headline": "Municipal Bonds: Opportunities as Interest Rates Change",
-        "summary": "",
-        "source": "CliftonLarsonAllen (CLA)",
-        "published": "08/27 10:56",
-        "published_ts": 1787795806.0,
-        "tag": "Fed",
-        "first_seen": 1787796038.9500415
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1XUnMzbFJ1ZktKeWF5YzVOaGoyb1M1ckxNTnFHWTBrcjVDMmszbWpSRHBVUFplRERUYmJ6T1RBcl9qNHBwakpDUlhSeWpVTW9hcEhRdTZsV0M?oc=5",
-        "headline": "포커 플러시 순위 프리랜서를 위한 시장 분석 효율적 방법",
-        "summary": "",
-        "source": "Platea Magazine",
-        "published": "08/27 10:34",
-        "published_ts": 1787794465.0,
-        "tag": "JGB",
-        "first_seen": 1787795124.719231
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 20:01:03",
+  "updated_at": "2026-08-27 20:15:49",
   "yields": [
     {
       "label": "3년",
