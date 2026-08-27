@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA3LUlFMVoxUVktZmJmYzNodzJkeENydnA0bjhHWHY3VDNpNUdhOWNHSlpfR0M1eXEzV2Z2dnB4OTdGT3VUVUZwMFJPMEt2TzZHOVEwc01TT01DS1ZKb0YxZmhYaUJmWmc1dVdpT25JZ1Z1eVh2VmlJ?oc=5",
+        "headline": "S&P, 투자 손실로 아이칸 엔터프라이즈 신용등급 하향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/28 04:47",
+        "published_ts": 1787860020.0,
+        "tag": null,
+        "first_seen": 1787863526.0001223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE92WE13NTBTUmdkVGU0Ym5hVmFNNmkyR3NiSlNlNTFHX0t1dWc3bHRoRlhMQmdsWXhpRjhDVzY4X3Q1WHZBUTc0ZHVPRUVLUk5rY0E3WTk2ZkJNR2V3azMwcDlKN0UtTV9UWjlfQW9udzNVUQ?oc=5",
         "headline": "[뉴욕채권] 국채가 약보합…잭슨홀 경계감 속 유가 반등에 약세 압력",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787750963.0,
         "tag": null,
         "first_seen": 1787752841.335237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeWZHNkwyU3JXaVNZcExSeHJ0T3l1dXRJNDlNNFI1enZJYWo3d2w1NUVpaXZtMlFLRXoxalBjVXFRVUEzR0Q3NHBURmpQalpkV2VHSXdCMmRUNWJpSVNBeXlRVUpBVmF4QjF3aFRUVkJVTUptaHFKQTFra2pRR2dvZGVaMzNmZGZyOFBZS2Rwb2RTRnY3WFpnN2ZMM3IxNnYtQm1temZIY01iOTI5QnBDUg?oc=5",
-        "headline": "홈크레딧 베트남은 2026년 상반기에 1조 3440억 VND의 순이익을 기록했으며, 총 부채는 33% 이상 증가했다고 발표했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "08/26 21:44",
-        "published_ts": 1787748251.0,
-        "tag": null,
-        "first_seen": 1787755527.7760375
       }
     ],
     "perpetual": [
@@ -1690,6 +1690,16 @@
         "first_seen": 1787850924.2336042
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmxRMHRkcDBpdVAtMV8tdnpGQktSZHp5NURjakNiQkotOGVpSF95RjgydHZGSEtWSnJjQjF2V1RLcG12RDVSM0t2MldrUUFZN3lXaUM2clZmR0JJOWU1bVNScDJvT2pSbVdpSTktMmJlRW8tZVl6UnRncElWSFdETENhdDFmb3YwYjhYYWVBZ1pqUUdob0dhSDA5LVBPS05OZ1pkVmFvWm1YdXVLMWdXWW9oQlhUQQ?oc=5",
+        "headline": "Jackson Hole 2026: Fed Chair Kevin Warsh Faces a High-Stakes Market Test",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "08/28 01:40",
+        "published_ts": 1787848832.0,
+        "tag": "Fed",
+        "first_seen": 1787863526.0001223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRUQ1Yk5XcDVkQm83YkJ2T2NvQy1QWkNZSlZ3N2xHRzM4MFNjVFIyQlZrNEdCUzNka3A3RFZKSkRKazhmdFhIQ19EVFZCTzdNMVVjZm9HLXY?oc=5",
         "headline": "피시방 룰렛 : 흥미로운 사실과 통찰력 있는 분석",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787821800.0,
         "tag": "Fed",
         "first_seen": 1787823925.6330106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwbkxyOTgyQzdPZUdhNExhY3ZBZE1QMnhteFI2M2g0eGFPVXVHZEZiVjFUZ1J3Wk5TdXdyc21TMXJ6R1I3MzhuZGJCVWU5SUszVWhaTGpLNjJXaTFiazJpbV9XS0VQNTBKYURsMUFyNExTU3dfWUh4ZDJIbw?oc=5",
-        "headline": "Opinion | What’s Going On at the Treasury?",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/27 18:03",
-        "published_ts": 1787821393.0,
-        "tag": "Global",
-        "first_seen": 1787849127.2382402
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 05:30:58",
+  "updated_at": "2026-08-28 05:45:53",
   "yields": [
     {
       "label": "3년",
