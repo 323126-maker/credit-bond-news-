@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1kV1YwUEg4RWFNcGVNaC1zTnpUcDktZTlsOHpJMExIWWdoR2VleXZhUjd2WWJYX2I0WXpsRFlqcVZielIyRFh6cEdzeWNIb0F3MTFPY0RuczRzd3RMVjlmdzVNVWMwYVItSXVXZXczWEhSeFBucWxYZGUyNUowSmc?oc=5",
+        "headline": "South Korea Is a Dying Canary for Kevin Warsh’s Fed",
+        "summary": "",
+        "source": "Newsweek",
+        "published": "08/27 18:10",
+        "published_ts": 1787821800.0,
+        "tag": "Fed",
+        "first_seen": 1787823925.6330106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcUhUT3JPOU5rdWNrNy1FZlJCX2VSb1BwUkx1dlY0WDByWnFIMmdmSVZlVWpiTk9pR0xzWUdPZTk2MEttNG9JQXQzZ2FhWjAwRGM4NUhVUGdHLWFtem1Dc1dsVWoxbC1MVXlZZWpjam56N0FkMWRpT0dTaHBOMUI4cHdVbU4wR0toWjBrQnlwRUpWN1YxQW5NU3QzUHk?oc=5",
         "headline": "Treasury Yields Just Hit a 19-Year High. Here’s Why That’s Good News",
         "summary": "",
@@ -1758,6 +1768,16 @@
         "published_ts": 1787808248.0,
         "tag": "Fed",
         "first_seen": 1787814040.1864095
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbUZQTGdjUUhObHVkTTY3ME9ZMzZMMjhhVExZVzNvUnh1bHp0SUd0bGhWQXAtalZCTGVlMmFOTElodnp4OU9WS0xWUmI5SHJSMVkwVng1Z3dmTkpjNnVndy1rUVRhUWtmWGFLYWtDLXlrbGxudjI5X0I2U1BldU42RkRpU2p2R3Qtdmt2ZzZSbzlBWW5CbDJvVElWRWFZNUlHcWs2bmJB?oc=5",
+        "headline": "Arthur Hayes Explains Bitcoin's Surge Amid U.S. Treasury Policy Signal",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "08/27 14:18",
+        "published_ts": 1787807899.0,
+        "tag": "Fed",
+        "first_seen": 1787823925.6330106
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oVVlCdHNLNElJVzZNNk0xRDBWalREUks5cm9OWUR4ZS1qOWRvUXZENUFMNFJjQldNamgwcjFTR1JhR09xTnNKV3VKdFRFakpN?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787784060.0,
         "tag": "Strategist",
         "first_seen": 1787785234.9468756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeFdkSkU0WHNQMnpmUzlCdW1zX0E2eC01TVpVU1gtdnJqcmRaOUF0OTZsYmJtUE1LZzBZRjR3dlRpMzh6a0VLRHJ5NDhHUEozczVQaFN3ZVF1QnhoR1dCenQzWWxFc2p3Q1NnTm5kRmJqYU1oVlVZdmJmVVFyTE04U1FLU3BBdEpwUHRWTVdR?oc=5",
-        "headline": "Inflation is stuck above 2%. Can the Fed really do anything about it?",
-        "summary": "",
-        "source": "marketplace.org",
-        "published": "08/27 07:40",
-        "published_ts": 1787784014.0,
-        "tag": "Fed",
-        "first_seen": 1787784328.3076727
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE41Qzd2N0J0dFJUOHYyQ2ZlcDRDSUFaOHp6WVNpN3Zad1pTbkdHUnkySDZSWW54S1NPN01keUs1M3ZfbXJlMDU3dURqSFVCZmM2Zk9B?oc=5",
-        "headline": "'통화정책 신호등' 美 잭슨홀 개막…워시 연준의장 첫 시험대",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/27 07:01",
-        "published_ts": 1787781660.0,
-        "tag": "Fed",
-        "first_seen": 1787784328.3076727
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 18:30:56",
+  "updated_at": "2026-08-27 18:45:48",
   "yields": [
     {
       "label": "3년",
@@ -2494,6 +2494,33 @@
         4.32,
         4.288,
         4.238
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.468,
+      "chg_bp": -7.4,
+      "series": [
+        4.506,
+        4.463,
+        4.513,
+        4.526,
+        4.471,
+        4.483,
+        4.494,
+        4.555,
+        4.639,
+        4.651,
+        4.619,
+        4.558,
+        4.661,
+        4.63,
+        4.601,
+        4.664,
+        4.621,
+        4.576,
+        4.542,
+        4.468
       ]
     },
     {
