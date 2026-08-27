@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE85X2VIZGdZZ2t1Tk9uOHNZN2p5TTBDYzMtakNwYnBUQ09JVXMtWnVnb1JqNUhLWnFabk0tUXNvT3ZvLUVWYjc2MUl2eUdrWHJvZXFGN1N1b25kOExFMUdfX2s4NzVaeUJ5M3hYTjVYQXNhalE?oc=5",
+        "headline": "아비드뱅크 홀딩스, 3000만 달러 규모 후순위채 발행 완료",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "08/28 05:17",
+        "published_ts": 1787861825.0,
+        "tag": null,
+        "first_seen": 1787862632.28475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzYWp6UUFzTWVoUXpTZHBXQXE0OGZFd3hWeUhxbGtKUzU3TURONy1FTWdKdjM5VVNiV0p4S3NuVUExdWZHUGtIV1hFVWdQZ1o5LTRXd0owOF9MVGNTOGZqVnRkU3R4aGFxMmFZMjBiaTY?oc=5",
         "headline": "레졸루션 라이프, 닛폰 라이프에 7.5억 달러 후순위채권 발행",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "tokenpost.kr",
         "published": "08/24 16:48",
         "published_ts": 1787557706.0,
-        "tag": null,
-        "first_seen": 1787558438.5385635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SS3pTc2xMbjFNc3BCNEVmWXAzcl9ibk10TXdoYjh2NDR5QzE1UXNsNFE4VHYyOE1rOHdjek9kUmotZllyaW14UVNCc3J4SC1OWDBfQWxhVHFuelp1bFYzV3RHRi1NX3JrYUtxZVJmczDSAXRBVV95cUxNOTA5MGlCY3pFdW5adGt0d0kzYS1jUHRvb3M0REMwWmNMdnRheTNURUM3SWZHcTUwRXgybWhZRFROSVlNcldJRVVZdHJBcVdXR1ZNYnpHOVhRdFJGa3h1alVSX0d3eWpXOXVsYmhyZ2lEbDc3Sg?oc=5",
-        "headline": "교보생명, 신종자본증권 수요예측 흥행…최대 4천억원 발행 전망",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "08/24 16:43",
-        "published_ts": 1787557403.0,
         "tag": null,
         "first_seen": 1787558438.5385635
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 05:15:58",
+  "updated_at": "2026-08-28 05:30:58",
   "yields": [
     {
       "label": "3년",
