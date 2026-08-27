@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9uWDItMFBBWGhHVmM1VnpMXzRkT2lLSWUwcEE5cmNONFdmUjZzeTVKU0p4d0VTZ3NiRWszWm1KY21yOUxwUEpYZEpR?oc=5",
+        "headline": "日은행 부총재 '초고속 금리 인상' 예고... 9월 추가 인상 87%↑ : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "08/27 12:08",
+        "published_ts": 1787800080.0,
+        "tag": "JGB",
+        "first_seen": 1787800526.8944952
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByVGZNRU5SX1RCdVNfV2NkZGRNcmxHeW5IYk9oeVFISVQ3LTF0dThVWG9QNHlNV1FVWUt0cDNvMzRWcEFtR3hSbnVhdFRsYUMwUmVjdlVxek0tc2JUUDBUSmcxeC0xZlE5Nm9XSVFZZUZwUQ?oc=5",
         "headline": "BOJ 부총재 \"금리 인상 지속해야…물가 상승 위험 주의\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787749211.0,
         "tag": "Fed",
         "first_seen": 1787751034.5710492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTXJYUU5oNWloRjNpZ1hOQndLSkxmUUNaSmZTV0xUMjg3cklpdVNDVFdnbE5JLU1RSEhUSk93TTBiN3VCVml2b1cyQUJVRG5ZV3VKXzZNVlpHWUhkSjk2WlBsVWJ3VVJJdVhZN0dLQ3pZNnVQOE5KLWl6TzcteGp5aThoZkR2YlZjbG9ONXdtdTRhN09kd3JPMzFhcUxtMWtmLXc?oc=5",
-        "headline": "PCE comes in hot days before Warsh's Jackson Hole test",
-        "summary": "",
-        "source": "InvestmentNews",
-        "published": "08/26 21:57",
-        "published_ts": 1787749068.0,
-        "tag": "Fed",
-        "first_seen": 1787749237.530875
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 12:01:13",
+  "updated_at": "2026-08-27 12:15:55",
   "yields": [
     {
       "label": "3년",
