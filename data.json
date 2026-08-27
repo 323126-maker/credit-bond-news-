@@ -826,6 +826,16 @@
         "first_seen": 1787794233.8660285
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBuWVJUbTdXQ3l1RDg3MXNGdTAtam5LX3Frd3FUdVlTZjFRdGgzNWd4b0dVYXgyUjZueG9ka3lVRnA1a0xoeGFtVXdUQklqVnVqSDlYR1dYMnVBQnhiUmItRWRveWNINU9DOGUwWUVXQQ?oc=5",
+        "headline": "한은, 기준금리 두 달 연속 인상…연 3.00%",
+        "summary": "",
+        "source": "비즈니스플러스",
+        "published": "08/27 10:18",
+        "published_ts": 1787793510.0,
+        "tag": null,
+        "first_seen": 1787797832.6458864
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1HOVBaWmNjbTRha3lUWFlLamZGV3lYV3NlZEU4TGNQUWtUTkZ0T3Y3N1hJUS01dE5sdDQwaVJrRDZrMk5EZWNDcHJLVnFDZw?oc=5",
         "headline": "[속보] 한은, 기준금리 0.25%P 인상…연 3.00%",
         "summary": "",
@@ -834,6 +844,16 @@
         "published_ts": 1787792208.0,
         "tag": null,
         "first_seen": 1787793327.8208566
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9Ec2REeDRCeHN5R1k3TDhOUkRManViN2dnc2tzeEJYNlpsRmNxdU1fS3FBYzk3OFRrLXloUGMwYW1vaGNSWGtOYndSNlpiQkJKNGVyVmo4TXlRMXc2ckNYdE5WTS1PSXFtTEHSAW5BVV95cUxPWUJ1aDBLYlpkVW1rVTJURU10cjBOQWxmQ0VNTXRkT3ZaVzFTSi1KVXBPcmZhZE10WHhpRy0tSmVGQXd1RnpxSXVmdWRvZmFZUV9Wb0RKcTIzb1dYS214STQ4WGpocUxuRzk0XzhEdw?oc=5",
+        "headline": "한은, 2연속 기준금리 인상…연 3.00%로 0.25%p↑",
+        "summary": "",
+        "source": "뉴시안",
+        "published": "08/27 09:51",
+        "published_ts": 1787791862.0,
+        "tag": null,
+        "first_seen": 1787797832.6458864
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5WX0FVdjgzRG9ZYmJ0VlZQa2EzTUFHUkFFd0NCa1ZsRnZEVHdaZk1mR09vbEthTHFHOE1PQUFYRk1lcERmV25UWUZjM2RVeGxBbTNwWQ?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1787697773.0,
         "tag": null,
         "first_seen": 1787698836.3998332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hZy1CWG1EalFoeTVJcmFmS3ExcG9BRE5FaEZrSW80SnBiaGJzTUNWWlp2d3BiWUZGRE1YbW8tVGtrV294MERaWmNnTFhJdDh2ZlMwajBuUDJqbkg1RnNJNlBQWktuUkZDNHE4?oc=5",
-        "headline": "한은, 9월 기준금리 동결 전망 79%···채권시장 심리 소폭 개선",
-        "summary": "",
-        "source": "마일드경제",
-        "published": "08/26 07:02",
-        "published_ts": 1787695320.0,
-        "tag": null,
-        "first_seen": 1787733927.9297273
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EaEpwUXJtYnZ1VjQwQnJ2Zkg0QlVkLTNqZ2hUSjY5akVjMHhqTmF5Q190WDloTktYaWdOMVJrRjdpNGdGajc1MC1yOXdKOFNVclZabg?oc=5",
-        "headline": "경남도, 4364억 원 규모 3회 추경안 편성···재난·생활안전 집중",
-        "summary": "",
-        "source": "더경남뉴스",
-        "published": "08/25 23:32",
-        "published_ts": 1787668349.0,
-        "tag": null,
-        "first_seen": 1787669125.769107
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-27 11:15:55",
+  "updated_at": "2026-08-27 11:30:59",
   "yields": [
     {
       "label": "3년",
