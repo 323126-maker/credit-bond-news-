@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG0wdDVjT2hoakV0Wm5xc2UtRTBXRzJmWjBPc1RlZElVRUtTbGdwNjlHSGdPT1JxMTBnaGlGVzZ6T3RaRUpZVTlBdXJDaEh2Mi02SG5SSFJ1TnRGSUMwZ3l6SXUwanc1bUxhTi1rV1NSczVwM0p3a1VRWmRaSGxsdVVpUTg3S0UxME9Nel9RRWQ5LUg4UXBjY2JkNXRBSURhVENIaGFUV2xOUGxsYl9xaA?oc=5",
+        "headline": "Global Bond Selloff Puts Premium On Selectivity, Morgan Stanley Says",
+        "summary": "",
+        "source": "BW Businessworld",
+        "published": "08/28 13:56",
+        "published_ts": 1787892970.0,
+        "tag": "Global",
+        "first_seen": 1787893242.7937372
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQm90VXdGYWc0WDM4SndsU0J3UHFIcDllWGxmZlo4VklpYWRxR3NleVdwRjdTMHcwbHE3NE5MZk9KR01FRVl4cU1EdUNHMkxtVTN0QUdwOFE0ZGJsNDJkZnpIT2xHUkkxWE1leEJUQlFqYzRhR2RqdllCYk8zREE?oc=5",
         "headline": "Warsh heads into Jackson Hole hot seat",
         "summary": "",
@@ -1778,6 +1788,16 @@
         "published_ts": 1787866440.0,
         "tag": "Fed",
         "first_seen": 1787867125.0006816
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54M3FzeEZSam5qRWN5d3Z3SlFqVjF1ZE5DRU9zbmVPQlNyZjlhNjV1WWNJbkNrSkt5V0xWRlBpQkRaUXM3N1N2TFE2YXZaOTlPQmxXRXVsaDNXR2h1V2NNWmNjMGgtZTNZNlU5RV9yZEZQLUtQb0xMX0N3?oc=5",
+        "headline": "小臺指期W News | TAIFEX_MX2W Real-time News & Related Reports",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/28 06:20",
+        "published_ts": 1787865627.0,
+        "tag": "Global",
+        "first_seen": 1787893242.7937372
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRuNGtXTmRkTTA4am5PY1p1aFhDcVBDcGdJbmxoYzU2NlZGSzE5cURKdUZZa0JtdWxCRnpIYzJHLVZTenE3M0ZXSXZaZW1UcW5jeHV0bW1wcGlqSjBSQU9YV09CMEtyYmVnS3FkSzNfUHdFUkJQMDBhNmdSTnlXekNjUHJBR1ctWThPREpzeXZOOEdmM19leVdZNlZGVE80RGgycGtfcXRybG9qcGV2QzJuVnJNTzJRY05tejRWTQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787847300.0,
         "tag": "Global",
         "first_seen": 1787848233.4419904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORWZZR05jSEhBRVpEdkZjMmxTRlh1VVpFb1RYY3o2S285V2ZkdHNrbjNTY2ozUVFKS2o0NDc5UjJ1bWVwZ0poWmVrcFF0T1N5bm5WOTVfTTYxT1RkT1lnalhwOERwbGtvSlFiWlVYbFl4ZjIxNEk3cEoyZlB6YjA5dmtwc2hfemJrUGwtWkVpVzI?oc=5",
-        "headline": "Will Warsh Hit Reset With Markets at Jackson Hole?",
-        "summary": "",
-        "source": "Investopedia",
-        "published": "08/28 01:00",
-        "published_ts": 1787846400.0,
-        "tag": "Fed",
-        "first_seen": 1787850924.2336042
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBoUW5oQ240UTlRNjdwS0tUNDZXeTVkWmJicnU4cHFoSHBCYl9ZRF9FazF4VUZBN05uclI1MnFvS3QzRlFIWC1IMV93UEJ5cW1fN1R1aWYzc0tGdk53NTBSSi05MmpncTBRSnhLcA?oc=5",
-        "headline": "Fed chairman Warsh under pressure to clarify message at Jackson Hole",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/28 00:55",
-        "published_ts": 1787846134.0,
-        "tag": "Fed",
-        "first_seen": 1787846441.6256897
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 13:45:51",
+  "updated_at": "2026-08-28 14:01:06",
   "yields": [
     {
       "label": "3년",
