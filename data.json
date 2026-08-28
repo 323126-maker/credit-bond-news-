@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qMl9wTU50dHRSbnZTRFRnVV9ZQlBLYWRPako1NTJOR19lU2F5NUtyMktHWThlYUxHcmx4dGZoWTBfNFYtckd1XzUxckFOQjBSWDlTckJZU2hLQQ?oc=5",
+        "headline": "워시 매파 발언에 금융 시장 충격…국채 수익률 뛰고, 증시는 하락",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/29 04:14",
+        "published_ts": 1787944496.0,
+        "tag": null,
+        "first_seen": 1787945496.180517
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CMTJJbVEwX1RGTVJMWmNLUkFCdS04WDRBYVhVQWZwLXhtN1VwRklPc28zMEZHSjFOdm9SaHFBcEdfOW1WdmRtYlhQbERtSTZJRGppS25B?oc=5",
         "headline": "“이가 갈린다, 우린 평생 뜯기다 죽나”... 최대 2억 규모 아동·청년 지원책에 4050 결국 폭발",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787633400.0,
         "tag": null,
         "first_seen": 1787638702.8890464
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkbFhldklGTThCV3BWQnpydU54TEY1cDNDdkhaTUx6aTFyYzNPRUNxdEdrV3pjdjRScFh4TEYwN19OREVrRnczNmRHTUotbk4xVGlsSEhKaEtVSHI4c0VMckZZc0pNVkFTVzEyUXFR?oc=5",
-        "headline": "이재명 대통령, 경찰 개혁 위한 기구 구성 지시…권한·책임 균형 강조",
-        "summary": "",
-        "source": "주간시사매거진",
-        "published": "08/25 12:56",
-        "published_ts": 1787630160.0,
-        "tag": null,
-        "first_seen": 1787634923.7686431
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 04:15:47",
+  "updated_at": "2026-08-29 04:32:05",
   "yields": [
     {
       "label": "3년",
