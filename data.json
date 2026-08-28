@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1NUJUazItZ1FpazcwQk1kUU8tZnhxOXRRVmdtNmJjZFEyR3RIbnNJMWNXWjZSVEgzdDMyY3ktM3prb05xNFduTG1IeDNZRjRRSHppMmZzbnR1QQ?oc=5",
+        "headline": "워시의 매파 발언, 채권 시장은 즉각 반응…베선트의 숨은 적은 캐나다?[월가 백브리핑]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "08/29 06:30",
+        "published_ts": 1787952629.0,
+        "tag": null,
+        "first_seen": 1787955327.1685114
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11R1NTeEt6eHRPbGxGeUtjT0hGa2lNaUtFREd2YXlXYXgydFNVM3JMMjZBWE11cUhscThGMGRKOFFsbUJsc19ja1pSQ0N2Ym9jbWlyb1Z1MWpLYmdXREp3Zm5lcU9xNDZGTG1Cd1V0eXlyUQ?oc=5",
         "headline": "국채선물, 매파로 돌아간 워시에 하락…10년물 28틱↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787842800.0,
         "tag": null,
         "first_seen": 1787895924.7199037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE52RXdHblRYdEdHbW9LLWZLdGlGLS1sUFlvM21uV0lnMTNOMTNVckg5aHdveEZ4empIWWdXVFZUQVhaaG9iNmNOSWd4cVVDTFdES1dhTWVmLWwtV0gybktfYmJtV2Q4dnhCYVRneWpER09IOUs2M0g4?oc=5",
-        "headline": "샌디스크, 부채 해소로 무디스 신용등급 상향 조정",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/27 22:06",
-        "published_ts": 1787835960.0,
-        "tag": null,
-        "first_seen": 1787836526.0172262
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 07:01:03",
+  "updated_at": "2026-08-29 07:15:50",
   "yields": [
     {
       "label": "3년",
