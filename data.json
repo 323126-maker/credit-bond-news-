@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAyY3FuUDV1NUZ1VDEyTDBCNEN6N2RCTnBNeVM2allKVXk2QUxreHZuWFVDXzExbG5rbF9lNWxTeXZpeDd3M1VGUkpMR0lCVTREWnNyS0FFRDVNZzM5dUU2OVk5VjBoQlJYMDNwVXZDdU5hazBhUXRv?oc=5",
+        "headline": "8천억 VND 규모의 채권이 홈크레딧으로 유입될 전망입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/29 02:56",
+        "published_ts": 1787939788.0,
+        "tag": null,
+        "first_seen": 1787943305.78399
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlWVJtSmw2V2NQbi1mT29Za25wR3FhZTNSLUZoOEtHOVB6ek9hTlhTdURUbld3ald3eTFLR2JrSEF2dGFsYUdVbVN6N3lSbjdZMWkzLWM3OVAzODDSAVtBVV95cUxQZVlSbUpsNldjUG4tZk9vWWtucEdxYWUzUi1GaDhLRzlQenpPYU5YU3VEVG5Xd2pXd3kxS0dia0hBdnRhbGFHVW1Tejd5Um43WTFpMy1jNzlQMzgw?oc=5",
         "headline": "9월 말 IPO 가능성, 앤스로픽 장전 재료로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787826853.0,
         "tag": null,
         "first_seen": 1787871646.5680447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5DdDRvUklkQVBLMlpJaGNQNzNNVU0wcnBud04yV3FWczRlVGg4LXpjdVFwSEJ6eHJoQV9MeXdtbUpYa09TUzgyQlUxTXh5bnRaRFlneFNzd1o5WnFaU0M1RWgyYUR1UFk?oc=5",
-        "headline": "\"한국은행의 이례적 금리 인상에도 국고채 금리 하락, 채권 시장의 반전\"",
-        "summary": "",
-        "source": "공감신문",
-        "published": "08/27 19:06",
-        "published_ts": 1787825187.0,
-        "tag": null,
-        "first_seen": 1787825724.4807267
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 03:45:52",
+  "updated_at": "2026-08-29 03:55:32",
   "yields": [
     {
       "label": "3년",
