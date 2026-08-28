@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FT0Y3Mi1walY3Qy00WW13bEc2VVdBb2VnU0pyQmNpdnR6WXFJNXZ1SVZWV2hBRkdUNFBUdkxFMllxODYwZ1FidFZOSHF3Y2RjMDBmMVZEU0JsT2piMUFva2RUSVJBRnpUeV9nbFlxVnR1dw?oc=5",
+        "headline": "[뉴욕채권] 2년물 급락 속 베어 플랫…'결자해지' 워시에 9월 인상 우세",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/29 05:09",
+        "published_ts": 1787947754.0,
+        "tag": null,
+        "first_seen": 1787949031.9086478
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RSjVhWC1rOUtpdU9vVllGczdkVXFWTFZZVDFyOGliZHh0aWloWE5Nb252ZU95OEZEQjZkOV9PSU50dDdfVVRzYmNNRTU2bWhrbFh4TmdEVnY?oc=5",
         "headline": "동행복권 파워볼 조작 인식 디자인 패턴 상세 설명",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787831490.0,
         "tag": null,
         "first_seen": 1787832040.858295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51SXBlamZMRFl4YUtkUmFVeHE2WHp2VTAyRXU4QmdNWFppQ0xHZ0xnbUJSN0hxOHl6OWVuaVVjQmYyeG5LVHJVWjd2Qm9Pd0FXZVFjRVVaOVRmTGxiSGxuQy0xZGlnZU43QXhyQmpUa3A?oc=5",
-        "headline": "[금융] 홈크레딧 베트남, 하루 평균 93억 동 이익",
-        "summary": "",
-        "source": "굿모닝베트남미디어",
-        "published": "08/27 20:40",
-        "published_ts": 1787830859.0,
-        "tag": null,
-        "first_seen": 1787831125.7008932
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPN19KRmdtNEcteXNNNjU0QXdKdU1nOWM0Yy1peExwYVlONVR2ak1Dc1RhZlRSb2tPZXF1WUc3YURhRmdSMmZ6R1BkM0tCRnJPYU4xTXQzQUQwZ3AzZ0lHNVJLZTNYVGZIaFNoOUgyQ3hOUVdJTUVaR1ZyOEZmcWdaOGhoOVctQzFqcjE1RVFTQUpQRHdqZ21jQUlfZVQ3SkRuaUJlTS1sWER1VUZUejc3ZVkxR0lBTlVWY21YVGl0dlluR2k4WlVFRWdIUFB1UkV4V2ZSN0YxN0VQM2xqTEN4UVJtV3g1LTh3eFlFbklUVzV2WkdMeVRMekVyaw?oc=5",
+        "headline": "The bond market prepares for a hike to interest rates, while US stocks drift lower",
+        "summary": "",
+        "source": "hngnews.com",
+        "published": "08/29 05:04",
+        "published_ts": 1787947491.0,
+        "tag": "Fed",
+        "first_seen": 1787949031.9086478
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5uRkV2RVM1STBYNzZRTDZTZWNWNXNsWlV0NzVvYUhqbDNPR2p6M19iWm5WUlg2eldBdncyVzVwWXlRSVNScy1zOUlrdGVpanZDeE9lbEVEZUloVE9jSHB3VnpHT2pHRDVzVFRON2lPVXJ5SlRm?oc=5",
         "headline": "[딜로이트 글로벌 경제 리뷰] 일본은행 9월 추가 긴축 전망과 엔-매수 공조 개입",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787919352.0,
         "tag": "Global",
         "first_seen": 1787929242.6889055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMWNOQWJ4WlZuSXBPTWZISHMyNWJrenpKa0lGWnFVMVJkbkZqemdUUUNRbVJsQlBiNXRmOGJROTNpRHZCckJGLTR2Sk51a1FPYW1nN0hDVHNuQU9wQ3FRcmVDRUdFd1VnT1Q2OXdLTXZwc3lNU1c3LXBRQXZQMlJUc0VoQ2tVS2s?oc=5",
-        "headline": "Warsh’s Big Test at Jackson Hole",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/28 20:59",
-        "published_ts": 1787918387.0,
-        "tag": "Fed",
-        "first_seen": 1787925643.2011995
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 05:15:54",
+  "updated_at": "2026-08-29 05:30:59",
   "yields": [
     {
       "label": "3년",
