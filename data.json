@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZ1Q3N3ZPcjctUjFBbWhqZlI0UnBnS0tPM3pHaDBYQnFpd3kzc2poeE11VWtuWEZiOHc2NjBtR0FMZVAtTzlMelJiWlRKZXQ1dkZON1V4X1dsVGwtcGc1OFRzSElTT3haVHh3OWFMZmlWWUtRaEFjZGxjVGNXNHVnYXJLNllwdzY4UDNzdzhiYzFrVmxzZVNCYWE1WE1tWVdS?oc=5",
+        "headline": "VCSH: High-Quality, Short-Term Bond ETF, But Trails Its Peers (NASDAQ:VCSH)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "08/29 07:23",
+        "published_ts": 1787955783.0,
+        "tag": "Global",
+        "first_seen": 1787956233.7690995
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWh2VkFzdUxOemFiQ2NvX1JienpTZGVCV2Vmdk5RT1ZfRnRlVTlkNFBMamNGU0F1WmlzajlfbFF5UllQRGJmWVhqLUlLQkNkQW1qMTFZNk5ObGJyRlE1c1VrMFd3RlZnQll4d2gtVHdqMXdPX3Ffa3FxTzFEeXlkVEFqeFZOanlBT1J1NU5RV3FpTmdRcmFLQmhQODRiTllmYzNwNEk4aTdjcHpqVFo3dE9SZlE?oc=5",
         "headline": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787921662.0,
         "tag": "Fed",
         "first_seen": 1787929242.6889055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1laQTcwY1lVUHl6UnNmTklzc1pHZUxrSDR6eW1rNk1jVGpYckFRTGpfenVVTUxFM3RfYUh5QUVNM2t4UUc4X205S0ZCQWFuamlJVVVhUWM1R2Rnakl6OXg1ekhyUkFFb1publ85YWpBMXpfTi1FWXBZUWpRUDBDRnRad3ozLVN5Yk03ZVVzVWo3elp2dVptQ1c3aEJaNGQtT1pSZjUtZUtzQQ?oc=5",
-        "headline": "The End of Cheap Yen Could Mean Higher Yields for US Treasury",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/28 21:49",
-        "published_ts": 1787921399.0,
-        "tag": "JGB",
-        "first_seen": 1787922039.3995285
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 07:15:50",
+  "updated_at": "2026-08-29 07:31:16",
   "yields": [
     {
       "label": "3년",
