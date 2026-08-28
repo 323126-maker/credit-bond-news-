@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZjdRODRwU0FwemlxemxwRE5yeEtITFNwbzBMNmxIQUE5d2F1MkVzLUEwT050bnNPcnBkRnpEcjZldTFqOG43NW1NMDBpeS1waUdJ?oc=5",
+        "headline": "[기술과 쩐의 전쟁] ⑩'추락천사' 문턱 오라클 해부…3가지 취약 고리",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/28 15:45",
+        "published_ts": 1787899500.0,
+        "tag": null,
+        "first_seen": 1787900437.223632
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YZGNHZFp2SE5xUmFwY2dtNi1aS2w2cUVLX3lZd2N0SVd4Y2tocHgza3MtYWNzMWVXdzR5SXhyTi1EdlRweWNSd0N5MXU3QUNVWVhJSVdWQjVPM25NTk1vNlB6R0VwM3JsNkpHemc3UmM?oc=5",
         "headline": "UBS \"채권시장, 세 가지 구조적 요인 리프라이싱\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787794658.0,
         "tag": null,
         "first_seen": 1787795124.719231
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yaXFHX3hUZ21jd092MDUxR3dJbUU4TzFVUWFUQU9WV3pKOVI5R0ZkUGNJcGszWUQzQmo5MU1yQ0ViV1h4T3VGdkFZdEdyWmFwckw5S1VibEFld1pBLUVhU244QQ?oc=5",
-        "headline": "저금리 시대 종말…‘고금리 뉴노멀’ 굳어지는 이유 [알경]",
-        "summary": "",
-        "source": "쿠키뉴스",
-        "published": "08/27 10:28",
-        "published_ts": 1787794099.0,
-        "tag": null,
-        "first_seen": 1787850924.2336042
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 15:45:53",
+  "updated_at": "2026-08-28 16:01:21",
   "yields": [
     {
       "label": "3년",
