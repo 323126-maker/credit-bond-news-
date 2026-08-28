@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wTWh6THpDWXJyWkNHcVpVYlF5cWg0Yk9fOXJPRGFLekJiYm1NYUluODBMZGRSMVBVd2x0M0MwNWlCMHFJd3Z4Y0hkd0RKd01UWHQ1U2FsTmxfTTRoREtjSzg3dG5JTTNqaTRJSlNkZFhmdw?oc=5",
+        "headline": "[채권-마감] 금리 상승…外人 폭풍 매도·금통위 재평가",
+        "summary": "",
+        "source": "KB Think",
+        "published": "08/28 16:59",
+        "published_ts": 1787903963.0,
+        "tag": null,
+        "first_seen": 1787911239.129305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SExSdW40WHVDX3hKenh3dGNuZmFfajVwQlFHLVZWT1h1T1hMSXhSeDIzTldkaHpkZ0F4clMtWWgzaFlpd2l0cjcxLWFoNkE?oc=5",
         "headline": "[채권마감] 금통위발 강세 되돌림, 잭슨홀 경계 외인 선물 대량매도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787812200.0,
         "tag": null,
         "first_seen": 1787814925.2655632
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kR09fNzNweTI1alVMNEZsZ1FRQm5QeXVlNm9mcVRnN2dqNEtNZmpiQU1FM1pnVld0dXkwS1M5ejJLcEIybHlBVUVqWmFaVUE?oc=5",
-        "headline": "[ETF 따라잡기] 반도체와 같이 가는 소부장 \"현재는 전공정, 연말엔 소재\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/27 15:25",
-        "published_ts": 1787811918.0,
-        "tag": null,
-        "first_seen": 1787887832.4166794
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 18:45:58",
+  "updated_at": "2026-08-28 19:01:05",
   "yields": [
     {
       "label": "3년",
