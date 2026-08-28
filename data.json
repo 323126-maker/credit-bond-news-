@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBxQm90VXdGYWc0WDM4SndsU0J3UHFIcDllWGxmZlo4VklpYWRxR3NleVdwRjdTMHcwbHE3NE5MZk9KR01FRVl4cU1EdUNHMkxtVTN0QUdwOFE0ZGJsNDJkZnpIT2xHUkkxWE1leEJUQlFqYzRhR2RqdllCYk8zREE?oc=5",
+        "headline": "Warsh heads into Jackson Hole hot seat",
+        "summary": "",
+        "source": "Reuters",
+        "published": "08/28 13:31",
+        "published_ts": 1787891460.0,
+        "tag": "Fed",
+        "first_seen": 1787892327.317752
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTZMTC1DZEpFcDlweVNyX3dsTTZYQVdXc1YyeWxWVkp5eWNMUnRmYWo5WVlROWJBNWp6c283WUhUM3hsNmJYNUpzZk1kVUczeW9oTFNuVHBXM1ROUFlRQURHSGY1Q2x4MnUxX2VtdHhkWklBZmQ4N1ZfRVRWRUJhVmNQaXI?oc=5",
         "headline": "Treasury Yields Impact on Stocks: August 28, 2026 Guide",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787890071.0,
         "tag": "Global",
         "first_seen": 1787890523.2322786
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOald0XzBOS2NDblY5V3puZWhHTFNabkw5ZHBDb2t1X0pIZVJDSVdOLXNuTjdLbVNQZHFCQ2VjLXN3NjY4dUF4NGNVLVpGOXo1eXZkRGhGc2ZwTkxUazNMZjhLODZNcm9WdDctdmFuOWNLMThhWDRYU2UxZV9qSHJlUmZEOGcySDBlWUE?oc=5",
+        "headline": "Weak 2-Year Auction Sends Japanese Bond Yields Higher",
+        "summary": "",
+        "source": "Finimize",
+        "published": "08/28 13:03",
+        "published_ts": 1787889791.0,
+        "tag": "JGB",
+        "first_seen": 1787892327.317752
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaWxmYloxRWZTbDNGZmpPTy1KdlFrMXdkUEFFMmllYlhJNnNXNTkzZEUtd1JNRzJiaU94UGRtLS1Ocm5KNzUzWF9rMS1SVHIzRXNCTFpXM0xwLTZTZUFta3AxMXFKMzVYRUd5VVUzN1NVYk9Zem5aaGxIYmtrR3BwTFVILTBDUEtRTTY2R0llUTNGT0NpdC1fekV3?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787846134.0,
         "tag": "Fed",
         "first_seen": 1787846441.6256897
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPa3JCa2hPSEp4M0VWcXNpV3kzWWc3NFQwbngta2dPeENPSlBmbW1DLXhuOVJuNFN5TjBkQzc2RTM3ZWs1VlA1cDAwU05mLXRLN3dDdDFCVkVXRjEyNHl5TVdPYTNCWXo1OElfRklsc3dDSnNFb3dySWRoUXM2bnFWZWV3STJBWkVWREpPdlVCQUc?oc=5",
-        "headline": "Indian Rupee: DBS Says Yields Attractive After Sell-Off",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "08/28 00:54",
-        "published_ts": 1787846047.0,
-        "tag": "Global",
-        "first_seen": 1787846441.6256897
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNWswdzNLMldVTWdDOVpIbnJsWFlZbmVyZ3UwRnlpQVgwbnFDay1UZEdLZWJiY0NCQjcwX01UdDQyUGphc0lGcGpuVjI0S0VxZE9YRlYtSXRDOFlZcVBBS2Q2Uk5UNWpaYUpZaTFHeG0yaUd0bWxQb2VzQTBFa29KT1BCSnBIUzFpUVAxNF9paEZkOGVXNTRyTkpOaDhpaUxHeDdLeXZkelRTZw?oc=5",
-        "headline": "일본 마작장 : 실용적인 팁과 전략 - 스텝 바이 스텝 가이드",
-        "summary": "",
-        "source": "Platea Magazine",
-        "published": "08/28 00:50",
-        "published_ts": 1787845853.0,
-        "tag": "JGB",
-        "first_seen": 1787868923.7175975
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 13:30:55",
+  "updated_at": "2026-08-28 13:45:51",
   "yields": [
     {
       "label": "3년",
