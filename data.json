@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMFpfRjd1aDd6ek5Jd1E3My1Lem1aekhBSnp0Z2ktQXpzendROTVFZGRQMU1mU2xXRnljVjJ0aXg2WEduR2ZEcG0zT2FtdWxTSjNjWjNQNFpoUnJVaktLeHFzSHlRTzItb0kzZFVVeUx6RDZVNVBzbnpxQlpRV2JfUlBmSFhJMXZmNmRRYlFDckt0MUh2cE9XU1ZtY1oxNTZ0LUxtWHMzQ1BGTjlFam56NmJZdW1RWWJPTFVMOVQ0R0RNQ1FMeWtLOWRDekFOaHRUOUhNVnpfSnhNd9IB3wFBVV95cUxQY2FHY0t6N1ZuWnlfQ0lndUJHVXozRU9FeEZXYmRBWnNzR1RtUmFiQVNTcHN3bTh5eUNsNmE5TFpfbEVIWFJDdUhVdE9ONEpyLVFPVWZOaTFtSXpBNUZGQVIzWUk4bEZjam9kR3V0bVJwM1Zmck1YMTV2X29uRXRhUUVvSXlQeVBMOTZtRjgzRHhDRHZYRV91T3U2T3JRVlFSTk52V3ZLY2QxM2Q3TzgxaENjZ29sblZCQkRwLTV3OXQ3ZHdGSXY3TVYtLU5WMldvdmdGTk94eHhteEctdlJR?oc=5",
+        "headline": "Watch live: Warsh gives key speech at Jackson Hole amid inflation, bond jitters",
+        "summary": "",
+        "source": "The Hill",
+        "published": "08/28 22:00",
+        "published_ts": 1787922000.0,
+        "tag": "Fed",
+        "first_seen": 1787922925.781769
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY1laQTcwY1lVUHl6UnNmTklzc1pHZUxrSDR6eW1rNk1jVGpYckFRTGpfenVVTUxFM3RfYUh5QUVNM2t4UUc4X205S0ZCQWFuamlJVVVhUWM1R2Rnakl6OXg1ekhyUkFFb1publ85YWpBMXpfTi1FWXBZUWpRUDBDRnRad3ozLVN5Yk03ZVVzVWo3elp2dVptQ1c3aEJaNGQtT1pSZjUtZUtzQQ?oc=5",
         "headline": "The End of Cheap Yen Could Mean Higher Yields for US Treasury",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787891220.0,
         "tag": "JGB",
         "first_seen": 1787909434.1322725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRVY4YUJ4ZzJVNURSTXNoeGxlSUN5WWFkT3drMVNwRHIzdXVnTlFDajRpZm04bGRyVGZkeXpZNTYwZkdHcENBcTBoLXZTRlVoNFVwZmJXTzVFRUFKdmQ2VEZOLTc5ZkxHd2ptcGU4aXhvSE1mczNUQjM0REhFVXkxNjJULWZrZw?oc=5",
-        "headline": "그 여름, 국채 시장에 생긴 일",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "08/28 13:20",
-        "published_ts": 1787890800.0,
-        "tag": "JGB",
-        "first_seen": 1787896838.3042846
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 22:01:11",
+  "updated_at": "2026-08-28 22:15:48",
   "yields": [
     {
       "label": "3년",
