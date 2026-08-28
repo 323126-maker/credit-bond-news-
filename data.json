@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU3dEdlB6OVdwYXVJRDZfbGVSS2I3NXhvWkF6ZE0yM3ZYMUw1V0RLR0pTbG9ndUxIR2FFYVdZMTVuWWNBeHRKZXBMT3hSVVJaUzhieXdMN2Z1N3VPQ0tkWVYyWUVYWXB5bkNqNGo3bjhrMzNyZUw1V1pDUGd1ZWx0cGlJSk9iZXZFX1hWVEN3VE9NakNjRHdN?oc=5",
+        "headline": "‘Big questions’ and few easy answers for Trump’s Fed chair at annual retreat",
+        "summary": "",
+        "source": "NBC News",
+        "published": "08/28 11:26",
+        "published_ts": 1787883960.0,
+        "tag": "Fed",
+        "first_seen": 1787884231.8569415
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qQTZmZ1pLMl93WmNVS1hxTVdkaWVuTmY3WUhRSE9wSE5GOEVsTDBvajl6a0V0dVk1N0J3VGQyYmNNSi1RTE5vdTdQTmdocDlwXzlwS05Ba1k1NVk0cGx6OUdB?oc=5",
         "headline": "美 국채금리가 왜 내 주식 계좌를 흔들까[매일뭐니머니]",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1787878805.0,
         "tag": "Global",
         "first_seen": 1787880629.5140867
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRDNxVi1JMFEtQWEzTUM5TzNQTWI4Nkp5TGJIdnRpMXRUV0loNFJ3NlFvNzRxUHhHUVNyLUszYlFYYjRZVHdnZVloUGoxQk0tcEwtMGpSLUstWWdUZTRKM1p4LWxsYnZMRTFXOEZieGx0OFc4M2FUYmRaNTZXV1Rqek90ZDRqVmc2V2ZaMlZqM1EzR21oemxTaHRRVDY5T0hmcGIwVVExZWxFWXY3dFR5RXRNNkNYSUVL?oc=5",
+        "headline": "Fed Chair Warsh Heads to Jackson Hole With Markets Seeking Rate Clarity",
+        "summary": "",
+        "source": "themortgagepoint.com",
+        "published": "08/28 09:50",
+        "published_ts": 1787878221.0,
+        "tag": "Fed",
+        "first_seen": 1787884231.8569415
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAtcEV6Q0NaQ3VDUXJ6RG9lMDBQV0lzc0Z0eVFZOG9JWTBfaEhEdGd1by0xN0hPb1lJQ2FyM2p5NUszREgtdEd1SFY2aHpKeURhQ29UamxVTGxoN2pCdDc0WEpKUTA5UQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787841300.0,
         "tag": "Global",
         "first_seen": 1787866234.1019592
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVFJFWTFpNW9sV0dGNUtoNGMzTkFXc0FiNVByMmZqTWFDWm1GUWdtMXVHdEhfOGFaR0RVd19UN2tLQjc3cnczZ05KVlcwQU1jQzZDdExkSnUxc29yZXR4NEtxNWVBRXhwaUc3VkhaN185U2k0a2tjTU05N0l4alZ6d1FmOFB1RF9odldQY3NSdHU4S2N3STJRM0Y3MEVSSUNMaUNiUG1pZloxNFU?oc=5",
-        "headline": "Watch Fed Chair Warsh Has Challenges Ahead in Jackson Hole",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "08/27 23:32",
-        "published_ts": 1787841149.0,
-        "tag": "Fed",
-        "first_seen": 1787841926.0445418
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnFwTE0tWC1FMU9MNXZiLUg0UW5menNKTlFEVEQ3UHFUcWppaGxjNDVMU1N5V0ZzNGhKbXhxSlZoX09PMVhKRFZKWHhERVg2ZjRNXzhFZnZsWEZYMTVpQ2JENGFwenJIcFNLNkc3LUVkaE83a0MtRVZDZllkMS1FR3VibmJTcVlDbzBLVGgzOUlGWDdlLVd1bVlMQ01VZUZPLUd3SDBvbm8?oc=5",
-        "headline": "KSTR: Exposure To China's Chips And Potential Diversifier For SOXX (NYSEARCA:KSTR)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/27 23:27",
-        "published_ts": 1787840874.0,
-        "tag": "Global",
-        "first_seen": 1787857240.388926
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 11:15:58",
+  "updated_at": "2026-08-28 11:30:57",
   "yields": [
     {
       "label": "3년",
