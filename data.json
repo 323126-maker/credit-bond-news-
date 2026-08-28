@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MaVV2OG83U2ViRUlJUDBZU3liY1VjY2ZNNWZpeFk3S0hrUGQwQVdBLU4tbkpYMWRDSXZqUE85dF9oMHpXcndsX3NIMmY0a3pwNEFiNnI3SFVzZS1q?oc=5",
+        "headline": "BOJ 추가 금리인상 경계감에 日 2년물 국채 입찰 부진",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/28 14:26",
+        "published_ts": 1787894760.0,
+        "tag": "JGB",
+        "first_seen": 1787895036.798325
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPU21IRVg4cjZ4NTJsZXhZbk5lQWhpMFM2ZTI1LTVmb3lBTy03Y0dCWXlKTldSdGN6YU13YTllV3plWWRRXzk3OTNBR1lBa1lhd2J2M295S0h4U2F6c2FrR0FYdmJoenJVZHU1MjA0d3dTaU1KMlZVTGNRV2RKMVFBc2pRUGJGczNmbXdzeTN5RXd4ejY3VHRTVkhVa01NcE5MendNSzBZdHROck9SYnJxb29Sa2Z3LXNYSk0wNUlQVnRNQlUySV9OcFNkdHk?oc=5",
+        "headline": "Watch: Fed Chair Kevin Warsh Delivers His First Jackson Hole Keynote Address",
+        "summary": "",
+        "source": "WSJ",
+        "published": "08/28 14:18",
+        "published_ts": 1787894328.0,
+        "tag": "Fed",
+        "first_seen": 1787895036.798325
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MR3Y5TV83dnpDZjBRby1talBGQThZSTJuWjFhTVJ4MTdZRmZoVDRfck16TktvX2JpaUl1UFhES2tZeGNtRkZpQjYxNUhhSXhoS3NqbHYtRFc?oc=5",
         "headline": "슬롯나라 ㅔ이버 디자이너를 위한 반응형 디자인 실전 핸드북",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787849100.0,
         "tag": "Fed",
         "first_seen": 1787879723.2620182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOYmxRMHRkcDBpdVAtMV8tdnpGQktSZHp5NURjakNiQkotOGVpSF95RjgydHZGSEtWSnJjQjF2V1RLcG12RDVSM0t2MldrUUFZN3lXaUM2clZmR0JJOWU1bVNScDJvT2pSbVdpSTktMmJlRW8tZVl6UnRncElWSFdETENhdDFmb3YwYjhYYWVBZ1pqUUdob0dhSDA5LVBPS05OZ1pkVmFvWm1YdXVLMWdXWW9oQlhUQQ?oc=5",
-        "headline": "Jackson Hole 2026: Fed Chair Kevin Warsh Faces a High-Stakes Market Test",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "08/28 01:40",
-        "published_ts": 1787848832.0,
-        "tag": "Fed",
-        "first_seen": 1787863526.0001223
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xRUQ1Yk5XcDVkQm83YkJ2T2NvQy1QWkNZSlZ3N2xHRzM4MFNjVFIyQlZrNEdCUzNka3A3RFZKSkRKazhmdFhIQ19EVFZCTzdNMVVjZm9HLXY?oc=5",
-        "headline": "피시방 룰렛 : 흥미로운 사실과 통찰력 있는 분석",
-        "summary": "",
-        "source": "Platea Magazine",
-        "published": "08/28 01:33",
-        "published_ts": 1787848395.0,
-        "tag": "Strategist",
-        "first_seen": 1787849127.2382402
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-28 14:15:47",
+  "updated_at": "2026-08-28 14:31:16",
   "yields": [
     {
       "label": "3년",
