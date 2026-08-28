@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB6N2FMbnRvTUFiSUVkQ0RaTXF5dTFPTTZZYmZQMkwzNTFkQzUzaExoX1pmZmVqMWRVT1M2VEY0bi1jdGJKX0JpcmVjRzN0b1BtTnRJ?oc=5",
+        "headline": "S&P 中 국가신용등급 'A+' 유지, 경제 회복탄력성 확인",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/28 17:48",
+        "published_ts": 1787906880.0,
+        "tag": null,
+        "first_seen": 1787912122.363619
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9wTWh6THpDWXJyWkNHcVpVYlF5cWg0Yk9fOXJPRGFLekJiYm1NYUluODBMZGRSMVBVd2x0M0MwNWlCMHFJd3Z4Y0hkd0RKd01UWHQ1U2FsTmxfTTRoREtjSzg3dG5JTTNqaTRJSlNkZFhmdw?oc=5",
         "headline": "[채권-마감] 금리 상승…外人 폭풍 매도·금통위 재평가",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1787903963.0,
         "tag": null,
         "first_seen": 1787911239.129305
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vemhITGVrLUhMNWdnU1NnUEdReGhCQ1lvZXB0UlVxVEQ2NFhSREFlbElYelF6RGpuWkI1NTZvRTVsUXloM2YwSHRydjZyYjdlbmZCbFhWZXlvU1pMcExTV2I1VUxObEJwX0FkYTNwZjYwZUhmX1pPLTdzbHpKODDSAX9BVV95cUxOb3poSExlay1ITDVnZ1NTZ1BHUXhoQkNZb2VwdFJVcVRENjRYUkRBZWxJWHpRekRqblpCNTU2b0U1bFF5aDNmMEh0cnY2cmI3ZW5mQmxYVmV5b1NaTHBMU1diNVVMTmxCcF9BZGEzcGY2MGVIZl9aTy03c2x6Sjgw?oc=5",
+        "headline": "한화리츠, 회사채 수요예측서 4,750억 몰려…리츠 시장 신뢰 회복 신호",
+        "summary": "",
+        "source": "데일리스포츠한국",
+        "published": "08/28 16:59",
+        "published_ts": 1787903959.0,
+        "tag": null,
+        "first_seen": 1787912122.363619
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFB5SExSdW40WHVDX3hKenh3dGNuZmFfajVwQlFHLVZWT1h1T1hMSXhSeDIzTldkaHpkZ0F4clMtWWgzaFlpd2l0cjcxLWFoNkE?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1787813402.0,
         "tag": null,
         "first_seen": 1787883329.9584794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1nMEpoZ0hSaW9taWE4RDNMUXF0U1BTVmFoRDVUQmJ6bVppc1haUmlDLUdzSDQ1cmxoRlNxLWJnMG4xS1VpWUhyVjZfVUJlSVFIbEF3?oc=5",
-        "headline": "IMA 시장 가파르게 커지는데…회사채 시장 조용한 이유는?",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/27 15:31",
-        "published_ts": 1787812260.0,
-        "tag": null,
-        "first_seen": 1787813123.7651837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9BVkkydVF5cmwtcEtGLTI3UjJEcmhybW90VVNrUVdOOE8td05tNC14REtiNEpDeW1jZEJOT2RtY09IRG5wa2xCS2tLNER0RWFfVzhON1h6WFVueGxSY1ZaQ3k2ckNzNWxC?oc=5",
-        "headline": "한은 '선제 인상' 통했나…채권시장에 번진 '속도조절' 기대",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "08/27 15:30",
-        "published_ts": 1787812200.0,
-        "tag": null,
-        "first_seen": 1787814925.2655632
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkMWNralVvOWJKOU81M2c1UlF4YlNzSEUzanFPWjBZb085elVMbWFsUjV0amktNkZrNUtsOERwbGdqRUlNSFdleFBJYTJpOEFFUFFycThucG52dVJGS1JpMDFmODdPRDBwSmRsOTdDOWRpWk3SAXdBVV95cUxQclZKYWNzdzAtVHZ6WFFidEd5b0NQTEZaWlk0X1BRRGpVYllfYVNWWWREMDJ2QmU0ZlJFV3pfZExKZEhCX0ZqZnVfeGdPaTBYNDFLRnNFRkpSWEpaWWJObm5GZmxNRjFUbjZTNzJTVDZvR2l2UURzQQ?oc=5",
+        "headline": "여전사·저축은행 조달금리, 기준금리 인상에도 안 올랐다",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "08/28 15:54",
+        "published_ts": 1787900073.0,
+        "tag": null,
+        "first_seen": 1787912122.363619
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpWTNGcFRMVUFIV2xObHJ6OVlMcDNZLVRnNU5XMncyMVJWS2xva3kzOVZXZDhIZklCTDF6NjEzdGp3M1BYRFFsOFhKVXJNdzZoZmMzZDNB?oc=5",
         "headline": "다카이치 “추경 의존 줄이고 국채 발행 억제”…확장재정 속 건전화 병행",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1787734501.0,
         "tag": null,
         "first_seen": 1787741124.612055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBfcnlJcmZXdUJ5N3h4b3NSUWlHN1RVcmRYUUJJSHl0ZmN6NVBGSnhBSmJfQy1WMHRlTXVOTUVYa3hOTUMyenFNLU9iN3VsSXBJTUFN?oc=5",
-        "headline": "靑 \"국가채무 다 갚는 것도 책임성 맞지 않아…적재적소 투자\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/26 17:48",
-        "published_ts": 1787734080.0,
-        "tag": null,
-        "first_seen": 1787734840.8550344
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5Sa0ppMUNnMnVPNVg4LU1HaDhVREloNzNieU9LWW9nbnVEdm5NZFJIaXB6RjV4bWY4ZldvWFdZeEdWQW51VFBrVGlNMWRqb0dnbzNZMmt5RFB0bUF4NnBHNWRBSG80VmdDUHFoV1U5M3dJNkHSAXNBVV95cUxOUmtKaTFDZzJ1TzVYOC1NR2g4VURJaDczYnlPS1lvZ251RHZuTWRSSGlwekY1eG1mOGZXb1hXWXhHVkFudVRQa1RpTTFkam9HZ28zWTJreURQdG1BeDZwRzVkQUhvNFZnQ1BxaFdVOTN3STZB?oc=5",
+        "headline": "취업·주거·자산 한번에 챙긴다…정부, 청년 재정투자 '43.3조'로 확대",
+        "summary": "",
+        "source": "뉴스웍스",
+        "published": "08/28 17:42",
+        "published_ts": 1787906541.0,
+        "tag": null,
+        "first_seen": 1787912122.363619
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIMlZvQTQ3R0kyVWZXdGMzUnZZVlpOQ1U3eXRTY29TZVRWdjZnWHZZUDVqVlNTdWRkUXExcGRUNUNjbmViU1g0cDlxNkM4U0ZDSWtjNWhFVDhqZzlsekZPZ2xtcjBxTnpjRzh4N0poNHU?oc=5",
         "headline": "이재명, 민선9기 단체장에 “지방정부라 불러달라”…재정·권한 확대 예고",
@@ -1596,19 +1606,29 @@
         "published_ts": 1787623260.0,
         "tag": null,
         "first_seen": 1787625034.928018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XcXpvVXQ1UTdpbWYxaklIOG1uaFQyNzR2X2hmLUN4eVZYSnpER2gwRzJYTllmZGd2YWhVOWNLbGlBVWhUNWFOcDZzbkNjOXU3bFRmXy1yNGZVeFVTS0Y2aV9CQkM2Rm4wNnhqelZSZG4teTloM0RZ?oc=5",
-        "headline": "이 대통령 \"내년 예산 편성, 눈 앞 재정수치 관리에 매몰 안돼\"",
-        "summary": "",
-        "source": "OhmyNews",
-        "published": "08/25 10:53",
-        "published_ts": 1787622780.0,
-        "tag": null,
-        "first_seen": 1787624127.167258
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRE5ucEtIcmkzQ200Wmw2ai1ETUdqVmNSV0Zna0M2ak0wSi1xYlBYTTdGYnhUM2JSZXdLU1Z2RmdjbjlMYUROSHM5eHVtc3BvTDVJaU5fSzRCWldNWnA4M3pkaFpQMHhZOUstYlZaMnVrbExLMmF5SFlyZGxiS0Q2RHdZX0ZIbVlTYzR2OU9XdlBXZ2d4RlFWZXhTaUpXRE1JOHVtRTFmU1l6cnZjN3N6VThOeFh5QjloMzdOZENRZWJEazllOE9DdQ?oc=5",
+        "headline": "Nvidia Holds Up The Sky. Central Banks Buy More Gold",
+        "summary": "",
+        "source": "The Tech Buzz",
+        "published": "08/28 18:21",
+        "published_ts": 1787908903.0,
+        "tag": "Strategist",
+        "first_seen": 1787912122.363619
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE10U2lHUHZKaUc5M3FwWWsxZFBScDF1WHQ3T0U3SjZzZmRULWpqNU1lZ1pBU3NNSEcyZDBCOGF1OU9RR214UFE?oc=5",
+        "headline": "엔화 약세에 물가 상승 압력 커지자 …日銀 9월 금리 인상 확률 85%",
+        "summary": "",
+        "source": "매일경제",
+        "published": "08/28 17:56",
+        "published_ts": 1787907384.0,
+        "tag": "JGB",
+        "first_seen": 1787912122.363619
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzcTB0VkJsdVhRcjRFazRJWF9nSDZxUEZ2V2loSFZHWHlJblFMQ0RDV3VLdkVlYnZSNVBKRnBxMWFJZU5ybWtIengzdW9kX0dMal9FYTViMDFXS0s1b2VDT0UtQ1ZTYW96andBUTR3?oc=5",
         "headline": "미국 국채 금리 충격과 부채의 늪에 빠진 주요국의 경제위기 2",
@@ -1618,6 +1638,16 @@
         "published_ts": 1787906750.0,
         "tag": "JGB",
         "first_seen": 1787909434.1322725
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQa3oxRmlWS0NkZWFqTWpCaklRS0pwYV9sMFl1ZGRGRnhZRGRVSHFveF9iR3RvS2stSWdfNlBNbDJIS3ZoSzJWdEluMVI1SVJfbnpMdEZLRl9tMTVpRkI5OENUOWxrR2I2b014cFZCQkp4RjRDVTZfbTR3UUZlSkpzWnVIb3ZNTDQ5UmJ1QnhKTDV6dktpR1o1aVdJUVdpME5MNzl0ZXBnTzBGMU5YY1oxX0R2NFZRZUtTMlFwc3FLWi1VUjFucm1SVDJUY25DRGlDaWJKOFBLdEdNZ9IB3wFBVV95cUxPaU9GYWRXWENucVB1dXZ5M1dSa3F4MjVCcTNLY3lheHZqWUZubkJzUlJoRGRLbTZEeWI1TUs2ZFRqUk94VTNWcDFGbWxhMTh4WHdYRkxqYXRTeHR3akZLVENrdy1Tcmh5OGpyMFNwTHppWFM2UFRrYXVkaURaUWdPSXdGZHZtRlNnazVJdTdpM1Nrbksxb0hKQzlnV25rZm8wTmxXaF81OXdrdFBnRDZJVGVuYnpVYVhxT09MZXhZLVdMRkl0VmRoUndqV2ZyVTMtU3ppZGszajc4T0lQX3JV?oc=5",
+        "headline": "Shanghai plans subsidies to kick start dormant offshore debt market: Report",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "08/28 17:07",
+        "published_ts": 1787904435.0,
+        "tag": "Global",
+        "first_seen": 1787912122.363619
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbjF5NXdpa2tQQ1M3clJsek03MERfTC1DMk11UkJzS09CM1RDY0pTTGwxUmtEdzFKSlNHM1dlN2VkZWxWUk5zekxia0pOOGQ1cTJURGxVSzI4N3Noamh4WEVvZHNuQjg1RHFVQlhiUGtLZDF3QjNVVTZwS25NU1NkMHlfOA?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1787866440.0,
         "tag": "Fed",
         "first_seen": 1787867125.0006816
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOU0p0MVA5azdNY2U5S1Jwb09fcFR0X0dXV2s3aThQZFE1NVN1VVR3bW44ZjRJSWlyZEhsbF85WWRTT1U3dWpyM1BPRnpUTWZYUGk1bDkwZ3pnN0xzazRnaWJIREtaaDVMNHhRUkYtRTFHSUMxTGFDU3JnMGdSeGN0T0F4al8wUFN3LWZ4V094ZTktb3ZSbnZpOXRtdzQ4R2x0bGFqb1cweUQ?oc=5",
-        "headline": "\"The New Fed Mouthpiece\": Bessent's Frequent Interventions Test the Boundaries of Federal Reserve Independence",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "08/28 06:31",
-        "published_ts": 1787866307.0,
-        "tag": "Fed",
-        "first_seen": 1787895924.7199037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE54M3FzeEZSam5qRWN5d3Z3SlFqVjF1ZE5DRU9zbmVPQlNyZjlhNjV1WWNJbkNrSkt5V0xWRlBpQkRaUXM3N1N2TFE2YXZaOTlPQmxXRXVsaDNXR2h1V2NNWmNjMGgtZTNZNlU5RV9yZEZQLUtQb0xMX0N3?oc=5",
-        "headline": "小臺指期W News | TAIFEX_MX2W Real-time News & Related Reports",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/28 06:20",
-        "published_ts": 1787865627.0,
-        "tag": "Global",
-        "first_seen": 1787893242.7937372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUDRuNGtXTmRkTTA4am5PY1p1aFhDcVBDcGdJbmxoYzU2NlZGSzE5cURKdUZZa0JtdWxCRnpIYzJHLVZTenE3M0ZXSXZaZW1UcW5jeHV0bW1wcGlqSjBSQU9YV09CMEtyYmVnS3FkSzNfUHdFUkJQMDBhNmdSTnlXekNjUHJBR1ctWThPREpzeXZOOEdmM19leVdZNlZGVE80RGgycGtfcXRybG9qcGV2QzJuVnJNTzJRY05tejRWTQ?oc=5",
-        "headline": "Fed Chair Warsh Speaks at the Federal Reserve Bank of Kansas City",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "08/28 05:47",
-        "published_ts": 1787863623.0,
-        "tag": "Fed",
-        "first_seen": 1787870725.241575
       }
     ],
     "watchlist": [
@@ -2020,6 +2020,16 @@
         "published_ts": 1787904350.0,
         "tag": "우리지주",
         "first_seen": 1787909434.1322725
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1IVUtrT2tZbEtldDVuNFBPTlhrTDN4MkgzVWxEQ0NMTXBSZmR2dngzMVQtcmIwaDRXa2lLMlR3VjdlRTQ?oc=5",
+        "headline": "한화그룹 선제적 대형투자…미국에서 판을 키우는 이유",
+        "summary": "",
+        "source": "주간현대",
+        "published": "08/28 16:40",
+        "published_ts": 1787902800.0,
+        "tag": "한국항공우주",
+        "first_seen": 1787912122.363619
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCV2xycUdjNjJMUG5udGdIYVRwSmZaRUpGRC15SG0wSi1UcUxoeC1aeFpacW1wWUtUbGxwb3h6U2VwWmdkSXRYTy1Bd0NFM1VrdEZrMTRsckUwLWJtZ2tuTGp1UQ?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1787625281.0,
         "tag": "신한지주",
         "first_seen": 1787873430.912479
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UZDVGUG5Za0F4YzNuOVpadkE4M2VPa3ZrM2ZPV0dHdW1tdTBGcDNzSFczakIxdENRblh6dGRGZFpQYWtYZVR2SXZLTlVkYmdsTXBzS0tlXzlfd1lCR0c5UQ?oc=5",
-        "headline": "수협은행, 신보와 비대면 보증 연계…소상공인 대출 간편화",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/25 10:28",
-        "published_ts": 1787621280.0,
-        "tag": "수협은행",
-        "first_seen": 1787679925.996671
       }
     ]
   },
-  "updated_at": "2026-08-28 19:01:05",
+  "updated_at": "2026-08-28 19:15:45",
   "yields": [
     {
       "label": "3년",
