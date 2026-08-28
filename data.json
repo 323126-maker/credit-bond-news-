@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tTldsQXB4QWxaQ09Hc0VDeVBka3hMdUdjMXhRcnhDeFdmUlQ4empQRTFTRlExTVBReE5yVEVQVjJyNEpHb2RjYTQxX2xNbWpsc051NlM3MUsxQVJ1V3pjb1JlSDQ4WGNJOXExaHlR?oc=5",
+        "headline": "무디스, 세네갈 신용등급 Caa2로 강등...디폴트 위험 증가",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "08/29 06:05",
+        "published_ts": 1787951100.0,
+        "tag": null,
+        "first_seen": 1787951737.136508
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9POHZyZGRCMU5KUi1CaUt2ZkMtTmhhS0Z1N1Q2THJzTWRBYm1sU3Jxc1FZYmFzZ3hWVGdabnJhTDVqZzgzSGp6QW5Tc0R5Mmg5QVlJUk1tZjhfT0NJUGlDYg?oc=5",
+        "headline": "美·유럽 다음은 아시아…'85조원' 프라이빗크레딧 시장 뜬다",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/29 06:01",
+        "published_ts": 1787950860.0,
+        "tag": null,
+        "first_seen": 1787951737.136508
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1FT0Y3Mi1walY3Qy00WW13bEc2VVdBb2VnU0pyQmNpdnR6WXFJNXZ1SVZWV2hBRkdUNFBUdkxFMllxODYwZ1FidFZOSHF3Y2RjMDBmMVZEU0JsT2piMUFva2RUSVJBRnpUeV9nbFlxVnR1dw?oc=5",
         "headline": "[뉴욕채권] 2년물 급락 속 베어 플랫…'결자해지' 워시에 9월 인상 우세",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1787833346.0,
         "tag": null,
         "first_seen": 1787833835.8276768
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxPSnRoemtZSFpoVVlKUFM3bm1IdXJWa256cTlRNk9sams4QnY0RF9KTFVEMmpFRldCTXlKVzV6cDJzNk55S28tcXctOHJhdUhBUEp3MWVaSVhfSUpYNTR3Q3BGaVFiVl84cVZ2WVM0dzNXR1YwNDBoelNJbVVJYnRCbzBUNEpmLU9OaTJZNFZGU0pfajJMdmEyd083TV9uN2Z5Wjg2N2tTaFBlVlB5Z3Y2bERUQmhfREI5VnJraGJ3ZmFKdW5LY2NrZFgtWnVUN1puNjVHRmF3Rml5bXJabkdyM195R3FnU2RRU3ZYTmdPYXNLdW9ZbTM0b3VYc1IwYmJXd2tUekM1LWpqbi1ieU03anRJbkw5Ykx1M0hka3FwX0I0XzR6eWpZb3Z1ZkI5dnl4LXczT3dvdl85NVpHYkM2T3lWZzBBbjZpM0dTYnRsQ3FzX3hQMDl4RXJwRlZfRldobHU2REtYTTlDUnlHRVF5U1R2bTdyTDU4X3V6T2EzRWwzQU1ndG1ocElnay1GTmxoN0VxeUZPSGVDRWExTHpRckMxdFFER3JQMklzOVFUTlZnYmRyRnYw?oc=5",
-        "headline": "바이비트, nOPAL·플룸 ‘블랙오팔 볼트’로 기관급 실물자산 수익 상품 확대",
-        "summary": "",
-        "source": "Yellow.com",
-        "published": "08/27 21:03",
-        "published_ts": 1787832200.0,
-        "tag": null,
-        "first_seen": 1787832924.8491476
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CODloc1dacEpWUF80ZWZmNnR2TUFTZjlLcUhTVEstTHJkNFFqcXVGNzBZTWNURTFNejRJbmRKT1lCRE1yekZZN0tqTDNwWkVzV1NCX0Z2Nms3VzBnVmtOTnRpQkJHWTJBb1NmYkdVaw?oc=5",
-        "headline": "메타, 원화채 1조 원 조달 추진∙∙∙AI 자금전쟁 한국 상륙",
-        "summary": "",
-        "source": "리드경제",
-        "published": "08/27 20:51",
-        "published_ts": 1787831490.0,
-        "tag": null,
-        "first_seen": 1787832040.858295
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 06:01:18",
+  "updated_at": "2026-08-29 06:16:05",
   "yields": [
     {
       "label": "3년",
