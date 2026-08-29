@@ -1750,6 +1750,16 @@
         "first_seen": 1787950840.88516
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
+        "headline": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "08/29 04:11",
+        "published_ts": 1787944283.0,
+        "tag": "Fed",
+        "first_seen": 1787964325.291854
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ24wcVhhUlBSVllteUlHVlh0OFRvMDJoLUFMbkVUbk04V1BaUE5ha2RtLVJ1VXVSVG9LVC1FeTJDUzFVYVlyQ1k5RGl2TG5saG8xMFJkTVJQLXk0SEhCRFYzc1ZzQ051TzE1UDlLUVFMVlB2Z1JfQ1Zqenl0Q2JkQUV6d2FRRTdvN1NIYUJJQmhzQklpQ1l0TlhpazU5c0drcDZ6dXBXcnBQVmh0eHdZaWNEUkpkVGlI?oc=5",
         "headline": "Nasdaq 100 Update NDX Continues Moving Away from the 30000 Point Area",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Politico",
         "published": "08/28 23:05",
         "published_ts": 1787925900.0,
-        "tag": "Fed",
-        "first_seen": 1787927431.8174474
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fU2NrT2pZRFlPeVdhWDNtNHZDNHJCa3FaZ0xXQnE1anlRRFNvZFVlZWRYdEV4cFkxSlU5eUZpMkZodXRPTjNNOHRJd3N3YjBWdkdYbi1sNi13Yk9fcDZaX0hmTTBoRGZJdlVBU0VxOGp4aTFNa1M0QVAwNmJ1QQ?oc=5",
-        "headline": "Fed's Warsh: Interest rate increases in play if inflation doesn't fall",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/28 23:01",
-        "published_ts": 1787925683.0,
         "tag": "Fed",
         "first_seen": 1787927431.8174474
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 09:30:58",
+  "updated_at": "2026-08-29 09:45:47",
   "yields": [
     {
       "label": "3년",
