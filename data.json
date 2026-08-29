@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZkxSQnpUWlRQenBzLVdKbG8zc0Y5bUxfODRlNzNMbzFhcG9DbldFRTExRGZLeXNxbUFHbjNGYy1salJOd0xUbzQzMENDZWQzWjhlMW5UWnJiQVhFWFZqcE1MSXd5QktuUE15aWpBYzRvSXZrMG1tTzl0MjVreF9CYWkxQTZXWmI2RG1kSmdhUjlvdUxkRmJwOWVndnZtR05nRlctb0Z0UE81OWRVSFdN?oc=5",
+        "headline": "Key Takeaways From the Fed’s Annual Jackson Hole Conference",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/30 03:27",
+        "published_ts": 1788028022.0,
+        "tag": "Fed",
+        "first_seen": 1788030923.7026043
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5BcW82NXRFQ05ob29FNHc2RDhRb0ZQN0tuLTVHUXphejVLeGM4QnZsaC1HT255Y21zUF9hZTVBXy12cUlWTEhUYnNvN0lCYi1tMU83SVM3WjVJUklRdHExaE93Wm5GQWlROENkQzJaa0xXNlYycEVUWTJYcWhZUQ?oc=5",
         "headline": "High-yield bond ETF USHY offers 6.9% yield but faces risks from low credit spreads and economic downturns.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787957820.0,
         "tag": "Fed",
         "first_seen": 1787962531.518635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0WHFlajIwaXl6a200VnVyRUhOX1ZFSWhoRHk3dE1TU1E0YlFwR29na2pJZzMzc1ZXelhlaV9ScGZvWC1rdDhBMzlxaE1GZ21LMUozQTl1UkQ3LUtTNlNLaG02VXZ3cG1MU3FMX0tfelRLZw?oc=5",
-        "headline": "국금센터 \"日 장기금리, 상당기간 높은 수준 유지…재정·수급 따라 추가 상승\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/29 07:40",
-        "published_ts": 1787956800.0,
-        "tag": "JGB",
-        "first_seen": 1787958040.9225016
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 04:01:01",
+  "updated_at": "2026-08-30 04:15:47",
   "yields": [
     {
       "label": "3년",
