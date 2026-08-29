@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1KQW9zYmpIM2F0WTNtaU10QXBQRnVRY2FhVlM4T21iWHctc1FTaWJOZXBCbUtodGsyc1I1UUhKSzU1Y09wYldPVS1RQnlpOGZLVFhzdnpCMUJ6YnNsSVlfdk15Z2o3YnpKSERJZDZIT1NHZl8zVEhFRg?oc=5",
+        "headline": "통화·재정정책 엇박자 비판에 靑 \"정교한 조합\" 적극 반박",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/29 17:33",
+        "published_ts": 1787992380.0,
+        "tag": null,
+        "first_seen": 1787993126.2541635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NaGpUZno3M0F5eXRFd0RUU19oMlNwM3k1NWhCdF9oN240eWxlNnZxZUltZ3N3RFdpR2RrNmRNaFZqUE9pamdYa0dhSUU4UmpvYkZvMlNlZndxSElpYVZrR2hSZl9YemRsdW1ueENGN0Q4M05SZXFDWg?oc=5",
         "headline": "통화정책과 재정정책 충돌? 류덕현 \"엇박자 아닌 정교한 조합\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787670060.0,
         "tag": null,
         "first_seen": 1787898204.64429
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Cc081V1FGaFZlTDF1dWVRV0ZoRzNNeWV3MFg1U1NGRTlDeEJTN1JyTzhnRzB0ZkhtSjNKV3M2YlJ3SUxFSXUzVDZxTVpHUmNTcGZ2VUxIcEtvemtGazZfNE1FWQ?oc=5",
-        "headline": "이재명 대통령 “늘어난 재정 여력 미래에 더 많은 열매 수확하기 위한 씨앗으로 확실하게 삼아야”",
-        "summary": "",
-        "source": "시사뉴스",
-        "published": "08/25 20:37",
-        "published_ts": 1787657824.0,
-        "tag": null,
-        "first_seen": 1787658328.5478072
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 17:30:58",
+  "updated_at": "2026-08-29 17:45:56",
   "yields": [
     {
       "label": "3년",
