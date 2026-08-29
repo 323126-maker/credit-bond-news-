@@ -1408,6 +1408,16 @@
         "first_seen": 1787886039.2152157
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5LaTNUdGlnZkNfSGhwWTNhaG9fTDRxZ0VRRmZBcnpSdXBtUmRQNlB4TlhjM3lLclQ4YmY1WWFuV3lJWHhrc1Z4REEyaXI2VjRjeHh4LS0wQ3pSb2RGaFlOUEFoQ25CNmJl?oc=5",
+        "headline": "李 “지자체 아닌 지방정부”…분권 이름부터 바꾼다",
+        "summary": "",
+        "source": "OBC 뉴스",
+        "published": "08/27 16:45",
+        "published_ts": 1787816729.0,
+        "tag": null,
+        "first_seen": 1788007525.631875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DV1Z4V1BmNmd2dGVZSmNLM2hUVWRXa2FValZjME5rRHBQSjBhbklVS2J1bXRmZjRDc2t6VWlTVEhPU0owQ2pkQUFLeFNIaTk5YnNB?oc=5",
         "headline": "[속보] 신현송 \"백투백 인상에도 국채금리 하락…시장, 긍정적 반응\"",
         "summary": "",
@@ -1436,6 +1446,16 @@
         "published_ts": 1787774400.0,
         "tag": null,
         "first_seen": 1787943640.7644308
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9NMzVUT05TcWZEMmR3cGhMa0xVUURES24wT1pPRkZSZGNTMENCYmM4b2N5d1hpR3cxSHVZTF90NmxGM2R5eWp2cWJBQ0tfcm9kTkJoQkhSVHF4bHQ0TDVVNlBJdTFMcU84SHBJU1g1TjlaejB6?oc=5",
+        "headline": "동남권, 조선·우주항공·원전·미래모빌리티 성장엔진으로 육성",
+        "summary": "",
+        "source": "부산일보",
+        "published": "08/26 22:36",
+        "published_ts": 1787751383.0,
+        "tag": null,
+        "first_seen": 1788007525.631875
       },
       {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZFZaWFpCZXlveVpHOXVPd3lUOXFuTTNUektSdXRvNlo5SWwyWU1GYTV1QkhyM0libzZQdVRzakxyWUZMUm14cTY5c0NIUG1nZVdVR0RqOUlJRGpTb0xJQXVfNk5KTUZ6NWxpSUtQQVJWc0d1bUZiNzJhak9Ub2Q0aV9YSkNDM2otbm4ydWpOTEE?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1787684100.0,
         "tag": null,
         "first_seen": 1787689834.5587468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TWjNzeFpfZWtHZTdXR21nbVRZaDBwQnFGRm5IcTlCZi1sYkpSaHJtWVFMck9XUkFmb2k1eTY0V0FnOFM5MWF2eHJ3?oc=5",
-        "headline": "이재명 대통령 2027년도 사상 최대 예산 생산적 재정 극대화 강조 \"미래 재원, 생산적 분야 투입…수치 관리에 매몰 안돼\"",
-        "summary": "",
-        "source": "국민뉴스",
-        "published": "08/26 00:53",
-        "published_ts": 1787673180.0,
-        "tag": null,
-        "first_seen": 1787898204.64429
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJczRQem1CSE9Dc1M3S2xaaHpQMWRsRUZ2dWRkQVYxSERkNUhNQ1ByX2QtNzJrV2hLSHZmWFhoU1RFMmZLNFlrN05MVURTVnc3QVBIRkE5V3lua1JLQVFyeXhndXpUTVUtT3VkM2RB?oc=5",
-        "headline": "[사설] ‘800조+α’ 슈퍼예산, 과잉유동성 촉발 우려",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "08/26 00:01",
-        "published_ts": 1787670060.0,
-        "tag": null,
-        "first_seen": 1787898204.64429
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 21:30:59",
+  "updated_at": "2026-08-29 21:45:49",
   "yields": [
     {
       "label": "3년",
