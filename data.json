@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmJFOVJqR0lyY2Q3UnkyQjg4WUwzckhMVm4wMUJmMU1XNGhENkp5dkcxNXhaOHA0WWtVS2gyX3ZNcDFETDZBVDV4UVdMWUhvemlKZ0NfeElsSnZycFZBQm9oTXlvS0pYR1pRcHYxYnZreDdjbXNaYS1ZS2tHN2lhT01UVS04X2prd0c0YkJxeDkteGM2cFNqWDhPdlZWbms5S3o4LUp6ZDYyTk53WjJ5R19nWQ?oc=5",
+        "headline": "부실채권 비율이 7.5%를 넘어서면서 VietCredit(TIN)은 충당금 적립 비용과 서비스 손실로 인해 상당한 압박에 직면해 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/29 23:18",
+        "published_ts": 1788013082.0,
+        "tag": null,
+        "first_seen": 1788024632.3700893
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lYjFhTmlBc2paNUIwMzZEZlpjTTQwZEI0OENDRW9kYjZ4NnRyVFV6RDlJTVZ4UGRiNHp5Y0JNcjlwWlphVTM1LWF4ZFdIN2ZXbzNDMW9hdVZqUmh0MEc4NQ?oc=5",
         "headline": "[김남현의 채권썰] 산 넘어 산…매파 워시, WGBI·외국인, 내년 발행, 넌펌",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787876159.0,
         "tag": null,
         "first_seen": 1787877029.1359534
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSk5yNlNxQ3NHVmhnXzYzTzRIbi0xT214M2loS3pjZGVGX3MzNmdoSm5zX3JjWkNJaWg5NzFOMTN2OEdGZEEtZVpOYWpOQzZQWGdIUnh5V2I0Z05XQ1pQUEdidlB4NEh1d1ZEN1R2RklsNEpLT3VhcS1GdzhEYnBFcEswZ0psWFFCVmo1Z0p3OA?oc=5",
-        "headline": "삼양패키징, 2년만에 공모채 시장 찾아…만기도래 차환 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "08/28 09:09",
-        "published_ts": 1787875797.0,
-        "tag": null,
-        "first_seen": 1787881523.4818714
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 02:15:49",
+  "updated_at": "2026-08-30 02:30:59",
   "yields": [
     {
       "label": "3년",
