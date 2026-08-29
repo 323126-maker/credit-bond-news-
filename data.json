@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFZNdWRDTHJlNWtIaUE2ckkycUtXUWZoU29wanRaLWdkZlEyN3FVSDdHTkY3cFB1MWxCZlZDQ2lwc2NaUXdQRGd3WEl0Vkw5emFpZEZFeXBlZkJMNmxjNFA2QWRTNk9KdmUtd3MwUEtJWnR3TlBvLTR2ckd3eDRnc2VXdjBsT253cTFJSlM1NXpHR25CQW9Kdzlack1tYWc5VEE?oc=5",
+        "headline": "The Bond Vigilantes vs The Bond Bureaucrats",
+        "summary": "",
+        "source": "RealClearMarkets",
+        "published": "08/29 17:06",
+        "published_ts": 1787990783.0,
+        "tag": "Strategist",
+        "first_seen": 1787991322.5927558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdHNRcWtaSG9HSGJmUlBmeVZBMWhQMGpWM292T1I4MjVwZkZMQW1JOFB3eVc3dTlObFFhaWYxa05WclFrajJ6U0U1ejd3aG5ycnV0elJRdFhRQkl6R0RwZDVlaElrOWZ2M3hoMjJfUFVrSERLVzZVS3hXakNaQXRNb2VYRVNHUm1nWlVOWlROWFBaR2V6cVhoV2pFVzdPUDM3Q0EtWW8zRWxwdzhOOGMycUY0dWZwVWRPNVBqLVBhNG1mUQ?oc=5",
         "headline": "Iran War Reaches the Bond Market; Japan, Yen and US Debt Markets in the Line of Fire",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1787988987.0,
         "tag": "Strategist",
         "first_seen": 1787989524.2624753
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMHcyMXljdHR6VWVkNUxrcmNiNXFuLXR2VF9MRlBkSnBBS191N01Ici1IMUljVVBLbUk2Nm9sdnZMcExGN3AyTW1yZVpHRXUtLWxJMTZtM3V3QUI4MGxsSUY1cU9MT1hrUFNJWVY2c2pmRlU4c0J2X050NVhmM1Jsek1VZHlVcVJMZFREZ3ZnT1hGWTZBUUE?oc=5",
+        "headline": "India's bond market is too passive for its massive needs",
+        "summary": "",
+        "source": "IndiaIPO",
+        "published": "08/29 16:20",
+        "published_ts": 1787988047.0,
+        "tag": "Global",
+        "first_seen": 1787991322.5927558
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdVUwSnNaal8zMEh6YjFMcUEzOEFGekNaeTFIdm5kdDRzc3lyNHduZnRucFV2ODUzXzZBWnFkbXRwT0ZmZEhRczZKSWU3WTBrNWQxbFJDc2tEOW9zak5TNnBMdjdELUR4dG5HeWI2OHREYWhfQmVTd180cHhJWHI0Yzd3UDE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1787937134.0,
         "tag": "Strategist",
         "first_seen": 1787939126.695328
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUFN5NlRqb0JLQUN0ZE1DandadzU1RDRnUVdLM242VWVsaHhzWDFLSHgzRGxDa2pTcnNkZGZFUXVzMWRyQWdvaENKYk0yQmM1ZVotX2UtUmpDaEhBQnNibi10S1R0LVl4c3VJLTRXbXNqS1hOR0FVSFlsbHdfM0dfQm45dW9QUGRfaGNpcnpVdUplU3U3TWRpSw?oc=5",
-        "headline": "1 Chart Shows Why You Should Buy Stocks, Not Bonds",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "08/29 01:32",
-        "published_ts": 1787934720.0,
-        "tag": "Strategist",
-        "first_seen": 1787935529.4866383
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5fU2NrT2pZRFlPeVdhWDNtNHZDNHJCa3FaZ0xXQnE1anlRRFNvZFVlZWRYdEV4cFkxSlU5eUZpMkZodXRPTjNNOHRJd3N3YjBWdkdYbi1sNi13Yk9fcDZaX0hmTTBoRGZJdlVBU0VxOGp4aTFNa1M0QVAwNmJ1QQ?oc=5",
-        "headline": "Fed's Warsh: Interest rate increases in play if inflation doesn't fall",
-        "summary": "",
-        "source": "Axios",
-        "published": "08/29 01:23",
-        "published_ts": 1787934204.0,
-        "tag": "Fed",
-        "first_seen": 1787971523.3622668
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 17:01:01",
+  "updated_at": "2026-08-29 17:15:45",
   "yields": [
     {
       "label": "3년",
