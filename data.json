@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9NaGpUZno3M0F5eXRFd0RUU19oMlNwM3k1NWhCdF9oN240eWxlNnZxZUltZ3N3RFdpR2RrNmRNaFZqUE9pamdYa0dhSUU4UmpvYkZvMlNlZndxSElpYVZrR2hSZl9YemRsdW1ueENGN0Q4M05SZXFDWg?oc=5",
+        "headline": "통화정책과 재정정책 충돌? 류덕현 \"엇박자 아닌 정교한 조합\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/29 14:31",
+        "published_ts": 1787981460.0,
+        "tag": null,
+        "first_seen": 1787982323.143715
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAtMV80SngyMUVBRHZFOGxkazRrTFI5MjBXYjJUNEFVekdOUXJndkpua1JCU1BIcHBkdEotTUhBWXhrdDFua0UzQzZUOWo5ckxfRlo0aEJ6dUp4LXpKU0RjZUZrRUo3QXVP?oc=5",
         "headline": "비트코인 8만달러 다시 붕괴…연준 의장 발언에 위험자산 주춤",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787657824.0,
         "tag": null,
         "first_seen": 1787658328.5478072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1DYWJ5NnRmbkpTdEQ3M2ZsUVlUTnIyUTJIRFlwQ1NhQXl6aFJBT09xbWRzX2swVy11dEx4cmhBYWRSYU9hb3RFNjI2aThDQ0xyNml3Tm1XSdIBVEFVX3lxTE5JZUxoMFhFM0tZcVlEZVFHOS1TTlhHQU11UjlBLTFjZUlhWE8yUkNXdWpTcHBqYlVXU05zRF9zejUzOUFXcHdlTGo3UGJhTjBNa0IwcA?oc=5",
-        "headline": "李 “재정관리에 매몰될 때 아냐” 생산적 예산 강조 [2027년 800조+α 슈퍼예산]",
-        "summary": "",
-        "source": "세계일보",
-        "published": "08/25 19:01",
-        "published_ts": 1787652108.0,
-        "tag": null,
-        "first_seen": 1787898204.64429
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 14:31:12",
+  "updated_at": "2026-08-29 14:45:46",
   "yields": [
     {
       "label": "3년",
