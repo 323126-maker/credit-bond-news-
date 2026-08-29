@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lYjFhTmlBc2paNUIwMzZEZlpjTTQwZEI0OENDRW9kYjZ4NnRyVFV6RDlJTVZ4UGRiNHp5Y0JNcjlwWlphVTM1LWF4ZFdIN2ZXbzNDMW9hdVZqUmh0MEc4NQ?oc=5",
+        "headline": "[김남현의 채권썰] 산 넘어 산…매파 워시, WGBI·외국인, 내년 발행, 넌펌",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/29 21:26",
+        "published_ts": 1788006360.0,
+        "tag": null,
+        "first_seen": 1788006632.0425856
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YWWZoS3lHaVVqOF9YRHRiNFVSTkFHbXdxNGRKTm5PVEczUTN2QmxRUC1oN0lXbm9lamZ6Y3lrRUdRRFgtbTJSNGJXY25mT05WekE?oc=5",
         "headline": "“이탈리아보다 프랑스가 더 위험하다”…뒤집힌 유럽 채권시장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787868300.0,
         "tag": null,
         "first_seen": 1787904924.3281941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PVmRSNklVT0J5WURyOGExclhUcVBhVTlfaVV1dG1VMVBtZW53NWcwUFlRcklhaHljM29kUTBhMElkTmg2bXpNODRodDdFanYyUklKLTlnQ1BJeU1DNG40dlBfeUZXaElrb3NYQTM5NmU?oc=5",
-        "headline": "[뉴욕채권] 국채가 약보합…잭슨홀 경계감 속 유가 반등에 약세 압력",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/28 06:43",
-        "published_ts": 1787867039.0,
-        "tag": null,
-        "first_seen": 1787997634.1708958
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-29 21:15:49",
+  "updated_at": "2026-08-29 21:30:59",
   "yields": [
     {
       "label": "3년",
