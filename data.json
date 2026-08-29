@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9pNktuQlgwVHhZeDU2dy1rU1VSOVhXNzlOZlJlbmxhTHJISGc4bW44c3p5elhUaG1iRnlMTFE1VXgtRmtGM0JlTA?oc=5",
+        "headline": "Markets",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "08/30 05:05",
+        "published_ts": 1788033927.0,
+        "tag": "Global",
+        "first_seen": 1788039030.8001707
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeHU5cHRhN1JHMFlyU1ZSbzNVQXVDNzdxMTVzUVlHcWFWazVjcnhwejlnaF9LZHB2OER6OUR6d0ptRW81YnA1MXcyV2tnQjhkcUJuWGM2d0VYUmVEMTZRV09jSldnSzRzSHFLNFQza1RvejVRbExlOTg4TG1DdmlKM1AyblRSUkxzZ1Z3a0VGdnBQYXdxUjEwMUtRTGY?oc=5",
         "headline": "How Fed Chairman Kevin Warsh course corrected after a ‘confusing’ debut",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787961660.0,
         "tag": "Fed",
         "first_seen": 1787966123.926076
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQaDFpTWxQbW1YQ0U3M0pkd2xDc0F4UUJSYTZmTjc0VUthQ3YxLWhoa3pjU2tvaDdYVUtXNTkzQXIzb3VpaVpYOTZHREtWSllxSXJtM2ZyTWVoNDdLZHp4bmRralNuWkRiWWtXR1BaSHlEU1l1ZTk3MXVpaDNHMUN3RHVaWlY4MkJDUjNQSTQtbTRza0NxMU9JQ2tSbUdNaUU?oc=5",
-        "headline": "Fed chair Warsh, concerned about inflation, says bank may have ‘work to do’",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "08/29 08:58",
-        "published_ts": 1787961492.0,
-        "tag": "Fed",
-        "first_seen": 1787967041.1414695
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 06:15:47",
+  "updated_at": "2026-08-30 06:30:57",
   "yields": [
     {
       "label": "3년",
