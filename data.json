@@ -22,6 +22,16 @@
         "first_seen": 1788093035.8395963
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9mdFBrNnBFbUhiLUwtR1lFUHBEYjBaVkdhQ1NOZC1oeGF0S3JtU1pHX1cyRGowSkp2TGlKRTZ4eEplSEZRcHVJTjU4UXVKVWc2QTdjTWRaRENoTkwxa0Q0OGQxeFZNd29SMEpEdUVKQ0YySVV5OVdQT19GWEZrcE0?oc=5",
+        "headline": "[뉴욕증시 17일] 연준 금리인상 전망에 주식·채권 동반하락",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "08/30 18:36",
+        "published_ts": 1788082608.0,
+        "tag": null,
+        "first_seen": 1788106526.508582
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1veVRoMWJZOWU2cmlFNTFQTGhYbXdDalAzd1RkQkVlVHN6RnkxSXZCenVYVXNzNkl1OGR3N25KN0xhSEJpWEwzcFF2NjZlT3BWem5wbnlBVi1oTEJQMEtUSUZWdjQ?oc=5",
         "headline": "금통위 연속 금리 인상에도 크레딧 ‘캐리’ 부각…발행 회복은 미지수",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787903026.0,
         "tag": null,
         "first_seen": 1787903125.64174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5hVEYtWmJVUGY5SFRTTlR0bkhGNTNpelRqVXdHb0I4QWhOWmRpZE5Xa1VDRFlFWktZcjNnaVBNV2l0RkhyZ1RJeXp3emNsMUdfTWc?oc=5",
-        "headline": "국고채 금리 일제히 상승…3년물 연 3.788%",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/28 16:40",
-        "published_ts": 1787902813.0,
-        "tag": null,
-        "first_seen": 1788077723.8668478
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmpnbDlrUFF4ZkFHUjRGemlrR2FnTi1VcU4yVzlIZHlaaThhTEtUc3dpWFk3cXR3a3RWZ1JwaHI2cm01UmZzUWdlcmd5TjltYW5pamtDeGV6MzJVeHdCcS13VmhQQ2xGMDBWWllZaU1MdE5uNGdzbkdfRHFGZVllZlhUaHp0R0dabFdia21NMUxLQ28zbDNvQ1dpVnRBOTh0NDJLLUVGYTZ2U2hMQWt4TE0wblZoSHpXbExCVFJJNGY4MzFfakVJ?oc=5",
+        "headline": "Hubbis Macro Corner: Treasury Intervention, AI Financing and a Broader Risk-On Case Reshape Portfolios",
+        "summary": "",
+        "source": "Hubbis",
+        "published": "08/31 01:01",
+        "published_ts": 1788105668.0,
+        "tag": "Global",
+        "first_seen": 1788106526.508582
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2hQMVU1T3FSSXR5a1ZHRnJiSm5KWGdCRlZFNWFWM1FYM0lQQ1ZqeUwwTFVJeUd0UXYwYWFqU1NHWG5Jd0x1SEdEeDFnT2ctNEt0d0p1am1HbzJPUnRHcWFKcWdZLXluN0RWWkViNFFvTHZqQ2RWUDlQZkZzRXgxTXM1R1FuVUFMdW14M3JuUjN1NkRpM0g1d1JNd0kzUVk?oc=5",
+        "headline": "G7 Bond Yields Surge to Highest Level Since 2004 as Debt Bills Balloon",
+        "summary": "",
+        "source": "Startup Fortune",
+        "published": "08/30 23:14",
+        "published_ts": 1788099240.0,
+        "tag": "JGB",
+        "first_seen": 1788106526.508582
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ0Uxcno5VTZLV0pHNWxrQmRhcUlVNURWU2FwN1Q0bWowWVAwVmpuZEhrdDZYdFI5b3hqcjlSXzNOOVJvVHZXeERRZDIwMGllZUQwRUtLck1aVHBmNzY3R0FCcG83dWFTdmRRV21HdGJDZlBiYVV0MmV0bVFtVlZVaQ?oc=5",
         "headline": "다시 긴축…한·일·유럽 이어 美도 금리인상 임박",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788048379.0,
         "tag": "JGB",
         "first_seen": 1788048923.5909595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE13ajhwLWhhZW5ibHdlclZDYTBFRXBadHpXaHhTVXNaMzJKQWFkbk50aF9OMnliMW85aHNlN2JqT1IwUHhKZkN6Ml96RzN3LUNlbnVhWUtVUVg2d094eE1OdmRFR0l5NG4wMkk3dg?oc=5",
-        "headline": "“AI로 썼다, 부끄럽지 않다”…월가 거물의 도발에 갈라진 두 신문사",
-        "summary": "",
-        "source": "월간조선",
-        "published": "08/30 08:06",
-        "published_ts": 1788044767.0,
-        "tag": "Strategist",
-        "first_seen": 1788046233.6473575
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxON3hMRThhZTRRbkZZMUpCREptQkw5VXpOQ2k5eUVkblBTUjlQZHZud1dmZ2ZsMkFOcFBvZ1NBUTZhNjVHRi02anFKdU50VDVqZjd2NFBzOFVrb01jbTZQc1dBS2tpX215M09yNFBiRURiM3ZCaGpWOE95WHFxTFh0b3dsLXhubVk?oc=5",
-        "headline": "[김대호 인물] 케빈워시 잭슨홀미팅 \"금리인상 발언 충격\"",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/30 08:05",
-        "published_ts": 1788044744.0,
-        "tag": "Fed",
-        "first_seen": 1788088524.6105046
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 01:00:59",
+  "updated_at": "2026-08-31 01:15:54",
   "yields": [
     {
       "label": "3년",
