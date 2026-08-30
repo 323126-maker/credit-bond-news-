@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1FWDczcS13MkZEejlpQXh6ZnhxX1ljeVNvaW9TVm5pc19wMVloajNpckhnVDlMMW5wY0NFM1VILVZSNldDSm9laXJ3d3VkNUdWTGlJaHBkdEVJczBJSTBVbFpUS01hS2cza0HSAW5BVV95cUxQY1dUVVUweTJfUFB5UDR5WUhYaW5NQklZdGFKNjd2T0RsQllJYkdJNHcya0xlSG9IcUd3N0dTQ1FyaFR6TGw1YThQZERZdVN6VXJtRWsyRVpUMW5nY2xHYVBlUXpNZlRVdmwzMDZhUQ?oc=5",
+        "headline": "롯데그룹, 1.3조 자산 매각에 수익성 회복...재무개선 전환점 마련",
+        "summary": "",
+        "source": "아시아에이",
+        "published": "08/30 08:50",
+        "published_ts": 1788047400.0,
+        "tag": null,
+        "first_seen": 1788048041.3125024
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KSHNRRXdlZHoyb2swZTJ3ZXRZSjFEV1dIS0h2Q25ZcDFVNFM4LTMwYkczNkhuVXpaNi1jaW1NbFJkQzgtbnRKRWVzSjc4dHlyeWhIZU9lbWdxclRjeUdYU1ZnMGRQdVZUTTBDZUl0Z0ZBdw?oc=5",
         "headline": "9월 차환 시즌 본격 돌입…증권·금융지주 발행 잇따라",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1787695200.0,
         "tag": null,
         "first_seen": 1787695787.6702101
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51V3U4OXRhdnpVMWZyT2htdl9aS2dQNVh1amgzVDE3UGtDMENYZGM4SDh6ZXc5QW9PenItQ0JmT2ZJbzRLTG5rSmE3dzhSMXBSRkVkY2EyeFdkcjYyU2I1cTlRMWxBdW1lYU5NaE5SdDM?oc=5",
-        "headline": "스탠다드차타드, 10억 유로 후순위채 상환 예정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/25 19:19",
-        "published_ts": 1787653140.0,
-        "tag": null,
-        "first_seen": 1787653833.451636
       }
     ],
     "policy": [
@@ -1700,6 +1700,16 @@
         "first_seen": 1788012923.5959506
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1VU2hPRHMyZEY4V1l4bzVEcmo0ZUhIX2VXRmdUc0RJQ3hBTm12bnFOX1lYS283TmRmcTYyZ3lwTUstVEhmSG1EUC1tdGtYa3lucklTX1ItQzgxdFpq0gFcQVVfeXFMTVVTaE9EczJkRjhXWXhvNURyajRlSEhfZVdGZ1RzRElDeEFObXZucU5fWVhLbzdOZGZxNjJneXBNSy1USGZIbURQLW10a1hreW5ySVNfUi1DODF0Wmo?oc=5",
+        "headline": "국제결제은행, 스테이블코인 통화정책 의제로 올렸다",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/29 22:28",
+        "published_ts": 1788010131.0,
+        "tag": "JGB",
+        "first_seen": 1788048041.3125024
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNXzlzWmZxaFk3eXFkaWF4UERIcWZ3X0cwRDR3WGw3aEpWYnZucTIwRDRWbjVaRDR3c2U4M21nRS03VWNJQWE0UWQ2OGFTMXl3dnN2UUczNXZZbEthdE1TU0N1NXhkVnNlZ0R5OENZVzUwTUxVbWxQcDd2d0tjVXRfQjlCUXM?oc=5",
         "headline": "Warsh puts Fed on collision course with Trump ahead of midterms",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "블루밍비트",
         "published": "08/29 09:58",
         "published_ts": 1787965098.0,
-        "tag": "JGB",
-        "first_seen": 1787966123.926076
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52Rk9NTlgxRVFZVGR3SjNlTmRNWXNfNkhjYjhIaWtBRkk4WTRTeDA1TE44MmlJRUtnd20wWUcyTFgyUUxVWFllWjdRam0wMDJaWEdJ?oc=5",
-        "headline": "미 재무장관 \"미 국채 금리 상승 막으려 엔화 매수 개입\"",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/29 09:56",
-        "published_ts": 1787964960.0,
         "tag": "JGB",
         "first_seen": 1787966123.926076
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 08:45:58",
+  "updated_at": "2026-08-30 09:01:06",
   "yields": [
     {
       "label": "3년",
