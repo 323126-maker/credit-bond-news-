@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG0wdDVjT2hoakV0Wm5xc2UtRTBXRzJmWjBPc1RlZElVRUtTbGdwNjlHSGdPT1JxMTBnaGlGVzZ6T3RaRUpZVTlBdXJDaEh2Mi02SG5SSFJ1TnRGSUMwZ3l6SXUwanc1bUxhTi1rV1NSczVwM0p3a1VRWmRaSGxsdVVpUTg3S0UxME9Nel9RRWQ5LUg4UXBjY2JkNXRBSURhVENIaGFUV2xOUGxsYl9xaA?oc=5",
+        "headline": "Global Bond Selloff Puts Premium On Selectivity, Morgan Stanley Says",
+        "summary": "",
+        "source": "BW Businessworld",
+        "published": "08/31 02:12",
+        "published_ts": 1788109938.0,
+        "tag": "Global",
+        "first_seen": 1788111036.5130186
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmpnbDlrUFF4ZkFHUjRGemlrR2FnTi1VcU4yVzlIZHlaaThhTEtUc3dpWFk3cXR3a3RWZ1JwaHI2cm01UmZzUWdlcmd5TjltYW5pamtDeGV6MzJVeHdCcS13VmhQQ2xGMDBWWllZaU1MdE5uNGdzbkdfRHFGZVllZlhUaHp0R0dabFdia21NMUxLQ28zbDNvQ1dpVnRBOTh0NDJLLUVGYTZ2U2hMQWt4TE0wblZoSHpXbExCVFJJNGY4MzFfakVJ?oc=5",
         "headline": "Hubbis Macro Corner: Treasury Intervention, AI Financing and a Broader Risk-On Case Reshape Portfolios",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788049024.0,
         "tag": "JGB",
         "first_seen": 1788049829.4331286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0JLU250N0QzOFJuX2tadGtMVGQ1dkxScW9NRC1BRXFFRkNCdGRKOEQ4Z3l6YWtyUXRGUVJVMzBhcEZkQlYxZkdyYlpYUzZ6LW1Hd1ZXdE9JU1BTeXF3MWZEcjl5bVdPWnJ5RHMxeEItaUVkamZPSXkzd1R3N2s1NFhsM1puTHdm?oc=5",
-        "headline": "트럼프 인하 압박에 맞선 케빈 워시… 9월 베이비스텝 시사",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "08/30 09:12",
-        "published_ts": 1788048771.0,
-        "tag": "Fed",
-        "first_seen": 1788092124.3113344
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 02:15:50",
+  "updated_at": "2026-08-31 02:31:06",
   "yields": [
     {
       "label": "3년",
