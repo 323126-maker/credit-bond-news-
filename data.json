@@ -362,6 +362,16 @@
         "first_seen": 1787921127.194286
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE11Vm1jSHE2MjkzaUg5VDNmTVUtcEF0MWFELXhZRzhZekFqQ3VKUkZ2NkVnWEE3RXBLZzZ0NUhmNkxYMUtLMkducWk2ZTQzSERyeXRCNHhEdmt2LXJLYTUzSXoxcFdwamZVQmVPVkZvY0s?oc=5",
+        "headline": "[채권-마감] 금리 상승…外人 폭풍 매도·금통위 재평가",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "08/28 18:59",
+        "published_ts": 1787911164.0,
+        "tag": null,
+        "first_seen": 1788126326.1343212
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jNTFkY2pqbWhtcTdoR0hlZER3ZW1mQnV6cndoTjl4YmlJQ3RKYmxyckU2bDM1QkdSeDU2OGR1REttUE1HY0Z6T05FNE5LbWhEb0pYejI1VklodklqVTNjbjBFTjhHNXlJaGFtVXBqNEw?oc=5",
         "headline": "[외환-마감] 수출업체 달러 매도에 13개월 만에 최저…1,370원대 초반",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787906880.0,
         "tag": null,
         "first_seen": 1787912122.363619
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPa0p1ZFNveTVzeGV0akZicDkycDBIaVBBQ0cwYnprSjk5bHZCM0VtaVB2aFM0WGlxUU44SXRTZFFiRUVhTlVQc2NFd1JBUWNoRUpoWWxwUnhhUElUWVpGNFRVX05HUzVKb2JJNWZOUGzSAXRBVV95cUxOekFXSzVYNWNsY2JMNWNMN2paN3kxUHItXzd0N1BRdUM0YW5kQkt6dFNFODdsOVZTbTRWYkRGMEc0TkZrc0h4VV9RTG13OGhTQjZINFVpWlRIOXU2cVh5Z21iZXhVQU5VbmZSTXRqLXVtUnc5bA?oc=5",
-        "headline": "달러-원, 1,372.50원에 서울장 마감…종가 기준 작년 7월 24일 후 최저",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/28 17:30",
-        "published_ts": 1787905834.0,
-        "tag": null,
-        "first_seen": 1788125853.6081057
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 06:37:56",
+  "updated_at": "2026-08-31 06:45:47",
   "yields": [
     {
       "label": "3년",
