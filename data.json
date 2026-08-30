@@ -956,6 +956,16 @@
         "first_seen": 1787821239.872083
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Jcjg1NkdZdUFNZlkxcTZER0FYS3hfVHMxdWxjLWNtQjhqUnMxdHRVV2taZVZfM0dBQjFLdlI3VExGNlRLbnV6MVRvZ3AwRlg0Yk9rVQ?oc=5",
+        "headline": "한은 백투백에도 채권시장은 ‘안도’…“10월 쉬고 11월 인상” 대세",
+        "summary": "",
+        "source": "이투데이",
+        "published": "08/27 17:05",
+        "published_ts": 1787817900.0,
+        "tag": null,
+        "first_seen": 1788051636.553326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBBM3pkOGZnNDVCMUg2LWgweWd1U2xSWWprTC1rUzh6a19lcUhsWVNkMVN1b1BPMVpXMzNXVFIxeXFtVlJOVkF1VkNvTU5TcFU?oc=5",
         "headline": "한은, 관례 깬 기준금리 '3%' 인상…채권시장 충격 막은 묘수는?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1787736993.0,
         "tag": null,
         "first_seen": 1787737524.6382875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5Yd3RwV21icUh0aUg3ZndldTFxRk13TEpWNWF3TFBsMlVkVjdPM1hpUjA2SXdPZGg2RTU5bmQ4bkhJclV2ZWwyZm1FTFdudVFCZnlrWHhrTW1wVmNq?oc=5",
-        "headline": "靑 \"채무 상환보다 미래 이익에…국회가 기금 심의·통제\"",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "08/26 18:31",
-        "published_ts": 1787736710.0,
-        "tag": null,
-        "first_seen": 1787738419.8150632
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wV0tGMXA2aVFzektDYzh4RlV5bVo4YmNsc0lLZS13N0VpTUhEQzRpRUZjdUFDVzNXZ1UwQjRsS19UN0pmeFlJbGVrYWVkMzYycGdJdHl3?oc=5",
+        "headline": "주간 금시세(금값) 전망... 금가격 폭락했는데 월가는 “오른다” 베팅",
+        "summary": "",
+        "source": "위키트리",
+        "published": "08/30 09:45",
+        "published_ts": 1788050700.0,
+        "tag": "JGB",
+        "first_seen": 1788051636.553326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalZEazdHNnhzSWUxVk40eDBXRHJKY1JfZ2RLT3ZXblpiOW0tOGIyamhJcjI2U3pDa2FsQTBLc1VYTHc2T1FYNTIwTWROUUh3Y3lGVUVRYUM0b1A0LVpuaUpwWmZfSlViNkE1c01HdTU3a2ZSV1d5OG1zekpqbmVaNnlFSVZUZTRQ?oc=5",
         "headline": "\"달러당 164엔 추락에 초강수\"… 日, 엔화 방어에 '사상 최대' 965억 달러 투입",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787969666.0,
         "tag": "JGB",
         "first_seen": 1788002124.225334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYTZZNzJZWm9SM0w5R29zVndMREZyOUxHMnF2WmdIRW50RklOOVdnbnFCSHQtZ0lfVXBubzQ2UjlJY2R6MDdrdFIxRDNTLTRrSGVSZ2g3LTVQeXlGM21VTGc5VWZ5WDZpYlNjWkpTYjljb0ZMNHF0OW9fUzR1VHFPcmRTQWR3U0ZUV3VySUE1ZW9hRGFUSGg2X0h1TURFdUM5S21MV3YtcGNlNFBFWUJoT3NseDFocVU?oc=5",
-        "headline": "Bond market may be pricing AI productivity gains as yields rise: JPMorgan Private Bank",
-        "summary": "",
-        "source": "WTVB",
-        "published": "08/29 11:10",
-        "published_ts": 1787969453.0,
-        "tag": "Global",
-        "first_seen": 1788044440.0956392
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 09:45:47",
+  "updated_at": "2026-08-30 10:01:15",
   "yields": [
     {
       "label": "3년",
