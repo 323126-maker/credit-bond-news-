@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TNTllZnBxVk5oWmxYU3lfQUFNQWxrWmk1ckxVWEJSeVNBaUJDbzhHY3R4b1ZrQmdzZXVRbEYycFk5cFFzMjhtUjY0NFM4Y0lBcUVvcVZLUjU?oc=5",
+        "headline": "이재명 정부 2기 개각, 친 디지털자산 정치인 발탁…혁신 기대감 고조",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "08/30 16:27",
+        "published_ts": 1788074820.0,
+        "tag": null,
+        "first_seen": 1788075036.8049185
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWlkZlVkcjc3ZUNocGM1ejVyVWhpaUlQMkpKdDJRTUdpVGxWbXM1NVkycUxKUmNqNHl6d0tZLW0yZk1VVmQybkc5RWtfVkZMWFNzSnJ0VGxXM0xFMnlsS0ZNSURLMWxmTmwzOVdVdmUxUG9HZVRWbkRmeGg4Y1lmNjBwQ0JVRVpqZENWZlhjZUVPQ0ZGTm9KQm1R0gGuAUFVX3lxTFBUbm9wTm9aRVhabXFMaXdta3ZRdkRhRl85TzU4WWlxZXBwVXlGX3J6XzE1a0pLZUtydGdqMVZabFpEYzVsSWEzdFhQemtCa2FaTFZJNDRoNW9XaHZCLVI2dXdoRUx2RjhMbUNHd3FQQ1JRcG9TSWNLYkozWm53dEVJRXdqRXZRbVgzSzBGUlJCZmJES2RRcUtFNGxaeVVLNlhFNkgtYTRaTjYzTkF0Zw?oc=5",
         "headline": "2년차 지지율 30%대…국면전환용 개각카드 던진 靑 - 조선비즈",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1787736008.0,
         "tag": null,
         "first_seen": 1787896838.3042846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNEpFV2xIRDA5NTRGaTYtX3EwV1FLMldsVlRsM3BoN0o4NkFRTkstMUwtYkg1MThBbWtENWtnUmd3bGppM1NOeTBUdU5iMmRscFktQVRFS0xoUWJ6Ym9keldya3JlT0lPVTA5dFZ6TzNZajhwTlVQVzJnZ3lWOWhLNQ?oc=5",
-        "headline": "靑 “국채 발행 널뛰기, 안정적 채무관리 아냐”…'미래대응기금'으로 완충",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "08/26 17:18",
-        "published_ts": 1787732284.0,
-        "tag": null,
-        "first_seen": 1787732534.055855
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 16:15:50",
+  "updated_at": "2026-08-30 16:31:00",
   "yields": [
     {
       "label": "3년",
