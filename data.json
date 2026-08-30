@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4xaGlNcGxIaUtBUTktR3hFTE1fU1FpRnFlejJmdXVLUERqbEVxZjQtdFdkZTB0bEJyY2Q4b203S182LS00OVFjd1NIYlUwd1czdFgxZFZqQdIBXEFVX3lxTE05WDRaaHZuVkxiMDhFM1JQbDExb1BHMmQtN1BpeGFLM05tQTdiM0pfbE90UFJ1Y0U1dmlWLTNNVE5rODBFS1g0SEhXUzBPMlNHdVM3eXk3T2V4WXhX?oc=5",
+        "headline": "40억달러 바이백, 미 장기금리 신호 흔들었다",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/31 03:54",
+        "published_ts": 1788116041.0,
+        "tag": "Strategist",
+        "first_seen": 1788116437.0032446
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcFFRelBmYzZaeGhuQktOMnpPRDZpNnN3MDNvQWowQkRIMmRGamhBNElJYmRYdzZRdlo3QkJ4MHdtZFBCYWxwZWIyTlRzSnhWbElQRUJ6bjFraVM0LV9YeWVSWm83cUJDa0xuV0dxY1A0NmVqRHU5NlNiQmRGMWtkNnFPNDUyQ2RVaVp6R2ZFdkM5RnZISzI5Wjg1ZXdZRUIwMy1HaXpaWDBnclJlQ2IxWjFpTkJoQWVrZTRMZnFPTFJwQzdZ?oc=5",
         "headline": "US treasury relies on stablecoins to fund short-term debt, but they can’t fix its $28B long-bond problem",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788054300.0,
         "tag": "Global",
         "first_seen": 1788055236.8931403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLTjM5WlREX2laN2dMLXBaN0MtVTEwMFZ5eHhKQjFkRXhFdFpiaUZ1Y0czaC1WNTRXdXRxRDZnM2huVU1CSFJxRDZNZDk1blJrQ0MzLWIySTh4WkowMVpiel84Mzl0QTJXZVh1NNIBbEFVX3lxTFBLTjM5WlREX2laN2dMLXBaN0MtVTEwMFZ5eHhKQjFkRXhFdFpiaUZ1Y0czaC1WNTRXdXRxRDZnM2huVU1CSFJxRDZNZDk1blJrQ0MzLWIySTh4WkowMVpiel84Mzl0QTJXZVh1NA?oc=5",
-        "headline": "베선트 \"엔화 급변하면 美 금리까지 오른다\"…'26년 만의 개입' 이유",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "08/30 10:34",
-        "published_ts": 1788053641.0,
-        "tag": "JGB",
-        "first_seen": 1788058835.5486317
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 03:45:52",
+  "updated_at": "2026-08-31 04:01:00",
   "yields": [
     {
       "label": "3년",
