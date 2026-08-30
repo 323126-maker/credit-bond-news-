@@ -1620,6 +1620,16 @@
         "first_seen": 1788106526.508582
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jNFJoOVZzX2lHWDNZbkZyV3pYZExCRnZxSTBoX1hGNVExVVpIZUZqczV5b0xRSUgzMkNEVjM5WTJjYWI1LU1WME9GbW9uQmZ5dlJpZ3NnYzBHT2piYVJ4YlhzVHlXUE9rNDdZMU5iN0RuY2MyMFE?oc=5",
+        "headline": "Fed chair signals rate hikes might be needed with US inflation still elevated",
+        "summary": "",
+        "source": "Taipei Times",
+        "published": "08/31 01:00",
+        "published_ts": 1788105600.0,
+        "tag": "Fed",
+        "first_seen": 1788110126.2321496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR2hQMVU1T3FSSXR5a1ZHRnJiSm5KWGdCRlZFNWFWM1FYM0lQQ1ZqeUwwTFVJeUd0UXYwYWFqU1NHWG5Jd0x1SEdEeDFnT2ctNEt0d0p1am1HbzJPUnRHcWFKcWdZLXluN0RWWkViNFFvTHZqQ2RWUDlQZkZzRXgxTXM1R1FuVUFMdW14M3JuUjN1NkRpM0g1d1JNd0kzUVk?oc=5",
         "headline": "G7 Bond Yields Surge to Highest Level Since 2004 as Debt Bills Balloon",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788048771.0,
         "tag": "Fed",
         "first_seen": 1788092124.3113344
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IcGdRQWFFekQ5UVVTSUJrLTU1bjF3Qm95cWt4djdXb29QRlBuOUtDTDh3QlBrZzhPMU9hRWpTNnF5c190Y3ZmSHhYVzdzX1BoaEwyRHdIb2xJYWR4NmVuTjBzR0tVRDdMM1V3?oc=5",
-        "headline": "베선트 미국 재무장관, \"엔화 시장 불안 미국 국채 금리 인상 가능\" 엔화 개입",
-        "summary": "",
-        "source": "미디어데일",
-        "published": "08/30 09:06",
-        "published_ts": 1788048379.0,
-        "tag": "JGB",
-        "first_seen": 1788048923.5909595
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 02:01:01",
+  "updated_at": "2026-08-31 02:15:50",
   "yields": [
     {
       "label": "3년",
