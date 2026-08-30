@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRGtDbkRCSzRKSUxoSkFBM0xWMHBXVXVsWVQzZXlvdWFNZEhkZWlPVF9Cdi1ILUlydzd1dHNkMjRjNUVQa0FDd0tqNnJTd3FtT09EVXN4QVFCdG9KTmYxNDF2T0x5akh1a0V0ejZ1RHJlVmJHYmJpQTl1aUhYejlNTTJMblE0b1pzQ2ktUHZyVUx3dTlta3Y0WUhxbnhlUGNLSzN0Y2Fn?oc=5",
+        "headline": "VIB는 수조 동 규모의 채권 구조조정을 통해 자본 확충을 위한 주식 발행 일정을 확정했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/30 23:44",
+        "published_ts": 1788101053.0,
+        "tag": null,
+        "first_seen": 1788101126.2727604
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOXBabG5GblNOVGJ3aFR6eWZrZXFIZENxY1VaWFpaYTVjOE01QlpqWk4tNnlrUkloS0RyYk5JMnQ1TnZRN2FyUGgxU3BZcXR2dV9sU1czazlTdmk3VFBQWFNQazFpTmMzNlVvMU9tTlRJa2Y2TWNaUUhWX3hkRnQ5d0gyYUFBTndjbF9uWnpTc0staUl1dk5lTjY4Yk0zU1FOR0ZsbWVXVmhhUVVXQkk5N0VOcXlIS3dQTVlCWWpXTnY?oc=5",
         "headline": "8월 30일 마감 은 가격: 시장이 금리 기대치를 조정하면서 하락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787902813.0,
         "tag": null,
         "first_seen": 1788077723.8668478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1MVVNqYXp6MTVqTnkzMWhBWHIwZDYxa2VtcExOdFJabld4Rm82bGlTYmVKY3dkb2U2bHpFbFFqc1RxMExJZEZkZEw1RXBuWTZzYzFrNXhvRS1DWE1ONmhJ0gFkQVVfeXFMUFU3OUtYMmFETEhSb0Z0VzROSGJ1LXVZcm9xVENCckhqV3R5MEw3Y1BnZlRjVFJCcGNlQ3FSRjV4NzJBdGFOTkozQUxfMDdIVjQxX19SblV4MjRKVlAzZlE5UTN6Zg?oc=5",
-        "headline": "美 채권금리 다시 압박, 외인 1.7조 순매도…코스피 6780선 밀려[시황종합]",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "08/28 16:30",
-        "published_ts": 1787902218.0,
-        "tag": null,
-        "first_seen": 1787904924.3281941
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 23:31:04",
+  "updated_at": "2026-08-30 23:45:48",
   "yields": [
     {
       "label": "3년",
