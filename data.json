@@ -42,6 +42,16 @@
         "first_seen": 1788069637.713648
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUm80bkw4ejNheVBleDZqMDhibEZDdUUxaTFuWDM2R0VYOGpwQnRCNW5sUkpNU0Y4ZS13c3hhWEYyRTZCZG9JeGctdS1BUFU?oc=5",
+        "headline": "국채 이자, 딱 정해져 있는데…왜 ‘국채금리’는 매일 바뀔까 [최소한의 금융상식]",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "08/30 09:03",
+        "published_ts": 1788048185.0,
+        "tag": null,
+        "first_seen": 1788074125.7453856
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBPRGtiZ0ZYYXg0MVJvRC1xZUJjcXBvbWpEZlZjdzFBQklJeGFwUWt2WE9IeWM4OEttQ0FWUFoyTUpmZm5NdHc1RHRrSHQyY0hEV0RUWVc2RkJyamJtblhDbQ?oc=5",
         "headline": "월가, 미국 국채가 회사채 밀어낼 줄 알았는데…현실은 반대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787900586.0,
         "tag": null,
         "first_seen": 1788049829.4331286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZjdRODRwU0FwemlxemxwRE5yeEtITFNwbzBMNmxIQUE5d2F1MkVzLUEwT050bnNPcnBkRnpEcjZldTFqOG43NW1NMDBpeS1waUdJ?oc=5",
-        "headline": "[기술과 쩐의 전쟁] ⑩'추락천사' 문턱 오라클 해부…3가지 취약 고리",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/28 15:45",
-        "published_ts": 1787899500.0,
-        "tag": null,
-        "first_seen": 1787900437.223632
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 16:01:02",
+  "updated_at": "2026-08-30 16:15:50",
   "yields": [
     {
       "label": "3년",
