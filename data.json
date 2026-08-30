@@ -322,6 +322,16 @@
         "first_seen": 1787902231.7561963
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wSDBOa1hPTWJHOGZDeklCUXdBenZ2MUF1V2ZxVjB4bi1JVWlDWDJVeVFkQ2NMRmlNaVFQZll0QzFxM3p0LTl0aWJXUWFQNE13UC1VZkZONzJ4R2xTTzh1ZTJwdjVtcXhkX1N3eXloR0zSAXRBVV95cUxNY2lCX0V1RDd2SkpLczNSdEhDV1JGMWwxeWhuUk85SjBhN096YmJTWDFXblowbVI3LTZXSXZ0SzlrazQzRWc3Y1o4WTVCRUtBeURRSEZXdlNGVnBTNFo0OUFDU09nZE1Eb09FMmk5THZ3aXB1VQ?oc=5",
+        "headline": "KGM, 1545억원 CB 발행…고금리 빚 갚고 신차 개발 자금 확보",
+        "summary": "",
+        "source": "IT조선",
+        "published": "08/28 16:03",
+        "published_ts": 1787900586.0,
+        "tag": null,
+        "first_seen": 1788049829.4331286
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sZjdRODRwU0FwemlxemxwRE5yeEtITFNwbzBMNmxIQUE5d2F1MkVzLUEwT050bnNPcnBkRnpEcjZldTFqOG43NW1NMDBpeS1waUdJ?oc=5",
         "headline": "[기술과 쩐의 전쟁] ⑩'추락천사' 문턱 오라클 해부…3가지 취약 고리",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787894100.0,
         "tag": null,
         "first_seen": 1787913928.44147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE12bjZTRkVUdGdjTHJTV3pmUmpGMXhmLWhmQzNZWjNNTm1oZ1d3MzVSS1FEajlEMkhjdVlYZGpHZVhhZVlQOHlXLTJ0MzF1NkpkVHhNbkU2OXpqNml1enp2N2NYdkpSZWVYbkJMdHZTUjFhUQ?oc=5",
-        "headline": "금통위 강세 일부 되돌림…잭슨홀·예산안 대기 속 국고채 약세",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/28 11:24",
-        "published_ts": 1787883887.0,
-        "tag": null,
-        "first_seen": 1787927431.8174474
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOalZEazdHNnhzSWUxVk40eDBXRHJKY1JfZ2RLT3ZXblpiOW0tOGIyamhJcjI2U3pDa2FsQTBLc1VYTHc2T1FYNTIwTWROUUh3Y3lGVUVRYUM0b1A0LVpuaUpwWmZfSlViNkE1c01HdTU3a2ZSV1d5OG1zekpqbmVaNnlFSVZUZTRQ?oc=5",
+        "headline": "\"달러당 164엔 추락에 초강수\"… 日, 엔화 방어에 '사상 최대' 965억 달러 투입",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "08/30 09:17",
+        "published_ts": 1788049024.0,
+        "tag": "JGB",
+        "first_seen": 1788049829.4331286
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IcGdRQWFFekQ5UVVTSUJrLTU1bjF3Qm95cWt4djdXb29QRlBuOUtDTDh3QlBrZzhPMU9hRWpTNnF5c190Y3ZmSHhYVzdzX1BoaEwyRHdIb2xJYWR4NmVuTjBzR0tVRDdMM1V3?oc=5",
         "headline": "베선트 미국 재무장관, \"엔화 시장 불안 미국 국채 금리 인상 가능\" 엔화 개입",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1787969242.0,
         "tag": "JGB",
         "first_seen": 1787970632.9302626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeXgwVmE4SkVPN3VMZkRoUGc5MTlnNlgyRHo2NVhZNGpSWmtPZ09oTnczOWtoX3M5QjlqdnN2d0cyRW5lZTNKYUhGRHdVdGk3VS1MSkFkczJ2dzQ2RkoyV2FNZVJaZ01OY3dnMUxMU0R0QmF3Q3hsTVEtT0RjQnhUX2hzcC05TjlQ?oc=5",
-        "headline": "Fed Chairman Warsh Seeks to Calm Elevated Inflation Concerns",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "08/29 10:40",
-        "published_ts": 1787967600.0,
-        "tag": "Fed",
-        "first_seen": 1788035432.839547
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 09:15:50",
+  "updated_at": "2026-08-30 09:30:53",
   "yields": [
     {
       "label": "3년",
