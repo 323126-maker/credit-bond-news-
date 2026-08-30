@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1uMlBuZ2U3MUNSeFh5cUI2UmV5Zlc5UXBZVTBBZDMtSjluSV9ibUNGT2tJOWVzRkh5c1Z0ckh6UTdkRjhDcHhnVkxCdnEtRV9abS1lZWZ1Q0c4ZTczMzFhMkRsVmhtdEJVN214ckVZaTdWUQ?oc=5",
+        "headline": "워시 ‘매파 발언’에 미 9월 금리 전망 안갯속",
+        "summary": "",
+        "source": "한겨레",
+        "published": "08/30 13:52",
+        "published_ts": 1788065520.0,
+        "tag": "Fed",
+        "first_seen": 1788066038.7870145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GRjk5dnAwdEZQZk1KSGt0clc0MU1UUGtPRkdQRS16ZnNUTEREZ2tPUVY4MEFJSTVEblZSZTJ0VHd1aGtESl9vMm43U21JT3FpQzJvUW40Wk9kRk1ERXVQLTFyX1FfMnJWZUVFWjlCQUM?oc=5",
         "headline": "What’s the fiscal hit from higher yields?",
         "summary": "",
@@ -1830,6 +1840,16 @@
         "first_seen": 1788021924.301077
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVG16U21maXo1dUs4ZEpwQkVSQW1DOEV0dFRSdEdwR25nZDJLMk9NMDllTzBSdUp0a3E0eVN3aDZfRGh1b29uOEx4TjhWb3NQMXdhUEc2T2dhdVJkSWlpMmg5THJVNkFiN2RsbjB0NDhVMHI3V3kyYm9yNVc1eEhjTF8xTlQzbVFxcnZyYmVDU01Fdw?oc=5",
+        "headline": "“It’s Not the Same Dollar”: The Big Lie Behind the Stock Market Rally",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "08/30 01:01",
+        "published_ts": 1788019269.0,
+        "tag": "Strategist",
+        "first_seen": 1788066038.7870145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE02UjZuMkpFbXZWYkF4Q1lYbUZReWJCMUhQNjR1TWRpOS1YN29fc004R0diNzNlWk5yZFAzZzMzamt6RXhPQmg4SDJ1aG5VVFktbUFQcVBzNzhTNWV4b3l3V0tKM0Rsdw?oc=5",
         "headline": "Bessent’s credibility under threat as Wall Street turns on Treasury chief",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788000560.0,
         "tag": "JGB",
         "first_seen": 1788012923.5959506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSVRpMUtNemxEdGxWcVI1X0VaVzFsRjhJWnlta2ZNQjVHS2trcG5mOW9VTlRJdTJ4ZUhwZ3FHQ0ZPZkc2Q1hkNjBhSm9TeEJ6STZWMDNQc21NWUJ6eVdJdnB1SzRsZFZsUDdETVdDS051aWZPMTNtc1p6eVpGRVQwOVdrUGp0WUtIYXJXNjk1QlVhWXYtdG12Wm9TR1Boam53N0RzeTZWN0NJaE1W?oc=5",
-        "headline": "FMHI: Examining The Structure And Suitability Of This Municipal Bond ETF",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "08/29 19:34",
-        "published_ts": 1787999680.0,
-        "tag": "Global",
-        "first_seen": 1788012923.5959506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OZEhhQzRmMHlxUGVwYXQxcG5XQ3NaN3ktWHh6eEV1TFRhRUhabnVXU1pVVzc2YVp2akVUWEVVZ04zSHppSWNBUDcxb0drMW05aFI3ZVdBdk4xSGo3blh0Z3UwUDFGU2NiaU1YV1p1alYyMGhpb3BScU9R?oc=5",
-        "headline": "Talking Interest Rates with Ricardo Caballero",
-        "summary": "",
-        "source": "Paul Krugman | Substack",
-        "published": "08/29 19:31",
-        "published_ts": 1787999466.0,
-        "tag": "Global",
-        "first_seen": 1788054325.6481533
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-30 13:45:57",
+  "updated_at": "2026-08-30 14:01:02",
   "yields": [
     {
       "label": "3년",
