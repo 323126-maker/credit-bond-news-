@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51c2lzTWNHU01IeldySkxsV0ZUNzZlWUx3YUxRQ253Ym9CNDgtaV9FOC1uMkZrc3FqZm03LXFZRGhsME5INDEwVmVOZ2NMalBfd0FiZFR1NEc3WkhJM214Q3VFWTZMWTB1Tk8yMWFR?oc=5",
+        "headline": "캠코, 20년 이상 장기연체채권 3.1조 원 소각…4.4만 명 채무 부담 덜었다",
+        "summary": "",
+        "source": "뉴스타운",
+        "published": "08/31 22:59",
+        "published_ts": 1788184748.0,
+        "tag": null,
+        "first_seen": 1788185729.6523511
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB3QU5FNnRGNjEzZ1ZMMkQ5ckZhcUZxaUstZl9hYm1rYmNZV0JWa2R6WnRFcVFtaGZTcWRNdGdhLVZNRzFRSHJMXzFVd2ctczFFeGF4azNGUzBYMm5VSnhMVW5jRkhQSE9SbUdocUJaU3NEcTlwRjRWQ2Q1R3Q?oc=5",
         "headline": "7월 기업 채권 가격은 하락세를 보였다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788135386.0,
         "tag": null,
         "first_seen": 1788138927.260531
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBvenl3OUFlTXlVZDlhU3dEb0dUUmxOeDJKOGpXZWNGMkd1djRkOWlRRE9FLWZJdmlGeG1iVXJ5dEZCUTRZZnVVZU5RLXN2c00xR2VGSEkybmk?oc=5",
-        "headline": "워시 ‘매파 본색’에 美 9월 금리인상 베팅 60%…채권시장은 “말보다 행동”",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "08/31 06:56",
-        "published_ts": 1788126960.0,
-        "tag": null,
-        "first_seen": 1788149725.091771
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 23:01:08",
+  "updated_at": "2026-08-31 23:15:52",
   "yields": [
     {
       "label": "3년",
