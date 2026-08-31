@@ -12,6 +12,16 @@
         "first_seen": 1788216324.4368103
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SNVFwc2JiQTRCQy11M0RVTWg1LXBta3JxYkxLR25ETTV5SW1xUDlIcEUzdi1wR1dDU0l3NEY1akJZOVk2RDI2dnVfbW5MN0ZHZVNpN09RNjHSAVhBVV95cUxOUjVRcHNiYkE0QkMtdTNEVU1oNS1wbWtycWJMS0duRE01eUltcVA5SHBFM3YtcEdXQ1NJdzRGNWpCWTlZNkQyNnZ1X21uTDdGR2VTaTdPUTYx?oc=5",
+        "headline": "[증시전략] 9월 금리인상 여부·채권시장 향방, 고용·물가지표 변수",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "09/01 07:12",
+        "published_ts": 1788214320.0,
+        "tag": null,
+        "first_seen": 1788219031.93017
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55RnN5UFd5ejRac3pFVlF1RG0xajRCbHgtMXA1VEdBc3ZKRFo2V3NOQ0hqS2N3ZFZfOHotbk5sSUJ0WC1MMmp6TDdMU3IxaElVU0tLZUJJX2IwV3lJeVk5bmcwSjk?oc=5",
         "headline": "회사채 급랭에 메자닌 '봇물'…우량기업도 가세",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788157666.0,
         "tag": null,
         "first_seen": 1788157831.332641
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCY2ZYc216R2VtNG5fTUwtTWlwSDAxQ19UVTYwVGhpRml6anRkSHdRa05vd08yakY0VldSWGFjZVByR3ZqSG91dHlEM1piNDF0dkppeDlsdFRoOGlBS0lkZnp2bUNTNi14cDZZci1FczJOQQ?oc=5",
-        "headline": "G2 채권 디커플링 심화…美-中 금리차 300bp에 포트폴리오 이동",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/31 15:09",
-        "published_ts": 1788156540.0,
-        "tag": null,
-        "first_seen": 1788156939.5328732
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DU0t0QUhQcG96SGRINmRpcmQzSm5RQlNIWG1CRTVHTmdadDQ3R0NqRC1LX1dzbHJzNjEyVW1waU00cFRHckRfakFxb3E4T2FBbnRXSnBzQUxfZHlvRUtqVg?oc=5",
+        "headline": "美베센트, 日銀 총재·재무상 연쇄회동…9월 금리인상 압박↑",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/01 08:24",
+        "published_ts": 1788218640.0,
+        "tag": "JGB",
+        "first_seen": 1788219031.93017
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9yX3ZYN1V4dzJZU0c3RXJpVTlYdng3Mk56RmNtTFZpU21WakM2dnpWdlZVYzN5N1BDZ21vam15My1kUTlHR1JuSDZoQmNGcDA?oc=5",
+        "headline": "엔화 약세에 美재무 “강세 위해 조치할 것”…일본은행 금리인상 시사",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/01 08:19",
+        "published_ts": 1788218340.0,
+        "tag": "JGB",
+        "first_seen": 1788219031.93017
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1SNDZndzBFSU1lZnFwbmVlNXVRWXVCb2tTWjQtVTh4SGJRRE83Z0cybE1sUm95Y1VvdWlxeXNKdnF4a21MbjRvTEcxNi04WHVmdzJ6QVUwYVZHc2EzME9KODBpV0Jad1ZFTEdBQ3IyZnpkZw?oc=5",
+        "headline": "OE \"BOJ, 금리 더 높게 더 빠르게 인상할 것\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/01 08:12",
+        "published_ts": 1788217944.0,
+        "tag": "JGB",
+        "first_seen": 1788219031.93017
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zM0psbFdLT2hwVHNhb0dja1hsZDExSDFnWDNOaGZYSUpxWFM0THVndjVNYmhNOTNrZlN0UkxlZXplZ2pEUERnZUU5RWNQYUpQeUN4R2JmQlROdw?oc=5",
         "headline": "'그림자 日銀총재' 베선트…일본에 또 금리인상 압박",
         "summary": "",
@@ -1708,6 +1738,16 @@
         "published_ts": 1788212276.0,
         "tag": "Fed",
         "first_seen": 1788214528.31635
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSkoxLTFkaHFMSno4S0ZOQ1dLNzZWRm1rUjNBTTh3MmtmaXVJYmlWRk4wVW9KZERDT1pvbnhrODB0ZWJlS1pXYThnWGJTdlJmbS1kN0c0YmEyMEdXY3NjUHpoZEVUQU9mS1dabjJDdVJrRnBNaE9NVHJTNkFGVUNjY1ZsNGZ2d0xSdzdqdE5raTJ0RExoWkJ0eDR4TXdlMTJEWUpqdVhvZ01SckxmME01V2RKdTIwRm5XOHZpQzB0YlQ3dzNDdG1JX1hvWGNjd3ExREtIdlJpVQ?oc=5",
+        "headline": "Jackson Hole 2026: Four Takeaways for Investors",
+        "summary": "",
+        "source": "Lord, Abbett & Co LLC",
+        "published": "09/01 06:29",
+        "published_ts": 1788211776.0,
+        "tag": "Fed",
+        "first_seen": 1788219031.93017
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQVlN2dE44RDRlTjdOSXBEbXJ6V0xiWEVPTlBGWGo0Sy1KZ2lIemhoQTJQTmJWRXNrYm5zTGl1YXVwX2NqSFhBdGhlZmlaOXd0dVl0eUNlNzMzNUdEbGV0NnlnRWNiV056RUFzOTR5NVhWdW5XbnU5VkRydFJNOTRlSDQ5VUhIWlM5TWRfeEwxanU2OVJSOU8tYnZwNTd6bmotMkFtZ0g0ZE5wVWlVR3ZZTUlHY0hxR0x6d3Nr0gHAAUFVX3lxTE9mb0NkNVo5NWxYa1RlQl9ub3NXMjFiZmhzaXZERm1iLUV4dXdsX2d1dFR1dDl1cklXVUpoWHNWaFhSNVBEWDNZYm5sSjdhTGZRZFQ1ZksyeXR3b0NKVEk4MWhnV0loMlhVZGNZMGl5SzZiNVIwNXVCejRiREg1YUpHSUppV1NWTjBPNEVPQ1NfZFlkSXFJRElVU2F6UjlRSXNfQVUzRW5nTGhzR21Da0NwSXBHcV9CQkx2RUVKbXdIbg?oc=5",
@@ -1900,6 +1940,16 @@
         "first_seen": 1788204633.451048
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "09/01 02:57",
+        "published_ts": 1788199024.0,
+        "tag": "Global",
+        "first_seen": 1788219031.93017
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52azNEOTBRUkt4TGRYNXhBUDlKRXJuc19pUzlmekxLd1AwVlFhVEdEeTVrZV9MWG5BMmMyejR4NEdzSFBSLTMyWlV0ZE5IX3FfeHFtUnRiQWg5ZEE?oc=5",
         "headline": "Huge Market Fluctuations: What El-Erian Predicts For MAYHEM This Week Qcom Stock (e6QCPwEedf)",
         "summary": "",
@@ -1958,56 +2008,6 @@
         "published_ts": 1788195907.0,
         "tag": "Strategist",
         "first_seen": 1788196530.8340187
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XN1dXM0NKcW5iUzBPenNhMm0tU3F1ZVh0X0hGNndWTjdTQndrUzcteDN6V3ZINWhGX3BnM2V4ejNSOFVGa1gzcnhqUW1CdVJxZGdOU0Ntd3FiYnhBWFFVbVc3SHN5UQ?oc=5",
-        "headline": "워시 \"'글로벌 저축 과잉'서 '투자 급증' 시대…장기 침체 옛말\"",
-        "summary": "",
-        "source": "news.sbs.co.kr",
-        "published": "09/01 01:59",
-        "published_ts": 1788195540.0,
-        "tag": "Fed",
-        "first_seen": 1788210923.632616
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRE5ucEtIcmkzQ200Wmw2ai1ETUdqVmNSV0Zna0M2ak0wSi1xYlBYTTdGYnhUM2JSZXdLU1Z2RmdjbjlMYUROSHM5eHVtc3BvTDVJaU5fSzRCWldNWnA4M3pkaFpQMHhZOUstYlZaMnVrbExLMmF5SFlyZGxiS0Q2RHdZX0ZIbVlTYzR2OU9XdlBXZ2d4RlFWZXhTaUpXRE1JOHVtRTFmU1l6cnZjN3N6VThOeFh5QjloMzdOZENRZWJEazllOE9DdQ?oc=5",
-        "headline": "Nvidia Holds Up The Sky. Central Banks Buy More Gold",
-        "summary": "",
-        "source": "The Tech Buzz",
-        "published": "09/01 01:58",
-        "published_ts": 1788195526.0,
-        "tag": "Strategist",
-        "first_seen": 1788203731.3225286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM0dTSEk3eDJjdU1BMm9Wbk1WUHZwbkZZSFc0dXFURk9IeGpmNmdRRVBkUjZPV0ZFa2xBaUNNNjB2WWtsd1BCYkdETFk2UVhqSkJlOWxndWFDZFJLM2xqWTNrMzRGTVM1aFZremU1MGcyWG1kMXJtWnNEWU9Lanl5N2RQTUNXTUlxMEhxSXp5VkNSRXNPd1F4dmoyaGNUUEdOYV9LcW11QQ?oc=5",
-        "headline": "Bessent Taunts Druckenmiller Over Bond Bet: 'He Doesn't Like Losing Money'",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "09/01 01:48",
-        "published_ts": 1788194881.0,
-        "tag": "Strategist",
-        "first_seen": 1788209125.9517899
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY096U3l3X1VXbTB5b1N0bDZ5UXk4UW8zX0x2Z25VN3JxdEZkODlfT0p6d20yb0E4bl9xdGp3eW1yN3J1V25DUjdkSzZheldTcXMzOFpLSTU0WXd3RUpEWVhwUllXZkJBNzF4MEdkaHh6ZmtVYzY1QUNsSTYwNTRkcTh2Zkc4c08yR081VHJMczFnRFJnaW5tcFM0VFUzMzJ5Q0E?oc=5",
-        "headline": "Bessent Fires Back At Druckenmiller Over Bond Bet - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT)",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "09/01 01:48",
-        "published_ts": 1788194881.0,
-        "tag": "Strategist",
-        "first_seen": 1788195644.3115425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPSUFkSVloOEVHZG00QVpWMi1YVFBWeGRzYXU3ZEtmeXJWRG9vVXplaUZPMWNSTkpLd1dablBfaXBtS2J2dkg4bXdvMUJCMUcwMEZ1dTk1Vm9QS1JMQlZUQ212bWR6M0dLZHNNOElkYnowWlFYTkRQcFJIYko0SDN0X1dqaVg1Z1FUXzdYbmNvZW5wV3dBcEowbHFjaDN0MjFfYXRtT1laTVF0NUh4TEhza0RVcVdRdXhfdmMxOW1TWEJZTEczQ0I3V2FYVQ?oc=5",
-        "headline": "‘He doesn’t like losing money’: Scott Bessent responds to mentor’s criticism of bond market actions",
-        "summary": "",
-        "source": "Business Post",
-        "published": "09/01 01:46",
-        "published_ts": 1788194774.0,
-        "tag": "Strategist",
-        "first_seen": 1788195644.3115425
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 08:15:49",
+  "updated_at": "2026-09-01 08:30:56",
   "yields": [
     {
       "label": "3년",
