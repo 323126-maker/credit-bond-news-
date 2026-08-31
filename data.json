@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1JcHBpcG9RSk5RampwU01OWnVNaVdBbnlBYkt6a2R5cDRxT3E2SlFkZlZEaTF0Q0FNTXZBRTFSVGl1MGFvWnFCcnR6MFRENlNpb1QyZ0lTU1I?oc=5",
+        "headline": "Bitcoin begins volatile monthly close as US bond yields eye new 20-year high",
+        "summary": "",
+        "source": "Cryptonews.net",
+        "published": "09/01 02:05",
+        "published_ts": 1788195907.0,
+        "tag": "Strategist",
+        "first_seen": 1788196530.8340187
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY096U3l3X1VXbTB5b1N0bDZ5UXk4UW8zX0x2Z25VN3JxdEZkODlfT0p6d20yb0E4bl9xdGp3eW1yN3J1V25DUjdkSzZheldTcXMzOFpLSTU0WXd3RUpEWVhwUllXZkJBNzF4MEdkaHh6ZmtVYzY1QUNsSTYwNTRkcTh2Zkc4c08yR081VHJMczFnRFJnaW5tcFM0VFUzMzJ5Q0E?oc=5",
         "headline": "Bessent Fires Back At Druckenmiller Over Bond Bet - iShares 20+ Year Treasury Bond ETF (NASDAQ:TLT)",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1788194774.0,
         "tag": "Strategist",
         "first_seen": 1788195644.3115425
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "09/01 01:10",
+        "published_ts": 1788192644.0,
+        "tag": "Global",
+        "first_seen": 1788196530.8340187
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUi1mbW5MV3N6a1AzUW5qREJnckRIZjNOYUlYV0ctUmhSOW96OVd3M1hCRnFVV1JsVDBnTmtDdkFwMmJuaVU0RmVsd1RlRzFJM0dxMk84cnZQeW85emM5UjNOR080UHUxYTlvZzNUcGd5a2xBb3g5am1hcmhNVmc3eDZuRTM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788171597.0,
         "tag": "JGB",
         "first_seen": 1788173119.861261
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHllUjJiTnFDa2MzNkxQRXpvWnB6aldnemliZGVPaENpdTZ6R1NhZWdJQXhwVUFIVUlwYW9KQnFURlJTMzJORnFWNE9pLUhBb2hZa3VmdnBnNktJZl9MZFJ6VHFzQWtaSXpGbVhUZWV2Nnh3QWpudk9ES0N1UFZCa1RIcw?oc=5",
-        "headline": "Kevin Warsh talks tougher on inflation than the Fed is acting",
-        "summary": "",
-        "source": "Opening Bell Daily",
-        "published": "08/31 18:55",
-        "published_ts": 1788170144.0,
-        "tag": "Fed",
-        "first_seen": 1788170441.0299747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMHdJR0hyNURRRzl1N3JoNTM1MzVaaFQ1OHZzcExKa3NhMENxblZsbFdaMTF5dDVBM0pzSU56aHBTSjJ6YktnY2dESTBTNm5tWGZMZFI2YVZGcnFpNWJuYUhyM0lLbkVYbG96V1BiS2xZVkFudHFCUEFrWXJmOXRmRVFoY3ZtT1FKVThsTFhzZExNZFkyLXM3MWJTZVJVT1VfdGFLYUxuQVZqdUNSODhaanhVcHY?oc=5",
-        "headline": "GPIF Would Be Justified in Buying More Japan Debt: Analysts",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "08/31 18:53",
-        "published_ts": 1788170017.0,
-        "tag": "JGB",
-        "first_seen": 1788175830.8602955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 02:01:04",
+  "updated_at": "2026-09-01 02:15:57",
   "yields": [
     {
       "label": "3년",
