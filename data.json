@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTRTY4Yjk0Z0plTndJUTAzWWJBQkt5V1JUb20tNVN0ME54VlNqX1lJcmQ4OEJackJhWWNNeWtWRHdkTG9sYWJlVVBRVkZfT0pTMjFYNWRXZ0duQkdSWDRsZVBoblM?oc=5",
+        "headline": "[롯데, AI 혁신의 위기와 과제①] 재계 5위 현금부자가 흔들렸다",
+        "summary": "",
+        "source": "디지털데일리",
+        "published": "08/31 14:35",
+        "published_ts": 1788154504.0,
+        "tag": null,
+        "first_seen": 1788155123.5109768
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aNFJIRFYzMlFoYnFFNWhQQWRvSG94VWUwVXkyNmZXWGhPNWIzQUl4eG5GT2lRMi1pcFRPbnJRQndEQ2RObG8td2tZQ29rMVZOdFVYSTNENjZHRVVH?oc=5",
         "headline": "[미국 특징주] 코르테바 분사 앞둔 종자기업 바일러, 11억달러 채권 발행",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787952629.0,
         "tag": null,
         "first_seen": 1787955327.1685114
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11R1NTeEt6eHRPbGxGeUtjT0hGa2lNaUtFREd2YXlXYXgydFNVM3JMMjZBWE11cUhscThGMGRKOFFsbUJsc19ja1pSQ0N2Ym9jbWlyb1Z1MWpLYmdXREp3Zm5lcU9xNDZGTG1Cd1V0eXlyUQ?oc=5",
-        "headline": "국채선물, 매파로 돌아간 워시에 하락…10년물 28틱↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/29 06:09",
-        "published_ts": 1787951372.0,
-        "tag": null,
-        "first_seen": 1787952632.1233377
       }
     ],
     "perpetual": [
@@ -1780,6 +1780,16 @@
         "first_seen": 1788150640.1657748
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE44c1BDSG5aaW9uR3VDc3hCX3RpVDl0dVFreGVEQjlhSWlSRHZIQUZnOVRZZFUxX3hfNmZET2FfXzF3UHRxWUJZcElmT01UaWg2U29Cc0FSSGRlY0NyQ3dFSEhlQzRmY1gwS1VpWnVfbFhHVElUOXc?oc=5",
+        "headline": "Nikkei Tumbles as Fed's Warsh Signals Possible Rate Hikes",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "08/31 11:55",
+        "published_ts": 1788144900.0,
+        "tag": "JGB",
+        "first_seen": 1788155123.5109768
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYS1EZ1ZHTXFfSlBwUHdhbFRVUkNQYk44N1Q2N214c3hHTjUtM0N2NDJnSmsxTm90aWJkS1FXb0xGc251VkVBd0tZRWpMd2hSb1BPUEN5R2xXc2RBVEZORWRiRk9oYnNpdUtjVGNveTN3M25wSE5FbVhtakRNZEdrU1hOdmRobVUtRWlzR1ZmN0pWdGtMZ2FyWF9Mdko?oc=5",
         "headline": "Japan 10Y Yield Approaches Fresh 30-Year High",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788134280.0,
         "tag": "JGB",
         "first_seen": 1788135329.1737828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNak54VGVkd1FkXzhUeDJnQ2RkNEItWGlZbGkyTWh4M3FyQ254STkwT09Kc0QzUDVma0xmZmt3U0tvMVVVSWExM2cxVW9KNGtBTDFSXzVZc1p2QkJDZGg0aGRqaERsNC1aeTkwZEM4VDlnQmI4WEtGX1c5TVlLZ3pUQzVyZFh5WWFIOGpzM29n?oc=5",
-        "headline": "Card Loan Decline Fuels 600 Billion Won Surge in High-Interest Debt",
-        "summary": "",
-        "source": "조선일보",
-        "published": "08/31 08:57",
-        "published_ts": 1788134259.0,
-        "tag": "Global",
-        "first_seen": 1788136233.9034076
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 14:30:55",
+  "updated_at": "2026-08-31 14:45:45",
   "yields": [
     {
       "label": "3년",
