@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYzd2ekxrY3FudVJwaGdtV0Myc0wtX3U5eHVWNEhNbGp6bDZEQ3NCUWprU1FtODdnd2s3OGM5NFNlcTl5UjRmNmxXRlZrbVl3d01wX2FMS1pnSS1UcDZPNGx6eXVkWnI2YlAwZTVKSkhlaFJyQkdIaGtFZDRVTm53ZGswSXdWTkpGbzhUUzBCRVR5eDFHeHkwN2FtRFI?oc=5",
+        "headline": "Scott Bessent says yen moves ‘pretty contained’ and not disorderly",
+        "summary": "",
+        "source": "The Straits Times",
+        "published": "08/31 08:58",
+        "published_ts": 1788134280.0,
+        "tag": "JGB",
+        "first_seen": 1788135329.1737828
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4NlVuVTM5T2VweUF4dGx6NkUwQkFxdWZwR3JDX2k4WTFNN3JBaWtiUXI4N2t1bUR5bWl5TkplaFpOZWN2THZoQUl0Nk5xVXRPZHZyS0djaVBxUi01amR0NTBxdDgwVno3?oc=5",
         "headline": "[이원두 時事寶鑑]한은이 앞장 선 금리인상, 美⁃日도 따라오나",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788069360.0,
         "tag": "Fed",
         "first_seen": 1788093035.8395963
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JN280bTNhNEZDQVEwQUc0RTQtSzVGdkc2M3gyMGJJQ0htQjF4a2NBZHpReno2c0JPXzJrbGV6OEZQVUxDM294TFVfLUJVZW9DUy1mZ3BxVHI3SlNHZngtUTRhZTNGbkpCaFhndnFjRWpEUQ?oc=5",
-        "headline": "[뉴욕환시-주간] 160엔 다시 상회…'멘탈' 흔들리는 베선트 대응 주목",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/30 14:46",
-        "published_ts": 1788068784.0,
-        "tag": "JGB",
-        "first_seen": 1788092124.3113344
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 09:01:03",
+  "updated_at": "2026-08-31 09:15:56",
   "yields": [
     {
       "label": "3년",
