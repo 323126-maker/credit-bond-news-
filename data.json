@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOenZTV1NsMHJpeG9oSThNclEwSlR1SFpHZlNaN0xCMy1jRzNjcC1scTB4V1NpRDNzZnR2VDluZVoyWDRoRU5UYVZna1RvNFRKa0p4YVBCMS1lSGs4TDItQWp1T2pUcTY5NG9pNDJjYkJQMDhHT0I5LTF1UzZ4NXFOQ1Bkb0Y3YnhNclF6UzEyWTk5eHdBZ09UNXl6ZmUtRnp10gGmAUFVX3lxTFB3Nml5V1E2Q3RnT1lZbUpwN21uXzk0T0VoSjIzaVlMSkFCNmhGYXRISm5wYTh5dUlTTjZ5VWltNlhMTExMc1ExTGJ0QTh2c3JIVzhreDZOMGdSQy1MYzhiYnFMcENZRU4xOEhGSFRhQy1mVjZRVFA3X1Fia3FjNkRwbElDY1VfZ191dW80MUlSNi13MUZTQm1uRkgwQ19BaVMyRklaUGc?oc=5",
+        "headline": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed `at odds' with Treasury",
+        "summary": "",
+        "source": "CNBC",
+        "published": "08/31 12:47",
+        "published_ts": 1788148020.0,
+        "tag": "Fed",
+        "first_seen": 1788148720.6432033
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEpZa0s4MENKR2luVnVqZ2ZEdy1xZ1Ftd1ZwVjRWN25uLUl4QUFOTzJkc25UUEIta2FuaTdoWGh2NHUzcDdLYWRRMmIyTnhUb090MWU1ZEQ3dXhlNjlMX1pjREE3VE9VTEFwYVlFWk5IUTZfZ1d5MnRUbFlLeGcxcDRqUVpXTVNPM2NMWlFDZ2lneXhoU0xR?oc=5",
         "headline": "미국 달러는 2주 만에 최고치에 근접하고 있는 반면, 엔화는 160엔/달러 선을 하향 돌파했습니다.",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1788142200.0,
         "tag": "JGB",
         "first_seen": 1788142525.2478569
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa0FBaFRtN09CWjdVOHpYakFzaVVpd094R0xRU3RpcWpSNjFfSE9VZmg5ODBCWDJWT3pTWGI4QjhzUmZDVmNNRXA1YlEtNTdIV2ZvaDJjeDR4YnhZcjZFT1hXRHhWQWlZNEk1RGRRYXVMalhGSnlqZ0dPNk5NR0hfYU91cWJxazFWbHlTTTNQMmdRUGFCa0F1QkJtWGR6RktweGIxdWNfOGtWVlRtMFMwaEdiWDFwUGFTNE9hYTFvRQ?oc=5",
+        "headline": "Japan 2-year yields rise to 31-year high as auctions, rate hikes loom",
+        "summary": "",
+        "source": "The Standard (HK)",
+        "published": "08/31 11:07",
+        "published_ts": 1788142079.0,
+        "tag": "JGB",
+        "first_seen": 1788148720.6432033
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6MFc4ZzVLUUxveThsRU8xNXJhTUc5RUZEaV9HYVZTRTRJbGpZck9DNktrUTlLdjM2NUpvdnJWZmFzWnhzVnh3RmNCSUx5UmI0ZUxvRXp2a2lUdFpET0VVNGZyTExRS3Q1S0Z6UlVnVUdWbFlKclE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788109938.0,
         "tag": "Global",
         "first_seen": 1788111036.5130186
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zc09HeXVVaGprOU9FQ2gyajUxWmZvOVF4bnp6TzI1VWREOEFVQWFEaXdVdzl5RlpjZldRQTc5clBZS2hGRk5MMVRrclFUeGNJLUM2WHRsTURkOGM?oc=5",
-        "headline": "Alan Dunne: The US Is One Recession Away From Fiscal Dominance",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/31 02:08",
-        "published_ts": 1788109680.0,
-        "tag": "Global",
-        "first_seen": 1788131723.9816349
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVU9DZ2JhV3U3WjQ0S3h5NWNkNzFZekU4aDMwRXJJU0VCOGpjS0tZRFdzUHdpV2dDcmxfSmxrV1JmSlo3bzIxSXhNd1A0UjJZbVBJeFc5NEdEY3BMaEs4cEM2YmVnOUo3MzVDSmtFc0hmR0M4UzYtc2lKUndrR0V4RDNlSnFCbEt6R242ZVlNalB2U09PQnFnZTNrR2tINEZTUWZ5cHZxcEg1RUtXTGhwOFRmQlpWUGVwMVA3eGhyRUhZWk02dXM1QkVXMGwzdDg3aHN5MHlxNkQ3Mk1idVE4Y3JUVHF6eFpoblVLeGptdDJvRnF2dnNBcFJMX3FTdXRPenZMODhB?oc=5",
-        "headline": "All Eyes On Kevin Warsh’s Jackson Hole Speech As Bond Market Shrugs Off Buyback Support From Treasury Last Week",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "08/31 01:42",
-        "published_ts": 1788108145.0,
-        "tag": "Strategist",
-        "first_seen": 1788144328.8313034
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 12:45:54",
+  "updated_at": "2026-08-31 12:59:12",
   "yields": [
     {
       "label": "3년",
