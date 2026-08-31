@@ -32,6 +32,16 @@
         "first_seen": 1788204633.451048
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZjI5Zl9kazJKTW42T1dSZjNCR1l5S1VrU1dXVlJNU01hWGE0QUw1bVlNRkxOcHItb0tFYThkeVNhNnVpRlVzS0pzUHRLd2I4R05wY3hfbFEzV0ZoRng4UXpOYXhfZHY5NjM4b0VSX3FkN1hHRkdpY1NYbkY0UDFvVS1xUVRJNnhnWkdwSmNfeE8xMVdsdExmYkJOOU9mOHhSaUpLU1ZCXzBNeS1IWnJPall6M3Fqb0g4aGQ5UlBOSlEtSVhZU1V0cWVzSDQtMV9UeDBHVGRfRHFRRy1F?oc=5",
+        "headline": "아마존, 500억달러 채권 발행…1260억달러 몰려",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/01 01:23",
+        "published_ts": 1788193398.0,
+        "tag": null,
+        "first_seen": 1788207329.4589884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE56YWpwcG05TUVUb2R0UURwTlVKNlJtd1NnRkd0OGRRTExGc01lV1VqMmFMbmM3T00wZ0xJWTVlVmNVQ0I0MkNnQW5iZ3Btd012dXhQZGJfYW42VGlx?oc=5",
         "headline": "AON|Aon PLC|가격:331.250|Chg%:-24.150",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788144960.0,
         "tag": null,
         "first_seen": 1788188444.6905167
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WLU5PTW5fZGRmTlEyOHY5YkRVeVU0UktsRDRHV0VJN2J3d0k2N2RELThPaTU2NmZRc0dzN1ZZY1Z6dGx5cnE2ZTVSOGRGS2Rad0E?oc=5",
-        "headline": "국고채 금리 일제히 상승…3년물 장중 연 3.856%",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "08/31 11:45",
-        "published_ts": 1788144340.0,
-        "tag": null,
-        "first_seen": 1788162324.3361533
       }
     ],
     "perpetual": [
@@ -1840,6 +1840,16 @@
         "first_seen": 1788193835.7902203
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0zV0hKaUgxWXZ4LXZrVG0wVHhscTJlZENNN25HbHhqRmZUVjQwXzZIZXZSX181UzVYOEZfa2tISmFGc1AzV1pFZFJXdFV0emJlQl9MN0NPV1NrcTRzczl5Tm9Nc09mZk5n?oc=5",
+        "headline": "US: 6-Month Bill Auction",
+        "summary": "",
+        "source": "cmegroup.com",
+        "published": "09/01 00:30",
+        "published_ts": 1788190200.0,
+        "tag": "Fed",
+        "first_seen": 1788207329.4589884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yNEJtMGFCVWUwM2J3SW5Xby1PZkZYa0s2SDQ4VzRkenl5a0w5OWtfbFhEd1M0RzllNE9WdlN4al9uOW5IdkNFUmR2bzZvWWM0V0x2NEpB?oc=5",
         "headline": "엇갈린 ‘절친’ 베센트·드러켄밀러·워시…美경제 거물들의 가상담판 [홍길용의 화식열전](912회)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788180244.0,
         "tag": "Global",
         "first_seen": 1788180325.1414533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE42bDdZcHJsT2djMDE5cWVOaktJTEoyRjB1anE3N0RjQmtEMkgwczB3WXNpaGJDNWY3YWRsazR0QUtkREdVNjZHakx6Q2dHa0U5dU9tRmxzVjg5aV8tLWZYeVFkb24wOGFkVzZZeHNB?oc=5",
-        "headline": "日 엔화 다시 약세…베선트 \"BOJ 올바른 결정 기대\" 금리인상 간접 압박",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/31 21:30",
-        "published_ts": 1788179400.0,
-        "tag": "JGB",
-        "first_seen": 1788181241.2918215
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 05:01:05",
+  "updated_at": "2026-09-01 05:15:52",
   "yields": [
     {
       "label": "3년",
