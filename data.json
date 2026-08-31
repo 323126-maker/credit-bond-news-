@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZbkQ2WC1IMjZjck5hM1Q1RmtheXdDU1lTajhac0N0cTVGRHd5ZnRfM0lWSjgwaHZLQlpqSjdEVmQ5RjJ1dUZHNjc1M2VRRmtPVnhrazhib9IBXEFVX3lxTE5yODBuZ1JlOGJiVGJaWHVVaWNXcHBNVG03b0lrX2lqS3Z6T1NUdE5kd0ROZ2czRFdzSEpERTkzLXNhUF9YazFwa3FKaVN4Sk5TTHFpX0ZXRmlZZjR2?oc=5",
+        "headline": "국채선물 13틱 하락 출발, 워시 발언 부담",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/31 12:37",
+        "published_ts": 1788147450.0,
+        "tag": null,
+        "first_seen": 1788147928.9381747
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01bUg1LXRHaDZyRWQ3TGJXRlBHNnhEVHFPaG9Nam5pcUY1TjI1UVl5dXk3dmdvMWtWSFcxeXQwN0ZPTzhQcHFJd1NoWmNMbVpvTFhN?oc=5",
         "headline": "국민의힘 \"이재명 대통령, 민심 역주행 하는 재판 취소용 개각\"",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1787880541.0,
         "tag": null,
         "first_seen": 1787973321.393426
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52eTh6VkRTZ3ZJTVFIdm91eHRzWGQxZXI4QXFMTHJxRUlMcm15VHAwc3RPVF9HWEhDbEpoWGstd1hiazhQa2hmR3N0Uk1GSWVVeUIxZ0VHZzVmZ1dURzU0Tjg1MnNrV1NNNnVF?oc=5",
-        "headline": "정부 ‘미래대응기금’ 두고 지방재정 위축 우려",
-        "summary": "",
-        "source": "경남신문",
-        "published": "08/28 07:41",
-        "published_ts": 1787870503.0,
-        "tag": null,
-        "first_seen": 1788012036.4722853
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZEpZa0s4MENKR2luVnVqZ2ZEdy1xZ1Ftd1ZwVjRWN25uLUl4QUFOTzJkc25UUEIta2FuaTdoWGh2NHUzcDdLYWRRMmIyTnhUb090MWU1ZEQ3dXhlNjlMX1pjREE3VE9VTEFwYVlFWk5IUTZfZ1d5MnRUbFlLeGcxcDRqUVpXTVNPM2NMWlFDZ2lneXhoU0xR?oc=5",
+        "headline": "미국 달러는 2주 만에 최고치에 근접하고 있는 반면, 엔화는 160엔/달러 선을 하향 돌파했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "08/31 12:41",
+        "published_ts": 1788147676.0,
+        "tag": "JGB",
+        "first_seen": 1788147928.9381747
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMGNUWGNrVTRmalQ5M01Xa2VLaFM1cVVsRVM4WmJENUVsQ0lCT2Jwb2EwUm9ncURPWC1EVVh6Z0ZTVTM4THNXUDMyNFRISFdGX0FOd0tTMUVHNWllVVBPNm5HbWpwcjdPNHFCc2xULWJ0THd6bnpxRVVvaENER29ibFB6LWFBZWtCUjh6UDRRT0U0WThwSFEzSkMzSmtVRWtQTkRoR1V2QjkzQQ?oc=5",
         "headline": "Japan bond yields rise to 2.95% and yen weakens after Jackson Hole",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788108145.0,
         "tag": "Strategist",
         "first_seen": 1788144328.8313034
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNmpnbDlrUFF4ZkFHUjRGemlrR2FnTi1VcU4yVzlIZHlaaThhTEtUc3dpWFk3cXR3a3RWZ1JwaHI2cm01UmZzUWdlcmd5TjltYW5pamtDeGV6MzJVeHdCcS13VmhQQ2xGMDBWWllZaU1MdE5uNGdzbkdfRHFGZVllZlhUaHp0R0dabFdia21NMUxLQ28zbDNvQ1dpVnRBOTh0NDJLLUVGYTZ2U2hMQWt4TE0wblZoSHpXbExCVFJJNGY4MzFfakVJ?oc=5",
-        "headline": "Hubbis Macro Corner: Treasury Intervention, AI Financing and a Broader Risk-On Case Reshape Portfolios",
-        "summary": "",
-        "source": "Hubbis",
-        "published": "08/31 01:01",
-        "published_ts": 1788105668.0,
-        "tag": "Global",
-        "first_seen": 1788106526.508582
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 12:30:55",
+  "updated_at": "2026-08-31 12:45:54",
   "yields": [
     {
       "label": "3년",
