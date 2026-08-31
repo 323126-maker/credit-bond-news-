@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GV1E3OUM1ZjFSX21PMHhHc1FKak5NVWNNYllpaTh4MzN2aElqMVFFdWFCYXJmLU9tdVFIQ0l6WVNER3VTdTQ4ajh6cm9nTzJTV1lBUlFWNTVlRE1nU2hlRFRBMHI1dnNTd2NvQ1Bra3ctUQ?oc=5",
+        "headline": "[뉴욕채권] 유가 급등에 장기물 약세…10년물 금리, 1년7개월來 최고",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/01 04:46",
+        "published_ts": 1788205591.0,
+        "tag": null,
+        "first_seen": 1788206440.3935456
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tVGx3N0tTeUZVLVdaNm9ObUdiQ0NQZTNjT3ZSbG9nQTFGYlNyMU5qTmFHWl9xN2JfbGN3bDFlUnNYaDVqTmoyeUxPX3BQNUwzZHo1b0locnJTV3ZwMWs0OUJGVU1yYWZJUGZQcFhqT2ltdTdhUXFF?oc=5",
         "headline": "빅토리 캐피탈, S&P ’BB’ 등급 유지...인수합병 후 전망 ’안정적’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788144340.0,
         "tag": null,
         "first_seen": 1788162324.3361533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9LSnRpcGZpX3lUdWhEaU03cHJWclJ0UTB3T3o3c1lTeTJWcGpVOUlPZERoWDZPN252MDFwb1BCWUh3NEE1bjh4azNvZzgwMVc3MEZvUmdvZWgwTzBNaXJxa9IBeEFVX3lxTE5Fc2ZJN0J5VW56aTllV1NhcG9NaFoyODRuT2pFUFktbk0xUnUyQVpxQVdMSkE0cVQxdlByanlwbWdMMEp2SWtRdks2d2NtRHdHNXp1UjIzM2ZqWUpidmdWTnpSVmdodU5hbW1vRnF3dDJPVGxuMklfTA?oc=5",
-        "headline": "美 미 연준 매파 발언에 반도체주 휘청…전문가 \"AI 경제성 여전해 투자 위축 없다\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/31 11:30",
-        "published_ts": 1788143443.0,
-        "tag": null,
-        "first_seen": 1788144328.8313034
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 04:45:56",
+  "updated_at": "2026-09-01 05:01:05",
   "yields": [
     {
       "label": "3년",
