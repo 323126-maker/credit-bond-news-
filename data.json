@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMFdVZnd1Q2NLTTY3UFI5aXJLYjlfV1NxUzVQMUpsUHMwUjQxT21YUk94MDg2Nnl2eFJqYm5hSEcteno5VjhQdklDSS1GdlB1TGotUmNuXzNWdw?oc=5",
+        "headline": "'AA-' 강등 압박 SK지오센트릭, 공모채 시장 시험대 [fn마켓워치]",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "08/31 16:15",
+        "published_ts": 1788160555.0,
+        "tag": null,
+        "first_seen": 1788161430.6312459
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5GQndBUGc2SHE2ZXE2dm15TEdtV01XbUFHem5kdWdUWmNieTlmaFBaSGhkYWV1TWNES0xPSlBsdUlaRFlIeEpwQ0pvSVBvZmlkbWpZ?oc=5",
+        "headline": "[中 증시 마감] PMI 호전에 상승…정책호재에 부동산 섹터 급등",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/31 16:08",
+        "published_ts": 1788160080.0,
+        "tag": null,
+        "first_seen": 1788161430.6312459
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VV80dVdVdW03bFkyb01QN0lXekpDSEVkLVVaekNhYmJzRHVieVlzMTJfbS10T0Z1MUU0TnE5TUlORTEwUnBRTW1NS0g3QlhETl9GZTNVT3NuQQ?oc=5",
         "headline": "'전약후강' 코스피, 상승 전환해 6800대 마감…코스닥은 하락",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788006360.0,
         "tag": null,
         "first_seen": 1788006632.0425856
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuQkZDSzRPSkVld0hZVWVRcmFSQTgzQ3kxQl81WXZfbVh1UW8tVmdZVGhIQ3RNbkxkajRYWXdsV3ZqZ25tU20tVVVRTlNVSFN1aWIzcE1QMXBDQmxmX1UzbURJNjBNTUx4dWxuYzE2RXczck0tSkE?oc=5",
-        "headline": "통화 주권 흔들리는 대한민국 -> IMF 경고음의 진실과 허실 => 경제 위기 시그널 10가지와 시장을 옥죄는 거시경제 지표들 >> 정책 실패가 가속화하는 경제 위기 = 펀더멘털의 구조적 균열 |",
-        "summary": "",
-        "source": "데일리머니",
-        "published": "08/29 18:31",
-        "published_ts": 1787995910.0,
-        "tag": null,
-        "first_seen": 1788010234.488106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9YWWZoS3lHaVVqOF9YRHRiNFVSTkFHbXdxNGRKTm5PVEczUTN2QmxRUC1oN0lXbm9lamZ6Y3lrRUdRRFgtbTJSNGJXY25mT05WekE?oc=5",
-        "headline": "“이탈리아보다 프랑스가 더 위험하다”…뒤집힌 유럽 채권시장",
-        "summary": "",
-        "source": "매일경제",
-        "published": "08/29 15:27",
-        "published_ts": 1787984820.0,
-        "tag": null,
-        "first_seen": 1787990435.0905378
       }
     ],
     "perpetual": [
@@ -1750,6 +1750,16 @@
         "first_seen": 1788153325.0688224
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9HVW5VNXE3LWUzRzIyaWtpZEVLMzZ3b1lfb1NEVlktYTVabDNUUXFoOFhpajlrbzVCTjdRckpEa1ZjN2JqQlAyeGFDTGxtQl9YS05EZzJrbVJiS0o3akk1REhaeVB2dw?oc=5",
+        "headline": "Japan's 10-Year Bond Yield Briefly Hits 2.95%, Reaching 30-Year High",
+        "summary": "",
+        "source": "news.sbs.co.kr",
+        "published": "08/31 14:01",
+        "published_ts": 1788152460.0,
+        "tag": "JGB",
+        "first_seen": 1788161430.6312459
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSEdWdWF1MVR0TEc5Vko5YkI0ZTdBNElqWTZneVlPSmpYSTVOVGxMVWtZX2xVRG5IMDdVSFdtTUVjQjVEN0xBLVdyaEtIWU1NcXpoV3UxSVlGTHcwQzc0b1lPVEtnQ21pRmVPUDNSckNmbF9CS285MVhtdjRPOGZIVUptbWRNV1QydjgtUXA3OVdmTlBRZlFuRmNYNGdxNlI3bVE?oc=5",
         "headline": "Allspring High Yield Municipal Bond Fund Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788142079.0,
         "tag": "JGB",
         "first_seen": 1788148720.6432033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6MFc4ZzVLUUxveThsRU8xNXJhTUc5RUZEaV9HYVZTRTRJbGpZck9DNktrUTlLdjM2NUpvdnJWZmFzWnhzVnh3RmNCSUx5UmI0ZUxvRXp2a2lUdFpET0VVNGZyTExRS3Q1S0Z6UlVnVUdWbFlKclE?oc=5",
-        "headline": "Long-Term Yield Surges to 2.950%, Highest in 29 Years and 10 Months — 3% Threshold in Sight",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "08/31 11:06",
-        "published_ts": 1788141960.0,
-        "tag": "JGB",
-        "first_seen": 1788143430.0319216
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 16:15:47",
+  "updated_at": "2026-08-31 16:30:52",
   "yields": [
     {
       "label": "3년",
