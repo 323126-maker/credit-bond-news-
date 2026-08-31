@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1aNFJIRFYzMlFoYnFFNWhQQWRvSG94VWUwVXkyNmZXWGhPNWIzQUl4eG5GT2lRMi1pcFRPbnJRQndEQ2RObG8td2tZQ29rMVZOdFVYSTNENjZHRVVH?oc=5",
+        "headline": "[미국 특징주] 코르테바 분사 앞둔 종자기업 바일러, 11억달러 채권 발행",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "08/31 13:56",
+        "published_ts": 1788152160.0,
+        "tag": null,
+        "first_seen": 1788152439.0801835
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0cHdiWTRSMk9fUk5sSVpDbWhVNVNOZDNmdEswUzNlZ21yWlMyWm9PQzdGZWtXRFVDVGNkUVRDRUo5VV9RU2piWE5nRlBWTXZuZHVJ?oc=5",
         "headline": "캠코, 20년 넘은 장기연체채권 3.1조 소각…4만4000명 지원",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1787951372.0,
         "tag": null,
         "first_seen": 1787952632.1233377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8tTldsQXB4QWxaQ09Hc0VDeVBka3hMdUdjMXhRcnhDeFdmUlQ4empQRTFTRlExTVBReE5yVEVQVjJyNEpHb2RjYTQxX2xNbWpsc051NlM3MUsxQVJ1V3pjb1JlSDQ4WGNJOXExaHlR?oc=5",
-        "headline": "무디스, 세네갈 신용등급 Caa2로 강등...디폴트 위험 증가",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/29 06:05",
-        "published_ts": 1787951100.0,
-        "tag": null,
-        "first_seen": 1787951737.136508
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9BdkNLcUNFZ0xHYXZaamlPQ2hOQ1YtVEJUR1YzaUsxVzRaYmxadUpHRHRma2NoQjJBaF90bG4zeTEtdFdrQkVEQ0I3ejRwWmNBbWJpX2NGd1hOdDk5YXF4Mk9tVG9oYm9Pb0E?oc=5",
+        "headline": "일본 국채금리 30년 만에 최고… 3%선까지 눈앞",
+        "summary": "",
+        "source": "금강일보",
+        "published": "08/31 13:55",
+        "published_ts": 1788152151.0,
+        "tag": "JGB",
+        "first_seen": 1788152439.0801835
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmlzU0hJS3FVVmhPYXFzNkhoWDNXNU02STZud0lYUUVnQ2RsUTdHU0NNRlpNRzZ0amFUNFlXN0l0eVZRYlBvRWhFUjhyOEN5aThHY3k1QWlzMUJObldYdUV2d1o4TXZTNGEtRmZwclBkRHAwQ0s1NzQ1cHB5eS1hTU9YUTFDUlRfVWllbVlQX193Zkd1NC0xYVl0VVZUemcxd1lr?oc=5",
         "headline": "John Hancock Bond Fund Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788123120.0,
         "tag": "Global",
         "first_seen": 1788132630.6321092
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVG0wdDVjT2hoakV0Wm5xc2UtRTBXRzJmWjBPc1RlZElVRUtTbGdwNjlHSGdPT1JxMTBnaGlGVzZ6T3RaRUpZVTlBdXJDaEh2Mi02SG5SSFJ1TnRGSUMwZ3l6SXUwanc1bUxhTi1rV1NSczVwM0p3a1VRWmRaSGxsdVVpUTg3S0UxME9Nel9RRWQ5LUg4UXBjY2JkNXRBSURhVENIaGFUV2xOUGxsYl9xaA?oc=5",
-        "headline": "Global Bond Selloff Puts Premium On Selectivity, Morgan Stanley Says",
-        "summary": "",
-        "source": "BW Businessworld",
-        "published": "08/31 05:13",
-        "published_ts": 1788120801.0,
-        "tag": "Global",
-        "first_seen": 1788150640.1657748
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-08-31 13:45:45",
+  "updated_at": "2026-08-31 14:01:04",
   "yields": [
     {
       "label": "3년",
