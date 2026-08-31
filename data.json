@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMy16Rk03TzJpRFpNUldIXzV5RmZTa1VJVTBYMkRKTkhwWU1Yc210bEhfVGcwcVg1bnB3c3ZDb2tSY2JIZjd2RVNYNVdBLWlUbEgwV2dRMkFNZ0RG?oc=5",
+        "headline": "뉴욕증시, 미·이란 무력충돌 재개ㆍ금리인상 우려에 하락⋯다우 0.7%↓[종합]",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "09/01 07:20",
+        "published_ts": 1788214800.0,
+        "tag": null,
+        "first_seen": 1788216324.4368103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE55RnN5UFd5ejRac3pFVlF1RG0xajRCbHgtMXA1VEdBc3ZKRFo2V3NOQ0hqS2N3ZFZfOHotbk5sSUJ0WC1MMmp6TDdMU3IxaElVU0tLZUJJX2IwV3lJeVk5bmcwSjk?oc=5",
         "headline": "회사채 급랭에 메자닌 '봇물'…우량기업도 가세",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1788208379.0,
         "tag": null,
         "first_seen": 1788209125.9517899
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVEFVOFBFS0RkZEk4aWJvdGMxN0djS3hCMWJleVlrbzlBdmNrQmVzajRhbnNQU0J5dXBPenQ4NHVqenI4dDZfTU1BTVc4Y01WajZYYTZsNV9XYlhESzJmRUIxRXNuNHhYMU5WaDN1ekVqUUpKRUhhOU9ZS04xbFZCN28xdFQ4WGs?oc=5",
+        "headline": "\"美 매파 연준 vs 中 디플레 완화\"… 美·中 채권시장, '금리 양극화' 심화",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/01 05:25",
+        "published_ts": 1788207900.0,
+        "tag": null,
+        "first_seen": 1788216324.4368103
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GV1E3OUM1ZjFSX21PMHhHc1FKak5NVWNNYllpaTh4MzN2aElqMVFFdWFCYXJmLU9tdVFIQ0l6WVNER3VTdTQ4ajh6cm9nTzJTV1lBUlFWNTVlRE1nU2hlRFRBMHI1dnNTd2NvQ1Bra3ctUQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788156460.0,
         "tag": null,
         "first_seen": 1788156939.5328732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXcEJvTnoxWW04RVNJNlRWUTBsWmsxVUJQcUdaUmRJVmVjZThwTmZOVk4tQkJoc3JrZEZzSldoSi16VjZfTzNfVHhoVms1aHRDOGZPczE5MVlRbVVpbFVpdERnaDctYXBNVlB1NWFibmtvdw?oc=5",
-        "headline": "‘A+’ 올라선 파라다이스, 공모채 발행…최대 1000억 조달",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/31 14:41",
-        "published_ts": 1788154883.0,
-        "tag": null,
-        "first_seen": 1788156039.5693347
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTRTY4Yjk0Z0plTndJUTAzWWJBQkt5V1JUb20tNVN0ME54VlNqX1lJcmQ4OEJackJhWWNNeWtWRHdkTG9sYWJlVVBRVkZfT0pTMjFYNWRXZ0duQkdSWDRsZVBoblM?oc=5",
-        "headline": "[롯데, AI 혁신의 위기와 과제①] 재계 5위 현금부자가 흔들렸다",
-        "summary": "",
-        "source": "디지털데일리",
-        "published": "08/31 14:35",
-        "published_ts": 1788154504.0,
-        "tag": null,
-        "first_seen": 1788155123.5109768
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,46 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVBMlNPSHNWRjRkemRpYkNTZTJGbDBVNGRYMnl5Q0dQNzYxeW9UeHJYeDlXTXBXN2doX2ZlSG9zXzFQQ3Zydl9WWUNfX2xkMEhHVlpmbEJzN3NKbUdLcGtUd3FMQTVaUFRHTGQ5YTZJVXlZLUhVQ0l5NDlBVnpCRVR4cE13dTNP?oc=5",
+        "headline": "베선트 美 재무, 국채 개입 비판한 ‘스승’에 반격",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/01 07:37",
+        "published_ts": 1788215871.0,
+        "tag": "Strategist",
+        "first_seen": 1788216324.4368103
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSFRsQzd0QnVwMmFibXFQNkdSSlBhVWEtTVpGTWNrYnI0eWpfM2dSSS16cFE0eVhVZnUwbUU2TlVvOVc4bktmMjBYOGpJQUgxZkZVTTg0NmFoQUlmaXNVaFM3czlxc0ltUnV6YU9yR0dnN1Bmbjd3UHo1VHZaVVhRYXYxWjhhVzR4Wll6dFBxNWVqRmRha1Vnd3pIRQ?oc=5",
+        "headline": "Why interest rate expectations are pointing north",
+        "summary": "",
+        "source": "marketplace.org",
+        "published": "09/01 07:32",
+        "published_ts": 1788215569.0,
+        "tag": "Fed",
+        "first_seen": 1788216324.4368103
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zQmRKdkJ0bms3Rm1CZ2hFMlRici1qcjZKMG9jMjBFdlZGeWo3aUZqWlZuejVUTG9DNjlVbUFkbTZNb0Vfc2JkSENBdkhnNTg?oc=5",
+        "headline": "트럼프, 美 금리 지나치게 높아… 워시 연준 의장 연일 인하 압박",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/01 07:27",
+        "published_ts": 1788215248.0,
+        "tag": "Fed",
+        "first_seen": 1788216324.4368103
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQdzR6ajZLcV9waFlQVmJqZ1hHMTIyZkNSS0VCWFhJM0xZUEM2emdqdFdEV2xBLV9HRlM5eDRieFdXQTZVbGNuYnY4T3JwaUVUa01PWkNWLS1UTHRKWGM3X081QVFKczk5ZGZBWG8xOUg3eDcyQ3FrclhpOENaQnNMTjRvaU4xNldFSkJtU3VpTXhFZXc?oc=5",
+        "headline": "Billionaire Stanley Druckenmiller Just Issued a Blunt Warning to Social Security Retirees",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "09/01 07:20",
+        "published_ts": 1788214800.0,
+        "tag": "Strategist",
+        "first_seen": 1788216324.4368103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONkhEbHctcURRSmZNdFBoS3JJUElXay1PWTA2V0xnSDBFOE5vSlh6ZmlJMlJTMnVRVlVfUjdGMC00QTE0SGdTY3BnNTVlUGNfWDZmei05WldqWjVZdDFCTFdRWDVmNG1wVW5JaTBOT28tM00xRG9xY3dDd2RPX25EdnhDenlSYnkxTVVLUUZRa09uQ0xsanl5U0VHRnhpRFNZaTBBTzJzVWxnWExJR3d3ZVV4U3E5RFFMci15RUlLREJUOXMy?oc=5",
         "headline": "Warsh Makes the Case for Higher Rates and Raises the Bar for Standing Pat",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1788191733.0,
         "tag": "Strategist",
         "first_seen": 1788192038.0832949
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakFaUXZzVE9Hc3VuSy1CaTR4VHZsQlRxQTEyUzNCYjdGcjdmQUp4NEI4MTB0NWJPem9iUFdGempCS1pnYS1IUUx4RUpvcGpCYkQ1ZG85cUE0WE95akJaQ1U1NVJHVXcxUzdJZGkxdElhdkJSWTkxQWZhSktoM1ZBRXozYWFIemZ4WFpEb1pydmE1TncyT1p0QjYwTGdoZw?oc=5",
-        "headline": "美와 공조에도 끝모를 엔화 약세",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/01 00:54",
-        "published_ts": 1788191640.0,
-        "tag": "JGB",
-        "first_seen": 1788192930.3231869
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBQdFVMamNCNjZnOEI2a0V0bEhMdWV4cGFBRWtKOTlmd0pSVDhhc0wzVVB0NTVvRU1RLU9WcmJJTGJEZG5fbjg3YjZNa3cxT2k0M0N6Vi1tLUxkd0RQTTlUNm1n?oc=5",
-        "headline": "Japan's 10-year bond yield hits highest in 29 years",
-        "summary": "",
-        "source": "nhk.or.jp",
-        "published": "09/01 00:49",
-        "published_ts": 1788191375.0,
-        "tag": "JGB",
-        "first_seen": 1788194726.277762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE85TGxLRjlpMW1lbVpqN01nVWRXSlNWWExLcThaQ0FpQWRPZWNnck1ZbUVIS2VTaWhDMFVlWWZnR2IweVluenBzUmx3VTl3VGVF?oc=5",
-        "headline": "베선트, 드러켄밀러 국채시장 개입 비판에 반박…\"당시 손실 봤을 것\"",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "09/01 00:45",
-        "published_ts": 1788191104.0,
-        "tag": "Strategist",
-        "first_seen": 1788192038.0832949
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbHllUjJiTnFDa2MzNkxQRXpvWnB6aldnemliZGVPaENpdTZ6R1NhZWdJQXhwVUFIVUlwYW9KQnFURlJTMzJORnFWNE9pLUhBb2hZa3VmdnBnNktJZl9MZFJ6VHFzQWtaSXpGbVhUZWV2Nnh3QWpudk9ES0N1UFZCa1RIcw?oc=5",
-        "headline": "Kevin Warsh talks tougher on inflation than the Fed is acting",
-        "summary": "",
-        "source": "Opening Bell Daily",
-        "published": "09/01 00:45",
-        "published_ts": 1788191100.0,
-        "tag": "Fed",
-        "first_seen": 1788197435.7337663
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 07:30:59",
+  "updated_at": "2026-09-01 07:45:57",
   "yields": [
     {
       "label": "3년",
