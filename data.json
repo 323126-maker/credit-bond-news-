@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90M0lPQmtQOVlnRXFGT1R0Xy1VWTZsZEFuTy0zZHotWktaODdqNS1TMHZJSVdoS09DYnZBOXRFRWF3M19IeGdDRVNRLWR5RzhZeGxr?oc=5",
+        "headline": "[채권마감] 플랫, 매파 워시 vs WGBI 수요 추정 매수세",
+        "summary": "",
+        "source": "네이트",
+        "published": "08/31 17:18",
+        "published_ts": 1788164280.0,
+        "tag": null,
+        "first_seen": 1788165037.6467264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0bk94b1NIeFF5Y1Zma0xGNXp2YlFYQzR5M1Vxc0NyeGYwa25YZjVnQ2FmSmVJU0dzNkhpd3JEcEtRWVlpa1NIRzVlYVpxenJjOEtwVFpRQUJLTlF1cVd3djlUSnk2bHdDeU90TlNwMmtlUQ?oc=5",
         "headline": "미국 금리 인상 우려에 국고채 금리 상승…오후 들어 상승폭 축소",
         "summary": "",
@@ -40,6 +50,16 @@
         "published_ts": 1788162360.0,
         "tag": null,
         "first_seen": 1788163239.1982868
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xNzBRVmM3S2Q5NENoWnMzaUpRUWhCVHlMbVVVcXJXRzNfNHZIWUNqVVg0MmdpaHlNRHNvNGtkaEwtb3hzSkNoTnN4VjJONHRVckE?oc=5",
+        "headline": "국고채 금리 대체로 상승…3년물 연 3.838%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "08/31 16:40",
+        "published_ts": 1788162032.0,
+        "tag": null,
+        "first_seen": 1788165037.6467264
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9oMFdVZnd1Q2NLTTY3UFI5aXJLYjlfV1NxUzVQMUpsUHMwUjQxT21YUk94MDg2Nnl2eFJqYm5hSEcteno5VjhQdklDSS1GdlB1TGotUmNuXzNWdw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788051900.0,
         "tag": null,
         "first_seen": 1788060631.8982146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IN0JhTE9zaTdjcVF3eUlFMm5VSHpUaFgwemNaUXA1eUs3T2pISTFfS0tFR3VRTmh1TUVSR19LeUZFWkNPazJNTElBTVBCUTJ2QUdnX1FKd3R6R0VrTXZDMXZCUEVnLUdUc2NYZjhMZW9iQQ?oc=5",
-        "headline": "금리 인상 끝나가나...크레딧 시장 '높은 이자' 눈독, 발행 회복은 \"글쎄\"",
-        "summary": "",
-        "source": "중앙이코노미뉴스",
-        "published": "08/30 10:04",
-        "published_ts": 1788051885.0,
-        "tag": null,
-        "first_seen": 1788069637.713648
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBEUm80bkw4ejNheVBleDZqMDhibEZDdUUxaTFuWDM2R0VYOGpwQnRCNW5sUkpNU0Y4ZS13c3hhWEYyRTZCZG9JeGctdS1BUFU?oc=5",
-        "headline": "국채 이자, 딱 정해져 있는데…왜 ‘국채금리’는 매일 바뀔까 [최소한의 금융상식]",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "08/30 09:03",
-        "published_ts": 1788048185.0,
-        "tag": null,
-        "first_seen": 1788074125.7453856
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeEpJRVYyTkJVSUNocFhEQVczV1NkcF9wYThaTmVoSkpaNHBmaHA3bk1BNEpuZlo2UlFtSm50clNQMW5JS3ZtcDFwWHpMNUNnRFREdXk0MHNRSWlYVUVXd21UT3AydllJY3lMUjA4dnBfcmExd2d2SmMtYVlXd3dTLXJGd2ZXUEMxc1ZEaEZOWllvYVVPZjdnd01YcC15ZmxtcWFDbFhINDNzVk1MQ0hBSkR2WmNFMzA1bjlhYnFIMU1PWXRrdThjWkFUTTc2Q1dGLWNYdjVrQXlKZ9IB3wFBVV95cUxOdE82Qk15T19iTWsydWNObkVTMUNZMUd4a2dpYWlQdU8xendXeWdDdDdPal9zRzNCenJSNDVBRmRVMEIyc054eXFPSGQxcmVVNmJuRkV0NWwzMjZBUnBqYXVBcUtKMWxETE5jS3dvakU5UGMweDNjNS0ya0VDR01qRnUzc05pWUhuQkZ1UjlyM0k3N05LTHk0a1ZuTmkxZGVwZS1tTUttMWx1dVlTa0NXenk1cGFLcV9NaFN4YnlJaU90cFdXeDl3UUMxaHJNcDRjeWRPWmg0ZVRCTmJNVEhz?oc=5",
+        "headline": "AXA Stock And 2 European Insurers Riding Higher Bond Yields",
+        "summary": "",
+        "source": "simplywall.st",
+        "published": "08/31 17:17",
+        "published_ts": 1788164244.0,
+        "tag": "Global",
+        "first_seen": 1788165037.6467264
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yd2ZuWmJzWWEtT2hBbUlkS1BUOWt5Q1lBSDU3MnpZMUV5Rlc5cDkxQTFCeC1KdjFFMmY4cXJtM0JVWW44Q0hwa285MXJZQkhHalRzbXRNYk1rN0h5?oc=5",
+        "headline": "[투자 노하우] 워시 \"해야할일 있다\" 발언에…9월 금리인상 확률 상승",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "08/31 17:02",
+        "published_ts": 1788163346.0,
+        "tag": "Strategist",
+        "first_seen": 1788165037.6467264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0YtaXpjTngtUDhERzcyMWRlSEo5U2F5S0lWUE00ZGhaS2swRWVHUWNJV1E5MTdOTTduLVJHWkdPUE1ick9LbGhKUl96TUJLM21UODlQaFVKc0tCQnpFWVp4dlhBZ2VmOGdRT1JKZmNPcm1xMHItREpwb3BQc09IUw?oc=5",
         "headline": "美 긴축 우려에 엔화 160엔·日 국채금리 급등",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1788144900.0,
         "tag": "JGB",
         "first_seen": 1788147031.1949499
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFByNHJsY1dBWFYySnF3SnpHNmtMRTBoMFdXNmRUQXRZLVJpRUk5RXYxelAxYjFqeDNOXzBETDhkeG9uSXgtNVltdlRDWFE0OTJSMHJ1a2RDMjR0d1MyNGtwY3FjdnpDVmpZNDRqUQ?oc=5",
-        "headline": "850원대 엔화에 돈 몰렸다…예금 1.3조엔",
-        "summary": "",
-        "source": "mstoday.co.kr",
-        "published": "08/31 11:48",
-        "published_ts": 1788144499.0,
-        "tag": "JGB",
-        "first_seen": 1788153325.0688224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQeWpTUDJZck51Vlp0Y1I0aEtNMlpOWWRxYXRmR3lTWnZDODNnT0VEbmxveHRUX0xLajFnVjZjT2VjR3Bsd1lENldWbmZ3dXphbXdMUWt6RmhuLUlzSHNqS19CRE44TlRDRTNyUHVtTHAwdF91VDNLb3BmT1ZvX1YwakpjR1BIU2FhSmp1N1ZJNUtBVlNKTVJ3MXRVX08wQzZtUFZoM2lRN3lFeXdmeEhTTTZEb0ljRVl1bnVxNlh3QXR1NjRIT1JLTjRMWGl5emthVlhQY1NMV3dyQQ?oc=5",
-        "headline": "A pop for yen despite USD/JPY weakening earlier past 160 as Warsh's hawkish tone clashes with Bessent",
-        "summary": "",
-        "source": "investingLive",
-        "published": "08/31 11:34",
-        "published_ts": 1788143681.0,
-        "tag": "JGB",
-        "first_seen": 1788145238.8130324
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uTjBOOUZHM1F1YW00NlhNTVAwbGF5MFRnc3NUdllBWlVybDQxRTBoT1hxTVplV29iSllHVVZaQ2NKME92ZENaenFTTW5QZXp5NGF4YTVSZ9IBXEFVX3lxTE1TYXFzOFBKd1lHWWVvVXRRZFllQlNURWJBbU5CQTllV1hUa3EzZTR6X09ibEdMWWFMdEl6MnFPMXBaN2pkcWlEUnpqbjhCRFo2YkdFY1ltU3BsdFdO?oc=5",
+        "headline": "미 M2 유통속도 1.415, 금리차도 재확대",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "08/31 17:13",
+        "published_ts": 1788164001.0,
+        "tag": "수협은행",
+        "first_seen": 1788165037.6467264
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1LOGUwLXJJV0x3cUJtZEdFdVNMalNWWkRRU0hKdjBUU3FXamsycnJ2Slc4RGZIWEdLNWExM2FpVndfbVVJeDh2ZlNYU2ROakJYZkhGWnBMdy1wNnllSFRUNU9nTks?oc=5",
         "headline": "[기업해부 한화④] 한화가 다시 화약을 꺼냈다…K9·천무에서 조선·우주까지",
@@ -2400,20 +2410,10 @@
         "published_ts": 1787736150.0,
         "tag": "우리지주",
         "first_seen": 1787737524.6382875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xTlpfTVJEN2duWXZTbVBXMngxUnNWdzlpZ3pZUVdWYUlIRWVNdkQzV2lDMUJjWGdnemNUUmVWalJpTWtuNUMtME8xYW83cFJMVGVZb0RmaHpGMXBQOU1HWGNlS3J5Q3I0U25wZkJDV21VQQ?oc=5",
-        "headline": "JB·iM·신한금융지주, 자본 확충 나선다…9월 영구채 발행",
-        "summary": "",
-        "source": "마켓인",
-        "published": "08/26 16:16",
-        "published_ts": 1787728591.0,
-        "tag": "우리지주",
-        "first_seen": 1787729433.2695482
       }
     ]
   },
-  "updated_at": "2026-08-31 17:15:50",
+  "updated_at": "2026-08-31 17:31:02",
   "yields": [
     {
       "label": "3년",
