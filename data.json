@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JcWpMVU0tM3J0ZUNSdnE3ajZTWURaQm1mZU94eXFWSFgzQ1V2QjMzX296RUdiWFJZYThjZjBPem96Vm9DYTlOSmVVRFd1TkExSl92OV9fRkhpSTFZLUdHV3NyWUZhdVQwVEhtc0pR?oc=5",
+        "headline": "미·이란 긴장감 '재고조' 악재 겹쳐 국고채 금리 상승",
+        "summary": "",
+        "source": "세이프머니",
+        "published": "09/01 18:08",
+        "published_ts": 1788253714.0,
+        "tag": null,
+        "first_seen": 1788255032.5882099
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0zNlRNY0tnVWxxazJtYlJrekZhZmRJaHZmWktnSXMwQ2s4TlRPWmE1Y1ZQZlFIMTdQcGJKMGt3czc0TWtDczZQbHZiSUkyZGZXZ2toT2Z3WklFbkZZcW56YngzREFMTDQ2djBJRmozMmo?oc=5",
         "headline": "무디스, 코레일 신용등급 'Aa2'로 상향…SR 합병 반영",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788184748.0,
         "tag": null,
         "first_seen": 1788185729.6523511
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE94Yzd5dGZVcUxrUWRpd2ROckk4TEFjSWtYd2VScjR4Ulo2OXF1Tk8yb2hWUl9BTjdRSVJVSlVFMFpTakt1QVotYWNVRVRHNW1DcnRMRXJSdXdQNzJ4Y3EyQ1RlTXVZZ0RnOGRVR1g5akg?oc=5",
-        "headline": "미 달러화 약세…유로 강세 속 잭슨홀 연설 급등분 일부 되돌림",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/31 22:49",
-        "published_ts": 1788184181.0,
-        "tag": null,
-        "first_seen": 1788187529.312101
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 18:15:48",
+  "updated_at": "2026-09-01 18:31:03",
   "yields": [
     {
       "label": "3년",
