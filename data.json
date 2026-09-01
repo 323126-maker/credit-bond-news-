@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXhGZTMwUndRbWh2amJCX0M4V3AtOTZPUm4wajhsUEo2eWYtWi1YYksxRHN6ZmphQXJWUU1iQllSNzJJSEpHeWI2V1NGcVctYVFfUjRnclVFaDV0dTQtaTFUY0puaDdMQThOLXNxd2RpLTU1OThqd0syc3hPOW1rdUJGQ2tkR1lfbzJyeTRxeUM2S2dmdzNXMFhTcHJiWmp6dWU4NDhrdTFuWjBY?oc=5",
+        "headline": "한국도박치료전문센터 : 을 통한 성공 전략",
+        "summary": "",
+        "source": "Spazio Aperto Salento",
+        "published": "09/01 16:01",
+        "published_ts": 1788246064.0,
+        "tag": null,
+        "first_seen": 1788246923.8896015
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcllKTzVMNFJGd08tb01lOWxEY3VXd1hEbU9DVm0wSmFlbU4zSUdDMFRrT0Y1S3JFMU1PTmV2ZnJOb3BzaEhaS3dUNjBCOGRUenhwdkdqYU9Bay1JTnFDcE1DZGlNNndlNjkxUE5WZ1BuZEtTMFhzVDVPSS1KMnpjLQ?oc=5",
         "headline": "[마켓인]한신평, 한화엔진 신용등급 ‘BBB+’ 상향…“수주 호조·재무안정성 우수”",
         "summary": "",
@@ -30,6 +40,16 @@
         "published_ts": 1788244342.0,
         "tag": null,
         "first_seen": 1788245125.84765
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBTNkk0b21OVzEwM3FGMDRIT0lNUzlJZ0M3UGlnbWMxeVlyTUgyWVp0ZXFDSW1OQ2I5YlVmS2xMX0FqaVBrQ2NLNnc1b01zOFhEUWhjX1hzTTF5V2J3V2lrMkxVbklaV3BUWkw2QzQ0UC1KakpVOGhhb1ZueFFpclE?oc=5",
+        "headline": "월스트리트 조간: 미 증시, 역사상 가장 약한 9월 진입, 미 국채 4.75% 방어선 붕괴, AI 컴퓨팅 파워 '금리 인상 거래'에 맞서 분투",
+        "summary": "",
+        "source": "PANews",
+        "published": "09/01 14:21",
+        "published_ts": 1788240065.0,
+        "tag": null,
+        "first_seen": 1788246923.8896015
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaVEtOGYtdWxqSExkM2Nrc1h1eGItZk5ua1o1eW12SlBzeTh6U3hxSm0tWkhYbGU4OTR5blBzYTdfaVRGRDdtY1Zia1NVdmlUcHVLNFFWMGpUc0FpbElNd2JScHc2b3Y4SjhfT2NabGhuSkRsN253YlBtZWl1Nmo5eE5aTzZnVHNP?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788165333.0,
         "tag": null,
         "first_seen": 1788177635.669523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VTHlVbEVRMV9LdmNjc3NFeGhWb2I3RDhvNTNGX3FkOV9JbjlmNTZiaXJITDF3OVJiaFQtWTJEb0g5YTRUcExmaUVTd1ZoNUI3bmdTQ1ctR1dWdG95YVFFby1qRjFRMVFXbjJtZWFacW_SAXRBVV95cUxPUUVIbTZjSzlzQkJsLUZ6bmJXTUtMZG5iZVNqd1VCT1RlRzNfaXc3VzlRYmJ2alpjUndVRTd1dzRFNzJtOUUzeU9YcldhR1BPY0hMdjYyU0tMeEpwVnE3bHhHMGNCQ29rc1UzVy1NaEtYNzMtSw?oc=5",
-        "headline": "달러-원, 1,368.60원에 서울장 마감…종가 기준 작년 7월 24일 이후 최저",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "08/31 17:30",
-        "published_ts": 1788165043.0,
-        "tag": null,
-        "first_seen": 1788165924.574594
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95TmZPTTlpYXZNeVJSSUpMN00xanMzWUZtN0hjOS1pSjExV0xzT294LVhwQmNnWWF4X2ROX1k0TEVTYUpDU1RGMl9PYXBaREFoa0VqaG9YMA?oc=5",
-        "headline": "4000억 원화채 찍는 ‘베트남의 삼성’ 빈그룹 …韓 채권시장 인바운드 확장되나[시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/31 17:21",
-        "published_ts": 1788164512.0,
-        "tag": null,
-        "first_seen": 1788184841.3380191
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 16:01:03",
+  "updated_at": "2026-09-01 16:15:47",
   "yields": [
     {
       "label": "3년",
