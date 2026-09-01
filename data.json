@@ -392,14 +392,14 @@
         "first_seen": 1788206440.3935456
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQUNrVU5KNmROTmw5cUNqNWJrMWx0aF9tWWJ1andiRW5PUmVVT0VKZEdKNjRkaHJQckFtZENENlYzbnJ6V3ctU2tQSGxPc29vVElOSHpEZXRjU1lDQWNobVpPNWdRakFjVVJmQ2Y1TW9SZGs1Tm5r?oc=5",
-        "headline": "S&P 글로벌, Aon 전망 ’부정적’ 하향…USI 인수 부채 우려",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tVGx3N0tTeUZVLVdaNm9ObUdiQ0NQZTNjT3ZSbG9nQTFGYlNyMU5qTmFHWl9xN2JfbGN3bDFlUnNYaDVqTmoyeUxPX3BQNUwzZHo1b0locnJTV3ZwMWs0OUJGVU1yYWZJUGZQcFhqT2ltdTdhUXFF?oc=5",
+        "headline": "빅토리 캐피탈, S&P ’BB’ 등급 유지...인수합병 후 전망 ’안정적’",
         "summary": "",
         "source": "Investing.com",
         "published": "09/01 04:18",
         "published_ts": 1788203880.0,
         "tag": null,
-        "first_seen": 1788271238.7938054
+        "first_seen": 1788272125.237602
       }
     ],
     "perpetual": [
@@ -1690,6 +1690,16 @@
         "first_seen": 1788268526.416022
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQc1JqM3BRYWNiZnY2WFdUSE5MYnV2TUJDTFRvOVRtTjM3WGU1MGRwOElkeHNmczNrRmk4NDRfeWp6QnhNM1BfejhLcDdBRzlZd3FKZWFWTzhZZFB5eEdXZHhVQ3M1ZWJ6VTBHUGp0UWtfZDVZYUZXblZ2QUJ0OTJRS2V1MThBR1I4Q0JwQ0trVHBVcWd6MlA1aERJTDJqM2o4YjhoLVFGbGFIcFRS?oc=5",
+        "headline": "As U.S. bond prices tumble, yields are jumping globally — from Japan to the U.K. and beyond",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "09/01 22:05",
+        "published_ts": 1788267900.0,
+        "tag": "JGB",
+        "first_seen": 1788272125.237602
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOYWlIWWxYWXRWZFFrT1I2YWZZdjdyTkhzWFRxelItZVZSdUpQS0Y2TVlSQ0YwYVZIb28yN012akpDOUhYUkxsLWdDTU93Nkp2OEQ2VG15eU42eENfa2tjc01BQ1ptZmVYUUtfQXVpeENLR28tOXdIQURjcWpHU0hlVF9qSEJoUVlyQ2pMY05Ibjl0UnVDczRLSkp4TjZ0a181T1ljLVNaSk1fVE5RY0VTMW45UHVFTmZFOWhSVmtrTkk0dDQtRldHZjNXVHZhaDN5OWV6aDZTVGVHNnpqZkpLM1I1SQ?oc=5",
         "headline": "Fed Chair Kevin Warsh Pushed September Rate Hike Odds Past 50%. But 1 Investor Says the Market Has It Wrong",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788255120.0,
         "tag": "JGB",
         "first_seen": 1788255923.7417188
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSXE1amZIRWIwXzJ6NTVmZ1pLQVZIVThoQjI1QnRzUGtNX2UybVVGVFpDM01IenhCY1F0Z0lTNlphU1NNdF81RGk5XzFXWndRcVBRRkd6ZWJXeUM0RUpZc01yeTRCMXY0S25RblhDbXhNMHpVM0xmaVRsOHMxMGdkOVF0ckhBLU1SbkHSAY8BQVVfeXFMTlR1WGhmQWsyWlRVWGt1WkVxczJJdkpmSS1NOGUwUzFvY2xxaUdJOGpRbnMyYjV3YzIzR0MtMm9aMzFrOGJ5cGtYWnUzblotc2pfcE91Ym8zcF9PRGg5MDQwRWpfcDVocFotUlg1WWlCamE5TWlYS29Fd2hYNVNEYVBvVlA1QTJzVTVmVXZkZGc?oc=5",
-        "headline": "Global bond yields soar to multi-decade highs as Middle East turmoil reignites inflation fears",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/01 18:31",
-        "published_ts": 1788255119.0,
-        "tag": "JGB",
-        "first_seen": 1788256839.8992224
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 23:01:07",
+  "updated_at": "2026-09-01 23:16:05",
   "yields": [
     {
       "label": "3년",
