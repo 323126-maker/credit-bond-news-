@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5VYzRFNm9rLVliWVhETTdmVFRTb3l3N2dycFI4ZmFVY0x2Q3RITXJHY205MHZieWdPTTI3T09FR2tUWmxiTkpJb21PNThNcGx1ZGZxdVg5UlFtZw?oc=5",
+        "headline": "李대통령 \"금리 상승 피할 수 없어…취약계층 고통 줄이도록 재정 역할해야\"",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "09/01 10:45",
+        "published_ts": 1788227105.0,
+        "tag": null,
+        "first_seen": 1788228037.3696117
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPQ2txd1JIR05DSUtvc2pEd3JVR05GcUtZeGR0cDc0UkY1RTVfNDlGRWk4VnRRZXpuMEYycTNubWEzeU1kc1RoTURyam9YVldZcm5ya0paMFYxUQ?oc=5",
         "headline": "李대통령 \"예산안 정치권 대승적 협력 기대…여야 차이 넘어야\"",
         "summary": "",
@@ -1248,6 +1258,16 @@
         "first_seen": 1788227122.863967
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kYUstWXJ5VDlkZ0lsNXl3UFN3c3lBd2ZrTUU1VW5wbUl1MHJlaXVVM1lDVWJ4em9aQ1YyaXRiWjVqQVJnemFfOWNrT0pXTDZ5Zk94ODBfRDhHRmVESVJIOUNBOV9Gc0NtcU9CUnFn?oc=5",
+        "headline": "[속보]李대통령 \"금리 상승 불가피…성장잠재력 훼손않도록 재정 역할 분담 나서야\"",
+        "summary": "",
+        "source": "news.nate.com",
+        "published": "09/01 10:24",
+        "published_ts": 1788225840.0,
+        "tag": null,
+        "first_seen": 1788228037.3696117
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DOGQ4N284RmFsbHZqLUNPY3V5OFBBbVh6VzllZzJYRW9lLWVqOW1QWnl0ZV8wVnUzdVh3M2VaVHd4dkhJX3hmc29hM0FMUUxtNFBTZG9mT0Q5NXQzQW5ZdQ?oc=5",
         "headline": "[속보] 李대통령 \"금리 상승 불가피…취약계층 고통 줄이고 재정 역할 정교하게\"",
         "summary": "",
@@ -1266,6 +1286,16 @@
         "published_ts": 1788225150.0,
         "tag": null,
         "first_seen": 1788226240.2991734
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TNHRaWHdiOUxyUFFWMldaMV9Lclp3Y2xVcGVLSUJ0VzBGanRXbDhqdElwbkc3cVlKb05KZFlqLVpuTnNYRjlDUkhfRDAwOGxGazd4RjJwbUlEdTlBYU9sbUpKam5SdUx0Yk13b3J3?oc=5",
+        "headline": "김용범 정책실장, 유임 하루 만에 사퇴…이재명 대통령 사표 수리",
+        "summary": "",
+        "source": "주간시사매거진",
+        "published": "09/01 09:56",
+        "published_ts": 1788224194.0,
+        "tag": null,
+        "first_seen": 1788228037.3696117
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QUHZMOWpoZlNWaVgxb2szdTktTWFNTkNoV2RXc285cGQ0ZHhWazIxMUhDNlNtVUZ3b3BLd2J4a1FRTV9IaFRWTkFUb09TUmdCU0ItbkF3S09sNURIVVE?oc=5",
@@ -1576,36 +1606,6 @@
         "published_ts": 1788073220.0,
         "tag": null,
         "first_seen": 1788089430.1649349
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5McTUzcGNHc0szU205S0ZULWRlcGN0ZzYyeG1TVDBSTjNoZGNXUXlyWDNYcm9UR29SRU9UQWlvWWdKaUxUTFhucVUyNDJWRjFYWDl3?oc=5",
-        "headline": "李대통령, 순차 아닌 일괄개각 승부수…치열한 가을 청문정국 예고",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/30 15:37",
-        "published_ts": 1788071820.0,
-        "tag": null,
-        "first_seen": 1788084036.7144766
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQWlkZlVkcjc3ZUNocGM1ejVyVWhpaUlQMkpKdDJRTUdpVGxWbXM1NVkycUxKUmNqNHl6d0tZLW0yZk1VVmQybkc5RWtfVkZMWFNzSnJ0VGxXM0xFMnlsS0ZNSURLMWxmTmwzOVdVdmUxUG9HZVRWbkRmeGg4Y1lmNjBwQ0JVRVpqZENWZlhjZUVPQ0ZGTm9KQm1R0gGuAUFVX3lxTFBUbm9wTm9aRVhabXFMaXdta3ZRdkRhRl85TzU4WWlxZXBwVXlGX3J6XzE1a0pLZUtydGdqMVZabFpEYzVsSWEzdFhQemtCa2FaTFZJNDRoNW9XaHZCLVI2dXdoRUx2RjhMbUNHd3FQQ1JRcG9TSWNLYkozWm53dEVJRXdqRXZRbVgzSzBGUlJCZmJES2RRcUtFNGxaeVVLNlhFNkgtYTRaTjYzTkF0Zw?oc=5",
-        "headline": "2년차 지지율 30%대…국면전환용 개각카드 던진 靑 - 조선비즈",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "08/30 14:47",
-        "published_ts": 1788068820.0,
-        "tag": null,
-        "first_seen": 1788071434.639349
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TRkFCbkdTdmxPYTA4eGxzRUQ3ZXlGVHlaMW9Qa3pQbkthMDZTOVNQb3VMbm1wSW8yOXV1RnhsVVJua1pLNFhKa0dyUWlLOUdQMWUzSmpUUEU2ME9QWDBRS2MyUnV5THhUWnVlQ1NmU1c4ZVRGOXNaT3lRR294M2_SAX9BVV95cUxPU0ZBQm5HU3ZsT2EwOHhsc0VEN2V5RlR5WjFvUGt6UG5LYTA2UzlTUG91TG5tcElvMjl1dUZ4bFVSbmtaSzRYSmtHclFpSzlHUDFlM0pqVFBFNjBPUFgwUUtjMlJ1eUx4VFp1ZUNTZlNXOGVURjlzWk95UUdveDNv?oc=5",
-        "headline": "野임이자 \"파괴왕 이재명정권 개각, 국민 눈높이에서 철저히 검증\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "08/30 14:25",
-        "published_ts": 1788067519.0,
-        "tag": null,
-        "first_seen": 1788098436.401886
       }
     ],
     "global_bond": [
@@ -1628,6 +1628,16 @@
         "published_ts": 1788226590.0,
         "tag": "Fed",
         "first_seen": 1788227122.863967
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTmtzZExHWk5xbXJ0MnB4UEkwY3pPbFNlUjJjdjBWQ1RUNkNqTmpJTGZ3Q3BrZ0o3QkhxZG1uRGkySm9oX0I1ZC1UbFVfaFlYenpBWEJqeHc4Y084VUhxbjNGMXMwOTc5RGpXVzFMWFpoQzR0OTZFT3l3eGvSAYIBQVVfeXFMTkdhUmd2b2hGeFFQYTYzOVVSUUZtZWlxeXdlRmc5ZXZSSDRIWDBYTEZocWE0cUFLR0YwYTY4TXhKM2syT29QbUY1YmFDV3NqVTlXUGtnaDczX29reU9PaVVEcjNfVWFLTkR2TDRkdEc3WGRldU5WY016U3FMakVTOHZCUQ?oc=5",
+        "headline": "CNBC Daily Open: Trump wants to floor it on economic growth as Warsh eyes the brakes",
+        "summary": "",
+        "source": "cnbc.com",
+        "published": "09/01 10:14",
+        "published_ts": 1788225240.0,
+        "tag": "Strategist",
+        "first_seen": 1788228037.3696117
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KZFVLX0RNVTlCeVkxeFhpSWRmWEwwdk9rWVNpZk1Ed0lFOWZKSTEyZjdadkxjNkdXd2NzRVFpZkc1N0l3VS1ROFk0T29jaXQxVDZjbGE2TXBTazVHWHZmVWZMMG8zeHhSelhqR0hTZGdvWFBOU1E?oc=5",
@@ -1688,6 +1698,16 @@
         "published_ts": 1788222840.0,
         "tag": "JGB",
         "first_seen": 1788226240.2991734
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNWmZzazQzTk5FUEJQVmltLU5jZUVYYXlOS2FTTG1Pb2hxRDZEUEpETGtQSHVRbHdlcjdHZkk0bTZwQlkyV2hSdzJiZkNlZFdYRjFkTUVRQlp1TnhiNW1XZnBnMkFsZThvcXhLU2FaaGQtcUNSOUlYVVk4ckpORFZCMHVNbEtVVmhWaHlSV1o2ZjZnb0EyMU1kWldiRnZQeEZkOU5aSmhfZkEtRmdEa0NHTDZiRTFrU2tXelctYW5DRkZHTTZxMGtGell2Wkt3WVI5eUc3eW1FOUhaVEEycWc?oc=5",
+        "headline": "Bessent urges Japan to show path to fiscal sustainability, rate hike - NHK reports",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/01 09:32",
+        "published_ts": 1788222720.0,
+        "tag": "JGB",
+        "first_seen": 1788228037.3696117
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMnFqZnFiUm16bFpPQnJYcU5OR2pMQ29ha3ZaTDhZSDdCcUhROGdLUDA4bmh5aWwtR0d2Q0c2RXVzSHZISzVvdDY1Z3cxUWFnWVFfOG8xWGhKdmdvcE1RcnBYSk5MaTdKWXVzSDFjUjl2b0lQb1R3eEtYaEhqaGNBelpaUmdIRnFjaFVrbGJnX0hVR25FOTI0ajdn?oc=5",
@@ -1920,6 +1940,16 @@
         "first_seen": 1788211834.0367482
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVU9DZ2JhV3U3WjQ0S3h5NWNkNzFZekU4aDMwRXJJU0VCOGpjS0tZRFdzUHdpV2dDcmxfSmxrV1JmSlo3bzIxSXhNd1A0UjJZbVBJeFc5NEdEY3BMaEs4cEM2YmVnOUo3MzVDSmtFc0hmR0M4UzYtc2lKUndrR0V4RDNlSnFCbEt6R242ZVlNalB2U09PQnFnZTNrR2tINEZTUWZ5cHZxcEg1RUtXTGhwOFRmQlpWUGVwMVA3eGhyRUhZWk02dXM1QkVXMGwzdDg3aHN5MHlxNkQ3Mk1idVE4Y3JUVHF6eFpoblVLeGptdDJvRnF2dnNBcFJMX3FTdXRPenZMODhB?oc=5",
+        "headline": "All Eyes On Kevin Warsh’s Jackson Hole Speech As Bond Market Shrugs Off Buyback Support From Treasury Last Week",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "09/01 06:07",
+        "published_ts": 1788210442.0,
+        "tag": "Strategist",
+        "first_seen": 1788228037.3696117
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOM1BOdWJvWlNDMGd5LXBENU1VU0FRT1RMNktCMHFiVmNralJ0Q2VyUUhId2l6eWVYQ2dxWWRpMS1MSkgtNDZZajNwMVAybEVGS2ZwdnJlYXl1cndEbkl0UFBsQzJXVDd4OWhSUkxRNkZWaHFwazZOcTRrZS1CN3o0akRHMEQwWjlsbnk4cUF6QVQ4UHhaQUg2LXNRQXNTc1N0YzNnYlBucEV1cnhURmt3ek1TUVQtcHJ4N0c2U0J5c1R3eGZtUm9iNWJVQWo2RnRkREE?oc=5",
         "headline": "Scott Bessent Says U.S. Bonds Are Beating the Rest of the World Despite Wall Street’s Warnings",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788207480.0,
         "tag": "Global",
         "first_seen": 1788208236.3891973
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUnZjcVQtYjktWWpvYjhPcjkxa0p0dy1kam5QcFVtenZ5M2cyaUVqZmVOX2o1aTBaeUlKVGZQbUF2Rno4VW84R1o0NXRDd0ktOFpnUUFaVkd4aThGRGQyVmktNENvMUc5SWYxSkJIMS1IQklhdWFYYm85bkFQV0lYUXVjZUM3aWlVLWdRQTQ5UkJ3V3MyZ2xHQU9ZTmxlWkt5UGhuc2RaRnhUTlRRbVFWVEdnSXVFVW04c0V2ZVk5ZTNnU2laczh6R3FTZXFNVENQYTN3bXZpcVZRdFk?oc=5",
-        "headline": "No contradiction in rising earnings, higher bond yields",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "09/01 05:16",
-        "published_ts": 1788207400.0,
-        "tag": "Global",
-        "first_seen": 1788210923.632616
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEVyeEVNMHZPTGE2RkFaSVlZYl81Wm5CbFNyOF91ZXRzWGNxT2lYRzNJNnozblZoRjQxT1RIRHR3Z3JDaXMteHFsSC03SnNXbXQxUXRaempOazdCY200MUYtbThaaml3SmlxWUE1ME5hWllGamJMV2QzWVRjWjdPV3phUVE5SzFjdWhGZ0tXTGVrT0FxenJUTGtZQXhQU1BJWUl3Q0xEYTFRcnoxbndCcG5nRDZDUzZfT0ZZejZaOEp3Z0lFZWNWei1WMjRHT25JZkxvdGNjNA?oc=5",
-        "headline": "Trump on Warsh: He'll do what he has to do",
-        "summary": "",
-        "source": "The Lufkin Daily News",
-        "published": "09/01 05:15",
-        "published_ts": 1788207347.0,
-        "tag": "Fed",
-        "first_seen": 1788208236.3891973
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOemZ3aUpBaWluMGxSV1BfX005ZUh1QXlRZUppeHJSZGJVQzQzeFpJWGxWbHNyY1JJeGxkNWlzYU5nWVc5NGVFbi1sQjRIR0dYTkZjbUZnd29kckVzQTQ1bmNkdTFYZWRyNXJpM1NkRE5mOVhESG0yMmFXSlNUeGYwM1RyMmRQUlVmdWJVdWp1N2VkSndKYkhEaU1KR21jVkV1OVNRMGF6aDBDS0JwS1VsTkViU3ppY3dHRjlRYzNTSi0yWmF0TThV?oc=5",
-        "headline": "Debt outlook: RBI liquidity management, global rates to drive debt markets in September.",
-        "summary": "",
-        "source": "Cafemutual",
-        "published": "09/01 05:10",
-        "published_ts": 1788207047.0,
-        "tag": "Global",
-        "first_seen": 1788210923.632616
       }
     ],
     "watchlist": [
@@ -2413,35 +2413,8 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 10:45:46",
+  "updated_at": "2026-09-01 11:00:58",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.838,
-      "chg_bp": 5.0,
-      "series": [
-        3.742,
-        3.74,
-        3.669,
-        3.742,
-        3.746,
-        3.778,
-        3.808,
-        3.791,
-        3.781,
-        3.796,
-        3.847,
-        3.798,
-        3.811,
-        3.854,
-        3.836,
-        3.83,
-        3.816,
-        3.755,
-        3.788,
-        3.838
-      ]
-    },
     {
       "label": "5년",
       "value": 4.053,
