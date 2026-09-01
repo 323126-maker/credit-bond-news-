@@ -1238,6 +1238,16 @@
         "first_seen": 1788237030.9212847
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5OcFBIcGVMVTFGcE84T3FpWkpfMjNBRE16UjhJNWh1QUdObVh2al8zQUpyb1NxMkpZVHBBMG5MOFNzS0xOSmMtSWpJZXVYMGUy0gFsQVVfeXFMT3B5YnpJQ28tMVF3YmxENlBiRHJpNkd1ckJQdzZyTlQzQTlRblpTY1JKQkhnOGN4amtveFRVZTh4M2tBWjl0RmFyODNueElzZjR5R0dyeFVpbC1RdTV2SFJQdWxteFAzeDlvRHJ2?oc=5",
+        "headline": "이재명 대통령 “한은 금리 3.5% 가능성…부동산 투기 세력 유의해야”:경찰연합신문",
+        "summary": "",
+        "source": "경찰연합신문",
+        "published": "09/01 12:58",
+        "published_ts": 1788235101.0,
+        "tag": null,
+        "first_seen": 1788242438.8731554
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB4N3ZOVDRrNjlQLUVYcWtlbS0zVTFxbEZfcDh1bnU5eGx3Y2RPMnFsajlTRzZNZVdyVlRLV0Nlc3RsejVpY09WNnE0MjFxMVJmd3hlZlZ0OV9MMkJENTJKVEd1WmdoMmNOalc5Y3dYSdIBc0FVX3lxTE5vRVRUVzZjang2X2lueDFUOVBMWDRjaEI5QUVxYWFqVEV1djB0Znd3M0hjZDZfNjBFeG01Sk9hcTluRTJWLUpXSkl6Zm53TzZJMm9rM0poX3Z3OERTVDVJOWJ3c1J5SHVna3IzZTIwN3R4V28?oc=5",
         "headline": "李 '저성장 고착화냐 반등이냐'…내년 예산에 '생산적 재정' 주문",
         "summary": "",
@@ -1596,19 +1606,39 @@
         "published_ts": 1788162874.0,
         "tag": null,
         "first_seen": 1788164127.2640436
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBBSlM3cWxjSW1Ba28zVUVab1BkSHJLZ1VQb0Rpb3N6c1NmYU5leXZhUm1BT0FZdk1TUF9ZMEo5VXZGcVotb1piQ0x3?oc=5",
-        "headline": "\"국채금리에 군대 동원?\"... 피터 쉬프, 트럼프 '군사 옵션' 맹비난",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "08/31 13:30",
-        "published_ts": 1788150600.0,
-        "tag": null,
-        "first_seen": 1788151524.5089464
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUduVUhfSkJob0FDSldsYk1qbGJmeTVCb0xfbmctOW9OUmdnRGd2djVGX2VzT1VVN1Q4Y2FiZlNaYlFBczAtbmQ1MmRsVGg0M0RLdnV2LThFTDVnMWN3Wkt0Mkd4SmdROHJjUzRtbVl2bVdGTzBESEZvOTlxaUhwbXg3aFJXOXJFZHVuZ185VzlnaTVv?oc=5",
+        "headline": "Analysts react to global bond selloff",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "09/01 14:51",
+        "published_ts": 1788241904.0,
+        "tag": "Global",
+        "first_seen": 1788242438.8731554
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0ZmlKNmIwQlUzRHZ1T0k5WW1FSlAySmNTZHFwQ2tnWDhiZ2lYUjRKaUdEeDBoeFJuMEhFRHVkbktuOFlwRTN5Z2Jib2NKX1M2OWlfd1Jla2YtTGNzMFV1eGZfY1kwTnfSAWxBVV95cUxOLVg4SU9mSGZYcnBSZ1Fad1RRUGR6RTQ2c1RiRlQ4WWcyLW9jaXZTcHA2Y0VjaW5hZTZrWlhsdFVOa3g2OGV3SklidTdsbXFBRUdrTW1pcXhucVFlSlBTLS1QMzFZM1FSRjZObDk?oc=5",
+        "headline": "日 10년물 국채금리 3% 돌파…1996년 이후 30년 만에 최고",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "09/01 14:46",
+        "published_ts": 1788241584.0,
+        "tag": "JGB",
+        "first_seen": 1788242438.8731554
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE53ZWNaamhRMzlsVjB4dVgyQzNGeUdRSDNCQ0NuUlQyWE5RZlBTbXQ2bjJFcU1wd2R4Z3ducDFEamUzNzlsTkN1VHJkNFdOQzF4?oc=5",
+        "headline": "Southeast Asian stocks retreat as Mideast conflict fuels oil rally",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "09/01 14:46",
+        "published_ts": 1788241582.0,
+        "tag": "Global",
+        "first_seen": 1788242438.8731554
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ITllSRzZjWkNpMHM5MFlVNF9Mb0ozZ0gzY00wNUVnZnlZYmhXdWZqN1JTekxzcDRhRFhmS0d1aXNMWnVRR3ltYkI0Y09xbUgzakZPT1hGMlRsVmhqczFGcUxXMUNsTUJTUTM0X211VHZSQQ?oc=5",
         "headline": "[日 10년물 3%] 현지 언론 \"적극재정에 대한 시장의 경고\"",
@@ -1618,6 +1648,16 @@
         "published_ts": 1788241032.0,
         "tag": "JGB",
         "first_seen": 1788241530.2634997
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeVBBMlJaUmx3eEVqMXpQdXgtN0pnZ0xnQ016Mlo4MGxTd0tla1FEWnNPZ0xfdk9jcVFKTF9iY29YakNRSjBLYk5CMFVzX0hoSTh0MU9EOEJleVo2bWtBbmVTbGNKSDh3OS1VcWVDcmo5NUY5Y255NG1Vd0VwRE9hUDVPM1hFSTlUMk5HTjZ3Tng2Z1Q1T2c?oc=5",
+        "headline": "CICC: How to Interpret Waller’s Shift in Stance? The Federal Reserve Faces a “Triple Constraint”",
+        "summary": "",
+        "source": "富途牛牛",
+        "published": "09/01 14:32",
+        "published_ts": 1788240720.0,
+        "tag": "Fed",
+        "first_seen": 1788242438.8731554
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNazh4NEc0RElyUXdQUmNHelFJS0FTbjhWYUNHZVY0UVZ2VlpGbjV3OVo0RW5UY0lFbU5FMU9IT2ZER0RJVUhyWVkteE1fZHJ4dURzRVplRzM3VDU3NnRkTWxoS0ZqamtzY3VwZC1IMWs3MEsxdnBXVnE0VzEyYW5xV0hnUzQ2VzAtRlp4aW43bmhGa1E5UW5aTERLODAyU2Q4UjVzRTIzajE3UndNRHdqN1RaNGhMazdHTF8weFljZk1WRFhoc3pZQ1JJc0l3ZXdS?oc=5",
@@ -1668,6 +1708,16 @@
         "published_ts": 1788238994.0,
         "tag": "Global",
         "first_seen": 1788241530.2634997
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9sQTE2RVJEZFJGM2gxRW9wOGRmRmM3RVZXcEFLSjZ1V3JLQ2FJNUgyZFVpckRoTS1ERkJJT18yc095a1BfX1g2aHpUb2xVT1BVMFNDQ2NjTnYwQ01zc0IwRGdyZ0R0aWxPYmNFeVIzUjhmNXFydmxtNVVxT08?oc=5",
+        "headline": "Fed Chair Warsh Signals Inflation-First Stance",
+        "summary": "",
+        "source": "mahometdaily.com",
+        "published": "09/01 13:57",
+        "published_ts": 1788238674.0,
+        "tag": "Fed",
+        "first_seen": 1788242438.8731554
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1oRDhVZlJKTTZ4RVpLa25seG9ZMl9fU0kxWkRjdWFkX2dzZmQ2V1FESHRVM3JsdjlmUWNCVXpPc3FQTUhNR2M5ZjV2eVZ2M2JZa2xPUWk3Z3JNQWNocUFCUUFsQ0JyQ1YtdWc?oc=5",
@@ -1920,6 +1970,16 @@
         "first_seen": 1788230725.6471422
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejlqWlVBdWtfeHpjYTAyeENhZVBQQVo5WHFfYmlJQUlBSkhqN2Vvb0xObmZIVWExQ29MdmYtaFdPUTBxbUxLRjEwMEp4X05Ld3dESTRsVVM4Vk4tQ1EwTWx0cmhRT1dwNjZKbWYtTEluYXJHWDJ6Qlc5aDBpWnZZMmZwenRrWFE?oc=5",
+        "headline": "Global pension asset allocations and debt markets",
+        "summary": "",
+        "source": "CEPR",
+        "published": "09/01 11:18",
+        "published_ts": 1788229121.0,
+        "tag": "Global",
+        "first_seen": 1788242438.8731554
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQlBXRFgxNW9mWlRHcklRV0NwTWlacERnZW9aQmhocE1ZX1BwNFNsTUNBUGtaZTZ5cnUzSW4ybjItOEVvMHZNeXFPQTdtZldBdGdJZkJn?oc=5",
         "headline": "일본서 사라진 인플레 ‘명목 앵커’…물가·엔화에 중요한 이유 [츠토무 와타나베]",
         "summary": "",
@@ -1948,66 +2008,6 @@
         "published_ts": 1788226847.0,
         "tag": "JGB",
         "first_seen": 1788230725.6471422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5lUE8wc2w3SmxzRzEyWjVvU29zd0k3UDB1bXJDTFJyUXRnVFNyaG5TSFVFb2dhQ0xrVDFyTlk0ZGRsNGxVQWtVZVAtb0lNWW91RS05Rw?oc=5",
-        "headline": "US 30-Year Treasury Yield Holds Above 5% for Longest Stretch Since 2006",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "09/01 10:36",
-        "published_ts": 1788226590.0,
-        "tag": "Fed",
-        "first_seen": 1788227122.863967
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zVEFFb0h6NnlQcDlLNTB6d0h4Z0UwcnE2YURuWm5wYkFoWXhSNmdCcDl4eTRnaEN1R3RlUGZOUmszX1ZKNm5WYmpUV1I2Zlo1eGZlcjVaRGZ2TXBTUXN3ODVBMTU2M05IVk1aN0N6ajd0cVB2?oc=5",
-        "headline": "OE \"BOJ, 금리 더 높게 더 빠르게 인상할 것\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/01 10:18",
-        "published_ts": 1788225500.0,
-        "tag": "JGB",
-        "first_seen": 1788238934.3241308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOclRmYWJTeGhoMzFGbTJsTnV2ZjdtLUNsRHoyalRMZDBTVnFBSlltZ1NocFdVUDZreHQ5dmJYd1lxQXB0cVR5Z1oyalRyMTh2MlE4Y09RYjMwWGQyM2lKMDBOUGx4NllkOXlXbnNlZDZic3BjalFxZkFieFdkODF1eVhtU2Q0UGVoaVl6RTBCeUNZZ1Jfa3RtSDRFWUQtMmZJclE?oc=5",
-        "headline": "About Those ‘Spiking’ French Yields",
-        "summary": "",
-        "source": "fisherinvestments.com",
-        "published": "09/01 10:15",
-        "published_ts": 1788225342.0,
-        "tag": "Global",
-        "first_seen": 1788228928.9445307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xTmtzZExHWk5xbXJ0MnB4UEkwY3pPbFNlUjJjdjBWQ1RUNkNqTmpJTGZ3Q3BrZ0o3QkhxZG1uRGkySm9oX0I1ZC1UbFVfaFlYenpBWEJqeHc4Y084VUhxbjNGMXMwOTc5RGpXVzFMWFpoQzR0OTZFT3l3eGvSAYIBQVVfeXFMTkdhUmd2b2hGeFFQYTYzOVVSUUZtZWlxeXdlRmc5ZXZSSDRIWDBYTEZocWE0cUFLR0YwYTY4TXhKM2syT29QbUY1YmFDV3NqVTlXUGtnaDczX29reU9PaVVEcjNfVWFLTkR2TDRkdEc3WGRldU5WY016U3FMakVTOHZCUQ?oc=5",
-        "headline": "CNBC Daily Open: Trump wants to floor it on economic growth as Warsh eyes the brakes",
-        "summary": "",
-        "source": "cnbc.com",
-        "published": "09/01 10:14",
-        "published_ts": 1788225240.0,
-        "tag": "Strategist",
-        "first_seen": 1788228037.3696117
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9KZFVLX0RNVTlCeVkxeFhpSWRmWEwwdk9rWVNpZk1Ed0lFOWZKSTEyZjdadkxjNkdXd2NzRVFpZkc1N0l3VS1ROFk0T29jaXQxVDZjbGE2TXBTazVHWHZmVWZMMG8zeHhSelhqR0hTZGdvWFBOU1E?oc=5",
-        "headline": "Bessent Directly Presses Japan for Rate Hikes at G20 as Yen Hovers Near ¥160",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/01 10:05",
-        "published_ts": 1788224700.0,
-        "tag": "JGB",
-        "first_seen": 1788225328.4362473
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9PTkhiTjA4R1NfRU9Fa3pZWXpHV1lMeThXUXB6U2FJbEpoSDJMZ3BPT292RjBJdklyVmpCSWtJUVBZcl90UHRiMkYyU1lPOUh2TDVqTWRGdzJuTjZZ?oc=5",
-        "headline": "日 장기금리 연일 최고치 경신...10년물 2.97%까지 상승",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/01 10:04",
-        "published_ts": 1788224640.0,
-        "tag": "JGB",
-        "first_seen": 1788225328.4362473
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 14:45:53",
+  "updated_at": "2026-09-01 15:01:03",
   "yields": [
     {
       "label": "3년",
