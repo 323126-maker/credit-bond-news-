@@ -392,14 +392,14 @@
         "first_seen": 1788206440.3935456
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5tVGx3N0tTeUZVLVdaNm9ObUdiQ0NQZTNjT3ZSbG9nQTFGYlNyMU5qTmFHWl9xN2JfbGN3bDFlUnNYaDVqTmoyeUxPX3BQNUwzZHo1b0locnJTV3ZwMWs0OUJGVU1yYWZJUGZQcFhqT2ltdTdhUXFF?oc=5",
-        "headline": "빅토리 캐피탈, S&P ’BB’ 등급 유지...인수합병 후 전망 ’안정적’",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQUNrVU5KNmROTmw5cUNqNWJrMWx0aF9tWWJ1andiRW5PUmVVT0VKZEdKNjRkaHJQckFtZENENlYzbnJ6V3ctU2tQSGxPc29vVElOSHpEZXRjU1lDQWNobVpPNWdRakFjVVJmQ2Y1TW9SZGs1Tm5r?oc=5",
+        "headline": "S&P 글로벌, Aon 전망 ’부정적’ 하향…USI 인수 부채 우려",
         "summary": "",
-        "source": "Investing.com 한국어",
+        "source": "Investing.com",
         "published": "09/01 04:18",
         "published_ts": 1788203880.0,
         "tag": null,
-        "first_seen": 1788204633.451048
+        "first_seen": 1788267635.499354
       }
     ],
     "perpetual": [
@@ -1670,6 +1670,16 @@
         "first_seen": 1788263128.9263327
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3U2T2hraFJtLWM5TnJsb1dETjI5OHludjJQUkw3a0E3ZnJvam5jdy1yU2FoM0dTVmIwQU4xcndQVHloaFpkZ0c4d1VGOUFDMEFaZ3M4V0poWnlWeUNnNXpRendMVDBSajZJMHdjazByXzZ6SmRMTFJ0dkcwREVyODBLRVpLTlIyMlB3ODVrNlZRUW81VF80eGZQWk9qYUhGbEZrcVlGb0ZJU0tLTkVvTEdB?oc=5",
+        "headline": "Stocks Lower as Fed’s Warsh Comments Boost Rate-Hike Bets",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/01 20:30",
+        "published_ts": 1788262234.0,
+        "tag": "Fed",
+        "first_seen": 1788267635.499354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmZnNEhRMEUxRUl2YjdZbkwyMFNGUUNrakh5ZXVhV1MySmhFRFdKd19pNVJXLXBFNTJyZXlqc0JpUmY2SDhpSzJoMWNRZFAxcndYaGFlWTAtanQ5TmprZ2RCb2RraVpUdGY1bEhGMXBVSEJDXzRqZ2VIUThIcVFNYVZzaHA?oc=5",
         "headline": "Warsh clears up his own mess, but US credibility is still stretched",
         "summary": "",
@@ -1678,6 +1688,16 @@
         "published_ts": 1788262207.0,
         "tag": "Fed",
         "first_seen": 1788263128.9263327
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS1JVd2YzY0U1N0lKeDhFRXdOcDN4a0d2emV2REgtQmh6ZkFxdENzSGFOLU1vSVF1bXNPSWR0dWNQdURxclRhdGtRS0FNOGFJalN2WHJZS0k3XzhQZmNGWWJyMGxld1VfZ3Nma0lldXFwX0pTOHJRT3dPbmp0STRtTjNJNzdFamxsMWNkU0FPR0JqSExUSHIzSWdROWI2YjZpb21zdFQ1RktaSGVvUWxJWDlCcTdkTmlvWEE?oc=5",
+        "headline": "Emerging markets investment insights and market outlook",
+        "summary": "",
+        "source": "UBS",
+        "published": "09/01 20:08",
+        "published_ts": 1788260935.0,
+        "tag": "Global",
+        "first_seen": 1788267635.499354
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXphRVg2bkNfaWhFb09HSElKU1JrSGtYeWgxcGxSdjJCQXFTZXNVUWZCSzM4SGVUNzJaNk82bUN6S0FxNnV3YXk4MEZwaDJiREVFRVE0OXZLVGYzeUVqaHhPMDh3LUdfWW54YTZ1cEoxdUREV0NGSzBOU3ZsZlV1Wl9qblMxZ3pzVHRZRDFnZ3U5MzBQSFZyelBRRFNRTG5iZF93?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788248414.0,
         "tag": "Fed",
         "first_seen": 1788253237.330139
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYkpTbWtwR0l2VHRNTkQ5bnBkQ1RlT0ZvbHY1el9iaWpoTWQxTjIwVFlpMFhCdzUwbkJFbGpONktpb2tOVVF3bl9WWUQ4VEVqR0tXeVg3Yk5WeFoyTEhTQURqbWlrTklEZ0VucDhPZXpXc3Q1LWNhT1FsUXQ3LWV1WktkeDVuUkNua20yRHF0SDVXUUJfcXdPT3h3MWdiTHpnSjloQ3I4RFVlZDkzVVBsODlOMG96MzNhVThnVzZMamZnU0lPRUFMVdIBzgFBVV95cUxQbjRfaDdrM0hXcnh1UHZKQXd4MmIwNC1ZWHJKNlRqMzBqMGFiZ0lIek5faVgxTGZ6X0pQR25wMmY1SzY0cE5aTnFhTnlPRXpWbEJkc3dZMDVOYlp1WUdneU1uVG1CRXVCZlRqampNUG5hbjJzNnJhb1hDQjk2S2I5dTFaRUtkU2dtRzJzYUwzNnpfblJlS0ZaVEo2LWw5dTFTVFgtTm1jNEN3OF9FczhWNE5BS2Y4dGxkNmpZUnhCU0o5cl9Ed2pBdjdIRjhLQQ?oc=5",
-        "headline": "US Treasury selloff pushes India 10-year bond yield towards 7%",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "09/01 16:36",
-        "published_ts": 1788248193.0,
-        "tag": "Global",
-        "first_seen": 1788252324.0524728
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTlFYRmlZc2hyNVgxVWRaOGVjSW82eHptLWxVb2ducGhydWdBTEJMZ3VybXBTa2hHaGtxeVREWlJHVGt3S2tpdnBSblI1X0RScVhsVC1mRmJnclMwR2JSV1RyMmxqYlg3LUtVYW5OUUJqZEM0czRjajE0OGdhQdIBgwFBVV95cUxNTkV3QlU0NXFMTmZpemdEeHQxWGFpZkx6Q2pYWElUb0h3bHBCRG10Qk5xTW1fbUdVY0lqSzFCVkRweFV4Z2ZRaHduS2JRMElNVUJKLTJxRG95QXJmMGdfZ0pmOV9QX1BDcE4tUmxXVE1VdDVOSEQwQWJFOGZNYV9QbG8xYw?oc=5",
-        "headline": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/01 16:31",
-        "published_ts": 1788247914.0,
-        "tag": "JGB",
-        "first_seen": 1788248725.3341272
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 21:45:50",
+  "updated_at": "2026-09-01 22:01:02",
   "yields": [
     {
       "label": "3년",
