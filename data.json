@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQkNGbExDb1VEeHdvUGF6VEM4NTZWTFlNMUowQVJXNUMteWY2UE5uY19TRFpSOUtZVG1hWjhsZGxHektVUEZpRUk2eHVqa19xQ0tnT3B6RjVHOFlyR3QtbHJWYWxoUVVyOWJiQVdwU1pQYWg3Qi1NQ2NXLXNzQnZjWWZxbVlaaUROM3JWQlp0Ti1IZTdlMXFkT3pDNDdBblFJU0NvLUoyelJhMFdlT0JWaWdQRVg?oc=5",
+        "headline": "Emerging markets investment insights and market outlook",
+        "summary": "",
+        "source": "UBS",
+        "published": "09/02 02:53",
+        "published_ts": 1788285188.0,
+        "tag": "Global",
+        "first_seen": 1788285639.4626462
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1faUw2ZTJwa2ljbUpyTkFFbGRFYVlZd29pb24wVHFxM005UWl4RXFxX2pWckkyaGcyc09TdmlkczNmeXloWUo2blE3NGdyTU1DY0FjZUpOZUtURVNxakNaV3pibTJmdnZnSzhPcm1WM28zcWhq?oc=5",
         "headline": "What the Jump in Global Interest Rates Means for the Economy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788262453.0,
         "tag": "Global",
         "first_seen": 1788263128.9263327
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3U2T2hraFJtLWM5TnJsb1dETjI5OHludjJQUkw3a0E3ZnJvam5jdy1yU2FoM0dTVmIwQU4xcndQVHloaFpkZ0c4d1VGOUFDMEFaZ3M4V0poWnlWeUNnNXpRendMVDBSajZJMHdjazByXzZ6SmRMTFJ0dkcwREVyODBLRVpLTlIyMlB3ODVrNlZRUW81VF80eGZQWk9qYUhGbEZrcVlGb0ZJU0tLTkVvTEdB?oc=5",
-        "headline": "Stocks Lower as Fed’s Warsh Comments Boost Rate-Hike Bets",
-        "summary": "",
-        "source": "WSJ",
-        "published": "09/01 20:30",
-        "published_ts": 1788262234.0,
-        "tag": "Fed",
-        "first_seen": 1788267635.499354
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 02:45:48",
+  "updated_at": "2026-09-02 03:01:06",
   "yields": [
     {
       "label": "3년",
