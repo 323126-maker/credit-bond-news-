@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHBzRXVNMG1zak5VejNBVk5nNmdJblBhNWFDZzN1RXAtNENuQXBzMEJuV0duYUtXLUtzR29lVzF4cjJuSWplWTBiQzEzZUZnRFR1ZGlvTkNvZC1LV3hWMUMyTk1FTkoyMFhlZkwwa2lMMjBTREdGcTRkaUpQS1p6cXg2NlBDTTQwQ3hjVmdMWnZGcC1acHFnU1F6NkxsYVB2aUVyY1NWMGFQa0NUMTc0VGc4QjNrOEhUdVdIRWJVb3F4cnRTbXBIdG5QblE1U2hFaS1fNlpZdXNKMGRKcWs2WGc5a1lTT2xUU0Fv?oc=5",
+        "headline": "Uncertainty builds around inflation, stock market. What could be next.",
+        "summary": "",
+        "source": "Detroit Free Press",
+        "published": "09/02 03:27",
+        "published_ts": 1788287220.0,
+        "tag": "Fed",
+        "first_seen": 1788288326.3693254
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5zLTYzVmhrWkUwYmhYdzV5cEhQNzhmdldZSzQ1YmwyV2VsTnJ1YWhMalFaeTFhY2thZEE2c3pJdUZhenBEYjlpTTgydUd0eW5xU2w5U3FpR2tTUWlSZTZ3UDAwWV9vT09mQ0dHNzRwR2ZNQmE5bGNGclpJRlBhQQ?oc=5",
         "headline": "Bond selloff deepens: Here's why it matters to you",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1788285188.0,
         "tag": "Global",
         "first_seen": 1788285639.4626462
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3AzV3diSHBVQVVvOVpTay1ROVI2Rnc4bmdWRlU0SFdQZ1N3N0t0ekV3QnFCeWhfWWVtT01jdDFYNXlXcVVlMzliVEZGVjhVU0RTekQ3VVRUeVNoV0FEcU45eV9qNy1vWVFZaHhMcnJMZEZkMFI4dUF1QUgzYTY0d3MzbzV5Zy1aelJYcXlCdmtmTF85UFZ5emMyclZ4QlZETXQ4bzNwTzNfWjlMUWtZ?oc=5",
+        "headline": "What really counts as an alternative investment",
+        "summary": "",
+        "source": "RankiaPro",
+        "published": "09/02 02:22",
+        "published_ts": 1788283330.0,
+        "tag": "Global",
+        "first_seen": 1788288326.3693254
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WNmdQcExPdm14dTY5TkQtd0IxRG1FXzRLZGlwYU1KeHNTMUJPMUZCdjZWTk1mZ2VNRDVnMk1HWlMzNkF6T0FHVEZGMnMzMmNKZW1kTzBZdkU5LWZMMkxDOUZ1cTRuRWx6bmkzdDVKT2ZSNGlD0gF6QVVfeXFMTnFhSFhDVEtpSUtoWXk5VkdIV2tTam04c3BhMzF1dTJGd0hsR0xPbkI0LUpmY0lGWm5KbXJnRUtidm95MW9FdlFILUE0MjRZM19jVHo3SXpwa2s1amJsNkFwbWhUMm9hNE9aeWF6czFZQ2hsOGJPTW5FNmc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788264120.0,
         "tag": "JGB",
         "first_seen": 1788269432.4005284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2Z2X3F3d1pKUDNQM25MdUg2RG5fOXlIMEdzbWYxOXZ0b096U0RPSjAtWVprcjFjZWphRFllSEtwQW9PeUk4akdVVWhtZ3dtcnQ5NnhnTDc3b1NTSG5HWDN4a0IwaFFwRndHWEx0VGRvbFBHbTZuWEhfZjFObU9MWTNDclQwdDdjbW95ZTJtZGFnT3Q1bGVkOXEzd3NoWGhvNFJuWHJWYVRHZVdIZ1czWDVlVVZUSzgzWmxXZDhZUk5wLTRzeG5zWFF3dEllT2dMMm1vWnVuSWE2eDlyWFlKMHljUW5BOW16?oc=5",
-        "headline": "Bond sell-off heats up as oil prices continue to rise",
-        "summary": "",
-        "source": "The Northern Virginia Daily",
-        "published": "09/01 21:01",
-        "published_ts": 1788264118.0,
-        "tag": "Global",
-        "first_seen": 1788265833.449909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeUUtSHlOREJ5WkZRcUJoQ1p0OVVzR21jSWRDVlE5Sk5iYW52RnMySUtERmtUcWk5YVFWcXFnaXVuaGtjS3ZIRUxocmpRM0VvYlZsNnljdmZDaDd3X21vcGJyQUg3ZnBVQ2F4cWdzUDZ4WG1DTTRzUmZac2JKMHI0dGxaeXl6TGE4ZllqMVdVWTJ4MVMtTVVfeXJoU1daWnBTb3FBSVFKQm80bEtfN0hQVG5iZDFUSF9ib2hQeWgxVVZlTkZ6eDY5YmstTE1EWGRRZ2VxcnI1NWZNbW9fZmdn0gHkAUFVX3lxTE16T3ZiMGVpcG96VzB0VHBtamM2eXpEbzZabDE0dk9wTnpkTHA0OFN5aTFRZ1Q3ZVo4eGltV2x4NFR3NkNVUUV1d3J2U21rQnZqdEU1NG83ZEtsMXRNQjVETThZbnE3RldwN1MwcFU4RkstbmszLUtZRjZYVGpmYWJYWnVyQjNjd0d5a2VFMHJsVk1KN3B6Q2JLOVpmUmdUZzZFSzAtUVl5Rl9HeVEtNk96Wkp4TGNUbkJzb1daZlhHaTFKVlZzSmc2eFU2eWpneWMyVUV2R3piamRWaDVCS2Q2QTFRRA?oc=5",
-        "headline": "Why Japan's 30-year high bond yields should worry Indian stock market investors",
-        "summary": "",
-        "source": "economictimes.com",
-        "published": "09/01 21:01",
-        "published_ts": 1788264114.0,
-        "tag": "Global",
-        "first_seen": 1788264926.2739859
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 03:31:00",
+  "updated_at": "2026-09-02 03:45:55",
   "yields": [
     {
       "label": "3년",
