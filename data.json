@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQcHB3NjRVOWpqWTJoZnhFdzZNdzhza0lqaHhsbThMRTlvdFNVRjBDZXF4dWlxbC0yMkdaMkJRT3dSMzRYN1JWUXBwUV9SSHRhYU1aWkhTWG9tb1RyZ1RuOVgxN24xY1g4WERMZWFMZlcyUnVDUWVBc2pXcHFJWW9fcTZOY01yamJmcVpTeUd0VmhaMUZqT2FhQWNiTXZlVTlJaVVHaGVnaFpPQWs?oc=5",
+        "headline": "Weighing higher bond yields against influx of AI debt",
+        "summary": "",
+        "source": "The Business Times",
+        "published": "09/01 19:35",
+        "published_ts": 1788258900.0,
+        "tag": "Global",
+        "first_seen": 1788259523.8758135
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1OaXRpSTRhRUU1QnBGMGpFRU1qSWNNSEVaTFZIUUtwUzhiUW1TR1JrSkwxcWwySnMzbkd5SVRaMm1fcEdpaE1veWRwanVzSGFyTVdUS2hFSzRVeE9mNTRrS21UTDlGdw?oc=5",
+        "headline": "일본 국채 금리 30년 만에 최고치…재정 악화 우려 등 영향",
+        "summary": "",
+        "source": "KBS 뉴스",
+        "published": "09/01 19:32",
+        "published_ts": 1788258720.0,
+        "tag": "JGB",
+        "first_seen": 1788259523.8758135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FcFhjbDdlcWhJbmV0cmVlZDRObDZrUmZ6WnZxZnlTdDNaU0xQbVg3SFg4Q3BiVUI3VEp3ZjJGYmxYdzdISzRLeDRqOGhMaFpNNFV3b21aWHBaUQ?oc=5",
         "headline": "일본 10년물 국채수익률 3%도달…30년만에 처음",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788242100.0,
         "tag": "JGB",
         "first_seen": 1788250527.0463781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUduVUhfSkJob0FDSldsYk1qbGJmeTVCb0xfbmctOW9OUmdnRGd2djVGX2VzT1VVN1Q4Y2FiZlNaYlFBczAtbmQ1MmRsVGg0M0RLdnV2LThFTDVnMWN3Wkt0Mkd4SmdROHJjUzRtbVl2bVdGTzBESEZvOTlxaUhwbXg3aFJXOXJFZHVuZ185VzlnaTVv?oc=5",
-        "headline": "Analysts react to global bond selloff",
-        "summary": "",
-        "source": "marketscreener.com",
-        "published": "09/01 14:51",
-        "published_ts": 1788241904.0,
-        "tag": "Global",
-        "first_seen": 1788242438.8731554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTFljUTNfZzdkR1YzOWN0UEMzMEs0Yk5hR21MOHk3blpPNXllN2tIVUV1dlh4U2hLbXZVbVNFU3VDQ3FBMmVYckFFUkY4bU05QWRjcERraklyenVXeUd0VFllZ0tqdUtPeUhpQkY5TUR6bGxSWktBeDlsd3hiZi1HSGg0U0JzUXVDNHpEVzcySHJQbjh4WlBkMHZ4Y3U4Vm5XZlpBZ0ZiQ1NGSnVq?oc=5",
-        "headline": "Bitcoin (BTC) Drops to $77K as Iran-US Tensions Escalate and Oil Prices Surge Beyond $90",
-        "summary": "",
-        "source": "Blockonomi",
-        "published": "09/01 14:46",
-        "published_ts": 1788241587.0,
-        "tag": "Strategist",
-        "first_seen": 1788255923.7417188
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 19:31:00",
+  "updated_at": "2026-09-01 19:45:49",
   "yields": [
     {
       "label": "3년",
