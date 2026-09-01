@@ -1620,6 +1620,16 @@
         "first_seen": 1788282039.8594668
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcXcydGJwT3h6WmhvVjJfY1ppUDdncWM2aURObzQzSU14NGMyY0lHekZlTUU2V1otQ0FTaWN5eGtvT013RlhnZ3ppQk5zQ05tT3dSOHctRThlZmNQTk9UY2RoTlNtTnFZak02NUpEZms1WnVyNDRqQVZYRDVzaU9BeGNHNU9jdkNMdV9wMkdBYTYyOEx3R18wcllObFV3Wk13TXltekxWM2lkNW1TVWd4UUsxWjBSYlNh?oc=5",
+        "headline": "World economy faces a new phase of financial repression",
+        "summary": "",
+        "source": "The Times",
+        "published": "09/02 01:30",
+        "published_ts": 1788280200.0,
+        "tag": "Global",
+        "first_seen": 1788282924.9649305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9JMW1CbTBCeHI0Z2NHZEZBVGR5cjlDdTlNcVdYTkE4V0F6dElaZmVySy1MRWpWeENpTzZRc256NFNxQmZlOFEybnJUU196em9JZVRKMDNDX2p5TjkxMjVfRnNqaUkwYUd4?oc=5",
         "headline": "US Treasury selloff pushes 30 year yields to a nearly two decade high",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1788272042.0,
         "tag": "Global",
         "first_seen": 1788273033.6872463
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
+        "headline": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "09/01 23:01",
+        "published_ts": 1788271305.0,
+        "tag": "JGB",
+        "first_seen": 1788282924.9649305
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUpFV3RiNC1rUjdpaEp5S20taGdXd3J4eW1aSEdGZHhaTE5iZWhNdmZJcGE0RTVEUGhSTWhmTWVoLXpaQlpYM3hORWdiS01ROGJwZS1FODNEdlJpb0JULWtEcW9zbVFaVWpteWxXSFY0RzJtbzRxMEZXdGdhZkdyRm9lUk0yUm01eVdTYVJCTHpLOV9HajAxSE1XcGtPbDRUTFk4V2RqTTNiQnhEN0hWY0JoeWFZTTh4VXV1aXhjbllsX2NYX3FGQg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788262234.0,
         "tag": "Fed",
         "first_seen": 1788267635.499354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUmZnNEhRMEUxRUl2YjdZbkwyMFNGUUNrakh5ZXVhV1MySmhFRFdKd19pNVJXLXBFNTJyZXlqc0JpUmY2SDhpSzJoMWNRZFAxcndYaGFlWTAtanQ5TmprZ2RCb2RraVpUdGY1bEhGMXBVSEJDXzRqZ2VIUThIcVFNYVZzaHA?oc=5",
-        "headline": "Warsh clears up his own mess, but US credibility is still stretched",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/01 20:30",
-        "published_ts": 1788262207.0,
-        "tag": "Fed",
-        "first_seen": 1788263128.9263327
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyZ20yTHVGdzB4WW96aThkdGZUd2xFVUhTR21LdDNGbVl1Y3ZlSVFZNTJEa1owelkyekx4NGVaMFBuSEs5WU1EdTlReUZGTWhtUlFCNzlIblkwZw?oc=5",
-        "headline": "Kyodo News Digest: Sept. 1, 2026",
-        "summary": "",
-        "source": "Japan Wire by Kyodo News",
-        "published": "09/01 20:18",
-        "published_ts": 1788261508.0,
-        "tag": "JGB",
-        "first_seen": 1788269432.4005284
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 02:01:18",
+  "updated_at": "2026-09-02 02:15:53",
   "yields": [
     {
       "label": "3년",
