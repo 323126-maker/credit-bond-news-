@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RWlRiWWlyM1lmZFJTMWZ2ZTlhYnRJNjdQQVdfX3l2VzJzYlR2dnFXUmUyN0FhM0otNlJod2Z4WHpXS0swdHU2N2VQcnFCRFBqUGVSQ3F1aDA?oc=5",
+        "headline": "[뉴욕증시 마감] 미·이란 충돌 재격화에 일제히 하락…나스닥 1.03%↓",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "09/02 05:19",
+        "published_ts": 1788293940.0,
+        "tag": null,
+        "first_seen": 1788294630.502581
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcG1mSHhFUTM3TFp1VlVOQ1d5MmlZaGxtRWZZMEFlaTlUbkxjMXdLbHRyVlh0eFE5NVllZHFBc2JhYm9lcnRFMFVLZ0dhUjZWa1Q3LVB4V1dUaWtGVjRSUUhycG1kT2wtUlV3U2hKaDBlQXpMLWlDQjVyTkt1WkZMcA?oc=5",
         "headline": "日 30년 만에 3%·美 4.8%…전세계 국채금리 왜 치솟나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788214320.0,
         "tag": null,
         "first_seen": 1788219031.93017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5EYjdEYW4zY3g5Y1VCc3RNTUtNV0MwSEhsb05XVm52OGFxYWVpNTRpZFJyeFE1ejR3RlVLNkRmQ1JITWpwMXRNa1JjajQ4Z09kelN0bVR0TmY?oc=5",
-        "headline": "채권 위축에도 대한항공 인기…3500억 대신 빠지고 미래",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "09/01 07:10",
-        "published_ts": 1788214200.0,
-        "tag": null,
-        "first_seen": 1788246038.3027594
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9PbWhQQWtzYWIzdGtJdENpSHVfNVhyUm1IRXkxT1F5MzJEa3FOLVhYRGlfV19kWXA1OGVvTTZVWXJCamc5SXc?oc=5",
+        "headline": "李대통령 “물가 못 잡으면 지명 취소”, 이형일 부총리 후보자 “확실히 잡겠다”",
+        "summary": "",
+        "source": "매일경제",
+        "published": "09/01 17:56",
+        "published_ts": 1788252987.0,
+        "tag": null,
+        "first_seen": 1788294630.502581
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBIeWo5eXJFNlM2blAxNEZQZUJIbEhKNVh5WlpsYUt2XzZvWFU3YUJkQnpYbDB3MklhU2VPcmZ1YXdDNVhWdGVpY2R5VEViMWNLZ1NHVnRyVEZablnSAWBBVV95cUxNUFFLX0pLMkhwYnM3XzVWZTNpYnlCV3pScEZWdVhNTm9YRWRXeERSbjRTRWtuazhOa0Q4MFcwX2R4MnpJb3BXYWxhbUtHWW1MT2cwRHhCM3ZDMXN4dHhWMWk?oc=5",
         "headline": "與, 정부 예산안에 \"역대 최대 재정투자로 국민 희망 뒷받침\"",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1788191104.0,
         "tag": null,
         "first_seen": 1788197435.7337663
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE51UUxxUC0zNFI3aks1WU9BbHBkWllMWEwtcFkwdnlYSDZMRFZ5QVZJVkxUbHo5cFJ0OTFZRlB5MndUR1F4VjI0Z0RWX21ubV9DN1o2OUxaeGNjU0NNakNmWlZqNEF2WTJ0ZDRqTA?oc=5",
-        "headline": "미국 재무장관, 채권에 대한 스탠스 일치… 향후 시장 변화 없을 것 (BTC, 채권, 금리, 재무장관)",
-        "summary": "",
-        "source": "민심뉴스",
-        "published": "08/31 23:47",
-        "published_ts": 1788187626.0,
-        "tag": null,
-        "first_seen": 1788193835.7902203
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnh4Nmt1NFlGd0Vmel9VR3NNQkVUa25iU2RhZGhQc3VSWlBzZFhIbThrQ3M5M1FUelBiY0M5ejQ0NjNYUk5ZSFhIVXlHTTNMaXdaUzFPS2xheWQ5UTBpaU1NWXhIZFh0VElWdEhsaTVZMlRQTC1jRzJJTHdMNzFRQUF2dzhqUjJKdU1WeXFaTUZpUEp0UlZOQjBTRGtjU1hzYjhWbEVqWmI5ZHR3ajVHSG1wWjg2djVIWWg4WlBNQ3NqUQ?oc=5",
+        "headline": "Why Rising Bond Yields Could Throw a Wrinkle in the Stock Market’s Outlook",
+        "summary": "",
+        "source": "Investopedia",
+        "published": "09/02 05:05",
+        "published_ts": 1788293122.0,
+        "tag": "Global",
+        "first_seen": 1788294630.502581
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXk2TW9SQTd4bjktUVpoLU9VU1FrZlFrUU1YNG4tVWdSR21LZVVqczJsSVRUVFV2TkpZYnRmZGtvX0NTckJ3OEJFTXVTbmZDWl9pSDZXbHBFOG96Z0FQWGtLblRrM3BTVlhERHIwQXVtVl9aM3NlellodE5lbUQxb0tldmNQSlNsYkxjdE85SQ?oc=5",
         "headline": "Jackson Hole 2026: Warsh avoids the elephant in the room",
@@ -1618,6 +1628,16 @@
         "published_ts": 1788292350.0,
         "tag": "Fed",
         "first_seen": 1788292837.7606757
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1yaHpTdXh5N1lCYkRhLTl6Y181cVVqOW1mZ0lZNF96aUFqQ1d6MU1tTTMzSkZFSEdLWGN6S0FSNzBqdkZMVV9qc1AtWWZ2MTVoZEJLQTJvSS1iMWhSek1CaXR4YzFjQk4wVTdvZjJLVUlQTzA?oc=5",
+        "headline": "日 30년 만에 3%·美 4.8%…전세계 국채금리 왜 치솟나",
+        "summary": "",
+        "source": "마켓인",
+        "published": "09/02 04:38",
+        "published_ts": 1788291528.0,
+        "tag": "JGB",
+        "first_seen": 1788294630.502581
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJcmxuSUxfSGpYRExUNVhtYjdoZ3RhS1RYNlpnVW00ZzF1cUdienBEbXBEOGFWcVAxRWh3V01TSzZnV2M4TEllTGtn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788270000.0,
         "tag": "Strategist",
         "first_seen": 1788271238.7938054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWmRreUZGSWxlT25jVm1wb3ZOZEVCaFRpZFRxSjhoNHhvTG41UDZNUkpSeG9ZX2VjMUw5dGNIaWcydUVFd0wtd3lsS2tLcG01ckxFcEpldDZXUnhvR29jQ3R5akdtLWNXY2ZZVTdsbWUtb3l6a1JsdmFSdUNZSE1SRUdVSEVRVDg3cl9JaGN5REt0Y0hkd3Rjem1LbnJPdw?oc=5",
-        "headline": "The Bond Market Is Pricing More Than a Fed Hike for TVC:US10Y by Errante",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/01 22:33",
-        "published_ts": 1788269615.0,
-        "tag": "Fed",
-        "first_seen": 1788274838.3987017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX2F0S2NJeDRjV0JWc2VTRFB0emk4eTlrOHJiUk53MlNJWGVHZEU0SUMzMUNuUHV5ZHNNZ2ZUT2hDcUpQZl9Yek94d21GZXFHYUdLQnBqVWRFbzZtMmpYd2xoekRHWWtxZFVEYUtISnR0TFRSSjFMQXpUZGdMLTJRQ0xYNmVqWU1MODc2NkdsY1EybExPdmxJNExtVzloNVhrSGozbDhLMDR4MEtyZDNlcTNBZmVjbGVEdU5kbTNoSmg2MGRMa1BJVGdvVk1DSUl0UXpr?oc=5",
-        "headline": "As US Bond Selloff Accelerates, Treasury Secretary Scott Bessent Says a Stronger Yen is Coming",
-        "summary": "",
-        "source": "Barchart.com",
-        "published": "09/01 22:32",
-        "published_ts": 1788269559.0,
-        "tag": "Global",
-        "first_seen": 1788270324.7211566
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 05:15:52",
+  "updated_at": "2026-09-02 05:30:57",
   "yields": [
     {
       "label": "3년",
