@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03c3pWMS1tV3pXaHB5ZTlIempYamVBekhoRFoxQ0NZVEpJcmE2WG52Tzg3cnh6RWdCbEcybEtnQU94Q2k1WWpZbXhDWGhydUEzNHMzbzJuVjFoNVNvVUlncm84X1o0cmJZ?oc=5",
+        "headline": "미국, 빚 안 줄이고 '국채 살 돈' 만든다…다음 충격은 크레딧·해외채권",
+        "summary": "",
+        "source": "ebn.co.kr",
+        "published": "09/02 06:00",
+        "published_ts": 1788296400.0,
+        "tag": null,
+        "first_seen": 1788297325.1432984
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB4dFB1ZFNrSzIzZDVfMWM4YjJYNnVRVnhjc21IMDIzbkZTLWo2SlAxbUQ0eldIYWNNVHR6MkF1cU0wRFFzbThUWkMyV1lDWG91SXAxSg?oc=5",
+        "headline": "[속보] 뉴욕증시, 중동긴장ㆍ채권 매도세에 하락 마감…나스닥 1.03%↓",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/02 05:52",
+        "published_ts": 1788295920.0,
+        "tag": null,
+        "first_seen": 1788297325.1432984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YcXZGLWt6MEk4Q1prd013ZHp3ZzczMEVNVmNiZkhjYVJoMGxKUXo5allueG1WMkFUektxSWVjdzllNW5mcVR4NHFPNGlLSEE?oc=5",
         "headline": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788228000.0,
         "tag": null,
         "first_seen": 1788228928.9445307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBISERpc3RPdWNHTHhCNUtkd09GYzhUZks5VzVzV0NEbnBMTG9DcFd5RU5YLVEwSjItdENiay1zU3ZvOFVXWDZqUno3R1BpUDZONEt1ZVE4bi1kWjQ2clhla2xXbUNTX2JSR1QtUEdZTGY?oc=5",
-        "headline": "\"커브에서 도망갈 곳이 없다\"…금통위 이후 채권시장 향방은",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/01 10:48",
-        "published_ts": 1788227326.0,
-        "tag": null,
-        "first_seen": 1788245125.84765
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IMy16Rk03TzJpRFpNUldIXzV5RmZTa1VJVTBYMkRKTkhwWU1Yc210bEhfVGcwcVg1bnB3c3ZDb2tSY2JIZjd2RVNYNVdBLWlUbEgwV2dRMkFNZ0RG?oc=5",
-        "headline": "뉴욕증시, 미·이란 무력충돌 재개ㆍ금리인상 우려에 하락⋯다우 0.7%↓[종합]",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "09/01 07:20",
-        "published_ts": 1788214800.0,
-        "tag": null,
-        "first_seen": 1788216324.4368103
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZnZLeG8tc3Q2WkU4dGVSRngzeWRqWXFKaERYX0RGTnc5NDBMOXR5R1JjY2tMQmRkb04zNmlRSmItWVZLQTFtdXlMMGIxdXlLOVpqWFA4WDZuSDlYNEljSUhSaHVmVzdzcEpvT2huT25nRmhCaUY5OWpHR3NZY0Fwa3FFVUswdw?oc=5",
+        "headline": "부채에 발목 잡힌 글로벌 채권…일본 금리 30년만 최고",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/02 06:10",
+        "published_ts": 1788297019.0,
+        "tag": "JGB",
+        "first_seen": 1788297325.1432984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnh4Nmt1NFlGd0Vmel9VR3NNQkVUa25iU2RhZGhQc3VSWlBzZFhIbThrQ3M5M1FUelBiY0M5ejQ0NjNYUk5ZSFhIVXlHTTNMaXdaUzFPS2xheWQ5UTBpaU1NWXhIZFh0VElWdEhsaTVZMlRQTC1jRzJJTHdMNzFRQUF2dzhqUjJKdU1WeXFaTUZpUEp0UlZOQjBTRGtjU1hzYjhWbEVqWmI5ZHR3ajVHSG1wWjg2djVIWWg4WlBNQ3NqUQ?oc=5",
         "headline": "Why Rising Bond Yields Could Throw a Wrinkle in the Stock Market’s Outlook",
         "summary": "",
@@ -1860,6 +1870,16 @@
         "first_seen": 1788278440.3757632
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdlFFSy1ZcHdMM2g3V2hkSTh6WURRdTR1UDFZX1ZNLWRKWmd3b3BzYUlVSEpCRm4yUFh0VUhoZ0Fzd3k2Z05BRDdnQ0hYVXZSQjN3QmdDRzFXcFNIUjhCbEp4WU1ZeC1VMkU0ZnRYZnlDTTMtc2gyNUgzWDFQc3BPcTBDbFc0OTZoREl6akdOWkhuWkhEcWFQMW55OWgtUWYyZW9hUV8tYUZvMFRHRTNVUHM3eWxoX2Ux?oc=5",
+        "headline": "Bond Yields Around the World Soar in Challenge to Government Borrowing",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/02 00:46",
+        "published_ts": 1788277571.0,
+        "tag": "JGB",
+        "first_seen": 1788297325.1432984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EdWM0bzVfdjVNNDNVdU45YlRFR1lxenR0SmRwTHFxcVM4VlE1eElGbEtNcll0QnRVUXlkVDZOZGRoZHEwbV9hR3NMRlF2eDRVaEV0U3BCOGp3bTNxakltSndQcWpfQQ?oc=5",
         "headline": "The September Effect",
         "summary": "",
@@ -1950,6 +1970,16 @@
         "first_seen": 1788273928.2837865
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQeWc4dzgxWUJ1VXpzdDlBZHJlWGdDX1pndTZfTXVWekF2V19tU2I1cVJBUHdXWFFxcVM1dmptbUJtSlhfYmlJUVNibjRBSmJYcTBCbzJNLTE4MUtzQ3ZpbjZGYllURkNYRUEwRXJQTFhmU2d1SEZidVJlLUl0OEJONkI4VXNfMzlfTTZfTGMxUTc0b0pXT3I5dE0zbDhjdV9LU2Fzd3FNd3JwTDgweWxmdW1zcmNkNjg?oc=5",
+        "headline": "Is a U.S. debt crisis really imminent? Yardeni weighs in By Investing.com",
+        "summary": "",
+        "source": "Investing.com South Africa",
+        "published": "09/01 23:25",
+        "published_ts": 1788272735.0,
+        "tag": "Strategist",
+        "first_seen": 1788297325.1432984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdXhnNjdGWVlwZlFHampxRjdnVl9BY1labGFWalJKa3VWNnJSLTFOTWJYOHU2cWktdnBMRnNQeFk3MlluMGRzNTYwTk5VUHlPNFB0SWg0YzNFbU1IejVZcU9UblZTM0JJLWZ1T1hNdTZBMHZaOHF4c0tXUnVneDNoVUYzMlhSS2tRZUFjdTJzcXpiRlBfOHREUC1ISkhWTzcxa3o1ZlB3bEg?oc=5",
         "headline": "Why Refinancing Windows Are Changing Corporate Investment Timing",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788272042.0,
         "tag": "Global",
         "first_seen": 1788273033.6872463
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
-        "headline": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/01 23:01",
-        "published_ts": 1788271305.0,
-        "tag": "JGB",
-        "first_seen": 1788282924.9649305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWUpFV3RiNC1rUjdpaEp5S20taGdXd3J4eW1aSEdGZHhaTE5iZWhNdmZJcGE0RTVEUGhSTWhmTWVoLXpaQlpYM3hORWdiS01ROGJwZS1FODNEdlJpb0JULWtEcW9zbVFaVWpteWxXSFY0RzJtbzRxMEZXdGdhZkdyRm9lUk0yUm01eVdTYVJCTHpLOV9HajAxSE1XcGtPbDRUTFk4V2RqTTNiQnhEN0hWY0JoeWFZTTh4VXV1aXhjbllsX2NYX3FGQg?oc=5",
-        "headline": "Wall Street Warns AI Stocks Are Starting to Trade Like Interest-Rate-Sensitive Credit",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "09/01 22:58",
-        "published_ts": 1788271080.0,
-        "tag": "Global",
-        "first_seen": 1788271238.7938054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcmxzQmFHYWM5d0FhX3gwUFZKcHpPYTBmQzNCZ2phUGs0dEV6UEdBdVk3a0FNZW1pRW8yLXQzUDRyV3BZX05uSm55bnRDNVBtTGphLTJuVWI3dGhkV0ZmQUhoeE5EY0FZMEx6R3dBWTB0NHpFVGZJelNRcE1BSUsxRmNVYWxqVENiY3ZDSUpWeml2QWtjMGp6RXVZZjFQNUpPNE9DbXF6TQ?oc=5",
-        "headline": "Trillion-Dollar Dislocation Hides in Calm Credit Markets",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "09/01 22:51",
-        "published_ts": 1788270686.0,
-        "tag": "Global",
-        "first_seen": 1788276637.182422
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 06:01:03",
+  "updated_at": "2026-09-02 06:15:48",
   "yields": [
     {
       "label": "3년",
