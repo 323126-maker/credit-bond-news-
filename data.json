@@ -32,6 +32,16 @@
         "first_seen": 1788246038.3027594
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTHQ3ZGVEZU1BZ2YtbGl3WF8xdEx6QXlkby1zWXpxZEN5X1dkZWdYb1RRU2N3NmdPeVUyRUM3UXV5NDdWV2dINjF4djZHWnQ2SWdhUlZBTXBoVTZhSWZ3TVJuVkM1VGVVSkE1R0RzTGEzZw?oc=5",
+        "headline": "[도쿄증시-마감] 닛케이 막판 반락…반도체서 자금 이동",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/01 15:45",
+        "published_ts": 1788245128.0,
+        "tag": null,
+        "first_seen": 1788248725.3341272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DRm5zSkoyYUZlc3hPaVJNaUZVWWppajJiWXBOM1hvM0Z0SFp0SFJSc0NiMlF5aFczNEtDdnFtM0Q3dlk0UHlXSnNDZGJydXVuejVKMjFZMUlVbmpsY3MxbTZNQQ?oc=5",
         "headline": "“금융위기급 채권 매도?”…글로벌 국채금리 20년 만에 최고 [머니+]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788165413.0,
         "tag": null,
         "first_seen": 1788183032.7060974
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iQUdZbUJieGZlaDFDQXhONmJBclh0UnYxQ1EwTnplblI2aFBxZE5Cd1ZwYXg0X1c3eGNVdGdjNndVVkNtYjJ0M1p6REUxZ29rN1FZanJObVI4TXJCRmR3OTN4U3ZsTUptVUE?oc=5",
-        "headline": "부산은행, 기업대출 늘었지만 건전성은 '흔들'",
-        "summary": "",
-        "source": "ibtomato.com",
-        "published": "08/31 17:35",
-        "published_ts": 1788165333.0,
-        "tag": null,
-        "first_seen": 1788177635.669523
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTlFYRmlZc2hyNVgxVWRaOGVjSW82eHptLWxVb2ducGhydWdBTEJMZ3VybXBTa2hHaGtxeVREWlJHVGt3S2tpdnBSblI1X0RScVhsVC1mRmJnclMwR2JSV1RyMmxqYlg3LUtVYW5OUUJqZEM0czRjajE0OGdhQdIBgwFBVV95cUxNTkV3QlU0NXFMTmZpemdEeHQxWGFpZkx6Q2pYWElUb0h3bHBCRG10Qk5xTW1fbUdVY0lqSzFCVkRweFV4Z2ZRaHduS2JRMElNVUJKLTJxRG95QXJmMGdfZ0pmOV9QX1BDcE4tUmxXVE1VdDVOSEQwQWJFOGZNYV9QbG8xYw?oc=5",
+        "headline": "Japanese borrowing costs hit 30-year high as Bessent says Tokyo may intervene to boost yen",
+        "summary": "",
+        "source": "CNBC",
+        "published": "09/01 16:31",
+        "published_ts": 1788247914.0,
+        "tag": "JGB",
+        "first_seen": 1788248725.3341272
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNX1RUdW02Sk5CT1Zqa0FYdFFtYjdZNllhZTJ0ZTNkZ292aGpEc29Yb2tjNVFEZGtqTlJpMDBlc3hrd0xtellKZ01EeUNuVXNzYkJqSFJIOFNuakVvN01mNzR5RUhNZmVUazBOOEpzenREZ001VUx2YzdQWFlWYVQ2SzRnZmQ5VHgydW56QVZzQ2d6NzdtSFNycXRHcTZiaXpkbEZkTlJGVXVVcllzelV3?oc=5",
+        "headline": "The IBEX 35 starts September cautiously as bonds sell off",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "09/01 16:24",
+        "published_ts": 1788247483.0,
+        "tag": "Global",
+        "first_seen": 1788248725.3341272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNazZhenJ6elBmWllvVFVuOXk4Q0RLbG5fS1l1Ni1kS2FDczRpS194bDk1YTV4R2RabUhCVnBsNVdaLW5jRkUyb09Yc3BxQUdnTjk5ME1CZ2NUSFMxZGRXRENiWjBGX0R2MVlhTldjaUI0VXVDeTZhMHItN25tdk5KREs5SUJBMVJDWGRmZm5SRE9BUUNXX09MRjNMc1FSbE9FMkZhNjNlaUdhNGhUNXh6RnAzbzY0ckQ3aC1zV2tEM0RXYUhJZ3E0WHJGRXNQdEQ2aXpV?oc=5",
         "headline": "European stocks flat as bond sell-off and fresh Middle East strikes rattles market",
         "summary": "",
@@ -1988,29 +2008,29 @@
         "published_ts": 1788234975.0,
         "tag": "JGB",
         "first_seen": 1788235236.578111
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbjVZMUQwT2x4Q3BpZnBoMXlqN1hvNUxrME5VOXA2YjVVV2p0ZkFpc2xwbUFsWXh0UEhOSjhIZHpXX2hKWHlaVHBpMDMyQTlsdDM3dkhYREt1M3NudmhUNHNVVTF5LVYxNnk5YzhySzBkOXBvckdqclVhaWRHYnhucUNXWmhRZmFnWXc2S2JhaTN2UGsxMHc?oc=5",
-        "headline": "Warsh's words put markets at ease, but volatility remains",
-        "summary": "",
-        "source": "American Banker",
-        "published": "09/01 12:55",
-        "published_ts": 1788234900.0,
-        "tag": "Fed",
-        "first_seen": 1788237925.1173246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWi12RXhUckg1T1JDbE5MR085RC0tT1BhMlFMWlRkWlNMNV9EaWNVTHZfS2FSTEpGQXFOdVBRRTVqSy1qVlN4TkZtb3NISWhOYnBKS3BSVUY5b1RjODRJT0JNeGY3NnBBRzN3R2dKNThHZHpGRDdzVElJTnQzQTY1ZVZ6ZHc?oc=5",
-        "headline": "Japan’s benchmark bond yields hit 3% for first time since 1996",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/01 12:42",
-        "published_ts": 1788234134.0,
-        "tag": "JGB",
-        "first_seen": 1788235236.578111
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5QYVZsQ1k2NFFhOXdkSVlLWUctcjZYTENHVVZlNVJGVzc1UVBmNEUwZXFwN0M3WmJQa0lRazdxM0lFZzNUTzNGMXF3?oc=5",
+        "headline": "우리금융지주, 기업설명회 개최 공시에 2%대 상승 마감 : 기업주식정보",
+        "summary": "",
+        "source": "news.jkn.co.kr",
+        "published": "09/01 15:56",
+        "published_ts": 1788245760.0,
+        "tag": "우리지주",
+        "first_seen": 1788248725.3341272
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5aanpVNVpTd1lTczJlZjBoS3VGR2lieTY0SWRFZXJaSzVZQ0Z0SzRCU3FhVXc0T3lDMTFJb0tvOXUwVmx4TUE?oc=5",
+        "headline": "“충성고객 더 늘린다”…패션플랫폼이 카드사 손잡는 이유",
+        "summary": "",
+        "source": "매일경제",
+        "published": "09/01 15:55",
+        "published_ts": 1788245721.0,
+        "tag": "삼성카드",
+        "first_seen": 1788248725.3341272
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fRFFYbmNjWk14V3c0cDdvUnl5aFJCWjRmR3dLaFZybFc0Sm5TX2dMOE5TZTFyT1lDeU9rRm82akc2TTNHeWVGRnZwSm1kX0VnMjU4Y3NSaE5JN0tvSnJHbGQ3TFEyMHppcE13b0ZFT1dfOUk?oc=5",
         "headline": "[이슈] 신학기 수협은행장, 첫 연임 문턱 넘을까…행추위 심사 본격화",
@@ -2390,37 +2410,16 @@
         "published_ts": 1787875260.0,
         "tag": "수협은행",
         "first_seen": 1787877029.1359534
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TMHpMM2hSZXk0OFNUNVBBUnI3XzFsVWhiQ25qeno0bUdQQVN2OVRfay10VE9qOHhRZzBjSlJkb3NBbTNHOEwtNHZGUE9rSm51OWNlN1ZlSHpwYmE3SlI3R2lRSFlOUlFITVFfcnZpc3dIUVE?oc=5",
-        "headline": "토스·우리금융저축은행, '소호스코어' 개인사업자 대출 출시",
-        "summary": "",
-        "source": "디지털투데이",
-        "published": "08/28 08:57",
-        "published_ts": 1787875048.0,
-        "tag": "우리지주",
-        "first_seen": 1787876125.3146114
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1nR0M5SDY0NmpTa1liRGRZbDNoM25ZbkthcFV2cW5zdl9IV3dUanBhcTdTcThHUk5vQVlLUEdKdmZZQXltVlRGTXF2YjN6RHRtdU5VclhJRU02My1VQ0ZQSUZMLWtyNDl0cHBrRjhWONIBc0FVX3lxTE1kWUtQdzZFN3Z2UDVTMHRFMEVYQno1eDNuejJBV2p3N1A4alNjMVB5cGsyVjN0RTBXV1NRNExFeW9QcUYxWldUNkVMQmhOLUdGVkw2LWZGLWk0Q0pRVkJnMDVRRXJHMVdYb3VhcnlYSkViSWc?oc=5",
-        "headline": "“담보 없어도 기술 있으면 지원”…현대모비스, 5000억원 보증",
-        "summary": "",
-        "source": "뉴스퀘스트",
-        "published": "08/28 08:55",
-        "published_ts": 1787874945.0,
-        "tag": "현대카드",
-        "first_seen": 1787879723.2620182
       }
     ]
   },
-  "updated_at": "2026-09-01 16:30:56",
+  "updated_at": "2026-09-01 16:45:47",
   "yields": [
     {
       "label": "3년",
-      "value": 3.838,
-      "chg_bp": 5.0,
+      "value": 3.878,
+      "chg_bp": 4.0,
       "series": [
-        3.742,
         3.74,
         3.669,
         3.742,
@@ -2439,42 +2438,15 @@
         3.816,
         3.755,
         3.788,
-        3.838
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 4.053,
-      "chg_bp": 3.2,
-      "series": [
-        4.014,
-        4.004,
-        3.916,
-        3.957,
-        3.964,
-        3.994,
-        4.042,
-        4.025,
-        4.016,
-        4.047,
-        4.11,
-        4.068,
-        4.066,
-        4.111,
-        4.068,
-        4.039,
-        4.033,
-        3.974,
-        4.021,
-        4.053
+        3.838,
+        3.878
       ]
     },
     {
       "label": "10년",
-      "value": 4.313,
-      "chg_bp": 2.9,
+      "value": 4.371,
+      "chg_bp": 5.8,
       "series": [
-        4.264,
         4.26,
         4.15,
         4.195,
@@ -2493,15 +2465,15 @@
         4.288,
         4.238,
         4.284,
-        4.313
+        4.313,
+        4.371
       ]
     },
     {
       "label": "20년",
-      "value": 4.49,
-      "chg_bp": -0.1,
+      "value": 4.559,
+      "chg_bp": 6.9,
       "series": [
-        4.513,
         4.526,
         4.471,
         4.483,
@@ -2520,15 +2492,15 @@
         4.542,
         4.468,
         4.491,
-        4.49
+        4.49,
+        4.559
       ]
     },
     {
       "label": "30년",
-      "value": 4.527,
-      "chg_bp": 0.3,
+      "value": 4.627,
+      "chg_bp": 10.0,
       "series": [
-        4.537,
         4.557,
         4.511,
         4.516,
@@ -2547,7 +2519,8 @@
         4.595,
         4.51,
         4.524,
-        4.527
+        4.527,
+        4.627
       ]
     }
   ]
