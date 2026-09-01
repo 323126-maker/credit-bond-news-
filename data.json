@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsVThVMjdycm1PWmUzRFIzSkozdGYtLW01Rng5SkhlR2M5emF4dFF3UzBXX3BwTEt5eWpEWnFiZXZxcVFWaGdYQVFJdFc1MWM5OTZsWHR3d3pJTWJvYV9jNVdwX0VLeHM0ZlVkZXlWZ23SAXRBVV95cUxPRkkycGNOUktmQUZkMDZ1VHUwZmdRN1pVbTBEZHhoWW1MNFBrS2FTaDhwUXBObGVzS0x5bU5hSmVRSWI4eEljOUJsdmFzV19pdDNIRW93RlZERWV6cXhpd3NZcHVyQko0dG1OajNDdTFGblVMNg?oc=5",
+        "headline": "일본 국채금리 30년 만에 3%돌파…재정 불안에 매도세 확산",
+        "summary": "",
+        "source": "산경투데이",
+        "published": "09/01 15:19",
+        "published_ts": 1788243563.0,
+        "tag": "JGB",
+        "first_seen": 1788244233.8597083
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LSFRScUJnUGl6bWpLTXk1dkxsSmJjdlZDNll5Mk1hRk01RXpOREthRHlOY0ZuOW9PUjUzQ3JUZzIza1p6QW55c19OQmZRQ1pwNGc?oc=5",
         "headline": "日 10년물 국채금리 30년만에 3% 돌파…재정악화 우려 영향",
         "summary": "",
@@ -1920,6 +1930,16 @@
         "first_seen": 1788241530.2634997
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZlR5TnVrWk5wYWR5Y2RIZEpfa3VMM0ZhS21WdVo4Y3pMWFJHZ3RqQWJaTXdHeE0wNDdBbm1ONDZPLXhYNWs4M013dXdDenJjcU9vN2dVLXJydWNoZ1FFT2g2ZUVkOWRmdGphbWFhclk0WVVmSDR6eU5xMDNtdDNCQnozRUZ6S1M2QUdyOWYwblZESW1wRWM2am8xZUg0QjlqQ2JzZ0hxREdyeU5PYXdkaVlnR3lDS2hVWnh6Q2dR?oc=5",
+        "headline": "Japan benchmark bond yield hits 30-year high of 3% amid global debt selloff",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "09/01 12:15",
+        "published_ts": 1788232500.0,
+        "tag": "JGB",
+        "first_seen": 1788244233.8597083
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0ZDeEJaTlE3MERQYzdIU0JVQTh3c25CU2taR0x6R1h6VHVKVi1iUkU5TER4T0NiRGpScDZhRmRyRVZ1clJKZWpvXzFFaVZZMEtIWUVTbzctdTUtd2lwZ19DUjdyWTViN09hQzNfSXB6SG1mYTB4QnRmT3FKTmtXN3VSaXFpajRobTcwVzJseHBrR2FmQnluTGZBYw?oc=5",
         "headline": "Yields rise across Asia amid global bond selloff",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788229226.0,
         "tag": "JGB",
         "first_seen": 1788230725.6471422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOejlqWlVBdWtfeHpjYTAyeENhZVBQQVo5WHFfYmlJQUlBSkhqN2Vvb0xObmZIVWExQ29MdmYtaFdPUTBxbUxLRjEwMEp4X05Ld3dESTRsVVM4Vk4tQ1EwTWx0cmhRT1dwNjZKbWYtTEluYXJHWDJ6Qlc5aDBpWnZZMmZwenRrWFE?oc=5",
-        "headline": "Global pension asset allocations and debt markets",
-        "summary": "",
-        "source": "CEPR",
-        "published": "09/01 11:18",
-        "published_ts": 1788229121.0,
-        "tag": "Global",
-        "first_seen": 1788242438.8731554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wQlBXRFgxNW9mWlRHcklRV0NwTWlacERnZW9aQmhocE1ZX1BwNFNsTUNBUGtaZTZ5cnUzSW4ybjItOEVvMHZNeXFPQTdtZldBdGdJZkJn?oc=5",
-        "headline": "일본서 사라진 인플레 ‘명목 앵커’…물가·엔화에 중요한 이유 [츠토무 와타나베]",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "09/01 11:12",
-        "published_ts": 1788228756.0,
-        "tag": "JGB",
-        "first_seen": 1788229834.987423
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 15:17:18",
+  "updated_at": "2026-09-01 15:30:55",
   "yields": [
     {
       "label": "3년",
