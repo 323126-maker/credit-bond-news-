@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1YcXZGLWt6MEk4Q1prd013ZHp3ZzczMEVNVmNiZkhjYVJoMGxKUXo5allueG1WMkFUektxSWVjdzllNW5mcVR4NHFPNGlLSEE?oc=5",
+        "headline": "중동 긴장·유가 급등에 채권 매도세까지…뉴욕증시 일제히 하락",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/02 05:32",
+        "published_ts": 1788294720.0,
+        "tag": null,
+        "first_seen": 1788296437.3567402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RWlRiWWlyM1lmZFJTMWZ2ZTlhYnRJNjdQQVdfX3l2VzJzYlR2dnFXUmUyN0FhM0otNlJod2Z4WHpXS0swdHU2N2VQcnFCRFBqUGVSQ3F1aDA?oc=5",
         "headline": "[뉴욕증시 마감] 미·이란 충돌 재격화에 일제히 하락…나스닥 1.03%↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788214800.0,
         "tag": null,
         "first_seen": 1788216324.4368103
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5SNVFwc2JiQTRCQy11M0RVTWg1LXBta3JxYkxLR25ETTV5SW1xUDlIcEUzdi1wR1dDU0l3NEY1akJZOVk2RDI2dnVfbW5MN0ZHZVNpN09RNjHSAVhBVV95cUxOUjVRcHNiYkE0QkMtdTNEVU1oNS1wbWtycWJMS0duRE01eUltcVA5SHBFM3YtcEdXQ1NJdzRGNWpCWTlZNkQyNnZ1X21uTDdGR2VTaTdPUTYx?oc=5",
-        "headline": "[증시전략] 9월 금리인상 여부·채권시장 향방, 고용·물가지표 변수",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "09/01 07:12",
-        "published_ts": 1788214320.0,
-        "tag": null,
-        "first_seen": 1788219031.93017
       }
     ],
     "perpetual": [
@@ -1760,6 +1760,16 @@
         "first_seen": 1788289242.4548304
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbHZCNklVQXYxV1A3SWhyRUtHZVBBQktCV2p4NXZlZThSbDBjLWJVc0xQUmZ0OXI0ZWlwTHFsamU1ZF9tc2lkT1RRTlA0UmdSTXlZeEtBd3Q0N2VwT1poYVoydmszaHQ1UWRScGZ0WTFnVWk4ZFlDTDRaemYxTnUyYVgtQTVBcmMwckVHc3RlYVhGTWtGT1Jxbm9mdU4yN3hLbjFoRQ?oc=5",
+        "headline": "US Fed chair says inflation is elevated and 'concerning'",
+        "summary": "",
+        "source": "The Daily Star",
+        "published": "09/02 02:28",
+        "published_ts": 1788283719.0,
+        "tag": "Fed",
+        "first_seen": 1788296437.3567402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQU3AzV3diSHBVQVVvOVpTay1ROVI2Rnc4bmdWRlU0SFdQZ1N3N0t0ekV3QnFCeWhfWWVtT01jdDFYNXlXcVVlMzliVEZGVjhVU0RTekQ3VVRUeVNoV0FEcU45eV9qNy1vWVFZaHhMcnJMZEZkMFI4dUF1QUgzYTY0d3MzbzV5Zy1aelJYcXlCdmtmTF85UFZ5emMyclZ4QlZETXQ4bzNwTzNfWjlMUWtZ?oc=5",
         "headline": "What really counts as an alternative investment",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788270686.0,
         "tag": "Global",
         "first_seen": 1788276637.182422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2Z2X3F3d1pKUDNQM25MdUg2RG5fOXlIMEdzbWYxOXZ0b096U0RPSjAtWVprcjFjZWphRFllSEtwQW9PeUk4akdVVWhtZ3dtcnQ5NnhnTDc3b1NTSG5HWDN4a0IwaFFwRndHWEx0VGRvbFBHbTZuWEhfZjFObU9MWTNDclQwdDdjbW95ZTJtZGFnT3Q1bGVkOXEzd3NoWGhvNFJuWHJWYVRHZVdIZ1czWDVlVVZUSzgzWmxXZDhZUk5wLTRzeG5zWFF3dEllT2dMMm1vWnVuSWE2eDlyWFlKMHljUW5BOW16?oc=5",
-        "headline": "US bonds sell off as rising oil prices create inflation anxiety",
-        "summary": "",
-        "source": "The Northern Virginia Daily",
-        "published": "09/01 22:45",
-        "published_ts": 1788270308.0,
-        "tag": "Global",
-        "first_seen": 1788288498.5281515
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 05:45:52",
+  "updated_at": "2026-09-02 06:01:03",
   "yields": [
     {
       "label": "3년",
