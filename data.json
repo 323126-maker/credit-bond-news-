@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcG1mSHhFUTM3TFp1VlVOQ1d5MmlZaGxtRWZZMEFlaTlUbkxjMXdLbHRyVlh0eFE5NVllZHFBc2JhYm9lcnRFMFVLZ0dhUjZWa1Q3LVB4V1dUaWtGVjRSUUhycG1kT2wtUlV3U2hKaDBlQXpMLWlDQjVyTkt1WkZMcA?oc=5",
+        "headline": "日 30년 만에 3%·美 4.8%…전세계 국채금리 왜 치솟나",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "09/02 04:38",
+        "published_ts": 1788291528.0,
+        "tag": null,
+        "first_seen": 1788292837.7606757
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRy1PUzBNRzlFaWduZWpoOUsySXMzRUdYRHJfT2dmZm41N0k2U0ZmS01Bam9yaHZHMDkxVk5LdGN2QTltZjc1WTZJbGFiWU1XaEx6VEFDNDdsSGxfTUMyWXQ1VEo4YVh5R0k0dGJqeGJaV2hwelB4ZWZ2OWF5bzdZdjVia3B0d3Aw?oc=5",
         "headline": "160조 달러 채권 시장 요동에 빅테크 부채 거품 경고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788214200.0,
         "tag": null,
         "first_seen": 1788246038.3027594
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1nSmgybGpUdE9jMnFQQXFXa2Rjb2RrSXJxRzhrN3lhY2tYenBnREtjdXU0bmIteHlBdFJoRlQyYk1yNWp0X01Fdkt5R2hiWVhYcTNvc3g5bkhNck96dTJBd3RQd1RRVHM?oc=5",
-        "headline": "[데일리 머니마켓] 중동 긴장에 글로벌 증시 일제히 약세",
-        "summary": "",
-        "source": "빅터뉴스",
-        "published": "09/01 06:16",
-        "published_ts": 1788210971.0,
-        "tag": null,
-        "first_seen": 1788221723.7243369
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXk2TW9SQTd4bjktUVpoLU9VU1FrZlFrUU1YNG4tVWdSR21LZVVqczJsSVRUVFV2TkpZYnRmZGtvX0NTckJ3OEJFTXVTbmZDWl9pSDZXbHBFOG96Z0FQWGtLblRrM3BTVlhERHIwQXVtVl9aM3NlellodE5lbUQxb0tldmNQSlNsYkxjdE85SQ?oc=5",
+        "headline": "Jackson Hole 2026: Warsh avoids the elephant in the room",
+        "summary": "",
+        "source": "OMFIF",
+        "published": "09/02 04:52",
+        "published_ts": 1788292350.0,
+        "tag": "Fed",
+        "first_seen": 1788292837.7606757
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJcmxuSUxfSGpYRExUNVhtYjdoZ3RhS1RYNlpnVW00ZzF1cUdienBEbXBEOGFWcVAxRWh3V01TSzZnV2M4TEllTGtn?oc=5",
         "headline": "日 국채금리, 30년 만에 3% 비상...베센트 한마디에 엔화 시장 '초긴장'",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/01 22:26",
         "published_ts": 1788269192.0,
         "tag": "JGB",
-        "first_seen": 1788269432.4005284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHN0MWpVemZEYnVyS1ZwRVRiV091V3RINTIxNktKQXV1VDdNNjdOSWNjOGhEWHVPVVlmRFRELTFBQXl5Tk1EV3FoRXE3NmtOM2hoYUhKZnhENXRGUDE0Y19lX3pvSEtZZXBLOTloRk9fOUFMcldSeW5ucjF0WDY2N3pfVHRGWTVOWk96VElrVE9ZbDRXbGptT0ZuaER4WF9DVjVmVg?oc=5",
-        "headline": "Global bond markets are tumbling all at once as macro concerns spiral",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "09/01 22:24",
-        "published_ts": 1788269094.0,
-        "tag": "Global",
         "first_seen": 1788269432.4005284
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 04:45:53",
+  "updated_at": "2026-09-02 05:01:01",
   "yields": [
     {
       "label": "3년",
