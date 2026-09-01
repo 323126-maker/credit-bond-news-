@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9EdWM0bzVfdjVNNDNVdU45YlRFR1lxenR0SmRwTHFxcVM4VlE1eElGbEtNcll0QnRVUXlkVDZOZGRoZHEwbV9hR3NMRlF2eDRVaEV0U3BCOGp3bTNxakltSndQcWpfQQ?oc=5",
+        "headline": "The September Effect",
+        "summary": "",
+        "source": "CT Examiner",
+        "published": "09/02 00:27",
+        "published_ts": 1788276455.0,
+        "tag": "Strategist",
+        "first_seen": 1788276879.87845
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcVNMSnhxT3dZd1N3SDFWOFllOC1MLTNBYTZtaV9EbHJacVE4YmdzLVpmX0RJZHAtbF9vY2l2aFZKTGVpV3hFTHFJbUNJVzl5MW1rMkZoWkhUYml1eUtGb0xrOVNGZmdUU3BoYmxzcVVMWU5wM0NrMVpUdlhHYy10alI4ZmVyWXFsMXVZZ3Q1UFVPaDVhSkxkNA?oc=5",
         "headline": "Explainer-US Treasury yields are rising — Why does it matter?",
         "summary": "",
@@ -1830,6 +1840,16 @@
         "first_seen": 1788268526.416022
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOeGlYVGNNS2J4UURybkNrRXJpRDJVVFg1bmZUMUR3U0RWZ2IwYTBsSkU4LS1Yb1ZtVFpPaUtISlIxNkNQZm1FZy0tbFpvTFEwaW1YQngyMXVmVGkzT1RTTDJhMEtta2dwS2dZOTV6Z0o2N2hoNnJ0R1psaG1mSWhSdWh4MmtEVWxiUVBibkZOazMxR1V0bUZEVUVaRGhDbHRJUUxiRExkcExtRHdQdFhEdXhR?oc=5",
+        "headline": "Global credit market stays calm as risks become more divided",
+        "summary": "",
+        "source": "logos-pres.md",
+        "published": "09/01 21:46",
+        "published_ts": 1788266782.0,
+        "tag": "Global",
+        "first_seen": 1788276879.87845
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPOEdVUFZZY0hTYW1VRmFtM1V3QTFLOElDWFZYVEFiT0xmRmJzaWp0VmxIRTFDTkE3UndodE1rRTFqODJGcTJOVkRpUzl0M2s2d0VscGZqOEc0Y3JBeEM5UXQybk1aTVEwYmllTTRrVmMwSXFnbE56MEZmQkFVR1F2a1RMaXh3ODNFNlpaZURvUWZvR2JhMThEQjZqNl9oYUF4ODNGYWtmbw?oc=5",
         "headline": "U.S. cannot afford 10-year at 5% for sustained time - Kobeissi",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788260935.0,
         "tag": "Global",
         "first_seen": 1788267635.499354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZXphRVg2bkNfaWhFb09HSElKU1JrSGtYeWgxcGxSdjJCQXFTZXNVUWZCSzM4SGVUNzJaNk82bUN6S0FxNnV3YXk4MEZwaDJiREVFRVE0OXZLVGYzeUVqaHhPMDh3LUdfWW54YTZ1cEoxdUREV0NGSzBOU3ZsZlV1Wl9qblMxZ3pzVHRZRDFnZ3U5MzBQSFZyelBRRFNRTG5iZF93?oc=5",
-        "headline": "Catastrophe bonds: A beginner’s guide to disaster investing",
-        "summary": "",
-        "source": "The Armchair Trader",
-        "published": "09/01 20:07",
-        "published_ts": 1788260852.0,
-        "tag": "Global",
-        "first_seen": 1788261328.8144822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa2NCMkVBM0ZtdWl4SVkzVEYwMzIxdzQzNk5WTDItamNIVm5NLXVhYWxmdDFNbWRlSTZEMzRYVjlsclBPWWdISmlseDktVlUzVTNSVlN2bFBRVDJFSGRSNlByQW9rYjdoMExDRHo1Rjl4R0JUQjNiQ2hvMnVQUmZiVEd6cnFXaVRpbzMyQWI1WThYaVpHaUhKaW9DbGhqcFdNOXd6Q0RWQm8?oc=5",
-        "headline": "US long bond rout deepens as oil, inflation, debt supply keep yields above 5%",
-        "summary": "",
-        "source": "PRESS Insider",
-        "published": "09/01 20:03",
-        "published_ts": 1788260636.0,
-        "tag": "Fed",
-        "first_seen": 1788261328.8144822
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 00:31:03",
+  "updated_at": "2026-09-02 00:35:02",
   "yields": [
     {
       "label": "3년",
