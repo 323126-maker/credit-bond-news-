@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kVlotRURveGZkOHlzN1dFSWdkTERDSHBZdWtWbEV4N2JRTXBONVhETjlqN09zWXgwdnRPd2xqS1M4SG56RmJBOGtySk1uU3REcjdIbEZTNFp0bWluMWNwdzJOR013Vm12LUFCVUYxRms5XzA?oc=5",
+        "headline": "베선트, 日 재무상·BOJ 총재 만나 \"금리 올려라\" 직접 주문",
+        "summary": "",
+        "source": "마켓인",
+        "published": "09/01 08:46",
+        "published_ts": 1788220013.0,
+        "tag": "JGB",
+        "first_seen": 1788220846.388318
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWHd0eURvNkh6SlhjU1hyYjJVM2xkQzF4dExXaG93M2NZQWRQTXFKaG1nbkJCRFBoMHpHQnNRa3BySDgwazAzVWNOTW9idUJfQ1RRTmVDVjFES1FXNm9laFJ6S2dob29sR2Jla0ZDS0pISUpubmpVWGFhNHpOVGozc2xadnRXTl9GOWcwYjZjTExzVGJJTTZlX0VxRnFsc25rdzRDRl9UbnpCcHI1N2JZ?oc=5",
+        "headline": "Bitcoin swings around $78,000 as U.S. long-term yields rattle markets",
+        "summary": "",
+        "source": "디지털투데이",
+        "published": "09/01 08:40",
+        "published_ts": 1788219600.0,
+        "tag": "Strategist",
+        "first_seen": 1788220846.388318
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DU0t0QUhQcG96SGRINmRpcmQzSm5RQlNIWG1CRTVHTmdadDQ3R0NqRC1LX1dzbHJzNjEyVW1waU00cFRHckRfakFxb3E4T2FBbnRXSnBzQUxfZHlvRUtqVg?oc=5",
         "headline": "美베센트, 日銀 총재·재무상 연쇄회동…9월 금리인상 압박↑",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788196870.0,
         "tag": "Strategist",
         "first_seen": 1788197435.7337663
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQnRZRTRSQ2dRYjU4bVlJdzEydzhrWUhrRzFCbWlJWVBWdXlpam1WTmRmcGg0Mk5FSmN0T3dyQUhFekZud3VXVHBoM1AxQzZPbWxOTXNlUXlLdTF1dzIyVkYtdkJCSHFmaVNVbktlRlpVbVJ4SGlBTlJVNUk3MlZhbDdn0gGHAUFVX3lxTFBja1k1TGQ3TlN6d091NkEyRGVUdEZ4QnRoYWxycUZ5VVdJNDFWcDV3cEZiR2thOWRMUGlObnlTLUgxNGlNczJKRUxlZl9DUTVaRWxxaFdkVnhXM1pNS0d3anRJRzFBZWZJcUFPOWFtTWtnNGFUbXNEZHVOTXppXzhSa0Vldms1cw?oc=5",
-        "headline": "Bessent pushes back on Druckenmiller critique of bond intervention",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/01 02:14",
-        "published_ts": 1788196461.0,
-        "tag": "Strategist",
-        "first_seen": 1788201926.805001
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTEpLRk94d2xZX1hfRzg4WXJKSElUWGxFREZick4wRnpmakRwUlkxSnJlb2RxWU02a1VCMDA1bjEzWnlKOUFsb1lhdjUwdzN0alBiZWljYW1IOW1nRVdiT0NDeUgyOWtvbUdyWUNIY3ZjcWY3a1hoN2RWWmJURS0tQlBkZ1NXOFU0R0wweW5VYkpXNEo5ZEow?oc=5",
-        "headline": "Warsh risks repeating Powell’s Fed mistakes",
-        "summary": "",
-        "source": "washingtontimes.com",
-        "published": "09/01 02:07",
-        "published_ts": 1788196038.0,
-        "tag": "Fed",
-        "first_seen": 1788202844.1659558
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 08:45:48",
+  "updated_at": "2026-09-01 09:01:12",
   "yields": [
     {
       "label": "3년",
