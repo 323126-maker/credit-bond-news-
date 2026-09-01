@@ -102,6 +102,16 @@
         "first_seen": 1788245125.84765
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBxTkZTT0pydFBKSFlIUEtiZS1Ga0ZrVlQyWFpBVnBmXzR0VnhCak11aXZvdG85ZkVESTZfM0hlYTdOemo0bEhEV0hZdjlzdEFtSUtIbHhqMEF0WldHUGFoVWhQT0FPU21nTG1RdmVHeEZGUnPSAXdBVV95cUxNdGZpT3lBWFBNN2RjdDNYMGhEU1dLSDFjdkU1VjRmYVNjNXNDM0EzVzkwVEVQSEZ3RlVQVlpRcVNUZGM2NVNKTnZ5bGFMUGREdkJaY2lmQl84N21uWFU1WENHVWdkV0xwS1NFVjdoNWM1Ul9hNXdfbw?oc=5",
+        "headline": "9월 미국·일본 금리 결정 임박…한국 채권시장도 긴장",
+        "summary": "",
+        "source": "스트레이트뉴스",
+        "published": "09/01 13:41",
+        "published_ts": 1788237661.0,
+        "tag": null,
+        "first_seen": 1788251435.2935743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ITkJOdExMakozVUppYVFfTnpEd2x6Rk5QMG8yQlBpOURoSms2WVpBOTlJelhIZFJWekJ3US1JWWZXU1lPallRQndzN1g0WE01emI2RlJneTZ6OHN0VTE4VmFHd0RyX3JhYmo4ZXJtOG8?oc=5",
         "headline": "알파벳 흥행에…호주 채권시장, 아마존 캥거루본드 발행 기대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788171710.0,
         "tag": null,
         "first_seen": 1788193835.7902203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5pb2k4UHpZNF9RZjEta2JoejFMN2JSaFJqZUdqaThSLTdQU0RzamstOXNHOElQUnp2V3FYZXB5Qjl5RENRMUZjTm1nNFZqSVZfSEdFX3M4YTFRRFlpcVBBYmxJZUVBX0N5VmZ5WnRORDVHM3VY?oc=5",
-        "headline": "JMP 증권, AI 유통 가격 협상에 마이크로소프트 주식 등급 상향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "08/31 19:13",
-        "published_ts": 1788171180.0,
-        "tag": null,
-        "first_seen": 1788172233.7831419
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Kejh6RFFNNEphUEZ5UnQzS0dycmVTbWRHQmJPaHNIWVcwN2ZDWnRTc1dTYWZ5SFZGTkotUXlRcTFXR0FpcDRKUy1oV3ZCUktjd21QSlRhZw?oc=5",
+        "headline": "日10년물 국채금리 3% 돌파·30년만에 최고…다카이치 ‘확장재정’에 경고등 [디브리핑]",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "09/01 17:21",
+        "published_ts": 1788250914.0,
+        "tag": "JGB",
+        "first_seen": 1788251435.2935743
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQakZwZlRYTXRYcXVUbUJsaVpLd2RYQi1FTnlNQkhkbnRvXzZ1UmRPYVN0dE5vVTBNb015Rm15OGROZEhIQlpnS0pIUl9DbUxlZFpOSzhRUDkyLTdfaWZZRkdBMzFfRnlEMngzN0EzWEZJaXhjRHJkY0F6MlJUcXV2WHl3OHU0dzVxQWdrZEV0d25PMlV4bUlzeWVnUjI1TnJ3cFp1VGs3b24zM0FyVms2MUlGM3JIQmpYd29WTlBHY2ZBeXZpbjg0OEw3RFRFZzJ0bi14MUNWY1UzV3BqZUotbGt4djN6eXVLOWtNM1Z6cHRlY0hs?oc=5",
+        "headline": "Betashares Australian Investment Grade Corporate Bond ETF (ASX:CRED): What Investors Should Know About Its 5.95% Yield",
+        "summary": "",
+        "source": "Kalkine",
+        "published": "09/01 17:07",
+        "published_ts": 1788250020.0,
+        "tag": "Global",
+        "first_seen": 1788251435.2935743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOLTctOWRGdHlUWno5dWdGc3dFNGU3VmlPcDRoVUZGdHA1aEc1SXhXVTVua29YUERCVTZkcHQ1YVRUNW9TUjJnbncyS2t6c2twSDhsalp4RHlydVhxU0Jpek4tLUxqc1FKT3ZxYUowWGtCY3kybERySlJqYWdHX2F0TjU2SDFGbmQtQThKLW5JUWR2OTBrc1RkcnJ3N2MyYU1xRFpvdjlwZ0FOOU1maXMwZEJCOU5hWnh4QlRNTmxJWTNtSDVlODIwMXVsZXBEcG94LVNj?oc=5",
         "headline": "Intercontinental Exchange stock holds firm as NYSE owner deepens tokenized securities push",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1788248715.0,
         "tag": "JGB",
         "first_seen": 1788249636.711252
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pRTZsVkUxQ3pLRkd4WlYwbDdsZXlyc240NmZOVzV6Wkw3RGJoNURmVk9ta3pxUWJCenJNZ0FhNk8wVmpVWFQ1cmd1UGxXMGFsOElvWjZZVXpETTkzZXE1bUFwNlQ3SnZOS0E?oc=5",
+        "headline": "연준 금리 인상 전망, 유가 상승, 일본 국채 금리 - 시장 움직임 분석",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/01 16:45",
+        "published_ts": 1788248700.0,
+        "tag": "JGB",
+        "first_seen": 1788251435.2935743
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdVBaVEw4ZVV4NlRETUxvUnZvdmpzTFYxRS12MEZUMzBlSk1ZSnFMYWRiMkFndHRKdF9iZXhYNTVRNzdrN3hEMEp6dTZSMVhKSEo3WHRqRzNPbjlkQTZqMGtoYWptdHowa1hzZ2VfU3VZVm5EclI0d2czN2pXWmNmRWltOEpzaE1QQ0w1OS1sWUpaV2xVWEpWV0x0XzlRR2pBZi13VUJ1UkVsbDVyUTJHWnVETkpicHZhSDBHWNIBwgFBVV95cUxOYk10UmNBaHFaREY2LUdaa0x4cHpLTVVLajhSVkdnOGFNdkVzNEpsekVIOHViWWw0SE16SGp5ZnY5OHUzUy1aVnNCU2pSSnhfOU9VLWxQSGVpTjl2UkNIaUxIbm5UZk01UENOYzRVWks1dUJ6ZC1hZW9QeUhkSnJaTFhmalY1WXJraWdTbmNhOFJ4Z1IwaEg2VzJ4SmJxc1JzUzRDWlZkTEF4dGlCZURGcVp6M0Z1M1hUT3lJT1pLcWNmZw?oc=5",
@@ -1860,6 +1890,16 @@
         "first_seen": 1788242438.8731554
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVF9QNjZFbm1vQV9FYjFDOUU2VUR0WlF2eVllTDZVQXNhNHR6R1RGU3NwcjlJVEUzS0R5X2RyeUhRemU1WlNjTUJxLXh5NXBINENmQl8zMV9jUEZ5cjgtTUp1eGFxVTZITVphaUI4bGdSU3hfLXB5TUlLaUN4UVhrUVVEOTE?oc=5",
+        "headline": "More Warshology",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/01 14:30",
+        "published_ts": 1788240636.0,
+        "tag": "Fed",
+        "first_seen": 1788251435.2935743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0RZc2d1bUQzUzdVeGVnNVZmQjhpeDExd29aMHRoN3dHaFRScVkwdnJRSVJTeDFnNU42RGxGd3pkN0trMGdMLU9RZ2RyTW1EMkRpcUx0TTVoSEE2QXJVeTFHQVFQbXEzLTBaUHQ1bDZQekhzWFJjM0dfTlg4bjVlVnhQTC01T0xldWdHY2p4OHh1cEhEdi0xNFJjRS1KeXhOdVl5cERacDhxSnRaMFJOemVFUUtXWTNVbW9vT3ZaUXhKcm8tcWRFTmE3RGxXbnc?oc=5",
         "headline": "Short-Term Treasury Yields Rise as Warsh Targets Inflation in Jackson Hole Speech",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1788238021.0,
         "tag": "Global",
         "first_seen": 1788238934.3241308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE10ZmlPeUFYUE03ZGN0M1gwaERTV0tIMWN2RTVWNGZhU2M1c0MzQTNXOTBURVBIRndGVVBWWlFxU1RkYzY1U0pOdnlsYUxQZER2QlpjaWZCXzg3bW5YVTVYQ0dVZ2RXTHBLU0VWN2g1YzVSX2E1d19v0gF3QVVfeXFMTXRmaU95QVhQTTdkY3QzWDBoRFNXS0gxY3ZFNVY0ZmFTYzVzQzNBM1c5MFRFUEhGd0ZVUFZaUXFTVGRjNjVTSk52eWxhTFBkRHZCWmNpZkJfODdtblhVNVhDR1VnZFdMcEtTRVY3aDVjNVJfYTV3X28?oc=5",
-        "headline": "9월 미국·일본 금리 결정 임박…한국 채권시장도 긴장",
-        "summary": "",
-        "source": "스트레이트뉴스",
-        "published": "09/01 13:43",
-        "published_ts": 1788237792.0,
-        "tag": "JGB",
-        "first_seen": 1788241530.2634997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VR2ZSbVNEMnU0R0I2SXpIb2dnWUxFTmF6YnZtVHhjOTVLd05vem9Idm9aNHU4d0l5OUt4ZVUyM1hQUWNUS19Yc0tqbV9VVlpL?oc=5",
-        "headline": "日 재무상 \"美와 엔화 안정 필요성 공감…BOJ 금리 인상은 논의 안 해\"",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "09/01 13:38",
-        "published_ts": 1788237517.0,
-        "tag": "JGB",
-        "first_seen": 1788237925.1173246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPemx6eWdESzJGcjJhdm9ZQWhrVGp5MjY1aWtUOEZRWHB1MXRkTnQzYVBmdDhGdHNEY1gwbmdENjBJLXZ2clBnS1pJcUg2UU5IT3U3aUFSQ25waTFQT01McV9kd1FPUk9qZ01PbHFFYTVtQ0N5SHhzdDhOY2x1T2d2VDNXMXR2YnBDcThOQUJ1Y1dzM0VBZ0swclh5WUdGN0tCLWs2alY5OGMzM19lbXo2a3FqdEt4ckNtZDNwYjhHeExncXJG?oc=5",
-        "headline": "INDIA BONDS-US Treasury selloff pushes India 10-year bond yield towards 7%",
-        "summary": "",
-        "source": "marketscreener.com",
-        "published": "09/01 13:37",
-        "published_ts": 1788237427.0,
-        "tag": "Global",
-        "first_seen": 1788237925.1173246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNGFLTmF5Q3dCOHFjU1RCR1hsbmJINGs4S0xmdC1aNUxMSmpvQlRvc2ozQzgtQTZNeHFGaUVDemtoQjFlSXlyT1VzbXNhSGZEbGV1cERwMnpCTHFYNXprQld2a0ZKdXRIRk9UV3BvaUhmVXZvQXNwb21EcWFBc09Db2twVTdBcUZ3aFFVUDgwTEZraVBpX2RnakN3?oc=5",
-        "headline": "Japan 10Y Bond Yield traded above 3 percent",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/01 13:27",
-        "published_ts": 1788236820.0,
-        "tag": "JGB",
-        "first_seen": 1788241530.2634997
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-01 17:15:53",
+  "updated_at": "2026-09-01 17:30:59",
   "yields": [
     {
       "label": "3년",
