@@ -152,6 +152,16 @@
         "first_seen": 1788336926.5115426
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBNM2JlcmpacjlxdjI1dVBuR3F4VnRaZWlwYXlBU2lsYXpzcWtvQjRNV3dBTFZsWTI2M1pYWkphdHZZZi1OOEdNZ1FjY2FxUDFSa21pdmRFVmlMTTDSAWBBVV95cUxNclh0VHB1YWx1X1pYeGFCMXJSa0JBU0ZKZFFQMWI4dVhMN016MXNFZkJFRmxGazcyU1hkdUNhVEJYd1FLTkRnVFJodVVINUFibFA1YkR3VWVJRW5tTk0xd18?oc=5",
+        "headline": "[특징주] 금융주, 글로벌 금리 상승 영향에 올랐다가 하락 마감(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/02 15:46",
+        "published_ts": 1788331570.0,
+        "tag": null,
+        "first_seen": 1788348633.7493463
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdENDNGF5MnQzSzFqVXZzbWt0MDZVWlRrbDdEVlhERnFRMjlSank2QnhqV1NoQk1NMXhnQVVINFlwZGhSX1RpNmJlT2p3dUU?oc=5",
         "headline": "채권시장 대학살 '공포'...日 10년물의 비밀은 [마켓딥다이브]",
         "summary": "",
@@ -386,16 +396,6 @@
         "headline": "국채 사줄 사람 만드는 미국…다음 불안은 크레딧 시장[클릭e시장]",
         "summary": "",
         "source": "네이트",
-        "published": "09/02 07:00",
-        "published_ts": 1788300000.0,
-        "tag": null,
-        "first_seen": 1788300923.5625408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1MUzBqV2ZkNGp3MmluallaVnE4Mm43STNHbVpxYnREcE5wd2FheTh0bkdWT3ZyR3g1NVIwU093Zy1mc0RiNGkzZ05JMDFOZGppemZfcy1LajRCMFpydHhzQQ?oc=5",
-        "headline": "내년 국고채 순증 13조 줄지만…\"채권시장, 금리 상방 위험\"",
-        "summary": "",
-        "source": "아시아경제",
         "published": "09/02 07:00",
         "published_ts": 1788300000.0,
         "tag": null,
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 20:15:49",
+  "updated_at": "2026-09-02 20:30:59",
   "yields": [
     {
       "label": "3년",
