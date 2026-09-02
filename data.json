@@ -1640,6 +1640,16 @@
         "first_seen": 1788362128.0531468
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vazJFWXJnM24xamhFNUZPeElSWF9ocFdlOGNQdDlaT3NVUXpKLTR3azJjOHZPQWg3UFBBejJyMF9xVUNIMUVfal9jV21qdkgzbmNjNDByS2NtRWNVbC0wRHE4ajV2cXV0ZEwtaFZTSGZhZ1k?oc=5",
+        "headline": "日국채금리 30년래 최고에도…버크셔 \"종합상사 투자 문제없다\"",
+        "summary": "",
+        "source": "마켓인",
+        "published": "09/02 23:36",
+        "published_ts": 1788359815.0,
+        "tag": "JGB",
+        "first_seen": 1788364843.2102087
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZWdSRzlQYnhGbmthdWJ4X21rZkdmRVVBY0VPV3lZRXFxRE82aTB5UVJsZGg1SkpPcEtJZ0RiaHd6OWhpSUE1cGxJZExRazlsSVZaeUJxOEtBbzJMdEtPUS1RYmhYUnR0M1dPbWlJXzc2UmdWY2JUbWFETFd5MkZPYmJGZGc1NjBFMVF1RGpmRW1KdTNjRVRxYWFROVBzLWhlUHc?oc=5",
         "headline": "Dollar to hold gains, but stuck on sparse Fed rate guidance – Reuters poll",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1788357502.0,
         "tag": "JGB",
         "first_seen": 1788357637.203478
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMVl1ZWRObWM4TF9GUGJNYWpzd192X29odWg5TURETkx1bzlKS2hQR0ZTS3RRVDFHYS01cHNjSUx2bWEycDdmSHE5YjZ1V2RIdV83OUU0c3g5dXp1elhZV1FYY0podGZXSGRxemFqLS15RjQ1RlgwZGJLRXdsVXlYWjZERVVBREdPYW9kUHFUM1ZMRzhXa0dYTEJ6YUtmTVQ0bkR5SEs0YldjRHlGdk5VWGE2S2EwUFI0MlM3WGdxWFZZRVdNcGNMbTc5dEJTdjVMMW5DbUx5aHFPalN2R3Eyc2ZyaVRmSUJGQ29uSlJn?oc=5",
+        "headline": "Wall Street stocks mixed as energy prices, bond yields turn lower",
+        "summary": "",
+        "source": "KMVU FOX 26 Medford",
+        "published": "09/02 22:49",
+        "published_ts": 1788356986.0,
+        "tag": "JGB",
+        "first_seen": 1788364843.2102087
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSTROdVhqam9uRl8yaGF5M2ZQa1pERXVhTUtPVW5rN2RGUTAyYUpnZkprMUUzejRDZjd0ZVdLNFRWZlJrMWozTUdIcG5MbUlzRVVGVjFDVWRUemx6aEFKeldLT1dBRUZZYnZXb2p1SXhNbjNwRTA3enB6Y1RQUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788341345.0,
         "tag": "JGB",
         "first_seen": 1788345927.522393
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5sd2RaLTlmU0gyRHljSmItWjlsUmtIMFVkNXQwY1FfVk81cFNTSGpaXzczdzBsbVJ5LWppV0JGRmQwWWdQTHI2X3UzZ243Tk5mVGdwTjJhZGJ2NlFsVkJmWFNB?oc=5",
-        "headline": "US Tech Giants’ AI Borrowing Could Raise Eurozone Financing Costs, ECB Warns",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "09/02 18:21",
-        "published_ts": 1788340861.0,
-        "tag": "Global",
-        "first_seen": 1788341430.929294
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQlI5azFUaEJzaVlZZC1RYWlCbnJWZmFsRnpOLS03blBKNEp6M1NjU3hIRXNsSzR4NmQ3R2xBSldLQ01jT1B5VVhPbGY1N3NiVzRTdDIxNHpHWEdkZU0zUnRB?oc=5",
-        "headline": "Japan 10-Year Bond Yield Hits 3%: Could a Yen Carry Trade Unwind Hit Bitcoin?",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "09/02 18:12",
-        "published_ts": 1788340320.0,
-        "tag": "JGB",
-        "first_seen": 1788353129.3024037
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 00:45:54",
+  "updated_at": "2026-09-03 01:01:10",
   "yields": [
     {
       "label": "3년",
