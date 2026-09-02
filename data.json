@@ -92,6 +92,16 @@
         "first_seen": 1788342324.315516
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1SX3JZU3hVYnA2UURTRW93WmJzcTkyUGpwc05INTE3MHc5X3V6enBVS29yajhrdnNVZjdtZmloMUpCNGhJWS03WTZmVWtkRXdveU43ZS1BTkotd1Q3ZmNFY2RvZUxDQjYyY24wckdidlR6Tk9uLXfSAXtBVV95cUxNb2xSWUNUUGhVYUFQZ3RJWjR5bXgtR00xeHp1aHJUV1ZyeEEweXFFMHlnSTZlLWt1UWEtVkVRM0FmNUVFdm5KVEFoRkVqNzd6eXZJTmR2ZHpkdDJlQnlXYTM3eUhoajJrcVJSRXhXWmNvS09mUVpFdGp2NGc?oc=5",
+        "headline": "일본 증시 2.85% 하락…\"블랙먼데이 재현 우려\"[Asia마감]",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/02 17:52",
+        "published_ts": 1788339130.0,
+        "tag": null,
+        "first_seen": 1788365725.9833498
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xVUlQVWhKM29jZjlVSEhPcHJtOEpwLU5KX21QQmdVTUFIa0pKUnVGOHZPXzAyajRBRktUVXg4U08yeHN5bWlGWFRMSkREWnllYWdoRUM1S0tLM3BDVy0tZzhJaGpSYnZsZDNydDN3?oc=5",
         "headline": "영업익 늘었지만 신용전망 ‘하락’… 투자부담 커지는 에코프로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788301801.0,
         "tag": null,
         "first_seen": 1788308125.2159219
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5BNS1rckNVcmtJZlFLTHFHcV9mcUtQT21UVmxHTW9GYkJEa0phdi0tOFhCVmM5aGpJazZDNEhzYlc3a1JrNFlfaXRR?oc=5",
-        "headline": "비트코인(BTC), 채권시장 투매 속 선방...7만 8,000달러 사수전",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "09/02 07:30",
-        "published_ts": 1788301800.0,
-        "tag": null,
-        "first_seen": 1788304528.9513097
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE55eVRqTHpWQzctbjlzQ0FEZThvbmg1Y0gzdlVMaEdyMXZQOVJoaDJtMEx0U0FMRXQ3WTNqMWdvcFZGb0NLeFNTV3IyN3g3TThfY3VuSzhKdWtJMFdJMmxXckZncGdBQ2s?oc=5",
+        "headline": "Fed Rate Hike September 2026: Markets Brace for 25bps Move Amid Inflation Fears",
+        "summary": "",
+        "source": "Intellectia AI",
+        "published": "09/03 01:08",
+        "published_ts": 1788365323.0,
+        "tag": "Fed",
+        "first_seen": 1788365725.9833498
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWRDaEZTSTRrOWZVSTlFQ2xtWGNYYnNlajcwc0pMZ2pLN1RlWTI2TGNEeF9tV181ZHk1YTE5dWFCRFdCQ0FtdGZBbmk3bUxpN1pNUHN0dHR2bHJiczE1d2k5ejVFMVNNRFhJdkVIV0VLU0pHVWk1ZFBWUFpRRjFYQkRGMnc1SnB1T3p4aGwtREFIb0diVkJNTnowSXJzd2JYZnJ6UHJ2TDlTQTY2OTF0SUo1bVJGdmlVb1U5WldjVnVWaFRkakY4U25WTkNYcHg5eE5wbw?oc=5",
         "headline": "미국도 일본도 영국도, 국채금리가 한꺼번에 뛰었다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788341734.0,
         "tag": "Fed",
         "first_seen": 1788342324.315516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5HeGpiOHNaVE5GeEU1QzlDY3B5VlF5VktMNmNHTmtTSXB3ejA3Nk1LSW1RLVlSU05ycEZ1ZEg0NC16aDRodTVNdC1LY0JNMl9hU2otb3ZGZGlnQzVIUDZMQ3pkWQ?oc=5",
-        "headline": "Japan’s 3% Bond Yield Draws Capital Home and Pressures Global Debt Markets",
-        "summary": "",
-        "source": "mezha.net",
-        "published": "09/02 18:29",
-        "published_ts": 1788341345.0,
-        "tag": "JGB",
-        "first_seen": 1788345927.522393
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 01:01:10",
+  "updated_at": "2026-09-03 01:15:52",
   "yields": [
     {
       "label": "3년",
