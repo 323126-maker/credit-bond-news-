@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMndRaFFtbjlJZE05M3JiNU55RGhNYjVjdWxZSk4zV0ZNWlJtaXF2Y0RtOF8tR0FjQmFvVUoxM21HbUNCeTRicENSaXRLdTBQZWxBVWNuQlZNZw?oc=5",
+        "headline": "전세계 국채시장 매도 폭풍…美 10년물 4.8%·日 30년 만 최고",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/02 09:04",
+        "published_ts": 1788307462.0,
+        "tag": null,
+        "first_seen": 1788312628.8494387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SUjZ4eHJNckVnTjdBc3UtaGhmQ1pMOGtadzgtRFlYUVJBNEdrVHdsUmo2TzlnQ180X1Bld2hybUlobEJRY1RuellXanpOUUJPV3VENkJZdTdSSGd2YTU5dk9oTS1MOGlCVkZF?oc=5",
         "headline": "[월간 DCM] 한산했던 8월 공모채 시장, 금융사가 '싹쓸이'",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "네이트",
         "published": "09/01 17:03",
         "published_ts": 1788249780.0,
-        "tag": null,
-        "first_seen": 1788250527.0463781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5zeWJnWmJjS2EzWlJiUkJJZG5ITEJmWDVHMkRwOHJhS05WSUVCNFBvd3BvOG80SXBJUlZ6TGJVRXllNW1pZ0lQYnphcm5wLXl4a1E?oc=5",
-        "headline": "국고채 금리 상승…美 장기채 상승·30년물 입찰 부진 등 영향(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/01 16:59",
-        "published_ts": 1788249581.0,
         "tag": null,
         "first_seen": 1788250527.0463781
       }
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DazRvWDhqT2d1YzVsdDViUnpRRGdLeTlsOWNqellCaVRHMG5qeW1JeXRuaGxwOXRGamtTdzctUk14U2RUTk1HOTRGOHRwU3NULXVVRW5xOEdNdE44Y3BISDBKRExNVEXSAWxBVV95cUxPSzNtdWhlSU4ta0dTeUhWMGZtUkVyQWFkTmtRYkpINkdMUDA3SEtobkMxc3hjckxQZWRiaUx4RW83LXFYcEIxcTEwVU9DSGlDNnA4UldpUGhnZHdzWlBDLUpVRlJlb0Nwa1lJQnY?oc=5",
+        "headline": "우에다 \"물가 상방 위험 염두에 두고 결정\"…BOJ 9월 인상 확률 99%",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "09/02 10:09",
+        "published_ts": 1788311388.0,
+        "tag": "JGB",
+        "first_seen": 1788312628.8494387
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TendjU2lwWGJ0UndwNk5aWUZHTXVQZkwybW9WMnFrMFRzZ0I2U1NBSHJmTW1KblFWbnNBVkNxU2ZnM0xOYVZqajJRV2NYTm55WVdvQ0JiNURFVUtV?oc=5",
+        "headline": "우에다 BOJ 총재 \"매 회의마다 금리인상 논의\"...9월 인상 관측 고조",
+        "summary": "",
+        "source": "newspim.com",
+        "published": "09/02 10:08",
+        "published_ts": 1788311280.0,
+        "tag": "JGB",
+        "first_seen": 1788312628.8494387
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWOGozM1RUaUlhTzZGSkZQeHhIdElpRy1rRXpGNmlkXzFfQlAwYzhHQ3AxejlpaVRUVnFQc25TbnpXckxFeFV5LXA1TmVpZ3RQaEHSAVNBVV95cUxPYWx3dWVscHNfNlFNVk9rQUlkOXFaLU5vUEFpSjRYWFZ6VzNnc2pCZUw0SFNxRmZCdGQ1ZWl3bGVIOHNZMUx5Wjc3ZjNlSnZXQlJuNA?oc=5",
+        "headline": "예산 143조엔 풀었지만 성장률 1.1%…일본 국채금리 3% 돌파",
+        "summary": "",
+        "source": "서울경제",
+        "published": "09/02 10:00",
+        "published_ts": 1788310800.0,
+        "tag": "JGB",
+        "first_seen": 1788312628.8494387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMEh1YjF1OUZZUWo5Mlc5RS13dTNXQXAzSTJ3amFPYlhhYkxPVmI4bFpsQ084bEU0bXZ0R2d5R05VR3ZxcXRzcUhKd3ROZmF1NHVNM1V2eW9OSkFDcEc5bXpITHdVcFRYTkE?oc=5",
         "headline": "[오늘 일본은] 日 10년물 국채금리 3% 돌파…30년 만에 ‘고금리 시대’ 다시 열리나",
         "summary": "",
@@ -1728,6 +1758,16 @@
         "published_ts": 1788303653.0,
         "tag": "JGB",
         "first_seen": 1788308125.2159219
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVEctdnE3N21qc0RPNjFUMld1RWdFSXpCSTlrNTFXSWprTUE2dlJZNWJha0dzMlNXTG5nYU9Nbk1KbHdOZThyc0NSYlpHUUNDLXJUZW84LWQ1dTJiQzFrUUlIMGRlSmJFYlE1NTY5M1JrRDVnQkZ1cDVfc0dTWHJXVkpITHh6WFhs?oc=5",
+        "headline": "Bond Market Movements Point to Growing Fiscal Risks",
+        "summary": "",
+        "source": "Peter G. Peterson Foundation",
+        "published": "09/02 07:52",
+        "published_ts": 1788303179.0,
+        "tag": "Strategist",
+        "first_seen": 1788312628.8494387
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QZGFDMVVTSF9YYnhERGJ2SG5Hd194aUxpdVJ3eXZvZi16YlNyOHpJZl9VZ3FWNXhPZldpd0wzVW9Mb0JsWjd5SGRHR0JOMjdmRXU0?oc=5",
@@ -1910,6 +1950,16 @@
         "first_seen": 1788305309.7488146
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVE9kTEZub2dxUTdibUJaQkZ5THBZQjlQTkltclQzWjBaNzA1S1VLZzctMndZRFNMY0Z4X1BXTXYwa3p3SVJXVkRBSWstMTdOM0d4V01wUGljNGxPbVZQSE95Z2tHTEVVclp2b3ROMjNJQk16b2VGN0Rwb0VJQXRvUVB5WnJNZW8?oc=5",
+        "headline": "The Curious Calm in Credit",
+        "summary": "",
+        "source": "ETF Trends",
+        "published": "09/02 05:34",
+        "published_ts": 1788294899.0,
+        "tag": "Global",
+        "first_seen": 1788312628.8494387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZTkNwdU9tZENtUm1zNkEyazVpa1RZekFRSUZsNXIzLVlscXhUNENnY0liZnBIUXljdTBiMUxsaG8zMkZhaGVibF85eUd3bGVPSUE5SGdzUXFIUjBJLUJpVjJIdVJXbFU?oc=5",
         "headline": "Strategist explains why Warsh is likely a 'consequential' Fed chair",
         "summary": "",
@@ -1958,56 +2008,6 @@
         "published_ts": 1788293347.0,
         "tag": "Global",
         "first_seen": 1788302725.8019612
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPd2d2UGZGUTBRbXNxcXZmdGdoQ2xRYjhhTVFiOTg4T3lPbWtNYmpXbEJJemd4Wm95RnhpaEJGM3NkSlB0YjF4VHBTNlpIZmIwWTVYd0w3U1VUaTNNaThSWjJGclREbldDRmh4TmhSMEFFNHc1UUdlV0tmUWcydC00QVJFVmMtdmdzQmVOVTlHVUVaZw?oc=5",
-        "headline": "Kevin Warsh Finally Sounds Like a Fed Chair",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "09/02 05:06",
-        "published_ts": 1788293184.0,
-        "tag": "Fed",
-        "first_seen": 1788301835.284024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQnh4Nmt1NFlGd0Vmel9VR3NNQkVUa25iU2RhZGhQc3VSWlBzZFhIbThrQ3M5M1FUelBiY0M5ejQ0NjNYUk5ZSFhIVXlHTTNMaXdaUzFPS2xheWQ5UTBpaU1NWXhIZFh0VElWdEhsaTVZMlRQTC1jRzJJTHdMNzFRQUF2dzhqUjJKdU1WeXFaTUZpUEp0UlZOQjBTRGtjU1hzYjhWbEVqWmI5ZHR3ajVHSG1wWjg2djVIWWg4WlBNQ3NqUQ?oc=5",
-        "headline": "Why Rising Bond Yields Could Throw a Wrinkle in the Stock Market’s Outlook",
-        "summary": "",
-        "source": "Investopedia",
-        "published": "09/02 05:05",
-        "published_ts": 1788293122.0,
-        "tag": "Global",
-        "first_seen": 1788294630.502581
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQTXk2TW9SQTd4bjktUVpoLU9VU1FrZlFrUU1YNG4tVWdSR21LZVVqczJsSVRUVFV2TkpZYnRmZGtvX0NTckJ3OEJFTXVTbmZDWl9pSDZXbHBFOG96Z0FQWGtLblRrM3BTVlhERHIwQXVtVl9aM3NlellodE5lbUQxb0tldmNQSlNsYkxjdE85SQ?oc=5",
-        "headline": "Jackson Hole 2026: Warsh avoids the elephant in the room",
-        "summary": "",
-        "source": "OMFIF",
-        "published": "09/02 04:52",
-        "published_ts": 1788292350.0,
-        "tag": "Fed",
-        "first_seen": 1788292837.7606757
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMGdSTnRVNEwzVmJmc2pCYmYwalRnVXpWWnU3ZUdMMFp2NEVhcl9NcEVNRVpYb2pfYWRGUWxmaHdod0J5cWc5aGVQR3Z5VmgtTFI2LXNmemlmSGM4eXg0UGhneHFTZXFMNWpwRlBVb1Y2aXhfRUZDRkNObTdyMWpEbV9BNF93enpq?oc=5",
-        "headline": "美 재무, 日 엔저 대응 지지… 일은 9월 금리 인상 탄력",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "09/02 04:50",
-        "published_ts": 1788292200.0,
-        "tag": "JGB",
-        "first_seen": 1788301835.284024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa0dtQ2tSS2I3NnRIM1pzbEVTZHIwcmxKZzVRNGZ6bWl2ZWdlMlpHb29DeEY0QVdPcGVlaU4zejNzRGRmQWRNV3F6ampxeTRTaGlwVFNlWFVRRDRYZTdVR2h5ajVRLWFZWjR5ZGZBdjhMZ1R1VUVEenhwX21Nd1NOVUkwYWhscFp3RWFTYWM1d1hlQkNHUkp4dkNCU0IteGNqZGE5SVl2ZXI4TDQxU19HSGFn?oc=5",
-        "headline": "Morgan Stanley Says U.S. Debt Fears Miss Bigger Story",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/02 04:45",
-        "published_ts": 1788291929.0,
-        "tag": "Fed",
-        "first_seen": 1788301835.284024
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 10:17:54",
+  "updated_at": "2026-09-02 10:31:03",
   "yields": [
     {
       "label": "3년",
