@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUVJEeVdIQ3h4Qmg1bGJhR2dzWTQ1N21ITFRxV3huRGQ4R0VXX09zc1FoMnhVdTk2N3l5VTRNaGJNSDZpNXdZa0dPYXQ0SU9iMGM2X2x1V2wxY2Npd1pUTHk5WGlqMmxHT0Jfb2ViTkgxS2l4X2lXME54bXJnS1ZFRm5uNjNoSnZEanlaNWdB?oc=5",
+        "headline": "Mizuho Financial Group Inc (MFG) 주식 움직였습니다 상승 3.03%에 9월2일: 변동 원인",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "09/03 00:16",
+        "published_ts": 1788362176.0,
+        "tag": null,
+        "first_seen": 1788363040.204713
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxY0NIZVJVeE1JZVFUSXZmT3BWTW1oamJGeTVZX3BhV2t0T2ZobEFnRDF6M0JhYlVnOGo0b0s4MkU5c1Y2d2VBc0QwNGRRZ0Y1Q3lMbFdWVUtUQnYtUHVDRjFhcW5JNUFoN3c?oc=5",
         "headline": "수익률 추구가 크레딧 시장 거래 방식을 바꾸고 있다: 뱅크오브아메리카",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788301800.0,
         "tag": null,
         "first_seen": 1788304528.9513097
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLMlRiYVZMYmZIWXpzQ0NzdE81SnBoNkZZRmxMeDZTQ3B6cmtfTE45dGE2MERGczB3UFVXMkZQazFiLUQ4SGNYYVRZNWdCaEFtc1IyQ1pvRVZTZ9IBWEFVX3lxTFBfeExfMVd1Tzdsdkl3Q0FJVm90OWJjY2gwTTM4U2FZTTdqY09KUlFCQTJUaEpfNk41R0pjVWhnV0RWWVRCZnZkR3Q4Z25lUXZKS2N5T0lGcEs?oc=5",
-        "headline": "[뉴욕증시 마감] 유가 급등·채권 매도세에 일제히 하락…나스닥 1.03%↓",
-        "summary": "",
-        "source": "아주경제",
-        "published": "09/02 07:27",
-        "published_ts": 1788301646.0,
-        "tag": null,
-        "first_seen": 1788302725.8019612
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWRDaEZTSTRrOWZVSTlFQ2xtWGNYYnNlajcwc0pMZ2pLN1RlWTI2TGNEeF9tV181ZHk1YTE5dWFCRFdCQ0FtdGZBbmk3bUxpN1pNUHN0dHR2bHJiczE1d2k5ejVFMVNNRFhJdkVIV0VLU0pHVWk1ZFBWUFpRRjFYQkRGMnc1SnB1T3p4aGwtREFIb0diVkJNTnowSXJzd2JYZnJ6UHJ2TDlTQTY2OTF0SUo1bVJGdmlVb1U5WldjVnVWaFRkakY4U25WTkNYcHg5eE5wbw?oc=5",
+        "headline": "미국도 일본도 영국도, 국채금리가 한꺼번에 뛰었다",
+        "summary": "",
+        "source": "데일리바이트(DAILY BYTE)",
+        "published": "09/03 00:01",
+        "published_ts": 1788361261.0,
+        "tag": "JGB",
+        "first_seen": 1788363040.204713
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPejFJUkVPOGpGdkhhOEo0enFkaG1USjdOcVJ6c0FrZVYtMzRLNHZzOVpnOHJaQ1E3Y0FhS0lXTHVYbGM0cFZ3SDNONVFMdzdOUHhmT1pxRVdrM0t5NFhYLWIybk9TeVJmdUdXdTdMZU1hN25ZaDcwazJKTmt5YzF1SWNlN1pZcmN1MGJRQkNHZzhZUDhiYXNMY2kyZVFNSGhhN1I2X2lBdWpqaVdrVnRfYg?oc=5",
         "headline": "RBI Governor Sanjay Malhotra Meets Fed Chairman Kevin Warsh at G20 Finance Meeting",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788340320.0,
         "tag": "JGB",
         "first_seen": 1788353129.3024037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWVCV0gxNVZHX0ZncGc5RjV2SkQyTmk4b1AxSFFSamJZOGVYM0drNmVvLXZMNmx0U2F0QXc3N3VZeDU2QVRLbUUxYzU2Y240dmNybXBwUkRzREJFX3ptM05lMF9sNGJ3aFNZR01tVWgxSk5wZGZRczh3TThvS2ZORVZtSnpQWGVUUHFIVXhCX3pVbThiVVVlT3pjbGNnbWlISTB3SUhNem43WDlHeV9COFNZS05KYVNfVVB2V1lqTFREeGVoWXl5eWFUd3dmUXc?oc=5",
-        "headline": "Higher global yields raise stakes for Pakistan's return to international bond market-INP",
-        "summary": "",
-        "source": "Independent News Pakistan",
-        "published": "09/02 18:07",
-        "published_ts": 1788340030.0,
-        "tag": "Global",
-        "first_seen": 1788342324.315516
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 00:15:54",
+  "updated_at": "2026-09-03 00:31:08",
   "yields": [
     {
       "label": "3년",
