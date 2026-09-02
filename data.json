@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yVzhNWTdnblZtd1hkeldqQnN5dm03cWl2N0lFVVp0NHlFNXhfRE5TT3U3bGVwaWlraWQ5bFVMM09NbHRLZl9GbmtQLVUyMFRyMmxiX3lqdVpCRVJnY3RvRWdSRjI0MV9fazB1ME5zSnYtcWk4NW9F?oc=5",
+        "headline": "무디스, 엘링턴 파이낸셜 등급 확정 및 전망 상향 조정",
+        "summary": "",
+        "source": "kr.investing.com",
+        "published": "09/03 02:29",
+        "published_ts": 1788370140.0,
+        "tag": null,
+        "first_seen": 1788374726.7663658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1S2I3d3p1RXVfUVd1Wnh3aHNvemR1ODVJLXlFY0ZZd2lONGtqUWU3c3VLY1RRbVdqSXd1Z1pWU0hna1otWEtZMWxBclk2T0R3S3FEYnBKMW5lNjhsOVdRa3B5WU9uamI5RW9SbDRfZVQ?oc=5",
         "headline": "골드만삭스, 후기 사이클 리스크 고조 속 크레딧보다 주식 선호",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788304350.0,
         "tag": null,
         "first_seen": 1788305309.7488146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZNDl2U08zX2QxTzFnLTZlYTB3cDFkY2VmYUV1bV9VZlQ0WW5QU3B6a25hN0dtMUFMYUJsajh5cUxpSm9leXVkdktGcExsb1FZSmlCYXpuTzFHdDRORlhXQUhFcERDS08zQlBRTGV4YlRxZw?oc=5",
-        "headline": "[국채금리 상승 여파] 'AAA' 공사채도 경계심…KP변동성에 엔화채 관심도",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "09/02 08:10",
-        "published_ts": 1788304200.0,
-        "tag": null,
-        "first_seen": 1788308125.2159219
       }
     ],
     "perpetual": [
@@ -1700,6 +1700,16 @@
         "first_seen": 1788362128.0531468
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUzUyd25lbUlBRjkwX0pWNHB1ZUQtVEZuQnYyQWFTLWZ6NlJDVldJRTBwam9kM1FwU2tYbE1jS201aHcyOEg5SjdSN1NuOGk5Mzk1dlNSeUtzLVJXRE5sS0h4ZWxKTE5DSUJQV0J6MnZFUFdPMnlkeTltU3Y2b0FBQmY2c3B5Z1FTai1jaERDYTJiMUtoWEFOQlJZUTBHdjhHNWZRajRYbG1FZ2M?oc=5",
+        "headline": "Market Wrap Sep 2: Oil Shock, Send Sensex, Nifty Lower; Auto, IT Stocks Lead Selloff",
+        "summary": "",
+        "source": "The Indian Awaaz",
+        "published": "09/02 23:45",
+        "published_ts": 1788360300.0,
+        "tag": "Global",
+        "first_seen": 1788374726.7663658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5vazJFWXJnM24xamhFNUZPeElSWF9ocFdlOGNQdDlaT3NVUXpKLTR3azJjOHZPQWg3UFBBejJyMF9xVUNIMUVfal9jV21qdkgzbmNjNDByS2NtRWNVbC0wRHE4ajV2cXV0ZEwtaFZTSGZhZ1k?oc=5",
         "headline": "日국채금리 30년래 최고에도…버크셔 \"종합상사 투자 문제없다\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788346297.0,
         "tag": "JGB",
         "first_seen": 1788358536.6832922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdFY3QnFuc1U3Zk1iNmxULW9waU5hUkpqUEN5Q3V0S1M2by1JRV9ySGVYekpkMEJmZTJXd1lMbTVQVDNBUHpHUUo0V1d4Y2ZqVGdxdXYtbjY2Zw?oc=5",
-        "headline": "글로벌국채 최대 큰 손 일본,해외국채 매도…글로벌 채권시장 긴장",
-        "summary": "",
-        "source": "hankyung.com",
-        "published": "09/02 19:39",
-        "published_ts": 1788345544.0,
-        "tag": "JGB",
-        "first_seen": 1788349526.0973873
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 03:33:17",
+  "updated_at": "2026-09-03 03:45:53",
   "yields": [
     {
       "label": "3년",
