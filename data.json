@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdENDNGF5MnQzSzFqVXZzbWt0MDZVWlRrbDdEVlhERnFRMjlSank2QnhqV1NoQk1NMXhnQVVINFlwZGhSX1RpNmJlT2p3dUU?oc=5",
+        "headline": "채권시장 대학살 '공포'...日 10년물의 비밀은 [마켓딥다이브]",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/02 14:34",
+        "published_ts": 1788327296.0,
+        "tag": null,
+        "first_seen": 1788331528.0822997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Ed1FrcF9WT0haQzh2LXd2dDNBdUxUWVpQd0liMnY3REpnODBTQ3VBUHdsemRLT2otRlJ1ZVBqNXgtVXRqNERSQmhaOTI4NmliYnhmRk1rWktaZ2xiMVh2OXYtSzdoSDl1anB1clkzcTPSAXRBVV95cUxOQU9tSTBZSjJUVXVMeU1vSVZBVGdNeGVGbkc4b3REREctazVLQ3JuNll5bElnSm1JUnZpaWpDMjZVdi1PSlBmUUtBdXJZWmJxcnM0UmZFTTl2SXlWV0pabkRtMXo3d1gyTk4xZXBBRGFpREhhTA?oc=5",
         "headline": "[강준호의 히스토리] 시장 유동성 죄는 현 정부의 무리수",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788255817.0,
         "tag": null,
         "first_seen": 1788273033.6872463
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DXzhyUDdxcU4yQU5OSG5obXB6WmFRRlVkUDhVbXZFN0Q2cEFfVEFHbE5qbWxnWVRWcXo4aFdmWkRDbnlhNDRQQkFPZXlIenZBVWV5T0hRUl9YaUtxUnNOZEhMNldLUlk?oc=5",
-        "headline": "일 국채 10년물 금리 3% 돌파…글로벌 채권시장 발작",
-        "summary": "",
-        "source": "hani.co.kr",
-        "published": "09/01 18:32",
-        "published_ts": 1788255120.0,
-        "tag": null,
-        "first_seen": 1788256839.8992224
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1tVkZiTVRONVczLVIyY29vZmRObXpVMXQwTEpHZTdGR0hkUURyTUkyRnp5alRZVHE4VXdkRERUT1VETVpKUTZ0M3hUWFdVZDQ?oc=5",
+        "headline": "美·日 장기금리 쇼크…한은 운신폭 좁히고 기업 돈줄 죈다",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/02 15:26",
+        "published_ts": 1788330360.0,
+        "tag": null,
+        "first_seen": 1788331528.0822997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlTUMzaTdYWlpYbWVOVmttb051X29fcHJEN1k0LUxLVzF6dkU3TWc4MDlVeXMySWFDYkowcUQ5RkE0bXZReFYycGpwUllBTmR0RkIyaDRXSGt2TldfVHZhcA?oc=5",
         "headline": "3%대 물가 충격까지…채권시장은 '퍼펙트스톰'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788123600.0,
         "tag": null,
         "first_seen": 1788124523.6106966
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1tYWNVcGlVaVRJcW4taUdFTFA0Q2NtWmdhSGoybjRHcFZqaXFDZk1xVWlxa09CSVdxM1g2NDUyRDdQdkFYWWNMdFR6TC1DcGJ1RlE?oc=5",
-        "headline": "장기채는 팔고 회사채는 사고…엇갈린 채권시장 수급 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "08/31 05:52",
-        "published_ts": 1788123120.0,
-        "tag": null,
-        "first_seen": 1788128127.4833539
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 15:30:56",
+  "updated_at": "2026-09-02 15:45:50",
   "yields": [
     {
       "label": "3년",
