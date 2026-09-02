@@ -1238,6 +1238,16 @@
         "first_seen": 1788311725.7827618
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBVc3pVTmNlMkRWcDhCRXJEbWpDTjA5QUx1bmJmcjBDNWtUbTUwdTRSS1laWXZ5cllNNnV3TmllT3NtZTBCc08wUXh3?oc=5",
+        "headline": "'4.789%' 美금리·820조 예산…채권시장 '9월 암흑기' 오나 : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "09/02 08:00",
+        "published_ts": 1788303600.0,
+        "tag": null,
+        "first_seen": 1788326126.043248
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40SHM5dHNXbjJwSlMyUFQxcEtCY1FkWm9FaWlzUVFGdmFjMzVJaFNRd2tuX19XVl8zYUpRY09iaXJYT0dhV0U0Rld6Z0czQnhIMTJuT2t1YUlyMFU4emxaONIBYEFVX3lxTE40SHM5dHNXbjJwSlMyUFQxcEtCY1FkWm9FaWlzUVFGdmFjMzVJaFNRd2tuX19XVl8zYUpRY09iaXJYT0dhV0U0Rld6Z0czQnhIMTJuT2t1YUlyMFU4emxaOA?oc=5",
         "headline": "채권시장 호재 없다…30년물 입찰 부진에 재정·물가 경계도",
         "summary": "",
@@ -1326,6 +1336,16 @@
         "published_ts": 1788248431.0,
         "tag": null,
         "first_seen": 1788253237.330139
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xT3YzdXlJX08wMEZLdnQ0bC1UN2NLR1BpTERadDdVWkd1SWtYRUxybHJLZlRKc2VDVTV6d2U4bTRkMFZEZV9xUHJJbUFsZ0pwV0VEbWdQdmpzdm9KdkRqdVQwTUtGRXBidlV0cHRfZk44ZknSAXNBVV95cUxOcU92M3V5SV9PMDBGS3Z0NGwtVDdjS0dQaUxEWnQ3VVpHdUlrWEVMcmxyS2ZUSnNlQ1U1endlOG00ZDBWRGVfcVBySW1BbGdKcFdFRG1nUHZqc3ZvSnZEanVUME1LRkVwYnZVdHB0X2ZOOGZJ?oc=5",
+        "headline": "오늘 국무회의 …내년 예산안 '800조 원+α' 등 심의",
+        "summary": "",
+        "source": "daejonilbo.com",
+        "published": "09/01 16:31",
+        "published_ts": 1788247883.0,
+        "tag": null,
+        "first_seen": 1788326126.043248
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnRWJwWE8tSk5GZzU2T3VxODV3Y3Ezdi1xWl9LTWhZTzdUY2N6RzNQbnpOMGFtZnRXMG1kZEU5V0ZLSWZ4N1o2TkVDNUFEZm1HLTBnaC1sbENDc0phM2lJSHVza2t3S3Q3RHfSAW5BVV95cUxPVFZoLXhhSk9OQ0RXT05wMVdFaEc5bnQxMDdJbFV2UWczajg0LXMzV1JzNjl0MkhQZDBxVUJzQmxHNXJRaHp2Z3JIWVpqam1qVW5yR3ZXSmxkd2NUdFlOWUlXS1RobG4xcnN2M1llZw?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1788225780.0,
         "tag": null,
         "first_seen": 1788227122.863967
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xUHB0bjJISzNjR0EzZEY0N1pocmZxLWEzeFN5bWp3RkNCUk9TM2Y0cDJiTEhRRkxNUkpkaS1oMTM5eHlmMDNFekl4WUNlVnRHNXBXZ2U0R3pBb080ejBKbXZDSHRzTHRIN055QVo3czlfUQ?oc=5",
-        "headline": "李대통령 \"3%대 성장 현실화…금리 상승 불가피, 재정 정교한 역할해야\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/01 10:18",
-        "published_ts": 1788225524.0,
-        "tag": null,
-        "first_seen": 1788228928.9445307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB2Z0c1SW5XYkVkT0xZN0dHd1NJX2ZLTHlfVGZtdHM5NjZaVTBXc1hFRlJ3SThSMUxaQTZVcldtWC1NQW1RcHFZNjlaV2M1dFJLUlpkdEtkbFlsYXhUZEJHcGNVTFpTTVRwREFKYQ?oc=5",
-        "headline": "이 대통령, 오늘 국무회의…부동산 세제 정부안 의결할듯",
-        "summary": "",
-        "source": "스페셜경제",
-        "published": "09/01 10:12",
-        "published_ts": 1788225150.0,
-        "tag": null,
-        "first_seen": 1788226240.2991734
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 14:01:06",
+  "updated_at": "2026-09-02 14:15:49",
   "yields": [
     {
       "label": "3년",
