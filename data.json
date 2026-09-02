@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlTUMzaTdYWlpYbWVOVmttb051X29fcHJEN1k0LUxLVzF6dkU3TWc4MDlVeXMySWFDYkowcUQ5RkE0bXZReFYycGpwUllBTmR0RkIyaDRXSGt2TldfVHZhcA?oc=5",
+        "headline": "3%대 물가 충격까지…채권시장은 '퍼펙트스톰'",
+        "summary": "",
+        "source": "news.nate.com",
+        "published": "09/02 12:19",
+        "published_ts": 1788319140.0,
+        "tag": null,
+        "first_seen": 1788319836.4718356
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9ZNDl2U08zX2QxTzFnLTZlYTB3cDFkY2VmYUV1bV9VZlQ0WW5QU3B6a25hN0dtMUFMYUJsajh5cUxpSm9leXVkdktGcExsb1FZSmlCYXpuTzFHdDRORlhXQUhFcERDS08zQlBRTGV4YlRxZw?oc=5",
         "headline": "[국채금리 상승 여파] 'AAA' 공사채도 경계심…KP변동성에 엔화채 관심도",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788079246.0,
         "tag": null,
         "first_seen": 1788085830.7354674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ySmE0dHRNemJvNl94ZHh5XzlFMkpoWHJyeWhGMDgtaUZrS0E2ckR1Y2xHdVdsZmY5U3p4eDU0MHg2bUVvMC1JalhlSVY2cU5lNXNwZklUS0RwQQ?oc=5",
-        "headline": "'점도표'에 찍힌 금리의 미래..'나침반인가, 족쇄인가'..유용성 '갑론을박'",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "08/30 14:37",
-        "published_ts": 1788068261.0,
-        "tag": null,
-        "first_seen": 1788069637.713648
       }
     ],
     "politics": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1788318037.1923857
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9heDlndVpUUnBOMzNTUUsyQVFhcTJJUTFmOGJJQTJjZldBOU1oVXl6a3RBaXhBaG9sbW5tODBWbC1HTENMS1dNbVRyVXQ2TGFO?oc=5",
+        "headline": "우에다 BOJ 총재 \"물가 상방 위험 더 주의해야\"…9월 금리 인상 전망 강화",
+        "summary": "",
+        "source": "bloomingbit.io",
+        "published": "09/02 11:19",
+        "published_ts": 1788315556.0,
+        "tag": "JGB",
+        "first_seen": 1788319836.4718356
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15NFlmWmJ0V20wR1ZxMi15eWhUTnVkOHhrSkk1Zm1ncE9UckZ2bkN1OHpxY2JOZTFEQnN0LTM1T2lPdHpGRnJxVTN5bWpTRnBhQXJCbzltM3VHQWhqSG5yenZhYmVFZmdSbTdKZUlMeld4dw?oc=5",
         "headline": "日 국채금리 3% 시대…정부·가계 '빨간불'인데 기업은 버틸까",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788300989.0,
         "tag": "Strategist",
         "first_seen": 1788313522.9837847
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BMlBELVdpWlBteUE0Q1NMaUNQN1pqVXhLZFBkei1uR3ZKMFJTVjdrc1ZsXzZLOFFoV3BGaXdkbDhfUVhPeUdETGNIaVRIc01oSjhn0gFYQVVfeXFMUERQWTk2MnlMUlF3cjR6M25oeUdJTnZwTG1XdTRlcmtoQjJmckRMYXVLZTJabzFDeF9RSU0ycW90NDdScDQwUVhUcXZZa0RJQ1NQMVAwdC00Rw?oc=5",
-        "headline": "[증시전략] 일본 국채 10년물 금리도 3% 돌파…30년만에 최고",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "09/02 07:08",
-        "published_ts": 1788300480.0,
-        "tag": "JGB",
-        "first_seen": 1788301835.284024
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 12:15:50",
+  "updated_at": "2026-09-02 12:31:00",
   "yields": [
     {
       "label": "3년",
