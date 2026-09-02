@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdXptcEtKRXdnWHNZYUY4U09nNmlOWmVIYnRXRlFCclYyb0pfMDJkdlpyS2F2LWpMOWpPVFpRZTJSeVlyQ0JsdXduTWNJenZ2cWRKZC1rcHh4NVlfcW1OTFBoUUtlUExJSkE2Ukh3X0FSWjBkcVh3eUFCeENGUGcydmdNNFdQNWhr?oc=5",
+        "headline": "10-year U.S. Treasury yield hits 4.80 percent, Mohamed A. El-Erian warns",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "09/02 15:05",
+        "published_ts": 1788329125.0,
+        "tag": "Strategist",
+        "first_seen": 1788329728.624622
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQalN3Nl9keGtVcVRhdldWWnpiaUxDenUxcW11YmF1OUllTDJycW5heGxXY3VBSUtVUEw0ZXdsaFdiT1VXM0xHYW5tYjh1Q3Vpd3cydWdYbEk4Mkl4MnRaX2JIR0p4U3E4LWhfNWFCbjl0S1BZWXQ5TGo4Z9IBgAFBVV95cUxPXzl0SWtfNTVYc2tma2YwdWpZc00wM3FZOENuVFFOOEJqWm52enlaT2J6TTg2S3hWR0dUZ054MlpSb1E3SWV6WVRRbkdObF9fUFBtOUlIN2N1S3QyUjY3VXRXZTdrY0xKTGJZTjRjanZxbjl3YjlSVGw2dEI5M2FYbQ?oc=5",
         "headline": "日 금리인상 확률 94% … 국채금리 30년 만에 3%, 은행들 '손절매'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788304056.0,
         "tag": "Fed",
         "first_seen": 1788316232.3930752
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaWtaMFRQdjlUWWpDT2g0Qmh2SDI3Wl9DTzMyMVluU3pFYUxWaHl1ZkhjWkpESndwME9XbnBIS3czVzVkM25SZkpvcDQ4bzk4dGhVb0pnRk1fWV9KVGtEXzg1bkYxVXpjYXZTQ2E4bDdkX3BpSnBEamViUU5LdDZYUWVzeHZNZXJ2OHdGdklqQW5RSFpsN29yaWozS2R0SUxUTW8zWjRxQkNGTnQ4ZGEzZ1U5am9TcU5aeUVGZGJFdw?oc=5",
-        "headline": "Bessent speaks with Druckenmiller after mentor criticises him",
-        "summary": "",
-        "source": "The Star",
-        "published": "09/02 08:03",
-        "published_ts": 1788303825.0,
-        "tag": "Strategist",
-        "first_seen": 1788308125.2159219
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 15:08:47",
+  "updated_at": "2026-09-02 15:15:53",
   "yields": [
     {
       "label": "3년",
