@@ -1660,6 +1660,16 @@
         "first_seen": 1788381033.489871
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT29qc1hmYW4yNG5wSWJ4N0sxTkYxTFpUWklwbUhBNjNNZjFnQmYzbmU1R0o3dHVha0stWEVYbDhUMEdRUHIwMFpRS0hwa2h4RHVnOVJUeUl0VVZQUUhfaFNJX3JuTTJmV25fRXBJc2NOOFhLRXVzcEhwdlktMHFwYVdNNzBGZTZlbnE3N0ZRbG1ZVk9FMURRMlN3?oc=5",
+        "headline": "Fixed Income Takes Center Stage as August ETF Inflows Defy Seasonal Trends",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "09/03 03:16",
+        "published_ts": 1788372970.0,
+        "tag": "Global",
+        "first_seen": 1788384633.0694802
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVktqNDh0Vmt5MDUtYTFlZlFpZndEcTM2Zk1iU3NXaHlQRjQ2YlkyT2stM3BYYmk0MTg0QjBUUThnd1ZpbGRRbDVuaVphU2g4NGZZZ0cyMlJhWEM1R19SUjlHZUg5Y215M1ZKV1NaLVVTVkM1azFUaEswQTQ2eEc2ZXltekVVR2ZNZ2NpYmdpSjFPRTFEMW0tLTRubGFKVXF1Zm56ZEhVY1ZZQQ?oc=5",
         "headline": "This Global Bond Rout Has a Surprise Winner",
         "summary": "",
@@ -1818,6 +1828,16 @@
         "published_ts": 1788361566.0,
         "tag": "Fed",
         "first_seen": 1788383725.3208456
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwZ1JuTk8xNlY0S3ZXQlBDdUZMNDBFNUVubjlaam1Oc2dnYVZEWGF3cTFNV0huczF1OG1jXzl2SWpOb21jenRyRFJycUNySmZT?oc=5",
+        "headline": "글로벌 국채금리 '연쇄 쇼크'",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "09/03 00:05",
+        "published_ts": 1788361505.0,
+        "tag": "JGB",
+        "first_seen": 1788384633.0694802
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPWWRDaEZTSTRrOWZVSTlFQ2xtWGNYYnNlajcwc0pMZ2pLN1RlWTI2TGNEeF9tV181ZHk1YTE5dWFCRFdCQ0FtdGZBbmk3bUxpN1pNUHN0dHR2bHJiczE1d2k5ejVFMVNNRFhJdkVIV0VLU0pHVWk1ZFBWUFpRRjFYQkRGMnc1SnB1T3p4aGwtREFIb0diVkJNTnowSXJzd2JYZnJ6UHJ2TDlTQTY2OTF0SUo1bVJGdmlVb1U5WldjVnVWaFRkakY4U25WTkNYcHg5eE5wbw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788355211.0,
         "tag": "Strategist",
         "first_seen": 1788355833.0615578
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5IS0dsQjR3VHFTbEFaOEkyVXhUdVdTQkpfM1phcXpfVkdzNW10R05Zb0tlY01GWHRfQ3o4eVE3VWhRMnlDTW80Z0MwQ0xwLW9JdENQeXA2Skl4MDhmbTNJSXUtTGRtNzFkaTVZV19kNk5lcnc4V2c?oc=5",
-        "headline": "Global Bond Market Sends Warning to Investors",
-        "summary": "",
-        "source": "stl.news",
-        "published": "09/02 22:12",
-        "published_ts": 1788354769.0,
-        "tag": "Global",
-        "first_seen": 1788356727.529121
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVFJ4eWpfeEpSZ25HYWV0YmtHNklXY1lxUHhQM3FLOVRvSnlJVWlGQWo1QlQ4M3dnZEhmdkR4ZnUtUEVqZFAteWFleEhhUFlnQldHWWFwY29LLWJuVjE1cnh3cHc5cV9Mcm9YbXpvR1ExTUN4WlMwUXVnSWQ4dzhEdEQzaGRnWDFQMUhHV1U5RW95cjNlODRUTnJBNElSQ01OZTdvQmcwSVdZOTF4OHVBNA?oc=5",
-        "headline": "Don't Short the Bond Rout, Expert Sees a Better Trade",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/02 22:02",
-        "published_ts": 1788354147.0,
-        "tag": "JGB",
-        "first_seen": 1788368439.1711023
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 06:15:51",
+  "updated_at": "2026-09-03 06:30:57",
   "yields": [
     {
       "label": "3년",
