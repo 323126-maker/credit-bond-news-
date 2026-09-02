@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORkJZQ0xUeXBpUG95MnVaQmR1RTdLRmdoZWN4RXdjSE1RQUYtU3FaazZWa3ltSXRLM3l2bmUtcDlYMmwyNXhMLS16Z3JYWlhMRndlcmI4MXJPd0M3bFFEZ2UyQkQ1VzBtUlI1MW1fRnljam9iRmttT1h3ZXpOaVBPWThmYU5QM0NTSi1WLWVxdw?oc=5",
+        "headline": "채권 위축에도 대한항공 인기…3500억 대신 빠지고 미래 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "09/02 16:56",
+        "published_ts": 1788335816.0,
+        "tag": null,
+        "first_seen": 1788336926.5115426
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5PcnZ2ZFdCdnpzM1BzYzhqVDFnbTduLWI4aFIydjhIQnNaV29uNWYwOUg0UTI4cGZVbURlUFExeUNDcTlZNU5MelBkTnZXMEQtVEFGX1BNdmtJd29xRF9TOUczeWlSVzZCbXBxaU44QVJTSTZW?oc=5",
         "headline": "골드만삭스, 수익성 전망 개선에 도이치뱅크 주식 등급 상향 조정",
         "summary": "",
@@ -30,6 +40,16 @@
         "published_ts": 1788333492.0,
         "tag": null,
         "first_seen": 1788334236.9538023
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMHNZN3FNRjVSbGlIWlRWRG5xSEtBWU1wbDJsVHBHRUxPa0dGdDJ4OElDQlg4MlNPaFNGSVY0RHRfWndsVXBtX2d2Ukdtal8xZnN4eXhXa2o1NFl5UFl6NGZWeVJ0UWdBaWNpamlRSFotdUIx?oc=5",
+        "headline": "국채 금리 연쇄 급등… 정부·기업·가계 ‘비상’",
+        "summary": "",
+        "source": "부산일보",
+        "published": "09/02 16:15",
+        "published_ts": 1788333358.0,
+        "tag": null,
+        "first_seen": 1788336926.5115426
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9SdENDNGF5MnQzSzFqVXZzbWt0MDZVWlRrbDdEVlhERnFRMjlSank2QnhqV1NoQk1NMXhnQVVINFlwZGhSX1RpNmJlT2p3dUU?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788278046.0,
         "tag": null,
         "first_seen": 1788299125.347173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IZFZTa0ZaeVZYaTNfWC0wX25BVEduRWl3RFo5WENyNmd1aGdNdWRMYVBVbzV3ZWMzUGFaOFJicjlhcGxBTFZGTVlIeGhWdUpqWEtTWFltTU1QVVdQblBpTU5KaWpSNGFTNGdtcGRB0gFuQVVfeXFMTUhkVlNrRlp5VlhpM19YLTBfbkFUR25FaXdEWjlYQ3I2Z3VoZ011ZExhUFVvNXdlYzNQYVo4UmJyOWFwbEFMVkZNWUh4aFZ1SmpYS1NYWW1NTVBVV1BuUGlNTkppalI0YVM0Z21wZEE?oc=5",
-        "headline": "美·이란 충돌에 국채금리 급등…글로벌 장기물 20년 만에 최고",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "09/01 22:20",
-        "published_ts": 1788268837.0,
-        "tag": null,
-        "first_seen": 1788273033.6872463
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95WTBSbm9hdlZoWVBuX1hVN1AtM2VpTVNFZ3Y0Uzg4UDRLQU1SRFdsekZQVGdvdk1xY3Y1amx4RXZ4eXNZVHJUQ2dKNGpJLTdodkxkR05kOTRfUQ?oc=5",
-        "headline": "美 4.8%·日 3%…중동발 인플레에 글로벌 채권시장 휘청",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "09/01 21:18",
-        "published_ts": 1788265099.0,
-        "tag": null,
-        "first_seen": 1788266727.9237993
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTHd0d3B5WGtNTEVUMVV2ZV9LVEJRXzNqOXo0eGtiM1lweXJLUnExdlRvNjUyYVdpTm9qLVREVjZrMGFFOVJCU29HZ0ZZTUY3S1lCb0dpRHlHekY1OUxwZG05R2ZNZ0RoVmtFd2FiaEFwUHh6RXBxc0U0Ym9YRnBzWjFmRDV3UWdPRWRFNFowTXF2d0J6QTdZWHViVTFzcFcwOWstQ3dPR25YbUVZMTIxazhPeGIzOG5ROW5oeHZFZmRySmFHdEcwbGQ3dE5zcm8tVzJGbTN0NEdCclJrZHZxN3ZUQUg0aXJZTHItLUFlRXVOT3BrSW5kLTVYWnMzWG_SAf8BQVVfeXFMTUx3dHdweVhrTUxFVDFVdmVfS1RCUV8zajl6NHhrYjNZcHlyS1JxMXZUbzY1MmFXaU5vai1URFY2azBhRTlSQlNvR2dGWU1GN0tZQm9HaUR5R3pGNTlMcGRtOUdmTWdEaFZrRXdhYmhBcFB4ekVwcXNFNGJvWEZwc1oxZkQ1d1FnT0VkRTRaME1xdndCekE3WVh1YlUxc3BXMDlrLUN3T0duWG1FWTEyMWs4T3hiMzhuUTluaHh2RWZkckphR3RHMGxkN3ROc3JvLVcyRm0zdDRHQnJSa2R2cTd2VEFINGlyWUxyLS1BZUV1Tk9wa0luZC01WFpzM1hv?oc=5",
+        "headline": "Explained: How multi-decade high global bond yields spell caution for Indian stock market investors",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "09/02 16:45",
+        "published_ts": 1788335100.0,
+        "tag": "Global",
+        "first_seen": 1788336926.5115426
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CZm9BZzRNTy1fbDBYblFZMHJyVFhzazNsNG9RR2xrWDNHb3dWSnFnUnZlY2p1UWh1VnZ1Q2JPN0VCckNYeXF5UkVnc091OENrNUVaVkZJb2xSZw?oc=5",
+        "headline": "Nikkei briefly plunges 3% on higher bond yields, Middle East conflict",
+        "summary": "",
+        "source": "Japan Wire by Kyodo News",
+        "published": "09/02 16:37",
+        "published_ts": 1788334620.0,
+        "tag": "JGB",
+        "first_seen": 1788336926.5115426
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdVJmeTlZeDRZQTNpUzlUcWtBNUhEcGMyaW1lYnJEY25aekNQbFFiOVF1VTBNSUtHZk1MZ1dWTzBtMHNFUFRScjZOcF9hSWZSc0gybE5ZUXNHZU1NVEUtUFJUNHVOTDVNZElGNVhkQlRNOHFTNzN6N2xpVUd0TTVEVHRKYW9LeW9WZElYbWU3T0NhQkxleWVjRkJiLXpHMjdtRk9BWURDNGVtV1MtS1l6d3AzbmRJMnBUWGV2ZGZlRkJrZDdLcGE4WTNpT1RwWWRtY0lNa25NT2pIY3UxN0I1bWUxanBwOWlXajVKdEt3Ry13SDNjbHR30gH8AUFVX3lxTE53U0U0S0Y0TFVucWlWeENQMlptUmpxTW1IUTFWUWtWTG5WNC03Sm5UZjVzMkx2dzU0Tk1Uc01uQzhobDhIQ042SlBvSUZGcnhRd3NmaW1SQjdiQVVTZHd3OVNkZ3E3MU1EeDZVeEZJOG5OSFVuYjVzenZRZm0yMEpkVE8yckFjSmgtRUVxRmVpV2E2NkRISmZVV0IwTmZIRlk1ZFhnWHJ6MXZEMFpUck0wZU13eW43M2JhMWt2cm9lY2dySW5KcW5kbTU5MjZBYV9INUItNzg4VDluQWJkaVp2THJDY2h5TEVWMTFqOGhYUHpCWWNjSFY1MzQ0YQ?oc=5",
         "headline": "US Stock Market: Higher long-term Treasury yields face structural headwinds",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788311280.0,
         "tag": "JGB",
         "first_seen": 1788312628.8494387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWOGozM1RUaUlhTzZGSkZQeHhIdElpRy1rRXpGNmlkXzFfQlAwYzhHQ3AxejlpaVRUVnFQc25TbnpXckxFeFV5LXA1TmVpZ3RQaEHSAVNBVV95cUxPYWx3dWVscHNfNlFNVk9rQUlkOXFaLU5vUEFpSjRYWFZ6VzNnc2pCZUw0SFNxRmZCdGQ1ZWl3bGVIOHNZMUx5Wjc3ZjNlSnZXQlJuNA?oc=5",
-        "headline": "예산 143조엔 풀었지만 성장률 1.1%…일본 국채금리 3% 돌파",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/02 10:00",
-        "published_ts": 1788310800.0,
-        "tag": "JGB",
-        "first_seen": 1788312628.8494387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FMEh1YjF1OUZZUWo5Mlc5RS13dTNXQXAzSTJ3amFPYlhhYkxPVmI4bFpsQ084bEU0bXZ0R2d5R05VR3ZxcXRzcUhKd3ROZmF1NHVNM1V2eW9OSkFDcEc5bXpITHdVcFRYTkE?oc=5",
-        "headline": "[오늘 일본은] 日 10년물 국채금리 3% 돌파…30년 만에 ‘고금리 시대’ 다시 열리나",
-        "summary": "",
-        "source": "pointe.co.kr",
-        "published": "09/02 09:42",
-        "published_ts": 1788309736.0,
-        "tag": "JGB",
-        "first_seen": 1788310842.6816099
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 17:01:01",
+  "updated_at": "2026-09-02 17:15:49",
   "yields": [
     {
       "label": "3년",
