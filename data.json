@@ -42,6 +42,16 @@
         "first_seen": 1788363040.204713
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE91X25VLVk3U3k1VUtidkZ0N2NoeU12X3lkZ0lsS2U0NEtQeWR2aFFBaC12MDNENzNHbU9XazhESTdzWjZjd2IxSzMtZTJMd3ZDbXJIalFSTQ?oc=5",
+        "headline": "유가·재정적자·AI 회사채 압박… 글로벌 국채 금리 급등에 비명",
+        "summary": "",
+        "source": "서울신문",
+        "published": "09/02 22:26",
+        "published_ts": 1788355584.0,
+        "tag": null,
+        "first_seen": 1788389123.926684
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxY0NIZVJVeE1JZVFUSXZmT3BWTW1oamJGeTVZX3BhV2t0T2ZobEFnRDF6M0JhYlVnOGo0b0s4MkU5c1Y2d2VBc0QwNGRRZ0Y1Q3lMbFdWVUtUQnYtUHVDRjFhcW5JNUFoN3c?oc=5",
         "headline": "수익률 추구가 크레딧 시장 거래 방식을 바꾸고 있다: 뱅크오브아메리카",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788307462.0,
         "tag": null,
         "first_seen": 1788312628.8494387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SUjZ4eHJNckVnTjdBc3UtaGhmQ1pMOGtadzgtRFlYUVJBNEdrVHdsUmo2TzlnQ180X1Bld2hybUlobEJRY1RuellXanpOUUJPV3VENkJZdTdSSGd2YTU5dk9oTS1MOGlCVkZF?oc=5",
-        "headline": "[월간 DCM] 한산했던 8월 공모채 시장, 금융사가 '싹쓸이'",
-        "summary": "",
-        "source": "numbers.co.kr",
-        "published": "09/02 09:03",
-        "published_ts": 1788307437.0,
-        "tag": null,
-        "first_seen": 1788308125.2159219
       }
     ],
     "perpetual": [
@@ -1006,6 +1006,16 @@
         "first_seen": 1788250527.0463781
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PamZtUmxJMGFnOE1DTTk2SDFobllhZnJ2SHNUbG5iYjA4ZTZOam43dDMxRlBNVjA1TmduOWl5dVNQYkFnRGhzSlU2Y21RdUY0Z3QwRQ?oc=5",
+        "headline": "대구시 민선 9기 첫 추경예산 편성…1090억 원 지방채 추가 발행",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/01 14:57",
+        "published_ts": 1788242225.0,
+        "tag": null,
+        "first_seen": 1788389123.926684
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jTVdrcUhBb1lZWVJvQWxVbEc5bVY2NVlZY3JiRzAwZ0Vpd3dMMXByX2o1dGZSblNXMlRQSVRQbVVBUVNuMWJ2emE2bm15b2JfY0xVQjhLTlM1ZHFsNmsydWM0MjhUNlF2c1FYTklB?oc=5",
         "headline": "日 내년도 예산 요구 143조엔 ‘역대 최대’…10년물 금리 3% 육박",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788155277.0,
         "tag": null,
         "first_seen": 1788183927.646401
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE90aGhDMk1kbjVxOGxDS2stQUJrVkJ5Z1Y0MXRUamtEM0xZVE94ZjJ1YTVLdEdYWmFyRFNSSmxMWkFYWXNtZGhFcDR0cUZIT0tydzJ2U2diV3lQajFqRTVVaTNYMGRWQnN5WW9KLTJLSHRTZw?oc=5",
-        "headline": "잭슨홀發 약세 지속…국고 3년 5.6bp↑ 10년 1.8bp↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "08/31 11:18",
-        "published_ts": 1788142698.0,
-        "tag": null,
-        "first_seen": 1788143430.0319216
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 07:30:59",
+  "updated_at": "2026-09-03 07:45:49",
   "yields": [
     {
       "label": "3년",
