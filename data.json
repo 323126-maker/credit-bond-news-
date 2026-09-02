@@ -82,6 +82,16 @@
         "first_seen": 1788340527.7847352
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9iSTAzdXBlODFIN3NXMVljcUsxRkJMMlZUTE1xU0VoMjhFdHNCTk1rb1ZSUUU5UHl3SW9kZHVfQVB2cWhKLS1ZbG1MUFFuWE1YNng3SW90RkRJQQ?oc=5",
+        "headline": "대구신보, 건설업 특별보증 300억원 공급…업체당 최대 2억원",
+        "summary": "",
+        "source": "경북매일",
+        "published": "09/02 17:44",
+        "published_ts": 1788338640.0,
+        "tag": null,
+        "first_seen": 1788353129.3024037
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbURENm9OZlNoSll3c2tVR1BBeWUtWllwV0VZc3MzUV9iZ1lZRHEwYktCdk1IbWtwbGFkRHZpUmpIWllyS2gyLTV1ek5fb2VZODgxMFVGbkxGRlFXcmN0SDFCWENkdWNxbnpqS1FIbFJ2dw?oc=5",
         "headline": "[亞증시-종합] 글로벌 채권 매도세 속 일제히 하락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788300778.0,
         "tag": null,
         "first_seen": 1788336038.3114877
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE91YlpNY0NvV3VmQlMtYUJmY0FfQ1lPV1VHRDJxOS10UTNHUDRoVC1XcWlPUG02c29DSENFOXRDRG9icGhYcC1FbTVxbGJGYmlIcG5GVGFlVWRocVh0dkdYNjJITkx1c2s?oc=5",
-        "headline": "국제 채권 시장 흔들리나: 유가 상승과 인플레이션 우려에 금리 폭등",
-        "summary": "",
-        "source": "공감신문",
-        "published": "09/02 07:04",
-        "published_ts": 1788300298.0,
-        "tag": null,
-        "first_seen": 1788300923.5625408
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTW5tNUJtNkZIY2JzRnR1M3ZsY2s4M0Rzclh5MUh3MEhadkhTVlFPQmR1SU1wS2xTb1h4ZFRIZFJyWHAtX3FNT21sTlo1cXJnMjJqc1pFNzRqZ3drMU9Sa2dycjYxeUtiVDVmX01kX2JNVFpkeUJZQ2FfbE9pMGZZR2swU1NlWG1EaFhxcXFoaWQzUEkyWEVQWkpGR0NZaHNmSWRadjctSndqN0wzMjk0by1EblJydG9tTk45VXB4ZlRNbF9K?oc=5",
+        "headline": "Yardeni Rejects Bond Panic, Pushes Back On Dimon And Dalio - State Street SPDR S&P 500 ETF Trust (ARCA:SP",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "09/02 21:28",
+        "published_ts": 1788352112.0,
+        "tag": "Strategist",
+        "first_seen": 1788353129.3024037
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQREpEY2t0NG0xNnR4QUgwbGVsUkpxa29vbk1jd21VZjcwVExRMW43RWxYbWR2bDI2eWhMSXpRMWt5RUpKenZZa09JSDVleTZlU2RCQmQxd24wbkI5ejkxd2RDZnp4aGNia2czdHVqVnFua29YUmJ1dmU1YXpRelBSN1JQREFWZW5OYTRJ?oc=5",
         "headline": "Rising Oil Prices and Inflation Fears Rock Stock Market in September 2026",
         "summary": "",
@@ -1760,6 +1770,16 @@
         "first_seen": 1788341430.929294
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wQlI5azFUaEJzaVlZZC1RYWlCbnJWZmFsRnpOLS03blBKNEp6M1NjU3hIRXNsSzR4NmQ3R2xBSldLQ01jT1B5VVhPbGY1N3NiVzRTdDIxNHpHWEdkZU0zUnRB?oc=5",
+        "headline": "Japan 10-Year Bond Yield Hits 3%: Could a Yen Carry Trade Unwind Hit Bitcoin?",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "09/02 18:12",
+        "published_ts": 1788340320.0,
+        "tag": "JGB",
+        "first_seen": 1788353129.3024037
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNOWVCV0gxNVZHX0ZncGc5RjV2SkQyTmk4b1AxSFFSamJZOGVYM0drNmVvLXZMNmx0U2F0QXc3N3VZeDU2QVRLbUUxYzU2Y240dmNybXBwUkRzREJFX3ptM05lMF9sNGJ3aFNZR01tVWgxSk5wZGZRczh3TThvS2ZORVZtSnpQWGVUUHFIVXhCX3pVbThiVVVlT3pjbGNnbWlISTB3SUhNem43WDlHeV9COFNZS05KYVNfVVB2V1lqTFREeGVoWXl5eWFUd3dmUXc?oc=5",
         "headline": "Higher global yields raise stakes for Pakistan's return to international bond market-INP",
         "summary": "",
@@ -1858,6 +1878,16 @@
         "published_ts": 1788336660.0,
         "tag": "Strategist",
         "first_seen": 1788338723.5941725
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbUJQZTh0eWFaOGc3aHAtMTdacEllWlBnQzBSaGdSV2hnbkkwYUo3MDJ4TU5JRDNsb0ZaR2dWdW1YcnRTWnN0OWFreHlobi1OandYTWFhdWQydHJISWh4c19BZlZwZGxTTkNObldVT3ZuY05jejhndzJ1OGJFNHFLdTUtR2JfTkxfMHAtYktn0gGTAUFVX3lxTE5qTGFzT0d1b1BsUXBBclNTV29mZDUyTU9TVmd6VHhCMVFxN3k3MDFMaXZ6dTZfemNEZ2tMalotUzIyYmJhZ1lRbFg5ekk4ZElGSTQ4aE5jMjBGekRIMHNERW1uYkV5c1RwRGEzMFJOd2ROajRCLXg0ZWtTY2NBdGtBMFFDTGk1SFd2WmJBQUpud1FyVQ?oc=5",
+        "headline": "Gold slips as Fed chief Warsh's Jackson Hole speech looms",
+        "summary": "",
+        "source": "Forex Factory",
+        "published": "09/02 16:59",
+        "published_ts": 1788335973.0,
+        "tag": "Fed",
+        "first_seen": 1788353129.3024037
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5Ld0lERVEzclVneUJNNE1zbTZzZ1JRaTZ3akY2cVRDYUNIcExNS2JyUW41VkJLakxFXzNDY29ZejdwZXM4OE0zTEloWWJxeVhIcnc?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788333255.0,
         "tag": "JGB",
         "first_seen": 1788334236.9538023
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSF9jTzFkYVE2QUtJdlF0ZnE0elYyZlBYc21mekV5R2xXUHhzRThXb3NYVWVIZXNLNi1TQmNQMm1aR0c1dGVIZTc3N3YzcVdqblMwTms5RjFmY0dSWUkzNWV2bEZSU2lqTjNGUFkzWWk0QVFkWlZ6cEtWaVpScXIxeXA4X0xHNVRQNXR2OG93?oc=5",
-        "headline": "Chicago Fed's Austan Goolsbee wants to get back to 'old school' economics: Focused on ordinary Americans, mindful of AI hype, and sharp on inflation",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/02 16:00",
-        "published_ts": 1788332400.0,
-        "tag": "Fed",
-        "first_seen": 1788352229.9357796
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04cWNBQ1hSVTBWc1VKT1FBZUZRTTRuTldTRENOTHowZXl2a2ppRXB6TmR4dFBNUXM2eHdudlRWVWVUZmxUVzVuZkRCeVdja2ZmY1EzVmRLbl9MUQ?oc=5",
-        "headline": "흔들리는 일본 재정…\"초저금리 끝날 것\" 관측에 '메가은행' 주목",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/02 15:52",
-        "published_ts": 1788331934.0,
-        "tag": "JGB",
-        "first_seen": 1788333329.852856
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBHVUhDZktZTl9ObmY3UG5WU2F0cDlUMVlXaWlNakdJLTdWRGxOMjBmVm9KQkIxcTA4RHNmbW5mZk8xTVN5Sjk0aV9QRTFKNm54RXBlWUNfUGRrdjJTSm5YX1pNNUxNc00?oc=5",
-        "headline": "US Treasury Yields Face Prolonged Pressure as Debt and Inflation Risks Rise",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "09/02 15:48",
-        "published_ts": 1788331687.0,
-        "tag": "Global",
-        "first_seen": 1788332439.2728174
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 21:30:55",
+  "updated_at": "2026-09-02 21:45:58",
   "yields": [
     {
       "label": "3년",
