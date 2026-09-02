@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzdFY3QnFuc1U3Zk1iNmxULW9waU5hUkpqUEN5Q3V0S1M2by1JRV9ySGVYekpkMEJmZTJXd1lMbTVQVDNBUHpHUUo0V1d4Y2ZqVGdxdXYtbjY2Zw?oc=5",
+        "headline": "글로벌국채 최대 큰 손 일본,해외국채 매도…글로벌 채권시장 긴장",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/02 19:39",
+        "published_ts": 1788345544.0,
+        "tag": null,
+        "first_seen": 1788346309.1293354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcEduYXV4YmUxbkl3VDFGdGwwd3pzZDBBRTVyeGxwcHJvZHRzNVFCSjhzUzNSR3gzWHdPa3ZlTEFXdTg5VVhUVTAwVkxLMlRBdWdXWGs5WXZPUzdmMXptSm05THNpa0dBUmpXZ2JIdzRXZFJQVnczSUxmbDZtYm53dA?oc=5",
         "headline": "유가·인플레·재정적자 복합 충격이 투매 부추겨…韓도 안전지대 아니다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788299407.0,
         "tag": null,
         "first_seen": 1788313522.9837847
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXUW0zeHA3ek9aSmwwbDI3cUJZRGYxaE1aTFdkMjdhVzBEZnN1MEhhbmNfY1QyVWZLRUtxMmFoYkVtNHgtVDVKWWlvdnczQ1NTaS1j?oc=5",
-        "headline": "뉴욕증시, 중동긴장·채권 매도세에 하락 마감···나스닥 1%↓[상보]",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/02 06:43",
-        "published_ts": 1788298980.0,
-        "tag": null,
-        "first_seen": 1788342324.315516
       }
     ],
     "perpetual": [
@@ -1528,6 +1528,16 @@
         "first_seen": 1788234326.4400225
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB6RXFzTUhUZkUxZUJkQmJ5aUZZTERlM0RWNVlIV1R2VzFZaU9fbHpWRWExQWtrS25yZGZ0XzA4Z0NhVlEza2hxZ0g4UTlTWEJJREd2MUJ1OWEzbTDSAWBBVV95cUxQS0JqM194WTVJREZOc3F1T0wxYlFzUFI0MVl2Nllpb2lPSEl0elBNb1RHZUFlUnEwbmxaU1BaMWR1S2ZWekpONzdvbmxEbUQwWWxDeGpWa3NDU1E0Q0d6dVA?oc=5",
+        "headline": "李대통령 \"예산안 정치권 대승적 협력 기대…여야 차이 넘어야\"(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/01 11:17",
+        "published_ts": 1788229071.0,
+        "tag": null,
+        "first_seen": 1788346309.1293354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA2TW1SZVhmOTdHNkxwd2k3dlNFMk5HTkJqcDF1dDRDYlk1OVg5RzVzY01DMW1hM01MWHZLci11VnpFQ3ZDejhvbENmWnNhQk1XdUcxWUpEOU1XSGs4QnVHYUNTcFlXWndtRG04?oc=5",
         "headline": "이재명 대통령 “내년 예산, 국민에게 더 나은 내일의 희망 만들어야”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788227105.0,
         "tag": null,
         "first_seen": 1788228037.3696117
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1rU0s2MDE5dVlmREpmQTRaNHdQZWdfcVY3RXBTVzZhQ3hUWVY0MUFPdTNNemlkZFRIUDRkR3Jzc2s2NDY3aWhFTk51WQ?oc=5",
-        "headline": "국무회의 발언하는 이재명 대통령",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/01 10:40",
-        "published_ts": 1788226806.0,
-        "tag": null,
-        "first_seen": 1788332439.2728174
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 19:45:50",
+  "updated_at": "2026-09-02 19:52:13",
   "yields": [
     {
       "label": "3년",
