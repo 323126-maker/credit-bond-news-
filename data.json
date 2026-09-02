@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1UMWNRZkdKTndoOEtTSXdaU29kS2prQVN2UTNRQWlxZkM5WXJrdU04MC1vNW5neDVPNnBaVExzWHl4V1JsemZEQ1dOeUpGUTFmM21uNA?oc=5",
+        "headline": "한투운용, 글로벌 회사채 분산투자 펀드 출시",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/03 08:36",
+        "published_ts": 1788392160.0,
+        "tag": null,
+        "first_seen": 1788392723.1383724
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wazd4bTZKak9nSF9GXzRmVW56cURGYXRTNXdRblB5WWRRdk9Wd0ZDZ1oydXg2RUctbW9nQTVzcDJmVC1QN0ZFRFNJQXkxZGxJSTkyZzlValNRQmpXOXlvSnhxTVJzeHRhTTFyTG90VVHSAXRBVV95cUxNT2k4cVJuQ3VjcUp2ZFlQaUpMUFkxZkt6SDhwUlhKM0hreDliZkxkWnFmZjh3X0d1enA1cGZXSkdDenNSWDRLdEpuRl9GVG9WNmVXM0duUVlqNnA2WXVHYnF1Ui1WZ3pwa2J0ZEd1V2tSOU1Jcg?oc=5",
         "headline": "[뉴욕증시-1보] 채권금리 조정에 한숨 돌렸다…상승 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788307560.0,
         "tag": null,
         "first_seen": 1788322526.5347502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9XMndRaFFtbjlJZE05M3JiNU55RGhNYjVjdWxZSk4zV0ZNWlJtaXF2Y0RtOF8tR0FjQmFvVUoxM21HbUNCeTRicENSaXRLdTBQZWxBVWNuQlZNZw?oc=5",
-        "headline": "전세계 국채시장 매도 폭풍…美 10년물 4.8%·日 30년 만 최고",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/02 09:04",
-        "published_ts": 1788307462.0,
-        "tag": null,
-        "first_seen": 1788312628.8494387
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 08:31:00",
+  "updated_at": "2026-09-03 08:45:48",
   "yields": [
     {
       "label": "3년",
