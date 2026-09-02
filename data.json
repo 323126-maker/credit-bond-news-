@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMjJZb2NSMlg5ODFRQ2dLdlUxWTYzREx4NE4zZHB6Vi00YkdUV1pxRGFMWlpSY3dWTVREbnhQUUwtZm5fOG1kUkRVODRqZmNENFQ0c2p4RDVTR1RGcEsxLTZqM21iaG_SAWxBVV95cUxQSHNCSDFaWDYwbnFPUVNWQmdVcDhsajVLcXd2NnZ2UHZRUFktSzBFRV9RLUw0Yzh4RW5hTVdrM3V3UUdqSW9CUnk4ZEZvckJjN3VVZm1UY3VqcF9FWU1FMzZPeU8tazhKaFdvR2Q?oc=5",
+        "headline": "[Q&A] 美·日·유럽 국채금리 수십년래 최고…세계 채권시장 무슨 일?",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "09/02 10:44",
+        "published_ts": 1788313479.0,
+        "tag": null,
+        "first_seen": 1788314439.0218937
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VmYxZ2pfczFBT3BUUTg2S2ViSzlzbHFHS25VOVY1LUpRYm9aMC1QVnczcUJXajkyU1VKTUdmS3FaWTNjUGJDdGN0ZWdtQl9McENYT2tncm83dw?oc=5",
         "headline": "글로벌 국채금리 쇼크, 반도체주 압박…9월 조정 시작되나[박신영의 개장전 요것만]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788252180.0,
         "tag": null,
         "first_seen": 1788265833.449909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpTHJJbHFlUzdHYk5XTmR3clNnNHd5azRpcDYyNFN5LWVNZXQ0Ml8zb2U0X2xJMS13Smc3YU1zZm04eVFhbG1zekFsd0swLVJuQy1RRU0teTBpdy15SlNrSA?oc=5",
-        "headline": "[채권마감] 30년물 10bp 급등 '3개월만 최대폭'…입찰 부담+내년 발행물량 충격",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/01 17:28",
-        "published_ts": 1788251280.0,
-        "tag": null,
-        "first_seen": 1788252324.0524728
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56VmYxZ2pfczFBT3BUUTg2S2ViSzlzbHFHS25VOVY1LUpRYm9aMC1QVnczcUJXajkyU1VKTUdmS3FaWTNjUGJDdGN0ZWdtQl9McENYT2tncm83dw?oc=5",
+        "headline": "글로벌 국채금리 쇼크, 반도체주 압박…9월 조정 시작되나[박신영의 개장전 요것만]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/02 10:23",
+        "published_ts": 1788312230.0,
+        "tag": "JGB",
+        "first_seen": 1788314439.0218937
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9DazRvWDhqT2d1YzVsdDViUnpRRGdLeTlsOWNqellCaVRHMG5qeW1JeXRuaGxwOXRGamtTdzctUk14U2RUTk1HOTRGOHRwU3NULXVVRW5xOEdNdE44Y3BISDBKRExNVEXSAWxBVV95cUxPSzNtdWhlSU4ta0dTeUhWMGZtUkVyQWFkTmtRYkpINkdMUDA3SEtobkMxc3hjckxQZWRiaUx4RW83LXFYcEIxcTEwVU9DSGlDNnA4UldpUGhnZHdzWlBDLUpVRlJlb0Nwa1lJQnY?oc=5",
         "headline": "우에다 \"물가 상방 위험 염두에 두고 결정\"…BOJ 9월 인상 확률 99%",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1788311388.0,
         "tag": "JGB",
         "first_seen": 1788312628.8494387
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HMmZ2VmxxVWpDc2U3VTdYenZMVEpPc1pSajJEdDZFLVNxZUhQVjNyd192UjFvSXFkQUZqYy1zemNtZFlKVl96ZGZQbTF1RnZTUFJWQmVCV2RZUGFVSU1SWER1bFBFcVRMT3FHd1lCTHlHaWJqRUNr?oc=5",
+        "headline": "[매크로리포트] 글로벌 장기금리 급등…세계 최대 헤지펀드 창업자 “부채 악순환” 경고",
+        "summary": "",
+        "source": "이코노미트리뷴",
+        "published": "09/02 10:09",
+        "published_ts": 1788311362.0,
+        "tag": "Strategist",
+        "first_seen": 1788314439.0218937
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TendjU2lwWGJ0UndwNk5aWUZHTXVQZkwybW9WMnFrMFRzZ0I2U1NBSHJmTW1KblFWbnNBVkNxU2ZnM0xOYVZqajJRV2NYTm55WVdvQ0JiNURFVUtV?oc=5",
@@ -1668,6 +1688,16 @@
         "published_ts": 1788307024.0,
         "tag": "JGB",
         "first_seen": 1788308125.2159219
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX0J4WEc0TGpCTmZaSzRCMS15LVk4RUtTc2Q1OUdJTk85QWdpblJzWU82dlg2NlZnYUVIdkRsZ0pJVzgtZWVzN1VyODR4UVpyY2ZLREdkbDlEWVJ5QVJOeHZtbTFCbnl6Wm40TVNRa09NLWd5bFJ5ZTQ4eV9aLUZ2T1dOaDZNT2gxb1AyNkt3?oc=5",
+        "headline": "Global Bond Yields Surge to Multi-Year Highs as U.S. 30-Year Treasury Nears 2007 Peak",
+        "summary": "",
+        "source": "조선일보",
+        "published": "09/02 08:56",
+        "published_ts": 1788307013.0,
+        "tag": "Global",
+        "first_seen": 1788314439.0218937
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWFhtMWFvemdsMlVmcnRRdlJ3eXlWVkswQ3ZoSUpSSEtPai1MWUxFSGtWakh4dWxBQ1RCUzd5V1h2bXBPYVhtMF9kZlpqenRycmFwZmV0UDhaUVl4VjNOQ1FfdTN2OGkta3Y4b2wxOXg3THd4bVdjMTNnQzBuYTBXNw?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788294899.0,
         "tag": "Global",
         "first_seen": 1788312628.8494387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBZTkNwdU9tZENtUm1zNkEyazVpa1RZekFRSUZsNXIzLVlscXhUNENnY0liZnBIUXljdTBiMUxsaG8zMkZhaGVibF85eUd3bGVPSUE5SGdzUXFIUjBJLUJpVjJIdVJXbFU?oc=5",
-        "headline": "Strategist explains why Warsh is likely a 'consequential' Fed chair",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/02 05:32",
-        "published_ts": 1788294761.0,
-        "tag": "Fed",
-        "first_seen": 1788302725.8019612
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9xVU9aVnZxaEZhd1hydzd5TnBjLUhsZmxOc2lRNXhtaUx1ZER3a2RMVktiaExiQjltNWJFaEN0cmJOaGRPMEZ4QmhyOTVEQXB2LVVCeUtCbktTdDRIbFFLaXYwTy1SMmEz0gFuQVVfeXFMT2pseWpxSUNGR2JnWnFEN21CX2t0VUNoNWFOUGFPU2g4eWJIeTd0V1dWVGtpU0xjMlprUXJnRWU0cDV1cmtBbWd4bEhka3dtc3dNVk9abFR2VzlmbmdCSjBFeG9HaDRTaktTNjg0NlE?oc=5",
-        "headline": "글로벌 금리 동시다발 최고치… 빚더미 짓눌린 정부·기업·가계",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "09/02 05:29",
-        "published_ts": 1788294555.0,
-        "tag": "JGB",
-        "first_seen": 1788297967.9088547
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9GZlF0TVVUdVRWVDFlU1d3N29jRktkWFludDB3ZS1NM0ZuTVpFVl9laWg0blBLcjBaOXh0Rk5IdWsxckQ5Q295OVJYZWlhNHVkUG54WXFxNGkyMDJsOUZPUWVhMG9ZbXA5SnhHQmZKWWhNZmc?oc=5",
-        "headline": "Bond Sell-Off Threatens to Squeeze Borrowers Around the World",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/02 05:24",
-        "published_ts": 1788294249.0,
-        "tag": "JGB",
-        "first_seen": 1788301835.284024
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 10:45:48",
+  "updated_at": "2026-09-02 11:01:05",
   "yields": [
     {
       "label": "3년",
