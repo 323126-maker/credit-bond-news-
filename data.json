@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUURQelFWb0taUjR4azUwcXBGdGF1bDZzREh0WEdHSDdGZElRMGgyQWxOZGFBNGVXbWc2MVU3TWE0N0s5elFIeENBY0tMZ3lJOG1pN0xQT3piS09ONDJHbWd5WkR3X1E5YXlSNDUwaVZRR0EyNml4Wl85Q1pJVVVpd2VB?oc=5",
+        "headline": "Morning Bid: Who will police the bond vigilantes?",
+        "summary": "",
+        "source": "The Mighty 790 KFGO",
+        "published": "09/02 13:54",
+        "published_ts": 1788324892.0,
+        "tag": "JGB",
+        "first_seen": 1788325240.4411755
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA0T3cxbHNPQ09CSUd4WXhqYkMzYzlwa1RlcDUxa1NOaHZ1MkEya2NlVjlkQi1VOFdwRXF6aTlHNWVvem1XOUVaZVNwOFdzYjRNdTN3YjRsWHRNdmQ0SFE?oc=5",
+        "headline": "\"9월 금리인상 확률 94%\"...일본 추가 긴축 '초읽기'",
+        "summary": "",
+        "source": "YTN",
+        "published": "09/02 13:46",
+        "published_ts": 1788324360.0,
+        "tag": "JGB",
+        "first_seen": 1788325240.4411755
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVjQ1ODd6T1RwZVpjY3BGVVdSQTBTMlR5eXhxRGFuYWNiOEtJdlVXWEZ4VEdoWWhiaWxIZ3NaMklXRkRHeHpHbkstZjFrbFgwWERndUdEYlF1SmhDRDd0M1RWSlJ3Ml9iZG0zNVhOSVU5YU1MZzYweE9hYUdIY2hCRDNnSldxQWFXWFVfcDk0cG9GUQ?oc=5",
         "headline": "Bond selloff deepens as inflation, oil prices jolt markets",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788302700.0,
         "tag": "JGB",
         "first_seen": 1788304528.9513097
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Pa3FjdV9IVlpjLVFyOTB4UzlwenE1a1RsN183Wmh4d0E1V3RuT1BwVEJmUFFkV0IyZGNEcU1iYVFTSDlnVE50aDVScFNqVjNfd3JYQmZ3RGl2QmdvaE5WS3FsRQ?oc=5",
-        "headline": "국채금리 연쇄급등에 각국 빚부담 가중…가계·기업까지 파장",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "09/02 07:41",
-        "published_ts": 1788302480.0,
-        "tag": "JGB",
-        "first_seen": 1788306326.1373074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KcUpveWRzV3gtd3h4R0F5MzZRZGRDbjdGTUFIaXhJTFllMTJrTWJOTHhrMmVacHFaVm5wZ09GZW4xN1pVRkxlZVhTZXMyU01UcVFjdjZPdVNETjg?oc=5",
-        "headline": "일본 국채 금리 30년 만에 최고치…재정 악화 우려 등 영향",
-        "summary": "",
-        "source": "KBS 뉴스",
-        "published": "09/02 07:37",
-        "published_ts": 1788302220.0,
-        "tag": "JGB",
-        "first_seen": 1788307243.428758
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 13:45:47",
+  "updated_at": "2026-09-02 14:01:06",
   "yields": [
     {
       "label": "3년",
