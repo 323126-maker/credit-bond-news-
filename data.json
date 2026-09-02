@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZE5LeXplQ0plOXhCNHRuWERRbXZfTEZiMHg3V1U0aThmd3JHOGZJTTB6TDl2UXNJNEhUa2UzRWFLNjE2S0Fld0V4WUZhMnVlX183cUgtX0QzUjZwNG0ySQ?oc=5",
+        "headline": "회사채 발행 뚝 끊은 기업들…뛰는 미 국채 금리에 ‘채권 대학살’ 위기",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "09/02 13:12",
+        "published_ts": 1788322341.0,
+        "tag": null,
+        "first_seen": 1788324323.7861571
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iMjJZb2NSMlg5ODFRQ2dLdlUxWTYzREx4NE4zZHB6Vi00YkdUV1pxRGFMWlpSY3dWTVREbnhQUUwtZm5fOG1kUkRVODRqZmNENFQ0c2p4RDVTR1RGcEsxLTZqM21iaG_SAWxBVV95cUxQSHNCSDFaWDYwbnFPUVNWQmdVcDhsajVLcXd2NnZ2UHZRUFktSzBFRV9RLUw0Yzh4RW5hTVdrM3V3UUdqSW9CUnk4ZEZvckJjN3VVZm1UY3VqcF9FWU1FMzZPeU8tazhKaFdvR2Q?oc=5",
         "headline": "[Q&A] 美·日·유럽 국채금리 수십년래 최고…세계 채권시장 무슨 일?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788254719.0,
         "tag": null,
         "first_seen": 1788280234.851433
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9JcWpMVU0tM3J0ZUNSdnE3ajZTWURaQm1mZU94eXFWSFgzQ1V2QjMzX296RUdiWFJZYThjZjBPem96Vm9DYTlOSmVVRFd1TkExSl92OV9fRkhpSTFZLUdHV3NyWUZhdVQwVEhtc0pR?oc=5",
-        "headline": "미·이란 긴장감 '재고조' 악재 겹쳐 국고채 금리 상승",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "09/01 18:08",
-        "published_ts": 1788253714.0,
-        "tag": null,
-        "first_seen": 1788255032.5882099
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-02 13:30:53",
+  "updated_at": "2026-09-02 13:45:47",
   "yields": [
     {
       "label": "3년",
