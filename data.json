@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE4zcS1PSThLUldkNlVFM0pZa2kwdl8xYjhUTWhwMExUMFNuUXJXamxKMlVzSFFoVlg4b1FQbEVLMkdjRThmSFNsbTl4RW1fS0xVSVMw?oc=5",
+        "headline": "한투운용, 글로벌 회사채 재간접 펀드 출시…내일부터 사전 모집",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/03 10:49",
+        "published_ts": 1788400140.0,
+        "tag": null,
+        "first_seen": 1788401724.220428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Yc1lEUXdBeEt2dlR2SWtHZDcxeDRRTUl2TlZzN0lnOTZrbDZhdVZGOVhDR0FSekh2aVZ3c1ZJdmZqal9wd3JUVW5wcEdyeTFpS1c2U2lXMndvSkpoMFE?oc=5",
         "headline": "\"금리 상승폭 감안 시 크레딧 스프레드 확대 적정\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788323220.0,
         "tag": null,
         "first_seen": 1788351325.5151145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvZE5LeXplQ0plOXhCNHRuWERRbXZfTEZiMHg3V1U0aThmd3JHOGZJTTB6TDl2UXNJNEhUa2UzRWFLNjE2S0Fld0V4WUZhMnVlX183cUgtX0QzUjZwNG0ySQ?oc=5",
-        "headline": "회사채 발행 뚝 끊은 기업들…뛰는 미 국채 금리에 ‘채권 대학살’ 위기",
-        "summary": "",
-        "source": "메트로신문",
-        "published": "09/02 13:12",
-        "published_ts": 1788322341.0,
-        "tag": null,
-        "first_seen": 1788324323.7861571
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 11:01:06",
+  "updated_at": "2026-09-03 11:15:50",
   "yields": [
     {
       "label": "3년",
