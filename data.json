@@ -362,6 +362,16 @@
         "first_seen": 1788344129.0296552
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCTkZyN2RzNmgwY3VNTmNxNGo4cVQ2WVdhb0thWTJDUHZqczQ1OTVhVzRDQ1lHZFZqd1lFTnBxQ1BrUFNmRGdRenhiZmtFdXVJd0F0dkh1MmdiOThLbjZQd0h2b2t5MnU3MGU2TEdLcFY?oc=5",
+        "headline": "[채권-마감] 금리 상승…글로벌 약세·외국인 3년 선물 5일째 매도",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/02 18:44",
+        "published_ts": 1788342240.0,
+        "tag": null,
+        "first_seen": 1788429636.3653362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tWUU2c2ppdVZkdldEV0FGd1cxWHJrdmR4SXg0Q3oxbWd4TnF0Vk5FZ1JDZlpiLUJVcmluV05vc2g4cnptX2xYSEMwYmticTFvN3BReXlBTDNXWWFiNkQ0UEZvODJJczFROG1lWVVaTFI?oc=5",
         "headline": "[외환-마감] 네고·엔화 강세로 하락…1,360원대 재진입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788339130.0,
         "tag": null,
         "first_seen": 1788365725.9833498
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1xVUlQVWhKM29jZjlVSEhPcHJtOEpwLU5KX21QQmdVTUFIa0pKUnVGOHZPXzAyajRBRktUVXg4U08yeHN5bWlGWFRMSkREWnllYWdoRUM1S0tLM3BDVy0tZzhJaGpSYnZsZDNydDN3?oc=5",
-        "headline": "영업익 늘었지만 신용전망 ‘하락’… 투자부담 커지는 에코프로",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "09/02 17:50",
-        "published_ts": 1788339013.0,
-        "tag": null,
-        "first_seen": 1788340527.7847352
       }
     ],
     "perpetual": [
@@ -1710,6 +1710,16 @@
         "first_seen": 1788422436.4902625
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWExdzZ4MDZZZUEyMkk4Q0N3amN3UjJuR3luYkVOSUhDQ19kLVVrbFZiZnlKNkU1d2QzT053WHdYMkZRUDdPVnNFUUFPZEhCVjVfN1djNDNCMV9hdG5NWVdnM0hPNzAwRXdXdDV1QVVNVXViZVQzSlppSlhra05XdTFCZnRWTG1mYUVteWV5NVhZenZOWHc?oc=5",
+        "headline": "Shares and Bonds Rally as Markets Await Fed Policy Signals; Yen Jumps",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "09/03 16:30",
+        "published_ts": 1788420616.0,
+        "tag": "Fed",
+        "first_seen": 1788429636.3653362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB4MGxGREg0VThhclF3UHpUbDhNbl9sRmJWVTdLQUpSZUlFdUpYeUlXNzBLdDlEUzBJdHAtNzRGdURQWFN1eHZZbnZoRlIyWE04bDBr?oc=5",
         "headline": "\"30년만의 최고 日 국채금리…해외나간 자금 본국 유인\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788404040.0,
         "tag": "JGB",
         "first_seen": 1788408926.1736848
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kTl81SGtIUXUtRS1obEU4M0dZNk9ldGo3VDZQMDlNNkpPZ3diRzlrTGRrbzF5VEwyc3VoNFM2WkZKMU5HNlJwVnE0WFB3R2ZOdXQ4R1RoTlhrY3JYS3ZVNGRIOU5zMWx5YTNqcWRR?oc=5",
-        "headline": "美베센트, 다카이치 경제정책 공개경고…“아베노믹스식 부양 끝내 ”",
-        "summary": "",
-        "source": "asiatoday.co.kr",
-        "published": "09/03 11:37",
-        "published_ts": 1788403029.0,
-        "tag": "JGB",
-        "first_seen": 1788410729.358966
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 18:45:49",
+  "updated_at": "2026-09-03 19:01:00",
   "yields": [
     {
       "label": "3년",
