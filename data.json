@@ -1620,6 +1620,16 @@
         "first_seen": 1788419725.7670734
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcmdXaENFQXQzSlhEQUlCYU05cHhJUXZPZGRnbHVVLWdpWV82WEZ3NklEZy0yUWFUUG1xbUpDVGlHU0ZVQkhwcGFUVzQwRUNfb0NkS2kzcTZ0Xy1OQ0dCWWVSM1N2MGxjanVXbko0UXNHNlJBSnR2MTRaQXBnX3pHWVNUR0VXdk5JZlQyNS1wTDVUX255NUMtdVZNUVYtSFc4VnpwUWpDNDNNd19hbVNRRzJCWQ?oc=5",
+        "headline": "Warsh Lays Out His Economic Guideposts",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/03 16:03",
+        "published_ts": 1788419030.0,
+        "tag": "Fed",
+        "first_seen": 1788421523.6704583
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qV0tqNDdyMlExZlVnZnpDSlRsRFJGOF96NUZlWFRrQVRkX25OU2pVRVpiSWNFb25acjZrT29aQUpoYlR1Si12Q2NGYy02b1VGOEVqQ2E5SnlETEY5U0FHMw?oc=5",
         "headline": "일본 국채금리 30년 만에 3% 돌파…'엔 캐리 트레이드' 청산 우려",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788395100.0,
         "tag": "JGB",
         "first_seen": 1788399922.413678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcnpSend1N3c1bGtoaW03RV9Ba0tUSEd3b0Vfa3RPaWZGS0V6bFB2c1hpUTAwTHJvWHJid3FPQlItS3hmVG9yMDlOcHZSU1NFTm9BVmZBRlNzbTFZ?oc=5",
-        "headline": "日 장기금리 3% 시대...일본 주식은 어디까지 버틸까",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/03 09:05",
-        "published_ts": 1788393900.0,
-        "tag": "JGB",
-        "first_seen": 1788395437.932061
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 16:30:53",
+  "updated_at": "2026-09-03 16:45:54",
   "yields": [
     {
       "label": "3년",
-      "value": 3.93,
-      "chg_bp": 5.2,
+      "value": 3.888,
+      "chg_bp": -4.2,
       "series": [
-        3.669,
         3.742,
         3.746,
         3.778,
@@ -2439,15 +2438,15 @@
         3.788,
         3.838,
         3.878,
-        3.93
+        3.93,
+        3.888
       ]
     },
     {
       "label": "5년",
-      "value": 4.167,
-      "chg_bp": 6.1,
+      "value": 4.118,
+      "chg_bp": -4.9,
       "series": [
-        3.916,
         3.957,
         3.964,
         3.994,
@@ -2466,15 +2465,15 @@
         4.021,
         4.053,
         4.106,
-        4.167
+        4.167,
+        4.118
       ]
     },
     {
       "label": "10년",
-      "value": 4.418,
-      "chg_bp": 4.7,
+      "value": 4.367,
+      "chg_bp": -5.1,
       "series": [
-        4.15,
         4.195,
         4.208,
         4.239,
@@ -2493,15 +2492,15 @@
         4.284,
         4.313,
         4.371,
-        4.418
+        4.418,
+        4.367
       ]
     },
     {
       "label": "20년",
-      "value": 4.614,
-      "chg_bp": 5.5,
+      "value": 4.593,
+      "chg_bp": -2.1,
       "series": [
-        4.471,
         4.483,
         4.494,
         4.555,
@@ -2520,15 +2519,15 @@
         4.491,
         4.49,
         4.559,
-        4.614
+        4.614,
+        4.593
       ]
     },
     {
       "label": "30년",
-      "value": 4.657,
-      "chg_bp": 3.0,
+      "value": 4.635,
+      "chg_bp": -2.2,
       "series": [
-        4.511,
         4.516,
         4.522,
         4.585,
@@ -2547,7 +2546,8 @@
         4.524,
         4.527,
         4.627,
-        4.657
+        4.657,
+        4.635
       ]
     }
   ]
