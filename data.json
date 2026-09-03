@@ -816,6 +816,16 @@
         "first_seen": 1788424233.8579586
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XeGtJZ1VTWFFhaXhucXZfN1h5TDRiWW5GaGdlVVR1dFdFM1UxbGFweVZPSlZDTjBZd0FFQkdqdjBLV0MwU2hQTF82dE5HUGtyOU1fRHZfdWVfNC1la0lzSg?oc=5",
+        "headline": "국고채 금리 하락…외국인 국채선물 순매수 전환 영향(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/03 16:53",
+        "published_ts": 1788421986.0,
+        "tag": null,
+        "first_seen": 1788435923.6954563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ZXp0VVJqQVdQSG05MWZUeXY1ZFNWTlkxZS00aU5pRDFmZzNfSVJBUWFFU2NZaVhZRDc5ejFFaWFnUzY4ZXZmZW9rTGlRZTNNR0NnanJiV3NnbkZaZlNWcEF3aFRMWV9qbFROTg?oc=5",
         "headline": "5년 고정 끝났다…영끌족 ‘고금리 청구서’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788208440.0,
         "tag": null,
         "first_seen": 1788209125.9517899
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB0Q3JjUThiQW1BMXdPNDBuNTI1YUxhejBZMklzM19rR3hpQUVBd19Ndi1abFhfQVlnR00wZUFFM2MxMGctTEtBTGRhMHcwUUlxeVZOemM1SmFZeVhHRXVkekE2MnZ1dFd5dTlQaWR3?oc=5",
-        "headline": "9월 맞은 채권시장 만기별 차별화 무게 둘 예정",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "08/31 20:43",
-        "published_ts": 1788176633.0,
-        "tag": null,
-        "first_seen": 1788177635.669523
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52U0Q5Q0duRzh5Z0ZNNmlyNHhLWlNxczlzS1N4YTNCaDM2dXMzQjdKSWVGc1VXYXhSXzRnTE5mcDMwa21QekM2T0tVeG1lNW1ZX0o3b0JQVUxfRjc5cEFyLUZib19qU0dBM0VBbjREQmk3ZnR0Y3c?oc=5",
+        "headline": "Taishin 00962 Dividend Jumps for Fourth Straight Time to NT$0.25, Annualized Yield of 19.23% Both Hit Record Highs",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/03 20:35",
+        "published_ts": 1788435300.0,
+        "tag": "Global",
+        "first_seen": 1788435923.6954563
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObHlDS0F6WHhuTGlxY0kyLTdpbjN1cWNsajJhd1QxNW9XWTQtOUlNZWVYSHJRWTIzaDN3ZGZyYy03MTJHSllobXRzc3hoZ20wdmR2ZG5STjR2ZFhVNXl1dllEZTBHUngwUGoxdjFRbXd2YlFNdTlad2trN3VhMHJRQUZkR08zbUE4SmVJdzg3clpvd0xldnE4bktmSVp1WmVmck9wZ2FRQUFLRllDZnQ4YVRB?oc=5",
+        "headline": "FX has stopped reading bond yields the old way. Bitcoin should too: Crypto Daily",
+        "summary": "",
+        "source": "CoinDesk",
+        "published": "09/03 20:26",
+        "published_ts": 1788434760.0,
+        "tag": "JGB",
+        "first_seen": 1788435923.6954563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQM1NWZzgwRUVaLWNsZXAwQ1o0VE83YW1yQms4b0lBV0hwTVlzc1c3eThYeXpCR0h6bEM4aG5UUDBHbVlZWHpVUXpOWFJPYVJBYm01TWFaUHk5RVJrMXB5ZzA2Ukd4aTF0YkVmUllwcC1UWW81cmN1YVpDRGNLZGJkUVlkbUxCbmJyY3JyU1NFWDZVZUU?oc=5",
         "headline": "‘Past the point of no return’: Ray Dalio has a warning for Americans holding this asset — are you ready?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788412911.0,
         "tag": "JGB",
         "first_seen": 1788414324.309367
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa29QOVRLVi1PZTBqeE4ySERVRHFqOV9pX2I1amtJVUdWcVJadFpKQURteHhMWmxvXzNzcHpHTzBHX3Ryci01ZnNqNTVRbWktcHJMUHYtTGVjMG4wdWRlMldUUm5zQkxGNkNzN3VaWWJVVm11enQ3SE03V3liRXFDaDlCLVo1bWpJSDk4RmVGNExDUDl2aEZsNkpkamREcEd0Q2F1YmhVUkFpelRSbHBQQw?oc=5",
-        "headline": "Senegal Starts Countdown to First African Default Since 2023",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/03 14:00",
-        "published_ts": 1788411600.0,
-        "tag": "Global",
-        "first_seen": 1788423328.0221581
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMWlJaG85aVVwdzJFQXpYOUgta1lZOVdPdDZqVURERWZ1WTVXQWhld3NJcmZTLVVSX0NqdDVHS3FIYTJFcFpnemEzTnI1X3VKS3c4Z09feWpJSnhUbUdtenZ2dGNITU9BNEN6bS1XQnNCOTY0QVE3bG9xZTBlTTZHeEVJUXVLcG9EZEtOZXFzS3U3Mnc?oc=5",
-        "headline": "#us10yeartreasuryyieldhitshighestsincenov2023 Community Insights & Market Sentiment | Binance Square",
-        "summary": "",
-        "source": "Binance",
-        "published": "09/03 13:53",
-        "published_ts": 1788411198.0,
-        "tag": "Fed",
-        "first_seen": 1788413430.4031441
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 20:30:55",
+  "updated_at": "2026-09-03 20:45:49",
   "yields": [
     {
       "label": "3년",
