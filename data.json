@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9sa2N4ZjBJRk51M3Nza3VzLXp1VUFLajYxemFHZGRHS3BRcXZkdUhtYklVQ1N3Mkl4ZGsxN0lQRVJ2SndDRW5hSTNjQWpwanM4NFZZ?oc=5",
+        "headline": "용혜인, 재산 4.7억 신고…남편 기본소득당 급여 5년간 1.2억",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/03 23:38",
+        "published_ts": 1788446280.0,
+        "tag": null,
+        "first_seen": 1788449435.1756666
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQT0JWRzl3OUpKeVhINGFFWnNFcGFWUks1U0VER3djQVdyWVFfakFVYzBUS3BJVG1CU1BnX0c1YU84WHR2VjV5cjEtOXpVT1pSZ3FjdEl0MFVyRjAydFd3YjFIT2NsTnMyM2czeDZTMmlzWExPUU81S3ZTT0MtSzJ5bA?oc=5",
         "headline": "용혜인 성평등가족부 장관 후보자, 재산 4억7528만원 신고",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788158940.0,
         "tag": null,
         "first_seen": 1788160525.5065444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13MWZuX28weXVTSDlYaU5Da1dlaVp6a085NS1uM2ZDLUJQU0tBX3dVWGtTdC16WGVXczV5dDFWaEhLeEVfdjZ1dE5naDdJZHUwLUhCdDN4YnR4UUNlejR4S25uVDVvaVQ5S0E?oc=5",
-        "headline": "\"롯데, 구조조정으로 수익성 개선…재무부담 해소는 아직\"",
-        "summary": "",
-        "source": "중기이코노미",
-        "published": "08/31 13:02",
-        "published_ts": 1788148951.0,
-        "tag": null,
-        "first_seen": 1788163239.1982868
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 00:15:45",
+  "updated_at": "2026-09-04 00:30:54",
   "yields": [
     {
       "label": "3년",
