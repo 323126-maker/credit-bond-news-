@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXZndnBEOUlZWWJzRWRZdmZIbEJmekxlX1JYNnN1SVE3d2dWYU9ta0pFbmhwU1dsR1RGdkxzdkY0eDlTZEIySWF5d19ZZjE0Zm1RNDMzNGpqUjdwR2ktV2NvY2lYX0tYN2VuZjUta1hZZnh3MTUyc0J0UTBpVm04T0ZheHpaRFVvaWZxRWxjQlk2SzdfVzJzVzJ5MDlsTjdVZGFaMENCM3pRV3RYYlBkamNfQ2ltamdxazRiM1E2N1h0c2M3QWNudg?oc=5",
+        "headline": "The Fed’s Waller Says He’d Hold Rates Steady — But His “If” Is Doing a Lot of Heavy Lifting",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/04 00:18",
+        "published_ts": 1788448680.0,
+        "tag": "Fed",
+        "first_seen": 1788452124.371989
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWUVDNmpLNWxxVmJCSFdUNnRtZkdHeWtzbkJQSFN5SEtFckVpdk40QnVPZE1GOU5HMlBxNjF2bzNfcUY2YnVpS2F3Ykt0Nk1zQmRSaUxBajEwUkdBX0dFeFlOcE5BVktoZ0ItOWp4Nm13ZjhwcExwVWpOMzEwaHRXTDVEdXh5TzhjMm9Zck5DWXBRdFVpdGk0d2lDWFZkdmtya3lwLXQ3clVveTFJUDhTN1Z0WkI0X2k0Zk8ya0VqbGwxcjV2OXBzRnVlRXByTlh1TWNqYg?oc=5",
         "headline": "Stock Market Today: Treasury Yields Retreat, Dow and Nasdaq Soar, Oil price above $91, Gold at $ 4,465",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1788439409.0,
         "tag": "Global",
         "first_seen": 1788443134.0403328
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaVlOLWN1dUNLSXgyb0xmQkZtOTJfdnBvR1J4NFQxVzZ2alNhTGNSV2k0YU9GLVBLYzV5NUhPdkQ0WlJWb1dIZjk2SVZ1TmZmNWkxaVdUSFVCYThkN0YtTE4ydVVVeXhJYmlDbHhfUWNYNVFBOHF4M3FLb1pqQ2k5MmVnVkNoSDFKODRMQjd1NEJIOGM5dlBKdHRuc1ZGOVVSSDVIUEQ5X1E3MDlIaHpHbHpjS3BGZUhuWVE?oc=5",
+        "headline": "PennyMac Mortgage: Stability In A Volatile Rate Environment Via The 2030 Bonds (NYSE:PMTW)",
+        "summary": "",
+        "source": "seekingalpha.com",
+        "published": "09/03 21:21",
+        "published_ts": 1788438118.0,
+        "tag": "Global",
+        "first_seen": 1788452124.371989
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1RN0JReThxN1F3VEpVNXRXenJzOEl4b2VtUU9OcVpkU1ZEaktwVjBhYTZPeHhwbFpPTUoxUmkydmVLc2VSaWZyZHdKWVNRWUVYd2NROUFOc3VzQXZTbFlha3EzaGNrWlg3M3lxZTV1YnRiNTZMWmFfa2FB?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788421986.0,
         "tag": "JGB",
         "first_seen": 1788436838.8274243
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00R3lWM2RTSV9zNnJGSmZOM0cxYVZOTjFOTDBHS3ZTU2FJa2hvWU5GZHB6OWFIZFBEQnpLaWVVbVlCXzBlNUVSZmtmSE9VSFZzODJuSUZVanRpVVVDRU5mdjl4U2xwVXk1Wk94ZmV1ZUVLQQ?oc=5",
-        "headline": "[채권-마감] 금리 하락…글로벌 강세 속 外人 6거래일만 매수",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "09/03 16:39",
-        "published_ts": 1788421179.0,
-        "tag": "JGB",
-        "first_seen": 1788422436.4902625
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSWExdzZ4MDZZZUEyMkk4Q0N3amN3UjJuR3luYkVOSUhDQ19kLVVrbFZiZnlKNkU1d2QzT053WHdYMkZRUDdPVnNFUUFPZEhCVjVfN1djNDNCMV9hdG5NWVdnM0hPNzAwRXdXdDV1QVVNVXViZVQzSlppSlhra05XdTFCZnRWTG1mYUVteWV5NVhZenZOWHc?oc=5",
-        "headline": "Shares and Bonds Rally as Markets Await Fed Policy Signals; Yen Jumps",
-        "summary": "",
-        "source": "Global Banking & Finance Review",
-        "published": "09/03 16:30",
-        "published_ts": 1788420616.0,
-        "tag": "Fed",
-        "first_seen": 1788429636.3653362
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 01:00:56",
+  "updated_at": "2026-09-04 01:15:53",
   "yields": [
     {
       "label": "3년",
