@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZSWloTjJkMlhndDRkWXA3SEl5Z3d0d2ZtaVNWZ21mY1U5R0VCbnpQMTZBcThRMTdrVVBpVTdRQnE4VzdpV1FldEhPcVZNcU9VcThZc25wVnBkYnAtRXNjWndjUm5VUElDQXBteEs2ZTN5YXNUNlh2YXEtamV6QQ?oc=5",
+        "headline": "AI’s market path will get bumpier",
+        "summary": "",
+        "source": "Arab News",
+        "published": "09/03 21:47",
+        "published_ts": 1788439661.0,
+        "tag": "Strategist",
+        "first_seen": 1788442231.1275475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52U0Q5Q0duRzh5Z0ZNNmlyNHhLWlNxczlzS1N4YTNCaDM2dXMzQjdKSWVGc1VXYXhSXzRnTE5mcDMwa21QekM2T0tVeG1lNW1ZX0o3b0JQVUxfRjc5cEFyLUZib19qU0dBM0VBbjREQmk3ZnR0Y3c?oc=5",
         "headline": "Taishin 00962 Dividend Jumps for Fourth Straight Time to NT$0.25, Annualized Yield of 19.23% Both Hit Record Highs",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "블루밍비트",
         "published": "09/03 14:35",
         "published_ts": 1788413731.0,
-        "tag": "JGB",
-        "first_seen": 1788414324.309367
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBqeUpmbnRIWGJlYUZDT2N2bFN5WGdnN055TE5tcHVoc3ZzVXFFQVNVS3FFNkZIa3lyVTE5YWxCNFlWaHpLdFBtUDc3VDlQTE9MUG5PeU5VR2pKTDdLQXBWeUNnOXZvdw?oc=5",
-        "headline": "일본 10년물 국채금리 3% 돌파...재정 확대·긴축 전망 겹쳤다",
-        "summary": "",
-        "source": "싱글리스트",
-        "published": "09/03 14:33",
-        "published_ts": 1788413632.0,
         "tag": "JGB",
         "first_seen": 1788414324.309367
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 22:15:47",
+  "updated_at": "2026-09-03 22:30:57",
   "yields": [
     {
       "label": "3년",
