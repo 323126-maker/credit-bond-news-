@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XaDdPeDRNR1ZzMGdaay16ckxZaVVrbnJOZzhQeVB1N2tEUzdaeFE2OVZoT2MzaVNyM3VMSUF6dVJvTDNzY1htaXdrNlpMU3dSTmc?oc=5",
+        "headline": "매뉴라이프 파이낸셜, 15억 달러 후순위채 발행..금리 6.146%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/03 19:18",
+        "published_ts": 1788430738.0,
+        "tag": null,
+        "first_seen": 1788432327.8881364
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtX3owM2RBR2R2VzZ1Sm5aWEpjdFRMRjF5UENrOU9UTHEtbnpzWjd3VzlXRnhKUE1TQ3E2OHRXOVBCbzdJbEFVTU1Gd0VCZGRYQkE?oc=5",
         "headline": "iM금융지주 1000억 신종자본증권 수요예측에 2250억원",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788123600.0,
         "tag": null,
         "first_seen": 1788124523.6106966
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wMmg1amN4b2JBeER4TFRYMlFiRExzLVFyN1JnaHNXamM4bEtCZFN5SHZYdTVrdmlRcnNOTWlwVndqX0Y5MWZreHZzVmtLTWdwSDlnS1U3S0h4M3ljNmQ0TQ?oc=5",
-        "headline": "[자금조달 프리뷰] 롯데지주·한화리츠 공모채…IPO 2곳 '탐색전'",
-        "summary": "",
-        "source": "네이트",
-        "published": "08/30 13:00",
-        "published_ts": 1788062400.0,
-        "tag": null,
-        "first_seen": 1788064232.6407716
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 19:30:52",
+  "updated_at": "2026-09-03 19:45:50",
   "yields": [
     {
       "label": "3년",
