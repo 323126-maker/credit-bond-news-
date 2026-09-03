@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVTJkcENWd0ZHdGZSLW5JbENhRFRHcHdiYnUtSXZjSWY5cFZlOER4aHFST3ZwbG0tZGF5V2REaUlJNDN4MnF4Zm5KNERBdld2RWx5blVwRXlhSVZJYXBfNEZVMGZSRTdIT1B1Tmp4Vmx0OGNYa1RPRldtZ0FERWZWelNReWQ?oc=5",
+        "headline": "Yen strengthens as traders bet on Japan interest rate rises",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/03 13:52",
+        "published_ts": 1788411139.0,
+        "tag": "JGB",
+        "first_seen": 1788411637.6430278
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3Z0U3TWdLMEpTSjBSZDlCNy1URzNsN3hOZmhVUkM1TlpVWGd6Z1JQVUp1emY0R1JQM1ZiaFp3UW8yQXBmOFUzZG9nSDliZ0E2ZWRsMHJn?oc=5",
+        "headline": "日국채 금리 30년만 최고…고개든 ‘엔캐리 청산’",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "09/03 13:45",
+        "published_ts": 1788410729.0,
+        "tag": "JGB",
+        "first_seen": 1788411637.6430278
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBaUXNSSENjVFctLTNqcDhnU1o0MVFsWHJ3MlItSDZ4QVhtZVBlUXVoSEtDdko4bUxieUdzZWRHbEthWS1PLVk4YVlqelhaWmNKSmk5Y3FHWnd2YWV3NG9j?oc=5",
         "headline": "Yen Surges as Bond Yields Hit Records and US Stocks Rise",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788381480.0,
         "tag": "Fed",
         "first_seen": 1788398124.7751877
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOU002eHhyWGp4MVgtUl9rU09pN1VLSEh2ZHlqWnVudkZIdzFfaU8zeUtUWTBVWUZUem12VFNaSkk1eDhZclhGNFljajJUZnQ0UzFtZllfZncwRDJNM3NnUHBLa3VUZ2VEU0NIV09NeGhRU0RaZjJtVjNJS2ZyRWlySFpGMkhna2h6UWZ2NkJqc2lpeEFLYVZHTVg5UHUwc2VPWll5QUdOSU1QcFRLanpQYnRWeldIUS1zdUlQclNWN2ZfN09tc3BSOHBrMlVQTjNaU0hEbmFJYVNvNEYwYjMyanR4VTRweDA?oc=5",
-        "headline": "Mortgage rate predictions through the next five years: What buyers can expect",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "09/03 05:27",
-        "published_ts": 1788380873.0,
-        "tag": "Global",
-        "first_seen": 1788409844.044432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2tMTWFWOEkyWnhnekg3Q3pxS1dwZXdfNl9fRzhtRnAxbUMzUVI0dnN5VHRkbjFMUVUtSDZRWjV1RGdsS2g0UDhhWWtwNW1rRFpMY1dtaGdKUXdZV2h3akVEQmh6c2o5VmpNbXhaeEFtTTRkb2tSV05OaVY5TDMyOWhn?oc=5",
-        "headline": "Burnham Faces Market Turmoil Warning Over Spending | City of London - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "09/03 05:12",
-        "published_ts": 1788379920.0,
-        "tag": "Strategist",
-        "first_seen": 1788381924.117566
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 13:45:50",
+  "updated_at": "2026-09-03 14:01:13",
   "yields": [
     {
       "label": "3년",
