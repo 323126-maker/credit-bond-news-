@@ -72,6 +72,16 @@
         "first_seen": 1788392723.1383724
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yTk5odzBRQ0ZESjhXbWVfMmJfdjFvU3ZpamxueGNRc1Y4ZUM4SXBsa21fSm8xblduNTVyVWVnRVhBbG5HQkFyZjAwLUJaVl8tcE8xYjdDeVFoMzQtZXFXYXZ1NXBXQTZoWE4xQ2V5aFY0a0taRHU2NUpyc9IBgAFBVV95cUxOT21Lai1FdXM1RUNIbUJkVmY0QzlFM3lFcFh3aDRJaENfb25faVdSWDRTQmtVeDRZLUpaQVdFOXFoWDF2bHdsRXN1TUpScTJRSmRsTFVEcXZ0VUVjRUloeHZuSjUtWktIWEpTcEJNM3k2RHAyU2stVklsX2hPelFZVw?oc=5",
+        "headline": "美 10년물 국채금리 4.82%까지 … 글로벌 채권시장 매도세 확산",
+        "summary": "",
+        "source": "뉴데일리",
+        "published": "09/03 08:05",
+        "published_ts": 1788390347.0,
+        "tag": null,
+        "first_seen": 1788417031.7779145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xdTh2Sk5NNEZ1elk1TTN0ZGVzS1NPYVVsYjFGVEp5cW0tMHViNk1rOXZmdS1vNzRpMGkxVkFGeFNBSHNMTEdMUFFKLXBsc1dGMVNPSUlpU1I5cmRTOFhTTnM3OFI2TjJ1TlEwd3ZTQkNNUQ?oc=5",
         "headline": "미국 10년물 국채금리 4.82%…유가·재정 부담에 채권시장 흔들",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788333492.0,
         "tag": null,
         "first_seen": 1788334236.9538023
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBCMHNZN3FNRjVSbGlIWlRWRG5xSEtBWU1wbDJsVHBHRUxPa0dGdDJ4OElDQlg4MlNPaFNGSVY0RHRfWndsVXBtX2d2Ukdtal8xZnN4eXhXa2o1NFl5UFl6NGZWeVJ0UWdBaWNpamlRSFotdUIx?oc=5",
-        "headline": "국채 금리 연쇄 급등… 정부·기업·가계 ‘비상’",
-        "summary": "",
-        "source": "부산일보",
-        "published": "09/02 16:15",
-        "published_ts": 1788333358.0,
-        "tag": null,
-        "first_seen": 1788336926.5115426
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NZ1hWeGdGSXFlUTZ0SFhDV1pVWk5oU2x5U3FSWU1aLTRLdlNBdFR5ZFB0UnVIMTBsSXM4QTFjXzg5UDZ2STc5emRsYkNubkhFTXc?oc=5",
+        "headline": "日 10년물 국채금리 3% 돌파…'엔 캐리 트레이드' 붕괴 우려",
+        "summary": "",
+        "source": "노컷뉴스",
+        "published": "09/03 15:16",
+        "published_ts": 1788416170.0,
+        "tag": "JGB",
+        "first_seen": 1788417031.7779145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbWI5S3VTVHlDdlplTFM1cWFzMGM5Nl9oeUdBc2k0OGN4Z0xvT21fUjBsOU1CUEJyV1BhNWt0TE16M3dXTjVUUVlQOUpGZVFaUUIwdkVRSS1OWHZsNy1PYnlybnJlcGpJc0J5aFNGdlE5dHBPT1BqRU1hZ2drN1MweEx3TmE5cEpxSUxGQkQ2bHF2V1Zlc2p1Q01yang?oc=5",
         "headline": "Columbia Mortgage Opportunities Fund Q2 2026 Commentary (CLMAX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788389580.0,
         "tag": "JGB",
         "first_seen": 1788390036.8464427
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXNMc3gzbkRCNE00T01vTDBGZl9mOGZvOUdBeVAyV0NoRDJFblpFRGJqMkhGMVliaW1TMURWc21JeDdROHFBQndPanJSTEdXQkVPS1A0NTZvc1MySlZMM0NVUjVSVlR0Q0FrMF9kb3lDN1FuNzZEZl9nbTEzeVJmSnhQU0xKUmJI?oc=5",
-        "headline": "\"금리 올려라\" 美 외압에 진땀 빼는 日… 진퇴양난 딜레마",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "09/03 07:30",
-        "published_ts": 1788388231.0,
-        "tag": "JGB",
-        "first_seen": 1788398124.7751877
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 15:15:47",
+  "updated_at": "2026-09-03 15:30:54",
   "yields": [
     {
       "label": "3년",
