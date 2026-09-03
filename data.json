@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRUYxM1pJenl5OGRERWtvZldsZmQ4dUlpeGlrbmo4ZGtIZGI2Y3JFbmx2VldzTUl1MVNtb3dWWVgwaUo1bERYNnpnZG9HaS1iRU84OXhSaHdNY1pNQ3RJN05NLUU4YVhpZjh5a1hpc3YzaEpzdW9tR2VwZ0Z5WW1TSzNaYw?oc=5",
+        "headline": "베트남은 지속적인 성장세를 보일 것으로 예상됩니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/03 18:25",
+        "published_ts": 1788427559.0,
+        "tag": null,
+        "first_seen": 1788427835.2534082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5xaExrSTlrOGQ4Q19jaXB1bFFhVEpxU1I0bGotU01NX3lDemFkTV9UTWdtYmlQaUJvd29mMVk2RkhzT05UMWRFMjFCQ2NfcldsMXQ3a29IUWRNb3dFeGQwd3dnSnpfN2pmb0pDeA?oc=5",
         "headline": "[증권이모저모] 메리츠증권, 금융플랫폼 'MOUM'서 계좌개설시 현금지급 이벤트 진행",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788338640.0,
         "tag": null,
         "first_seen": 1788353129.3024037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VbURENm9OZlNoSll3c2tVR1BBeWUtWllwV0VZc3MzUV9iZ1lZRHEwYktCdk1IbWtwbGFkRHZpUmpIWllyS2gyLTV1ek5fb2VZODgxMFVGbkxGRlFXcmN0SDFCWENkdWNxbnpqS1FIbFJ2dw?oc=5",
-        "headline": "[亞증시-종합] 글로벌 채권 매도세 속 일제히 하락",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "09/02 17:13",
-        "published_ts": 1788336805.0,
-        "tag": null,
-        "first_seen": 1788341430.929294
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVloOVdCVnlsLTdqQ1JZM1NWbm4tbkFzRHhDdUl2M2stczIxaDh3VFJRb1NIaHhrWmpFajJ3RHhId3M4VTJWZFptRlpCNWoxWWRxWFRaMmc3NVVLaFdaU2VraGhfVlVBbWM1LUV1LUotOS1UQU9YU2ZVWFNWbFhyclNYM3FvSy1uWDhyNFB5MVBtOGxsVW9SdnNuOElQZzMtSk5ZeU1XZ3lXRnVvZjcwcHQ2WFZjVE5zVFh5eFlFTTZzRnBpQlE?oc=5",
+        "headline": "10-Year JGB Yield Hits 3.02%, 30-Year Hits 4.18% As BOJ Tries To Halt Yen Collapse",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/03 18:05",
+        "published_ts": 1788426300.0,
+        "tag": "JGB",
+        "first_seen": 1788427835.2534082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHV0b0N1REp5S1JWdDlkNFB5d05VSUpOWHJjbmIyc01MLS1jZHlLSkpXREJTSVNIeWlleHJwN2dQWTYteHVQWWhvWEpaOXdkaElHQVVuQ2kwemZMa3M1ZkdNWGFDU1doQVFiaVFzVEpMOXo2dkZYTkV4X3ExWDVnVWxDendIR2xQTlhLNG9B?oc=5",
         "headline": "RNS Hotlist with Zak Mir: BZT, SNDA, EST, SML, ZIN, KZG, TUN & TAR",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/03 11:22",
         "published_ts": 1788402126.0,
         "tag": "JGB",
-        "first_seen": 1788402635.4931724
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54VzhzUzQzZ1M0ZU5EVm5Cd0dtMTdqbEt4ZnU4VjZrZWJKZFdzYklUUllianh3b09HWGFMbXl2MWRQYkwyNFVNVUpuUFM2dmRKVnZIYjc0Z0ltQjNGYU5adXFxYWo?oc=5",
-        "headline": "[Global Rate Shock] Will Card Companies Face Even Higher Funding Costs? Attention on Specialized Credit Finance Bond Rates",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "09/03 11:05",
-        "published_ts": 1788401100.0,
-        "tag": "Global",
         "first_seen": 1788402635.4931724
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 18:15:57",
+  "updated_at": "2026-09-03 18:31:06",
   "yields": [
     {
       "label": "3년",
