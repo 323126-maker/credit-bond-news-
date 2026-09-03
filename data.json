@@ -836,6 +836,16 @@
         "first_seen": 1788435923.6954563
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rdW1rTTZfaTJXM0tETXdFNUFqZHg5djhZbjl0bzk4aEJLcnFaVHFzRUdTYlk5QXBZZEdlZ2drekZqSDg3Wmg5SDVtVUVtbW05UklWSUtkVUs4RTJacWhJQmdEYTl4dUdJcnfSAW5BVV95cUxQWWprTEI3RGxDOGxEMHNHR0tMRmFjaUJFV1FPZ2JfREViR1MzeEg5VEc5cGdhSkc5QkNTOExWamtYVmFTMGZBR09hdW9zZGVMazFVdWNES0llNTYwU3NIWWkwc25yZ0tzQWd5YThsUQ?oc=5",
+        "headline": "롯데지주, '회사채 금리 5%대' 반년새 0.8%p↑…'시장금리 인상 영향'",
+        "summary": "",
+        "source": "뉴스드림",
+        "published": "09/03 16:37",
+        "published_ts": 1788421068.0,
+        "tag": null,
+        "first_seen": 1788459322.8340123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6ZXp0VVJqQVdQSG05MWZUeXY1ZFNWTlkxZS00aU5pRDFmZzNfSVJBUWFFU2NZaVhZRDc5ejFFaWFnUzY4ZXZmZW9rTGlRZTNNR0NnanJiV3NnbkZaZlNWcEF3aFRMWV9qbFROTg?oc=5",
         "headline": "5년 고정 끝났다…영끌족 ‘고금리 청구서’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788221640.0,
         "tag": null,
         "first_seen": 1788250527.0463781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YWVlrYVNoZWJxWWlvYVJ1YzU4SjlGcWFUbkc1VWw5dUVGSERTUzlkVlhhVkF4V0tuS256cTFrdDlpUjV2R0lGcFhtSWxHc1pmNnZONVVXb3FHNVFEY2hmeVBDR1M3SmVJ0gFsQVVfeXFMUGNuOUIxLUowaFF2c0I1eWJUNGc0TXU4UzdEaHhnMFJDQldaMm5VbVR6LWI2UHRTTjRCQUxFcjhGYjBVR0VBZXltZXZETFZjdDk4TkdwbklpYUJrcHhNM19ZTUsyTVB3eXZIXzlu?oc=5",
-        "headline": "잭슨홀 매파 쇼크에 9월 인상론 57%…한은 셈법 다시 꼬인다",
-        "summary": "",
-        "source": "직썰",
-        "published": "09/01 06:00",
-        "published_ts": 1788210000.0,
-        "tag": null,
-        "first_seen": 1788215433.4406137
       }
     ],
     "politics": [
@@ -2000,14 +2000,14 @@
         "first_seen": 1788453034.180101
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlFudlhqaTVud29nazNaOUFTUWVkS2xEakJVZnFoVEg2MjJrZ2RjSlpoOW9pdFJVR1dnQWtBNDlCSlNmeWc4SEF5d2hMOUs2cjE5amNsQWpUYUhkRnBuYU5PQWoyVlRaM01Cd1BtOFZHYWRGbFB0NnlkT1RIZ0NGRC1DRWRUWE8tdHd6b196bDNSTWJmVmtrNEY1TXNhWHdia0RfUWpCekd3OGpSdXJuNnIxMnJBS1d0czNFWWpaVQ?oc=5",
-        "headline": "Should stocks be afraid of higher bond yields, or really afraid of the reason why instead?",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMHlMWFRYNUFlYVpWWkxfdkpnbzM4MklSYmR5Ul94TUVvcUdFVmplTXQ3djRDR09vWkJfb0wzMHVOMFBOdTk5RlNjc3RuUkY5MDN2Z2NFVFdBclUyQmxvZWEwWWNHLW1aYWw0UE05RXZHRWhLSEgxSHFHajBVdnU2MDZucTRkaHFtNXJDNk51dGRVZ0pUUmdyYnFvMlp5RUI3a1RoelZYVUdibml6aG5OSDZUVHJDdw?oc=5",
+        "headline": "Why are Treasury yields falling after the global bond rout?",
         "summary": "",
-        "source": "investingLive",
-        "published": "09/03 18:23",
-        "published_ts": 1788427389.0,
-        "tag": "Global",
-        "first_seen": 1788435033.2437422
+        "source": "TradingView",
+        "published": "09/03 18:35",
+        "published_ts": 1788428128.0,
+        "tag": "Fed",
+        "first_seen": 1788459322.8340123
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 03:07:55",
+  "updated_at": "2026-09-04 03:15:47",
   "yields": [
     {
       "label": "3년",
