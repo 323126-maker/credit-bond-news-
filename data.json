@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1majA5U1RadVF4cFo4YUI2NUlFeVB2d0MyVzlsdkpoUjdWSkV6VFVWaV9PMkZyVDBqUFZ0ZE9IbnBDV0ZYUlIwbHNVZFNveW9rcHNjRkdvcS03cEN3bHh6dEliTFNLeTNCdmpOMW9NSDdFZmUzSXZHM3N4WXhSdw?oc=5",
+        "headline": "금리 인상보다 무서운 건 ‘종착점’…韓·美 채권시장, 진짜 긴축은 이제부터",
+        "summary": "",
+        "source": "thepowernews.co.kr",
+        "published": "09/03 09:15",
+        "published_ts": 1788394500.0,
+        "tag": null,
+        "first_seen": 1788396323.4980662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ldzBPcEV4ZGtnenRldHRXaEdXY0VkcVUtNWE1SEZkUDRlR3NTdW9CaWRNb1oyMXJvUzVyNExiRzF1U3FBUTh2NWw2ZGFlWk5OeGxJUWE2NkprUlU2V09jQW1B?oc=5",
         "headline": "美·日 금리 급등에 국고채 3년물 4%선 코앞…기업 조달비용 '비상'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788159629.0,
         "tag": null,
         "first_seen": 1788160525.5065444
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tcUVqV29pUGxkVFozdzh1MnFIcWlHUkRKQlBhbk1FX2hoUmcteEZZMkZ6WjNFV1k0Sk9hZ2FsV0I2b3dfU0VnbGpWS3FYblN4S044TVZzRVo1bzjSAWBBVV95cUxNa1M2dlA5UWw4a1BUbTdIR0huOHZzQTNrcHJvTmw5QWRSdDYzWHFkZlZyN1NjWDEzY0NFWEk1ekVfRnJmd01nUFZrMUU5MXBUTmtRSGg4RkR4dkRjejJHY1I?oc=5",
-        "headline": "9월 채권시장, 추세적 금리 하락보다 만기별 차별화 가능성",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "08/31 15:07",
-        "published_ts": 1788156460.0,
-        "tag": null,
-        "first_seen": 1788156939.5328732
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOHI5Yl9MOXNDVFpLTUhSMHYyVF9KTE9rb3Z2SjIxa24wNTAybTRiTHZiQ1N5SUlsREJJMFNWaUdxbzd2Rm9mMzlmek9nSHpTUnM4WlJ5RVhzZTQ4T2gtWVFldEVoM2R1SXEwVGp3R1J1bHZSU0JFRFM1ZXYzU2J6aVhUNDV5ZFFnRGNvYl9tdEVscWx2VHlfSnNGdXc1dEp4ckxlZC0yT2xydTI4?oc=5",
+        "headline": "Bitcoin stages a strong rebound, disregarding the surge in Japanese government bond yields, with the September central bank meeting emerging as a key variable.",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "09/03 09:43",
+        "published_ts": 1788396208.0,
+        "tag": "JGB",
+        "first_seen": 1788396323.4980662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BcnpSend1N3c1bGtoaW03RV9Ba0tUSEd3b0Vfa3RPaWZGS0V6bFB2c1hpUTAwTHJvWHJid3FPQlItS3hmVG9yMDlOcHZSU1NFTm9BVmZBRlNzbTFZ?oc=5",
         "headline": "日 장기금리 3% 시대...일본 주식은 어디까지 버틸까",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788361566.0,
         "tag": "Fed",
         "first_seen": 1788394528.7485476
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPczBCaHZjcmNpXzNqWFVJTEtOU3RPd3FXLTh2MF9rdnhDWF9TS3ZPYkplNW5fZC05RjY5OS05S0hJMURsRzk0N09felBOY2hDOVFORXl0VFEwZlFYR1VMdnVyXzcwQVdXekJXMkw1NDhDUXR0djlodWw4ZDllcEx1aFNPNWFZdkNCUWotZHBIMHhTaTNVTWpTUHpPdkF1ZnNlM0lJdFloa1lWcWM?oc=5",
-        "headline": "Why Is Fed Chair Warsh Hiking Rates Into a Cooling Jobs Market? - State Street SPDR S&P 500 ETF Trust (AR",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "09/03 00:06",
-        "published_ts": 1788361566.0,
-        "tag": "Fed",
-        "first_seen": 1788383725.3208456
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 09:31:13",
+  "updated_at": "2026-09-03 09:45:47",
   "yields": [
     {
       "label": "3년",
