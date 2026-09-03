@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE56dUhfeTZ0cHlQT2ZuVjJMSFJNSGg3UmFlWnhRUEQxU2RtcTFsRWVndDhwUFFseHZlc1B5OHVGQ25NbUpuR01uTlNRMjJQVi1OYy1aZ2kzZ3Q5dFNzUjRnSQ?oc=5",
+        "headline": "용혜인, 재산 4억7528만원 신고…아파트 전세권 6억원",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/03 21:53",
+        "published_ts": 1788439980.0,
+        "tag": null,
+        "first_seen": 1788440441.9310372
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XaDdPeDRNR1ZzMGdaay16ckxZaVVrbnJOZzhQeVB1N2tEUzdaeFE2OVZoT2MzaVNyM3VMSUF6dVJvTDNzY1htaXdrNlpMU3dSTmc?oc=5",
         "headline": "매뉴라이프 파이낸셜, 15억 달러 후순위채 발행..금리 6.146%",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788132151.0,
         "tag": null,
         "first_seen": 1788137124.6756594
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hdjJ2M3B2ZXNLMXV1Tnd3LXRfWWhjMnpfalplZFBGSDJuQVJkNUVMUkFjeFhFTDAtRU0wb0VJVS1LYW11dC1BUTl1aHRRSDBmUF9XcUc3SWNsOE85bXlVS9IBeEFVX3lxTE5FdnlLREFscTE0UmIxeWxZOHU3QU40aTZXMVB4WnJpZ3l3aWo1SURidjhGc1RuRG1LSzF1S3hUTmRfR0dtaTRIRDRuSDFZMDEwbk9UX29VRmZ0YVNTRGtzRDRVVTJWNlpWVkpCRXBzSmFxanlZT0s5Uw?oc=5",
-        "headline": "은행 BIS 보통주자본비율 13.62%…전분기比 0.12%p 상승",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "08/31 06:00",
-        "published_ts": 1788123600.0,
-        "tag": null,
-        "first_seen": 1788124523.6106966
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-03 21:45:44",
+  "updated_at": "2026-09-03 22:01:03",
   "yields": [
     {
       "label": "3년",
