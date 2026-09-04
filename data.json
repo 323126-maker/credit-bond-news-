@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9wZVRUZjNPNW1XZ2pmYmt6amNhSjNrMTg4aFMzTWJvWEsyM0J0ZlQ3NFhZMlJSQmc1VXhQSDFEU1Bsam9iQVhMS0VGbDlQUkJiakE?oc=5",
+        "headline": "WEC 에너지, 2026년 EPS 5.56달러 전망·7~8% 장기성장 제시",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/05 05:18",
+        "published_ts": 1788553123.0,
+        "tag": null,
+        "first_seen": 1788553831.448776
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0zZE1RZG1fb1Q3ZE5UNTJTZkVvamI3WlJsel9zaHMtb3Ywc3g5RGpUQjFFcjBkdHNfeVBxdjYwa1NfSTlseV9fSHlidHpodDV5UXBUVkN2MWYxcE45YjVhUUkzdDFmUldDTFNUajNVVzNGVEZXWG1n?oc=5",
         "headline": "무디스, 나이지리아 등급 상향에 Seplat Energy 전망 변경",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788472402.0,
         "tag": null,
         "first_seen": 1788551123.2880704
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBQRTMzWmNsS3V6N21OWHFZUDJpRmRhNXYwcndoMHpHdGdUUjZ4NXN6RnhzeFVoTl84dnlrWXItdGN5WWlwc2RrTG13ZWtPRDRKaEZCQmR5QVJFN3k5cl9ZbFk5NEwxMWtWTFBwQzBjRHhZZ2FJQXZj?oc=5",
-        "headline": "S&P, Weatherford 신용 지표 완충력에 전망 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/04 06:37",
-        "published_ts": 1788471420.0,
-        "tag": null,
-        "first_seen": 1788471928.6821108
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91TlQ5ZV9taXlFTmcwaTJxMHZHQzZFRFFjWGphVjhVUTBUdWVfU0VsZTlIVWc2cXFQenhYbF9GS0hPbmdTRDJ1dW1wYndCMTF6OXExb3NXQktJaVI0SGM4SGNhNnhwNGU3ck00?oc=5",
+        "headline": "Trump threatens trade halt if Fed does not cut rates",
+        "summary": "",
+        "source": "HousingWire",
+        "published": "09/05 05:18",
+        "published_ts": 1788553114.0,
+        "tag": "Fed",
+        "first_seen": 1788553831.448776
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdGlxMkRqNkwtX2x5QXdNNVdpdWIyZkI3ZjJHbWNjT1l5NjQyamVldU5GMEJCYUtQcGdDSGJNTlhZaVd4azV5b3RKNktIc1ItNFpfUFdJS3NRZ19pbERGb2hhN0djRWE1VE1vcFZaRHBnWngwRDlLZV9xaEwtdjdGQg?oc=5",
         "headline": "엘에리언 \"채권 매도 아직 안 끝났다…공급 넘치고 큰손은 떠난다\"",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/04 19:56",
         "published_ts": 1788519360.0,
         "tag": "Strategist",
-        "first_seen": 1788519637.9604812
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUVJaeldWQ2hDdFlrZDJ6WFRPWkZHemZnTkVsZjVJX1JMWnRTM1l5X3Z4UzE4akgzaFNoYU9NQWZNV3BZemh1RXFILUljQlk2WlFVaG5WY1lPSEZuQ2RWSFpza3V6Y0toVTdPelFsMGo0UEhzaFlfbW1RMHZMb0VrUkxJMEdxWUxMS0tWelRranBBMjBpVnd2N3RyT3ljbHNMeGVDV0JRVmJvRmdPOURIZTRRMy1uZ0lzNTFz?oc=5",
-        "headline": "Calamos Convertible & High Income Fund Q2 2026 Commentary (CHY)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/04 19:50",
-        "published_ts": 1788519000.0,
-        "tag": "Global",
         "first_seen": 1788519637.9604812
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 05:15:56",
+  "updated_at": "2026-09-05 05:30:58",
   "yields": [
     {
       "label": "3년",
