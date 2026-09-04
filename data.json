@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YTVzeDQyMFQ1Tm1UTktDR3MyQWdadmVfT2g3b2lMTkVkTXhsRVV4Zm9NODNKZHBKR2hfUTZrbFJkNnVWWUlFT0xjUEEwYWdFZmtLWQ?oc=5",
+        "headline": "[채권마감] 비둘기 월러에 안도장세, 미국 고용보고서 앞둔 관망도",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/04 17:26",
+        "published_ts": 1788510360.0,
+        "tag": null,
+        "first_seen": 1788511523.830126
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5NERxRGR2UDhvY0JTWFBXRGU0TkVTay1HYl9VUzZGQW5vZ29yNnFDMnlfS3VTQ1pKczEwRUhPX3N2TkJleVJ6Tm9RM3pfN3VzNWp4SnUyd0tJV0RYdU5OSzFrZ1ZTMmc4MTR1Z2QySC3SAXRBVV95cUxPMHJGZHhBazA1QnNLY194V3RjMGhHeEs1OWRrQllUcEs0MEl3OS1Sd3I1MTd4QlVGdkNmZ2JQMlJaaVRCZXFOcS1IWlZCMlZWQ055TS1oV3QyUlZJcVBUOUxPdVExdzRTOTNYUkZXREo2d3ZDcQ?oc=5",
         "headline": "DB증권, 공모 회사채 수요예측 흥행에 발행 규모 증액",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788425147.0,
         "tag": null,
         "first_seen": 1788453034.180101
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE11TXAxMU53Q05uQ0NmdzRqeFA5dGxCdkhDOXEyUjVZZTUyQ1A4OGNxaGxkWW80UUdqcWE2bWNOVXRJZjZlQ3VRb3dLWjkweUpMTUhFbTk2Y1g3LW9fRHZXSlBxejlYZ2tJVXRFSjBEQlA0ZFNoQmfSAXtBVV95cUxNMXNlNktnal9FQ3NBX3BJWnBSQlVuTkEtNUZiVjhkV2wzNXA4OTREazlDWk1rSEZrWWMweGlKRUcwVV80RGNkNHV1ZGV3alpIQk02dmFfel9NZnRwQmplc3dwbEJqOTVaUFVXTm45Q1NGY2cyaHpHR1VTZmM?oc=5",
-        "headline": "건자재 전량 미매각·증권사 언더금리…고금리 여건 속 회사채 양극화",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "09/03 17:21",
-        "published_ts": 1788423707.0,
-        "tag": null,
-        "first_seen": 1788424233.8579586
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 17:31:05",
+  "updated_at": "2026-09-04 17:45:52",
   "yields": [
     {
       "label": "3년",
