@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ScXVDS005NGIzSTJ1N2JYdUJYWWN3TGlxMlRFT080bjNIV2xjbW01bGtJd2tvenE1LXVGVzZyYTM4ZFh4NnNvajNuaUROMkFRUkRlNjZlZHFaVHI3Q28w?oc=5",
+        "headline": "메리츠증권, 일본 국채 30년물 추종 ETN(H) 2종 출시",
+        "summary": "",
+        "source": "스마트투데이",
+        "published": "09/04 08:46",
+        "published_ts": 1788479160.0,
+        "tag": "JGB",
+        "first_seen": 1788480042.5599933
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa0NFTHBxeFZocUhTd2FFUFhsU2pUdDM2d253SHVEVDVobUkyUDdsMjlxRjhoelpieU9pWlk3ZTdfWTVHZTVHa2dCU3hDdGJta3ZtbnJoMnZ0dng4UG5oUVZGeW1DSkhiQ0pCcXdPX1JwSkQ2VHZDSW4taVZyUkp0Z25EWWw4dV9vNmJwc1RFTlZtS0xUTUJQYzRDUzZQNXZ3a240eC0yam9OUy1SbFdZdVJIZ0dKWmM?oc=5",
         "headline": "Druckenmiller’s Surprising Critique of Bessent Was Delivered With the Help of AI",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788443375.0,
         "tag": "JGB",
         "first_seen": 1788466537.957102
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQU3ZIUkRwWGhYeDBPbUNLVDBiMUYySWwzWGdRU1NEOWdCa2JCT19MTnoyU1JlVHNTS1VlVGJGSzFYcTJOTll0VXRrd3Y0ZHBkUFZrZElHZkVGMFVkMjJPanRtXzB1ejlmT3lVRU5NR0dxeXpISDZ3VHdoUmFqSTZXYg?oc=5",
-        "headline": "US bond market faces volatility as Fed ends for...",
-        "summary": "",
-        "source": "Pluang",
-        "published": "09/03 22:49",
-        "published_ts": 1788443366.0,
-        "tag": "Fed",
-        "first_seen": 1788446649.2401602
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 08:45:56",
+  "updated_at": "2026-09-04 09:01:10",
   "yields": [
     {
       "label": "3년",
