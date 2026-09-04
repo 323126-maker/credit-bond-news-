@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNHdFaHhZWmxMSjlZcHNnNGUyT1o5bENVN2JxaTNPWFByOTctdGJCSTdnd2djSEJYR0wyMkhObEpkdVl1U2JPSHlMdEdWUDV5TTRkMUowNnVEaXE1WHQxcVJYQXZlc1Fhc2l1aGNyVUxUNmJPZXVwTjNZemJTQzRVc2p4WkVMRU9uWmFpOE93bUg?oc=5",
+        "headline": "일본은행이 금리 인상을 전망하면서 엔화 가치가 급등했다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/04 09:14",
+        "published_ts": 1788480895.0,
+        "tag": "JGB",
+        "first_seen": 1788483780.541889
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1ScXVDS005NGIzSTJ1N2JYdUJYWWN3TGlxMlRFT080bjNIV2xjbW01bGtJd2tvenE1LXVGVzZyYTM4ZFh4NnNvajNuaUROMkFRUkRlNjZlZHFaVHI3Q28w?oc=5",
         "headline": "메리츠증권, 일본 국채 30년물 추종 ETN(H) 2종 출시",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788444365.0,
         "tag": "JGB",
         "first_seen": 1788469160.8591712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUEplbUYxSHd0Yl9YaWFkYTNrN05PUUY3ZjJORXJVRXRienE5TWZWa0pTdVIzVWk0YTVDNWozU2ZTVXJOaXFhVVlTVjJFTHVnUW9pVnlDQ0FocEd0b1ZiMS1FTllEbFc0b19jTWxOSVQ0SmRsaTMyMDFpWVFVdVpYOUFRRW1SZFlZR2wzctIBkwFBVV95cUxNUGVqOGNTNmlpVUNSYWdEcWxpUlo5YTY4emdUamR1clJYaktkc3ZKOHhqTTB3NmVpbk9nRVdCdU1rOFhDUVcwT3dQY25UbWRvTE9neGh3dTJQVTFUbzVSZVFlUWtMcVhEQjNsUDlTTGVONUhpLVBSMkx3VVdySjByaG16UmpWbG5qTS1RNWFsWkwtc2M?oc=5",
-        "headline": "The US Treasury Crisis and the Threat to Dollar Hegemony",
-        "summary": "",
-        "source": "frontline.thehindu.com",
-        "published": "09/03 23:02",
-        "published_ts": 1788444143.0,
-        "tag": "Global",
-        "first_seen": 1788447643.0506487
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 10:01:05",
+  "updated_at": "2026-09-04 10:03:25",
   "yields": [
     {
       "label": "3년",
