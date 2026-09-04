@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oa21Pb3RqMVZoUTFKLS13aXZDa1U1YWNhZC04WWpJb0VlMHl2NmJKdEthT29MOEtmTkFJVGlRSmFpYTIwZWYzelZDMmRjeThIbFI3T3hnRFhMdUFnRU1ybFdnNHZRYUVkX3NpZGpJZldIa0JJNVBySg?oc=5",
+        "headline": "Mohamed El-Erian warns global bond selloff isn't over",
+        "summary": "",
+        "source": "qz.com",
+        "published": "09/04 21:28",
+        "published_ts": 1788524920.0,
+        "tag": "JGB",
+        "first_seen": 1788525030.1616843
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13aUtzTDJBUzBXbGczOV9mX2RQNE1aQ0dpZ1NmZzZrTGdObXktV3B4QWFoa2Myd0UxOUFOeGZ6Mzc1aUM1WWE2OXRWd2ZYZ1RlYWNhSTBlQXpRM1BUczZfalRKNUtacWZLQmhwQ0c3YkVtbm5IRExKQQ?oc=5",
         "headline": "뉴욕증시 프리뷰, 주가 선물 '금리 향방 가를' 8월 고용 발표 앞두고 혼조세",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788490140.0,
         "tag": "JGB",
         "first_seen": 1788491762.554411
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pcXFWOGk4RTQzTGJCdzdXeDM3RWt6ODNJQmlpVFM0WXA2eEdIcjRsZGZSOXNTNlk5MjRkTGNuM3cxRks4TE90UlBtenoxeGhWNE1BQ1d3M21ySjNBRW9VVGpJazNMQUnSAWxBVV95cUxOaGpOWllZOUR1VUlTbHc1a3lkOTIyVS1Ec0s1QjhhNmlVOXpMR3lZLW5GNXo4UkdVVHdmWmxzZWdNRUl3QmZvcnRKOVp6TmVjejlpRXcydEctQWhLdUlhWUpuZkJ2ZjZ0RjdMNlI?oc=5",
-        "headline": "워시는 원칙, 이사들은 '인상'·'동결'…연준의 '역할 분담' 화법",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/04 11:43",
-        "published_ts": 1788489801.0,
-        "tag": "Fed",
-        "first_seen": 1788490836.8626225
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 21:15:48",
+  "updated_at": "2026-09-04 21:30:54",
   "yields": [
     {
       "label": "3년",
