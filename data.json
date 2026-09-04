@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNlNFVEk1N0gwcEQzSjhSX1ZGRHhmWUFCSnhlTEVoeDVZa0N6bEtSdnJHZnVuQ2NJUDBfb194NXdteVZvdVNqQm85VjRsOEFRaGdrWF91N25PZDVLOTNuZVlsUkV5ekJJaFdfV2d6WUhORGVzS3l4NUJhdW8zSy1paDlpc2NSV2J0VzBCZjk3c2hQb3ViNERYRDdDZDc2dXlkOTg0dWR1SGRGMGRQbXpENUtDdGpScEtxREJucGhqRzZFRjg1aS1yYXlXbFdpWmhx?oc=5",
+        "headline": "Stock Market Today: Short-Term Treasury Yields Climb as Dow and S&P 500 Fall, Oil price Hit $95",
+        "summary": "",
+        "source": "Eurasia Business News",
+        "published": "09/05 06:45",
+        "published_ts": 1788558312.0,
+        "tag": "Fed",
+        "first_seen": 1788559236.464042
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNN19CbXlWNTR1WmZMLUI1eG1COXkwWm02SDQ5ekVnOE1ZYmp0ZGpFRWc2Rjc1cWQ0TXRyc2M1Vzk4NkFkU285Z1I2c0FLRFZfalVTYzNwV3N6aW5TYlVEdmJsd3V4WFhNQVFMMUtqbDVtNmVsWmlISnVBTHhCUTVodGZROXB0REd3bVdiOFY1TE1ZUWdRMEIxYVJ0dE9KanNFOWhZbDR6OEppS0t4RW1JY2xCN0pzb2poaWRRbGN5djR6WldSci1XQ0M0b2xjaVBDM3ZsWW5oSV9jMW1FWklOaV9jdEZwaXJMQnl1WXJpOU5PRkFhUlA0NVZObDNleXQ5T1NwTDhxLWtyeFFhanBNNDlaWnliSkg2VTMzMEtlekdsOHd6cThoci1RN3BaeFE3b2NxN2NhNHRVVGxDWEt1emVWZHBZQ3Ey?oc=5",
         "headline": "Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788523206.0,
         "tag": "JGB",
         "first_seen": 1788524125.588371
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWHBtQmZjbGZySmcteGF0R3VqMVprbjlPbHZhQzdUUi0wRWZNaEhNNmxTWnRqT2ZDdjh5QkV3TGJvTk1PS2FEeW94bFROaTBZbVQzZGg4R3l4aHFWTW1pNWtfc3hWR2VDckxrNXVmZFRWcG0yYnc?oc=5",
-        "headline": "Not so fast on rate hikes, some Fed officials say",
-        "summary": "",
-        "source": "Axios",
-        "published": "09/04 20:45",
-        "published_ts": 1788522323.0,
-        "tag": "Fed",
-        "first_seen": 1788554722.5727186
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 06:45:46",
+  "updated_at": "2026-09-05 07:01:00",
   "yields": [
     {
       "label": "3년",
