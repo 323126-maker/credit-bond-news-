@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5NERxRGR2UDhvY0JTWFBXRGU0TkVTay1HYl9VUzZGQW5vZ29yNnFDMnlfS3VTQ1pKczEwRUhPX3N2TkJleVJ6Tm9RM3pfN3VzNWp4SnUyd0tJV0RYdU5OSzFrZ1ZTMmc4MTR1Z2QySC3SAXRBVV95cUxPMHJGZHhBazA1QnNLY194V3RjMGhHeEs1OWRrQllUcEs0MEl3OS1Sd3I1MTd4QlVGdkNmZ2JQMlJaaVRCZXFOcS1IWlZCMlZWQ055TS1oV3QyUlZJcVBUOUxPdVExdzRTOTNYUkZXREo2d3ZDcQ?oc=5",
+        "headline": "DB증권, 공모 회사채 수요예측 흥행에 발행 규모 증액",
+        "summary": "",
+        "source": "이뉴스투데이",
+        "published": "09/04 17:00",
+        "published_ts": 1788508828.0,
+        "tag": null,
+        "first_seen": 1788509724.140123
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZTZNTlBrTFZvWG1OUmk3VmhMV1dwV2g3NFJYZWY2OEExYWQzdlJXMkdPWEJJS0FuS2gyRWhEQ21FR1BId2UweHRWcGhPTG85U2JMcW9ydG5VSnJ0RWliZm1RT212djBZNlJDY2JtM2JnUQ?oc=5",
+        "headline": "[채권-마감] 금리 낙폭 축소…外人 매도·美 고용보고서 경계",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/04 16:59",
+        "published_ts": 1788508758.0,
+        "tag": null,
+        "first_seen": 1788509724.140123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYy00V1I4SHF1OTZoTjZVaE9iXzlVQnhOM2pIeUFLZENXSDhPUlVOdTlSX2t4ZW0wQjlMOTE2MEliWkUzUmdfeW0wb21JOGoza2JCMXhOQXN2N2sxMmJaZGJ0bGNSMkJmLVNkVzlGWmI?oc=5",
         "headline": "DB증권, 회사채 수요예측 흥행… 2000억원으로 발행 확대",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788423420.0,
         "tag": null,
         "first_seen": 1788424233.8579586
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44WHdYbHFnelF4emtMME5jbVNDcFNZSlFPVDMzSzBZREtYd05Jd216YmZsXzBiajFiYUQ5dHJGQ3M3ZE9xdWJvelFDWE5BZUR0QlR5MFExc1MwQ3BfMTV5Vkp5T01QNkFfdGpxSkREdzU?oc=5",
-        "headline": "[운용 NOW] 미래에셋자산운용·한국투자신탁운용·KB자산운용",
-        "summary": "",
-        "source": "위키리크스한국",
-        "published": "09/03 17:13",
-        "published_ts": 1788423222.0,
-        "tag": null,
-        "first_seen": 1788424233.8579586
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00R3lWM2RTSV9zNnJGSmZOM0cxYVZOTjFOTDBHS3ZTU2FJa2hvWU5GZHB6OWFIZFBEQnpLaWVVbVlCXzBlNUVSZmtmSE9VSFZzODJuSUZVanRpVVVDRU5mdjl4U2xwVXk1Wk94ZmV1ZUVLQQ?oc=5",
-        "headline": "[채권-마감] 금리 하락…글로벌 강세 속 外人 6거래일만 매수",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "09/03 16:39",
-        "published_ts": 1788421179.0,
-        "tag": null,
-        "first_seen": 1788422436.4902625
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZTZNTlBrTFZvWG1OUmk3VmhMV1dwV2g3NFJYZWY2OEExYWQzdlJXMkdPWEJJS0FuS2gyRWhEQ21FR1BId2UweHRWcGhPTG85U2JMcW9ydG5VSnJ0RWliZm1RT212djBZNlJDY2JtM2JnUQ?oc=5",
+        "headline": "[채권-마감] 금리 낙폭 축소…外人 매도·美 고용보고서 경계",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/04 16:59",
+        "published_ts": 1788508758.0,
+        "tag": "JGB",
+        "first_seen": 1788509724.140123
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNcU1sdWRfSzgtN0V4Mk9UdTBlQ3lRVmNIaThGcW85cTdReVFIMW5rc180cUdqSGQ1YWJIT1Z4eURLSHZUZVVzdF90dmJWWlQ2ekEzMEoyRG5ma0ZFQ2d0U3N4bmJESU9OSU45bFYyZDVfNmduM2llQXlBUkF5dVhHeTVlWUpvN3RQVWN2OXFQNHl1amZVR2ZCZFpVSGUzaFpUWGJ1ZTZ6QWwxVTFEMXlKZUNoNXpEOF9yQ1hpeGJiQXJfQlhYQXlGTUpCN2V3dXZrM09Kek0tTlRaZ0FBc0VNLUhDc1JMdFFnRUY3bC1ZNFFKaEFCY05J?oc=5",
+        "headline": "Jefferies’ Chris Wood sees a structural bear market in US bonds. What it means for stocks and gold",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "09/04 16:53",
+        "published_ts": 1788508401.0,
+        "tag": "Global",
+        "first_seen": 1788509724.140123
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNWNDeXREN2ZjNHZNTUJSVUpuR3VCRTZHT3M5YmRmV09vYUhSZS16WTA4eklCQmxNcHlaUkd1NjhscnJ0SzYycldqalNIR0phSWlORmw0bTJfU2JUWnBfdUNNdWcyRW9EMkhDTUwwdWVKOHUza25lT0szVno4cVdfM296dW41emFxdXhoRkIwRVVEMXFuQzFJZE8wMA?oc=5",
+        "headline": "Nationwide Target Destination Funds Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/04 16:50",
+        "published_ts": 1788508200.0,
+        "tag": "Global",
+        "first_seen": 1788509724.140123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsWDJHZHUyU0wyVDBRd3d0TnlKb3gyZXFUNk02T20wU21iblpvWFJ1cnV6YUJ1bHFLamVWaUxpb2J6a1RKY21NNjVfWTdVUU56dHlkRVYtNHFYak1xOTZ2X3E1anJ0OFFKYjg0?oc=5",
         "headline": "‘I don’t think there’s a floor’: Workers’ share of America’s income is at a record low before the AI boom even begins",
         "summary": "",
@@ -1628,6 +1658,16 @@
         "published_ts": 1788506511.0,
         "tag": "Strategist",
         "first_seen": 1788507032.3095357
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmNfUzJvOEZ5RlNnTUtZWjdZa2llbGhQUDd2bk9IS1NmdzBUSTg4dW1NY2xxaXhWUFE5Y2hZcmVEODY5MGZjcFBlNkRNempKTHktOHBqQVU3UjhkemdhOGtRS0N1RkV6QzhUc19KTEZnOWg4Y3psUFRDM21JUkJRZE1HNDdQdFhPcVhhVGxwejdOMzVqLUJLUHJWTDVYOTVoTXdJVWM0VnZMRG9h?oc=5",
+        "headline": "El-Erian Warns Global Bond Rout Will Persist Despite Treasury Intervention",
+        "summary": "",
+        "source": "streamlinefeed.co.ke",
+        "published": "09/04 16:13",
+        "published_ts": 1788505982.0,
+        "tag": "Strategist",
+        "first_seen": 1788509724.140123
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0x3aTNtb3N4aUlBYkpyNjRGMkdvemhqdDY4TV9EZUNBU2U0WmhnS2UxNGlVaTJvWnE1ZkU4bmlybkk0b0c3SHlEaVJMNHFpSnJiSkdjTTVub3ZERW5pSE1nbDFUNEwtUVNLSHhseWp3akQ5MnJ0OUplQk5yRF85dG12ajgzOVk2S2N6eTdBd1RvZVVWVXNoX1dCaWd2TWJDanVQNg?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1788475621.0,
         "tag": "Global",
         "first_seen": 1788481835.3670173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBFYUFNTkVuV1FIZHNSYmFsUnJvUnJqenlCSThnZWQ5QmNCNnpqbklXNldXdUZTckw4eEFGc3lkT1V1U0NQVW55d250UEF6ekZDVHlDN2dCZWdEdThidE5qNVRnc2FDZ0x5OG5xU1VXTV_SAXBBVV95cUxQRWFBTU5FbldRSGRzUmJhbFJyb1Jyanp5Qkk4Z2VkOUJjQjZ6am5JVzZXV3VGU3JMOHhBRnN5ZE9VdVNDUFVueXdudFBBenpGQ1R5QzdnQmVnRHU4YnROajVUZ3NhQ2dMeThucVNVV01f?oc=5",
-        "headline": "로이터 \"日 국채금리 30년만에 최고치로 해외투자 日자금 본국 유인\"",
-        "summary": "",
-        "source": "글로벌경제신문",
-        "published": "09/04 07:46",
-        "published_ts": 1788475589.0,
-        "tag": "JGB",
-        "first_seen": 1788486323.2976072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWE11SEZsQXZYcXZmTTBjczVkeUhMV3ZPaTI3ZnJaMnZXa2pDelZKdFdER3VoUUlsVTVRV0ZmdmNyVm84TjhiNlN5VlpjcVZtelhSMHhZNGgyVXJRZ1FQck9sZkZCUmZUamZIU3c1djBuRGd0NXZ3UE5DT3g0QzhXMUpKdHVJcF9uaWZleW9vWVVGZEQ3VVcwYmhDUGd5cXkydFRFWkVQMFZ5ZElTejNfVWdPWGZTVU5hb3lJc3FwZktVWXR2VDFFNmx6TUx0aFNncGttNENqN2drVkpQUkFaTmxQM2Y5RnZOVmFrZEdiVlByZm9BNllULWR3aGvSAYICQVVfeXFMTVpWR0RNMjRLNEhRTXdCNks5VTlWVDZKTXI2c2tNdTZzZC1nV3QyWGhiTVNjSFJhS0h6U3FFOHhlQU1HU2t1MUN2ODNlWktCa3JDTTl5ZnJnb3VyNkEtTHZZcFNXajBEQVhjUWJUTHVwblVfbTRxUEVXN01FMEZzUG9PWEoxOThnMGlFd0NYQU5PcU9MSEdDeUFnbmthakpLUmswLTE2Z3F4NGNYai05RHpTYVFadHlSb0FHRVVydzl2WTZPcVpORzdRd0JVRnlwT2MwTnVfR3BDV2JObmVyUmMyUjc1WnlYU3Y0anlXYlRpdmxiRmg2SmxsQjRHRzBOLXhB?oc=5",
-        "headline": "Markets call time on Canberra’s cheap-money fantasy",
-        "summary": "",
-        "source": "theaustralian.com.au",
-        "published": "09/04 07:31",
-        "published_ts": 1788474669.0,
-        "tag": "Strategist",
-        "first_seen": 1788475526.0088027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1OQ3hteUNYcV80dzhtNWxzbjhYOU96UVZuTWYzamZvVzBNWUVuSDZxTEhEMmUyb1A1X0dMN1BpWDVYak5TSUxQczM2TkpXRW1ZUUhaSzlGTDNnU2JkWUpaSjhqYk11VHRCSGQ5QmEzTkJqWktRdEE?oc=5",
-        "headline": "Japan's Government Bond Yield Tops 3% for First Time in 30 Years…Companies Respond with Asset Sales and Overseas Funding",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/04 06:55",
-        "published_ts": 1788472500.0,
-        "tag": "JGB",
-        "first_seen": 1788473723.9831986
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREJPU09zaS1LMFVOSnZoSk5URWpQM245ZE5BVTdENWdBcjRYNjV2NmIxZG83M2oySHlCY3Q4Qks3VEFPdEZWZHE0d29VMVJ4LW1HOHFTNVl0bW1ZajAzaGF5N3pJUHUxNm42aUVhNFZUd3RzaHF1Sk82Q0wwR2tucncyeE5lM0NmbjZZQlBxQmJRQkE?oc=5",
-        "headline": "Vance pushes Fed to lower rates despite Warsh’s inflation concerns",
-        "summary": "",
-        "source": "MS NOW",
-        "published": "09/04 06:37",
-        "published_ts": 1788471441.0,
-        "tag": "Fed",
-        "first_seen": 1788471928.6821108
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 17:00:59",
+  "updated_at": "2026-09-04 17:15:46",
   "yields": [
     {
       "label": "3년",
