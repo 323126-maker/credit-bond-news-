@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubVNZU0FvQkpoVThLZVIxN1owSkswbVY0Z0NSdmJEd3BwRVllLVlQdEhkWkdNYm54Wmo3VDNCUEJTRHQ2d1BSSDFBdDJjSEU5R01hMy1nRzE2QnVYTEFITzFraklEVlotaERTZWg4UlA?oc=5",
+        "headline": "우리금융F&I, 회사채 1,500억 모집에 9,520억 몰려…NPL 투자사 조달시장 ‘온기’",
+        "summary": "",
+        "source": "thedailyeconomy.kr",
+        "published": "09/04 17:40",
+        "published_ts": 1788511228.0,
+        "tag": null,
+        "first_seen": 1788512437.5821238
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE95YTVzeDQyMFQ1Tm1UTktDR3MyQWdadmVfT2g3b2lMTkVkTXhsRVV4Zm9NODNKZHBKR2hfUTZrbFJkNnVWWUlFT0xjUEEwYWdFZmtLWQ?oc=5",
         "headline": "[채권마감] 비둘기 월러에 안도장세, 미국 고용보고서 앞둔 관망도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788425607.0,
         "tag": null,
         "first_seen": 1788426928.2306576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBXWkgxQ2xxa3pNZ2ZtcG84S2N5Mmg3ZFNUZjduUlFfWUdaTDBhYi02ZERkNnFoZGFvX1ZwT2JVaEZMSmhCVXk4ODktN093bUpKcHpyYmxuck5icjB2TEFHVEIwd0ZhNnpfNi02cmh6R2pkVmpm0gF0QVVfeXFMUFdaSDFDbHFrek1nZm1wbzhLY3kyaDdkU1RmN25SUV9ZR1pMMGFiLTZkRGQ2cWhkYW9fVnBPYlVoRkxKaEJVeTg4OS03T3dtSkpwenJibG5yTmJyMHZMQUdUQjB3RmE2el82LTZyaHpHamRWamY?oc=5",
-        "headline": "한투운용, 글로벌 회사채 3종 조합한 멀티크레딧 펀드 출시",
-        "summary": "",
-        "source": "우먼타임스",
-        "published": "09/03 17:45",
-        "published_ts": 1788425147.0,
-        "tag": null,
-        "first_seen": 1788453034.180101
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 17:45:52",
+  "updated_at": "2026-09-04 18:00:59",
   "yields": [
     {
       "label": "3년",
