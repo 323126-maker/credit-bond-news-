@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5PQTN2bms1V3pfNEc3VGU0QzBKRGFXQk0zNU96MTZPTmpTYUpMRWNXVlMxMEd3d2x6NFlHcHRYYldpcHlTSlBrNkpMWEVNM3JuWGtVbmdZWE9WWWV0?oc=5",
+        "headline": "BYD 한 차종이 수입 PHEV 살렸다…씨라이언6 점유율 37%",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/04 14:18",
+        "published_ts": 1788499080.0,
+        "tag": null,
+        "first_seen": 1788507032.3095357
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jLVlyUUt1WTJha1hYcTVEdXprNWp1Q0xPRTZZVVhVMDhCalJ0aWF0dlVWb19WN3p5MGEtaVlPR1FZMTBLaUt3ZWpRQ3RkaTV3SkZGNTN5SnM5LUtld1NmaDVYcE9KSkFWMWc0?oc=5",
         "headline": "[월간 DCM] KB·우리금융 빅딜 하나F&I 핫딜…이랜드월드 미매각",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788307080.0,
         "tag": null,
         "first_seen": 1788309925.6288683
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RTm9MQXR1b0NIUFNoeDQxVXptWU55TnV0cDRuX0t4QVBWazViWk9XRjVMUU0zMkY0YmcwRnMwZDdwNG9XOGdyY2FGRzhVbjdoYlFMNE1WczEweUk5Qm9hTTBGSHBTVEx3TGk5cFJ1WVQ?oc=5",
-        "headline": "매뉴라이프, 2041년 만기 7.5억 달러 후순위채 발행 가격 확정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/02 07:21",
-        "published_ts": 1788301260.0,
-        "tag": null,
-        "first_seen": 1788302725.8019612
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFBWeXN4YlJUX1FfYTF2TUNYTXFWdHRwQ1VNS1B4R1JSWEJBWjZSX09JNzhvLTFKWGlPcXFkWEk2cjdTMW10WV9FdzQyMHpyT25lQ0JHM0g3d0EyN21LY0JNU25uQUdLbUdiblh1dk9aaHpBVW9uUHozQUhVdmhiR2R1TzZMNERHTzY1eg?oc=5",
+        "headline": "El-Erian expects government bond sell-off to continue",
+        "summary": "",
+        "source": "UA.NEWS",
+        "published": "09/04 16:21",
+        "published_ts": 1788506511.0,
+        "tag": "Strategist",
+        "first_seen": 1788507032.3095357
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT0x3aTNtb3N4aUlBYkpyNjRGMkdvemhqdDY4TV9EZUNBU2U0WmhnS2UxNGlVaTJvWnE1ZkU4bmlybkk0b0c3SHlEaVJMNHFpSnJiSkdjTTVub3ZERW5pSE1nbDFUNEwtUVNLSHhseWp3akQ5MnJ0OUplQk5yRF85dG12ajgzOVk2S2N6eTdBd1RvZVVWVXNoX1dCaWd2TWJDanVQNg?oc=5",
         "headline": "TCW High Yield Bond ETF Q2 2026 Commentary (HYBX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788469200.0,
         "tag": "JGB",
         "first_seen": 1788470123.6708908
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWHBtQmZjbGZySmcteGF0R3VqMVprbjlPbHZhQzdUUi0wRWZNaEhNNmxTWnRqT2ZDdjh5QkV3TGJvTk1PS2FEeW94bFROaTBZbVQzZGg4R3l4aHFWTW1pNWtfc3hWR2VDckxrNXVmZFRWcG0yYnc?oc=5",
-        "headline": "Not so fast on rate hikes, some Fed officials say",
-        "summary": "",
-        "source": "Axios",
-        "published": "09/04 05:59",
-        "published_ts": 1788469154.0,
-        "tag": "Fed",
-        "first_seen": 1788498923.3926868
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 16:15:54",
+  "updated_at": "2026-09-04 16:31:07",
   "yields": [
     {
       "label": "3년",
