@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBhYy00V1I4SHF1OTZoTjZVaE9iXzlVQnhOM2pIeUFLZENXSDhPUlVOdTlSX2t4ZW0wQjlMOTE2MEliWkUzUmdfeW0wb21JOGoza2JCMXhOQXN2N2sxMmJaZGJ0bGNSMkJmLVNkVzlGWmI?oc=5",
+        "headline": "DB증권, 회사채 수요예측 흥행… 2000억원으로 발행 확대",
+        "summary": "",
+        "source": "Korea IT Times",
+        "published": "09/04 16:46",
+        "published_ts": 1788507995.0,
+        "tag": null,
+        "first_seen": 1788508837.989586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcklJcVVDMmpaYkxNVXB6ZzI4c2J4WVZNRnU2SDlLMlF3U0JvNkN1NVhFSzNHOFB6MkpnWmo3WmFuMmpVOW91MVctbVcxV3NmMVlTYWNiQngzZw?oc=5",
         "headline": "\"전기료 미리 내달라\"…삼전닉스에 '25조 거래' 제안한 재경부 [김익환의 부처 핸즈업]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788421179.0,
         "tag": null,
         "first_seen": 1788422436.4902625
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1rdW1rTTZfaTJXM0tETXdFNUFqZHg5djhZbjl0bzk4aEJLcnFaVHFzRUdTYlk5QXBZZEdlZ2drekZqSDg3Wmg5SDVtVUVtbW05UklWSUtkVUs4RTJacWhJQmdEYTl4dUdJcnfSAW5BVV95cUxQWWprTEI3RGxDOGxEMHNHR0tMRmFjaUJFV1FPZ2JfREViR1MzeEg5VEc5cGdhSkc5QkNTOExWamtYVmFTMGZBR09hdW9zZGVMazFVdWNES0llNTYwU3NIWWkwc25yZ0tzQWd5YThsUQ?oc=5",
-        "headline": "롯데지주, '회사채 금리 5%대' 반년새 0.8%p↑…'시장금리 인상 영향'",
-        "summary": "",
-        "source": "뉴스드림",
-        "published": "09/03 16:37",
-        "published_ts": 1788421068.0,
-        "tag": null,
-        "first_seen": 1788458436.3442943
       }
     ],
     "perpetual": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1788506128.043929
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSzVUTGw3d1VDSjZ1aUp3NDNfdnUzVENnZDJRM012bFBOU3h6MjFlb0xjcmJiclNPSEJ3YVFfTkdMdE5jRzBZZ1dfUjhVdG9tX296Q1EzeVNJNDNKNEtPYU51ZWtZZ0xDZThLV296bVViVDVuTmRpUHU4RldQN29oMnZoQ0pWTnRJUC1USkFobmNnT2JSQmN6QnZtRThrZw?oc=5",
+        "headline": "Long-term home loan rate reaches 13-month record",
+        "summary": "",
+        "source": "The Arkansas Democrat-Gazette",
+        "published": "09/04 15:54",
+        "published_ts": 1788504840.0,
+        "tag": "Fed",
+        "first_seen": 1788508837.989586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdnJsYjM4MThMRkVKb19MdUNiN3Y5bmN3RXNrelVUVlN4X2VLWTNYZXFEeVVqZnRsUTUtaTlRb1RnUl9zemlNSXgxUG02eUFpY29CZU1qZDJaR2IxbDE1TmhLMk5ZV3M?oc=5",
         "headline": "원·엔 855원까지 밀렸다…일본 국채금리는 30년 만에 3%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788471441.0,
         "tag": "Fed",
         "first_seen": 1788471928.6821108
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcGdHYmRZeHdCVkJRUk94ckFYZzMwcXIxTlZaQVpqXy0waUptU1B0U0hJUWpvQU84VVltWUpDYXFtM0czRlZpN3Y4TWpjYVppRHhWbFZHc1hINFA4Q3djQkRUT1BQdGpnUGhrZGRDQ2Y2OUk4M2stUEsxbWNIazdLdU1NNlk0YVdNS2V1T24tMFg?oc=5",
-        "headline": "Kevin Warsh Fed Reaction Function: Five Key Indicators to Watch - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "09/04 06:20",
-        "published_ts": 1788470400.0,
-        "tag": "Fed",
-        "first_seen": 1788472838.213086
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 16:45:46",
+  "updated_at": "2026-09-04 17:00:59",
   "yields": [
     {
       "label": "3년",
