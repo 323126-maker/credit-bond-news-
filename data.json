@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNN19CbXlWNTR1WmZMLUI1eG1COXkwWm02SDQ5ekVnOE1ZYmp0ZGpFRWc2Rjc1cWQ0TXRyc2M1Vzk4NkFkU285Z1I2c0FLRFZfalVTYzNwV3N6aW5TYlVEdmJsd3V4WFhNQVFMMUtqbDVtNmVsWmlISnVBTHhCUTVodGZROXB0REd3bVdiOFY1TE1ZUWdRMEIxYVJ0dE9KanNFOWhZbDR6OEppS0t4RW1JY2xCN0pzb2poaWRRbGN5djR6WldSci1XQ0M0b2xjaVBDM3ZsWW5oSV9jMW1FWklOaV9jdEZwaXJMQnl1WXJpOU5PRkFhUlA0NVZObDNleXQ5T1NwTDhxLWtyeFFhanBNNDlaWnliSkg2VTMzMEtlekdsOHd6cThoci1RN3BaeFE3b2NxN2NhNHRVVGxDWEt1emVWZHBZQ3Ey?oc=5",
+        "headline": "Following strong jobs report, Trump threatens to cut trade if Fed doesn't lower rates",
+        "summary": "",
+        "source": "thenationaldesk.com",
+        "published": "09/05 05:45",
+        "published_ts": 1788554702.0,
+        "tag": "Fed",
+        "first_seen": 1788555636.424904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91TlQ5ZV9taXlFTmcwaTJxMHZHQzZFRFFjWGphVjhVUTBUdWVfU0VsZTlIVWc2cXFQenhYbF9GS0hPbmdTRDJ1dW1wYndCMTF6OXExb3NXQktJaVI0SGM4SGNhNnhwNGU3ck00?oc=5",
         "headline": "Trump threatens trade halt if Fed does not cut rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788520457.0,
         "tag": "Fed",
         "first_seen": 1788523234.6260853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PQWh2SU54TW9RVzkzWS1tSzhqLXg2UmdfQmxXSUJKbnFwM2FCd1BwcU1jMGdwRnRrVGVZbXpxNFZaRGEzZ1gyZXpTTjJyVXY5dm0weHNvbWVxM0VtelRLRzQ2MFlBOGFvbEt1TDVrTzRVb0NVQkpXb1oydw?oc=5",
-        "headline": "Morning Bid: Bonds’ reality check",
-        "summary": "",
-        "source": "93.3 The Drive",
-        "published": "09/04 20:01",
-        "published_ts": 1788519663.0,
-        "tag": "JGB",
-        "first_seen": 1788520525.9576182
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 05:45:57",
+  "updated_at": "2026-09-05 06:01:06",
   "yields": [
     {
       "label": "3년",
