@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN0Q1Z2steVB2ODJOcmUwMG9Hd3l3YU82c05pSmk0Uzh0OHJONHprc25IMlpPTXFYQ1NZc2l5dzlYZVltVEpYN0IzM2hKOFQwaHpTZGVJci1VTzRiOFdiaS1UZUFhZTNxcFYwUDMtVFNtRkxjV0RBV0k2U0NDX0ZyQkhtcjBxWC1OeEVtbXlTX2lleVpkOHBIZHExX0JnWFByaVpadklZZ3RNZDRpcTExdk1icHZJN2FvVTdwU2pHck9jSEJuQnhucDlUY1Vza3JN?oc=5",
+        "headline": "Trump threatens to cut trade with some countries if Fed doesn’t lower rates",
+        "summary": "",
+        "source": "South China Morning Post",
+        "published": "09/05 02:38",
+        "published_ts": 1788543520.0,
+        "tag": "Fed",
+        "first_seen": 1788544834.4074538
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWkRWN3hfYUtEOGVJQXNTMnJPOHl5YzB3azNha1pRbWpfQ2ROaTNFSW45NWtGc0M0N3JOMW9ZQTdIQkRXTlA4el9waDVhclo5ejJ1aWt3WVVOZDF4U1JfWS1CdVl4Rk5JYUg2bGJNV05od0djS3V5aHJwYzJoRUdVY3VWNE5TVnJ2dmR0VWNpZDR2YWE4WndFMW9ZRXU5cE9SYUhSN1JpMDZmUkVTd2NxN1BvZ3BncURKc2RhRndvUFE0UDdEZnllOGJHeVZrWjB6YUpvU212a0lHTjNKTFNsYw?oc=5",
         "headline": "Global macro outlook: Hormuz, Fed hike odds, and the bond rout — week of September 4, 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788511730.0,
         "tag": "Strategist",
         "first_seen": 1788513327.2521274
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1xWHBtQmZjbGZySmcteGF0R3VqMVprbjlPbHZhQzdUUi0wRWZNaEhNNmxTWnRqT2ZDdjh5QkV3TGJvTk1PS2FEeW94bFROaTBZbVQzZGg4R3l4aHFWTW1pNWtfc3hWR2VDckxrNXVmZFRWcG0yYnc?oc=5",
-        "headline": "Not so fast on rate hikes, some Fed officials say",
-        "summary": "",
-        "source": "Axios",
-        "published": "09/04 17:43",
-        "published_ts": 1788511437.0,
-        "tag": "Fed",
-        "first_seen": 1788541237.2435129
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 02:45:49",
+  "updated_at": "2026-09-05 03:01:00",
   "yields": [
     {
       "label": "3년",
