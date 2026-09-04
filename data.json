@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rdnJsYjM4MThMRkVKb19MdUNiN3Y5bmN3RXNrelVUVlN4X2VLWTNYZXFEeVVqZnRsUTUtaTlRb1RnUl9zemlNSXgxUG02eUFpY29CZU1qZDJaR2IxbDE1TmhLMk5ZV3M?oc=5",
+        "headline": "원·엔 855원까지 밀렸다…일본 국채금리는 30년 만에 3%",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "09/04 15:15",
+        "published_ts": 1788502500.0,
+        "tag": "JGB",
+        "first_seen": 1788503429.5775735
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VOHRCemZaVFFfNlV1UDctOWJOcWY0SERBSi1kRkVUd2s1RHoyX1dzODVtTjVyV3RQeFYxOTUzb1NNT09UczNFVXVnLXNhUWxER0dJWEVZNVdvTjBBY19WOHNTbS1YRmFtbDRhWFlsUEJIOFV3QUFFT0FxSdIBgAFBVV95cUxQSHgtdUNNRkpfbVk3WkJiWGk3ZTcxbVNCRE04SGoxUURHSjNXTXdxVmZRTzBUTjlWdXRoQnpwYkFRZjVoTGp6OU9ZclBpOUZSY0htaHVycWpRZTlaMjZWZVJSQzJoWUF3aGtvYW1odGdDQmRmbjNTbXpZTUFxNjBRcg?oc=5",
         "headline": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788467160.0,
         "tag": "Fed",
         "first_seen": 1788467431.7162845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdTdOeFFxM0xiOUVmNlItM00wQlBPV0drelJKRVg1ak1lM09LTkRLSE9Ta1hBTmFoUm9mMlN1NTZ5TFpvT3o3QTZReW1kOTNCZDh6d05DcGtKZHBuOUxCalpZb1B6R3BLblBsYXBteExZUmVKay1OLVR4Z19GN0tQaUJCeFJDLWc2ZGZQeXM0V3hFbi1wN09MUS1ZZnhYT1pBVkdBX1VWMlU2NDMz?oc=5",
-        "headline": "The Fed’s ‘Family Fight’ Goes To The Baseball Diamond",
-        "summary": "",
-        "source": "Investopedia",
-        "published": "09/04 05:23",
-        "published_ts": 1788466995.0,
-        "tag": "Fed",
-        "first_seen": 1788474632.475946
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 15:15:47",
+  "updated_at": "2026-09-04 15:30:53",
   "yields": [
     {
       "label": "3년",
