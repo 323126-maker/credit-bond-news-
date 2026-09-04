@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb2NWMG5tWE1nR0I1aEQwXzVCMkhjbzJ6c0dyRjE2V1dZcy1ERU1WbnFQamprek9VU1o4OUJHTjZLeTlxNHV6dkNlR3BqcEtiRVZCU0loVnFHOEY1cVFScWdBbXRuOHdBbkZTZEx0SzI1UnNaeVRTODZrVHNrdE05SlRnaUxTZ0dQOGEwMGVWdEZDTFhsNkN4eGUwWQ?oc=5",
+        "headline": "Japan 10-Year Yield Falls for Second Session",
+        "summary": "",
+        "source": "tradingview.com",
+        "published": "09/04 11:49",
+        "published_ts": 1788490140.0,
+        "tag": "JGB",
+        "first_seen": 1788491762.554411
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pcXFWOGk4RTQzTGJCdzdXeDM3RWt6ODNJQmlpVFM0WXA2eEdIcjRsZGZSOXNTNlk5MjRkTGNuM3cxRks4TE90UlBtenoxeGhWNE1BQ1d3M21ySjNBRW9VVGpJazNMQUnSAWxBVV95cUxOaGpOWllZOUR1VUlTbHc1a3lkOTIyVS1Ec0s1QjhhNmlVOXpMR3lZLW5GNXo4UkdVVHdmWmxzZWdNRUl3QmZvcnRKOVp6TmVjejlpRXcydEctQWhLdUlhWUpuZkJ2ZjZ0RjdMNlI?oc=5",
         "headline": "워시는 원칙, 이사들은 '인상'·'동결'…연준의 '역할 분담' 화법",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788451680.0,
         "tag": "Fed",
         "first_seen": 1788462924.4118838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMXZndnBEOUlZWWJzRWRZdmZIbEJmekxlX1JYNnN1SVE3d2dWYU9ta0pFbmhwU1dsR1RGdkxzdkY0eDlTZEIySWF5d19ZZjE0Zm1RNDMzNGpqUjdwR2ktV2NvY2lYX0tYN2VuZjUta1hZZnh3MTUyc0J0UTBpVm04T0ZheHpaRFVvaWZxRWxjQlk2SzdfVzJzVzJ5MDlsTjdVZGFaMENCM3pRV3RYYlBkamNfQ2ltamdxazRiM1E2N1h0c2M3QWNudg?oc=5",
-        "headline": "The Fed’s Waller Says He’d Hold Rates Steady — But His “If” Is Doing a Lot of Heavy Lifting",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "09/04 00:47",
-        "published_ts": 1788450420.0,
-        "tag": "Fed",
-        "first_seen": 1788489928.6715956
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 12:01:11",
+  "updated_at": "2026-09-04 12:16:25",
   "yields": [
     {
       "label": "3년",
