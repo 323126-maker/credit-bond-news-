@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTi00WlBmRjRleE9GOURYVEl5UFk0RjFXRDVGSFdSR0I2elp2MGhybTY5SUtLeGhBNlV5Vi1vNXRONTNxTkNTYXFobTItUEN6NE56ZjU5ZHBTZFVSNEFTN2VOVTNSa3UwVDlGQ3lwNGt4REh5ang4S2VUS0hvQVQwUE5mcURLX0VtaHIzM0hmNFE2SGNBazgtdUlYLXlMZUlOZGJmM0MwYWQzT09DSVE?oc=5",
+        "headline": "US Yield Swings Abate Before Jobs Data After Volatile Week",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/04 20:14",
+        "published_ts": 1788520457.0,
+        "tag": "Fed",
+        "first_seen": 1788523234.6260853
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PQWh2SU54TW9RVzkzWS1tSzhqLXg2UmdfQmxXSUJKbnFwM2FCd1BwcU1jMGdwRnRrVGVZbXpxNFZaRGEzZ1gyZXpTTjJyVXY5dm0weHNvbWVxM0VtelRLRzQ2MFlBOGFvbEt1TDVrTzRVb0NVQkpXb1oydw?oc=5",
         "headline": "Morning Bid: Bonds’ reality check",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1788517081.0,
         "tag": "Strategist",
         "first_seen": 1788522324.6245973
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkxDXzVMaVZIWC1kbjlOQ0gwNGNZTUhWTjRvLVJxdlM4bTlHaWNrMnUyY1BZa0NVNk96a2FSeUJ5eEZFSmYyRkFFM3ZYYV9saUstLWh2aHprM0pFNjEyMzZMakowd1dubE4xMUttN3h0WjhmcDdEXy1iejhqcXlGX3VZTzJkOTJGX00xTWwzWmxKemtubVpGVF9MWnhMQ3QxSFd6VWxvNEZjZmVBYXJJRA?oc=5",
+        "headline": "Nasdaq 100 Forecast: NDX slips ahead of Fed Chair Warsh’s speech",
+        "summary": "",
+        "source": "stonex.com",
+        "published": "09/04 19:12",
+        "published_ts": 1788516735.0,
+        "tag": "Fed",
+        "first_seen": 1788523234.6260853
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLTliX1JvaHdCMEtKT0kzN01JdE5fN3B1dVZFaHI0cGhzTjZIakw3OTY3T1gtdXhxQjh4Z3NpQ1NxVzZpMFZVUGRlUThUVlRBdXU5ZjhxVTFlZkZhYjc3WWJTYjdjc2JSNm5uRFZfbktFVmxLa2E2NE01c3p1dlpvNFVtV21iWk5ZaFcwQ0hoQ1I1VlUwSWhFMkZZNWt2aGJ6SDYtT293?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788487971.0,
         "tag": "JGB",
         "first_seen": 1788502524.5852952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5rQTlTU2twMnQyRFk3Y1lCbmREWE1GVDhLRHo4Qm4yOHpDN21PVnV1S3I3VEI1dmg3M2w0VFU5dVoyUHZ2Qk43M0RRRGh0VTNKNDMxZUNPRTNaU1JBakJWN25xMGtSVGlrU19mSEhfZ1J4N1BmN2ktaQ?oc=5",
-        "headline": "국채·회사채 쏟아질 美채권시장…월가, 워시의 '인플레 대응'에 기대",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/04 11:12",
-        "published_ts": 1788487920.0,
-        "tag": "Fed",
-        "first_seen": 1788489029.8065245
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE15dTZDaHdTOTktQ0ROenJSZjdpVVNjeW81REcwM251a2s2bDkwa3ExQ01oUE1qcG40MHFfOGFqeURnSUpKVmdKTS1SYjFlSHN2ODBjQm1JeE1YR09VdngxS294SHlMUTAtV0c00gFvQVVfeXFMT0pQckEzOVhPMmpOckF0RFVWUEZpcUpmODkyQjYxN19aUUlTdjI1aHhwZXVxcXU5WXhRUDUxYUdNNkRXUlNzVnFlR2JmRGZRby0zV3llSURwVjc5N1hBY1F0VWlkMWNDUEFPaDM0Vm1z?oc=5",
-        "headline": "엔화, 달러당 155엔대로 상승…일본은행 추가 인상 기대 확산",
-        "summary": "",
-        "source": "더퍼블릭",
-        "published": "09/04 11:08",
-        "published_ts": 1788487732.0,
-        "tag": "JGB",
-        "first_seen": 1788489029.8065245
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 20:45:49",
+  "updated_at": "2026-09-04 21:01:03",
   "yields": [
     {
       "label": "3년",
