@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yc2htdDNpRTdUczRRa2c1TFJsVFRDeC1pYjMzb2dfQi1JbTZxWUNDYS1kQlJ5eTY1eUFJb01zb1htZHBucmlJcG5uOEN6Vk1ORFV0N3R1ekdUUzZMMm9rVmN2RS1mZUV2Y1pQOE40akw?oc=5",
+        "headline": "ING \"세계 채권시장, '티핑 포인트' 진입\"",
+        "summary": "",
+        "source": "news.einfomax.co.kr",
+        "published": "09/04 11:09",
+        "published_ts": 1788487763.0,
+        "tag": null,
+        "first_seen": 1788488125.0563378
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CODRHekx4ZGNhenJrcGdLV3lhTGp4bEtKbWFPS3JBVTFQSm9FX1FVRWpQMUp6UGZITmtnMjVheW4yQm8zM1FraEh3eFBRdVJlamNaVGpBN1BJQ25KX1FsVm84c19WWkdIUVVlRE0xU2x4SEFBb01jbQ?oc=5",
+        "headline": "\"소프트뱅크, 개인 대상 8.7조원 회사채 금리 4.75%\"",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/04 11:04",
+        "published_ts": 1788487440.0,
+        "tag": null,
+        "first_seen": 1788488125.0563378
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA3ckhySW85VlV4eVBSTTNvbDFjZjFxN3k3TzJOS1hSSXBUNVBUbVVjYlN2MlZLUTlnbklMMlpoVm9MYS1iR2lUY21aUkwyVUdQWms1dUQ5MzQxVEo3ZXZmMnlheXNEUV92X2ctaENNeWFiMlnSAXdBVV95cUxPZGtaRjdhbmNmdk45U0VqUDlxWGtCYzhGUF9CUnJKRmtENDJNWXJvUllYOWo3UDJXekt3Nk1YNnpSb3FlRW1nUmVkc1ZmZ2lvYUNoMVN1NmtlQTloc0kzM0ZKSF8zWVBHaTVqT05PRmVQRHB3Qm04QQ?oc=5",
         "headline": "‘유럽 투자 후유증’ 넥센타이어···신용강등 막기 ‘처절한 방어전’",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788391800.0,
         "tag": null,
         "first_seen": 1788471928.6821108
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE4yTk5odzBRQ0ZESjhXbWVfMmJfdjFvU3ZpamxueGNRc1Y4ZUM4SXBsa21fSm8xblduNTVyVWVnRVhBbG5HQkFyZjAwLUJaVl8tcE8xYjdDeVFoMzQtZXFXYXZ1NXBXQTZoWE4xQ2V5aFY0a0taRHU2NUpyc9IBgAFBVV95cUxOT21Lai1FdXM1RUNIbUJkVmY0QzlFM3lFcFh3aDRJaENfb25faVdSWDRTQmtVeDRZLUpaQVdFOXFoWDF2bHdsRXN1TUpScTJRSmRsTFVEcXZ0VUVjRUloeHZuSjUtWktIWEpTcEJNM3k2RHAyU2stVklsX2hPelFZVw?oc=5",
-        "headline": "美 10년물 국채금리 4.82%까지 … 글로벌 채권시장 매도세 확산",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "09/03 08:05",
-        "published_ts": 1788390347.0,
-        "tag": null,
-        "first_seen": 1788417031.7779145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4xdTh2Sk5NNEZ1elk1TTN0ZGVzS1NPYVVsYjFGVEp5cW0tMHViNk1rOXZmdS1vNzRpMGkxVkFGeFNBSHNMTEdMUFFKLXBsc1dGMVNPSUlpU1I5cmRTOFhTTnM3OFI2TjJ1TlEwd3ZTQkNNUQ?oc=5",
-        "headline": "미국 10년물 국채금리 4.82%…유가·재정 부담에 채권시장 흔들",
-        "summary": "",
-        "source": "톱스타뉴스",
-        "published": "09/03 07:53",
-        "published_ts": 1788389637.0,
-        "tag": null,
-        "first_seen": 1788413430.4031441
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wN2JVTmR5bzdWSmZpTzZ3a2diVFlqNUs4NXIyS3d3cVNHU2tDakFrYnNpM1FKYm4zZ2hTSzhZT3JIS04zVktPeVBiVzBrQ0ZodEJMUWxHVkQ5aXNRQ2V1clpaQlphZ0czd3BiaVdoNGLSAXRBVV95cUxOT1hvTG0xX19qa1Vjb0VGTXVjOWttOWptd1FtcWkwdV9MX0ZPb2pJeTdZdWhDYTJXLUR0d056VXJ0ZTMtdFNsNkhMckVPcGl6TXdEYzZiM21oZTNuV05JelFDNnNRUnFUc2RNM2lMencxTW8tVw?oc=5",
+        "headline": "국채선물 강세 출발…간밤 월러 발언 영향",
+        "summary": "",
+        "source": "news.einfomax.co.kr",
+        "published": "09/04 11:06",
+        "published_ts": 1788487615.0,
+        "tag": null,
+        "first_seen": 1788488125.0563378
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnTUQ0NGJvb1VPTnRtQy1GV2gxNWFMdDdUb3UxTDhPbXd6U1dWcmItMHdTTUM5bEVDLVo1TzVmQ1lGanVRLXdXclBrc3NQdnFWTzNUUU52Q05JZjhvMjQwdU93aFJFODFQNzRuaWlWX1Q?oc=5",
         "headline": "[0904개장체크] 크리스토퍼 월러 연준 이사 조건부 금리 동결 시사 발언…국채금리 하락 By 인포스탁데일리",
         "summary": "",
@@ -1596,19 +1606,29 @@
         "published_ts": 1788237279.0,
         "tag": null,
         "first_seen": 1788237925.1173246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WenoxZGUxZ2pVcTAtalFDTkRPdDlLUjNJejMzTkxqR3JUeUt5Szh5VG5NREFJTEloak9sVVJQbE5XMDhzY2xyRGFSVHRwc3MxaTVNYjhhRy1VMWM?oc=5",
-        "headline": "내년 예산 821조 “기록썼다”…반도체발 세수 584조, 미래대응기금 162조",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "09/01 13:26",
-        "published_ts": 1788236778.0,
-        "tag": null,
-        "first_seen": 1788237925.1173246
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUUlFTVk3czFLd0N6NzU4ODRTSnZyR1FHRkFUV1o1N2FaeGg0STRFa1BURmowMDgwUWs5bEZCWHlwSy1FYmdNUDYyTVV3VEVtRm1fdDc3ZVRiSGhoSVNQdXpBempVMW5qaFF5M2djTGlYN1QzNVU1d0RCN083TVh4c1ZtY042YkZpeUp3d2RCRFltUG1pdVFBOGM2ZWhSYW0wT2h0UnRBbmxBS09jd1FYR1d0VkJ4QQ?oc=5",
+        "headline": "Why Is Goodman (ASX:GMG) in Focus as Debt Costs Rise?",
+        "summary": "",
+        "source": "Kalkine Media",
+        "published": "09/04 10:59",
+        "published_ts": 1788487140.0,
+        "tag": "Global",
+        "first_seen": 1788488125.0563378
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81Ykhfb0FSclJLZ2VEb3loNVN5YWR5cElLOWF1YllHczV3Z212VlZ3SnlMS1dMeUxlUFJLZ0lpSjdnV19GM1Q5NWFDM1YtVzRZM1HSAVNBVV95cUxQYXdtUHkxMENNbW5EektyUC1qOHM0c1BRT0ZsVzE3RkFYWG1wVDctMm93WFJPM2pQd3dHUmcwWjBZc2h3RHpoc0lvc2c4UlJ1aDM5bw?oc=5",
+        "headline": "“美경제 좋아 이율 높다”는 절반만 맞는 낙관 [트럼프 스톡커]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "09/04 10:57",
+        "published_ts": 1788487020.0,
+        "tag": "Fed",
+        "first_seen": 1788488125.0563378
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92V0xheVNiTzZLdFNfalJMZDZ6dGFJeEduUXpxRXdfN1BkTk9LcEZsbDgwY1lJdmZfcFEtWE5qeW03eUN3UV9SZ282djRxZ1FXTUIzZWxuakJzTHhtYXZXQlhRLV8?oc=5",
         "headline": "메리츠증권, 일본 국채 30년물에 투자하는 ETN 출시…국내 상장지수상품 최초",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788448657.0,
         "tag": "JGB",
         "first_seen": 1788471029.7494626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTUtTb1RwSk1uVUtvR0FjZ0lxSWNFN2RPY3lkbFJrN0wwRVdUMklzNV85SXA4UnBDUmlmSWhzb1FvLXQ4Q3FNSTFvTk1leldnRDdfTE9qd2VSSklBeWVjdEV1N1p1VFJlUHlYN2RhbFV1NWFpa2lrRVNXdHVGenloaU9GLXdWQmRZeUNXbDUwaHFVNE9DdjJYcw?oc=5",
-        "headline": "S&P Global Ratings warns of risks from China's generous credit ratings",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "09/03 23:54",
-        "published_ts": 1788447287.0,
-        "tag": "Global",
-        "first_seen": 1788469160.8591712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81UkVsM3EyazFhSkdPMFhSZEs0ZHJQdEd1b3lGODFiYlBFLXA1UENwR2hIWFpGRU9PdTFEREdDYVFJTXc4a25WT2pSRW5ac24yOXpvSEZhaXFGZGVtRDYxdtIBYEFVX3lxTE81UkVsM3EyazFhSkdPMFhSZEs0ZHJQdEd1b3lGODFiYlBFLXA1UENwR2hIWFpGRU9PdTFEREdDYVFJTXc4a25WT2pSRW5ac24yOXpvSEZhaXFGZGVtRDYxdg?oc=5",
-        "headline": "월러 연준 이사 \"8월 물가 둔화 지속하면 9월 동결 지지\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/03 23:33",
-        "published_ts": 1788446010.0,
-        "tag": "Fed",
-        "first_seen": 1788467431.7162845
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 11:01:07",
+  "updated_at": "2026-09-04 11:15:53",
   "yields": [
     {
       "label": "3년",
