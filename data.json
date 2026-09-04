@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hcklJcVVDMmpaYkxNVXB6ZzI4c2J4WVZNRnU2SDlLMlF3U0JvNkN1NVhFSzNHOFB6MkpnWmo3WmFuMmpVOW91MVctbVcxV3NmMVlTYWNiQngzZw?oc=5",
+        "headline": "\"전기료 미리 내달라\"…삼전닉스에 '25조 거래' 제안한 재경부 [김익환의 부처 핸즈업]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/04 15:06",
+        "published_ts": 1788501985.0,
+        "tag": null,
+        "first_seen": 1788507924.1042504
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zalVSTGJwa3I3amdXbVJia1VPaGdtQXhLdFl1aEhYQTRocXY0bUhoTVlOS1VhS1FtRnJNQXJUcDFES3N4dEc3RlAxZF9QMHRaNTUxNndQeUk3RTMtZVFfTGo5T3NJdWxHbl9lNEZKd0RrZw?oc=5",
         "headline": "국채 비해 잠잠한 회사채…발작버튼 안전지대일까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788421068.0,
         "tag": null,
         "first_seen": 1788458436.3442943
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LYjJLem9IMnR3U0c4UDNTMHdGNEFCOEN0cUlPOTZ2UlJfaWNhQzJMdjE1RnBjMllaWTRFUU9iQ25VaUNkMl94RnV0MU13NEdUZzRoUGI3TmhZQ0s4M095LWZkeXZkUzdzcVc1SUNfVQ?oc=5",
-        "headline": "[금융권 이모저모]한국투자신탁운용, 글로벌 멀티크레딧 펀드 출시 外",
-        "summary": "",
-        "source": "비즈니스플러스",
-        "published": "09/03 15:58",
-        "published_ts": 1788418718.0,
-        "tag": null,
-        "first_seen": 1788480922.1026177
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBsWDJHZHUyU0wyVDBRd3d0TnlKb3gyZXFUNk02T20wU21iblpvWFJ1cnV6YUJ1bHFLamVWaUxpb2J6a1RKY21NNjVfWTdVUU56dHlkRVYtNHFYak1xOTZ2X3E1anJ0OFFKYjg0?oc=5",
+        "headline": "‘I don’t think there’s a floor’: Workers’ share of America’s income is at a record low before the AI boom even begins",
+        "summary": "",
+        "source": "fortune.com",
+        "published": "09/04 16:30",
+        "published_ts": 1788507000.0,
+        "tag": "Fed",
+        "first_seen": 1788507924.1042504
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUFBWeXN4YlJUX1FfYTF2TUNYTXFWdHRwQ1VNS1B4R1JSWEJBWjZSX09JNzhvLTFKWGlPcXFkWEk2cjdTMW10WV9FdzQyMHpyT25lQ0JHM0g3d0EyN21LY0JNU25uQUdLbUdiblh1dk9aaHpBVW9uUHozQUhVdmhiR2R1TzZMNERHTzY1eg?oc=5",
         "headline": "El-Erian expects government bond sell-off to continue",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788470400.0,
         "tag": "Fed",
         "first_seen": 1788472838.213086
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1tUk5lbUJQbGtuckIzY2tIWW8yaXlSd3B5UHQ0cE5pbEZxanRXSWNsMGhvTHJKYTdST2tpNkN3d0hRSEVjdHJvWlhIX1U2TjJCQzJNcGxTSV81bmRX?oc=5",
-        "headline": "BOJ 긴축의 나비효과…엔캐리부터 美 국채·원화까지 흔든다",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/04 06:00",
-        "published_ts": 1788469200.0,
-        "tag": "JGB",
-        "first_seen": 1788470123.6708908
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 16:31:07",
+  "updated_at": "2026-09-04 16:45:46",
   "yields": [
     {
       "label": "3년",
-      "value": 3.888,
-      "chg_bp": -4.2,
+      "value": 3.884,
+      "chg_bp": -0.4,
       "series": [
-        3.742,
         3.746,
         3.778,
         3.808,
@@ -2439,15 +2438,15 @@
         3.838,
         3.878,
         3.93,
-        3.888
+        3.888,
+        3.884
       ]
     },
     {
       "label": "5년",
-      "value": 4.118,
-      "chg_bp": -4.9,
+      "value": 4.101,
+      "chg_bp": -1.7,
       "series": [
-        3.957,
         3.964,
         3.994,
         4.042,
@@ -2466,15 +2465,15 @@
         4.053,
         4.106,
         4.167,
-        4.118
+        4.118,
+        4.101
       ]
     },
     {
       "label": "10년",
-      "value": 4.367,
-      "chg_bp": -5.1,
+      "value": 4.36,
+      "chg_bp": -0.7,
       "series": [
-        4.195,
         4.208,
         4.239,
         4.301,
@@ -2493,15 +2492,15 @@
         4.313,
         4.371,
         4.418,
-        4.367
+        4.367,
+        4.36
       ]
     },
     {
       "label": "20년",
-      "value": 4.593,
-      "chg_bp": -2.1,
+      "value": 4.573,
+      "chg_bp": -2.0,
       "series": [
-        4.483,
         4.494,
         4.555,
         4.639,
@@ -2520,15 +2519,15 @@
         4.49,
         4.559,
         4.614,
-        4.593
+        4.593,
+        4.573
       ]
     },
     {
       "label": "30년",
-      "value": 4.635,
-      "chg_bp": -2.2,
+      "value": 4.636,
+      "chg_bp": 0.1,
       "series": [
-        4.516,
         4.522,
         4.585,
         4.666,
@@ -2547,7 +2546,8 @@
         4.527,
         4.627,
         4.657,
-        4.635
+        4.635,
+        4.636
       ]
     }
   ]
