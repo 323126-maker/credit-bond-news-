@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRnpaeTRlR0hQWjEtb2pCc0otbU5iRjJuYUFCS2F3bld2SHpFQ3ByYnlhZ0hzVkdDekFUYnVMYTNJbDluaUFkWG1EVmVRZXFtMGt2eFkwTHJacklQRzcxTDdpdmJ1UnM4YThNRGVBb0VIcGp5S01EZXNCcmNodTVqQlF0ZmhzYWtyM1hDZy1yY3JMcVpZRDBUOW4wRW5NWFk1aDI5MmJmNkwwSDFQczNGalNrOHFaeEVZSWI1WnY3d0ZrdnJKNk1hN1hEcTFJWDRHOVBKR0RCaDEwOW82c0VYX00tVQ?oc=5",
+        "headline": "The jobs report just put Fed chair Kevin Warsh's new playbook to work: One Big Investment Idea",
+        "summary": "",
+        "source": "finance.yahoo.com",
+        "published": "09/05 00:20",
+        "published_ts": 1788535243.0,
+        "tag": "Fed",
+        "first_seen": 1788535831.729613
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjk2ekViSXMzdkdJd3VoaW93azE2U2hxUVc3Y1cxb0FxaHNQVmsyTUdTYlczVXpTV3F2QzA1bUMtQmlPb2pDRS1sR3VXeFh6RGU0T0tIQm1mMWNDaC1jQnpGN0tTeTA5QTZyUFpIb2JQZHVNbFpGaFZvdHFReS1ZOWtHUzY0cVVTNXgzSHd0MXFsZC02OENOVFlZaExTNWQt?oc=5",
+        "headline": "Trump demands the Fed lower interest rates after a blowout August jobs report",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "09/05 00:17",
+        "published_ts": 1788535024.0,
+        "tag": "Fed",
+        "first_seen": 1788535831.729613
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rNWs2YU53UkJMUVJ0VzdPZ0JlQkRfdi0yZTlHU0FzVXhGOVNpUHFZcXgwZW40U0VQQjhhUkxrdEI0MnZaTTZCXzNvR2hySmd1c1RsV2szQkctUnlnNG5yWtIBZkFVX3lxTE5DQ05TRjBpWFRzMWFrVUNSVm1peG90NDFsYU55dWJHcTNsdVVoZHRJM2xQOS04U1hjXzhiZ2plQ2JhWG4zWlBPSE10MzZMYkhiQ1hrUVViRFFKVkVIdTg1UkZsOGgyZw?oc=5",
         "headline": "엘에리언 \"미 국채 금리 상승, 신뢰보다 수급 불균형 문제\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788506511.0,
         "tag": "Strategist",
         "first_seen": 1788507032.3095357
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IX0pGbF9McExRMUl2bC1xZ3RLOTl2Ynp6c1FvVzZDWU84aHU4RzFrNUU4TG4zQktmNjIzWUZENlE4bFZiSGpoaENTM3JIRmc?oc=5",
-        "headline": "윌러가 공개한 연준 ‘스트라이크존'…글로벌 증시 활짝",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "09/04 16:14",
-        "published_ts": 1788506048.0,
-        "tag": "Fed",
-        "first_seen": 1788527724.1397924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcmNfUzJvOEZ5RlNnTUtZWjdZa2llbGhQUDd2bk9IS1NmdzBUSTg4dW1NY2xxaXhWUFE5Y2hZcmVEODY5MGZjcFBlNkRNempKTHktOHBqQVU3UjhkemdhOGtRS0N1RkV6QzhUc19KTEZnOWg4Y3psUFRDM21JUkJRZE1HNDdQdFhPcVhhVGxwejdOMzVqLUJLUHJWTDVYOTVoTXdJVWM0VnZMRG9h?oc=5",
-        "headline": "El-Erian Warns Global Bond Rout Will Persist Despite Treasury Intervention",
-        "summary": "",
-        "source": "streamlinefeed.co.ke",
-        "published": "09/04 16:13",
-        "published_ts": 1788505982.0,
-        "tag": "Strategist",
-        "first_seen": 1788509724.140123
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 00:15:54",
+  "updated_at": "2026-09-05 00:30:59",
   "yields": [
     {
       "label": "3년",
