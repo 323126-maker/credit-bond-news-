@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNDEzUC1Bb0lOczVCbDlVWGJ1VlQtWGdrYlRrZ2ozUGhqRzFramtncUZZeEFLTWFVZUMwY19zWHMyR1VmbmphSTVPNDAzb1R5T3MzMGVMZzN5SmVYWXE5QmRaR3BJaXZWX0xTdV9pNGpoN3hVdjNkUFlmc2FCSUNUZ3JBRVMtcVU0M05QQUhDX1lkdi1ORzNGaFZZVjVnWWZtWmZuVms0NXZZY1pwYlRzM3E4NnpVQQ?oc=5",
+        "headline": "Trump says if the Fed doesn't cut rates, he'll stop trading with some nations",
+        "summary": "",
+        "source": "reuters.com",
+        "published": "09/04 23:05",
+        "published_ts": 1788530717.0,
+        "tag": "Fed",
+        "first_seen": 1788531207.7891335
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQd0xaSWFxcG5EU25UQnhHaVVMZjJDTGh5SzFMRFBHS3ozNnh2djduR0t2bDdmbEJITXFTRk5hWU9uU3dvVDduYVdrNnFtMlpwcmdYbUplbnVYbC0tTWl5TFFqdGN1WnU4ZUt2UGgyRC04cVdmZWFuaF9YUGxCc00tM3I4UHlFcE5GVkl2OWtIZHp6LUhNWWhYVGZnMXhidG9BSUo0cnhjNFc4TVBXR3AyRW1xLUZJc1VRUm9hdnR3?oc=5",
         "headline": "Japan's long-term interest rate tops 3 percent, fueling fiscal concerns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788504840.0,
         "tag": "Fed",
         "first_seen": 1788508837.989586
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON0o4TjhoWDFPVmxITDhzalVrTXdnWDRUcFd6SlQwdWdZWGtYb2l3dXBCdWlfRmxRY0JmMW9LX0stbWJFVGJfREt2c2ZQU0VjZF9vVEVwcjNPenE5emt3RjM2c0NWdGNpSzd6WU5qVFpmUW5HdFVubHFNQVY2MEw0RjRJWXNlVUxuMVRNQmZIRFktVGNwNDZOOVZZRFU5bTBhU3ZacDZadW9HVWc3OGdhTnQxWmtib2FkMjZhdXJaOVJnOG1nLVlERmV3NWNMZw?oc=5",
-        "headline": "Kevin Warsh Faces Fed Inflation Divide At Jackson Hole: Stephen Miran Says A Rate Hike Now Would Be ‘Really Strange'",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "09/04 15:28",
-        "published_ts": 1788503304.0,
-        "tag": "Fed",
-        "first_seen": 1788516923.992881
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 23:01:04",
+  "updated_at": "2026-09-04 23:13:54",
   "yields": [
     {
       "label": "3년",
