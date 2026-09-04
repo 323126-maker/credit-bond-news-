@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX25aeGxJTk5tU19xZjVlWUdVa0U4QTJkMzI0eTlCVEFXUkwtVDE4NUZ6UnhjMGxnV09RWndTaXdmR3BlTncwSnBFY0xwbXdQVkZpanZKZDdNRno0eGpzMzdOVDAtZG5KZWYwT1QyRnFVQ0dV?oc=5",
+        "headline": "바클레이즈, W. P. Carey 주식 등급 상향 조정… ’밸류에이션 매력’",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/04 18:11",
+        "published_ts": 1788513060.0,
+        "tag": null,
+        "first_seen": 1788514229.7406466
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE85bTdBQkVldW4xUHdoTUVEdkdyTlhCUVJGY3FLQWhqYlNDcWpzNUVnaU9ZVEZJdlE4cml1R1dRWUJTV3pmd2stUXNCZXcxM1VHQWdjUTNBSzhFbU9Kb1YtZVB0ZUstdjJoaExrTENBS2NuZ0lfNlhWNA?oc=5",
         "headline": "해외서 자금줄 뚫은 현대캐피탈…통화 포트폴리오 다변화로 방파제 구축",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788427559.0,
         "tag": null,
         "first_seen": 1788427835.2534082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBBb2U4TkQxeXVOTy01SW96MDNmTk50eXlDdG5Td0phVC0zb29ISzNfeXFXUkdrU2FCeFJZaXpjWWlKUFZHMjExUkNkd0VPWUtXb2owYkFEbTVwRlByWVQyNDNxUW1ZbTFScTd4SW5kYXBZUUdJNmc?oc=5",
-        "headline": "글로벌 국채금리 급등의 충격과 연쇄 파장에 관한 입체적 분석",
-        "summary": "",
-        "source": "데일리머니",
-        "published": "09/03 18:20",
-        "published_ts": 1788427228.0,
-        "tag": null,
-        "first_seen": 1788463832.0282028
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWFhhUldweWlWV05rc2R5N3ZZM24zZlQtWlZ3WUphZ2E5bnJaMVRuS1ZJZ1pFa0N5MGc3b2szNVBvUHZJeUZwbWNOc2UzSW9XUTZSYWxac0dybjdZd3Zfdy1qY0VOQzdCN3FqZUVTcnpYWEtvYzlNaWgyUDlJa0pab29iRW1aWWgwNnVpYV81dkx3NjYzS3JHSHpWeFI2cm16N2FHZHE2Q3dCbHlFREluM0xJUThoR1U4eG1CTGJmWndXaHM?oc=5",
+        "headline": "Roubini Says He's Not Concerned About an AI Bubble",
+        "summary": "",
+        "source": "bloomberg.com",
+        "published": "09/04 18:21",
+        "published_ts": 1788513698.0,
+        "tag": "Strategist",
+        "first_seen": 1788514229.7406466
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYUItQkdaR3AxeVdfSXZIbk1vLVNMMUI0MzVzTDBwMFpfV0VmMFBQVjgtbW96aUVkOGpOajA1MWkzOEdaa1RfSm16NjljQjdHckhrTGc1RzFVd0plWjNHckxFZXltTnoxWm90REtKcGZqZThGekRneG5BTGh4aU5tenlKdDh1QUFBM1FpRC0yVlBuVnZ4UzYyWW9yNFVyLUJOSXM1WWhmeXV3d2czUnpZajRydkc?oc=5",
         "headline": "Roubini Isn’t Worried by Higher Bond Yields With Rosy View of AI",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788478752.0,
         "tag": "JGB",
         "first_seen": 1788505236.9689057
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1QcGtWY0FmRzkyWW43MEcxMU5KWFNOWmMzbndCMXBEMDJwd3V1RHNsbkdzRHkxalFmM2VIM3ZuRmhqU0Q1OVN5U29uSXRDRERWYnBjRWJCMUZCQ1hxVkE?oc=5",
-        "headline": "일본 경제 덮친 무서운 경고…재정 악화와 엔저 터널 '공포' [지금이뉴스]",
-        "summary": "",
-        "source": "YTN",
-        "published": "09/04 08:31",
-        "published_ts": 1788478260.0,
-        "tag": "JGB",
-        "first_seen": 1788482723.620617
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 18:15:58",
+  "updated_at": "2026-09-04 18:30:53",
   "yields": [
     {
       "label": "3년",
