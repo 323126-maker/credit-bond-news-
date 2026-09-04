@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNnlvSHFzZGhidjNDWkRxaWpXVUc3VkQ2ckwyaklvVGh1Vk9rc0dhUzc3LVVxNFVxd2FJMUtnbndVOTRGQkdCbHlSdHBOM2JaSm9qb2cwQWVkT3hQazBxa2oxdGpqRmw1ZldYWEpPNzE5WlJk?oc=5",
+        "headline": "레이먼드 제임스, 사우스웨스트 항공 턴어라운드 진전으로 투자의견 재확인",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/04 19:20",
+        "published_ts": 1788517200.0,
+        "tag": null,
+        "first_seen": 1788520525.9576182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX25aeGxJTk5tU19xZjVlWUdVa0U4QTJkMzI0eTlCVEFXUkwtVDE4NUZ6UnhjMGxnV09RWndTaXdmR3BlTncwSnBFY0xwbXdQVkZpanZKZDdNRno0eGpzMzdOVDAtZG5KZWYwT1QyRnFVQ0dV?oc=5",
         "headline": "바클레이즈, W. P. Carey 주식 등급 상향 조정… ’밸류에이션 매력’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788434520.0,
         "tag": null,
         "first_seen": 1788487241.0991027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EQ2tUanpJamIwaHkzcjdyWldVT3h6cW1XMXl5djB6bTBZVU9aYzBsc25nQlFDd3NzMmVUY0NheFMwWWlISS1UemhuNWsyTVZkdFJZSzZIbzZ4RFhMMm9uazBLODBxWGRmOFpwMVBpUTM?oc=5",
-        "headline": "[채권-마감] 금리 하락…글로벌 강세 속 外人 6거래일만 매수",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/03 18:39",
-        "published_ts": 1788428379.0,
-        "tag": null,
-        "first_seen": 1788510636.6553369
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5PQWh2SU54TW9RVzkzWS1tSzhqLXg2UmdfQmxXSUJKbnFwM2FCd1BwcU1jMGdwRnRrVGVZbXpxNFZaRGEzZ1gyZXpTTjJyVXY5dm0weHNvbWVxM0VtelRLRzQ2MFlBOGFvbEt1TDVrTzRVb0NVQkpXb1oydw?oc=5",
+        "headline": "Morning Bid: Bonds’ reality check",
+        "summary": "",
+        "source": "93.3 The Drive",
+        "published": "09/04 20:01",
+        "published_ts": 1788519663.0,
+        "tag": "JGB",
+        "first_seen": 1788520525.9576182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBUc044eTJtT3phSzFXclhIdE03Yl9nUWV0MDVOS0p3dFdJYWxYT2JwQmxYaHM4cm9yaElFUVY2dGMyZUxhN3FUSWlfTGNsM0doWWJ5ZnoyTVRVSjRT?oc=5",
         "headline": "'채권시장 거물' 엘에리언 \"국채 매도세 더 간다…수급 불균형이 문제\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788487020.0,
         "tag": "Fed",
         "first_seen": 1788488125.0563378
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE92V0xheVNiTzZLdFNfalJMZDZ6dGFJeEduUXpxRXdfN1BkTk9LcEZsbDgwY1lJdmZfcFEtWE5qeW03eUN3UV9SZ282djRxZ1FXTUIzZWxuakJzTHhtYXZXQlhRLV8?oc=5",
-        "headline": "메리츠증권, 일본 국채 30년물에 투자하는 ETN 출시…국내 상장지수상품 최초",
-        "summary": "",
-        "source": "디지털데일리",
-        "published": "09/04 10:18",
-        "published_ts": 1788484723.0,
-        "tag": "JGB",
-        "first_seen": 1788485468.933596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-04 20:01:01",
+  "updated_at": "2026-09-04 20:15:47",
   "yields": [
     {
       "label": "3년",
