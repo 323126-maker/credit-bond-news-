@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR1NkRjFSMVItYWJoYWpnNjE0QmxqaG01eVFwOXdqZ3ZreU1zeDlJRjlYNGVqc3JvamxVMl9YZDBWdVhPcl9xVTdZTkNFZUhyd2RBa050MGZhU2FEbC1JWWxHeTFlUlFOaDlxVjU4WUFycFRPZVBHejBJcVlPc01ESjhPZ3Y1Nnc?oc=5",
+        "headline": "S&P, 히타치 경쟁력 강화에 따른 전망 상향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/05 00:12",
+        "published_ts": 1788534720.0,
+        "tag": null,
+        "first_seen": 1788539430.4641123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVR19aV01rT3BEWFhkbHBWWG1fV09wUi1henIwWGluLU1kUk9RS0kwYXBObDZLd0lWV1pMQjJLSVVpNkFfVXU0LWZsOGdJSHV5ZGh4azlzY0ZoLTFKU05tWHlBbkFnU1J0SEhKb0dZRHVnQQ?oc=5",
         "headline": "[가상자산-톡] 원화 스테이블코인 열풍, 외환시장 흔드나... 한국은행 \"글로벌 중개자 개입 시 환율 변동성 확대\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788462000.0,
         "tag": null,
         "first_seen": 1788462924.4118838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9jcXhySjRfYUVxUENRanAwLXFOblk2WEJjOWdOdUZsWmhiRWc2emhuaEQ2S3A1U2tac2V2T3VobTBlWWNUamp0ODBBR2E1V05sYm03QWdWWQ?oc=5",
-        "headline": "글로벌 채권시장, 삼중고에 몸살",
-        "summary": "",
-        "source": "technovalue.com",
-        "published": "09/04 00:15",
-        "published_ts": 1788448512.0,
-        "tag": null,
-        "first_seen": 1788471029.7494626
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVlNmT2trT29jc0wwT1NUa2ZLRHlaMmJIQlhDTk1EYlZ6bE9sVkFkOFVwSjA3WURQenNOd0RhY1FvaVBodFd6VXVqbzZRNzNQU1hyOW9FVzRvbENhRjJGbS1NMUdwTzVjVkh3TWF6LVFjRzBJT0J4ek5zcG9ab2lCdkxRV1g5Q0ZyS3pkTEZOSktOQWZDOVlRdQ?oc=5",
+        "headline": "New Fed Chair Kevin Warsh Promised a Policy \"Regime Change\" to Defeat Inflation When He Took Over in January 2026. Has He Delivered?",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "09/05 01:18",
+        "published_ts": 1788538721.0,
+        "tag": "Fed",
+        "first_seen": 1788539430.4641123
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOOXVrOU9sSHRobUgyYzhER2U5cXZPazJYWWdlRUJYbEQ2Yk9iaFZvOHUyajN5WDMxTkR0U0VPR1lxSDVwNl9OR0stMGpsS1dtNmp1NmNsTVdMYVdIUlNvbnpULVNxTmVDdzQtV3RJSWRKclFCWmNGd0lDVXFNd29WbFFkak16X2dwOG1lRWt5VURJV01TQjVMeEhIZ0VFd0JxN0ZVQ0ZCZDZnclN2cDVV?oc=5",
         "headline": "Why Debt Maturity Clustering Is Becoming a Treasury Operating Risk",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788508401.0,
         "tag": "Global",
         "first_seen": 1788509724.140123
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIUFpVSmVETE9xalRlUnhjc1lSTTJOSnZrLXl6bVNCWS1WQzB1U1VrYzd1NGtzMVdxSTY4cW51Y0ZjWlNYSXo4MEZ4cTZuZlo3dnVMdVAwM2k0Q1I4M0JoeWxwZjZkZm0wU1ZQVUoyQQ?oc=5",
-        "headline": "메리츠증권, 일본 국채 30년물 ETN 출시… 장기금리 변동에 베팅",
-        "summary": "",
-        "source": "Korea IT Times",
-        "published": "09/04 16:50",
-        "published_ts": 1788508210.0,
-        "tag": "JGB",
-        "first_seen": 1788517830.7590923
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 01:16:16",
+  "updated_at": "2026-09-05 01:31:03",
   "yields": [
     {
       "label": "3년",
