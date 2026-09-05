@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjQyWU1hemRtMldtOW5mSjVWeld2YXNfVW1SRjE0N0VLQkJQTWJJQXNvbWg0MDRNNlN1RDFIQVpRNDRLc08zWTR6TXlvd2VrY1NfcjJpdHpXMEF6VjItYXZ3OFZDbjhnbDdhSWtqZGdySVZQU1ZmUmFVREE2cXRHY1NaVFBKQjVVdS16QVJyYzZ0ODljYUE2UVVHSXpCdS1JZi1BSExIRWNTUVU?oc=5",
+        "headline": "Japanese government bond yields surge by 4%, narrowing Metaplanet's Bitcoin financing advantage",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "09/05 10:10",
+        "published_ts": 1788570609.0,
+        "tag": "JGB",
+        "first_seen": 1788570921.9950602
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTliVVZKY2ptbllvQXRaeFNxYUVXN0tVVnlKb1BRclBwd0JSVUs5NjFydmU4VzBTWkdlcnRyTzY3aEc3R1hPOGpqRFNKQkY3ZTlVQ19rdU9BcVhMVF80b040UW1IZUo2WFVWMlpTYk94dl9NRFg1ay1ha1dpT25OY2puVXA0V2NiNnJTaFFnQnB0VF9WbnlQSzdtNElJeGdZLUNFbnE5TFFIU0xnbjUyZmZNY25WcFdIaUZJUUxYWk85QQ?oc=5",
         "headline": "Amid a sell-off, Canadian bonds are ‘well-behaved’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788528120.0,
         "tag": "Fed",
         "first_seen": 1788528631.4093275
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU0NWZTRSTG5teEJyY1dWSFJnb1lUVEFuTnZaakwyUFI2LWczRzl4NDJNZmxZclZQZjVwWG5SdE9Na21IdmJ3bVdjVkUwUjVwWjJzTWNMcDNTNFM5SXJ3clg3ajc0MXVHZHFUUVYwMXZUdU1aUlcxdWF5clRDaGYzR2o2S2NLekNUSXd0YU1Gak5QbC1iQkpNWVRldnk4STRaX2Rmb01ERG9aaTg?oc=5",
-        "headline": "[재정운용] 금리인하 기대 접어라 — '워시 연준시대' 시장의 문법이 바뀌었다",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "09/04 22:21",
-        "published_ts": 1788528061.0,
-        "tag": "Fed",
-        "first_seen": 1788542124.7348964
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 10:01:04",
+  "updated_at": "2026-09-05 10:15:47",
   "yields": [
     {
       "label": "3년",
