@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBMeG1EdnFxMXlEaWZHd0c4MF9zbGFYOHgyaHcta2FaaHZPN3Z2d0xTbHJmMGpmaHJNeHhHTXZwOTZKOUNOeUlqb3JuUXRMSlNVTldSMzdNVVZuMzBRa2lmWWNUUkFjeloxb0ZGRG80WE9OS1nSAXdBVV95cUxQVFBQWUtKbWRZc2M4My13cndnUnBoVDJJWFJ1bDh1cVotRDhld1hqeWljQ1FpQ2lNdzZDTjVrM1B5TFVHTnpNZHRUVlRHbUJ4REJ2Z2ZmSFNtMzR1Y3pLTmZvd1NQSG1ERm1JY0dMZW5EUDNIX0wwWQ?oc=5",
+        "headline": "코웨이 9배·하나증권 7배 몰렸다…회사채 시장에 무슨 일이?",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "09/06 07:03",
+        "published_ts": 1788645821.0,
+        "tag": null,
+        "first_seen": 1788649236.2421405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBTR3ZGUHVZZlAzc3lMd2Z3ZHdZME1HcWVqdTFIOXl4MEZ3dHdQRjNWN0h4a3kzbjNYMHYxMklzY1hudHU1ekEwMFpROTBkMklKQV8xQ2dFUm1zMFliN0lpcUdySDhxUDBwQlpwQlBiUXItQW5pV1FJNw?oc=5",
         "headline": "추석 앞둔 9월 크레딧 시장…수급 우려 속 '선별적 흥행' 이어질까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788512880.0,
         "tag": null,
         "first_seen": 1788513327.2521274
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ubVNZU0FvQkpoVThLZVIxN1owSkswbVY0Z0NSdmJEd3BwRVllLVlQdEhkWkdNYm54Wmo3VDNCUEJTRHQ2d1BSSDFBdDJjSEU5R01hMy1nRzE2QnVYTEFITzFraklEVlotaERTZWg4UlA?oc=5",
-        "headline": "우리금융F&I, 회사채 1,500억 모집에 9,520억 몰려…NPL 투자사 조달시장 ‘온기’",
-        "summary": "",
-        "source": "thedailyeconomy.kr",
-        "published": "09/04 17:40",
-        "published_ts": 1788511228.0,
-        "tag": null,
-        "first_seen": 1788512437.5821238
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 07:49:00",
+  "updated_at": "2026-09-06 08:00:59",
   "yields": [
     {
       "label": "3년",
