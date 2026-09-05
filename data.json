@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObkw3Ym54c1hlb2RoQno3T0tyNE9qc2lqZUQtdEVCaVV2MFlEV202bFQ4enBQaGdNeW1tbzRRZHNOT1JiNUdFZmxnTGt3Y0h2ZHN6NXRhNFQ0VjFYa2ZWOFF3aDlEYlpvbUlEbmZqamp3OXJhX0tGRl9TUmJoTC1ScWwwZjRzS3NQSGVOSmxtanZDbk1xOHNJeEpvYkU5cWhOVEkyV0hjXzBQMXFrUzNndjNRWU9Ud1c1dHUwZTNLRWFtUjBxWkpLV2pzWGVELXZ4WkZvOVQwYWZSdlpvemN5c1RrTTlKX3pwcmRaN1dDLXNFMjJiN19RbHo5ZGd3Zw?oc=5",
+        "headline": "Will 'bond vigilantes' claim another PM? Burnham's high stakes battle",
+        "summary": "",
+        "source": "thisismoney.co.uk",
+        "published": "09/06 08:01",
+        "published_ts": 1788649312.0,
+        "tag": "Fed",
+        "first_seen": 1788650123.4502797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNnd5bl85ekY1RXRtczJwRjNSc3RxLUQ5SngzT2pfdTZsejlTT0JZOGRjeUI2SG1lZVJGcnZwWXhxWUlHLUNrNUQ3OUpDMHZTaXFSWjI2MGJBZ1N6RWt4X1F3QnRIMlhKT3A1RTYwUE1Lc3k2a0ZXRXpNNWZIOWkwR1F2SWh3VnRSaGFrYV9n?oc=5",
         "headline": "Federal Reserve Chair Warsh's Rate Hike Dilemma Under Trump Pressure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788565839.0,
         "tag": "JGB",
         "first_seen": 1788574523.4187028
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb1dGZDNHNGtqTGc0SWdKZWpQd2dXTnh4Wl9NUFNCcFQ1TU4zZFUzSEt1WTlKSFhiU3hJRGo2WTZuS3dYSDRZaHZJZFZYWlhwcC1mWlRpUHhBVFB0M0hmcnhiZlFvWlZFS1VNX0dSMXgtZnJjNVBkLTM2TWk4WnVzSTVybWJGT3dzN2NTRFUyVU5Tamd3OUN5alNySnRGX2lDVUxCejZaWFp1LTNRZ1E?oc=5",
-        "headline": "Opinion | Trump’s new plan to lower interest rates? Extort the Fed.",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "09/05 07:44",
-        "published_ts": 1788561859.0,
-        "tag": "Fed",
-        "first_seen": 1788562834.991824
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 08:00:59",
+  "updated_at": "2026-09-06 08:15:48",
   "yields": [
     {
       "label": "3년",
