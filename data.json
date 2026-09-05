@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvdVpST3lLSmsya2kwUGFEYzRnUnBhRTJoV1Z4XzJmT3ZWTlV2MmdhNnJLaWNFbUoxbGR2ZGlEWUxndjBmM3pTZ3pMQVlMakpTUTZ3cjdya0xIRnRlX0p1dUl6ZzM1d2l1bW51N2l2Wld1WGY5bG9xTnNUOWFOaG1YTm12M2RETnhWd0d3SzdYZWlySXJUQ3BRQ3RYS2tDbFpjdnN6VzdtdlJU?oc=5",
+        "headline": "Japan’s Ten-Year Bond Yield Hits 3.00% for First Time in Three Decades",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/06 03:46",
+        "published_ts": 1788634003.0,
+        "tag": "JGB",
+        "first_seen": 1788634834.7036216
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
         "headline": "Trump turns up the heat on Warsh as Fed rate hike looms",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788557230.0,
         "tag": "Strategist",
         "first_seen": 1788569123.3908017
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNzRjTDZIYVA2YlV5dDFuRExoQXd1N09XQ1VONC1FS3YtdlZTTzBkRHRWTUtwSG5CVEhkNlNseVJ0TFdzalI4V0YyempwOWUxVTVwVGVZZnU2bkd6U0F3UjVQdWtnQmh2c3YzaXIxSUJwY042X1BGbHJVWU81ajVIVlF5dURHcTI3ZFhJajVxWWJpTlVnZ3BtZ1V1TnJ2V3BTM3g2MFpnbzdpd1ZSTEFn?oc=5",
-        "headline": "EDF: Don’t Devalue The Dollars In Your Portfolio; Diversify With EM Debt (NYSE:EDF)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/05 06:26",
-        "published_ts": 1788557169.0,
-        "tag": "Global",
-        "first_seen": 1788559732.3197744
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 03:56:37",
+  "updated_at": "2026-09-06 04:00:56",
   "yields": [
     {
       "label": "3년",
