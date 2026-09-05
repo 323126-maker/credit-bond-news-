@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE1DOHZyZ2dyOUZkRzZsaTBmSmZFeXZOUXFyaU5ud1Q4X0NTdHJ2U2VmV181MC00dnVVbmR2dndZRTlSNmJORFBGQ3NJRWFkaWtiNHNURnZ5X2c4U1o1T2xwT3dDeVNYWEs3a2R0Z2VHRnU2a1pyTkQycHNJdzRJQ3pjU3RUNlkwSjZWTWVpeXQzZG1rXzVSQk52SUdGVEpPM1kxTlhCZnhLMWwxMGR0NDFvMGJjUXpIZnlyMjVlNGZMOVE?oc=5",
+        "headline": "Fed Chair Kevin Warsh Just Shifted the Central Bank's Entire Focus on Inflation in One Sentence",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "09/06 01:16",
+        "published_ts": 1788624990.0,
+        "tag": "Fed",
+        "first_seen": 1788625830.760404
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9raW8wam5mYkJnVUdDWWNoUFctY2NkY0txZDJsMEtmNVBwZ3VBd25tbDFBazNHS3ozNHBPWldBZzRpMHFfZUJUbnhZTFY2Q2p6TUdDMU0xOGw4MXVvN3ZHT3J2UXMycGRua1huV2M2SnZmZlhraVpEUDRFV3o1eTFiQUowOWp5dkl2V3RudEVvcU9YMDlXX19sWlFRcUxkekRPSzFGVnB6SUdjenN3b0hMdHhha0daZTBsUGVlVHpISTVXNXhqOXNEa2dPVnJ3ZGJNZTRmWkhNZHVkeTYw?oc=5",
         "headline": "GOOGL Stock In Focus: Waymo Recalls Thousands Of US Robotaxis Over Navigation Issue",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788553114.0,
         "tag": "Fed",
         "first_seen": 1788553831.448776
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPV0RZc2d1bUQzUzdVeGVnNVZmQjhpeDExd29aMHRoN3dHaFRScVkwdnJRSVJTeDFnNU42RGxGd3pkN0trMGdMLU9RZ2RyTW1EMkRpcUx0TTVoSEE2QXJVeTFHQVFQbXEzLTBaUHQ1bDZQekhzWFJjM0dfTlg4bjVlVnhQTC01T0xldWdHY2p4OHh1cEhEdi0xNFJjRS1KeXhOdVl5cERacDhxSnRaMFJOemVFUUtXWTNVbW9vT3ZaUXhKcm8tcWRFTmE3RGxXbnc?oc=5",
-        "headline": "Short-Term Treasury Yields Rise as Warsh Targets Inflation in Jackson Hole Speech",
-        "summary": "",
-        "source": "wsj.com",
-        "published": "09/05 05:04",
-        "published_ts": 1788552277.0,
-        "tag": "Fed",
-        "first_seen": 1788557429.8261063
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 01:15:48",
+  "updated_at": "2026-09-06 01:31:02",
   "yields": [
     {
       "label": "3년",
