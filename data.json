@@ -574,6 +574,16 @@
         "first_seen": 1788446649.2401602
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CM3JVbXhJNlNCa25Ld1dYNXhrbWMzNzhkUzQ4N29BSlJ3Z0U3b1NVNXFKa0Jhcnl1Y2J1T1o5cmQwZElNS0I4YXFnU0p3YmpwNHc3QlNaY04tMzgyM1h3a0xtZ280RGROek10UXpLd1Q?oc=5",
+        "headline": "코메르츠방크, 12억 유로 규모 자사주 매입 프로그램 개시",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/03 22:29",
+        "published_ts": 1788442140.0,
+        "tag": null,
+        "first_seen": 1788599724.2326791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE10b1ZPTkpLLXcyNlgzZFVMRjJTcjgxYmNOYU5RdGVwTndrai1mcHNuUkkwb3hfdlp3WXRxTGJ5dzJ1Qnc2UHk3U0otcEN0eHkyaUdpT1lESXhtdw?oc=5",
         "headline": "\"6억 전세 산다\" 용혜인 장관 후보자 재산 살펴 보니…",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788314561.0,
         "tag": null,
         "first_seen": 1788318037.1923857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xV0Q4OW5FemJoVnk0NGNLeExPMmp1cS0xU3JkUFBoQkRDZG9Xd2J3UXFCX2x5SmtuS0tmY0V5WlQ2RGZicjNZNWRWdFl0VmJHWjdqakhnc3lNajAxbEpBeDFzUHJaNllmVDRRby1RajgteEpCaDdfZnhpSWQ?oc=5",
-        "headline": "[DCM] iM금융, 신종자본증권 1000억 차환…자본관리 시험대",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "09/02 10:58",
-        "published_ts": 1788314323.0,
-        "tag": null,
-        "first_seen": 1788315324.5480692
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdXJmaVJfTnI5YXY1aU9WTjVMd21zaGFoUFlJS3BXZlBuN1RoUkpQU3Z3ZXRTS2ZzSjY4S2RBa29BWjhiaURsdFZiakM0bWw1RTBuRjctXzliN0FQdUpQY2tNN2NldGNYSXVxa1VxSVhGNElkMzkzV0o1Zmgzel9NSTVpZ19vUTJkTFJVYjZaZ0t4NkludXRrbVJIYmQxVW5qb0tmdXhMWks5dHg0YWhUanN4SmRoUWc?oc=5",
+        "headline": "MMT - High Conviction Income Opportunity In Global Markets (NYSE:MMT)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/05 18:11",
+        "published_ts": 1788599512.0,
+        "tag": "Global",
+        "first_seen": 1788599724.2326791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPV0J0b2pua0FLZGlpaFBoTVY4OWNOOWl3elhJNDdWc25VNjdNZ2R1YjJGRmQtc3c0X2hhZnRBVWxWd1JRbzU5RFRFS1FWQWFsT2NsbmU4VnJBaXZwYWRXX2dPSU13alg4aFRJX29xOHFEYm9jSnJubWwzazlDRUttSkZIaEZZUXc3MUJReG9XMlNGQzdMeVA2Qk45bmVONHhNX1c2akNNaw?oc=5",
         "headline": "Western Asset Active Bond Gov/Corp Portfolios Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788542735.0,
         "tag": "Global",
         "first_seen": 1788549325.3380966
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHpPMW9BVElYajVZWFVtRDJ2a1VpVk91dFNkUVQ1UC0zVEl1WGIwMW5IM3EzaG5WZW5vVGw4RjBvNU51V3dIczdib3NKSkZiODdpYkJyZGNJYnpCT1ZfVGJBMHdEUy13TjlkMGkwMDhTM2kzZmhLODYzZkFvUUExTUFoY0NqRVA3Ry00R2lPOGFISUZoWTVicTUzSnpWaXZwcm5qOEZQdw?oc=5",
-        "headline": "Why This Top T. Rowe Bond Manager Thinks Yields Can Keep Going Higher",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/05 02:17",
-        "published_ts": 1788542268.0,
-        "tag": "Global",
-        "first_seen": 1788579028.4057677
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 18:01:03",
+  "updated_at": "2026-09-05 18:15:46",
   "yields": [
     {
       "label": "3년",
