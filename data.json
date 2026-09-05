@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE13UGlDcWJyZ0FPbGxWRFRIb2h1M1h4bHhCRzJOTHVGTG1DRW1HaVFNVlpKWFNxTmxUNjluNFBiaDNjVndPaXdJT0ZRb2tSbEV5a19ORHI3c2dUc2NmNmxEVmhXRG95WmpzeHRJS3ZpUXRHNXFkakE0dTB3c0o?oc=5",
+        "headline": "Why Is Gold Falling Despite U.S. Fiscal Risks? Fed vs. Treasury Policy Clash Explained",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "09/05 12:25",
+        "published_ts": 1788578757.0,
+        "tag": "Fed",
+        "first_seen": 1788584439.477045
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQm9Xd3RjVjhKUVptZzZPdGlFdDkxeGhxdHB6TllVcUoxTGhQN0ZlclllbnYxYjhYUFVlaFVYSVNfenBNdGs2aVFlVEJIZkxnMm1Ga2YxWUV4bUxGR1lTQTUxbE5SUy1EX2xmMEJ6ZE16ZnRHQWhtTnJLSVFRQTA2a2o5ejlUMFRaaWpGTzVMOXFTdw?oc=5",
         "headline": "Tech Bonds Look Cheaper as AI-Driven Supply Weighs on Spreads",
         "summary": "",
@@ -1678,6 +1688,16 @@
         "published_ts": 1788561859.0,
         "tag": "Fed",
         "first_seen": 1788562834.991824
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPV3J3QnRqV29jbEl5U1dWbDl5RHp3Zjh4aHc3c0I3VER4T2hPLTB5U2JrV1R3SjFyaFZzTEZpU2tXT08tUHdkczRtM1RFWHR1NEI1NkY5NVBkY3lrSHhIQ1VPTW4wdEs5YXdDTkRTdUdHZnh1YTI2Vm5wMlhTMUNNaEFITWRtbU5lcFZNUGJlYi14OEpoeVJCb2h5UGJWeGs5RmM1SllINHRpSW56QXFpSmxwcW9UdWpwN2dKVw?oc=5",
+        "headline": "Why fixed income is critical for the AI supercycle",
+        "summary": "",
+        "source": "T. Rowe Price",
+        "published": "09/05 07:27",
+        "published_ts": 1788560871.0,
+        "tag": "Global",
+        "first_seen": 1788584439.477045
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1NTWnVjQ0JzVjQwd2pQb1B0c1hRZnVJbllhQ0o1Q3FTTHVBamQ0dTRESzc3bjNBSl9HYTZULTR1MVpQR0hmQ0xNcEctMjJQUnRzWVRSV2xuNWg0TnRlUEFJX3hoQmZBRy1CU0VCSjNZZ3JQYkRETUJWc0h0QU9lUEUxWDk?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788535779.0,
         "tag": "Strategist",
         "first_seen": 1788536725.7478783
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRnpaeTRlR0hQWjEtb2pCc0otbU5iRjJuYUFCS2F3bld2SHpFQ3ByYnlhZ0hzVkdDekFUYnVMYTNJbDluaUFkWG1EVmVRZXFtMGt2eFkwTHJacklQRzcxTDdpdmJ1UnM4YThNRGVBb0VIcGp5S01EZXNCcmNodTVqQlF0ZmhzYWtyM1hDZy1yY3JMcVpZRDBUOW4wRW5NWFk1aDI5MmJmNkwwSDFQczNGalNrOHFaeEVZSWI1WnY3d0ZrdnJKNk1hN1hEcTFJWDRHOVBKR0RCaDEwOW82c0VYX00tVQ?oc=5",
-        "headline": "The jobs report just put Fed chair Kevin Warsh's new playbook to work: One Big Investment Idea",
-        "summary": "",
-        "source": "finance.yahoo.com",
-        "published": "09/05 00:20",
-        "published_ts": 1788535243.0,
-        "tag": "Fed",
-        "first_seen": 1788535831.729613
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQYjk2ekViSXMzdkdJd3VoaW93azE2U2hxUVc3Y1cxb0FxaHNQVmsyTUdTYlczVXpTV3F2QzA1bUMtQmlPb2pDRS1sR3VXeFh6RGU0T0tIQm1mMWNDaC1jQnpGN0tTeTA5QTZyUFpIb2JQZHVNbFpGaFZvdHFReS1ZOWtHUzY0cVVTNXgzSHd0MXFsZC02OENOVFlZaExTNWQt?oc=5",
-        "headline": "Trump demands the Fed lower interest rates after a blowout August jobs report",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "09/05 00:17",
-        "published_ts": 1788535024.0,
-        "tag": "Fed",
-        "first_seen": 1788535831.729613
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 13:45:55",
+  "updated_at": "2026-09-05 14:01:03",
   "yields": [
     {
       "label": "3년",
