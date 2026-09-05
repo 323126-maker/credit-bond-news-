@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWHd4Um01ZkZuU2Ryd3V3am03LXpQbC1mQWFEZFNWNDBDM3VhRGkyRjlqTW96eDBqQVUybUdtSG81VklIakJaVXBqY1FjWDR6alJLb010SVNObkpua1E2NWZKNEk4ZU1IU1kzOXlEcGU3VkhpaGR5X3VmU21OYnNXbHotZzc4MGJTY3VTMUFSZUpwQQ?oc=5",
+        "headline": "The Bond Market Is Back — and Governments Should Be Afraid",
+        "summary": "",
+        "source": "www.lvivherald.com",
+        "published": "09/05 22:00",
+        "published_ts": 1788613244.0,
+        "tag": "JGB",
+        "first_seen": 1788614122.972875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSEdZbWFDZDdGLUF0ZnZuRHctbThuRHdFNDFNeTVVQTZEVEJ0aXhwNWFiMzRDMzdob2lkNGlXSGhmeXN0aVMxWHJHR0lpRlRPSl9YaU5fNUgwcjhKeG9Fc1R2b1A0X1FLZWtrNDR4NE9Ld1ZQZXZwOGhPbUdEWVNySl90VHBoTTVQTW1IZlU3THROSWtmOU92N2tGNVptMXQ3eUxXendRZ1pCeWllUk0zUmVFNkE?oc=5",
         "headline": "Why the Bond Selloff Hasn’t Triggered an Emerging Market Crisis",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788547260.0,
         "tag": "Global",
         "first_seen": 1788547530.3307927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0p3dTZrb1RHNUNmU0FBMHBfSWxOakQ2NFhWUk9XTEtvdmlBTXBXSzJQLUdJTUh3WmJLU01JVjN0bGtCZUVmQy01b0xldjVDNlpDOU8tM18wYk0tNzRFcWVCMzhFV2Y2ZjItc0xfdEx4QlduR2RZeEIyUXFfTnpPTzFadnRqdXl3bG40ZUV6YlNzMV9kQklfamUyU3FXeUtPWmFzUm9kdW9EUTNRM0I5YjdkRUdkQQ?oc=5",
-        "headline": "Top sovereign wealth fund may dump $80 billion in Treasury bonds — and load up on riskier U.S. debt",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/05 03:27",
-        "published_ts": 1788546420.0,
-        "tag": "Global",
-        "first_seen": 1788612325.4204319
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-05 22:00:57",
+  "updated_at": "2026-09-05 22:15:46",
   "yields": [
     {
       "label": "3년",
