@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG5KaC1xYTRucE8yc1h5eFhjTzI1TUk2YVRhdVNhMEUzQUcya2p0WmlreFNmbmFaU2d2eldOQkVlX1NVSDktMGpGM29HWnBjeEl5T19xM1BOa2JES1NZcTBXUFFGVXdCUHN2dmM5LUxzUXprblpTVW05enNsR2tiV1lzSXlEQl9QYWt4THRScXhOWnczTlhWcVJMekZvRS1XbGdRdERZX2lObFEwcno2aENfdjk1LUFXYkdBSQ?oc=5",
+        "headline": "UBS sees better bond carry in 3-5 year debt after global selloff",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/06 02:53",
+        "published_ts": 1788630796.0,
+        "tag": "Global",
+        "first_seen": 1788631234.611226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZE1DOHZyZ2dyOUZkRzZsaTBmSmZFeXZOUXFyaU5ud1Q4X0NTdHJ2U2VmV181MC00dnVVbmR2dndZRTlSNmJORFBGQ3NJRWFkaWtiNHNURnZ5X2c4U1o1T2xwT3dDeVNYWEs3a2R0Z2VHRnU2a1pyTkQycHNJdzRJQ3pjU3RUNlkwSjZWTWVpeXQzZG1rXzVSQk52SUdGVEpPM1kxTlhCZnhLMWwxMGR0NDFvMGJjUXpIZnlyMjVlNGZMOVE?oc=5",
         "headline": "Fed Chair Kevin Warsh Just Shifted the Central Bank's Entire Focus on Inflation in One Sentence",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788554100.0,
         "tag": "JGB",
         "first_seen": 1788558327.021521
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE91TlQ5ZV9taXlFTmcwaTJxMHZHQzZFRFFjWGphVjhVUTBUdWVfU0VsZTlIVWc2cXFQenhYbF9GS0hPbmdTRDJ1dW1wYndCMTF6OXExb3NXQktJaVI0SGM4SGNhNnhwNGU3ck00?oc=5",
-        "headline": "Trump threatens trade halt if Fed does not cut rates",
-        "summary": "",
-        "source": "HousingWire",
-        "published": "09/05 05:18",
-        "published_ts": 1788553114.0,
-        "tag": "Fed",
-        "first_seen": 1788553831.448776
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 02:45:47",
+  "updated_at": "2026-09-06 03:01:02",
   "yields": [
     {
       "label": "3년",
