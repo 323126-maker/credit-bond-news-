@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYTNUSzBwdVQxMl9EQlJGTFpYazNwczROOG9MTnNyaEFOSUZkd2NyWU4yMTBqTXBQdVNJaGd3ZXZDN0ZwcHVlcnRxT3cyMkI5UGJVQmVGT0hxcXVVU3p4SVItM0ZMb3pXT3VObHpjbFEzeVhZYmNuVm1DcEppa0xGSDRwVW9BZUhKR0FzTkc2M3hOclJnbXVZc3JvQVhfZklSZDBEODZKU1BIWFBhTk84UVJJQktVQ0pId09DLW93LXpRRGk5ejVIVmRyUk1CdGRvQjFvN1VXNDZ3NVBJSElVamx5TW9qMGpFRVE?oc=5",
+        "headline": "용용선생 마작게임 일과 균형와 깊은 이해: 본질, 법칙 및 응용",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/06 02:15",
+        "published_ts": 1788628544.0,
+        "tag": null,
+        "first_seen": 1788640227.7198741
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5vbVBrV2dsQklLYWtOMUVzVXhIYUo2QWdtajh4eHVITzk4a3RiVS1SMjFGVWNMWktJTEpIQzJiUzFsaFlGMVhQSmFvMDlKYVFDOC1zUHZxVVN6V19qenBvb3djZXZDNHdHNW4wWFlR?oc=5",
         "headline": "미국 고용 좋다는데…왜 내 대출금리까지 흔들까요",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788267569.0,
         "tag": null,
         "first_seen": 1788359431.816774
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5FbUxFV2x6V1NFOTBBTktkckpySXBRa1J0di1xS0RDQ3MxYW9DSFY1OTdtWHdCWlBTdXIybkxCSERoSnh2WnBWN2k3cmE4N0x5dFkzQTduTGh3dDZ0SlQtYV9NVTc3dw?oc=5",
-        "headline": "경상남도 3차 추경 ‘2,300억 규모 지방채’ 논란",
-        "summary": "",
-        "source": "KBS 뉴스",
-        "published": "09/01 21:54",
-        "published_ts": 1788267240.0,
-        "tag": null,
-        "first_seen": 1788477325.5284488
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 05:17:35",
+  "updated_at": "2026-09-06 05:31:01",
   "yields": [
     {
       "label": "3년",
