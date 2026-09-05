@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DYTJSa3ZaZFdjOVppNUhHcUgwZUkzNzNkQ2dQbkxfZTV2czZOREZKemRxUDhtSlgyLVQ1eEQyRlVxRWFZNXVQSVdFUTVfc0FqMzFBSXE4Qkl1VWtzdmdQWllkSkl5QjJqZXpSOEVYWUpEU3d1TFNQeVNqX07SAYIBQVVfeXFMTi1HQkxWWlgzN1hYVGt2elQwUUVzcWJIai1VclJVUkNwVDI0ME9ZRjBlSzBtT0xoMTFVMWJfUkdWT0VPZmdrc0RRLXVDd0hkeFBpMEhMNzZhSTZ2SUx1QkQ2RW5UTVk2a3VPVjgwWWdoX1Q3b0I5THlCMHdJWHJGMWFidw?oc=5",
+        "headline": "Trump turns up the heat on Warsh as Fed rate hike looms",
+        "summary": "",
+        "source": "CNBC",
+        "published": "09/06 03:10",
+        "published_ts": 1788631858.0,
+        "tag": "Fed",
+        "first_seen": 1788633033.5082858
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG5KaC1xYTRucE8yc1h5eFhjTzI1TUk2YVRhdVNhMEUzQUcya2p0WmlreFNmbmFaU2d2eldOQkVlX1NVSDktMGpGM29HWnBjeEl5T19xM1BOa2JES1NZcTBXUFFGVXdCUHN2dmM5LUxzUXprblpTVW05enNsR2tiV1lzSXlEQl9QYWt4THRScXhOWnczTlhWcVJMekZvRS1XbGdRdERZX2lObFEwcno2aENfdjk1LUFXYkdBSQ?oc=5",
         "headline": "UBS sees better bond carry in 3-5 year debt after global selloff",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788554702.0,
         "tag": "Fed",
         "first_seen": 1788555636.424904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NVTZoYWVORlZ3M0JxcFlFTnJFSnlkM0pQTGhTSmNnSzlZX0VsbnVaUzBMa3pUS2VzSmJ2c18xb0oxd253Ui1LbFlSRWVOUFg2dllYQV9XWGtOaUduVnQ3cmYxTFVDeERQYXlHeTBRNFg?oc=5",
-        "headline": "[월드 투데이] 글로벌 국채 금리 동반 급등…미 국채부터 일본 JGB까지 수십 년 만의 최고치 기록",
-        "summary": "",
-        "source": "위키리크스한국",
-        "published": "09/05 05:35",
-        "published_ts": 1788554100.0,
-        "tag": "JGB",
-        "first_seen": 1788558327.021521
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 03:15:46",
+  "updated_at": "2026-09-06 03:30:55",
   "yields": [
     {
       "label": "3년",
