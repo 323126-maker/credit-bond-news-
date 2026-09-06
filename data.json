@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yb1kzYnVnVXFpU0tEYnA0SVRMRmktZ2tDZjRBMG1UWWJoRkZMSU9NYzd1eTY3NVQ0QmVpZnI0ajlNZWJJT3MzQTNyLTA3RU9UZzVWakFFZnJ0OHpsQW1qcTNIckh6bEgwUmhLNWlvX0w?oc=5",
+        "headline": "나랏빚 1734조원 시대···2030년 이자비용만 53조원",
+        "summary": "",
+        "source": "투데이코리아",
+        "published": "09/06 11:05",
+        "published_ts": 1788660357.0,
+        "tag": null,
+        "first_seen": 1788664523.4205356
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zeGRZUGRDQXJBZWJQNnFmY1pnM3ZfREIwTjhsLUVjMXVMcmVOMzdscG5jODY4TGVVTFRWZW50NEJfa3Jfd2hoZThpdmg0QjR3N2xCTFlRR1FqSHdvR0N1ONIBYEFVX3lxTE8zeGRZUGRDQXJBZWJQNnFmY1pnM3ZfREIwTjhsLUVjMXVMcmVOMzdscG5jODY4TGVVTFRWZW50NEJfa3Jfd2hoZThpdmg0QjR3N2xCTFlRR1FqSHdvR0N1OA?oc=5",
         "headline": "[뉴욕증시-주간전망] '초미의 관심사' 물가 지표 나온다…연준의 선택은",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788335400.0,
         "tag": null,
         "first_seen": 1788510636.6553369
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5yR0lzYmRTU094R3ZNTmhxUl81bXRvN0o5SXN5Wk1ELU1ZU1AyOXlnNHA2U3JPUXNfTDlWUUpKbTBFQVdESHB2Tm1UajZLSkp3RG84Mm9CRHBSeHFDbDk1cExpWTNpeGlSUmIw?oc=5",
-        "headline": "이 대통령 “지금은 성장에 집중해 파이 키울 때”",
-        "summary": "",
-        "source": "애드뉴스인천",
-        "published": "09/02 13:09",
-        "published_ts": 1788322140.0,
-        "tag": null,
-        "first_seen": 1788360326.1172588
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 12:01:00",
+  "updated_at": "2026-09-06 12:15:47",
   "yields": [
     {
       "label": "3년",
