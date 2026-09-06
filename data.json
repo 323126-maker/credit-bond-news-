@@ -62,6 +62,16 @@
         "first_seen": 1788644723.8726768
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObllaS1hzX1plczhxckM3NkZxTmtsM0Q4Smk2cUFoRWdQbXdFUjdpeFEtTGk0dEFqd0RTLThpcUlwRWZ6MGVDZFRYUUx4dU9xaURyN0pIS05VYVZpbGlPa3loQ2xPOF9KdGxRaXBGUk03dDdhQVIzTnAtaWx3RWU4bEpMa2ZBZ3ltc0c2MnNkSzA3YUhpQXhwU09oY09rdw?oc=5",
+        "headline": "[뉴욕증시 19일] 국채금리 급등에 뉴욕증시 일제히 하락",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/06 04:22",
+        "published_ts": 1788636145.0,
+        "tag": null,
+        "first_seen": 1788661831.0881135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOGVQYXVRaE9wWGxBQXo4OV9xNGY1YWhfWkYxOXRBVFB6NW55d21XY1FKbE9pOHc0ajZNQVlRZzdLVUpycVVyMkNkUXd1TGxUeGQwQmdUdzhLQUo2WnhkaFNXekZ4eVQ2ZHB4X0hGSGw2X1AyeDQ1SmY5UDU1QVNscmlFcXpsTDBF?oc=5",
         "headline": "미국 정부 통장 9510억 달러 불어나자 마른 은행 금고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788517200.0,
         "tag": null,
         "first_seen": 1788520525.9576182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CUUlleGlWd3JyVGZRV2kzZmRlSkRiQ3Btb1NTQXkyV2U2ZXRxZUk4UHBza1ZCOGEzc0NTcXc1Wi1NWmxvd3pOQTI5SEozTTBEdHNvN0EyZm15WHhzZGV5a0ZueW1sQXhaOEIyX1p3RXQ?oc=5",
-        "headline": "[채권-마감] 금리 낙폭 축소…外人 매도·美 고용보고서 경계",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/04 18:59",
-        "published_ts": 1788515959.0,
-        "tag": null,
-        "first_seen": 1788623124.2692752
       }
     ],
     "perpetual": [
@@ -1308,6 +1308,16 @@
         "first_seen": 1788488125.0563378
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtVEYtcG1SQ0dfRzVyOVJudkdzTUY2YTR6MzNoVlhtLTB3UWpfY01mMTBFeU9XN285MEI5T1hXdkFHN1JBTm9nTVozNEl6aDIyTDJCWGZid1k3NkhrdjFSRzNIaXFsNVdCSXJUWFJtd3E?oc=5",
+        "headline": "5분 자유발언까지 챙긴 추미애…첫 도정질문 뒤 \"함께 답 찾겠다\"",
+        "summary": "",
+        "source": "안전신문",
+        "published": "09/04 10:21",
+        "published_ts": 1788484918.0,
+        "tag": null,
+        "first_seen": 1788661831.0881135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81WlUxazRjOFRjN1hVbnBwanJ3MXh6SmZVc3l3SUdva2dQQlUzbURoR2JvU2ppdGVkVDB2SktIYkYwbF95VzBGV2JxdWh5Q0d0V2dEM2pZejloOXFLYWdQeG52NjBqLWtZQWp5SlN2dHM?oc=5",
         "headline": "[경기도의회도정질문] 추미애 \"재정위기 이재명 책임없다... 김동연 확장재정 문제\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788321114.0,
         "tag": null,
         "first_seen": 1788510636.6553369
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sNGpDV3I5ZUp5SW83S1loejVVbUV2azFXVzZGc0xpajlHOVRmTFJxckphTFY0VHNRS3dieFROaE54ZzAzbTFiQ2pRelRRZ2lVeldjMFMtTW9KVHZkeExDN296Yk0yd3kxRHY2QUxJdw?oc=5",
-        "headline": "李 “지금은 파이 키울 때”…821조 예산 ‘성장 우선’ 못 박았다",
-        "summary": "",
-        "source": "뉴스퀘스트",
-        "published": "09/02 11:29",
-        "published_ts": 1788316189.0,
-        "tag": null,
-        "first_seen": 1788317123.3605952
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 11:15:49",
+  "updated_at": "2026-09-06 11:30:54",
   "yields": [
     {
       "label": "3년",
