@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQYmtOTTJUMUMtNFFMcmRRWFJ4R0YwZ3BXMkVGanRYbGxyekthUnBad0FGZ2pzSTYzdFlqd2pSNFRhTkxnbDdBaDRCV1hnNDBhM2lhQzF1SmlYUmdHVmtsQnJqa0QzbHoyVU5rek9QdWprYnYyNGZlMGV5X2RnUHpkanFSaFAtaTc1T2d0NlF2TV9Td09Da1FfSkFLRTRHNWhwRDdmMXdB?oc=5",
+        "headline": "US debt is even worse than it seems, and Treasury yields are now an 'all-hands-on-deck situation'",
+        "summary": "",
+        "source": "fortune.com",
+        "published": "09/07 04:41",
+        "published_ts": 1788723660.0,
+        "tag": "Strategist",
+        "first_seen": 1788725725.1159778
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1fR29qWXpsaDdCcEllYmJVQ0N1Z1dUSlI2RmNJNnowX3lEblFFREVkZXdva0d3Tm5ZQ3pYRWRHVkt6MmNZQ0wtWU05U3dZeFhWdGpOM01NaDhZbzVMblBqU1NqbkR0Zw?oc=5",
         "headline": "Global Bond Yields Surge as AI Spending and Inflation Keep Rates High",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1788720480.0,
         "tag": "Global",
         "first_seen": 1788721238.4289155
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNd0xTNGE0bExJTEJHb0FFU2UzYXlsektTSVBPSWstbE5Cb2xGUTlrWC1rd2lzZGxCMkxlN3VJRl9ZdTc2S0dmNjNwX1dEaExaQnhqbl9uLTNzQy1QMkVzSnpTLWkwMUdELUFqSmdfZ2RtOVlzamotZTZkS0lsVEZtc0RJRUZ0RS05eEFUbk5iaTh0N2oyMTB0WXU1bjloQjdZZE1ic3VmWmlUWXctcU9FNnhpQm1JMHlRN2xpcGQ0a3lEN2dhMm5na3lSaXZpU1U?oc=5",
+        "headline": "Possible Stock Market Crash: When to Buy and Which Stocks Could Benefit",
+        "summary": "",
+        "source": "finchannel",
+        "published": "09/07 03:46",
+        "published_ts": 1788720362.0,
+        "tag": "Fed",
+        "first_seen": 1788725725.1159778
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeG1qdHZCbUJfZVVvMndUR1JrN1VVcFJpMnpvNXd0MWJJcUh1Y2FnSVh2bzAzbEVxOXBtay1JYnlpbDhWQ0ZzUm9sQWQ3VXlZNFFRbVJONi1zaUlPNXBrelE4WjJnQkhmMTFKYVVxM1ZKSVNheEliY0lwZlh6N0dFc1gzUU9ZQ1NFNzhIUFFuV01paVctajFpRFBR?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788675399.0,
         "tag": "Global",
         "first_seen": 1788683432.3719232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWV93MFoxR1BJNFllQTlYZGhjVHc0YUFvcWo3enRoeFlzSzhORXNacjMxWVloTkljRFlXeElHemdpV1V5dktiV0RJczZWRF9FVUJNb2dwaXBaVWt0?oc=5",
-        "headline": "고용지표는 '올려라' vs 트럼프는 '내려라'…워시의 딜레마",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "09/06 14:20",
-        "published_ts": 1788672040.0,
-        "tag": "Fed",
-        "first_seen": 1788674437.4346142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fbm1NYmVOWExUWHRRdF9IYVZDQkZpT1dFWWpNclBqOFdLMDFmS1kwM0FJaEpwRzdGN0pfR0VRamNwZjRSeDA4THFfeUlrMVlvdGc?oc=5",
-        "headline": "Ishares Global High Yield Bond (Aud Hedged) ETF (ASX: IHHY) Stock Price, News & Analysis",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "09/06 14:09",
-        "published_ts": 1788671359.0,
-        "tag": "Global",
-        "first_seen": 1788698721.8645604
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 05:00:59",
+  "updated_at": "2026-09-07 05:15:54",
   "yields": [
     {
       "label": "3년",
