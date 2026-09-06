@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBXdFNwMWVPZ082OTFiMTN2bEVjRkxnUnlZd085MkFHYm1BUXdGblloZ0t5Y29wMV9SRExWc0ZPakplb0NLMW5vSFdyVHVZRXFaZXJR0gFYQVVfeXFMTzllWVFfMUc3TlpQT004UFFKVkJVeUl3ZEhPdmd6ZHJjOTYtVF9sMlVjRXFaN0dhSlVPeFBQbm5VX3RJelcwZ0ltd20zX2x3c0RfTzF2ZGlOYw?oc=5",
+        "headline": "[부자들의 투자노트] 블랙록 증시, 연준 0.25%p 금리인상 견뎌낼 수 있어",
+        "summary": "",
+        "source": "biz.sbs.co.kr",
+        "published": "09/07 07:45",
+        "published_ts": 1788734700.0,
+        "tag": "Strategist",
+        "first_seen": 1788735634.8716614
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BT1FfN0JUXzJib2J0YWMxMlphRUg5OXNyeUIyeHFyYWNHc1pQa0lvZ2hyTEZEMFhEYlpoYlV5WG5XWWRVYkt6cDFVc1pzT2gwYjVMMHRVNjdvUDVFME1qTS03dExZQU0?oc=5",
         "headline": "[주간환율전망] 환율 1345원까지 밀렸다…이번주 1340~1370원 전망",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788687329.0,
         "tag": "Strategist",
         "first_seen": 1788687922.5772173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ3hfNW5XenZDVzV2RDU4YlBFck5Ya05xRVREdGp6U2RFdkFob0V0T0tGLVNDNy1jVHNYUFVCQXgyNG5qeVJPU0g1OWlDV3VHRzBidXdvSGVmOXZLUkdfTzhaQmdkX2FzUzN6dUJXc1hhZXBxWUlUdkFDaXBQbkNWb0Y2b2xXdV9QbVZNaTJGS1MwSUo1ajlvNzhSel9WeHRhejNXa3hMQzVNNElwUVJENmpiV1NoMlVBN0E?oc=5",
-        "headline": "Market corrections, bond yields, war: 'Dr. Doom' Nouriel Roubini flags 4 risks to the US economy",
-        "summary": "",
-        "source": "LinkedIn",
-        "published": "09/06 18:35",
-        "published_ts": 1788687325.0,
-        "tag": "Strategist",
-        "first_seen": 1788689726.3899064
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 07:45:46",
+  "updated_at": "2026-09-07 08:00:56",
   "yields": [
     {
       "label": "3년",
