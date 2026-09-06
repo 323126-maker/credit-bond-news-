@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1weUpGYUdEWnJzTlZqbDB6ZHBzRVpXSkVCcDBrYmc5Q2ZfU3NfMFZNQnI1dnhVLUNmMkpfVDhsSlNBVC1FSTlsU0U5ODA3S09vS2NNanpjTDdyUTJ6RU5aUVRCcTRuNVpLUVhTME5zcDlNZw?oc=5",
+        "headline": "[채권-주간] FOMC 앞두고 美 물가 주시…국제유가도 주목",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "09/06 13:00",
+        "published_ts": 1788667200.0,
+        "tag": null,
+        "first_seen": 1788669029.2704597
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yb1kzYnVnVXFpU0tEYnA0SVRMRmktZ2tDZjRBMG1UWWJoRkZMSU9NYzd1eTY3NVQ0QmVpZnI0ajlNZWJJT3MzQTNyLTA3RU9UZzVWakFFZnJ0OHpsQW1qcTNIckh6bEgwUmhLNWlvX0w?oc=5",
         "headline": "나랏빚 1734조원 시대···2030년 이자비용만 53조원",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788336199.0,
         "tag": null,
         "first_seen": 1788344129.0296552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFAzV3pOOHMzRERGVEF1cUFjUXpCMzVzN3ZmZzRobkdWWkJZU3JDUFF1UUNNT1dWUGVfcFhISC1iajRsajE2RjVqNExja0h0Nm82RlpsbQ?oc=5",
-        "headline": "추미애 \"경기도 재정난, 김동연 확장재정 문제…이재명 책임 없어\"",
-        "summary": "",
-        "source": "news.jtbc.co.kr",
-        "published": "09/02 16:50",
-        "published_ts": 1788335400.0,
-        "tag": null,
-        "first_seen": 1788510636.6553369
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 13:15:46",
+  "updated_at": "2026-09-06 13:30:52",
   "yields": [
     {
       "label": "3년",
