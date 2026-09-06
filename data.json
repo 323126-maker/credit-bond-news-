@@ -1268,6 +1268,16 @@
         "first_seen": 1788580838.2213535
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9uZVNNa3BrQVdSZXBYMkNmSlBFSFJvcnFUb0FDbmlsTkZzY0Uxa3lucjBGczdrWnZFLWltaTkxT2FKODdfZmQ0VXFIR1VwUVJCRk1TU3A0YUjSAVhBVV95cUxPbmVTTWtwa0FXUmVwWDJDZkpQRUhSb3JxVG9BQ25pbE5Gc2NFMWt5bnIwRnM3a1p2RS1pbWk5MU9hSjg3X2ZkNFVxSEdVcFFSQkZNU1NwNGFI?oc=5",
+        "headline": "李대통령, 집중 호우 피해 통영 전체 특별재난지역 선포",
+        "summary": "",
+        "source": "아주경제",
+        "published": "09/04 18:28",
+        "published_ts": 1788514117.0,
+        "tag": null,
+        "first_seen": 1788660924.7002347
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9Fc2N3eUNLMUtndE55cEVRaGJ3V1ZpNjNyYzNZTnNpNTlyVW1DcFpiT1pZZHAwOW9JNllaQUdpWUs3ZHlsblBlSlNzRTBTaEdRN1YzaGthUkRYTWJIT0ZJcm9Mamk?oc=5",
         "headline": "與, 정부 예산안에 \"역대 최대 재정투자로 국민 희망 뒷받침\"",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1788316189.0,
         "tag": null,
         "first_seen": 1788317123.3605952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QdE52empEMWFOSWRraUF6NWEteWliUzBGQUdvcW1qQnVMMTJUOEZiZVl4VHc2TU1Oc0I4QlFFWEN4Vld0bmJHX2FrUFVvWkRnWFJENGgwVDg4dw?oc=5",
-        "headline": "이재명 대통령, 제38회 국무회의 주재…`생산적 재정 전략과 민생 안정` 강조",
-        "summary": "",
-        "source": "서남투데이",
-        "published": "09/02 10:53",
-        "published_ts": 1788314028.0,
-        "tag": null,
-        "first_seen": 1788336038.3114877
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBoQmo1dC03VzdEQmpSNXNVQjM1YUFxZ2N6R0VyWGtaYkJPNWhvS3FROFlzUFpCNzVCOU5JRzZDWnpTZzQtMXlaQy13SVdKWGFPRFIySmJn?oc=5",
+        "headline": "美 재무장관, 원래 이런 자리였나…전 세계 경제 뒤흔드는 ‘베센트의 역설’ [GMC]",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "09/06 10:58",
+        "published_ts": 1788659933.0,
+        "tag": "Strategist",
+        "first_seen": 1788660924.7002347
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9xTU1FUFk1Vy1vd1RJdzdNR2VXOFBHVVk3a0NDT1FBWjVQNVFwdTh0UUZpM0NpTDM3aTNiWG9BUURZRGVMZjZyNnZFVVNwcWI4QWRFblBvTHREdXNmYk9GdWdwMlozNFA2UXc?oc=5",
         "headline": "메리츠증권, 日 국채 30년물 ETN 출시",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788571821.0,
         "tag": "Global",
         "first_seen": 1788596125.756998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdjQyWU1hemRtMldtOW5mSjVWeld2YXNfVW1SRjE0N0VLQkJQTWJJQXNvbWg0MDRNNlN1RDFIQVpRNDRLc08zWTR6TXlvd2VrY1NfcjJpdHpXMEF6VjItYXZ3OFZDbjhnbDdhSWtqZGdySVZQU1ZmUmFVREE2cXRHY1NaVFBKQjVVdS16QVJyYzZ0ODljYUE2UVVHSXpCdS1JZi1BSExIRWNTUVU?oc=5",
-        "headline": "Japanese government bond yields surge by 4%, narrowing Metaplanet's Bitcoin financing advantage",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "09/05 10:10",
-        "published_ts": 1788570609.0,
-        "tag": "JGB",
-        "first_seen": 1788570921.9950602
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 11:00:59",
+  "updated_at": "2026-09-06 11:15:49",
   "yields": [
     {
       "label": "3년",
