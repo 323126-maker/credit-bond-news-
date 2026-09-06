@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wUlFncjV6RU8zMzNwNWhfVlNfbVI0R0Eyajc3R2FaRXhWeFloZHAtSzRQY1pYanZkZHNWSlo4VWlLN2tobmpfZ0oyNl9zLXNzMTNR?oc=5",
+        "headline": "\"회사채 고금리 매력에 수요 회복\"…NH證·대한항공 수요예측",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/06 08:03",
+        "published_ts": 1788649380.0,
+        "tag": null,
+        "first_seen": 1788652839.9262624
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5PYWo3U3VoYWdyQi1ZSWxJR21VMlEwNzVycmpOM1AtcVZOWk81ZkJ4REIxSjNDeHdEQXQ5b1R2N19oVldyb2MzTll1WWs4d1lsTHRvWktTd2hWZlZEaWc5UE9WYw?oc=5",
         "headline": "▒종합 경제정보 미디어 - 이데일리IR▒",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788513486.0,
         "tag": null,
         "first_seen": 1788538525.2677407
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0zX25aeGxJTk5tU19xZjVlWUdVa0U4QTJkMzI0eTlCVEFXUkwtVDE4NUZ6UnhjMGxnV09RWndTaXdmR3BlTncwSnBFY0xwbXdQVkZpanZKZDdNRno0eGpzMzdOVDAtZG5KZWYwT1QyRnFVQ0dV?oc=5",
-        "headline": "바클레이즈, W. P. Carey 주식 등급 상향 조정… ’밸류에이션 매력’",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/04 18:11",
-        "published_ts": 1788513060.0,
-        "tag": null,
-        "first_seen": 1788514229.7406466
       }
     ],
     "perpetual": [
@@ -946,6 +946,16 @@
         "first_seen": 1788602437.739533
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPR1NaWUt3c2Q1cnFUMjQ0THNWcmhvZDRacmNsRWZ4TDR3dVRIVEZaakM5RjVKMmFTOUhaRTQ2T2RtS0didS11ZVpjRjlIZHJubnJxNnI0UTUyUTczSXNlS2Nlc2dFNFBsbExHVEtuUW1ibU55QkVGVVZ2X05sQ0VDNlR2ZkdlaG1kdV8tVVlNNC02bWpDRjZHV2lQSmxLRFVFa000QWg5cVNuYTlfQlNMbw?oc=5",
+        "headline": "무료 슬롯 머신 원 벳원 의료인를 위한 알고리즘 설계 실전 기술",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/04 06:53",
+        "published_ts": 1788472402.0,
+        "tag": null,
+        "first_seen": 1788652839.9262624
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01cFRmbjhGNzFIQ0dmSE11UzlWeGlzRWlfY1AzNHEtaTNGZVgwWFUzdEFtM2Jxdzd4UF9VMmh0NmRPVFdLZjhDUUJPNm1yaHlIZnJr?oc=5",
         "headline": "전세계 금리 쇼크 속 '821조 슈퍼예산'…대출금리 더 오르나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788301801.0,
         "tag": null,
         "first_seen": 1788302725.8019612
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVy0xRmxiM1pRN3c5NXc0bXBfMi1Oa195VnJQR3BrRWpFU1JZaE1ZWml4Z2oyWks5RGpwZ2p6MV9XWkZKdUpGMzVlTFJwcEEtVzZPNEEwRDAxS0Npem4yOdIBeEFVX3lxTE5yY0lPYjRYUWlTYWp1ejh5eGIxZjVTR216VnlGbWxRYXBBQlRBLUVHeHVyUDY5WGNDOXVNNlJkYXA5ZlRqNHlJMkhTRk03X2JVcDJpQjBjMFdfVkNsX2hKN2hNZHBjZEtfWUVHcVhFUV9rSThoM2lmdA?oc=5",
-        "headline": "100조 쌓아두고 필요할 때 꺼내쓴다…미래대응기금 '쌈짓돈' 우려",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/02 07:00",
-        "published_ts": 1788300017.0,
-        "tag": null,
-        "first_seen": 1788300923.5625408
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 08:45:52",
+  "updated_at": "2026-09-06 09:01:04",
   "yields": [
     {
       "label": "3년",
