@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41VHBnanMxTC13b0NadHY4ek91NE9LdHZIdEFyc05iMnlCSkRqaHQtV28zXzA4cTNlT3hMdVQ2SHpTY2RpSVFiZllhNXJMNEpSSnM5TTBkQ19TV2hublJ2SmdwMTdWSThtTWJJTk1wdjFQWUFN?oc=5",
+        "headline": "오르는 금리에 채권시장 흔들…회사채 발행 급감",
+        "summary": "",
+        "source": "대한경제",
+        "published": "09/06 17:00",
+        "published_ts": 1788681614.0,
+        "tag": null,
+        "first_seen": 1788694235.4271386
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Hd083Ri1nTVBaeVF3UjM3RGtjb3FGLVV2cHAxR25YclZFSnRPN1BHY2RFZlFMU1BqSlRuREFkZmcxY0p0bTR2R3lLX3Z5aUZYNERjSnI2Y3luZmYxRzdnTy1KMEU1cFBEQWVPaGU5MGN3UQ?oc=5",
         "headline": "[뉴욕채권-주간] '침묵 기간'에 나오는 CPI…회사채 봇물 가능성도 촉각",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788555826.0,
         "tag": null,
         "first_seen": 1788577239.2744932
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdWc2SmNqaGVTZFdseEV0cl9PZUswYWZRdW54MG9wMHh1Z2FUcWpnS3hrSUYxSGpBaVdfbVhoeUY2R3BXSW9ObTliamxKMG1zT2VPaHdCa1dqeHRha2U0djBxd0xqNUk3TmFnSTFKYzk1U3pOSl9KZ3JQVG1BZ29KRjNuRW1IS19fQW85Q2lnWXl1VmhkMEtCa2xRNjhYdw?oc=5",
-        "headline": "美 채권시장과 맞붙은 ‘베선트 풋’… 한일 확장 재정도 시험대",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "09/05 06:00",
-        "published_ts": 1788555600.0,
-        "tag": null,
-        "first_seen": 1788560125.3063188
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 20:15:45",
+  "updated_at": "2026-09-06 20:31:00",
   "yields": [
     {
       "label": "3년",
