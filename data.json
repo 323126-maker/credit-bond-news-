@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PUHRhTEdyX0dNQTZ5RGJ2eGhDLWNUbVl0c1ZNMmpkVVVfMDRKY3pjQ2FWVUlXMjhhV1FZRzhocjM1RE0xdjhHODkyUVpPdnNvazE4NGhyWElLYngtZ3hudkdyWG81MVJNa0kyMjJWR1NSZw?oc=5",
+        "headline": "[뉴욕환시-주간] BOJ·ECB, 통화긴축 함께 강해지나…美 CPI도 주목",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/06 15:25",
+        "published_ts": 1788675933.0,
+        "tag": "JGB",
+        "first_seen": 1788678035.4460337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWV93MFoxR1BJNFllQTlYZGhjVHc0YUFvcWo3enRoeFlzSzhORXNacjMxWVloTkljRFlXeElHemdpV1V5dktiV0RJczZWRF9FVUJNb2dwaXBaVWt0?oc=5",
         "headline": "고용지표는 '올려라' vs 트럼프는 '내려라'…워시의 딜레마",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788591355.0,
         "tag": "Strategist",
         "first_seen": 1788597028.2818172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWMzhVMVpoaDlMcUdTaEF4TUFCNnllaUxMYjdyV3NZX0ZmY1lyX3hhbGtuR2xjNVYyUEVmRS00TnBybFpkX2pqZ0h6UzRkcUh2ZWhkRmQ2bHUtTVR1ZkozZFBpbk5xQmJ6?oc=5",
-        "headline": "트럼프, 연준에 \"금리 내려라\"…대미 흑자국 교역 중단 경고",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "09/05 15:39",
-        "published_ts": 1788590361.0,
-        "tag": "Fed",
-        "first_seen": 1788594359.1905093
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 15:45:54",
+  "updated_at": "2026-09-06 16:00:56",
   "yields": [
     {
       "label": "3년",
