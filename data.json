@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ZelBaaXVZanhndEVBTFRWNEpoSWRCU3ExdjFKNDM5OThrTHIzM1FTRmJFMTJqTHRKZ0tId3NNMnJtWFdLOGZLcF9JZzlMb3pvdW12aUZLVFJoVHNieDM4UndkQzY0YjlTTjFwWV9UTk41bm1TRlBOONIBeEFVX3lxTE1ZelBaaXVZanhndEVBTFRWNEpoSWRCU3ExdjFKNDM5OThrTHIzM1FTRmJFMTJqTHRKZ0tId3NNMnJtWFdLOGZLcF9JZzlMb3pvdW12aUZLVFJoVHNieDM4UndkQzY0YjlTTjFwWV9UTk41bm1TRlBOOA?oc=5",
+        "headline": "치솟는 금리, 가계·기업 덮친다…이자폭탄 '눈덩이'[금리 쇼크③]",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/06 10:00",
+        "published_ts": 1788656400.0,
+        "tag": null,
+        "first_seen": 1788662721.7460752
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQanpVWnNMemJYSks1aGZqN241RWF3NF9WSXhSWlVkUjFXVmtIN3diS3BFMXNmS25LZ3NITXFvWGFFV1Q5ZVVMWG1RbnVfVTNnbkp6QnM5Y1Etcm1jWEZzeENFUlFZNHpINWlmMHkxS25pRXQ2LWQwaFFfcHJGZHdkX0VzRFJ0UTJncXExMHc1NjlsZzdfWEt3UVFjdVQwUQ?oc=5",
         "headline": "[특별기고] 중앙일보 워크아웃과 미국의 파산제도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788519360.0,
         "tag": null,
         "first_seen": 1788550231.8326678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1TNnlvSHFzZGhidjNDWkRxaWpXVUc3VkQ2ckwyaklvVGh1Vk9rc0dhUzc3LVVxNFVxd2FJMUtnbndVOTRGQkdCbHlSdHBOM2JaSm9qb2cwQWVkT3hQazBxa2oxdGpqRmw1ZldYWEpPNzE5WlJk?oc=5",
-        "headline": "레이먼드 제임스, 사우스웨스트 항공 턴어라운드 진전으로 투자의견 재확인",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/04 19:20",
-        "published_ts": 1788517200.0,
-        "tag": null,
-        "first_seen": 1788520525.9576182
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 11:30:54",
+  "updated_at": "2026-09-06 11:45:44",
   "yields": [
     {
       "label": "3년",
