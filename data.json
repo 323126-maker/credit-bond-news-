@@ -1258,6 +1258,16 @@
         "first_seen": 1788643829.77187
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lVnZ1N3c3T01WbDBnMUFSMzJJXzlILW5vUnFTR2pOMi03SUZOSUYzOFNZUEZvbzJEZzdxVHJvVnpiZ2lKVlBuTG5pbV9NLTZZeHozRWprakp5X0NGeGxHeUNFOUZPNmpIUHk5ck9ISmlPUzBPTkZfdtIBeEFVX3lxTE5lVnZ1N3c3T01WbDBnMUFSMzJJXzlILW5vUnFTR2pOMi03SUZOSUYzOFNZUEZvbzJEZzdxVHJvVnpiZ2lKVlBuTG5pbV9NLTZZeHozRWprakp5X0NGeGxHeUNFOUZPNmpIUHk5ck9ISmlPUzBPTkZfdg?oc=5",
+        "headline": "청와대 일주일 [뉴시스Pic]",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/05 07:01",
+        "published_ts": 1788559260.0,
+        "tag": null,
+        "first_seen": 1788663635.2126937
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBsZDRQeXFkeF93ZEJKZFVXTExUSm0wNzVyaXBSd1FWM2s4S3FzcVRVdWRMNy1xdzhLRUF6cldFUEhFbFl4MWNVeWNn?oc=5",
         "headline": "국채금리 끌어내린 월러 발언…9월 FOMC 동결 가능성 다시 부상 : 금융",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788322140.0,
         "tag": null,
         "first_seen": 1788360326.1172588
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQ2lnZXk4am5HWlFSRzlYRUtuTHRUTW14R0ZYMDlLMFB4THVrSXNIRHUweHg4V3dZM2RpeHRHX2pZd1otMVhTa3I1TGpYWjl3akVpQi04dmpHWUZQdmRXVEgwVzdST204bHo5LTlIdnlPeEotTTludW5kNFV6WFJJclpDakJmMjU1QUtRZ05HYWlpUEJkX042WXM1RllBYVlqM2dFSlFsTXd3bmp1MkVnVWNpM21lT0NFeGZVbEFKLTA5N1lQNThQSWM4aFFmNDdHTkdGSEJ6ZmFNRXh1bVVKbDJyRUhzQU82Zk00MkJGeGQxaG1LSlE?oc=5",
-        "headline": "코리아넷뉴스 - 내년 820조 9000억 슈퍼 예산···경제 성장 이끈다",
-        "summary": "",
-        "source": "문화체육관광부 한국문화원",
-        "published": "09/02 12:51",
-        "published_ts": 1788321114.0,
-        "tag": null,
-        "first_seen": 1788510636.6553369
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 11:45:44",
+  "updated_at": "2026-09-06 12:01:00",
   "yields": [
     {
       "label": "3년",
