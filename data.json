@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE41VHBnanMxTC13b0NadHY4ek91NE9LdHZIdEFyc05iMnlCSkRqaHQtV28zXzA4cTNlT3hMdVQ2SHpTY2RpSVFiZllhNXJMNEpSSnM5TTBkQ19TV2hublJ2SmdwMTdWSThtTWJJTk1wdjFQWUFN?oc=5",
+        "headline": "오르는 금리에 채권시장 흔들…회사채 발행 급감",
+        "summary": "",
+        "source": "대한경제",
+        "published": "09/06 17:00",
+        "published_ts": 1788681614.0,
+        "tag": null,
+        "first_seen": 1788693323.6568308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16cEdZMlhZWTZ4dnBJdE9pTEwtYzAxYnFhS19RU3Qyc0lyc1BjTW11STBMSHBhdGpLSjZHVjB4X2FhN3Z4VmtLTzV3M285ZUh6Z25UZHhxV0JrVEJiNkx2b2JEQUkzWlNDTFcyeThR?oc=5",
         "headline": "[아슈/美 국채금리 5%대 경고] 한국도 환율·부채·증시 ‘복합 압박’ 우려",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788324060.0,
         "tag": null,
         "first_seen": 1788335130.3864136
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlTUMzaTdYWlpYbWVOVmttb051X29fcHJEN1k0LUxLVzF6dkU3TWc4MDlVeXMySWFDYkowcUQ5RkE0bXZReFYycGpwUllBTmR0RkIyaDRXSGt2TldfVHZhcA?oc=5",
-        "headline": "3%대 물가 충격까지…채권시장은 '퍼펙트스톰'",
-        "summary": "",
-        "source": "news.nate.com",
-        "published": "09/02 12:19",
-        "published_ts": 1788319140.0,
-        "tag": null,
-        "first_seen": 1788319836.4718356
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-06 20:00:58",
+  "updated_at": "2026-09-06 20:15:45",
   "yields": [
     {
       "label": "3년",
