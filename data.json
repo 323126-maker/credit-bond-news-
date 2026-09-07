@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9EQzlNSEl3TU0tWm1pMDdpVW1HbzdHOHJRNFZLaktzNmtkT2NKcXJGOXZZZENpTHFNYklvSEFiU0l2bVpEZ1lINTJfWUhoTUJ2WWpzazZQRVluZ1F5XzhaMzVZblNvc0NudWpn?oc=5",
+        "headline": "성남시의회 추선미 의원 \"경기도 빈 곳간 청구서, 성남 어르신 요양원·아이들 급식판에 내밀지 마라\"",
+        "summary": "",
+        "source": "뉴스로드",
+        "published": "09/08 00:04",
+        "published_ts": 1788793462.0,
+        "tag": null,
+        "first_seen": 1788803127.0765948
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbTRDZS1zbDkzOXZ3Z1g1N1hiRVE2RVNOQzRKNy1iSWtZd1BtNHd4WUU3VDhBQTBYaWppUFppamh4N1FTdmprWkNFTE5PVUxLQlVHQWpGV1F1cXl6aXZVckw1Nm83SGJUQmtqa25Pb0NjbmVSOGcwU3hKa1oyUmZLNGxoTUFqd0JUUmJJOU1VNXRXTTZYNGFVamRyWjduRml1R2dxTXd5YTVoUGtuR0NsZHYyODRuUQ?oc=5",
         "headline": "성남시의회 추선미 의원, 제312회 임시회 제2차 본회의 5분 발언 [전문]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788418655.0,
         "tag": null,
         "first_seen": 1788596125.756998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83Z2twUy05VEhHLTNYSDd3UTFkYks1VTZnQ1pMTlNMR0V6bTh4U3BnTTloQ3hXdDN4QnB2cnpPaXdZcklVRy1PNjFBZU1zbkNRTG90b3ZTS3ZnRG9wT1oycFpLZ1dNUUI5emc?oc=5",
-        "headline": "이재명 대통령 “30년 만에 IMF 마지막 빚 청산…국민 덕분”",
-        "summary": "",
-        "source": "포인트경제",
-        "published": "09/03 15:28",
-        "published_ts": 1788416910.0,
-        "tag": null,
-        "first_seen": 1788606036.884015
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 02:30:59",
+  "updated_at": "2026-09-08 02:45:49",
   "yields": [
     {
       "label": "3년",
