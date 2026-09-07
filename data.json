@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9qX0dBLWNrWDVXa3hVUjQ1dmU2TkkzeDVGd21IRnVVSTZvTkdKLUFxM2JVbHI4QWtRVnZ6dWdXWkhRV092Q1kyTVhZRF9Ud09taE9obGE5Z2NfLU9xSzI3eXJKZnVyN0lHT1ctRkFn?oc=5",
+        "headline": "금리인상 반대하던 日 경제고문도 \"BOJ 9월 인상\"",
+        "summary": "",
+        "source": "세이프머니",
+        "published": "09/07 15:32",
+        "published_ts": 1788762724.0,
+        "tag": "JGB",
+        "first_seen": 1788763523.426184
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fZ3ZlRzhSeUd3cVZrZEZ5TnlVY01BcVpaN2xJYmJ3WnMyV3FRVUhTX3hDX3pRczV2elhQSFpWd0xpRUFVeWZnSm1UcmZzdGtxdGhhaEI1czZTZDA0cmd1TA?oc=5",
+        "headline": "\"일본의 사상 최대 엔화 방어\"…미 국채 878억 달러 매도 추정에 유동성 긴장감 고조",
+        "summary": "",
+        "source": "theconnectmoney.com",
+        "published": "09/07 15:31",
+        "published_ts": 1788762660.0,
+        "tag": "JGB",
+        "first_seen": 1788763523.426184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdnAwSGtZVTMyTlh2RlJPUHowYUV0bVFsNVhGMDNHM21qNjVvcFlVeTgzakpuTGxGekVaY3E4ck1BNUJpbWtkdmIwTlduWmZjYVFoRldoS1FYQ25GbVBzX2MtLXNpajFFNjdpMzhJeGJ5alA2QzdHYXdWcW9RSVFaRFhR?oc=5",
         "headline": "Trump demands Fed rate cut, reasserts pressure",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788737601.0,
         "tag": "JGB",
         "first_seen": 1788738322.4110112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE12YTJITmhuckVJVUFqaHRHR0RRbGh5T01aR3QwSGxJWUJjRzNCSkpnblhfbkpCNy1rZmdDRzk4MHJOdmRmcTg2bDNnVDlkcG9ydzc3aGJ1S1dpRmgz?oc=5",
-        "headline": "[모닝 리포트] \"금리 불안에 장기 실적 신뢰 약화…증시 소강 국면\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/07 08:32",
-        "published_ts": 1788737520.0,
-        "tag": "JGB",
-        "first_seen": 1788738322.4110112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcEpncHZHXy1qalpycHF3WGlfU1FIQXBBMXVRdC1PbzlyNEFFQkdBdFVwdDlKb1pIQzNSTExlaENpSmtiZEI1eXRzZHd1b2lPZTM3VGN6ZmRzeWZCTGczVnhzaVJ0cVB5TTBRMWhrRm40bEtiY0ZraGZKZWxUdXlyMHdoT3JoYy1NalhFUXU1QXNUVzRnT2pGYkx6LUJ5OVI2Rm9SMTg5SEFKbG5sQ3VR?oc=5",
-        "headline": "에볼루션 바카라 경찰 의 역사와 발전: 과거에서 현재까지 - 전문가의 관점에서",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/07 08:20",
-        "published_ts": 1788736829.0,
-        "tag": "Fed",
-        "first_seen": 1788748233.6743538
       }
     ],
     "watchlist": [
@@ -2413,8 +2413,35 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 15:30:51",
+  "updated_at": "2026-09-07 15:45:44",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.884,
+      "chg_bp": -0.4,
+      "series": [
+        3.746,
+        3.778,
+        3.808,
+        3.791,
+        3.781,
+        3.796,
+        3.847,
+        3.798,
+        3.811,
+        3.854,
+        3.836,
+        3.83,
+        3.816,
+        3.755,
+        3.788,
+        3.838,
+        3.878,
+        3.93,
+        3.888,
+        3.884
+      ]
+    },
     {
       "label": "5년",
       "value": 4.101,
