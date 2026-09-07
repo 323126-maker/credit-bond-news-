@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeFVSUVRucGJWWUI4NlE3OHJtRE5Ydm9RS1RlN01NRkEtYWRRTGdKanJqZWNEZU1XUXBqZVl4dVV0dUlpQVEwRnlMd2dNTXdsZXJKazBiM1pCLVVHXzU5MkZwbHBiVEYwX3VrMHBXWFNhZzd2NDhNcGtIOGNlcG1XMl9MYXBrTERCV09yRTFMcUd5bEhDb0FTcG12NEhCOUMyNUFBdjJSYw?oc=5",
+        "headline": "Why Wall Street can keep rising even as the Fed turns hawkish",
+        "summary": "",
+        "source": "The Business Times",
+        "published": "09/08 08:00",
+        "published_ts": 1788822000.0,
+        "tag": "Fed",
+        "first_seen": 1788822925.803613
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPS1Znd2tMcElPX3ZWaWFDNEJmZkNoOTRRVlNYNFRQYnRuMURsZmpOd3BmNHBXWnM1dVFPY1NjMTNsYTN6c1hzMW9OUzJWbnRUNUVNaF9aWUtTa3BldXZGMktfb1dYang3T19ISlk3Ym1NVTFLUXBROFBpcTYxblZGT0dCQS1MN1JY?oc=5",
         "headline": "\"금리 인상 폭탄 떨어진다\"…연준·ECB·BOJ 일제히 긴축 방어 나서",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788771300.0,
         "tag": "Global",
         "first_seen": 1788772522.8290024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vbUhkQ0tYTS1TM2Y5OWRfY2lPVXJkb2RpVmZRSUZaRWZ3QnBCYU96Sl9HNXlXRXhua2EtRjZ3Y3VZMjNBYkVsZk9NQ0pBOVdIbGlPdUcyNTU3T25mVERsUVA2aktZYVgtbHZsTg?oc=5",
-        "headline": "日 금리 인상 속도 빨라지나…“내년 1월까지 매분기 인상 가능성”",
-        "summary": "",
-        "source": "재팬코리아데일리",
-        "published": "09/07 17:48",
-        "published_ts": 1788770901.0,
-        "tag": "JGB",
-        "first_seen": 1788771637.0972323
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 08:01:06",
+  "updated_at": "2026-09-08 08:15:48",
   "yields": [
     {
       "label": "3년",
