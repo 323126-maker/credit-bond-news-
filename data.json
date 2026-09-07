@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0pEWjFyT1pNblFoZDJ5UGtVNjN2TnpHNEVTRFFFaE9tZ0NvbTYwSVFqcmNMSjVyNGlhbVVUYjc2eTc4eDdYUmdqV1U3WkJGVVNaQW9nSTFzWk1FX3lDU0ZzbkdJYjlKdTFlTDdyZWJvOEphX01tNldkVm1VTWJ5cHNPT3hYaGROWFRNR1Y4RjBhVmRMa29Ed3MySFVrRmtOVHZDajlHLUstRU0xRkZ1aNIBvgFBVV95cUxOVEExTDNSZDFiX2RMVDBIS1RJVEtMX2FQY2ZrSWhCTmJtUVRsZU96bW1xSWRqamlZVDZ5a1BsRjV5SExFSmRtdXcxd0VCLXFxVG0tUnhnb0xzb29yWGgzMEs4NDcxLUZNdUhrempBOUdxU1FtUVlsR1UtOXA0Y29xcnV5SHZVS2lOb3RsQmdvaGRfTjFrYTVDdmQ4MUNMTUhNd1NoMnpXbW5FcWVUYTc1MVZVSGo1czBLaC13d3BR?oc=5",
+        "headline": "REC Issues ₹500 Cr Through Tokenised Corporate Bonds, 8x Oversubscribed",
+        "summary": "",
+        "source": "outlookbusiness.com",
+        "published": "09/08 01:28",
+        "published_ts": 1788798485.0,
+        "tag": "Global",
+        "first_seen": 1788799525.0707014
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNOUJFejBacEI4cm9CRkNiSTJpM0JYRmUzWlhOMjdEV2lIWVliS1d4MmtWM1h6cjFLSEczUW5GWUdjN0NSWklnZ2NVbnhWTjcwU0VOWVUxendLQ04wXzFfdHNSdFJ4N2JsM3NKSnhsVUVFUlB0WjdnR1Jpa0tqVWdkMW9KVi1SMF9YeF9pMERVQXlhUmtWNzlSZ2VMT2FTODNxLXBBU3FsaWp5QzEwMUl0eHVKdVlyZDQ2SEdTekJIMFNoSE1QYTNucVo3dHJ0Nl9hNHAySXVtNmU4NTdBVkNtN2RyZm05MVpQWEdWQ2RjazhQUUhsZVhFYUdGLURHVGhfQ3FB0gGIAkFVX3lxTE5vX1A0MDBuQnE2Q2l4cTlYU3NNajVrWTM0QnV2bGRZQ2JJdjBpTjlVcmo0aWJ0UVU1TFNqeVk5TjBUUWQwNmt3Qzc4ZUdqbTRSOG95cV9TLXQtdHhDX0NnaFVCXzNRTmJqaVl2bWhnU1BGOHhKSExoenFmUmtpWkxyN19hdkY1bGwzSGs3ZDhpcmRHZWNIWFJTQ0pSNzRZV1JNdnRRVHN2S2FhcUpNRGl0d3l4MDhPZGFyUmZDb3ctMHh3UkNFUVd0ekxrU2tfTmxBNEhtQm9zT0lCMHp2ZUdqT19BLUJiY1dlaW1xRkxnNDdSWHNSZ25HdXpiMFF4NE1zT0d6cklEMw?oc=5",
         "headline": "Bond yields near 7%: Should investors shift money to debt instruments amid equity volatility and F&O losses?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788765985.0,
         "tag": "Global",
         "first_seen": 1788767123.2548656
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1akZWZW9XQ0JuZnhzcUxfSUQ2S2Rtd2pQU2ZhZV90WlJIdDRXN0FQY2g2bmxCWVVFRWhvN0R6cFRVbnZvRFZrTGVMdl90WnYxd2VIWGppdWdpMERRejNBcE9ZZFZ2VE3SAWdBVV95cUxQdWpGVmVvV0NCbmZ4c3FMX0lENktkbXdqUFNmYWVfdFpSSHQ0VzdBUGNoNm5sQllVRUVobzdEenBUVW52b0RWa0xlTHZfdFp2MXdlSFhqaXVnaTBEUXozQXBPWWRWdlRN?oc=5",
-        "headline": "메리츠증권, 국내 유일 日 30년 국채 ETN 내놓는다",
-        "summary": "",
-        "source": "리버티코리아포스트",
-        "published": "09/07 16:12",
-        "published_ts": 1788765151.0,
-        "tag": "JGB",
-        "first_seen": 1788770737.8841052
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 01:30:57",
+  "updated_at": "2026-09-08 01:46:01",
   "yields": [
     {
       "label": "3년",
