@@ -816,6 +816,16 @@
         "first_seen": 1788776125.1746254
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9oS0ZSREFvWjBtczI2bWxEMDJseU40cVdhU1ZtcUZNTjJUOTg2c3FTUndxX3dXSWM5LUJ1Y3FCV05rSHdpOEloQ05vVWd3VVRlU2Jmdw?oc=5",
+        "headline": "[채권마감] 3년 금리 사흘만 3.9% 재등정, 미국 물가지표 대기속 한산",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/07 17:14",
+        "published_ts": 1788768840.0,
+        "tag": null,
+        "first_seen": 1788787834.5948493
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5VTU9abDFwUEhCbE5udWwwMEF5Y1F0UlVzOFlJSlRnekpjOHk0TVVaQ3RpNk51MFVnV29OWHJGeWU3VWV4UzVSa21LY0VWMlFiWm5keXNqd0xfWEIydzJmeUJ3?oc=5",
         "headline": "3억 넣으면 월 이자 200만원…퇴직연금 '국채 풍차' 뜬다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788463800.0,
         "tag": null,
         "first_seen": 1788464724.8495603
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yZXNjeHBpZTRZdnFZRldXRUMtU0hTd180dEZZQldqV3RYbFAybm9zWV9KUjFyUWY4SGFlam02LXExOVhsS3p3SlU3cEhDNnBkYS1N?oc=5",
-        "headline": "[채권마감] 5거래일만 강세, 대외금리 하락+외인 6일만 3선 매수",
-        "summary": "",
-        "source": "news.nate.com",
-        "published": "09/03 17:17",
-        "published_ts": 1788423420.0,
-        "tag": null,
-        "first_seen": 1788424233.8579586
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 22:15:49",
+  "updated_at": "2026-09-07 22:30:57",
   "yields": [
     {
       "label": "3년",
