@@ -1630,6 +1630,16 @@
         "first_seen": 1788802234.5919368
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBQOE15STNXTUF0N2ZKbXN0NE8xUm9YV2ZUQWNiUVYtTmFmLTdOVXJWRzRfcmVtVWpaRTVGN3JwQWhfcEQ4LXRRaFpZZFN4dC10N3R0bG9ldG53WENHNm9lMEc3R3pxVzg?oc=5",
+        "headline": "Japan's budget plans raise viability worries",
+        "summary": "",
+        "source": "United News Ph",
+        "published": "09/08 01:59",
+        "published_ts": 1788800381.0,
+        "tag": "JGB",
+        "first_seen": 1788806725.463411
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT0pEWjFyT1pNblFoZDJ5UGtVNjN2TnpHNEVTRFFFaE9tZ0NvbTYwSVFqcmNMSjVyNGlhbVVUYjc2eTc4eDdYUmdqV1U3WkJGVVNaQW9nSTFzWk1FX3lDU0ZzbkdJYjlKdTFlTDdyZWJvOEphX01tNldkVm1VTWJ5cHNPT3hYaGROWFRNR1Y4RjBhVmRMa29Ed3MySFVrRmtOVHZDajlHLUstRU0xRkZ1aNIBvgFBVV95cUxOVEExTDNSZDFiX2RMVDBIS1RJVEtMX2FQY2ZrSWhCTmJtUVRsZU96bW1xSWRqamlZVDZ5a1BsRjV5SExFSmRtdXcxd0VCLXFxVG0tUnhnb0xzb29yWGgzMEs4NDcxLUZNdUhrempBOUdxU1FtUVlsR1UtOXA0Y29xcnV5SHZVS2lOb3RsQmdvaGRfTjFrYTVDdmQ4MUNMTUhNd1NoMnpXbW5FcWVUYTc1MVZVSGo1czBLaC13d3BR?oc=5",
         "headline": "REC Issues ₹500 Cr Through Tokenised Corporate Bonds, 8x Oversubscribed",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "머니투데이",
         "published": "09/07 17:08",
         "published_ts": 1788768529.0,
-        "tag": "JGB",
-        "first_seen": 1788768925.5239289
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNV2RrOEtxaVY5dDBQSGJEdnUzemNmazE4b2VVOTRENXpZREsyNzcxaUhnaTNROFNTaEJBRDF0UUhYU2M1ejI0bFp2NkZBU2xibVVvc0Y4VzlFUGtmX0N2MloxNDA2NkprNWtYdlhVWDV2Y01wTWxUN3liMkx2eGp4YTZpNkJFWjhzNGZMYS1FY0xodw?oc=5",
-        "headline": "USD/JPY(USDJPY) 종목이 9월7일에 0.51% 하락했습니다. 시장 기대가 조정되고 있나요?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/07 17:06",
-        "published_ts": 1788768377.0,
         "tag": "JGB",
         "first_seen": 1788768925.5239289
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 03:30:58",
+  "updated_at": "2026-09-08 03:45:48",
   "yields": [
     {
       "label": "3년",
