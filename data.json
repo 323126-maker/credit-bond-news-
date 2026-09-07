@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZWTVSQ1FWTWVOVG51V3dWTmpYNHg2UUpIYmNyemRuV0p5aC13bHhYaHdNdzhaYlhQNnlSRFJkTG14VkNWaFZUUHdYSGNJV3RsOWlj?oc=5",
+        "headline": "美 10년물 금리 5% 시험대…국채·회사채 발행에 물가 발표까지 '살얼음판'",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/08 05:47",
+        "published_ts": 1788814020.0,
+        "tag": null,
+        "first_seen": 1788815724.7997055
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1JekRzc3dfZlV0dmdkeG9udGI0NWN3aXNZdFl5a0RaQmpRSzFDUHZ4aHZHQkxKTWtGRlF2RWdtVDl1aUJ2MHpRMVhUdmhfU1lkTm9j0gFYQVVfeXFMTW5tdjZEakZfMV9uNGExOTRLWTJrOW1PNE5ZZDBYTktURld5LVFXMlVqNVdCSkQ2TG92TG9BNUlYR09FMUJqd2VxLWZ6NlRNMDk3Ml9oQXNTcw?oc=5",
         "headline": "美 10년물 국채 금리 5% 넘어갈까?…노동절 이후 회사채·국채 입찰 몰려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788742849.0,
         "tag": null,
         "first_seen": 1788743722.3093524
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBTaDR5VWxPSnpLNTBBV1g2NFdjb1ZXMkhJZjNtYmozUnpHd295aXo3czdnTHc0Zzl0NUdwVGpESHdSemJVeWsxUVIzcjRWUlFIZFE?oc=5",
-        "headline": "‘채권시장 붕괴’인가, 세계 국채금리 급등의 진짜 원인",
-        "summary": "",
-        "source": "참세상",
-        "published": "09/07 09:57",
-        "published_ts": 1788742620.0,
-        "tag": null,
-        "first_seen": 1788751833.3722923
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 06:01:04",
+  "updated_at": "2026-09-08 06:15:50",
   "yields": [
     {
       "label": "3년",
