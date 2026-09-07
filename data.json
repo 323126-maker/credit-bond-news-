@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9SMnR6S0lyd3BObEpsSEdmNzhLMS1ieS1XYmR1WHdDRHlBcTljemg1d0FRX1hpOEpyeFNjZVBJaTV6NE9faXdKR2FZYXBlY0drekNEbGJ2dzVoay1GRzFNdWhVRjdKeEJOQjE0MQ?oc=5",
+        "headline": "미 10년물 금리 5%선 다시 넘보나?…국채·회사채 대규모 발행, 물가 지표에도 촉각",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "09/08 07:08",
+        "published_ts": 1788818930.0,
+        "tag": null,
+        "first_seen": 1788819329.1514106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56N1lKbElGMkNQcUFWbDBGSGc3RlNMcnFoZG00eEd6NHFSREdjZFQ3Unc5N0NLNzFCWFNPUFJVNmJacVlfMTVkZWZzak1KZkswOGpVMWVRbEtrODgtN2tlVXV6UVZaREUyUnl2ZkFNQkd2UVN3YXhR?oc=5",
         "headline": "노무현의 '회한', 이재명의 '고뇌'",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "Vietnam.vn",
         "published": "09/07 10:45",
         "published_ts": 1788745515.0,
-        "tag": null,
-        "first_seen": 1788746435.2910516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5BeFEyek5lU0hYWnl2UG8ydUxfWGVzMzhxNjdVUG1BazNZLWFjaV9VWXVMbXVYbElaN3hWdWJ4TWp6LVB5RVlvRTFPNUpXSTVrRDB6bVMtZ3NkNWNKR2x0V1hCM0YwcXVZX2k5aU5SczM?oc=5",
-        "headline": "[뉴욕은 지금] \"곡사포보다 채권시장\"…베센트 말 돌려주는 이란",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/07 10:18",
-        "published_ts": 1788743881.0,
         "tag": null,
         "first_seen": 1788746435.2910516
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 07:04:57",
+  "updated_at": "2026-09-08 07:15:55",
   "yields": [
     {
       "label": "3년",
