@@ -1670,6 +1670,16 @@
         "first_seen": 1788771637.0972323
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1OVGdqLWZ0MVVPcXZla0hnODkxSTU4U3gzbXAwVGhFRWc1Vm9kcF9VXzVRazMtVkFPLWk0dW9mMlhVYWREU3pHb2J1STVkMWVDWVJmcFN0a9IBV0FVX3lxTE1OVGdqLWZ0MVVPcXZla0hnODkxSTU4U3gzbXAwVGhFRWc1Vm9kcF9VXzVRazMtVkFPLWk0dW9mMlhVYWREU3pHb2J1STVkMWVDWVJmcFN0aw?oc=5",
+        "headline": "Won gains sharply, Korean bonds end broadly steady",
+        "summary": "",
+        "source": "Aju Press",
+        "published": "09/07 17:28",
+        "published_ts": 1788769727.0,
+        "tag": "JGB",
+        "first_seen": 1788773900.4713678
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbjFBNm5TcWU2NTlKZnN2QVh5TDI5WFh3SXBQSmVzTDhndWhURmd5dzVLUmUxOE1VUFduZ2tnLXR4UmpJRUx1RzR1d3lScXdrT09SZXdhcF9lYTkzbThWVzNCbjNJaDQ2VkNJemNxR0NnWUZ5Vzg0dkhvcGhaclpaLQ?oc=5",
         "headline": "\"이자가 두 배\"…日개미들 국채 사재기, 은행권은 초비상",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/07 10:51",
         "published_ts": 1788745900.0,
         "tag": "Global",
-        "first_seen": 1788746435.2910516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEd0o5RUN3VGw4bEx6ZFlWbmgwMUFFNXFrT2ltX3UxcGU4dXJqR3RkX0dQbmdZSzdOR2k1Z2Z2QWl6WnBTenFXMDAtNDl5blA2R29mcm1jNnlndlFhTUMyRlJzSFNvemhMS2lPREU0Z0t5d3plOWhQdFAyeUxGZw?oc=5",
-        "headline": "Japan's budget plans raise viability worries",
-        "summary": "",
-        "source": "China Daily",
-        "published": "09/07 10:47",
-        "published_ts": 1788745666.0,
-        "tag": "JGB",
         "first_seen": 1788746435.2910516
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 18:30:55",
+  "updated_at": "2026-09-07 18:38:42",
   "yields": [
     {
       "label": "3년",
