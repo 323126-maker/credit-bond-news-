@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQSTdqN1lRZng3RVE3UmdBYTk5bEw2ZnBwZkdxQXhXT3NuWkVSeFZnSEQ1Q1BOLWtZZW5zcU5DU3VYaGNsbFlTUGE3RHViTHMxT3VFU3Uxd3N5X2l3MFRmalRRQkRMemlSMFV0aEdzTTMyQ0NtaEllbzdiODNzTTNoZkVHWlM?oc=5",
+        "headline": "The Fed wants you to get used to higher interest rates",
+        "summary": "",
+        "source": "City AM",
+        "published": "09/07 23:37",
+        "published_ts": 1788791857.0,
+        "tag": "Fed",
+        "first_seen": 1788793253.3356535
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWjNPNHVhLXB5bE9oZ1k1VTE2UVVYT0JvSEVkWldtdFloSnRjZmJxeFFVMkhZUXVHVEwxSVBkcFF5N1FLY2dIRnpKMHFvWVFiZEdOdEQzaDdqaTVHM1hCOVNwdzZsM1JDV2YxQlN5Y3MwcHNNTmx3XzJVOWFUQmplNmc5Z3FqR2F2dWNaejRRVFZubUFrSktjWUJjTjU1SlFBb0Q0clM3TUFnWE0?oc=5",
         "headline": "Nvidia, Tech Giants Flash Stunning Market Signal",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "edaily.co.kr",
         "published": "09/07 14:17",
         "published_ts": 1788758243.0,
-        "tag": "JGB",
-        "first_seen": 1788759030.7382584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1rTkZjSHBUTXZSdXVtbDVVMndsLTU5TVA2b0owa3lpbXZ0bktVLVdtVHgzMHJjZUhsN1AzWkREV1RTUXpRb19DeldPcmp0Xzg3LUdv?oc=5",
-        "headline": "'슈퍼 엔저' 꺾이나…美 압박에 '달러당 155엔' 선까지 뚝",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/07 14:03",
-        "published_ts": 1788757380.0,
         "tag": "JGB",
         "first_seen": 1788759030.7382584
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 23:45:57",
+  "updated_at": "2026-09-08 00:01:26",
   "yields": [
     {
       "label": "3년",
