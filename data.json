@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE56N1lKbElGMkNQcUFWbDBGSGc3RlNMcnFoZG00eEd6NHFSREdjZFQ3Unc5N0NLNzFCWFNPUFJVNmJacVlfMTVkZWZzak1KZkswOGpVMWVRbEtrODgtN2tlVXV6UVZaREUyUnl2ZkFNQkd2UVN3YXhR?oc=5",
+        "headline": "노무현의 '회한', 이재명의 '고뇌'",
+        "summary": "",
+        "source": "OhmyNews",
+        "published": "09/08 06:53",
+        "published_ts": 1788817980.0,
+        "tag": null,
+        "first_seen": 1788818445.5919347
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZWTVSQ1FWTWVOVG51V3dWTmpYNHg2UUpIYmNyemRuV0p5aC13bHhYaHdNdzhaYlhQNnlSRFJkTG14VkNWaFZUUHdYSGNJV3RsOWlj?oc=5",
         "headline": "美 10년물 금리 5% 시험대…국채·회사채 발행에 물가 발표까지 '살얼음판'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788743881.0,
         "tag": null,
         "first_seen": 1788746435.2910516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5QRk51bUtkWEJJdC1NZDJvZE5DLUZDcV9DTURkVzlrem5Vd3h4c3diX0h5SnhVV2RvbFNyT2hKa05yY1NET0lrQ2dZNjRSVHFyQThpZERhSUZhOE1LRF9ZYUg2YnRjSmIxM2RzRDd5RzZ2bnZr?oc=5",
-        "headline": "[고금리 산업계 풍경①] 9~10월 회사채 만기 13조 도래 |",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "09/07 10:04",
-        "published_ts": 1788743062.0,
-        "tag": null,
-        "first_seen": 1788817524.3978753
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 06:45:48",
+  "updated_at": "2026-09-08 07:01:21",
   "yields": [
     {
       "label": "3년",
