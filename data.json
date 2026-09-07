@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DanRiQU9FTl9HWm14aDV4Tmh6VkVXcmhUYm9Bbm9maXlLQ3VLR0NQcDRqOXJLREZnMFpSU1hmVC1qTFBGMXdpZVQ2ZFBlWE5JYU9qYlBlVE9rVXl3V1IzTjZhd9IBaEFVX3lxTE5JV3p4d0FfOHpoQm9XZWY1WmFXSjY0SzlzM2dTamJzYm9PUndZTkVBdWI3SXRnS3Z6R2lDQ1hvV1lUX2RZRzRHTzhuQk5EaFZQV3Jib296ajFUQ2QzRFNxMG9GRHpHRS13?oc=5",
+        "headline": "[기획] 정책 넘치는데 성과는 어디에… 올해 국감 ‘작동 여부’ 시험대",
+        "summary": "",
+        "source": "m-i.kr",
+        "published": "09/07 12:00",
+        "published_ts": 1788750000.0,
+        "tag": null,
+        "first_seen": 1788764436.5492847
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4TEI3cTFmaHpIZzBHWVlkOTRxS3JMNEUtRGVwZnhDV1FsVTREc1FWdkpEUm94N3hiYkZWRFJkRE10dnhlMW1LYlJMMFQxZ1p2WHJmT3BFWEl6bTRLdjlCVjYzWFM?oc=5",
         "headline": "경기 교육·시민사회, “유·초·중등 교육 고사시키는 교부금 개편 중단해야”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788406744.0,
         "tag": null,
         "first_seen": 1788407123.9564593
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE81TFl3al9fNDRLNzZwWmpvRXRDcTFDcnp0MTZ4SEEzWEtTVjFUbVhXQVRUVFlfT0hlRFc4SFMxcXVqZURzNzVWcTVUSkEzRlRyM19CdnIyZDV0cDZ6OTE0TXVWMk1zUXFnNHc?oc=5",
-        "headline": "'국채 금리 진정' 닛케이, 0.20% ↑…연준 이사 발언 주목[Asia오전]",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/03 11:47",
-        "published_ts": 1788403620.0,
-        "tag": null,
-        "first_seen": 1788404440.7709525
       }
     ],
     "global_bond": [
@@ -1718,6 +1718,16 @@
         "published_ts": 1788751585.0,
         "tag": "JGB",
         "first_seen": 1788759030.7382584
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcDVfcmU5cFEtblhwcjM5QU1lS3ZwMWFHMERtV0hJbUt6OE85N1ZPOFMyNzg4NDZrbWlaYkNwVjdOdGlEYjlxaWpOMVN3V3NJRlc1d3paM00zWGxjcWlRbDdQU0JsYl94QWlyWTg1ZEJfeUE3WnJ3YzRSZzVMWWNxeENlRlhDRzhES0doNTEwU0o1b1NRcWgxd2VTNVpYWXdmT1o5RDB6bkoyTUVOOWM4cV9lV1FIbU54X0VVVy1VbXJIQm1WLUlabk9B?oc=5",
+        "headline": "\"사모대출 부실문제 예상보다 심각할 수 있어\"",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/07 12:10",
+        "published_ts": 1788750650.0,
+        "tag": "Strategist",
+        "first_seen": 1788764436.5492847
       },
       {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkNMQlItZzgtYS1lbHdCVGNTMmpTZ0sxZHhmTnEtX19hcmE3NDZ6N1haMm5BaDFRcGtYMGxicVg2eGhRanZPdkpUS1hPMWNJVmR1aTlEc0JIQk1pcTBBaXQyLXpjODZOb2piSGE3bEhqTGJQU2ZOaGlDU2hFNm5IWnpDV0sxcEtxVWVkdWd6M1FueGhLVEZ0M2p3dkFnTGM?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788738758.0,
         "tag": "Fed",
         "first_seen": 1788743722.3093524
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tYVVWRTVvT2dISjd4b3d2dzM5S2Jwc0ZBcnpJZ0l5NC1neThMWjFnYzkyOHR5aXcyTnZtM0w4dnF1VHhBWC14enB4QTVXNVNKT3cxcTZzZWhhdw?oc=5",
-        "headline": "미·일 금리차 반토막…엔캐리 청산 복병으로 [fn마켓워치]",
-        "summary": "",
-        "source": "fnnews.com",
-        "published": "09/07 08:33",
-        "published_ts": 1788737601.0,
-        "tag": "JGB",
-        "first_seen": 1788738322.4110112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-07 15:45:44",
+  "updated_at": "2026-09-07 16:00:59",
   "yields": [
     {
       "label": "3년",
