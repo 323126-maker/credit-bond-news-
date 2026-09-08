@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelVXMDhPLVRwcFNpc1o4TkR3T25zLXh0VTFhU1pxd2tyM3JRc1FiZkF0U0ZUUkhUSVdGZVpHQkd1bXF6UVZlV1RpWkhNdVVxOTlNZ2YxY3I2SmkwTG9TM0t3R3VjdEpXeDVlMk40Wjctam1wcUZYdVVCS3pNRVBueExLdUQxZU4tUFhLLVBWNG1feTZoVDhkUzBMLWhIWTRSR2xtU2YyMA?oc=5",
+        "headline": "Bitcoin faces pressure as Japan's bond yields h...",
+        "summary": "",
+        "source": "Pluang",
+        "published": "09/08 17:54",
+        "published_ts": 1788857675.0,
+        "tag": "JGB",
+        "first_seen": 1788858039.8170223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ3p2eW1iTEo4ZmtqRnhyM05vUGJMajVlUWhBeFNOY0d1UUJmQ196OVE3RnUxeV9fd2lSd3dxM3hWbWYwb0pTSzF1VXctQ3BJbk9TSXRHZC1zYXNITXpvcjdCSVctOXNwUVU0aEtSTllJUnpyMUhBZXAzeFIyRU1xTnRsajVTNWs5Umt2WHEyV0Y5dGlCVkk0QmlkZVhybEwxWFpwYTZHWWZKVTMtWTRoVnpabXgxTXBsMDFpQlh5Ylc4Q1lCVWc?oc=5",
         "headline": "Trumpflation Is a Problem for Fed Chair Kevin Warsh, but It's Not the Only Serious Inflationary Threat",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788830884.0,
         "tag": "JGB",
         "first_seen": 1788838230.3756244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DeHZTS2RuRUZMWDhCVVFFTEhNYjZVcUp5bnllSGJmc1J1bkFpb1lQZVlCY2NaaE9MaVMtQUZkc05tempWQ0ZZbFVHVDZTRFVDZlN3?oc=5",
-        "headline": "[국제동향] 엔저 시정 압박부터 러시아 금괴 홍콩 이동·AGI 시대 선언까지",
-        "summary": "",
-        "source": "산업종합저널",
-        "published": "09/08 10:08",
-        "published_ts": 1788829712.0,
-        "tag": "JGB",
-        "first_seen": 1788851723.439593
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 17:45:47",
+  "updated_at": "2026-09-08 18:01:02",
   "yields": [
     {
       "label": "3년",
