@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSUNIXzVCWEtteWhXZmN2Q0RLOVREaU9NRXZGcFYtWWQ4Z3JVTmlUTTl3WXZZQVdzMzVLVklYV1VpaFE3UjkyQVpCeDdmTGlXTkMzb0F0VlNOcVpRYUN0YmdHSEQwUm5YejExdlltc0hkdjBTNUVORDFUdW1kZVdNd3hHekVscEtiQU5mZ3A1U1RBbUtnZTlTQW8zbUZsUkJTbVpySA?oc=5",
+        "headline": "베트남 시장의 신용등급 상향 조정이 완료되면 외국 자본 유입 가능성이 매우 높아질 것으로 예상됩니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/08 13:38",
+        "published_ts": 1788842320.0,
+        "tag": null,
+        "first_seen": 1788842726.019103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qUDRzN2QtT0ttdVV2UzhKQ3ZkOVpmV3ZFWHhnbDJVV3o2NUdpTWFBRk84WUw4VjVnN2tHZGNMVVBLS1BQQ2hReWg2SkdEU1N2MU4zN1hWYjY5bEdWWlNpbVh5UFdwempYR2dLTFNR?oc=5",
         "headline": "9월 7일 경제 뉴스 요약입니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788767155.0,
         "tag": null,
         "first_seen": 1788768035.5360036
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKTDJ6VUs2bjVwRHJyTDZOc0lZYjcxaXBNY1ZJOEZFbEQ0SUdXbHQ2aUFDNUs3RHZOTGQtNDZkVjVzczV3V2VlaDB5ZjlUcUtJT2c?oc=5",
-        "headline": "국고채 금리 혼조세…3년물 연 3.900%",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/07 16:40",
-        "published_ts": 1788766851.0,
-        "tag": null,
-        "first_seen": 1788768925.5239289
       }
     ],
     "perpetual": [
@@ -482,6 +482,16 @@
         "published_ts": 1788784837.0,
         "tag": null,
         "first_seen": 1788817524.3978753
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE54NW8wd21CLWVmaF9JS0p1bHNoM2NsRzhvMVloS0NpcW5IU0hsVEhMLUExbkMwZm54enZsNVlCeVJpaDdaaDVLVEVFdTBBazZBYkZBeWJkZWFSdU5mOHVCNnkzclVuandSemY3bTBwczJEcVE?oc=5",
+        "headline": "한국캐피탈, 신종자본증권 500억 원 발행 결정...채무상환 자금 확보",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/07 18:33",
+        "published_ts": 1788773580.0,
+        "tag": null,
+        "first_seen": 1788842726.019103
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05LXdGbzVlQmxyQ1hLY1drbG04cFNFcElqR2tqVTlkZW85OE9qa2xjeXFkaTZ3Zy1ZTXk2NzBnN0w0ZEJTVGQ3cHVURm0xclpLUW4zamhSaXo2bWhWN3dNdzlHYkR5MTJ1ZmhfVA?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1788481620.0,
         "tag": null,
         "first_seen": 1788486323.2976072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9ZZWdoQjBvOHZ6aWJLbndkMk1MSHdhQmliOTdDNjVWcjdYOGQ3Tmp6Q1FwU1ZaX0JSVmE4RjZMc0k3U3lHS1BRUUlVTkM1SGhCUjBRVzdYek5hd2lpY3Z3S3ZxQjBKdWRRa0I1dVNkZ0FJMVRP?oc=5",
-        "headline": "하나금융, 장기보험 체급 향상에 힘...하나손보에 2000억 추가 증자 검토",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "09/04 09:09",
-        "published_ts": 1788480544.0,
-        "tag": null,
-        "first_seen": 1788690629.5883825
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1kWGd0ZDBrSjk3cXcyZlhpdkxJRDVNT3N0Tm4xNWcxQ09MTVNvWDhZdEV2SFI1UnFidm0xLXJqWldXQXBUTnM1Nk9aVTNZUVpw?oc=5",
+        "headline": "Japanese government bonds yield curve flattens as BOJ tightening remains in focus",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "09/08 13:29",
+        "published_ts": 1788841788.0,
+        "tag": "JGB",
+        "first_seen": 1788842726.019103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KR3BISUxWRmF3V19uS1dCMU5ydFlZZzZIdGozRHQ3eVpSNmZSWUpweHB0bDNjT1hidXp3RlJRMWpoSk5uSVQ5YTZQclVpcmdnQWFkUGczaXVBdS1WbG5nZTRqSFVZVDVLeXQzVWlhVk1zLWhOSU1fX1ZB?oc=5",
         "headline": "일본 엔화는 7개월 만에 최고치를 기록했습니다.",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1788840751.0,
         "tag": "JGB",
         "first_seen": 1788840923.904138
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5",
+        "headline": "The world’s $2tn interest bill",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/08 13:01",
+        "published_ts": 1788840064.0,
+        "tag": "Strategist",
+        "first_seen": 1788842726.019103
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNTJ3WFA3UDlRSmk5TEdlWWlrX0pBNjBWTE9rMnJLb21aZG13dDRidHdCUmh5ZzZJWGFsY3dWVTU4VlJIcGVNRkJzMWxiNVQxNTV6QWpPRHdmenJVTDMyYmpkdkNFTGt6em9MQ1d5TnY1Q3NIRUdqdlJHU1Q5SHdIdDhCR3Q1UXlubUo5cTJTVHVyMlFyM2t4b1RXcGRhenpUVUtXLXZXRF9xYXAwUEVF?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788803880.0,
         "tag": "Global",
         "first_seen": 1788804923.926721
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOaWt3SmJGUE0xTk9hZGFmZktIaDMxYXFZR2lhYTN6R2V3Ql9vci1WdFZxeW1wNlotSkkzZEZlaGVFVEt3M3RIOFJTMEN5LXVsT2VRWjFBVEcxR2EzaFRXTE9VVkUyeGM4OUlaczZjckJtQ0xLbUd6M0pSNUZmN2lZZ1l3RnAxdmZHNV83MkI3RFhMWGtyYURPREFrNjhqalQ2eFJRLXExYWtzbE5uQ3pDOGJrTFVnSGtEbnZwR2JSbEFhZnQ0aEd5NElZLVliM0VOX1N3S1dySWxwOG1scUg1M2I4dw?oc=5",
-        "headline": "Bitcoin fund flows show investors trading Fed rate path, not exiting market: CoinShares",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/08 02:29",
-        "published_ts": 1788802167.0,
-        "tag": "Fed",
-        "first_seen": 1788832835.5079715
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUEN5U1BRa055TTA0Y0pFaVktY1RMd3hieHpTQWowX016VWQyN3dVZHNRbm1YVm9WMTFrUmF6MktPeHpsNzFodVRGUW9rcmdXQ2dnSkNSLWF4UVNfeHRRVmtPRUdBaEo1MXZSamI0Q2lDUDd6cUMzTlNqRG9DR2ZuRUNvRExsd2IyaTZSLTZSSlRKM0RpNkRSU1Q4UW9kQXNaamFrYl9FbE8tTlo0TTFFdUh1bXgzQ3R4Ql9NU2dBYzBmT0FkQVEtVnBYckh1OEROVk1ZRjBZZGJnYW0wcHltU0Q0UG41UWJX?oc=5",
-        "headline": "Janus Henderson Global Multi-Asset Aggressive Growth Managed Account Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/08 02:14",
-        "published_ts": 1788801240.0,
-        "tag": "Global",
-        "first_seen": 1788802234.5919368
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 13:30:52",
+  "updated_at": "2026-09-08 13:45:53",
   "yields": [
     {
       "label": "3년",
