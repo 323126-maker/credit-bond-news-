@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNV1BpOWh6ek5ZeXRac1BBTlEwQm5oQmpCaVNhN243RXl0Q2w2cDFpNWxDMnZLZXZpRG41ZGNDRk5rWkxHelJ1QXN4c25tcDQzM21JajBaM3ZieGRodWJHUWlNdFRCdHJuSE1FbFFzSnp3T0g2RUFfdm9UX2lNOXRaNkEzWHNzT0lj?oc=5",
+        "headline": "Bond funds stumble as sell-off hits portfolios",
+        "summary": "",
+        "source": "Investors' Chronicle",
+        "published": "09/08 19:21",
+        "published_ts": 1788862892.0,
+        "tag": "Global",
+        "first_seen": 1788863437.7061894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTkQyZERqYnVfdnBjajUtTFJ6OE1YT3dZbkhfRHU0MHdRb003eFVnQjJpWHYwekJaR0NSLUdGWDVKZ0pVRzJZLXpXdjRmM2V2SVNpeVByQ3RsOHN6SEUxaV80WHFxZHp2bEJfS3hLUHFvbl9ENkFTWjZnWktvTzktOVk5enBfWkdMVFJldTJn?oc=5",
         "headline": "Five spots to watch as the bond market creeps up on 5%",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1788862035.0,
         "tag": "Global",
         "first_seen": 1788862529.0330741
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5",
+        "headline": "The world’s $2tn interest bill",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/08 18:56",
+        "published_ts": 1788861375.0,
+        "tag": "Strategist",
+        "first_seen": 1788863437.7061894
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UTmtCMXlVaU5Ic2lVS3BJTVpBMWRTNklvQm1YYklmWkNaWjBmTXR3a2dfQVZTdVVqZEd0TWpwbjlSMjMwWnVtRVBOWXlVZlkwcFE2TjRjTEJ5ZDlHOVg3NkhCd3VPTmtu?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788841788.0,
         "tag": "JGB",
         "first_seen": 1788842726.019103
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5KR3BISUxWRmF3V19uS1dCMU5ydFlZZzZIdGozRHQ3eVpSNmZSWUpweHB0bDNjT1hidXp3RlJRMWpoSk5uSVQ5YTZQclVpcmdnQWFkUGczaXVBdS1WbG5nZTRqSFVZVDVLeXQzVWlhVk1zLWhOSU1fX1ZB?oc=5",
-        "headline": "일본 엔화는 7개월 만에 최고치를 기록했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/08 13:12",
-        "published_ts": 1788840751.0,
-        "tag": "JGB",
-        "first_seen": 1788840923.904138
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZlAzZDNabUNOeUZTX0xlWHRhdklyVUhNb1VkOEM4VGxic0IzYkd5NnozQy1XRlA1NGtCbnRIVGlTWDJGWXNZc2V0VXlJMTk1WGs4TTRxQ040WVZvM2trbDFNeE1iZk9JblpOOF8wQWo4WTdyN2hTUGpidDVmNHJ4SjRrSzY4R3ZjV1pxby1sRmNBdw?oc=5",
-        "headline": "USD/JPY(USDJPY) 종목이 9월8일에 0.65% 하락한 이유는 무엇인가요?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/08 13:01",
-        "published_ts": 1788840067.0,
-        "tag": "JGB",
-        "first_seen": 1788844524.729169
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 19:15:50",
+  "updated_at": "2026-09-08 19:31:00",
   "yields": [
     {
       "label": "3년",
