@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcXdzX1U5WDU0OFh5Uk1xbDFtLWhfb0djUF9iUnRKVVhkZ0V2dEMyeVNDc2FLQm9kbDJ5RVlGamdieFdtSWR4cGlOcHRqaWh3NVQ3dUl4MGdTMEZudHlCS2hfd1pGRVdCRGdwd3d2NWRfTnNsOWN2ZUd5bklTaEpqeQ?oc=5",
+        "headline": "TMGM 데일리 마켓 브렉퍼스트: 2026년 9월 8일",
+        "summary": "",
+        "source": "tmgm.com",
+        "published": "09/08 08:50",
+        "published_ts": 1788825042.0,
+        "tag": "JGB",
+        "first_seen": 1788826523.6346023
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51bXNsZks2M3V1VVlVY1BLTTBmUmtJbGhhakg2enRvazZXM3ZlWEpzcjNWdlpXQXI5OHA3MF9xWkNjd0N2NXc2OGhpMGpaRGVpZGM1dGdEM0RPblnSAWBBVV95cUxNS3FlMjk4WGtkcHN0ekx6ajRJUmtTQnpHRVhUUllMMHBaYlZFYko1Yk5IYVlwd3lQMExVbWt0S1ppWU1zZWxDV3hpXzVhZ3R4bnYtN0lXSWRnOS1kYkxEakk?oc=5",
         "headline": "한투증권 \"엔화 강세지만 급격한 엔 캐리 청산 우려할 때 아냐\"",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/07 19:34",
         "published_ts": 1788777266.0,
         "tag": "Global",
-        "first_seen": 1788777925.0957396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWXRpU1Q5Rjh5NTJ1OVN1d0ZJdjJDZjl1RFRpbV9tUkdXcklBX0V2V3MyZ21MVnJ5RTNydzlBNGdEUy1kNVpYNkNvLWNaZlI0b0Y4WjBla2ViV01peFZ3RUtTVFdkdy00SjZrWFlrbkhnRm1FNmd5Y0FQQ21xN1VILS1sZHYyRm5ndDBWeFhYYXlWZmo1Tkg3M1Y3dXpGSDhXMVAxbDY5SzUxRTR0OW1LSUgxbFV1S2JvazRr?oc=5",
-        "headline": "Top Economist Sees a Strong Investment Boom — But Warns These 4 Risks Could Trigger Next Market Shock",
-        "summary": "",
-        "source": "benzinga.com",
-        "published": "09/07 19:26",
-        "published_ts": 1788776786.0,
-        "tag": "Strategist",
         "first_seen": 1788777925.0957396
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 09:01:08",
+  "updated_at": "2026-09-08 09:15:57",
   "yields": [
     {
       "label": "3년",
