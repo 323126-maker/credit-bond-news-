@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS3R6YThrVUI4YUZKSHhJUFRRajlleGIwdEVNNjBVNjJZeGZKZnN5RU9nSHZoazBaSWtueGw4anlobjJOaEdJVWEybFhjLVREaVREaG5HODkySk01enNNX2FTSHZ3T2ZJYlhHdXVwbFUzTmRLbWFSTjRfUVpQeWdPUWZWRkpDYjZx?oc=5",
+        "headline": "엔 캐리 청산 압박 고조… 수십조 자금 대이동 시작",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/09 03:26",
+        "published_ts": 1788892016.0,
+        "tag": "JGB",
+        "first_seen": 1788892239.40652
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaGhlbVFzWHYwbEdqYThLMlRWVzFfZDFpRVVueGNnM0hOUnJRZHk3VzZaQk9OcUI5NmMzdG5pdnY4ZV8wNVdVZkRnOXBIWnI5Z18tYmFpT0lQVGJpT0EteVpJS24zc05aQ0ZjbmJlNzU0aTkxN0pIclZsRno2MlhNOFFENXg0MV9YdmMyTnB4RlZDa1BsZU92ZnVKWTJqSUZK?oc=5",
+        "headline": "What is causing the global bond sell-off?",
+        "summary": "",
+        "source": "The Economist",
+        "published": "09/09 03:15",
+        "published_ts": 1788891309.0,
+        "tag": "Global",
+        "first_seen": 1788892239.40652
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5lU1VIMl9XRF9PTGxiRnd3T29aTDBqVkEwZEt1R1c1UTRJRFhVRHFiWmN4dEJNUklTSFlBTlVwMzFONDdRemlDRHd1TDRGY3BmMHR6V0hud3h5bmZQd29xMGVpRDFESG9FUG55RWVtOUFhS2xJUVEycklB?oc=5",
         "headline": "Trump's Fed Chief Missed The AI-flation Memo",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788861475.0,
         "tag": "Strategist",
         "first_seen": 1788876924.345987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPV1dWbmIyamZrZ2c3b3VHdWx3dkdGeExoSzZhcXgtUUUzaGN2U1FQVkhGNmJNQVB3UFVaemEyZEdwQ0Z6ajVMdGJKY0hFNi13WERubTVnTm1nN0pTejlBUlZPOHNKTHA5UVR0OExDU3VBMm55QzNsbndHMVc5aUJuVlVCZHg?oc=5",
-        "headline": "The world’s $2tn interest bill",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/08 18:56",
-        "published_ts": 1788861375.0,
-        "tag": "Strategist",
-        "first_seen": 1788863437.7061894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UTmtCMXlVaU5Ic2lVS3BJTVpBMWRTNklvQm1YYklmWkNaWjBmTXR3a2dfQVZTdVVqZEd0TWpwbjlSMjMwWnVtRVBOWXlVZlkwcFE2TjRjTEJ5ZDlHOVg3NkhCd3VPTmtu?oc=5",
-        "headline": "Trump’s Rate Demands Could Give Fed Chair Kevin Warsh a Chance to Prove Independence",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "09/08 18:55",
-        "published_ts": 1788861347.0,
-        "tag": "Fed",
-        "first_seen": 1788861638.8231409
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 03:15:51",
+  "updated_at": "2026-09-09 03:31:02",
   "yields": [
     {
       "label": "3년",
