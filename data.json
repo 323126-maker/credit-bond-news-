@@ -102,6 +102,16 @@
         "first_seen": 1788818445.5919347
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWRZNFlfVzZReENEemNvajJQLVRaRWZtX0F1bDNVUTJpbl9xdDBHNzBrLVlXdTZTVWVaa1l4VHV1T09TTDlBcW5idnA3YnhXajFueVVGVVIxVDFkbE9JVURrWlhaRUt0UDlUZTBCZXFackxvSC1kUjZlQV82UnZuaA?oc=5",
+        "headline": "회사채 시장 최애템이라던 증권채, 알고보니 '속빈 강정'",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "09/08 06:50",
+        "published_ts": 1788817800.0,
+        "tag": null,
+        "first_seen": 1788840037.4398408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLRVExREJwdlpFUXJpZHpHRW9OOVhYekpDbzY0aXp5eU9CcHFHXzg0NDFpNk1JTE1helBJaFBjZm9rTFpxQ1lRck9SRW1xSGctbkRrT2hzTmJwZw?oc=5",
         "headline": "美 10년물 금리 5% 넘나…국채 입찰·회사채 발행·물가 ‘삼중 시험대’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788758532.0,
         "tag": null,
         "first_seen": 1788777925.0957396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5sRTN0UTJqNnh4TVcxMkpQWjVKT1BUbjk4WjBfcTlXRjZOWW5JUEFLQnM0NGsybEpCTzVlRnBhbWxOQ05Sb2FyQVV2OENPV2FzN0h6TzhpTFUxdWM0emZfVDQ4UHFEWWg2eFE?oc=5",
-        "headline": "폴스타, 미 규제 여파로 연간 인도량 전망 하향 조정",
-        "summary": "",
-        "source": "다나와 자동차",
-        "published": "09/07 14:15",
-        "published_ts": 1788758108.0,
-        "tag": null,
-        "first_seen": 1788771637.0972323
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1OVnZ2YlVnWWtzdFJQMWRpSWJxbkF1V005N1BkZzZ6OXQ2THRTUEpqcm1tN3BrNGdfRUZkY1R1VG5rYWxPeVVWVlRSXzdRZ28zSmN4Ylc3eXY3QQ?oc=5",
+        "headline": "[단독] 이형일, 尹 정부에선 \"다주택자 과세는 징벌적\" 주장",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/08 11:22",
+        "published_ts": 1788834138.0,
+        "tag": null,
+        "first_seen": 1788840037.4398408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1fak43ZXZ0OGlRQlRuT0VXYnQyTTdKX3RXbkJ4eUR3VDkzU3lJTUNvbkZHckZHOGU3bDZmd3p1MGt3QklsbHVLelRyb2tsX3RJTXA4ZFJHdUhCVTdqcHB4ajhFQy1BOWpIUmVEanJ3d1NYT2ZfczBoNdIBeEFVX3lxTE1fak43ZXZ0OGlRQlRuT0VXYnQyTTdKX3RXbkJ4eUR3VDkzU3lJTUNvbkZHckZHOGU3bDZmd3p1MGt3QklsbHVLelRyb2tsX3RJTXA4ZFJHdUhCVTdqcHB4ajhFQy1BOWpIUmVEanJ3d1NYT2ZfczBoNQ?oc=5",
         "headline": "정점식, 오늘 교섭단체 대표연설…공소취소·개각·부동산 문제 등 정조준",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788459818.0,
         "tag": null,
         "first_seen": 1788532231.8628106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5JTTZGR3dQY1RuVXh2WDdTV05QcVdzVzB4YVFOZTZheEswUnNIczhYTTFWQmVjN2p1S20wdE9NWVROd1JMSnpIbXFnZUx3TTNEb2pQRDA0S3FDNHMyN2hkZHJmWWIyY3B0V3Z1TnVldkY?oc=5",
-        "headline": "美 국채가, 월러 비둘기 발언에 급등",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/04 00:31",
-        "published_ts": 1788449512.0,
-        "tag": null,
-        "first_seen": 1788456630.5043795
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 12:46:04",
+  "updated_at": "2026-09-08 13:01:01",
   "yields": [
     {
       "label": "3년",
