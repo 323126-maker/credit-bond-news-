@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNV3JydDlVVnZadmExeFhiTVZUaHdONTlCOEY5NGJha3FZMEtXTGhTOGprUGptN0U0dmlCVWFocTBBaUNBYW9zeUZhRjZsYjdIUE9rUk9EMWM0THFWQXkzYnBXeU1xZGdwNWl2RnVaZFRjb0VIVHpPX1hyZXM4TXdXdHJBU3VVTlNmUUxjaUxPM1ZIdnkwa2ZNaU91Tmh5bjh0dHpBQm1lUVVTNmc?oc=5",
+        "headline": "Readers sound off on interest rates, fall activities and Stacy Keach",
+        "summary": "",
+        "source": "New York Daily News",
+        "published": "09/08 18:00",
+        "published_ts": 1788858033.0,
+        "tag": "Fed",
+        "first_seen": 1788858924.01082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelVXMDhPLVRwcFNpc1o4TkR3T25zLXh0VTFhU1pxd2tyM3JRc1FiZkF0U0ZUUkhUSVdGZVpHQkd1bXF6UVZlV1RpWkhNdVVxOTlNZ2YxY3I2SmkwTG9TM0t3R3VjdEpXeDVlMk40Wjctam1wcUZYdVVCS3pNRVBueExLdUQxZU4tUFhLLVBWNG1feTZoVDhkUzBMLWhIWTRSR2xtU2YyMA?oc=5",
         "headline": "Bitcoin faces pressure as Japan's bond yields h...",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788832630.0,
         "tag": "Fed",
         "first_seen": 1788836438.197252
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUE5qbFJSTkp5V1BvWHcwdWxvYmRreDZyWGktOGZ6dm9LdVFpOEItc3JiLVdyVTJiVms1SHNFOEFJczhyZzE4OFBnNE1aYnBRdDg0cTU0YmhQLU1kYkNSZ2RRbnVod2tBSHVhOXllRHhHaEZEX29IcnVBSC1yMDhGMlB4dk9XVFRLNEpqc2pwQXZScHg4bjVsTjd6NndkYjFpM2ZFeA?oc=5",
-        "headline": "Behind the Surge in Japanese Government Bond Yields: Rate Hike Expectations, Central Bank Withdrawal, Fiscal Risks, and Global Bond Sell-off Converge",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "09/08 10:28",
-        "published_ts": 1788830884.0,
-        "tag": "JGB",
-        "first_seen": 1788838230.3756244
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 18:01:02",
+  "updated_at": "2026-09-08 18:15:48",
   "yields": [
     {
       "label": "3년",
