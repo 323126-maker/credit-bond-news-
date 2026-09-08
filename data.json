@@ -2032,6 +2032,16 @@
         "first_seen": 1788843125.7665348
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LaHRvdUtodjVRM19HOHlfTFZWQ2NRRWdFTjB3bGZPaWtSejdqdUJ0UDlUNDROeF9xOWppcy1BdlZnN2M3QjBSZGxUMTRZdGUxTWduNHM4TXF6NFJ3cjhRYUdGcFRaXzBJbTd3?oc=5",
+        "headline": "신한銀, 6억유로 그린 커버드본드 발행…19억유로 주문 몰렸다",
+        "summary": "",
+        "source": "서울경제TV",
+        "published": "09/08 13:28",
+        "published_ts": 1788841720.0,
+        "tag": "신한지주",
+        "first_seen": 1788853523.950148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1mRGZ2Y1pCTXV2aDlFd1hEQ3M4Sy1XdzNCZUMxS3lXbG5IdWxFYnlCNnhKbjJ6eXd3MVBLS2RHLW85R25fNy1xbkFITWl5S2NXNGdCNDVERmFlbkRkcF85ejlkOXk?oc=5",
         "headline": "삼성카드, AA+ 회사채로 1200억원 조달",
         "summary": "",
@@ -2400,27 +2410,16 @@
         "published_ts": 1788421068.0,
         "tag": "신한지주",
         "first_seen": 1788458436.3442943
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9YSURpM09CeVhuOGZ2SW12QTJabm1JbE9FdGk2LURvbEluMW9CZ1BYNkNhRXR1Qzd6dms0Y2d5YUczMk5zbWdSdFc3eXJYdFRzZnk1UktDMUJwX2xCUXhLc21WSW9vT092OHZlLW5GT2xZUQ?oc=5",
-        "headline": "'과거 신용' 대신 '성장성'... 은행권 소상공인 대출 계산법 '각양각색'",
-        "summary": "",
-        "source": "중앙이코노미뉴스",
-        "published": "09/03 15:21",
-        "published_ts": 1788416463.0,
-        "tag": "수협은행",
-        "first_seen": 1788465638.1170263
       }
     ]
   },
-  "updated_at": "2026-09-08 16:30:52",
+  "updated_at": "2026-09-08 16:45:46",
   "yields": [
     {
       "label": "3년",
-      "value": 3.9,
-      "chg_bp": 1.6,
+      "value": 3.901,
+      "chg_bp": 0.1,
       "series": [
-        3.778,
         3.808,
         3.791,
         3.781,
@@ -2439,15 +2438,15 @@
         3.93,
         3.888,
         3.884,
-        3.9
+        3.9,
+        3.901
       ]
     },
     {
       "label": "5년",
-      "value": 4.12,
-      "chg_bp": 1.9,
+      "value": 4.127,
+      "chg_bp": 0.7,
       "series": [
-        3.994,
         4.042,
         4.025,
         4.016,
@@ -2466,15 +2465,15 @@
         4.167,
         4.118,
         4.101,
-        4.12
+        4.12,
+        4.127
       ]
     },
     {
       "label": "10년",
-      "value": 4.385,
-      "chg_bp": 2.5,
+      "value": 4.401,
+      "chg_bp": 1.6,
       "series": [
-        4.239,
         4.301,
         4.294,
         4.298,
@@ -2493,15 +2492,15 @@
         4.418,
         4.367,
         4.36,
-        4.385
+        4.385,
+        4.401
       ]
     },
     {
       "label": "20년",
-      "value": 4.567,
-      "chg_bp": -0.6,
+      "value": 4.56,
+      "chg_bp": -0.7,
       "series": [
-        4.555,
         4.639,
         4.651,
         4.619,
@@ -2520,15 +2519,15 @@
         4.614,
         4.593,
         4.573,
-        4.567
+        4.567,
+        4.56
       ]
     },
     {
       "label": "30년",
-      "value": 4.631,
-      "chg_bp": -0.5,
+      "value": 4.635,
+      "chg_bp": 0.4,
       "series": [
-        4.585,
         4.666,
         4.685,
         4.68,
@@ -2547,7 +2546,8 @@
         4.657,
         4.635,
         4.636,
-        4.631
+        4.631,
+        4.635
       ]
     }
   ]
