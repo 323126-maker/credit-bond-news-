@@ -1690,6 +1690,16 @@
         "first_seen": 1788868836.2301555
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlJyMEZjMzY1WGZkdzZwdlJ3c0NYc1RBOU9yZkRYb1FpNjBCUElLSWU1ejVfemROSmhWOVBUWkhGV1VNWU1XTVlJd3VNcmlXdDZfc01taXJVTnppazFSS05iQ1A4Smw0OVNPS3l0VWNZenBVT1JONkg4U2RsaUozR2xWR3ZubUo3XzVlZXptNEhJOHZGelJtRl92aWRhLS1sSXplRm5TdUQ3Mk1SMnlpdHRiT3JXTk5IMDREWll0dGlsanlNQ1VNTA?oc=5",
+        "headline": "COMMENTARY: Trump's baffling Fed threat could be gift to Warsh: Mike Dolan",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/08 19:52",
+        "published_ts": 1788864768.0,
+        "tag": "Fed",
+        "first_seen": 1788876037.2624493
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNTTNnV0x0WWlTYmkwWUFDRHBCOHZLSm9Uc09iTVdoaV9zNFdiYk5laXNNcUFxNEdBMjQtQk93cU8zZVdFM0Zac25JYjFURVBnbG9ZNm9XYXRFU0RmbTlYalpXVW0tTjk2VzVTeGFaT0Z5eTBkVURKUjFha25yTHNIOEtGUlc5LU1IU2V4VGRta0xYekFkbWtTcw?oc=5",
         "headline": "CGMS's Golden Moment: Strong Jobs Report, OAS Declining (NYSEARCA:CGMS)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788848360.0,
         "tag": "Fed",
         "first_seen": 1788868836.2301555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZFNPUkNhbVdWbW0zcWdHX2o2UWU5TXdXZWoyTEdLNUJNQlh6cWZ0WGZmVVBYUG5CRlFXWTc2SHFzSDFicFVlbWRXQ3FBZzRDY3JJbXNOSzhtekNPOTRXT1FoZzlNNVVmcEIyX2ZBSGhnN0hucFlNTHB5Rm5BUkNaVTFDa210c2N3N182Q2t1U1hpNWtj?oc=5",
-        "headline": "Lazard US High Yield Portfolio Q2 2026 Commentary (RLCIX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/08 15:15",
-        "published_ts": 1788848100.0,
-        "tag": "Global",
-        "first_seen": 1788849032.268315
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 22:46:40",
+  "updated_at": "2026-09-08 23:01:06",
   "yields": [
     {
       "label": "3년",
@@ -2494,6 +2494,33 @@
         4.36,
         4.385,
         4.401
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.56,
+      "chg_bp": -0.7,
+      "series": [
+        4.639,
+        4.651,
+        4.619,
+        4.558,
+        4.661,
+        4.63,
+        4.601,
+        4.664,
+        4.621,
+        4.576,
+        4.542,
+        4.468,
+        4.491,
+        4.49,
+        4.559,
+        4.614,
+        4.593,
+        4.573,
+        4.567,
+        4.56
       ]
     },
     {
