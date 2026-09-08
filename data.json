@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNY3psRWtqTzNsY1ljaFdVNUFvY2kxSkJzQzZDUFoxQ1pSVEJBMWVHMHlMbHBIMTd0VVAxYzM2STJ2Y3g0OHNGT2llbnpiUlNzbzBhVXhyYTRld2dvaWk3V1J6bC0xamhpbGk1X1J5MW1NN2lnWHQ4VzItYW1lMDVNU0hjN01peWpuNEFRaktqT3FJWGQ0Nm5Uc1BpbkhsSW10Q3FDUVB3eGl5dw?oc=5",
+        "headline": "Global bond rush builds with issuers racing to avoid headwinds",
+        "summary": "",
+        "source": "The Malaysian Reserve",
+        "published": "09/09 00:56",
+        "published_ts": 1788882975.0,
+        "tag": "Global",
+        "first_seen": 1788884126.211814
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNUDBsU2NNVkY5SFJ2OG9TZUU1akQtUVRQNHdHVU9sU3lZOW5IaC1fNDJ0RkdqMXZFTXhPZ0xyZ3Zsek0yV09IQ3o5OS16VjdPWm92X1FhNWY4WlBCWnVmb0M5U3RtcjFDMzBxRkVhc2FaMDVBQ256VF9rQ0JxSzJtOHFQRzRfMjFYb0FDbEFyZmJYd1pPOXV2XzMwRQ?oc=5",
         "headline": "FALN: The Benefits And Risks Of This Fallen Angels Bond ETF (NASDAQ:FALN)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788854987.0,
         "tag": "Fed",
         "first_seen": 1788855324.507228
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdjVIVUc2SFZGQmMyOERDQV9tRldYTG5pblBWdFM3V2ZfM0llTnBZTFBWQXctYXRBNFRjeVVzSEdROEVLTDFfazJRcGRzbzdpRkNBVmhVQW54RzdkLUZWRUlNZC1JQ0ExYWJvNzY5ZVlZX05uajF2cHF0eUwycjREMFRhcU1OWXFJUjZHTVpDVFVGM3lGbmxNQU9lLWI?oc=5",
-        "headline": "Treasury Yield Risks Are Building For Commercial Real Estate",
-        "summary": "",
-        "source": "Globest",
-        "published": "09/08 16:54",
-        "published_ts": 1788854052.0,
-        "tag": "Fed",
-        "first_seen": 1788868836.2301555
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 01:01:07",
+  "updated_at": "2026-09-09 01:15:51",
   "yields": [
     {
       "label": "3년",
