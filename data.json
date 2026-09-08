@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2S211OUdCVDhOMjZMWllTWjYzTGFpX29aUE5BZEJRaU1zeXR2aVJlWGFZblJwbE5VOWE0Y0hfUlNIWGQ1dlk4RG9lUm96RDk2d1g1bkZQYUQ1b3IyWE9obDY1Qk1XazVaeG1weTg5emk?oc=5",
+        "headline": "[외환-마감] \"연금 환헤지 중단, 단기저점 신호\"…결제수요에 1,340원대 중반",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/08 18:37",
+        "published_ts": 1788860275.0,
+        "tag": null,
+        "first_seen": 1788861638.8231409
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bb0FFTExpbWhIVEVjTXpiZ0tESXJuSTc3WkMzQU5wZUJIMjVBMjZ6d3ByY1ZMNW03RWxtYUpXQUxxSDQ0NlZ1S2hYVUx0ZU54TGhpRll4d0E4RFNaRXfSAV5BVV95cUxOQW9BRUxMaW1oSFRFY016YmdLRElybkk3N1pDM0FOcGVCSDI1QTI2endwcmNWTDVtN0VsbWFKV0FMcUg0NDZWdUtoWFVMdGVOeExoaUZZeHdBOERTWkV3?oc=5",
+        "headline": "BNC 장전 50% 넘게 상승…오데일리, BSC 밈코인 A7 소개",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "09/08 17:42",
+        "published_ts": 1788856933.0,
+        "tag": null,
+        "first_seen": 1788861638.8231409
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPbFJ2c0drU00ta1JKUnZlZ1hZZmh3RUE0Y0dwRHBOVEItekUtUWJZZ3JuSGh6MmpibklNSEpsNUtKSnZKZC0weHBDNmU1VWhnZFhNNHAxUmdQVXBLaXc?oc=5",
         "headline": "NH투자증권 회사채 2.2조 몰려…증권사 채권 흥행 랠리",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788779001.0,
         "tag": null,
         "first_seen": 1788796850.4422562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9heE0za25yYzZfMFh2Q0d1enczRF9DX09GWEM5WjNrLTlqV01scVloQ2h4V3RDME9uQUY4OVowMXZYc1NqaDQzS0RfTHZjYzJjdXVaVWpyTFRCOVRjS1o1aTY0U3FlTGRKYlM3S01R?oc=5",
-        "headline": "코스피 급등에 중·단기물 금리 '상승'",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "09/07 19:58",
-        "published_ts": 1788778725.0,
-        "tag": null,
-        "first_seen": 1788781527.6968508
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ZcW1kRUp2MHlUWlNWa3BLZk5XZHVjNGJ1a3BYQUhjS2dBTGNDQVJkN01sX0V0ajlSYlI3RUZYMm5fSHJlQmswR1RibmpxT2lYQkZhaHpxU0x0Vk9xX25FelduZHljWE5feHRPelJWcFQ?oc=5",
-        "headline": "달러-엔, 155엔도 하향 돌파(상보)",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/07 19:40",
-        "published_ts": 1788777606.0,
-        "tag": null,
-        "first_seen": 1788778840.8528469
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UTmtCMXlVaU5Ic2lVS3BJTVpBMWRTNklvQm1YYklmWkNaWjBmTXR3a2dfQVZTdVVqZEd0TWpwbjlSMjMwWnVtRVBOWXlVZlkwcFE2TjRjTEJ5ZDlHOVg3NkhCd3VPTmtu?oc=5",
+        "headline": "Trump’s Rate Demands Could Give Fed Chair Kevin Warsh a Chance to Prove Independence",
+        "summary": "",
+        "source": "Межа. Новини України.",
+        "published": "09/08 18:55",
+        "published_ts": 1788861347.0,
+        "tag": "Fed",
+        "first_seen": 1788861638.8231409
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZ2ExQ3lEemZ0cEdDNjhwenVBTTZVWmlwc0lVeWdQdlR0RUJfSUVuYS10eENfZlVURjFXMFlGS3ZQOVJRRkYwdHd5NHpfU2RGd2llaG5MYkNBa2ptc1dfN2tDczkxMDdMRUVkTmVqR1cxX0dVQkJJVFFoQmptcjRSNjQ5QjFGSmpQNmpVY05QNTlwdkNRbjNUWFpHMWtTNzFSNlBqZl93eEk4VVREd19BTzdCS005Q2Jkdnh2eDQtd2FrdGpZTkpua1ZQcU0yVG5oQWxadzVKWGZkMDZZT0Nrbk5sMA?oc=5",
         "headline": "Bitcoin Rally Faces Fresh Risks From Fed, Oil, Yen And Bond Markets As Spot Demand Weakens",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1788852046.0,
         "tag": "Global",
         "first_seen": 1788852631.1974282
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMm03VW9Mak1sTjBpalk3TnNzVjFYVGFDT29JYm1vZVZIZVRJbFFjVExQaHNVY3dZOHdiWUFMaWNFNE1GREl5WTNXVzBrYmVHd1pqT1gxVzBmWmxqS0NZMjJvemJDTllZNHpKeWpYTGo3ZVFKa0FTSXh0X3dpUGlFMmVMSVpkT2hYZEI0cnllZVduRndvUHNhRnRneVFxTkhFVUZPZWU5SktyRnEt?oc=5",
+        "headline": "The Bond Market’s Warning: Rising Yields Signal Fiscal Strain and Global Repricing",
+        "summary": "",
+        "source": "Vocal",
+        "published": "09/08 16:16",
+        "published_ts": 1788851795.0,
+        "tag": "Global",
+        "first_seen": 1788861638.8231409
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB3ak9GSURsWDR6bWY3Z1JEZmtPU0JyemFMRFZfV2VWb01mS2R3c1d5RXNkVFhfa2VBa0J2Q3hzNV9IenFOUXoyanBPVnN1OUh3R2FaOGY4YkdoUm03dFYtOTFVTm9IclFPMTR1QmxwQ2UwV185NWJkeFA2c0lRZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788837998.0,
         "tag": "Global",
         "first_seen": 1788838230.3756244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOakFHR09yM3JnUVEtSGQyak12TUlteXd1OXk1ZExmbHVnQ0RtMHp6dm1IZEY5YnpWTE5kM2pnRE5KZTJYZlNyWTVxc1ZVTHJINmphcFBiTjZ1c1kzX0UzWC1KdnJmZW1FSVJjTnlEUTM0dU5uR08yMUNreVlzcVo2T0U1V1hMb0dkU3RHdWlrOGFmNm9EaXc?oc=5",
-        "headline": "Japan 10Y Yield Slips as Yen Strengthens",
-        "summary": "",
-        "source": "tradingview.com",
-        "published": "09/08 11:51",
-        "published_ts": 1788835908.0,
-        "tag": "JGB",
-        "first_seen": 1788839127.2467823
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRjRtV051T0laOU1EdnZYemZwakZiOTB1X2xTRDJ0TDg1a1REaUlXOTNXeXBlb1JSZjhHc2RJQlZlS2QwMDVaQ3NzOVdjNENRNXBsbXdObXY4TmoxR3lkTWY5RVA0Q2k4VTNRREZZdlBIdGxubmdkWXVvZUJDNU0xSEtwdVlCNmZ2XzMxRUNqU2UxR1pPcHNtZG1VdjVDUjYwVjA0b1lOQXBLdHVreHhn?oc=5",
-        "headline": "Six Charts That Explain Why Japan’s Bond Yields Are Surging",
-        "summary": "",
-        "source": "bloomberg.com",
-        "published": "09/08 11:51",
-        "published_ts": 1788835860.0,
-        "tag": "JGB",
-        "first_seen": 1788848127.6727226
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 18:45:53",
+  "updated_at": "2026-09-08 19:01:02",
   "yields": [
     {
       "label": "3년",
