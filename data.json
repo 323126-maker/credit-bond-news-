@@ -1620,6 +1620,16 @@
         "first_seen": 1788886838.2088807
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9KMEdjQUdsUmJtNWdoa0ZPYnZkYVJnOXJRa0RqM0xuT0lWZkZ4NlpVcC1aeGU3NjY0RmpZYmh4am1OelZGcHFnYVFIcmRLTXFBZV9YZ28wNHNHUWJKNXBPZ01MMmQxOHRuVmtydnhNWQ?oc=5",
+        "headline": "US Market Pulse September 2026",
+        "summary": "",
+        "source": "Goldman Sachs Asset Management",
+        "published": "09/09 01:36",
+        "published_ts": 1788885382.0,
+        "tag": "Global",
+        "first_seen": 1788889526.9347136
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UR2stYWR1cWNxTnVwRnpMb3FzaVB6WWZjWHFoSjRqMnM3cUdxSVc1Q0hOa3ota0JGbmEwMU9QMFlRRGoyYkNKb1dKUWFKVXZ5UlZjaFVqYmlab3MtYUE?oc=5",
         "headline": "Bond Market Explained: Why It Matters More Than Stocks",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1788882252.0,
         "tag": "Global",
         "first_seen": 1788883242.1509774
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvdVpST3lLSmsya2kwUGFEYzRnUnBhRTJoV1Z4XzJmT3ZWTlV2MmdhNnJLaWNFbUoxbGR2ZGlEWUxndjBmM3pTZ3pMQVlMakpTUTZ3cjdya0xIRnRlX0p1dUl6ZzM1d2l1bW51N2l2Wld1WGY5bG9xTnNUOWFOaG1YTm12M2RETnhWd0d3SzdYZWlySXJUQ3BRQ3RYS2tDbFpjdnN6VzdtdlJU?oc=5",
+        "headline": "Japan’s Ten-Year Bond Yield Hits 3.00% for First Time in Three Decades",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/09 00:31",
+        "published_ts": 1788881513.0,
+        "tag": "JGB",
+        "first_seen": 1788889526.9347136
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUdkUm5sZGZ4TVkwMjM2QmMybmhrMmJpR1BsdFFiTzdUc1pfZzZPWjFJdzhzaTJvQXVsMnkzZ3poODlGdnBwb0VMYlBodGtERXBYblI1Um52aDgxWUlEMGFtalV2bndQTWVHSi14YUlBcEJ1SnJnYjNpWUFHUndwZjZDand4MkNteE52Q1lsQVRiQV91QU1RZ01oVFZaZ0RwOTlWc1NjUmI?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788857946.0,
         "tag": "Fed",
         "first_seen": 1788860728.5848281
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNdVRKQUdORVpSeVlPR0JKTlJHeEtZQXdsd0wtZV9MZUh4Yzh2X0xJYzJSZDZDVnlDaVZfMjNaOVViV3NOYzBPUWRRUjVyVEdqSENwZUVmRjlnMEJEN0NiZGRiaWNuRTlva0dKcDVqaXd1Q1NHYnlWZWpSeWtiS2t3MU1yRlp1d0RI?oc=5",
-        "headline": "Oil Approaches $100 as Iran Tensions and Rate Outlook Shape Markets: Dow Jones, S&P, Nasdaq, Wall Street Futures",
-        "summary": "",
-        "source": "Yahoo Finance UK",
-        "published": "09/08 17:58",
-        "published_ts": 1788857934.0,
-        "tag": "Fed",
-        "first_seen": 1788862529.0330741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelVXMDhPLVRwcFNpc1o4TkR3T25zLXh0VTFhU1pxd2tyM3JRc1FiZkF0U0ZUUkhUSVdGZVpHQkd1bXF6UVZlV1RpWkhNdVVxOTlNZ2YxY3I2SmkwTG9TM0t3R3VjdEpXeDVlMk40Wjctam1wcUZYdVVCS3pNRVBueExLdUQxZU4tUFhLLVBWNG1feTZoVDhkUzBMLWhIWTRSR2xtU2YyMA?oc=5",
-        "headline": "Bitcoin faces pressure as Japan's bond yields h...",
-        "summary": "",
-        "source": "Pluang",
-        "published": "09/08 17:54",
-        "published_ts": 1788857675.0,
-        "tag": "JGB",
-        "first_seen": 1788858039.8170223
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 02:35:22",
+  "updated_at": "2026-09-09 02:45:49",
   "yields": [
     {
       "label": "3년",
