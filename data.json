@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iQjVzaFRPOWtfSGFTelllZnJkY1o5RDY0Z2xwWlJqVUV2YV80UjQ0NmhuSjJhQmRMdkVSM0RKYVJTeXk1emRGNl9vTHBzZw?oc=5",
+        "headline": "교보생명, 5000억원 규모 신종자본증권 발행…“차환·건전성 관리”",
+        "summary": "",
+        "source": "전자신문",
+        "published": "09/08 10:12",
+        "published_ts": 1788829958.0,
+        "tag": null,
+        "first_seen": 1788831028.487279
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxZnhObnlNdG9JTnZUN0tDRkhtNGhDeVpIWmRkNVpnTV90ZFA2WkFxZFppcjlHaVpERlVJeVdtUEZVWHk2T3lpRGJ2N1VULVQyejRiMlFENjdpQmhiUFpXVGFDSjQtSDZV0gFrQVVfeXFMTUNleG5aRE1nR25fUEVrdmxIRko2WF9uS2NIOFRMXzU4S2hJY1Mxb0lfVklJbTFpejNBa2NuMDhxZ2QwYTRvaWw0SlZ3cXJfU09pcUdaSVl3YktKTVFPMG8ybVJfMEpPT24xTk0?oc=5",
         "headline": "교보생명, 자본증권 5000억 발행 9일 뒤 4700억 상환…기본자본 줄어든다",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1788444269.0,
         "tag": null,
         "first_seen": 1788458436.3442943
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVzZ3Q1A0WG5KS0Y1ZjBPU1ZhVVppcmVyQXd5cmZWam4wQ2dTNEtiNmgwWXMyVXZmc0pLUDZjN1VFRVljdDVKdnlmRVd4YlRLVzFyM21TS3pUcUVPN29VV0YtdGtHRF9SXzhvNm12bS12NjdDY181N0Mtcm45ZUlMdzZfWmhSWFNrSkJZWnhR?oc=5",
-        "headline": "용혜인 후보자 재산 4억7000만 원, 남편 당직급여 5년간 1억2000만 원",
-        "summary": "",
-        "source": "국제신문",
-        "published": "09/03 22:48",
-        "published_ts": 1788443280.0,
-        "tag": null,
-        "first_seen": 1788458846.8873296
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE91cEQwLU1seUVlbXEyR2ZJN3BVRDBfeVZfVEgzRnZlYXZMMTlJYjdFY0VYdF9kcHViemtBZkwtRGg2ZFk0X21TYnBrMlpQYmJxSmc?oc=5",
+        "headline": "“아스트라 모멘트 온다” 코스피 7000…골드만은 1만 2000 전망",
+        "summary": "",
+        "source": "서울경제",
+        "published": "09/08 10:00",
+        "published_ts": 1788829200.0,
+        "tag": null,
+        "first_seen": 1788831028.487279
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02ZnVvQXA2SlpkMzZScllwSGVDQTh5RFVrSjEyWDRqazdwdC1od1VrZUNmRkx2OGhCV2hNOW1oeFZSdkNuY1E1M1FoUFNwdVctcUpadFRENnFRM1FsTW5KNU1WLVNnb2s5N19CRjdySXI?oc=5",
         "headline": "[노현우의 채권분석] 호미 크기 고민…반가운 우군 논리도",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788542528.0,
         "tag": null,
         "first_seen": 1788591634.5603483
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBJWHpEUHpWdzJjaUJyYThZeDJsNm5EZDBDWThlSlA5WWlJV0htUVZMV2Q3b1pmb0d4elBmREQ5ZVFlV3pPcUdiWXZoRWgwd0VhTUxITTh6MA?oc=5",
-        "headline": "대출금리만 뛴 5대 은행…예금금리는 왜 제자리인가",
-        "summary": "",
-        "source": "KPI뉴스",
-        "published": "09/04 16:53",
-        "published_ts": 1788508410.0,
-        "tag": null,
-        "first_seen": 1788686123.188687
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOaGpGTWEwUDJBelF5WHlDOHJUaE1xYzVZUmhUOXI1UXdhcjlfZUlZZzkwbkx0MGI1bngtemZhRjcxMXN1WHRiWnMyZHNrTW1ZVTVUZUdXeFNSZmJiUmQ4TWVzc3d4cGdfbVJOSUhsMm0zOUc1YVVDV3NwYWZZR3FnWkNGNTAtWWRoMzlpdUxVTjE3bG9Od1IxRVdJNk9MYk41Q25lRTVxVklYU2Y5X19QUTZkdXVobDkwNFpRQWtKWG11Vy1JWjUzcmV5NXhmVVpxNVBPdQ?oc=5",
+        "headline": "USD/JPY Slides to Six-Month Low as Markets Reprice Bank of Japan Rate Path Amid Firm US Data",
+        "summary": "",
+        "source": "VT Markets",
+        "published": "09/08 10:07",
+        "published_ts": 1788829650.0,
+        "tag": "JGB",
+        "first_seen": 1788831028.487279
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rcXR4bVpkVmVwYXNCVlpqNVc2RnRLWXUxbjBXb01qRThlQ3J1UHQ3YUc4czBXWnIwUXdvU2hzTllXVy0weUJTaGd3OUttcHJr?oc=5",
         "headline": "日 2분기 GDP 성장률 1.4%로 상향…BOJ 금리 인상 전망에 힘",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788785943.0,
         "tag": "Global",
         "first_seen": 1788788728.2801604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBHM0x2aUNDZHVLUHJLZUlTd08xcXdLLVgtN3dMRDBtU01UaDl1ZzVvYUNpSXEwOTlseFZjTFBGUTJuOUpKdEVndkFKc0FVNVV5Yk5DaWx6VQ?oc=5",
-        "headline": "Japan's retail government bond sales surge 4.4-fold as yields top bank deposits",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "09/07 21:00",
-        "published_ts": 1788782400.0,
-        "tag": "JGB",
-        "first_seen": 1788795923.5963528
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-08 10:15:47",
+  "updated_at": "2026-09-08 10:30:53",
   "yields": [
     {
       "label": "3년",
