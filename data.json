@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9VN01od21GWGlrcl8tRld3OWltLWZhNTl1bVJJWHdDbGM1ZkhzZ2JXNjZTMDRZQjU1VEdDdkk2amV2S0VzUDR2MXhJTkdKbVE?oc=5",
+        "headline": "동화기업, 주택경기 둔화에 전해액 부진까지 '이중고'",
+        "summary": "",
+        "source": "딜사이트",
+        "published": "09/10 07:00",
+        "published_ts": 1788991200.0,
+        "tag": null,
+        "first_seen": 1788993831.0009418
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5kWjNqdjFmVGpnX3VPRmJqNk9mTGtJLU5QMDJVcWZzYUMxcndEdEdycDRIenBQdmxMWXp3OG5rUHhLd0w3bWsyOTF0X2cyUHBHbkxLTnFIRHV4MDhNMFhXTHA0NUU1Z0k0WUhaeXpTT2dFbUZXSXlZ?oc=5",
         "headline": "피치, 마진 개선에 엠브라에르 신용등급 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788906600.0,
         "tag": null,
         "first_seen": 1788952524.3833942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQamtPMHNMV0lXa2xVbG9EZnQ5VTJtLUtERmxLZi0tZUtudFBreWxSQmluV3ctbDA4NmNFeEw4UVNzZEtZLVJEYjY3RkRfN0psMHNfRmtNbVg1NHlCWERqbkhBYU9JV2YzdlhtSnBmRWc0T2owYUVmME5TbTN6Q2F6QUpHd3pvYmhaUEhGcnhn?oc=5",
-        "headline": "잠자던 예금이 움직였다... 손정의, 개미 돈 1조엔 끌어모은 비결",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/09 07:08",
-        "published_ts": 1788905280.0,
-        "tag": null,
-        "first_seen": 1788908448.949089
       }
     ],
     "perpetual": [
@@ -794,14 +794,14 @@
         "first_seen": 1788741034.0977185
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQnpWekh6YXVFYy1vdzJhN2JMZl9oQ1Z4dUllaUl3VEd2YzZ5MEFSWUlBZ2h2WDFUYXlTdWhPbDh5bzlSNWFJMA?oc=5",
-        "headline": "경기도의회 김창식 위원장, 세수 부족 대응을 위한 지역개발기금의 전략적 운용 촉구",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG1CWXRNRVZqanE1SGxWV2xFTnVnSExWdElwNHRacndRZEVlYkdWYmhEa1hJZWVrR25jdHpCMGJBbzV2OXVPSzFCM2xyT2k4ZmhFQ1RKN01BVjZwRTNwRDZHb254Mkk0RnhjTjRLYWI1X2ZDd29xRnJUUXM1WEdaLVh4ZlNFU3hpOExxZVJ0MlloZw?oc=5",
+        "headline": "경기도의회 김창식 기획재정위원장, 세수 결손기 지역개발기금의 적극적 재정 활용 주문",
         "summary": "",
-        "source": "미디어이슈",
+        "source": "성남포커스",
         "published": "09/07 08:04",
         "published_ts": 1788735840.0,
         "tag": null,
-        "first_seen": 1788993067.4548986
+        "first_seen": 1788993831.0009418
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUFaSDhnNXRKN0dUZzRGTEtvT005SHpsdm1uRTkxeDNLNjhFVmpIMGIzOFZZMDV5dHlrYjk2OHFHb0kwOGd1TDFFeHNSZHJiSEl1akRNT0VlVnUxYjM0S2ZtdlJabE9zcnktMjEtRk5HUFBKRzQzVjBIWVQ0dllCM1FZRzFRTllzMTVHNm1LYkZlS0t3ZVlwYWFsT3RPdw?oc=5",
+        "headline": "Small Treasury Buybacks Fall Flat as Oil Tops $100",
+        "summary": "",
+        "source": "Seoul Economic Daily",
+        "published": "09/10 07:11",
+        "published_ts": 1788991883.0,
+        "tag": "Strategist",
+        "first_seen": 1788993831.0009418
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOZUFXV0IxZlJYWnpfZE5Cd0h1eDBUYlctMlJydExDYXlvMzNYNEI1SE9RVnZMTDQ2SklzWnRlTmpZdGhqTEpnczg1NDJaRTdidmR3N2lKTnVWQV9GYTRBUVNEUUx6RE5YbXpwQ25BemMxRkJTdXBFV1JwZlVoSFlLZkpiYlgyWFBIcFl5NUZvNFBFU1JFY2RzLS16cWIxUE5WVG10X3FfeGh6TktJRVZTSlA4NWpOSF9Wc1JqXw?oc=5",
         "headline": "PIMCO’s Dan Ivascyn on AI, private credit and rising bond yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788961560.0,
         "tag": "Global",
         "first_seen": 1788973244.4175756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX2h0UVltSkNPNWluX0MtT1BVak1VZmhaSVgtX1NudDNiTTlFNDFXVlFSVlcyM3BqTkRYSjFmTzE0RzdUbk0wZUlaZG9TZXZaVGducG13bWhDcHZQVWJUaFBnYjRBcXdLV1hsbHUxWWlHVlJUVGNIVkxQazNoVFFqejJsRjZfcnpWVm5VTUpLQS1EWnZCc29tR0RzTW9xSVp4MlptajEzVEpsZ2FjUVpmZkJDdzI?oc=5",
-        "headline": "Higher Treasury yields may present opportunities",
-        "summary": "",
-        "source": "BNY",
-        "published": "09/09 22:35",
-        "published_ts": 1788960928.0,
-        "tag": "Global",
-        "first_seen": 1788968726.5886579
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 07:31:32",
+  "updated_at": "2026-09-10 07:44:16",
   "yields": [
     {
       "label": "3년",
