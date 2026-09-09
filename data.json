@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5N2t5X3BrMVZFRDZodmI3RUx4WTBTUXM1MnhQZ0xpM1E2WWNmbGxqM1pTU2xlRDJpOVNEbGhhX3YtNUdweDByeE5YQ3c2RUprTkRvdHgxMExBWFVIcnBCaTNtVnp3T2IySHlEblJQaW42b21tSnB3T3JFa3ZYbm1FV1pSRjh3aGk0TkI2My1RY0tlbjhvVmNhQnBnNFo4cjZXQm1UblctTDQ?oc=5",
+        "headline": "Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/09 18:04",
+        "published_ts": 1788944693.0,
+        "tag": "Global",
+        "first_seen": 1788945327.773339
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1fY0lScllkNFRXMzRSRFFqanZpaGVnVUxoYVZWSVNJS0JXQmU0YzE1RzJqRTBKX2NMM0M0dEowdjhaNnBzYUoyRGdsUzduckNvcDhtNzZPaS1hRDcwRDE1amVvb0l4MjdrSFhEX3Ffbkk3cll5NkE?oc=5",
+        "headline": "Gundlach Warns: If the Fed Holds Rates Steady Next Week, the 30-Year Treasury Selloff Could Intensify",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/09 18:01",
+        "published_ts": 1788944504.0,
+        "tag": "Fed",
+        "first_seen": 1788945327.773339
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UGlSMEw4RGF6MFdOVDJvT0xKNE1SdTB4cVhobGRCYThxVmZNRnRVYVJaMkRaemVVd2N6ZEFEXzltUWtyMm1fdDYwQkx5NjhuYWY3TnM4VVBXOE5mcERyWXg3OTJqNWI5SlhtLWo5RQ?oc=5",
         "headline": "Nordic fixed income managers expect fallout from global bond chaos to persist: \"The market is doing its job\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788911465.0,
         "tag": "JGB",
         "first_seen": 1788920124.4392965
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1naTV0aUQ0T3RIRXFzYU03R3R5cDF3Sk5JZzg4eThVLTN2cGNyUld3SHU2aV9kcEN4QmNRTDRYblZTNXlrVHBxeEFn?oc=5",
-        "headline": "SBI, JPYSC 준비금 10억엔 일본 국채에 투입...채권시장 구원투수로 뜨나?",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "09/09 08:50",
-        "published_ts": 1788911400.0,
-        "tag": "JGB",
-        "first_seen": 1788912037.5549314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVzRqTDJVUk1JejlwMl84V0RjbTEySDgxWUtydVE1aE5zZ1JJZXRncHhQX2puTTRqdU5EeXNSQmNGc25GVHprOG92R3pqR2ZKUmgwTlNIUENfTHpBRFE4WnJHbDVIa19UcnZBb3E4b21qZWZ1WnJaVW53eFZBQWFfT3dHWUFzM1Q4NUhMTDl0dU5NdVFKdjZpSkNnRV82dGcyU0N3aHNBbElkYVU1TTFIRGxPVk0zNEdu?oc=5",
-        "headline": "SPCX Stock Climbs Premarket: Analyst Bets SpaceX Unlikely To Hit Elon Musk's $1 Trillion Revenue Target By 2030",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "09/09 08:49",
-        "published_ts": 1788911396.0,
-        "tag": "Strategist",
-        "first_seen": 1788918323.053528
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 18:01:03",
+  "updated_at": "2026-09-09 18:16:02",
   "yields": [
     {
       "label": "3년",
