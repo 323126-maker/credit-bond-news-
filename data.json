@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE00ZzBsUW8xdXdWc1ZWdjdPVmJpRU1JbFhXcS0xVHRQNW1DaXZ2M1ZDSFlmTUFzWFZiZlVFZndfNFFxUHVUVDU0WHdrZUh0aVRHWFFsZzRHVlZxTm5CT3Z0SFdOb0xqeDUtY1FmeFpn?oc=5",
+        "headline": "[기업 공시] 대상홀딩스 자회사 혜성프로비젼, 80억원 단기차입…차입금 902억원으로 확대",
+        "summary": "",
+        "source": "이슈밸리",
+        "published": "09/09 16:26",
+        "published_ts": 1788938766.0,
+        "tag": null,
+        "first_seen": 1788940836.9100718
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDUnNwdk9RVVU5MVdWMTE4Q1pQR1hNSWd1cmZiY3czdTdnU05jRm1tVThtT2d6VFZTeDZvcU9ES0xvcnJvN3Y2N2JjLXdIcklheEYtZjhLSXVnVnJMZXBvdkhlZklKTzQ?oc=5",
         "headline": "’중앙 회사채 불완전판매 의혹’ 신한투자증권, 회사채 순위 10위로 추락",
         "summary": "",
@@ -40,6 +50,16 @@
         "published_ts": 1788933459.0,
         "tag": null,
         "first_seen": 1788934525.880552
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWUjVPS2RPUWZOdE5IQXFUWDZ6cVk1eUZOamhmM2FaV2VJSVdrbExkd0lqMWVZeGN2U19FY2Q0eTcwWFRlMldPMGdNVS16cHVtN3JmSGdfRXlUNXExOG1GNdIBYEFVX3lxTFBWUjVPS2RPUWZOdE5IQXFUWDZ6cVk1eUZOamhmM2FaV2VJSVdrbExkd0lqMWVZeGN2U19FY2Q0eTcwWFRlMldPMGdNVS16cHVtN3JmSGdfRXlUNXExOG1GNQ?oc=5",
+        "headline": "정부 \"피치·무디스, 내년 예산안 재정건전성 제고 긍정 평가\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/09 14:34",
+        "published_ts": 1788932075.0,
+        "tag": null,
+        "first_seen": 1788940836.9100718
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicmhiQmo0WUl3Z0YtVzdqemxYZlNCMkJjSlI0YTlGX2o1VC1WdUdmZTduTFZOQW1RckZiYjk5SzBHaDhwT3RTWHI2eEhJQThCYVBMQnIwdkVpcFRzRHRZatIBeEFVX3lxTE9yb0Qxc0Z6dFg5TDB6SEsyZ2EwNVhvaklpN0JkS0Vrb2IxWHlDUm03QUNRUFRqR1U2cUdQSF9SY2ZlSTZCOUpZY0NkWkp1b0Y0QkptX3hZWEJzTm5QTm9TYUxDcVlDamZZTktMb2ptTENneDdCZEcwOA?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788861830.0,
         "tag": null,
         "first_seen": 1788866123.477519
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1UOEZiNWxKdjVuUExBQUN4TXRvV3psbkpEc25qNURmUUhTeW1aLUpvdUR6X05UMGo3Ty1UdW1SeUNHenZlWXU2M2pvcjhJSk84dXRjMnhlSmpXYzZfOGtSTDlnQVRXMnZWMWNXaEhrQTY?oc=5",
-        "headline": "[채권-마감] 국제유가 급등에 장 막판 약세 전환…국고 3년 0.1bp↑",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/08 18:42",
-        "published_ts": 1788860520.0,
-        "tag": null,
-        "first_seen": 1788939031.2183683
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA2S211OUdCVDhOMjZMWllTWjYzTGFpX29aUE5BZEJRaU1zeXR2aVJlWGFZblJwbE5VOWE0Y0hfUlNIWGQ1dlk4RG9lUm96RDk2d1g1bkZQYUQ1b3IyWE9obDY1Qk1XazVaeG1weTg5emk?oc=5",
-        "headline": "[외환-마감] \"연금 환헤지 중단, 단기저점 신호\"…결제수요에 1,340원대 중반",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/08 18:37",
-        "published_ts": 1788860275.0,
-        "tag": null,
-        "first_seen": 1788861638.8231409
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 16:45:48",
+  "updated_at": "2026-09-09 17:00:59",
   "yields": [
     {
       "label": "3년",
