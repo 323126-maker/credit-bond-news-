@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTlR2NmZ1UlhFdHpyT1l6ZzI1UmZoaE9tMFVpSnJBb3hCTTN0dWViYmNRdTVBUGdILW95bXctYnZ6SmNDendCZlcyc3Z1czUwWmNkbG9vdHdFallGZkRmek1weVlPQnNIRXVGNEZkSFdRTHlBTElZTDFhSHhNeWlYNFlnZFlRZmlrQlhIb1F0b2FWQVJpdnd2X1J0Q2J3YVIxd1Zhek10QXJhVjJw?oc=5",
+        "headline": "Warsh is talking like a hawk. But he might not be ready to deliver a rate hike",
+        "summary": "",
+        "source": "The Business Times",
+        "published": "09/10 08:00",
+        "published_ts": 1788994800.0,
+        "tag": "Fed",
+        "first_seen": 1788995726.2513294
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUFaSDhnNXRKN0dUZzRGTEtvT005SHpsdm1uRTkxeDNLNjhFVmpIMGIzOFZZMDV5dHlrYjk2OHFHb0kwOGd1TDFFeHNSZHJiSEl1akRNT0VlVnUxYjM0S2ZtdlJabE9zcnktMjEtRk5HUFBKRzQzVjBIWVQ0dllCM1FZRzFRTllzMTVHNm1LYkZlS0t3ZVlwYWFsT3RPdw?oc=5",
         "headline": "Small Treasury Buybacks Fall Flat as Oil Tops $100",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788964440.0,
         "tag": "Global",
         "first_seen": 1788966040.14404
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVFFtU05SVlBtcE1UZzFjZHJfcGFPSmEzNWExSlZRSTVpUzBZdERqaUxvTE1vSnM0Nm9VSDRCbkxiOTVWUzBrbTRGWUpwNzAxSERWSy1yemxKeHp1bXFfVmo5MEwxMXFQd09lRzdzemhscmU0MjJnbzU5TWo5WlZ6SG9xR0U1c25QZUFlUUI0c1gzYV9EQ0xLa1ZOTFB3Y3lXeDdhb3dlWHg4aktYdkN4d1kwSEpQOVBhazdTMm8wRG1fbUlnY1FCWU55cEJZckZiQnJldkxB?oc=5",
-        "headline": "Refining bottlenecks are emerging as the next big oil problem as Middle East skirmishes flare up",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "09/09 22:46",
-        "published_ts": 1788961560.0,
-        "tag": "Global",
-        "first_seen": 1788973244.4175756
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 08:01:07",
+  "updated_at": "2026-09-10 08:15:51",
   "yields": [
     {
       "label": "3년",
