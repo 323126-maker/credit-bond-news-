@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13UGlSMEw4RGF6MFdOVDJvT0xKNE1SdTB4cVhobGRCYThxVmZNRnRVYVJaMkRaemVVd2N6ZEFEXzltUWtyMm1fdDYwQkx5NjhuYWY3TnM4VVBXOE5mcERyWXg3OTJqNWI5SlhtLWo5RQ?oc=5",
+        "headline": "Nordic fixed income managers expect fallout from global bond chaos to persist: \"The market is doing its job\"",
+        "summary": "",
+        "source": "AMWatch",
+        "published": "09/09 17:40",
+        "published_ts": 1788943200.0,
+        "tag": "JGB",
+        "first_seen": 1788944439.2236595
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9TX0dDSkVhRUc5emh5RFBJaG12NW1UQlFjeHQ2TEhUdmV0UDRSSDJaQnh4TjlrejRWeUtlNzdfTjhkRzhmeEJ3dURVXy1BNGtyUWQ2UVd3SFlNYWdhWDVVaTlmamR3M1lFSXdfQi0wcVNJWDd6?oc=5",
         "headline": "US Treasury to Announce New Bond Buyback",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788911396.0,
         "tag": "Strategist",
         "first_seen": 1788918323.053528
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xT1hUZ2hFUzYwRnY0UmRJdmJmN2tHdUxsQTRlS2ZLM2NOZWhiOFJ0VWplcnZPZ0N6UzNoZlpGekY0WHl0Y2pOVWNJb0huemdOY0NldUxucmN6TG5zM3RCRkRlSnhDVUdEMU5zRDI2cmVVYldRLWRZWA?oc=5",
-        "headline": "글로벌 채권시장 '큰손' 일본 자금 회귀 가능성 논쟁",
-        "summary": "",
-        "source": "news.nate.com",
-        "published": "09/09 08:39",
-        "published_ts": 1788910740.0,
-        "tag": "JGB",
-        "first_seen": 1788911124.3978584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 17:45:54",
+  "updated_at": "2026-09-09 18:01:03",
   "yields": [
     {
       "label": "3년",
