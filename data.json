@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicmhiQmo0WUl3Z0YtVzdqemxYZlNCMkJjSlI0YTlGX2o1VC1WdUdmZTduTFZOQW1RckZiYjk5SzBHaDhwT3RTWHI2eEhJQThCYVBMQnIwdkVpcFRzRHRZatIBeEFVX3lxTE9yb0Qxc0Z6dFg5TDB6SEsyZ2EwNVhvaklpN0JkS0Vrb2IxWHlDUm03QUNRUFRqR1U2cUdQSF9SY2ZlSTZCOUpZY0NkWkp1b0Y0QkptX3hZWEJzTm5QTm9TYUxDcVlDamZZTktMb2ptTENneDdCZEcwOA?oc=5",
+        "headline": "\"국채발행 축소, 신용등급에 긍정적\"…무디스·피치, 韓예산안 호평",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/09 14:21",
+        "published_ts": 1788931319.0,
+        "tag": null,
+        "first_seen": 1788931830.7414417
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5SZFI4bXpnR3VFRjhhVmxZYkd4UVlfVmtmWHhma0RURGFoa3BibXhMU3oxN3JKdERyd0tSQXpvLS1IVEJ1RmFWbUNBMXpXd1JaVExOS0xnTV9Za0N3S3Fv?oc=5",
         "headline": "8월 은행 기업대출 9.7조 증가…회사채는 0.9조 순상환",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788856103.0,
         "tag": null,
         "first_seen": 1788862529.0330741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPbFJ2c0drU00ta1JKUnZlZ1hZZmh3RUE0Y0dwRHBOVEItekUtUWJZZ3JuSGh6MmpibklNSEpsNUtKSnZKZC0weHBDNmU1VWhnZFhNNHAxUmdQVXBLaXc?oc=5",
-        "headline": "NH투자증권 회사채 2.2조 몰려…증권사 채권 흥행 랠리",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "09/08 17:15",
-        "published_ts": 1788855300.0,
-        "tag": null,
-        "first_seen": 1788856229.1948802
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1788931361.1380875
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBLWFNTbV8yak43TW1NYklSTWRQRmtzUnZYN0NJQ1hkcnozd0MwVXFrbHlXaGhISFI0R3dVbzBjV1NLR0lJUVhXanpwVm5fVzQ?oc=5",
+        "headline": "엔화 7개월래 최고..베선트 \"내게 맞서 베팅해보라\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/09 14:13",
+        "published_ts": 1788930809.0,
+        "tag": "JGB",
+        "first_seen": 1788931830.7414417
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXVvdVpST3lLSmsya2kwUGFEYzRnUnBhRTJoV1Z4XzJmT3ZWTlV2MmdhNnJLaWNFbUoxbGR2ZGlEWUxndjBmM3pTZ3pMQVlMakpTUTZ3cjdya0xIRnRlX0p1dUl6ZzM1d2l1bW51N2l2Wld1WGY5bG9xTnNUOWFOaG1YTm12M2RETnhWd0d3SzdYZWlySXJUQ3BRQ3RYS2tDbFpjdnN6VzdtdlJU?oc=5",
         "headline": "Japan’s Ten-Year Bond Yield Hits 3.00% for First Time in Three Decades",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788901285.0,
         "tag": "Global",
         "first_seen": 1788920124.4392965
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdEJ0RllKQmpMYjhJTEJxZF9OZklDR2pnVk1NZ2hGRDljSWpCam40TGhOMVdRTFhkbng5cmsxSWs4RlVwc1pjSlQyMF9Ua1Z6MzlROHp4STZWUXp1eU41RndYd1JjWXZ4UEpKbHRQVGM4RlZza1VUMWR6TTFpUWRkOWhtT1BBTmZMT1hPOG5zN3BIYjBpd2FTMHRmQUZJTzF3eDV6R2FjV1hxMEpXdlFMUkdmbXRpUQ?oc=5",
-        "headline": "Japan’s Rising Yields Stir Debate Over Growing Repatriation Risk",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/09 06:00",
-        "published_ts": 1788901200.0,
-        "tag": "JGB",
-        "first_seen": 1788912925.0396452
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 14:23:03",
+  "updated_at": "2026-09-09 14:30:54",
   "yields": [
     {
       "label": "3년",
