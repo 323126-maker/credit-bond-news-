@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE91OTEwX193Q3dEMFFSNU0tVHl6SXFRLWZ2M216M2t6cXgyelBhbG1uQkdqc0JtUkJPcXBrTGswUVZ3d0NqWmtfNUFucnhYNzl2bF9B0gFYQVVfeXFMTUhUZHJBNkhPajhYY1dsbkFSQ2NlSmhyb0I0YUs3NlliaHVnYTgzcDJYLUMxWjNhUnVsRTIxN191b25ySTQ3RUVFMWJRSy1OMVJJMVVhTHhwbA?oc=5",
+        "headline": "글로벌 채권시장 '큰손' 일본 자금 컴백하나?",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "09/09 08:54",
+        "published_ts": 1788911640.0,
+        "tag": "JGB",
+        "first_seen": 1788912037.5549314
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1naTV0aUQ0T3RIRXFzYU03R3R5cDF3Sk5JZzg4eThVLTN2cGNyUld3SHU2aV9kcEN4QmNRTDRYblZTNXlrVHBxeEFn?oc=5",
+        "headline": "SBI, JPYSC 준비금 10억엔 일본 국채에 투입...채권시장 구원투수로 뜨나?",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "09/09 08:50",
+        "published_ts": 1788911400.0,
+        "tag": "JGB",
+        "first_seen": 1788912037.5549314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xT1hUZ2hFUzYwRnY0UmRJdmJmN2tHdUxsQTRlS2ZLM2NOZWhiOFJ0VWplcnZPZ0N6UzNoZlpGekY0WHl0Y2pOVWNJb0huemdOY0NldUxucmN6TG5zM3RCRkRlSnhDVUdEMU5zRDI2cmVVYldRLWRZWA?oc=5",
         "headline": "글로벌 채권시장 '큰손' 일본 자금 회귀 가능성 논쟁",
         "summary": "",
@@ -1620,6 +1640,16 @@
         "first_seen": 1788911124.3978584
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IVE8wcnN5SHN6ZDFiN0xSelNaWFRJQjFfcXowTFQzN2VSWnZUdF9McFE4VS03cTN1RkdjZFlwWlNvT0w5VDQ0SWR4WDBTcWh5SlRF?oc=5",
+        "headline": "\"기준금리, 지금보다 0.5%p 더 높아야\"···'美 채권왕'의 경고",
+        "summary": "",
+        "source": "Nate News",
+        "published": "09/09 08:37",
+        "published_ts": 1788910620.0,
+        "tag": "Strategist",
+        "first_seen": 1788912037.5549314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbjNadmlWc3lpNDVtWktHUGMybjIwVlhfd0lpUUtjNGtXSzBlT2gyWU00NFRXWnZXOHdNM0czdUFEdE9Ga1FhTVJtLV8yWDVpSnpHaGMzcEZFT2o0OTNFSDN3LTJnd0I3MDBlM2pmU2R4Y29iNkhkMmhIdExQYzQ?oc=5",
         "headline": "엔화 급등, 새로운 확산 촉발 위험?",
         "summary": "",
@@ -1628,6 +1658,16 @@
         "published_ts": 1788910341.0,
         "tag": "JGB",
         "first_seen": 1788911124.3978584
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLUZZMTNVclI2SEZaSUlQdlFuaTdqUGxzVFJONkI0cWI3aF85U1BlT0JxV29yNkgyaDQ4OGI4RUY4X0VQcWR3b0Q2ak9KeEZCUWc4MUFNcC1YR0pEX2VNM2R5Z3BZTEtiRjJMY1A2bHpVNmNXUHZ4YnZiX2xLRlE5NUFPdlhQNWJxNVI4cUVzZEwtRmotTUN2bG0xU1JzQXphR0ZXd0JtZUpzZ0t2Vk1BRmYwU3RHM0dyWkVQNTBRUkpwZEswbTBUMGNB?oc=5",
+        "headline": "Editorial Roundup: United States",
+        "summary": "",
+        "source": "WUSA9",
+        "published": "09/09 08:20",
+        "published_ts": 1788909600.0,
+        "tag": "Fed",
+        "first_seen": 1788912037.5549314
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWjJ4cTNjMklZQ0RyN1ZVRDhIUk9iMHRJa2JteHZmZUFwSk9XTXQyak1TYnV6dXd4UUxhVFE1VzY3WW9rX2tPTmUzdW1URWUzWHhrNlFMVFlMSjlfN3JabnliUjRPNWxiNGVPNWJ0WnVvT2kwOWh4MS1yajl0TUVoWA?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1788881400.0,
         "tag": "Fed",
         "first_seen": 1788897640.5813727
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeUdkUm5sZGZ4TVkwMjM2QmMybmhrMmJpR1BsdFFiTzdUc1pfZzZPWjFJdzhzaTJvQXVsMnkzZ3poODlGdnBwb0VMYlBodGtERXBYblI1Um52aDgxWUlEMGFtalV2bndQTWVHSi14YUlBcEJ1SnJnYjNpWUFHUndwZjZDand4MkNteE52Q1lsQVRiQV91QU1RZ01oVFZaZ0RwOTlWc1NjUmI?oc=5",
-        "headline": "Treasury policy matters more than the Fed, El-Erian—CNBC interview (TLT:NASDAQ)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/09 00:04",
-        "published_ts": 1788879889.0,
-        "tag": "Fed",
-        "first_seen": 1788880525.7627652
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLUNfX3E1ZS1rTmExNTQwM2xvSmpWVm9ZUW8zZDdDN3FJaGFrSkpQTHBZeTJxbURSc05Sd1MtVElZNzZvUEcxMnpDWXVGSlo3SUxfdFVPbHZDa1RQSzNmOHJDM0o3bC0tU0tKV0ZUV2l3ZFAxSGZmUFlFZTZHYXFzYlhYNFlvdjJLZWtRQmlJYVBMa1VkRkE?oc=5",
-        "headline": "BlackRock Still Likes Emerging Market Debt, Despite A Slow 2026",
-        "summary": "",
-        "source": "Finimize",
-        "published": "09/08 23:47",
-        "published_ts": 1788878844.0,
-        "tag": "Global",
-        "first_seen": 1788883242.1509774
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRmIwYlFaOE1PczBEYjN1RUR3eWowam81d2VsWVgtSEwwVzFabmludk1saTFsNm5WZE1jNmt1ZFJTU2lZeXhGeURXQ1dhZzBySWVKNFYyblIxTzFKN1lBRWs4azRzWk1UaC11TGU2UEpSVGZVZXJmQUdCcVVKWlI2S195X3R1TS1nd2x4WHlhTQ?oc=5",
-        "headline": "U.S. Debt, AI Boom Triggers Historic Borrowing Binge, Pushing Up Rates. The Risks Are Mounting.",
-        "summary": "",
-        "source": "Investor's Business Daily",
-        "published": "09/08 23:39",
-        "published_ts": 1788878340.0,
-        "tag": "Global",
-        "first_seen": 1788891326.3618338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdmtUTzhXcXNVOE4xTDV3S3ZDSDFZZ3NpRV91VnlrZWdJMjlMellHNS1VMU5GTGZLODFWM1kwTU5STldVZmFZeEJWN2RWaVU2NXRzYzRzMzhuVEE2ZFc0LVVXMVYwLTFycExjemxscllDYW9jak5Bc1d4ek5hY3U0RGlKUm1jOWtub3lyUHdtcW5hbnNFYXFXMnFUR05LSGlFVGF2bGVn?oc=5",
-        "headline": "ALLW: Is this Ray Dalio’s All Weather fund a good ETF to buy today?",
-        "summary": "",
-        "source": "Invezz",
-        "published": "09/08 23:26",
-        "published_ts": 1788877560.0,
-        "tag": "Strategist",
-        "first_seen": 1788877831.9162455
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 08:45:48",
+  "updated_at": "2026-09-09 09:01:01",
   "yields": [
     {
       "label": "3년",
