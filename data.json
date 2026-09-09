@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BblVMWG5nNWpBY0tyX0dOVVcyR2NPb2FZUW5UYm5GdS14dmVoS3JvMWkxbWhiYmJWa1VvV2lqUFh6MWFsOWlCSWZBaWdQQjFGeXR0TFVOLWdnRjIyb3hBVjNybDVEM3RFTVJTU1NYeFc?oc=5",
+        "headline": "[채권-마감] 유가 우려 속 外人 매도도…국고 3년 0.9bp↑",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/09 18:43",
+        "published_ts": 1788946998.0,
+        "tag": null,
+        "first_seen": 1788947964.7397337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5jSjNmVExJaHVxbmRkVWhwbThEdVNVYVB1anZETkNsQlNTMEdJelUwVlVibE5aOFVUZkZWZGpqZ2RiU2h1a0lwYmZLanF0anF2YnBlVA?oc=5",
         "headline": "\"새로 찍느니 갚는다\"⋯韓 기업들, 9개월 연속 회사채 순상환",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788879660.0,
         "tag": null,
         "first_seen": 1788893129.1762428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAwZzdXY2NXZUZaMTEzdWpTdnBoengyb2pDZ0NQODNZVTZLRWhEX0ZIU2ZJTjdQRmhOa0FsdDRueFVjTGpOZEd2WktxcTF4Mk1vdkxiZ1ladmd0RlNmYmNWdHp4RWNMQjVu?oc=5",
-        "headline": "장중 강세 순식간에 반납… '미·이란 무력 충돌' 불똥 여의도 채권가로",
-        "summary": "",
-        "source": "CBC뉴스",
-        "published": "09/09 00:00",
-        "published_ts": 1788879600.0,
-        "tag": null,
-        "first_seen": 1788880525.7627652
       }
     ],
     "perpetual": [
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1yMnBCcl9pU2RhX1dsakNWOFVYWW5sSGtaVm5fOVVDSXAzb3U5a1FZZXJVdktnQmtNMFJ2cGdqUlhKRUtyYzdyR1Rnc2l4emRCOFdzUlg1Zl9ScVNTa2FJbFQtRVdKSFRWT3NERnAtMW1GanBNWXfSAXZBVV95cUxNcjJwQnJfaVNkYV9XbGpDVjhVWFlubEhrWlZuXzlVQ0lwM291OWtRWWVyVXZLZ0JrTTBSdnBnalJYSkVLcmM3ckdUZ3NpeHpkQjhXc1JYNWZfUnFTU2thSWxULUVXSkhUVk9zREZwLTFtRmpwTVl3?oc=5",
+        "headline": "우리금융, 삼전·닉스 다음 외국인 순매수 최다···우리투자證 조달에 ‘호재’",
+        "summary": "",
+        "source": "시사저널e",
+        "published": "09/09 16:54",
+        "published_ts": 1788940441.0,
+        "tag": "우리지주",
+        "first_seen": 1788947964.7397337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDUnNwdk9RVVU5MVdWMTE4Q1pQR1hNSWd1cmZiY3czdTdnU05jRm1tVThtT2d6VFZTeDZvcU9ES0xvcnJvN3Y2N2JjLXdIcklheEYtZjhLSXVnVnJMZXBvdkhlZklKTzQ?oc=5",
         "headline": "’중앙 회사채 불완전판매 의혹’ 신한투자증권, 회사채 순위 10위로 추락",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1788568828.0,
         "tag": "삼성카드",
         "first_seen": 1788576324.7654924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE12TzJ6TGkySWVWcHcyR1VudTNvcjN1WDEtVUk0c3pKbGI1NkNWQmdkZnU4RVA1QVFQa3VGakU2SkxzSDBHTy1RaC0wQlZoUUN2VTBBc2JfNEZ0TTlTTDdqLS1R?oc=5",
-        "headline": "거시환경 변수 속 금융株 중 유리한 순서는? [주末머니]",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "09/05 08:23",
-        "published_ts": 1788564180.0,
-        "tag": "신한지주",
-        "first_seen": 1788564634.2424839
       }
     ]
   },
-  "updated_at": "2026-09-09 18:45:49",
+  "updated_at": "2026-09-09 18:59:50",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.385,
         4.401,
         4.401
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.551,
-      "chg_bp": -0.9,
-      "series": [
-        4.651,
-        4.619,
-        4.558,
-        4.661,
-        4.63,
-        4.601,
-        4.664,
-        4.621,
-        4.576,
-        4.542,
-        4.468,
-        4.491,
-        4.49,
-        4.559,
-        4.614,
-        4.593,
-        4.573,
-        4.567,
-        4.56,
-        4.551
       ]
     },
     {
