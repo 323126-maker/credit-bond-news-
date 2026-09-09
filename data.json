@@ -1780,6 +1780,16 @@
         "first_seen": 1788930039.0273714
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR0t6YXpLaHU0dFRoLVZXdDVuMjZzc01laGxoTl80WElvOGFGam5jeXBROXpUYjNZazBsYkMxTjFUUUFEY2FWTGdkLW1BRlBiS3NWZXlDZzhoWmFhS3Nrb1dkSDFqb2xycW5NRmZCeUhrQmx6ZHVoUEdjY3RNOThPLUxoZ1VaSFdJV2VQRkFWNA?oc=5",
+        "headline": "Bessent dares traders to bet against yen: ‘I am the house now’",
+        "summary": "",
+        "source": "The Japan Times",
+        "published": "09/09 12:50",
+        "published_ts": 1788925800.0,
+        "tag": "Strategist",
+        "first_seen": 1788939926.5844793
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOUdZSC1JZ0lpVjNjUHFMSDV3d2NaY2xpV2tCYzJ6Ny1LdmFoMXIxWnRsN0U0RW4tRFFRckZfbWE4R2p1T2hQSnhZZE1lTHRpN2VhSllhUjRnSHlhazhFUXpyWEJLcV9tZTQ5bFFQeV9mSXFfb2gtZXAxV19XR3pKSw?oc=5",
         "headline": "엔화 환율 급락에 불거진 '엔 캐리 청산' 우려…증권가 \"2024년 같은 증시 폭락 가능성 크지 않아\"",
         "summary": "",
@@ -1828,6 +1838,16 @@
         "published_ts": 1788918266.0,
         "tag": "JGB",
         "first_seen": 1788918323.053528
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzlha0FtN3g0VUN5OWR4THlIUkNBUGdVUGdFTFU2TTZYY3N0RW52LWdRT1NnMW5Wb3NsQV9DWktTbGlsdkliME52X1U2RnNTWkM3TmJMSkRNOXBLbGFtYlpNRktPM1RMS2JpZzlCTUthN0JWSU5hX20tUGUyc0RYLVRUWVliY21TS2R0dFo3ZElWU1JoV1FhcnhGbw?oc=5",
+        "headline": "Japan’s rising yields stir debate over growing repatriation risk",
+        "summary": "",
+        "source": "The Japan Times",
+        "published": "09/09 10:40",
+        "published_ts": 1788918000.0,
+        "tag": "JGB",
+        "first_seen": 1788939926.5844793
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sMk1xdWd1VmpET0hlZFhRX3BGRDBMUXNrRmk0ZklIVGEzTllXZUl0TDVFWVJVTVh2c3VGc29iV2N6RlNydEw1aHFhcXRGQmc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1788910646.0,
         "tag": "Fed",
         "first_seen": 1788916523.7363594
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9IVE8wcnN5SHN6ZDFiN0xSelNaWFRJQjFfcXowTFQzN2VSWnZUdF9McFE4VS03cTN1RkdjZFlwWlNvT0w5VDQ0SWR4WDBTcWh5SlRF?oc=5",
-        "headline": "\"기준금리, 지금보다 0.5%p 더 높아야\"···'美 채권왕'의 경고",
-        "summary": "",
-        "source": "Nate News",
-        "published": "09/09 08:37",
-        "published_ts": 1788910620.0,
-        "tag": "Strategist",
-        "first_seen": 1788912037.5549314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzbjNadmlWc3lpNDVtWktHUGMybjIwVlhfd0lpUUtjNGtXSzBlT2gyWU00NFRXWnZXOHdNM0czdUFEdE9Ga1FhTVJtLV8yWDVpSnpHaGMzcEZFT2o0OTNFSDN3LTJnd0I3MDBlM2pmU2R4Y29iNkhkMmhIdExQYzQ?oc=5",
-        "headline": "엔화 급등, 새로운 확산 촉발 위험?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/09 08:32",
-        "published_ts": 1788910341.0,
-        "tag": "JGB",
-        "first_seen": 1788911124.3978584
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 16:30:53",
+  "updated_at": "2026-09-09 16:45:48",
   "yields": [
     {
       "label": "3년",
-      "value": 3.901,
-      "chg_bp": 0.1,
+      "value": 3.91,
+      "chg_bp": 0.9,
       "series": [
-        3.808,
         3.791,
         3.781,
         3.796,
@@ -2439,15 +2438,15 @@
         3.888,
         3.884,
         3.9,
-        3.901
+        3.901,
+        3.91
       ]
     },
     {
       "label": "5년",
-      "value": 4.127,
-      "chg_bp": 0.7,
+      "value": 4.136,
+      "chg_bp": 0.9,
       "series": [
-        4.042,
         4.025,
         4.016,
         4.047,
@@ -2466,15 +2465,15 @@
         4.118,
         4.101,
         4.12,
-        4.127
+        4.127,
+        4.136
       ]
     },
     {
       "label": "10년",
       "value": 4.401,
-      "chg_bp": 1.6,
+      "chg_bp": 0.0,
       "series": [
-        4.301,
         4.294,
         4.298,
         4.313,
@@ -2493,15 +2492,15 @@
         4.367,
         4.36,
         4.385,
+        4.401,
         4.401
       ]
     },
     {
       "label": "20년",
-      "value": 4.56,
-      "chg_bp": -0.7,
+      "value": 4.551,
+      "chg_bp": -0.9,
       "series": [
-        4.639,
         4.651,
         4.619,
         4.558,
@@ -2520,15 +2519,15 @@
         4.593,
         4.573,
         4.567,
-        4.56
+        4.56,
+        4.551
       ]
     },
     {
       "label": "30년",
-      "value": 4.635,
-      "chg_bp": 0.4,
+      "value": 4.641,
+      "chg_bp": 0.6,
       "series": [
-        4.666,
         4.685,
         4.68,
         4.669,
@@ -2547,7 +2546,8 @@
         4.635,
         4.636,
         4.631,
-        4.635
+        4.635,
+        4.641
       ]
     }
   ]
