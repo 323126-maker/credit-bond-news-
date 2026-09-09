@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4xMndFeDZudEI4eWhGTlRFcExRd2xuV3dlYnhFS3Q1Y0FYZjZxb2dtRDBwN0xIYWNOa0RvSHgwNGJqbTRwVURFa2s5amFOQU1DcmpRaUJmaldQdTdubUI2UNIBeEFVX3lxTE10TGZndk9VY2pWbGo1dk5TN193eUdaSW13ODFJSjA1QkpxSXdKSXhVV19LXzZrWmdVa0JMMUxjOE16RGxSTzBFU2k1WWN2SjVMMEhXOXY1blBuNWU1RWt5VjdHWm9lZUM0dGtPYWRTczQzb3lBRzhwWg?oc=5",
+        "headline": "뉴욕증시, 유가 101달러 돌파·채권 금리 상승에 하락 마감",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/10 05:47",
+        "published_ts": 1788986847.0,
+        "tag": null,
+        "first_seen": 1788987640.2163608
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmdDlNcy05MW5VeDdpd0NrUnZkUTExS2QzUXRjcFp3R3E4UXFhdFd3UlZaY3ZNSVR6T1hUVGZhaHJfVzdGZm5Kb3pZdlhON0NrZHJnME51UDZDS0J1S294cTVnbDVGbFdmT3RDMUhYQ3pFQQ?oc=5",
         "headline": "[뉴욕채권] 국채가↓…바이백 실망에 유가 100달러·회사채 압박까지",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788905097.0,
         "tag": null,
         "first_seen": 1788905724.6321738
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE85ZTFzRjRqSjlZYW1LcGszVm5SeDZBRHZEY0ZoeGNBUWhDSFlDYnZ1VU12enhJZXlsd2pPNmt0cVJ2RmFNdFBrYXlPOTlSWkszRnfSAVNBVV95cUxQMGRlZ0RnSFE0UjdOeEYyVnAtT1F6ZThRWG1QYURPZmdkTDNkZGFWM0locDV2ek9mLV9RaHlVNzByQ1NDczY0ZjlMRUtLSjZOMWVpYw?oc=5",
-        "headline": "캐피털사 불어난 단기차입…커지는 차환 부담",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/09 07:00",
-        "published_ts": 1788904800.0,
-        "tag": null,
-        "first_seen": 1788909326.082175
       }
     ],
     "perpetual": [
@@ -794,14 +794,14 @@
         "first_seen": 1788741034.0977185
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUG1CWXRNRVZqanE1SGxWV2xFTnVnSExWdElwNHRacndRZEVlYkdWYmhEa1hJZWVrR25jdHpCMGJBbzV2OXVPSzFCM2xyT2k4ZmhFQ1RKN01BVjZwRTNwRDZHb254Mkk0RnhjTjRLYWI1X2ZDd29xRnJUUXM1WEdaLVh4ZlNFU3hpOExxZVJ0MlloZw?oc=5",
-        "headline": "경기도의회 김창식 기획재정위원장, 세수 결손기 지역개발기금의 적극적 재정 활용 주문",
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlQnpWekh6YXVFYy1vdzJhN2JMZl9oQ1Z4dUllaUl3VEd2YzZ5MEFSWUlBZ2h2WDFUYXlTdWhPbDh5bzlSNWFJMA?oc=5",
+        "headline": "경기도의회 김창식 위원장, 세수 부족 대응을 위한 지역개발기금의 전략적 운용 촉구",
         "summary": "",
-        "source": "성남포커스",
+        "source": "미디어이슈",
         "published": "09/07 08:04",
         "published_ts": 1788735840.0,
         "tag": null,
-        "first_seen": 1788986725.76715
+        "first_seen": 1788987640.2163608
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 05:45:49",
+  "updated_at": "2026-09-10 06:01:03",
   "yields": [
     {
       "label": "3년",
