@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zZWcxMlI1VmZ0LXRQTllMN2d5QUhIbURLYzRpWFR2cENGdmNoTTZCUU41T3lnN0RZWVlEUUlNS3c1eDFrUFZMRG9aTjNUcDhLbVE?oc=5",
+        "headline": "시스코, 2027회계연도 매출 6~7% 성장·조정 EPS 9~11% 증가 재확인",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/10 01:03",
+        "published_ts": 1788969801.0,
+        "tag": null,
+        "first_seen": 1788970528.7372606
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QU0E0azZRNExpM042b2VMVzV0X1NrZS1VajZYanV3TzJTcnZiNTR4OGViQ2hQWHRzUXNWZG11a0d0MFc5QV93M1pmY2hKbmY3Z2s0d3NTUG9zTkNZN0ZqcUN2TU43Y2psSWF5NC02djNEMWdqZTZr?oc=5",
         "headline": "S&P, 모회사 등급 상향에 스미스필드 푸드 등급 ’BBB’로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788901200.0,
         "tag": null,
         "first_seen": 1788907444.0523205
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9iZERYTUF4aXRBSnNmbi1RSmhwVmJQbTBxSDZHTm05TjJ6UVNnVjFmLWM0SFBuZElQME9pd3JseHBVd29Ja1JJd1Bwbzd1NXBtS29OTDJ2bDJNR2MzLUZHOWJQdndnR2FBYnFlbdIBcEFVX3lxTE1DYXZyaEJKODhTTjU3WGNwWXZsYzR0Yk9sdW1EeUpuZzQ3YUdsVUx1aW9tX1g2eTF1NFlhUm9ERUxWR1hVU0w4czhONEdXSUpDVEp2XzBjSmFlNGdRMnF2bzVrSkxtb3JnZ3Y4SS11dXo?oc=5",
-        "headline": "[이선훈 체제 명암] JTBC 사태에 ‘신뢰받는 회사' 목표 흠집",
-        "summary": "",
-        "source": "DFT 대한금융신문",
-        "published": "09/09 06:00",
-        "published_ts": 1788901200.0,
-        "tag": null,
-        "first_seen": 1788902126.3826342
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
+        "headline": "\"This precision is ludicrous\"",
+        "summary": "",
+        "source": "Axios",
+        "published": "09/10 01:09",
+        "published_ts": 1788970175.0,
+        "tag": "Fed",
+        "first_seen": 1788970528.7372606
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13T2VuT0ZEME85RUZ5TmllbjBzaVQ5SDNHQXR2MGJ6UGxPbVdHQnhJQVlEWWxvTnktRHZ6QWhwR3ZmT3p6WDZTZk1fWmNDOGg0M3JaUHJDazVnZw?oc=5",
         "headline": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788934740.0,
         "tag": "JGB",
         "first_seen": 1788935432.80168
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvMTNPMDJYYXh0OURBejYwNFRFeGVhOGF5enlGMFhhUEZ2WjRCeExrTzJtTDJTcTg0OEIyZTlJc0FfZUVJVGQtcjNSdmhMeExRbFZPQ3lLSXZBZ2s?oc=5",
-        "headline": "JP모건 “엔화 강세, 일본 AI·반도체주 반등 앞당길 것”｜Global Money Club",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "09/09 15:02",
-        "published_ts": 1788933779.0,
-        "tag": "JGB",
-        "first_seen": 1788934525.880552
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 01:01:11",
+  "updated_at": "2026-09-10 01:15:53",
   "yields": [
     {
       "label": "3년",
