@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zV2NVODBSSTZocE5IWFZUN3hQM2l1a3V3M2tvLW1zZEtFOFZGREVxZzVzTmpCTGFvZFZweVI5TUdTZlpXU0VLTjJwYVVyNjdwYmtZQm91YmhBekZCc3Z2djRFd2E3MXpUeVVDYk1qcWQ?oc=5",
+        "headline": "[IRF 2026] \"리스크 중심 경영, 보험사 지속 가능성 좌우\" |",
+        "summary": "",
+        "source": "DFT 대한금융신문",
+        "published": "09/09 18:29",
+        "published_ts": 1788946141.0,
+        "tag": null,
+        "first_seen": 1788951638.281711
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02VjQyNnNTREw5RVBWa0FXVHlXMm1QU0EwTDRwZ0JOUHlNUnRDX1hkbzJPelBJTE5GWmJoSmFBSlkwMzNXc2JXRkFVV0JtbEpxRGRsZllldThfdw?oc=5",
         "headline": "KB국민은행 인도네시아법인, 채권 등 1조1350억 루피아 상환",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788674632.0,
         "tag": null,
         "first_seen": 1788765324.9402027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11ejhKXy1PbDZjOUdTeG9TOHBaRVowSkxoWEtFLU5TcEJfSmlnVm5iUFFlWHFwM2prTU9ia3pBTUc2TWczckFfamRaOTE5alQzcnfSAVNBVV95cUxOVVkwOFEwdllPSExyTDVFZUV5XzMxTHF1Rk5veDNvcVo0eG1VcEZROVhuSmpzdlV4VDkzcUVRRWc3bDNnLVhFZzFyQUNhRXdnOWI1TQ?oc=5",
-        "headline": "하나證, 해외서 자본 끌어온다…키움 제치고 ‘자기자본 7조’ 겨냥 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/06 13:26",
-        "published_ts": 1788668798.0,
-        "tag": null,
-        "first_seen": 1788684323.204385
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-09 19:45:48",
+  "updated_at": "2026-09-09 20:01:06",
   "yields": [
     {
       "label": "3년",
