@@ -282,6 +282,16 @@
         "first_seen": 1789028130.214014
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VbjdaTXNZa0ExTmRiVXlMQ3NjTjdtSEE0Ry1ydkFueEFhSjJJaXZEdG93ZVJ5SGQ4M05oc1FzbTFGWFNRMGxwUE9uakxIa0hxUTE5cWNxb0dCS2FqZXBkSkItRDRNeGhIczRWTUJRcEnSAXRBVV95cUxNOUdBdGhRQmVyeW91SjV5TWhOeXpYS1d1MHloR3JWT25VdG1XNG5xYVgzVHprSkZDNHpNZUwwYmFNNHp4MUxSUTU4eUxEMldqOHpWenV4RzNQYVpsd05UQU10QUJmTDBiMU1VT1JuUVd5SzVVVA?oc=5",
+        "headline": "기준금리 두 차례 연속 인상에… 국고채 금리 전구간 상승 마감",
+        "summary": "",
+        "source": "주간한국",
+        "published": "09/10 11:39",
+        "published_ts": 1789007980.0,
+        "tag": null,
+        "first_seen": 1789037125.82094
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44QktEcXBKUGw0Nk5uYTR5bXNOdGZ5UWZlVVl2LUJodlNrMHVvMkNLUjd2VmtWREVKYVh4YzM4eUlTZEhtdXNnei1kam82Z1pmUnUtQ1ZJamhXdWxNdkxnNdIBeEFVX3lxTE81N2h3bkh5OTByX2NWUHZpbGV3aFkzM2NHeEdLbG5wSVA3aHBzUXN1SC1kU0NEYlVMcWIyalpod3B2cFlxdjN1OE5XenlVNmtReDFxbWJMOHR1M1M2cmczLU5vdldIRWRKVUYzSmlKdTlMZ0l6VHJNdg?oc=5",
         "headline": "8월 국고채, 장단기 모두 상승 마감…\"한은 2연속 금리 인상 여파\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789000172.0,
         "tag": null,
         "first_seen": 1789000751.8234007
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1oYTFIdFgteUxiWlBZczB3ZHdDdjV5aFNVVU43NHdheE5ZbVRVckZoZ2RpVWpvODJKMGkzSzdldWxQNnFlNWFlTG5UWmVJTGpINmI2WUpXdkpZeDh3S2ZrWmZfYWtJeThja1JyZ1Y0dw?oc=5",
-        "headline": "외국인 채권 보유액 6.4조원 감소…장외 거래도 58.4조원 줄어",
-        "summary": "",
-        "source": "리드경제",
-        "published": "09/10 09:19",
-        "published_ts": 1788999576.0,
-        "tag": null,
-        "first_seen": 1789000232.4508939
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 19:30:55",
+  "updated_at": "2026-09-10 19:45:48",
   "yields": [
     {
       "label": "3년",
