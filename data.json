@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORXMxbG9PV0tCcnItTWM4Q0JMM29NNTZaSkhscHJtQkhONm93cE1TRUJGYVptUEVCeWoxMjA1Sm5nOXZFdFE2THh1ZVM5ZFNHYzhBc0RZa0J1ajMzbVBjU0VrS1B2UjVUYmpvLW9adkhuLTJPaWtwS1FFRVdOWVJ0QjJQR21rNTI1blBkNHJpVHV2NWdDV08xX29neXI3SzJXQWl5XzQweUdHVEFPb0dCWGRqVQ?oc=5",
+        "headline": "Fed Rate Hike Odds Rise to 61% After PPI Comes in Hotter than Expected",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/11 00:18",
+        "published_ts": 1789053480.0,
+        "tag": "Fed",
+        "first_seen": 1789054235.645072
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNnFabVFIb0hRMGw5OXpLMy1BWUFBVlBZR1BUbGJ6dXRkVzV4aGlDQVhjVGVrcjl6c0xRbGlfbHFSZFMwOGFMWHRMTlVFQmZBR2ZZc00wNGxyanlUQ2U4aVlOdzJ0Nlp6ZFhiUlB5VGhWQk5XV0Qtbkx3eGhCdVJJWjR0TTJMSmdZUDNaZEZEaEsxSG1tTXdITTV4TC1xLUdkX0VYNFZwaUdPOGUyRDM3dlgtUmxsNGZJWDNGaA?oc=5",
         "headline": "‘I Am the House Now,’ Bessent Warns — But Bond Traders Keep Raising Yields Anyway",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1789049580.0,
         "tag": "Global",
         "first_seen": 1789050634.6162484
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFhDb3pMNjVzaU11MFE3UlBNTTduTXZmTmdnd3NOemJpUHFFUkRCMHRhV1l3SjFqdExaMEJsR1d4U295YjJ4dmlhZUtiVW5kbmV5N1dDYTVMSEJTN1FQT0s0VldKMHVrRmhja2NVT3RHZWNkZVhtZ1pPcFZKVjBmczF1SDl3UXgtbnhZbTBhN21tSExuT01UejMxbG50TGw4LVRSRXBsQ1V4OGVlb1E?oc=5",
+        "headline": "Gold and S&P 500 analysis: What now after Warsh’s hawkish speech?",
+        "summary": "",
+        "source": "FOREX.com",
+        "published": "09/10 22:55",
+        "published_ts": 1789048530.0,
+        "tag": "Fed",
+        "first_seen": 1789054235.645072
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZWFFU1dsc2xkLWhnZllEZjZJa0hwT3ZYTmhvanBUYkVzU1oyZ1NYQ1F3VlJGNmRmMVh0ZThyTk9oN2RadDMyb2JhUjhsNW5pUU10UC1WNGQwVVNsWUJMWWRKNE4tdGxna0ZTVVMzX0x2Q3huWDI1ZXFFSG1zN1RjZ3k0Mlo3WjdRZnczeHNNRTVFNXRKVS1JNEY3QQ?oc=5",
@@ -1788,6 +1808,16 @@
         "published_ts": 1789034371.0,
         "tag": "JGB",
         "first_seen": 1789035325.2152212
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPcnF6Ymt2MjQzX0FWSks3LTE2b01NMmFfQUJZaWJXc2NNcExtVkZsUVFrcHlGTTRfWUlmU25VaW00aUZoSXNRc09LU2R5TV9RV1NYR3hZSndvRVAwZEdWOXJNY2RtWUpXMlVsb0FPN1k3ckJBZFpDcFdEa0liSllrVjJYdVVOa2lhTy1WTEVCTkRJbmVwdU9RaE1hcE15MHk4VmItV0l3?oc=5",
+        "headline": "Watch Bond Markets: PGIM's Neiss Says 10-Year Yields Above 5% Not 'Implausible'",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/10 18:58",
+        "published_ts": 1789034294.0,
+        "tag": "Fed",
+        "first_seen": 1789054235.645072
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE82R0htTi1mbThQMEk3NlhOcHBHZnNmTGN4SWlGTjIzUThOemMxa0tUN2hRdnhIM2F5T1ZLMHlxRFlNRmdlWEEwWmIxNHI2bHRaWUww?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789022700.0,
         "tag": "Global",
         "first_seen": 1789023639.4956992
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeXpiTjlQZU92bkFfZDF6Q2x6NV9lM1lRalBjbmRCSVdVQVRTUVNBZEM2SU9ScWZ2TGllWnVITFRCOEpmTTA0djFBVkdDbDF4XzIwOFJyYkJ3TldIT3dmYlV5dmVyUHBhZ3Nfc09feURMQ1ZrSEMtWm1XdTI2cXh2NUZmVXdBSjRHdV80MmRfbVdpdnJuUmFjWFFn?oc=5",
-        "headline": "Global Bond Yields Surge as Oil Tests $100",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "09/10 15:37",
-        "published_ts": 1789022220.0,
-        "tag": "JGB",
-        "first_seen": 1789029929.4457626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1femI1VlQxLW1hckVrc1RWcVlTaGFwOEFOc3R0Q0ZBNU1WQVFUUTlTc1p4aFdxR2NuTUZMUEd2cTcxakxXWTN5SDhtU2lNSEhld0tMS1oyS0VPT0JYVmlpc9IBeEFVX3lxTFBqdnRwdHY0SjhNMlZJN2l6R0ZRUHI0TUR1NmxwX2FqNGZobW9jS19YQkU2YlVka0dWZzN6NlFuSEtJNDlMOXZSQWNTOGREYUR1LUtKODdNX2RPdVBIbkF5d3d6ZzRNVFVnb2FyQVUtNVY0NUpTOFdXeQ?oc=5",
-        "headline": "일본은 위원 \"금리 더 올려야\"…다음주 1.25% 인상 유력",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/10 15:12",
-        "published_ts": 1789020740.0,
-        "tag": "JGB",
-        "first_seen": 1789021834.424364
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNM3FycnBsaFZfYTRydUpZQmhBR1BwRVhLd3dFVDk3VzR1aXoxaDhKUHdqeGVKUk90TXZsSnFoNHJ4OGpNMlItQTZEbEhFaVJmeDNFMW5LdjlEVE9vQnJVdDJjQ01tVlY4a2RSSTU4Tm9EVUk5eEt2czZOTUdFQjA0Zml2cXVBSk4xUGVjQXM5aG9tSjYwLVZLaVd6OENPbXRyS05CV2s2TjY1RlB4THZhOFFyM3l1REtiM3FSMFJPdVZMU2ZSUVpOaG9yWnZfdmVLeWNSR1VYNnhoNGxFUzIwVGR5Q2N4N0ZMTjY4ZmdHLUxBODVud1Bz?oc=5",
-        "headline": "홀덤 팟 건강한 생활와 정수: 입문부터 마스터까지",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/10 14:50",
-        "published_ts": 1789019455.0,
-        "tag": "Strategist",
-        "first_seen": 1789027241.6707358
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 00:15:53",
+  "updated_at": "2026-09-11 00:30:58",
   "yields": [
     {
       "label": "3년",
