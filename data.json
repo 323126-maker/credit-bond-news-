@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1lMU9HX2RCN0otM3hUd3pmemowcWZpYW8zRldIRGxhZXRpMVpHOTNya3NjaEp5NnpSdGJkODRma0t0dXV4SjcxY3hzUFdtOTBZaW45Zlc2cWJuS2ZtdWwtQTlZY2Zic0E3?oc=5",
+        "headline": "서부발전, ‘녹색채권 500억’ 성공적 발행",
+        "summary": "",
+        "source": "발전산업신문",
+        "published": "09/10 23:49",
+        "published_ts": 1789051778.0,
+        "tag": null,
+        "first_seen": 1789064125.9576325
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5HQmVhNlZDLTNIcmpxS29FM0wzN2hKVy1wSWQ1a3JrSUJRcjJpdUs0UzNZX0JmdDlXbWxhZFlxdnl3VXFfdnVUQ3RlWlo1TUJUc1UxQUJoZkhJVHFjc3JkOTZZMktiazh30gFsQVVfeXFMTk1TSmJRYTh6Y0R0QVk0c0JHRXdhQ0hOUmdmME92Q19ZVXVpWHRnT2JXaGplanJOWnFMT25sdjJKMUZBTlE1WmF1cjlER3NwZ2x3TnY5c2tNOUFjVkFjQkIwVENrR0QtQTJIME9B?oc=5",
         "headline": "큐리어스파트너스, SLL중앙에 1050억 구조화투자 추진",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789006680.0,
         "tag": null,
         "first_seen": 1789015524.116663
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAzM1ltWjJKbEV3Z09MWjJ0ckVXSXVMeWRyZGt4X2t6c2FLeERUWnRqNkJ2NkN0a1ppTUpzVlhaXzBaVFNaZlNGMEE4dXpCZkMycmdfOWdOTExOdw?oc=5",
-        "headline": "금리 뛰자 회사채 투심 '뚝'…수요예측 참여율 1년새 반토막 [fn마켓워치]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "09/10 11:16",
-        "published_ts": 1789006588.0,
-        "tag": null,
-        "first_seen": 1789011930.1165934
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 03:01:06",
+  "updated_at": "2026-09-11 03:15:49",
   "yields": [
     {
       "label": "3년",
