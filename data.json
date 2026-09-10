@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNFE0a2tDZ3lkbjhNZmlyV2RObEt0N205VDBZbVNNUFlrWTJTVkNsMjh4dVFYNTRlTW5DZkU0djQ5T3VXNnZzQmp4TmtVaFpuWjZHQUxfVnBvMWpJcVpGQmtWdktFVlFxNllVVXhR?oc=5",
+        "headline": "한국서부발전, 녹색채권 500억 원 발행 성공",
+        "summary": "",
+        "source": "뉴스홈(newshome)",
+        "published": "09/10 11:04",
+        "published_ts": 1789005886.0,
+        "tag": null,
+        "first_seen": 1789007434.0339775
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOWVBhVTJwM19yRE5XZ3BRWTVrcDN0T1hHc2VrckN0dFRwY1VHT1hpZl96c3Y2WFZxdHZOZWtUbzdMRHRrTHFoVnh1Nl9vM3Z0cWM1b1FmMUgyUXRycWc?oc=5",
         "headline": "[파이낸셜 워치(179)] 국고채 30년물 4.751% 사상 최고⋯한국 채권시장 '고금리 장기화' 경고음",
         "summary": "",
@@ -60,6 +70,16 @@
         "published_ts": 1788998409.0,
         "tag": null,
         "first_seen": 1788999325.9905589
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5azBCcUxoWXdFeWFoUU1HazZZRVRZMnRld2JZR1NrOGJRZlZoQU51bS1ReTdiR0xfZjlfTVVWT0dHZDE5TUZ4Y0ZFMlVfaFc3amNDLU54ZWZ0SWJ0T2RfNTZMQUp0VlhCNU5wWFFR0gFuQVVfeXFMUDlrMEJxTGhZd0V5YWhRTUdrNllFVFkydGV3YllHU2s4YlFmVmhBTnVtLVF5N2JHTF9mOV9NVVZPR0dkMTlNRnhjRkUyVV9oVzdqY0MtTnhlZnRJYnRPZF81NkxBSnRWWEI1TnBYUVE?oc=5",
+        "headline": "美 국채 바이백 60억달러로 증액…\"너무 적다\" 실망, 국채수익률 상승",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/10 08:58",
+        "published_ts": 1788998289.0,
+        "tag": null,
+        "first_seen": 1789007434.0339775
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qYnRkTFZLcGgxYzdWVlR3NTE3OXBkTWZWQTJBX203ajV1ZzhQZDRMVm9fWHJxSzd6eGZsN3ZCMGtkQ1lxQXlnM0x2cFpIU3c1aEtxVkxhTnJlbF9N?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1788919490.0,
         "tag": null,
         "first_seen": 1788937239.8466847
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tWVNGZHpvd0xDM2VEVEt2MzlybkRTRkttNTE0UUdkYi1MUWNLOUcyeTM2SGxNb3h2cUNHS1RrMllnQzBDX3VnTVFXTEIyM2dwS3p4ejI5WndMQmNPOVc0dFhjSzBkTHI3RzdsU2RFRThoQW5o?oc=5",
-        "headline": "SK하이닉스, 대형 운용사에 RFP 발송…채권 투자방식 바꿔 들어오나 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/09 10:22",
-        "published_ts": 1788916979.0,
-        "tag": null,
-        "first_seen": 1789000232.4508939
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBuX2o0NW1WVnZVWTJBN0pHSXR4SFhadlp0ekRpbnFpTXVjX3R1ZVQ0V1g4QnNqTU9ocHFRWk5sTVBXbFhxMWJyc1pQclRxOWdzdDg3a0UwMHNpUkxLV1NEejg1UHZHTEJU?oc=5",
-        "headline": "[아유경제_가로주택정비] 연무동 212 일대 가로주택정비, 시공자 탐색 절차 ‘출발’",
-        "summary": "",
-        "source": "아유경제",
-        "published": "09/09 10:03",
-        "published_ts": 1788915825.0,
-        "tag": null,
-        "first_seen": 1788928235.1842425
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN29zdzVqbXZxM0Fpc1dKc0p6OUJUV3IyZmgtTm1JelNZMEpYY0pGT0pFbXBFLUIyYXB3UWhQT2lvVlVlNjM4RHQ0cUhpb2xEbzdmYzRGZGhYSTJZbnVqTzlnY0tpcFZqMlgyVnFFUmdqN1ZkNW9sWEVGM3JhZGUtellDZXVueDJYZnl5Q1psWEpFdHNZVHRLcmVHNU9oajA?oc=5",
+        "headline": "Allspring Ultra Short-Term Income Fund Q2 2026 Commentary (SADAX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/10 10:45",
+        "published_ts": 1789004700.0,
+        "tag": "Global",
+        "first_seen": 1789007434.0339775
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09lVzFfVFdBN3UyN3RpdmthR2dVbkFMMHY0cXFTTG15X1JOM2ZXZWx2cTJlUFlrMjFPQmlzUjdGRHl2bml2d2N2ajlJMXZwaUp2MU1iMTY1NmoxaEVqODRXTzNkZ2w2bzF1NFphZG0wSC1HdjBkRVpQS2lTRGw1Y1I1M3BOc1ZWdUxFNkROZGxfUzdyZURhUzVFcTktRU1XYUx3MFR1N3BnNlFOVjl1VThNNUhlWFl6T2tBWDlCWHU?oc=5",
         "headline": "These 3 ETFs Yield More Than 10% Without Betting Everything on Covered Calls",
         "summary": "",
@@ -1628,6 +1638,26 @@
         "published_ts": 1789003578.0,
         "tag": "Fed",
         "first_seen": 1789005636.312654
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObmhWdDVkNkM1TkFZaGx5bnRjRkhWS3pFcmVjNUJLMkpGZW1oczRwZ2w4ZFRjRHZ6VzZPb1BWRUFDQjh2OWtIVDNROWRHWkxvVUtMT1FWT1VqSW5keEJMSHZkMGl4elZpWVFNcmRqeHgwNTdSeUcxNGphWmJ1X1JxazJjLWgtajRROFFvdkhGY0ZROUlySzh6ZGxnRE9XUTA?oc=5",
+        "headline": "Treasury’s Market Challenge Backfires Amid Inflation Fears",
+        "summary": "",
+        "source": "Sharecafe",
+        "published": "09/10 09:34",
+        "published_ts": 1789000459.0,
+        "tag": "Global",
+        "first_seen": 1789007434.0339775
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQTJhSV9KcWRvR3IteUxKNmhiendxcl96bFhVOXR3aHNISThBTW9CR0xzX0pqZWlDdkxpMXdkakZrQ3pVbHJxTlAzWGdJV1dMSlhmb2E0TEkzakNjVTlOcWxsWmtETHVDdjljdnE2Q2g3YTh1QTRIUUxCbkFzMjZlM1VjN3dKUGxxU0ZwZkdKOVl0NHp4cVZlRQ?oc=5",
+        "headline": "BlackRock National Municipal Fund Q2 2026 Commentary (MANLX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/10 09:15",
+        "published_ts": 1788999300.0,
+        "tag": "Global",
+        "first_seen": 1789007434.0339775
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZTVLLTZROGFZX3AtNW52RGkzZFBfdnU3LXQtWkpjUnVvUVYtMFlwR1pNRk9jck1WV2dkR3Ffb3o5WVpXTTBmTXJrWXRCYlJFbUhGWjNpdS1LRGI4UUhuWm9HTHZqdUNtbW1Bc05IazJrbHhiUnlHYUVUSldrSmVYX09wS3VxblAtQ3ZxbjVqRzVUYVFjQ0FNSi1DRktrZWQtT1h6NjROWS1tZTE4ZzhTSExjV1dyVXNsNEE?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788972660.0,
         "tag": "JGB",
         "first_seen": 1788989431.2784674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPOGtwelRRaGIzTmdjX29GUkVKaUNILW5lNkNkaUdkY2otQlJSVWh0MHk2SnRRSFU4S0twb3M0UGpmdFhFT3BEa0w3aW5PZExidFRTZ0k4R09UZFc1QnhodFZUSmNmWVhiOFBNYUVQcUJoVVNQNWdVc180M2xOWklYcjR5YVBsci1hWG1jQUxnT1RISTF0UU5TQlBfM0psc2dVQWx2dHY5MzUwM2ppYjQtNHR3TmZfUnPSAbwBQVVfeXFMTm85cnZQVUp0NGNmcVNnUzl4VlBmREVuamFmeC03TE9GMzBhTHZJVmU2ZGV2UVpTLWNuVTg0TWlNZG94ZUxnU0FlVmNqUmx3eGxpYU8xWUt2ZEl3cnVNUjFEVE9vWlhBcGVaOV9nZ2dhQ2tTNUZkR0xzSFRMc2xvQWVjTHdUNmZRaVZCbFpPZ29iTHhkWVdKUjF3d1hPWVJ6aERBU180VU1ZaW56WFdEN3ROaldrcWRTY2NWeTQ?oc=5",
-        "headline": "Treasury Department increases maximum buyback to $6B in effort to lower bond yields",
-        "summary": "",
-        "source": "The Hill",
-        "published": "09/10 01:51",
-        "published_ts": 1788972660.0,
-        "tag": "JGB",
-        "first_seen": 1788976842.0217805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5GLXh2TzRtTy1xelJpYnNtZUJ6WnpUanZZNEZUUi1za2k1RGpLX2E2elpzZXRQRzM0dUlMbVNTci1JS3ptbkVyOHNTZ0FsMFdjMFY4Z3MtQ09YMUoxVXgwQlJUUlBvLUZWWjlTQ1NiN2t5QW1XNlJPNUJBQjEzdEU?oc=5",
-        "headline": "Scott Bessent's $6B bond buyback fails to halt Treasury yield rise",
-        "summary": "",
-        "source": "qz.com",
-        "published": "09/10 01:48",
-        "published_ts": 1788972485.0,
-        "tag": "Strategist",
-        "first_seen": 1788973244.4175756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-        "headline": "Fed's interest rate decision may come down to hair-splitting inflation data",
-        "summary": "",
-        "source": "Axios",
-        "published": "09/10 01:46",
-        "published_ts": 1788972397.0,
-        "tag": "Fed",
-        "first_seen": 1789005636.312654
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 11:15:49",
+  "updated_at": "2026-09-10 11:31:01",
   "yields": [
     {
       "label": "3년",
