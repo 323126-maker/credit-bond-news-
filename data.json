@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjJiS19uN2ZoblVwekowTzJUdTVYZ21BbUZNZDdDbVlYX2hzaVVRN281VUlNQlZVRE9rQy0tN0hHUGhzdkUzZkRnV0VPVFVBRm96ckxTcEZmOXpNR3llR2l2NF9NVDBZREhSVTdsd2tHb1JxTkF0cmZoZVVOQ3B4bS1nN1E?oc=5",
+        "headline": "Stanley Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/11 02:21",
+        "published_ts": 1789060916.0,
+        "tag": "Strategist",
+        "first_seen": 1789061431.6020808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNlVPWnVxQzNXM004b21WQWVZV21tbTh6ek5MN1RVSkVrVDZ6ek1SeDJrXzdsalNfdURpbDdFSlBqWWVzTV9KdGJWNkMyTTFhd3c4Z2x4VjEyLWRFalBYaHRlRG9naGdta250X0ZVYlBlUXBZdW5kZWkzNGlmRGZUWHRDRm0wOGNMT3UwVDNIZC1RRmx4MFJuUENiUUJ3MDFsdEF3NGlMQWZJWmtlc2c?oc=5",
         "headline": "The latest worry about Mamdani — as investors fret over NYC’s financial health",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789029716.0,
         "tag": "Global",
         "first_seen": 1789029929.4457626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5MOVFPc01LMXdFLTc3R3ZEUFFXMW5HRW5rbFVZQzV2MndHdGFpbmFjTE5lWXF4ZldTWUs0N1lVbnYyQ3VDUmVTWUJyMVAzQXE5NGFRWDdiNW83eWo5NnppdUhTNlVhanhuZGtnVWQ2NXltQQ?oc=5",
-        "headline": "[亞증시-종합] 중동 긴장에 대부분 하락…日만 상승 전환",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/10 17:32",
-        "published_ts": 1789029175.0,
-        "tag": "JGB",
-        "first_seen": 1789034436.955613
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 02:16:07",
+  "updated_at": "2026-09-11 02:30:57",
   "yields": [
     {
       "label": "3년",
