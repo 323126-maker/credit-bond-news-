@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE01ZllQR1FlWUFfZFAydzNqcEszbnU5dFJrQVJkUWhFZDV3ZnByODRhZEJDb2x1bTdOZ1g1bHJyMl9xU19kR2p6UFFMWTlvbjQ?oc=5",
+        "headline": "기관 자금 빨아들인 특은채 20兆… 일반회사채는 찬밥신세",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/10 18:12",
+        "published_ts": 1789031520.0,
+        "tag": null,
+        "first_seen": 1789032630.2882912
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jLS1XN19XTVdwb2tMaVJnZnpxVHI2SjNWNm93d0kzOWlXbzU1djV5eEhPb1pZYmZOeXBSci0yTnI2MEpRclgyM0NTMldLM1B0ZkhNSzNGaFFWNGJBMXkxTnlXMDgwWnpLVmtUQnFUSnbSAXRBVV95cUxNWTU5Sy1UWU5PVlozQXRYa3ExQkF1ODVXY3M4UEg1YzF6YkNUaGZiNE1vcGRRWnV0NjYxLV9LNVREUmVGbXNvY2gzTy1FVFp3NGk0NUpDdGNlNlB1MlFpS0VuVktoQ2RmWVdtcEVGaHZOYklaYg?oc=5",
         "headline": "달러-원, 서울장 마감 직후 상승폭 확대…한때 1,343.90원",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788998289.0,
         "tag": null,
         "first_seen": 1789007434.0339775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qYnRkTFZLcGgxYzdWVlR3NTE3OXBkTWZWQTJBX203ajV1ZzhQZDRMVm9fWHJxSzd6eGZsN3ZCMGtkQ1lxQXlnM0x2cFpIU3c1aEtxVkxhTnJlbF9N?oc=5",
-        "headline": "[모닝 리포트] 기업 실적 개선에도 회사채 강세 지연…하위등급 '선별 접근'",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/10 08:53",
-        "published_ts": 1788997980.0,
-        "tag": null,
-        "first_seen": 1788998440.4258711
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc3ZFRFd4b0VHR21Xa2JkQVEtS29WYXk4U2JoSk9mcG4yRlczMTZWWWhNQ2x1MHNMUlgzTHdQY1VVY2tUOEhHSXA0ZjRoQzhYQnBFbmpUZ3ZBZ1MwWHNqcFFDMUhHNlFVdTdQTXc3V2tvODBDbWNlZGdkS29pUkoyUWxHWE9EVTY2Y0FmMA?oc=5",
+        "headline": "Kevin Warsh should raise interest rates",
+        "summary": "",
+        "source": "The Economist",
+        "published": "09/10 18:25",
+        "published_ts": 1789032316.0,
+        "tag": "Fed",
+        "first_seen": 1789032630.2882912
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56QWlzMnJHaXU5V1RWdjVSX1p5TmJ4aDNnSy1UNVg0WHItMDU5M3Y5Sm9Sc1hJc1lRa0VQZHYwVk9sNFpCbVoyTGhmVjBsS3pfMkdyTkFKck12dw?oc=5",
         "headline": "바이백 확대에도 美국채금리 급등…\"재무부, 장난감 총 들고 탱크 전투\"",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1789029716.0,
         "tag": "Global",
         "first_seen": 1789029929.4457626
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYUg3NndUYW1HNGpfSzJxNUVyU3A1ZzFVbXhGMjBhVndjbFpZaHM4c0N4NTdsczFkS19XUkFEbHAyazFvbXA4T1RmY2thTUpYZHdMTXZGLTk5d1NuNmJGeGhZWnp4RFdGXzNtakUzWVpBVXhxUDZxOGFPamVmZFRQUkJ4el9ETUgxbTByc25JRGVwcGo4RlhtMTZBeUJfMGFjeC0yb212QXNPZk9wZEU3T0hZU0NSSWM?oc=5",
+        "headline": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus; ECB Expected to Raise Rates",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/10 17:26",
+        "published_ts": 1789028809.0,
+        "tag": "Fed",
+        "first_seen": 1789032630.2882912
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaURzM0pRSmR1Z1B4ejNmbzhKZW5tdWF3VG1lQlpSTVhsTUZuZ1pGRHZtRDg3dDlGNW5oZ0tkSVduMVZpcThLNVFOQ1dVZ29HdF8ya0Q4Qjl6dEtwam9xT1RZY1Y0QlhodGZsbFdaSUpKaFhLNVh3bml1ZUFrQXE5TjBnTWpZd0xJaHc?oc=5",
@@ -1980,34 +2000,14 @@
         "first_seen": 1788999325.9905589
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFX0FjOHRqel9Scnd0SWhpT3BMVVpiOUl2UUVPOXZoQjhHMF9wYTk3SnJZRHA4YnhLMjJ6OTVfcDhvcTI1bk1VdFl0aW41UEtCdm9Gc2RXdmROblhZ?oc=5",
-        "headline": "美 국채 바이백 60억달러로 증액…\"너무 적다\" 실망, 국채수익률 상승",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWJPSXdoUmJMcHRFNm10SjlMWjRuLUowUFNEV0tWbTdkNkVMa0hhR2FFcFhKNVhsdWtxWFhON2ZxNGpvT3hjYXFtZmU4YVZ3d09vRkRvTVI3OF85NmpSNGEwM2IwS0NxeEstOVJxenFlaHZsYmVOREd3QXUtakllcWRlbjNSNUNKeXZlWUEyNDRPZnRQaFBKNFp0RWp0Y0pXZzhQVTFGWEsxMnkxbmhNaXRUUTFkMXlJblhmZHRfM28xNVU?oc=5",
+        "headline": "PGIM's Neiss Says 10-Year Yields Above 5% Not 'Implausible'",
         "summary": "",
-        "source": "supple.kr",
-        "published": "09/10 08:58",
-        "published_ts": 1788998289.0,
-        "tag": "Strategist",
-        "first_seen": 1788999325.9905589
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yelF1aW5tTno1VkFNYlpoY1BIbHBxOG5FaWlsUFFiNWI5SFJiamZkaXRDbDRVNWJfWXViMUNwYkphTDFxTmlSVERrNDgtU1NmMkY3T0p0OFBrNDhV?oc=5",
-        "headline": "BOJ, 금리 인상 속도 내나...터미널레이트 '1.75%' 전망",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/10 08:55",
-        "published_ts": 1788998100.0,
-        "tag": "JGB",
-        "first_seen": 1788999325.9905589
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93N3ZDNTEydldtLTk0TEYtb0ZheXlFb3BZX0dHRUNIY0ZscW1fNzd1VkJVcFhDbmEzTDkxZ0tkdHJHNXNURm9pZ2VWX0NhcnY0UnJIT183VjVUbkHSAVtBVV95cUxPdzd2QzUxMnZXbS05NExGLW9GYXl5RW9wWV9HR0VDSGNGbHFtXzc3dVZCVXBYQ25hM0w5MWdLZHRyRzVzVEZvaWdlVl9DYXJ2NFJySE9fN1Y1VG5B?oc=5",
-        "headline": "ROE 12.1% 사상 최고에도 일본 증시 관심 줄어",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "09/10 08:32",
-        "published_ts": 1788996732.0,
-        "tag": "JGB",
-        "first_seen": 1789008324.5333474
+        "source": "bloomberg.com",
+        "published": "09/10 09:00",
+        "published_ts": 1788998400.0,
+        "tag": "Fed",
+        "first_seen": 1789032630.2882912
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 18:15:58",
+  "updated_at": "2026-09-10 18:30:52",
   "yields": [
     {
       "label": "3년",
