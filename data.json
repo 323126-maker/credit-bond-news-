@@ -1710,6 +1710,16 @@
         "first_seen": 1789056927.1560047
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5N2t5X3BrMVZFRDZodmI3RUx4WTBTUXM1MnhQZ0xpM1E2WWNmbGxqM1pTU2xlRDJpOVNEbGhhX3YtNUdweDByeE5YQ3c2RUprTkRvdHgxMExBWFVIcnBCaTNtVnp3T2IySHlEblJQaW42b21tSnB3T3JFa3ZYbm1FV1pSRjh3aGk0TkI2My1RY0tlbjhvVmNhQnBnNFo4cjZXQm1UblctTDQ?oc=5",
+        "headline": "Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/10 23:46",
+        "published_ts": 1789051579.0,
+        "tag": "Global",
+        "first_seen": 1789062327.5688233
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQNTNyc0ZsVXdkZXFpQ1piX0pyVHdJS0RITE9HN1NfTUEzTXp0clJORmdpWjBYMFVGREZlMDB6WGd5d2prLU52SVdTc0JoQTFkMGRvNmFPMG1ZQWdVNXdjXzNQbDdkNXg3YWhONjZUcFFkcmVwMVdYcjN5cnBXalJDanBfY09BQU9fNXE0V3hnd0xvcWl3SGc0V0dWYzRXcTE1ajFvZGpEbE1jTFV2dHliSW9haU83NWZaTkRwLTlTNmprMTUzZXo5S2IwdFNNbjBGSFdwYmNDME80UUVHa1gwWQ?oc=5",
         "headline": "Paul Krugman Warns Why the AI Boom—Not the Trump Administration—Is Driving Surging Bond Rates",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "reuters.com",
         "published": "09/10 17:58",
         "published_ts": 1789030700.0,
-        "tag": "JGB",
-        "first_seen": 1789031728.503861
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE16RW9KSzNlVGlpOTY3dnhqbTFvT1p6OUN0N0c5Ny1DTlloeFlmazk2NjU5UUV3emhyVm83OXR6SzIwdm8wNjB5M3BvUUYyUlY4?oc=5",
-        "headline": "일본은행 '매파' 위원 \"금리 조속히 인상해야\"…시장, 내주 인상 베팅",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "09/10 17:44",
-        "published_ts": 1789029843.0,
         "tag": "JGB",
         "first_seen": 1789031728.503861
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 02:40:46",
+  "updated_at": "2026-09-11 02:45:50",
   "yields": [
     {
       "label": "3년",
