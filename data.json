@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE96djVGSi1Fa3JJb0hYSTZfTTd5VmQyMEpUS0dzTjBOWGJIdkxyNjE0MmJ2NjFUOXRIVE84Y0RrOGR2M0xTd244b1Bub1JQUDFmUnZmT3otd3RrQUo1?oc=5",
+        "headline": "8월 초 국고채 금리 하락…3년물 8.9bp 내려",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/10 09:59",
+        "published_ts": 1789001940.0,
+        "tag": null,
+        "first_seen": 1789002930.6965997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPLVluLXdSaHNvX09YakZfb0ZkYWFkZnlMTk91Qi11MmJYdTFxOTYxYlZrSmVKNWNDUTFsZ2Q1WkQyNDh1R0F5czJORFQyV1pmTFE2ZVN1RVRsSUJ4T1VDVFVqampfOGFFc3U4Z3RwVzNEb1BBbkowZjd2d3RpS1dZT2Y4YURYcnkx?oc=5",
         "headline": "한은 기준금리 인상 여파...8월 채권금리 전 구간 상승",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788703587.0,
         "tag": null,
         "first_seen": 1788755392.8719556
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQjhkckpRaDhkaVVUdnpFTmpsYi10RTgtVWVJLW1abFFfNmhVTTlCTHdyZDBfVmotbWpYbnhUSlRNaWU4d2k5dWdSOHFhQkZ4SUhzbDhzZEtrU0dEUTlsT1hocmVvVXdIbFltV0NLSG44ZGxvS2phMHVrSDJIYVZGV3hHR09IclV1SjBIZnB4WXhHdzVzZWVPdGRXQ21rRzhadjZkZ0xuaWVfOFlYd2tuMHNERlZwc2p4Rko2bzdR?oc=5",
-        "headline": "박하랑 : 을 통한 성공 전략",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/06 19:32",
-        "published_ts": 1788690744.0,
-        "tag": null,
-        "first_seen": 1788705922.8101711
       }
     ],
     "politics": [
@@ -1690,6 +1690,16 @@
         "first_seen": 1788995726.2513294
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdFFPUS1rSUZDdUVKVWVldzhpckF0REk2MFJNU1QtSUc5STlHVTNvV0RyMllQcDZDak00Qzc1VkU5dkxvdjhiRkhjSW84S1pIUkxIOEI5MmdWTzRORnMybnZuSUN5TkQ5Z3praVNHYzlKUUlEZ1JyOFFPZHFVU2VjNmM2RVFGTXVM?oc=5",
+        "headline": "Investors Brush Off Bessent’s Surge in Buybacks",
+        "summary": "",
+        "source": "The Fiscal Times",
+        "published": "09/10 07:37",
+        "published_ts": 1788993448.0,
+        "tag": "Strategist",
+        "first_seen": 1789002930.6965997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeUFaSDhnNXRKN0dUZzRGTEtvT005SHpsdm1uRTkxeDNLNjhFVmpIMGIzOFZZMDV5dHlrYjk2OHFHb0kwOGd1TDFFeHNSZHJiSEl1akRNT0VlVnUxYjM0S2ZtdlJabE9zcnktMjEtRk5HUFBKRzQzVjBIWVQ0dllCM1FZRzFRTllzMTVHNm1LYkZlS0t3ZVlwYWFsT3RPdw?oc=5",
         "headline": "Small Treasury Buybacks Fall Flat as Oil Tops $100",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788970175.0,
         "tag": "Fed",
         "first_seen": 1788970528.7372606
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13T2VuT0ZEME85RUZ5TmllbjBzaVQ5SDNHQXR2MGJ6UGxPbVdHQnhJQVlEWWxvTnktRHZ6QWhwR3ZmT3p6WDZTZk1fWmNDOGg0M3JaUHJDazVnZw?oc=5",
-        "headline": "美,\"장기국채 바이백 3배 확대\"…시장 실망에 국채수익률 오히려 상승",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/10 00:57",
-        "published_ts": 1788969459.0,
-        "tag": "Strategist",
-        "first_seen": 1788969643.0521624
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 10:01:12",
+  "updated_at": "2026-09-10 10:15:57",
   "yields": [
     {
       "label": "3년",
