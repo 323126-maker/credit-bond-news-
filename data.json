@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ubWV6d2FESjlSRFptVkZoMEtMWU9nRWIxZ0d0T3lod2lCLVg0ajNabFBHRGlNUW9OUjBuaDRLeGNMUmhYNmFXOEFQdWRZM19iRVR4LUp5UWdIOVXSAWBBVV95cUxOd1ZQd2U0ZUJUUG92NHhnTER2VmdjQzNTVk1Xa09fR1FQTmN2NEtqQ1hTVHZfR25kSGU3N2hCcDkzM29lYWIxcmxPRXNwcEtvLXR2VTdrd1ROZVR0cDFyWEg?oc=5",
+        "headline": "피치 \"韓 4대 시중은행 자산건전성 견조…은행업 전망 중립적\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/10 14:07",
+        "published_ts": 1789016825.0,
+        "tag": null,
+        "first_seen": 1789018231.4547167
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KblRUWVJldmxNcDNIQmRiVHYzRGxqd0FiZlR2VHdmMF9LS2hKeVNyXzJCWnlZWW13UlRHODNndUhaR3Qyd3RPUExpMVFlaVpQZlIwMXE4UVVJdnAwbnN3SHN2aUNZUHBqQ3c?oc=5",
         "headline": "한은 연속 금리인상에 채권시장 약세···8월 국고채 금리 전구간 상승",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1788938766.0,
         "tag": null,
         "first_seen": 1788940836.9100718
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBDUnNwdk9RVVU5MVdWMTE4Q1pQR1hNSWd1cmZiY3czdTdnU05jRm1tVThtT2d6VFZTeDZvcU9ES0xvcnJvN3Y2N2JjLXdIcklheEYtZjhLSXVnVnJMZXBvdkhlZklKTzQ?oc=5",
-        "headline": "’중앙 회사채 불완전판매 의혹’ 신한투자증권, 회사채 순위 10위로 추락",
-        "summary": "",
-        "source": "연합뉴스TV",
-        "published": "09/09 16:21",
-        "published_ts": 1788938460.0,
-        "tag": null,
-        "first_seen": 1788939031.2183683
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 14:18:43",
+  "updated_at": "2026-09-10 14:30:54",
   "yields": [
     {
       "label": "3년",
