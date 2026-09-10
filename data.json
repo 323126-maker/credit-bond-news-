@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmE5QWRRNDhVaGJ5UUJIWVh5UW9FcG0wSTN5akd5cF80RTVvOW1hSjhMeE53Q2RhWFlSZDEzYTZ4b2gwbjJVU0FWSmtDNHdpVVExR3JaUzZ5cVI5WUFUY1hEUkNOLVBFOEJWR1ZaS05iZlcxV21XbWw4bzlLNWFyY08yTU1IV3lXbkh4cktHSVlOU0Q3VE9kN2ozUUFMdzREbXE4SjkyQldncEU?oc=5",
+        "headline": "AI-driven bond issuance surge threatens to disrupt corporate bond bull market; tech giants may raise $400 billion next year, warns BNP Paribas amid supply-demand imbalance",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "09/11 07:24",
+        "published_ts": 1789079042.0,
+        "tag": "Global",
+        "first_seen": 1789079432.7017298
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYVJYTUFYcmhreTJGMmhIdEF1ejRiY05RVEtJTVR5T2RaSWFJNkxKbTllNjJRU2tSa2JXSi1obXh0VkdMbTVldWYwRVplV3JkQUE2MGc0M1JrLUxqcnl5VmhQSEZUN2JUdmxfbXk4eS1RRHFUOXZIU1NnWkFNdlZpQW5TMjY?oc=5",
         "headline": "FirstFT: Global bond sell-off reignites as oil hits $108",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789042397.0,
         "tag": "Fed",
         "first_seen": 1789043433.070741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeGJydjRSLXNUYlJuVWxDaFA5cFUxNW9TMDBTM2hiQ1BlOURvako3dUhqNzhvS1N6SXp6Z2VfT2xVdWozN0RYcHdJeEZvQkliamxTTUZOUnVSNHB2bm44NldKNEFtNG9pczdxaDYwTWlzelhMa0tMbUd2UjJObzlWSjlPczBlRzZiU3F4dXJPUm05UURrcUhHWGRKY2pDNXM4WUxkTlZ1QVpRVmlWRG1oTzRPc2JZYUhhM1RWSXdPdXZuUQ?oc=5",
-        "headline": "COMMENTARY: AI debt splurge is warping credit spreads",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/10 21:05",
-        "published_ts": 1789041913.0,
-        "tag": "Global",
-        "first_seen": 1789042526.463582
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 07:15:51",
+  "updated_at": "2026-09-11 07:30:55",
   "yields": [
     {
       "label": "3년",
