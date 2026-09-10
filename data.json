@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5zek5TZ2tsM24tMHVyOS1fTHN3RmtwSjNtODFQSEk1amlpenRMb3RtT1J4ZExNMjV3RndLWk1neDlYQUhVWE44YXM3TjFUVkxXNVRkaW45bWgzS0VxaEtWYWZ3SHh1V1Nx?oc=5",
+        "headline": "하나증권, ‘자기자본 7조’ 눈앞...외형 확대에 위험관리는 ‘과제’",
+        "summary": "",
+        "source": "녹색경제신문",
+        "published": "09/10 15:06",
+        "published_ts": 1789020389.0,
+        "tag": null,
+        "first_seen": 1789020925.338837
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBad1d4R0dhTGZEWVcwTGlwUVVXQV9nVTNGSGs0LTltcmFjZ0NJcEI0UlZ1dnh1LTNUcXhrb3dLQnJzcDdRaEgycmxsSnhYbDd3enFfZmM4WjRPenZHeDJNS0FRYTFWc1NB0gFsQVVfeXFMUHp3RFZUeGJ0MGdnbm9YdGZabGpXM0NoeF9xNDVNVTN4bjdmX3JTd3VidlZBNFZTeXAxR19HLWc1NGRRRVUyNi1PQ1hCVGxlUTJjY2JzUUtKMTJYa0VuZVF4cC1XNlV1WlFUODdy?oc=5",
         "headline": "[대신증권 확장의 비용]③ 자본 4조 뒤 신종자본·RCPS '청구서'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788766620.0,
         "tag": null,
         "first_seen": 1788772522.8290024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1HTmtjNlAyNTZ6dmdFcElKUmVscGFiYVpiR0dlZ2tDdlR5YTkwVUpRRmRfLW1jLVpXb2ZoT2NRd1RzTllJeUthV1pB?oc=5",
-        "headline": "신한지주 3%대 급등 11만원대 안착, 견조한 흐름 지속 : 기업주식정보",
-        "summary": "",
-        "source": "재경일보",
-        "published": "09/07 15:50",
-        "published_ts": 1788763800.0,
-        "tag": null,
-        "first_seen": 1788765324.9402027
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 15:00:59",
+  "updated_at": "2026-09-10 15:15:47",
   "yields": [
     {
       "label": "3년",
