@@ -1640,6 +1640,16 @@
         "first_seen": 1789042526.463582
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlQ4Yk0zOHpCUXkzYVBxcjBRYXVCdVp3SlEzRl9YTGNnQzZOeC1xcmlVNnBMLUVOQUNVVmNqS1VOWjh0WGdUbG0zMkhjMm1VWW5NX0N2OTUtWFVNbHpaVjZCeUdkMGpfSzFsU1dpc2R6bzBUT3U5YU9WY0hFcUU4UmhWNmZvbFk3ckdOR010VTFNUjlSc2ZfZ2s5VDRxMUsxN3F2eDVENWExQQ?oc=5",
+        "headline": "Bond Market’s Verdict on Washington Is Turning Harsher",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/10 20:46",
+        "published_ts": 1789040760.0,
+        "tag": "Fed",
+        "first_seen": 1789047037.5792432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3VDNmdkRjB3NG1tRUV6azNDYlJ0TFFTYTREUW5meTJtRWRMRUtTbm0xQnNMcXF2OFE5YUZZYnY0UmNNY0RPYndlellWM2ZKRkpXc01ETnJhWldrcGdER1RNZm1NZHNQRzVxUFpWdVFha0RwSjg1TnlpRFVtRm4wSHExTDZEdjdFOGtTT2E3Qm5LY3BzMGxubk1zaXJudXJhNjh5VEYxUzNOM0ZZUEE?oc=5",
         "headline": "John Hancock Multimanager 2010 Lifetime Portfolio Q2 2026 Commentary",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/10 14:07",
         "published_ts": 1789016864.0,
         "tag": "Strategist",
-        "first_seen": 1789017325.023491
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaXJjUWd5MlNTS05LTkZULXVvYWtydDlZM1NxRzhUYUNYM2NFbHFQZzVjbHI3Ri1TOGZzSHg0eWNzTVZybVJ3SHJFcUxVMG5jWXA2YzZPV0UtSUhCTFhEQXl1QXd5bGxDT0MtcG1oNzlKSjdW?oc=5",
-        "headline": "Japan’s 3% bond yield challenges U.S. Treasuries",
-        "summary": "",
-        "source": "Crypto News",
-        "published": "09/10 14:07",
-        "published_ts": 1789016820.0,
-        "tag": "JGB",
         "first_seen": 1789017325.023491
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 22:15:50",
+  "updated_at": "2026-09-10 22:31:01",
   "yields": [
     {
       "label": "3년",
