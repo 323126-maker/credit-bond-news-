@@ -1690,6 +1690,16 @@
         "first_seen": 1789020037.6754944
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE43QjExNzVhZm00cl9hc0JNMTVqOWNrTHVkRk95X1EzX0U1RnM2cWZlbEhXSWpUcnBFbWFsY2tscDFPd0VxRXhHaXZ2NFM0djE0YUR0TFhuQXZmR0FpalhzbmdZWGZ6bkNHRzdDSmg2VnR5ajhLWUE?oc=5",
+        "headline": "[뉴욕증시 주간전망(8~11일)] 생산자(PPI)와 소비자(CPI) 물가지수에 초집중",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/10 14:23",
+        "published_ts": 1789017809.0,
+        "tag": "Fed",
+        "first_seen": 1789026325.0794508
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UUGJmNWV1TDZSYTdSY2NLemllQ3hvOXhpalVnUFJGQS1aUHpDcHVLX05pRVFzV3F5QXkxcEdqeGFQRWVuYm82V3Z1cjVKRFdNSVF4QXVEN05lRDRYeDBMZl9yVkh0NWFSaXdtOUNyaC0?oc=5",
         "headline": "바이백, 오히려 국채금리 끌어올렸다...\"진퇴양난 빠진 美 재무부\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1788990600.0,
         "tag": "Fed",
         "first_seen": 1789002038.3362072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1Zk9ZOFJXWEpFRVhVMENrSFVkam5jdGtkVzE3Q1hPcXlRMkJwNDJCZkpucVc3SXQ4VjBiTjZpWC1sMTFzWHRUeGRZWGIwaC1iNDAyYjIzckgyM19nSURkWEk2cC1OSkEzZEFROWJsTQ?oc=5",
-        "headline": "Fed's interest rate decision may come down to hair-splitting inflation data",
-        "summary": "",
-        "source": "Axios",
-        "published": "09/10 06:47",
-        "published_ts": 1788990473.0,
-        "tag": "Fed",
-        "first_seen": 1789025432.5144353
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 16:30:59",
+  "updated_at": "2026-09-10 16:45:53",
   "yields": [
     {
       "label": "3년",
-      "value": 3.91,
-      "chg_bp": 0.9,
+      "value": 3.93,
+      "chg_bp": 2.0,
       "series": [
-        3.791,
         3.781,
         3.796,
         3.847,
@@ -2439,15 +2438,15 @@
         3.884,
         3.9,
         3.901,
-        3.91
+        3.91,
+        3.93
       ]
     },
     {
       "label": "5년",
-      "value": 4.136,
-      "chg_bp": 0.9,
+      "value": 4.186,
+      "chg_bp": 5.0,
       "series": [
-        4.025,
         4.016,
         4.047,
         4.11,
@@ -2466,15 +2465,15 @@
         4.101,
         4.12,
         4.127,
-        4.136
+        4.136,
+        4.186
       ]
     },
     {
       "label": "10년",
-      "value": 4.401,
-      "chg_bp": 0.0,
+      "value": 4.453,
+      "chg_bp": 5.2,
       "series": [
-        4.294,
         4.298,
         4.313,
         4.382,
@@ -2493,15 +2492,15 @@
         4.36,
         4.385,
         4.401,
-        4.401
+        4.401,
+        4.453
       ]
     },
     {
       "label": "20년",
-      "value": 4.551,
-      "chg_bp": -0.9,
+      "value": 4.548,
+      "chg_bp": -0.3,
       "series": [
-        4.651,
         4.619,
         4.558,
         4.661,
@@ -2520,15 +2519,15 @@
         4.573,
         4.567,
         4.56,
-        4.551
+        4.551,
+        4.548
       ]
     },
     {
       "label": "30년",
-      "value": 4.641,
-      "chg_bp": 0.6,
+      "value": 4.661,
+      "chg_bp": 2.0,
       "series": [
-        4.685,
         4.68,
         4.669,
         4.751,
@@ -2547,7 +2546,8 @@
         4.636,
         4.631,
         4.635,
-        4.641
+        4.641,
+        4.661
       ]
     }
   ]
