@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBad1d4R0dhTGZEWVcwTGlwUVVXQV9nVTNGSGs0LTltcmFjZ0NJcEI0UlZ1dnh1LTNUcXhrb3dLQnJzcDdRaEgycmxsSnhYbDd3enFfZmM4WjRPenZHeDJNS0FRYTFWc1NB0gFsQVVfeXFMUHp3RFZUeGJ0MGdnbm9YdGZabGpXM0NoeF9xNDVNVTN4bjdmX3JTd3VidlZBNFZTeXAxR19HLWc1NGRRRVUyNi1PQ1hCVGxlUTJjY2JzUUtKMTJYa0VuZVF4cC1XNlV1WlFUODdy?oc=5",
+        "headline": "[대신증권 확장의 비용]③ 자본 4조 뒤 신종자본·RCPS '청구서'",
+        "summary": "",
+        "source": "블로터",
+        "published": "09/10 13:50",
+        "published_ts": 1789015825.0,
+        "tag": null,
+        "first_seen": 1789017325.023491
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FVGFLWHB1NEstYjFsUl9pZVZuVFk3WWFGekZvMXNIcWZFby1iYzRGcWlJZFgwWFoxcUNmblE0LWV3dmQ3dzh2WlJVenp2a3lrT0poTXNyLXJaQWVPX2E5T25neTE3WGk3?oc=5",
         "headline": "시중은행 전환 '2년차' iM금융, 대형 금융지주와 조달 격차 좁혔다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788763800.0,
         "tag": null,
         "first_seen": 1788765324.9402027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WZ21ONnBIdFB0Z3liUVYzX21JUzJXS0VJei1HZUxWZWUtQmlEMXgwYUdzUFlaY2RlOWw4d3dQY0pnb2xrcFJUMk9KSlRNVjU3c1BJVVg3UGk1YUdKUmttX2ZPWHpxSWFEZlBncC1n?oc=5",
-        "headline": "김창식 경기도의회 위원장 “지역개발기금 재정 위기 대응에 적극 활용해야”",
-        "summary": "",
-        "source": "전국매일신문",
-        "published": "09/07 14:36",
-        "published_ts": 1788759419.0,
-        "tag": null,
-        "first_seen": 1788760838.514641
       }
     ],
     "policy": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UUGJmNWV1TDZSYTdSY2NLemllQ3hvOXhpalVnUFJGQS1aUHpDcHVLX05pRVFzV3F5QXkxcEdqeGFQRWVuYm82V3Z1cjVKRFdNSVF4QXVEN05lRDRYeDBMZl9yVkh0NWFSaXdtOUNyaC0?oc=5",
+        "headline": "바이백, 오히려 국채금리 끌어올렸다...\"진퇴양난 빠진 美 재무부\"",
+        "summary": "",
+        "source": "오피니언뉴스",
+        "published": "09/10 14:07",
+        "published_ts": 1789016864.0,
+        "tag": "Strategist",
+        "first_seen": 1789017325.023491
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBSaXJjUWd5MlNTS05LTkZULXVvYWtydDlZM1NxRzhUYUNYM2NFbHFQZzVjbHI3Ri1TOGZzSHg0eWNzTVZybVJ3SHJFcUxVMG5jWXA2YzZPV0UtSUhCTFhEQXl1QXd5bGxDT0MtcG1oNzlKSjdW?oc=5",
+        "headline": "Japan’s 3% bond yield challenges U.S. Treasuries",
+        "summary": "",
+        "source": "Crypto News",
+        "published": "09/10 14:07",
+        "published_ts": 1789016820.0,
+        "tag": "JGB",
+        "first_seen": 1789017325.023491
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5taDUxRWdudmNvTGk1WnRrTTNha3hTdktXYTBXZjNneVBSTHVKUXZ3M3RCaXZibFRSY3ZyOHFVcktUUWdQYjJfR2hQd2REOV9nMllfZWhpY3hGbmxG?oc=5",
+        "headline": "[미국 특징주] PGIM \"금리 상승에 일본 부동산 선별 기준 강화\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/10 14:00",
+        "published_ts": 1789016400.0,
+        "tag": "JGB",
+        "first_seen": 1789017325.023491
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWFg4WEt3MWppdlFxRWNKZGtKZmd4YkdKUHBNUTBRZzZOM0x1WjBvcjlSRWRjN3NvOFowaGlfTzl3WmRJRlZ3NWFGTHRQbDBSV25sVEZJVHYwTmx3dUhlNjFXMHcwVUloajdncjdvN2ZqQ3Q1VjdnLXR4WWNUcjVmMGJMSmJFMFBqUnlMTEh2UWVkRExCaHRhc1ZRSWxiUlYybW52dzdPeEdrNVlweV9jekVqUUEwMTZmMXI0aElqTUVtYzQ?oc=5",
         "headline": "Invesco Limited Term California Municipal Fund Q2 2026 Commentary (OLCAX)",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1788982080.0,
         "tag": "Global",
         "first_seen": 1788983133.8103178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ2FsQ1ZBOUZCOW5uS0VhREhwLWs0VzA4TXZ2YW1aOExTQldDS1Z6YXZ0TGZQUF93RHhzREUxOTFXNzRiOU1OdDlMb2xsb2g1MElRU19mX2VJbXhmZnRxUUpnME9YUG5MT2VXQUpBaFEzRmdaVjN4RFVoaEg0MHhIMm1LcjV0QTg?oc=5",
-        "headline": "Trump hired Kevin Warsh to lower interest rates. Will he raise them instead?",
-        "summary": "",
-        "source": "The Week",
-        "published": "09/10 03:42",
-        "published_ts": 1788979340.0,
-        "tag": "Fed",
-        "first_seen": 1788980439.1483114
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTTVlclV2MDFuYTd3NURuYTlPRGRJbHdJRFdPcjdDUV9mMVNmeHBGX3Y2WFQ0QWZvVlVaQ3JtTlRhX2ZLckJTMUIyczgzbThWd1VkUkJTTGY0NVZzLVdaR3JBaF9lWS11azRKQ3FfM3p2NjRGaXkxMkVhQkc3ckRpY3lBbGo1YXUzeldsSVFINjlIS05taFdVQ0x2azQzVEhQN2tnWWlEaTBfZk5aU0psUWZ1ZGFnNUI3ZVBR?oc=5",
-        "headline": "Janus Henderson Global Multi-Asset Moderate Managed Account Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/10 03:10",
-        "published_ts": 1788977400.0,
-        "tag": "Global",
-        "first_seen": 1788979526.1635063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE84OThPMExyRHYwdU8zQ0s4TkgwX09yWndWdENmLVBiRjhlWVNCUDl3UHdaaXI5X085azMwSFZUZEItaDNWV0RsZEZocW9iejlKSjdpcmxhSjlrbWMtUEh1RTBvaw?oc=5",
-        "headline": "Treasury Secretary Bessent's Bond Buyback Sparks Market Selloff",
-        "summary": "",
-        "source": "SuaraGarut.ID",
-        "published": "09/10 03:03",
-        "published_ts": 1788976980.0,
-        "tag": "Strategist",
-        "first_seen": 1788985833.3270085
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 14:01:06",
+  "updated_at": "2026-09-10 14:15:49",
   "yields": [
     {
       "label": "3년",
