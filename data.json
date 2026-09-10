@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGt0X05iREc2X2ZLMUdWTExRVmxfV1FVdlpvR1dDU25LSF82djRwblUzbzNNdkd4TjZJUUY1WVJxZU04cmZ1WVctOHNxT3Jnc1VtRmtqcXVtc3ZET1oxc0c3WFZBXy1qY215emkwV0xKNkR1NGFkYV85Rlg4cVVTdmN5Qks5QWVJRmU0UUxxODFjbEVpWWFYMG5yb9IBoAFBVV95cUxPNzlaVFdoWTlIRnZ5QTN1WHBGdks5RWVzSVJZMG1vOUp3OElNSWd4aHlIRGlXRTdPNURHdkdJMWdReC1FVkFzenZLRlBsQTBPLUVJSGd4VGdMeGlkbzBJcUJ2cGNfV1YxTXNoSGFjanBGckk5RG9USFdab2lHY21DbXZ6N3M2Vk00M2ZKYlcxQS15MnQtOEIyeGZFRjhmQW9a?oc=5",
+        "headline": "Mortgage rates climb: Average rate on a 30-year home loan hits the highest level in over 14 months",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "09/11 02:31",
+        "published_ts": 1789061507.0,
+        "tag": "Fed",
+        "first_seen": 1789062019.2295165
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWjJiS19uN2ZoblVwekowTzJUdTVYZ21BbUZNZDdDbVlYX2hzaVVRN281VUlNQlZVRE9rQy0tN0hHUGhzdkUzZkRnV0VPVFVBRm96ckxTcEZmOXpNR3llR2l2NF9NVDBZREhSVTdsd2tHb1JxTkF0cmZoZVVOQ3B4bS1nN1E?oc=5",
         "headline": "Stanley Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789029843.0,
         "tag": "JGB",
         "first_seen": 1789031728.503861
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOblJ5N2t5X3BrMVZFRDZodmI3RUx4WTBTUXM1MnhQZ0xpM1E2WWNmbGxqM1pTU2xlRDJpOVNEbGhhX3YtNUdweDByeE5YQ3c2RUprTkRvdHgxMExBWFVIcnBCaTNtVnp3T2IySHlEblJQaW42b21tSnB3T3JFa3ZYbm1FV1pSRjh3aGk0TkI2My1RY0tlbjhvVmNhQnBnNFo4cjZXQm1UblctTDQ?oc=5",
-        "headline": "Don’t Panic About a Bond Market Selloff. It Could Be a Sign of Economic Strength",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/10 17:41",
-        "published_ts": 1789029716.0,
-        "tag": "Global",
-        "first_seen": 1789029929.4457626
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 02:30:57",
+  "updated_at": "2026-09-11 02:40:46",
   "yields": [
     {
       "label": "3년",
