@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CUXdRZlFaYkRtcWI4UDFvcXRhN2JRbUZKWnFXUE11WGlnZGZLaWU0aUktUHpidFh2UEpMRU1mWndHQ0R3M2NXVWpHUkp2NTFqX1c2M2RCOGEtVDhobUtua21CaUNGek04?oc=5",
+        "headline": "키움증권, '파트너 의존→상위사 경쟁' IB 전략 변경 배경은",
+        "summary": "",
+        "source": "fetv.co.kr",
+        "published": "09/11 07:00",
+        "published_ts": 1789077600.0,
+        "tag": null,
+        "first_seen": 1789081242.0076528
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUY3FOMXBCUXpnX2NESWNFcjlvVnlZWnNvTTJwNk02ZjB4Wk1UcDE5RXVhMmtaMnRUT1FlUzhieUJRQ3B6S3hEenJiNTJhWV9xZ0ViQ2NweUp5R1E1UTJfcNIBeEFVX3lxTE1yQWpoVjh6Z2s3QzZkbXl0dFJ3ZVppV29wdjdGSTdSRWJaSWpWdlRSbHJ3alF3Y25iSUVDamdOTE1uVlVBZzU4VmNIMTQzbTRYbVJNOFR1VFdJSl83LUlnQ3BfSTZyMzQtamJrdlBTUEI5MkkyZkpzdg?oc=5",
         "headline": "오라클, 데이터센터 관련 매출 2배 증가…시간외 7% 상승",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789016825.0,
         "tag": null,
         "first_seen": 1789018231.4547167
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80YVRLTVQ4djRxVmI3TnU1bG03aU44Q3JfaFFnSHRlRVlrVTlxblBKLU1haXBwZS0xTlhEUVBSOE1TdVZfTmZlYmVtWDZ3Q0VER2VHUGlTdVhPeDF5ZnRtYnN5Z09SRG5HYjVrYUd0THHSAXBBVV95cUxPNGFUS01UOHY0cVZiN051NWxtN2lOOENyX2hRZ0h0ZUVZa1U5cW5QSi1NYWlwcGUtMU5YRFFQUjhNU3VWX05mZWJlbVg2d0NFREdlR1BpU3VYT3gxeWZ0bWJzeWdPUkRuR2I1a2FHdExx?oc=5",
-        "headline": "서부발전, 녹색채권 500억 흥행…금리 6.8bp 낮췄다",
-        "summary": "",
-        "source": "전기신문",
-        "published": "09/10 13:20",
-        "published_ts": 1789014018.0,
-        "tag": null,
-        "first_seen": 1789042526.463582
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 07:45:53",
+  "updated_at": "2026-09-11 08:01:07",
   "yields": [
     {
       "label": "3년",
