@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10RDBUaEtYUXppUDRYWXY4WUU3SEMwRnBiUy01SHdFU0g2UnYzU28wb3pMVktDYU50U1pkY3RST0RjN0tYdHplRHhnSWY4bkNqczFiTGR1TUJLdG5zc2U0SkV5UE4waUg4djRwSzNVZjk?oc=5",
+        "headline": "한국서부발전, 500억 규모 녹색채권 발행 성공… 탄소중립 재원 확보",
+        "summary": "",
+        "source": "에너지코리아뉴스",
+        "published": "09/10 12:16",
+        "published_ts": 1789010176.0,
+        "tag": null,
+        "first_seen": 1789011029.6568232
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44QktEcXBKUGw0Nk5uYTR5bXNOdGZ5UWZlVVl2LUJodlNrMHVvMkNLUjd2VmtWREVKYVh4YzM4eUlTZEhtdXNnei1kam82Z1pmUnUtQ1ZJamhXdWxNdkxnNdIBeEFVX3lxTE81N2h3bkh5OTByX2NWUHZpbGV3aFkzM2NHeEdLbG5wSVA3aHBzUXN1SC1kU0NEYlVMcWIyalpod3B2cFlxdjN1OE5XenlVNmtReDFxbWJMOHR1M1M2cmczLU5vdldIRWRKVUYzSmlKdTlMZ0l6VHJNdg?oc=5",
+        "headline": "8월 국고채, 장단기 모두 상승 마감…\"한은 2연속 금리 인상 여파\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/10 11:19",
+        "published_ts": 1789006762.0,
+        "tag": null,
+        "first_seen": 1789011029.6568232
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9fNFE0a2tDZ3lkbjhNZmlyV2RObEt0N205VDBZbVNNUFlrWTJTVkNsMjh4dVFYNTRlTW5DZkU0djQ5T3VXNnZzQmp4TmtVaFpuWjZHQUxfVnBvMWpJcVpGQmtWdktFVlFxNllVVXhR?oc=5",
         "headline": "한국서부발전, 녹색채권 500억 원 발행 성공",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1788933459.0,
         "tag": null,
         "first_seen": 1788934525.880552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWUjVPS2RPUWZOdE5IQXFUWDZ6cVk1eUZOamhmM2FaV2VJSVdrbExkd0lqMWVZeGN2U19FY2Q0eTcwWFRlMldPMGdNVS16cHVtN3JmSGdfRXlUNXExOG1GNdIBYEFVX3lxTFBWUjVPS2RPUWZOdE5IQXFUWDZ6cVk1eUZOamhmM2FaV2VJSVdrbExkd0lqMWVZeGN2U19FY2Q0eTcwWFRlMldPMGdNVS16cHVtN3JmSGdfRXlUNXExOG1GNQ?oc=5",
-        "headline": "정부 \"피치·무디스, 내년 예산안 재정건전성 제고 긍정 평가\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/09 14:34",
-        "published_ts": 1788932075.0,
-        "tag": null,
-        "first_seen": 1788940836.9100718
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBicmhiQmo0WUl3Z0YtVzdqemxYZlNCMkJjSlI0YTlGX2o1VC1WdUdmZTduTFZOQW1RckZiYjk5SzBHaDhwT3RTWHI2eEhJQThCYVBMQnIwdkVpcFRzRHRZatIBeEFVX3lxTE9yb0Qxc0Z6dFg5TDB6SEsyZ2EwNVhvaklpN0JkS0Vrb2IxWHlDUm03QUNRUFRqR1U2cUdQSF9SY2ZlSTZCOUpZY0NkWkp1b0Y0QkptX3hZWEJzTm5QTm9TYUxDcVlDamZZTktMb2ptTENneDdCZEcwOA?oc=5",
-        "headline": "\"국채발행 축소, 신용등급에 긍정적\"…무디스·피치, 韓예산안 호평",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/09 14:21",
-        "published_ts": 1788931319.0,
-        "tag": null,
-        "first_seen": 1788931830.7414417
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-10 12:15:59",
+  "updated_at": "2026-09-10 12:31:03",
   "yields": [
     {
       "label": "3년",
