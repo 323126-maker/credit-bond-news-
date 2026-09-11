@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1MaWtkejROWXhPcm84N0dKOTZ5RWRzUmk3UWpWNXh5RVY4WUxhVDVkbUdBWDl4ZFFwY3U4eEZzVmxyQmh1QzV5SE9YWi1DeFk1OGswTlN1UW1zNUxzaE8ydlB6NDbSAWhBVV95cUxOS2N6TkRFWEg0c0pBZXJsZVNNaGFqR29iM2FILVI3dVZGdWkxeVJ2cWFtMkhLTFk3Mm13TmVLb2VQNnQwTjl4bUxyczFtMXZSbk1vOHR3cnNXc3V1TGhKWjAzbzFJVkE1UA?oc=5",
+        "headline": "3.7% 빚 갚으려 5%대 영구채… iM금융, ‘비싼 차환’의 그늘",
+        "summary": "",
+        "source": "경인방송 뉴스",
+        "published": "09/11 11:31",
+        "published_ts": 1789093915.0,
+        "tag": null,
+        "first_seen": 1789101032.1193264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ubVZHSzlCUVM4RGQ3OWxoY2hUbzJPR2Nsa0ZWNGt6d3ZyaS1YTkdhRDlRX25zSG9rSUxIdkhRTzh6eXRNQTFjY0dZMkI3eGdTZk1YTEV2aHY0VGw1OGROZzVId1BvRklldm5hOVBjMA?oc=5",
         "headline": "“배당하고 다시 채워 넣고”…캐피탈사 신종자본증권 발행 러시",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1788852932.0,
         "tag": null,
         "first_seen": 1788998440.4258711
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1keGpQaW84NDZ6S3NFX1V2aW0yaEEtRy1QTlBJQUExQTExRkdyc2FBMFVuQ3pQclZhcmM3M0RaclgxWm5EN1cxTmVKcjdSak53bkF0Yk40ZDRyQ1VTby12azBlcE1CQmZPQkJJQ3FwLTNoUlE?oc=5",
-        "headline": "JB우리캐피탈, 700억 원 신종자본증권 발행조건 확정...표면이자율 5.799%",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/08 14:32",
-        "published_ts": 1788845520.0,
-        "tag": null,
-        "first_seen": 1788852631.1974282
       }
     ],
     "policy": [
@@ -1940,6 +1940,16 @@
         "first_seen": 1789078525.5786643
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRzFka1RqWEtpMWY1YnhIeGlqd2lwSFdXQnhtajhQQkkzUjdhemVMeGVTZzJ4dzY4YmZiRkxBa3ZTbDZUZUgxY1BlMDBVenZtVFdtcWFudGx0R1RyeUViaG5iR2FUYjViTk5BN1pYdlNGV1pHMTZGTGhPSXVJTnFJOW4tVjdHMVZSdEh1QW9UTnk2QWd1U1ZIeTRSSQ?oc=5",
+        "headline": "Mortgage rates climb: Average rate on a 30-year home loan hits the highest level in over 14 months",
+        "summary": "",
+        "source": "Chattanooga Times Free Press",
+        "published": "09/11 04:30",
+        "published_ts": 1789068600.0,
+        "tag": "Fed",
+        "first_seen": 1789101032.1193264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ0stZmpIMGZtX1BpZ0xaT3h4djBzTXRKUVNaZUd5REZwTHhOcTJCQXhLRkhQdWU5NDJqMkt5WkFDcTVTSG5QbVRnUWxpRndNZkZKSFhhS0I1SjMtQXA3R3hEbDEwTFZHNUJwcWUzYTJDd1hwM3FYeXFlUUJieGdsMzJhT1FfTnZWY08wYndvdTNrRTFEUmpaZzdTWQ?oc=5",
         "headline": "The Muni Renaissance: Tax-Free Yields in a High-Rate Era",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789062667.0,
         "tag": "Strategist",
         "first_seen": 1789090232.0277815
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKOHNmeHNOcEY0UkNUdTBEZDRVdjZmSWxfQ3V4RTdfdFl2YklaQzlDODdsbzktQ2FNdG9WdjF6akx0UXowT205MGFrNElvQWdDRm41S01sZU15U3N4bG9FUy01WWRpY1dzemJwR21Xd2N4U3FvNUVF?oc=5",
-        "headline": "Inflation won’t die. Now the bond market is daring the Fed to do something about it",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/11 02:37",
-        "published_ts": 1789061820.0,
-        "tag": "Fed",
-        "first_seen": 1789063241.330302
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 13:15:53",
+  "updated_at": "2026-09-11 13:30:56",
   "yields": [
     {
       "label": "3년",
