@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52dndEaHBqZ2tZNDNMNnFpRnZud2hGUHNRdkhZbFNhcXQ1UnAzZUI2a0QxNktHUUZHaXQybk50a1J5RGIwVjkxZTdUM2ZoX0xia2dLQg?oc=5",
+        "headline": "[채권마감] 미국채 발작에…국고3년 4% 진입 ‘2년10개월만 처음’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/11 18:17",
+        "published_ts": 1789118220.0,
+        "tag": null,
+        "first_seen": 1789119032.663652
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaVFpVMjF2R0U1c3g2OEVrLVZxdGZZOTR3a2RlV0lIUEVzbk5mU05PQzdHaXNHalp6WFBZay1XZmxpM1hFYnA2ZngyRUx6cGxYT19DZ29FaDdZZzZlSUtZREFUbUg1eFk2NFlEUGtiRGY?oc=5",
         "headline": "S&P, SK이노 신용등급 전망 '안정적'으로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789028802.0,
         "tag": null,
         "first_seen": 1789029036.5509086
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBKX3IzY3RESEVsbXVWc3NtcXhCbzljMlVGMzJlT2ZDbmdRMzFCMWEtUWhLYUdLTjZtVmltVHNObFp4OF80dDNUMzNPMWpJUEpUalBINVU1LTM2Y243YmV1bnhrTmZTTHU2ZG0wSEdaU1Nsdw?oc=5",
-        "headline": "위기 넘겼다지만 곳곳에 ‘지뢰’…AI·좀비 PF ‘신용위험’ 정조준(종합)",
-        "summary": "",
-        "source": "마켓인",
-        "published": "09/10 17:16",
-        "published_ts": 1789028180.0,
-        "tag": null,
-        "first_seen": 1789030839.9273317
       }
     ],
     "perpetual": [
@@ -1740,6 +1740,16 @@
         "first_seen": 1789106438.632894
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9faWZld1I3X2s3dGs0RlhNNGJ5eHNCbVVmcFpzVFJpSTEyaWhvdW9oZENpQm5EdFdfNkxUVnZqaGNKSmg3RGRhejZUSGlHWGxOb1FJZHM5ZWVEMGxMbVlFT2ktamNjZlIxaURFa3prb3VrZw?oc=5",
+        "headline": "[美 금리 발작] 아시아 시장도 출렁…채권·주식 모두 타격",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/11 14:16",
+        "published_ts": 1789103795.0,
+        "tag": "JGB",
+        "first_seen": 1789119032.663652
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamQ1QWJZRUxpMVhHaTJDeF9xZjRhVndKZ1BCZExyZXMtQmgzWWdZSnhYTDRpOXk1LVAtQk0tUDBmR3lHYk1pWV9KMUtCT1VPb2h2NVhsRmQ0N3YwTUk3VkFrcVBNc1U0a2VVdmVKTlB2bzhoV2ZJTFB5T3BxVjJkcVg1OUNSbmNqTFdETmg0YkNiVE5hN3p6MGkwaGJnU1JfN2N3azN0a3JMcEhvYkU4Tjc3M3JnVkxjSHhZc05lWHQ5ejVlUXBxY2VBbjRGUnc?oc=5",
         "headline": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789091469.0,
         "tag": "JGB",
         "first_seen": 1789092040.4669008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYTNQRGJaT1Z0azdaSExOUVc5X203U0xaN1gzWWdDQWl2RGN4NnUyUkFiSkp1U0t0NnphOVlxVDZLdmdMaTlHZlZhVWlpNmdJZEE1MC1fZUh3NE1hRkxlcGFKLW9Za2U1VG5XTXVBQ0tYMU9rNXVyS0UwMkNrdkhyUkRQWXpQV2FCNVZQczFWMm1ZSlc3ZUR2UzRLcmRwVFFIaGlR?oc=5",
-        "headline": "Allspring Diversified Income Builder Fund Q2 2026 Commentary (EKSYX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/11 10:50",
-        "published_ts": 1789091400.0,
-        "tag": "Global",
-        "first_seen": 1789092925.9906073
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 18:15:47",
+  "updated_at": "2026-09-11 18:30:58",
   "yields": [
     {
       "label": "3년",
