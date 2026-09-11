@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOU5LdVoxSV8tY0Q4YmtFdktzT0Zjb0RiY19IX0E1ZVJsenAyYXloRGF5aG9qTmlTZUxUVkNIaUVqeGNpX2JnRk5TQ2VuSURmaWNlaFRlMUExTWhuallWOFlodE92WVQteHFFcFFzZjR2c0dDb2hldzFsRm51d3NFZUxFZ2ZrS3EwYmFF?oc=5",
+        "headline": "BlackRock Balanced Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/11 18:40",
+        "published_ts": 1789119600.0,
+        "tag": "Global",
+        "first_seen": 1789120837.8220105
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCNk82bWpadFl4TGlpZnJOWXd4c1hWSVhCbFozMkd3b2Q3S0NrLVNvQ0pIN25UbExuYkF6ZXBKQ2xZdDAteFkzbW1qNDk4VExWVGJxMVRZTlNpdXZYb0lVRjFCMjlJQ1JyTS1ncXZYZzQ0dmZXUXc?oc=5",
         "headline": "Long-Term Yields Return to 3% Range After About a Week as U.S. Inflation Concerns Spill Over",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789093800.0,
         "tag": "Fed",
         "first_seen": 1789096525.1877935
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObk9PZFRCZlFoeGxQNy0zVmpSRVk5aFhSdHZleTRBZ0NQUnNxdDZZaG1nYzlVUlg0RnpYOGUwQ2FEVmRSb1JueG5rQzYtWU1PWVUxZVV3eGpNOGQtZUZoZ19SVVhjV3NEUzR1SUZNRHZVSGQ3dkhfdF9jM1ZXdHVzbUdOaEhjVFFxYkNmVVRXVnJucHZkOG5zOTZrVmJyZDZ2Q3hZNVRnN1lfSm44aDZaM19iRF9uaHUzRlFhc1BLOA?oc=5",
-        "headline": "Soaring oil prices compounded by inflationary pressures triggered a simultaneous sell-off in Asian equities and bonds",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "09/11 11:29",
-        "published_ts": 1789093745.0,
-        "tag": "JGB",
-        "first_seen": 1789095642.6641917
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 18:48:45",
+  "updated_at": "2026-09-11 19:01:02",
   "yields": [
     {
       "label": "3년",
