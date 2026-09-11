@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5fbXdfVksyeXhaRDNnaVltcWJ1MEpUTVdrZjdYbUhsdm5FYV9hM05QaHFFSWRMQi1NUUxfQkRZVy1WQWhaNHI2QUl4aXNoRDdpdFRlQ2U1Wmtmdw?oc=5",
+        "headline": "코스피, 다음주 '슈퍼위크 시험대' 오른다…美·日 금리 결정",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/11 15:24",
+        "published_ts": 1789107843.0,
+        "tag": "JGB",
+        "first_seen": 1789108231.7306917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZW00YmlHZ0p3ZmVZN2tLRE96dUdxaUZhQmNCeW91Z2FVclFKMmZxNDBPV1ZDV1NEdnZINlpSYmVSVjRocWx4THE4YUFRSmZnS1c2Y2tjMW05ejNjdW00MkFHNGM1b0V6R2ZjeWtxRkYwQ0RqYnlET1Atc1BEWC1wODJEUlJuLWhWZk9lQjhpYU93NjEzTVhqZWJPMGc2Y0FsbERkTmNUenJmV3ctM3ZFYno3cFQ3YlNmNmhIV3VLS0pOV2xDX29z?oc=5",
         "headline": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
         "summary": "",
@@ -1930,6 +1940,16 @@
         "first_seen": 1789094725.590835
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxORDJvZjBNQU1YbEd1bDVaUmNpRV9kS3M3VGV6YlN4bElwb0RTQTVxM29Rcmh2SkEwaEo2VW1WWksyYklyWTk3NDlVMkVPRkwxbXZ3UXZMWHBmelRyRzFpdVdDQW5TLTJja1hidHN4R2VqTDhwSmZpX2xpZERoTnZXOVhZaDc2RFJJT3pPOXFhZ2FhLWdCNjBEOF82UUdhNjhldnBBeVIwelIyUUIzRDMtc21hb0M0Yi1UY0dNaENTY0Vzc1FrdTJZcnVB?oc=5",
+        "headline": "\"사모대출 부실문제 예상보다 심각할 수 있어\"",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/11 09:17",
+        "published_ts": 1789085866.0,
+        "tag": "Strategist",
+        "first_seen": 1789108231.7306917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WUlRUWXpmaGs3SmF5Q1Jnc3g2b1NLeVNWdzJTbEFxdF9ya3hRdzAxU1BubkY1VXVia2dGOXZ6WGtVZjR2OG9FSXZPUFh5RzFrQ05iQXlueXlkeGNKa3ViTlRfX3hORVNkRW9La1ZtczhsYXc?oc=5",
         "headline": "NH투자 \"다음주 코스피 6400~7400 전망, AI 기대감에 반도체 강세 지속\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789075486.0,
         "tag": "Global",
         "first_seen": 1789092925.9906073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMXpaR2xua1c1UFhrWEhEVXF6bFdqUV9NUV9wZ0prbmVBcEs4THM0YzN3cUdmbVdvY2dHS2pDSGI2UWs4N19fb3hYRGpfM2tHUG1qbkxVVDV1aHd0TFZ0aEdzOEJhQWhIRDQxMzNQQl9Td2c1SXZocVY4ZkZPRWFKLTVsUjFzVllpWFd0UlhpM2lIOGRtc3dYcWczU0dOUEpJ?oc=5",
-        "headline": "If Treasury Wants Markets to Speak, It Has to Listen: News Article",
-        "summary": "",
-        "source": "Independent Institute",
-        "published": "09/11 06:03",
-        "published_ts": 1789074210.0,
-        "tag": "Fed",
-        "first_seen": 1789074930.0394993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmM0QTBjUGpQNDVzMkVTcVR0bjl2Zl9zT2xHdVdBMDZyc0NsaFRZOWtBNnQwV0ZhUWppVlV1dkV1TjgxdjhhWngyWVZ5MTNBdFlwa3dQNS1lTkVHZHdjMGVlSlRiQ3BwZzNsRmNodHl2cXBHdDFvWW5QWkR1R2l1M1ZvMVdiX2pxSllDN3dkTHF2NDE5RkJTNXM4aUVKOHAyclE?oc=5",
-        "headline": "Fed Chair Kevin Warsh Discloses Up to $5.9 Million in Asset Sales",
-        "summary": "",
-        "source": "Quiver Quantitative",
-        "published": "09/11 05:35",
-        "published_ts": 1789072500.0,
-        "tag": "Fed",
-        "first_seen": 1789073125.8807871
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 15:15:55",
+  "updated_at": "2026-09-11 15:30:55",
   "yields": [
     {
       "label": "3년",
