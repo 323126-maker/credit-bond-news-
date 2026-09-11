@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1wZTloRVYtU3EtT2xBM0traDNJc0VCc2lQN1F1b1loV25pNEUwR25TR1I0Qk9IcVBiVDUzRUd6Rm5RMmpabXRYYmxGazVpU01jSWc?oc=5",
+        "headline": "윈 리조트, 9억 달러 선순위 채권 발행..2027년 만기 채권 조기 상환",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/11 19:03",
+        "published_ts": 1789121015.0,
+        "tag": null,
+        "first_seen": 1789121725.044366
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52dndEaHBqZ2tZNDNMNnFpRnZud2hGUHNRdkhZbFNhcXQ1UnAzZUI2a0QxNktHUUZHaXQybk50a1J5RGIwVjkxZTdUM2ZoX0xia2dLQg?oc=5",
         "headline": "[채권마감] 미국채 발작에…국고3년 4% 진입 ‘2년10개월만 처음’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789030016.0,
         "tag": null,
         "first_seen": 1789030839.9273317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xTTdja1FDc3JpeklkTkhDOTYtMG9UYUUtQjY2ZmJ2UG03VDRYa2laalZsbm9oWkgwdTZkSWtzVklTTHBvbFdxQVFNOENXSk1pMWpnaC03RGMtNHFnTUQ3dXFPUVo?oc=5",
-        "headline": "단기로 빌려 장기로 굴린다…발행어음, 유동성 위험 '경고등'",
-        "summary": "",
-        "source": "news.mtn.co.kr",
-        "published": "09/10 17:39",
-        "published_ts": 1789029567.0,
-        "tag": null,
-        "first_seen": 1789029929.4457626
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMVJCWXFlM2VjSEJ5VDd6a3JTdE90MGJOWkpsREJBYjRWY3NQOU1ISGVCUlB3OGNMcGRnS0dxRGVJOEt6RWE4cnNONDlycDZVRHB3SC1wOVB5NXVlcW1IRDVwVWhFa2l1bUsxX29YR2lqLUEtSXg3UDJoY2Mta0pjUVRlY3V4YlVoQ2d0Qkx2cDRSMWtGX21aM3FxczFOUGdmcGhpOUJWTm0yQ25namI1U201SVRRWkdQWDU2ck1n?oc=5",
+        "headline": "Calamos High Income Opportunities Strategy Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/11 19:10",
+        "published_ts": 1789121400.0,
+        "tag": "Global",
+        "first_seen": 1789121725.044366
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOU5LdVoxSV8tY0Q4YmtFdktzT0Zjb0RiY19IX0E1ZVJsenAyYXloRGF5aG9qTmlTZUxUVkNIaUVqeGNpX2JnRk5TQ2VuSURmaWNlaFRlMUExTWhuallWOFlodE92WVQteHFFcFFzZjR2c0dDb2hldzFsRm51d3NFZUxFZ2ZrS3EwYmFF?oc=5",
         "headline": "BlackRock Balanced Fund Q2 2026 Commentary",
         "summary": "",
@@ -1718,6 +1728,16 @@
         "published_ts": 1789113720.0,
         "tag": "Strategist",
         "first_seen": 1789119923.3757489
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONkxDXzVMaVZIWC1kbjlOQ0gwNGNZTUhWTjRvLVJxdlM4bTlHaWNrMnUyY1BZa0NVNk96a2FSeUJ5eEZFSmYyRkFFM3ZYYV9saUstLWh2aHprM0pFNjEyMzZMakowd1dubE4xMUttN3h0WjhmcDdEXy1iejhqcXlGX3VZTzJkOTJGX00xTWwzWmxKemtubVpGVF9MWnhMQ3QxSFd6VWxvNEZjZmVBYXJJRA?oc=5",
+        "headline": "Nasdaq 100 Forecast: NDX slips ahead of Fed Chair Warsh’s speech",
+        "summary": "",
+        "source": "stonex.com",
+        "published": "09/11 17:00",
+        "published_ts": 1789113620.0,
+        "tag": "Fed",
+        "first_seen": 1789121725.044366
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmpodUdDS3pHbVNQWTFtamQ0WlVtdUtmZGNoay1FVWg0TDVlbDZhVzNra3hNTHpYYm5WaF9FV2J6UnFCcDl6d1d4UlJuQ095dHNHdGpXOUdiMEg2dHNtV2p2UDRaSWdIXzVKbjBCSmliRlAzdF9ObW96Z2pOLTRweTd4RDNONV81MnJyVldWQUcyNVMwQm9jdGdQZU1pcXlSVXpKd2tkb1VBY3BmZ2c?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1789096721.0,
         "tag": "JGB",
         "first_seen": 1789097432.434173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUndQZUtsT21ORk04WmVOYmNHTklBaV9ZWDhSR3Y3RUVabjFpZUJ5RVE5U0s0RG5UUnJ6TTVpaWR0Smw0eEJUNGFma2lfOVVqY25oams5eUNLY090TjUtd0lvU0FMajMyQzA0SXA2TW93RVFNX0loZWZWamxza1U2R1pJVDJZaDZ5aGN1LUlzYjVFWVJvYlczRkxveWprN21XWUE?oc=5",
-        "headline": "Japan 10-Year Yield Tracks Treasury Yields Higher",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/11 11:57",
-        "published_ts": 1789095420.0,
-        "tag": "JGB",
-        "first_seen": 1789099238.997568
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX1ZVTVdKRU9QSmV2SThxZkFaaE90ZlAyWGduQkJlYmdScF9mQXZuX0FmTE5rQUdWYWRHU1BmaXA2MHd4V0lUVkRyTEFaVkZMNDFTYm1pU2dGMTI2ajFnekNEOFpOY21fRVF1YXVzY0lLeTJFWmwzcXl0dWJuY3dfaUR6VGFodzNtYnduM1Y3anhpQXZYZk4yYlFHZU45VEE5bThwTHBBbzJkanNFOG4xQmkybGlkeGJwZGtNMUNWeVdIaVh1ODR1THJCdVk1SHNLZVRieWhMaw?oc=5",
-        "headline": "Macquarie Group (ASX:MQG) Strategist Highlights Fed Rate Debate Amid Global Bond Yield Pressure",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "09/11 11:30",
-        "published_ts": 1789093800.0,
-        "tag": "Fed",
-        "first_seen": 1789096525.1877935
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OSUNMQ00zLU94MU9IaWw1ODdERlVyWnhXcXAtdGZwU1ZnOW5VZFZLRXZITlVtMUt1THRTN2FoS252dmc2aU03bEV1YjAwTDZfcmlibE9ZcllNWGwtRTdHaVUtbklRV0hUaGoxTlFn0gFuQVVfeXFMT05JQ0xDTTMtT3gxT0hpbDU4N0RGVXJaeFdxcC10ZnBTVmc5blVkVktFdkhOVW0xS3VMdFM3YWhLbnZ2ZzZpTTdsRXViMDBMNl9yaWJsT1lyWU1YbC1FN0dpVS1uSVFXSFRoajFOUWc?oc=5",
+        "headline": "3조 ‘반도체 머니’, 카드 장기채 시장 ’큰손’ 될까",
+        "summary": "",
+        "source": "파이낸셜투데이",
+        "published": "09/11 17:34",
+        "published_ts": 1789115685.0,
+        "tag": "현대카드",
+        "first_seen": 1789121725.044366
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NS1uT2RYNGZkZGkzaVFlTk5iUjR3NmE3VEJlSTB2WVhjNDFJcGxyODhRRnNFMFNHS1JNbFBqSnprVTlqT2hEYkdzZTg4eTVVVnBrRm8yOVlLTzNiX1czeVluZURkR2tHeHFUd04tZDY?oc=5",
         "headline": "[카드 NOW] 롯데카드·신한카드·삼성카드·KB국민카드",
@@ -2400,20 +2410,10 @@
         "published_ts": 1788937718.0,
         "tag": "현대카드",
         "first_seen": 1788963328.281864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DVVRLYmF1NDdmQUJaNVpJb29wRERaZm9aS2dTa2dma1h1MW9WSFFtTi1fNTNaNGx1NWtzRzdCUVplMFduekZoUGdCczRXT1J6M3NMVVBR?oc=5",
-        "headline": "[은행 Talk Talk] KB금융, BS그룹과 생산적금융 확대 협력 ​外",
-        "summary": "",
-        "source": "DealSite경제TV",
-        "published": "09/09 14:55",
-        "published_ts": 1788933343.0,
-        "tag": "수협은행",
-        "first_seen": 1788934525.880552
       }
     ]
   },
-  "updated_at": "2026-09-11 19:01:02",
+  "updated_at": "2026-09-11 19:15:48",
   "yields": [
     {
       "label": "3년",
