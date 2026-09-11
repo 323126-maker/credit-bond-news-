@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPOVpTN3Mxekt2VEk5Q1h1NVRVTUN5RFlBV2tabU1TbzRFQURuM2Nza3ZkR2QtNEcwZWkyN1FINl80bGhmUTVjb1VDdE5QUERhU1Z4TTJSUjlWaTFLQmtNMHV1aUdURTluVUNVM3pEdVk5dURvS3VyR2RMd25DMGEyX1FJemhYZkpHMU5meVVyT0c0eS0wellfeVQ3alJiNEMxVjlLSllqT3dlSDFB?oc=5",
+        "headline": "PFN: The High Yield Fund Is Now Entering A Different Earnings Regime (NYSE:PFN)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/11 20:28",
+        "published_ts": 1789126086.0,
+        "tag": "Global",
+        "first_seen": 1789127126.6412377
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcERNNDFjX3NGc2F6NmNITktQWDJOa2hQODlIdGZnTnJ0WEZ5by1mZHlzZV9LTzVvY1BSa1YwRUpSZnB2a294V1dNemFzSVZZejBKSEdsYmhEWGF2OEFwVTJ2TURaQVBQYnNWakRDRzdnU0JPZnNqWnUtbU1Oa3ZqS1BTWjl5QjN6MjEwdWNn?oc=5",
         "headline": "Higher Yields, Bigger Debt: Are Bonds Still Worth Holding?",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/11 13:01",
         "published_ts": 1789099308.0,
         "tag": "Global",
-        "first_seen": 1789100127.421585
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0RqczU5WVE3dGl6WkdiZzM4OGFDb2x0VGg3NWQ0VEUzU2VZY2pMWDNsZjdrWjNxT2lNNTUtMUZyMkFzNFNSbUJzd09kbm5rRTNJb3BkRTltZ2pJTGpGV2xvZUZUR24wT2ZLczlpQzRudWlCa1RWU0psc1NCSXRTUEFDeGk?oc=5",
-        "headline": "Why Warsh is starting to bite back",
-        "summary": "",
-        "source": "ft.com",
-        "published": "09/11 13:01",
-        "published_ts": 1789099269.0,
-        "tag": "Fed",
         "first_seen": 1789100127.421585
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 20:31:06",
+  "updated_at": "2026-09-11 20:45:51",
   "yields": [
     {
       "label": "3년",
