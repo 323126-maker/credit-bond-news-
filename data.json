@@ -32,6 +32,16 @@
         "first_seen": 1789117242.0348814
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HV1hkd2dONnNUTE5BZ1M0OGxsUUQteDhaVW5WRUFiVUFmQWdRYkhoaG0xRHI1b3BOWTMySk83cmcyWkg1ZkEydUhvNjhWTS1ja1lBU3N2WFc0TE4tTWNRa0g5aEl0d1lvd0MxRA?oc=5",
+        "headline": "[D-BIZ 암호화폐 뉴스] 인도, 6200억 달러 기업채권 시장 토큰화 착수…도매 디지털 루피로 결제",
+        "summary": "",
+        "source": "데일리비즈온",
+        "published": "09/11 17:15",
+        "published_ts": 1789114510.0,
+        "tag": null,
+        "first_seen": 1789119923.3757489
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8zWDM0alNyS0xHdzQxclV6OW1kSXlnelFTRGtMSG5SQkl6TmVVcFItZUNxYnE2VVhJMGVCYmI5RFhGYzVESVMydFFienVxXzdzZGZqQThfT3paTzRXYVZyc29OWjdqaFBiSGVhQlBwSlVLZw?oc=5",
         "headline": "[채권-마감] 外人 매도에 금리 급등…국고 3년 4%·10년 4.55% 돌파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789029567.0,
         "tag": null,
         "first_seen": 1789029929.4457626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9QTVBmakp6S0tXejEtdTg4N0xOVEpiS0dpUE5vSjk1TkRScHZpczVjQVVwcjZWS2c1SkFwLUs5TTZjbnIwMXgxbWhfUjFDX2s?oc=5",
-        "headline": "치솟는 시장금리...회사채 시장은 '불황형 흥행'",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/10 17:26",
-        "published_ts": 1789028802.0,
-        "tag": null,
-        "first_seen": 1789029036.5509086
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCNk82bWpadFl4TGlpZnJOWXd4c1hWSVhCbFozMkd3b2Q3S0NrLVNvQ0pIN25UbExuYkF6ZXBKQ2xZdDAteFkzbW1qNDk4VExWVGJxMVRZTlNpdXZYb0lVRjFCMjlJQ1JyTS1ncXZYZzQ0dmZXUXc?oc=5",
+        "headline": "Long-Term Yields Return to 3% Range After About a Week as U.S. Inflation Concerns Spill Over",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/11 18:35",
+        "published_ts": 1789119300.0,
+        "tag": "JGB",
+        "first_seen": 1789119923.3757489
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVG5KVkRCazBXUGtSV1Z4cVZhdy00dGx6eFRCR1dycFFvWlhMTEwxd3pWX3FFRmo1TmhyU0RTa2pFY1o5UUM1NHVSTVY4RFNjUUo2V2xlY2doZW9KN3RJVnN6eWJuM0dzUTZfYVU5LUVwbklQUzVlYlpCam1nRzhUNmFzNzhLNFhFejNhbm5FTlJSX2RJVzZnMlk1Y1hMcXlXYk5rd2Y1NXpTX3lhb2JHSGc4R0RpYk12bHBMTU1CNXAydE9pd3pJ?oc=5",
+        "headline": "John Hancock Multimanager 2020 Lifetime Portfolio Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/11 18:30",
+        "published_ts": 1789119000.0,
+        "tag": "Global",
+        "first_seen": 1789119923.3757489
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ITmdxVmRZUXhiR3FfWDIzOUFYN1c5T01WUlhRVDZrOVNZWXpuWU1iRy0zNlNOejBWenJqY1hkQlJkX1l0YkU4bG1IT0VPaEY1SlE1ZlpwLWdlZzZ5UWRlUWpMXzNGaWx0OEVkbE9ocC1EQkFNZWtnRjBlZXROUTg?oc=5",
+        "headline": "Bitcoin Selloff Risk Returns as US PPI Hits 5.4% and Rate Hike Odds Near 60%",
+        "summary": "",
+        "source": "CCN.com",
+        "published": "09/11 18:23",
+        "published_ts": 1789118615.0,
+        "tag": "Strategist",
+        "first_seen": 1789119923.3757489
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvV3JnSXR6REtidWpaX2RHMXZqbFAzazRPZzNBZnZwZ29yTHpuLVNXSURrd0E3STZ1aUtJZkxxaFNxcmtRZmk2cFdSMkROa0VYVlE?oc=5",
         "headline": "다음주 美·日 금리 빅위크…“동결땐 ‘신뢰 위기’ 파장 올 수도”",
         "summary": "",
@@ -1618,6 +1648,26 @@
         "published_ts": 1789116520.0,
         "tag": "JGB",
         "first_seen": 1789118124.3084705
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYmx2bmVOMUh0VThtRUZvZkNzZnAxaVNrM2piN2lwbmlBM0x1SVRtdEctazlsV0hFLWthcFF2TDlPSmpSbVk2NE44aW1aaUExaGVzVDIySDJZbXhYV1k1dGo1eEM0d2hlR1JMNWhrV0dMZk1pOGQyTVAySFRTODZlUXRDRjRYM21Bd2h2Y3dUekVHamF2LTVnTnUtWS1zQQ?oc=5",
+        "headline": "Few Places to Hide as Bond Selloffs Continue",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "09/11 17:30",
+        "published_ts": 1789115442.0,
+        "tag": "Global",
+        "first_seen": 1789119923.3757489
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xZ1FVdDRxU2lmNWhKdWN6dU9zNWFPek81YVRSSHlneFVPTU9XdGg0NzliVGFfNmt1VnBEaHJpQ0R0OWV2ZFVEYWYwYWRzdVRMSEJ4S0ZWNjhzZGJDWUh4X9IBYEFVX3lxTE9xZ1FVdDRxU2lmNWhKdWN6dU9zNWFPek81YVRSSHlneFVPTU9XdGg0NzliVGFfNmt1VnBEaHJpQ0R0OWV2ZFVEYWYwYWRzdVRMSEJ4S0ZWNjhzZGJDWUh4Xw?oc=5",
+        "headline": "전쟁 장기화에 불안한 시장…코스피 내리고, 금리·환율 상승(종합2보)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/11 17:23",
+        "published_ts": 1789115004.0,
+        "tag": "JGB",
+        "first_seen": 1789119923.3757489
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvLWNwZUZ1MU1nMXpDbXVCaFhDc0ZfRExyYS1JVmprMHQ5Vmo1NEJmY05YS1dJajZpYlQ3aXJSU2R2d3I5T05zNTZhVlRPRnhtTHlDVWtwNVZnSTlSVmVPem00cDVkZDAwUXVlVFZMU29BZw?oc=5",
@@ -1648,6 +1698,16 @@
         "published_ts": 1789114311.0,
         "tag": "Fed",
         "first_seen": 1789114524.8457146
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOb1J0OWNzdTZSLThZdEVkM1p5TlVuaVlidzh5c2ZWS1VwMm9McFJ3LU5JckJTclpPcjg5YlNyNURfdjM1d2xmZ29saUdUV1hodk5rak1QVGVrbW96Tjdlakd6eXoyb2h1NmJsWHhMVGtiYTloR2dnbW5FemVWTkZGU2RfcXJBLXBUUjhhSUdwdHJwSkdSR3dwX1JNc3RnTkVab3JMUGtR?oc=5",
+        "headline": "Bond sell-off punches $10b hole in government budgets",
+        "summary": "",
+        "source": "afr.com",
+        "published": "09/11 17:02",
+        "published_ts": 1789113720.0,
+        "tag": "Strategist",
+        "first_seen": 1789119923.3757489
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSmpodUdDS3pHbVNQWTFtamQ0WlVtdUtmZGNoay1FVWg0TDVlbDZhVzNra3hNTHpYYm5WaF9FV2J6UnFCcDl6d1d4UlJuQ095dHNHdGpXOUdiMEg2dHNtV2p2UDRaSWdIXzVKbjBCSmliRlAzdF9ObW96Z2pOLTRweTd4RDNONV81MnJyVldWQUcyNVMwQm9jdGdQZU1pcXlSVXpKd2tkb1VBY3BmZ2c?oc=5",
@@ -1948,66 +2008,6 @@
         "published_ts": 1789093745.0,
         "tag": "JGB",
         "first_seen": 1789095642.6641917
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VQXA5OGJFN2ZGSTlqMDZnYXEtNnloVjk3Z25yZUppak55X3ZXckh1aEZRZkxBV0RzZXd6eW90b2RnWkdWTGk5aHpScWoydzZI?oc=5",
-        "headline": "Global bond sell-off sends 10-year Treasury yields to cusp of 5%",
-        "summary": "",
-        "source": "The Edge Malaysia",
-        "published": "09/11 11:09",
-        "published_ts": 1789092595.0,
-        "tag": "Global",
-        "first_seen": 1789116324.312806
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVBiUWZfMkZVMFZoSjVZMjhlei1FazJQSnd0X042TzJzdUVVS3Exalp6WnI2NzhvckNaLUhmTVhHYjRkQlY2QmxUaHpKNFNzNXUyaXFWOW9GdGNYdVhQQ3pPdXdzSjJwM2lQMzVjUUF3c2lZR0VGNVBwX2JJVGJxZFFLaWNxU0RnNWV1cWZPamFsYXEwVnJBZ3pyUFZaSm1nVHc?oc=5",
-        "headline": "Jeffrey Gundlach: 6 Investing Tips for This 'Dangerous Market'",
-        "summary": "",
-        "source": "ThinkAdvisor",
-        "published": "09/11 11:09",
-        "published_ts": 1789092583.0,
-        "tag": "Strategist",
-        "first_seen": 1789107325.9654202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE14aTRCQWpSd2pNTUdUdTlkQnJ2MUVpUC1hb2ZmVHV1WF9sSjVxRTk5Ykx6VExnRjhKVHk3dHVDMnU4emxHR2UxaXpJTG1talk?oc=5",
-        "headline": "드러켄밀러 \"미국 금리 아직 좀 낮다\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/11 11:04",
-        "published_ts": 1789092240.0,
-        "tag": "Strategist",
-        "first_seen": 1789092925.9906073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYUlLQXI3S2FPMjUwUmtQWFd5ejZCbTItcFkybjFJQVI5VkZ5ZmhNUVNBeDlFMzctNjNpNFlISk1EbW1UWGxFWnE5TE93OTdKZ1hkemcybUgySXhFVXBYTGFCbEtlX2JRNzA2VXZOUDN2TTlMNzdKd2JqenlfVUE5b0xEeGZSb1liWHB0ZmlsRGtmMmtnbFcybGF5S3pqTmwyZjdOTGdVSGpmVVB2MzNIRTNObWc?oc=5",
-        "headline": "Invesco Rochester Limited Term New York Municipal Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/11 11:00",
-        "published_ts": 1789092000.0,
-        "tag": "Global",
-        "first_seen": 1789092925.9906073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPWFRGRk1Pc1hEUk9PVnpEMXdGbTNBaUxIOUxWWUNfbTNOZXpNMUVrSjZYZFVRdkVLWWxCYkRTTTJQRy1jdWdMTHZkZ0FjWEhkMUpGU1d6aEgtWURTemJLNTVIMG1wRTUxbXRtYUFFa1N0dWdVSmZhdTdKaURNYVIza2ZwSmZQQzVVRTVNamFDRXk3NDVJVnBXTExhRVhhZ2lNY3NpZU5zLVJYVVRYcE1Mc3hfOV9tWDdJLVhqc1BOWk9rMFNnVlZuQmEzYzhSRklUQzRvVjFOaTEtXzl0THRiYzlkMUpRM3NTV2lV?oc=5",
-        "headline": "Multi-Sector Fixed Income: Flexibility Is Only the Beginning",
-        "summary": "",
-        "source": "Lord Abbett",
-        "published": "09/11 10:52",
-        "published_ts": 1789091570.0,
-        "tag": "Global",
-        "first_seen": 1789104632.438202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWG9PNTg5YVlKN3lXZnZhSGdjZm9WWkU2ZW1QSE1ob0JtcTE4MmN6b1Bmc1ZzQ0ZLN2RSWHUzbVlTTHRLbWxBNTgwcHgxdjNneGxYbkpQVGlkX0N3TGlNT0hXSzlnekNIZWhmVXpIcmNkUlhvamVyWjc3M3Uyc1M0eQ?oc=5",
-        "headline": "TMGM 데일리 마켓 브렉퍼스트: 2026년 9월 11일",
-        "summary": "",
-        "source": "tmgm.com",
-        "published": "09/11 10:51",
-        "published_ts": 1789091469.0,
-        "tag": "JGB",
-        "first_seen": 1789092040.4669008
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 18:30:58",
+  "updated_at": "2026-09-11 18:45:47",
   "yields": [
     {
       "label": "3년",
