@@ -172,6 +172,16 @@
         "first_seen": 1789104632.438202
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DbWFDMkpXUVZOcHlwRjlSTWRSdXJjNWYzcHRIZ3YyZmlXeFB2anpfUXRvMzRYaGxja1RwMkw1dl9VR0d1U05GdElNcW1ZMzgzWU1mbkhMd21DSUtuY0hDc091ZllKNkpZNFV1S1VDZV9ZZ9IBdkFVX3lxTE9EU1l6dWp2UlJlUllsN1hBTGU4bldWanRyblRRbHU1ZEpETXNGNHpTX0ZmbkJtLVVOQjZhWWlsQThRZXloOC1GaExibTA4NzVIQzNsb0VrdkdmTWlPX2d4bzB1TVdTeWtrbVpHdzQ1dEtfd0FJWFE?oc=5",
+        "headline": "선거 이기면 현금 준다는데 채권시장 왜 화났나",
+        "summary": "",
+        "source": "포춘코리아",
+        "published": "09/11 14:00",
+        "published_ts": 1789102800.0,
+        "tag": null,
+        "first_seen": 1789144241.2167287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PUnBBNzdiNzRFYmVybDRkSDdocWVHR21jcTNqSnNha01PdEZ6WTNpT2JGZG40TkJwXzdIRnhMaG1TbWdQXzhIUzRPeFVmcHc0YTVKWUcxNWIzYi1WRF9mRDlKa2hXTlVFNnJnSExXUW4?oc=5",
         "headline": "[美 금리 발작] \"亞 외환·채권시장 회복력 지속 않을 수도\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789042507.0,
         "tag": null,
         "first_seen": 1789043433.070741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05R0F0aFFCZXJ5b3VKNXlNaE55elhLV3UweWhHclZPblV0bVc0bnFhWDNUemtKRkM0ek1lTDBiYU00engxTFJRNTh5TEQyV2o4elZ6dXhHM1BhWmx3TlRBTXRBQmZMMGIxTVVPUm5RV3lLNVVU0gF0QVVfeXFMTTlHQXRoUUJlcnlvdUo1eU1oTnl6WEtXdTB5aEdyVk9uVXRtVzRucWFYM1R6a0pGQzR6TWVMMGJhTTR6eDFMUlE1OHlMRDJXajh6Vnp1eEczUGFabHdOVEFNdEFCZkwwYjFNVU9SblFXeUs1VVQ?oc=5",
-        "headline": "기준금리 두 차례 연속 인상에… 국고채 금리 전구간 상승 마감",
-        "summary": "",
-        "source": "weekly.hankooki.com",
-        "published": "09/10 19:36",
-        "published_ts": 1789036574.0,
-        "tag": null,
-        "first_seen": 1789073125.8807871
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 01:15:59",
+  "updated_at": "2026-09-12 01:31:09",
   "yields": [
     {
       "label": "3년",
