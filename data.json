@@ -92,6 +92,16 @@
         "first_seen": 1789089326.551173
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUlFhVFBpWldYTUt1a0tHSnpLaEt5dVlFTHQ2NHNTc0xHbF9iR0VTOXE2bERDdWF3dkFGblhiekNxaVpBWmdHWU05a0Jhc2NlUFZyZWRBbTJnaWxHdEE3b2U0ZlR1YllyRmJodi1icHlkRzREci1zNnRyTXhaUHpRY1hjZlRlYll6Sno0SUJva3FuZHphSklGVjJNaEtsdGc2NDdnR0JrUGVqelNGRFNJUE1NZF9OcUxNbm8wWXRWMkhsVkpMZFRhWXdkRVFFV1drQlBqcV96N29YS2ktV2poVWJ2bE1odWg5WFpJY2pfamV2bVdteDJFc2RwYw?oc=5",
+        "headline": "정지 화면만으로 파악할 수 있는 천명훈 도박 구성 요소",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/11 09:29",
+        "published_ts": 1789086594.0,
+        "tag": null,
+        "first_seen": 1789110040.4646957
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1EQkN6RWlia1cxM0hVSld0V1ItTlgyOWJveUVIQl90dE5jU1Y4em9fem9yRFJCTGVfUVMxLVpKeWVkWkpkME1mQlJhQ3BxZ2gwNEhjejh6UDRLRHdTb1BuWU1sX3JEN0dPSlpn?oc=5",
         "headline": "레고랜드發 ‘일시납 저축보험’ 5년만기 도래…생보사 유동성 촉각",
         "summary": "",
@@ -170,6 +180,16 @@
         "published_ts": 1789073473.0,
         "tag": null,
         "first_seen": 1789077642.173237
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZVnN1R29UZWJnaHFkbzhVLXkzaVFBTjhlZWQ4RktQcUtIZjlVTnhLc0NQazRnaXJYXzgtamFGZ2JOemtyWmhJYVNEbUQ3RGQzOFU1V1JWZVVZRElRdFE1VWdwZ2RRZ9IBZkFVX3lxTFBZVnN1R29UZWJnaHFkbzhVLXkzaVFBTjhlZWQ4RktQcUtIZjlVTnhLc0NQazRnaXJYXzgtamFGZ2JOemtyWmhJYVNEbUQ3RGQzOFU1V1JWZVVZRElRdFE1VWdwZ2RRZw?oc=5",
+        "headline": "비자 온체인 금융 25억달러 처리…대출 잔액은 아니다",
+        "summary": "",
+        "source": "tokenpost.kr",
+        "published": "09/11 05:07",
+        "published_ts": 1789070843.0,
+        "tag": null,
+        "first_seen": 1789110040.4646957
       },
       {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1aEowWExDUWcxbjJ4bHNvR1doS0c4UHdVRWswTzRiNDVWdkxSc29Ra29KbkJ1aVd3VGtsRU83dHktZnFQU2dVQ3N0UHJvNWJQT1Y2SWpHaVcwcGVHbzhXbkQ5eDF3MjhySVlPamk3VXIyeEVLM29F?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789025046.0,
         "tag": null,
         "first_seen": 1789055124.907772
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBRY0lLV0VFZk1SMnRKU2lkeDdPS3VTdHFad0U5VkJiM0FRU1kxM0lvNHZaVXhOZVdURURXZXNYWkdiV3ZPMEJ6R1pIeXZ2elU?oc=5",
-        "headline": "\"AI 반도체 꺾이는 신호, 채권시장에 먼저 온다\" [fn마켓워치]",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/10 16:13",
-        "published_ts": 1789024380.0,
-        "tag": null,
-        "first_seen": 1789025432.5144353
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9wQ2JZZ2FTb1NHYnBrWEN0Y1BmU0liWEFCbVBFWldKY0pQbkVSelV3c0w2dEtBV09fLXZ6RWsyOHp1c3RGbndXQUVCWHlZcVZacWRrQm9JckVzdUFDazM5TWdB?oc=5",
-        "headline": "한은 두차례 기준금리 인상에 얼어붙은 채권시장",
-        "summary": "",
-        "source": "매일신문",
-        "published": "09/10 16:02",
-        "published_ts": 1789023773.0,
-        "tag": null,
-        "first_seen": 1789024524.3951657
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 15:45:54",
+  "updated_at": "2026-09-11 16:01:06",
   "yields": [
     {
       "label": "3년",
