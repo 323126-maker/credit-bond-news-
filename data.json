@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNmlhQzlDUE1IOGNVekVMWDZIQTJTY0V4M2ViSjNMZnp0LXRRS2JSeDZpX3c0dU9JNE1ROWJ2WHZsRHN0Vk9QMlVrN1lvR2UyaGY0eWZGcmpRdlFtZS1QZWdjbk5pX3M1S0s0S1NuQWkyWDhibWhQZmlaZWZ2SGdrUXg0N18?oc=5",
+        "headline": "Scott Bessent fails to break ‘fever’ in US bond market",
+        "summary": "",
+        "source": "ft.com",
+        "published": "09/11 13:01",
+        "published_ts": 1789099308.0,
+        "tag": "Global",
+        "first_seen": 1789100127.421585
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU0RqczU5WVE3dGl6WkdiZzM4OGFDb2x0VGg3NWQ0VEUzU2VZY2pMWDNsZjdrWjNxT2lNNTUtMUZyMkFzNFNSbUJzd09kbm5rRTNJb3BkRTltZ2pJTGpGV2xvZUZUR24wT2ZLczlpQzRudWlCa1RWU0psc1NCSXRTUEFDeGk?oc=5",
+        "headline": "Why Warsh is starting to bite back",
+        "summary": "",
+        "source": "ft.com",
+        "published": "09/11 13:01",
+        "published_ts": 1789099269.0,
+        "tag": "Fed",
+        "first_seen": 1789100127.421585
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVzJrV2dGOWdkNjVXRlF5NFdfaUFRVEk0SHg2RDNyVm0wX2FMLXYyV2drczZzUDhSbVVoa1dyc0ZnRXpqQm5jOU93b1kwb2xMaTB4VHB4WVhFMFNYNC1neHg1di13eEt4R0U4RkZBcXk5aWF0emRuaUY3ODlsZHU5ZA?oc=5",
         "headline": "美 10년물 5% 눈앞인데…드러켄밀러 “그래도 금리 낮다”",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "09/11 02:37",
         "published_ts": 1789061820.0,
         "tag": "Fed",
-        "first_seen": 1789063241.330302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeGt0X05iREc2X2ZLMUdWTExRVmxfV1FVdlpvR1dDU25LSF82djRwblUzbzNNdkd4TjZJUUY1WVJxZU04cmZ1WVctOHNxT3Jnc1VtRmtqcXVtc3ZET1oxc0c3WFZBXy1qY215emkwV0xKNkR1NGFkYV85Rlg4cVVTdmN5Qks5QWVJRmU0UUxxODFjbEVpWWFYMG5yb9IBoAFBVV95cUxPNzlaVFdoWTlIRnZ5QTN1WHBGdks5RWVzSVJZMG1vOUp3OElNSWd4aHlIRGlXRTdPNURHdkdJMWdReC1FVkFzenZLRlBsQTBPLUVJSGd4VGdMeGlkbzBJcUJ2cGNfV1YxTXNoSGFjanBGckk5RG9USFdab2lHY21DbXZ6N3M2Vk00M2ZKYlcxQS15MnQtOEIyeGZFRjhmQW9a?oc=5",
-        "headline": "Mortgage rates climb: Average rate on a 30-year home loan hits the highest level in over 14 months",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "09/11 02:31",
-        "published_ts": 1789061507.0,
-        "tag": "Fed",
-        "first_seen": 1789062019.2295165
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeEswSS10cnJ0amFpWkFNVWNnV2t2NE9lRGE3TFpHSVRBdnd2NVpLM1lYOWpKaDB1TFktcGFxNmU0VzNCcWJfNmhZZlA0N2RFdnZTb1pWZUZjNnUxNXIwZHM4X05HMGFRSUtqY1NkbHdVNl9haGlOMEJtbUVoZ2NoZk02X29uRTdnR3VFZTAwZkNhSGxZeHEwMnhqU2NoQWZNc3NNMFFhZ1gwTzNjNUhkRUtBSkNTXzRxLUpTMVEyNVdhTFVOY0NxWDBn?oc=5",
-        "headline": "Canada 10-year yield jumps as oil surge, inflation fears drive bond selloff",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "09/11 02:30",
-        "published_ts": 1789061421.0,
-        "tag": "Global",
         "first_seen": 1789063241.330302
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 13:01:09",
+  "updated_at": "2026-09-11 13:15:53",
   "yields": [
     {
       "label": "3년",
