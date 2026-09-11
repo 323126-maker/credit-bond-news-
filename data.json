@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhS1FNREZmNjFoZFltOExDdDZmVUhZRGpPMkFZVlA5TzU4TTRzdGwtbFF2cGZxVTlqMWpPMTgwR1lkdDdiY25JdUFhVnlOT0hrOUk1NEhnallhaXBqb3VEM2I2QXdPQQ?oc=5",
+        "headline": "국고채 3년물 4% 돌파…유가·美금리 급등에 채권시장 '긴장'",
+        "summary": "",
+        "source": "프라임경제",
+        "published": "09/11 14:54",
+        "published_ts": 1789106057.0,
+        "tag": null,
+        "first_seen": 1789106438.632894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB4aWFzeGdMVDJDbUprN1k4a2tfMmdVTml2em56M0lKcGUtVHF2RnBYM2RPQ3ZncWZGLWxfNzF5V29xWTBlVWpTNUlQN3piU0Z0YTZQbngtbnAtSkV2ckln?oc=5",
         "headline": "환율 200원 떨어졌는데…한은 발목 잡는 '유가 변수’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788818400.0,
         "tag": null,
         "first_seen": 1788823831.0824423
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBhblp3U05kOFJTelVGdTRydjl1NGRpTjZ6SnFKWk1CbmpIUkI0a3lqTEdjYWp3M0N3U2pRSlBHZzlyODA2WGtYRmtPV3FUTENsUWVFWl9DSENUNEdBbkJsVUxwZ2tEc2diSVljZFp3ak9GRl9VZkhv?oc=5",
-        "headline": "홀덤 룰 학생를 위한 글쓰기 기술 심층 분석",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/08 06:36",
-        "published_ts": 1788817003.0,
-        "tag": null,
-        "first_seen": 1788843125.7665348
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZW00YmlHZ0p3ZmVZN2tLRE96dUdxaUZhQmNCeW91Z2FVclFKMmZxNDBPV1ZDV1NEdnZINlpSYmVSVjRocWx4THE4YUFRSmZnS1c2Y2tjMW05ejNjdW00MkFHNGM1b0V6R2ZjeWtxRkYwQ0RqYnlET1Atc1BEWC1wODJEUlJuLWhWZk9lQjhpYU93NjEzTVhqZWJPMGc2Y0FsbERkTmNUenJmV3ctM3ZFYno3cFQ3YlNmNmhIV3VLS0pOV2xDX29z?oc=5",
+        "headline": "Global bond selloff pushes 10-year US yield toward 5% on oil, rate-hike fears",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "09/11 14:52",
+        "published_ts": 1789105942.0,
+        "tag": "Global",
+        "first_seen": 1789106438.632894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNamQ1QWJZRUxpMVhHaTJDeF9xZjRhVndKZ1BCZExyZXMtQmgzWWdZSnhYTDRpOXk1LVAtQk0tUDBmR3lHYk1pWV9KMUtCT1VPb2h2NVhsRmQ0N3YwTUk3VkFrcVBNc1U0a2VVdmVKTlB2bzhoV2ZJTFB5T3BxVjJkcVg1OUNSbmNqTFdETmg0YkNiVE5hN3p6MGkwaGJnU1JfN2N3azN0a3JMcEhvYkU4Tjc3M3JnVkxjSHhZc05lWHQ5ejVlUXBxY2VBbjRGUnc?oc=5",
         "headline": "India starts tokenizing $620 billion corporate bond market with digital rupee settlement",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789071414.0,
         "tag": "Fed",
         "first_seen": 1789077642.173237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaVBiUWZfMkZVMFZoSjVZMjhlei1FazJQSnd0X042TzJzdUVVS3Exalp6WnI2NzhvckNaLUhmTVhHYjRkQlY2QmxUaHpKNFNzNXUyaXFWOW9GdGNYdVhQQ3pPdXdzSjJwM2lQMzVjUUF3c2lZR0VGNVBwX2JJVGJxZFFLaWNxU0RnNWV1cWZPamFsYXEwVnJBZ3pyUFZaSm1nVHc?oc=5",
-        "headline": "Jeffrey Gundlach: 6 Investing Tips for This 'Dangerous Market'",
-        "summary": "",
-        "source": "thinkadvisor.com",
-        "published": "09/11 05:13",
-        "published_ts": 1789071229.0,
-        "tag": "Strategist",
-        "first_seen": 1789072237.2557392
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 14:45:48",
+  "updated_at": "2026-09-11 15:01:03",
   "yields": [
     {
       "label": "3년",
