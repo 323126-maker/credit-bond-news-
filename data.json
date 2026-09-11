@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE44aE1KbHhPV0xSdmJTX0trREludC1pUUE5b1lMS2ZSd2hOQjltNXVWQTZReV9KTDM2ZmFHcW5wbGlqaTcyMFJtVDlzMEVhVFBOdjNxQjFCTDl5cWJQLWExdVJOaURkT1d0VmFpUE5TbkR3WlB0V0k4?oc=5",
+        "headline": "무디스, 부채 감축 지연에 Flowers Foods 신용등급 하향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/12 06:06",
+        "published_ts": 1789160760.0,
+        "tag": null,
+        "first_seen": 1789162232.4299624
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aU0JTOV92TXFjWjVaa1FENmNPWS1abno3S3F4a1hmeExxbmc3cHNGcTBoTjVZeld0a1JWM01JZjkyRjJPVkdQTjRsdEs4RThVZGU2MnFxM3pBazI4dTVvc1E3RXRNMWRHc0J6OUQwR09Va0NvVDFJ?oc=5",
+        "headline": "피치, 카이트 리얼티 등급 상향 조정... 레버리지 전망 개선",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/12 06:01",
+        "published_ts": 1789160460.0,
+        "tag": null,
+        "first_seen": 1789162232.4299624
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxNmxnMUhyZzVNTXRWcFlqLWtCc0lhQ3dUZGFOanB0bk5oS3dJTi13ZHdjWWlMdm5xb1BQYTZ2U1I3RVFmNWRwbDlVdzM2aHVTRWs2eEk2LXZBLVN3UnZIQ0NmNTRGWVnSAWxBVV95cUxPTXVabVpjUWNNemRrcV8ybnk1Z1BscmEwMlVFZElVLTVKTVMzQmVLWFcwazdZVWpTbTRObDROdVA5bHlEN2NhZmZuY1UycVBYUUxXM2dpMkNVaTB6LXhQMF9CV2FRQWFfaloyVko?oc=5",
         "headline": "[AI+]'적자' OpenAI·앤트로픽, 신용등급 경쟁 벌이는 이유는",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789073794.0,
         "tag": null,
         "first_seen": 1789099238.997568
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMQnZtQ2hiVmpGdlUydnlSam54X21tcGw2NWxKT2hIUXlWWmxtdlVSQ2I2Q1FwaUc3RlkyX195VmttLTZTc1QwLUxNRzVaUkRkOFE1X0NGSTVNZG9IQlcxVUpNR2xXWlROOVByM3BjZ0c2RmU3RkREZVA1d9IBe0FVX3lxTFBMQnZtQ2hiVmpGdlUydnlSam54X21tcGw2NWxKT2hIUXlWWmxtdlVSQ2I2Q1FwaUc3RlkyX195VmttLTZTc1QwLUxNRzVaUkRkOFE1X0NGSTVNZG9IQlcxVUpNR2xXWlROOVByM3BjZ0c2RmU3RkREZVA1dw?oc=5",
-        "headline": "유가·물가·금리 '트리플 악재'…증시 나흘째 털썩[뉴욕마감] - 머니투데이",
-        "summary": "",
-        "source": "mt.co.kr",
-        "published": "09/11 05:51",
-        "published_ts": 1789073473.0,
-        "tag": null,
-        "first_seen": 1789077642.173237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBZVnN1R29UZWJnaHFkbzhVLXkzaVFBTjhlZWQ4RktQcUtIZjlVTnhLc0NQazRnaXJYXzgtamFGZ2JOemtyWmhJYVNEbUQ3RGQzOFU1V1JWZVVZRElRdFE1VWdwZ2RRZ9IBZkFVX3lxTFBZVnN1R29UZWJnaHFkbzhVLXkzaVFBTjhlZWQ4RktQcUtIZjlVTnhLc0NQazRnaXJYXzgtamFGZ2JOemtyWmhJYVNEbUQ3RGQzOFU1V1JWZVVZRElRdFE1VWdwZ2RRZw?oc=5",
-        "headline": "비자 온체인 금융 25억달러 처리…대출 잔액은 아니다",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "09/11 05:07",
-        "published_ts": 1789070843.0,
-        "tag": null,
-        "first_seen": 1789110040.4646957
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 06:15:53",
+  "updated_at": "2026-09-12 06:31:06",
   "yields": [
     {
       "label": "3년",
