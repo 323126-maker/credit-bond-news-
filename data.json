@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTTFnQ05TSnJib1UwbzFfZ0VqSWFyV1pYcVFFTXZ0bHR4MHJEMnljNTY0VC1NeHpWNlNGX0V2N1ZEVHR3bVlxVENuNC1fMUxkUHhFQWE0Z1ZHZw?oc=5",
+        "headline": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/11 08:44",
+        "published_ts": 1789083882.0,
+        "tag": null,
+        "first_seen": 1789084843.556302
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1CUXdRZlFaYkRtcWI4UDFvcXRhN2JRbUZKWnFXUE11WGlnZGZLaWU0aUktUHpidFh2UEpMRU1mWndHQ0R3M2NXVWpHUkp2NTFqX1c2M2RCOGEtVDhobUtua21CaUNGek04?oc=5",
         "headline": "키움증권, '파트너 의존→상위사 경쟁' IB 전략 변경 배경은",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789017305.0,
         "tag": null,
         "first_seen": 1789057831.6999953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ubWV6d2FESjlSRFptVkZoMEtMWU9nRWIxZ0d0T3lod2lCLVg0ajNabFBHRGlNUW9OUjBuaDRLeGNMUmhYNmFXOEFQdWRZM19iRVR4LUp5UWdIOVXSAWBBVV95cUxOd1ZQd2U0ZUJUUG92NHhnTER2VmdjQzNTVk1Xa09fR1FQTmN2NEtqQ1hTVHZfR25kSGU3N2hCcDkzM29lYWIxcmxPRXNwcEtvLXR2VTdrd1ROZVR0cDFyWEg?oc=5",
-        "headline": "피치 \"韓 4대 시중은행 자산건전성 견조…은행업 전망 중립적\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/10 14:07",
-        "published_ts": 1789016825.0,
-        "tag": null,
-        "first_seen": 1789018231.4547167
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 08:46:14",
+  "updated_at": "2026-09-11 09:01:07",
   "yields": [
     {
       "label": "3년",
