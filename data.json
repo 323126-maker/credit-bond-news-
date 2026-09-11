@@ -1870,6 +1870,16 @@
         "first_seen": 1789110924.9736269
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN2R0TTZtbEhKWkdFWkt5VkFBSXpYWm0xTmF5WDVOY005SnRwZWV1MDlCd2hreFY5VmNyLTZIQWJmbFRxY2J0UXVvaC1mRTYwVFVkenFBNEFicWNxRE00R2ZiNEpTXzRtSmlFa2VqQm1yZHA2VTZxdzI4bTZNUHNDVlRTVXZSTHVBXzNoVFNzcWNMU09tU0p1QmVEdmxJVkZzamxUaFRXc3pFaGhHZlE?oc=5",
+        "headline": "Mortgage rates climb: Average rate on a 30-year home loan hits the highest level in over 14 months",
+        "summary": "",
+        "source": "Jacksonville Journal-Courier",
+        "published": "09/11 14:08",
+        "published_ts": 1789103320.0,
+        "tag": "Fed",
+        "first_seen": 1789124438.9304228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY2VObzdQU21FY1oyUWtQV084b3pfQTZrNGI3VEROYkJTYjFIOHVMbmp0YkZiYjdMSEpZZWNUNU1YZ0szVkNpMm1vMG5xbHFabGYxM3gySTcyQkhZVllyaE5qSzlzd3hiNkFZLVoxMDlycDl6aUVnczBkYmlhcm5raGwzbzMyeHgxcmYyS2NlNDFlWEFWZ1FMUjR6X3o0RnUzckg5Wmk4TFlHdTd4Wk5MQ0d1Y3JTMG9PQUHSAb8BQVVfeXFMTjJzRVlCTUhaLV81a0tCb2hpSC1IZUlwSEFyTEZ0TEFRQ0hyakxtN2VEWXVxQlUwTFU3a21qQ0xRWURHX21HUG90QWxPdnVyekxqblFkVVZSS1ZyUzU4NW92bGNMNTROVjlYc09VVlVtdVR6MFhzeDBiN201TzBXRFYwVkhUM25VaFFtbmNxak9EU0hpV1JtazdUOVRScFFTeDdXOFVfdFJsQXBsby1faWozNUFVN3U5R0ZCaXltUGM?oc=5",
         "headline": "Bond Markets Brace for Impact Amid Inflation and Global Tensions",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/11 12:23",
         "published_ts": 1789097039.0,
         "tag": "Global",
-        "first_seen": 1789097432.434173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4a1dnU2pXM2FyYTI0UlFCNXFhc2hzMjZLcEpqRG4xbW51N0NVa0Zjb2FLX0tsWm1fZWU1bDFJRF9NeDhUVURNOE0yQ2pnNUx1U3U1ODRFcTRwb0RN?oc=5",
-        "headline": "일본이 전 세계를 「수렁에 빠뜨리고 있다」",
-        "summary": "",
-        "source": "深潮TechFlow",
-        "published": "09/11 12:23",
-        "published_ts": 1789096989.0,
-        "tag": "JGB",
         "first_seen": 1789097432.434173
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-11 19:45:59",
+  "updated_at": "2026-09-11 20:01:03",
   "yields": [
     {
       "label": "3년",
