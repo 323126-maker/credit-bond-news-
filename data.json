@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzF3NUFtM1o4SnJsaVRYazlwdHplbGMzLXl1T3l3dUpNWk5BTGVuTGFWN0VTT1A3UU5QbVdOb1VzT18yNjh0TFY0azJTYk8xSjN0UjcxYm1mVk14dDBjc2djckJaZ2cwWV92YnN5SEplSFpsME9KeC1WWFYycENHd0pBU3VoQVluTmYtMXJuYm5rZG5uUTRKQ0s1b2hQckZQVnNxTVEyejBNUjJMaHM1Vkt0clRLVEpPSHc?oc=5",
+        "headline": "Fed Chair Kevin Warsh under presssure to hike rates as inflation fails to cool: ‘Time to put up or shut up’",
+        "summary": "",
+        "source": "New York Post",
+        "published": "09/12 02:38",
+        "published_ts": 1789148280.0,
+        "tag": "Fed",
+        "first_seen": 1789148727.31012
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc?oc=5",
+        "headline": "Wall Street thought the hiking cycle was over. Now Kevin Warsh has his ‘back against the wall’",
+        "summary": "",
+        "source": "Fortune",
+        "published": "09/12 02:14",
+        "published_ts": 1789146840.0,
+        "tag": "Fed",
+        "first_seen": 1789148727.31012
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWhLN2xSUWNTZUZPNVdsRmFiSGJPVUFiMElSTWF2dllGX1F1Q1VmNWNmblJKVnkzWWtkSHV3bG9ma2VZeHBlMFNVWFdrLWlLNGo5ano1XzlkTlM4eGFpQUJYRHdHclVYOERoUVFCZENlMmFCYUVqMHRTWUFMOExULXBQdjVGdllxd3g4MmZ3Ukd5SWR4QWxGanpHcXFOdw?oc=5",
         "headline": "U.S. Treasury Yields News: Buybacks Fail as Rates Push Higher",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789124121.0,
         "tag": "Global",
         "first_seen": 1789126234.76604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4UFlxVFdHVTN2UVVBUVdjMDhId0JlWVE4UkRXVmRkeWk2cTBCXzFCODd6MDlIdF9PNzRNeDg1cUFBMWFnZUF4dms1RE5NbTRCV05UVEhRSG1sOFV2X2Z2aVRjRW9UNmlkMWxXSlRzVlI5dFptbU4weFBjbkxNQQ?oc=5",
-        "headline": "Inching towards a Fed ‘credibility’ hike – Market Outlook",
-        "summary": "",
-        "source": "sc.com",
-        "published": "09/11 19:24",
-        "published_ts": 1789122258.0,
-        "tag": "Global",
-        "first_seen": 1789126234.76604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd3pSSFNIQXZ5QTNSR1RYN1VvNDlPM0hOQ2RXWjNOMGRXTHkzQ21WVzlmNjVJMmxpRmtUeGpQaHZuTEhILWtrVjFqZHJjMENYdGswVlhsS0NLWFVyd1R3d1NpazhwYXJUSVJkNUhlQnN0MTdablR0Y01wVGpZendoNE90TG8ta2h2UHJqU3JJWk45YjU2SkVTdg?oc=5",
-        "headline": "US Debt Trap: A Crisis Without a Calendar",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "09/11 19:12",
-        "published_ts": 1789121520.0,
-        "tag": "Strategist",
-        "first_seen": 1789137071.323175
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 02:33:52",
+  "updated_at": "2026-09-12 02:45:53",
   "yields": [
     {
       "label": "3년",
