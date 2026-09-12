@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHA4UlJKT0FfZm1oajY2VURMaGxhYjFoYThaMDM3aFJHdWJ6Q2dLZ2JqeW9hcVkzUmpUM2FlaW9uQUJ0ZUtfT2hQcTBFUG4yVzE1UjBoVG1LX1dIVldWN2pKaHg5ejNmNXZGZFhHbEh5NFZVcVpqc014UXZmN2taTE9hN29VX0VlVTduY0JRZ3FVaHcxZ1FIc3p2SjllelctTl8zcDNteVduUGpoRGYtamZLSk5ZcURwSDdqWVlCRjJ3U2w1QXNoTE8wYnAzM2J1YkJIZFdLREJKbGRHY2dBVXQ1ZEpJSC1XSFRxMF9Zb0E2VXdm?oc=5",
+        "headline": "Top Economist Says the Fed Should Hike Rates 50 Basis Points Next Week. The Bond Market Is Already Near His Danger Zone.",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/13 00:48",
+        "published_ts": 1789228080.0,
+        "tag": "Fed",
+        "first_seen": 1789228806.8881316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNN3ZNM2FrcmxybFhZd0VWTGw4czhrN0hTNWtjY3Q0RWNzbUs0RE1Dd3Uyc0dtQVVSTkE2dW50RmpZVkNJTVBhT2JHdUlweEpld1JaQmdJa285ckp5OUZzNUZKU3oyUjB4Rm54OWVjY2ZUTVprbjlnSEJyMDdmQnM0WHdKUmwwVEtCcndncUVlWEtMT1dTczlHWmU1S25EY0Vq?oc=5",
         "headline": "Dalio urges investors to shift from bonds to gold amid US debt concerns",
         "summary": "",
@@ -1698,6 +1708,16 @@
         "published_ts": 1789196412.0,
         "tag": "Global",
         "first_seen": 1789197323.063776
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uY1pFVlN3RV9WaHFjSnppQS1TYnoxQlcxYVd3eGNpLUhfNlNSd1hDZGUxbF9iNkNGQ3hVQXFHeEducldOcGd2Zzc5NFgzZ2VLb0F3?oc=5",
+        "headline": "\"금리 인상 끝났다더니…\" 외통수 몰린 워시의 연준",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/12 15:01",
+        "published_ts": 1789192860.0,
+        "tag": "Fed",
+        "first_seen": 1789228806.8881316
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ZcC1aQjhlejAzRks5ZE5mSVhUUnM0N0pSaFZqZ1lZTTFHWmlKUExSekhKZzVEOWRFdjlGSGowODdSLTFpUmhla2xwU0lmVUVBejJ3ZFVaN0tpOEZ4R3JFenNQRklSVFJQUHVORXlhTdIBc0FVX3lxTE5TNUVlMVZfMzBxMmJKZkZxZkxJZDR4engxTTd2dFFiZ2YxRmd4WXlxRHlvMWZ3M2t3NnBBMG5lMk0zeWt0MnNrUnBkSGhILUtCczhSRTU4ZUNsdl9Qd2FYV3MtWUhQMHY3UndvNlV2NkFRZXM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789147861.0,
         "tag": "Strategist",
         "first_seen": 1789173031.6180747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9BQ3dpbUlmQThkUFF1SlZNVWptZHRSaVR6VVNLMkswYVZ6YWdjaThoWGxEQ3JkSi1XS09rVWdBZXhNbjEyX08yMDZlWFVYX2VZOVF0X1pvbnlHandTYkJJS3B2ekFjZUg4RG5mcUtXczRndnc?oc=5",
-        "headline": "Wall Street thought the hiking cycle was over. Now Kevin Warsh has his ‘back against the wall’",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/12 02:14",
-        "published_ts": 1789146840.0,
-        "tag": "Fed",
-        "first_seen": 1789148727.31012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRWhLN2xSUWNTZUZPNVdsRmFiSGJPVUFiMElSTWF2dllGX1F1Q1VmNWNmblJKVnkzWWtkSHV3bG9ma2VZeHBlMFNVWFdrLWlLNGo5ano1XzlkTlM4eGFpQUJYRHdHclVYOERoUVFCZENlMmFCYUVqMHRTWUFMOExULXBQdjVGdllxd3g4MmZ3Ukd5SWR4QWxGanpHcXFOdw?oc=5",
-        "headline": "U.S. Treasury Yields News: Buybacks Fail as Rates Push Higher",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "09/12 01:59",
-        "published_ts": 1789145980.0,
-        "tag": "Fed",
-        "first_seen": 1789147833.7028148
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 00:45:58",
+  "updated_at": "2026-09-13 01:00:30",
   "yields": [
     {
       "label": "3년",
