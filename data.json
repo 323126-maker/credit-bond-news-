@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN2JxUEczdktDdzN2dFhLX29Bd29XRTJUeGlhcUlFN0ZSNFBkZGhQRGdIWDVwcVB2Z1RHMTJ0TDBfSW5BOUV4MmtuNmN1ZzZGT2lYS0t4eGVlSHBUTXBDekJuMmdSZE5zckZiSTFDZG02cmxoMWhiZ1lyMERWZW41R1NzOHA?oc=5",
+        "headline": "European investment in LatAm stocks hits 15-year peak",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/12 13:05",
+        "published_ts": 1789185928.0,
+        "tag": "Global",
+        "first_seen": 1789186522.970373
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVV1N3d4RV9PaHJwSjdHazd3bWFJcjdkcUJHcjRJX0dsdEhIRlRlanBDWVJNT0VsVDV2ZXZ4YVB5a1R4Rmg2MU5reFFNaHoyVXV6Z3pDS3RESm1qVTgtQ0RzSm13RjNNNE9ZdzIzS1l0dWJnc0ctQjlTY0lMekFlRG96RGlpWnplX2c?oc=5",
         "headline": "연준의 금리 인상 기대감이 미국 달러 강세에 기여했다.",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1789184423.0,
         "tag": "Fed",
         "first_seen": 1789185639.435811
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOei0tZkc4X1haaFB1UFo2YnF3R1otNWdCYm9EZWxDdFl6R1p3RXBEeUVfQ0hKUTRZVzUyZThxX2FUaDVBQ2dURm16dy14SmZKWWk4U29kSC1yMVduY2xJS0JYOS1oZlVEWklLQ19ZaF9zbXhuYzhNcmFDSXd3OTEzN0V5MjExaHNDZi1RLWg1YjBheERJYk1HMTExcUR3RndnX19udjYtVmVOcjFGTGVGZ1F5bnctUzJ4YlZJS0hOa3JZeDNTY0ozajJGX0hyQTRMcXkyYU9JMDJsMzlvczRseEdRX1BPSDlfSVFCS0t6VlJzSWUyYnFYYQ?oc=5",
+        "headline": "Fed Chairman Warsh faces pressure to ‘put up or shut up’ after hot CPI report",
+        "summary": "",
+        "source": "The Guam Daily Post",
+        "published": "09/12 12:38",
+        "published_ts": 1789184306.0,
+        "tag": "Fed",
+        "first_seen": 1789186522.970373
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeG0wTWlueTctRlVsOGtxV2dRZkR2ZG5mWlJFa3RPRF94bmhUQWkxZGJxUVpFa2Z6S242SGxQbnpvQUc3SkhuYmcwWFQ1VDRf?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789138260.0,
         "tag": "Fed",
         "first_seen": 1789138839.6870008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRzNzelpydHRRRUp4RVZ3QUJKVU9WUWFXaFZOcXE4MUIzSDRwWFRUb0lYbmFHMHBGdGlGSXhsMEZINDk3Vk5iNHotVjdqWkl3UHFsT3ZOQjJaWDZIQ0hNWWl5TXZFbVVpT1NjWmJIR2VqampOTEZHNmw0dWRuVnNwZFBqdElkQmpfYVdRc29DZVVZUQ?oc=5",
-        "headline": "Fed Chair Tries to Set the Record Straight",
-        "summary": "",
-        "source": "News at IU",
-        "published": "09/11 23:49",
-        "published_ts": 1789138179.0,
-        "tag": "Fed",
-        "first_seen": 1789142440.1648436
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOZUdCUHRjdEdTMkpjY0lVMzZJWml2NDhZNkZfeUQ1aEYtekREcllCNUNjVFFKNWUyTkxjM21Pb2NoaFhTOVFEdGMwTmttZjMxUXY0MW5UNi1idENyYklSbjZDdVRKOW9TU0RpaExjMGZRbTliSF9zNVd2R0xKSWZkam9VLU1pOXRYVDF2T3FjUnNOSHoweTN1LWI1SW5sYTUzMjZrR1hHTWxkREh2Wk5iMmRFaGg2S2dRLXpXSU9zMDB6MTNjMDVfNmNEWVdXUW45ZDZiazRPaURKQTJxQWZsVzlIdlRTa0RpTmVqQm1GNUJfd3owZTcxT0QxZ3JBMFl1dk84?oc=5",
-        "headline": "Stanley Druckenmiller Delivers a Stark Warning Every Social Security Retiree Should Hear",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "09/11 23:35",
-        "published_ts": 1789137327.0,
-        "tag": "Strategist",
-        "first_seen": 1789141526.7718182
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 13:01:06",
+  "updated_at": "2026-09-12 13:15:47",
   "yields": [
     {
       "label": "3년",
