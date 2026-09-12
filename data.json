@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOczQyMnhtaGJ0Y09VUnJ5ZmJ0WjdqbkgzeTJyWlhGMlNLcm11SF8wOXBTSzV4Tm93bHk1aVluR1o4MjlkTzBaTFhITXR5dmVHSzZRbTVkTjNDYWN5VHdTOXJnWU5IQ2FpcXZfcWswcGMzRzE0QV9SMlZ5eTdFS05TS2ZCVjhCZTJScGR0dzluVVpJWUVOSVE?oc=5",
+        "headline": "Japan's 10-year gov't bond yield up again",
+        "summary": "",
+        "source": "bastillepost.com",
+        "published": "09/12 19:22",
+        "published_ts": 1789208520.0,
+        "tag": "JGB",
+        "first_seen": 1789210839.003904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaEZiQ3NsRm8tZC13SmJYc3ZENnh1VTd5cXZUdDlxMTl3QWlIdGl5cndsUjluUVVkSFBoLUJzUmxYZWRicy00TXJoZDN4S1Y0ckRkRXMyRnRxNlo4V0I1SzFDcEVjdjhPUVNNUkllRlMza05pUVFUbjNsX0NVUDJnNXZaZnkwNXFTNl9Iekk5UzZCQ1hPQXAxdzVHaG1FdGc5REpfOU84SXVDWGNSdlE?oc=5",
         "headline": "How to Read Monetary Policy When the Fed Stops Talking",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789141866.0,
         "tag": "Global",
         "first_seen": 1789146927.0742826
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT2FWUnZ2OXJzNkR6VEpTYXhoMDZ2Mm1VYkZ3N1NCT051SHk2S1FxbnNIcGtBam1pNGN5M2lCazQwMFV5UHBNQUVERTVyTHd5VmFHaXBmRWdRVG9IY0gzWWNkT1Q5cXl3VUw2eVFkeVc2ZVA2R1JTcnA0NE5BU1BjUWI2dTVTMXQ0cURjTGw0N0t3cERhdnNfMHlvbW80MGZ5aVhRRWFZX3Fadw?oc=5",
-        "headline": "Week Ahead for FX, Bonds: All Eyes on Fed Rate Decision",
-        "summary": "",
-        "source": "WSJ",
-        "published": "09/12 00:49",
-        "published_ts": 1789141740.0,
-        "tag": "Fed",
-        "first_seen": 1789169437.5391674
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 19:45:45",
+  "updated_at": "2026-09-12 20:01:02",
   "yields": [
     {
       "label": "3년",
