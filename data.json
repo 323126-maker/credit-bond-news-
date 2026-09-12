@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lLTZJS093dnQ4OWxzMlJiR0lNMGVrdFFOLXJRU2FoRkp1akZwMHJJZER1RTIxQi12MHd3dW9GYjEtWHhVbkx1XzdoQnJuREk?oc=5",
+        "headline": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/13 06:36",
+        "published_ts": 1789248960.0,
+        "tag": null,
+        "first_seen": 1789250439.1401396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UWk0V2dTVkR3UTNOT1FidGNyQUl1ZFpsZlNpZWNZNU56VDg2Y3RBMlNlWUtsNTJxM0ZjQ29rcDZsMkgxVlY1cVlfckg0MHBQY0JhcUVoVk9TSUFCU0xiMQ?oc=5",
         "headline": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788829200.0,
         "tag": null,
         "first_seen": 1788831028.487279
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02ZnVvQXA2SlpkMzZScllwSGVDQTh5RFVrSjEyWDRqazdwdC1od1VrZUNmRkx2OGhCV2hNOW1oeFZSdkNuY1E1M1FoUFNwdVctcUpadFRENnFRM1FsTW5KNU1WLVNnb2s5N19CRjdySXI?oc=5",
-        "headline": "[노현우의 채권분석] 호미 크기 고민…반가운 우군 논리도",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/08 09:57",
-        "published_ts": 1788829041.0,
-        "tag": null,
-        "first_seen": 1788830125.9223413
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 06:45:48",
+  "updated_at": "2026-09-13 07:01:05",
   "yields": [
     {
       "label": "3년",
