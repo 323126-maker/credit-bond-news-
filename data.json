@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNUZ6VkNzRVpKOWVpcmxfMWpXclp3VVFsNlRxbmVUQkZIMHRaNUZMMFZVQTVZbTlwb0dCLWhNOE1GNWNCV1Jha3AzRlpjWWJuMFl0bHpJS2hpN0IzcGFwclA0eXFsclBlR3J2YXg1czhKZUNJQUpST1FDR0ZXSFRoM0NEd2pta1lncDdxdG4wRnZxVVdvQ01WZWpXSHplV1RXUTczYXk0N1Foc3hBMW9MZ3RSYld1ZVhHTWNkMm1oOVFWM3NGa1F0STIwR3JNOVgxdEE1bUg1SFVzREpKU2Vj?oc=5",
+        "headline": "U.S. 10-Year Treasury Yields Hold Near Multiyear Highs As August CPI Data Fuels Fed Rate Hike Bets",
+        "summary": "",
+        "source": "foreignpolicyjournal.com",
+        "published": "09/12 22:57",
+        "published_ts": 1789221420.0,
+        "tag": "Fed",
+        "first_seen": 1789222523.2628124
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcW1jbEIxLVhQdW5TN1pJRFFrOFZjclQzbks1dGtkQTI2TmktZUJpaVpKdTgwc1ZNTmVIVXU0czg1Zm5JY3BuQ0VFWUtZODhMSDluOFYzcXluanYxZ0ZOTGNzUF9CM3ZUdWkySk5Xb3JDMFozdThnTXdBQ1R1X25FZ25WVUVPOVJr?oc=5",
         "headline": "[김대호 인물] 우에다 가즈오(植田和男) \"엔캐리청산\" 일본은행 폭탄의 방아쇠",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789145915.0,
         "tag": "Global",
         "first_seen": 1789146927.0742826
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1WaHQyZXdzQUExTXRsT29Nend4d2lQMUY1ZDJjc2VVTU9iR3ZqNTBQa09PazVJazlJRkw3X2xEajRnMUlsOC0zSlE0UEtMOFBJMmV6OHRaNGxhOUNqQkUwUmpwLXpoQQ?oc=5",
-        "headline": "무료 체험 종료 조건을 확인하는 토큰 입금",
-        "summary": "",
-        "source": "actt.org.tt",
-        "published": "09/12 01:40",
-        "published_ts": 1789144857.0,
-        "tag": "JGB",
-        "first_seen": 1789177522.9172277
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 23:01:06",
+  "updated_at": "2026-09-12 23:15:47",
   "yields": [
     {
       "label": "3년",
