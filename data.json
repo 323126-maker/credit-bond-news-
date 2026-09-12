@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcVV1N3d4RV9PaHJwSjdHazd3bWFJcjdkcUJHcjRJX0dsdEhIRlRlanBDWVJNT0VsVDV2ZXZ4YVB5a1R4Rmg2MU5reFFNaHoyVXV6Z3pDS3RESm1qVTgtQ0RzSm13RjNNNE9ZdzIzS1l0dWJnc0ctQjlTY0lMekFlRG96RGlpWnplX2c?oc=5",
+        "headline": "연준의 금리 인상 기대감이 미국 달러 강세에 기여했다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/12 12:54",
+        "published_ts": 1789185269.0,
+        "tag": "JGB",
+        "first_seen": 1789185639.435811
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNGtrY0JOZG5aWm5RTmN6amlVSmFTT3J3cTV3MkRHVF9QWWVVMzFIX1hpSER0eWFrdloydkkzN0ViUmk2SXpCcERjV2psTzRJRVVqdkQwQ2stMFVfcms5M19fUDM0UUNGaUxkeUtRWmREZGZiWXotRzZvTjdJejRoMWpBUGg5TjVHdjJ3UEpzVHo2Qkd1T3JlUTlBMnpwUlFQMkxTRzFkSnFqUWdmdjR3VDBsMVFTUQ?oc=5",
+        "headline": "Morici: Warsh faces a Volcker moment at Fed",
+        "summary": "",
+        "source": "toledoblade.com",
+        "published": "09/12 12:40",
+        "published_ts": 1789184423.0,
+        "tag": "Fed",
+        "first_seen": 1789185639.435811
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeG0wTWlueTctRlVsOGtxV2dRZkR2ZG5mWlJFa3RPRF94bmhUQWkxZGJxUVpFa2Z6S242SGxQbnpvQUc3SkhuYmcwWFQ1VDRf?oc=5",
         "headline": "Fed·BOJ '긴축 주간'…코스피 7000 재탈환 시험대",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789137327.0,
         "tag": "Strategist",
         "first_seen": 1789141526.7718182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8tRDYxM19Vajg0bVdVaGFCcHh5alF3WXJKUXljNUROemF4SmdRUFhkcEJycnRHaUgtV3ZNRXlNZWE3Slgxek5ERTMwQ1FGTmlZUW02YnVrYjljS1BpTFYwUGZ6a29ZdWZyYklnbHFKanQ0dGpH?oc=5",
-        "headline": "US Treasury Secretary Scott Bessent Addresses Global Bond Market Slump",
-        "summary": "",
-        "source": "SuaraGarut.ID",
-        "published": "09/11 23:32",
-        "published_ts": 1789137152.0,
-        "tag": "Strategist",
-        "first_seen": 1789145124.4841385
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPb1o1aU9kbGhna01qUjNRZkduaXl6ZndkSVgyQlRqekp6d3ZZZ0VTUzlISnhkdE5kMVpvUFFoNkV2aWd1aldjTnFCVFVBZDBZMzUyU3J5TnRhRnFBVVRtNkp1Nnk3M1VrZ255N1kyZ2x6X0hjZ3I1ZVhERXZNRkZ3Y2xYajRhMUg5ejdSUlV0eTVpRjVoX2RISmVfcl95dw?oc=5",
-        "headline": "Gabelli U.S. Treasury Money Market Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/11 23:25",
-        "published_ts": 1789136700.0,
-        "tag": "Fed",
-        "first_seen": 1789137924.073644
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 12:53:38",
+  "updated_at": "2026-09-12 13:01:06",
   "yields": [
     {
       "label": "3년",
