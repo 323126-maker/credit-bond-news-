@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUFpyX3dOdXJCdVdFS2xqMXlQWndMdUd0bWlwNUJybjhKRUFTM242TldiQm0zQmF1dFltWDh2TERmNGZXWk4zUkVOay0xSjBVOEFlRmFibmdkOWtoX2VvYQ?oc=5",
+        "headline": "[글로벌 증시 캘린더] 美·英·日 중앙은행 한 주에 다 모였다",
+        "summary": "",
+        "source": "theconnectmoney.com",
+        "published": "09/13 07:51",
+        "published_ts": 1789253460.0,
+        "tag": "JGB",
+        "first_seen": 1789254037.460791
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WQUI4VHQ1aHN4SXVBVE00YVRHMUR5UU1RamFxQkhjb1VkMnN3emFJUU1laHZQREtyVU55MkVQTkxlSHU1WHJadXVyczVDc0hrTjFPR2NQT1BMdm43QVNTcA?oc=5",
         "headline": "[주간증시전망] 유가 100달러·美 10년물 금리 5% 돌파…FOMC도 대기",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/12 07:27",
         "published_ts": 1789165663.0,
         "tag": "Fed",
-        "first_seen": 1789172124.6642833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXozMDd2VnRSVVIyNDdkVnE2UFZyanBmUkhMNmxWZzZSTC1RWE1XWHJ6dEVuN1JoN192dngtMGJwSnQ1SnBzaTdFM3pXVXRtbUo5bllrMHNBWkdwb1R0dGtEbUZfeXJtZ3g4bkU5MFF3SjVMZlFRUkdUZlVXdTFYaENLUDBFckZfMmtfSHRCLUZTelVmZTNPelB1X3I4UWUwVm5nNzZTaWRWT3E4WVZjTy1BNmJjcUxjdGlob0MxakFxVW8?oc=5",
-        "headline": "Discover this week's must-read finance stories",
-        "summary": "",
-        "source": "The World Economic Forum",
-        "published": "09/12 07:22",
-        "published_ts": 1789165340.0,
-        "tag": "JGB",
         "first_seen": 1789172124.6642833
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 07:45:50",
+  "updated_at": "2026-09-13 08:01:01",
   "yields": [
     {
       "label": "3년",
