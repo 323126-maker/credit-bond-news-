@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53UWk0V2dTVkR3UTNOT1FidGNyQUl1ZFpsZlNpZWNZNU56VDg2Y3RBMlNlWUtsNTJxM0ZjQ29rcDZsMkgxVlY1cVlfckg0MHBQY0JhcUVoVk9TSUFCU0xiMQ?oc=5",
+        "headline": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/13 06:02",
+        "published_ts": 1789246920.0,
+        "tag": null,
+        "first_seen": 1789247725.8241763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE56SVo2T0lvS1g2N1RnRVJtYzJ3N3lOd0FjVXpSVWdNUUpYRENBZlJ5MWhrOThSandyQ2ZDY2MyZ2dveXA1X01KRnRkdGMySE5TV2dr?oc=5",
         "headline": "[채권마감] 미국채 발작에…국고3년 4% 진입 '2년10개월만 처음'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1788829041.0,
         "tag": null,
         "first_seen": 1788830125.9223413
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CT1JIbElvWlo0aUNzZnRCa2RWTWdVWXdKRTJDMk5FWUlpQjQtcTdVZ01XU0dSUUtjZ01ZXzVGR0dOVzk5V2RIaHlqeTlYOE15cUF4bGozZnpuSDItbG5NLVhfbkRDd2xlUHdNOW1LaU9BQQ?oc=5",
-        "headline": "\"소화는 잘되는데\"…크레디트 조달세 속 짙어지는 수급 경계감",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/08 09:29",
-        "published_ts": 1788827341.0,
-        "tag": null,
-        "first_seen": 1788828323.4128563
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WQUI4VHQ1aHN4SXVBVE00YVRHMUR5UU1RamFxQkhjb1VkMnN3emFJUU1laHZQREtyVU55MkVQTkxlSHU1WHJadXVyczVDc0hrTjFPR2NQT1BMdm43QVNTcA?oc=5",
+        "headline": "[주간증시전망] 유가 100달러·美 10년물 금리 5% 돌파…FOMC도 대기",
+        "summary": "",
+        "source": "네이트",
+        "published": "09/13 06:03",
+        "published_ts": 1789246980.0,
+        "tag": "JGB",
+        "first_seen": 1789247725.8241763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdVhuTWZWU0tXWGxwRk9MNXVZY1BzM1kzZnN5WnZXR0wzMzM0Um1HR2k1dkh2N2FPVW1haGFNRUFDay15WURXREhJR3J4S2ZWN3JWYWZ5bDFmUEJNNEJDeW9PRVRFRzFwMi1wYVhfYWV5N3AwRUU5THhaak8wMlFWaExmbU94OUoxNTh4ZjJJb1oyemt2UV9vSE1wa2NXZjVyOWlhdFhuVUdpek9pMTVGRlpjWVpPSFJoNHNF?oc=5",
         "headline": "All Eyes on Warsh as Rate-Hike Fever Spreads Across G7 Central Banks",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1789228080.0,
         "tag": "Fed",
         "first_seen": 1789228806.8881316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ3JiaTRpVlJpeE81ZGNIdl8zdXcxeEZGRFU4YjRJUmt4NlgtZWRRWm9LeHZ5ZkFDb3Vvc0cyNnF5ZE5JUmxld1ZBLUNyVGFYS1hKZ3Q1bUlBLWdFSFNVczdHZW9OZHJzQVN5Vi1ES1dsTUpXaklGcC1HbWR5VTl6TDVEeWhVTk1VNHNmWTBDZENhMHRDaVJSZ2xOMGtQQ0ZNcUs3UEU4VXF3eVQx?oc=5",
+        "headline": "Claudia Sahm: The Fed’s credibility depends on resisting politics, not playing it",
+        "summary": "",
+        "source": "TribLIVE.com",
+        "published": "09/13 00:04",
+        "published_ts": 1789225487.0,
+        "tag": "Fed",
+        "first_seen": 1789247725.8241763
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPZ1BPLU1pMFdtdmYwQkNtTHY2ZjdwRTYwaDU3bUhyMXRFcVRLMWxpbERZSGV3RkZodmNXUEttVVppS0k0blZUMDRwZEdNb0pybUJKYThnWE1fNjRHZlprbkN0MWRUeF8wVlJmM0pWa1R4Mkx5WGFJazlvYUlLSGstQjJLSTVoaDhCVXpuQWNZdVhadXF3ajNCMGJCbm02OVNsLU9haUZLOWZEajZ5cVRoaHByd2JWaDZiWHNydGMxZDlJekhPRHMwTzYxOEVrdEtrSmhtYllEUnNTQ3ZreHRzTDZBdWVoMW8?oc=5",
@@ -1960,6 +1980,16 @@
         "first_seen": 1789172124.6642833
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOERxUkxITTVtMGU4WGxDNk91MGNobEt6d1diX0xsbDR3VFM2V3d4bGFUWjBReVM4clZtMF9LalEzQWdPdG9qUEV2UGNCeWYtNFZaSHg3aU1BU2lpd2hYQmZBVDNZNGJTRE80dXE2bWlqYmtMeGowbUdGU2NTRFFGcUg5OW9hSWhDa29CaHAxYlRydTFUUGF4b2V0MUVIbmpydXVfMjZsa0h6U2FlWTdZenNPYVcwQkRF?oc=5",
+        "headline": "Wall Street Cheers Clarity on Fed Outlook—Even if It Means Higher Rates",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/12 06:36",
+        "published_ts": 1789162560.0,
+        "tag": "Global",
+        "first_seen": 1789247725.8241763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5FbEZvY043SE9Ja1dCWVAtcy1WdFVOYjV2Z0lrc0hBR1NBNU5sTXNEUXJ4MmZqNm1tN2ktUEJTeHJVdVZhalR1WnhBeGVwOWF6d1AtaC1pWVZGcE9KSUM5NXVZTXB1cWtyMFJaYnR6b1d1SFN2MTFQbEtHUQ?oc=5",
         "headline": "S&P 500’s greatest risk is fast becoming reality",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789160561.0,
         "tag": "Fed",
         "first_seen": 1789161327.0824435
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONDZjRFRRQ0s2S0NwVjBLYkg4eVJERUwxU1FkaDdRQTZ4YVc4ZVFUeHh4aWs0LURPVmptMzJXdzhtZERHbDZUYjQwSmtuN0d6WnY0WGJ1RHJxN3MwWVM5Zy03TncxYm96cDJJcW12S3NnUDJndFl1S0FKd2ZxN0hfZWpCWmdzQ2NnVEHSAY8BQVVfeXFMT095VEQydEJhN2xtWm95SGNPVDdWMzZZOVZUSXFqWkNraVN4MzdYbWdEWnZjMDRwempSeGR0eElwUnU5NmF1aFF0UTRMUFZxMnY5X3ZmYWZOeG5wbjI4WFJkaTJmd3Z6bHliX2ZQOFNJdW5OenR6anRvR0NaYmd5bFZmLXhMQ1cwVWd2eUR6ZVU?oc=5",
-        "headline": "Stubborn inflation raises prospect of Fed rate hike",
-        "summary": "",
-        "source": "The Hill",
-        "published": "09/12 05:49",
-        "published_ts": 1789159740.0,
-        "tag": "Fed",
-        "first_seen": 1789160436.406258
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1NOWlMZGpPSk5WNDZXMDJPV1RPZ2hmbEV6Nmt5YjJva21nWk80QkRnTkZkN3BJaVhGTXQ3bTVWRkFITldsblFSUWp3V1kyZWdmWHBSdVFUSkZpY1FVLWx3NGJEY9IBY0FVX3lxTE1NOWlMZGpPSk5WNDZXMDJPV1RPZ2hmbEV6Nmt5YjJva21nWk80QkRnTkZkN3BJaVhGTXQ3bTVWRkFITldsblFSUWp3V1kyZWdmWHBSdVFUSkZpY1FVLWx3NGJEYw?oc=5",
-        "headline": "To broaden financing channels for massive AI investment, Meta (META.US) reaches out to European bond investors and may enter the non-dollar bond market for the first time.",
-        "summary": "",
-        "source": "Bitget",
-        "published": "09/12 05:44",
-        "published_ts": 1789159453.0,
-        "tag": "Global",
-        "first_seen": 1789163123.3751326
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNdXlONzZ4VHRzenV1NDBKWG82U3QxbC1QcjFlZGFaY1llQ1E5SnpjMWp2cTluRnpabTNmS2oxc1AxSW94SnN3bWhlRlNqTUtJQ05FMC01Q2V0ZzVjQ016elAzSlBuWVpEQlVBbGdpaVFOYTBVQm5pUXRqcEZwQ21rTWRpZHE2aEt3MG1yUHhxWlpzYXFkeEFMS0pKenl2OFBPUmhXbXNKMHJZbUo0RjFRRHZaMFNKZw?oc=5",
-        "headline": "Treasuries End Bruising Week With Fed Hike Bets Firmed After CPI",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/12 05:33",
-        "published_ts": 1789158785.0,
-        "tag": "Fed",
-        "first_seen": 1789197323.063776
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 06:08:51",
+  "updated_at": "2026-09-13 06:15:48",
   "yields": [
     {
       "label": "3년",
