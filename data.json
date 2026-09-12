@@ -332,6 +332,16 @@
         "first_seen": 1789107325.9654202
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBaaGxKOWFIakV1d0hWcUt5djZFOXJPZGhVZy1ORDZvWWlKY1BySEhJYmlaZE5JdmVFU0J5dXJPTFVvRDZ4TXlmNGdUdnE1Q0g0dnJBYQ?oc=5",
+        "headline": "큐리어스, SLL중앙에 1050억 규모 구조화투자 추진",
+        "summary": "",
+        "source": "etoday.co.kr",
+        "published": "09/11 10:45",
+        "published_ts": 1789091100.0,
+        "tag": null,
+        "first_seen": 1789218922.5973961
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9IVk1ZbGQtMVplY3Y3dzJhNjdRaDRJYTVMeHlXeXo1UGZEaXdtTmFWZFo4ems5TF9vR1dxSHpJWFZ3bTdBa3lHQUdTRTlTbjNlQXlFYXc0Q1FZWURaY2V2SEZ6ZXNHeEI2YXc?oc=5",
         "headline": "수협중앙회, 순익은 은행 덕…요주의여신 급증",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789083892.0,
         "tag": null,
         "first_seen": 1789089326.551173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9nTTFnQ05TSnJib1UwbzFfZ0VqSWFyV1pYcVFFTXZ0bHR4MHJEMnljNTY0VC1NeHpWNlNGX0V2N1ZEVHR3bVlxVENuNC1fMUxkUHhFQWE0Z1ZHZw?oc=5",
-        "headline": "스위스 채권 26% 삼킨 미국 AI 기업…현지 차입비용 압박",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/11 08:44",
-        "published_ts": 1789083882.0,
-        "tag": null,
-        "first_seen": 1789084843.556302
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaTVPU2RCZGNrd2dRSmhQSE9mY0lUckE4dllQUHRqbXhiYjQtbDdOa1lnbExDXzFvV2x3QjlUWUR3YjladEZ4V0VFRjVMeWE3RUF4eGJ0eTg2Q0FQbXdkX2M4SGxyVzlMX2hqNS1kMm05c3lYWnVTS0JKaXBoS2NJR3FmYS1TeDEteGNaamkweHNzQVVkMHl4SnctdTI3U25IV0E?oc=5",
+        "headline": "Ray Dalio and Bloomberg analysts reveal where to put $10,000 as stocks hit highs and bonds sell off in 2026",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "09/12 22:00",
+        "published_ts": 1789218000.0,
+        "tag": "Strategist",
+        "first_seen": 1789218922.5973961
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRkZZY01FbjBTSXpGT3BMZk4yVFYyNnBidWZTSVo2Z1hxd1pWamRtYUNiNDl2dWZMdEVmX2tsWENsVW5sR3I1VV9udEhMYl9zR1ltSWpnQmE1Ui1DX3hwUEQ4Q0RhNk1EQzlUN3F0alRmZURrUUlZLUJwWUN4WTRSRVdPUV94TDZ6MldFd0hVeFdEcWFPSlQzUDN1ZjBsbG8?oc=5",
         "headline": "Where to invest $10K as stocks, bonds go wild",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789143329.0,
         "tag": "Global",
         "first_seen": 1789155929.4373536
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQNGVHTWFmdENNUVdTaFpLbTlKdmwxaTVKZzJ3VEM5R0hTWjI5RUZmUmg2X3ZvT1NyMG1TSHgtQkxSNVRnZ2tGd2VrNWlvdzFlUWprM2w2WEhYRUFmVFZ5aUVYUFFsaHo5MTRVTVV0SVpWQno0cjFBUXFla3hQUmpwRnN4WkRZY1JaUU9n?oc=5",
-        "headline": "Bank of Japan Outlook: Rate Hike Likely to Support Yen",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/12 01:14",
-        "published_ts": 1789143266.0,
-        "tag": "JGB",
-        "first_seen": 1789203637.1429179
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 22:01:11",
+  "updated_at": "2026-09-12 22:15:55",
   "yields": [
     {
       "label": "3년",
