@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQWdEaHl3OWRJVjNVLWtBTG80R2h5SkRicFp0WWg1UlZiX1R4WVNHdzlBdV91QzhZZGNVb2cyQ29mUDM4a1o1OW9TdUR1ZU5VSi00LTA3RGQzUXRRdkJxWUkySGhjR2NvSkhNZXYwVlpSQ1hzMXZRVUNvS25rX0JFMERhYXY?oc=5",
+        "headline": "China-US yield disparity hits record amid global bond rout",
+        "summary": "",
+        "source": "KrASIA",
+        "published": "09/12 09:34",
+        "published_ts": 1789173250.0,
+        "tag": "JGB",
+        "first_seen": 1789176633.4761913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWQ1kweVdMQjY2b096bmVNd1o4T2M5anhnUjZRWklZMGpObTRIMmlqRjM0UkplVUJYNXViNnYxempWQXhEVGh0VERjLUlLUDJZdjZiNTIzZWtnMGxJcnJjeUtmcWM4eHBXcUhfYnpnazNtbzVoZUE?oc=5",
         "headline": "GPIF Asset Repatriation Expectations Heat Up, Driving Repricing of the Yen and Global Bond Markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789135456.0,
         "tag": "Global",
         "first_seen": 1789173031.6180747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVWhyRDg3SFpKSnZCaWZuZE5fdWRGenpraUExT2szZ28xZEYzXzRzWDZxZnJsdWpuMTNGRzE1LXhiWGhEYm96dkZSMzBQeEhqaXZNQl9NTzRLNXNWWXRrNTFHX2I5cEI2OUZSS1ktMXZWT2x0aTgzRTBNYWFSRFRaOVdOeTZ6WHZCajlrLUFWWXRnUUk4ZFc2RVFuM0xpeldL?oc=5",
-        "headline": "Sunset Market Commentary",
-        "summary": "",
-        "source": "Action Forex",
-        "published": "09/11 22:58",
-        "published_ts": 1789135097.0,
-        "tag": "Global",
-        "first_seen": 1789138839.6870008
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 10:15:53",
+  "updated_at": "2026-09-12 10:30:59",
   "yields": [
     {
       "label": "3년",
