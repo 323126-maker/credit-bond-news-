@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYU9EZWZKNkNRX01kVS1acG1rMEszWENmdjZoMVF0S2h1dThTcXduaW9aeXZxTW9NaWtjWmd6Wk9TdHNDTXJXWVJ6VGJfdlhDWFhnekJsbW44WkhxU1dINFVZWDZpR0pZMWFJbmZGRVc?oc=5",
+        "headline": "Average rate on a 30-year home loan hits the highest level in months",
+        "summary": "",
+        "source": "Hays Post",
+        "published": "09/13 01:23",
+        "published_ts": 1789230227.0,
+        "tag": "Fed",
+        "first_seen": 1789237830.2384865
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNRHA4UlJKT0FfZm1oajY2VURMaGxhYjFoYThaMDM3aFJHdWJ6Q2dLZ2JqeW9hcVkzUmpUM2FlaW9uQUJ0ZUtfT2hQcTBFUG4yVzE1UjBoVG1LX1dIVldWN2pKaHg5ejNmNXZGZFhHbEh5NFZVcVpqc014UXZmN2taTE9hN29VX0VlVTduY0JRZ3FVaHcxZ1FIc3p2SjllelctTl8zcDNteVduUGpoRGYtamZLSk5ZcURwSDdqWVlCRjJ3U2w1QXNoTE8wYnAzM2J1YkJIZFdLREJKbGRHY2dBVXQ1ZEpJSC1XSFRxMF9Zb0E2VXdm?oc=5",
         "headline": "Top Economist Says the Fed Should Hike Rates 50 Basis Points Next Week. The Bond Market Is Already Near His Danger Zone.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789152240.0,
         "tag": "Strategist",
         "first_seen": 1789178439.240517
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNRkdpNVlNOTlod2NKZkJPbXF5bDJUZlZNdElaSGc1OFRIemxuVGdmVURkWjQ4S1ZMYXVyNGVFNVdBbVE4aHg3Mm5rd3lTcXprS3VsV0NQT2dVbWl6ZU9BenRBNWd2bENRMTNEUXRfSnBiTlFmQU15b2hnNHVfaEVMSG15YklGZWd1SWZnWHdyT3Y0bUh6MmNoODhwb3YyMk9KeUhrV1A2VDcyazJRd0RsXzNKYWZ4LU9pbW5hbjh4cVVTd0xP?oc=5",
-        "headline": "September Fed Meeting Unpacked: Balancing the Data",
-        "summary": "",
-        "source": "Lord, Abbett & Co LLC",
-        "published": "09/12 02:56",
-        "published_ts": 1789149384.0,
-        "tag": "Fed",
-        "first_seen": 1789149642.717084
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 03:18:28",
+  "updated_at": "2026-09-13 03:30:56",
   "yields": [
     {
       "label": "3년",
