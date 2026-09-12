@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE40TXItRHdCbVJ5OGQwR1dvNVRvZU1wNzBDSEMzUGZQM0poZUVUMk1mRnRRWTlVbUU5LTFndVpRcXBkQkFZM2tDSndfY0x5RkFQRGh4bVJLMjZRbDd4Z19Zc1lleGhhVDRRSmNKcmhCaVJlc2pOSVE?oc=5",
+        "headline": "Wall Street shrugs off 5% Treasury yields as earnings power trumps rate fears",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/13 03:18",
+        "published_ts": 1789237080.0,
+        "tag": "Strategist",
+        "first_seen": 1789238725.0278666
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xYU9EZWZKNkNRX01kVS1acG1rMEszWENmdjZoMVF0S2h1dThTcXduaW9aeXZxTW9NaWtjWmd6Wk9TdHNDTXJXWVJ6VGJfdlhDWFhnekJsbW44WkhxU1dINFVZWDZpR0pZMWFJbmZGRVc?oc=5",
         "headline": "Average rate on a 30-year home loan hits the highest level in months",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789153362.0,
         "tag": "Fed",
         "first_seen": 1789173031.6180747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pdnZ6RmpWMGhpanY5elgycUhjTnFXS3UyMnJPVEhiZ202ajFyUndMa1o1NUwtbWY0aXFMWngwTmRrMUl2UDJUYTJ3bjN6clpHSF9ENzRWWGU0VmpXOG9xZGZlWWNVdGVEeFpFYld4ZlUzVXd3UUE?oc=5",
-        "headline": "Jamie Dimon Leads Wall Street Push Against UK Bank Windfall Tax Ahead of Budget",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/12 03:44",
-        "published_ts": 1789152240.0,
-        "tag": "Strategist",
-        "first_seen": 1789178439.240517
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 03:30:56",
+  "updated_at": "2026-09-13 03:45:50",
   "yields": [
     {
       "label": "3년",
