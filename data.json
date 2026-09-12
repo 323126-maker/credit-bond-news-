@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBFV0tab0lkNHdONW1scGlyMmJkbzlwcFJEM2ZWV2ZoZDF2eXJHelVtUVlQQUhreUtoVnR4MHdJREJERGJab2dFNW9ndzNJZ0lI?oc=5",
+        "headline": "인도, 1억700만달러 규모 토큰화 회사채 실험 돌입",
+        "summary": "",
+        "source": "bloomingbit.io",
+        "published": "09/12 09:02",
+        "published_ts": 1789171353.0,
+        "tag": null,
+        "first_seen": 1789172124.6642833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQV21BZVVQN1phMUJWRllOVS1lcUxKT2c2Q1dCRFVSc01oTzZpd0Rad0FEYUNKdGVOM1Q3OXYwbHJqR2N3Ry10S1h4LU9LX1dpUzgtOC1uamdQV0wybWlQQjhVWFZZZjF3WldUay1Gb04ybHlMakFVdmkzTTBmdnVrNmhFT1R5blJZemVVM3RkN3JhM09yUVR4dk5taDNaV09h?oc=5",
         "headline": "베트남 지수(VN-Index)가 1,800포인트 아래로 떨어졌음에도 불구하고, 팜 낫 부옹은 여전히 ​​미 달러 억만장자 순위에서 상승세를 보였다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789077600.0,
         "tag": null,
         "first_seen": 1789081242.0076528
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUY3FOMXBCUXpnX2NESWNFcjlvVnlZWnNvTTJwNk02ZjB4Wk1UcDE5RXVhMmtaMnRUT1FlUzhieUJRQ3B6S3hEenJiNTJhWV9xZ0ViQ2NweUp5R1E1UTJfcNIBeEFVX3lxTE1yQWpoVjh6Z2s3QzZkbXl0dFJ3ZVppV29wdjdGSTdSRWJaSWpWdlRSbHJ3alF3Y25iSUVDamdOTE1uVlVBZzU4VmNIMTQzbTRYbVJNOFR1VFdJSl83LUlnQ3BfSTZyMzQtamJrdlBTUEI5MkkyZkpzdg?oc=5",
-        "headline": "오라클, 데이터센터 관련 매출 2배 증가…시간외 7% 상승",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/11 06:59",
-        "published_ts": 1789077557.0,
-        "tag": null,
-        "first_seen": 1789078525.5786643
       }
     ],
     "perpetual": [
@@ -1640,6 +1640,26 @@
         "first_seen": 1789169437.5391674
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFdhc216WTREbGJvWDFjWjZLb3lOaXkzSW9UMjlyUmxXeTlfaEQzbGwyZHN3RWNCZ01jZGJYM3JtYUc2TGN1R0JHQjk1WTdMXzRubDU4YTdlSUpTNEwzQ3JseHJiTC03SXJXYmk2X2xuVElzNjM2RVJEQ052a1dRS2piNmtUOVg3MER0dUdhQWNJSlJzVmxlTzVVa01JV2FxSDhPRktrOVZ2UjI1UUdzVjd4eEdvd3c1Qk1LcDdBZE01UQ?oc=5",
+        "headline": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "09/12 07:27",
+        "published_ts": 1789165663.0,
+        "tag": "Fed",
+        "first_seen": 1789172124.6642833
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaXozMDd2VnRSVVIyNDdkVnE2UFZyanBmUkhMNmxWZzZSTC1RWE1XWHJ6dEVuN1JoN192dngtMGJwSnQ1SnBzaTdFM3pXVXRtbUo5bllrMHNBWkdwb1R0dGtEbUZfeXJtZ3g4bkU5MFF3SjVMZlFRUkdUZlVXdTFYaENLUDBFckZfMmtfSHRCLUZTelVmZTNPelB1X3I4UWUwVm5nNzZTaWRWT3E4WVZjTy1BNmJjcUxjdGlob0MxakFxVW8?oc=5",
+        "headline": "Discover this week's must-read finance stories",
+        "summary": "",
+        "source": "The World Economic Forum",
+        "published": "09/12 07:22",
+        "published_ts": 1789165340.0,
+        "tag": "JGB",
+        "first_seen": 1789172124.6642833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVWtELUtFS3c2Q1NDcDNwR2Q2Ymd4Zms4WWE1bE9zeUFDZGNmNUMzTFJ1Um00OWwxTzNtRlcyOU00SmIwX3B0d1JmQ0puX0NsS0NrbjJ2d2dlczZpbkw0eG5PcS1yVXRUblFRTXZZUU1rQ2J1bERfZEpNYlpqYlpaWFl0bFhIVDI0SlhPd0tqR1Mxc1lWOFNNaG40Wjk0YVhpUlBqcjBzSjNqQlhXNzVr?oc=5",
         "headline": "The Fed can hike, but it won’t derail gold’s long-term bull market – analysts",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789133648.0,
         "tag": "Fed",
         "first_seen": 1789146039.2501853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUTZyQXZidTZGdVYxeXZXSW0zUmpaREhLeWVUa0dlOEFrUUlnSlN3WmhDQkNiaUJYb29XWDV6eFg4NktmSDJ1M1F3cUIyOU1FbUNwU2VnaXcwRFQ4MUJTQWxGTjk4d1NLYmdfN2FiV2lFd0V2NkEwRWVOUTl0MVF6WnVHeXFXd29nNnRnall3?oc=5",
-        "headline": "Analysis: Hot CPI puts Kevin Warsh’s Fed credibility on the line before rate decision",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/11 22:34",
-        "published_ts": 1789133648.0,
-        "tag": "Fed",
-        "first_seen": 1789134326.2230666
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWWRWMlZHRHlQSFVXcS1Ld3hfRUlxQnZhWUtpUkhxOGxCbWVVcEhrMU5OU1ozSWU5MzI2cFF4UzMtNXBlOGVmWnVHUG9sRm41c1BtMXFZalVCeHNpSmJadDE0RDhTNEx5N1Jpd0o2dU5hZ1ZtUm5KbVVIYkQwRHRJTmVfZ1g5U19hOVZnbzhxYlhTVWxvWXdCT1h3Y0kwdkVhUFBpaUlIenZqX3E5MEZqMDhxbEIzUVVkdV80TlRwOXZNWXVia2JR?oc=5",
-        "headline": "Edn of week note for investment trust investors - 11th September 2026",
-        "summary": "",
-        "source": "Investegate",
-        "published": "09/11 22:30",
-        "published_ts": 1789133401.0,
-        "tag": "Strategist",
-        "first_seen": 1789134326.2230666
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-12 09:01:07",
+  "updated_at": "2026-09-12 09:15:49",
   "yields": [
     {
       "label": "3년",
