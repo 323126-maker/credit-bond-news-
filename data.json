@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE40ZWRTV1VERXZTeVpxZk9kTHBHQVZGY0xrOUpLN3MzdkpmckhIMEhEYTItUEpQUXlmQ2xlQjRlN1hHWHBWZkRteVNPUHJUTHcyVHFnUEpyenhUd3I4ZFZ6dUQ5dW5ndENQY1VrOFlLWQ?oc=5",
+        "headline": "The Bond Market: Shaken & Stirred",
+        "summary": "",
+        "source": "puck.news",
+        "published": "09/14 05:31",
+        "published_ts": 1789331505.0,
+        "tag": "Fed",
+        "first_seen": 1789332325.14742
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXhvN0ozSXlydmRRYmVQVFJSTjlfUDFLaGJQaXNpQURVT0lkcDRJd3lITWVSSHlHbFVnSjg4NERVT1ZOc3EyRFBCckZSd3h3YmVRUWMxenQxOTA1SGYtLUdQNi1QdUFybmlJZXRBNUJxblQ1M2hYc2FfVzVYeVJodjJyX1IxV3hIT2p6bGhxYXhESnNjQkk5X285WWZUNWNtTUNMaQ?oc=5",
         "headline": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789246980.0,
         "tag": "JGB",
         "first_seen": 1789247725.8241763
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9EYkVfZlQzQjk5aGVfVHYxZFFXTmgxdW9tVHYyc3J4T1VpZ0loRGxaUU9BUzRBdTA3YUthblkwOFE3SHY4SERYS0JLelZWdHpkdlHSAVNBVV95cUxQc1dpR3UtbUFESTBEc0pFTVJhTGhaeXhBOTlHcWNKcWNsWTUyczdpMjRaS0Jqd2E2RnF2Rzlrd0RULXZaQjJqVXN5bG5QUEEzWVVuaw?oc=5",
-        "headline": "美·日 금리 슈퍼위크… 韓 수출입물가지수 주목 [한동훈의 위클리전망대]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/13 06:00",
-        "published_ts": 1789246800.0,
-        "tag": "Fed",
-        "first_seen": 1789316124.4462614
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 05:30:54",
+  "updated_at": "2026-09-14 05:45:48",
   "yields": [
     {
       "label": "3년",
