@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQUdVNVowMHZxa0dwQUpNQmVvUzJfV1RzSGtacTlVTXc3VzY5QjNySG1OQjdob2FMUGxQU21yb3loblEyUTduZ3NieVdGNE9Nc2dmeV9IX2NzYlY2bndDNGt5S3NGdmwwSzUxakR5dTRzdF8tclVHZlJ6eUhIUWx2bDBZOVdldXJU0gGcAUFVX3lxTE40Zk9zTzlHTkZNcVlrQWRhVlAtejhfYW9MdWx0Q1J0VThjSi1XNlRuYnZhalAzXzFjMV9yNXFnUFV3NFlWb2puUkRudHdXYVFPZ2xXaV9HNzQ3T2Q3RXVUS2xrdnllQmZ6WXJOekNBN3NhLXN3N0pJemVBYmNFczBQMkRHRU92NmlPUi1uSUVPVzdVUVJRM3V0clNneQ?oc=5",
+        "headline": "外人, 3년 7개월 만에 채권 순매도… 국고채 금리 4% 돌파 - 조선비즈",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "09/13 11:22",
+        "published_ts": 1789266120.0,
+        "tag": null,
+        "first_seen": 1789270231.1711805
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43cGQwX2ZpRm5CVlIzNzV6Um9BekRQR2lQVWZEWFRTNW5wQjdlRTNkcXI0eFJrekxQa0hxcEhpQllNNXJhZC1QbHNHb0hsMkxGWmdWUXhjb185XzQtSm9WTDFHWnhVMENZaU1Ybnk0dGxybUnSAXdBVV95cUxQU091RHBoazdkWW84QWRRN1dYRzh5YkhPdHRaLVhSMzVoajhIclR5cF9FeGlJcVhxTkc3UlFHa0pCb0FJRFlaajZzNkNLVktpc1JKakducFh0MHhJVXM0VHN2VlN6NXNsY1AwSUpwYzJhV2N1VFl2NA?oc=5",
         "headline": "국고채, 미·이란 지정학 리스크·유가 상승에 ‘비상’",
         "summary": "",
@@ -824,6 +834,16 @@
         "published_ts": 1789260312.0,
         "tag": null,
         "first_seen": 1789261236.8282924
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuaEg0MTdyeHJ4Wk9yUnpVcTBLbVF3MXJtS3N0R25PbUUyOUYyS2xtTWVGdDBpNGNtdmxPWTdSd1NuSm9SZVV6dmt6NWw2Q1hsclFGS1lkdzR6Qkc4WktZZDduNy1ZVmFUYXljeVprQS1RNTdh?oc=5",
+        "headline": "\"반도체 끌고 AI 받친다\"…韓 성장률 상향이 바꿀 자산시장 셈법 |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/13 09:24",
+        "published_ts": 1789259061.0,
+        "tag": null,
+        "first_seen": 1789270231.1711805
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1lLTZJS093dnQ4OWxzMlJiR0lNMGVrdFFOLXJRU2FoRkp1akZwMHJJZER1RTIxQi12MHd3dW9GYjEtWHhVbkx1XzdoQnJuREk?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1788904800.0,
         "tag": null,
         "first_seen": 1788992126.3211708
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBHMUcwMFdad0JjbzFHMEItejJ1dXpUWmhwN3RkNnlUdy13aGNoUUJyUW1SYkVoUTRwQ21ZV18xVmNwbC1iWGRSSU5CNTh4b3JFUnRvSC1RSzhhNVdJX0dlOHd3OWlodnZnY1RJYXgwTXJnTkdI?oc=5",
-        "headline": "명목 GDP 26.4% 급증에도…다수 전문가들 한은 최종금리 3.25% 전망",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/08 14:18",
-        "published_ts": 1788844680.0,
-        "tag": null,
-        "first_seen": 1788845433.4717345
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5YdE1tWEw4amM4cVVuTHVCcVMxYVdVZUpsQ3ZJRHlkLTIxSC04R2RiWVZLQURGLUZtYXNGbXVDX1c4Snc3bmhrNUVKRU9NdElrZ3d3QlRtZEthM0NLYnU5Y2dydXo?oc=5",
-        "headline": "가계대출 ‘숨은 불씨’ 마통…잔액 줄어도 금리 7% 육박",
-        "summary": "",
-        "source": "디지털데일리",
-        "published": "09/08 12:41",
-        "published_ts": 1788838869.0,
-        "tag": null,
-        "first_seen": 1788839127.2467823
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 12:15:54",
+  "updated_at": "2026-09-13 12:30:53",
   "yields": [
     {
       "label": "3년",
