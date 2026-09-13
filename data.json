@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VeHZKcTZnaWlPejQxWERkaEdUaHp1bER2ZUpCMWhRN3liNUpzWVZhZlQyenF1c1h3Q2txSHd2TlNRa0lQWVlobA?oc=5",
+        "headline": "인도, 채권 발행부터 CBDC 결제까지...금융시장 토큰화 가속",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "09/13 12:00",
+        "published_ts": 1789268400.0,
+        "tag": null,
+        "first_seen": 1789269326.4385283
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSGVteEg5YjYtWFJHMHJiUThleGxBWDIzWDBSS3FIbXc4MzN1a2FzeUNmeXJ3VjZ2aFJMUTBZc0VmRmtOQUFZQ0s1QloxZ2VjamtjQi1NMW5IWjQzWGhDaXdERkk0MTR5Vy1leDdORmZPcGhhN2NNMG8tQWc4Y3NISw?oc=5",
         "headline": "‘부정적’ 전망 단 SK지오센트릭, 700억 회사채 수요예측",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1789248900.0,
         "tag": null,
         "first_seen": 1789258527.462705
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5BT2p3STBiWWlVc2RjaWp0bG5JTzM0dHlBRFdvU3FtRVZ0bXNpSENJakRoTDVoaEFyeFpvczBQWGh1dDd2ZFhhNGxaMldfbG51RXNvamhXUU0tSzFC?oc=5",
+        "headline": "[주간금융이슈] 美·日 금리 결정 '슈퍼 위크'…원화·채권시장 '긴장'",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/13 06:00",
+        "published_ts": 1789246800.0,
+        "tag": null,
+        "first_seen": 1789269326.4385283
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkhXcXVPQy1uRWctMzYzdFhtWmdpNW05c0ZkZHNiYUdyS3ZWRVlnTnlBbmVNMDRzSm85Z1BLSzN6VGxSTWRtNFJuSU1kZzY2ZEMzTlVmTUhNQ1J1NU9uQ2dOQUswRDZKZE81UWR4M2RjQnYza2p0UVZwdmVSempGdnpTcnNJTjlqWHpfRlNENHR2LTgtN0pDeFA2RTlYY0RmMlFWSFNodEpPdnA1YVdjSWp5NXFYVkxBRVlXR1FqMEtGSldtRXBxbnhPT05uNWZS?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789103265.0,
         "tag": null,
         "first_seen": 1789104632.438202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DbWFDMkpXUVZOcHlwRjlSTWRSdXJjNWYzcHRIZ3YyZmlXeFB2anpfUXRvMzRYaGxja1RwMkw1dl9VR0d1U05GdElNcW1ZMzgzWU1mbkhMd21DSUtuY0hDc091ZllKNkpZNFV1S1VDZV9ZZ9IBdkFVX3lxTE9EU1l6dWp2UlJlUllsN1hBTGU4bldWanRyblRRbHU1ZEpETXNGNHpTX0ZmbkJtLVVOQjZhWWlsQThRZXloOC1GaExibTA4NzVIQzNsb0VrdkdmTWlPX2d4bzB1TVdTeWtrbVpHdzQ1dEtfd0FJWFE?oc=5",
-        "headline": "선거 이기면 현금 준다는데 채권시장 왜 화났나",
-        "summary": "",
-        "source": "포춘코리아",
-        "published": "09/11 14:00",
-        "published_ts": 1789102800.0,
-        "tag": null,
-        "first_seen": 1789144241.2167287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PUnBBNzdiNzRFYmVybDRkSDdocWVHR21jcTNqSnNha01PdEZ6WTNpT2JGZG40TkJwXzdIRnhMaG1TbWdQXzhIUzRPeFVmcHc0YTVKWUcxNWIzYi1WRF9mRDlKa2hXTlVFNnJnSExXUW4?oc=5",
-        "headline": "[美 금리 발작] \"亞 외환·채권시장 회복력 지속 않을 수도\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/11 13:37",
-        "published_ts": 1789101471.0,
-        "tag": null,
-        "first_seen": 1789101924.952666
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 12:01:03",
+  "updated_at": "2026-09-13 12:15:54",
   "yields": [
     {
       "label": "3년",
