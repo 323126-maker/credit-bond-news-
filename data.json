@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qbXMyYktfNXJWRkNZQVhZc2g2UHVoTFRCbkVMVGRNOGRQTld6b1B6RWUtNVloV2NNSkZDcjVPNkFjRk5xaVNDMnROM2xybG5lSWlTWkcwNFRGdmpJdWNKUWdDMl9EbjRNNGFsVFFyb0dXZw?oc=5",
+        "headline": "[중립금리①] 한은 재추정 중…3% 기준금리, 긴축적인가",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/14 08:30",
+        "published_ts": 1789342201.0,
+        "tag": null,
+        "first_seen": 1789342755.767432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMFZDYjl0dUsza1VhNHl4ZVBJdUxCaDNsSXp3c0l3bXhITzdSRHlrTlQxem1SSDZra1dUdktpdXJWQkg3VGlWaVRxWUdUeHVWQjRrLWxkbWg5LXc0Vk8ySw?oc=5",
         "headline": "내년 법인세 수입, 15년만에 소득세 추월한다…'삼전닉스' 효과",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789006680.0,
         "tag": null,
         "first_seen": 1789015524.116663
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9UbnhnMmdxWVNkU29tdF9QZjJHX3pVa2lCLVBKdDVhNUJSOUlCZGFXU3RlOHotQTRJV3F3R3lOSy1PVVhWZXVha0ltSQ?oc=5",
-        "headline": "금리 인상에 채권발행·거래 '뚝'⋯외국인 보유액 6.4조 줄어",
-        "summary": "",
-        "source": "아이뉴스24",
-        "published": "09/10 10:38",
-        "published_ts": 1789004320.0,
-        "tag": null,
-        "first_seen": 1789004722.5115337
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 08:30:58",
+  "updated_at": "2026-09-14 08:39:38",
   "yields": [
     {
       "label": "3년",
