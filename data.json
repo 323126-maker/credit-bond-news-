@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5FcVRKMHU4YnN3enNMMVIxTG1qRlhJMV90UTJseVA4YVVzR01kajVLNndRRGZlWks4a2wwRnpzZ3Vib2JZNVB6cVVHY3lOaU1NT1dCUg?oc=5",
+        "headline": "[오늘의 투자전략] FOMC·BOJ 앞둔 증시, 단기 변동성 불가피…\"주식 비중 확대 기회\"",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/14 08:06",
+        "published_ts": 1789340760.0,
+        "tag": "JGB",
+        "first_seen": 1789342230.541566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWmlMLV9PY2Z6T0JfSTFlVHlPQW83U29LdTl2V1JLMlhkeUtlM0xFYmxqUFRoSlB1emtWQUxwY1l2R2VpMk51S2RGUXVkOEpremlaY1lSYlRlQQ?oc=5",
         "headline": "일본은행 금리 인상 전망…'엔 캐리 청산' 공포 재점화될까",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1789340408.0,
         "tag": "JGB",
         "first_seen": 1789341323.0455637
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RZmtqUlllVEszSFFLN19Rc29iZUhLMWtxYkJpVjlobWZlZ3FrR2dxelhKQ3M0OVZla0pzY3pueWhWT2N3bmpqT0FZTFI0UXZVdHZOVmNENnAwY1Z1aGl3cWxYZktrSnBrUHZ2bg?oc=5",
+        "headline": "Bitcoin Faces 87% Fed Hike Odds Wednesday: Will Treasury Save the Rally?",
+        "summary": "",
+        "source": "BeInCrypto",
+        "published": "09/14 08:00",
+        "published_ts": 1789340400.0,
+        "tag": "Fed",
+        "first_seen": 1789342230.541566
       },
       {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mbnpnaDNOaHlxbVVOUU1jelY1YTMwbmMyM1RlWHM3dV95WnFyWFNKSkVtMVo3SjJFSmZDODlGeVRIMTlnSkpXOG5CU0RtWVoxNVVENnFhZHppSUhkMllibWg4UjZfSTdJeEhuSFVJbmNlS3pWMmY1clJ6VEM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789272000.0,
         "tag": "JGB",
         "first_seen": 1789273832.7245054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOUZIaTM3Rko2RUdRdU5pcXFtNjNpd1RSZ0NMOXdNcXlpbFM1anI4bEY1ODZYVE9IbXYwN1RrWElBNmtBMDhoSm9NRWJERTdxVldmSV92amtZWkltRW1KWVYxeEpDTDBnTG0zQnI5blJUWHRCNzN1OFA0eHFSQTJJRUtUV3V4UzhYNjNDNlc4dWE2aXk0VGY5TWtYLS1ucUdPS0tqSzY4VG9waUxVRTcwMFJDVWNUTG45Nlc2ZFFzeS1EbUNXNHF3Q2dvMm5DMG8xVmQ5ZU9fU2JXUkRZSzZBdGVSQXN6aUEy?oc=5",
-        "headline": "'This is the test': All eyes on US Fed to tackle high inflation",
-        "summary": "",
-        "source": "KMVU FOX 26 Medford",
-        "published": "09/13 11:29",
-        "published_ts": 1789266573.0,
-        "tag": "Fed",
-        "first_seen": 1789266697.992211
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ0hycDBFT1UybUhEZHVDSy1qUHNCOEZfU05fNGJueEJRYmMwU3lLQ1FENl9OUnpWZER1YXg1dWpfdGNCbEpFaEZJZFZoTEZVcmtxMFM0OXpCVzNlYnZDMElR?oc=5",
-        "headline": "금리 더 오른다… 전쟁발 고유가에 `금리인상 사이클` 본격화",
-        "summary": "",
-        "source": "imaeil.com",
-        "published": "09/13 10:45",
-        "published_ts": 1789263955.0,
-        "tag": "JGB",
-        "first_seen": 1789264837.0648293
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 08:15:47",
+  "updated_at": "2026-09-14 08:30:58",
   "yields": [
     {
       "label": "3년",
