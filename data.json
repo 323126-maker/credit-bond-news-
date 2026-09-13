@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Zd0hldklrdkVJaFVZVUNzZVZDM3VWX21lQlIzSU44OWdCdHl5MDdNTElwZmc3Z1g2eFFJZk9tWE5ibmY3dHM2N0dILUhHb19Ea1lLWUZrbzdTQmN1aDMwSdIBYEFVX3lxTE9Zd0hldklrdkVJaFVZVUNzZVZDM3VWX21lQlIzSU44OWdCdHl5MDdNTElwZmc3Z1g2eFFJZk9tWE5ibmY3dHM2N0dILUhHb19Ea1lLWUZrbzdTQmN1aDMwSQ?oc=5",
+        "headline": "채권시장 덮친 '유가 쇼크'…한은의 선제적 인상, 방파제되나",
+        "summary": "",
+        "source": "yna.co.kr",
+        "published": "09/13 06:35",
+        "published_ts": 1789248900.0,
+        "tag": null,
+        "first_seen": 1789258527.462705
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkhXcXVPQy1uRWctMzYzdFhtWmdpNW05c0ZkZHNiYUdyS3ZWRVlnTnlBbmVNMDRzSm85Z1BLSzN6VGxSTWRtNFJuSU1kZzY2ZEMzTlVmTUhNQ1J1NU9uQ2dOQUswRDZKZE81UWR4M2RjQnYza2p0UVZwdmVSempGdnpTcnNJTjlqWHpfRlNENHR2LTgtN0pDeFA2RTlYY0RmMlFWSFNodEpPdnA1YVdjSWp5NXFYVkxBRVlXR1FqMEtGSldtRXBxbnhPT05uNWZS?oc=5",
         "headline": "일반 라운드로 돌아오는 시점, 키메라 토토 진행 규칙",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789099212.0,
         "tag": null,
         "first_seen": 1789103726.7816741
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE05YXJtangzaklPQVA4Z0lidUc5REhwM1NTUTVNU1JvdTIxZ2ZiNGN6VlBoTDhzV2pMVWxtWVJ0Y0ExQ0ZuWWNzUzh4Q3dPalBOV2pKTW56d3IwNEtXcjdBNXlJd0Zram80MGNaVVJQc25PMTFBOWNTZlpyQTE?oc=5",
-        "headline": "[DCM] 대한전선, 실적 개선에도 CAPEX 發 재무부담 과제",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "09/11 10:58",
-        "published_ts": 1789091912.0,
-        "tag": null,
-        "first_seen": 1789107325.9654202
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 09:01:06",
+  "updated_at": "2026-09-13 09:15:51",
   "yields": [
     {
       "label": "3년",
