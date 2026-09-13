@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14WUVHVWhwRjVhZTJ4VEczZVAyME1QQXFfb1U0c29XNUxocFRCZEhsa2xqc0JYSkN0ZS1OLUVYVFBvX21XQ1FrcTY5UU1XRm5iREYwRUkzMzFiZHFIYURn0gFfQVVfeXFMTXhZRUdVaHBGNWFlMnhURzNlUDIwTVBBcV9vVTRzb1c1TGhwVEJkSGxrbGpzQlhKQ3RlLU4tRVhUUG9fbVdDUWtxNjlRTVdGbmJERjBFSTMzMWJkcUhhRGc?oc=5",
+        "headline": "기준금리 인상으로 기우는 추…미 국채 ‘10년물 금리’ 5% 넘나",
+        "summary": "",
+        "source": "경향신문",
+        "published": "09/13 20:26",
+        "published_ts": 1789298760.0,
+        "tag": null,
+        "first_seen": 1789318839.1711407
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9fY2l2MXczNmVZREVCOGJTMFBVa2ZfVkJrc0dvamktbEJndERyTlh3T083RzFOcm9ENXJfZ0I2dGVkTTM1cnNsc202X3RkYVdQWE80ZTZtWjJnNnpMTjk00gFfQVVfeXFMT19jaXYxdzM2ZVlERUI4YlMwUFVrZl9WQmtzR29qaS1sQmd0RHJOWHdPTzdHMU5yb0Q1cl9nQjZ0ZWRNMzVyc2xzbTZfdGRhV1BYTzRlNm1aMmc2ekxOOTQ?oc=5",
         "headline": "숨죽인 금융시장···미 10년물 국채 금리 5% 육박, 유가 100달러 돌파, 미국도 금리 올리나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789001940.0,
         "tag": null,
         "first_seen": 1789002930.6965997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VQk10NzhRS1M3a0RCeWk0WXoyUU5WdGpBd19LaVBKRkFCQUJNT2pUQXFQZEFERUNYZW1tVnRKc21DSnpIb0s1dUc2X3J2YklWVXA5OURIZHBjY0HSAWBBVV95cUxQeF9HNDJKa3JFZ09oU1RfVkctT3ZjM0h2QnJNaUFmM3U0VWlZd1FieDl2WEd5WEI1aHZTUUQ2ano4RS1zNlV3OUItMjJzc2RaRHdrUnlmQ2Z6UXVTX0s0d3g?oc=5",
-        "headline": "8월 국고채 금리 전 구간 상승…한은 연속 금리인상 영향",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "09/10 09:48",
-        "published_ts": 1789001317.0,
-        "tag": null,
-        "first_seen": 1789003867.6872115
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 01:45:47",
+  "updated_at": "2026-09-14 02:01:15",
   "yields": [
     {
       "label": "3년",
