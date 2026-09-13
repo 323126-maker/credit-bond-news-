@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNF9NMVdFLVpDSTByeFZSSTgyVlhrY2wwbW5vcWZwQll1SlFoNmJrc0NpTm4tUDU2REdkbjJBaGhWbFRHYWFVYlNZVWtXNVgzNXk0aFJ0bG9paFN5eHpucm1nMkpkQUJXQS15Z3h6bU8?oc=5",
+        "headline": "[이번주 환율] 1330원대까지 내려온 환율…FOMC·BOJ에 방향성 좌우",
+        "summary": "",
+        "source": "오피니언뉴스",
+        "published": "09/13 09:38",
+        "published_ts": 1789259914.0,
+        "tag": "JGB",
+        "first_seen": 1789260322.4565618
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXUFpyX3dOdXJCdVdFS2xqMXlQWndMdUd0bWlwNUJybjhKRUFTM242TldiQm0zQmF1dFltWDh2TERmNGZXWk4zUkVOay0xSjBVOEFlRmFibmdkOWtoX2VvYQ?oc=5",
         "headline": "[글로벌 증시 캘린더] 美·英·日 중앙은행 한 주에 다 모였다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789167600.0,
         "tag": "JGB",
         "first_seen": 1789169437.5391674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOeUVJVHpuNlVfUTBFcWZyVE0zcXhjN19jMmc2X19HSU9TSUZvQ0hmbW5ZMzVPV0Fyc3ZrY1hFeElvVng2WmxNbi14X3RPZWdNX1Y2VWJISTVTSC1MeHNtMW1tUlc0SlF1RTJDZFlfRGpwMkRJOG1VVnF2QVBnc1BBMXRtYzM3Qnd2X1BUUzhxRVFGUGFLSnMtWnlmLTFYbnJkaFZkWmtELWl6OXJOUWZfTVhVbXlFbFRiMWpUR2ZFdTc4eUNzMTJLbVRNcWFOX2tXTFFIN3k3ZzB6b1hUQTBWa05WNmdOYjNGQW1MSE5jbVdfNTh2T2o4SUkzQ1FONUdRZkFUTWx2NE1zWC1NcDRkWi13WWRoNjdSSUdsakNJQXBRT2puRTMzRTZwTnl1cGVxUXQ1NDIxNkh2bGdmYWNhWDh3?oc=5",
-        "headline": "도박 연말정산 자동 진행 기능의 종료 설정",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/12 07:53",
-        "published_ts": 1789167215.0,
-        "tag": "Fed",
-        "first_seen": 1789249523.4474773
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 09:30:54",
+  "updated_at": "2026-09-13 09:45:47",
   "yields": [
     {
       "label": "3년",
