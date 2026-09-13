@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mblBpeVczRkdfb3lia1ZJbmIzUVp2U1RrRzc2U0FXWUtDaElDY2NGWlIydFFYNHU1dUN5cTQxd283RTZRN3drRURzdE9kZHVWWXBYSHJKSG8zQVIwTkpnUzhxS2pOTVN20gFsQVVfeXFMUElVc01xLW5VSkxxX2hLczBmTTBxLUtTXzREX0hxVkFSWmhRejBCY3F3S0o3MXZMY3E2ZDBfWWNoRjlyU3hGSGVqT3FUdmM0MmVWaVNkcWFBb3FzM2FYTmxNUlB1cXFrNUdlendr?oc=5",
+        "headline": "ECB, 666조원 기업대출 담보에 ‘기후위험’ 반영…은행들 “계산식 공개하라”",
+        "summary": "",
+        "source": "impacton.net",
+        "published": "09/14 00:13",
+        "published_ts": 1789312422.0,
+        "tag": null,
+        "first_seen": 1789329635.5609756
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObXlVT09jZUoyd0NyWVdmaU1tMVJNQXI1SVNadHpHNUR0Z2VsYkR1eGF5U3VNVWpuWHppOUFaTjFPcTgyalp6QjdqYVdxamVSQTB5R3RWTHNmUHJ1empSWGFmV0VBSUIyR3NvZHBGZ3FGUnJvSi1zcVhsaF9TM0RwMDc5NjBVTHlWY1RzMWlCRXo4VTg?oc=5",
         "headline": "부동산 회사들은 채권 만기 도래로 인한 압박에 직면해 있습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789138560.0,
         "tag": null,
         "first_seen": 1789151431.5484562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBKcTIzSk0xYUp2dUxxdEpsNzFTNC0xUzF3NnRYTUJJb1I2MnJnZTRxZnUxR2JmYjF6QVU3R1l5Q3JxZDRZdDdTQnZDQjE1QkVvWTVaU1dyeTFVRDVsdWhHQ1FleC1OZmk1eDFKdXRRRk1HQktWNWw0?oc=5",
-        "headline": "S&P, 마진 약화로 Lucky Strike Entertainment 등급 하향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/11 23:55",
-        "published_ts": 1789138500.0,
-        "tag": null,
-        "first_seen": 1789138839.6870008
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 04:45:48",
+  "updated_at": "2026-09-14 05:00:59",
   "yields": [
     {
       "label": "3년",
