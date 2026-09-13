@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ0hycDBFT1UybUhEZHVDSy1qUHNCOEZfU05fNGJueEJRYmMwU3lLQ1FENl9OUnpWZER1YXg1dWpfdGNCbEpFaEZJZFZoTEZVcmtxMFM0OXpCVzNlYnZDMElR?oc=5",
+        "headline": "금리 더 오른다… 전쟁발 고유가에 `금리인상 사이클` 본격화",
+        "summary": "",
+        "source": "imaeil.com",
+        "published": "09/13 10:45",
+        "published_ts": 1789263955.0,
+        "tag": "JGB",
+        "first_seen": 1789264837.0648293
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNF9NMVdFLVpDSTByeFZSSTgyVlhrY2wwbW5vcWZwQll1SlFoNmJrc0NpTm4tUDU2REdkbjJBaGhWbFRHYWFVYlNZVWtXNVgzNXk0aFJ0bG9paFN5eHpucm1nMkpkQUJXQS15Z3h6bU8?oc=5",
         "headline": "[이번주 환율] 1330원대까지 내려온 환율…FOMC·BOJ에 방향성 좌우",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789169016.0,
         "tag": "JGB",
         "first_seen": 1789171241.9566436
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjYzZoMWFPemctaW9zaDN5aHFmbmZ2bjRJOHdLckxtYWxGVWdKbkFCdkZFVF81TXZ5cUwzZTZNQUF2N0YtazdKajlvaDZTaVl4eEw3aTlIYWNwUnRodTJReDlkd2FCWDJwWTFvRWNaYnHSAXRBVV95cUxNc2d6eUVwdkI0dkpWUXFRYldYdnZtakxtWWNaSWV6WERNMk1CdmtfWDVWeHVjR3RXdkR0Q3pTZzBfbkZ1OHBEa05wNzFxVTFvNkxpNFZjSDlKd2V6OE5oUm5nUVQ5ZXFscTRUNjU0MlE5emJNZQ?oc=5",
-        "headline": "엔화 가치 7개월 만에 최고…154엔대 유지",
-        "summary": "",
-        "source": "sports.hankooki.com",
-        "published": "09/12 08:00",
-        "published_ts": 1789167600.0,
-        "tag": "JGB",
-        "first_seen": 1789169437.5391674
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 10:45:47",
+  "updated_at": "2026-09-13 11:01:09",
   "yields": [
     {
       "label": "3년",
