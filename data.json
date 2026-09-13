@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aWmlMLV9PY2Z6T0JfSTFlVHlPQW83U29LdTl2V1JLMlhkeUtlM0xFYmxqUFRoSlB1emtWQUxwY1l2R2VpMk51S2RGUXVkOEpremlaY1lSYlRlQQ?oc=5",
+        "headline": "일본은행 금리 인상 전망…'엔 캐리 청산' 공포 재점화될까",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/14 08:00",
+        "published_ts": 1789340408.0,
+        "tag": "JGB",
+        "first_seen": 1789341323.0455637
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9mbnpnaDNOaHlxbVVOUU1jelY1YTMwbmMyM1RlWHM3dV95WnFyWFNKSkVtMVo3SjJFSmZDODlGeVRIMTlnSkpXOG5CU0RtWVoxNVVENnFhZHppSUhkMllibWg4UjZfSTdJeEhuSFVJbmNlS3pWMmY1clJ6VEM?oc=5",
+        "headline": "Can a $780,000 Portfolio Really Pay $4,750 a Month Without Touching Principal?",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "09/14 07:43",
+        "published_ts": 1789339413.0,
+        "tag": "Global",
+        "first_seen": 1789341323.0455637
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTZBWXFaRUR2SDh4N2JIN280QTVmb2pQNVFOZ3gzcXBDR3hfbms2SFNhY2QwWWRqWDA0UGRUeVBkM3k1ZWVZMklYa3BGTkRERjNOd2lsOUZ1NnRlX2lObVlUZVkzQWpuOVV3VUxFQXhTWmluTVpBaUhvWGZHQno0SWZxUWVUU3dMTWxoYXRBYVJzZkJkMTQweTdSUEhtYVhkYW1vR1Y5LUtYQQ?oc=5",
         "headline": "Trump says US interest rates should be lowest in the world",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789263955.0,
         "tag": "JGB",
         "first_seen": 1789264837.0648293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZE0xS185c1VzazgzbTB6ZERveGl0Uk9hVEF0SkFKVFUwRW1CdHRtdThOMF9SYkhFZDlaeFZSeXI1X2RKZy13V0ZyME80MlJ0WW1ObERLd21RVWxqeW9RMUtVWEpPRDZqMk9oT0l3Mlg0QlZ6ZkJZTTl2Q052U1ZxbXQtbFVjOGdG0gGcAUFVX3lxTE5LQUhlazVoMjMwUkFLRkoteU40Vk5XV0NEWUdSanhmV0M0d3M0QjBUaXBsLXZsUkttak85V1VmOFE1WlpkUnlKdEhxaGxjSUVZNWxKeVg2c2YwSC1BbWNWS1JJaGdENEVmaWt1b0gzamFtUjVpVHVvMnI5aE9xN1J2M3RkQnFrN0lmQmVHN3RLeHRVaXNpa2RUd05TUw?oc=5",
-        "headline": "[주간증시전망] 유가 100달러·美 10년물 금리 5% 돌파… FOMC도 대기 - 조선비즈",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "09/13 10:04",
-        "published_ts": 1789261440.0,
-        "tag": "JGB",
-        "first_seen": 1789334124.976337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vNF9NMVdFLVpDSTByeFZSSTgyVlhrY2wwbW5vcWZwQll1SlFoNmJrc0NpTm4tUDU2REdkbjJBaGhWbFRHYWFVYlNZVWtXNVgzNXk0aFJ0bG9paFN5eHpucm1nMkpkQUJXQS15Z3h6bU8?oc=5",
-        "headline": "[이번주 환율] 1330원대까지 내려온 환율…FOMC·BOJ에 방향성 좌우",
-        "summary": "",
-        "source": "오피니언뉴스",
-        "published": "09/13 09:38",
-        "published_ts": 1789259914.0,
-        "tag": "JGB",
-        "first_seen": 1789260322.4565618
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 08:01:08",
+  "updated_at": "2026-09-14 08:15:47",
   "yields": [
     {
       "label": "3년",
