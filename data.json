@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXhvN0ozSXlydmRRYmVQVFJSTjlfUDFLaGJQaXNpQURVT0lkcDRJd3lITWVSSHlHbFVnSjg4NERVT1ZOc3EyRFBCckZSd3h3YmVRUWMxenQxOTA1SGYtLUdQNi1QdUFybmlJZXRBNUJxblQ1M2hYc2FfVzVYeVJodjJyX1IxV3hIT2p6bGhxYXhESnNjQkk5X285WWZUNWNtTUNMaQ?oc=5",
+        "headline": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
+        "summary": "",
+        "source": "Bloomberg Law News",
+        "published": "09/14 05:00",
+        "published_ts": 1789329600.0,
+        "tag": "Fed",
+        "first_seen": 1789330522.8566804
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEalg1RHMteUxiY1ZRQmRmdlhCUmhoLXotWjJfbUlUMzVlRTZISU5VXzFyTFg5cGo1MlIweGtoRnhLSjVjcHo5UkRsU3dUaXRpRWJ0aXZkRTcwdWJyOFJZNFNVYmpJTnVvYU9ienBKRkFTemxOT0E?oc=5",
         "headline": "Treasury Yields Near 5%, But PepsiCo's 54-Year Dividend Growth Streak Keeps It Competitive for Income Investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789246800.0,
         "tag": "Fed",
         "first_seen": 1789316124.4462614
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLUdKbmhPcVA3dWhicjdHa05KSHdzdVRpOXUxekVnZjdsWk5aXzJ1dE1iS0x3S054Sm05Qm9JRHRwbzNZNTFhcFFNM0lZWmZ1TE84VHVCcnlubWdJZ3VPTHVvOXJzU1FKVUxZcFdhZDRucnNERktXeHZQVVZLVTF0LW9BajdzMHpoVEE?oc=5",
-        "headline": "Middle East turmoil drives energy and borrowing surge, Mohamed A. El-Erian warns",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "09/13 05:05",
-        "published_ts": 1789243511.0,
-        "tag": "Strategist",
-        "first_seen": 1789295464.7981467
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 05:00:59",
+  "updated_at": "2026-09-14 05:15:49",
   "yields": [
     {
       "label": "3년",
