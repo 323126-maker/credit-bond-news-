@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43cGQwX2ZpRm5CVlIzNzV6Um9BekRQR2lQVWZEWFRTNW5wQjdlRTNkcXI0eFJrekxQa0hxcEhpQllNNXJhZC1QbHNHb0hsMkxGWmdWUXhjb185XzQtSm9WTDFHWnhVMENZaU1Ybnk0dGxybUnSAXdBVV95cUxQU091RHBoazdkWW84QWRRN1dYRzh5YkhPdHRaLVhSMzVoajhIclR5cF9FeGlJcVhxTkc3UlFHa0pCb0FJRFlaajZzNkNLVktpc1JKakducFh0MHhJVXM0VHN2VlN6NXNsY1AwSUpwYzJhV2N1VFl2NA?oc=5",
+        "headline": "국고채, 미·이란 지정학 리스크·유가 상승에 ‘비상’",
+        "summary": "",
+        "source": "straightnews.co.kr",
+        "published": "09/13 10:27",
+        "published_ts": 1789262855.0,
+        "tag": null,
+        "first_seen": 1789265726.892101
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wdWZ6NnJJdl9MSnM3eUVCZ18zN3pZUzNqWkhpRmRRbXFMcHV1WTFuaHc2VkpQUU5RaXJmTnI0RkNzQTdBYV9vbEZxRGpKNkM3NjJIdDkxUGhabHpSMmhpWXowVUNpc3dR?oc=5",
         "headline": "국제유가 상승과 금리 인상, 채권시장에 초긴장 조성",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "디지털데일리",
         "published": "09/08 12:41",
         "published_ts": 1788838869.0,
-        "tag": null,
-        "first_seen": 1788839127.2467823
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9Idk54LUlibFFHU0x0VzBXcmVQdm1sSEp1WW0yVWp4M0Q4R1Q3LWtqUE5GYlJuWmNYVnV6ektFdUs2N0FjR3FlSjZhZXB4akhlSzNyeNIBVEFVX3lxTE9Idk54LUlibFFHU0x0VzBXcmVQdm1sSEp1WW0yVWp4M0Q4R1Q3LWtqUE5GYlJuWmNYVnV6ektFdUs2N0FjR3FlSjZhZXB4akhlSzNyeA?oc=5",
-        "headline": "\"성장률 뛰는데\"…기업대출은 투자보다 운영에 쏠렸다",
-        "summary": "",
-        "source": "더팩트",
-        "published": "09/08 11:08",
-        "published_ts": 1788833280.0,
         "tag": null,
         "first_seen": 1788839127.2467823
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 11:01:09",
+  "updated_at": "2026-09-13 11:15:51",
   "yields": [
     {
       "label": "3년",
