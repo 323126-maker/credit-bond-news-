@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObXlVT09jZUoyd0NyWVdmaU1tMVJNQXI1SVNadHpHNUR0Z2VsYkR1eGF5U3VNVWpuWHppOUFaTjFPcTgyalp6QjdqYVdxamVSQTB5R3RWTHNmUHJ1empSWGFmV0VBSUIyR3NvZHBGZ3FGUnJvSi1zcVhsaF9TM0RwMDc5NjBVTHlWY1RzMWlCRXo4VTg?oc=5",
+        "headline": "부동산 회사들은 채권 만기 도래로 인한 압박에 직면해 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/13 22:18",
+        "published_ts": 1789305517.0,
+        "tag": null,
+        "first_seen": 1789309829.7067487
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFYwa2RvbmN2dDloRDV1MGxuV1U3bFE3WUFwLWdGT0VIam43c1Y4M0F1eENHay13T3ZqWnM1Vmt5UFB2Z0tZMmlubm9pUHM0cDFuZmphb2c2aXpKM3FxekRvaDdESWFManVEWHZSYzVER1VEWGtJckxyOGJJMUxGZTlWaHNsdk9xVEVYNw?oc=5",
         "headline": "AI 열풍의 가장 조용한 뒷골목, 채권시장에서 켜진 경고등",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789128140.0,
         "tag": null,
         "first_seen": 1789143335.7732253
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5yMjJjcmJEQ3VGNmtaM0lYWWV4MkYtdXk4bmdKbG5CNW5TTVZ2dXJJX2h3WVUwUWFoLWw3aW1mbkF6NHBqWVllQ01aZ0RpTDZjcXY1TllObFVNdGlnSm9oRNIBYEFVX3lxTE5yMjJjcmJEQ3VGNmtaM0lYWWV4MkYtdXk4bmdKbG5CNW5TTVZ2dXJJX2h3WVUwUWFoLWw3aW1mbkF6NHBqWVllQ01aZ0RpTDZjcXY1TllObFVNdGlnSm9oRA?oc=5",
-        "headline": "중동 불안에 '기름값·국채금리' 급등…코스피 7,000 반납",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/11 20:17",
-        "published_ts": 1789125442.0,
-        "tag": null,
-        "first_seen": 1789201829.0032055
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 23:20:46",
+  "updated_at": "2026-09-13 23:30:53",
   "yields": [
     {
       "label": "3년",
