@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOUZIaTM3Rko2RUdRdU5pcXFtNjNpd1RSZ0NMOXdNcXlpbFM1anI4bEY1ODZYVE9IbXYwN1RrWElBNmtBMDhoSm9NRWJERTdxVldmSV92amtZWkltRW1KWVYxeEpDTDBnTG0zQnI5blJUWHRCNzN1OFA0eHFSQTJJRUtUV3V4UzhYNjNDNlc4dWE2aXk0VGY5TWtYLS1ucUdPS0tqSzY4VG9waUxVRTcwMFJDVWNUTG45Nlc2ZFFzeS1EbUNXNHF3Q2dvMm5DMG8xVmQ5ZU9fU2JXUkRZSzZBdGVSQXN6aUEy?oc=5",
+        "headline": "'This is the test': All eyes on US Fed to tackle high inflation",
+        "summary": "",
+        "source": "KMVU FOX 26 Medford",
+        "published": "09/13 11:29",
+        "published_ts": 1789266573.0,
+        "tag": "Fed",
+        "first_seen": 1789266697.992211
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZ0hycDBFT1UybUhEZHVDSy1qUHNCOEZfU05fNGJueEJRYmMwU3lLQ1FENl9OUnpWZER1YXg1dWpfdGNCbEpFaEZJZFZoTEZVcmtxMFM0OXpCVzNlYnZDMElR?oc=5",
         "headline": "금리 더 오른다… 전쟁발 고유가에 `금리인상 사이클` 본격화",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789169760.0,
         "tag": "JGB",
         "first_seen": 1789170324.4155467
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVkV1UC10UlhVU0xId1hRZnBYWnVNTHhVOWxYMjdmbDdfLVk3NXhhQjItTUxOZFFBbF9laEs0T1AzTEJZeUgyb0FqX25wN19va2R1NFlMVEgwYlAtNmRtNFBySFdDTkVUNzE1RnhUMVlBZGFVLUptbUtLQ19PWHpadGxXVTBIRlhsZDQ1SWwyNHoweVhVd2Y1VklhZG1VckJJOXhIZU5XVFBXS19Hc1dfMg?oc=5",
-        "headline": "Lombard: GPIF’s overweight position in Japanese government bonds could trigger global carry trade unwinding; Banco Santander: GPIF may sell off $62 billion in U.S. Treasuries!",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "09/12 08:23",
-        "published_ts": 1789169016.0,
-        "tag": "JGB",
-        "first_seen": 1789171241.9566436
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 11:15:51",
+  "updated_at": "2026-09-13 11:32:01",
   "yields": [
     {
       "label": "3년",
