@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFYwa2RvbmN2dDloRDV1MGxuV1U3bFE3WUFwLWdGT0VIam43c1Y4M0F1eENHay13T3ZqWnM1Vmt5UFB2Z0tZMmlubm9pUHM0cDFuZmphb2c2aXpKM3FxekRvaDdESWFManVEWHZSYzVER1VEWGtJckxyOGJJMUxGZTlWaHNsdk9xVEVYNw?oc=5",
+        "headline": "AI 열풍의 가장 조용한 뒷골목, 채권시장에서 켜진 경고등",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "09/13 20:09",
+        "published_ts": 1789297740.0,
+        "tag": null,
+        "first_seen": 1789298123.3067598
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53RVR4QVh5OWFfd09sMklIYXlfM1VCRzRYc0J4UjdhM005Y0pwTmFHMl9sam5jSERjYmN1T0x1OVhsOUl3TWpzbl9nTUxQMEdPQThvc0xvbVc3Zw?oc=5",
         "headline": "한투, 글로벌 금융사와 투자상품 공동개발",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789121015.0,
         "tag": null,
         "first_seen": 1789121725.044366
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52dndEaHBqZ2tZNDNMNnFpRnZud2hGUHNRdkhZbFNhcXQ1UnAzZUI2a0QxNktHUUZHaXQybk50a1J5RGIwVjkxZTdUM2ZoX0xia2dLQg?oc=5",
-        "headline": "[채권마감] 미국채 발작에…국고3년 4% 진입 ‘2년10개월만 처음’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/11 18:17",
-        "published_ts": 1789118220.0,
-        "tag": null,
-        "first_seen": 1789119032.663652
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-13 20:01:03",
+  "updated_at": "2026-09-13 20:15:45",
   "yields": [
     {
       "label": "3년",
