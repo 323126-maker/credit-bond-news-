@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxONm12Z1RaZEQ2cllBRnA2aEhiYmE1WXIwYTM1d1FhNmotZHp2RVFNQWswMDBoRHBxYk16SXRWYlpfeFNFTTE3bkhFRUFnYTQyaDgwOFhiS2dDajgwV0tOOXNrdmZxMklsUjBCS0psLTZVel9haXpmMU82SlJSaFk2WUl5alRlQjB6Z2NEbWI3cFl2WjA?oc=5",
+        "headline": "Warsh’s Communications Policy Faces Its First Big Test",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/15 05:07",
+        "published_ts": 1789416441.0,
+        "tag": "Fed",
+        "first_seen": 1789416925.4388244
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMk1zNUJHbzNzT094Qmt2NmpaZXJTNzdaRTM0MUxPVE1DTVRXdEJwN2FESjQ4bjZkVnZiaVpvTWVxSTZQb2hHZnlZUG5KNUF1NUgzblV5VmRsRGVvWTF0bDlhWFJrTnhRZ0c0dHZFQlZscnFmaDd4Tk9HWlI3WXgwNVJjNV8zSkRUX05saXFrcWVtdE5CTGlIUEVGUQ?oc=5",
+        "headline": "Fed prepares for first rate hike in 3 years as investors eye surging yields",
+        "summary": "",
+        "source": "pionline.com",
+        "published": "09/15 05:02",
+        "published_ts": 1789416120.0,
+        "tag": "Fed",
+        "first_seen": 1789416925.4388244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPV2dZaDRyYlY2d2wyb2ZFMEFYNmZsODVOaEZYSDhnMTZNVnF0WV9fS21aLXFNelRCUXFVNG1hX0lpUGhMMXlBVjUxZlBMZFFQdnpJcS1tX29zQTBQenUtSnA1VEtrNHh5andIeDk2dzFTWFBKek1oRHlFRjN2SEsxTEZKNkE4dTB3bkthU2hnNVkyWWM2WklraDVPLW5iVExIWkE?oc=5",
         "headline": "Columbia Strategic Municipal Income Fund Q2 2026 Commentary",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789390059.0,
         "tag": "Fed",
         "first_seen": 1789414036.1671712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWG1Zb0dyTzNELXF3aWVIQ1o4TktOUWZJZlM2YzJLN0taTy1hNmRRNXZHSE54ZmJtcTlsdUNGcjdkZUpvUGgxUS1jRmdOTTlZdVBFaWdMSXVrNG42Q0xOM205ZXNETkxCS3ZDSmdGdXBEZnBLdGN4SEg4Tnl0UWN5Ni1RRWFkdEg5S2Y0?oc=5",
-        "headline": "Gold Below $4300, Fed 90% Sure to Raise Rates as Oil Jumps",
-        "summary": "",
-        "source": "BullionVault",
-        "published": "09/14 21:38",
-        "published_ts": 1789389495.0,
-        "tag": "Strategist",
-        "first_seen": 1789394439.5799477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00UkZmOGxXM2tHN1VaLTZYRW8xNlFkdkkxd0s5U0RhTk8zQVVwbFVwS1FvUHR0V04xam5EYmQ1VTc5elg3R0YxVS1vcU5lNTRqMWoxU2taUlFITnR6UXdCeF82V3U?oc=5",
-        "headline": "Kevin Warsh Faces First Rate Hike Test as Fed Confronts Rising Inflation",
-        "summary": "",
-        "source": "mezha.net",
-        "published": "09/14 21:37",
-        "published_ts": 1789389447.0,
-        "tag": "Fed",
-        "first_seen": 1789393525.4580922
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 05:01:04",
+  "updated_at": "2026-09-15 05:15:53",
   "yields": [
     {
       "label": "3년",
