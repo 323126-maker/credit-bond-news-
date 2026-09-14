@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPQmtkbHpwU21MVUsxOWVIVUI2NjFxaDNiR1JrOWdmNkRpbzVpelJfR0NoRl8tUVBGaW9yTEdfM1VacFdjQUR1dTdKcWVjX205cXJ2V244VFExdkRzMkpmeFNpTDRRbTcxYWlkMWhRc0d3UVJNNGhpVTBqZHRIdGtWOWtrOHhnazhNZHhBeWhOY3kweHctY0JHellpSF85cWEyenJOQUJrUDd4RmtkZ0I4enhxSzZFbjBrdThyMVJjY21Xa1JjblVKZ2ln?oc=5",
+        "headline": "'Kevin Warsh has a conundrum': Wall Street weighs Fed's next move as bond yields rise",
+        "summary": "",
+        "source": "Yahoo Finance UK",
+        "published": "09/14 13:54",
+        "published_ts": 1789361640.0,
+        "tag": "Fed",
+        "first_seen": 1789362040.08108
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQRHNMUHJHVy1FT1R1d0JkSUt2TFdRZzItNlV6VVZxMUZoSE5lNFo2WGIydG9iLU9MZUtzWVI5dTFXZHAyeHNPdkRjT2hxNEptTm5zX1dtOGlnS3JPcFpJVFBCMGxRbW9PUm9xNXM0V2FITlJvQV9fV1VBTGpMcnlkd2NYSHhHSmlkQ1ZuZlpXc2xyOEMtaXFrRkhqTEZzN0FWa3hweFV6ZHU2V3JUQjBYcFZ1ajQyUld1cEswek9jR0ZHVnl3Y2pwRTFaakdmOFlLemZxaWRrSWl1M1RrT3F1ek5TVk9ndFRvREVZLTJSeDhYSHNSa2hNaF9kNUtzS202MDVkWjkwOXpUd3ZERjB0RDdUNHpEOHQtdElWdWVBQTdyd2tMUFFwMU05QmJtb0J0ZmtLckx5aEg1aExwbGtKUUtfYUZ6MTItSkV3?oc=5",
         "headline": "Tatjana Greil-Castro on Bonds : «I Almost Find Kevin Warsh Likeable»",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789330120.0,
         "tag": "Fed",
         "first_seen": 1789354839.0549018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaWNBN0djRzd4MDQzQ3lIcWN6ejNMMUthXzNsSF9ZOWE2aHU2a2dlazNJTUZja2Y0cVVsVzlzbVpzNGlzbW1vUm5FNXNVYURMOGNfeEpUbDhSRndray1Kbm5jWjJmWl9Gal9TeVIyZ0NMdHZCVU0wNUwzQnl5MkN0QVVIbFlQUzU1dU5MVkMxUDdZU1NmaFQwWTNkRXpKZ0x5R1JKc1VyY1lIOXY5c1lrSDhZUS1CclBQZEI3M3JCb0Ixb3lHOE9lVm9JLXlCeDgzMF9JNUtHa1VCcUxobF8zclFmNGtiTWxlZWhj?oc=5",
-        "headline": "MRVL Stock Rises Premarket: Marvell Ships Over 5M Photonic Chips Ahead Of S&P 500 Entry",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "09/14 05:04",
-        "published_ts": 1789329884.0,
-        "tag": "Strategist",
-        "first_seen": 1789358441.4931443
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 13:45:50",
+  "updated_at": "2026-09-14 14:01:04",
   "yields": [
     {
       "label": "3년",
