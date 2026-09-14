@@ -62,6 +62,16 @@
         "first_seen": 1789380924.3271182
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1saDhoQTlTcWZXY1EwNkZJcXdwdnhHT3VFajBOWTlDWEE0MkYwenZieDZmOTNBdk9YaEV4OFNDZGRVWEJlbFk1VUtCZzE0QQ?oc=5",
+        "headline": "“미국 또 금리 올리나”…숨죽인 韓 채권시장, 금리 발작 경계령",
+        "summary": "",
+        "source": "dt.co.kr",
+        "published": "09/14 18:34",
+        "published_ts": 1789378485.0,
+        "tag": null,
+        "first_seen": 1789395385.89844
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZUUhpMFk5cHVMZnZuZjdyQlBLeWtIajZNTjVGUUVaa1VWT3V4UGFldHlCQUFfM1d0SGh0MHZRWnhhcDJOTUhsOWJBNkJYZEF1YjV2R2V1OXNRRFI5MnBzdXc5TThCbExTWEN5N2NZYWQ?oc=5",
         "headline": "[외환-마감] FOMC 앞두고 1,340원대 레인지 장세…1.40원↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789298720.0,
         "tag": null,
         "first_seen": 1789320634.137065
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdFYwa2RvbmN2dDloRDV1MGxuV1U3bFE3WUFwLWdGT0VIam43c1Y4M0F1eENHay13T3ZqWnM1Vmt5UFB2Z0tZMmlubm9pUHM0cDFuZmphb2c2aXpKM3FxekRvaDdESWFManVEWHZSYzVER1VEWGtJckxyOGJJMUxGZTlWaHNsdk9xVEVYNw?oc=5",
-        "headline": "AI 열풍의 가장 조용한 뒷골목, 채권시장에서 켜진 경고등",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "09/13 20:09",
-        "published_ts": 1789297740.0,
-        "tag": null,
-        "first_seen": 1789298123.3067598
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQXVOZjJwU192TWc4UHVEdE1sN0o1LW4yODgxV09jQlhta0xJaEE0REZ0a21qTk1KdWZsWDg3NkJpcHhzSkdFMjFkaXhXZjkzSGx0c3ZucWRFT2Q2cEJKZXRZSEc4WkdnbHFzbTNmeVp4eWplakdQamF6TThQZzlJLXI0WmhKMGJoZU5Tcm95QUJNcU5nWjlVVmJ2bndjd19xRlJr?oc=5",
+        "headline": "A 5% Treasury Yield Raises New Risks for Markets, Economy",
+        "summary": "",
+        "source": "Advisor Perspectives",
+        "published": "09/14 23:05",
+        "published_ts": 1789394727.0,
+        "tag": "Global",
+        "first_seen": 1789395385.89844
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2tzMlAycGJSY29zUnd6eE1XR3cxdW9EcmpfU24zR0luQXdLYjBlTVI2WDloMGFHbGFLaGdPWHpJdFk5MnotVmVYeXVNako5dFcwVk9tVkNQN2xLMG1zNlZLMmRTSW5RN1daMWt5aXRva2VkRmQ4d3lHeTU3a3NnSTdaU2NKODl3Q1J5ZXRqdHhFUXNVemU5SjFJRUVSaC1CTkx1VTI3U29KYVFobGpDdksxWVFTQjV3?oc=5",
         "headline": "Why the Bond Market Expects Two More Rate Hikes and Three Cuts After That",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789369008.0,
         "tag": "JGB",
         "first_seen": 1789371923.7610712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9xZ3hFUjJ0Vl9xekVxYlJaRVpUU2xqYzNJd05mUWxVY2xWVlEydWhkVWZaeDRpOHdrazdHbzBBMnlWMDBHVE8wTnRJdmxWRU1GX2prYmZ6a0c0WkNoc1c4LVZRbGlxUWVHS0ZhR20zcw?oc=5",
-        "headline": "엔화 약세·물가 압력에...BOJ, 금리인상 가능성 부각 [NH證]",
-        "summary": "",
-        "source": "조세일보",
-        "published": "09/14 15:52",
-        "published_ts": 1789368774.0,
-        "tag": "JGB",
-        "first_seen": 1789370122.6662953
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 23:12:43",
+  "updated_at": "2026-09-14 23:16:52",
   "yields": [
     {
       "label": "3년",
