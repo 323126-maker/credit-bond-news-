@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzFyNjV4S1pJZGljRTMyVnZERWVCblBqMU1zNENja253U2l4YkJTdzhvbE45XzBGX2o4VEJLTEkxSGJ4Z0U1dXVSX3pZaXJWZjN1RHZ5WS1DdHgwdUVCY3VBcm5IcmdnV2RXRzZYYTRpeUxvUUk1VGtZbW9fLWROcUIzMjNzbVFwdWk3T1pxV2RKNWlpV2FzazVVSXFqUQ?oc=5",
+        "headline": "Five spots to watch as the bond market hits 5% By Reuters",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/15 01:42",
+        "published_ts": 1789404134.0,
+        "tag": "Global",
+        "first_seen": 1789404324.0566
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUFaXzJxSElvRkpCVThFSTIxUlFUa1ZjT0JSa0E2WEZCX0Y5TnFpRWhPU1VRX2RGZkNyX1g0eXhRZ2xaUjRkSmZrLVBMaU14cEo1V19va2NYN3dzZVQwallQSnlMa1pjSGt5c3ZKRVFPNElQR19YNHVYeDBHX05XdEFrZTUwMXNqR3VfeVNDMEp5XzV5UWUxM3U3SVBDMlRtZGpWM1BJSlk3eEdobkE?oc=5",
+        "headline": "Global yield spike reflects energy shocks, not policy failure - TS Lombard",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/15 01:35",
+        "published_ts": 1789403702.0,
+        "tag": "Strategist",
+        "first_seen": 1789404324.0566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVU9FSk1TZDFYdU1uOXI2S2ZDMXBIUmQ3NnRsUWNtU0JRZ19BR3JPd1E3VkZRdWRwNXZmclVqdHljMnpwb1RBRDVpLXRMZ0JXQ2RKcWpBTXBUSXdxQXFGYmFhVjJSN2lYbllVTnEybVhUTVRVNnZUcVlPVGdQVFI2RV9IeGdpWnluUkJUaDJIaWZDTWFnUHRNUXY5TWE0Q01OX040cFNLMA?oc=5",
         "headline": "Why the US Treasury Is Battling the Bond Market and What Investors Can Do About It",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789380000.0,
         "tag": "Global",
         "first_seen": 1789400725.3894825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcVFWVzZXbzZteXlnZW5TN1lnVUtfTUtXV1BWMjE3WXhDXzBCZTRhMkpwRmM5ZXItVVFNcGlra2lwNFVwSGFTTndBRWNZUk9ONndHOVBkdG5YMHlhRWNLTGJ5QU1vektLMDZPb1pQbDJHS1UyYWNvVktyZ2JUc0I0a0lrMlVoeVdYcFAtcVh4Ry1OZW1sSTR4c0I5Ul9za19VMzJGXzdaaTd6VEtyUEEyT1JDdEtKUUxEbUZGUzM3NlZHUXI0N0VuRGZLMFZJRS1tLWVfRkZGRndUMWlRWUNXbzM3ZzFQRHZnSC0tNzk2XzdRMGdUUjF4eHBCZ0RqR3BYVWRqSVRDQlk?oc=5",
-        "headline": "Fed rate hike on Wednesday now likely, say economists, and at least one more to follow",
-        "summary": "",
-        "source": "lufkindailynews.com",
-        "published": "09/14 18:53",
-        "published_ts": 1789379592.0,
-        "tag": "Fed",
-        "first_seen": 1789380924.3271182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTnlJc1ZQcURacDlkZ1Z4el9scG9jVHNOMnFyWnFVUDZYNGg0OUJ1V18yVlRfMzR0WFJhY2hrSDR6N1lFbzRHZzJ1WjRQYzQ3aEtHR0l6c0RaRnJnTmVEZHZQWWtWb0lSYlBEbFhyMll6dzVkT0dwOHpvQjJhbGQ0OUxxTXdOdEJKX0l5Y1cyTEM0WjFoaUN3V1puYWZmX2Zsb3ZwZ09zR1RnX3ZIbUttc3VKT1Bfb3NMaF9jQUIwVW91UQ?oc=5",
-        "headline": "Fed’s Warsh poised to pull trigger and raise rates for the first time under his watch",
-        "summary": "",
-        "source": "The Business Times",
-        "published": "09/14 18:46",
-        "published_ts": 1789379160.0,
-        "tag": "Fed",
-        "first_seen": 1789380040.8180807
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 01:30:55",
+  "updated_at": "2026-09-15 01:45:50",
   "yields": [
     {
       "label": "3년",
