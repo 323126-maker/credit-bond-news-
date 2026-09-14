@@ -1950,6 +1950,26 @@
         "first_seen": 1789384526.235171
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ2ZhcnB0a2xLd1ZoRXVlOGYtZ2prLUR4OWZLVXZfSkZKNFdhUGZ2d1ZXd2pGeUNSZE9sNkx1RTN3SlpzejVKVkhIVnFzbUNHSUd0T2NNY29nMENnRWxCUjBOUjJydXFXcWx4ZW10TkZzMFpScVhZbHdkUnU1bUM3bGFfZ3RfZ1FpcGpHZF9pczdNYUZ1QjZoa3dRR0Z2M3hKQlZhSnU0LU0?oc=5",
+        "headline": "Biggest risk for sinking bond market is Fed standing pat",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/14 19:54",
+        "published_ts": 1789383256.0,
+        "tag": "Fed",
+        "first_seen": 1789408839.0643454
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
+        "headline": "Fed's table is set for a rate hike, a first under Warsh",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/14 19:48",
+        "published_ts": 1789382921.0,
+        "tag": "Fed",
+        "first_seen": 1789408839.0643454
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX0JRdEUyd1dXcldZNVNkR2hhOHpKb195QWVNR2dGSkpJZUFaV2tpNjhsM1F6WHpyMG8weXFHNUNWd3Jxa3JseEtQSEpzNXhyYWIxV2hOV0l3aHZDQzFnQUpGVXV0VHN4NExUdFBJMXF5RzNZWG82TW9VWFRCdVNHX1hsOHZXaGh5UzBmTTU0QVZ6NkRLRkYyRnJYZXNodGpXMVN6SzNmUlU?oc=5",
         "headline": "Fed Rate Hike Takes Center Stage in Packed Central Bank Week",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789381300.0,
         "tag": "JGB",
         "first_seen": 1789382725.255273
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYklTYm91SU1CREwzYUtqSFN5MG15M0lvUnpVY3NfcmF3R3gzb25zVHVQSU1LbF9tdFlHWllhN2FqV0dNdW02aVJGUG9yV2FGTnk3dVZkRTVIRjVxMnNiV19OaVJwSkw3eU1Qb2hzV3djZ0xOa1NBeU13X0hoQjJvMjRLQ3ZrZzBDeHNQYl9wc1BtS18zeG90T0hPYlFGbkNTYmlmcGNuczQ3dFA3R2pNSV9uajdBbXZ1RUk0?oc=5",
-        "headline": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "09/14 19:15",
-        "published_ts": 1789380950.0,
-        "tag": "Fed",
-        "first_seen": 1789382725.255273
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUFdvdjRHdmxjM2lOQ3V1ZnhWOW9kdXdnR2IxNmhqa0FKRXo1SUdHemFRRE13cDJ1VzBmQ3U4LVBJME5COWZXaEtnWnQyaTduNDFoSW5oNFZScEdxbDEwMV80Wi1kblBmNy1QV2laZmdqcGtqWFp2T3ZrMlVxTnVUb0l2aF9pWTJremRxYUZGc3BhQkFWWHZZ?oc=5",
-        "headline": "Bank of Japan Outlook: Rate Hike Likely to Support Yen",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/14 19:10",
-        "published_ts": 1789380649.0,
-        "tag": "JGB",
-        "first_seen": 1789380924.3271182
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 02:45:50",
+  "updated_at": "2026-09-15 03:01:02",
   "yields": [
     {
       "label": "3년",
