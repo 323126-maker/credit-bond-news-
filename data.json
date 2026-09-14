@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1IbTMtcnNObDMxalgtQzEwT2R2dlhMdURPa2N5VjBpdDJ3TlF2SHBHdHNPcjhpOE1nWWZMWHg1ZmhmNzBUWk84aVpZZmJIVGtDTnEwMUlZZnh3a1RlNzRLVmpPWUFPUzZSSHg3enF3?oc=5",
+        "headline": "S&P, 재정 적자 확대 및 부채 증가로 피지 전망 ’부정적’ 하향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/14 22:40",
+        "published_ts": 1789393200.0,
+        "tag": null,
+        "first_seen": 1789393525.4580922
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9CZ3VLTlRRZ3JuMUNVUERGdm9fWVFac0NJTE0tdlhYeHlTZEIzZjNRd3U0NEM2djBTS0k5MGZ5RlczYWFwR0s3NFNkZ0JwMFlreUwtbEpCY29vZW5WQkRjREk4T1Vxd1hCTEpGV1JpeDk3MGc?oc=5",
         "headline": "트랜스다임 그룹, 2028년 만기 6.75% 선순위 담보 채권 현금 매입 공개제안 개시",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789297740.0,
         "tag": null,
         "first_seen": 1789298123.3067598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE53RVR4QVh5OWFfd09sMklIYXlfM1VCRzRYc0J4UjdhM005Y0pwTmFHMl9sam5jSERjYmN1T0x1OVhsOUl3TWpzbl9nTUxQMEdPQThvc0xvbVc3Zw?oc=5",
-        "headline": "한투, 글로벌 금융사와 투자상품 공동개발",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/13 18:31",
-        "published_ts": 1789291885.0,
-        "tag": null,
-        "first_seen": 1789292727.9711878
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,26 @@
         "first_seen": 1789391727.739503
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00UkZmOGxXM2tHN1VaLTZYRW8xNlFkdkkxd0s5U0RhTk8zQVVwbFVwS1FvUHR0V04xam5EYmQ1VTc5elg3R0YxVS1vcU5lNTRqMWoxU2taUlFITnR6UXdCeF82V3U?oc=5",
+        "headline": "Kevin Warsh Faces First Rate Hike Test as Fed Confronts Rising Inflation",
+        "summary": "",
+        "source": "mezha.net",
+        "published": "09/14 21:37",
+        "published_ts": 1789389447.0,
+        "tag": "Fed",
+        "first_seen": 1789393525.4580922
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPTnB2MnhrV0x3dWt2ZEd0SzJXeTdvX05jb3J2b1Y1QVBzZ084dlVQS3FHSVc4dktSeVJtM0c5cnB5Qld3ZllYQWdsWHE4dE93czQ4UER0UGh3WXVsdm52SFVNLUQ0ZjFObzlSMGU1UjliMVRRWXp6Zno0cGtaQi1PNlA1V0tMYUE2V1ZpYldCWVhic1JWWU1UcmdRck5IZFhfMEFDU09XUnkzZ2FLQU1nTUtaWFN2M2RjWUE?oc=5",
+        "headline": "If the AI bubble bursts, here’s what markets could face",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/14 21:03",
+        "published_ts": 1789387380.0,
+        "tag": "Global",
+        "first_seen": 1789393525.4580922
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNQXBidzJraEpjWFNjb3VCeUVFaFNheU1wSENMMEk2cEtTcHFTVjA1VHUtS1l2X0lFM1lvQXJFSEQxWlNyUlB5T2NhWnVtNVFaZm5QLUdvWUliY1JVN1dncnlxX0hsbzdMS3prbFVOOVQ0Mm4zZFNMSGthUlhtNWxTek4zY0NQcGRveXc?oc=5",
         "headline": "Fed Rate Hike Looms as Inflation Puts Trump and Kevin Warsh on a Collision Course",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789366709.0,
         "tag": "Global",
         "first_seen": 1789367433.8193762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUkJvb01BUDczbl9Tb0xseXRkOXNyUmNuOHN0Qm5Dek5JbTdoTnRWZ3N1dXJlbFg1M2hGd2o1SDZvcHJranlsLU9pSGtTWnZiYnVXZHJNXzFGbWFfemMzSXU0MlFqT2pHTm5rUWRRX3dEX1RzM05kUUwxOGg4QnlkVnBpdGJReVpYNmdiSzJ5NUZqNTJFV1BPV1BkN0x6N01WMEJ3M3NRbGFaeENDT1hwZTM3TlNiU2VxeUN0blpUdWRDcWc?oc=5",
-        "headline": "UK Markets Brief: A BoE Rate Hike Surprise Is Still Possible, and Amazon Joins the Bond Boom",
-        "summary": "",
-        "source": "global.morningstar.com",
-        "published": "09/14 15:17",
-        "published_ts": 1789366629.0,
-        "tag": "Global",
-        "first_seen": 1789367433.8193762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZXFXY3Y5VmRjVVZTT21lV215eDlGUF9KcGZVV1dmb0x2NXlkbWJkV2trSXR3RkJFbjQtQkNGYmRvWlhKMDBGeWVoUDBFSVhyNG84X1dIbzYzUnEtOUM4QkQ2cVNuX1lZT1BIajY0QjJwZGpPZ2hUQllOaHFSeGxUc01kbTMtWWxzbExvUkFoWWpFcFR1eUdadkZKNHVYUDJLaFlqUDFaSUxLZ3VQZlV4S1BpaHM?oc=5",
-        "headline": "Markets Brief: Goldilocks for Stocks vs. the Bond Market, Private Credit Exodus Continues",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/14 15:07",
-        "published_ts": 1789366034.0,
-        "tag": "Global",
-        "first_seen": 1789370122.6662953
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 22:30:57",
+  "updated_at": "2026-09-14 22:45:49",
   "yields": [
     {
       "label": "3년",
