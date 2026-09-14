@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRCQWpZOFI4ZDRhZmFUZXowZ0E1VWw5YW1rSFlvUlo3OUtmT0dVbkFIZWZnOEFBX21qQXdBV0dOSWg1QVNwQkZpMVRFWHMzeXFpRlBNWUVFX2dqdkU3b1N3dTNOaFBraVNWaFQ4cjlkWE91Sk1pOXNFZDRadXhhd1cxZTI?oc=5",
+        "headline": "[글로벌 통화정책 슈퍼위크] 美·日 금리인상 전망… 韓 채권시장 초긴장",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/14 14:55",
+        "published_ts": 1789365335.0,
+        "tag": null,
+        "first_seen": 1789365640.7533846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTVNpLUhIUlpDNFNfLVFDeHFYVldyY3VzR2JDVjJROVctVG9Ya1cydkVRTGpvWDF4YTF2UnRnWXlxSkFFTFpOMG5LaXdpMWVkRHRBTHBiN0s0ZnVTellwR3FYRXhHLThRUGplbFNR0gFzQVVfeXFMUEQydGJRbXdMdTl0TVl3bnV1MEJlY0hPMXJ1VWd1NU9vaUI2MUFDR1dtZ2lmNGpfbUFia3IyNjMxOV9NMkpnNEpkOHhtZVBHaHdhWFdTV2JDSkMtZ0tBRTM2TGwzVXdVaEN1ZzB2WVN1Sm9xTQ?oc=5",
         "headline": "반도체 호황에 내년 법인세 첫 200조 돌파…15년 만에 소득세 추월",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789015560.0,
         "tag": null,
         "first_seen": 1789016442.8340948
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oRk1acmxmSnhIS2doX1hYZ3lNZzZCR3pTOTJuMDZjdGk2b3A0T0JSSEVENmJhb2U0MC1pazJ3aUs2MG9Xc3JLME9QWk5vbko5REFncER0TnVGWUZQR0E?oc=5",
-        "headline": "한은 \"추가 금리인상 시기·속도 조절\"⋯중동·물가·집값이 변수",
-        "summary": "",
-        "source": "포커스온경제",
-        "published": "09/10 13:26",
-        "published_ts": 1789014389.0,
-        "tag": null,
-        "first_seen": 1789082126.2987454
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYzRCQWpZOFI4ZDRhZmFUZXowZ0E1VWw5YW1rSFlvUlo3OUtmT0dVbkFIZWZnOEFBX21qQXdBV0dOSWg1QVNwQkZpMVRFWHMzeXFpRlBNWUVFX2dqdkU3b1N3dTNOaFBraVNWaFQ4cjlkWE91Sk1pOXNFZDRadXhhd1cxZTI?oc=5",
+        "headline": "[글로벌 통화정책 슈퍼위크] 美·日 금리인상 전망… 韓 채권시장 초긴장",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/14 14:55",
+        "published_ts": 1789365335.0,
+        "tag": "JGB",
+        "first_seen": 1789365640.7533846
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNZkdrMW41VWlsYzJJUHJxdnFXelU4UUJuN3RJVjBNb013VjVLSVR4UUVDQXZZeG1TejM2bXpsVmtSd0xlN0FFQUpzZ2lHZ00xRW1UVXRZVk0xVjJNTEp6ZmcyN1ZoTU9YamJmZzFNOXNWU1RTYmdNeVVnSzZ3RF93SVJZUE9FQUZ3TENkQUhyRWZzejAwSVc2aGtIRF9NNVJRSzZRNXFTVU04c3pKTHI0RElFc05iY18yU2tobUYtOFBJbjFqcDhEbDhWX3k4ZHJZeVo4VU9Ia2FEMlh3dWFhY0Q3X3U4R0wycnZQcWZQV0NhNjB5d09wVnJnNA?oc=5",
+        "headline": "Credit Suisse High Yield Bond Fund (NYSEAMERICAN:DHY) Shares Set to Reverse Split on Wednesday, September 30th",
+        "summary": "",
+        "source": "MarketBeat",
+        "published": "09/14 14:22",
+        "published_ts": 1789363378.0,
+        "tag": "Strategist",
+        "first_seen": 1789365640.7533846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbmdHTm12eDdCQVN4VGZxWW1ObkRQYjFKaWo3N0NyeWdhdEtxbTlka2xTTUdPYl9zSUhBc0pfbjdLTHpQUVB3aEVEMl95WjF3eXFqM3pWS0pBZ0tsVkFJVWtrRHkybEVyZ0lJOFRaVkl3Y003c0JtbXFzYzlyS29WdUh4WjRrVzhaSFpvRmFUZUtMUURmVHd2MUxZWUlhdlh5Tk9UWk1HaTMwejJ6dFdHSWtJZUVXWEc5QTZlU3lRM3RCUVdQYVFzTXB3OXk2VjlLSVZtMms4Y29qcFgxcC1Eb1duUnFCTm43cXhydkdHRTZBYkdleHdacnZSLU0wdkVGLXFhQ0tLSQ?oc=5",
         "headline": "How to Prepare for US Debt Default: A Practical Guide to Protecting Against U.S. National Debt Risks Released by IRAEmpire",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1789334143.0,
         "tag": "JGB",
         "first_seen": 1789359323.3771155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQSklWSGNVN3pJYnptVENLaE1pd2MxOXF4UG5yMS1SVWRvZ3JPNnlad01ZUkR6T01oRExwWUNMWWlEVHlFN2Z0dF82OGI5NXlJNHlWSV9FV1ozVXh5TGRjeFdlYWhiVFBERUF3aUVaRUM1WmxXOWpPZzUxbzR0XzA3Uloyal9aQ1c1NXVLS01sLUJyN080LW1fUDRwblZDV2JVcmpmZVNlRktndTZicm9aek14MkUxYXNqNEo4dEI3MFVHbnRHOGlGYWVzaTJSbVNNelhRZlYyTkRZejlmbEdrbU16eVM?oc=5",
-        "headline": "게임 소개를 넘어 규칙까지 보는 던파 카지노 골드",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "09/14 06:09",
-        "published_ts": 1789333753.0,
-        "tag": "JGB",
-        "first_seen": 1789346722.4659808
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBmRkpmQVRfSzRBdTBfdFVGMTlqZ2pqTzlzdWdsRTcwQVlrUW02c3p4MWMtejZaczhqQTNxdlJERTIwMlVHOWhIVl95eUdlZWIwdWtYNDF6c0dGZDJXR2xJV2JiZW5tRmFrZjdPaEJB?oc=5",
-        "headline": "[논현논단-오정근 칼럼] 반면교사 삼아야 할 ‘美日 재정발작’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/14 06:00",
-        "published_ts": 1789333200.0,
-        "tag": "JGB",
-        "first_seen": 1789334124.976337
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDNW5DcUc3YXJkay0zSVBjYVI2SkYtYU5KRFcyZXh2dmlzbHZDeDFwdVdEZDF2d29ITXhZX1F5NXd3bFlGMGY1N3ZLeXE1SWtXa21RelRKcVJmN1BIelozMEdBYVotRENXRWdv?oc=5",
+        "headline": "“창업부터 성장·재기까지 지원”…‘수은형 생산적 포용금융’ 도입",
+        "summary": "",
+        "source": "비즈월드",
+        "published": "09/14 12:36",
+        "published_ts": 1789356960.0,
+        "tag": "수협은행",
+        "first_seen": 1789365640.7533846
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tdFJfdlhnckpmLXh4ZE52Y0NLOHdYOHk3dHJnNmhnc0tCa2dxd2RuUHFUbVBUYV82Mk5MYU1kRzVuY3dtZ1RLajdNMnJjakJKeUs0MzNkdU8taHFsZ05TQ3Y4ZFZMdVdhYXc?oc=5",
         "headline": "'발행어음 인가' 삼성증권, 1천명에 피자 증정 이벤트",
@@ -2400,20 +2410,10 @@
         "published_ts": 1788999776.0,
         "tag": "신한지주",
         "first_seen": 1789013726.3552244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9PY3RfUVRjLTF0NmhKVVZZMjJHVWhIMGtEbUJQZk5keXFWYlkwYkd2Q01lazh2V0Z3QlJ4XzBneWZCLVFGWXpOUW9jVFphNmI5Y0swVXRVT2ZVTk0yUFBNczBMUlBZZlROb1E?oc=5",
-        "headline": "동양생명, 신용정보법 위반 과징금 70억원 확정...1천400억원대서 대폭 감경",
-        "summary": "",
-        "source": "청년일보",
-        "published": "09/10 08:30",
-        "published_ts": 1788996600.0,
-        "tag": "우리지주",
-        "first_seen": 1789011930.1165934
       }
     ]
   },
-  "updated_at": "2026-09-14 14:45:47",
+  "updated_at": "2026-09-14 15:01:03",
   "yields": [
     {
       "label": "3년",
