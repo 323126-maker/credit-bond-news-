@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUaGJtUlQ1MXFVUzNrdFdFT29raEdlcE9VYzkyZTR1ckwwWG4zR1hISEdSUXg2RV9uU05WbjU4TVNIYjRJQ3pLUm91NExpbWdCQmJNWHY5N0E0Tnp4aWI5WXJUTkdvNE10UFE40gFwQVVfeXFMTTljTkZJRC02QjA2eHRyWnJrRzB6THV0UjRYaXdRbGJvYkhxWkZfQ3l0X09CeE9lUTVvSVRfNUk0aEhZeHdSVFJienpLMEJnY2VELV9IeTlyN180TktVT1NHYmJYR0YxUG9YbnBreGxZaA?oc=5",
+        "headline": "\"자본잠식 해소\" 토스플레이스 첫 신종자본증권 1200억 발행",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/15 03:05",
+        "published_ts": 1789409100.0,
+        "tag": null,
+        "first_seen": 1789410632.3844247
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9fOE50NjBwa29TLUg0M1ZnN1ZKWmxNbGI4LUFNS0gzWGRzLXpvOEN3cXdvNXhQOHloSlFpWS1Zdzd0TVZwRHNjOEZ2dUpqWC1VX2lINGFBdXRjYjNQOW1SN2tPaVZ4b2U0OG9LUjMzbzFRZjg?oc=5",
         "headline": "CDW, 3개 시리즈 선순위 채권 발행 추진…\"10억 달러 채권 상환 및 러블리틱스 인수 자금 조달\"",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789042991.0,
         "tag": null,
         "first_seen": 1789275466.6227484
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBwMG1kNk1nSHk2WlNVUGtxdVVUOFdtaU5fV091bmx2aUFhZjdjejl2QW1JbzRweld1Y1ZUSTd0TTVKcFJxTXp6aWhya1hrd3NpaDNIeWxlam5MUV9rNjJCNmlsaGo4N19iVjI2a3JHUzNiSVU?oc=5",
-        "headline": "플레인스 올 아메리칸 파이프라인, 15억 달러 규모 후순위채 발행 및 우선주 전량 상환 추진",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "09/10 19:19",
-        "published_ts": 1789035578.0,
-        "tag": null,
-        "first_seen": 1789036231.3291395
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 03:23:28",
+  "updated_at": "2026-09-15 03:30:59",
   "yields": [
     {
       "label": "3년",
