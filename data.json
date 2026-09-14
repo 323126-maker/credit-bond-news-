@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Pbk5rQTk5MERocWJCaFUtYVVYQUNhTlBKWW1LUDZFQW8yTHY0VnNzdjk2eEFJUHhWZk5nTHd4VWN0VmRMelNSTEd1UVpoeXFTUjNJUGV6SWE4S3hPb0x5emJYVQ?oc=5",
+        "headline": "월가 데이터센터 붐, 美 부동산 채권시장 판도 바꾼다",
+        "summary": "",
+        "source": "더구루",
+        "published": "09/15 08:25",
+        "published_ts": 1789428329.0,
+        "tag": null,
+        "first_seen": 1789429525.36327
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNE5oRHljSERWWTdJVHg3NV95cTBJaFotOFlFVF8xdlJHdjZGeW4wakFvUTVobUF2QldsTDdUQ19ENG5CMWhqMXdDTjRpaHFVcmxJejN0ZF85LW1TYXZkMkZnRGdHM2xxUTdOQ1NCdXdLb0dDYWRwRlJiRlpYRU5wbzZIcw?oc=5",
         "headline": "증권채·CP 동원해 현금 쌓는 증권사…유동성 공급 위한 '담보' 확보전",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789367640.0,
         "tag": null,
         "first_seen": 1789368325.248386
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBxcjVGTTRzNUI0TllINzJpN2FDZGwzOEtsZTY3M1NNWHhWMUYtTTBrX3pEX3J6S3ktUFhFQTA3TS1IY082amtkTHNoSy1xTXYxTEtRWl9WcGZ3RUlzbUt0U0diS0F4UUtpMk1aRkFVbw?oc=5",
-        "headline": "소프트뱅크 650억달러 AI 베팅…시장은 '13% 급락'으로 답했다 [마켓프리즘]",
-        "summary": "",
-        "source": "조세일보",
-        "published": "09/14 15:21",
-        "published_ts": 1789366877.0,
-        "tag": null,
-        "first_seen": 1789380924.3271182
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 08:30:55",
+  "updated_at": "2026-09-15 08:45:48",
   "yields": [
     {
       "label": "3년",
