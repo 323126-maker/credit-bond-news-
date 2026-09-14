@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE13c2ZrZzFQc2ZYbGFCUDBLRlhudFRwVDNpN3FOZVk0WGxjNlhRNDJTM0hpeUtqeV9VbmJxZDFBb1h3UTZhb2J4M2VWTzV4QzluRnhZRkdtcWM?oc=5",
+        "headline": "[애널픽] 美 국채금리 5% 코앞, 유가 100달러 등락... \"아직 최악 아냐\"",
+        "summary": "",
+        "source": "뷰어스",
+        "published": "09/14 10:01",
+        "published_ts": 1789347672.0,
+        "tag": "JGB",
+        "first_seen": 1789348525.6844475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNZEkyLTR3eUs1UmlWX01MWk5fQ1VEZWo1ckZCclFfNHNPamNraEdMbUczQ1Q3UGxzTEU1VVdLdWpvNVhwYlpSUmpDR2didUg4X3hHdmJzV2lUaXVmQ2pFMURqVGxOc2lLNEMwT25MRlRpMmc1U0ZaSzByNHI4aEhoaU13X3JYYXczNm1TcUVQMHRDRGNQZWhmZmJBekF2aExESkVEVGhSLVNHcjhPcVc5OW1OeUlQUQ?oc=5",
         "headline": "Columbia Strategic Income Fund Q2 2026 Commentary (LSIZX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789281720.0,
         "tag": "Global",
         "first_seen": 1789282838.4984655
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0yUUNrREM2ZHM1OEVMSmZSU2VORmN0ZnZBZmZfTk1hSXBab0U4ZEZMME52cURHWGxLVWRmV1BLb3FWUnIxaVpncU5tWV9fajYyMDBBVXVGY2d3WW9yY3FKSWY4MEFfZllRdXEwNg?oc=5",
-        "headline": "‘사나에노믹스’ 명운 가를 일본 장기금리 계속 상승",
-        "summary": "",
-        "source": "mindlenews.com",
-        "published": "09/13 15:40",
-        "published_ts": 1789281600.0,
-        "tag": "JGB",
-        "first_seen": 1789293640.2815483
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 10:01:01",
+  "updated_at": "2026-09-14 10:15:48",
   "yields": [
     {
       "label": "3년",
