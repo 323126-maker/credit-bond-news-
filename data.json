@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTVNpLUhIUlpDNFNfLVFDeHFYVldyY3VzR2JDVjJROVctVG9Ya1cydkVRTGpvWDF4YTF2UnRnWXlxSkFFTFpOMG5LaXdpMWVkRHRBTHBiN0s0ZnVTellwR3FYRXhHLThRUGplbFNR0gFzQVVfeXFMUEQydGJRbXdMdTl0TVl3bnV1MEJlY0hPMXJ1VWd1NU9vaUI2MUFDR1dtZ2lmNGpfbUFia3IyNjMxOV9NMkpnNEpkOHhtZVBHaHdhWFdTV2JDSkMtZ0tBRTM2TGwzVXdVaEN1ZzB2WVN1Sm9xTQ?oc=5",
+        "headline": "반도체 호황에 내년 법인세 첫 200조 돌파…15년 만에 소득세 추월",
+        "summary": "",
+        "source": "한국일보",
+        "published": "09/14 11:31",
+        "published_ts": 1789353060.0,
+        "tag": null,
+        "first_seen": 1789354839.0549018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xcDJJMDlUN3Y3TjJvbnl4V1hSa3c0b1JNZHdRTnIwcDJkb3hKTnM3NEVGRkRuTWFjZHFZX29fMzhFd1BfclhWOThJbTl3YWpXVjdxUGFfWXBUZkQ3NU5WM0pWTVQ5bTBxcGVkR0ZhVzg?oc=5",
         "headline": "[중립금리③] 채권 딜러의 델타 고민…언제 얼마나 오를까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789014389.0,
         "tag": null,
         "first_seen": 1789082126.2987454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9KblRUWVJldmxNcDNIQmRiVHYzRGxqd0FiZlR2VHdmMF9LS2hKeVNyXzJCWnlZWW13UlRHODNndUhaR3Qyd3RPUExpMVFlaVpQZlIwMXE4UVVJdnAwbnN3SHN2aUNZUHBqQ3c?oc=5",
-        "headline": "한은 연속 금리인상에 채권시장 약세···8월 국고채 금리 전구간 상승",
-        "summary": "",
-        "source": "서울파이낸스",
-        "published": "09/10 13:14",
-        "published_ts": 1789013642.0,
-        "tag": null,
-        "first_seen": 1789015524.116663
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8zdUt0WE9GZURUbzJEWWRQME5UZjRJakJVMHVLYnAzNlN1akFER3k3TjluNk9qbW5qTWpoTlAwWmVEU0szNzFwQVVLbklxeThBR1VLSFV2V1luR2ZZVTRUR0tGYzlkTF8tV2h5RURja1JHZGIydFRNR1V2U3I?oc=5",
+        "headline": "고백인가 압박인가: 2001년 일본 정부의 디플레이션 선언의 명암 [김성민의 일본 위기 딥리뷰]",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "09/14 11:55",
+        "published_ts": 1789354555.0,
+        "tag": "JGB",
+        "first_seen": 1789354839.0549018
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONWFaTUxERm4tSG14cXl5MjRkc3phbzBQckRIaF9OTUwtZHJ0MVpGZ3V3TUc4S2JWcDNjbkhLT3dIV0tvaVZ3dF9qZmxrb2Z1ckhTeTBNM3dyVEVuSzBfbFd0aVJ4eVRwWlpySC1OOFdDWkVRU3dJM3NTczFRT2pwdTJUQllDV05tdEVNV3dneWpkN0lNTHBKOGptQ1hmZFFBelB2ZnV1WFpEbDlBSDFYb0JIODdLWERHTlZvNkhYREl3dTRVN1FMMEtrY1QxMGZMa3pEeEs4VUNIV0t2RmU3bEFoeWPSAeoBQVVfeXFMTXlDak1wRXY3Q0NqUTRtVlBIb1otNXAxZl9DSzFTSWpNcktmcmtuVVdfSmgyNS1IeWFLYXdLS0Q4NDBfckQtVDNrUWRlOTVJTmE0QnJtc3VyelBiZnhrTUxUSEZVVzUtVm12TllpR3dfWTNsc0dCNW00MVdfX2xqdGhIMVFSNGtjRUtPWTZTaDhYOXl4Y19wZ1ZocjdQSkVjTXpDVTFtY2R4aXFmdWl6YnBPS1pRTEU0WWVEMkRuREFoZ1p2UWdYRTI4M3FFSzR0dklUREFzZXl2bjBKY2FiMnNxWEhfVFR6Zkxn?oc=5",
+        "headline": "A 5% treasury yield poses yet another market risk and the pressure is only mounting",
+        "summary": "",
+        "source": "CNBC TV18",
+        "published": "09/14 11:08",
+        "published_ts": 1789351696.0,
+        "tag": "JGB",
+        "first_seen": 1789354839.0549018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zb2Jlb2hIYm9TNW9jTFdheFZaOENFUWhsZnV3ZFR5dmM3QmI2ZllaaFFzelJLb1hyTVZsRmlvVklhREJ6d0cwbmZ1NldWRHJSNWfSAVNBVV95cUxOMDVBRmlzU0N0emtHNlE3WVNsajhqdHNnbkk5RURMSFY5c3FxRldtMjhFZlN4cUNhVm1TVlhabUhsUzA2VmYxbHZVS1lLbEhvYWdDRQ?oc=5",
         "headline": "美·日 금리 결정 ‘슈퍼위크’…연준 인상·BOJ 추가 인상 주목",
         "summary": "",
@@ -1880,6 +1900,16 @@
         "first_seen": 1789333237.2254364
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNblJNNlUzNURhRVAyd1RMT0xOOHJjRW9VRjdHSkJPck1YTjVQVXp2UE9pQTNESGZCcFFXNFo1bHJzeVlIQVA1amF4MGIxM1JpcEk3UzZDaXh5OGd5QkZJYmFCbVIwZXRtUXdKTGoyREw1LVczSWF2WjJvLXpNb19RV3J0dVUzcmphQlZiSC1Jd29yWnR2dTBTWmpfWG9OenlBSlZlemNweFRIa3I3R1lUMkpB?oc=5",
+        "headline": "Column: The Fed’s credibility depends on resisting politics, not playing it",
+        "summary": "",
+        "source": "The Virginian-Pilot",
+        "published": "09/14 05:08",
+        "published_ts": 1789330120.0,
+        "tag": "Fed",
+        "first_seen": 1789354839.0549018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLXhvN0ozSXlydmRRYmVQVFJSTjlfUDFLaGJQaXNpQURVT0lkcDRJd3lITWVSSHlHbFVnSjg4NERVT1ZOc3EyRFBCckZSd3h3YmVRUWMxenQxOTA1SGYtLUdQNi1QdUFybmlJZXRBNUJxblQ1M2hYc2FfVzVYeVJodjJyX1IxV3hIT2p6bGhxYXhESnNjQkk5X285WWZUNWNtTUNMaQ?oc=5",
         "headline": "Fed’s Warsh on Collision Course With Trump as Rate Hike Looms",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789298627.0,
         "tag": "Fed",
         "first_seen": 1789300841.1350958
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYklTYm91SU1CREwzYUtqSFN5MG15M0lvUnpVY3NfcmF3R3gzb25zVHVQSU1LbF9tdFlHWllhN2FqV0dNdW02aVJGUG9yV2FGTnk3dVZkRTVIRjVxMnNiV19OaVJwSkw3eU1Qb2hzV3djZ0xOa1NBeU13X0hoQjJvMjRLQ3ZrZzBDeHNQYl9wc1BtS18zeG90T0hPYlFGbkNTYmlmcGNuczQ3dFA3R2pNSV9uajdBbXZ1RUk0?oc=5",
-        "headline": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "09/13 19:38",
-        "published_ts": 1789295880.0,
-        "tag": "Fed",
-        "first_seen": 1789304439.7894526
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOc3FXMEUzWUVKbTVXOEZxbk9Ub2Z4ZFBnNUJ4aXY0UDNLZFh0ZDl4MGZyZWhyUzNtUWk5ck5IZjlSYkR1VG1VOGVDZWlRWC1DdFZ3cUxwTnZVOVZMWlZIMVo0eXdYbGM5bllDV2hpaDhXUEkteFB4WGNRYjBGLXQ5TXBrQW5hYXdBb0dnaDE0OXVza1gxcG5J?oc=5",
-        "headline": "Investors Just Got a Reality Check From Fed Chair Kevin Warsh. History Says This 1 Move Is Crucial Right Now.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "09/13 18:16",
-        "published_ts": 1789290962.0,
-        "tag": "Fed",
-        "first_seen": 1789291036.5715678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNWNEMVd3T01FcU85RHVabm9KNWk3dVFRVUZQMm5DQXNxc1ZwbGduMkFqNWZyOWJhT0o4eU5GY2s1OTB1cUtSNFAxNF9QVTl4Q2hMZ2hvRDZrZkozSDFzYkR2UUJSM2x6YWV6cmpmb0kxLW92QXdILUN3N0xlTGR4YS13?oc=5",
-        "headline": "Bessent dared the markets to ‘bet against’ him. Bond traders did — and appear to be winning.",
-        "summary": "",
-        "source": "NBC News",
-        "published": "09/13 18:00",
-        "published_ts": 1789290041.0,
-        "tag": "Strategist",
-        "first_seen": 1789314322.8362632
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 11:45:58",
+  "updated_at": "2026-09-14 12:01:04",
   "yields": [
     {
       "label": "3년",
