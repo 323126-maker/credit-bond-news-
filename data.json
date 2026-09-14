@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2tzMlAycGJSY29zUnd6eE1XR3cxdW9EcmpfU24zR0luQXdLYjBlTVI2WDloMGFHbGFLaGdPWHpJdFk5MnotVmVYeXVNako5dFcwVk9tVkNQN2xLMG1zNlZLMmRTSW5RN1daMWt5aXRva2VkRmQ4d3lHeTU3a3NnSTdaU2NKODl3Q1J5ZXRqdHhFUXNVemU5SjFJRUVSaC1CTkx1VTI3U29KYVFobGpDdksxWVFTQjV3?oc=5",
+        "headline": "Why the Bond Market Expects Two More Rate Hikes and Three Cuts After That",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/14 23:03",
+        "published_ts": 1789394580.0,
+        "tag": "Fed",
+        "first_seen": 1789395137.048741
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSHA4WEFUb2VhTzF4Yk1iRTdUTGh6MWFkV2NDUmw4V0FuRlF0Y3FqZVRoaC1LVXY5R0QtTVF4aUI4TjBmeFZJVWxfRTRQX0ZFY3NOMmJuN0MzN1BtRE1ZaFFKaHBPUnRLd2hHWWlXeVE5eWxlRktGMk9VaUtaeXR1a0MzVVUzN01WS1B3X0VhY0wwTnBYN1A1ZDlR?oc=5",
         "headline": "US Market Outlook: AI boom cooling and rising oil prices create headwinds; upside for tech stocks limited ahead of FOMC. Microsoft publishes code of conduct to restrict AI model usage. J&J rises on reports of acquisition talks with Apollo for its orthopedics divi",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789368774.0,
         "tag": "JGB",
         "first_seen": 1789370122.6662953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOT253ZkEwLW1vWkZfZzM0SGJ1aGdKUFlKeWpvbWZBS3BKZkVQTlZaeTlmVnhoRU40dV9FS25GUFk0VDBtZGoxZ0JyWFQ2VjVGRjZjZUo2em5BNThyYmpZdTNXTEhPU3c1ZTFhRnhWUzNCSlFHSXZZU0NHek9nYlQzaUFmNFlQQUl0YkhqcUxyRQ?oc=5",
-        "headline": "A rate hike by the Bank of Japan appears all but certain; the key lies in how it navigates pressure from the Takaichi government and Bessent.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "09/14 15:44",
-        "published_ts": 1789368254.0,
-        "tag": "JGB",
-        "first_seen": 1789378231.1142628
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-14 23:01:06",
+  "updated_at": "2026-09-14 23:12:43",
   "yields": [
     {
       "label": "3년",
