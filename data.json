@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNcTVuLVVNNGRqV2N0LW5sMTczdnkyaHFlaUpVMlBMRHByeGJNQlpqVTB3bEdSWFI5bEtsdUlkc292UFJCWmNxQ3pjR0VWQ0tXSS1TcGxDeXY2Wk1NcDExS245ZTV0TlQ4OHYzbVlFd2FIdTBkTk5PMkNoNEFrbVp3QmVnZ0lCenc4Skl5bnRVQ2hoR1B0c0tUVEppV0V4NXRnVGRpbHI0Y1ZHVXhlXzhRQ0t0eEx6eVBReEU3WDF1dUNZdnVlWFM5RGdtVlNVN1FuWC15ZFZaYTRQVl9rSjdvSUdpakRQZENIZVFfeWFzVDUyeDJkU3V4NTlfcFQ5OFdtR3Fta25vb0RuNmpsU1BQMkRUa2l6eTNI?oc=5",
+        "headline": "Federal Reserve faces no easy choices with stubborn inflation and economic strains",
+        "summary": "",
+        "source": "mynbc15.com",
+        "published": "09/15 02:25",
+        "published_ts": 1789406700.0,
+        "tag": "Fed",
+        "first_seen": 1789407032.4313352
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QWlNZVXk5UWRLamZyNm1sZExPSkhza3JFRW03UGFSYlpzZnpJdmpIUkNSTWRoU09KQzB4SDRFbFR1ZVk2OXYyQ2d3SmlGTVpQUUg0X29tRW1vb2UwQmlLX9IBeEFVX3lxTE5ZTlBTQXg1Y3h1RXA2NFhYd0pfY1pZMXBzNFQ1X2VId2xNQzJ6S2lTcTdfbHgxcVlwN3doMGxSU1o0NHRpREN3WjUzd0ZEWU1paEJ2UmhmaUJSRmtMOXJ1UC1hZERjSDVkdkp0cm5NaTg4cDBOZlNwWQ?oc=5",
+        "headline": "\"환율 200원 빠졌다고 美주식 샀다간\"…전문가가 꼽은 '뜻밖의 변수'",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/15 02:20",
+        "published_ts": 1789406400.0,
+        "tag": "JGB",
+        "first_seen": 1789407032.4313352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVzFyNjV4S1pJZGljRTMyVnZERWVCblBqMU1zNENja253U2l4YkJTdzhvbE45XzBGX2o4VEJLTEkxSGJ4Z0U1dXVSX3pZaXJWZjN1RHZ5WS1DdHgwdUVCY3VBcm5IcmdnV2RXRzZYYTRpeUxvUUk1VGtZbW9fLWROcUIzMjNzbVFwdWk3T1pxV2RKNWlpV2FzazVVSXFqUQ?oc=5",
         "headline": "Five spots to watch as the bond market hits 5% By Reuters",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "09/14 19:05",
         "published_ts": 1789380344.0,
         "tag": "Fed",
-        "first_seen": 1789380924.3271182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9Ra3NuQTkzOU82TGlxNy01OE9ELXlxZG1LWGFxTUtocU5LY2dnVWRsLWxmQ2pqS3d2eWJwWFo5dUoyUzZzX190ajFIVThZSEd2LXJVSVNYc3M1VHVVVUtEM1FtdXVUVzNxcjFhX1dnaFRNcFk4ejR3?oc=5",
-        "headline": "With his credibility on the line, the Fed’s Warsh will be forced to raise interest rates this week",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/14 19:04",
-        "published_ts": 1789380240.0,
-        "tag": "Fed",
-        "first_seen": 1789382725.255273
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWWREckJOeWpWNDJRa2NRNDlJWVA4cjMwbEpHZTdzZDc5cFpnbmgwNDBpeHFiVVA5NEpMQW44cXBSUWRBbGptQVZ1ZVJuSzRBbUE3SHlkVGdjX3J5dW9aZnZ3RjFRc3BOajFpc1drMWpEVnZGamt0dGstbFY4d19GYWFjNWNoa1RqX0FHWDZDYVVsb0UxTVhndnNqekxDZnZndjZHRlRIVEpEaVh4Ul90U3FFcnF6Tzg?oc=5",
-        "headline": "Is the $40 trillion US debt a sign of a coming crisis",
-        "summary": "",
-        "source": "jsonline.com",
-        "published": "09/14 19:01",
-        "published_ts": 1789380060.0,
-        "tag": "Global",
         "first_seen": 1789380924.3271182
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 02:15:56",
+  "updated_at": "2026-09-15 02:30:56",
   "yields": [
     {
       "label": "3년",
