@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1c2xNMkJlalE5LWo3V201RUJqdVJtRlV2b1JQckdocTZOamJ5RmlKUV91eHNXckF6OHpJbUNvLU1lUDB6TjlzeU9aOS1mTVpzdElob3pqekhDdE4xQzhEdlFJSkxxN1ZW?oc=5",
+        "headline": "일본 금리 1.25% 시대 온다…세계로 풀린 '엔화 돈줄' 마르나",
+        "summary": "",
+        "source": "ebn.co.kr",
+        "published": "09/15 07:39",
+        "published_ts": 1789425580.0,
+        "tag": "JGB",
+        "first_seen": 1789426837.3736494
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTjFpR3lwLU1kQUItMU9Uc3dHSHJwSzJLYVMzNDFHVVQ4VmZyRXJsM1RKaHVkNzhBSlpMeTRmQk5hWXk4X29tek1UZUVUY1pMNUtoREtXN3pVSV9BNHlrSHlPdUNoUV9kOVh2XzlONDY5UU5taUdyWWVKVkJReUpPVFhDMnp1X0xuZS0tLTNSQUt1akVD?oc=5",
         "headline": "On inflation, it’s put up or shut up time for new Federal Reserve chair Kevin Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789396920.0,
         "tag": "Global",
         "first_seen": 1789403430.0767238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVTE4Q3hHRkNDcGRKYmFCQVpJNU1OT3UzSFQyQ2VwUmthNDg2ajhFMFFwSVlwem8wb004VFI4LXdRY0kxMjV5cXF4RGZjOWFjWllrSHV1OGdtT0toVy1GYkg1M1JmNE5YMW9HSW1xWGFKYUR4WHBFRzVlUGhPTWE1a3VqNkpXM1NGTkZub0dfZnlTelVQU3JjNjB1cDFERFBVTkl2RXlidF9fYm9tM0R3NkRuSHBRRk1qV2NmekxR0gHDAUFVX3lxTFBYd2ROOFRWTnRuWlV4aDZNLWFBSlllNkFma2Z6a3FjUXJEN1ZqMHRvRU9rQW5aR1BkMml6SzBtbzk5UTZaRTR6SUlET3l0WGZ5dHZndXRPa0VQSHNsNHJOSkVOQ2szYzh0YjBGUy02SXVOd0U4Yk95SjlHSWxPWjFnXzQzY25ad0FFWTBPUTIteG9xYzlsQURFNEYyLVhrU0hxRERTeDR1U1lZU3pLbVVLNXpPUTZYT1k4ZmlVdGhpSHpvcw?oc=5",
-        "headline": "US 10-year Treasury yield hits 5%, highest since 2023, ahead of Fed decision",
-        "summary": "",
-        "source": "CNBC TV18",
-        "published": "09/14 23:41",
-        "published_ts": 1789396910.0,
-        "tag": "Fed",
-        "first_seen": 1789397128.3729362
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 07:45:46",
+  "updated_at": "2026-09-15 08:00:59",
   "yields": [
     {
       "label": "3년",
