@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBiSjk0R2VGRmJtVUNtYmdHRlFzZUhwd0dkNG9iM3FCUTczU1pHSW1TQjRfdTh6aGZXVFhxQVB5ME5JYUhDZVJHMS1sLU5EZm9lTVU3UFdMYWtnTHRxcmFmSlFzYzU2ajBoUzJr0gFwQVVfeXFMUGUwSUpXUHlQVTVXZVdhekZ4MGFvRl9ZOTJYR2JZUkd6aUI5WHBxWFFmOHZ3TmlSTEtUdll5MU9BaU9XVWFHbXdLUzRXcHkxRnMyc3hBX0t2ZDVqZF8tRTlzVlRmZVdwdGZoMTZWU2tSNA?oc=5",
+        "headline": "[사설]글로벌 금리인상 충격에 대비할 때",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/15 04:05",
+        "published_ts": 1789412700.0,
+        "tag": "JGB",
+        "first_seen": 1789413327.626867
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9UUmFYVjA3dUdTRzluTEFuNS13NmZEWHcxdnlYU3N1THl4QVBHbndGVG4zMUs1TVIwMHBwYUswRXJZWXZiZE9EVC1NU1NhQlkwVHFvOS1Wd0xjNU9SOTZaZEpicldxUWl30gFuQVVfeXFMT2gwWXVTN2wzbDg0MEdvTk53VUhYLUoyQUlsQnNZNWhNLVk0QkhGS2kxWTVwNkRiOXRwNVRrZlBCc2NaODU1aC1yNFFIUm9xY25fQmRJdklJTWZOYTlBUlJzNmpvTWRJeUJDVWZiTmc?oc=5",
+        "headline": "16일·17일·18일… '글로벌 긴축' 카운트다운",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/15 03:58",
+        "published_ts": 1789412280.0,
+        "tag": "JGB",
+        "first_seen": 1789413327.626867
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFo4cGdqek1fODhJcXNmZWxHaV9na0hkV2Nwa0dVREhMSDdxajBxT3RISVBtek5pUjBQb1BtZkZmZ2RMOEVqM0FHT3N5RDVsOC01bnlPbXU1WXdkOHc3enlJT3BfSmh6bG9mRTRJLTJtR2JjN05iNmthcVBfV01ZOUhLZVVRbHdFSGV0ellxLXBiazBveS1sZmZvTUtDRG1ERkRkQ214SjlJOHpReGlweXBRU2d0ZGIzYVRMX296UDJZUnJwcUFPRVVTNXdPa19ZTWI0SGRoVzRFYTZPTGdGN0gwNmNDRmhFR2dxUw?oc=5",
         "headline": "Too early to judge Fed Chairman Kevin Warsh's communication style, billionaire investor David Rubenstein says",
         "summary": "",
@@ -1986,26 +2006,6 @@
         "source": "Reuters",
         "published": "09/14 19:54",
         "published_ts": 1789383256.0,
-        "tag": "Fed",
-        "first_seen": 1789408839.0643454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UazZuNXNrSV95TERJVVI4bU5sTDF5NzRadXQtRVJXTHZiaHZRWUJrMnoxZmRka3kzLUNaSGxVajBCNi00OEVfTlVmcVNJek9fTl9VQUxhM3p5VFZMN3RHYmI4Y0VqQ2VpUDI2WWJR?oc=5",
-        "headline": "일본은행, 기준금리 1.25% 인상 추진…1995년 이후 최고치 비트코인 무반응",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "09/14 19:51",
-        "published_ts": 1789383071.0,
-        "tag": "JGB",
-        "first_seen": 1789412444.2821903
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTmR4eUlzVVZXLUFSSEpiLUs3UkxJMDYwVVpsU2o1REJIOUFSTlN3U2VBV2NRZ3hUTUNzSy1KRTNlODFaTmh6bGgtTFpCM3BCWE13c250dlBDTW5XaS1rWHpUMjV0cFJiSkxqN3g4OTVVZmJKN1dKSXZhRHZ2bW1Lbndrc3UxRGhjNG9LY01lZklaajE4?oc=5",
-        "headline": "Fed's table is set for a rate hike, a first under Warsh",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/14 19:48",
-        "published_ts": 1789382921.0,
         "tag": "Fed",
         "first_seen": 1789408839.0643454
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 04:01:36",
+  "updated_at": "2026-09-15 04:16:09",
   "yields": [
     {
       "label": "3년",
