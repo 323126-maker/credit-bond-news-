@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGFVcTdmT0xxOXo0RGhVLWN0NDAxakZaR1VMU0ptWUpCZFFHY0dEZkVlcHBaNElOMUNPOVhvdUxZZmNLRndlSUFrcTN5emJjZVk5TFE1WmF2MHotQ29ZSElGbWF5ZzJGMGhZYjY0LWFpQmU5RVJiZ0h1ZDUxcWNueF9kM2pudWpR?oc=5",
+        "headline": "30년만 대발작… 日 10년물 국채 금리 3.025% 폭등",
+        "summary": "",
+        "source": "g-enews.com",
+        "published": "09/15 15:47",
+        "published_ts": 1789454849.0,
+        "tag": "JGB",
+        "first_seen": 1789455639.7135644
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDRtTXJrZWVnV25WYWQyUl9sYUdlUlMtOG1YZGNIdndScXdJeU1ZUHJ4VVhvOEVJLVliaHdFazdncFJhVHZ6QlVqNUF6dm9zUGV1ME9ybEdxTlE1cjZORVZqalk1a1FxdnhYNVM4MHUyRjZISVpDNnJMWFdxUmNPajFadmlMbkJVbnVYM19zTWF5Q2dNZEMtc2FOeXZQdWFHYWlIdUZVOU1iX0FRSDd0ektXTXZhV1RPSDFN?oc=5",
+        "headline": "BINC: Attractive 7.1% Yield, Controlled Duration, But Tight Credit Spreads",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/15 15:40",
+        "published_ts": 1789454426.0,
+        "tag": "Global",
+        "first_seen": 1789455639.7135644
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZDFRMkJxc3QySHF0ZmswaEtxSko4LWpteVIxZjA3YUdXcmNyM1E1d0dLcENoTTZPN2VBeFJNeWlQQVpaSEhVTUNmcFVxVHEzWDE3UFE1OURyMlZKWlN1Y2RFVHh2ZDRNVmlldzdBUlJDaVZlSWMzd0wtTXh4SWhreWxlV3owZURX?oc=5",
         "headline": "36년 만에 최속 긴축… 日 10개월새 3번째 금리 인상 폭풍",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789427100.0,
         "tag": "JGB",
         "first_seen": 1789427723.7071037
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE56a2JZeUY1LXpJRVdRRzV4NVMwaDFmcG05dWJmVmlHRURvWGo5ZlVaT2lFaVJMMkVFSzllV2UtTEZBcUx1VHRRdGJkZ3YwdUNucGlnX3N6dHh2OEhFcXc?oc=5",
-        "headline": "美FOMC보다 日 BOJ에 더 주목해야할 이유, '엔 캐리 트레이드 청산'",
-        "summary": "",
-        "source": "YTN",
-        "published": "09/15 07:59",
-        "published_ts": 1789426740.0,
-        "tag": "JGB",
-        "first_seen": 1789443028.4022655
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE16b0JKeFpQZml2ZmRyYk1PUU9KOGt5dXZLTk9CbFhPNjl6em5FUmJ3X3ZLakQtR2lMNzBsNmNXV0JHR2FyUExPUXpCX2sxbGV3cWNmM0lHY3hDczFsM2RnbW0wUTZJNmtPdnNuQTZJS2FKVFVxS0tZcE02VkRwZnfSAYQBQVVfeXFMUGVSelk5S3JmTlNIM1ZVdk15SElJa08zVHdyMmRkNGh3MHZWbzA2TFRpYnVxZ1VLTjd2REZNZmpqaGxzektObXVocWFHemZQNEwwV291MEc5SDI4SW9SR2JzM0xkOXU1THZvRVRWSG4xaXpUZXR4WDB2MVdRMFFlU0VDcllM?oc=5",
-        "headline": "Jim Cramer explains why the stock market avoided a dramatic sell-off on AI concerns",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/15 07:41",
-        "published_ts": 1789425706.0,
-        "tag": "Global",
-        "first_seen": 1789449324.6192691
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 15:45:49",
+  "updated_at": "2026-09-15 16:01:14",
   "yields": [
     {
       "label": "3년",
