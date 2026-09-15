@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEVtcV9RVXNPcXl0M0ZzYW1VX0xMY254Rm1qN0NtTGRtcnZzRTFESFpnNElHQmlNLWd0TnpYcVlLSWVaaS1VSzVVbXhvM0Q1S0steG1kOXVzMXFVTWJiUXZ4MTZ5dFdDY21RSTZvMDVLR0g1ZVVfTlZTNXFZZUZGWFBqekxvM3ExQUVtdkU0WEVpUVhYQW9vM243Z1V4Nm1pTFRtWdIBqgFBVV95cUxPbEZ0Z05FRVBLcWVISHpOZXBJOUZ6SWo2ZUxQamN0V2p4LXYybkxKMTBTTXVrQ3IxZ2VFdmtxakNndDNnQ3RXb25zUlM3TGZJcnBMU3ZMTUZqbjlJWkd2OHRiRTFRTGRhN1M5dGlHZWppdnhUb2E4NVFRVkZFemJsUW9mVUpQRGxGZm5EUUN5aWZnWTRzeC10b0R3SjRpR25pUXE0cFM5WWttUQ?oc=5",
+        "headline": "Warsh under pressure as Fed weighs rate hike",
+        "summary": "",
+        "source": "The Hill",
+        "published": "09/16 05:51",
+        "published_ts": 1789505460.0,
+        "tag": "Fed",
+        "first_seen": 1789507831.3941538
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNTndHSkNBcGYyTVlrbmEtUmppNU1Jc04yMlhXTWVsTkFlZU54UU1nNHZRaHFVdU5kc2ZYaHVhdkh3MnF3RnFpN2FXVnBENEctdjJ3RC1lajA3RGxsSmxCTE14clJzb2dobTN0UW9Jd2I0Zm4tS0xiMkdESG5CRi1rS3gtTUQzRnJmQ3RjWDlIWGRIeHpsQ2ZlZ21PWE5Kd1VkNG50eEJJZDBxLTZNb3cxRFdpd3lNVkdXeC1vYW9lUmNlakww?oc=5",
         "headline": "ARDC: Continual Struggles Weaken This Fund's Appeal (NYSE:ARDC)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789474227.0,
         "tag": "Fed",
         "first_seen": 1789474525.1753175
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeEhZOWtEX1pjZV9lWXJQWDg3R0Z2aEpjM01VMWl1NTlFdXJUUkh2Z3VCTk13SVd2QjJUN3ctYnVJTlh2bkFnc0h6bXdQc3ItNzdGRlhybm5Rc2tJekVnRjB4ckdDS0FFY09BU1BGTUw0LW9lM3Z2Q1J5QlV0NElhZ1RCMGhuR0hKdTd4cnBlWTk5TW96U2JObUhTSnNoMndUSVF1Z01neGFibDhkNE5tZTVSOVlyanhmVzRYLWdmYkx1eFRJOE1yRlBLRWs5TmpJcVo5aC1EVHh6MENOMTg5b0J1TFJOQdIB6wFBVV95cUxQSXBqNEZhTWE4X3FDSXc1Q0dFTk4zeVRENVd0Uy1aZWZkMjhkYjlBWGgyODdpeXdmRE5vOTc1UTFXVUhQbnFZNEI2c3l0OHZfUjdDT0JZTE5DelRFNzZMa1M0SU5qUGltM1dJb3hqOXdSVVN3OU1zWW5Ca3FGRmVoWGh2SVNWU1lBODNuWkNIZk93bG81OTZWWjM0ZEUxM2lwdXBlY0ZwUGRzYV9nNldDSFhNclAwNVJNbEtHYVd4eUNlTWg0NE84bHFEQXNhUldEU1RFMGoycjk0YUpWTERwMkYtWjZ2bVc5eWNr?oc=5",
-        "headline": "Foreign investors pull Rs 5,109 cr from govt bonds in 3 days amid global uncertainty",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "09/15 20:47",
-        "published_ts": 1789472834.0,
-        "tag": "Global",
-        "first_seen": 1789487125.8033805
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 06:15:50",
+  "updated_at": "2026-09-16 06:30:55",
   "yields": [
     {
       "label": "3년",
