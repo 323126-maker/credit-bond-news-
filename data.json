@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TamxBSWlsSFlaZDNVdTI0MzJhNEhTM3VQYXdpWTQtaG5vS1Nndl9pYWQ5M2JOM09kTjRuaFAtY182U2JFS1hmdnVQOTAwMW1ubVRhZXpuSUdCTjFDX0FfbGRHQWdmb2tyVXpjTtIBbEFVX3lxTE5TamxBSWlsSFlaZDNVdTI0MzJhNEhTM3VQYXdpWTQtaG5vS1Nndl9pYWQ5M2JOM09kTjRuaFAtY182U2JFS1hmdnVQOTAwMW1ubVRhZXpuSUdCTjFDX0FfbGRHQWdmb2tyVXpjTg?oc=5",
+        "headline": "기름값 뛰자 날아간 피벗…채권 발작에 기업·가계 ‘비명’",
+        "summary": "",
+        "source": "직썰",
+        "published": "09/16 00:12",
+        "published_ts": 1789485150.0,
+        "tag": null,
+        "first_seen": 1789490722.8387158
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5NVhIRDFCZVR2aXd6eDZXNzNSU0dzWXlUY1J3c1VPcF92YXFTZXZiT3ptNkVfMjNvUmVablBaOWVrVDdVbnlOTDNGSjFhdExkdDRObld3?oc=5",
         "headline": "구세주일까, 변동성일까…美 채권시장 ‘와일드카드’로 부상한 헤지펀드[디브리핑]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789433100.0,
         "tag": null,
         "first_seen": 1789433902.1291416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50STRjZFkzSGl1STQ3NDB4UGdMM1VzVGhyX0lFUWJZUzhxTlVjOHE0dXdvWXZoYXJzTjhoTDVlZUdSbVB3bE5GOVlVZUhabUFxaERQeGRwU2tCTl9leDJubkNieUhKc013ZWsw?oc=5",
-        "headline": "[심층기획] 용산산단 자금난에 ‘지방채’ 꺼낸 음성군...민간사업 부실, 군민 혈세로 막나",
-        "summary": "",
-        "source": "퍼블릭뉴스통신",
-        "published": "09/15 09:43",
-        "published_ts": 1789433000.0,
-        "tag": null,
-        "first_seen": 1789439430.74924
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 01:31:05",
+  "updated_at": "2026-09-16 01:45:47",
   "yields": [
     {
       "label": "3년",
