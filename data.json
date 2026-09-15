@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBId2NDUUVuY1dTdTJnTVlWLVpWanJoc2daNDFYM0NsVUdreWZLTzFVelJCSE5KdVNydDNVb0ZrV3hKRVNIVzJuYy03dnBZQUwxOWZJYkp6R00zVWt4WVZBT3hwdHlPeFVvZU5HTA?oc=5",
+        "headline": "[오늘의 헤드라인] 민심 돌아서자 여권서도. . .",
+        "summary": "",
+        "source": "전국시민의소리",
+        "published": "09/15 10:15",
+        "published_ts": 1789434914.0,
+        "tag": null,
+        "first_seen": 1789435829.3010447
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PVFJGVXE0Nm5tTlNMNzJCQUdVZ3pOa2lhQU1Hc3YtMkk4Zk5ZWmgwRDBmZ056Qmx2X0Z6MnJEX1RxZHFuVkw5WndaamN1LUZqaTcxWlpUV08wRWZIeUx2VkF3LWpVWHcxNG85Rjl5M0NqZw?oc=5",
         "headline": "[뉴욕채권] 국채가↑…10년물 5% 상회 후 매수세 속 트럼프도 진화 나서",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1788780681.0,
         "tag": null,
         "first_seen": 1789010126.5217707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE42NWkwVTg2Z0M1RnlVdWVrdkowSmtRaXNRRDctdHFHdmh3TlMwREJvdUNVSVo3a285NHRkUzdhMWZEMUltT01jRjRzcw?oc=5",
-        "headline": "설경구 발언 듣는 이재명 대통령",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/07 20:29",
-        "published_ts": 1788780544.0,
-        "tag": null,
-        "first_seen": 1788849922.3382957
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 10:15:50",
+  "updated_at": "2026-09-15 10:30:53",
   "yields": [
     {
       "label": "3년",
