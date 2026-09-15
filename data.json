@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ0M5cjVCUktDUFFqcjl3Rko4LVJmNDNXZXVCYVRWYXRvMG9TMHYwVmd3UE1lYzYwOENaV0xnYmhWX1F3dWREMjdobF93enhaVE9YblJmX0pBMlpBM0Q0VmhQZXRBTmtZc0NnbDdrelZsVnNsbE9VRzQ1ZkxTd3NoaU5HOXo?oc=5",
+        "headline": "Kevin Warsh needs to walk the walk",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/15 20:21",
+        "published_ts": 1789471316.0,
+        "tag": "Fed",
+        "first_seen": 1789471831.6681468
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbThERjhldXVFclVMTXJXN0dOeW1oeE1GdFJULWJ1eGU4ekNQMnZZYnlONU5qYWpRYy0tT1U0NUZXclc4bjBGMHRxTGFiRG04aTJfOWN5Z1pBOHctOU1CXzBCVXctMUV3YmdIUG5PTEFhUHJ5bDFJZHRJU0ptOG5oemtjbGpPaXFzWk93YUlYTVBSTE9NVVMxZlVnZ2Z2bDZh?oc=5",
+        "headline": "Franklin Income Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/15 20:06",
+        "published_ts": 1789470360.0,
+        "tag": "Global",
+        "first_seen": 1789471831.6681468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPem5Pb2RORGx2cUxQQ2lDa3Jsa1FuSEtPNjJsenBYZ3dFWmF3OHZMcmhNMDN5QnNmb25GellSNndKekkxNzA1aTBqOFNzbmhQTDZuMmF3Ul82bjN2b3lKSjk5aGxtYzl5cFpkeXBSX2NNUXloVTdieXJSZWROc1M0dk84LTJDSWYzelhSNUp6ZklPcmNnX01qd3ZUbk44SWlfR01zMjFKaU9Bc1U?oc=5",
         "headline": "Watch Markets: Bond Selloff May Be ‘Nearing the End,’ Says JPM’s Misra",
         "summary": "",
@@ -1986,26 +2006,6 @@
         "source": "NDTV Profit",
         "published": "09/15 16:06",
         "published_ts": 1789456015.0,
-        "tag": "JGB",
-        "first_seen": 1789456526.1990767
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0Yk1QNFBGRUs1c1lTS1FvbmVYQ1FsT0Y5dGtCTk1oTm9HYW1VWGtnbTk0WkZvZVBBOXhIekhzYkx3UGJhd0ZfS1ozSk9USGMzbUhlZGpEWFZ6aXVqWW1WYXNsamRzWG84UjBkTTZ6RGx5UQ?oc=5",
-        "headline": "[도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/15 16:02",
-        "published_ts": 1789455758.0,
-        "tag": "JGB",
-        "first_seen": 1789468234.8861752
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSzlUSkRaV3dBNC1UenBLbDdjcmFGNk9WODRpY0VteDF1M1I5dDk2Rlo3TEU1UDlTbzZyNmFvVU1LRk9FeV8yVkdNZ0hOb1V3R3p2ekR4UXBTVXZlc3FDbWtRV01HVUkzTmU2Tnp2cVFoTTg2VUxFamptanRGcThOOXJRaHVvMVBnOHllS05YUXZlMjFrQzgzb1BrbmNvNDZzSzBMVC1iQTQ5TW5LTHYwM2xZcGRKdHlTV3RXWTU4aC0?oc=5",
-        "headline": "Asian Government Bond Yields Advance, Tracking U.S. Yields Higher -- Update",
-        "summary": "",
-        "source": "marketscreener.com",
-        "published": "09/15 15:56",
-        "published_ts": 1789455408.0,
         "tag": "JGB",
         "first_seen": 1789456526.1990767
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 20:15:49",
+  "updated_at": "2026-09-15 20:30:55",
   "yields": [
     {
       "label": "3년",
