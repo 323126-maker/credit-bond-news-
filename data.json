@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeFcxc1JaYnkwZ0V0QTVMRVhCcHF4NWtrcl8xMTdJUnA3N0oxVm5aaU56N2N0c3BMSXFYU05iQkVsdEo4SkJGSnJPcjE1SGFkNDlGLXN5OTM2UF9PT1QzZ29PZ0ZmdXNMMWFoN1dDM1pSQjBEb29NQ0ozaThmYlVHdFFXd0JEby11NkE5YnlFOHRHb0ZKazVCTDZ4SGJLYi1WRmxwSGV1SXlPTGl3UFQtcEh2c0xXQnZnWldWMjNLNGtoajNwWWQ2RGVkVk5jak0?oc=5",
+        "headline": "Money-Market Funds & CDs: Americans Pile on Low-Risk Investments despite so-so Yields & Higher Inflation",
+        "summary": "",
+        "source": "Wolf Street",
+        "published": "09/15 11:45",
+        "published_ts": 1789440357.0,
+        "tag": "Global",
+        "first_seen": 1789441237.5200868
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qcUVGYW81TnQ1alFuQmhIVVRsNndza19SQzdQYTNWSXFWbngzQUtqZm1XRjROSnpjWTE1TVhDQXB6cDZrdTJqZzdLWG5nR2lQS3pj?oc=5",
         "headline": "[국제동향] 미·일·영 중앙은행 ‘결정의 주간’…유가 100달러·중국 지표 변수",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789410351.0,
         "tag": "Fed",
         "first_seen": 1789414036.1671712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaUw1UkhVOGwyeVF2cFJhQ2RhdEZwcHVLUTFGVXYyQzJxMFBxMmFGZ1N2YWpYc0V5LVpvSlFLX3VxSV90b09iLTd3U2VXQVJmSlhHUlFEaVlZMTgwQ2tOUlU5dEY0RWpRTTIxQ0hDMU9HSmxOb2MzVTdtMFotdnFzdWpkZWZmZTBod0Y5T21kMVRtZjJaRXBrVE9kZE12RkFOQmcwbVQzWmtsMXV0ZW9yQXB6N2dxdHF2ODNQcy13?oc=5",
-        "headline": "AI doomsday fears are arriving at the worst possible time for the stock market",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "09/15 03:20",
-        "published_ts": 1789410000.0,
-        "tag": "Global",
-        "first_seen": 1789416038.6878917
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 11:45:49",
+  "updated_at": "2026-09-15 12:01:00",
   "yields": [
     {
       "label": "3년",
