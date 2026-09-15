@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PMVN4OTlqMGNKZEpscnFLck5vTjBUcnBodFRycnQwSVVzR2tUWjdEYXU4T1FzVUY3TzAybGFESjZNMmJSUDhhTFEzSGJYVzJGWW54WGxwcUdiRXRRY05jT1ZiblJjTXdrcmY2RmNzclFNdElvUnc?oc=5",
+        "headline": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
+        "summary": "",
+        "source": "AOL.com",
+        "published": "09/15 20:45",
+        "published_ts": 1789472700.0,
+        "tag": "Strategist",
+        "first_seen": 1789473637.6586022
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2VpQm11OEEyTl9EanlSQXd2eDQ3MkZTV3FfOEQ4Y2RlS3RzWkhDS2psWkViaFQ4akx1SzVOSS0tVVJjb1lsbVZrTHR1SmJUQ0lWTU9RZkFBaUQzMktYdE5aT2x1LXZsNmNXVU9uOG91dnNZY3dJVUlRa1BfNkNkNkNRZmdNczJWUG1qQVVGd2tmMF9BWDZxdDBkYkJFcGFFajZ6ZDZza0dKS2h3VUhBaDBZQ1FRNVHSAbwBQVVfeXFMT1R3bnNNRTF0RDRnTTVlaFJmSGNZWVdnMEhtSF9CemVQODhXZVFyd3JzQnJxU1BnNnlFb09jdXBHUlFKT1BIeF8zaVVTY2hzbnAydlBpZFJzVklwLWk1VnhzQnVHQndlM1A4NnRPc2VMZnRSODJjeVBqY19jczdyOUlyOVVQbktINlFVaDllYnUyZld4RVBpc3RzZXM1NXJ4TXg1UGJIT1JtU3ZyREFBQW9aakNEMjdyNExNNGM?oc=5",
+        "headline": "Benchmark US government bond yield hits 19-year peak as oil prices surge",
+        "summary": "",
+        "source": "Al Jazeera",
+        "published": "09/15 20:42",
+        "published_ts": 1789472563.0,
+        "tag": "JGB",
+        "first_seen": 1789473637.6586022
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSS11d0RJWk1ENHJ5UmVnN1RMYkdNbDZoaW5lTlhZcDh3ZV90REdvUDRDYW1jSTVuOWZRZGJid21SMnVBYy1HQTdGVVR5V1M2amdtalNUOWNnaEFlQmFOcU1ZeTByNE9hbzZzT0llNl9BSFRJT1pKZUI3RFVBcXNyNkNLVG9fNDdXZHc?oc=5",
         "headline": "I Want Big BDC Income Without Buying Junk",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789459234.0,
         "tag": "JGB",
         "first_seen": 1789460123.9241865
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5NeHRIaVZuV0ZKUGhxVjZJZmltUDEtN2tkNFJNMkRiQUZZRW5fWDFiZmZMYl82NGs5OWZabkNwdi1ycnNiQ2prWHN5TEVTQU0?oc=5",
-        "headline": "美 10년물 국채금리 ‘심리적 저항선’ 5% 뚫었다…19년만에 최고치",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/15 16:53",
-        "published_ts": 1789458829.0,
-        "tag": "JGB",
-        "first_seen": 1789459236.834197
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHgxamFGREswR21MYVNnc2FLZGMxZjJMUWotaUt1aEQ2RWJoSHFMTGU0aHZnc0NESjZubGxyLWZpYlRsazEtQmVuX0lyTWFsTWJfTExTMnM4c0JWRDVGS01WLVJta1RvQ241bDdJNmgzX2pfUHBwdllYdDM4c3EyTA?oc=5",
-        "headline": "Not all income is created equal",
-        "summary": "",
-        "source": "Morningstar Australia",
-        "published": "09/15 16:52",
-        "published_ts": 1789458750.0,
-        "tag": "Strategist",
-        "first_seen": 1789461923.8766928
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 20:45:47",
+  "updated_at": "2026-09-15 21:01:10",
   "yields": [
     {
       "label": "3년",
