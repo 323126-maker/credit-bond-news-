@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVjdVdnRrci1EWHBMeXNnYjJjelRDZ0VUX25kSVlmM3BCaS1ocTFVWi1zanVBdG1ZTjJZdDhSMl9acE9HWDk5dC1GNXZvVmlEcGtTQzVDNUNMNUFCNFlUc2Vhd0xyZUtNLWVn?oc=5",
+        "headline": "국고채 3년물 금리 4% 돌파…5거래일 연속 상승",
+        "summary": "",
+        "source": "hdnews.co.kr",
+        "published": "09/15 18:38",
+        "published_ts": 1789465086.0,
+        "tag": null,
+        "first_seen": 1789467324.35326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2V0g4RGRkQ29IQ3A3ZldKNndxN1k1d2NYdHNfQ3lTa3VTRVN2Y29Zb21XVjJqUEZRTXlrUFN6SjMtcUtHRlNCYTBhNkhLZVl4b3ZmWFQycGR2Z2QzQy1VQWgyakRXV1RsOVNFRlFn?oc=5",
         "headline": "미 금리 상승에 국고채 금리 '일제히 연고점'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789419177.0,
         "tag": null,
         "first_seen": 1789419643.4230907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5Lc3pSREZPOW44NkdxNk5aUmNDa0l5aDZaQjZ2aXpjTXRjM24yOVBZUS1EVDhvTWVMZ21JY2FXa2JaRjY2WEIwTnB5eVRMcXhqQ0c5VGJERHVKdkxGSl9UbkhGNnN5U25LUUtGdmZ2cm5PRjFyamFj?oc=5",
-        "headline": "무디스, 엠브라에르 신용등급 ‘Baa2’로 상향 조정…견고한 지표 바탕",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/15 05:51",
-        "published_ts": 1789419060.0,
-        "tag": null,
-        "first_seen": 1789466448.280216
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBQT1VXTmVTQjJmaHNmSWt4QjNCOUJPcHE5bXJ2ekJJNWxYcWNXeXZXRmZ1bmVHTWdxMHFGcHdIZ2I4UXpaY2xaS2V2X1otTFZRcTZrNEp2bXAxSDExUXI1SkNjV2RtNWwtNUNNLWw5TGhCR2Rtb0ZmRA?oc=5",
+        "headline": "Don’t Knock Kevin Warsh if the Fed Doesn’t Raise Interest Rates",
+        "summary": "",
+        "source": "The New Republic",
+        "published": "09/15 19:00",
+        "published_ts": 1789466400.0,
+        "tag": "Fed",
+        "first_seen": 1789467324.35326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOEs1bzNvSGoycG5QcnhBdTN1V29lTVBPTjAwOUVGR0NaX2lHMnI2a2N5S3lHamVoM1RCS0RmdDFwTEZkbmNjVmZMQ1RkcURYZlVtY2Z3R002Y25heXF0Ym8wbnNUNG1lTjlSMzFiZkczTmxURWRQODdDUVJ1SEZzZ0N1R0NnT0VUbW4yNGpiSkE?oc=5",
         "headline": "아베노믹스는 왜 통화 완화에서 통화 긴축으로 정책 방향을 바꿨을까요?",
         "summary": "",
@@ -1920,6 +1930,16 @@
         "first_seen": 1789454727.3328183
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVGs0NnBKOXdwNkpMeFJ0S1RkeFVtTWN6cEY3OG9EaF9FSnRMM1I1TVZPVDZaSV9kM2t1S29rQjBBejhySW1PQTFpTFpzaUFHaTdHcXNOOWlaTUxCUnE0cEI1Q2lhRVlWcmVXWDZIWWM5S3VGRVAwSEpPZ25WekRJMnZlWVVWV3JVQlZPVmM5NzRsN2VnLTg2QkhR?oc=5",
+        "headline": "Japan 10-Year Yield Hits Fresh 30-Year High",
+        "summary": "",
+        "source": "TradingView",
+        "published": "09/15 15:28",
+        "published_ts": 1789453680.0,
+        "tag": "JGB",
+        "first_seen": 1789467324.35326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWHpROEZqYlF5TmdjcThFc3UtT19zVkdaUmxDOW0zMlZ2SEZLU0lQQUludWc3ZDNpdzBJUUlfT0JkcHpFcGVadmFMcU1GWkM0aTF3RVNkRnRvNW5GRGlIZjdra0xDX1k2emJGRnVXb1BNSS1zX2s5X09LWXNQSXQ5NHBXRVo5ODJzUnNiSzQyT2xIX3pUZG11WWRVUdIBmwFBVV95cUxQWHpROEZqYlF5TmdjcThFc3UtT19zVkdaUmxDOW0zMlZ2SEZLU0lQQUludWc3ZDNpdzBJUUlfT0JkcHpFcGVadmFMcU1GWkM0aTF3RVNkRnRvNW5GRGlIZjdra0xDX1k2emJGRnVXb1BNSS1zX2s5X09LWXNQSXQ5NHBXRVo5ODJzUnNiSzQyT2xIX3pUZG11WWRVUQ?oc=5",
         "headline": "Moody's to buy minority stake in PhilRatings",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789450158.0,
         "tag": "JGB",
         "first_seen": 1789451123.6216788
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGkxXzdZOVpyaTd5dHFsakU2TG1NM3BYUUZvMnQ3aGp3bmMxanhMZ21UMEIyekY4V05kdU5EVkg1WVFNWUFyQ2FocUtkb0F0dms0Yzk5THczNzNqTk4yVFY5Ui1ld2MtXzdoMG5QODlHUUdhQzE3c1A2OHZFVlJKWXpTYjdwRU90aEx4MUs5ZFU0NTczNkg5dnlNSXF4Y0hCWHdFT2xGdldCLVNaY3fSAbMBQVVfeXFMTnZ5cjBHOHYxWnoxSmpFTTNpV0FPczJyNGJyN29TNnhvQ2NNNkh2akV4dG5GcHI0dXRlYmF2Umg2VWZjWWZyekc3Ry12QVNjaUtMclYwczlRdFhYTWV0aVdxUElCTFlIV0tnRllIbDMyM3Z1N0RkaEg3QmFkWFZpekFGN3RWVVJlUV9zV25BSkZpQy16LXJ0dENNX0lDUWJXLUlFWmZURnhQNWxsZ3hZanpxeWM?oc=5",
-        "headline": "Federal Reserve is expected to raise its benchmark rate, defying Trump's demands",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "09/15 14:28",
-        "published_ts": 1789450139.0,
-        "tag": "Fed",
-        "first_seen": 1789465524.07744
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORjQyVGdHbkRTR08tcUx3dmdUMmJMVGRlelFPLU4yQ0dSN2FtTkhtNHppb2ozcGN2bnR5QjRmQW1UNURNTld6djU1bjhuQzZ2aUMtSTVfZXdrT2hwaWNpRkVuYTA5U3hPVk1OR3dSS25GeDM0aGxsQzNmZzZ6ZW1lTDdGYkJZNUtjaGRHRHVhcm9CUUhLVXVjRWphdXdzLWZUc1pKVVJaSmY3aVRTVEs3cDlIN0RJejVEV2xoUNIBzAFBVV95cUxORkJzT3NGOFhoeTFXNDlFalBQV0M5LVlrMXdSMUJ3MklsN3I4Z3ZhRXBnVHhfdEVFVXpKYUFNOGJ0ZHgxRU5UWm43VlphamNwczNLcVY0MFVCY0FDcF9BMjVXQnZVNGw0R2k0ckVraWxqY2ZodDhDLWY0MGRKSkR1WGgtekQwQzhCbW9XeFZHNVVEa2RQaVItVWIyRWJ6V1QtUFF6TEp4Rk0xaDl5TVJWV21aWGRJQWI0Q2M0WGlHYVdvVTFfT3RkX1poUnU?oc=5",
-        "headline": "US bond market rout intensifies with 10-year yields reaching highest level since 2007",
-        "summary": "",
-        "source": "Swarajya",
-        "published": "09/15 14:02",
-        "published_ts": 1789448567.0,
-        "tag": "Fed",
-        "first_seen": 1789452045.6482882
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 19:01:13",
+  "updated_at": "2026-09-15 19:15:49",
   "yields": [
     {
       "label": "3년",
