@@ -32,6 +32,16 @@
         "first_seen": 1789510532.150138
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAydXlSZTROc2RBMkJ3bWZ0UUsxemtqWHV3VlRXQU9Mb2xTRVRfdE1tM3ZnNEJ6YU9LeE96aFJzNWxweFdOUG9mRE5HVFBMZFB3N3Z6ekJsNFBabEZqWm5weWhKYk1sVDdPV3hvTW5zTUdFaHZXVGN5U29QRXk?oc=5",
+        "headline": "마이크론 0.4%↑, SK하이닉스 ADR 0.46%↓...반도체주, 혼조세 마감",
+        "summary": "",
+        "source": "비욘드포스트",
+        "published": "09/16 06:17",
+        "published_ts": 1789507040.0,
+        "tag": null,
+        "first_seen": 1789515030.7787428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5Q1hpRVI3YlV3aHVDblN3aGZqNzUzaTlXRTVyUXhrdTI2WFJFT1JiZ2xtUG1LWE1MblBpRUFaSTRtYlFVYkx0UGhrOTE2aU1KZGdmd2pOaGtOUlZhTmliTFpiV0lMMG1CaDRqcEtpQUZPSzg?oc=5",
         "headline": "원오크 자회사, 20억 달러 규모 부채 조기 매입 청약 결과 발표",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789453677.0,
         "tag": null,
         "first_seen": 1789479034.8862238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16UmJzcXlVb2dxQlBvZWtTX0ktQVBLR3BNbXk4ZGEya1M3bHhNeVFFT2ZLcDdOMVNGOHZnM1VQZFdoYzNHS08wTUlxbW5pZTBROG5CY2kxSFFzMHIzWlJuLW9Bdk9ZbUljX01RalI1RGZVQUZuNlHSAXtBVV95cUxQU1hHcjhYZ0RhUWlfTmlIaDhBVktQNlRIVlNFODh2NDQwUFktb2FpQmRfa2ZpaEVVaEF5VEN6LUdMYk9ERU1PQ1I0QlFrR1dmZlVXZkdSTTByRG5UcldUTk5yVTN5Y3BDS3F1ancwZWtsbkE1YVdHRW05Z3c?oc=5",
-        "headline": "5%벽 넘은 미 국채 수익률 19년 만에 최고치…\"올해 금리 세번 인상\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "09/15 15:23",
-        "published_ts": 1789453406.0,
-        "tag": null,
-        "first_seen": 1789453829.888754
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa004MTVycEJuRWFFYUpqaGwwdUVDeGtCLThmcXNYeHdteXh0TmcyVWRyQXhLMVFKc2kyU0VraXVfR1dfdnQzSnh6M2pYVW9yZ2MtdlZsN0hEcV9ta0Q3Sml3dXBLUXBGajFqRFBGNnF0UFpwRHY4blRhWU1MbGRlZFNrdklzYVFscC1TSjUxYVhZbDN6OVJ4aHRMbkhoeS0wdG5RcWJCcHpGMUdVSDk3X3g2NVB3c1JaWlBBeEhjejJlb1Blc1dZcVdvWHdKbk5LRUJJ?oc=5",
+        "headline": "Treasury Secretary Scott Bessent dared “Bloomberg terminal bros” to bet against him and they did. Read more: https://nyti.ms/3SQXAbE",
+        "summary": "",
+        "source": "facebook.com",
+        "published": "09/16 08:22",
+        "published_ts": 1789514574.0,
+        "tag": "Strategist",
+        "first_seen": 1789515030.7787428
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qR0Vtby1OVnlPaUNuMENnaGJHZndXZm9LelB5NlA2SlNUMjEybVdwMkl1RXNQc3E5WUd2WXc1eTZGbU50ZlFfSUtic0o4bnUwd2VYMGdjd2xEVTN0b1NxZ1gyUWpHSGlqUXNadkRwaHlYeUJOcE9BSWFn?oc=5",
+        "headline": "[Interview] U.S. 10-Year Treasury Yield Surpasses 5%: \"Stabilization Coming Soon\"",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "09/16 08:14",
+        "published_ts": 1789514040.0,
+        "tag": "Global",
+        "first_seen": 1789515030.7787428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa1FTYVkyeTNNN0VIb0NWMDdWRWl1RGxtNkpWT0Y4YVE5WlNkSk05T0ZqdEhrZThteTlFb3Vfbmx1ZC0xUnBCLXE2MlpnRkdVNG9WQ19YcFI5VXZIT2tZdy11bU1LYjNRN3pYNGJ1UzVhdzFrbml3ckpMdkdPWnFNSVNMc2s3eldWOFBXREZn?oc=5",
         "headline": "A Thin Margin For Error Ahead of the FOMC",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789484162.0,
         "tag": "Fed",
         "first_seen": 1789485326.4110298
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSlJjT04xdnM2YS1RUlJSVUswTTdsNW4zck9ScW1WMjVyYXl6cHVoSDdSaEtUR1BYR25JbXBXYkhWUnVTclp3bGUtWW5CX2I0T0pRRWJ5WWQ2MjYyS3hpOWN5QmtMMnZmelVPdll1Qnk4MkpRR1JlWjJfUFJMUThZUXJqcHRZM09OV05vYXJFbmFVTXBlanM1OE1XZUstQ0FXYVhkelhJeVE5dWY2bDNMMkNuQW0?oc=5",
-        "headline": "Fed Rate Hike Looks Likely—What Comes Next Matters More",
-        "summary": "",
-        "source": "investopedia.com",
-        "published": "09/15 23:13",
-        "published_ts": 1789481627.0,
-        "tag": "Fed",
-        "first_seen": 1789484440.5746913
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9qekM0WjNQTkc1b2tqRTFKQzN1T2lsRnA2MmZxR2dXVXVjQzlGQWZVQVB4b2pKR19rQ0NvLXQ3YW1GNnVGS3VFWVpyYWVNb1VjX1liR0lvTWlRQQ?oc=5",
-        "headline": "AI 멸망론?…거세지는 월가 반격 [박신영의 개장전 요것만]",
-        "summary": "",
-        "source": "hankyung.com",
-        "published": "09/15 23:12",
-        "published_ts": 1789481570.0,
-        "tag": "Strategist",
-        "first_seen": 1789482632.7373714
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 08:15:46",
+  "updated_at": "2026-09-16 08:30:59",
   "yields": [
     {
       "label": "3년",
