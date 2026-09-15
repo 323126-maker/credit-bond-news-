@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XcFhBYTZlWFlQV0Q3UHB3Mmt3NGFZQl9vR0Y5Tl9jRE11YkxsVm1kWU1SWEhGZnlsUUhtRl9rOHRmSkpRWGlxT0EwUElvZXZyVkZ2VVdhSHJWWG83?oc=5",
+        "headline": "김남준 의원 \"재정위기 때마다 공공자산 처분했던 과오 되풀이 말아야\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/16 08:43",
+        "published_ts": 1789515780.0,
+        "tag": null,
+        "first_seen": 1789515923.8196917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9tSGhxX0I3OS1uZXZVWkZXanpvNGl5d0hkNGYxenBJeU5pUGJQTktybDZ5SUlNbVFiQkZwc25ueFROcWZrakFkX0hsLTdfbmVPXzhfSXpxYknSAV5BVV95cUxQWGp6VXZvQ1gyVV9QS1BsdGxqTmQtOW44c0VDc0ZoX2N5eHE2RGswOVliSUh4V01saFBENE02VUI0RFEzdm5pR3IzSHhBc0N5ZXE2dXhmRXRpV3dyYUh3?oc=5",
         "headline": "베선트 \"국채 환매는 성공적…인플레는 바이든 행정부 탓\"(종합)",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789247463.0,
         "tag": null,
         "first_seen": 1789248646.0707822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkbDRsZWJDb3oxV3ZuUE1KeEswVDhDUkdMa25lZ1VPSnZydV9selRxOXN1aFR6R0dNRzhJbFZtYUpTRE1GRTI0QWtjM2FneVUzUjNnd3FyakJQVlE?oc=5",
-        "headline": "추미애, 이재명 대통령 향해 작심 발언…“내란세력 징벌해야”",
-        "summary": "",
-        "source": "강원일보",
-        "published": "09/12 23:17",
-        "published_ts": 1789222678.0,
-        "tag": null,
-        "first_seen": 1789442124.662313
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 08:30:59",
+  "updated_at": "2026-09-16 08:45:47",
   "yields": [
     {
       "label": "3년",
