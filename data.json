@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tTVlESnF2eUpRSjBKY1FzSkFHcmlVZElRa1JUbGd0WEc1MU9VM0xGMnQ4TnZKUjZfUDh2LUl6WlNrX2stbktWMHBwaUVoN0VmQUJFNGl4NXdsYkQ3YXRJZ2Vmel9oVm9udEJJNFh6Z2hES0tISXZzU9IBeEFVX3lxTE8tTVlESnF2eUpRSjBKY1FzSkFHcmlVZElRa1JUbGd0WEc1MU9VM0xGMnQ4TnZKUjZfUDh2LUl6WlNrX2stbktWMHBwaUVoN0VmQUJFNGl4NXdsYkQ3YXRJZ2Vmel9oVm9udEJJNFh6Z2hES0tISXZzUw?oc=5",
+        "headline": "이형일 \"'지속가능한 성장'에 역점…비거주 논란 송구\"(종합2보)",
+        "summary": "",
+        "source": "newsis.com",
+        "published": "09/16 00:14",
+        "published_ts": 1789485264.0,
+        "tag": null,
+        "first_seen": 1789489830.788344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBzNGZwVlZGbGZPdEVSZGRyeTZ6N3hGenRiLUd1eFVMT3cyUkVvN3dGQmhxNnBHdzBJVW9xUDJscUp5WEx0ZmlIUUpjODdpQ21ERUNEUw?oc=5",
         "headline": "추미애 도정, 김동연에 재반박…\"자구노력 없는 확장재정\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789191918.0,
         "tag": null,
         "first_seen": 1789307121.8754866
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBYbjZwWWhxb2VjNmdCRFNKNFBIVmJXc1F0MnpPMlVkajBYcGtnRUtwdTdKNTdud3pfWnktbG1iMmFpTU42dmV6bUZYS1ZsRHFJOXVLMTFVSk9Ld3ozTEduZFRZQ3pmanJndVNj?oc=5",
-        "headline": "이재명 과거 용혜인 법안에 \"기본소득 동지\"발언…野 \"배급정책 부활 신호탄\" '비판'",
-        "summary": "",
-        "source": "더퍼블릭",
-        "published": "09/11 10:18",
-        "published_ts": 1789089535.0,
-        "tag": null,
-        "first_seen": 1789095642.6641917
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 01:15:50",
+  "updated_at": "2026-09-16 01:31:05",
   "yields": [
     {
       "label": "3년",
