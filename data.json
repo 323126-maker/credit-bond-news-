@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lOG5WSk1zZlpiN2ZhMVpINkVRMmVjLVFFa3BIanQ5MUkxS09ZM1FtNm1NQXV6VmNVWDVuMHdzampNaWpSem0wWlphUmNrT2wzT0Rfc0NxUmo2SXFz?oc=5",
+        "headline": "음성군, 용산산단 자금경색 해소 총력…600억 매입확약 검토",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/15 09:45",
+        "published_ts": 1789433100.0,
+        "tag": null,
+        "first_seen": 1789433902.1291416
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45WnNZd3VRanFUcXFQQ1dGV2Z0eEVQdU41SnBfdWNuM1BwaTBfaW11ZlMtOWtncnk5T2xxRUVxSmpEZ256STg4Vm5sUzBDTDhqeXM0QThCcURWYWlzcEhzdHg0NHVkeEszZWlJbWg3dWk?oc=5",
         "headline": "인도, 도매 CBDC 연계 ‘토큰화 회사채’ 전격 가동… 102억 루피 당일 결제 완결",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "KB Think",
         "published": "09/14 16:41",
         "published_ts": 1789371695.0,
-        "tag": null,
-        "first_seen": 1789372840.7838566
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcDl5Z0NFbWVralJwVVpodkQzS2RFTzdaSWxhZ3RLc0VuZHN4X3N1czE2TWtBM0c3R3ZNNzYzUHJldVVNVzVfQXdqUmFielI3UDRRaExZdEE0S1JRbFQxMEVQV1psUkYyWjlicGhFUTItZktrUk9la0pqZDlfZVIydw?oc=5",
-        "headline": "[마켓인]글로벌 VC 27곳 베팅한 삼양화학…벤처투자 판 키운다",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "09/14 16:40",
-        "published_ts": 1789371607.0,
         "tag": null,
         "first_seen": 1789372840.7838566
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUTQxSDByWTJReW9RYW81MkJVS3FyS0Y5R1AxdG50eHI3Sk5HZENVRW9jWEhnSDdUWmJ1NjVaNXBjOXNyM0JhUnEtVGVRM05ZWnBTYU5ja1JYLTdBQm4wWEtwVDVJZkh0UmFGZFJqRGJwRFhHaUxKVkh3OFJRVTVyVXpMeDRaSTJ0LVlwRmdGdVhzQ1VnMHk5Yzh4dF9LYUZJdGt1SXZ4OFV4eDRleVE?oc=5",
+        "headline": "John Hancock Multimanager 2030 Lifetime Portfolio Q2 2026 Commentary (JLFAX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/15 09:45",
+        "published_ts": 1789433100.0,
+        "tag": "Global",
+        "first_seen": 1789433902.1291416
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLU1rUElEWkVFZ1UyajZsc0FSVDc5M1d4VzhmSE02YWxXMkVRdzlXY0UwRTY1SGV5VU9YYUo3U1BSWGkzY0hwS0ZPZHJaWGZ4MFhSR1dBZi05MThpazlkeGZ2YzJUTE5TSEZwLVZyajBJVGtad0JpMHdYNFRiRFpFTmZHV21lNmdJZjBMNzdnRy1pVDlmeTZybXE4TlZjX044N0hzWkdPTldjQQ?oc=5",
         "headline": "Spike on 10-year bond yields renews concerns over U.S. debt",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789404037.0,
         "tag": "Strategist",
         "first_seen": 1789405245.188056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdUFaXzJxSElvRkpCVThFSTIxUlFUa1ZjT0JSa0E2WEZCX0Y5TnFpRWhPU1VRX2RGZkNyX1g0eXhRZ2xaUjRkSmZrLVBMaU14cEo1V19va2NYN3dzZVQwallQSnlMa1pjSGt5c3ZKRVFPNElQR19YNHVYeDBHX05XdEFrZTUwMXNqR3VfeVNDMEp5XzV5UWUxM3U3SVBDMlRtZGpWM1BJSlk3eEdobkE?oc=5",
-        "headline": "Global yield spike reflects energy shocks, not policy failure - TS Lombard",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/15 01:35",
-        "published_ts": 1789403702.0,
-        "tag": "Strategist",
-        "first_seen": 1789404324.0566
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 09:45:46",
+  "updated_at": "2026-09-15 09:58:44",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.453,
         4.54,
         4.536
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.61,
-      "chg_bp": -2.3,
-      "series": [
-        4.661,
-        4.63,
-        4.601,
-        4.664,
-        4.621,
-        4.576,
-        4.542,
-        4.468,
-        4.491,
-        4.49,
-        4.559,
-        4.614,
-        4.593,
-        4.573,
-        4.567,
-        4.56,
-        4.551,
-        4.548,
-        4.633,
-        4.61
       ]
     },
     {
