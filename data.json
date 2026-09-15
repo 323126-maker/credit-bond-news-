@@ -102,6 +102,16 @@
         "first_seen": 1789461923.8766928
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZW55ZDRtS3BWLTBpeFVrQXl3TGYyVlBVUFRMalcycnVfbVBSS0x3WF8zckRxWmZESzZwT192cjdXTmtQZVhqTGI1d2FVTk9vZTFHOWJvY1NMVGtpYnpzXw?oc=5",
+        "headline": "美 국채 10년물 5% 돌파에…국고채 금리 연고점 경신(종합)",
+        "summary": "",
+        "source": "yna.co.kr",
+        "published": "09/15 17:22",
+        "published_ts": 1789460567.0,
+        "tag": null,
+        "first_seen": 1789470926.5313551
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUkRtOTRFZy1YYTdiV3gzN3hKaXVPb081dEpFdDYyaHBheUVZWkhWeFZOcW5oejNKWHpINkxhR0pqd094U2RhbG91SlNNUXNMYktnVUtkSWJQVW04MF8xY3ZvS042Nlh1UkE0LVpzQTU?oc=5",
         "headline": "아시아증시, 국제유가ㆍ美채권금리 급등에 일제히 하락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789428951.0,
         "tag": null,
         "first_seen": 1789436722.476322
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5Pbk5rQTk5MERocWJCaFUtYVVYQUNhTlBKWW1LUDZFQW8yTHY0VnNzdjk2eEFJUHhWZk5nTHd4VWN0VmRMelNSTEd1UVpoeXFTUjNJUGV6SWE4S3hPb0x5emJYVQ?oc=5",
-        "headline": "월가 데이터센터 붐, 美 부동산 채권시장 판도 바꾼다",
-        "summary": "",
-        "source": "더구루",
-        "published": "09/15 08:25",
-        "published_ts": 1789428329.0,
-        "tag": null,
-        "first_seen": 1789429525.36327
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPem5Pb2RORGx2cUxQQ2lDa3Jsa1FuSEtPNjJsenBYZ3dFWmF3OHZMcmhNMDN5QnNmb25GellSNndKekkxNzA1aTBqOFNzbmhQTDZuMmF3Ul82bjN2b3lKSjk5aGxtYzl5cFpkeXBSX2NNUXloVTdieXJSZWROc1M0dk84LTJDSWYzelhSNUp6ZklPcmNnX01qd3ZUbk44SWlfR01zMjFKaU9Bc1U?oc=5",
+        "headline": "Watch Markets: Bond Selloff May Be ‘Nearing the End,’ Says JPM’s Misra",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/15 20:01",
+        "published_ts": 1789470104.0,
+        "tag": "Global",
+        "first_seen": 1789470926.5313551
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SWl82NVlMSmZUQmluWWwwRk5PWlB4dFhydTd3MFZESGpDVVlqRVZNQkdOMGRsOV9BTHFtSXR5Q0F0NF9vRUlfWWwwRldSRU9sZnZscDN6NkoybDRKZEUtT1lOY29HQTFpM3V3Z2RhWmR6VHBrMVE?oc=5",
+        "headline": "Global Bond Rout Pushes JGB Yields Past 3% for First Time in 30 Years",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/15 19:55",
+        "published_ts": 1789469700.0,
+        "tag": "JGB",
+        "first_seen": 1789470926.5313551
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTUt4WDQzRV9Ed1c0d3dkU0NUMTdXclJFU1Fma3BPV0ZZZFNKY2ZXLXZDSGhFZWRnYmdXNXBTMGxCQ1NFemVETHRtU0RtNnpvSnVnRWR4WWdoN3BIWHBnR1JReGtYYXd5WlV1WGFPRm51VXYwaHR6ME5Kc0JNd05lV045Z0E1ZVIteUtoZGdsTDk0MEhoSkJxOWpwUXh5UHJILVdOS3dvNVZ3cWx0TTAxb09rcS1ITXdGUnFLSTdrMNIBxAFBVV95cUxQLUxNZ3A1RWhBOHZ6MzRscHVPcXBtRzQzRjU3eE9mcDNIOVZ1SE10U3hRYTJQdWxUUWVMdmtZMGRBbTFjNENSUHRGRmphRURhQWppVWNBS1lkdTUydDlDWjRTdWZ1MzdDZ0VqUmlhenFxTmVGLVlxdUhDdEZ0eC11MUxQNExTYUJ2RzZnMjNtaWNZZVdyX2hTTUczVHVieW1qSnB3eXZFUWhhUHdDckFBbnctT2xVcFR0SDQ3azR0SUJ5UW9Q?oc=5",
         "headline": "Why does the US bond selloff matter for global markets?",
         "summary": "",
@@ -1688,6 +1708,16 @@
         "published_ts": 1789465835.0,
         "tag": "JGB",
         "first_seen": 1789470041.8232608
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGh1Rm8taXRDUi1KZVc0WTg0QWYtWHNFMk9QaEFGbkV4UmJhZ09yYXpMNVRjeHpRUnBNZVVPaUVLb1I3d01ibXkzSExrWTFvaENwdFpmNG0yZGRQRTJORmh5X2Y3bGZCNjhMVlhoRmFBMFpQQllYUEhhcE0xUVZsUzJEb0stdnhEdkNVSmFra0g2aWJ0d1ZfajJzeTBrU2NIMHR0c3pR?oc=5",
+        "headline": "Yields surge globally as inflation fears trigger bond sell-off",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "09/15 18:43",
+        "published_ts": 1789465380.0,
+        "tag": "JGB",
+        "first_seen": 1789470926.5313551
       },
       {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNR3MtNmxyczVWOVg4NlBpdm9BR0NVWmlsZjJ3Z016NW5wYTJGMWZFRUg3R3JWb09ZbGdUamk2UzI5STg3UGtSZ0plUXNFaS1oeUd3Qjk0YlBaQzB3QnlJYVBUZWRaNWNhc29XZEtCeWZRSXoxMml4SkZyaFdnQmFERF9QRjh5V1o4TmhmRWhIaTRrcUk5ajZwbGNLY01QRVZVSDlzaGdFVEVGUHJiM0xEZDNxWk8xcU5CT0ZkVDhkcW5MTGR20gHMAUFVX3lxTE5nNXNvZ3NyMGVqVlFCR0tGc1J0R2tIMUNxVWtwYnYzVHZoZWxtWnJ0T2E3dEE1QWQ5Mi1lamp2dU1PMERnNUNnaEhRaWp5Q1h6MUNqRWp4LU5pbzNWalB2TXhBOU4wZ2tDeWYzcXZEb2tNRktvMjdYWWM4YzQtTU5uS0k4SWFkcHpONFZ3WDVGbVdSYURET2Y3NWFFNGMzU2VwazRxQ29KZkotOWhhelV4TXdPaHd0MS0tMG9XTG4tYVQyeU1iX2lJUDhueg?oc=5",
@@ -1830,6 +1860,16 @@
         "first_seen": 1789462837.027255
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA3dUN0RklBSmxNemFMbXNsSFRLSGtDMUhJTTk5UGdLU3hvb05YQ016dXh5YjZNeGhqeWNBUmlaNTZkV2wxQ3c?oc=5",
+        "headline": "세계 금융시장 덮친 국채금리 상승 도미노 [사설]",
+        "summary": "",
+        "source": "매일경제",
+        "published": "09/15 17:22",
+        "published_ts": 1789460573.0,
+        "tag": "JGB",
+        "first_seen": 1789470926.5313551
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GeXRrUzd1Z2ZrQXc1eTBvbXhERF9WZmIxaW1iZWhjWmlENzVuaDg2dEtxbjg4eHZVNnNtd2hRUFhJRHg5MEpaOWkxVUZoSTc2UHZia0U5TWVCS2tnQVpjeUU3eVNuMFFNTGx2N1FSMW1xQQ?oc=5",
         "headline": "[亞증시-종합] 美금리 급등에 일제히 하락",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1789455408.0,
         "tag": "JGB",
         "first_seen": 1789456526.1990767
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBuVU1SS1QtZ2RrZ0gxSVJvNXd6VU1pbzFrUHh0aC1odFBRN1V2eG9wbDRsMDN1dzVoRU43d19QQTgtQjU4YjZLMkx4dlJQS21UdVByNTFHTm16aDVpWHJubDdJNWdGOWpYYm9YbG95VGEwT2h0b2c?oc=5",
-        "headline": "PBOC Plans New MPA Indicators to Curb Banks' Excessive Long-Term Bond Holdings",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/15 15:56",
-        "published_ts": 1789455360.0,
-        "tag": "Global",
-        "first_seen": 1789459236.834197
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pVFVFY0NKN3llX3FBcVZ4Ri0xMDhLdlNKVEFYVFJFRHl2MGtqeHFjd2NCY056cUdqaFJfREx2UFE1T3k4MlJrUTJKaGRaclBFQW8xaFRNX3ZfcVV1U0wwVGJqdVhtUk5JRFVhLVlUeUVZbTZuanc?oc=5",
-        "headline": "Treasury Yields Top 5% for First Time Since 2007 as Oil Shock Deepens",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/15 15:55",
-        "published_ts": 1789455300.0,
-        "tag": "Global",
-        "first_seen": 1789458326.771113
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSGFVcTdmT0xxOXo0RGhVLWN0NDAxakZaR1VMU0ptWUpCZFFHY0dEZkVlcHBaNElOMUNPOVhvdUxZZmNLRndlSUFrcTN5emJjZVk5TFE1WmF2MHotQ29ZSElGbWF5ZzJGMGhZYjY0LWFpQmU5RVJiZ0h1ZDUxcWNueF9kM2pudWpR?oc=5",
-        "headline": "30년만 대발작… 日 10년물 국채 금리 3.025% 폭등",
-        "summary": "",
-        "source": "g-enews.com",
-        "published": "09/15 15:47",
-        "published_ts": 1789454849.0,
-        "tag": "JGB",
-        "first_seen": 1789455639.7135644
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQTDRtTXJrZWVnV25WYWQyUl9sYUdlUlMtOG1YZGNIdndScXdJeU1ZUHJ4VVhvOEVJLVliaHdFazdncFJhVHZ6QlVqNUF6dm9zUGV1ME9ybEdxTlE1cjZORVZqalk1a1FxdnhYNVM4MHUyRjZISVpDNnJMWFdxUmNPajFadmlMbkJVbnVYM19zTWF5Q2dNZEMtc2FOeXZQdWFHYWlIdUZVOU1iX0FRSDd0ektXTXZhV1RPSDFN?oc=5",
-        "headline": "BINC: Attractive 7.1% Yield, Controlled Duration, But Tight Credit Spreads",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/15 15:40",
-        "published_ts": 1789454426.0,
-        "tag": "Global",
-        "first_seen": 1789455639.7135644
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 20:01:05",
+  "updated_at": "2026-09-15 20:15:49",
   "yields": [
     {
       "label": "3년",
