@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmSXBjOXFYT0hic3JWck5LQkwwYWNEczF1cm0xSVVoa2tjMnJTSlZpNWlGTW1ON2tJWXZYeEMtTjhTeG9UU0xHQTRkN2dlTnk2QkItOHJYSXROUEVqUWZkcnpGQ0tzQkFPVlZSdW82YlZBUnRp?oc=5",
+        "headline": "금호타이어, 신용등급 A+로 '더블 업'…NICE·한기평 동시 상향",
+        "summary": "",
+        "source": "파이낸셜리뷰",
+        "published": "09/15 13:13",
+        "published_ts": 1789445582.0,
+        "tag": null,
+        "first_seen": 1789446633.5648327
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jSXh4eTA0cm9WZTNhSTJ3WVRUbmhIcU4waGxRRmZMRUg3NDBkc09nWGtOaHdwNGk2aWxySzVzSGFlc2swazE5b09USzdyMjczYU5ZcUxDM0NZSEhXTlRhQTE5ZWRlYUZ1ZTZIeGRuamZ4UQ?oc=5",
+        "headline": "\"하이퍼스케일러 부채, 겉으론 평온하지만 숨겨진 빙산\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/15 13:12",
+        "published_ts": 1789445520.0,
+        "tag": null,
+        "first_seen": 1789446633.5648327
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlbVpFRkJUS3BpLXBoMzkzU0dpRGdIWlNkMTU0VXdYODJyRnJIWG82eUdaLWpxTmJGVFU3ZDB0cGF1N3BuVTBtOEo5NkdXY2dj?oc=5",
         "headline": "회사채 만기 돌아오는데… 국내기업 자금조달 ‘경고등’",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789383180.0,
         "tag": null,
         "first_seen": 1789384526.235171
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sQjVhdWhMY0prbWw0OERCTm9lMDNDRG50bHViZTFEVGhyd0tldU4zMlpwTnlSYkVlM2xSV3dCTU9QQWpGMjdtX3h5VGFhU28tbi04Vk5LM0JRSWZvbWFnbUo5S2l3ZjhMU2pEVG1Zdng?oc=5",
-        "headline": "[亞증시-종합] AI 속도조절론 등에 기술주 중심 약세",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/14 19:21",
-        "published_ts": 1789381275.0,
-        "tag": null,
-        "first_seen": 1789385434.4447186
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHV0tvamRrZjhnOFozLVdreVdNQk1KbXE2S2F5S1BQTDl4akhJN0FVbmRzbFRMZm9odXdxRVladUpFcGJMbUJ6WHNqWGlpTGY2bXk3dWFzZVJsU01aeVE4eU96bWczdWhpRkQ4UUR3?oc=5",
-        "headline": "루피아화 급락·재정 불안에… 인니 프라보워, 재무장관 1년 만에 전격 경질",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "09/14 18:53",
-        "published_ts": 1789379604.0,
-        "tag": null,
-        "first_seen": 1789380924.3271182
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-15 13:15:46",
+  "updated_at": "2026-09-15 13:31:01",
   "yields": [
     {
       "label": "3년",
