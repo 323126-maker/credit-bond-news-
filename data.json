@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAyRjYzNllPM2lIbHBkWDdjVGhSdXNpNExuN0p4SWJraEpidU40ZUtjNmRQS1lFTWxlOXdWdF91b1p2MHNzeUh4OEtLNUNnNERfNzlvc09hRVZNUQ?oc=5",
+        "headline": "연 4.75%…日소프트뱅크G 1조엔 회사채 10시간만에 완판",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/17 06:41",
+        "published_ts": 1789594863.0,
+        "tag": null,
+        "first_seen": 1789595064.4599
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WQVJGS2c0S2hzLW5KNDQwV2VjQkQ4MXpOYWVxeEpxS1FPVXF3dGl3V0xVdEZZOEdKTE51bVFvQmV5cjlqQ1lWbmdqUzRNUUVqaGJaQ09WWjVTT01oQmxmcmplRnVmVERVYVQ5V2w2TUN6YjBNbC1R?oc=5",
         "headline": "무디스, 하이스터-예일 신용등급 유지, 전망 ’부정적’ 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789524647.0,
         "tag": null,
         "first_seen": 1789524925.6586068
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOX2cwMXBlVXg1Q0NHSEFxSU1wejE0ZGxvc0FWakFBMGpvZGNVdURwOXF5RlVfSWVINkdNNGMtRjRhSWVCUXZlLURSektOQVprODI2MjZURHRvS0pPSDE2YnRmTm1qTWZiSkd1ZmxIRG9UMUtPdkN0akxnQk9GZ0lFZUZxUm4xLWVNYUhEN2E4SmYzVTNTbWtDZWgxdExEblBpUjR0TjVseVBDVFVwcEdBOUtoeFgzdDVwbFR1dg?oc=5",
-        "headline": "규칙 읽기에 익숙해지는 토토사이트 이사비 비타임 입문 노트",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/16 11:00",
-        "published_ts": 1789524024.0,
-        "tag": null,
-        "first_seen": 1789538435.7530038
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TeWFyZWJIMmFYaklCZUhMWDkzYUZpTDc2djNyTjJSdTU3TkNwekFsaDBnUEYyNUxQQ2J6MDJxVzBfclNkR0NtOGZ2RmRuSnc3Rk8zYTk0d3RScVhv?oc=5",
+        "headline": "연준, 트럼프 압박에도 3년 만에 금리 인상…추가인상도 시사 [종합]",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "09/17 06:30",
+        "published_ts": 1789594200.0,
+        "tag": "Fed",
+        "first_seen": 1789595064.4599
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00WG8zOVQwMXI5NUM2TVNGVEFHUGtfX3VoNEFLUm93SUw4aVpSaGlRNkVobmF6YW1OUURRekhSdThpZG9sVGR4bkpGMzNKV1k?oc=5",
         "headline": "트럼프가 임명한 워시, 첫 금리 조정은 '인하' 아닌 '인상'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789580758.0,
         "tag": "Fed",
         "first_seen": 1789582524.7206318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yNHdUSXZsMk53aHFzRlNIcEpRVnlOOXZqUEdDZ0kzbkRYS2RIb1QtU3dDSEZSWlhiQmVVMzhSU1J0MzhrVGgwVHRaaEwyQmoweUQ4UVJ5QUlDQQ?oc=5",
-        "headline": "美 FOMC 이후 증시 전망은 [한경 프리미엄9 TODAY]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/17 02:39",
-        "published_ts": 1789580340.0,
-        "tag": "Strategist",
-        "first_seen": 1789583436.068476
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 06:30:56",
+  "updated_at": "2026-09-17 06:44:49",
   "yields": [
     {
       "label": "3년",
