@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UTU53TVZwbDdsTTNMcmo2OVNMWXNmM0JxX21OWmIyVkowcGpzazgzV0RjZ1EzcVloX21WdFdXazhRdVdjSWR4VDJNS3NRUE1YTFVvNExIRERFZlVSU2c?oc=5",
+        "headline": "[파이낸셜 워치(181)] '제로금리의 나라' 日국채 3% 뚫었다⋯30년 만에 돌아온 금리의 공포",
+        "summary": "",
+        "source": "포커스온경제",
+        "published": "09/16 10:44",
+        "published_ts": 1789523059.0,
+        "tag": "JGB",
+        "first_seen": 1789524036.162473
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObk45bG5wRTI5cVN4Ump5OFBuNVB0c2ZjMTI1dHVnY19JUURpdlQ1aXRpQWswQ0Z3cHdKVFdNQ1g3eUQzUWsxUURGdFZRN3JkRnNKRm5SRDNlU1ExZS00WVUyVHotMmQ3TUhGVVZtc2xXNWw3Q0dFMG81dW1nenlfQk91VjBLaDl6SnVPbE1ZODV2YkNBQWVj?oc=5",
         "headline": "Asian Markets Edge Higher as Investors Await Fed Decision",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/16 02:29",
         "published_ts": 1789493397.0,
         "tag": "Strategist",
-        "first_seen": 1789494324.1737447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeldybDNJay1lN2VXajI4QXpaMnZJZ1RhUjdrM3NRbURCdkhYUjlBdnBDOUhGVExJbU9PM1J4VDVBYm10TXU3MmZlblliR1VGUlRESG1CUDY2VG5menkwSjRrdmxxN0lQZVhHODRYcGVxVnlLQ3pXTkFpUG1kWmxNN2lMbjdrSnRHMG9DY3ZVaE9OQTRVYXRFdlJBYURhblVXd0hGMGo3N1E?oc=5",
-        "headline": "What history says about how stocks will react to the Fed's long-awaited rate hike",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "09/16 02:25",
-        "published_ts": 1789493122.0,
-        "tag": "Fed",
         "first_seen": 1789494324.1737447
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 10:45:57",
+  "updated_at": "2026-09-16 11:01:01",
   "yields": [
     {
       "label": "3년",
