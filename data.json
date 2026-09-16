@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3Y5MllHNlNLbmhqSnJ6OFI3X0RRSUU2eGNfT1Bwc3lxbWZtaXhPaUw5Q0RxcWlQZl9faHAtaXR1Sm96ZzJUcmtXUlVkUTJwYjNyWnhnUmFoQzUtYVNuTUhxLVJ2RmRubGxnQlZiSE8zX09zVERwM2FjVnlXTjZyLWRvZWFCOWVOYlpGR1hBN04?oc=5",
+        "headline": "【US Pre-Market】US Stock Futures Rise Across the Board Ahead of Imminent Fed Decision; Intel Gains Nearly 3%, Nokia Jumps More Than 6%",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "09/16 21:02",
+        "published_ts": 1789560143.0,
+        "tag": "Fed",
+        "first_seen": 1789561829.855432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMFBrRmh4ZWk3NEtTRXp3SFB0MVNPTnR3SFBYYzduYjktTGxVOU9YdkE2bzczVEJnUC1FMjFiSXZMeTlQMTZ0Rk5EaFNPdEEyd0tsOE5mTXNyQXAxRnFDR0dhRDhmYkxWT0FOTVo3dUJzckZydTE1cGJMaWJFbnFXM2RLWTdncE84?oc=5",
         "headline": "Fed rate move tests Warsh’s delicate truce with Trump",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789536832.0,
         "tag": "JGB",
         "first_seen": 1789537525.0267756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOV1hPc29rOXdLMHl0TklYRnQ5dXFlWG1fTVItZm1uZ01qaXVrOHNORHBVT1VNQ0laOVVXUkZ4b1VYMTQzVzlQNnViOHdpYlBzTF8wSEtVclNZTGctTW9ZSjN6OGFWRWRhc1M3eEkyX1dLYnRkalF0S05FT3FnbnBFU1VPUkt6cDdaeDBPV0FJOXBxeWxXTElZS2pNNjdKQUhRSkdmRzFLc0VFQQ?oc=5",
-        "headline": "Asian markets advance ahead of Fed decision",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/16 13:51",
-        "published_ts": 1789534260.0,
-        "tag": "Fed",
-        "first_seen": 1789535549.9692364
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 21:15:50",
+  "updated_at": "2026-09-16 21:30:55",
   "yields": [
     {
       "label": "3년",
