@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aeG9rYkRBTnp1MFZrY0dpdnh6cG1yeFFDS1FyeVZpRHJrTUx3V2lVMVlZWm5fOHRqcFNWd3p2VTdUSlA5OW4xaDFQOXVOTTlvX0xzOGxMc0pWRVotdFFCS044TjlJVFpTMkNiSVUwUmdoUQ?oc=5",
+        "headline": "대외금리 연동 속 FOMC 대기…국고 3년 1.6bp↓",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/16 11:10",
+        "published_ts": 1789524647.0,
+        "tag": null,
+        "first_seen": 1789524925.6586068
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bzdBR1lRSEthRUJlQ1ZsdUhvMEZ4dDRPOEZMbnZsakd6SmRvWGJjNHVrSWdaWXo4WWZHQ0kxNTc2azM0QlJ0dkFEc1ZGS1czYzQzeFg2VFdmTlHSAWBBVV95cUxQV2FOUVRaeVduaUVKWGE3VzJ3Rk9kbWRLZ1lYd25sOENGeVlGeGRfakZnSjBleUtuMVpJWmhKVHJBbjRTZG5aOVpaamF1UDVnNnhjSDNjUUJIMUpHTGxDZ1g?oc=5",
+        "headline": "\"글로벌 긴축 불확실성 속 10월 채권시장 보합 전망\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/16 10:40",
+        "published_ts": 1789522834.0,
+        "tag": null,
+        "first_seen": 1789524925.6586068
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxcVowOVMtbzJ0R2dqYk5qU2hzQXp4ekRhVDh5Z05pSjVGUkhUZU83UV83THRxZnRLbHR0cTNlR19LcW9scDNGQ01uYmM4Q3Jzc3c?oc=5",
         "headline": "\"올해 물량 축소, 은행권서 조달…내년 회사채 발행 확대 가능성\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789461360.0,
         "tag": null,
         "first_seen": 1789461923.8766928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9nc3hTV2xrMkxCMXFZTGZkbVpuOE82WXBiZHUyQjRMeEFuUGlIR0VCbzNrXzFlSWVraHA4cGlvWjV4RVRvNlVGSUxuZnZycVU?oc=5",
-        "headline": "구조조정 필요한 C·D등급 기업 56% 급증 … 대출 부실 '빨간불'",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/15 17:36",
-        "published_ts": 1789461360.0,
-        "tag": null,
-        "first_seen": 1789461923.8766928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZW55ZDRtS3BWLTBpeFVrQXl3TGYyVlBVUFRMalcycnVfbVBSS0x3WF8zckRxWmZESzZwT192cjdXTmtQZVhqTGI1d2FVTk9vZTFHOWJvY1NMVGtpYnpzXw?oc=5",
-        "headline": "美 국채 10년물 5% 돌파에…국고채 금리 연고점 경신(종합)",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "09/15 17:22",
-        "published_ts": 1789460567.0,
-        "tag": null,
-        "first_seen": 1789470926.5313551
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 11:01:01",
+  "updated_at": "2026-09-16 11:15:50",
   "yields": [
     {
       "label": "3년",
