@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tTVlIODdzTThoWXRLWDJGU0VaNEQzZE1tQjN0OGQ5Sy1Mall2MzNHVTJRSGwwczVwOXgyX3czMDNnX0gtMFB6cEctcjMzVmNQVHM3cF9vT3pLdTBwTzRucDM4QmRCNFRkcnU2eQ?oc=5",
+        "headline": "IBK투자證 \"일본은행 9월 금리 인상 유력…최대 수혜는 日 메가뱅크\"",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/17 08:51",
+        "published_ts": 1789602660.0,
+        "tag": "JGB",
+        "first_seen": 1789602804.3355947
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Nalc5UjZ3R1VmOFRORTdiZV9SYVE3NFZ3Ri11bUN0WE9UUUNnN1JENk1HcllBbUl2N2ptVVdBRUVPVFd4NFZaUmZwRXNOckRqQWNsd3FqUDA2QnPSAWBBVV95cUxPeERJOE4xM2JhTGRoMVg1Ukd6cE10MGZucVhOMHh4VWFqdWdaOVR2OUZWemJaNWN6UFgyR0tNbENEZVZpdHdlNDRieldSVkFBbFJ3bVZJZjloanBhUklXLS0?oc=5",
         "headline": "IBK증권 \"일본은행 9월 금리인상 확실시…日은행주 수혜 주목\"",
         "summary": "",
@@ -1840,6 +1850,16 @@
         "first_seen": 1789590631.7114267
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
+        "headline": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/17 05:10",
+        "published_ts": 1789589410.0,
+        "tag": "Fed",
+        "first_seen": 1789602804.3355947
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03S1JzNGlEWGRIclVmaWVzWVNQN0FTSzVGTm8xMXB5bldhcEZ0VWphbmhoN1d4VDdCaU55NjE3aC1nNWdJVTQxZm5DbFFva0E?oc=5",
         "headline": "워시 “인플레 너무 높아” 추가 인상 예고...美증시·채권 약세",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789586836.0,
         "tag": "Strategist",
         "first_seen": 1789591524.0970006
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE44LWlNNlQ4cWJ4ZDV6SWZqcmhSVWJGdG9sMk1PSlZsZEZfa2tfUm5iWDVGUzFPdWlyQ05ySnFMSGFCQUNJU0xrNWJmTHVINnc?oc=5",
-        "headline": "케빈 워시 \"물가 안정, 가장 어려운 계층에 가장 큰 혜택\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/17 04:14",
-        "published_ts": 1789586041.0,
-        "tag": "Fed",
-        "first_seen": 1789591524.0970006
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU?oc=5",
-        "headline": "What the Fed rate hike likely means for you",
-        "summary": "",
-        "source": "PBS",
-        "published": "09/17 04:08",
-        "published_ts": 1789585688.0,
-        "tag": "Fed",
-        "first_seen": 1789587925.7603505
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 08:45:53",
+  "updated_at": "2026-09-17 08:53:49",
   "yields": [
     {
       "label": "3년",
