@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XSGlGX0N1RVhyTkV4Q2c0Qk40Qml5UXZuQlF5Smp3bHpjN09ienBZOC1GSmlmQUJLRVotdFZkbHAtWGs4Tm5XX0hCZjN4NFFKWV9GcTlBNmpHYVlDcVRhM3AyRUtnMlRUcUJz?oc=5",
+        "headline": "다시 비싸진 ‘돈값’…국고채 4%대에 가계·기업 금융비용 압박",
+        "summary": "",
+        "source": "hdnews.co.kr",
+        "published": "09/16 11:15",
+        "published_ts": 1789524904.0,
+        "tag": null,
+        "first_seen": 1789525830.338441
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aeG9rYkRBTnp1MFZrY0dpdnh6cG1yeFFDS1FyeVZpRHJrTUx3V2lVMVlZWm5fOHRqcFNWd3p2VTdUSlA5OW4xaDFQOXVOTTlvX0xzOGxMc0pWRVotdFFCS044TjlJVFpTMkNiSVUwUmdoUQ?oc=5",
         "headline": "대외금리 연동 속 FOMC 대기…국고 3년 1.6bp↓",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "이투데이",
         "published": "09/15 17:41",
         "published_ts": 1789461660.0,
-        "tag": null,
-        "first_seen": 1789461923.8766928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vdVd1RU9NNGlsV1VkalJ4MlhCVlNHYlVrLVB5MkVhOEtwSWRKZDVOcGlWSFg0NWNmREExanU3S2xMWi00NGRwNE5iVF9YV1A5cFhveEVwRktvS2NSQnh3WFl4cmtjUDljMEtIYVBIbUZ4LWVH?oc=5",
-        "headline": "[채권마감] 10년물 4.6% 안착 ‘3년11개월만 최고’, 미국채 10년 5% 충격",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/15 17:36",
-        "published_ts": 1789461360.0,
         "tag": null,
         "first_seen": 1789461923.8766928
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSkpBbGZlNmtheGg4c2dEejN2SF9tal9YRmoxMWRwMUVmUW1zTEVENkdpU0RFMFdtR3JUa1A3bnctYXNrWGxOVHAyaFhWUTQ?oc=5",
+        "headline": "日, 18일 기준금리 1.25%로 인상 유력시…3개월 만에 추가긴축",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/16 11:18",
+        "published_ts": 1789525121.0,
+        "tag": "JGB",
+        "first_seen": 1789525830.338441
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9UTU53TVZwbDdsTTNMcmo2OVNMWXNmM0JxX21OWmIyVkowcGpzazgzV0RjZ1EzcVloX21WdFdXazhRdVdjSWR4VDJNS3NRUE1YTFVvNExIRERFZlVSU2c?oc=5",
         "headline": "[파이낸셜 워치(181)] '제로금리의 나라' 日국채 3% 뚫었다⋯30년 만에 돌아온 금리의 공포",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/16 02:30",
         "published_ts": 1789493400.0,
         "tag": "Fed",
-        "first_seen": 1789494324.1737447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTktCWElFYzE4UGpvUllGVFF4VEdwcndXN2JFYk9VRl90ZklKdjNFS3FnYVVWLUE1T21ONmpGTUJRTU9DZnRJeFM5SEhJQldtVVN0MFlneUFDWGRGZWM5TGs0cUtjSjlNMFdYMFJ6T1ZzRVhsa0VqVE9JbGxGVjZxUXJWZVE?oc=5",
-        "headline": "Democrats grill Scott Bessent on bond yields and energy costs",
-        "summary": "",
-        "source": "qz.com",
-        "published": "09/16 02:29",
-        "published_ts": 1789493397.0,
-        "tag": "Strategist",
         "first_seen": 1789494324.1737447
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 11:15:50",
+  "updated_at": "2026-09-16 11:30:54",
   "yields": [
     {
       "label": "3년",
