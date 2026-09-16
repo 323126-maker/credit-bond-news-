@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSGJEcXRxLUNJMGxWSmQxOHBCSzJFYXpSbmVRZF93Q2xCb0VFLTV3UVdLOEJ4bE01d0FWUmVlMURlVmFMZmlWdHNtOTdwWkNLclUwSVI2RjhTMFBHSDNOX2pEQmtRa1NNU0t1TklhNnZLU1cyV05GeWxUZjBvU3RZc21aWFpUQThad3RzazhlYzZ6NEp1?oc=5",
+        "headline": "일본은 금리를 30여 년 만에 최고 수준으로 인상할 것으로 예상된다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/16 21:59",
+        "published_ts": 1789563571.0,
+        "tag": "JGB",
+        "first_seen": 1789563639.6164854
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQb0ppNUhrMzgzXzk0YnlIZ2VSSWdWZGFUWDdIMWtsNTIwdE5yUU04WTZSY0FJRTktaDlqc1dsSUU3bExuTkZXOFhXYl83OC1vMFZpRnJJQkxSTklONGh0eWlNZ0FONWxfVDEwSEtaanZaZkI5R255QS14NnM3T0xQMm1BQUxPOTFwbnpLTHFuaFJJZlJpMnJ1bGgySk54M0pKZWxOa0F3bXluRTd4MHhNTll3dC1yZkF6blF0aTRVQUR5b1d6SUM3YkJGejkxRDQ1?oc=5",
+        "headline": "Traders are betting Trump may soon turn on Fed chair Kevin Warsh as interest-rate hikes loom",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "09/16 21:53",
+        "published_ts": 1789563180.0,
+        "tag": "Fed",
+        "first_seen": 1789563639.6164854
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOX3Y5MllHNlNLbmhqSnJ6OFI3X0RRSUU2eGNfT1Bwc3lxbWZtaXhPaUw5Q0RxcWlQZl9faHAtaXR1Sm96ZzJUcmtXUlVkUTJwYjNyWnhnUmFoQzUtYVNuTUhxLVJ2RmRubGxnQlZiSE8zX09zVERwM2FjVnlXTjZyLWRvZWFCOWVOYlpGR1hBN04?oc=5",
         "headline": "【US Pre-Market】US Stock Futures Rise Across the Board Ahead of Imminent Fed Decision; Intel Gains Nearly 3%, Nokia Jumps More Than 6%",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "09/16 14:40",
         "published_ts": 1789537226.0,
         "tag": "Fed",
-        "first_seen": 1789537525.0267756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOODlsdkNQOTczUENLODBwVlN0SVNJOE55YWVlTTNqdHBOZ1BMVDY1VFNMMzE3TlFBZTNPUlZza2VoMVYwZjRrXzg3dkdsSDg2TUlTMi1FSGVZeFNGRWgzU3E5S0szLVpxekc0c2s4YmdvWnNaMnNCYUVpZHY2Q1kwSWRjR0ZrOGJWazUwcGJRbTZvUDVUOE8wR1VYQnBjUQ?oc=5",
-        "headline": "Goldman Sachs checked one of the bond market's biggest fears. It hasn't happened yet.",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "09/16 14:34",
-        "published_ts": 1789536868.0,
-        "tag": "Fed",
-        "first_seen": 1789537525.0267756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1lTlRyYm9NU3U3RWxfd1N4SkluRGtDVWRTYkhiN0lkZlRHM0dTeExoY0I4S01GQU1tOGZ3ZmJSZ2ljZEJSMDlxMXlMSXZNX0RNdjlTOU0xTTF1QQ?oc=5",
-        "headline": "일본만 벌어지는 장단기 금리차…“금리인상 늦다” 시장 불안",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/16 14:33",
-        "published_ts": 1789536832.0,
-        "tag": "JGB",
         "first_seen": 1789537525.0267756
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 21:45:50",
+  "updated_at": "2026-09-16 22:01:12",
   "yields": [
     {
       "label": "3년",
