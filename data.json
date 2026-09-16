@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lMmhlNGxpZjJIM1BNZDEzeDZWcnlSdVR0MDFXaUFTcTVoS05qQnR3bDY1Vm5rYVMyZjVockVZelV3RXJLWkJKOHJUcWdlWDlmN0hlMWVUbWhNcDhFX2pIVlgzLWlOd1lhczQ2eHMtUWc?oc=5",
+        "headline": "BofA \"AI 거품·인플레보다 무질서한 채권시장 변동이 더 리스크\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/16 09:46",
+        "published_ts": 1789519560.0,
+        "tag": null,
+        "first_seen": 1789520437.0822337
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Jalp4d3dHOE92bG1ZTnJPTk9aWG9lUlJ6SzhKOXdqd1RfZkZHbGpiYWpfYjhsdnpEOE9rQUdlRW5nR19IT3ZMVnpvY0RlMlJHZWFMS1Nfb3VrOG9Da1Q0ZnJFLU8ySTNZdmVXRFllUHTSAXRBVV95cUxNbllZY1RFM0hmWU1PUjJSakJyUzI2cHFHaFZOYjZNQ2ppUkF1N0FZa3lSdGRUc3JCemZUUnJYSTBMX2dzS0lPWWVNNFF1S0ZxT1MwWnhkRUVmWDRiN3pya2RsbTMwWmFDWEhzZFQwV3hBa3hRUw?oc=5",
+        "headline": "\"연준, 금리 안 올리면 채권시장 반응은 매우 가혹할 것\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/16 09:44",
+        "published_ts": 1789519497.0,
+        "tag": null,
+        "first_seen": 1789520437.0822337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fTHNpQTgzTTlnWVRfdmJOWXg0aThIdjJvRWJhSWNScXZLdjhSSlprWjFtazNFRmN5eEg4bGt6ZWw0WXE0ejRmcHV0R0x6NkxGRFVydjRGRU11V29hMWVBbm9XVVpOTE5rRU1KaEYxMU1QQQ?oc=5",
         "headline": "[킥스 관리의 문법①] 삼성화재 \"신용등급 'AA' 비결은 선제적 ALM\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789456745.0,
         "tag": null,
         "first_seen": 1789469125.5074513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd2lCdDlvY0FnNkdsWWt4MUpNVEg3TFJiUEZSVWRidmsxT0ZuZ29hQUJyR1g2TFJhU01VWjhwdloxcjlBNmpSM1FxNVVwTGc0ZGtLUjBaV2FfNmpXYjhkWTJBVjNaV0pYSUU1Rm1HbWotc0IybW1hdkFGVWJUT2g4ZVNJSG9VbUxiLUtiUFpmdXo1S21scXhWbmJBSnZkRXQzd05tMTNKWnZOdDA?oc=5",
-        "headline": "라스베이거스 팜스 카지노 게임 메커니즘 기초 설명",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/15 16:11",
-        "published_ts": 1789456264.0,
-        "tag": null,
-        "first_seen": 1789482632.7373714
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0Yk1QNFBGRUs1c1lTS1FvbmVYQ1FsT0Y5dGtCTk1oTm9HYW1VWGtnbTk0WkZvZVBBOXhIekhzYkx3UGJhd0ZfS1ozSk9USGMzbUhlZGpEWFZ6aXVqWW1WYXNsamRzWG84UjBkTTZ6RGx5UQ?oc=5",
-        "headline": "[도쿄증시-마감] 'AI 우려완화 vs 미 금리 급등'에 닛케이 갈팡질팡",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/15 16:02",
-        "published_ts": 1789455758.0,
-        "tag": null,
-        "first_seen": 1789464636.1861198
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 09:45:48",
+  "updated_at": "2026-09-16 10:01:02",
   "yields": [
     {
       "label": "3년",
