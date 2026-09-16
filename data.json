@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWHQzSC11Z3EtOUFVMG9sQnYwOHhnZkJGM2VoVWtFNWp1Y0ZlM2lIMEhoSnkzaExSQlZ4SzVFRkk0aHR3S0NUWC1ZdWQ0MXdJNmxoYWdxdGJJcmtDWENDa0JvNE9fQjFCTFhqTVZZR0NuQmNDNE03dHVEcUVmZDdpaUhXUTFWdzdmeXJUVkxGdThDaG8wNGRWSXl3V09DZVNDN1BzbllrN0tSZw?oc=5",
+        "headline": "Bond market woes likely a factor for Fed, but intervention seen as unlikely",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/16 19:20",
+        "published_ts": 1789554007.0,
+        "tag": "Fed",
+        "first_seen": 1789554634.5336
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wVlo5T1NXRnE3c3NJZTNxUXhrcFV0WkdjbmV1MkY2eFlkOW1QblhUWFdRckxERTBIZkR1eDFiWVAtZDZueVdlX3Iyd29ydEE?oc=5",
+        "headline": "가뜩이나 국채 금리 오르는데…확장재정 가속도 밟는 日, 국방비 GDP 3.5% 검토",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/16 19:13",
+        "published_ts": 1789553629.0,
+        "tag": "JGB",
+        "first_seen": 1789554634.5336
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVVM1R1d1ck9Qb0VjUmRRT2hfc0FvRjk0cVM4LVE3c2hyaHBFNGM1cWNpbHJzcklyWkFXa1Brbm5wR3ZCbXF3MWpDTG1Md2YwSy1IOGJ6MjQ5VXpRUm9jRnRJN1NIcU90OEFVTkpvOHdsTEtObTVLTHh0VjJlSlNNMWowMEF5TUdTblJ1ZlhkYUVMZlR5RGc?oc=5",
+        "headline": "Columbia Total Return Bond Fund Q2 2026 Commentary (SRBFX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/16 19:11",
+        "published_ts": 1789553460.0,
+        "tag": "Global",
+        "first_seen": 1789554634.5336
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y2txekg2MDdzakZsMW1FZWZaTWRyUERCc0YxeEV4WmViSkxSSFg5dGx4cWhGV3RaR0pVZGdHTklxRlJNZ3lURUt3aEo1Tm9fRWxlUjFsbVpwVWJBNUZsSURUMFoyU2M?oc=5",
         "headline": "미 국채금리 고공행진…AI 투자·글로벌 금융시장 불안감 커져",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789526318.0,
         "tag": "Global",
         "first_seen": 1789533030.3398635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBVWJPc2g1cDkzRjBrb280a2lXbmlmVG5xb1RYS3JKVWRLcXJ4bHpVOGFPLTczNFpEQUZHby1mZ2NtMUFfY25VQ1BsR29QdVpVYThQekF4dS1GY25EbkpDQUFSM0d1MnV2ZnJIYXJ1THdzWnBR?oc=5",
-        "headline": "日 증시, FOMC 결과 앞두고 혼조…美 금리 급등 부담 지속 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/16 11:33",
-        "published_ts": 1789525995.0,
-        "tag": "JGB",
-        "first_seen": 1789530328.6329355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWRHUnNaVnlJTk11MGo1RU5OeUFfNXRnWVh1TThRYm1FR256QllxZE1HeGh2MkFPRDZRdnhmUDN3NDFrOGJCWEpvSUhnQVFYNFlHUVVMTWlSMTNsV2p0cTd0cHN1ZDNXQUVDUnJjRG5sbkpiS2d0b1JSR2VSeDRnVW5WY0F1Y1hLa3RZekxVdUFuMUpvcTlTY0RJQ3pwdFpESVlnZlUxTEw?oc=5",
-        "headline": "Domestic investors shield Việt Nam bonds from global sell-off",
-        "summary": "",
-        "source": "vietnamnews.vn",
-        "published": "09/16 11:32",
-        "published_ts": 1789525920.0,
-        "tag": "Global",
-        "first_seen": 1789526723.1659925
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeEhsWEV2VDhsUTNpVGdZbmJlWTVhMXJKUmhQcHc1VXhxR25fX1pETWl3M1lnY1NJbmR1a0VUN1lGWVBMUC1UY3R3Q2RVMFp3dy1xcmhaRjVsWXFpM0IzQXhxcE83S3JxdG1vSGJFOHBEUW1XT3d5NTJTc0NzNHFTNmlVNTl1dXdJazBuMlhjTFBFR0ZLWEpQX0dEZ0VlZXdBVFlxQnY3b3NBbjFqaVNLZ0ZIQWtvZ3ph?oc=5",
-        "headline": "Three Central Bank Decisions Are Coming",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/16 11:24",
-        "published_ts": 1789525446.0,
-        "tag": "Fed",
-        "first_seen": 1789529435.3460512
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 19:15:54",
+  "updated_at": "2026-09-16 19:31:00",
   "yields": [
     {
       "label": "3년",
