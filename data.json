@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LUUV6Q2hORXU3eE9hMmtLWmRXTHdPaGdxcjR0QjRFQ0owb1ZWemdVWU1jdmhsNkhqQTVzSGNoMFNOb1dPQmlWMEllU3ktOEhjVUYtM0lNWDlmRXVy?oc=5",
+        "headline": "10월 채권시장 심리 보합…금리 전망 엇갈리고 환율은 개선",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/16 14:10",
+        "published_ts": 1789535400.0,
+        "tag": null,
+        "first_seen": 1789535724.468301
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3Q1VYV21rTHZVVEV1RDR1emM4SGFyVEJsZzNMSExRYzVqb3RkblgtZFdxTzRrSnJ1eXcxQjV1M2FWa3hGWmJzdEcxQkVDazdGM1RGUw?oc=5",
         "headline": "연준 금리인상이 채권시장엔 호재…동결이 더 무섭다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789464650.0,
         "tag": null,
         "first_seen": 1789470041.8232608
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2V0g4RGRkQ29IQ3A3ZldKNndxN1k1d2NYdHNfQ3lTa3VTRVN2Y29Zb21XVjJqUEZRTXlrUFN6SjMtcUtHRlNCYTBhNkhLZVl4b3ZmWFQycGR2Z2QzQy1VQWgyakRXV1RsOVNFRlFn?oc=5",
-        "headline": "미 금리 상승에 국고채 금리 '일제히 연고점'",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "09/15 18:22",
-        "published_ts": 1789464170.0,
-        "tag": null,
-        "first_seen": 1789465524.07744
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 14:12:56",
+  "updated_at": "2026-09-16 14:15:47",
   "yields": [
     {
       "label": "3년",
