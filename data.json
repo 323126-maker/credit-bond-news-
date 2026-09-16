@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9PRjVjUnFIcWZkdmZIRzBaa0M0WTBBX2FaampXRVFDLU1OTDhaVmtnakVvcVhabTF0Y0tGYkVkc2s4NjJNM1FqNEp2ejB5OEE?oc=5",
+        "headline": "\"건설업, 구조적 자금회수 지연…증권업, 호황 속 양극화\"(종합)",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/16 17:09",
+        "published_ts": 1789546193.0,
+        "tag": null,
+        "first_seen": 1789546527.2537396
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CVkpIZVgxM3hZdHhjblUwMS11WVFldE9XcDB4ZTVFb016b1FweVRXdktKVTdDeklLbWJUZU1wTGZLRWRVVk1HYmZyM3JrYXlRU1hPVnZYVk9XQVYtcnNGV0NQR2pGSzVKSmFndmw2TkIyUQ?oc=5",
+        "headline": "국고채 금리 일제히 하락…3년물 연 4.053% 마감",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "09/16 17:05",
+        "published_ts": 1789545955.0,
+        "tag": null,
+        "first_seen": 1789546527.2537396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQX1I3cGdRMGhNeGVJSEg3YjY1bTc3cF9fbG16TUtfVF9UWHdzMXRLWTNydmU4UG1CV21LVldsVjVUT1dLVzFnUEZJdDlHN1dpNkJ4cDFubkFYRzZWbHIyR0JDUFlWSU8yY1c5OGpUaVFzUXlvc1YzUE91WWtjVmpnSXoxYW9PeDdpVkxhd01ibDEzZWg0QTQzZUdDMDlvTThkd1ZneEt1U1k3ODhSOU11em5XY0lKNVBYWXQtLVNzczdZNWR0ekllaFoyYW5pYmtWc0pzUHdXLTlWYUthREc1N185dGVERmtSUndock0ySmgydmtVUUVXRUFoNE5zLUFwcllpTFpOU3R0WFFuVTMtcDNQZFVVQQ?oc=5",
         "headline": "증권사 단기조달 확대…후폭풍 가능성은",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789492020.0,
         "tag": null,
         "first_seen": 1789535549.9692364
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMzNfbXk0ek5Kak1WdUNqUFUwbXlCRWZmUEktUVZ3N2JaRW9kMmhUVlMzSm43YllBXzFEaWRtakFLMU52R3F2RVhtazJVMFB1OUkxdEM5aDZ0VVNadTZYT3dpX3ZNdktxZzhhVTV0LXBPcXpGU3ZXNm96aEduSHprcjVWSFBtRmFFc0MtSVR4WFJpaHhPVm13RkRZQXJpcEtpa1p1S1puMTlkQmE0T05Tbg?oc=5",
-        "headline": "PC 브라우저에서 확인하는 토스바카라 실행 정보",
-        "summary": "",
-        "source": "histoire-pour-tous.fr",
-        "published": "09/16 00:26",
-        "published_ts": 1789485976.0,
-        "tag": null,
-        "first_seen": 1789502437.4014833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5TamxBSWlsSFlaZDNVdTI0MzJhNEhTM3VQYXdpWTQtaG5vS1Nndl9pYWQ5M2JOM09kTjRuaFAtY182U2JFS1hmdnVQOTAwMW1ubVRhZXpuSUdCTjFDX0FfbGRHQWdmb2tyVXpjTtIBbEFVX3lxTE5TamxBSWlsSFlaZDNVdTI0MzJhNEhTM3VQYXdpWTQtaG5vS1Nndl9pYWQ5M2JOM09kTjRuaFAtY182U2JFS1hmdnVQOTAwMW1ubVRhZXpuSUdCTjFDX0FfbGRHQWdmb2tyVXpjTg?oc=5",
-        "headline": "기름값 뛰자 날아간 피벗…채권 발작에 기업·가계 ‘비명’",
-        "summary": "",
-        "source": "직썰",
-        "published": "09/16 00:12",
-        "published_ts": 1789485150.0,
-        "tag": null,
-        "first_seen": 1789490722.8387158
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1789544724.7414625
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTGY0Sk4zRFlfbXNCa3h3cnV3a29nZFlpZkVKRHBHZm1DdW84WGtVZHQwck93WVhVWTlsNXh4eDE2V0FuT1dBalRYSVNMRnJZLTlOWlNTMHhHQ1FyNEhfdzFVWVlRQnl3SF9QOHdaVFpVbjlyQk8xTUxYVTNRNE9WSXBjT0lCcEQ0cFQ0RV9rNlkwMnRGUHNXWVJMcTk5TkRJT2xKWHZBVmF2T3NhX2hXLS1USTY?oc=5",
+        "headline": "Northern Limited Term U.S. Government Q2 2026 Commentary (Mutual Fund:NSIUX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/16 16:15",
+        "published_ts": 1789542900.0,
+        "tag": "Global",
+        "first_seen": 1789546527.2537396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRFUtbmxHNFFTLThlRWpCbTBGMHJpVlF5YzFveEZtWVE3Tl9XaVZUVmJhemVyNnhmNHhzcTFwX3VfbzJyTDdRRnJxLU1ZT2ZZNXQxcWpOaFdiczRhdDVsWTFPVnZfclh5XzhMUEFPMTVPUXd2NFo2VVdJWHNnd1NNQ0ZQbWl1d3hITmJ3VV85RTRaNmpxeWlzN25YdVpiRmxuZnJjRg?oc=5",
         "headline": "PGIM Short Duration Multi-Sector Bond Fund Q2 2026 Commentary (SDMZX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789516290.0,
         "tag": "Strategist",
         "first_seen": 1789528523.1345341
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOa004MTVycEJuRWFFYUpqaGwwdUVDeGtCLThmcXNYeHdteXh0TmcyVWRyQXhLMVFKc2kyU0VraXVfR1dfdnQzSnh6M2pYVW9yZ2MtdlZsN0hEcV9ta0Q3Sml3dXBLUXBGajFqRFBGNnF0UFpwRHY4blRhWU1MbGRlZFNrdklzYVFscC1TSjUxYVhZbDN6OVJ4aHRMbkhoeS0wdG5RcWJCcHpGMUdVSDk3X3g2NVB3c1JaWlBBeEhjejJlb1Blc1dZcVdvWHdKbk5LRUJJ?oc=5",
-        "headline": "Treasury Secretary Scott Bessent dared “Bloomberg terminal bros” to bet against him and they did. Read more: https://nyti.ms/3SQXAbE",
-        "summary": "",
-        "source": "facebook.com",
-        "published": "09/16 08:22",
-        "published_ts": 1789514574.0,
-        "tag": "Strategist",
-        "first_seen": 1789515030.7787428
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 17:01:05",
+  "updated_at": "2026-09-16 17:15:50",
   "yields": [
     {
       "label": "3년",
