@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1MyMElXUEFDRWxuVXlocnVFNUJ5WDgwT2dLYjhIelJzUGZhSkNZWjZHMGlBYUdNYjM3QVEyUXRFLVBZS3F5bVFXM2pBWWxGOUtialVjOTdyM2FEVnlNY3hmTkdCczdkTUlsZkxDTlBnMHhqMVI5N21fVUE3Z2syX2JWc1ZtZUtJOTh1VVI3RTUxYW00dEcxa1BBbDVzbFlpVUVSTA?oc=5",
+        "headline": "Global Bond Yields Hit Multi-Decade Highs Except in China - iShares 7-10 Year Treasury Bond ETF (NASDAQ:I",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "09/16 20:24",
+        "published_ts": 1789557849.0,
+        "tag": "Strategist",
+        "first_seen": 1789558229.6223354
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWi1mdk5ZYnlwNURuTldpMXFGU0ZEMV9zRzY1TU9FMi12MDFoSXJ1UW5rbmFxenpGMnRreDVfU04yUW8zaHZtVHA5MER4azFyVG9BbGVMbFFsQ0FZWXZabkZma3UzaUtSQ2g1Z3ZFZlhNR1FENGdJU2pyNjNBTUwxT2E2cEdZUC1iN0RYVndjU01UdzQtNWNHVVZpb3g?oc=5",
         "headline": "We Wouldn’t Want To Trade Places With Kevin Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789531454.0,
         "tag": "Global",
         "first_seen": 1789549236.7386143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5HMG9PNVhiaXJLbWp3eG5WQXhrVFZ0V2V1aEF3U2x2dDdibXUtTlNPVTl3cm0wcGprSmRtZExVN3lDb051SEl2UnNXUG5CRGpGZnFmNXdBTUpLZHY0QjluVmpYNDhZMHpKWGhzUW5lQ1ViS1g4?oc=5",
-        "headline": "BOJ, 1.25%로 금리 올리나…CNBC 설문서 89% \"25bp 인상\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/16 12:35",
-        "published_ts": 1789529728.0,
-        "tag": "JGB",
-        "first_seen": 1789552836.260047
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 20:15:54",
+  "updated_at": "2026-09-16 20:30:53",
   "yields": [
     {
       "label": "3년",
