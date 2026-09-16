@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBnWWpMZXNVQm9MbEc1RWVucTJ3Z2YtbDRWN2ZGeGRfX2lJdTNTS3MtUUw3ZDJBSVZUQ3E0Wll3ZzFiaXlmX3Zudk5Ta1hCNHRiOXE4TE01S3hzUnPSAWBBVV95cUxNby1weWFqT1EwUmdtRHpIWThBYXFhdDBBLTJMWlpFT21qTUlXeXFuTmxVV3VCU0prZjZuUWUxTGJFMlpwVmViLTZGcUNvd2xWc0lLeWdVMHM4Nl9Nbmp6UVU?oc=5",
+        "headline": "\"건설업, 구조적 자금회수 지연…부산·광주·제주 고위험군\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/16 16:12",
+        "published_ts": 1789542737.0,
+        "tag": null,
+        "first_seen": 1789543830.6210136
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMmZEbE9uZ0Rld1BReXdmNEM4NzVPM2pPYWVjNGVYbFlndE05LS1tZENkenIxb2pybmZpSmRCdzBCVk5rbzM3UTh2djZSYXNTb002Y3FCSE4tZjFVeEdxOERlWVdtMHdWYlhScWU3eW0?oc=5",
         "headline": "채권시장 충격 줬던 '2.9% 성장률' 전망치 두고 금통위원들 집중 점검",
         "summary": "",
@@ -222,6 +232,16 @@
         "first_seen": 1789510532.150138
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5LNmw2MTdWMGlzZWpKS3JmbjQxdkROMVRvbVQ3VmVCdlNuRXVvQVpjUG9vNzZqQ0dJb1lmM1VwNkhSUGk2MWZ1UkhzMFRMWmtIUnM0T3J0S2lwbEMwb0VyXw?oc=5",
+        "headline": "뉴욕증시, 국채금리·유가 상승에 하락 마감…나스닥 0.78%↓",
+        "summary": "",
+        "source": "증권일보",
+        "published": "09/16 06:52",
+        "published_ts": 1789509135.0,
+        "tag": null,
+        "first_seen": 1789543830.6210136
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAydXlSZTROc2RBMkJ3bWZ0UUsxemtqWHV3VlRXQU9Mb2xTRVRfdE1tM3ZnNEJ6YU9LeE96aFJzNWxweFdOUG9mRE5HVFBMZFB3N3Z6ekJsNFBabEZqWm5weWhKYk1sVDdPV3hvTW5zTUdFaHZXVGN5U29QRXk?oc=5",
         "headline": "마이크론 0.4%↑, SK하이닉스 ADR 0.46%↓...반도체주, 혼조세 마감",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789480552.0,
         "tag": null,
         "first_seen": 1789510532.150138
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4tQmlhSF9MRU5lcjI3dXhjeUJzMnZBTndWNG5LclRwVDRHeWdRbVpQOGpvdlFNSk1RYlJxQ0ZBRXNWLVBzWU9UR2Jhd2lMcWRXNGlfdTlpNXlXUFRlWUpZVjBDbU5YcTQ5UmlHQVd3?oc=5",
-        "headline": "무디스, 방글라데시 전망 ‘안정적’으로 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/15 22:54",
-        "published_ts": 1789480440.0,
-        "tag": null,
-        "first_seen": 1789480841.6928694
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNWgzcEZjb3A0SUhCOVBiUjRjQTJaRmFCRUdNWUJnUTc3NW45UXFXbURpUGcxTnljU0NJV3hqdS1TOV9aLXMwWVNrWWlQUUZuSDJYb01IM0xYZHU3STNWd01BM294am5KZmo0cnl5LTROOXlxWmNZQkxuMFljNDI2aFJTQ2xnS2h2N1g0?oc=5",
-        "headline": "주식시장 신용등급 상향 조정이 장기적인 자본 유입을 촉진할까요?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/15 21:19",
-        "published_ts": 1789474742.0,
-        "tag": null,
-        "first_seen": 1789478436.2333682
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 16:15:48",
+  "updated_at": "2026-09-16 16:30:53",
   "yields": [
     {
       "label": "3년",
