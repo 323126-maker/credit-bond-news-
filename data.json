@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9tZExSZUJ1ZGlWNjFnWUhzQ3VlUXB3cTJGTTRDUTVuY3dVRWJ6T3pZQXc2NmRxajQ4cDY3NnVtZmNtYUVCOW9CMkJxM2d4RXlLOEJBNWtGUUhSQQ?oc=5",
+        "headline": "프린시펄자산운용: \"아시아 채권시장, 투자 매력 높다\"",
+        "summary": "",
+        "source": "한국경제",
+        "published": "09/16 15:00",
+        "published_ts": 1789538416.0,
+        "tag": null,
+        "first_seen": 1789539323.5212328
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LUUV6Q2hORXU3eE9hMmtLWmRXTHdPaGdxcjR0QjRFQ0owb1ZWemdVWU1jdmhsNkhqQTVzSGNoMFNOb1dPQmlWMEllU3ktOEhjVUYtM0lNWDlmRXVy?oc=5",
         "headline": "10월 채권시장 심리 보합…금리 전망 엇갈리고 환율은 개선",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789466627.0,
         "tag": null,
         "first_seen": 1789469125.5074513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9BVjdVdnRrci1EWHBMeXNnYjJjelRDZ0VUX25kSVlmM3BCaS1ocTFVWi1zanVBdG1ZTjJZdDhSMl9acE9HWDk5dC1GNXZvVmlEcGtTQzVDNUNMNUFCNFlUc2Vhd0xyZUtNLWVn?oc=5",
-        "headline": "국고채 3년물 금리 4% 돌파…5거래일 연속 상승",
-        "summary": "",
-        "source": "hdnews.co.kr",
-        "published": "09/15 18:38",
-        "published_ts": 1789465086.0,
-        "tag": null,
-        "first_seen": 1789467324.35326
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRDBNbG1OU0R0WGRDMlg3NkxpS0tGalFWQWdpcFpqZkNNN3pUNVFXRkxwUGticHUyc0o1MENQZmU1MlNDb3dyblBDMk8zckQ4WDBxaHNFcHVIVVVkMUJyYzh5cldMZ1N3Z1JoNFJfLVJEellYbi1zY0xDU2E5dW5GbE1ySzNfbEZuRFJ1X0FMUlhTWi1IcGEta19SR1VseE82Yks4TlEyNktBUFZ3alh1Z2FtMzI5WTN3cXhINTEzcEZfZFZGMWc?oc=5",
+        "headline": "Australia’s borrowing binge is about to get expensive",
+        "summary": "",
+        "source": "capitalbrief.com",
+        "published": "09/16 15:10",
+        "published_ts": 1789539000.0,
+        "tag": "JGB",
+        "first_seen": 1789539323.5212328
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTU1udmxRd1hLZVVJenR2R1pqUWYyNnlPV2xmdjBQcGpqTnhMTzV0Nnd5ay1tcFZSN0NWOGc5OFVURk85M3JPWVU1bS1XSUZVZ1R3blMzX1hZajc1NTNBNjFLcDFiSUhWUi1ZR2d4SnlSbVgyQU96TDViUW5HN0ZYWms1QTlyaU5NNGlIY2NjY3Y0TW9qVlotUWdMdnNLejcxR0ZyTC1R?oc=5",
         "headline": "Fed expected to raise rates despite Trump’s calls for a cut",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789509460.0,
         "tag": "Global",
         "first_seen": 1789509635.8058424
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1yZWlZMVJDS1ktUTZ5eFp2VnNBVHJ2alA2bldfXzhtVjZFYk5qR0V1RmlPRnFtN1lGSmJmM3I2WFpFRHFickc2REVfZkZoNk5FRVMzVDE0YU1pNjg?oc=5",
-        "headline": "Potential next steps for Fed chair Warsh before September meeting",
-        "summary": "",
-        "source": "Fox Business",
-        "published": "09/16 06:51",
-        "published_ts": 1789509074.0,
-        "tag": "Fed",
-        "first_seen": 1789513237.8039508
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 15:01:00",
+  "updated_at": "2026-09-16 15:15:51",
   "yields": [
     {
       "label": "3년",
