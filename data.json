@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95Rzh1SldOSFd1RWRuUEhsaGV5cy0wSDNMT1BqX2xodjFINFRTMHd3N1dzdFlQVWE0cnRILTlGUXhHMGp5MXZpU1NoclM0QnVBVlNvM0hqUzlwQmx5RW9haVQxMA?oc=5",
+        "headline": "AI 회사채 시장 5000억달러 돌파…오픈AI·앤트로픽, 앞에선 ‘속도조절론’, 뒤에선 ‘실탄 모으기’",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "09/16 11:54",
+        "published_ts": 1789527256.0,
+        "tag": null,
+        "first_seen": 1789527639.6261442
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XSGlGX0N1RVhyTkV4Q2c0Qk40Qml5UXZuQlF5Smp3bHpjN09ienBZOC1GSmlmQUJLRVotdFZkbHAtWGs4Tm5XX0hCZjN4NFFKWV9GcTlBNmpHYVlDcVRhM3AyRUtnMlRUcUJz?oc=5",
         "headline": "다시 비싸진 ‘돈값’…국고채 4%대에 가계·기업 금융비용 압박",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789462070.0,
         "tag": null,
         "first_seen": 1789470041.8232608
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4wdktGTXFaSGlUQzlhd0dlbDZJaW9QOGVWbi0yay1wSHFENUJQdUE0T3RGa1hWd1JkZzE0VFA1dUl5M3NzWjdaelV1R3pRTG1jQ0dmWXdPbmZpN2ZpLTJzYTdNeTViaGttbUN0OTg0LUlicjFt?oc=5",
-        "headline": "금리 쇼크에 회사채 시장도 긴장…FOMC·추석이 ‘시험대’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/15 17:41",
-        "published_ts": 1789461660.0,
-        "tag": null,
-        "first_seen": 1789461923.8766928
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 11:45:47",
+  "updated_at": "2026-09-16 12:01:03",
   "yields": [
     {
       "label": "3년",
