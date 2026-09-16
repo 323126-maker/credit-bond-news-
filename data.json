@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE03S1JzNGlEWGRIclVmaWVzWVNQN0FTSzVGTm8xMXB5bldhcEZ0VWphbmhoN1d4VDdCaU55NjE3aC1nNWdJVTQxZm5DbFFva0E?oc=5",
+        "headline": "워시 “인플레 너무 높아” 추가 인상 예고...美증시·채권 약세",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/17 05:09",
+        "published_ts": 1789589341.0,
+        "tag": "Fed",
+        "first_seen": 1789589725.348797
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nYUx3VDNNMkZaR1FWdkZvcnBhODE3V1hzUkJNQ1J5M1lKeGhUNFIzeHY2QjdvajRMbmx1bnFZMWdtb1FWQmFzUHA2Vl9Xc2Q1V1lFYlVUME1uTGJRSmhYcGVhTlRxUmZi0gFuQVVfeXFMUE1NdFFaVHpHbGhCRkxmSmdEdmhpblNSckE2SWl3RFJMelFvUk5JdDd0YWVFUllpRzBjS0VTUUNKb0xvaW1XNm5acGN3ZGozaUZFZklLdERwS0l6OWZ1NFlyR0w0REw4Rk1HOHBRaGc?oc=5",
+        "headline": "美국채 10년물 5% 재돌파…'추가 인상 시사' 기자회견에 급반등",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/17 05:02",
+        "published_ts": 1789588942.0,
+        "tag": "Fed",
+        "first_seen": 1789589725.348797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9oU2RoR29oUTJvVE9iRC1rWGlBRENidUswV0JUOWR4MmowQ1dPUU1FLWxjUHc0YUNnUXlUWGItTnliNXpEaUlFOEdoUVlVaDlrZi1VdTkteDltdzFrUWNWUDY4b0NhdVA5T19BYmhBTm9GS2fSAXhBVV95cUxNdzdoMlNuY01mNlJGZmo0T0FCMTMxNW53aGFMSVZyNmFCeVlYN3Z1NjUyMkV6SUZiS0g3eHR6ZFR1SzRoY1dFenNVT1JZRkZ2U1M1UFk4VzNMRUcteDhJUkJCSVhLZFZfcmtRWVpGUHF3S3h5d21JLVc?oc=5",
         "headline": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789559700.0,
         "tag": "Fed",
         "first_seen": 1789560037.1669261
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1MyMElXUEFDRWxuVXlocnVFNUJ5WDgwT2dLYjhIelJzUGZhSkNZWjZHMGlBYUdNYjM3QVEyUXRFLVBZS3F5bVFXM2pBWWxGOUtialVjOTdyM2FEVnlNY3hmTkdCczdkTUlsZkxDTlBnMHhqMVI5N21fVUE3Z2syX2JWc1ZtZUtJOTh1VVI3RTUxYW00dEcxa1BBbDVzbFlpVUVSTA?oc=5",
-        "headline": "Global Bond Yields Hit Multi-Decade Highs Except in China - iShares 7-10 Year Treasury Bond ETF (NASDAQ:I",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "09/16 20:24",
-        "published_ts": 1789557849.0,
-        "tag": "Strategist",
-        "first_seen": 1789558229.6223354
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObUZadmVPRlNNSmR2dHdnQkxBYXRsLUl2aVF5Wkdjd0ZZWlljbTI0RjRiaUV0MW9wenVEYng1d1FpeWozU05YVW5DNlFwN3ZETHhXWTNwYl9SYVRVOVA4SGczQ2NGZXdiN0tqcVpWdVpxbnVwdktGcXdMUmU1bEtGeDAzM0ZpOHJ4XzB1US1fekVhSTQxM2NLVkp1b0hfVGx0NDVaTjFPZ05lNlRwR3J6dG9IaWJzd19ucVhfa2xMRWx1VkNuVVE?oc=5",
-        "headline": "Fed expected to raise interest rates. And, board votes to close Kennedy Center",
-        "summary": "",
-        "source": "NPR",
-        "published": "09/16 20:19",
-        "published_ts": 1789557586.0,
-        "tag": "Fed",
-        "first_seen": 1789559123.2256415
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 05:01:04",
+  "updated_at": "2026-09-17 05:15:51",
   "yields": [
     {
       "label": "3년",
