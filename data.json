@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAxcVowOVMtbzJ0R2dqYk5qU2hzQXp4ekRhVDh5Z05pSjVGUkhUZU83UV83THRxZnRLbHR0cTNlR19LcW9scDNGQ01uYmM4Q3Jzc3c?oc=5",
+        "headline": "\"올해 물량 축소, 은행권서 조달…내년 회사채 발행 확대 가능성\"",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/16 10:18",
+        "published_ts": 1789521489.0,
+        "tag": null,
+        "first_seen": 1789523130.771731
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FS09jU3VSN1dUYkhsaFMwUkpKelZVcGw0SmVYQ0YwRU5RMHluMGJuOTNLLWF4LWQ1aXJtU21NS1JkMW00LTUyWlhNcTJ0cWNVYUNfVFRDaEdzSTdUSFcxQkZpQ040ZjIteWZ3cjJB?oc=5",
         "headline": "소프트뱅크G(9984 JP)·무디스, 신용등급 놓고 이례적 공방…“무단 평가 중단하라”",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789460567.0,
         "tag": null,
         "first_seen": 1789470926.5313551
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EUkRtOTRFZy1YYTdiV3gzN3hKaXVPb081dEpFdDYyaHBheUVZWkhWeFZOcW5oejNKWHpINkxhR0pqd094U2RhbG91SlNNUXNMYktnVUtkSWJQVW04MF8xY3ZvS042Nlh1UkE0LVpzQTU?oc=5",
-        "headline": "아시아증시, 국제유가ㆍ美채권금리 급등에 일제히 하락",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/15 17:02",
-        "published_ts": 1789459320.0,
-        "tag": null,
-        "first_seen": 1789460123.9241865
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObk45bG5wRTI5cVN4Ump5OFBuNVB0c2ZjMTI1dHVnY19JUURpdlQ1aXRpQWswQ0Z3cHdKVFdNQ1g3eUQzUWsxUURGdFZRN3JkRnNKRm5SRDNlU1ExZS00WVUyVHotMmQ3TUhGVVZtc2xXNWw3Q0dFMG81dW1nenlfQk91VjBLaDl6SnVPbE1ZODV2YkNBQWVj?oc=5",
+        "headline": "Asian Markets Edge Higher as Investors Await Fed Decision",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "09/16 10:31",
+        "published_ts": 1789522314.0,
+        "tag": "Fed",
+        "first_seen": 1789523130.771731
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44WDNRUHNPWE9jY3l1eERIX3NveVdiaDdqRW5Jak81a3JqQ2xHM3JLVWhQQl9iV3FoSkNmdEFDTXdCTFgzUnA3YXFSVkcxSXlDczNadXVOQ3RoaVljbkRHd2g5T2djNWZmVGk4cU12aWZudw?oc=5",
+        "headline": "BOJ, 1.25%로 금리 올리나…CNBC 설문서 89% \"25bp 인상\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/16 10:30",
+        "published_ts": 1789522225.0,
+        "tag": "JGB",
+        "first_seen": 1789523130.771731
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8xN2VCbV9ia2ZSTE56eDNXODB6bS1iblNIdVZpNk55M0FVOEx4cXJwYlZhTl96VUFxdWc4bnBfWEpNLS10eVdhc21VcFZ1OE9CMV8ybzVIcTQ5YmdURGEtZHFUUmI3ZmczZWg1ckVHUTdGWTTSAXdBVV95cUxQdkZYRDY0dXNJUEJ1YlFxcmtULUtGZ3IwYVNrWWRMRTIyamphODNWZ1hYVXc0d0kwTGxGUjNFLVFzcnNuZ0Fwa3ZDbEhzbnBxczRZRGFFSFFjQWNGRERzUHViZzJ2UE5adGRlVmtsQWJzX01mc1hwMA?oc=5",
+        "headline": "원유값 뛰자 일본 장기금리도 폭등… 30년 만에 최고 찍었다",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "09/16 10:16",
+        "published_ts": 1789521413.0,
+        "tag": "JGB",
+        "first_seen": 1789523130.771731
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAzUEtpT1hGZkNPcGFYNDR5ZGtCNmY4YW5FUHhQZFN1NWd1RUtoWkg2eWhwdUlVcURCcnhRdUZpTjNrU21qaVI2aWE0SjBtT1R6RXBfVjVJNE5hQzJCMVVYNllCN3c5ZmF4ZFNHanVvSTc5VGpH?oc=5",
         "headline": "日銀 기준금리 인상 전망에 日 10년물 국채금리 30년만 최고치",
         "summary": "",
@@ -1930,6 +1960,16 @@
         "first_seen": 1789505124.5639558
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejR0TTF5RGlCaUYtTmJmb3NXakdzX2RINGF4cE91QTh5NUhUMGpwUFZucmVFZEpGNnpCTFRFcjFpRzl6dEgtUDRVdmROb2lKZFFCclFJR2ppeHBodTVJNXE1b1o1OTg1S0Y2Y0M5TmxGV3lzekpOT1FJY2J5Wk5UYU9MVUpZV2lkMGF6NzRfVXhsOFpZN056NW94MktCRHNLM1dOVV9ZYnBhb29S?oc=5",
+        "headline": "이미지보다 설명이 필요한 성인 커뮤니티슬롯보증 게임 요소",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/16 02:32",
+        "published_ts": 1789493530.0,
+        "tag": "Fed",
+        "first_seen": 1789523130.771731
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPY0FKTjFxWlBuUEVka09PX0h2RkQ4Q3k4ZEhEREZFTmtxMDRJQlBXaUxNT1NiM2RqaUxTSnBBandaWUkxVmx5N0RXNXlGcnBCOHpqUmxpc2xpcXY2bXFCSnlqTmt2Y2szUXB5bjZvbE9Oc1ZtWGZvUUpHdnBTZzR1SDlCT28yYkJZUFhUc3phMmVNdw?oc=5",
         "headline": "Why Japan’s 3.8% bond shock is quietly setting a trap for Bitcoin",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1789493122.0,
         "tag": "Fed",
         "first_seen": 1789494324.1737447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdUxvRng2RHRRTUgyLVNkeC04X2E0eEstQUJqWTZGb1UwcGh3N3M5ejJiM290SjJQbjFmQmlkODlHQWdSOWJDV3lxd3Y3dVJVTTJoWDh5cUdoSXJwTUVkMnhkRXZfa1JyeHVoOXo0eVlqVFR4WUVxWHhjSGNpcVFvSVNkN1dFdzFBd1dwbDVtSWl3VnF5X3RhczJmZkNJVzE0RWlPQTA4ZmswYllHd2NFMzU5MDd2M1ZoTG9GUk1aOEl6alXSAcsBQVVfeXFMUEFQZ3BtUnRWQ0xYbEllYnBJbHRfQkZMd2d3T19RaUduSXR3bDE5bTNnR0dZM1ZyMWVGOFBtNlFWWDJ4aHRvSmw2MmVyU3ZqNHRzeFcxcFlJR3VFY1p0N3drd2dPbEQzdFdDYThWbWctT1I3bkloV21LWVo4VHZVUzBhcTJETXNLVWxRYnF1UVVmU21aaEVVMm50T3lfQzVaRkh3RHBvYllWVl9fWEJ3Zmk0T0s0UkJZR1FsdVNZVE9MOVMwWEk1ems0VFE?oc=5",
-        "headline": "Fed Bears Loom: Why First US Rate Hike In Three Years Can Worsen D-Street's Selloff",
-        "summary": "",
-        "source": "NDTV Profit",
-        "published": "09/16 02:21",
-        "published_ts": 1789492889.0,
-        "tag": "Global",
-        "first_seen": 1789494324.1737447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPN1JMdm5Tdkktd1NOekZnQS16bVA5RGwtV01pdkxHdXUyb2RVSFhMemZJVmlSd01jZkV5ZzRObTM4Z3NYVmVUa1YwYXlYUlNZWldtam16d2ZUNmNJMUoweUc5b290Yjdub0RJVGJDVmZyQnRGRGtxYmlRVXFKdVF2dGZlRU1fNy1RZ0RROGtoRWVLd2k2LVdnZzdmeTQ1QWoyU25RVWEzWkpTOWVURzkyYVc5cEZVY1ZnLWVqa3hZODRrMnMtS085eVpNeFpXelhjX3RVMFphN2kyR3c1THA5TWtheHJNcmdVSHBlLXNFcjhaX3R1UDdDMDVJZk9GV21UYWxWdXlrUDk?oc=5",
-        "headline": "As U.S. National Debt Passes $40 Trillion, Bessent Says There Are Ways To Send Trump's $5,000 Checks \"Without Increasing The Debt Or Deficit.\"",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "09/16 02:14",
-        "published_ts": 1789492440.0,
-        "tag": "Strategist",
-        "first_seen": 1789496123.6375356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemhlcEhBY044Q01sY0NZbUY5RnlZOTZheHJxMHBncmNsNFZWMVRlaFRPaGFWbk9oVXQ1RmE4dFNaM2JkUEtRVXVPQW5fSFE5RHE3TGk2M2ZVTXA5UW9OR3pTUzZ6QjZ5cER3UURjRDdSUlNVanJlaWVOLUtrRlZQSnNYcUg5WUZ1Rkxkd1lrdTFySVE?oc=5",
-        "headline": "Hartford Strategic Income ETF Q2 2026 Commentary (HFSI)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/16 01:51",
-        "published_ts": 1789491060.0,
-        "tag": "Global",
-        "first_seen": 1789496123.6375356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQb2tvU2RONHphcmdpdVZGbG5Pd0JwdjZEMG5xV3I1QXM1LWVCZWl3OGVNYXFxamZnV210bk51cE9OQnloeUlLTUd4T1M0emNhZGFVSEhiNm5rOExwdnRLTDhqYmtFa2tfSS02ZW1ud1d6N2FYR1dhRW1EcWZUYzNhTkRCZFJsakVjbFE4SDhjSjVRMnZ6UTN2TWxRNVU0RDJRUGFkajdLT0Nha3FLSGlJMjZlZ1Y0MnJUVHBvMF9UR01WZlpvcUJTX2pmd3cwR3NWUmpSYWxzLWk0eVZmUFdnMWFhTGV4NTdfSWp5LURZaDZmRzFSYnfSAfsBQVVfeXFMTTdKa1dyd1dHV3FEc3pjWkdEa0pMMXRNbzlXTTRWMFBxWVJ5RDZ3RklUMmc1dEdrZXJkaWlzcFA1NkhiMlBKSWdQM1FGOVhZT2xDZ0JFVDhMSnJONDdQUWtQX3l1VFJfNFBJQWFnSG1fdENSRVI3QThiVXpHWnI1Qk9KYnVTZkFXbjVBNEliUWd6R1oxQll1OTJvU0ktRk9wZHYzTFZUd283RDZPOV83STJpSjBXME1JWTVzS1VHcElfSVhZdDhZV190a0Jsb1ZPTE01OUJnaWR4M25ZTlBRcjNzOUJBYzdCM2dXRXFiakItYUVWd0RQYTI3S0E?oc=5",
-        "headline": "India bond yields above 7%: Why debt fund investors may find a sweet spot in the 3–5 year segment",
-        "summary": "",
-        "source": "Livemint",
-        "published": "09/16 01:50",
-        "published_ts": 1789491051.0,
-        "tag": "Global",
-        "first_seen": 1789491638.8893979
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 10:31:13",
+  "updated_at": "2026-09-16 10:45:57",
   "yields": [
     {
       "label": "3년",
@@ -2440,6 +2440,33 @@
         4.014,
         4.025,
         4.091
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 4.345,
+      "chg_bp": 6.6,
+      "series": [
+        4.068,
+        4.066,
+        4.111,
+        4.068,
+        4.039,
+        4.033,
+        3.974,
+        4.021,
+        4.053,
+        4.106,
+        4.167,
+        4.118,
+        4.101,
+        4.12,
+        4.127,
+        4.136,
+        4.186,
+        4.267,
+        4.279,
+        4.345
       ]
     },
     {
