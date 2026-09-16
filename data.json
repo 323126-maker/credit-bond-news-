@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDRIdVh6Tk9oYWdELUxQNlVGcVd5akI0UmVkQXlST09PWWlpMmdiTzBPTmM2TzI3b3FQT3BodnZiZ0JxUnBpeEpaMXp0MVlSWFBUbTNVTy1zTVkybEtkMDRfLXhOMzRPNnBSdi1yLVZKQlZEcXV2S0FycU5xamxvVm53ZHBEZlpV?oc=5",
+        "headline": "소프트뱅크 1조엔 채권 완판… 日 개인 사채시장 절반 독식",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/17 07:33",
+        "published_ts": 1789598037.0,
+        "tag": null,
+        "first_seen": 1789598724.3149571
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nT1d0WGRERll0T19vZzRZYTRBdmVaeVJqVFFuZW1vczZSTFA1NVJjRklQa0dYRU84eFdpUWV4MUJWYkIwdXVBcGR1WVBKR0FCMFZUWV9pWFRNVjQ4VVFBTW5qRFJsbkpiRzZ6Y0d3?oc=5",
         "headline": "자본 43% 늘 때 차입 132%↑…키움증권 ‘레버리지 경고등’ [질주하는 키움, 커지는 리스크⑤]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789527256.0,
         "tag": null,
         "first_seen": 1789527639.6261442
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Zenc4ckgyMDVJcUtNYzJlUkpLT3YzOUNaWTdmRVlLdWEzMThYSEdINHYwcmFRWVJCdlBhNG1ZTjgtQ01mb2ZycmZWYmNtV1dLaHdZam13?oc=5",
-        "headline": "연말 만기 회사채만 23조원…더 커지는 ‘차환 부담’ [美 국채금리 쇼크]",
-        "summary": "",
-        "source": "biz.heraldcorp.com",
-        "published": "09/16 11:25",
-        "published_ts": 1789525508.0,
-        "tag": null,
-        "first_seen": 1789542924.1196663
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xbXRlYTJKM2k2QkRVZjVSVncwS3NpdXVOMlQ0alZub3EyS2ZDeGs2R09MNmN1U0dEaVJnNS16eWxMMzNqYno3Wmd1UjdNSWFfNWRlTmlnZ0hrSWtub2FZdHVOV2Rfbms4NTVZRzVtNm9Qd1hY?oc=5",
+        "headline": "[연합뉴스 이 시각 헤드라인] - 07:30",
+        "summary": "",
+        "source": "연합뉴스 한민족센터",
+        "published": "09/17 07:30",
+        "published_ts": 1789597800.0,
+        "tag": "Fed",
+        "first_seen": 1789598724.3149571
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UUEpCTUpTTllxbE8xVTM1Z1FpWFJVOEVQdDI3MVhleU9KOTFZUEFZVmVSUEctX053ajBIQTM5dkJVeUtTcmMxVTVBN3BuLUk1OEx6S1p4X19QVU1CVWRZctIBeEFVX3lxTFB6RVV1bHRNbGNFMTdlamZ0WXpMYXBfTUFKbUtDZ3JmR2EzMHFUa2ZyVGFUSzVZOFZVeXNGQTVkdjVDWk1sY0tIT0VfUGFTc0dzdHJFTGJPVkZoMk12NVNCZU15bFVMZ2tfQnNiY1Y0MkVSZjFrSGlFag?oc=5",
         "headline": "'월가 채권왕' 제프리 건들락 \"美연준, 0.5%p 올리고 경과 봤어야\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789583531.0,
         "tag": "Fed",
         "first_seen": 1789597829.4049838
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOY2t3UEtEWkRFS1NwdTBDV1VJSjRoSjFJOUk3a0NBWGNPQy1nLTFtZ1RkY3BiLWkwNWEyUjREODMzTEVfTkVMXzZWZzBLelRJczI4Vm5Uemt4ZTZ6TWVhekQ0YVpYVWMybF8yNFBrTlp5N2lwYTVaME02T3pmODNRS3JYekM2UEtINzk5anZXelBiUUF0NzZKRW1HRHZrc0dsNERGa3UwQ2FIdWFiZFdsTE9oQU1nMmVYNGNVLVpLeEN4U1F3bUI4?oc=5",
-        "headline": "Watch live: Fed Chair Kevin Warsh speaks to press following interest rate announcement",
-        "summary": "",
-        "source": "NBC News",
-        "published": "09/17 03:31",
-        "published_ts": 1789583485.0,
-        "tag": "Fed",
-        "first_seen": 1789584040.7561617
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 07:31:04",
+  "updated_at": "2026-09-17 07:45:51",
   "yields": [
     {
       "label": "3년",
