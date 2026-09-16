@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOYVVNZ1d0VFN6dUljcEtwYzZWWF9odld4V292OHU3azZCYXBOWk5EZmY2SmNRblRQM3h3MG16OXBhTzNLMkg3Yk53NFlMTTFLM0RLTHY0ZWZ3N1lHYnI0eXJMd3E3dDB6aHBidnVoWXhVeS1kQWw4Sk1rV1RYTHZUYjV1MzUwdU5PVWpjTEllam1qVm93QTYxX2JyWlVRU21uSFh3Y0M2V0diMTFJY05RcDVWZE9Qb0RNUlpra2VUa2VfZkZzSFdCanlpVzdFNG90NXhRU2VTWnpKaEJSYkRBUDhSeDRoYUluNWxNSDdPcVJGLUR5T2xHWGZWS3dlRzZSNkpILXF0d3pFdzc1N0dhWkhpd3BQRV9hZFE?oc=5",
+        "headline": "Dan Niles Warns The the 10-Year Treasury Is Headed to 6%, A Level Not Seen Since The Height Of The Dot-Com Bubble",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/17 00:08",
+        "published_ts": 1789571280.0,
+        "tag": "Strategist",
+        "first_seen": 1789571723.1527455
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UWU5iSlBVNy1uLVljd3d5UzhpclNFdEQ5enBSbUF6ZmZJb2o3by1sZ2MtZkhxeWlyOEdPdGZtUkhPUkJIdDloUnBERElEMU5CaUVDMWhoRGx6MlNLOFNkbDQ1VlNFNUxPM0htYk9Obm9xSVpk?oc=5",
         "headline": "Hot or not? The economy’s fate rests on Kevin Warsh’s answer to one key question",
         "summary": "",
@@ -1860,6 +1870,16 @@
         "first_seen": 1789555526.1004634
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qUXlmVnF6VlNBMmJZNTlPaGtKajNvQm5UOHFJT09lQjU3eUFmcDdjVHdsQ1ZtdzI4dHVOUjlvM3p3LXRaQUZGdEI0cEg2cHpxYmlLNHBHOGhmUjlNd3lvVktlMktqQnFEUS1FZXEtMEYwX1gxbGh0ZHo5WFg?oc=5",
+        "headline": "17일 새벽 미국 기준금리 결정…트럼프 압박에도 0.25%P 인상 가능성",
+        "summary": "",
+        "source": "부산일보",
+        "published": "09/16 18:55",
+        "published_ts": 1789552554.0,
+        "tag": "Fed",
+        "first_seen": 1789571723.1527455
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE01Y2txekg2MDdzakZsMW1FZWZaTWRyUERCc0YxeEV4WmViSkxSSFg5dGx4cWhGV3RaR0pVZGdHTklxRlJNZ3lURUt3aEo1Tm9fRWxlUjFsbVpwVWJBNUZsSURUMFoyU2M?oc=5",
         "headline": "미 국채금리 고공행진…AI 투자·글로벌 금융시장 불안감 커져",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789545334.0,
         "tag": "Fed",
         "first_seen": 1789545636.9374313
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPb0tzak9PMkhPeG5ORF8yN0hZR3B0cUsxdzl3Mjc2bWNOeUVRNVcwU0Z4WFgwdFdnOWRzYnIwU2VDTmNBWGNCT3dGYWs3V3FsTGJpTi1RMk5mc2FBSTlKOGpnUktyWnNQNnhBSXc0S2Vla2kydDNYcWRiQ2dDNWhXWFhlRTkwM2R1cUJMcWVlRXRveWZ4Y3RRVURXNllmd2RDQkluQng4WQ?oc=5",
-        "headline": "Five Reasons Treasury Bond Yields Will Plummet In The Next Year (NASDAQ:TLT)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/16 16:41",
-        "published_ts": 1789544495.0,
-        "tag": "JGB",
-        "first_seen": 1789555526.1004634
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9laTIzSWhnUy1Fa21zSDdsQjRRN2dWTmFSNno1MkM0aEZtcEV5dW5JNWpRRVNnaDdhTHplTDlMeFl6OUhuSW1GaVR3?oc=5",
-        "headline": "일본은행(BOJ), 6개월 공식 깬다?...전문가 89% \"금리 올릴 것\"",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "09/16 16:35",
-        "published_ts": 1789544100.0,
-        "tag": "JGB",
-        "first_seen": 1789544724.7414625
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 00:01:11",
+  "updated_at": "2026-09-17 00:15:52",
   "yields": [
     {
       "label": "3년",
