@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TMzJwQ0RtcVl4VWhXS05aRWxfYnhEMzUzU1NOR3dfVE81ZTJlR19XX1dzcVp2aTI4UXg4Zm85enpaNlB4QWR1R0JqWE9PcjgxNmc?oc=5",
+        "headline": "BCB 뱅코프, 3분기 1억2600만~1억3610만 달러 순손실 예상..보통주 공모 단행",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/17 05:55",
+        "published_ts": 1789592127.0,
+        "tag": null,
+        "first_seen": 1789593322.8396392
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2UllTNDZzQXNCeE1neVVlb2RMbFFoamliTkpKLU44Yl9Wd2RHazRSOGxtN3lFUlZGTVhYODl2QlpEaE1Lb1p6eWVQYU9oWTlhelhRaVJlbms4cXE4ZDZsalVLRkExNkVaQzlfQ1BfVmJ5cUh6R1pZ?oc=5",
         "headline": "S&P, 낮은 레버리지에 힘입어 Packaging Corp. 신용등급 ’BBB+’로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789522834.0,
         "tag": null,
         "first_seen": 1789524925.6586068
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxNbkx0NHlzZzdaaF9RSk1QRF9IUjZPaGxGVDN6bnJpb2NnSlhOa1gyMXVuRWdkVHhad2lfYlIzcTRkVWdKZFVWbjVqc192MVA5MGRZRkt1SXZKX3VrYkZlbTFYSVRHSl9fRVNGd1FuQmRKaTI2TVZ3TFUyM0xhb2RJMTAwRThZelJoLVBLcXhUUHNoOTVrYkxMNDZFNzRwWFBfRV9jTjROdXp5ZV9IYjZyOEhpYUJ3bnpidm5mOEZ3c3JjNTJuemtaVjdrM0YxR185VjgzMU5kaDFJSm9lcTdLdjRGd2xpUVJveGJjNmJhVzk2TklXbEY3MDlNTFRnblB0azUwX3dLMEo3elJfd0ZjWGJjbUNjM3JPSTB2WkpjTV9RWVdoSHR0ckpOUmZhM1U2MXdn?oc=5",
-        "headline": "인도, 6,200억 달러 규모 회사채 시장 토큰화 시작",
-        "summary": "",
-        "source": "IDNFinancials",
-        "published": "09/16 10:40",
-        "published_ts": 1789522800.0,
-        "tag": null,
-        "first_seen": 1789557327.0491042
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00WG8zOVQwMXI5NUM2TVNGVEFHUGtfX3VoNEFLUm93SUw4aVpSaGlRNkVobmF6YW1OUURRekhSdThpZG9sVGR4bkpGMzNKV1k?oc=5",
+        "headline": "트럼프가 임명한 워시, 첫 금리 조정은 '인하' 아닌 '인상'",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/17 06:09",
+        "published_ts": 1789592940.0,
+        "tag": "Fed",
+        "first_seen": 1789593322.8396392
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1XTVJrT0J4eWtsS3Y4dUVNcVhjbHdXVzVEblNBTlhtSG1WVDVZNkZ5Tks3TUlZSE9LYllyMWNQZmR6MFllU2M5S0M3d2J6V0x0NENrNDJaSlVHeHI4X3FzOFlmUQ?oc=5",
+        "headline": "[조남현의 종횡무진]정부는가속 페달 밟고, 한국은행은 급제동하고",
+        "summary": "",
+        "source": "매일산업뉴스",
+        "published": "09/17 06:00",
+        "published_ts": 1789592400.0,
+        "tag": "JGB",
+        "first_seen": 1789593322.8396392
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bGxHUXZtNFIyOEtnNXphcUtPS1V2S1pfN0ZINElkd2lFRlZjVk5Lczc4VGwxLWE2ZUgtVmd1bkUwcjhQMDJaQVNyTlZHbjQ?oc=5",
         "headline": "트럼프가 임명 ‘인플레 파이터’ 워시의 금리 인상...“독립성은 양방향”",
         "summary": "",
@@ -1658,6 +1678,16 @@
         "published_ts": 1789589341.0,
         "tag": "Fed",
         "first_seen": 1789589725.348797
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40ZzdjaHU1a3F1cDliVDJhUWtPU196bHVLVWZ3ejBsNTZ3ZjlrTmdvMjlQTUlUYzhKNGJmNWNhb2M2SE1sZGtDSFlTXzZjRFFYZ090OHM3X2xaallkSkdkVzVfNGt2NFEydWc0T1VEMTZpMXRPclI0?oc=5",
+        "headline": "September 2026 Fed Dot Plot Sees Low 4% Fed Funds in 2027",
+        "summary": "",
+        "source": "Bondsavvy",
+        "published": "09/17 05:07",
+        "published_ts": 1789589220.0,
+        "tag": "Global",
+        "first_seen": 1789593322.8396392
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRXFCUGo0OVVrQlMzYzNILVo0Vkh3OWViODA5dVJsRkRGLXFhTXU5Z1liZHY0ZzFTRmhseDBNT0hSZ3hsQjhXZGpFNEtISXNrZElfY1lLVE00ZGotdld4eVcxLXhHZThVblhDRVBzZVBaZk5VemdCVFdvU1ZBX2VyelVwYi05RWdjRXVieGo4cDFpMjZGMmpoc2NCS0RYSFdvVk1MT1Ytcw?oc=5",
@@ -1978,39 +2008,19 @@
         "published_ts": 1789579851.0,
         "tag": "Fed",
         "first_seen": 1789584040.7561617
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2xPTUI3QUt6NUZhejJ5SnpqbW12bUVjTnh6NVhIY1NCT3Q1a1drMWhLWDZVOG83SXBQZGRfOU5aOXhscVFkdldpZjE3czJfRkJubHFpRk9pVUhmV3JtREJRWVljOW1keFFHQlROV0V4bDEyVFpNZFBhSzVYS2wxY2F2aUQ?oc=5",
-        "headline": "Turkish stocks slide in ‘fund run’ as investors withdraw $1bn",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/17 01:39",
-        "published_ts": 1789576765.0,
-        "tag": "Global",
-        "first_seen": 1789582524.7206318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGZGZWVROWZSd2NBZ0NfV2JhQWpGUGwxUEdteE5FWU1wVVFWMW4za1dBQ2ppRXJ0cU5EZjc0UlJGbEFqUURsYW9zUlpSd3pzZUZDREhZc2gxY1VQbTBQc2JrcHY2djN3NHBha2hTaWxGZnRYaXhBdE04eHgxaElIcUFuSmluQ0RhVERXVXRpeU9VXzktZ005SF9DVHVBV0E?oc=5",
-        "headline": "Columbia Capital Allocation Portfolios Q2 2026 Commentary (Mutual Fund:ABDAX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/17 00:53",
-        "published_ts": 1789573980.0,
-        "tag": "Global",
-        "first_seen": 1789574440.876892
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOYVVNZ1d0VFN6dUljcEtwYzZWWF9odld4V292OHU3azZCYXBOWk5EZmY2SmNRblRQM3h3MG16OXBhTzNLMkg3Yk53NFlMTTFLM0RLTHY0ZWZ3N1lHYnI0eXJMd3E3dDB6aHBidnVoWXhVeS1kQWw4Sk1rV1RYTHZUYjV1MzUwdU5PVWpjTEllam1qVm93QTYxX2JyWlVRU21uSFh3Y0M2V0diMTFJY05RcDVWZE9Qb0RNUlpra2VUa2VfZkZzSFdCanlpVzdFNG90NXhRU2VTWnpKaEJSYkRBUDhSeDRoYUluNWxNSDdPcVJGLUR5T2xHWGZWS3dlRzZSNkpILXF0d3pFdzc1N0dhWkhpd3BQRV9hZFE?oc=5",
-        "headline": "Dan Niles Warns The the 10-Year Treasury Is Headed to 6%, A Level Not Seen Since The Height Of The Dot-Com Bubble",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "09/17 00:08",
-        "published_ts": 1789571280.0,
-        "tag": "Strategist",
-        "first_seen": 1789571723.1527455
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1tZURyaDYybkxUaVZIRG9GRFVfS1RMR0h1SEFDUnZ3Y1Mwc0ItX1JzS3YxX2RJMFhqbkFQam5UelpVNHBDSjBiZGZpYlBVb0FPcmxGTmZjNjlwdTFVZW0tTzJmYlJ3X3RFVmxz?oc=5",
+        "headline": "신세계·KCC 딜 맡은 허성훈 전면에…신한證 DCM 4위 수성 시험대",
+        "summary": "",
+        "source": "ngetnews.com",
+        "published": "09/17 06:10",
+        "published_ts": 1789593000.0,
+        "tag": "신한지주",
+        "first_seen": 1789593322.8396392
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBvTS1FMWFQODBpbWYtRUVobU4xZDlLSTJMTXJRR3FIMVB4cFl3elYwZHc1T1ZBR19FeUE4Tk90cjhvcW5YSHo4ZU1VaGRQWDUwMlJYUUJlMmFheEMtQUZYMFZ0Tnd6cTJZeTRjRQ?oc=5",
         "headline": "농협경제지주, 우리 쌀·술 알리는 'K-라페크루' 본격 출범",
@@ -2400,20 +2410,10 @@
         "published_ts": 1789114519.0,
         "tag": "수협은행",
         "first_seen": 1789182043.4063866
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE83NS1uT2RYNGZkZGkzaVFlTk5iUjR3NmE3VEJlSTB2WVhjNDFJcGxyODhRRnNFMFNHS1JNbFBqSnprVTlqT2hEYkdzZTg4eTVVVnBrRm8yOVlLTzNiX1czeVluZURkR2tHeHFUd04tZDY?oc=5",
-        "headline": "[카드 NOW] 롯데카드·신한카드·삼성카드·KB국민카드",
-        "summary": "",
-        "source": "위키리크스한국",
-        "published": "09/11 16:47",
-        "published_ts": 1789112846.0,
-        "tag": "삼성카드",
-        "first_seen": 1789113638.0109003
       }
     ]
   },
-  "updated_at": "2026-09-17 06:01:11",
+  "updated_at": "2026-09-17 06:15:47",
   "yields": [
     {
       "label": "3년",
