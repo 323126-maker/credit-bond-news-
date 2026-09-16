@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeGxPU095Y1JPU3hiRjc1UkN3OWtqazMyNVkySkliRHJtZEtubjRqaTZDa09US1VsaGpPVTJ6bGd5Um5la3AxT2luZXRGekMzQ2s1Z1VzcXdLUmQ4TGc5eUJDaUs5NW9PUTBJeHVLcy1jWUNGaXlJWGVlWVJUU0hRYktXWW5NckXSAYwBQVVfeXFMTm5vME9DbHJOTGVXdjh6blVJMEpLc1h3TzdDc0xRTzFVLTJ1cl9WcGw2cU91YlRnZEpRMUF6TE5mTWFuYnhuX2xLNDJpS19Ta1VGeklxMXk5MTE1bE9rR1NSN2JvbXVwRS1xbl9qbHg5TkJTb3hSLXA0UGFnZHZOakFfTUdkQXZ3c01fbTU?oc=5",
+        "headline": "What the Fed rate hike likely means for you",
+        "summary": "",
+        "source": "PBS",
+        "published": "09/17 04:08",
+        "published_ts": 1789585688.0,
+        "tag": "Fed",
+        "first_seen": 1789587925.7603505
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
         "headline": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789556723.0,
         "tag": "Fed",
         "first_seen": 1789569036.2502248
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTnVpTndVMHRlQWJOd1oyOW5KZ1VPd2NIU3R1VkdrZUNrRU1KSm5MSUFua01WLUh5RUJlWGc4OHNVdVVpZGxhRUkybmpqRDFPVXhKbjE5TjBSZHhRZjlOc1ZXLVItZ3hnY3c5Zmo5VWlJb1k2V2hYSFNPRW5PVGx0OC01VlFWVVNYSjBZZ3B3a3p3WElPYXV2eG9qNno4dkFpd2xWQzcxeGtJU2xoRHU0bjlWaHB4bktKcDVWcVJNTVFQUHFVT2NqcmllYkZfZzg?oc=5",
-        "headline": "Warsh likely to side with financial markets over President Trump as Fed rate hike expected",
-        "summary": "",
-        "source": "KGW",
-        "published": "09/16 20:00",
-        "published_ts": 1789556400.0,
-        "tag": "Fed",
-        "first_seen": 1789560037.1669261
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 04:30:59",
+  "updated_at": "2026-09-17 04:45:50",
   "yields": [
     {
       "label": "3년",
