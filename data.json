@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE13b1FxSy1JOUxrcXBzY2VvS1BicWNaQXlWUDZyS2tmRUpBVDhEU0ZWZXYtSlFpeVZ2Y3ZjMDhLaTl6Nk1Ka3hzVFUySkRheDFGbTJr?oc=5",
+        "headline": "美 국채 금리 5% 돌파…서울 집값 누르는 ′나비효과′ 될까",
+        "summary": "",
+        "source": "KPI뉴스",
+        "published": "09/16 17:02",
+        "published_ts": 1789545737.0,
+        "tag": null,
+        "first_seen": 1789568124.281003
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObFhsYm5Lc3djWm45Q21Hc25HN1Nqd3pVTUY3SmdjT0l4VjBlNmFVYXZBYU5sOUlHQTVwQl84RHVGblRnbk5wNkNZMzB0TklmM2RvMFN1ZWdBcDBNT0dJYm80VkJxNWVfOUJoNUp2T2R0VTJGSm1wRjRVMVBLeWZONlFDbzRteHRJS0NfNG1FamVicW5uTVpmSXpuLUVuWjFiXy1Wb2paUFF2Z0ZCX2tfTU9SNXNRTVJEZUE?oc=5",
         "headline": "마작5 플래시게임 화면 전환 중 입력 안내",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789260312.0,
         "tag": null,
         "first_seen": 1789261236.8282924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuaEg0MTdyeHJ4Wk9yUnpVcTBLbVF3MXJtS3N0R25PbUUyOUYyS2xtTWVGdDBpNGNtdmxPWTdSd1NuSm9SZVV6dmt6NWw2Q1hsclFGS1lkdzR6Qkc4WktZZDduNy1ZVmFUYXljeVprQS1RNTdh?oc=5",
-        "headline": "\"반도체 끌고 AI 받친다\"…韓 성장률 상향이 바꿀 자산시장 셈법 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/13 09:24",
-        "published_ts": 1789259061.0,
-        "tag": null,
-        "first_seen": 1789270231.1711805
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 23:01:10",
+  "updated_at": "2026-09-16 23:15:51",
   "yields": [
     {
       "label": "3년",
