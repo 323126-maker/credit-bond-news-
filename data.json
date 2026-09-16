@@ -1218,6 +1218,16 @@
         "first_seen": 1789532123.8976402
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1mU09SU20wWXVESmRkZXhKb2k0SkVsc2QxaGJ2RFNxWGtpT2lqZlRSbDVScF9JenBzZXJsZ09iQlo2N1YyUkpJUVJRX2UyTHVYTjdnRFZpZ2pOaWltS0t4OdIBYEFVX3lxTE1mU09SU20wWXVESmRkZXhKb2k0SkVsc2QxaGJ2RFNxWGtpT2lqZlRSbDVScF9JenBzZXJsZ09iQlo2N1YyUkpJUVJRX2UyTHVYTjdnRFZpZ2pOaWltS0t4OQ?oc=5",
+        "headline": "김민석 \"전방위 대통합 본격 시동…'4통 통합' 가속화\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/16 11:27",
+        "published_ts": 1789525652.0,
+        "tag": null,
+        "first_seen": 1789533030.3398635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5XcFhBYTZlWFlQV0Q3UHB3Mmt3NGFZQl9vR0Y5Tl9jRE11YkxsVm1kWU1SWEhGZnlsUUhtRl9rOHRmSkpRWGlxT0EwUElvZXZyVkZ2VVdhSHJWWG83?oc=5",
         "headline": "김남준 의원 \"재정위기 때마다 공공자산 처분했던 과오 되풀이 말아야\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789272000.0,
         "tag": null,
         "first_seen": 1789273832.7245054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBFY3A4TkJTTnVkTDA4SlFLYUdLNDlEQk9aZmFPUnIwb3JiT0hoeHZiQkp6cVVIR0pCYmxZTkpoUWVVTndzODVNMUNOQTJJY1lwdjA4?oc=5",
-        "headline": "美국채금리 불붙었는데…재무장관의 '위험한 변질'[이태규의 워싱턴 플레이북]",
-        "summary": "",
-        "source": "네이트",
-        "published": "09/13 09:20",
-        "published_ts": 1789258800.0,
-        "tag": null,
-        "first_seen": 1789279240.2275612
       }
     ],
     "global_bond": [
@@ -1648,6 +1648,16 @@
         "published_ts": 1789527000.0,
         "tag": "Strategist",
         "first_seen": 1789532123.8976402
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zOWxJWUttTjVZOUJBTExKdDQyVEY1ZjlpeDNVZkxqZUVVUTBRaklZLW9rU3loemhaS2NuY0JKYi1EbEpOVkQwOWRsd2Y2bXB0cXRmZlBTRUtncU5ncnF6N21TblJZLWRmZ216OHVhQUpjN2M?oc=5",
+        "headline": "Asia fixed income draws support from capex boom, shrinking dollar supply: Principal",
+        "summary": "",
+        "source": "KED Global",
+        "published": "09/16 11:38",
+        "published_ts": 1789526318.0,
+        "tag": "Global",
+        "first_seen": 1789533030.3398635
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBBVWJPc2g1cDkzRjBrb280a2lXbmlmVG5xb1RYS3JKVWRLcXJ4bHpVOGFPLTczNFpEQUZHby1mZ2NtMUFfY25VQ1BsR29QdVpVYThQekF4dS1GY25EbkpDQUFSM0d1MnV2ZnJIYXJ1THdzWnBR?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789498557.0,
         "tag": "Fed",
         "first_seen": 1789498841.9823291
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdXlQbW10eGgxUGVoOWFPekduNExjMnIybFFsUVA4SWlCTThRYTJtdWFSZ0UtM0t2SlJVcXlUallRM19RTVZFT3k3N09FYlk5bHhWVWJKeFNJZVFBOF9IMUJQM1FEYTdNSXJDWHowV1k1aUxYUmFxOHVQYmxlQVRYLXhKU3B5WVNzREx2RkRDZUZ4bGFhcFF3UjdWV1U?oc=5",
-        "headline": "고정되는 심벌이 있다면? 인터넷 도박 처벌 슬롯검증사이트 작동 원리",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/16 03:22",
-        "published_ts": 1789496564.0,
-        "tag": "Fed",
-        "first_seen": 1789519523.307543
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 13:15:46",
+  "updated_at": "2026-09-16 13:30:54",
   "yields": [
     {
       "label": "3년",
