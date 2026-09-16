@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
+        "headline": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut",
+        "summary": "",
+        "source": "AP News",
+        "published": "09/17 03:04",
+        "published_ts": 1789581840.0,
+        "tag": "Fed",
+        "first_seen": 1789582524.7206318
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1xbURsZm5DZ2QyZmRxUEFxMUxwSG9BUml3Z2w4bDBhUXBZam85Q2VRcC0yTGdXSTIzMEpLX0YzTHRJa2VqdHljWGdBdjlJMzY0d3pENDR3?oc=5",
+        "headline": "WATCH LIVE: Federal Reserve Chair Kevin Warsh speaks after interest rate decision",
+        "summary": "",
+        "source": "Fox News",
+        "published": "09/17 02:45",
+        "published_ts": 1789580758.0,
+        "tag": "Fed",
+        "first_seen": 1789582524.7206318
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNd2xPTUI3QUt6NUZhejJ5SnpqbW12bUVjTnh6NVhIY1NCT3Q1a1drMWhLWDZVOG83SXBQZGRfOU5aOXhscVFkdldpZjE3czJfRkJubHFpRk9pVUhmV3JtREJRWVljOW1keFFHQlROV0V4bDEyVFpNZFBhSzVYS2wxY2F2aUQ?oc=5",
+        "headline": "Turkish stocks slide in ‘fund run’ as investors withdraw $1bn",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/17 01:39",
+        "published_ts": 1789576765.0,
+        "tag": "Global",
+        "first_seen": 1789582524.7206318
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGZGZWVROWZSd2NBZ0NfV2JhQWpGUGwxUEdteE5FWU1wVVFWMW4za1dBQ2ppRXJ0cU5EZjc0UlJGbEFqUURsYW9zUlpSd3pzZUZDREhZc2gxY1VQbTBQc2JrcHY2djN3NHBha2hTaWxGZnRYaXhBdE04eHgxaElIcUFuSmluQ0RhVERXVXRpeU9VXzktZ005SF9DVHVBV0E?oc=5",
         "headline": "Columbia Capital Allocation Portfolios Q2 2026 Commentary (Mutual Fund:ABDAX)",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789549112.0,
         "tag": "Global",
         "first_seen": 1789550124.283478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1yNHdUSXZsMk53aHFzRlNIcEpRVnlOOXZqUEdDZ0kzbkRYS2RIb1QtU3dDSEZSWlhiQmVVMzhSU1J0MzhrVGgwVHRaaEwyQmoweUQ4UVJ5QUlDQQ?oc=5",
-        "headline": "美 FOMC 이후 증시 전망은 [한경 프리미엄9 TODAY]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/16 17:56",
-        "published_ts": 1789549006.0,
-        "tag": "Strategist",
-        "first_seen": 1789549236.7386143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR1dUbnA2Y2VkTmc3VUhuQWlCeWl3ZGl2dzEzcWlnZDN0b04zclNKRTF5b3VDZEw5Vkt4TXpKcWNEX0RDaGZKUkRTcFc5R196NUZpQkI3WjV1Ym9WRFRLZHJQYXB0V3d1S05JdFdkWVJraEI1X0RnRmRmNnFsN3BGVEpjTGs3NEpY?oc=5",
-        "headline": "Eurozone Bond Yields Remain Near Multi-Year Highs Ahead of Federal Reserve Decision",
-        "summary": "",
-        "source": "Yahoo Finance UK",
-        "published": "09/16 17:54",
-        "published_ts": 1789548853.0,
-        "tag": "Fed",
-        "first_seen": 1789570483.889247
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RZ2hmMncxSjVfSk54ZWpld0ZLZ3l1ZXBqOG5IeEhndGhYZmhMbFc4dG1ZazRfVktGTkFQVUR0Y3BCd1NUdTZISUpyYjJfOVBC?oc=5",
-        "headline": "Asian stocks gain, FX subdued ahead of Fed decision",
-        "summary": "",
-        "source": "The Edge Malaysia",
-        "published": "09/16 17:53",
-        "published_ts": 1789548803.0,
-        "tag": "Global",
-        "first_seen": 1789549236.7386143
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 03:01:20",
+  "updated_at": "2026-09-17 03:15:51",
   "yields": [
     {
       "label": "3년",
