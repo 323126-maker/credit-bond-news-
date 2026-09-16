@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOWRHUnNaVnlJTk11MGo1RU5OeUFfNXRnWVh1TThRYm1FR256QllxZE1HeGh2MkFPRDZRdnhmUDN3NDFrOGJCWEpvSUhnQVFYNFlHUVVMTWlSMTNsV2p0cTd0cHN1ZDNXQUVDUnJjRG5sbkpiS2d0b1JSR2VSeDRnVW5WY0F1Y1hLa3RZekxVdUFuMUpvcTlTY0RJQ3pwdFpESVlnZlUxTEw?oc=5",
+        "headline": "Domestic investors shield Việt Nam bonds from global sell-off",
+        "summary": "",
+        "source": "vietnamnews.vn",
+        "published": "09/16 11:32",
+        "published_ts": 1789525920.0,
+        "tag": "Global",
+        "first_seen": 1789526723.1659925
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jSkpBbGZlNmtheGg4c2dEejN2SF9tal9YRmoxMWRwMUVmUW1zTEVENkdpU0RFMFdtR3JUa1A3bnctYXNrWGxOVHAyaFhWUTQ?oc=5",
         "headline": "日, 18일 기준금리 1.25%로 인상 유력시…3개월 만에 추가긴축",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789493439.0,
         "tag": "JGB",
         "first_seen": 1789500633.4363716
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDN3T0kxOVZqd19JajhYajlpWm5xdEUway1PMGVISXFHZ1NhMTYtVHl6bjF5V0VoV1pKMkozdFBGVzRVRWhIZnZNTXlUb2k5OWgwMzIxLTdpMVlfNUlhVml1b3UwaFJjb1F4dUZmaFlxYWxOdDNLbmp6R0JZeXEyTVpTdDRSUnZYZ0RxVmptOTZEZEZudHZpTVV5Zw?oc=5",
-        "headline": "Warsh's push to pare back Fed communications has real limits",
-        "summary": "",
-        "source": "americanbanker.com",
-        "published": "09/16 02:30",
-        "published_ts": 1789493400.0,
-        "tag": "Fed",
-        "first_seen": 1789494324.1737447
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-16 11:30:54",
+  "updated_at": "2026-09-16 11:45:47",
   "yields": [
     {
       "label": "3년",
