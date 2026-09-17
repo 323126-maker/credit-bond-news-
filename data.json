@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSzVYQ3V2LTVGTUNFcHB5Wko5ZFRvU2ltNldIQmcxUTVEQ2pmOU5DZGs0YWVtb25BYlc4UXRjaEFnNFJCRkJOR0lZYnJCUnRfdTBUVy11Rl8ybU1TZTJnWDhKNS1tRHgta3h3Y0w4MGkzbDJSR1ljdWFJWnpGRDdHNFY4QWVkbzJhT2ZCOFh4aXBMZ1lMYTdZOHJGemNrVHFGX1VTanBn?oc=5",
+        "headline": "Trump spares Kevin Warsh from criticism despite Fed rate hike",
+        "summary": "",
+        "source": "Denver Gazette",
+        "published": "09/18 02:43",
+        "published_ts": 1789667008.0,
+        "tag": "Fed",
+        "first_seen": 1789668037.6761184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWUFnbld1ZmtiUnlrdHd0NXNzLXdTRWNFRGQ4cGszaDRFLVBHcFFJbmRVVFBpYU5qV3J2V0hCMEw0VDRQTlZDMHVOOXE1Mnhwa1BkQkhVTG9XSmxUeTRfNC1qZkw5NkcwNG5naUhKWjNtNVRWVDluNUZR?oc=5",
         "headline": "Japan bond yields force Takaichi’s policy shift",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789630658.0,
         "tag": "JGB",
         "first_seen": 1789643725.9590535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvONIBYEFVX3lxTFAzMkQteVpMb0V6NERIeFJQSHFGekpWbmtpOW1BbUR3WWUwSDVuUkZRUko5QzZMbGlQU19BLUFOZ3AwekY3eHNDSVJfQmZBQXRiYm5JcEpGNi16SlBTYmpvOA?oc=5",
-        "headline": "미 긴축 기조에…원/달러 환율 3주만에 1,380원대로(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/17 16:08",
-        "published_ts": 1789628926.0,
-        "tag": "JGB",
-        "first_seen": 1789640128.4267955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 02:45:48",
+  "updated_at": "2026-09-18 03:01:02",
   "yields": [
     {
       "label": "3년",
