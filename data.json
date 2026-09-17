@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSDZndndJenZmVk4zOS1kOWVja1ZoVGlXY0V3c2V1b09PeVU4NzhYZmYwLXBvY01xNmxqMDljSmJjZWNEMTh3NUFCdVh2TzZQQnpFaEZINjMxdmdkRmNMRUN0ay1yZS0wTTRIYlFHTjRidW5SMnc1RUxibVlRT25GNEd2WkVSLUxwQm9RUUFuM0c0QQ?oc=5",
+        "headline": "USD/JPY (USDJPY) 9월17일에 급락했습니다. 달러, 금리, 데이터 중 무엇이 영향을 미쳤을까요?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "09/17 21:25",
+        "published_ts": 1789647952.0,
+        "tag": "JGB",
+        "first_seen": 1789649124.130183
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vN3dJZTRTZDBzSHo5M3prWkFWSlRfd1JpLWpXNWNyTV9abURrWEVtM0x6Q3Z3WHFtS29wVm1WN3lDb3NvS0pPbXd6U3pBZEREeXVLbTlHajZ0X25FdU1OekMwci1CME5XcEd0VlI5Y3d3U2Z5S1A2THZibTN0QQ?oc=5",
         "headline": "Trump Looks Isolated on Interest Rates",
         "summary": "",
@@ -1910,6 +1920,16 @@
         "first_seen": 1789626668.7163532
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9WT2YteVVOV3RfeC1XaXowZkJWaC1HeXlKZHNSbjNiVHA0cVAwb0h0eXFhYTFoQndZSUFtdFhCSWxRUGVwMFFDbDVkc253dFNTTHNEOW0tQ21sZ0hFWkN0aWtsbDNEc3BmT2dHWmRLN3lwLVNwTklsc213?oc=5",
+        "headline": "Japan’s 2-Year Bond Yield Hits A 1995 High",
+        "summary": "",
+        "source": "finimize.com",
+        "published": "09/17 14:50",
+        "published_ts": 1789624251.0,
+        "tag": "JGB",
+        "first_seen": 1789649124.130183
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56dVRQak9IRHhkN2RXeXRvUFF3UU1ERGcxMHV0Y1lmYjFHR3JVeHRBajMxUGxoS1JRRV9sRm1hbzduQ0hzUnRiVTNxTVZlWVJGT1FpY1Fsc1k?oc=5",
         "headline": "日 금리 30년 만에 최고치 가나…전문가 89% “BOJ, 1.25%로 인상”",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789618424.0,
         "tag": "JGB",
         "first_seen": 1789640128.4267955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOY1dQRV9XLUcxZkxLcUlBeEtxM0RxM1dWOF9FM21EckpLT3d2Yk1rX2xzaVdES2dyTURTOEdkTEoxRWwwQ01PQTA4cHZNM3FXeG1oak81Q3N2Uzh6WUJyTUxBRzl3My1HdEM3ZDNMSHh3dDViYVUzZlNxazRwNFkyWllfbXM?oc=5",
-        "headline": "Donald Trump fails to bend the Federal Reserve to his will",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/17 13:00",
-        "published_ts": 1789617631.0,
-        "tag": "Fed",
-        "first_seen": 1789624836.963319
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUTVtSmxRd1ZVUjFKa1ZpOTZYRjBQcG5Mb2dQSUo0MzFqRzBUWlVsalFQT3lic09IdTdoM3VWa3E3ZlU1MWpTZmpucWRYNVZVd3VWRlRTRU80YnM5ek14dVZxTHZObEdhdEtuU1o0d2JlRXBLcFl0YmZ1Q3lzYjZCRzZtcWY1Z0NZZjhFcmROU19Pd3pjd1ZxcjhYNmJMZw?oc=5",
-        "headline": "Trump says he told Fed chief to ‘do what you want’ ahead of interest rate hike",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "09/17 12:59",
-        "published_ts": 1789617540.0,
-        "tag": "Fed",
-        "first_seen": 1789635348.4360785
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 21:31:01",
+  "updated_at": "2026-09-17 21:45:53",
   "yields": [
     {
       "label": "3년",
