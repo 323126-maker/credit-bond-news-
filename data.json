@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMzAzeG9DMnNSMDROYTBLRlZvNFpTVzNWQ05vTlJQcnlSSVpCd1FoaTZjajZMcXlRUi04TGRyVGpOQkkxVWR3N0FYU21LY1c1SnpMOGJlRUYzVVB1eDJyUXN0ZDQzNUx1LW5hdXBTQWFiTUxqRUY0ZWl3aDRydVJLWWlzc1hXeS1peWd4cHFCdTU?oc=5",
+        "headline": "PGIM Total Return Bond Fund Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/17 22:00",
+        "published_ts": 1789650000.0,
+        "tag": "Global",
+        "first_seen": 1789650924.463205
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02czZHaFE4LXRfbjFXY2FFNUs1UFkxRFl3bVY3eWkwaWZnZHBiU3dLbDFWR0NLVjJnZ1o1UFNFV09YTDA4MEtPRkJTN1l6MnFKNlBvRW1NNnhSdTA?oc=5",
         "headline": "Federal Reserve Chair Kevin Warsh on the central bank's rate hike",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789621931.0,
         "tag": "Fed",
         "first_seen": 1789631127.1280801
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPM0dCTFJIdUxfMVRsQzZSTVM4RE0xNjI5WFE5SmZldm9pUkJ6enR3TW4xeWJEMFZpUE1HZjEwVjNWbTQ2UFQzWm5tdWJrbWg2cVpLT2dvTXRrcTVIVlZ1bzBhRlpJNWtPMTlWbTBYYnNvNW1Ea0hraW9vYWdqdG5SSkR6R2RhdFdodlZkVldXNlBvMGlfRW1QV1A0dkRNR1FMYVNDUl9oVFlub0xmeFhGem41QU1CV1dZZmx4X3BsZ1lBZENCaFlyZ3JpXzRpdGNNbHd0aTJwYw?oc=5",
-        "headline": "Japan's short-dated bond yields hit 30-year peak on BOJ rate hike bets",
-        "summary": "",
-        "source": "Zawya",
-        "published": "09/17 14:02",
-        "published_ts": 1789621320.0,
-        "tag": "JGB",
-        "first_seen": 1789630228.612868
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 22:01:05",
+  "updated_at": "2026-09-17 22:15:51",
   "yields": [
     {
       "label": "3년",
