@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdi12TzZ6c3dwWUFuQUNpTWVwbE5aOVNCQmRNSXNjOHhYM1E5UVdvTk81c0ZrSHg0U3pPNnIxSl9jb1Z1VmMtTEhDSlFWdm1zZGMtX3RLZTFHaFZRMkxrcTUzTHBUVjV6U3NOcTN6RkxqN1hDTDBPdlZxLXZkblFIZTdjaUw?oc=5",
+        "headline": "[김대호 진단] 일본은행 금리인상과 엔캐리 청산",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/18 00:00",
+        "published_ts": 1789657200.0,
+        "tag": "JGB",
+        "first_seen": 1789658123.5076826
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EY0NsYUZseVV0R2p2eW1qa1l6TUI3QUNPRUVlNkM1XzVyQVcyMHN6MWlRWlphZHgwSW9wV1dZUEhaS0VPVGVQVXRXOEE2cGtjR19FZl9xdXN2MGF5OXkyU0QxN0c?oc=5",
         "headline": "M&G launches IG bond strategy",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789625580.0,
         "tag": "Fed",
         "first_seen": 1789630228.612868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9neU5qZHk3RmxHWERJWjczUHo1bzVpMzNDdGdCZXI2WkNJQlBPOTJNZDFUVGNjd3pnTWxKVDY3Y0RVWWQ0M0VESXhnZlZ3QjdjS1YzWm83djJ6Rl8zZkx3?oc=5",
-        "headline": "BOJ, 10개월 새 세 번째 금리 인상 예상…1990년 이후 가장 빠른 속도 [마켓프리즘]",
-        "summary": "",
-        "source": "조세일보",
-        "published": "09/17 15:00",
-        "published_ts": 1789624859.0,
-        "tag": "JGB",
-        "first_seen": 1789638326.0539417
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 00:01:06",
+  "updated_at": "2026-09-18 00:15:51",
   "yields": [
     {
       "label": "3년",
