@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEp3cFlwYWNQRC1sUVpnaWtTSXM5dFY4LW5CTkM2VDFOV0NrNm1PR0RObl8ySTBaZmE0a1lsaVhueTVqcHB0VVk2WHpreFpUbjM3aFlZbFZkZkVZVS1rQkVEMjNvYWFlT1ZqV0dhUVhLa2ZZYWpmWUhrUzJLU0xBMnpfUWc0aU1TUG5RU2ljX0Q2cHZHT3JJREFHangtQzFzMEc0QUlta21FajAtdnUzc1pSVGU5LVZ5Z1k1dW1ONU9fbVF2RTR0Unh5c2RGbmpoOEF4NDUxal9iT1ZpdmR3eDhKTGpYd1VU?oc=5",
+        "headline": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "09/17 20:41",
+        "published_ts": 1789645260.0,
+        "tag": "Strategist",
+        "first_seen": 1789645525.2366807
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQOFNFSklIX05Ob2V2anUwdEJ6Vi1GMFhPSlNoR1JRWVBBNFB6dmNpd2ZpNkkwakZqYnd0OVUtMWxTODc5c3VaOHJFYVd4cllUZnZmbWE4TGxnYjdNTkZiTnhfNWlLeFpTNnZ5YWhiV1dsbVVZa21tRW0wN3gtbVZkM2R1eHRNMEVTUWlHeTVjcjNJZS1VdVhHUEh6ZFFuY3lZWGVNdDZKTk55aE1PM2Z2bGhCM2JLWWJFZWU2S1hoemdLSWFYcTlWZHk4Ti1hTVE5OEdOeTZhMjkxZXUxMFM5Rkl5OUw5blNzWlVtTzRRbGhOTmxHcXg0?oc=5",
+        "headline": "Struggling US home buyers, and market, face new hurdles as mortgage rates near 7%",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "09/17 20:24",
+        "published_ts": 1789644292.0,
+        "tag": "Fed",
+        "first_seen": 1789645525.2366807
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbDFiMllZSnpYa3BvQ1ZhT2FJaTVIZ3hNM09ra3d1VzN5bVdyWmZybWRndVJpck1NWXgxODZkQk1OVmRrc2dtdTZybFpKaW0xTXBYN1BRVmlpM29PVE5uVXhkTkFHc0EyZElQQXY5NVYyYms1OWRUUlFXSS01Wm0yUlFnV3RldlhlS1FVSTh2cGZOekc1WGhEb0MxUmNxRVA3WGc?oc=5",
         "headline": "Food prices present fresh risk for global bonds after sell-off",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789615380.0,
         "tag": "Fed",
         "first_seen": 1789632922.91937
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZl9oUHI1YW1vaHU2TjBUbGVpSUJxOTdpeVR2ZENjYm9zSlVvdDZWaXdJamhxMXZHWnlqV0Z4NDdkWjI4aG5DY2JtN1ZRemZ0TVpvNi1YQXFnbWg5c3JBWHRnZEltUTdOaExQNzBjOUowUnUzNGVsX2V2R3VUN0NZbUdLcTJIdGJYYi04aTZ5THlkV0JlWWVWb05B?oc=5",
-        "headline": "Japan 10-Year Yield Holds Near 30-Year High",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/17 12:00",
-        "published_ts": 1789614000.0,
-        "tag": "JGB",
-        "first_seen": 1789618524.4626493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHJKakU5amt5dHVLQ0VpSlR6RkNEMkN5amhwYWUzc1MwY1JMRGprTy1BenA5bFJDdVR1MFF2cWtCTUJTbHk2MmxENHVocjRiTDh6b05TeW4yamY5U1lMcURZd2Y4VjRIWGM4V1VYekxvZ0RXMXA3RUZoTFdfeHM1b0RVZURqak84bHNPQXBtQkVKN0pWWV83TDBXMUJzdw?oc=5",
-        "headline": "KRISTOF KRUGER | The return of the bond vigilante",
-        "summary": "",
-        "source": "Business Day",
-        "published": "09/17 12:00",
-        "published_ts": 1789614000.0,
-        "tag": "Global",
-        "first_seen": 1789614922.9887104
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 20:30:55",
+  "updated_at": "2026-09-17 20:45:50",
   "yields": [
     {
       "label": "3년",
