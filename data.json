@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHVnMjJaYU9JSEk1MGp6ZUU1UEtadEZfUWgxQ0k4UlJjN2NwcnZ0UElCNUZPZVFPY2xhWjR1eGxfUDZvb0NqVHduNXdYUV9INktocm1WMHphYjNsUzRjdG1OWnNneUNjSlNKRzhGU1lwQnBMWHZ6OFU3ckNBRVNSYXN3d3AtYms?oc=5",
+        "headline": "Kevin Warsh, an angry Trump and Jerome Powell Déjà vu: how history is repeating itself",
+        "summary": "",
+        "source": "Fortune",
+        "published": "09/18 00:54",
+        "published_ts": 1789660440.0,
+        "tag": "Fed",
+        "first_seen": 1789661726.5779078
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdi12TzZ6c3dwWUFuQUNpTWVwbE5aOVNCQmRNSXNjOHhYM1E5UVdvTk81c0ZrSHg0U3pPNnIxSl9jb1Z1VmMtTEhDSlFWdm1zZGMtX3RLZTFHaFZRMkxrcTUzTHBUVjV6U3NOcTN6RkxqN1hDTDBPdlZxLXZkblFIZTdjaUw?oc=5",
         "headline": "[김대호 진단] 일본은행 금리인상과 엔캐리 청산",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789626049.0,
         "tag": "JGB",
         "first_seen": 1789631127.1280801
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Q2RLVUFHSE03QTM4SFhLTi1IMThieHNUbC1qOGlZaTRfUDYxVDU3UDd2MV9kYnpMZjA5ekp2NmdVa3FIY05QYnhHWi1YMUVYeGFRbmk2MXNTOW5jMmk2UVF0NDJkZ1A3Wk1tS1dGMA?oc=5",
-        "headline": "트럼프, 금리 올린 워시는 공격 안 해…“원하는대로 하라 했다”",
-        "summary": "",
-        "source": "hani.co.kr",
-        "published": "09/17 15:13",
-        "published_ts": 1789625580.0,
-        "tag": "Fed",
-        "first_seen": 1789630228.612868
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 01:01:19",
+  "updated_at": "2026-09-18 01:15:55",
   "yields": [
     {
       "label": "3년",
