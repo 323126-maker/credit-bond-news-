@@ -242,6 +242,16 @@
         "first_seen": 1789588837.4055698
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3lCRWtSeWttOUVpcW45ampjbnNjVS15dEV4VERoOXhqcWtKd1NTOFJnRU5WT2NWbVNoRHVBaEhsMVVSdlFoNTdWYTdVeXpDT0dDVzVYRWZTbDY5SndzUzNDODlBSktsc0RsMFZ5clRZdnZaQmxycXpQZlZzRGozVUlBQjZjX24xVHpnUFRUTE5xUkJCeGJxa1BOVkNJTFpENDBxanREaGZOSmhkYXc?oc=5",
+        "headline": "11레어 커스텀 슬롯 확장 도움말의 그림과 숫자 읽기",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/17 02:53",
+        "published_ts": 1789581188.0,
+        "tag": null,
+        "first_seen": 1789629326.9925036
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzJtUzBVZDBrWGZLOXVIS3hXdXZNVExnUENDdkRBbDRlS2hsRjhwdU1JWmJ5cVNwYUtNWHpwTUp0Nm9meUdzNEhMOUJEYnZacy1mSDVMYmEtdk14RjAxZVN2b3BUbnh5UEVYNG9FdUdNZkdMMXFwV2VsZnVEQV9XWEJQbnFzYmhuUVRqSXZ0VElxRmRtV0M3U2dWdVl6VWgweTdETExDeTZnY0ZsYUVNNUJNOA?oc=5",
         "headline": "슬롯 나라 가입 잭팟 기능 유무와 적용 조건",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789547474.0,
         "tag": null,
         "first_seen": 1789559123.2256415
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9uVzY5Ql9zMEZLVUcxZUViWXZqZ3pzQldra1h4LXZ5SUVvM0dqSHFITUVWbUczam9nTTlLZUpxQk9YNk94QXgxcFdaejZ0TllMNDdMTlV5MXBUZkJNWkxMWnVYMVkzLTlHX1dBTTA0OVV1eUdE?oc=5",
-        "headline": "[채권마감] 국고채 바이백에…50년-20년 금리차 9.2bp ‘사상최대’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/16 17:22",
-        "published_ts": 1789546920.0,
-        "tag": null,
-        "first_seen": 1789547432.9821243
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56VW8wbHlZWk9TX2ZlOG1GYlhIN1gzeGxJTFR5RDQwcHZ6RWI1am9kMFJlSGx0T0RLUk5mRVhJLUhxa05FZVhmbUNfei1uRFdfSTcwOVdMVG1tRXo0aHBaUzcybXhoR2RDa1BvNWgtYk5TMVE1cWfSAXtBVV95cUxNbnFKNG91N092emhaR0lMaDdJd25uUzFGam55RnUteF9VeFNGYmV0NjcxLWg4aGRoelNOMWpBaGF3Y3l4SmNRalZuTjZQTXZ4cThaSEFFb01GWEh4dUFndTh3YzRocnVTYU1GQVF3UEFBN2ptdnU4bVRKY1U?oc=5",
+        "headline": "\"美 금리인상 1회로 안 끝나\"…다음은 일본, '이 단어' 쓰면 추가인상",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/17 16:03",
+        "published_ts": 1789628589.0,
+        "tag": "JGB",
+        "first_seen": 1789629326.9925036
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeHJlOUUzVGo5Q01Ubmk2X3k1VU5uWmZwMnNQTElhXzZzMXRhVEs0elR4ZDZUQ01mRVltRnBoSFJrQTE3V1ZnX1FaQlN1WHRiN1J5cmV0V0lIbmttTWprSm1Ya3VRY1dPM3hkeVlDZnIwT0RnQ0pxTkVyTWVGOTR4WVFDN0VUekNlRHI2TDRB?oc=5",
+        "headline": "U.S. 10-Year Yield Surpassing 5% Signals Red Light for Global Markets",
+        "summary": "",
+        "source": "조선일보",
+        "published": "09/17 15:40",
+        "published_ts": 1789627224.0,
+        "tag": "JGB",
+        "first_seen": 1789629326.9925036
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5EXy1BZWJzaWVRWUU3QllDSHBYQi1oRG9FNXl3SGdSb0Q0MVhGbFh4LWo4NnpnN0tQWndhOXU5clA5S01CNmkxbWtRT2xDSEk?oc=5",
         "headline": "“일본 은행주 사볼까”...BOJ 금리 인상 기대감에 주가 ‘쑥쑥’",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1789602120.0,
         "tag": "Fed",
         "first_seen": 1789605031.718045
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE54U256NmZFY0IxWmJ3d0NDbzQ0WmZOS1FaWk9BOUFWQ2w0eE9US1c1RmQ0LUlpRC1pcDFET3BYUk51YS05VFFnajhfdzlxanNFQ01IN1hJaGdEVHhjUTRXVGJpano?oc=5",
-        "headline": "연준 금리인상·워시 의장 매파 발언에 뉴욕증시 일제히 하락",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "09/17 08:40",
-        "published_ts": 1789602058.0,
-        "tag": "Fed",
-        "first_seen": 1789624836.963319
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Nalc5UjZ3R1VmOFRORTdiZV9SYVE3NFZ3Ri11bUN0WE9UUUNnN1JENk1HcllBbUl2N2ptVVdBRUVPVFd4NFZaUmZwRXNOckRqQWNsd3FqUDA2QnPSAWBBVV95cUxPeERJOE4xM2JhTGRoMVg1Ukd6cE10MGZucVhOMHh4VWFqdWdaOVR2OUZWemJaNWN6UFgyR0tNbENEZVZpdHdlNDRieldSVkFBbFJ3bVZJZjloanBhUklXLS0?oc=5",
-        "headline": "IBK증권 \"일본은행 9월 금리인상 확실시…日은행주 수혜 주목\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/17 08:26",
-        "published_ts": 1789601160.0,
-        "tag": "JGB",
-        "first_seen": 1789602325.0975928
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRElKZ0pOaWdtWU5YUUhVVm1UcWFFcGQteHlsLWVOMnlNOXo0RjRWVGNVOFhkYTFjeEZBeWxPVXZLNE1IdWMtNjdWenRaUEVkSGdtNjlhNzBKRlpEMnlyaXZwZ3VqZFllTzZ0YWh0ZkZQbjVLbHhDMFd2bjY2bUZPRlVFc1o4amdIQU1obUdsUVJPNE9DZnRjM0QwMm1XNzFXSG9wLVVxNFZRTWsyZFVtMA?oc=5",
+        "headline": "배당표를 펼친 뒤 무엇을 볼까요? 포커 페이스 (드라마) 출연진",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/17 11:10",
+        "published_ts": 1789611033.0,
+        "tag": "삼성카드",
+        "first_seen": 1789629326.9925036
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA4NG5OT05aYVM2SHd4S2F6T1hVWmc2cUU5bS1lb01xa0Q4eEdUQzVjcDhNNm91UmNQSWx6U0F6R2tpTkpYX2F5ekVlUnBVQ1VtdUhLM2FwLUJodEJRandvR1J6eTDSAWhBVV95cUxQTE91TFdvczBzS0NKTHFmejh1c09wVkdwcWVRNGctdnlpQlhob0dnZXMxRk1UTjlqbFc5WWllWVpzMUtkbjF6MlhwS2d3d1ItdUxuNkJhTjJjZ3ZTUHdWT2V1Y2FZSUQyQQ?oc=5",
         "headline": "미 연준 금리 인상… 카드·캐피탈 '자본조달 비상'",
@@ -2400,20 +2410,10 @@
         "published_ts": 1789258484.0,
         "tag": "수협은행",
         "first_seen": 1789261236.8282924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBud1ZaN2d5TFBtdHZtSnVnZTliQVlKNVRkU1lMaUNKMVJfOXAxa2hDYktaUmNMeHJBYnRKUXh4c2lZTWxjSFZUUlRmRjhxR3hJZ2ROWlBOdE1WdHFpSmJTZXRmZjM?oc=5",
-        "headline": "'저PBR 기업' 11월 첫 공표…거래소, 전국 설명회 개최",
-        "summary": "",
-        "source": "MTN 머니투데이방송",
-        "published": "09/11 18:01",
-        "published_ts": 1789117289.0,
-        "tag": "한국항공우주",
-        "first_seen": 1789347637.436551
       }
     ]
   },
-  "updated_at": "2026-09-17 16:01:03",
+  "updated_at": "2026-09-17 16:15:50",
   "yields": [
     {
       "label": "3년",
