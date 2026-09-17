@@ -494,6 +494,16 @@
         "first_seen": 1789606835.0725563
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzcXJneDVFSm5VM2kxUDNvaHE5dHl2NVRIS1pjR0M0akpIekhSdWhmbUM3YVgwc0llRHU4dG5YTllxSEpKQWZhOVcxeU9lS00?oc=5",
+        "headline": "푸본현대생명, K-ICS 211.2%…3개 분기 연속 200%대",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/17 08:46",
+        "published_ts": 1789602365.0,
+        "tag": null,
+        "first_seen": 1789676129.131211
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONDZIRG5MSi0yQmdTLXlfSmVHQ2tYOTJ5U2lOQm5oODV1V2VmQnhDdUVCQ2t0V1BIVkZxYTR6Zlh5LXRTWGcxaVRDRHJpTUxYOEpLRDNVeVdaTUlLQ1RzWFBHNldDZk5wcm9BY1pJX0k0VFNXQjZUM3RUaDhZVzdDTUp6X1NZeXBSTkl5aDZaTE5nWEdFQndvYVRBUXZ1RnNST1M3NzB3TC1CcGgtYUE?oc=5",
         "headline": "게임별로 달라지는 용어를 풀어보는 포커페이스 케이블 럭비 니트",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789388460.0,
         "tag": null,
         "first_seen": 1789479923.5279794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lb0dReTA4UzhhdHZ6dnR2dDZqQkhaS1A0R0FwWmFWbEY5R1VRdHh5T2IyLWNXQ2ozV1RTM3l6bU9FaUVOeWVVY0pOcHZnUjRSTWVjdm1B?oc=5",
-        "headline": "SK리츠, 회사채 수요예측서 모집액 3배 확보…제주은행 영구채도 ‘완판’ [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/14 18:12",
-        "published_ts": 1789377134.0,
-        "tag": null,
-        "first_seen": 1789402525.9711711
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0JnV3RXT2hMSWVRTkpHd25JOFJqWkp5ZUhCeE1nZl8xN1Y0X2tiSjhTMEprOUgwQ3J4S05NN0ZXekxINm9XMU1kQ01vb19RZWdIbVJvNG0tMjQ5WHpHTFlRRVBIeTJWZTV5QVU0RGQ5aGUtbWJ2WHpoLVlHb1VVcEFXbUlKcHVscWJFTXhtUVdINEZOOXFHMHlrRWp1aDFGM2gtN3h3?oc=5",
+        "headline": "Credit Spreads Look Priced for Perfection, Thornburg Says",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "09/18 05:03",
+        "published_ts": 1789675425.0,
+        "tag": "Global",
+        "first_seen": 1789676129.131211
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03VlNKSGoyVVdPb1h2VUVjbzVuX0kwdGQ3aXhManRGWVBwQ193VXRhTHk3V2JEcFlWMWY2WXVycHh2RnFxR3dCaDZTdWdtaFBCRExxeWZDM3BMTDZubG9rRlhYT3p0M3VWbmpWU1l6M0wxZw?oc=5",
         "headline": "Kevin Warsh just defied Donald Trump. Now what?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789635677.0,
         "tag": "Fed",
         "first_seen": 1789640128.4267955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtTldKZzk3SmxycDhSblRraWE2OWtRRVZ1M0YxdXNZWkc0UXcwSWZCUHNqNjdVSVozWF9raXVNVHNydnpKZ0REV09uRGx4UGhXcGfSAVNBVV95cUxQbGk2WWpaVWdMQ1dJVWhWX3MwRWpVWFpjWmdtUHh6VTJrbkNIOEt2SVhraUtYUnFHYUJhbC1DZFpzX2FoaGRLeEVkTy1adG5DdVcxdw?oc=5",
-        "headline": "속도낸 연준에 日 비상…BOJ 금리 인상폭 커지나",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/17 17:59",
-        "published_ts": 1789635574.0,
-        "tag": "JGB",
-        "first_seen": 1789639238.9727871
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 05:01:06",
+  "updated_at": "2026-09-18 05:15:52",
   "yields": [
     {
       "label": "3년",
