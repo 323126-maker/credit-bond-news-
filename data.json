@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWUFnbld1ZmtiUnlrdHd0NXNzLXdTRWNFRGQ4cGszaDRFLVBHcFFJbmRVVFBpYU5qV3J2V0hCMEw0VDRQTlZDMHVOOXE1Mnhwa1BkQkhVTG9XSmxUeTRfNC1qZkw5NkcwNG5naUhKWjNtNVRWVDluNUZR?oc=5",
+        "headline": "Japan bond yields force Takaichi’s policy shift",
+        "summary": "",
+        "source": "sc.com",
+        "published": "09/18 02:15",
+        "published_ts": 1789665319.0,
+        "tag": "JGB",
+        "first_seen": 1789666230.3926263
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFZCXzFnaXFpSVpXQVBQTF82U3kyYUhiRjY5SWExd1JKdktCMGlDenc0cE9zeFRVQkJ5RDY1ajJVWWFpY2xaMzJpNG9mNzJUaGtCaWswVFl0LW9CS1JGVHNDeUVjc19CRW9rOVR3SUhKTEdUOEZXRDd3bjhrX2EtUl9Wa3ZLdw?oc=5",
+        "headline": "Fed Chairman Warsh Escapes Trump’s Ire Over Interest Rate Hike",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "09/18 01:52",
+        "published_ts": 1789663957.0,
+        "tag": "Fed",
+        "first_seen": 1789666230.3926263
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3Q2U0ZHUkZCT2phU1NwbGdYa2JzbkhmXzJCMFE2RXcybzA1aUZhVGN2ZmRQZWMwRUg3NUVMWEF0RUpZR1B5M0tMaWd6Z01tN0VpYlVQWDc0VTJ4RXFMTE42Zk9WRHVsWTdILXdzZm5QTkRyRXJ4QWJtdzVhRFdGdUJGa0RybGFKUFVpa1ZDUkpUUUs5NGZkOHZSdmF5dw?oc=5",
         "headline": "Columbia Select Corporate Income Fund Q2 2026 Commentary (SRINX)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789628589.0,
         "tag": "JGB",
         "first_seen": 1789629326.9925036
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUlBfR2VBYjlaTnkxR2F0UGhYWTFENzloWl9TZ3VRUUNIVkpBLTJlQ1Zac21PT2VyWFNpZFRxalJVdTM0UHN3Y3c2OTZ2TEhpbktVX0hWZjl1c0xsSTJFblR0Tm9RY2JpQXdQZGtQckt2Q3BKTXc5N0VLeENVR1AxUmFQNHZ6ajlZblRkT0Y2bi1HX2x4MzVqRVozYTlKbTdBeEg0WFJvdVh6X2ZBbV9BTFpEWDd1LXJpd05FeXE5aml3MzdIRDhN?oc=5",
-        "headline": "John Hancock Multimanager 2060 Lifetime Portfolio Q2 2026 Commentary (JJERX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/17 15:55",
-        "published_ts": 1789628100.0,
-        "tag": "Global",
-        "first_seen": 1789648237.3385274
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tM1lwTktrOFFLZkxZSHN0TldOaFhNQzg0Yl9iUlQ3M0UzV25BOHc4dWRUZzR6Rlh5bnF6ZDVZRXVFVTlFMTdDQ3V0d0VSU19qRkdtcW9Yd0pHUUV2dXFpVzU5RXQxOWZJVExwZ3g3bm5mZGs2aHBrWdIBeEFVX3lxTE8tM1lwTktrOFFLZkxZSHN0TldOaFhNQzg0Yl9iUlQ3M0UzV25BOHc4dWRUZzR6Rlh5bnF6ZDVZRXVFVTlFMTdDQ3V0d0VSU19qRkdtcW9Yd0pHUUV2dXFpVzU5RXQxOWZJVExwZ3g3bm5mZGs2aHBrWQ?oc=5",
-        "headline": "치솟는 금리에 나랏빚 이자도 눈덩이…4년 뒤 50조 넘는다",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/17 15:42",
-        "published_ts": 1789627371.0,
-        "tag": "JGB",
-        "first_seen": 1789636534.154977
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 02:15:53",
+  "updated_at": "2026-09-18 02:30:56",
   "yields": [
     {
       "label": "3년",
