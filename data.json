@@ -22,6 +22,16 @@
         "first_seen": 1789641923.7468648
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55SHNLTFlHVkRJU3Bic1RpdHRTRnprWW1scjdncWMtYzhyczBsZVFaNU95U3FWLW1iQlhxekR0OTZXODk3eTFGTVJnQTdoM1NhZVdpYUU3dWxVUU9CSU9lcHo0WVVkeld3T1M4bEs3UTM?oc=5",
+        "headline": "[외환-마감] 美 FOMC 후 결제 몰리자 1,380원대로…'네고·엔화 강세'에 상단 제한",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/17 18:26",
+        "published_ts": 1789637161.0,
+        "tag": null,
+        "first_seen": 1789651833.5869133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oSXFIV1BZcDBKUGFhMlhjeXRaOE9Kb3RiNFoxa3l6NmFGUVUxcHRlUV8zem1jMFhqazBtOUw3TUxVVzV5Z0lOTmhHOXBmaHBCNEE?oc=5",
         "headline": "한투 5천억 회사채 발행 잰걸음 … KDB생명 인수 실탄 마련 나서",
         "summary": "",
@@ -40,6 +50,16 @@
         "published_ts": 1789633500.0,
         "tag": null,
         "first_seen": 1789633832.0528781
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iWWM5UzM4ZEREZjRISzdTenJCRmdLTTdGSjhoQ2V6MTNUWXAzOEZSNy1kZHo3cWxHMTNJUFlZelhnejFET0ZNcEw3eGVNMGdzNS1oaQ?oc=5",
+        "headline": "“이제는 보험주의 시간”…금리인상 이후 동반강세",
+        "summary": "",
+        "source": "매일경제",
+        "published": "09/17 17:21",
+        "published_ts": 1789633312.0,
+        "tag": null,
+        "first_seen": 1789651833.5869133
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZFhUUjYwRjlhR0lXN3prU0lvLWhWOHNxamNaRkNvVTAyQzhQbzh4aGVRdVd4WVB6ekJTMDVZbzZacWtqY185dlZqWVhlajdxaUpTMDk1WHF2dEg5UnItaVhQNjBYMmFkTlE?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789588200.0,
         "tag": null,
         "first_seen": 1789588837.4055698
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU3lCRWtSeWttOUVpcW45ampjbnNjVS15dEV4VERoOXhqcWtKd1NTOFJnRU5WT2NWbVNoRHVBaEhsMVVSdlFoNTdWYTdVeXpDT0dDVzVYRWZTbDY5SndzUzNDODlBSktsc0RsMFZ5clRZdnZaQmxycXpQZlZzRGozVUlBQjZjX24xVHpnUFRUTE5xUkJCeGJxa1BOVkNJTFpENDBxanREaGZOSmhkYXc?oc=5",
-        "headline": "11레어 커스텀 슬롯 확장 도움말의 그림과 숫자 읽기",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/17 02:53",
-        "published_ts": 1789581188.0,
-        "tag": null,
-        "first_seen": 1789629326.9925036
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNRzJtUzBVZDBrWGZLOXVIS3hXdXZNVExnUENDdkRBbDRlS2hsRjhwdU1JWmJ5cVNwYUtNWHpwTUp0Nm9meUdzNEhMOUJEYnZacy1mSDVMYmEtdk14RjAxZVN2b3BUbnh5UEVYNG9FdUdNZkdMMXFwV2VsZnVEQV9XWEJQbnFzYmhuUVRqSXZ0VElxRmRtV0M3U2dWdVl6VWgweTdETExDeTZnY0ZsYUVNNUJNOA?oc=5",
-        "headline": "슬롯 나라 가입 잭팟 기능 유무와 적용 조건",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/17 01:57",
-        "published_ts": 1789577858.0,
-        "tag": null,
-        "first_seen": 1789596121.34139
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 22:15:51",
+  "updated_at": "2026-09-17 22:30:56",
   "yields": [
     {
       "label": "3년",
