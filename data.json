@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lODYtM2VIUTctd3ctZmRHQkNrUDVJZjdOX19lMjFsbG1jaGplcGt6MDZNM0xNQzlhVEtDM2hBakhVaTBnZU1iZlR6Vm1Yd0FEYkEtRVdnQzJqVTRnYW1veXVPOWJLR0ppZVlTYXVWWHl1emlH?oc=5",
+        "headline": "[채권마감] 장단기금리차 45bp 하회 ‘2개월 최저’, 매파 연준+분기말 수급 악화",
+        "summary": "",
+        "source": "etoday.co.kr",
+        "published": "09/17 17:25",
+        "published_ts": 1789633500.0,
+        "tag": null,
+        "first_seen": 1789633832.0528781
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BZFhUUjYwRjlhR0lXN3prU0lvLWhWOHNxamNaRkNvVTAyQzhQbzh4aGVRdVd4WVB6ekJTMDVZbzZacWtqY185dlZqWVhlajdxaUpTMDk1WHF2dEg5UnItaVhQNjBYMmFkTlE?oc=5",
         "headline": "회사채 줄이고 단기자금 찾는 기업들···이자 부담 덜다 차환 부담 커지나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789549800.0,
         "tag": null,
         "first_seen": 1789575330.4414577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VYkRvZVJlVVNyWmp5MWItT0xIS0piM3VtaXg4ODBYa1VCNC1EWk1vdW5WRDhoVy1HMm82Yk1XTmU4U3lMTGtBa1ZCU0NsWTFrb2VHY2puU19kUkZNektZa1JMNkM0Rl9LbXJRZDhUUVVuQQ?oc=5",
-        "headline": "[현장] \"돈줄 막히고 원가 뛰더니 현금가뭄까지\"… '미(未)의 늪' 빠진 건설업계 |",
-        "summary": "",
-        "source": "팝콘뉴스",
-        "published": "09/16 17:59",
-        "published_ts": 1789549180.0,
-        "tag": null,
-        "first_seen": 1789555526.1004634
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE83bUdNSUFEc0YtY0pIaGpldk5oaTFKZ1EyVkE5ZV8xLWtuajNYaS1YZ0U3U2hHUFgzRXJtbVJIVFJRVm85V0FCUHdLSkx3cmNfZF9TajF2c2VjcnBK?oc=5",
+        "headline": "'매' 먼저 맞은 코스피, 약보합 방어…일본은행 행보 주목",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "09/17 17:12",
+        "published_ts": 1789632737.0,
+        "tag": "JGB",
+        "first_seen": 1789633832.0528781
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4SkVTNUtoal9aZjZFYS0wdkRIVjlMYXdjbWVrbENYc29hSWlIZzFkWnJMTEFEYXVDSTUyQmZGYjNtQnVKNzhRRlZtLTd2WHdqN1UyZ2hxeXFDdzA5RXVSRnBiNFQxczV3alhxNFJaQ1I?oc=5",
         "headline": "트럼프 대통령은 예상치 못하게 연준 의장을 옹호했다.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789607056.0,
         "tag": "Fed",
         "first_seen": 1789609523.4517498
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB4OFlPQVhKaW82YXR1c1F4REk3eF9Gcnh1NnpnMHZRamtDZEdjLTFJUXdXd0xWSGQwWm13NFNyX0pza1JZMXl6eXlaekFkM0tBQkJqMklUaHV0czhCVmFpR29zVTB0WFBfbWJMOV8wdEtpYl9X?oc=5",
-        "headline": "美 금리인상 충격 경계…정부 “쏠림 땐 시장안정조치”",
-        "summary": "",
-        "source": "조세일보",
-        "published": "09/17 10:03",
-        "published_ts": 1789606999.0,
-        "tag": "JGB",
-        "first_seen": 1789607722.4349265
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 17:15:45",
+  "updated_at": "2026-09-17 17:30:55",
   "yields": [
     {
       "label": "3년",
