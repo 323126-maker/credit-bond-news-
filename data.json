@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUWZ5TEU4TEhFRUNweHpnZWZjNzJOcW9GT2lJOGNVa18yckI1UmhGbDFlZWdMZE85LW04RHI4NFhwbHhIV09rY0xMSjUySjVNZElydUJEOTl1YzZPQzlPVXJCOENZU0cxbEM2cmlLUVBDVVJZWl9VbVdjdmtza0htTDJKZldWQzQ?oc=5",
+        "headline": "주식 시장 전망 상향 조정: 시장은 100억 달러 투자를 기다리고 있는 것일까?",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/17 10:15",
+        "published_ts": 1789607721.0,
+        "tag": null,
+        "first_seen": 1789608635.2058363
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5wTU9SN1YwMWlFNmNsVzFWUnpCZ0o5MWl3eU15OE56N3REQ2lvNXFnalBYNkVUdElRbDNrRmloVm9tS3lPVEhGaXZVanRfOVBHTHlMN3d1MlNVY3JWXzBRRnlOUG43SFNXN2RZVjFxZHo1Zw?oc=5",
         "headline": "중소형 증권사도 회사채 시장으로…신조정유동성비율 앞두고 만기 늘린다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789541370.0,
         "tag": null,
         "first_seen": 1789569036.2502248
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9pMmZEbE9uZ0Rld1BReXdmNEM4NzVPM2pPYWVjNGVYbFlndE05LS1tZENkenIxb2pybmZpSmRCdzBCVk5rbzM3UTh2djZSYXNTb002Y3FCSE4tZjFVeEdxOERlWVdtMHdWYlhScWU3eW0?oc=5",
-        "headline": "채권시장 충격 줬던 '2.9% 성장률' 전망치 두고 금통위원들 집중 점검",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "09/16 15:10",
-        "published_ts": 1789539001.0,
-        "tag": null,
-        "first_seen": 1789542038.726478
       }
     ],
     "perpetual": [
@@ -1790,6 +1790,16 @@
         "first_seen": 1789597829.4049838
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BVmFJNXBCaFpZSko1ZjNoVlpoMENNXzZGUFFza3EyZFNMVzFyajJDNWhoQlViTmR3WjRHN19UXzFqUTliQUhFUExrTGc5UlF2M0xLNUx1a0ZWTlctc2NBaXZFLUxKVDBUQklTaDNOYTZyOGh5?oc=5",
+        "headline": "'채권왕' 건들락 \"연준, 금리 50bp 올렸어야…워시는 내용 빈약\" |",
+        "summary": "",
+        "source": "news.einfomax.co.kr",
+        "published": "09/17 07:07",
+        "published_ts": 1789596462.0,
+        "tag": "Strategist",
+        "first_seen": 1789608635.2058363
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqMnVrVzBWcURLVFY0RkZHQ1Q5V3ZiaGhmbGNuM00wc09reTEyWlFVcDctQW9yVG9JZVd1MzVZN0hvYi1YLTlSNkxGaDlLR1QwMlRBSGplb1Jodw?oc=5",
         "headline": "'채권왕' 건들락 \"연준, 금리 0.5%p 올렸어야\"...\"인플레 위험 과소평가\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789589341.0,
         "tag": "Fed",
         "first_seen": 1789589725.348797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40ZzdjaHU1a3F1cDliVDJhUWtPU196bHVLVWZ3ejBsNTZ3ZjlrTmdvMjlQTUlUYzhKNGJmNWNhb2M2SE1sZGtDSFlTXzZjRFFYZ090OHM3X2xaallkSkdkVzVfNGt2NFEydWc0T1VEMTZpMXRPclI0?oc=5",
-        "headline": "September 2026 Fed Dot Plot Sees Low 4% Fed Funds in 2027",
-        "summary": "",
-        "source": "Bondsavvy",
-        "published": "09/17 05:07",
-        "published_ts": 1789589220.0,
-        "tag": "Global",
-        "first_seen": 1789593322.8396392
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 10:15:49",
+  "updated_at": "2026-09-17 10:31:13",
   "yields": [
     {
       "label": "3년",
