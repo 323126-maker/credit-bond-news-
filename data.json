@@ -1066,6 +1066,16 @@
         "first_seen": 1789460123.9241865
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1kSkNjWlp6N0F4U0RrdzQ3VE9IWHo2WEM5eFhyRjJNMmtGYjVjRmRvMVlJTGYzMVd1Vmp4bkNKMEpvSjRwUFdJWEFkenJLWXlvbDgtU084MFpVMU5HaUoxZG1sREtiX1p0VDg2UWpR0gFuQVVfeXFMTWRKQ2NaWno3QXhTRGt3NDdUT0hYejZYQzl4WHJGMk0ya0ZiNWNGZG8xWUlMZjMxV3VWanhuQ0owSm9KNHBQV0lYQWR6cktZeW9sOC1TTzgwWlUxTkdpSjFkbWxES2JfWnRUODZRalE?oc=5",
+        "headline": "국고채 3년물 금리도 4%대 돌파…\"美 이어 韓도 금리 인상 가능성\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/15 16:56",
+        "published_ts": 1789458960.0,
+        "tag": null,
+        "first_seen": 1789671639.844181
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1LSVhrXzNfZlI3SXVEOWUzWEFQRmxpTy1rY080Y2ppdTlHOUVGVWE2RTU3QVBuZV9hMmVlWnBUeVJETnVmU2Q0dEFVUWZ1RktjVGNuSVJ0TV9ZSHhSMUQxeFBKM1gxM3UxejkzaUN6X2k?oc=5",
         "headline": "기업들 회사채 줄이고 CP 늘렸다…자금조달 ’단기화’ 뚜렷 By EBN",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789356979.0,
         "tag": null,
         "first_seen": 1789380040.8180807
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CTVNpLUhIUlpDNFNfLVFDeHFYVldyY3VzR2JDVjJROVctVG9Ya1cydkVRTGpvWDF4YTF2UnRnWXlxSkFFTFpOMG5LaXdpMWVkRHRBTHBiN0s0ZnVTellwR3FYRXhHLThRUGplbFNR0gFzQVVfeXFMUEQydGJRbXdMdTl0TVl3bnV1MEJlY0hPMXJ1VWd1NU9vaUI2MUFDR1dtZ2lmNGpfbUFia3IyNjMxOV9NMkpnNEpkOHhtZVBHaHdhWFdTV2JDSkMtZ0tBRTM2TGwzVXdVaEN1ZzB2WVN1Sm9xTQ?oc=5",
-        "headline": "반도체 호황에 내년 법인세 첫 200조 돌파…15년 만에 소득세 추월",
-        "summary": "",
-        "source": "한국일보",
-        "published": "09/14 11:31",
-        "published_ts": 1789353060.0,
-        "tag": null,
-        "first_seen": 1789354839.0549018
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 03:45:53",
+  "updated_at": "2026-09-18 04:01:16",
   "yields": [
     {
       "label": "3년",
