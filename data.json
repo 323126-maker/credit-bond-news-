@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQelluX3UyX1V0QkVJekdwS1hmZ1BvSmEtNVBESXVrd2NKeXRBdWp0QWJqMDRJd2tzLS1oMDBUVURLVFJsNl9jRXZFRGNSTFRHejRDSW5uS3lQTnlHU3J5MFZ1VXdYTjBiYWE5a2M0LVh6TmtxZUhCRVE3Tm9oeC1PX0pob3dNZlZVZzNXR2VB0gGTAUFVX3lxTE1TYnpEUjlfeXdXZjdSU09hbnB3bWdJQVZMT1c1N01tMGM0ZlU1X1RNN1FOd2ZIVjFuNkpmNk85Ym54c3RJellmYW1fMFFTNmtTMEZnTXBla0h2TGhiY3M2bkNmaEdlQUlrMEJmcGFNTzRLMHJBUFhKWGc1cXp5TDN0RzdMSUZUeklteVVHQzFYRXJFRQ?oc=5",
+        "headline": "Warsh wins credibility with rate hike",
+        "summary": "",
+        "source": "The Hill",
+        "published": "09/18 05:33",
+        "published_ts": 1789677180.0,
+        "tag": "Fed",
+        "first_seen": 1789677924.3619137
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa0JnV3RXT2hMSWVRTkpHd25JOFJqWkp5ZUhCeE1nZl8xN1Y0X2tiSjhTMEprOUgwQ3J4S05NN0ZXekxINm9XMU1kQ01vb19RZWdIbVJvNG0tMjQ5WHpHTFlRRVBIeTJWZTV5QVU0RGQ5aGUtbWJ2WHpoLVlHb1VVcEFXbUlKcHVscWJFTXhtUVdINEZOOXFHMHlrRWp1aDFGM2gtN3h3?oc=5",
         "headline": "Credit Spreads Look Priced for Perfection, Thornburg Says",
         "summary": "",
@@ -1758,6 +1768,16 @@
         "published_ts": 1789661160.0,
         "tag": "Fed",
         "first_seen": 1789665324.2742376
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLUN4SHVzSEVDRzRkMUJaSGhTSFR6TTVLbzl0NnhvUE9JR0hOZzJfUmdHdjc0MmxJbnVPX3dQS2s2VUltUUdndUZfTi1pYU5ydXZMWDdYRjh0TTJJd0FPT2l3cEtzejNFWENja2lrMU5ua1ZfQ0J2WHZ5NERlUFF2UWRQYUpERnEtSERB?oc=5",
+        "headline": "美 기준금리 인상, 3년 만에 돈줄 죈다",
+        "summary": "",
+        "source": "조선일보",
+        "published": "09/18 00:55",
+        "published_ts": 1789660500.0,
+        "tag": "Fed",
+        "first_seen": 1789677924.3619137
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRHVnMjJaYU9JSEk1MGp6ZUU1UEtadEZfUWgxQ0k4UlJjN2NwcnZ0UElCNUZPZVFPY2xhWjR1eGxfUDZvb0NqVHduNXdYUV9INktocm1WMHphYjNsUzRjdG1OWnNneUNjSlNKRzhGU1lwQnBMWHZ6OFU3ckNBRVNSYXN3d3AtYms?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789636768.0,
         "tag": "JGB",
         "first_seen": 1789650039.4121318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPdU9QMzJHa2FGZGtBX0wyeDBTYWlPS0pTNjM3c21XZURyeGRtTXg5eUFCcGxoZFpRczU3OXhaamtKaFRYV3NZVWdBY3ByRzRBQ3FpbVdmTm9ZWWh0S0VtOHVXUXRMQV9rTEdyX0VBNTF5d25WRFBiWnRXZUJNc0JMZGpabw?oc=5",
-        "headline": "Fed Raises Rate Despite Trump’s Calls to Lower Them",
-        "summary": "",
-        "source": "time.com",
-        "published": "09/17 18:15",
-        "published_ts": 1789636504.0,
-        "tag": "Fed",
-        "first_seen": 1789642836.403948
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TUml2T1d6ZDFCVXBjZVlHb1lOUVF4bGl5MzdLTzJuMEJoSnRzRk55MFhIQk1mTzdaZGIyNUt1WVlNcGFVMzFrMU93RXhQM3BvSldBNnlOWm5SNXpzTFdDZjZLbGNCalpmQnNDaS03QWJVTmVsS3B3V29nX1hjWDA?oc=5",
-        "headline": "Opinion | There Are Three Possible Economies: Stable, Unstable and Unknown",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/17 18:05",
-        "published_ts": 1789635908.0,
-        "tag": "Strategist",
-        "first_seen": 1789639238.9727871
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 05:30:56",
+  "updated_at": "2026-09-18 05:45:50",
   "yields": [
     {
       "label": "3년",
