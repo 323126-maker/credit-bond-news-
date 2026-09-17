@@ -272,6 +272,16 @@
         "first_seen": 1789602325.0975928
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkhGR281T0FJVkd4TGtVQmszLVgyX2tZc1ltTWZZUEdlWUZ4bGlUcWNPdEttM0d1cENTQWZyWUJ5LXgtVDA5WGx2R014bWxGZll4dU1MRUEzbkJ1TjRSY3dlWVZiRDUwRXlua2V5OGh0dw?oc=5",
+        "headline": "국채선물, '매파적 인상' FOMC에 하락…10년물 58틱↓",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "09/17 06:12",
+        "published_ts": 1789593164.0,
+        "tag": null,
+        "first_seen": 1789637430.998605
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WQVJGS2c0S2hzLW5KNDQwV2VjQkQ4MXpOYWVxeEpxS1FPVXF3dGl3V0xVdEZZOEdKTE51bVFvQmV5cjlqQ1lWbmdqUzRNUUVqaGJaQ09WWjVTT01oQmxmcmplRnVmVERVYVQ5V2w2TUN6YjBNbC1R?oc=5",
         "headline": "무디스, 하이스터-예일 신용등급 유지, 전망 ’부정적’ 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789555516.0,
         "tag": null,
         "first_seen": 1789556435.682892
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5qUVdha3NlbFpjOUhnUTNSb2dGeUVxWTFackJCSmVDODBYSG1OWGFJQWJ5S201dGRqTm84dENENHBzYjdHVmY4WjB3djVaTkFlUl96dzhxM1UyV3kxaWFSZzYxNGZLbWwwN3VkY25Mbm0?oc=5",
-        "headline": "[채권-마감] FOMC 경계감에도 外人 3선 매수에 강세…3년물 3.8bp↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/16 18:44",
-        "published_ts": 1789551888.0,
-        "tag": null,
-        "first_seen": 1789622131.6605752
       }
     ],
     "perpetual": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1789632922.91937
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUDJzUXFMOG9TemVSUERSQ1pwODdSUjRZX0FKcTZhVHZPb3hqVWttT1NXcTZvcjVrQ1lnOFAyTGNUMGtJRkozZW9teWpYdGd4VEhQaTh1V2d1LTRzS0hsUE5rbjVwSUZXRWxzcFZJa0ZwcElGeThNY2hxSTBzZ3EwdVBKX2tpQUM0bnBR?oc=5",
+        "headline": "Kevin Warsh does his job, not Trump’s command",
+        "summary": "",
+        "source": "nydailynews.com",
+        "published": "09/17 17:00",
+        "published_ts": 1789632037.0,
+        "tag": "Fed",
+        "first_seen": 1789637430.998605
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GT3JlMk9FMkxVSGJKYk1vYlZlMWV0QVN0ZEtwb1hlN3pZWkprYzBfSmU2bWdHbEtVaG9qMUx4TjhheF8xcnk1c2VKWjFLekdkZUJUbG5RUGhidDNZM0lEdlh3YW12UGVYMmZwNkdtVU4xUXA2?oc=5",
         "headline": "“금리 높다”던 워시의 변심…인하 압박에도 취임 4개월 만에 인상 승부수 [연준 3년 만의 긴축 전환]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789609920.0,
         "tag": "Strategist",
         "first_seen": 1789615829.4632678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHBNVUx4VnFxZDB4dmhHREZQRDZYdjZFWUlkUWtLbTM4VHZRVTJvaENrM1prWTRLM1N2X2ZnMldTWDBObk02a3A4cDNlTnU4dDY1VTBMM3hCRzVwQUVIcktvOXBueExNZWFLbjhHaTJaV1RBdlNGZUtEX09XdFpOM0hCbm5nMjF0UE44Wlk3dmRYbnV3b3dzN1RZNjM?oc=5",
-        "headline": "Trump defends Fed chair Kevin Warsh after interest rate hike, blames ‘hostile board’ for ‘raise against Trump’",
-        "summary": "",
-        "source": "New York Post",
-        "published": "09/17 10:45",
-        "published_ts": 1789609549.0,
-        "tag": "Fed",
-        "first_seen": 1789614922.9887104
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 18:16:01",
+  "updated_at": "2026-09-17 18:30:56",
   "yields": [
     {
       "label": "3년",
