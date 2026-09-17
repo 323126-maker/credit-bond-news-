@@ -42,6 +42,16 @@
         "first_seen": 1789635348.4360785
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54QngxUzVsQTU0blpXcjg3ajRZS0I3VlBqZGh5dVBaZGhLWUxkTy1OdEd1Z0FNOFhVbHg5UXJwZFl6ZGs3Mi1FSmRsNVhvYmpQSGpGczduaG9BLVhSampTS3RzRnM1cENrTDZfM3owN0_SAXRBVV95cUxQeGxnMU5IblJRdkYzOUJWNmdJcTVLeTR5c1lGODMtU1M1d0lJRldCYzF0ZHFkeFVfZ1NMRXhHejZfanlHREtUNmtseExqNzhEekFDWEdrcTdHRlFJSHhtSlNHUkM4Q1NneGp6U0RPSmgzUzMxRA?oc=5",
+        "headline": "달러-원, '매파 FOMC'에 1,382.20원 서울장 급등 마감…6거래일 연속↑",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/17 17:32",
+        "published_ts": 1789633944.0,
+        "tag": null,
+        "first_seen": 1789656330.3745306
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lODYtM2VIUTctd3ctZmRHQkNrUDVJZjdOX19lMjFsbG1jaGplcGt6MDZNM0xNQzlhVEtDM2hBakhVaTBnZU1iZlR6Vm1Yd0FEYkEtRVdnQzJqVTRnYW1veXVPOWJLR0ppZVlTYXVWWHl1emlH?oc=5",
         "headline": "[채권마감] 장단기금리차 45bp 하회 ‘2개월 최저’, 매파 연준+분기말 수급 악화",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "Investing.com 한국어",
         "published": "09/17 04:51",
         "published_ts": 1789588260.0,
-        "tag": null,
-        "first_seen": 1789588837.4055698
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mMWdwNFJlREpUNWdmT0k4WDJYNEZaSldtd3R2ZGRNNjFYcGhsNktqQTRuN3I2RWJSME95RXZNQTNMaUJwaEhLUUNsX2lpQXVVQjQxRnJLZzNCWHA3RU5FQm9QTTV0bHc4SFpHUVVLakx0aG02V0R3?oc=5",
-        "headline": "INNIO의 무디스 신용등급 Ba3로 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/17 04:50",
-        "published_ts": 1789588200.0,
         "tag": null,
         "first_seen": 1789588837.4055698
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 23:31:06",
+  "updated_at": "2026-09-17 23:45:59",
   "yields": [
     {
       "label": "3년",
