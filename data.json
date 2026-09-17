@@ -1680,6 +1680,16 @@
         "first_seen": 1789611326.7410545
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE51WEs1QWlwNHkwb0U4c3Q2Vm56SnF1aUVwLWhvMG94TDFnSHhjUWZHTmdUazFWUjRqeERaT0pGeW5uaVhsaENmamlQZF8xYUUzekY0XzNvRGpNeWdMMlE?oc=5",
+        "headline": "월가 채권왕마저 케빈 워시 향해 '경고'…\"연준, 망해가는 회사 같다\" [지금이뉴스]",
+        "summary": "",
+        "source": "YTN",
+        "published": "09/17 10:52",
+        "published_ts": 1789609920.0,
+        "tag": "Strategist",
+        "first_seen": 1789615829.4632678
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQbHBNVUx4VnFxZDB4dmhHREZQRDZYdjZFWUlkUWtLbTM4VHZRVTJvaENrM1prWTRLM1N2X2ZnMldTWDBObk02a3A4cDNlTnU4dDY1VTBMM3hCRzVwQUVIcktvOXBueExNZWFLbjhHaTJaV1RBdlNGZUtEX09XdFpOM0hCbm5nMjF0UE44Wlk3dmRYbnV3b3dzN1RZNjM?oc=5",
         "headline": "Trump defends Fed chair Kevin Warsh after interest rate hike, blames ‘hostile board’ for ‘raise against Trump’",
         "summary": "",
@@ -1758,6 +1768,16 @@
         "published_ts": 1789606800.0,
         "tag": "Global",
         "first_seen": 1789607722.4349265
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDVFX0lwdUotUEZvSGVTT2JJYkxlVmV3d2p3bXliZmNWckQ3VmtXQnh4enUyX1F2azJrc3BBVmJwWVN2LVBtamtfVm9aV3J4YnZZOC1zZWVCUjQ5RDR2bS1WbVltOU9LU3h6NUdKcTRBcFBCRDV4YnJscElFVzA3YURldVd2QTluZTRwajN6Qkd3ckFlYmt6dGVfdW52d2JJd1dfZWh2ekxTdmdVRnItbVZrLTZqeFBtb3hj?oc=5",
+        "headline": "Trump Says He Backs Warsh After Central Bank Raised Interest Rates",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/17 09:57",
+        "published_ts": 1789606620.0,
+        "tag": "Fed",
+        "first_seen": 1789615829.4632678
       },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uaDFuWk1QMjl3VTJCQXlJc1pjSjlUbEFVdkNNZWhZekk2eXdMZ1hVNDFSN0p4LXMzUzFvUjBacWJNUDhzY0tKSkJWbTFkOUhnMjF6R1BDTTQtRlpqRmJpNXdmOXpBelVGRndoY3hVSzc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789595696.0,
         "tag": "Fed",
         "first_seen": 1789596931.8100896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5HUlJvTWVRY29HbkZIQzFCUWk3MGlocG9kb2VISG4wek9BYlM3Z1BGQmRDQmdjc1VwaEtaVE40WGROTUNkMWVOMmMtUmVMZ2s2aVh4UUtvNTMyTGNDblFDWFI3bWh3SlhieXhkQmJDYVpLV01JUWFF0gF3QVVfeXFMTkdSUm9NZVFjb0duRkhDMUJRaTcwaWhwb2RvZUhIbjB6T0FiUzdnUEZCZENCZ2NzVXBoS1pUTjRYZE5NQ2QxZU4yYy1SZUxnazZpWHhRS281MzJMY0NuUUNYUjdtaHdKWGJ5eGRCYkNhWktXTUlRYUU?oc=5",
-        "headline": "“0.25%p로는 부족하다”...건들락, 연준에 0.5%p 금리 인상 요구",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "09/17 06:54",
-        "published_ts": 1789595688.0,
-        "tag": "Strategist",
-        "first_seen": 1789610434.8014338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9UUHlEekV2WEpjOWJ4bWRkN3Q0YTgzN3BvTWdfN1hyWUFNYlNRV2U1dHQyT3lMNHQyUHpTSHpma19WTVZPaEJ4WVo5OFdONVE?oc=5",
-        "headline": "긴축으로 방향 튼 미국... 추가 금리 인상에 내년에도 고금리",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/17 06:52",
-        "published_ts": 1789595560.0,
-        "tag": "Fed",
-        "first_seen": 1789604122.9369318
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-17 12:15:48",
+  "updated_at": "2026-09-17 12:31:03",
   "yields": [
     {
       "label": "3년",
