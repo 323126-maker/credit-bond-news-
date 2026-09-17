@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lcGZyWGFCVGlnYk1lMFc1bjdWeVNqV2FacVlERGN6RUt2dm9uV0ZoLVNfbGRjM2t4ZFpZS2h4c05YX2h5cmhMZ3N0aks3X0xWSXNkZVYzQ1R3UTlWVFlDaA?oc=5",
+        "headline": "[속보]유가·채권금리 ↓…3대 지수 상승 마감",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "09/18 05:18",
+        "published_ts": 1789676305.0,
+        "tag": null,
+        "first_seen": 1789677034.7668724
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHUWJlano3Y0RubUg3MVVUckMwLWUwdFAtT1Jpdld2RnNqNHBXOXdNRnE0Yk9fTDNCVzhaYlNDbTlObnJiV0lLVnJUNnN4Y2laV0tncHkxN1YyaFN4VlJrdDdEMkl4WUtEVlFCcTRKN2xxdw?oc=5",
+        "headline": "[뉴욕채권] 불 플랫…유가 하락 속 '장기물 매각 폐지' 英 길트 랠리",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "09/18 05:05",
+        "published_ts": 1789675520.0,
+        "tag": null,
+        "first_seen": 1789677034.7668724
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zWnN4YkVINGpOZnpsX2IyOHU2QjNvdjBVSWtvTXFkaDJRZ0RiVkdNLUl5b3Z1QjhiSmM3R1FQRGFaSHFzVlFhemk1WFl2ejJvX1l2bWhxUWFCWnBfWmJEbmtwQS0wMVhpb1JZVVI3Ti16dUV3d2dwQ2tR?oc=5",
         "headline": "법무법인 바른, 회생·파산 법률 대응 웨비나 개최",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789594863.0,
         "tag": null,
         "first_seen": 1789595064.4599
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCR1VjeE1pT24tdnB6TnhXTWxQSkFSRTZtR2tTUlZUZTJyX1JETDdoMEdtQ1Y3cjRFcTBUM3hsUnNHQjNiWERRYmR3UmhxbTlrbTZVZ3o3VzMyQlVBMzZkdzRHMHRjdXdmcjhlNnQxUUVaRG1lNi1F?oc=5",
-        "headline": "피치, 산불 책임 우려로 PG&E 전망 하향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/17 06:13",
-        "published_ts": 1789593180.0,
-        "tag": null,
-        "first_seen": 1789602325.0975928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWbkhGR281T0FJVkd4TGtVQmszLVgyX2tZc1ltTWZZUEdlWUZ4bGlUcWNPdEttM0d1cENTQWZyWUJ5LXgtVDA5WGx2R014bWxGZll4dU1MRUEzbkJ1TjRSY3dlWVZiRDUwRXlua2V5OGh0dw?oc=5",
-        "headline": "국채선물, '매파적 인상' FOMC에 하락…10년물 58틱↓",
-        "summary": "",
-        "source": "kbthink.com",
-        "published": "09/17 06:12",
-        "published_ts": 1789593164.0,
-        "tag": null,
-        "first_seen": 1789637430.998605
       }
     ],
     "perpetual": [
@@ -1900,6 +1900,16 @@
         "first_seen": 1789648237.3385274
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE45Q2RLVUFHSE03QTM4SFhLTi1IMThieHNUbC1qOGlZaTRfUDYxVDU3UDd2MV9kYnpMZjA5ekp2NmdVa3FIY05QYnhHWi1YMUVYeGFRbmk2MXNTOW5jMmk2UVF0NDJkZ1A3Wk1tS1dGMA?oc=5",
+        "headline": "트럼프, 금리 올린 워시는 공격 안 해…“원하는대로 하라 했다”",
+        "summary": "",
+        "source": "한겨레",
+        "published": "09/17 20:50",
+        "published_ts": 1789645800.0,
+        "tag": "Fed",
+        "first_seen": 1789677034.7668724
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbEp3cFlwYWNQRC1sUVpnaWtTSXM5dFY4LW5CTkM2VDFOV0NrNm1PR0RObl8ySTBaZmE0a1lsaVhueTVqcHB0VVk2WHpreFpUbjM3aFlZbFZkZkVZVS1rQkVEMjNvYWFlT1ZqV0dhUVhLa2ZZYWpmWUhrUzJLU0xBMnpfUWc0aU1TUG5RU2ljX0Q2cHZHT3JJREFHangtQzFzMEc0QUlta21FajAtdnUzc1pSVGU5LVZ5Z1k1dW1ONU9fbVF2RTR0Unh5c2RGbmpoOEF4NDUxal9iT1ZpdmR3eDhKTGpYd1VU?oc=5",
         "headline": "‘I just want out’: Why Jeffrey Gundlach is moving his money as far from AI as possible — and what he’s doing instead",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789635908.0,
         "tag": "Strategist",
         "first_seen": 1789639238.9727871
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sNF9mcTdCeW03V2ltUlhKeWF6VzBSQTZXRGJObEJIX2NJN25PcDFiUzVnV09oUU1fU3hwazdwOTMwS1dOdDU0RHBCcWFBeFY1RU1GbHBqYk91azk4dTRtckNVektjSkJuMFl1aFZlQ29nZG8?oc=5",
-        "headline": "I Was Wrong About Kevin Warsh",
-        "summary": "",
-        "source": "Robin J Brooks | Substack",
-        "published": "09/17 18:01",
-        "published_ts": 1789635677.0,
-        "tag": "Fed",
-        "first_seen": 1789640128.4267955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 05:15:52",
+  "updated_at": "2026-09-18 05:30:56",
   "yields": [
     {
       "label": "3년",
