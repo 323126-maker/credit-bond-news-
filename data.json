@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1hV3JZeWlaaks5ZlRSSmdrbkJ3aHAwZkpKUUdQZE81bVRIUlluVEg4QkxkSlRCMzFuNmYtZE9xaVgybkNJRU93NENnS2JKS1pmZk1pZHlwSDZ0Y3ZRTHZJb1hOWGdRdGJZMFpQRDlXRW5xdw?oc=5",
+        "headline": "글로벌 장기금리 고공행진에도 선방하는 국고채…당국과 시장의 시각은",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/18 09:17",
+        "published_ts": 1789690628.0,
+        "tag": "JGB",
+        "first_seen": 1789692358.909674
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNGJvTVhIT0xoVUNRS1h2VXpTQWpQUEIyaFcybThvS0pFT2tqTm5GdTVlX0ZTR2ZLOW5YVXhuVXR3TWEtSFc3SnlublQ2bDJYRVZMQno3dnU4X3JLT0sxcFk2QUZtYjVGeFRrUmw5M2IyOGxZbXA2OVFDR1NmdE1YMHZ4VkstbXQxRmtJOWZTZzFwTmhoTGt4bVNR?oc=5",
         "headline": "How Warsh Raised Rates Without Drawing Trump’s Ire",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1789690524.1338327
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxORmVMMC1vUzFvcjFWSVFyZXNYQ1pPazhUQ08yZjBjeDlneU9rNVM3UUJkTUs2a3owQXA1U0MwdThIVlBkTmdlaFVBdmxLRlY4cGZVYm1TN0ZoS2pwSGM5S0pfaVE2WVN0dHVOdjFwT29lWE1nc3JBeFlDN19uRFhwSjBoT1BlbEpoS2dRQU9nWXIyR1FKclk5Q1NkRkZ2YlN6VG5JQ1p0MW5nd25sVFF3akJOeF9RQQ?oc=5",
+        "headline": "Watch: Fed Chairman Kevin Warsh Holds News Conference",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/18 01:19",
+        "published_ts": 1789661999.0,
+        "tag": "Fed",
+        "first_seen": 1789692358.909674
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNc3Q2U0ZHUkZCT2phU1NwbGdYa2JzbkhmXzJCMFE2RXcybzA1aUZhVGN2ZmRQZWMwRUg3NUVMWEF0RUpZR1B5M0tMaWd6Z01tN0VpYlVQWDc0VTJ4RXFMTE42Zk9WRHVsWTdILXdzZm5QTkRyRXJ4QWJtdzVhRFdGdUJGa0RybGFKUFVpa1ZDUkpUUUs5NGZkOHZSdmF5dw?oc=5",
         "headline": "Columbia Select Corporate Income Fund Q2 2026 Commentary (SRINX)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789647952.0,
         "tag": "JGB",
         "first_seen": 1789649124.130183
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2stY3BUc2U1Z0tFTDJIOWNLMlBTaFh3TUN0bTZ0REtxZnJGVDlFSjdEUjZuYmE3UnBkb2NtTC1UeFlPa2o0Uk9NdXZCX01GN0ZNMnFNTEhQa0l6eFYxMU9fdlVxWmhCdDZwdl9lUXRBWWo1SU9tZ3d1S0NfNEhNdjBVOGZOSDdi?oc=5",
-        "headline": "Live Updates: Warsh and Fed Officials Raise Interest Rates to Fight Inflation",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/17 21:24",
-        "published_ts": 1789647891.0,
-        "tag": "Fed",
-        "first_seen": 1789669831.168455
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1vN3dJZTRTZDBzSHo5M3prWkFWSlRfd1JpLWpXNWNyTV9abURrWEVtM0x6Q3Z3WHFtS29wVm1WN3lDb3NvS0pPbXd6U3pBZEREeXVLbTlHajZ0X25FdU1OekMwci1CME5XcEd0VlI5Y3d3U2Z5S1A2THZibTN0QQ?oc=5",
-        "headline": "Trump Looks Isolated on Interest Rates",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/17 21:13",
-        "published_ts": 1789647222.0,
-        "tag": "Strategist",
-        "first_seen": 1789648237.3385274
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 09:30:57",
+  "updated_at": "2026-09-18 09:46:33",
   "yields": [
     {
       "label": "3년",
