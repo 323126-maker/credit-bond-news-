@@ -392,14 +392,14 @@
         "first_seen": 1789632039.759203
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4yUEVYbzJaRlk2WEgzNDRxWFBYcUxySFZCZ00xNWl0WUdhWU5mSGNVblJubDJSTWNuMnozdWhZcG9rTVJkRWVKSUItd3M4UHJWaDdld0F4ZEFrQThob09Yb0tmY2ZmTTdSTnc?oc=5",
-        "headline": "패션그룹형지, 계열사 부실에 신용등급 B- 추락...최병오 책임론 커진다",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBMZ0NieXJHWk5kUjVkUGNsak44SUpWMlVrN011LU5rSDNkSTVYZm53YURUNXI5cUQ0eVdEQWZyWG1xNk5WS2d2U052MFc5VWUtdWNoNFlYalhjVmJJLThIa05lUzI4Y1o1eDVz0gFrQVVfeXFMUExnQ2J5ckdaTmRSNWRQY2xqTjhJSlYyVWs3TXUtTmtIM2RJNVhmbndhRFQ1cjlxRDR5V0RBZnJYbXE2TlZLZ3ZTTnYwVzlVZS11Y2g0WVhqWGNWYkktOEhrTmVTMjhjWjV4NXM?oc=5",
+        "headline": "패션그룹형지, 많이 망가졌네…재무악화로 신용등급 '최하위' 추락",
         "summary": "",
-        "source": "월요신문",
-        "published": "09/17 16:16",
-        "published_ts": 1789629416.0,
+        "source": "nongaek.com",
+        "published": "09/17 16:20",
+        "published_ts": 1789629601.0,
         "tag": null,
-        "first_seen": 1789630228.612868
+        "first_seen": 1789731924.4674563
       }
     ],
     "perpetual": [
@@ -1650,6 +1650,16 @@
         "first_seen": 1789726526.3725007
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHBYYnBIelUybHY5YmhMbGY1OTFCR3FEZHkwS1pHZmg5QV9EOXZ6Z3JJdnZMbkhQS3NSV3JGazZmeGFlZU81bENXeUFZTGZBNUJwVkJJb1JBYktQQ0tpOTV1NFR2Y3F5Y0pYYmFvNm1vUVpSNHp5bkdyVXdGbkhSOW5UVFZpc0dNcUh3cEZTN3hrcmItODFHVlZUSVNtS2dCN0ZiVzlQZ05pRUdNcVBJTHVWSQ?oc=5",
+        "headline": "Warsh Did Well. But Where Does the Fed Go From Here?",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/18 19:00",
+        "published_ts": 1789725605.0,
+        "tag": "Fed",
+        "first_seen": 1789731924.4674563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE93TWE5YlhvLTN6Sm9uQl84M2JaN1pvRW0wbG02ZzdIYXlhSGZ4LW01ZmExMTRZN25SNFRUV09oaUZaMm9SbWQ1MWhKVmk4akE?oc=5",
         "headline": "일본은행 31년 만에 최고 금리 인상‥코스피·국내 채권시장 견조",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "뉴스퀘스트",
         "published": "09/18 14:08",
         "published_ts": 1789708129.0,
-        "tag": "JGB",
-        "first_seen": 1789708526.0400295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1sTlAwSTBOWkF4TzFreE9rcVdGZm9iWEJRXzlsRE10S2JxWmFRa1dDbHkwcFpEN3lMRWRRRWtTd0ZFTVdKNDYtckhldkRHV21DTXg3bWFnMVVYZFdMQVBrWkxEdFVjUlFVdU1KWEV0eUJWWFFNYjNTUFZsNNIBgAFBVV95cUxQbWtXeGVraktic3JLeV9ZZDFid1U3SzBiX2RoVlBIaUQtUVFXLUd4V1kwa05xT2FOVkM0WUlCbUczUkR1REVlRFJlZm82aWVrYkpPeFJPQkVRQnNqM0J0dDhLeVp5OWVPT1hrSlJ5U2tXNVJQejZhUXhCNExteFM3bA?oc=5",
-        "headline": "일본은행, 석 달 만에 금리 또 올렸다 … 31년 만에 최고",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "09/18 13:43",
-        "published_ts": 1789706626.0,
         "tag": "JGB",
         "first_seen": 1789708526.0400295
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 20:30:56",
+  "updated_at": "2026-09-18 20:45:48",
   "yields": [
     {
       "label": "3년",
