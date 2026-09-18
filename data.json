@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd09WbXNyUGtza01vVVRMYm9pU2tVUjRwMl9xYWdxaWZSeUhRd0VoMlY2WWJkZC1hX3c3RjVfSVZmX1ZlTlY4WDRSbWFocUNRZHhqOEU3bjZ0aVpjdXJqU0c0eUN5elFIWmQ2dlF2R2RDTGIyYkVodTh4Uy1id3Z2UzBubGNmZEU0SUh4U05pVW1nb1BCUFBSY2FvRHVPLVR6YlY1UXBmN3RtSXNSeFdTZFJ0dUIzWjA?oc=5",
+        "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "09/18 14:42",
+        "published_ts": 1789710161.0,
+        "tag": "Strategist",
+        "first_seen": 1789711237.7308118
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1XMjFFNjNpajFGak14TG4ydGxjMHpiSjFOZzY0b1B5TnBpalNodDNiQ0VyQm9oVy1VR0VKVDU2V0hvWXFEMUk5VFcyTjZlSjRtS1VhdWRRVkhLT2NTRGdyMHZwZWxUNWlzUm41Zml2ZzhQUQ?oc=5",
         "headline": "전문가들 \"BOJ, 추가 인상 예고했지만 속도는 신중할 듯\"",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/18 07:03",
         "published_ts": 1789682605.0,
         "tag": "Fed",
-        "first_seen": 1789683325.5227876
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb1A3azAzMEJ3YlVwTklOZ3M0T0lTeXdfNHVOeHlEV094YzQtd1Z0Wko2UW92SVJDUUxmMTdTWkY0WmhXdU9TV3lkN3NTUUI2N1ZubnJ6LVhXUkotMTBQTlJBd3l4bm5RclVuQ3JGZDlrS2dzSURzS2hfVHp0c1pPZE9LNDlZaUd4cTFmeEZ3OEowYldPeDcyMHBRdVpKUkNOaS1oZ19YTDJTSlVNeldmZ1BGcw?oc=5",
-        "headline": "DoubleLine’s Gundlach Warns of Fiscal Crisis in Next Recession",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/18 06:32",
-        "published_ts": 1789680770.0,
-        "tag": "Strategist",
         "first_seen": 1789683325.5227876
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 14:45:58",
+  "updated_at": "2026-09-18 15:01:01",
   "yields": [
     {
       "label": "3년",
