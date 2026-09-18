@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXdfWXNIMEY2YkdDSGh2cWVONW03aXdjUFFuUGV5cmswQnNjQlgzNTJTWTBiM3ZnZmY4Wl95MmRYOGFyeDB6YjJwTTdDdk94QU1jendxcHZxemF2dExzdFh1WWwzeE0tMTdnWUFLWUhqeTdUMm9ORG53UGVoaU1zSVhVU3hkV1RNaDNqNmNjMVo2VUVteXR0NnE1dHZUZGo2WUZUMWNYdzlnR3FGcWNrRlhqU0hUX21VUUI4aE50bUFmb2tVdDZMMldYNG_SAdIBQVVfeXFMTy1qakhvTjZoRU1JZjNhZDFtUjN3cWg5N3JmQjQ4RnpsZGFUVW5pVWFOOXdlWDhnMjBMRzN2SnBObjF2OTBTTGZCWW5sX3NheHNjVHhEY2NVVkt5YXU2S1AyNFRRamM1UXhYN0NWTGUwOHRTc0hxVVdMT0xITXZXN05MZ01jOGdIU1pfVTkybXMyY081a1hIYUtqTWFKMzdFVXIwYVZmT19PbXlOTzNIenN1YXhKY1RvTkd2SkctZ01VOGVFN0p0bTR5X2RTQ1MyVlhn?oc=5",
+        "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
+        "summary": "",
+        "source": "CNBC",
+        "published": "09/19 01:33",
+        "published_ts": 1789749223.0,
+        "tag": "Fed",
+        "first_seen": 1789749926.4130137
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1JROW0tVjNnenBTRll5WUxDOTFtUEpCNDQ2WmxxVVhSWEU3X2RrWUdVMjdXTnNncWdDbkhQWGdNdFF4SFFNd1QxVzMxb0tLTDFCeVZyYUtxZ1hHTFBsUThiQVE5VTBubjZnd0Y4VU50ZzhfTllwYkt5M1VPb1FuYVNpNk90bmZESUJEOWNSOHZDT1NZQ1pqcGlwdllzZVJxb2FN?oc=5",
         "headline": "Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789714620.0,
         "tag": "JGB",
         "first_seen": 1789715727.24082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN052ZmYwSGxETi11NFd5cFpZZHVqV01kd2VYejI0bmVXT01NUXhSRDZIWUk2TkNPbVBXS1RBZ0Y2bGpxd1NtZWt3MmZGam9SU0ktSmdmd2JQM2kzNVkyc2FILXBMbmhxYUktemFMeHRNcnBYZHQ2SDhvcFBZaWllSFlWQThnTnB6YjRBVnVGOXVXM0FtX2dKTW9LTG1pc3UzdUY3Yk41UXlnc0ZHNHJ3V1lYMGVaQU0?oc=5",
-        "headline": "Warsh Suggests Fed Rate Hike Is Good-News Story, Touting Growth",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/18 15:51",
-        "published_ts": 1789714285.0,
-        "tag": "Fed",
-        "first_seen": 1789728328.4845002
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 01:31:01",
+  "updated_at": "2026-09-19 01:45:48",
   "yields": [
     {
       "label": "3년",
