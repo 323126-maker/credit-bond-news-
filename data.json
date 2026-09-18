@@ -392,14 +392,14 @@
         "first_seen": 1789605925.102612
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4xMDVvakpQTERzNTI1cmV1NnZMWnc0aU1lakRfYjg3aUF4ckY0dFRMSGZBNFNZMVNQVE1rYkp5ZW5SQjhMMEZGLWZiMXdRb1ZCcGVRWDJnR3VOemNDRFE1anZZaUFNNnJVNFE?oc=5",
-        "headline": "서부발전, 녹색채권 500억원 성공적 발행 친환경‧저탄소 사업에 투자",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcDRTalFqYmpEdW5yUjBldlU2Q3Fod3F6M0ZpSHN0emxaelk4LTlCVlJ0RC1HXzVzNDRZNWVkMkdCTkQ2UG9xQ0s1dWlRdzNHVlNsMjNIYXJEbGNjSzVBU25YcTdlQnR1aTYzYmdjbGRUSzJGcEE4TUlDOWRCTlBJVWdid18weklxMXhF?oc=5",
+        "headline": "채권시장 ‘큰손’ 된 SK하이닉스...시장 쏠림 우려도",
         "summary": "",
-        "source": "태안미래",
-        "published": "09/17 08:56",
-        "published_ts": 1789602961.0,
+        "source": "조선일보",
+        "published": "09/17 08:57",
+        "published_ts": 1789603079.0,
         "tag": null,
-        "first_seen": 1789625725.3185954
+        "first_seen": 1789696835.6665378
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HZFkxd05xeUd1QlkxX2g1Q2x5Z1pxZENLeUdLdmxEZ25TNzgydmt4bW5WZ1NES3N5aGxvNTNRZHl6MGx3QlFxLUJSa3k3bVJ5Zm1Zd2JCYXQ5cVkyczktaA?oc=5",
+        "headline": "'채권왕' 건들락, \"美 다음 불황엔 '국채=안전자산' 공식 무너질수도\"",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "09/18 10:53",
+        "published_ts": 1789696389.0,
+        "tag": "Strategist",
+        "first_seen": 1789696835.6665378
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UNW9NcnFJeUctTGhVcE5JaGY0c3MyZ1RLNXFTLXhVVnh2YWhSQ0UtNG5aRE1TTU10cjBXSlpKZGtoOGFEdHBLMEpOQlNlT2lSRGFyZU1kdFEzd3ZNaUFCcER2NA?oc=5",
         "headline": "“美 경기침체 오면 더 망한다”…‘채권왕’의 섬뜩한 위기 경고",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/17 23:45",
         "published_ts": 1789656300.0,
         "tag": "Global",
-        "first_seen": 1789657239.7906613
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPelBUSzlEc0VLaXU3UlN0dHB4Y0hiSEg4V2JiSW1XSkJ6eFhmWDFYem90V0FRRTZUZElTVkNLeXU1czNvZkxaNFhVLTlIQnVTSi0zck9kYzJZU2JJMG1hV2Rzamt1cTJncUp1U19TaDhGd042UFI2R3o0ZTQtbTBzRnh0LUs4YkJyeDM3d0tQMWZSODA?oc=5",
-        "headline": "US Debt Trap: A Crisis Without a Calendar",
-        "summary": "",
-        "source": "Newsmax",
-        "published": "09/17 23:41",
-        "published_ts": 1789656106.0,
-        "tag": "Strategist",
         "first_seen": 1789657239.7906613
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 10:45:57",
+  "updated_at": "2026-09-18 11:01:05",
   "yields": [
     {
       "label": "3년",
