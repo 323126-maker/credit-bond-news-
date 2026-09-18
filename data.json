@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN052ZmYwSGxETi11NFd5cFpZZHVqV01kd2VYejI0bmVXT01NUXhSRDZIWUk2TkNPbVBXS1RBZ0Y2bGpxd1NtZWt3MmZGam9SU0ktSmdmd2JQM2kzNVkyc2FILXBMbmhxYUktemFMeHRNcnBYZHQ2SDhvcFBZaWllSFlWQThnTnB6YjRBVnVGOXVXM0FtX2dKTW9LTG1pc3UzdUY3Yk41UXlnc0ZHNHJ3V1lYMGVaQU0?oc=5",
+        "headline": "Warsh Suggests Fed Rate Hike Is Good-News Story, Touting Growth",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/18 12:51",
+        "published_ts": 1789703485.0,
+        "tag": "Fed",
+        "first_seen": 1789704071.7959824
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tbDYwMUIyOGV2RldJLVpPYml4VDhBOFczTFRXYTlfc0tSX1l2X0NRanMzcVJGbDF5bllPVlY5d1RJT1JNdlpWWmVHenNZVTlPbDFHQ2U3a2RxZUNoZHJabWtOamNfRnFCazV0dQ?oc=5",
+        "headline": "日銀, 금리 1.25% 인상…31년만 최고·3개월만 또 올려",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "09/18 12:46",
+        "published_ts": 1789703201.0,
+        "tag": "JGB",
+        "first_seen": 1789704071.7959824
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9RNDNTcXZCRHhhYkE5RkVvM3lxT1dFMmhLR21PcWk1MWlVNWwxZlAxV1JfWmFBb1FSRi13UzZkMnZ0bGc5aHVQdDdkNEZ1ZnE4LWlhYVh4b3dzeGth?oc=5",
         "headline": "[종합] BOJ, 기준금리 1.25%로 인상...금리인상 속도 가속",
         "summary": "",
@@ -1658,6 +1678,16 @@
         "published_ts": 1789701052.0,
         "tag": "JGB",
         "first_seen": 1789702229.8815756
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1WdkRkcUtGYVhwVDdNU0lsNUQwMEF6MktlWTI4a3VwLVZBd0JyZ25fU0ZseV9Gb2dodm40aHh2NHR6RDRSVUQ0cVd6R1p5QXBWZWpwV1FsdkF6Sm9pcV90MktnSWtUY2JneGNIelFlOE53cHBQNk130gF8QVVfeXFMT2xNOEtNUzFiLUpmeF9GWThMMWNKeDRIU0YtcjZFRFdVUTgxS25qVzFmSHRzb1AyRm1YVUIyeWE2bkozek1xUm8wdFNmYmFpSDZtMzdlVkxLcmJCTUpBXzMtS0g0REF1VF9HUFRNSmZZMjRIcGkwamotaU1TdQ?oc=5",
+        "headline": "Trump adviser blasts Fed rate increase, questions Warsh",
+        "summary": "",
+        "source": "NewsNation",
+        "published": "09/18 11:29",
+        "published_ts": 1789698558.0,
+        "tag": "Fed",
+        "first_seen": 1789704071.7959824
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Wbm1UWlExX1lwM3lTd3kxV1cybFNfR2VmVFlBcWV3WUFlSXhOQW1Scll3WGlHSEF1blRuYkpZWk9mNGs4bjdQdTJmU3otbkVzQ0tWMmpZTUkwR20yRS1RbnJ4OW9LMzQ4a2RfeXhMV2ZvQQ?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789667008.0,
         "tag": "Fed",
         "first_seen": 1789668037.6761184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1wWUFnbld1ZmtiUnlrdHd0NXNzLXdTRWNFRGQ4cGszaDRFLVBHcFFJbmRVVFBpYU5qV3J2V0hCMEw0VDRQTlZDMHVOOXE1Mnhwa1BkQkhVTG9XSmxUeTRfNC1qZkw5NkcwNG5naUhKWjNtNVRWVDluNUZR?oc=5",
-        "headline": "Japan bond yields force Takaichi’s policy shift",
-        "summary": "",
-        "source": "sc.com",
-        "published": "09/18 02:15",
-        "published_ts": 1789665319.0,
-        "tag": "JGB",
-        "first_seen": 1789666230.3926263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONVFrcFUxN1gyQ21jdGUydktYWHJLc1lZemoyRnhKblY0Uk9ndlJFU19GSThpNGtaODlTb0ozaXE4WGlpU2pVRWNxTXhyYkQ4dzNnT0tPMzBTeERYVGczTTlwTnEzdXNRbDdoU3kzMHFRcGlDNUN5VlNMVGxZTG94Z1pBV2pjUkZVb2dhVGIyN1VHeUxlbFE0M3ZJRFZseEVJMC1wSUwwT2NMa3R6Umc?oc=5",
-        "headline": "John Hancock Multimanager 2065 Lifetime Portfolio Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/18 02:08",
-        "published_ts": 1789664880.0,
-        "tag": "Global",
-        "first_seen": 1789667123.554435
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUWZUWEx0ZGhMaGxkMVhiX3FVOTJOM1JjcmF5aHZ1MUZmZzk5TE1VYUloaXJpdGdlc1Rzd1NBOW5CY1VvZWRsMW5rQk1nUzBYOUJ5QWQ3aWpQakpFYlhOZm5ieDZLbHpSNHB6VmFjaWhyeGJVTXFPNVplQy1IaWNUX19lQlRkcHZSY25z?oc=5",
-        "headline": "Fidelity Total Bond ETF Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/18 02:00",
-        "published_ts": 1789664400.0,
-        "tag": "Global",
-        "first_seen": 1789699523.7172377
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 12:45:54",
+  "updated_at": "2026-09-18 13:01:36",
   "yields": [
     {
       "label": "3년",
