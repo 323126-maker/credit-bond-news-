@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPdjBtUWM1Nm1kX1JNVmRmYmx3NXlDdElnZURfVnI0U0VYbTJHWXRib2FfWWdsc3F4WWREbkdFR19iTXNXOXRxT0M2bGNFNkZuU1E?oc=5",
+        "headline": "버크&허버트 파이낸셜, LNKB 합병 완료..2분기 총자산 110억 달러 규모 성장",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/18 21:50",
+        "published_ts": 1789735852.0,
+        "tag": null,
+        "first_seen": 1789736437.0031428
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XTnNDcnd0M0ZoMHZwVlN3N0lhV00yWXcyX0xPQmtMWDZiLU9Sd25sT1dpZmxucFVhMEl4QzdEWGhOUGVWRlRmbUFjWUF2X1ViUU9sT01nWnM2UTlDWUFuYm11ZUxvX1ZZMW9Gbk1R?oc=5",
         "headline": "피치, 태국 신용등급 전망 ’안정적’으로 상향...부채 안정화 요인",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1789633500.0,
         "tag": null,
         "first_seen": 1789633832.0528781
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5iWWM5UzM4ZEREZjRISzdTenJCRmdLTTdGSjhoQ2V6MTNUWXAzOEZSNy1kZHo3cWxHMTNJUFlZelhnejFET0ZNcEw3eGVNMGdzNS1oaQ?oc=5",
-        "headline": "“이제는 보험주의 시간”…금리인상 이후 동반강세",
-        "summary": "",
-        "source": "매일경제",
-        "published": "09/17 17:21",
-        "published_ts": 1789633312.0,
-        "tag": null,
-        "first_seen": 1789651833.5869133
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Ib2NvdFBYVjZiR194a284YjE0Tm1kU2ZDN29VUmRfM215U2Zwa25kWVZsY18tZUdQaXZzdUVRNVgxNXFxRjEtUDRQcEdyQkNqVUE?oc=5",
+        "headline": "이타우 유니방코 홀딩스, Tier 2 후순위채 110억 헤알 조기상환",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/18 21:48",
+        "published_ts": 1789735697.0,
+        "tag": null,
+        "first_seen": 1789736437.0031428
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5pMUctbzJQVHJzVWRhMGh1N0hNcnFESWZRV0hiRnVoTkxIb1RocktKRUlaRmQ3WTVmNGhRTV8yd0lnQzBGZzFSbEFvWm93am51cnpCV1o4LVNnZW5tUWt3c281LXBLU0FtMnpfbllaWdIBc0FVX3lxTE5XeDZ1b19IS2RRWGhhOWE5c01rVjN1bGZkZE9ORXNRYVpibEhJazlYYUpBUzNQSXpiemZBUmpYVExPUVo0QXdjYnEySVFvdVVMNmRSWHJfN183TV9KS1c3djVhYUpMNUs2dEJLVnluVmtadHc?oc=5",
         "headline": "키움증권, 신종자본증권 발행…창사 이래 최초",
@@ -792,16 +802,6 @@
         "published_ts": 1789462406.0,
         "tag": null,
         "first_seen": 1789482632.7373714
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50ZlNoVnRtUDQtbEFsQTY0V0I2OVBmZVNRQ1BWc0tVQ2dpYWtPdFdMQUZzTXJjbnF2Y0tDTEpackdManQ1NllCU3hHbWpXRkxOTWlNQnNTdXpCaFlnWl8wdHpXcFFrZmRGQksxTTZfUmFqajh1Q2fSAXZBVV95cUxOdGZTaFZ0bVA0LWxBbEE2NFdCNjlQZmVTUUNQVnNLVUNnaWFrT3RXTEFGc01yY25xdmNLQ0xKWnJHTGp0NTZZQlN4R21qV0ZMTk1pTUJzU3V6QmhZZ1pfMHR6V3BRa2ZkRkJLMU02X1Jhamo4dUNn?oc=5",
-        "headline": "하나금융 보험사, 잇단 자본확충···‘자강’ 이룰까",
-        "summary": "",
-        "source": "시사저널e",
-        "published": "09/15 17:35",
-        "published_ts": 1789461345.0,
-        "tag": null,
-        "first_seen": 1789544724.7414625
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 21:45:54",
+  "updated_at": "2026-09-18 22:01:01",
   "yields": [
     {
       "label": "3년",
