@@ -856,6 +856,16 @@
         "first_seen": 1789659929.8540144
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oRjNTUTJZWklBQVFCcjd6S3ltblhRS3ZtVVMxcXFDNFN2YXZQazl6YnBPQTZMYzNTZUVKVGwtajYwX1FuZC1ocUZtdUFkdlNQbThrT21HU0pTYmlyMlcxbnVpd9IBaEFVX3lxTFBPZDFXd0lJUV9Kd3FILVNYVDVlamFzWjM4TjBRZGhiWm9iYXhrWEpNMzdJLXloVVJLOWJXT1lIa05EdE9PeGhfQ3VZSXpneUZDTzgyWHNIT0pfa2ZmMkJONlplWTctcjBa?oc=5",
+        "headline": "한은 추가 인상 11월로 당겨지나... 9월 근원물가가 변수",
+        "summary": "",
+        "source": "매일일보",
+        "published": "09/17 18:36",
+        "published_ts": 1789637775.0,
+        "tag": null,
+        "first_seen": 1789732840.7072566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1rd0FhMVVlbXRmQjZPVER3QW04Nkk5cDlzVW5HQWdxMWR2TXEwYzl5c2dqZHAzeFZGQTh4OXdJLVFON0Zsdk1pa0ZhWFZUXzlPMUxUc0lEblVEYjNKR3lhSXRVN2M1SjhyaVd30gFvQVVfeXFMUFNqS2NpZERNd1oyTEc4THZpZ2FiNnVvVjJfQXhXNldhMzd1WUhreTJ0MVp6c01NN3ZNczJwYkZJU3d4SjJQb1cyMGh5aG5GeEtncFBuSWx0V3hURW5Tb1VEOW5pUlVzMDZWVlpQQmVN?oc=5",
         "headline": "美 기준금리 4% 시대…원·달러 환율부터 국내 증시까지 긴장",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789384785.0,
         "tag": null,
         "first_seen": 1789385434.4447186
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1saDhoQTlTcWZXY1EwNkZJcXdwdnhHT3VFajBOWTlDWEE0MkYwenZieDZmOTNBdk9YaEV4OFNDZGRVWEJlbFk1VUtCZzE0QQ?oc=5",
-        "headline": "“미국 또 금리 올리나”…숨죽인 韓 채권시장, 금리 발작 경계령",
-        "summary": "",
-        "source": "dt.co.kr",
-        "published": "09/14 18:34",
-        "published_ts": 1789378485.0,
-        "tag": null,
-        "first_seen": 1789384526.235171
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUXRYWU5WSG1kOUxsenl6V1h4cVRidk5XYTdCOFNpSnFKTk1LeFJEQVVfU1NVeEpoX1ZrdXItMFNNc1NybFhlbEN6T3ZLanpfTU91bUhnNW5qSWVacVRiQ0VXZVFWUV8yZEtQRE1VdmY1VVI4akIxYlFlVDNHSHl0OXE0MDBDTGc3U3ZSTkxXa210ekZiMmV3?oc=5",
+        "headline": "Opinion | Kevin Warsh Is an Inflation Hawk",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/18 20:58",
+        "published_ts": 1789732685.0,
+        "tag": "Fed",
+        "first_seen": 1789732840.7072566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02QUlvZlAzRTVlSXdiZnFWWEgyaWE0dUFyWmJPZTV5c1dJZHdNUGkwRGhrdUE0LVhBQWNfSTVURDF0VnNMMzY1b0owWVNpaUM5bGppanNXQnQwamd6V0FIOW5KTUVMYmU0aWJrV0ktOTktSGc?oc=5",
         "headline": "BoJ Hike Fails to Stop Yen Slide",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789708300.0,
         "tag": "JGB",
         "first_seen": 1789709429.3628762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBfUG9QRlRfRmthOFlKR012dVFjdVctdGdQTS1pRzFtVE9zSmxxT01aWWNXc0ZpaGZKbV91cEhWRVcyR25PVEVvQ1BmUVA0WU1TV3hZWnBrWDZYQ0ppYjRHemdCUW9aa2w5RFp3UHdxdw?oc=5",
-        "headline": "31년 만의 최고금리도 무색한 '엔저'…日銀의 딜레마",
-        "summary": "",
-        "source": "뉴스퀘스트",
-        "published": "09/18 14:08",
-        "published_ts": 1789708129.0,
-        "tag": "JGB",
-        "first_seen": 1789708526.0400295
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 20:47:26",
+  "updated_at": "2026-09-18 21:01:24",
   "yields": [
     {
       "label": "3년",
