@@ -1900,6 +1900,16 @@
         "first_seen": 1789727433.79944
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUo2NVY4c3UzcU9VeDBvMHZ2bkI2bTJsUEkxeW5HNHBQZ0ZkNXgzZlVqekJKUHFpSDZ2ZTAwZERVTmttV1ZJY0tBSllxaE9vN1poTG9sNWZFcVZXSlVxdkRwanpuaTF3VFRHbm1ZQ3MxeEdzQlNpa28tUnRSMlFfLWpvXzJjUURRMno0X3VaOUtENmNiQ1NvSEk4Xy1xdGZNbWV6RXdsNTl6ZURJbGhXcF96MUxOQk0wM0YwWkN3SnIxdHNyWjB4YjNn?oc=5",
+        "headline": "Bank of Japan Raises Rates, Making U.S. Less Alluring for Tokyo Investors",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/18 19:16",
+        "published_ts": 1789726611.0,
+        "tag": "JGB",
+        "first_seen": 1789761636.0705242
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNU2RsOXRWX2N1YlRuMEVuRlFlR3BHZTNPMDN4MkFxclNrY1NnNk5ZaWJ3LXBuZENjNTNZdzY0d0NTd2xsSWtxTC16ckw4NFhFanlVcnB2ZW5xUDF5MEJnTlNTQTB3d1pQcGgtejh6ZDZJcjVJWThlSnZma3lVTE50cm9BeTZPd0NFcVF0WGdsMDNEN0VhcVMzSjZxVVZjRzc0eTE3cWdaTmJyMENpcDVwbk5Td21pdU5MT01BYlo4YmUtdVFHUVBxdFBfWmNUQ2duUk1QLVlEeDhqMmgyOWN0NGFsc2w?oc=5",
         "headline": "Fed Chair Kevin Warsh Raises Interest Rates for the First Time in Over 3 Years. These AI Stocks Will Benefit",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789718829.0,
         "tag": "JGB",
         "first_seen": 1789722042.3833725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jaW5DYnRlRTdjNTNSU2tqZ3FhVnF0cGxJSVF6NVR5YkFQQXlnZmFMMnVsVlZ2N1dqYXMxVE56MmE1UWprWUZGSURDSk1RLXhMOUE?oc=5",
-        "headline": "日 기준금리 인상에도 국고채 금리 일제히↓…유가 하락 등 영향(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/18 17:05",
-        "published_ts": 1789718700.0,
-        "tag": "JGB",
-        "first_seen": 1789721125.8911338
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 04:45:50",
+  "updated_at": "2026-09-19 05:01:02",
   "yields": [
     {
       "label": "3년",
