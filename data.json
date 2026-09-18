@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSU8wb1MxNTRodWF4X2JzRV9zTlZ6bW1QOWk2ZG0xTTNDcklBUUhGdFhKcHF0eEQxN0NTYTlILXV6cmV5dk1oY3l0bDVlSkhJa0hUeVpnV2hjNmQ2YWZpMjU2LWJ2aGRuZUN6eHpqcUljRHNCNHN6c3IwVGhfVGhmUXFlZnFFcUFBLVhQMGdGaw?oc=5",
+        "headline": "에코프로 BBB+로 내렸는데…메리츠증권의 위험한 베팅 : 네이버 블로그",
+        "summary": "",
+        "source": "blog.naver.com",
+        "published": "09/18 22:15",
+        "published_ts": 1789737326.0,
+        "tag": null,
+        "first_seen": 1789739123.121593
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPdjBtUWM1Nm1kX1JNVmRmYmx3NXlDdElnZURfVnI0U0VYbTJHWXRib2FfWWdsc3F4WWREbkdFR19iTXNXOXRxT0M2bGNFNkZuU1E?oc=5",
         "headline": "버크&허버트 파이낸셜, LNKB 합병 완료..2분기 총자산 110억 달러 규모 성장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789635308.0,
         "tag": null,
         "first_seen": 1789674323.3642247
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oSXFIV1BZcDBKUGFhMlhjeXRaOE9Kb3RiNFoxa3l6NmFGUVUxcHRlUV8zem1jMFhqazBtOUw3TUxVVzV5Z0lOTmhHOXBmaHBCNEE?oc=5",
-        "headline": "한투 5천억 회사채 발행 잰걸음 … KDB생명 인수 실탄 마련 나서",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/17 17:41",
-        "published_ts": 1789634506.0,
-        "tag": null,
-        "first_seen": 1789635348.4360785
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 22:30:57",
+  "updated_at": "2026-09-18 22:45:47",
   "yields": [
     {
       "label": "3년",
