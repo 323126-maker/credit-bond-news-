@@ -1408,6 +1408,16 @@
         "first_seen": 1789462837.027255
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nUGdPTTdWTGs0UGxPYURsX0JCVWFoUDRlUkdjbUpUOF9qaGFsS1Y3blNZbVp3R25iMWFhdEJxYlh6eEpxX2NndXMyTUdMZXZDRk1HaklVUFc3UnhqZ1pKQW5sSE1ITnM3ZmhIWDR0ONIBc0FVX3lxTE9sakR3WFB3U0pHaTBSdmdWYnBHcFFhRUxKcEJldlM4ZjFvWUwxVmlBYW1BeUVvQUk3NmV4SmNYdmM1SnZ4ZXUzTThNdWlJNW50MXpTR2ZFMnJYdUVfWl9GaVQ5TzczaktTaUlFYkxhNERNcms?oc=5",
+        "headline": "친명 십자포화에, 관사에 발목…‘추다르크’ 사면초가",
+        "summary": "",
+        "source": "시사저널",
+        "published": "09/15 16:58",
+        "published_ts": 1789459087.0,
+        "tag": null,
+        "first_seen": 1789715727.24082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE02RWtoWndwRUVtVjRKMnlXYVhuSElfZXRhUE1lZDRkckw4RllPLXFQcWUydDVfY0ZlT3kzOWg5MXgtYXVfcWQzLVIydXdCeC1ELWJVNTROeXlZdEFPV2tDNlpR?oc=5",
         "headline": "[지면용] 경기도 “민선8기, 재정 자구노력 부족”…김동연 주장 반박",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1789432088.0,
         "tag": null,
         "first_seen": 1789439430.74924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pcWZXVm1mc0M2TzVlQ1JJSVpRdnFBMHpEanNQajBSSlY3X003anlLU2VNY3hZVEJpZ01BVHZaeUpaMHdhMVJJNEFxSHdncDhSTlRQS01FcnR5SkdsdFNncnZn?oc=5",
-        "headline": "조국 “김민석 발언으로 ‘이재명 탄핵’ 관념 유포…李에 도움 안돼”",
-        "summary": "",
-        "source": "미주중앙일보",
-        "published": "09/15 05:32",
-        "published_ts": 1789417920.0,
-        "tag": null,
-        "first_seen": 1789485326.4110298
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1UV1E5TUdjc3VQNkx5RFR2NjlmSVlrZFRNZDM4bnVtdW9WaFAxVnZ5MnowTGdSaDNKMVN0XzZ4X0d0eHBaNzhkeFJ0WmRoOTk1Y01qWVhLRHI0TGVPQklkVHJFY0VmYUc2QVl6Z0thQQ?oc=5",
+        "headline": "일본은행, 기준금리 1.25%로 인상…美 이어 글로벌 긴축 기류 확산",
+        "summary": "",
+        "source": "위키리크스한국",
+        "published": "09/18 15:57",
+        "published_ts": 1789714620.0,
+        "tag": "JGB",
+        "first_seen": 1789715727.24082
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0JzQ1VsZ1plSFVmYkl6ZXl0c0huem84dkhGSGJBaWhyWWE0RGJtWmd0aWpyZld2d19wYkU5cW1zUlJaNURqU2dWYmd1VGFicTE1RWFmaE1aS2Nsc1pNcjVvQklDTElkS0lnNGY4aW10U0FlU0xtNFRZTkNLcUpGZHFRNVl0RU93N3VyMGtfa0dxeG5NVXhTUm9aaVdJbDJmOUFR?oc=5",
         "headline": "일본은행은 금리를 31년 만에 최고 수준으로 인상했지만, 통화정책 긴축에 대한 은행의 의지는 여전히 의문시되고 있다.",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789689276.0,
         "tag": "JGB",
         "first_seen": 1789693235.1846864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmhpZjd0OXp0VTFXb2tTdlVJMnRoeTNEb2Nfa1FqQXB0ckR1X0c1el9wUFlrdjZwRWc3ekwtdFBVQVZXR2hsWkhQemZpM1pRNUdKOHJGNXV6YnVXR0Z3d2E5eEhvR0RhYXI4clZxeWdPbDd6cm5SVjMzYVFIcDJ4aU91MG1SQjRzRjNFT0lrX2o2TWFpd3RQVzA2YnZodm4yeWV3c1BTaWQ1Rk5pRXk0Q1FkNXpoNUhrOXM2RV9wNA?oc=5",
-        "headline": "COMMENTARY: Trump may not see another rate cut as president",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/18 08:36",
-        "published_ts": 1789688206.0,
-        "tag": "Fed",
-        "first_seen": 1789688727.3744965
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 16:01:03",
+  "updated_at": "2026-09-18 16:15:49",
   "yields": [
     {
       "label": "3년",
