@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE03RVI5dHp1LXJoQzg4dkg2MURQalRrWXdSaS1Ibmxxeld2NkE4QTZuYXoycXhVSHJEWUhlQ25tTUdzbUIwWmNfczViQnllTVBTeVNGWk9jS3JDV3ZwWGx2UlFpZ0VZWlRlVHBXeUxUOWNrdm0z?oc=5",
+        "headline": "美 금리 인상에 회사채 조달 부담 우려…신용등급별 온도 차",
+        "summary": "",
+        "source": "파이낸셜포스트",
+        "published": "09/18 14:53",
+        "published_ts": 1789710829.0,
+        "tag": null,
+        "first_seen": 1789712125.0362387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEtrdEY4ZmxuRWxubDNTU2JJYkJqR2Mxb3RpVTl5WFoxUUV6eExQSG9Pbm13eVBoS2FJQWFpTUpvNkZxTDhYTEwtLW1lNENHMG9jaDFhM1lvMFUtYjMtZ3cydjNQYjNLX0xjRGdSbUVTWHZPVVNSblJxTkNKdWJ4UlNsSFI?oc=5",
         "headline": "회사채는 선별적으로 회복세를 보이고 있다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789610335.0,
         "tag": null,
         "first_seen": 1789621240.006277
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVU5mdWNmbjVfOXJpV2c2aGY0a1VWSUpTRDd5OFVOQkh2MDRTMlJENUtxTnVYUF9xYU00WXFrcld1dGZfUm1fdXgySXNWZ2dhTHVocEh4Z19wbnV2MThQTg?oc=5",
-        "headline": "연준 매파의 '매' 먼저 맞은 한국…주식·채권시장 '잘 버티네'",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "09/17 10:19",
-        "published_ts": 1789607992.0,
-        "tag": null,
-        "first_seen": 1789609523.4517498
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ0R5YTJ5Vk94dlNCOWYxVHNYRXZHcmFjbk5SWDRIaEdPLWEtYVlMMUhQRGxIQ2dJY2F3WXpDT0swYk1CR2VYR1BIdUVPZU05RmhFQlZBTE50N1I5NkZqLU5sMHVsZ2FuOGR4UVR3aFA5ZEhyS0poZnJlOTBLWW9OTA?oc=5",
+        "headline": "日국채·정책금리 상승…글로벌 금융시장 '불확실성' 확대",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "09/18 15:02",
+        "published_ts": 1789711372.0,
+        "tag": "JGB",
+        "first_seen": 1789712125.0362387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd09WbXNyUGtza01vVVRMYm9pU2tVUjRwMl9xYWdxaWZSeUhRd0VoMlY2WWJkZC1hX3c3RjVfSVZmX1ZlTlY4WDRSbWFocUNRZHhqOEU3bjZ0aVpjdXJqU0c0eUN5elFIWmQ2dlF2R2RDTGIyYkVodTh4Uy1id3Z2UzBubGNmZEU0SUh4U05pVW1nb1BCUFBSY2FvRHVPLVR6YlY1UXBmN3RtSXNSeFdTZFJ0dUIzWjA?oc=5",
         "headline": "Stock Market: Will S&P 500 Open Up or Down Today?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789683900.0,
         "tag": "Fed",
         "first_seen": 1789708526.0400295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMzdLc1JiR2d0MnY3NUxuSVpTUGxRN2RTeEhFOU05dFZaR01ZRnJBOFk2aFdtSmhlc0NKVS11cE9CS2ZsUWNiOU5fYXZaaTBUWTNWYVRUbF9iRWxnN0Utcm1jRVo4aFJsNkoxQWJpbklSbGI1bWNDWVV3dV9WVFI1TnB6cnZIakg5VENkRHdXaDVLY19TTkpUSzh4Vl8wMDZJbm1qMlI3T1l5MzRsNFN1X1BWdWF4UzB5YWQtVENpeWxiY05fSGpTTUtCcEVXeHlRY183cUdIX1pCcS1Nb1E?oc=5",
-        "headline": "US mortgage rates brush 7%, weighing on buyers, sellers and further straining a bleak housing market",
-        "summary": "",
-        "source": "washingtonpost.com",
-        "published": "09/18 07:03",
-        "published_ts": 1789682605.0,
-        "tag": "Fed",
-        "first_seen": 1789683325.5227876
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 15:01:01",
+  "updated_at": "2026-09-18 15:15:47",
   "yields": [
     {
       "label": "3년",
