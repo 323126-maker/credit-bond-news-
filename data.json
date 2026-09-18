@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9TNDAwQ3g5QkJJNG4wcnIxc2ZZX1VkaXlEUEpWQ3VrbUNfSVFYUHZ1RTZ4NFQtQmN6WTNEYjI2N0k4dnR2TGpJUEtIRXNoc0hxb0lLbmxvLWZ2ZFF0b3V1Z9IBeEFVX3lxTFBxQzhTcTlQeWJRc2JXR0JTSm9qX0VFWmRGWGNRQTI3MjBPek1qUFU4RlRDa2dwampVajIwa19FbkZCMTBwYXhtZkZVUWxmb0NsUHo0ZG1feG9GcHZuenVuTzJfUnpmWjhzWDlSMEZNeFdxY0VHV0hONA?oc=5",
+        "headline": "日, 31년 만에 최고금리…'엔캐리 청산' 공포 재현될까",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/19 08:00",
+        "published_ts": 1789772400.0,
+        "tag": "JGB",
+        "first_seen": 1789773671.7446914
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MNWtEbW9tLU82d3BPQUpIdXZvY1VOaUNUVHBOMl9lN3p6c2VWRnRRM3FXR3RPX05yWGF5cmxjRFFiNDVMel9zRHFYTmhxZXN0WDFsUUpCRlo5a0pWTXVjM3g5dVdlWFBjNWM4eTNwbUhrMGttcGtmZ1lBSzNQUdIBfkFVX3lxTE5MNWtEbW9tLU82d3BPQUpIdXZvY1VOaUNUVHBOMl9lN3p6c2VWRnRRM3FXR3RPX05yWGF5cmxjRFFiNDVMel9zRHFYTmhxZXN0WDFsUUpCRlo5a0pWTXVjM3g5dVdlWFBjNWM4eTNwbUhrMGttcGtmZ1lBSzNQUQ?oc=5",
         "headline": "Bank Of Japan Lifts Key Interest Rate To 31-Year High",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789726298.0,
         "tag": "Fed",
         "first_seen": 1789726526.3725007
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRHBYYnBIelUybHY5YmhMbGY1OTFCR3FEZHkwS1pHZmg5QV9EOXZ6Z3JJdnZMbkhQS3NSV3JGazZmeGFlZU81bENXeUFZTGZBNUJwVkJJb1JBYktQQ0tpOTV1NFR2Y3F5Y0pYYmFvNm1vUVpSNHp5bkdyVXdGbkhSOW5UVFZpc0dNcUh3cEZTN3hrcmItODFHVlZUSVNtS2dCN0ZiVzlQZ05pRUdNcVBJTHVWSQ?oc=5",
-        "headline": "Warsh Did Well. But Where Does the Fed Go From Here?",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/18 19:00",
-        "published_ts": 1789725605.0,
-        "tag": "Fed",
-        "first_seen": 1789731924.4674563
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 08:15:47",
+  "updated_at": "2026-09-19 08:21:39",
   "yields": [
     {
       "label": "3년",
