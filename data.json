@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQRVRqVnUyYlRVSTh4OFE4UXZFMURsQUR0WmZoSUpVajVMbzJ4SnRDN1V6VEItdUtHUjZUcExVcTZrNW51RlVWbUJWam5kZmRTVEk2WUJDTFJsM0J2Rl9idUFEdWJyd2JFeEtSdnBqNDRyNU1hM1dib1hwc2w3S09HanRLN0RuR1MwU0R3dVhtT3FHUzFuWFp3aGNfRlk3T0Y1WjNIdWh3?oc=5",
+        "headline": "피치 레이팅스는 태국의 신용등급 전망을 안정적으로 상향 조정했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/18 23:54",
+        "published_ts": 1789743268.0,
+        "tag": null,
+        "first_seen": 1789762525.4560394
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOVVCMjRJZTc4TkZGTENKLXZTZ2k0ZG45c2R2UFI0dzZqaUprdGxBX3dfbzBJY2NHUl9CaTFjdVNnaFZOcHF0YU55aGVaQmhVcWpWbEllc2c5NFdPZlhXeUtUVlVxRllVRVo1NktFbEFJcG1DZnVENnU1QjNJNmJDTWZTeDAzQmpkT0pHcA?oc=5",
         "headline": "주식 시장의 등급을 높이는 것이 궁극적인 목표는 아닙니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789649100.0,
         "tag": null,
         "first_seen": 1789703125.9264498
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5GbUg3eS1JTWVPejQ1X3ppY25GcmdYZWI0aEtwUUNCZkxEdmhYWG5lVGZOX0xjWU9NcVE2N0tYTmFBYzl6MzczMFVpeWtqbUNIVVJ5UGVkQUR1MnJwUTNEZ1B1WTIzOVhlMWVycU84cFhJcDA?oc=5",
-        "headline": "클래리베이트 자회사, 최대 7500만 달러 한도 선순위 담보채권 현금 매입 청약 개시",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "09/17 21:16",
-        "published_ts": 1789647415.0,
-        "tag": null,
-        "first_seen": 1789648237.3385274
       }
     ],
     "perpetual": [
@@ -1760,6 +1760,16 @@
         "first_seen": 1789740925.1592243
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91RVJDSnpsdHF5Y2ZCRzZKZFZGX3FkM2xuMXNCckZxdzBySVdqQTRZUDE3N08yU1VPSUZVQU9keDJ2ZkVtZGhYdFY2d1VBX09mQUtEM21QY3RGaEdjMXN5OEZVYzdaUkhlU214UEwxX3pCY2lCQUdaZ1NfUVY1QQ?oc=5",
+        "headline": "A Fed credibility – induced bounce – Market Outlook",
+        "summary": "",
+        "source": "sc.com",
+        "published": "09/18 22:57",
+        "published_ts": 1789739839.0,
+        "tag": "Global",
+        "first_seen": 1789762525.4560394
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTEhkX2xzZ3BBMVZreEN4VWljWC1YY3FzVnZLNHpNU3JVN3A4VUF0UGlaa0dvTFZXX3E5SFZlM2VvRWpaUlRNb0pNZVVoTHk4TUd0Qk9aajNzNXpWWE5rSF9QZVNyamhsZUR2V01uc0pTQ0pCLUR5T3JCZWhhd2lQZXZhZURfUUllVWtvNnh6UQ?oc=5",
         "headline": "Why Higher U.S. Bond Yields Will Likely Stick Around",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789719517.0,
         "tag": "JGB",
         "first_seen": 1789720229.4164078
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1UbE1EZTZPUldKcnl2clVSbzB6SWxqeXRyMVMzT3JwZV9GQVBOVW8zUF9tenV1b1FXV2JlNXN0SnFIZm95MUJsUVNDdURJeDdRQUlPQ2F3UnRwSk92TXRvcC1NaTlmTndFX3RxQQ?oc=5",
-        "headline": "日 '30년 만에 최고 금리' 충격…미국에 묶인 2.5조 달러 '자금 엑소더스' 촉각",
-        "summary": "",
-        "source": "와이드경제",
-        "published": "09/18 17:07",
-        "published_ts": 1789718829.0,
-        "tag": "JGB",
-        "first_seen": 1789722042.3833725
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 05:01:02",
+  "updated_at": "2026-09-19 05:15:48",
   "yields": [
     {
       "label": "3년",
