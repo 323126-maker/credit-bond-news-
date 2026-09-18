@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1xSk5GWFBYWFhjZy1JRm9iQWFMSlg4Vy1YZmUxYl9JOVZfR1F0c19aXzNwdlNvTjBvMDREOFdKWmp4ZVhHNGpYemlWTl9yZUg5RVpKNDNyRkxTenVtanZNN00yaUlJdDQ?oc=5",
+        "headline": "회사채 17조 순상환…기업들 단기자금으로 갈아탔다",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "09/18 08:28",
+        "published_ts": 1789687719.0,
+        "tag": null,
+        "first_seen": 1789689639.2238388
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWG42OTcxNHFPb3hLUmdpR1NDREhIdGU2MkVQXzE4X0pBRnlwSTZTbUtLbzJSOWpiMWpUQmFLdlBySklUVmN1MGUtb2JiX01Cb2pVTnRHM0s2eGNTMmdwbzB3dHBGN1luUDM1aGw4Mm42WDlkOWxqTldIcHJfODVNeWRpbw?oc=5",
         "headline": "은행·CP로 버티는 기업들…쌓인 회사채 물량, 내년 초 몰려온다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789601569.0,
         "tag": null,
         "first_seen": 1789621240.006277
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNDRIdVh6Tk9oYWdELUxQNlVGcVd5akI0UmVkQXlST09PWWlpMmdiTzBPTmM2TzI3b3FQT3BodnZiZ0JxUnBpeEpaMXp0MVlSWFBUbTNVTy1zTVkybEtkMDRfLXhOMzRPNnBSdi1yLVZKQlZEcXV2S0FycU5xamxvVm53ZHBEZlpV?oc=5",
-        "headline": "소프트뱅크 1조엔 채권 완판… 日 개인 사채시장 절반 독식",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "09/17 07:33",
-        "published_ts": 1789598037.0,
-        "tag": null,
-        "first_seen": 1789598724.3149571
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 08:45:53",
+  "updated_at": "2026-09-18 09:01:05",
   "yields": [
     {
       "label": "3년",
