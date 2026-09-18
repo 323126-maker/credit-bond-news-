@@ -1700,6 +1700,16 @@
         "first_seen": 1789721125.8911338
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOS2luRnFtc2hnYUFsUDVSWEI3d0xZNGRPNmN4NU1TUDlCa0hVdzlIT1FidlFodGhobWtWTjFUOWhvRUNzUWlhXzE5Nm9lam5fSV9JSllGalkzU0RrSUlLVGVZX0lqaGsyMXVCYzM1cHlVNG10cXpyRXphZTRjMFA0bkdKLVk5MEp0ZmVQSjFzSHE?oc=5",
+        "headline": "Treasury basis trade back in focus as buybacks expand",
+        "summary": "",
+        "source": "streamlinefeed.co.ke",
+        "published": "09/18 17:00",
+        "published_ts": 1789718419.0,
+        "tag": "Strategist",
+        "first_seen": 1789728328.4845002
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8zbkNKOUR6UFRja3puR1A0RXpQXzA2d1kyTDJpUW9HVjgxak5rR0x5ZHJ0MldQaVd5dmhrUWRZLVh1TkR2SXE5SG5kOFF6OTRDSzFzbVVkZDEwLVBZMEtDcGRQRGZpRF9zZ2RCblYzOU82NFk?oc=5",
         "headline": "일본 '1995년 이후 최고' 금리 인상 뒤 방향성 불투명, 미국 압박에 셈법 복잡",
         "summary": "",
@@ -1758,6 +1768,16 @@
         "published_ts": 1789714620.0,
         "tag": "JGB",
         "first_seen": 1789715727.24082
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN052ZmYwSGxETi11NFd5cFpZZHVqV01kd2VYejI0bmVXT01NUXhSRDZIWUk2TkNPbVBXS1RBZ0Y2bGpxd1NtZWt3MmZGam9SU0ktSmdmd2JQM2kzNVkyc2FILXBMbmhxYUktemFMeHRNcnBYZHQ2SDhvcFBZaWllSFlWQThnTnB6YjRBVnVGOXVXM0FtX2dKTW9LTG1pc3UzdUY3Yk41UXlnc0ZHNHJ3V1lYMGVaQU0?oc=5",
+        "headline": "Warsh Suggests Fed Rate Hike Is Good-News Story, Touting Growth",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/18 15:51",
+        "published_ts": 1789714285.0,
+        "tag": "Fed",
+        "first_seen": 1789728328.4845002
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0JzQ1VsZ1plSFVmYkl6ZXl0c0huem84dkhGSGJBaWhyWWE0RGJtWmd0aWpyZld2d19wYkU5cW1zUlJaNURqU2dWYmd1VGFicTE1RWFmaE1aS2Nsc1pNcjVvQklDTElkS0lnNGY4aW10U0FlU0xtNFRZTkNLcUpGZHFRNVl0RU93N3VyMGtfa0dxeG5NVXhTUm9aaVdJbDJmOUFR?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789706051.0,
         "tag": "Fed",
         "first_seen": 1789716632.9553514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rSlJGcDdPRXBCNk9wVDEteUk3N0VMSnZqdHd6MWhkb0FoNFdvR19HM3JGWG9qejdWVGtiaU9YQ2RQVVoxQXo1WXpPa1diMGd3Y1FYdUtB?oc=5",
-        "headline": "일본은행 금리 0.25%p 인상한 연 1.25%…31년 만에 최고치",
-        "summary": "",
-        "source": "지디넷코리아",
-        "published": "09/18 13:12",
-        "published_ts": 1789704768.0,
-        "tag": "JGB",
-        "first_seen": 1789706725.2196615
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkRJT19jX3RPU1hRVUdQWTM4Yi03Z0J1SmpJXy1yemRQU3h6YVBiUjVkeHBxQ3hpSVFpQUxVSGU2RHZLOUR2VHBtUWUyYXJxMjB3VkRfbWp2dnowU1dFcWNkRmEweVVaMld0bnQ5NUlEQzNUcmlpcmdvc0VZS0ZGd1dPcGRFaWdTZk5NcEp5am1LTzVIWk5FZXR4dk93TkdPdE8xQ3FDcU5XSHdfMHlpTQ?oc=5",
-        "headline": "‘Outlook Cloudy’: Fed Rate Hike Pits Bulls Against Bears Over Year-End Rally Odds",
-        "summary": "",
-        "source": "The Daily Upside",
-        "published": "09/18 13:03",
-        "published_ts": 1789704227.0,
-        "tag": "Global",
-        "first_seen": 1789710330.7749162
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-18 19:31:00",
+  "updated_at": "2026-09-18 19:45:50",
   "yields": [
     {
       "label": "3년",
