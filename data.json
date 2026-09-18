@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ1JROW0tVjNnenBTRll5WUxDOTFtUEpCNDQ2WmxxVVhSWEU3X2RrWUdVMjdXTnNncWdDbkhQWGdNdFF4SFFNd1QxVzMxb0tLTDFCeVZyYUtxZ1hHTFBsUThiQVE5VTBubjZnd0Y4VU50ZzhfTllwYkt5M1VPb1FuYVNpNk90bmZESUJEOWNSOHZDT1NZQ1pqcGlwdllzZVJxb2FN?oc=5",
+        "headline": "Global Bond Selloff Deepens as 10-Year Yields Hit Multiyear Highs",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/19 01:08",
+        "published_ts": 1789747685.0,
+        "tag": "JGB",
+        "first_seen": 1789749033.1111941
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQmMwMVVZOHZQSUJwd2FaNGowTXg5eEFRajFvNFVfRXlKUzZjdzNIOHJFR2diOXljeEpHSjBhQkRYUzA1dkNaVXJXTEIxeEJiNllOTTl3aTVyYzUyQWY2akRQdUwwZ3laYzF2WDV5MGs4UzI3YWozSGtBOFhSNmJ0c0JpZHhJelExNEI1VXp4azVXZTRsdDNVVDZrN0VZdGpkLWN3YzhsY3JDQjFjTEJpT1ZUc1QyQ1lnTkU1U3ljazczbFlPOFExc1lDWkdGLVh2emh3T3lHekphc3ViU0kyMjVwQURJTVgyNnpfUi1IUmk1QdIB9wFBVV95cUxNejZFQnFUM1hsb1dzallJS1pMLUpIdlU4UFYtMUJ2UWc2WFFhU3RVazQ0V0NiU0FiUmd1MldDNnU2d256UzRaVEhWU2REaTFkN0VKck5CZ2hULTNfaWtXMlBWeFV1REdqdlhUQWZVRktlU1JjSkFtN2NTNFJraHdrZktlTFkwLXRSZy03WmwtLUNQaU1sWVl1NkdnM2lqNEJCX3hjOElOWGl4NjFta19oaW1SN2hEWXk3WGk0NWFIdmpteTM5OGNXOUZDZlBaSVQ5NmQ0OHhpTkRBUlAyVDR5SFRrYVUyaWVqc2FCOURqcG01QUNBN01B?oc=5",
         "headline": "Global Markets: French bond spread at highest since 2012 as default insurance spikes",
         "summary": "",
@@ -1638,6 +1648,26 @@
         "published_ts": 1789746600.0,
         "tag": "Global",
         "first_seen": 1789748124.5401983
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDJ3YnNMYjhxdTFkWjNCQmY1RDRlSDZaYnZhWkduYW8weEFXOWFmXzkzbGVsV2NxVVNMVkNDU25RdlRiWmVTSU5YN2dNSUlFS19KM3B2N2JfOXhDOEF2WnhpR0RaZnlSNGdhdldzQzlndFRlZGdmTHBpb1FRTjdEVUpqWm0?oc=5",
+        "headline": "‘Bond King’ Jeff Gundlach warns markets are on a ‘collision course’ with higher interest rates",
+        "summary": "",
+        "source": "Yahoo Finance Singapore",
+        "published": "09/19 00:33",
+        "published_ts": 1789745580.0,
+        "tag": "Strategist",
+        "first_seen": 1789749033.1111941
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9aUnhIOWNLN1NJSjBOMlRaS1dvMGN3aEJlR0dIZ19yUzNtSHFNOGN5WnZGQzNOZWNQTUp3ZDl6TlAyRnlLQzd4Q25DcUdNX2Vod1E0U05YVDU5RHVHMzZQVmp2VmdLOEpzMlhZOGNIcks?oc=5",
+        "headline": "Warshing the walk",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/19 00:30",
+        "published_ts": 1789745402.0,
+        "tag": "Fed",
+        "first_seen": 1789749033.1111941
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHhmLTMyaG9SVjFSUloza3dYZ0FQMmN2Z3N4d2VCS1JKSjB0aUFoYTZ6Rmw0bFVfbTkyellKZmhCRTduOVV3S3F5RVo2dDE0R0daM2xkeWNoS1E2cFVsNTBKbjFZZVoxUEpsMG5KZUtkTHh4THd5MDZZcEt3bUtHSjFIWTI1TzJfTm1Ga3pwWQ?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789714285.0,
         "tag": "Fed",
         "first_seen": 1789728328.4845002
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQa0JzQ1VsZ1plSFVmYkl6ZXl0c0huem84dkhGSGJBaWhyWWE0RGJtWmd0aWpyZld2d19wYkU5cW1zUlJaNURqU2dWYmd1VGFicTE1RWFmaE1aS2Nsc1pNcjVvQklDTElkS0lnNGY4aW10U0FlU0xtNFRZTkNLcUpGZHFRNVl0RU93N3VyMGtfa0dxeG5NVXhTUm9aaVdJbDJmOUFR?oc=5",
-        "headline": "일본은행은 금리를 31년 만에 최고 수준으로 인상했지만, 통화정책 긴축에 대한 은행의 의지는 여전히 의문시되고 있다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/18 15:38",
-        "published_ts": 1789713492.0,
-        "tag": "JGB",
-        "first_seen": 1789713922.1640182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPMUtpeV95endoVkxDRkJYVWxGWVdOcmExeHJXZk1RQWF1LUo0eFJRWjhmUUpGMTJCdHZpYXRwak10bHVnNU4xd0hrVUllUi1kSTF1V2ZoeTllaE56b0FVTkJiYl9hTmk0UENmNl91LU0xWEVLc25JUktHejZaX191Z1lVdnJrR3V0Vnl1Q2ZFZ0RqUHN3UjcxaC1TcXI?oc=5",
-        "headline": "한 가지 기능을 깊게 읽는 내 휴대전화에 있는 무료 슬롯머신 해설",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/18 15:27",
-        "published_ts": 1789712866.0,
-        "tag": "Strategist",
-        "first_seen": 1789726526.3725007
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLV9IR1pIZGU5N0lkdzFCSUpLSmRLSmpVdTVKejI2ZENLQ1I3R2ljRjBuOUp6eFROeHN5WXJrQ1FiWVRaVWE3TDU4eHBNSjlqUWlrY3hSN1A0aUxmWnV1SDBYNy02UVYxMlpWN05CM051emcwNU5Kamd6UWoyTXhOV2NSWE5OYUFsQkFScWhZMjg4b1hRYVBvMWN0TGNuc0pXMlpMdWZrbGFGUQ?oc=5",
-        "headline": "Invesco Core Plus Bond Fund Q2 2026 Commentary (ACPSX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/18 15:25",
-        "published_ts": 1789712700.0,
-        "tag": "Global",
-        "first_seen": 1789717523.505796
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 01:15:50",
+  "updated_at": "2026-09-19 01:31:01",
   "yields": [
     {
       "label": "3년",
