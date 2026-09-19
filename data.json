@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbm9OVVNLOS1NaWRadzl3LVdLTmlOS3Rmc0pGS0VlNWdBYXF5WEh0U3prOEM3UG54SF9aWW9PMnVVTnBJS2RTam4zM3lVU1Ntamc4ZHZhQQ?oc=5",
+        "headline": "연준 3년 만의 금리 인상…다음 주 국채 253조원 입찰",
+        "summary": "",
+        "source": "토큰포스트",
+        "published": "09/19 22:55",
+        "published_ts": 1789826117.0,
+        "tag": null,
+        "first_seen": 1789828192.8516314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Od0pNS0hmbVprUzRRZnlPSXhrZFJPUzVaTnVfRklkbzNlT3Y2MUdzY0g0UVF2LVh0SWVnMmJrYWdOWmxoNmhydnEwa3ZyYlB6YTZ4aFFOa1RDaFQ2Nm5mcTdYREUxZw?oc=5",
         "headline": "발언하는 이재명 대통령",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789439685.0,
         "tag": null,
         "first_seen": 1789440326.8520463
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13a2ROaEQzaE5wRGhMYTNLTC04bTJDWmZnaDY2ZXl4eEJVQ2RDM0JCellJSFlyWTJCOVNSd1cyTnRnYl9YMkxRQnNqYmJ2Ujl1Rm95cTU1ZUVhbFnSAWBBVV95cUxNdmZXd2piUlB5NUR2X2I1YmNHRUx4UVFOZkEzdjh5Z3RMODdNcVl4QXZfSFJnYzdFNGRLcHZTbkJsRXozTnQweG40dkwwMkdnU29HOF9JVmUwWVFoUEVLVko?oc=5",
-        "headline": "\"'재정 비상' 선포하고 관사에 12억\"…시민단체, 추미애 고발",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "09/15 11:33",
-        "published_ts": 1789439612.0,
-        "tag": null,
-        "first_seen": 1789444837.7626534
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 23:15:47",
+  "updated_at": "2026-09-19 23:30:18",
   "yields": [
     {
       "label": "3년",
