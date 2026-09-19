@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVVNlVFUzSE4tQlg3RVk3a0t5cXRscU5OTnFVaWd0TGtJU2U4VmI3UDRUNWtETUZsQ1QwWWdRYnRwNXFIajVyY1lHM0pkX2R0QW1BVlhFWUdkemtYQmV0OG8yRy1ETUxEQTlCN2lPNFRnZVpJODYzNm9KVmE0N2dsVG9UVkI1OXpBaXNsNHpaRkdnZFdjYVE?oc=5",
+        "headline": "Fed Chair Kevin Warsh and the FOMC Just Hiked Interest Rates, and 36 Years of History Make Clear What Comes Next for Stocks",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "09/19 22:26",
+        "published_ts": 1789824361.0,
+        "tag": "Fed",
+        "first_seen": 1789825522.046016
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSXRNSnkyeXhQcGE1Q3d3RlR0U3FQSXRqdE5Wd0Z5OHFwSThuQmFadEZzaVVTSjhsLVNsNXAyLW56cXNmSG9JQnNiX3lIREJISHBaamxXb182WmJfMnhOTGt4SzhDN2pXMGs3akhkT0l3aUNNejdud3VRV2lVcU1feWZIVHhsUjdIN3djVEZXZk1Ec3lvVVk5UFpKNTFuUXVpMjNkX216RVMtV3hPZ09Ib0pleEtGdF8yb1hhbzZNNWNFcjFZb0s1SVctcDdCVmVOQmZvTXlTWjUzY3daVDNIUjBVNW9NeGk4MHJBb3hB?oc=5",
+        "headline": "Ray Dalio Just Explained Why He's Cautious on AI Stocks. Here's What He Said.",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "09/19 21:25",
+        "published_ts": 1789820744.0,
+        "tag": "Strategist",
+        "first_seen": 1789825522.046016
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWDlJd0ZObmFHXzhDZHpieTZzM19yeE5CSExLOWZHUXhnYUJYczFVZ0RvZ0dyNHl5TVNOY1pxb0NuNUpzdmhfd0ItOHRHYzBNai1WTkt0NXFCQ25fVXVpNkpBQ3VCQlBMR19JRzd6amdWRXZuVmdzUm5LM3V1VnVmR3Y0SmYtdU5yUFE?oc=5",
         "headline": "Nasdaq 100 rises 1.7% with semiconductors surgi...",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789743440.0,
         "tag": "Strategist",
         "first_seen": 1789820122.874607
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMFVfd3VPMkFtZ25vc3VxT1JtcTJsZ0VaY29rSkdQSFhOTHV0TU4xM19IaGwzaUJ0WlZ3SGMwdm8wUmhuTlBkcnkyVk5rMmktWE5KT3p5bzdyUHNDUTBYVnVvcEtLWXdaS3pubjZmMm9VUERHeHhZUko0SEpnaW9pRV9ZXzg3Z1JKNnROLXlBWE9yZ3otV1ZhREl6R25SQzNmeHZFTkF0aXhOcGJlTW9UWGJ4LUJuZEw4YUtLbFBwUHVKOXdOVExzWFE4SQ?oc=5",
-        "headline": "Why fixed income is critical for the AI supercycle",
-        "summary": "",
-        "source": "T. Rowe Price",
-        "published": "09/18 23:56",
-        "published_ts": 1789743367.0,
-        "tag": "Global",
-        "first_seen": 1789772435.8295305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00aFlGRzI2eXItSU8yWFVuRnAzSWc1b29tZnFLNzFNLTZpSWN1eUlkVHQ4emY5cDU4Z2d0RVRjRml2YmpZV1ZJb1MtOXV5bUhxSmVTS2ZuaFdMWGc?oc=5",
-        "headline": "Higher borrowing costs hit mortgages and consumer loans",
-        "summary": "",
-        "source": "foxbusiness.com",
-        "published": "09/18 23:34",
-        "published_ts": 1789742050.0,
-        "tag": "Strategist",
-        "first_seen": 1789789526.9252803
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 22:30:53",
+  "updated_at": "2026-09-19 22:45:48",
   "yields": [
     {
       "label": "3년",
