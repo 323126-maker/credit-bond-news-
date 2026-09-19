@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ReEtvczljTjBGRmhnc1U2QVVWcTBkanh3U3FfNlFqMkNOOFpMZlZzSlJmT3Q0UENhcmlHTWxxODRGX0lBMnBmaHB3SjUxdEZxekVyMHByOUU3ekZmajRCMm13?oc=5",
+        "headline": "[포토]경기를 끝내는 2루 태그",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/19 11:04",
+        "published_ts": 1789783440.0,
+        "tag": null,
+        "first_seen": 1789784124.6532753
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUkRiVG1VM29HQzhOY2d4Ui0tMnl0QXpNVWhJRTdvZWF0Z05TbzVidzRseTJBUERxWkVUeXYxdWgzTUpvSWFFd095OHdzT3NsX2diNy1EMDA0b0lMMXlOVVFfSm5xSXpw?oc=5",
         "headline": "[포토]염우진, 전력질주",
         "summary": "",
@@ -40,6 +50,16 @@
         "published_ts": 1789778160.0,
         "tag": null,
         "first_seen": 1789778723.956835
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBBSnhYclNfMnY4SWc5STZkUFpNZ3h5M0wwQW44WHlCQWI1YW9GVGc3dkZMV0RhSjkwUVpGZE56eFJPT0VCb0c0aFh2SlNMcWdwaW1USFdpNDVqYUFPR0U2dThR?oc=5",
+        "headline": "[포토]선수만큼 집중하는 학부모들",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/19 08:58",
+        "published_ts": 1789775880.0,
+        "tag": null,
+        "first_seen": 1789784124.6532753
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05MUZ6LWVVSXREOTNoTHVWaEx2V1lHX0pwSVZUWW5mUHNGZ3g0SzcyQlVKTVNRUGVtbW0wRWg5YTk3MU5SQUxORHQ2Sjd3Vzg3dm5QQkE3NmpnSmQxeGdVUDNIZkp5d3VN?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789700683.0,
         "tag": null,
         "first_seen": 1789707642.1356497
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3b1Fjd2g2RlBZNDFUUGpNTHVpc0NEWnpybFRVX0pLS0trSW54QjUzSXdsMDZ1anFwMk40R0xFaW84bGpGNDNuNld1M0JwMW9TZ2xv0gFYQVVfeXFMTXczWDg1X29xVWlrSjNka1VqaHk5MFlMYTQ0UE54UmhOTGYwbWJvcG43WU1YT1liLVJBOGQ5czc3T0hzcTdNNlBONkZFUjJOYTc0UFZFajRFdw?oc=5",
-        "headline": "[하우머니] 미·일 금리 추가 인상과 채권시장 '삼중 부담'…전망은?",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "09/18 10:16",
-        "published_ts": 1789694160.0,
-        "tag": null,
-        "first_seen": 1789695923.5142934
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51dVRnMGlORzAtbm52QnAxenI3R0FkdU5uaEJfeE44Z3UzXzBZcFNKUDhvdWRzVmJBMkdGZ2hEQ09WSHB5TlZuaUtCcWtUN004SXc5QnhJMWw5MEMwTGFjNg?oc=5",
-        "headline": "롯데카드, 3억달러 해외 ABS 발행…국내 회사채보다 낮은 금리로 조달",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "09/18 09:56",
-        "published_ts": 1789692965.0,
-        "tag": null,
-        "first_seen": 1789693235.1846864
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SmpSX0VIcEo0RS1LdXRPMEhDOEYxZlpQMDl2RTFUZHhLNjlhTnhLV0oyRW1DUFZybHc4ZEIzYmRVZmNXTmltbHRidDRsQ04tNDlrbjFSOA?oc=5",
+        "headline": "“일본, 31년만에 최고금리인데”…엔화 또 추락한 진짜 이유 [디브리핑]",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "09/19 11:00",
+        "published_ts": 1789783200.0,
+        "tag": "JGB",
+        "first_seen": 1789784124.6532753
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOHNXQTVQaUJoZTVCTU1mTlNUU0w5NUhjcFhLWUdaZTh5dEdrSUExMElyQjFYV3c2cFhMajV5R2NOMHpucENWai1rM1VySVFwY3d5SUozZ2pjRWR1Y1o1VzVfa2ZXQUJCbmd0Uy1vUnB4ZDJMQVJIUktGTVE3VUtCY21mejdGaHBOak1icC1B?oc=5",
         "headline": "Federal Reserve raises interest rates despite Trump’s calls for cuts",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789727438.0,
         "tag": "Fed",
         "first_seen": 1789733726.9309266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBENW9FelM0YTk4d0RXMUFGUUlKUmJHNk5YYlltUlRZbGtuX1AwR3FxUXY1eWYwMnNWSXFIeVc3ZUFJOUZoNVIyZ1B3dmNiUzZqRkhOT0F0bGVFZ2xmR19QUGtzc1k4YlNZY2JpcFhqc0FMSDRE?oc=5",
-        "headline": "BOJ 총재, '정책 국면 변화' 이후 도로 비둘기…달러-엔 장중 고점 경신(종합) |",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "09/18 19:27",
-        "published_ts": 1789727240.0,
-        "tag": "JGB",
-        "first_seen": 1789734633.1379986
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 11:01:00",
+  "updated_at": "2026-09-19 11:15:51",
   "yields": [
     {
       "label": "3년",
