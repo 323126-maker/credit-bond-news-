@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWxaUTFrRmdNbkM4ZEt0T3Q5Vk5PTkdFSlJtVXhFSWFyUGh5TzEwNkZVQXZVcjNfYW9nX3NmTkRYQ1NveE9SbFNDNGFsZFBSUDBOaHBJYWc4SzhPeGtZYXhrQXRlcUpZTmdqYUtBZ2tRRDJPUmxCSHV0enhWRV96TFJkT0NKOF9rOTM1ZUNPTlk2aW9QbUNBbFJ3M1JVQUxpNlg4WWt6THo?oc=5",
+        "headline": "Japan likely sold Treasuries to fund record yen intervention",
+        "summary": "",
+        "source": "equiti.com",
+        "published": "09/19 13:51",
+        "published_ts": 1789793469.0,
+        "tag": "JGB",
+        "first_seen": 1789798522.9309413
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SmpSX0VIcEo0RS1LdXRPMEhDOEYxZlpQMDl2RTFUZHhLNjlhTnhLV0oyRW1DUFZybHc4ZEIzYmRVZmNXTmltbHRidDRsQ04tNDlrbjFSOA?oc=5",
         "headline": "“일본, 31년만에 최고금리인데”…엔화 또 추락한 진짜 이유 [디브리핑]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789732685.0,
         "tag": "Fed",
         "first_seen": 1789732840.7072566
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQVczb29LQm1EbVd0ZUZ6UVpobTVpY2lOd3ZwZWFBZHBKcmo3Zi1rNnpoRU42SFU2S2RJZVJFdnlNbkxtQlpzVnFOZ2xfTXp4cWhqSm9lSDV3QmxocFlrUXA0ZWlkOTY0V2U0MjdRVVotUEtBN3hWWGZiZzFZUkJYc3kwcVc3OHhEdWlvZlFYckxDUktEYUw5UjR3VVJDZw?oc=5",
-        "headline": "워시 美연준의장 후보 \"대통령 금리발언, 연준 독립성 위협안해\"",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "09/18 20:41",
-        "published_ts": 1789731714.0,
-        "tag": "Fed",
-        "first_seen": 1789750838.539429
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 15:00:59",
+  "updated_at": "2026-09-19 15:15:47",
   "yields": [
     {
       "label": "3년",
