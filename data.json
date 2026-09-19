@@ -1810,6 +1810,16 @@
         "first_seen": 1789793123.8344476
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaUo2NVY4c3UzcU9VeDBvMHZ2bkI2bTJsUEkxeW5HNHBQZ0ZkNXgzZlVqekJKUHFpSDZ2ZTAwZERVTmttV1ZJY0tBSllxaE9vN1poTG9sNWZFcVZXSlVxdkRwanpuaTF3VFRHbm1ZQ3MxeEdzQlNpa28tUnRSMlFfLWpvXzJjUURRMno0X3VaOUtENmNiQ1NvSEk4Xy1xdGZNbWV6RXdsNTl6ZURJbGhXcF96MUxOQk0wM0YwWkN3SnIxdHNyWjB4YjNn?oc=5",
+        "headline": "Bank of Japan Raises Rates, Making U.S. Less Alluring for Tokyo Investors",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/19 09:47",
+        "published_ts": 1789778862.0,
+        "tag": "JGB",
+        "first_seen": 1789851635.0588775
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0VFTjdNMEVndTFEcnZZOEIwTGt3LUFUaHhRbVdnWkxLQW1ROTM3VFNqdkNaRDBlZnNhaGhZam45eXB4dHZHekNTZjdFb1hSRDl4NzU0ajNBdlNnTXNueFlqNHNLal9wRUlrOGs5TUVNMkhGSTlURzNYVTBESVQ4RlZuNTVBdTl5aTRIZGVuWmNwYVI0VFNRb2JpUjRjcWgwNGRPR1FxRm1VWGRIRVhOWkJzU3dhSWxPdjhaNHhIOHV4NlRkaDN4R3hubGV0ejVJcFVvM25vaw?oc=5",
         "headline": "Jamie Dimon Warns Economic Risks Are 'Shifting Below The Surface' Like Tectonic Plates As Wars, Sticky Inflation, And Debt Loom",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789749223.0,
         "tag": "Fed",
         "first_seen": 1789749926.4130137
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQSkVOZHRhdW56VEp2UHF4ZDR1dm5mb2hfNmJreUFDS1FUVTlFVHkwQmEzcVFhQzVaY29JRnpFdHNpUXBBZXpyZnhxR0NSbWsxclZMcWNKVTRGVnd6MU1fMFBoNWwwUllubGROQVc3Q2dkTFBNVFVVMGlsMktBOTFWek1rZ0F2REMwOGtQRVRVSkpjeV8yUGlVT2pycDZHZHdfRFlxLVZkSGFVdWdzZVk4eVFlekh0TnlMTzl1Q3RKa0h6a090N3dpZkxtSERObS1RZ2VQb2tDbV8?oc=5",
-        "headline": "Fed Chair Kevin Warsh Holds Press Conference On Interest Rates",
-        "summary": "",
-        "source": "The Berkshire Eagle",
-        "published": "09/19 01:24",
-        "published_ts": 1789748640.0,
-        "tag": "Fed",
-        "first_seen": 1789754443.843921
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 05:45:46",
+  "updated_at": "2026-09-20 06:01:01",
   "yields": [
     {
       "label": "3년",
