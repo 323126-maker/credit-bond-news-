@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTmpNZlp2MVc0X3BWNC1XRnY5TDZ2UTZGTFNaRzk4bmNTd1o5OFItc0czOUhoSVdfSXhNZ3g1aVBBWXdFaGRJUzFuN0swa3ZnLVVUU0FKUEsyU2M?oc=5",
+        "headline": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/20 06:30",
+        "published_ts": 1789853401.0,
+        "tag": null,
+        "first_seen": 1789854050.5840166
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBobWs0M0RqM01aMXJOdVZiNWM0NnRkc3prbUwzN3ZlM0FtMHM1Zk1ld0dJdDRkeTZOYUFqMVFLOE9FMGVmU1BONk9wMHJFUlNOaXBla1JTdnVPV2w2VllOUGZfR0lLZ1p3WHZKMnV1bU5zTzQ?oc=5",
         "headline": "“미국 금리 올리자 환율 1380원대”…내 대출금리에도 영향 올까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789461667.0,
         "tag": null,
         "first_seen": 1789517725.6341195
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDZW55ZDRtS3BWLTBpeFVrQXl3TGYyVlBVUFRMalcycnVfbVBSS0x3WF8zckRxWmZESzZwT192cjdXTmtQZVhqTGI1d2FVTk9vZTFHOWJvY1NMVGtpYnpzXw?oc=5",
-        "headline": "美 국채 10년물 5% 돌파에…국고채 금리 연고점 경신(종합)",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "09/15 17:22",
-        "published_ts": 1789460567.0,
-        "tag": null,
-        "first_seen": 1789474525.1753175
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 06:30:52",
+  "updated_at": "2026-09-20 06:41:16",
   "yields": [
     {
       "label": "3년",
