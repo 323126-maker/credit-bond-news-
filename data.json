@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRGk5eDBLeXNuSHR2TDZqYVo5VTZCVHo3MFFzRW9xZHdqcjljZXpSYTFNRy1zaDlDTFpVbEdrMTRfbEhEQ2Z3c0trVC05b00wRTNHeURqdUp4amZMU0ZXY093?oc=5",
+        "headline": "[포토]이여준, 치열한 홈승부",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/19 11:35",
+        "published_ts": 1789785300.0,
+        "tag": null,
+        "first_seen": 1789793123.8344476
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1wa2dOZ28za0lQVWZmZlkycTR2aTZGcDZDWk1mSnlnaUJTeUhoSGk5bktGV2Fkc3VsM1hwanJqOU9ZVS04bkh3UklhMVpsdlN2cXAzSWRuQ3l4TXlXaHE0cjZ3?oc=5",
         "headline": "[포토]이여준, 과감하게 홈슬라이딩",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789717326.0,
         "tag": null,
         "first_seen": 1789718441.7857172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEpzSXFyOTNITVhoV0twbGFGQ19OaDJ1NGtwUDNscW9RejZyeERrU2lSUzZyWGxtdlg3U2g0XzVkNW1uTEI4RjNYendFcFo5Z21HdXI0STg5Wk5fMVYwcUtUdjRkYWswU1JNT2daU3F2WmdKdlpYM3BJQmpHbFJMZDV3aURzMjcwbTRmLUlPTExlQQ?oc=5",
-        "headline": "베트남 증시 등급이 상향 조정되었으며, 100억 달러 규모의 외국인 투자 유치가 예상됩니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/18 16:20",
-        "published_ts": 1789716045.0,
-        "tag": null,
-        "first_seen": 1789741831.1731043
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1789784124.6532753
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGtnUWNxbHlSMGw4dnpvdjJWN3lBcTE4b2h4amFHY0J4QlI4NmhRZks3QnN5U0tUN2NKaFBLMndiT0VpSGhJNFlnanM2aDlBN0RJOW91ZVZfUjJUSG9IOFEtX0otNWVXOE9vWVE0NzdhRHEyUkVsaWNocWNDeDlCZUNIdFoxdG9sT2dKcVkzVnpra1BBamcycnQ4WVgtTmkxRXIwbVpPejd4YUpVZGNDcm44RjFqQ00zOEhzVHlRaw?oc=5",
+        "headline": "The Weekly Spread: What Shaped Yields And The Dollar This Week",
+        "summary": "",
+        "source": "TradingView",
+        "published": "09/19 10:33",
+        "published_ts": 1789781580.0,
+        "tag": "Fed",
+        "first_seen": 1789793123.8344476
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPY0VFTjdNMEVndTFEcnZZOEIwTGt3LUFUaHhRbVdnWkxLQW1ROTM3VFNqdkNaRDBlZnNhaGhZam45eXB4dHZHekNTZjdFb1hSRDl4NzU0ajNBdlNnTXNueFlqNHNLal9wRUlrOGs5TUVNMkhGSTlURzNYVTBESVQ4RlZuNTVBdTl5aTRIZGVuWmNwYVI0VFNRb2JpUjRjcWgwNGRPR1FxRm1VWGRIRVhOWkJzU3dhSWxPdjhaNHhIOHV4NlRkaDN4R3hubGV0ejVJcFVvM25vaw?oc=5",
         "headline": "Jamie Dimon Warns Economic Risks Are 'Shifting Below The Surface' Like Tectonic Plates As Wars, Sticky Inflation, And Debt Loom",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789731714.0,
         "tag": "Fed",
         "first_seen": 1789750838.539429
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOdDdGMnQ1U18yTjVWQ2dJTHJ5M0trSmZRbHBSVHlfd1M0M0NFSkcxckp0VVc5QUxHc19Hamo0VkZoc0xQSWU2cXQtT2NTa2c5Q1BCUVhKQm1HUDJTSUZ3LUM1ZDI3ZUlvNU1OVFNTTXhjc1B0aVFtVnlVbGc3MnpWQjg1MXlkX3YwcnpIcW1lZ0haajkwajYtUDhVY1dRdEJ4VE9n?oc=5",
-        "headline": "CoreWeave Stock Falls Below $80 as Debt and AI Risks Build",
-        "summary": "",
-        "source": "The Market Periodical",
-        "published": "09/18 20:34",
-        "published_ts": 1789731240.0,
-        "tag": "Strategist",
-        "first_seen": 1789779636.2788813
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 13:31:01",
+  "updated_at": "2026-09-19 13:45:48",
   "yields": [
     {
       "label": "3년",
