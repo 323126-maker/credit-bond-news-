@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iN0xQN2UteEtOdHhTeHFLREh1SExkZmNiX1d2TEdRdFQ3WjlkWElpYWgwSVByNjQ0ZjA5ZTE1aXRSSDl2QzNCRk9uMm9DYlhMekl0Z25sczhSQlVSYWRhZ0IwVG12Z3hMRnZISk80VUgtWFpwU0pELUlFTQ?oc=5",
+        "headline": "The Case for Federal Reserve Discretion",
+        "summary": "",
+        "source": "aei.org",
+        "published": "09/20 06:52",
+        "published_ts": 1789854727.0,
+        "tag": "Fed",
+        "first_seen": 1789855236.1138709
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTmNrZ0ZKd3pYVXB3ckVhX0JBQnZrVzZhYnFIVTFkcU9aQV9MMjN5R1FUSWNVQkt2SFZmZGFSRGdrMEE2S3JUU2VRemtzQi0xZG9POHh6QWV5X2tGRDMzRng4NFdNMjIxN1BlRXk1bmlUZDJSOWF0NFI0YWpJZ1RkaVQ2SVJRNnRobnc?oc=5",
         "headline": "Yielding from the differenti­als TWO OF A KIND. With government bonds falling in major global economies as yields surge, their currencies too will start reflecting this. Here’s how and why the changing yield di erentials will matter",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789751884.0,
         "tag": "Global",
         "first_seen": 1789752630.7362707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSXdfWXNIMEY2YkdDSGh2cWVONW03aXdjUFFuUGV5cmswQnNjQlgzNTJTWTBiM3ZnZmY4Wl95MmRYOGFyeDB6YjJwTTdDdk94QU1jendxcHZxemF2dExzdFh1WWwzeE0tMTdnWUFLWUhqeTdUMm9ORG53UGVoaU1zSVhVU3hkV1RNaDNqNmNjMVo2VUVteXR0NnE1dHZUZGo2WUZUMWNYdzlnR3FGcWNrRlhqU0hUX21VUUI4aE50bUFmb2tVdDZMMldYNG_SAdIBQVVfeXFMTy1qakhvTjZoRU1JZjNhZDFtUjN3cWg5N3JmQjQ4RnpsZGFUVW5pVWFOOXdlWDhnMjBMRzN2SnBObjF2OTBTTGZCWW5sX3NheHNjVHhEY2NVVkt5YXU2S1AyNFRRamM1UXhYN0NWTGUwOHRTc0hxVVdMT0xITXZXN05MZ01jOGdIU1pfVTkybXMyY081a1hIYUtqTWFKMzdFVXIwYVZmT19PbXlOTzNIenN1YXhKY1RvTkd2SkctZ01VOGVFN0p0bTR5X2RTQ1MyVlhn?oc=5",
-        "headline": "Three words from Kevin Warsh have Wall Street wondering how far the Fed will go with rate hikes",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/19 01:33",
-        "published_ts": 1789749223.0,
-        "tag": "Fed",
-        "first_seen": 1789749926.4130137
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 06:45:46",
+  "updated_at": "2026-09-20 07:00:59",
   "yields": [
     {
       "label": "3년",
