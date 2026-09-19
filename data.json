@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPUms1Wk9OTlcyWGtESU5xdWNIdFBKWTlIVXVWVmJhX0ZqaTUwelJ1QlZ3aEhxZGp0RndHeC1ZeUpoZ3lCZUFRMkpDUGxfOV95blZ4T2RyZWFGcWExWl85anpB?oc=5",
+        "headline": "[일간 이정후] 빅리그 진출 3년 만에 두 자릿수 홈런…시즌 타율 0.274",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/19 14:18",
+        "published_ts": 1789795080.0,
+        "tag": null,
+        "first_seen": 1789798722.7409284
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRGk5eDBLeXNuSHR2TDZqYVo5VTZCVHo3MFFzRW9xZHdqcjljZXpSYTFNRy1zaDlDTFpVbEdrMTRfbEhEQ2Z3c0trVC05b00wRTNHeURqdUp4amZMU0ZXY093?oc=5",
         "headline": "[포토]이여준, 치열한 홈승부",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789719060.0,
         "tag": null,
         "first_seen": 1789719326.2780602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZRzUyWXJCdElUVW1YUklubU05NVhyUm5sUHJpY2FtaGhjSHJhUUd1Snhud0VDSFlqSkRyVnVpeTBvc1Z5TloweEN0a0FNOUlVZldXZFNHQl9QbUF1aUNFc2pudS1yWDNyVVEwQmZkLVdPdw?oc=5",
-        "headline": "[채권-마감] 강세 플래트닝…BOJ 금리인상·外人 폭풍매수",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/18 16:42",
-        "published_ts": 1789717326.0,
-        "tag": null,
-        "first_seen": 1789718441.7857172
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 15:15:47",
+  "updated_at": "2026-09-19 15:19:11",
   "yields": [
     {
       "label": "3년",
