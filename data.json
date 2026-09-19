@@ -42,6 +42,16 @@
         "first_seen": 1789788629.2008295
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1KS0s3OEt6WFhyOWg5TVhOWGlmUFZiYW5ORnlBb0hHcnp4M1dtekotZHA2SEpwLS1oVDQzblBIYlNFODNBajlXTHNVeGtZaWhldFpESHhxYk9WQ3NteUpSV2dn?oc=5",
+        "headline": "[포토]허예준, 1회부터 '내가 해결사'",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/19 10:06",
+        "published_ts": 1789779960.0,
+        "tag": null,
+        "first_seen": 1789789526.9252803
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQUkRiVG1VM29HQzhOY2d4Ui0tMnl0QXpNVWhJRTdvZWF0Z05TbzVidzRseTJBUERxWkVUeXYxdWgzTUpvSWFFd095OHdzT3NsX2diNy1EMDA0b0lMMXlOVVFfSm5xSXpw?oc=5",
         "headline": "[포토]염우진, 전력질주",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789716045.0,
         "tag": null,
         "first_seen": 1789741831.1731043
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KcnlzeW5UUmhqUl9tdk1fVzBZYkFKQ1JXdk5wUEgyRUkwUDlnY2lxQk4xX0JlMVFqbEd3aFFKdzJVTnNtMHVHZVNOUHpINWsxcVl4anVOQVMxVkRiNEx3Q1VWZ3JlRzlJUTRQaDFMSDIxQQ?oc=5",
-        "headline": "스프레드는 견조한데…회사채 금리 4.7% ‘천정부지’",
-        "summary": "",
-        "source": "마켓인",
-        "published": "09/18 15:35",
-        "published_ts": 1789713324.0,
-        "tag": null,
-        "first_seen": 1789713922.1640182
       }
     ],
     "perpetual": [
@@ -1850,6 +1850,16 @@
         "first_seen": 1789772435.8295305
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00aFlGRzI2eXItSU8yWFVuRnAzSWc1b29tZnFLNzFNLTZpSWN1eUlkVHQ4emY5cDU4Z2d0RVRjRml2YmpZV1ZJb1MtOXV5bUhxSmVTS2ZuaFdMWGc?oc=5",
+        "headline": "Higher borrowing costs hit mortgages and consumer loans",
+        "summary": "",
+        "source": "foxbusiness.com",
+        "published": "09/18 23:34",
+        "published_ts": 1789742050.0,
+        "tag": "Strategist",
+        "first_seen": 1789789526.9252803
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjhkYlBPcTNHR0h2RlVNMXhXNTcwRWhzTG55RTBNX0t1YXBFY1QxX2dBR1h6LUpmdXU1WGFZLTFHM2thaXNMcWM5Z0JRbkV4WC1qRDZzenVYRno4QUpVLXFpUlZpTVUtQmpERlJzaDlfV1Z1bk5DTU1jMHk5STR4c3hRMjZxUW9OZmxzWlp0VnRyaHF0Z25peEpOV25qbHRUQVJGM0EzenRCMjJzYXA4Ug?oc=5",
         "headline": "The Big Question: How are you positioned in fixed income for Q4 amid the global bond sell-off?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789731240.0,
         "tag": "Strategist",
         "first_seen": 1789779636.2788813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE02QUlvZlAzRTVlSXdiZnFWWEgyaWE0dUFyWmJPZTV5c1dJZHdNUGkwRGhrdUE0LVhBQWNfSTVURDF0VnNMMzY1b0owWVNpaUM5bGppanNXQnQwamd6V0FIOW5KTUVMYmU0aWJrV0ktOTktSGc?oc=5",
-        "headline": "BoJ Hike Fails to Stop Yen Slide",
-        "summary": "",
-        "source": "nai500.com",
-        "published": "09/18 20:18",
-        "published_ts": 1789730326.0,
-        "tag": "JGB",
-        "first_seen": 1789731032.1565194
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 12:30:55",
+  "updated_at": "2026-09-19 12:45:50",
   "yields": [
     {
       "label": "3년",
