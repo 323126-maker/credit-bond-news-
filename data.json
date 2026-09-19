@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTmpNZlp2MVc0X3BWNC1XRnY5TDZ2UTZGTFNaRzk4bmNTd1o5OFItc0czOUhoSVdfSXhNZ3g1aVBBWXdFaGRJUzFuN0swa3ZnLVVUU0FKUEsyU2PSAWBBVV95cUxQdVJkOTRTWTl2ZVcxaUNaMlhucXJRT3h4V0F0ZGdCQ3k4SVJIbElrZ19qWS1kVUlEVXEwZkpIcVM2dkkxRjZBbi1ndy1DMjZnWE03YXZ1VHJrajV3ZU0tTTk?oc=5",
+        "headline": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/20 06:30",
+        "published_ts": 1789853401.0,
+        "tag": null,
+        "first_seen": 1789860631.5043628
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObi0zd0JqcE5jQlFFMmlnbHhXeWpyT1dlNHpyLUpEMU85X3lreFdGOFVQOGh5RzZBUXVVT2QtY2FDQ0s0elc2WUJRLXlVRG9UNjBzYVJxVWRvTk00YVN1d0w4Tlk5WFMzNDNaZGFKYkF5ekl6LUU3N2MtOHU3dVhhdE1tWHd4UEQ1eVpIdDlOYWNZRkpFZS1Wai0zLVROaVN2eFlXR01CZVlSME9MYkw0TWhpNHl5STBhSk96OUlWbFo2Y1dad1NLTENBei1IMmZJVktkNXBVdVhEczhlekFnbEphbw?oc=5",
         "headline": "아마존, 500억달러 채권 발행…1260억달러 몰려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789762680.0,
         "tag": null,
         "first_seen": 1789763429.9334881
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9RLVI5c3IzRThoODc1V19RWTZhay01MzBOaUVOdktfdXIwSG9mWkppdm5TczFnSDQ5QVZ3SFFYTTRQNFJmZm9TdVhZb0FnbFZMOWlmNEI0QXlsV1NDalpySTZjNFFBMXRfdmxOTUNqYnNQZw?oc=5",
-        "headline": "[뉴욕채권] 베어 플랫…엔저·유럽發 매도 속 '5%대 정책금리' 전망 등장",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/19 04:46",
-        "published_ts": 1789760778.0,
-        "tag": null,
-        "first_seen": 1789766122.8988564
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 08:15:48",
+  "updated_at": "2026-09-20 08:30:59",
   "yields": [
     {
       "label": "3년",
