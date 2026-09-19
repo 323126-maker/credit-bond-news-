@@ -1258,6 +1258,16 @@
         "first_seen": 1789709429.3628762
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZjd3R1R2MWM3cmpHZmlaZFdqUDdTbHRXSHJGNldqUEphZDdUVFlNOFlieFhzS0pfZ3c2cENFS19WUWhONjhTbGlaMWNGaUZEeXVRR282S3NXaDJ6MnBpX9IBeEFVX3lxTFB1a1N1RTRRQzBHMS1oWkdCYkJDMjdKdGUxc0JROEFDTVczNGxmb0VsQXlzbUhUR3piZnZSNWlmbGFfWEZCSXdLWE1zOGtjZV9XeEhEWllNNk1peEt4ME0xNk0wN25yeWgtSjBGclR6ekJYZFZBSnlaag?oc=5",
+        "headline": "[전문]이재명 대통령 기자회견 모두발언",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "09/18 10:57",
+        "published_ts": 1789696637.0,
+        "tag": null,
+        "first_seen": 1789809322.3880904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1tNXlJbmJOTzc1ZzFLWFdvMHF0WS1CU2NWT3l0d2J5UURqTEp4cWJzWXJjMHJHU0NsR2tKWTNTZTdDSUsxZVZNUEZSNURHbkNyQUpiODI3OHNoZVltX05CZzNwaWtoTk11VlJfeTZ3?oc=5",
         "headline": "임이자, 정부에 적자국채 발행 축소 촉구",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789439160.0,
         "tag": null,
         "first_seen": 1789439430.74924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLckJnNmZ2QXhpbFdGMVhwU3dFQlFVdXdmRzRuUzlzamF1OTNxRnlEblo0bXAwWXJFdWtkM2w0bUdRT2dCQklaMTlfb1lZWGpkSXVsRG0wYUtUM0tMSlZwVw?oc=5",
-        "headline": "발언하는 이재명 대통령",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/15 11:24",
-        "published_ts": 1789439086.0,
-        "tag": null,
-        "first_seen": 1789440326.8520463
       }
     ],
     "global_bond": [
@@ -1628,6 +1628,16 @@
         "published_ts": 1789791834.0,
         "tag": "JGB",
         "first_seen": 1789805726.5564268
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjRrS0pVRmRURXY5TWVCRGFkb2tXU2F1UWtpT0JmdTFZZmUwUWR4bXRjai1SSE1NQWJmOE5EUG5janc5ZVhsaGtYU1V1MnhBTW1xdVg4bEpQUEJFeGpWandkdjd2V2NKMTJmc0xNYVphUzRvM0FHdHU2SXpiWWtaRzFJNW1zWEJIaExSRnpObk1VVjhlMXFJV3NSSjYyb3NaRVNjZGhldWdUNkk?oc=5",
+        "headline": "Food prices present fresh risk to global bonds after selloff",
+        "summary": "",
+        "source": "Moneyweb",
+        "published": "09/19 11:00",
+        "published_ts": 1789783233.0,
+        "tag": "Global",
+        "first_seen": 1789809322.3880904
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SmpSX0VIcEo0RS1LdXRPMEhDOEYxZlpQMDl2RTFUZHhLNjlhTnhLV0oyRW1DUFZybHc4ZEIzYmRVZmNXTmltbHRidDRsQ04tNDlrbjFSOA?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789734600.0,
         "tag": "Strategist",
         "first_seen": 1789735524.2773523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWWl5SWxBbFdfOHJSdTk0dFF6d1UwQ1Iwc3lCLURwaGZaMmdkeGVQZUhpSEhoV2lOZnFfVnR0RzFwaklsMVVDV2ZJUE9DZThNbWpkOHQwUHg1U1h5Ymc2NzRPMElZYTdTUkpEYVhONkVJSGpLS3ZuQWVfMDcwcmRyamI0cHpna0pvM1ZhRVZjLTVYSG52U3JyRlo1dnVQZw?oc=5",
-        "headline": "Goldman Sachs: The five major tech giants may issue bonds totaling up to $420 billion by 2027.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "09/18 21:26",
-        "published_ts": 1789734360.0,
-        "tag": "Global",
-        "first_seen": 1789737325.2236805
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-19 18:01:01",
+  "updated_at": "2026-09-19 18:15:46",
   "yields": [
     {
       "label": "3년",
