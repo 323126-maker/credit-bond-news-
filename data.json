@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9KRzViNlFZLXJPMnhmQ1pwbzUyRTNEbjJ5bEx2d2FWVmdSQ1JmTzM2Q1RnNUNSckdqN0FmdmlvME5hTFRNTllRWWE0SXc3S003ejN3d2N3THluMDB5Sm96US1veFJicTJON1dF0gFwQVVfeXFMUGljb2NPbHYyVC1uZWpYdHhKS3hDOFRIUWMzV1RVZDUzSml0UW9tY1ZYaE1BeE5lLUtlUThiQjd6V3ZoRzBEdi0xam9HT1EyTGhDTXpDTllMdU53WGlLTXpDV2djVVA4UnBDZ2ZtSUh2eA?oc=5",
+        "headline": "삼성 빼고 다 줄였다…회사채 대신 은행 찾는 기업들 - 머니투데이",
+        "summary": "",
+        "source": "mt.co.kr",
+        "published": "09/21 04:30",
+        "published_ts": 1789932600.0,
+        "tag": null,
+        "first_seen": 1789933534.227871
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE45bEV5YU9lX2tUZ0p1d3drN1ljY2lDUmNSZ3JISV9jendseUREUm85UVdaaG5nbDlzVWFaVE5qc25rTWRhektsX0VuV0JXN3Z2RThISEJ0bEtqc0VUeWQ1ZVFiaWUyVUk?oc=5",
         "headline": "[김대호 인물] 오라클 엘리슨... AI 아픈 손가락 \"실리콘밸리 악동\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789795080.0,
         "tag": null,
         "first_seen": 1789798722.7409284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWRGk5eDBLeXNuSHR2TDZqYVo5VTZCVHo3MFFzRW9xZHdqcjljZXpSYTFNRy1zaDlDTFpVbEdrMTRfbEhEQ2Z3c0trVC05b00wRTNHeURqdUp4amZMU0ZXY093?oc=5",
-        "headline": "[포토]이여준, 치열한 홈승부",
-        "summary": "",
-        "source": "일간스포츠",
-        "published": "09/19 11:35",
-        "published_ts": 1789785300.0,
-        "tag": null,
-        "first_seen": 1789793123.8344476
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 04:30:56",
+  "updated_at": "2026-09-21 04:46:00",
   "yields": [
     {
       "label": "3년",
