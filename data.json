@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmJTbTZHM21VUVdZYkNmQk42azQ3eGI2c0EtOXFaTTdIeHJHUm8yYngtMy05cm1GM3BBQ1dXaF81Q0E1djJqcU1fSE16cU1MektjUDUwWVF5aWlUSXcwMHhmTk9YNlJBaFUtVk1qaW1kb3htUlhsV1NDS0h3d1preG9QcWJ2UU0zVmhRcTRSSExSWThDX2JSZ1o1MkZ6N1F0ZUpndA?oc=5",
+        "headline": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "09/20 22:00",
+        "published_ts": 1789909200.0,
+        "tag": "Strategist",
+        "first_seen": 1789910121.6677175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc09jeUJxS19Hckp4cnBQNkRLZVRrYnJTeUs1bHJYS05ua1hXd1A5b0FjbUNZMkhNQ3RVZGQtUndhaWM2dGdYUjN2NnhMVXRTczVodWMwYzVuS05SaGFFeV9NYlo4cVRBaUdCR2xFMmpncDBMVHY0ajVfOU85RTRhZ200SlQwLU1hMjFj?oc=5",
         "headline": "Scott Bessent ran George Soros's London office during the trade that broke the Bank of England",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789783200.0,
         "tag": "JGB",
         "first_seen": 1789784124.6532753
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeGtnUWNxbHlSMGw4dnpvdjJWN3lBcTE4b2h4amFHY0J4QlI4NmhRZks3QnN5U0tUN2NKaFBLMndiT0VpSGhJNFlnanM2aDlBN0RJOW91ZVZfUjJUSG9IOFEtX0otNWVXOE9vWVE0NzdhRHEyUkVsaWNocWNDeDlCZUNIdFoxdG9sT2dKcVkzVnpra1BBamcycnQ4WVgtTmkxRXIwbVpPejd4YUpVZGNDcm44RjFqQ00zOEhzVHlRaw?oc=5",
-        "headline": "The Weekly Spread: What Shaped Yields And The Dollar This Week",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/19 10:33",
-        "published_ts": 1789781580.0,
-        "tag": "Fed",
-        "first_seen": 1789793123.8344476
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 22:00:57",
+  "updated_at": "2026-09-20 22:15:47",
   "yields": [
     {
       "label": "3년",
