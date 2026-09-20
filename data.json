@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aS3ZHSzY4VzM1dk9QRTBuUTdjdmRJcXVMTWZnM0V4SlczY3ltVHNzMlZjUXRmbUxCVGxPZWJwU0ZwTVlwRXdKOUhGbHNZUnB1dlpFU0Uya1kyNGhlV1FPUVRJU2dvU21UQmY4RkRSWlNOeHlD?oc=5",
+        "headline": "美 10년물 뛰면 韓도 70% 영향…주범은 프리미엄 아닌 ‘정책기대’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/20 12:00",
+        "published_ts": 1789873200.0,
+        "tag": null,
+        "first_seen": 1789874125.9195144
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oME5SamZzU2dwZEt6Vm5rUEs0Y2VkNUtMN3J1SHI4VkVLXzFHNzJ2dFFRMWk0bVRBSVowOS1ScUZDNGRNQWpuZTljRm1CTEJMZ2Y0bm5kS1FEUEk?oc=5",
+        "headline": "美 금리 올리자 은행채도 ‘들썩’...주담대 다시 7%선 겨눈다",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "09/20 11:13",
+        "published_ts": 1789870389.0,
+        "tag": null,
+        "first_seen": 1789874125.9195144
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZUDVNWTVXdS1ETE4wRzZUNmRXTE0ySUd0QlNQeFpjQVZFdk1LUGpRR1VNZ2NXdTh2YjVCOEFkOFBJMnBiWjM2cl9jSHhXbE5Qa3BkaWhReW00QzV3UTBFUGtXODA2Qy1kQmpaZWVZSdIBb0FVX3lxTE9ZUDVNWTVXdS1ETE4wRzZUNmRXTE0ySUd0QlNQeFpjQVZFdk1LUGpRR1VNZ2NXdTh2YjVCOEFkOFBJMnBiWjM2cl9jSHhXbE5Qa3BkaWhReW00QzV3UTBFUGtXODA2Qy1kQmpaZWVZSQ?oc=5",
         "headline": "집값 따라 대출 키웠더니 금리까지 ‘껑충’...차주 부담 커진다",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1789521489.0,
         "tag": null,
         "first_seen": 1789646436.4123623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBtT0ljNEtjVUxfV21RU0lqTWM3TUxDWEs4NDJkZHZHN1dkSHFnU1NMWnNyT2ZvWDJVVFBtemMtc002TndvanVSLTBPdUZPei1PSlBIYTIyYlNVZjA5dWxEanJnTlBlTEVYVGlGUGZUONIBb0FVX3lxTFBtT0ljNEtjVUxfV21RU0lqTWM3TUxDWEs4NDJkZHZHN1dkSHFnU1NMWnNyT2ZvWDJVVFBtemMtc002TndvanVSLTBPdUZPei1PSlBIYTIyYlNVZjA5dWxEanJnTlBlTEVYVGlGUGZUOA?oc=5",
-        "headline": "[자본시장포커스] 유가 덫에 갇힌 중앙은행…자본시장 신용경색 '문턱'",
-        "summary": "",
-        "source": "한국아이닷컴",
-        "published": "09/16 08:48",
-        "published_ts": 1789516112.0,
-        "tag": null,
-        "first_seen": 1789766122.8988564
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRDRlRFJVQmRka0xUcnI3UVZkTVIyM3NaZ21PNXNZSjhvZ09rVS02dkEyRUR1c1FSUlZkNEFfZjVLc0VBaTAybnRhcUt5dnlhVzNGalRvcE8xYkJCNUpvRU12c09hVDJxb0N2RnJsZWQ5UXZ5U3lMa3lNaHV6Rld2dg?oc=5",
-        "headline": "[사설]美 국채금리 5%, 다시 비싸지는 세계의 돈값",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "09/16 05:00",
-        "published_ts": 1789502408.0,
-        "tag": null,
-        "first_seen": 1789635637.6028883
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 12:01:06",
+  "updated_at": "2026-09-20 12:17:06",
   "yields": [
     {
       "label": "3년",
