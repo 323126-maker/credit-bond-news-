@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vZWs3WkhNSDByZXpnVG5FUEFVMDY1LS1ZZTRUOVZMbUpIOVRQUDBxcmFIZ2drWExjQmdfMkRBb0RRbnNoUFFTdU9lQ19aNVA0cmFxLWxZaDN2Z1JfOXVKMEh3?oc=5",
+        "headline": "[포토] 1학년 리그 우승, 스포츠 몬스터",
+        "summary": "",
+        "source": "isplus.joins.com",
+        "published": "09/20 12:04",
+        "published_ts": 1789873440.0,
+        "tag": null,
+        "first_seen": 1789877724.5078287
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5JZDR6ZnVsSWxDa3p0VnVybVVRdThlYlU5Mzl5NDlpdUo3dDNvX3FCRWFVSUMxSFI5U0ZkVmNqN01iaUc2bldxNGpmSEMxQm1aTjk4bFF0QUFGbThmdWZSU3pn?oc=5",
+        "headline": "[포토]박준이, 정확히 배트 중심에",
+        "summary": "",
+        "source": "isplus.joins.com",
+        "published": "09/20 11:56",
+        "published_ts": 1789872960.0,
+        "tag": null,
+        "first_seen": 1789877724.5078287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1TUG9pME9mQ2MwbzJUS3dha0ZaSFhCZS1oNzlwcmFzR3A5OGFFQlFxY0dtaDVkRnlILVZHYk9nZnM1Z0RaLXNrd3JkZGY1a0JSSTlIR2dPblJkNnUyM2tNNWZB?oc=5",
         "headline": "[포토] 끝까지 달린다",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789775700.0,
         "tag": null,
         "first_seen": 1789776040.8151402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ONEhfdDBkN0NqRVNWaG9nYWNxSllSeW9nTUo4TGRfSy1NN25MZXV1Y25pMUx1MUNHb3NyTC15SDBnRWtWdjlCejc5SDdTMmxfdVRhOTFzY05kV096VW1RWVRR?oc=5",
-        "headline": "[포토]제1회 일간스포츠배 전국유소년 야구대회 개회",
-        "summary": "",
-        "source": "일간스포츠",
-        "published": "09/19 08:53",
-        "published_ts": 1789775580.0,
-        "tag": null,
-        "first_seen": 1789778723.956835
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOc3hhU192VTk1SEhxYU9pQmpTR2JSMFpjV0dQV2Jsd18zSjltRXh6TDNGRDdUY0hnV0hOZUxjTVpVVGllRHFwcXlUYmxUMHBNanR4aURLUy15QTNLYWc5eE5OM2lJcTlHeTUyWnlUVXhiSE93NVZmTHJiRGNtbVktVUR4TjBsQzByZVBMWEpIYw?oc=5",
-        "headline": "미국 증시는 금리와 에너지 가격이라는 이중고에 시달리고 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/19 08:29",
-        "published_ts": 1789774170.0,
-        "tag": null,
-        "first_seen": 1789780524.8075342
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 13:00:59",
+  "updated_at": "2026-09-20 13:15:52",
   "yields": [
     {
       "label": "3년",
