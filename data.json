@@ -1208,6 +1208,26 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNnVTSG5SZDMxVzNsU04yaUV2eHZ3WHpla0VWQ3lSWEZtZUtCTVUwdkZDX2hWcXdfR1Z5VTdwTUFod3U3cWtPLVdqV2VXUEVzcXVkQXBDOUdwRHhsQ2Z0ZnUyT21MU0ZBc1hVUHZjRXBwT184M2JHVkQwU3R3RFhGdFM0UTdEMHRGTzUtYW5uWFQ2c1NJNXo4Q2FkSTRPUy15NnNSbXZB?oc=5",
+        "headline": "게임 목록과 상세 페이지에서 보는 블록체인 네트워크와 분산앱 입문 정보 차이",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "09/20 10:32",
+        "published_ts": 1789867939.0,
+        "tag": null,
+        "first_seen": 1789889429.5681639
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNRVNvbGQzbnQ4aFhFdVNkRVhweWZwb09OS0RZUkxBV3FrOTE0bjFwenJvNkJCMTcyN3JVRUN5M01RcENvRkR3VlU0MFg1NzNmOGQxeFB5UXhLSUZPMnIyeVZmcUtlVVRFd0g1OEhfeHoxakotR1ZZVkZzMEFyNEcxam82THR1SWdRYjc0cU1MR3RmWkJZcXl4RXh1WUQzcnJhdDRiYjFBUlVTeTRISDFWUzFKbHFoUXM3TFRJTUhKMkhpSWhleDZHcG9hS1pLNGVFRE0tRmNESk1VN2NXR0JTOHlqbkpRT1RCRkNhQ3poSkFXRFhjQjR2Y2lxSWlLTkY5NjMyaFJKUEtCZw?oc=5",
+        "headline": "필요한 설명을 빠르게 찾는 경마공원 도박 페이지 안내",
+        "summary": "",
+        "source": "Histoire pour tous",
+        "published": "09/20 01:36",
+        "published_ts": 1789835778.0,
+        "tag": null,
+        "first_seen": 1789889429.5681639
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1kbm9OVVNLOS1NaWRadzl3LVdLTmlOS3Rmc0pGS0VlNWdBYXF5WEh0U3prOEM3UG54SF9aWW9PMnVVTnBJS2RTam4zM3lVU1Ntamc4ZHZhQQ?oc=5",
         "headline": "연준 3년 만의 금리 인상…다음 주 국채 253조원 입찰",
         "summary": "",
@@ -1586,26 +1606,6 @@
         "published_ts": 1789446345.0,
         "tag": null,
         "first_seen": 1789447525.3316567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuLTdKVzkwZkJFSkk3RXU1WGNhZTM0OEU4RzV4SW96OFJ4a0pFcFY5VGVPa1h6MF85OU9TLWc5bTVkREp5bDZxVXdOU1VaZUhDWGhUUVdBZjNnUVEzMEhiSdIBeEFVX3lxTFBGdzl5UmFBNGF5dzF3X1MxSFNEOTlORlRZNk1KUGUxSTcyZHI4T1JuMXNxOWxGSEJBOHVYeFlXeFJwMkNEX09iNk82SVM4WHVack0tdE1LbERuLXAzZ2JXNDJ0N2pOdFR3QVh4eUVwZmhEaDZ3M2VObQ?oc=5",
-        "headline": "이형일 \"'다주택 징벌적 과세' 발언, 민간 임대 필요하다는 취지\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/15 12:55",
-        "published_ts": 1789444511.0,
-        "tag": null,
-        "first_seen": 1789445723.790258
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBRZTRUV0xIa2RFMDZ2TVpCOHpwTDdZS01NWC1Da2swOGZYMmkzYkdMZ0dveGhyblpRREJzWC1TUTE4dmlFeUdzUWdZMURwUXdIYTNtTHZfZkZHaHpTVDRDQnprcVlHSmZhNWVWVnRLQzRPQQ?oc=5",
-        "headline": "조동준 충남도의원 \"재정위기 막을 재정운용 대혁신 필요\"",
-        "summary": "",
-        "source": "굿모닝충청",
-        "published": "09/15 11:34",
-        "published_ts": 1789439685.0,
-        "tag": null,
-        "first_seen": 1789440326.8520463
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 16:15:48",
+  "updated_at": "2026-09-20 16:30:54",
   "yields": [
     {
       "label": "3년",
