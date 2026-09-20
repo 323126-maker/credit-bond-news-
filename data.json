@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4M0dYOHF6MmNEM3BPcVc2VGJCd0NtSjVhV3ZNYzBmUGNxVlBrX1VSbDlvbE5mTXFEV1dtU0wyb0F5dHREQ0JQSE5QUVc4Tk9LQlcxQTV1VVlpN3BMRTVEMS1R?oc=5",
+        "headline": "[포토] 동료들과 기뻐하는 토리 FC",
+        "summary": "",
+        "source": "일간스포츠",
+        "published": "09/20 10:03",
+        "published_ts": 1789866180.0,
+        "tag": null,
+        "first_seen": 1789866922.7717855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wODNVTk9Od0tlRTZPSDBLN1pneEN2el9PSFo4eTNkVHZTSDRXSzFIUWxJazBqaWxKMFJ6Mzk1NmZHTGw4aTlfTERNcmNKbkcybzU0RkRVQ2Z6ZVd3UG5OQkVraC1XbXh4THhQc1V5SG8?oc=5",
         "headline": "외국 자본의 경제 유입을 위한 통로를 열어주는 것.",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1789853401.0,
         "tag": null,
         "first_seen": 1789860631.5043628
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vZ3dhakFuYmQ0bGtWU2MzMmhRR2w4SHRraVNJM2NsNGVEcWtPeTNlTUNNLTdRQkRqMGhuTm1QRUFad0RRT29VeF83eXpSN1dXT25oamVDOEZVbUFXMWIySlM5c3RSVDBG0gFsQVVfeXFMT2dzelNlWEFwclR5X3dMV2FsQnphSTA0VlpaZzVyU1dSRlg4dURMQ1p2RUtNbjlFVnh5T0FiOEFtNElXYWtmWEN6QlJ5U2RsNGxFTy1BWFBSVGF4aC02c09TSFdPZi0xS2c0UlRx?oc=5",
+        "headline": "美 ‘베이비스텝’에 채권금리 요동…한은, 11월 추가 인상 만지작",
+        "summary": "",
+        "source": "직썰",
+        "published": "09/20 06:00",
+        "published_ts": 1789851600.0,
+        "tag": null,
+        "first_seen": 1789866922.7717855
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTy0wckVkdFV4V0xQWVduWmhpQkd1N1dnd1JlcWhlSUpzWUhPM3J6ejZTVVlrTlFrMkw0cFJ0OGJNc0JEY3RiVkJETjV6eng4RHB6VV9xcmFGLUQtT180SzVDa19weENZRXRFeE5sQXU3V2Mtdm1wT2ZmVlg2akhtLTAxTE1VQjBMVXBjb3Z2QmF2VndiSUdVdw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789772160.0,
         "tag": null,
         "first_seen": 1789778723.956835
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQa1FCNGhnMERyQS1Mek5vSWlwR3BUOE1JTkUzaDc2c1pRR3BVMjBaNGpVSWp2Y2NmY1YweHp6MElhUUN6dHFiaU85UGdqTVhQTDA4eF9Zcmota2JVZVlPSUhVQjkyeWlMNnB6bHdpRU5nN1BUZmVaMk00djA0bExfdE1ldl94ZTdfbFdYaFhVTHJaUGJoZS1NT2hoQmtITlhxbEp0SzhUU3puUzRBaVBRUF9JOF8?oc=5",
-        "headline": "게임 화면의 작은 문구까지 읽는 엔포커슬롯 머니상 정보 탐색",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/19 06:19",
-        "published_ts": 1789766389.0,
-        "tag": null,
-        "first_seen": 1789819233.4225478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tYzlUVUFjUHFFMnEzbUtsV3piNk1YX0QyOUVwQ0VqNlpNWEJrcXdjVXBXS183Sk1VUG9laXlfTV9GNThIdDVWczF2dmJPTUxnOXJHX0JXcHBBOEN6ZFBWd1JOMzRob1BTdXluVGl5SFJmdw?oc=5",
-        "headline": "[뉴욕마켓워치] 日 연휴 앞두고 또 '레이트 체크'…주식 혼조·채권·달러↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/19 06:01",
-        "published_ts": 1789765308.0,
-        "tag": null,
-        "first_seen": 1789806632.7574413
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 10:01:02",
+  "updated_at": "2026-09-20 10:15:57",
   "yields": [
     {
       "label": "3년",
