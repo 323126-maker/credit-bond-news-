@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wODNVTk9Od0tlRTZPSDBLN1pneEN2el9PSFo4eTNkVHZTSDRXSzFIUWxJazBqaWxKMFJ6Mzk1NmZHTGw4aTlfTERNcmNKbkcybzU0RkRVQ2Z6ZVd3UG5OQkVraC1XbXh4THhQc1V5SG8?oc=5",
+        "headline": "외국 자본의 경제 유입을 위한 통로를 열어주는 것.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/20 09:02",
+        "published_ts": 1789862523.0,
+        "tag": null,
+        "first_seen": 1789863323.6469855
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTmpNZlp2MVc0X3BWNC1XRnY5TDZ2UTZGTFNaRzk4bmNTd1o5OFItc0czOUhoSVdfSXhNZ3g1aVBBWXdFaGRJUzFuN0swa3ZnLVVUU0FKUEsyU2PSAWBBVV95cUxQdVJkOTRTWTl2ZVcxaUNaMlhucXJRT3h4V0F0ZGdCQ3k4SVJIbElrZ19qWS1kVUlEVXEwZkpIcVM2dkkxRjZBbi1ndy1DMjZnWE03YXZ1VHJrajV3ZU0tTTk?oc=5",
         "headline": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
         "summary": "",
@@ -80,6 +90,16 @@
         "published_ts": 1789811829.0,
         "tag": null,
         "first_seen": 1789844437.6025605
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNTRvZUwwNW4zOTlUeGpENE11WElfTlNFMldUQy1MNjA4LVMzcW5rem5SZ2hCMHBEWjFpanYxUGFnN2pMcnNpcXpXaGg1bzEtNFo1REJhQWtWM1lHMF9XVTRhSTJiTHJsX1pOTHhqRE1xbmdaN0lWanpfbFF0QVNMREZxSFUwelktUTlsRTFrMkdLYTVDRmNaRXRwMTZhc1lhZ3FpWFJoRV8tVEk?oc=5",
+        "headline": "[뉴욕증시 17일] 연준 금리인상 전망에 주식·채권 동반하락",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/19 18:52",
+        "published_ts": 1789811564.0,
+        "tag": null,
+        "first_seen": 1789863323.6469855
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOGdNWjdhZ0xMRHR5VmJBZE9qbl90LUQ5b3pzUTk0MnhDLWJtN0ZjeFRDSGZJb1d5bE9oR0V0ZWo3dnRjVVI3c3FVSlg5NDcxQjBtSnhKMWdDSVA4QlZYSENlQjJfUHkxX3J3MTg3ZV9JSmZDQVJhU0V1azQ1QUdZaFpQOV92U3dlRlYxd2hKY1FJamljLVh6czVLd3ZBU2N4R3JOdUtvR2RKQ1ZpbEMtQUhlbmczbjFqNjRQc29OYVRTWDdYSXNUQUpWV1AxUDlxYmItNUVmUi00Skd2RVE?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789764600.0,
         "tag": null,
         "first_seen": 1789766122.8988564
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KbldGc3RoNmJkcEhyVlY2RWFJTTRIZFcxMTNDMl9CbmljaEd6d0RGeDJzTEpKb3NwbW10b1JfcG50WFJyNDJWLXdXZ1BNWWUzT1Z1VEdua1Y4TGplbDZEdllwMl9MdWIwSVA0WjVn?oc=5",
-        "headline": "무디스, 폴란드 국가 신용등급 재정 악화로 A3 하향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/19 05:49",
-        "published_ts": 1789764540.0,
-        "tag": null,
-        "first_seen": 1789765243.0672958
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RU1FzQThpeVdZalVjM2VGVkRCYmE1aFNfbjRVSV8yNVdfa0pLbDVPMHZCb1B5TmYzQTNZa0QxUXNBN181N0NON01ZMkVsTHc0NkVJdjNJYklPZE9RQkpzNERqeUN1SmNZeG5YOVBn?oc=5",
-        "headline": "S&P, 카메룬 국가신용등급 ’B-/B’ 확인...부채 전망 고려",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/19 05:18",
-        "published_ts": 1789762680.0,
-        "tag": null,
-        "first_seen": 1789763429.9334881
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 09:01:03",
+  "updated_at": "2026-09-20 09:15:45",
   "yields": [
     {
       "label": "3년",
