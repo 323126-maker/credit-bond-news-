@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVUZGeHJjTkNsb1BxWTBiUjRBNFp4UWhPM1MzV0lZQlBKZDd1ekFuQ0NHaUJVNzVJRXR6QjFfS3ZfZVYwSFd2VHUwd1ZnTGpXd2VNeFZudkhZZ29yTC0zd2x2dFE3cThobXplZDVtSHI4OU5SOGxVQ3g2U0gwTFNINmRKWmd4UldYYzZDX0NXbXI0T1NfRWRMbm5wVWRtbHpfcEw2Wk5R?oc=5",
+        "headline": "Kevin Warsh’s Rate Hikes Revive The Paul Volcker Myth",
+        "summary": "",
+        "source": "Forbes",
+        "published": "09/20 23:00",
+        "published_ts": 1789912800.0,
+        "tag": "Fed",
+        "first_seen": 1789913723.0029223
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmJTbTZHM21VUVdZYkNmQk42azQ3eGI2c0EtOXFaTTdIeHJHUm8yYngtMy05cm1GM3BBQ1dXaF81Q0E1djJqcU1fSE16cU1MektjUDUwWVF5aWlUSXcwMHhmTk9YNlJBaFUtVk1qaW1kb3htUlhsV1NDS0h3d1preG9QcWJ2UU0zVmhRcTRSSExSWThDX2JSZ1o1MkZ6N1F0ZUpndA?oc=5",
         "headline": "Scott Bessent helped George Soros net $1 billion breaking the Bank of England — now he's fighting a U.S. bond selloff",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1789907419.0,
         "tag": "Strategist",
         "first_seen": 1789908323.4322722
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWk9SX095MFE1ajN6b240dWtKZFkxcDJOUW1sbXJSck14RUJXaG9kNTJRUmtKdkptSkIxa21wVHZLYVZhQlQ3Wi0xY25OVVppNHNvSjZQUHZQTkFELTJYZEU5RmJnSGdFQU9zd2p2Y1ZveEhMQzB2VDNHN0Z6MGZQbGU5UUUxU2J1ZXdWSEs4YWxzOU50RVVyZk5oazNkTk5KMXFqOERMVQ?oc=5",
+        "headline": "Federal Reserve rate hike reflects new world of sticky inflation and faster growth",
+        "summary": "",
+        "source": "Times Union",
+        "published": "09/20 21:05",
+        "published_ts": 1789905955.0,
+        "tag": "Fed",
+        "first_seen": 1789913723.0029223
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVBrQ2V0R0ZrOGhEVjE4R2VCaUZYQUVNUU5veVdlejZjeDA1R2FtTnJrU293ZDZDMzU0Y2o0dTk1S3VUcWVQRHEtQ3RUX2h3LWFZaVBnNEh0ZDd5cXZOejZiQi1wZHRWam1pZWZVdEw5RVVLcWJKYlczLVdESkY3LUU0ZFVjQQ?oc=5",
@@ -1718,6 +1738,16 @@
         "published_ts": 1789877220.0,
         "tag": "JGB",
         "first_seen": 1789884037.041255
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORmhkTlkxbTU1N2FuVVdOYnhXSGJhNWE3V2tfcWhvM084Sk9qN2lkZnlkX3JXZDBveDJsQXE2Y2VQRkI3QXhmV3MyV3Yxekx5aXc4bEx6bFBpYTdpQ2s1dzhTU1lYdVllVzRCSi1Wc0JMMnFBNUR4a2NFcU0wQ2JsVXdORGJLbDF0bHVKaTZZdkwtd3ZMOWJQdHBlTEZBLTE0RmRTRzdmNE10dw?oc=5",
+        "headline": "The Federal Reserve has resumed interest rate hikes, but corporate bonds may not repeat the 2022 scenario. The true new pressure stems from the surge in debt issuance by AI giants.",
+        "summary": "",
+        "source": "news.futunn.com",
+        "published": "09/20 12:24",
+        "published_ts": 1789874684.0,
+        "tag": "Global",
+        "first_seen": 1789913723.0029223
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUHlFc1ZBeW1BWEwySHFLeFBDd3BxZk1XWi1EbzM3eEZGaUxqQWNCN0lTaWlYQlJ0UVpuVFh4YmZLWUZuV3pzQjRGUmpSZjZ6TS1OMTg3Z3V0LXFYOG1JbnEtbTJOQ1Y3aW1QZzBJdDZIblBrZDdyUlFhUi11OWpYOW54RkVKaklVWWtGVlB3QUFlRUdqcW5UdHlzOWpzZ2pxMmFSbmZPUTM2QQ?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789790982.0,
         "tag": "JGB",
         "first_seen": 1789816338.1340125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1XR0xGTFFBODJKd2dnUGM4RGVkOGFuVEloa2VMNGtnWVRDbDZLdW9CSk9PU0xmZTZxcjRUR2x2VjNzTUhESVVhcU0za0R4V0Itc090UTVORFhBVGN4ZGpF?oc=5",
-        "headline": "Is China Winning the AI Race Against the U.S.? | The Week｜The Prof G Pod",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/19 12:13",
-        "published_ts": 1789787604.0,
-        "tag": "Global",
-        "first_seen": 1789819233.4225478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZjRrS0pVRmRURXY5TWVCRGFkb2tXU2F1UWtpT0JmdTFZZmUwUWR4bXRjai1SSE1NQWJmOE5EUG5janc5ZVhsaGtYU1V1MnhBTW1xdVg4bEpQUEJFeGpWandkdjd2V2NKMTJmc0xNYVphUzRvM0FHdHU2SXpiWWtaRzFJNW1zWEJIaExSRnpObk1VVjhlMXFJV3NSSjYyb3NaRVNjZGhldWdUNkk?oc=5",
-        "headline": "Food prices present fresh risk to global bonds after selloff",
-        "summary": "",
-        "source": "Moneyweb",
-        "published": "09/19 11:00",
-        "published_ts": 1789783233.0,
-        "tag": "Global",
-        "first_seen": 1789809322.3880904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB0SmpSX0VIcEo0RS1LdXRPMEhDOEYxZlpQMDl2RTFUZHhLNjlhTnhLV0oyRW1DUFZybHc4ZEIzYmRVZmNXTmltbHRidDRsQ04tNDlrbjFSOA?oc=5",
-        "headline": "“일본, 31년만에 최고금리인데”…엔화 또 추락한 진짜 이유 [디브리핑]",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "09/19 11:00",
-        "published_ts": 1789783200.0,
-        "tag": "JGB",
-        "first_seen": 1789784124.6532753
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 23:01:02",
+  "updated_at": "2026-09-20 23:15:49",
   "yields": [
     {
       "label": "3년",
