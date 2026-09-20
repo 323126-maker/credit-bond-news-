@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZUDVNWTVXdS1ETE4wRzZUNmRXTE0ySUd0QlNQeFpjQVZFdk1LUGpRR1VNZ2NXdTh2YjVCOEFkOFBJMnBiWjM2cl9jSHhXbE5Qa3BkaWhReW00QzV3UTBFUGtXODA2Qy1kQmpaZWVZSdIBb0FVX3lxTE9ZUDVNWTVXdS1ETE4wRzZUNmRXTE0ySUd0QlNQeFpjQVZFdk1LUGpRR1VNZ2NXdTh2YjVCOEFkOFBJMnBiWjM2cl9jSHhXbE5Qa3BkaWhReW00QzV3UTBFUGtXODA2Qy1kQmpaZWVZSQ?oc=5",
+        "headline": "집값 따라 대출 키웠더니 금리까지 ‘껑충’...차주 부담 커진다",
+        "summary": "",
+        "source": "더퍼블릭",
+        "published": "09/20 09:09",
+        "published_ts": 1789862982.0,
+        "tag": null,
+        "first_seen": 1789870527.148029
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nTmpNZlp2MVc0X3BWNC1XRnY5TDZ2UTZGTFNaRzk4bmNTd1o5OFItc0czOUhoSVdfSXhNZ3g1aVBBWXdFaGRJUzFuN0swa3ZnLVVUU0FKUEsyU2M?oc=5",
         "headline": "유가 완화돼도 채권시장 단기금리 상승 부담 여전",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789502408.0,
         "tag": null,
         "first_seen": 1789635637.6028883
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81eWNFXzVPaF8tYldYN05HRXNIdlJXX21QUnFjN0JfT29QTFVOSk9BSVo5V0RrdG9CQlN1RWstYWNBaTlzQUJyMEFUOXlyZkhHQjdCZjJqTFpUUThvNkhuYkFqVHdDUWNYM2tz0gFUQVVfeXFMT1M3YU1fVTBtOXFJM3g4V3M1SFI2S1cxOTRfRXRxNmU4eGFnMzVIQmR2OEpxUE0zRE8tUG9tQmRDTF9KZ3J3MmpHLWdmZzFHdnNlT29X?oc=5",
-        "headline": "정부, AI 활용 법인세 예측 내년도 세수 추계 정확할까 [경제 레이더]",
-        "summary": "",
-        "source": "세계일보",
-        "published": "09/16 05:00",
-        "published_ts": 1789502400.0,
-        "tag": null,
-        "first_seen": 1789505124.5639558
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 11:00:59",
+  "updated_at": "2026-09-20 11:15:52",
   "yields": [
     {
       "label": "3년",
