@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RTBadS1pNS1yZ21NUXN2b2JqbW9Vb2JvTmFlX3hqcnByaEtCSGgxX1B2NjI5bVg4TVJJcG92T1lYLU4zSi1TVXpFRDVCMGRYYVIwUm1xeU5QV1RpZWVheEliMGtQRmw5d3luSlAxd0jSAXRBVV95cUxNakh2RUoxakRMMUY2Q1lQMjAwaTEtMVRIMjZZS3pqOWZYMm12Y3R1eGpFU0pKUTBLLVlDY1liR250N0Fja2F4elVlRkFKak9wTTFBSkdVNjhJS0NwdG5jOWc0OW4yTG1idmJSbHpDU1MtbzExQw?oc=5",
+        "headline": "한은 “한미 장기금리 동조화, 글로벌 인플레 충격이 주도”",
+        "summary": "",
+        "source": "산경투데이",
+        "published": "09/20 12:33",
+        "published_ts": 1789875202.0,
+        "tag": null,
+        "first_seen": 1789875930.9771025
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1aS3ZHSzY4VzM1dk9QRTBuUTdjdmRJcXVMTWZnM0V4SlczY3ltVHNzMlZjUXRmbUxCVGxPZWJwU0ZwTVlwRXdKOUhGbHNZUnB1dlpFU0Uya1kyNGhlV1FPUVRJU2dvU21UQmY4RkRSWlNOeHlD?oc=5",
         "headline": "美 10년물 뛰면 韓도 70% 영향…주범은 프리미엄 아닌 ‘정책기대’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789523958.0,
         "tag": null,
         "first_seen": 1789551029.8573117
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HNnNMVFFBNWhOQVU5RmtDaXNKTldHeUUtQ3R6enMyTWROdHJKWFFxYmxvYk95U3VMSXFwRVl5Y2VJaGIwMVBnc25pM1RXa3QtMWhvMExzV3NGTGFEZTRIYtIBYEFVX3lxTE9HNnNMVFFBNWhOQVU5RmtDaXNKTldHeUUtQ3R6enMyTWROdHJKWFFxYmxvYk95U3VMSXFwRVl5Y2VJaGIwMVBnc25pM1RXa3QtMWhvMExzV3NGTGFEZTRIYg?oc=5",
-        "headline": "\"올해 물량 축소, 은행권서 조달…내년 회사채 발행 확대 가능성\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/16 10:18",
-        "published_ts": 1789521489.0,
-        "tag": null,
-        "first_seen": 1789646436.4123623
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 12:30:54",
+  "updated_at": "2026-09-20 12:45:53",
   "yields": [
     {
       "label": "3년",
