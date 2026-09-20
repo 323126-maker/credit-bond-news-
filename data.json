@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeTVQblg3NWY0X0l0Z2ZBVndHVEgyeWhPUnFxWjViR3RSWXZFZXNYT3R1UTZhZzBabzh1Zmh0VlcyQW9uRXNkeTY4T29USDFiQTZkLXR4SFdiWXRPcFp3V3JPNVlKWGpVSElPcVQtRjZydXRBcG5zY1U2SVE0cFpINmxLQUxxdmY1OTlDV2JianBFRnc0V0xlUThSS1RWbG5nZkRzLVloMWwxZEVkV3dlcWtPNFFOYWhoNVdWNXYyQlRveTE2X3lCckxHaUVEMnhkVWhn?oc=5",
+        "headline": "John Hancock Multimanager Lifestyle Conservative Portfolio Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/20 23:23",
+        "published_ts": 1789914180.0,
+        "tag": "Global",
+        "first_seen": 1789915524.6230972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNeEl1NXlhcU9aYVlBRkN3cXh4Q2N0TlJiX1Ixc090bllzd1FhYUo0SlZYRzNJR3Q5YzgwRG1JR21MOFhwbTdkQlEtWm9DbUcwZmtOUG9wVGpkdG94Z3RDVFdIMjhCd2pwWm1GTnVOZk9sVXQ1U29tdl9NZVdsQ2tXb2NyVERieXpOVGFwMnZoaS1uTUlNVUZVaA?oc=5",
         "headline": "The Bond Market Is Rattled, and History Says That Could Be a Warning Signal to Investors",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1789912800.0,
         "tag": "Fed",
         "first_seen": 1789913723.0029223
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORU11aC1Qdzd3Q2l4SklfeXY1LU9VQUZvMVBKUDZQdF8zVHZ6M1RXM1FYanBUbHRQOTN1djJHaFZMYVFuR0xGSmM5VTJQQ090Q0N1RVcwYS1mQzM5bjZ1Q1N0UE5uRjFGajYyMG5IOG16b2tMcG5jQ3VFUjJ4WVM5WFZWQ2lMSXdyY2Q2cThDX0l3YWpMZURxeEFB?oc=5",
+        "headline": "Gold Shrugs Off Kevin Warsh's Rate Hike and Climbs Back Toward $4,400",
+        "summary": "",
+        "source": "Startup Fortune",
+        "published": "09/20 22:43",
+        "published_ts": 1789911782.0,
+        "tag": "Fed",
+        "first_seen": 1789915524.6230972
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmJTbTZHM21VUVdZYkNmQk42azQ3eGI2c0EtOXFaTTdIeHJHUm8yYngtMy05cm1GM3BBQ1dXaF81Q0E1djJqcU1fSE16cU1MektjUDUwWVF5aWlUSXcwMHhmTk9YNlJBaFUtVk1qaW1kb3htUlhsV1NDS0h3d1preG9QcWJ2UU0zVmhRcTRSSExSWThDX2JSZ1o1MkZ6N1F0ZUpndA?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789805601.0,
         "tag": "Strategist",
         "first_seen": 1789891234.9795272
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSWxaUTFrRmdNbkM4ZEt0T3Q5Vk5PTkdFSlJtVXhFSWFyUGh5TzEwNkZVQXZVcjNfYW9nX3NmTkRYQ1NveE9SbFNDNGFsZFBSUDBOaHBJYWc4SzhPeGtZYXhrQXRlcUpZTmdqYUtBZ2tRRDJPUmxCSHV0enhWRV96TFJkT0NKOF9rOTM1ZUNPTlk2aW9QbUNBbFJ3M1JVQUxpNlg4WWt6THo?oc=5",
-        "headline": "Japan likely sold Treasuries to fund record yen intervention",
-        "summary": "",
-        "source": "equiti.com",
-        "published": "09/19 13:51",
-        "published_ts": 1789793469.0,
-        "tag": "JGB",
-        "first_seen": 1789798522.9309413
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vdllpYjFBOG1peGpnT3o4elhJeWZ0Y2RGM1RGWTdqekdQeVg0LUE2RkM5T1l0a0VIZUdnQzhNSzV6b25IZW1VOW8tYmdVaFp0NUNxejJaU2RRemh0Ri0yMUFic2xCMDhNVmN5MA?oc=5",
-        "headline": "우에다 일본은행 총재 “연속 인상·빅스텝 배제 안 해”",
-        "summary": "",
-        "source": "스페셜경제",
-        "published": "09/19 13:23",
-        "published_ts": 1789791834.0,
-        "tag": "JGB",
-        "first_seen": 1789805726.5564268
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 23:30:54",
+  "updated_at": "2026-09-20 23:45:51",
   "yields": [
     {
       "label": "3년",
