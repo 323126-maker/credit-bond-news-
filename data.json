@@ -112,6 +112,16 @@
         "first_seen": 1789879524.1182878
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMW9TSGc2Z0Z6UkxyblQ5QzAxamp1WmlSaWtYSU1kZHlpZzBRX3I3d2U5VUJrejRYN2NWd2hJWjVvQzBHTVlSSGM2YW12UTQyOERGSjlvWUVuTnNZQ1RhNzNJQjRRUmltZUJzY1ctd1hJakVHVDh5NkdZOXVTU0pvN1ZweDhnd2VDQnNOOU1JX1QyZUZBem83R0gxNXVJaU1ibUxBLXNTUjFqZHNK?oc=5",
+        "headline": "[뉴욕증시 29일] 고유가 장기화 우려 속 보합권 마감",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/20 13:07",
+        "published_ts": 1789877250.0,
+        "tag": null,
+        "first_seen": 1789938035.6664526
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80blVvbFdySkVkcVlCN2piMEJ1Ml82SVE0X2dsUncwODIwRUJoTzBSNG9Sb3dZU1FhbVNkSjZqSW1kQjlqY3Y5bXlZWURqNFd2S0RzTjlTSHNSVjFLX0ZpcDh2cXBOSlh1?oc=5",
         "headline": "[채권마감] 국고채 바이백에…50년-20",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789800346.0,
         "tag": null,
         "first_seen": 1789871430.2438526
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPUms1Wk9OTlcyWGtESU5xdWNIdFBKWTlIVXVWVmJhX0ZqaTUwelJ1QlZ3aEhxZGp0RndHeC1ZeUpoZ3lCZUFRMkpDUGxfOV95blZ4T2RyZWFGcWExWl85anpB?oc=5",
-        "headline": "[일간 이정후] 빅리그 진출 3년 만에 두 자릿수 홈런…시즌 타율 0.274",
-        "summary": "",
-        "source": "일간스포츠",
-        "published": "09/19 14:18",
-        "published_ts": 1789795080.0,
-        "tag": null,
-        "first_seen": 1789798722.7409284
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 05:45:48",
+  "updated_at": "2026-09-21 06:01:01",
   "yields": [
     {
       "label": "3년",
