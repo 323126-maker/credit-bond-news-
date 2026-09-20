@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lMnhYTVN3RkNqWFRkTDBiYjFRSVVGX3VjWFg1S0lJWXNqeHllQ2djU0RmODRZckNiTzA4ZDZPYmo0ejlLMmgzZHJVSnRGYnQ2UjBGa2M5MHZjVE9JWEFxclcxdUhONTNaZEtkVXkta1NmWVVT?oc=5",
+        "headline": "[채권-주간] 추석 앞두고 글로벌 흐름 연동…미중 회담도 주목 |",
+        "summary": "",
+        "source": "news.einfomax.co.kr",
+        "published": "09/20 13:05",
+        "published_ts": 1789877136.0,
+        "tag": null,
+        "first_seen": 1789899321.2423658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13RTBadS1pNS1yZ21NUXN2b2JqbW9Vb2JvTmFlX3hqcnByaEtCSGgxX1B2NjI5bVg4TVJJcG92T1lYLU4zSi1TVXpFRDVCMGRYYVIwUm1xeU5QV1RpZWVheEliMGtQRmw5d3luSlAxd0jSAXRBVV95cUxNakh2RUoxakRMMUY2Q1lQMjAwaTEtMVRIMjZZS3pqOWZYMm12Y3R1eGpFU0pKUTBLLVlDY1liR250N0Fja2F4elVlRkFKak9wTTFBSkdVNjhJS0NwdG5jOWc0OW4yTG1idmJSbHpDU1MtbzExQw?oc=5",
         "headline": "한은 “한미 장기금리 동조화, 글로벌 인플레 충격이 주도”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789534308.0,
         "tag": null,
         "first_seen": 1789545636.9374313
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3Q1VYV21rTHZVVEV1RDR1emM4SGFyVEJsZzNMSExRYzVqb3RkblgtZFdxTzRrSnJ1eXcxQjV1M2FWa3hGWmJzdEcxQkVDazdGM1RGUw?oc=5",
-        "headline": "연준 금리인상이 채권시장엔 호재…동결이 더 무섭다",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/16 13:50",
-        "published_ts": 1789534200.0,
-        "tag": null,
-        "first_seen": 1789535549.9692364
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-20 19:01:00",
+  "updated_at": "2026-09-20 19:15:45",
   "yields": [
     {
       "label": "3년",
