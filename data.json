@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vSHpuSlBBRDhmX2dyR0pkc2gtYlA1MWIwckwtZkFyX28yZ2FwcGpaZlVzMXBUZHRuX2t4a3pzTkg1a0t0Y09rZ0tFczdqU0FiRFJwbU94MlZ2b05qYVdfOXhaMlZiWVU?oc=5",
+        "headline": "日 금리 인상에 유출 자금 귀환 '신호탄'…美 국채·글로벌 증시 ‘긴장’",
+        "summary": "",
+        "source": "청년일보",
+        "published": "09/21 08:00",
+        "published_ts": 1789945204.0,
+        "tag": "JGB",
+        "first_seen": 1789946122.194733
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOTdOUGlaTlpkQTJsdDlCRmgyT1JyandDUzdWUm5UZGkySmlKVUc4dVdmNlJlVDIwcU5Rb2E0ODAzeXRaZFFYVFp1eXU3ODZWbFU5eWozOUp3c2JhbVJFLWZ2azRneDl4bHloa1VyRjc0bXZGSDVDWmdZcmhwbzU0aHF5TW8?oc=5",
         "headline": "Morgan Stanley: Warsh Has Hiked, but the Real Question Is How He Plans to Deliver Price Stability",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789843226.0,
         "tag": "Fed",
         "first_seen": 1789884924.2545831
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDczenh5ZUYyZ3M5bjdUWHlMVlFOTU44SnRhcVBFR1JkcXZEOXNUSU96VHo5VXBBWFR5QjRxTFc3YzNUbUVNQWZLSjJBdTJNLWd5WFRfb09RZWl5NVhmbDdzSWtUYmZ2S0VCV2tHRU9FTmRTUVNPRXF3NmxxYWNsWDk0Z0FLWmxaVHpQdHJMMjM5XzVDd3RaVy1STDNQNjV2c3R4TEFqXzhObHpFQmFUUlNPX0pTZ3M2UHVZV0ZzYVl6N01qTFpKQ3BnOVc5SXJud3V3?oc=5",
-        "headline": "SpaceX (SPCX) Fell Despite Investment-Grade Ratings — Why the $20B Bond Deal Matters",
-        "summary": "",
-        "source": "tradingkey.com",
-        "published": "09/20 03:34",
-        "published_ts": 1789842850.0,
-        "tag": "Global",
-        "first_seen": 1789887623.54287
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 08:01:01",
+  "updated_at": "2026-09-21 08:15:47",
   "yields": [
     {
       "label": "3년",
