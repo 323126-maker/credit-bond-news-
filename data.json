@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02WjdEd1JCVWdNak5XbGg4VkFUSk9DNEF4Nnh3ZERPTmc0a0JkT3VuZjROM2YwcURDTnp0aDNhWklTdnZDdV9aNllONmZLckRObVZPeVNEOGQxdw?oc=5",
+        "headline": "태국이 주목한 韓 채권시장…K-BOND·신용평가 체계 벤치마킹",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "09/21 14:34",
+        "published_ts": 1789968846.0,
+        "tag": null,
+        "first_seen": 1789969525.7142303
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1OVnJteVpjNFNxQmhhUWNhYzdLdDd1WXNsbVo2dmRBc19INDN0YVphSTdtUlR4ZTg4WWRMVjNNdDlyZ1QwV0pCaU81NTV4WHpKemdxbTFmMU5DNlU4XzBMa1NQWmY?oc=5",
+        "headline": "미래에셋증권, 부채비율 상승폭 1위…고객자금·조달 늘며 영업외형 확장",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "09/21 14:30",
+        "published_ts": 1789968650.0,
+        "tag": null,
+        "first_seen": 1789969525.7142303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93Ri1PVkl5WmR1bEYwWWdtb2w5dHNTcG5nVmpSRG1LTnBlLTc3WnlsOTFFTHd3WW95SFpUZkJjaG00Z3pjTDdHeGZGdTgwVjRaUlVfZUNIS1JtQQ?oc=5",
         "headline": "'채권 60조설' SK하이닉스…시장 떠받쳤지만 고금리는 '부담' [fn마켓워치]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1789842072.0,
         "tag": null,
         "first_seen": 1789865123.8130903
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObi0zd0JqcE5jQlFFMmlnbHhXeWpyT1dlNHpyLUpEMU85X3lreFdGOFVQOGh5RzZBUXVVT2QtY2FDQ0s0elc2WUJRLXlVRG9UNjBzYVJxVWRvTk00YVN1d0w4Tlk5WFMzNDNaZGFKYkF5ekl6LUU3N2MtOHU3dVhhdE1tWHd4UEQ1eVpIdDlOYWNZRkpFZS1Wai0zLVROaVN2eFlXR01CZVlSME9MYkw0TWhpNHl5STBhSk96OUlWbFo2Y1dad1NLTENBei1IMmZJVktkNXBVdVhEczhlekFnbEphbw?oc=5",
-        "headline": "아마존, 500억달러 채권 발행…1260억달러 몰려",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "09/19 21:54",
-        "published_ts": 1789822452.0,
-        "tag": null,
-        "first_seen": 1789856127.2749853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUVRLeVpqVHF6Q2NRYUl6VmZqS2k2Z3V2VjlZeGVhWHFkVkJSTFd6N1d2ZXFibExhbFRZY3JjQjZELWxGdlVfNHN0d0VDM1pKOFlnRldHNHMtSWIyUTBiYXh0N3p4OVc4WjZqUktNVjBjcWlrLXV2dXZ6WVhsRmdqaGR0ZzV3Wms1QlNybF84aGpNcmhMcWlDTXFR?oc=5",
-        "headline": "베트남 증시: 등급 상향 조정 이후 외국 자본 유입의 기회와 과제.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/19 19:56",
-        "published_ts": 1789815407.0,
-        "tag": null,
-        "first_seen": 1789815636.7494085
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4X2tYMDdSTlFCeEN0UDliWmtYaGxJUzJsbmh4RlI2VnpPbG1BQ1g4YTk3b2c5bFR5V0c2eFJtN1JkUnBmVzllekNCLXJCUTlmeTBrSFdjMGtiRWFLUmgwamlwWXRHU01hcEI3LU43V1c1SGJLZlZr?oc=5",
+        "headline": "\"BOJ 금융정책결정회의, 매파신호 예상보다 약했다\"",
+        "summary": "",
+        "source": "thecommoditiesnews.com",
+        "published": "09/21 14:25",
+        "published_ts": 1789968311.0,
+        "tag": "JGB",
+        "first_seen": 1789969525.7142303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYVVTTm1oYmozOVJoVFBNbW9GNWt4RG1iQXk5M1VkbWZmSzF0N09PS0JXSDRhNnJtZ3JqdkI2dUEtQmd2bFZuSFA1SlEzS2E1VjFhY2lJdHg0RHVtV2JveWFlZDd2NkFCYThXM1lIZ1FtckpDY3c4V1l5ZTBwb0ZKTDFLXzlTcl92cVpodEdqNE1TcFNpZWN5SklR?oc=5",
         "headline": "RM2 Billion Exit Bond Market Despite Strong Rally",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1789958808.0,
         "tag": "JGB",
         "first_seen": 1789959639.332899
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQa1J5d25FMFg2dlhHbHZkdVBBamszV01sYlJXMFNCYXVkTkVfOEhYS3NBcEZrZDdNSlBtQktial9HR24yaV9TMkpaa0xRclQzNGVxSjhyMzg4T0E2TDlzZkVNb2VLUTM1TjV2TTJ2cW1CcTR5SUxQcjctUUNIbFZjSmN4Z0VEcDdiZTBMc3ExYk1EeVBvdm00NGRwT2NIUEpfVzVJUGM5WjhyOW8?oc=5",
+        "headline": "EM local bonds gain favour as dollar debt lags",
+        "summary": "",
+        "source": "bfsi.economictimes.indiatimes.com",
+        "published": "09/21 11:38",
+        "published_ts": 1789958304.0,
+        "tag": "Global",
+        "first_seen": 1789969525.7142303
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPTGFrdWg1LU1JdGE3NmQ2Z3NpaE5QR19rZFBqRzBheGl0SzMtR2JERlpFQWZWM1ZVemdQUlQzOEFIMlpCNFdqU001ZHluVjlvRWpoSkVvUlZqQ3lrOWtlYlA3N2JUQmdkdklqOEs1bVV1bnBVTFEwc2UxMU00UnZpWTIwQTI3S3NPZ0Z2S2UwNXB0RUN5Mm1YUFh1Yw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789905955.0,
         "tag": "Fed",
         "first_seen": 1789913723.0029223
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQMVBrQ2V0R0ZrOGhEVjE4R2VCaUZYQUVNUU5veVdlejZjeDA1R2FtTnJrU293ZDZDMzU0Y2o0dTk1S3VUcWVQRHEtQ3RUX2h3LWFZaVBnNEh0ZDd5cXZOejZiQi1wZHRWam1pZWZVdEw5RVVLcWJKYlczLVdESkY3LUU0ZFVjQQ?oc=5",
-        "headline": "AI’s $5 Trillion Buildout Is Becoming a Credit Market Stress Test",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "09/20 19:59",
-        "published_ts": 1789901987.0,
-        "tag": "Global",
-        "first_seen": 1789902038.0936208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
-        "headline": "Federal Reserve raises interest rates for the 1st time since 2023",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "09/20 19:57",
-        "published_ts": 1789901826.0,
-        "tag": "Fed",
-        "first_seen": 1789905634.3310616
       }
     ],
     "watchlist": [
@@ -2020,6 +2020,16 @@
         "published_ts": 1789966120.0,
         "tag": "삼성카드",
         "first_seen": 1789968667.5045502
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzJ0RzU0bDVOY3ZGLXNFYlo5aGtXWmtfLVUwNVZFNkdsZXpwYUJmXzhWVVQ4NmlWcjNWempMUEVnYlBzVUdyLVFkY2sxaXRfQS1DY3B0NEdMTkRpZXlxYjU2NFBQMGVHZWR2OUhLM193a2pEZDFnQnZwSnZqT1Fpag?oc=5",
+        "headline": "\"MMF·국채 토큰화 공모+퍼블릭체인 허용 서둘러야\"[일문일답]",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "09/21 13:30",
+        "published_ts": 1789965052.0,
+        "tag": "신한지주",
+        "first_seen": 1789969525.7142303
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9HZFlxdUE0NVhCdi1Ma2xNdkFteTBXdkU5dF8tRlQ0WFhmYTA1cHc5dTBkeGpndUVNZWxNZ3dYeEQyNlN3YXVidXBQOWRtX1U?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1789521145.0,
         "tag": "우리지주",
         "first_seen": 1789560037.1669261
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBORUF4Y3RPdGVGYWNWeUQ2bmJ3TW9JQnU1NVhvZFNpM1I4ekNkX2YwdFA5VGNBU3l3U1p5NFh2VGNQVXVCeHl2Y0VJR2dHdFVYMDA3VzdYdXhiNWpFZS1SRUg2STc5Y1lTQ1FHeF9hbno?oc=5",
-        "headline": "[킥스 관리의 문법①] 삼성화재 \"신용등급 'AA' 비결은 선제적 ALM\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/16 09:35",
-        "published_ts": 1789518921.0,
-        "tag": "삼성카드",
-        "first_seen": 1789519523.307543
       }
     ]
   },
-  "updated_at": "2026-09-21 14:31:32",
+  "updated_at": "2026-09-21 14:45:48",
   "yields": [
     {
       "label": "3년",
