@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0o1UjZOa1FQMEhiUEdRVFh0Um1SYnh6TWl3Z2FJSUFUZ3ltX2d1UzE4TzBXb2VYU3NfelRXWjUtbmxxRVlLRkRLUkpQZm5XR0FQMEJIaVNHaXMxMVZ0Y0F5NDgtODFCbGFIRnlSU2FRcTNDTHFpS0xsRnFQT3I1UkdCcWFTaUhreHZJejk4cnRGcERTOThEOGt4MkkxOFpKdTlaYjJkbXJfYXFFeWZlVHR4WEs?oc=5",
+        "headline": "SoftBank Seeks Over $11 Billion in Junk Bond Deal for OpenAI Bet",
+        "summary": "",
+        "source": "bloomberg.com",
+        "published": "09/21 10:58",
+        "published_ts": 1789955880.0,
+        "tag": "Global",
+        "first_seen": 1789957832.675337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0tb0dhU0lWSkhOYzBMOG5jLXBsM0x4LU1uekJfUDFqX3kzdXpNME1aQVB3RUlfajFqMWNybzNnMUlsMUhZRGpOdlB4M3pFbXBFRHBYR0dJLVVNN1NrdVJxYTl6MTlNazJlMVp2Wjln0gFyQVVfeXFMT05uZ1JtYUs2Vk9RajA1ZlRUd0c4VjNNdVJQNWhxMDlMVFc2T3JQRndyS1ZaajJkeW50TjFmcGR2bWNrSFR5d0lvbnNVQXJZV0xZZmhQY2tFQndQWnlyLWl6VGdsSlMzbUxKOGxqZDJNTHpR?oc=5",
         "headline": "중간선거 전 '위기의 트럼프'...전쟁 확대·유가·국채금리가 반도체 주가 가른다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789881120.0,
         "tag": "JGB",
         "first_seen": 1789884037.041255
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Tc01iVnV2cVZtZ25WcjBKS2pvNDVlVHY2RTY3SEZMYmR5MVBPSE56cEVaZkFZVVNyemgtbVZkN0lWa2cxcy1MWUVGaVU3Vkhid2ZTLW4yYlHSAVhBVV95cUxOU3NNYlZ1dnFWbWduVnIwSktqbzQ1ZVR2NkU2N0hGTGJkeTFQT0hOenBFWmZBWVVTcnpoLW1WZDdJVmtnMXMtTFlFRmlVN1ZIYndmUy1uMmJR?oc=5",
-        "headline": "미·일 금리인상에 환율 급등…정부 대책은",
-        "summary": "",
-        "source": "아주경제",
-        "published": "09/20 14:05",
-        "published_ts": 1789880741.0,
-        "tag": "JGB",
-        "first_seen": 1789888522.7412956
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 11:16:04",
+  "updated_at": "2026-09-21 11:30:57",
   "yields": [
     {
       "label": "3년",
