@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3ZNTzBQTHBCTjdrWklsdlV5bkd0cGRzemhRd3VsOGMwMWVNQ0F5SWJtT3J4RVNOZmQ5ekJKZXE4RUcxdVAzY0JFbHBQUXY2ZWlnZ1p0anZYSmppSkVGalZlcDU3TUJYZV8wRnRFMzhzMmdGRkxuaEMzUUp5a3J3ZTVhY2ZjcENDeDdXc3hnUU1yU2RFZ2RmX3JFcVBSNVdQOGcwLXpvNFQ?oc=5",
+        "headline": "IGLB: A Unique Asset Class At The Intersection Of Debt And Equity (NYSEARCA:IGLB)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/21 23:17",
+        "published_ts": 1790000278.0,
+        "tag": "Global",
+        "first_seen": 1790001035.9090378
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPb3hsNFY0VlNvd1luSmlkN094MFplaFc5Q1N3MG9KTzNOSTB3R1VoXzZ5aGNKMFBNVjZ6cEpPUXJQYUNQakdUX2dzSndiZEJfdzI4SFVuQWdDX1FVUjdndTZCZ0kzbTJYUWtacXhKWVNHTGs5MDd1UTJKbC1aako1ZGRDUlhRWHd2cHJieEgxZi1IZ3Ra?oc=5",
         "headline": "Cash, infrastructure and emerging markets gain ground as large asset owners seek to manage volatility spikes, according to Marsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789979161.0,
         "tag": "Fed",
         "first_seen": 1789980332.8171318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Vm5tTUEyejU5MkUwdUkwbGlaZF8xdnlQN0F5NmJFaFR0Wk5jNTNuMzktMFFrdkJwcTY0VHlOZHo5V0J5Y0VMUHpmWWV4MjhxRmFuZGlaVdIBV0FVX3lxTE53Vm5tTUEyejU5MkUwdUkwbGlaZF8xdnlQN0F5NmJFaFR0Wk5jNTNuMzktMFFrdkJwcTY0VHlOZHo5V0J5Y0VMUHpmWWV4MjhxRmFuZGlaVQ?oc=5",
-        "headline": "Trump-Xi summit puts Koreas won, bonds on yuan-Treasury watch",
-        "summary": "",
-        "source": "Aju Press",
-        "published": "09/21 17:03",
-        "published_ts": 1789977796.0,
-        "tag": "Fed",
-        "first_seen": 1789982123.8687427
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 23:15:58",
+  "updated_at": "2026-09-21 23:31:03",
   "yields": [
     {
       "label": "3년",
