@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0zQTk5UDJlZEM4TTJ4WXVJekFKVnpoSlVvTzY5VUFKZjRJaWVYbEllMGR5YmF3djV1OVh2LXNvSUVJUUdjdjQ0LWJpNHpaaEM5TlF5Z2stMXdJLU5ld3ZqLXVhanJVUQ?oc=5",
+        "headline": "세계 중앙은행 긴축 재가동…연준·일본은행 나란히 금리 인상",
+        "summary": "",
+        "source": "더구루",
+        "published": "09/21 12:08",
+        "published_ts": 1789960106.0,
+        "tag": "JGB",
+        "first_seen": 1789960525.7552423
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iRXVCOFVoc1pJNW5kVkd0NzNZYjhnTEFxYmFCdTM5c3d2NlVLQkktNWctZWtXXzUtVWlTNGJ1Y1o5cDFVdnpvcjZudTZyWi1McFBMR1dBNklFZjg3bXg3MjdreWhmMGVKVTNFcktB?oc=5",
         "headline": "日정부·BOJ(8301 JP), 엔화 급락에 ‘레이트 체크’…연휴 중 실개입 경계 고조",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789891200.0,
         "tag": "Fed",
         "first_seen": 1789892122.9432943
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNE5zR3h3Yl9rSE9rRmNjY0I1alNkSnVBeTZNZmdDY0ZCSXFlcFRTakFFN0lxR1hvdkhwRjg3NDRHX1p6clJFSENRS2Y3c3NkTVhHNnpIbkpJeUtyZ09uMVNFS3pEVDdPZFVXT29MeU83ZlRXTEV6dmVDaVJFOVlBMVkyNS1faTYtSmxueHJVUE1YNWxUTWN4SmdfNFZlcXgtVzNIRTMxXzh5ZDU0LXFrem1mTDFCUlBNNVhnLTV2ck5YVnM3bFBBWE1lMlZJOC1pd0wzSHIxeVlySWlyQ1E?oc=5",
-        "headline": "Nasdaq, S&P 500 Futures Surge As Wall Street Cheers US-Iran Deal, Brushes Off Hawkish Fed For Now: INTC, AAPL, MU, SPCX, RUM In Focus",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "09/20 15:36",
-        "published_ts": 1789886217.0,
-        "tag": "Strategist",
-        "first_seen": 1789942524.5488272
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 12:01:03",
+  "updated_at": "2026-09-21 12:15:47",
   "yields": [
     {
       "label": "3년",
