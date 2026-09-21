@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOTEJlWjlSWmQ3N0x4UUZ1VjAteElqWEdZOFFSd2VZTzhIODIwMGdXTXN3UmlqbjBzSWprMmVzTHVsc2o1WW1xVHctZTBvUmFZWlhSUmhlYWktWDhfX0xEQk5Zd3BpakgxelpfWmhIWV9PZlNGU0tWbjV0a05pMi1QMHhzUmVYRWk4X082WTBsbXZYLWxaZHFZNnlrX2VnckdmRFNiYlBtYmRGUFV5OTlhemRDQmJ3OFpzMlpXdWh0bHpSOUZpZmQxLWhKc2pkUDZMdXY4aXlaVllsVmFkcW9HbzNjQkxqSjBVLUdXSmZFSDhpN0NVWUd2MHhQZDhBaFJzX3BPdHdxZFBndUtPMEt4OS1leFI3bHQ1ZDN5emNCM2ZFX1ZJUWFoRzVxcWM?oc=5",
+        "headline": "고금리 시대에도 주식?…‘채권=안전자산’ 공식 깨졌다",
+        "summary": "",
+        "source": "데일리안",
+        "published": "09/22 07:22",
+        "published_ts": 1790029320.0,
+        "tag": null,
+        "first_seen": 1790029832.3519301
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCcUE1TGNlcXZ6MXAwQWZrSUpmT0FGcVJ3bDlpLV8tXzR2LVhzREwtbURpX3I2VHc4Sk5pRVZfcFV2eURjcFluMWRMczk3RDd1TnRzOElQVFlHMFF3N1o5Z2pPMlhNM2s0?oc=5",
         "headline": "반도체 호황이 부른 역설?...달러 넘치자 韓 단기채 내던지는 외국인들",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789612394.0,
         "tag": null,
         "first_seen": 1789614922.9887104
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tQmo4SFctWWh1a21yVkVhVlFvRHVrNFRWRUlWdU9YWGM3Skt5VEItRnBtUW5reEtKekttRW5RMXlnaUZIQ0NuVDNjY2ZJRG1KZ2RkdmcyMnFxdw?oc=5",
-        "headline": "美연준, 3년 2개월 만에 금리 인상…증권가 “매파적 인상”",
-        "summary": "",
-        "source": "브릿지경제",
-        "published": "09/17 11:12",
-        "published_ts": 1789611120.0,
-        "tag": null,
-        "first_seen": 1789646436.4123623
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 07:19:06",
+  "updated_at": "2026-09-22 07:30:55",
   "yields": [
     {
       "label": "3년",
