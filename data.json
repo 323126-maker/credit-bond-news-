@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS2VBRV9HOEpfUDc2LUtEN1lnUTB5MzJRR2RzdzFTMnNqajczTUdqdkhrMXRuTFZDRV81QUtLTTlhOFIycXhiVkxOMWhlYmVILUduMjhnMV9rYnlyZFZySEdRT2hPWTg?oc=5",
+        "headline": "[9.22 개장 전 주요공시] STX 최대주주, 산업은행으로 바뀌었다 외",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "09/22 07:30",
+        "published_ts": 1790029800.0,
+        "tag": null,
+        "first_seen": 1790032524.5003889
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aMnkxcHZXNDdBUHRmbVRQRDc5Rm1hcHphZjQyc0FjUTF4bl90Y0tNX2FDck9wc2kwWjVQSk15aGpBdkg0ZDEtR1c2RHFCb05iLTY3dG9ZRzh2SDVZNHlxNkFNc2M5Tjl6Yzl1dW1ucXZ4eDQ?oc=5",
         "headline": "삼성·메리츠 가세...발행어음 판 커진다",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "이투데이",
         "published": "09/21 14:01",
         "published_ts": 1789966860.0,
-        "tag": null,
-        "first_seen": 1789967724.116235
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9rRzl5aExMZW4tSlhSaHROdnYzcnU5RkxPZWhhSnZjVTRBVDZxVjJ0WFVadlZ4cGVNLWNpTFFGdVNqTjhqRXg3anlfZnU0ekpJaHlfYmxhRDRjQVHSAWBBVV95cUxPVFdhVWFubXFwVnJhM2VGMVZveVAyX2FlYjdTMFFzQlZmeDE0elhTQjQySUY5RUVGZTJncFBlYkY2TWRNVjJGMnZKNXNHR0tJb3hqMUtVZ0QxYzladmJReHg?oc=5",
-        "headline": "금투협-태국채권시장협회, 장외채권 자율규제·정보협력 논의",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/21 13:57",
-        "published_ts": 1789966653.0,
         "tag": null,
         "first_seen": 1789967724.116235
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 08:01:31",
+  "updated_at": "2026-09-22 08:15:49",
   "yields": [
     {
       "label": "3년",
