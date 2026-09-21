@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQU3N5MDRKRktCRTlBR2lwczIwdzhZc0ZBMzAtR2tSRXBVcF9Fd3loN2J5Q3RjOWg1OWw2NzZXa0dVaVhFNEVFcHdQRjcwekpYYzFIRGl5S29qZkR5SmNhclExUFF3VWl1Z1U3X09ocXk5MnpjOEhOY0x3Y0NSUk54YXJqU3dtT1pXbDg2U3FtUmRyVkxMUEM5Zy10OHN1ZUhWNWhkbDRTQkdmbkVsYjVEcktMNksyVUhGNWZUeUNUN3kzaXc?oc=5",
+        "headline": "Egypt weathers regional war shock, but high debt and state footprint threaten gains: IMF - Economy - Business",
+        "summary": "",
+        "source": "Ahram Online",
+        "published": "09/22 04:23",
+        "published_ts": 1790018600.0,
+        "tag": "Global",
+        "first_seen": 1790020838.3798978
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFYzRmhqdE5uamVwR0JpQVFrS2k3SFN4OURLOFpIM1RQRXAxbVpyT2JhUWN4bXRhN0R2WEl1dmZ6UzZJb3VFZUNPdDRXQy0xZkp3QVNMalhUSUVwNUNNd2tvVF9vdmxTMHBUXzJ4OXpkUElqV254VXNVVVg4RU51b1N6bTV4UWtldU5PSg?oc=5",
         "headline": "Yen ETF faces headwinds despite BoJ hikes, leading to a HOLD rating amid mixed market forces.",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1790008777.0,
         "tag": "Global",
         "first_seen": 1790009124.7623
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQSzhiTXl6bGhVT3VObnJPXzdGU0RxSnhkVHlULUZiRmRGNnNRYlNKZUx4Q2ZzUlF0Rzh4OUVXMW1jbXMzQnBHUV9YSWxVakhYaWc0clpVeHo1cWlvY09UVnVVTGZzbU4wQU9aX1NsOG01cjVMNDQzUGRfVGJOckZZTWtZMWxWYXpGMzFzOEJB?oc=5",
+        "headline": "\"사모대출 부실문제 예상보다 심각할 수 있어\"",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/22 01:25",
+        "published_ts": 1790007926.0,
+        "tag": "Strategist",
+        "first_seen": 1790020838.3798978
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTR6WXhFWG9QLUR3NmR5NFVYdjM3ckNySlA2X2tyeWhOa29icERLRE5mTTR2dy05UkVvZnRRTi13ZjZZRHE0cUUyYnlMc0VlR2tkUGFnSnlEQTJuTFBYLXB6SE5mNnpEOTFJM0paZklkLVVBQTB2SVFyWjVtdks4V0sxaU5XczRZSjMzeGVn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789994102.0,
         "tag": "Fed",
         "first_seen": 1789994724.586233
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbVNrY1pGU2lWazdNUlpGbW5oVEtaSWZJQmNtUlhaQUxrQ2hmLW1uRFJEQzhsRERwcTFIY2hOSGhiaDN6OWprT0FJdXJweXJ5LVE1UUZQeFdkTUIzVlVkczVkVjBHZWMxZ1RZcllQN01reEtNV3V4VGhWSUtwQWw2OU1ERmwzRlNMdWI3bWFmRnp0Y3ZzR01GTUJRVGZhSmFxdDMteFRHUDBVTkN2clE?oc=5",
-        "headline": "U.S. Stock Futures Climb as Crude Prices Retreat Ahead of High-Stakes Trump-Xi Meeting",
-        "summary": "",
-        "source": "Blockonomi",
-        "published": "09/21 21:31",
-        "published_ts": 1789993896.0,
-        "tag": "Fed",
-        "first_seen": 1790013640.9607832
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0p5Skc1eGVyWDg3MFRTTnF4ZTVLdldnamNWdXNDRTFVUGlmLWkyNUR2TkFwbmktbndnZFpiOXl3NWozSklmOVN1bVl1aWZWMkVyV2loaHJoUEl4d1BvM0hRM0dZTTMtWVo4N2NockZmVDQwaWw0bzAyT1hlbEdRTDhvTzRvNi11Zm5OWGdrclg4dXV1cC0zZXUwYzBCazJVdUhqRHhYbUpxQ193cTc0bnRPSzJKV1VwX1d4MlZhZw?oc=5",
-        "headline": "John Hancock Multimanager Lifestyle Growth Portfolio Q2 2026 Quarterly Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/21 21:13",
-        "published_ts": 1789992780.0,
-        "tag": "Global",
-        "first_seen": 1789993834.4504874
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 04:45:51",
+  "updated_at": "2026-09-22 05:01:06",
   "yields": [
     {
       "label": "3년",
