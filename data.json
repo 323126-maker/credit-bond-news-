@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPa2VEM0NjLUZIbkVJSzBPRHp4a1BkVXNTQnVVelVQV2xjVC1Vb3lmb0J2TTZFUmRVeEl1YkJlY2hwZXRHSGFwamRpRXJLNHNxcmFlUkloa2FISV8xSUNIMWFzRWZCYXFpZENhNzFlN05fVFFkcVNlMDlaNWtaRzlsVTFGT1o3VVRMblRHU29qSHRvQQ?oc=5",
+        "headline": "Where to Buy Bonds for Income as Yields Rise Everywhere",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/21 22:53",
+        "published_ts": 1789998835.0,
+        "tag": "Global",
+        "first_seen": 1789999277.322789
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZZ1N6RVZnTzJRU05MQkFjQ29PTlpDY2JsM0dxN3M3ejFoSk83NllBTmRpUHF4b09kcmdZS2xPYmNuNnFqaFJ2VDdILUl4cXNCLXRyVFBzS0pyU3Q5V2RpSmRDbzJZTFBsQl9RTjBHTGk?oc=5",
+        "headline": "Fed Rate Hike Ripples Through U.S. Markets",
+        "summary": "",
+        "source": "stl.news",
+        "published": "09/21 22:46",
+        "published_ts": 1789998396.0,
+        "tag": "Fed",
+        "first_seen": 1789999277.322789
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYUw2TG4xVTFDaXpad3p2aEpLbjlHRC1hOUhXSFFhREROT2NkLUxpMXBOZlNERHRNQVRXV0Q3bkhxREF1ZlBQVVRhN0NPemMzdENqNmFYZUFpY216Y2Y2THdyRGZURnAxdGowcktzS1NKSHJTR0hZVUZvdmx0ZDBwSHdjRU4?oc=5",
         "headline": "Why the bull market has kept defying the bears",
         "summary": "",
@@ -1658,6 +1678,16 @@
         "published_ts": 1789995420.0,
         "tag": "Global",
         "first_seen": 1789996477.806733
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWVudnI2WVFxeWgzSm92bEdvSjUwYmx4d2xkR25SWUhtZ2E2T3lGSE5ydjZCdXJoa2ViTy1fV1FYVE9aOXY3RjRSbmxjXzF6cU5heHdKVVMzRUt3QkFaSndUR3BnazBFV2YyMnBvLVNwc3RZV2FMUXpUUzBjbXZwbHNSNmRsanZVNHFOVVJLWWxTOVBkckIxQ2JOLUMwVHJRbnVEUUZwTklxTy1vVlkw?oc=5",
+        "headline": "U.S. Treasury yields ease on crude pull-back ; rate hike bets stay",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "09/21 21:46",
+        "published_ts": 1789994773.0,
+        "tag": "Global",
+        "first_seen": 1789999277.322789
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBieVotTmhxZDc1SUtJd2JPU3N2b1I4aVNac0c0X2R0U0xFU0U4TzEyMkY2OTJ2ZzZaOHJJOUlXVVFaM3oyUnVjTUNVY3BDcV85ei1EdQ?oc=5",
@@ -1768,6 +1798,16 @@
         "published_ts": 1789987587.0,
         "tag": "Global",
         "first_seen": 1789988440.7514741
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5",
+        "headline": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge",
+        "summary": "",
+        "source": "BBN Times",
+        "published": "09/21 19:38",
+        "published_ts": 1789987099.0,
+        "tag": "JGB",
+        "first_seen": 1789999277.322789
       },
       {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ZbGhwVlFtSFF3a044MmZPYmJOME9NNUVrUDdvZGxrWnl0VXkybGl5VGRZZkxCX2RZUm45WXlBNmdOcEF4UldWckp0eS1paEYzZ2FvRVlRMnFWZnlhUFBPSF9Wd3MySXUxNy0tNWJGMjVWYmNlakVZ?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1789975746.0,
         "tag": "Fed",
         "first_seen": 1789981237.0052516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBhRWE1VnZwX0VWeVFVWnpVZ21aTkJYUjJ1eUdQT0xNRE1aZ2lLRkJEN1I0SlZGX0VpZXd6UXVJTDFiaFMySUlfYkRxdk1mM09uenEwYWxDYWZVZ2pYN09FWHA1MThQbWkzejJPSQ?oc=5",
-        "headline": "[미리보기] 9월 4주차 금융시장 전망",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/21 16:22",
-        "published_ts": 1789975323.0,
-        "tag": "JGB",
-        "first_seen": 1789995638.0038576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWQtenF3bXpXT003UWFUeEJOOFoyak42N1o4UmJfTERza0hwWTRvTVZldkE3NHVQSFAzOFJXNTJfZFFWWjVISEJmUlp0TDg4NDRLYlh2UmNmaktqWTJPd3E0SmRITllEQnBTRHdXOXo0Xzg3cXNiX1VuSjBfbWczN3E4T01CU1JuZmRubjVYS2tRSm1OX0tibDVvVjYzclQ3bnRCQw?oc=5",
-        "headline": "ASX Outlook: Wall Street Gains Meet Fresh Global Market Risks",
-        "summary": "",
-        "source": "Kalkine Media",
-        "published": "09/21 15:56",
-        "published_ts": 1789973760.0,
-        "tag": "Global",
-        "first_seen": 1789977639.9481182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBfNHVRLTdjUWctQ3FjanRTUkVIUlN0Y1MxNkxjcmhJU2lkQzhEaWZhb3lVY3JmT3hiam5wUUtRTmRjY0xhNFQ2UTloM0ZjM0k5?oc=5",
-        "headline": "EM investors are favouring local bonds as dollar debt lags",
-        "summary": "",
-        "source": "The Edge Malaysia",
-        "published": "09/21 15:36",
-        "published_ts": 1789972560.0,
-        "tag": "Global",
-        "first_seen": 1789974044.5294228
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1oYlFJaktDSVpMano1U2FSZ05QbHhWSjhNMU5USFRWa0dSMUVDRURPaEhQbjJUZzJ5bTkzUnJ6LVpGZ1ZUQlNTOEVZMmZGamdQMlFDNk5GY2FPSUFEMnNlY2VhZk9hU1diMGprWkVB0gFuQVVfeXFMTWhiUUlqS0NJWkxqejVTYVJnTlBseFZKOE0xTlRIVFZrR1IxRUNFRE9oSFBuMlRnMnltOTNScnotWkZnVlRCU1M4RVkyZkZqZ1AyUUM2TkZjYU9JQUQyc2VjZWFmT2FTV2IwamtaRUE?oc=5",
-        "headline": "\"변동성 더 큰 청구서 온다\"…美 재정 덮치는 단기채 딜레마",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "09/21 15:07",
-        "published_ts": 1789970878.0,
-        "tag": "Strategist",
-        "first_seen": 1789979431.0145242
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 22:45:50",
+  "updated_at": "2026-09-21 23:01:47",
   "yields": [
     {
       "label": "3년",
