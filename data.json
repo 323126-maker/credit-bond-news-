@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1iRXVCOFVoc1pJNW5kVkd0NzNZYjhnTEFxYmFCdTM5c3d2NlVLQkktNWctZWtXXzUtVWlTNGJ1Y1o5cDFVdnpvcjZudTZyWi1McFBMR1dBNklFZjg3bXg3MjdreWhmMGVKVTNFcktB?oc=5",
+        "headline": "日정부·BOJ(8301 JP), 엔화 급락에 ‘레이트 체크’…연휴 중 실개입 경계 고조",
+        "summary": "",
+        "source": "알파경제",
+        "published": "09/21 11:46",
+        "published_ts": 1789958808.0,
+        "tag": "JGB",
+        "first_seen": 1789959639.332899
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0o1UjZOa1FQMEhiUEdRVFh0Um1SYnh6TWl3Z2FJSUFUZ3ltX2d1UzE4TzBXb2VYU3NfelRXWjUtbmxxRVlLRkRLUkpQZm5XR0FQMEJIaVNHaXMxMVZ0Y0F5NDgtODFCbGFIRnlSU2FRcTNDTHFpS0xsRnFQT3I1UkdCcWFTaUhreHZJejk4cnRGcERTOThEOGt4MkkxOFpKdTlaYjJkbXJfYXFFeWZlVHR4WEs?oc=5",
         "headline": "SoftBank Seeks Over $11 Billion in Junk Bond Deal for OpenAI Bet",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789886217.0,
         "tag": "Strategist",
         "first_seen": 1789942524.5488272
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcHpnRHdfMUxxMTlVOVIwN3IydTdoWjVWYXJIaVZITlkwUEx3dTc0enZ3bjNxS25iOEZONXVMcUpzNnBnS2F2V3ZWbXRhbllPdmEybl9iVXB0VmxBMEUydDRsUTVhNWtmSDhsVTJDZ0UyWnIwd1dIejJyb2E1YnFVZXVRQXNNLXlwbnVwRXdtQm9nT3ctWWlZNGV1QWJiV3BMeXp6U0ZfM3Y4WGg2Y2cwQnRXc3B3MzNpNkVPM09PdUI2bmNNakUzRg?oc=5",
-        "headline": "A break in the global bond market is coming for Australian home prices",
-        "summary": "",
-        "source": "AFR",
-        "published": "09/20 15:00",
-        "published_ts": 1789884000.0,
-        "tag": "Global",
-        "first_seen": 1789888522.7412956
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 11:45:49",
+  "updated_at": "2026-09-21 12:01:03",
   "yields": [
     {
       "label": "3년",
