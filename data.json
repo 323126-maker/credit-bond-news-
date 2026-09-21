@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mTHdybGFsdjBBTEpMT3N1RnpTdklRMkdDRE1rMHd4aHAtalc1eGxhejdSVWEwR1N6cGxEX2dqWkhha1BUVkNUQUFsemZ2cG01bVh4RUFubzhFdk9UVHRWZmhvcW9laDRUOF9kQ3RR?oc=5",
+        "headline": "[기업 공시] 메리츠금융지주, 신종자본증권 2020억원 발행…기존 차입 상환·자본 확충",
+        "summary": "",
+        "source": "issuevalley.com",
+        "published": "09/21 21:00",
+        "published_ts": 1789992019.0,
+        "tag": null,
+        "first_seen": 1789992925.792414
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzc0tCRHBBNEZmSUVkbFRsTWhRU1l0RG9qbDUzUWFQYVExWDBpMTdLcFo4dUtXTzRxNjlFRFloamR2b0V1dm9RNDlDUjdMdndvVWgxVVFkUkZKQVVVd3JOTENFWm5GZWNsbE1N0gFvQVVfeXFMUEhPRlFCckFUcVprLWZrV1FnT2thR2Y3TVkyaDFMMk5yV0tiUVMyUEN0MWU0TV9UWnItLWdBVHVQazk3R3dzTzduM1FyNExvcmRvRjBsTXVILWZXM055VjFhaUNOZHZVVExyUnJEcGdR?oc=5",
         "headline": "롯데손보 이자 중단했는데 6.8억 ‘돌연 나갔다’…신한은행 지급 집행 오류",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789613880.0,
         "tag": null,
         "first_seen": 1789641923.7468648
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQaFRrdWl6cENHbWpRUExJZkV3OG90anBheWNrZ1JWNko3UUxwdXFBVkMyd0lvTXV2Y2VKSTQ3Y3pUdzdTMkNjaHBGV2sybFVGNXlMQkUtbHIzRzhOMzhKNnlVSUdtV2cwU0oxdVFGYjk1Mlg1OEs5dEVDTFlGMUVaWmJVNzA2eU9KQ2w2NThPOEZERFYzVDJkSTVQMTM5bXNLMnZoSHFRd2tNREczQ2xoUm9YeFE?oc=5",
-        "headline": "게임 테마의 공통 요소를 모아보는 바카라 쿠폰지급",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/17 10:45",
-        "published_ts": 1789609549.0,
-        "tag": null,
-        "first_seen": 1789643725.9590535
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 21:01:11",
+  "updated_at": "2026-09-21 21:15:50",
   "yields": [
     {
       "label": "3년",
