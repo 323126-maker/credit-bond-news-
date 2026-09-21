@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbUpvUXYtZEV3ZkYxZUp6WkFsY2RjSTA5UnYtQ2dSay1ZV0paWnRDVS04eFM4Wi1reGxZNGNWOXJnaFJuaVFuMHcxQ0NLanJwbkZBVm95MDdyeHdoVWJBSXVydEF4SGI2MXhDb2ZFWVZxLWw2cE1CUWpabFdUcmJXVm5Xd0pWTzgxU3lWTGFhTndHZGYzSUpCZFR2d2lvclk?oc=5",
+        "headline": "Slowly But Surely: A Decade Of Evolution In China’s Fixed Income Markets",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/21 23:41",
+        "published_ts": 1790001660.0,
+        "tag": "Global",
+        "first_seen": 1790001930.5681653
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ3ZNTzBQTHBCTjdrWklsdlV5bkd0cGRzemhRd3VsOGMwMWVNQ0F5SWJtT3J4RVNOZmQ5ekJKZXE4RUcxdVAzY0JFbHBQUXY2ZWlnZ1p0anZYSmppSkVGalZlcDU3TUJYZV8wRnRFMzhzMmdGRkxuaEMzUUp5a3J3ZTVhY2ZjcENDeDdXc3hnUU1yU2RFZ2RmX3JFcVBSNVdQOGcwLXpvNFQ?oc=5",
         "headline": "IGLB: A Unique Asset Class At The Intersection Of Debt And Equity (NYSEARCA:IGLB)",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1789996500.0,
         "tag": "Global",
         "first_seen": 1789997433.5714426
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZ01mS0VwcU1YU21nbEFtSlJ3M2tGamM0cldJaGVDWEhFWnZENHBsdGVqanlOZ2d1YjBDYldwcmcwNDlzbVhSaGxzWnJ1REdRRl9fLTB6UG9MaUttcGVnLXpjWEpmUmVDOG1yWlBDODJWSE5hVDhUV2ZSU1lEbEluWmViUmNxLTZQWFdKZTJpN3I3X3BuUmljR1Z3?oc=5",
+        "headline": "4 Bond ETFs to Gain from Fed Rate Hike",
+        "summary": "",
+        "source": "TradingView",
+        "published": "09/21 22:00",
+        "published_ts": 1789995600.0,
+        "tag": "Global",
+        "first_seen": 1790001930.5681653
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTHo2bENfTGhqbXlJekhrNml3b29MSUlFVE9TRWYxdTlRSWFLU1JueGxOYUhaX1FwVldmclZyXzh3aWs0eTdrbkpXVTdBeFM2UlI4VkVkZGUxU3A1eklaYjh4bmtpdjZzZjhUT1hUNmhDSXR5VEVIc3dNMTEzdXZHakIzM25SY1ZsOS04Yw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789980052.0,
         "tag": "Fed",
         "first_seen": 1789986631.570953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zejRVYmFHU3pFSHFPTTZDNXdEX0pldG5oUTk0RFM4NDVNRzVHQTNVOHRRbU9qSXBiSW1OWjFMTHhBVk84WDlNOW9GMGV0NXNxVmhrVmpNcnBqa1ZDNXBCQTFiQ0VwVVJoa0tkR0JWVGxTaUVYaEI0bjhCQm5MVW8?oc=5",
-        "headline": "Ten faces to understand why the bond holding up the world is cracking",
-        "summary": "",
-        "source": "El Mundo America",
-        "published": "09/21 17:36",
-        "published_ts": 1789979771.0,
-        "tag": "Strategist",
-        "first_seen": 1789980332.8171318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa3A2ckQ1dVpKa3I5OTVBS3dib1JEcTJkSUptV0RjTGFFb2p3UUU5dXdzaEpvS0E2TTYxR3k1RUtJaXFqQ2NOc0MyNTh3aEZrZml0RDV2M3VsWGd1WjgySzJHZjdwai1zOFBWLTN5cjJOWWVmSHB4Q1lhelNQTjhzRk9tR1ZYb1FEMmZvbnBjdmFTN2h4SGM3MEdrTzR4VEx4T1NpYjl3?oc=5",
-        "headline": "President Donald Trump Just Admonished the Fed for \"Doing the Wrong Thing\" on Interest Rates, but Ignores the 2 Biggest Inflation Catalysts",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "09/21 17:26",
-        "published_ts": 1789979161.0,
-        "tag": "Fed",
-        "first_seen": 1789980332.8171318
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 23:31:03",
+  "updated_at": "2026-09-21 23:45:56",
   "yields": [
     {
       "label": "3년",
