@@ -816,6 +816,16 @@
         "first_seen": 1790021723.83828
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxZGlpQ1ZaYzRNSnhQOU45M1daLXljSzFmR0UtMFNJVnZvZmtSS18zNHY2d0F0dlptZl9HWkR2dzE0WkY4WS15d1JLeXlEd3p5UWxDSWFSQ3dOU09F?oc=5",
+        "headline": "SK하닉 ‘채권 60조 매입說’… 시장 떠받쳤지만 고금리는 부담",
+        "summary": "",
+        "source": "부산파이낸셜뉴스",
+        "published": "09/21 19:01",
+        "published_ts": 1789984860.0,
+        "tag": null,
+        "first_seen": 1790022629.5901175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jb2pSSGp0SDRwMFV5LWZtNUQxUGppcl9DcW5FQ3RieWxCREc5a0tyS3k0cEFTd2ljSFpSX2JBWHpXLVRTa1JnelQ0MEkxQTZSdjZYeW55Z0k?oc=5",
         "headline": "[경제분석] 미국보다 더 빨리 뛴 한국 국채금리…돈의 가격이 다시 비싸지고 있다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789610640.0,
         "tag": null,
         "first_seen": 1789727433.79944
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAyYVRBOW5PSFlGczZLX0J0dXByUmVKdDFYcGRRdkRFVXEwYXM2b0hXQlFqWEdKZlZOdkdhcElRdUlkSnpKdUE?oc=5",
-        "headline": "5%대로 치솟은 마이너스통장 금리…내려갈 일 당분간 없다는데",
-        "summary": "",
-        "source": "매일경제",
-        "published": "09/17 11:03",
-        "published_ts": 1789610609.0,
-        "tag": null,
-        "first_seen": 1789619431.522512
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WbDEyS0psdWQ5OVNPZjZnX2ZxRGRydlplYzdHMzllS2luMUlhNWxSM3R3aDZyY1d2QzJyWjBwSEdKaVMtVG83TXV2VWlHRWo3QUtBQzlRUkZfcmJNc1p3eGp1bDlFZkUzUXV6UzdnMlE1UG5Vc2J4elA5VVEydw?oc=5",
+        "headline": "The Fed Moved. The Borrowing Math Changed for Businesses.",
+        "summary": "",
+        "source": "observer.com",
+        "published": "09/22 05:16",
+        "published_ts": 1790021819.0,
+        "tag": "Fed",
+        "first_seen": 1790022629.5901175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZEdCMl8tb21Sd1c2aVlEMnNLXzVvdVZGRkh2WXAwc3pYRkhDMVN5SDF0Ym1QUUZiR3E4bDc1eWtveDNuOHI5eVlSYmE3cGp1dDhMM2RmVlgtdmFFX3owMXlsZFg5X0JiTG5kQ05EU29HZDRDMnJfY0h0UGtiVUlObdIBhgFBVV95cUxNcVB2c1ZPT21DSDlQS2pxQTJfZTlLZFdLWGtBNWdpSjViT2thUXFjendGQWotVTlfbW1MY3M1dVVWamF2TXc3UkJ2YmJnS3Q1UmFfbG5tQlVQLWZKY3RjMWFqQ3Z1TkFmbExGcERuZEtmU2N3SzRUVHRvZ1B2VzhueEdiX3JxZw?oc=5",
         "headline": "Bessent says he has ‘great confidence’ in Warsh after Fed raises rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789995420.0,
         "tag": "Global",
         "first_seen": 1789996477.806733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLWVudnI2WVFxeWgzSm92bEdvSjUwYmx4d2xkR25SWUhtZ2E2T3lGSE5ydjZCdXJoa2ViTy1fV1FYVE9aOXY3RjRSbmxjXzF6cU5heHdKVVMzRUt3QkFaSndUR3BnazBFV2YyMnBvLVNwc3RZV2FMUXpUUzBjbXZwbHNSNmRsanZVNHFOVVJLWWxTOVBkckIxQ2JOLUMwVHJRbnVEUUZwTklxTy1vVlkw?oc=5",
-        "headline": "U.S. Treasury yields ease on crude pull-back ; rate hike bets stay",
-        "summary": "",
-        "source": "Investing.com India",
-        "published": "09/21 21:46",
-        "published_ts": 1789994773.0,
-        "tag": "Global",
-        "first_seen": 1789999277.322789
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 05:15:58",
+  "updated_at": "2026-09-22 05:30:57",
   "yields": [
     {
       "label": "3년",
