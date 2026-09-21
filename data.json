@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBDUWxhWUhEN3I0b3lmUjM1ODYzNkNYQy1UZExWRmhkWllPeVYyU2xfd2x5MWNSU181VnJ1a05RWnJac3RzSGpKUXZmQTg4ZGdDNVcyb3pFd2VIOUIzclQ4dkRHZFdfTkNtMFE0U1YxVHRlR2NlWTVJ?oc=5",
+        "headline": "무디스, 실적 개선에 웨이페어 등급 B1으로 상향 조정",
+        "summary": "",
+        "source": "kr.investing.com",
+        "published": "09/22 03:57",
+        "published_ts": 1790017020.0,
+        "tag": null,
+        "first_seen": 1790017238.560359
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXJfUXBtWEU4M0pQVllNVGdtSC1rMEJnb0x6Y05SZ2NDNEhpYVk0S3BnXzV6TWhzTkIxQU5SQU16WWhJM25HOGZMazYyTGR1dHItVmtDdWppS2FpbUtoMlZhOG9JLXk5a3ZWVWk3RlZTYjJSYTZHLWlDRzg0cDdiNjBYWmxfZkNoejQ0MWdCbnVLdUVkUU9icFVnNXozSWZNOUx6RnVhQzdKeXZXNUduTDluc2dxaXFxUE56YkVrNUx1amV6cXZzSUl1Ykk3RkRo?oc=5",
         "headline": "[뉴욕증시 29일] 고유가 장기화 우려 속 보합권 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789949091.0,
         "tag": null,
         "first_seen": 1789955126.2917933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lWFpuVWRMOTNnM0pOYloxOXhSTVNrSUlrekRxX0RwN3pDenBad29NZ2RLbTgzd1JkNFNBZWRfQUNxQ0ZUb25iX3FjaUF0Wl9BejJ1ZUhVZTV6UmJSWWdwczlnTUxzTjRpVG9UVWo4M01kUQ?oc=5",
-        "headline": "\"추석·분기말 앞두고 은행채 발행 증가에 스프레드 확대…추가 약세는 제한\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/21 08:37",
-        "published_ts": 1789947472.0,
-        "tag": null,
-        "first_seen": 1789947928.9583526
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 03:45:49",
+  "updated_at": "2026-09-22 04:01:02",
   "yields": [
     {
       "label": "3년",
