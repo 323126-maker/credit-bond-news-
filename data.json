@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBieVotTmhxZDc1SUtJd2JPU3N2b1I4aVNac0c0X2R0U0xFU0U4TzEyMkY2OTJ2ZzZaOHJJOUlXVVFaM3oyUnVjTUNVY3BDcV85ei1EdQ?oc=5",
+        "headline": "Bessent Reaffirms Confidence in Fed Chair Warsh, Says Buyback Size Expanded Amid Tight Liquidity",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "09/21 21:35",
+        "published_ts": 1789994102.0,
+        "tag": "Fed",
+        "first_seen": 1789994724.586233
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQ0p5Skc1eGVyWDg3MFRTTnF4ZTVLdldnamNWdXNDRTFVUGlmLWkyNUR2TkFwbmktbndnZFpiOXl3NWozSklmOVN1bVl1aWZWMkVyV2loaHJoUEl4d1BvM0hRM0dZTTMtWVo4N2NockZmVDQwaWw0bzAyT1hlbEdRTDhvTzRvNi11Zm5OWGdrclg4dXV1cC0zZXUwYzBCazJVdUhqRHhYbUpxQ193cTc0bnRPSzJKV1VwX1d4MlZhZw?oc=5",
         "headline": "John Hancock Multimanager Lifestyle Growth Portfolio Q2 2026 Quarterly Commentary",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1789988879.0,
         "tag": "JGB",
         "first_seen": 1789989324.394915
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5jb0YzNmNXV3l5SXlRRlVqMW1YY1VWOXdkX28ydk5fcHhtN0Mtd0dnN2RLNWYxLVdBcFFFRE9UWVk1aDlXNkJ3TzZhaF9VSzNhMkQtZlN4REdva2h3Nlo3Qlh2YV9rRnI1elFIWU9PZG1uU3praDF3UHlB?oc=5",
+        "headline": "A Bond Crisis Could Be Coming (NYSEARCA:SPY)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/21 20:05",
+        "published_ts": 1789988700.0,
+        "tag": "Global",
+        "first_seen": 1789994724.586233
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNSnBJVDJpT3h0cHlGTUgtVDZVSW83SHJjbkowQkkwZEFGQnJDY3dxWEVROFRQY0hpTzRKbHJfZ0puQWNacjdQcGdlb2Q3ZFg3ZTJ6ZmlPS1ZYcW1uQldtNVlRZi15MG9vbkEyRWZPUEE3VUpGbU9yTXdXNWpDZFQ2RVE1Q0ZrR0VXa0ZmVTUzUG1FWjdXYmhpeE9rSQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789964100.0,
         "tag": "Global",
         "first_seen": 1789965922.3494618
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZHBCeHYyZ1ZoTG92WVdTa3BwUFZXSHA3ZHFqOGN3R1ZFb2tlSUF5UGx6Z3lOckR4Qm1EUEFKR2k2NXZIZTdndGUyWEhsZmoyZ05hXzdxajh0TkZqcHpiLUV5emp0Z2V3alhwa04xQXRDUlBSQm1tVFVYN0c2MC05OWh5THZoVWlydW5BSGxnZEZIYXlYOEZLbWtmWVRLSUtiT2Vv?oc=5",
-        "headline": "The Bond tantrum returns – Rates, liquidity, and the Battle for the Long End",
-        "summary": "",
-        "source": "roger montgomery",
-        "published": "09/21 13:13",
-        "published_ts": 1789964005.0,
-        "tag": "Global",
-        "first_seen": 1789964125.3222601
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYkFNSTRBNjVrcHR4cXNibWV0R1dkTWFsazJwYVdpTHVrbVpxSWdSVnpIOVRQMFhHcmxvM2p5dmliYjdyMUNpcll4dU5hMHh3Z1YwTmFWemlwbGN1QUhMSi1Kek14ZENDZl9oQ3p1RFh3UGlBRWNCZUFsRXBlcEE3Rw?oc=5",
-        "headline": "엔화 157엔 코앞…日 당국 시장개입 경계 고조",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "09/21 13:06",
-        "published_ts": 1789963615.0,
-        "tag": "JGB",
-        "first_seen": 1789980332.8171318
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 21:31:00",
+  "updated_at": "2026-09-21 21:45:50",
   "yields": [
     {
       "label": "3년",
