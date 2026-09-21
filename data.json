@@ -1690,6 +1690,16 @@
         "first_seen": 1789981237.0052516
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdzQwSDdlYkc2TkJlR1VJc083MEFxeWVURWdESjJfazRzNl9kMXplbDBZREtIVFJjNXdHc2tJX2VKZ2hURWY2TTdxcFNDOUVQbFJjck9PSjBSTG8zVzhLM0sxSnNFa0t4alQweTdyX3FGd2U0NjljaWJoZ0VNSURQSUZqeHotZzRQZkNwbEtPdXVIR3duYW1PcEM5emh2MzlCWmlCLWduUmxBTHM?oc=5",
+        "headline": "Hawkish Federal Reserve Steadied Stocks and Pulled Bond Yields Lower",
+        "summary": "",
+        "source": "stonex.com",
+        "published": "09/21 17:40",
+        "published_ts": 1789980052.0,
+        "tag": "Fed",
+        "first_seen": 1789986631.570953
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zejRVYmFHU3pFSHFPTTZDNXdEX0pldG5oUTk0RFM4NDVNRzVHQTNVOHRRbU9qSXBiSW1OWjFMTHhBVk84WDlNOW9GMGV0NXNxVmhrVmpNcnBqa1ZDNXBCQTFiQ0VwVVJoa0tkR0JWVGxTaUVYaEI0bjhCQm5MVW8?oc=5",
         "headline": "Ten faces to understand why the bond holding up the world is cracking",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1789953360.0,
         "tag": "Fed",
         "first_seen": 1789955126.2917933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CZjlzMnpHMzY1R2tfbXNsMzVpMDFpS3VvbnVPVVEyMUxWUklZQi1xeFoySkdLY042VkUxOEhndzZLMmhyOGtaWW1IbU1BV1lIeW5Ob3QxbFl5ZnZ3Mmx4Mm9kcnlKLTJfSGdGTFdZbzlhSzVX?oc=5",
-        "headline": "BOJ, 기준금리 인상...'매파 인상'보다 커진 '내부 균열' 신호",
-        "summary": "",
-        "source": "조세일보",
-        "published": "09/21 10:11",
-        "published_ts": 1789953093.0,
-        "tag": "JGB",
-        "first_seen": 1789954231.811543
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 19:15:48",
+  "updated_at": "2026-09-21 19:30:57",
   "yields": [
     {
       "label": "3년",
