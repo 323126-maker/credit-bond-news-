@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5SWU9vSlRTcTVWQ0ZPQ2VtMmNvZDhwaFNLZmVqZDVXVTg4T1JoMlJrejdqbk5xOTZZbXpMM2NFdWpMMjM4OGpFeEFndG5wRW1zekh3c2Vrai1Bd2JDeWEtbHBFbDJiM19LOWNuUmhuaGrSAXRBVV95cUxNMmh2QkdwM1BQc1QyYTNyNjlQb2x3QVB0eEFjc3ZqbkljMEs5M2kzOGV2MGl0b2xnOTZubkUxWXp1Mk1iQzJBN19CY0xXRW5hOHhjWXNla0NWelVlUER1TE9xS3p4WHQ1VGNnclpMcUlTNV85Qg?oc=5",
+        "headline": "달러-원, 서울장 마감 후 1,380원선 하향 돌파…한때 1,379.70원",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/21 17:37",
+        "published_ts": 1789979828.0,
+        "tag": null,
+        "first_seen": 1789981237.0052516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9wRFkzMjFscGYzRW4yTTVPRmYwZEV4NGxWMFl2YnpGeEpvY1lsemRxU25RN1VmcmpNYmROdXJadkJjaXd2V29HdmFLaWg2Tzg?oc=5",
         "headline": "[채권마감] 통안2년도 4% 진입 ‘2년11개월만’, 대외금리 상승 탓",
         "summary": "",
@@ -180,6 +190,16 @@
         "published_ts": 1789965660.0,
         "tag": null,
         "first_seen": 1789967724.116235
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdHZGVGlkc1pIbXEwQXhKMk9CdGZudVNLZE5GckEzN0pQM3dIVnJIQjdaeGo3bHFGcVJBWkRiSFUyOFdVczJQQlhIdnc0ZG5RWFMyVFZMd20yNFB3RUx4X0RhVENaRU5Rc0llM3d5MzJ1bDBnWVMzWTVFbjFMTGFtSjhZbHpEdVlMMmxBaQ?oc=5",
+        "headline": "(09/21) 장전 데일리 리포트 (박스권 상단 돌파를 노리는 시장)",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "09/21 12:27",
+        "published_ts": 1789961220.0,
+        "tag": null,
+        "first_seen": 1789981237.0052516
       },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCcFZjZFhCUkNfSXZLbFNrdjc5NXNzN1JpN2lYN0thbGx6WEJwODNnc0NrYzctMjlXRHFVT3ltTDdaZlh1bGZWSFFBZExtUEc0TlBId3Y0UE9XNldFdmtUSG1KUkxYNU56a1BBenEwX1I?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1789877250.0,
         "tag": null,
         "first_seen": 1789938035.6664526
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80blVvbFdySkVkcVlCN2piMEJ1Ml82SVE0X2dsUncwODIwRUJoTzBSNG9Sb3dZU1FhbVNkSjZqSW1kQjlqY3Y5bXlZWURqNFd2S0RzTjlTSHNSVjFLX0ZpcDh2cXBOSlh1?oc=5",
-        "headline": "[채권마감] 국고채 바이백에…50년-20",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/20 12:45",
-        "published_ts": 1789875943.0,
-        "tag": null,
-        "first_seen": 1789881324.3667228
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1rTVlMdnZsbmlSSXhFRjNZUUFDcE5Xd25SQUFNUGZZUER1VUFXenRJU2NmSVJ4bU13WDdmSnZKdGVjZUdMSjlmSVduWGZxSW85N3RvVFBjRHRfbm1BZS1HRG1R?oc=5",
-        "headline": "[포토] 반드시 맞혀야지!",
-        "summary": "",
-        "source": "isplus.joins.com",
-        "published": "09/20 12:25",
-        "published_ts": 1789874700.0,
-        "tag": null,
-        "first_seen": 1789879524.1182878
       }
     ],
     "perpetual": [
@@ -816,6 +816,16 @@
         "first_seen": 1789974924.4435496
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5RVk1xd3ZDcFYtaU1HUjV0RF8wT3ZsQmdCRDBCRXI2RXp2S1lfT185YnFtR2w2Y29DMFFxMVU4SXZHNWJCc3NjOURMUllPMDhRd0o3R3NSdlRXWWpYS3pjZzNJczNrOF80S1N0VtIBcEFVX3lxTE5la0JIc2lRQmhJX3JTZTk3SU5ZT0c5N01zSFpZMTN4N2kyVTc4aXZXckQ2VktqbGRhUndXQU5icjVaYzEyV09KRXNoQW1Ld3FuZHhvNDJCM0djS3NwcnZNYVk3dVpOclZyejNqUHM3d1o?oc=5",
+        "headline": "한미 기준금리 동반 인상…'영끌·빚투족' 이자 폭탄 현실로",
+        "summary": "",
+        "source": "내외뉴스통신",
+        "published": "09/21 10:46",
+        "published_ts": 1789955192.0,
+        "tag": null,
+        "first_seen": 1789981237.0052516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9QczRYQVpTQXprdDdDeWhwaDJjYTk4N25ReHBkUW1fUW5Xd2NuRG9YeWhOY1VFNnBoMHpIbkgxRnVjT0FOSTVHWEcydVU0ZFFQSHJVMDRKZDNHM2lVcHlDNm55eXVmdHhy?oc=5",
         "headline": "단기금리 부담 커진다…한은 11월 금리인상·국채 발행 겹쳐 압박",
         "summary": "",
@@ -1194,19 +1204,29 @@
         "published_ts": 1789602840.0,
         "tag": null,
         "first_seen": 1789606835.0725563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHdlRnbnB3MzUyQXNjTmtpQjdlY0lQTlo2bl9OTmh1MzV2MGdjNDByR09ZbDA5R1ZDeDZjUDRqdXE3QmExenkwWENZdw?oc=5",
-        "headline": "美 기준금리 4% 시대... 대출·투자 어떻게 하나",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/17 06:45",
-        "published_ts": 1789595100.0,
-        "tag": null,
-        "first_seen": 1789675235.4430883
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80M0lnbGVrcjV2VmNCLVVnUDFQZ1RsT0JxNV9ITFBhMzRGdF9jYjhESk1HMk9xdVU1QWYxNXFBVVdwbmFWWk1vbE42bENNWkx3RGNEcDVkQ3Q3SlF1M3Jkc9IBYEFVX3lxTE80M0lnbGVrcjV2VmNCLVVnUDFQZ1RsT0JxNV9ITFBhMzRGdF9jYjhESk1HMk9xdVU1QWYxNXFBVVdwbmFWWk1vbE42bENNWkx3RGNEcDVkQ3Q3SlF1M3Jkcw?oc=5",
+        "headline": "李대통령 \"깊이 고민하고 더 낮은 자세로 국정 다듬어갈 것\"(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/21 16:43",
+        "published_ts": 1789976615.0,
+        "tag": null,
+        "first_seen": 1789981237.0052516
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5lc19sdW9HeHJSNDVpR1JzYUdVaW43dkR0MUctdFllT3ZaVy0za1NsOG9weklnOGJ5Qm1YZFRsVzVXOHVyQmNUOWR6VWVld1ZtM1M0Q2hrMGnSAVhBVV95cUxOZXNfbHVvR3hyUjQ1aUdSc2FHVWluN3ZEdDFHLXRZZU92WlctM2tTbDhvcHpJZzhieUJtWGRUbFc1Vzh1ckJjVDlkelVlZXdWbTNTNENoazBp?oc=5",
+        "headline": "김민석·추미애, 경기도 재정 신경전…왜곡 vs 설명 의무 중요",
+        "summary": "",
+        "source": "아주경제",
+        "published": "09/21 16:28",
+        "published_ts": 1789975733.0,
+        "tag": null,
+        "first_seen": 1789981237.0052516
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNGxFNDJCbnFXYThNemk0MU9wTE5kU0xoYUdlem04Z2RVWktfV1dvbUJ4czlVeWJ2bzV4MjBUM3pjaGk0XzFOVjNYeDVvU2RaSFpYOE9CUzlXVlFFbUtWVDNoLVNWWG9aQ3Q3ZjNLeVI5TG9RcWNVS2tKV1BjR2NfTnJEdzJ1WHZ3RWc?oc=5",
         "headline": "與 경기예산 신경전…秋 \"재정문제 심각\"·金 \"상황설명 해야\"",
@@ -1586,29 +1606,29 @@
         "published_ts": 1789455896.0,
         "tag": null,
         "first_seen": 1789456526.1990767
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxellGM3ZhV1JvdEtOa1dVYmxFV2RjTXRvR2R0a0dVUEFHdk8xQUxpQm9WcEhXSGR1V0I0di14VlhLWmI4Q1lSeTAyQnNrYjdZZGJubnluekhYUWItdERuRkVDUUhLdkF5STlzUVN4MFk?oc=5",
-        "headline": "‘재정 비상’ 경기도…추미애 지사, 관사·관용차 예산 논란에 고발",
-        "summary": "",
-        "source": "인천일보",
-        "published": "09/15 16:02",
-        "published_ts": 1789455720.0,
-        "tag": null,
-        "first_seen": 1789457431.5966237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ySWp4enpXR0xtQ09pRXFqdEY0WEFqNXhJREJ1R3J5MjNzZUNJc0hDUkVvTUNhbUxZdFlFRFo0ZUVOTE5JVnhvc3Y4QmtvMDlkTDhnOWJBaDFVcHRicXVCbkR0dnFqNW5oX3B6bWUzVXrSAXBBVV95cUxOcklqeHp6V0dMbUNPaUVxanRGNFhBajV4SURCdUdyeTIzc2VDSXNIQ1JFb01DYW1MWXRZRURaNGVFTkxOSVZ4b3N2OEJrbzA5ZEw4ZzliQWgxVXB0YnF1Qm5EdHZxajVuaF9wem1lM1V6?oc=5",
-        "headline": "대통령에 ‘NO’ 할 수 있나…이형일 소신 검증대",
-        "summary": "",
-        "source": "DFT 대한금융신문",
-        "published": "09/15 15:54",
-        "published_ts": 1789455259.0,
-        "tag": null,
-        "first_seen": 1789459236.834197
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNW5CZ29uTWZEV2oxNDFQeFM4Rk9aQmY1cjh2SjBjay1vUTBpQlNtc3FNZWtYcmcwaTdSelh2ZWhxWnhVVTNGUzBibEpNczRZcHM5SnZLRHNsUzlENlFGaWREQk52S2lNTjFYMUpTSlVEUGlGR1o0YWp4LVU3Y1A5QzJGMkRPSnZkam1HQk5GQzRpaHpaTEJkNEpWSQ?oc=5",
+        "headline": "Japan’s rate rise exposes global cost of cheap yen",
+        "summary": "",
+        "source": "The Armchair Trader",
+        "published": "09/21 17:58",
+        "published_ts": 1789981099.0,
+        "tag": "JGB",
+        "first_seen": 1789981237.0052516
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zeUdjVWVuSm9SdDAyOGsyeWFHNHdRaU5xbGp0b0FLM2JfNDhQVGI2UGhlSHAyQzh1cTMwTERxa1phUlJvQ29YdjRmMWxXVE5oYnF0Qnl3ektpcmpJakJpeGtwM2dKeWxIMW1Wb3R3?oc=5",
+        "headline": "일본은행 금리 인상에도 UBS \"엔화 강세 제한적\"",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/21 17:49",
+        "published_ts": 1789980540.0,
+        "tag": "JGB",
+        "first_seen": 1789981237.0052516
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5zejRVYmFHU3pFSHFPTTZDNXdEX0pldG5oUTk0RFM4NDVNRzVHQTNVOHRRbU9qSXBiSW1OWjFMTHhBVk84WDlNOW9GMGV0NXNxVmhrVmpNcnBqa1ZDNXBCQTFiQ0VwVVJoa0tkR0JWVGxTaUVYaEI0bjhCQm5MVW8?oc=5",
         "headline": "Ten faces to understand why the bond holding up the world is cracking",
@@ -1628,6 +1648,16 @@
         "published_ts": 1789979161.0,
         "tag": "Fed",
         "first_seen": 1789980332.8171318
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRXdnQ1YxUkV4RDNVeWFfNWt4ZHFUdVk5Tzg5T05ISDdKQmtoWndRTUxUU3Y2YmMyT1JyNjVpSEtZU2JROW1LR0VpRllRMmh1VXNPVDFRcnNvTi15dW52dG51NElwTmVYU1Rvd2hTUVNEbzdCaTkxOEZNa0JXRWlVSGpIejM1b3RX?oc=5",
+        "headline": "에너지 및 기후 변화 요인으로 인해 세계 인플레이션이 압박을 받고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/21 16:29",
+        "published_ts": 1789975746.0,
+        "tag": "Fed",
+        "first_seen": 1789981237.0052516
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQLWQtenF3bXpXT003UWFUeEJOOFoyak42N1o4UmJfTERza0hwWTRvTVZldkE3NHVQSFAzOFJXNTJfZFFWWjVISEJmUlp0TDg4NDRLYlh2UmNmaktqWTJPd3E0SmRITllEQnBTRHdXOXo0Xzg3cXNiX1VuSjBfbWczN3E4T01CU1JuZmRubjVYS2tRSm1OX0tibDVvVjYzclQ3bnRCQw?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1789947330.0,
         "tag": "Strategist",
         "first_seen": 1789979431.0145242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1vSHpuSlBBRDhmX2dyR0pkc2gtYlA1MWIwckwtZkFyX28yZ2FwcGpaZlVzMXBUZHRuX2t4a3pzTkg1a0t0Y09rZ0tFczdqU0FiRFJwbU94MlZ2b05qYVdfOXhaMlZiWVU?oc=5",
-        "headline": "日 금리 인상에 유출 자금 귀환 '신호탄'…美 국채·글로벌 증시 ‘긴장’",
-        "summary": "",
-        "source": "청년일보",
-        "published": "09/21 08:00",
-        "published_ts": 1789945204.0,
-        "tag": "JGB",
-        "first_seen": 1789946122.194733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8tc1RSX1hhUnhHMzdMcUplVl9yeWJHcjBBYUNnY203UFkwc2lDSEpyY3A3UC1iLURyUVlvaHFvUXdoSUE3bUhNbDB2bGJvYTNBeHJzd08xMFY3RWVubmZQSTNhM1ROQ2c5a01rdw?oc=5",
-        "headline": "드러켄밀러 첫 방한…두산 등 국내 기업 회동 추진",
-        "summary": "",
-        "source": "econovill.com",
-        "published": "09/21 07:40",
-        "published_ts": 1789944000.0,
-        "tag": "Strategist",
-        "first_seen": 1789968667.5045502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE54WlVfSlVLYXFSTEF4R184YmtXbS1NZzdOblg1S19yMmZHVnRqMHdxV1ZnUUJhczhTQVFCOFNiSkpua1NJUzdlNEdRM0pNY3M?oc=5",
-        "headline": "“유가만 문제가 아니다”…카시카리 “美 물가, 서비스 부문까지 너무 높아”",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/21 06:54",
-        "published_ts": 1789941277.0,
-        "tag": "Fed",
-        "first_seen": 1789947928.9583526
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-21 17:45:58",
+  "updated_at": "2026-09-21 18:01:03",
   "yields": [
     {
       "label": "3년",
