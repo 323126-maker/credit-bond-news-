@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTR6WXhFWG9QLUR3NmR5NFVYdjM3ckNySlA2X2tyeWhOa29icERLRE5mTTR2dy05UkVvZnRRTi13ZjZZRHE0cUUyYnlMc0VlR2tkUGFnSnlEQTJuTFBYLXB6SE5mNnpEOTFJM0paZklkLVVBQTB2SVFyWjVtdks4V0sxaU5XczRZSjMzeGVn?oc=5",
+        "headline": "Why CFOs must trade hindsight for market foresight",
+        "summary": "",
+        "source": "FinTech Global",
+        "published": "09/22 00:57",
+        "published_ts": 1790006277.0,
+        "tag": "Global",
+        "first_seen": 1790006442.4601371
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vT2tvSGN6Y1hkcnZ3NmRYQ09DUHJla2FwcDI5cVRnQmgwLUZ5eHZSQ2tKMkN1eEVCYjRONFBXQ2tZTWZBaEZCem5pTDJMQ002U3cwM1cyWHZXem5nZTJFYW9NTQ?oc=5",
+        "headline": "US Bond Market Pushes Yields Past 5 Percent",
+        "summary": "",
+        "source": "SuaraGarut.ID",
+        "published": "09/22 00:48",
+        "published_ts": 1790005690.0,
+        "tag": "Strategist",
+        "first_seen": 1790006442.4601371
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcUVWdmk3U2tqRDZhRmVFVmdxb2VQb0RBT0FVM1BFc0U3WGE0VnphZUlRU1B6S19OeHlLa0Rla3V6UkxZMVJvV01RSzNUZ21fX3d4SmEzZHJQN05tQmlUNGJ4ZERZdjBSaEU4MW9icjN6cmNTSnI5dFNVNU1jbHI5RXkwWU91c2p1bWFoWVhJNXQ2Tk5GaW5MUHJPRVJwVlg3Mlp6cEFTX000V05XbF9weVFDdGFXR0hDYmJ6c0RhUklpVjJKUXc?oc=5",
         "headline": "Cost of insuring French bonds against default risk hits highest since 2020",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1789983047.0,
         "tag": "Global",
         "first_seen": 1789983923.256639
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5Jb2pSSGp0SDRwMFV5LWZtNUQxUGppcl9DcW5FQ3RieWxCREc5a0tyS3k0cEFTd2ljSFpSX2JBWHpXLVRTa1JnelQ0MEkxQTZSdjZYeW55Z0k?oc=5",
-        "headline": "[경제분석] 미국보다 더 빨리 뛴 한국 국채금리…돈의 가격이 다시 비싸지고 있다",
-        "summary": "",
-        "source": "토큰포스트",
-        "published": "09/21 18:25",
-        "published_ts": 1789982709.0,
-        "tag": "JGB",
-        "first_seen": 1789997433.5714426
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOHN3VU95ckdUT3ljVmNuQ09xMTFtanNPN2lHb2tCVXJzNUp0WXNESnVUb0pybWJaM1JqNUt3ZkU0T2dRM3BiSmpIWmJFazBTODE0bURMeXdibjFNM1Ita3hac0tPazROV0xzdGJOWkhjNENCcUNiQUkwSHo5eVVCTUxwVjV4dTVtQ1pUektR?oc=5",
-        "headline": "What’s Next for Stocks After the US Fed Rate Hike",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "09/21 18:24",
-        "published_ts": 1789982641.0,
-        "tag": "Global",
-        "first_seen": 1790002855.054167
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 00:46:06",
+  "updated_at": "2026-09-22 01:01:08",
   "yields": [
     {
       "label": "3년",
