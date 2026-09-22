@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5",
+        "headline": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge",
+        "summary": "",
+        "source": "BBN Times",
+        "published": "09/23 01:03",
+        "published_ts": 1790092987.0,
+        "tag": "JGB",
+        "first_seen": 1790094630.7192688
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRWduWmNQaEhJWjRLeWhqLU1ZVVhaanFVZFhTQkxHazh2UnRISzlWeEFnak1lNmk0eEVTX2FoMG44amRYdFZaaUFhdEd0QnVDaHJudy1Wemo5VFA2TDZFRGRZelRkRTVra0x2b254UFF6bU1PaDJqVFE3a1o0Z1dTQW84VUtILTNVeFRVR2QwUVNhN2FFU3VkWGJ0S056WllSV09KQl8wSlIwNXRQX2VDdDdtLUt3R010U0tjbzhDRVI2bzFiMVJUV1oxVnNpbE9HZFBubkNIYjY4X0VvZGfSAeMBQVVfeXFMUFBEck44X19GNFlrbjNRR2RxTlh3WXBYazJxb0oyeDgwRUNqMF8ydHJjT2E2TVJFQTNBdGxJTG40SHpmVEY5NzhKM1h4blFzWFNUZTVpSVJYeFJsMEZzNDRFNFhWRVNWOTZIeV9WS1lsOHZlT2d3eHgxQ0dYYXpmNDl4aGhrdEh1WGItbXozcXduZy03NHNWQ0JPRUx2S1BaRDM4cUZIaXh1bUl3cnJxQVY3VG1IckI5eldhRFNJaTd4aFB3Y013Sl91akd4SXBqVWVmcUpmZ3k5Mll3RlNDVENEWmc?oc=5",
         "headline": "3 Credit Insurance Stocks for Higher Rate and Default Risk Exposure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790063040.0,
         "tag": "Global",
         "first_seen": 1790068523.892176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQenFrazBkckw5UjV4bXJjUlpoczN1UmRHbFpWYVhGcHpMcjF5bWhhbGdOTFJDQk5kOTh2OGJwZV9MblhlTUJpVU82UmRJSTFuYm9sLWRUSE1yYWtPTnVFZHV3b0hxdGczaWstZEg1VFNsc2Q0VS1QS1lJdEQtRVVXSTV3Zk1TQW5Ua0xyd0tjRFlDbTRha1RsT25Mc3RFaVN6RFY0NC1mNWlDaDVWVVN1YkdORklBU0tRMk9pVVFnbXJ1NUt4TXRaak1BQQ?oc=5",
-        "headline": "트럼프, 연준 의장에 케빈 워시 지명",
-        "summary": "",
-        "source": "chosundaily.com",
-        "published": "09/22 16:41",
-        "published_ts": 1790062875.0,
-        "tag": "Fed",
-        "first_seen": 1790083833.4640098
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 01:16:01",
+  "updated_at": "2026-09-23 01:30:54",
   "yields": [
     {
       "label": "3년",
