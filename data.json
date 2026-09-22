@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQm5ic1JiVTBLX25LSmo3b0ZJVWV6T0hHV19YRkQ0WkxJaWtwN0lZU0QyRG4tVEl5M3czc2lnVUJjTDFueWd3SHBFdEJxOXpWNm0tVEd0eDkzbnVZUEthNExFTTBzdjdYODFXTTNTUlg0SnF6LWhwOGlSakhIUzZRVnBROFhSNUZ4QlpTQXU4S2NhUUxqMXJoUFVpTGhaUUtscEhEZFZNeUFIcHFsMk1LdA?oc=5",
+        "headline": "US mortgage rates brush 7%, further straining a bleak housing market",
+        "summary": "",
+        "source": "The Virginia Independent",
+        "published": "09/23 03:28",
+        "published_ts": 1790101684.0,
+        "tag": "Fed",
+        "first_seen": 1790102725.401346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZEFMaUJ5OVltWDFoZE42ZjhQcE56S2tBNjFfU3liTFhzYnVYMV9fQTdWN29XZXd1SzdSNHJYZjVyVDhPX3pVdjVxTmRkM3haSnZfQVdEM2pJRTJFYk85bV9rRk5oLU1CNHJ5VlZNRm9uR1pTSV8tVnlxcFZDS0I0TFkzREk5Qi1YVmc?oc=5",
         "headline": "The Federal Reserve Chair’s ‘Cure’ for Inflation Won’t Work",
         "summary": "",
@@ -1820,6 +1830,16 @@
         "first_seen": 1790084725.6306226
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQWFoTm5aMmVELWRYQUNvNTJid3NxMTFMam0zUXBDeXhJMXVDdDk1TDNYVVNPSTJOaWZNQXFJQktOUGVzWl9ya0hoemtNWTdQdGpNcGMzT2JqNVQ5a0p6bVVoODBCVzNoSC16M0c5M09maWE3OXYxVzFWMU15Ukhlc3JXdm1TZ1ZkVmpOc0xJTnlyMnZ3bWI5MlFOVUZDTXk5dWsxLWRSYTRHa3pnRFJ6X2RmQzFQVjAtSUZjTEJXeU8xSmdKcnRiR1hxbjlYLV9ZTXZXZ3ZueHBjeEZQZWxLTnNtaXpMZw?oc=5",
+        "headline": "Scott Bessent Says Trump Has 'Great Confidence' in Fed Chair Kevin Warsh After Rate Hike: 'He Will Do the Right Thing'",
+        "summary": "",
+        "source": "InsuranceNewsNet",
+        "published": "09/22 21:37",
+        "published_ts": 1790080677.0,
+        "tag": "Fed",
+        "first_seen": 1790102725.401346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTZJeFE2MHUwQkZrZDFWQndwTEp4UWJMbmJsTHlaQXZ2RXNxV1ljdndveU1NcHQ0SDQ5LVNNejY0N3k0eGxNR3k5NU9RRy1JckR2bEYydVluYlpBYTQ1eXdBWUFzVHEtSmwtV3kwQ3BRc3dYYVZwNGVWWVN4aU41RXNkYmQ5THA1NzJNd0pLUkpJU2VMZGU3aXpkd2R1SEdkWmZ2Y1ljWkxCQUVvNkhHT2FwTTQ?oc=5",
         "headline": "Is staying under-allocated to Emerging Market Debt the greater risk?",
         "summary": "",
@@ -1828,6 +1848,16 @@
         "published_ts": 1790080577.0,
         "tag": "Global",
         "first_seen": 1790081122.8163364
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4yblZaNXIwTkdBLWVRNm9sV0NKUEFPNGlpRndqeElHbWdCaERGUjlNaS1PZDAtemNnM0llc084WmhUcHlYYzBJWC15QWp4Wi03M0NpUFJVMU5qWmxBY0kzcXVKUFFBLURMQWFkc2VOYkdnSnB5MlE?oc=5",
+        "headline": "South Korea's National Pension Service Nears SEBI License for Direct Investment in Indian Government Bonds",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/22 21:35",
+        "published_ts": 1790080500.0,
+        "tag": "JGB",
+        "first_seen": 1790102725.401346
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNX1BwSEw0am5kV1ctZTNGRExyVzN6S1lEN0c5ckVtRXVqUC1OeU5LTTRfc3pPdUw5VTBVU0k2TzJtd0o0Z3NzaERnR0pOcEN6ZFAzZG1UdU9TU3YxSXVNMWhkVVlEOUZCMnZvNGNnSF9SbXM2eWdObnBsNkJxWkNuSmRVVGpzY1U?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1790067979.0,
         "tag": "Global",
         "first_seen": 1790078437.9285705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQM0RkQ1Y4bGlyTEk3ZDNfVjNYYzBncEhxcWM2U0JaT1hneF9HLXVsbkRfQW5lMDFnbk9nMWMwNTRRMzZlR19QaWhSd0hScW9qamtVNnRCTXU4NmotUGRmYmlUME5WcFRRbG1OQWY4YjF6MXBaRkpRVEZUNnV3MHh0UXhWQ3VjRmxncmxsNTJvZjVwT3YxbWlNaFZxUGV6V0dz?oc=5",
-        "headline": "Bond Panic? Great! This 13% Payer Is on Sale (for 91 Cents on the Dollar)",
-        "summary": "",
-        "source": "contrarianoutlook.com",
-        "published": "09/22 18:02",
-        "published_ts": 1790067754.0,
-        "tag": "Global",
-        "first_seen": 1790068523.892176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5qSVNVdVB5ajlnLUJYZy1FSnJ2dFZLVHN4aWJORmpVVjJpMjc0d2psYWlBYV92RHI3OWVfNjZBdDhMX296c3c1MFVxNHRLVTdRRnFRUzUwdEZRQUNGU0NLWGNicVRZd08wVEMwaURZdUVOSmtpN19rcGdHVXVKYkU?oc=5",
-        "headline": "What’s Behind Bessent’s Boasts About the U.S. Bond Market",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "09/22 18:02",
-        "published_ts": 1790067751.0,
-        "tag": "JGB",
-        "first_seen": 1790068523.892176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE10bGUwV3RQRHpWdnlDaldJckpQX2ZxSGJYU182bXlEdGlxMHhkN3RyUlBCQ1RQWFNiU1dObVE1am5rMTZibUppcXpPcWFVZHVxNjFlMmlMZmttY2pUSnBSSFJ6ZFhTQQ?oc=5",
-        "headline": "미국채 금리 5% 뒤편에 ‘헤지펀드’…미 국채 안정성 프리미엄 ‘소멸’",
-        "summary": "",
-        "source": "한겨레",
-        "published": "09/22 18:01",
-        "published_ts": 1790067660.0,
-        "tag": "JGB",
-        "first_seen": 1790071244.0231156
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 03:31:02",
+  "updated_at": "2026-09-23 03:45:53",
   "yields": [
     {
       "label": "3년",
