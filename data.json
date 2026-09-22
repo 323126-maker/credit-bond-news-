@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OMm04aGdqeEx6TUpVajNhbGgydkxpSE4wT0pYcmZFZXB1VFFMcWtNVmd4b2dRZjNqYWNpLTRNTG1hTTJPbEE3d2UzOWs4Y2lWQ1Y1d3JOT1N2UjBkczZuOHlqaDc2aEEt?oc=5",
+        "headline": "[속보] SKC, 8500억원 규모 자금보충약정 체결…자기자본 대비 26.51%",
+        "summary": "",
+        "source": "CBC뉴스",
+        "published": "09/22 18:16",
+        "published_ts": 1790068613.0,
+        "tag": null,
+        "first_seen": 1790069434.347338
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tcXc2UTdISmtJRmlwWGZxb2I3VzNGaXJHZE93THc3VUE2VzJYLWhOVUc1SFNfTl9JNUpaLWlHS3RQb29xd0o2bThDYkxpTE1sMGpSUFEyeGF1RjJEazhxSzM3ZHVvZHJtRVRCZVZOQWtjQmluWGfSAXZBVV95cUxPbXF3NlE3SEprSUZpcFhmcW9iN1czRmlyR2RPd0x3N1VBNlcyWC1oTlVHNUhTX05fSTVKWi1pR0t0UG9vcXdKNm04Q2JMaUxNbDBqUlBRMnhhdUYyRGs4cUszN2R1b2RybUVUQmVWTkFrY0Jpblhn?oc=5",
         "headline": "키움증권, RCPS 대신 영구채···IMA 자기자본 8兆 달성은 내년?",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789718155.0,
         "tag": null,
         "first_seen": 1789719326.2780602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5fVFc5NlNBT0Y2SjkySENnSUZMNGc0ZXgyMC1Id0R5UVlwQVFkbE94N3BncUZCTHJhaEtXN21zM2JZUGVaQ0pjcS1SNEhxUS1zRTNrdFRmS3hDUjEyOXJPMVpDZ2RHRmd2VVhWS3BKbTdXbVE?oc=5",
-        "headline": "키움증권, 신종자본증권 발행 결정...4,000억 원 규모",
-        "summary": "",
-        "source": "kr.investing.com",
-        "published": "09/18 16:35",
-        "published_ts": 1789716900.0,
-        "tag": null,
-        "first_seen": 1789720229.4164078
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 18:16:07",
+  "updated_at": "2026-09-22 18:30:57",
   "yields": [
     {
       "label": "3년",
