@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yWGFEelViWW9DMjBXM2lMSU4tUXRsS09WQ1UtVjhwaFdvSDRhbUlLQkltWll0dktaN2VWOHFKZTRPWUM1Q0hXN1BWdEFkRzBpQ0JjZHhCTXNiYlpVTkpHMzdKOFhVSi1oV045cnJyNUpwQQ?oc=5",
+        "headline": "[최석원 칼럼] 美·日 기준금리 인상은 시장 신뢰 회복의 계기",
+        "summary": "",
+        "source": "오피니언뉴스",
+        "published": "09/23 08:30",
+        "published_ts": 1790119800.0,
+        "tag": "JGB",
+        "first_seen": 1790120725.619739
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNOGtzNUZhLWNlV1hpVy1tRllpQlpFV2Frbklnc002X2RRdTZxNUptamtDWmlENC1mTndPSG5nanhSd2k0MGVRX3FwMmtOeTQwblJMekM3VEZRNDhNeXgxZmthdm50eDdQSnpEMlFqTHlwSktzbFJneW01UkQxRFF3OUs3M2xSRXFaRmt2dzJqMlVlZmV5cWhTU1JzdnM?oc=5",
         "headline": "Nouriel Roubini Is Still Worried. The Surprise Is What He’s Bullish On",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790076602.0,
         "tag": "Strategist",
         "first_seen": 1790088325.4087267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjFJRTVwNFVQSGREUHBzNS1VQTNvb0p3VTZrbHBkWFJHdjQySDR6bmd1RlFwVmZCeTUwSHdhU1B1Rks2N1NCMDRSSEN4MlNmTWNES2pKT3ZwUWVTR3NfakxDMEZWS0N6TUJiUzYybjdEOXhhenM3X2hDN00tMnFVSTZLSVJ6UlE?oc=5",
-        "headline": "Japan’s Rate Hike Puts the Carry Trade on Watch",
-        "summary": "",
-        "source": "nai500.com",
-        "published": "09/22 20:22",
-        "published_ts": 1790076150.0,
-        "tag": "JGB",
-        "first_seen": 1790077523.5480394
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 08:30:57",
+  "updated_at": "2026-09-23 08:45:51",
   "yields": [
     {
       "label": "3년",
