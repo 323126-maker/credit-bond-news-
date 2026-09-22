@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdW5TeWFIYWhGcHFyb2NKbFZGamZBTlZ3SjAzWlV0ZXlMZlVRNVBOaHJBM3RrRFpQWTdtVFlUVXRRcXNGdDBydWlaZGN5WWNqeHFwU3ZvWkducWJSTlA3RnMxemV4eG83T0RuaU9hMnV3dkpyaUJ5TXZRS0JCU29tYVZCcFBYZkstbUJJM1ZfZ1pyb185SlFaMmdEZzJXNmR3NWJFUA?oc=5",
+        "headline": "Stock Investors Should Root for a Rate Hike. Yeah, Really.",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/23 02:23",
+        "published_ts": 1790097791.0,
+        "tag": "Strategist",
+        "first_seen": 1790098234.86875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5",
         "headline": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790065868.0,
         "tag": "Strategist",
         "first_seen": 1790071244.0231156
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSE1BRGlrT3J0anMyRjJ6TnotRjVQX1dYbDRsWEdpMTQtVC1XS1dISjRNNEhqVDh5dklvbWI0T3NrU2MwWExfQkFYb0t1LU51d0tVYjFBVkplOXFlTkUyNFVyanVTWnJjZDBwOVNXcjVJZ1l4OGFUSFNybER5Z2thNy1MUVdHbkswQ1duazBsdmlGdw?oc=5",
-        "headline": "2 Words From Fed Chair Kevin Warsh Just Changed the Game for Wall Street",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "09/22 17:26",
-        "published_ts": 1790065561.0,
-        "tag": "Fed",
-        "first_seen": 1790097327.4599378
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 02:15:59",
+  "updated_at": "2026-09-23 02:30:56",
   "yields": [
     {
       "label": "3년",
