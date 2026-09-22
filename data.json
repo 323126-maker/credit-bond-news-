@@ -12,6 +12,16 @@
         "first_seen": 1790073032.3349721
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWl6UjNVRUVTZ2NIanVlNkZEMXRnQzdOQXJnVWd3RXRIdHRoRWF5enRJV1JqZ0tlc0FROFpWdjdHejJtVmdMRHZaZEFETEhmSlJwLUR6c2gyQQ?oc=5",
+        "headline": "49조 만기에 73조 투자까지… 한전債, 채권시장 변수로",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "09/22 18:53",
+        "published_ts": 1790070832.0,
+        "tag": null,
+        "first_seen": 1790082041.5281591
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtd1lINTdDUTdTZkhyazZBemFjMGhSbkJmWnB3UXdrVmpmb1NtcXBPWG1wOGhfdUQzckJqRlBCSmRZS1hPR1NmSUtkXzRDRjFEX2pOdU5rWmtub2g1RUo5Yms1aTVjZHNudHBEaEdXWGE?oc=5",
         "headline": "[외환-마감] 네고물량 투하에 1,350원대로…22.80원 급락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790027683.0,
         "tag": null,
         "first_seen": 1790068523.892176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqTHFuUFNJZjhaNFhnN25PaElEQVhxU19BUVluN1M5cExZeklodDlXWXUtUHVmUHpackk0bXlRcXpQaEJ1NXl4MG1FaWFfV3Qxa0RIM3JuRVRuZnRtbFhpck4tb093R2ZCcVFnRWQwaXJrUVV5d3JJ?oc=5",
-        "headline": "S&P, Latam Airlines 실적 호조에 등급 상향 조정",
-        "summary": "",
-        "source": "kr.investing.com",
-        "published": "09/22 06:43",
-        "published_ts": 1790026980.0,
-        "tag": null,
-        "first_seen": 1790028924.5336359
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SQjBrWDdFT3hwLXNNc0Fvc0J6dXFNRXp6WnEyWFZmeG9OaHhCTklfRlVjY210UHdleTdPX2pUd25oRjFMMG1BU29pYkVteHZiN1drTk1YcFR1d9IBWEFVX3lxTFB1emN2dkUxYXNzMUhRV2UyM0tweENMYzR6RW1PQ1BOR053U2R6TTRVcmc0WDZndHY1aDJDajBPR2VpODl2R3M3MVVydTA3NlZJb3hiR3RmY0s?oc=5",
+        "headline": "李, 이형일·강신철·홍지선 장관 임명안 재가…이소영 청문보고서 채택",
+        "summary": "",
+        "source": "아주경제",
+        "published": "09/22 21:56",
+        "published_ts": 1790081814.0,
+        "tag": null,
+        "first_seen": 1790082041.5281591
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBjaUs0Y1NFdFJaLU1mSHR3LUdJYTVUVUJydmF6amJmYU1qYU1BVDF2UlJIdl9iSGw3UHlyVEFQZWdacktSMURQZnRxTWFPRUd5OWZSQTJqVHpFWUYzdk9NLUowR3hRa1J3WlgyVjBjQ3c?oc=5",
         "headline": "이재명 대통령의 \"파병이란 무엇인가\" |",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789600730.0,
         "tag": null,
         "first_seen": 1789601433.182439
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFRGMDlkdnZ2NjI2a29lZ3FEVDJfMEFjQ1RkcnJuSUtWeEJWY3l3T05HdXZtVWJjSEpNeVhkNzhHaDB3RGVrTUdVV3ZfMUlaOFNvcGtyLS1QZ3RjNEVIeVFlbHZzZ3FPMTU5cmdoLWdiMFhMRXk4RG95dmtFWVdMZzJSRzFuaGtxX01IcWE2RDJHbnFkZFpSRWxrdkJscmxTbmdyb3g3dGt1QQ?oc=5",
-        "headline": "화면이 잘리는 경우 확인할 바니 카지노 보기 설정",
-        "summary": "",
-        "source": "Histoire pour tous",
-        "published": "09/17 03:09",
-        "published_ts": 1789582174.0,
-        "tag": null,
-        "first_seen": 1789607722.4349265
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 21:45:51",
+  "updated_at": "2026-09-22 22:01:03",
   "yields": [
     {
       "label": "3년",
