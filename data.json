@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEltSXozOUt6dXdfNEFJWkluVlB5d2Z2QUpYZnZaUnNEQ3V5akphUnM0MVl2VkQ4Uk9VY2N1RW5uMjRWZWNzeWJKMXlpbGVpM2oxbWNRVHA2bjEyaFpCLW1Ock91dGxMdHk3WXJ5aHdZYWp0NHlHeGZMOS1QNXg5dTBKdkI1NzNZLVRKSjNxeFppRG1KbEloVXExTk9KWG1nVERMSDlTa20xSFdKQ1E?oc=5",
+        "headline": "Janus Henderson Short Duration Flexible Bond Fund Q2 2026 Commentary (Mutual Fund:JSHAX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/23 03:47",
+        "published_ts": 1790102820.0,
+        "tag": "Global",
+        "first_seen": 1790103642.2596836
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQm5ic1JiVTBLX25LSmo3b0ZJVWV6T0hHV19YRkQ0WkxJaWtwN0lZU0QyRG4tVEl5M3czc2lnVUJjTDFueWd3SHBFdEJxOXpWNm0tVEd0eDkzbnVZUEthNExFTTBzdjdYODFXTTNTUlg0SnF6LWhwOGlSakhIUzZRVnBROFhSNUZ4QlpTQXU4S2NhUUxqMXJoUFVpTGhaUUtscEhEZFZNeUFIcHFsMk1LdA?oc=5",
         "headline": "US mortgage rates brush 7%, further straining a bleak housing market",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790068175.0,
         "tag": "JGB",
         "first_seen": 1790084725.6306226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMnVZNmgyQjRPeTRYN1YwT3BOQ0tBbml6Tl9fTmpIbl9WVnlDNVdMbml0U0FieGNla0c0dTlyeVBqNnh2Qy1iN1UxMWVxNGVOR3VBZFBtdkNoNWdrRUlDWTM4T0t6aC1BM2ZuZ25EQmhiR29aLVRaUGNmcVBlaGpYcF9sOG1xVWQwNnhrcw?oc=5",
-        "headline": "Eurozone Bond Yields Rise as Investors Assess French Debt Risks and Lower Oil Prices",
-        "summary": "",
-        "source": "Yahoo Finance UK",
-        "published": "09/22 18:06",
-        "published_ts": 1790067979.0,
-        "tag": "Global",
-        "first_seen": 1790078437.9285705
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 03:45:53",
+  "updated_at": "2026-09-23 04:01:08",
   "yields": [
     {
       "label": "3년",
