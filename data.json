@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wUE1wZXRLbkhvWlZkaWtXQmg0V0E1eDA5XzhIVU5uNVU3TFlrYzNtMGFfNkkzbEhnSEVQZm5sM2VpRUlwN09IcURxRWR4M2UtVjdTZ19NWU1FTkZHdk8tWGtOY0PSAWhBVV95cUxNTGhXdzE5bFc3TGU0WW04cmFRSHZPdE9Bbi10R3NPTzZwSTcxeXFEYlljTjU0NlpxUFBvYVJzUkYzSmdLZ3BZZEVCMEd2LVVROWpmU0RJeWN5U2tGOFZadjRuZzJndEJNaw?oc=5",
+        "headline": "한은 “금융시스템 대체로 안정적”…FVI·FSI 동반 상승에 리스크 관리 강화",
+        "summary": "",
+        "source": "매일일보",
+        "published": "09/22 13:52",
+        "published_ts": 1790052778.0,
+        "tag": null,
+        "first_seen": 1790053240.1197162
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLTUF1WkNURmJzbXVEMHdxZm5kblA1X3J6RTdQRDNFZUlzR3ZKNHpJUXAzN29EVnk1aDBBYWt3T1Bac2lkTUFYLW5Gd1JQNEpLeWk1UzAzWGo3OGY4el9fNTNweW00Q2NONkdKSGlZcHg?oc=5",
         "headline": "[금융안정] \"증권사, 복합충격 때 자본비율 33%p↓…단기조달 의존 줄여야\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789979828.0,
         "tag": null,
         "first_seen": 1789981237.0052516
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9BdEdDWUVTNnZPRWJaQjEzSFdNMjMwdDM1dlJ0V1BHWTZySnlfQXRqRlMzUzZ2b2hWX0pINGlLZWlfNHpPV19rQXZIUnhwdHFuU3U4XzJiOHZJSk14NDhTanhJdllSa1ZNZk1hLVBR0gFuQVVfeXFMT0F0R0NZRVM2dk9FYlpCMTNIV00yMzB0MzV2UnRXUEdZNnJKeV9BdGpGUzNTNnZvaFZfSkg0aUtlaV80ek9XX2tBdkhSeHB0cW5TdThfMmI4dklKTXg0OFNqeEl2WVJrVk1mTWEtUFE?oc=5",
-        "headline": "반도체 머니에 채권시장 ‘출렁’",
-        "summary": "",
-        "source": "공공뉴스",
-        "published": "09/21 17:32",
-        "published_ts": 1789979532.0,
-        "tag": null,
-        "first_seen": 1789984841.019168
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 13:45:59",
+  "updated_at": "2026-09-22 14:01:02",
   "yields": [
     {
       "label": "3년",
