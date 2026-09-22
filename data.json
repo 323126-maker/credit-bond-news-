@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoVV9CQm4zZk5xVDJjTUVaR1JqR2E1M1l4S1A5cVgtOFhGS1VYX3J2NzBvMEhTWGt2ODAzemVnNmVRVmxyWFp2REdmWi1BSVRsN05STl9oeno4RThlYkoySFgzaU1CTFN5dlFNdzZ6Q1fSAXRBVV95cUxQajVXTHZRTjBlV0c1N00zbUYzanRzdkNHWVB0b3ZHOGZnR21tZTlJaVh3YXRHbHptVVpxTVpIa3Fwd1Bmb2JDTHVYSVdWaFpDX2NMSVBEeS1VVXcycWF5UnFiaXNPbVR5aVVqT1FpSTdsaTU0bA?oc=5",
+        "headline": "금리 오르자 국채 사는 일본인…稅혜택 움직임에 3040도 '매수'",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/22 09:48",
+        "published_ts": 1790038106.0,
+        "tag": "JGB",
+        "first_seen": 1790038482.1932383
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNOWNWTFBkMDg5OE9tYllrTGFjdU54dHFDc2YwQ1NBcWFwNGRUWk9oWlJvWnd4RHE5MnFWREdKaHBEQmxrdjJnc205QnBlTnNOTU5OUVNSMUFRQ3ozbm1vVkVncV9peVF4YzRlTEItdjdrWHk4c1FxY3E4OHZCUkI5Z294eEs4MHpyM295OTZVM2UzVlk4d2FZeV9lc0ZvaUR3RmVESE1ackpMX3BPLUhVNVE5OVI?oc=5",
         "headline": "John Hancock Multimanager Lifestyle Moderate Portfolio Q2 2026 Commentary (JALMX)",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/21 23:58",
         "published_ts": 1790002680.0,
         "tag": "Global",
-        "first_seen": 1790003732.807226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVGVRVXctM09lYTZJM3dMVzBlVC10ejMxUWR2bFBfYWdhQmdfVFpVakhZMEJJcEdtZUx2N2JzRUZzYWttSTFkempyN2VOYUdsbjE5YkF5aVE3ekxQRTZuU0lFTHFwRXBaeWhVTk84bFhZOTA0c005c3p3M1NKRkN4ckVTRTJ3UEd4MjZnVWhoWjVyZlEyTHV5cjQyeW9zekJmMUd0ekswbjBhWjB2UElN?oc=5",
-        "headline": "Howard Marks Sends Stark Signal to Federal Reserve",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/21 23:55",
-        "published_ts": 1790002553.0,
-        "tag": "Fed",
         "first_seen": 1790003732.807226
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 09:45:45",
+  "updated_at": "2026-09-22 09:55:04",
   "yields": [
     {
       "label": "3년",
