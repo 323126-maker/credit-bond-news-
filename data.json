@@ -42,6 +42,16 @@
         "first_seen": 1790055922.7983086
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5eTY5b3pkNm9iNm90ZkJtZTc4VXR1U25wckR6UjVZNzFmdVpWWmRrYkR0ellsRGNkYlNMbnlCUUR6Q0xqZHVWa1FqeXNXVEJzQXd5dS1WNFlLbmN0bUtjR2NCYUF6Ty14VzBn0gFuQVVfeXFMT3dPQ2VBaXRuLXRIdHdFWkUwXzRuMWlSYzFoV2hGRldzeU56WWVhVHFTbERjekU3V25mZ2wxYjhhT3NYb2RITTh6SmNLMUZuTE9wVjlERnhNX3cxdFpGcFdrb1gtQmJqUEwwOUhJSWc?oc=5",
+        "headline": "신한자산운용 'SOL 초단기채권액티브', 1조 클럽 입성…단기자금 흡수",
+        "summary": "",
+        "source": "뉴스드림",
+        "published": "09/22 14:12",
+        "published_ts": 1790053948.0,
+        "tag": null,
+        "first_seen": 1790064037.2672827
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5wUE1wZXRLbkhvWlZkaWtXQmg0V0E1eDA5XzhIVU5uNVU3TFlrYzNtMGFfNkkzbEhnSEVQZm5sM2VpRUlwN09IcURxRWR4M2UtVjdTZ19NWU1FTkZHdk8tWGtOY0PSAWhBVV95cUxNTGhXdzE5bFc3TGU0WW04cmFRSHZPdE9Bbi10R3NPTzZwSTcxeXFEYlljTjU0NlpxUFBvYVJzUkYzSmdLZ3BZZEVCMEd2LVVROWpmU0RJeWN5U2tGOFZadjRuZzJndEJNaw?oc=5",
         "headline": "한은 “금융시스템 대체로 안정적”…FVI·FSI 동반 상승에 리스크 관리 강화",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790001473.0,
         "tag": null,
         "first_seen": 1790009124.7623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE15YUhCem9hNG5HdGl4U0p0MEhmWEp4MnR3b0JyTzhOcWxzSHVqaUVDVWc5enl2LVFiYmdXM1dhZWl5Mkg2VUJ3U1Y0dWtGVXo0WkJYOE1PNmZzbWhoazRuai1vODRjVU5hTUJlWHVUenJYeDlx?oc=5",
-        "headline": "BNP Paribas, 무선 매출 전망에 AT&T 주식 등급 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/21 22:59",
-        "published_ts": 1789999140.0,
-        "tag": null,
-        "first_seen": 1790007324.0103474
       }
     ],
     "perpetual": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 16:46:26",
+  "updated_at": "2026-09-22 17:01:00",
   "yields": [
     {
       "label": "3년",
-      "value": 4.056,
-      "chg_bp": 2.1,
+      "value": 4.04,
+      "chg_bp": -1.6,
       "series": [
-        3.83,
         3.816,
         3.755,
         3.788,
@@ -2439,7 +2438,8 @@
         4.053,
         4.063,
         4.035,
-        4.056
+        4.056,
+        4.04
       ]
     },
     {
@@ -2471,10 +2471,9 @@
     },
     {
       "label": "10년",
-      "value": 4.457,
-      "chg_bp": -0.9,
+      "value": 4.461,
+      "chg_bp": 0.4,
       "series": [
-        4.32,
         4.288,
         4.238,
         4.284,
@@ -2493,7 +2492,8 @@
         4.547,
         4.506,
         4.466,
-        4.457
+        4.457,
+        4.461
       ]
     },
     {
