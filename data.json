@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQnBCb1JvMGRndVl1MG9NX241MGNHODBMUkVCU2NGZE5sdjJEWHVKZ3VzSXpQSnFsd1BkcEgxUnFycnlVeDBFTjdyZWR2eGJ4bE5ZOXVKRlhZZXZkT2s4ZkNTU1p2ZG5nZ2RNdGpBOUZYOThzeUVUOXNIaVpodzQ?oc=5",
+        "headline": "How Kevin Warsh's rate hike exposed a 2-speed U.S. economy, with AI and housing at the poles",
+        "summary": "",
+        "source": "Fortune",
+        "published": "09/23 00:01",
+        "published_ts": 1790089260.0,
+        "tag": "Fed",
+        "first_seen": 1790090976.78794
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMHk1RzY5VUl5UC1vS1BhV01yTGpZaWdOSW1lN0lteFJoQWVNaXNqeUpGUk1kSzc1MDhIVHR1aHJ6OW82ZUZkWmthcURKSDg3X19JNjBTcmxKUUI0VmRvYUNnby1qaVZjbDNzNURyZjcxcU0xd0s5ZnlPYjltcUozdmdLdmktRnB6RDRnYXNwY3U?oc=5",
         "headline": "Virtus Seix High Yield Fund Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790057738.0,
         "tag": "JGB",
         "first_seen": 1790068523.892176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXhLa2tVVEJCN3c3b2lVdXVfYUQxWEtjbzZ2UTZxdXNXWU9RYjFqLXN0S2RGMEcyVEVHalAtcjVta2RqbVM5azdrY2dEeFNMV3VfME5HLVNoWFFRUUpaWGVqNmtRNXc4cmJtWW1WaFdyeW42cUdMbjRyWjBZaWFENVJ0SU4zZWRXbmdvdVBGOFk?oc=5",
-        "headline": "Singapore firms, households well-buffered against global shocks, MAS warns of AI pullback",
-        "summary": "",
-        "source": "Yahoo",
-        "published": "09/22 15:06",
-        "published_ts": 1790057160.0,
-        "tag": "Global",
-        "first_seen": 1790060441.9786062
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 00:15:50",
+  "updated_at": "2026-09-23 00:30:03",
   "yields": [
     {
       "label": "3년",
