@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObTZJeFE2MHUwQkZrZDFWQndwTEp4UWJMbmJsTHlaQXZ2RXNxV1ljdndveU1NcHQ0SDQ5LVNNejY0N3k0eGxNR3k5NU9RRy1JckR2bEYydVluYlpBYTQ1eXdBWUFzVHEtSmwtV3kwQ3BRc3dYYVZwNGVWWVN4aU41RXNkYmQ5THA1NzJNd0pLUkpJU2VMZGU3aXpkd2R1SEdkWmZ2Y1ljWkxCQUVvNkhHT2FwTTQ?oc=5",
+        "headline": "Is staying under-allocated to Emerging Market Debt the greater risk?",
+        "summary": "",
+        "source": "Eastspring Investments",
+        "published": "09/22 21:36",
+        "published_ts": 1790080577.0,
+        "tag": "Global",
+        "first_seen": 1790081122.8163364
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPanJKUEFKNU5LSHZnUUJyeldLUWNuek93M2xPN25SRDdSSDJyYWVfMEE1dnlVZjhWQ0pjWlkySE1IcDdMM0NHelpmTjhnSUFZTGV6Y2dNMnFGcUVTQ2JpMHl6X3RGWkVFc0F2QXRyRHV0WHlZb3c1T2xZMVQ3U193LTVQbU1SNzBib3h4Ny1pSkpHRms0Uy14eUhhN3RLOTU2LTJNNA?oc=5",
         "headline": "Widening credit spreads may pressure stock valuations — MarketWatch",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790050738.0,
         "tag": "JGB",
         "first_seen": 1790057728.6311436
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUERza29zVGVPTkhvT0Z0QjAyUDFQdmx3OURJeDhvUnByNFVDNnZZdU92R0did3lLWjk3N1M5NTFkVnE4eGYybW5vTktrcGNFRF9mUlNTSVU1MDZMQkpyWXRfaVVURWhtQzMtOXQ4RkRDUGlxN3BCTnQ5YXBlX3huYXNuQ25OWHc?oc=5",
-        "headline": "일본: 지방 정부, 채권 투자 확대.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/22 13:14",
-        "published_ts": 1790050492.0,
-        "tag": "JGB",
-        "first_seen": 1790055922.7983086
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 21:30:59",
+  "updated_at": "2026-09-22 21:45:51",
   "yields": [
     {
       "label": "3년",
