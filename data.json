@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVUJLMGFhSkdxVFE2X2ZtSlV6czRNb3o2OUlockktOTlFX0xybE1tY0dkcWRWYVNtREVvXzRCNm9ZUnVGV0Q4X0FxTFJ0Z0hhTURJNFdLVXlMQWtYSzNKdHg0Tm5CWXJLMF9XZ05QZDZoM05ob3dMVWVqYjFFUWdGc2huZ3VYZFZrOC1SXzhaYmRYdHpr?oc=5",
+        "headline": "Corporate bond buyers get picky with flood of AI debt",
+        "summary": "",
+        "source": "KSL News",
+        "published": "09/22 19:11",
+        "published_ts": 1790071897.0,
+        "tag": "Global",
+        "first_seen": 1790072124.546174
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSGNtV1AwSnNYekJyLTUyV2tSRGROZFVLNHZvVGtLTW8yWTlIZV9aRDdkSU9uWDB0WTlCWXNyMURXb1FBWFlhVm5BMzhURnNJbE5NQW54M2kwWVJPblRSdFB3RWd6eUd6VDNieWNldGpLSXRkWktRYUpfdXpaNnlGMjFxU3BqdUF0Rm1wVUFqQ2tTbjdjYWQ0bA?oc=5",
+        "headline": "Kevin Warsh does his job, not Trump’s command (Editorial)",
+        "summary": "",
+        "source": "Daily Camera",
+        "published": "09/22 19:02",
+        "published_ts": 1790071360.0,
+        "tag": "Fed",
+        "first_seen": 1790072124.546174
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS195SXlxbkMzZlFyLWJvYm5SSjcyZDRUNlVESHNmZ1NxWTZ2RWVIOVg0OWVKMGRLQUF5LXVzem95VTRkNmdEaG5NMGRhRXNoemJudE9IMmdCZjY5OEZOZTFNVTZaVjJ1NGhLaDJjNkJxM0pVeC1jOERJUUxBSFBvWkRR?oc=5",
         "headline": "3 Charts That Reveal the State of the U.S.-China Trade Relationship",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790044119.0,
         "tag": "JGB",
         "first_seen": 1790045158.6632493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4zNklMTG1tUjRBRmR1VV8zN0xwaFpFOWN1bXJTUmlzcFVWSnkwTjRQajNuYWJmN1pmanU1ZU1pNGhyc0pTZ3NSNzFaOEhHS3pwNDl1b1ZUV2tZbFdJWUxnS3BWc0FOaU9lb0xJSzdYdVhEUm8?oc=5",
-        "headline": "화면보다 먼저 확인할 내용, 아프리카tv 도박",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "09/22 11:21",
-        "published_ts": 1790043697.0,
-        "tag": "Fed",
-        "first_seen": 1790060441.9786062
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZXpsNXkwSVh3cndYZU96NTdLZTg0Y1NJX1pmZW9VV1VWbzVQd3ctSldFUktIN1dXeFE3T0xWZ0Vsd3B1eGdsc3puOHp1ekdmQmdLVmZwMXBjN2xqSE4za2NuQjkxcWpxVU9mZklnYzRwUG0wMVhVUENLSkFhakhUNXFRQmVpaE4zX1NCc1RkdGJSOC11MlpqNQ?oc=5",
-        "headline": "Jamie Dimon Just Said 8 Words Warning the American Dream Is \"Slipping Out of Reach for Too Many People.\" Here's the Retirement Wave Behind His Warning and What It Means for the Economy JPMorgan Serves.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "09/22 11:18",
-        "published_ts": 1790043513.0,
-        "tag": "Strategist",
-        "first_seen": 1790048723.9074547
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 19:01:06",
+  "updated_at": "2026-09-22 19:15:47",
   "yields": [
     {
       "label": "3년",
@@ -2467,33 +2467,6 @@
         4.225,
         4.275,
         4.267
-      ]
-    },
-    {
-      "label": "10년",
-      "value": 4.461,
-      "chg_bp": 0.4,
-      "series": [
-        4.288,
-        4.238,
-        4.284,
-        4.313,
-        4.371,
-        4.418,
-        4.367,
-        4.36,
-        4.385,
-        4.401,
-        4.401,
-        4.453,
-        4.54,
-        4.536,
-        4.6,
-        4.547,
-        4.506,
-        4.466,
-        4.457,
-        4.461
       ]
     },
     {
