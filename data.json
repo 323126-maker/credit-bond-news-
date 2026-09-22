@@ -122,6 +122,16 @@
         "first_seen": 1790070327.5723927
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFcyOXNtNkFKM1U2clVYS1JwTk1OZW41UjZSTFFEc2xnU1ZSSkNuTWxoSWRxX2h3ZlRMbTBPMFpyQ3phY3gwM3JTZk5IQ1o0b0h6SVVjTDh0MjN2SEhyR2xTSzRtQnJXYUhjMHVRNkxWVjVjak5zOFJEY1pWdEs2Sk93WXFJMDFYSDRvdDV5TXl1U01QbjV1SW1BVUpidEdRdXozVi1CX2RUenFKcU5lZXBxYWNNRDllbVNnRU1vSm9MUVd3R0Z2QjBSMG1YUlpYZUdF?oc=5",
+        "headline": "투자자들, 美 회사채 발행 지속에 '안심'",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/22 17:36",
+        "published_ts": 1790066188.0,
+        "tag": null,
+        "first_seen": 1790117122.6255352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MZTdYMHBlTFhELURuOU5EMWlDNlpyQVptWXlNcWgtR00xZlF1bTNzVXlJRDZwSnNpakhVQlRkODJ2UXMxMlpUT2wtWk1nbzBUNGlJdkE3ak85NHJOaVpveDN5cDNRLWFGQmlzX2ZnbmbSAXRBVV95cUxQZWN5YTB3TjhMRXlaRVFDMk92RDZISDBpTFNURFJrWkFoMnJTa0d5X2R0LU1ZSk1yZDJad1dCaUdnMWlZNXpYNGItM0tMYnJ5TEp3TDRJbWE0Z016WHAySmdhYUVfY3VpT0dCR1c0cDltbzUydg?oc=5",
         "headline": "달러-원, '네고 폭탄'에 서울장 22원 급락 마감…1,358.20원",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790044200.0,
         "tag": null,
         "first_seen": 1790045158.6632493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9peGg2QXpfdkVTQ29HV1NvQjFncUpSQW5XTUFTcGYxWXBQM211Z0V1b0JtZHNwaU5wSHNNdTdZMFowUlFiQ0Q3ZzI0ZGhXNnM?oc=5",
-        "headline": "'SOL 초단기채권액티브' ETF, 순자산 1조원 돌파",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/22 11:25",
-        "published_ts": 1790043900.0,
-        "tag": null,
-        "first_seen": 1790100040.1429155
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 07:31:34",
+  "updated_at": "2026-09-23 07:45:47",
   "yields": [
     {
       "label": "3년",
