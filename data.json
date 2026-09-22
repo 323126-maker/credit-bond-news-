@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1EeEFmaktWSXZ6WFpqc09MNUpxb1JmTWZ2ZnhsSnF5eEdhNS1uWV9SWkxPWGhlRkJDSEpWLU1wSmVjci1Ma3NfMGdDcS1ZWTM3cUZBZjFPeFlEMkZVdE1JYmtCb0lfVGZXR1g3dUwwQzA?oc=5",
+        "headline": "JP모건 \"채권시장, 연준보다 네 가지 요인이 금리 주도\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/22 12:19",
+        "published_ts": 1790047162.0,
+        "tag": null,
+        "first_seen": 1790047845.8806272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yVXZxZHNBc1BlYXk4WFhXSVFvdHJkaFJLUk5tb0xKM3lSd1pLazluWTFsSlUtTDB4VVRqZThnczRqVkxmXzgzY3FRaGM3SFdUaF9uOEdJdlNTX1hmQ251Nw?oc=5",
         "headline": "한은 \"증권사, 단기자금 조달 빠르게 증가…복합리스크 경계해야\"[금융안정상황]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789978386.0,
         "tag": null,
         "first_seen": 1789979431.0145242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMTB2NFBSOEthaVdkaHFfMkVyS1R2T1dFWFJiN0V6VjN3bVROVjNPMVdVNkw0Y2NjcWFJOHJqU21Gc3dGM3JwZWNkenM2bjNoR2tEeEZoR0JyOV96VWxBN21wQ2pfMUl3emx0LWwxbjE4RlNzTUlIVkp0Rm55ZHVMdUN2NjZ3VVBBclQwd3VONUdNUXM?oc=5",
-        "headline": "등급 상향 조정 후 주식 시장 전망: 자본 유입 증가 및 품질 개선 압력.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/21 17:12",
-        "published_ts": 1789978345.0,
-        "tag": null,
-        "first_seen": 1789978526.8958933
       }
     ],
     "perpetual": [
@@ -1730,6 +1730,16 @@
         "first_seen": 1790039725.197059
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9WMVMxYTBRcndxQ24xWlctUElwdFI3OWNwcnJsUTBacy1jOGs0YjJsbjBVejlUc1J6UXRqTzY4WVBPRUJhOGc?oc=5",
+        "headline": "[부자들의 투자노트] BofA \"AI, 여전히 가장 큰 시장 관심사\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/22 07:52",
+        "published_ts": 1790031120.0,
+        "tag": "JGB",
+        "first_seen": 1790047845.8806272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWS03QW0zNnlXYlFyWUF4Rk9xcFBVWEpnNkEyWDNYQUpYWjNwWkNZaFU5Rm9zQ2plNXowRFg2VjlWTllzZEVLTmhWUjhBQVJRZVVIemZ6UzU1MDdZbUgzUWluX1RFeHB4SkJKWVhIMTlkSkVyVWRuT1FySGFYNHBHRmI2ZUI5VEdGUXZlYmpBaGtDLVc1VXhDTmFleWJNbVdvYnZwag?oc=5",
         "headline": "Opinion | How Warsh can be a Fed chair of few words",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790012508.0,
         "tag": "Strategist",
         "first_seen": 1790013640.9607832
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQVR1azg4WmktY0lXSExsMzBsSVpRVzhqR2pFTUN2YkNRNVNDeFgxU0VfdzFzbHRJMHdHd1ZPWDdxdWl0eXdFRVoxdTNUQ0xISHI3Y1ZlTm8tQzZvLXZDR1EwOFVUNE9WdWhNYWFPMVB0cHFXU2szS2l0TzVPM08xNXRYMHdCN2lXdXBIdGNoTEhDWk1aYVZvaUJjcmxpRDlFUUllRGRR?oc=5",
-        "headline": "Fighting inflation likely to be 'painful,' Chicago Fed president says",
-        "summary": "",
-        "source": "pbs.org",
-        "published": "09/22 02:36",
-        "published_ts": 1790012170.0,
-        "tag": "Fed",
-        "first_seen": 1790014525.4338517
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 12:15:53",
+  "updated_at": "2026-09-22 12:31:12",
   "yields": [
     {
       "label": "3년",
