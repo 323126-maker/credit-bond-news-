@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9hdUtpZVBBUHFGaHFzd0R1UTh0a1hwcG16UlBpdW5Pb1ItcjZscUx4UDBjLVRXa3EzQzdmbFMtOHZJSi15Sm5RNjdkVWhOQndTRFFUZFJwakdNSVRkWlZkVWprcG4?oc=5",
+        "headline": "키움증권, 4000억원 신종자본증권 발행…자기자본 확충해 성장 여력 확보",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "09/22 13:57",
+        "published_ts": 1790053061.0,
+        "tag": null,
+        "first_seen": 1790054123.1961148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBjNWNmWER3SmJUZS1UNXRxRDhGdkVZTUQ5Njg0QXppbkJPbDEzZVo1bldJOXRQeFVBNGdISTgtZFhQWUkyQTNHd1hKWHJRaVdZdmVhalJteGl2NUdCdG9jZ2I0dEhxckU?oc=5",
         "headline": "푸본현대생명 킥스 211.2%…후순위채 자체 상환",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789697928.0,
         "tag": null,
         "first_seen": 1789698630.0163968
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fZl9fbzdLYXhtRWJwTWJ6YjhCd0xybk1vZjlyM05KUmFRaG9sY19vU25BdWx1OTRrbGJLd2FXelliZUlvMk9nU0xSU3ZVN1h1aGfSAVNBVV95cUxOVHIzRDdpdzR5RFF4cWR6UFRWa0VocmxaYXlDN0ZPcEJXWUU4OVJiRThncXV0d0ljRnl4d2huTmdtSkpoTEluU2NDdzUtNlNpREEwTQ?oc=5",
-        "headline": "키움證 창사 첫 신종자본증권…증권사 자기자본 경쟁 격화 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/18 11:18",
-        "published_ts": 1789697924.0,
-        "tag": null,
-        "first_seen": 1789720229.4164078
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGRrNUFnMmVGZmg0alg2YUhySUNZSWlDUHhRV1ZLcnRpdDNUamxMQ2RneHJVSjZBbFBUSmJfaC1YYmRVUVNSaXhkVllKWU5rRFpSUmViY2R1VVZJbDY5dlBjT3puWjN6dFJEekYwZEVqcVdLTTl1SXVTZU1teHZUT0p1WTY2RmszSzBVWHBqWWZQdjdiRElYQjBKbmtRZm9tYWc?oc=5",
+        "headline": "Why Bond Markets Are Pricing In Too Many Interest Rate Rises",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/22 14:12",
+        "published_ts": 1790053967.0,
+        "tag": "Global",
+        "first_seen": 1790054123.1961148
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMHlqV2lVR3BFaUd1VFQwbGluRHBWZTZXazJHYmdYS3cyQ0hsLW93V0dhalU0U29nTFNsd1ZyMUcyX3pMQmRGN2NuWTlSTUZhaGIzWm0tWHZhT2lMT3Q1ZFpfbjBsN3Z3QjdZcTJNcW9sRGFQOTlBZzVudkhEUHRkTWdxMFR4THl0?oc=5",
+        "headline": "Fidelity Puritan Fund Q2 2026 Commentary (Mutual Fund:FPURX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/22 13:50",
+        "published_ts": 1790052600.0,
+        "tag": "Global",
+        "first_seen": 1790054123.1961148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WOFhYUjRVQ0t3LTFoOWxVQmtMOWRpUFRpUzZIZ2RuTGpXTG5RWFU0XzhlQnRZaFJISTlucXhmaGZJa3d1cWtncjI1RXIxZk44UnREcm1pMmFXY1U3OGNrYzZtcl83Qjd6VDkyY1RzTm12dw?oc=5",
         "headline": "Why Japan’s markets matter so much for America",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1790017451.0,
         "tag": "Global",
         "first_seen": 1790044231.14812
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZmhVRjQ2ZmJnck1wZVZZM3dLcEJZRWdPNEJJY0RWUzU4TjRYMElJaXVGbTZOb3FQdUhQbXN6LTBPZ0ZEcDItbnQ2UnRIVXVsQXJKckV1RkJjck0zMEQ2RTN5elY1WTM1ME5MUV8waC1qdVM4TjFjOWRrZ2JUQ053bnVvTWhnclBvSFA5ai1zOUdCQk1UWHkwTHFuWmxEdk82WmlGSDNtdUpQaFM3WF85RS1VdW13bmhaZnlVX1ZVVQ?oc=5",
-        "headline": "Columbia Flexible Capital Income Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/22 04:04",
-        "published_ts": 1790017440.0,
-        "tag": "Global",
-        "first_seen": 1790018124.4712796
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOU0JZSmR2OW9aTDBqOWU1Y2NRNDhZUE5Vd085TTA3MUZPeGxSTDFVMjdJaWcxb0ZDLWNPSmJlZERmNE03eTlweGpSTWRJVGZ1YkQyWktOOFFRY1M3YkxrRXQ4ZkdVMHJXVmpPbGJJLUgxYVpHOU41N2RPOUd3UlhaRWdhTDh5cUtrZVMtMjA1b0FPU2FHM0Z0MWdkRG9ObFh1Q1h1bHh2VWtFdF91bXVUbGtLaEhCdk14NTFnRzlfN3d6SnVQeTlsdTQ5ZXhqWF9RS0hDYUlSNm5IaGFRczhEWEIyYWJ5eFNrcTBF?oc=5",
-        "headline": "모바일에서 도움말을 읽는 사이트를 새로고침하시겠습니까 화면 안내",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "09/22 04:00",
-        "published_ts": 1790017248.0,
-        "tag": "JGB",
-        "first_seen": 1790045158.6632493
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XYlZYRjJGbzVVN011Z2Q1R25Bc1EtaE4zWVFhZXFQcE1KV21RQUYyMkZ5cG1JTGlPVDR5UVo1ajlQRGlRMnRhYTV4bWttMWJqWm1uc0F6LXFPYU9MdWVzbA?oc=5",
+        "headline": "금융권, 소상공인 추석자금 '102조6000억원' 공급",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "09/22 13:11",
+        "published_ts": 1790050305.0,
+        "tag": "수협은행",
+        "first_seen": 1790054123.1961148
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94d00yS3VOWXRCeUJOLUNvVFVOd1lDY2wya1A5dkp1U3ZoZThaOUd0V2tHOHhFdjh0MjRhZkczTnExcVlpcXNvT1NOVnkzOHpXWm1yRHR2OTdzbFFSb2NJdEhpOA?oc=5",
         "headline": "“원가 올라도 금리 못 올린다”...카드업계, 카드론 수익성 하락에 ‘진땀’",
@@ -2400,20 +2410,10 @@
         "published_ts": 1789611031.0,
         "tag": "현대카드",
         "first_seen": 1789612230.823449
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Gc1ZoZFBDUXhfb2dDaXhYZUJiRjVqYldCdDZiQVkwYzFKTGlsNDRFbi0weEs0RHRaMjlpTW1GdTMxME92cWNLQWpGSUdBcUxMUXR2WXh3?oc=5",
-        "headline": "[경영분리 5년] 경쟁력 키운 현대차 여전사 '삼총사'",
-        "summary": "",
-        "source": "DealSite경제TV",
-        "published": "09/17 07:00",
-        "published_ts": 1789596022.0,
-        "tag": "삼성카드",
-        "first_seen": 1789596931.8100896
       }
     ]
   },
-  "updated_at": "2026-09-22 14:01:02",
+  "updated_at": "2026-09-22 14:15:46",
   "yields": [
     {
       "label": "3년",
