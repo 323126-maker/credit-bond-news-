@@ -52,6 +52,16 @@
         "first_seen": 1790039725.197059
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTkNRME5OU2RBRTViZ00wT0NnemotaXkwWUNhZi1GNnhRNkI1RE01UEVnQS1IdHJtSG9leG1lV29IeC12YWYtenJ2b2pwZUVlSkE5OUVxc1B0dmtPQVBiQ1RGaUVDYzUyMGl6R3luNUpiYkdscnRTbnlqbnVrMVNkZjUyemxzajFGNkRBLTFsTElKY0VYU3dJakJyNk5Fal93OWo1MldsTXdXMm9GQlBFRWdhVFJIcEo3a2VtYTFGSEhiTHNuUkM5WWVGZi15ZVd2TEtvaHRzZGZyc1J3dXB2bS1xcENDRXptemhWWg?oc=5",
+        "headline": "[뉴욕증시 3일] 중동긴장 재고조에 약세 마감",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/22 07:33",
+        "published_ts": 1790030023.0,
+        "tag": null,
+        "first_seen": 1790042435.7369246
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tS2VBRV9HOEpfUDc2LUtEN1lnUTB5MzJRR2RzdzFTMnNqajczTUdqdkhrMXRuTFZDRV81QUtLTTlhOFIycXhiVkxOMWhlYmVILUduMjhnMV9rYnlyZFZySEdRT2hPWTg?oc=5",
         "headline": "[9.22 개장 전 주요공시] STX 최대주주, 산업은행으로 바뀌었다 외",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1789972329.0,
         "tag": null,
         "first_seen": 1789973124.1106784
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1taURlUHFQaTROVDJ4aFlaY1c1MUlBdVBtTVZkV1pySjAtY2RQUFJmWDA1V3pBSHRxYTNpUDh1ckNqdFljeE1QQTFFM1dlNmc?oc=5",
-        "headline": "'채권 60조설' SK하이닉스…고금리 '부담' 外",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "09/21 15:14",
-        "published_ts": 1789971289.0,
-        "tag": null,
-        "first_seen": 1790026234.8425746
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbmkzenA5UEFXWlZ2ZVVuLWctNjVaVThTN3ZlUHRSUXJVSU5XNklMckd1emJURUVBeVFXRXljeUZfWnIzMWwxNElndjRjei05TXNEaDBpVXdvenBWM3gzdmhLOGltU2lRNWVBSEFKbkczZnctY2VQZ1pXTVFFYkJkU3lqaFFfVHFNRFpfcWdZVVdEOTc1MWJBTFlKR2c0bU4tNDBMazNMcmhfUQ?oc=5",
+        "headline": "Harbor Ares Systematic Multi-Sector Income ETF Q2 2026 Commentary (SIFI)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/22 10:45",
+        "published_ts": 1790041500.0,
+        "tag": "Global",
+        "first_seen": 1790042435.7369246
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbXBaRnpxN2NISFpYUHEtTVNTMk5PenF4VmlNZUVtX1luMncyS3I2UEtCOWN2OE5uN2VySlBtWlNsMzQwX0oyRHdBc0dDc0JIZ2hkTFhhLWNfLUdnbm4wUUlaU1c2QmtzUzV6WTV5N1pQMHhzT2lMTHFndVZEWEJEcjQ4bGRsWUZNUjl3SkVKSG1Id2pMQlppU0FuMA?oc=5",
         "headline": "U.S. Treasuries Not Even in the Top Four! Chart Analysis: Which Countries Led the Global Sell-Off in Long-Term Bonds Over the Past Year?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790004875.0,
         "tag": "JGB",
         "first_seen": 1790014525.4338517
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50QjRncXQzOXUtaHhCNUNjUkloMEt3MElxdnpSSGxXZmVLLVZ0ZkxzSmpaZ2ktZDRWV0h2WW92Xy1PWS1SVjdJM2kydUZvbXdKMjhPWTdQY1ktQ0ZaZEhkd2c3OHVMTzdx?oc=5",
-        "headline": "US: 3-Month Bill Auction",
-        "summary": "",
-        "source": "CME Group",
-        "published": "09/22 00:30",
-        "published_ts": 1790004600.0,
-        "tag": "Fed",
-        "first_seen": 1790024436.9005184
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 10:45:49",
+  "updated_at": "2026-09-22 11:01:02",
   "yields": [
     {
       "label": "3년",
