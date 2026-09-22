@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbjFJRTVwNFVQSGREUHBzNS1VQTNvb0p3VTZrbHBkWFJHdjQySDR6bmd1RlFwVmZCeTUwSHdhU1B1Rks2N1NCMDRSSEN4MlNmTWNES2pKT3ZwUWVTR3NfakxDMEZWS0N6TUJiUzYybjdEOXhhenM3X2hDN00tMnFVSTZLSVJ6UlE?oc=5",
+        "headline": "Japan’s Rate Hike Puts the Carry Trade on Watch",
+        "summary": "",
+        "source": "nai500.com",
+        "published": "09/22 20:22",
+        "published_ts": 1790076150.0,
+        "tag": "JGB",
+        "first_seen": 1790077523.5480394
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeDFkTkNpMjQybEIyZjJ3a0hvM0p4bjF0T05pM3g1RzhkeFVKLWh3Wm9YOGJtbGdLbmJpWDRhdkp5RFlWWXJCdmpzX1I1ZGlrdjg4cVI3ckdIbkpGSkVuYWJYQzhYamkzcHM5R05SYWs1NmtzT0lGT3N3cXZMbnJDdi01dzBwYW5WaVZKaGlSaFhlRjlZdV9LUDNtZWNZZmJIVEFjV0xaWHpPalBlY1VGeFdwWkxkbDU3ejNTOERoRzMxSEU?oc=5",
         "headline": "LQD: Largest Investment-Grade Corporate Bond ETF In The Market, Weak Investment Thesis",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790049628.0,
         "tag": "Strategist",
         "first_seen": 1790050524.570697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8yM1RzR0l2ZkpLeGFZZnNCLW1VMWNpMy1DdFR3WGc5UkNxV2JUbFBfUHdzTjFXeGl0TGRSdXZta1pkbWZJWS0yak5JVFAxWTVUS0ZJUEVjNlFLdHFFc0ZmeVJjM1EyMTN6ejBjZl9LTHdvT2dGcUJF?oc=5",
-        "headline": "전 세계 금리가 새로운 전환점에 서 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/22 12:44",
-        "published_ts": 1790048664.0,
-        "tag": "JGB",
-        "first_seen": 1790055032.068804
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-22 20:38:31",
+  "updated_at": "2026-09-22 20:45:49",
   "yields": [
     {
       "label": "3년",
