@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DNGwzTzROdVRLRnlxUThiODBNcDhrbXM5SUhqRkg2ZWE0UXRxX3ZLd2hBWmIwUERJTWphZjVoaUQtOHI1UVA1b2RxNnlwVFVlVXc?oc=5",
+        "headline": "랜드브리지, 1억2500만 달러 선순위 담보부 채권 발행..리볼빙 상환용",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/23 05:52",
+        "published_ts": 1790110374.0,
+        "tag": null,
+        "first_seen": 1790110838.258657
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xN3AwdXFRU3l1V0ZpMWp0dHA2anZrY0Z1Mk5lQkVTc2lHUFQ2MEg2ZzI0SXd2dHBpUmdvRWtTRHlmbmJQRVNqWnNmdDBLMWVHdTBFZzZ4VGdGcUpqM256QjQwZGFVVjRJSUNncnpiUEk?oc=5",
         "headline": "블루 아울 크레딧 인컴, 신용 시설 개정 및 13억 달러 조달",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790043600.0,
         "tag": null,
         "first_seen": 1790088325.4087267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWTW5rNDNNNWkyV3pmbjg4bEZkRlNvSWZZZEpESnZ2VmhFdUhXaGltNVByVmlTZTFfcjVUeTJ0V2xrWGxuUHpMY0tsN1MydzZSRXBoX3Y1NFd4UnVWZ0wwX0lacUtJUkZ3?oc=5",
-        "headline": "'롯데' 붙으면 금리 더 뛴다…계열 회사채 8개 모두 등급민평 웃돌아",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "09/22 11:01",
-        "published_ts": 1790042499.0,
-        "tag": null,
-        "first_seen": 1790055922.7983086
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNazRoR3BEN3IyX3lPS3Z1b0FndDczalVpN0tvbkZyZWdTYnRCUTZJcXZwbzM0NGFkbXpfb25NaGFPWXFmRUg3RDJqRm8wSTRMTE04Z1E1dGZtc29GbXFNeWZBTEhGWVY5OHZJRFNEZXM0MjkzcFNtZWRKenY2YS1Jclhhc21QalZpRWtrdi14ZDVidmVSUXF0U0ZqcENKek5z?oc=5",
+        "headline": "Inflation Is Peaking and Will Fall, BlackRock’s Rieder Says. Here’s Why",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/23 05:05",
+        "published_ts": 1790107554.0,
+        "tag": "JGB",
+        "first_seen": 1790110838.258657
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEltSXozOUt6dXdfNEFJWkluVlB5d2Z2QUpYZnZaUnNEQ3V5akphUnM0MVl2VkQ4Uk9VY2N1RW5uMjRWZWNzeWJKMXlpbGVpM2oxbWNRVHA2bjEyaFpCLW1Ock91dGxMdHk3WXJ5aHdZYWp0NHlHeGZMOS1QNXg5dTBKdkI1NzNZLVRKSjNxeFppRG1KbEloVXExTk9KWG1nVERMSDlTa20xSFdKQ1E?oc=5",
         "headline": "Janus Henderson Short Duration Flexible Bond Fund Q2 2026 Commentary (Mutual Fund:JSHAX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790071321.0,
         "tag": "Global",
         "first_seen": 1790088325.4087267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQS195SXlxbkMzZlFyLWJvYm5SSjcyZDRUNlVESHNmZ1NxWTZ2RWVIOVg0OWVKMGRLQUF5LXVzem95VTRkNmdEaG5NMGRhRXNoemJudE9IMmdCZjY5OEZOZTFNVTZaVjJ1NGhLaDJjNkJxM0pVeC1jOERJUUxBSFBvWkRR?oc=5",
-        "headline": "3 Charts That Reveal the State of the U.S.-China Trade Relationship",
-        "summary": "",
-        "source": "Barron's",
-        "published": "09/22 18:38",
-        "published_ts": 1790069896.0,
-        "tag": "Strategist",
-        "first_seen": 1790070327.5723927
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 05:45:53",
+  "updated_at": "2026-09-23 06:01:04",
   "yields": [
     {
       "label": "3년",
