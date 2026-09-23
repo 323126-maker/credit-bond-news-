@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNU3pSdnF4TVQtSlUtRzI0UDg3aE9sSjNDTldfOVpwMmFvcTRySWFmTFdwbDdzWThMamQwS3VEb0ZCTGxrZ1R3YnlTMHpsaUs5cUJlMXFFNGRoeHRlX3FuS25tTTVVZ0laMmlmWW9mMnU5ZFRBRXVmVlJtRTd0WHJIcEg4V3Z3eWg2aDRKMmJGZlJUbkRu?oc=5",
+        "headline": "재무부는 국제 투자자들과의 관계를 강화하고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/23 13:03",
+        "published_ts": 1790136238.0,
+        "tag": null,
+        "first_seen": 1790140524.0674658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQanNxQ3daeGdHYmVxbHZiSU1DLXhkdkJUSHE5MzhQTk5EZVMtYlNWbUxQalBZNVNya0pYQWJvMkZaZVhxWHhuOG9TN1FxUXowcmtnWnNMSVpMYkRVN1hOM2tjWlQySXliSmdqRnhURkhPbEVCcFpJa1pGSlhWWDhmdnNBNWlrNUZSd3d6R0xnSDNKRVk?oc=5",
         "headline": "업그레이드 효과가 사라지면 베트남 증시를 이끌어갈 원동력은 무엇일까요?",
         "summary": "",
@@ -70,6 +80,16 @@
         "published_ts": 1790123844.0,
         "tag": null,
         "first_seen": 1790125239.1440022
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbWlCdF96SVNqbkdKbXVKeEdSVE5aOFdkbXRCbXJrNktYN1p0X2d5Um56c0d6Q29TUV9jQUFaeHc5ZFBNc3dnbkJBQVA3QTZ0YmFDU0pLcFhuRDl6cjhzeW5pMHhfZFRpVmhZM0lTY0htUQ?oc=5",
+        "headline": "AI 투자 ‘빚의 가격’ 뛰기 시작했다…하이퍼스케일러 내년 회사채 4200억달러",
+        "summary": "",
+        "source": "중앙이코노미뉴스",
+        "published": "09/23 08:00",
+        "published_ts": 1790118000.0,
+        "tag": null,
+        "first_seen": 1790140524.0674658
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DNGwzTzROdVRLRnlxUThiODBNcDhrbXM5SUhqRkg2ZWE0UXRxX3ZLd2hBWmIwUERJTWphZjVoaUQtOHI1UVA1b2RxNnlwVFVlVXc?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1790055339.0,
         "tag": null,
         "first_seen": 1790055922.7983086
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdmdTbzJUNDlWZHJ0RG04Q0JWdkVILVFLdnhGX1E3dmIwOWtVN3V4VnlVcFVzaGN1MUhsQ2E0NGtvNFVUM1BzQ1Vldk16bGw5TV9rSmd2NEhYcm85NDBFZHhVV2tLaE9uNlZrcFJRdnVkMVdJT0xHbkFvclNqckQtNG8xU0RxYVFmLXJFakVvRTBqbmRPcmpkV0U1TzRGX00?oc=5",
-        "headline": "[특별기고] 중앙일보 워크아웃과 미국의 파산제도",
-        "summary": "",
-        "source": "chosundaily.com",
-        "published": "09/22 14:21",
-        "published_ts": 1790054461.0,
-        "tag": null,
-        "first_seen": 1790135122.90194
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA5eTY5b3pkNm9iNm90ZkJtZTc4VXR1U25wckR6UjVZNzFmdVpWWmRrYkR0ellsRGNkYlNMbnlCUUR6Q0xqZHVWa1FqeXNXVEJzQXd5dS1WNFlLbmN0bUtjR2NCYUF6Ty14VzBn0gFuQVVfeXFMT3dPQ2VBaXRuLXRIdHdFWkUwXzRuMWlSYzFoV2hGRldzeU56WWVhVHFTbERjekU3V25mZ2wxYjhhT3NYb2RITTh6SmNLMUZuTE9wVjlERnhNX3cxdFpGcFdrb1gtQmJqUEwwOUhJSWc?oc=5",
-        "headline": "신한자산운용 'SOL 초단기채권액티브', 1조 클럽 입성…단기자금 흡수",
-        "summary": "",
-        "source": "뉴스드림",
-        "published": "09/22 14:12",
-        "published_ts": 1790053948.0,
-        "tag": null,
-        "first_seen": 1790064037.2672827
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 14:01:01",
+  "updated_at": "2026-09-23 14:15:50",
   "yields": [
     {
       "label": "3년",
