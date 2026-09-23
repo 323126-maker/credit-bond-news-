@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5qUmNyZTEwUmxDclpRb3ZEOXNCQzVkRW91UEE4TWhFTHJrV283QUNkcFl3eHR3NnRhT2Ewam1nREpDb2pYWXRxaGxRU3h1R2JvMG9obTJaYm5MWURfbDhtY9IBYEFVX3lxTE5qUmNyZTEwUmxDclpRb3ZEOXNCQzVkRW91UEE4TWhFTHJrV283QUNkcFl3eHR3NnRhT2Ewam1nREpDb2pYWXRxaGxRU3h1R2JvMG9obTJaYm5MWURfbDhtYw?oc=5",
+        "headline": "美10년물 국채금리 다시 급등…19년 만에 최고치 경신",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/24 01:09",
+        "published_ts": 1790179783.0,
+        "tag": null,
+        "first_seen": 1790183723.6621494
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xc2x3endZcDJmZTR4Qm9lOUtGeWtUc2w5cThUM1pqMERITWVGSkRrRzMzUGRpS09VVGlwbXM5UnVkX3pKdGprLXREV2FvSldXRVdPd0d5VVdBSzRfUG5EcdIBYEFVX3lxTE1xc2x3endZcDJmZTR4Qm9lOUtGeWtUc2w5cThUM1pqMERITWVGSkRrRzMzUGRpS09VVGlwbXM5UnVkX3pKdGprLXREV2FvSldXRVdPd0d5VVdBSzRfUG5EcQ?oc=5",
         "headline": "李대통령 \"트럼프와 군함건조 포함 조선협력 논의…성과 기대\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789708059.0,
         "tag": null,
         "first_seen": 1789709429.3628762
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0zZjd3R1R2MWM3cmpHZmlaZFdqUDdTbHRXSHJGNldqUEphZDdUVFlNOFlieFhzS0pfZ3c2cENFS19WUWhONjhTbGlaMWNGaUZEeXVRR282S3NXaDJ6MnBpX9IBeEFVX3lxTFB1a1N1RTRRQzBHMS1oWkdCYkJDMjdKdGUxc0JROEFDTVczNGxmb0VsQXlzbUhUR3piZnZSNWlmbGFfWEZCSXdLWE1zOGtjZV9XeEhEWllNNk1peEt4ME0xNk0wN25yeWgtSjBGclR6ekJYZFZBSnlaag?oc=5",
-        "headline": "[전문]이재명 대통령 기자회견 모두발언",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/18 10:57",
-        "published_ts": 1789696637.0,
-        "tag": null,
-        "first_seen": 1789809322.3880904
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 02:01:04",
+  "updated_at": "2026-09-24 02:15:45",
   "yields": [
     {
       "label": "3년",
