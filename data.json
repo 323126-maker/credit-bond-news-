@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqbEhsMlMtbWFSczhxSFVyd1hYMnE1UEVJV0U0dk9MTEpkU2VIYU0zQlYydEpUd3ZXNGFsRy1DTWc3bjgwbHdaWmhFMG55bEVldUE?oc=5",
+        "headline": "에어 글로벌, 4억2500만 달러 규모 회사채 발행..기존 부채 상환",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/24 05:45",
+        "published_ts": 1790196302.0,
+        "tag": null,
+        "first_seen": 1790197236.1351762
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Uc2R0WnVNRUVCWDNiV1paVTJ6OHQ0SHVfUkhRMTFpZ0tmMlpqbjRzTlhEeFBJZGpOaTFEQ1IwSkhOQnhLVVl5eEFJc1Q4X1ozT2VuWnNzbm5kemNuLXlYNXJicUNYZV8wUDd5Rm5TemtLZw?oc=5",
         "headline": "[뉴욕채권] 국채가 급락…악재 총출동에 10년물 금리 5.10%도 돌파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790064156.0,
         "tag": null,
         "first_seen": 1790064923.6089349
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hUnZrSnQtXzQwUUFmZDNwcUxUMEhxN3JfTDBWVk10cklnbThoTl9wSS1vWmNWRUFpc2YydVBUZHdBZlA5WXpnNjVhX2xSRUZ2XzFKVmFXSlpYNWl1RFNBSHUwalFYT2VPaUE?oc=5",
-        "headline": "대한전선, 금리 상승기에도 발행금리 '선방'",
-        "summary": "",
-        "source": "ibtomato.com",
-        "published": "09/22 16:50",
-        "published_ts": 1790063413.0,
-        "tag": null,
-        "first_seen": 1790082928.96148
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUm41VUtmbUxsWTYwTTU3T0hHN1kyRDdaVW8tbHY5dTJabXdtemJhckpNbmYyZDZWRjFUM1d0UkFHZlZBeFhtUkZxdFBxTWxQWkZLQndIV1lhX3BxRkJ5VEZyVkhxaUdvLWk0Z1VtZ01xZllfWjNHMldCVjdzN3NRYnhkLXpQZ05mRXh6Ym02RGVJZw?oc=5",
+        "headline": "Above the Noise: Looking beyond the headlines",
+        "summary": "",
+        "source": "invesco.com",
+        "published": "09/24 05:45",
+        "published_ts": 1790196356.0,
+        "tag": "Global",
+        "first_seen": 1790197236.1351762
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1wTUVQLU5jQzd6ajFYNlNIYV8yb2tYd3NnTktqVnh5QkNPcmNVMGZjaXdMcHVHX2lQMlRtVlBZWkI1bHZ0elRyZWU3NTRJRDAzOEtoQg?oc=5",
         "headline": "Kevin Hassett Questions Fed Rate Hike, Says Warsh Leads an Unusually Partisan Fed",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790159270.0,
         "tag": "Fed",
         "first_seen": 1790163928.2447553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOTnV5XzZlNVJiN3NxblNrVW5PVVhWcFFkTzVMNHppa2Vmajc1ZndIV2w4MXhrXzR0a3JXaWZIOTk2d0NpN1Mzc0RjUTFWWFZKOXZ4UzlHRFNZQThtQnNELXhtcVBYd0xOVlZOcUxQSFAwWlZqeEhISGQ4SFNIc2MwcmF1cnFvWG42Q3JReEJBa1loUQ?oc=5",
-        "headline": "Columbia Threadneedle launches a European corporate bond fund",
-        "summary": "",
-        "source": "RankiaPro",
-        "published": "09/23 19:18",
-        "published_ts": 1790158683.0,
-        "tag": "Global",
-        "first_seen": 1790184633.5632555
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 05:45:49",
+  "updated_at": "2026-09-24 06:01:16",
   "yields": [
     {
       "label": "3년",
