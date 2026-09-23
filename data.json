@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cUliRHpndzA0R2V3bnpDR0U5U1pKMW5jSTZSak9rX3lzSkY3YzRfSHZqUHcxd25KM0lxX2NYek80MlVDdVREVVFURDBWMTZZZ1E?oc=5",
+        "headline": "국고채 금리 일제히 하락…3년물 연 4.006%",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/23 16:47",
+        "published_ts": 1790149672.0,
+        "tag": null,
+        "first_seen": 1790151322.3878772
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZHEyUEJfQVJNb3kzMUVPZVZEUG1vM2RTQS1pWmJtSWFfZXJHUkpRMXFTeFhtM3IzQVB4d2xnOE9ESWFkZEh3ZXhTV1pUUFhmd1A2eDdyNmtINVF1NUdoYmdVQ0F3MDZxaV9VMVNKMFVnMzFvc1RLNk0xYlA2VkUyRkhyT1VsZ21pWi1GREw2VklHdw?oc=5",
         "headline": "연말 마지막 3개월에 적합한 주식 투자 전략은 무엇일까요?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790058840.0,
         "tag": null,
         "first_seen": 1790059524.2615783
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHTjZlRExIWWVmSURpQXFvTGFzLVptNE1leHBTdU9sMWxsNmdIbzBQTTl3Z2xYTG1HLUJlVjhBR0pmOEEzaEFtLWZxWFQ2d3dVRFJxOHVNMExzOVdiQTdXVnpIclo?oc=5",
-        "headline": "증권사 단기조달 310조 쌓였다…한은 “복합충격 땐 증권사 자본비율 33%p 급락”",
-        "summary": "",
-        "source": "디지털데일리",
-        "published": "09/22 15:24",
-        "published_ts": 1790058278.0,
-        "tag": null,
-        "first_seen": 1790058632.422866
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMlhES01hR1ZOOFVyMWFQR2VjRm5QdngyWk42djRwaWlDSzBhZWVYODY0aW00UUFiWkR6T1pqOXhYVjR3SzVQTFFBR2ZCXy1iUDZsQzNMV3QwX2I2QklSeFFkWTZEYlBBVGk5cEJsUEtGZ1VRcWNPT2R1cmczbURCTEFPb1JGS1pGMmJSRTdCSTVyOUtRai1rQWEzejlNd3lfNzUzQzRJYjBmUkQwcWFRMXln?oc=5",
+        "headline": "Independence Test: Fed Chair Kevin Warsh Faces Critical Decision Amid Trump’s Pressure",
+        "summary": "",
+        "source": "Vocal",
+        "published": "09/23 16:30",
+        "published_ts": 1790148601.0,
+        "tag": "Fed",
+        "first_seen": 1790151322.3878772
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xaGtxckNXNVVXVHFRTnNja0ZRbzJ1Rkp2YldxendfSWpiTmJNU2tiZGdER20za3RybnRYeE4tQTdYaXVkVlJzVnUxaFZFUmhOTXAwTmtJcUY?oc=5",
         "headline": "[금융억압이 온다②] 워시보다 '베선트' 주목",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790090520.0,
         "tag": "Fed",
         "first_seen": 1790092845.155805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RQnBCb1JvMGRndVl1MG9NX241MGNHODBMUkVCU2NGZE5sdjJEWHVKZ3VzSXpQSnFsd1BkcEgxUnFycnlVeDBFTjdyZWR2eGJ4bE5ZOXVKRlhZZXZkT2s4ZkNTU1p2ZG5nZ2RNdGpBOUZYOThzeUVUOXNIaVpodzQ?oc=5",
-        "headline": "How Kevin Warsh's rate hike exposed a 2-speed U.S. economy, with AI and housing at the poles",
-        "summary": "",
-        "source": "Fortune",
-        "published": "09/23 00:01",
-        "published_ts": 1790089260.0,
-        "tag": "Fed",
-        "first_seen": 1790090976.78794
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 17:01:03",
+  "updated_at": "2026-09-23 17:15:45",
   "yields": [
     {
       "label": "3년",
