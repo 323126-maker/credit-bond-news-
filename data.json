@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE14SXJXY1dkbjl6NTRpa0lfWnM1VHlvRVdIQW1oVkJNWkIzeFQtMkNVRWNocUtVelF1RXBmR0dzZnc3RlN0NkZ5cl9wYjlVRWIzSVBic1BMRzk3Y1BkRjRPSW5HOHVIWFhFbEhkR2tmbV8zdXM?oc=5",
+        "headline": "패트리엇 내셔널 뱅코프, 1000만 달러 규모 후순위채 발행",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "09/23 22:16",
+        "published_ts": 1790169402.0,
+        "tag": null,
+        "first_seen": 1790170231.1187346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Kay1wcmpvVUdXMnA4TTZYOEkxVmZHaUV1UE1UTWtzbHZycTg1cm1ibTZFWVFBanBxbWxCeng5eFZCbUJpUGJyVy1LeE4wRmVVeXQyYng5eUZZX2RSWVd2WEdnQkl5RTM2cHcxN1JQTC1vSENxVjRZME9CMEo?oc=5",
         "headline": "한국캐피탈, 자산 유동화 증권·신종자본증권 발행 진행…조달 다변화 [캐피탈사 돋보기]",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1789816440.0,
         "tag": null,
         "first_seen": 1789840836.5679321
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBoVi1jWW9Ba1ptbDZmXzh3WUh3WXh2ejJCanpFbFdOUjdtWHdUdkZ3V25LYTMxRGFHbllUSFIxbktEUjhqNDgxSlZmblhMb2NvY2ZRVTJUU3FkaGNHTEpVR2pFam1NdnFj?oc=5",
-        "headline": "신종자본증권 이자 지급 중단했는데…6억8천만원 지급 확인",
-        "summary": "",
-        "source": "cbci.co.kr",
-        "published": "09/19 05:20",
-        "published_ts": 1789762800.0,
-        "tag": null,
-        "first_seen": 1789763429.9334881
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUR4TVRYU04tVGtNQ2RMc0dyQzRmcDNqeThwWXZoMTcyb3BOS18tOFEzaTFOcFVIQUwwLVhrdEZldm5seEFrNDhUVlp5X0E1S212M3ptRmJJWU93THh6ckZEdzdLdGpnRmpqYzBuaGpHQ09Oek1qclVVRlpWamQtREUtaWc?oc=5",
+        "headline": "Oil Volatility Points to Rates Vol Moving Higher",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "09/23 21:31",
+        "published_ts": 1790166665.0,
+        "tag": "Fed",
+        "first_seen": 1790170231.1187346
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmpIYjZHTlFNbzNEeHk0NkszWVhYYWh2T0Y4YXI3M1dFaVI0MWd2Qk93UkFzMXZjNFFRb21IOVhabmdCWEV6QW85QTJkdVQ5OHloeWJWcDJPdDhMek9GQUpZWUtmV1dlQzNwRnNkb3Q4NkNqMHRzTW5wZzFQcFVQMTNwenZWUUVxbDdDc2s3UGk1ZFNubmdBV3B2T0M5S0lVV3RsUjdLUXJ4QnFYbElhQmh0UzA3VnNhd1J6Qmd3Yw?oc=5",
         "headline": "State Street's bond-fund suite tops $1 billion as three new funds join",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790119800.0,
         "tag": "JGB",
         "first_seen": 1790120725.619739
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQT1NyMjYyUkFvanhoRURVMlJ4SjV2U1JhLTFlckswQ1AtR3E1bVBXLXBVZ3FwVDNUM2YzS2M0X2lVTUxMVnVPSHZuell2YUExcnRGaFdEMTRNTEdHeU1mVVhhTDQ3RWcwVWhB?oc=5",
-        "headline": "【사설】 일본발 금융 쓰나미, 한국은 안전한가",
-        "summary": "",
-        "source": "시사주간",
-        "published": "09/23 08:15",
-        "published_ts": 1790118939.0,
-        "tag": "JGB",
-        "first_seen": 1790125239.1440022
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 22:15:47",
+  "updated_at": "2026-09-23 22:30:58",
   "yields": [
     {
       "label": "3년",
