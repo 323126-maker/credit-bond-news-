@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVk9pX3pYLW0xekc5cGhiTEtkdVVkTFJtOGh1blR3anRJZnpFUnpXWUVjSWZ3anZaeTh2dHdUdkVXUGJlamFOT2R1eDd3RWs4T19IXzVlZ1hNUWI5OTN2V0ViNHJXTU9udmQ4UTZRcGY0TWpJRlJxTDdiX00ydTFObTlZYTlDMjJRVmc?oc=5",
+        "headline": "Rising bond yields challenge Bitcoin's short-te...",
+        "summary": "",
+        "source": "Pluang",
+        "published": "09/23 23:29",
+        "published_ts": 1790173742.0,
+        "tag": "Fed",
+        "first_seen": 1790174630.6666946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUR4TVRYU04tVGtNQ2RMc0dyQzRmcDNqeThwWXZoMTcyb3BOS18tOFEzaTFOcFVIQUwwLVhrdEZldm5seEFrNDhUVlp5X0E1S212M3ptRmJJWU93THh6ckZEdzdLdGpnRmpqYzBuaGpHQ09Oek1qclVVRlpWamQtREUtaWc?oc=5",
         "headline": "Oil Volatility Points to Rates Vol Moving Higher",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790124780.0,
         "tag": "Global",
         "first_seen": 1790126128.1565506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMmdqMjV3WFdwZ0dPVEtvd0t3VHBnSGJGeEtCMW4tS1RUX2VXYmlZT0x2WWFQZzlyYnd6cDZDeC1LRjZPdm1pWmFyMVRoOHRGZTBUdVBNcUp5LS1zdVdIMXJyczZUZjdYSmNZWnBUSmktZw?oc=5",
-        "headline": "모건스탠리 \"성장 회복력에 주요 중앙은행 금리 인상 전망 줄상향\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/23 09:47",
-        "published_ts": 1790124479.0,
-        "tag": "JGB",
-        "first_seen": 1790152232.1206598
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 23:30:56",
+  "updated_at": "2026-09-23 23:44:26",
   "yields": [
     {
       "label": "3년",
