@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uWkJ1QXh1UEpMQ2k0NGpGcUk1ZFluTWFHbnBWSm5SY2Z5M20zWlhUYWtNc0I2RGloQk5zUV82QjAzMHZrQ0c0bnVLTUJZTjFWMVNV?oc=5",
+        "headline": "\"1등급도 5% 육박\"…고금리, 고신용자도 못 피했다",
+        "summary": "",
+        "source": "데일리안",
+        "published": "09/24 07:09",
+        "published_ts": 1790201340.0,
+        "tag": null,
+        "first_seen": 1790207125.2130032
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTkNYckFDLXpCN01NXzNCT2RqRUVDNDVtc000cER2T2s4ZTY1c1czTUZCem52WVZHcjg3QllmSjQwUUVwVEU5SktnREdSc0E0OUlXMHpZemw3S3g4Sk9qUGh3bUVsYUhjbzFlSWxtTVFUQnJ4QnlSbk1WVjJwRUduQnJHeGFMVC1iUk40YzZsYTc1WWQ4T0NiNVFGX25LcGJadnA5eTVvUFhPb0FYcl84S2hkRW5rSHdWV2N1c29YWHJ3OHhuS2VlZXJpbkNacTdfWkQ2LUdR?oc=5",
+        "headline": "한 번의 입력이 적용되는 범위, 엠 포커 조작 해설",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "09/24 05:35",
+        "published_ts": 1790195739.0,
+        "tag": null,
+        "first_seen": 1790207125.2130032
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE90LTdBTFF5M1Z0WVFlbmRXbVR4X0hJMENHS29UbFRSc0RkNzgybWlrVTN3ak5OQlhYRkJ4bG0xTWFxMU1jdVkzdkFvLXNmWUtETFVBVU9wUDHSAVhBVV95cUxPdC03QUxReTNWdFlRZW5kV21UeF9ISTBDR0tvVGxUUnNEZDc4Mm1pa1Uzd2pOTkJYWEZCeGxtMU1hcTFNY3VZM3ZBby1zZllLRExVQVVPcFAx?oc=5",
         "headline": "예금금리 3%대 중후반…변동형 주담대 금리도 오를까",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1789851600.0,
         "tag": null,
         "first_seen": 1789854325.7522845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8ya2Q0bzZjNndIV3BMZHBGR1JOc1d4WGR2dy0yaV9DQlM4VWlCWVNmWDNmOWZ3MTFzVEZZRVpBQTEtRVZRRWU0N1FUajd2ZFZ3VkFhbEhSZFo4cDBSLXVDU2RBSG0?oc=5",
-        "headline": "[이호연의 D톡스] 돌아온 금리인상 공포…대출금리 ‘꿈틀’, 中企가 더 아프다",
-        "summary": "",
-        "source": "ddaily.co.kr",
-        "published": "09/19 12:00",
-        "published_ts": 1789786800.0,
-        "tag": null,
-        "first_seen": 1789950628.3665478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBobWs0M0RqM01aMXJOdVZiNWM0NnRkc3prbUwzN3ZlM0FtMHM1Zk1ld0dJdDRkeTZOYUFqMVFLOE9FMGVmU1BONk9wMHJFUlNOaXBla1JTdnVPV2w2VllOUGZfR0lLZ1p3WHZKMnV1bU5zTzQ?oc=5",
-        "headline": "“미국 금리 올리자 환율 1380원대”…내 대출금리에도 영향 올까",
-        "summary": "",
-        "source": "경제시그널",
-        "published": "09/18 18:00",
-        "published_ts": 1789722000.0,
-        "tag": null,
-        "first_seen": 1789765243.0672958
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 08:30:54",
+  "updated_at": "2026-09-24 08:45:51",
   "yields": [
     {
       "label": "3년",
