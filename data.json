@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ESDM1X2gwaGFiN3lYamRSU2xjeVF0UjFQMWZNRTgtMUFjcWZGODFGenkzQWtNeXBRLTFuQmY5LVBrWHpXTmItd0V5bTRfdXA5c0xCZXROY1N4bGZ1cXpidC1KVlYxT1E2LVdXZ0paUFJoSy12SmgzanRVUmZFa0k?oc=5",
+        "headline": "Scott Bessent sends signal on Kevin Warsh Fed rate hike",
+        "summary": "",
+        "source": "thestreet.com",
+        "published": "09/23 08:47",
+        "published_ts": 1790120820.0,
+        "tag": "Fed",
+        "first_seen": 1790121639.740624
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5yWGFEelViWW9DMjBXM2lMSU4tUXRsS09WQ1UtVjhwaFdvSDRhbUlLQkltWll0dktaN2VWOHFKZTRPWUM1Q0hXN1BWdEFkRzBpQ0JjZHhCTXNiYlpVTkpHMzdKOFhVSi1oV045cnJyNUpwQQ?oc=5",
         "headline": "[최석원 칼럼] 美·日 기준금리 인상은 시장 신뢰 회복의 계기",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790077680.0,
         "tag": "Global",
         "first_seen": 1790078437.9285705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd1dkUTllM3VkU25yYjdsemo2SFBSSnp4WTg1aldNaVlLQkRoTjdnTFh3ZE96RHNpQ3dNTk5hVnBVSDRHdUFQLUl6aklHUDJ0TExMajBKd1UxOEhhbThJNXlFUWtpMXJRM2psSGxzd2RWdGR4M1U5eGVXdHdVNnZqQmtveks?oc=5",
-        "headline": "The dying days of the Federal Reserve’s dot plot",
-        "summary": "",
-        "source": "ft.com",
-        "published": "09/22 20:30",
-        "published_ts": 1790076602.0,
-        "tag": "Strategist",
-        "first_seen": 1790088325.4087267
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 08:45:51",
+  "updated_at": "2026-09-23 09:01:04",
   "yields": [
     {
       "label": "3년",
