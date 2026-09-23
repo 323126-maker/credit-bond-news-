@@ -1720,6 +1720,16 @@
         "first_seen": 1790145034.3095741
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQLWIyVmNVSFFYSElDVVRzWHpnaFFxTVJyMGxQbjFPd1ZGazhlR2JCd2c0STRnZkpSS3E5TGd4V2UzMEZVNFdGTVVPb1VqaUpncWZCQzhXVEI0b3pKYktFQjJnUElGZ0t2TE9YRGRQaUxXVW8wOFNraGY2emxXR2hkSWR4clBLdU93cDRxME5ld05vSzRBOERrTm4tZDNSV19yMnBiNWhpSFkwNTU5?oc=5",
+        "headline": "Chalmers reveals multibillion-dollar blowout in debt bill",
+        "summary": "",
+        "source": "AFR",
+        "published": "09/23 11:17",
+        "published_ts": 1790129820.0,
+        "tag": "Strategist",
+        "first_seen": 1790152232.1206598
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1RWUYzQmJiaTBTWEUwSVdJbEhyQ0RIZjhxVG42RVozQWZ2cGhNN21FeVZnNV9ndDRCWll3TkFTdzRGa1ZBSzVxSjdlQTNMdVBzVWtXSXBDTDJuSmpiaEpJNUMwVzgyQzRqekY3T9IBbEFVX3lxTE1RWUYzQmJiaTBTWEUwSVdJbEhyQ0RIZjhxVG42RVozQWZ2cGhNN21FeVZnNV9ndDRCWll3TkFTdzRGa1ZBSzVxSjdlQTNMdVBzVWtXSXBDTDJuSmpiaEpJNUMwVzgyQzRqekY3Tw?oc=5",
         "headline": "UBS \"日 외환개입하면 엔화 팔겠다…BOJ 인상에도 약세 지속\"",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1790124780.0,
         "tag": "Global",
         "first_seen": 1790126128.1565506
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CMmdqMjV3WFdwZ0dPVEtvd0t3VHBnSGJGeEtCMW4tS1RUX2VXYmlZT0x2WWFQZzlyYnd6cDZDeC1LRjZPdm1pWmFyMVRoOHRGZTBUdVBNcUp5LS1zdVdIMXJyczZUZjdYSmNZWnBUSmktZw?oc=5",
+        "headline": "모건스탠리 \"성장 회복력에 주요 중앙은행 금리 인상 전망 줄상향\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/23 09:47",
+        "published_ts": 1790124479.0,
+        "tag": "JGB",
+        "first_seen": 1790152232.1206598
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQak40NXcySG5DTjJmVWlIVFRGNTVQZ1BNS2U2VFFSWXlFXy1mQmZLQ3JhNHNHc3ZZMDdCSmNaM2lSQ3hEcW93TnNCVUc5akxIVE1ZalVIWGs3alFaMV9qOFI5SERWQnhNdVFnamRfaGYybEVqaWpJOGRUQUZBRGkzSXIwdURZVGs?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790090747.0,
         "tag": "Strategist",
         "first_seen": 1790095524.8411026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zZXJZU3hVYnhCU0UzUy1VdWIzcURxRjRpYXlEaVEySHV1TTQydnQxSS1nTEJCOHRoN3BpZGRjTmlidWFwVWVZYXFFb2dHZWxxVGtoazdyclFIR01fY3Nadl9DT3hrZw?oc=5",
-        "headline": "일본 금리 1.25%… 31년 만의 최고, 초저금리 시대 저무나",
-        "summary": "",
-        "source": "뉴스비전e",
-        "published": "09/23 00:22",
-        "published_ts": 1790090549.0,
-        "tag": "JGB",
-        "first_seen": 1790091925.7975748
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQ3VyT212RUpGeDg1dHA2ZVlSeURJLU9FSGprNE8zdG9LNGw0RTh2YlN1Nm1Rc0hGX0REYVQ0M2FESjgzSjhXQTBWMUFpVnRCd2V4VFdHek5pWFFaT1gwTlhTMDJOWkIxTjlRWWZFTDZIdjZhQWpJRkxiTjdpTFJBSlF6X2ZjdlItaUhkWEM4U3c5ZFQyVmJLNzZXc3E4VnUt?oc=5",
-        "headline": "Fed's Jefferson: discount window reforms help Treasury market",
-        "summary": "",
-        "source": "americanbanker.com",
-        "published": "09/23 00:22",
-        "published_ts": 1790090520.0,
-        "tag": "Fed",
-        "first_seen": 1790092845.155805
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-23 17:15:45",
+  "updated_at": "2026-09-23 17:30:55",
   "yields": [
     {
       "label": "3년",
