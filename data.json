@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBCdll5aTl4bXlDdlduMVFnTDR1QjIzd3VvdVlFbzROZnpRNjBtMnFQSGc0R2JEVFNnWjdFeU9Za0swalhaanIzdzhOTGp5eTFSaUFvc2NPSDBDcG9oc1NKdkZjZ2tNeEpuS0wwWm5uWVBDTVl6OHZB?oc=5",
+        "headline": "무디스, 실적 부진 및 높은 부채 부담에 캠벨 등급 하향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/24 03:55",
+        "published_ts": 1790189700.0,
+        "tag": null,
+        "first_seen": 1790190038.8666391
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CLU81VXdDWnllRU81dVZYVmxfZlIzTUZaVEpVR1BHbEVqZDU2N1BKdGpuNDNyMzNDMktTdHVXSDRmcWtoeDV6Wk05eVFNSEFBd2Jic3ZtRXEwd0Q2bFBzNkN5YW1XeTJCRmVzNVRUZ3FQbmNq?oc=5",
         "headline": "UBS, 중동 역풍에 Weatherford 목표주가 하향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790062200.0,
         "tag": null,
         "first_seen": 1790065832.6575294
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE41SVpyUEY4Z3ZWNVgtWDZHdmxTRmZFY2ZaLU8tV2YxSl8zSHlHMUhJOVVFQzhqZEptc0pUV2dyemtHWEdHRkJTa0NIVVl6aGdFVjhoSkNB?oc=5",
-        "headline": "고금리에 회사채도 단기화…‘3년 미만’ 비중 2년來 최고 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/22 16:23",
-        "published_ts": 1790061794.0,
-        "tag": null,
-        "first_seen": 1790109036.527508
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 03:45:50",
+  "updated_at": "2026-09-24 04:01:01",
   "yields": [
     {
       "label": "3년",
