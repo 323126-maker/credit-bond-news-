@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITkF3QXI4a0ZuNGJTaHJ2bGplTVZkVUZZYzdIbzQ4OXY5WTYyMnlpd1h4MllpTWtZUHp6OUJvUHBuamxkWjJEb2RXMS1uNEtFTXc?oc=5",
+        "headline": "오픈텍스트, 10억 달러 채권 발행..2027년 만기 채권 조기상환",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/24 06:24",
+        "published_ts": 1790198645.0,
+        "tag": null,
+        "first_seen": 1790199027.9481626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBqbEhsMlMtbWFSczhxSFVyd1hYMnE1UEVJV0U0dk9MTEpkU2VIYU0zQlYydEpUd3ZXNGFsRy1DTWc3bjgwbHdaWmhFMG55bEVldUE?oc=5",
         "headline": "에어 글로벌, 4억2500만 달러 규모 회사채 발행..기존 부채 상환",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790064587.0,
         "tag": null,
         "first_seen": 1790080233.772647
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Ub1lWWS1tMmwwZlhSVWJ2UUstenRpZ19mWHByR2EzcXk5TUV2SVFpMVpaVnJOTEhXQkhEdGl6Ym9iTkd1dWY5VjVzamhlZWRzcmhhaEdOUnIwZW8?oc=5",
-        "headline": "유가 변동에 국고채 금리 혼조세…3년물 연 4.040%(종합)",
-        "summary": "",
-        "source": "yna.co.kr",
-        "published": "09/22 17:02",
-        "published_ts": 1790064156.0,
-        "tag": null,
-        "first_seen": 1790064923.6089349
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOcG40Tk1JUXV0X2NIeHNpbUZDUnVHd3Nrb3VLWDZUeXBaTW9HN1JQSmVFZTI0LVVSS3RNbzduQ1JIN2QyR04ydWxXWFZjQ2NRTkswdUIwZ29PRHpKZXhrSW45bmJ4UExNYXN4N2Q3Y0FDanlNX3c?oc=5",
+        "headline": "Treasury Yields Surge as Stocks Fall and Dollar Rises",
+        "summary": "",
+        "source": "Mott Capital Management",
+        "published": "09/24 06:13",
+        "published_ts": 1790198002.0,
+        "tag": "Global",
+        "first_seen": 1790199027.9481626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUm41VUtmbUxsWTYwTTU3T0hHN1kyRDdaVW8tbHY5dTJabXdtemJhckpNbmYyZDZWRjFUM1d0UkFHZlZBeFhtUkZxdFBxTWxQWkZLQndIV1lhX3BxRkJ5VEZyVkhxaUdvLWk0Z1VtZ01xZllfWjNHMldCVjdzN3NRYnhkLXpQZ05mRXh6Ym02RGVJZw?oc=5",
         "headline": "Above the Noise: Looking beyond the headlines",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790159700.0,
         "tag": "Global",
         "first_seen": 1790160326.0142293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE53X3pVald5UDBHODdJcHhoN3NscUU0Vm00dlVpZzFKTnM4aDFmc2Nuai1oVW1mbUw2dWVhVkJsV3NRRmo2QlI3SEZFdTlzeFBVOE45NlFQNU8?oc=5",
-        "headline": "Trump Adds His Newly Appointed Fed Chair To His (Long) Enemies List",
-        "summary": "",
-        "source": "National Memo",
-        "published": "09/23 19:27",
-        "published_ts": 1790159270.0,
-        "tag": "Fed",
-        "first_seen": 1790163928.2447553
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 06:15:51",
+  "updated_at": "2026-09-24 06:30:52",
   "yields": [
     {
       "label": "3년",
