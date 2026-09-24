@@ -82,6 +82,16 @@
         "first_seen": 1790237729.4400046
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucDE5SjhQeERqNVJlcDVvTWlXM2FjU005RUEyQWhQZ080NlJIM05TZ0JvQWt4V193d1dsS2QxdlM0aV83WlB3NlJnYmtRNzRNdk9XTzk0RjdnS1BHdmk0a0NsbEw4MW9YdUdzNHFFY0k?oc=5",
+        "headline": "서울채권시장은 왜 추석 연휴를 무서워하나…과거 사례 봤더니",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/24 09:01",
+        "published_ts": 1790208061.0,
+        "tag": null,
+        "first_seen": 1790253923.9587224
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTlhQdHRwQjFlZU5lWHB2RFpNWThoLUkyb3Nrc2ItUUQ0ZWU4LWtkUjVaUHRJUHhzX2lMTkhiQmx0bmY4UUh3X2txTkI2VU5PeFJaeDlZMVBnRE3SAWBBVV95cUxNYUJUa2ZFVTcwbHNaZThhVTMtSHZHLXZWa0hxMzFnTlVCWHVPdVU1bWRONHJteE5YcG1qVVliRHhVeHR4UmI3dDA3bGxLYXo5UUNxQ2xhaTh4QzFrLXRIM0s?oc=5",
         "headline": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790118000.0,
         "tag": null,
         "first_seen": 1790140524.0674658
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0tN0dITWtzMFhQTGt5cklpb2I5Zlo5bmRnVXFsdy03TlJiZ3JGNU1mQ3lpemdTcHMzd1lGQzdEeE01eUJERDc0WENua0YybjluczBZNVlsbGdQSWFyTmFQUDI5ZFkyZ1pFdy00VEFZR0NmUQ?oc=5",
-        "headline": "[노현우의 채권분석] 남 주고 싶은 내 델타",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/23 07:57",
-        "published_ts": 1790117855.0,
-        "tag": null,
-        "first_seen": 1790214321.6260915
       }
     ],
     "perpetual": [
@@ -1780,6 +1780,16 @@
         "first_seen": 1790251239.356031
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUkJ3QlZkOWRLMUJfYkZGSnZDOFN0UENRM1JnYzNSYi1OaUtnVFgtdWViTHJDY0g4eHgyTTZTZ2FNZ1Y0LUZZN25ORjAtUXdfSnowRElybV9Fbk14UEFDUkNNTzktaGo4RlZYdlFCR0hURmZIVFJhQ1RUN0g5dl84azk1NnAxRVVZZU1GV2dHTkxfcDYwaF83Z0Q1eFBfdnFnT2dzU0R0Z2RyWDBQbE43YnJxTWpmNTdqV0pBUXA5bXZQQ1R1?oc=5",
+        "headline": "SoftBank raises $14.2 billion in world’s biggest high-yield corporate bond sale",
+        "summary": "",
+        "source": "The Straits Times",
+        "published": "09/24 19:00",
+        "published_ts": 1790244000.0,
+        "tag": "Global",
+        "first_seen": 1790253923.9587224
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSV8wT2stZGt0MXFxYnY0NmZES2FOQzFiRGtxNUczRktUYXpxdWp2WkFSSFhzdURXQ3RCdFJhaE5KbTVYZzJoWlB3Wnh1VjhpZHo0OHIyOWdySmhKZ2tvY2JXLXRwNEhmblR6MmVxYlY?oc=5",
         "headline": "Kalshi could be worth $42 billion—if it can survive the Supreme Court unscathed",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "09/24 15:24",
         "published_ts": 1790231053.0,
         "tag": "Fed",
-        "first_seen": 1790231434.3915353
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeTBPZV9Palk2RExDX2RqcU9obnh4cTJ1ZHRiYkRJQlZhOXVkN0FYcXpHXzZET0UybDlCTzJGNVExOGd6STY4dDdJazEwMXQ1czFnOVpxbWx2RTQwenQ2Vm52WWd2MXJzVE0yT1hUTmI3NllCMWw4MzQ5RkphbDE5d2VNUkZyYW5zYlR1OA?oc=5",
-        "headline": "Bond selloff deepens as Fed rate-hike bets grow",
-        "summary": "",
-        "source": "Business Post",
-        "published": "09/24 15:22",
-        "published_ts": 1790230969.0,
-        "tag": "Global",
         "first_seen": 1790231434.3915353
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 21:31:32",
+  "updated_at": "2026-09-24 21:45:45",
   "yields": [
     {
       "label": "3년",
