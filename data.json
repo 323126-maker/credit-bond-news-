@@ -1630,6 +1630,16 @@
         "first_seen": 1790214321.6260915
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1ZHWk1fUGpMLWg4NWVRTWhxbkNKVTN6SmRKUGZzNWF4RG5nMzI3UGlFRmVSbzdNaDh6VW12clFwRHd1VUk3dmJwR0RqVzdPVE1Ockc1R2RZQWRLNnNTeTRMOWVwUjBza2xKWG1ldHlHWGpMNDkyRnZMalotcUU2R3BzZV9kS2F0akN6VW5rZw?oc=5",
+        "headline": "JAAA: Get Paid More If The Fed Hikes Again (NYSEARCA:JAAA)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/24 10:35",
+        "published_ts": 1790213715.0,
+        "tag": "Global",
+        "first_seen": 1790216124.7678401
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnJ1UWZSLW9ldjFJaHNOMmVzd1Y3UXJqcEZVMFdCREVUSjJqUkY1NDBOOTZRc25zbUF6UEhrTkJROVZFWDdzVlktRHF4ajlhTUtYQ0dVTVVTQ3V4NTJrbDNxbHhWM0FnanlkOUxkYWszY1NkNEptQkxjTmdLb3NKUndKTnVYTldRbGo2dmpvSTBVZWdZSWQtT200dVdURWVVNlBjbE9DZ1NKVUZVTmhma3NONEFQeDd3WF94R0dIWGJkSkxjMG9HcUMxVEZwLTFVRUQzWTY1bHlXaUV2ZXFCOWF0eWpqci0wSnQ5Yw?oc=5",
         "headline": "US 10-Year Yield Hits Nearly Two-Decade-High: El-Erian Says It ‘Shouldn't Be As Big A Surprise’",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1790207804.0,
         "tag": "Fed",
         "first_seen": 1790212521.672161
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2NGUmFxa0p6ZmtGaWtldTQyN050emExTXBMclBqV01jZ0s4LU0zLVJfeExUcHdYS2xoRllIak9QbkRwbWZmQXNQWHhNUnhXM2gyc3FsNkNKeTBUbGZJSEpzQlZ0aUxRb2NQWHFiWExmVklUYmpWTkR0UVgtdUVCS2hVQ2taTnFOUmlyaUM1cGZlR2hMcmlobFZnNjF5enhS?oc=5",
+        "headline": "Australia’s Debt-Interest Bill May Rise A$6 Billion as Bond Yields Hold Near 5.3%",
+        "summary": "",
+        "source": "TechStock²",
+        "published": "09/24 08:40",
+        "published_ts": 1790206817.0,
+        "tag": "Strategist",
+        "first_seen": 1790216124.7678401
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RUVfS3pENkVUek9Na1kyWDNwOWstVzIxLWljWm5MeXkzT0s4dHVYVHdpbkd4WDNjMGREaFhLcElKYXBiVzgxN3lQY3hCM1FjTVVGZG84VjFCUnh4dTRROUF1Vk4wLXho?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790172709.0,
         "tag": "Global",
         "first_seen": 1790208925.4454927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNXA2MUhxTXgycjRMQ0pLd1Frb2dybHNiaGJUQW8ycm1fLXZhMW1jNVdnS1JwcG9yVmJLaFZlVnVJMGh5UVJ6RXpsZlA0ZmI0dHZTN211RFBLOUdtdHlxTy1ZLUFJYmlCZnRLcHpBNDZiTi1jaUhsR0J5X19aX1EwZHA3OHFreVdDckp1c0Y2YnZBWEUzejFfckY2RGg?oc=5",
-        "headline": "The Fed Just Hiked Rates. The OECD Says It Will Have To Do It Again.",
-        "summary": "",
-        "source": "thewealthadvisor.com",
-        "published": "09/23 22:36",
-        "published_ts": 1790170617.0,
-        "tag": "Strategist",
-        "first_seen": 1790184633.5632555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WYWNTeElGVHNlMHpXS1BGZnc3TzZscWJvNkFTTU4tWXQ4OFFlNVUySjVwWjlrV0I1ZVl1OWhrNjJPWVFfUnBlOHkySjNHWmo2TXM1TVVVYWw4di1wcnhSd1NuT28tZDdzM0l6cTJnX3prV0FqeHFISEd3?oc=5",
-        "headline": "Overseas Markets Mixed as AI Rally Supports Asia",
-        "summary": "",
-        "source": "stl.news",
-        "published": "09/23 22:21",
-        "published_ts": 1790169677.0,
-        "tag": "Fed",
-        "first_seen": 1790193635.3087735
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 11:00:56",
+  "updated_at": "2026-09-24 11:15:49",
   "yields": [
     {
       "label": "3년",
