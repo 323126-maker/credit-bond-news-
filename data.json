@@ -72,6 +72,16 @@
         "first_seen": 1790276436.4442143
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaMzVzMkgwdEhFXzdaT2NwTklZQWl3M3ByRV9HR0ZBUUZocks2eWhVWjdWNE5QWEZRUlNFal9tU3ZESW91V3RySWtNcE12SXRNaEtWT1dmWkpDZw?oc=5",
+        "headline": "美 30년물 5.46% 치솟았다…22년 만에 최고, 채권시장 '긴축 공포'",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "09/25 02:12",
+        "published_ts": 1790269923.0,
+        "tag": null,
+        "first_seen": 1790291725.9749875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1neXJoWmJ5Z2NGaElHM0Q4R1BjakxuU28zMEROQl9fWHJRQzJxdzdaRjlpZU1BS09fb0lzOWRXbkhTbmlWVU1fT3NOYlJSSGp4OENQOC1QaElRWGl0dEh6Rk9IdlpmWlJoZEhOb3Q1UDQ?oc=5",
         "headline": "무디스, AI 자본 비용 부담으로 바이두 전망 ’부정적’ 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790151241.0,
         "tag": null,
         "first_seen": 1790154039.7584913
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB2cUliRHpndzA0R2V3bnpDR0U5U1pKMW5jSTZSak9rX3lzSkY3YzRfSHZqUHcxd25KM0lxX2NYek80MlVDdVREVVFURDBWMTZZZ1E?oc=5",
-        "headline": "국고채 금리 일제히 하락…3년물 연 4.006%",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/23 16:47",
-        "published_ts": 1790149672.0,
-        "tag": null,
-        "first_seen": 1790151322.3878772
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 08:01:00",
+  "updated_at": "2026-09-25 08:15:53",
   "yields": [
     {
       "label": "3년",
