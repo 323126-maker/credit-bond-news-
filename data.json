@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSkotSUJhUEF6Xy04ajBOZXdOU3U2WFk0bHd4c0ZRcG1jeURkTHhoM2V4Z3NyWWRqNnNGT1lod3I4U2trRjFoTzkxZXZ1X19ZNDJfSG5kZU5kVGZOTGRqQmxpcm5JdjRGN0dKbkFjLXVBSm9hVldyMUVEYkV0bTFTN1lud082YXZyN0NfdDNLWC14Q01rRlpFcUdUVDBOcVBDWU1BN21TZmFTZ0lqQlk4?oc=5",
+        "headline": "What the bond market is telling us as yields spike to 2-decade highs",
+        "summary": "",
+        "source": "businessinsider.com",
+        "published": "09/24 23:41",
+        "published_ts": 1790260898.0,
+        "tag": "Strategist",
+        "first_seen": 1790261124.355812
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDNzMER2X1NaN3ZuSV9VMmZiRHBuWUdaLVVNcjJKa0FsRGJtZ3NQcG9WRmRPWWlBWWRNTkRUMk5HaTBBaThOcjJQbmZXUmtNdEZTRlQ2LVM5aHhZTkxQQ0JJMHEzMG1BVzRhMEdYWnMwYWtZYVNQelVZRm1VWENUN01MSFd6OGtYR0hpb0xQYlY?oc=5",
         "headline": "Record bond issuance by emerging economies adds pressure to yields, Mohamed A. El-Erian notes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790238780.0,
         "tag": "Global",
         "first_seen": 1790255761.6090941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRU13aGluWmhrbGlXWFNjSnpINUpQZDV2MmstN2xvTHhPck1SaVQwaW1ZYUphUEtRMjR6ZzJUcVFuWmZxOUVQZVdWakZUOUtvWVprUFJGRlVCU0dtU1NGRDFPQkRFUHlQR2pkVVRXYjBDYVB0M2E5bG1nVHpZb3I3MFFJZG5VT2t1eFNNZWJaYkxnNEpEOGZQQzd2UFRUY0xQcTA3cFhLLTRHWXkxUnJ0VEZ5dDBMTy1mLUlwcFhTMDd0by1VRXRYLXl0SXQ?oc=5",
-        "headline": "McDonald's CEO Contradicts Kevin Warsh's 2% Inflation Target: Peter Schiff - ProShares Ultra Bloomberg Cr",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "09/24 17:29",
-        "published_ts": 1790238577.0,
-        "tag": "Fed",
-        "first_seen": 1790243127.0028896
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 23:31:01",
+  "updated_at": "2026-09-24 23:45:47",
   "yields": [
     {
       "label": "3년",
