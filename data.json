@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+        "headline": "Bond market sell-off rumbles on ahead of Trump and XI talks",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/24 22:50",
+        "published_ts": 1790257815.0,
+        "tag": "Global",
+        "first_seen": 1790259323.8618093
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaejNOVmFyLVRjXzAzcVNvcS1QU2pfYnZuOXVyYXpKaE1FVXYwLXZLYXdrWnlaT3Rhb1JYZTRmU1RGd3BQOHRuTGIzaVpBMVloelJVQkhmcU9wa0s4V2JhVllDczE3Vm5nNkpCWElzMU9PRTZUNEI1VklR?oc=5",
+        "headline": "Overseas Markets Mixed – Bond Yields Surge – Sept. 24",
+        "summary": "",
+        "source": "stl.news",
+        "published": "09/24 22:45",
+        "published_ts": 1790257525.0,
+        "tag": "JGB",
+        "first_seen": 1790259323.8618093
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1BGR0R3ZU94RE9tSVAyMkFYa0VWX0t1dDQzYkJaZzJqTDRBcU1HNWVMZzN6eURvMTJlMG9WQ3RnYnNCOF90NW5wbk8xU0p2RXVHUTJQTkNkVngtUEs4eEkwQ1hvU3ZHaUVkVUNFd3RRRDIzUGU5dl9Pbkw4REtqeUd1YTRsdDE0RkRHajFYSmx4LVpXazdRSmEzR3ByQVRPendVZFBRRGROckRYX3BIMXpFeGhGdENYN2lMeklhV1p4cm00OGxaYjBTYw?oc=5",
         "headline": "JPMorgan’s Grace Peters Says Stocks Can Keep Climbing Even With Treasury Yields Back At 2007 Levels",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790237797.0,
         "tag": "Global",
         "first_seen": 1790239522.805906
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVUxlbHFWSjZsN1YzUXRsZFFyZ21fc3kyMkdHZWhYN29JN2d0WXZkWVgyRzBOTWwwYkI1dmEyYXVkWU9CTmFGaGpzTzRGMDdwQ2Njei03bFUzcTRYME56bHBrMkkxTGNmTGpTN3huQ20wdnJYenRUQ0hUQXo0RzBUMndtOUp3Y05NNHJMMWtwVHoyRHUtVFRfQTlhT3l5VUhDVWEya1ZlTEoyLXJIM3I1QUc4WGJrVHVMc2xWOUlPN2lGdmtJQ2NmUVl1cFRMdw?oc=5",
-        "headline": "No Forward-Looking Guidance Needed: 5 Words From Fed Chair Kevin Warsh Strongly Signal What's Next for Interest Rates",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "09/24 17:11",
-        "published_ts": 1790237485.0,
-        "tag": "Fed",
-        "first_seen": 1790237729.4400046
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOUdjN05laDJUNkVheUFNcFBUMU9vU2gyVC1ZWEtwNzRiN1VJR3R4ODVuVkpYYkg2aGl3MWZrVnJ6MGVxX3BkajZDdHFkV19URV80S1FJZ1NSMWdmWVhjNlM3Z3dHcGFBb0ltc05yMU90dTVRY0VEVWp1RVhqbTFubXZ4d045NWFyM09WeTd2UEdHSnNFdXcyNWVOUWVKQXlDWHFWLVdmZjFoOE4xMkVDaWhTSFdfNmVFeEdjLXRpSHZEdVB1dlhJ?oc=5",
-        "headline": "The evolution of financial conditions in the euro area and the United States: a Macro-Finance FCI perspective",
-        "summary": "",
-        "source": "Zprávy Kurzy.cz",
-        "published": "09/24 17:00",
-        "published_ts": 1790236800.0,
-        "tag": "Global",
-        "first_seen": 1790240438.2773514
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 23:01:13",
+  "updated_at": "2026-09-24 23:15:58",
   "yields": [
     {
       "label": "3년",
