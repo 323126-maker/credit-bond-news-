@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1RoU1VHY0F3RzdLaWxoUVVJODNqOThMa0R4bzVlWmhhSVFxLUJVRGx5NHpOb0syR3VLT0NKdnpRU29KMjFpLUEzOXZ4aVBBZlhDdm9MZ19NR0R2SDlsQmxiT3haei1oU1hQSFR5MW9wamtoWXY4UDB6WjR3Qlo1QVRoZFF0T0pDLXU4aHN6TFZQN0RMeU5aSVEyWHdNRHlYWERhYXZR?oc=5",
+        "headline": "U.S. Treasuries Hit by “Black Wednesday”! Five-Year Yield Surges to Near 20-Year High, Is 6% the New Panic Threshold?",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "09/24 12:24",
+        "published_ts": 1790220296.0,
+        "tag": "Global",
+        "first_seen": 1790220627.6092377
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHJvWFh5dFZ5azZUREFGUmJNRkVmeW5Eazhzdk1WVVdPLXY4MG5NS25Pbnpwbko0MzdJMHR3ZTNYc0UwSEhwOXA4SFdQNmJfVl9yVEpwT3dtMHFGNF9tNjcwWjdZZmpWOG1xMzdFelFXOTZ3bEljWkVWWDM2d0wxaTFDckRKYXRCaTBueUt2M0ZSMnRYMmVGNkRvdDZMMU15eU9famloOWVpTTF3eVFzandicXBaUDFYcV8tZkJnQm1FYmpYd3hUM1Nrdw?oc=5",
         "headline": "Trump Once Again Urges the Fed to Cut Rates to 1%, Analysts Say It Is Unrealistic and Could Backfire",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1790213940.0,
         "tag": "Strategist",
         "first_seen": 1790214321.6260915
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVUwckYyRC12bWd4MXRYTHpYcEFOWXh2ZzBwbkhXRXBvM21xcHVPMG9KcWx4a2Q4WVFicHNZYlNabkFJZThYalRPejNYZU0wa216aGtrSWJVN1RxZTc0VzlVdDRqWWJ3SUN4Sno3Qk9VRmxBUVlhcjJ1bEltV1J2ODU5d2VqelI5T2dYLTU4MmU?oc=5",
+        "headline": "Why Warsh and Bessent Are at Odds Over Sky-High Treasury Yields",
+        "summary": "",
+        "source": "Barron's",
+        "published": "09/24 10:36",
+        "published_ts": 1790213793.0,
+        "tag": "Fed",
+        "first_seen": 1790220627.6092377
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOV1ZHWk1fUGpMLWg4NWVRTWhxbkNKVTN6SmRKUGZzNWF4RG5nMzI3UGlFRmVSbzdNaDh6VW12clFwRHd1VUk3dmJwR0RqVzdPVE1Ockc1R2RZQWRLNnNTeTRMOWVwUjBza2xKWG1ldHlHWGpMNDkyRnZMalotcUU2R3BzZV9kS2F0akN6VW5rZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790181212.0,
         "tag": "Fed",
         "first_seen": 1790184633.5632555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPakp4cXh6SjA3a19wS2gtajdicDVOUDhiWXZINEx5MXg2aFBKQnRIQWFmMGFaeVJHdGtyRjlZelRXU216b2YzZDVZcHVWdEEtMHlhbnZBR21DYk5kZ3JNeUpqM3VXMzU0REhQcEM4cmdxdmRCZDlUVTR5TGJ1V1huNWNURHEwSFRPUGs4bDFPWXpYbEp0WHBtZGlLM3N1YXdBRFNINlFLVjBta2V0dkZRQ2JWRGFhUkwxZ0QyQWI0U1R2b2pY?oc=5",
-        "headline": "GMF LENS Japan's steep yield curve opens 'reverse carry' trade opportunity, Eastspring says",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/24 00:39",
-        "published_ts": 1790177983.0,
-        "tag": "JGB",
-        "first_seen": 1790178361.4298897
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1EMlp5ejhNVjl1eVAtSDk4QWR4U21kRzY3MXVCOW5lclBmWXJ6Mk9pb0YwUHBNcGtMZFZ1Zkpxc3RoUDBvMzhQVTJkdzRVc3JkMDNROTRTaDdRckcyYkVZamVTTm1NbzJ4?oc=5",
-        "headline": "US: 4-Month Bill Auction",
-        "summary": "",
-        "source": "CME Group",
-        "published": "09/24 00:30",
-        "published_ts": 1790177400.0,
-        "tag": "Fed",
-        "first_seen": 1790218839.8557131
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 12:15:54",
+  "updated_at": "2026-09-24 12:31:00",
   "yields": [
     {
       "label": "3년",
