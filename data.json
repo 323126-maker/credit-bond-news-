@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11U01odFRzQTF1VFV0cFlWbGVQa1QxZDlUdmhnQzBSeWNQUHlIQ3dYVHVJNzc1SEFXbVBZUVJva0pOMUk2SHkwN24tTWFJZVE3NjNDN0VHcWE?oc=5",
+        "headline": "일본 10년물 국채 금리 2.955%…1996년 9월 이후 최고",
+        "summary": "",
+        "source": "토큰포스트",
+        "published": "09/24 09:43",
+        "published_ts": 1790210599.0,
+        "tag": "JGB",
+        "first_seen": 1790210726.09688
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFhROHREUDM4OVZDR2NtUUhvNmdFS1YwZmRNUURhRFdZaFF2eE1PclZfa3gyeUtlWUUwdVlBVGRPZmwzbTlja1RKSWYxSGNGNmlvdWRsc0hGb3cwaXNBSVZpWXA0VWJ0RHU3Wk1jRGVqcEJYMlNfaEo5UmM4NFRBYVlFR2FsbVg4NDhIbXlLMEJwcG8?oc=5",
+        "headline": "Japan 10Y Bond Yield Hits 30-year High",
+        "summary": "",
+        "source": "tradingview.com",
+        "published": "09/24 09:14",
+        "published_ts": 1790208840.0,
+        "tag": "JGB",
+        "first_seen": 1790210726.09688
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RUVfS3pENkVUek9Na1kyWDNwOWstVzIxLWljWm5MeXkzT0s4dHVYVHdpbkd4WDNjMGREaFhLcElKYXBiVzgxN3lQY3hCM1FjTVVGZG84VjFCUnh4dTRROUF1Vk4wLXho?oc=5",
         "headline": "일본은행 금리 올렸는데 엔화는 왜 떨어졌나…미국 국채금리 5%가 드러낸 엔저의 구조",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790163854.0,
         "tag": "Fed",
         "first_seen": 1790166638.2538736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTDlkSGkwY2xXNjE4eE1GaTFXWXZHS20xWEhpU29oNXJwclJKc1FFU3d5R1E1N0FzejRUVE1GTlViUUNJeG5wM3AwTVRFUldaU1Rma1ZIdGgwTlFWMUU0TzJQU2VaeTQ1S19OUWdfTWV2LTFrX3E2Q1lOUGxjS1k3QzAxb2xsTWpxQVdxcTFaMXFFaUxiTVRieWZFRVFiNzZPdElHSg?oc=5",
-        "headline": "Why Should Gold Watch the Yen? A Full Breakdown of How the Yen Affects Gold",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/23 20:42",
-        "published_ts": 1790163757.0,
-        "tag": "JGB",
-        "first_seen": 1790169325.2058125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fVmVjVkNIWTFENjV2OWV3OG8tVVJ3UEY5a0RrUE95RVY1dE4zZDdjemNkWTBiVUUzN3pGTHdRczZDYURYXzk0YWczcDdUVnFpQVFF?oc=5",
-        "headline": "Masayoshi Son Lends Funds to OpenAI to Buy Critical Time – Strategic AI Investment & Partnership Update",
-        "summary": "",
-        "source": "eu.36kr.com",
-        "published": "09/23 20:31",
-        "published_ts": 1790163103.0,
-        "tag": "Global",
-        "first_seen": 1790169325.2058125
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 09:30:55",
+  "updated_at": "2026-09-24 09:45:47",
   "yields": [
     {
       "label": "3년",
