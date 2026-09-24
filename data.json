@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOc3YzSmpoMERBVVJzY0FLczRKS0dlX1JyZm9MZzEzaHZVVHRBUldpYjdWemJOSThVRHl4MDA2QkFiTEI3Y20wT3NCbVltRHIxWk5UUFFaSE5Gc09pc3lOaElZQVdqYXh6TTVObW5fNTlYbHRGVlh1anY4Rk1TVFlZWEZjSnJLTTZaemlNVmFGR0xCbU1qcnVjdVdTaw?oc=5",
+        "headline": "How the Fed should measure inflation",
+        "summary": "",
+        "source": "The Economist",
+        "published": "09/24 18:44",
+        "published_ts": 1790243047.0,
+        "tag": "Fed",
+        "first_seen": 1790244035.9235272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE40YmdnVFU0cUJ2SkZsQjNxZmZ3d29rcG8xQ2pkTmJ4Tzd5Y3ZyS1RvZnlCZ2VIZThQaHZxaTd0RkR1VzRjSnBieHItVXBzcVNpWnZFOGRwMVV4eGVnSjNOMUtIMmg5S3NKTmZUX19nYWVUWkU4bHJCdWtvMWFQUQ?oc=5",
         "headline": "The Bond Market Perfect Storm",
         "summary": "",
@@ -1970,6 +1980,16 @@
         "first_seen": 1790242232.162098
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wd1FqdzNtdVRsMlkxR21WeWV4N2RGT2UwZHZFZWJTaXN6YktmZUNpNElQSE1OU24zSlE1eXFUY2lENlFwSWJ0SUNIcnRSUTRxckQtbXlDTE5SNHZkTmE1dTF0bGE2dlNZdFE?oc=5",
+        "headline": "[오늘 일본은] 日 ANA 여객기 엔진 이상 '긴급착륙'…158명 비상탈출·3명 부상",
+        "summary": "",
+        "source": "포인트경제",
+        "published": "09/24 10:54",
+        "published_ts": 1790214847.0,
+        "tag": "JGB",
+        "first_seen": 1790244035.9235272
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
         "headline": "Bonds shaky, oil eases off highs amid trade, peace talks",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790213940.0,
         "tag": "Strategist",
         "first_seen": 1790214321.6260915
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MMXNQUElSUnZFZFFrdkVxMHZSNWVyNTZrMVJHR2VhZVQzX2gwZEhpZVJRRHNwUW9HdFNwY0hrVVV2TThBbTFyU19acnNhbjFwbXhidWxnYzg3WnQ4TG10am15Y2lYOWd6ZlhfUGYycXZLamRTdXfSAXtBVV95cUxQQVhsbFlqNE5aNFR1VUdWWWlXT3dYZE56M2hheVVjNF9WZUJ0UzZ5Z3FsbWpiZU5mcHU4VVhHTFZkY0tRN1NVZWZ1ZEMzNnlnMmkwVzdGVktYNHNTWFh6T3V3VGRBQVJSUzFRamd5VmRHT2pXR2FwUnY5TzA?oc=5",
-        "headline": "Historic day for global bonds as 10-year Treasury and JGB yields hit highest in decades",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/24 10:38",
-        "published_ts": 1790213880.0,
-        "tag": "JGB",
-        "first_seen": 1790227828.825875
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaVUwckYyRC12bWd4MXRYTHpYcEFOWXh2ZzBwbkhXRXBvM21xcHVPMG9KcWx4a2Q4WVFicHNZYlNabkFJZThYalRPejNYZU0wa216aGtrSWJVN1RxZTc0VzlVdDRqWWJ3SUN4Sno3Qk9VRmxBUVlhcjJ1bEltV1J2ODU5d2VqelI5T2dYLTU4MmU?oc=5",
-        "headline": "Why Warsh and Bessent Are at Odds Over Sky-High Treasury Yields",
-        "summary": "",
-        "source": "Barron's",
-        "published": "09/24 10:36",
-        "published_ts": 1790213793.0,
-        "tag": "Fed",
-        "first_seen": 1790220627.6092377
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 18:45:49",
+  "updated_at": "2026-09-24 19:00:57",
   "yields": [
     {
       "label": "3년",
