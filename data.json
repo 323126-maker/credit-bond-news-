@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRnJ1UWZSLW9ldjFJaHNOMmVzd1Y3UXJqcEZVMFdCREVUSjJqUkY1NDBOOTZRc25zbUF6UEhrTkJROVZFWDdzVlktRHF4ajlhTUtYQ0dVTVVTQ3V4NTJrbDNxbHhWM0FnanlkOUxkYWszY1NkNEptQkxjTmdLb3NKUndKTnVYTldRbGo2dmpvSTBVZWdZSWQtT200dVdURWVVNlBjbE9DZ1NKVUZVTmhma3NONEFQeDd3WF94R0dIWGJkSkxjMG9HcUMxVEZwLTFVRUQzWTY1bHlXaUV2ZXFCOWF0eWpqci0wSnQ5Yw?oc=5",
+        "headline": "US 10-Year Yield Hits Nearly Two-Decade-High: El-Erian Says It ‘Shouldn't Be As Big A Surprise’",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "09/24 10:09",
+        "published_ts": 1790212140.0,
+        "tag": "Strategist",
+        "first_seen": 1790212521.672161
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQXBZNDBQTW02eEF0MFZoT0dHRnp3d3Q2bU1YTmFMQWxpdEFWM0FTSDRpV2FnSjdmOGVzT0dTaWFqT1cwS0s3SEUwdnV1cS02UlVBRGkzb1NBcThtZjBTT2Zsd2NUWTB1ejMxUHlxTWVrMmFkUktDbFZYbHJZbDAwMXJWX040YzA3WjRiZjhWNWQyMlQ3cmRNSWhySjQxaVl0S0Q4YXc5bGFNRDU1S3dqMHVnWVVnTFdaVW5TcXlCeVdOdw?oc=5",
+        "headline": "Japan's 10-year bond yield hits 30-year high after US Treasury selloff",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/24 10:01",
+        "published_ts": 1790211708.0,
+        "tag": "JGB",
+        "first_seen": 1790212521.672161
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11U01odFRzQTF1VFV0cFlWbGVQa1QxZDlUdmhnQzBSeWNQUHlIQ3dYVHVJNzc1SEFXbVBZUVJva0pOMUk2SHkwN24tTWFJZVE3NjNDN0VHcWE?oc=5",
         "headline": "일본 10년물 국채 금리 2.955%…1996년 9월 이후 최고",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1790208840.0,
         "tag": "JGB",
         "first_seen": 1790210726.09688
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPek9zcmVGenphZmxlXzBidUJ6S04tR2Rpb0IwdFk2Tms1aFNXRVozNWZFbWtyMUtvQ0UyeF9aSGcyUy1WMTZrREJPXzYySUV2V1FPbEhVMTFSLTVFTWtxeUo4bVRaRlo0MWtlYjFhbkRiQnVwUDFKX2VwLUFmRFJpcmRjMGJvaFdSZ2ZWT2FsTG9XdkFhdnREZmNDeGg0c0h1aXc?oc=5",
+        "headline": "U.S. Treasury yields reach 2007 high amid strong data and hawkish Fed",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "09/24 08:56",
+        "published_ts": 1790207804.0,
+        "tag": "Fed",
+        "first_seen": 1790212521.672161
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50RUVfS3pENkVUek9Na1kyWDNwOWstVzIxLWljWm5MeXkzT0s4dHVYVHdpbkd4WDNjMGREaFhLcElKYXBiVzgxN3lQY3hCM1FjTVVGZG84VjFCUnh4dTRROUF1Vk4wLXho?oc=5",
@@ -1820,6 +1850,16 @@
         "first_seen": 1790186440.2568462
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByLTlsUVJtS0RlYTZzdlRBQXVzLTR4ZHVOc1lRQnpUbVctVzczVXZpbXQzVi15dkRDV0ltUURrYWppenlTWWFFZ29lQnZZNlZhWkktS2dhTVVNazZ6c1VyLTFCMmsyYXZY?oc=5",
+        "headline": "US: 5-Yr Note Auction",
+        "summary": "",
+        "source": "CME Group",
+        "published": "09/24 02:00",
+        "published_ts": 1790182800.0,
+        "tag": "Fed",
+        "first_seen": 1790212521.672161
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5RZ2hmMncxSjVfSk54ZWpld0ZLZ3l1ZXBqOG5IeEhndGhYZmhMbFc4dG1ZazRfVktGTkFQVUR0Y3BCd1NUdTZISUpyYjJfOVBC?oc=5",
         "headline": "Asian stocks gain, FX subdued ahead of Fed decision",
         "summary": "",
@@ -1968,49 +2008,19 @@
         "published_ts": 1790166600.0,
         "tag": "Global",
         "first_seen": 1790184633.5632555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbmpIYjZHTlFNbzNEeHk0NkszWVhYYWh2T0Y4YXI3M1dFaVI0MWd2Qk93UkFzMXZjNFFRb21IOVhabmdCWEV6QW85QTJkdVQ5OHloeWJWcDJPdDhMek9GQUpZWUtmV1dlQzNwRnNkb3Q4NkNqMHRzTW5wZzFQcFVQMTNwenZWUUVxbDdDc2s3UGk1ZFNubmdBV3B2T0M5S0lVV3RsUjdLUXJ4QnFYbElhQmh0UzA3VnNhd1J6Qmd3Yw?oc=5",
-        "headline": "State Street's bond-fund suite tops $1 billion as three new funds join",
-        "summary": "",
-        "source": "Stock Titan",
-        "published": "09/23 21:30",
-        "published_ts": 1790166600.0,
-        "tag": "Global",
-        "first_seen": 1790167525.6397717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNDkxSDMwTURRMGRSamdYaHRxdWJWTmQzTU1uQU0wNnFNNkJxN0o1Y3VlampJT0tMc1JzNXVlT2FSYkxHNG9tOHFuaVVtckdMbGJfMTlBV2laNmpFRWNseUlmODFlS1dXTVR0eTFIN280TlRaRUtHdHF1dHc5a01Wb0l2N2NPd0l5YVFCNVNKMXhfWXF6RGEyYll1QnhGQzNvUlhXVU95Zw?oc=5",
-        "headline": "Money returns to Fed dashboard but won't steer policy, Pantheon says (US10Y:)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/23 21:18",
-        "published_ts": 1790165913.0,
-        "tag": "Strategist",
-        "first_seen": 1790166638.2538736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMWtkTjN0SkliS0Y2ZVVIUkRZOFlsRFo4ZC1CRzROeXMzMW5LYlpmRVBzSUF3VVhtQkJueHJGbnAwdjRYLWJNaU5GZFNqbkFabFMxNHk2NGw0TjVLbURpdjhmd0JHbGtFYVFNZnR2d09fQlM1ejcxRGs4UkRveHgtUUpBWjNiV3FIenNzZA?oc=5",
-        "headline": "John Hancock Income Fund Q2 2026 Commentary (Mutual Fund:JSTIX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/23 21:06",
-        "published_ts": 1790165160.0,
-        "tag": "Global",
-        "first_seen": 1790165726.2244987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1iN0xQN2UteEtOdHhTeHFLREh1SExkZmNiX1d2TEdRdFQ3WjlkWElpYWgwSVByNjQ0ZjA5ZTE1aXRSSDl2QzNCRk9uMm9DYlhMekl0Z25sczhSQlVSYWRhZ0IwVG12Z3hMRnZISk80VUgtWFpwU0pELUlFTQ?oc=5",
-        "headline": "The Case for Federal Reserve Discretion",
-        "summary": "",
-        "source": "American Enterprise Institute - AEI",
-        "published": "09/23 20:44",
-        "published_ts": 1790163854.0,
-        "tag": "Fed",
-        "first_seen": 1790166638.2538736
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51aHJHTEtNMTg4d3ExdWR0NjlSUXhiRXd5VHpXT3RWSV9QNzUzV0h4V3I3NnFDLWptYW5EUFVLWGJ3TVVpdmpqRFhvZE1fekVDeHJ0cVRqTjAyTzZKb0h1RU5XNTdyQy1KQ05v0gFvQVVfeXFMTXRVMXpQYkE0WGhaYzQ4T0lfeGJ1WEloRFpJdGE5VU9naGh6LVV3NTZqbUc1SXRZS1lzTEJ2ZXZZRTN1bUhSX0RqTVpEQ3RRQkllLWZ0UWNiNDBOZkNianVmek94VmpCYTNFOENTSUZn?oc=5",
+        "headline": "카드론 금리 14%대 숨고르기...추가 상승 압력 여전",
+        "summary": "",
+        "source": "한스경제",
+        "published": "09/24 08:34",
+        "published_ts": 1790206490.0,
+        "tag": "삼성카드",
+        "first_seen": 1790212521.672161
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRZUpjNHJoemYwVTc2YzA2bC1oZ2NEVy1oODlkaTJkVHB1NzdqaVlwaW9OTklBcFJ2eU9NVWFkODJRUVoweTZKOEliN0I1RmtlRk1aMUJjcXluNXJKZXc?oc=5",
         "headline": "[N2 포커스] 신한투자證 이선훈 대표 순익 두 배에도…JTBC 회사채 논란에 연임 시험대",
@@ -2400,20 +2410,10 @@
         "published_ts": 1789776000.0,
         "tag": "신한지주",
         "first_seen": 1789777831.5474665
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUkVpaHRsYVp4eVlfSFRaYzdJclAwUXRfTDEwcDNaX1BpSjdwQ1Z1QUtfbnpIXzJsV3ZHN3NGUmFBX3VTQ1FFdGhxMmZCWEF0RHNRZC1iRXY0YnVjekhwVF9uRFBNQmVyYnFpUA?oc=5",
-        "headline": "차기 수협은행장 2파전…신학기 연임 여부·이형주 취업심사 주목",
-        "summary": "",
-        "source": "econovill.com",
-        "published": "09/18 20:48",
-        "published_ts": 1789732087.0,
-        "tag": "수협은행",
-        "first_seen": 1789745443.4359384
       }
     ]
   },
-  "updated_at": "2026-09-24 10:01:02",
+  "updated_at": "2026-09-24 10:15:46",
   "yields": [
     {
       "label": "3년",
