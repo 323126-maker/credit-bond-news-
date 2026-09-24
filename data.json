@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+        "headline": "Bonds shaky, oil eases off highs amid trade, peace talks",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/24 10:48",
+        "published_ts": 1790214480.0,
+        "tag": "JGB",
+        "first_seen": 1790215233.0974455
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbFZSVHZ5bjZZVHh2RG51MkZRMHhRVjZhQ01NWXhBNEdlWTVxNjlSV1o1X0FWSUNVd3RLU1pKb1RTYVNZMmFpMGFBRnFKQlR4aElFdzR1aTM1S3AyTFZkdFQzZGlsWnMzY1FpU0VseHRqb3Y5NUYwZklYeDNVdEt6ZlZmclFsSGllSkt0N1RiVlREb211YjdaWDVTNk9xVlFjZjlXa08wS3JCcFRMZWtveWpyaDNkeTZ6Y0lMS0F0Wk82cDBpS3VtQ251RUMxT0xBVjNfMDhHWDlUMlBPY1ZJX1BValItaEJM?oc=5",
         "headline": "October Fed Rate Hike Odds Jump To Nearly 70% As Fed's Barr Says More Tightening Is 'Likely'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790169677.0,
         "tag": "Fed",
         "first_seen": 1790193635.3087735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTUR4TVRYU04tVGtNQ2RMc0dyQzRmcDNqeThwWXZoMTcyb3BOS18tOFEzaTFOcFVIQUwwLVhrdEZldm5seEFrNDhUVlp5X0E1S212M3ptRmJJWU93THh6ckZEdzdLdGpnRmpqYzBuaGpHQ09Oek1qclVVRlpWamQtREUtaWc?oc=5",
-        "headline": "Oil Volatility Points to Rates Vol Moving Higher",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "09/23 21:31",
-        "published_ts": 1790166665.0,
-        "tag": "Fed",
-        "first_seen": 1790170231.1187346
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 10:45:45",
+  "updated_at": "2026-09-24 11:00:56",
   "yields": [
     {
       "label": "3년",
