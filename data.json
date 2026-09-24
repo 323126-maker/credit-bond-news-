@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTlhQdHRwQjFlZU5lWHB2RFpNWThoLUkyb3Nrc2ItUUQ0ZWU4LWtkUjVaUHRJUHhzX2lMTkhiQmx0bmY4UUh3X2txTkI2VU5PeFJaeDlZMVBnRE3SAWBBVV95cUxNYUJUa2ZFVTcwbHNaZThhVTMtSHZHLXZWa0hxMzFnTlVCWHVPdVU1bWRONHJteE5YcG1qVVliRHhVeHR4UmI3dDA3bGxLYXo5UUNxQ2xhaTh4QzFrLXRIM0s?oc=5",
+        "headline": "연휴 뒤 채권시장 변수는…미중 정상회담·유가·10월 발행물량",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/24 09:00",
+        "published_ts": 1790208001.0,
+        "tag": null,
+        "first_seen": 1790219729.2600722
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByVENXa2U4djVJc3pibUdGOTBPak9FQ3V3VUFNTmRaVDJzSWhqWkJ5eE9hbWlsMEZPcndvMzVSWXdST2h1M0YzQVBVWFpHSjZXOXhMMzNCWWE?oc=5",
         "headline": "미국 채권시장 ‘발작’…금리 급등 도대체 왜?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790072400.0,
         "tag": null,
         "first_seen": 1790073032.3349721
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UaWl6UjNVRUVTZ2NIanVlNkZEMXRnQzdOQXJnVWd3RXRIdHRoRWF5enRJV1JqZ0tlc0FROFpWdjdHejJtVmdMRHZaZEFETEhmSlJwLUR6c2gyQQ?oc=5",
-        "headline": "49조 만기에 73조 투자까지… 한전債, 채권시장 변수로",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "09/22 18:53",
-        "published_ts": 1790070832.0,
-        "tag": null,
-        "first_seen": 1790082041.5281591
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 12:01:05",
+  "updated_at": "2026-09-24 12:15:54",
   "yields": [
     {
       "label": "3년",
