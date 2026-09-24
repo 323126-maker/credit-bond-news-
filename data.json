@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTDNzMER2X1NaN3ZuSV9VMmZiRHBuWUdaLVVNcjJKa0FsRGJtZ3NQcG9WRmRPWWlBWWRNTkRUMk5HaTBBaThOcjJQbmZXUmtNdEZTRlQ2LVM5aHhZTkxQQ0JJMHEzMG1BVzRhMEdYWnMwYWtZYVNQelVZRm1VWENUN01MSFd6OGtYR0hpb0xQYlY?oc=5",
+        "headline": "Record bond issuance by emerging economies adds pressure to yields, Mohamed A. El-Erian notes",
+        "summary": "",
+        "source": "tradersunion.com",
+        "published": "09/24 22:55",
+        "published_ts": 1790258122.0,
+        "tag": "Strategist",
+        "first_seen": 1790259841.734373
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
         "headline": "Bond market sell-off rumbles on ahead of Trump and XI talks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790238577.0,
         "tag": "Fed",
         "first_seen": 1790243127.0028896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmZFNURYMl9tMFNIdG9ZZ2pWLXR1bnU1UWxWa3JLME1jWUIwNnBYQWgyUUJLcGR3TDFLM2ZuVVpKY3R5dHk0SnNtc1FkaXU4NkdxXzZjemx4U21za2VZZ0gwZEJtWTFuSjdBZGQ1YlNhakFDaW5teWF2d1o2eGlDZF9rTHM5eXNTVkZZV0U4M25MWGFIUDlka3pOMWNzODQ?oc=5",
-        "headline": "FTSE 100 flat as global bond sell-off deepens",
-        "summary": "",
-        "source": "marketscreener.com",
-        "published": "09/24 17:16",
-        "published_ts": 1790237797.0,
-        "tag": "Global",
-        "first_seen": 1790239522.805906
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 23:15:58",
+  "updated_at": "2026-09-24 23:24:36",
   "yields": [
     {
       "label": "3년",
