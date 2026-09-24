@@ -1650,6 +1650,26 @@
         "first_seen": 1790268323.295991
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdEFpMWlQaUVHX2JoQnVVRk5MUkI5MWN0cjB4ZEQ2WHZRdjM3ZTk2WnlISDlpQ05PaW5pQ1B1OWNOREdxNWRvcFZUeVp2MzA0WnFBY1R6SHFBWGlRZkg3VXhyV2J3ckt6dnJuZU1EYVczV1V2R3NXOUVUVDVGN3lDWWxDQU1TVHdMbHhHWFVTbmw1Ujd0c1pheTE0VUFZZHpVSkdjSWN0Mll3TDlCWjJXNnZlSUVCZw?oc=5",
+        "headline": "US 30-Year Yield Hits Highest Since 2004 as Bond Selloff Deepens",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/25 00:51",
+        "published_ts": 1790265114.0,
+        "tag": "JGB",
+        "first_seen": 1790271924.146498
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
+        "headline": "Global bond rout rolls on, pushing US 30-year yield to highest since 2004",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/25 00:22",
+        "published_ts": 1790263373.0,
+        "tag": "Global",
+        "first_seen": 1790271924.146498
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQem9mdjNkWHZYYjN4RFgxanpXSmpfTnVScmtURU1xMlE5dDZlVXVnLXQzWnNNWWVoYkpSZ0hfa2QtdEVqUHRQb0o5LXZjbndscHMtRE8zalZvWDN4eG93NHUtZ2drNVJBMksyMVdNLUpBZHRUOFRuUzF1YUdIVDlVSEJPTk1EM3JYNUxyRmxLb2piVXB6MlZBeHREejdRSG5vbXd2andLYklUTHVIQXNHd2dYakJXVUo4Ukhj?oc=5",
         "headline": "Japan Bond Sell-Off Sends Yields Higher, Raises Spillover Risk for Gold and Silver",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790245611.0,
         "tag": "Fed",
         "first_seen": 1790250361.6876345
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
-        "headline": "Fed again hoping for a pain-free landing from current inflation spike",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/24 19:24",
-        "published_ts": 1790245449.0,
-        "tag": "Fed",
-        "first_seen": 1790245831.0633786
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPaGRfV2hFaUdhbHNsTGdKSjA3YnZlS05WNmViQW12S3hzdUxTODlodF8xUFJ0LUNrSk9VaXUwaTJwendqdnAzSUNWSGk0MXl2bFpYdi1fNWNYRWRNbk5RZGNmbTBRSEJvazJWemk0Zi1EMTdLRTZoVGpVLV95bmtsalhsVVZiTlN5Mkpna18wdnNCOWhQUGZJTjhUcE5UbFVuQnBoZg?oc=5",
-        "headline": "Fed’s Williams says it is reasonable to see another US rate hike this year",
-        "summary": "",
-        "source": "The Mighty 790 KFGO",
-        "published": "09/24 19:10",
-        "published_ts": 1790244652.0,
-        "tag": "Fed",
-        "first_seen": 1790258438.600569
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 02:30:56",
+  "updated_at": "2026-09-25 02:45:50",
   "yields": [
     {
       "label": "3년",
