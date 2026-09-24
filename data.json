@@ -22,6 +22,16 @@
         "first_seen": 1790226921.1447062
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTb2M5SUhiNFRxWXRveHNoYUdFdTVOX212c1doRW9hcHU3YnVFdGt4VTg5OHdQZEp5LXRfNm1UZFBYakI1R2RxUEtWLUw5ZENYWHVjRm5HYUlZRzR0Snl3RUw0UFBfQWxxOTJaNDdhZWQ?oc=5",
+        "headline": "[투자/채권] 베트남 신용등급 개선되면 채권시장에 100억~200억 달러 유입 가능",
+        "summary": "",
+        "source": "굿모닝베트남미디어",
+        "published": "09/24 12:13",
+        "published_ts": 1790219582.0,
+        "tag": null,
+        "first_seen": 1790241323.1024072
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5RUzNROHhXTmpjbVoxX2c3Sml5MWNDZzhMM1h4emowZVJ3WWdKLU8wa1lJTHlTV1JMNFBESXk4ajZBWjlmVzdJWHktSHdfeTI1OEFoOWlVRDFld2ZI?oc=5",
         "headline": "[일본 특징주] 소프트뱅크, 오픈AI 투자 위해 111억달러 채권 발행…주가 일시 7%↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790107532.0,
         "tag": null,
         "first_seen": 1790113525.2110834
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAweXY5TGhZWEQ1OERiWjUySDZZRmNkZTNLaUVPUUdMYV9YNTVYRUhwbnY2czloeG14LVkxcXUzOFhXeWVsV2JtWFM5R2N6d1Y5UDUzQlhIQi1JVFpJMHB3TFZqWS1OdTdZSDB2dm9B?oc=5",
-        "headline": "피치, 재정 개혁 및 안정적 전망으로 스리랑카 신용등급 상향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/23 02:38",
-        "published_ts": 1790098680.0,
-        "tag": null,
-        "first_seen": 1790240438.2773514
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW1QSXpqaVVuZVJ6eUI3dlBiUG5EVVd6bTdkV1BNQUtaMzdxeGEzTm54d1ozVXFFMHhPQ0hIZE9PSVNJVVNLUlRwc2pYQmJRY0FmTUphSkdDTFVRbS1oX0ZYUjlUb1ZFWVhoWFJyckZiX1U0a3F2VTV0dXEtdjFZZ0U4OXNaUUgtZUowTjVqZ19Ib2FCN2pTWkdoa3RZVHZvUldWeTVhcmQyQjkySkNTczdvT1VYOGlpSERuaHNQZ9IBxAFBVV95cUxQSE85eG5GQnBHOUJVMmQ5ODlYTXNyU1Q2REdJWnlpU2RhY2YxSzdFazB0Y0RlN1dlVnItS3dabTh0TDY1VmpoOUh3Y01nVTZoaHY4THNYMENUdldpRXluQTE5UnFBbU1pdldnb2FvSUtvMG5VbzlfdzdlQXgxVHRiNWVZUDlHdkxvMGt3dWhMWlE5bXJkUDZZRjdZRGZ5TTJBQWo4NGIxV1N0TXppTzdlelE2bVlNbkdCcWNuSjFjdjdKYWdK?oc=5",
+        "headline": "From 5% to 6%: Why higher Treasury yields are becoming a bigger market worry",
+        "summary": "",
+        "source": "Firstpost",
+        "published": "09/24 18:04",
+        "published_ts": 1790240641.0,
+        "tag": "Global",
+        "first_seen": 1790241323.1024072
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KaXk4a3JxSWFYcVBPZHZLMVdCdUhvMDBJZW41el85Wm8xczA3RlZFUTVmU3lsRWZVZW1LUHZobjF5X0hRY3ByekVsY3U2NzV2N29CVXpGZFdHWEhxakpFcERINVBSQzF4dHREcEt5TEtvY3ZSRFpz?oc=5",
+        "headline": "엔화 가치 급락, 엔달러 환율 다시 158엔대...또 시장개입?",
+        "summary": "",
+        "source": "thecommoditiesnews.com",
+        "published": "09/24 17:58",
+        "published_ts": 1790240308.0,
+        "tag": "JGB",
+        "first_seen": 1790241323.1024072
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNMEptb2s2QlRTaG5yY29jM3NTbUdvb1Z0RnNzUlN0Y2lpYzZQTnNrTFd1TEtfU0hreEVuVmNyRXBTaC1HanYyajlVNGh4cGVTc2h6dE5qVzdFNWh4NnNrdUFXQUJweXlSZjQxTUFCUldNaWkyWmxBTnR1SE1oNnJJTE1EYjVzX2NZMzBxZjRKWnZFWlMtQnZhUnpNSm9nT2oyVzFj?oc=5",
         "headline": "Global bond market sell-offs intensified, with the yield on 10-year Japanese government bonds hitting a fresh high not seen since 1996. The yield on 10-year U.S. Treasury notes continued its decline, while U.S. equity index futures fell, oil prices rose, and gold",
         "summary": "",
@@ -1648,6 +1668,16 @@
         "published_ts": 1790236800.0,
         "tag": "Global",
         "first_seen": 1790240438.2773514
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVjFxRTlwNE5vcFl6QUVHUDQ2N2dZbGpJVkdXcGM2QlF4UXNIS2Vhc3B1UXZ3dGdkREkxZEpZMERaUWg3TnFHU3pUNFN0d2VyaFVFWERQTXphSGxFeHRNcVladTRpeE1MMExhTHdRTXk3LW9VZVlwS2IwQWc2WTJkdlo0d1RheTF1Uk5ya09ScDAtakNzSUxxSng1cm51VzlWNm9VTXZscXFXREpCOERSNkRPN29kdw?oc=5",
+        "headline": "Vietnam Weighs Wider Daily Stock Trading Band After FTSE Upgrade",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "09/24 16:54",
+        "published_ts": 1790236485.0,
+        "tag": "Global",
+        "first_seen": 1790241323.1024072
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPTUpweFIwVGh2MGxaTlpDeGJGWjJiS0tIVUlRZmJvTzdlbGN0U1FwR2JMZUZTck00QXZGWE1OVlZndXo5VHRKbWpPRUpReVFjSEJMR1pQMkpSS1h4U2JvQ3VGSkZzN2xNUXdGMm4yU1RucGxkbl90eDUxT0l3R3o5X1dHc2dkcmJLemJwRy1LbGo2bENBR0RMUXBnY3U1MGxUdk50R0FwVEV6bERsVTN1UWFieVpESW14dkZrSzhDNA?oc=5",
@@ -1976,36 +2006,6 @@
         "source": "토큰포스트",
         "published": "09/24 09:43",
         "published_ts": 1790210599.0,
-        "tag": "JGB",
-        "first_seen": 1790210726.09688
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUUItWk5KdjFuQWFpbVF3MkpjVzNwZTBYWFllTV9HdFRwa0ZRa0lDYzYzRjl3LWtRMk5LTUhQU0dzSkJLOC15NFUyakVNVEhaUjVlT21HOC1jQQ?oc=5",
-        "headline": "Japan’s 10-Year Bond Yield Hits Highest Level Since September 1996",
-        "summary": "",
-        "source": "tokenpost.com",
-        "published": "09/24 09:40",
-        "published_ts": 1790210400.0,
-        "tag": "JGB",
-        "first_seen": 1790222433.220164
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzdGUXZJcWtUbHFhSUhsWkhEbnZzTTYxaGxVNXNhOW5NZ052S2p4MlN4RkZmUlhGVmExb2dnZm5CMmdrZGVZdnZBci1zT0Z5R2NLRVp2Mlp5cmxNRDczTm9KTklkOGlkTnpocWJyVkg5eFFBOGpHeXpPT25KNUZfd3gtS2hJb08xSXU0?oc=5",
-        "headline": "Invesco High Yield Fund Q2 2026 Commentary (HYINX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/24 09:15",
-        "published_ts": 1790208900.0,
-        "tag": "Global",
-        "first_seen": 1790213428.410924
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMFhROHREUDM4OVZDR2NtUUhvNmdFS1YwZmRNUURhRFdZaFF2eE1PclZfa3gyeUtlWUUwdVlBVGRPZmwzbTlja1RKSWYxSGNGNmlvdWRsc0hGb3cwaXNBSVZpWXA0VWJ0RHU3Wk1jRGVqcEJYMlNfaEo5UmM4NFRBYVlFR2FsbVg4NDhIbXlLMEJwcG8?oc=5",
-        "headline": "Japan 10Y Bond Yield Hits 30-year High",
-        "summary": "",
-        "source": "tradingview.com",
-        "published": "09/24 09:14",
-        "published_ts": 1790208840.0,
         "tag": "JGB",
         "first_seen": 1790210726.09688
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 18:01:02",
+  "updated_at": "2026-09-24 18:15:47",
   "yields": [
     {
       "label": "3년",
