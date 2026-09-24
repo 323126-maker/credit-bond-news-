@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xV29DSkstQW50TVJKTVhlNWFHNTA0cGEzSXFyVDJhR3M0bWlrQk5XVEVhSENJdzdHOHZkcG1lcTQ0Tk9sRjRmUmRoazRxX3FqWEV0R182NEQ?oc=5",
+        "headline": "美 국채 발작 日로 번졌다…日10년물 3.075%, 30년 만에 최고",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "09/24 16:21",
+        "published_ts": 1790234483.0,
+        "tag": "JGB",
+        "first_seen": 1790235035.414341
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXd6cDJ5bDdIQjJfeEEzR0JzeHp4akV1WV9YZEE3UzlBQzl5OEdSdTFYeEVpQUZsN2YwUGVHUkhmVERtUFFCYTBhY09WbHR1dmJiSVk2SzlSbXpCd0VaQ01teHNJbm56d2lJN0Zkb3B0V2wwWlluWXpFMWQ1b2gwbmhYWWppTk1udWVEVDdDVTJCWmVaTGMyZTB6blVqR3dXbWFj?oc=5",
         "headline": "Japan's bond yields hit 3.075% after BOJ rate h...",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790205120.0,
         "tag": "Fed",
         "first_seen": 1790229637.5106668
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9zMVppQzJTQ0p4NHBKbmJVRHl0RWIxVnBFb05MdDVUUVR4bTJqbTBfQy1fYndyY0NLamQyRlhIbE94T2lQaHliUU4yNjZ5cVlwbFlsSHBiVFU5S3RMTDhVV2R3WWVaRW8?oc=5",
-        "headline": "데일리 머니마켓] 美국채 10년물 금리 5% 돌파",
-        "summary": "",
-        "source": "빅터뉴스",
-        "published": "09/24 07:34",
-        "published_ts": 1790202857.0,
-        "tag": "JGB",
-        "first_seen": 1790208925.4454927
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 16:15:46",
+  "updated_at": "2026-09-24 16:31:04",
   "yields": [
     {
       "label": "3년",
