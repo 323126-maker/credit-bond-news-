@@ -392,14 +392,14 @@
         "first_seen": 1790113525.2110834
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAweXY5TGhZWEQ1OERiWjUySDZZRmNkZTNLaUVPUUdMYV9YNTVYRUhwbnY2czloeG14LVkxcXUzOFhXeWVsV2JtWFM5R2N6d1Y5UDUzQlhIQi1JVFpJMHB3TFZqWS1OdTdZSDB2dm9B?oc=5",
-        "headline": "피치, 재정 개혁 및 안정적 전망으로 스리랑카 신용등급 상향 조정",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE04ZVRXV0JTaVQ4bzQzaDBSUmRsWFNYMUFSb2dISmVJQURsLUhEWHBQNHY3VEE1bXlubnBISkVNMzRtcEFlUFNDTHNfR0JYUUtsdFZNbFo3UmVteHJnb250QXZ5SzNJN2xPRkhvd2JUVGpvS1BhampZ?oc=5",
+        "headline": "앵글로골드 아샨티, 무디스 신용등급 전망 ’긍정적’ 상향",
         "summary": "",
         "source": "Investing.com 한국어",
         "published": "09/23 02:38",
         "published_ts": 1790098680.0,
         "tag": null,
-        "first_seen": 1790099123.5103288
+        "first_seen": 1790239522.805906
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMmZFNURYMl9tMFNIdG9ZZ2pWLXR1bnU1UWxWa3JLME1jWUIwNnBYQWgyUUJLcGR3TDFLM2ZuVVpKY3R5dHk0SnNtc1FkaXU4NkdxXzZjemx4U21za2VZZ0gwZEJtWTFuSjdBZGQ1YlNhakFDaW5teWF2d1o2eGlDZF9rTHM5eXNTVkZZV0U4M25MWGFIUDlka3pOMWNzODQ?oc=5",
+        "headline": "FTSE 100 flat as global bond sell-off deepens",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "09/24 17:16",
+        "published_ts": 1790237797.0,
+        "tag": "Global",
+        "first_seen": 1790239522.805906
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVUxlbHFWSjZsN1YzUXRsZFFyZ21fc3kyMkdHZWhYN29JN2d0WXZkWVgyRzBOTWwwYkI1dmEyYXVkWU9CTmFGaGpzTzRGMDdwQ2Njei03bFUzcTRYME56bHBrMkkxTGNmTGpTN3huQ20wdnJYenRUQ0hUQXo0RzBUMndtOUp3Y05NNHJMMWtwVHoyRHUtVFRfQTlhT3l5VUhDVWEya1ZlTEoyLXJIM3I1QUc4WGJrVHVMc2xWOUlPN2lGdmtJQ2NmUVl1cFRMdw?oc=5",
         "headline": "No Forward-Looking Guidance Needed: 5 Words From Fed Chair Kevin Warsh Strongly Signal What's Next for Interest Rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790207804.0,
         "tag": "Fed",
         "first_seen": 1790212521.672161
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNT2NGUmFxa0p6ZmtGaWtldTQyN050emExTXBMclBqV01jZ0s4LU0zLVJfeExUcHdYS2xoRllIak9QbkRwbWZmQXNQWHhNUnhXM2gyc3FsNkNKeTBUbGZJSEpzQlZ0aUxRb2NQWHFiWExmVklUYmpWTkR0UVgtdUVCS2hVQ2taTnFOUmlyaUM1cGZlR2hMcmlobFZnNjF5enhS?oc=5",
-        "headline": "Australia’s Debt-Interest Bill May Rise A$6 Billion as Bond Yields Hold Near 5.3%",
-        "summary": "",
-        "source": "TechStock²",
-        "published": "09/24 08:40",
-        "published_ts": 1790206817.0,
-        "tag": "Strategist",
-        "first_seen": 1790216124.7678401
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 17:30:51",
+  "updated_at": "2026-09-24 17:45:45",
   "yields": [
     {
       "label": "3년",
