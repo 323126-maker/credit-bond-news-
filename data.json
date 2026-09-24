@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQXd6cDJ5bDdIQjJfeEEzR0JzeHp4akV1WV9YZEE3UzlBQzl5OEdSdTFYeEVpQUZsN2YwUGVHUkhmVERtUFFCYTBhY09WbHR1dmJiSVk2SzlSbXpCd0VaQ01teHNJbm56d2lJN0Zkb3B0V2wwWlluWXpFMWQ1b2gwbmhYWWppTk1udWVEVDdDVTJCWmVaTGMyZTB6blVqR3dXbWFj?oc=5",
+        "headline": "Japan's bond yields hit 3.075% after BOJ rate h...",
+        "summary": "",
+        "source": "pluang.com",
+        "published": "09/24 16:06",
+        "published_ts": 1790233586.0,
+        "tag": "JGB",
+        "first_seen": 1790234123.71558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVXNsTkpvdjd4ckNlYUd3a1VCVC1xdkw0S0cxSWNrYnU2SDVpX2lpN0pINjZSUmFHa2lXTktxYjJ5NnVUS3JJc1pUUGtBbGNjT1VPeHkxWFdUbml1ODI1cFpwQ011WHBJLUlQX1kxVm1jN1BhQjBjQlBCNWRJQnY4LVEzWmkxMl81ZGUtUjJVYzhQN2wyUE43NFVJMkFZUFBMWnlFdlU4NHI?oc=5",
         "headline": "Rising risks of Japanese intervention, coupled with a surge in Japanese government bond yields, have kept USD/JPY near its downtrend line as it awaits a breakout.",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1790232480.0,
         "tag": "JGB",
         "first_seen": 1790233236.5198746
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSWNpY1pVY1BCZlFDQnRQTVJWM0pRanFoSGxjdjhFQkRvWHA4aExfMnpFMlBZd3d3cW5tNzl1U3g0MThKckRIdXplaURMbS1aQjVrOGJEREtsSmVwMmo5ZkVrVlRaTFlHMnVFakdRQ1VOaWdSY3hKTHdZSnFlb2VsdUNWNlN5dWtvN0R1WENnMjNnSVZvUmlNQmNjLXNQb2JndWU5Z05nSzc5Q1lnbzlKMDBvcFlsTWg4aXBpekd1dFk2bTZoTnBiNk8yQlc1UlExM3c?oc=5",
+        "headline": "Morning Wrap: Equity indices fall as bond yields surge 🚩 Mixed data from Australia (24.09.2026)",
+        "summary": "",
+        "source": "XTB.com",
+        "published": "09/24 15:37",
+        "published_ts": 1790231847.0,
+        "tag": "Global",
+        "first_seen": 1790234123.71558
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVHFSWUN4R2N4Nm56QXU5UmFkT3dsREk0aG0tQ3BhNHpKT3F5Y3REWHF2WjQwc2hRbi05Y0dRQnJpVXdFc00yV0d3SEZteTFaTzFaNlNOdW1vWXR6bElVYXl4UzVQT0Z5eFJGVTlZRmpzSGNrTndCbnYzbEJtZGhsUFZleGZMLThLUFh2QnVn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790202857.0,
         "tag": "JGB",
         "first_seen": 1790208925.4454927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51LTlDX2stQU55TWtPeDBfSXA3NUFLcEtNRC1qV2VjdGRWSE9CWEg2YW9QOFFMVlkxNmREd1VoUVE1RUZNaFYyM3JRa3RkeFluTW5oRFFVdGJGUQ?oc=5",
-        "headline": "日엔화 다시 급락…금리인상 사흘 만에 약발 끝났나",
-        "summary": "",
-        "source": "한국경제",
-        "published": "09/24 07:22",
-        "published_ts": 1790202170.0,
-        "tag": "JGB",
-        "first_seen": 1790202628.3081994
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNnFJdkpXR25uWlpXUkRfd1dRUXd5QTlqMU8yYkpkUmlabnNyZDJWdmlqRzZlRE5LZFhaaG4yWE8wZlMtdDdPUzVaX2JIVi1mR1hNXy1ma3pobThfZ2F3OWQzOVVwY0R2czBQejR5N1I4RzlqemdzWktJdHNvYW8tVWxydWh6cG0tNUo1VEkwTHdFUzZ5?oc=5",
-        "headline": "Asian Stocks, Bonds to Slide on Inflation Jitters: Markets Wrap",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/24 07:17",
-        "published_ts": 1790201843.0,
-        "tag": "Global",
-        "first_seen": 1790224227.0979726
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 16:01:17",
+  "updated_at": "2026-09-24 16:15:46",
   "yields": [
     {
       "label": "3년",
