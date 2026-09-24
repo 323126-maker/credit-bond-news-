@@ -1730,6 +1730,16 @@
         "first_seen": 1790210726.09688
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBaUUItWk5KdjFuQWFpbVF3MkpjVzNwZTBYWFllTV9HdFRwa0ZRa0lDYzYzRjl3LWtRMk5LTUhQU0dzSkJLOC15NFUyakVNVEhaUjVlT21HOC1jQQ?oc=5",
+        "headline": "Japan’s 10-Year Bond Yield Hits Highest Level Since September 1996",
+        "summary": "",
+        "source": "tokenpost.com",
+        "published": "09/24 09:40",
+        "published_ts": 1790210400.0,
+        "tag": "JGB",
+        "first_seen": 1790222433.220164
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMzdGUXZJcWtUbHFhSUhsWkhEbnZzTTYxaGxVNXNhOW5NZ052S2p4MlN4RkZmUlhGVmExb2dnZm5CMmdrZGVZdnZBci1zT0Z5R2NLRVp2Mlp5cmxNRDczTm9KTklkOGlkTnpocWJyVkg5eFFBOGpHeXpPT25KNUZfd3gtS2hJb08xSXU0?oc=5",
         "headline": "Invesco High Yield Fund Q2 2026 Commentary (HYINX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790181712.0,
         "tag": "Fed",
         "first_seen": 1790184633.5632555
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZkViV1FwdGE1Y185RXFhYmVvTzlYNW5ENklNdFhrb2J4MExJQnB6WmExam1oWnZhOWJYNlZDZDdGN0xyYm9xdjRwZlM5T0xIY2lxSHBQVWtPSi1jME5MUnl0LXdCS3Myd0V0Nzk1SXlxbDlyWHpjMktKQVZodGxjbHZwWlBGeTdLVGJLODZ4LTdPcUt0MHEyWEM5Z0oxdHhRYklnOUFxX011NlpZQ3pMVA?oc=5",
-        "headline": "Letters to the Editor: History shows us that the Federal Reserve can’t stop inflation",
-        "summary": "",
-        "source": "Los Angeles Times",
-        "published": "09/24 01:34",
-        "published_ts": 1790181284.0,
-        "tag": "Fed",
-        "first_seen": 1790181924.8428407
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 12:45:50",
+  "updated_at": "2026-09-24 13:00:57",
   "yields": [
     {
       "label": "3년",
