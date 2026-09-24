@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5wSWRkaXh3VkNxSnB3akdQWWdWNU1SWC1CTzFLcHNUZEhvMXoyZ3VKTU9wSHliUnh0X0czMWx4R3F2VFFmQ2Q4ZUViVHNHR2RkZ1V1THhiRFdlT2xJTmJWVTRJcmNBUlpBUUE?oc=5",
+        "headline": "일본 10년물 국채 금리, 추가 금리 인상 기대에 30년 만에 최고치",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/24 12:30",
+        "published_ts": 1790220600.0,
+        "tag": "JGB",
+        "first_seen": 1790221527.0331905
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX1RoU1VHY0F3RzdLaWxoUVVJODNqOThMa0R4bzVlWmhhSVFxLUJVRGx5NHpOb0syR3VLT0NKdnpRU29KMjFpLUEzOXZ4aVBBZlhDdm9MZ19NR0R2SDlsQmxiT3haei1oU1hQSFR5MW9wamtoWXY4UDB6WjR3Qlo1QVRoZFF0T0pDLXU4aHN6TFZQN0RMeU5aSVEyWHdNRHlYWERhYXZR?oc=5",
         "headline": "U.S. Treasuries Hit by “Black Wednesday”! Five-Year Yield Surges to Near 20-Year High, Is 6% the New Panic Threshold?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790181284.0,
         "tag": "Fed",
         "first_seen": 1790181924.8428407
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYTkwMXlsaXA1Mzl5SzY3SkowY3BUVVJDeFpnRmhZZnhrWWtzRFdQZTVvSEN2MC03QjlUeHpQVzhrS2ZHNVlEeUdJeXVMRFo5Vk11cllFdktuRE1sWVdJV0JkM1BpRF96NEx0RVgwbmtZUjhfak42eHJJSGp5TGVwaURyNl9TYTc0X3k0Rmx0SS1peklFRnBLQmpMdTV3OC1uN05BN0U4ZlBJc3d6QVpfMmdOUmRDZ0hnbW9XNFk5dEtPeXVqVnc?oc=5",
-        "headline": "US 10-Year Treasury Yield Rises to 5.093%, Highest Since July 2007",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/24 01:33",
-        "published_ts": 1790181212.0,
-        "tag": "Fed",
-        "first_seen": 1790184633.5632555
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 12:31:00",
+  "updated_at": "2026-09-24 12:45:50",
   "yields": [
     {
       "label": "3년",
