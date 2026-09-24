@@ -82,6 +82,16 @@
         "first_seen": 1790237729.4400046
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EaS1OOThWYXdxSU5VWHFtTVIxM2dVQ1p4MnBtZUtoLV95TnJ0bks3ampnOGszRHl1V3F2b3psd21XWG5YS3A4My1qT0xVU1RNTkRvSThYTG1RVC0xUkdVbHRJenc3Nm9xdzhVRVZNcm4?oc=5",
+        "headline": "미국 주가지수 선물, 채권 시장 매도세 및 미중 정상회담 앞두고 하락세 지속",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/24 10:15",
+        "published_ts": 1790212500.0,
+        "tag": null,
+        "first_seen": 1790256636.4328005
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucDE5SjhQeERqNVJlcDVvTWlXM2FjU005RUEyQWhQZ080NlJIM05TZ0JvQWt4V193d1dsS2QxdlM0aV83WlB3NlJnYmtRNzRNdk9XTzk0RjdnS1BHdmk0a0NsbEw4MW9YdUdzNHFFY0k?oc=5",
         "headline": "서울채권시장은 왜 추석 연휴를 무서워하나…과거 사례 봤더니",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790123844.0,
         "tag": null,
         "first_seen": 1790125239.1440022
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZbWlCdF96SVNqbkdKbXVKeEdSVE5aOFdkbXRCbXJrNktYN1p0X2d5Um56c0d6Q29TUV9jQUFaeHc5ZFBNc3dnbkJBQVA3QTZ0YmFDU0pLcFhuRDl6cjhzeW5pMHhfZFRpVmhZM0lTY0htUQ?oc=5",
-        "headline": "AI 투자 ‘빚의 가격’ 뛰기 시작했다…하이퍼스케일러 내년 회사채 4200억달러",
-        "summary": "",
-        "source": "중앙이코노미뉴스",
-        "published": "09/23 08:00",
-        "published_ts": 1790118000.0,
-        "tag": null,
-        "first_seen": 1790140524.0674658
       }
     ],
     "perpetual": [
@@ -1670,6 +1670,16 @@
         "first_seen": 1790250361.6876345
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNVER1UFJ0ZVpGNjRWcnkxSU96Z01OUHY4MVVqQmcyZDYwZVhkNFdpMWlyU1NnNjhSQmZpSG5FODhMLXktd1laTjRESnhfc2pLenBvckhkWmRSNDFxMEw0Yi1DenJEc3l0bzExaGVZaDc3RDFUT3FkN2dmZGEzOVI4WkxadmZ4ZGtaaFVNUGFPeHhlNnQ5UkZXQkx0OVFPcWdVWWtVR0FISmRXb0s5dUI4aThxSmQ2dGktYTdySlJFcldQMEhOWkE?oc=5",
+        "headline": "U.S. Treasury Yields Fall as Fed Regains Trust, BOE Leaves Rates Unchanged",
+        "summary": "",
+        "source": "WSJ",
+        "published": "09/24 20:36",
+        "published_ts": 1790249793.0,
+        "tag": "Fed",
+        "first_seen": 1790256636.4328005
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxORzB2MVE1THBFSTctSkxYNE4tT0o5Ukt2em1wQmxHbjRGczlqdE8xMUwyWVVGdVl4ajNidkJjY3ZCUndBSmtWMWJXSUlJUDlPbWJleTAxWGNOZkNiWjFkQ1dBdm55OFhFaU9wNFJuZm9PYnA0S2VMdjhTaGtMZ2ppMFpn?oc=5",
         "headline": "If Kevin Warsh Keeps Rates Elevated, These 2 Stocks Are Built to Handle It",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790235019.0,
         "tag": "JGB",
         "first_seen": 1790251239.356031
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4xV29DSkstQW50TVJKTVhlNWFHNTA0cGEzSXFyVDJhR3M0bWlrQk5XVEVhSENJdzdHOHZkcG1lcTQ0Tk9sRjRmUmRoazRxX3FqWEV0R182NEQ?oc=5",
-        "headline": "美 국채 발작 日로 번졌다…日10년물 3.075%, 30년 만에 최고",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "09/24 16:21",
-        "published_ts": 1790234483.0,
-        "tag": "JGB",
-        "first_seen": 1790235035.414341
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 22:16:23",
+  "updated_at": "2026-09-24 22:31:01",
   "yields": [
     {
       "label": "3년",
