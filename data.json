@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWXF2bjdqUUFYeEpKaDR2XzBzTGFsMWRUR1p0alZrVTJYSjFmNTMzTFZUZkd6aGxUM1BJMEJpNzFEZ0UyQWQ5c05kVWN6M0d6R01hWDJCSjNRaVlHN1ZWMmxWV1BDT0F2ODZBbEJJRDk3YXhzeGZFcFVNRDhtQ2kzMThweVFfdUFfTlNSekpsYlFyVVU?oc=5",
+        "headline": "Mortgage rates top 7% for first time since January 2025 in blow to homebuyers",
+        "summary": "",
+        "source": "nypost.com",
+        "published": "09/25 02:15",
+        "published_ts": 1790270100.0,
+        "tag": "Fed",
+        "first_seen": 1790271030.9146194
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORXJMeTF2WkpDUWtQWGlQd3B3TzB2dTBGd3NLNE14M2ZTWmVTWklrWGw5UHRHZTRCOEkwelZKRVNkM0JYSVlpbWtiYkxmLWhrclIxRkJTWFhDVjNZZm9zSzBFdVpNUzlnQ1ZSaVFCSFRMMU1DbWpzSXJEcU4ycmVsZmxYZUZ2cUlYNmVwNjJya3RVQmxscXl2dXFJajdwTHNMVW5CNXY5SnlQaURqMUpSSTBFckQ?oc=5",
         "headline": "SoftBank Group plans record sales of high-yield bonds to invest in OpenAI",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790244652.0,
         "tag": "Fed",
         "first_seen": 1790258438.600569
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOG41MExjN21pM3Z3V2JFMGkydXNYQW5YSEFfbTd2N2pOenR6R3pKQ0ZVWnVQZElXXzdBSXNLdTl4Q0ZPMzItVkIzR3hWNjZrMUNRZzJsa2xYQVNvQ1h2REJuNW1HTGpCb2lsdjdyWkZacjV6NnI1aHA4Y2JFN0sxYm5TYlBTSkhGWkd6b2dWaWNpbTVHYkhWb0lnNFo1al9scmVqT0tXZkh5ZFU?oc=5",
-        "headline": "US 30-year bond yield rises to highest since 2004 as selloff deepens",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/24 19:02",
-        "published_ts": 1790244156.0,
-        "tag": "Global",
-        "first_seen": 1790251239.356031
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 02:15:47",
+  "updated_at": "2026-09-25 02:30:56",
   "yields": [
     {
       "label": "3년",
