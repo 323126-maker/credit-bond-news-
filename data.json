@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQai1uWS0xUEd6VnlJN1ppcHAxNDdCa2dsTmtFTWJxRGticDVkQmJCM0FIVi04VUkxOU5jQVM4d18xVjNDWlJ1djZfa0ZSZkxSXzB1SkJqUVJxanVZci1jTEt3eVMwZWNBSnFpUWNXdHlGeWdITVVILXZwdlZxdnM3SFU3WFNZZzNmMU0yemM4VlNGcUxBajBfQ2tnU1M5UWlxejFfZTZ3?oc=5",
+        "headline": "Fed again hoping for a pain-free landing from current inflation spike",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/24 19:24",
+        "published_ts": 1790245449.0,
+        "tag": "Fed",
+        "first_seen": 1790245831.0633786
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5kSV8wT2stZGt0MXFxYnY0NmZES2FOQzFiRGtxNUczRktUYXpxdWp2WkFSSFhzdURXQ3RCdFJhaE5KbTVYZzJoWlB3Wnh1VjhpZHo0OHIyOWdySmhKZ2tvY2JXLXRwNEhmblR6MmVxYlY?oc=5",
         "headline": "Kalshi could be worth $42 billion—if it can survive the Supreme Court unscathed",
         "summary": "",
@@ -1810,6 +1820,26 @@
         "first_seen": 1790231434.3915353
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODNybFhNY0RXa19vbU5nRW93SjExMlk0V0V3YjY4RmJpM0lZbDdicVRaYW9vbVgyb280YWpCTzhuUU9LaE56NDNJa3dZcjhDQnJ6YjBGQ1U2cURIaVVVb1RuZG56akRfeWxyMVZNajUyZDB0MS0xMGdXcUp5ZGE2aEg2ZUdiXzN2bkJOaGwxaGttbEJ6emc?oc=5",
+        "headline": "SoftBank raising $11.1 billion in world’s biggest high-yield corporate bond sale",
+        "summary": "",
+        "source": "WKZO",
+        "published": "09/24 15:22",
+        "published_ts": 1790230950.0,
+        "tag": "Global",
+        "first_seen": 1790245831.0633786
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWEltUDlJNE9jWHA5VlhOV21YTl9vZnZzMjQ1ZldQTmNSOHQ4NDMyZzlVbHVXZ1NqN01WR0d1aWxKVTQ1LURRTGhKQjlYbzUydHBYRVVuUkt3dFhRWDB1VDdWQTZhVy1Fb0pIM1hRa0UtTWZGQ1ZIa0MzSm1SUEdPR2pjNA?oc=5",
+        "headline": "Bonds shaky, oil eases off highs amid trade, peace talks",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/24 14:55",
+        "published_ts": 1790229334.0,
+        "tag": "JGB",
+        "first_seen": 1790245831.0633786
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBmRllLcjZYZ2dUNDkzeElzT0gxMFE4MWQxUGxuNnV5ZUlXOFJCWGpiUV9IejIyTnBuS09BN0NZNFpCYmsxS29OazdNTnpyQWhIYmdpRjM4eHk?oc=5",
         "headline": "엔화 다시 달러당 160엔 눈앞…日 외환시장 개입 경계감 고조",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1790216775.0,
         "tag": "Fed",
         "first_seen": 1790217925.5656667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNamVoMEo5b1VVazg4QUJVM3ZoLUlLZGFHelk5SS1IRDJoZm1aQnJfMUlSQTZBaDlzN2xEcXAxb2Q1b2FqbVI0RTBNMFpEU3dKUkZKZWRGbjRfUHNhZFNhSThqb1ZLWFF5cVdoR0xCS0d6cUw1UnRhSDNWZFRvOXh1QXo1NHRyaE9Wam5PYjlMYmN2M1F0cl9BTA?oc=5",
-        "headline": "Yields Hover Around 5%, Eyeing 6%: Is the \"Second Phase\" of the U.S. Treasury Crisis Emerging?",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "09/24 11:22",
-        "published_ts": 1790216520.0,
-        "tag": "Global",
-        "first_seen": 1790228724.818593
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NdWNNVmt6WFByRE1nbFZQUks0blNsV0ljZzdRUi1ra3hoT3lRTklqeHNBS2NRYXEtVXdXSnd5MjNSYV9kVlJ3RUlkemhEOC0xbGlZRFIwOVA?oc=5",
-        "headline": "미 국채 매도 여파…일본 10년물 금리 30년 만에 최고",
-        "summary": "",
-        "source": "tokenpost.kr",
-        "published": "09/24 11:14",
-        "published_ts": 1790216096.0,
-        "tag": "JGB",
-        "first_seen": 1790217030.0278003
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQd01rWDE5WExJanRndXYwTXhVSjMxdXA3cWE2ZHZuaHduelRFTVJ4MzR3dXI1cmhtU013cTg4bzZwWDFRRnFCcGJtemdoZmxVVk95RTRUWnc5ZVdLRjVzSmxJOWdreWkwU0U2SXhuay1nZUMyTk50VUNCT3BOVEIzY3lpZFptdXpHMVRhalp4RUQzcldPM01iX053?oc=5",
-        "headline": "Japan 10-Year Yield Hits Fresh 30-Year High",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/24 11:09",
-        "published_ts": 1790215740.0,
-        "tag": "JGB",
-        "first_seen": 1790242232.162098
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 19:15:49",
+  "updated_at": "2026-09-24 19:30:54",
   "yields": [
     {
       "label": "3년",
