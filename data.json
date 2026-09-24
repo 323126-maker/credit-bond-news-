@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFByVENXa2U4djVJc3pibUdGOTBPak9FQ3V3VUFNTmRaVDJzSWhqWkJ5eE9hbWlsMEZPcndvMzVSWXdST2h1M0YzQVBVWFpHSjZXOXhMMzNCWWE?oc=5",
+        "headline": "미국 채권시장 ‘발작’…금리 급등 도대체 왜?",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "09/24 08:29",
+        "published_ts": 1790206192.0,
+        "tag": null,
+        "first_seen": 1790208036.8978002
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9WVnU1OWtrckU4cjY5dUdlQWhKQkRDWklfSV9Mc1VzSHVKZmdlQ3A4STZ4dUxoX3Q5M2dXZlB6VTczR2NsMmpzT0FUQnNkSVp1ejRRZ2w4dUlILXd1R05BdVJRYXVjOWpyZXVSdTUtUzc4NUthV3Zz?oc=5",
         "headline": "S&P, 스키나 리소스 전망 ’긍정적’ 상향... 광산 개발 진전",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790068052.0,
         "tag": null,
         "first_seen": 1790070327.5723927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQbFcyOXNtNkFKM1U2clVYS1JwTk1OZW41UjZSTFFEc2xnU1ZSSkNuTWxoSWRxX2h3ZlRMbTBPMFpyQ3phY3gwM3JTZk5IQ1o0b0h6SVVjTDh0MjN2SEhyR2xTSzRtQnJXYUhjMHVRNkxWVjVjak5zOFJEY1pWdEs2Sk93WXFJMDFYSDRvdDV5TXl1U01QbjV1SW1BVUpidEdRdXozVi1CX2RUenFKcU5lZXBxYWNNRDllbVNnRU1vSm9MUVd3R0Z2QjBSMG1YUlpYZUdF?oc=5",
-        "headline": "투자자들, 美 회사채 발행 지속에 '안심'",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "09/22 17:36",
-        "published_ts": 1790066188.0,
-        "tag": null,
-        "first_seen": 1790117122.6255352
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUXNOWno3ZDE2cDlCckFieVFMcFlYNHhYQ1dIbWJTTmxoajBVYld6T1JjQk9ZelA5MWFtd0M0U0I4SWwwc2tnZDdQZkl0Q3VkNk01ZVZYcnJWV1lIcEwwSEZDV1oxSG9ycEthYUlR?oc=5",
+        "headline": "뉴욕증시, 연준 추가 인상 우려ㆍ국채금리 급등에 하락 [종합]",
+        "summary": "",
+        "source": "이투데이",
+        "published": "09/24 07:33",
+        "published_ts": 1790202780.0,
+        "tag": null,
+        "first_seen": 1790208036.8978002
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CbldYeXpkdXdfbVpoNHg1TXVRdUNrTjE4c09tVFNmYzdpblphZEIzdnhiRG53QmlqZXZZQ1FtdFYwd1FsWkM2N29Wd3B0dC02cVlqSkd1SW52a05s?oc=5",
         "headline": "뉴욕증시, 국채금리 급등에 하락⋯나스닥 1%대↓ [상보] · 시장 영향은?",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1789807586.0,
         "tag": null,
         "first_seen": 1789810230.5034125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9OQVpjV0xRMlU5ODh2bUtNdFBGT0RHelhtbUFzXzdiclMtRUgyWjduUTZYX0JJcEdadlBoVVhkRW5vQXNTNkFtSURUV09EbnFsQzFlYkJieDlsUVpmb2FwLWRKTV9FZw?oc=5",
-        "headline": "청와대, 대통령 ‘평탄화’ 발언 해명 “가격 변동 추이 설명…집값 상승 무겁게 받아들여”",
-        "summary": "",
-        "source": "KBS 뉴스",
-        "published": "09/18 18:37",
-        "published_ts": 1789724220.0,
-        "tag": null,
-        "first_seen": 1789725635.3913772
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-24 08:45:51",
+  "updated_at": "2026-09-24 09:01:02",
   "yields": [
     {
       "label": "3년",
