@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnZ5aGt1QVlNdTdhZWFXWXI3Q2RQTlhHTmlFNUplMzhiaVUxaHkzcjkyR1NhT0dNWWpMaGE0cDNSZDlFVXpuQ3MxNUVtUGZVYzliTktWVGxteU5XQnFRVkUwWVlIU1Z2TTFwdXVLbGdLQTJqU0kyd0tROWREcVRuR2Y2N0xzUDJScVF4QWhQa21kUkRyZ3Z0a3RpVQ?oc=5",
+        "headline": "What long-end crowding on the yield curve means for the Fed",
+        "summary": "",
+        "source": "americanbanker.com",
+        "published": "09/25 19:00",
+        "published_ts": 1790330400.0,
+        "tag": "Fed",
+        "first_seen": 1790332230.8860257
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3WTd0dXQ3U3gyYmZBZ05yMDA4eEpNaHFUMjFEOW9UNDhNTHF4YjhrMDhfMGd3a0FLOEdEU3dzbkh1VWJhY05ubFp2a080RXpMbFJsWlNLWEk?oc=5",
         "headline": "영란은행, 기준금리 3.75% 동결…에너지발 인상 시사",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790308243.0,
         "tag": "JGB",
         "first_seen": 1790311822.4093888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUk5TNzdkallZRDM3Ri1mb3F3Y2pUTjVsZjBnV01oOEp5WXRGRlRheU43SnVteGtJWjVFSm5kaE9XMEhGNC1nd0V4Q3lHaUhtcTA2MVNEN3dwakxmTWhLc1FING1pVWFRQzJZWXFVMTI3bG5tX0NfdjR5YWN0eDdIcW16dEdRRnphZHgtNkhkY2tYdWcxd2NKX05lNklZQQ?oc=5",
-        "headline": "Global bond sell-off intensifies, hitting housing markets",
-        "summary": "",
-        "source": "Nikkei Asia",
-        "published": "09/25 12:47",
-        "published_ts": 1790308020.0,
-        "tag": "Global",
-        "first_seen": 1790308836.4348583
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 19:15:47",
+  "updated_at": "2026-09-25 19:30:55",
   "yields": [
     {
       "label": "3년",
