@@ -332,6 +332,16 @@
         "first_seen": 1790256636.4328005
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHdKY2I4N3Q3WGNBaFlLT2FFRWl0N3ROa004S19UODV4MTZpSVo2X2VnazJtWjBaOGVzbXVZVzNHR1lNdS13TnY4UzZFbkp4dXpXcGJIZWdXTGNYV2dYc3JVd1pITXRCUjVJeUVpX0dYNnBGNTBGWUpnMlpkallBaEpoNlpMbGdBNGFIaHZZTDBWOGIzMFFqN2I3SzdRbmVsTHJraXhIbFFXbWVmTmZUQ0ZrNDM3d1JDMUhSLVRyZ1FnY1F3cTNSeE45NTUyeWJQOUE?oc=5",
+        "headline": "[뉴욕증시 7일]채권 금리·유가 상승에 하락 마감",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "09/24 09:37",
+        "published_ts": 1790210250.0,
+        "tag": null,
+        "first_seen": 1790309725.123109
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucDE5SjhQeERqNVJlcDVvTWlXM2FjU005RUEyQWhQZ080NlJIM05TZ0JvQWt4V193d1dsS2QxdlM0aV83WlB3NlJnYmtRNzRNdk9XTzk0RjdnS1BHdmk0a0NsbEw4MW9YdUdzNHFFY0k?oc=5",
         "headline": "서울채권시장은 왜 추석 연휴를 무서워하나…과거 사례 봤더니",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790200140.0,
         "tag": null,
         "first_seen": 1790200832.8348112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBITkF3QXI4a0ZuNGJTaHJ2bGplTVZkVUZZYzdIbzQ4OXY5WTYyMnlpd1h4MllpTWtZUHp6OUJvUHBuamxkWjJEb2RXMS1uNEtFTXc?oc=5",
-        "headline": "오픈텍스트, 10억 달러 채권 발행..2027년 만기 채권 조기상환",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "09/24 06:24",
-        "published_ts": 1790198645.0,
-        "tag": null,
-        "first_seen": 1790199027.9481626
       }
     ],
     "perpetual": [
@@ -552,6 +552,16 @@
         "published_ts": 1790118639.0,
         "tag": null,
         "first_seen": 1790119831.0968938
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iU3dCV2txbVgwTVAteHhiZndhNVNPV1dhSWdOMFJmTnkxRGlCYXR4N2pTM29LQU9ibXFITEhqNkZwd9IBQkFVX3lxTE9iU3dCV2txbVgwTVAteHhiZndhNVNPV1dhSWdOMFJmTnkxRGlCYXR4N2pTM29LQU9ibXFITEhqNkZwdw?oc=5",
+        "headline": "BLBI 채권자, BI Lunas, 정부는 채권자 추구를 계속한다고 주장",
+        "summary": "",
+        "source": "VOI.ID",
+        "published": "09/22 20:32",
+        "published_ts": 1790076730.0,
+        "tag": null,
+        "first_seen": 1790309725.123109
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iZm5uMl81aGxwRVlwUll1dUkxS0J6UjNZbDc3TEtDOUU1WWNwdHZOOHI0c2hsTHh0YU8yWUpCWUNFM2dRcUYwWGpqSjNnMUtTbzZ2ekdFY0pXQlR6MXhLUTdySWJmb3BfbmVZaVJTelpjSU0?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1789968254.0,
         "tag": null,
         "first_seen": 1789968667.5045502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KRXdoMlRVSklVbjZvSFNuRXZadFp4ZHFMRnlOamhneC1INTJwZjJvbkwxR21yR3U2eXdBcTJkOVFsWmN6RG1SbXRwbnppc2tJb0FiWWUzYw?oc=5",
-        "headline": "푸본현대생명 킥스 211.2%로 '쑥'…상반기 순익도 흑자전환",
-        "summary": "",
-        "source": "데일리안",
-        "published": "09/21 13:55",
-        "published_ts": 1789966500.0,
-        "tag": null,
-        "first_seen": 1789966838.8245358
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 13:01:01",
+  "updated_at": "2026-09-25 13:15:51",
   "yields": [
     {
       "label": "3년",
