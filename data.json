@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZmlaUzkzakJFWFVUZlZHbzM3bm1PcktLUGVOR3QwenIySlFrdFJkZ2VDaGpnYm1EaUJVOUp0Zm1JY1VvTnFhNlp3?oc=5",
+        "headline": "채권시장은 '경고음'인데 비트코인은 잠잠…엇갈린 변동성, 무슨 의미?",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "09/25 22:11",
+        "published_ts": 1790341860.0,
+        "tag": null,
+        "first_seen": 1790342131.038473
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zbFVXb1VFdXpudWZlbjYtLVhsTTFmUTZhOUc0SFZObC1WQVBvQWhUSWZfNUFOOFJZRTZ1eGpaM19uS1FRWlFTQzI3a1NKYXBTeUxIUGI0QmFRTTZjcEUxbko5VjR6WGtJeXdHMU0tX2o?oc=5",
         "headline": "[외환-마감] 엔화 강세·유가 하락에…8.50원↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790236080.0,
         "tag": null,
         "first_seen": 1790238629.9147305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORXpkOFFxbUZvOXgxcjhJeTVpMmhEMWhRcUdablpCUlpKRFQ1MjdqOEFYWi12VEg5WmtsOHA5NUNnTGYzOThSeTVBUU9IMDA3UU55bHUtWlBpODBIMlhiSmxnR2FqeW4wSG03YUNwWnZfMUUtS2NUNDhHcTE2Mi1xeEJSQVZrblBJU2YxeA?oc=5",
-        "headline": "(09/24) 장전 데일리 리포트 (잠깐 쉬어가는 조정, 그러나 불안한 장기채)",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "09/24 13:22",
-        "published_ts": 1790223720.0,
-        "tag": null,
-        "first_seen": 1790286322.4452782
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFAxV09WNDVjcXMxTmRJQkl6OE5HUEhsOUxFd3JfOGZqTUZjdHMzYTR2a2VMUFViRDVzem92M0NSUW92Mmg1VGFxaHlTdEhnZ1dYeGt3ek1Ba09ZSW9zMzIyUXg3OEZkdw?oc=5",
+        "headline": "Bond Selloff Lifts Yields as AI and Energy Policy Reshape Global Markets",
+        "summary": "",
+        "source": "Межа. Новини України.",
+        "published": "09/25 21:52",
+        "published_ts": 1790340739.0,
+        "tag": "Global",
+        "first_seen": 1790342131.038473
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlk4VE9EbXhCOU1GbW11REstNTNSV1M5VENJMHBlV2QxOVlkQ0dHMDljZTI2QXpYRlF2ZzBabVZQRU40LWlqTk1MWHlORHQ2WHlEXzhVMUI0VlBoMVNqcHVIWDQxeG1RM1pnS0JPR29tWGdIWXhFZS1DRDYxRUhuNw?oc=5",
         "headline": "Kevin Warsh Fed reform: rate hike done, balance sheet cuts stalled",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790313300.0,
         "tag": "JGB",
         "first_seen": 1790314230.5049055
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeW9TWGhCQnRMOHZpc05GMGJVXzJuX3ExUUw1bkdRSm5MQ0ZTYnBDWFRPc2tfd2xKekpWTktOUW1qYlNpVHZYdW5OZGhkeFFYSkU2ZFJSTFZvc0hWcFNRVFdtblFKRlJDQlo4MHk1OEVfQWVDUjdyajdYOXcwb3VGeFh5Um85emxKT1ZV?oc=5",
-        "headline": "Japanese bank stocks rise tracking yield surge, rate hike bets",
-        "summary": "",
-        "source": "Yahoo Finance Singapore",
-        "published": "09/25 14:14",
-        "published_ts": 1790313246.0,
-        "tag": "JGB",
-        "first_seen": 1790318724.3343654
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 22:08:44",
+  "updated_at": "2026-09-25 22:15:56",
   "yields": [
     {
       "label": "3년",
