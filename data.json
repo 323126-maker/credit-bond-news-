@@ -1670,6 +1670,16 @@
         "first_seen": 1790315121.5421567
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5HTHlRNTlzZTdUX0RMd3U1VExLQ1VfeEpVQWdQTHlmZnlYM1pLUFdwYUFnS2M0TXUtTWdraG52TnNCalQxY0NuM01HSmhxUW8wVDBqZFJmSE92dw?oc=5",
+        "headline": "Japan 10-yr gov't bond yield climbs to 3.115%, highest since August 1996",
+        "summary": "",
+        "source": "Japan Wire by Kyodo News",
+        "published": "09/25 14:43",
+        "published_ts": 1790315037.0,
+        "tag": "JGB",
+        "first_seen": 1790320524.7153566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SlNucTV5Tmw1WXFVeTVUemFoZ19YazhFWFNnV0Vnb1lyWC1JWXdhbENPbXhPOVpWdDNvZ2c3N1JBTFVCeDFJR18xakhSeFJUYzhrSnEzMlpiUWlNMmZmYlhvYjRqRnVTbkxBUGZB?oc=5",
         "headline": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790293685.0,
         "tag": "JGB",
         "first_seen": 1790315121.5421567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByLUJveW9Yd1JJdHp0U1pkUXk1VDhFSEdaN0gxbnR1Q25mbHFhQ1ZOZzVqTTN4c2JLd2hHVHY4NURpSDZKaDN3bGRQa0FrTzJwSW9kZVZ1TQ?oc=5",
-        "headline": "[국제금융 브리핑] 미국 30년물 국채금리 5.50% 터치...2004년 이후 최고",
-        "summary": "",
-        "source": "토큰포스트",
-        "published": "09/25 08:31",
-        "published_ts": 1790292660.0,
-        "tag": "JGB",
-        "first_seen": 1790301635.937713
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 16:00:57",
+  "updated_at": "2026-09-25 16:15:49",
   "yields": [
     {
       "label": "3년",
