@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53NW9sSFRDcm5KQzVVMUdWa25VcDJKSW9yTmREMTkxNGhHbDV3a1g0VENpVmQ2OHpDWDZUTDJqdHUxRl81N0k0TldQaWdfMnlFNnVmWFJOa1BEMGdCZ0E?oc=5",
+        "headline": "버핏의 퇴임과 맞물린 엄중 경고 \"美 재정적자, 오래 못 버틴다\"",
+        "summary": "",
+        "source": "포커스온경제",
+        "published": "09/25 15:56",
+        "published_ts": 1790319383.0,
+        "tag": "Strategist",
+        "first_seen": 1790319634.5590408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00ZzNNSGNpbElybWQ3eEtHLURCTzB1QWFrQXJKZEhCQU45dGpJYm50V3hKT3REVlRrWHJoQUlMZGNKTFVtWlJ3SlgySG1WV3Bja0ZEY21ZT1dRSDJ1TFgzY3g0OWlSM3c?oc=5",
         "headline": "Japan’s Rising Bond Yields Tempt Investors Home, but Yen Gains Remain Uncertain",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790292660.0,
         "tag": "JGB",
         "first_seen": 1790301635.937713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5TYzlscmNEb3lCWF9uM2VTRGxaMGxCdGQ0Vmh6SVpVWmo0TjdCendzODFkT0hiYmZpQ25qdHA4NGdaYTFpZ2E4TVJEZ1dRMmdlOFN0Qlo2N2J1SWNVRlR0X0tfTC14ZTh2dXpWempGbXJRQQ?oc=5",
-        "headline": "미 국채 30년물 금리 5.501%…글로벌 장기금리 동반 상승",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "09/25 07:44",
-        "published_ts": 1790289860.0,
-        "tag": "JGB",
-        "first_seen": 1790290835.1380742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 15:45:47",
+  "updated_at": "2026-09-25 16:00:57",
   "yields": [
     {
       "label": "3년",
