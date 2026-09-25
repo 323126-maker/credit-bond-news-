@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8xc0NUdmpoNXMxTDVqVi1rSTJkaTlHN0dLTUxOdG1mVTVZSHJ4QjBWb0p3d3FZNWctQ2thU0dwM1FldFkzMElBN21SNnljUjZlSHRwZHhSN25rWFk4azNkRkJFeFhzMDdKVWQ1ZENxM0d6Z2M4eVdn?oc=5",
+        "headline": "Fund selectors turn to active fixed income",
+        "summary": "",
+        "source": "Funds Europe",
+        "published": "09/25 17:55",
+        "published_ts": 1790326513.0,
+        "tag": "Global",
+        "first_seen": 1790326833.6950698
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOektmRjVWbDRodG8xWXhILTEwRGdWN0JERGtTdGVlYm03LU9KcnBNM1VEQ0M4azlrM3BRc2NYdzVQLWJKS1BsTU96ZGpvb2tnRk9XTDJ2cmxNLXN0c0lfNnVRa2VMQ3pOdFlWQnRvN0ZiUGJnUEZyU1d0YTcxM0VwT2dxZms5TjlWSWVydDFvTFpOOVpNOVVUekZ2NTk5OG5Zc2pVU1lfWHpSUQ?oc=5",
         "headline": "Japan's 10-year government bond yield hits 30-year high",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790302740.0,
         "tag": "JGB",
         "first_seen": 1790304321.7488143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSXl3a0V4VjdBS1ZlOENTNmpGcmdEa1BNaDh3N21xanZ2Q1JYRGEwbV9QTGdMN21oV1N5Ukw3SEhEa1ZLUENNNTFuVWV3cjQ1RFR2cWtCdlJBNVp2bDBsZTExZWYzVW44eGtJMHFiUkVyOG9xU3c3Z2Y5THFDWDNLMA?oc=5",
-        "headline": "Asian stocks weather bond storm, oil retreats slightly",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/25 11:19",
-        "published_ts": 1790302740.0,
-        "tag": "JGB",
-        "first_seen": 1790303432.702059
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 17:45:46",
+  "updated_at": "2026-09-25 18:00:57",
   "yields": [
     {
       "label": "3년",
