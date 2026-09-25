@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FNGZZMGVoc2hWQ3NuVXB1V0JnRkl3ZXFBZXgyZ3lhVzFsQW9tV18zMmdzNXV4U0F4NEZDcDAwdnBBZGJQRnJTOGJ2ZVdjUmdyZ2VWUDdFLWY3WncyeXNWRGxibUdHdmxtd3c?oc=5",
+        "headline": "[마켓뷰] 美 국채 5% 시대의 경고… 韓 경제, '스텔스 긴축' 덫에 갇히나",
+        "summary": "",
+        "source": "moneystorm.kr",
+        "published": "09/25 19:46",
+        "published_ts": 1790333180.0,
+        "tag": null,
+        "first_seen": 1790338522.8016546
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15U2NRcG96XzQxenNGc2ZmMFpmOHFTSVhKZFYtaHFpN001bGZTTEhrNjE2Mjh4Z2RRb3ZpTGpidmphbjlZOUdLbktNZjlaekpBOTVlQmdoeEtqYVQ0Y1E?oc=5",
         "headline": "미 30년물 국채 금리 22년 만에 최고...국채 매도세 확산",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789978320.0,
         "tag": null,
         "first_seen": 1790206229.3122485
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wR3ZyNllZQ3BDUzUzX3lzV2owM0pxVnd2Zm5rcWg1eU9fMURNWmpoeW5vUXhYcWNQWjFRWXlYeXFQczdObVd2TEFJNU41cGdKei1vM081YVBVd9IBWEFVX3lxTE9fVV9STTZzaENrUGdzMmlWcVFFTnJWaGYwcXg4UWhKXzFJcmJFVmhHVEp0S3hTeHk2bk9YbzVxVUIydzZVX25DNXhPUk9IcWpKLVRXaXJWanE?oc=5",
-        "headline": "2%대 은행채 6조 내년 만기…은행권 저금리 청구서 온다",
-        "summary": "",
-        "source": "아주경제",
-        "published": "09/21 16:04",
-        "published_ts": 1789974276.0,
-        "tag": null,
-        "first_seen": 1789974924.4435496
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 21:01:09",
+  "updated_at": "2026-09-25 21:15:48",
   "yields": [
     {
       "label": "3년",
