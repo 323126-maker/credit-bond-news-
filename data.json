@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zSEMxNl9lUkNydzh0S3YyZjBnX1VwdDE5dUtGNHczQ2l4WWdaa1kzd2RFdG8tSU96YzR5RXg2YTBudGVvNHlNLXRicEdRYy1CMTRrMGRVaEszWWEwNm9rOTZZUlBLQTFZNGgwdFMxUnRTVy1rdVhSdkE1ZGdFNlE?oc=5",
+        "headline": "새로운 물결이 세계 채권 시장을 휩쓸고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/25 14:10",
+        "published_ts": 1790313042.0,
+        "tag": null,
+        "first_seen": 1790315121.5421567
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUzRQNTJyckVyWnB0Szh4YmdKUWU4UHRvNThOUzduVnAwelRheFhkLXozOEtELU9waVB4TGZPTWJWWlZDNmFWRDRKTk1HVEM3M0hnLW1zdkRza1BESjhjWkxTSC1lczFDNDloeXRuQTBJcUpZenNoSmxnUklrUEFpWk9idG04d2Y1a3otMW41WQ?oc=5",
         "headline": "[쪼개지는 LH] 부실자산 나눠도 ‘AAA’…한전 자회사와 다른 이유 : 네이버 블로그",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790200200.0,
         "tag": null,
         "first_seen": 1790200832.8348112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53R1ctNFVYT3RHOFM2RmVxdDhKTEszS2gwaER6ZE55ZUh0ZDBpVlNkd0hJWkRxZnY3bU9wZDVSNTV6RlcxMnQ0SEVqbUVVRUpDWVNnbjgwMmxHd1ZfXzZBd2VTYkgxVUNEUHNEa1J3aVFFQQ?oc=5",
-        "headline": "[뉴욕마켓워치] '악재 쓰나미' 美 국채시장…주식ㆍ채권↓달러↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/24 06:49",
-        "published_ts": 1790200165.0,
-        "tag": null,
-        "first_seen": 1790246724.2372227
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,46 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB4U3h1a1Z1MXdFY1FJeUExSlVxM2hValZFUnNyWXZXSTdadXF2T0hSblQ2N0EtUzdud0w0WVR6dHFNRTBhc1JXZVJCbnZGdVlRdl84Z0I3a1N6d0tMMU1VWEN1V3B1VXRRTWhhZlhCYWtpdmRhbFNSYQ?oc=5",
+        "headline": "Hang Lung places faith in renminbi",
+        "summary": "",
+        "source": "International Financing Review",
+        "published": "09/25 14:44",
+        "published_ts": 1790315082.0,
+        "tag": "Strategist",
+        "first_seen": 1790315121.5421567
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE95SlNucTV5Tmw1WXFVeTVUemFoZ19YazhFWFNnV0Vnb1lyWC1JWXdhbENPbXhPOVpWdDNvZ2c3N1JBTFVCeDFJR18xakhSeFJUYzhrSnEzMlpiUWlNMmZmYlhvYjRqRnVTbkxBUGZB?oc=5",
+        "headline": "두 달 새 260억달러 불어난 서학개미 美주식…2000억달러 다시 눈앞",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "09/25 14:42",
+        "published_ts": 1790314971.0,
+        "tag": "JGB",
+        "first_seen": 1790315121.5421567
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEF6VWtyME5McDVSRjhHVkY2SnNVTTROYl9FX2d3X2JyME5lOWVTdk5iSDRSNmtfN1dnd0d0R2NVUURLR2VMczBMLXdTNFJSLS01dVZxZ0ZPbC1LbXdMWExzbDBQc0pBV0pyR2VFMldLQkI1SndCX3FDc1UyX1B6dXdGLW0?oc=5",
+        "headline": "Japanese government bond yields hit new high as global sell-off continues",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "09/25 14:41",
+        "published_ts": 1790314901.0,
+        "tag": "JGB",
+        "first_seen": 1790315121.5421567
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQUJPSkMya0lXNldlTWFJSnlJbHU0elZWdDVzNjh1U0RXVkZuUU5qeEt2UGo2V2NuZ2gyS3BSSjljelZReURiVVBuLU95b0UyU1pOSTQtSjdmbTExMzJod2ktOU53TXlZSy1mR2VhcERaTWI4S1Ric1QxOEhoSU5xZHRDaUNrX0QxVlg2MEdNUWxHZEZVZFIydFRRLWM?oc=5",
+        "headline": "Ghalibaf slams US economy as Treasury yields hit record high",
+        "summary": "",
+        "source": "Mehr News Agency",
+        "published": "09/25 14:35",
+        "published_ts": 1790314500.0,
+        "tag": "Strategist",
+        "first_seen": 1790315121.5421567
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWU0VWxIU1hscjduZkxLcXd5dmEwYndzM2JtaG5oNDZBbWN2ODlyUUFzMEplY0JhZEp2M0Vzcldja05qblRWaDl3WGc5QjZkSzRyM0Vyb3VpbDd4aVNmNnIxQ01KVXJrREhaREFCS0ZKeC1YX0JDUTVrMHpzR012dGYxTU0?oc=5",
         "headline": "Japan’s two-year bond yield rises",
         "summary": "",
@@ -1678,6 +1718,16 @@
         "published_ts": 1790310600.0,
         "tag": "Global",
         "first_seen": 1790311522.170991
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNLW4yMEF0a3U0dHp3STdDNWVFUmxIbW1qODI4S2lVYjA5QU83QWNRT3hUR3JVV1Utc0ltbk5wMy1NV2xZT0h3b3ByRjZkbW9EWW9nbktxbGQwbm5yQzB0bUxJNGp1em5zTGFJTnRmbGVISk1UNkd3QlFhZFMyOFpGQTB2RnJocjRoemtycWJkYTZHY08xdXR2dW5EYVJxY18tNmtEUmNuTHlzUQ?oc=5",
+        "headline": "일본 국채 수익률이 급등하면서 '역수익률 차익거래' 기회가 생겨날까?",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/25 13:04",
+        "published_ts": 1790309087.0,
+        "tag": "JGB",
+        "first_seen": 1790315121.5421567
       },
       {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1kV2JSb2x3QUI2YnF6ZUtGVHFUam9leDNNWVRWQ2U4QXV6WWpDSERlMms4X1VTRmlKT0duXzkwRnplN3h1XzVOZjNuQ0RfaU53YjRJZzJWSG9qZTZwS2E5LXB2MlRDOFI4VjBvWWZfRmlQT3ZhdjZj0gF3QVVfeXFMTWRXYlJvbHdBQjZicXplS0ZUcVRqb2V4M01ZVFZDZThBdXpZakNIRGUyazhfVVNGaUpPR25fOTBGemU3eHVfNU5mM25DRF9pTndiNElnMlZIb2plNnBLYTktcHYyVEM4UjhWMG9ZZl9GaVBPdmF2NmM?oc=5",
@@ -1870,6 +1920,16 @@
         "first_seen": 1790298037.1268492
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQLTE5dkNuY3c1US04QURhb01HMTZuRGdHS1I3cWpJb2p0MGN1RzFUVHk1ZDJCTEVGU09UVGFxMW02NW9OTHZFY1pLR3FCUGVIZ1diVXNZZ0V3al9ITUh5OThtdGdGcnRCU0M4UjYybzFXM0MyQ0UwVGJ3R3JTd2FMbS1kaElyXzFCY2xKd2d0U084OGlILUoxOERUQkhsSXY1RmhkUzVROW0zZGxyMXdQZU1nMXNkYXpWZFdyM0lwdURsZjNGMTNFaA?oc=5",
+        "headline": "US 30-year Treasury yield nears 5.5%, highest since 2004, as global bond rout deepens",
+        "summary": "",
+        "source": "investingLive",
+        "published": "09/25 08:48",
+        "published_ts": 1790293685.0,
+        "tag": "JGB",
+        "first_seen": 1790315121.5421567
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFByLUJveW9Yd1JJdHp0U1pkUXk1VDhFSEdaN0gxbnR1Q25mbHFhQ1ZOZzVqTTN4c2JLd2hHVHY4NURpSDZKaDN3bGRQa0FrTzJwSW9kZVZ1TQ?oc=5",
         "headline": "[국제금융 브리핑] 미국 30년물 국채금리 5.50% 터치...2004년 이후 최고",
         "summary": "",
@@ -1948,66 +2008,6 @@
         "published_ts": 1790280900.0,
         "tag": "Fed",
         "first_seen": 1790283640.6837757
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOeWZnTlJxVHM3a0NBOVhpcjJTd2RVTGxVV29FVi11YmY2M2ViZ3hJNFJSV0FaQ01VRDdWZGZ0UjYydEppS2gtakcyckxRbml4Z3BvaWI2MmdkRmlQUGVoa3ZrNllHQzYzN2xaRlNMak9MNllBaXk5b05kaVZMQlVUUTU0akQ3TkxRNzdpakx1NHhvNER2S0NCZkVGZXY?oc=5",
-        "headline": "U.S. Treasury Yield Hits 22-Year High, Bitcoin Slips Near $84,300",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "09/25 04:53",
-        "published_ts": 1790279623.0,
-        "tag": "Fed",
-        "first_seen": 1790286322.4452782
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOeWtiTUtwVW14WWdKM0NQVXlWTDZfOVFJN2RieER5bkxHQnZ3Rk5zb1NPMWN3RjFfcHBIRlpnVDZleHFRNkJwV2lXVXlXWVMxOVV6MEgtS3JrMDB4Y3p4SWpLUnE4SWV3TW5rdnd1TFRWUXZkeTYzSmR2NmZ0cklaTDN5S3ZjUV9iaVdzVGdn?oc=5",
-        "headline": "The $489T reason to stop worrying about U.S. debt (US10Y:)",
-        "summary": "",
-        "source": "seekingalpha.com",
-        "published": "09/25 04:49",
-        "published_ts": 1790279374.0,
-        "tag": "Strategist",
-        "first_seen": 1790285430.344971
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPVmFndDFsaUlxaHo4alBhRE9uLTVtLS1pOWlTRUVJN3NxM040OEdLMHpNNmVJYnlKZ0IyZXlCdFBJMkluY0R4RDVKbWM4Y0ZXZHkydjlXd2xHcTBOVTlIMHdWWTFKWndwT2NWLUNfRmZlbVJjazFlN2ZsMzYtMmpXd1dmM2JQZnRpQ3c5RGVUVFJNTmpDallmbmxheGgyLWh5VzN1OTA2WExtN3M2MGpJMTJsNG5UVXRHMkpUTWFCZUxNcDJicnB2NF9n?oc=5",
-        "headline": "Treasury announces second oversized bond buyback as it tries to put a lid on yields",
-        "summary": "",
-        "source": "FXStreet",
-        "published": "09/25 04:13",
-        "published_ts": 1790277236.0,
-        "tag": "Strategist",
-        "first_seen": 1790284523.583959
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0J1NU41UHB0Nm1wcFVIRWoyTUd3VGZkR2pOdVVnczFxRUdkdlNYeVMzV3pMajBQRGV6emNtZjljbnhKUzh4a2w3WEdQYmxZZVVsZERiU0laMWlKQ2o3bnNLT0x2RGVWTmpENzlTV0VCRDlDaUxPd0NIWUlESGp5cFc3X0liY3pMeVNmM01qakRxYUhaZENKcmZMUEZsR3F3SFhpWEd2VQ?oc=5",
-        "headline": "DLY: Bond Market Turmoil And An Unsustainable Distribution Create Risks (NYSE:DLY)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/25 04:07",
-        "published_ts": 1790276829.0,
-        "tag": "Global",
-        "first_seen": 1790277322.509179
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUlZfVzMzVFJFLVFCLXBWeVNVNmVFMG1kODA1NkpVMFJvQWVUeWJOWjZ2WmNERzVpSm02ZnVwZFROdUlyRTFpSUVlVS1udzdtWEpmR01PRG5xMzlRVzQwS2Z1aUlPamVpT2ZjX3JTaUJXZTJ5X1RJc3I5VUhBNENzbTk3TGxKQVV3NEl6T01EemZsNk9kd05Uc2NDbGt6S1NYczRuRFBsbHpCTXBOSW00bVJscjUwZXdxWEc3NjljclFiVTY5SUN0MjZZOFNMcVFwUndrYWVPZkUtdzhvLWlZWElhWXZTY1ppYU1ENw?oc=5",
-        "headline": "Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers",
-        "summary": "",
-        "source": "The National Desk",
-        "published": "09/25 03:56",
-        "published_ts": 1790276164.0,
-        "tag": "Fed",
-        "first_seen": 1790277322.509179
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR21RNks3NUh3SlB3bUU2VEs1ZHlfSUJLcGI2ZlE2MVB3ZjF3ci1vMEhuRWE4NDlmcnF2QmNsUGx1SEV0UWNERnBza05EMVEwYzBnQzd4Y3FkRGhLYmRERmVZRy13UE9ONmU1b2s1UmV5azQyRHpCSERKZzNpR1dRc0pSbWpFa0x0SkJqdHFkNy1TaXg0M3NvaVZWdDZ0bFhpTnM1OGdEdTZPU3RWTy1VVl85NmtrNVNwbHl30gHAAUFVX3lxTFBoeDluN1VzWVExYWFOTXVRcWxOV3M2ZzV6TmpseEo4bnRIUjlVN3ZhN09wbWpfM2EwOGxRWFBwUlN4WnB4WDFTNmpFdHQ3ajRfWDVwR1YyRDNYejF5aXVFXzY1eFJnYXE1eGViOFdjUUdhaVdSdWtRblVSLU1nX1lZNTlLT2RQRXNNWjhHVURlSGZzTGFPVHZjM1JhZW9QNi1QVjYzdjFzM0tUNHlPb0g1LUdMNzdUYnFwREJYWElzTw?oc=5",
-        "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
-        "summary": "",
-        "source": "CNBC",
-        "published": "09/25 03:30",
-        "published_ts": 1790274635.0,
-        "tag": "Fed",
-        "first_seen": 1790276436.4442143
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 14:31:10",
+  "updated_at": "2026-09-25 14:45:49",
   "yields": [
     {
       "label": "3년",
