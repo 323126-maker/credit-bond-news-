@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQOWU0VWxIU1hscjduZkxLcXd5dmEwYndzM2JtaG5oNDZBbWN2ODlyUUFzMEplY0JhZEp2M0Vzcldja05qblRWaDl3WGc5QjZkSzRyM0Vyb3VpbDd4aVNmNnIxQ01KVXJrREhaREFCS0ZKeC1YX0JDUTVrMHpzR012dGYxTU0?oc=5",
+        "headline": "Japan’s two-year bond yield rises",
+        "summary": "",
+        "source": "Breakingthenews.net",
+        "published": "09/25 14:15",
+        "published_ts": 1790313300.0,
+        "tag": "JGB",
+        "first_seen": 1790314230.5049055
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9aa042ekU0S1JMWTJxNDdEWkVsbC1qVzFISFh3VmRfY0FtRVRlYkszbmJKMnJhRDVtUkZjWXpkcHo3bkEwTGc2bUZOMmNsQ0M4UmNQSjdfRHo?oc=5",
         "headline": "美 30년물 국채금리 22년 만에 최고… ‘7% 주담대’로 번진 채권시장 충격",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790274635.0,
         "tag": "Fed",
         "first_seen": 1790276436.4442143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUWgtOEltTm9XZm1PSzJVdi1wbHpFc0duUU5SbE51LXIyVktiaFhTTUg5UTM0Z0ZfSHVWUVNobktRN1VxMjhfYjFTbU1aMkNCRXlzZVZlazd2OTgyQ1ZmQ2VjOXpqaWwwMV82TUVWbGZrdi1LNWFzbjZBSnh6ZEZMdVFnWFdPSTVoYnZDTlktSGhjaEJkQm94M3czMElSX2w1UENR?oc=5",
-        "headline": "Qalibaf takes swipe at US economic woes as Treasury yields hit 10-year highs",
-        "summary": "",
-        "source": "PressTV",
-        "published": "09/25 03:12",
-        "published_ts": 1790273520.0,
-        "tag": "Strategist",
-        "first_seen": 1790313324.4915955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 14:15:46",
+  "updated_at": "2026-09-25 14:31:10",
   "yields": [
     {
       "label": "3년",
