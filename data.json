@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTElqc0dyOUFXRkpGdGYyZi1namVPQ0tyd2wzM3Q5LVVOZVlqdTZ1STE2X1ViR0dldndEOXVsSTVPdEhrd0NpaUZtdGc1cUg0ZUMyRFBQdmhOY3ZTTVZBcVVwS2hBNFE2TTNhamYtOGpWaWlaY3pyTU9YdWlfUHlYSXFxQjhVTS12Z2RlY2ZkRnJJblFmU3dQenozTm1BVGc?oc=5",
+        "headline": "유가 하락·실적 호조에 유럽 증시 반등, 채권 매도세 상쇄",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "09/25 22:23",
+        "published_ts": 1790342611.0,
+        "tag": null,
+        "first_seen": 1790345723.9808588
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE53ZmlaUzkzakJFWFVUZlZHbzM3bm1PcktLUGVOR3QwenIySlFrdFJkZ2VDaGpnYm1EaUJVOUp0Zm1JY1VvTnFhNlp3?oc=5",
         "headline": "채권시장은 '경고음'인데 비트코인은 잠잠…엇갈린 변동성, 무슨 의미?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790240170.0,
         "tag": null,
         "first_seen": 1790283640.6837757
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE11cDJXd01ldEJ4NTR4bGZjcjJsa0c1eXZ6U1JvNmRJbTN5RmlxblM0NEE3djZPeHIzN3U4S2NDalRhbGFCQkpGcEZRVDNyVWlsVHFXUHFjdXk4RjF6ZVNQdGc1cXRTQ0ZDUlE?oc=5",
-        "headline": "트럼프-시진핑 정상회담 임박, 채권시장 급락 주목",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/24 16:48",
-        "published_ts": 1790236080.0,
-        "tag": null,
-        "first_seen": 1790238629.9147305
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 23:01:03",
+  "updated_at": "2026-09-25 23:15:53",
   "yields": [
     {
       "label": "3년",
