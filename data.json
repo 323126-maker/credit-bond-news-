@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lb2FmTmdPRmo4SnR6RW1qb05IUllXU2JoeDRmTC1hRlVUR1B4SEZ0WGktOVp4TW5VcGlCQ1R2dFdHZ3kwYkh2MElTYS01Wkx0RWJWV016MUhoXzBFd1JxZ2lEd0h5NWxBRnBMREoyci0xQmRK?oc=5",
+        "headline": "JP모건, KPN 주식 등급 상향 조정…수익 전망 개선",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/25 16:47",
+        "published_ts": 1790322420.0,
+        "tag": null,
+        "first_seen": 1790323235.1055112
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BaFNrTUZLeENYUFdMLXpwdkViNFYxY3NGWHRKbGdYWFdPYWUtOGQ1YlUxRGlfQUlBRzM5aHFRdTBtcDViMndTZ0piNjRoOTdYMjRVT1M2SHlDQ2dYeEdTOEJSdE9ZMEtraXFXOWpWR21DLXFB?oc=5",
+        "headline": "HSBC, BP 주식 등급 상향 조정: 부채 감축 전망 개선",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/25 16:36",
+        "published_ts": 1790321760.0,
+        "tag": null,
+        "first_seen": 1790323235.1055112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9iVV9rVHZ6Nk9OWGhtbVA5ZHBxZ3ZleXA2OGFOWFhFcTJScFF3ZlRZeTl6eldKZGlXRkp2VC04NFRTRllsdHZFcmxKY21BSlJ5OHJWRjMzRmFtSHJNazQ5c1ZVTzh6SG9xVHc?oc=5",
         "headline": "美 국채 10년물 5% 위협…가계 이자·원화·증시까지 ‘연쇄 압박’",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790212500.0,
         "tag": null,
         "first_seen": 1790256636.4328005
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdHdKY2I4N3Q3WGNBaFlLT2FFRWl0N3ROa004S19UODV4MTZpSVo2X2VnazJtWjBaOGVzbXVZVzNHR1lNdS13TnY4UzZFbkp4dXpXcGJIZWdXTGNYV2dYc3JVd1pITXRCUjVJeUVpX0dYNnBGNTBGWUpnMlpkallBaEpoNlpMbGdBNGFIaHZZTDBWOGIzMFFqN2I3SzdRbmVsTHJraXhIbFFXbWVmTmZUQ0ZrNDM3d1JDMUhSLVRyZ1FnY1F3cTNSeE45NTUyeWJQOUE?oc=5",
-        "headline": "[뉴욕증시 7일]채권 금리·유가 상승에 하락 마감",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "09/24 09:37",
-        "published_ts": 1790210250.0,
-        "tag": null,
-        "first_seen": 1790309725.123109
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ucDE5SjhQeERqNVJlcDVvTWlXM2FjU005RUEyQWhQZ080NlJIM05TZ0JvQWt4V193d1dsS2QxdlM0aV83WlB3NlJnYmtRNzRNdk9XTzk0RjdnS1BHdmk0a0NsbEw4MW9YdUdzNHFFY0k?oc=5",
-        "headline": "서울채권시장은 왜 추석 연휴를 무서워하나…과거 사례 봤더니",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/24 09:01",
-        "published_ts": 1790208061.0,
-        "tag": null,
-        "first_seen": 1790253923.9587224
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQU1uOHNfOEg2Q0oxZDAycnVtQTJZb0N0bkc3MmRuYXNGSHRFNHE2bnoxa3VqN1ZiUEJ1aU9OOXVFOHFtamlxY0YyOFFDeEtYLTE1MWhRdFRjV2Q2WEs3SE1NeDlpMWlvWDZfeXJOVUFYbFR5UlNBV0psQmpUaXRSUk5zWTEzLVpla1UxclctZEViRDlCSEh0ejNB?oc=5",
+        "headline": "U.S. Bond Market Sends Mixed Signals, Fed Faces Policy Dilemma",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "09/25 16:44",
+        "published_ts": 1790322281.0,
+        "tag": "Fed",
+        "first_seen": 1790323235.1055112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jOVZNWUFjc2F4RjFodWVKWnNoUHVwbmtxWDBGM0w1Y1BodjBULWMwRXV4X0ZnbVpLTXdGZmZfVXhTT3RONE9MckFSYzdhRkVt?oc=5",
         "headline": "Market discipline and AI dev't support global economic resilience - Roubini Macro Associates",
         "summary": "",
@@ -1850,6 +1860,16 @@
         "first_seen": 1790311822.4093888
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORDQ0cmRtOXRUY1BOem1nS0hNLVFVMGpuNEdhdGxQMFRzXzExNmtKTHBMMTFtY0RDOWY1WkdCTFBvSHU4cV95T3VDSWJ3TVIzcHhfUE9kZE5rWGlWUjZ0NVhiZ2U1S21oVzMxaFVCWUJzU2kwX1BtQVlPMFlQQmprUUwwSFlNRXFhRERwSzIxN04?oc=5",
+        "headline": "Fidelity Corporate Bond ETF Q2 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/25 13:30",
+        "published_ts": 1790310600.0,
+        "tag": "Global",
+        "first_seen": 1790323235.1055112
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOTm1YaUlpd3NGTk1GVlNMbXZEdGlRQlV2aDhwbEoybDB4S1pRU0RqMldqX1FxOXROSUdwQm9feFZoeXlMMEM2YTJ0WklwZVllemh3UnRhdHQwcjAzNnV2ZXk2b2xsazZodGlWcnZyVjdCMng3Vm1mQmx3dG5BQ0NSb3piVDNnc0dRMHhKSnhxT1Nsc042Q0EwMHFiamdiLVU?oc=5",
         "headline": "Franklin Intermediate Fixed Income SMA Q2 2026 Commentary",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790300160.0,
         "tag": "Strategist",
         "first_seen": 1790300720.7939873
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSERSeFJUcWtKZ1B4RlFFdXJoWm1COTBvRVJvS1ZVUFZNV2l6REZnblVIN2RVZUpycFkzWW9GLURsVjlxdnZtYXV0ZXhZNUFYMF9aSnZfbmtmQUo0WVF0Y1lqaENaNVFaTi0yVXI2cnhUV0RXTTNSSmNMWTNHV1EtVUozNmYySDJzdTh3UUNxdDZtMjQw?oc=5",
-        "headline": "Oil Surge Sends 30-Year US Bond Yields to Highest Level Since 2004",
-        "summary": "",
-        "source": "globalbankingandfinance.com",
-        "published": "09/25 10:20",
-        "published_ts": 1790299246.0,
-        "tag": "Fed",
-        "first_seen": 1790301635.937713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVXg0NVE2NmwtN1QyWi1NaThrdW81MDRhaGZ1UzhrSUQ3T05aV19tTzc5OGFGQ2YtcWlPekRneU5NRmgxZVhhS3BNSnNtZ3FwMm1zRVFTM25nRW5DVnZRUjN1ZnpNMHd1ZzZaU3NrcEpZSG0xQWJ1a3Zjb2tTeWp1SmJmWGkwa0Y3OHBWWWE0MkxMVFdaZ1hEVQ?oc=5",
-        "headline": "JGB Yields Rise After Sharp Gains in U.S. Treasury Yields",
-        "summary": "",
-        "source": "WSJ",
-        "published": "09/25 10:19",
-        "published_ts": 1790299140.0,
-        "tag": "JGB",
-        "first_seen": 1790311822.4093888
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 16:45:44",
+  "updated_at": "2026-09-25 17:01:01",
   "yields": [
     {
       "label": "3년",
