@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0tZHppXzVJOHBhY1Vmb09sVEZnMDFQQVNHSUtxY3NnWVU3THF5NGg5SUxSbE12ejd0OWU3bWMyazhLS0RJbzk1R1dPbDJUSnAtYXlpbEhfTWVNa194LU5sdFB0cU5mb1J0bkg5dFF2MmdseVdjTGc?oc=5",
+        "headline": "Former Lehman Trader Warns: Bond Yields Surging Past 7% Could Trigger a Repeat of 1987's Black Monday",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/25 10:36",
+        "published_ts": 1790300160.0,
+        "tag": "Strategist",
+        "first_seen": 1790300720.7939873
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzNIbm53SDlXdzQtTEtIMTBQVmh3NkJLNjRxXzl5ZHB5RWs5MWFqVFE2Qk1xQlFXS0Q4MWlETkFxclFjeFJIRk5HcXNOQ0dJNnN3U0hOZENtUzY0bWlKSGVFSTJOSUwwbEVpMWozOEZRNmQxdnRqci1OSEY3RGVJaWlsRWhpNGJCd1I3OVR0Y3VtQzQ?oc=5",
         "headline": "Franklin Income SMA Portfolio Q2 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790257525.0,
         "tag": "JGB",
         "first_seen": 1790259323.8618093
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQjUwbnQ4WWRaalFRSFpjTFdYdHlRd1Vvb3FMak5qdzFQZHUtekpNVVBvdERjRnlmd1oxcWVORUNuNGthb2dLekEwQ0VjbWRNeUlheExqZWtqRG54UVR3TFBsZHdkeUU2N2dzeF9EMXplS0hHQy1RQVExU1dldHF0c0taZU9nN0o4c0lzckw1dEVxVnpVZnVhMjQyNDVDTkxqbE5VT3kwS0dzZHFNVUVtUA?oc=5",
-        "headline": "Investors Got Used To 5% Treasury Yields. Now They’re Starting To Worry About 6%",
-        "summary": "",
-        "source": "thewealthadvisor.com",
-        "published": "09/24 22:43",
-        "published_ts": 1790257427.0,
-        "tag": "Strategist",
-        "first_seen": 1790286322.4452782
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 10:30:59",
+  "updated_at": "2026-09-25 10:45:46",
   "yields": [
     {
       "label": "3년",
