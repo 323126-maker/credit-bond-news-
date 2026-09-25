@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjlHcHAySmYwMkY5ZkF0aW9UU0hyUThkWTlNTWFIVVBEWTRPdFZFM1VnWjVsTlR0dUhEZXB6MkpSdzRxYTNsSjdCQ1B2d05oM1BsR0lZNUl3X0UzT3JDTjBPTlR4RDI5bkxaWTBDQ3A1NjllbjUwMEdvem1FTmpneGVKOVlVeGE0M042RFdkbGxwVnZTVmRHYkJOQQ?oc=5",
+        "headline": "Fidelity Investment Grade Bond Fund Q2 2026 Commentary (FBNDX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/26 02:25",
+        "published_ts": 1790357100.0,
+        "tag": "Global",
+        "first_seen": 1790360121.9867544
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSTBfeC1faENFVWg0T1dXbnFoLXJzSGdnTkVGTTdJeEJwT19IeXc5R05QT2c1bEZ3dFhfNFdLMm4tNzVsQkJsN3E5QTd0Rlp0U3hPM0JoQU9Pc1NqWkJHRXdwZk5uRUdUMVBmeDdTNG9Fd3Vm?oc=5",
         "headline": "日재무상 \"美 재무와 엔화 약세에 대해 논의\"(종합) |",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1790356659.0,
         "tag": "JGB",
         "first_seen": 1790359235.406754
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlWHRoYTNVN3FBNUwzaTAybERKZnRLdUlveXZCU0o1WFM2QkJLdWtpTzNmTDNzN1NSVkxETk9nbnN3MnRqd1p3b0RkcEpOcmx2ZGttazZfVQ?oc=5",
+        "headline": "쿠폰과 적립 혜택을 비교하는 카지노민석준 이용 정보",
+        "summary": "",
+        "source": "belpostel.com",
+        "published": "09/26 02:02",
+        "published_ts": 1790355742.0,
+        "tag": "Fed",
+        "first_seen": 1790360121.9867544
       },
       {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRllfenFxc0s3MHl4VGVFUjE5YzloQVdSQVZLNGcxQXZUZDJRSlFkSDcxdzVVSVl5enM4U1Y3WFU1cEJCY2hKVVF2OWkxS1FCRWstejFRNkpxb0o1dXg5NVhXOExENjQzZFhVNXdEaFlJa3VfMV8wWUw0OEY0ckNnajM4TkJZRGdYU0JPU3pwZ2J6OFJBMlA1OUR0OUJrTWUtZ29VZENmOXVLbW9Db1FWLXpR?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790322281.0,
         "tag": "Fed",
         "first_seen": 1790323235.1055112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jOVZNWUFjc2F4RjFodWVKWnNoUHVwbmtxWDBGM0w1Y1BodjBULWMwRXV4X0ZnbVpLTXdGZmZfVXhTT3RONE9MckFSYzdhRkVt?oc=5",
-        "headline": "Market discipline and AI dev't support global economic resilience - Roubini Macro Associates",
-        "summary": "",
-        "source": "trend.az",
-        "published": "09/25 16:32",
-        "published_ts": 1790321539.0,
-        "tag": "Strategist",
-        "first_seen": 1790322323.9446216
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYUJ1RlRZOENIYXdiZ0swWVlLdmxqUEd1Ny0tUTNnR1pWY0p2MV9xRFJTUDBqNzZ3X1NFMVRzMUFBdXNLUW5jd2RqSElkMXBiQ2M5X1hBbkVLVjZZU3NfcHBHdE5hb2cyR0cyMU5zWlFnN19NY3h1XzhzZERjRjlJdWk2dGhVUVBObnZFem5KVjdGSmJUZUQxVFlscllRSzJEVE83ZTJtdw?oc=5",
-        "headline": "Asian Bond Yields Rise Despite Oil Decline as Caution Reigns",
-        "summary": "",
-        "source": "WSJ",
-        "published": "09/25 16:27",
-        "published_ts": 1790321220.0,
-        "tag": "JGB",
-        "first_seen": 1790322323.9446216
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 03:01:02",
+  "updated_at": "2026-09-26 03:15:47",
   "yields": [
     {
       "label": "3년",
