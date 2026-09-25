@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNm4xVDAwZEtaLVVxcnlZUHBSanVYWTJaQnFwTG9MU3QwRXFiRmFhc3ZtQWZqQWstei0yWWE1a3lZWlNzU1ZEbTF1RXRleGdmMjBLQnoyU1k?oc=5",
+        "headline": "미 국채금리 5% 돌파…월가 \"고금리 구조적 고착화 경고\"",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "09/26 03:15",
+        "published_ts": 1790360155.0,
+        "tag": "JGB",
+        "first_seen": 1790363722.423005
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjlHcHAySmYwMkY5ZkF0aW9UU0hyUThkWTlNTWFIVVBEWTRPdFZFM1VnWjVsTlR0dUhEZXB6MkpSdzRxYTNsSjdCQ1B2d05oM1BsR0lZNUl3X0UzT3JDTjBPTlR4RDI5bkxaWTBDQ3A1NjllbjUwMEdvem1FTmpneGVKOVlVeGE0M042RFdkbGxwVnZTVmRHYkJOQQ?oc=5",
         "headline": "Fidelity Investment Grade Bond Fund Q2 2026 Commentary (FBNDX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790324644.0,
         "tag": "JGB",
         "first_seen": 1790349326.5326183
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3hvT3dXT0RrTnFJWUVERkN5aGxTcElzbXhnSzBiZVVraUFqQlEwVWVCSTJnOVNBUGNZTnQwWlJBQ1I2UFVpcFlkNGhCUG1uUGxzMmZXVGhnSS1lZW1rSDlOd2VjeFMzSjlzYl9oLXowcE9Fdi04X2ZQN2NWd2Q5S9IBgAFBVV95cUxOU3hvT3dXT0RrTnFJWUVERkN5aGxTcElzbXhnSzBiZVVraUFqQlEwVWVCSTJnOVNBUGNZTnQwWlJBQ1I2UFVpcFlkNGhCUG1uUGxzMmZXVGhnSS1lZW1rSDlOd2VjeFMzSjlzYl9oLXowcE9Fdi04X2ZQN2NWd2Q5Sw?oc=5",
-        "headline": "달러 당 160엔 다시 코 앞 … 日, 트럼프 ‘엔저 우려’까지 공개",
-        "summary": "",
-        "source": "biz.newdaily.co.kr",
-        "published": "09/25 17:10",
-        "published_ts": 1790323818.0,
-        "tag": "JGB",
-        "first_seen": 1790330433.6346493
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 04:01:06",
+  "updated_at": "2026-09-26 04:15:49",
   "yields": [
     {
       "label": "3년",
