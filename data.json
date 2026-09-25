@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlk4VE9EbXhCOU1GbW11REstNTNSV1M5VENJMHBlV2QxOVlkQ0dHMDljZTI2QXpYRlF2ZzBabVZQRU40LWlqTk1MWHlORHQ2WHlEXzhVMUI0VlBoMVNqcHVIWDQxeG1RM1pnS0JPR29tWGdIWXhFZS1DRDYxRUhuNw?oc=5",
+        "headline": "Kevin Warsh Fed reform: rate hike done, balance sheet cuts stalled",
+        "summary": "",
+        "source": "qz.com",
+        "published": "09/25 21:29",
+        "published_ts": 1790339345.0,
+        "tag": "Fed",
+        "first_seen": 1790339438.5049431
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcTFreEU1OVJpcEl1Tk9OaHVEN01TbWRuMUZOMDd3bEM0NWNzYTduTW0wVXkzekVUcGJQODhNUER6UmFLYXNWUE9oMzcydkdCMXBKZG0ydDlzVWM5LTUzdVFQMGVmSkFtbVg4UVRPUF9Wel9LWGc5N2NYbkp4UmpXbW9keVZ1U0s0REhyM2xrdGZSakNxSmg0S0t3?oc=5",
+        "headline": "Dislocation In Market Price Of High Yield Investments",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/25 21:22",
+        "published_ts": 1790338952.0,
+        "tag": "Global",
+        "first_seen": 1790339438.5049431
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVTQwZUZ0OTRuUlMwX1hSZXlzTnJxWUU3NDlidURnQVNabXlIYmVyb1EwaU10ODBDVEdEQWVlV1hIRHBtMWpfN1YzSHBRN2tOejNkQmZsU2UtV1dUVWlfWU1rYUpVREg3Rk53X0tZcDFheHQ0OXFlSHMyc1FfVlV4dUNwVTBJMFE?oc=5",
         "headline": "Fed Chair Warsh shifts policy focus to broad fi...",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790312433.0,
         "tag": "JGB",
         "first_seen": 1790313324.4915955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNMU0zVHVqODBsd3FXZTFOQWJXbU45RHM4el8yYktKMDR4dVdNczZTZjlGZmJCdE1lY1BOVGRjWVVIQ2paTEVpNGhlSTZJcFZ2aWV6elJKUFpBTGw1T1RSSGs4RXNrWENyd2xrdXIzaXduTU14QzNhbXRpQmpmcm05R084VTUxT3lOX1F2UA?oc=5",
-        "headline": "Asian stocks weather bond storm, oil retreats slightly",
-        "summary": "",
-        "source": "WTVB",
-        "published": "09/25 13:55",
-        "published_ts": 1790312142.0,
-        "tag": "Global",
-        "first_seen": 1790327721.8568146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbGp5d05xN1ROekJxRFZIeXpPd0ZULWtYNlpkUDBUWU1WeXJMemZ0TjRfQUFNTndrbklueUhReVItWVNoaG5lQ2E2dkE5M3RLTVk3MnRIdE5DRkRWSTBicjdWdDJWVHlNTzkwYzIzRjhMalZMT08xdWp1bWtZczVHZVR0eWxqdHBuOXYtNG9vaDhycF9WcEZnX2hRT2RCUmVlZlgtV2VHMm1vQ00?oc=5",
-        "headline": "Learning to love 5%",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "09/25 13:45",
-        "published_ts": 1790311510.0,
-        "tag": "Global",
-        "first_seen": 1790322323.9446216
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-25 21:15:48",
+  "updated_at": "2026-09-25 21:31:00",
   "yields": [
     {
       "label": "3년",
