@@ -1006,6 +1006,16 @@
         "first_seen": 1790150439.4560266
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tU2Jybkg1OXY0R0pvMUt5UmNKZWc1UHMxaEdsdWFsV3hXYzdoRXhEQ3N5VlBYbThNUExwbkVkNno4d21QTGNFeE9xbGdFclNrMlF5dXdB?oc=5",
+        "headline": "오건영 단장 “내년 상반기까지 긴축…최종 금리 3.5% 전망” [헤럴드머니페스타2026]",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "09/23 15:00",
+        "published_ts": 1790143209.0,
+        "tag": null,
+        "first_seen": 1790359235.406754
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1LREtIdzVYYUt0OFlPWVlMTHBqNi1TQ0tXSlN1YkExaGlxaU9mcnJkZGZkWFRQWmdOSWVCUzBmX2p1eEduQ2UxS2dJNDl3cGs1alV2aU9vT01QbDJLYUVGTDBYS1A0S0NTOGNnNm11YWwzR0Ez?oc=5",
         "headline": "금리 인상 뒤 1년까지 주택가격 하방 압력 받는다 |",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1789995604.0,
         "tag": null,
         "first_seen": 1790021723.83828
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAxZGlpQ1ZaYzRNSnhQOU45M1daLXljSzFmR0UtMFNJVnZvZmtSS18zNHY2d0F0dlptZl9HWkR2dzE0WkY4WS15d1JLeXlEd3p5UWxDSWFSQ3dOU09F?oc=5",
-        "headline": "SK하닉 ‘채권 60조 매입說’… 시장 떠받쳤지만 고금리는 부담",
-        "summary": "",
-        "source": "부산파이낸셜뉴스",
-        "published": "09/21 19:01",
-        "published_ts": 1789984860.0,
-        "tag": null,
-        "first_seen": 1790022629.5901175
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxSTBfeC1faENFVWg0T1dXbnFoLXJzSGdnTkVGTTdJeEJwT19IeXc5R05QT2c1bEZ3dFhfNFdLMm4tNzVsQkJsN3E5QTd0Rlp0U3hPM0JoQU9Pc1NqWkJHRXdwZk5uRUdUMVBmeDdTNG9Fd3Vm?oc=5",
+        "headline": "日재무상 \"美 재무와 엔화 약세에 대해 논의\"(종합) |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/26 02:17",
+        "published_ts": 1790356659.0,
+        "tag": "JGB",
+        "first_seen": 1790359235.406754
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRllfenFxc0s3MHl4VGVFUjE5YzloQVdSQVZLNGcxQXZUZDJRSlFkSDcxdzVVSVl5enM4U1Y3WFU1cEJCY2hKVVF2OWkxS1FCRWstejFRNkpxb0o1dXg5NVhXOExENjQzZFhVNXdEaFlJa3VfMV8wWUw0OEY0ckNnajM4TkJZRGdYU0JPU3pwZ2J6OFJBMlA1OUR0OUJrTWUtZ29VZENmOXVLbW9Db1FWLXpR?oc=5",
         "headline": "BLW: Not A Great Option For Investors Seeking Limited Interest Rate Risk (NYSE:BLW)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790321220.0,
         "tag": "JGB",
         "first_seen": 1790322323.9446216
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNNFRwalRoVnRNU2lMUE5odHdCUGdZa1ltVEdiTVIwcnlVNHF2Wk4yR2Zpa0pyYjBtMFRVQnpnd0hrb0F0TWNKSk9YQXlyNE5PY3hVMm1YU2FGMGlVQU1hMkNNRmZwMkR0LW9mYnZBYkdZb01HWk9GLUNrTU8xcGhUWUVoNTR6UDUyYktLeGJ4aWJOUXdwMzVDRHlwMFNDNXFKSnM3S2lpS1hvdGNSN1FXU1JkNElib1MwQ2R1bXl2VWZscWV5YnlTOU11RzZhM0VXbTk2RA?oc=5",
-        "headline": "US Bond Yields Keep Climbing — But Retail Traders Still Can’t Get Enough Stocks",
-        "summary": "",
-        "source": "TradingView",
-        "published": "09/25 16:16",
-        "published_ts": 1790320580.0,
-        "tag": "Strategist",
-        "first_seen": 1790321429.8668294
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 02:45:49",
+  "updated_at": "2026-09-26 03:01:02",
   "yields": [
     {
       "label": "3년",
