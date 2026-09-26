@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BNEpUMWJ3T3pUVnN4bmwtU2hMYnhqd1ljTUxYWU1vdGJtd1YtWFRoWWJIWFV2V3JZakhQN0taUUhPSGhXYUdUR1RXMF82WXM?oc=5",
+        "headline": "나라 빚을 국민에게 전가하나…일본의 인플레이션 ‘흐린눈’ [김범수의 세상만상]",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/26 20:03",
+        "published_ts": 1790420596.0,
+        "tag": "JGB",
+        "first_seen": 1790421324.3697143
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNjhjTTRFN2JTczdwT0NUc0N6Q0dIem5XQ25sNWJHNEpaSVpqdVM5X3RZU19vNmQ2V0VpSFJhSl9iZHlfb0kzUDdzenZteFQ2R1dEekdyX09XbHg2WVE?oc=5",
         "headline": "글로벌 금리 인상 도미노 ...\"미 국채 금리 연내 6% 돌파\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790354057.0,
         "tag": "Fed",
         "first_seen": 1790361924.1485193
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1xeWExQzUtc21YRFpsSU5XV2R6ZWVqdWlHdTRLcldHLTJrR2kwa01LOTdqYTFtMkdPclNELWoyMGFYakM2aWRSSGVLM0tWSG5YTC1tcA?oc=5",
-        "headline": "Japan's Long-Term Interest Rate Climbs to 3.115%, Highest in 30 Years",
-        "summary": "",
-        "source": "News On Japan",
-        "published": "09/26 01:28",
-        "published_ts": 1790353715.0,
-        "tag": "JGB",
-        "first_seen": 1790392522.9884338
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 20:00:57",
+  "updated_at": "2026-09-26 20:15:47",
   "yields": [
     {
       "label": "3년",
