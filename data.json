@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVd2cGQ4UkZBdXpTejcwdHlQNnA3RjJiS2h5QWhCd2x1d2ZGOW1HeUJFNGVTUEFZUlBiTDJpakRoNUhJZG9PZUlqRUdDQ2Z1VW5INzBkck85RlU0dWRmd0J2aWpzM1d2YVlpUHVPamZQbUctXzJXNFVGdUFaR29zWWVzNXdTcmN3WURWZlFNYVpJczFYWnc?oc=5",
+        "headline": "Kevin Warsh and the Fed send stern warning to Americans",
+        "summary": "",
+        "source": "thestreet.com",
+        "published": "09/26 22:47",
+        "published_ts": 1790430420.0,
+        "tag": "Fed",
+        "first_seen": 1790431231.717655
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLVJic2x6Q2JzT1ZKakVHZlFWWEktbi1sNUdPOUNTMnVCdlVFS2ZTXzdjaUtkWDBOOE9wMENuWGFGTEVpT2hoenBvTkZtNzBQNDZ5SHBIaHcwVHNhMEhQQWJ2QzRzTnJTVUpvakx0bVFTUUkzQkNzRG5fTXk0VllsdGNTOVd5WnlOQm9kblhIYlNNYWs2UzYzTjRR?oc=5",
+        "headline": "JPMorgan Sees Corporate Fundamentals Limiting Impact of Higher Yields on Stocks",
+        "summary": "",
+        "source": "Yahoo Finance UK",
+        "published": "09/26 22:17",
+        "published_ts": 1790428620.0,
+        "tag": "Global",
+        "first_seen": 1790431231.717655
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMF92Tnc1VlNwMTR3ZDA2RHlrX1pMeVRSazI4MzNyQ0JRZlVpdEttYks0ZWVlanFHVXVYWXdhbmNkVzVzNDh3bXA3ejd3eEk4aU16eGNwbVFmaXN1ajZFMlFIeFFUOXg3UEJaU0hjSGVmZXNHQkN6aTA0NG1JeUZ5aG5RbjZSU0tjVG1jeGY0czRCTmxYaldjN0RfLWl5X2tBakZ4UVZaallsNFV0MERzRVNLVGotN1JGN3JwM0hSWQ?oc=5",
         "headline": "Fed Chair Kevin Warsh Has an Inflation Conundrum, and Trumpflation Is Only Part of the Problem",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790359126.0,
         "tag": "JGB",
         "first_seen": 1790397032.4265435
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUjlHcHAySmYwMkY5ZkF0aW9UU0hyUThkWTlNTWFIVVBEWTRPdFZFM1VnWjVsTlR0dUhEZXB6MkpSdzRxYTNsSjdCQ1B2d05oM1BsR0lZNUl3X0UzT3JDTjBPTlR4RDI5bkxaWTBDQ3A1NjllbjUwMEdvem1FTmpneGVKOVlVeGE0M042RFdkbGxwVnZTVmRHYkJOQQ?oc=5",
-        "headline": "Fidelity Investment Grade Bond Fund Q2 2026 Commentary (FBNDX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/26 02:25",
-        "published_ts": 1790357100.0,
-        "tag": "Global",
-        "first_seen": 1790360121.9867544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmc3N3pqNklHUHFhNEVVbzRLSllUNzVnZkFyMEtoWkpVc213S25hOEVJZlhSU3d6dUdudWxaTnByNWdMWXQ3eDRjbllJczljVlFtWUZ3bU9XeE1Dc2dTdmhQSlZqTUNTcUhXaEpsUWNxc3BhVEZ2UDdPOGdoQm1xczdwb2xmYW56NzA5UHZSTlo3b3JRalBMdGVVT0hhdHVVRW5Ybmk5R0lnNFRn0gGyAUFVX3lxTFByNVIyMUN0VEJNWHY3NDBHQkZkVXdRV1J2R19pYW12a0hRblc1SWtsemw2MEF5X0E2WmYxY2JabkNzaTJnTE5ocnRYNnd2MGNKbzVNVlZnYW0zYTVVbW1wQnB4R2lhWjZvX05PeDFvbkUzV18wT016MGdyRUJqbXlJOFhqNHFUc1pWcVB6N2xqUVJEdnJCd1h0NjNJZGozcjN4eGF5Qm5zTHJ2aTc1dHYzYnc?oc=5",
-        "headline": "Argentina’s 10% yields tempt bond buyers as election risks build",
-        "summary": "",
-        "source": "Buenos Aires Times",
-        "published": "09/26 02:22",
-        "published_ts": 1790356922.0,
-        "tag": "Global",
-        "first_seen": 1790382627.2309718
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 22:45:48",
+  "updated_at": "2026-09-26 23:00:56",
   "yields": [
     {
       "label": "3년",
