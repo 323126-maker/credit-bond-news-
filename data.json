@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3hseFRXaG1wamRKZEt5cTBEN2c4OWZibnlLSkVwSm9zS2FhWW5QUUNxaEQ3Uno3YVNvNVA0ZktUMTVPUHR4X2dKekV4bWNKYUF1OTJHWnBrZzA5VUlzT1FaeWpHNGRxdXhrc2EzcllPeGd0a2YtMC1vNlN3eVAyOEw4LWJaX1V2a240bjJIbHl5aGVONEhRa0NWSGNXN2ltZGw5cQ?oc=5",
+        "headline": "S&P, 이란 분쟁 속 오만 성장 전망치 3.5%로 상향 - 뉴스 및 통계",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "09/26 20:30",
+        "published_ts": 1790422235.0,
+        "tag": null,
+        "first_seen": 1790425856.0126204
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9zSjh2YzNPR1BfUTBQYVgtSzAtb052UDJCYVJqNko3SlRsYmtTWVlNRDZBOTZOd3FwVEowc0pSUG9OOGh3a29nbzNwd1hOMHRiSmJpaWFxazMwdEhOeWc2VVczMlQ2TDNvUjhKV2F5S1lWUQ?oc=5",
         "headline": "‘경영권 분쟁’ 고려아연 회사채 시장 ‘노크’…최대 3000억 조달",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790295323.0,
         "tag": null,
         "first_seen": 1790301635.937713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5uRE5KTzhkWEg4LTFVMGgyN1hORzZEbXptY3NNR2Y5b25XVndmdUdJQ2VuWm5mcVF0aVJxWGpCaW5lNXpnZ0pjUzdWRzI5ZWRxNEJNWUZ3?oc=5",
-        "headline": "소프트뱅크, 오픈AI 투자에 역대 최대 정크본드…15조원 조달",
-        "summary": "",
-        "source": "지디넷코리아",
-        "published": "09/25 09:07",
-        "published_ts": 1790294852.0,
-        "tag": null,
-        "first_seen": 1790351124.9649265
       }
     ],
     "perpetual": [
@@ -412,6 +412,16 @@
         "published_ts": 1790382300.0,
         "tag": null,
         "first_seen": 1790382627.2309718
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FWWV3dkVTMkxkR3RmV1NaZFNqODZaTnpMZnNQUDl0WWNyTDBveFVVYkxmZWhfTGNaRmlOOVpxZldpaFJsSnBReDhCN3hCbVRoUEVWSHFidkRlUTZqX3FSYjNlcU1OdW9k?oc=5",
+        "headline": "iM금융, 증권 완전자회사 위한 '마지막 12%'…주식교환 카드 꺼내나",
+        "summary": "",
+        "source": "fetv.co.kr",
+        "published": "09/26 07:00",
+        "published_ts": 1790373600.0,
+        "tag": null,
+        "first_seen": 1790425856.0126204
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ybW5OVFlWYjAzSW1GOXpwdlB6WXFCcHBGTzVBeXNSWG9HaUpIQW9IREQ2UncyNjl4WW1vMmN1T0lvU2lCNzg1LXFiX3NVb3pBbTJZbHNRS1pucEhfRzZhSG50a29LOE9WVzR1S3R2aw?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1790040560.0,
         "tag": null,
         "first_seen": 1790041524.9412954
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MZ3BRQWUtRk9uZVpIMmtfYnFQU2RFTjBfMWx1SUlnQnBXMk44VnhNamVCeFNzS2FPeUtOaW9lSDEyMndVd2FjODVrUmJBZ2R1NmluWUhLUkFlRkYxMnBaTi04U3JGNzhLdzk1WUJzS3Jud2s?oc=5",
-        "headline": "FB 파이낸셜, 1억 달러 규모 후순위채 발행 추진…성장 자금 조달 목적",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "09/21 21:54",
-        "published_ts": 1789995275.0,
-        "tag": null,
-        "first_seen": 1789995638.0038576
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 21:23:02",
+  "updated_at": "2026-09-26 21:31:20",
   "yields": [
     {
       "label": "3년",
