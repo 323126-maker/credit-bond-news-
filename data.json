@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9ScXdnODlYN1V3eC1XRHNFdi1aeURha1VMRFJ5dTJ1WmdWaTJvUmFoWkRzcjdUaEp4UHVyNW9WNExldVFVWkpoZThma1c4ZUtRUjBYUGF2NURMMW82Wnd4RGxobXc?oc=5",
+        "headline": "IMA·발행어음에 커지는 증권사 몸집…8개월 새 자본 6.2조 확충",
+        "summary": "",
+        "source": "MTN 머니투데이방송",
+        "published": "09/27 06:00",
+        "published_ts": 1790456401.0,
+        "tag": null,
+        "first_seen": 1790457325.2911062
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwd0FDaWpqc0cwQ0RPa01UNmp4NGxUVmhubEE1UVVKOGFxSFB0QmVma3dHMWFuM2x0OEJlMGZWSVJvVUg3SUR1YURKY0U5Tm91STUwTzd0b3ROb3BLQlR2dtIBYEFVX3lxTFBwd0FDaWpqc0cwQ0RPa01UNmp4NGxUVmhubEE1UVVKOGFxSFB0QmVma3dHMWFuM2x0OEJlMGZWSVJvVUg3SUR1YURKY0U5Tm91STUwTzd0b3ROb3BLQlR2dg?oc=5",
         "headline": "[단독] '부실저축은행' 주범 미회수 2천억…해외재산 추적 구멍",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790043057.0,
         "tag": null,
         "first_seen": 1790154923.8177457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1yUGhlN1VYYzFSaG5KTHc5MGl3VlVZM1RnYmZFVXlhTERacUdnY2dzNzJwRzJKblZZNTdLM2pOQ0xzVUpVY1N0Nkd2c3ZDa0E?oc=5",
-        "headline": "[단독] 농협은행, 3000억원 후순위채 '자본 차환'…높아진 금리에 비용 부담",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/22 11:10",
-        "published_ts": 1790043000.0,
-        "tag": null,
-        "first_seen": 1790043323.665159
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 06:00:59",
+  "updated_at": "2026-09-27 06:15:49",
   "yields": [
     {
       "label": "3년",
