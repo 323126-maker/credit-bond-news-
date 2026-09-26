@@ -22,6 +22,16 @@
         "first_seen": 1790408722.4510717
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2VEZzh6NzdUY1E1dnZGbXBnMWZCLTFwNTVibmtzTnZOeWpjbVVVMkVYLVU3X2lXcHAyVVVvY1cwVjRmd3VGUnREbEUyUXEwNW56dmh4MzRaY3lLZ1pEUkZic1VnTnZmbXVnSWhvdU0xcTd6eXUwcHQ1LWNqVUcxaTlpUFhxRnFla3ZybnZHQW41bDBMNkNabmlQOEFmX29FV2tnVTVYMjdHMkRyTGVTaXdjWFR1NU1LeFE?oc=5",
+        "headline": "연준 금리 동결로 다우지수 1100포인트 폭락",
+        "summary": "",
+        "source": "chosundaily.com",
+        "published": "09/26 11:36",
+        "published_ts": 1790390169.0,
+        "tag": null,
+        "first_seen": 1790420434.450802
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXa1JaZV9lNTlsdDZqXy1zUWE5aEM5MmhZdDFnNUlJYmo4VWtleklHMVN2anB0VUVXam9wOHU5a1pVNVUwX3dicWFON1AtMXkzaGZ4M014V0Y3bUtFcENkbkgwUQ?oc=5",
         "headline": "“투자는 1.2조달러, 수익은 아직”…AI 거품론 다시 고개 [이슈+]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790294852.0,
         "tag": null,
         "first_seen": 1790351124.9649265
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE16ZXBqWHZTcF9qX1V4dHlYb2Y4NzVfUU1vNC12a0Nic0EtbkNheUlUQ19LTVR2akZ2QWpOaWw0cnJKVUV0ZHh2RWI3ZERUMjkycnRoUlZleHg?oc=5",
-        "headline": "고유가에 채권시장 발작…WSJ “장기금리까지 뛸 이유 있나”",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "09/25 08:57",
-        "published_ts": 1790294278.0,
-        "tag": null,
-        "first_seen": 1790297126.460421
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 19:54:05",
+  "updated_at": "2026-09-26 20:00:57",
   "yields": [
     {
       "label": "3년",
