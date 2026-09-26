@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQX09sZGpxZzFLLXRDQXA1clY2UGxxSm55Q0pLUDVmc0staFFDZkJ5dUYyQlpHbEREQlZfOXh2QXRvVHBJV3g2OE1FMVI0WlhQU3UyYkxCRWdXc1BXaGw4emlOVHljbFlBenhMUDB3SVJ0di1JT0Z2emRoRG5UdjhTWW90X1ZHSU5BMk9WX095MjA1UlIxOWJIU1RyOTRMRWpDQWlpQWFNY0Y?oc=5",
+        "headline": "French Bond Yields Spike: Investors On Crisis Watch as Election Looms",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "09/26 14:05",
+        "published_ts": 1790399131.0,
+        "tag": "Global",
+        "first_seen": 1790399722.5366416
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN0ZtLW5WQU5YS2hPcWJyV0lDT2h5R0Y0WnFfaGloNXNubHNwcXloRUJIQTVPUW4yQ0xDbmVXM2J5enp5MlRPNmRHUmJmXzRERGctY3FPbkF2R2tkR25sRUJFcDhzNkdXWEl6R185R3FjdXhYVV9UaERKQU1Cakdwcmx1YkhEQVI5Zk1oOTNNb240dUdneUZFZjBhVTM1LW8?oc=5",
         "headline": "Franklin Corporate Ladder 1-3 Year SMA Q2 2026 Commentary",
         "summary": "",
@@ -1678,6 +1688,16 @@
         "published_ts": 1790376863.0,
         "tag": "JGB",
         "first_seen": 1790379921.8729918
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhS2ZVTXF4a25XRlJnUUVpT01PVzJvWmNzeUhaZVRNMVJVZE10VmgzWWhFeUlQcC1nVkZPdy10TTVtSTBXZzZsbmhLRXVlSml2SGZyNTQ4b2FwUVBrcXJPUkRMRlJIUjdMSmtuTzZNekgxQQ?oc=5",
+        "headline": "글로벌 외환시장 동향: 지정학 리스크와 연준 금리 인상 여파",
+        "summary": "",
+        "source": "FinanceFeeds",
+        "published": "09/26 07:50",
+        "published_ts": 1790376617.0,
+        "tag": "JGB",
+        "first_seen": 1790399722.5366416
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDZKQms4Q3VMd1dIY0hsMXBEQUVwRHgxZnFmekM5Qmt3Z2tYRXpqdXFEZVRoN2JkWHRrdnoxeHk4dzJwdEJCZTJpQ2s1eUZnaU1mSXZ0aHFpNXU3U3Y5blMtMkQ2UTdzS0IxRkI2S25YdzlwX1ptTC1IcDl6Tm5aVXRNbjVreHJRdW1ma0FqVGFtTE5JcVE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790344001.0,
         "tag": "Strategist",
         "first_seen": 1790349141.168271
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYk9uTnU4MVpWM0tFMHh3aVppemw0Yl94RVlWZmJISE0waklMYS1DOTlKeE13bXBtQVlxNXRpUUw2eFduZVF6QlF0MWNwTXNyZFVjYjVZaW4xeGh4bGk2bTFQa1R0YjJ4ZFNTUzdkODcwYWhqN3ZtUUs3anExRnVuUDAxemducWpmOExlbV9hS1hTcTdYSkZJRVNaT003U21rbEhuYUUxR1NzdXlwcVZiODZxRQ?oc=5",
-        "headline": "What higher interest rates mean for mortgages, borrowers and savers in US",
-        "summary": "",
-        "source": "Baltimore Sun",
-        "published": "09/25 22:42",
-        "published_ts": 1790343774.0,
-        "tag": "Fed",
-        "first_seen": 1790344838.2454495
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMGdRWGMwS19RQ1QwQVhydF9udFh2SkVwN2RYaXZMZGd6UzdGdXJOQ1JUMlFuLUw3VExKTm5XbldCLVBWVHpWSmNSWlQyN0tYUzVtRTg5Rlk3SnMxRklVWHVzbWJ4RFgtajBvVGM1cEhJcVZnTkhVNXNmWFVvZXZiRmt3?oc=5",
-        "headline": "Fed Confronts the Prospect of Another Rate Increase Ahead of Midterms",
-        "summary": "",
-        "source": "nytimes.com",
-        "published": "09/25 22:37",
-        "published_ts": 1790343433.0,
-        "tag": "Fed",
-        "first_seen": 1790350232.0097878
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 14:00:57",
+  "updated_at": "2026-09-26 14:15:54",
   "yields": [
     {
       "label": "3년",
