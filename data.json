@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Z0IyNG82OGk5LWZEaGVMdWFSaUNQWkRraXhmaG10Z0JrT2lRajJITzRpenB4bGUxOWI2WDRTTjd2OS02VkxuUUU5OHNMbmo4TzJLeHZySDR3VDhDNGFOMGc4VXJsYk1BOTJOYVQ0YnI?oc=5",
+        "headline": "연휴 끝나면 금리 움직인다…채권시장 복귀전 체크포인트 By EBN",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/27 06:42",
+        "published_ts": 1790458920.0,
+        "tag": null,
+        "first_seen": 1790459122.2794132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBROTFKa1RIS2tqOEIzQV93bmxvYkp2VnhNdHFZTWFQdlVuM3hEb0Q1OUk1dmpqTlZUUERSa0NfemFTZWN2SlBqVENsMGh5WnpLU0hlLVA1bUM2ZnNT?oc=5",
         "headline": "[김남현의 채권썰] 변수가 너무 많은 한 주, 일방향 플랫은 아닐듯",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790061344.0,
         "tag": null,
         "first_seen": 1790123149.1632206
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBYYnpfZkJmczdMc3A4SWdrYl9GaEZQVmhFMFQ0QjdrVV9GV2VQa3o2VWpkQjVnb0xKd2FGSGlOVDlXQ3lzeVo1YnRqZHFldjhQUk9xN3U5b3VCUTlRaXZXOEVFWlk2NjlCanJvR3R6YVdWeEnSAXNBVV95cUxQWGJ6X2ZCZnM3THNwOElna2JfRmhGUFZoRTBUNEI3a1VfRldlUGt6NlVqZEI1Z29MSndhRkhpTlQ5V0N5c3laNWJ0amRxZXY4UFJPcTd1OW91QlE5UWl2VzhFRVpZNjY5Qmpyb0d0emFXVnhJ?oc=5",
-        "headline": "같은 금리상승, 다른 이유…美 재정·日 정상화·韓 반도체",
-        "summary": "",
-        "source": "뉴스웍스",
-        "published": "09/22 15:28",
-        "published_ts": 1790058497.0,
-        "tag": null,
-        "first_seen": 1790141429.5890584
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 06:30:52",
+  "updated_at": "2026-09-27 06:46:03",
   "yields": [
     {
       "label": "3년",
