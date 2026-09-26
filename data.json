@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwd0FDaWpqc0cwQ0RPa01UNmp4NGxUVmhubEE1UVVKOGFxSFB0QmVma3dHMWFuM2x0OEJlMGZWSVJvVUg3SUR1YURKY0U5Tm91STUwTzd0b3ROb3BLQlR2dtIBYEFVX3lxTFBwd0FDaWpqc0cwQ0RPa01UNmp4NGxUVmhubEE1UVVKOGFxSFB0QmVma3dHMWFuM2x0OEJlMGZWSVJvVUg3SUR1YURKY0U5Tm91STUwTzd0b3ROb3BLQlR2dg?oc=5",
+        "headline": "[단독] '부실저축은행' 주범 미회수 2천억…해외재산 추적 구멍",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "09/26 13:14",
+        "published_ts": 1790396063.0,
+        "tag": null,
+        "first_seen": 1790450121.9757924
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1tS0V0ZWZtMHdEMnZ3ZGRkTEdtMVlNYU5Jd2VCZERWck95QjY4WFVjVmN6bVJDQ2RpMUg5VGFvOTdDMHhCX040dnZDYWRhTEZIcVBsRHFxWHM3Sk51dFdCemdUVHBNN09hRk0yN241QmJWUQ?oc=5",
         "headline": "자본성 증권 발행 '뚝'…다변화된 보험사 자본 관리",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790043000.0,
         "tag": null,
         "first_seen": 1790043323.665159
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ucHRTY3U1UUtnQW90LXhzQnY1WWRXWE9IekVOT0hCNUJZY2pjUTY4bmt6TmhaeTcxVFJobzl4bW8tOU5CaEN2M0pEdGotZXU3SVZnMktJUHJLcThY?oc=5",
-        "headline": "제네시스 GV80, 영화 '인턴' 등장…내달 하이브리드 출시",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/22 10:37",
-        "published_ts": 1790041020.0,
-        "tag": null,
-        "first_seen": 1790233236.5198746
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 04:00:59",
+  "updated_at": "2026-09-27 04:15:43",
   "yields": [
     {
       "label": "3년",
