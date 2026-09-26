@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWQzJqb1NlVnpuYTRJSHJ6Q2lNYWw4TG5YSTllcHN6S0JRUGQyOUstaDJ4b3RmcW5MWjNxRnhkN3pTOFdidXV4U1hOeXc4R3NpNWlTVnZ3SzYxTDN4SXdZZENmXzdkdGFiZGRKMXl30gFuQVVfeXFMUFZDMmpvU2VWem5hNElIcnpDaU1hbDhMblhJOWVwc3pLQlFQZDI5Sy1oMnhvdGZxbkxaM3FGeGQ3elM4V2J1dXhTWE55dzhHc2k1aVNWdndLNjFMM3hJd1lkQ2ZfN2R0YWJkZEoxeXc?oc=5",
+        "headline": "빚 사서 돈 버는 회사들…금리 오를 때 급한 빚 줄였다",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "09/26 08:40",
+        "published_ts": 1790379600.0,
+        "tag": null,
+        "first_seen": 1790383558.679824
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5lUEdSaVpnOGZ6T1dKeE9tNFJBY3Nic0xPRDNXRDlXM0U4SGJqZzE1SmNraTBRRXhER2hUazJxcVBkMkczYVlZZjk3bG5FaWdkcUlNUVdYdWhYMmtvcXZmVg?oc=5",
         "headline": "\"6억 영끌족, 매달 440만원 갚을 수도\"…'주담대 8% 시대' 온다는데 어쩌나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790030958.0,
         "tag": null,
         "first_seen": 1790035272.5823278
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxOTEJlWjlSWmQ3N0x4UUZ1VjAteElqWEdZOFFSd2VZTzhIODIwMGdXTXN3UmlqbjBzSWprMmVzTHVsc2o1WW1xVHctZTBvUmFZWlhSUmhlYWktWDhfX0xEQk5Zd3BpakgxelpfWmhIWV9PZlNGU0tWbjV0a05pMi1QMHhzUmVYRWk4X082WTBsbXZYLWxaZHFZNnlrX2VnckdmRFNiYlBtYmRGUFV5OTlhemRDQmJ3OFpzMlpXdWh0bHpSOUZpZmQxLWhKc2pkUDZMdXY4aXlaVllsVmFkcW9HbzNjQkxqSjBVLUdXSmZFSDhpN0NVWUd2MHhQZDhBaFJzX3BPdHdxZFBndUtPMEt4OS1leFI3bHQ1ZDN5emNCM2ZFX1ZJUWFoRzVxcWM?oc=5",
-        "headline": "고금리 시대에도 주식?…‘채권=안전자산’ 공식 깨졌다",
-        "summary": "",
-        "source": "데일리안",
-        "published": "09/22 07:22",
-        "published_ts": 1790029320.0,
-        "tag": null,
-        "first_seen": 1790029832.3519301
       }
     ],
     "politics": [
@@ -1740,6 +1740,16 @@
         "first_seen": 1790365529.9857016
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOeXRDX3RrbFJTTER5QWxHbkliMS1id0lGMlJIV0dUT19QTHdCZFV5TngzZE1RNUVXcHVGbExXd2RwMDF5TnJ4dE9zMkE2dFlGQ2RVSWNuUVlNMEJ3UXQ0QmpES3lSMkdPWi10dE0zcXIyeE1YYXc?oc=5",
+        "headline": "Warsh's Fed Overhaul Faces Early Tests as Markets Price In More Hikes",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "09/26 03:16",
+        "published_ts": 1790360160.0,
+        "tag": "Fed",
+        "first_seen": 1790383558.679824
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tNm4xVDAwZEtaLVVxcnlZUHBSanVYWTJaQnFwTG9MU3QwRXFiRmFhc3ZtQWZqQWstei0yWWE1a3lZWlNzU1ZEbTF1RXRleGdmMjBLQnoyU1k?oc=5",
         "headline": "미 국채금리 5% 돌파…월가 \"고금리 구조적 고착화 경고\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790338952.0,
         "tag": "Global",
         "first_seen": 1790339438.5049431
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUmFobnpxRFhRVGVBaUZ2ZThfeDJITWQ5b0U2MHBwOEZlS1ZQMUkwOHBudmUwSWphdHpkOW9kQlROdTVBLS1ndUdmZEhFMzRPbGFzcEJ5VlJFaFBVdHRlUl93MjNpWUlOU2VFU3FrVWdLSlQyc1QwakFkbTk4QXJBOVlhN3NqZ25sZUtqbzRhLVAzN0RCTnZBaFhROEtGM1l5bm55V2RReDlrVHNlRWloQ3c3RFltU0gzdVE?oc=5",
-        "headline": "The Ultimate 5% Yield Game: Bonds Versus Stocks (SPY)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/25 21:15",
-        "published_ts": 1790338500.0,
-        "tag": "Global",
-        "first_seen": 1790343031.2721326
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-26 09:30:50",
+  "updated_at": "2026-09-26 09:46:22",
   "yields": [
     {
       "label": "3년",
