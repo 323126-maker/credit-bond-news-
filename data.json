@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObk5zMFJzVWdnbGh4aU1BS1VIN2ZEM2I0SVBHbTZYRUNSTFBJZ0xQV1h3Ny1oa29nR1pXbjEwQkZjWFpuZy1WckNtdlpuRUIwVFJwblJ5TFFTeHc4TUF5ZEhtMTloRUdIaGZDYzBSYy1BSGlUdEYzXzRKWWQ4MlEyd3lZX0NuNFZQaUdEVEdZbjZ2dnNWV0VETktzenp6dkdQOGVuaFJTajFva0lfQ0U4Zg?oc=5",
+        "headline": "Opposite Stanley Druckenmiller, 10-Year Treasury Note Isn’t Important",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "09/27 23:00",
+        "published_ts": 1790517600.0,
+        "tag": "Strategist",
+        "first_seen": 1790518521.4556081
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QM1l4S09ycnVXS1A1QTZfbnR0MkN6c29FNklyMUVBZ1NUeU9YUkZock53cUpBcEYzNEdSVW5xeXFCNjVMNURzT3dWWVAyWVh6WVUxWC03TlZEdUJWaGlOUDlMMVdrYU1uR2pJcFdxTmRpYW15YURHb0FvNA?oc=5",
         "headline": "U.S. Dollar Rebounds as Fed Reshapes Forex Markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790420030.0,
         "tag": "Fed",
         "first_seen": 1790424035.1469963
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5MNjhjTTRFN2JTczdwT0NUc0N6Q0dIem5XQ25sNWJHNEpaSVpqdVM5X3RZU19vNmQ2V0VpSFJhSl9iZHlfb0kzUDdzenZteFQ2R1dEekdyX09XbHg2WVE?oc=5",
-        "headline": "글로벌 금리 인상 도미노 ...\"미 국채 금리 연내 6% 돌파\"",
-        "summary": "",
-        "source": "ytn.co.kr",
-        "published": "09/26 18:59",
-        "published_ts": 1790416740.0,
-        "tag": "JGB",
-        "first_seen": 1790419523.6220465
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 23:00:57",
+  "updated_at": "2026-09-27 23:15:45",
   "yields": [
     {
       "label": "3년",
