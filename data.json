@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE12UVUtVWpyX2RRRk5jTHl0bmlCVWRCakk0RTM3UkcwQng4Y1BjQ1NIb1k3X2YyQnlQWUNubHlELXp1ZTZTV09qNzVQMGFaakpnZ0xJR2xBdHJMTHk3LTh4bDkzUGRvOWNLbUNzeg?oc=5",
+        "headline": "'5% 이자율' 고금리 장기화 시대가 시작됐다",
+        "summary": "",
+        "source": "세상을 바꾸는 시민언론 민들레",
+        "published": "09/28 07:00",
+        "published_ts": 1790546400.0,
+        "tag": null,
+        "first_seen": 1790552724.8452542
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRcXA4TnBNTU1FUDNZNXh6SzlsOERzc2RhNGluelNPTFJ2dkMtQnE0STNUX0NhWjVrTmxaMElNQ1BaLURZeHJJQVptSkdLbXZXT01ZS0lmRW1RV0NZUWtPQjVhRXZqZlVa0gFsQVVfeXFMT0gxbXQ1aWtvRkNMUzkxTENJT2JUeUpRV2lFWmkzdTE3UjFfQWY1UUJlOFVqYlZMMlI3cFU1akpzaEVDTkRxd0VsemZJN2ktWDRfbHowVFFjclA2OXRDSVJsUTI3WEs2SEhxQ3ph?oc=5",
         "headline": "美 금리 인상에 꼬인 한은 통화정책…10월 금통위 가를 3대 변수",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790143974.0,
         "tag": null,
         "first_seen": 1790150439.4560266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1tU2Jybkg1OXY0R0pvMUt5UmNKZWc1UHMxaEdsdWFsV3hXYzdoRXhEQ3N5VlBYbThNUExwbkVkNno4d21QTGNFeE9xbGdFclNrMlF5dXdB?oc=5",
-        "headline": "오건영 단장 “내년 상반기까지 긴축…최종 금리 3.5% 전망” [헤럴드머니페스타2026]",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "09/23 15:00",
-        "published_ts": 1790143209.0,
-        "tag": null,
-        "first_seen": 1790359235.406754
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 08:31:30",
+  "updated_at": "2026-09-28 08:45:48",
   "yields": [
     {
       "label": "3년",
