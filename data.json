@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wRTBTalJYMzJnS2hEZXEyRklqZ09pYlNRNF8zdmR4SG1lSmdhcm16MG5sa2tQZGRhNFBaaUdzMkMxcVU2YzV1S0tfMkRSRk5zcW9uZ0tBYlBuRE4zbEVYT3NMYUliZnEyQ09nNE5GWTM?oc=5",
+        "headline": "[채권-주간] 요동친 美 금리…중동 정세·유가 변수 주시",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/27 13:00",
+        "published_ts": 1790481601.0,
+        "tag": null,
+        "first_seen": 1790482525.5221326
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9iOEdIMy1OckoyN0h6d191b1hTc2ZURlYxWlhIaVFGNVd2bm9ab3BmN1MwYmdpZk9Sc3JocWZBTFhhbkY3NklDUm9tMm5jS1dFSGNDSEZCamhRSnFVdVQzUm83TEZ1MlRid0JYcU9sY2xuZw?oc=5",
         "headline": "[고금리 찬바람] 싸늘한 원화채에 한국물로…호황 속 경계감 상당",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790087037.0,
         "tag": null,
         "first_seen": 1790100928.3457792
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9YVXF4VmxQSkJ0eWpjOG9VcUdRLVBxTnZONl9EbGQybld4QnA2dXlyajIxWVlYZ3hvOGxXTmUtRjFQekE?oc=5",
-        "headline": "금리 쑥쑥…증시 흔들…‘돈의 전략’ 바뀌고 있다",
-        "summary": "",
-        "source": "주간현대",
-        "published": "09/22 17:05",
-        "published_ts": 1790064300.0,
-        "tag": null,
-        "first_seen": 1790113525.2110834
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 13:00:59",
+  "updated_at": "2026-09-27 13:15:49",
   "yields": [
     {
       "label": "3년",
