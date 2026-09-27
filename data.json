@@ -846,6 +846,16 @@
         "first_seen": 1790496032.0916445
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1wQ19KNWZrQ0hEclZDa2J2ZEhMMXR2YS1oQ2pRRmZHYjNFY0NvTUZXZk05RTV4bWdXNWlIRXR3ZzJoWmdzWHJkMQ?oc=5",
+        "headline": "미국 국채 금리와 한국 국채 발행·유통",
+        "summary": "",
+        "source": "brunch.co.kr",
+        "published": "09/27 15:00",
+        "published_ts": 1790488801.0,
+        "tag": null,
+        "first_seen": 1790540123.5945241
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wRTBTalJYMzJnS2hEZXEyRklqZ09pYlNRNF8zdmR4SG1lSmdhcm16MG5sa2tQZGRhNFBaaUdzMkMxcVU2YzV1S0tfMkRSRk5zcW9uZ0tBYlBuRE4zbEVYT3NMYUliZnEyQ09nNE5GWTM?oc=5",
         "headline": "[채권-주간] 요동친 美 금리…중동 정세·유가 변수 주시",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790132821.0,
         "tag": null,
         "first_seen": 1790298923.704643
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQT1NyMjYyUkFvanhoRURVMlJ4SjV2U1JhLTFlckswQ1AtR3E1bVBXLXBVZ3FwVDNUM2YzS2M0X2lVTUxMVnVPSHZuell2YUExcnRGaFdEMTRNTEdHeU1mVVhhTDQ3RWcwVWhB?oc=5",
-        "headline": "【사설】 일본발 금융 쓰나미, 한국은 안전한가",
-        "summary": "",
-        "source": "시사주간",
-        "published": "09/23 08:15",
-        "published_ts": 1790118939.0,
-        "tag": null,
-        "first_seen": 1790124326.5335195
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 05:01:01",
+  "updated_at": "2026-09-28 05:15:48",
   "yields": [
     {
       "label": "3년",
