@@ -392,14 +392,14 @@
         "first_seen": 1790367321.8190846
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03dHZaSUdKVklzMHRaSkMwUEtfbFRuWktieXV0Rll1eGRnYkZjODJkSXVDN0N3SGRiRzNNaFByZXZEVzNzQVEtRm84bkZyNEZjUHRRdGQ1QlBqRHNUOGJCNDByLVg4czZlX0NJOGF3Rkk?oc=5",
-        "headline": "시스코, 15억 캐나다 달러 선순위 채권 발행 마감",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lc1pQVnBSTC0wamlzWHNKc2JNd1psSEx5cVgwX2tOZmNYWVQxT09PWUs3QUo4M1Z1QzZqVDJyR25EbmVUbl9ubFhyd2JSZE1qT2FqeHdMQ010TzJ0UDk5YmdQcUk1Qk1OLXc4MHBHY0Y?oc=5",
+        "headline": "Moody’s, 칠리스 성장과 부채 감소로 Brinker 신용등급 Ba1으로 상향",
         "summary": "",
         "source": "Investing.com 한국어",
         "published": "09/26 05:05",
         "published_ts": 1790366700.0,
         "tag": null,
-        "first_seen": 1790548228.498375
+        "first_seen": 1790549123.3688552
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOUjQxZHc4dUlJZ3JMeEE5YmpRUkZib3RVamxTdGYyZUdzcE9yWE81bEViWXhnam5VdjZ4dV94aUZoSW14T2pkeXJvWGRwdjFPalIzWU9QeHhQNVV0RTZmalhTQldwYkJvYV8xakNmOWJsdjdDUzY1N0hIN1lhcXBpa1dUZFY4Y3J4bThBNmtNQXM2aDZBLVcyTC1SODczS0JCYmYyMkxxZzJHSGtrc3l0dlotcldoNDlsclE?oc=5",
+        "headline": "Forget AGG in Retirement. MUB Does the Same Job With a Smaller Tax Bill",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/28 07:31",
+        "published_ts": 1790548260.0,
+        "tag": "Global",
+        "first_seen": 1790549123.3688552
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOREtIbUVYRUM3cHNUbnRGX2s5YWZaWnMyUDVCcDNkS0N1YU1qdUxTS3hZNWpWZ3RiQ2xaWXNIQ1MyakRTWjlFVmpFZTMwLW5VVTc3aGc2c01iVmJBLWpFRlZMQmxsMWFXUjZOQ3lwTjFYNnk3Zk9UcEF6VTEzam5pblN5OVM2TGNEMGF4UWZTWlc0UDZ2SDY3UmxkMXpvQQ?oc=5",
         "headline": "Bessent Urges Fed to Keep ‘Open Mind’ on U.S. Inflation Outlook",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790447520.0,
         "tag": "Global",
         "first_seen": 1790451029.9154716
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNQTNrTGdmdTRMZUUtUkZvbEY4TEgwY1VES0FrZ0NibEMydGJ2b0Z2UGdQWXY0Z0d2dGZ3YUpoWHRoUGF2UmhEbjdEUzRaWW5lQkV4V0NIZTB4WGtLRkxlbF9ET2F5WU5QbGNpSHZXbU9aMmRGdHZXaFlsQS1MbVphRGJnUUZRRlZfZk4xa2k3ZDhHZTdWQWFyUFFYVTZ4YnRQYVl0Q3hNYk5hb2hNYk1zQ2p2OGlhcGdBMXVJ0gG7AUFVX3lxTE1BM2tMZ2Z1NExlRS1SRm9sRjhMSDBjVURLQWtnQ2JsQzJ0YnZvRnZQZ1BZdjRnR3Z0ZndhSmhYdGhQYXZSaERuN0RTNFpZbmVCRXhXQ0hlMHhYa0tGTGVsX0RPYXlZTlBsY2lIdldtT1oyZEZ0dldoWWxBLUxtWmFEYmdRRlFGVl9mTjFraTdkOEdlN1ZBYXJQUVhVNnhidFBhWXRDeE1iTmFvaE1iTXNDanY4aWFwZ0ExdUk?oc=5",
-        "headline": "Bondmarket turmoil & debtyield feedback loop",
-        "summary": "",
-        "source": "The Financial Express",
-        "published": "09/27 03:00",
-        "published_ts": 1790445600.0,
-        "tag": "Global",
-        "first_seen": 1790506833.36002
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 07:30:54",
+  "updated_at": "2026-09-28 07:45:47",
   "yields": [
     {
       "label": "3년",
