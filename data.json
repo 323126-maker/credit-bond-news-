@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbV9wUHlUd0lqNWZLcTR1b0tZTXFCZk9VWi1Db21BZVRtZWM3N1FyWTJGUUxFTFVIaFkzNEp3ejJXT2RWOWdrSG9RN2dzTTZ1N3NGV3kxV1hSaERYYzhycXZsbmp5VU5CTnhVNWxRZlFpY1NJSndXVUNOcU9BSzktMjR0dGxlNFhpaGRFTjhTTQ?oc=5",
+        "headline": "AI 투자 '돈의 전쟁'…회사채 349조원, GPU 담보까지 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "09/27 09:58",
+        "published_ts": 1790470684.0,
+        "tag": null,
+        "first_seen": 1790474433.611267
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkd2JwUDFBbXFtaDNoRzN3bDJwLTVTN1cxTlNTdk9fTEtEUVJpLTQzZWFDNkg3NmhsV2NhbEMwdUhnNVJHY3RQR3k1U2YtUVVGeXloV05xTDdNcXZyT0xRYTRjRVdIYzI2NzdGNnUzYlhvNlcw?oc=5",
         "headline": "고금리 장기화에 신용시장 '양극화' 커진다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790322900.0,
         "tag": null,
         "first_seen": 1790325923.0313368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5lb2FmTmdPRmo4SnR6RW1qb05IUllXU2JoeDRmTC1hRlVUR1B4SEZ0WGktOVp4TW5VcGlCQ1R2dFdHZ3kwYkh2MElTYS01Wkx0RWJWV016MUhoXzBFd1JxZ2lEd0h5NWxBRnBMREoyci0xQmRK?oc=5",
-        "headline": "JP모건, KPN 주식 등급 상향 조정…수익 전망 개선",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/25 16:47",
-        "published_ts": 1790322420.0,
-        "tag": null,
-        "first_seen": 1790323235.1055112
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 10:53:32",
+  "updated_at": "2026-09-27 11:01:01",
   "yields": [
     {
       "label": "3년",
