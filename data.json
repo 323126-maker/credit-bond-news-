@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kVTV2c203MWt3V3JKcTN1YUlQMkRXRzFOR2ItamVqZmU3Z1d3WHZYdDlDdEtpOHdfRXJHOUV0S2JzamJPd2lIV2Q2b1VRbkJneWc?oc=5",
+        "headline": "은행채 4분기 차환 역대최대 27조 … 회사채로 '불똥'",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "09/27 16:46",
+        "published_ts": 1790495176.0,
+        "tag": null,
+        "first_seen": 1790496032.0916445
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGFpTW85SW5vb3FxRmhOQmVwQ1hScHpfdzlncXloMC1NbDNZcndteW9QTzZ1cmNpUVI3NEg4X2pUQ3YzQ2xHVFpWbW9sRks5UE1RYmozNHFKTlIwbWNiYUxpczVubFlzYXRwZlNQUnp2QUtEUVh5VUtYdUVLclZEVXlQSkJXRW84M3Q4bkRIQ0FreXdlLW9FeQ?oc=5",
         "headline": "외국인 투자자들은 순매도로 전환했고, 등급 상향 조정 첫 주 동안 자본 흐름은 다변화되었습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790338594.0,
         "tag": null,
         "first_seen": 1790350232.0097878
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9YMG1keWxtMUhMOGZyX21lY0w3ZUpzdmUyTUJUWE5lbEVHUEcxX1Z2NFNrT2hBc1R1R1BTOGlJc0tMU0MtZG52T0Q0QzkzR2FE?oc=5",
-        "headline": "[분석] \"채권시장 변동성 급등…비트코인도 유의해야\"",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "09/25 21:02",
-        "published_ts": 1790337742.0,
-        "tag": null,
-        "first_seen": 1790356527.8964868
       }
     ],
     "perpetual": [
@@ -816,6 +816,16 @@
         "first_seen": 1790492433.3812683
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05OXZXSE8xdVRCbndELTZhdlFadDQzUG1yMnN4RE5mUEpkb3RvRno2M1psWUlXY295LWlDNXpDcTRkblJEcDdFOXlYaFJGdmx4bGQxRHE3Yjltbkx5Q2g4SlFkVGg2Z0d3OGhON3FKQXhDdw?oc=5",
+        "headline": "올해 초과세수 50조원 넘긴다…반도체 호황이 끌어올린 역대 최대 세수",
+        "summary": "",
+        "source": "한겨레",
+        "published": "09/27 15:34",
+        "published_ts": 1790490840.0,
+        "tag": null,
+        "first_seen": 1790496032.0916445
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4wRTBTalJYMzJnS2hEZXEyRklqZ09pYlNRNF8zdmR4SG1lSmdhcm16MG5sa2tQZGRhNFBaaUdzMkMxcVU2YzV1S0tfMkRSRk5zcW9uZ0tBYlBuRE4zbEVYT3NMYUliZnEyQ09nNE5GWTM?oc=5",
         "headline": "[채권-주간] 요동친 美 금리…중동 정세·유가 변수 주시",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790105400.0,
         "tag": null,
         "first_seen": 1790141429.5890584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzZWcweVZTMzVuYXFxTjA3RE4za3o1STNPc1NvYkM4Qm1sWTE0WVZRVU5CVDdyVmpHTF9hLVhMTmdaa2VsQ1A0MkFWbGlRRWliUVE?oc=5",
-        "headline": "3년 만의 금리 인상, 내 대출은 어떻게 되나",
-        "summary": "",
-        "source": "브런치",
-        "published": "09/23 01:22",
-        "published_ts": 1790094166.0,
-        "tag": null,
-        "first_seen": 1790201722.0079544
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 16:45:46",
+  "updated_at": "2026-09-27 17:01:14",
   "yields": [
     {
       "label": "3년",
