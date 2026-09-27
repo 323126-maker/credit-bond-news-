@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QM1l4S09ycnVXS1A1QTZfbnR0MkN6c29FNklyMUVBZ1NUeU9YUkZock53cUpBcEYzNEdSVW5xeXFCNjVMNURzT3dWWVAyWVh6WVUxWC03TlZEdUJWaGlOUDlMMVdrYU1uR2pJcFdxTmRpYW15YURHb0FvNA?oc=5",
+        "headline": "U.S. Dollar Rebounds as Fed Reshapes Forex Markets",
+        "summary": "",
+        "source": "stl.news",
+        "published": "09/27 22:22",
+        "published_ts": 1790515340.0,
+        "tag": "Fed",
+        "first_seen": 1790515828.551993
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9Na1A5VFktOVE0Y2hwQVl5eWZEaS1veUhTSnVrZFpzZFA4dE13LThkbno0M09HX3UyMXdCOW53bzZBUXJUV2VFVU5YVHRQV2tJbV9GRjM3Y2I0UGJ5QV83ck5XSlpYMEZ1YngzNkprcVNnOFJyaXc?oc=5",
         "headline": "Conditions for a US Stock Market Crash Are in Place; Experts Warn Global Debt Black Hole and Refinancing Pressure Are the Fuse",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790406600.0,
         "tag": "Global",
         "first_seen": 1790407831.2441819
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPMFF4cnpmUnh6ZFpJdzZuVXpEQ0VvbHREQ2FfcWcxc21EdHFLUmhuWEN2bzZnaWtKWFdhN3VHZ3ZNWDJwMFBPc09wMWlEVE1NS0lmbGR5T2s4Q0xTUDA1YzljZnFPQzJpeEk4LWlaUTNFdmxHX0JpQnBSbUQ4MUUtWEJwUjYwcFFrYWptVzVSeHNaTzI1T1l0dUtjRFJ4ZTRVX1NxWlBXR1hYNzJIWmV2c25OVnJfdmU1VkgwOU82WG50Vy1rVDFyUEFUX1cyd1ZXRjA0bzVkX3h1S25naFByTDVQckhZRzU4OGhDQnEtYW5haUlfSXVwalFYX0FpUEI3eVJsLWwxSGVWai13bWExQnRyclBJcUt1OTNDUWlhRDJaVXZSN0oySnRFV3ZLZnhfWDJkZHRLTWNXa29tSTlwTmxVNk8?oc=5",
-        "headline": "채권 수익률 상승, 일본 자금의 본국 송환을 막다",
-        "summary": "",
-        "source": "IDNFinancials",
-        "published": "09/26 15:00",
-        "published_ts": 1790402400.0,
-        "tag": "JGB",
-        "first_seen": 1790434835.135048
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 22:18:38",
+  "updated_at": "2026-09-27 22:30:54",
   "yields": [
     {
       "label": "3년",
