@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5YWl90WVpMTFFPdC01Vl9ZS2k3dXphcHBSSU5lMkVQYWRydHlDTkpTZHQtM0ZGYzdKV2JwUkRjeFpzT0hqWV9NcnVWSnNOOEp2dTFzTG1R?oc=5",
+        "headline": "주간 금시세(금값) 전망... 월가 분석가들의 이번 주 금가격 진단은?",
+        "summary": "",
+        "source": "위키트리",
+        "published": "09/27 10:17",
+        "published_ts": 1790471820.0,
+        "tag": "JGB",
+        "first_seen": 1790472627.7246592
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcVBIbXd0M0p3cTBQSkJscFhVRDN6NUhqLUFXLWZ3eURJb1pBeGVRVWZLZEtMalA2TTJGWk9heHlVaWZTSFN5NGhiVXJUQ0dLV25QdXpGMnZBbk9IbjJvWXRtRTFXa3hGZ3BHYUVyZVRtM2padW1WSktFMjdiWWZ3NmxldXZxaTEtUEE0aURn?oc=5",
         "headline": "Bond Backlash Hits Advanced Economies as Rates Surge",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790369100.0,
         "tag": "JGB",
         "first_seen": 1790382627.2309718
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUEF6VWtyME5McDVSRjhHVkY2SnNVTTROYl9FX2d3X2JyME5lOWVTdk5iSDRSNmtfN1dnd0d0R2NVUURLR2VMczBMLXdTNFJSLS01dVZxZ0ZPbC1LbXdMWExzbDBQc0pBV0pyR2VFMldLQkI1SndCX3FDc1UyX1B6dXdGLW0?oc=5",
-        "headline": "US bond sell-off pushes long-term yields to highest since 2004",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/26 05:24",
-        "published_ts": 1790367878.0,
-        "tag": "Global",
-        "first_seen": 1790401521.2749326
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-27 10:15:47",
+  "updated_at": "2026-09-27 10:30:55",
   "yields": [
     {
       "label": "3년",
