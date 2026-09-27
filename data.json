@@ -72,6 +72,16 @@
         "first_seen": 1790496032.0916445
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5qbWpXQXplR3EtbUF5c2Y2QjRaZkNycWUtQXI3YkdBNlZjd2MtY015ZFN4OUotdHM3d1ZWQUZNSWtUVEE3Vm92RzNhSm5TX2RQTkJ0R05TbWbSAVhBVV95cUxOam1qV0F6ZUdxLW1BeXNmNkI0WmZDcnFlLUFyN2JHQTZWY3djLWNNeWRTeDlKLXRzN3dWVkFGTUlrVFRBN1ZvdkczYUpuU19kUE5CdEdOU21m?oc=5",
+        "headline": "美 국채금리 10년물 5%대 뉴 노멀 …국내 금리·환율도 상승 압력",
+        "summary": "",
+        "source": "아주경제",
+        "published": "09/27 15:42",
+        "published_ts": 1790491340.0,
+        "tag": null,
+        "first_seen": 1790546433.0104907
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGFpTW85SW5vb3FxRmhOQmVwQ1hScHpfdzlncXloMC1NbDNZcndteW9QTzZ1cmNpUVI3NEg4X2pUQ3YzQ2xHVFpWbW9sRks5UE1RYmozNHFKTlIwbWNiYUxpczVubFlzYXRwZlNQUnp2QUtEUVh5VUtYdUVLclZEVXlQSkJXRW84M3Q4bkRIQ0FreXdlLW9FeQ?oc=5",
         "headline": "외국인 투자자들은 순매도로 전환했고, 등급 상향 조정 첫 주 동안 자본 흐름은 다변화되었습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790366700.0,
         "tag": null,
         "first_seen": 1790370034.5106454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1Lc1pQVnBSTC0wamlzWHNKc2JNd1psSEx5cVgwX2tOZmNYWVQxT09PWUs3QUo4M1Z1QzZqVDJyR25EbmVUbl9ubFhyd2JSZE1qT2FqeHdMQ010TzJ0UDk5YmdQcUk1Qk1OLXc4MHBHY0Y?oc=5",
-        "headline": "Moody’s, 칠리스 성장과 부채 감소로 Brinker 신용등급 Ba1으로 상향",
-        "summary": "",
-        "source": "kr.investing.com",
-        "published": "09/26 05:05",
-        "published_ts": 1790366700.0,
-        "tag": null,
-        "first_seen": 1790367321.8190846
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 06:53:46",
+  "updated_at": "2026-09-28 07:00:57",
   "yields": [
     {
       "label": "3년",
