@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBXSjI3ZXNvLUNDV2UzNUxxc2JTdzhJSmsxMi03Zzktc0R1SE9LUHNaNEhqVkJVVzFFT3NKWnJzSVZTUHFBeVgzcFhETEhqc3M?oc=5",
+        "headline": "[하현옥의 세계경제전망] AI 기업의 회사채 시장 공습…숨은 빚 늘고 국채 구축 효과도",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/28 00:18",
+        "published_ts": 1790522287.0,
+        "tag": null,
+        "first_seen": 1790523029.947541
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CME05anBnaDZWRVE4VmJKUzlQVk5mTmpZcEgtVGl1bWt4MW40WjRBWjQ4bVNkbktZVG5iWWdqVDdIUVJfdGdwTkl3?oc=5",
         "headline": "벤자민 코웬 \"비트코인(BTC), 주봉 마감이 4분기 운명 가른다\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790366220.0,
         "tag": null,
         "first_seen": 1790367321.8190846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4a29EcklJTmlWTnJXSDJsUHI0SHkwY0tjdDFabWJ5dXJiZVMwVjI5SWRENXpRTUJYUW5STVAzS1VRVG5vcHp5NUdITmxsTWlabkdUT2I3b0g4QQ?oc=5",
-        "headline": "국채 고금리? \"정상화 과정\"…AI 채권은 \"비중 축소\"[박신영의 개장전 요것만]",
-        "summary": "",
-        "source": "hankyung.com",
-        "published": "09/26 00:48",
-        "published_ts": 1790351309.0,
-        "tag": null,
-        "first_seen": 1790352038.679759
       }
     ],
     "perpetual": [
@@ -876,6 +876,16 @@
         "first_seen": 1790459122.2794132
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBGTFNGZ0pqS1B3Wmp0cUgtWHhWOEFIZElLcHBRMi14YzUwd1RmWXN3aUptMUVYQXBpV0psRGs2YzNnWExfYU5xYldEenhDeXVkc3lfU2RwRG81YUVkQU1lMVJpN3ktQ3oxVGpIdEpJX1FOZw?oc=5",
+        "headline": "철강산업 뉴스",
+        "summary": "",
+        "source": "ebn.co.kr",
+        "published": "09/27 06:00",
+        "published_ts": 1790456400.0,
+        "tag": null,
+        "first_seen": 1790523029.947541
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmUE1TOHBNWTFWU2hBQWp1RW9SdTF5eWFId0hIdTQzWkhxRHQ2RUo3c0ttQTgzSU93SElxTTRSZjVHbHB4T25mamtSLTRrdXowZ3lOcWZDODk1cl9yWjliatIBYEFVX3lxTFBmUE1TOHBNWTFWU2hBQWp1RW9SdTF5eWFId0hIdTQzWkhxRHQ2RUo3c0ttQTgzSU93SElxTTRSZjVHbHB4T25mamtSLTRrdXowZ3lOcWZDODk1cl9yWjliag?oc=5",
         "headline": "올해 초과세수 '50조원+α'…내년 미래대응기금 200조원 넘을 듯",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790118939.0,
         "tag": null,
         "first_seen": 1790124326.5335195
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4zMHI0SGdmM1BKWnNMdDVUblNYdUFiOWpBZDUySzBwdzNDV1ZRdEhNV0NvNVA5Yk1WRWJ3VmZsTWVwQWRLeWpVY3I1TQ?oc=5",
-        "headline": "\"금리 더 오른다\"…금리전망 35개월 만에 최고",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/23 06:02",
-        "published_ts": 1790110920.0,
-        "tag": null,
-        "first_seen": 1790141429.5890584
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 00:15:47",
+  "updated_at": "2026-09-28 00:30:53",
   "yields": [
     {
       "label": "3년",
