@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnNTZG5USUxkRjFzajBLR0xGeG1zby1tdDVMX1JvZDEwdzNoelhlWGw0dlhpVmZyM1VlbHRpQ2NOVExGd3BtVHd2bVAyYmhNckY2X3M0QTNjXzZQNXJjM2ZNN0NGWmVyZXBQVHJiV0FjcFY1NHlfbElHTjBXMzVVenhVM09oM1daQ1ZfQ2ZB?oc=5",
+        "headline": "부동산 채권 시장이 다시 활기를 띠면서 금리가 연 12~13%까지 오르고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/29 01:41",
+        "published_ts": 1790613666.0,
+        "tag": null,
+        "first_seen": 1790621123.125208
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd01ScUIxTzNwZGdSZ3NvM29qU1Fja3c2RlhMTThISDk4bzVPb1ZtTXBwam9RQlBiY2lGT2gyaW9zbUVKVlFPS2ZNMEtWem9fZmNyeGw0ckw4SjBEU1paYng0OHphVlRQX3NHSHhIRVRqMDlWTTJCY3F4dGJfUFQ3Y1hoeUo4MEhuUW10cE93?oc=5",
         "headline": "Western Digital Corp (WDC) 주식 움직였습니다 하락 3.97%에 9월28일: 전체 분석",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790552950.0,
         "tag": null,
         "first_seen": 1790559922.4999921
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDRnNNY0paSXN3NmV0YnB1QzIxR3ZueTdReERURy1NQlp0ZEdlUGRVcUpUbnJQaDlWM1BuSS1tNEpTSUVJUnBtbzdvdkNlSzdHTm5zeS1xRnlWN1B0ZnIzUkFXQ1NoandielFSalVPckk?oc=5",
-        "headline": "악재 딛고 8만4천달러 회복한 비트코인…채권시장 변동성이 반등 가른다",
-        "summary": "",
-        "source": "news.einfomax.co.kr",
-        "published": "09/28 08:29",
-        "published_ts": 1790551748.0,
-        "tag": null,
-        "first_seen": 1790567121.6244168
       }
     ],
     "perpetual": [
@@ -1278,6 +1278,16 @@
         "first_seen": 1790560833.098432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMU09iaUpQeE1EemJ1dlRsU3ZqU3BjTEhqVUMtQnZGWEpQZ2ZvMkVialZzQ1ZKNmExazFsMWNMeUlpM3ZEQThGdFFnUUc0ZEtqalJCSDN3Y0dZMVJwNEE?oc=5",
+        "headline": "청와대 \"우크라 '비공개 합의 없었다' 거짓 발표...공식 사과 요구\"",
+        "summary": "",
+        "source": "YTN",
+        "published": "09/28 02:55",
+        "published_ts": 1790531700.0,
+        "tag": null,
+        "first_seen": 1790621123.125208
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVzJnTXg5YnBCQ0Q3SGczekNXQmJoc0RaaXhVRVROQjRxNmgwMExWbXlFTTQzeFRicXlOZjNBbjFReVJRR0k1bElXUkxQbjBMSlE?oc=5",
         "headline": "“이재명, 젤렌스키를 살인자라 해”…러 매체, 발언 맥락 바꿔 ‘왜곡 보도’",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790081814.0,
         "tag": null,
         "first_seen": 1790082041.5281591
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBEUkR2RVBiWnkyb0VjdHBhYk1BbUVHaWJHRWpmbV9WLUI0X2R2QjA0ZG9DRzU3OXZMNWpDR3VFSlJkYWRHdGc?oc=5",
-        "headline": "“대선용으로 돈 감춘다? 기가 차”…추미애, 재정위기 논란 적극 해명",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/22 19:48",
-        "published_ts": 1790074080.0,
-        "tag": null,
-        "first_seen": 1790305235.2579992
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 03:30:58",
+  "updated_at": "2026-09-29 03:45:48",
   "yields": [
     {
       "label": "3년",
