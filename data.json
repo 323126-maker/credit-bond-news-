@@ -1258,6 +1258,16 @@
         "first_seen": 1790560833.098432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9DVzJnTXg5YnBCQ0Q3SGczekNXQmJoc0RaaXhVRVROQjRxNmgwMExWbXlFTTQzeFRicXlOZjNBbjFReVJRR0k1bElXUkxQbjBMSlE?oc=5",
+        "headline": "“이재명, 젤렌스키를 살인자라 해”…러 매체, 발언 맥락 바꿔 ‘왜곡 보도’",
+        "summary": "",
+        "source": "매일경제",
+        "published": "09/27 16:03",
+        "published_ts": 1790492598.0,
+        "tag": null,
+        "first_seen": 1790576126.4988692
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OXzhOSzNDRHlGZ1ZkMFdVR1NlNW4yQ2twUDRvaXRwOHBEQTFYeE91ajhJWnctaW4wQVJmNjVheWFkdXdkMFpSVXFYRi1XU0k1UXlYRTlfZ1R5eWVOYnFMYXZjTdIBaEFVX3lxTE55cVhLcGt2LVRRQ1Z4cUN3SUk2bUltT1ZRQ3ZWTnpsSWVKN3pZdGx2M05LdVFJcHlMZDYyLUN3TWlYdENEc000YXltdWJCREV2c1R4XzI4aUxWQm5VNExNU2RydkRMNnlH?oc=5",
         "headline": "[미리보는 국감 2026] 운영위∙재경위∙행안위 최대 쟁점…인사∙부동산∙경찰개혁",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790064722.0,
         "tag": null,
         "first_seen": 1790070327.5723927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA0b01neGtuZG5KOHNpUTZjbVU5aFB2M2p6VUNhMUxsNWVSZFo5T2pydzUtZE5mRm1Id3M4Qlc0ZGtSWWdaWHVObU0xRExjTG9kSkZLU011dUZiM000?oc=5",
-        "headline": "모두발언하는 이형일 부총리 겸 재정경제부 장관",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/22 17:10",
-        "published_ts": 1790064600.0,
-        "tag": null,
-        "first_seen": 1790085640.276984
       }
     ],
     "global_bond": [
@@ -1758,6 +1758,16 @@
         "published_ts": 1790561401.0,
         "tag": "Global",
         "first_seen": 1790567121.6244168
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObVNPU3BlUGRkc3J2VVZlZ1EyM0NnY2hDX2hxX0gxWE8ta1NsdkVMRldpdHNHdTdaaHZha08tYWV3UDFraGxjTmZPaEI1eHAyWThvdlFPMzhya1pmbHBCRkd4T00yeFpsckZnQ1pZeGd0eXdHZmgtSmpRalF6a3RrbnNEWDhOdGRzSHhvSWw4dHFIRHNGSkdGVDRvbnB1NG5XX09PZWl2aEVGZUpBa2s3MjcyY3lwdlJwWlZB?oc=5",
+        "headline": "US 30-year Treasury yield hits record high amid deepening global bond selloff",
+        "summary": "",
+        "source": "internationalfinance.com",
+        "published": "09/28 11:00",
+        "published_ts": 1790560821.0,
+        "tag": "Fed",
+        "first_seen": 1790576126.4988692
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBSSFN0d1U4djNUZVMzdWZxLVhTd0JQLUpPa2N1Q2xJZXl0Nm5NQ2pTRU9JaDktZk53S19obk9xMGs2Y1FUQ0JOWTkzNnR3bDdYMkt5R1hhdUdoRXBia2F6aXZic3VnMHJWeFhQdXc0LXd3LUk?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790527789.0,
         "tag": "Global",
         "first_seen": 1790574329.0035126
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLURldnBGOXJZYmlpcUpBWU5SbTFXVzNpWVhVZTFidjk5bFhLYkNETTdxeFlRd2hpUVBqdElpXzVaSWJzZVR2QjJwa29sZDNoaHBzS1c4Z2hlZmxTTzZZQ19tdkg4M0kyQ1pmbFBJc0JCUFZmdmhyUDhpWW1lSG5ROXduOHpVcDdjV1drdmdwTmRoQV9GYVdtZzFVcnFxcXdZWEN3?oc=5",
-        "headline": "Philippines’ gross borrowings plunge in August",
-        "summary": "",
-        "source": "bworldonline.com",
-        "published": "09/28 00:54",
-        "published_ts": 1790524459.0,
-        "tag": "Strategist",
-        "first_seen": 1790524833.4352121
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 15:01:13",
+  "updated_at": "2026-09-28 15:15:48",
   "yields": [
     {
       "label": "3년",
