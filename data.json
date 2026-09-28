@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBZUE3Y2N6bUlUVmZTTkp3SnB0MEo0b1VUMVp2em50Rnh1Um5abFB5S0Q0ZDNaTVh4SXo5TUhCbXhBVzVyUFEyblJibUxmWVNRU2RxVXNLN3kzUHY4WDhfNFhwek5YX2R5SlpXZ0w2bng?oc=5",
+        "headline": "[외환-마감] 강달러·외인 주식 매도로 상승…7.60원↑",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/28 18:21",
+        "published_ts": 1790587285.0,
+        "tag": null,
+        "first_seen": 1790587832.4916027
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FbUxnVm5IeVU1LXZvS1VuTDFvNVRDd3RyeV9kb3dZU3ZuZTNJakJFUTJPZnU0cURja0Fvd1FqYVJ1WndzVFM3bVEzajZFZkVmOHQ4eHBZU2V5Z1hXbnpOeldLWWN6RTR0NEdkclQ4V2dJSHc?oc=5",
+        "headline": "빚은 무겁고 만기는 짧아졌다…SK 1500억 회사채, 흥행 '시험대’",
+        "summary": "",
+        "source": "마켓인",
+        "published": "09/28 18:06",
+        "published_ts": 1790586364.0,
+        "tag": null,
+        "first_seen": 1790587832.4916027
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVEpYd2VsOE91azFibGRJaUxhemZCUWNBV3d0dXpyNm04ZEQwNzRzUC1nZ0s2cTFBMWxsX0E3Y2VkM3VuODlzQl9FN0lPNElHTzdmd2V6RFJiVzVJY3EyWDVRZ3FjZGEzcW1hSThQV1LSAXRBVV95cUxQOFBHOGpiZldrazBhb0dzYlh4dlVBUjhtQ1JtNUM5cXVRaXN6dEtrX0g4Mk5iVGdfRmhPNklqb19LOVlaQzBpZzNjekhrUTh1dEVldm51bU1VRUNVR2ZaaGoyQ1pEOUJPN1Y2Q19OZzQ4MXVrRQ?oc=5",
         "headline": "FX스와프, 美 금리 상승 반영하며 하락",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790486468.0,
         "tag": null,
         "first_seen": 1790487027.2738192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1qcUpLYmtTZWJSSmVKSXljVU9PY0RadnRwbHBSTlk2Q2lyMl9sTTZaRnFRZjFqOVdoOTN3QTFNQWxSNzNYa01qMHd0ajFvQlBTWUhqZkdKODDSAVhBVV95cUxNanFKS2JrU2ViUkplSkl5Y1VPT2NEWnZ0cGxwUk5ZNkNpcjJfbE02WkZxUWYxajlXaDkzd0ExTUFsUjczWGtNajB3dGoxb0JQU1lIamZHSjgw?oc=5",
-        "headline": "[아주사설│기본·원칙·상식] 美 국채 30년물 6% 경고…한국 경제 대비돼 있나",
-        "summary": "",
-        "source": "아주경제",
-        "published": "09/27 13:48",
-        "published_ts": 1790484529.0,
-        "tag": null,
-        "first_seen": 1790490630.9617221
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9vQVpoaWF0b1QtZ0FzRFNGdmhIQmEteTZsTkRCbEhBODhpcGpqTnpZTTBlLTE3eWdQWklwbTlaV3dPVTZwM2ZMejdxcHQ1SGdpMlVRY2h5aFQzeDROYVlpV05zei1Bc1JFUGphMWhuU2Jidw?oc=5",
-        "headline": "[채권-주간] 요동친 美 금리…중동 정세·유가 변수 주시",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/27 13:00",
-        "published_ts": 1790481600.0,
-        "tag": null,
-        "first_seen": 1790534725.1041105
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 18:15:48",
+  "updated_at": "2026-09-28 18:30:55",
   "yields": [
     {
       "label": "3년",
