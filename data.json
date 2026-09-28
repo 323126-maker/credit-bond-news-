@@ -12,6 +12,16 @@
         "first_seen": 1790565328.6642118
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8tT3dCSUtDcTdNSEFsTGhRb3I4ekJPeWZLcFkyYldSR2VjLXptMGFia0duZ2Y1QnZ2MFBweDQ5TkowaXYxTnNmbW1UbzR4LUpleVdVS3FOVU5lTlRp?oc=5",
+        "headline": "美 국채금리 5%가 부른 청구서…한국도 ‘이자 폭탄’",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "09/28 11:41",
+        "published_ts": 1790563275.0,
+        "tag": null,
+        "first_seen": 1790569836.402082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53V3dkeHpiZU5ZcGNpbU81WDlhbXpqM19HaXZBemg5cjE0SkktNVVMSEVLVXdCTkMwWHRTckZPN1VvU1hGOHB3S2ZSa1A1SG5xdTBTcHBKdks4T25oRzBjNkU2WQ?oc=5",
         "headline": "美 채권시장 공포지수 급등…회사채 금리, 더 오를 일만 남았나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790390169.0,
         "tag": null,
         "first_seen": 1790420434.450802
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBXa1JaZV9lNTlsdDZqXy1zUWE5aEM5MmhZdDFnNUlJYmo4VWtleklHMVN2anB0VUVXam9wOHU5a1pVNVUwX3dicWFON1AtMXkzaGZ4M014V0Y3bUtFcENkbkgwUQ?oc=5",
-        "headline": "“투자는 1.2조달러, 수익은 아직”…AI 거품론 다시 고개 [이슈+]",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "09/26 11:33",
-        "published_ts": 1790389981.0,
-        "tag": null,
-        "first_seen": 1790390723.282571
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZW9MWi1ZdU5qT0Y1MUJZTV9KZUg1dWYxc0JRRnZsUTJQWkxuV0NGazBIaWhqUTVkR2F6dzdTV0dDQW5YanBOUHlrLU5HSThhdUdPWDM1WXFaZE55TktQXzlDZE9XUWdta2tiWXY2RzlWZjNleXJLdEZPSUQ2elFSTV9DemxzSUhndnpBbjdOM0V2X1c1V0VyeWl3Q2ZuZ2phdEpPMGlqeGFMeXB4N2JNNFNCMzBvQ3I3THlXazJJVQ?oc=5",
+        "headline": "Scott Bessent Says Fed Should Keep 'Open Mind' on Interest Rates",
+        "summary": "",
+        "source": "benzinga.com",
+        "published": "09/28 13:19",
+        "published_ts": 1790569176.0,
+        "tag": "Fed",
+        "first_seen": 1790569836.402082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOGl4MnVpTWVRa1dXMy1sd2Q0TlN1QzJBb18zWUZKN1pIV1NDZzk5azFkdEU1Q05WVWJsbDFyZ1p1aVl2d0FfVGhsZldCTnF3aGJ3WERpUXI?oc=5",
         "headline": "일본 2년물 국채금리 1.925%…2%선 근접",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790516931.0,
         "tag": "Strategist",
         "first_seen": 1790525726.5645182
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QM1l4S09ycnVXS1A1QTZfbnR0MkN6c29FNklyMUVBZ1NUeU9YUkZock53cUpBcEYzNEdSVW5xeXFCNjVMNURzT3dWWVAyWVh6WVUxWC03TlZEdUJWaGlOUDlMMVdrYU1uR2pJcFdxTmRpYW15YURHb0FvNA?oc=5",
-        "headline": "U.S. Dollar Rebounds as Fed Reshapes Forex Markets",
-        "summary": "",
-        "source": "stl.news",
-        "published": "09/27 22:22",
-        "published_ts": 1790515340.0,
-        "tag": "Fed",
-        "first_seen": 1790515828.551993
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 13:15:46",
+  "updated_at": "2026-09-28 13:30:59",
   "yields": [
     {
       "label": "3년",
