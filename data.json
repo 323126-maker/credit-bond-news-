@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9SNXFuWjlOYlNtNHFxSjNzYmFvdnMwc1Z1MERXZzNocTVnekdZejdPNzdaQXZfVTIwQUFsTlBZaENjVE9lYngwbGZXd3NvN2FYVC13dlJR?oc=5",
+        "headline": "[외화채 조달전략] [하나증권] 1년물 2조 육박, 美 금리 인상에 차환 부담",
+        "summary": "",
+        "source": "DealSite경제TV",
+        "published": "09/29 07:00",
+        "published_ts": 1790632823.0,
+        "tag": null,
+        "first_seen": 1790634629.6239827
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IcjlBdnhWdWtrcHZsWXJGeGdIT0N4MUhPSW85QzFxclk1U0ZBb0pWWFB3aUltQ2F5YmNUZHFzMXJkMjdRWkhTUGsxNi0wVDFDVXVnOWtXRldGZG5xT1VaU1BROXZMU0poakpzR0VzMWRoZw?oc=5",
         "headline": "국채선물, 美 국채 약세에 하락…10년물 17틱↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790576394.0,
         "tag": null,
         "first_seen": 1790585127.3608649
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5maTc3ZVoyT0dLVm80S3JweGw3NU9lZ245ZWNva1FSQmlpT19sTk1UQU9XTWNNMnFmYjdEZjBqZzlKV0pwUTR5bGF0eXZXU0E2SFJlMzhBaGlCNklnSnVLQ0FCLXhEQU50?oc=5",
-        "headline": "서유럽 기업 6곳 중 1곳 '재무 압박'…車·부동산 한계, 韓 영향은?",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "09/28 15:19",
-        "published_ts": 1790576381.0,
-        "tag": null,
-        "first_seen": 1790578835.8934271
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 07:15:47",
+  "updated_at": "2026-09-29 07:30:52",
   "yields": [
     {
       "label": "3년",
