@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBFQ05zWG1fLXZ2QmdCMkNzNFozSFdfZ3NuTFBOLXVzdzZqbjA5UnhReGF3bGN2NmtCTWdURWszMXJYNHlvSklILVhSLTJmaGd5OVh3VlhwWHNNcEVR?oc=5",
+        "headline": "[모닝 리포트] \"카드채 금리, 만기도래 채권보다 최대 1.35%p 높아\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "09/28 09:18",
+        "published_ts": 1790554680.0,
+        "tag": null,
+        "first_seen": 1790555435.1028075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2dFUnZyZVBhRlpOV1NWMFVkUlB3c29yRUJTV0pyeGZtSGNXVHItM1p6TXVLUEt2ejh1RllVMEpieFNRYy1GaFhjY3lSRFRoWWNyaDZCX0dPWFEzMEx0T2NrUmVma29fVVluWUpHV1BObkJGanljN3JzOU1aQkF1WTBpc2RFU3Bo0gGcAUFVX3lxTFAwOG1NYThqWWNSRmtnclJPVkZ1U2pXN2hoQjE5WXZEenBnVFJMU1RfZ1F5QXVlUkdCVURTRTVkTkV3UzVmc1dNbjIwNlBTaWNfcHhSemktZUpuN0FsWjUyeXdJQnRaZGFIVEVNal9rdHJWM2dfNllMV3pOcVVTaWVNOHlSMEpSM0RKOWQxaWNjWkNnRUZwMFRQVW5xQQ?oc=5",
         "headline": "국채 금리 ‘5% 시대’...美 정부 재정적자와 AI 회사채 급증으로 장기화 가능성 - 조선비즈",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790368484.0,
         "tag": null,
         "first_seen": 1790370034.5106454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YX3JEZEgxdnUwNkdkUkxoYUVSZVlTYjMxRzhyUVUteGVCUEJocTgyTmMyU21VRmtwempIZlc1VUtmM3MwSGhKZE10cHcyT1g1SV9Mb3BPWVc5TGNkWEdEb0x5SkpPRmNZMlVuUjB6RUw?oc=5",
-        "headline": "무디스, 부채 감축으로 BJ’s 홀세일 전망 ’긍정적’으로 상향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/26 05:13",
-        "published_ts": 1790367180.0,
-        "tag": null,
-        "first_seen": 1790371830.23178
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1tb256XzRfdWE2STFQNjd2MmUzYnFKN212LXg0dGZoYk9Kd1Y1MHIxdE9fa2pQVUhla3o2Sm1iNnNfc3pIeDBCR3NudW1DTXhnWkI2Wk5yRWtHR0NxN2FsSE9Qb0hERmVyUXZuS2RScWluaE1LM29XZWxlaDM?oc=5",
+        "headline": "일본 장기불황의 원인을 둘러싼 진단 전쟁: 2001년 디플레이션 선언을 계기로 [김성민의 일본 위기 딥리뷰]",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "09/28 09:27",
+        "published_ts": 1790555268.0,
+        "tag": "JGB",
+        "first_seen": 1790555435.1028075
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNOGNxcGtoYTFZSmNSamZQMV91VFNpNTV4eDVyaHZ3SHBCOFBTMGtNSmZ0N2RGaVpkUEM2cTcxMndYREtucmN3SUZuSWpqZWN1bTlzNGk2aEpWWWlHVGQ1VmZhWlVXcERmcmp1RW9NY2JRSFV0YTJZVno2ZmlPblBqY0pGcUliRGxpTUZwMjhnOTJISjZKWlQ5WExn?oc=5",
+        "headline": "Andrew Hill Investment Advisors Q3 2026 Client Letter",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "09/28 09:15",
+        "published_ts": 1790554500.0,
+        "tag": "Global",
+        "first_seen": 1790555435.1028075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS29Mb3Fzc3N2Zk1YMXJGM2ppaTFJMU5TR1FmVE5QUkJRWTA4VlF0SEZTVUY3T3hNcFNNZkxVejJnSm53ME9YdFluWjkzWTlUcVlybi1ZN18wSFJnU3loVEM1VUs5cm9YZUk2NXlEWlNDVllmMXZuRVlmRjh5RkU2OFlPSTFxZm8?oc=5",
         "headline": "美日 구두개입에 156엔 급반등… 160엔 방어선 시험대",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790463949.0,
         "tag": "Fed",
         "first_seen": 1790551867.340905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDczenh5ZUYyZ3M5bjdUWHlMVlFOTU44SnRhcVBFR1JkcXZEOXNUSU96VHo5VXBBWFR5QjRxTFc3YzNUbUVNQWZLSjJBdTJNLWd5WFRfb09RZWl5NVhmbDdzSWtUYmZ2S0VCV2tHRU9FTmRTUVNPRXF3NmxxYWNsWDk0Z0FLWmxaVHpQdHJMMjM5XzVDd3RaVy1STDNQNjV2c3R4TEFqXzhObHpFQmFUUlNPX0pTZ3M2UHVZV0ZzYVl6N01qTFpKQ3BnOVc5SXJud3V3?oc=5",
-        "headline": "SpaceX (SPCX) Fell Despite Investment-Grade Ratings — Why the $20B Bond Deal Matters",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/27 07:46",
-        "published_ts": 1790462768.0,
-        "tag": "Global",
-        "first_seen": 1790505924.3323846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uU1RRM202bDdTTmNNOFUtRWJwSWNjVHFBUmJBYllTNkJrWThCOWFDYzI0dl9wRjA1WTNVWlVOWWI1ZUxHclprY091bEF5Vm9tZmt1M213V0VvRFHSAWBBVV95cUxQSU5ZWVpHbjRHRlQtSTlNX3c0cjVtX0JQbEFCUUlPSU56S0lKcG5RSkEtN2pHS2lKcmxwV3NndVVBUUNrZFRBMVIwOFJrekIzMElvdDlfUDU0UV9hTExNajM?oc=5",
-        "headline": "[마켓인사이트] 추석 연휴서 돌아온 韓증시, 상승흐름 이어갈까",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/27 07:00",
-        "published_ts": 1790460003.0,
-        "tag": "JGB",
-        "first_seen": 1790483428.0644798
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 09:16:00",
+  "updated_at": "2026-09-28 09:30:59",
   "yields": [
     {
       "label": "3년",
