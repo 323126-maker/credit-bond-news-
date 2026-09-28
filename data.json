@@ -1660,6 +1660,16 @@
         "first_seen": 1790607639.4777222
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOajQxRW9uXzB2bEFTb2hwZXVTYVltUGdOT3NhMlY5dm85M1lFYmNSYUZuNFdRbERHcG1LSGw2Z3lSX0szZ3JSaHZyVWJPLUhHYXFVX3lwaGYwYlhDVXNtZUpSUTQtenU1cW1EYW1BNkZNVENwT3llTnBzWVBocUhuWmVtTUxNbTZ1ZDFNLVJDOEVyUHhMbGVmYmZMVnlMTF83dTV4Z2lFU0NDQnl1ZTZMLWVBcTNMOVBjcEFUcDNldUxGdHUwSHRGRC14SmpjZw?oc=5",
+        "headline": "Are investors still confident the Fed can tame inflation as yields sell off further?",
+        "summary": "",
+        "source": "Yahoo! Finance Canada",
+        "published": "09/28 23:15",
+        "published_ts": 1790604937.0,
+        "tag": "Fed",
+        "first_seen": 1790611417.0407894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQWZrT2x1Y2VLTkhwSjVROTFSdldORGJBQjhDbVVhQTZLbHlKV3BSVk1uTnZ6WHFTLVBIaGpKZ0lSbWU5cHR6bUVTb2dSeFBtVjlJbFJqaXQtbU1PdFBF?oc=5",
         "headline": "Oil tops $108 as bond markets brace for US jobs data and Fed signals",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790575860.0,
         "tag": "Strategist",
         "first_seen": 1790582437.8575613
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZNFFrYmcwWFhoMWszYU44b2QwR21rZnlzaFZxby1QbERuWTBib3NRSGJQSk0zSkEtU0E5NnlzQWFlOVlTbC1neFA1NFNMOC1NRzVVQkxPYVotXzBDWHNCUDdOaDBjM1Z2Yk9Da3lB?oc=5",
-        "headline": "美 국채금리 30년물 연 5.5%까지 올라...22년 만에 최고",
-        "summary": "",
-        "source": "딜라이트닷넷",
-        "published": "09/28 14:58",
-        "published_ts": 1790575107.0,
-        "tag": "JGB",
-        "first_seen": 1790592331.01085
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 01:01:02",
+  "updated_at": "2026-09-29 01:04:03",
   "yields": [
     {
       "label": "3년",
