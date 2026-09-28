@@ -92,6 +92,16 @@
         "first_seen": 1790501427.89389
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQek5KQkNXcFJPMEVqV1dMM3A2OWMxS3FNdmlObU9hR2RoOXR5WmtXSE5HM2hlT1l5Q2xIbnQ5VW93Uy05cmpLd284VG9qa01CbnZZc29DLTBjR0luNVRlbGhmSDlNemN4eFpKNzJLZkZWSmFnbGhOWU4yMXVISzFBZ2k5YXlWa2RveWxGYVF5SXctdnptQzFwUEFPM0RiQks2MXJFbEM1emE?oc=5",
+        "headline": "TradingKey 월가 주간 리포트: S&P 500 및 나스닥 상승 마감, AI 반도체주 주도, 국채 금리 5.2% 고점 근접, 유가 98달러 하회",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "09/27 17:26",
+        "published_ts": 1790497560.0,
+        "tag": null,
+        "first_seen": 1790557232.9343688
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1kVTV2c203MWt3V3JKcTN1YUlQMkRXRzFOR2ItamVqZmU3Z1d3WHZYdDlDdEtpOHdfRXJHOUV0S2JzamJPd2lIV2Q2b1VRbkJneWc?oc=5",
         "headline": "은행채 4분기 차환 역대최대 27조 … 회사채로 '불똥'",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "머니투데이",
         "published": "09/26 05:53",
         "published_ts": 1790369598.0,
-        "tag": null,
-        "first_seen": 1790370034.5106454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaUm9rSmlpY1NVQzBRcXRwSnRSS093NEhQbjVDYVV5YWsyN1RGYXdIYWg1QUdyVW5MNEFYbEhlMXdkempOdTRiUTczZ0JveUk4Q0ppQWtTOEV3Tk1fZ2diVXJ5TWh6ZjlZRFRJZTNDdndYdw?oc=5",
-        "headline": "[뉴욕채권] 국채가 혼조…호르무즈 기대 '전약후강'에 10년물 5.2% 하회",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/26 05:34",
-        "published_ts": 1790368484.0,
         "tag": null,
         "first_seen": 1790370034.5106454
       }
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaYnhoZTE0TEhhV2xuNmpZOWROX0otdEI3bTZwWmZ2Z1NybjFHNDEyZ0xFcEVEWmVBQ3dhZXU5UEN2MkVpZVloTFNLQVlhMi1BcDE2SUlLVjRZel80SVBDU3pieXptYUE?oc=5",
+        "headline": "내일 청와대서 ’메가프로젝트 3차 점검회의’…“지역 정주여건 조성 논의“",
+        "summary": "",
+        "source": "연합뉴스TV",
+        "published": "09/28 09:47",
+        "published_ts": 1790556420.0,
+        "tag": null,
+        "first_seen": 1790557232.9343688
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OXzhOSzNDRHlGZ1ZkMFdVR1NlNW4yQ2twUDRvaXRwOHBEQTFYeE91ajhJWnctaW4wQVJmNjVheWFkdXdkMFpSVXFYRi1XU0k1UXlYRTlfZ1R5eWVOYnFMYXZjTdIBaEFVX3lxTE55cVhLcGt2LVRRQ1Z4cUN3SUk2bUltT1ZRQ3ZWTnpsSWVKN3pZdGx2M05LdVFJcHlMZDYyLUN3TWlYdENEc000YXltdWJCREV2c1R4XzI4aUxWQm5VNExNU2RydkRMNnlH?oc=5",
         "headline": "[미리보는 국감 2026] 운영위∙재경위∙행안위 최대 쟁점…인사∙부동산∙경찰개혁",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790054836.0,
         "tag": null,
         "first_seen": 1790071244.0231156
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNekpDX2ZLdXVNdWJ4Zm1jclhjbmVzUFAxQ3JMaUFaT3dvUmtOYmFLZlZudlVLcXc1RDAzdEU4TVgycGltdTA2clZaY0k3MlE4aVpDTm16LUJvMUkydk5wcG94THVRQWkxT3luQ0RzSUdIeEU5VFRzX3ZWcWFnOXJVdjlFQmpYdw?oc=5",
-        "headline": "추미애, 38분간 재정위기 해명... \"이재명·김동연 까발리기 아냐\"",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/22 14:19",
-        "published_ts": 1790054340.0,
-        "tag": null,
-        "first_seen": 1790154923.8177457
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 09:45:48",
+  "updated_at": "2026-09-28 10:00:58",
   "yields": [
     {
       "label": "3년",
