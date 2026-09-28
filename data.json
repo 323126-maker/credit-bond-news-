@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLThuWjEzYmk5MXdLaFAwcjBlZVBSMHJfZWhJM2dLbFlHMTZ0bG14OTYxdS1qVGxFeXJQeHYtZDkyQ0pfdEk5eXNEZ2VHUGQ2aTRXVV9iUEU3T1FBNDI5NkVicDJWSkFXaUdIekpnUjRCdWFveUQ5NmlwZk1BVENUQUxXSHlFbXhwcmRGUmkwa0t5RzdDZ2MxOFBDei1BZWhPdVVtak5DaXdoLW1UQWJNdDFySFBUTzdtMEE?oc=5",
+        "headline": "Kganyago warns SA debt bill is still much heavier than the US, UK",
+        "summary": "",
+        "source": "news24.com",
+        "published": "09/28 23:59",
+        "published_ts": 1790607591.0,
+        "tag": "Strategist",
+        "first_seen": 1790608524.0277004
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWWNtZklZNWZ4dGNpTHR5X2tDMG9HTy1XWkRRcnk4a2RFNHg5ZE9XVlFlLXZudzVPSEdlY0pCbGZpdGR1T3NkOEhIVnliekZWcXY3TFNyYUJUbVczTVVxUmtOSU0zYTY3S01IR1NEU3k0aEpEUE93UmZPTU55aGgtazJtcnQtRWhRYlJrRUptc25TaEFjaU9nMFA1bXh1ZncxOFE?oc=5",
         "headline": "Schiff on Metals and Miners: The Fed Can’t Fix the Yield Problem",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790572577.0,
         "tag": "Fed",
         "first_seen": 1790577926.9573817
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWDFlQmNvVXZVYWRqTXBkbFVXTUVyOVVrT1dzRnBLcEFyNzR2ZlRSWWhLMXF5Z21yem56blRBRXhVZEVOYVFkZ2FyeGhNaHdYUDcwVVlsNWs?oc=5",
-        "headline": "日 2년물 국채금리 2% 육박… BOJ 연속 금리인상론에 31년 만에 최고치",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "09/28 14:00",
-        "published_ts": 1790571621.0,
-        "tag": "JGB",
-        "first_seen": 1790572524.6619937
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 00:01:03",
+  "updated_at": "2026-09-29 00:15:53",
   "yields": [
     {
       "label": "3년",
