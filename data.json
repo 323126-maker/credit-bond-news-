@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUxfOUo0aUxvR2NPS01kSjhzR1ItNWRxa0JKSjJ4VFF6TFp6TVhEQjJlY3B5Y3FqZ2hhTkY1ZTg1QVBUMmJaQTl1ZWhNN1hHVlloZU11SkFBVGE1SVAydWlhMEh6SlVVWWtmcXZTRldwN0VIMGlELU1hdm5YLW4zbk9iNFVZbzY1UWJVTU84cHZ6a3pwN0FZbWpBaUFzYVVvTk0tMV9TbkVVM0xSdVZURUVOMTM?oc=5",
+        "headline": "Traders grow wary on emerging dollar bonds as US yields soar",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "09/29 00:33",
+        "published_ts": 1790609608.0,
+        "tag": "Global",
+        "first_seen": 1790610327.1938312
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQLThuWjEzYmk5MXdLaFAwcjBlZVBSMHJfZWhJM2dLbFlHMTZ0bG14OTYxdS1qVGxFeXJQeHYtZDkyQ0pfdEk5eXNEZ2VHUGQ2aTRXVV9iUEU3T1FBNDI5NkVicDJWSkFXaUdIekpnUjRCdWFveUQ5NmlwZk1BVENUQUxXSHlFbXhwcmRGUmkwa0t5RzdDZ2MxOFBDei1BZWhPdVVtak5DaXdoLW1UQWJNdDFySFBUTzdtMEE?oc=5",
         "headline": "Kganyago warns SA debt bill is still much heavier than the US, UK",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790573580.0,
         "tag": "Fed",
         "first_seen": 1790586038.5856128
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkRUcHlvUzFla1FOZXRaazJlOXFOOTEwSnhIaTFIa3JmeFVpUW5NV0FZRXZXZmZqOFJmVlUyMm5obmIzZDM5RGRhUDAyRE53eE5icDg5Q3FEMDQ2eTI3RTRtdkpURG5mQmM3YUY5ekVVTWpISUdMNGRlS3dKdC1mS3ZRQ2FRenBMZ1FOQmdUdGhSTjVoQUZrVVBiZmc?oc=5",
-        "headline": "What Fed’s rate hike means, how it impacts Americans",
-        "summary": "",
-        "source": "The New Political",
-        "published": "09/28 14:16",
-        "published_ts": 1790572577.0,
-        "tag": "Fed",
-        "first_seen": 1790577926.9573817
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 00:30:56",
+  "updated_at": "2026-09-29 00:45:52",
   "yields": [
     {
       "label": "3년",
