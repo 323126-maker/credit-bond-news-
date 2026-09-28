@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9venRpLVhJLXVnSENDNGNmX2hmd1VsNmR5NTZmTnlMZ0phYXZhZWt6UmJwT1FHVjBfVExsREtmdTJBb295WWdpVnltdjZ4cklVZFRybmh1eC1VeFdHbFJMd2hHT0PSAWhBVV95cUxObTYwdUl5cVl2dkVsTmc0SjdVSWREaG5NV2xhWWluOUVqZ1JzWVB2bzdXeFVUaGg0WmVZOVFNREtLM2tESFl4eDZ3dTVBanhiWjRDWmM5MEVPVjZoSnFfQjhkQ05sR1VISQ?oc=5",
+        "headline": "조달금리 1.26%p 뛰었는데 카드론 금리는 제자리… 카드업계 '이중고'",
+        "summary": "",
+        "source": "매일일보",
+        "published": "09/28 13:22",
+        "published_ts": 1790569334.0,
+        "tag": null,
+        "first_seen": 1790573434.1377409
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBadmhpQWEwMmFTMkx6dzFtQWlyWEo5RlZZNWw2Y0UtTElRQ3VrZGFobE5GQkoxTU5fS1pmUnVCWnowazJDSjF4bGJjNHhtYTA?oc=5",
         "headline": "글로벌 고금리 공포⋯원화채 금리 더 오르나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790201340.0,
         "tag": null,
         "first_seen": 1790207125.2130032
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91d2IxTU1EazdNTlNZenNGcGVnTEFQdGtMQzJrZng5QmQwMDkyWHlmYUlTYW5QZ2JMMXNoMjZtb1lrVjlLeWxrZ1ZZNDJaM1JJWjlOeFZ1cGhvVEtyMzlRTGZCWElIYXRP?oc=5",
-        "headline": "WGBI 특수도 11월이면 끝…12월부터 韓국채 시험대",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "09/24 06:00",
-        "published_ts": 1790197200.0,
-        "tag": null,
-        "first_seen": 1790236838.1769717
       }
     ],
     "politics": [
@@ -1690,6 +1690,16 @@
         "first_seen": 1790568034.6930718
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5tQXE5RXFNLUNpN1ZXT3NtcjlIaUg4V3BqSlJ2cFlnQzhDZjlRc2t6azA3Nlg5RjdNV0VURXFkOVJLbHRxM1hSWnhiMmFON1pLb3o2YVBRcnZVbC1Kb2QtNWJ5M2dxMGNybVZSRHEyOXI3amc?oc=5",
+        "headline": "트럼프 엔저 압박과 日 국채 딜레마 -> 끝나지 않는 미완의 통화 전쟁 => 엔화 과소평가 경고한 백악관과 탈출구 잃고 덫에 걸린 아베노믹스",
+        "summary": "",
+        "source": "데일리머니",
+        "published": "09/28 12:46",
+        "published_ts": 1790567163.0,
+        "tag": "JGB",
+        "first_seen": 1790573434.1377409
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXVpOHFqRXZvTTJYU0cwN0Zpd0hEc3B4dTVYbHBjeU9IMWxrX0l2cHhrT0lsXy11cXIzRFBQTEtMVWstUTFtRWxscXdHdXR2QjlCMndQaktwZ3ItVmNfUktQcHV0dHJZSjByMkdZM2RQbkxvNEt6ck9MLVFpeGRWYm0zX0w0MUxjdDFvelRmWHNsb0x6dFZNeVhPSllYd3lxcVdBZUNfVkR1Ql9VajVLQUdVazQ?oc=5",
         "headline": "Japan’s Two-Year Bond Yield Nears 2% as BOJ Rate Hike Bets Mount",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790523239.0,
         "tag": "JGB",
         "first_seen": 1790523924.2209864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZk5GQzRBYXlFM3BZb1FDMTFuOC1kTUxSTl91NlpycHFVNHN4TWJ2Mk5pMGdkZ0JzWE1vOU95T19Wc2dFQS1PajFOSXlXUzdleHlSaHJuaWNQdDREai15NEpiR0hIWHNZQ0plclJwdnJuZXlSWXhMcmlhUW40MG1MQjdkcEZMWGUzTTlKczBR?oc=5",
-        "headline": "0~1% 국채 속속 만기… 5%대 국채로 틀어막는 선진국",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/28 00:31",
-        "published_ts": 1790523060.0,
-        "tag": "JGB",
-        "first_seen": 1790542835.7434096
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 14:15:47",
+  "updated_at": "2026-09-28 14:30:57",
   "yields": [
     {
       "label": "3년",
