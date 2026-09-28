@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSbEdZb1Q1Mnh2VVNQS3hacjdKcHVhamlESGNJd3dteHBfMzB3dVpGeUNPcld6b3d6d3pyV1ZnUDgzVFNBNVlLWGhxQ282RXlLbUpxakJBVlI3NTZ5UVNvU0F4V0J5eWljdjlBLW01Y2VUUQ?oc=5",
+        "headline": "美 국채 5.2% 쇼크…연중 최고 뚫린 회사채에 기업 조달 ‘비상’",
+        "summary": "",
+        "source": "마켓인",
+        "published": "09/28 22:27",
+        "published_ts": 1790602066.0,
+        "tag": null,
+        "first_seen": 1790603125.8801208
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTGlOb0drcl81QzVPZlJrcE1CVGpQMkZxQmJibjZzRU9BSTZ0cTBpSjVjMVRzOUhkSjVLMFZ0V0JFV2txVnZLZnp2VQ?oc=5",
         "headline": "아마존·알파벳 잇단 해외채 발행…AI가 채권시장 바꾼다 : 금융",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790522287.0,
         "tag": null,
         "first_seen": 1790523029.947541
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CME05anBnaDZWRVE4VmJKUzlQVk5mTmpZcEgtVGl1bWt4MW40WjRBWjQ4bVNkbktZVG5iWWdqVDdIUVJfdGdwTkl3?oc=5",
-        "headline": "벤자민 코웬 \"비트코인(BTC), 주봉 마감이 4분기 운명 가른다\"",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "09/28 00:00",
-        "published_ts": 1790521200.0,
-        "tag": null,
-        "first_seen": 1790522123.2398562
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 22:30:56",
+  "updated_at": "2026-09-28 22:45:50",
   "yields": [
     {
       "label": "3년",
