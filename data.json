@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB2a3RpTmtiREg4Ml9GTVJlNlljQXFWSXk5NTVYZ1EyNFBkcnVKUmVScExTNk93WjlOYldYZ1h2V0hqWVY1S3VQWWJtRDZNdlZoaXZlY0daWU9ZeXdSczhDYU1pR0ZTbDI2alVRNm9tWEhMM0U?oc=5",
+        "headline": "버크 앤드 허버트 파이낸셜, 후순위채 발행 추진…기존 채무 상환 목적",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "09/28 21:38",
+        "published_ts": 1790599134.0,
+        "tag": null,
+        "first_seen": 1790599523.1025562
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA1em9jXzdUQUVwdVVXZUlPUXVFbnRGc1FLWTI4RGJXamZBV0w1bTcxdFYtcFNrY0lpNGFXcEVKWVA5SG8wcTdlbHh4LWpiWldLNHM2Y29PbmZlYlJaWDI2YnBoWmU?oc=5",
         "headline": "금융 노사, 은행 창구 30분 덜 연다…임금도 3% 인상",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790118639.0,
         "tag": null,
         "first_seen": 1790119831.0968938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE50ZXVxbWJLOFJpMlIwd2tSY2VQcXEzT20zM2s1TXRnS256bUtWZjA1MEZLM25WUEJTbmY5bXJ0YllOVmVYcE10emxWdk43TXFNTzM2eDZJTWJpYzNUa2FaakNSRVRaOUE?oc=5",
-        "headline": "수익 감소에도 주주환원 '강행'…BNK금융지주, 밸류업 이행에 자본유출 '심화'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "09/23 08:00",
-        "published_ts": 1790118002.0,
-        "tag": null,
-        "first_seen": 1790312434.1355934
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 21:30:58",
+  "updated_at": "2026-09-28 21:45:49",
   "yields": [
     {
       "label": "3년",
