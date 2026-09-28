@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWDlOaE4tNUdvRDd2b2p3amFMQUl6cnJxdUpLNEp4T19uR25pMWpkSy1JTlRiMGtwT2VkUWxLS3hJLW1IMC04Wm5tZ1diWHREc2Y4ajRrT3hQZ0gy?oc=5",
+        "headline": "한국 10년물 국채 금리 미국 2.3배 속도로 올라…한미 격차 좁혀졌다",
+        "summary": "",
+        "source": "supple.kr",
+        "published": "09/28 14:48",
+        "published_ts": 1790574534.0,
+        "tag": null,
+        "first_seen": 1790575246.9547465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjM0lGWm9Dd0ZMSWNkaUNfelJHR0pwWS1hNmQ5dWV0YU9lTTJRVm5WRzJHekV3ZS1wTFBaY3MwTDh6SHdaYWtsTmpnUkw5bXM?oc=5",
         "headline": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다[머니뭐니]",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "biz.heraldcorp.com",
         "published": "09/24 12:11",
         "published_ts": 1790219490.0,
-        "tag": null,
-        "first_seen": 1790257528.8258085
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkNHFKY2o2SnlTOHVrOXJEU0N4dXFBZjZxZ0hvak90UGhqUTVXcDllNm9aWUhVSnBCdTRmZjlLMDRuLVRfUXczbV8yWmRHcDlMdjNqRG1zcnd5SjZudUsyb1dtLVFEQmtFMko3bnNPajdZdw?oc=5",
-        "headline": "이억원, 추석 연휴도 업무 모드…환율·레버리지 ETF 국감 대비",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/24 09:20",
-        "published_ts": 1790209201.0,
         "tag": null,
         "first_seen": 1790257528.8258085
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 14:45:56",
+  "updated_at": "2026-09-28 15:01:13",
   "yields": [
     {
       "label": "3년",
