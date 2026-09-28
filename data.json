@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE44SXk3LW9uOXVqMWtUSWJ1eU5yWTB2WlFrcGJScDQ2M2h1aWJ4ZTl5RjN4SkdxRDhZclBDbjZ4Ry1vMEticlFuUVh0d2RPYXZVWTVQbDNVUWpDZEM3WVV3ZkstcDE4UGtLazZGVGJfNF8?oc=5",
+        "headline": "하나증권, 글로벌서 3억달러 조달…WM·IB 성장 기반 넓힌다",
+        "summary": "",
+        "source": "Korea IT Times",
+        "published": "09/28 13:43",
+        "published_ts": 1790570580.0,
+        "tag": null,
+        "first_seen": 1790571633.4619884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Z0cyMV9OZDluTUV6WmdONzh1QmFNLUdhM19ERDhZcE5DTzRGZ1JVVFlHRnY1eWxSOUdON1M5V1ZrVXA5THNhdTBfZlRjV0E?oc=5",
         "headline": "하나증권·코웨이 등 추석 전 2.8조 조달…CP 차환·운영자금 확보",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790063225.0,
         "tag": null,
         "first_seen": 1790066731.690606
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB6aDVfRlFQMzhPUXFFYUp5RVVnc205SkNCS3hlSmNMak0wWW5GR1d4ZmVLTjRxYzAtYnlQR3p4dnBhZGlOM09SU2ZR?oc=5",
-        "headline": "기업은행, 소폭 상승 마감…자본증권 발행 정정 공시 주목 : 기업주식정보",
-        "summary": "",
-        "source": "재경일보",
-        "published": "09/22 16:09",
-        "published_ts": 1790060940.0,
-        "tag": null,
-        "first_seen": 1790115328.5222244
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 13:45:48",
+  "updated_at": "2026-09-28 14:00:57",
   "yields": [
     {
       "label": "3년",
