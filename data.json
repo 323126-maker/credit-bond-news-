@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvbXViQ0I1VnlkODVXblBsQlZLMlhCRWNIcktyQjhQdmNpN0czekoyaUVWWUVEVnpjSWRsdTdobEJkMzF2THpfSGNqVTBfR1Z3QmlLeWZxeEozcjNzOGVsc1R3UWtSZVhuZnZoX0FKZlbSAXRBVV95cUxNUVI2VjlTZ3dWYUZCM1prMllUeEx0QXVJWXVFMGxnUXlWd25IWlVCNDZpMzE0Y1JHZTQzVGRGOE1LU2FnVHdzU2JieWljaHpTa0N1QkctZUJqZ010R3dhVGNHQ2p4ZU0zX0pmeGxrUGtrWW9VbA?oc=5",
+        "headline": "[뉴욕증시-1보] 이란 7일 로드맵 퇴짜 놓은 트럼프…하락 마감",
+        "summary": "",
+        "source": "news.einfomax.co.kr",
+        "published": "09/29 05:11",
+        "published_ts": 1790626292.0,
+        "tag": null,
+        "first_seen": 1790627435.1856935
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBSYnJqUjVzR1ZvMVE5R0xhUENEdHdZTE0tUi04LWx2M0JlVUUzMDI4aXozRVV0TEc5RFhsUmxFQ3JiNVZsNXJmQWVwekR5Nm1GLUs1WnZuS0lKWXVhV1lxZzY3WVZCSmFFWmRtMXgyOFVuZw?oc=5",
         "headline": "[뉴욕채권] 국채가↓…호르무즈 불확실성 속 30년물 금리 22년여來 최고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790554680.0,
         "tag": null,
         "first_seen": 1790555435.1028075
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS2dFUnZyZVBhRlpOV1NWMFVkUlB3c29yRUJTV0pyeGZtSGNXVHItM1p6TXVLUEt2ejh1RllVMEpieFNRYy1GaFhjY3lSRFRoWWNyaDZCX0dPWFEzMEx0T2NrUmVma29fVVluWUpHV1BObkJGanljN3JzOU1aQkF1WTBpc2RFU3Bo0gGcAUFVX3lxTFAwOG1NYThqWWNSRmtnclJPVkZ1U2pXN2hoQjE5WXZEenBnVFJMU1RfZ1F5QXVlUkdCVURTRTVkTkV3UzVmc1dNbjIwNlBTaWNfcHhSemktZUpuN0FsWjUyeXdJQnRaZGFIVEVNal9rdHJWM2dfNllMV3pOcVVTaWVNOHlSMEpSM0RKOWQxaWNjWkNnRUZwMFRQVW5xQQ?oc=5",
-        "headline": "국채 금리 ‘5% 시대’...美 정부 재정적자와 AI 회사채 급증으로 장기화 가능성 - 조선비즈",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "09/28 09:10",
-        "published_ts": 1790554211.0,
-        "tag": null,
-        "first_seen": 1790554535.3327322
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 05:15:50",
+  "updated_at": "2026-09-29 05:31:01",
   "yields": [
     {
       "label": "3년",
