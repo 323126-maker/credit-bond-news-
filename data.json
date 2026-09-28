@@ -1980,6 +1980,16 @@
         "first_seen": 1790569836.402082
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXVpOHFqRXZvTTJYU0cwN0Zpd0hEc3B4dTVYbHBjeU9IMWxrX0l2cHhrT0lsXy11cXIzRFBQTEtMVWstUTFtRWxscXdHdXR2QjlCMndQaktwZ3ItVmNfUktQcHV0dHJZSjByMkdZM2RQbkxvNEt6ck9MLVFpeGRWYm0zX0w0MUxjdDFvelRmWHNsb0x6dFZNeVhPSllYd3lxcVdBZUNfVkR1Ql9VajVLQUdVazQ?oc=5",
+        "headline": "Japan’s Two-Year Bond Yield Nears 2% as BOJ Rate Hike Bets Mount",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "09/28 13:16",
+        "published_ts": 1790568960.0,
+        "tag": "JGB",
+        "first_seen": 1790598635.920367
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9yOGl4MnVpTWVRa1dXMy1sd2Q0TlN1QzJBb18zWUZKN1pIV1NDZzk5azFkdEU1Q05WVWJsbDFyZ1p1aVl2d0FfVGhsZldCTnF3aGJ3WERpUXI?oc=5",
         "headline": "일본 2년물 국채금리 1.925%…2%선 근접",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790568320.0,
         "tag": "Global",
         "first_seen": 1790568922.7713737
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CR2dRcGVvc0o5ZURBSEhSVEVsd1V4UDRBZGRIdFNyWndhX3hqYzJnTmRNbl9Ua3dDUlJpS0wtckRIOTU0VElGYjFINGNFV05kZk1raHpTaXRzSTUtTF9DMTJLZzNrMUZKQmc5Q3RqY04?oc=5",
-        "headline": "For once, the Fed has put Main Street before Wall Street",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "09/28 13:00",
-        "published_ts": 1790568018.0,
-        "tag": "Fed",
-        "first_seen": 1790570724.4330661
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 21:15:48",
+  "updated_at": "2026-09-28 21:30:58",
   "yields": [
     {
       "label": "3년",
