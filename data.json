@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9lUzhqTjhRZ3ROc2pJV2VtTmd1UkdrMDN0Q0NxUUhPV2hzdHF4MHc5TDhFNU55QXdGaVlSeTFZTUVoT3ZHRERJR2lKZzlSUVk?oc=5",
+        "headline": "\"연휴 이후 크레딧 단기물 분할매수…10월초 안정 확인 필요\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/28 15:29",
+        "published_ts": 1790576943.0,
+        "tag": null,
+        "first_seen": 1790577926.9573817
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85S2FBa1NBZlMzSUU5b3F4Z3V0M2RvX3BnRjdXS2hacWpzZkZGczNWbTg2MXhGTFZzbENhUXc1OGZiX2VnRGlFSUpqZkxfbWRreUhuNA?oc=5",
         "headline": "글로벌 고금리 공포⋯원화채 금리 더 오르나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790413321.0,
         "tag": null,
         "first_seen": 1790415030.4113805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxORGI2dVFDbFZMbXlib292SkdWbzZ5ZkJoZkUzdmZYam9NakZ3UjdyMTF2UkIyTjY3ZlBvUi1PN3EyenV6NDByUDM1b3J6YTZsVmdMWjBqd3JQdUZRNDVKblZrdXFaVU9uUUprWkxzV3I4T0RxSEtvSWlyYVI2TGJENG9HQlJlNkx6akVUTmNfNkpUTGx5al9Z?oc=5",
-        "headline": "투자자들은 인공지능 관련 회사채에 대해 신중한 태도를 보이고 있다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/26 15:41",
-        "published_ts": 1790404894.0,
-        "tag": null,
-        "first_seen": 1790408722.4510717
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVkRUcHlvUzFla1FOZXRaazJlOXFOOTEwSnhIaTFIa3JmeFVpUW5NV0FZRXZXZmZqOFJmVlUyMm5obmIzZDM5RGRhUDAyRE53eE5icDg5Q3FEMDQ2eTI3RTRtdkpURG5mQmM3YUY5ekVVTWpISUdMNGRlS3dKdC1mS3ZRQ2FRenBMZ1FOQmdUdGhSTjVoQUZrVVBiZmc?oc=5",
+        "headline": "What Fed’s rate hike means, how it impacts Americans",
+        "summary": "",
+        "source": "The New Political",
+        "published": "09/28 14:16",
+        "published_ts": 1790572577.0,
+        "tag": "Fed",
+        "first_seen": 1790577926.9573817
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWDFlQmNvVXZVYWRqTXBkbFVXTUVyOVVrT1dzRnBLcEFyNzR2ZlRSWWhLMXF5Z21yem56blRBRXhVZEVOYVFkZ2FyeGhNaHdYUDcwVVlsNWs?oc=5",
         "headline": "日 2년물 국채금리 2% 육박… BOJ 연속 금리인상론에 31년 만에 최고치",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790531880.0,
         "tag": "Global",
         "first_seen": 1790543725.0748818
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFRrMWd5cEw1cUR4N21jNzhiN21zQ3lzWEtfWFFXekE2b0h4RUNvUFBvVUZIYWZqTmdaYmdJMC14RlhvaFRMbUZQWnFhR0Z2Q01VcWxGV2F5Z0g5aFRQTl9razdaRzlnSWxiNzh0N2pPYVh3SXJ2OTJwc09jeDlCcG9MT2hEN1htOXdnWTZOTUpIMjVuOGc3cFdmYXdJUDVURXZSU01wSm1uSVFaUkxuMA?oc=5",
-        "headline": "Mortgage Rates Today: 30-Year Fixed Tops 7% After Fed Hike and Bond Selloff",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "09/28 02:28",
-        "published_ts": 1790530087.0,
-        "tag": "Fed",
-        "first_seen": 1790537428.4519296
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 15:31:00",
+  "updated_at": "2026-09-28 15:45:50",
   "yields": [
     {
       "label": "3년",
