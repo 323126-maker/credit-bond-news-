@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjM0lGWm9Dd0ZMSWNkaUNfelJHR0pwWS1hNmQ5dWV0YU9lTTJRVm5WRzJHekV3ZS1wTFBaY3MwTDh6SHdaYWtsTmpnUkw5bXM?oc=5",
+        "headline": "은행 고정형 주담대, 아무리 싸게 빌려도 연 5%…월 200은 이자로 나간다[머니뭐니]",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/28 14:24",
+        "published_ts": 1790573040.0,
+        "tag": null,
+        "first_seen": 1790574329.0035126
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9venRpLVhJLXVnSENDNGNmX2hmd1VsNmR5NTZmTnlMZ0phYXZhZWt6UmJwT1FHVjBfVExsREtmdTJBb295WWdpVnltdjZ4cklVZFRybmh1eC1VeFdHbFJMd2hHT0PSAWhBVV95cUxObTYwdUl5cVl2dkVsTmc0SjdVSWREaG5NV2xhWWluOUVqZ1JzWVB2bzdXeFVUaGg0WmVZOVFNREtLM2tESFl4eDZ3dTVBanhiWjRDWmM5MEVPVjZoSnFfQjhkQ05sR1VISQ?oc=5",
         "headline": "조달금리 1.26%p 뛰었는데 카드론 금리는 제자리… 카드업계 '이중고'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790209201.0,
         "tag": null,
         "first_seen": 1790257528.8258085
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9uWkJ1QXh1UEpMQ2k0NGpGcUk1ZFluTWFHbnBWSm5SY2Z5M20zWlhUYWtNc0I2RGloQk5zUV82QjAzMHZrQ0c0bnVLTUJZTjFWMVNV?oc=5",
-        "headline": "\"1등급도 5% 육박\"…고금리, 고신용자도 못 피했다",
-        "summary": "",
-        "source": "데일리안",
-        "published": "09/24 07:09",
-        "published_ts": 1790201340.0,
-        "tag": null,
-        "first_seen": 1790207125.2130032
       }
     ],
     "politics": [
@@ -1990,6 +1990,16 @@
         "first_seen": 1790537428.4519296
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNc1ZzempXQU5oOTJJY1UwS0xRZHV2YlpkT2x3RmFwVHh4Snc5Z2FZdTdZTXRCWkhsZlo5SFNxdVdwa3dkVy1WTkJZd1NrV0Rjc1FOYjUxWTA2WFFfSDB0Mkpla2poS3ZTeldXUERiaVBFeWhPUGxTRnRqczROQlVHR2l1ZDQyaUtORDVGRGFJY2xHZWRVNl85clp4X0k1dmdTVzI1RXJQMA?oc=5",
+        "headline": "Learning to love 5%",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "09/28 01:49",
+        "published_ts": 1790527789.0,
+        "tag": "Global",
+        "first_seen": 1790574329.0035126
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLURldnBGOXJZYmlpcUpBWU5SbTFXVzNpWVhVZTFidjk5bFhLYkNETTdxeFlRd2hpUVBqdElpXzVaSWJzZVR2QjJwa29sZDNoaHBzS1c4Z2hlZmxTTzZZQ19tdkg4M0kyQ1pmbFBJc0JCUFZmdmhyUDhpWW1lSG5ROXduOHpVcDdjV1drdmdwTmRoQV9GYVdtZzFVcnFxcXdZWEN3?oc=5",
         "headline": "Philippines’ gross borrowings plunge in August",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790524459.0,
         "tag": "Strategist",
         "first_seen": 1790524833.4352121
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbTJlMEwyZVFqOWZPVzlMakpEWWpVUlY5dHhfZTFQR2hZTWN1anJHU3RyRGEwU3h5clc1TnNDenJnZlVQX2dvQ3Vpd2NrTlEza05LVXNYSlZmVkVzSGx0MFVKd1BHbURnZWZ1bWRodU1obHZuM1lyRzR4cVNFMGVrb1p2bDFaMzM2QWtNZ1lB?oc=5",
-        "headline": "Advanced Economies Refinance Low-Rate Bonds at Higher Rates",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/28 00:33",
-        "published_ts": 1790523239.0,
-        "tag": "JGB",
-        "first_seen": 1790523924.2209864
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 14:30:57",
+  "updated_at": "2026-09-28 14:45:56",
   "yields": [
     {
       "label": "3년",
