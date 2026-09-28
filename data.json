@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTGlOb0drcl81QzVPZlJrcE1CVGpQMkZxQmJibjZzRU9BSTZ0cTBpSjVjMVRzOUhkSjVLMFZ0V0JFV2txVnZLZnp2VQ?oc=5",
+        "headline": "아마존·알파벳 잇단 해외채 발행…AI가 채권시장 바꾼다 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "09/28 22:04",
+        "published_ts": 1790600640.0,
+        "tag": null,
+        "first_seen": 1790601325.7450387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzlNdlZFM2ZnZGhfNVBpUk02ZW9kMkc5ejBleVpOU19sdHdzeVBXYW50U1NjQXVuR1ZwR1BJTy02ZXlqODIzOVY2OUxBb1JHXzNKNzE0OEVHRlgxaTFwU1RFakRrSDlkTS1DNmhZY2EyN3RpVTRTR1JaS0hyWVNKeXhPeGVzY3Fx?oc=5",
         "headline": "AI가 채권시장 판도 바꾼다…빅테크 회사채, 국채와 자금 유치 경쟁",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790521200.0,
         "tag": null,
         "first_seen": 1790522123.2398562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtQ09LalRzOU9mOWpIdlZNbW5hQWIxQUFYQWlHUWVhLW5JUEE5Ri1EY0NIYXczT0N2R1RxYldLamtvMFV3VVptOEZJYl95T04wQ3VDNEtheXVzWHprU1U5dUVlemZSd2t6MTFsdEtNTE92b2tCclpsX0N1cw?oc=5",
-        "headline": "美 국채금리·마이크론 실적 대기…연휴 뒤 코스피 향방 가를 변수는",
-        "summary": "",
-        "source": "이데일리TV",
-        "published": "09/27 21:33",
-        "published_ts": 1790512436.0,
-        "tag": null,
-        "first_seen": 1790572524.6619937
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBvQWZrT2x1Y2VLTkhwSjVROTFSdldORGJBQjhDbVVhQTZLbHlKV3BSVk1uTnZ6WHFTLVBIaGpKZ0lSbWU5cHR6bUVTb2dSeFBtVjlJbFJqaXQtbU1PdFBF?oc=5",
+        "headline": "Oil tops $108 as bond markets brace for US jobs data and Fed signals",
+        "summary": "",
+        "source": "Межа. Новини України.",
+        "published": "09/28 21:54",
+        "published_ts": 1790600081.0,
+        "tag": "Fed",
+        "first_seen": 1790601325.7450387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1RUzJFY2FVY2NjUWtSOHNFMzhvQVVhb3BVbkl3TGZOTTZieGJaaWM0Tk1fd05IS1QzSFZMU2dxb1BKcTg2MC1hRUVFSEw1NXNYS2N3VEg1ZDA2dUJDTlhZZDJnNU5rS2tuRkhvbU5hTGRFNTNRN2c?oc=5",
         "headline": "Bond Market Warns of Growing Risks for Stocks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790569176.0,
         "tag": "Fed",
         "first_seen": 1790569836.402082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZXVpOHFqRXZvTTJYU0cwN0Zpd0hEc3B4dTVYbHBjeU9IMWxrX0l2cHhrT0lsXy11cXIzRFBQTEtMVWstUTFtRWxscXdHdXR2QjlCMndQaktwZ3ItVmNfUktQcHV0dHJZSjByMkdZM2RQbkxvNEt6ck9MLVFpeGRWYm0zX0w0MUxjdDFvelRmWHNsb0x6dFZNeVhPSllYd3lxcVdBZUNfVkR1Ql9VajVLQUdVazQ?oc=5",
-        "headline": "Japan’s Two-Year Bond Yield Nears 2% as BOJ Rate Hike Bets Mount",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "09/28 13:16",
-        "published_ts": 1790568960.0,
-        "tag": "JGB",
-        "first_seen": 1790598635.920367
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-28 22:01:05",
+  "updated_at": "2026-09-28 22:15:49",
   "yields": [
     {
       "label": "3년",
