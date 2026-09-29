@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUhVdFU2bnVxWFhoRHo4M0JYbUlaVnlkT2RsNzJ4Q0dIRmFzNUttYkdiRmpENjYyLWJ0MjVsUGhwQVI4VXpIeEY1VFJ5bGZNNFd1VmZFdHdqR1BpWi1ZSlI2ZWxhR1pKS3FPTWlfOUhBcjFvNW5SUklPR2VMcTFPWmt0RExwWHpkUC15ZW52WQ?oc=5",
+        "headline": "증권사 조달 '단기→장기' 이동…A급까지 회사채 찾는다",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "09/29 22:00",
+        "published_ts": 1790686836.0,
+        "tag": null,
+        "first_seen": 1790687727.6186717
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11QzJBNDh6d18zak81Zzl0blZLNDJ6MTF3bl83Nm5NWVVuUk5ibVRNM1BickJybDhGLWgwTWRtSGpUZ3Q5LXZFTDl0aGVKcXllVWNWcGdB?oc=5",
+        "headline": "“AI가 채권시장까지 집어삼킨다”…빅테크 빚잔치에 국채도 긴장[디브리핑]",
+        "summary": "",
+        "source": "biz.heraldcorp.com",
+        "published": "09/29 22:00",
+        "published_ts": 1790686800.0,
+        "tag": null,
+        "first_seen": 1790687727.6186717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE80Nnp2QVBRMVlfSlJua210R0JCdFhRcjFDQ2VnMEEyT193dEgxOGdHM09icmF4MnNPeDJaSE9hem9NSmcyV2g4QXNWd2xBT1ZneVNLRXEtU3ZaY0k1?oc=5",
         "headline": "[집중진단] 美 국채금리 5.2% 뚫렸다…증시, 더 버틸 힘 남았나?",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790630279.0,
         "tag": null,
         "first_seen": 1790653522.9542515
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9lTE9OR204QjlTajlJamxMcGRQcTREWmZ0WlBqYjJ5Z1ZiM3I0WmRCY2ROd01PTDFNOXN6SGdTNDZpTUJxWXZqaUUzZWRhdU1YZGJ1OXJkNWt0SUVV?oc=5",
-        "headline": "CP 시장 내몰리는 저신용 기업…3개월마다 ‘돈 걱정’ [계륵된 회사채]③",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "09/29 06:00",
-        "published_ts": 1790629200.0,
-        "tag": null,
-        "first_seen": 1790631029.6315174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2ODRjcTFyemczb2c2cUpWOW9LYVB0WGpQYVZxdDJHNlJmSkh2VmUxRUpjY2hCQ1dxdDRlVFAybU9GSGpObDU5ZXZUWlQ5dXlGZE9jWQ?oc=5",
-        "headline": "발행사도 투자자도 금리 상승 공포… 시장 급랭 [계륵된 회사채]①",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/29 06:00",
-        "published_ts": 1790629200.0,
-        "tag": null,
-        "first_seen": 1790630123.8869195
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oUWpjSzhjRER4bjlNcGxxaVB0cjBPcFRTNXRIaUZXTXhMaTRURGxCckZBOFl1YlZJaVFyX3JMT09zMzhVMFhKXzhqeHFyckN5M1hOQjdBMnRGdGVFc1d0R0t3?oc=5",
+        "headline": "US Money Markets: Value in extensions given the aggressive Fed discount",
+        "summary": "",
+        "source": "ING Think",
+        "published": "09/29 22:13",
+        "published_ts": 1790687639.0,
+        "tag": "Fed",
+        "first_seen": 1790687727.6186717
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXlWM0ZDdnhlaUsxZ1FzUkRUdk5QVzFjTHp4YXQ4NWxhajBaY1VaZXpWcTlFZklCa3UzZng1M2UyZDAzQVBROVZyVnNxeGhsQ2phWEZRU3dXM25uSzdEQnRXX3BhTjRDbFZROGhnWFU5V0drR0JHbmVmNjVLcXVfVkNZRjlTREc4ZmVjUzNqam5MaTU1VWdVbDkyMmZNNDZuWElNSnpxdmlqZExOY3d1OHRpY2FTdw?oc=5",
+        "headline": "El-Erian's 5% yield call meets a Bank of Canada coin flip",
+        "summary": "",
+        "source": "Wealth Professional",
+        "published": "09/29 22:01",
+        "published_ts": 1790686914.0,
+        "tag": "Strategist",
+        "first_seen": 1790687727.6186717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbUdsUGdpZTY5a0pJNDNpblk4aGtyMTFwOGthOGVZRTNPMGk4aV94czBvU2NVSmFWbFVYdHM4NmVDSWwzX3ktUmtSU0Rucmx0amFZWmcxWjFKMFhoc2tYSV80bk1BYmpSVkJWZG1RZVlhcXlHa2NvUmlLZTJDMTFZNEhpc01BdUVhWFBCRE9ObS1EQTdIRHJmWFhNeEFDRk1p?oc=5",
         "headline": "Zillow issues reality check to Americans wanting to buy a home: Most severe figure in 19 years now a serious threat",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1790679031.0,
         "tag": "Global",
         "first_seen": 1790680525.7834907
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORFBuVjZhS3NzVVVKWHNCWVZaX1BnbnY1d0VGUWxBVFBGM1ZkZDVnMVZpU25vNHRZZGYwYnlYRTFQM1FvLU9INDhFRXVhbS1LUWR6eFZUcWVKWnZBNzRfOTBEWDBxX19raFVrTlBqT0gxVG9vcWNmY01raGgzWWk1SHlOQk04LXIyeHZZczVtMEoyeXNvRDVMLVVLM3VYTDl4b1h3alFSY09RQnk0UTdtaEcxcFdCWWpRMVBKSklDWXZUQWF3NkhtLQ?oc=5",
+        "headline": "European equities rise as tech gains on Anthropic’s outlook",
+        "summary": "",
+        "source": "Investing.com",
+        "published": "09/29 19:46",
+        "published_ts": 1790678774.0,
+        "tag": "Global",
+        "first_seen": 1790687727.6186717
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTmdIb1VubDRuYzNXa1NLcXNaLTNyR3pLQ2g4enVyenJuTUdwUU5oVUlxSzlWUWJoMGw5dFlpRFBWTnltSzRmYmtuMXZkRTd3bjVyZHVUME5Xdl9ubEFLSHZqT0FQQXkxZWFyUU5LSUktY0FEeEtFVGJyQ2x3aFBkelRpN2xiSXhBS2MxaUpIN2p2SUtfSEVnWFdsWQ?oc=5",
@@ -1820,6 +1850,16 @@
         "first_seen": 1790668836.6855655
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5zdl9DQnhsZEp4LWw2XzRaM1hFay1QNVpjR00xWGJKemhyajJEQWNjUVVORThiNHZ2WERNRTVnUDNDeE9PTThrUFR3WjI3Rklrdktoc0xDeEVDVjFzRDQwcEZtX0VaM0U?oc=5",
+        "headline": "A Firmer Fed",
+        "summary": "",
+        "source": "fundresearch.de",
+        "published": "09/29 16:00",
+        "published_ts": 1790665259.0,
+        "tag": "Global",
+        "first_seen": 1790687727.6186717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHROUFhGRFZKaWdLV2NKMnNIakVxTGJHM1JHcmNKZUVSTEJISmVKZExHTl9YaWp3VjVhQ1ByTEF0bnpZb01VMkRZUzdiQl9uNHpHWW9hYXp1cWJNUE5nSEhVTklYTFMyRzBWM1o3YUF3bTZEdTIzUTcxRjdUNHdWbEhWSUdIQ0h4cWJaRkRFMDJwSXJ2OFFZ?oc=5",
         "headline": "Japanese Yields Ease After Strong Auction",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1790657382.0,
         "tag": "JGB",
         "first_seen": 1790664332.5399556
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
-        "headline": "Battered bond market braces for a new era of interest rates",
-        "summary": "",
-        "source": "Reuters",
-        "published": "09/29 13:47",
-        "published_ts": 1790657220.0,
-        "tag": "JGB",
-        "first_seen": 1790685030.6512048
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lVHZIMGtxY0JpZFloTmM2NnFIRWNVRkg2N19IVHlWWGstSlFLTVNPeDRydHhaWkNiQkhPWHFoTFZUMWlSSjVQci1mNzRTZ1djZnNn?oc=5",
-        "headline": "Drawing Lessons from History: US Stock Market Outlook Amid the Sharp Surge in US Treasury Yields",
-        "summary": "",
-        "source": "eu.36kr.com",
-        "published": "09/29 13:42",
-        "published_ts": 1790656921.0,
-        "tag": "Global",
-        "first_seen": 1790657122.9390292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdldzU25wVjZWSlVDYzZ0aG9MM2MzT0NNQjZKeWNVZ0dwRi1MTnF5YUh4Z2xBQmtJc21qTS1IMks2MHNvR05wYWNvamJ2MGxEUTlMYThWS3RvYnJyanlFRTlnUHdhanNIbnZLemRvSnNwWE5zb1g5djhYcl9BX1BQMmUxaG1Jc1ZUd3huZlU1Y2IxRnF2Mm81cA?oc=5",
-        "headline": "Western Asset Core Plus Bond Fund Q2 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "09/29 13:30",
-        "published_ts": 1790656200.0,
-        "tag": "Global",
-        "first_seen": 1790658924.1219501
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1kRWFRYURvbGQwMlBIb1h1U2RCUlJUbUJRLV9INS1uRnRiYzFlQV9MWUJxVjM2akdTWGlJbjlxSmswUkdRTFFqdDQ1c1daMlpwNElXbA?oc=5",
-        "headline": "Japan Finance Minister Calls Yen Undervaluation a Problem, Vows Continued U.S. Coordination on FX Stability",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "09/29 13:24",
-        "published_ts": 1790655891.0,
-        "tag": "JGB",
-        "first_seen": 1790656231.3672206
       }
     ],
     "watchlist": [
@@ -2040,6 +2040,16 @@
         "published_ts": 1790666505.0,
         "tag": "현대카드",
         "first_seen": 1790666945.0598552
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAxSDdvUlZMQURMeFJ0RnFuM24xX2ZZRkNUNjN2VVA3WmdPMXFZOGpiMG9QRkVrRW42MDBlSHdBWjJXWTV0NXVvQ3NKNmRxeXV5cVZ5dzlsQmtpb1N6STN1MNIBb0FVX3lxTE9CT1M0X3ZqOTV0RUptbFpFVkU3M0JTOWRtRnFEQVdrRHJXMW9NQl9sektQRXJiLVdHR3lvMS1ud1QzekVqaEUyeVZybk1WbGlBcnhNdGlxaldqY05xUGVvaTJpUjlwaXBRdDF1WG5kVQ?oc=5",
+        "headline": "현대카드·KB국민카드, 연말 차환 ‘물량’…롯데카드는 ‘금리’가 변수",
+        "summary": "",
+        "source": "토요경제",
+        "published": "09/29 14:36",
+        "published_ts": 1790660170.0,
+        "tag": "삼성카드",
+        "first_seen": 1790687727.6186717
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd0pXajllbUVUYXF6LXNuZ2VBN09lRXBkd2tLOUlMaDc0VHlKVHhoN1MtZi1kdDFjSklDOVlHYnc0YzY0WXUyeC1aSDFIN2M2UFhiclRIQ3BSSXE5RzdKVlZXTTVvdlp5cU1ZRnBhUVNoQmd4SVJrZ05WTGhaTHpiS9IBgAFBVV95cUxQd0pXajllbUVUYXF6LXNuZ2VBN09lRXBkd2tLOUlMaDc0VHlKVHhoN1MtZi1kdDFjSklDOVlHYnc0YzY0WXUyeC1aSDFIN2M2UFhiclRIQ3BSSXE5RzdKVlZXTTVvdlp5cU1ZRnBhUVNoQmd4SVJrZ05WTGhaTHpiSw?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1790050305.0,
         "tag": "수협은행",
         "first_seen": 1790054123.1961148
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94d00yS3VOWXRCeUJOLUNvVFVOd1lDY2wya1A5dkp1U3ZoZThaOUd0V2tHOHhFdjh0MjRhZkczTnExcVlpcXNvT1NOVnkzOHpXWm1yRHR2OTdzbFFSb2NJdEhpOA?oc=5",
-        "headline": "“원가 올라도 금리 못 올린다”...카드업계, 카드론 수익성 하락에 ‘진땀’",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "09/22 08:59",
-        "published_ts": 1790035189.0,
-        "tag": "삼성카드",
-        "first_seen": 1790036124.6022315
       }
     ]
   },
-  "updated_at": "2026-09-29 22:00:59",
+  "updated_at": "2026-09-29 22:15:57",
   "yields": [
     {
       "label": "3년",
