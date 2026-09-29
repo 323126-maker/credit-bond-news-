@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA5TkduekhaQ2N6cUFybXdOVHBFQ2FLU3NPN0c3QTA2QVFwQ3Zla3BoY0UwTzc4U2l6bC1KZEdja3VINXh4QjNRQklXU25KaHpxTWUzTENnclNuenQxMGlXYkpQU1FfdC1maE9uRURoOVVIdw?oc=5",
+        "headline": "알리안츠 \"연준, 내년 말부터 금리인하…최종 금리 3.50%\"",
+        "summary": "",
+        "source": "kbthink.com",
+        "published": "09/29 11:08",
+        "published_ts": 1790647739.0,
+        "tag": null,
+        "first_seen": 1790655321.5834572
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CSjVXRXJUQzdnUlJVVVBObWhhVnhuRGkwR0dmYVVobnFGdWQ5NGhHWnBtYjFLeUtfT09aWGh1c0huUEZGZElWRUtsaEZWUTQ?oc=5",
         "headline": "\"채권 혹한기 대비하라\" 美 국채금리 급등에 국고채도 출렁",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790586364.0,
         "tag": null,
         "first_seen": 1790587832.4916027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9IVEpYd2VsOE91azFibGRJaUxhemZCUWNBV3d0dXpyNm04ZEQwNzRzUC1nZ0s2cTFBMWxsX0E3Y2VkM3VuODlzQl9FN0lPNElHTzdmd2V6RFJiVzVJY3EyWDVRZ3FjZGEzcW1hSThQV1LSAXRBVV95cUxQOFBHOGpiZldrazBhb0dzYlh4dlVBUjhtQ1JtNUM5cXVRaXN6dEtrX0g4Mk5iVGdfRmhPNklqb19LOVlaQzBpZzNjekhrUTh1dEVldm51bU1VRUNVR2ZaaGoyQ1pEOUJPN1Y2Q19OZzQ4MXVrRQ?oc=5",
-        "headline": "FX스와프, 美 금리 상승 반영하며 하락",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/28 18:00",
-        "published_ts": 1790586000.0,
-        "tag": null,
-        "first_seen": 1790586924.8902283
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 13:00:58",
+  "updated_at": "2026-09-29 13:15:53",
   "yields": [
     {
       "label": "3년",
