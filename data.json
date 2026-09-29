@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tQ2xBQldzVnI5YzJwbnpvcFZZQnZKZjc5c1ROdWRRRXNOWkJCUWl0WnJpeHlMSjBBSDBQVy1xWHZIRHYtbDRteEtWNWlsekM3RFJSUjRqTHFLbXFxWWtILTJEaDltY1ZzSzBSZTY0Z2M4dw?oc=5",
+        "headline": "기준금리 인상이 내 대출이자에 닿는 길…무엇을 보고 이자가 달라지나",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "09/29 22:07",
+        "published_ts": 1790687248.0,
+        "tag": null,
+        "first_seen": 1790693123.2793953
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iRXlMTnloRXVLdk40ZlNqZjAtRUhPV3RhTzE4Qm1RYnpmVVp4M3M3X0Q5d1hGVEt6REFCcDF2azZrTmtmUnhEMHNYLXpLbXJDYVZTLXNCWmwxZmhrTnRMOFRVOTdLa2c?oc=5",
         "headline": "주담대 변동금리 68.1%…저금리 대출 재산정 닥친다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790469001.0,
         "tag": null,
         "first_seen": 1790470833.9741905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA1Z0IyNG82OGk5LWZEaGVMdWFSaUNQWkRraXhmaG10Z0JrT2lRajJITzRpenB4bGUxOWI2WDRTTjd2OS02VkxuUUU5OHNMbmo4TzJLeHZySDR3VDhDNGFOMGc4VXJsYk1BOTJOYVQ0YnI?oc=5",
-        "headline": "연휴 끝나면 금리 움직인다…채권시장 복귀전 체크포인트 By EBN",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/27 06:42",
-        "published_ts": 1790458920.0,
-        "tag": null,
-        "first_seen": 1790459122.2794132
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA2Z2RNZ3hWbl84MHBqTWZaeTNfcW5CNFAxVEJqVUljdk84QjI5ZE13VkRVYzBFVXdOVjRBakRkNXVfQ2NwTkpxRURyYkNUVjlDUW5sQXVwUWNERDVVcWc?oc=5",
+        "headline": "[마켓인사이드] 글로벌 금리 어디까지 올라가나…5% 국채 시대, 6%가 새로운 분기점",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "09/29 23:37",
+        "published_ts": 1790692620.0,
+        "tag": "JGB",
+        "first_seen": 1790693123.2793953
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN040Ny16aFBCZ1JfVFZGSC1kU1l4eHdaaXFOc0x0Q3plbW02N0Z1S0pFM1Zsb2J0X211TWZPYzk5VWFIT1FrcGVlVEMwdEVoWlNkY2xKXy1VTkFpN1BBLVpzQTMyWnAzRjBmbzJ2M0lYOElTWWVmaVp4dXZYc3FzZEREUHVBOEZfY1ZR?oc=5",
         "headline": "Inside IG Bond ETFs: The Hidden AI Bet",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790660754.0,
         "tag": "Global",
         "first_seen": 1790666123.1087413
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQZW45cmZELWRPOGZPNW90b3BDYzJ6eHkwRmRId2hSLWdrSFpJamFlSnVrRDFQRDFLUGE2N0dyWW5XS2kwQ2Y1ZzhIOWVHYmpZamg4TzNmeldwYmljREFRUDJwMlpDMHBZdVJZSnBaOUt3VDZhWnkxbEFVdl9VMnQyN0dINlVoX3UzbFR3S1VaZEtBUEl4YzFrMnRnN0h4UE1HSFBuYVZMVWt5WU10bG1xanlHRmtyQnk4QkpHd085Nnl3Z1pYMXlFRXlsZXJIc0h4Y1FkTVNvbUd0WlFTSGpkc0JLR2xWcGZXX2N2V21DT19HRjhrcTk0?oc=5",
-        "headline": "Japan bond yields hold near multi-decade highs after 40-year auction amid inflation concerns",
-        "summary": "",
-        "source": "Zawya",
-        "published": "09/29 14:42",
-        "published_ts": 1790660520.0,
-        "tag": "JGB",
-        "first_seen": 1790677841.6763597
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 23:30:58",
+  "updated_at": "2026-09-29 23:46:08",
   "yields": [
     {
       "label": "3년",
