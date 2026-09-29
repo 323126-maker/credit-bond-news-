@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9CSjVXRXJUQzdnUlJVVVBObWhhVnhuRGkwR0dmYVVobnFGdWQ5NGhHWnBtYjFLeUtfT09aWGh1c0huUEZGZElWRUtsaEZWUTQ?oc=5",
+        "headline": "\"채권 혹한기 대비하라\" 美 국채금리 급등에 국고채도 출렁",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/29 10:34",
+        "published_ts": 1790645640.0,
+        "tag": null,
+        "first_seen": 1790652627.769496
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPS0xuaUFEbjFHTWNKUUlWU3JiekhIYXpkdG9vQ0RMRFplVTNralVRTjlLT2pmSkcxQkxxSmcxNTJGWWNjRGM4UFRJVjc3LXpCSHdkM2JPdjlSR0JVREZXM2VMTy1aam5ZTmU4SnJTd2lsWmpSNnE3LVJGdmdGVHJEa1NMdFFGQQ?oc=5",
         "headline": "채권 수익률은 상승했고, 미국 주식은 하락했다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790584871.0,
         "tag": null,
         "first_seen": 1790619327.3430126
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBUSTFjWTByMUhwSG96LXlSMlU2VnhPS0NIblIzVkc3d2RYWllFSm15TTFiMGVYNmJqOG9fcG5Oc1NnQW96ZVhiak5vbS1iMUNCUHAtZnVPTzRCSDRSTzdyMEN5a3BjRUNkcHpXZmZRQ2M?oc=5",
-        "headline": "150틱 수준 폭락에도 서울 채권시장 분위기 차분한 이유",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/28 17:37",
-        "published_ts": 1790584620.0,
-        "tag": null,
-        "first_seen": 1790640924.3254879
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 12:16:32",
+  "updated_at": "2026-09-29 12:30:49",
   "yields": [
     {
       "label": "3년",
