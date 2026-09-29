@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQUFJEcnNjUGNwM1N4MlNkdG1pZ0VwVmt4cWhUZ2t0UkN4aHlRNzVyR3hCd2dUMG1FRWszT05VOUN4MUhDSGhXQUhIamhNWWJJNUpGXzZWcFc2Mk5Hcl9yNXBaaWVDVDlZQWg0d2xIRGl0RFhqWjJlR1ZORGlrNXRmdGZxSF9URFQ3Zzc5d2dER1g4U3hvZDZXMHNKVlhFaGRBRmRKRVJR?oc=5",
+        "headline": "Battered bond market braces for a new era of interest rates",
+        "summary": "",
+        "source": "Reuters",
+        "published": "09/30 01:12",
+        "published_ts": 1790698366.0,
+        "tag": "JGB",
+        "first_seen": 1790701239.0557454
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQczdiZUlodlRieGZIUTBkRnZuSWJXYVNMY2JNT1NmbElJTTVnSVdoZ0dxNTYtWklSMUUtTHFwR3V4a19FTjUtYjM1cmhFeThGVkJVVDlhNjltQ3FpWjFDY1R0eDlzNHM0WWktUi10RldlQjl4bDhyUERpZFZ4dkpiNk14ZE1jeVFpWXBPY1dzSHpXZWZM?oc=5",
         "headline": "Rising Treasury yields improve Ray Dalio's All-Weather Portfolio outlook, boosting bonds and gold appeal.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790666280.0,
         "tag": "JGB",
         "first_seen": 1790666945.0598552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXNzY2JuTUNuN05SZmNUZ3c5Slh2MnBTb0lNSHVXX25wdE5ibTRpWXpvVTBDa01BMjUzU1hEeU9hQ1h3SGlEN1FWSkZFc0xDbmFFSV9DNzM1VTBpdEtrZnYtbGcxZEgtdlhNenVqWm9xc0xtN0NYajhHOTlNTEJGMFU5Ui1MMFpINEE?oc=5",
-        "headline": "Japan’s 2-Year Bond Yield Nears 2% As BOJ Turns Tougher",
-        "summary": "",
-        "source": "Finimize",
-        "published": "09/29 16:04",
-        "published_ts": 1790665487.0,
-        "tag": "JGB",
-        "first_seen": 1790668836.6855655
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 01:46:22",
+  "updated_at": "2026-09-30 02:01:05",
   "yields": [
     {
       "label": "3년",
