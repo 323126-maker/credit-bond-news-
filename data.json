@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAzRW5kZmUwUC12Y2t1WWlTX3l2N3dpRS04Q1JFMkVBV2FaVHF3MlFpQktZVDhvZWJaT0FXdjNzX1ZRRTY3cE52N1hRVEhzeFUydTJwT3piUEVuN3BzMEJ6NkFPbVQwRUhGUE5mTjZCTjk?oc=5",
+        "headline": "카니발, 실적 호조 및 2027년 예약 강세에 주가 급등",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "09/29 22:24",
+        "published_ts": 1790688240.0,
+        "tag": null,
+        "first_seen": 1790689526.7656956
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sRkdNSG5kUTc3c3hrVnhDYU9lR3VDU2VMd25Vb01yQXJXM2RoMWJqNjhYTjMxY3k4bV9TRTV6c0R4bjc4Z1VEODI4SnJSSF9kR3ZHY0puZEk?oc=5",
+        "headline": "Cboe, S&P 지수 라이선스 연장에 장전 6% 상승",
+        "summary": "",
+        "source": "토큰포스트",
+        "published": "09/29 22:14",
+        "published_ts": 1790687669.0,
+        "tag": null,
+        "first_seen": 1790689526.7656956
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSUhVdFU2bnVxWFhoRHo4M0JYbUlaVnlkT2RsNzJ4Q0dIRmFzNUttYkdiRmpENjYyLWJ0MjVsUGhwQVI4VXpIeEY1VFJ5bGZNNFd1VmZFdHdqR1BpWi1ZSlI2ZWxhR1pKS3FPTWlfOUhBcjFvNW5SUklPR2VMcTFPWmt0RExwWHpkUC15ZW52WQ?oc=5",
         "headline": "증권사 조달 '단기→장기' 이동…A급까지 회사채 찾는다",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790632200.0,
         "tag": null,
         "first_seen": 1790654433.8591657
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aWGRsQ3ZSb3VnSnRWcUtNWnVvaGh2SEVfbllPUTEzd2daLXVESG5pR2dfVTdvNm9RTnAzdHdnT3prSE5kUUlfYzZEYkt2T3AxdUpJWFZONFozQm5BeTFPVXdTMFhFOTd60gFsQVVfeXFMTks2T043UVctYnRBLWdKTUwxcGhkU28yM0hvVGJTOGZqczBrcjF2NDlDei1tME9sVy01dkdtVjZUWG1rWFQtZndVelcxV3dsenBfOUprVnJXcUJBX2d2SlBRclhfbU5QV25RUk9f?oc=5",
-        "headline": "5%대 뚫린 美 10년물…유가·금리 ‘트윈 쇼크’에 나스닥 0.92% 하락",
-        "summary": "",
-        "source": "직썰",
-        "published": "09/29 06:43",
-        "published_ts": 1790631796.0,
-        "tag": null,
-        "first_seen": 1790640037.100137
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9IcjlBdnhWdWtrcHZsWXJGeGdIT0N4MUhPSW85QzFxclk1U0ZBb0pWWFB3aUltQ2F5YmNUZHFzMXJkMjdRWkhTUGsxNi0wVDFDVXVnOWtXRldGZG5xT1VaU1BROXZMU0poakpzR0VzMWRoZw?oc=5",
-        "headline": "국채선물, 美 국채 약세에 하락…10년물 17틱↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/29 06:20",
-        "published_ts": 1790630403.0,
-        "tag": null,
-        "first_seen": 1790631925.5431826
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 22:30:57",
+  "updated_at": "2026-09-29 22:45:49",
   "yields": [
     {
       "label": "3년",
