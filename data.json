@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdnF0RGVqWWpyUUZMalFJcGtoOHlKdGQ5Z0VWaEZZZlF1cy1XSWZVYWQwYlBUTHJuUFVUVVpfbGN0bEFrMU52Z24zbWtCd1NKOFdiZzJ5UHFoNDgteXVUUm5BNnpOQ3RWR0s4NHk2clM?oc=5",
+        "headline": "[외환-마감] '결제 vs 분기말 네고'에 방향성 부재…1,350원대 중후반",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "09/29 18:17",
+        "published_ts": 1790673446.0,
+        "tag": null,
+        "first_seen": 1790674232.2735524
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SSEFTdjcxbDJjQ1pYWmMtOVBZMGo0YUh1Qm1TYmhMWVdVWUYtdXFUMU5pS1Z3UnZWcHBZTEllUWpUSkY0WmFlWExkMk9EVDUyanZEUTNRbndRdw?oc=5",
+        "headline": "같은 A+ 신용도인데… 채권시장선 등급 ‘제각각’",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "09/29 18:15",
+        "published_ts": 1790673311.0,
+        "tag": null,
+        "first_seen": 1790674232.2735524
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9GWGtucG0ydWhzcU1yTHo3bWpXWTM0VUdpRFc3TTVHWk5hX2Frb0Q4WE5zSGJJMWFNN3FzU1pFOE40b2FSWEJzdmswM2ZyZW9BTkE?oc=5",
         "headline": "단기물 CP마저 금리 급등 … 채권 돌려막기도 만만찮네",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790613666.0,
         "tag": null,
         "first_seen": 1790621123.125208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5UVJUWU5TQ2JCV1VvRUt5WDRWYkNkQUNJbkozNkhUb0ROWTJTLWlPR1g4TnBFaVZMSEZNdWxIWEk0bVZkUGxlT0VZODF5YjRuWWZndnZlT1R3Mk9TY05fbEhQUnAtT0tBNEhVdDR6TjU?oc=5",
-        "headline": "골드만삭스, 하이일드 채권 공급 급증으로 시장 압박 경고",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/29 00:56",
-        "published_ts": 1790610960.0,
-        "tag": null,
-        "first_seen": 1790625637.0012314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd01ScUIxTzNwZGdSZ3NvM29qU1Fja3c2RlhMTThISDk4bzVPb1ZtTXBwam9RQlBiY2lGT2gyaW9zbUVKVlFPS2ZNMEtWem9fZmNyeGw0ckw4SjBEU1paYng0OHphVlRQX3NHSHhIRVRqMDlWTTJCY3F4dGJfUFQ3Y1hoeUo4MEhuUW10cE93?oc=5",
-        "headline": "Western Digital Corp (WDC) 주식 움직였습니다 하락 3.97%에 9월28일: 전체 분석",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "09/29 00:16",
-        "published_ts": 1790608596.0,
-        "tag": null,
-        "first_seen": 1790617525.731573
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 18:15:45",
+  "updated_at": "2026-09-29 18:31:00",
   "yields": [
     {
       "label": "3년",
