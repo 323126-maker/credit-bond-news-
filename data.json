@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcV9LeXVfRHBxa255Q3NLNG41VnVROUFfb0NVckdIek9hNDNKaEdCeFpYMGs3d1dWaEU5WnpNN2pSaFllQzRJU0d1UzlhbXhyS1A2MkJpMVVxUG1DQ2U2REI4dG9EMERkdmVLdGtPNTJVQkNudnJfaXo4UXJUMlNSUlhkY0xZVElR?oc=5",
+        "headline": "日 2년물 국채금리 2% 육박… 30년 만에 최고치 눈앞",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "09/30 05:00",
+        "published_ts": 1790712000.0,
+        "tag": "JGB",
+        "first_seen": 1790712932.6112542
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPOWNyM1d5clp0VUd2Q01ndEkzdmlvSE82QWE0SFk0MlNuWm9DU3ZqSmRreDJvX3QzVnFhVnktZmwzdVhVU0ZUaHdEUWdzQzNEbW5sbjZrM1V6a3BWTUxLSVhnLU9UNHgzZ2ppZlBoR01ydXBqUlVUYmpHQUpFREdQVHdyR3dKZlhweGRGalBUSHRmallkUC0xSC1fQ21maDMtYWtmUVBKQzM?oc=5",
         "headline": "St. Louis Fed president pitches new approach to interest rate guidance amid debate over Fed transparency",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790671540.0,
         "tag": "Global",
         "first_seen": 1790672435.3741019
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5kY21hV1lzQmVFUnpCMS1VODVCZVFlendUQTIwOHhMVmtqODNUVGx1NWFFZXR2RjYzVkJUc0pVQlhZYnJWOXA4b0MxMThSNnBWMlhjdk5xOG5ock1ibC00NVZkemk1aGJ6N3phMmFEVU9wSWtNNFE?oc=5",
-        "headline": "Compelling risk-reward in US 10-year bonds – Market Outlook",
-        "summary": "",
-        "source": "sc.com",
-        "published": "09/29 17:42",
-        "published_ts": 1790671358.0,
-        "tag": "Global",
-        "first_seen": 1790685923.1932838
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 05:01:02",
+  "updated_at": "2026-09-30 05:15:58",
   "yields": [
     {
       "label": "3년",
