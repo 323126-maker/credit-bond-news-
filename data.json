@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORGcyM0dmbl9BNkQyS0gzeDVSTElvQkx1dkpqZjQ0TDdPV2hqeDZzY0ZyZGM3NEMybFRIUHRBVUdEcktJZTJjcl94NGdMTnBWdEJFcDlsczhRTy16VllzbkJvZ2dLTlh0M3JGSWhQa0hxRko1TU10eHIwcDZpZmVHVjUtRWY4WU1DSVVDd1JHbHc2Y0hWbmRiOXE0SGVBZEJzLUdJMmhWQ1dNTEc4a1JmX0ROenJqV1Y3TnBzMUtvXzItRi15c2E5d3ZYcTBpS2x5bm1WV2xkN0FuWHdaN1lVMXRSRnZ2czYzT0dNVg?oc=5",
+        "headline": "The 12.49% Yield Junk Bond ETF Lending Money to Companies Banks Won’t Touch",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/29 18:37",
+        "published_ts": 1790674620.0,
+        "tag": "Global",
+        "first_seen": 1790675122.5385556
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMGN4LWFzV3hXNGc4VDRfdGt6SDgxX3FPeHpJeE9DZThUZDJjVjAxaWhkRHdFVkFHUG1ubmlaVXhDcnpxM3NjUHhIc2R5ZjJDWXIxUlVudWtDc3M2N2NPT3BUSWxremd1eDZ4cEV0dERiMkttWW4zNnM3YlBBYzhsTWt1Y3l1RjJfWE5DYkNaQ3Y3Y0YwYmhCRHNaVkJabk9Rb1hkQjgzeUUxLVBscUlialFVaw?oc=5",
         "headline": "Gold falls as expectations of a more restrictive Fed policy rise",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1790669501.0,
         "tag": "Fed",
         "first_seen": 1790669724.8678067
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZRG1YbU1VV0ZIZGNyY2laNFphc0xHM2pGUkdkczM0X05yNmxHTFhwbmRNdlliZ0luTlpzOUNGN2pxek82bEU0NVFyYjFmLV9kNkJLNUt6QjhoUkdEVEtYUGlySWxmQm5OQTlWUXNVVFRhZldTTGZJcHVpSQ?oc=5",
+        "headline": "India Ten-Year Bond Yield Forecast 2026 Hardens as RBI Starts Hikes",
+        "summary": "",
+        "source": "Alice Blue",
+        "published": "09/29 16:54",
+        "published_ts": 1790668454.0,
+        "tag": "Global",
+        "first_seen": 1790675122.5385556
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRXdHdWVDV0FXYzRudHY4VWFOQnpQV254LU8xQUdCdkxjY2xoWkJuTDYyRkRpejViN2pqa0RaQlMtb3hQR0NOVk5nejBPdzJWRjhxR2h4b2t3MHZXdk9NVVM1TG9lRWVxc1lrUWZJR2h3aEtEU25veEtfc1VVb0lUbEVubHZHWno3WnVfWGF6bzE1SlRtQmN5dFJJc1ZHT2Npd0ZWTktlckw3RGRxUTE5QVV4Z0dYNGtfS0E?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790644039.0,
         "tag": "JGB",
         "first_seen": 1790644522.2302237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1aNmI3bFBjbmI1MmlSUHJxcGVJVlV0SjU2WFBaTUUzQ1VNSWIzZG5BWDlTdDA3VWVBX05Md1Q0OGVIVXVRaEdIejl5cGNlMzdSTFhzb3Y4dngwZnBOc0dXNnhMMlBtU29va0gzcW44TWRaRXphU3c?oc=5",
-        "headline": "Meta Set for European Bond Market Debut This Fall as AI Fundraising Goes Global",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/29 10:05",
-        "published_ts": 1790643900.0,
-        "tag": "Global",
-        "first_seen": 1790645427.5239446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "headline": "Weekly market commentary",
-        "summary": "",
-        "source": "BlackRock",
-        "published": "09/29 10:02",
-        "published_ts": 1790643722.0,
-        "tag": "JGB",
-        "first_seen": 1790657122.9390292
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 18:31:00",
+  "updated_at": "2026-09-29 18:45:43",
   "yields": [
     {
       "label": "3년",
