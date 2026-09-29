@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tV2ZDdTBMcVFrelR4dmh3Skx1X204OFM0NHQzb1JNOERDSm5TcWlqbkxwQlduZmM4VFpuckI3WkxxTkRRX3RDREFxOWpSQWdUT0ow0gFTQVVfeXFMT21XZkN1MExxUWt6VHh2aHdKTHVfbTg4UzQ0dDNvUk04RENKblNxaWpuTHBCV25mYzhUWm5yQjdaTHFORFFfdENEQXE5alJBZ1RPSjA?oc=5",
+        "headline": "이형일 “국고채 금리 과도한 상승 땐 긴급 바이백”…채권값 상승 마감 [김혜란의 FX]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "09/29 17:49",
+        "published_ts": 1790671798.0,
+        "tag": null,
+        "first_seen": 1790679633.4743395
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04elZiMjBncVF3WEJoV0NIWk1SbFlMNUNsaWgwT2x0RHBLUzk0WW1zUDFGM0RDck9TRFlJZVJSbzlSdmlPNVo1VVhEeDlPWEhwLWZXNms5WC1ybEFaNW4yNkwwSjlLMkVpczlZ0gFvQVVfeXFMT2dZckVPV3cwSTYxTkJDQlBBN2h5WWlJNDBLdmV4Q2F0VzJBcjFfRzA3eE5VcnhMaFZhU3NjUmlPSWNiaDU5T1RYMUlFOWxoeW53eVlCSlFoWlQxZzZYUWNpZi11eDVsT09JUkVUYWVV?oc=5",
         "headline": "떡 주무르듯 '미래대응기금' 쓰는 이재명 \"명절 지원금 1조로 늘려라\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790251575.0,
         "tag": null,
         "first_seen": 1790317828.9909887
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAweFpkdVhjcUo1YjV0a1JDNEplZEdZX19lWWlXckZsOU53b0dtUWd5RDRJNkxSOHg1SUVoVF9NNVlteFJINFFrSDln?oc=5",
-        "headline": "미 5년물 국채 금리마저 5% 돌파… 2007년 이후 최고치 경신 : 국제",
-        "summary": "",
-        "source": "재경일보",
-        "published": "09/24 20:32",
-        "published_ts": 1790249520.0,
-        "tag": null,
-        "first_seen": 1790258438.600569
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 19:45:48",
+  "updated_at": "2026-09-29 20:00:57",
   "yields": [
     {
       "label": "3년",
