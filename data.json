@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1BcEV6TUlXdHdRMnVUVTlKQmw0R0VIenJZZW5zNnZnY2YxZlRCNjFUTzVhOWdZZndJMi1zenp3TEdTeWJnVnh0NFlGR3NOU2FjRHQ1LURuN1VLOC1FMmJuRHpSMmR1dF9FbkNlUWxCTGtodw?oc=5",
+        "headline": "[亞증시-종합] 日·홍콩·臺, 기술주 매도에 하락…中 홀로 상승",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/29 17:18",
+        "published_ts": 1790669899.0,
+        "tag": null,
+        "first_seen": 1790670629.9789724
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBtcmJxTElpWW15Y2tnQXlDamNzRnVhUVBSSFJETmNnWThocmFoSUhFc2JrelJIdU1kWXc4YmZ3cUpyOEZJQTVZS240UEViOFlOV0ZVanRZTnBtSFJVQnZhcXFkQ19FN3B2eTNtSHJn?oc=5",
         "headline": "[채권마감] 전날 패닉 일부 되돌림, 이형일 긴급 바이백+도비시 RBA",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790596494.0,
         "tag": null,
         "first_seen": 1790604925.8279545
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQzlNdlZFM2ZnZGhfNVBpUk02ZW9kMkc5ejBleVpOU19sdHdzeVBXYW50U1NjQXVuR1ZwR1BJTy02ZXlqODIzOVY2OUxBb1JHXzNKNzE0OEVHRlgxaTFwU1RFakRrSDlkTS1DNmhZY2EyN3RpVTRTR1JaS0hyWVNKeXhPeGVzY3Fx?oc=5",
-        "headline": "AI가 채권시장 판도 바꾼다…빅테크 회사채, 국채와 자금 유치 경쟁",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "09/28 20:48",
-        "published_ts": 1790596128.0,
-        "tag": null,
-        "first_seen": 1790596839.1965263
       }
     ],
     "perpetual": [
@@ -1218,6 +1218,16 @@
         "first_seen": 1790669724.8678067
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnbE1HTEIwLW9aU0hYRHRMcm9BeC0tZE9SWlZweE5uZmlJbmRUd1VTNmR2dV9vczU4ZnBmUG0zR2w1ZEFXcExvVFNmcVlNOHQ2TU1UbVhFa2lyVzZCTUZoS0FkOF9WbVpQdS15aWpR?oc=5",
+        "headline": "이재명 대통령 ‘양극화·불평등 완화에 초과세수 투입’…3대 사회정책 총력 |",
+        "summary": "",
+        "source": "중부매일",
+        "published": "09/29 15:31",
+        "published_ts": 1790663498.0,
+        "tag": null,
+        "first_seen": 1790670629.9789724
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yWmdqaEVGUkpOV0wxa0F5M213d25nZnlNRF9KaW94WjBNYWZ5b2VJU19aYnhWdDgzaWg3bTluSHBoRktOT2gzUGM1ckxqNElwSXF5UVVDblVBRHfSAWBBVV95cUxObTFzSVpvMFh2UnJySXVaVkJxdEZzWEQ2b2hnN0Q0V0xLX281Q2U0b2h2SDQ5bnFaN1ZNak54bENQYTA3UThXTGUyTDZwVWRHTEdiMzM0NkdTSVYtYlh5cm8?oc=5",
         "headline": "李대통령 \"묵히는 밭에 태양광 깔면 농사보다 수익…유행될수도\"(종합)",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790215699.0,
         "tag": null,
         "first_seen": 1790336723.3639712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUXNOWno3ZDE2cDlCckFieVFMcFlYNHhYQ1dIbWJTTmxoajBVYld6T1JjQk9ZelA5MWFtd0M0U0I4SWwwc2tnZDdQZkl0Q3VkNk01ZVZYcnJWV1lIcEwwSEZDV1oxSG9ycEthYUlR?oc=5",
-        "headline": "뉴욕증시, 연준 추가 인상 우려ㆍ국채금리 급등에 하락 [종합]",
-        "summary": "",
-        "source": "이투데이",
-        "published": "09/24 07:33",
-        "published_ts": 1790202780.0,
-        "tag": null,
-        "first_seen": 1790208036.8978002
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-29 17:15:48",
+  "updated_at": "2026-09-29 17:30:52",
   "yields": [
     {
       "label": "3년",
