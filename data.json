@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxObm1VXzBmNEVjS25tU3VtVDVhTkdfcUZoRVdWZ2UtX2tEeXZ1b3M1Y1pfcjhadnFodjNCUEtYSWZ3ZURaMGxvVTVlaWkzYnY5bDZnUDJIR29JNDlwSFZVR1RkZ29RbUVzdGpjaHZfVFBKMGtXRTVBYkQ2OF8xVHBkUTJNR0lwVURUUkQ3eURuaXhOb19MVnlVWFQ2WUJTRm5uaEtzQllMTmQ2cUpwcWp3TnZ3cS1VSGlLQ2FoVUdUWllVc2R5Mk80?oc=5",
+        "headline": "Bond Massacre: 30-Year Treasuries Crash 60% Since 2020, Wiping Out Two Decades of Gains",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "09/30 00:30",
+        "published_ts": 1790695800.0,
+        "tag": "Strategist",
+        "first_seen": 1790696723.8404367
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMzdIZDN4UU1hd1phSl9oLVMyQUo3OHFaT2NwQW9aQlhpVGxWUlBUemN2ZFlDczB3ZkhwLWdqUWdjYmRJcTRVQURIdS1KTzdYdTlHRDUwM2U0SGZTekRVdE1BaHV2dnU1UmdDendCWU1YeUNHV0VaaGhIYVJyLV9rdEMxOEcyWlptcnZhQXJ0R0ZUdTFkSlJ3S0hUTFZsbUZjOGEtVUxvVjkxazAwa1E?oc=5",
         "headline": "What Minivans and the Yield Curve Say About the Economy Right Now",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790662033.0,
         "tag": "Fed",
         "first_seen": 1790672435.3741019
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fSzc4TzlucjlIMGh5ajR5RUItU25IbGV2NTlVMGptb0dtc2w0UHNyMTJJZjFtQ3BpR2t6aFdNY0JwYzdRWXZYdU9RTndvcWNISnRUV1ZoZFY4ZVRnZmc?oc=5",
-        "headline": "일본 2년물 국채금리 2% 육박…BOJ 추가 금리인상 가능성 높아져",
-        "summary": "",
-        "source": "theguru.co.kr",
-        "published": "09/29 14:48",
-        "published_ts": 1790660917.0,
-        "tag": "JGB",
-        "first_seen": 1790662522.1928098
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 00:30:55",
+  "updated_at": "2026-09-30 00:46:03",
   "yields": [
     {
       "label": "3년",
