@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAzSVZ6Y1p3eG9saVdvQ1oweHRVS1p0LWVPcmQ3MDctZnFkajFzelYzZTRnaEt5dHhqNl9VUWlyclR2UzN6dTlSV3daVGRZRWVwbGhVTlhrdw?oc=5",
+        "headline": "미국 국채금리 22년 만에 최고…한국 주담대 8% 시대 오나",
+        "summary": "",
+        "source": "technovalue.com",
+        "published": "09/30 00:10",
+        "published_ts": 1790694654.0,
+        "tag": null,
+        "first_seen": 1790695832.6191936
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5tQ2xBQldzVnI5YzJwbnpvcFZZQnZKZjc5c1ROdWRRRXNOWkJCUWl0WnJpeHlMSjBBSDBQVy1xWHZIRHYtbDRteEtWNWlsekM3RFJSUjRqTHFLbXFxWWtILTJEaDltY1ZzSzBSZTY0Z2M4dw?oc=5",
         "headline": "기준금리 인상이 내 대출이자에 닿는 길…무엇을 보고 이자가 달라지나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790481601.0,
         "tag": null,
         "first_seen": 1790482525.5221326
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNelBMZXo4VFhjcExVQlVDX1BoWFRjeHVTd3ZzcG41MDRzT3hVaHc0RlVHVnRwbXlkdTlVeVVSUkdQNEF6MHYyWWlURHd3UVg0elY4WFBFaW5vUUt3cDg4NnJRZmlha0taRXdPMGxLaFJzV2Fuay1QN1Y0X3ZJdGNrdjQyQkNyeHpBUUNJa0dR?oc=5",
-        "headline": "美 국채 금리 5% 시대... 개미들, 미 장기채 ETF 9000억원 팔아치워",
-        "summary": "",
-        "source": "조선일보",
-        "published": "09/27 12:50",
-        "published_ts": 1790481017.0,
-        "tag": null,
-        "first_seen": 1790564435.7359989
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 00:15:47",
+  "updated_at": "2026-09-30 00:30:55",
   "yields": [
     {
       "label": "3년",
