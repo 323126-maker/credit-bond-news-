@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRnBMWHd6UDJLU1A3UFZ5VElseDRtSWxROTBYOVhnRVVxWnJDWkszaWcwSGJrSGlULXpQQ1VBZVpCak9DYTNpVXlUckl4SWtJR2J1cWlMRHlMcGlKSkZCTDl4SFpGRkhGS1l4TDI2elJVRFVFQ0pvbFI3dDZlYzVpdHJ0QV9reU94NzUtcEtVdUJDZHB1U1ZQSF9ZQTdhQQ?oc=5",
+        "headline": "베트남 증시 업그레이드: 외국 자본 유치는 쉽지만, 장기적으로 유지하는 것이 진정한 과제입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/30 08:40",
+        "published_ts": 1790725210.0,
+        "tag": null,
+        "first_seen": 1790725523.2800126
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkbTg1NlRaZnVOTlNCenNBem54T1NmNkRaS0FwQnp5SXV6aHY0WndLb0t4Vk5YbVNhY3NJSE9vQ1N0Zkd2elBEVGxyU0ZFYk9tZHlsR0RvS0tqVUJtMUM1WTJNcV9Lb2l4N2hHdkh1QjM?oc=5",
         "headline": "[뉴욕채권] 국채가 혼조…지표 부진·유가 급락에도 장기금리 또 신고점",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790644260.0,
         "tag": null,
         "first_seen": 1790663431.024398
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBVeWtPQkhmN1FVOTRwYW5SX3NEdnZtVE8wTDZnRy1aTmp4TVhNNWNiUG5LRnVicHVvYmJORUVYem9NMllmSVFzZWVYeFBZWi1Ud1ZRUVNidXN5bjBCZkE?oc=5",
-        "headline": "\"글로벌 크레딧 위험지수 31.1pt로 하락\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "09/29 10:08",
-        "published_ts": 1790644080.0,
-        "tag": null,
-        "first_seen": 1790644522.2302237
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 08:30:53",
+  "updated_at": "2026-09-30 08:45:48",
   "yields": [
     {
       "label": "3년",
