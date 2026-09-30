@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYWxmZzFXOUhzNTY0aWxOV3E2bThEWS1taW5iWDR5T0UxQjg2NjJ1MXpVRHYtQmhGUl9OYWhoOVgxa1NjQjVOUlVjNlcxZ0J0TjVwel9mOFRtREhISWsxVHlUOHhHYklrWkJBalpzZi1pZzhmUWRGS25hdlVUa3pUQnVJU3FYc1dka2doRWRzR19adkU?oc=5",
+        "headline": "30-year 'Covid bond' hits record low amid yield surge (US30Y:)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/01 01:15",
+        "published_ts": 1790784917.0,
+        "tag": "Strategist",
+        "first_seen": 1790785826.7595074
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZREZrUG9ic1pFZFBwajBOM0dUbDBBNmhpR1l4VzFEZkhSZkdBLXVfVXZCS0dtQUxidjZNUUh5VWNFY1hTRjI2RjB3NGJnVHVlMHJpVlIwN1ViZU83SGNzNXJTYXlVY195bFlFWGs4U0NjQndr?oc=5",
+        "headline": "Why Are Bond Yields Soaring?",
+        "summary": "",
+        "source": "Yale Insights",
+        "published": "10/01 01:05",
+        "published_ts": 1790784337.0,
+        "tag": "Fed",
+        "first_seen": 1790785826.7595074
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcU5sYVpVS21kb1A1cjBuZ3BTZmdqWnhFNnlNd2p0X05haDNJVndzbVRlWFBITFZmb0dBMjlhTVE4cF83VldYVkdHMERENGo1OHdyem84MTBDNG5VdkYyMTlFcmNidVRnM3lxRnhkeXlILTJBMThpWHpLY1FaUkJKck4zYXhIb2dpLVdzQXJoRV94TmpEV2oyRHo0eVNsQVBCN2ZXaE1uaVhTblRma21feEgxeHlMN2JlbkE1WHpyMktjQ3prakJORw?oc=5",
         "headline": "Fed’s preferred inflation gauge cooler than expected, likely delaying rate hike to December",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790741280.0,
         "tag": "JGB",
         "first_seen": 1790745323.0000312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWjNsTzVBa1h0X05WUEphbGNpeDk1X2lWa2xmaVZFd2dteVhoaXJBekc2NVlyczBpSGswWmdSUlppc0FjSEpJekVSY3NhdndGY0xFSEFhWE55XzdzcTNITWNDWlQtMmdIb0dscmpPck83Zw?oc=5",
-        "headline": "日 국채 2년물 입찰서 응찰률 3.89배…직전치 2.97배 상회(상보)",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/30 13:03",
-        "published_ts": 1790741007.0,
-        "tag": "JGB",
-        "first_seen": 1790743521.2989063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWJtblMySmVNMU1feFdBRmpvZWxEUUE3MWx5WlRRTWh2RVp2eE9QOUtwRUNVRU5DOUFCYjFPSHhZQWZoa2dDRnpiNWJPWnVqTVFzekpfYmR5UkN2MjlVeEJZN3FQb2NCbk5sNDVaR05IalhvTFFjWGpqaGhWM3MyRms1UXl5cG1ULXliMGdya0N0VUw1R3o3MmVweUpaYW92akdNWUlmemdpWUcwYUxEalVUN3loZw?oc=5",
-        "headline": "Japan’s Two-Year Bond Sale Draws Stronger Demand on High Yields",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "09/30 12:58",
-        "published_ts": 1790740680.0,
-        "tag": "JGB",
-        "first_seen": 1790746232.4591508
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 01:15:52",
+  "updated_at": "2026-10-01 01:30:52",
   "yields": [
     {
       "label": "3년",
