@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8tWjNsTzVBa1h0X05WUEphbGNpeDk1X2lWa2xmaVZFd2dteVhoaXJBekc2NVlyczBpSGswWmdSUlppc0FjSEpJekVSY3NhdndGY0xFSEFhWE55XzdzcTNITWNDWlQtMmdIb0dscmpPck83Zw?oc=5",
+        "headline": "日 국채 2년물 입찰서 응찰률 3.89배…직전치 2.97배 상회(상보)",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/30 13:03",
+        "published_ts": 1790741007.0,
+        "tag": "JGB",
+        "first_seen": 1790743521.2989063
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNLWdZaGRRbUJFam1HWkZGRXl1Z0FXRXBNVDczc3NKdFB4WjZ1N3V5YTJFUzczZzhSbEVhR3htUnByXzViRHRqZUhrZmtNaHpNR2dCRFlYMUs3ZXJ2U3NnRUE4Tm5nblBYUkx2a0E1X19rU3NOSndTSjd4bndGcE1lREsxelVsSFE1VU1LVE9tcnAtT2prWnA0cldyQlJlQkYzMnlYaHdRbE1FNHJWNzBJSEtqOA?oc=5",
+        "headline": "As bond yields rise, investors need to play the long game",
+        "summary": "",
+        "source": "AFR",
+        "published": "09/30 12:30",
+        "published_ts": 1790739000.0,
+        "tag": "Fed",
+        "first_seen": 1790743521.2989063
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsUzNvNTRxYnZZYnZpSm05UzlhOGVUV3l3aE8yTkx5cWtnR1p0dmJoaktLbVB2MlY0OHlBeFhQYWdRSmY5dnU0cDlCSFhOM19fclhpemVGZjdEVTZLdE5OakhKdDQwQUxqQ0xZRDRFRWNUSUM1VlE?oc=5",
         "headline": "Long-Term Yields Rise to 3.095% as Positions Built on Early BOJ Rate Hike Are Unwound",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790688000.0,
         "tag": "Strategist",
         "first_seen": 1790688629.859315
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oUWpjSzhjRER4bjlNcGxxaVB0cjBPcFRTNXRIaUZXTXhMaTRURGxCckZBOFl1YlZJaVFyX3JMT09zMzhVMFhKXzhqeHFyckN5M1hOQjdBMnRGdGVFc1d0R0t3?oc=5",
-        "headline": "US Money Markets: Value in extensions given the aggressive Fed discount",
-        "summary": "",
-        "source": "ING Think",
-        "published": "09/29 22:13",
-        "published_ts": 1790687639.0,
-        "tag": "Fed",
-        "first_seen": 1790687727.6186717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMXlWM0ZDdnhlaUsxZ1FzUkRUdk5QVzFjTHp4YXQ4NWxhajBaY1VaZXpWcTlFZklCa3UzZng1M2UyZDAzQVBROVZyVnNxeGhsQ2phWEZRU3dXM25uSzdEQnRXX3BhTjRDbFZROGhnWFU5V0drR0JHbmVmNjVLcXVfVkNZRjlTREc4ZmVjUzNqam5MaTU1VWdVbDkyMmZNNDZuWElNSnpxdmlqZExOY3d1OHRpY2FTdw?oc=5",
-        "headline": "El-Erian's 5% yield call meets a Bank of Canada coin flip",
-        "summary": "",
-        "source": "Wealth Professional",
-        "published": "09/29 22:01",
-        "published_ts": 1790686914.0,
-        "tag": "Strategist",
-        "first_seen": 1790687727.6186717
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 13:30:53",
+  "updated_at": "2026-09-30 13:45:44",
   "yields": [
     {
       "label": "3년",
