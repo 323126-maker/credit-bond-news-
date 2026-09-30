@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBHRzBQeDR2RWtsSng1NkF5eTg4UFZzYmxQY3ZoWWJXbTFuWUVzeG1uQkgxVlVwY3hJZ3RjMmVVQ1RSbXZueEgwbXJVR0R0RTRXeVhWZnk2RHJXanlRYmJjUVdYSm1Sa2FPTzFZVmdB?oc=5",
+        "headline": "4분기 회사채 시장 고금리 속 '온기 지속'",
+        "summary": "",
+        "source": "세이프머니",
+        "published": "09/30 15:42",
+        "published_ts": 1790750570.0,
+        "tag": null,
+        "first_seen": 1790751635.5267344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5pV3drQXZjLUJCQ2hNQUlFbWVqVVM0b1YweUdnMU5WNEQyOWpZYmdQc2t6dWNaMTB6TlZXNFY2aTFoU0ZLdXRtanFfUThoQi1hbzlN?oc=5",
         "headline": "8월 기업 직접금융 '급랭'…주식·회사채 조달 38% 뚝",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790675418.0,
         "tag": null,
         "first_seen": 1790709326.750678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PdnF0RGVqWWpyUUZMalFJcGtoOHlKdGQ5Z0VWaEZZZlF1cy1XSWZVYWQwYlBUTHJuUFVUVVpfbGN0bEFrMU52Z24zbWtCd1NKOFdiZzJ5UHFoNDgteXVUUm5BNnpOQ3RWR0s4NHk2clM?oc=5",
-        "headline": "[외환-마감] '결제 vs 분기말 네고'에 방향성 부재…1,350원대 중후반",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "09/29 18:17",
-        "published_ts": 1790673446.0,
-        "tag": null,
-        "first_seen": 1790674232.2735524
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 15:45:55",
+  "updated_at": "2026-09-30 16:01:02",
   "yields": [
     {
       "label": "3년",
