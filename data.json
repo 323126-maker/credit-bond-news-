@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXNlFSdkFsYW1RVXBra21GMmdPUDFQQm1RWENseW1jczR1TFRGSGowR3N4SWR4cFB0c1g3RnNOUTd5dENlUW1scEp5VHV4MDZ3Y3NPeXBESEdta1VhcEM5TmNUc29rUDZzeUFrMi1QbGRNeUR3V1RrdEJn?oc=5",
+        "headline": "Overseas Markets Rise as Bonds, Oil Drive Trading",
+        "summary": "",
+        "source": "stl.news",
+        "published": "09/30 21:41",
+        "published_ts": 1790772113.0,
+        "tag": "JGB",
+        "first_seen": 1790773237.1614375
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MaWJGa0w5YmNOcTh2cW9wUXhrM1ZUX2FPcDVQYWxRRTVxWndXYXljc2g2ZktDSFZ2UmU1THZXUHBxVGhzdVl4Nm9SMk9UOGRZdjZyYm1rTmZUU0t6elplMVIwUk96emtxR2VsVFdLZXlmTFJpMVJfOQ?oc=5",
+        "headline": "Treasury Yields Flash Warning: Is Recession Next?",
+        "summary": "",
+        "source": "stl.news",
+        "published": "09/30 21:25",
+        "published_ts": 1790771144.0,
+        "tag": "Global",
+        "first_seen": 1790773237.1614375
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPRzJTcXFHVFRMT21DSFVQaUZERkJSTFhrMU9ST3hIQ2NndDNpR0tLZEVuX1RCY1RGcUxLR0RSNGxFT0liZjNVdE9Xc05MbG5fUkxGcGNLMi1PLW1PMXBXTFR0Zl92dV9nVFFPcHZLcDlUU0hoQzRMN19kWUxyaXAyclEyNGZ1ZFJSQmoyX0ljNE5DWGNaalFOUG56RXJVRXlxVFgwMFlDbmd0U24xOFE?oc=5",
         "headline": "The Fed’s new chairman has a lot less to say: Chart of the Day",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790731550.0,
         "tag": "JGB",
         "first_seen": 1790739923.655833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPd205ZnVEWG9UcHdOaTdOTVF5NUdkdG9PdlI3R1RSdGk5elM4MGJYazJZdGpDT0M1d0RDMHJ2clBkQlRkeU1CdXRjdXA4YU5fQjI5Y0V5MEtjTkZ1VjlwRG1zTkZubC1JaEw0d21IZHpPUlAyMEVkbFlDaGNFNmZiMXExam1maURXQ281NjJYMm5aLUUwa051Tw?oc=5",
-        "headline": "The Market Just Hit a Risky Milestone. History Says Investors Should Make This 1 Move.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "09/30 10:15",
-        "published_ts": 1790730900.0,
-        "tag": "Strategist",
-        "first_seen": 1790770523.6933513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVUE3TEVWVzk4a3ZrU1UyVnBVdnFlaHFhYTRLU2hwUU5GdUJoLUpibzZvUmUybHdWSnkxa0x4V2IxNkhjdTFYMkQ5SDVFRk5vN2R0ZXZqSkdkUnRkM0NveEhpRU1DMzlUTVh6MGl3d09IdTZ3MUhTWnRsSzdKNFBIZ3RqdTczT0FaZWVKS3VxMHRJMmR6S3dJWEMxajA0Zw?oc=5",
-        "headline": "Global bond yields surge as investors rethink strategies",
-        "summary": "",
-        "source": "IDNFinancials",
-        "published": "09/30 10:00",
-        "published_ts": 1790730000.0,
-        "tag": "JGB",
-        "first_seen": 1790744434.5198221
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 21:45:49",
+  "updated_at": "2026-09-30 22:01:04",
   "yields": [
     {
       "label": "3년",
