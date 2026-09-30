@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8zek1NeXJxTnkzZW14Z19wbEtJZTdMcnZEdk0xVmxHSklIc1BLWGdjTkI3aTRtOW5CWjM4VENOWWl6bllPTkE?oc=5",
+        "headline": "세수펑크 끝낸 63조 초과세수…국채 덜 찍고 민생에 더 풀겠단 정부",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/01 06:56",
+        "published_ts": 1790805378.0,
+        "tag": null,
+        "first_seen": 1790811908.4538066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBNMW9oaGtQbkI1NnJsVm91OEQxMjVUaGh6bVY0LXZBWGRxdlFNNzZLMDlmTlphcjRET25td0tHR2FFTUZ4cjFvR0JhSEVyaFlaTDlsaTJWNUJVRE1ybkFyZ0FxSFFQUFFZNHhtSE5jTDViSFB2a2dFVtIBeEFVX3lxTFBNMW9oaGtQbkI1NnJsVm91OEQxMjVUaGh6bVY0LXZBWGRxdlFNNzZLMDlmTlphcjRET25td0tHR2FFTUZ4cjFvR0JhSEVyaFlaTDlsaTJWNUJVRE1ybkFyZ0FxSFFQUFFZNHhtSE5jTDViSFB2a2dFVg?oc=5",
         "headline": "금리 발작 올라탄 개미들…증시 등지고 '고금리 채권'으로",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790666160.0,
         "tag": null,
         "first_seen": 1790666945.0598552
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBRLVRGWm9QVUJuQWdacm0xMkQwOXVVWlFLU3dPdHFWWDVodTQxNFhuWG1HaDJKZXVpZzNKTWFiQlpybnNKYUFNM01CMWtRTFdVcG1TY2NlMmd2Q3NpVzVtRkJkbFNRYmNYelE?oc=5",
-        "headline": "美국채발 고금리 충격 도미노···'저금리 시대' 청구서 온다",
-        "summary": "",
-        "source": "서울파이낸스",
-        "published": "09/29 16:03",
-        "published_ts": 1790665380.0,
-        "tag": null,
-        "first_seen": 1790666123.1087413
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 08:30:52",
+  "updated_at": "2026-10-01 08:45:35",
   "yields": [
     {
       "label": "3년",
