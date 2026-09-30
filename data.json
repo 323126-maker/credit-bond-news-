@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVGl3ZWpjU1pvRktxNzQ3ZG5nY0VNZlg0X2l0SWFacmlYQzdDc3BJNXhETU05RW9TcjNsTzhCQUMxOFhIUDRGNGtRRDh5Y2NTZ2xWdV9pSXgwME15ZFA3bzk1WVFLSHI3?oc=5",
+        "headline": "초과세수 63조, 국채 발행 줄이고 양극화 완화 마중물로",
+        "summary": "",
+        "source": "dkilbo.com",
+        "published": "09/30 12:25",
+        "published_ts": 1790738704.0,
+        "tag": null,
+        "first_seen": 1790739923.655833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oSmRySzhxZlBMYXZjUHl1b3U4WWJOQVdvVW8yeGJ5dG41MEthMFZYQ09NZzV3Sk1UTTBYbHhnVnlOVGZTZUtBclVuRnFmbUtyRGM4bDNVTG1wZw?oc=5",
         "headline": "\"채권시장에 악영향 우려?\"…부랴부랴 보도자료 고친 정부 [김익환의 부처 핸즈업]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790585816.0,
         "tag": null,
         "first_seen": 1790586038.5856128
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVRXVBNlhWUC1hWmhuWnhXMERjYWRDY05qTTJJcUxMN0ZSVGdmWmRwYWQ4a1lFMFFfUW5ycEJpRHFBWGxHcWNzRDdham9UZkE?oc=5",
-        "headline": "[채권마감] 10년물 14.7bp 급등, 미·이란 전쟁발발 직후 이래 최대 상승",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/28 17:30",
-        "published_ts": 1790584210.0,
-        "tag": null,
-        "first_seen": 1790585127.3608649
       }
     ],
     "politics": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1790739029.720765
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOdnQwQzdkUnBtNEVxTldTZHFFa1ZraFQwLUNSRnhWTU8tWnlMdFlhV2VIT1BiMVdaTkliSzJfWGExVjZ5eWlVR3lEdFBqSTNwdF85dHk5SVMwU2NRd2ZBSjI2QnJKRGR4X0swbFhibThZZw?oc=5",
+        "headline": "월가 전문가 \"글로벌 국채금리 급등, 엔 캐리 청산 아닌 재정적자 탓\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "09/30 10:25",
+        "published_ts": 1790731550.0,
+        "tag": "JGB",
+        "first_seen": 1790739923.655833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Mb2ZvMkZXRkM5UVBGVkZUT2tibmZ3Q1p0Rk5qaEhoQkR3T3V3bEs0WUFRTjZ6SEwzU2Q0MWNEMVZFSGdSQ2VPdEdGb0lVV2ZScWgxSksxZWE3MC1iMGxlaNIBeEFVX3lxTE1STEtHS0NJMEFzcE5zVkhXODRRT0RUX2lpLTZiNXpsRXhvMUZpaHJFUE5raXEzdi0zQTVhVWV6RzI1VmFmTXBCRnBLdWxVSFg3ZTVJZDViemFZV0piVFMxR05XREg0UlFqVVVSNGVJSVozWS05TVJtYQ?oc=5",
         "headline": "엔화, 美 추가 금리인상 관측 후퇴에 1달러=157엔대 전반 보합 출발",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790685615.0,
         "tag": "Strategist",
         "first_seen": 1790697643.3937993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORG1LYWN5Uk1UYkFQZFA0R0wzWlBnUXNUYlhfdWNoZEVNbkVHTUw5bU5sajBtNXZUSWRPWUR4VWJfWno3RXlLTDRRVm9jZDBhUFA4SjlBWmEyVUtSbXFxZmx5OFBzV29YUWxreG40elF3VThRb1ZrX292ak5Xbi1BSXFVZHM5Q1hhVTdHTTB3MA?oc=5",
-        "headline": "Mohamed A. El-Erian: U.S. Treasury yields stabilize after sharp surge across maturities",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "09/29 21:40",
-        "published_ts": 1790685615.0,
-        "tag": "Strategist",
-        "first_seen": 1790688629.859315
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 12:31:05",
+  "updated_at": "2026-09-30 12:45:46",
   "yields": [
     {
       "label": "3년",
