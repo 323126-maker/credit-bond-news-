@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjRhcnNGSlMzTFE2UExNcWZ5dHNqZTlxUEQ0MHBuZy1FREJ0aVdZTWxvOHhwZlQ4d2RJZFA5N1lhb3B0QjFyZWdJaE1QZTA5eHRVWHNvWk1jUUd4ZWYybGtrU3RUSDZiazRWOUNjTWVST0YzRmdSVlh1QmZ6MTBCdDYzSFN6SElHT1VsYnJDWFQ2ZVo4VHFfblFzcw?oc=5",
+        "headline": "Eat your peas. We need to talk about Japanese Bonds",
+        "summary": "",
+        "source": "Türkiye Today",
+        "published": "09/30 20:00",
+        "published_ts": 1790766002.0,
+        "tag": "JGB",
+        "first_seen": 1790766922.2450266
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSllCcHF4a3U3T1NZZm5wN2cwQTVKcXFhWmo5Y3JnSkNKSGhMeGxtOHloZkEyRXpSaTR5cF9MRFBVQWdtMzcwLVoyTnQ0YmVNUGpvcllheEtJNVFtdWlYVXdLNmx5emlYaVRpZkhqT1VvdmFFTXFSQi1RQl9kQVhjX3lJcjlOX0hmemMzRTNXbUpYdw?oc=5",
+        "headline": "Opinion | Trump has a point about interest rates",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "09/30 19:31",
+        "published_ts": 1790764312.0,
+        "tag": "Fed",
+        "first_seen": 1790766922.2450266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOenhvazVjczRzcmpjcFRFQ0loUEliWVh5Ujl6dTdYYkVvMlNrVEl3VGtQb3ViampBbWczaDNrWUg1X0JGajVOc2EyTHFfZTJhZDlYSkltaDhSSHNvdnI5UGQzWG1fZWduMnFSbE1NOUZsWFJmTGVtTGtrYkpuZlRzamRJanV3ZFNSdjZ5ZkdNNFdreFRJRGc?oc=5",
         "headline": "Ray Dalio tripled his money at 12 on his first stock pick — then a bad call left him borrowing $4,000 from his dad",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790722717.0,
         "tag": "Global",
         "first_seen": 1790723301.103414
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUGlDZ0RDZ1QzNTdiN0JMR0FkYzUwb3YwX0trSHBnNTkxeVJBLTRvcVpQMXVjVFQya3hJVHEyU2hBR3VZVkNWQy14dmkxMXFRVjhiR3JvZWluN3Z3YUpvM2VfNWx2V250UlRIWlI0N2lPVHA5RnZlTUhRdV9YR2ZwQzVDQ2FOSElreDY1VW9yYVlQSWhqQ2xNUnI1VC0xR0xQM0FaZ0NrYTVINW9reS1EeXZ3a2U0dw?oc=5",
-        "headline": "Japanese Bond Yields Hold Firm Near Multi-Decade Peaks Ahead of 40-Year Debt Sale",
-        "summary": "",
-        "source": "briefasia.com",
-        "published": "09/30 07:43",
-        "published_ts": 1790721798.0,
-        "tag": "JGB",
-        "first_seen": 1790762435.5076306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPOG1DaG5ZNlVFWXc4X0U5VmprR1hFMGdpMUpia3lsaXF4ODBybnNGZTNNNENDaHlTbm9LNXhzLUxFU0oxOExNbkdWMERmZXZuaUt5TmxqcHhpM0Z2NDVCWTRFUTVfa1pFTHBSMDJwZ2ROUWt3R1JtOWNEMUl6MU1obVJfaDVzUjExdFFRVE1oaG41LVotdDY3amhFMFBtNmhyWXJxQm1fZFVOdjQ?oc=5",
-        "headline": "Nikkei 225 Falls to 65,481.27 on Ex-Dividend Adjustment and Rate Worries",
-        "summary": "",
-        "source": "BBN Times",
-        "published": "09/30 07:14",
-        "published_ts": 1790720081.0,
-        "tag": "JGB",
-        "first_seen": 1790721921.263232
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 20:01:04",
+  "updated_at": "2026-09-30 20:15:47",
   "yields": [
     {
       "label": "3년",
