@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFT2pNSFN2a2NEN3Z2VUR1dmh3VG1RTXVqV080aHlncHhmSTRRWTViLWZGOG9TUk9NeHhJS21VTVJMbjEtSXFmdHQ1dUxMY2t0bFluQVhNY2lzQlZYamRhN2lFTlQ1eENH0gFuQVVfeXFMT0YxXzZlSXhnNEZyYlBvUGF5RkRTNlNEVEEzY3NiMFl1XzRHcnBuR2FBdURsTVptZ21MV0dsNDA5aEFhSmxXMGM2S0NpRW9XZFpYUEZjQ3A1bWVQdXh5Q1NPOENMcUVxYzBwdE1PWlE?oc=5",
+        "headline": "[기자수첩]불안한 채권시장, 원인은 '호르무즈'가 아니다",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/01 04:05",
+        "published_ts": 1790795100.0,
+        "tag": null,
+        "first_seen": 1790795726.1945498
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRcTZrcFdIaGoyMmVtcHEzY2dxd0NobXRWWHdoT1RHMHpsNEFBRmNsLXR5LXVOaWFkMGs1bG1GT2FUQWNwN0JYLVdmQWNObUg5a0g2dU9IWXVnd0ZqcDgyZTFUbHlvQk14QmpGbjE4ZGk?oc=5",
         "headline": "S&P와 무디스, 브레이크부시 10억 달러 인수 후 호멜푸드 신용등급 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790726751.0,
         "tag": null,
         "first_seen": 1790727324.5877285
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBpM2VzMTl0MUU1ckhicl94ZkJWMlBrMmQ0T3dIaklvUl83Zzg4bHE4TTdTVVNVT2FMNG5IOW44d01uYTJ0aDhuRG1vcnA4XzdzMmd6STB5X2xOVW4yMEp5aEgwR3VsVjhEZjQzNA?oc=5",
-        "headline": "뉴욕증시, 美 국채금리 급등에 3대 지수 하락 마감",
-        "summary": "",
-        "source": "스페셜경제",
-        "published": "09/30 08:49",
-        "published_ts": 1790725774.0,
-        "tag": null,
-        "first_seen": 1790731827.835611
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 04:01:06",
+  "updated_at": "2026-10-01 04:15:52",
   "yields": [
     {
       "label": "3년",
