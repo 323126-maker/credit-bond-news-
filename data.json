@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM09ZVVJnb0x2T2kwWEp3eTg2VF9MLXZhWGxtQVVHRkFRMGZPMDJ6VEpKeW9OUHBQeHR4Z01QZTgzZExweE02ZnQ3dWV0X0xSd1VqNXpRM3RvWHJuYW1uUTlVMTI2S01jTTFyZmpJWXFCajJGZjR4ZWRvMnN5aVRBWA?oc=5",
+        "headline": "초과세수로 나랏빚부터 갚는다… 이달부터 국고채도 발행 감축",
+        "summary": "",
+        "source": "edaily.co.kr",
+        "published": "10/01 04:31",
+        "published_ts": 1790796662.0,
+        "tag": null,
+        "first_seen": 1790798436.087299
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd0hWcU5ycXZoWUhtREVBbGNBbU5CZVM3ZW1JTVhLUFBSUzRuNTB6TFBZbzNHNWx1NHhud0tBX29pQjlrMC1tc2l1VmYxNTdqZzVJQ3p2SnU1SjMwMUlOWGk0dzJBWUNOdFA0YjBmREdld3o2X1Jua295VURaSUJidg?oc=5",
         "headline": "반도체 호황에 초과세수 63조",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790651040.0,
         "tag": null,
         "first_seen": 1790651759.3700902
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5FcnEyTDN3Rmk4YXRfaC1CUDNsQmtxZXhaVWotSzVhcDhyLUpZMlBYTnM2cHV0M0dDa2FWLTZHRV9rUnQxd2pWWmp0SzV3c19ERmFxbVY5VkZWRHdhU1NES1hLX3dqSDNlb2c?oc=5",
-        "headline": "美 10년물 국채금리 5.24%, 2007년 이후 최고",
-        "summary": "",
-        "source": "중기이코노미",
-        "published": "09/29 10:59",
-        "published_ts": 1790647154.0,
-        "tag": null,
-        "first_seen": 1790676923.1864629
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 04:46:04",
+  "updated_at": "2026-10-01 05:01:02",
   "yields": [
     {
       "label": "3년",
