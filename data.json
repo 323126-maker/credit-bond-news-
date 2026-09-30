@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPMnRXZktOdkVBVHlBbTNPLXlXaGtiLTZiOUNoRWRsN1JGTzZRSnFwZ0U5YXRnb01wUHlBQVpUWmd3V3JfY3RNYUdFdmJzbXdHREE3WG1JMkRsWXhNQjBnbEtBd2t4ZGlPYWdtVjJnc2FWX1k1cjNfLTU3NjRQYjdGTmJYQ09yNkNPQlV6XzRRc0piV1ZXNTRtQVFoTXhDem1MY2U0eXh5WVYxejJPTU9mT1FDaUxuZmczcUQ5SW9SbWxZN2s?oc=5",
+        "headline": "Federal Reserve Monetary Policy Impact on Markets",
+        "summary": "",
+        "source": "Funds Society",
+        "published": "09/30 23:42",
+        "published_ts": 1790779320.0,
+        "tag": "Fed",
+        "first_seen": 1790779559.1038563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQXzRSLUk2SFBMUzlFM3BNcXB1RkR0ZklMaWdFMzVRZW9xQ1o2V0RSS2g0SDNhTmNMRFo5Q0NLZF9xbkg2dlFHMnFiZ1dfemdtVXB6by1PSE5lMjU1d0xwcVRVcEdrclp0UVRKR1VMc2NPcWVpOXRQekViMFRVQlZIUmJlb3hZQ3F2WW5jY1RjNnNuaHp3a3BjWmNGdXZ2aUVyZlZOVlNn?oc=5",
         "headline": "The global bond market endured its \"darkest September,\" with U.S. Treasury yields surging to highs not seen since 2007, while equity markets demonstrated resilience against the downturn.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790738029.0,
         "tag": "Fed",
         "first_seen": 1790745323.0000312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsUzNvNTRxYnZZYnZpSm05UzlhOGVUV3l3aE8yTkx5cWtnR1p0dmJoaktLbVB2MlY0OHlBeFhQYWdRSmY5dnU0cDlCSFhOM19fclhpemVGZjdEVTZLdE5OakhKdDQwQUxqQ0xZRDRFRWNUSUM1VlE?oc=5",
-        "headline": "Long-Term Yields Rise to 3.095% as Positions Built on Early BOJ Rate Hike Are Unwound",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/30 12:05",
-        "published_ts": 1790737500.0,
-        "tag": "JGB",
-        "first_seen": 1790741721.2602725
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 23:31:02",
+  "updated_at": "2026-09-30 23:46:25",
   "yields": [
     {
       "label": "3년",
