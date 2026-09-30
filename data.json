@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVjh5TTZhWjNLMWxBdTVjNXJZSDZPSzZtajVQX2dFNEhWQTAwX05adFc3aVFHdWUySThQQVZBb0paTTYzRTlucXBVdVI1R3ZFdWFNQ1JRczN6NkpERXNMR2tuMHktTGlVZS13?oc=5",
+        "headline": "반도체 호황이 만든 63조 초과세수, 주거·일자리·서민금융 등 3대 사회정책 투입 공식화",
+        "summary": "",
+        "source": "서울뉴스통신",
+        "published": "09/30 10:03",
+        "published_ts": 1790730191.0,
+        "tag": null,
+        "first_seen": 1790738126.5717192
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBTNklVa1V6TjV1RDk1U181S3FiOU1ybThkR2FYR1dfR0I2T19nUnZrbFZFMGxJdjZZSjlDU3B4ZmFUc1Y0Vy1Qdld6aE1PVG11dUZXQnFtVW1TYjlPZHp1bdIBeEFVX3lxTFBEVU82WmdmOElkUmtMeTBJQkF5NHRSbjlROU9CNVlxYjB0NlVCN1FqVzVEWFdtRHFJX05USmk1S0VZWFVyYXdqbjF1d2ZJbVdWSlYtOUxPUXJNb3VUOEIteUhVMnVXY1BvTmt2MWN1V2QxdjVya21GMQ?oc=5",
         "headline": "초과세수 63조 어디에 쓰나…주거·일자리·서민금융 투입, 국채 상환 유력",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790348761.0,
         "tag": null,
         "first_seen": 1790349141.168271
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84Y1J5eE1vU2VaZGhINHZzcWR0WkhWck9KS2Znc2J1VE1SYURzUEhNOFRRT09ldjFNbTNqTmxuYV93bDRfOThGdmNjcndRLWhoWE5ac0U1REtuV0NvTTNkWURhV2VlTjg?oc=5",
-        "headline": "엔저 재개에 '트럼프' 꺼낸 일본…국채 금리도 연일 최고치",
-        "summary": "",
-        "source": "M이코노미뉴스",
-        "published": "09/25 17:56",
-        "published_ts": 1790326592.0,
-        "tag": null,
-        "first_seen": 1790327721.8568146
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 12:01:00",
+  "updated_at": "2026-09-30 12:15:51",
   "yields": [
     {
       "label": "3년",
