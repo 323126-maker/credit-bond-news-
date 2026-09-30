@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhY2k3aDFOT3k3aHRaVW80aHFJemhHVzhyMUJvWVBWNFNnRU0xdVJVWVpIOXFTUlJFazA5dm45UG9HNXlqRU1QOQ?oc=5",
+        "headline": "초과세수 63조 어디로 가나…국채 상환 vs 미래대응기금 ‘재정 운용’ 쟁점",
+        "summary": "",
+        "source": "미디어이슈",
+        "published": "09/30 14:38",
+        "published_ts": 1790746680.0,
+        "tag": null,
+        "first_seen": 1790748033.936387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DVGl3ZWpjU1pvRktxNzQ3ZG5nY0VNZlg0X2l0SWFacmlYQzdDc3BJNXhETU05RW9TcjNsTzhCQUMxOFhIUDRGNGtRRDh5Y2NTZ2xWdV9pSXgwME15ZFA3bzk1WVFLSHI3?oc=5",
         "headline": "초과세수 63조, 국채 발행 줄이고 양극화 완화 마중물로",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1790588391.0,
         "tag": null,
         "first_seen": 1790588724.1977158
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1sMTdxemVZTXVmaFRnZndjNkE2N1c3THNhWmFUd1pVbmp2UENLQ3EzMnFYVTFOZ0V4V3FXMDJadk5ZM096M3FyNGRvbnB2NDVQVWlEbWFEXzk5WGI4?oc=5",
-        "headline": "적자국채 100조 찍고 104조 적립…미래기금 국회서 '빚투' 논란",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "09/28 18:04",
-        "published_ts": 1790586240.0,
-        "tag": null,
-        "first_seen": 1790586924.8902283
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9GRFRyVUpfVE1Lc3g4WDBPM3JyOXQwYmZHVzFFSEFxVDd4REVkeWhUZTBpSksyYjluNW1zeklSdEZzYWQ0VkJ2ZjBrQkp5WEtpVTdVNWlQMThfRk1RV3pZN3daSFBVbHAzY1E?oc=5",
+        "headline": "李대통령, DMZ 지뢰 폭발 부상 장병 위문… “충분히 예우하겠다”",
+        "summary": "",
+        "source": "천지일보",
+        "published": "09/30 14:00",
+        "published_ts": 1790744437.0,
+        "tag": null,
+        "first_seen": 1790748033.936387
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1GVjh5TTZhWjNLMWxBdTVjNXJZSDZPSzZtajVQX2dFNEhWQTAwX05adFc3aVFHdWUySThQQVZBb0paTTYzRTlucXBVdVI1R3ZFdWFNQ1JRczN6NkpERXNMR2tuMHktTGlVZS13?oc=5",
         "headline": "반도체 호황이 만든 63조 초과세수, 주거·일자리·서민금융 등 3대 사회정책 투입 공식화",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790368484.0,
         "tag": null,
         "first_seen": 1790370034.5106454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NMDZsY2diRmFvYmt4bnJKdEs0ZXIyckpKbjJJRkZjTEZQS3BjdUhfOVhmdGEtSlhBWFpxOXVqVFhDSE5NSHZjYzhzUzRmRnhpVUNCZ3BEZ1dNX0p1SGQ2U3k3cWVVc3ZEOUpudzRvaHRpQQ?oc=5",
-        "headline": "日재무상 \"美 재무와 엔화 약세에 대해 논의\"(상보)",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/26 00:06",
-        "published_ts": 1790348761.0,
-        "tag": null,
-        "first_seen": 1790349141.168271
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 14:45:44",
+  "updated_at": "2026-09-30 15:01:03",
   "yields": [
     {
       "label": "3년",
