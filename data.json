@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zRFlfT3czVGZINWt4QW44NVd5TS1oMjBUMmhkYVFKcEg3X2lZOWMwazBkZW1HUXFFNmNVQUVjNHFHM3Z3WmxhcDNYLU1hMHQ3T3c?oc=5",
+        "headline": "채권금리 압박에 다우 444P↓...마이크론 호실적에도 시간외 약세 [월가월부]",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/01 06:55",
+        "published_ts": 1790805318.0,
+        "tag": null,
+        "first_seen": 1790806523.8189266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBJME9KRVcxRWxhS3RMeDhqX08yakdRY0hfWnVKQTR5MHFZcW5yTi04MTUzMWh1QUxlUGVYSGtTNHlPVVdJNXo5REE3X3R1dHlCcVY2a3hrdGU1dlZWZE1MVkdfUDAzNEVKdFpJYVdzN3Q?oc=5",
         "headline": "무디스, 높은 부채 부담으로 Skillsoft 신용등급 Caa2로 강등",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790727780.0,
         "tag": null,
         "first_seen": 1790728229.2253103
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JdGNUMWVja1lzN3lILVFkX2JuV0s0ZnRMNFkzZkVuZ0xvNHgxZTRxa0prajBDTWQ0Q1J0RlRZQTl1RkZMejYyVmJrSkZCdVAwREJJT0ZhSGd1NF9aZUVKaWJtNGJ1YTJoUXc?oc=5",
-        "headline": "美 장기채 금리 고공행진...30년물 24년 만에 최고",
-        "summary": "",
-        "source": "청년일보",
-        "published": "09/30 09:06",
-        "published_ts": 1790726766.0,
-        "tag": null,
-        "first_seen": 1790727324.5877285
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1790803829.383907
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9tcjFsNzl3RzlwUThRUVd6NmxLR05BYUhEVnI5QXFOSWNuYlNCQ2ZZT3NmNDBqXzRSYlk0WGdyb3ZHZmZ2UW9tOC10NV8tdFZKWGUw0gFTQVVfeXFMT21yMWw3OXdHOXBROFFRV3o2bEtHTkFhSERWcjlBcU5JY25iU0JDZllPc2Y0MGpfNFJiWTRYZ3JvdkdmZnZRb204LXQ1Xy10VkpYZTA?oc=5",
+        "headline": "레이디 가가가 패밀리마트에 온 이유는…편의점도 구인난 [박시진의 글로벌 픽]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/01 05:55",
+        "published_ts": 1790801700.0,
+        "tag": "JGB",
+        "first_seen": 1790806523.8189266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPd0s5Uk5qekNmZUdnR0pqdlhfUnVMV0ZNSHVITE41cjZQaGt1VEF5aU5sU1ZHdmY5ZDNIN1dQVHg3OGZMZjBIcnRacUhYV0xRb3FBdjJFS29va3kyT0JDbUc0RUFxVnQ5el91SHc2UjVKSUZ6M0VYa3RJd1hEZ19DalBDbXZRMDhjaWQyWXltdFkxSnNPNUNNc0pQOVFkMlZxOGZVTWt2SXR6NmJ3LVU0YVlKRG0zTUxXTVpDdXZNc2xvVjdab21Scw?oc=5",
         "headline": "U.S. bond yields post biggest jump in a generation as global rout rattles investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790764374.0,
         "tag": "Strategist",
         "first_seen": 1790769638.8678052
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSllCcHF4a3U3T1NZZm5wN2cwQTVKcXFhWmo5Y3JnSkNKSGhMeGxtOHloZkEyRXpSaTR5cF9MRFBVQWdtMzcwLVoyTnQ0YmVNUGpvcllheEtJNVFtdWlYVXdLNmx5emlYaVRpZkhqT1VvdmFFTXFSQi1RQl9kQVhjX3lJcjlOX0hmemMzRTNXbUpYdw?oc=5",
-        "headline": "Opinion | Trump has a point about interest rates",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "09/30 19:31",
-        "published_ts": 1790764312.0,
-        "tag": "Fed",
-        "first_seen": 1790766922.2450266
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 07:01:01",
+  "updated_at": "2026-10-01 07:15:45",
   "yields": [
     {
       "label": "3년",
