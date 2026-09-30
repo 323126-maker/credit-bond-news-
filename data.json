@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XaW00Si14M2l2cUNrOURTOTZUVm9ZOTJzVmttSmVnOVBhdEZzRHRYNUVSTTdMUGxvejZMVTBSdWdqRXVGbmlIYks4Vk15WEkzTGhIbC13aFNEOW5pVXZwZ0ltMERod3BrYy0tN3hQUmVGbFE2OVJmTGsxZzg?oc=5",
+        "headline": "[DCM] JB금융, 동종사 웃도는 금리 제시로 신종자본 1000억 발행",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "09/30 19:46",
+        "published_ts": 1790765210.0,
+        "tag": null,
+        "first_seen": 1790766036.641511
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9yM05wZWZsRVBQXzh0RGZpeUR5WWEtRGVrVGkyX3ZDMEJDRVZHMl9LMHlNZTNVS0NsbXFEaE54M2ZZN1VjNTBKc2p1ZXZxTHV0b3c?oc=5",
         "headline": "한화證, 9000억원 자본확충 …\"종투사로 도약\"",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790542910.0,
         "tag": null,
         "first_seen": 1790543725.0748818
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5sZGlEeERSVldtSlJ2MmlSdE80UWUwU01DNlRQRG1Pc1hUT0liYXVzeGh0cnhYbnJ2czF1RmZvVC1xM253WFc0NFNYRXFQVGxDVFRDYnpMOVI2T002?oc=5",
-        "headline": "영업손실 뒤 코스닥행…에이스엔지니어링, IPO 재도전 왜 지금[IPO 엑스레이]",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "09/27 13:37",
-        "published_ts": 1790483820.0,
-        "tag": null,
-        "first_seen": 1790485232.3225515
       }
     ],
     "policy": [
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XaW00Si14M2l2cUNrOURTOTZUVm9ZOTJzVmttSmVnOVBhdEZzRHRYNUVSTTdMUGxvejZMVTBSdWdqRXVGbmlIYks4Vk15WEkzTGhIbC13aFNEOW5pVXZwZ0ltMERod3BrYy0tN3hQUmVGbFE2OVJmTGsxZzg?oc=5",
+        "headline": "[DCM] JB금융, 동종사 웃도는 금리 제시로 신종자본 1000억 발행",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "09/30 19:46",
+        "published_ts": 1790765210.0,
+        "tag": "신한지주",
+        "first_seen": 1790766036.641511
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4yRGVTRFVwcHJjajFZZk5kcHdtV3FtNjc1WTFZUjdfZF9QS0RoUzBfUUFsczdGN3dHeTFKRWU5c1RuUWdYbFlVVkRoV3pmX3ljdUE?oc=5",
         "headline": "한투證, 주식발행 선두 … 채권발행은 KB가 1위",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1790152569.0,
         "tag": "삼성카드",
         "first_seen": 1790154923.8177457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RmhvX3RqZGNsck1jN1RwV1hkTzBIS2lpelF2ekd4LURKUlV0STlxVXFwZUdOb0pyS01zclFhZmpoUTZQTlo1b1EtM2xqUkdTeHBXRDRPNlhJUzdmUndEVlNQLXlORjE2VUEwS3VkVXpNd9IBdkFVX3lxTE5iTlNCTkFUVzRnWTViclo5M0xpTEU1WjBHMnM1NFA2N1dvaThNNE1kYjFtbW1mSEt0d3hHRTdFRGVoZ2lvSFZDU1dEcmtFVUEtdWhxb3FrdTFmMHZ3dzBTajU5eGZ4YTkzakYwMnM0M0lQN1V6aFE?oc=5",
-        "headline": "4대 금융지주 상반기 11조 벌었다···하반기 실적 가를 변수는 '증권'",
-        "summary": "",
-        "source": "sisajournal-e.com",
-        "published": "09/23 16:13",
-        "published_ts": 1790147634.0,
-        "tag": "우리지주",
-        "first_seen": 1790167525.6397717
       }
     ]
   },
-  "updated_at": "2026-09-30 19:45:51",
+  "updated_at": "2026-09-30 20:01:04",
   "yields": [
     {
       "label": "3년",
