@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kY0FmMWY1SVVqZ1dBbGpNS2sxRUN6Q1YtSFRONWVHbjRhckhCZlZCOWY4cDBuZnJ3ZmVCczZ4LWd5YjFtNkdaX1JvQlFKQlMxMWYtSEVlLUdTQdIBWEFVX3lxTE5xUGFzVk9ONy1oeDkyTTNNbm4wN2pCdmtiRE9SUTBmNm5EVjlvVG1UTlpHaTNFT2pxN2pna18xSHBMVDRqNU13MGJZc09CVE5HTXB4UVhtY2I?oc=5",
+        "headline": "미래기금 200조 넘나…민생 지원·국채 발행 축소 놓고 배분 고심",
+        "summary": "",
+        "source": "아주경제",
+        "published": "09/30 10:43",
+        "published_ts": 1790732607.0,
+        "tag": null,
+        "first_seen": 1790733637.5557215
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHajcwNDJDRUozSnhHVVQ2d3pwUHlFVHN6enZNVXlwSzhwQ3BudEV3bkxkeGd5NnpyR0JWU2pWYXhIWXhYRkxTeU5YdGJVcnVncUJDSGhzVm03ajjSAWBBVV95cUxQNldld2twdkZuemNZX191N2JQWTVyRFFtZjJSM3l6UG5jQW1DVEQ2TWJERU9Od0kybFFHcXc1UkljdHRybFdSQktoZTlyLUVhcDh5LWRKaGRXNXF0UDEwVzg?oc=5",
         "headline": "10월 개인 투자용 국채 2천300억원 발행 예정",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790578854.0,
         "tag": null,
         "first_seen": 1790581491.4670813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CWDlOaE4tNUdvRDd2b2p3amFMQUl6cnJxdUpLNEp4T19uR25pMWpkSy1JTlRiMGtwT2VkUWxLS3hJLW1IMC04Wm5tZ1diWHREc2Y4ajRrT3hQZ0gy?oc=5",
-        "headline": "한국 10년물 국채 금리 미국 2.3배 속도로 올라…한미 격차 좁혀졌다",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "09/28 14:48",
-        "published_ts": 1790574534.0,
-        "tag": null,
-        "first_seen": 1790575246.9547465
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 10:45:47",
+  "updated_at": "2026-09-30 11:01:02",
   "yields": [
     {
       "label": "3년",
