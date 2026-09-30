@@ -1630,6 +1630,16 @@
         "first_seen": 1790752530.7359607
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaEtSV3pPb2VlaS11VlF5dUhvZjhoRkNzZG1qM1JyRmF1RXZWV1JLejBidVBmLTN3TDN1QW9IS0dSblFKUTJ1b0taZUZncjZkOUw4aFZzbm12Sjhpc3c4MlMzeXdETlV6cU50MW5uZVhzOUp5WXVNNmpfY0NUSi1JMWZRa1c5MWk2SGc?oc=5",
+        "headline": "9월 30일 오전 국제 금융 및 통화 시장의 동향입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "09/30 15:03",
+        "published_ts": 1790748199.0,
+        "tag": "JGB",
+        "first_seen": 1790754326.2291634
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbGRBQTVPcFFHVlg1aXhkQmpLQ2dBWjdUX3hHeVFuOWEtNjZ5ZXZraFF6THg4Q2xfRTlac29uaHhTd3J0bGR3SEVqY1NFaW5oWGYyQ1R3Rmh1dnpMNWEtcGtyVGxJWjNYZEpqVldIMlV2b25vVkcwSmpnSzlDV015Y1NCWHVKb2RVMlFVNUpIb1pFajFkRVNhWFhEYjB6Z9IBowFBVV95cUxNVGJ1S05ycTJYYklrekVSM3FXOEFITDdLSWdhcXRTbzdGNlVCNnc1S1dDLTA4b3UzNU1rXzk2eFh3R1ZhSl83d3RRQ3VjR0dTTWgxSV9zbGFZMGtuUHdiU3dwQlRBTE94TUxoNWxRN1FmSE1yNXM5U1hVakpCa0VpcEpXQmgyeXQxTUNLSExuYXc3UTEzb1RoR3FHOTZDbXNTelhr?oc=5",
         "headline": "Govt Bases FY27 Borrowing Plan on Rs. 290/Dollar Exchange Rate",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790708516.0,
         "tag": "Strategist",
         "first_seen": 1790710115.8693888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBteWZpRmJ6TzZLRlVmTFpxRGFhVUczbFBQUVBNMHNPQ204X01oYTVnVmhmT0RhS01kTi1oRVFOZ3JYdWlMd0FxZV9Wb3BzNXgwRzNRSVdUV3Rhb0hXcm9Qa1d4RlpPZnV0dnBGUGdMZ0xoZGFYdkE?oc=5",
-        "headline": "Barclays Warns: If Productivity Keeps Rising, U.S. 30-Year Yield Could Hit 6%",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "09/30 03:55",
-        "published_ts": 1790708100.0,
-        "tag": "Fed",
-        "first_seen": 1790716526.8745959
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 16:30:58",
+  "updated_at": "2026-09-30 16:45:53",
   "yields": [
     {
       "label": "3년",
-      "value": 4.076,
-      "chg_bp": -4.3,
+      "value": 4.011,
+      "chg_bp": -6.5,
       "series": [
-        3.838,
         3.878,
         3.93,
         3.888,
@@ -2439,15 +2438,15 @@
         4.04,
         4.006,
         4.119,
-        4.076
+        4.076,
+        4.011
       ]
     },
     {
       "label": "5년",
-      "value": 4.276,
-      "chg_bp": -6.9,
+      "value": 4.203,
+      "chg_bp": -7.3,
       "series": [
-        4.053,
         4.106,
         4.167,
         4.118,
@@ -2466,15 +2465,15 @@
         4.267,
         4.22,
         4.345,
-        4.276
+        4.276,
+        4.203
       ]
     },
     {
       "label": "10년",
-      "value": 4.476,
-      "chg_bp": -6.3,
+      "value": 4.407,
+      "chg_bp": -6.9,
       "series": [
-        4.313,
         4.371,
         4.418,
         4.367,
@@ -2493,15 +2492,15 @@
         4.461,
         4.392,
         4.539,
-        4.476
+        4.476,
+        4.407
       ]
     },
     {
       "label": "20년",
-      "value": 4.513,
-      "chg_bp": -4.0,
+      "value": 4.42,
+      "chg_bp": -9.3,
       "series": [
-        4.49,
         4.559,
         4.614,
         4.593,
@@ -2520,15 +2519,15 @@
         4.53,
         4.461,
         4.553,
-        4.513
+        4.513,
+        4.42
       ]
     },
     {
       "label": "30년",
-      "value": 4.603,
-      "chg_bp": -4.7,
+      "value": 4.526,
+      "chg_bp": -7.7,
       "series": [
-        4.527,
         4.627,
         4.657,
         4.635,
@@ -2547,7 +2546,8 @@
         4.635,
         4.563,
         4.65,
-        4.603
+        4.603,
+        4.526
       ]
     }
   ]
