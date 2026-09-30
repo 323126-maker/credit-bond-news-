@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdWZTelVBTW9qVUdScF9WS0ZlTUU3X01fbzBBdFZBNDNHdTVaUm80WkFjSDYtUUd1dGd1NDAtSUFKQ3J2RTgxSHFGWk1xR2JQNF9Hc0JWTG8ydVpmNXBUX3RlaDVLQVpXdjc2S1FR?oc=5",
+        "headline": "10월 증시 운명의 날은⋯삼전닉스 실적 발표ㆍ기준금리 변동에 ‘주목’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/01 05:00",
+        "published_ts": 1790798400.0,
+        "tag": "JGB",
+        "first_seen": 1790798775.9931273
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUFN4OWdGWV9fZklkRmw0SzlMWm9zWHdTOXIwWng5ZFBjTjlmMmV4bjJhNDNkelYzc2g2eVZLU0doOXJRQ19NeFk1MXhTVldGX0Y0RUFRMDdxSlZfbkxhT2doME12a0Q2X1NrcmZTNVJlVDF4dXcxWlZWclVuX2RCdU83NTBDOUR1U1JuSURUOXpzdlZGbEVZ0gGXAUFVX3lxTE1QU3g5Z0ZZX19mSWRGbDRLOUxab3NYd1M5cjBaeDlkUGNOOWYyZXhuMmE0M2R6VjNzaDZ5VktTR2g5clFDX014WTUxeFNWV0ZfRjRFQVEwN3FKVl9uTGFPZ2gwTXZrRDZfU2tyZlM1UmVUMXh1dzFaVlZyVW5fZEJ1Tzc1MEM5RHVTUm5JRFQ5enN2VkZsRVk?oc=5",
+        "headline": "The final verdict is in for the Fed's troubled renovation and Jerome Powell",
+        "summary": "",
+        "source": "Fox Business",
+        "published": "10/01 04:13",
+        "published_ts": 1790795580.0,
+        "tag": "Fed",
+        "first_seen": 1790798775.9931273
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRVB2Z3RQQ01fS1RVTmdBT2g4MFV6dUU2Nms3NElpamt3VEJMN2g0V0JoZmdIMGd6YjBQUWJLTkstcXB1bnkycUQ2UUhvTnZGRTZhQUlUb2FaNVhWYkMwQmppbW54dWxobnNudUZkcUxlMU16M0ZBS3V2b2pqeGo5eHFB?oc=5",
         "headline": "Beware Of George Soros Types In Government Finance",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790754525.0,
         "tag": "Strategist",
         "first_seen": 1790755238.4171371
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3pVYmVxMHJmVTVUa3hWcW5kdzFiejFmQ3l1ZDNGdTlpZmZUT0pra203d0F0ZkQ5Q0c1Nk5KVWxaT3dTT0pCMmRhX1dVMTVKTlJ6UHI4S2pJbGVWN2ZvWDRrZkdZeGJBM0lrVnhXZmpFZUhTNHNXclRHWV9UaW1XeGdzRWN5WU4zanFxR05RY0h4UU45Zjhlcm5oOA?oc=5",
-        "headline": "Global markets mixed as US Treasury yields hit multi-year highs",
-        "summary": "",
-        "source": "Yeni Şafak English",
-        "published": "09/30 16:32",
-        "published_ts": 1790753567.0,
-        "tag": "Fed",
-        "first_seen": 1790771428.8435118
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNXl5cjBxUEJkampkdmQ1azlBNWFkaTcwcmNQWHNTdUF1VVJQSlVwMENVREVkQXNqaXRsZmkyaVV3RFh3djlVcmJZUzNTWUg5WjdfeXdBaXRHdVdaUUlLSnNQQy1TdXNzSzZDV0luQVc?oc=5",
-        "headline": "일본 장기금리 30년 만에 최고…\"완만한 회복 지속\"",
-        "summary": "",
-        "source": "리드경제",
-        "published": "09/30 16:30",
-        "published_ts": 1790753400.0,
-        "tag": "JGB",
-        "first_seen": 1790763326.0284405
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 05:01:02",
+  "updated_at": "2026-10-01 05:06:41",
   "yields": [
     {
       "label": "3년",
