@@ -122,6 +122,16 @@
         "first_seen": 1790736326.1694927
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1wU0RhZjhXY3hNVWdZc2g0Qk1IdFhLQUdYLV9wRGdxdlp1TnhkRmpKeWhDRHJTQ293czhaOUVnbndWeWktZ3c?oc=5",
+        "headline": "휘닉스중앙 매각 본격화…중앙그룹 구조조정 잰걸음",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/30 11:35",
+        "published_ts": 1790735700.0,
+        "tag": null,
+        "first_seen": 1790771428.8435118
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5oSmRySzhxZlBMYXZjUHl1b3U4WWJOQVdvVW8yeGJ5dG41MEthMFZYQ09NZzV3Sk1UTTBYbHhnVnlOVGZTZUtBclVuRnFmbUtyRGM4bDNVTG1wZw?oc=5",
         "headline": "\"채권시장에 악영향 우려?\"…부랴부랴 보도자료 고친 정부 [김익환의 부처 핸즈업]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790713503.0,
         "tag": null,
         "first_seen": 1790747121.9160063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZNnZ2RG41bElqNnVSVEFfOWZZQzIxb2JyWFVOb1dzSFNsc2tnQXJNQTU5UThMVktNV3RzWENmalFDNW9ILXBXVy13UkY2WkdZTGdTdS0xM3lhcElKRmRlZW1vN2lXLXRWamktS1pHa2c?oc=5",
-        "headline": "무디스, AAR Corp 신용등급 Ba2 유지…MRO 인수로 전망 ’부정적’ 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/30 05:19",
-        "published_ts": 1790713140.0,
-        "tag": null,
-        "first_seen": 1790713831.650634
       }
     ],
     "perpetual": [
@@ -1740,6 +1740,16 @@
         "first_seen": 1790755238.4171371
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNN3pVYmVxMHJmVTVUa3hWcW5kdzFiejFmQ3l1ZDNGdTlpZmZUT0pra203d0F0ZkQ5Q0c1Nk5KVWxaT3dTT0pCMmRhX1dVMTVKTlJ6UHI4S2pJbGVWN2ZvWDRrZkdZeGJBM0lrVnhXZmpFZUhTNHNXclRHWV9UaW1XeGdzRWN5WU4zanFxR05RY0h4UU45Zjhlcm5oOA?oc=5",
+        "headline": "Global markets mixed as US Treasury yields hit multi-year highs",
+        "summary": "",
+        "source": "Yeni Şafak English",
+        "published": "09/30 16:32",
+        "published_ts": 1790753567.0,
+        "tag": "Fed",
+        "first_seen": 1790771428.8435118
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKNXl5cjBxUEJkampkdmQ1azlBNWFkaTcwcmNQWHNTdUF1VVJQSlVwMENVREVkQXNqaXRsZmkyaVV3RFh3djlVcmJZUzNTWUg5WjdfeXdBaXRHdVdaUUlLSnNQQy1TdXNzSzZDV0luQVc?oc=5",
         "headline": "일본 장기금리 30년 만에 최고…\"완만한 회복 지속\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790730000.0,
         "tag": "JGB",
         "first_seen": 1790744434.5198221
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9Mb2ZvMkZXRkM5UVBGVkZUT2tibmZ3Q1p0Rk5qaEhoQkR3T3V3bEs0WUFRTjZ6SEwzU2Q0MWNEMVZFSGdSQ2VPdEdGb0lVV2ZScWgxSksxZWE3MC1iMGxlaNIBeEFVX3lxTE1STEtHS0NJMEFzcE5zVkhXODRRT0RUX2lpLTZiNXpsRXhvMUZpaHJFUE5raXEzdi0zQTVhVWV6RzI1VmFmTXBCRnBLdWxVSFg3ZTVJZDViemFZV0piVFMxR05XREg0UlFqVVVSNGVJSVozWS05TVJtYQ?oc=5",
-        "headline": "엔화, 美 추가 금리인상 관측 후퇴에 1달러=157엔대 전반 보합 출발",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/30 09:59",
-        "published_ts": 1790729985.0,
-        "tag": "JGB",
-        "first_seen": 1790730924.0296907
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 21:15:49",
+  "updated_at": "2026-09-30 21:31:04",
   "yields": [
     {
       "label": "3년",
