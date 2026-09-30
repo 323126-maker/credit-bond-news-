@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY21SUzlHREVfUjhxaDh6LW5aR3dQcjVkQnhic3V1S1E0Zkh2YlliNVRubnlDNlNNSHVldm9sOXBDdS1WRll0dlE4SGRVbTh3UWJlc0tUdXNYVlFRWktQVl84RU9QQ3RBYWdfdWdTM3JWUnVOTi12WTA0VHBmQ1RqcVdRMFo?oc=5",
+        "headline": "The Street Is Looking to Japan for the Source of the Bond Market Angst",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "10/01 05:05",
+        "published_ts": 1790798745.0,
+        "tag": "JGB",
+        "first_seen": 1790799324.0974839
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBpdWZTelVBTW9qVUdScF9WS0ZlTUU3X01fbzBBdFZBNDNHdTVaUm80WkFjSDYtUUd1dGd1NDAtSUFKQ3J2RTgxSHFGWk1xR2JQNF9Hc0JWTG8ydVpmNXBUX3RlaDVLQVpXdjc2S1FR?oc=5",
         "headline": "10월 증시 운명의 날은⋯삼전닉스 실적 발표ㆍ기준금리 변동에 ‘주목’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790755559.0,
         "tag": "Fed",
         "first_seen": 1790762435.5076306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPYWVqajhMc3g3b3Vlem9sUHRiaE0yX3pSVWdDZHdPZDZyV2htVEx0UHBDMjZ5QkJJRGtVcnE2Vm5WRk9ta0M4WFZJZ3Q2TUVrSHZVb2dnTXBfTlVabGJIVmxQUHFDX3BmVmxnWGhaRlRPLW9TVldYeWtzdGw0V1pSaG9zeWdRbExoNl9MbkJPRzZURXZuSGhFYWw1anlySkNkcVpPOU95RGJKWHZFTzZKMnhucVQ1Y3hZSHNTNW1hTlhRQ19td0JyV1h5VkE2bG1NWWd2WHhqcUM5UmtzaHVOd3BZT0RlQ082OHVHRWNlc29yYTR3dlhGX1oxbEk5QWs5WTZ2WjlR?oc=5",
-        "headline": "Victoria’s real pothole problem: a looming $90bn bond bill",
-        "summary": "",
-        "source": "The Australian",
-        "published": "09/30 16:48",
-        "published_ts": 1790754525.0,
-        "tag": "Strategist",
-        "first_seen": 1790755238.4171371
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 05:06:41",
+  "updated_at": "2026-10-01 05:15:49",
   "yields": [
     {
       "label": "3년",
