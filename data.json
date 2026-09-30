@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5KXzlibWU2TE1qNGVMeFhZclRucTJjaXZTXzNjZjYwdndjZ253eDB4Z21JM1RWaFdGeTdQWHdlTUNsLUtrSkc5SjRRWVFzSTA?oc=5",
+        "headline": "[아세안 릴레이 인터뷰] \"인니 국부펀드 우려 잘알아 … 지배구조·투명성 개선 노력\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "09/30 17:36",
+        "published_ts": 1790757380.0,
+        "tag": null,
+        "first_seen": 1790757921.53254
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZDdmYkxFRnhmRHBmZFJWZTRZQUhvaGNQY25vcHhSNU1LbUdncllsZkxncXRzaDhpSjd4MkdyNUluWU5qc3p4YzN1a090c2ZicGctbU04YTJOSE5oZVFBR2E3RGppYW5XdUZqTjdRVWlSUQ?oc=5",
         "headline": "국고채 금리 일제히 하락…3년물 4.011% 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790679660.0,
         "tag": null,
         "first_seen": 1790680525.7834907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BeVIxZkNNR21NWFlnTVhYZElhd3pVLUlLZThfdUFaTDZ5WUs3OFJPNm9Dd3FUVFM3Nm00V3doTjN0YlBEWHRVSVNkYTBUWnBZMW9GN2RISnEwcGhzakZHc3ExMjJwNTlMLXpVNnNlaEpJMW1L?oc=5",
-        "headline": "웰스파고, FS KKR 신용 우려로 주식 등급 하향 조정",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "09/29 19:31",
-        "published_ts": 1790677860.0,
-        "tag": null,
-        "first_seen": 1790688629.859315
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-09-30 17:31:00",
+  "updated_at": "2026-09-30 17:45:53",
   "yields": [
     {
       "label": "3년",
