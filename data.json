@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBJVkJSWU9xNmpzSWVnQnJyTWtPMkFqTTR5NzBsVktmY1I2T3pidzBzVENOTjF0ZnluZGNDVTVnUTU1dmhpQS00bWFzNWNfSlJmMWxLX1F3?oc=5",
+        "headline": "전 자산군 아우른 ‘풀 커버리지’…리서치 분석범위 확대 [2026 헤럴드 투자대상 최다 리포트상-NH투자증권]",
+        "summary": "",
+        "source": "biz.heraldcorp.com",
+        "published": "10/01 14:00",
+        "published_ts": 1790830849.0,
+        "tag": null,
+        "first_seen": 1790831721.7651925
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA4Z3RPZVVucWt0QmZfVnRrdWt6LVdKeFd0UEp5VzA3VjhmaUJUX29rcGxteTRrYUFwdWJobVlXU2VlbVlMNzZuaFpFUDdZVzNJaG9ud291YVBFZFlGNldHakYwZ1h5RGpD?oc=5",
+        "headline": "회사채 금리 5% 시대 성큼…기업 조달비용 뛰자 투자자 군침",
+        "summary": "",
+        "source": "ebn.co.kr",
+        "published": "10/01 13:49",
+        "published_ts": 1790830173.0,
+        "tag": null,
+        "first_seen": 1790831721.7651925
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tT3lLTVZNbnJVbzNCbU1nZ0d5eTNjNXBReHExd2xzeFVBVXZVdENveVJqZzFXNmxzOXpRQXhzaktlUVJUT08zU0NMVkthMEE?oc=5",
         "headline": "SK 회사채 ‘흥행’에 고려아연 등 출격…배경은 ‘공급 가뭄’",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790756600.0,
         "tag": null,
         "first_seen": 1790763326.0284405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5pZDdmYkxFRnhmRHBmZFJWZTRZQUhvaGNQY25vcHhSNU1LbUdncllsZkxncXRzaDhpSjd4MkdyNUluWU5qc3p4YzN1a090c2ZicGctbU04YTJOSE5oZVFBR2E3RGppYW5XdUZqTjdRVWlSUQ?oc=5",
-        "headline": "국고채 금리 일제히 하락…3년물 4.011% 마감",
-        "summary": "",
-        "source": "specialtimes.co.kr",
-        "published": "09/30 17:03",
-        "published_ts": 1790755435.0,
-        "tag": null,
-        "first_seen": 1790756125.58796
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03LUxVcFlxVkxrcl9DRGxMekVaSEkzbnJ4VklLRlRSM2pWa1dWVVRsUWFrUFV5T1Z1eG9YdWUwVmlJQUx1eUpQcHJDMTczYWVSUUFBdWZIUjJEbTA?oc=5",
-        "headline": "유가하락·발행 축소 기대에 국고채 금리↓…3년물 연 4.011%(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/30 16:56",
-        "published_ts": 1790754990.0,
-        "tag": null,
-        "first_seen": 1790764229.3013024
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 14:01:02",
+  "updated_at": "2026-10-01 14:15:45",
   "yields": [
     {
       "label": "3년",
