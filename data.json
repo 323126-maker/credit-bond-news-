@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1nZnF2cWJRbnBWOS1HUm0tQUZ1SDl0TVJHMUhFT0I1VUxoZHVBcmtQV2JydjhHU1Y1Xzh6Y2l6UTU1dlprLWRTXzh0Vy16YVh3SWZpMmhtanVCRlE0bi1fdDBOZVZqeHJhcEdOcERQZXpOUQ?oc=5",
+        "headline": "미 달러화 4일째 강세…엔 약세 속 국제유가 상승",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/01 22:08",
+        "published_ts": 1790860092.0,
+        "tag": "JGB",
+        "first_seen": 1790860524.920485
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YbS1PcnhOUzZXbmI5NGVYM2hDNkd2dElOb1NEa0FfZXQ5S0N5M1JGMmMxbml5S3BrZ0hwUkNsV3NYeFhndzM1MUxKYWdyazRzOXM1cW01REh2Qm9BajRrdnhlU0ExWDdEc3VFZWRabjY?oc=5",
         "headline": "Global Markets Split as Bond Yields Surge",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/01 13:43",
         "published_ts": 1790829794.0,
         "tag": "Fed",
-        "first_seen": 1790829920.958735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQcmU3Z3ZISXItTUdtQTdqQlZmM2xCcjB4MXlrc1VXalpXSHFMLXYydEZuMXp5UjlwYTlUZkxDbHJjeTRSaUxTNTlENUtzaUZDTUw1bl9pbVZvUS1zMmJocVd3eXIwZnh6UWotbDhSVWhYSFpNdF9xN3FKSTJYZElzcndjbHpVeGFsMmtnbHNTb2M5NmRzaVhGMUJST0o4V05ZZ2VSc3JsU0s3cEFtRVB1c1BSODJMeTFvb082TW5tNFpsSU5hRE5Xcnp1UHhOQ2hKU204Znd3U3N2QzZvZ3h5MkV5aXFxYTl1cXhKOUpnU2lZN1XSAfgBQVVfeXFMTjJOVnNBdDJBaFJ3R1UxNzR5Q1dGeXhWRnRtX1VmVTI0bV83NGxqS3U3YUZKR2NTZVVLd3M2WkhkM3hzSGxqWGtac0Q3QlBkNXF4WUpIS3l5Y084ZHVob28tTjhpWmg5a3BLNVhoSHItdnhqYWxIUV90S1VxOTh3QW9WZll3SERQNEx4WE9yNmxvSHJMcnNYdWFEOTZOVmFBTWNoSFozVGRmOGJuZ2pnVEU2cXdndkpfd2NEdloxSVFtUkk1TVdiWHNfaGpBQTdBcWhaMm13cEsxUld5NG1neDFRMFRxZ3FlX2ZJdzJocVVFUmF3amtINTc?oc=5",
-        "headline": "Global Market: Japanese bond yields rise as investors weigh inflation, rate-hike risks",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "10/01 13:35",
-        "published_ts": 1790829323.0,
-        "tag": "JGB",
         "first_seen": 1790829920.958735
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 22:01:07",
+  "updated_at": "2026-10-01 22:15:51",
   "yields": [
     {
       "label": "3년",
