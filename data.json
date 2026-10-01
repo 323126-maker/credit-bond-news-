@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE03Mm9HYVFLNWdUODNpSzYtUF9tUDl6MzNCNmFuT2dsc3dnOXZ2Uk9sTmswdHlYOHZhNjJFeURzamd1bldxYWpPdXF4aUdLRHBfRDBhcjFkMEZnQ2dpSjh5cDZhWlZleXdO?oc=5",
+        "headline": "뉴욕증시, 채권시장 변동성에도 '강보합' 마감으로 방어 성공",
+        "summary": "",
+        "source": "ebn.co.kr",
+        "published": "10/02 06:08",
+        "published_ts": 1790888923.0,
+        "tag": null,
+        "first_seen": 1790891121.527501
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rT294ZG5fVkNPNEhhTUtBdTJUNmozd0c2V25RVXpkZFVGZTJaenkyVnZCOUJJREpKTHpIZXpnWXpzOExTbmd1WmFhd09BOWlnLWl1Y3pYR1g2UkZ2UndqVnB5b3RfcnY3a21hTXIxeHg?oc=5",
         "headline": "무디스, 매출 및 마진 회복으로 카터스 전망 ’안정적’ 상향",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "Chosunbiz",
         "published": "10/01 10:01",
         "published_ts": 1790816493.0,
-        "tag": null,
-        "first_seen": 1790817321.9210484
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13czRfX09LS1pzQUs4X2s2MXZsTGlrbzJMTVBNVTI0R0RsUGlZNUJhQUtYcE9LXzVvUW1MNlpPczNvZWJydlNjTHB2SDgyN0JuUTg1bw?oc=5",
-        "headline": "금융위, 4분기 은행채·여전채 발행 점검…\"시장불안시 안정자금 확대\"",
-        "summary": "",
-        "source": "데일리안",
-        "published": "10/01 10:01",
-        "published_ts": 1790816460.0,
         "tag": null,
         "first_seen": 1790817321.9210484
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 06:30:54",
+  "updated_at": "2026-10-02 06:45:49",
   "yields": [
     {
       "label": "3년",
