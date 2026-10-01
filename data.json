@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBIUHhuZ1dpYXMtR3AwUWZoa1pPb183MWtja1lsM0thN05xQ0R1WDVYbjR2d0p1T2FoMWNxM2sxczV4ZlhUV0NuSzloM3VseF9mVEFtZjZlOHFCQlZQUzFnTjFOcGtTV09sU2ZwLXNFUHZYdm83aFHSAXtBVV95cUxPZDQ3MjZNbElIMWgtdkpwX0hhWXN4ZHJoNk5WRUVoeUlmblpRMmo3dDY3czFsSzJmYm0wQllqU2ZSVnNBM0Y5cndCX3FJLURaVk5QbEtKVlAzX3NaTjdzNkw0T0hqTi1vN1VWMzJFOHQzSVlRdlZVR1JuUTQ?oc=5",
+        "headline": "금리 급등기 회사채 발행 나선 AA 기업군…전망 한글자에 금리 엇갈려",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/01 16:32",
+        "published_ts": 1790839929.0,
+        "tag": null,
+        "first_seen": 1790840723.4436438
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcDJ3N29YdTZLbGlaeFoybzVvVnFpZzh4ZDE1QklESk5ESXJKMWdETW1hNDYzNk9JZzJvS0I2ZDlod29VMEpCdXBOczR6RW5WS1FfTi1oODFrVkh6M0s5dmJSMm9sZkwwN2IzbXJLeUNHNWZJWmlPeDRiZnZZblYyd2tQdGd3S0IzRHJqUE5NZnBDRHNJSTlRdEJqRjRtdVJaaDJtMnJHYVZtYnFUeldFOGxvNlpXYXFaT2FEZGZXelhncXFPZU1CYlRDeTFhaGlGQXlvQzNnYXA?oc=5",
         "headline": "Carnival Corporation의 3분기 실적, 6월 가이던스를 1억 달러 상회. 장기적으로 주가는 어디로 갈 수 있을까.",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1790763471.0,
         "tag": null,
         "first_seen": 1790768724.169663
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdmtad015QWRGa2ZhU0dlTEpaYm9nUjZQN0pfRW9feS13R0FIdnBHYTNSeW9JREZkMEZ2ZGhzMlcySERRY0h4UzVqeHNvQTdsd3Z4T2Z0VlZiY3VtMW1HWkpVeGxfLXMyX2pTaFlqYllaNjZNVW1Dal9LMG9fNUFVaTlkcnZ6NkxuWHozY0p1eTVWdl9xbEE?oc=5",
-        "headline": "2026년: AM Best는 BIC의 재무 건전성을 B++ 등급으로 유지합니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/30 19:07",
-        "published_ts": 1790762824.0,
-        "tag": null,
-        "first_seen": 1790772323.5670485
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kQUlrT0J3QjJZOC1jZzZRaGlsY1ZxUU5EdktnMWl6QU95TjJKNC13Tll3b2p1U0F5ZU1aSXh2OXVSV1RtNk1XbkNwTUw3TzBHemkxVklIeFg1c2w2Qk1SQjJBSlNFdXlxdjRmdU4zT0UtcDA?oc=5",
+        "headline": "하나증권, 3억 달러 신종자본증권 발행조건 확정...표면금리 6.5%",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/01 16:38",
+        "published_ts": 1790840280.0,
+        "tag": null,
+        "first_seen": 1790840723.4436438
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM0dDZFVsNDY3TldYOS1HNUlZTDAxUkVfU3REWllybjg4NUFLMmkxUEh4SEhjUkV4QkJ2Vy1OMmU2YWwzOFlJcVo0dWtRbVFlX0E?oc=5",
         "headline": "하나증권, 국내 증권사 최초 달러화 표시 신종자본증권 발행…공모액 6배 주문 몰려",
@@ -792,16 +802,6 @@
         "published_ts": 1790640900.0,
         "tag": null,
         "first_seen": 1790810122.5822546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE05UUEzVkh2SFBNZFJaZ0Y1azMzM1hta015V096UnVZVnhTV0tNeHJLMV9Kd254TnVrakJNNXFzWkJMa3RyZTJOOXdrYUxlYjQ?oc=5",
-        "headline": "롯데지주, 400억원 사모 신종자본증권 발행 결정",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/29 09:04",
-        "published_ts": 1790640286.0,
-        "tag": null,
-        "first_seen": 1790644522.2302237
       }
     ],
     "policy": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 16:30:53",
+  "updated_at": "2026-10-01 16:45:45",
   "yields": [
     {
       "label": "3년",
-      "value": 4.011,
-      "chg_bp": -6.5,
+      "value": 4.01,
+      "chg_bp": -0.1,
       "series": [
-        3.878,
         3.93,
         3.888,
         3.884,
@@ -2439,15 +2438,15 @@
         4.006,
         4.119,
         4.076,
-        4.011
+        4.011,
+        4.01
       ]
     },
     {
       "label": "5년",
-      "value": 4.203,
-      "chg_bp": -7.3,
+      "value": 4.2,
+      "chg_bp": -0.3,
       "series": [
-        4.106,
         4.167,
         4.118,
         4.101,
@@ -2466,15 +2465,15 @@
         4.22,
         4.345,
         4.276,
-        4.203
+        4.203,
+        4.2
       ]
     },
     {
       "label": "10년",
-      "value": 4.407,
-      "chg_bp": -6.9,
+      "value": 4.436,
+      "chg_bp": 2.9,
       "series": [
-        4.371,
         4.418,
         4.367,
         4.36,
@@ -2493,15 +2492,15 @@
         4.392,
         4.539,
         4.476,
-        4.407
+        4.407,
+        4.436
       ]
     },
     {
       "label": "20년",
-      "value": 4.42,
-      "chg_bp": -9.3,
+      "value": 4.424,
+      "chg_bp": 0.4,
       "series": [
-        4.559,
         4.614,
         4.593,
         4.573,
@@ -2520,15 +2519,15 @@
         4.461,
         4.553,
         4.513,
-        4.42
+        4.42,
+        4.424
       ]
     },
     {
       "label": "30년",
-      "value": 4.526,
-      "chg_bp": -7.7,
+      "value": 4.538,
+      "chg_bp": 1.2,
       "series": [
-        4.627,
         4.657,
         4.635,
         4.636,
@@ -2547,7 +2546,8 @@
         4.563,
         4.65,
         4.603,
-        4.526
+        4.526,
+        4.538
       ]
     }
   ]
