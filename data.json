@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1GLU1oaFJ6Umdma28zajE1SHZzYzFHZlNOMkpiTmFzS3ZCYXpJNE5PaWVwbFdvOGZpT2g1N21UMGlsaUc4cTlkTFd4N0p4UmVTRzJuRS1fdV9neVhDNUQxMjVZczVBd1BrUjNOZldzdEXSAXRBVV95cUxQUlpoaVVmcm9JNXhqblRjdVpiUUphOXZoSmJQNGowRk56MmRmUGxKLTRkR0MtQktPVHNEVnpWRkd1X1RoNGl3eUtOZjNEeDRKQkpwMXpCUXBaXzljSS1sNmFjcFl0aVc0c1VVYmdLMFpKc2sxZA?oc=5",
+        "headline": "[뉴욕증시-1보] 채권 따라 춤추다 결국 제자리…강보합 마감",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/02 05:12",
+        "published_ts": 1790885531.0,
+        "tag": null,
+        "first_seen": 1790886631.6967547
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5Sl9XX0Q4V19VYjBzQk9ydXktTktkOHU0X3JnSWZST05Zcy1SbTVtSWtrUHE0UDRYdG81VlZYZks2MVVPY0lSaV8zM2RnNTJnd1hPcURuaTU1NkpQeU9VZ1I2d2RkcjJpMmlTeWRBamEzbXhV?oc=5",
         "headline": "파이퍼 샌들러, VF 코퍼레이션 주식에 중립 의견 재확인, 목표가 16달러",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790816400.0,
         "tag": null,
         "first_seen": 1790838924.0769608
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1MeHFsZ2lRazd4Zlp0MnpKd2Y3cVRLeDR6N0JUN2ZkSks0V0FmTmpBd2VESUxxV1F2a1diZXMweWVNYW9qTjNWbnNLUkFYZw?oc=5",
-        "headline": "금융위 “금리 상승기 취약부문 점검 강화…시장안정 프로그램 적극 집행”",
-        "summary": "",
-        "source": "전자신문",
-        "published": "10/01 10:00",
-        "published_ts": 1790816400.0,
-        "tag": null,
-        "first_seen": 1790817321.9210484
       }
     ],
     "perpetual": [
@@ -1870,6 +1870,16 @@
         "first_seen": 1790859637.3526742
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORDVLdTk2NVF0bndQS2JUa3NoLVFvY3hlSDZScHR4YWFramNzQW0zWXU2Q2FZSl9RejBsMUtRajFhUndWUHl6dEMySmR2SEJpMGJsdDk4R2xNa01mM25RV3d6MzBRZHhOdjIzYUpGcnlVS0x1YXlBclpNeXBocm5VS3FqWFhaZE43RnBINA?oc=5",
+        "headline": "전 세계 국채 금리 동시 폭등, 빚의 가격표가 바뀌고 있습니다",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "10/01 21:20",
+        "published_ts": 1790857200.0,
+        "tag": "JGB",
+        "first_seen": 1790886631.6967547
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSGVjRFRKbmJ4THp0V2JGa3VhdnNRQkE2ZXJzd1c0LXMtcUtrY0xHXzhEY21odFZlaGJUOFRYeUQ4Zk02VGp3NWJRVzBoTGQ0RXFiTVBvTENidUJKalBTS2pybGxrU0tPM0doMTY1Yk9SNDJ3RVY3cTVQMVNTMHlyUlN2aU0xdw?oc=5",
         "headline": "Gordon Brown helps organise innovation nation summit in Manchester",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790850543.0,
         "tag": "JGB",
         "first_seen": 1790850627.575615
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSThoQWU1aHdYbUpKZVc1bzljd2VTUXU0cmFiVkxMUUZBaGxGaVUtSnRNYWlmS0VzUjY0dHlnUzd2NC0wVk1nRUluaF96b0kxbWhlUmxPeWdGZi1rTWZHZWs4b2hpT2ZxV1JzN3k3bF9DQjNON1pheEItY01CN0ktWUlFNlM3QnF0RmlJU2pkYU9xZi15UTNzdEFKV0lPZw?oc=5",
-        "headline": "The Fed and bond market are sending opposite signals ahead of a crucial jobs report",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "10/01 18:50",
-        "published_ts": 1790848224.0,
-        "tag": "Fed",
-        "first_seen": 1790848832.9347596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 05:15:49",
+  "updated_at": "2026-10-02 05:30:52",
   "yields": [
     {
       "label": "3년",
