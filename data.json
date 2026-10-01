@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tT3lLTVZNbnJVbzNCbU1nZ0d5eTNjNXBReHExd2xzeFVBVXZVdENveVJqZzFXNmxzOXpRQXhzaktlUVJUT08zU0NMVkthMEE?oc=5",
+        "headline": "SK 회사채 ‘흥행’에 고려아연 등 출격…배경은 ‘공급 가뭄’",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/01 11:33",
+        "published_ts": 1790822023.0,
+        "tag": null,
+        "first_seen": 1790822725.6077147
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5WR1dzbE5wbHhGVEhTdWxyVlhFNGdBaDFTOGlHeGRvdWlEQm80eWg2WEJxUDVSNktFZWd1ODlQbGhGRm5yTFNYYzM2eTZ2UVdITm4wSVRFUWZUdVk4NzVJVFNaeFdIbmZfUXlaRw?oc=5",
+        "headline": "[심층분석] 메리츠증권, 16.7조 조달길 열렸다…부동산 강자 넘어 ‘종합 IB’ 도약 시험대",
+        "summary": "",
+        "source": "굿모닝경제",
+        "published": "10/01 11:18",
+        "published_ts": 1790821085.0,
+        "tag": null,
+        "first_seen": 1790822725.6077147
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ucDN0T2gyRzU0bk0wUklRc2U1bE1wVFl1TzFnNVZxNEpaWl9kSlFPQ2htekxnOGt4WmFwQVMzZDE1RDNUaTVpbXh4ZHpUTTJhbFBMNWprSEEtVzNQVTJZZGF2d2NfcVk?oc=5",
         "headline": "3년 만에 4%로 뛴 국채 금리에…이억원 “가능성 극히 낮은 위험까지 점검”",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1790748180.0,
         "tag": null,
         "first_seen": 1790748924.1961534
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KYlpfS2NBUzdlZ2hJeEdOTUg2V2N2d0tvVDF1eVdpMGlqT1dvdFZWUm5xQVBjNmhkRWl5ekVUSkNCVW9OSkxRNHdocmdIWWE0Nm9RR3AzQVVxVnZOZXpBOHlsMm5fQ3p3OWRqVnF6U05UMjFsbHpqVlZYdw?oc=5",
-        "headline": "회사채 발행을 통한 자금 조달 옵션 확대.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/30 13:38",
-        "published_ts": 1790743088.0,
-        "tag": null,
-        "first_seen": 1790746232.4591508
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRnBlVzlRams5U1dycVRETWhtMDVlME5sbkQzcDRvdm1adl9SRGhnQXZ3S05ucktMdkZQa1J4dkFMSWdIcGZqZE1IN0E2YWU1REtENG9NUjN1N2NZU3RnandaRUd1T3M3UXZ0cVZMTWE1Zk4wZXVYWGw1WUFZakFwRUZZUUdoUQ?oc=5",
-        "headline": "주식시장 업그레이드: 외국 자본 유입의 새로운 관문.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "09/30 11:36",
-        "published_ts": 1790735800.0,
-        "tag": null,
-        "first_seen": 1790736326.1694927
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa2VLb2dCMzR6bUtJSXhQVFZBbnQ4cVJidGVWdVMwSUhTSlR5RVd5WGh3M0ZvQWJ2bDJNRXF6Y2RJQU4wWEZkWWNfVVhHamFITjg2OXdtbmRBYzVpNWZxcUR4Umg2WGdmR0Z0NnFKT3U5Vzc4QjNGVTY1ZDNiVmJSOXpxVVp6SHRMcTVqMEtXbVZkVEU?oc=5",
+        "headline": "Investor Bill Gross: Avoid Bonds and Stocks",
+        "summary": "",
+        "source": "newsmax.com",
+        "published": "10/01 11:31",
+        "published_ts": 1790821894.0,
+        "tag": "Strategist",
+        "first_seen": 1790822725.6077147
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tdmxxUUtObFh0LVF1RG9iZDViZ1pQTnFMWm55cFdxUXU2MktDUm9mQWVoYUdKcHNnbFQxRGFfbklMNGNjVWVaNWpTVG10N3o4WTJXN1FYRkUyZ1lW?oc=5",
         "headline": "BOJ \"물가 오르면 금리인상 가속\"...추가 인상 시점은 유동적",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1790784917.0,
         "tag": "Strategist",
         "first_seen": 1790785826.7595074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ZREZrUG9ic1pFZFBwajBOM0dUbDBBNmhpR1l4VzFEZkhSZkdBLXVfVXZCS0dtQUxidjZNUUh5VWNFY1hTRjI2RjB3NGJnVHVlMHJpVlIwN1ViZU83SGNzNXJTYXlVY195bFlFWGs4U0NjQndr?oc=5",
-        "headline": "Why Are Bond Yields Soaring?",
-        "summary": "",
-        "source": "Yale Insights",
-        "published": "10/01 01:05",
-        "published_ts": 1790784337.0,
-        "tag": "Fed",
-        "first_seen": 1790785826.7595074
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0yLVNSMlc5N1BPMC1VckFreHhXV3BEcTlNOGZTaGEzYTgyb3lDbWNzN28xX1FmWGtHdGlueTdMVGo2ajJ4UTktZmtjTnVJQzdvVFFEdDNfZEVIMmhBUENZU1U1NDhLdnRJMW5aaF9tY9IBc0FVX3lxTFBkRjQ3V3Rxak5oelVsekVJcThabERnbVBHUU04N29GMjI1U24xdUxFd1RKZkpKUTBocnNCT0c3cjBnOVNJaXY1ZmlnWTBrT2c1dGw4eW40ZEFhS1dWenJnVF9uUXFoN3p4ZVM2R0ZXVkxkRjg?oc=5",
+        "headline": "SK 회사채 ‘흥행’에 고려아연 등 출격…배경은 ‘공급 가뭄’",
+        "summary": "",
+        "source": "시사저널",
+        "published": "10/01 11:31",
+        "published_ts": 1790821909.0,
+        "tag": "우리지주",
+        "first_seen": 1790822725.6077147
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNaVdmUjltVGdTV2F4aEtrcG5pUmJZUWNnT0VEbUozSGNYT1ZGRzFHcWZDOFJ0cEVyRVU4NXhNTlNpd1dra1A1cnpTUHFMRUpaNkxiRmgyZ2wxT243bTJqbWFLVDI?oc=5",
         "headline": "롯데건설, AAA등급 ABS 2000억 원 추가 발행 성공",
@@ -2400,20 +2410,10 @@
         "published_ts": 1790463900.0,
         "tag": "수협은행",
         "first_seen": 1790464523.5393057
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PWFNMSmFhLVJqc21tY1N1aHFVQUNCMW1WcHh5ckc1bGs5bTVwSVZhT3Q0TldKUnBDN0RjSm1IdURVSWFJSTlHM0xpSDk3T2s?oc=5",
-        "headline": "역시 현대차그룹…2500억 사채에 증권사 줄세운 기업은",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "09/27 07:00",
-        "published_ts": 1790460000.0,
-        "tag": "신한지주",
-        "first_seen": 1790460923.6748586
       }
     ]
   },
-  "updated_at": "2026-10-01 11:30:38",
+  "updated_at": "2026-10-01 11:45:50",
   "yields": [
     {
       "label": "3년",
