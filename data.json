@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUGlVUkdYU191anlHVmJYMmFhZ05DVXRkbmtOUGVMSE9CcVNUeDJGemROM01tQjhUeVZ3TUNBOWlIRXczQkJoQUh4UHBCaEVCc3dvd0g1Q1k5elVwbHQ3WVhzLTF4cm5RWDVZUHJGUU1RM052NkhBR29vdG84VkpCZGlwUkQ?oc=5",
+        "headline": "Global bond sell-off deepens as Japanese yields jump",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/01 13:17",
+        "published_ts": 1790828278.0,
+        "tag": "JGB",
+        "first_seen": 1790829028.3980992
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNDJxZzR6enNnRFY3c2J6UjNfTjFNUGtybG9sYlVna1dBblN2T05LaUM5SXZzcEh2RGpmREVCR3ltT3ZLWTB4RnZXZmNBcm1ENkF5aWNFTUJtRVNaUVBlWFlZUkdIME0?oc=5",
         "headline": "달러 강세 속 아시아 통화 혼조세, 엔화 BOJ 신호에 약세",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790788066.0,
         "tag": "Global",
         "first_seen": 1790802035.683295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQXZlbVM0Y2c0VEhMdzMxcnNmLURSN3J4TEZJSVg2UDNtZkJkbjkzelZMSE9FM3VhWVphTXdNYzlTalduYTdhWmNnUXFfQlhfaE5KYy05UzEtNmp6NkVicHU3aEc1SEJwbE9Xb1N5VzZJZjE2ZE10aFlGdTFVV1FqTzU0RTJSUkpmZWpTeEQwUGt3Zw?oc=5",
-        "headline": "Watchdog finds no evidence of misconduct by Fed in HQ renovation",
-        "summary": "",
-        "source": "Politico",
-        "published": "10/01 02:05",
-        "published_ts": 1790787900.0,
-        "tag": "Fed",
-        "first_seen": 1790790326.1811788
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 13:15:46",
+  "updated_at": "2026-10-01 13:31:02",
   "yields": [
     {
       "label": "3년",
