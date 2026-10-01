@@ -82,6 +82,16 @@
         "first_seen": 1790843430.974905
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qQnhvY25qZE83LUR6bUI2Z3VQU21tbzluZlZBZFNka0owN0hxZkZ0bDZ3QXhnSWtvVnpfbkhuRU1JTjNpNXJmR3hZTXI3cHpzN09DY1ItSXlOMy01a0tNcVFzZjhobGx5YnZweXFsNXhpUQ?oc=5",
+        "headline": "빅테크, 5000억 달러 AI 채권 빚잔치 -> 빅테크 자본 종속과 사활 건 베팅 >> AI 스타트업에 목줄 잡힌 거인들 => 공멸 막으려 떠안은 부채 뇌관",
+        "summary": "",
+        "source": "데일리머니",
+        "published": "10/01 17:22",
+        "published_ts": 1790842933.0,
+        "tag": null,
+        "first_seen": 1790852436.4190764
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5IUlk0ZXZaY0xFajFMUmxrMEZZVDZTX1FRRGprRXIyWFota3RTR0RHd2dpUEpmd1UzR3JQQjJDR19RcndXOVBER1NjQTl0UldleEdNZ0NXeVU4MkRicWFrdjNieXcyMVZrNEkyM0xpcUdYdw?oc=5",
         "headline": "[채권-마감] 당국 시장안정 의지에 기대감 쑥↑…국고 3년 0.1bp↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790805318.0,
         "tag": null,
         "first_seen": 1790806523.8189266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XZzFKSUlLeW9sQWNRcHljVFNyUlVFanhVMjk2Y2NtUXRGbnhwcFNYQVlWNS1lYWZRM1ZQcDRMZFJSZEVwZl9hTUZIbjhEbE1La2J0MnJzUFUxb29PYWg5VG8tU0Fwbll10gFsQVVfeXFMTzJlV2JoZVo1QUVaNFJMV2s5alVtTWhyMkhzRENVR1dLLS1wb2FNdDdiMG45SWVCbDJXUkhiYlg4ZHNsM2VoUTNrYl9PNEZERUhhNThudzYtWDFtY1hPV3FyeFBoVm5WdEJ4OTFo?oc=5",
-        "headline": "물가 안정에도 금리·실적 경계감…뉴욕증시, 나스닥만 소폭 상승 마감",
-        "summary": "",
-        "source": "직썰",
-        "published": "10/01 06:48",
-        "published_ts": 1790804914.0,
-        "tag": null,
-        "first_seen": 1790816435.0937998
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02Y3NOLWJVcmIyVG51c0RfNU5odk5YLWtXOHl4SWQ0anotZGlkUWJReEhSWG9SY2VRazNDVzlQbXRzdTdyc0FoUDFDZDVkREoweUlSN2hIR0h1UQ?oc=5",
+        "headline": "美 10년물 국채금리 5.34%,\"24년만에 최고\"…전세계 채권 수익률 일제 급등 왜?",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/01 19:33",
+        "published_ts": 1790850809.0,
+        "tag": "JGB",
+        "first_seen": 1790852436.4190764
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdWJNcy1OeGdaekN1cHlFNHdXQzNqMUFzakhadzhSVlczYVh0Zno0X2UycDJWbHZIYnFUc253Mks4a1dBdEk1OHpHaGtmQlBicU5TWWZlUFR1VHpzMFBMMzNlMTcyZlJ6ZldRZUphWE1zM2djM2VoVFlac2piN29ZcHp1SHFTUnNPMEhQcXFBRjI?oc=5",
         "headline": "Scott Bessent went from ‘I am the house’ to ‘I can’t set the equilibrium price’ in 13 days. What it means for you",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790819807.0,
         "tag": "Fed",
         "first_seen": 1790820922.233813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOM0FxZzFRTU1MWEFLa2QydlpyQ01TTDJoTjZKTmxxekpnam9PZUswZEtEN1RiSkVMYThjZ0Y1SE42VkZETGdIVm1Nd3J3YVlndnJTTGtWamozS1otaVlPaWwyZE92c21mN0lkbnhURWY5OWxzSXBiWlVvOGRMM21KM1Y2MA?oc=5",
-        "headline": "Tech stocks boosted by Micron but Treasury rout hangs over markets",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/01 10:56",
-        "published_ts": 1790819760.0,
-        "tag": "JGB",
-        "first_seen": 1790837123.9971454
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 19:45:46",
+  "updated_at": "2026-10-01 20:00:57",
   "yields": [
     {
       "label": "3년",
