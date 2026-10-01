@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9XMWc1WHhrdmtCMmU3bWJyNF91VzdjOUkydnB5bUlCSEZ3UUtxT0dIQXp4T3ZOZGpvWUtNWVRBb3RWSmdSSmZzNEpqVDE2M1E?oc=5",
+        "headline": "美국채 10년물 5.34%, 24년래 최고…세계 채권시장 왜 또 흔들리나",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/01 20:40",
+        "published_ts": 1790854830.0,
+        "tag": null,
+        "first_seen": 1790855123.017157
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBDb3FkUEpyT1BMY3NnQTRGcGRpSXBlbnlaS2pOQ183bEV6OTU3QTZNTDZBenlQaWRXbllNWU0tUS1uQWJaRkNnYXVDRklfUzY0OGhYVVY2d3AweHBETC13MjljVGlMT2FaQXhCcFoxMno?oc=5",
         "headline": "[외환-마감] 강달러 가로막는 네고물량…1,360원 안팎 흐름",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790810403.0,
         "tag": null,
         "first_seen": 1790811026.5442271
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VbmpXRGVxUmJQei1GRU9aQlJWQ3oyZEtDRXFWYU1jRjhueGJualNxRkV2bVRBaTZVT0lIVTlEck40eERjTFRPM3ZDMElEV0ZsSkkydUppMHlZX3J3NXdaWTEyVjBUOVVoLXRsRmZWSDM5Zw?oc=5",
-        "headline": "[노현우의 채권분석] 44조원의 산수와 당국의 진심",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/01 07:59",
-        "published_ts": 1790809141.0,
-        "tag": null,
-        "first_seen": 1790810122.5822546
       }
     ],
     "perpetual": [
@@ -1940,6 +1940,16 @@
         "first_seen": 1790829028.3980992
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWUl0cmJWOTFyblhQcnNMVG1SZkw4bUY3LUZUSTBBMm5SNkpuQ3VoQk9kVHBwbVZJdFkyZWxaaHFaWDg5WkhOLXd0WDZCUUkxR0p1eXB0Rndfd0c5Wk5vRktyLUl4ZUVBbUp3azRYX1JFaUxJUGFnTUZ6Qnh1WnFtN1ppY0JTTldHNk13YV93?oc=5",
+        "headline": "Tech stocks boosted by Micron but Treasury rout hangs over markets",
+        "summary": "",
+        "source": "wtvbam.com",
+        "published": "10/01 13:16",
+        "published_ts": 1790828164.0,
+        "tag": "JGB",
+        "first_seen": 1790855123.017157
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rNDJxZzR6enNnRFY3c2J6UjNfTjFNUGtybG9sYlVna1dBblN2T05LaUM5SXZzcEh2RGpmREVCR3ltT3ZLWTB4RnZXZmNBcm1ENkF5aWNFTUJtRVNaUVBlWFlZUkdIME0?oc=5",
         "headline": "달러 강세 속 아시아 통화 혼조세, 엔화 BOJ 신호에 약세",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790821500.0,
         "tag": "JGB",
         "first_seen": 1790824524.0415597
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vUEtObUpzQk1majBNVU42V1hLYjdpV2xPWFRvNlQwUEx3Q3dSSUhPSXpidXJzUzUtZ3lGVTgzN2o2M2ZXM2JWdUFBLXNiamZSc2lONWpfTWdpeFpHUVEzZUhqNDBmVGJocUFreWxGUUVzMFp5VGc?oc=5",
-        "headline": "South Korea's FSC Chief Lee Eok-won: \"Prepare for Vulnerable Borrowers' Repayment Burden Amid Financial Transition\"",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "10/01 11:25",
-        "published_ts": 1790821500.0,
-        "tag": "Global",
-        "first_seen": 1790823633.4357147
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 20:30:54",
+  "updated_at": "2026-10-01 20:45:47",
   "yields": [
     {
       "label": "3년",
