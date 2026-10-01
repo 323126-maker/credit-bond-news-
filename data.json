@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaFFWa0c2YXNxWDNzc1BDbmpkTTlKM29NU3JjTU1kaTFaQ2xaOWJXOW15Y2tuSWxIU3EzMkdqbmQ2NC00cG1VUmtHT0xYNHc5eVFYelRYOVlrem9FQmd2OGFVWEtHVTRTb0w3WFhoNS1YR3ZsZElRTnJYZFk2ZkJVdDBIcU5iUHpTUEE?oc=5",
+        "headline": "France’s Bond Rout Is Reopening Europe’s Sovereign Debt Fault Line",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "10/02 04:04",
+        "published_ts": 1790881468.0,
+        "tag": "Global",
+        "first_seen": 1790882121.7730649
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aWkybnMxUGlsNHNMV3lQUHJac1BXcUxXU1FpWWhIYmNIdWNiU1pYQ01WanZjb2Y3SGxVdmhFUHJwQXBiT1NVTlhMb3JnUGpkSlFhTGZnSW9mam5hUWVwT0l4cGY2aXdvb0hxd2hOWFlwQQ?oc=5",
         "headline": "'채권왕' 건들락 \"美 증시, 속은 이미 썩은 고목…가지 부러져야 알아챌 것\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790845501.0,
         "tag": "Global",
         "first_seen": 1790846122.493577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSXVRajR1TTYzUXNLTUpQSFZEbjM5SVFYY3ZObElrUDFLUnpCUU91RlZ1TFlydkpXYlpxazEzcTR2S0xNMnZsTF84bmllS3JUZk5reHc0NEo5SEdudjRFd01RM0RNcDFLb1dKQ2xWOWI5WGx6eWZYVVRnM1IxVG45dk9td2wxZkJHTHllbThJb2NqejVXbVc0ZVVLOTdqdWxvTXc?oc=5",
-        "headline": "Global bond rout deepens, pushes U.S. Treasury yields to 24-year peak before bargain hunters step in",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "10/01 18:00",
-        "published_ts": 1790845231.0,
-        "tag": "Global",
-        "first_seen": 1790872231.98242
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 04:01:02",
+  "updated_at": "2026-10-02 04:15:56",
   "yields": [
     {
       "label": "3년",
