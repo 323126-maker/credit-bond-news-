@@ -1650,6 +1650,16 @@
         "first_seen": 1790836228.420176
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iZGZ3ZWlNNy1UU3pkOTRLMW9hNGhKb21FaGFnWWJIZTdMVTR2eGVfTkJRMVVkSFRiWkkzWkc3N2dYbElxeEhOUG5qNXdpU2NOVTR0LUlR?oc=5",
+        "headline": "Japanese bonds log biggest weekly foreign outflow in 6 months",
+        "summary": "",
+        "source": "朝日新聞",
+        "published": "10/01 15:15",
+        "published_ts": 1790835300.0,
+        "tag": "JGB",
+        "first_seen": 1790842524.029101
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE11dlRTMHpJOTBEZGU5bmRzWlpTWEJtMkdqbjFFUmlyaG4yeHN5cFBkcnNDUEpQZFpfRXc2ZW1JWEI0cm9ZUG5KcWZETTlCRTNpdmJXRTlMa0QxOHJUODk4YWdZX2Q?oc=5",
         "headline": "The replication crisis threatens economic policy",
         "summary": "",
@@ -1998,19 +2008,39 @@
         "published_ts": 1790800320.0,
         "tag": "Fed",
         "first_seen": 1790802925.325342
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdmtSSTgxbVRpd193cS1WX1B3aGswaDZ1YmFzUTlFakRmTVV1YW9QWnF1LWlBUDhMem81eVZFcU44QWpFX01sUndlWmk4NVlqaDhoN2lONDROVUxIcVhiUHNIaHRQTmJTNHpDWVpkc2hoYlB5T1piOWwwVmlWamY4eXd0cGV0QWlF?oc=5",
-        "headline": "일본 재무성, 다카이치 재정에 제동… 이자 45조엔 경고",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "10/01 05:20",
-        "published_ts": 1790799600.0,
-        "tag": "JGB",
-        "first_seen": 1790800233.831872
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9pWE5ZNTc1TGVDZ3RiZ251UEtQTk03bTJabDNIbzZFWURWMVIzX3ZvN3pUczFoTE4wZjZwbThLRm1jMXJsSTdLYW5OSF9OMzFSTENIYzJxZ3p6cERHZ2owYkNTV2RjRjRS?oc=5",
+        "headline": "국민은 포트폴리오, 하나는 우량차주…카드사 '마진 압박' 대응 제각각",
+        "summary": "",
+        "source": "녹색경제신문",
+        "published": "10/01 17:09",
+        "published_ts": 1790842159.0,
+        "tag": "삼성카드",
+        "first_seen": 1790842524.029101
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zT1REV2E5QkY0aG1ZV0hJaXdpNE9BVXdhYmlVWGNidjFGWGVzOTNMdWF4NHFZWHZNTnB4dXFna0dOZzNZMEc4UHNJNzJvWnZ2UjIzdHZZZXJmZw?oc=5",
+        "headline": "“장기채는 부담스럽다”…돈 몰리는 만기 1년 미만 우량 카드채",
+        "summary": "",
+        "source": "hankyung.com",
+        "published": "10/01 17:05",
+        "published_ts": 1790841917.0,
+        "tag": "삼성카드",
+        "first_seen": 1790842524.029101
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1GaE9LekEwNm54MDl0Wm9PaHREbGYtM0M2cU03cnd3TG41QWxDcE96QzVneHVfb09BZzVLdml4aDE0RTd3QU81Z3Z3SkJqTGhYSEF2enB6a2F1ZmotRU4yc1BnUFNDekRUNlBxOHVB?oc=5",
+        "headline": "우리은행, 방글라데시 진출 30년…상반기 순영업수익 230억원",
+        "summary": "",
+        "source": "이지경제",
+        "published": "10/01 17:05",
+        "published_ts": 1790841907.0,
+        "tag": "우리지주",
+        "first_seen": 1790842524.029101
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13bmRYQnViZkR5MElqQVJLekF2anpDMHQxX21oWi1aXzBqc1BYU05idzdYaFdaMUIzQ1ZjUGJYenQ1WmZmY3FKQ1V5Sk9NWXRHWDg0QU9wbkRxeWkzR3M2Y1RVRHBYdjZVT2s0QmNqZW5EZw?oc=5",
         "headline": "한국금융지주, 회사채 수요예측에 7배 넘는 수요 확인…두자릿수 '언더'",
@@ -2380,40 +2410,10 @@
         "published_ts": 1790583994.0,
         "tag": "신한지주",
         "first_seen": 1790586924.8902283
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBzc2RxQ1Z3WXhTTDlrQnFJVGYteHIzWnU1Y2w0RzltRnQzUmhSX2I3ZkNMeFY4ZTBOdkNGUnFEUmFKZF9zcnZSXzlSbnZDbWc?oc=5",
-        "headline": "증권사 조달 '단기→장기' 이동…A급까지 회사채 찾는다",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "09/28 17:21",
-        "published_ts": 1790583664.0,
-        "tag": "신한지주",
-        "first_seen": 1790586924.8902283
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE55Z0cyMV9OZDluTUV6WmdONzh1QmFNLUdhM19ERDhZcE5DTzRGZ1JVVFlHRnY1eWxSOUdON1M5V1ZrVXA5THNhdTBfZlRjV0E?oc=5",
-        "headline": "하나증권·코웨이 등 추석 전 2.8조 조달…CP 차환·운영자금 확보",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "09/28 10:50",
-        "published_ts": 1790560257.0,
-        "tag": "신한지주",
-        "first_seen": 1790561722.99228
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9mS3o2cDcwcmI0aTdEc29SX240MmpQNEN6WXNqdllJWjBuNVp4VTZsRnRUXzltMGJTaGZYUXRKV25hT08xRUhqWG03ZWY5a2NZaF9n0gFYQVVfeXFMUGx6eU5CYWFPSDZaMmtpd0NTUW4zc0I2SURHM29jekVHRlktZ2EwRkFrT1NoVWdMel80WnZwMjhzZjNvLW5FbVRxd1Q2QlE1bTF6RlhSd3V0RQ?oc=5",
-        "headline": "한투운용 'ACE 머니마켓액티브ETF' 순자산 1조원 넘어",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "09/28 09:18",
-        "published_ts": 1790554680.0,
-        "tag": "현대카드",
-        "first_seen": 1790565328.6642118
       }
     ]
   },
-  "updated_at": "2026-10-01 17:01:01",
+  "updated_at": "2026-10-01 17:15:47",
   "yields": [
     {
       "label": "3년",
