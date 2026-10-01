@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FOHBqQWlYc0p6bjdHOTEzTERMUVhRbERTUHI2cE0tZ2lXb2tyLWlaWEhqc3lMaENQQW1VVFVhTkkwSnl1TXpVQThmWU15YXZmamZCTFd0eGlNYUxUV3Z1TDVHTFZieEFtSmJpa0FYSjk?oc=5",
+        "headline": "OpenText, 10억 달러 채권 발행 마감…부채 재융자 목적",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/01 23:17",
+        "published_ts": 1790864220.0,
+        "tag": null,
+        "first_seen": 1790867732.2463064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBibndmQ01nRVVxa1JmblltUHdSUGFHNVZVdV9WdmZvRnBnWkw5SUZQYnp4SFFRRXcwVmlGcWdGLVoxTWJRV196MV9CbE05bmlqRld1azJvSm9jZmk1QU04WnRPR1dESFlsSGQxRHo1S2R3MDg?oc=5",
         "headline": "바이러, 14억 3863만 달러 규모 채권 교환 청약 마감…모기업 코르테바 분할과 동시 결제 예정",
         "summary": "",
@@ -60,6 +70,16 @@
         "published_ts": 1790844780.0,
         "tag": null,
         "first_seen": 1790845237.173907
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3JHc1lWeDMyMFdBZlQxRlJnc2xNU3lvTkd4aDF6TVo3ZkNEU3pKXzEwcDFRcS1JRTByd3FmemtjQndkb0xrOG9DaGR6eVQ0cjZnWHZlWWFvUWs3TVpqdkllZ1VPOGFNMEtRWFAyblZfOFF3eldoSEw2NWVmbjFMMU5Jb2dvQ0ozLWxKTEdXMXR4Zw?oc=5",
+        "headline": "[장마감 투자보고서] 한국 수출 1209억달러·반도체 +263%인데 코스피는 왜 못 오를까",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "10/01 17:52",
+        "published_ts": 1790844720.0,
+        "tag": null,
+        "first_seen": 1790867732.2463064
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPY3NNTjRsRUNidzROX2JSbzZCSllOSHB1anlwYk5xQmJMVnR2R3ZSb1lkUjNvS0RRRmFVYVRuaExyd1JyN3NzYjdOdDd0UFYycjUxUGVSUng3c19FSXV5ZnpQdHZrLTdKME1XT1pZZUthZXFUSFVIYTZrYXpGbW5zN01CTm9xeVp3cjdsLUtqZm5NWmM0ZExyVFN6NA?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1790815380.0,
         "tag": null,
         "first_seen": 1790815523.2776482
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdjIxY1ZuLUU0YVZYWHd5ZC1LbjdUYmhfd1lVOXN1VVRORldNV1hVSGJFTkZ3U1B4V3RVS1kzWXNkOEgtYkRITll0TkpBSE5CNFJLbDJZUlZ1VHJ2RjNMTXBMSEUzOUtMSFhzNUNmT2VXWXR5anlzVFFJUGVfd3RIcXZHVzJEQlU?oc=5",
-        "headline": "나스닥은 상승세를 유지했고, 월가는 3분기를 혼조세로 마감했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/01 09:31",
-        "published_ts": 1790814698.0,
-        "tag": null,
-        "first_seen": 1790815523.2776482
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5PWmFwNHNENkVzRERZcTZRSjFQZmxOV1pOa0pfWkZMRXRLMUREY0xteGNGLW0tRmZTS0tVUXozemJVWlFmYXFCUmlHQlJfeEh2dDgwTkkySTAzUHc5S0ZjdVhkcnBuZEM2azNfenJobUlhQQ?oc=5",
-        "headline": "국고채 공급 줄어도 안심 일러…손익 부진·추가 긴축에 막힌 매수",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/01 08:36",
-        "published_ts": 1790811409.0,
-        "tag": null,
-        "first_seen": 1790838034.8648002
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUtBSU1jUEF6SklYVHdzZFNxY3I0MXZIODJsWndUSE1wYnJ3cEZBYXBDR1g3X1p4Tm5tdV9WMFl6V08yQkJaRjNHMm85VXp0YjFoc0JiS3d3U3NIV3BvcXU0QVF5UDhweXhJZ3BUR1liaVMwYVR6RHBmQ3huVDNMcWxVOEZWak1aR3A4SS02RU0wc01seFN4OFRYSnVxMXliX1FleHVkZjdDQnZJS0VV?oc=5",
+        "headline": "Japan’s debt warning Korea cannot ignore",
+        "summary": "",
+        "source": "Korea JoongAng Daily",
+        "published": "10/02 00:03",
+        "published_ts": 1790866993.0,
+        "tag": "JGB",
+        "first_seen": 1790867732.2463064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxVTd3bVRXZGkyVk5EWGVwMkJXS2NCQkVKMWF2S3Myc05qdXpHT19iLWFiQW11MENaNU9pR05hal9fYktBZ20tZzRTcy00Wlk5VkktZm9hMXRvT3FUbGRyQWVvYWVkRGg0TTJqV3Rmekk?oc=5",
         "headline": "일본 북부 지역 은행 3곳, 합병 논의 착수 예정",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790836911.0,
         "tag": "JGB",
         "first_seen": 1790837123.9971454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTHdtLU5mSFhEWlp3OUlPQ2p1bVc2UVA2Z2FkeEQ5Q3pjVE9vMzMtZThlYWVGaVhZOEFRR3lfLXMwZi1BUXFhd2RCdFNad2F3UTNSbXduWTFrNXREY1pkRUVvdGY4bnFOU3NUcWFNcm1uZTVBbW40Z0I2WFBwUWx4R09SXzNQaUtWQUc0TVRMZGUzbzZpTzI5akVvVFc3NjFmTDJjRXZ1dmlaZUViUG90REZlaWxzOUJBaC0wcGhDNDRfbjRLdnc?oc=5",
-        "headline": "Watchdog finds Fed mishandled renovations that Trump tried to oust Powell over",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "10/01 15:31",
-        "published_ts": 1790836298.0,
-        "tag": "Fed",
-        "first_seen": 1790849723.700545
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 00:01:08",
+  "updated_at": "2026-10-02 00:15:56",
   "yields": [
     {
       "label": "3년",
