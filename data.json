@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUx2MUcwYV9DLTY1cWRRZ0lkVmFOT25vUjVyZzU2OWV4QmZnRm5ySUNjb1p4SjhrRnExdVZZVWd0RmRiSllkOUFJZEE5S0JrUmwzSy1jYl9WODdJbHhlcy10R21Xd3VxNlRhclV6QUd6ZjlZRUdLRlBwb2xpV0hZdjhsdk9BS3YySGlyWE5Yc2hjMFZDM0QyZlpLUEhzazgxVU5Pc1dpWHJVY0tuLVNYMkFNVkFYNmt2c2IySWtURnQ?oc=5",
+        "headline": "Why Fmr. Fed Vice Chair Alan Blinder says he would hold back on another rate hike",
+        "summary": "",
+        "source": "CNBC",
+        "published": "10/02 01:25",
+        "published_ts": 1790871913.0,
+        "tag": "Fed",
+        "first_seen": 1790873125.2589202
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pUzdpb1ZNNjBLeThqalpzUDFIVV91OFBiZU04UE5QLXZDWHlwTUhrWVdjbkxMUzVMYzU5cmQ2T2FNaEZTT3cxbVBxNWFxU3RlU0hGYQ?oc=5",
+        "headline": "Nation Of Bondholders",
+        "summary": "",
+        "source": "Defector",
+        "published": "10/02 01:15",
+        "published_ts": 1790871300.0,
+        "tag": "Global",
+        "first_seen": 1790873125.2589202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcF9iQWNFRzdHVWMzT190b1k5QlEyOFlVb0lYOHp5X05HTlpMcUQ0clM1QlIxQ3Y1UnptdTJEY2V4SWEtcWpyVTB5b29oNTNrTzRNM1pnMmhuMlpyeWc0d01pTGNCeF80d05OeDkwb1FLRmVtQ3JJMzh3dlJqZldsWW9LelJnQW5zVm1HR3BrSTZQdlJEWHV5QmM2Y0VhbjJQbnFka1ItRFBRSG1acjVZMQ?oc=5",
         "headline": "Average long-term US mortgage rate churns upward to its highest level in nearly 3 years at 7.28%",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790842360.0,
         "tag": "JGB",
         "first_seen": 1790846122.493577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9FVHZHWWFwMDhFYlJSR3VDS0s2NGx5RWhVU3lBMGE0NFM2MXNyOGdSN29aVmVpTjNQbTF2ZHl5VGRUZHRDZnBMLXFKeXFpWVF0RjRv?oc=5",
-        "headline": "리더경제 【국제뉴스 TOP 5】 러시아 경유 수출 제한·영국 금융위험 경고…에너지와 AI가 흔드는 세계 경제",
-        "summary": "",
-        "source": "유스연합",
-        "published": "10/01 17:08",
-        "published_ts": 1790842107.0,
-        "tag": "JGB",
-        "first_seen": 1790845237.173907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PM09zdU1xNE92dWFpOHlmNElQbnpGUTJvalgtNlhyVkRPaFFpcDNYZ3RHUVdQNHdVSW5Va3FQVzNxMzdveHc0cjBMLXVhdHE5V0NWNEdKREM0aWJMNEdmSzdjX280bkJHSEhz0gFwQVVfeXFMT2p0Uk1TT2ZMTV9LTkR5ai1QSTlXMFVIN2ZFSmo1d2tjNEljVExVVlBRRlRIYjBzTnh0Ri1nd2VCZzdZOXBtZFI0SlhCOWJEekI3MHZrT1Rlcnlyb1lRdHBTajlqZXN4cE5tMUs1RlA4ZA?oc=5",
-        "headline": "10-year Treasury yield hits highest level since 2002 as global bond rout gathers pace",
-        "summary": "",
-        "source": "CNBC",
-        "published": "10/01 16:57",
-        "published_ts": 1790841440.0,
-        "tag": "JGB",
-        "first_seen": 1790869525.129719
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 01:38:36",
+  "updated_at": "2026-10-02 01:45:50",
   "yields": [
     {
       "label": "3년",
