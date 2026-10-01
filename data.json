@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONmptSHpXcVV5UGcxM3VjelNZSnhkSDUtV1ZYY2Zkd0JIUEppLU1iaWVPd0UtUHdqMUJEamxXVjJua1VKeFA4cjdDLUUtOVFYaUlNcTd1MFRmV3JXM0RCX29IMWpHOUMtaE1YVWkzZFBjSWZMZVBHd25rOTIxejMyOGhWUTlJdGdmVGNJelpnTjgwdm5NMWx4WVNpNlczaEF3VnRIa1dycnFvaWpRMjk1Vm9NUVdHV0NrU0x3VDdsbG5xdm9Lc1FrVg?oc=5",
+        "headline": "The stock market is a hollow tree that could be about to snap, warns bond king Gundlach",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "10/01 20:13",
+        "published_ts": 1790853180.0,
+        "tag": "Strategist",
+        "first_seen": 1790854232.9167109
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9URTMzZ1JfRVNtRExxNW5ESm9FVDZNZGpnT3dHQl9TeVlmWHlJZHhZUWM1NG9vLU5pR21VNi12aTc1ZnZ4THlhVVlvZmdCazJJaEFBVnM3WWlfMzdUM1JTeWl1ak55bjAwNVdzY19Maw?oc=5",
         "headline": "Morning Bid: Bond bruise won’t heal",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790821500.0,
         "tag": "Global",
         "first_seen": 1790823633.4357147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5tdmxxUUtObFh0LVF1RG9iZDViZ1pQTnFMWm55cFdxUXU2MktDUm9mQWVoYUdKcHNnbFQxRGFfbklMNGNjVWVaNWpTVG10N3o4WTJXN1FYRkUyZ1lW?oc=5",
-        "headline": "BOJ \"물가 오르면 금리인상 가속\"...추가 인상 시점은 유동적",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/01 11:12",
-        "published_ts": 1790820720.0,
-        "tag": "JGB",
-        "first_seen": 1790820922.233813
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-01 20:15:48",
+  "updated_at": "2026-10-01 20:30:54",
   "yields": [
     {
       "label": "3년",
