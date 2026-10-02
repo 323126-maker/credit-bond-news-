@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeGpIb2FnMmxVRVlESjhBZ0Q3ajlXTUd2cG9tQWsyRjF2VTNSZGhmLVlXTVp4SVFHaHMxb2VHdWU3Y0tqVVFRUUxlZHl4OUxybURrODAyRE9GbzIxdFZCUUZkVWVCenNjYUJlQUxlWERxcUljYmpvRnk3ZGlnQlJNaUhSR0hiSmNaVEZTcjQxRzR5VWRJX0hjRm9KeTJMR3dqY3Q5aDFkcUtjQ2R6ZGNDX1dReGlIaXZoSVZ3TGxIa2Z4OU1sbHcwTHBfZzgwZ1AxUkxQRllUOG8zcDZxemFleTM5SFl4RmtsY1JlTUJWZWVrdXNGT3c?oc=5",
+        "headline": "Purpose Global Bond Fund (TSX:BND): Global Bond Income Returns to the Spotlight as Investors Reassess Rate and Credit Risk",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "10/02 18:46",
+        "published_ts": 1790934360.0,
+        "tag": "Global",
+        "first_seen": 1790935234.7532597
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE91ajFUNGJjYld1eE9ObmQyZ3piV2FGVV8tRU9qNS11c09wOFcycXJjckdMbUlSb0N5b01qNXY0RDY2WXE5QlFESkppWTZXaTRCOU9JbVlHLTFjeFpfWTdKVDhyeldyb3hUQm4xNl9R?oc=5",
         "headline": "전 세계 인플레이션 시대 오나",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790899321.0,
         "tag": "JGB",
         "first_seen": 1790910922.002517
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNejI1dmVaZS1TZVRCcEJrVGJLaG14bEVKUmNRMEpHVEN3VmVXc3pNSk5zZFBfSzdZc1RMNFZhbmc5YWVJaG5FWnFWN09PM3pJQng5cllVQmUxemR2cm8tYm53eGNiS1M5aE1mZFpTNjBqRjc3MjN6cE5Jb1FWYTcyU3VpbGZiUmg3bFhzQmptdVozUQ?oc=5",
-        "headline": "Trump: I Would've Voted No on Fed Hike",
-        "summary": "",
-        "source": "Briefs Finance",
-        "published": "10/02 08:57",
-        "published_ts": 1790899020.0,
-        "tag": "Fed",
-        "first_seen": 1790914524.311411
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 18:45:46",
+  "updated_at": "2026-10-02 19:01:05",
   "yields": [
     {
       "label": "3년",
