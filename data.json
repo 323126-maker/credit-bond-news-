@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0w3MDhpWWNRZzVsTWx6aW4tM2dPNkp6SFg0dmo3SGdrVnpKejE2RXc3YUFFTkVuVklaZWtjaEk5LVhzR05WMnM4YzVtYmkwcEpvZnZmdUd1NEJuX3JyWlNkbW9FU0xOTE1GWnVyWkluaXZMMmNkMXZrLXRhcFo0a3RWNVM?oc=5",
+        "headline": "Emerging markets outperform developed markets as bond rout deepens",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/02 13:04",
+        "published_ts": 1790913848.0,
+        "tag": "Global",
+        "first_seen": 1790914524.311411
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1jcFp1VTlDTkxkN0xuSzJtS0R2eWozcTBmb3BYck81NF9Oc2g0Wng3c2wxekhyUjVZaHV0MXpETHVtSlY1VFJxdU81VGhyR1ZxbF9QdUhPLWtTWDdOVWRwQVhHTGMzZWhIQ1pGTTRR?oc=5",
+        "headline": "청년이 떠난 일본 생명보험, 보험사의 국채 투자 지도가 바뀌고 있습니다",
+        "summary": "",
+        "source": "캐어유 뉴스",
+        "published": "10/02 13:00",
+        "published_ts": 1790913600.0,
+        "tag": "JGB",
+        "first_seen": 1790914524.311411
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONVRLeWdPZTNLeThkamlSQ054VWk2QV9NVUlMS1VLdjRRZWpQd1ZHcU1xRHRrU0thOTR4NnNRWndNVldjQ1QyUHJ3d28tZm8yTTFCSWdnUWNjbDlnbzBLaUM5SDJBYTJtaWg2UDdjbXVnOHJFbWR4a3VEVmlkTVVZb0VvSU51QXFuRXFkS1dR?oc=5",
         "headline": "Bitcoin (BTCUSD) Is up 1.01% on Oct 2: Key Drivers to Watch",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1790913315.0,
         "tag": "Fed",
         "first_seen": 1790913631.9998565
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQLXd4N0FRTHNBMk55NEFFSnBsdHlYbFlhbWZscmptLW5jY2t0eWNpa3VGWllPSjVZZ1JqbW1MckJlNDNPakZ6bE4ydlFMeDVSQmg5SHYzeU1ia1pUT1hNeThnQkJrUkMtZXlwR0k3VE5rQ055ZXF0Z0dyVnpSYlFWam9WU0k3Z1dQNUV3eUstOUpzeTJ4eS1XUEgwUWNjRTdTb0ItYXotQko4ckNaQm1kY3l6U2VCM0xGZWNiOHN3NFJBOUJkaFU5X3dn?oc=5",
+        "headline": "Global Credit Market Starts to Sputter as Jumbo Deals Drag",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/02 12:37",
+        "published_ts": 1790912220.0,
+        "tag": "Global",
+        "first_seen": 1790914524.311411
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NzhBLXl3LUQtLXN1VzA3WHNLSUhXOW9MSDlval9BTkZ4TWNrdVdYWXFhX1hWV3Q1bVZfTDVOVlM0T3R5QjNfRzl4QWl0dk0?oc=5",
@@ -1678,6 +1708,16 @@
         "published_ts": 1790899321.0,
         "tag": "JGB",
         "first_seen": 1790910922.002517
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNejI1dmVaZS1TZVRCcEJrVGJLaG14bEVKUmNRMEpHVEN3VmVXc3pNSk5zZFBfSzdZc1RMNFZhbmc5YWVJaG5FWnFWN09PM3pJQng5cllVQmUxemR2cm8tYm53eGNiS1M5aE1mZFpTNjBqRjc3MjN6cE5Jb1FWYTcyU3VpbGZiUmg3bFhzQmptdVozUQ?oc=5",
+        "headline": "Trump: I Would've Voted No on Fed Hike",
+        "summary": "",
+        "source": "Briefs Finance",
+        "published": "10/02 08:57",
+        "published_ts": 1790899020.0,
+        "tag": "Fed",
+        "first_seen": 1790914524.311411
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY25fbkF3U3FzTGZISkVoSW1IeGNCbXhTYUZIVWRzRkpIZGpWZ3FxWjNkS3c3d19fS2cyLTZHcnpVTUt3elpTQTdhMkxVd2VRM0JQaHRVOGVkV2FFS1RDc0FPbFZfcHpwNXNRUHEtcUx3VENpeWxiOWI2Q1lOb19kVFliWFptNXM1Y21rcw?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1790870914.0,
         "tag": "Fed",
         "first_seen": 1790871323.1250567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcldYZ2ZKWlJSNmVMTVJ5NUdhY1RmLWFlVXlTRWlGOTJlZzVZV2NqOFlzOWNiWDBlV1cyTGE5YktUYkZwRUJJcUdSVzJubEZnUUZ3cVBzUVNOUkZTZHV1c0dHY3dmYnBmekVoVHBxYmlxWUltS3c5MzZwWEdzOVZTZFlkZkkxSFRFaURB0gGQAUFVX3lxTFBIWHJFRU5jZzZyOEU2YzNDOEduSnJSb1lSVExpbHdrSE5Nd0pDd2ZWaVBhQnhuUnBvQ2lzRWRZcWw1cUc5ZGJZVDlfZm1GWXlrVXJLU29qcHhJTkdJWm05bWVRNTBNcXplOXNaeWJBSk55RjZ0VUxiMUd4cGlETVZxaEE2VzRBWEFFLVNMdGp0aw?oc=5",
-        "headline": "Fed's Warsh cracks down on HQ renovation, taps GSA to lead",
-        "summary": "",
-        "source": "Fox Business",
-        "published": "10/02 00:52",
-        "published_ts": 1790869920.0,
-        "tag": "Fed",
-        "first_seen": 1790871323.1250567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5XUGxmcEwweW42NmZqbVg5djFocXNWcEhvTENfQnZqaEF1eTRPM2xfOGEyN0lwN3NUSDhXdDVzeTBfTnRkVk9GYVl4bjhYVDB4eS1LNXFjOHU1UHo0LTJ1SXE0bHpvT3M?oc=5",
-        "headline": "US 10-Year Treasury Yield Tops 5.3%, Reaching a 24-Year High",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "10/02 00:34",
-        "published_ts": 1790868854.0,
-        "tag": "JGB",
-        "first_seen": 1790872231.98242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zNUVReUpPbmFBMXV1NnF1N0tOMFJzamR5T0Z4dkNzcXNXNlFGTWJ5V0ducUhsNXZjU1lkb3hQZVBYUDB2YUFpMnNWX2c4S1dxOUdhdXFDU2FtM1BYaWQyOVYxOVBUVVdxNUotMmhWVThzV1RJ?oc=5",
-        "headline": "미 달러화 4일째 강세…엔 약세 속 국제유가 상승 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/02 00:13",
-        "published_ts": 1790867581.0,
-        "tag": "JGB",
-        "first_seen": 1790907325.3571928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaUtBSU1jUEF6SklYVHdzZFNxY3I0MXZIODJsWndUSE1wYnJ3cEZBYXBDR1g3X1p4Tm5tdV9WMFl6V08yQkJaRjNHMm85VXp0YjFoc0JiS3d3U3NIV3BvcXU0QVF5UDhweXhJZ3BUR1liaVMwYVR6RHBmQ3huVDNMcWxVOEZWak1aR3A4SS02RU0wc01seFN4OFRYSnVxMXliX1FleHVkZjdDQnZJS0VV?oc=5",
-        "headline": "Japan’s debt warning Korea cannot ignore",
-        "summary": "",
-        "source": "Korea JoongAng Daily",
-        "published": "10/02 00:03",
-        "published_ts": 1790866993.0,
-        "tag": "JGB",
-        "first_seen": 1790867732.2463064
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 13:00:59",
+  "updated_at": "2026-10-02 13:15:45",
   "yields": [
     {
       "label": "3년",
