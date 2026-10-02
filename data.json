@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFpWbTBtUndvVE9yUk9GWWFzV0hMMHFvLUNwanhZMWtvdDZmMEJ5UUtwNmtxdEVVWnNrTEp2VnBqMmhzLU5WWUhyUTVxMjBFcEFqWFdwc0RQRjA2eU81d3BCdC1CYnJQSFMzZ3JyTDcxa21rRXRTMmxaSmlvdHNPLUVfakd2d1dXNnliXy1MRF9wSWxpZmpxV3FkMloyN196elVlWVFhNmswVEt5SHhaNS1tYkFsZERfd2RialY2TmdtTjhydTJYQ1M1OHhYNUJHbnc?oc=5",
+        "headline": "Warsh’s Top Fed Deputies Step in to Give Markets a Clear Message",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/03 02:49",
+        "published_ts": 1790963363.0,
+        "tag": "Fed",
+        "first_seen": 1790964037.2362607
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nNmxRUnhjLU1IeVV0bFdkclQwaS1wUGtuN0V4b19JYU9xLWszWmlRc094amtJV2lnanVIVHoxU2lGOFJUVGdRWlRKeFhqYm5uejJZY3hUWWN0VUwtdXc4MHZRcXBuTUpBdjBTYmF2Tmo?oc=5",
         "headline": "Treasuries are losing their moneyness",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1790956936.0,
         "tag": "Strategist",
         "first_seen": 1790958631.546403
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObnNtM3R1dkhmVFo2Vk0xYVdRT05Xbzk4UVI0U09GNU5Vb2FJYmNBUjJWcUp4dTJYQm90T2VVWmF0dEdjbVhaaFhpcUZaelJXeldhSWZWZnl3QVdaT2l5bXZRVUtJRlhZc29VVUFkWTAwTHI5N3N6dUxQaF84VG1hTDdTWG4yV2RfWkctN2Y5RlBlWm02ZkE?oc=5",
+        "headline": "October FOMC: Why the Fed Will Pause",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/03 00:35",
+        "published_ts": 1790955300.0,
+        "tag": "Fed",
+        "first_seen": 1790964037.2362607
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQlhyQXEwd25CdG51cm1leDhnSGx3WnNRejdQbzNhNmY0MWpybmJyVXc2MlZuTTFsbndyRV9mUU9ra1BDdHJ2YTU2eVBtWVRXM2RQMWtwMDFxOFlSUjlYZHcwMXlkb1VWa1RaZ1RSNTkwWnBqdTRaRFY0dU5GN3kyOVdmRGhlY0M5R0xrSE5IVFRlTmRCRll1QUEwTWVxM1RjUGNZUkRaZEJiMkVlRjFv?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790926457.0,
         "tag": "JGB",
         "first_seen": 1790932523.7315726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWNrSEwtWlRfZmMyMmJqaWtYZjltc1JRZlJ0bUxHN05FNHBoOExZb1NsLVNXSTZtb29ucEJMMEc1X083NC1fRmlCWVJPVXJJbWFpUEQwLTZVM0pvRTEwSmRndVNCQkVrLWFSYmZEUUVPNFM4b2VRUTg0ajN1eHBxOXEwOEZ1LTJEVjdCemxaU1JJZk9RTWw5aUtDNlZva3I4SVRuZGRwb29pTVVZMV8wYnMxeFUwOHRXTkM4?oc=5",
-        "headline": "Korea weighs deeper Treasury bond issuance cuts, emergency buybacks",
-        "summary": "",
-        "source": "Korea JoongAng Daily",
-        "published": "10/02 16:28",
-        "published_ts": 1790926085.0,
-        "tag": "Global",
-        "first_seen": 1790928031.2784266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBSdnRNRFozdzlZWlExUnZTa1lTU3FvRFltdzRzOUxjdmZKS1Z5ZC1nSGpJYWdyVDNITldqeE8xWUc4NlFqdXUzX2RiaEozUXR6YjNkNFQ0amczS3c4U0FhclRNQ25SaFNwdVIyXzRR?oc=5",
-        "headline": "Ukrainian Soldier Nadiia Pedan Died During an Assault Near Pokrovsk",
-        "summary": "",
-        "source": "Межа. Новини України.",
-        "published": "10/02 16:23",
-        "published_ts": 1790925798.0,
-        "tag": "Global",
-        "first_seen": 1790936122.2231243
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 02:45:46",
+  "updated_at": "2026-10-03 03:01:04",
   "yields": [
     {
       "label": "3년",
