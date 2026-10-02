@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XU1ZNbkxFNHhUUUxwRHlkTEdfaDdLckxuZklYYVJOZHJFZ2Y0d3VhZ0ZUTDJsWFBpamwzdDZjeXRMUDZaMzlLdnRDejZXOTFfcDZmNGgwRmtXQQ?oc=5",
+        "headline": "\"시장은 3.75% 겁먹었지만…한은 3.50%서 멈출 것\" [fn마켓워치]",
+        "summary": "",
+        "source": "fnnews.com",
+        "published": "10/02 08:59",
+        "published_ts": 1790899168.0,
+        "tag": null,
+        "first_seen": 1790900123.9372766
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlbnM4czlaWlVua0QwRWFoOGVSUUpfNFk4LW5nN1ZaNkVwT0xkM0RWRTl6WFJiT2UyTkQ0Wm1CWHZqWVpJYVNSLUFsMzhfQVlNWElYWGxTemY1TXVGQWVXaUw1cWJ3MERxbGpEZXlKNG0?oc=5",
         "headline": "[채권-마감] 당국 시장안정 의지에 기대감 쑥↑…국고 3년 0.1bp↓",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790723072.0,
         "tag": null,
         "first_seen": 1790723727.0555224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XTDEtTmU4RGZfWkxidEVMSjBJU01MSFgzUWJrSkRmYkwyTTRLNHNKNmlRQTNLdnlKNUl1Tmh3WWFhSlJXLUhBYUNnazZydXZCOWIyeXpmc3JfQTRDdmRta3J0WF9wUG41VTFrWVdzMG5MZw?oc=5",
-        "headline": "[채권금리 POLL] 고유가 지속·연내 추가인상 경계…금리 하방 막혀",
-        "summary": "",
-        "source": "KB Think",
-        "published": "09/30 08:00",
-        "published_ts": 1790722802.0,
-        "tag": null,
-        "first_seen": 1790723301.103414
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 09:00:59",
+  "updated_at": "2026-10-02 09:15:46",
   "yields": [
     {
       "label": "3년",
