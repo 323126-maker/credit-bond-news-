@@ -1196,14 +1196,14 @@
         "first_seen": 1790729126.9929194
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPUjJ2aUg2bFpkNkp6cFJtNDhEaExwblZmTkhvdGZ5b1Bzbi1Kb2liblBBOTVuM0tYcnJhaGh3aXRCa09kVzl1dlIzZy12RWgzRm1JMWdWeFhiaG95OHV2T3ZvSFYza3pQeDRGOExFVGdPelJEVDBrU3JiRGJyVXowWA?oc=5",
-        "headline": "초과세수 63조, 몽땅 미래기금 주머니로?…“국채부터 갚아야”",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zYjZ6N0NPb3ByTFFkNHZZUm1oeHhkSXBjY2lDYng1cXBvZ0hwd3plb01sT3VxTmxPOEwxYVRBVVdlZlU3V0NVcG96Y0ZxSk8tSy1XY2N3X3ZURUl3RWpwRUQyRFZrU3d6azAyWGphanRLZmhz?oc=5",
+        "headline": "반도체 호황이 만들어낸 63.2조 초과세수…활용방안은 아직 물음표 |",
         "summary": "",
-        "source": "edaily.co.kr",
-        "published": "09/30 09:00",
-        "published_ts": 1790726404.0,
+        "source": "연합인포맥스",
+        "published": "09/30 09:03",
+        "published_ts": 1790726619.0,
         "tag": null,
-        "first_seen": 1790727324.5877285
+        "first_seen": 1790904629.048171
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40SFhjS1RUaU9wZ1lwSElvS05hYlJjMWhZVkhHZXNQMk1GMFp0cWtYbzJTeVh0ZGVrVGhuSUszaXNaRUc1SzU2bTFoX2l0TGFsNzU0a2JETU81WDZMWFVNd9IBeEFVX3lxTE81VkdSNjM0UDdWZWpqMVg2SWdTVU1JSHo1UHVpa3dOQlNMckVFaE0yOHdyU0pNUEdKc2toS3hjamdlVWN1SVZDcFB5VlJnajRKMG80Z3dNNzUyOUdtYmN3aVp5bFpOYWxYa2hOSU9weUgzZTh0TmN5Zw?oc=5",
+        "headline": "엔화, 美 조기 금리인상 관측 후퇴에 1달러=157엔대 후반 상승 출발",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/02 10:16",
+        "published_ts": 1790903793.0,
+        "tag": "JGB",
+        "first_seen": 1790904629.048171
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUNqa2VsNTBuOUhBQkRMN2hRZEkxVEhIV21FUV8xRm1oS3pSM1Vtd3hWdEZDZjAwTlpMLXdDTnZVRnpNYXdZbzhWc2Nla3daeFdBQ3pRMktTSnRTbDQ4NDdNX1ZSU2pHZG4yQW11YmlfdnhVSjB1OGluSDEydks4NXY2Umo0b010dE85bVBCLUdFTVBCVllSbkl5Q3dlTlhKZ2tvaG83ZFdHLXpGM0xfag?oc=5",
         "headline": "Japan government bond yields fall as global markets steady",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790859623.0,
         "tag": "JGB",
         "first_seen": 1790861430.1659124
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUEpFMHZfbzZGeU9ac1RnUWswODZwWGJLQmM3SFloSUQtdTRSM0tBd29uZjZWcGFaTFVyanVNOXRUWUJxVVYxX19tTWdQSm9XcmdwclRIRmNFRlBOSlZNZTE4MTVMX3FDTDdTajktNTNPWUhPV0hJak1Jb1kyTUNsVWFZRTVRRFpQSGlEVFhERGJrTWs3TnhNeE0wRzgyWUgtUEhJWVNGNzZRNnZvdUVXLWRFT0dEVW15dWNpZzljY2VlNDFUU0lzdzNUWUJKNWhYX0RQWVlBYWk?oc=5",
-        "headline": "\"사모대출 부실문제 예상보다 심각할 수 있어\"",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "10/01 21:51",
-        "published_ts": 1790859066.0,
-        "tag": "Strategist",
-        "first_seen": 1790874037.43357
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 10:15:49",
+  "updated_at": "2026-10-02 10:30:54",
   "yields": [
     {
       "label": "3년",
