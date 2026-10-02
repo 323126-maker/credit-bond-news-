@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcnhubU5fNVhBN2R0UnZLX3d6ZTB5ZVhmQm1FUDNmdXMxTm5wMlF0LVgyUlJ5eE9MRWh5aVVITVJvWE1LUWk2V0VOT2cxakJvMktPWExTb3RrcWYwNHhWeGpIbVhOWk1TdTlXeF84THVFV2VjOW5sTF82MndMalVnMENuR20?oc=5",
+        "headline": "Global bond market steadies after sharp sell-off",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/02 14:10",
+        "published_ts": 1790917806.0,
+        "tag": "Global",
+        "first_seen": 1790918120.164191
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMzAxM0ZDX05KWDlrVGtqMjMtMUF5dmFqZ2Z0SDdJeWhNUFhvMklVcjhIRDB3cDB4WGVTdHNWRFNVdHo0OVJQaklnbFd4WlN5WmdNUnNqcWlEWVlSXzhTSU5lRjlNRENyZDZRenJlSVZ0bTdkZHhGVUVfWjROLS1oTWlSeXpyUlNnSjdwYmlXU3hQcWstb3N1SkctVURLRURVVE5sZFpxejdBbXVQRlNEcHB1UUxmYzd5dThuQ3d0NDRveXJGZjN3QVBpRjR2UXNMc2t3MzhQenJNTnhqXzF0XzJZMmxURlU5TFE?oc=5",
         "headline": "Bond Markets Functioning In An ‘Orderly’ Manner? El-Erian Calls IMF's Reassurance 'Highly Unusual'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790877600.0,
         "tag": "JGB",
         "first_seen": 1790903723.028948
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15aWkybnMxUGlsNHNMV3lQUHJac1BXcUxXU1FpWWhIYmNIdWNiU1pYQ01WanZjb2Y3SGxVdmhFUHJwQXBiT1NVTlhMb3JnUGpkSlFhTGZnSW9mam5hUWVwT0l4cGY2aXdvb0hxd2hOWFlwQQ?oc=5",
-        "headline": "'채권왕' 건들락 \"美 증시, 속은 이미 썩은 고목…가지 부러져야 알아챌 것\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/02 02:44",
-        "published_ts": 1790876655.0,
-        "tag": "Strategist",
-        "first_seen": 1790877637.2126296
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 14:00:59",
+  "updated_at": "2026-10-02 14:15:43",
   "yields": [
     {
       "label": "3년",
