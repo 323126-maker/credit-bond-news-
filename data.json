@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE81SE16ZGVRVjFuTUpUQ3BhLUU2RTkxekFGOWNZLXBDWlRkVG1CeVB4OG1ENzd4MGVMZU8zb2k1dkhZVkNqc3ZaSnNDdGRrWUUwTGZn0gFYQVVfeXFMTkhYZW5YYUlOZHAxY3RiYjlxZVBUVkY2YUJyTk9tR3RhMU9JOW9naFk2dmstaXZPT0s4czFJdlFKWlRHQU1jVVJrd21mUUJ6TjhYdlp4UHFUTw?oc=5",
+        "headline": "美, 이란 해상 이어 육상도 봉쇄한다",
+        "summary": "",
+        "source": "biz.sbs.co.kr",
+        "published": "10/02 15:16",
+        "published_ts": 1790921760.0,
+        "tag": "Strategist",
+        "first_seen": 1790922628.152169
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY3NPRU5Ed3ViS0RILThrbEZlOTFTeWc5YnJhM3F1bEs4SHNLZmN6OXF3TVVHcGhhRUJTX1I3VWtQem1HcG0xbll2TEtPaXM4bzZqSFU2em5YalZlNHJWcFo2Qnd6VUcyVHpla25YczFuMGc1Uzdjd0R6MTFmOTJEUUhRRzB0dTI0LUE1dDA2VTZtM3ZXd1hHeU1DZw?oc=5",
         "headline": "Firms more upbeat on Vietnam outlook for coming year: S&P exec",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790883675.0,
         "tag": "JGB",
         "first_seen": 1790887529.7921922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNakVXbUM1anU1cHFsZFA0RkRBOEF6ZWtnU294RFR4QmwxY0QzRUMyRFVhNzJrSlc3ZThPelF6YlZxT3RVOW5NM2ZwYjdKR3VyRzgtc25sNkNpazlMNHpkZnNnbms5eDdhaXNvb3J2Z1pUSjJWQ29QTDV3bVdBLXREVA?oc=5",
-        "headline": "전세계 덮친 '채권 쇼크'…美·英·佛 국채금리 수십년 만에 최고",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "10/02 04:25",
-        "published_ts": 1790882757.0,
-        "tag": "JGB",
-        "first_seen": 1790885723.354023
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 15:15:58",
+  "updated_at": "2026-10-02 15:31:01",
   "yields": [
     {
       "label": "3년",
