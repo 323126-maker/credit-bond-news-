@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVENiQnR3OTRxNXh3X1d3YzRpYjY1eldvam9xSzN1cVVOZndWa0d2VFVUaFI4c1BzRklJMkZuMExfb01SQ2JESHc2NkxIQkpHZGZmSS1yTk00cHZPQko5Q1lCYnprMWRjemsyaWlCc1EtNTJ3UWF5Q0dsbjZ2VnBfejlkY3c5VnlEOFRzeW9JdmprdTRiUktMOWx5WnFIcmFTaXp1QjhDSjBwaVhXd2FtdDNGa0xzTFphM0kzVmpDOWU2a2ZuSVJuU1JaXzU1S1U5YlR2dmpQZXEtdzZ5UWc4WXN6VEI2VlZTVmVwajVvUVZKRXctcG5aemdRaERHYk1QeGs0?oc=5",
+        "headline": "Bitcoin Price Jumps Above $86,000 as Fed Pause Hopes Lift Crypto: BTCPressWire on the New Macro Media Cycle",
+        "summary": "",
+        "source": "StreetInsider",
+        "published": "10/02 21:05",
+        "published_ts": 1790942759.0,
+        "tag": "Fed",
+        "first_seen": 1790943322.9856756
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQVZsUWtwbTRiUm1OR0dsTzhFR0FKdzEzRkN2MTA2eXViMjZsaHpPUDhJdWlUc2NsMzZvbGdHcElqWFcwZXowT0NZYmdZUlVZQlZNNmdsazJQMnVxZXp2dXZpdVJ5Si02UktYaDFMNGJSTHRYaGEtWXRUNlIwNy02UmJldi1fM1dlTFlrWmlBcw?oc=5",
         "headline": "12% Bond Yields Aren't A Myth — They're Up For Grabs Now",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790908015.0,
         "tag": "Fed",
         "first_seen": 1790938832.473173
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NzhBLXl3LUQtLXN1VzA3WHNLSUhXOW9MSDlval9BTkZ4TWNrdVdYWXFhX1hWV3Q1bVZfTDVOVlM0T3R5QjNfRzl4QWl0dk0?oc=5",
-        "headline": "[오늘 트럼프는] 중간선거에 '내란법' 발동 언급 \"배제하지 않아\"",
-        "summary": "",
-        "source": "v.daum.net",
-        "published": "10/02 11:10",
-        "published_ts": 1790907036.0,
-        "tag": "Fed",
-        "first_seen": 1790908230.0485783
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 21:00:59",
+  "updated_at": "2026-10-02 21:15:48",
   "yields": [
     {
       "label": "3년",
