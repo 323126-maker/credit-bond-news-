@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00NzhBLXl3LUQtLXN1VzA3WHNLSUhXOW9MSDlval9BTkZ4TWNrdVdYWXFhX1hWV3Q1bVZfTDVOVlM0T3R5QjNfRzl4QWl0dk0?oc=5",
+        "headline": "[오늘 트럼프는] 중간선거에 '내란법' 발동 언급 \"배제하지 않아\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/02 11:10",
+        "published_ts": 1790907036.0,
+        "tag": "Fed",
+        "first_seen": 1790908230.0485783
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yUWN3dEtFLWFQaGNHRzJrM2U4TFRXcVpWQ18yTXMwb1ZmQ3Z6enJaMXhKWFB4RXFNMkdlSGRUY1F3NVFoQzNGWkdHbHMyYUtoeVd3aDhPY1lFTUhwSGJGcml1R2lqRGw4TjloN2xRdHhRZ2RsTVE?oc=5",
+        "headline": "Trump Repeats Call for U.S. Interest Rates to Be \"Lowest in the World\"",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "10/02 10:55",
+        "published_ts": 1790906100.0,
+        "tag": "Fed",
+        "first_seen": 1790908230.0485783
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlY4TEhOR2NGOXllczFUWWpHQkh4RmhEOWd2LW9va3dGdlN1cm4wdTNuMXMzWmJnTmk1ZG1nRTV4OXFyRUJoa1JaUEhPN0xRWC1mcVJJT3RRTXNGU2ctdTZjRUpPcVUwSXh2Q2s5eGxhSjVNQTBXNm16eXdDNHRRQUpqQ252YUFMOWhtN2o1VXlBUGNtdDE3Q3NQMFlXVGIxaGRMNm5Pb0dxRXFDR3ZaSjVGZUduSU80NlJKZDVzR2d4VnY3bHVvb0NhV05GSkU?oc=5",
         "headline": "Vanguard All-World ETF Holds Its Ground as Bond Markets Wobble",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1790865300.0,
         "tag": "Strategist",
         "first_seen": 1790865935.4128149
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdlFZSXpXV2RKUjVEYk4zU0hxS1RCQjZjYzB6Q3JJUnpqXzN4YVRrdmxyOGsxSV9NWGpCRDBaQVlvMUVQSDJGMXltLUFJdUV6NzMyYl9Qemx0WTN0T1EwM3c5NDFSTkRSeEpRallTX0Zzd2oxSEtjTWRZQndaa2VJek9URS1iMGdna0lDUlpnTFFteE9HYlVZMXpkV0M2Z2dhai1FM1VXV0tkVjFXQlBEVjk0MFFzeVVHUEh2d3VLQ1VhbklJblhEdDZpTDJ2d3ZLNGtyS0JxQWU?oc=5",
-        "headline": "[뉴욕증시 주간전망(8월 31일~9월 4일)] 고용보고서·브로드컴 '주목'",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "10/01 23:28",
-        "published_ts": 1790864922.0,
-        "tag": "Fed",
-        "first_seen": 1790883030.8417933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQLWdlci16bGVXRkVaMzZHdXc3X2NSSm5LRzZQYndBWWtGX0k5NW44X0ZGQVZSMmJldXFKSFRTbjBVcF9WTDZVMWlrZVVtTDdfVUhOak10UV9WNDhzWGY1em80N3pKUFJ2QjhxV040MHNyZGNsdmpydy1aQS1SX1NwSUtaT1g1MHlGTUtXQVd5RQ?oc=5",
-        "headline": "Mitsubishi UFJ Financial Group Inc (MUFG) 주식 움직였습니다 하락 3.47%에 10월1일: 어떤 신호인가요?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/01 23:16",
-        "published_ts": 1790864174.0,
-        "tag": "JGB",
-        "first_seen": 1790865036.5929618
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 11:15:51",
+  "updated_at": "2026-10-02 11:30:56",
   "yields": [
     {
       "label": "3년",
