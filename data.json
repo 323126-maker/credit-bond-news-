@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5GWnZSVlU5OGctTDBmVGZWYVA5SE52RmFPajFfUDZiRk12MlRLV1k1V09VTzVJbVlyYlRyQWZhcy0xeUhOVlhZQ3pwdGk4ZTg?oc=5",
+        "headline": "[채권마감] 국고3년 한달여만에 4% 하회 ‘대내외 호재 만발’",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/02 17:20",
+        "published_ts": 1790929207.0,
+        "tag": null,
+        "first_seen": 1790929830.765851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Qm9lNVBFZkw4UlFJYmpnS0h6X1JOWXM3RmI0UE1ZVmRjWENfME5sQjkxdGlzQjdadzYtQ0gxMFlYczNXVFJKejdmWUdoYXdPeFgzbVk2b3UtdmdwYkw2emxNR1lVcFU4?oc=5",
         "headline": "은행채 발행 쏠림 우려…금융당국 선제 관리 효과 볼까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790845843.0,
         "tag": null,
         "first_seen": 1790875829.3918405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QRk1GMWxoVzJEU0VzN1pPOVctUnM3aDBjOTZXWkdDdTg4clhwZ1hzdk9odnVDSXptWV8zNDl5VWlHeWJjZFo1ZGc3bms4aEVwSVhwbGlkZzN2UQ?oc=5",
-        "headline": "장부 밖 '숨은 조달' 4조6000억… SK이노 재무 '경고등'",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/01 18:08",
-        "published_ts": 1790845702.0,
-        "tag": null,
-        "first_seen": 1790846122.493577
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPWk9Pa2FGbWpySlRnTkdqOHZNd0VmTkVnRWNxc2hxV1VoU2lSenNHS01JSENDRF9RMHdCSTNFZjY5U05Gc3FYQjZWalRZdnYzVUdnR1JKVy1PVW5wVHZDb3ZZb29Yd0FYenZJNEQxM0pXdll3Y3h5ZFpDVWxIRFJhQm44czV6clA2eFl4WTRyRVNVVldDeUZ0Nm0zQW5abEFhQzZSN2lhLUtnVGdGdzRoZGx0STV2WWN0Wk53MnR3bm11NHBMQW9uYV9B?oc=5",
+        "headline": "Long-term JGB yields rise toward multi-decade highs as inflation signs mount",
+        "summary": "",
+        "source": "thestandard.com.hk",
+        "published": "10/02 17:02",
+        "published_ts": 1790928169.0,
+        "tag": "JGB",
+        "first_seen": 1790929830.765851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNWNrSEwtWlRfZmMyMmJqaWtYZjltc1JRZlJ0bUxHN05FNHBoOExZb1NsLVNXSTZtb29ucEJMMEc1X083NC1fRmlCWVJPVXJJbWFpUEQwLTZVM0pvRTEwSmRndVNCQkVrLWFSYmZEUUVPNFM4b2VRUTg0ajN1eHBxOXEwOEZ1LTJEVjdCemxaU1JJZk9RTWw5aUtDNlZva3I4SVRuZGRwb29pTVVZMV8wYnMxeFUwOHRXTkM4?oc=5",
         "headline": "Korea weighs deeper Treasury bond issuance cuts, emergency buybacks",
         "summary": "",
@@ -1728,6 +1738,16 @@
         "published_ts": 1790917806.0,
         "tag": "Global",
         "first_seen": 1790918120.164191
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tX1phNGt3VXU0bHFjbXE3b1Fqdm80anNvUi1WRTBncFhRSENrOS1YLU12LVlTWUdDOERxV0hCOFJYZm8xQmpOb0NBWDd2cG9XTzl0VzJsZS3SAVhBVV95cUxNbV9aYTRrd1V1NGxxY21xN29RanZvNGpzb1ItVkUwZ3BYUUhDazktWC1Ndi1ZU1lHQzhEcVdIQjhSWGZvMUJqTm9DQVg3dnBvV085dFcybGUt?oc=5",
+        "headline": "손정의 소프트뱅크, 오픈AI 지분율 13%됐다",
+        "summary": "",
+        "source": "biz.sbs.co.kr",
+        "published": "10/02 14:03",
+        "published_ts": 1790917380.0,
+        "tag": "Strategist",
+        "first_seen": 1790929830.765851
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1KSXcwOWJqVksxUHhnT2VFdks0dGlJZlJ4d0Qta3FENEN3ODlkNDZxajZKTXcwYkstaDJwSzFGRVdEejNQaUNHQW9jOTlsbmVNRDE2TlpPemLSAVhBVV95cUxNSkl3MDlialZLMVB4Z09lRXZLNHRpSWZSeHdELWtxRDRDdzg5ZDQ2cWo2Sk13MGJLLWgycEsxRkVXRHozUGlDR0FvYzk5bG5lTUQxNk5aT3pi?oc=5",
@@ -1870,6 +1890,16 @@
         "first_seen": 1790904629.048171
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9zTlBWUFN3aURzdkFuN1RsWW9ZOWVxZk9vMTZrMWZoQ1pqeHlKbWV2Tm9CTEM4bTJuVnFvb2ZzM0luNlppeXdzVGZxdUxodldpeW92Q0NYQjRpSjhHZzNOcGVQVmJQZHBVZXJiQi1PdWNSNE9Ld2Rmag?oc=5",
+        "headline": "알림음과 배경 음악을 구분하는 슬롯게임 분양 사운드 안내",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/02 09:57",
+        "published_ts": 1790902663.0,
+        "tag": "Strategist",
+        "first_seen": 1790929830.765851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMUNqa2VsNTBuOUhBQkRMN2hRZEkxVEhIV21FUV8xRm1oS3pSM1Vtd3hWdEZDZjAwTlpMLXdDTnZVRnpNYXdZbzhWc2Nla3daeFdBQ3pRMktTSnRTbDQ4NDdNX1ZSU2pHZG4yQW11YmlfdnhVSjB1OGluSDEydks4NXY2Umo0b010dE85bVBCLUdFTVBCVllSbkl5Q3dlTlhKZ2tvaG83ZFdHLXpGM0xfag?oc=5",
         "headline": "Japan government bond yields fall as global markets steady",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1790893219.0,
         "tag": "Global",
         "first_seen": 1790893830.5004199
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOSmNDRk9jeUREOEt2TzlCVVFacEFLcnJqZFN2ZmhRMVlvazhkbUc0NHhWT1JqTVZvdjFYX1kzdWFOWjRfME4waG55Q1d6Wkh6TEt5R0ZlZEZ4MXljNFpEYW9wbXkwVWZnOWFkYm11VFJCU3lzMjlkWlFXVy1NX2NoSnpB?oc=5",
-        "headline": "용어 설명부터 필요한 분을 위한 무료 점프 게임 시작 페이지",
-        "summary": "",
-        "source": "calgaryroughnecks.com",
-        "published": "10/02 07:15",
-        "published_ts": 1790892931.0,
-        "tag": "Fed",
-        "first_seen": 1790921732.132287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFNwQ01UMFo4bGxGYWh4Wk9ySUl1Y0lkdUlCZkowN01SbW1KYTJXSkxlUkdOSDBpM0tUNS1KSzhrMVRES3NZbU9jX3Nnek5IdmRQcTdlVExoY1lxSE4xSG1NX1AwWFpzNXpYZHpwbkZadU1tMi1NMC1PTzlxZHp2TlQyTzdVT3Q5dldYSkFXaTRTYWFMQ19ZckVmOU9nUTRYeHowcQ?oc=5",
-        "headline": "Opinion | Most of today’s higher prices are Biden-era inflation",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "10/02 07:13",
-        "published_ts": 1790892799.0,
-        "tag": "Fed",
-        "first_seen": 1790895630.690747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbWZEVkUtVzJveHhpUEEyNkRMeVVmV2ZEYlM1Y0RwS2xiNWFGTHpDYUR0bEROa0xOMHVBTUVvMEN5enc1TFQ3bG1Ta19udzBDaW41eExyY0hfNXpKZENSUm1KUkVmOHd4MDBTbmotZlZwVUdvZ2JJWHZodTlMNllRbw?oc=5",
-        "headline": "게임 화면을 천천히 읽는 한국로또센터 첫걸음",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/02 07:02",
-        "published_ts": 1790892132.0,
-        "tag": "JGB",
-        "first_seen": 1790919920.6049745
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 17:15:49",
+  "updated_at": "2026-10-02 17:30:57",
   "yields": [
     {
       "label": "3년",
