@@ -1640,6 +1640,16 @@
         "first_seen": 1790929830.765851
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB5ejl3dkpta1BUZXBVb1RmTktZMDdfRjZLX3RGZ0IwWGdBRzlYRWVVRzl1TUZHa3Y5ci1HYl9rbS1KeGFUTWc?oc=5",
+        "headline": "글로벌 국채 금리 ‘고공행진’…증시 ‘위험선’은 어디",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/02 16:59",
+        "published_ts": 1790927950.0,
+        "tag": "JGB",
+        "first_seen": 1790934322.6236207
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5WbFNta2kzSnQxSVNfd3pOeFNLV2lnVUk2M09rQTlnc3NIdklRMWlNTS14Njk4UktVc0t5LW5UaF9DdEdFZUh2MTdTamdZLXQ5R3Z2SlcycFgyRUNsMDZnRFA0UnhUT2diZGxGY3J5cG5OTjVh?oc=5",
         "headline": "[도쿄환시] 달러-엔, 연준 비둘기 발언 소화하며 하락 |",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790899020.0,
         "tag": "Fed",
         "first_seen": 1790914524.311411
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPY25fbkF3U3FzTGZISkVoSW1IeGNCbXhTYUZIVWRzRkpIZGpWZ3FxWjNkS3c3d19fS2cyLTZHcnpVTUt3elpTQTdhMkxVd2VRM0JQaHRVOGVkV2FFS1RDc0FPbFZfcHpwNXNRUHEtcUx3VENpeWxiOWI2Q1lOb19kVFliWFptNXM1Y21rcw?oc=5",
-        "headline": "Fed's Logan calls for '50 bps or more' in rate hikes",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/02 08:33",
-        "published_ts": 1790897586.0,
-        "tag": "Fed",
-        "first_seen": 1790910032.8702319
       }
     ],
     "watchlist": [
@@ -2413,8 +2413,35 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 18:30:50",
+  "updated_at": "2026-10-02 18:45:46",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.937,
+      "chg_bp": -7.3,
+      "series": [
+        3.888,
+        3.884,
+        3.9,
+        3.901,
+        3.91,
+        3.93,
+        4.014,
+        4.025,
+        4.091,
+        4.053,
+        4.063,
+        4.035,
+        4.056,
+        4.04,
+        4.006,
+        4.119,
+        4.076,
+        4.011,
+        4.01,
+        3.937
+      ]
+    },
     {
       "label": "5년",
       "value": 4.129,
