@@ -12,6 +12,16 @@
         "first_seen": 1790977522.7816124
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1xR0Q3T1RyT1NwTGg4UDNOSF9RTmhoeHpNWk5wX05FU0llVG85UHpwdi1wdmFsNlhnZDNoTF9uaFJCY0FtcUtIdjBHejRUblRDbEpsckNlWHYzajNkaElVbGU3X2dqRUFQVG8xNVdzanJ5QQ?oc=5",
+        "headline": "[뉴욕채권] 국채가↓…美 고용 부진발 '일시 강세' 후 가파른 되돌림",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/03 05:16",
+        "published_ts": 1790972164.0,
+        "tag": null,
+        "first_seen": 1790980587.5744095
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1WWGc0VW51bkVVay01SzBwa0RuYnQ5UGw2S2JzclNTaHk4R1hYT2FnRktSZlYwbldaamN6OVQ0S2lWcThiQjRsaUlreGJIX0dGR1ZLaUc5Sm9rZ1drRWQzd1g4WW1XZ0hKal9nVld4VkU?oc=5",
         "headline": "피치, LKQ 전망 ’안정적’으로 하향…보험 청구 부진·자사주 매입 영향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790888923.0,
         "tag": null,
         "first_seen": 1790891121.527501
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SdWJYNTktRTdkdlRpZDQ4MkJRaXZqc1I3MjdHVEZkU3dXMG5nU0cxWXo4cVhVUk1ZcDBkSm1MRmpBMTctRFdrLVVhYnpiNmViZjFDQXZnS0JUOVMweDhrYXZobEdRRUh0S1hRYmYxbzg?oc=5",
-        "headline": "[뉴욕증시] 채권 따라 춤추다 결국 제자리…강보합 마감",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/02 05:50",
-        "published_ts": 1790887812.0,
-        "tag": null,
-        "first_seen": 1790973921.5269337
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTi1RdzYwV2tlQ3JXMW0zNVVVWWhIcEw2WkVFSWxKR0pQRjgwcjNqYkozUWItSkgwaDVLU3VXMzIwOUVLWGhSU05DVTFaelRZUU9lNEExekJ6MGpCWHRoRFR5U0wtXy00X1FIV25aakpyRHFEYkp4Tkh2NzIydVRfcE0ySHZJM2VRelg0djhDLUhjWHJ3?oc=5",
+        "headline": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
+        "summary": "",
+        "source": "The Guardian",
+        "published": "10/03 07:32",
+        "published_ts": 1790980320.0,
+        "tag": "Fed",
+        "first_seen": 1790980587.5744095
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRlZtVWFDdXFfRU1JTzhyZ2xfMTkteFg2YVNjb1JpSnZoa004aHJEcjNKcFBDamVjX21yYkFqaUtZSkNwZmctNjAydko4XzVGREVIQUxaZk5OWHFEYTRGOERDLUlDZDVXSGszdjBjdmxOcWRpV3BsdFBjSWpDNVF4VEhaTjhjX1BUOFYySnZuYkZxZzFWbUFmZnk3Qnh1T3g0TmYwRG96UjlCc3JkZkxYaGIzckNWU2FubVR0bTNCMGlWYlM4VHRveGdycm9BcXJEZjJKLUp4Um1xLTNFYjlNTHFnVERRcGtmZVBWT1Y1S0JnWmd4bTR0NWppVU9LOTFnOFF3?oc=5",
         "headline": "Pressure builds inside Fed for another rate increase",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790936700.0,
         "tag": "Global",
         "first_seen": 1790949636.510026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOTDJJaDUzMFRrbnpaTG9nUkJXZ2U4VGc5T2UyYmJiTWNleEdCbGwtNWlERVM5b1FXNkk5RFplMFlTa19WamdHX3dSQmFVcVBDSXNtb3k3UnFwWUl4eHZud0dnQjJYdC1ZWXdGSHl4Ukg2bzNiLUZvWmtsZkRtV25LRGxHUzJ2QQ?oc=5",
-        "headline": "Mohamed A. El-Erian: G7 bond yield premium rises on weakest quarterly performance since single currency birth",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "10/02 19:10",
-        "published_ts": 1790935851.0,
-        "tag": "Strategist",
-        "first_seen": 1790938832.473173
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 07:30:56",
+  "updated_at": "2026-10-03 07:36:53",
   "yields": [
     {
       "label": "3년",
