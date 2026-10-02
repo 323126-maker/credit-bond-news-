@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45Q3N4eHlXcFFSNTYtMFYycE9xVjJEcE1RRXpMNEZjNzdub3VISTl5dmEzTUl0Uzg4OGIzVTJ4ODNNX2JUYVNhY1FaWm15eW5Sa0UtMg?oc=5",
+        "headline": "英 버넘 총리, ‘재정 위반 유죄’ 맨시티 구단주 지지 발언에 비판받아",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/02 11:03",
+        "published_ts": 1790906594.0,
+        "tag": null,
+        "first_seen": 1790960438.6462407
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oWkpjaUVCU09oVndmZDJ2NmxrS0lWMWVIQ25xaW45TG5RazZNSUR2ZFN5UjhKMUJTUkxjNllocFc3Q05JRnR1NlVOZkdfcFU2bndzVlZ5T2pUQWZYdl9tQ0NsRnJHYTQzaTh3eg?oc=5",
         "headline": "[뉴욕증시포커스] 美 국채금리 24년 만에 최고…뉴욕증시, 긴축 경계에도 강보합",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1790556420.0,
         "tag": null,
         "first_seen": 1790557232.9343688
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE02bmk5bHp5UkdYOGpDY0R6SHJfM2pyY2FnLWtuMl9ZX0pidEFnVDBpdksyWl9Va3dRb3VhSlpQZzVIMWxCTnlacnBhdzMzM1A2YmdPLTVpTTdwbjhsSTNWckt3bXpfSURnUE9yTXRGdlJVeGhwSXl5SdIBeEFVX3lxTE02bmk5bHp5UkdYOGpDY0R6SHJfM2pyY2FnLWtuMl9ZX0pidEFnVDBpdksyWl9Va3dRb3VhSlpQZzVIMWxCTnlacnBhdzMzM1A2YmdPLTVpTTdwbjhsSTNWckt3bXpfSURnUE9yTXRGdlJVeGhwSXl5SQ?oc=5",
-        "headline": "李, 내일 '메가프로젝트 민관합동 점검회의' 주재…피지컬AI 등 현황 점검",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "09/28 09:17",
-        "published_ts": 1790554654.0,
-        "tag": null,
-        "first_seen": 1790562631.7852793
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1PVS1IZjZGcDlLNlNNMTEtTnFxYndSc2ZGZF9tM1JPRjhiRGdVbDBSVkZnZV9XZG9mSTlpY3kyRDJOVWl1ZW9lZ2E3RklHX2dnYllkNE9JdXowdUFEaVB4ZzhxRUotOGxoMzFqeWl2bkN0ekZEQzlSd0d0TQ?oc=5",
+        "headline": "Kenya’s domestic debt rises to Ksh7.78T",
+        "summary": "",
+        "source": "People Daily",
+        "published": "10/03 01:54",
+        "published_ts": 1790960050.0,
+        "tag": "Strategist",
+        "first_seen": 1790960438.6462407
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMnBZQUV5Yk5vc2ExTU9oWFBLc0pMQ3dpYlpLaHpNblBUTE82XzlHb1JaNTgxUkc5WXpsUl9GWDhBWDNtSDhYLTRCY1ExWDR2RHREelVxczRONmNETTJ5Y1d1OFcwaWhfVHBkLUw3NWRta0pKV1ZLN0RXWjBfR2xSM2hFb0JfXzVSNVZfX0V4ZjFhNEtkX3k1WUVBVnFzTWN1ZlAxT2huaFJ1ZWlmWTNOclFGeG8tTkxMdldNNjZaQTNHTllsVkFJVDJB?oc=5",
         "headline": "France debt crisis: investors render a 'guilty' verdict and are pricing in growing odds of default",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790925763.0,
         "tag": "Global",
         "first_seen": 1790933429.4246461
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xbWJiV3l4c1pGMTlUU0F3T0NVTHZfRjZCY01DZDBxcVhMVm9zNGlSbVZCQV9YeTZFTmwtWXZONzUwN1dDdTJfRnlKVlRWemZPbVdoYV9PYUVGbVZIa2pGdHZoZw?oc=5",
-        "headline": "US benchmark bond yield hits more than two-decade high | NHK WORLD-JAPAN News",
-        "summary": "",
-        "source": "nhk.or.jp",
-        "published": "10/02 16:17",
-        "published_ts": 1790925455.0,
-        "tag": "JGB",
-        "first_seen": 1790940628.1153383
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 01:45:49",
+  "updated_at": "2026-10-03 02:01:07",
   "yields": [
     {
       "label": "3년",
