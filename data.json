@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMEtrLXpwZWZuQ1pDU2FoWFdJMnFZNkpvYlZVbFFlVVMwcVpJWXV1WDk3dDBsWmlHbnJYcjk2Ym8wZkNjNUx5SzJHREMwd012ek9vNlFpNGRDa29SMmxVbUcyQ19uQ3p4c0hyLUJfQzNwVnJzb0ZscHBKbUNBT2ZwaDZQSHRxOVdBT1BVbms1aDVXeDhiVWo0NjAwSQ?oc=5",
+        "headline": "외국인 투자자들이 여전히 베트남 채권 시장에 투자하지 않는 이유는 무엇일까요?",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/02 19:24",
+        "published_ts": 1790936657.0,
+        "tag": null,
+        "first_seen": 1790939722.0478134
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13YkVMcEhpdVpIZW9JUlV6Ymt6dG5INW5oa2FuYS02YkJkWEFIckZZTmhYQUh1TFZxTnNpbDNybXBxLVRmTnp2RGotTEpYNlNmemxFTTI2SENJcThQYWI2TnZYMWs4LVR6WFJOczdYRWY?oc=5",
         "headline": "[채권-마감] 국고채 3년 금리 7.3bp↓…정부 조치 제대로 통했다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790851805.0,
         "tag": null,
         "first_seen": 1790932523.7315726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9KMERGclVXc2ViN1UtY1ljSnUzcnAzRy1sYU1iNVdXYmZqS1ZSMW9iUlNLbTFYS3g1cW9KTmFFZWIwa1R1UzdMR3NDNHlzNW9iNjcyb2djTjZha2YtdXZiamNGMDdoNEJib2NUS2FtQlIxTzA?oc=5",
-        "headline": "유진 챔피언중단기크레딧 X클래스 투자분석 2026. 10. 01",
-        "summary": "",
-        "source": "주달",
-        "published": "10/01 19:42",
-        "published_ts": 1790851326.0,
-        "tag": null,
-        "first_seen": 1790907325.3571928
       }
     ],
     "perpetual": [
@@ -1970,6 +1970,16 @@
         "first_seen": 1790917232.7028105
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9rS005eVMwSHg5dVc1bFlPX1ZaVTUwUlVoZW05WVNGX1ItNTFtUnY0VjNhemtMWVlnQ2ZMWDVIQUlPaS1Gb0E?oc=5",
+        "headline": "美 10년물 금리 24년 만에 최고…글로벌 국채 매도세 가속",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/02 11:02",
+        "published_ts": 1790906578.0,
+        "tag": "JGB",
+        "first_seen": 1790939722.0478134
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yUWN3dEtFLWFQaGNHRzJrM2U4TFRXcVpWQ18yTXMwb1ZmQ3Z6enJaMXhKWFB4RXFNMkdlSGRUY1F3NVFoQzNGWkdHbHMyYUtoeVd3aDhPY1lFTUhwSGJGcml1R2lqRGw4TjloN2xRdHhRZ2RsTVE?oc=5",
         "headline": "Trump Repeats Call for U.S. Interest Rates to Be \"Lowest in the World\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790905200.0,
         "tag": "Strategist",
         "first_seen": 1790924287.2549143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUlY4TEhOR2NGOXllczFUWWpHQkh4RmhEOWd2LW9va3dGdlN1cm4wdTNuMXMzWmJnTmk1ZG1nRTV4OXFyRUJoa1JaUEhPN0xRWC1mcVJJT3RRTXNGU2ctdTZjRUpPcVUwSXh2Q2s5eGxhSjVNQTBXNm16eXdDNHRRQUpqQ252YUFMOWhtN2o1VXlBUGNtdDE3Q3NQMFlXVGIxaGRMNm5Pb0dxRXFDR3ZaSjVGZUduSU80NlJKZDVzR2d4VnY3bHVvb0NhV05GSkU?oc=5",
-        "headline": "Vanguard All-World ETF Holds Its Ground as Bond Markets Wobble",
-        "summary": "",
-        "source": "AD HOC NEWS",
-        "published": "10/02 10:30",
-        "published_ts": 1790904659.0,
-        "tag": "Global",
-        "first_seen": 1790905521.6454837
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 20:00:58",
+  "updated_at": "2026-10-02 20:15:58",
   "yields": [
     {
       "label": "3년",
