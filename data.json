@@ -192,6 +192,16 @@
         "first_seen": 1790901923.5365238
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNeUJydjR6TS1qUnVKc092djFmVndJRmw0RHRpRVNnTG93RXpwcDRaRUViOWdyODVoX21hQUE2UzlTbGhnQVFLaDM1ajBtR0VvWDRzNXBaeE5NemZPbFZfUXkyakxMWVRXNDFLcC1EVUVZWUl5dDRucG9QRl8xV3FZY0pmWDR2bGVX?oc=5",
+        "headline": "美 국채 금리 24년 만에 최고…유가 상승·AI 투자 확대에 세계 채권시장 흔들",
+        "summary": "",
+        "source": "조선일보",
+        "published": "10/02 08:37",
+        "published_ts": 1790897820.0,
+        "tag": null,
+        "first_seen": 1790920833.7158852
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYllIX3VVVFRpaGhISHhEMmhFWFRaSEJldVRxNG1Oc2NCTXJNbFRSSngwcmNqNWlRbUp0SEEyVHQ2VTlwSXdsblFBQmkzakw3OFk4UHE0V3ZfdjlzeXQxUjRZZHdycmFXX0FtSXR0MENUaUJPNWdmaTY2NjZybjU0aGdVbjdBRHhq?oc=5",
         "headline": "천문학적 자금 쏠린 AI 채권 시장, 투자자 냉대에 조달 경색 직면",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1790844780.0,
         "tag": null,
         "first_seen": 1790845237.173907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPc3JHc1lWeDMyMFdBZlQxRlJnc2xNU3lvTkd4aDF6TVo3ZkNEU3pKXzEwcDFRcS1JRTByd3FmemtjQndkb0xrOG9DaGR6eVQ0cjZnWHZlWWFvUWs3TVpqdkllZ1VPOGFNMEtRWFAyblZfOFF3eldoSEw2NWVmbjFMMU5Jb2dvQ0ozLWxKTEdXMXR4Zw?oc=5",
-        "headline": "[장마감 투자보고서] 한국 수출 1209억달러·반도체 +263%인데 코스피는 왜 못 오를까",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "10/01 17:52",
-        "published_ts": 1790844720.0,
-        "tag": null,
-        "first_seen": 1790867732.2463064
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2SGk0SXBXbkk1WmhPaG96WnBzMnhNYVc2LUMxakZPX05ZUjJKeWYyZjh6c2JwZ29od01CVlhEZkwwcWdiWXZhcndveXNYZ3ZBU3ppUENpU0p6dGxiay1wakFlbjd5LVdhUGxwM0ZSaw?oc=5",
+        "headline": "하나증권, 외화조달 다변화 속도…글로벌 IB·기업금융 투자 여력 넓힌다",
+        "summary": "",
+        "source": "Korea IT Times",
+        "published": "10/02 12:07",
+        "published_ts": 1790910473.0,
+        "tag": null,
+        "first_seen": 1790920833.7158852
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBwUndTRTZ5YlZKYW85eW9XdUtzeTdEcEVOVmhGZGVTb3laZFVBTnJJSEJzQTBwVWhRUTdVQkIyX0ZnUTdaa1JWOXUtOHBaMUl0WkhCbmpzamZBSEFkaENnVmFCVWp6bXgxSkhZ?oc=5",
         "headline": "증권사 '몸집 키우기' 경쟁…신종자본증권 발행 잇따라",
@@ -792,16 +802,6 @@
         "published_ts": 1790725249.0,
         "tag": null,
         "first_seen": 1790731827.835611
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IUmxxYUNxUXVrNnp1SHgxR19FaUtBQXEzTzVTUWFlbTJzRjRwVkR1dUs4cWVxU0RZV0xXYy1wVGpNbDViX2xnRVlmcnhUVWF6WDQ1MVUxclptajZrYWc?oc=5",
-        "headline": "보험사 K-ICS 5분기 만에 꺾여…금리 오르며 '자본의 질' 시험대",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "09/30 07:02",
-        "published_ts": 1790719371.0,
-        "tag": null,
-        "first_seen": 1790720121.7517583
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-02 14:45:44",
+  "updated_at": "2026-10-02 15:00:55",
   "yields": [
     {
       "label": "3년",
