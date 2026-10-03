@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc2U2bFVSRFl1ZERUWHZ2LVZmLWFucVpvLVFqY3JmZ2VLblZCcmxMSU40cmN5M0pVT0h5eW5teFlXOHVQZ2FIR0JjXzl0MXJqTnhYcm9DdlVMT1NmM2FkdkFlblRVZkxzRGJFWjgyTlNSZ2pnQkVqUndMc0VjTnNnUmE0MHNjanExekloLVAwZjk3dnpjM3ByNDQtYmNXRUJrNm5pQWZfMy1fQQ?oc=5",
+        "headline": "Federal Reserve Chair Puts GSA in Charge of Renovations",
+        "summary": "",
+        "source": "The Presidential Prayer Team",
+        "published": "10/03 17:00",
+        "published_ts": 1791014400.0,
+        "tag": "Fed",
+        "first_seen": 1791015323.7927318
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdENMbmlFRzZTTDdmTkZMb3hOc3h4Z2kwUlZJaGdYS0tBTHE0U1A5Qmd2XzV6eXBSbldkYjloQVZMRlFjRWxZMDhvMUJKc0Nab0dCQnZPamc5MlpZOThqczNCSWltSWhGaWhrMGMydDhMY1FNZVhKWWVrNlRuME92eE1vUjVZbnJ2eUlkTFZ6SHBnREpJR3lOQXlWWVVVMmZvbElnQVZtMWhWbHdFSlFrN0c5LUtibkRK?oc=5",
         "headline": "DOJ will not reopen criminal probe into Fed’s Powell, spokesperson says",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790945567.0,
         "tag": "Fed",
         "first_seen": 1790947829.9827962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNVNrb0Jsb3lLVU1ja3VEeERmYXFkdVZGQTFhTDBYMGV4bHhwV3dpLWJWVW9hVHpXUXFhV1h1eTVJUWxIcXBRMlRteEdoUlhUUWFibDBKcWRCU1NqYnpZNFplQTFOUmVWLXFORkxPMGYzcHNiOXd5TU1zbGxIbTBoWlhJc2JiMnAwQ3F6THJCZWdsQQ?oc=5",
-        "headline": "USD/JPY(USDJPY) 종목이 10월2일에 0.60% 하락한 이유는 무엇인가요?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/02 21:35",
-        "published_ts": 1790944549.0,
-        "tag": "JGB",
-        "first_seen": 1790945122.49922
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 17:00:58",
+  "updated_at": "2026-10-03 17:15:45",
   "yields": [
     {
       "label": "3년",
