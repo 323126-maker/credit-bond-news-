@@ -1046,6 +1046,16 @@
         "first_seen": 1790833522.8031325
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrVUNNR3dLaEFOdXZNVnFDN3FrdG5fcnVDcmRPTi1VbDU0aVRVQ3F3aHNQbC14eFlOcW5QTnFPX3cxd0dMUHNaTG5vUQ?oc=5",
+        "headline": "금리 상승에 금값 약세…한국은행, 12월 금 1톤 매입 추진 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/01 11:43",
+        "published_ts": 1790822580.0,
+        "tag": null,
+        "first_seen": 1791021631.708493
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcFVtMzZjYVNTaEJYVWU0eS13dDBsS0lWUlZGOWNUNjk2Nm9MSVo3OTZ5MzYxN3d4TEhLR0swQ0dIeWxmN1lYYWZaVkRTa1hWbncwY3RuR01ncU96UHRJeXdYbmxhU09wS3hmbTgtZkdMMFVv?oc=5",
         "headline": "[황병극의 파인앤썰] 정부도 시장도 불편한 금리 |",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790757720.0,
         "tag": null,
         "first_seen": 1790759723.9144232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9uUGJWc3Q4VHl6TVRKZWl6VHdnMWJEZmVSRDlNVEdBbE5ubnpHQ2xsSHI3MUhrMFNvQm5QZVlTZ0QtRXZGd3c?oc=5",
-        "headline": "세수 63조 더 걷혀…채권시장 안정 등에 투입",
-        "summary": "",
-        "source": "매일경제",
-        "published": "09/30 17:32",
-        "published_ts": 1790757133.0,
-        "tag": null,
-        "first_seen": 1790764229.3013024
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 18:45:48",
+  "updated_at": "2026-10-03 19:00:55",
   "yields": [
     {
       "label": "3년",
