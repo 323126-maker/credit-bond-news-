@@ -1146,6 +1146,16 @@
         "first_seen": 1790752530.7359607
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yb3VsNnlETUVEWkdibTQyRXdZUm5ScEc4VVh3ZEpERExaU3RxUWF4YkV0WE1kR2VpQ2laamtqUjJOSEpVcEVYQVBnY3l4RjBhWS1qNnN2NFU3WDFHQlpnaENNTGljMzA?oc=5",
+        "headline": "정부 초과세수 63조 2000억…주거 일자리 서민금융에",
+        "summary": "",
+        "source": "jabon.co.kr",
+        "published": "09/30 15:40",
+        "published_ts": 1790750400.0,
+        "tag": null,
+        "first_seen": 1790991920.8118494
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhY2k3aDFOT3k3aHRaVW80aHFJemhHVzhyMUJvWVBWNFNnRU0xdVJVWVpIOXFTUlJFazA5dm45UG9HNXlqRU1QOQ?oc=5",
         "headline": "초과세수 63조 어디로 가나…국채 상환 vs 미래대응기금 ‘재정 운용’ 쟁점",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790735557.0,
         "tag": null,
         "first_seen": 1790736326.1694927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCWGxZS0laMVBVVXM1bFoxRjhiU1RRM2M0eGVLWkxnSk1nbHpHTGZ0TDk4R252ZXdrYzZWQW5kS1IxbTNVSWo1aGdMT0xhMHU5TGJfYWVSLVhkVG1LUVFJUNIBYEFVX3lxTFBCWGxZS0laMVBVVXM1bFoxRjhiU1RRM2M0eGVLWkxnSk1nbHpHTGZ0TDk4R252ZXdrYzZWQW5kS1IxbTNVSWo1aGdMT0xhMHU5TGJfYWVSLVhkVG1LUVFJUA?oc=5",
-        "headline": "정부 \"초과 세수 활용해 국채 발행 물량 축소\"(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "09/30 11:30",
-        "published_ts": 1790735412.0,
-        "tag": null,
-        "first_seen": 1790742629.4212239
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdENMbmlFRzZTTDdmTkZMb3hOc3h4Z2kwUlZJaGdYS0tBTHE0U1A5Qmd2XzV6eXBSbldkYjloQVZMRlFjRWxZMDhvMUJKc0Nab0dCQnZPamc5MlpZOThqczNCSWltSWhGaWhrMGMydDhMY1FNZVhKWWVrNlRuME92eE1vUjVZbnJ2eUlkTFZ6SHBnREpJR3lOQXlWWVVVMmZvbElnQVZtMWhWbHdFSlFrN0c5LUtibkRK?oc=5",
+        "headline": "DOJ will not reopen criminal probe into Fed’s Powell, spokesperson says",
+        "summary": "",
+        "source": "The Mighty 790 KFGO",
+        "published": "10/03 09:06",
+        "published_ts": 1790986008.0,
+        "tag": "Fed",
+        "first_seen": 1790991920.8118494
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTi1RdzYwV2tlQ3JXMW0zNVVVWWhIcEw2WkVFSWxKR0pQRjgwcjNqYkozUWItSkgwaDVLU3VXMzIwOUVLWGhSU05DVTFaelRZUU9lNEExekJ6MGpCWHRoRFR5U0wtXy00X1FIV25aakpyRHFEYkp4Tkh2NzIydVRfcE0ySHZJM2VRelg0djhDLUhjWHJ3?oc=5",
         "headline": "DoJ declines to reopen investigation into former Fed chair Jay Powell",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790938187.0,
         "tag": "Global",
         "first_seen": 1790970323.7838736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
-        "headline": "Market Movers blog: Government bond yields at highest points in more than 20 years",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "10/02 19:43",
-        "published_ts": 1790937829.0,
-        "tag": "Global",
-        "first_seen": 1790946034.7632172
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 10:30:52",
+  "updated_at": "2026-10-03 10:45:51",
   "yields": [
     {
       "label": "3년",
