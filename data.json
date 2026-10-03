@@ -866,6 +866,16 @@
         "first_seen": 1790990122.3973045
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5rb0k0MGQtYkxJdUVhNndYNTREZFhtTHBmVUVoTkJENGk1UHJLTmVuanIwVTRJSmR5bk5xQnhWNWpYRHBJSjVJRGQ5WjF5MjZvOWZKYw?oc=5",
+        "headline": "씨티 “한은 최종금리 3.5%⋯국고채 발행 10조 축소될 것”",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/02 17:35",
+        "published_ts": 1790930100.0,
+        "tag": null,
+        "first_seen": 1791010400.9955635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB3Qm9lNVBFZkw4UlFJYmpnS0h6X1JOWXM3RmI0UE1ZVmRjWENfME5sQjkxdGlzQjdadzYtQ0gxMFlYczNXVFJKejdmWUdoYXdPeFgzbVk2b3UtdmdwYkw2emxNR1lVcFU4?oc=5",
         "headline": "은행채 발행 쏠림 우려…금융당국 선제 관리 효과 볼까",
         "summary": "",
@@ -1014,6 +1024,16 @@
         "published_ts": 1790831709.0,
         "tag": null,
         "first_seen": 1790833522.8031325
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NcFVtMzZjYVNTaEJYVWU0eS13dDBsS0lWUlZGOWNUNjk2Nm9MSVo3OTZ5MzYxN3d4TEhLR0swQ0dIeWxmN1lYYWZaVkRTa1hWbncwY3RuR01ncU96UHRJeXdYbmxhU09wS3hmbTgtZkdMMFVv?oc=5",
+        "headline": "[황병극의 파인앤썰] 정부도 시장도 불편한 금리 |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/01 11:33",
+        "published_ts": 1790821987.0,
+        "tag": null,
+        "first_seen": 1791010400.9955635
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1yNnNjS2k4ZVdmdEtmZUlpaHQ1U3hzVDJkREQwNTNuR3dGSHJpdjZWYmdtREEtYXE1ZjFxRVpKN0dmOTRRMXlyZ1Z0WlNNYTBNdDNHNA?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1790750760.0,
         "tag": null,
         "first_seen": 1790752530.7359607
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0yb3VsNnlETUVEWkdibTQyRXdZUm5ScEc4VVh3ZEpERExaU3RxUWF4YkV0WE1kR2VpQ2laamtqUjJOSEpVcEVYQVBnY3l4RjBhWS1qNnN2NFU3WDFHQlpnaENNTGljMzA?oc=5",
-        "headline": "정부 초과세수 63조 2000억…주거 일자리 서민금융에",
-        "summary": "",
-        "source": "jabon.co.kr",
-        "published": "09/30 15:40",
-        "published_ts": 1790750400.0,
-        "tag": null,
-        "first_seen": 1790991920.8118494
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xc0hIRURNeU1KTko4QkhpcUYxYzlxUWo4V1kyTTBQNWhBZTF0dVBUN0tPN2Q2bkVGWjMxUHB5ZW9HSE1Mb3BXOU1EUjJLRERGcXdVajh2SGJfZUU1cHFVUktNWG00TnA2cWRiZExzek_SAXBBVV95cUxPcXNISEVETXlNSk5KOEJIaXFGMWM5cVFqOFdZMk0wUDVoQWUxdHVQVDdLTzdkNm5FRlozMVBweWVvR0hNTG9wVzlNRFIyS0RERnF3VWo4dkhiX2VFNXBxVVJLTVhtNE5wNnFkYmRMc3pP?oc=5",
-        "headline": "국세수입, 추경보다 63.2조원 더 걷힌다…절반 이상은 법인세",
-        "summary": "",
-        "source": "데이터솜",
-        "published": "09/30 14:47",
-        "published_ts": 1790747222.0,
-        "tag": null,
-        "first_seen": 1790994628.0215495
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 15:45:44",
+  "updated_at": "2026-10-03 15:53:41",
   "yields": [
     {
       "label": "3년",
