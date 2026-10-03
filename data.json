@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ieFA0b2hCTUJndTFpV0xHb1NORmFSVm45eXdtYVBpZEEycWR6SFM3anhldDJyWEpjdmVoVVhUbjVKaFRmN2VGamo5Z0ttMEFRTkdXc1VB?oc=5",
+        "headline": "인플레·재정불안에 피드백 루프까지…美국채시장 ‘최악의 한 달’[디브리핑]",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "10/03 15:20",
+        "published_ts": 1791008400.0,
+        "tag": null,
+        "first_seen": 1791009026.1119967
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fVmVxc09xTHVZOGV0OVFEZ2twbGdCVmhwOGg0SEhnY21IRzUtVUxla0l6NTdPVkVzZ3psbkNLT2JreVpVLTJGZWdKck5JbFY1ZVFTZ0RJaFlMS2FKOV9BcExHdklSdEZiaHlZ?oc=5",
         "headline": "유안타증권, 단기차입 한도 5조 원 돌파했지만∙∙∙늘어날 이자 비용이 수익성 갉아먹는다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790900383.0,
         "tag": null,
         "first_seen": 1790902832.3504143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE16Q1FsZHUyQTRXMl9BZ3dOSTIxSFNqUk1oRkdZZW1uMFNObzZ1Q3lvT2VhaFN2NjNicDFjemRGc3Q2VU5xbm1UcXFjbVdNelpWMFBRQzJFMHN4aXFRem5YYzBIbjVOOVVZMGJhcGxn0gFuQVVfeXFMTXpDUWxkdTJBNFcyX0Fnd05JMjFIU2pSTWhGR1llbW4wU05vNnVDeW9PZWFoU3Y2M2JwMWN6ZEZzdDZVTnFubVRxcWNtV016WlYwUFFDMkUwc3hpcVF6blhjMEhuNU45VVkwYmFwbGc?oc=5",
-        "headline": "증권·채권 시장, 찬바람 속 거래 위축",
-        "summary": "",
-        "source": "파이낸셜투데이",
-        "published": "10/02 09:16",
-        "published_ts": 1790900188.0,
-        "tag": null,
-        "first_seen": 1790909121.2643843
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 15:15:46",
+  "updated_at": "2026-10-03 15:30:50",
   "yields": [
     {
       "label": "3년",
