@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOak9mUzJfemRzYktVVTJpM1pmdWExaTlpb3hhUURQTVMyM2tKNEJZelQ2MmNSTnZLR2FGMDJzVTc0QWQtSnNMcWNPTlJSN1VQeVcyZXBkV1FyZDYzUXhfYTJ4djgwcndqWEVSc2RYLUFiZWNzNEtCMHg0ZU01bGUzNmhsWXZXdGE3dndpajFyaUtYd0k?oc=5",
+        "headline": "포티넷, 실적 호조 사상 최고치",
+        "summary": "",
+        "source": "데일리바이트(DAILY BYTE)",
+        "published": "10/03 19:35",
+        "published_ts": 1791023700.0,
+        "tag": null,
+        "first_seen": 1791036923.2369125
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWFtdEF4SldfaGFoR3FoX0Y3UnFfSFdCZTBvWUVYSFpDQTI1Snp4ak9CQ3pWZ2p5MVRXa1k4dUo2emwtb09jeDZKeXdhQnRKMGVab0VZRTc0M0g2SjVqMURIaXI2c2NBNWtFZXhzTUJ1V21idEg1UDVTZUdxSHVCS3VRWkxNT2xKSzFPcE1iZlg?oc=5",
         "headline": "도요타, 미시간주에 북미 배터리 개발 센터 개소",
         "summary": "",
@@ -472,6 +482,16 @@
         "published_ts": 1790924221.0,
         "tag": null,
         "first_seen": 1790937925.169638
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UWXNWMk54bUtjamRHamw0WjNncm8xc3VIcnhYVTlGQnoxWkotaHlxVk5BQVhfNlRFOVBqOVVYWU91REFUcFRWS1Y4UXBkRmVKSlRJeXlDd0pGWXQtdUVmaGdPS1lOSEp1U1JEUUF4bWVsRzA?oc=5",
+        "headline": "기업은행, 4000억원 규모 신종자본증권 발행 결정",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/02 15:54",
+        "published_ts": 1790924064.0,
+        "tag": null,
+        "first_seen": 1791036923.2369125
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2SGk0SXBXbkk1WmhPaG96WnBzMnhNYVc2LUMxakZPX05ZUjJKeWYyZjh6c2JwZ29od01CVlhEZkwwcWdiWXZhcndveXNYZ3ZBU3ppUENpU0p6dGxiay1wakFlbjd5LVdhUGxwM0ZSaw?oc=5",
@@ -782,26 +802,6 @@
         "published_ts": 1790758845.0,
         "tag": null,
         "first_seen": 1790759723.9144232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBtSnRVQjBGYkR3Ymw4cnZBWEc1bjQ2RnB6UHlESFhPb05NeFNzUTMyVThHSXM2a0xrMUFtb0FvaFAtTzd5RTNQcnlqd3IweHBOTnpJazlURHNiSzg1czN1Rm13UV9XbU1Kby1LOA?oc=5",
-        "headline": "강성묵 “골고루 다 해야죠”…자본 키운 하나증권, 전방위 확장 채비",
-        "summary": "",
-        "source": "ER 이코노믹리뷰",
-        "published": "09/30 17:45",
-        "published_ts": 1790757923.0,
-        "tag": null,
-        "first_seen": 1790758834.6533835
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ENHlZTmRleVFyZTgwbnJDX2hESy02eWlPa1QwaVlFVDltX1M5OEF5UzhzRXhkMGZPWS00RElJSEtQLXZzSVd4amEtek15dGRWZDd3ZDB5QUFRNUN3eDFCWVg5ZllYNzZ2dDc0NzlzdXPSAXRBVV95cUxObk9uZmI0Zl91ZHhGQXBJNXNiTHBkUDNJeFc1U0RjeHc4b3VfZFRUclRpMF9PRktndi1scFNzVHhnREFfamZfWkR4YnFZbG13YjJZMFhGSkd2SWc0VWFNV2ctSkRUVnUyMlktbnJxS0pRV3FRbA?oc=5",
-        "headline": "증권사 자본 경쟁 확대… 지주계열 가세에 9개월 만에 7조 늘어",
-        "summary": "",
-        "source": "IT조선",
-        "published": "09/30 17:11",
-        "published_ts": 1790755899.0,
-        "tag": null,
-        "first_seen": 1790756862.7349734
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 23:08:33",
+  "updated_at": "2026-10-03 23:15:48",
   "yields": [
     {
       "label": "3년",
