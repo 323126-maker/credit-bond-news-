@@ -1166,6 +1166,16 @@
         "first_seen": 1790991920.8118494
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xc0hIRURNeU1KTko4QkhpcUYxYzlxUWo4V1kyTTBQNWhBZTF0dVBUN0tPN2Q2bkVGWjMxUHB5ZW9HSE1Mb3BXOU1EUjJLRERGcXdVajh2SGJfZUU1cHFVUktNWG00TnA2cWRiZExzek_SAXBBVV95cUxPcXNISEVETXlNSk5KOEJIaXFGMWM5cVFqOFdZMk0wUDVoQWUxdHVQVDdLTzdkNm5FRlozMVBweWVvR0hNTG9wVzlNRFIyS0RERnF3VWo4dkhiX2VFNXBxVVJLTVhtNE5wNnFkYmRMc3pP?oc=5",
+        "headline": "국세수입, 추경보다 63.2조원 더 걷힌다…절반 이상은 법인세",
+        "summary": "",
+        "source": "데이터솜",
+        "published": "09/30 14:47",
+        "published_ts": 1790747222.0,
+        "tag": null,
+        "first_seen": 1790994628.0215495
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhY2k3aDFOT3k3aHRaVW80aHFJemhHVzhyMUJvWVBWNFNnRU0xdVJVWVpIOXFTUlJFazA5dm45UG9HNXlqRU1QOQ?oc=5",
         "headline": "초과세수 63조 어디로 가나…국채 상환 vs 미래대응기금 ‘재정 운용’ 쟁점",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1790738704.0,
         "tag": null,
         "first_seen": 1790739923.655833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAzZG5WdERqTnEwWEJvSUxPV1UtdEdwaEJIcnZ3QWFiUHJHRi13QjFTWG1BVHAzOGtVVktEb1NfU3FRUVh3U3pyZlduWmladllzWFlR0gFTQVVfeXFMUDNkblZ0RGpOcTBYQm9JTE9XVS10R3BoQkhydndBYWJQckdGLXdCMVNYbUFUcDM4a1VWS0RvU19TcVFRWHdTenJmV25aaVp2WXNYWVE?oc=5",
-        "headline": "정부 “초과세수 일부...국채 발행물량 조절”",
-        "summary": "",
-        "source": "서울경제",
-        "published": "09/30 11:32",
-        "published_ts": 1790735575.0,
-        "tag": null,
-        "first_seen": 1790973921.5269337
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhVWxVSGd4LUQzWWFWazViWGdvR3hMbXFlSTh2VUlrZkJlbkdtRFBBM0xiTHJSQ2NiLWE1V05ENmw4Z3FlOUxn?oc=5",
+        "headline": "국민의힘, 장동혁·정점식 지도부 이재명정권 안보·민생 총체적 실정 정조준",
+        "summary": "",
+        "source": "breaknews.com",
+        "published": "10/03 06:08",
+        "published_ts": 1790975280.0,
+        "tag": null,
+        "first_seen": 1790994628.0215495
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdaMUREVk1Bd0toMmd6M2M4QUJZbFEzbHRtUkhHczBIVDdNVlpIUkZtaUFpWm9pU2hZSEhLSDYxNC13Z3pmRHBSNlc2SVliN1NtMjhrLUU3RThZb0tzRGpPQWEtS2FBb0RLeG9KWUZlX0RaV25SSHNmRGQxNGNiM1FuSDl0ODJQQ2xFZUtnanZRb3dHYkJTS3FfVmdTVU9VVHNjOUdLUndISXhIblozRUcwVDExVUJKQ3p6RkJPMVdOV1l2YVE?oc=5",
         "headline": "궁금한 규칙을 찾아가는 리즈 프로모션 확률 도움말 색인",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790592114.0,
         "tag": null,
         "first_seen": 1790594123.569712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFByQ1h3eGlWVU9xei1ROEM4UzlDcFM4Z3RGTlp6QXQ2eGI0QWx3WHR5cVJJRER2TXNQaDNHQjJ5OVMtaWctNlBnclNWTU00Vm5HR0Z6U3NfekRzR3hOSkhtVU9mRQ?oc=5",
-        "headline": "게임 정보가 바뀌었는지 확인하는 카지노 블랙잭 테이블 변경 기록",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "09/28 19:22",
-        "published_ts": 1790590960.0,
-        "tag": null,
-        "first_seen": 1790595033.8232696
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 11:15:48",
+  "updated_at": "2026-10-03 11:30:55",
   "yields": [
     {
       "label": "3년",
