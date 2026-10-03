@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fVmVxc09xTHVZOGV0OVFEZ2twbGdCVmhwOGg0SEhnY21IRzUtVUxla0l6NTdPVkVzZ3psbkNLT2JreVpVLTJGZWdKck5JbFY1ZVFTZ0RJaFlMS2FKOV9BcExHdklSdEZiaHlZ?oc=5",
+        "headline": "유안타증권, 단기차입 한도 5조 원 돌파했지만∙∙∙늘어날 이자 비용이 수익성 갉아먹는다",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/03 14:08",
+        "published_ts": 1791004080.0,
+        "tag": null,
+        "first_seen": 1791005430.4805808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNM1RFTnJ3OEcxNE9zdUNPWTY3NnNpZ0pGX2N5M0Q2ZGhxVjBLcGd5SzhLaWs5NXZxRVplaFU5S2FsckJoOWpHd3BRUEtSRHNXM2dfS1FxRmtOenp6S1NDbXZEOUZRMVFnaEVZU1N0d3h3RURsZkNaNTFJaXFTaFduN3FzelYyLXJEZmRmdXViTQ?oc=5",
         "headline": "GS, 5년 만의 공모채…만기 줄여 2·3년물로 복귀 : 네이버 블로그",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790900188.0,
         "tag": null,
         "first_seen": 1790909121.2643843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wNGNvd29KeHpKX3NVQjZ6OUJraFB6cmtlb1NBX2wxY29mQVJORnI2aV9GV0pzNkpqTzFjV3Z5ZHhNcHhvXzlFSXhYWFpMd0dnbEpCVnN5MURGUDR0aUlyemZmQXZBTTNfTkE?oc=5",
-        "headline": "글로벌 국채 금리 폭등·주담대 타격…IMF \"채권시장 질서 유지\"",
-        "summary": "",
-        "source": "청년일보",
-        "published": "10/02 08:42",
-        "published_ts": 1790898162.0,
-        "tag": null,
-        "first_seen": 1790919920.6049745
       }
     ],
     "perpetual": [
@@ -1086,6 +1086,16 @@
         "first_seen": 1790816435.0937998
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxZU1QeWlRZndIb081NFBXTWNCY3ZPUDdoQmh6RWM5XzNRTk5SN3VoQ2hVWnluLWFubjVYTEZjOGpUUEMwZUpkUFlVYjBINW9Sajk2ZTBqSXY0QdIBWkFVX3lxTFAxZU1QeWlRZndIb081NFBXTWNCY3ZPUDdoQmh6RWM5XzNRTk5SN3VoQ2hVWnluLWFubjVYTEZjOGpUUEMwZUpkUFlVYjBINW9Sajk2ZTBqSXY0QQ?oc=5",
+        "headline": "미래대응기금 200조 넘기나…초과세수 56.2조, 국회 심사가 변수",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/01 06:00",
+        "published_ts": 1790802000.0,
+        "tag": null,
+        "first_seen": 1791005430.4805808
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM09ZVVJnb0x2T2kwWEp3eTg2VF9MLXZhWGxtQVVHRkFRMGZPMDJ6VEpKeW9OUHBQeHR4Z01QZTgzZExweE02ZnQ3dWV0X0xSd1VqNXpRM3RvWHJuYW1uUTlVMTI2S01jTTFyZmpJWXFCajJGZjR4ZWRvMnN5aVRBWA?oc=5",
         "headline": "초과세수로 나랏빚부터 갚는다… 이달부터 국고채도 발행 감축",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790747222.0,
         "tag": null,
         "first_seen": 1790994628.0215495
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBhY2k3aDFOT3k3aHRaVW80aHFJemhHVzhyMUJvWVBWNFNnRU0xdVJVWVpIOXFTUlJFazA5dm45UG9HNXlqRU1QOQ?oc=5",
-        "headline": "초과세수 63조 어디로 가나…국채 상환 vs 미래대응기금 ‘재정 운용’ 쟁점",
-        "summary": "",
-        "source": "미디어이슈",
-        "published": "09/30 14:38",
-        "published_ts": 1790746680.0,
-        "tag": null,
-        "first_seen": 1790748033.936387
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-03 14:15:46",
+  "updated_at": "2026-10-03 14:31:02",
   "yields": [
     {
       "label": "3년",
