@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHhkVW1sRmR6VjA1bjdoRDVtWFRkT0tnTXVIZjVobFFUdnU3WEJkSndzeTNsOWx4RVlPNFZZR2luamYyZ0d4N1lQVm1hNHVGTk9GZ3VvcHhtS0lOX2txUjc0MXk3Y05vdHdIVE14cFExdUw1bV9qVHZOQk93cFlJeEpMc0EwOVJ4?oc=5",
+        "headline": "규제 족쇄 풀자 국채시장으로 돌아온 134조원… 월가 금맥 다시 뚫렸다",
+        "summary": "",
+        "source": "g-enews.com",
+        "published": "10/04 03:55",
+        "published_ts": 1791053700.0,
+        "tag": null,
+        "first_seen": 1791054921.5903504
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ieFA0b2hCTUJndTFpV0xHb1NORmFSVm45eXdtYVBpZEEycWR6SFM3anhldDJyWEpjdmVoVVhUbjVKaFRmN2VGamo5Z0ttMEFRTkdXc1VB?oc=5",
         "headline": "인플레·재정불안에 피드백 루프까지…美국채시장 ‘최악의 한 달’[디브리핑]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790902430.0,
         "tag": null,
         "first_seen": 1790909121.2643843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1EbUtRTEkwZFVCd1Fac09nVXpUTUZMeVQwWEJhT1BBZ1BmaHpVWDJRZVNtcTBOLXRteTRNWllxSy14aG80VDNHMUNEUXBIaUtXd0JUVW9BOHZnSW9rcGNJYmdGZnFxRDk0WWlkTU1RdXhkQQ?oc=5",
-        "headline": "'장 마감 후 장외에서 무슨 일이'…장기물 종가 둘러싸고 채권시장 왈가왈부",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/02 09:53",
-        "published_ts": 1790902430.0,
-        "tag": null,
-        "first_seen": 1790903723.028948
       }
     ],
     "perpetual": [
@@ -1850,6 +1850,16 @@
         "first_seen": 1790997328.7372856
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd3hnV0dZMzJ5TUJZd3FJbW9yZHd2RHdQZkt0RXI0N3ROWjhBQ0Rkd2tmdHl3S2ZGd3VOZE1aZm9TMlh2b1ZGTlBQTjNNZW9Ed3FlcE93LWlqX09nb0hXLVduWWQ0WWVNZTZ2c3FjbHNLTk4xaHZBejVXLW5QMVNlVmpoNmxpM2FHQm9RMXhfRWZOMm1sRVYyTV9xUTAxM3ZHeEI4WkdpMnhVMkViUy1uX3lBcnZfcXR6OFFMbWFhYXM4UQ?oc=5",
+        "headline": "Roubini warns debt and oil threaten systemic crash",
+        "summary": "",
+        "source": "Bankingnews",
+        "published": "10/03 05:24",
+        "published_ts": 1790972694.0,
+        "tag": "Strategist",
+        "first_seen": 1791054921.5903504
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSHNZQUtzTmwzZFdfQ2ZheFJjZ1pJWktsNTdqM3Z0MFZBWUFMMEd0eEc4YzU5MlRkRkYwclF4VnV4STctMVNOWkZfeF9zeldHMm9JZ1pLYVdFbV9DelVOYW9HMG95ZXZmOW4taHZ1N1pDcWtuMVF0dHJ4UUNhd0JkMGV3cUFMQ09mZTRXakpaT2N0OFdDb3k4M0Uxd0RBd01fVFVIeWVTMDVPQQ?oc=5",
         "headline": "Bond market calling the shots now",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790956936.0,
         "tag": "Strategist",
         "first_seen": 1790958631.546403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXhGRHdYalZuTmFvZjdON3VlMmhDbFZYVThfQzUtQzRNUnYyTmlqU1RveFEzdThZNjhVWlJxRHRJS0d5OUljWFNweHdpV3ZsTkRxZ3BRWkpGa1pDcDk1MDgxWGJyYURvVm0yUjdPWURoMTlHSTN1blNHV0wtUDU5X0wwUVNWZw?oc=5",
-        "headline": "Five French market hot spots on investors’ radars",
-        "summary": "",
-        "source": "KELO-AM",
-        "published": "10/03 00:46",
-        "published_ts": 1790955998.0,
-        "tag": "Global",
-        "first_seen": 1791053130.902664
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 04:08:18",
+  "updated_at": "2026-10-04 04:15:46",
   "yields": [
     {
       "label": "3년",
