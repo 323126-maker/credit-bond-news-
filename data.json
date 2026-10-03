@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qYmlkUDB6dlE3YzltOXVXTGQydk9pbW9OYWw2bnlZYURCYUc3andBV3ZVVTVSV0hfUGJLRUxvNFF0WXpNWDNLRVFzYzZZdjJhbGlURURDSTI4MVFFQUo4WtIBYEFVX3lxTE1qYmlkUDB6dlE3YzltOXVXTGQydk9pbW9OYWw2bnlZYURCYUc3andBV3ZVVTVSV0hfUGJLRUxvNFF0WXpNWDNLRVFzYzZZdjJhbGlURURDSTI4MVFFQUo4Wg?oc=5",
+        "headline": "李정부 2년차 국감 개막…'민생 우선' vs '실정 검증' 충돌예고",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/04 07:00",
+        "published_ts": 1791064802.0,
+        "tag": null,
+        "first_seen": 1791069358.4731271
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9UOG5lZXhtRGV6ejJXVWJ6eGNhRWFwOGxGVlhydWtyQ1BsT2cySnhsY1pOSUNwWVE5SkdyV1ZUZGpJYk90ODJfY0JIS3YwdV9scGJ1TjN6bXdIckZfbDlpY01BYnZBWkdZSnBLag?oc=5",
         "headline": "북한, 동해상 미상 발사체 발사.. 이재명 대통령 국군의날 발언 겨냥했나 > 뉴스",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790646097.0,
         "tag": null,
         "first_seen": 1790653522.9542515
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBHTGVvN3BIblJaRm9lYk0wY3MwczZEc0dXOHVWWXFvd084Zkxfb2dzTU1Kc2hBdWVxZEtzZTNQWnRCT2g3b0Y0TXdIcFEtNFdnQ19GZ0FxRXdoUdIBWkFVX3lxTFBHTGVvN3BIblJaRm9lYk0wY3MwczZEc0dXOHVWWXFvd084Zkxfb2dzTU1Kc2hBdWVxZEtzZTNQWnRCT2g3b0Y0TXdIcFEtNFdnQ19GZ0FxRXdoUQ?oc=5",
-        "headline": "이형일, 취임 후 첫 국무회의서 \"양극화 해결 선봉 서겠다\"",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/29 10:40",
-        "published_ts": 1790646053.0,
-        "tag": null,
-        "first_seen": 1790650837.189106
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 08:00:57",
+  "updated_at": "2026-10-04 08:16:27",
   "yields": [
     {
       "label": "3년",
