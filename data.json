@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JNEZiOVM5WnZpQzFNRUNja1drd1FzRkJQbHBsa2FfM1BfaEN3OEZOVFZKbEkyNk83Umh5UmJkcFhqMW9vN0xtSzBiZldXa0NoZUR5dXdMbWRrSVU2U1RMenlaSDNKOEhPN1lLWGZPQk1tS3pnOFE?oc=5",
+        "headline": "U.S. Treasury Secretary Downplays Bond Market Pressure, Says Rising Yields Are a Global Trend, Not Unique to America",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "10/04 12:25",
+        "published_ts": 1791084300.0,
+        "tag": "JGB",
+        "first_seen": 1791085525.4976745
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVjhEQ3pmSHJTOE5UWTlVUlNPendEZDIzcmdGWWNEcnY4TkFCODBudVByaThtVF9URjlrbW5oMi1zUVRaV2lFQmZ1U09pVXJFV3NRNnVPR3hUOEU2OWF3RWRjUXBiVXRTTWtRUV9aTUk0S3ZXS2NGQkhFSGM1STJQT1VCZHdoUUZFQk5CdjlHb0RSSHBEaHNSWg?oc=5",
         "headline": "Kevin Warsh Was Confirmed as Fed Chair in the Most Divisive Vote in Federal Reserve History, 54-45. Here's Why That Split Still Matters Now That He's Raised Rates for the First Time Since 2023.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1790974733.0,
         "tag": "Fed",
         "first_seen": 1790978433.2307785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvaExwNDA1OHIzak9kQmRvaWR1bUdqamk3T1RvWGJJQVYzTlk1NGt3akdHRVRjejBmeFd3NW00MTl1TlA1bEl3bDNaSUdrSlp1OHI0Qkg4VjgxMVNtY2oyS3QwNmpmS1dvaGRqVnhkTjY?oc=5",
-        "headline": "Stock Market Rallies on Friday, Oct. 2, 2026",
-        "summary": "",
-        "source": "stl.news",
-        "published": "10/03 05:43",
-        "published_ts": 1790973833.0,
-        "tag": "Fed",
-        "first_seen": 1790973921.5269337
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 12:38:06",
+  "updated_at": "2026-10-04 12:45:48",
   "yields": [
     {
       "label": "3년",
