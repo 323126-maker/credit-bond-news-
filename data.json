@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aNnlGZWtIeExoRVBIbGs5cDlLRGl3alhYWFRHQXBSak9GRDJvMHVCVy1qSEtyZlU5RzVlclVOazNVMkcwempyZUxUV08yRDdlMTZsOA?oc=5",
+        "headline": "Hassett Says Powell Should Leave Fed Board as HQ Renovation Dispute Reignites",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "10/05 07:13",
+        "published_ts": 1791152014.0,
+        "tag": "Fed",
+        "first_seen": 1791153027.9109864
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdEJMY0F3QjE3UGl5Q2xwcVJjT1VGZk1JSlFHbDBBdjljQlhyVFczMzJaMkMyZUhJd0lfQ3hXY3BhR2RIZEd2QkgwdWdZSU8zVUs4czEtdTNhMXVqUlMzYmlFd29hMjFTeVZ5THJjc1RmYW03eUxuTXJmVnY1ZVJIM3NuMUlaQkJ0bl9WYzh3?oc=5",
         "headline": "Bond market volatility and equity resilience defined last week, Mohamed A. El-Erian notes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791075227.0,
         "tag": "Fed",
         "first_seen": 1791075634.3393521
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pUXBiSHR3TVZpSHBiYmJ5V0c1aG1IWE43RUxRSGFqeEtqVjF2R05NTExoMldJLUQ5MGZCU2EyTHB3dzNVdVZoeVJtalM2RUcxQ0w2cWVR?oc=5",
-        "headline": "주간 금시세(금값) 전망... 월가 분석가들이 진단한 이번 주 금가격 전망이 심상치 않다",
-        "summary": "",
-        "source": "위키트리",
-        "published": "10/04 09:34",
-        "published_ts": 1791074040.0,
-        "tag": "JGB",
-        "first_seen": 1791074720.409131
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 07:15:46",
+  "updated_at": "2026-10-05 07:30:50",
   "yields": [
     {
       "label": "3년",
