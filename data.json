@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE52bVlpeWY1ZU80YzQwZDF1d1d3alNtVE14azZwV1FOR3pDcmJrd0NaaUJpWFZBM3lhdm8yaDNuLU5NQ00?oc=5",
+        "headline": "“경착륙 공포에서 구조적 침체로”… 부동산 시장의 경고와 실물경제의 그늘",
+        "summary": "",
+        "source": "대한청년일보",
+        "published": "10/05 08:10",
+        "published_ts": 1791155449.0,
+        "tag": null,
+        "first_seen": 1791155721.9473135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POTNuQVBXdXNnS0xTak5xMnhlRHEwMzRsVjR6VGl5elpEem9RbXdQeFdtUy12QWN6M19pajZtZkh0MHBueGYtTWsxbHVhRzA?oc=5",
         "headline": "이번주 크레딧 2조원 발행…파라다이스 수요예측도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790922425.0,
         "tag": null,
         "first_seen": 1791090920.8381147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoZ2t4djVsSF9OQlI2Szd6UGE0RVlRQl9JUDZVRGpwYmdfUWJ0eUthZUFxU3JwcUpUTG9PSV9wdWlvZmtxbmRJLUJyejVOQzhHamRWNkFnYw?oc=5",
-        "headline": "코스닥 중심 IPO 회복세…회사채 발행은 40% 줄어 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "10/02 15:17",
-        "published_ts": 1790921858.0,
-        "tag": null,
-        "first_seen": 1790973028.4610894
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ib3hPTjdrbTlmNTEwSGlqQVlVSl9KekIzX05ET0kxQWlYZDZMUEpWczlYRS1uQUN6RHBpUVB4SWdKTldZbmZ3VERmRnlaaTV4emRVWHk0bnZxUTFZaUpYLdIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
+        "headline": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/05 08:00",
+        "published_ts": 1791154800.0,
+        "tag": null,
+        "first_seen": 1791155721.9473135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBpNEhXekJWTXlyOVFJcnFaM2h1clg4UEY4LXNxWG9oUXhSYVZzeTJCYkpfaU5wcjBTMml0Q201bjlKcXhkM2FndC1IYTVPaE9uZ3ZnamNTSG5VTW9vaThOa0NJb1NNVTM3RUE?oc=5",
         "headline": "고금리에 주식보다 채권 매력 '부각'···채권 ETF 투자수요 확대",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790824201.0,
         "tag": null,
         "first_seen": 1791074720.409131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBrVUNNR3dLaEFOdXZNVnFDN3FrdG5fcnVDcmRPTi1VbDU0aVRVQ3F3aHNQbC14eFlOcW5QTnFPX3cxd0dMUHNaTG5vUQ?oc=5",
-        "headline": "금리 상승에 금값 약세…한국은행, 12월 금 1톤 매입 추진 : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "10/01 11:43",
-        "published_ts": 1790822580.0,
-        "tag": null,
-        "first_seen": 1791021631.708493
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 08:00:56",
+  "updated_at": "2026-10-05 08:15:47",
   "yields": [
     {
       "label": "3년",
