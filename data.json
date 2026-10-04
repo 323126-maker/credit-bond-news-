@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POTNuQVBXdXNnS0xTak5xMnhlRHEwMzRsVjR6VGl5elpEem9RbXdQeFdtUy12QWN6M19pajZtZkh0MHBueGYtTWsxbHVhRzA?oc=5",
+        "headline": "이번주 크레딧 2조원 발행…파라다이스 수요예측도",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/05 06:26",
+        "published_ts": 1791149218.0,
+        "tag": null,
+        "first_seen": 1791150323.001154
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMWQwcVh1T0J1WXhzc2N4T2NrQVJNY0dCeUU2ekthTDQtd2d1aGltbGF2TXdPSm02ZzlSOXA3ZXE3ZGdiVnl2UFdyakwxdG85OU16YzRyaDlNclpVNU5VSVFacGpCTzFzSDZxb2pOb01BOGpReGFyX1A2Q0hrWVlHc0QzRzlIa0tuMkpBNXRycGpBdWZVYnVCcm9IOHRTQ004SUJnd01lSkxwZ3lOTkRUMTg3dXBCaGExNU1KbDRmUnR2N05sMjJmSjhFcENUQ2Nv?oc=5",
         "headline": "[뉴욕증시 3일] 중동긴장 재고조에 약세 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790921858.0,
         "tag": null,
         "first_seen": 1790973028.4610894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9BZTVLVEZySGFIdnp1enpDQy02b3ZPWGt2ZWpPb1pidWNxVlFBWVk3NW9YcHZzS2d3Xzc0eTY5NC1aMEFEQklzUVdkdmhDQi1DOW52Wm5HM1lpNDZ1Zkg1SnFmWTd2TkJQaTZPQklGX0E?oc=5",
-        "headline": "\"美 채권시장 3~4회 금리인상 반영 과도…오버킬 위험 초래\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/02 14:56",
-        "published_ts": 1790920563.0,
-        "tag": null,
-        "first_seen": 1790921732.132287
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 06:30:53",
+  "updated_at": "2026-10-05 06:45:45",
   "yields": [
     {
       "label": "3년",
