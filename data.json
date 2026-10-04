@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1wRnZ5a0twODBDR01pcDJVdzBKQUdkREUyTGthOGZ2MmxGRTJXbFVERUlwWlRPbXA4cFNEMTUydEJBTnF6VXdScHZRYWZjRVVRelQ2RmQxcS1oZE5aX3FzWFRCaU1mSkNrZGk4WFFfMzJRTkN6cFHSAWZBVV95cUxNWjQ2bW9UTXpIeEl1bUpsM19Jc1hWUDBUdi1jMWszUTFnSVpBdjF0THF6blc5VkdHSHJ3ekxBMlZ1dDFfTDlIeWZ5NTluU2FnRllsWExYWHFpeU1JbVptWGdQSjRGWVE?oc=5",
+        "headline": "美, 금리인상 속도조절 관측에도… “韓 포함 금리 상승 시간문제”",
+        "summary": "",
+        "source": "동아일보",
+        "published": "10/05 01:40",
+        "published_ts": 1791132000.0,
+        "tag": "Fed",
+        "first_seen": 1791133234.0626745
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR2ozZ0ZPbHJCaWdjMlM3XzVGRGpPSHpINXdSMXljVmJLcFg4ZWRsOFhSUGZaeGdOYUlpN3NDeHJzQzBsa1NobVMxcHYxN2g2c3VUYmxPMkRoOU5rRDFfTWRSSzItdDZXWE1qZTJ1dnVqU1hmbEx4OHdNYm15dEtEM09FQVIzR29wN05JRXZLT3ZpREJYVDlnUlJLUmp3NFVvMFB0eEZjNlFVS2RmcjNyOGJZU1U5ZWtwd1JGYU9lMzJRaFFkSVJhMHFxTkFWSVZxM2ZlRk0xTlI?oc=5",
         "headline": "Hubbis Macro Corner: Higher Rates, Asia Bond Resilience and AI Infrastructure Finance Reshape Portfolio Positioning",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791044737.0,
         "tag": "Global",
         "first_seen": 1791057634.2435787
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0NBQi10V0QwbmdMazRmSFVhQnVZY1ZJQldPZVQ1SUVCOHhsMjJWdl9sYU5nUFA3Q1B1WmpiUzhPSkltVnNGUlQ2SnJ0VFpTazB0eEo0YlRXNkwtUFAtN2xxeDkxeE1MUS12WjI5TkVxc1VMZkFIUW1ET3FVbzNqWWYxaFlYTVltRDQ2YjhHR2pqNEpNekE?oc=5",
-        "headline": "게임 용어를 화면 위치와 연결하는 엔트리 네모 게임 입문 설명",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/04 01:07",
-        "published_ts": 1791043645.0,
-        "tag": "JGB",
-        "first_seen": 1791089125.0112824
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 01:46:20",
+  "updated_at": "2026-10-05 02:00:56",
   "yields": [
     {
       "label": "3년",
