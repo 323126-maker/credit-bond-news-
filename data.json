@@ -1278,6 +1278,16 @@
         "first_seen": 1791053130.902664
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBKd1ktMTRYbG44XzZoenloc0U2QzFFOW9HaXh6eU9vcWdZTGtwNDdzaHBtTW1yTEhWcThGU01uel9mS2pmWTZaTm5kR3daQmpuYmpONVJxakFnN01aQVczLUg3eVFycG1lWExhal80Q0NEN0tLREhFNQ?oc=5",
+        "headline": "게임 중 회전 잠금이 필요한지 보는 맥북 맞고 모바일 정보",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/02 12:39",
+        "published_ts": 1790912351.0,
+        "tag": null,
+        "first_seen": 1791079233.8599522
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE45Q3N4eHlXcFFSNTYtMFYycE9xVjJEcE1RRXpMNEZjNzdub3VISTl5dmEzTUl0Uzg4OGIzVTJ4ODNNX2JUYVNhY1FaWm15eW5Sa0UtMg?oc=5",
         "headline": "英 버넘 총리, ‘재정 위반 유죄’ 맨시티 구단주 지지 발언에 비판받아",
         "summary": "",
@@ -1346,6 +1356,16 @@
         "published_ts": 1790830918.0,
         "tag": null,
         "first_seen": 1790834436.5229094
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9JdHpBdVR5ZG5yUVZyVUlJQm9WVV9Lcm1rbzZ4aDRpV29SdlM2WGNLQ3l4S0pyVFZuR2xPbGM3bTF1Zzg4UW1obUZPeVY2SndZWnhJVHZYejRYREZUbGhXQkJxOUZzeXhQZTd6SDViOGrSAXBBVV95cUxPSXR6QXVUeWRuclFWclVJSUJvVlVfS3Jta282eGg0aVdvUnZTNlhjS0N5eEtKclRWbkdsT2xjN20xdWc4OFFtaG1GT3lWNkp3WVp4SVR2WHo0WERGVGxoV0JCcTlGc3l4UGU3ekg1Yjhq?oc=5",
+        "headline": "[프로필]재정경제부 1차관에 권대영…\"경제·금융 전문가\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/01 13:44",
+        "published_ts": 1790829856.0,
+        "tag": null,
+        "first_seen": 1791079233.8599522
       },
       {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85R2hXdGpCb2VTT2RKX1psNkltNEE0U0pVYVlTS3RoTnpfRzhMZ1d5Q2NBUkh2WGR4eG9qMFN1UWpTRzhxMXBUUjl4QjNvU1RReGlzRjI5cklSSFZSbmVBTkxITDRiVjN2dElKUlNURTB1NnZTMmU2ZGVXbw?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1790648700.0,
         "tag": null,
         "first_seen": 1790649923.3373365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fQ0RWQ1VIcEJIZHREZG4tU2MtTFl4a3VsdnJOTFJyckNzMjYxQ3g4bUVjRk1EUjVvaVk1czFfbTdoWHExZi0yY0NvOXVCcFdhUnI3btIBWkFVX3lxTE96MkNpNmg5R1VOaHdEMUlkbERjcVhNZExlenBLamJPVmdYcFVCMWdTUjl2ZVRTM1I1VGdzTktCLTU3Yy1ZN0FWN3ZnOVdrcll6TEphbkVJTzg3dw?oc=5",
-        "headline": "이형일 \"국채금리 과도하게 오르면 긴급 바이백 즉시 시행\"",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/29 11:22",
-        "published_ts": 1790648521.0,
-        "tag": null,
-        "first_seen": 1790649027.7252483
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE16OXY1aEw1Y0d1ZTVGSFVLdEdpT3EzWWtlbzN1UnNWc2l6ZzF2WC1jU2RsSGwtUVZCZ0FpcjlqS2I1T2VVNmgwUGdjaw?oc=5",
-        "headline": "보고하는 이형일 부총리",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "09/29 10:55",
-        "published_ts": 1790646953.0,
-        "tag": null,
-        "first_seen": 1790653522.9542515
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 10:45:53",
+  "updated_at": "2026-10-04 11:01:04",
   "yields": [
     {
       "label": "3년",
