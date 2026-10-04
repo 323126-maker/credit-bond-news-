@@ -634,6 +634,16 @@
         "first_seen": 1790844323.013126
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBTNS1kQ1NLbFBsdTFOeEYybFlBa1ZnaElDNlUySE1HX3p5LVBZUFZUNEZUSVFLSHMzTWZBTkdkMkhTUWx5emtZQWRETTRtTWpzc2ZnSkl2ZjA4RjgweHBBUmtqcUk?oc=5",
+        "headline": "한화투자증권, 유증·신종자본증권으로 최대 9000억원 자본확충",
+        "summary": "",
+        "source": "매일일보",
+        "published": "10/01 15:15",
+        "published_ts": 1790835319.0,
+        "tag": null,
+        "first_seen": 1791092721.7656963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jM0dDZFVsNDY3TldYOS1HNUlZTDAxUkVfU3REWllybjg4NUFLMmkxUEh4SEhjUkV4QkJ2Vy1OMmU2YWwzOFlJcVo0dWtRbVFlX0E?oc=5",
         "headline": "하나증권, 국내 증권사 최초 달러화 표시 신종자본증권 발행…공모액 6배 주문 몰려",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790764255.0,
         "tag": null,
         "first_seen": 1790765126.641074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JX18tVnU2MWNBcnIwSk1JYVl2NndvbGxBNmM5QmJ3cVN5cU54WWk2dDZOa0dRU3RmTjRab2dWajRpV3FfTzVjenhaeVZxMzB3WFJ1NlMySjNJc0xHTVUtV3dlRGNwTTlkM01NdElyUG9SZw?oc=5",
-        "headline": "버크 앤드 허버트 파이낸셜, 1억 달러 규모 후순위채 발행 조건 확정",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "09/30 19:13",
-        "published_ts": 1790763183.0,
-        "tag": null,
-        "first_seen": 1790764229.3013024
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 14:30:51",
+  "updated_at": "2026-10-04 14:45:44",
   "yields": [
     {
       "label": "3년",
