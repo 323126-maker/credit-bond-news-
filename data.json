@@ -634,6 +634,16 @@
         "first_seen": 1791096323.9738843
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NUUlRNU5iWmVpVDY1dWg5NDNYMUN3Zk9sc2xxSG0yOWd1aU9jWHJ0VEI5S1Z5VmRTRGRjQWxwUmJkblBJVHQ0WXM3RHdnekNINENTbnkxbUZQakRxX2lKTUY4SjhKRk5DOExYOEE3V24?oc=5",
+        "headline": "하나증권, 증권사 첫 외화 신종자본증권…3억달러 자본 확충",
+        "summary": "",
+        "source": "코리아리포트",
+        "published": "10/01 20:47",
+        "published_ts": 1790855231.0,
+        "tag": null,
+        "first_seen": 1791111631.7913978
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DbWJOVUFZOE5kbFlHbmtDSXhZZERaVnhXanhnOHRvTzRnZ2hVQThySWtqMjN0UVlMT196OWVfRVJSRDFoVWZCQk5obHhrVkR1ZWVpS2xtbHBDRGRRMGhFeTBhRjZfM2laVGdj?oc=5",
         "headline": "JB금융, 이자 더 내고 자본 방어 선택…1000억 신종자본증권 발행",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790814036.0,
         "tag": null,
         "first_seen": 1790814628.9344847
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9femM5UHpKdDE3a3FIbTFnRjIxMGx3WUNqQjV1aFhvU2pYeGhfMllzRVZ1aHpjWGxRTy1QQmVUWnlNWEZfODh6M2NOSG9tdlVRSXlvRHI1cm8xaGxNUU1RaXJNZGZEbG43?oc=5",
-        "headline": "6배 몰린 글로벌 자금…하나증권, 증권사 첫 '달러 신종자본증권' 뚫었다",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "10/01 09:16",
-        "published_ts": 1790813767.0,
-        "tag": null,
-        "first_seen": 1790820922.233813
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5fRS13a0ttRm1fWkVjTmFRQ1VCcE9pU0EzZVdMYjhxQ0hPcmNjZVloRzlLRG5aZGpWUDhicUpzSUM5UEJrYVJ5V3BpU3ViOFlMWkVCM1FXZjFXUHFweVdvZHNNSHpwUXB5bnZUN1pfSi1mSk9SUzdLSWZQMA?oc=5",
+        "headline": "Who Dropped the Bonds? Interest Rates, Part II",
+        "summary": "",
+        "source": "Paul Krugman | Substack",
+        "published": "10/04 19:30",
+        "published_ts": 1791109857.0,
+        "tag": "Fed",
+        "first_seen": 1791111631.7913978
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmg3T2gzNVlyOFNZcnRGeWxOVWdyQmdmVVAxNTY2SkI0SGxtcWJpREhQTFh5a3pPTFpvd0ZoV0NUUUpJdUdyZE1UMnQySG14ejcxNFNXaVhBc2NmQUduay1Vd3VIMUhMcWYwYUxkVlV1SXlud3Jfbk15ZHo1dWRXeFFVLWc?oc=5",
         "headline": "글로벌 국채금리 급등…‘비싼 돈’의 시대",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/03 17:10",
         "published_ts": 1791015027.0,
         "tag": "Global",
-        "first_seen": 1791016227.7399905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3B4ZVhzclRZck50TTA1SVNVdEU2QlNoYlEwNXpHcEFIckM0eU9ObDBOaE1DLWUwckp4eFVnR3JiakYzUUZfbWJOSHRCbVFlajJNZGZDUWpZRGlLMGN5V3RyS3J1RDJFczFkTUZGOEVCak5iay1mYzlzaE5PSEptdFhrUzVveG1abHdENHZBTldPU1NudTF5eVJoNVdBOUpSbVA3ekZYZm80dFMyTWpUU1FR?oc=5",
-        "headline": "Kenya inflation rises to 6.8% as Treasury borrowing appetite strengthens – CBK",
-        "summary": "",
-        "source": "People Daily",
-        "published": "10/03 17:06",
-        "published_ts": 1791014790.0,
-        "tag": "Strategist",
         "first_seen": 1791016227.7399905
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 19:53:20",
+  "updated_at": "2026-10-04 20:00:55",
   "yields": [
     {
       "label": "3년",
