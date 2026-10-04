@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWVpoQ0Q5WjdxOXFNTzM2WG8wUjlFZEtHUm9EWnBkREN0OENwSUxwNHZJOUpWU201UnZ0MUN3WlUwdTlZTDI5VEc5TzJlLW1HeTdTQ09TYjhFNF9ObXhtTER1NGh4S0dGN2syODBocjY1SkZJUG9NbVZQWDlxNmVZUlB6ME0?oc=5",
+        "headline": "The Bond Market’s Tokyo Story",
+        "summary": "",
+        "source": "The Daily Upside",
+        "published": "10/04 23:00",
+        "published_ts": 1791122400.0,
+        "tag": "JGB",
+        "first_seen": 1791123322.3050823
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTUpGN1BWSkZqTDZYNjlLczVTb3hYTmhPcllGMGxfeTBCUUN4MUlwVDUtRzl5ZzVqbzJCeXcwMWVrdGw3aExDLXhhamZNN0lENzR2Y0MwWW5vX2hWZUJoYU05RHZWNmFmVnR0Nk1kS1NZZzY4eEdXa01yOVJGRDRBdlhjMnJHcHp3YTVWWFh3Y2c4RlZZb2lJdk9vcTlBVmpDTW9OVw?oc=5",
         "headline": "Meltdown Income: 2 Covered Call ETFs Yielding Up To 13%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791028801.0,
         "tag": "Strategist",
         "first_seen": 1791031522.7142804
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1DRnY2RVgydGx3OTAtQlRwZTFHVGJzbmdUMG9VbnFPLXBwdzdEbTluRUhmRkQ5bVZTdVZCQjBqZW5tb2t4N1BQOXhpLWhNNWpocFlfYW91a3l5WDBqT09JbkhPSGR3S0FST3l2UjNlejlXNy11Snc?oc=5",
-        "headline": "Elon Musk: America is ‘1,000% going to go bankrupt’ and ‘fail as a country’ — but he says 1 powerful force can save us",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "10/03 20:35",
-        "published_ts": 1791027300.0,
-        "tag": "Strategist",
-        "first_seen": 1791028836.23861
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 23:01:06",
+  "updated_at": "2026-10-04 23:15:46",
   "yields": [
     {
       "label": "3년",
