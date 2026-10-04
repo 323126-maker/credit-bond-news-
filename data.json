@@ -604,6 +604,16 @@
         "first_seen": 1790885723.354023
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9VNWFWTk9rTk1JNzFaM08zakdreHlWaGw3WkNiTGxpUm9HV19hckZkXzA1MGVLSnEtbXNFc0RGaEdaelhhc25YU3pQNDRTbFJ0c3VUOE1ZVmQ5cmxvMFJWM0dJN09KQQ?oc=5",
+        "headline": "하나증권, 국내 증권사 최초 외화 조달 새시대 열다",
+        "summary": "",
+        "source": "이슈투데이",
+        "published": "10/01 20:52",
+        "published_ts": 1790855572.0,
+        "tag": null,
+        "first_seen": 1791096323.9738843
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1DbWJOVUFZOE5kbFlHbmtDSXhZZERaVnhXanhnOHRvTzRnZ2hVQThySWtqMjN0UVlMT196OWVfRVJSRDFoVWZCQk5obHhrVkR1ZWVpS2xtbHBDRGRRMGhFeTBhRjZfM2laVGdj?oc=5",
         "headline": "JB금융, 이자 더 내고 자본 방어 선택…1000억 신종자본증권 발행",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1790812608.0,
         "tag": null,
         "first_seen": 1790813725.2982054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XaW00Si14M2l2cUNrOURTOTZUVm9ZOTJzVmttSmVnOVBhdEZzRHRYNUVSTTdMUGxvejZMVTBSdWdqRXVGbmlIYks4Vk15WEkzTGhIbC13aFNEOW5pVXZwZ0ltMERod3BrYy0tN3hQUmVGbFE2OVJmTGsxZzg?oc=5",
-        "headline": "[DCM] JB금융, 동종사 웃도는 금리 제시로 신종자본 1000억 발행",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "09/30 19:46",
-        "published_ts": 1790765210.0,
-        "tag": null,
-        "first_seen": 1790766036.641511
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-04 15:30:49",
+  "updated_at": "2026-10-04 15:45:55",
   "yields": [
     {
       "label": "3년",
