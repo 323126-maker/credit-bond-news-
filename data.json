@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBFdk9IWThuRmFHQk5mYy1FYVVJdF95NUtnWlB3d0hPTEFqRkVLYlMxUVdlU2JfVTlrc0NZSVd6Ti1WOG92Q1c0dUZDMER2SWc?oc=5",
+        "headline": "“영끌했는데 매달 이자 어쩌죠”...치솟는 주담대 금리",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/05 15:24",
+        "published_ts": 1791181440.0,
+        "tag": null,
+        "first_seen": 1791182726.0505168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5FUWl3SXp1dWxqaC0xT0NUcDVsSDg1X2t2bGRaR2EzWUc5MmZzeUQyUVRVdWJQc1E1UUVORjZ0UDFjYmtmdXR5SnZnV2hwd20tamRiNnhnUDRxaFBCYW12M0x6VmxNdFJLekFKY3VhdEI?oc=5",
         "headline": "[채권-주간] 정부發 훈풍 이어질까…글로벌 채권시장 주목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790843888.0,
         "tag": null,
         "first_seen": 1790845237.173907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAteHJIOVotSjNZU0c0d1NkWGw5MkFtbzRjVUEyT1RfTUVLeURTQXF4aGZXZ09HV3Z2UEtUd3NzdWd5X2pVUzduSFM0dkt0MnFVenfSAVNBVV95cUxPclZaTGFhNlF2VWE2dHRDdUZUZmdnNXR0RlJXZDhfaDg0akk3SXEtMW1tcTdZWDVpUEtvTENKRVpCX1hQNkhwRXUtUU1VQlJwNF9vUQ?oc=5",
-        "headline": "[종합] 반도체 초과세수에 10월 국고채 발행 5조 축소…3.5조 바이백",
-        "summary": "",
-        "source": "sedaily.com",
-        "published": "10/01 17:04",
-        "published_ts": 1790841882.0,
-        "tag": null,
-        "first_seen": 1790888436.9585152
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 15:38:25",
+  "updated_at": "2026-10-05 15:45:46",
   "yields": [
     {
       "label": "3년",
