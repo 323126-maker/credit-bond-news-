@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObXMyLXJsRFdTdWpQaklKSHA2T29nQ09lcDRZeGVaeHMtbWNyRmFCejdCdXItdzJPekNnUWFhWDYtM3k1QWUzZE1uaHdMSXVGSVBIQlpLU2FxNmM1ZmN1VkF5QjZhZ010cTZtTERuWTdFQ25NZXhyRTRVT0JtZTl2N3B2Yw?oc=5",
+        "headline": "Japan Stocks Meet a Bond-Yield Reality Check",
+        "summary": "",
+        "source": "NAI500",
+        "published": "10/05 18:24",
+        "published_ts": 1791192246.0,
+        "tag": "JGB",
+        "first_seen": 1791192522.614086
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWQlFnNk5LMFlvWGRWeWVfUmVpSWozZnNtZWw4OExRZEFsNlFqSVlwdGVsX3Zacmg5aHBBWHdrZmFzUzNvODkyNUViQ01oeXd5eDV6RnpEczF5UQ?oc=5",
+        "headline": "佛 재정 위기 우려에 유로화 17개월 만에 최저… 엔화는 상승세",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "10/05 18:23",
+        "published_ts": 1791192222.0,
+        "tag": "JGB",
+        "first_seen": 1791192522.614086
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU55eHFQV1k4UnNVdWdOZ28zV2o5NmNZeXdIR2gzLVdoN0hPU2JYcWxjSzBpTlZubmF4OVVoajBZU1F4MTBSUGoxSVJ3U2lPWGlUS3NSQjB5eWNrZ2RobnlCYmhOc3d5VHJUUHQ0WVBodGlVMkdITi1ZcWxDYllLVHkwSTlBVEpWYVRjaTBJSkFXdjdiM3ZidlpIalJmLWlCYndKbHZWYS1seXVidWtkT0h0bkNiOFE?oc=5",
         "headline": "FX weekly forecast: Euro selloff accelerates amid mounting French debt crisis",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791164339.0,
         "tag": "JGB",
         "first_seen": 1791178230.4674294
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHhmdGR0aE40NjRWOFIxYU1YS1g1RDVsWG5CY3QtOV85bW0xQU95ZVV4Ujc3Y2dtVEtVb0daV211a282b0d2T2lXMC1tMUFMUThQSmxBWWphd0R5TkV2WE85MW0xVUhUd09hVFVKMzJqb2hya20xSnJOdm1CTGx0a1I4WEViUHVoLXc?oc=5",
-        "headline": "Stocks upbeat, dollar wobbles as Fed hike bets recede",
-        "summary": "",
-        "source": "myrtlebeachonline.com",
-        "published": "10/05 10:22",
-        "published_ts": 1791163320.0,
-        "tag": "Fed",
-        "first_seen": 1791166523.761562
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJkbGU3aC1selNUT1lnTzhlUW1uZVVVcTVkSDNMTXVadUZEVHVuM1IzRXZtVjNKbTdnRC1LRVNrcTQ5aHhZUHNya0tseE5DbWN0N01pZnNWSHh6UFhhT0NGN2FqYWhpZFJmcUdmYW1sRndzV0JZaW9CbDBnM2pUQ2ZoYUNrenQwVnNLTUJMZGFzMkV1LW1qSXg2OEZlUk9JckllMEE5c0hac3NYR3VhWnljaTR3cU1vd0NISm9EYUtMeE9iQmZ3WERR?oc=5",
-        "headline": "Asian Equities Mostly Rise as Reduced Fed Rate-Hike Prospects Bolster Risk Appetite",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/05 10:11",
-        "published_ts": 1791162695.0,
-        "tag": "JGB",
-        "first_seen": 1791175522.0667505
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 18:15:48",
+  "updated_at": "2026-10-05 18:29:07",
   "yields": [
     {
       "label": "3년",
