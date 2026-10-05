@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1kNGo1VS1PSlRzUGFPRlFZUWVQSEpTbkkzbUZWWG92QWNDaHlWdEdMS0oyLWdSNmhzcDJpN29QWDVKNjFxVVdTS1ZVTW95RlFlT2hvNmNXTDZSSWMyZ0RoY1liVHdsLTdWSFd2empVUHAxLVE?oc=5",
+        "headline": "허드슨 퍼시픽, 최대 2억달러 규모 선순위 채권 현금 공개매수 개시",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/05 21:25",
+        "published_ts": 1791203114.0,
+        "tag": null,
+        "first_seen": 1791203429.455573
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9jd1hzMHhZMEV4Z2J5V0lySVJ4Q3NGSC1QQVQ3NkRoNC1sZHdlN2kwZ3B1RFJqSjM0Rm5zWllnS05mcGxZdEQ5SVRWSmw?oc=5",
         "headline": "플룸, 피델리티 채권 ETF 기반 온체인 상품 ‘nBND’ 공개",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791056095.0,
         "tag": null,
         "first_seen": 1791102629.2199576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSHhkVW1sRmR6VjA1bjdoRDVtWFRkT0tnTXVIZjVobFFUdnU3WEJkSndzeTNsOWx4RVlPNFZZR2luamYyZ0d4N1lQVm1hNHVGTk9GZ3VvcHhtS0lOX2txUjc0MXk3Y05vdHdIVE14cFExdUw1bV9qVHZOQk93cFlJeEpMc0EwOVJ4?oc=5",
-        "headline": "규제 족쇄 풀자 국채시장으로 돌아온 134조원… 월가 금맥 다시 뚫렸다",
-        "summary": "",
-        "source": "g-enews.com",
-        "published": "10/04 03:55",
-        "published_ts": 1791053700.0,
-        "tag": null,
-        "first_seen": 1791054921.5903504
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 21:15:48",
+  "updated_at": "2026-10-05 21:30:51",
   "yields": [
     {
       "label": "3년",
