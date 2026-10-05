@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wUEpCNXB4RXpUdTNOOWpNRFoxWUJFRzN1UGdNcm9BeVVFX2JZWFFHdkRyTW5YdERXY1lScUNFMWh1b2pWX3IxSlpKeE1HbklLcmoxaDlyaHBNM0FvTGtkVmRrSWlqRC0wckZv?oc=5",
+        "headline": "여전채 금리 상승에 조달 부담↑…'체력' 격차 커진다",
+        "summary": "",
+        "source": "비즈워치",
+        "published": "10/06 08:30",
+        "published_ts": 1791243003.0,
+        "tag": null,
+        "first_seen": 1791243927.1854665
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kUElXbFlTRnVBdWxSTnBiNmF2WFRJc3hQcGlubEVtLXBiOHd3Z3JrWk51eFYtSVNpa3dEb01PX2ZvS3hKc1U2SVlRdDdndk44LUlpZlFscjlhQy1LWUdtRGt3Q0FfdjRid29tNDVobktfVDJHcElhZGln?oc=5",
+        "headline": "베트남은 국가 신용등급 향상을 위해 노력하고 있다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/06 08:24",
+        "published_ts": 1791242646.0,
+        "tag": null,
+        "first_seen": 1791243927.1854665
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE56b25SVVoxZVpmc1k1WUpmTXo3Yk43Q05QWmtMZ2xWRGkzbzE2bjRWaU5tOVZlNUxMRE9ySGY5M1N3allGbG1qdTBHTk5wcnFyOThvVXp0dDg4b0xjQk05M0VsWjAxeWp0UHR4QnlTRkk?oc=5",
         "headline": "스트래티지, 비트코인 334개 추가 매입해 84만8000개 돌파… 3분기 평가익 209억달러",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1791162753.0,
         "tag": null,
         "first_seen": 1791204323.9598684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVklmQkw5REZkYlpzOFNwQ1lTWnFlc3M0c2xFbk5VbDR4ME9oV2lqckhBOG9vWWJRQ2FzRDlvc0hGbmEtYXMzbG1SMURqVVlyWlNZbHpJVS1wMXV5UHExVWtkUjBfNlpWYzNENlBJOGNzdXFoVG02bW9TNjRMQmlyTg?oc=5",
-        "headline": "美 국채·주식 아슬아슬한 ‘디커플링’…증시 떠받치는 AI",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "10/05 10:04",
-        "published_ts": 1791162280.0,
-        "tag": null,
-        "first_seen": 1791189028.5409749
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE55ZThfT2dTejBMMUVVN3JOczVabVF4d0FUc1lpQV82bzEwUTE1V25pa0g0NnlVM2Y2ajdLVGNzbGVNaS1HT1JEM05qUkxsV0dBWFUtNWc2QlFPTU9kQ0pyd09PVUxodXpfdGZkXw?oc=5",
-        "headline": "하나은행, 은행채 7000억 발행… 이번주 크레딧물 2조511억원",
-        "summary": "",
-        "source": "ER 이코노믹리뷰",
-        "published": "10/05 10:03",
-        "published_ts": 1791162209.0,
-        "tag": null,
-        "first_seen": 1791162921.727163
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aUg5YUlRdjFJOHNXOTRhWXRmV0hUb3lwelQwbnRJckRwRENnTDhPQnRkQjVkVTFTZC1YNVk2TTRXcWI5M1F1TzJ0b21Mekh1aUJSTU1POXN6b3pJQTZhUWgwZ0ZseXJHMnFGOUtsX2xOVTQtTUVTTmVfQUowUUE?oc=5",
+        "headline": "‘Bond King’ issues stunning warning to stock market investors",
+        "summary": "",
+        "source": "thestreet.com",
+        "published": "10/06 08:33",
+        "published_ts": 1791243180.0,
+        "tag": "Strategist",
+        "first_seen": 1791243927.1854665
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1FU3RITjFxYkN0VnlTLWx6bkE2bWg2MzVJN2JiQXFCRTNQTW1VMnpDZVhIWlpDc1NUUnBabWt2UlVUdWQyQlVXSl9waHJ4SHNlVmdmbklFSGstV2vSAWBBVV95cUxNZEZCX25XanBTZG92MmxHaHdVbGNGN2NBVHhGTXVFRFVWbUh2NzdSaXBKazR5UjUwYmo1WFdTSlNvUEhEZjI4dFZxdEtTQXJZU2FLQzJrLUZERzUwUnhnVmI?oc=5",
         "headline": "[머니톡스] 잃어버린 30년…경제학 메커니즘이 작동하지 않았다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791213431.0,
         "tag": "JGB",
         "first_seen": 1791217830.974145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOUG5LcmVibzRsdHJJZEhUUGJPNVM2d0N3TFlXVGltdEVzUW1VM3ZHMDVpcnVVVnI3QllNNkdvUVZQdUtQRE5aMWVEY2x1SjU3TFlULXN5ZEl2UWJFanZ6VVNPejNadkRzSEF6dTFRX2lpVm03WmEwM040cUhEbTEtSE52OXhDSG1fa0pSM3NDU0NqSGdtWUJNRURDaFYwZlcxTzk2Zm1QU0U0SVMzdE00elRR?oc=5",
-        "headline": "Recalibrating Rates, Not Tightening Policy - Northern Trust - Commentaries",
-        "summary": "",
-        "source": "advisorperspectives.com",
-        "published": "10/06 00:16",
-        "published_ts": 1791213395.0,
-        "tag": "Global",
-        "first_seen": 1791231944.9610631
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 08:31:00",
+  "updated_at": "2026-10-06 08:45:51",
   "yields": [
     {
       "label": "3년",
