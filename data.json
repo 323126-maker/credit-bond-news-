@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSThtRk04RU5NR0x4b2RzbWFNVUFSLXRpU3FTY1VSVFlIa2E3NG1JSm1hVE5mN2JIY1oxcjFfYWxnSVlEaEVWS1RMdWlLam1uaWFyNnpvSWJVRmVRWVJrSXJ2cUxuaVYxLUxHZUZQNHVVLUNtbWo2MmhfS3RJVU5CX01aZXlXZUdUbUNQbnpWYWk?oc=5",
+        "headline": "Uptober and the Midterm Elections",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "10/05 13:42",
+        "published_ts": 1791175334.0,
+        "tag": "Fed",
+        "first_seen": 1791175522.0667505
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5aQjJad0l4U2UyUUY5YjREVGxUYk9QYjBDclBXcU16SnNoSnBsUEhsZkgycTVKcThuY0dMN2FvdC1wZTRmYm8yZkltclYwWDhWUGhLdmhqdlNXaThnR2lSaWs0a2dxYU5qWjNRVExTZWk4NkhTLXc?oc=5",
         "headline": "Hassett Urges Powell to Exit Fed Board, Calling Extended Stay Unprecedented",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1791163320.0,
         "tag": "Fed",
         "first_seen": 1791166523.761562
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYWJkbGU3aC1selNUT1lnTzhlUW1uZVVVcTVkSDNMTXVadUZEVHVuM1IzRXZtVjNKbTdnRC1LRVNrcTQ5aHhZUHNya0tseE5DbWN0N01pZnNWSHh6UFhhT0NGN2FqYWhpZFJmcUdmYW1sRndzV0JZaW9CbDBnM2pUQ2ZoYUNrenQwVnNLTUJMZGFzMkV1LW1qSXg2OEZlUk9JckllMEE5c0hac3NYR3VhWnljaTR3cU1vd0NISm9EYUtMeE9iQmZ3WERR?oc=5",
+        "headline": "Asian Equities Mostly Rise as Reduced Fed Rate-Hike Prospects Bolster Risk Appetite",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/05 10:11",
+        "published_ts": 1791162695.0,
+        "tag": "JGB",
+        "first_seen": 1791175522.0667505
       },
       {
         "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNMFNUaG5fTkRfSHlyam11ZzZJalZQLU96ZzJyeUdTMXA1WS1rUVNCWlpSaGNvLWJWeGFXclFtNlhqMGF6VEZaQkVBUGhQU1VJUXBLMUNmS29HTTZ5MWR5aF93Vmp5TmVnNnczcVY5NGhPWjVvTTczMXE4N3k3M2haOURzWnJ5Y2ZCdXdUdzl4bFIyLUxsZEJpQzZfQmY0ZktyOHpvNkpyZ2UtX3BxSFlvcTFTTERKOE1aSGg4cUFzdjVyNXVsNFNjaXpTUkhiNks2d09hZ0psVWgxVG9xcFRoaWNaNTVYV2EtNERSbGk3UzJvMGZ5ci11R1J0Njg4R0o3SU5Vak13OHpyQnhpQlJKMDJRanhtZ3JoUE0tTFpFR1Q?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791135240.0,
         "tag": "Strategist",
         "first_seen": 1791135915.088281
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfam8xYmd3RGNjWTB5M1ZpVHJtejFaUTV6WmVTdDJvTkoxVjFBZW1nV2lObVl6c1JqTVFyY2N3YUNmMzVsVFdLSWhIV3ZGdEwyU0ZObFBTNW1PR1p5cko1RWt4VEt2TG5vTEIyb0U2RjJWdWpxZmc?oc=5",
-        "headline": "US Treasury Secretary Scott Bessent Admits He Can't Control the Bond Market and Bitcoin Is Listening",
-        "summary": "",
-        "source": "CCN.com",
-        "published": "10/05 02:32",
-        "published_ts": 1791135177.0,
-        "tag": "Strategist",
-        "first_seen": 1791169236.8349648
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUG1FMmp5UzdaRGZGaWg4T3BZV0FBVUs0aWdrOU9YNV9YTEFwcFQxLXlCcnNGV0dmZnpieDdGZUxodUJVckpzaERhVHlKZVpPVk13VTQ2QzJkWkNmYTBNb2p4cmJwZ0ZGV0xyMndNaHlCalZ5aFZvb2VNQXZFZ0FYNA?oc=5",
-        "headline": "'연준 선제안내 없애면 금리 올라갈 것'…전문가들 경고",
-        "summary": "",
-        "source": "미주조선일보",
-        "published": "10/05 02:27",
-        "published_ts": 1791134876.0,
-        "tag": "Fed",
-        "first_seen": 1791142227.5520637
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 13:30:49",
+  "updated_at": "2026-10-05 13:45:47",
   "yields": [
     {
       "label": "3년",
