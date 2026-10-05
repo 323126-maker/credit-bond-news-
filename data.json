@@ -22,6 +22,16 @@
         "first_seen": 1791155721.9473135
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HREFDc1JCM1JHeGNKM0czWHpFVGtmbkJtTVF1TllkRkRpdVktTWp5ZXBWOWVBdEJINFUyZEhJSmhSWFNmd1lXbFRZWWhJWWxfXzVCVGdVREF6WTVtN3hObtIBYEFVX3lxTE5HREFDc1JCM1JHeGNKM0czWHpFVGtmbkJtTVF1TllkRkRpdVktTWp5ZXBWOWVBdEJINFUyZEhJSmhSWFNmd1lXbFRZWWhJWWxfXzVCVGdVREF6WTVtN3hObg?oc=5",
+        "headline": "대우건설 2년 7개월 만에 'P-CBO' 발행…롯데건설은 잇단 ABS",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/05 07:05",
+        "published_ts": 1791151500.0,
+        "tag": null,
+        "first_seen": 1791165634.2772708
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5POTNuQVBXdXNnS0xTak5xMnhlRHEwMzRsVjR6VGl5elpEem9RbXdQeFdtUy12QWN6M19pajZtZkh0MHBueGYtTWsxbHVhRzA?oc=5",
         "headline": "이번주 크레딧 2조원 발행…파라다이스 수요예측도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1790934642.0,
         "tag": null,
         "first_seen": 1790958631.546403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE4wREFQNnl6MGJ3S2lpQnI0M2JVWXBUNVRRZHlOdjZ5OXAwQkpiZzU5WVpmME1UNmpmOFpBQUljNUQ2WDB4QjZvZnRUZm44dmpuYW9IRndJS0RSNmoyNGlkQnNSMm5qTTlCSzkwSXlJTWcxR2k5c2JfU9IBeEFVX3lxTE4wREFQNnl6MGJ3S2lpQnI0M2JVWXBUNVRRZHlOdjZ5OXAwQkpiZzU5WVpmME1UNmpmOFpBQUljNUQ2WDB4QjZvZnRUZm44dmpuYW9IRndJS0RSNmoyNGlkQnNSMm5qTTlCSzkwSXlJTWcxR2k5c2JfUw?oc=5",
-        "headline": "日증시, 美금리 상승 우려에 하락 마감…닛케이 0.94%↓",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/02 17:45",
-        "published_ts": 1790930700.0,
-        "tag": null,
-        "first_seen": 1791160230.638527
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaUGotLXJ3S3dkRkNoT282R3NoMlJmbUJTbkVtcjR6RXdLZndic0F4a0dPTmVia3FjY3pGdWxIdDFTS2FEM3dsVjhmdzJ1Z0pl?oc=5",
+        "headline": "前 BOJ 위원 \"日 경기부양책 더 이상 필요 없어…12월 금리 1.5%로 인상 전망\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "10/05 10:46",
+        "published_ts": 1791164769.0,
+        "tag": "JGB",
+        "first_seen": 1791165634.2772708
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOOGJaVEo1c2NUWlhvc0ZxNGNfWkZnWDVqeDlnV09laGpNTmo5TzF0UVc3OXJOdWE0bmNqaHFyNlk2OGw0RWRSVE13c04wSkhNWHdPZ3FYUlQzMlc2QmdjOXpNSlR6ckRBaDhYU3F0aWVUaDNKRkhGMEhuQWFwcXdWc2ZhTkZRYWdVb0x3MmhPVTJqTnBfaHY1azNEaG1tQWfSAZ8BQVVfeXFMTjhiWlRKNXNjVFpYb3NGcTRjX1pGZ1g1ang5Z1dPZWhqTU5qOU8xdFFXNzlyTnVhNG5jamhxcjZZNjhsNEVkUlRNd3NOMEpITVh3T2dxWFJUMzJXNkJnYzl6TUpUenJEQWg4WFNxdGllVGgzSkZIRjBIbkFhcHF3VnNmYU5GUWFnVW9MdzJoT1Uyak5wX2h2NWszRGhtbUFn?oc=5",
+        "headline": "Global capital is no longer cheap, that’s the challenge",
+        "summary": "",
+        "source": "indianexpress.com",
+        "published": "10/05 09:30",
+        "published_ts": 1791160234.0,
+        "tag": "Global",
+        "first_seen": 1791165634.2772708
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNWkFJdjBLTHJRLTdDa1Qtdmp5bGJDa1ZCcXdNRWZJUzIyZ044NjRLSUhsRkF3ei1nWGRoeklJYTVQYzJnWFAzNWc4bk1CMTBhYU13d3FRZU5NZVdwdVlDbmEzdkpqcV9lRTBIV1NoMWUyS29pNEZTZlVmb2JvazFlZWZnWmlPYUZKUVRsSHlaVzlwMlBSYjRZ?oc=5",
+        "headline": "Fed's Kevin Warsh faces a hold after a hike and a shock jobs miss",
+        "summary": "",
+        "source": "Startup Fortune",
+        "published": "10/05 07:50",
+        "published_ts": 1791154254.0,
+        "tag": "Fed",
+        "first_seen": 1791165634.2772708
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMG1Jc3NyWkhKdUlzMFpnZkRwcVVEOS1vbVc1NTNPUVNJTE1qRFVuMDk0RkJXeTJHc1MtQVVidWpRSV9CUmhHMEFZRTRSS0NoUmZfbjcwN0FXbTdVdWpINVo3TEgycjVCSmtyMDZaRWo4enRQb3RJaVlsdFd5WllWSlZuQkNHTlVHaHd1d3hVZ3BCWmNtMElUc1JNLTc?oc=5",
         "headline": "Five big cracks in global markets have opened up",
         "summary": "",
@@ -1728,6 +1758,16 @@
         "published_ts": 1791138871.0,
         "tag": "Strategist",
         "first_seen": 1791139525.4851804
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hR2w1R0hGLXI0ajZhUE1tUHhCYmF5NmplSUNUZTNBUHBSTUhBYkRjOWg0RVN4czE0TGNGUzBwWEdkVlBKVUgyMHdJV09kT1VBNHhfcVpuRFc5ODFjOEI1T2E2ZXpndw?oc=5",
+        "headline": "심벌 디자인이 비슷할 때 참고하는 프라다 토토 사이트 구분 포인트",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/05 03:25",
+        "published_ts": 1791138312.0,
+        "tag": "Strategist",
+        "first_seen": 1791165634.2772708
       },
       {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWp4NWoyWWwyekpFQm5jRlo5MU9nT01WbHhzUkktQ0VQN0lyZkdtUlZJcGpCOW9FZzJyRmdsTy1nejdKdWphMHphWl9oVDZHaG95Y255dy1CU0FUaWh3YmZuUl9fdXlTakxac2hqdjRnNjFtRloxNEZXTnR0ME9vcw?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1791106502.0,
         "tag": "JGB",
         "first_seen": 1791107159.4326787
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
-        "headline": "Federal Reserve raises interest rates for the 1st time since 2023",
-        "summary": "",
-        "source": "abcnews.com",
-        "published": "10/04 18:11",
-        "published_ts": 1791105098.0,
-        "tag": "Fed",
-        "first_seen": 1791109827.7561843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02X2gwR2cyR3hQa2tmdW1va0hrdnBXYS1pRjNqLVhGb3lnZzNld3lLc29nM1laTmNCWnZaZzJRc01mX0g3OGFlUlhTRkZmd1lWYzJwck5ZMGgxUHZD?oc=5",
-        "headline": "국채-AI기업 회사채 ‘고래싸움’ 여파…“역사적으로 치솟는” 주요국 장기 금리",
-        "summary": "",
-        "source": "supple.kr",
-        "published": "10/04 17:16",
-        "published_ts": 1791101818.0,
-        "tag": "JGB",
-        "first_seen": 1791122433.5365129
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUWU3dTNNQ1lZOVhfRFowbEZ3b2xveTZqQlBHOFdKeENzSUsxSmZiQ1BtMVBWMWgzOEZCcVl4bkhTT3I0UVkycXVyYWNDNzFFbjNVd2dMc1VXOHFoeEl3eUpUTzZYbk9UandxMDR6WFNoXzV1bl9GWE8xNmdEMF85SFJn?oc=5",
-        "headline": "국가 부채에 AI 회사채까지…‘자본경쟁’에 치솟는 글로벌 장기 금리",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/04 17:16",
-        "published_ts": 1791101760.0,
-        "tag": "JGB",
-        "first_seen": 1791102629.2199576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4zZGRPLWRkc20wZHpqMDJmQUM3TWRaZ2hWNFZIeldITHpNbEV1bDloQlV1elh2WDJBQ3JMU21kOXBjOE1BWkRkczZ4LWgzQkliZHZBRF9CTlo3S3FWeXNnZzV5bFo3aXhsOWJ1eDlLR1FuQQ?oc=5",
-        "headline": "[뉴욕환시-주간] 물가안정 vs 금융안정…ECB, '佛 개입' 고민 시작될까",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/04 15:45",
-        "published_ts": 1791096331.0,
-        "tag": "JGB",
-        "first_seen": 1791097231.7673972
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 10:45:47",
+  "updated_at": "2026-10-05 11:01:02",
   "yields": [
     {
       "label": "3년",
