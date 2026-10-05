@@ -1650,6 +1650,16 @@
         "first_seen": 1791195321.800591
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUVsalI1cnB5S2szT180dlNSZmQ1SDhUakVEUUdkaENNa1ZaZXkzMTNWbnZoRk5PN242d1dzWjJWN0p1Wkg4M2NrenMzRGo0WWNuUGt3OHhfc1FEaGdMaU94cW1PekpOdG9ZaW1SNkt6NXJIUG5fNmUtdThJeC1nbVhwdHBYWjFkcW5XUk5PUk5XcWQ2UVRFU2tCZFZnSEtxQ2FzQw?oc=5",
+        "headline": "Market Minute: Bond rout doing Fed’s work as financial conditions tighten",
+        "summary": "",
+        "source": "The Real Economy Blog",
+        "published": "10/05 19:00",
+        "published_ts": 1791194441.0,
+        "tag": "Fed",
+        "first_seen": 1791198928.0438266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObXMyLXJsRFdTdWpQaklKSHA2T29nQ09lcDRZeGVaeHMtbWNyRmFCejdCdXItdzJPekNnUWFhWDYtM3k1QWUzZE1uaHdMSXVGSVBIQlpLU2FxNmM1ZmN1VkF5QjZhZ010cTZtTERuWTdFQ25NZXhyRTRVT0JtZTl2N3B2Yw?oc=5",
         "headline": "Japan Stocks Meet a Bond-Yield Reality Check",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791167100.0,
         "tag": "JGB",
         "first_seen": 1791167428.3488646
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSG83X09VOElvclBxRGpha2ZoSENBUXFRdlFuMWxSU0ZTek9TZEx0X1dHNnV3Y0VrcGZoTDg3Y2R5eHUzSUZYZElyeVgyUUtSNG1GWkFjU3hMWmsxc01zV2lwS2JBcjBHWk5HYmJxQURFU1VKWUF3T01WMWhsN3pHR1NfUHFSc1gtNC0zREpVSWEwcW4xX3ZQMg?oc=5",
-        "headline": "Japan’s 30-Year Bond Yield Hit A Record Ahead Of Takaichi’s Speech",
-        "summary": "",
-        "source": "Finimize",
-        "published": "10/05 11:06",
-        "published_ts": 1791165982.0,
-        "tag": "JGB",
-        "first_seen": 1791166523.761562
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 20:00:59",
+  "updated_at": "2026-10-05 20:15:57",
   "yields": [
     {
       "label": "3년",
