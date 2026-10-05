@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN1BlMnQwZ0ZycVVOZXFmNE1WQm1TWHMwS2lpbm40OU1yTkQzMGxSeTNMVmpwSVpHR2pXNmp4Smd0aFlzYWlwaWhaOThxRUJIb2xVaXhPX0xjYlNTdmF3cXpTXy1mYTJxWUVOc0FqSy16WkxPMk9FbDN0eWxjb0UxVlpONGdUVF9BX0MwMGhqc1lsSGEzMExNMWszZjNsRnMxQW11WWJJejhDZUVHd3hzUkVzVQ?oc=5",
+        "headline": "MB는 채권 시장에서 뛰어난 특별 거래 회원으로 선정되는 영예를 안았습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/05 18:43",
+        "published_ts": 1791193425.0,
+        "tag": null,
+        "first_seen": 1791193521.795202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9leDAyU2wtYjBTWjhMZXBsRlRPYnNQdjRaalFDN3FMYkVrTExzQzV1QkJ5aUlfN1lmNGc4Nmo4OFl2T3dFZkoyVFZlNE04NWFEUHgza3dkVnUycnJDcmtYb2R1bk5XRUtTTkltLU82VTjSAXRBVV95cUxQaEVEWHU1bGpxcU44NE5XblhrNGxLejZpQ2lCZzVWV2FtV3JhOXg1bm94ZDNORVpIeGtwN3YtUUFYTEt1OFFhQ2lBOW5aUF9BZWpqRGEtV0Zwc0FEeXFDNzJXNElWVHV6YUQ4RklQR3N6cnJ3NA?oc=5",
         "headline": "[외환-마감] 휴일 달러-엔 연동에 1,340원대 초중반…6.60원↓",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791016084.0,
         "tag": null,
         "first_seen": 1791166941.5043848
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBRX3hEdmFQZGRqY21BN28xWEVvVW1PNWZvUHpTN3RRbU4wbFludGVoMHdMWTEyeXByTmthQVFkUU1BSW9FM21WWG5BV1F1VjM1dTBuQ1R4NERCUkR1bi1UR0lqbFdoV0Ns?oc=5",
-        "headline": "\"美 부채 160% 시한폭탄, 투자자 변심 땐 재앙\"",
-        "summary": "",
-        "source": "ebn.co.kr",
-        "published": "10/03 15:49",
-        "published_ts": 1791010146.0,
-        "tag": null,
-        "first_seen": 1791163829.709279
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51R1RQNjVHdHVQeXZWOWVCWndLbnJycFkwekt0YktoaUl6elAwZ0ZYRUcxMXRXOWV5ZXVkVHpIWE9xY3EwSjM4dDlfVFNPeDd3MjRCQUFRVWtXM1VoQkpCMm9oM2ZtbkRJ?oc=5",
+        "headline": "미국 장기 국채금리 급등, 국내 금융시장에도 금리 상승 압력 커져",
+        "summary": "",
+        "source": "정경시사 FOCUS",
+        "published": "10/05 17:10",
+        "published_ts": 1791187854.0,
+        "tag": null,
+        "first_seen": 1791193521.795202
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA3YnAtRGVDbWN1ZlNKQXpBMnB0NF9FQkdVdUg0b2pHREE5NkFPaVlLVEVrNTR2a25tVnRXRnExcG5VbmVoTGdKSWpWbmU4UV9vT0lVRkdLMnLSAVhBVV95cUxQN2JwLURlQ21jdWZTSkF6QTJwdDRfRUJHVXVING9qR0RBOTZBT2lZS1RFazU0dmtubVZ0V0ZxMXBuVW5laExnSklqVm5lOFFfb09JVUZHSzJy?oc=5",
         "headline": "美 국채금리 5.3% 쇼크…고금리에 취약가계 이중 부담",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1790873525.0,
         "tag": null,
         "first_seen": 1790925322.4854414
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPNGNRQTgwaFQ1eXRlMWNMaVBZSTRlb19BZ1FhTGdvUi01SXdKS0xVaVR3cVlvbEJsNG5oM3pmdHVBc01fT1RxSmFkaVhWbmFZSURCRTBhY3RPWnFGRGIxRXhkRnlLNjNMN3BXYzlzMGhVYi12YjZJNXFhVU1iQU5mZURTY0p4STlYTEROZlhkMFZBVnptZldJS0JBc2kzNlNzdElwTHE0aEhORVQ0Tk1uMS1rVjJWdFJHajBRT2xNRmlPUlJPUFFqeXNYQ1poZmlpaElGanlYWjZGWU1DTFQ0S1ZCaEpkWVZEOXpTNUJJZkdRRG9IMmgyek9XNnZiY1VteDJtaTBrc0hyZ0ZTRkJsbEdWQzlwOGJKWXdMUkZ1czVCclVRTzgyUm5zUVQ?oc=5",
-        "headline": "초과세수로 나랏빚부터 갚는다… 이달부터 국고채도 발행 감축",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "10/02 00:52",
-        "published_ts": 1790869939.0,
-        "tag": null,
-        "first_seen": 1791075634.3393521
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 18:30:42",
+  "updated_at": "2026-10-05 18:45:53",
   "yields": [
     {
       "label": "3년",
