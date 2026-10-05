@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWFg2TFB2blpUQWk3U0w4eUJ6dXVCbFl0Q1pNb0k0cGtGeWFCZWd4a0NqeXdnWnBRb1VUNi1OQkFWZFBGcVZoRndVcDVLV0dUOFhiVVdzdFo2c2tFZFkyYXNTY28zSnJqZDJIWFFmUWgyT2NTMHBZSXphTW1rdnVkWlMwVlI3QzRfaWxjci1LY0xQRlp2dUFINU44NjlSMkpHYkx6Z0hDU2xENXNQdXRZ?oc=5",
+        "headline": "7 Charts on US Markets: Stocks Tread Water While the Bond Market Shudders",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "10/05 19:25",
+        "published_ts": 1791195900.0,
+        "tag": "Global",
+        "first_seen": 1791196230.7238636
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQOV9CNjRqdmhGUGR3NXNIcEpCRUt2QUs0c2xGeVRTanIwa3ZvQUNqTmlLUDhCZDhoRTFuSGVIeS1GQkQtcXZFcjdPTktrem1EUVZXU3k1ZkVHOFNyZ1A2Sml2RUlJZmJJTWpIamhGMGJxYzZ0TVplVGFUTzVoTG5VbDBKc2dfdlhGMW5fdWZzc3ZsY1A5c0hQWDFZUklRRU1xMHp0UTFXQXl3Y3dNTWJUcWhvTHJmcVhfWms0ZHNtWDh5Q1dnSndIN256UGt0Wm1tTlVENlJpZFdvclBQQ1ZhU21RSlNhY3BYandNX05R?oc=5",
         "headline": "Rising Rates Hurt Most Bond ETFs. This Senior Loan ETF Gets a Raise Instead",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791165219.0,
         "tag": "Strategist",
         "first_seen": 1791172831.4786532
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaUGotLXJ3S3dkRkNoT282R3NoMlJmbUJTbkVtcjR6RXdLZndic0F4a0dPTmVia3FjY3pGdWxIdDFTS2FEM3dsVjhmdzJ1Z0pl?oc=5",
-        "headline": "前 BOJ 위원 \"日 경기부양책 더 이상 필요 없어…12월 금리 1.5%로 인상 전망\"",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "10/05 10:46",
-        "published_ts": 1791164769.0,
-        "tag": "JGB",
-        "first_seen": 1791165634.2772708
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 19:15:54",
+  "updated_at": "2026-10-05 19:30:53",
   "yields": [
     {
       "label": "3년",
