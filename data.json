@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWEtaNFNFOFlTOXdpZDI3a2tZOS1DU054c1ZMRnRUTTVsX1hIeXM4UnhXSElqSXJVVk0yOGQycy1OYXN0QlFkanpIS3NmNE1HTFd2OUtyRkE4bFF0UjlCVENJcVZVUWhpR1lzMzZCU2R0ZVdLYXVHdHlyVVVqZnAzSVRKa0U?oc=5",
+        "headline": "Quant hedge funds win big from bond sell-off",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/05 14:00",
+        "published_ts": 1791176403.0,
+        "tag": "Global",
+        "first_seen": 1791177325.7181323
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE41WXVpZnJYYnBGVEdYRkJrUTBnbDY4cjJyZ1dYMVcxTV9rSmczUU5mOGlQYzB5MjQtOXZ2VGs1QlRqQk12QmRseERieFhVanV3blExUlJUZlFrRzBydkJQWVI0YmlKZWZ1eVlwX0dMaEYxaG9BRXdnU3ZR?oc=5",
         "headline": "Morning Bid: The euro has a France problem",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1791172260.0,
         "tag": "JGB",
         "first_seen": 1791174627.273962
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3SkgwQ2xtbHRJaEtIZEE2LVIxT2xlUnNYTlpzcnhKb0F0a0Zvc09wbHZScV9Ea3djbzZpa1d2SUt1bW1VZmp2UjR0amRVNk9fNFE2UktBYjhjVXQtU0NNZG1yMjZSS3FlQkJtQXJLOFZxaXZy?oc=5",
+        "headline": "U.S. Jobs Shock Fuels Bets on October Fed Rate Hold",
+        "summary": "",
+        "source": "businesskorea.co.kr",
+        "published": "10/05 12:33",
+        "published_ts": 1791171221.0,
+        "tag": "Fed",
+        "first_seen": 1791177325.7181323
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNaEtMb2VvYjNQcmQzLVd2WjdPc20wQU1RbTVWZTF5Q0hYRGlVUjVSeTRyQm9BZm03YXAyQ3N0YkpWbE9zQ05ZTi1GTUdmV2hWSFlHd1czMWhxdTN1ZEppZnlxd2xnczR1R1BmVXFHYkVLR3R0NXRsaFlvWWNRdmFHcE1KSWFVcXdyY2g1ZTRJUFBFNndpQmZMemlIYVJRNHRrR1dmSGhVMmxNLWs4TlJYdmwwMXFqdjAxSnAxNmxMSTVkODYwc040RmV3M0pqM09pTUlRaDcyTF9lV0dCWXBzUmtDOUVvWk9H?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791138871.0,
         "tag": "Strategist",
         "first_seen": 1791139525.4851804
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hR2w1R0hGLXI0ajZhUE1tUHhCYmF5NmplSUNUZTNBUHBSTUhBYkRjOWg0RVN4czE0TGNGUzBwWEdkVlBKVUgyMHdJV09kT1VBNHhfcVpuRFc5ODFjOEI1T2E2ZXpndw?oc=5",
-        "headline": "심벌 디자인이 비슷할 때 참고하는 프라다 토토 사이트 구분 포인트",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/05 03:25",
-        "published_ts": 1791138312.0,
-        "tag": "Strategist",
-        "first_seen": 1791165634.2772708
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLWp4NWoyWWwyekpFQm5jRlo5MU9nT01WbHhzUkktQ0VQN0lyZkdtUlZJcGpCOW9FZzJyRmdsTy1nejdKdWphMHphWl9oVDZHaG95Y255dy1CU0FUaWh3YmZuUl9fdXlTakxac2hqdjRnNjFtRloxNEZXTnR0ME9vcw?oc=5",
-        "headline": "[뉴욕증시 주간전망(6~10일)] FOMC 의사록과 6월 PMI 주목",
-        "summary": "",
-        "source": "chosundaily.com",
-        "published": "10/05 03:17",
-        "published_ts": 1791137825.0,
-        "tag": "Fed",
-        "first_seen": 1791159322.0325627
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 14:01:00",
+  "updated_at": "2026-10-05 14:15:48",
   "yields": [
     {
       "label": "3년",
