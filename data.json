@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1KQy1XbjZlTUs1SjB6b3l3YjJnTzFnSXhYb1RYUlpibllkSk9lbk00MHh4TDVtczBPcWxlOXpLdUdRTU9Od3FRNlAxLTlkcGl1U2I2VFJQb9IBUkFVX3lxTFBxakRyTy0yODBRZDNQZEUzX3IzeVVtalFmTE41OHlqNjV1RW5WRVgzSkoxT3FzRV90NjIxcVJNNG9YOTB6aFVnZXF5aDV0b29abkE?oc=5",
+        "headline": "국채금리 상승에도 뉴욕증시 상승 마감…나스닥 사상 최고치",
+        "summary": "",
+        "source": "더팩트",
+        "published": "10/06 06:54",
+        "published_ts": 1791237274.0,
+        "tag": null,
+        "first_seen": 1791237636.7176754
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9fUVZGOThxS2FtdWU4Q2JXUFNZYmxzeVE2OEZsUVNCa3h4aS1wNTF2Y0dDNDBPVDVNODE5dG5LelBoWUxycklTYUx4YU9FN2t4?oc=5",
         "headline": "메타플래닛, 3분기 1만 BTC 매도 후 1.1만 BTC 재매입…총 4.4만 BTC 보유",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791139160.0,
         "tag": null,
         "first_seen": 1791162921.727163
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE84ejZyVmFOSy1PSGxTX09xR1BpX3dUdHU4b0xFc003aFA0R0tnMHRtc2U5R3F3clBXSjBibU9PdDU1MjhpMFp2eFB4SC1KRXlhVlN3QXk4QXFCVjdKRE1LNzNfb3Q2NVE?oc=5",
-        "headline": "파라마운트, 금리 급등에 연 이자 5400억원 더 낸다",
-        "summary": "",
-        "source": "초이스스탁US",
-        "published": "10/05 03:00",
-        "published_ts": 1791136800.0,
-        "tag": null,
-        "first_seen": 1791157521.4127765
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 06:45:49",
+  "updated_at": "2026-10-06 07:01:03",
   "yields": [
     {
       "label": "3년",
