@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWJpQjgxdmJPeS02bXpQMGRtTS0wRnk0UWR1SlJPOFNtY0RzZEZTNHR6ZDQxTmZKNDQyOXhHck9RaFVxdVVfc3Fadm5BYVhuOXVMUEFlaU9jYTdyb2pfc2ViT1JsRk51UGRtOGQ4RUppcE1OUlFlQ2VpVktqN0NJSE45UmhSdHdK?oc=5",
+        "headline": "Wells Fargo Stock Rises as Morgan Stanley Upgrades Shares to Overweight",
+        "summary": "",
+        "source": "tikr.com",
+        "published": "10/05 23:03",
+        "published_ts": 1791209031.0,
+        "tag": null,
+        "first_seen": 1791209723.0464938
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zQk1xQXA2QkNrVEdaWjF4dVNyb19YQmh1OUlnTDN4dTFJNnFrLWpSdFI1X2tiUEFQc3lEY19kU1lVaUVWM1BqSy1HajVTMUlGTjF5Mmpva05KeVdGLXhKbFNlcXI0dDBickprMG9mSzk?oc=5",
         "headline": "S&P, 나이키 신용등급 ’A’로 강등…중국 부진·실적 회복 지연 영향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791068400.0,
         "tag": null,
         "first_seen": 1791070227.4984
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwUHo3Vm12aXo5RklOdDJTSUxnbXBOT1ZFTXVfUTVnS0hNV1h6bWJkMHJFLTBPMWxJWEIwMjNQYXc4YkViRVZ6R2cwd1FLeG9nTElRUGR0RkN6QTTSAWBBVV95cUxPd2tkR3JPVldYSHJjVDdBM2NTdF9FT1dOdzZmb3dZcXRjWE9wcDJmYWtHTzlYZDNPY1gySV9wUEtfM3hNSU44QlF2OXVTNHN0c3JEdHFKNjZSUGx3TjY4NGo?oc=5",
-        "headline": "막바지 편입 앞둔 WGBI…외국인 공백 이후 연말 채권수급 촉각",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/04 06:10",
-        "published_ts": 1791061801.0,
-        "tag": null,
-        "first_seen": 1791195321.800591
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMkdZWEFRSVluZUJkY0QweElOaHhJcERfWUVUVVBmZmpGX0IzN1VWYnVVVS1oU3JlczE3M3g0a3VuVklzYWgzb2VYSXRMN3hqVjZvNlVTempGX2NGMTEtbmtVdnV0SG5NMlY5dm95RFZlLW41TU9BbnZGSjR0cGhtbkF5V3ZuMVBJai1BWUJQbjc0azhORVcxMTd0VWlzOE14Zk05OHY2T1hRQQ?oc=5",
+        "headline": "Risk-Free Is Dead: Why I Am Very Bullish On Equities Going Into Q4 (SP500)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/05 23:06",
+        "published_ts": 1791209169.0,
+        "tag": "Global",
+        "first_seen": 1791209723.0464938
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DSDNDQkFjWDJfeTNwVjZsbVJrSkFBd0JPYUVmZ29ZX2R4VEthQzQ5NDUxWDI1c2lwMU1VVTlUaHdXeUt1YWJEdzB5cm1QWWd1ZGh4dnRidE5YM2Q4MnRuX1c2OVk4c1hzU2JyTjVfT1VzTGlmTEE?oc=5",
+        "headline": "Speculation Over Increased JGB Allocation Pauses as GPIF Skips Asset Allocation Discussion in September",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "10/05 22:55",
+        "published_ts": 1791208500.0,
+        "tag": "JGB",
+        "first_seen": 1791209723.0464938
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQOTVjc25DZm81MkNJakEtZUgtZF9JdUFnQktBc2VvZ1dSMmgyWGR4NTc1ZzluX28yQlZaLV90VlpRTFRfbHVxTlc3ZU13aXBVbE5KTHNPbS0tLWExbUQwbVBScjRWMjdNZ09vQ2twWWQ1UXRjcHBZb28tc2ppVWZlS3Myc0ticGtvTmhqLTlnNm1rdTFQT3FfazFJWlBwZnV5X1p6dkdvWGo2T1h2TnZsNFlES3lrYUpLeTU4cTRQa2c5RFFYRWRYbQ?oc=5",
+        "headline": "Markets Brief: Utility Stock Dividends vs. Bond Yields, Citadel Securities’ Bullish Turn, and a Cooling IPO Market",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "10/05 22:52",
+        "published_ts": 1791208350.0,
+        "tag": "Global",
+        "first_seen": 1791209723.0464938
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOUJWNmFCMEVpYzlneFhlbWhQLU82UVZwUEhTM3BUei1EZnhmUEJmLUNQQjZ0RElUcTBXZEIyTmtNeVhWQTQzdEJFYlhUWVN5X3NmVDJ6VFFKRnRiVTNGZEVQdmNCUE04Tm52bGQzQ1VwREVOd1BCSUJUWkc3TlVhQkdHNFRsbnhBN0RSNk5sVjJTUkYyY3hXUXRFUkt1WWtXZ1hHT2dKNlAta2pqdS02SzNIc1ZJdEY5MUE?oc=5",
         "headline": "다카이치, 일본 30년물 국채 금리 사상 최고치 속 재정 규율 약속 - 뉴스 및 통계",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1791184774.0,
         "tag": "Global",
         "first_seen": 1791185430.154127
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ0MzR0ROc2hLLWd1M2RkQm9LSy0yeV8wUHJ1cW5iZVRCZVlIdG5IZ2NWUWVSRFFzOWtwTmhvR2ladGFLeldNVHhpSmxKamdBRkYtOUNqYmdEVHpQaGlzemIwNkJpTjVRSnZXQ3k0X1g2NTBMVU9hc2JHSS13VjNrYg?oc=5",
-        "headline": "Smoky Singapore gears up to talk money ahead of F1",
-        "summary": "",
-        "source": "asiaone.com",
-        "published": "10/05 16:15",
-        "published_ts": 1791184527.0,
-        "tag": "Strategist",
-        "first_seen": 1791185430.154127
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9raW8wam5mYkJnVUdDWWNoUFctY2NkY0txZDJsMEtmNVBwZ3VBd25tbDFBazNHS3ozNHBPWldBZzRpMHFfZUJUbnhZTFY2Q2p6TUdDMU0xOGw4MXVvN3ZHT3J2UXMycGRua1huV2M2SnZmZlhraVpEUDRFV3o1eTFiQUowOWp5dkl2V3RudEVvcU9YMDlXX19sWlFRcUxkekRPSzFGVnB6SUdjenN3b0hMdHhha0daZTBsUGVlVHpISTVXNXhqOXNEa2dPVnJ3ZGJNZTRmWkhNZHVkeTYw?oc=5",
-        "headline": "GOOGL Stock In Focus: Waymo Recalls Thousands Of US Robotaxis Over Navigation Issue",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/05 16:10",
-        "published_ts": 1791184224.0,
-        "tag": "Strategist",
-        "first_seen": 1791189028.5409749
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPejNQMjFLekxESnpNNTJLQlY1dU4tVklPdkR6V2Q3b2FLOUNCMDUyX0FjaDNQNGZSUWZxQXhKdWZJdVpvTHpqSmFTZnNXRW5hTTZBLVNUQ18tQzFLOHd5bGYyWTdlRjYwTVl6VEtPUW40akgxaVdNUWxMSTNYYW1hMjlHdWlncThKN2J4ZlgwQjN0dnRlRHNEY2NTNjVOU3g2R1E?oc=5",
-        "headline": "The History of the Bond Markets. Lessons to learn.",
-        "summary": "",
-        "source": "Blain's Morning Porridge",
-        "published": "10/05 16:10",
-        "published_ts": 1791184214.0,
-        "tag": "Strategist",
-        "first_seen": 1791184523.1490097
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-05 23:01:02",
+  "updated_at": "2026-10-05 23:15:47",
   "yields": [
     {
       "label": "3년",
