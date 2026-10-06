@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1FWTZnWkJUYmo5MDVfS2lZMklVLXF1OGxwZkhTb3dVeFZoWGtzdGdBVllUUkpPWTdneFpKOWttTWdBeVJZdm90dnRtc0RoazQ?oc=5",
+        "headline": "AI성장이 이끄는 건전성 개선…한국 국가신용등급 오를까",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/06 09:27",
+        "published_ts": 1791246464.0,
+        "tag": null,
+        "first_seen": 1791251124.9528353
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnNEp3eF9OTDd6VDhXR2pNZzRuQXZHU1VoSWtmRHBaVkx0X3JsZHBaMDVnZEVjX24wa3dDbEM0SWJfQnlYZlpqdjV2RmpTM0ZjZlplWU5BankyQ1FtamRMaA?oc=5",
         "headline": "뉴욕증시, 국채금리 오름세에도 기술주 강세에↑…나스닥, 역대 최고치",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791169501.0,
         "tag": null,
         "first_seen": 1791170123.471605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOTIwVEl5SUhEUUl2Sk9zb1VSQzc2d0wzamZlSEJuQzJxOFFuLUxKZ2llX0VhMFBrR29WcjAxd0VEVlpDSUUxSEtDOUFrb1hzTDZDTXYzX25EbDJ3VFF1WThOVTJTM1BrQy1YTTRmelJ6WlFMeS1ZRGZUM0Z4NThIN3dJS3FQNjh3WmlVckZ6eWpuNDlnU0hrbjVmNWZQUzBYVF8xWmJOR2hydER6MnBqR1FqVFlGREVjUHc?oc=5",
-        "headline": "채권 수익률 상승에도 불구하고 금 가격은 온스당 4,000달러 이상으로 굳건히 유지",
-        "summary": "",
-        "source": "Laodong.vn",
-        "published": "10/05 11:38",
-        "published_ts": 1791167912.0,
-        "tag": null,
-        "first_seen": 1791169236.8349648
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 10:30:57",
+  "updated_at": "2026-10-06 10:45:46",
   "yields": [
     {
       "label": "3년",
