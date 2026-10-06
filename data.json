@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPV09PMVdnLUY2MmZwd2NJZW1rMjRqQ0JJOTUtQVdEVWxvT2VFYjBmV0RMbER5TFdNNE1HQ3NvMkxVZ0RSOXh3eEIyQVFuQ2RidENKcDBQQVM0UkFRaHlYcFB5S0ZWcW8wWHVuOEdRTEV2alNvYU5qcXRmcGxSX0tUWVJ0N3JjLVBTUHRfa2x1YWdPcFZ0WV9VM0NlM0Y2TW0yMkY5Tlk1WFVybml5MW4tUmhQRFlJUUpvNHdXZE1xWmVzVzdWNk1qSG93?oc=5",
+        "headline": "Opinion: Fed minutes coming tomorrow could give markets important clues about future rate hikes",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "10/06 22:27",
+        "published_ts": 1791293220.0,
+        "tag": "Fed",
+        "first_seen": 1791294324.9688067
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ1hwTzVreWtIZ21ZVnM0YW9RODl2dmNwdmMxZ1R2VUE0WDNnNVBXN2dvaDNPUWFCd2lZZVJVNm5aeGVUVEFQLW5QOTZlOXNweHFvSXR4R1BNUWtvWWtVaXVialJuYk5QT0UzZDFJaGc0TWtVVG8xRHNuTHJTbXBwLW54QnJ2Ykp4NHdZNWRiVnFSRGJSN0ZDS0lqWWhnZzVMQXVuNWhqVm02ckx4T1A2TW5OOWxWOG5DdmpteENOTDNNYmk1?oc=5",
         "headline": "Cramer Sounds the Alarm on Bonds While Wes Moss Says Don’t Panic. Why Both Are Right.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791269541.0,
         "tag": "Global",
         "first_seen": 1791272721.8107584
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWVNNVnpZRGRxa0k2eUQ4QW9lZEd3ZWdoR055S0gtQjhRNzZOMjZnd2JZZ3JUYXR0dnJNcWpyaFRvWVhoaVFRS1NhMldJb01WYlgxbTJ5ZEt2LWY3SFV0eFpVMU8xYjFSUjhwNGFEbG1JZmtpMEVHYlRXdGdJalZvT04zcTZUVHhuZ05qcGhlYnNELUM3MDIzT2JCVEUzVlk2Mld5dEd3VQ?oc=5",
-        "headline": "Ray Dalio flags China and Japan pulling back from U.S. debt - report",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/06 15:43",
-        "published_ts": 1791268992.0,
-        "tag": "Strategist",
-        "first_seen": 1791286530.8040667
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 22:40:08",
+  "updated_at": "2026-10-06 22:46:01",
   "yields": [
     {
       "label": "3년",
