@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzU1Z01heWhwUWt4dEQ4Q2l3ZjFiMnp1d0pjTFY1ZG9ycFl1LUk5Nll4MzNnODFDNEREaGptMk51d3JScEdDempjTGhBNUplejRpemdtX2JVcHVaOTg4UjF1NXh3eFZyTVF3RWhhX3RQOWxPc3B3eWx1dzFzZkZvYmZaZHp3YS1Kc0ZrQlBWejRjQQ?oc=5",
+        "headline": "Jamie Dimon Says AI Boom Is Competing With Government Borrowing for Capital: ‘Rates Are Going Up’",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/07 04:00",
+        "published_ts": 1791313208.0,
+        "tag": "Strategist",
+        "first_seen": 1791315030.1950264
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CSlM1UXd1bDcyNnV0dFJsQjFKanAzVV96WlFvcXdBTlgzbTY0aVFHOFd6MUxkbDFRTFlSSVJtUzZaOEVjRlFUbl85ckRqZVk5WmxfZnBCZjdKUFNVQ2t5XzBSS3QzVEtZV1JUZHlRbGpyLWtTR2c?oc=5",
         "headline": "Trump Distances Himself From Fed Chair Warsh After Rate Hike, Blames 'Hostile' Board",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1791308813.0,
         "tag": "Strategist",
         "first_seen": 1791310523.2978473
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQTg5eWxfQkp4MDZlZi1FeU40eTN0dmhXVWl0Y0RWakI5eUpFSkVDN2hNNndDRDZsN0V4TGc2MWg2MkdGUUsybW15QTBrVEFTVXhoNldTdFMtWDNEVGh0SjRsc1JrSHEtRXNDZmlTbkJIYmxMTGxMNlI2ZndfRkl5dHhUc2VLUkcwZG81RUFYUGVzWURwOEVzM2ZNVGc3SmpnSVlDVE5XV21OeWFld29WQThuNzFFTXJpRm5kNjFkaXpkd3ppSWRzZ1g4dFhxRUdKcXRGR3lCRFozQjJQOTR0UnFUYndPcWVVMVE?oc=5",
+        "headline": "규칙 문구의 이상과 초과, 슬롯나라 릴렉스 조건 해석",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/07 02:13",
+        "published_ts": 1791306797.0,
+        "tag": "JGB",
+        "first_seen": 1791315030.1950264
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbVVJOTN2U3lqbFlpc0RhZ0pDenZ5N0t5dU00LVhtSUpSRjNhRE5PZjNpZXR0RVNxTEpDTkV6VVFEX1ZFQmNPSjZR?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791287100.0,
         "tag": "Strategist",
         "first_seen": 1791288035.1568727
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DNkZ2OV9UYi03aFp6TkFVS3g2SEU1TEhUWEU0d3NTbmlJRWxVdU1RZ0ZCTDhGc1cySmhOcENOdGNCQ25COW1objRxdXFQVFQ4Tkh1cW5USGd6MVllVzVDY0s2blk?oc=5",
-        "headline": "Crypto News | Bitcoin Price Targets 2026 Open at $87,570 as Bond Yields and Fed Minutes Take Focus",
-        "summary": "",
-        "source": "Binance",
-        "published": "10/06 20:43",
-        "published_ts": 1791286989.0,
-        "tag": "Fed",
-        "first_seen": 1791288035.1568727
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjlUWkRrdmNiT2l6bkxyR3gzTGNEdF90U1RyRTJXZjZCS1E1cnJmYjBOdW54TEowb1Boc3VtenRtWXExN1M3d2dWc3dLZ1FpaDJrWENNWm5QbjdtS2ppNnFkQU9BY2lOdU1Jbk9KbDZxOGJIbVlmTTduSVVOdFFTeUVfMXd1M2xRZ2JtUXItZ1lXTWFFVDhLZklPMmcwSHZKM191M2dTYUwxT25kelVhcDR3UDZWMG9pSkE?oc=5",
-        "headline": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet : Crypto Daily",
-        "summary": "",
-        "source": "CoinDesk",
-        "published": "10/06 20:30",
-        "published_ts": 1791286200.0,
-        "tag": "Global",
-        "first_seen": 1791286530.8040667
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 04:15:53",
+  "updated_at": "2026-10-07 04:30:55",
   "yields": [
     {
       "label": "3년",
