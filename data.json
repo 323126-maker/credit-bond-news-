@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU2xrUXJTc2lVZ09GaURGWmJjNHBiWS1IWmlVdW1EdXBZUjR4a0NkVnoyWDhrQTRleFFGU0dkTXkwOFZ5bF9VT0pTTFNkeXhxUG5BUkpFRmRiZEFyMGxsSVoxNlJGd3Y3Vjd2VdIBcEFVX3lxTFA3el95WVgzQm5QdnA0OXpJSkQ2RUp1dHpzeUN2dVRtTE1HUTgzYTZPeF80cEdrbk9jV283dW9qMmw0TTEyUFl4X1E1Q2F1QnpoWm5lOXdNX1lzT3I0ZXdQQVRocFFOWXVaZHN1ZkF6eW0?oc=5",
+        "headline": "李 대통령 \"농어촌 상생협력기금 1조원 채울 것\"…내년 2천억 투입",
+        "summary": "",
+        "source": "남도일보",
+        "published": "10/06 11:21",
+        "published_ts": 1791253277.0,
+        "tag": null,
+        "first_seen": 1791258323.4271662
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeWd1ZV83QTcwaWZtY1NSX0NIenIzX2c5bzRkTDdHWkloNVFTM2h4VWlBTUpsdnhnOFpIZnlJNmhxaEdyM195eER3N1ZuelUwcDUtcHg5TzZSVlVTcktTRGk5bjJQYTFvWVVlWEctZTN0eFJpUkJJNkpuQVBwQzJMUA?oc=5",
         "headline": "李 “농어촌 지원, 퍼주기 아냐”…상생기금 1조원 확충 재확인",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1790726700.0,
         "tag": null,
         "first_seen": 1790727324.5877285
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODBRcHhyNmtkdHk0RS00TXotbnZsYVdyOHlHdmJDQmlJV1dfSlg1Qk9WOXp5c0lSLVBKNjhjbFpNYklPWW1fRmV1bU1hTmVsQ2VXdzhfMUNRVFBJS2lSel9DN0YwR214WjZLOWtYeElfTmlySm5LWXpiLUFzbHRXZ2Q5TnlvNHVZMFprMThJRWxSS2c?oc=5",
-        "headline": "세수펑크, 올해는 없다…정부 재추계 결과 `초과세수` 63조원",
-        "summary": "",
-        "source": "국제신문",
-        "published": "09/30 09:00",
-        "published_ts": 1790726400.0,
-        "tag": null,
-        "first_seen": 1790731827.835611
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 12:30:52",
+  "updated_at": "2026-10-06 12:45:47",
   "yields": [
     {
       "label": "3년",
