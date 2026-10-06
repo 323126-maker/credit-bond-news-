@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1DelZZR3BoMm5jUnUwTFVxNFVuT2dGZzdkWW16d0NEWnJRYXR2RFNONHB6MFNJdWhGYUFkYVNtVkdNS05ta0VjSzZUUnZyazlNckE4UjN4RTdBRUQy?oc=5",
+        "headline": "[GAM] '금리쇼크' 약한 고리부터 직격...체력 갖춘 종목으로 쏠림 심화",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/06 14:25",
+        "published_ts": 1791264300.0,
+        "tag": null,
+        "first_seen": 1791268239.166293
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2WEJuSkJBQmxOTXhUU1VGUDFkdWxZeW1xN3ozTV9hdGFnUjY1eWM1MEpKaWJVZHZIdzcxOWpRX1ViSTZxOE84eFZMWnBkbk5JTXFUMENFdkduQQ?oc=5",
         "headline": "年8% 믿고 투자했다가 '쪽박'…회사채 투자 前 단기부채 확인을",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791200760.0,
         "tag": null,
         "first_seen": 1791201633.9745362
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUDg3MXJoamExaF94ektzeEpWU1hTckZ4c1F0NEhuLXhRQWtDVHYtRVViWm5OOTJHWWFXUFlKWXFBYklndTV5azNHSWtxNzJEZ1gzVDVzV2hVamtHSEU2QS12OGJoTHd3RTJiOVZsZi1ubVBKVkxTbnZYbWNSbzQ1RDhsOXNhUDNOaGUxMzltb0t1TWw3SU54V2M4NDdWenV6bWl5WlNhOA?oc=5",
-        "headline": "MB는 채권 시장에서 뛰어난 특별 거래 회원사 그룹에 합류했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/05 20:08",
-        "published_ts": 1791198505.0,
-        "tag": null,
-        "first_seen": 1791204323.9598684
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Bek5CT3lybHBqaHIwVHk0QzZtUExCc3hiMHNhS2VOaUd2RzVQX2Jad0JaWFR0ZzJIR0RkSVNkdmk5NUQ1cTh4aWRRTDQ3a2Z2dTQxRjVXZFNNclVWQlHSAWNBVV95cUxNaTZ5cDd3eXk3WmZlc19LTkF6ZnMzVmJpWmdXNUNSeUR4WWp6cDg5WEVqM09Ib1dPeFhEZm1KZ0htZlk4X3FOanFwcGtLczQxLWRDV2pXZTFZMTkwdDZnYVlvMzQ?oc=5",
+        "headline": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장'",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/06 15:08",
+        "published_ts": 1791266914.0,
+        "tag": "JGB",
+        "first_seen": 1791268239.166293
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94a1JlS2Q2THJrSTN5bTQwOTFsMFdEWUprVmN5VlZ6OE9yTzctLTkyQlhURVdlYzJ5aWIySV9mNVp6MXdGVWZPeXJPd0JzMk1WNG9vUU1fQjJXT2c?oc=5",
         "headline": "기술주 강세에도 안심은 이르다…금리·중동 변수에 ‘촉각’ [글로벌 레이더]",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791229480.0,
         "tag": "JGB",
         "first_seen": 1791229839.0763767
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOOU55eHFQV1k4UnNVdWdOZ28zV2o5NmNZeXdIR2gzLVdoN0hPU2JYcWxjSzBpTlZubmF4OVVoajBZU1F4MTBSUGoxSVJ3U2lPWGlUS3NSQjB5eWNrZ2RobnlCYmhOc3d5VHJUUHQ0WVBodGlVMkdITi1ZcWxDYllLVHkwSTlBVEpWYVRjaTBJSkFXdjdiM3ZidlpIalJmLWlCYndKbHZWYS1seXVidWtkT0h0bkNiOFE?oc=5",
-        "headline": "FX weekly forecast: Euro selloff accelerates amid mounting French debt crisis",
-        "summary": "",
-        "source": "TorFX News",
-        "published": "10/06 04:43",
-        "published_ts": 1791229411.0,
-        "tag": "Global",
-        "first_seen": 1791241234.7367322
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 15:15:51",
+  "updated_at": "2026-10-06 15:31:00",
   "yields": [
     {
       "label": "3년",
