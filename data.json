@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdGtSaURhb21jRGJYbS1CcGQzd2NKeWh2eGt3U2FoLU1QR3lGcTVSOWUtSGctWUd1NnI0Q0pXb19QZnVzMExpOF9YaHBKSm1JYWFwTVNfQTZBQ2Q5emJ5MWt1dVRIeklZd0lZaDFDc0ZQTWI5c2pERGZSWjBtaW5NdXN5djgwY2d6YzFRNVhPcnpwSk8zMlpneVIzSzZKdw?oc=5",
+        "headline": "일본 국채 수익률이 사상 최고치를 경신하면서 일본은행과 정부의 정책 운용 여지가 줄어들었다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/06 08:38",
+        "published_ts": 1791243490.0,
+        "tag": "JGB",
+        "first_seen": 1791244835.643288
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42aUg5YUlRdjFJOHNXOTRhWXRmV0hUb3lwelQwbnRJckRwRENnTDhPQnRkQjVkVTFTZC1YNVk2TTRXcWI5M1F1TzJ0b21Mekh1aUJSTU1POXN6b3pJQTZhUWgwZ0ZseXJHMnFGOUtsX2xOVTQtTUVTTmVfQUowUUE?oc=5",
         "headline": "‘Bond King’ issues stunning warning to stock market investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791213700.0,
         "tag": "Global",
         "first_seen": 1791214231.793997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMmFPajlvQUZaSWVTRkdRWldEcG8za3lkcDhqbi1Ud1dudG5HaXpscV80ajM3Zy1abU5yeE1GVXdlcjczN01BSExCb0FDa3g5UDhFWmMxRWMzaEMyNjhtd2NsQXBmRzFHUXZEVzI1YVVOUmVJUkV3cTFfSWZibVRGd0dyZ2ZyS3N2d0xTelVn?oc=5",
-        "headline": "U.S. Treasury Yields Surge to 32-Year High as Allies Turn Net Sellers",
-        "summary": "",
-        "source": "조선일보",
-        "published": "10/06 00:17",
-        "published_ts": 1791213431.0,
-        "tag": "JGB",
-        "first_seen": 1791217830.974145
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 08:45:51",
+  "updated_at": "2026-10-06 09:00:57",
   "yields": [
     {
       "label": "3년",
