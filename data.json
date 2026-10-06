@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMEVDc2JHanVEZzhZUnZRelBYQkhCZU9yT2hhaHZUazBqTzhwUE9vcmdWeE1FQnZBaER4eThfN2xrSDJMenAxMnlUWGhEbV9xR282SEphNVpNTDFMZUQ0YWVsQWRObDBaZDdtX1dEdGJsbVBKWWdDM1hUbE1nUUtJOWU1Y2Y3RE1S?oc=5",
+        "headline": "\"30년만 최고치\"… 日 10년 국채 표면금리 연 3.1%",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "10/07 04:40",
+        "published_ts": 1791315600.0,
+        "tag": "JGB",
+        "first_seen": 1791315923.3888292
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZzU1Z01heWhwUWt4dEQ4Q2l3ZjFiMnp1d0pjTFY1ZG9ycFl1LUk5Nll4MzNnODFDNEREaGptMk51d3JScEdDempjTGhBNUplejRpemdtX2JVcHVaOTg4UjF1NXh3eFZyTVF3RWhhX3RQOWxPc3B3eWx1dzFzZkZvYmZaZHp3YS1Kc0ZrQlBWejRjQQ?oc=5",
         "headline": "Jamie Dimon Says AI Boom Is Competing With Government Borrowing for Capital: ‘Rates Are Going Up’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791287723.0,
         "tag": "Global",
         "first_seen": 1791311429.7666717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVozSEJHakJnS0gtbVY0OUk2aFZRWmx5RDBHblJwUmVVQjdIYlNiZkZPUHE3U3JaanEteFVpOFQtdG83VU5KWDJtMUxxYzRWWGFZVjV3dWhQeFdCdThybVB6RmtUMXhZYU04MWNfS2FFdzRjTzJUTGJCZFNZaEpFNg?oc=5",
-        "headline": "‘Too much risk:’ Pimco’s Bill Gross says you shouldn’t own bonds now — aside from one key Treasury play",
-        "summary": "",
-        "source": "Currently.com",
-        "published": "10/06 20:45",
-        "published_ts": 1791287100.0,
-        "tag": "Strategist",
-        "first_seen": 1791288035.1568727
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 04:30:55",
+  "updated_at": "2026-10-07 04:45:51",
   "yields": [
     {
       "label": "3년",
