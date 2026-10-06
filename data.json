@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5CX0t5SG41SlRmbk0yc3JKSElueFMzZ3Rmejh4a0RGVC1zMTlxeE1lSTh5YXFqdmxZa1p3UlFJaXliRVNyZU1seVZYMUc5TzQ3cHpXZVozV0Q3VzNCSGNKZFVJaUx4Mm4y0gFuQVVfeXFMTU1nTC1RLVBvQXRSd2N2OG1rRHpUYl9sd21iN3pNM0tOWEQ0cnJKY2MwX1ZHRWlraTJ6ZHRNU2pJMWRMbUltaXFINDZhU21QTnFORmRiNzlzS1N0SkRKU2tTV3poSkhSdncwWVE2b1E?oc=5",
+        "headline": "전쟁·고물가 뚫은 실적 기대…S&P·나스닥 쌍끌이 사상 최고[뉴욕마감]",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/07 06:07",
+        "published_ts": 1791320843.0,
+        "tag": null,
+        "first_seen": 1791324032.4697294
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5qdXBZRzJFTld6V3lNdFN6aFBnN3h6ZWFBZS1GenpQSjE3elk2T0RMaHU0aGZmUi1TaURESVFSd2V3Nk1QYXRWY0wyRUNyTzMxNHFjQUlNLWo4blMySGlFVWt1X1FuOFczSmhIcko4TGJyUQ?oc=5",
         "headline": "국채선물, 佛 우려 완화 속 미 국채 강세에 상승…10년물 24틱↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791246464.0,
         "tag": null,
         "first_seen": 1791251124.9528353
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnNEp3eF9OTDd6VDhXR2pNZzRuQXZHU1VoSWtmRHBaVkx0X3JsZHBaMDVnZEVjX24wa3dDbEM0SWJfQnlYZlpqdjV2RmpTM0ZjZlplWU5BankyQ1FtamRMaA?oc=5",
-        "headline": "뉴욕증시, 국채금리 오름세에도 기술주 강세에↑…나스닥, 역대 최고치",
-        "summary": "",
-        "source": "시사뉴스",
-        "published": "10/06 09:13",
-        "published_ts": 1791245622.0,
-        "tag": null,
-        "first_seen": 1791248434.2698169
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 06:45:44",
+  "updated_at": "2026-10-07 07:00:57",
   "yields": [
     {
       "label": "3년",
