@@ -1218,6 +1218,26 @@
         "first_seen": 1791253828.3403134
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SLS1ja1dmQy0xT21vekNDOF9RZTZDZzh0TG5lQktCYjhWbU1qaTZYMUlSWFN2UEFHWXRvd01xTXlPaXJod2JveTg2Rnp5TnM?oc=5",
+        "headline": "李대통령 \"농어촌 소득 안전망 확대…상생기금 1조 적립할 것\"",
+        "summary": "",
+        "source": "v.daum.net",
+        "published": "10/06 10:38",
+        "published_ts": 1791250702.0,
+        "tag": null,
+        "first_seen": 1791254725.9133575
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UdXBwV0IxN01sTXYwTHQ5ajh5bS0yNFk1WGhIa3h3dWREanhHN3FscklSdTRvZ0NWeER0c1BDT0VHcURuQTlZYWFCSzZWTkRUSzQyVS1KVjFrZw?oc=5",
+        "headline": "佛 국채에 몰려든 헤지펀드 ‘비명’…르펜 돌풍에 베팅 꼬였다",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/06 10:31",
+        "published_ts": 1791250293.0,
+        "tag": null,
+        "first_seen": 1791254725.9133575
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5sNHZWOUFiN2gwWGNoMXp5VDRjb0Z5T2lOQTBvSlEycWhfeE50WTNncFpFZ3p5aEJNdGtOSkdjcXREUkRlcHpVNThLX05TMFZJc0s5UW9tUlZaNS1PbzQ5dVVlTlpxZUxwVEdFQ3pxcFRxUQ?oc=5",
         "headline": "[노현우의 채권분석] 다음 상대는 부동산…또 금리 꺼낸 대통령",
         "summary": "",
@@ -1586,26 +1606,6 @@
         "published_ts": 1790671798.0,
         "tag": null,
         "first_seen": 1790679633.4743395
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE04elZiMjBncVF3WEJoV0NIWk1SbFlMNUNsaWgwT2x0RHBLUzk0WW1zUDFGM0RDck9TRFlJZVJSbzlSdmlPNVo1VVhEeDlPWEhwLWZXNms5WC1ybEFaNW4yNkwwSjlLMkVpczlZ0gFvQVVfeXFMT2dZckVPV3cwSTYxTkJDQlBBN2h5WWlJNDBLdmV4Q2F0VzJBcjFfRzA3eE5VcnhMaFZhU3NjUmlPSWNiaDU5T1RYMUlFOWxoeW53eVlCSlFoWlQxZzZYUWNpZi11eDVsT09JUkVUYWVV?oc=5",
-        "headline": "떡 주무르듯 '미래대응기금' 쓰는 이재명 \"명절 지원금 1조로 늘려라\"",
-        "summary": "",
-        "source": "펜앤마이크",
-        "published": "09/29 17:35",
-        "published_ts": 1790670919.0,
-        "tag": null,
-        "first_seen": 1790672435.3741019
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPNnRBeE1uVkxOOERfdHZQaGNtak0yQmdIZWhrZ0dVcW5rcXNTRFlvbkQwTFhfVW1pd0tYa1VONkJhb2VTd2l4eWxla201TnAxcVZQbGU3MEV5VjVHSkdkUEVyQ1VfQzhKZnJfclJkemlGOUwyU2RtbXBXVFJFWkpDXw?oc=5",
-        "headline": "미래 투자용 기금서 명절 할인비를?…李 한마디에 ‘쌈짓돈' 논란 증폭",
-        "summary": "",
-        "source": "edaily.co.kr",
-        "published": "09/29 17:04",
-        "published_ts": 1790669040.0,
-        "tag": null,
-        "first_seen": 1790669724.8678067
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 11:30:52",
+  "updated_at": "2026-10-06 11:45:47",
   "yields": [
     {
       "label": "3년",
