@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOSWpabzFBbVhyYU9QOVJPMlFDTk0zQUwxZVFWWVZlb1FhWm1NTzBxa1N6RXgteHJxOEx6ZzNiLWMtR01VZFhhMFZPX0JFNXY1U3llSmZySUtHTzNLX1diS2xGMS1aWDkyMTM2aS0yc21fS0hhUWZ1LTMyc294U1k4UFd0OXVIbnVtRHByU3Z6WnNMMW8zUy1TeEh3MHBnaXZ5ZjdQZTVzOTNRSE4zWG5lWHc0U2J5ZVp2SGFwQWJMX1NmX3MyRmpaYm5ZbHRtN1EyVU85LVVBVV9hVVYxdmdlNi1tTFVCZGs?oc=5",
+        "headline": "US Dollar Gains as Capital Flees Europe. Forecast as of 06.10.2026",
+        "summary": "",
+        "source": "LiteFinance",
+        "published": "10/06 20:06",
+        "published_ts": 1791284785.0,
+        "tag": "Global",
+        "first_seen": 1791285324.5037918
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9GQm1HR3J6cFZ0ME80ZVc2MEYwTmtiMEVLVGtvNnNSbWRTaFo0RndNaTFnWDI0VG1RczBWc1c4UG1kU3Q0VFZoMDlRV2pUVlVtX2RlQVZIcVBCeVMzRjdYQThBX3RHanlKSklCT2ZiemV1ZVhB?oc=5",
+        "headline": "Investors Warn of Growing Risks in US Debt and Stock Markets",
+        "summary": "",
+        "source": "SuaraGarut.ID",
+        "published": "10/06 19:55",
+        "published_ts": 1791284113.0,
+        "tag": "Strategist",
+        "first_seen": 1791285324.5037918
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcUwwWEl3QXZfaUxJSjJLeWM2aDdoRHE3ZFZPbnVrNHlBWUVwd3pwTHRpbHlLMjNtTlNKeXBYSWY1RDlQUlhHRW5SZkpfdnhuZVVHWg?oc=5",
         "headline": "Tokyo Shares Surge as Bond Auction Calms Rate Fears",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791259235.0,
         "tag": "JGB",
         "first_seen": 1791282632.0490146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWENILTVDQkJJdHJJODAzSk5vdXdQNndwMHMxSE1pNVI0RnpQT3M3Q21NMXdQOURwR0ExeV9xVHExMjhKa3ItRXZRLVhCTVRjT3hJc3dvYlBwQ1phWEx6R3B1RDlnTHVLRzVIMDQ2cGFLdFZKRlVjdFJVQjFfYXdFR01lNnc?oc=5",
-        "headline": "Surge in borrowing costs hits corporate America",
-        "summary": "",
-        "source": "ft.com",
-        "published": "10/06 13:00",
-        "published_ts": 1791259217.0,
-        "tag": "Global",
-        "first_seen": 1791275430.4271362
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzY3cld1TEZsNGhYUEJ3X1hpVkxZdmhGeGZaZDFTMHoycWxNeTFYRTAyLUx5emZQNy05VXNrMlhEY1BDNGJ1b2ZVWFRlQVpidTFnbG5RbXpqT2RSUFlUdTFFcXNJY1I5Zm82TlRxbVNmQlBCaVl4OUV5M21BNjdOUk1wWHluZVpPZkR4cEVLX1p2UWFvT1JJQVRMVm1YT1hNMWRWRlVVSVRJNmZMWmQwQg?oc=5",
-        "headline": "Ray Dalio Warns China, Japan May Pull Back From US Treasuries",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/06 12:46",
-        "published_ts": 1791258360.0,
-        "tag": "Strategist",
-        "first_seen": 1791261031.9439654
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 20:00:56",
+  "updated_at": "2026-10-06 20:15:53",
   "yields": [
     {
       "label": "3년",
