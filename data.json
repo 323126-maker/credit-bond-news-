@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11T08ycnM1cXZfbHNVcS1QeG92cTNlUEg2UFRpMHpQRUkwNXJqZllnSUdzRGdzTEdKa3JsanRpQ1llMnBUS21ma0NHb01ZXzhIOER0Z005YkZleDA?oc=5",
+        "headline": "국고채 금리, 대외금리 연동하며 혼조세…3년물 3.933%(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/06 17:18",
+        "published_ts": 1791274696.0,
+        "tag": null,
+        "first_seen": 1791275430.4271362
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lTm12U1c1eHhoMS1KNVd1a2o5bDU1OFdaMnZaT05uOGR5LTdKU280YlFhN2RhdDB0ZmZkWVhUOU5DSzNXMjAyUEZ2SVpqNWt5b3A4NlJqVWttaHNpWHROOEV0cy01TGNCSGJuX1RwMjQ0dVl0?oc=5",
+        "headline": "무디스, 두산밥캣 등급전망 ‘긍정적’ 상향…그룹 신용부담 완화",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/06 17:17",
+        "published_ts": 1791274620.0,
+        "tag": null,
+        "first_seen": 1791275430.4271362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80VUYyVERsMDhGZE82UDdfZElPWjFKU0JNWWZLZktMaUFkTk9CV2VDWmtoTl9kYUlTUFI2Y2NrUjY4b0xheXlqRVNDd0RXQmZIdF9zZXV4aE4wNG1USHpkMnBjc08zalRKWnltN3BiWVFqamfSAXdBVV95cUxPejdiMUx3TzM0b21VazFiQXRONVRMam9yaExaUXp0aHFaTGR6WDhSMnJDX1FGNWtPOExjVkYtRjlicG1EN0JzUVlhZUR0RnhVMmpFU1NUMDNwam00N3h3bFVjSmhjUzFKTHdnVEsza0FVNTRLZGs1cw?oc=5",
         "headline": "국고채 금리 혼조… 3년물 3.933%, 10년물은 4.369%",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1791217236.0,
         "tag": null,
         "first_seen": 1791217830.974145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUWJpQjgxdmJPeS02bXpQMGRtTS0wRnk0UWR1SlJPOFNtY0RzZEZTNHR6ZDQxTmZKNDQyOXhHck9RaFVxdVVfc3Fadm5BYVhuOXVMUEFlaU9jYTdyb2pfc2ViT1JsRk51UGRtOGQ4RUppcE1OUlFlQ2VpVktqN0NJSE45UmhSdHdK?oc=5",
-        "headline": "Wells Fargo Stock Rises as Morgan Stanley Upgrades Shares to Overweight",
-        "summary": "",
-        "source": "tikr.com",
-        "published": "10/05 23:03",
-        "published_ts": 1791209031.0,
-        "tag": null,
-        "first_seen": 1791209723.0464938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zQk1xQXA2QkNrVEdaWjF4dVNyb19YQmh1OUlnTDN4dTFJNnFrLWpSdFI1X2tiUEFQc3lEY19kU1lVaUVWM1BqSy1HajVTMUlGTjF5Mmpva05KeVdGLXhKbFNlcXI0dDBickprMG9mSzk?oc=5",
-        "headline": "S&P, 나이키 신용등급 ’A’로 강등…중국 부진·실적 회복 지연 영향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/05 22:08",
-        "published_ts": 1791205680.0,
-        "tag": null,
-        "first_seen": 1791206125.9853532
       }
     ],
     "perpetual": [
@@ -1830,6 +1830,16 @@
         "first_seen": 1791263722.8402343
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWENILTVDQkJJdHJJODAzSk5vdXdQNndwMHMxSE1pNVI0RnpQT3M3Q21NMXdQOURwR0ExeV9xVHExMjhKa3ItRXZRLVhCTVRjT3hJc3dvYlBwQ1phWEx6R3B1RDlnTHVLRzVIMDQ2cGFLdFZKRlVjdFJVQjFfYXdFR01lNnc?oc=5",
+        "headline": "Surge in borrowing costs hits corporate America",
+        "summary": "",
+        "source": "ft.com",
+        "published": "10/06 13:00",
+        "published_ts": 1791259217.0,
+        "tag": "Global",
+        "first_seen": 1791275430.4271362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbzY3cld1TEZsNGhYUEJ3X1hpVkxZdmhGeGZaZDFTMHoycWxNeTFYRTAyLUx5emZQNy05VXNrMlhEY1BDNGJ1b2ZVWFRlQVpidTFnbG5RbXpqT2RSUFlUdTFFcXNJY1I5Zm82TlRxbVNmQlBCaVl4OUV5M21BNjdOUk1wWHluZVpPZkR4cEVLX1p2UWFvT1JJQVRMVm1YT1hNMWRWRlVVSVRJNmZMWmQwQg?oc=5",
         "headline": "Ray Dalio Warns China, Japan May Pull Back From US Treasuries",
         "summary": "",
@@ -1868,6 +1878,16 @@
         "published_ts": 1791254131.0,
         "tag": "Fed",
         "first_seen": 1791264630.9014096
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZzdVdzAtWWdKdXpnZ1NWakh5c0xsb0dfenh5OHBDeGxMWW5TaTVZd0ZDVkMzUlNIbGVmTXlNVG1rR0lyclFuVFJST281bzRqbUlBcDZ0U1hIRTIxVzM0Ynlsb25WWHo0ckJFYW1QVXVKUW1rQndFSGZNV2tmNFZmSjZaZ3hwRjNrLUE?oc=5",
+        "headline": "‘Bond King’ issues stunning warning to stock market investors",
+        "summary": "",
+        "source": "Yahoo Finance Singapore",
+        "published": "10/06 11:33",
+        "published_ts": 1791253980.0,
+        "tag": "Strategist",
+        "first_seen": 1791275430.4271362
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODE4YW5GMHJxOHh6MEpzRTlpQ1V6VkpsX0RSME9sM1p3RFIzU3dBbFJScjY4bTAzM0pRT2ZvVFNBMVU1QmpDNklnaXFHTTRFa2NNd0NmWG0yRGU5N2NDelRPUWl5LWF4WXhadDM4ZV9OWmNaVktxLV95S0hoa3VQZGF0VExid3VidGlmZ1lZYjUyX2dmTE1xaU1BODBjLTJJUkRJMg?oc=5",
@@ -1918,6 +1938,16 @@
         "published_ts": 1791251825.0,
         "tag": "JGB",
         "first_seen": 1791257427.8102024
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5LVWNHSDl3U2ZzODIyXzBMTHNWWUVTeFZrc1hfcjV5UDItVkhyVnJJeVlrNWVCZUlRaFdjS0k1eW1VUjVSUTUyZVRzNXJ3VjJtdWZjM0tERlMwVVlLVHJIQzkxVEoxZGxQeFZkMWh4cHpmNV91bmc?oc=5",
+        "headline": "Treasury Futures Harbor a Technical Flashpoint: 30-Year Yield Nearing 6% Could Trigger Chain-Reaction Selling",
+        "summary": "",
+        "source": "finance.biggo.com",
+        "published": "10/06 10:55",
+        "published_ts": 1791251700.0,
+        "tag": "Fed",
+        "first_seen": 1791275430.4271362
       },
       {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOX0xuQWY4S3pYd3NLV2FMeWhzN3pMVnptQURqRDZkTENZU3ZibDdIMFdqUURlU2pBbzRZd3owcml6eHpXWlo0TG9XWHZDRDctMXloeVlDUEFwOGhqX0xHaUtyc3ZxeGhUUndEQjhnVktFa2xLVVB1WTBNM1oxSFRycFpGRXg?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1791246862.0,
         "tag": "Fed",
         "first_seen": 1791261031.9439654
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMW1QNVZBdmk1Y0JHNTE5bnNpMWFSNHBaRS1lcENTcHVINlpMdkFHQ2JOTWVKSm5QMXhnTUNtN1hlTlpiY2Y4QVd2dnVpNzhQRlh4b1dUSFlwR1Q4R21nU3hMWVJCNGFFOXp2SmRxZFphT2VpeGpLSVA2ZFFEam1SeUJTVFAtWTdOeDJ3S1pLUndTT0RnZFMzODN0Y1lPd3VTUXluMGVJU1hYUQ?oc=5",
-        "headline": "Europe's Fiscal Strains Become New Fuse for U.S. Bond Selloff",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "10/06 09:31",
-        "published_ts": 1791246709.0,
-        "tag": "Global",
-        "first_seen": 1791253828.3403134
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JZjVla1VuN3VyLThORmNhU3lQdmlCaUpydVBtMjB1cy1WcGUyVFM5QU9UVWV6NjVCd0hrUDZlS0pMbDNSRW1jcDVJRGxMRjk5WFY0WkZxSlBoeU1sa3RSS2RlWExXWnJl?oc=5",
-        "headline": "[CEO인사이트] 미 국채금리 5% 돌파…'고금리 뉴노멀' 현실화",
-        "summary": "",
-        "source": "매일경제TV",
-        "published": "10/06 09:31",
-        "published_ts": 1791246660.0,
-        "tag": "JGB",
-        "first_seen": 1791274525.0007448
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hV1dzSnI4eHR6T042cXdTYTdvbDBJRkRBWjBadFNKMGhuZ29sakFTaVVwWkFBNXl6cy1ocWh1YW5mMXU3ell3QnhaaWpITHBjY2REWGFrZ05rQ21RVXRPWVFkVHlnakpkNXdj?oc=5",
-        "headline": "[CEO인사이트] 금리를 움직이는 4인의 이력…월가 출신부터 세계적 경제학자까지",
-        "summary": "",
-        "source": "매일경제TV",
-        "published": "10/06 09:31",
-        "published_ts": 1791246660.0,
-        "tag": "JGB",
-        "first_seen": 1791263722.8402343
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 17:15:45",
+  "updated_at": "2026-10-06 17:30:54",
   "yields": [
     {
       "label": "3년",
