@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSVozSEJHakJnS0gtbVY0OUk2aFZRWmx5RDBHblJwUmVVQjdIYlNiZkZPUHE3U3JaanEteFVpOFQtdG83VU5KWDJtMUxxYzRWWGFZVjV3dWhQeFdCdThybVB6RmtUMXhZYU04MWNfS2FFdzRjTzJUTGJCZFNZaEpFNg?oc=5",
+        "headline": "‘Too much risk:’ Pimco’s Bill Gross says you shouldn’t own bonds now — aside from one key Treasury play",
+        "summary": "",
+        "source": "Currently.com",
+        "published": "10/06 20:45",
+        "published_ts": 1791287100.0,
+        "tag": "Strategist",
+        "first_seen": 1791288035.1568727
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5DNkZ2OV9UYi03aFp6TkFVS3g2SEU1TEhUWEU0d3NTbmlJRWxVdU1RZ0ZCTDhGc1cySmhOcENOdGNCQ25COW1objRxdXFQVFQ4Tkh1cW5USGd6MVllVzVDY0s2blk?oc=5",
+        "headline": "Crypto News | Bitcoin Price Targets 2026 Open at $87,570 as Bond Yields and Fed Minutes Take Focus",
+        "summary": "",
+        "source": "Binance",
+        "published": "10/06 20:43",
+        "published_ts": 1791286989.0,
+        "tag": "Fed",
+        "first_seen": 1791288035.1568727
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSjlUWkRrdmNiT2l6bkxyR3gzTGNEdF90U1RyRTJXZjZCS1E1cnJmYjBOdW54TEowb1Boc3VtenRtWXExN1M3d2dWc3dLZ1FpaDJrWENNWm5QbjdtS2ppNnFkQU9BY2lOdU1Jbk9KbDZxOGJIbVlmTTduSVVOdFFTeUVfMXd1M2xRZ2JtUXItZ1lXTWFFVDhLZklPMmcwSHZKM191M2dTYUwxT25kelVhcDR3UDZWMG9pSkE?oc=5",
         "headline": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet : Crypto Daily",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791264300.0,
         "tag": "JGB",
         "first_seen": 1791265522.8519814
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORnVzdjA3OGVFYUIyTlhsRUdfVG1VMDdiTW1nUkpKakNHbGllVldoNC04RE56TVdBLU1jS1VSLWwwekNjX19HQlBNRkRrZzdINXpJSS1USU00WGE0dUNybXVZUGJpNjZST1lqQlhZb2RFZk5FeWRkcy11WXlnRDB0a19UUmhrSVdKQW5IU0ZFZzdsVWZ0SkdKanlrREVEVjlQNnA5cQ?oc=5",
-        "headline": "Stocks Edge Up to Near Record, Bonds Extend Slide",
-        "summary": "",
-        "source": "Energy Connects",
-        "published": "10/06 14:12",
-        "published_ts": 1791263528.0,
-        "tag": "Strategist",
-        "first_seen": 1791264630.9014096
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRVdKUHZrTFpfNTdPdEowdkMtUE9MXy12dERzQ2stRktGVTVCcjQ0ZjU5QmFlRlBabjAtUjcwNXhwZVluQ2JkaXFxdFlLYzhLdnR5Nmh2c0NpZWlrWDJLN3l2QkZjamRTTUhyd2s2T2pOcXRpX2V3UFNKdXlmV0ltNy10YVBpazhVWjlZS3ZhU1RheGxfcXpkV1ZxeUhPS21DVUw0M2E5V0I2NmpSdXJGbHJpTQ?oc=5",
-        "headline": "JGB yield rises despite 30-year-high coupon as rates add to fiscal fears",
-        "summary": "",
-        "source": "Nikkei Asia",
-        "published": "10/06 14:11",
-        "published_ts": 1791263460.0,
-        "tag": "JGB",
-        "first_seen": 1791274525.0007448
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 20:45:46",
+  "updated_at": "2026-10-06 21:01:00",
   "yields": [
     {
       "label": "3년",
