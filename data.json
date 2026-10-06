@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbVVJOTN2U3lqbFlpc0RhZ0pDenZ5N0t5dU00LVhtSUpSRjNhRE5PZjNpZXR0RVNxTEpDTkV6VVFEX1ZFQmNPSjZR?oc=5",
+        "headline": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장' > 시애틀 뉴스/핫이슈",
+        "summary": "",
+        "source": "SeattleN",
+        "published": "10/07 01:09",
+        "published_ts": 1791302972.0,
+        "tag": "JGB",
+        "first_seen": 1791307830.1026564
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOTRoTTBNVHJEc0JWYVFVYzVJNEFBRVpESXp0NGxaUXdHaWotR0xaTE9rbFNEY3FTRXQ5OHljUjFtZGtvYlBGTVFwMzViVklBbEt0dVRTeU40RGJaMllHSGRheDRNTFlmYm1WQ0tITnZ2Q0RYUTFobzFVMVFyX0VTRzVBSGJzREhJRThoTENoWFJZcnRHc2JjN0lULUc2SUVRZkE?oc=5",
         "headline": "Pressure mounts in the U.S. high-yield bond market! Spreads on CCC-rated and lower bonds have risen to 12%, hitting a near four-year high as credit market risks accelerate.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791284113.0,
         "tag": "Strategist",
         "first_seen": 1791285324.5037918
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EcUwwWEl3QXZfaUxJSjJLeWM2aDdoRHE3ZFZPbnVrNHlBWUVwd3pwTHRpbHlLMjNtTlNKeXBYSWY1RDlQUlhHRW5SZkpfdnhuZVVHWg?oc=5",
-        "headline": "Tokyo Shares Surge as Bond Auction Calms Rate Fears",
-        "summary": "",
-        "source": "News On Japan",
-        "published": "10/06 19:29",
-        "published_ts": 1791282578.0,
-        "tag": "JGB",
-        "first_seen": 1791283523.2093868
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 02:15:45",
+  "updated_at": "2026-10-07 02:30:55",
   "yields": [
     {
       "label": "3년",
