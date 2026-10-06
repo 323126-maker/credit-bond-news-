@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCdXhkTDRqUkZTU3JUazZidXBpT0FwdW1SZ2pMZXlERXNac3hndWRZUXZUZWVrZlFFN2FRejhzYXR0QWt5LXZnVnVfcDRoaUpzVnZIUTJmMUt2UENYc29VYUJTWXFuNTNPelE?oc=5",
+        "headline": "이 대통령 \"농어촌 상생기금 1조원 이상 조성…퍼주기·재정낭비 아냐\"",
+        "summary": "",
+        "source": "hidomin.com",
+        "published": "10/06 11:49",
+        "published_ts": 1791254970.0,
+        "tag": null,
+        "first_seen": 1791260122.3117366
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBXU2xrUXJTc2lVZ09GaURGWmJjNHBiWS1IWmlVdW1EdXBZUjR4a0NkVnoyWDhrQTRleFFGU0dkTXkwOFZ5bF9VT0pTTFNkeXhxUG5BUkpFRmRiZEFyMGxsSVoxNlJGd3Y3Vjd2VdIBcEFVX3lxTFA3el95WVgzQm5QdnA0OXpJSkQ2RUp1dHpzeUN2dVRtTE1HUTgzYTZPeF80cEdrbk9jV283dW9qMmw0TTEyUFl4X1E1Q2F1QnpoWm5lOXdNX1lzT3I0ZXdQQVRocFFOWXVaZHN1ZkF6eW0?oc=5",
         "headline": "李 대통령 \"농어촌 상생협력기금 1조원 채울 것\"…내년 2천억 투입",
         "summary": "",
@@ -1596,19 +1606,29 @@
         "published_ts": 1790730191.0,
         "tag": null,
         "first_seen": 1790738126.5717192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0wVUZDVkNwQ19GNDJhODdycURpZmh2bHMxQTNnU29MZWhzcFlQUnRQR3F1OU5RUEJ3YTNha1RKTjVmU09mTEVBZjVseFF5NlVOMlByUlBoTDFORG9lb1dGNWJUTENXX3M2UnJRWA?oc=5",
-        "headline": "[뉴욕증시포커스] 장기금리 급등에 이틀째 하락…30년물 24년 만에 최고",
-        "summary": "",
-        "source": "굿모닝경제",
-        "published": "09/30 09:35",
-        "published_ts": 1790728503.0,
-        "tag": null,
-        "first_seen": 1790772323.5670485
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQR1h5ZHVXWHAwQW5ZRmtESUc1NmItYnJmT2dqQmhiVDBLMUVGTExBYy1GenRkUDJLUXNiQ19oMkYwWWtGeEJKRk9kY2llVzFhMkc0SnFKTTZacVVtNk5MZGowODRVdHhUbWhKeHktV1k2MmVnbFVqbXJkSTBDaC0wd2NvcE55c0xGX1I4ZEhZWVA2OFlGQXhoTnozdWxuUHA0eEVhcWhiQXBRb0xtM190ZzZ5NXd1bzBCZUtRWVNBWkVDLUY2d3pfYnh1U2FSYXNiLUpoWVJTT05nMTEzY2NJeDVuNjJ1QXBjQ0lMeWR0c0xtaUNHWVNHc2NjbS1sUQ?oc=5",
+        "headline": "Dow, S&P 500, Nasdaq Futures Edge Higher After Nasdaq Climbs To Record High: SPCX, USAR, CEG, NVAX Stocks In Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/06 11:45",
+        "published_ts": 1791254700.0,
+        "tag": "Strategist",
+        "first_seen": 1791260122.3117366
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQODE4YW5GMHJxOHh6MEpzRTlpQ1V6VkpsX0RSME9sM1p3RFIzU3dBbFJScjY4bTAzM0pRT2ZvVFNBMVU1QmpDNklnaXFHTTRFa2NNd0NmWG0yRGU5N2NDelRPUWl5LWF4WXhadDM4ZV9OWmNaVktxLV95S0hoa3VQZGF0VExid3VidGlmZ1lZYjUyX2dmTE1xaU1BODBjLTJJUkRJMg?oc=5",
+        "headline": "Japan Yield Gains as Takaichi Vows Fiscal Expansion",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/06 11:29",
+        "published_ts": 1791253740.0,
+        "tag": "JGB",
+        "first_seen": 1791260122.3117366
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15T2syZGRfWTBfZjRseVRHOFNvQmRFT1JDa3l5N0dqZDNkekwwX2FQQ2pzLTkwZHBRakhMTDNGU0IxQ0JldWQ4YjVNZDdvVUQ3RDBRRFhDRDBSU1Axc3JCd1dMM3RPMWdZWlRlQWQzV2Q1QQ?oc=5",
         "headline": "대외금리 연동 속 국내 선방…국고 3년 1.4bp↑",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791219574.0,
         "tag": "Strategist",
         "first_seen": 1791221432.7955518
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSW8tdzhxUnJpM3FJMlNxNVNTeGh3eGFONUo1OXlwOUpuTlRxa1JSYi1IajBORU5VUzAxbm5XTFdnaC1RQnhDSlE0akRnN1BZRkc1TDdMdTc2SGhrRk01amNQeUxlSFpFLXRpZUlGTUM4WVpqVFRBQkdFT09GM1NjRG1aMm5FVkM0VnZmY0VOR1RSY3BXZGVyVms4RmFUbW5FbVdRMmZ3X243ZUdTQjhIVWhyMA?oc=5",
-        "headline": "DOJ Says It Won’t Reopen Criminal Investigation Into Former Fed Chair Powell",
-        "summary": "",
-        "source": "cutoday.info",
-        "published": "10/06 01:58",
-        "published_ts": 1791219514.0,
-        "tag": "Fed",
-        "first_seen": 1791231944.9610631
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMEpMTWpKYlQ2MGh4RnJERndRMkEtQWg3MXBzck1hM3htSUNmb0pBYUdQRjRzRzZ1ODNQRjZudTlTc2lxV3lzdWlXOUNJNVFsTjc5cDNXQUNrd0g5TllHUFVoZ0R2aDhCbHFxdVF2MUFScFJfc2Z6QkluUmE3NWg0WEtYMGJrQ1dtZ1MxRzRBXzFfZENiTVhqUmJmT0VEaklsUlFLWW9qMF9BVDhfMVZ6RjlLaU5HMkZtdjhOVUF4dXV1eVZDaW1EM2lmTDhPYmU4?oc=5",
-        "headline": "Is the bond sell-off getting stretched? JPMorgan sees room for an equity rebound",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "10/06 01:44",
-        "published_ts": 1791218697.0,
-        "tag": "Global",
-        "first_seen": 1791235250.166722
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-06 13:00:57",
+  "updated_at": "2026-10-06 13:15:45",
   "yields": [
     {
       "label": "3년",
