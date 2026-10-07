@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5NZmRrV0tqUDgxQ3pSaGFmQ2lxWndXY2dEei1RbFhYQUttSnJmSUEwX3paa2pUXzRSb0UwVGQyRFBKR0VBNV9tSTRBWW9yTnV4U1hKQXk0dDVVZE42aEVpRGRibw?oc=5",
+        "headline": "이 대통령 “태양광·풍력·이차전지 키워야 한다면 직접 보조금 가능”",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "10/07 20:35",
+        "published_ts": 1791372944.0,
+        "tag": null,
+        "first_seen": 1791373526.01834
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zZGJjbkZJWHFhTzNMQllPek1QdjE2dUJmOHZ2SFVkRm00Y2dBNjVEWGFyd3FLcFlCWmJvMVBvMDhzQ1F5cW1fdlRleHVjY1FBbkFYaExpMVczYUt1ZEItakVDNHBvWFppVDdfMVU0MlpNdWRo?oc=5",
         "headline": "10년간 1000조 투자해 ‘녹색 대전환’",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1790975280.0,
         "tag": null,
         "first_seen": 1790994628.0215495
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTkdaMUREVk1Bd0toMmd6M2M4QUJZbFEzbHRtUkhHczBIVDdNVlpIUkZtaUFpWm9pU2hZSEhLSDYxNC13Z3pmRHBSNlc2SVliN1NtMjhrLUU3RThZb0tzRGpPQWEtS2FBb0RLeG9KWUZlX0RaV25SSHNmRGQxNGNiM1FuSDl0ODJQQ2xFZUtnanZRb3dHYkJTS3FfVmdTVU9VVHNjOUdLUndISXhIblozRUcwVDExVUJKQ3p6RkJPMVdOV1l2YVE?oc=5",
-        "headline": "궁금한 규칙을 찾아가는 리즈 프로모션 확률 도움말 색인",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/03 02:50",
-        "published_ts": 1790963454.0,
-        "tag": null,
-        "first_seen": 1790971233.2188754
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdDVSUm5zMHZPUUk2aW9BSGIzZ1kzMnVsNFdqaHViMWVpSnVQOVRWZ2dDVUFLZVRpNVg4Mk5kalp1WnpyeHhlSFpCWVIyNGt5dmE4NTIwT183S0VTcHBkbm1CV2FEWEg0R1pyemFoTUNtZ0xuOTY3ajI4dHU0S3NlWmZ6ODVvVzVWVC1PSWI3YmhlMzJNTVByMXZhM0V4MDRYek9nc0tIUXBWWnpDa2J3bEdwN3N0REN4Tmo2X25pdGhBU3FVaHBvN2RpT2l0dW85OEE?oc=5",
+        "headline": "RBI hikes repo rate by 25 bps to 5.5%; debt fund managers favor accrual over aggressive duration",
+        "summary": "",
+        "source": "Cafemutual",
+        "published": "10/07 19:55",
+        "published_ts": 1791370555.0,
+        "tag": "Global",
+        "first_seen": 1791373526.01834
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUs5X3lGSk85WThoOHVLNTdBTzRDX3ctdzdGSVBNdmJlTU5MYTItQmpUYkZGQkhUU2hSRzFzeHBob1hVWmRXbUlfc3Z3LUgxT2pxdXl0emx3a29JSWtxcTg1b0RFS202WWFaemhFaVhfd0F0SnF4SlpJQ0JVREs1SEhPR29jT2lETVN0T0RCS1hlRUVQQW8tdWtad2ZNUQ?oc=5",
         "headline": "Weak Jobs, Strong Gold? Is It Really That Straightforward?",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791338216.0,
         "tag": "JGB",
         "first_seen": 1791353723.062104
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBrU3JwSTdGS2lnSjgxS1ZCWUE0elFTTkNhZGN3NVFKRnk4QjVpS3k5ZHpZQ01sUmlrZVQxNGliS0JGeDBZN2FYTVNBRElzY2FHbkQxamdOQlltOWctY3A4VjV3M1l4UTBtdWRPX3lvTTg?oc=5",
-        "headline": "JP모건 다이먼 회장, 기업 신용 경색에 대한 경고 수위 높여",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/07 10:46",
-        "published_ts": 1791337604.0,
-        "tag": "Strategist",
-        "first_seen": 1791369030.5750263
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 20:30:57",
+  "updated_at": "2026-10-07 20:45:52",
   "yields": [
     {
       "label": "3년",
