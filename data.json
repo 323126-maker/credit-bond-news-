@@ -1248,6 +1248,16 @@
         "first_seen": 1791368123.2551377
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90RlJVdlNIeHNwNnp1VHExMmJvcGFYU2lFdTF6UmtkSUlqcU1BZi10TXAtaHFqUjJsamZpUlJFZmp5cEk4Q19mZWF2dw?oc=5",
+        "headline": "발언하는 이형일 부총리 겸 재정경제부 장관",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/07 15:45",
+        "published_ts": 1791355511.0,
+        "tag": null,
+        "first_seen": 1791378039.3818994
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qdWxxWWRlUnJYRVRuVHVkYmVhWU5VS0ozVVlhN1RmazZ3ZDhTeUd1TG9IYi1Da04xM2ZQWVo5NHUwVFhGYmF6OWlaX3lJbVZqaDdOTXpwT191WDU1b05QUjY4VExNRWFNNmRKUtIBbEFVX3lxTE1qdWxxWWRlUnJYRVRuVHVkYmVhWU5VS0ozVVlhN1RmazZ3ZDhTeUd1TG9IYi1Da04xM2ZQWVo5NHUwVFhGYmF6OWlaX3lJbVZqaDdOTXpwT191WDU1b05QUjY4VExNRWFNNmRKUg?oc=5",
         "headline": "李대통령 “녹색시장의 설계자이자 선도자 돼야”…1000조 ‘K-GX’ 엔진 켰다",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1790979120.0,
         "tag": null,
         "first_seen": 1791051323.429202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBhVWxVSGd4LUQzWWFWazViWGdvR3hMbXFlSTh2VUlrZkJlbkdtRFBBM0xiTHJSQ2NiLWE1V05ENmw4Z3FlOUxn?oc=5",
-        "headline": "국민의힘, 장동혁·정점식 지도부 이재명정권 안보·민생 총체적 실정 정조준",
-        "summary": "",
-        "source": "breaknews.com",
-        "published": "10/03 06:08",
-        "published_ts": 1790975280.0,
-        "tag": null,
-        "first_seen": 1790994628.0215495
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9tRm9FUTNCNmUxV2VGOHFJOXBsb0dpT0J3aV9ITDJDbkJSc0ZhdWJzSXp6RUw5eE9LVlJIWGxHQmN1Z1lMTU9pRE1zbkRwUThPcWp6a3FZUjhHTmEwQkpQcFBvZWxoa1E20gFuQVVfeXFMTTI4Z3YtanlPcHRZUjZYX29ubGd1a2t2YzhiX1U0UkxRUThHbnB4NzdxUmZXVk4zVVVfbnkxdE44amgzUmsxdzFoT1ZVOGs0MEVNekl5WkFZY1NtdU1PSDFZYjhqTi1XOFJ5SmVGZmc?oc=5",
+        "headline": "IMF총재 \"고유가·공공부채·AI 투자가 경제 위협\"…물가안정 주문",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/07 21:54",
+        "published_ts": 1791377668.0,
+        "tag": "JGB",
+        "first_seen": 1791378039.3818994
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVVhXbHUzUU5KM0pVX3lqcDcwSS0xVXNna0JHQXpMRE9nTGkxSFVQbWw1VmNqZXJoTHFwQS0xdHNsMXdUbmlPSHBwZnZNWERxbFhIT2EtRF9SWDV0UDRCZGVrTi05d3M5eGRmZmVTd0xEeUhiVS1tNDIyVHVveWliNHRYMThOUWF1Sm5lOEtsMkQwbC1SZzE2Um40U0pIeVhQeGplOFQ2NlJGZ0c1T0hCbEdpRUZmcnZOVldtOUtlTG9acVBpZDl6V3Rxa1RlcTQ?oc=5",
         "headline": "Tech companies tap debt, equity to fund AI and cloud expansion",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791343659.0,
         "tag": "Fed",
         "first_seen": 1791350122.1945355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1rWEwwcFIySy1GUTd0TTZ5cm5NVzN2VzQ4LXJMcEFQVWVZNWsxejB2blZhY1QyclhQT28tUklLMFpPa1liUU9XSzQyelJjRE1GSWtCbnpuOFFFa2JCUXM3eHQwUUVsdi1o?oc=5",
-        "headline": "France at centre of global bond market storm",
-        "summary": "",
-        "source": "World Socialist Web Site",
-        "published": "10/07 11:41",
-        "published_ts": 1791340906.0,
-        "tag": "Global",
-        "first_seen": 1791351921.8012574
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 21:45:48",
+  "updated_at": "2026-10-07 22:01:06",
   "yields": [
     {
       "label": "3년",
