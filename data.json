@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1CYmZhaTNQdHlDdFhERG4zQkpHUFZtaVhPWmlOZkRoWWtXeUNhNzhlOWtrVTJnU1ZJNUFRZWM5b0NmVzRGbmFXX3ZXOTZ2T3ZZeXgtZjRMVEM2T1ZrT1o1RkRqWE41d0huVUxad3d6WXU?oc=5",
+        "headline": "[외환-마감] '强달러·外人 주식 팔자'에도 강한 오퍼…1,340원선 안팎",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/07 18:29",
+        "published_ts": 1791365369.0,
+        "tag": null,
+        "first_seen": 1791366323.3242106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vOXB1bm0xcU5WbFBpMXlJWWVRTFIwa0VfazRmUEppTTNsSmVyNGFsXzl6OXRaOUJDYk9iTmxIM2J4Z1Y5MkVNX2k4cW1XTkpqUEJxS2FlenhKbHl6bkVQTnJXdndaeXY5dG9WXw?oc=5",
         "headline": "무디스, SK이노베이션 등급전망 ‘안정적’ 상향…“순차입금 감소 지속”",
         "summary": "",
@@ -30,6 +40,16 @@
         "published_ts": 1791361859.0,
         "tag": null,
         "first_seen": 1791362722.7640903
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVRwQlJWS2dJSHd5M1RvRUJXeE91dkRseGdNYVl5LWNzQXotTHFHTlJfcFJyay15ek4tSVd5cHlOcmNwUmR3Rm94TVBmOW9YMGRCMDJUc2ZlY3BLZHdEOHJIUlpNY1R1enItUHRObjdBZWlSUTFXTlVZWHVONzBXOUN3?oc=5",
+        "headline": "무디스는 ABBank의 신용등급을 B2에서 B1으로 상향 조정했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/07 17:23",
+        "published_ts": 1791361415.0,
+        "tag": null,
+        "first_seen": 1791366323.3242106
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11bkw4ZTQ0em1hak83NDZjMmNwblgxblNXQWExS1lFQ0c1X3lYNDdmVUdEY3M4NklWMk1OMFdlaEFqbktXaXFJZFVTRHd6elduZlA3QXdQLVdhNkE?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1791287583.0,
         "tag": null,
         "first_seen": 1791327599.0862932
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSjRIZ3hnQ2hiUXVOZW9hVENGU2NXelQ0SVhFWFNmUGpSTS1kaXF3MHlqNWV2OTVDNUt1TE84clpDOGplN2VHWEk3b01DS2lXbk1UVmZ4TkdheUZVR21WVVVuRExvbmNNN2JGMy1UNDTSAXRBVV95cUxObVozVnlTRW94TmNDWmdoMHRZNWlxbEcyeEFIQTVCRndmUUJfWHVhY21ITkxZbXAwZFBaMkpSemlIcGJsdnB5RWEwaEhMdlA1SFI3b3JidDJnQnlWZ19keUl0UDFCU3FBZmZQY095SkwwN3VmLQ?oc=5",
-        "headline": "프랑스 국채 금리, 일제히 줄하락…10년물 9.54bp↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/06 19:26",
-        "published_ts": 1791282384.0,
-        "tag": null,
-        "first_seen": 1791283523.2093868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBBa2JGNWFoLWpWY0VRSDk0WXMxT2tFejRUY3JuV0h2dVc0cUNsMXVWYmZ6OHYwTF9IUk15alg4U09JLVQ4QWhpU0taenkxTHY3NEN4SVBvQjYtbVg5Qm15TmJHRWN0YnFtUFYzSW5FMUk?oc=5",
-        "headline": "[亞증시-종합] 반도체 강세에 일제히 상승…中 휴장",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/06 19:23",
-        "published_ts": 1791282225.0,
-        "tag": null,
-        "first_seen": 1791282632.0490146
       }
     ],
     "perpetual": [
@@ -846,6 +846,16 @@
         "first_seen": 1791351029.182795
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQRS1RVmxSVXg4LUpDTFA4ZjFSSUg3WWY1SWk0dUd4czhXbUNPcmNUYkJQaGc4OGIyM25WeXh2MFpMVXhPOV8yejdDZkJSTTNKUWRHNEl0MEM1ZUhMYXZrX08wcE10aWRTSHVjUEIzMWtCZVpUek9hTUJJdXBOdXRLY3phVHZkbW82RFFaWkpXYmZWNkVLRzZGQVNNM3MtaTJhTmR5TGtxb09MeWwwS3VDM1BqMWhZOUJaS0ZZ?oc=5",
+        "headline": "특수 기능의 이름보다 중요한 토토리세계명작 종이 발동 조건",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/07 13:22",
+        "published_ts": 1791346953.0,
+        "tag": null,
+        "first_seen": 1791366323.3242106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5UeGI3RUYwVGlhclJHRFE1Nkh5ck81UmUwUVE2RlhfVC03X2VGVTZSU2pKSFdHZTVQelNKb0ZxMm9NX1ROQklmcUtwclFFQzUzc1hzdlpEUXI1NGtFeVlzeFBSWUN1Tk1nTWc5SFJ2YjM1Wi11?oc=5",
         "headline": "일반 화면에 없는 버튼이 나타났다면? 침 맞고 통증",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791160478.0,
         "tag": null,
         "first_seen": 1791191724.9261677
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ib3hPTjdrbTlmNTEwSGlqQVlVSl9KekIzX05ET0kxQWlYZDZMUEpWczlYRS1uQUN6RHBpUVB4SWdKTldZbmZ3VERmRnlaaTV4emRVWHk0bnZxUTFZaUpYLdIBeEFVX3lxTE1BQzZSRl8xUTdQVjlJLXVpdUp6dFV3ZFJyLW9reEZzQldocnNnOGIzUmk1MTNfQUJYcHVMZjkwZjBnYVM2ZUd5YUNRaV9ZWDZqby01OFdfV1VVQkd0TVU1RU9IN0Z2a1k4c3FTZ1Z2M1pjQTJqQ2JoaQ?oc=5",
-        "headline": "주담대 금리도 '들썩'…한은 추가 인상에 이자 더 오르나[금리 쇼크③]",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/05 08:00",
-        "published_ts": 1791154800.0,
-        "tag": null,
-        "first_seen": 1791155721.9473135
       }
     ],
     "politics": [
@@ -1630,6 +1630,26 @@
         "first_seen": 1791363634.9026525
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vMjhjVjk0MVVEN19aeVZoUVN6ZzFfeUxDMGVZN0JJeGJHU3RPeTNzMDZPeGUtbUZvcVFhVW9yY2tnQmo0Z3psVlZnMXVfRUJ5SW96X0QzQjQzcjFU?oc=5",
+        "headline": "IMF Chief Concerned about High Japan, U.S. Long-Term Rates",
+        "summary": "",
+        "source": "nippon.com",
+        "published": "10/07 17:30",
+        "published_ts": 1791361822.0,
+        "tag": "JGB",
+        "first_seen": 1791366323.3242106
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+        "headline": "Market Movers blog: S&P 500 and Nasdaq hit record highs as AI stocks ignore debt fears",
+        "summary": "",
+        "source": "Investment Week",
+        "published": "10/07 16:47",
+        "published_ts": 1791359255.0,
+        "tag": "Global",
+        "first_seen": 1791366323.3242106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQM3g1ZTlIVkdOLTl2M1dPRUdZTVhQV0xfbHNlUWF3N0IwY2pMdjJVZnl1Q0ZtTnplWnRLS1I3WEFRbmZhQzBfWGMtUnAtNVFJT2dwMEFLaS1kRE5tbDlHeFpIUzFJUDJHbF93?oc=5",
         "headline": "ain카지노 기본 조작에 필요한 버튼",
         "summary": "",
@@ -1638,6 +1658,16 @@
         "published_ts": 1791356947.0,
         "tag": "Fed",
         "first_seen": 1791362933.46218
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVXExdzdYOGU5YkdYTUozcks4dFZnUFhDUE5OTVF2enJOZkVQOC1DRXFfUzdKNV9zcTl0a1NXbnBhbjBBZy0wN2s2OGp5VE5IR3RZWkZfQkxYU1lBQ1dmYnI3LXJrRlRueDRSbkpaU21ONC0wUm5XWF9teHpTMHhVWUpJSGRmUFRJZ0RvZHRyTmtkUQ?oc=5",
+        "headline": "Where can investors find value in a changing bond market?",
+        "summary": "",
+        "source": "Professional Adviser",
+        "published": "10/07 16:07",
+        "published_ts": 1791356830.0,
+        "tag": "Global",
+        "first_seen": 1791366323.3242106
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VVE5VSW0zQjNjVnFSMXFGd0JfcTczUDVYTDhGbGNvUXB0ak1mVl9aSmdhYVR2SnRxWXdfX1VJbTRfengtZEJyMmx0a3FKTmpEamtPeE9xS211VHY3VGE0VzBzYTZKcmZmOTFQRFNn?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1791326314.0,
         "tag": "Global",
         "first_seen": 1791354631.8689678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LMGRWdFRJUDR1WW5vMlFsV2xvNkp1S05wSWJ3YVJUeDgwMTF5Z0dnWTFBVEIyNVVVN0dJTnhmQjFWVjFMR255RUIyYzlHRFhfTTl0SHFDbHZ6bkc3NlBIamNaTUpSQ1FOWkVGenJGYWZwUS1BSXc?oc=5",
-        "headline": "[1007개장체크] 美 증시, 국채금리 하락 속에 상승…나스닥 사상 최고치 경신",
-        "summary": "",
-        "source": "인포스탁데일리",
-        "published": "10/07 07:36",
-        "published_ts": 1791326204.0,
-        "tag": "JGB",
-        "first_seen": 1791337524.5298715
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBwdFVOUGUwalFqWWE0LVlsTnRpNWI0bTBDQ0hoNzlDS3lOeUJKcFpldHE0c0NOSTFhc0daOUw2eFhPTl9HamZYYWVlaklSTUlJcDJlaERRaUjSAVhBVV95cUxQcHRVTlBlMGpRallhNC1ZbE50aTViNG0wQ0NIaDc5Q0t5TnlCSnBaZXRxNHNDTkkxYXNHWjlMNnhYT05fR2pmWGFlZWpJUk1JSXAyZWhEUWlI?oc=5",
-        "headline": "[부자들의 투자노트] JP모건 다이먼 美국채금리 더 오를 수도",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "10/07 07:01",
-        "published_ts": 1791324060.0,
-        "tag": "Strategist",
-        "first_seen": 1791332127.2474203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWHA0SmstQ1FmQ1VJVjUzOXNXRnRqMjAwNG1MdzlLQ25LejdRVS1hUlBMS3NTZW1TSjBRcW16aTExRU5rbHhPanhoTUdMczJOX2t1Z0ZHUjJVZUNDM01qeV9vNFROUTNhdmk0MXdmSEEtNkphT1F4Vy1FSm5DN0Fhc2ZVZDNncTBtYWtOYzE3SjQ3VTk3THRseFlDc2E?oc=5",
-        "headline": "The Bond Market Is Now a Geopolitical Actor",
-        "summary": "",
-        "source": "Modern Diplomacy",
-        "published": "10/07 07:00",
-        "published_ts": 1791324035.0,
-        "tag": "Global",
-        "first_seen": 1791325827.9407926
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 18:38:26",
+  "updated_at": "2026-10-07 18:45:44",
   "yields": [
     {
       "label": "3년",
