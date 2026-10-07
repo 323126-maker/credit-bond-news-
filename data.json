@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX3N2TFVvNnE3eVpzTDhuZ2t6S0ZOTGhuejBjSUdzSy1hWTQ5dm5jMmdhSmZIa05hWnlmUHlXUEJjRUFFM0lGUG81TTQ0XzVieDhacVhjYUNJTVhCekF5YmhfaTlGRGRVY2x5NlhKSXdnTXlVSzR6bVl2ZVMzY1pmQ3pQTWlLcTA3MnJ5Z2ZR?oc=5",
+        "headline": "STMicroelectronics NV (STM) 주식 움직였습니다 하락 5.04%에 10월7일: 변동 원인",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "10/08 02:16",
+        "published_ts": 1791393373.0,
+        "tag": null,
+        "first_seen": 1791398724.2027316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UOWw0OWZGS1EyQzBmOTR0NEtzOGl2cm5IaWdsN2xwcjJhZXVyMmhWZGM4bUxreTVJX3BRSkI0OTZ2R2xmTUd5eGZvVTFWdUpVX1BQTkR6QkxvVFhoTElBU1ZWcmRuVEZOZmc?oc=5",
         "headline": "[오늘의 경제뉴스] AI 해킹의 진짜 위험...금융시장 동시 마비 '금융패닉'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791317991.0,
         "tag": null,
         "first_seen": 1791318629.5305429
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92TnlqRWRTRm9OY1VVWk0tSXdOX0tRMHhTYlJ4S25aYk9ka2RfaHBUVXgxQU5mY21WUkxqUHBwcEZma2puY0hybkJhODFvRWJ6ZnZGZllDanI1QlAzT2tGLVdfUTZrLWRtb2Rxam9QbEvSAXRBVV95cUxQZzZobWtDS1BLSmtzTkUxUEMweTZ6ajRIb0FNVzVxVkhYRVlKNzk0VW9PR2p1ekVsMmhBR3FYTnNDTldZNExVYzU2d0FnVmpYNFI0clhFdC1kb1BhaHhLT0F5eFJOZDhTQTVqVUlidThYX1NxdQ?oc=5",
-        "headline": "[뉴욕증시-1보] 기술주·우량주 동반 강세…S&P500 최고치 경신",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/07 05:11",
-        "published_ts": 1791317501.0,
-        "tag": null,
-        "first_seen": 1791330323.7231677
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,56 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaTE5adkwxTkp4OXBxSE14X2FUYkNsZmtkeFJFUE12NFFSMGRDUnk1MkluZXpMUDc4TDJaOU5fOW9kRDl5Rm9nazBPcVNVS0NLb1AzR2NuNVcyOE4tcjFjZzNDaGg0NFhPXzBDMzJZVXFvRkNVMnZHc3hIdnEzZw?oc=5",
+        "headline": "Whalen, Ryding, Levy Agree Bond Selloff Driving Rate Hikes Now: Disgree On Next Steps",
+        "summary": "",
+        "source": "Kathleen Hays Presents: Central Bank Central",
+        "published": "10/08 03:38",
+        "published_ts": 1791398298.0,
+        "tag": "Fed",
+        "first_seen": 1791398724.2027316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNFNIeHE3VjVOQWZEUG04azVHZ1FJZk5wN1ZPaGE1bFhTRG5Oejl4YlMtb0pOdk13M1BibHlnb2h1UlZVZ2dnY3JYS0QzWUliM1BTLUdPYmtOVWFCeW5qOVluTWpfZm5FMmZHWDZIUUg5ZkNrVmlsdl8wN0JoQ1J4cjlMX2JCSUF6YXRjb0V6b2R0TVNDeUxVc1VKUzN3SGE2TkJGYk8wUFNVcEhvMUtiYUphR0lGQTRleW1obnpWWm1TZw?oc=5",
+        "headline": "Market Outlook: Rising bond yields put cash returns in focus",
+        "summary": "",
+        "source": "BNN Bloomberg",
+        "published": "10/08 03:34",
+        "published_ts": 1791398090.0,
+        "tag": "Global",
+        "first_seen": 1791398724.2027316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1YMlA2bG5CYS1MbGxWZE5Ja1EyRllGTFU4aVlscndFU09MSEhJNGRPVVZONllkb3ZSa29vMHNkaERCYjgzZjVieHMyMVVyQVZjRHhWTlJ2Q2NjeV9DM3F4cVdtc0xMR3c?oc=5",
+        "headline": "Fed officials feared inflation pressures could spread, minutes show",
+        "summary": "",
+        "source": "Axios",
+        "published": "10/08 03:34",
+        "published_ts": 1791398057.0,
+        "tag": "Fed",
+        "first_seen": 1791398724.2027316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FQTc2NFdoSDVVZFgzY2lncEgzTnhtVDE4X21vQjNpWDdnc1hvWXpUWUtCY3R1UV9rZU53cHRKN2dtSWJFNnFzRmotSjVsNFpacFh0aGRUSjc2M1pL?oc=5",
+        "headline": "트럼프 \"연준 이사회, 나라가 잘못되길 바라는 것 같다\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/08 03:30",
+        "published_ts": 1791397800.0,
+        "tag": "Fed",
+        "first_seen": 1791398724.2027316
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPM2M3ZjBmVDVpR1M3eE9qYWtmRHRKNWsxT0FnNGtOdHFzVXZYS0Q0N1ZYeWo3MTl2SkVSMllDSFhZTzJVS0ZvU2FDTmlUTVVfQzJXTHRPb2lUcElLc3JWUGZCZjBfQ3Rxa3M5c0Nnc28yX25NR1BybUFtTWdEUTB3NlBpS0FjdnBvaDgtZGdxaDJHVUZrakNncUJmeVNWSlZSMW9kV3dzQnJOWHE1TG5HdmQ2T04?oc=5",
+        "headline": "Fed Minutes Show Officials Saw More Work to Do to Quell Inflation",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "10/08 03:25",
+        "published_ts": 1791397557.0,
+        "tag": "Fed",
+        "first_seen": 1791398724.2027316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtdnVVdEY5UTFpYlpOY1BaWGw1VThOUWVDYlpuOFpxYlFuZXpXQ0Nsak5EeXpBeWpyWFI2Qzk3a2JfLWh1ZmltNmtTREp2U2VUZGVJeHVmd0dpWTFLTUZHd3ZwS0tTZGp3aEZjT3N3bGdCcU1aRDVNMDRjZExOR2c?oc=5",
         "headline": "Fed minutes: Another rate hike likely coming this year to combat persistent inflation",
         "summary": "",
@@ -1690,6 +1740,16 @@
         "first_seen": 1791388836.7568994
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZUwxWllNS1pOd3QyU1N1SXNKRExZYWU2U2V2SXdRZkIxNTJ5NEFjNlRPMmlScW9sQUFMdzl3STlMN09oRzNqc0tPNGJVWnJ3b2hUa3NNWFN6MFRjSHJQODFZTFh4a1BMczhIU3JqY0xwUGlDRHEtUWxYbFJuXy1MbTk4ZGtHcFNnQjZ4V2d6UFc3VDNFTmtOOVlVTUhLeGRjOG1GbUp3VjFpUVBBSDdUOA?oc=5",
+        "headline": "Investors pick new darlings and duds as selloff rocks Europe's bond market",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/08 00:32",
+        "published_ts": 1791387169.0,
+        "tag": "Global",
+        "first_seen": 1791398724.2027316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdEZtdnYxcHc0al8zNkFsZlVIYTJrSWYzTml2ZThOWmUxX2pSV2xTSTc2a0tLRVJicmRqdlNUVzFFTVVpaVBoWjNWb3pWVk5kSmtXc3FtdVZqemtDQkJVZjVPMS1sUGhfcnVHYkNuYmNyOVNBYnVJbnI2MGczTEJUTzNxLUhlUnhueG9tT1czTnEyS3NJZVhGdDdCck8wVlBNTkpRdXVYck8?oc=5",
         "headline": "JPMorgan just put a different spin on the stock market selloff",
         "summary": "",
@@ -1748,6 +1808,16 @@
         "published_ts": 1791380453.0,
         "tag": "Strategist",
         "first_seen": 1791395123.696351
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FQXV0QTcxendLd09Ha0Z2OENNTTgxeE5NNlM3YXpxTnNsM1ZReEE1ZE1tVTJHbHZ3QmxZaVBrbTNGYzlKT2UyZEUxZmR6eWZERUZfTlhwdS1weWJJOXBpNzczTjl3ZVRVN1V1dU44dGEtb2NGWlNfZVMyTkJocmM?oc=5",
+        "headline": "Ray Dalio warns AI bubble is nearing a breaking point as debt and rates rise",
+        "summary": "",
+        "source": "Yahoo Finance UK",
+        "published": "10/07 22:30",
+        "published_ts": 1791379800.0,
+        "tag": "Strategist",
+        "first_seen": 1791398724.2027316
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1GNG1BeS1DOC1UX0NRQ1lXTU40dFp6dU15UU8yV2ZFbmJ4Ml9CMURpanJ3SXhCMFNpaGRnTlo1MW90LWsxSmwxeGVSWVp5X2drSHJwMGUyLVBxUThtTWhHUXZCN0hyUm1oNVlfVw?oc=5",
@@ -1870,6 +1940,16 @@
         "first_seen": 1791379829.8199604
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUnB0RXNPbWVXZEl5bnBHc0tkRFFOT1Jub1FRSEdSZHlkU0FuVTQtX1VMZF9aXzhtSGVRRHNwY0tINnlvclFBWjdwVjhrYmZaWEwzVlNKXzVzbXUtc0hJeUs4eGdYOVZ6N0J3bjFWTjNiSnVBX3VJN1Zrd2tmbWpqVHY4WlZJdWlBYWJYdXROMnhUVDd4S3BNTw?oc=5",
+        "headline": "Do Rising Bond Yields Signal a Crash? (Part 1)",
+        "summary": "",
+        "source": "FX News Group",
+        "published": "10/07 20:13",
+        "published_ts": 1791371636.0,
+        "tag": "JGB",
+        "first_seen": 1791398724.2027316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB4aEJwVDg4dnc0bmJEQmF6YjlobUhGc3JyYU9qc3JjUXU3ekJ2RzZoeWVCejIyUnVjdFRiWG5UakhtNzhTM2pKRjhucDNORE0wdUZxUWJUOUptYVdjeFE?oc=5",
         "headline": "Trump on interest rate increase and confidence in Fed Chair Kevin Warsh",
         "summary": "",
@@ -1926,86 +2006,6 @@
         "source": "Calgary Roughnecks",
         "published": "10/07 19:43",
         "published_ts": 1791369795.0,
-        "tag": "Strategist",
-        "first_seen": 1791378924.0498
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObUs5X3lGSk85WThoOHVLNTdBTzRDX3ctdzdGSVBNdmJlTU5MYTItQmpUYkZGQkhUU2hSRzFzeHBob1hVWmRXbUlfc3Z3LUgxT2pxdXl0emx3a29JSWtxcTg1b0RFS202WWFaemhFaVhfd0F0SnF4SlpJQ0JVREs1SEhPR29jT2lETVN0T0RCS1hlRUVQQW8tdWtad2ZNUQ?oc=5",
-        "headline": "Weak Jobs, Strong Gold? Is It Really That Straightforward?",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "10/07 19:42",
-        "published_ts": 1791369770.0,
-        "tag": "Fed",
-        "first_seen": 1791369922.7906785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOb1o3eUNaUjB3OWZRTHBPNHVoeURtMFZxLWZPLXdfYmFKNFFNV1ZjNThIZ0VzdkFxRDQ2d21jc01HaXJhcTR4MndKRFMxWllaT3hDWWVrcnUtYlRLZ2lBR1JxcVdfeTQ0UXdVZjVscDNYOFRFX3BiWmNtUVU4dl9EUm9XYUg3d0Jad0s5eU9yMGpLeGk2LW83MnpPYkxzNWFIUGVvYU9SWU1wU0JXaVJ2NmI5MEdtb0Raa3FiVGZvWmN3dkUwUWtnZVE1LWM2X0o3YzV5Q3dVakxUZXA0N013MmNST3dxc0dHZWtxQzlIc25OZw?oc=5",
-        "headline": "Ray Dalio Reportedly Warns AI Bubble Is ‘Close’ To Bursting As Rising Rates Test Debt-Fueled Spending",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/07 19:38",
-        "published_ts": 1791369491.0,
-        "tag": "Strategist",
-        "first_seen": 1791370837.2838237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96cWZnRWlkTGUyTmtkdTQ5ZzlhRkppUWR2ajVDamJhS1pxaVdJLXBEUkEwRjNKNlJCUVNiMm9JdFIzam9LTl9WNHJ6MDI1Ylo5aUltZHZ5Z3JZMVNlcFduR1k2aHpIWEtSVnhCTWR30gFuQVVfeXFMT3pxZmdFaWRMZTJOa2R1NDlnOWFGSmlRZHZqNUNqYmFLWnFpV0ktcERSQTBGM0o2UkJRU2Iyb0l0UjNqb0tOX1Y0cnowMjViWjlpSW1kdnlnclkxU2VwV25HWTZoekhYS1JWeEJNZHc?oc=5",
-        "headline": "달리오 \"AI는 전형적인 거품…터질 시점 가까워\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "10/07 19:20",
-        "published_ts": 1791368430.0,
-        "tag": "Strategist",
-        "first_seen": 1791397830.7641664
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE43UHdwVGxJM1FNUVR1VXFwc3dDNHdidlpNeGJQbUpZTUpGX0lMUEQ0ME82MXpPRUo4aGVHTTVwTTVvM0pSdVZUbWtPV0o5QTFPclJBdjdlRXdyS1ppSmhFZWh6SmRVU2I5dW1HMkMtS0twdUhRT0JWU0RlamVBQQ?oc=5",
-        "headline": "IMF chief concerned about high Japan and U.S. long-term rates",
-        "summary": "",
-        "source": "The Japan Times",
-        "published": "10/07 19:20",
-        "published_ts": 1791368400.0,
-        "tag": "JGB",
-        "first_seen": 1791396036.4499662
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQM2lZbG1FbXQ1bjdZNHM0VkZXWDliSHVUa09rNW96aTBfS3pMWGRoZjdpZnBVV0Y3aXVTTWVVWFlqM2QxV0hCTnNiLUZIbWYxWldWMEhUMlVQd3NxZlRBSHVtbG9CWHhCdHNrSWhYZHRibUQxTmlOS2drUm5WcEhHMlBxb2VHS2ZSYm9GVnM4YmZTLURROU9NdW4tYU9ONElOVjA3QXZ3ZEdETUNKdFZzRTdJOFJWLTIxNGV3YjcyeDZ6UkNKYllCZ2x0NzJkeVljTmtrdktoMGdYSV83NDcwMG5oTEVUUl9nb2VvQXpyTWlFY3RPbTRaR0lubzN1a29J?oc=5",
-        "headline": "Cramer Says Bessent Is \"Plugging The Dike With A Finger.\" And Has Already Admitted He Can't Control What's Coming In The Bond Market",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "10/07 19:14",
-        "published_ts": 1791368040.0,
-        "tag": "Strategist",
-        "first_seen": 1791369030.5750263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaFdleVVLSGdCQUlSODJ0bVFmdlh3cl9WZFFrUG5oUHhxdGNTMUlKUW1QaDBfVXAwd2FLaE0yYk9nb1lNcGY2Z0twTXNweEtEV203X09TTUR3ai1fellVelpWUHlEWWRUYW9oVTByX0ttLXl5b1I0ZjRyQm9ZVFBldFVLR0Z3UVRScGI2b2NuVC1pblU3dzJtd1JnNHY0M1Y0SlE?oc=5",
-        "headline": "Fed minutes could detail rate-hike decision, policy path",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/07 19:08",
-        "published_ts": 1791367730.0,
-        "tag": "Fed",
-        "first_seen": 1791368123.2551377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPLXVVbWc0eUVHdXQ4RF94QUUzY3hrTnVJM2wxd2o1Y29Rd3g1UExqWlNXSlJNTDRCMUgzUjNJYWFRb3RLX3JFV0gxWFlzZEoyV010eW16bDA3dWdMSU9ybkgyS2NnVzJPSlo3T3R4aGJkQWc2SlpaWDZCclFCQ3oydzRtNVJvSW02Uk5hNkpaYTlpeUc1U0JCTU96SDlJbXlRTzE3SEpJLU1YRlM0QWp3Xw?oc=5",
-        "headline": "Fed’s Warsh Earns IMF Praise for Focusing on Price Stability",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/07 18:49",
-        "published_ts": 1791366540.0,
-        "tag": "Fed",
-        "first_seen": 1791369030.5750263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBPZHdLNXNwb01fLXI0ZlpoS3J6YVRjWEcteFppOTdnMUpEWWtpMWtUMzZzaVF0eDFiRjZXRndzU2w1djFQVGgtR2pzUVItUVNSWjdJNWpTN0EwNEFwUVVfZnM1UmxHaWwtRXZuNFdYLXczNVoxTmY4?oc=5",
-        "headline": "토토 거래내역 연령 제한과 이용 가능 지역 안내",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/07 18:46",
-        "published_ts": 1791366371.0,
         "tag": "Strategist",
         "first_seen": 1791378924.0498
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 03:30:57",
+  "updated_at": "2026-10-08 03:45:51",
   "yields": [
     {
       "label": "3년",
