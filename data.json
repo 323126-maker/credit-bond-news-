@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYVY2SVZ3cEpsbVl5WXR2ZGM3eHlwQ3YzTVp5dmhZcER1dEtxcWkxNHFsYjdLRHRaa1VkOTZ4Vzl2MHVjLVVkc0JnU1EyLWM2VzUxM2VfcnZicEpYTjNnaXNfZmtMVjkzMFNMTjdNajdxcDJScENZU3NDcG42Y2VQSmE1d0JOc1FDd1lvc3lJTU1vb3VrWE9vYTlRZw?oc=5",
+        "headline": "Dollar Holds Losses as Markets Await Fed Minutes, Rate Hike Cues",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "10/07 10:18",
+        "published_ts": 1791335929.0,
+        "tag": "Fed",
+        "first_seen": 1791336628.993895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWcFIwU2U1cXJUV2ZqdUx0c2NDNTNkOVRfRC1nNzMyN2RDWGJRWkctMU5KQW1mdlZxSnRWRTRuNEhBVGMxa2JEVkUwUXRDejlSSWfSAVNBVV95cUxObWZCMEVjUXg0Um1veDY4TkFXaGhReEM3RlV5M0hzd2hXbENoNDdfam9xMHJESlBDVHAyOXpKSE4taXZLV05KY0tGY3cyTDJmanJZOA?oc=5",
         "headline": "37일 내내 비 쏟아지더니 “상추가 금값”…장바구니 비상 걸린 日",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Investing.com UK",
         "published": "10/06 23:56",
         "published_ts": 1791298560.0,
-        "tag": "Strategist",
-        "first_seen": 1791298835.8048239
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBadllKM0RtbjMxTC13NVhPTHBlWndHVXVxTXIyUDNIOG1rZno1WjVuckFkekNRRDN3dXQ1cThlMHdYMUlsSHZ1ZkJVOHZ6NE12eFNPVllEWHZ2bnZESFlxZ0Y1Y0FyMzV2NHc?oc=5",
-        "headline": "JP모건 다이먼 CEO, AI로 사이버 위험 10배 증가 경고",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/06 23:54",
-        "published_ts": 1791298440.0,
         "tag": "Strategist",
         "first_seen": 1791298835.8048239
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 10:15:47",
+  "updated_at": "2026-10-07 10:30:51",
   "yields": [
     {
       "label": "3년",
