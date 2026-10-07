@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUzVsaUQ4SFNyNjRGNTNWWXhnY0RaTjM2T01STE5qX3NsRmthWklPa2ZOdVVkbW9zTU96YXAwdnNIUWMxUVl4T3BfMUEzbXpTMU02VlJ2al9WOHpuank3c3NpYTFSbm5aRHd6VXFQR2QxNzNlSjFDS3kzNmVnd2lmbmwtdlpYWFB6M3RWQw?oc=5",
+        "headline": "When Asia’s central banks turn bond vigilante on Trump",
+        "summary": "",
+        "source": "Asia Times",
+        "published": "10/07 13:19",
+        "published_ts": 1791346767.0,
+        "tag": "Global",
+        "first_seen": 1791347429.06011
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWZ1b2Q2X2J6NEp2Z2ZvdlRKVi1OVHRqOXVCdjdiX2JJblVDcDk4Zm1OVjZHSURLdXFPSTV5eDZuV2ltanFjVW5aVlZXdkQtZ3VSa0JuTTVpY3NhUGEtRFcxYXhHSnR1QWY3OVlUZHhvdFphbjBmMTF0RTB2cXRnQWYyc3F1VENVZEJ5clRfektyejQtdjhXd0kzN0ZHMGtQdElPYThPSzMtc2E3cEhES212VUNqbUFGMkpkSnFHZldVRUE3T2NLZzdEVHdSLVlPTFdnNEV5ZzRwOVU?oc=5",
         "headline": "New York State Comptroller Says Wall Street Profits Could Top $90 Billion by the End of the Year",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1791345822.0,
         "tag": "Global",
         "first_seen": 1791346523.1633487
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON2NNN1pxWmJ2RXNCTFA5Vk0wREF2cC14d2lBVGJ6R0ViQnl3X2hOTEE4Q0Y1akEyeUVSbVE0SHMwR0c4X1k2VnFoY2lmWmlhV0dTVmQ3N0hJcUlOX1lUS3dWMURPaTJWZ0E0ZDNrMWh6b3hmRThNbjNPQjZuQlpwRlU3TlZqYk9SQkRkMWdQZ1JueGJUcUhVVl9GLXdCR0dlYXgw?oc=5",
+        "headline": "Japan 10Y Yield Eases as BOJ Rate Outlook in Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/07 12:59",
+        "published_ts": 1791345540.0,
+        "tag": "JGB",
+        "first_seen": 1791347429.06011
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00UXpQRWFWSnN2ck0wYzR3dFpUVTdYT3lZZmxhWU1QRFFYbzdDYWJhRk9vbXdOX1h3bkNzYnNxZUZYaTdSS1ZRa25tQS1FT0VKMHBYNUVvNlUxanJ3cElMOC1vT0JDdjg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791306797.0,
         "tag": "JGB",
         "first_seen": 1791315030.1950264
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1tT2V0MTdPZEd0RzEwRzNLdnB3WkY0STZ3N204QklEZ2FHZ29MZ0R6SXl1d2hnamRxWHhQSFFVNVRhdG9ucFVyZEhGWWV6U1N0dkhTWG9CMmlwMWhoUi11c0lZMFByMHNnMkE0Sw?oc=5",
-        "headline": "기능 설명의 순서가 중요한 토토 1 원 인증 디시 규칙 항목",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/07 01:55",
-        "published_ts": 1791305747.0,
-        "tag": "JGB",
-        "first_seen": 1791323121.426142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBJbVVJOTN2U3lqbFlpc0RhZ0pDenZ5N0t5dU00LVhtSUpSRjNhRE5PZjNpZXR0RVNxTEpDTkV6VVFEX1ZFQmNPSjZR?oc=5",
-        "headline": "\"도쿄엔 37일째 비가 내렸다\"…日 채소 흉작·인플레 가속 '파장' > 시애틀 뉴스/핫이슈",
-        "summary": "",
-        "source": "SeattleN",
-        "published": "10/07 01:09",
-        "published_ts": 1791302972.0,
-        "tag": "JGB",
-        "first_seen": 1791307830.1026564
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-07 13:15:49",
+  "updated_at": "2026-10-07 13:30:52",
   "yields": [
     {
       "label": "3년",
