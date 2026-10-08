@@ -1640,6 +1640,16 @@
         "first_seen": 1791481521.8049803
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRbjZBYktnZmU3Y3pEZGtCQUprVkUtTk95YVVobXBfRjdXeXVna3ZUSks5VVRLN3dTdDAtMlhiR2xyRGdkOVpQSFRmYUJ6R1hKTGlZRjJMdTZhLThSMHZZYmc5V1l0c011LUc4ZXZkd1E?oc=5",
+        "headline": "The Fed's going to take its time with rate hikes",
+        "summary": "",
+        "source": "Axios",
+        "published": "10/09 00:59",
+        "published_ts": 1791475178.0,
+        "tag": "Fed",
+        "first_seen": 1791485122.7550335
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNk1RYlNDZ21IREhLOGNzblo5dW9wNVMyMzdMMXltM1hUWXJmLXY4OXFISWtCUzczR2JSWXdkbnU2Tk41QlZyRDVYLUpVYVJQaXFTN3U1NUlraVlvZkloaGc1ZVF1bnVQU2NKb21fU0p2aHlKVmZZSUEwRGtTT3ljUnJRWWNWeWJkcW1fRW1WOHRsdmlsZ1NtNThWMDBya2UxWHg2elZMMy1BZTEwZTIxTGlHc0pOejBtdDEydk5QTVc4dHlB?oc=5",
         "headline": "Bank of England's Bailey says credible budget policy is needed more than ever",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1791468157.0,
         "tag": "Strategist",
         "first_seen": 1791468925.2005532
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fdVVYOUlLZ1Y0ZVJITmxJZ3ZobGNUcDJGcGVic2RybzFYRlhueFpCX01HeW8wSG5OeFlNRURGdkVoZlp3X3hoU0NHT0JZLVBuZVR6UlJHU19sZw?oc=5",
+        "headline": "Ray Dalio Says Stocks Have Less Room as Bond Yields Rise",
+        "summary": "",
+        "source": "www.tokenpost.com",
+        "published": "10/08 22:37",
+        "published_ts": 1791466626.0,
+        "tag": "Strategist",
+        "first_seen": 1791485122.7550335
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUU9DUWRscHhGcHNEYmVFbE9aOG9xVDNveU5TUUNXNmFEbThSbW9pZGMxdjV2Z1J6SXRJbVVXRmNDTXllTFJtakpOcHBkZUpWeWY1N2VFVUZoaTVnaDhTME1ReHlyU21DZFloY1FSb01mRFZJZ1F6Q3ZaNWpMY01EY3Q5a3dhLVJjak1IWTdKT3RnNjUxcjRLX0lVQ3VlZVUzNkVwR2pZaUJ1OVhVRnk4MjJCRi1MbjhMeE9qakFHWFJ3X09ERE10bzJEYUdqSzJJXzhQdWl4SWE4YnRENFdiYXhzd1hxQQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791446820.0,
         "tag": "Global",
         "first_seen": 1791452722.9508395
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00MmxKUm1sSkJGZEdwNTRadGdMMDNXZVE3NmFfRlFVazRvYmZTMEJYdTZCeEN5V19qWmdQQmRta0JPYVJxbW5kc1VUZHNyY1ZrUWxUVlNSQnNBYk9RUjVqRNIBeEFVX3lxTE5BVHc0cnhXa0tZOW5oX05feC1HV2tOSTRvUURlZkNlRjRSbmJmSjRtYms0UE82VWt6bV9HMWhRRUUtaVZLa0JnX1pXS2hQN29IVFE3blppVmgyWENrbmprTDlVeGJZLXBVTFByNXNCeXc4NlpoTmNyNA?oc=5",
-        "headline": "美 국채금리 5.3%·中 1.7%…부동산 막힌 중국 돈, 채권으로",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/08 17:05",
-        "published_ts": 1791446720.0,
-        "tag": "JGB",
-        "first_seen": 1791447323.133443
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFVGtxS3NZRThRRlZua2V1Z1E4c0RiRUdYYUs5RmlYVXBUbDNCRlpYRnFkYWZKTnhuSWNFYmxYWnZVUlVHSDk5dkZwbDJYNzhNc1lyTXJGUQ?oc=5",
-        "headline": "10-year bond yield holds steady post-RBI rate hike, mirroring global trends",
-        "summary": "",
-        "source": "Motilal Oswal",
-        "published": "10/08 17:01",
-        "published_ts": 1791446485.0,
-        "tag": "Global",
-        "first_seen": 1791468925.2005532
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-09 03:30:59",
+  "updated_at": "2026-10-09 03:45:50",
   "yields": [
     {
       "label": "3년",
