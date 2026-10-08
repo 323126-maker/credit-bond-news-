@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ZdGRXTHo0S3J6alRKUGdQRFh3MDkteU5CbnZ5NE1fLU1aQzNzVk5HQzY3TmxCc2c2OVNSdUJVTUNKOV9ZbmZxdzBKV1dud19NbXN1TFB1em9MY3dSMTRZMEFraENTMU9kOUowM1V3?oc=5",
+        "headline": "Analysis-Japanese PM Takaichi's campaign to shed reflationist image needs substance behind the speeches",
+        "summary": "",
+        "source": "Biloxi Sun Herald",
+        "published": "10/08 14:11",
+        "published_ts": 1791436267.0,
+        "tag": "JGB",
+        "first_seen": 1791436521.225794
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTkZHYUEwWEhPZng0bEF4T21hT3pId0dJRGtyV0dEeFAtZVZnNkFRYUxiZnVUYWNIX05SNHNtVE4wX182MGJwTmRndVdMUTBEOFBibEZiblRGV1drc3lDMjVqR0h2T1lqZFk2OXRoTWNxaVhldnZPLUpxVVUzZXVsTnpiMldXQVlEMVY4RVowcmRwZUVIcjJBN293NVBKdTBreUdPSFhDNDllX2JMaGJ1bVZWOGRYcVNhNFQ3VllhTTlKQnpDX1FscEZUSzRudkx6WlpNSXE2SnVHZDl0MU5vNXRuYjdRWkthSmfSAe8BQVVfeXFMTUx3alA3RTdYb2Y1MEhGRmdMSkNJZGwzN1QtOGEzRElreFpHSnpESE4xaDllZ0w4V0g1MkVXSllSWGRoWkxMSlpNeXF2OFFIcElmZ2Jvc0xVRHprOXRZTlFwcG0walBkQnd1ZF9JRjdyQTh5NlJiZTN2ZzB0MlFqeTJUMWRDc0QtM1dvbkVxRUU3OFM1c1Q1by01NXFTdElySHR6WHAxV29Uek5CYUxrM2xYdVpSS3V5cjloeDBscFNsX3F2eFZFMUJlX1JEMmszZ1R2bzZQRnVHaXhFVm5jNHBBM0JFMDAyMW9CYzBBcGc?oc=5",
+        "headline": "Global Market: JGB yields fall as 30-year bond yield retreats from record high",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "10/08 13:45",
+        "published_ts": 1791434757.0,
+        "tag": "JGB",
+        "first_seen": 1791436521.225794
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LSVhnY2RWZGdleEdVVDQzUWVJRHdEa2ZvbkZHZDczN0ZsSU1sbW1KTDhGV0hhemt6eWZYUlRtSHdwUVVTSURSUmd6eXA4S2dxZHhfRlVUdXBuYXI5YXM5WGhlZy1KdVVxN1VkaE8ybUZaQQ?oc=5",
         "headline": "일본 30년 국채 입찰 응찰률 3.88배…12개월 평균치 3.56배(상보)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791397186.0,
         "tag": "Fed",
         "first_seen": 1791397830.7641664
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRW9FTlYzTHlPajZoOXlPREpVQllCNF9NTHRFNW5xaHh5U3pPQXRlM1hQWF81T1VkRmtUX2w0ZnpaanA3VW9JSWZNMEdqQUVQSUJWR0cyVW52enRUOXlQMnktcWpfVzBxZ1hpNmRXaXdjclRmbTg4bjZBUG9SY3luV2ljams0SUNLSHM0dlFhc0ZDeGwzcm4ydE5oTTBIbjhlaUxiUA?oc=5",
-        "headline": "Federal Reserve officials expect another rate hike will be needed this year, according to minutes",
-        "summary": "",
-        "source": "Times Union",
-        "published": "10/08 03:13",
-        "published_ts": 1791396815.0,
-        "tag": "Fed",
-        "first_seen": 1791396928.1754797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjhiWHpVZ0pwSV9tZllENUhKM2p1M1VveHd4WVM0Tjkyb0F3dG81RGMxcU83VEVpb0lQenpZY3VwR3d4aUhxOHc2YjN2S21SLVdrMTc2UGloYzBnUzk3Q285eGYtLVZscllseWNGbDAwUEVtdW0wRjJLbmppU2VxT1V6QQ?oc=5",
-        "headline": "Why Credit Risk Has Paid Off for Bond Investors",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "10/08 03:11",
-        "published_ts": 1791396669.0,
-        "tag": "Global",
-        "first_seen": 1791396928.1754797
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 14:00:59",
+  "updated_at": "2026-10-08 14:15:46",
   "yields": [
     {
       "label": "3년",
