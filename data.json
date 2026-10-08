@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHEtT1ZsVE1zdVljNnkyYmc2RjB0SDAtbW9mX0dVQnVJX1dCbXMzSXcyS3hZbzB4WWpnM0NhdWQ0RHdfbDBHdWhqckNLZ3c3cXBiTEFzTFRYZHlwblFBbkJsa3Z0aDlRWlplMFQ4eUtEM3Z0X3FCNElMTjh0V1dTRVFyZHl4WmdhQV9BN2RsYXFwM3owcUE?oc=5",
+        "headline": "베트남이 R&I의 신용평가에서 처음으로 '투자' 범주에 진입했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/08 23:33",
+        "published_ts": 1791469993.0,
+        "tag": null,
+        "first_seen": 1791470727.283109
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTJBYXNPbEtsZUdzTEFZU2I5S0R4cS10QXUxWG42VUVmWGhTaG5iMjdMVTNuUElLYkotN0ItalRjSWxYV2FieEw4dnE5M1VRQVBhR1hfSU42Wkk0VTltZTJLaUFWYThucWhzTUZMZHNMN19TLWptWG5PeDdYUjVtTl9TSll3cjFyLW1wNWtRYWFLd0RLWDEzakNqY010ZkNTb1JQY0Y3Mm1XSHByTFE?oc=5",
         "headline": "S&P 글로벌 레이팅스, TITAN을 투자등급 BBB-로 상향 - 뉴스 및 통계",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791372895.0,
         "tag": null,
         "first_seen": 1791387924.2102654
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLeUt4cFdocmdIbXR6NUlMREowbElLVzQ1OUZ4NkhDMEM1QnNVamVpeFg0eGg1b3ZDWXN2UXZCNWJ3TUJQRE5DQTB4NW5ZVUg0NDR0UkhGZW5FNTRyakRha0VyRHpyNHJROTM3YnhQbk3SAXRBVV95cUxQQnZaT0h0ZnRfdEF1c2pwbndqT2pLbW5vdExKc2daUnI5aVRFVGVVUDVIeDZma2RKWDF3UlhiLUMwVHdvbkE3OWtaU1BQdlNERi1sMXV6bEJFWlNzSEdyNEl6dUk4YVIwV2F2dnJMZktBY0ZjcA?oc=5",
-        "headline": "FX스와프, 혼조세…지준일에도 차분",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/07 19:03",
-        "published_ts": 1791367399.0,
-        "tag": null,
-        "first_seen": 1791368123.2551377
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 23:30:56",
+  "updated_at": "2026-10-08 23:45:53",
   "yields": [
     {
       "label": "3년",
