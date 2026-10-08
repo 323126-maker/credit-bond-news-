@@ -12,6 +12,16 @@
         "first_seen": 1791423026.8069088
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TdlNmYVg1QXk5MVJzZGlBLVJXak9pZ3dRclBXRXV2N01xaFhvdXdIUC1UOGU1TGNWMW01cWNSd21ja1JFTXBZVEZENXUyZkhaMHBfc2lzNW1zWjdFY0E5NHNwOTRldw?oc=5",
+        "headline": "미래에셋자산운용·신한투자증권, 달러 단기자산 ETF 2종 합산 순자산 1조 돌파...은행·증권 통합계좌 'SOL LINK' 출시 기념 시즌2 이벤트 진행",
+        "summary": "",
+        "source": "여성소비자신문",
+        "published": "10/08 10:09",
+        "published_ts": 1791421749.0,
+        "tag": null,
+        "first_seen": 1791428433.4662607
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8wSVdrMzZvYXl3RDgxaDcwRzl6cTgyVUluZEplSzlyekhZakgzcEpHVzZnQmhDRmlVVWpfbWRSVEw0c1prT3dnTk5RVV8wb0dSM3BoNFJMLW1QOG9WM2NCLTgyR01mZEdESXBYd1NwcW8?oc=5",
         "headline": "[노현우의 채권분석] 헤지펀드의 채권시장 피난처",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791345065.0,
         "tag": null,
         "first_seen": 1791388169.4189637
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBLNFpqVE1uWWtMeTZNejlIRDJsbG9JS1dhajNyODlPWTRkTjNIYndvU1k1OU5lSmNabDg2aFo5ZnRBLXFZY2xMRmN6cEdjYmpCcHQ3MGdqVWlGY1ZHczg5Z2djZFBDcUVqaDdDTUxwV0l5Zw?oc=5",
-        "headline": "연말 손님 은행채 이슈, 크레딧시장 흔들까",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/07 11:39",
-        "published_ts": 1791340740.0,
-        "tag": null,
-        "first_seen": 1791341123.21108
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9sTjE1cTBxN3dNWTZfUzZuVUpwaUNyb1lDLU9OWnB0MVVCZ1gtZFFEeTNEbW1TV0JmVnh6ZWF3OVQ1REE5Y1haeVBIM01VTnJXLXRMcjQxbGk?oc=5",
+        "headline": "[오늘 트럼프는] 또 노벨상 타령…\"전쟁 막고 수백만명 목숨 구해\"",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/08 11:28",
+        "published_ts": 1791426506.0,
+        "tag": "Fed",
+        "first_seen": 1791428433.4662607
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVndaS1JrLXJqbE1CTktGWXpua05SdEx1YWRNMHI5RlpuUWtVbzZPVjhreDJWMGhHVmNyOWNmNlR3R3UtZTFtT3pNQ2RFRDlDVDdVZ1ZKdEdiY0VIMXhiQlZtOVBpRWNRRENIaHdGMHdLODEzazJtNXhSLS1TSm1yNHlEUlB4WVhzdXpaWG03UQ?oc=5",
         "headline": "Staying the course with Singapore bonds",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791392400.0,
         "tag": "JGB",
         "first_seen": 1791405028.078441
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SWEpRUUZKTTZFeVZBNlA2b1ljS2REek1QLTBIUE9iTXRPTnh2M0RJWXkyaFBhSG1WenN4X05uN2ZFRGExd0F0X3lUYVN0ZkEzYkxMTWwtV3dZZEdHZmNOLXhOR3RadUxm?oc=5",
-        "headline": "US: 10-Yr Note Auction",
-        "summary": "",
-        "source": "CME Group",
-        "published": "10/08 02:00",
-        "published_ts": 1791392400.0,
-        "tag": "Fed",
-        "first_seen": 1791401429.8914304
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 11:46:00",
+  "updated_at": "2026-10-08 12:00:58",
   "yields": [
     {
       "label": "3년",
