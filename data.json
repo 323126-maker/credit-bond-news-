@@ -424,6 +424,16 @@
         "first_seen": 1791452722.9508395
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBzaW96cHUzaVlCcF8xcmxGa2NrUWtKLXg2ZXoyWXZ3dm5waGRTRFQ3ZWZDSHlkSWZPeEZ1LW9uQVhJQmJIanUyTHdKSERyOWozSjJKa2EyZnRieElCaXIwclEtTjl0SkdHbU9wNm93?oc=5",
+        "headline": "삼성생명, 2조원 해외 신종자본증권 발행…“신성장동력과 미래 먹거리 확보”",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "10/08 17:56",
+        "published_ts": 1791449783.0,
+        "tag": null,
+        "first_seen": 1791454522.443626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBWZVVWclkxMndzSnlyWHNFY1pDYXRXb25mTTREQWwwanYyMWJ1Y25mWEh1REJfOUpxR2lscXdvZkdpWUZjOWN6b1BDaEM5U3NFN3pGQjRYMlVoRWN4NGdRbi1VUlc?oc=5",
         "headline": "JB금융, 3분기 호실적 전망…자본비율 관리는 '숙제'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791250456.0,
         "tag": null,
         "first_seen": 1791270035.110022
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBwYzI5SkFQZnlKRG03elU2Yl9Xek1yYTN6T09UQzJ4NEx4VjBzaUNWM2thVi13ejZzSnVSZ1JGRmRMcVVWWW13MlJ1X2s2bjd4Rk9vNzZoeHhZTlNiZWNINXdnYk9UNy03cks2RdIBb0FVX3lxTE04SWs1bmpITlhRVGQ1WTEtMkFxT3hDWDVXT2U3dXlwMmhrOFlTRUZIbTd0eDBnclVmM2RWc1FCdDk2cjBvX0ZlZTRZVTBuYnNBS0phRWJ0ZkxqWXE0Z1NYa3k2TVlkb2U3R1pWS05Qcw?oc=5",
-        "headline": "자본확충 공식 변화…‘후순위채 1건’ 속 롯데손보는 여전히 마이너스",
-        "summary": "",
-        "source": "금융경제신문",
-        "published": "10/06 10:00",
-        "published_ts": 1791248400.0,
-        "tag": null,
-        "first_seen": 1791256524.2344835
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTDBOZFFVQ1pPWm1YTjl3VXoyT05pdXphTzh5U2FtcjNoREo3bjF1QlpJcTZZR1c0WFB6a3I3TTAxd2o5RHBvUGxsZDQ0a2xNbm1kY3BMeHZtQ1V6NFF3cTZDQUVzd25OajZJOTBwSDdsZGZHVFR3eGNHWUlIM21fSVdfZFFiY1FaNGhVVUJBZWhNeFpFRkpGTHF2THpGX0R3N29qUTVSWWpmWlZvbmNMb3JCb0JiUHVtZVViVDlReEM2TmZhY3U1WjFCQUVOdnJR?oc=5",
+        "headline": "Deficits, debt and bond yields: Separating headlines from signals",
+        "summary": "",
+        "source": "J.P. Morgan Private Bank",
+        "published": "10/08 19:11",
+        "published_ts": 1791454277.0,
+        "tag": "Global",
+        "first_seen": 1791454522.443626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IZkE2d3JSMjJLdFUtOHdDSF9Ec3F0SkN1TVhSX0hodFFGbnMtSXpLR3RFMmwtRkZ3MzZzWXdTVnVVUjBmZTFZUjgyRDd3Z2Rx?oc=5",
         "headline": "Bank sell-off casts pall in Southeast Asia, Singapore stocks drop 3%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791414530.0,
         "tag": "JGB",
         "first_seen": 1791414929.5592694
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wb2dkaHR5QWNnbWFqeTRCU25SNFZfRjY1bTdVdVFMeFhKWlJzVDJsenZuQ3YzcFpIU29GTVkzRUQxbTg1OS1Ec1VfN196QTdWVlR5UkNvY0VHN2Q3RHZWTjJqeEliTzNyRnBYNEpocW15Zw?oc=5",
-        "headline": "[노현우의 채권분석] 헤지펀드의 채권시장 피난처",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/08 07:58",
-        "published_ts": 1791413897.0,
-        "tag": "JGB",
-        "first_seen": 1791441029.2740731
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 19:00:59",
+  "updated_at": "2026-10-08 19:15:47",
   "yields": [
     {
       "label": "3년",
