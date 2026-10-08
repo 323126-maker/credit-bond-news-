@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
+        "headline": "A Guide to Buying Bonds When Yields Are on the Rise",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/09 06:41",
+        "published_ts": 1791495660.0,
+        "tag": "Global",
+        "first_seen": 1791495925.665996
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPa1Nsdk45bWV0N0NqTGItdFhITDRyMFpKN293T1JBZHo2b0ZTMWVXSHktMllVZl90VXdja2NXaXdxbG80X3FvdGRsVklZbGlYT0VUakZKaDRRMU9reEdHbU15R3Nwd2pWd0FOTmsxYVFPRVJYYzNTWkhVZXd4QkRybWNPd0Z0TkdKT3B0X0xGQlVIZUc0WFJYMUpQcmVwcExfcmtxUDktVmVCN1ZNQmhFdEF5UUNyUW5hbjRMNDBBcWRKMTRFczNHcURfbUttZWtfeEhvOGd0TXk5bFZYR3dhLTV3VHhkR1JuY0FCSU1ITXRnOG9VYTJGT3dEcnpqdkNUVmJ2d1N4VFRuRG1RbFN2MUNrVUx0NU110gGYAkFVX3lxTE9rU2x2TjltZXQ3Q2pMYi10WEhMNHIwWko3b3dPUkFkejZvRlMxZVdIeS0yWVVmX3RVd2NrY1dpd3FsbzRfcW90ZGxWSVlsaVhPRVRqRkpoNFExT2t4R0dtTXlHc3B3alZ3QU5OazFhUU9FUlhjM1NaSFVld3hCRHJtY093RnROR0pPcHRfTEZCVUhlRzRYUlgxSlByZXBwTF9ya3FQOS1WZUI3Vk1CaEV0QXlRQ3JRbmFuNEw0MEFxZEoxNEVzM0dxRF9tS21la194SG84Z3RNeTlsVlhHd2EtNXdUeGRHUm5jQUJJTUhNdGc4b1VhMkZPd0Ryemp2Q1RWYnZ3U3hUVG5EbVFsU3YxQ2tVTHQ1TXU?oc=5",
         "headline": "Investing in corporate bonds through OBPPs: How to read SEBI's new mutual fund-like credit risk-o-meter—experts explain",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791454277.0,
         "tag": "Global",
         "first_seen": 1791454522.443626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQclF0LWozQllldTNlRk1YT0ZRVEQ3eTI5OVVMaGxKYV9RSWdYdzVxaUxlaWpZSWhTcmV5LTdhQXN3Z1lPWG91VHpSak45dDBNamJTTnJ6eDQ3NG9vajJ4Yy1GbnFQS2RCVFNCUUk0bGJITkE4Z2hzZFhZbktIcThEQ2lpMlFiRlREY05CQkJlVGZKTUEwYmpQUDRKd2NnVGt6dTRLcHln?oc=5",
-        "headline": "Default May Be the Tail Risk Haunting French Bonds",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/08 19:00",
-        "published_ts": 1791453600.0,
-        "tag": "Global",
-        "first_seen": 1791456322.5506449
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-09 06:31:01",
+  "updated_at": "2026-10-09 06:45:55",
   "yields": [
     {
       "label": "3년",
