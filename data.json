@@ -1630,6 +1630,16 @@
         "first_seen": 1791458121.8861132
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGUHQ4WVdkekVXbkxoQTlCN251Qmx5Z0JidGdTWE5OVEtyNEFLTFM2VUZvcjBfeENoTXdiQ1NmbjRDWk5jd0RIOXRuTVFwbU56NHpvQ18xUEhtM29nRnFsTTZzb1lDV1dMdWRhd2RGMEpxbU0?oc=5",
+        "headline": "Tokyo stocks fall on profit-taking as global bond yields rise",
+        "summary": "",
+        "source": "毎日新聞",
+        "published": "10/08 20:03",
+        "published_ts": 1791457396.0,
+        "tag": "JGB",
+        "first_seen": 1791463525.4308558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQVkxEaGoxTXg0NWMtTzRDYTRNT0c0UThZV1B5VWRwdEhPVlhoWHRDVUEwM1F3X01LWldROTg1anZWcEo5S1NRXzRnckFkcU9wclV0bDdabWZ2SEFZQ016emZBSjR6dHp0NjQzcE41ZDJZQ2ZJbHlCV0NRY1Z6R256QkxmSTNYdU4tMmpFdEFSUU5CdWtMNWtZWDQtMmo?oc=5",
         "headline": "Global Bond Turmoil Reveals the Surprising Resilience of Emerging Markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791422367.0,
         "tag": "Fed",
         "first_seen": 1791442834.7821567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOLThOOGhYbEdrRTR5MDZ2QlJ5ZjRDZG1ObTlUTUtKYVVaSmxMU2ZkZTV5bUhoOXFxMVo5QS1OQkxabGFIcmJBTDluZGFubV9iLWxtNTFKd1RmZDFPOWxucUY2ZHEtbXZob2toUHJXTHBEajdiRkYwcXk3SlU2UlNBdXg3ZkI3NjhwS0lXa1FMT2cxN0RYaUJQSndJXzhkbmtmQlZLQkxtZVF4dGJtSzRtUGZpWm0?oc=5",
-        "headline": "Japanese government bond yields fall ahead of 30-year auction",
-        "summary": "",
-        "source": "www.marketscreener.com",
-        "published": "10/08 10:15",
-        "published_ts": 1791422126.0,
-        "tag": "JGB",
-        "first_seen": 1791423026.8069088
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 21:30:56",
+  "updated_at": "2026-10-08 21:45:50",
   "yields": [
     {
       "label": "3년",
