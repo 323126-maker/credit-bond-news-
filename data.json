@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84VnpGTVJ4LUNRby0yVXlyQzBKb05vWlk1N3Jyamw2LTk0bDJzMTNXRWYzS2pqTzc1b0RHcmlpaVpwOEE5cHUyRHRCeEJWbzVlNUdaTTdFcWV5M0tFNl81QnBubE1pSUhq?oc=5",
+        "headline": "Ray Dalio warned stocks are losing their buffer against rising bond yields",
+        "summary": "",
+        "source": "Quartz",
+        "published": "10/08 23:02",
+        "published_ts": 1791468157.0,
+        "tag": "Strategist",
+        "first_seen": 1791468925.2005532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQUU9DUWRscHhGcHNEYmVFbE9aOG9xVDNveU5TUUNXNmFEbThSbW9pZGMxdjV2Z1J6SXRJbVVXRmNDTXllTFJtakpOcHBkZUpWeWY1N2VFVUZoaTVnaDhTME1ReHlyU21DZFloY1FSb01mRFZJZ1F6Q3ZaNWpMY01EY3Q5a3dhLVJjak1IWTdKT3RnNjUxcjRLX0lVQ3VlZVUzNkVwR2pZaUJ1OVhVRnk4MjJCRi1MbjhMeE9qakFHWFJ3X09ERE10bzJEYUdqSzJJXzhQdWl4SWE4YnRENFdiYXhzd1hxQQ?oc=5",
         "headline": "Ray Dalio Says Bond Bear Market Has ‘More To Go’ As Government, Companies Compete For Capital",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1791447323.133443
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBFVGtxS3NZRThRRlZua2V1Z1E4c0RiRUdYYUs5RmlYVXBUbDNCRlpYRnFkYWZKTnhuSWNFYmxYWnZVUlVHSDk5dkZwbDJYNzhNc1lyTXJGUQ?oc=5",
+        "headline": "10-year bond yield holds steady post-RBI rate hike, mirroring global trends",
+        "summary": "",
+        "source": "Motilal Oswal",
+        "published": "10/08 17:01",
+        "published_ts": 1791446485.0,
+        "tag": "Global",
+        "first_seen": 1791468925.2005532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96U2ZlcmVYMGhidlFETThIRnNUVWoyUVFVRHhEb1RaMkpuZWQ0bmtGYTk4SkppVEhRakVDYldwN21KblE4Y2x0a0lnYndXSy1tQUhGZm9ZS2lrWWNvbENYaTRiMkl3cG10OEpDdS15Rk0?oc=5",
         "headline": "French Debt Sell-Off Reshapes Eurozone Bond Market as Investors Turn to Germany",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791432360.0,
         "tag": "JGB",
         "first_seen": 1791441029.2740731
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE54ekxIc3B6Vk9yRVRTODV3QUo0OTdjTVdRTXFOZkZ0cW1pNnlQekVnN1EzalBUY2NKNmdDU09jQ2JXUGNxVHdCcFFqb1QyeUcxUENv?oc=5",
-        "headline": "Japan 30-year bond sale sees firmer demand than 12-month average",
-        "summary": "",
-        "source": "The Edge Malaysia",
-        "published": "10/08 13:05",
-        "published_ts": 1791432330.0,
-        "tag": "JGB",
-        "first_seen": 1791432921.7712128
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeV9Kdk9rNFl1b2F3ck1idThEdDIwR2o2dlVRVkd4WjlkLVM2ZkpyTVZGYlJESS13TUFyeGdtWnZLVXB2QlQ5U0stdVJORk9DQXlhS0RkRlVYcG1XRFFPdDZHWjJfWE1OQmZZbUtUM0FKa0JacEs3Z2Z6b1g4UFVHNWFhbnA?oc=5",
-        "headline": "Big investors ‘bottom fish’ in Eurozone bond markets after France sell-off",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/08 13:02",
-        "published_ts": 1791432137.0,
-        "tag": "Global",
-        "first_seen": 1791433830.2290046
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-08 23:00:56",
+  "updated_at": "2026-10-08 23:15:53",
   "yields": [
     {
       "label": "3년",
