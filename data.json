@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUDloZGpVb3R4eXVhWWJ5Yzh4anQxek5sVV9PRDNwaFQwUTRlS0lwaGNuT3NlMEp6dGNCbFpwYTZpTE9wYmk2a0ZVSjJkZE5jN1d3UzhmT3NTSmczYUIzSG81dXctUklPdUx6eUY0dEI2dnRZM2otS040NXgxM1RWakhjdTBSVFdmdVR1aGZteG9pcTZ6NXB5MmZsYw?oc=5",
+        "headline": "베트남이 처음으로 투자 등급 평가 그룹에 진입하며 BBB-로 등급이 상향 조정되었습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/09 03:03",
+        "published_ts": 1791482633.0,
+        "tag": null,
+        "first_seen": 1791489632.9870515
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVlRpU3dIRVBpNjRxLWJreXJqa19UWlk0Y3VSYmtoRUI4NWlYSE8yZkdIN1VycmJKb25ZQlpQWEFDcjktZ0wyX1M3SVRDMC1oZTgzTkxScjdDbUZ2aDg3ZkJSaEhzQldUbllHd3RXNkpjMnZDMHJPckpVOUpVQmJ4ag?oc=5",
         "headline": "R&I는 베트남의 국가 신용등급을 상향 조정했습니다.",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1791477022.0,
         "tag": null,
         "first_seen": 1791477923.2623465
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA4UDRoUFZKNDJjNDlzeXRaTkhycy11MmVna1M2UzJnWlkxRmJ6UjgzaEdwNEFPM2NYZVVtM1p6Z2Jwd1pMTWxRY3h5MkJTem5FMDlwaGdIVEw0Yjh0Z2VUV2J6UUxTODQ?oc=5",
+        "headline": "게임 설명을 읽다 생기는 질문과 업비트 체인",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/09 00:33",
+        "published_ts": 1791473591.0,
+        "tag": null,
+        "first_seen": 1791489632.9870515
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSHEtT1ZsVE1zdVljNnkyYmc2RjB0SDAtbW9mX0dVQnVJX1dCbXMzSXcyS3hZbzB4WWpnM0NhdWQ0RHdfbDBHdWhqckNLZ3c3cXBiTEFzTFRYZHlwblFBbkJsa3Z0aDlRWlplMFQ4eUtEM3Z0X3FCNElMTjh0V1dTRVFyZHl4WmdhQV9BN2RsYXFwM3owcUE?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1791404098.0,
         "tag": null,
         "first_seen": 1791405028.078441
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1DV3VXelZGNmpKU1E4eHFydnJYdTJSaFp3TFhxTzVudjdtY0xaZGx0a3Q3Y09Lbk94XzY1OXJFWkd2aVZ6SmRDSzFrSmhxSDU1cWl4blNOUmRUT1FTd1VCeWlEYnhIYmlNaDRSTzRsSFFWdw?oc=5",
-        "headline": "[뉴욕채권] 유럽·스페이스X 회사채 압박 속 혼조…10년물 입찰에 환호",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/08 05:09",
-        "published_ts": 1791403791.0,
-        "tag": null,
-        "first_seen": 1791405921.697372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3phdjlzZWpneC1QOFBzNk5OU0dQQjNGVkdVbHRxZ3RQWGE3Y2ZCcG9zYmNka1pvTVBPdW9Oa2VfWE9mMVp0bnlldkNuRDI2SUVCOFVEeERHRTJfcjgxZnpTMDNTOTQxR0Q2RlVQSk9GX1BFTzdVeEhmRFNZMlNNMDNjR25JbFlNb29NbWhscm1NWkp5TkZHZUNUU0dqenQ0dmFRWWxzVWs1dWhXNC02dDEtanRlT3Z0S0poWkpJVWtRWGM?oc=5",
-        "headline": "두바이 부동산: 중동 전쟁 속 거래량 감소·가격 조정 - 뉴스 및 통계",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "10/08 04:23",
-        "published_ts": 1791401000.0,
-        "tag": null,
-        "first_seen": 1791403232.4842267
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-09 04:48:56",
+  "updated_at": "2026-10-09 05:01:06",
   "yields": [
     {
       "label": "3년",
