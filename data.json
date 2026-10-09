@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNMjVhUURKNHlrRnllNUI2eWlOR0JyOXdTcDZHTHhZYXpPVWptTHdQZWZ4MXFvUGw0QmJDeUMzNDA5VTJwQm5BM21QLXhpS013dk54bGVrU3ZHaVRuV1VyZmxyOTlNTW1mcnR2dFNPWXhXZnBvaEhkMDVJZkI3WklxYVNrVWZkcERkTHFtUXBiejR0eVJqWkVYVkdaLWg2eGs?oc=5",
+        "headline": "Government bond trading falls 40.8pc as market activity slows",
+        "summary": "",
+        "source": "People Daily",
+        "published": "10/10 02:19",
+        "published_ts": 1791566369.0,
+        "tag": "Strategist",
+        "first_seen": 1791567029.1834607
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTzdONFF5bEFhelUwdVBCZlFrVDdBYWxnTFEya1djY2ZyZ0hsVktQa0J1UHJ5NkxnU0JZakJKelRYRWNrYWlMZG5SN0k5Ul9Ed1hZWjVyNDlyYjlMbWdfWWNXZ1Zvc2JSNVl1Ui1qbzdjeEVlc08zam5lcldHeE55SEljU19BR2JpZEtwN3pR?oc=5",
         "headline": "Bank of Japan Weighs Second Rate Hike as Yen Carry Trade Unwinds",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791520984.0,
         "tag": "Strategist",
         "first_seen": 1791562523.9910676
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdDhncnd2a2I2R2daZkVhdVpZUDJzLVJ4bjg3VnZKSGxjMXp5WWVSYnN2RzhkRWRxTlkzN1ltazFONGFPU2o4WTZoTDYwdllUNHI4dmloTHhJRm1ybEFRYVBxVTY3M0V1Uk8xR0I3SGxJX29iV1gyNmVnN3Zhd3JkQ0JzcmNQMzV1NG9qcnU1aDVzZ1pDSUlheg?oc=5",
-        "headline": "Do Rising Bond Yields Signal a Crash? (Part 2)",
-        "summary": "",
-        "source": "FX News Group",
-        "published": "10/09 13:28",
-        "published_ts": 1791520132.0,
-        "tag": "Global",
-        "first_seen": 1791565234.7473462
       }
     ],
     "watchlist": [
@@ -2050,6 +2050,16 @@
         "published_ts": 1791493200.0,
         "tag": "신한지주",
         "first_seen": 1791498631.5150814
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB4SmhWd1ByYjhLa0hRNEdKUG1oNHhJVC1qN0tMNlVnZlg3SVhFclJWdXZkeVhlY1lLN05RQWJfd05tRVZiNzFqMVljbw?oc=5",
+        "headline": "사상 첫 2조원 해외 채권 쏜 삼성생명, 왜 지금? : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/08 18:15",
+        "published_ts": 1791450900.0,
+        "tag": "삼성카드",
+        "first_seen": 1791567029.1834607
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVWmwyeHZKTGh5bTBzWFI1MFNpYU1IMFNoZG1sckw0R2tqTGpTWEdZYkRnUHNxSUktajVYZHF6eVNTX2VtbjNjTS1vNWJXMEJrYU84QkQ5WDZBQm1odW1vWkpVZlRnSnNwQ1Y0VXlxbFJUUEdz?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1790906810.0,
         "tag": "삼성카드",
         "first_seen": 1790950522.6662297
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNck45dUF0Ql9fTUhFcXJMV1g4OEJ3OWVDb0trODZJbklpN1FUbjA0MXJQOU8wRUhUdXdiQ3JDLWdaMHJNN0JZU0g3SmJ6WGlUbHMzQ2pkMEtLQldXd1JIRnJ3ZE1kN2xEQ2ZxUUdOaVQ1Tk45RkhUUS1jam1EVF9CVkNR?oc=5",
-        "headline": "로봇기업 회계 의혹에 주가 등락…반대매매 위험 대비하려면",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "10/02 10:37",
-        "published_ts": 1790905040.0,
-        "tag": "우리지주",
-        "first_seen": 1790973028.4610894
       }
     ]
   },
-  "updated_at": "2026-10-10 02:15:55",
+  "updated_at": "2026-10-10 02:31:03",
   "yields": [
     {
       "label": "3년",
