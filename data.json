@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQlBCbDBtTk1wQm5mbWFzc2MtZk9tRDkxNjFqMjIweDFMdGs0M0V3NFUySzVLaGN0RFlSa1pGd3JEOE5xUDR6VU5UTHNxUzF6akIwbWxnZkxrVzZzVlVLd3VvVkJzOWpZUVVTeVM4WXNPd3VHWUd5bF9ieXZvdElDV05JRk1HaVY0RmlRVm93Um9Vc2RGYTBSUGNYc0R1ZjUwaHBheTRhck5BM2VGVEdhY0hEZ1Azcmc?oc=5",
+        "headline": "Japanese government bond yields fall, tracking US Treasury rally",
+        "summary": "",
+        "source": "MarketScreener",
+        "published": "10/09 10:20",
+        "published_ts": 1791508804.0,
+        "tag": "JGB",
+        "first_seen": 1791509428.4792583
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbkVNc28taUJPSXczazFEX09rcUtfU2hGdmVoNUpPTzVXbnpSQUd2VXRyRnJiSUhuR0pQSjd1ZXoxM1hUYXZKRGhLb1JaejNGaGFZY3hkUGpNQno5c05XN0NUMlNJMjVYb1ktcjhQN25kRVdvZGlPbGJMZDAzbllaREl5QmVvWDhtT0doZkZlaGNycHZiNW9ELUl2RFhzQTFXckxR?oc=5",
         "headline": "French sovereign debt is the first casualty, followed by U.S. Treasuries? Is the global market feeling the impact of Japan’s rate hike?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791469921.0,
         "tag": "JGB",
         "first_seen": 1791483323.4511971
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQVctTEV2N0FiaWpxSGtJOGotX2VjRHhHUVZDTUVZM0hpLXFVeW5GOWxUWHhQNFBldTlINnlkZnhiTUhtSjhsU0pPUDB6Ri1UQlVBekdtUDV3TWMybTdaUU5od0IzQlJBZ3lFc0c1bEZubmwzY043MGlvT1lpX3hZdWRQU2w?oc=5",
-        "headline": "Repeated US Treasury interventions risk an erosion of credibility",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/08 23:30",
-        "published_ts": 1791469804.0,
-        "tag": "Strategist",
-        "first_seen": 1791474326.2004077
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-09 10:15:51",
+  "updated_at": "2026-10-09 10:31:05",
   "yields": [
     {
       "label": "3년",
