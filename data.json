@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObE9meWdub2FOS2dVY0pKYUxReEZrZGJhMnIyNG9JTEJpZlhISXFXMlZGZk1kSjRPWlRPejV6aTdXSHZnWWFkeHBvZVEydk9Sa1dLallzVGtIenB2OV9yR2daTDNrb2psQW5uZ2JSYnlOMUxmYzExZ1NBT1V3OGVlaERaZ1pPaVYwTDUyNVJCR1lJUkpoRFhhMzJha09TOVXSAaQBQVVfeXFMUGc0WHV5TzVaUnlTZjZ2Y1h3RHdSSnc0LWZoTzF3Uzk4WFkyQVByY1kxNkNoeDREX3Z6TDRSOUsyMmFvbHBGUWNlWUlXZGxJZFN6RFB5NWREWWtlRXUyMXJyUUlMTXo0cmh4NlpfT1pMUklyOGJLb1F5SDdteTItMzl5NVQybXk5U2ZQWkRGYmhnU0dJZ2hoTEFjb3FLaktRcjZNbDc?oc=5",
+        "headline": "Fed holds interest rates steady as inflation hits 3-year high",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "10/09 19:26",
+        "published_ts": 1791541569.0,
+        "tag": "Fed",
+        "first_seen": 1791546321.8605623
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXFrdUVhUllTS2VxcXllUDloRkNKXzZkeVhkSW1QZ2ZWVjJQSHZham1xcWRkR0RlNWZNZlhBOG95MHBaclFKVFplX1Z1aGc0Mm9DQWJ6M21HWHZTRGNUV0x1T0tONjdvNEtqQlU2ZktiM2tsU21Vb2ZNaXRrMHpNbGNR?oc=5",
         "headline": "Money market funds attract massive inflows as bond selloff bit",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791505375.0,
         "tag": "Strategist",
         "first_seen": 1791524722.0286381
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UeE1UUlFjN2JobkNSWnQ3SUdIcGh3X2FJVE1wUWFCRklrT2JsbHU0U1IyX3BNR0hHWk1aSTg1VnNYZHlpcjZhS0dOU0RBNDJoN3c?oc=5",
-        "headline": "브라질증시 폭등 예상한 전설의 ‘투자 기계’…함께 매수한 종목은?",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/09 09:05",
-        "published_ts": 1791504351.0,
-        "tag": "Strategist",
-        "first_seen": 1791504926.740112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-09 20:30:53",
+  "updated_at": "2026-10-09 20:45:44",
   "yields": [
     {
       "label": "3년",
