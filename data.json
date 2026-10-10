@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVm9nY2hDU0NFejF5cExWa2s4ZHQtMjFkV0ppVFdLNzh1UWZDSnVKYXBBOU4zWUVLMjJBczVxb0dJN2FERDVjdWpHWGNITV9HM25WckxYX2hsY21Mcndmekd6VWY3SDI0NWZaaXdQUzMzMUNvMWhfZTE2YlU0WUl4OGVvTEcwV1BDSHNaeUFfN280eDFaaGswdVB0U0hyQmdf?oc=5",
+        "headline": "Why I'd Swap Treasuries For High-Quality Covered Calls",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/10 22:15",
+        "published_ts": 1791638100.0,
+        "tag": "Global",
+        "first_seen": 1791639926.7055316
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5STk5mTmRYRXNoSml4aHUyRmlvRjBDcXp1UlQ2Ym82UG55NEU1SUhNTkhxMDdlcEVCcGhQQ09COWd3cXZGczNMQm5OekhWODdOSElvUXdWRW0ybW9NWEY1a0hoVEwyMzlobTdrLVlndmRCMmJKWEE?oc=5",
         "headline": "JPMorgan's Dimon Warns Private Credit Losses Will Exceed Expectations in Next Downturn",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/09 23:44",
         "published_ts": 1791557092.0,
         "tag": "Fed",
-        "first_seen": 1791558035.8060231
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcUtxckFYaGVoSlo1Q294SDkyM0RqWm9YdjBwYVdFYWZRYUQ3Rm1MVVFyZmdjbmNURWhqMXJkZ1lTVTV0aFkzdEEzWk1TaTYydVBiUTF3eUFNOTNXZ1AtaC04ODVGQlhOTTdwZmRkaUFDb2VwZnZXc0xwZ2hkNGRwdV9vR0xsQkdPMllDc0M5YXBkeGlFZkpCbU4xMA?oc=5",
-        "headline": "SHYG: 7% Yield Meets CCC Stress And A Weak Trend (NYSEARCA:SHYG)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/09 23:44",
-        "published_ts": 1791557089.0,
-        "tag": "Global",
         "first_seen": 1791558035.8060231
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-10 22:31:01",
+  "updated_at": "2026-10-10 22:45:49",
   "yields": [
     {
       "label": "3년",
