@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemNzdUFWZGVaejNqWHU3VVJ5ajNRdzNNSnFsb3FScVJoSU43MHhYMXdJZUdxQWZqVjRPeUhhMmFGTEFxVzg3VTFnZy0zR2RlMDBTYkN1d3B2SUR6eWtIbUpGMUI1bWM1TlJFUk5jLVh4a21mb2tlenpycmdtQ3FHSQ?oc=5",
+        "headline": "올해 신용등급 하향, 기업 수는 줄었지만 건수로는 48% 늘어",
+        "summary": "",
+        "source": "한국경제TV",
+        "published": "10/11 06:35",
+        "published_ts": 1791668100.0,
+        "tag": null,
+        "first_seen": 1791670475.2825325
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAyNUFUeFRBN1BZWUFEeEd5bGpZbEJEekZoamhUZlpQYmc5SjlwRm12dkdmdVdaTGtUYW95dEMyelUyRUxheUFCRC1MMkNGZ29HNUxza0tIX3l0cGtzaDdqUlBTM3c1amVFZm5pWTR5WmJRMTFwVVE?oc=5",
         "headline": "S&P는 영국 신용등급을 유지합니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791469993.0,
         "tag": null,
         "first_seen": 1791470727.283109
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalhKdEdDSUVMOHg3Um8tbDNIZU50MHZFN2ZRYXlVVVNyYnpEOWRpTXB0dEo4N0Z6LWVXLUY0ZFZnQlZEQ182QTdEaWZrVWdER2N3MXBZXzFUQnJfMmFYX3BZd05EdERUSGdvTzZZTHk4TnQ2MUExM01xOTFTQTRTOHlVUG81YXBuM3ZIek1IeXlPb3h1Ync?oc=5",
-        "headline": "베트남의 신용등급이 사상 처음으로 투자등급으로 상향 조정되었습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/08 22:43",
-        "published_ts": 1791467029.0,
-        "tag": null,
-        "first_seen": 1791471637.8796148
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-11 07:08:25",
+  "updated_at": "2026-10-11 07:15:02",
   "yields": [
     {
       "label": "3년",
