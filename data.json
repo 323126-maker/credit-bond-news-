@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42bVJXMkxHc0pfUDJqRHJHNkZNbmNJdlBOUndBNml1aTBDcTM1bTY0UXZBUmxrX1ZobkZSeUxNYnNXNUJydVp3NVcyenZEeS04?oc=5",
+        "headline": "뉴욕증시 상승, 기술주 반등….트럼프, 대이란 발언·러시아산 경유 확보",
+        "summary": "",
+        "source": "이코노미블록",
+        "published": "10/10 08:53",
+        "published_ts": 1791589980.0,
+        "tag": null,
+        "first_seen": 1791612032.9506643
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nR1poZVBhelBDRmdIVDdGbXJrM1lpeVBZcko2RXlzeEcwZ09BUmk2VENXRkpEODhpaFZucTcxMUtOVjNtaTBGellxRlNIZlV6?oc=5",
         "headline": "“제2의 윤석열” “북동영”… 국감 첫 주 달군 논란의 발언",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791270021.0,
         "tag": null,
         "first_seen": 1791270927.9274502
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE16V1BkcXQ1eXRCRWJzUzNTN3VCUUx2UU11MEZJaUJ3UUhMSklIRXZvUWpnb3pVeDY2Uy1IWTVqZ2tZbE9kc3Rza1U3QXdFbm05NXlTbk1VbUNuTlVlTUpvVVQtX2FaWHZwUVBlTWxmTdIBc0FVX3lxTFBzNHFvX0Z1RDBBcW9YZVBvS2dqN2xtQ21ZTHRkTEZFMVBjOWNPRmZ1SVc0Slppd2U2YnJOM19xZktzRTg3SGNtU0k0Z1pKOUVONlJaNzVEeVNzUFE1VkppeGpLZkZGR0lwMUtVSE42OE15YTQ?oc=5",
-        "headline": "李 '농어촌기금 1조 채운다'…정부 재정 7000억 투입",
-        "summary": "",
-        "source": "데일리한국",
-        "published": "10/06 14:53",
-        "published_ts": 1791266017.0,
-        "tag": null,
-        "first_seen": 1791267323.7134855
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-10 14:45:49",
+  "updated_at": "2026-10-10 15:00:54",
   "yields": [
     {
       "label": "3년",
