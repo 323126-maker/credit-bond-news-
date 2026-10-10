@@ -1228,6 +1228,16 @@
         "first_seen": 1791539123.0300326
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4yUGVVdDNoSnFHdXg1cGNTUlIwQUZ2MXFyN01RVWdBalB2QU8yMDExVDdoTzltUHJmVHpzajdXS0JwdzY1XzhpZmZhMl9PdlJD?oc=5",
+        "headline": "뉴욕증시 하락, 나스닥 1.25%↓…유가 급등·AI 성장 우려에 반도체주 약세",
+        "summary": "",
+        "source": "이코노미블록",
+        "published": "10/09 08:19",
+        "published_ts": 1791501540.0,
+        "tag": null,
+        "first_seen": 1791633633.383277
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9lQThHVk90UGFMSDN5YnREMWhVOVlDYzZoYzFfb0Y3VWowWjlydWwwLXVvdTBzdGd5N3UzVWpVWUdJckFxZ0IyV1V2RmZSajAyRGYyVnJRd2RGNjM2OVNJSmkzSWRwRktPbThF0gFvQVVfeXFMUDVwR0NJOVJpRlBQdnRGOEMtcnk0djZEa0tlQ19iYWJTMDNYZzljMENxdmYzSVVMTHQ2Q2VwSVRLQ1ZUeHFCUE9abXVkQnNGSzVaeDJURVFEOGtTSEhlb3htMFdTeWdrTlVES2NYZlV3?oc=5",
         "headline": "AI 기대 꺾이자 뉴욕증시 휘청…나스닥 1.25% 급락, 다우는 소폭 상승",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791281520.0,
         "tag": null,
         "first_seen": 1791328524.2642393
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB6NEQtZWNnc1lERUJtUGp5ck00X1J5dnpZc0tDa0NvWlFTZTdfeC1XRnRuN01GdFJ4X0psSjFUY0F3X2Ffa2w4Y0ZLemNTWHVCYWtVSVdXcGZOVlVGQld3M1U2dHY?oc=5",
-        "headline": "조희대 대법원장, 국감서 작심발언…“국회·대통령, 대법관 제청 관여할 수 없어”",
-        "summary": "",
-        "source": "ppss.kr",
-        "published": "10/06 18:41",
-        "published_ts": 1791279671.0,
-        "tag": null,
-        "first_seen": 1791284435.3955646
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-10 20:45:49",
+  "updated_at": "2026-10-10 21:00:58",
   "yields": [
     {
       "label": "3년",
