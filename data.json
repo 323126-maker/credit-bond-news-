@@ -82,6 +82,16 @@
         "first_seen": 1791605722.2112198
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE90bWdyVG5VOUdSUzhCU3dLOE1zcmkxUnJDV3JWb3BOMmtFQmRqNXNISzgxZXpydlpVeFdJNTJyZXdKQ0U5ZklYUDc4OWV0OTgxa3c40gFTQVVfeXFMT3RtZ3JUblU5R1JTOEJTd0s4TXNyaTFSckNXclZvcE4ya0VCZGo1c0hLODFlenJ2WlV4V0k1MnJld0pDRTlmSVhQNzg5ZXQ5ODFrdzg?oc=5",
+        "headline": "5%대 국채금리에도 ‘양손 매수’…美 S&P500·채권 ETF에 ‘뭉칫돈’[마켓시그널]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/10 13:00",
+        "published_ts": 1791604800.0,
+        "tag": null,
+        "first_seen": 1791675029.2554572
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcFQ2TGo5UGVaWDljeklHT0I1cFJuaF9zdkpZODJ5X3YzZENyMzNYYUJDVEJ0N29DT1dkb0YtZVhKWEd2OG9iNEFicjRkSjkxd0RSY0JYQXdWYVhpVlFYRnN5aXlDNWlLQVY1ZUV5TEZFeGQ5UzRKbzZERktoRHRRN2ZrTHpNdUlKSjd2TWJKMzBjb20xZXBwaGNGbnc?oc=5",
         "headline": "처음에는 지나치기 쉬운 메가 슬롯 상태 아이콘",
         "summary": "",
@@ -220,6 +230,16 @@
         "published_ts": 1791526609.0,
         "tag": null,
         "first_seen": 1791543633.173855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGg2THJORWk1QmNaVjFrbzhFWl9oTGUtNWhaOFhiYmFmaFhRUkZ5NjdIc3hXUDdlaTZ4dGI1ZUUtN0dXWThyNnh3WDBNdERXOHJRVUhtWnJENmprZ2JlYkpWbl9TMGZTWHdHalMtWm00Z214cGdKZnZDVXRqZjRzVE1nRUtHc2FZQVVsSnZHYnhWQllEUXE4UHFkc0Q5R25KdzdSMjBjWjVNdw?oc=5",
+        "headline": "R&I는 베트남의 국가 신용등급을 BBB-로 상향 조정하고, 전망은 \"안정적\"으로 제시했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/09 13:38",
+        "published_ts": 1791520723.0,
+        "tag": null,
+        "first_seen": 1791675029.2554572
       },
       {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9QTWxjaDJHbEhYb2ZxUS0tdVVZVjdNbFdYSXJiMlpsd081Njk1RFVzUlFtWDdLbll0RTZxS2ZXMm0xUFo0Q0pZRmF5cmNuVHZIY2ZNelVidTFQek80VmFMWkV1RlFSaV9pOXY1RVZjTGxrdXUzUFVpeQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1791482633.0,
         "tag": null,
         "first_seen": 1791489632.9870515
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB3bWVXeDBVTFVUV21jZVZkSlRuM3NYVmVKcXFOQTFfNGpQVUxIMENLYUE5aWFidEsyYlNJeFF5WWJfZTBMUkN5NC02dEdnMnczUTgyLUxRSGExVnpHMlc2UGpGNXEwZmxmcVA3S1RJckhoQ1Q3SVdBRHdn?oc=5",
-        "headline": "텍사스 파워볼|Texas Lottery winning numbers",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/09 03:01",
-        "published_ts": 1791482480.0,
-        "tag": null,
-        "first_seen": 1791528321.404533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPa2ZCNEJlME1yb3JJYVR4b2Z2a2ZWZkVlaFZKLUNZRENpYVNvN05aSDktaWpPSEFkNF9OQ1ZvSFpHblFMOGxnbXVZVU05Yk9rX29zRGF4RVRKdkNEOXRvWjB2bTdTZ0NJNGpVRFYwOTU?oc=5",
-        "headline": "무디스, 소니 신용 전망 ’긍정적’으로 상향…A2 등급 유지",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/09 01:37",
-        "published_ts": 1791477420.0,
-        "tag": null,
-        "first_seen": 1791582323.362313
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-11 08:15:43",
+  "updated_at": "2026-10-11 08:30:51",
   "yields": [
     {
       "label": "3년",
