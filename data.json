@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbmhMUXd2S0RwZmFnVDlKOEVLaVpucDBMb2JncjlWb0kyQkh2QW9IVXpHMVZqWlA2MlAwV2F5RXJ4YWpCQm1ieC1WZnVuYTI4QzY1a0xNc1FKVEYxbUhGLUMyb0lUc2ZwZTUtR2p6X3dNUi1zYlY4RHFsSGdzVE1nY3JGRGlISVREVF9DU09nNGR0NGpiM2hpWGpB?oc=5",
+        "headline": "Peter Schiff says bond yields could surpass 8% as risk of government default rises",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/10 20:00",
+        "published_ts": 1791630000.0,
+        "tag": "Global",
+        "first_seen": 1791630921.3960145
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8yMV9vS1RnWGFmXzRwb2J6cUlXZF9vVXg3My1MdGxDNGU1S2JvNmkzYklsRm9yLWlpM2dKVld3aTVBdHdSdlhxYS1ncXBhUzNzMzNBckRaNWkwdw?oc=5",
         "headline": "Bitcoin Faces Bond-Market Test as Treasury Yields Rise Above 5.3%",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1791613857.0,
         "tag": "Fed",
         "first_seen": 1791621920.4144478
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPcXk5NGNyTHlnakJvTWNhek9Hb2xjYVZudDR6ZFZGUm5zZGZFWnlWaWVfRG8xNy1aTEdYMDBkT0hOTEFSNjgzZ2Y3RnpmU09vWHFvSmlJU1Q2OWYyVFRmLVk3YmVJSHVVcWdKSmwzM1JrRUpDeXktZFBpXzJHLWEyUTBYYlQ3NU42LW1mckQzZWd4RFJscXB2RnJOS3QxUlhETFJLQVFNaFdMdkpaLVY0R3Fwdm1jRTRyM0VMT3FSc2s4VGEybTJzSHhqclNWVVFrM3hYQ2FjUGlObzFXUW5Td1pwMGM1R2kyMnhZWjU2X2RHdw?oc=5",
+        "headline": "Fact Check Team: What higher interest rates mean for mortgages, borrowers and savers",
+        "summary": "",
+        "source": "KRCR",
+        "published": "10/10 13:46",
+        "published_ts": 1791607603.0,
+        "tag": "Fed",
+        "first_seen": 1791630921.3960145
       },
       {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMjZ2WFNVc3AzNnpXX2NZU1p2UF9LdThUMGl6akVGSXBSdi04SFJGMnh2MHo5NGRHUDJWdWNyLWZ5aVhfNTFoSzZXWWN5M3R0Q1NSYkRjNS1lSkJQeFVkTWtPQ1FxSktHNHpiSWxENXBHdzNMSXExdFhQbVBneDVGdTQ4OVp1YmhCMURPN0NGUWRkM2lkNWsxRmU4c1o5OWxnQk5fdU00RWhZQjFmUXJ4SDRNYmo0VThSd0FyN3VMWVJCUWNBSmJOeXNUbjU3aFE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791551279.0,
         "tag": "Global",
         "first_seen": 1791554436.508296
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdm1vQVBTRFhPamhtYllyUC1TckhrSFV6ZjBtN1N4N0dTNXhFRHpzR3RMejNPbll6dG1URjVnZUc0Z2tTSXN6eENpM1RHSl9hSkozN3c1ZUQ2MUR3TkxCQWhTRUhhZGVremFObmpHbjM2eXZLYjFzWkxtT0hLeTlVM3ZyWDI?oc=5",
-        "headline": "How to shield your portfolio if AI goes ka-boom",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/09 22:00",
-        "published_ts": 1791550834.0,
-        "tag": "Strategist",
-        "first_seen": 1791557123.311539
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb29HX3F0Y04zbk9zTUs0MG41a0E2bWd3SFk3c19qMmI1TUVBTkdlb2dOTTRKRExJRmFLOUhHbXBiRVZsdkdzNHExeGlvb1V0UTJLcXRYOEl3cThMTmhSMVZDczRUckY1eEFqTWRkQnpjQlNjU0JiclNqNUJoZ3NGMC10TVBZSmNvVlFUd2lKWS13blEzdWZVSU5wbG8zN0ZuVkd4X21aSQ?oc=5",
-        "headline": "Entergy Mississippi 4.90% Bonds Due 2066 (EMP) Edge Higher to $18.40 - Weak Sell Signals",
-        "summary": "",
-        "source": "https://www.dars.gov.et/",
-        "published": "10/09 21:47",
-        "published_ts": 1791550051.0,
-        "tag": "Global",
-        "first_seen": 1791560725.7122073
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-10 20:00:57",
+  "updated_at": "2026-10-10 20:15:42",
   "yields": [
     {
       "label": "3년",
