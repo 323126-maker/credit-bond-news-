@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBueU9nTUU0aWxrSDZkSlZOQzNmdnRLdWF3eDh0VXNGbFVnWEhzRmlJeW5KMGVRRWtqa3VyQVFBQ04wYnRTY0lJdW1JdjVhUTl1OUJHbw?oc=5",
+        "headline": "국채 발행 줄여도 금리 다시 '4% 턱밑'…정부, 추가 안정책 고심",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "10/12 06:00",
+        "published_ts": 1791752400.0,
+        "tag": null,
+        "first_seen": 1791753322.0182867
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ueW83QTVDWFlUMWEyRk5OOWtXSkVTamllSEFqSy1TWUxNOXE5ZWJaTEJsUWdDVXJVRi1KSkZNLUgxSTg0bnZncENacGVGOTBXX2dYSzNOeWRxZ9IBWEFVX3lxTFBGbmdEY3lfaEVsSVByQ1ZidjFOODFucHVjdFZmLUUxU2lVQkI4YWppVWZaSXVVZm5EbkkxakdvTU96eU10YlNMbFdmZml6NFdBcVM0cUhneDI?oc=5",
         "headline": "[김용하 칼럼] 뉴노멀 된 고금리…美 추종 통화정책 멈춰야",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791486290.0,
         "tag": null,
         "first_seen": 1791500434.0553625
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04aE1jMjJNYTJmVWRyRkMzaXc3bnRJTG5vS0xJanNiMEFxWW8wX2EtMjk4clRlVmhUdnNiLWx3NUtTUjFvS3JKWjBZVjJIRGN6SFBHRm9yYmIxX3pxYXlQeVkwZkhQbFFSTy1qQmRPT2Q?oc=5",
-        "headline": "소리 설정과 기기 음량은 어떻게 다를까? 세나 룰렛",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/09 02:06",
-        "published_ts": 1791479180.0,
-        "tag": null,
-        "first_seen": 1791505831.4804976
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 06:01:00",
+  "updated_at": "2026-10-12 06:15:46",
   "yields": [
     {
       "label": "3년",
