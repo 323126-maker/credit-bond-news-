@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tR3NPMjZpbjMxTEtEaTBOWVZGaDdoZGZ1SEZNX1pkOFZzUFp0dWpKRGotLUtHWWJmeFhQTXZxazVieUZBV3RXbVJZWVdqS000cGJKYjZySXZpS1Q0RFl3RUhZWGlmbEpl?oc=5",
+        "headline": "[증권 중형사 도약기] ③교보증권, 종투사 진출…속도보다 '안정'",
+        "summary": "",
+        "source": "www.fetv.co.kr",
+        "published": "10/12 07:00",
+        "published_ts": 1791756000.0,
+        "tag": null,
+        "first_seen": 1791756921.2307534
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBqVEU5UkpUVHV5WGQ0VHNoX1pGZE1YSHJlSWREY3I1VkkwZzhUMHp1R0Z2cEJHdWMyeWg3NGwwSC1oaEJWUm9fTG14TTVVOEdyYnd5OW1IbXFkeVgxc1dkcUFMRFN5RThQU2hTSHV2TQ?oc=5",
         "headline": "삼성생명, 해외서 신종자본증권 첫 발행…美보험사 투자 겨냥",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791407388.0,
         "tag": null,
         "first_seen": 1791425722.532271
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2JYNjZGLVhZbUU0VTBXbW8wMG5GNzhhY0FDU3pxeWVteEdOdVRfc05fLS1DVGlwOTZ5WkYxRnlUYUdLS1R3OElkbGpvc3BGQnI2dl9VakdfSEFJUHYxQS01OXZKanBVRGxhQzBsWm1DX0E0MENBNzZOVG11NFpEZ1p6R21yRml6MS16Y0RoYjhETmNMWjh0Z29wYzFIMGJLX2U0QnlDOUJhUQ?oc=5",
-        "headline": "[단독]23년 장기추심 뒤엔 ‘돈’ 있었다…상록수로 금융사 9000억·추심업계 3200억 챙겨",
-        "summary": "",
-        "source": "경향신문",
-        "published": "10/08 06:00",
-        "published_ts": 1791406800.0,
-        "tag": null,
-        "first_seen": 1791407728.467805
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 07:00:55",
+  "updated_at": "2026-10-12 07:15:44",
   "yields": [
     {
       "label": "3년",
