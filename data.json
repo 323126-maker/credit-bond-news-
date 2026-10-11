@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzRTVQTEhyOXBnMWtBOV9FZnZGa1VPSlBId3JWN3hUanJELXIzVnpRQTFFbllpd3gyOFlQcTdfSi16eHI5TUVmY0kzYmRsXzBFN0Q1RnJRUkhiMHFmeWpPOGozVnJPMDE1cnB4NkE4MGHSAXRBVV95cUxNOU9xOUR0bnBIRnFmcno1Q191TngwQ3N0aDFOV1NmVVBjZnMtcmx0RmVULVE2ajJxWW9IQ2RONlNlNFNqUy1HekJjeW5uMDBpQXotQnZsd3VPOU4yVXJ1TzJMbG03NHZneGtaQmVacTd2Wks1Qg?oc=5",
+        "headline": "미국 국채금리 20년 만에 최고 수준…채권시장 추가 급락 경고음",
+        "summary": "",
+        "source": "더페어",
+        "published": "10/11 11:40",
+        "published_ts": 1791686412.0,
+        "tag": null,
+        "first_seen": 1791686721.1630456
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9PNWt5V2YtZTZtS1JZZTE0UElsLW9WRTMyVVhvR21Vd0Y5ZlpqbC1JVElwVHZsZ2NGbmV4S2MwRl83VkJoZUhYcGo3RVBYZkxPRHVRNU54RTBFeEVzZ0h3MHJabw?oc=5",
         "headline": "은행채·공사채 발행 24% 늘었는데…일반 회사채는 20% 줄었다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791493200.0,
         "tag": null,
         "first_seen": 1791497721.4337726
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWME9nbC1WdDRXMW14aGJmemN3YWtmZHpEUEhJVkN6cnRWNkI5cXliRUxXZHg5RlctdkdVN3h1amp6MHVTOUk0LWhPYlhZLUJ1Z0VfZ3NhU3NvN3AxSXJLcnFYTUJWUWNMdFhYejl5aWFLUQ?oc=5",
-        "headline": "[뉴욕마켓워치] 되살아난 AI 의구심에 반도체주 급락…채권↑달러↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/09 05:41",
-        "published_ts": 1791492093.0,
-        "tag": null,
-        "first_seen": 1791493234.2679112
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oMXlmcnBCd3hueUk5cWZGRGlkUDlFY3FtSk9kM0Z3ZFVRdHh4NTNwTEdfRVppT0tPdHVYemN2Y2hWTGJQNTRLLWY0SFBfM09DdlJ1aFZ3?oc=5",
+        "headline": "李 “고관대작, 소시민 삶 이해 어려워…혈세로 호사”… 추미애 겨냥?",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "10/11 11:42",
+        "published_ts": 1791686578.0,
+        "tag": null,
+        "first_seen": 1791686721.1630456
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wVkd1SnRoZ1czSUVUR04zVFhZdE5jVEJpRXhybDFwR2M1RW9ncXlnZ2NkU2FqNjl2WENoUVkxR2dNalhobkgwRXV2RFhBMFlmc0Vhd0ZvaGUxZjI5Ym1SeTM3VTVVSnlQOFpaaHhDS0RGUUV0?oc=5",
         "headline": "기본 규칙은 어디까지 공통일까? 토토 사이트 홍보 비교 해설",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791355658.0,
         "tag": null,
         "first_seen": 1791488721.807
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90RlJVdlNIeHNwNnp1VHExMmJvcGFYU2lFdTF6UmtkSUlqcU1BZi10TXAtaHFqUjJsamZpUlJFZmp5cEk4Q19mZWF2dw?oc=5",
-        "headline": "발언하는 이형일 부총리 겸 재정경제부 장관",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/07 15:45",
-        "published_ts": 1791355511.0,
-        "tag": null,
-        "first_seen": 1791378039.3818994
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-11 11:30:53",
+  "updated_at": "2026-10-11 11:45:43",
   "yields": [
     {
       "label": "3년",
