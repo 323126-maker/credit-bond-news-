@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vQWIwcG9ZTzU3VlZrdjVlc2tLdllDNlRtWTZxNFVHUjNFR3Z2aVM5ZFFueUszUG50QkNpekZtRnlDLW9nR3VIdWI3SFVZRGFUcUkzLQ?oc=5",
+        "headline": "고금리에도 멈추지 않는 AI 차입⋯美 회사채, 올해 1.69조달러 쏟아졌다",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/11 17:06",
+        "published_ts": 1791705960.0,
+        "tag": null,
+        "first_seen": 1791706521.5715373
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE43eEhvQm0wZGxLMnp1Q3JBNXV0dHgwbGtjdklXc1AyTVFneThuME9nZEZJbXVrdGNpVDBiUXVETXkyd2NUbDI5YmNPX0l4QzZ5ZmdjNFU5elhmcDNRekxuSF9ZZmkwN1cxNUNGb9IBcEFVX3lxTE1CemE1OWdadXRhSDhJZ2dndXRMdGkzQVl0WjBtN2V2Q1FYLU5wYkVqUUJTeDdBZHVnSEpNNTl4OEpRZTM4MmJNZkdreWNWd0pQYnV5UF9DdkRud3p3OFRNUFFHR2I4QWZjTkdPNFFkbW8?oc=5",
         "headline": "[주간 증시전망]코스피 7,000선 재탈환할까…美 물가·AI 실적 ‘분수령’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791526609.0,
         "tag": null,
         "first_seen": 1791543633.173855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaGg2THJORWk1QmNaVjFrbzhFWl9oTGUtNWhaOFhiYmFmaFhRUkZ5NjdIc3hXUDdlaTZ4dGI1ZUUtN0dXWThyNnh3WDBNdERXOHJRVUhtWnJENmprZ2JlYkpWbl9TMGZTWHdHalMtWm00Z214cGdKZnZDVXRqZjRzVE1nRUtHc2FZQVVsSnZHYnhWQllEUXE4UHFkc0Q5R25KdzdSMjBjWjVNdw?oc=5",
-        "headline": "R&I는 베트남의 국가 신용등급을 BBB-로 상향 조정하고, 전망은 \"안정적\"으로 제시했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/09 13:38",
-        "published_ts": 1791520723.0,
-        "tag": null,
-        "first_seen": 1791675029.2554572
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-11 17:00:53",
+  "updated_at": "2026-10-11 17:15:51",
   "yields": [
     {
       "label": "3년",
