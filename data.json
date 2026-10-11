@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBGQklDVkhpTlpqZXZGU1ZqWDJMZzhWTFI2a3BtbDJmNWdPWkZDSXY5NS1lYlR2dEdzNWQ4X0tLbUVFUEJHX3JZUVZldUp0Nm0wcUgwS2x5YmdndjcxZGU1LXNGYjUwaE9RWFZ3cw?oc=5",
+        "headline": "정책금융 수요에 특수은행채 올들어 46% 급증…기업 회사채는 20% 감소",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "10/11 09:06",
+        "published_ts": 1791677192.0,
+        "tag": null,
+        "first_seen": 1791679523.5839405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OOXNTeUUtTUs0WTd5TkRHQWEwRFRHV1NQdEh3WnUzRmdGb3Jma2ZNMEFYeHhvcjR6YkRTd1kwMHNsOEMxbTVDR0JPanM4TFhwZkE4cDRFMVM0TUo0N0QzcVdOVmVfTHZEVnh5eVVlM2k?oc=5",
         "headline": "10년째 그대로인 韓 국가신용등급…AI 호황 타고 '상향론' 고개",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791483491.0,
         "tag": null,
         "first_seen": 1791493234.2679112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb1B0Vm91OWJCVTVxazNXOTJQTjBxbTU1bGlMYklGYzJRcGNuc3Q2VklhWkZmZFVwQThCUmNjR01IMzFBNjZDMk0xbi1hd2FqREgwWExHYm5PdENNcnh0ckxSYWdCN2F3cllXLVA4SnpicnBBS2ZmOWVhbTJwSldxT3hOa1ZHZU13aWFTZ0szM21xRGpSTHV5NllsZi1nLUdHMEE?oc=5",
-        "headline": "신용등급이 상향 조정됨에 따라 베트남은 처음으로 R&I의 투자 등급 그룹에 포함되었습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/09 03:03",
-        "published_ts": 1791482633.0,
-        "tag": null,
-        "first_seen": 1791532833.2651236
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QeU5FWGJ6YzlJQjlQZm5SLVlJNmhjQ3JIT0w5ZXZhWHl6bVpEQk9fdi14bXR2TDh1WE9UNWI4dVRmbms3NTJLckpXTC1qZC1TQ1QzdHd3?oc=5",
+        "headline": "주간 금시세(금값) 전망... 월가 분석가들이 진단한 이번 주 금가격 예측이 심상치 않다",
+        "summary": "",
+        "source": "위키트리",
+        "published": "10/11 09:26",
+        "published_ts": 1791678360.0,
+        "tag": "JGB",
+        "first_seen": 1791679523.5839405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
         "headline": "A Guide to Buying Bonds When Yields Are on the Rise",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791571292.0,
         "tag": "JGB",
         "first_seen": 1791582323.362313
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY0pyUTRUSkRTX1VaaUUwVVM4Ym5sXzlEdlhybV95ZWNtdDFqelozQU1kWlZUNHRmZi0ydFEzamxnNzJNUEsyY2RPQ08zQ0JhNG4zNWM3LTUzN2NFWHZkNWVORlF6ZnJUR0lmSzJ5bTZDWk14bUR4cmttMXo1dXVFNEs3WW1SZ2VJam9rTlk2dHltN0kydlI3M2JadUlFOXBHOUNwZktn?oc=5",
-        "headline": "AWF: Long-Term Macroeconomic Pressures Could Weigh On This Fund (NYSE:AWF)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/10 03:31",
-        "published_ts": 1791570699.0,
-        "tag": "Global",
-        "first_seen": 1791571522.4523103
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-11 09:30:51",
+  "updated_at": "2026-10-11 09:45:45",
   "yields": [
     {
       "label": "3년",
