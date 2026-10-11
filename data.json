@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5uRG9JZlpjS0g1WVhFQjdKS29wX3ZnTzdqUWVFS3VROXB6YlE2UV9RWktwSTh1dDlBQnZTNVFEN0g5OW81aU1ZMGxYY3puYnZsNzI4SXlQUEpmb2RMcTNUUXJBQ0JhbGhqNERXOQ?oc=5",
+        "headline": "조용한 비트코인·증시 뒤에서 커진 채권시장 긴장감",
+        "summary": "",
+        "source": "경향게임스",
+        "published": "10/12 02:03",
+        "published_ts": 1791738232.0,
+        "tag": null,
+        "first_seen": 1791738922.192362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1vQWIwcG9ZTzU3VlZrdjVlc2tLdllDNlRtWTZxNFVHUjNFR3Z2aVM5ZFFueUszUG50QkNpekZtRnlDLW9nR3VIdWI3SFVZRGFUcUkzLQ?oc=5",
         "headline": "고금리에도 멈추지 않는 AI 차입⋯美 회사채, 올해 1.69조달러 쏟아졌다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791559500.0,
         "tag": null,
         "first_seen": 1791566123.3734381
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPcExCbDJuMlVJeGcxdldURU01WjZLVzJUSHNuWlp6X0x0SzNQbDdaN1g2RXpfZTBrVk5JUWZQWlhSa1ozWG5vaDBMZ3JjeFB5LXhNUU9nSGFZckdoRng2VHQxZEdOWGg1NkwyZzNsdG9lbW96OWViVmxPNEd3ZC1Md3l0ZnNTRm51cTF5ZlV1bURBU242cVJfZVhvMmh2eUhxRXYtV3o1WjQ0NnhqdEQ4TFdhYlVrTGF0S2d6azJIWUFucmFXUGVwb19Wc2loRFRC?oc=5",
-        "headline": "가상 크레딧 체험이 제공되나요? 도박 중독 설문조사 이용 정보",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/09 23:17",
-        "published_ts": 1791555472.0,
-        "tag": null,
-        "first_seen": 1791695722.845595
       }
     ],
     "perpetual": [
@@ -1750,6 +1750,16 @@
         "first_seen": 1791717321.596891
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAydHZOejh4cDJmS05JdWMyMG5HclREdHAyQ1BidDMwcUZ2eW5zeHB6SjBoalBEYURpcmI3TjMzMVVoWjl3VmczbGYxZnU5SzhwSzEzU0I3a2ZQa1A5djN6THFwU1Q0ODVmOEFPNGM0bjUweUY4WlE?oc=5",
+        "headline": "Rhee Chang-yong: \"Can't Guarantee a 10-Year Semiconductor Boom… Fiscal Expansion Is Risky\"",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/11 18:55",
+        "published_ts": 1791712500.0,
+        "tag": "JGB",
+        "first_seen": 1791738922.192362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBHRldUQ1VCUE9DMEM2Wl9fT3Q5VmtkSHRERVMwdWp5S1Q5bThmSkh2WnpmWGwwby01T3RKTkZ2bzNIWjhNaGFEaTM3elZid2Fqd1FDREhXVjdhTmYxekxJTmkwWktVWUxXWG16NmRNaWlLRDU0TDNqRQ?oc=5",
         "headline": "Will Gold Boom Again Like in 2025?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791669838.0,
         "tag": "JGB",
         "first_seen": 1791696633.1370654
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPclZWR245eFNHVTF5SzY0bEhxak9JT3pwZlU5NGFYd1NnQXRDNzRPNUlMaC15aXVQY0VObG9HUEZvZTRURk44N0l0dUdKeGxHSjlvT1ItQWwwQldtaTZEbzdqU0t5Mk10cFFuOHhOZFlMNkNNaV9xeXl2VGNEbV9UekVnSkVVeGd2bzJCMXp3MEFibzNESkVZVFFNc1Q2U1U?oc=5",
-        "headline": "A Guide to Buying Bonds When Yields Are on the Rise",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/11 06:08",
-        "published_ts": 1791666501.0,
-        "tag": "Global",
-        "first_seen": 1791666922.3546586
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 02:01:02",
+  "updated_at": "2026-10-12 02:16:04",
   "yields": [
     {
       "label": "3년",
