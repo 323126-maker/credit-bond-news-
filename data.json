@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTZvRFZkVlRKVzFneVFvNGNiQlVFUDNDTVFHTWpjT0JrRXNSOFV3c1JUc3ptZV8tc0phMEVMdmRwbjJrU1pLTDlVODRPbEVjbkRZNzFkUnZRamtCM2hZTTJFZWwyR2JvZnlqNDd1RUVyLWIzVF9maWxobDUtTk1yRkxna1gwRlFWYl9EN3J1eXg1TFJPYlJxQlNFZjllaFYwalFEa3pqb2hIbl910gGsAUFVX3lxTE4tNm9EVmRWVEpXMWd5UW80Y2JCVUVQM0NNUUdNamNPQmtFc1I4VXdzUlRzem1lXy1zSmEwRUx2ZHBuMmtTWktMOVU4NE9sRWNuRFk3MWRSdlFqa0IzaFlNMkVlbDJHYm9meWo0N3VFRXItYjNUX2ZpbGhsNS1OTXJGTGdrWDBGUVZiX0Q3cnV5eDVMUk9iUnFCU0VmOWVoVjBqUURrempvaEhuX3U?oc=5",
+        "headline": "RBI steps may help local bond market",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "10/12 09:58",
+        "published_ts": 1791766680.0,
+        "tag": "Global",
+        "first_seen": 1791767723.4926958
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkZ4bTlGeWxOYWtGN201UG9kQkxDRW9aRVBDSmhpeXctUWhUQTFFUEtFRlVHazJ4SVRQanZueEoxUkhxMjVQUjAwdDBDdTBLVEluS1U4MjczeWpuaXZVYXZrcDluQjMxdGRkTDNnaVVDc3BsMzZXS28tZEp1WV9KOTFsT2N4ZHk3LXBUNWRFTDNxY3ZvWnQxVk1Rc1ZDQnJHVUljemNmV1prN2JKams3OUF2ZWQwUQ?oc=5",
         "headline": "Korean Bond Rally Seen Faltering as Traders Brace for Rate Hikes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791720507.0,
         "tag": "Strategist",
         "first_seen": 1791720920.3077023
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBocEN4dTVkUU9tZFB3NU52R3hoUUJ0Vy1fTFhTMEJvQnpiNVRyckpMU0YzWXVCVllla3VHRUFiQno1b0pwb0NMa1hMY3AydUt0Yk1weVVVZVdJMVdqNk50QXFPMWMtYXBDaVFtQQ?oc=5",
-        "headline": "‘TIPS are for losers’ … Really? – Treasury Inflation-Protected Securities",
-        "summary": "",
-        "source": "https://tipswatch.com/",
-        "published": "10/11 21:00",
-        "published_ts": 1791720000.0,
-        "tag": "Global",
-        "first_seen": 1791729920.8749976
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 10:00:59",
+  "updated_at": "2026-10-12 10:15:46",
   "yields": [
     {
       "label": "3년",
