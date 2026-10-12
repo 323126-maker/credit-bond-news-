@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraHJlWVhWcWN0ZDZ3bWliMmZHbVoyNGhjOUQ5V3hTNkh2QWVobjFYQk5jV0RkM08zdWxxY2xUSEtrUGR4UV9jUGhUU3d0UUpjNGVsLVQ2Y1ZJZHF5ckFZZkxSaEpUWXU3MHBlUndWMlhPQmFB?oc=5",
+        "headline": "[채권마감] 10년물 금리 장중 11bp 급락 ‘호재 풍년’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/12 17:26",
+        "published_ts": 1791793560.0,
+        "tag": null,
+        "first_seen": 1791793901.85815
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE10S2F5bjJFR2RUaWxFZFBBdHNoYWMwTEJaRlNNRXZ0aEdobFlDWDltS0xMX185LXE0dExSR1Q1R1UtWWFOZklXNVRmNHJzX1pGblg3S2xXbUUtQXM?oc=5",
+        "headline": "외국인, 3년 국채선물 역대 2번째 순매수…금리 일제히↓(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/12 17:10",
+        "published_ts": 1791792615.0,
+        "tag": null,
+        "first_seen": 1791793901.85815
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9PUTlQZElVcHR4V0g2N3lqNno1alU1Z3NkSVJHcHlNS3VIX2RJVFJ0QzIwQk5jTmJTa1B3c1pKZURFc3J5UnhXcTdjSEZQZ2I4RjZVQzcwNG9QZDBXUHpWeHN0WW83SGdXVEVJbWFScElxdw?oc=5",
         "headline": "[채권-마감] 外人 폭풍 매수에 국고 금리 급락…10년물 8.9bp↓",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1791747480.0,
         "tag": null,
         "first_seen": 1791750628.937901
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9QMEVLYkltMElVT1ZlNUUyZm9pQi1KV1NZTmtvRUdFUFlKSVhkNDdTSkhRanJIR3lXS1h4ZFhSSENNRlowWkE0TXlCOFNreEh0R1Rtbmt6NXFaTXF6NWMzdDFvcUw0Tm8?oc=5",
-        "headline": "모바일 브라우저에서 점검하는 슈가러쉬 슬롯 무료체험 표시 상태",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/12 04:23",
-        "published_ts": 1791746633.0,
-        "tag": null,
-        "first_seen": 1791759633.9805171
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTEM3UUZyWWhuSkFpYnRaUWNtMUE3cDBzZUFXclJ3Y3dxaHdmUVhDRTFSYnRKdm45VkJsY1g2VU1YdEo0TUJZN0NGZVBVZkJkSnJGT0ZPa1dkZEN5ZzRNaDR0dThaSDNYY185UEhlWk05MHowLU5qSjVmbElTRUtBT2hBOVE0OVRpQmhGUlRnRVFsWk8ySjBnWg?oc=5",
-        "headline": "채권 시장, CPI와 워시 연설로 금리 경로 탐색",
-        "summary": "",
-        "source": "데일리바이트(DAILY BYTE)",
-        "published": "10/12 04:00",
-        "published_ts": 1791745200.0,
-        "tag": null,
-        "first_seen": 1791765922.1986983
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 17:15:44",
+  "updated_at": "2026-10-12 17:32:10",
   "yields": [
     {
       "label": "3년",
