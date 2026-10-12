@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBaM1pzV0s1Y0w3UmZYU1VxVlFMY0JraWx4c1ZteW5JUDI4V29uWV9FNFFuVVZJR0k0V0Y4SGYzczNWNXBpSGR1VW9qa29iemd2N3lkWTFWQjRXU0JSMlB2LTFlTjQ4OHpJVFFGeEtKZzE?oc=5",
+        "headline": "[외환-마감] 네고물량에 외인 선물 매도…새로 쓴 연저점",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/12 18:13",
+        "published_ts": 1791796415.0,
+        "tag": null,
+        "first_seen": 1791797430.5763571
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBraHJlWVhWcWN0ZDZ3bWliMmZHbVoyNGhjOUQ5V3hTNkh2QWVobjFYQk5jV0RkM08zdWxxY2xUSEtrUGR4UV9jUGhUU3d0UUpjNGVsLVQ2Y1ZJZHF5ckFZZkxSaEpUWXU3MHBlUndWMlhPQmFB?oc=5",
         "headline": "[채권마감] 10년물 금리 장중 11bp 급락 ‘호재 풍년’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791748904.0,
         "tag": null,
         "first_seen": 1791770433.3635895
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBGZWlidlZaM2RGczVYR2VDWFJuenFFXzZEZkx4VlprbEVBS2xTUnV3YjJHbFE4NVM2WUszSVFrVG9vR3o1ZkVwUVhjV0NXMHpUWFMw0gFYQVVfeXFMTTFPaldYdDZSSlBRODZYY0JXcWVkcnFWMmh3U29UZzFPaUEzN1BaREdvUkwyMFRHd2NLNlZpZWVlQ25XdDNvbmJHeFpEc2pRc2FUZ3hXM3dXOQ?oc=5",
-        "headline": "AI 투자 열풍에 회사채 시장 관행 흔들...올해 1.7조 달러 쏟아졌다",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "10/12 04:38",
-        "published_ts": 1791747480.0,
-        "tag": null,
-        "first_seen": 1791750628.937901
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IdE1Qb2MtMmRKT0hRSHhRWTZOWGNHN3BBODdBVElHZFFYQ1JOV3g4ZTY3Y2J0cHFVOGJ0SGJmUDNXU21BMjV2Q2hOci1xT1p6bjdLU3Z5WmFOZ2ZZdzNUYTNBcnprb0hLSFZXS2hsWTdmcy1Ec2o4?oc=5",
+        "headline": "30년 만에 고금리 시대 재현된다…글로벌 증시에 미칠 파장은?[국제경제읽기 한상춘]",
+        "summary": "",
+        "source": "한국경제TV",
+        "published": "10/12 18:09",
+        "published_ts": 1791796140.0,
+        "tag": "JGB",
+        "first_seen": 1791797430.5763571
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONGpReWFOZTB0dEFFUlhDT1I2MGRTYjJHNC1WMXdrS3o3a1h2bF9WeXQ2R2VoY29uOGRvZlVwRlh3U0ZJbmljZmpVUmhkY3NVeEtPQmV6NkMwWWNrSGlGeldrclpkQ3l5NGR2TFpRZkQzTVlMa3ZJbmFWZVo3cmhvamlzdmd4X3VnNkplVnFGMkp6SjR4THRBMmVlWkRRUkRPbXlCamExWQ?oc=5",
         "headline": "Goldman Sachs has turned bullish on global equities again and shifted to an overweight position in bonds for the medium to long term, stating that they are expected to transition from a drag to a hedge.",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "글로벌이코노믹",
         "published": "10/12 08:55",
         "published_ts": 1791762911.0,
-        "tag": "JGB",
-        "first_seen": 1791763236.4209447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tdEswZ1Zsbkg0NXNpLTQxR2pMN1hja0JmRmxkSFBYUm1hMzM3ZktLLTZqTE5BYnNUNFVBcjBrSFdGQS1nRUV2d3F6QVlyb2VPalY0VHQxb05wa3V1VGh0ckhnWDV2TzZfb3h1LVlta1I?oc=5",
-        "headline": "글로벌 국채금리 급등… 주요국 중앙은행 추가 인상 필요성 축소",
-        "summary": "",
-        "source": "블록체인투데이",
-        "published": "10/12 08:48",
-        "published_ts": 1791762505.0,
         "tag": "JGB",
         "first_seen": 1791763236.4209447
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 18:15:48",
+  "updated_at": "2026-10-12 18:30:57",
   "yields": [
     {
       "label": "3년",
