@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3VMaHRtMWd1a3JENkl1YU92MlZ6OFZORThYS3NSX2JZajN6VGx4WWJuT21uN21TdDYwaEthOV9aLXVFUVJFM0VudVJVc05pMlB4c2lkN1dOR1pwZTN1bU15ekxQQXBvZmJBa01DY3FoTmx0T1lJNWd6TXBabGpYWg?oc=5",
+        "headline": "강달러 뚫은 원화, 힘 못 쓰는 엔화…원·엔 환율 840원까지 '뚝'",
+        "summary": "",
+        "source": "이데일리",
+        "published": "10/13 05:00",
+        "published_ts": 1791835204.0,
+        "tag": "JGB",
+        "first_seen": 1791836122.3263319
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNWpxZjdjN1BkR0NmeWYxSkhzRmJuR2hFRS1EWWVvWjVjcng2MlZOandMV2VLNkxmd05lV19iQVZLNzQ5ZzVfNjhSbnIteUhrOWhqYkJlM0JmSjVhdFNXeG5SSlM5ZnJhNllyUGRGdkdPVmRhazJrLVN2emN1N1BzT2tBQ2pJMVpFZFFQUHoyem9odjNaYWFWdXRjWDc1RDNOamkxbVZjQldmWFlzWDhmRnY1aV9ZbEhuQ2c?oc=5",
         "headline": "FMDA projects N2.499 trillion money-market inflows as system liquidity falls 23.7%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791801660.0,
         "tag": "Global",
         "first_seen": 1791802846.5499287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSk91S1Z0dXZhaEM0Y1B4UUwwRFpyMmZpTTE2UmlDWkJFSWZpdjJHVDRtaXhDX2syNzN2WEJjTndRaUVTTGxiRlplYy1XeWVTalFKSTFVcGtVeGtDRnN0ZnlaMzNFNjZoblBJU2EtaUNRdTVVTURYZ0FGRkNzaTdfVHBIQmJxQUR4MzNVQWlTc0JKQQ?oc=5",
-        "headline": "Oil prices climb, bond yields rise as US-Iran ceasefire expires",
-        "summary": "",
-        "source": "DD News",
-        "published": "10/12 19:39",
-        "published_ts": 1791801580.0,
-        "tag": "JGB",
-        "first_seen": 1791818125.5195127
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 05:01:00",
+  "updated_at": "2026-10-13 05:15:45",
   "yields": [
     {
       "label": "3년",
