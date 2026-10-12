@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUDZBRnhKVWRGU2NCZ1d5M3pEOVlBcWZiMmlpLS1idEZFei1ydnZHbEpDdmRZMjlLZkRYNG5UbFozbzU5N29mNmdxaUJjN3FBZXMtWERvWExqeWFBVkFscDA4WWp3VThWLVJnZWNwY3k0NmRSSmF5anJyOUhxWmZUYWRuMXpXMUx6N0FNYlpVQjdVYWozc1JvNm9PV2FBVjQ?oc=5",
+        "headline": "Growth vs. crisis: Markets weigh a higher-rate reality",
+        "summary": "",
+        "source": "Invesco",
+        "published": "10/12 21:54",
+        "published_ts": 1791809656.0,
+        "tag": "Global",
+        "first_seen": 1791810039.056013
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGFuVVBhbkRqcmp6RDhPbTRqa3FWaW4yTTRPaEhUSjQtMUYyMmVJVGZPYUh3clliNDVaMGQtVjJkYWRlVmZjR0J0UF9weTE2NGcwTTB2RmJJNUtaZnpUR1VkYlFYc1FwNWp4WGJTYWFPa0hWVEl4eHBGUEN6YVZZXzQ0bGdwekU4U1g0Q1JOVmVuSmFyZnFDUnRGMHY?oc=5",
         "headline": "Lei Zhu: What Swiss Investors Can Find in Asia",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791778684.0,
         "tag": "Global",
         "first_seen": 1791809122.552832
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRDFfb0x0MW1zb1dJT1NMODl6X3ZoWjRUSGFNN0kzanBaeGJrWVROV0ZzTzljcXpFcDBrRU4xbXJ3Yy1tNXNvbnAxNy1PYnJzNXFwaWpYTW5ZR3h6N1FDLTNveEptc0JycnhFMVNJWXE5TkNyVVUyNHlhNWhCT1BySjhZcUE2RHBRbldpZVIzeHJJQWk3WlhYOTM5MVV6Ti1BbkIxTjR2ZnlHdw?oc=5",
-        "headline": "Sebi's colour-coded Credit Risk-o-Meter for bonds",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/12 13:15",
-        "published_ts": 1791778500.0,
-        "tag": "Global",
-        "first_seen": 1791780322.8633974
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 21:45:44",
+  "updated_at": "2026-10-12 22:02:21",
   "yields": [
     {
       "label": "3년",
