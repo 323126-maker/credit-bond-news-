@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMUcwd055LXlBVFVQSTl5UFA5Y2RmWHNYaUREX3pmWTFpQ1l4V3VJbExKV0o2dlluTnU3ZHg5V3I1SlBQZ2ViQ3RUVHNEZGplQmVfUW9BbVlIS05ZejRLX3RzbGhBTTI2cXc?oc=5",
+        "headline": "국내 재정학회 최고 권위자들, 이재명 정부 '재정 만능주의' 경고… \"1997년 외환위기 교훈 삼아야\"",
+        "summary": "",
+        "source": "데일리저널",
+        "published": "10/12 22:56",
+        "published_ts": 1791813362.0,
+        "tag": null,
+        "first_seen": 1791813634.601607
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5TeW5rNlUwQTZQLU8yYjJabk1wclJEYkRTZGI5NV8wM25qaTBHbXc3aTBRbTVEcXJHWFAxMklTamMxQUpMS1JlVGhNT3JzcGNwdG1KNFFqUnp4TXFCU2lHa1o0cF9qaXdOa3c?oc=5",
         "headline": "\"이재명 정부 '미래대응기금' 신설, 재정분권 흔드는 시도… 정책 아닌 정치\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791450182.0,
         "tag": null,
         "first_seen": 1791632721.040837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPc2pra1F0amhFVWtKQWV4OHlacHdRRm5zU0p3d0JvcnVNV1VubTRqcy03TlVJNl9nQzdaUWlGZDdGWWh1aFZqNXhnRVBxdEJ3LWg0X3N5T1NXZ3JmNVcwSUxjMTFsMDNqYkNrTVZRMTVNbkQtSG1zSU5hbnNQRVhxTlk0b0pjd19GUERJeUt2Q3BxQW5PV3VyOGZFQUhfZVBqbndqeWJURjJUSlg5YjF3ZzRFdTNfeHZjOWR2djZVYWY2UTZRX2Y4N3ZLNFd5ampjTjR6M0xxQWNXUTZ3UGtKZ3l3UkxuV2ctTHEwZWlFYVBkQ2g4WWlMWjJ4d0x1Y0xSenF3WQ?oc=5",
-        "headline": "슬롯 롤링 작업 에 대한 진실: 흥미로운 사실과 통찰력 있는 분석",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/08 17:41",
-        "published_ts": 1791448867.0,
-        "tag": null,
-        "first_seen": 1791494123.6037364
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 22:45:47",
+  "updated_at": "2026-10-12 23:01:00",
   "yields": [
     {
       "label": "3년",
