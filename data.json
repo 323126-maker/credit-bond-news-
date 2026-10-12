@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCcXhiTGZqaVE0ckhWSDh0YjJ2ZXdpbGpQS1BoZXkwMnpSVnF1OUFOSWlkRk1tdTZqMGlVV2hfQ0ptQWJnMTdTMlEzd1I2dHU4RmNIckVKdkFna1FZbUZqaA?oc=5",
+        "headline": "9월 채권시장, 개인 4조원 순매수 속 외국인 매도 확대",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "10/12 12:47",
+        "published_ts": 1791776859.0,
+        "tag": null,
+        "first_seen": 1791779431.5967178
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KaFlJRkF0b3IwYS1kRHFMT2pIa0tPOU9KNzFaRHZRSmZMRkczUDFvMExGaUVzcFZSZmZWMWVUbF9TX184dEF4X3k4ZGllOGJic2I5N05rdWEteWtfZ0RYWTlWdWFXdThDNDVJdDN3a19kMlRsQnFBUldaSdIBgAFBVV95cUxNOUh5aDV2aFpZc2lGUmVOdmJGMXdsSUNSTEtXT0h5MGhMT0VjcVJucFI3aUhSbmdnQ3diNUZib2djWmFmMzZUMlFjY3M2LUE5NElrR3g4bmRIdmFBNFhUTnlnNW80MXBQRktmSTh3bE91SWlJMktzZzRJQWxHY0FiUA?oc=5",
         "headline": "핌코 \"美 10년물 국채금리 6% 가능성\" … 채권시장 경고음",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791670020.0,
         "tag": null,
         "first_seen": 1791676837.2472284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNemNzdUFWZGVaejNqWHU3VVJ5ajNRdzNNSnFsb3FScVJoSU43MHhYMXdJZUdxQWZqVjRPeUhhMmFGTEFxVzg3VTFnZy0zR2RlMDBTYkN1d3B2SUR6eWtIbUpGMUI1bWM1TlJFUk5jLVh4a21mb2tlenpycmdtQ3FHSQ?oc=5",
-        "headline": "올해 신용등급 하향, 기업 수는 줄었지만 건수로는 48% 늘어",
-        "summary": "",
-        "source": "한국경제TV",
-        "published": "10/11 06:35",
-        "published_ts": 1791668100.0,
-        "tag": null,
-        "first_seen": 1791670475.2825325
       }
     ],
     "perpetual": [
@@ -2000,14 +2000,14 @@
         "first_seen": 1791762321.0807333
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQaXI3VHRBN0FYMnR1U0NKLWFHVDBMRDhWNWY4dFBZZWpqRlhUeUN0dWc1UURDbXJmMWY2UmNUVFZhaDYwNGhBTVlINFVtb1hZajN5VGQ3YXRoazJtU3FBNFRfX3Z6NFpjbnlmRTAxU1k0WmM4aGpqTWQ4d2ZIbVFqY0dDMFRrQkRNaGJZNEl2SHJ3NTJFcmc1bTBMYjZqczlYLUcwRzNzWk10VTVYMGJUQWlLSnFTYm5sSV8yOW1DeC1mRl9QZGxKVVVaV2Vycm5KTTAtUW93a1BxSU0?oc=5",
-        "headline": "JPMorgan CEO Jamie Dimon Sounds the Alarm: Why U.S. Companies Could Face a Costly Debt Squeeze",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdkxDNGZOeXBtMm1PbEFCeENnMzlEODVQUW41NkV6RlpqWVdOMjBIc2NkdW0xMUJJa1hiRjBPN0ppSVdJZ01iWS13bGhhTkxGMG5iRlBBQ2ROWi11UllQYVE0WUdORnZxbXhaY1hmNDVhS0x2bVQtQ1kyd0loYkhSb3V0eFNRTzlPaGQwalg3dEFvS3R0RzIzRHhB?oc=5",
+        "headline": "What the sell off in bonds means for monetary policy",
         "summary": "",
-        "source": "mibolsillo.co",
+        "source": "Yahoo Finance",
         "published": "10/12 03:37",
-        "published_ts": 1791743820.0,
+        "published_ts": 1791743844.0,
         "tag": "Strategist",
-        "first_seen": 1791749722.7169747
+        "first_seen": 1791779431.5967178
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 13:15:49",
+  "updated_at": "2026-10-12 13:30:54",
   "yields": [
     {
       "label": "3년",
