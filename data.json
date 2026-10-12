@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMkVuZjdvR0ttamFNTTQyRlpGQkxuTzhiS25BMlVrblRsdW1ab2FZWEhBRV9zdXF4cTZFb1ZvX3ZoWU9lZlAtQ1MyeU9QTXk0M051Z1NEZ1kxdlZoVXNpUEU5S3hzaWlCX1VDTVpsUUVMbHYxZXItSUc2NjVzZkY4bzNucTFBMlVXc29fOE14ZUczaFVBT29VWFR5ZzlqTVU?oc=5",
+        "headline": "무디스는 ABBank의 신용등급을 B1으로 상향 조정하고 긍정적인 전망을 유지했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/12 21:17",
+        "published_ts": 1791807465.0,
+        "tag": null,
+        "first_seen": 1791808228.8673582
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5GdXpILV9MR3YwYXgzbHNjSDlmTEpsYzZqTDNLR29GMm02V01ZWXRpUzZWQ01qQkliaFQyX2I5VVp3WnRCVnFSbWpxMnFpMEdBS0tnaDZDd1psaTZHaFA5LV81RlZOelZCWXhqSVFIWlo?oc=5",
         "headline": "골드만삭스, 3분기 실적 앞두고 주식 비중 확대…채권도 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791752400.0,
         "tag": null,
         "first_seen": 1791774921.219953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YR3R4TXoxWDFGRy1JZC15UTB4clZZbHgwVF9sczd1OEJyMTE2LU91SFg2M1F6U0VfRTZJSkdWblNya01VY2QyR3JZMEIzbmZrNk9EMmNnekpvMVFLd0Y3blB3WjA0VmpUOXZZ0gFwQVVfeXFMTVFDbTdmMU9fLWZaUEJpd3RnRkNsZ2Jod1o4cDkyLXo3azRibVYyNzl6SzJRUjMyRXR4YWFUM3d1OTJ2dHoyYl9OYnFjX1BGcEZkQi1GcWFfR1pfLWt1TGp4emdDSDZJcUtTR3IxMjBUcg?oc=5",
-        "headline": "[MMM]주식 투자할 때도 '금리'를 살펴봐야 하는 이유",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "10/12 06:00",
-        "published_ts": 1791752400.0,
-        "tag": null,
-        "first_seen": 1791763236.4209447
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbGFuVVBhbkRqcmp6RDhPbTRqa3FWaW4yTTRPaEhUSjQtMUYyMmVJVGZPYUh3clliNDVaMGQtVjJkYWRlVmZjR0J0UF9weTE2NGcwTTB2RmJJNUtaZnpUR1VkYlFYc1FwNWp4WGJTYWFPa0hWVEl4eHBGUEN6YVZZXzQ0bGdwekU4U1g0Q1JOVmVuSmFyZnFDUnRGMHY?oc=5",
+        "headline": "Lei Zhu: What Swiss Investors Can Find in Asia",
+        "summary": "",
+        "source": "finews.com",
+        "published": "10/12 21:15",
+        "published_ts": 1791807304.0,
+        "tag": "Global",
+        "first_seen": 1791808228.8673582
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSXowOVpqdk1qMnNVdkNEUXlacmVFYUZWVEpCTzY4NFBmMDl4anh0TURiMHE4Mngxa0VieUhkc2pMRHg2dlRJay15Q1pnMF9UUy02SjJ0TFRnSmpndk1kcEJZYXRhOV9uWEt0al9ORVQzX1N0WmQtQ21Sb2gwUHpBS1g3MlVlbW5TWTFXQktkUjRBSWRvbkdOVzRSWTlLNFhhWlFacnlraFEwTjJ2NmlCMHkxYVBtNkMtRk43bU9HbExlSTZDckZwR2cyZjZ5NzJLMFE?oc=5",
+        "headline": "COMMENTARY: Why surging yields aren’t spooking corporate borrowers",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/12 21:07",
+        "published_ts": 1791806828.0,
+        "tag": "Global",
+        "first_seen": 1791808228.8673582
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84cEhIOVhGODZMbV9zNnJ0Q2cxQlNGZnY5eDNwc2t4Z25CeVZYejk4Ukpta2N0OU5SeXZ5MEZRVEFURWltNkZQcXh1ZWEydFAtR1V4YmtBcWh4V1l6M2dHbDRySGo1aXByMUZacUpVYTNqUTRpY2c?oc=5",
         "headline": "Morgan Stanley Strategist: Bond Market Has Already Done the Fed's \"Rate Hikes\" by 120 Basis Points — Two Key Signals to Watch for a U.S. Stock Rebound",
         "summary": "",
@@ -1708,6 +1728,16 @@
         "published_ts": 1791796980.0,
         "tag": "Fed",
         "first_seen": 1791804633.6831217
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZXpNOEVxM01sSzViWjZNbUFqeFJGU1B2eDI0MU9iVjc2NGNwSl9adkVfT1hkQlZSV3Nld3dVeWc1VUJiemVwRUsxMjk2ZWlxeDlTTGhBYzNzeXQ3R052LTQ2QVNyZmpFX3NuUXp2SjZMdDVPYUFIWXhEb09yWER0OGxoVklXcDdDU09hYVpUR0IyQzI1el94VHhDd1J3Y294?oc=5",
+        "headline": "How the professionals are responding to the bond market sell-off",
+        "summary": "",
+        "source": "Interactive Investor",
+        "published": "10/12 18:16",
+        "published_ts": 1791796560.0,
+        "tag": "Global",
+        "first_seen": 1791808228.8673582
       },
       {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5IdE1Qb2MtMmRKT0hRSHhRWTZOWGNHN3BBODdBVElHZFFYQ1JOV3g4ZTY3Y2J0cHFVOGJ0SGJmUDNXU21BMjV2Q2hOci1xT1p6bjdLU3Z5WmFOZ2ZZdzNUYTNBcnprb0hLSFZXS2hsWTdmcy1Ec2o4?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1791776983.0,
         "tag": "JGB",
         "first_seen": 1791783932.4329438
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5VMmNoQVRmMzFlU1JmWWJ3Rmw4OU8zbW4xOHhnNkw0MUF4RmVPT1BUZU9DcTY3OVJ0aWFpWEFFamZYTjBjQW5pYWk3YVB0cEhUVjQtU3lnQWE3MHNYb3FuUE90Q0xyM0R6bjI0blI0VXJ3SV9zbWc?oc=5",
-        "headline": "BofA Strategist Drops a Bombshell: A Fed Rate Hike in October Could Be the Market's Biggest Tailwind",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/12 12:35",
-        "published_ts": 1791776100.0,
-        "tag": "Fed",
-        "first_seen": 1791777637.4447188
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRXFXaVFwNkZIV19TUEpGLVQybGhDTzhaTkpUMU50YzRQa3dvdl9tTm1EaGZXbHJmTHFiTEpUVkFrMnJaUVBoVzRvUEFTZDZ1TDdFSHFZZUxsWm9VRGp3YWpoTkQ0eVBEWEFpOFFMek1rajUtVFBxRVIwbElQZ0k0Y2todmVMdDBNRHJrOGhycWZoVzY4WjNNYThjRkRId21hX1ZJMjktdzl1ZVVKUTZib1dsT20?oc=5",
-        "headline": "Decoding the Fed: Why Markets May Be Overestimating Future Rate Hikes",
-        "summary": "",
-        "source": "deVere Group",
-        "published": "10/12 12:24",
-        "published_ts": 1791775451.0,
-        "tag": "Global",
-        "first_seen": 1791788435.9394224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZaDJRejZqcUZOaERockFXeGhPSWp6NzQwX0c5V1hIMThkZXJ2WXVWSnFMQ0dOU2ZYMk1JblJsS21FTkluWlhjVkFleGR6SXRwQ3ZLeVVHV05kU1Y2RlFqRlF3?oc=5",
-        "headline": "“韓 금리 인상 전망 급후퇴”…국채금리 폭등에 벌어진 역설 [이슈+]",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "10/12 11:55",
-        "published_ts": 1791773727.0,
-        "tag": "JGB",
-        "first_seen": 1791774039.9379838
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-12 21:15:48",
+  "updated_at": "2026-10-12 21:30:59",
   "yields": [
     {
       "label": "3년",
