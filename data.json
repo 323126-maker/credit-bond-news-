@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmxZLUk1eHBwcjBPNWxCRG1YRXBVZmpjdm9fZF9vaThCVmJGSXBUaGVvZ1M4WUdydHVQbDBOVTk5aTkxUFhUSWxGdzU2Wk9Jd3ljWjExekViNGpOLTRjeTlnQlViV3ZyXzlMSWo3NzlOMnUwYzdIOXNLTlg0Y1I0bUV4eFdoNG5vb1BJOFBEQUE3OGFnbW5LbFViZ1hVZVdBMTJwVmxyQ3JPWTRDSEJjcDRBVDNjZ21RZXRCOWl5YUJ0TDVDbUFsRw?oc=5",
+        "headline": "BlackRock Says the Market Has the Fed Wrong. It’s Buying Treasuries With Yields Above 5%",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/13 23:25",
+        "published_ts": 1791901500.0,
+        "tag": "Global",
+        "first_seen": 1791901833.9433856
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOF9VM2lvOVBVa1BYOGpnamJNUll1M0xQTHBnQTZFYUxUNzdBZnZXZU50VmpqaElNbmNVMk1mRGZJbnczeFlueEFxMzBlUDktcks2OWRoN3ZJekV1RURJb2x2Q1RUSDhiQktMNnlGU0dGY1ZzOUtvSURpMDRHZFZKN2FsZGY3TEdIeXc?oc=5",
+        "headline": "The Credit Rating Agencies Which Price the World",
+        "summary": "",
+        "source": "Visual Capitalist",
+        "published": "10/13 23:16",
+        "published_ts": 1791901017.0,
+        "tag": "Global",
+        "first_seen": 1791901833.9433856
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVnZ5c1oyR2hfWUV4Wm9DcWF0WjhzUDRCWDQ4NFZDS3NQM1pEdGZIYWpGTi1xTEYtcFhUbjNVSUc5NHVncTRIUmN1c1dNWEQtWEdtR2U3eTBDNl9SLVZJOW85SHk0eXg4YlNTai1ITTF3U3ZiNHZ1NHJleXU4S0NvTGVKRnlkUE1YMkNyQlZsOA?oc=5",
         "headline": "Fed Hike Puts Bond Investors at a Crossroads",
         "summary": "",
@@ -1986,26 +2006,6 @@
         "source": "아시아경제",
         "published": "10/13 14:03",
         "published_ts": 1791867819.0,
-        "tag": "JGB",
-        "first_seen": 1791868521.4755852
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5zVUZUckFSbmNaSXFLR1B5V0YtUFRMaTJwamIwVXc3RnJUUXZwRjF4cGczR0pqakVmZXB5Q3Q2b0llaVp6cVpkekNSZ2MyQnJBZ1AwZTJ4b1NGYXpFbFBsVEE4OEpsWDNWSUxpTTdiNE3SAXRBVV95cUxPSHF2MG1WNFV5Y3Z2anpONzhmRXFTRHlWVlAxQ0Q2WmJmYl9iQTkzb3R5TURfWUF0aEd3amp3OTRwbkFodXhxMzVmMEEzaWExV2JXanh6Wlc0Umo1RVg2ZUhWbFk5UjVwNGRjeVdlS19xcTNmNg?oc=5",
-        "headline": "국민연금, AI로 ‘통화정책·기업실적 분석’ 자동화",
-        "summary": "",
-        "source": "주간한국",
-        "published": "10/13 13:59",
-        "published_ts": 1791867552.0,
-        "tag": "JGB",
-        "first_seen": 1791868521.4755852
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcnJkaXdVVzQ1eGhCUzFrSkNhZUtQQkI5cmo5Z1dwQ0tJQk9sNVNCSmJpc1UzTGQxaWhlWGIzNVBxNkF5eDNvbTlJTzBGUmV1VXZEMkZzMWZJM2Zna1Y1em8xb0hEZmJyQ19FM0NVa2plMDVOZzJDdERDTjFROGdjbmU3QzRtdDd0M3c?oc=5",
-        "headline": "\"8시간 분석을 10분에 끝낸다\"…국민연금, AI 리서치 체계 구축",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "10/13 13:58",
-        "published_ts": 1791867502.0,
         "tag": "JGB",
         "first_seen": 1791868521.4755852
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 23:15:53",
+  "updated_at": "2026-10-13 23:30:56",
   "yields": [
     {
       "label": "3년",
