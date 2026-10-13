@@ -1620,6 +1620,16 @@
         "first_seen": 1791882922.4110386
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBpYnBJSS11UU8wRTRobnE1UUdIbHZWZmcwVExfNnlTd3U2TmIyeU5BcGxwQnhyc1FHeXFaVzd5VUc4a3BUZmRmTjRUOTYxOFJx?oc=5",
+        "headline": "\"日 중앙은행, 이달 금리 동결에 무게…12월 인상 가능성\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "10/13 17:59",
+        "published_ts": 1791881984.0,
+        "tag": "JGB",
+        "first_seen": 1791883829.025048
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMGhTREh2TDZFZWlEN0JPTmtmUEtmY3dncHZGazB2eE9ZcWh6UmktT2ZidEkzbDQ0d3hqeEp5Z2VQOHdqZ0NJZUlaLUJ2c1FUSXBvQnQ1M3dITUljWTFIaExCODRoOC1zMVQyZ08yY2pwS05xakZLSFh2YlRDenNGQXBxSTEtM1ZLQW1rbTBoZElVNUNkUk5ubEdkMkNVdw?oc=5",
         "headline": "Higher yields are creating opportunities in global bonds",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1791874260.0,
         "tag": "Fed",
         "first_seen": 1791874835.4854693
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSDE5ZGVuMGg1dWh5bm9nUU9DNmc3bGo2LWFDcDdUTDlLbHJwb2ZXVUdHNWZFSnpqLVNXVXREb25xaFpxQnB4NUtCbXFQQzVIUWk4eE9Xem5OOTM1OGd4WUR0cU1lZHpqckdiUVk2N2Z2VGNrSjBfaGxfXzY2SW5Jb1dCZ3hVcURLRkwyYTZhSWhGdmYxTlE?oc=5",
+        "headline": "IMF Warns AI Market Correction Could Trigger Global Financial Turmoil",
+        "summary": "",
+        "source": "Unite.AI",
+        "published": "10/13 15:30",
+        "published_ts": 1791873033.0,
+        "tag": "Global",
+        "first_seen": 1791883829.025048
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xN3VRaHdQb1RHMkxJVFBuNmJPb1FUVGg2ay1HdHhiQldnU1NQbk92RzBhUV82aXV6YjdqczZ5VGNQbktQTnYwX3NYZmhpQ2tSWE44TGtPNUJ2YnpNaF9QeExSRGI0M3d5OTQ3MXRxZ3ZiZkkyM1E?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791851880.0,
         "tag": "JGB",
         "first_seen": 1791852321.761696
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5peURWbGtrWHRHZ3ZqVDhtc0FTd3FJcDNuUkg5dUhtYm9LcEt3MGw0MldwUDAydzAxdXZwNHNnaUx1VGNCQnRHX0hNR0pjLUlXMFBpVWtRWlJ3LWF2YVE?oc=5",
-        "headline": "100엔당 843원 '초엔저', 일본 찾는 한국인 더 늘어날까",
-        "summary": "",
-        "source": "동행미디어 시대",
-        "published": "10/13 09:21",
-        "published_ts": 1791850916.0,
-        "tag": "JGB",
-        "first_seen": 1791852321.761696
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDRUbDN6Z0hENlZlVVVIN1ZFRWhrVVBiWlFlUWpybEp4WUZsLWdSMGVYcGI4U01SN00weFVSQnJLZWx0OXIzNmJmSmVwNVk0UjRMNzFLTEN5Y1llc0JCNXpBemhqejV6ZVFyQ2tOZ2JwU2xxeDRaeVFoTGQxUUhTOXp5ZzFyTjdtT0NpeklB?oc=5",
-        "headline": "Bond Expert Advises U.S. Investment Amid High Yields, Low Exchange Rate",
-        "summary": "",
-        "source": "조선일보",
-        "published": "10/13 09:12",
-        "published_ts": 1791850336.0,
-        "tag": "Global",
-        "first_seen": 1791850525.3473763
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 18:15:45",
+  "updated_at": "2026-10-13 18:30:49",
   "yields": [
     {
       "label": "3년",
