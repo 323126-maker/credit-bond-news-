@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STTdLMDduX25VRTdzeWJjbGNlaVgtUGZmYWhBdzZCS1NKekt0V3lFQklMRjhtM2d0eW5xSmljREhXWWk3aWVueUszcHVWYkl6TFo5SHZOSGQxOUNSYWpzSGtSQXVRNVU?oc=5",
+        "headline": "메리츠증권에 '구원투수(?)' 자처 하더니...메리츠화재, K-ICS 하락에 배당 부담 '눈덩이'",
+        "summary": "",
+        "source": "청년일보",
+        "published": "10/14 08:00",
+        "published_ts": 1791932403.0,
+        "tag": null,
+        "first_seen": 1791934228.97471
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNVlZHQWF1N2h2cUFoNHNPcFpNbzN2ZDU0UnlYVnF4czFMT2JMRU95c3UyaHQ0QWlOOU1MeUZINm1ETHozc3NpYkQ1QzhuTTd5ek44TmRfdWhiWkkzczgtdE5rc210RW8ya3MtcG1jTFPSAXBBVV95cUxQTVZWR0FhdTdodnFBaDRzT3BaTW8zdmQ1NFJ5WFZxeHMxTE9iTEVPeXN1Mmh0NEFpTjlNTHlGSDZtREx6M3NzaWJENUM4bk03eXpOOE5kX3VoYlpJM3M4LXROa3NtdEVvMmtzLXBtY0xT?oc=5",
         "headline": "삼성생명에 선수 뺏긴 삼성화재…캐노피우스 투자시점 ‘고심’",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791494577.0,
         "tag": null,
         "first_seen": 1791704720.292791
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9seHk5azFrVzJBejFZbktPUi0tRHBLcmFxb0g3TFBLOUNFUTlxREZ2dXVoZlI1eDZRelkwUTh6ekR3aU8zZ3FkWEJVRjlqdzhaQUx2eFdodW1INXRSSE9fenBfM0lia2ktR0ZhM09VZ0XSAXRBVV95cUxNX2RVY25wN0l2dTNQX2RxMG1KNHhPX1RqczZMdUM4cGhrZXZQNU1Lc1hxUzlJTUlMam82Z3BXd1BZQ2FTTGFsdWZ4b0JVZlBPQ294a2ZpOWRVUGVhLW5MLVh2QktBWEhhRHRBS0wydS1TNzFlTw?oc=5",
-        "headline": "삼성생명, 최대 2조 신종자본증권 발행… 창사 이래 첫 채권",
-        "summary": "",
-        "source": "IT조선",
-        "published": "10/08 19:52",
-        "published_ts": 1791456740.0,
-        "tag": null,
-        "first_seen": 1791457237.6744742
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 08:15:49",
+  "updated_at": "2026-10-14 08:30:52",
   "yields": [
     {
       "label": "3년",
