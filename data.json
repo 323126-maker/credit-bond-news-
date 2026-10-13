@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1jZjYxR1d1ME13aG9Fd2lSdk9DV3hQVGlsMWZieC04RUhSZkV3bUFRUWE0U0V5bFNKbkZ1UzNMSlo4cUFkVEVJdUcxOEx3Sk8yV2kzSlV6TVJZaEpzcFJLTlZBM3Z6MHZHcVJqRWlfV0t0dndWVTlzY2FvSUl1LWvSAX9BVV95cUxNY2Y2MUdXdTBNd2hvRXdpUnZPQ1d4UFRpbDFmYngtOEVIUmZFd21BUVFhNFNFeWxTSm5GdVMzTEpaOHFBZFRFSXVHMThMd0pPMldpM0pVek1SWWhKc3BSS05WQTN2ejB2R3FSakVpX1dLdHZ3VlU5c2Nhb0lJdS1r?oc=5",
+        "headline": "\"도정보다 중앙정치 기웃\" 지적에…추미애 \"한 치도 소홀하지 않았다\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/13 13:24",
+        "published_ts": 1791865449.0,
+        "tag": null,
+        "first_seen": 1791871236.2992227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04UjY5Z1hhWUtYQm9OVzRMQVlrdjJXRkpOS3FrR0FTWVFIQTZGMzBVbVM5M1RWRzRTRHlVUnl1UHUzSFg4OVhhREZoRnRFQ0h6SVdTRDNvT3kxZkRJeHhBYzRHVGx3T045Zl9DNXloLTZObUk?oc=5",
         "headline": "이재명 \"금리 인상 기정사실, 미국과 차이 줄여야\" \"서민금융 문제 가능성, 재정 대책 세워야\"",
         "summary": "",
@@ -1596,19 +1606,29 @@
         "published_ts": 1791492093.0,
         "tag": null,
         "first_seen": 1791493234.2679112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNVGZEck81LTU4VWdCMHdDVjdiWW5Od3F6M2w4OXliaGRBLWIyUDhkMXN4X29kaTVZVGdlZ0k2SjRtTVhyMkNHbHdyemNDekE5Nm4tMWxIUzY0VjNVZWF0TU1fNEFLRjg2VkloajEtOFh2QzdQc2gyYXh2VURJaTlVMGRNTDhpWXRKWkE3ZXE3eGZGQnhKN2R2WDMzZTRnRGduTnFTbVlzWG8tYU9EQlMweUozSXBWaGVkS3FoNzVKUEZ5Z3dUbzZlVm5FMXNCY01nendkdDB0QQ?oc=5",
-        "headline": "메뉴 구성으로 판단하는 세부 누스타 카지노 후기 접근 편의",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/09 05:01",
-        "published_ts": 1791489696.0,
-        "tag": null,
-        "first_seen": 1791501321.9265175
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8zWlVRaTUtRzJhNk1RZ3VrUzV2Z2lLVjR0bHlvV1NzS1hPbi13Z1IzNmZNQmdYcVFqajY4NllfckIxWUJYMXBDX01QSmVmeTVQUnc?oc=5",
+        "headline": "국민연금이 美 아마존과 손잡은 까닭…“AI로 주식 분석할 것”",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/13 14:40",
+        "published_ts": 1791870057.0,
+        "tag": "JGB",
+        "first_seen": 1791871236.2992227
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BcWdFZWhNWHFjWF9IaWtSYzRUOFJ6LTVzWjlCQ1ZWYVJRd1pOcDRxUUhBblZzX2pha2R3aUJBVGhsSUU5bEJDTW9xTmMxeGtYQ2fSAVNBVV95cUxQdE9JSmxwUW15cWtuUHJIT1QyWjBpU3F3M25DbG9HQkFseEF6elEySEFCbXg0eVdac3hwNWpaOVlqbURPMTNHVFhWdDl5VzliTm1KZw?oc=5",
+        "headline": "국민연금, 통화정책·기업실적 AI로 10분 만에 분석한다 [시그널]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/13 14:19",
+        "published_ts": 1791868796.0,
+        "tag": "JGB",
+        "first_seen": 1791871236.2992227
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNZDh0MUx5cFo5Z2NQODYtQTFIbDVQOEJITG1VWFBsUkp4NFVTZ0pRS0ZpWlZIQ2NyczdjOWlob2p0ZlpiYUVmZzJ6MHF6cUpLYV9reGNtWmNWcERVdUxSUtIBeEFVX3lxTFB5dkhVOVJsY255T3VQQTdxYWN2RlpveTY1RW14aGZIaEEyZHQtZHNLMGwxbGt4cnZWQ0k5LU9ubVU5X1lteWpyRjZ2MG1NRzZKZlR1WmpIeGx0STZKNlhoZk9xelZKR1EwUldLeTREY09yVlp0a1R6MA?oc=5",
         "headline": "국민연금, AI 분석체계 구축…180시간 실적 분석, 10분으로 단축",
@@ -1910,6 +1930,16 @@
         "first_seen": 1791847826.3072164
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQc2xlVDNtQTB2aG9nbm5SVjBRb0J1OU5wNjhHa1hHX2lZREZSUC1yTUFySmk0RGVwd08xMFVzTXdIRm5hVGVtbG84anE0MmJETjUzaWRmTWxqbEtxUC14MzFvQlJCWHdSTEU0b3lOY1NMZ1ZFVWx1ajJRMm1uakJnTk56dmY4dHZheXVoNE5xSnlwYlltcDM5QjJFT2xwbnFVSVdMMHg4SjhFWkhuNk5Fd001dmFlZmRnYkczNHhxTlU2Mkk?oc=5",
+        "headline": "Kevin Warsh Reportedly Explores Cutting Frequency Of Fed Policy Meetings",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "10/13 08:05",
+        "published_ts": 1791846348.0,
+        "tag": "Fed",
+        "first_seen": 1791871236.2992227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1YTEJuZEZhbWVLMHAxOExEbWUtdEdYclZ5cy1Kd3lFbFRBMjU2ZlUxYm0xZWNrd3dEN3NiNU5XUl9mRXpSeld0MENFZmRyZWtxSDRGTUpPTUMtaDd3TElvYkFJMU9hMmFfMWQ4WkY3MjcwZw?oc=5",
         "headline": "[노현우의 채권분석] '총량'에 방점 찍은 한은과 딜러의 근원적 고민",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1791836918.0,
         "tag": "Strategist",
         "first_seen": 1791864034.5176265
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE96MFNlU1lHbFlEdlBUX3FTWUd6am05M2d4YnlMaGlfVjNud1F3YXR3ODdHV2xoR2VPOVRkaDlGZXRlQVJ5N1ZPakRmcnRkODRHUWRCcGdPUlI2X3pkeEg4?oc=5",
-        "headline": "어떤 항목이 게임 규칙에 속하나요? 수유 바카라",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/13 05:24",
-        "published_ts": 1791836652.0,
-        "tag": "Strategist",
-        "first_seen": 1791851430.7397184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTlFSb29iN2R0OHlZNzd6SjNjbGtuX0dkUElJRzRkZzhoRlJTN3ZoWm1zMldENnZta2psdFY0clZzUUV5bWU5NS1pb2FHNjFUUXZ4aHVEWlVRSUJfM0tZbDhsWXR3QWxwNkkwbkkxaTFhQnlxZElUUERjRVA5M0VpbnZVblU0eHhqbUpUa0I4N3Q0eHZlZURHY0Mwd0s0dw?oc=5",
-        "headline": "Bessent doubles down on bond fix as mortgage rates near 7.5%",
-        "summary": "",
-        "source": "TheStreet",
-        "published": "10/13 05:14",
-        "published_ts": 1791836062.0,
-        "tag": "Fed",
-        "first_seen": 1791851430.7397184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaHRSNlFHdGpGd19sYzlnem9GWTNYUERrX19Mc2xWMWw0dTNRbUY1X2tPVzd0R21MNzFYaDhuVXJLV0ZnRG1uaVRYaHAteDJQZjNsSzEySW1tbGxTN0lLRkFybEZIU3NJakttOW5YdEw2a2d4eFZ3Q0Q5NzY2a01teVdoTE1vYWxKX1hCdkdn?oc=5",
-        "headline": "Talk Your Book: Will AI Debt Cause a Recession?",
-        "summary": "",
-        "source": "The Irrelevant Investor",
-        "published": "10/13 05:06",
-        "published_ts": 1791835578.0,
-        "tag": "Global",
-        "first_seen": 1791863119.9710784
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 14:45:53",
+  "updated_at": "2026-10-13 15:01:01",
   "yields": [
     {
       "label": "3년",
