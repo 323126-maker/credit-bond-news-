@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNm9rRE5ya3BqdjNiRVFMdk5lSXpQdU91WHM5ZldJTUgwUWRlX2JQRVBpVEl1ZlBRLU43VFJNWllwMk96S0R2NUY4a0hUX1BGNTloWW41VXc0RUFNWHNvSGh6cmxIMHBIVjQtN1BQdk01c1dKVFhLZEw2OTRqNVI0cEZnSGRQMXY5QkVsNTBvZlpBOEZoNE4wUndHMjVKRjh1VndMR1lLNEc2aTJZSTlqVnk5cUZ0NTMxcHZVaWlkXzFidkNjT1kzdg?oc=5",
+        "headline": "BofA Survey: Bond yield chaos is still the largest market tail risk",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/13 22:18",
+        "published_ts": 1791897529.0,
+        "tag": "Fed",
+        "first_seen": 1791899120.7493982
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0hQZERuMlgtMnFqajR6dEZCZ2pjNi1YT0ZmRlEwZmhKcGRyanhrRlZHbTNtOUlFVzVqMlpua2p4bXJURm9Sb0hua2FJWXYtSVpzRlVqTTR2Tm5mb0pmellFenRYOEdtVm9SY1NoYndZSjdtWGxkdDhiUzFDZzJwWTVSQTdJVU5jT1ZLR1NKRldnYmUtOERKeWQ1N1ZkMFNtbEtN?oc=5",
         "headline": "French bonds face fresh selling risk as Japanese investors reconsider $145 billion exposure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791866510.0,
         "tag": "JGB",
         "first_seen": 1791867636.1381927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTE93bE1mSzI4STA1MzdFckhUWnJvZzR3OS1KRERaQzRWQW1mS0tNcVp1akZMamxFWm1kSHVncmhxUnVlNENUUHZWVlRKUnlVREs3RVQ2VE11UXVDdE1xR2FfSnRGOWZQZmFKNElYT3h6NkFHQlFoeE5TUTFnS21DUm5LWVlUTl9OdU9xNjVnazFycU1YMUxMM2NGOTF1ZmRKcGVVT2U1NA?oc=5",
-        "headline": "Cyclical outlook: Growth holds, risks widen",
-        "summary": "",
-        "source": "Zawya",
-        "published": "10/13 13:36",
-        "published_ts": 1791866160.0,
-        "tag": "Global",
-        "first_seen": 1791868521.4755852
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 22:30:58",
+  "updated_at": "2026-10-13 22:45:44",
   "yields": [
     {
       "label": "3년",
