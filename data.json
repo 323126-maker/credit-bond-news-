@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5LRGpwcjItYjNDV08wcVJjdmJsZVZSZkNkV3FKaU9IZi1TdjJGRG9EOXgxU3RBRTVBakhISDVOdTQ2Tlp2R3c?oc=5",
+        "headline": "주식에 배신당한 개미 “채권만 믿는다”…3분기에만 10조어치 ‘줍줍’",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/13 20:42",
+        "published_ts": 1791891728.0,
+        "tag": null,
+        "first_seen": 1791897321.9461834
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMVRtVnBJdkJIc2VqQVZBRm5DeTlXcmNPTmNReF9zaDhERFltc1BKb2c4QzZuUGhaS1NmSzI3emlZRHVrRVB0d0E2MVhfeUhZLVE?oc=5",
         "headline": "개미, 주식 7조 던지고 채권 10조 담았다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791752402.0,
         "tag": null,
         "first_seen": 1791760532.4998076
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBueU9nTUU0aWxrSDZkSlZOQzNmdnRLdWF3eDh0VXNGbFVnWEhzRmlJeW5KMGVRRWtqa3VyQVFBQ04wYnRTY0lJdW1JdjVhUTl1OUJHbw?oc=5",
-        "headline": "국채 발행 줄여도 금리 다시 '4% 턱밑'…정부, 추가 안정책 고심",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/12 06:00",
-        "published_ts": 1791752400.0,
-        "tag": null,
-        "first_seen": 1791753322.0182867
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX0hQZERuMlgtMnFqajR6dEZCZ2pjNi1YT0ZmRlEwZmhKcGRyanhrRlZHbTNtOUlFVzVqMlpua2p4bXJURm9Sb0hua2FJWXYtSVpzRlVqTTR2Tm5mb0pmellFenRYOEdtVm9SY1NoYndZSjdtWGxkdDhiUzFDZzJwWTVSQTdJVU5jT1ZLR1NKRldnYmUtOERKeWQ1N1ZkMFNtbEtN?oc=5",
+        "headline": "French bonds face fresh selling risk as Japanese investors reconsider $145 billion exposure",
+        "summary": "",
+        "source": "Equiti Global",
+        "published": "10/13 21:05",
+        "published_ts": 1791893118.0,
+        "tag": "JGB",
+        "first_seen": 1791897321.9461834
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUnNpeEdRTVo5Wng5QnZrV3dCNlQyaGFta1l0VF90eXdHMVYtZW5HWG1IZFdpcHhFRTN2eEE5LXdHSXl1WmFqMTgtOUFXTkd3b0xXX1RSaWh1RjhBVmVvNEh3Y0I1U3VoaWQ1YjZFS1JkRGZjcl9reERzU2YycVE2amljS3BIYmxSb1p1X2pMc19EOVNj?oc=5",
         "headline": "Tap Cash-Rich Stocks & ETFs to Weather Rising Bond Yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791866100.0,
         "tag": "JGB",
         "first_seen": 1791866722.6961148
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSDRUbDN6Z0hENlZlVVVIN1ZFRWhrVVBiWlFlUWpybEp4WUZsLWdSMGVYcGI4U01SN00weFVSQnJLZWx0OXIzNmJmSmVwNVk0UjRMNzFLTEN5Y1llc0JCNXpBemhqejV6ZVFyQ2tOZ2JwU2xxeDRaeVFoTGQxUUhTOXp5ZzFyTjdtT0NpeklB?oc=5",
-        "headline": "High Yields, Low Rates Lure U.S. Bond Investors",
-        "summary": "",
-        "source": "조선일보",
-        "published": "10/13 13:29",
-        "published_ts": 1791865788.0,
-        "tag": "Global",
-        "first_seen": 1791884720.6079774
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 22:01:06",
+  "updated_at": "2026-10-13 22:15:48",
   "yields": [
     {
       "label": "3년",
