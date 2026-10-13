@@ -42,6 +42,16 @@
         "first_seen": 1791887429.2203674
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hbnIyeVRuaVdUbmg3Y0o5OFRHVW0xaXFvYUdFSjNNWXhZTkc5Mjg4bVlPU3Z1bG14ZUppOGpUN1JiUkRWbm5PemR1dkxkQmx3cUhHUE5mcGMyYm9nX3kwMGVaQ2VZZG1IOWk2Q2VR?oc=5",
+        "headline": "외국인 매수·코스피 하락에 국고채 이틀 연속 큰 하락",
+        "summary": "",
+        "source": "세이프머니",
+        "published": "10/13 17:54",
+        "published_ts": 1791881668.0,
+        "tag": null,
+        "first_seen": 1791891924.9735444
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qQXhsRmtzcjVQWU1jQXVCZlNnRm1NQTdaX3QyTzhzQldkVTJZb0hVNkd5OXV0WngzdVRyWFhCTXdlWmgzbzhhd1lIYkUtcWpXVFE?oc=5",
         "headline": "[뉴스&분석] 中 반도체 쇼크에 … 6천피 턱걸이",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791803392.0,
         "tag": null,
         "first_seen": 1791812724.0925293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPOVRVZFA3WmdnLXIwdi03bGJxY0RrdmxnbkZ0M2NhdmZWNEJkdDA5OEZQNkxiYjhMTUlVeXhmREV3OF9SYS05ZUZrV2tuVVRzc1FBN1VBX1V0VlVuSnFkWE5qRjJGa2s5OFllUDgxanJZMFg3a2ZrY29RLUhaaEtqb2x1VnZCel85NUpKMk0xc0RMT2pHMlpwMnlkamx1TUVlY2lZMy15RmJFLXlZdV9MYUx2czJoRGlkSkE3WU5teW5xSmMtcEJjOFRjYmFkZFlKRmZ3MEZ5cnpCeEswOUNXMHFXdjU5d29XbjI1Vl9ETEJNS092Tlp6bU1zdndsa2RiNlFTZA?oc=5",
-        "headline": "불법 토토 심벌 설명에 붙는 예외 문구",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/12 20:08",
-        "published_ts": 1791803312.0,
-        "tag": null,
-        "first_seen": 1791850525.3473763
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 20:39:36",
+  "updated_at": "2026-10-13 20:45:50",
   "yields": [
     {
       "label": "3년",
@@ -2440,6 +2440,33 @@
         3.983,
         3.921,
         3.857
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 4.03,
+      "chg_bp": -7.1,
+      "series": [
+        4.186,
+        4.267,
+        4.279,
+        4.345,
+        4.288,
+        4.262,
+        4.225,
+        4.275,
+        4.267,
+        4.22,
+        4.345,
+        4.276,
+        4.203,
+        4.2,
+        4.129,
+        4.117,
+        4.134,
+        4.158,
+        4.101,
+        4.03
       ]
     },
     {
