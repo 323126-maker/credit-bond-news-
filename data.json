@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObHFYZHN4Y3VZMUppS0ZmalYwR0c5S1RELWhmdVJZRnUydDV3RDVMN3lCWGpPdlRtcVZ3SmNDSEVhWmpRcnFpNEp0a0hmaVN0UklIWGxzbjVzVWduXy1ZVUo3MmVIaXFLaW56R0Zreno5ck9nZVBnNGRMVkRhM3BHZVBkd2FvTElGdFRFaEdBNVdURzF4a1E?oc=5",
+        "headline": "Japan 10-Year Yield Hits Near 3-Week Low",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/13 11:55",
+        "published_ts": 1791860100.0,
+        "tag": "JGB",
+        "first_seen": 1791862228.4034686
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZbzgzSHhIZHdYVGZZaHZkOGhnc05uYVdXZk9xV0czNVBjS2gzdmNJTjdxSGlRWTJhdnlzb1JicGZHa0pTeFhDcmpVVnhzVm5z?oc=5",
         "headline": "日 9월 생산자물가 상승률 6.8%로 둔화…추가 금리 인상 속도 조절 전망",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1791856800.0,
         "tag": "JGB",
         "first_seen": 1791857720.522412
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE55LUkyQW9BQ1Q2TkJEc2pzQXJoYjV3ZFpjdnV4ZDVkU2FZWVd0SzZZdDlDZFlyeG9WQnJoNzY1c3Y2TGdPWnUtS3VUOFdMOUVITk5zY2tCWG4yeERGVzR5YlYzMWs0WFhsYUNxM0MzVmhGamM?oc=5",
+        "headline": "엔화 100엔당 843원으로 하락… 18년 만의 저점에 일본 여행·쇼핑 부담 완화",
+        "summary": "",
+        "source": "경제시그널",
+        "published": "10/13 10:25",
+        "published_ts": 1791854710.0,
+        "tag": "JGB",
+        "first_seen": 1791862228.4034686
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yN3NWLVpUNEloRUhkRlZDM1U0X19laXQxY2RSZWhlWURmVWMtbHprVGxib1Z0RUotOElNaTRSQV9rV1JodndvX2FpSmhWRTZl?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791822121.0,
         "tag": "Strategist",
         "first_seen": 1791840630.0905068
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBhRnhMeG1XT2tEZVdMR19Yb05QWGhVSVVUckVseUI3ZWpwNnZxTC1keld0Y3RZendJYkd5WHJOR0dKS1pzU20tYURQU2t4cTQydVgybVByejB0VUpFbV83OExFMklEVjd4N0JhZnZiVEluNVNsSUl1LTBrSDQ?oc=5",
-        "headline": "The \"bottleneck\" of the real estate business.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/13 01:06",
-        "published_ts": 1791821199.0,
-        "tag": "Global",
-        "first_seen": 1791821728.5090146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oYmlEdGFfUXJOUlZWdTV3OXZKeWxwMWNZMXpoYzdFd0Y4WTFuWFF2NllLQ2RpMzZwQWdaT0RIalF1Q1M4RXQwSU9jWUh5cjlRVnd3VndSc1NkWndTbXBIUVZCaXZsZ20wN21od054ZHM?oc=5",
-        "headline": "Goldman goes long stocks — and bonds*",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/13 01:02",
-        "published_ts": 1791820939.0,
-        "tag": "Strategist",
-        "first_seen": 1791827121.1650686
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 12:15:43",
+  "updated_at": "2026-10-13 12:30:54",
   "yields": [
     {
       "label": "3년",
