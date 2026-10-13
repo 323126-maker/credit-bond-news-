@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNa0ZNRE1QX0t4VXJsTVZzMk5oTV9UZFhmWmdUajZsNGE5YjF1RXgzS3Y3V0txb3NJTzRWRmlYWmdwMk9qUWNCSXN2bDhvYXYxUmVnTTkwenBsLVM4VFZjZFBuTnpId2dFaXlVZFI3VUVSQTMzZW5ic2tWWnBlSU1NWUZBZHBlQU8tQ3lYX3F3?oc=5",
+        "headline": "23년차 채권 전문가 “고금리에 저환율…美 국채 투자 ‘좁은 문’이 열렸다\"",
+        "summary": "",
+        "source": "조선일보",
+        "published": "10/13 09:08",
+        "published_ts": 1791850080.0,
+        "tag": null,
+        "first_seen": 1791857720.522412
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBDbG5iWURmM0NVbjJIcTFCUGVrbk0yNXloSGpnMGxkNzFXX0VvUE9Nd3NPbjFBLWloS2NzcmVKUW9ZOU9uaFZiM2kzTGFkYlUwN1BFNzM2ZUJEMmJFYTZz?oc=5",
         "headline": "'나 홀로 강세' 국내 채권시장…美 금리 부담 속 국채 발행 축소가 버팀목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791684611.0,
         "tag": null,
         "first_seen": 1791695722.845595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51R19hSnUtWlh4bkdtY0VwLU15cldlQVgwejR1Y3JDOFdLNVQ4VWREbHgwbzVlWlBPUTZ5RzEzQWNwRUFaS29rc3lheC14XzFGdjNCcHhVQjFnR3BuWHllcnQyMlc?oc=5",
-        "headline": "'예금 금리 4% 육박'…은행권, 증시 이탈 자금 잡기 수신경쟁 본격화",
-        "summary": "",
-        "source": "매일일보",
-        "published": "10/11 10:00",
-        "published_ts": 1791680400.0,
-        "tag": null,
-        "first_seen": 1791749722.7169747
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZVROYW9abHRxUkx3dTVhemZoLXpxdDdla1JwRHVDdTc1cGFQZE5wVlBmVEl1WWJ3Q0g1UElrWXd0elNSRUJ2VFp0X2RmWlZreHJRM2hHX0k0WEp0Qk1YUHRwdC1PbllFakJaVDNyNk9ad1hQcjZvYkpIajk2dGptc1pGcmktbWc?oc=5",
+        "headline": "Japan’s Yield Curve Split As Traders Watched The BOJ",
+        "summary": "",
+        "source": "Finimize",
+        "published": "10/13 11:00",
+        "published_ts": 1791856800.0,
+        "tag": "JGB",
+        "first_seen": 1791857720.522412
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNjEtUDFSUmRrZER5OHg5SzlwSlpYYm56TGktM2ZBU3h1LXdaVmJXbXhTZVotVHJRa3BTanZUWUR3bjM2V2c2MGxpRlBneXl1YnBYUFFuYmk1UDlQYTgwQkpVNEVBZXdST1hCODRnUU9mSlByLUx3VHZnUzJnUlpDOQ?oc=5",
         "headline": "엔저에 수입물가 24.5% 급등…日 금리 또 올리나",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791818430.0,
         "tag": "JGB",
         "first_seen": 1791819031.0983634
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQY1hZOENuVkcya2JjaHp2eEJCcnZvRnpFVmNLZjdZZGxUZUlLRHZIdnJ0Tjh3aUdfOGNtQW1ERUtBcGFpZFUxT0o1aHg3MndWM3ZCczdIdkpjczVTcGFOV08yQXc5VWc5Qjl2a2ZrYXppVF9VcXl0NDdEWkY2Ul9JMA?oc=5",
-        "headline": "입문자가 질문하는 카지노 8화 여자 심벌과 릴의 차이",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/12 23:59",
-        "published_ts": 1791817179.0,
-        "tag": "JGB",
-        "first_seen": 1791837029.7251964
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 11:00:58",
+  "updated_at": "2026-10-13 11:15:45",
   "yields": [
     {
       "label": "3년",
