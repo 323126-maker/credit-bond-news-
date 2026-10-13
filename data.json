@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE83azd0QlFJYU9VN3BRUU1FLWw3aG5ON0NNQjdxU3JwY29QYmlSNUVxRkgwZUt6VUk3TXZWQzNkRGZvdWpCbXFsX1FyeG9WQzZuZUc2Vk1rZ3ZQQnNZZnU3VlowcTdLdVdlM3c?oc=5",
+        "headline": "키움캐피탈, 비용이 환입으로…최대 실적 가시권",
+        "summary": "",
+        "source": "IB토마토",
+        "published": "10/13 11:21",
+        "published_ts": 1791858071.0,
+        "tag": null,
+        "first_seen": 1791866722.6961148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rdHBsanY2Y3hST3pVM0lCV1ZXTldxeFl1V19rdzFrWmp2YjRHcXZZSVRSZGxUd1RWVVFrR1NPTTQwUGx3YW03Tmt6ckhLSVRSelZ1eEhBX1FqYUFGQjg1aW96ZUttQWdyN3k5R1lxZE0tUQ?oc=5",
         "headline": "[6천피 이탈] iM證 박상현 \"과도한 하락세…단기 반등 여지 충분\"",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "www.edaily.co.kr",
         "published": "10/12 14:27",
         "published_ts": 1791782865.0,
-        "tag": null,
-        "first_seen": 1791783029.0997317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1McWtaZ2ZuYzNXMm9PREhzRERBaEtlWnk4ZHBtLUROdk5QVEpQX0JabU9tSktLb2VXLW9uNG15Zm9OSl9XWEFRSVc0Q2t0bTdOQS1BR1lXQ19HaEJFdy1mWlUzLUI?oc=5",
-        "headline": "[기획] 국고채 4%대 시장금리 고공행진…가계·기업 차환 비용 ‘비명’",
-        "summary": "",
-        "source": "매일일보",
-        "published": "10/12 14:10",
-        "published_ts": 1791781844.0,
         "tag": null,
         "first_seen": 1791783029.0997317
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA4MG5DREpqVE5iTXZtSnhLZ1NvcXdZMlBlVnpqbFJVTjQ0ZzNvMlBlbTVCQXJIZldGRVFXWldXZ2lNTmczRVVXZXRHN25icjhHN3FRME16b2djMmxJa1lBcEJWWjBSQjJ6dlJn?oc=5",
+        "headline": "국민연금, AI 에이전트 활용...\"통화정책·기업실적 분석 10분 만에\"",
+        "summary": "",
+        "source": "파이낸셜신문",
+        "published": "10/13 13:35",
+        "published_ts": 1791866100.0,
+        "tag": "JGB",
+        "first_seen": 1791866722.6961148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5SZ0duaUlTVEs3M1MwZ0ZTQUh4bUdCN2FMajExUkVzLVBDVGxiU3ZLbkZoSHhWcVlGcjlYOTh0QXllX3dWaDBZazJLeEdvRDMxVU1TRDFHWTdlczZfa0E?oc=5",
         "headline": "[파이낸셜 워치(185)] 美 10년물 금리 59bp 뛸 때 한국은 제자리⋯외국인 국채선물 대거 매수",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1791864325.0,
         "tag": "Global",
         "first_seen": 1791864920.4535646
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNeHNybjhLUG5qcmcyRnVHeEN5XzlRcV9oZF9EQkF4SnptS251anNSQ1ZzQkx5Y3FNUTdvbC1KczJVeGpxZnpTTkZZTnRKQl9FOE56WVpCcVZCeDZhazRCQ0ZSZWJtUElscjVwMUdmeFRwcnlJTUpUbU9rSzc0YUx5RmhnSjB0QkZLRi1TcUh3ZmZRNGIwSmdVT2sxVDE5OVVDWlV1aDJxOTBmcVphT1hndWw5azNLODRmd1E?oc=5",
+        "headline": "Rich-World Bond Selloff Puts Advanced Economies in IMF Spotlight",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/13 12:30",
+        "published_ts": 1791862238.0,
+        "tag": "Global",
+        "first_seen": 1791866722.6961148
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONG1xVVpSNnFLaTRXUlRTWkZnb1Y3dDZwSFlLenh2bFF2aThleTY1OUs2MzVrQjhTSXNZZXh6SnNoRkxZanB5MmNnYTlFX0d4MXNsVzhOeXNpdnVSTVl2OHBpOVBfR2FKMnM2UFdjaWk1bFN0RlVHaGpGT0ZZMXhKZUpvRjNBdDc1VFBoMFZoMnFrcE5wNjRMcUtZbEN5Q2ZxZ0c4MEdaX3JvVjFXbUQwVlVvZ0s3U2dmbUVHYXVMaw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791827700.0,
         "tag": "Global",
         "first_seen": 1791842433.6301472
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWjlySUJuOFM0UmMtN1UxZmpDOFZhc0NRQmtYWXpBVHgxMTkzbkhDcUU1S3dTaGJmenBVaU1ob1hDLTViZVdqcGk3R241Tmd1bVVpUnpjSDA2LXAwYVhaM2N3c0I0akJWTU1WMEdleE1JYzVuWkc0RkNTS0ZSXzdRWGdfUklkQVJBMVBGMG1aVDQ0WGlqcUM4TFVMYW1rdkF5RjVYRFJ2YUtLOVl0NENuOQ?oc=5",
-        "headline": "Big investors buy Eurozone bonds after France sell-off",
-        "summary": "",
-        "source": "StreetInsider",
-        "published": "10/13 02:48",
-        "published_ts": 1791827325.0,
-        "tag": "Global",
-        "first_seen": 1791832523.8687944
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "headline": "Weekly market commentary",
-        "summary": "",
-        "source": "BlackRock",
-        "published": "10/13 02:07",
-        "published_ts": 1791824840.0,
-        "tag": "JGB",
-        "first_seen": 1791830723.381148
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 13:31:04",
+  "updated_at": "2026-10-13 13:45:48",
   "yields": [
     {
       "label": "3년",
