@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBaVUdkZ1VIV19kSDdDYTlxd2VtZmt2MlEzUjlIUDB3Q2dpaDhSNmNNZVNTekdrVFZCT3c0amxQSndILTRTbGFUbGJWWktQZnhrd0Nvc0N0SE9ncm5XdTJPYlFHVXJVSG03Z0Jr0gFvQVVfeXFMTldVcS1DTGQ2dzRqc3AtbFk5ay1oUVJsM000M1ZCZnFTTTlFY3ZrMzdMVV9aZ2RwMmVEcE1pTnpXby0yUy1QTjE4UEZqSDRpNUlWejBLZlZEM19yOG5qREdHajllck1kYmlXNlNvU1c0?oc=5",
+        "headline": "국민연금, AI로 ‘통화정책·기업실적 분석’ 자동화",
+        "summary": "",
+        "source": "한국아이닷컴",
+        "published": "10/14 08:27",
+        "published_ts": 1791934038.0,
+        "tag": "JGB",
+        "first_seen": 1791935122.8645492
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUEoyWEdtNFBodDl3WDNrRjljT2VwU1YzbGUwY2dSZHlKZDNYN0Y4WVpRWGRDX0hibml4dUJPS1ctSmlNWnpKTThtdEVWT3BGcnRLaU5JeUdnTGtVWGd1WmxHNnpGN1hTaU5PY29XSXFRVGtQcnVpX2QwQUtCRm9NMw?oc=5",
         "headline": "日, 10월 연속 금리인상 '미온적'… 12월 추가 인상에 무게",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791883709.0,
         "tag": "JGB",
         "first_seen": 1791890126.0668411
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV25HLVFpRE94ZHA2V1hoM3kwLWo1WjZkeFBnNXBGZl91clNOZkpXenJKWUhPT0p5RnE5RVNfQktNd0ZIR0x3QVcxV255TnRnc2xSdEMzYnVWTzBVRnZfVlBpUzN2RDVIa1Nrak5GQk1INElPZkZWOGVieGtsRXBjeTk5ZzJfeG5KMnJnVzdGV0RqTkUtRGdoRFZWODA3cE1Hc3JXLTJMWTF0RWVKUHZ2cjJR?oc=5",
-        "headline": "자극적인 연출과 별개로 읽는 쿠 로미 포커 킹덤 결과 수치",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/13 18:21",
-        "published_ts": 1791883309.0,
-        "tag": "Fed",
-        "first_seen": 1791928835.128074
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 08:30:52",
+  "updated_at": "2026-10-14 08:45:51",
   "yields": [
     {
       "label": "3년",
