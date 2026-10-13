@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzhGQ3pSVVhBZ3pNb0NZX0lvblJrX21tOHF3VXZ3Q1hRNlNVRnVudlBQRlBPYUl0TE5QZUhxT1dxSTd0WEtRVWtDTzN2Y2h5Vkd0WGdQNHQtX1dESVNzbkN5SDF2a1JDYkh4emEwZkZ4djZvSUM4NDM1emdFRGEyUHJnUC1GWFJlWXg5WXk4VWoxVm81U3NhWk05R1VONGp3UndYYXp2NmsyX1dN?oc=5",
+        "headline": "Echoes of 1987: Michael Belkin on the Bond Market Warning Stocks Are Ignoring",
+        "summary": "",
+        "source": "Financial Sense",
+        "published": "10/14 01:36",
+        "published_ts": 1791909378.0,
+        "tag": "Global",
+        "first_seen": 1791909921.9898725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRl9NWllCN2FwUkREdDN3ZUtmdEltZmU0NnNES3liaXBzU0UtOGlnLVlSeUtWSC0tTDR3R3FCOHUxbTIzVEF1LTNOR2QxMW53TlRXLUdMZE5NNVdUN1k2QzZQdHVUQzBCbGFOZUgxLVZlYnU3Z29Cd3dOczFYbGp6NmZuSDQtLVloZnE5aDNFZ0lNa2dHTE5oSWZWRU5EX2VHVllMQW91TQ?oc=5",
         "headline": "Rising oil prices to blame for a surge in global bond yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791871980.0,
         "tag": "Global",
         "first_seen": 1791909028.3169062
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQ0dkdFIyZ1RwQWZKQzlCcFR4eVhfYUc5dm5RLWJKWkl1TjRSV3BIOWZ1MnJQUDFwZDZDa2ZNUUVLUWZ3dFY4YUlSM0N1N1FwUy1xX2tKUHdlUEcyWm5YMXB3T0dCZmd3ajUyNHMwOHgzTXA0MVRvYVNnQUN2YkdVUEZRaUdsUF9rQno5NUVIdlVsM1BIY21nanRzZ0NTZ1Y0VXJXQlEtMHNWMkk?oc=5",
-        "headline": "What Impact Do Data Centers Have on Municipal Credit?",
-        "summary": "",
-        "source": "Goldman Sachs Asset Management",
-        "published": "10/13 14:51",
-        "published_ts": 1791870694.0,
-        "tag": "Global",
-        "first_seen": 1791873921.7783449
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 01:30:55",
+  "updated_at": "2026-10-14 01:45:48",
   "yields": [
     {
       "label": "3년",
