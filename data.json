@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUTlqb1NlbVlZaDFsdlMxSi1kN3c0Z3hObG42WC03ZzhadUhNOFlfbmw0NXVKT0U2SElPSHk5M0FTOFRZSmkyTHBaSlRoTlBoS1daVmV5R1M4MGhuZzhHLXlCSlRSYjFJWUZyVXpGVW53bVB3Z3E2ejlyaWNaM25FWjdVX2V1Qkx2SW1MS0EtSG9ITk8ybUtFMXhVV1hzUEEzaHZQajB3TGNMZjlHN00zdzB1XzN5TFVtY19vTG5HOWZCaDlVZzZVVtIByAFBVV95cUxNUTlqb1NlbVlZaDFsdlMxSi1kN3c0Z3hObG42WC03ZzhadUhNOFlfbmw0NXVKT0U2SElPSHk5M0FTOFRZSmkyTHBaSlRoTlBoS1daVmV5R1M4MGhuZzhHLXlCSlRSYjFJWUZyVXpGVW53bVB3Z3E2ejlyaWNaM25FWjdVX2V1Qkx2SW1MS0EtSG9ITk8ybUtFMXhVV1hzUEEzaHZQajB3TGNMZjlHN00zdzB1XzN5TFVtY19vTG5HOWZCaDlVZzZVVg?oc=5",
+        "headline": "USD/CAD Forecast: Canadian Dollar Holds Firm as Markets Await U.S. CPI Data",
+        "summary": "",
+        "source": "FOREX.com",
+        "published": "10/14 02:57",
+        "published_ts": 1791914263.0,
+        "tag": "Fed",
+        "first_seen": 1791918040.3102431
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcnY1Sl9FWUVFWjhQQndBVE5FWXJKQXU0dGtuR0h4N0lINUN0YjB4WFUtdHBCQ0x1UkwwdHFqU0h0YU9aaXNkaXpkV1lYeGo4UjRUNXgyaGFITUlaY1E4ejZfeWFtR19pMEhOVmFaX241VzFob2VEdUNJZmJUbWJnTE15OFQyTjJGQkw4dWl3cTVsN21HQXBvLW94YnI2N1VzUC1BaU9xeVpGSEE?oc=5",
         "headline": "How the Fed Usually Handles Rates Near an Election",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791878312.0,
         "tag": "Global",
         "first_seen": 1791879323.312008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQlVoSUFpZ1VRamtiMno4UEpKb1Q4NzhMc2VJd0EyQUhFVi1zeTJNYnQ5ZS1VZmg3UlpDbThpNlFnVkhVXzNWNndqNUgwUjhfTXFTcF9QZXNmaU90amNEQXdMSUZWd2lkU21oOUkxeXEtdmp3QVlyVXhJRURMRkZFdnNZc0lKSHUwbERJUlFvakVsbThIS0ZYTUZSQnRvRVIxb3R6azBBREppXzRneDRkQmV2SjVmcGF3VC1BeUktNlk?oc=5",
-        "headline": "IMF warns AI sell-off; Soaring bond yields could trigger global market turmoil",
-        "summary": "",
-        "source": "The Vibes",
-        "published": "10/13 16:56",
-        "published_ts": 1791878160.0,
-        "tag": "Global",
-        "first_seen": 1791888332.3197274
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 03:45:43",
+  "updated_at": "2026-10-14 04:01:08",
   "yields": [
     {
       "label": "3년",
