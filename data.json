@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1qQXhsRmtzcjVQWU1jQXVCZlNnRm1NQTdaX3QyTzhzQldkVTJZb0hVNkd5OXV0WngzdVRyWFhCTXdlWmgzbzhhd1lIYkUtcWpXVFE?oc=5",
+        "headline": "[뉴스&분석] 中 반도체 쇼크에 … 6천피 턱걸이",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/13 17:51",
+        "published_ts": 1791881519.0,
+        "tag": null,
+        "first_seen": 1791882033.6912525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMVRtVnBJdkJIc2VqQVZBRm5DeTlXcmNPTmNReF9zaDhERFltc1BKb2c4QzZuUGhaS1NmSzI3emlZRHVrRVB0d0E2MVhfeUhZLVE?oc=5",
         "headline": "개미, 주식 7조 던지고 채권 10조 담았다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791791428.0,
         "tag": null,
         "first_seen": 1791792035.872625
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Oa3lzNHJPcjJfNFQ0UHRsTjRDVm56SDFpenlXRmowdU5MT1BOWVdXVmNJQ0V4MjZaWkJzZjFwTl9TOFgwanZOVGNSbE1Mdm9jelhKWGxERHc2d05Wb0xwdU1GM1NNNFI0TzZ6VmtvLVItZw?oc=5",
-        "headline": "[중국증시-마감] 美 당국 기술기업 조사에 약세",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/12 16:34",
-        "published_ts": 1791790452.0,
-        "tag": null,
-        "first_seen": 1791791123.6742353
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-13 17:45:44",
+  "updated_at": "2026-10-13 18:00:58",
   "yields": [
     {
       "label": "3년",
@@ -2494,6 +2494,33 @@
         4.395,
         4.306,
         4.229
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.293,
+      "chg_bp": -6.6,
+      "series": [
+        4.548,
+        4.633,
+        4.61,
+        4.618,
+        4.542,
+        4.496,
+        4.48,
+        4.473,
+        4.53,
+        4.461,
+        4.553,
+        4.513,
+        4.42,
+        4.424,
+        4.373,
+        4.393,
+        4.405,
+        4.404,
+        4.359,
+        4.293
       ]
     },
     {
