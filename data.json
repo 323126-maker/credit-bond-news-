@@ -484,6 +484,16 @@
         "first_seen": 1791937828.5692656
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ROWxLRWd6OWxzc0xINkltMmNWWjFCTzRKVHVIU3otVVg4MkNsRVJaQlYydVJHWGpuamY5MURXRTZFMFhXN3lDeWJtYTVGZXBzdm91MWU1Rm50VEN6UHdzLU1zVXdyQ2hoRDJxVWhFNVpQQQ?oc=5",
+        "headline": "신한지주 품에 안긴 롯데손보, 적기시정조치 조기 졸업 '파란불'",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/14 08:33",
+        "published_ts": 1791934405.0,
+        "tag": null,
+        "first_seen": 1791963027.8880408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STTdLMDduX25VRTdzeWJjbGNlaVgtUGZmYWhBdzZCS1NKekt0V3lFQklMRjhtM2d0eW5xSmljREhXWWk3aWVueUszcHVWYkl6TFo5SHZOSGQxOUNSYWpzSGtSQXVRNVU?oc=5",
         "headline": "메리츠증권에 '구원투수(?)' 자처 하더니...메리츠화재, K-ICS 하락에 배당 부담 '눈덩이'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791639421.0,
         "tag": null,
         "first_seen": 1791756031.0500247
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1vZnJnVGEzcWxiVGdpdXh6ODZXSTZVUFB5bUxoVW5GcTI1b283RG9xdE9iMFNaeXlmcGpfWHpnZURfY2pzVUJhSXA3OHhXMWFuZWs4c2s5TXBqcXZz?oc=5",
-        "headline": "모건스탠리 리서치 해설: 오라클 칩 라이싱 SPV 실현 시 신용 가격 책은 우선 자금조달 열기를 주시해야 한다",
-        "summary": "",
-        "source": "深潮TechFlow",
-        "published": "10/10 16:03",
-        "published_ts": 1791615821.0,
-        "tag": null,
-        "first_seen": 1791725428.1157675
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNmtEdTluYVFXX1RfRUg4Q1NkM2JfSThGWFk5YVpPSEpma1lXWGF0QTktaENKVUtFbVpvWDJJWE0yTUlyQ2JZd0k2U3dPZ05DdzMwb3FLd1VqZUo5N0pZckV3SG9kTjJvNmdzYTdhOWlsOXgxcUx6LXRPVXd1bUdiYUVXbzlocWpUQXVUQUJUWGpmT2ZTZ1V2V3NCOFJBejh0LWhmMS1MeERKWkU0ZWEwVlU0eUZJOEZlSE4tMUpzQ1NncElERmtMdUh5b08tUERzcGZaY3ViSjJKTFVfSGNGbXZNRUJWT1JGb083Sld1Y0hHZnRNcW9LeE54UjRuWHJBNGhzNklTNlpiV3VOVlczU2t5SzI0QQ?oc=5",
+        "headline": "Ray Dalio Warns US Debt Crisis Could Deepen as $2.1T in New Treasury Supply Hits Market: 'Credit Market P",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "10/14 16:21",
+        "published_ts": 1791962510.0,
+        "tag": "Strategist",
+        "first_seen": 1791963027.8880408
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80cmVuSVRqZnc3cjJfUkVOWTl1MHdWYnRoeENrR3hsTzlTdWJ0SzBLQkFrb3JXbE5meDR1OXQzb2hvSGxjbEJQMTd6MlpVSlJJRlVLTUY0WFUyM0JEejNRb9IBeEFVX3lxTE1hYTlhVGF2WDBCUlJxRThHaEZRLXJxNVdRWmNfMzVuazdCU0c3ajFRSHZsTFctNUJZaDhHZEYyQUpvOXFvSkhjeENaT2g4YXNCeGNnOWNTTmhGTkd6Z2dFS1lISGMtbl9pTGx6cW1IUmwydUl5VDV4Vg?oc=5",
+        "headline": "日은행·보험사, 해외 채권 팔고 日국채 산다…\"엔 캐리 청산 조짐?\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/14 16:10",
+        "published_ts": 1791961819.0,
+        "tag": "JGB",
+        "first_seen": 1791963027.8880408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPX2g1MWpCQm1fYVlGR3hENk1ZM0xSRk5mZWc4WEtucXhPRnVpV3BTT1NuU1NoaDY1em1FNlhzemZ0V3IyN0hMblFSNkI3M3pZTzVGVnFqbW5taUk3a2Q4VHZGMEtKNTZXR0FQQVFrVGhoTnF0eUpUX0dIdTNtem5OSjRLdTJuNldyWnJpSzJPZzJhQUFOSWdfLVJtUFRTQ2x1NHhr?oc=5",
         "headline": "Ashmore Q1 Inflows Top Expectations on Emerging Market Strength",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791917880.0,
         "tag": "Strategist",
         "first_seen": 1791918930.1759486
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVU1HX1pyMU1MS01jOEhsV0d5QWFQd3plb0trcUkxcDZSUDlUVU1sUFNZLVI2dkhBd3pSU0t3X0RrSFFLWElUQVF0ci1OeU9MdG9idVFVNmN6YVlzdkpqcndSZ2R2bExESGF1eTJERXo0RlR4Uy1VbTZzdU93NUlFSHc2ekZEeGxQNW9ldzRGMWFpYlVaS2pwS3FR?oc=5",
-        "headline": "AI Investment Collapse Could Threaten Global Economy, Says IMF",
-        "summary": "",
-        "source": "NTD News",
-        "published": "10/14 03:46",
-        "published_ts": 1791917164.0,
-        "tag": "Strategist",
-        "first_seen": 1791945030.620357
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5rem50SVhXVi13blpwQUxOMW1kLW5wVFBtSldZYlZvcXhvTTdNeVYteGVnNFJTOXBJVEVBVTJPOGpmVHhOWHh3QW5iZ2NZTVZRaGZIWFVQZmZfNnc2WUE0RVo0aFRWVE5VUXFkampoUGtqYmRKNkE?oc=5",
-        "headline": "Fed's Waller: Bond Yield Surge Reflects Growth and AI Spending, Not Inflation Fears",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/14 03:29",
-        "published_ts": 1791916140.0,
-        "tag": "Fed",
-        "first_seen": 1791922526.8266299
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 16:15:47",
+  "updated_at": "2026-10-14 16:31:01",
   "yields": [
     {
       "label": "3년",
