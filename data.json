@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjlTcGhWTmRxZXNLdlJwRENqLXZkLVlBWDRad1dUQkRHaWZEa3VhZDFPZEprRFdNT2l5TFJJVl9YbFlBUXpZVElfemsxc0diREhzZnBTTmdrYms2WHBCa0dIRG9QRngxZEFyUm11UTNyQmhyMWRhQmljTzNMaDM4Ykd4OTE5TnJoVVJHb3IzMUFtbHZuV21ycHpYZDhTQ0hCTlEweDk4bnQzWUViVnpwM2JJNUlrNzE1VmxiNXp6VnB4UlNXeDRB?oc=5",
+        "headline": "What to expect at the next Fed meeting now that rate-hike odds are rising",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "10/15 04:04",
+        "published_ts": 1792004640.0,
+        "tag": "Fed",
+        "first_seen": 1792005325.7556434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlV0MnV6SXBYOUF1ZEl6UHpJanhsc01iWlhNaUFqOXJadG9abWpra3NjU2NMTTFscElqa2N2YkZLWjV2Qy1Rcm9zRFpLbUVCTnFUNHU4VjlFbUVfUnpoQS04dVF5dFpOVHRTQnU4NmhpUUMxcHlfRGI1ckVBQ1FreHUyNHpnVVZhWmZXN3FHSEJvNzJJRjd5aVdaa3J2S01Ca1hob1RLTUtNMU5MTWdVM19vdV9mUQ?oc=5",
         "headline": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791963709.0,
         "tag": "Strategist",
         "first_seen": 1791990922.735442
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTm02VVY3M2JjcTMwYTR3blZldzJhY2lIUWF6MTJkc29vTEpBNm9FOUlWdzh6aDd1UnZCOFdfSjJxMGZpYTd5Ny1UQ0xPdHN3VGRVdG9taDRhNWtRamxwTlVpOGFLZ3o1eHNkOXg5N19OSk5tYWlualM2Y2hCaVN0QXQ2Tm9ZODNCMTVkX3FiT0h1d1YzS3FJRlY2RnU4b2pxZHBoN2Yzbl9USkktaDUxdg?oc=5",
-        "headline": "Soaring Japanese Government Bond Yields Prompt Banks and Insurers to Repatriate Capital into Domestic Bonds",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "10/14 16:35",
-        "published_ts": 1791963350.0,
-        "tag": "JGB",
-        "first_seen": 1791973828.8203456
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 04:01:06",
+  "updated_at": "2026-10-15 04:15:54",
   "yields": [
     {
       "label": "3년",
