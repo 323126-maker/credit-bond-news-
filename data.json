@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXBzWlB4amQzdVFoLUs4VWhSdm8xcVdjcnM1a1RpSmNNOXoyNVVUMkZudUtqTXA0dXpEamkyMUQ4R3psMnVzVEpyLTFEc2RlOEh5aVBrUGJkdGxGMzhfaVZVYTNzejBvTW43dWJrX0xWTjVsRlVlQzNLcTBHY3NhMmxzRXhINXQ0aVR4NXZRNA?oc=5",
+        "headline": "LG유플러스, 10년물 대신 2년물…고금리에 만기 단축 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "10/14 21:24",
+        "published_ts": 1791980662.0,
+        "tag": null,
+        "first_seen": 1791981028.8152702
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5fNHhBSk1yWEk5c21xaTluUi1Ic0dGTXlHbTBiTkVxVXRQNlludlBWYVk4LUl4dGNXSk44X1paMkw2c3FMRXpueUFaWVFUcF9QaE1ER1puNExTdjM0SmFDZG93NmFzY2RRZlE?oc=5",
         "headline": "하나증권, 16일까지 DLB 2종 모집",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791891668.0,
         "tag": null,
         "first_seen": 1791914438.4450104
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE10cjVFRkNoMEh0a3JrMmhQWW5IWnFFTkJyZG5nYXpYT1Z3YkZzQUdTelRILWh6bGg4d2hUVkFDOUg1aUxVM3dXTnN1OEd4Z1lITGlPOEU2UVNQUUtNOTVVX1VQaTEwcC1XZ2lkMm9XZlVQalnSAXNBVV95cUxNdHI1RUZDaDBIdGtyazJoUFluSFpxRU5CcmRuZ2F6WE9Wd2JGc0FHU3pUSC1oemxoOHdoVFZBQzlINWlMVTN3V05zdThHeGdZSExpTzhFNlFTUFFLTTk1VV9VUGkxMHAtV2dpZDJvV2ZVUGpZ?oc=5",
-        "headline": "신한금융, 롯데손보 6933억에 전격 인수…한기평, 신용등급 '긍정적 검토'",
-        "summary": "",
-        "source": "뉴스웍스",
-        "published": "10/13 18:50",
-        "published_ts": 1791885001.0,
-        "tag": null,
-        "first_seen": 1791893723.1451771
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 21:15:51",
+  "updated_at": "2026-10-14 21:30:55",
   "yields": [
     {
       "label": "3년",
