@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBINEhiMFlZczZMRTRRTFhRRmpNcUhlbWU2cTBDRngwZGFjdFdxb2xFNmxycXQxRUxBdkdPRHJJTUdrdXE4dnJUZDF1bGZnS3hsVU9lODhTQ25pamFndVFTZmhSOHJubU1ENFRqUzhfY25XQWs?oc=5",
+        "headline": "美 국채금리 급등에 월가 채권 거래 부진…BofA 평가손실 146조원",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/15 08:41",
+        "published_ts": 1792021291.0,
+        "tag": null,
+        "first_seen": 1792021896.792412
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4wWmw4T2RPdlVySUxnYzlrbjRyRE9IOXhlRl9GMGhEdDQ0ZktTMWtNYU10cEF1UHdFVkdqajFaYWVLYXdhYTEtSjZLdWpvbUdLZmlBUHRscW1xUlVsbEZVUW4wcmNPNHc?oc=5",
         "headline": "[뉴욕증시] 코어위브 채권 금리 15%…AI주 동반 급락한 이유",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791934683.0,
         "tag": null,
         "first_seen": 1791944120.9277759
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VUHdDU3RLNDVqZmM4b2k5UE0zNnFtQXktZFZZcXhFcEJqTEZodUNCZGtyOXBpREpoNkp5VlNNOWRFUlh2ZURtUGRxaWV2RGJQUUc2Wm5VV0RGR1lvSzF5TzBmTTYxYUxyYXpRWUtB?oc=5",
-        "headline": "[분석]위험요소 반영 안 된 LG유플러스 회사채 발행 공시…자본시장법 위반 소지 없나?",
-        "summary": "",
-        "source": "알파경제",
-        "published": "10/14 08:29",
-        "published_ts": 1791934181.0,
-        "tag": null,
-        "first_seen": 1791956724.8612537
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 08:45:53",
+  "updated_at": "2026-10-15 08:52:03",
   "yields": [
     {
       "label": "3년",
