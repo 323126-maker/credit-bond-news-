@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43RHNyWnNjbjQzRGhSeFNtdlRsRjN3WGtkUldxNVZnLUxmOFJOdmYtYTRsUXpGaGkyUkFpMmp0eHBnNVJiRHVtTkg3Sko3bFNXOUVVZGdWOFlnZ3I5UmFuWS01WWk3OUI4ZGJR?oc=5",
+        "headline": "삼성생명 첫 2조 원 영구채, 등급 하향이 드러낸 자본의 질",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/14 09:15",
+        "published_ts": 1791936900.0,
+        "tag": null,
+        "first_seen": 1791939634.68122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1QdmJxcDY4SmF4Y2h0cjcwbFhCa0dpd3NkaHpvZkYwZWkyWDhQUS1Sd01TVV83NlhsUmJXcUdGUTB2V1ZuWU94Tkp0QWJDQTdwZW0yR3h5dWJHOHZ6ZUozUUlSMUdYZy1PeEpRNjhtMXA1ZlBVM3VN?oc=5",
         "headline": "대손충당금 감소로 FB 파이낸셜 3분기 이익 증가",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791504609.0,
         "tag": null,
         "first_seen": 1791505831.4804976
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTTUyS3NZaTdSaGVmc1NoMWY0N2tOM0gzdE9Bejg5VDJHMEV3eDlCT0RKZnhGWkFFZXQ1bERsakh3azNiVVFQTnRiTUpuenVuNDgyS3ZlZXBRU2lod3ZUcFRhMG9Tekg4dUlOSmxDdmJZQ2tsSjlqX0FrREdRR2ZDeHQ2T1VPUGlIOUtZQ0tTRVJNQ19FWlM4NjY1ZUVTUUJDM05oV0VDaWdUQk82WHdSdkQwWDJwdw?oc=5",
-        "headline": "보너스 화면에서 나가도 되나요? 번개 맞고 축구천재 도움말 확인",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/09 06:59",
-        "published_ts": 1791496755.0,
-        "tag": null,
-        "first_seen": 1791519324.8357599
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGttSjBneVd6elQzbVVtQmdDcVZHajZDQWplU3psa000ZmxxLXpPQTJxTVh5OElrN1MtaVN2bUJuRlNwX1pNT0RiQjhHb1ZSWVM3c0JiS1J4dzc0WDUtaTZQWWE2QWxNZ3ZoTm9vdFhlNUxwbmRpMlliRmt2QlJteGRxWUdLU3NaQ3B0V28xbnpXRmtsbDhIVVZGZGtaLXl3NVE?oc=5",
+        "headline": "Dalio sounds the alarm again: The U.S. Treasury bear market “has a long way to go.” Will rising yields ultimately trigger the “kill zone” for the AI bull market?",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "10/14 09:53",
+        "published_ts": 1791939191.0,
+        "tag": "Strategist",
+        "first_seen": 1791939634.68122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9xektPY3h5NjhORG1yMkZUT0NTWWl0M0k1ZFRUTEhYcXIxb09KXy0waFhBOXZMTHBPalhUMXo4bjYzdVctMG5IZlMzXzNNUUE3bS1FUTZxTkNKb1REa2lBVU5jQ3dXLXZyQlYxWml2eGlNbVMtLXc?oc=5",
         "headline": "Treasury Yields Hit 24-Year High, Yet Corporate Default Risk Stays Muted",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791887395.0,
         "tag": "JGB",
         "first_seen": 1791898230.2201595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNaTJBS2NqTXotOU13ZUp2eThnR0lseGYyenJsbmlKX1JYVF9GaXV2aXRNS3kybWwtcmIwVnR3ZHN3eEliS281bzdqQTc0TEp2TnZRYW82UzZNTnY3bkllaVpUeEJKM2JLVEQ0dGVtZWFZU25rcEtkM1pRX1Y2MU1jLXFoaWJ5RHhNS3NyYWowZVhCYS1veEJONktORmRYb1hFbE5z?oc=5",
-        "headline": "Japan’s tightening path meets fiscal pressure",
-        "summary": "",
-        "source": "www.equiti.com",
-        "published": "10/13 19:18",
-        "published_ts": 1791886715.0,
-        "tag": "JGB",
-        "first_seen": 1791892837.661014
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 09:45:47",
+  "updated_at": "2026-10-14 10:01:05",
   "yields": [
     {
       "label": "3년",
