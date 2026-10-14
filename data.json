@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTVtY21OXzJHcEpRTndrNTdUSVdFX24zcklZeGxHTWVDZEk1YkVYalVhYkRsLUk2cC00cVU4THJOQ3hicmd2dFo2ekxBZUxvczY3QWREQzJPQk9hOGZnQVBuM2dHdV9RLUtWZ1ZvZ2RMU1BhY1N2S01Ed1FnVjdiSjlpUUxZOUkwV3U3bXpNVVJkY1RzeTJ2Q2c5NGIzT3UtRmJxTER2d2U5MHN1aVN4dmxNUHBRRDRzOWE4UnZ5TkJlc2ptZHc?oc=5",
+        "headline": "Rising bond yields and higher inflation leave the Fed trapped in a rate-hike dilemma",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "10/15 01:27",
+        "published_ts": 1791995220.0,
+        "tag": "Fed",
+        "first_seen": 1791996324.4848874
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVIwT0hNU0dpMlNuMGFWd2o3TjBDLTFOQkRLcEU1eFdHQ01kOXJIQU5GZjhYRmZDcEhmVjNWcFd0Tzc3RkNQOTNvVV9KODIya2MxMjcySk8xSmQzc05yV2JxbXRLZWgwelo4Q0U1ejNOUkJYV2lfeUxseTVxSmlNc192d2pwYlQxclloQ0w1NWNRMm1lQzh4ckg4OTU3UnM1alR1TWt0QjB4NzA?oc=5",
         "headline": "Wigglesworth the Wait? A bond fund manager’s take on A Fabulous Debt.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791961263.0,
         "tag": "JGB",
         "first_seen": 1791964840.546604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ieHFyZTZvS0N5ZERyNHozdDNPUkNMeVZ4d2ZBTnp0anZQa3R2TDZVZkhqcnY3QjVHR3Q4X0JjdVF1RXBWZTdKWGVzZjREWFVVd1VmaDZwdnRPOEpocU9VeW14dTVwNDZSOUZsMDNCMlphdw?oc=5",
-        "headline": "[도쿄증시-마감] 닛케이, ASML 실적 발표 맞물려 막판 반락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/14 16:00",
-        "published_ts": 1791961217.0,
-        "tag": "JGB",
-        "first_seen": 1791965724.3997762
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 01:30:55",
+  "updated_at": "2026-10-15 01:45:48",
   "yields": [
     {
       "label": "3년",
