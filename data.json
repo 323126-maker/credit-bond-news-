@@ -1630,6 +1630,16 @@
         "first_seen": 1791981927.7482882
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXRLYVBCenJnOTR4TnFJc3pFbDNidWR5eFdXLWJqcGRrbTdEYVZsRlp5dGhiZFpYV0Y3NjVtSDduZnZsWkhtYUhPYTRaNTA3LWNtS0VPTXNqMHZvSkEzWHdKTEVlVkxuRF95QzFaZDNmU3F3dHhDS3hVN1hqRFFGQW5STTZDNWt1RnJMMzF4UnVoNEJFdVlpWTFjajY4UQ?oc=5",
+        "headline": "Peter Schiff Warns America's Debt Crisis Could Get Much Worse. $50 Trillion In Debt At 8% Interest Would Cost $4 Trillion A Year",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/14 21:00",
+        "published_ts": 1791979208.0,
+        "tag": "Global",
+        "first_seen": 1791983723.8561695
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQb0FnUExlT1JvZVVaY1FQeWs0Skg3andPSnVMOUpHR2VoeW9hODRCZ2lYZ3l2Q2RuV0N5a2ROSFhncENnakVTcWhJQlN2dklRVTBGM2NKaWFSZGlfWEprZFVHNm02Nlc1dFZ0QjR5NWxKNjhJT1Z5NG9TUWl1cVNmd25falM?oc=5",
         "headline": "I'm Buying The Dip For 7% Yield",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Simply Wall Street",
         "published": "10/14 13:04",
         "published_ts": 1791950671.0,
-        "tag": "JGB",
-        "first_seen": 1791951323.612097
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPelpPeUc1RUpRWlBGUnczZ1g4N1ZmMlBpY1cxUEREZzd6RnEtYm1aYmJzMnpoTnlJOEUzXzQ3M3NZNS1lbW93M3FDRWRFUC1jRktlU21VVmRlWm92Y2pJQU5pSExEYnNVemV4bGNXZmdpV1hpY243Rk5BY2VkVXQ5UTZROEw?oc=5",
-        "headline": "Japanese banks and insurers return to domestic bonds as yields surge",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/14 13:00",
-        "published_ts": 1791950403.0,
         "tag": "JGB",
         "first_seen": 1791951323.612097
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-14 22:01:04",
+  "updated_at": "2026-10-14 22:15:46",
   "yields": [
     {
       "label": "3년",
