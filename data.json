@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAzajJjcW9IUV84ZlJQZXp3Rk80N3RCUnEwTFdxLVRTVWJ0Z1d1TkVTamVheFhzbE9NbGt4RjJFcGZyYVJJSkJ5WjRFMEhPc2hodEY3WVZaTGI2dWZjNkF3OThPbEdJTHBLYWpKa2Fnd1U2Zw?oc=5",
+        "headline": "AI 인프라 투자 경고음…美 코어위브 회사채 금리 15% 육박",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/15 07:51",
+        "published_ts": 1792018305.0,
+        "tag": null,
+        "first_seen": 1792019723.8336465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB6bTR3aVdCVjlWZURNN0xXQzE2ZHR2TFZKdi1ldUFWSTlKUTJCbkFXNFRWVTRMcHN2Z0NWd3ViTmU3THhyQW1rRmdEQ0pGZFgzVFJlRHFwM2kxWnUyakttMFpwbUt5Z1NNLVFFTkIySHlEemvSAXdBVV95cUxPeElxRmNwWjVTMFNnN3p6SFJtdU1LcVYzRU90Ump3eWVEVWh1aHBWOTBCVC14MWQ3bTlVUXBMamk5SlNRUzlFMjNEdTFBOE1MUk5CM2lRMnZWWlQwbXFndDlRUlVPQW1OcV9SLUw3VHhsUGhiYmNJbw?oc=5",
         "headline": "코어위브 주가 폭락…회사채 가격도 급락, AI 거품 우려 커졌다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791932625.0,
         "tag": null,
         "first_seen": 1791946838.304275
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5qUWVTNVZ2cFM3aXMwZHFZcF9VSzE4emdrcVQ4cVBtUTQ4Q3VOYW5kbEU2QTViUkdKOFZaU3hXMVlMLWltQU9UUFBFS1U0YmZmZjRia3IwNzQwVWRE?oc=5",
-        "headline": "[모닝 리포트] CP금리 상승에 단기조달 부담 확대…신용스프레드 상승 압력",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/14 07:58",
-        "published_ts": 1791932280.0,
-        "tag": null,
-        "first_seen": 1791941426.2027073
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYzQwT3o1Z0lPbW5iNURoaXV1SjJlczY3RS1OS2p4cno2THZvWUM2ZzdPNnNIX3hzQzN0SGJQb2RFaGhKQ2NFNVJuWlNPbVdwNUtZdnhoMDVta2l6V2pwYi1PYVdsVkZoNTBFSWdza2JpQ1RtcmpNRFAwOWM3QzlmYmE3ZXRvMTRsc0RTNFhUM01URkdEN0xWT2hEX1lYXzhjYVVSSV8tRmRuSXNsLThyTGJOMW4wLUV4bnhIZHppY2JSaWxRQnVMUWQ5aUFaUQ?oc=5",
+        "headline": "US Treasury yield surge triggers mortgage hedging, adding pressure to bond markets",
+        "summary": "",
+        "source": "Prop News Time",
+        "published": "10/15 08:00",
+        "published_ts": 1792018856.0,
+        "tag": "Fed",
+        "first_seen": 1792019723.8336465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TlBCSmhjQWlTd3hlMlFRTTRPc0tuTlhuLVYzS2ZMWGlIU3Y0bDI4bHZzNVM3OXFmczZNazhBeXEybkVkN1BPOGpDRnItaGRhUUphUU5IaE5jdw?oc=5",
         "headline": "Fiscal Populism and the Long Bill for U.S. Treasuries",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1791974622.0,
         "tag": "Global",
         "first_seen": 1792007122.8847435
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORFdIdDFpNTk2c3JhSzdFRGYyTlQ2UkplNWkzR3F5QVNTbkpERk4zbkdKQnd0cHlfWVZGbm9sSUVkdmJCSW1YN2R0UlkxaWN6RThpaHVFTzBqMFdxaGpCZjYxQkpxbllKUVl0ZUp1dkcyRWtxOW44UC1iLUxXODJYR1BTWU5aZmlrV2g2ejFmTTMzeGpKVUR6N1otdGo?oc=5",
-        "headline": "US CPI TODAY: GOLD BREAKOUT OR ANOTHER SELLOFF? for OANDA:XAUUSD by VertexQore",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/14 19:37",
-        "published_ts": 1791974234.0,
-        "tag": "Fed",
-        "first_seen": 1791975637.977923
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 08:00:58",
+  "updated_at": "2026-10-15 08:15:47",
   "yields": [
     {
       "label": "3년",
