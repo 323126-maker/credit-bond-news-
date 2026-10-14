@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBSNDFmaHVSd1Y2OEE3Y2FnZko2aTI3MXk0ZFJINnFIUjB5ZEZhMjdkOGlSMDFwSHBuemdFdUFYVnhiZUdlMVllM3loOENsaFZQaHlFSA?oc=5",
+        "headline": "급변한 채권시장, 연말 강세 이어갈까…“금리 하단 근접” 경계도",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/14 15:06",
+        "published_ts": 1791957960.0,
+        "tag": null,
+        "first_seen": 1791959433.7461586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZ1ktS1Jhd2htd2ttNzhVT2hPUlZyQ3BtRFBlMEZFTlZGemI2NHJyNlRyVFJOTURvNEZLbDNickhXNmFtanpnM29pOUp0YU9MTGNHUlNiRlo4X2pjTnZrenkxQTI?oc=5",
         "headline": "“신한금융 품에 안긴다”…롯데손보, 신용등급 상향 기대감 커져",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791881816.0,
         "tag": null,
         "first_seen": 1791887429.2203674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hbnIyeVRuaVdUbmg3Y0o5OFRHVW0xaXFvYUdFSjNNWXhZTkc5Mjg4bVlPU3Z1bG14ZUppOGpUN1JiUkRWbm5PemR1dkxkQmx3cUhHUE5mcGMyYm9nX3kwMGVaQ2VZZG1IOWk2Q2VR?oc=5",
-        "headline": "외국인 매수·코스피 하락에 국고채 이틀 연속 큰 하락",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "10/13 17:54",
-        "published_ts": 1791881668.0,
-        "tag": null,
-        "first_seen": 1791891924.9735444
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ZSzQ5X1d6MERHVlh5QzNsc2R3SVJjcW9SejBoYjNaLTIyblVNdUVRSFRiNDVFYldjSklQVm5BVnpZR3JTUXNRLS1yV1lDLVhLcnZWTTNPRkNpNVk?oc=5",
+        "headline": "일본 은행·보험, 해외채권 팔고 일본 국채 사들여",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/14 15:14",
+        "published_ts": 1791958440.0,
+        "tag": "JGB",
+        "first_seen": 1791959433.7461586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFBhekF5bXplSVBIRFh4eE8wcHREUXNIVWRqVXZMTHVySkFrRE5JUEYtV0UyOUh5YVhwSWxoaEFMVi1UWVlXdFFqdTFn?oc=5",
         "headline": "JP모건(JPM), 3년 만에 어닝 미스...다이먼 \"美 경제 위험 요인 한가득\" 경고",
         "summary": "",
@@ -1618,6 +1628,26 @@
         "published_ts": 1791958200.0,
         "tag": "Strategist",
         "first_seen": 1791958521.9156432
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LTEVOMEQwOVd6T0ZqVi1iTWIzc2J3d0tKZEsxZTIzQlJsZ3hSMHNjcG4xNTdVY2Z6amsyMFBFR0F0bDN2NEhHYndKbXRmMk9p?oc=5",
+        "headline": "Emerging Asian stocks recover from chip-led sell-off; Singapore steady after central bank pause",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "10/14 15:06",
+        "published_ts": 1791957973.0,
+        "tag": "Global",
+        "first_seen": 1791959433.7461586
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNZkJLNTNSRjJ6eHpxOGVyNzVGc0hmZXJFdjV2MGNBUlluSHBPYUx3NERCalg1NFU5NExBZHotR0RaUkZ2MDVaYjZlbnlRdlc0SEtHNmdkZngtV2FFQTVyUlIwbjEyd3hUb2tyLTF1MnoyeVVw?oc=5",
+        "headline": "월가, 3분기 호실적에도…‘금리 찬물’ 경계감 팽배",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/14 14:59",
+        "published_ts": 1791957540.0,
+        "tag": "Strategist",
+        "first_seen": 1791959433.7461586
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1fR1RvQ2F6S2plVk5EMHBqM2NYYkJtanpDb3ptY21CUHpOYUJUQUpabmVLVnMwZ3ktVVBXTzQwZ2hrNDFBNGZYTkFhT0draDI5eUUzVHdQWmRXZw?oc=5",
@@ -1820,6 +1850,16 @@
         "first_seen": 1791936037.998056
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE50MlhaZjFWNGs3eWVqajdvR1V2UjEtOVpPLWRsdTlOaGdGQzI4VTJCMWN2UGM4cFZNdTBpUGJaZjg2bUwyVG5lRGZfblVhdUx4dFB5SUZxZTh5UGg0?oc=5",
+        "headline": "국제 금값, 美 물가지표·연준 의장 발언 앞두고 하락…선물 0.3%↓",
+        "summary": "",
+        "source": "https://spt.co.kr/",
+        "published": "10/14 08:10",
+        "published_ts": 1791933000.0,
+        "tag": "Fed",
+        "first_seen": 1791959433.7461586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRYkJLV1ZsTy1rdXdEVnUtSVhScjZGZF9XaGpIV3hPTWVSdVNoczRxT29lTUFSdk14c2VPSzhlRDJ0S1FXSGZ6SjNwYU9ZSzRRdVE?oc=5",
         "headline": "美 금리 급등 충격 월가로 번지나…대형은행 실적 '희비 교차'",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1791911711.0,
         "tag": "Fed",
         "first_seen": 1791915322.8694665
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nRWJvQWJmaE5odEhxYndVendYUE11d1hiM1pIT0NmUWx6SjRYZGp2SDVLUjRSYWF6Ym54d3hqOFNvZzlBa015OUd2SU9TdTRkY1VKYlY5dXBZLWZiWUF1eVd1WVdQd0FGU3pmSlpia0NObk15?oc=5",
-        "headline": "The Fed vs. the Bond Market",
-        "summary": "",
-        "source": "SchiffGold.com",
-        "published": "10/14 02:04",
-        "published_ts": 1791911044.0,
-        "tag": "Fed",
-        "first_seen": 1791911725.1728225
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUnltcWR3Q1MwQUFpck9OQ3lVZm5SUnZzbld3c3FRMXpsemplOURpYTdpUDBQdHJpNzltdDIyTzhtWXB4R19OOVBGVXV2RE8tLXdVU1NjZ0dVQ2g1SVRfNFhwbFpfMGM2OTVWRjFzdlhZNV9Va2N0Mk1mYjl2SzVMNXU1S1pXbWJqcHZ1cndPZ0Z0TlNYSE1FR2FaS3VzYUhSU1A0RERTdDNfd1BqdzlFb0xn?oc=5",
-        "headline": "Ray Dalio Warns Slump in Treasuries Market Has ‘Long Way to Go’",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/14 01:48",
-        "published_ts": 1791910124.0,
-        "tag": "Strategist",
-        "first_seen": 1791913521.8484678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWnhJdjRNRzBYaFBFRFVQbkM2YWJsUUpoalJmZEw3SF9FQ0ZLbWRWdmRxTlRIVGZzV2k4NGVTeldfZ29tNkszcTNKM18yeXJQWGNITXZISUZjU0JVOEJQc0VVVHJobXl4aVN3YXhOekVTcHR6YWIxNzNuUGRPazJrZGVwY3ZFT0RlUlVLSTNMUy1SbnlqYl85dnhwam1sUDgybllab1UtNDRRVzJBUU9Oc3ZUemlYUTA?oc=5",
-        "headline": "U.S. Treasury yield peak still ahead as Fed likely to tighten again, PIMCO’s Ivascyn says",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "10/14 01:39",
-        "published_ts": 1791909545.0,
-        "tag": "Fed",
-        "first_seen": 1791915322.8694665
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMzhGQ3pSVVhBZ3pNb0NZX0lvblJrX21tOHF3VXZ3Q1hRNlNVRnVudlBQRlBPYUl0TE5QZUhxT1dxSTd0WEtRVWtDTzN2Y2h5Vkd0WGdQNHQtX1dESVNzbkN5SDF2a1JDYkh4emEwZkZ4djZvSUM4NDM1emdFRGEyUHJnUC1GWFJlWXg5WXk4VWoxVm81U3NhWk05R1VONGp3UndYYXp2NmsyX1dN?oc=5",
-        "headline": "Echoes of 1987: Michael Belkin on the Bond Market Warning Stocks Are Ignoring",
-        "summary": "",
-        "source": "Financial Sense",
-        "published": "10/14 01:36",
-        "published_ts": 1791909378.0,
-        "tag": "Global",
-        "first_seen": 1791909921.9898725
       }
     ],
     "watchlist": [
@@ -2292,6 +2292,16 @@
         "first_seen": 1791750628.937901
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5SZjh3RmZzVkxfUXNiV2k0WV9EaExPcnB0VVA4S2hreHdabDgzTXptZWpYWFZ1Q2JlZGx6ZWV2OG5aYURmR3ZQRTlHNXh1MnJaR1hiUTNVdTlwYWxXSlFKLUlvQXRfUGozT0pv?oc=5",
+        "headline": "JTBC 신용등급 'D' 추락, 중앙일보는 워크아웃…중앙그룹 '생존 모드' 돌입",
+        "summary": "",
+        "source": "뉴스피릿",
+        "published": "10/11 16:00",
+        "published_ts": 1791702000.0,
+        "tag": "삼성카드",
+        "first_seen": 1791959433.7461586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rbXlFSHhlNXN2cU0wNlY4YjRnMUJicEFUZ0gzMF9xMFRWLXFuSjVfNDU0VldOQy1SM2Rfbmp1cnViSlJJNTk3WW5BOTkxcmZQbGk3YmRlM2dWVng5enROamE4V2IweGktZjkzeEt0T0_SAXRBVV95cUxQcGhua2g3Tml4bktJVjVjOU8ybWFwWEFjMDh3bEJnNHFIVU5XOWc0elowZkl5VElFTzZPZnUteXhRWU9lc0xBU01wci1QRTAyNThjcWZVZU9hOUY0NHpUbzVHNzNGV2c4UFJPWlphVEd1Wkp3Zw?oc=5",
         "headline": "누리호 5차 발사 성공에도 상업화 '먼 길'…1048억 발사비 절감 과제",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1791450427.0,
         "tag": "삼성카드",
         "first_seen": 1791456322.5506449
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sSjl6MG51RFZlb3RUSjJZaU44QjdGLXNkX3daOHp4TnROdXVxVjNhWTlXSFgyR0RteHA2cDQ5eVQzWmp2VE1jbXVvdEx5aWx2aU9WdUtJLWtxdHRhUUpEMUplTk5OZ0c0ZEc4LTVB?oc=5",
-        "headline": "[단독] 금감원, 수협중앙회 가계대출-리스크한도 등 28건 위반사항 적발",
-        "summary": "",
-        "source": "데일리브리프",
-        "published": "10/08 17:59",
-        "published_ts": 1791449979.0,
-        "tag": "수협은행",
-        "first_seen": 1791450923.6926227
       }
     ]
   },
-  "updated_at": "2026-10-14 15:15:46",
+  "updated_at": "2026-10-14 15:30:56",
   "yields": [
     {
       "label": "3년",
