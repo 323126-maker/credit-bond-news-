@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+        "headline": "CoreWeave's slump puts spotlight on debt behind AI boom",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/15 23:02",
+        "published_ts": 1792072928.0,
+        "tag": "Global",
+        "first_seen": 1792075521.7874851
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFZvRjkyR3FhMmZGLVZhTEE5ZkdnU0FjekdSb3kzbkp6a2Vvc0hmX0FKQllXdmktQmhpa0hhbTdJSHc1ZGhYZHFIRWlWd0xTZ2hhMXFwaDVPRFJZSWdpZ0hLb0owNE4yRXVpNFpuT3k3MzJ4MkNRZF9mSHJ5eHpfRVAwT2Y2Ym5FMENzeFRYYXdJcTllSkE?oc=5",
+        "headline": "ASML: Indiscriminate Selloff Doesn't Make Much Sense (NASDAQ:ASML)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/15 22:52",
+        "published_ts": 1792072339.0,
+        "tag": "Global",
+        "first_seen": 1792075521.7874851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYTFxOGpJd1RsR004TUpEUEJ6ZTJYWmJGUGVmcEN4X0VrdlZjdmJYYTdWM0RYT2tlSE9LZU9HTmpJWndwSVpVNDgyNW5UMUFGNUhNYjg4S3ZObEFNd3NRbzlWNUNjbGhNY05fX3VaeVlTVW1mb1JKTXNVcVVrdS1kRUZsLU90Y2plSC1LVDBR?oc=5",
         "headline": "Billionaire Ray Dalio sees a $4.4 trillion fight for capital that could send borrowing costs surging",
         "summary": "",
@@ -1628,6 +1648,26 @@
         "published_ts": 1792071480.0,
         "tag": "Global",
         "first_seen": 1792071921.8621166
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5rWnNiRVBsdEREMjh1eVZudlplejFMM0M3cE9IbC1BM2ptS0oxaVhtdUZIN1NOUnpWUUNFeHlXbFRhTmNzZWRTWC1xSzl3UldXeHhnSkJNcGxOMU9GTENtUkRxRnRnOHNaVzlITVV6cGxkOHR1eGFmUFNhNA?oc=5",
+        "headline": "Buy and hold",
+        "summary": "",
+        "source": "www.allianzgi.com",
+        "published": "10/15 22:00",
+        "published_ts": 1792069206.0,
+        "tag": "Global",
+        "first_seen": 1792075521.7874851
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcHRvWkgtazFPYWFZSHI5VDJpRnZLMWNBeWlQOEFKTlBpdVUwUFZObTNyUXhWNUQ0bFdZeHljQ1c0NmkyUVZ0aHN3cWNzOFNiTXFqTFRwQ2hndW96d3dyQzZEaVpxdXRxOWtpS3VWeEhoZG1lYTFNSmhQZTZXM2NGbEQ4VWQ?oc=5",
+        "headline": "Rising inflation piles pressure on US voters ahead of midterm elections",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/15 22:00",
+        "published_ts": 1792069202.0,
+        "tag": "Fed",
+        "first_seen": 1792075521.7874851
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNeWZPSERFSWtuaUhJTHRiYkNDMU8taldWcHM1WHZBNW05Z0Q1Wm52Z3N4eEMzMS1PdV9XdHpIM2tkRzY0dUpITkEzTWYwc01wa3otaXZyUEh4MGdfWVN0d3U3VTVQZmVBUlBlZldCaGRKcDZDa3c?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1792048874.0,
         "tag": "Fed",
         "first_seen": 1792068323.5867174
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdTVndHNsTlY4MEtMMjUtcmZfa3dOVmNfVnRyR1NhajRSLVZMaTc2dWJnLWpnZXlZaEVYc0dqb2MxNVNaSEVnb2RCVXNqalQzUWpJdU43QThvckR0S0t6ZXB1clhiVVB2ZFVIRy1BRkIzd2Z4ZnR6ZWs2aUhSRFh5YXB2Z2d1OEs1TEJhQ1dVUEgxcTlyNEN5Sjh5MzBqaEVXdS1vclcyX21lQTYyMnJJOFpsdmhqYll1RHFF?oc=5",
-        "headline": "Nedgroup Investments’ Alex Ralph: Getting ahead of a bond market pricing in too much pain",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "10/15 16:20",
-        "published_ts": 1792048835.0,
-        "tag": "Global",
-        "first_seen": 1792059322.0452344
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOa3IwZi0zRFNSWFJNbmRMR0RQZ05OWTJfdHdteG9TRWczQmhpWFhqVVFiVTRqRUNtaDZGWXhFdi1qZ09PUml2dndjM1FZcmRYWUpibnk4ZWVpNkhPdWJyblk4Vm5nMGFZb1RWRmxnZXpHSkRILXFkZWtCa2t6ZUxpZUdRWHprLWJXcmpGUnR5TW42THhqNjk2Mk5kcElBOVRjMmFaN2d0WWlOYkdHMlJ4Z0xxbUEybXczSnI4QjRDTEVvRzY5YmR4S3VUTTN2Mnoz?oc=5",
-        "headline": "Fed’s Kevin Warsh Faces Oil-Driven Inflation Test — Jeremy Siegel Sees 5%-10% Upside For Markets If Strait Of Hormuz Reopens",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/15 16:04",
-        "published_ts": 1792047843.0,
-        "tag": "Fed",
-        "first_seen": 1792072838.6813927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UG5xSnVnOVR3aWc3dTVWZkVQeG1KWC1BdkE4eW1YRWhJODZ6M2ZxUzNpQ2xEUF84ZDJvck1SSFlFemp6RGd4eVItMmN1M2NwenpZ?oc=5",
-        "headline": "Is the first \"mine\" of AI credit about to explode?",
-        "summary": "",
-        "source": "36 Kr",
-        "published": "10/15 15:42",
-        "published_ts": 1792046547.0,
-        "tag": "Global",
-        "first_seen": 1792046723.1413405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9YaTBDSmw2N3BMVjM1M2NXRlVCNFFmcmF6Yl9fVFJsbnlRdl9ISHd6eUhTbXZXSjl1a194X2JXSzlXS0dNT3ZkUUhnMmdiRHpKdVVCVUhGTzExMGpSRmNOMmRhUC1IZ3FWTm1CNFVoWnM?oc=5",
-        "headline": "연준, 중간선거 앞두고 민감한 시기 금리 어떻게 할까",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/15 15:27",
-        "published_ts": 1792045639.0,
-        "tag": "Fed",
-        "first_seen": 1792069238.746824
       }
     ],
     "watchlist": [
@@ -2392,6 +2392,16 @@
         "first_seen": 1791870322.9417477
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1ia2M2WnBReTltTk16bUZkU3F3c2dnVlpjbXE0QlJUdXFpd0kyNDBlQzJxRE0tbEEyQWZaNFBaYklqWlhGVld5ODBOWUJLMU0?oc=5",
+        "headline": "채권운용 실패한 현대차증권…IB 조직도 2본부 재편 쇄신",
+        "summary": "",
+        "source": "딜사이트",
+        "published": "10/13 09:11",
+        "published_ts": 1791850269.0,
+        "tag": "신한지주",
+        "first_seen": 1792075521.7874851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBXU0ZmeFk0OXpWc1ZWazd5TGxIOEpWeEVqRlA2VVZwdVFJZDh2MXNCRlFMb3llbTN2YVJnQkNiaXQ5YjFvSzZhNWxRbWpMNXpibUUxcFV2UXQzQU5meGdBYzN2bWlFNHZTMTZYM0lzQnQ1QQ?oc=5",
         "headline": "정책금융도 중소기업 '외면'…대기업 대출이 중기 2배 넘어",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1791849109.0,
         "tag": "수협은행",
         "first_seen": 1791849636.4494016
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1PNFB2a2d3bFpxdjBIdldGdHVMdjc1NVdmcENUT1lEUEFyNElvcm5PbHBXNWN3MFZhN21wWm0xajcwaGtEaDZNaTZESUVlWW9rVjNqOEx2bFBGdVJQYjJHU09tcmlpRFdUNUY0?oc=5",
-        "headline": "한투운용, 만기매칭형 회사채 ETF 출시…2029년 11월 청산",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "10/13 08:47",
-        "published_ts": 1791848874.0,
-        "tag": "신한지주",
-        "first_seen": 1791868521.4755852
       }
     ]
   },
-  "updated_at": "2026-10-15 23:30:54",
+  "updated_at": "2026-10-15 23:45:49",
   "yields": [
     {
       "label": "3년",
