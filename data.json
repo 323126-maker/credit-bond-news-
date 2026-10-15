@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9fX3lSYWxBWjlad1NnZjZhZEM1TlU1bVFqWklkS3JuZFNjQkRueE9qMnlPSU8yYklQYlNuc1dPMko5NmlyRmd0d1MzT2FPV1VEc2NMYlpXMkt0Q0RMdVk3YkZPSTdiTkkzSEd6QTdVUQ?oc=5",
+        "headline": "소방노조, 추미애 지사 '재정 빨대' 발언에 \"석고대죄하라\" 거센 반발",
+        "summary": "",
+        "source": "프리진뉴스",
+        "published": "10/15 14:51",
+        "published_ts": 1792043497.0,
+        "tag": null,
+        "first_seen": 1792061121.4916558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9KcU4wNndHSjFJSXhtOEFDOHo1RWlEdWIwQ0xvRmRyRGhzUS04bzRGa3hRU2FXcElJWUVHemlKVDJRYWludkxVU1ZnTzlGdGtVaUFkYWlORGl6dkU5M2RVUGMwY0NOM29QZGxuaFhn?oc=5",
         "headline": "김민수 \"재정 빨대는 소방 아닌 방만한 예산\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791815966.0,
         "tag": null,
         "first_seen": 1791825324.1671557
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5YMUcwd055LXlBVFVQSTl5UFA5Y2RmWHNYaUREX3pmWTFpQ1l4V3VJbExKV0o2dlluTnU3ZHg5V3I1SlBQZ2ViQ3RUVHNEZGplQmVfUW9BbVlIS05ZejRLX3RzbGhBTTI2cXc?oc=5",
-        "headline": "국내 재정학회 최고 권위자들, 이재명 정부 '재정 만능주의' 경고… \"1997년 외환위기 교훈 삼아야\"",
-        "summary": "",
-        "source": "데일리저널",
-        "published": "10/12 22:56",
-        "published_ts": 1791813362.0,
-        "tag": null,
-        "first_seen": 1791813634.601607
       }
     ],
     "global_bond": [
@@ -1648,6 +1648,16 @@
         "published_ts": 1792055475.0,
         "tag": "JGB",
         "first_seen": 1792058437.2090862
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAwOEZyaWFsZzRrY3RwZkV0dUVyLW1JOVdyWEZxcUFDY0RvOFVSS2cxT0lLYmwxVmtXanFrTW5sOU1ZUmpnWUxGSnZHdTgydGsxOVM2djRma9IBV0FVX3lxTFAwOEZyaWFsZzRrY3RwZkV0dUVyLW1JOVdyWEZxcUFDY0RvOFVSS2cxT0lLYmwxVmtXanFrTW5sOU1ZUmpnWUxGSnZHdTgydGsxOVM2djRmaw?oc=5",
+        "headline": "Korean bonds join global safe-haven rally on equity rout",
+        "summary": "",
+        "source": "Aju Press",
+        "published": "10/15 18:07",
+        "published_ts": 1792055225.0,
+        "tag": "JGB",
+        "first_seen": 1792061121.4916558
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zOGVEQ0pmR3k4c1FUUkhnUDBWQXNnTkFNbnpQY2N1ZU1POE5fYmdUWG81RWx1dGNQcTh3THBtNHY3NFdobUVnSV9BYVh5SzlkdnIza1lkUkUtOC11cFR6czJaeXBZblE3UDJDSTJzcjZFRUJpYVE?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792028897.0,
         "tag": "Strategist",
         "first_seen": 1792029638.2425544
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE15Tl9WZkJQUGg0UnpDeW9tSG9vN2ctNDUtYXJMX1ZZejllQXVsTU92WUVWSHVPcVlWYUhkMGxtLUhXVEF2U19pQ3hrWVVPczJkQkdrdzJFN05LZmdxSGNManBqYklDTVAyWDkzSUVoTXBCdw?oc=5",
-        "headline": "기술주 붕괴 속 亞 채권 금리 일제히 급락한 배경",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/15 10:43",
-        "published_ts": 1792028596.0,
-        "tag": "JGB",
-        "first_seen": 1792030522.34432
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 19:30:54",
+  "updated_at": "2026-10-15 19:45:47",
   "yields": [
     {
       "label": "3년",
