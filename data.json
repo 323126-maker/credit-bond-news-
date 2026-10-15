@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VOFQ0Q2lPVGRkejFBVi04U2N6bnAxX1NxWFBQc21OT25NY2FLVXlRYVdqci1lOHZsVUhjR04wTEhJOGVvS0pfdFpRenBRX1lfUmRLR013RU9OVjBH?oc=5",
+        "headline": "[회사채 시장의 AI 처벌] 네오클라우드발 쓰나미…어디까지 밀려드나",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/15 15:25",
+        "published_ts": 1792045500.0,
+        "tag": null,
+        "first_seen": 1792045830.5476582
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONFZDb0dCV09IajlOZ0M1WTJXY3NlN3E4cTZPUlVrUkZDRWtJY1pwbEpnUEF6cnE3Q3ZBQVlrcWp5bWZLdGJnWTdQSF9zQ2JFUklrUDJEN2luMDNmbW9RMm5qNzVfV05lZWNLU1RUUkQ0alNaSTRRZlhQekxQS2tJbQ?oc=5",
         "headline": "법무법인 굿플랜, VC 투자 스타트업 법인파산 절차 법률 지원",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1791967526.0,
         "tag": null,
         "first_seen": 1791968435.9731073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VQ0FDV0pUdHJSeHBmUmxXcWtDNTdSWGxUUHQ0UXhxUXNobmt0UklrYjBySGkyeDl0YmlWNXhrUUV0WjBpZ1Z3RTRHLUowTDJ3cHhTajZOakVxUEFHcldz?oc=5",
-        "headline": "롯데손보, 신한 품에 안기자 '상향검토'…등급의 열쇠는 신한 증자 규모",
-        "summary": "",
-        "source": "스마트투데이",
-        "published": "10/14 17:24",
-        "published_ts": 1791966240.0,
-        "tag": null,
-        "first_seen": 1791967524.077957
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1pVVh4NFhKTkoxZjZhSV9BSkRZWk1KUHp5OHBWQXk2TFhNTGJsMXBqQTMxOWNNczQ0LUpZVG5ybzktQl9FR2VpODd3Mk9zR1VqNWtla1lxbWY0TGQ4Vk1URkI3MGdIM2FR0gFsQVVfeXFMTWFzWl9kMUhiNTlsTE5Fc0NzNHp4VVJ5OUNTcXNnTy11VjFfaDRZMEFLbWhhcHF1aW9LWC0wWVBpc2ZhVVZqa1hJQWcwU0NOM01GWV9hUnlUUnRkbUtZdmxnN1dPS2NpbkxTVnJD?oc=5",
+        "headline": "[신종자본증권 점검]③ 하나금융, 5000억 확충…배당 부담 소폭 낮춰",
+        "summary": "",
+        "source": "블로터",
+        "published": "10/15 14:23",
+        "published_ts": 1792041794.0,
+        "tag": null,
+        "first_seen": 1792045830.5476582
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE13UTFMZnl5RFIzc1FhaGN4ZXozamZRVGMybTh4dVpZYUNMNUdYWHhJOFNxNVZIWDNHcUY1R1hsVWtlZnBVdGhkVFdlOFIyS0wxSnFsaGh6bm5EMmFhZWU4bmhn?oc=5",
         "headline": "중형 증권사 자본확충 잇따라…종투사 도약 본격화",
@@ -792,16 +802,6 @@
         "published_ts": 1791761860.0,
         "tag": null,
         "first_seen": 1791878433.1305506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5tR3NPMjZpbjMxTEtEaTBOWVZGaDdoZGZ1SEZNX1pkOFZzUFp0dWpKRGotLUtHWWJmeFhQTXZxazVieUZBV3RXbVJZWVdqS000cGJKYjZySXZpS1Q0RFl3RUhZWGlmbEpl?oc=5",
-        "headline": "[증권 중형사 도약기] ③교보증권, 종투사 진출…속도보다 '안정'",
-        "summary": "",
-        "source": "www.fetv.co.kr",
-        "published": "10/12 07:00",
-        "published_ts": 1791756000.0,
-        "tag": null,
-        "first_seen": 1791756921.2307534
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 15:15:53",
+  "updated_at": "2026-10-15 15:30:53",
   "yields": [
     {
       "label": "3년",
