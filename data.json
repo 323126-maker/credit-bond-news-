@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWmNuc0VDZXcwQXFTS2FhbUZHUEQyWGRnNVJkeGlqNTlpa3p5TWV1OHU1c0VaRUREOEZPQldtTi1YbEZZLTltN25aUHJqaEs5eXlQbVJaUTZCTmVsaEtrVG1yZ2lQd3VSWUYtQ0dIX3VQM042UWxENmM1bmpCZWYwdA?oc=5",
+        "headline": "\"내년 채권시장 반등 기대…기준금리 정점은 3.25%~3.5%\"",
+        "summary": "",
+        "source": "이데일리",
+        "published": "10/16 00:04",
+        "published_ts": 1792076642.0,
+        "tag": null,
+        "first_seen": 1792092628.7045476
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aUlJwOTIxbW5rUk5zeVpqSnNMR21MNGJvSWNNSDlSU1k4U2w2OEJWZmtaQ1lDbkZfc2wzRXNUcG94WjFhSjJPY1plWnlySnBkWHp2TjVkTjNVRWh3SXNLQVM3OVk0OGtRal9PaVB3?oc=5",
         "headline": "안전자산 선호 흐름에 국고채 일제히 하락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792033320.0,
         "tag": null,
         "first_seen": 1792037724.5163202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vd2lTd1A5LTdrNk9VQldEVjJLUUZSSDd6V29aUTRqc3F6STgzaHVnN281Q2x3ZUswUGI4Ym9oVC1UM2dCYW14MHJBcmNwNHZpQkhrQ1RxLXFEZ9IBVEFVX3lxTE1MOW5wc1lmR09HT2tCanBWYTVGdlowa0J5bldCdDJSS0pMcFJ2SGh1Qkg3LTFEZXdYbXA1WC1BMHBOY1ZwUnlVR1BrNjRSVkswUlFDRA?oc=5",
-        "headline": "360억엔 조달 이어 신용등급까지…한투증권, 日서 'A' 받았다",
-        "summary": "",
-        "source": "더팩트",
-        "published": "10/15 11:56",
-        "published_ts": 1792033019.0,
-        "tag": null,
-        "first_seen": 1792034122.6202455
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 04:15:50",
+  "updated_at": "2026-10-16 04:30:50",
   "yields": [
     {
       "label": "3년",
