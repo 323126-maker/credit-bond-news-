@@ -1588,6 +1588,16 @@
         "first_seen": 1791868521.4755852
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBXdVJnZXBPcHJaLUc0R2QwM05OZ3kxOFM1MFFDcklHRmtTMW9uY3pjd3BVcDg0NERJMTF4SVhVbzBESWJSS3NSYTBwQjFrbkpYaWxtNw?oc=5",
+        "headline": "李대통령, 고금리 장기화 우려에 “정부가 연체채권 직접 매입해 정리해야”",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/13 12:42",
+        "published_ts": 1791862920.0,
+        "tag": null,
+        "first_seen": 1792086835.6561573
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pd2toN3d2ZWJ1WUpMZ1hHN3RqTnRHXzA0RU4wY3ZfWjNEOTVlN3dnMVJmLXM5bFZEbnZ1b2kwWWxoOGZHN0p5ZmZScC1FcW5RNzlTc05B?oc=5",
         "headline": "李대통령 “장기간 고금리 시대 올 것”…연체채권 정부 직접 매입 제안",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1791860374.0,
         "tag": null,
         "first_seen": 1791861322.0951507
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8zcFE3LUxKTEEybUljSzNSX3ppRTM1MVI4WjEtS00zdW9vdXptZHFUVEozWHV3eFp5WW1mNFpHRmJoZnFWaVpmZC1acG1RWjRZTGZsWDNaOHhRV2s?oc=5",
-        "headline": "李대통령 \"韓금리 인상 기정사실…美와 차이 줄여야 하는 상황\"",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/13 11:56",
-        "published_ts": 1791860171.0,
-        "tag": null,
-        "first_seen": 1791861322.0951507
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGktVGxLUV82ZjZsQzlYQ1pzUktXbXBlWkM2b0ZQNjgwV3RpUDY3X0J0UWRXaTBLY2J0R3ZGSHpPbGUxZmNZcFlIUFJrNE5SZ2VIUmNJblJQMVBxRTZvQzlDakNPMkxReEgxOExDT1RVQi1ETlM5cE1MUzNWbEpLWllHNVpDb1RjMF9mZ3RUOE1Ed2xxaWU4MGZ1NmV3WVhqYkV1U2FLUWFOSmc?oc=5",
+        "headline": "CoreWeave's default probability exceeds 60%! Jensen Huang \"puts out the fire\": Financing costs are falling, and there's no need for NVIDIA to bail it out.",
+        "summary": "",
+        "source": "富途牛牛",
+        "published": "10/16 01:42",
+        "published_ts": 1792082558.0,
+        "tag": "Global",
+        "first_seen": 1792086835.6561573
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUJ1b3JBYnNmVHB4Z0gtQVFHRTVxVFBNaTQ5RFZzVE1kV1p0cnIwYTktaFBXX0RWYkhPREQwZ0NDMTRRNnBtZ0pQeTUtbHNmakpzdF9XMGVCQmJBMnh2U1l0am5mRTJoTDFwSTFCZXoxcUJWazVhTGhQVHNsLTJfc0lhc2hkS2JVckhjbTFDRW9mLWRNZ2FYYThRYnA4clRvZnlMRVFzblFfYWp5OUdRTWNlNjdXOE1lNHZrTDNNaHNXQzNrY2xyWW1DVDNsQQ?oc=5",
         "headline": "CoreWeave investors are feeling spooked, as the company’s stock and bonds see fresh pressure",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792054844.0,
         "tag": "Strategist",
         "first_seen": 1792080926.1910052
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyOS1XMjEyMmwwS0ZHQUYwU2U0SE9JbkZxRmdtVlVFQk5iMm1keFgyZUJ5bmxJb1BPZmVWVGd5ZXhTazhaODdfMm5iMWhXT0lvZ1E?oc=5",
-        "headline": "The move is in full swing to expand the scope of foreign investors' use of Korean government bonds f..",
-        "summary": "",
-        "source": "매일경제",
-        "published": "10/15 17:59",
-        "published_ts": 1792054740.0,
-        "tag": "Global",
-        "first_seen": 1792055724.538567
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 02:45:56",
+  "updated_at": "2026-10-16 02:54:29",
   "yields": [
     {
       "label": "3년",
