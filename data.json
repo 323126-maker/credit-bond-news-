@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9icVF4VmxEWGVtWXZVY2NEdTNmSWdSR2NnQmtrU0pnejNWLTR2RHZGd0t6MHEweFMtazI0UVduS3lodjBxVU1nWndjYS1KZFdKVDdJOWd3bG9QR1ZYTEVUdnlBU2M?oc=5",
+        "headline": "한국투자증권, JCR 신용등급 'A'로 상향…수익성·재무건전성 인정",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "10/15 13:10",
+        "published_ts": 1792037400.0,
+        "tag": null,
+        "first_seen": 1792038633.2991295
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9kQ0Z5T1hoQWI2RjI2MFlxMUp6SmQ5VHBtU0RSekkySVhWTjlSQVVLYXlPT0RLd1hIZEdmLXowYkNRTDV5RWk1NnhvZ0RKVTF2YkE?oc=5",
         "headline": "한투증권, JCR 일본 신용평가서 신용등급 'A'로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791952785.0,
         "tag": null,
         "first_seen": 1791956724.8612537
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aMTVpNC1LTEpFa3BfaGs1YVpucWRPQUVaTkFhcDlRWWQ1TXhtLS1VZll6OVlDMGlMbXpONFhoZExLeGZCYlFfMnYxQW5Ucm5EU1RlMmEybXduUEkzb25j?oc=5",
-        "headline": "불독 토토 창업자를 위한 투자 재테크 필수 포인트",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/14 13:05",
-        "published_ts": 1791950709.0,
-        "tag": null,
-        "first_seen": 1791988231.3939338
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQnRWdWFYVmxYVUFGV1Nud1RyYW43TzJTajNjUDZ1QnVjcG02RzBuTGl0VzRWZ0xwbE1PeVJLUllxWWFmSHMxTV84OWNPWGFfV3lLSHZManJmSVNiemFTeGpjdU82Q0RiUnVrRjhRTWw3TWo0NTNYVE8zYzVkM2JMNThTNTRGWUFaa19hVThfM2ZFTjNoWHBJWkhnVDNXUkVwNUZ3eEN2MnRGeXdtanVxU0xHdldUNmQwM1JJMFE3dWNReDRUMlBhT3pFVjFpbERZdDZBU1dVV2VmNms1YW1SZVZnbWxNQ1VYZDFFNUdmTWhSR2JMSVptckt30gH_AUFVX3lxTFBLQUZIMzBPeVZXd0tMNDdBdWZlTWd5QzdlUzl4eW43VEtScXJ2SzRGQ0hTRWZrQWp4RTFjTlVOc045SXBqS3prRUJra1dwUFNHajA5WGtCLWVVTElsZU1lSEdBZHRiWThuMEtGY0tBRGg2MFRiSU52d3YzMlVhUmtqbHJjTjRuOHM0a1F1WlNJX19ZNGJXZjJaLWZHaEd2UUd5dy00ZGFtWXI4cGtLMGR1ZVhMVFVZVC1lbzlWR1dhbzE5U1ZMZ1cxN19rdHdtU1VTRXBFTEFMT0JFdVI1bFBrZFlBN3RlUVVVYS1YZGpST3Qwd0VWWnJlLUF4bkY0NA?oc=5",
+        "headline": "Global Market: Japanese government bond yields hit one-month lows as investors seek safety",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "10/15 13:17",
+        "published_ts": 1792037831.0,
+        "tag": "JGB",
+        "first_seen": 1792038633.2991295
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQVRxX1RZZ3FvTjkyeFRvbkNNSlVRZjdKbEFkNlI5ZjlLZnJkN3dtbGpGY0Y1T2J1M0VaRG5PQllHUzlZbUNlWWRhSmxSUmlnT0NQR3ZOWTFFeUx4Wk9SWVUxSmxYNWZiT3F5VQ?oc=5",
+        "headline": "Analysis-Japanese insurers are poised to bring money back home - gradually",
+        "summary": "",
+        "source": "Lexington Herald Leader",
+        "published": "10/15 13:13",
+        "published_ts": 1792037580.0,
+        "tag": "JGB",
+        "first_seen": 1792038633.2991295
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RMHVGTDBnLXM0ZHBPY25kaGlwZlVnNHVxUF9HbG1kVG82VG0zbG1ScXJyc3R0bHlSbmVKNHJINTJQeWc1emtxaGtB?oc=5",
         "headline": "JP모건(JPM) CEO, AI 에이전트 폭주 경고...시장 충격 대비",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1791991525.0,
         "tag": "Fed",
         "first_seen": 1792012521.418483
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUHAwdlQwQ04yV1I0akR3Y2s4Z1VPR0JsYnFqVUlzRXNTRGNpR2VRMkZObjBEd1ZpQmRYaDdBek9TVHd0Z0NiakpLQ2ZuZXNRZjJ4Vm1lUkZrWVluWHZnbTBiamFfdEdpT2o5MGtxeENvMTFoTU41RGw5T2VndTQyajZ0dXRYemhiRkZwdHJoOU5VSG1Wek1SdDB2cDREOERVQnFjei1vY2JQX0tSQUFOMXJMQQ?oc=5",
-        "headline": "Realty Income: Bulls Need To Learn The Dividend And Interest Rate Lessons (NYSE:O)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/15 00:14",
-        "published_ts": 1791990876.0,
-        "tag": "Global",
-        "first_seen": 1791991835.5419047
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVZKRkl2d3p5QnJocF9wQkNGVV9TN2lLcE1wLVlzYVRMN0lLSkpJVTFnakxuVnNDdUpGTHlRRkoyMzUxelo4R0c2RkNaUzIxdDFDOXVWazltSEpuMHVIRjJlLTZiNHZONjhVQTh3T3JNWmk1N2tFWUpCdjN6b2ZyNjdRUnhwS1FFUWxFb3NyclI3OVZ1MWtMeXVqUDRGU3JiSGNKZGdoRFFoc3pxMDBHLWVKaVRqZk5uNGxWSA?oc=5",
-        "headline": "Through the Systematic Lens: Is Fixed Income a Dead Asset Walking?",
-        "summary": "",
-        "source": "Global X ETFs",
-        "published": "10/14 23:53",
-        "published_ts": 1791989619.0,
-        "tag": "Global",
-        "first_seen": 1791997238.99881
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 13:15:52",
+  "updated_at": "2026-10-15 13:30:58",
   "yields": [
     {
       "label": "3년",
