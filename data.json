@@ -222,6 +222,16 @@
         "first_seen": 1792052127.9382968
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucmhJaHJuNUJhdHRUcmVTUmNVUm1kZnU1a09XdE1XRXQ2c0llaEZEUWp5M3JHNkV0Y1F0ZU41VmtLbXRaNFV3cnJQMlRXY2tMX1ZMWkdqMlRSUQ?oc=5",
+        "headline": "[속보] 코스피, 7.57% 급락한 5554 마감…코스닥도 7%대 폭락",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/15 15:31",
+        "published_ts": 1792045906.0,
+        "tag": null,
+        "first_seen": 1792070127.481789
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VOFQ0Q2lPVGRkejFBVi04U2N6bnAxX1NxWFBQc21OT25NY2FLVXlRYVdqci1lOHZsVUhjR04wTEhJOGVvS0pfdFpRenBRX1lfUmRLR013RU9OVjBH?oc=5",
         "headline": "[회사채 시장의 AI 처벌] 네오클라우드발 쓰나미…어디까지 밀려드나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792031880.0,
         "tag": null,
         "first_seen": 1792032322.193779
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRjJKRW1aeTBtS19feS03MXhva1BYR3FqR3ZTTzlHRmVNWGd6SHhUV0dtQWRsV2hyMGJFcWhsZ0JRaW1sM2ZZdzQ2TjJPNFBoZ3JaRjl4ZlpGM3Jha3JfYk1xX184VFhkNlVVYktnUjJhcVEzYjY5Vkd1WHZuenVvTXJLZWFySTQ0?oc=5",
-        "headline": "한국투자증권, 日 JCR 신용등급 ‘A’로 상향…해외 조달 동력 확보",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "10/15 11:08",
-        "published_ts": 1792030132.0,
-        "tag": null,
-        "first_seen": 1792030522.34432
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 22:01:08",
+  "updated_at": "2026-10-15 22:15:53",
   "yields": [
     {
       "label": "3년",
