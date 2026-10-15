@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU9FNXg4VHI0TndHbXF2WUhrUGY1X3M4aGo3MUl3eEVWZ0xaTFp2VTJrMGdwZ3loZGNyN3kzTE40WDQxOHg0VDNuMW9CUW9lTmZjX1puWU1JZlNseTZ6ZHpycXFBYVVJNzdocVVHTEtLUVJxYzVIaHFaYkg4SkpJcVl5b0VPM0ZPN1I1cThfZzZCclR2dkZqTFBjbDFEV2FtN1Jsc3YxZzQ?oc=5",
+        "headline": "Fed Chair Kevin Warsh's Quiet Approach Clashes With Colleagues' Push to Speak",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "10/16 02:50",
+        "published_ts": 1792086623.0,
+        "tag": "Fed",
+        "first_seen": 1792089033.0443757
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdGktVGxLUV82ZjZsQzlYQ1pzUktXbXBlWkM2b0ZQNjgwV3RpUDY3X0J0UWRXaTBLY2J0R3ZGSHpPbGUxZmNZcFlIUFJrNE5SZ2VIUmNJblJQMVBxRTZvQzlDakNPMkxReEgxOExDT1RVQi1ETlM5cE1MUzNWbEpLWllHNVpDb1RjMF9mZ3RUOE1Ed2xxaWU4MGZ1NmV3WVhqYkV1U2FLUWFOSmc?oc=5",
         "headline": "CoreWeave's default probability exceeds 60%! Jensen Huang \"puts out the fire\": Financing costs are falling, and there's no need for NVIDIA to bail it out.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792054917.0,
         "tag": "JGB",
         "first_seen": 1792055724.538567
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGZnT0l1YlVZbkZVd1ZXblBzeWZrdVpLRWhUblZDQnVNX3M2ZG92dFVkUFBraHl4TEcxSU9POE1OdjZXLVhaWGp2UVZqNzRuU1FCejkwbUtJWkZxOUxGb3ZEam1SVE53WmxpMDJPZVBITkl0Ml9UWGNNbG4wWWlhcVg4Z1VSczJoQWEwVTdPWXEtUUtmdXRRUWZqZi1Hel8xWkVsczg0SHJCXzhsUVFpenE4blk5a3k0aVBJektpUzVCbXpPaGFVeTJRcDVqc2hqeGxoV3p3?oc=5",
-        "headline": "Closing the Advice Gap in America",
-        "summary": "",
-        "source": "Barron's",
-        "published": "10/15 18:00",
-        "published_ts": 1792054844.0,
-        "tag": "Strategist",
-        "first_seen": 1792080926.1910052
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 03:15:48",
+  "updated_at": "2026-10-16 03:31:02",
   "yields": [
     {
       "label": "3년",
