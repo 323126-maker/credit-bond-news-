@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZUJ1b3JBYnNmVHB4Z0gtQVFHRTVxVFBNaTQ5RFZzVE1kV1p0cnIwYTktaFBXX0RWYkhPREQwZ0NDMTRRNnBtZ0pQeTUtbHNmakpzdF9XMGVCQmJBMnh2U1l0am5mRTJoTDFwSTFCZXoxcUJWazVhTGhQVHNsLTJfc0lhc2hkS2JVckhjbTFDRW9mLWRNZ2FYYThRYnA4clRvZnlMRVFzblFfYWp5OUdRTWNlNjdXOE1lNHZrTDNNaHNXQzNrY2xyWW1DVDNsQQ?oc=5",
+        "headline": "CoreWeave investors are feeling spooked, as the company’s stock and bonds see fresh pressure",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "10/16 01:20",
+        "published_ts": 1792081200.0,
+        "tag": "Global",
+        "first_seen": 1792081831.1269255
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRk9ZWEx4Ri12VHAteDIzZDE1OUFLR3BqME9kOTVSbkFXWjBPM19RUzJBRTdNU1lESXZzOGplaDFSQkU2blRIcTBvc1d6NnJzdG9HMGVBNnhZVGpPMmRDMkNrb1BVQ2dBQm5ZS0lRdmpjendZdl9BMF9QaU5VeDZic00tandhcmxjakxxYXJLNGw4cUMyUVhKSGViNmZKRzJPMXkwdy1Kc0pzbnZvRzVKWnRLbHExYWVFYXZmWVp1TFZuRkN0Ylhr?oc=5",
         "headline": "Average long-term US mortgage rate holds at 7.4%, remaining at highest level in nearly 3 years",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792053360.0,
         "tag": "Global",
         "first_seen": 1792062035.8433058
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxObGt3cmlaM1QxdUNWWVc0Tzk0RUZ1NkZNQm01WWgyMlQ2cE1pTEtvTnp2YWJnTFV6Vl94Rld1TTlSZ3lHRkM3N2o0dkpvT0Zzb0RkNF9aVVhwdURVdEZzNXVSSzUwMDY1SlVTNnV3NGtjUjl2REN5RlpKSEk1aC1id0ZxblVHQkdTT0xINUY4ZGUyUFMtQ0dYMS1oUTRQc2gwQTFUYjZmLVdtWWl1Zl9wU2xjaktRU0pmRk81dlQ0VmUxME1GekZDZmhYdGNkeXNMZFJwTUdRQ04wVTFsa1hVNG14WVFEb29ORXZBLXJsZkhPQ3NyNnRSdzI5NEFVVHlrMzBXUXM1RzF2MjhfcGxWSmd6UjEtNDQ?oc=5",
-        "headline": "Traders Give Warsh A 42% Chance Of Doing Something This Month That Has Only Happened Once In The Past 36 Years",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "10/15 17:26",
-        "published_ts": 1792052760.0,
-        "tag": "Fed",
-        "first_seen": 1792053029.8274605
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 01:16:10",
+  "updated_at": "2026-10-16 01:30:57",
   "yields": [
     {
       "label": "3년",
