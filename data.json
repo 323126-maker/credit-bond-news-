@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXTXY5OWEzNHFueGhnbmp0QkctSEZKcHJfV1pQU3puTkdpYkx5bTl2MGNEMV9VZ2dFWjA3UXhQUlNtX2F4czhpOU9uU0ZaaExja1HSAVNBVV95cUxPTmdld1AzcmZYclNGdTRVTlJjdEI3cUxLa0NnODdOUll3SkpKT2hrS19ocXZ0UVBxZDFyVm5jaU54ZlZGcEdrcGJNTXdSd2pGTTdMVQ?oc=5",
+        "headline": "日 10년물 3%로 두 배 오르자…운용사, 매수로 선회 시그널 [마켓무버]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/16 05:34",
+        "published_ts": 1792096440.0,
+        "tag": "JGB",
+        "first_seen": 1792097925.4425664
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUm1YY3gtQVZrcEhOQm9iNE1idzlmNnRZTzQxOXd6dUl2XzBhZTBsZk04a1U1R1VBbEw0VG1keFVhdUNrUEc2N3JlOGVCcDhtLXR6NG1OLTc2OE9RM0hKM1J5N2tCTnVvNEJyR1FhUXA4dFYwMS1BTmszaHZSODNHWjJIQ1NvQU1SMGdzbzZjVHhwTWc1VlJqOWlaTXBvWVRjNHNMXy1CdDM?oc=5",
         "headline": "Will the Fed raise interest rates this month? A Kevin Warsh speech could offer clues",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792057141.0,
         "tag": "Global",
         "first_seen": 1792057524.133916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBGQTcwMU1BMUl3QTl6eFRFT2c1THNZSVpRNFVRY3lNZThkV20yREhiNXJFN2RmY3ktNzgxRkg4MEotVVE4QUY0TDR1V244N2kzMVpocU94T044eVBTS1l3X2laZ2U0WlhQVDBnNFl1ckI?oc=5",
-        "headline": "CoreWeave’s bonds scream financial distress",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/15 18:17",
-        "published_ts": 1792055843.0,
-        "tag": "Global",
-        "first_seen": 1792076439.2626424
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 05:45:48",
+  "updated_at": "2026-10-16 05:59:08",
   "yields": [
     {
       "label": "3년",
