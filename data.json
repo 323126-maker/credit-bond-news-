@@ -232,6 +232,16 @@
         "first_seen": 1792025121.9567804
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOEp4U05DaW5UV0h0S1JCQ2NqSEttaTh5dGl2cmhnVlNJQUF5NUloNWtVTUdncjJ2UVVtQzhjblBZd3MwYlotM0ozcXgweEdnNkJhckhfUTZLTDlYUFlHQk9oQ1pXMVN3WF84OEtYR2xVY2x3NGtRRm1vRDVfbU91VTlXbnhnQnRWOVhZ?oc=5",
+        "headline": "26. 10. 15 장전시황",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "10/15 08:48",
+        "published_ts": 1792021680.0,
+        "tag": null,
+        "first_seen": 1792047635.5445993
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBINEhiMFlZczZMRTRRTFhRRmpNcUhlbWU2cTBDRngwZGFjdFdxb2xFNmxycXQxRUxBdkdPRHJJTUdrdXE4dnJUZDF1bGZnS3hsVU9lODhTQ25pamFndVFTZmhSOHJubU1ENFRqUzhfY25XQWs?oc=5",
         "headline": "美 국채금리 급등에 월가 채권 거래 부진…BofA 평가손실 146조원",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791968100.0,
         "tag": null,
         "first_seen": 1791982840.6160052
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfdGpsQXB1dS10UWNmVFZQVnhFYkRhTW1uUnRSQVFMbXA0Ri13N1RFWE9NRkR2bEI3azcxYnFHTmZESTBCeDNrODZCOXZPN1MzS3c?oc=5",
-        "headline": "\"긴축 당분간 지속 … 중단기 美국채·금리연동 상품 대안\"",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/14 17:45",
-        "published_ts": 1791967526.0,
-        "tag": null,
-        "first_seen": 1791968435.9731073
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 15:45:45",
+  "updated_at": "2026-10-15 16:01:01",
   "yields": [
     {
       "label": "3년",
@@ -2440,33 +2440,6 @@
         3.921,
         3.857,
         3.883
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 4.047,
-      "chg_bp": 1.7,
-      "series": [
-        4.267,
-        4.279,
-        4.345,
-        4.288,
-        4.262,
-        4.225,
-        4.275,
-        4.267,
-        4.22,
-        4.345,
-        4.276,
-        4.203,
-        4.2,
-        4.129,
-        4.117,
-        4.134,
-        4.158,
-        4.101,
-        4.03,
-        4.047
       ]
     },
     {
