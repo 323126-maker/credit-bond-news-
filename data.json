@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVYzSTVkYlNvenhYVE9MSExYelJJMUhwU19KRlR5UjhWYnJHSklwNFl6LUg1N1pGQVJMaXNvQUg1bjNsV0h5V2FkN1JOQWhqMTVGNHZTTUJrTnBCRGJpWDNiLWtIb2NERDh0dExTSXFhV0o1dk5nT2c3bjhsN0RsOTdBNA?oc=5",
+        "headline": "Bitcoin Briefly Dips Below $80,000 on U.S. Producer Prices",
+        "summary": "",
+        "source": "www.trendingtopics.eu",
+        "published": "10/16 03:02",
+        "published_ts": 1792087353.0,
+        "tag": "Strategist",
+        "first_seen": 1792089922.8769472
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTU9FNXg4VHI0TndHbXF2WUhrUGY1X3M4aGo3MUl3eEVWZ0xaTFp2VTJrMGdwZ3loZGNyN3kzTE40WDQxOHg0VDNuMW9CUW9lTmZjX1puWU1JZlNseTZ6ZHpycXFBYVVJNzdocVVHTEtLUVJxYzVIaHFaYkg4SkpJcVl5b0VPM0ZPN1I1cThfZzZCclR2dkZqTFBjbDFEV2FtN1Jsc3YxZzQ?oc=5",
         "headline": "Fed Chair Kevin Warsh's Quiet Approach Clashes With Colleagues' Push to Speak",
         "summary": "",
@@ -1910,6 +1920,16 @@
         "first_seen": 1792080037.826206
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOOGZnT0l1YlVZbkZVd1ZXblBzeWZrdVpLRWhUblZDQnVNX3M2ZG92dFVkUFBraHl4TEcxSU9POE1OdjZXLVhaWGp2UVZqNzRuU1FCejkwbUtJWkZxOUxGb3ZEam1SVE53WmxpMDJPZVBITkl0Ml9UWGNNbG4wWWlhcVg4Z1VSczJoQWEwVTdPWXEtUUtmdXRRUWZqZi1Hel8xWkVsczg0SHJCXzhsUVFpenE4blk5a3k0aVBJektpUzVCbXpPaGFVeTJRcDVqc2hqeGxoV3p3?oc=5",
+        "headline": "Closing the Advice Gap in America",
+        "summary": "",
+        "source": "Barron's",
+        "published": "10/15 19:30",
+        "published_ts": 1792060244.0,
+        "tag": "Strategist",
+        "first_seen": 1792089922.8769472
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvUWtxNU9WLXpuVnM4S0VkY040TTFFNkhkUXlHRzVaWkxQS3NVbFdYRkpxUG5rcHlTenFMT1h5Z2JaWHJuYXgzX09zXzhLclJuV2sxQw?oc=5",
         "headline": "‘Too Scared to Open an Account’: Kospi Sinks 7.6%, Wiping Out 1,193.5 Trillion Won in Seven Days",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792055225.0,
         "tag": "JGB",
         "first_seen": 1792061121.4916558
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zOGVEQ0pmR3k4c1FUUkhnUDBWQXNnTkFNbnpQY2N1ZU1POE5fYmdUWG81RWx1dGNQcTh3THBtNHY3NFdobUVnSV9BYVh5SzlkdnIza1lkUkUtOC11cFR6czJaeXBZblE3UDJDSTJzcjZFRUJpYVE?oc=5",
-        "headline": "Experts Split on South Korea's 2027 Rate Outlook Over Semiconductor Trickle-Down Effect",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/15 18:05",
-        "published_ts": 1792055100.0,
-        "tag": "Global",
-        "first_seen": 1792058437.2090862
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBuOHpmcWI5T1hsVHc2TmJ2NmVZcERrOVM2OUZ2SWJaTTFKWkdVX3hBVEYwXzdMRng2OW1XakN1R0hvYnY2NDFXX2dVVmxYMU9XVnFHa2ZpSE9EM0hKSjZCNUFzNFZoZ0lBVmc?oc=5",
-        "headline": "일본 은행·보험사, 해외채권 팔고 자국 국채로 자금 이동…5개월 순매수 5조4000억엔",
-        "summary": "",
-        "source": "이즈보험",
-        "published": "10/15 18:01",
-        "published_ts": 1792054917.0,
-        "tag": "JGB",
-        "first_seen": 1792055724.538567
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 03:31:02",
+  "updated_at": "2026-10-16 03:45:45",
   "yields": [
     {
       "label": "3년",
