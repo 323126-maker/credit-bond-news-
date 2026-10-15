@@ -1900,6 +1900,16 @@
         "first_seen": 1792046723.1413405
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zQVlRWWtJT0lfQ0szV196ZHZlTTNObUlDZW5KT3dHUC14Ukk0aTUxZjNjTXZDLUNjaEFqWTFMdXZ6LUh6WVZVb05BMlo5TmN0TVRzdlpmeU5jZWRETFhHZUp2ejFRQ2NVN2hWTGxLWEN6UENB?oc=5",
+        "headline": "日 국채금리 전 구간 하락…10년물 5bp 넘게 떨어져 2.94%(상보) |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/15 12:02",
+        "published_ts": 1792033343.0,
+        "tag": "JGB",
+        "first_seen": 1792060231.9413307
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9RMHVGTDBnLXM0ZHBPY25kaGlwZlVnNHVxUF9HbG1kVG82VG0zbG1ScXJyc3R0bHlSbmVKNHJINTJQeWc1emtxaGtB?oc=5",
         "headline": "JP모건(JPM) CEO, AI 에이전트 폭주 경고...시장 충격 대비",
         "summary": "",
@@ -1918,6 +1928,16 @@
         "published_ts": 1792031100.0,
         "tag": "Fed",
         "first_seen": 1792049428.5075252
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeWYxNmZfSUdwZEVBdjlSR1RwM0FRR3ltNzVVYnNLREtfNjFvcmZtN3UyZDMzeVBJdVczazVqSVp1NVF5cDVpbnFpbEVuQUdRdk1TNHRHeG9mQWF2RjNPdFY1czZIMGxMYV9OOXBIMWFRWnBsRmZCQm50emttWW1aZnpRa1QtR1BsLWhrX2h1dw?oc=5",
+        "headline": "Japan 10-Year Yield Hits 5-Week Low",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/15 11:21",
+        "published_ts": 1792030860.0,
+        "tag": "JGB",
+        "first_seen": 1792060231.9413307
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalBsbEd3Z1NfajRmSzM2bE14b25rY3hvOXgxamFHdHVULThDUFRSZXZGWXUwc3Q3d1l2cVdEdEVSOXZvMFRwd1FhZHphbElFWGtHbUdLVVF0ekxXZ245d1k0QjJ3SjNSSDgtUDBWZUJuWkxYNDhUZkxHNlBrTF9ZZ1UyZHpkNkRkM0x1YTJ2M2pMY2gtam5UQkVUMA?oc=5",
@@ -1987,26 +2007,6 @@
         "published": "10/15 10:43",
         "published_ts": 1792028596.0,
         "tag": "JGB",
-        "first_seen": 1792030522.34432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9GQkRnUFRzSlRPN0pOWDhzTmQtUlk1VjN6RG1FTG1IUUZBUmJKZXU5ZVd6dlVfWnVQTU9tcTZXWWVTZTBpV1N0eGhJeWJ5eFhKQm80MHJoTDdJeERUd1hLUVFGcG5LZVBsM0VjZkMyLUtXeEM5Qmc?oc=5",
-        "headline": "Inflation Puts Federal Reserve in a Bind; December Rate Hike Could Reach 50 Basis Points",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/15 10:35",
-        "published_ts": 1792028100.0,
-        "tag": "Fed",
-        "first_seen": 1792053927.8838286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VNDd4NzB4UHYyaXZSNkZHNTdBb3hxajBycVVDdm5IY3RxdlJMU2dHbG1oaTVYVkVaWE44N211ZWJLU0IxaUpFMU56dEI4cnE3YmtF?oc=5",
-        "headline": "US Stock AI Infrastructure Credit Crisis: Institutions Warn CRWV Default Risk, NBIS & AMD Sharp Plunge",
-        "summary": "",
-        "source": "36Kr",
-        "published": "10/15 10:21",
-        "published_ts": 1792027298.0,
-        "tag": "Global",
         "first_seen": 1792030522.34432
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 19:15:47",
+  "updated_at": "2026-10-15 19:30:54",
   "yields": [
     {
       "label": "3년",
