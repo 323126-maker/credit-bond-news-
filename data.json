@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1GS2Nkb1B2a2wzaWtER05mbzBtVGdTRDZtTVJWRG1JSThkNFJsaXJEemRJOEV2OFlRN2pSZ0p2NXprZzJDeWpUTW1BTmlhY2tTTUJTREN0cFh6dnVRdlJyNmFVam8yemNpUTlzRXVCT2Mydw?oc=5",
+        "headline": "[금통위 인터뷰] JP모건 \"이달 매파적 동결 전망…최종금리 3.75%\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/15 08:43",
+        "published_ts": 1792021428.0,
+        "tag": null,
+        "first_seen": 1792023324.924942
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1emVib2x5OFNlRG4yRjdrZ1ZiVjUxenBsVGhUQUV1bXh4dEVTcC1hU0VlczktaTdVYzlsa0FsbWVPS2NzVWR2NjJwUDdtWTJzTGpjdVZzUVdpZ2NlbXFZOFFpZWRackQ0TEE?oc=5",
         "headline": "[韓경제 아킬레스건](22) 부동산 PF 부실 : 금융권 전반으로 전이되는 위기",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "연합뉴스",
         "published": "10/12 08:57",
         "published_ts": 1791763039.0,
-        "tag": null,
-        "first_seen": 1791764125.242947
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOU1E3MHktMGFzMkctOW5vOThSeXFKa0M4M01aT1ZWeFdWOGthTm85TnFSel91eE9BY19DMVRtVWJYYkxCVVF4YmMzR2lsRzRhSzZnOWdybnp3cGVMaWVTT29iODJhdU5ZUUZCZV9GNExTYk1sakpMX1FkZE02WG5aNGloMEZCa3ND?oc=5",
-        "headline": "세계 중앙은행 금리 인상 확산…한은도 3.5% 전망",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "10/12 08:55",
-        "published_ts": 1791762911.0,
         "tag": null,
         "first_seen": 1791764125.242947
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 09:01:06",
+  "updated_at": "2026-10-15 09:15:46",
   "yields": [
     {
       "label": "3년",
