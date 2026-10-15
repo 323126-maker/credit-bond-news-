@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1RUnVxSEY2MktCaVFLcWJtNFJRd0tuWG5QaFI1VjE0Q3FtUG93U3k5V0NFY0xVRWY4VnprT3RlTEJmTGtuX0pwdjQ2RXUzTUJEMzhWdkpWeUV0Unl1S0RiR2swdDl2N0VQZ2V5YmkyblpMSEE?oc=5",
+        "headline": "브룸 자회사 UACC, 2억 3423만 달러 규모 자산유동화증권 발행",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/16 05:26",
+        "published_ts": 1792095976.0,
+        "tag": null,
+        "first_seen": 1792097125.1475694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpQlNQRHhUeEVmdGNWV25ZRUNYRG1XbWJTRXRSTTV0RWNySzVycEctZGstZWJuVi1oMGF3OW5ZaGNxUncyM24xcHM4MkhuX3l5QTlmWUQtakxZY2JGVDRoRzBWVkh5ZGdQRU14UFlJanhWdw?oc=5",
         "headline": "[뉴욕채권] 장기물 랠리 속 불 플랫…반도체發 위험회피에 묻힌 PPI 쇼크",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "매일경제 마켓",
         "published": "10/15 12:13",
         "published_ts": 1792034016.0,
-        "tag": null,
-        "first_seen": 1792034805.1914635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9mNFgwdjRpbDlGZ0lTSEwwV2p6d0NOcUFGVWpxb2xMbmgyWk56YmNUZ2w2SnNPRHlmQTJSX1FmUy1VRDA5cGVIZFhZWmdTWDVQWWptTi1qd2lBLUhDUTlzTUpFRlhfNFU?oc=5",
-        "headline": "월가 AI 투자에 '부채 경고등'…코어위브 회사채 수익률 15% 돌파",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/15 12:09",
-        "published_ts": 1792033741.0,
         "tag": null,
         "first_seen": 1792034805.1914635
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 05:30:54",
+  "updated_at": "2026-10-16 05:45:48",
   "yields": [
     {
       "label": "3년",
