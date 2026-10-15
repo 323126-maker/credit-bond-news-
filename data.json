@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSU9yM0V2OUhCWlZGM19pb3JpOTVLdkU3RmNPMGpPb1BmQmo4Smt3ekxyTGFUZzYxZC04N0tmRmZmZVNsanJYRjJWNTBGQW5BODNKMnpqd3RRY1dYOVM0eGNSTnU4dm5PQzZPYWhRTDdSbUtqZkF6RlBuWmxsbDJQMHRraktsTzNWYjZ6ZWRqRWl6UQ?oc=5",
+        "headline": "Ray Dalio Warns US Debt Crisis Could Deepen as $2.1T in New Treasury Supply Hits Market: 'Credit Market Players Call That a Death Spiral'",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/16 03:30",
+        "published_ts": 1792089012.0,
+        "tag": "Strategist",
+        "first_seen": 1792093522.9866183
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcVYzSTVkYlNvenhYVE9MSExYelJJMUhwU19KRlR5UjhWYnJHSklwNFl6LUg1N1pGQVJMaXNvQUg1bjNsV0h5V2FkN1JOQWhqMTVGNHZTTUJrTnBCRGJpWDNiLWtIb2NERDh0dExTSXFhV0o1dk5nT2c3bjhsN0RsOTdBNA?oc=5",
         "headline": "Bitcoin Briefly Dips Below $80,000 on U.S. Producer Prices",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792055612.0,
         "tag": "Fed",
         "first_seen": 1792056628.225788
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBIanIzakYtNWVyUDluOXY5U0JWbGV6WXJGREtKVGxBOVVNNGhOZWZzU1ZKM1lPVWQxOXQ2dkxKMTJRZTlkLV8yaW14UG1ISnEwSUVFU2dLMlM4X2hZZjJlZ3JwZm5hRkhlY001NFBXZEZoS0ZyNDVGRzhvUQ?oc=5",
-        "headline": "Nikkei 225 falls 5% on rate and AI concerns",
-        "summary": "",
-        "source": "The Japan Times",
-        "published": "10/15 18:11",
-        "published_ts": 1792055475.0,
-        "tag": "JGB",
-        "first_seen": 1792058437.2090862
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 04:30:50",
+  "updated_at": "2026-10-16 04:45:49",
   "yields": [
     {
       "label": "3년",
