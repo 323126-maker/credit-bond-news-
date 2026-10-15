@@ -1730,6 +1730,16 @@
         "first_seen": 1792033236.1607213
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWlV0MnV6SXBYOUF1ZEl6UHpJanhsc01iWlhNaUFqOXJadG9abWpra3NjU2NMTTFscElqa2N2YkZLWjV2Qy1Rcm9zRFpLbUVCTnFUNHU4VjlFbUVfUnpoQS04dVF5dFpOVHRTQnU4NmhpUUMxcHlfRGI1ckVBQ1FreHUyNHpnVVZhWmZXN3FHSEJvNzJJRjd5aVdaa3J2S01Ca1hob1RLTUtNMU5MTWdVM19vdV9mUQ?oc=5",
+        "headline": "Fed’s Warsh to Get Final Word in Bangkok as Inflation Roars Back",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/15 11:25",
+        "published_ts": 1792031100.0,
+        "tag": "Fed",
+        "first_seen": 1792049428.5075252
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOalBsbEd3Z1NfajRmSzM2bE14b25rY3hvOXgxamFHdHVULThDUFRSZXZGWXUwc3Q3d1l2cVdEdEVSOXZvMFRwd1FhZHphbElFWGtHbUdLVVF0ekxXZ245d1k0QjJ3SjNSSDgtUDBWZUJuWkxYNDhUZkxHNlBrTF9ZZ1UyZHpkNkRkM0x1YTJ2M2pMY2gtam5UQkVUMA?oc=5",
         "headline": "Jamie Dimon warns of a global debt reckoning: Government spending is ‘like heroin’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792004640.0,
         "tag": "Fed",
         "first_seen": 1792005325.7556434
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMWFUTlN0UFNuSDRsZWdHaEF5d21ybF9yWS1GWDUwV3J2VWxheFRtRGcyOTlaOXgxcW95M3Q5OV83cUdsWGpOdWxCN0xISlMtX1FZS2tpOWh2NW5qczVYMkREYXRNdGNxTXhfckFYQmx2NzJtTFllMW9jSnlqQ3ZUcEpueVZwX0x6ak5nVlZxLU1NemstczJCdElDV0dTV21HQ1p1c1ptNFBrVUpSajJwbnNuQ0J3VkdrV3NhYlRsaDJaTEE?oc=5",
-        "headline": "Bond trading weakens for US banks as interest rate volatility affects investors",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/15 04:00",
-        "published_ts": 1792004400.0,
-        "tag": "Global",
-        "first_seen": 1792036833.168469
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 16:15:57",
+  "updated_at": "2026-10-15 16:30:52",
   "yields": [
     {
       "label": "3년",
@@ -2470,6 +2470,33 @@
       ]
     },
     {
+      "label": "10년",
+      "value": 4.261,
+      "chg_bp": 3.2,
+      "series": [
+        4.54,
+        4.536,
+        4.6,
+        4.547,
+        4.506,
+        4.466,
+        4.457,
+        4.461,
+        4.392,
+        4.539,
+        4.476,
+        4.407,
+        4.436,
+        4.365,
+        4.369,
+        4.376,
+        4.395,
+        4.306,
+        4.229,
+        4.261
+      ]
+    },
+    {
       "label": "20년",
       "value": 4.296,
       "chg_bp": 0.3,
@@ -2498,10 +2525,9 @@
     },
     {
       "label": "30년",
-      "value": 4.338,
-      "chg_bp": 1.5,
+      "value": 4.289,
+      "chg_bp": -4.9,
       "series": [
-        4.714,
         4.698,
         4.729,
         4.692,
@@ -2520,7 +2546,8 @@
         4.448,
         4.388,
         4.323,
-        4.338
+        4.338,
+        4.289
       ]
     }
   ]
