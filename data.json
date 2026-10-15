@@ -32,6 +32,16 @@
         "first_seen": 1792058437.2090862
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5oZC1ua2Uwa0trUnlYSmlVUDJtR3RQYlhLTkxvU3dQazFUdHc1ZGJ3T24xZEt4dUFSTkdVVUlNSW9Way1paTVpbVVJLWROc1NpMkFEcE5tN1NXamZ6NHBBSnFR?oc=5",
+        "headline": "내년 채권시장 변수는 '물가·반도체'…금리 전망 엇갈려",
+        "summary": "",
+        "source": "이코노미스트",
+        "published": "10/15 18:04",
+        "published_ts": 1792055040.0,
+        "tag": null,
+        "first_seen": 1792066529.6191525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA3N2haYmtYVzBaelJGOGU5OUZGaV9EYVpGbWotOGIzdzcxR1AxS0E5R2dxZ1ByLVU2OERCLXdodm83bzdFQmljRW9vaUJRbmo3clE?oc=5",
         "headline": "이자만 받던 한국 국채, 담보로도 쓴다…채권시장 ‘새 돈줄’ 주목",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792027763.0,
         "tag": null,
         "first_seen": 1792030522.34432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYUFCUWx4RHNOU3N6cEVfVEFzcmJPb2pNVTJOdDlGdHQ2b094VTI0WHFLVG5acEppWkp3a2pfbzl1RW1ERHVIZFVuWW5ib1l1TVJhV0VhZllZc3N1STl2LdIBeEFVX3lxTFBjZHFNdEs2enZsNlFLY2ZYQmhjZXM0VkRfcXBpeUd6cHNyQmJXdEwtd0k5VkRCSVhaaWRvTDRObktKMHNvR09MWThlaWI4T3VxeDZEalBRZkpuNWFjemtSWUlmTnkyZXplelplSlRmLUpWUnJMeDBnVQ?oc=5",
-        "headline": "AI 투자 '빚더미' 우려…코어위브, 주가 15% 급락·채권 수익률 15% 육박",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/15 10:12",
-        "published_ts": 1792026769.0,
-        "tag": null,
-        "first_seen": 1792027826.3991184
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9qWmxNcHVWWnNrSUIzVGhsYmZVOGVIaVRIdk9nRW1hOGhMdkhhUjh3Q3I4eHVZcjJvVXo2ODVBM1NXNC1SSkYtNDZaV3IwZGlodC1UdFVaRUdfZzUwYmRjRFJ3ei1MejRSdklSQ3NwOGpyc0JUeFE?oc=5",
+        "headline": "AI Debt Fears Push Credit Default Swap Costs to Record Levels as Tech Issuance Pause Nears End",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/15 20:56",
+        "published_ts": 1792065360.0,
+        "tag": "Global",
+        "first_seen": 1792066529.6191525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmpEeEk1UzJ0dUYtNmZFTTlWYUZBMW9zbnYzc0hVOUQyN1dfTGhuZTRzcWpPaWwxY3V4ZExpYTJhLWM1VlJBQi1WeU1UYkpPY0RkUU53dm5SWW16aGhld0xUa0M1c29NZnRmSFNEcnIzLW1NcUlPdkhkc24wSXJKNTViZXI2ekRaSWlDQkdHcTN1ZG43eXRtYVJBX0c?oc=5",
         "headline": "The AI Selloff Is Bad but the Bond Market’s Reaction Is Worse",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "The Economic Times",
         "published": "10/15 13:17",
         "published_ts": 1792037831.0,
-        "tag": "JGB",
-        "first_seen": 1792038633.2991295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8zQVRxX1RZZ3FvTjkyeFRvbkNNSlVRZjdKbEFkNlI5ZjlLZnJkN3dtbGpGY0Y1T2J1M0VaRG5PQllHUzlZbUNlWWRhSmxSUmlnT0NQR3ZOWTFFeUx4Wk9SWVUxSmxYNWZiT3F5VQ?oc=5",
-        "headline": "Analysis-Japanese insurers are poised to bring money back home - gradually",
-        "summary": "",
-        "source": "Lexington Herald Leader",
-        "published": "10/15 13:13",
-        "published_ts": 1792037580.0,
         "tag": "JGB",
         "first_seen": 1792038633.2991295
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 21:01:10",
+  "updated_at": "2026-10-15 21:15:52",
   "yields": [
     {
       "label": "3년",
