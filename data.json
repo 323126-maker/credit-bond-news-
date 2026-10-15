@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNQnZrY2RKUFZLOE92dEk2bEZLeng3R2dzU3R0SWMyVTdFYlZBM0NLaVU5RGlBQlJwcXhxVGllM05GUUg2VF9HTXVHRWxVeDZRRGl3dDdUZEVkaGJZNjlubTBfeVg?oc=5",
+        "headline": "내년 금리 '하락'vs'인상'…금투협 채권포럼서 전망 엇갈려",
+        "summary": "",
+        "source": "서울경제TV",
+        "published": "10/15 16:35",
+        "published_ts": 1792049749.0,
+        "tag": null,
+        "first_seen": 1792050323.7572427
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1KakFIWjFvZ0g1dnNZT1F3MllGYUNFLUpjR2dCQnA1T1JUWnM3czkwWlVwSHRiUU9pTmIyRGQ1TG16S0pWVnpQSWx0VTNWMThsWl9SbDQySC0tcmpVWmI1Rkc1ZFNrQ0ZxVU80UlZB?oc=5",
+        "headline": "회사채 대신 은행으로…대기업 대출 4년 만에 최대",
+        "summary": "",
+        "source": "비즈니스플러스",
+        "published": "10/15 16:30",
+        "published_ts": 1792049435.0,
+        "tag": null,
+        "first_seen": 1792050323.7572427
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TUpJeFVEZWhCZFdkT2ZRM05kZC1FWEJYcXl5YkF1dTZMajZSMFY3UDlhSlgzd0lsaThGczlDeG1XTnpwYjVHSlJnRnF6QVozN0w3N0JlZHlMUjZESXlHMmlEQng?oc=5",
         "headline": "내년 채권금리 전망 엇갈려…KB증권 '하락'·블룸버그 '기준금리 인상'",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1791992700.0,
         "tag": null,
         "first_seen": 1791993639.7815132
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5DV3Y0Z0JaSVBEa1RGMFpFVk8yREpMZzZad0dCdUZUUWxFdEhoZ1NzOVNzby03WFQ0cmtCTDh3R0VJZkNVd2RWeGNmLVdfaFpEOVAydXgzTERXVUdlWjQ1LV9pY05YeFo4MFRGVS1WNmM?oc=5",
-        "headline": "피치, 경쟁 심화로 마진 약화…웨이보 전망 ’부정적’ 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/14 23:13",
-        "published_ts": 1791987180.0,
-        "tag": null,
-        "first_seen": 1791988231.3939338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbXBzWlB4amQzdVFoLUs4VWhSdm8xcVdjcnM1a1RpSmNNOXoyNVVUMkZudUtqTXA0dXpEamkyMUQ4R3psMnVzVEpyLTFEc2RlOEh5aVBrUGJkdGxGMzhfaVZVYTNzejBvTW43dWJrX0xWTjVsRlVlQzNLcTBHY3NhMmxzRXhINXQ0aVR4NXZRNA?oc=5",
-        "headline": "LG유플러스, 10년물 대신 2년물…고금리에 만기 단축 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "10/14 21:24",
-        "published_ts": 1791980662.0,
-        "tag": null,
-        "first_seen": 1791981028.8152702
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNQnZrY2RKUFZLOE92dEk2bEZLeng3R2dzU3R0SWMyVTdFYlZBM0NLaVU5RGlBQlJwcXhxVGllM05GUUg2VF9HTXVHRWxVeDZRRGl3dDdUZEVkaGJZNjlubTBfeVg?oc=5",
+        "headline": "내년 금리 '하락'vs'인상'…금투협 채권포럼서 전망 엇갈려",
+        "summary": "",
+        "source": "서울경제TV",
+        "published": "10/15 16:35",
+        "published_ts": 1792049749.0,
+        "tag": null,
+        "first_seen": 1792050323.7572427
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE53TUpJeFVEZWhCZFdkT2ZRM05kZC1FWEJYcXl5YkF1dTZMajZSMFY3UDlhSlgzd0lsaThGczlDeG1XTnpwYjVHSlJnRnF6QVozN0w3N0JlZHlMUjZESXlHMmlEQng?oc=5",
         "headline": "내년 채권금리 전망 엇갈려…KB증권 '하락'·블룸버그 '기준금리 인상'",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "글로벌이코노믹",
         "published": "10/12 14:14",
         "published_ts": 1791782069.0,
-        "tag": null,
-        "first_seen": 1791783029.0997317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1McWtaZ2ZuYzNXMm9PREhzRERBaEtlWnk4ZHBtLUROdk5QVEpQX0JabU9tSktLb2VXLW9uNG15Zm9OSl9XWEFRSVc0Q2t0bTdOQS1BR1lXQ19HaEJFdy1mWlUzLUI?oc=5",
-        "headline": "[기획] 국고채 4%대 시장금리 고공행진…가계·기업 차환 비용 ‘비명’",
-        "summary": "",
-        "source": "매일일보",
-        "published": "10/12 14:10",
-        "published_ts": 1791781844.0,
         "tag": null,
         "first_seen": 1791783029.0997317
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CblptcXZnR1FVaE0waG1Ob3lrQVAzOUY3ZGVaV2F1M2NTczZ2bnY5SzJmUWgxSGJEcThySjhJd3RnY1pUbHZoUHF0YjlmMDlIUFJRTlVaUWc2MThubzJDVXc2SFRtaDJjX01PcTNtVEhpdw?oc=5",
+        "headline": "美 국가부채 26년 새 5배...블랙록 CEO \"자본 부족 현실화\"",
+        "summary": "",
+        "source": "디지털애셋",
+        "published": "10/15 16:30",
+        "published_ts": 1792049400.0,
+        "tag": "Strategist",
+        "first_seen": 1792050323.7572427
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15UG5xSnVnOVR3aWc3dTVWZkVQeG1KWC1BdkE4eW1YRWhJODZ6M2ZxUzNpQ2xEUF84ZDJvck1SSFlFemp6RGd4eVItMmN1M2NwenpZ?oc=5",
         "headline": "Is the first \"mine\" of AI credit about to explode?",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1792046547.0,
         "tag": "Global",
         "first_seen": 1792046723.1413405
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNGlVczRGRmVqeTdhRUFUYi02UnRqT2pGZUNKcEhFNklHUGZPdE5CV2RJcWpsSEY1WlNFcURzVlZENVNnbjA3SmtuRERxRE5kVWxTNzd1b0tXVzdzVm1abnkxTWRndWFOSEJZSF9HOVQ1amltWU1mRlZlcWNubTY1akI2T09RVTl3WEtfT3hNd0VhWUFR?oc=5",
+        "headline": "Another Fed rate hike appears increasingly likely",
+        "summary": "",
+        "source": "agefi.com",
+        "published": "10/15 15:17",
+        "published_ts": 1792045057.0,
+        "tag": "Fed",
+        "first_seen": 1792050323.7572427
       },
       {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWEpmTElKQTgtQ1Z5aUFERlNkRmxCLXd2Vml0NHFpLTN0WDhHTjFFX241WWZZcXpUSld6RDlnZGVUMjdJUGxpSFdBS00yR1AydjdFdnhYVWRWVDY0cWFJTnVhMHJfSEFLb0N1aTFGNUhPQm5JcTZoUHhDRXViNmkxWTF1MnUtZUlwVW13cVJ4ZVB5N2JiTlc0X252MkpZbmZWUm1POVVtVDdUaUNLNS1UdHFzMEM3TUhiUDdYWF9yT09QYlpa0gHMAUFVX3lxTE9nQ01qMHhpaXJCZ1l6V1pFVlFaeW5FdTM1TWNGWVJCVTlhclhmdzRpSVYzbHN4d0RHQWxGUm1zSkExaUZfNEtrRVFoSlJWdHNXd0cwdDNYY0p1YnJkbTdQeGlnX0dhUkZ0N2ItMzRxeFBzWnBlUDRUVGZmQXVhQWhoRTI0MmZQcFZ5MXBPYjhza1RSMFRzN3JMMGZSQU5NS2VNcHJWOFFrY0VidkMtbnByQXY5VkNSRlVaZlEydUxzUTlKSG14UWRUVjFjbA?oc=5",
@@ -1988,29 +2008,29 @@
         "published_ts": 1792006920.0,
         "tag": "Global",
         "first_seen": 1792008036.5400224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUFRb1lhUTBHUVVGWHR3dTRrbWtjOTJGcGFJMElfT2xMT0RLZ0JxbE4xNjA4X0ZxcWZSZ04xNkJaVnVqUWNYdV9WbVBxSkFWdnRCNWhOTUlCMnlXNWU2NWo2bE5HbHVwRF9pQ0xJZm1nM3duOUZHUWZueXpvVmdLSGhyRFdZdnI0WWp6VnNDaHRiVHc2TGFGUWlZUGVhNzRpTVpoU1hjUGh2Zw?oc=5",
-        "headline": "The bond market is sending a warning about a darling of the AI infrastructure boom",
-        "summary": "",
-        "source": "Business Insider",
-        "published": "10/15 04:21",
-        "published_ts": 1792005660.0,
-        "tag": "Global",
-        "first_seen": 1792020630.7698894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjlTcGhWTmRxZXNLdlJwRENqLXZkLVlBWDRad1dUQkRHaWZEa3VhZDFPZEprRFdNT2l5TFJJVl9YbFlBUXpZVElfemsxc0diREhzZnBTTmdrYms2WHBCa0dIRG9QRngxZEFyUm11UTNyQmhyMWRhQmljTzNMaDM4Ykd4OTE5TnJoVVJHb3IzMUFtbHZuV21ycHpYZDhTQ0hCTlEweDk4bnQzWUViVnpwM2JJNUlrNzE1VmxiNXp6VnB4UlNXeDRB?oc=5",
-        "headline": "What to expect at the next Fed meeting now that rate-hike odds are rising",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "10/15 04:04",
-        "published_ts": 1792004640.0,
-        "tag": "Fed",
-        "first_seen": 1792005325.7556434
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE95UldnelJldU1nal9ac0R5QzZJRnB5ek8xdlBNMnR3eTdtUl9tdFh1RHY3SFFQMUgyUG9EWWRmaUZZWDlYSUt0YkFlMXNYcHNE?oc=5",
+        "headline": "'소방수' 이선훈 연임 변수...경영 정상화 vs. JTBC 회사채",
+        "summary": "",
+        "source": "톱데일리",
+        "published": "10/15 16:37",
+        "published_ts": 1792049820.0,
+        "tag": "신한지주",
+        "first_seen": 1792050323.7572427
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBHN1J5ci00V0p3X2RKbF95V0J1QnFxa3FfQ0hUdTJDNUEyV29JS3NLVXctUDd0NWFGV0FzN2ZCZ0VVOEtsb2JIak5TbnIzMzBVeXR1RWpLRThGajYyMWlCYmhmV3BXZFJ2OWNpZA?oc=5",
+        "headline": "[증권UP+] 신용등급 상향부터 AI 반도체 분석까지···증권업계 사업 다각화",
+        "summary": "",
+        "source": "스마트비즈",
+        "published": "10/15 16:27",
+        "published_ts": 1792049240.0,
+        "tag": "삼성카드",
+        "first_seen": 1792050323.7572427
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLWU5YZkpNWS1sZnR0cWVVcmljei1YeGlCWkpiYUU0eTVaczU3aW5HMXY1VGNEaHEwS3h2VkxiSkhoZjFrWUdwZDJ3bmhwSXNicWd5aDYtdXFQT3JOaEVCXy1TaEN6QkNWTkxPek9EYw?oc=5",
         "headline": "[금융-라운지] KB국민은행 / 한국투자증권 / 신한은행 / Sh수협은행 / 한국공제보험연구소",
@@ -2390,37 +2410,16 @@
         "published_ts": 1791702000.0,
         "tag": "삼성카드",
         "first_seen": 1791959433.7461586
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rbXlFSHhlNXN2cU0wNlY4YjRnMUJicEFUZ0gzMF9xMFRWLXFuSjVfNDU0VldOQy1SM2Rfbmp1cnViSlJJNTk3WW5BOTkxcmZQbGk3YmRlM2dWVng5enROamE4V2IweGktZjkzeEt0T0_SAXRBVV95cUxQcGhua2g3Tml4bktJVjVjOU8ybWFwWEFjMDh3bEJnNHFIVU5XOWc0elowZkl5VElFTzZPZnUteXhRWU9lc0xBU01wci1QRTAyNThjcWZVZU9hOUY0NHpUbzVHNzNGV2c4UFJPWlphVEd1Wkp3Zw?oc=5",
-        "headline": "누리호 5차 발사 성공에도 상업화 '먼 길'…1048억 발사비 절감 과제",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "10/11 10:15",
-        "published_ts": 1791681356.0,
-        "tag": "한국항공우주",
-        "first_seen": 1791734434.3693929
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GcTlEdEhGdVdhUF9LNVNuX2J5cjB2Q1RVTlBDUG9adDNKS0l6MjFhRWlCWUtWM0Ywc0dXNXBQN2VNZTNDY1ladV9VSzAtcVhlQjZ5V1UxOGZ1Y2ZVQ3BrWdIBYEFVX3lxTE5GcTlEdEhGdVdhUF9LNVNuX2J5cjB2Q1RVTlBDUG9adDNKS0l6MjFhRWlCWUtWM0Ywc0dXNXBQN2VNZTNDY1ladV9VSzAtcVhlQjZ5V1UxOGZ1Y2ZVQ3BrWQ?oc=5",
-        "headline": "이번주 크레딧 2.3조 발행…LG유플러스·GS 등 수요예측",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/11 06:25",
-        "published_ts": 1791667500.0,
-        "tag": "신한지주",
-        "first_seen": 1791673234.3327549
       }
     ]
   },
-  "updated_at": "2026-10-15 16:30:52",
+  "updated_at": "2026-10-15 16:45:46",
   "yields": [
     {
       "label": "3년",
-      "value": 3.883,
-      "chg_bp": 2.6,
+      "value": 3.867,
+      "chg_bp": -1.6,
       "series": [
-        4.014,
         4.025,
         4.091,
         4.053,
@@ -2439,15 +2438,15 @@
         3.983,
         3.921,
         3.857,
-        3.883
+        3.883,
+        3.867
       ]
     },
     {
       "label": "5년",
-      "value": 4.047,
-      "chg_bp": 1.7,
+      "value": 4.007,
+      "chg_bp": -4.0,
       "series": [
-        4.267,
         4.279,
         4.345,
         4.288,
@@ -2466,15 +2465,15 @@
         4.158,
         4.101,
         4.03,
-        4.047
+        4.047,
+        4.007
       ]
     },
     {
       "label": "10년",
-      "value": 4.261,
-      "chg_bp": 3.2,
+      "value": 4.193,
+      "chg_bp": -6.8,
       "series": [
-        4.54,
         4.536,
         4.6,
         4.547,
@@ -2493,15 +2492,15 @@
         4.395,
         4.306,
         4.229,
-        4.261
+        4.261,
+        4.193
       ]
     },
     {
       "label": "20년",
-      "value": 4.296,
-      "chg_bp": 0.3,
+      "value": 4.237,
+      "chg_bp": -5.9,
       "series": [
-        4.633,
         4.61,
         4.618,
         4.542,
@@ -2520,7 +2519,8 @@
         4.404,
         4.359,
         4.293,
-        4.296
+        4.296,
+        4.237
       ]
     },
     {
