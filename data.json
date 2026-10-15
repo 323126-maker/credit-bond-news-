@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lYUFCUWx4RHNOU3N6cEVfVEFzcmJPb2pNVTJOdDlGdHQ2b094VTI0WHFLVG5acEppWkp3a2pfbzl1RW1ERHVIZFVuWW5ib1l1TVJhV0VhZllZc3N1STl2LdIBeEFVX3lxTFBjZHFNdEs2enZsNlFLY2ZYQmhjZXM0VkRfcXBpeUd6cHNyQmJXdEwtd0k5VkRCSVhaaWRvTDRObktKMHNvR09MWThlaWI4T3VxeDZEalBRZkpuNWFjemtSWUlmTnkyZXplelplSlRmLUpWUnJMeDBnVQ?oc=5",
+        "headline": "AI 투자 '빚더미' 우려…코어위브, 주가 15% 급락·채권 수익률 15% 육박",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/15 10:12",
+        "published_ts": 1792026769.0,
+        "tag": null,
+        "first_seen": 1792027826.3991184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5weEY1Z2NreVg1MVlVN2M2TGxZVnBsOTFXQnowUHoxM2czbmJaZjU2YzBzRkhtZklKSFdBa0hQaGF6SGU1eDNMOUMwd0ZSN3l3ZmlWN2ZUZHRTV3pUUTVQLUs1d09sZ0lmU0lKNVZrR3Z2UQ?oc=5",
         "headline": "국고채 30년물 장 초반 장내서 4.3%선 하회…6월 말 이후 최저(종합)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1791940486.0,
         "tag": null,
         "first_seen": 1791941426.2027073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aenBUMG5CdnBMZHUzOFo4LVVFVkxPSDduRzNDVXVFeFVSWm1qM09lVk5IQzhqcFVoRjBrR3E2cFpiN3hoWWxIM0RqeTd2QmZaa3lVcGFUNVlUWVhiRDFMUGdYZDhENjlyZE9uX18yNHpWNkE?oc=5",
-        "headline": "한국거래소, 글로벌 탄소크레딧 평가사 BeZero와 맞손…고품질 시장 만든다",
-        "summary": "",
-        "source": "마켓인",
-        "published": "10/14 10:12",
-        "published_ts": 1791940327.0,
-        "tag": null,
-        "first_seen": 1791949527.018293
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFQwQWJ3Y0NWUTZWc2NlNjBCbi1keHBjTG5uenN3MTRwczBpLVd6UE5iRzV6V1RzbkpCdGpESklZZTZjR2dNOFpnOGhKUnpTOW9fRDhCZ0EzTkpGdUlYdWJmWWxsV0sxWml2ZGlpYzNuX1hfcjhhd1lqd3M1Uk1LekxiNk1kQUcwN0pzN3BmWEQwNkk?oc=5",
+        "headline": "나라살림 뚜렷한 개선…올 1~8월 통합재정수지 8년만에 `흑자`",
+        "summary": "",
+        "source": "국제신문",
+        "published": "10/15 10:08",
+        "published_ts": 1792026480.0,
+        "tag": null,
+        "first_seen": 1792027826.3991184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dXhybEE4OWo4eS02eElJYjV5NUVscEg3SHRlMEhFUEthb3gwOTdONUptcU95U3VXWU9GdWxrNnJCdlUyVmZGWkpvN3lxRHVG?oc=5",
         "headline": "추미애 “소방이 골치아픈 재정 빨대” 발언에 소방노조 사과 요구",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791775768.0,
         "tag": null,
         "first_seen": 1791783029.0997317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1FQWl4YndSaG43YTRObWl1bl9zVGs0MWNhTlQ4bk5FMG1CRlpnckN0MUtsdno2YXR0TlhwRHhtNnRqRnhCVlNKUS1RY1IwX3Y5OTkzaVZpYldnSkN0WXNqMFFPV1FwcXJf?oc=5",
-        "headline": "이재명 '호의호식 고관대작' 누구 겨냥했나…복지예산 논란 뒤 여권 갈등",
-        "summary": "",
-        "source": "시사프리즘",
-        "published": "10/12 09:08",
-        "published_ts": 1791763680.0,
-        "tag": null,
-        "first_seen": 1791771321.0945044
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-15 10:15:57",
+  "updated_at": "2026-10-15 10:30:57",
   "yields": [
     {
       "label": "3년",
