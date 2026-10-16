@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95R2xNR210bjF3T2laQWs2cXNFcUpHQTdaNUJBbjQ5QkxEVnVnMzhKRVRaclNpUGJKWGdTR050dS1iN2Nod2dLWkx0V2RWdmFNOFhfTWNDTlIyNG9mREZENE84WVZwVXE3UUVDZEpmcHo?oc=5",
+        "headline": "권대영 \"증시 변동 영향 외환·채권시장으로 확산되는지 면밀 점검\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/16 10:00",
+        "published_ts": 1792112401.0,
+        "tag": null,
+        "first_seen": 1792113321.398471
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82WjRGaTAtSVBVR0k2OWdzREt4S0tNSkx4NjBJR3QtbFpOVW1HdVAtM1dTZnlHY0hPcGR4MEJjTjJqbWhuNWV4ZVN1Z1h3OUFIWEpZby1ISlo5SFBGOTB6bnlOWFFkNTFnV0NZSjNn?oc=5",
         "headline": "[엄브렐라] AI 광풍의 민낯...코어위브 '15% 채권'이 울린 자본시장 경고장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792046063.0,
         "tag": null,
         "first_seen": 1792110631.2354023
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ucmhJaHJuNUJhdHRUcmVTUmNVUm1kZnU1a09XdE1XRXQ2c0llaEZEUWp5M3JHNkV0Y1F0ZU41VmtLbXRaNFV3cnJQMlRXY2tMX1ZMWkdqMlRSUQ?oc=5",
-        "headline": "[속보] 코스피, 7.57% 급락한 5554 마감…코스닥도 7%대 폭락",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/15 15:31",
-        "published_ts": 1792045906.0,
-        "tag": null,
-        "first_seen": 1792070127.481789
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1792111524.931616
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9vdEFlTkxYRVN2aWVWdF9wMW00YkozQ0xEOEVvbFpLakM5czdrcUJNR3dRc2pWZDJfU1ZzS3NqRHZQQnp4TWdIc3pqWVNhNGYxbkJXaHpWSjg4WWJ3RGJ0dFp4Ukpndw?oc=5",
+        "headline": "KOSPI rout exposes risks of AI-fueled debt",
+        "summary": "",
+        "source": "동아일보",
+        "published": "10/16 08:50",
+        "published_ts": 1792108240.0,
+        "tag": "Global",
+        "first_seen": 1792113321.398471
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbjgyVjFXTzNfM2hnQmk4dVdQMzF6U0kxajJ1dnRVUUFqeVZ0MjRWRFkteVI4VmZVUjlJSkxxUWpGeV9pUkppamdxVzZRZDNfVXM1NGVzQlMwd184a1BIanBaLTlfXzg5dDdyNTNYRXBXVmdMVHAwMGFueGhqSVJEWVpOQTVKRmNqbVhyak9tWVFEQVphNnNaOFlRZ3BsajJSYzhJQTk1QmE2ZWxuVTA1NllIa2lJeXlPbnFZSWxuVTd6RGdQU0E?oc=5",
         "headline": "얼라이브 커뮤니티 채용 잭팟 기능 유무와 적용 조건",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792069202.0,
         "tag": "Fed",
         "first_seen": 1792075521.7874851
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNeWZPSERFSWtuaUhJTHRiYkNDMU8taldWcHM1WHZBNW05Z0Q1Wm52Z3N4eEMzMS1PdV9XdHpIM2tkRzY0dUpITkEzTWYwc01wa3otaXZyUEh4MGdfWVN0d3U3VTVQZmVBUlBlZldCaGRKcDZDa3c?oc=5",
-        "headline": "Fed Chair Warsh Pushes \"Quiet Fed\" as Internal Opposition Intensifies",
-        "summary": "",
-        "source": "finance.biggo.com",
-        "published": "10/15 21:35",
-        "published_ts": 1792067700.0,
-        "tag": "Fed",
-        "first_seen": 1792068323.5867174
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 10:01:04",
+  "updated_at": "2026-10-16 10:15:47",
   "yields": [
     {
       "label": "3년",
