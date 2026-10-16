@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmljalU1VDZrRVM2SFVJOG11NXBfRV92ZzhDUldlZ1VRSFZnQUJpbFU5bkdMempBWk5YX1Bfc05DYkZQRm1DT3RFX2h0clgxLXZ6akJHOVN4a1hSSXRWUGxDZzlYN3RxQkxpemZ0aHpkOEdpSGE0eGFJWlpwb3licWZXS3FLcktEYUdCVTQ1b3cwTTlQaWt2MUJGZDgxTXIzcHBSaXp0OW1EZWU4M1Ntai05LUY3RjRxSVF5WW42dVVfczNkMmRHUEZJeldmamlGT0dUWDk5Y0c?oc=5",
+        "headline": "간략 뉴스 16-10: 채권 수익률 하락에 따라 다우존스 지수 550포인트 이상 상승, PV Power, 9개월 순이익 5조 4천억 VND 이상으로 예상",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/16 10:20",
+        "published_ts": 1792113654.0,
+        "tag": null,
+        "first_seen": 1792114231.926192
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95R2xNR210bjF3T2laQWs2cXNFcUpHQTdaNUJBbjQ5QkxEVnVnMzhKRVRaclNpUGJKWGdTR050dS1iN2Nod2dLWkx0V2RWdmFNOFhfTWNDTlIyNG9mREZENE84WVZwVXE3UUVDZEpmcHo?oc=5",
         "headline": "권대영 \"증시 변동 영향 외환·채권시장으로 확산되는지 면밀 점검\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792046752.0,
         "tag": null,
         "first_seen": 1792052127.9382968
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ucHNnUWRGYS1lMDJ4dWdwOW5EN2lGYkpLVUp1UnlfV1p1UmtPN2w0bkhTcHhlZl9zd1dhS0JKcENMOWhyMGJGREJSangwSVVOenc?oc=5",
-        "headline": "日 JCR, 한국투자증권 신용등급 ‘A’로 상향",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/15 15:34",
-        "published_ts": 1792046063.0,
-        "tag": null,
-        "first_seen": 1792110631.2354023
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 10:15:47",
+  "updated_at": "2026-10-16 10:30:58",
   "yields": [
     {
       "label": "3년",
