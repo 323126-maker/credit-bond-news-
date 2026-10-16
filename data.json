@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PSkdfdFJfMi1MMkhJTW9rd1JTVXZaT3QxS09EV0ZhSEM4M3B3U2JhcHF4Ml9BZHdKWjNFckJGS3M3VG5TcVBuMlRSa3RoM0hwSjI4QV9saUZOa21WZXVIcjVGUFpnYmVfSGR4d25Tb0PSAXRBVV95cUxOem80a3V5cDZIblF3NzNBNDRLOHRaZ2VqdmJIb3lnWjJUaUdBbWloZWg3VmpLYXk1bnR6eHEtS2tGeC1fQ29MRjUtZ2plbmZhNHBCSWlFSUFzNXo2bzVTTC05WkQtdjF3VHRHVkpwaVpFQjd6MQ?oc=5",
+        "headline": "달러-원, 1,331.40원에 서울장 마감…마감 직전 1,331.00원에 연저점 경신",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/16 17:31",
+        "published_ts": 1792139470.0,
+        "tag": null,
+        "first_seen": 1792140322.895458
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9xZFJ4N0R4ckNlY2RXUUlkdU9WVFhMbmFubFBlQXlpc09OSzZJY0wzRzdwc2xyVktfZ0xCTmpNdEJtS0JpRmVSSXhLRlVrbnhZNm1zQkpsNG9jY1pLemQzbHY4U2hrLXdON2M2S29B?oc=5",
         "headline": "[채권마감] 이틀째 강세, 50년물 입찰호조+외인 선물매수에 뒷심",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "연합인포맥스",
         "published": "10/15 18:59",
         "published_ts": 1792058364.0,
-        "tag": null,
-        "first_seen": 1792059322.0452344
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wODRiQmJKOFRlQTh4MlFPZUxPWGg0LUswNFBSeERMUVA3cmZKNDFJZE5WelVReXh2RXBCVFRBM3V6N091U2Z3RnhlSWxWYlotcmZQRllWYjhOQQ?oc=5",
-        "headline": "日 JCR \"한투證 수익성 견조\" 신용등급 'A-'에서 'A' 상향",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/15 18:29",
-        "published_ts": 1792056557.0,
         "tag": null,
         "first_seen": 1792059322.0452344
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9JcU81ZGRtSnNLUmp0bDBnQlJkUzZ1cWgxQWdGRTdhSGJwQmE3d2JveDQxZ3NFWkV6TDFGbGZWNGZVaFV0azQ5U1NJTG1GVjBBOU9jQw?oc=5",
+        "headline": "US 10-Year Yield Falls Despite PPI Shock",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "10/16 17:41",
+        "published_ts": 1792140092.0,
+        "tag": "Strategist",
+        "first_seen": 1792140322.895458
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTVhc0FiMGVkUDNfMlAyclFNSUplMjNHRUlJazJSWVV6SWlPei1BZUNxeE5QR2pIM1NEWlZ5aXY3YVliMlNQYzNMOHBjM01YRWxzdGpzT1VHWlp4WW5rLXJoRlRNUFh4NVl0VmJzVldQT1dxOUpOVVZMbEUtUmw5SjRrX0JpMUNaTDM2OWdHQ2R4R2NzdWU1Ql81N1R3WFAwMkg4WE55ZmQxTzBNbXU4UWNreHA1SlAzRkVxVEc4NXRWQ3ZJbC1Z?oc=5",
         "headline": "Why Nvidia Backs CoreWeave: CRWV Financing Crisis Exposes AI Data Center Risks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792099253.0,
         "tag": "Fed",
         "first_seen": 1792104321.2510636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOR2l4MHpKZE9vMW1OR2hDSTM3Sk5pSnl2RUlWTnBUTm44RThrZFUzUjZzWHVEMXFocm5FS2ptSGJlUDllZldQVDRsMTFURXNNUjI2ZEI4SVE2NW5yMk4yckZTMk5WckFaRlFobG1ZdFdSY3Zob1ZTUC16b1NXS29iX0kwbVhNaDdtRkp6Ung3bVZ3Qng5TUZKZHN0aUQzUGpwMExOaFpxbnhSRF9sa2FzU0ZLcVhNRjN6WEdJXw?oc=5",
-        "headline": "Japan's 5-year bond yield holds at 2.34% after strong auction demand",
-        "summary": "",
-        "source": "Prop News Time",
-        "published": "10/16 06:00",
-        "published_ts": 1792098050.0,
-        "tag": "JGB",
-        "first_seen": 1792098923.2021933
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 17:30:57",
+  "updated_at": "2026-10-16 17:45:45",
   "yields": [
     {
       "label": "3년",
