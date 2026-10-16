@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmhlcmhCWHZUc2ZreFR1UTl1RXRFRkJDUGhMb0h2NWV3SW1kWWhiV09hLU5GUmVJOTdOTW5KYktoaF9yRWxtWUdwekRORDNNU2ZGTkVEZGp2NHZuR0JsR2NjWjZzTWN5dnQ2ajlnR1lzX2ptTy10SmE4Tl9zZUZwUktfRTRnSms3UHR0NXYtdGdtR04tWi1hS2xaeFp2d19KZk96X2hZNzVYOTVjdHhVc1FmbHlQLUo5R3BtYjR5ay1ySDVh?oc=5",
+        "headline": "BIDV는 8천억 VND 규모의 사모채권을 전액 인수했으며, 추가로 20조 VND 규모의 후순위채권을 발행할 계획입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/16 23:02",
+        "published_ts": 1792159340.0,
+        "tag": null,
+        "first_seen": 1792160123.5533288
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZkpUcDZEWGxnWDdDR09RaUNyTE9YZWJNd2tMdm12cURycUhWd0VmVEJhcnhqN2RvNlVyRElETkRwMDg0ckIzVEVsZTJ2dk5fRTdGS2drQWdaeVY4?oc=5",
         "headline": "[인도 특징주] 예스뱅크, '부실 채권 상각 처리' 무효화 판결에 수익성 부담 ↑...주가 '충격'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791842191.0,
         "tag": null,
         "first_seen": 1791842433.6301472
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBPYVliSEU5UmgweW9ZUmM5S01mbjFXWlgxN21Qa0N6TEFBYTItVXpqTHEtcjN1Mms4LXQzYUNZN2V0WEtkYkpNWDUyb1pOa2p5Z081UnBmTUtQbGJZdmhyN3JvNHlmMUtJVDlEVHRxdUY?oc=5",
-        "headline": "NLB, 티어2 자본 확충 위해 4억 유로 후순위채 발행 계획",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/13 00:53",
-        "published_ts": 1791820380.0,
-        "tag": null,
-        "first_seen": 1791830723.381148
       }
     ],
     "policy": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1792154725.3291633
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMzFYYmJhN3dGT1ZBWFhZT2d4SnkxekJJdHgxbUZUbkNSNmMwa2NoTWN0RGpQRWlseHpKNGtTZVQxMjRiVWNSX2w0ZFppc0xFM3JQYy1FNTFrNUVzd08xOUNCR25HYjlBc1V4MnZla0pkNUZ1WjNsQkE5QkpMS09vVkVZM1ZWdVJYU3ZsbmUxTVA0Y1FFa1gwbGQ4UVc?oc=5",
+        "headline": "Q3 Strategic Income Outlook: The Times They are a Changin’ - Osterweis Capital Management - Commentaries",
+        "summary": "",
+        "source": "Advisor Perspectives",
+        "published": "10/16 20:56",
+        "published_ts": 1792151805.0,
+        "tag": "Global",
+        "first_seen": 1792160123.5533288
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0V5blVtMWNkNndCMzl4YUx1QTZDcmlmZFBzbnZQZXpmYjRSdk5RSVZWckZTLUVrTVYtV1ZtMkJ5UVFNOHJHU0RRbHhFQ1hxMFlxTTBKMVdCMk9YaHAwZ056S3RFMXIwcDlWYWRaRmRkSzdkQlJKT1hDbU1kdlhobWRwSGxyRTV6TVcxVDduRXY3dTF5c1djLXRKdw?oc=5",
         "headline": "Weird Bond Market Price Action Signals Recession Ahead (SPX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792126860.0,
         "tag": "Global",
         "first_seen": 1792158321.7881687
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUTlmbWx3QldWcFBEb3hSY0gtRGZENG9HQURPQWJ1aGZVSElNM0dfVUdSaGVBZEJEY1EyczZGWmFwOG5NdmxwV21LWnoyQ2ZfakhBVXY4UkhPZUdjZUJkbGpGQTVYNjNUcWZnSFcxd05OS25IX2pBeDVCS3R1TFZBTEFVNFV3N0dxcHVLYjJxSUE3MjBLZHFtZjQzdFJ1dW83LXc?oc=5",
-        "headline": "Fed's Warsh to look beyond interest rates over next 100 days",
-        "summary": "",
-        "source": "American Banker",
-        "published": "10/16 14:00",
-        "published_ts": 1792126800.0,
-        "tag": "Fed",
-        "first_seen": 1792127724.4360754
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 23:01:07",
+  "updated_at": "2026-10-16 23:15:51",
   "yields": [
     {
       "label": "3년",
