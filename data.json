@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OZ0xxMkdwWDhLVXBCdDFvU3BhWkJwU2Q0YWJ0czBZNV9RWmZoMDZPdXNRS2QzTEJZVUdFZ05NQTR3dWlaVmNXTkwzRi1UdjU5UFhrQlVhbnU3aURZdE5SM9IBYEFVX3lxTE9OZ0xxMkdwWDhLVXBCdDFvU3BhWkJwU2Q0YWJ0czBZNV9RWmZoMDZPdXNRS2QzTEJZVUdFZ05NQTR3dWlaVmNXTkwzRi1UdjU5UFhrQlVhbnU3aURZdE5SMw?oc=5",
+        "headline": "9월 증권시장서 외국인 8개월째 매도 우위…주식도 순유출 전환(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/16 14:47",
+        "published_ts": 1792129663.0,
+        "tag": null,
+        "first_seen": 1792146629.0716424
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scXd1Sy1BVjNUdlJjallIZUNRSWRJaTJYcGFGZlFLVk1fRXJydHBQWnR3aTFNUFZyM1J3a2c3c1BCTTdxM0dJWVdDUzRnM0VRdFFzbXhneVlUdnRYUEhLQ21hSFc3SUU4NkthWndkcHEzZw?oc=5",
+        "headline": "스테이트스트리트 \"美 국채 금리 상승에도 아시아 채권 매력 여전\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/16 11:29",
+        "published_ts": 1792117790.0,
+        "tag": null,
+        "first_seen": 1792146629.0716424
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBycXRMaGpFd1ljNzdlQldSMWlIS1hjWkhDUkc2Ull4NHVhTlllbHdYOVMzczNLZDRvVk5Bd3FEZDlSdnNicG1OWWg2dGhJcEZyeVVIeEx5TEJwR0NuZXJ3eVB3dG5HaG8?oc=5",
         "headline": "한은 최종금리 3.5% 갈까…KB증권·블룸버그 엇갈려",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1791880658.0,
         "tag": null,
         "first_seen": 1791881122.5549667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVa1MtNGtNMGJ0V0tlQzZTNHNHeVRNNGtYa2JTaEd2TVdlOGcyeVhNLUV3N2dzX0hHblczWjlOU05iZGhtUGlHLUd1TVZ0S1oyQlBIdw?oc=5",
-        "headline": "[채권마감] 주가 폭락에 화색⋯10년물 금리 4.2%대 안착 ‘2개월만 최저’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/13 17:31",
-        "published_ts": 1791880260.0,
-        "tag": null,
-        "first_seen": 1791936037.998056
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DUUN1UlVPakgtV1pYQ2QwVW9NR3Z6cno5anVJdHVDNm4wV1lwVWw1OU1JWE9mTVhQLVdzOFR6ZVU4ZThIOFhyUUUtUm5WRkwyeDJqNDdUNzRhZXlRNmJlRVNPR2V5azdN?oc=5",
-        "headline": "미국 국채금리·물가 뛰는데 10월은 멈춤…11월 추가 인상 셈법",
-        "summary": "",
-        "source": "더쎈뉴스",
-        "published": "10/13 17:20",
-        "published_ts": 1791879634.0,
-        "tag": null,
-        "first_seen": 1791888332.3197274
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5vdDlnWkJWbS02TGQ5aTdkUGlZblZZd25lUkhmeHl6NU5KN2xFYTA2THljemlNQ296SWNMcG5kcUViWjhucHM3dWFGOEVPSjZ4X2pBNXZOUXJUUXQyMjQwWlFQU3BXQXRwLXpOT2FMa2pvMDNUblZaMA?oc=5",
+        "headline": "Warsh signals steady Fed outlook despite inflation jump",
+        "summary": "",
+        "source": "Axios",
+        "published": "10/16 19:26",
+        "published_ts": 1792146404.0,
+        "tag": "Fed",
+        "first_seen": 1792146629.0716424
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zUjVsb1BwdjMtSGU0LVdfX1hPZnBFYUtfMHFsRWc5YWdpMzY3Vzc4czlFSW13S3lFSHFPQ2l6NFNCNms4Z29vS20yNE1NQ0pOS1lvQThZVTJrRXZpMThSblhLeHo1VnBTOXFnUUlFdGl4YlZicHc?oc=5",
         "headline": "U.S. 10-Year Yield Falls Despite Inflation Shock as Investors Flee to Treasuries on AI Concerns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792110960.0,
         "tag": "Strategist",
         "first_seen": 1792125029.0960143
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1sV1MzLTVSc2ZrT1MtdG1YVFBxU25IOGp1dXVKTWNVQ3NHSERrMUdTTUFmaC1pd0doalRrbXJSZ0x5SzB4YXBJTG5zdjVIeE5BR3JHMzQyT291bk15NkwzSTNrQ2xUN2s?oc=5",
-        "headline": "Fed chair to join IMF’s “Managing Director’s Fireside Chat with Federal Reserve Chairman Kevin Warsh” in Bangkok at 10.30am on October 16",
-        "summary": "",
-        "source": "Nation Thailand",
-        "published": "10/16 09:11",
-        "published_ts": 1792109460.0,
-        "tag": "Fed",
-        "first_seen": 1792111524.931616
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 19:15:50",
+  "updated_at": "2026-10-16 19:30:54",
   "yields": [
     {
       "label": "3년",
