@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpaWpfNG4zTC1DVWhmN1A2QnFsQzZmMWUyTWUtem5tZkVVRmpoT3dabDZTNkVONmVyT1BuMFNzdWQ4Qk42SFduNE4tRHJPUHZQOWt4R3FB?oc=5",
+        "headline": "이 대통령의 발언, 혹시 그 정치인 대놓고 노린 것일까... 같은 정당 맞나",
+        "summary": "",
+        "source": "위키트리",
+        "published": "10/17 08:13",
+        "published_ts": 1792192380.0,
+        "tag": null,
+        "first_seen": 1792193428.994313
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA4a3E5YjVZaU45bnZWRTExRmxBeTVHdU9sNHRndWU1aldSM3hwZmk2Sm45amtFNVoyWUY1ZXNkUnMtRE01LUxNOVpQS2hNNC1meGFCN2V5M3ZFOHpmV1FmY05QNm0yS0QxWnfSAWZBVV95cUxQQnR2ajJBaHlvNHI5SjRZMWFVTEIwSzhWR2tRNXNDVC1XcndvcjJSZEh0U3Mxajg4WTIyOWZibGhBTkJxZFpXZEF2eVhONkFBTi15OWVjenFUWHRIb3pKWnMxVFBSUlE?oc=5",
         "headline": "'재정 빨대' 질문에 손사래…이 대통령 \"천금 준들 아깝겠나\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792024972.0,
         "tag": null,
         "first_seen": 1792030522.34432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNUc3SnNUeG9JdmgyQmkwZWs1M1BIaTBfSV84SVFhWFJrOW85WjJkUkNZTGJKYTAwVlprbUlzMF9hbVFkdzR5cWVCOFYzR09LT0I5aFNfOVA4V2NUUzM3MzRXLUtqZw?oc=5",
-        "headline": "[사설] '재정 빨대' 발언이 드러낸 지방재정의 민낯, 진짜 혈세 낭비는 어디에 있는가",
-        "summary": "",
-        "source": "수원일보",
-        "published": "10/15 09:39",
-        "published_ts": 1792024769.0,
-        "tag": null,
-        "first_seen": 1792132228.4686518
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 08:15:57",
+  "updated_at": "2026-10-17 08:30:53",
   "yields": [
     {
       "label": "3년",
