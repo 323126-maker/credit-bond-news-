@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdXVYT3FlQlZjc0hUMk9PamozcHllTUJnY0pyMTdkOU5aNExWb01RNGxCZ3lKNC0zY0k1dURiX1FKOS01TlRQeVd5MlZMSGY4cWpVZE1lbWFXaVhaR2VRZ3FsektDUEd4ZFlKdGhfLVM0eXk3OFNuTGVvbEtsZmNYNzM0TXEwb1FzbF9QT1lYQk4tNzJFOGdlTC1tZmtGeEU?oc=5",
+        "headline": "Japan 10-Year Yield Rises as BOJ Outlook Mulled",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/16 12:00",
+        "published_ts": 1792119600.0,
+        "tag": "JGB",
+        "first_seen": 1792121427.6183946
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5scXd1Sy1BVjNUdlJjallIZUNRSWRJaTJYcGFGZlFLVk1fRXJydHBQWnR3aTFNUFZyM1J3a2c3c1BCTTdxM0dJWVdDUzRnM0VRdFFzbXhneVlUdnRYUEhLQ21hSFc3SUU4NkthWndkcHEzZw?oc=5",
         "headline": "스테이트스트리트 \"美 국채 금리 상승에도 아시아 채권 매력 여전\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792072492.0,
         "tag": "Fed",
         "first_seen": 1792084522.1714275
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFZvRjkyR3FhMmZGLVZhTEE5ZkdnU0FjekdSb3kzbkp6a2Vvc0hmX0FKQllXdmktQmhpa0hhbTdJSHc1ZGhYZHFIRWlWd0xTZ2hhMXFwaDVPRFJZSWdpZ0hLb0owNE4yRXVpNFpuT3k3MzJ4MkNRZF9mSHJ5eHpfRVAwT2Y2Ym5FMENzeFRYYXdJcTllSkE?oc=5",
-        "headline": "ASML: Indiscriminate Selloff Doesn't Make Much Sense (NASDAQ:ASML)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/15 22:52",
-        "published_ts": 1792072339.0,
-        "tag": "Global",
-        "first_seen": 1792075521.7874851
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 12:15:49",
+  "updated_at": "2026-10-16 12:30:53",
   "yields": [
     {
       "label": "3년",
