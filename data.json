@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBycXRMaGpFd1ljNzdlQldSMWlIS1hjWkhDUkc2Ull4NHVhTlllbHdYOVMzczNLZDRvVk5Bd3FEZDlSdnNicG1OWWg2dGhJcEZyeVVIeEx5TEJwR0NuZXJ3eVB3dG5HaG8?oc=5",
+        "headline": "한은 최종금리 3.5% 갈까…KB증권·블룸버그 엇갈려",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "10/16 10:30",
+        "published_ts": 1792114200.0,
+        "tag": null,
+        "first_seen": 1792115122.331773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFMTNZSF9SUzBjaV9rbE9kQXFWVHpIbklpWWhUZF9sU0NwMWlnank4U256M0VsTm5vZndRejhvdGRaeldJZG5HOGNPamJfSWk4WWFXcVRNVE9tdTczem9wZ0VqRmI4dUNOQloyQkpQTFlLZw?oc=5",
         "headline": "[인포맥스 POLL] 15명 전문가 모두 10월 금통위서 동결 전망",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791878853.0,
         "tag": null,
         "first_seen": 1791884720.6079774
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OUXltMlhCZkFRV1RVYVlocDM1UG5lQlRUVVlpRENfVzRfQmlXZVE0U3p5R3c2MVBkSHVJVWF0VmxnanZSZFBjM216UFBBRkRIOXZ4NmFOV00ydFd5X0k5Z29JRG52Q21oaTZVVHFn0gFuQVVfeXFMTU5ReW0yWEJmQVFXVFVhWWhwMzVQbmVCVFRVWWlEQ19XNF9CaVdlUTRTenlHdzYxUGRIdUlVYXRWbGdqdlJkUGMzbXpQUEFGREg5dng2YU5XTTJ0V3lfSTlnb0lEbnZDbWhpNlVUcWc?oc=5",
-        "headline": "코스피 폭락하니 시중 자금 채권으로…반도체 이익·통화정책이 변수",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "10/13 14:40",
-        "published_ts": 1791870040.0,
-        "tag": null,
-        "first_seen": 1791874835.4854693
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 10:39:34",
+  "updated_at": "2026-10-16 10:45:48",
   "yields": [
     {
       "label": "3년",
