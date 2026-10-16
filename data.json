@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBscGV2OEYtQkRCZ2NuRHNMV1FxN2NGRVJaeHlvVEY4WkdwWmZ3ZFlUdktNcVdvVTItdGNLYnAwb0w1VG9pTmEzRTZJVQ?oc=5",
+        "headline": "민주당, 추미애 ‘소방 재정 빨대’ 발언에 공식 사과...국민의힘은 \"소방관 명예 훼손\" : 정치",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/16 17:51",
+        "published_ts": 1792140660.0,
+        "tag": null,
+        "first_seen": 1792142123.4240277
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jVWR5eDBONjFqekhjVWRXMkY1Ulo4V3U2bjQ2d3Z0R21UUUhISDRmd0dlSTQ3OWtDTmxtUU5mUENPMUVSeUxBSzBlYzVIV05qYmdRZGszbHJscTRKYkFMMXplM2RZaU9p?oc=5",
         "headline": "추미애 '소방 재정 빨대' 발언 與 공식 사과",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791937477.0,
         "tag": null,
         "first_seen": 1791937828.5692656
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9hcTllTk9pS1AtemZidUR1R3dJTTQzNnliVlNSNjBOcnhDNGpyTEU3RE9laHJTQ2VvVi0wNHVZVUJ4VE5zcVQtWkhwS3dFcGEtbzRtN29oSi05MkZoTnJibXhlVjBraU85MHlfc08tZVgxaFZG?oc=5",
-        "headline": "李 대통령 \"장기간 고금리 시대 될 것...취약계층 지원책 마련해야\"",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "10/14 07:03",
-        "published_ts": 1791929025.0,
-        "tag": null,
-        "first_seen": 1791929723.1054974
       }
     ],
     "global_bond": [
@@ -1618,6 +1618,16 @@
         "published_ts": 1792140092.0,
         "tag": "Strategist",
         "first_seen": 1792140322.895458
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBncllLenBWMTFQMHhfUjUwM1ZOdm1GbWhxM1AySGxIRzVycW1rTlNma1RqZ1lwZHRublJuZGM3bkVzVzhKOF9XYWt6RnZ0ajRrXy1uV2dtLWJobkNaM2dyckJ0Z2ZIeDFuWWdtcDhIcVRJdw?oc=5",
+        "headline": "2026 US Midterm Elections: Why AI, Inflation, and Fed Policy May Matter More for Markets",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "10/16 17:10",
+        "published_ts": 1792138229.0,
+        "tag": "Fed",
+        "first_seen": 1792142123.4240277
       },
       {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYTVhc0FiMGVkUDNfMlAyclFNSUplMjNHRUlJazJSWVV6SWlPei1BZUNxeE5QR2pIM1NEWlZ5aXY3YVliMlNQYzNMOHBjM01YRWxzdGpzT1VHWlp4WW5rLXJoRlRNUFh4NVl0VmJzVldQT1dxOUpOVVZMbEUtUmw5SjRrX0JpMUNaTDM2OWdHQ2R4R2NzdWU1Ql81N1R3WFAwMkg4WE55ZmQxTzBNbXU4UWNreHA1SlAzRkVxVEc4NXRWQ3ZJbC1Z?oc=5",
@@ -1997,16 +2007,6 @@
         "published": "10/16 06:30",
         "published_ts": 1792099806.0,
         "tag": "Strategist",
-        "first_seen": 1792104321.2510636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNkFzaF93OGJBS0RFZUZPR2ZTQWkzRmxCRUdZbk1TZmFabjQ1cHc1MkhCU3B1ck5WdWFQUDZWbVY5R254VmNQbzBqR3dkVllqdUpSZTNCTllRQlhDT0hZdkVuTzJPYlRLbm9BZm9qLUxjN3NDVGlvanRndGozSkRZUWFWbHZJMmlBd2JuSlhudTZOVTV5Q0hmZzBId3VhSXR5cEFuS2VsU2tfN0VSWGdzUXA0VVNKdXNq?oc=5",
-        "headline": "Warsh speaks in Bangkok after hot CPI: is a second Fed hike coming in October?",
-        "summary": "",
-        "source": "investingLive",
-        "published": "10/16 06:20",
-        "published_ts": 1792099253.0,
-        "tag": "Fed",
         "first_seen": 1792104321.2510636
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 18:01:01",
+  "updated_at": "2026-10-16 18:15:47",
   "yields": [
     {
       "label": "3년",
