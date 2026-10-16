@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUVjc5R2lQR05pU2NaYzVlVC0zbUo3T3Y5X0MyVnNvZ0Z4T2tlMGhEWjdDdkducWhYV1pNX2l4TDJyWG1QVVJpRlo1X1ZYT1RJWHNRWEMwaW9oNzdtYTJBSEZZN2hmLTVTU09J0gFrQVVfeXFMUFRWNzlHaVBHTmlTY1pjNWVULTNtSjdPdjlfQzJWc29nRnhPa2UwaERaN0N2R25xaFhXWk1faXhMMnJYbVBVUmlGWjVfVlhPVElYc1FYQzBpb2g3N21hMkFIRlk3aGYtNVNTT0k?oc=5",
+        "headline": "'사모 회사채'도 토큰화 대상…증권사 발행·중개 새 기회로",
+        "summary": "",
+        "source": "금융계",
+        "published": "10/16 23:48",
+        "published_ts": 1792162118.0,
+        "tag": null,
+        "first_seen": 1792166437.7925537
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hZ2VVcllCRVVnakZfRVZNYzBpZzJxNVVvb01NVkUwTG1WSUw1bmJxei1VRVdrNFVrcENMQmlZdGUwMjVJaWptU2NFcUZlUXNpYW9JbkRreTBFS096NGd3WkFEdHB3eTFoVlBxQUtR?oc=5",
         "headline": "[데일리 경제 분석] (10월 16일) 제조업은 살아났지만 청년·내수는 얼었다…금융·주택·공급망이 드러낸 회복의 불균형",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792102866.0,
         "tag": null,
         "first_seen": 1792106122.2836518
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ORndUcVkzN1RjSnU4Q3hycUFURUZVdi1JTHdsOTliSzh0U29qblV0a3c1WHJmWl9NazU5YjZIM2w1NVptaGdlUXplc1ZURWVUdF85LVNzOWk?oc=5",
-        "headline": "[강대권의 시시각각] \"AI 청구서, 이제 연준이 나설 때\"",
-        "summary": "",
-        "source": "뷰어스",
-        "published": "10/16 07:00",
-        "published_ts": 1792101614.0,
-        "tag": null,
-        "first_seen": 1792107028.159048
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 00:45:50",
+  "updated_at": "2026-10-17 01:01:05",
   "yields": [
     {
       "label": "3년",
