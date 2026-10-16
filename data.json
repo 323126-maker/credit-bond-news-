@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORHA1bU40M09CMklHZ215QW5Jekota0N3Q3FWQ3NwZXNkYlN1eFBDbmhxS2J0Zk1jWXpKcndyWlE4MGt5WUVMVE1jMnktOUZELTRkejVJNXJrOWppWW94RE9Rak9uenVlVmtoRUhiMGQyQm12OE1pdHNzVHFsUnVEOHM3UQ?oc=5",
+        "headline": "은행채 발행 급증에 조달 부담 우려…재경부, 5대 은행과 수급 점검",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "10/16 13:09",
+        "published_ts": 1792123740.0,
+        "tag": null,
+        "first_seen": 1792124121.3685193
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAzSmxWUWo1bmpXWTVxY2xYT1NFOTg0TGFhd2p6ZkJDQ0RXRkwtUF9pM1N1SEVHN2dwaUV1SWRlQk1tak5GQ2lJd294WUNmdGxLNTZjSlRsWE92T0lueERUcE1qcGNMMjQ?oc=5",
         "headline": "한국투자증권 사모채 토큰화…14조 시장 새 먹거리 될까",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "머니투데이",
         "published": "10/15 17:21",
         "published_ts": 1792052465.0,
-        "tag": null,
-        "first_seen": 1792053029.8274605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PckZJUEkwXzN1T3dsbExiYXNHV2xkNlFkbm42RnZsb25JeVBSQmozU1plZ3NoY1RhZnNjcVF1eV9HN2JMdnluX2hKeVo3OWdrNDJRYzNJNDlKcU51bGIzStIBeEFVX3lxTE1tQXJFRkVkZUFfekxxUm52VU00dm9RdFg3UUZIdVZKY3hCQjh5emdSOUFwREMyQzNXVktQcTV4Q2d0aTF2Q1RlelNnMzY2b245RkczbEJVbDlkOTZiekVtVHI0aEZhVHhPY2k4TnBSa0o0UnlCQVZrRw?oc=5",
-        "headline": "AI기업 채권 급락에 美 신용시장 경계…취약 회사채 금리차 12.67%p(종합)",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/15 17:16",
-        "published_ts": 1792052213.0,
         "tag": null,
         "first_seen": 1792053029.8274605
       }
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbGxzSlg5TFdlNlE5TkVoRWVLNFVqbXJuamxaRHRfd0tZbnp0aDRXREgtMHg0aDFVWC16V1BuRXJHODltRlJfWHpaRkFPV0ZMZy14OU5JVGNRaXZ3clJfYUdZdDVnaE5wblItNmRWbUotWFpORWMxNk5Kd1h6NlY2VHNRSTdsSkhaYUhIVURTcFJ6Uk5sdExn0gGcAUFVX3lxTE5fZ0p3aTI2eFQyanZ4TmtGV2hkM29JS21sTlBXZkRfdGZjbFE5aGRJcVVBOXI5d2FlRURrMDFZbVEzY19rRFQ4alJwR0JXbk1fN1dSanpLRG00WGRIWnZZUnpCR19WRnMtUmpkNUZJb1VVRFF1QzRFM3p6ZGcwUWlKaUE1elFxRWlNNl9TTEZWZkR6UWlqa0xxdlNOYg?oc=5",
+        "headline": "Fed's Warsh says AI path will be 'very bumpy' but ultimately 'very good' for wealth",
+        "summary": "",
+        "source": "CNBC",
+        "published": "10/16 13:08",
+        "published_ts": 1792123707.0,
+        "tag": "Fed",
+        "first_seen": 1792124121.3685193
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPemNtU3Jvcm41VWJOb1FWWXh3MzlCeUdDNTlZaklWa0RPeFlJLXhxcXBESUY4OW9naXc2a05KNlF1VUFUNFFkcjZZZ1loQ3NialpnMW5mdTdWRUdLZEN6TVNkN29aVHB3eEhqT3YtQl9ncHpOM25hcUstMU5KX1hKWHhxZ0RXaDRRMzROWTZnbnRBRlk?oc=5",
+        "headline": "Fed's Warsh gives no hint on October policy decision",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/16 13:00",
+        "published_ts": 1792123200.0,
+        "tag": "Fed",
+        "first_seen": 1792124121.3685193
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQbFVNWEd1RzU4eHN0QlVraEhvai1wLXdYcEF2V3VzbW9HOERzN2F0cWs1MmpZMTZjVl9wWTRqOERnQXBQNmMxS05KejdQLUkzNXk4bmZyNXh6LWFWcTRYZTRETkRjcWs2aGtJYnhIV3A0d2JYWmZ6ZThvSDJod3owVVJsT0l3aF9JYmVRQW9kVjNsQWxic1hzTTczV0cwZVYyS1MyQWpVUUptZ05lODd4ay1TMkRSSlFVelZoOU1tSnl1WnZoenF0MUNaRENZcHFoTlVTN3lreDU1anNReGFDRWFUVGJCSGcwSnFUQjdjbmdzUU5rYWJCTF82TmNvaHkyS19nc0NXc9IBjAJBVV95cUxNVmVxTF93TThsTjJSTjNpdGtRTDVFMGtOT3pob1dpWk1iUlNpMkF1M1dXYUoxUHUzeEpWcWphZXlza2hHbkRXVXdoYi1ZZDhYMk1jeldhVW56aGxBSmFMR2tzeGtqenJSYnRpOTQwM1FpQ1VLMy1ZeUwxWTJqblFJOUlOQUU5Z2tWbG1Qb1Z6eEw2aTctSGRfMndyRmk0YjhnczBmSHdTS19YRGFCQ25Yd2FlcDNQNGhHd3dnazVZVEtKVjNXU1V2M0lCTXdqdTRGMEZNc2I3UVBwRENOZ0pPajY5X3NCUWJmbDVweHk4S1djdWs4cTJ5aENwa1JhWi12RWtqWS1kajdtSWJr?oc=5",
+        "headline": "AI 'most consequential change' to US and global economies in my lifetime: Fed Chair Kevin Warsh",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "10/16 12:56",
+        "published_ts": 1792122983.0,
+        "tag": "Fed",
+        "first_seen": 1792124121.3685193
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTjRESzZZazNUemdTOFhjNWJTZDJRT1ZwdU1CS19BWkRCTDBFZWlyXzJibFV4UnVMUkFZcF9XV2FvRjVvNlhlMmNrdk9BZVBsQ3lKUUlxT3lDWTRVanA2SHVSTDh5U3c5WGVrcFlCRjYwSDZyM2kxc0NCWTR0T3EybEtsNmRkMm5BX0U4VkRYYlIxVUhKTUFFX2ZJaWF4YUhZ?oc=5",
         "headline": "Explainer: How Close Is AI Financing to a Default Crisis?",
         "summary": "",
@@ -1850,6 +1880,16 @@
         "first_seen": 1792111524.931616
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckxhLTlLMHVuWl93dlRGWngzUjBqY0wxaU85Q2lPNGxaMzg0ZjJhT0ZGd210N1N5SDVpV1lLNl9GOXlNazFrN193TFNFREg1dU5OTkpadm9LVHRxU0ZzQWVWbFV1MnNHY2RGZHVsajI5UWRlWDE5NmtGaDctV0o5ME85dkV3RU5LSEFWdTlNUW5RWXZ5S1BXelNMZkI5ZEZfR05kd1UwNnBZQlQ0MHkyQVN3?oc=5",
+        "headline": "CoreWeave's slump spotlights growing burden of debt behind AI boom",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/16 04:57",
+        "published_ts": 1792094230.0,
+        "tag": "Global",
+        "first_seen": 1792124121.3685193
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNT0trZEV3LVNzdE9FZG9uTF9mbzI1ajF0SDFISVVvX1ZFbjkzZHYzRDB1UFpNbDdRMV9CdnRldFVCcl8tV1o5Nzk2TWk1blhZZnRVc3REVXhLU0RpTV9JN0dXZnZCTmFaaE5mYjJKWThVMW03QkFIYlJHWUQteHpxM2JqTmI0TUc0cFVaM0MwaEdDUmlhZnBFUnU5V3ota1BST0VYRFlfOWtMVUc4S3VOZXp5NkdaUQ?oc=5",
         "headline": "Treasury Haven Trade Bounces Back as Technology Stocks Slump",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1792077044.0,
         "tag": "Strategist",
         "first_seen": 1792078237.7407393
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jcm5YZWpCV1dxdEJpZkR5WXMzbW4wUlZfTllld1g3OGtMNWxiVVpWYy1MOTBzMXFKNFNmOWQ2dXJWcmpmQ0EwYUdGaFpCZGw1MGlGSg?oc=5",
-        "headline": "Allianz SE (ALV.DE) Stock Price, News, Quote & History",
-        "summary": "",
-        "source": "Yahoo! Finance Canada",
-        "published": "10/16 00:05",
-        "published_ts": 1792076731.0,
-        "tag": "Strategist",
-        "first_seen": 1792091725.2517128
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT1VFRUV5ZWpKVWdxWFF1YU94SkJnT3FERWJsWlFZSFozX2JqSmlzMXJRTF91LUtyWGM0cFFBRlpuREFlaDBIY29oMFlXLW5nMDMwdFdOWnFENnRvQkU1VVUyTzQ0SFhmNEtYam44TE53UG05UXEySHBQMXF2ODU0NjVkdEtwcVJWakl0cHZDazh5NGhiZEJFbEJpNzMwa1BPQWlnLVpmaG8?oc=5",
-        "headline": "Analysts react to Coreweave debt woes, AI selloff By Reuters",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "10/15 23:57",
-        "published_ts": 1792076256.0,
-        "tag": "Global",
-        "first_seen": 1792079122.5181909
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUlhuTFFHTE15UDg4cVU3R1NTWWpfWUdsLU5BeDNrUG9zRGh5UEc0Z3I3MXMyTEJoWFJBaV9YaXN3YTVhWkx5VkFmN1BELU0wb0NNaVdyQXVJMW41MkJjaTVKYkNmTmxQODhqNm9ZdGNpejU5SUtDOXZ5SEJuejhyY2tyWGN4eFZHWHp2QUxzWmtwcXVUNzA1OU40N2tmQ1NUMUVEbFBJUEN3VVBXS1pyNURrN0YyenlJajU0?oc=5",
-        "headline": "Bond sell-off doesn’t equal equity pain - Omnis gatekeeper O’Donnell",
-        "summary": "",
-        "source": "Citywire",
-        "published": "10/15 23:34",
-        "published_ts": 1792074871.0,
-        "tag": "Global",
-        "first_seen": 1792076439.2626424
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1ejY4a0RzeEhOSmFkY29Mb0sxREh0UHpVYVhKZ3VWbzBYX2NFQ2NWVjMxUUhoN2pJbElJamtTMkNjYVhPc1BZRDc5MDlHVFBMX1dYQkdSTWVNNzQ?oc=5",
-        "headline": "Bitcoin & XRP Slip as US PPI Inflation Comes in Hot at 6.3%, Eyes on Fed Kevin Warsh’s Speech",
-        "summary": "",
-        "source": "Cryptonews.net",
-        "published": "10/15 23:26",
-        "published_ts": 1792074375.0,
-        "tag": "Fed",
-        "first_seen": 1792086321.8433497
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 13:01:08",
+  "updated_at": "2026-10-16 13:15:42",
   "yields": [
     {
       "label": "3년",
