@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1HUXQwVVU3dmJBMkMtMkJqUm80TXJDME5WVklZTjZuMGxWcW1HQTJVMlFOOU9LNFB2U2RhTmRDN2czRDNKZ0tjb2NqbmxrblRmMnhWUWVB?oc=5",
+        "headline": "추미애 ‘소방 재정 빨대’ 후폭풍…민주당 대신 사과·국민의힘 “망언”",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "10/16 18:07",
+        "published_ts": 1792141652.0,
+        "tag": null,
+        "first_seen": 1792143030.5540948
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBscGV2OEYtQkRCZ2NuRHNMV1FxN2NGRVJaeHlvVEY4WkdwWmZ3ZFlUdktNcVdvVTItdGNLYnAwb0w1VG9pTmEzRTZJVQ?oc=5",
         "headline": "민주당, 추미애 ‘소방 재정 빨대’ 발언에 공식 사과...국민의힘은 \"소방관 명예 훼손\" : 정치",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791940720.0,
         "tag": null,
         "first_seen": 1791941426.2027073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU1BGWXE1ZHlKTWdRR2lScVdjRFowYUktdGdsa3JIX3N1cFRQZGRfX2cyd081bFlrVG1WXzljSzVaRGN5dXhPQ2pSY3pvU1ZWMHF2ZzdTNjNGeHdsbnVDaG0wRmxVcTBLeDB6SWd6UVZEYVZBOHVFTS1qdncxUkdlOA?oc=5",
-        "headline": "尹이 하면 틀리고 李가 하면 맞는 일?…野, 이재명 골프 논란 연일 공세",
-        "summary": "",
-        "source": "m.edaily.co.kr",
-        "published": "10/14 09:24",
-        "published_ts": 1791937477.0,
-        "tag": null,
-        "first_seen": 1791937828.5692656
       }
     ],
     "global_bond": [
@@ -1618,6 +1618,16 @@
         "published_ts": 1792140092.0,
         "tag": "Strategist",
         "first_seen": 1792140322.895458
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA4ZE9QSk1kbTFzdDFMNlQyLUxkbEJVVnl4a3RxOGpwUmg0WWNobklnaXhpcFhLcWlBUFZDaW1mZFlVTFlLUkFIcXFnWjVoOElGa2d3dTVEVzRCUWMtaDZiQWF2QUdmdVNudHF4Sk5xYWlNXy1aN2NUYjhtRVE?oc=5",
+        "headline": "한미 재무·통화당국 첫 2+2 면담…\"재정·통화정책 협력 강화\"",
+        "summary": "",
+        "source": "부산일보",
+        "published": "10/16 17:19",
+        "published_ts": 1792138770.0,
+        "tag": "Fed",
+        "first_seen": 1792143030.5540948
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBncllLenBWMTFQMHhfUjUwM1ZOdm1GbWhxM1AySGxIRzVycW1rTlNma1RqZ1lwZHRublJuZGM3bkVzVzhKOF9XYWt6RnZ0ajRrXy1uV2dtLWJobkNaM2dyckJ0Z2ZIeDFuWWdtcDhIcVRJdw?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792099898.0,
         "tag": "JGB",
         "first_seen": 1792107028.159048
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVjI0UVZxUjdaWFJ6X1Y0TWw0NTJOX2poYXg3bnllalZxVzRaUjZoUERwZk1mSktoV2NlZEZMLUtXZ2NvdkJyd1djcENQT1o1R0NjbHZsODFkM05KZTdHTEJvdThHQUJPMmJ3WDB5TlkwTmNhclZVZ0hjWUtncEktX1Y4MVVJQjFQWnM4VzhacmVXaVo5ZWVpNUxoYw?oc=5",
-        "headline": "Jamie Dimon Sees 'Higher Chance' of Market Trouble Than Wall Street Does — ‘That Is Not a Prediction,’ but JPMorgan Is Preparing for the Risk",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/16 06:30",
-        "published_ts": 1792099806.0,
-        "tag": "Strategist",
-        "first_seen": 1792104321.2510636
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 18:15:47",
+  "updated_at": "2026-10-16 18:30:56",
   "yields": [
     {
       "label": "3년",
