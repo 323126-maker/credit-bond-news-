@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRTVPMUhmNUQtYXRkNnRRT0hHcWJJQmVmR3o0UUswUEdtVVUyUnc0U0VYaEpxVlJrbDNxYmtBMEpvcDZzLW1WZ1pvYjNfbjh6aGdhQU5GWk8xVWNZWjdZdNIBYEFVX3lxTFBfRTVPMUhmNUQtYXRkNnRRT0hHcWJJQmVmR3o0UUswUEdtVVUyUnc0U0VYaEpxVlJrbDNxYmtBMEpvcDZzLW1WZ1pvYjNfbjh6aGdhQU5GWk8xVWNZWjdZdA?oc=5",
+        "headline": "고금리 부채에 흔들리는 코어위브…AI 인프라 붐의 그늘",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/17 00:31",
+        "published_ts": 1792164714.0,
+        "tag": null,
+        "first_seen": 1792168230.7902017
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUVjc5R2lQR05pU2NaYzVlVC0zbUo3T3Y5X0MyVnNvZ0Z4T2tlMGhEWjdDdkducWhYV1pNX2l4TDJyWG1QVVJpRlo1X1ZYT1RJWHNRWEMwaW9oNzdtYTJBSEZZN2hmLTVTU09J0gFrQVVfeXFMUFRWNzlHaVBHTmlTY1pjNWVULTNtSjdPdjlfQzJWc29nRnhPa2UwaERaN0N2R25xaFhXWk1faXhMMnJYbVBVUmlGWjVfVlhPVElYc1FYQzBpb2g3N21hMkFIRlk3aGYtNVNTT0k?oc=5",
         "headline": "'사모 회사채'도 토큰화 대상…증권사 발행·중개 새 기회로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792103773.0,
         "tag": null,
         "first_seen": 1792122321.5528638
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VRUY4NmJRRFYtZ3RUV0xfNUo0em0xcTE3RmZaMDAzX3pHcjVfMzhfazZwekRqRXdHajRaa3hEMC1GUXUtbGxCSFZKc2RQcklDdWl3aUphdjc2d1hxWGZYTldoRnBLTEc3bWFlVEM1M1I5Zw?oc=5",
-        "headline": "\"AI 거품론보다 국채금리 급락이 살렸다\"… 다우 550P 랠리·나스닥은 턱걸이 보합 [뉴욕증시]",
-        "summary": "",
-        "source": "www.citytimes.co.kr",
-        "published": "10/16 07:21",
-        "published_ts": 1792102866.0,
-        "tag": null,
-        "first_seen": 1792106122.2836518
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 01:15:47",
+  "updated_at": "2026-10-17 01:30:54",
   "yields": [
     {
       "label": "3년",
