@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZkpUcDZEWGxnWDdDR09RaUNyTE9YZWJNd2tMdm12cURycUhWd0VmVEJhcnhqN2RvNlVyRElETkRwMDg0ckIzVEVsZTJ2dk5fRTdGS2drQWdaeVY4?oc=5",
+        "headline": "[인도 특징주] 예스뱅크, '부실 채권 상각 처리' 무효화 판결에 수익성 부담 ↑...주가 '충격'",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/16 17:50",
+        "published_ts": 1792140600.0,
+        "tag": null,
+        "first_seen": 1792141236.521507
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5NQ0V0b01nRU9KNEt2bVZSX3B0Sk9sV3hKei00aDcwY1B0Q3JKMGltcEE2WVFWMU5hNXV1TXRWcFh5eDQtclN6TzVyTVhmSEdMZmpmMEtlOW5FQXNvbmVPdER0YzRKdVlCN2gwcnRuTHlRX29h?oc=5",
         "headline": "[진단_금융업계 ③흥국화재] 후순위채로 버틴 건전성... 기본자본 규제·실적 악화·민원 증가 삼중고",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791793113.0,
         "tag": null,
         "first_seen": 1791849636.4494016
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1UVFtZmc3X282aHloc0RQaEJxcVJTeTN5dzE4OXA0WU5NV0p3WGRHT2ozZFhNcnRjZkdOeWpBZEtmZm4wdDU3bTBWUmltNEFTTjNXS1drbkh6WHNLYlB2SERUZDN4OTNuTEE?oc=5",
-        "headline": "[시장추적] 과거 흥국생명때와 너무 다른 SK인천석유화학의 신종증권 콜옵션 연기",
-        "summary": "",
-        "source": "https://www.moneystorm.kr/",
-        "published": "10/12 17:08",
-        "published_ts": 1791792501.0,
-        "tag": null,
-        "first_seen": 1791799236.889643
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 17:45:45",
+  "updated_at": "2026-10-16 18:01:01",
   "yields": [
     {
       "label": "3년",
