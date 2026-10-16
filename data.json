@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5mU3Y5cEttM1haRnVEM2dTTno3R05yNWJSNjVxd2pyWVo1ZE92M3FNcTFYa2FIWU9XVS1aQ0JtWkhER2Y4UUdrdDV6M2p0cHlVVXdEWEdjYnd5Nk1aZmJ1Y9IBeEFVX3lxTFBCODFHMWZyUTh5dEVxcUdOSkhwc3p3YVdDQ3d4b2JsSmIwQnNZR0Jhc090R2ZQNk5RU3dRVHJONFRmMVROZ0NtYmItdFBPdXFfS0Qwb2g3RHplOWZwNjVtYzNhNXpzamNHMWJpdE03WGZ1R1ZsWS1RYQ?oc=5",
+        "headline": "젠슨 황 낙관론에 코어위브 6% 반등…채권시장 불안은 여전",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/16 15:18",
+        "published_ts": 1792131515.0,
+        "tag": null,
+        "first_seen": 1792132228.4686518
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxZDNaZkxmc2dkZkktVERoZ21OblgtQzhEeDVMMWQ2TEtfUGJOS0R1UTQ2cnBUVkhVby1KcHdacW5mbmZzRjB3Rzd3VTk2eXE0anpScmdKR3JUV1ls?oc=5",
         "headline": "[회사채시장의 AI 처벌] 신용시장의 AI 살생부…\"네오클라우드 80% 소멸\"",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "한국경제",
         "published": "10/15 17:40",
         "published_ts": 1792053648.0,
-        "tag": null,
-        "first_seen": 1792053927.8838286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9rMEZCbV9CRGxRdkJFYWVsTFNpNlZaaFN5VDBxV0tnQXlSazBweFpMUXZlQzlKNFBYXzNDdEdnNXRRU2lqMENvNTY2d05HT2FENEdIR0R6OWx4X2Y2TTJCcHVjX2Y3TGxiXzZqZ21FRETSAXRBVV95cUxOS2gtZFZBcWx2dUhtMHBIZk5NNVY4MjVJRWNGTlIwU0I0eHlwNm5wVktWWnZrTURUMFFzdGJ6djFleWlJd2V6aFZ4VEJvYjhLc2VmRmp5TnY3ckNKX2lSMjdqT2lyOTJEX2JIUnNwXzY1OE9Law?oc=5",
-        "headline": "달러-원, 고점 대비 상승폭 줄이며 1,344.60원 서울장 마감",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/15 17:35",
-        "published_ts": 1792053307.0,
         "tag": null,
         "first_seen": 1792053927.8838286
       }
@@ -1398,6 +1398,16 @@
         "first_seen": 1792030522.34432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1jNUc3SnNUeG9JdmgyQmkwZWs1M1BIaTBfSV84SVFhWFJrOW85WjJkUkNZTGJKYTAwVlprbUlzMF9hbVFkdzR5cWVCOFYzR09LT0I5aFNfOVA4V2NUUzM3MzRXLUtqZw?oc=5",
+        "headline": "[사설] '재정 빨대' 발언이 드러낸 지방재정의 민낯, 진짜 혈세 낭비는 어디에 있는가",
+        "summary": "",
+        "source": "수원일보",
+        "published": "10/15 09:39",
+        "published_ts": 1792024769.0,
+        "tag": null,
+        "first_seen": 1792132228.4686518
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE54dXhybEE4OWo4eS02eElJYjV5NUVscEg3SHRlMEhFUEthb3gwOTdONUptcU95U3VXWU9GdWxrNnJCdlUyVmZGWkpvN3lxRHVG?oc=5",
         "headline": "추미애 “소방이 골치아픈 재정 빨대” 발언에 소방노조 사과 요구",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1791877541.0,
         "tag": null,
         "first_seen": 1791878433.1305506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52enJURGZHeHVyYV9Ec2Q2V2xud0RFb0hUVl84SG4tdklhVmEzdjBOMFEyTG04aWJYN2JvNS0teXJUZkpJVEVMbnpPVjNXREhyVmZQdWdSc0ZEb0k?oc=5",
-        "headline": "교육재원 주거복지로 돌린다…경기교육청 세입 감소 우려",
-        "summary": "",
-        "source": "경기일보",
-        "published": "10/13 16:26",
-        "published_ts": 1791876382.0,
-        "tag": null,
-        "first_seen": 1791877520.8779867
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-16 15:23:44",
+  "updated_at": "2026-10-16 15:30:53",
   "yields": [
     {
       "label": "3년",
