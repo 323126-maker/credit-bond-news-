@@ -624,6 +624,16 @@
         "first_seen": 1791955831.71524
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1pQUxUd25Yc1FBeTZYRE1IOEFlRzNHZU1IcmFZSlBGeDM3ZnB0RkdMekRWNzFLd0NrYjhmUVJSQVFlXzRzbm9INE43TWFPQjJMMTNVOdIBVEFVX3lxTE1pQUxUd25Yc1FBeTZYRE1IOEFlRzNHZU1IcmFZSlBGeDM3ZnB0RkdMekRWNzFLd0NrYjhmUVJSQVFlXzRzbm9INE43TWFPQjJMMTNVOQ?oc=5",
+        "headline": "신한·우리 보험 M&A 질주…하나금융은 '적자·자본확충' 부담",
+        "summary": "",
+        "source": "더팩트",
+        "published": "10/14 14:00",
+        "published_ts": 1791954000.0,
+        "tag": null,
+        "first_seen": 1792201522.19801
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4xc0xtQXllZlJyenVwU2prVlR3SkpPZTlTaDJEaF9PVUVTOFBiREZXNmZXUzhkQzhYTjhVc25vZWExSFNnQ3pEVjByTGhtNWtkMUJya2dubHdncm0yUTNHUUFzUWJyZ2YxUmotSUxB?oc=5",
         "headline": "하나은행 '6억달러' 외화 선순위채 발행",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1791848127.0,
         "tag": null,
         "first_seen": 1791848721.0144303
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBxMnhNcHktZ183dEQ0Z1ZOSmxGU1dIckZ6WmVjT3ktTlBJT29YZlFVSk1vc2hRa2JoeGowQ1NRLVlFNGdFRkdoNGttWnNIUWZ6NHRQM3A4WUlpU1VHZUE?oc=5",
-        "headline": "삼성생명, 해외 신종자본증권 2조원 발행…K-ICS 208%에도 자본 보강",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "10/13 06:56",
-        "published_ts": 1791842191.0,
-        "tag": null,
-        "first_seen": 1791842433.6301472
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCOU5YVjNncHhBalZ4YnVTVndpRUxhQzFvXzZjV3N4TXFYeVFKU211MU5UbXdIdWNzOU9vQ3dRWl9XMkNiX2Y5NXM3XzBIRUd2RFYxWVJ2a1l4MjA4cGprQVp6cTBWSEJvbFN1dzlIOEtpZw?oc=5",
+        "headline": "미국 국채금리 급락…한국 국고채도 하락, 다음 주 전망은",
+        "summary": "",
+        "source": "톱스타뉴스",
+        "published": "10/17 10:22",
+        "published_ts": 1792200127.0,
+        "tag": null,
+        "first_seen": 1792201522.19801
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OZ0xxMkdwWDhLVXBCdDFvU3BhWkJwU2Q0YWJ0czBZNV9RWmZoMDZPdXNRS2QzTEJZVUdFZ05NQTR3dWlaVmNXTkwzRi1UdjU5UFhrQlVhbnU3aURZdE5SM9IBYEFVX3lxTE9OZ0xxMkdwWDhLVXBCdDFvU3BhWkJwU2Q0YWJ0czBZNV9RWmZoMDZPdXNRS2QzTEJZVUdFZ05NQTR3dWlaVmNXTkwzRi1UdjU5UFhrQlVhbnU3aURZdE5SMw?oc=5",
         "headline": "9월 증권시장서 외국인 8개월째 매도 우위…주식도 순유출 전환(종합)",
@@ -1194,16 +1204,6 @@
         "published_ts": 1791891728.0,
         "tag": null,
         "first_seen": 1791897321.9461834
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5oMVRtVnBJdkJIc2VqQVZBRm5DeTlXcmNPTmNReF9zaDhERFltc1BKb2c4QzZuUGhaS1NmSzI3emlZRHVrRVB0d0E2MVhfeUhZLVE?oc=5",
-        "headline": "개미, 주식 7조 던지고 채권 10조 담았다",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/13 17:37",
-        "published_ts": 1791880658.0,
-        "tag": null,
-        "first_seen": 1791881122.5549667
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 10:30:54",
+  "updated_at": "2026-10-17 10:45:46",
   "yields": [
     {
       "label": "3년",
