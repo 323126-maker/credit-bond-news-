@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVlIZDVudGVxZkwydW9qc1Q0OXFuSnNCdmdvQXozb085Y09WbnZUdGgyMmliTl9uNHJIeVU5cXUtOVh1Zjk5ZmVTY1ExckVzcUEzcHEyUFIzeS1jT1RMS013Z2xMbzFxRjRzQUtCWFlZMW05eXUtZHFBUkVBU3BhTzhFaTZoaTBTdFBCUzhVUE5ib05RSXh5YUd6UTJfUUxiNjE2THdfOWstbWJjRFJZRmN3TDlNRFJDMnB6WEV1OERYNXRLV3dZTTJWdmJEOVk?oc=5",
+        "headline": "총리: 베트남의 국내총생산(GDP) 성장률은 세계 최고 수준이며, 무디스는 베트남의 신용등급 전망을 \"긍정적\"으로 상향 조정했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/17 13:49",
+        "published_ts": 1792212589.0,
+        "tag": null,
+        "first_seen": 1792223124.1217468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb0pUN1dnY3NUVDhtZkg4dkRtQ19VM2JvSU9tLVU2bkI2NFZTUnB0N2VjOUFRaGJqRTFWZURBYkhSNmVaNk5DSTgtV203S3dGendfWl9rQ0lQdw?oc=5",
         "headline": "미 채권시장이 보내는 신호, 어떻게 읽어야 할까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792118013.0,
         "tag": null,
         "first_seen": 1792119637.7946918
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE03OWdOVVJjX1BOeDRuc1lIMW5sWWRjTTFRV0M4bm5xZ2U4c0tUUnZSNk81VE5uc2JzbUNCR01HaG01RV9rYVE1eFBTZVAtUElDTVNPSDh2TlVwUQ?oc=5",
-        "headline": "금융위, '증시 충격'에 10명 긴급 소집…세종 가면 'KTX 회의'? [금융당국 백브리핑]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/16 10:47",
-        "published_ts": 1792115252.0,
-        "tag": null,
-        "first_seen": 1792116039.6994278
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 16:30:53",
+  "updated_at": "2026-10-17 16:45:49",
   "yields": [
     {
       "label": "3년",
