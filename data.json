@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJd0RMX2c5SkZZT2U2NTdJSFp6ZnU0d2llRWZRWFpQc2UwMDcxV0RLMGMtYmIyUkRHUEFzLWlNaGYzRjdQa1YyaWUtckpybGx3MnNZUTJFUVZCdWFLN0o4?oc=5",
+        "headline": "FT \"앤스로픽, 600억달러 칩 조달…블랙스톤에 10%대 수익률 제시\"",
+        "summary": "",
+        "source": "조세일보",
+        "published": "10/17 15:54",
+        "published_ts": 1792220063.0,
+        "tag": null,
+        "first_seen": 1792221323.3330734
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONmhlcmhCWHZUc2ZreFR1UTl1RXRFRkJDUGhMb0h2NWV3SW1kWWhiV09hLU5GUmVJOTdOTW5KYktoaF9yRWxtWUdwekRORDNNU2ZGTkVEZGp2NHZuR0JsR2NjWjZzTWN5dnQ2ajlnR1lzX2ptTy10SmE4Tl9zZUZwUktfRTRnSms3UHR0NXYtdGdtR04tWi1hS2xaeFp2d19KZk96X2hZNzVYOTVjdHhVc1FmbHlQLUo5R3BtYjR5ay1ySDVh?oc=5",
         "headline": "BIDV는 8천억 VND 규모의 사모채권을 전액 인수했으며, 추가로 20조 VND 규모의 후순위채권을 발행할 계획입니다.",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1791857458.0,
         "tag": null,
         "first_seen": 1791858628.3411896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IVDROZHlRR3JmalBMTGs2YnNLcFZLOXZXZ1VnNVJzY2dfQUc1VmoyS0hCQmx2Vzd4WEduMEtCZEtLV2hJS1o2cTVGME1ZWEUyT3UtWEZxUTNjdw?oc=5",
-        "headline": "효성화학, 영구채 2000억 금리 11.8%…흑자 전환에도 '이자 압박' [fn마켓워치]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/13 10:33",
-        "published_ts": 1791855194.0,
-        "tag": null,
-        "first_seen": 1791855919.8897085
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 16:00:59",
+  "updated_at": "2026-10-17 16:15:46",
   "yields": [
     {
       "label": "3년",
