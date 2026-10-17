@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaTFkNk5vcjRMU1J0RTBaQW5HbkIxcHhCT1NudXAtdkJVb3RGZTA2eUpkaHNWQzR6NmFtU2J0UHU4OWh4ZlF3eFVIdVdMTnRLVUNSQUJTbEY4blRSQzRkR0hRckNCVXgwek5CeEJPUmwwUjZWZmpRalhBaEI2RVFNbjBvTdIBY0FVX3lxTE9tXy16dms1c3I5X2gtbEg0N0xNSTNNTkNJdXZXUVlPX3FUcjAyMVNlTjRPN3BlbDNXRkdRZzRqaGxFa2lYNDF5N29rcXlwQVIzS00teGUydjNGa2Z2V1ZvSVpmRQ?oc=5",
+        "headline": "이 대통령 “천금 준들 아깝겠나”…野 “소방 재정 떠넘겨”",
+        "summary": "",
+        "source": "채널A",
+        "published": "10/17 18:32",
+        "published_ts": 1792229520.0,
+        "tag": null,
+        "first_seen": 1792231234.5055132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB3WktKVEJZZ1JVMVZ4MnhYRGNQY0RKX2JFbEVLeExpVEtJTXRReEd0MVNuYWZELV80WExlUUlUUHlZS09JVXVSTVlXSHVkNjdHRTJwUVN1ejNhS0t0WVlTdHltTQ?oc=5",
         "headline": "[속보] 추미애, ‘소방 재정 빨대’ 발언 사과...“의도와 다르게 전달됐다면 유감”",
         "summary": "",
@@ -1226,6 +1236,16 @@
         "published_ts": 1792216620.0,
         "tag": null,
         "first_seen": 1792216837.7426016
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1DSkZOeFFiUkdnNFZObzd3LXZadm1qSUhfdkFOQk9td05IMkpoTU1vbU5uLXlqekJ5ZE9wbTBuRkN2dlpmOHZMOGRsUHBaRGluTUpTX19vRmwzZTRJWkhPVdIBYEFVX3lxTE1DSkZOeFFiUkdnNFZObzd3LXZadm1qSUhfdkFOQk9td05IMkpoTU1vbU5uLXlqekJ5ZE9wbTBuRkN2dlpmOHZMOGRsUHBaRGluTUpTX19vRmwzZTRJWkhPVQ?oc=5",
+        "headline": "이 대통령 \"고인 헌신 새길 것\"…정치권 애도 물결",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/17 14:09",
+        "published_ts": 1792213789.0,
+        "tag": null,
+        "first_seen": 1792231234.5055132
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFByMzBWZ1pPQUtaVDFSTFRxSXlta3o1VkNaRnZmUWZ6bThsSno0cV9rLXlaSS1VSjBUY0VKb1R1cnRFeG50NlNXNzc0NG1hS1M4M0RSSmVmVjBGdE5oQnNTOGYxNmRJdDA2bFZ4Nm9oNNIBb0FVX3lxTFByMzBWZ1pPQUtaVDFSTFRxSXlta3o1VkNaRnZmUWZ6bThsSno0cV9rLXlaSS1VSjBUY0VKb1R1cnRFeG50NlNXNzc0NG1hS1M4M0RSSmVmVjBGdE5oQnNTOGYxNmRJdDA2bFZ4Nm9oNA?oc=5",
@@ -1586,26 +1606,6 @@
         "published_ts": 1792072320.0,
         "tag": null,
         "first_seen": 1792109724.2791348
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1fdGg3WV8yc1l2ZThLR0FYYmJvbFNFcFBadV9WbVlELU9LdmZYTWFiMDBFdU45bS1pYzY5Z0JlOXNDXzFfdndHclR3T2hRVGs?oc=5",
-        "headline": "\"파장 커졌다\"...추미애 경기지사 \"소방, 골치아픈 재정 빨대\"",
-        "summary": "",
-        "source": "사이렌스",
-        "published": "10/15 20:52",
-        "published_ts": 1792065133.0,
-        "tag": null,
-        "first_seen": 1792065642.562477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5nQkVPejA0Z2lReGtiWTRSQ0Y3alFqNUVOQnNMcVFlYmY2M2VSZk9Belo4eXNrSUJpLS02aEpNcTVnMGFJbE5fa3JxNHpFSlNtOXc?oc=5",
-        "headline": "[비하인드 뉴스] \"소방은 재정 빨대\" 추미애 발언 후폭풍…경기도 해명",
-        "summary": "",
-        "source": "JTBC",
-        "published": "10/15 20:49",
-        "published_ts": 1792064961.0,
-        "tag": null,
-        "first_seen": 1792068323.5867174
       }
     ],
     "global_bond": [
@@ -1668,6 +1668,16 @@
         "published_ts": 1792215715.0,
         "tag": "Strategist",
         "first_seen": 1792228521.5764222
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbm5VZVVwM1ZtVjFBRUx5bjJNaDl0a3BsbGoxa1VrZzBuVWV2a0xqYW1WQnZhT2VuNDFXd0JSeGlKcW5GREhuVVBqcnoxTXc0aXVLZnBrcFJ1alpGU2ItdnNvZDVvSk9URENpTlB0dEJjWmJvTVBBSlBLLTRYQXZRZW9ZajJJVGNtTUJlTXh4ODFMR1hOc296T0JKRzItMTExMG5ieVdzVllkMFNld2ZjeFNfNTVIeXRXeG9B?oc=5",
+        "headline": "어떤 항목이 게임 규칙에 속하나요? 마크 도박장 건축",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/17 13:44",
+        "published_ts": 1792212259.0,
+        "tag": "Fed",
+        "first_seen": 1792231234.5055132
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYWx2bG15VG9vYnpCVXdkWTUzZ0J4NnNGWm4yX1VIckRpdWlOWTktT21JbzRhVW4xQ0dOZWdHdWM4U25VWXdTcDBjLXdzNWhsVzRYWUhnZFdwN0RDMUlmNU1QUXZOYUNqS2x5b0pDeXpjNW93SFNlbmhGMi1rQjdPZkVWUFVsQ3dQeVpENmRWTTVNdThERWVxeWZ0UWt0dG03bU80?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792167511.0,
         "tag": "Global",
         "first_seen": 1792180838.215766
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSHRMYTRHanJFWjJnNGNLRExKaGZOdEtWWlNKdHFhdmRHc3dJcnZNV2NfZmxkTFJQdmRKYkllRFVsN1lIbGVsWFdxN3NJRVZCLWNVNzhPaU5aUGlSMDE3bTN4RFpCT01KVlZ1R0dieUhhQ1pmNlh5RjhXLWpCWFE2VEhYQy10OHRFU2dLX0owMlMtbnVTR0NN0gGcAUFVX3lxTE9NczBRSGxTSUhocXdVbmRiQVdhRUg2d0FaTk9nZkpQRDdnNUlMS1BJeFZrOVhiU0RYZEt6VUVjRm52SDdJaHFWeHFSQVI3Q09hZVB1dFQtZDRGb3pfVndMY1lJVklyRUVwM2p5R2c0cmJIc3VLbXJsczR1SHlCNGZfUVB2R1dnTlBIamphWUtQQzNQdnRzY2xsSTNEVw?oc=5",
-        "headline": "Fed Chair Kevin Warsh warns of AI 'shock' for economy, pledges to contain inflation",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "10/17 01:03",
-        "published_ts": 1792166584.0,
-        "tag": "Fed",
-        "first_seen": 1792167323.9236565
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 18:45:47",
+  "updated_at": "2026-10-17 19:00:58",
   "yields": [
     {
       "label": "3년",
