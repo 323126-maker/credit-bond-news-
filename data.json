@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9Wb0pUN1dnY3NUVDhtZkg4dkRtQ19VM2JvSU9tLVU2bkI2NFZTUnB0N2VjOUFRaGJqRTFWZURBYkhSNmVaNk5DSTgtV203S3dGendfWl9rQ0lQdw?oc=5",
+        "headline": "미 채권시장이 보내는 신호, 어떻게 읽어야 할까",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/17 12:00",
+        "published_ts": 1792206002.0,
+        "tag": null,
+        "first_seen": 1792206921.63201
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8xdUlZaDdIdUpFN2NCeW5jLWVIcmFxZFFKZUtRTHRnUTBrZ2dfTk4yWmF1RlhsQ2NWb1N4MWd3cmNzRzFvVWtDdXV1YXJkZHFBTGVMSklVU09jMjNFcS0xTUlocUk4ZHY4MzdaRG04V2E?oc=5",
         "headline": "\"CP금리 연말 4% 돌파 가능성…타이트한 자금시장 지속\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792114257.0,
         "tag": null,
         "first_seen": 1792147523.4590912
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPNmljalU1VDZrRVM2SFVJOG11NXBfRV92ZzhDUldlZ1VRSFZnQUJpbFU5bkdMempBWk5YX1Bfc05DYkZQRm1DT3RFX2h0clgxLXZ6akJHOVN4a1hSSXRWUGxDZzlYN3RxQkxpemZ0aHpkOEdpSGE0eGFJWlpwb3licWZXS3FLcktEYUdCVTQ1b3cwTTlQaWt2MUJGZDgxTXIzcHBSaXp0OW1EZWU4M1Ntai05LUY3RjRxSVF5WW42dVVfczNkMmRHUEZJeldmamlGT0dUWDk5Y0c?oc=5",
-        "headline": "간략 뉴스 16-10: 채권 수익률 하락에 따라 다우존스 지수 550포인트 이상 상승, PV Power, 9개월 순이익 5조 4천억 VND 이상으로 예상",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/16 10:20",
-        "published_ts": 1792113654.0,
-        "tag": null,
-        "first_seen": 1792114231.926192
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHQweDMzZzhSenc5d3FDTlVONTZVWlZ0bVBqMms2WnJGa3ZlR0ZpdHBXX1lMVjhtSEVIRk91REJKYUZfUElXX1owaWxyN2ZWYl9RTS1BNlJaeU9Bay1XUlA0TTFQN0ZYY0FaT0FMeFJEOXAzbGRfU0NIbmJmQ2hENGlsT244ek9HTzFnX3M3RFFzOUtBTmZjVldNVldlWjY4eU9IdTZJVy1KUFJreFc2VEVoRl9zRWpQdWxZUDBVSk9keHlMaDdZ?oc=5",
+        "headline": "Government Bond Yields Drops Sharply As Investors Respond Positively To Budget 2027",
+        "summary": "",
+        "source": "BusinessToday Malaysia",
+        "published": "10/17 12:03",
+        "published_ts": 1792206234.0,
+        "tag": "Global",
+        "first_seen": 1792206921.63201
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBKdkdoalFDSWZxc0c1YW5PUXhVSHJEcVd4d3NVVUVfN2U2Szh6bGFZSUFuelNOeHJhYzU3QnJOWnF6VDIzcVNDXzZBZGp0VHAxbGI4OS0wMkNEWFlFUWNaQ05RVlNZN25rNVhjdDJjMWxsdWxr?oc=5",
         "headline": "[뉴욕환시] 달러 하락…금리 인상에 신중한 연준 의장 |",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792155873.0,
         "tag": "Fed",
         "first_seen": 1792176321.381878
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObUdoZ1dEUV9yMWY2UHVhSmtrdWRyeUYxUDlWRTN1b2EwbGVtSUJZM1lVTnAyMEJybzBnM1hMdU5iZV9Ta3pvXzkzcXk1dGRlcWoycGJzVktfc25UNmM4SEhSZWVQdUw2ekw0RU5kRUNSendlWElacnlvQm43R3d4MnlTZzFZNE8xTjRuN0l3QXg?oc=5",
-        "headline": "Fed chair Warsh says price stability is key but shies away from signals about rates",
-        "summary": "",
-        "source": "AP News",
-        "published": "10/16 21:58",
-        "published_ts": 1792155486.0,
-        "tag": "Fed",
-        "first_seen": 1792170922.3417091
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 12:01:00",
+  "updated_at": "2026-10-17 12:15:49",
   "yields": [
     {
       "label": "3년",
