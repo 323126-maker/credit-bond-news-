@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNem8yTW5sTjhFU045VWI2T0Z5OTh3SGFkUWdzd19ZNTJvUjg1MFVKU3IycUFNb1ZCWW1PX01mRmJPbWRTRFQxb1NfLWVra2FpMEp6NjVKZTY4V3NMVkhBUjV0Rnp0SW52T0M5dktIaExTM0p0WTZGVkNjWkRoQTI5TXdTcWIwZG1xbXN0dENKbXNmU0xsMEtZMnB5ZkpjUnVDOERyeVFFQ29mdzBHMnVSSUpHNm1IMXJlOTExWC1mX0Q0STZZX1hSRVdDdnk1eGZROFZMYng1ek5ndEpPeGpr?oc=5",
+        "headline": "일반 화면에 없는 버튼이 나타났다면? 닌텐도 포켓몬 게임 추천",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/18 00:20",
+        "published_ts": 1792250443.0,
+        "tag": null,
+        "first_seen": 1792266322.2449963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSF81ejhQNzNMQ05NZV8yNWM5TWZtMnVJUHVBYVFnMVdPRjBpY3V4aHdVYURLM2p1c1VFdFI0aWhVOGdOSGhud2tvZm51Z2ZxOExUcHZRcTB5OVY4b3ZHdlVSTVdDLUx1ajZUVmFFUWU1SDRHRlNrS3FJaGpwZlNHcWRDV0JSbVZ3MUNMZ0tfd1JVQTNmNDZhWUo4LUVXcWdwZEFyMGp1ZVA2UHN2UDdQdmpCSFBHajk1X3c?oc=5",
         "headline": "새로운 기능이 추가됐는지 보는 스포츠토토 승무패 이월횟수 변경 정보",
         "summary": "",
@@ -502,6 +512,16 @@
         "published_ts": 1792099496.0,
         "tag": null,
         "first_seen": 1792099829.552445
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3hNWC1vRk9sNlBuNExnR05JNGw4YkxIN01fZmFQaURVMUxidXc1eGV4cVdEVUk3Zng0ZW5vNWRhN19qTmJxRUNjRl9VRFNUN2ZnSnpodVg0Y0Eyc0UzNDNoS0k1LVFSWmdJeEtlaDU4Z3RBQ1V0Vkc3emZNVGo1N3diV1ZGRnl2ZG5XSGpBZ3piNHkwUkhQXzdDMDdFQkhVQkpBTmpLVmE3RC1nbmc?oc=5",
+        "headline": "앤트로픽 신용등급 공개: 투기 등급 중 최고인 BB+ 획득, 투자 적격 등급까지 한 단계 차이",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "10/16 02:02",
+        "published_ts": 1792083720.0,
+        "tag": null,
+        "first_seen": 1792266322.2449963
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5la1IxT0FJRlpWbFpjUFZYMnVnUnIyVlk5cVFjYk9FMmlMc1FxR3lMWWpDSDh0em1ZTHVMMzY3aENwZmhEdFA1Z3IyZ0RIa2hXMGpsZk5SUDNhQjVscl9aQkktQkRyeHdRZHI2YW1B?oc=5",
@@ -782,26 +802,6 @@
         "published_ts": 1791936080.0,
         "tag": null,
         "first_seen": 1791937828.5692656
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ROWxLRWd6OWxzc0xINkltMmNWWjFCTzRKVHVIU3otVVg4MkNsRVJaQlYydVJHWGpuamY5MURXRTZFMFhXN3lDeWJtYTVGZXBzdm91MWU1Rm50VEN6UHdzLU1zVXdyQ2hoRDJxVWhFNVpQQQ?oc=5",
-        "headline": "신한지주 품에 안긴 롯데손보, 적기시정조치 조기 졸업 '파란불'",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/14 08:33",
-        "published_ts": 1791934405.0,
-        "tag": null,
-        "first_seen": 1791963027.8880408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1STTdLMDduX25VRTdzeWJjbGNlaVgtUGZmYWhBdzZCS1NKekt0V3lFQklMRjhtM2d0eW5xSmljREhXWWk3aWVueUszcHVWYkl6TFo5SHZOSGQxOUNSYWpzSGtSQXVRNVU?oc=5",
-        "headline": "메리츠증권에 '구원투수(?)' 자처 하더니...메리츠화재, K-ICS 하락에 배당 부담 '눈덩이'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "10/14 08:00",
-        "published_ts": 1791932403.0,
-        "tag": null,
-        "first_seen": 1791934228.97471
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 04:30:54",
+  "updated_at": "2026-10-18 04:45:47",
   "yields": [
     {
       "label": "3년",
