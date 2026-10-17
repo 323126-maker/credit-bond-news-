@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQd3VzNGhSNk84OEt1dnQyb3lpNi1WMDc1NmtwUFRmbkwwTy1hU0RzU3lxVVBsZS11ZzBiZzRJYWxMU2g3cmZyR0NkWTZFMW1JZnFUTTBEMTJSQWlxbU0zOHhSV0xnWjVQa3hGbmZnTkxtcS1VcnNBMnZNRnVubUlTUUdxRVl0SDE0ZUtJdmMyTnBIYV9vaFdENE1JVC1mNEdnUDBOSGp0Q0dnNEpSVElzQ3pHeVBnMkl5WHhKTnJUbHo0TmR4aEJCV3VaZl8zQmRYMTZRbDdwQ3B5TnlVYXF5dDFjWm84eVlNQkRqMmZMcnN5dw?oc=5",
+        "headline": "Global equities may regain momentum as strong earnings offset concerns over rising bond yields: Morgan Stanley",
+        "summary": "",
+        "source": "ANI News",
+        "published": "10/17 13:02",
+        "published_ts": 1792209720.0,
+        "tag": "Global",
+        "first_seen": 1792210522.3168254
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbVROWU50U1hjQWZKcFFMSzd5blc3NXB1eVUxYXctSDBOMk01dS1yNW0xOFRrYkkwN0FHdWZ0eVp6Y0NZRHlwYlVUTlBPbUNPZWJUS2I0b2FuSGRCTTh5dUJ0cVl6Y0w1cFBvcFhGdjdGLW1Fd3JvdWtSbDJsamU5U1l6b1dRNmlqUTFNYl96U0NUS0p4U3FQQ01DejdZUWE2a1ZieEwwaw?oc=5",
+        "headline": "Why India’s bond market can no longer be considered in isolation",
+        "summary": "",
+        "source": "The South First",
+        "published": "10/17 13:01",
+        "published_ts": 1792209698.0,
+        "tag": "JGB",
+        "first_seen": 1792210522.3168254
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcHQweDMzZzhSenc5d3FDTlVONTZVWlZ0bVBqMms2WnJGa3ZlR0ZpdHBXX1lMVjhtSEVIRk91REJKYUZfUElXX1owaWxyN2ZWYl9RTS1BNlJaeU9Bay1XUlA0TTFQN0ZYY0FaT0FMeFJEOXAzbGRfU0NIbmJmQ2hENGlsT244ek9HTzFnX3M3RFFzOUtBTmZjVldNVldlWjY4eU9IdTZJVy1KUFJreFc2VEVoRl9zRWpQdWxZUDBVSk9keHlMaDdZ?oc=5",
         "headline": "Government Bond Yields Drops Sharply As Investors Respond Positively To Budget 2027",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792157400.0,
         "tag": "Strategist",
         "first_seen": 1792184438.2833483
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWTRXLUVUVFRwclRDbWRVZkRJeXNBNE0wLVRrWlRxVTRCOEVaTXU2bUR2aUVIZTBiWWtjMGtyQ3h1RTc4cnEtRlV5ZVBJTkhXX0pjc0NwekNnM1pLS3pmRFkwUzVwNThjQ19OZjJzdDN1VE8tR0ZiVWFYSDY5cnR3d0cwM2FwQ3VxeDhPSnF6MU5DRVE?oc=5",
-        "headline": "Markets interpret Fed Chair Warsh comments as dovish on October move, Mohamed A. El-Erian notes",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "10/16 22:20",
-        "published_ts": 1792156828.0,
-        "tag": "Strategist",
-        "first_seen": 1792162841.2720454
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQMUhybGZ6RV9nNy1QbmdHUnRjRlNRNVRqMXU3MEJIMzF3bGNWMjYzRzRNQ3NPWWtubG05MHVNMEtLVlFYSlpYc2hFTVJTVDBjTkVqY0I3RFNaSnpRMjRvV055cU1pWnc1UFBTb0MwS184elJLY2Ywd1cya0NINXh4VTE5UzUxa29Jd1d4SXNTcjI3RnBWekpNSmFJd3o2UWhpdWR5RF8zWUhib2YzdWdza2dLNXdXTkRQb1JhXzNBU3BHaThzdi0xTDhYOWlfM0lR?oc=5",
-        "headline": "AI Bubble Worries Hand Long-Term Treasuries Their Best Week Since March 2025",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/16 22:04",
-        "published_ts": 1792155873.0,
-        "tag": "Fed",
-        "first_seen": 1792176321.381878
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 13:08:36",
+  "updated_at": "2026-10-17 13:16:07",
   "yields": [
     {
       "label": "3년",
