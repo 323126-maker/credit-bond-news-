@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yNm9YSFpSd2ZuRkY3cVJZaG1vVzNtaTZXWTctdnNpTkxIUnM4RjJFXzFoM2tZVFYyakIzSGc3Y1FYR096NnN2SXFZLU5OaTY4TzIwZlhpX295eDJYNllmR19kZ1J6SzZQTHhv0gFvQVVfeXFMTl9ZOE5fWXIyNEY2NlN5UFk1S0dUNVRERlpkSUYwQU4xLUNmVUFmRy1EZkU4cWI5UTFIUE0ta3hEQkNUOElpZDJDVER3S2lfX1BoNjFBSTdLZjRqVlNCNERBM0hqOEptVy1iUEI1TWZR?oc=5",
+        "headline": "부천 화재 현장 찾은 추미애…'소방 재정 빨대' 발언 질문엔 \"그런 얘기 하지 말라\"",
+        "summary": "",
+        "source": "펜앤마이크",
+        "published": "10/17 10:07",
+        "published_ts": 1792199273.0,
+        "tag": null,
+        "first_seen": 1792200629.7582304
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpaWpfNG4zTC1DVWhmN1A2QnFsQzZmMWUyTWUtem5tZkVVRmpoT3dabDZTNkVONmVyT1BuMFNzdWQ4Qk42SFduNE4tRHJPUHZQOWt4R3FB?oc=5",
         "headline": "이 대통령의 발언, 혹시 그 정치인 대놓고 노린 것일까... 같은 정당 맞나",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792031040.0,
         "tag": null,
         "first_seen": 1792032322.193779
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFQwQWJ3Y0NWUTZWc2NlNjBCbi1keHBjTG5uenN3MTRwczBpLVd6UE5iRzV6V1RzbkpCdGpESklZZTZjR2dNOFpnOGhKUnpTOW9fRDhCZ0EzTkpGdUlYdWJmWWxsV0sxWml2ZGlpYzNuX1hfcjhhd1lqd3M1Uk1LekxiNk1kQUcwN0pzN3BmWEQwNkk?oc=5",
-        "headline": "나라살림 뚜렷한 개선…올 1~8월 통합재정수지 8년만에 `흑자`",
-        "summary": "",
-        "source": "국제신문",
-        "published": "10/15 10:08",
-        "published_ts": 1792026480.0,
-        "tag": null,
-        "first_seen": 1792027826.3991184
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-17 10:15:46",
+  "updated_at": "2026-10-17 10:30:54",
   "yields": [
     {
       "label": "3년",
