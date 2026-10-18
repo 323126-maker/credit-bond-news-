@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPLWFfUWVYbDM3OXlSc2Zfcjg5THNXeDlYS21oVFF5MTJKMXhuemNtU3J0aVRPMVNtMEczeG5KdE5sbTNZdUFkZEF4eDNuNGFFc0huTmtuNWlFZ2JXN3BKd2lMRmJTMGMyREE4ODhXT3gzQmF1U1h5RWI4eWVmT3I1Z2lfZVhyS1JwTXRXZWRXUzl5Q1BJME1VWWlOV2dPQXl6RUY3dEhiNlROdU14SmwwZ2JHUE8zQQ?oc=5",
+        "headline": "Bond Market’s Big Short Bet Gets Wakeup Call as AI Trade Wobbles",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/19 04:00",
+        "published_ts": 1792350000.0,
+        "tag": "Global",
+        "first_seen": 1792351829.3347359
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82ZHk1TDV0amNpX2lIZ1JpMWNfc0Zva3hqc1FzNFdndHJqRmU5bXo4anBwb2tUaUJ5S3QzYXBVZ2VPUzN5bTMtZzFCd1hSbnBtbW1NVEQ4UmIwRjR3RDQwSlloenJuWVZsdmZBSUN6QmRmQjh3TGwzeXVlcUY?oc=5",
         "headline": "In favor of bond purchases",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792274400.0,
         "tag": "JGB",
         "first_seen": 1792275324.9138253
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDczenh5ZUYyZ3M5bjdUWHlMVlFOTU44SnRhcVBFR1JkcXZEOXNUSU96VHo5VXBBWFR5QjRxTFc3YzNUbUVNQWZLSjJBdTJNLWd5WFRfb09RZWl5NVhmbDdzSWtUYmZ2S0VCV2tHRU9FTmRTUVNPRXF3NmxxYWNsWDk0Z0FLWmxaVHpQdHJMMjM5XzVDd3RaVy1STDNQNjV2c3R4TEFqXzhObHpFQmFUUlNPX0pTZ3M2UHVZV0ZzYVl6N01qTFpKQ3BnOVc5SXJud3V3?oc=5",
-        "headline": "SpaceX (SPCX) Fell Despite Investment-Grade Ratings — Why the $20B Bond Deal Matters",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/18 06:48",
-        "published_ts": 1792273701.0,
-        "tag": "Global",
-        "first_seen": 1792317632.6258612
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 04:15:52",
+  "updated_at": "2026-10-19 04:30:53",
   "yields": [
     {
       "label": "3년",
