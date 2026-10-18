@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRXJ5aXZRaDlzOWhWUmtqeGs1MHZOWUQzeXR6M1liM3pZT1dkY1dyaE1CRzViaGxtZFRaQ1B2Nk51QXBuM05QSEpDbjdJaThyQWRDWWJvZDh1bWxmbm5pSWdkUkFqc1c1QkxJM1FvcGJ6RU91N1l5aHFaem1mM0RvR3dDd1RLQkZja1hNREhzQzgyaEU1RlRZQXRJWmZvdw?oc=5",
+        "headline": "Global Bond Markets May Face More Volatility Amid An AI Unwind",
+        "summary": "",
+        "source": "Mott Capital Management",
+        "published": "10/18 22:01",
+        "published_ts": 1792328470.0,
+        "tag": "JGB",
+        "first_seen": 1792329321.3269587
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQY3ByOW1SRFo0S2hXRWxSbjZ1M0owWjhHTVJGWEtNd2o3N29acW9IaVdsRDJZN0VPUWRvS1E3YVBUbW5ZWS1rXzFnWThQVlN6UUFLNXVTaGFLdzlBMXpMV010djNLWjlxbC1KaFRxMnJCZWlxQ0xBU3p5dmlqVEVmeTFwTzZhMlFVanN4Q0NpZkFNeDdiejV2OEt2aWRDN1ltZUVHanZjdTYwTWtjT2ppVFRnNzItdGtPUDlKbUNlRQ?oc=5",
         "headline": "The Fed Has A Problem It Can’t Fix — And Stocks May Be The Surprising Winner, According To IO Fund",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792245192.0,
         "tag": "JGB",
         "first_seen": 1792245637.293452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QaUtuNVdhVVZPOUtYcm5xOURRZHJzOVZleTNXZWJ1OFJFR1RpYWpodWluMWVJNzFxaXY3WGFaenoybmhPY2dvYkJDSFBDWEc2R0QyZHdXbmpLSXZhUkduaNIBeEFVX3lxTE1ablBVMmhJY2cxYWQtNFlkMzdyWkVoU1dLMU90NFc5N05ielVhTE9UU3lYRW9PT3FrcEkxOFVZQTZGbFhQU1NYZndIZmdxUzJFdmRTMWFGdGhacy1nS2NTMlBmTmk1am5uRWRjSmduaUV4bEhDVll3YQ?oc=5",
-        "headline": "일은 총재, 금리인상 지속 시사 \"물가 2% 근접, 이 이상 용납 못해\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/17 21:16",
-        "published_ts": 1792239400.0,
-        "tag": "JGB",
-        "first_seen": 1792240228.4273791
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 22:00:59",
+  "updated_at": "2026-10-18 22:15:46",
   "yields": [
     {
       "label": "3년",
