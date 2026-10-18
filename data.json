@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB4YXRRc21RUW53QmFkRmgtZTVUTnhxMXgxczM4M3hLX2xqX3ozd1JMSEt6TS1reVk5Y2UzdUJGWElKSjRLSEtlWGVaUHk2bXJsOGdOQUhIdFVIdW1QekNKUUhtZDZGRVNj?oc=5",
+        "headline": "추미애 지사 ‘재정 빨대’ 후폭풍…소방 처우 개선 한목소리",
+        "summary": "",
+        "source": "강원도민일보",
+        "published": "10/18 14:36",
+        "published_ts": 1792301761.0,
+        "tag": null,
+        "first_seen": 1792305029.9888213
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdVFqOHZ5NDhZRGhtcUdvRXpYOUkxLWxtakFtS2NIU0h4bnczaTNBcE1jNncyT2R6ejBXNzd3c3BQSEdQLWZSNUVibkNhU0c4WW9HU2dRQ1liZWo4UEE?oc=5",
         "headline": "추미애 '재정 빨대' 발언 후폭풍...민주, 조희대 탄핵 추진",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792134060.0,
         "tag": null,
         "first_seen": 1792134926.2414525
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2UWtRMWc0VkhyYTBaQ1ZyWldJdUF5VjFjcnlDT2hVdW9TdWtnLVpBRWpKbGp3Z25HWU42anYzaFdXWXdMQUtISkYza3haZW9hWEw5LVFUd05oT0xwdktxbjAzR0liZTJMbnU00gFvQVVfeXFMUFJkY0xZMnA2Wjg4ek5NeW43dFFGNEVDcDhiWUZKWW9XblJiQUpMR1JaQkxHbS0yRmlZUVlHWDRzU3lnZEw4QW5UOHU2VTI2Q1h5TGw4cG1GUEpTNUN0V3RHbjJfT0VnV0NUSTRxYjBB?oc=5",
-        "headline": "부천 공장 화재로 소방관 1명 심정지...민주당, 추미애 '재정 빨대' 발언 사과",
-        "summary": "",
-        "source": "펜앤마이크",
-        "published": "10/16 15:51",
-        "published_ts": 1792133491.0,
-        "tag": null,
-        "first_seen": 1792134034.853648
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 15:15:49",
+  "updated_at": "2026-10-18 15:30:51",
   "yields": [
     {
       "label": "3년",
