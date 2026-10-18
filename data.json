@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaThqQ25PaWtHbG1VbkprR2Q4dXNOa3F1VDBDcVItS0dtRnBXQlVRS19VMFJ3YXdVVHlHWlFnZURQa3U4czRYQVJubmp2dXlGOHdneVU4cWp2YlVVdHlPNlh5dEo4V3k4Ri1KVHNaRmdLaDk1WDNYcVhEU1JxUzNsaDJPcGVuS0xsLUFJVG1yUjNUa24wRkdjVQ?oc=5",
+        "headline": "Warsh Avoids Signal on October Rate Move",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/18 19:53",
+        "published_ts": 1792320824.0,
+        "tag": "Fed",
+        "first_seen": 1792322122.1651452
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMEZVenN4a3NBNVhmRU10eGxrSnh2aDFFRnFFaWdiMVNKbGlUR25fRGxkWERKbWJOTFBEWFFmU0txS2ppRFRMT0JFaWZmZXdWYkJ3bU5pb1hNeEF6QWtNYjNPYlJEd1NWN0Rzc3cwaHVqdld4V2c3NTNrZE9HVW1ZZzhCWnB2TkFBYXJ2SkxFZFNlUzN0enp3X3Y1RjlhaDA?oc=5",
         "headline": "As borrowing costs spike, Jamie Dimon asks corporate America: 'Are you prepared?' You should ask yourself the same thing",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1792302720.0,
         "tag": "JGB",
         "first_seen": 1792304123.2696927
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OZE5Lb09MNTl5MWZJLTZyR3BsMm1TVS1DN2ZTRmxxMHhJT0tlSjZtTlpvNWtaa0cta1hEY19KRW5lVUVDSHNsdWVSTUw5cENUWlZEbFQ1bGJJVmEtalQ3clo0UWxmU1FCUGVVa2xmRG5ER213S1E?oc=5",
+        "headline": "France Faces Debt-Crisis Reckoning as Riots Erupt Ahead of Pivotal Budget Vote",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/18 14:05",
+        "published_ts": 1792299900.0,
+        "tag": "JGB",
+        "first_seen": 1792322122.1651452
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMXlfNlFoaFBEdmw4VVVEbEw0NG9MTnVsWGx6VnV6RGtxNHFQSnNCTlZEdGFIYUNYcF9LejExZ0pITlFBOEx4MUJGQUV3VGE0YmlnclNVN2hzb2ZvTnhiRW9EeERCVnRxaUJaNGlsMy1ObDQ0MDlCRTQ2T2tUZ0twUC16U1VpM1dQb1p0akRjOTdpc0VaWlhxQ1p6eC1uZDlXazJmNThtSFh1VEFQbHFJMHI2Nml6TTNDUm9CZElKVlotYnM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792227139.0,
         "tag": "JGB",
         "first_seen": 1792276228.6895492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMkY1bHROM3dUYzFaMWQySUw2OHN6R3k5dGhQczlIS2U0bzFZSmFVdkRfRGU3WmFFQ0hSdGY3VVdxWFVhMF9BYXhQalJNc0hzR3NyUkg0WmU0LW5scEcxVXFxaTJLN2poeUdOdVdfMnVqTHAtWHFvSkFvQ19jS0VHRmE3THllTENvSG9SQkd3?oc=5",
-        "headline": "What’s the likelihood of Yen carry trade reversing?",
-        "summary": "",
-        "source": "Yahoo Finance Australia",
-        "published": "10/17 17:50",
-        "published_ts": 1792227011.0,
-        "tag": "JGB",
-        "first_seen": 1792234836.0703263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZMlJKSERTMS1wMk9uWFFRcU1fVmNrYnhOdTUtY0JxeTRTX25xQXRDU0JvTF9hSnJlZGdlSVhXSWRHZDBZcTRhWHpjTEM5bjBTdm1TUnhNcFVEb2lUenVDV19ReUdFYVdmbHYzY3NsVE1aeUE?oc=5",
-        "headline": "파워볼 밸런스작업 후기 배당표의 줄과 열 이해",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/17 17:39",
-        "published_ts": 1792226353.0,
-        "tag": "JGB",
-        "first_seen": 1792261332.399768
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 20:00:58",
+  "updated_at": "2026-10-18 20:15:46",
   "yields": [
     {
       "label": "3년",
