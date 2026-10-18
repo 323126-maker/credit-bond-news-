@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5rZlp2am5Wc1ZrSl9hcHdXMmNHVTBXVGJva193TWhkNDNNX3lfVEFIYThOR3dUWVJmUnNBVWU4UHlpTmRqcDhyRzBrcV9LNkJnRGVtTmhmMzhjclNWRmE2cGl4VTZJb0xhWEhjTg?oc=5",
+        "headline": "일본은행, 물가 압박에 추가 금리인상 예고",
+        "summary": "",
+        "source": "스페셜경제",
+        "published": "10/18 14:53",
+        "published_ts": 1792302807.0,
+        "tag": "JGB",
+        "first_seen": 1792304123.2696927
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBONExJSGgySW1SMXBOR0o1OGpYUmY3b3ZwOW51OEFGa0x0UzNocjRYUDRka0JkT1hIaXliZ1RYZUxFYV9pU3Z5Z0ZWYlpTX3FIajJmdXp5Qzc2VHF5ckVCN9IBeEFVX3lxTE9JQVRiem5lSGRGRk5RMXY0UG9OZmxIS1YzOUwwYUFpUTlxU3JsRGo4aXpjUHhGZklEVk8zLU9aNm5Ua01HTzNDR2tXTnN3Ni1MdS1DWWdiQWlDSjVwd2c2VmdySV9BNFhnbzZZWlVPT2FmV1lkS2otVw?oc=5",
+        "headline": "·호사카 유지 \"초비상 걸린 日 경제…엔저·고물가·빚더미 삼중고\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/18 14:52",
+        "published_ts": 1792302720.0,
+        "tag": "JGB",
+        "first_seen": 1792304123.2696927
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM084MTVrVm9SMElVTE10U2MxOFVuZ2hrTm9ld3pOelBKTVZoMUNIVE1YV1A5VjFXRlFBUGxjSDdfcUdLeHNPSW1lc1NiamVGbkg0SmFrdmRvd19yRndXX0lOZUtnNlZaSmZHS29iQ1FYbnpmVjdvaDg1bjRFWGxncG0tMUdXT1ZiN2ZBMnpOTXhzSjg3eHQw?oc=5",
         "headline": "Chamath Palihapitiya Warns 6% Bond Yields Could Hurt Businesses - Microsoft (NASDAQ:MSFT)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792219110.0,
         "tag": "JGB",
         "first_seen": 1792220436.765889
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcng0QmNJTHk4YVdXVE5hZUY1U2RMdzZ4dnZyOUJoVUt2MVBEQUM3dUpnQVRZWFVMa09UaXZWeHFTOGo5RGd3QzkyM09UZl9BMmpGNXJONWFTUkZBT2Q4eElBa0dLUzJDempEMzNPb1N4WkhaU054ZXlVc2J5RlpOenc0c3BNNHdZc1MwVy1NTEo2VWEyak5xOFdTbG9adXBUQzY1MElpYWxHSFlneHFOV3dfeVhCcnFtbm54RnhLTkxieUViV1ZobG4tYXI4enBu0gHQAUFVX3lxTE1YaDkwbGp0V0NHYzJMZF9xd1Q0TVQtTHFlOTZsVkNfZ0tmZ1dOc0pjdUd1NTRPWDdNVTBJZjJSNkZQcGJDVlVLWHpIeGZIVWlsVW1DQTNhNl8wQURTVGpVeVFyZUdnWTV3VzlvdkRhX2puSHpjaWhpMWlRZURLZ2xtem42c1Q0RHRxaGFZQ3YtcmtjbVR2Sy1jdE5uMXNDdGlLSXpsYUtFelBuWWljRzIzSVVNRVJVMEEzLWpDUEZ4REhSQk5XMWphamtZcGFOYTU?oc=5",
-        "headline": "China cuts US Treasury holdings to 18-year low in August as debt fears mount",
-        "summary": "",
-        "source": "South China Morning Post",
-        "published": "10/17 15:00",
-        "published_ts": 1792216817.0,
-        "tag": "JGB",
-        "first_seen": 1792298723.080633
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlBnQnZEdTJBRy1zSGhVZzktYUFobE9TUEo4dm90ODN1aGx2SVB2WkpGNEpYTmRWSlAyRU9vWXhIV1FfVUtiTDE2VjNsZ0dkdldGT1prVkFZd3A3Tmh4LUN1X1REVUg5OVZxN0cwZXdXRU1lbGVmVkZ3dWVEeHBCejJabkF5WDZ4MXJSdXJR?oc=5",
-        "headline": "Key Moments From Kevin Warsh’s IMF Appearance",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/17 14:54",
-        "published_ts": 1792216496.0,
-        "tag": "Fed",
-        "first_seen": 1792224034.8420138
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 15:00:58",
+  "updated_at": "2026-10-18 15:15:49",
   "yields": [
     {
       "label": "3년",
