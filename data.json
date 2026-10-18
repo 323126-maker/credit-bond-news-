@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jTG01NmU5WHRJRVpuNDZWNlhUWGVsTjhkTi03d0hSSHUxM2NDNFNKOWlWM1hmRWlBVkEyNXRZTFhOMlFULVFyZldQMFZabmhBRjVzbFk2M1FGalo1MWZsNWlkQXlxb2M?oc=5",
+        "headline": "코어위브 금리 15%…블랙먼데이 재연인가 과잉 공포인가",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "10/18 11:00",
+        "published_ts": 1792288800.0,
+        "tag": null,
+        "first_seen": 1792289723.5852647
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8wR3JrZGZJbEtKQTgxZzd0VnNOMEt3c1hUSTItRVVzcHU1NnlwdnRMajg2XzFGQzBzdHlqckpLQzY0eHVsSnNhWXJEX2M5QkwzMl9OT01Wd1FSeGxuUHoyVXR4a0dIRkVQaHI3Tg?oc=5",
         "headline": "[전문가칼럼] 한계기업 구조조정, 이제는 ‘회생’이 아니라 ‘선택’의 문제",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792134000.0,
         "tag": null,
         "first_seen": 1792136723.4234102
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLT24waXhyeVNrTUZUY1B5VGpsc1JxeDBmdGROWGV3RUxJaXZyNGd4aklRX2tFbjFqWlR2Z20yUEM1VGd4SWhZM25iSl9veV9DZ2ZOQVdHWlptX3ktZjRNalFLTFZ5aHZ0NENKdDdWYm_SAXRBVV95cUxOcXFJU08yX29zbjkyRXFYWEJSUnQ1S3FvOTZwX29zekotLXNGdm9VREdQWmlBRzlCUnZlX2ZDSXl1WVdJM2RrYWVSQlFZY044cXluaDRNZEhQa1BrdEJ0b2NYWUdMS0h3Q2c4WERVVlZHaWJybA?oc=5",
-        "headline": "A등급 토스, 커진 연결 이익·깊어진 별도 적자…신평사 전망과 엇박자",
-        "summary": "",
-        "source": "스포츠한국",
-        "published": "10/16 15:55",
-        "published_ts": 1792133749.0,
-        "tag": null,
-        "first_seen": 1792137634.1179187
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 11:00:57",
+  "updated_at": "2026-10-18 11:15:49",
   "yields": [
     {
       "label": "3년",
