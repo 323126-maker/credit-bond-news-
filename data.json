@@ -1208,6 +1208,36 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdVFqOHZ5NDhZRGhtcUdvRXpYOUkxLWxtakFtS2NIU0h4bnczaTNBcE1jNncyT2R6ejBXNzd3c3BQSEdQLWZSNUVibkNhU0c4WW9HU2dRQ1liZWo4UEE?oc=5",
+        "headline": "추미애 '재정 빨대' 발언 후폭풍...민주, 조희대 탄핵 추진",
+        "summary": "",
+        "source": "YTN",
+        "published": "10/18 12:45",
+        "published_ts": 1792295100.0,
+        "tag": null,
+        "first_seen": 1792296035.820045
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE04bTM2dnVKVlhzUHlWQ3AzUlNydF9hVnpUc1NaN0xMXzBlUEJFMV9iWW9sY0xNY2VnemFRcHQwYnFmVWdORXY3TjVPTE5VRmFEMlpZQmx0OHVuWEY0ODZyRGdZUEFxRFFqT2JfNGYwZzk?oc=5",
+        "headline": "“재정 빨대” 추미애, 이재명 대통령도 “천금이 아깝겠나” 에둘러 비판",
+        "summary": "",
+        "source": "미디어오늘",
+        "published": "10/18 12:17",
+        "published_ts": 1792293459.0,
+        "tag": null,
+        "first_seen": 1792296035.820045
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA3Rlloazl0OXh1OUoxU2ZFZW1aTU15RFctcXZRMTUzNXZQaVpDZ1pVSEc0WUtMQTU3dUNpeFEzbU9LUFBnVWQycmZYZ1E0NlIzdXFJ?oc=5",
+        "headline": "부천 공장 화재 진화하던 소방관 순직, 사고 경위·추미애 '재정 빨대' 발언 논란 정리",
+        "summary": "",
+        "source": "뉴닉",
+        "published": "10/18 11:20",
+        "published_ts": 1792290000.0,
+        "tag": null,
+        "first_seen": 1792296035.820045
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE82RzZCNUJES3RIdUY4d3Q0NlFIN2ZnR3BqNGJaekRORTdkdy1HOFZBVTVWSUstOUZiTUhscUN1aGtVem9BbWN2MXh4cmJ3eTNKWmFXU21rOEY5ckoxNWtMallBbHpvcTlLRFFRaEZ3aV9GdVM5WFE?oc=5",
         "headline": "김민석·장동혁, 오늘 고 김진석 소방위 빈소 조문",
         "summary": "",
@@ -1576,36 +1606,6 @@
         "published_ts": 1792129980.0,
         "tag": null,
         "first_seen": 1792143922.2373798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QTnB2SkcwVFNrcEFKYWxYX0NCSmRYb2kyM01zc2ltTVVfSW92UnF6VGNUd20xZkY2TEN1bFA4dHVXVDRzeF9FS3VSSlVWUjRkRXpxaWlmRmN1V3QtTDBTTVN0bW5KVzhHMUFDc1JYOG5uVFd2?oc=5",
-        "headline": "與 \"소방관 헌신 존중\"…추미애 '재정 빨대' 발언에 공식 사과",
-        "summary": "",
-        "source": "연합뉴스 한민족센터",
-        "published": "10/16 14:47",
-        "published_ts": 1792129642.0,
-        "tag": null,
-        "first_seen": 1792130438.1676981
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8xcDNfcGtoM1VhcGd1d1lLT2JVcFdPQmd4NWRPa0RQWFJHV1Zid0RSNEFQS2Q3X0NGOG1kRDhYU3lHQnVVbDdnSTl5T2M3M3JrRC1OTg?oc=5",
-        "headline": "\"소방이 빨대\" 추미애, 화재 현장서 \"그 질문 말라\"…소방관은 울었다",
-        "summary": "",
-        "source": "JTBC",
-        "published": "10/16 14:22",
-        "published_ts": 1792128164.0,
-        "tag": null,
-        "first_seen": 1792135827.4688072
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJemRkbnkxWm9hd05mMFktM2tWU1ZIRHM0OVRsVE13Z29KV25JNDJ6eTZlaXJJUlJTR3QtbUxWcTNRTjZad1pXbkdOX05CTjR0UzV4T3dNSm9CanRxV1dZck1JVQ?oc=5",
-        "headline": "‘재정 빨대’ 발언 추미애 지사, 부천 화재 현장서 “용기와 헌신에 감사…치료에 만전”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/16 14:13",
-        "published_ts": 1792127580.0,
-        "tag": null,
-        "first_seen": 1792128629.2752051
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 12:45:53",
+  "updated_at": "2026-10-18 13:01:00",
   "yields": [
     {
       "label": "3년",
