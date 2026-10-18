@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YT29xWHJRbzBHTGdMcHVRdVpidmFrd3EzeEZvNnhQVGZYVzBQQnpsZXZDcUhuckJuRHFfaTdEVmlvNkpNLU1FU1RTeVhWZUJnS2s5aExSYUpCVi1ybVRRWEJvYXRmMFpyQjFUelJFdlp6aVE?oc=5",
+        "headline": "\"코스피 7거래일 21% 급락, 외환위기·금융위기급…원인은 반도체 쏠림\"",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/19 07:43",
+        "published_ts": 1792363432.0,
+        "tag": null,
+        "first_seen": 1792364433.0796304
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yWGswMmlXblFlTTQyWFZFcXlBSG0wbTlBQm5zUnFrSHczb3N5aWFnTlpuend5QVk0bUpZVWxOaEJ1YTJFdHdGaEhEUDg4YXlHX3c?oc=5",
         "headline": "10월들어 20%빠진 코스피 ... 1년후 주가 전망은?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792185584.0,
         "tag": null,
         "first_seen": 1792197926.234382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBkQ1J3LWh5VW1uOUs2RGR0bG9MVVJVcDlpd1NoODl1MWQ5MGl2OUZaTzVJLW1IbzdTdTR3T3NwSzlPdnBnOE4xbzV6ZW82Wm9iT09fQjQxVTlibDRaUlR2cEJUUmdxQ09taTZvU1E3TGk2dw?oc=5",
-        "headline": "국채선물, 유가 급등 속 하락…10년물 33틱↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/17 06:07",
-        "published_ts": 1792184841.0,
-        "tag": null,
-        "first_seen": 1792187122.4694538
       }
     ],
     "perpetual": [
@@ -816,6 +816,16 @@
         "first_seen": 1792363521.9881444
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNM2N6bzgxT3NfejFGdGVWNHcycnF0QzdHMTNNaGxFdHY2X2NMOEdzQW9vUlozbTFZUDFMUGdMcktoVHdhRUZ0YlFUN3ZSNVJhLW1pZDJXd2tQZ19RUURvTjloaUlyVjBqYmI0WWc4SmxuMThnazR6OHVEYTBFNDhIYW9OYW1Zem5UTWc?oc=5",
+        "headline": "한 판이 끝나는 기준은? 바카라 사이트 롤링 진행 규칙",
+        "summary": "",
+        "source": "Calgary Roughnecks",
+        "published": "10/19 03:43",
+        "published_ts": 1792348982.0,
+        "tag": null,
+        "first_seen": 1792364433.0796304
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBCWEtJMUgtRmxULXduMEhZN0lxZkJOS1VKNlV0bHpjWmhLdFpuNFpzTHYzMUJpTW5yLTVXbC1sVkhCZGJXYlFLQUEyVnNNTDBkWW9kcldEV1JUdFlmOUhnLU1yQnZPenJhVDY2UTlxMFUxZFdKM0tWVlBpZmVra00?oc=5",
         "headline": "버튼을 길게 누르는 기능이 있나요? 전화 요금으로 지불하는 모바일 슬롯",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792052465.0,
         "tag": null,
         "first_seen": 1792053029.8274605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RW1iQlFHbTZHLUYwV2hZcGNMVkNELTdiWTZORXBnSl83MXBpWUNRc2FTUVVGVlVsOHpybkl2U1NOdGdjbW1jdU54MEZ3SS1lWHAwclRpTEEtZDZtcnFSeENidjRWMEFfUVUzdDg4d0J3SGM2RTdB0gF3QVVfeXFMT3dFbWJCUUdtNkctRjBXaFlwY0xWQ0QtN2JZNk5FcGdKXzcxcGlZQ1FzYVNRVUZWVWw4enJuSXZTU050Z2NtbWN1TngwRndJLWVYcDByVGlMQS1kNm1ycVJ4Q2J2NFYwQV9RVTN0ODh3QndIYzZFN0E?oc=5",
-        "headline": "금투협 채권포럼 개최…내년 국내 금리 하락 전망 나와",
-        "summary": "",
-        "source": "인사이트코리아",
-        "published": "10/15 16:57",
-        "published_ts": 1792051056.0,
-        "tag": null,
-        "first_seen": 1792055724.538567
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 07:45:46",
+  "updated_at": "2026-10-19 08:00:57",
   "yields": [
     {
       "label": "3년",
