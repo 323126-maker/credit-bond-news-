@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0yWGswMmlXblFlTTQyWFZFcXlBSG0wbTlBQm5zUnFrSHczb3N5aWFnTlpuend5QVk0bUpZVWxOaEJ1YTJFdHdGaEhEUDg4YXlHX3c?oc=5",
+        "headline": "10월들어 20%빠진 코스피 ... 1년후 주가 전망은?",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/19 05:00",
+        "published_ts": 1792353600.0,
+        "tag": null,
+        "first_seen": 1792354521.6627839
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBTOThXUDJ6bjlOU1ZhblJLUy1XNi1GNGFkYjVZRmpCdXhxbzdrajRnbmZoWjdZaUdweFJnZVQ1YnlObnVWdW40b1ZVa3FMZHV3QjZSNHNJU1BlSF9aeU5mUDlTUk13cERUYy1aOVI4LXdJeF9z?oc=5",
+        "headline": "정책·감독·시장 '제각각' 우려⋯위기 대응 시험대 올랐다[금융위 세종행 후폭풍 ①]",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/19 05:00",
+        "published_ts": 1792353600.0,
+        "tag": null,
+        "first_seen": 1792354521.6627839
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53M0Mya0trMEg4TFphcmJYbEsxMzFlYTZXODRwX0pFLWVwUVl1VS1QRnVBeFRGNXB4SlFCRE00cVJ5Ukg5MTBzQ1R0OU5YR1pPdGJHa0V1TGhUZlhOMzl1X0xpVG5acWM?oc=5",
         "headline": "킴벌리클라크, 켄뷰 인수 앞두고 회사채 발행 추진",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792181460.0,
         "tag": null,
         "first_seen": 1792315827.669272
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5JemNicnUtX1VycXlEclBweW0xWTNueWFfSDMwdE5MdHZnZDdZWDY0WTc0NUdfNk8wX0NrVHNWUHVxRnBjZkgtZWVqQmhqTzlabGZOYldiRTVobGZOenFzZ29TUEdnS1pyU2pfc1JrNDlwTEU?oc=5",
-        "headline": "나르샤 토토 주소 포스트 코로나 시대 디자인 패턴: 핵심 개념과 실제 응용",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/17 01:00",
-        "published_ts": 1792166443.0,
-        "tag": null,
-        "first_seen": 1792180838.215766
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfRTVPMUhmNUQtYXRkNnRRT0hHcWJJQmVmR3o0UUswUEdtVVUyUnc0U0VYaEpxVlJrbDNxYmtBMEpvcDZzLW1WZ1pvYjNfbjh6aGdhQU5GWk8xVWNZWjdZdNIBYEFVX3lxTFBfRTVPMUhmNUQtYXRkNnRRT0hHcWJJQmVmR3o0UUswUEdtVVUyUnc0U0VYaEpxVlJrbDNxYmtBMEpvcDZzLW1WZ1pvYjNfbjh6aGdhQU5GWk8xVWNZWjdZdA?oc=5",
-        "headline": "고금리 부채에 흔들리는 코어위브…AI 인프라 붐의 그늘",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/17 00:31",
-        "published_ts": 1792164714.0,
-        "tag": null,
-        "first_seen": 1792168230.7902017
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 05:00:58",
+  "updated_at": "2026-10-19 05:15:46",
   "yields": [
     {
       "label": "3년",
