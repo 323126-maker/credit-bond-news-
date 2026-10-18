@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tRC1NSGhZRTRCWDZJU1ExLXFkbzdYeS1TZzZRNW5nMFdoOW8zLTZPVmtSRVRyTkg0UF9xbXowQkNseE5tbW9BMHJPVUpJb25aX0HSAVNBVV95cUxNcGdnUkJRWEs4Ri02WlVvZG92bVVaQ3lXUXh4V3ZUei1sNlU0MVhmRWJ4d1VLbW95Yk5Kb0VFb3NnV21XUy16RGtQaVUybnBtaGppMA?oc=5",
+        "headline": "[로터리] 금리 인상 후폭풍, 성장엔진 꺼뜨려선 안돼",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/18 18:39",
+        "published_ts": 1792316390.0,
+        "tag": null,
+        "first_seen": 1792319429.4365668
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5EX3U2ZjBySHI5NTJZWDlBc04xUTVDcU5rMmZOeXRKdHpwbUZNZ1dmUVNFdWF6NjQ1bVdXOEp2X3ZROVdXRkdhbVdEX0ZfTkdNQ184bDJfSmY3eEJvY2o2VllLMjE2c1Iya0l1R2dR0gFzQVVfeXFMUElpdHl0WVpGRmFrRmJ5T3hnZkpIYmlkU3lqT2tid0hpX1NiQWVvdTNQMzJNN3FOUjdTVWo0NFZYemhTRExibWF4cW5IbnVGNXVrcGhIZWhxYmhWazVHRDd4TGRtSXF0SldXOU9xbzJfZW0tWQ?oc=5",
         "headline": "급한 불 끈 한은, 10월 기준금리 동결 전망… 긴축 고삐는 내년까지",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792021428.0,
         "tag": null,
         "first_seen": 1792023324.924942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB1emVib2x5OFNlRG4yRjdrZ1ZiVjUxenBsVGhUQUV1bXh4dEVTcC1hU0VlczktaTdVYzlsa0FsbWVPS2NzVWR2NjJwUDdtWTJzTGpjdVZzUVdpZ2NlbXFZOFFpZWRackQ0TEE?oc=5",
-        "headline": "[韓경제 아킬레스건](22) 부동산 PF 부실 : 금융권 전반으로 전이되는 위기",
-        "summary": "",
-        "source": "금융소비자뉴스",
-        "published": "10/15 07:00",
-        "published_ts": 1792015200.0,
-        "tag": null,
-        "first_seen": 1792016123.3747675
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 19:15:49",
+  "updated_at": "2026-10-18 19:31:07",
   "yields": [
     {
       "label": "3년",
