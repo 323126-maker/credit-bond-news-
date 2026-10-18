@@ -1278,6 +1278,16 @@
         "first_seen": 1792251922.5402536
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwT1FCTFF2OU5YZm1oX0pMandKMFVSc2hSX0lTenEzOWNWb1JnVDJSZmVRbHNtcWdmdGNHNmRDUVREVUNmNmJDaG43aTVVZDJl?oc=5",
+        "headline": "[속보] 추미애 “소방관 폄훼 의도 없었다”…‘소방 재정 빨대’ 발언 사과",
+        "summary": "",
+        "source": "문화일보",
+        "published": "10/17 15:21",
+        "published_ts": 1792218084.0,
+        "tag": null,
+        "first_seen": 1792290629.8797772
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5kUUpzZFlwSVRKbE9FRXR0UzQ0d3FORHNTdExRaTkza2NhNEhSQkRxX1JRSWxjUnVubGt2OGlUbFlhWC04VE1KTVlyOERDVkhm?oc=5",
         "headline": "김민석, 추미애 ‘소방 재정 빨대’ 발언에 직접 사과…“秋에도 사과 요청”",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1792127100.0,
         "tag": null,
         "first_seen": 1792128629.2752051
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55Q0hvcmJDWFhGd0wyRzBBZ0VYVXN1WDN2M1ZrQjRvLVNUZ2pMTEtnYm5zd1QwaGdXZm1xdzlJU0tBZXFib3R5aTdDS0ZIMFlUOUxxS005TW93UG9kQzE0WGdRREdFemo2M2xnZ3BmR0o?oc=5",
-        "headline": "부천 소방관 부상…소방노조 “‘재정 빨대 발언’ 명예 훼손”",
-        "summary": "",
-        "source": "인천일보",
-        "published": "10/16 13:52",
-        "published_ts": 1792126320.0,
-        "tag": null,
-        "first_seen": 1792152040.2880514
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQM084MTVrVm9SMElVTE10U2MxOFVuZ2hrTm9ld3pOelBKTVZoMUNIVE1YV1A5VjFXRlFBUGxjSDdfcUdLeHNPSW1lc1NiamVGbkg0SmFrdmRvd19yRndXX0lOZUtnNlZaSmZHS29iQ1FYbnpmVjdvaDg1bjRFWGxncG0tMUdXT1ZiN2ZBMnpOTXhzSjg3eHQw?oc=5",
+        "headline": "Chamath Palihapitiya Warns 6% Bond Yields Could Hurt Businesses - Microsoft (NASDAQ:MSFT)",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "10/18 11:23",
+        "published_ts": 1792290191.0,
+        "tag": "Strategist",
+        "first_seen": 1792290629.8797772
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUzdUcTJVMVRLbmhtcER0Zl9nX0I5UjR3cVlvVXZJUjN4RkJyTHZBMnFRRjlISXg1LXVaa1BQOUZFUS1ERkFCamVhVWIxeTlsTDd3bVA2dnEzdTlVWGdTNmtXcF96Z0ljUlhXWEEwWFhPcXlCOXpGS0U1aU1tWmx2WU1TRF9QQmRr?oc=5",
         "headline": "‘예상보다 물가 오르면 멈출 수 없다’…IMF가 지켜본 일본의 선택",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792209191.0,
         "tag": "Strategist",
         "first_seen": 1792278922.2769015
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaWNBN0djRzd4MDQzQ3lIcWN6ejNMMUthXzNsSF9ZOWE2aHU2a2dlazNJTUZja2Y0cVVsVzlzbVpzNGlzbW1vUm5FNXNVYURMOGNfeEpUbDhSRndray1Kbm5jWjJmWl9Gal9TeVIyZ0NMdHZCVU0wNUwzQnl5MkN0QVVIbFlQUzU1dU5MVkMxUDdZU1NmaFQwWTNkRXpKZ0x5R1JKc1VyY1lIOXY5c1lrSDhZUS1CclBQZEI3M3JCb0Ixb3lHOE9lVm9JLXlCeDgzMF9JNUtHa1VCcUxobF8zclFmNGtiTWxlZWhj?oc=5",
-        "headline": "MRVL Stock Rises Premarket: Marvell Ships Over 5M Photonic Chips Ahead Of S&P 500 Entry",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/17 12:07",
-        "published_ts": 1792206471.0,
-        "tag": "Strategist",
-        "first_seen": 1792276979.2435322
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-18 11:15:49",
+  "updated_at": "2026-10-18 11:31:06",
   "yields": [
     {
       "label": "3년",
