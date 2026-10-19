@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQempPY2g4MkdTdU5TNExpSjViejY2Yk1Cbko2Mk51d2kyTTNXVDBWbzBoNlFaQUluWWs0UmlBekVoTk5ZQUM4dGREemZxYlQyeXMxWG5mOFV4UUg1YVd5VUFoVUZkSDUtcWlTNTctOG4wbnlLVkVaWDctX3ltOERFeGV4SDZOcVQ1V3hCMEI5aF9HN243NUxmVEZJVEtTSE5fOU1sUmxVQkE4bUtiN2QzYzFBOV90RGkwOUxyVTFOc1hKOU82Sjd1Qlk3X1I?oc=5",
+        "headline": "BlackRock says French bond sell-off is a lesson in selectivity, upgrades US Treasuries",
+        "summary": "",
+        "source": "investingLive",
+        "published": "10/20 08:28",
+        "published_ts": 1792452514.0,
+        "tag": "Global",
+        "first_seen": 1792453524.0505242
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHo0aWxKSDJuR3BEU1otTWh6UlR3ODM1OFFIMEQwc1E5YlJHdFp2NHBhWU53TmlaN1JlWFJhdkxsQ2Z4LUotTm1Pb2VsR1RJOGVHYlloR1JZM25Ka0YzTDdZTFZvX1FTT21aY2RVVWlNZ3pqMmJiODVpS0FocnNxNUNFUkVBVTh4UmJwZ2xKbTNkMVkxMkFOckFSMjhub0VPSHlzLUlRX2g0UDk5S1Rz?oc=5",
+        "headline": "Gold prices today, October 20th: Falling as USD stabilizes and US bond yields remain high.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/20 08:07",
+        "published_ts": 1792451270.0,
+        "tag": "Fed",
+        "first_seen": 1792453524.0505242
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYW1hZWVoamx1TEg1OEhleHQ4M3BmWnYwc2tzZ0ltR2lfdTdqZmQzLS1jam9WbEMwaktUZnZwR1NzTkhwVU02RUdaS2dNZXBTaU9hNURvV1NsbVJhZ1pFRnBaVk5obnZISjhkUUprTEc5bUZ3NVRrcktGS0t4bG9VQdIBiAFBVV95cUxQckhXRjNoNFdwMFdUdHFjenYzeEZDNGJnZ1gxRmk5VjZNb3NFaEh1REs1OXdON0VjVHNBU01sQktFT1RJcmJXaVUxaXZKWjBselB6QVlLWmY4N0Q3a0VrUDN5V0dNRjBUQkZCRk5fZG1jOFNuc3piQnlhMlZkSmxuancwNEFWQnRi?oc=5",
         "headline": "Gold flat as international prices slip",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "10/19 21:16",
         "published_ts": 1792412207.0,
         "tag": "Global",
-        "first_seen": 1792413029.9393203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM2QwZnNnY1lqanFraDY2eWZKSjFORmN2c2JHNExtZnREdFpLTThCRzhFSXFkdVFKc1BlMWdxMEZ4YTI3ZndzS0xLdlR1clJrODMyOERFM21rLUVWcmFmV0ZwTXdVNUpMdjE4RHFqRXNrak5tQWhISUN0b2xCZWt1Y3R4RnRDWnNVLWUwU2FJQWFFQkFYTEcxMldOaG5lRGFRcWpWeTZxbUZzREhUdFJ2V1ZZX1J5eWNJcDdpaUJIaDdsQ0Zwa1BZ?oc=5",
-        "headline": "EU says right to peaceful protest 'must be protected' in France",
-        "summary": "",
-        "source": "Barron's",
-        "published": "10/19 21:16",
-        "published_ts": 1792412160.0,
-        "tag": "Strategist",
-        "first_seen": 1792438232.1596942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb1pRMkZ5enloc1RYakVYRElhTmZxd09BbXFpT1Nscy16bmVhMVl2NmZiZm1IOGJiZU5SX1lERlV6aDNaWFEwQV9ER2JFdDhuU2dKcWJ2NFEwMVh3Y1k4bjBFUkVQN1J2ejNTUDdwbU5ZaUw1Ymt4eER6eWxyWVQzV21la2JLUzJMTGU5dHhlaUZrcGZmOUxzWFdOZktVWmRHaEI3S3MxV3UwbVVCS2c?oc=5",
-        "headline": "Another interest rate hike may be ahead as Fed battles inflation",
-        "summary": "",
-        "source": "Scripps News",
-        "published": "10/19 20:57",
-        "published_ts": 1792411024.0,
-        "tag": "Fed",
         "first_seen": 1792413029.9393203
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 08:30:59",
+  "updated_at": "2026-10-20 08:45:50",
   "yields": [
     {
       "label": "3년",
