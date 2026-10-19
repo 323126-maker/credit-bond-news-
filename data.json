@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wZ0NwX0RwRnk5TUs4TG5haWxSNE1jTUJ0dzAzdVoxUlY5dHhmRDZOU3ZwdnNJckgyaEVYQ3RRUE1ub0NwbzJiYkQ1b1F1YnJpTHBwV1RodjRLbkNTRmFIWNIBeEFVX3lxTE5VNjNGWTdLQy1hT1BMSmRnSmlfcDhKV3dacFBIV1lDZGw4WC1QNXFCM0VjYlk1MV9kQ0hGek5INmFyRjBfVzhoZG5uaDRMUDUtekUtM1RRVGN3bXNNS19TblhPX0l5bG1BME5kSWlMQ1RTQ0V6WW1xNw?oc=5",
+        "headline": "日증시, AI 투자 불안에 혼조 마감…닛케이 0.62%↓",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/19 17:38",
+        "published_ts": 1792399103.0,
+        "tag": null,
+        "first_seen": 1792400435.902984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9kakRqRGQ2X1E2akx4b3ZxR3NRNDdFSHpDaGg3V1RDYUc1cXhROUZHQUhPd3A0MGx1aTNDZ3ljbTlmLTlSbWp3NEdIS04yQWgtQ1ZLVkpoZDF1SmxOSFlxWHd4a0Qwb1FGbXNLR3JaWWjSAXRBVV95cUxQMmhPSlJfUFlJOER5MlloYm5LNHZ5by1oS3lHSGswWEFSM0JsR2VkOVNkOURibTVFQmd3d2VtS2NYdEVGSXhKTUZuZTE4alViQWNUeHlHVzk1ekNtU1c4UlVSQmoxYVRpMmpsVnFaQUtSSmpPTw?oc=5",
         "headline": "달러-원, 1,330.30원에 서울장 마감…2년만 최저 종가 경신",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792312001.0,
         "tag": null,
         "first_seen": 1792355427.9079707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOU1NRNUxCRHowcUlIWUplTHVjdkxIN2J3elNvcl9pYTBQMVlCSUdackZpSGtIOFRvSGVVZllYR1RfbXRtNHh6aV9SNTRISnZSZFFBVm1HaDkyWjRTNjIxU3MtaHZQbERIOW03c2lOem9NVFp5OGF4WC1wbGh0bmlpSmwwR3NPcWtyOXJwSGRyV2NzNHQxNkFMLW5lSTB4T2x3TkdBbzlR?oc=5",
-        "headline": "애니메이션이 끝나야 조작할 수 있나요? 포커 토너먼트 합법",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/18 16:34",
-        "published_ts": 1792308859.0,
-        "tag": null,
-        "first_seen": 1792356321.288874
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMGJ6empTam92RzdaSjdCdVF0T2hGTHVQd194alBOWGRHSGwtVmUyMy1VWnFtVHNUSTBPYkMwZHR3a1J6ZGJ4Q2JOWGhmOFg3VEFrcDZDQ0NrU1hha2ktSzNpQXF0ZzFfbklvcGhLVXFkYTVTNTFxeG5VR0lINHQ1NF8xLTk3ZTQ5ak56enpxTTNiLW5JU0NFSi02ejcySWI4WjB5UEdCb0ZlWVZ6eFVCN3Rja1FzOVJRLUhj0gHDAUFVX3lxTFBYOVIyQmQ2ZWp0LVcwRzdmSk1SZzFWMkxQQnVQUzI0czZFMXVEU1Ewa0hBLXRaZGFyVG9GaGtGVHA5ZlFQeEpZcXhYLTNTRm54TmRnZHRXSmNGTWI0YVVWUmxYbWI3emhxd1VhRHRUSmY5bHZwZi1VUzRONGVucDkxVmpZZC04T3pVNHFoUVU5M2hCSTJhMlc5T3VoTFA5NkEwUlc4ZmtkU0xKa1Z1UmRxM3BUUXBWbDFwVkNkeDJqTEc2aw?oc=5",
+        "headline": "Indonesia's Stock Market Selloff Deepens With Officials Set For MSCI Meeting",
+        "summary": "",
+        "source": "NDTV Profit",
+        "published": "10/19 17:45",
+        "published_ts": 1792399527.0,
+        "tag": "Global",
+        "first_seen": 1792400435.902984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUjZpVlpmM3N2YU1BRngtSmVMdGdCSmx5eGJwUFZTMkxpODVaNEhsQTNLYnpxcm16c3hmRlJ4MHJub0xXVlZVNU14a29KNEZyRUV3b0FGUjdXNHhtbmVDeC1icTZsSTNkMU4zazhId3ZkaC04YUdDS3pXQzhPUTVLb21FcXpDR3I1V1ZnUTloQ3pwaFNHZ1UzQ0RLb3p2Y29oaFNrWHNGa2RCTlhNS2NJRzRnSTNhRDBy?oc=5",
         "headline": "3 Words From Fed Chair Kevin Warsh Suggest the Worst Is Yet to Come for Wall Street",
         "summary": "",
@@ -1890,6 +1900,16 @@
         "first_seen": 1792379725.0478125
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56a1ppUUxsdThXYXAtQWZvZVRTRWtvT09ESGxCdEJoZVc4UktQSlR6a0sza1RmWUNZLVhHbG8xelRKZFVIbHFOempGcllJeW5QUHRSMFFMRQ?oc=5",
+        "headline": "\"Accepting High Interest Rates of Over 10%\" Fear of 'AI Debt Investment' Fueled by Semiconductor Battle, Overlapping Financial Crisis Signs Amid High Interest and Securitization",
+        "summary": "",
+        "source": "https://economy.ac/",
+        "published": "10/19 10:40",
+        "published_ts": 1792374045.0,
+        "tag": "Global",
+        "first_seen": 1792400435.902984
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVhZSFlrdlp5VnhIckFQeFpiYUQyOXYxMUFMR1RydzhHNmJxSHBKY1RSOHRuTy1QdFpHZjhEV0h2dGFKYkxpRWFXVDJ0MVc0Q2ZkY25oTzJrNnJUdk5Gd1hMLUlrc0dWQXVnU0tGSGFCQ2NmZUZpV3dZNUFWVktkTzhUTk5hMUxWQVI1b3V1UGluUDFNVGxKSnhybFp4VllDUzZEdU41OTJUVFd2U3ZjREdldjVNNkg4VUI3d0ZB?oc=5",
         "headline": "도박 최대판돈|불법도박 처벌 기준",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792369745.0,
         "tag": "JGB",
         "first_seen": 1792380631.512118
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCNjlNM3RxM3hXbzVFSFJrSDJqXy04eWxYam5BVEdsR1Z4MFo4MFp5VS1lRXY1b0cyd09PX21SZVlZa000VHd1YlQ4Slk5anJHazh2YjhmMFktS1ZkVDdPX0FSdVVVX1F4Z2J1S2VRYllnajlkX0E?oc=5",
-        "headline": "US Treasuries' Safe-Haven Role Returns as Cracks in AI Trade Put Shorts Under Pressure to Cover",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/19 09:25",
-        "published_ts": 1792369500.0,
-        "tag": "Fed",
-        "first_seen": 1792371634.1419735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOGFzak9tXzI0enVTeFN4and6X1JEd0xmdjBfd3VKX09DRFZEUXlkYTBoR1FIS2xtVXA0NUx0SFhleDAxa0gyTTBHUzJPUGJDNzRhOWxvckFjMUxFalZyTWVzZHNnWVV6VTI2WnI4TGY0QkwzS3NjMzcyQUkxVU5TQ2hWQUVuMFNMcTV1T0kxZmpyMmNXN2RGWmR6RUFnWXZFQ2M5S0pMX1JpbE0?oc=5",
-        "headline": "바카라 피규어 소개 이미지에서 확인할 요소",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 09:19",
-        "published_ts": 1792369172.0,
-        "tag": "JGB",
-        "first_seen": 1792398630.2326043
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 17:45:49",
+  "updated_at": "2026-10-19 18:01:03",
   "yields": [
     {
       "label": "3년",
