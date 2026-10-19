@@ -1620,6 +1620,16 @@
         "first_seen": 1792449927.054621
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBDc25YWE85aFM4SGNjbWF6VlRVSERkZ3VJb0E4VGJiSWZqMUpWbjlSYml2M1U3ZlZTbXZxdF9rZU5va3l0cWc?oc=5",
+        "headline": "주가 32% 뛰었는데 월급은 1% 늘었다…1년 성적표 완전히 엇갈린 다카이치",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/20 06:12",
+        "published_ts": 1792444345.0,
+        "tag": "JGB",
+        "first_seen": 1792450837.724558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGFncXJHNHVKZzJsYnBvaTJXVHJGOExqWHBqYlRxejZPVjJENjlfWWR2WVhpUVd0QTJfSFBiYkxPN3RJT1ZCOUptS3ZRaFRPNGhrZVRJcWZjNmd3SHl1WU1mWjYwdWctRWdJT3pNcmdLemk5UjNWSGNYdUdMcnpXN0ZMZXdXdTVRN1phMzlQLVVpUEVxTHo4MFhyLW1HVlZiMmh3SExsV1Y3dFJwLVNWeGltMHVVTXNrX2FMaDUzd3hLWlJxQzJwNHVoYXlpcnhJ?oc=5",
         "headline": "Morgan Stanley IM says bond yields are rising for the right reasons, favours US and Japan",
         "summary": "",
@@ -1830,6 +1840,16 @@
         "first_seen": 1792424724.2263548
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPX29UNTNOWklWY2lXMjJjMDFRMzFQTFF4RXhNMUxseDlDdFBoYzFTRHlkaldkazVDeTA4MlBDWnZGSER0a2Z0cXF3bGl4a3FTZkU1WlE3dUR2eW9DSG52ak55azFILTJ2bkhuXzl6RzdCdjk3eTRFdjdXdzhPM3lpRl9DY1Q0LTF0Z3cwbVlmdkxsRnBQLUxOaWd6aXFoXzM4ZHpGVUhzdTNoSHBaMGo1dFk5ZFVuY3Iw?oc=5",
+        "headline": "A Firmer Fed",
+        "summary": "",
+        "source": "Morgan Stanley",
+        "published": "10/19 23:49",
+        "published_ts": 1792421397.0,
+        "tag": "Global",
+        "first_seen": 1792450837.724558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOenl1LTdaeGtqQThSNkpReFJFR0w3OVlJMlI1WlgxZlViY3lmb0czcnBjSFNYRi1feFUtM3NmN0lVMU10VzNQUmVZaUZSU3RpNG5UZzV0TUloOUkzRkFvU2JCRzNSSUxXcldHWTM1NlZXNVBjV2tCY1BlSFBvbThEUnhucXQ1Rk55a25KTV9lT3Z1Sl94aHJHaVViUWZ2RVU?oc=5",
         "headline": "The U.S. national debt is approaching the point where bond traders see ‘mounting risk’ of a ‘vicious cycle,’ Moody’s top economist says",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792411024.0,
         "tag": "Fed",
         "first_seen": 1792413029.9393203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb0ZaS3F2eEZTYmpvTUJBVWxtZXpDZVpfU3d1QjVuWHk3Z1lac0M5STh3dlAwZ1NvaGtoNW1wLW9Vc3JrQXlNdUQ2T0tDMUFId25XREt4RE03OWNTTnJBeXhXWUpnTHJudWFIX3pVOVFNY3BaVGRCQXhhMl9CRnllRTRIUVl3MG1WRHVzQklmbVkwaTMya3c?oc=5",
-        "headline": "Recent crypto IPOs have been a wipeout for most investors. Will the next wave be better?",
-        "summary": "",
-        "source": "Fortune",
-        "published": "10/19 20:53",
-        "published_ts": 1792410780.0,
-        "tag": "Strategist",
-        "first_seen": 1792412124.033892
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2FNLUx5UWVFVFdjRXR0b2EzS2NISG9nVWpUSFZZdjBzZVlvY3dQVWl1cUVOWENWM3Q4MWhVTTE3RzJiekZadm56MmMyRENsS09kQUJmRUpQdmstbmlUdm1KbXNwaUhIbzBILXhINVNRcHBVT2szaVlpYTQ4dmxhZjNNeEJwUQ?oc=5",
-        "headline": "Japan’s Bond Yields Fell As US Tech Took A Breather",
-        "summary": "",
-        "source": "Finimize",
-        "published": "10/19 20:50",
-        "published_ts": 1792410603.0,
-        "tag": "JGB",
-        "first_seen": 1792421125.6000319
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 07:45:52",
+  "updated_at": "2026-10-20 08:01:03",
   "yields": [
     {
       "label": "3년",
