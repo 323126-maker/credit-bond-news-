@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOU29RQjRYZmRQelA5RVlmSDVnbk1VX3BheXUwczZ0NWkwVmpEUFNWR2ZaZTllRm0wR2J5ZjFzWElJME9zVF81OFhoWG43SWlPWHE2LWpuREtJS21GRGVVRUM5NTJaSVNSajZtY0EzOHI1Q1J3RGl0MFdiQWx1cjAyZF92M183NFF4c21WaTctSml1S2lGRU9VNFBfLWZKY01RVWc3WU5OMXZFaWk3dW9lUThDRS1jLWRJZC1Lb2ZEV0dwaXhfN05WR0NhclpVWnlMSXl2RXFOcHVxTFA3VmV4a2RIRFkyNWxjWWtGeUdTMG1QdnNXN3F0b0tYQmZxWmJXOWpOREdyRmRaVHdielE?oc=5",
+        "headline": "J.P. Morgan Releases 2027 Long-Term Capital Market Assumptions Projecting 7.0% Return for 60/40 Portfolio Over 10-15 Years",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/20 01:00",
+        "published_ts": 1792425600.0,
+        "tag": "Global",
+        "first_seen": 1792427433.0271175
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVNfUkZFYVFHRk1oZWZqSzlkdFI2b194T1dnMGgzbmdraE1rM29KdWgzUG84NExVWnFCM2gwM09rS3hudU1IeEhFaDZsX1UzR3BtQzRacy1PS1phQXNhTS1KNlpuN2dtU2J1THlOY1V3OUpoS3g3OC1lcjliaUJvVzlxVzczRG5mVmM4OHRybFZZajJrcmtJWQ?oc=5",
         "headline": "The AI trade is at a 'critical' crossroads as rising rates threaten a capex slowdown, AllianceBernstein says",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792399527.0,
         "tag": "Global",
         "first_seen": 1792400435.902984
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWt4Mkl4UGctc0RQMU1NMEtqcW5BVkJmcEFieURuOXRVcVdzTVAxb3N6QWlndTlRaVEtMGJWQzJ2NlVSTjAxV2JoN1lWT08zc3c3RDdTNHI0QlZlUzdacENLQVlWRHc2TnBKSF9wUHZVUXpONzdVUUpKUUxKcEJJRUp5U1Y5OTg1dDNnNVBUX0VOQQ?oc=5",
-        "headline": "3 Words From Fed Chair Kevin Warsh Suggest the Worst Is Yet to Come for Wall Street",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/19 17:26",
-        "published_ts": 1792398362.0,
-        "tag": "Fed",
-        "first_seen": 1792425640.2065418
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 01:15:48",
+  "updated_at": "2026-10-20 01:30:59",
   "yields": [
     {
       "label": "3년",
