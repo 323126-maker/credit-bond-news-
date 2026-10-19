@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1LZThtSTcxUFlKS1RxblFHM0puWHhVakdmZnUteWNOZVBzNkRSNUxSRE9Sd29pRTBGTW5lZWJuVHdPZWZhaGYteERqN1VEN3MweFlxTkZybzVHSTZHOC03Y25CNlp5azcta0R6Q0xpdGhhZw?oc=5",
+        "headline": "[하나증권] 국내주식 입고 이벤트 / ‘국민성장펀드’ 판매 / 블루포인트파트너스와 혁신기업 지원 / 3억달러 외화 신종자본증권 / 연 5.7% 발행어음 특판",
+        "summary": "",
+        "source": "웹이코노미",
+        "published": "10/20 02:18",
+        "published_ts": 1792430290.0,
+        "tag": null,
+        "first_seen": 1792431922.22894
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2X093VjdidGlnc1VwbFlhdDdQbE1oZXZzbXlaUlZ2ZWo5cVlWNU1PbHBzdUZPbzdMTjQ5QlU0V2h3Y0txUEs0MU5YR3NMelh2SEVjZldNZEhrMllCZFZkMUlGN0R6NmFtSFQwWDhXbFF2Z9IBckFVX3lxTFB2X093VjdidGlnc1VwbFlhdDdQbE1oZXZzbXlaUlZ2ZWo5cVlWNU1PbHBzdUZPbzdMTjQ5QlU0V2h3Y0txUEs0MU5YR3NMelh2SEVjZldNZEhrMllCZFZkMUlGN0R6NmFtSFQwWDhXbFF2Zw?oc=5",
         "headline": "하나금융, 최대 4000억 신종자본증권 발행…'차환' 방점",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792131008.0,
         "tag": null,
         "first_seen": 1792314035.7295096
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5mcF9fdkFjTnNMd0RXV1FIODBpcU80WXJ3VWVWRXlyUHI4dHJZdEFsbl8xMEMwMk1mc2NIWFlnWGdYTVNVNjBhN1JWN184Z0k?oc=5",
-        "headline": "하나금융, 회사채 시장 연내 재방문…한투·한양 대표주관",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "10/16 11:38",
-        "published_ts": 1792118309.0,
-        "tag": null,
-        "first_seen": 1792216837.7426016
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 02:30:55",
+  "updated_at": "2026-10-20 02:45:46",
   "yields": [
     {
       "label": "3년",
