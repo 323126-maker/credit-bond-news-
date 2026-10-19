@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB2X093VjdidGlnc1VwbFlhdDdQbE1oZXZzbXlaUlZ2ZWo5cVlWNU1PbHBzdUZPbzdMTjQ5QlU0V2h3Y0txUEs0MU5YR3NMelh2SEVjZldNZEhrMllCZFZkMUlGN0R6NmFtSFQwWDhXbFF2Z9IBckFVX3lxTFB2X093VjdidGlnc1VwbFlhdDdQbE1oZXZzbXlaUlZ2ZWo5cVlWNU1PbHBzdUZPbzdMTjQ5QlU0V2h3Y0txUEs0MU5YR3NMelh2SEVjZldNZEhrMllCZFZkMUlGN0R6NmFtSFQwWDhXbFF2Zw?oc=5",
+        "headline": "하나금융, 최대 4000억 신종자본증권 발행…'차환' 방점",
+        "summary": "",
+        "source": "팝콘뉴스",
+        "published": "10/19 19:06",
+        "published_ts": 1792404402.0,
+        "tag": null,
+        "first_seen": 1792411239.210545
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uX1ZlSmcwS1pfUFBobnI2YW5QMmVuRUg4ZE5ldkktdHloSm52WnNrMXE3NV9kNHFOdGtYS0tQUWxoZTZVU05hQUFteFJuRXNOcXplWnIwQ3Zsb3h3QjdnRDFyUGpqQ2t4WFBFNk1sdUFSQWRZOGR5aVRsNA?oc=5",
         "headline": "[DCM] 하나금융, 2700억 신종자본증권 발행…이익 늘어도 건전성 지표 촉각",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792097468.0,
         "tag": null,
         "first_seen": 1792296926.2397265
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNb3hNWC1vRk9sNlBuNExnR05JNGw4YkxIN01fZmFQaURVMUxidXc1eGV4cVdEVUk3Zng0ZW5vNWRhN19qTmJxRUNjRl9VRFNUN2ZnSnpodVg0Y0Eyc0UzNDNoS0k1LVFSWmdJeEtlaDU4Z3RBQ1V0Vkc3emZNVGo1N3diV1ZGRnl2ZG5XSGpBZ3piNHkwUkhQXzdDMDdFQkhVQkpBTmpLVmE3RC1nbmc?oc=5",
-        "headline": "앤트로픽 신용등급 공개: 투기 등급 중 최고인 BB+ 획득, 투자 적격 등급까지 한 단계 차이",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/16 02:02",
-        "published_ts": 1792083720.0,
-        "tag": null,
-        "first_seen": 1792266322.2449963
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 20:45:47",
+  "updated_at": "2026-10-19 21:01:00",
   "yields": [
     {
       "label": "3년",
