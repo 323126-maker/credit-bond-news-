@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QRWVhTEZTbE5FSjktU3p2QklGd2dRcW1mdnZ0aEkxRC1JeXpnTEt3NWIzTldpTmJUVlJQZWVhbWI5Tk00TjR1LUY5ZGg0YUxfRGdMN0pCSzFiTFhNMUJwUUJJelpMWUk3RDg3M1Q0M1Q?oc=5",
+        "headline": "미국 기술주 급락에 국채 '안전자산' 부활 조짐… 비트코인 수급 시험대",
+        "summary": "",
+        "source": "블록체인투데이",
+        "published": "10/19 08:48",
+        "published_ts": 1792367322.0,
+        "tag": null,
+        "first_seen": 1792368035.618465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBIQUtGV3d2ZVlnMEZWLURsNUdhakZwNmpMeUtPTkxFNE1RYnFyb080NktyM0JRM1JHM2t5a3VMS2hKN2JvU1pYaXBnYVRNdWsxT1hTTG51V2psem5PSHU3clotZnhLQWxEQ3B2OF94NU0?oc=5",
         "headline": "[인사이트] AI 투자 확대에 채권시장 흔들린다…중앙은행도 금융위험 경고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792195200.0,
         "tag": null,
         "first_seen": 1792197926.234382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9xcjZnVFpobFJYYm43WWVCejR4blgwZEk5bDhPTEhVX3Y1blVjVklZTjYzb2xOd215ZHVfbjNRZWEzVDlubWdwVk1pZlZBMVgxY01VY0tlemFicDlkY1BnalpBbDNzUUZZdTlF0gFvQVVfeXFMT3pXd2w4WTE5UWE2Smh2WXdWbzY5RENzWWdFdFY4M0UxVjc4aVgyU3ZVN28zNFdrZDFZU2FjZ3BoemZJRlQxOWpPMWFEd2dXS3p2cC1IWkNrTFhZVnBMclp2SU5ncm9HVzJ1S2pmRFd3?oc=5",
-        "headline": "뉴욕증시, AI 신용위험 재부각·헤지펀드 매도에 급락 마감",
-        "summary": "",
-        "source": "글로벌E",
-        "published": "10/17 07:44",
-        "published_ts": 1792190676.0,
-        "tag": null,
-        "first_seen": 1792191636.267024
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPREhDWC00MVloSzQ4QWFaYzl1MTdFTG1fRURVRmZzZF8yTms3MGpaYkhYSWd6Z2V6U1U2a1pNVDVKRl80OHdZY0YxSklldWVPR1g0YklVTGQ1MVhNdDJlUXh4dDNsQm1TQnBrMkp5NV9CTzlnS2VEeGR2a3V0bFhNNVBRejRlZlVRUE9sSUtEakxmMUlyQlQzdEYyanI1WXJaVjV2WXFUQjd1Tm9NR29tZUJCMWRGZw?oc=5",
+        "headline": "Gold Edges Higher as Traders Ease Rate-Hike Bets on Warsh Speech",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/19 08:47",
+        "published_ts": 1792367263.0,
+        "tag": "Fed",
+        "first_seen": 1792368035.618465
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdWRvTHdEbjh2b2xmT281bkVPeG5IWlJPMUZGZ2IxaWh3WW5kYS14ZTQ5b1JGcndYcVdlWU95OXpOeUM2TGVveWhEakRfa3BBQUxnNTB0RjdiOERuVkxOVWhKdm0tVDZYa3hkVnB5eUlGV29TSFVPdmlvd0hOV0VVbTQwRXFGVFNKVU5rVjBQMm11WHEyYUN0bkVkN2E?oc=5",
         "headline": "Partner Insight: Fixed Income - Looking beyond the familiar",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792308713.0,
         "tag": "Global",
         "first_seen": 1792356321.288874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE10elgyaWhfT3I0YzlFVkYtQy1Qa0ZxWDNPRU0yaDdXZkcwUUlwOU5QZHRGM08wdWkzYnFIQUlHSjVZUHdKUVE1ajFkbG9LWHdoYVZ4NDJGcF9YMUNNeXh6N3lWbUp2bDQ?oc=5",
-        "headline": "‘AI 거품론’에 국채 오르고 달러 내렸다…‘안전자산’ 달러, 이번엔 왜?",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/18 15:57",
-        "published_ts": 1792306620.0,
-        "tag": "JGB",
-        "first_seen": 1792307724.4786286
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 08:45:44",
+  "updated_at": "2026-10-19 09:00:59",
   "yields": [
     {
       "label": "3년",
