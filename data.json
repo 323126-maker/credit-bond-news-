@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYW1hZWVoamx1TEg1OEhleHQ4M3BmWnYwc2tzZ0ltR2lfdTdqZmQzLS1jam9WbEMwaktUZnZwR1NzTkhwVU02RUdaS2dNZXBTaU9hNURvV1NsbVJhZ1pFRnBaVk5obnZISjhkUUprTEc5bUZ3NVRrcktGS0t4bG9VQdIBiAFBVV95cUxQckhXRjNoNFdwMFdUdHFjenYzeEZDNGJnZ1gxRmk5VjZNb3NFaEh1REs1OXdON0VjVHNBU01sQktFT1RJcmJXaVUxaXZKWjBselB6QVlLWmY4N0Q3a0VrUDN5V0dNRjBUQkZCRk5fZG1jOFNuc3piQnlhMlZkSmxuancwNEFWQnRi?oc=5",
+        "headline": "Gold flat as international prices slip",
+        "summary": "",
+        "source": "The Express Tribune",
+        "published": "10/20 07:03",
+        "published_ts": 1792447435.0,
+        "tag": "Fed",
+        "first_seen": 1792449927.054621
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGFncXJHNHVKZzJsYnBvaTJXVHJGOExqWHBqYlRxejZPVjJENjlfWWR2WVhpUVd0QTJfSFBiYkxPN3RJT1ZCOUptS3ZRaFRPNGhrZVRJcWZjNmd3SHl1WU1mWjYwdWctRWdJT3pNcmdLemk5UjNWSGNYdUdMcnpXN0ZMZXdXdTVRN1phMzlQLVVpUEVxTHo4MFhyLW1HVlZiMmh3SExsV1Y3dFJwLVNWeGltMHVVTXNrX2FMaDUzd3hLWlJxQzJwNHVoYXlpcnhJ?oc=5",
         "headline": "Morgan Stanley IM says bond yields are rising for the right reasons, favours US and Japan",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792410603.0,
         "tag": "JGB",
         "first_seen": 1792421125.6000319
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMzBVQ2Q5NE5xbnZNV294LUpQZGhfSTBrMEdFa0VybjNBNTlZLUlLb1ozZjIxVllLcHBIazdBMEJvbjNjc3VwZmI4VTdBZ2ViUllFVFlFY3o2enh3bkpKSXlWTWN1c2V2V3laZ2s2YS01UTNIS2xhdXkzYjBUbVJTd0VEckY0eEVEelJOaTY3LXNYc0daYmcxLW9Helh0eFFLeVJ0RXZhRzB4UdIBrwFBVV95cUxOTWVtWGcySXNEMWpIQ1czX1dSbmJJZnZLaU1WYTd3U0Q4M1QwWTNQaTdFVTRNMXVkSXZ4QzJzcklPVFAzejl3RUxQckVkVGh3WkxNWTZ5YUFDYmNkTDAzV081N2lTaXIxTDZ3eXloVV9uSC02RVBab3V3cWgybkgzYnplV2FPNklucFphQUNHMXpJVS1fSHVqUTNkbnpJVU5iVTB3ZG11V290X3JZQVRZ?oc=5",
-        "headline": "Credit stress is threatening to unwind the AI bull. All eyes are on Oracle to hold the line",
-        "summary": "",
-        "source": "CNBC",
-        "published": "10/19 20:49",
-        "published_ts": 1792410583.0,
-        "tag": "Global",
-        "first_seen": 1792422923.9101684
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 07:31:13",
+  "updated_at": "2026-10-20 07:45:52",
   "yields": [
     {
       "label": "3년",
