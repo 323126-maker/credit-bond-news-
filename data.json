@@ -1610,6 +1610,46 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWDdrS3hJQmFYZUdpbFVNQ3g1d3pOMXFQd0pPc00ybTh5MFU4aEtvQTZwbkROeVdxWkowNFhRMk9OUV90R1duNERsVDFfWnZBN1l2NXJhd3RQcVpvaTNURlNTMXIzekdyOTlZV2hZVU1tbUNtdmQ2THVkVGpoT1UwRDBJUmZjdkk?oc=5",
+        "headline": "What if the bond market has outgrown the Fed?",
+        "summary": "",
+        "source": "American Banker",
+        "published": "10/19 19:05",
+        "published_ts": 1792404300.0,
+        "tag": "Fed",
+        "first_seen": 1792404923.4278758
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPa09oOEZVUlk2bHlBWXZDbXg2bUJwS3FkMjN0QnUyNWxCdWJUallCR1k4Rm1YaHd1Z2k0dFdNZGFxRjZ0TEhFS2FNZTEzUjBicFlGWW53Y19NU2haUk04WXdtV3dJMmxSQXN5NndYenNLcF9fR3ZEWXF1TVNJQ3RqUVEzUkRLNklGSkF6NFNB?oc=5",
+        "headline": "Japan Post Insurance Is Finally Buying Shorter-Term JGBs",
+        "summary": "",
+        "source": "Finimize",
+        "published": "10/19 19:04",
+        "published_ts": 1792404262.0,
+        "tag": "JGB",
+        "first_seen": 1792404923.4278758
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVEs1dFpfbVZPYmVrVmx4TVczQWpZcEpUalY5SHlGOWRDaVNha2xwNXlTeUZuOHF3WmJIbFVGc0NiUk5pZGVPTy1ReUI0MUV3SElvSEFPSDFfazBHVFpEVmEzVkxyUDVCMzVQbG11QXNHX0NKU1BMU0pzdWZVa1RzWVl0ZVlHeldiRVpv?oc=5",
+        "headline": "Market Minute: Financial conditions and the Fed’s work",
+        "summary": "",
+        "source": "The Real Economy Blog",
+        "published": "10/19 19:00",
+        "published_ts": 1792404056.0,
+        "tag": "Fed",
+        "first_seen": 1792404923.4278758
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWRMSHlENEFINEFodzB5V3ZoUldQdTA4cDNwc01uN3pMM0l4ZElWSVVfS0V1RmpfUnltSWVkTnFJRG4wazNLOGJzdHZDUEVXQU5RTlZrM1BaSVY4Q1N4N2ZZT2lHbjVTbzRhQXNablJ6R2VURi1vTnJOdExWYjJ4V3VVazRnbGN1M1gzMVBBS1NvcWVUczY5ZDVZRkp4SEU2MXFqMzQ4TGRBNXRpUk1VTlRuLVJUbzd5YXZFWGMzaXnSAcYBQVVfeXFMTWR5Nl9Fd1F6OTZKRjBhekNZNndRN09wYmZRMDJjeEpnaUZXYlhUTzY5MFhkaGlSOG84b3FNdzgzNGxpd2NXeHM5V2tfZWxGVDFBME5YSFpKQ2lBZ0pPV1F3N3F6Y2EwcUZic3Y4R1U5T2JvYmVuTlNSOTN3VHA3cTZyTS1GV1lNZDRFZmtGbFQwX3MtcFlHeVBUU0Z3dGJpNWFtRTBEMHhNVWFsOWFjLVNYd2M5Zk94YmJSM1h0d04wdGtpekZB?oc=5",
+        "headline": "IMF Warns: AI Sell-Off, Bond Yields Could Rattle Markets",
+        "summary": "",
+        "source": "Business Today",
+        "published": "10/19 18:54",
+        "published_ts": 1792403661.0,
+        "tag": "Global",
+        "first_seen": 1792404923.4278758
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPZXJYZWo3RFRHYzFxZUdGTFZqLVpZRjR1akJfVUVweW5UTDVhLXNmcHlKN0hvNTQ5MGl5TTJsd1VlX2VyQlEwU2kzNjR6NjdHQUdNMjE1MG5xX3JmTUdEOUNieHJxMkNtRy1XZTdIekY4U0FOS3U2TlZwYUtBd3NYcU9pbDNaYktvWE1R?oc=5",
         "headline": "The Market Has Found Its Pain Threshold: Goldman Sachs Sees Higher Yields Starting to Crack the Weakest Links",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1792375604.0,
         "tag": "Fed",
         "first_seen": 1792387828.9871116
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQ1FUb0VZNnVtMmVoeHNlLTFsM3RrRW5pdm5LdDdVZVIxbHpGT1RCcWppM2s0Ukt1eW5qN3hxS2tnbEx0Nm1YdHJ5bWlTMm9QQUFpTUlvZkhNcGtQeS16amx3V284M05jTUpaRGp0bVp3eDZ6ME9hSGN1SWRmQ3pUY3FjMVA?oc=5",
-        "headline": "Gold rises as Warsh remarks curb Fed hike bets",
-        "summary": "",
-        "source": "Yahoo Finance UK",
-        "published": "10/19 10:42",
-        "published_ts": 1792374120.0,
-        "tag": "Fed",
-        "first_seen": 1792379725.0478125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56a1ppUUxsdThXYXAtQWZvZVRTRWtvT09ESGxCdEJoZVc4UktQSlR6a0sza1RmWUNZLVhHbG8xelRKZFVIbHFOempGcllJeW5QUHRSMFFMRQ?oc=5",
-        "headline": "\"Accepting High Interest Rates of Over 10%\" Fear of 'AI Debt Investment' Fueled by Semiconductor Battle, Overlapping Financial Crisis Signs Amid High Interest and Securitization",
-        "summary": "",
-        "source": "https://economy.ac/",
-        "published": "10/19 10:40",
-        "published_ts": 1792374045.0,
-        "tag": "Global",
-        "first_seen": 1792400435.902984
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcVhZSFlrdlp5VnhIckFQeFpiYUQyOXYxMUFMR1RydzhHNmJxSHBKY1RSOHRuTy1QdFpHZjhEV0h2dGFKYkxpRWFXVDJ0MVc0Q2ZkY25oTzJrNnJUdk5Gd1hMLUlrc0dWQXVnU0tGSGFCQ2NmZUZpV3dZNUFWVktkTzhUTk5hMUxWQVI1b3V1UGluUDFNVGxKSnhybFp4VllDUzZEdU41OTJUVFd2U3ZjREdldjVNNkg4VUI3d0ZB?oc=5",
-        "headline": "도박 최대판돈|불법도박 처벌 기준",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 10:28",
-        "published_ts": 1792373322.0,
-        "tag": "Strategist",
-        "first_seen": 1792386034.4127936
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE03MTk4UVN5LWgwNVI0XzViakgxYjdCOWNrMXVZUGpRRE9ZU1dneWxCcUFtblhtemZYWUVnRDEyVHdPYXZBRzQtckM1eWk5N1JQeUdfVjZ6ci11YjkydVNnQjBycVJmTURHa0l0NEF5a25nUQ?oc=5",
-        "headline": "게임 정보에서 달라진 부분을 찾는 5드래곤 슬롯 업데이트 읽기",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 10:21",
-        "published_ts": 1792372889.0,
-        "tag": "JGB",
-        "first_seen": 1792381521.4310658
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 19:01:03",
+  "updated_at": "2026-10-19 19:15:49",
   "yields": [
     {
       "label": "3년",
