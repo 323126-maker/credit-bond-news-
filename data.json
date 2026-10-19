@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVb2d5UmxtZW80c0ozQ0pOQmR5MzY5T1NFeV82cUxMTW5vS3VKb0Jxb3ViWDhvN0RRTHBnMGRmZnBTWUxuUDhjUFRRZnZ6aGVvTndVbHVYUlI3UQ?oc=5",
+        "headline": "美증시,AI관련 주식 저가 매수에 나스닥 반등",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/19 23:13",
+        "published_ts": 1792419183.0,
+        "tag": null,
+        "first_seen": 1792420229.1027694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oTDdCMFFiT3B6Wm54dEtob3g5VkF5UjBTOHFEUW9GNWV5TVlRWUdEWmFJVkZJZ0pTSTdja0JtbVpJUkRDMWNPQm5UQ2ZPZVJGRi0wcWt0akF4b2lIallZMlg1MzNFWTVYdmg2MFVQNTM?oc=5",
         "headline": "FirstEnergy Pennsylvania, 채권 교환 제안 기한 10월 31일로 연장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792353600.0,
         "tag": null,
         "first_seen": 1792354521.6627839
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1tM0lYOHQ0cXRndEZweW5Qcmp6WVdsWUhlNUtMNnNtSWZaZWM2aTd6S1VraFctWnFyNFFlRmNRUUc0cElJQ0hQNE5zcjZ2ZkhEYm8wUXVIazdzQTZqTlUyamxIOUxsZi1rUkFqdWMtSjkyOC1u?oc=5",
-        "headline": "보너스가 없는 구성도 있을까? 전동기 슬롯 유형 설명",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 03:09",
-        "published_ts": 1792346969.0,
-        "tag": null,
-        "first_seen": 1792370724.3120599
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-19 23:15:53",
+  "updated_at": "2026-10-19 23:30:53",
   "yields": [
     {
       "label": "3년",
