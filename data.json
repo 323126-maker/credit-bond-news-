@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbVNfUkZFYVFHRk1oZWZqSzlkdFI2b194T1dnMGgzbmdraE1rM29KdWgzUG84NExVWnFCM2gwM09rS3hudU1IeEhFaDZsX1UzR3BtQzRacy1PS1phQXNhTS1KNlpuN2dtU2J1THlOY1V3OUpoS3g3OC1lcjliaUJvVzlxVzczRG5mVmM4OHRybFZZajJrcmtJWQ?oc=5",
+        "headline": "The AI trade is at a 'critical' crossroads as rising rates threaten a capex slowdown, AllianceBernstein says",
+        "summary": "",
+        "source": "Business Insider",
+        "published": "10/20 00:52",
+        "published_ts": 1792425120.0,
+        "tag": "Global",
+        "first_seen": 1792425640.2065418
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDbUZfaFhHSUZCWXRaQmRZdktGTnlHek45X3dLMWxBWVZrMXRGYk1YYWxIcGdyankyQnZrdEdXTVQtcjk0U2ZpSDZxWXoyVzhhaUp2SWhGYTY?oc=5",
         "headline": "Markets expect steady Fed policy as French debt spread nears 150 basis points",
         "summary": "",
@@ -1990,24 +2000,14 @@
         "first_seen": 1792400435.902984
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5XT1c4bTVVcWtWYUdwdmFwZFk4TzJwRUFqMFJOeWVWWTlKOWVWUVAzRU5vVmU4X2Vxc2FHTEhtY3JNM1pkRmc?oc=5",
-        "headline": "닛케이 1년간 32% 급등… 엔저·재정 부담은 '뇌관'",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOWt4Mkl4UGctc0RQMU1NMEtqcW5BVkJmcEFieURuOXRVcVdzTVAxb3N6QWlndTlRaVEtMGJWQzJ2NlVSTjAxV2JoN1lWT08zc3c3RDdTNHI0QlZlUzdacENLQVlWRHc2TnBKSF9wUHZVUXpONzdVUUpKUUxKcEJJRUp5U1Y5OTg1dDNnNVBUX0VOQQ?oc=5",
+        "headline": "3 Words From Fed Chair Kevin Warsh Suggest the Worst Is Yet to Come for Wall Street",
         "summary": "",
-        "source": "매일경제",
-        "published": "10/19 17:23",
-        "published_ts": 1792398181.0,
-        "tag": "JGB",
-        "first_seen": 1792402230.0704827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWldQM1VDTjFCMS1NUW9HN05UMF9qLXd4c0Fic2JjNzRqQm5tQmVTWjlhSGxNX2dSQ0ExenZ6eHhSNzZhN0R0RlVKNjFwQlpLcTJ3dmgtLWUzSzBnUWRkN0JhVHRxMnJwY2RieXJIOE9qbi1RZWZPRDhOdHJzaUczZURXUHhvWTM1dzgw?oc=5",
-        "headline": "Eurozone yields firm as French unrest widens spread risk",
-        "summary": "",
-        "source": "Yahoo Finance Australia",
-        "published": "10/19 17:18",
-        "published_ts": 1792397894.0,
-        "tag": "Global",
-        "first_seen": 1792402230.0704827
+        "source": "Yahoo Finance",
+        "published": "10/19 17:26",
+        "published_ts": 1792398362.0,
+        "tag": "Fed",
+        "first_seen": 1792425640.2065418
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 00:45:48",
+  "updated_at": "2026-10-20 01:01:16",
   "yields": [
     {
       "label": "3년",
