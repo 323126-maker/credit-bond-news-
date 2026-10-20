@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3NUFLU0FNWExkcENfclVic2pObVJPekwxVG1kZzYtMi1rZFlISHlxaEVKZUV6dWZ0cVBFaUQ4LUwwbjZwbTVxODhlSmF4V2tZV3JkdWJERlRzWThhdmJTM1NDSm0wUGFwb0kxLUlfNnI?oc=5",
+        "headline": "베선트 \"프랑스 채권시장 혼란, 전이되진 않을 것\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/21 02:10",
+        "published_ts": 1792516242.0,
+        "tag": null,
+        "first_seen": 1792521031.1203256
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAwMXBzbXNZY0RmTlM3OWJmN2tERDBSMkRsQzR4VTBDaHVQaDUtaEVteUhxNVZoQUwxVFdCVXZMeGxkZVlsYUpiNGdkcGY4Y0dhVm9uTnI1cG5tQQ?oc=5",
         "headline": "AI 탄광의 카나리아는 어디?[박신영의 개장전 요것만]",
         "summary": "",
@@ -302,6 +312,16 @@
         "first_seen": 1792481431.8091874
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBSeHFCMzN0Q0lIb0JIWkRBWTRad0FSTmZtSnJrVkYxQ3lFWHZJcmk2VjhfaUJ0SzRWS3RuUUt5NDZQbzhod1BweEhEQWt2ZmNacW1FLS1MQ2x6NWQ5MHlSX1N3OS1uNm1a0gFuQVVfeXFMT0N6VHRDRVgtX0dwYmNvbWdXZVpIS3JmRUJXNEhoSy1zUWNBMDFBODB4NjJJd3AtMmZfSXk3RnBiTi1Raml3b1JoVGg2ZDFPWFFDZG03T0VuM3BzeXBqdjkzUWl2VXV5c013UldBQ1E?oc=5",
+        "headline": "채권시장 종사자 93% \"10월 한은 금통위, 기준금리 동결할 것\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/20 14:34",
+        "published_ts": 1792474486.0,
+        "tag": null,
+        "first_seen": 1792521031.1203256
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG01eWZGX2Q3Y2hXcl9zY3p1RFZ5Yk9QM2l2Y005ajlOQnZSeXJ2OFVNWnF4aVVRcEMxYVZ2MU1kMHVhSDdJMURPLVE0TGo2ZXJHY2tVTGM5QURUR1JnNndmYjF1dXlMWWJieWpUYWpaNmc2OTNaS2VraE10Ylk3cjlSSlp4MDVzMUE?oc=5",
         "headline": "높은 금리, 기업 채권 발행 둔화.",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792463493.0,
         "tag": null,
         "first_seen": 1792466122.5179853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zaWxPR2hKQkF5Z0RwU3JWTmg5QWRiN08yNmpJVkw4bWFMVmhUUFBnVXJVa3JibHVPYWFHUGt0ZzZYYWhJVDcwQXljRWZrY190OTA0UmtHRkVKNGVf?oc=5",
-        "headline": "롯데카드, 자동차 할부채권으로 첫 유동화…1670억원 조달",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/20 11:12",
-        "published_ts": 1792462320.0,
-        "tag": null,
-        "first_seen": 1792467921.8017452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9CdzgtRjdpc2hXM2U0cWlqZEdzT21OSGI2QTc2YzM1WGo4cFZ1NDlSbXFvQWxmNUlOLVNHWWxFRS14ckRCTlVCQXFSMG9KZ0hWd1BOUVNtalPSAVhBVV95cUxPQnc4LUY3aXNoVzNlNHFpamRHc09tTkhiNkE3NmMzNVhqOHBWdTQ5Um1xb0FsZjVJTi1TR1lsRUUteHJEQk5VQkFxUjBvSmdIVndQTlFTbWpT?oc=5",
-        "headline": "중앙일보 우선협상자 선정…JTBC 매각 공고는 다음 달로",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/20 11:04",
-        "published_ts": 1792461852.0,
-        "tag": null,
-        "first_seen": 1792468836.3896704
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 03:15:52",
+  "updated_at": "2026-10-21 03:30:56",
   "yields": [
     {
       "label": "3년",
