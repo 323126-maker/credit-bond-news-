@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBnYjJtbXMxVU5FbGJzZk5tdy1zWS1tTHF2MzJJTHRaNVBqOEpNaGRLb2RjYnhNLVpzLVhrVjZ1aDBPYVE3NDdxZmJibFBQUlJNczMyUg?oc=5",
+        "headline": "Japan 20-Year Bond Auction Draws Record 5.84 Times Demand as Yield Spike Lures Buyers",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "10/20 13:01",
+        "published_ts": 1792468892.0,
+        "tag": "JGB",
+        "first_seen": 1792469722.991327
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93TlQtQl9mN2VROWRZclF6UG5QbXF1TkNYRkZFSGJMTlF2czI3RXNqZjBGSWgza1d1eGNhTGdoal85eUV2cFZhdThIakhoM0VV?oc=5",
+        "headline": "日 20년물 국채 입찰 수요 역대 최대…금리 급등에 매수세 몰려",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "10/20 13:01",
+        "published_ts": 1792468862.0,
+        "tag": "JGB",
+        "first_seen": 1792469722.991327
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQaEI1dlpjODVfRmlQVDdaQVlUa0tyRVBFUTNwbVhNanJKZXFveW50RlJLQ2gxbE5vTFk4aXVUTHNNVnNHUUdfSnNqMktla3VWY05IVDUyeVI4ajVVVFBMLWVNRllvRDY1MmNIRWtRTWZqSlBCMnJGN3B3el9nbTlCcEs1N0FIdGlhUWtkbHJR?oc=5",
         "headline": "Takaichi Denies Role in Weak Yen, Rising Yields",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792429320.0,
         "tag": "Strategist",
         "first_seen": 1792460722.5333834
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLW9OUS1KZXgzamNlYW45Q0hQQ3NCT3pUNW1wa1kweVh4a05KbkdrZFlaQTVVNDZVd3NfaGFHajNFNGlFVnVmS3dDcWhiLS1FV3pyWmVnTXFZdXlwSjF5eC1CREJ4Wm0yWV95RlpTdjFGVFZmV18tazJJdmxUdVhEcDlvMVU4RU9lX0ZkRGFrSnBualBwWG5kMVlMcUJjZERfRng2ZF9XaFJ5cWltNDUyUGlqRXdMT2p0QVVSX2ZlZkhQMzJKOFQ1czEtMA?oc=5",
-        "headline": "Elevated Yields Reshape the Global Bond Market as Borrowing Costs Challenge the World Economy",
-        "summary": "",
-        "source": "Arab Times Kuwait News",
-        "published": "10/20 01:50",
-        "published_ts": 1792428627.0,
-        "tag": "Global",
-        "first_seen": 1792429237.0929477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEJkempwWElibnZjandiaVlwVFpsZUNzVDFWSnIwcFRRdFNRTnowZERYOTVxUXdxYmZSZlJpV0lsM2xqUW5tNExnelp1djVramN0d182U2NwV0pSYjlRRTVQeXFrTURqbnlhVGU1LWo1MnFlSmY4U2JXVHh2ZDFaZQ?oc=5",
-        "headline": "Bond Yields Hit Multi-Decade Highs - October 2026 Trends",
-        "summary": "",
-        "source": "J.P. Morgan",
-        "published": "10/20 01:28",
-        "published_ts": 1792427283.0,
-        "tag": "JGB",
-        "first_seen": 1792431031.0897508
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 13:00:58",
+  "updated_at": "2026-10-20 13:15:46",
   "yields": [
     {
       "label": "3년",
