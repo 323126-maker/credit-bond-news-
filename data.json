@@ -414,6 +414,16 @@
         "first_seen": 1792484122.6866298
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1teEoxVjNnamJONnRRQWVTdnVOSURieEdMOFlLeHN1d2laVW9VZDRpR0FyRWtXeHJuM19VRkhFTWhzZ1gzVXRZV054Q1JwZw?oc=5",
+        "headline": "'빚 갚을 시간' 내년 보험사 갚아야 할 채권만 5.7조원",
+        "summary": "",
+        "source": "전자신문",
+        "published": "10/20 15:00",
+        "published_ts": 1792476000.0,
+        "tag": null,
+        "first_seen": 1792488630.8923616
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWM21PQ1puR09rT2I0SHJLcWxPVTB2cml5OEdLTEkta3NEVVpqWURmcW9qU0xkVDJ4Vk1qSEtieC1icE9kOUcwRTZwNFloU240NmxxVnZLREJITkpvWko4by1YQU9tNVh1WGZTMjNhYw?oc=5",
         "headline": "금융권, 신종자본증권 발행 러시…목적은 ‘제각각’",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792247403.0,
         "tag": null,
         "first_seen": 1792277122.8633978
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhSGwtRDREOGppbTlKVm5taVlFVzZMcXp5RHd4UWIyMFJFWHpjZXlkRHA2NU9NX2dYb1Y3WG5wdHhDMUNRdV9uREN3dms2UC1m?oc=5",
-        "headline": "앤트로픽, 350억달러 칩 금융 후순위채에 BB+ 등급",
-        "summary": "",
-        "source": "토큰포스트",
-        "published": "10/17 23:13",
-        "published_ts": 1792246427.0,
-        "tag": null,
-        "first_seen": 1792301428.0197177
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUmlmenlmM3JudFpGNW05aml6Y0lUZEhYWXVPcktVVmZkNHY5ME83WFFWOHdZNHphUWtoQ1hZTTN1anhvTmVkOTRkRjB4czlSZFdfT0NOdUtrZ3pOQ180SW9HUkMxbmVRRldmQzVPVk5BcHhIQVNRZ3NOeWhORGIwTEY4c0NpejA3OEFkYjg4bThRd0RSeWR1Z1RLNkdGUl9XbGxIdE5DOFhoRmdfdGFOcGhJWlJmWjc4TVNR?oc=5",
+        "headline": "Cathie Wood’s Dip Buying Fails to Stem Decline as CoreWeave Falls Below $60: Where Is the Next Support Level?",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "10/20 18:04",
+        "published_ts": 1792487063.0,
+        "tag": "Global",
+        "first_seen": 1792488630.8923616
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdXR3M2JtMS05NXU4ZDZfTHBKT1k3dEtERnBkQWN6bDFxalgtaHMyVmtMYjZBR1BjMDhQUDlZREdiTUhMaWMxaGttZU1WcGRiS0ROMk1rV2ZuTFZqVndRalFrMXNtY1BWcE5PU29Pd1ljcHpseDJTRzVaLURBbll3WDVCZ0p5clNuX19F?oc=5",
         "headline": "Bond Yields Are on Fire—and the ‘Bond Vigilantes’ Are Behind It",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792456516.0,
         "tag": "Strategist",
         "first_seen": 1792461560.6551402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYzBVblc3TmFZc1RrbUJFS0JnYVpDdl9uSzNtWlEzcEhkSXo4T1RkalBvdVpFbVdDZTZEeDZENzk3SjNSNGkwVUVLejhuSUkzdkVSMmVBQUFlaWNVUG1KN0xIMF9BSEZZNE9TZ3VtakRYYTBJRHA0OXpvcFh4UEhNS2VobTJ4Z3YwTDNlNGlaNDhRTmdkaHBYbFlxQUdObnBCSDVzc2xsYWVHa2stc2dPdjE1anItTzQ1NjM4?oc=5",
-        "headline": "Ray Dalio Cautions US Treasury Selloff Is ‘Far From Over’",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/20 09:17",
-        "published_ts": 1792455474.0,
-        "tag": "Strategist",
-        "first_seen": 1792462524.684945
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 18:23:32",
+  "updated_at": "2026-10-20 18:30:54",
   "yields": [
     {
       "label": "3년",
