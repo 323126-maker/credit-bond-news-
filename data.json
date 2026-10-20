@@ -62,6 +62,16 @@
         "first_seen": 1792476038.4197493
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UEhfRjBYVERsMU5yZE5MR29ZVDNDR05uYjU4d2V5TWItRGFCMzNNVU5CYlY0YlpteVc3UXJjQVlEeEtQWk0xcl9tTnZaUUtCczFuei1HZGNlWlNpQU8tVDdwNDBLSGJHcWc?oc=5",
+        "headline": "중앙일보 인수 우협에 다우키움·CJ…신세계도 합류",
+        "summary": "",
+        "source": "대한데일리",
+        "published": "10/20 14:46",
+        "published_ts": 1792475197.0,
+        "tag": null,
+        "first_seen": 1792481431.8091874
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOG01eWZGX2Q3Y2hXcl9zY3p1RFZ5Yk9QM2l2Y005ajlOQnZSeXJ2OFVNWnF4aVVRcEMxYVZ2MU1kMHVhSDdJMURPLVE0TGo2ZXJHY2tVTGM5QURUR1JnNndmYjF1dXlMWWJieWpUYWpaNmc2OTNaS2VraE10Ylk3cjlSSlp4MDVzMUE?oc=5",
         "headline": "높은 금리, 기업 채권 발행 둔화.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792446060.0,
         "tag": null,
         "first_seen": 1792460722.5333834
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VM0tGc25EUXFudk52MndTa1ctalJtVUNPc2tZdDlGMk96SG1NMXBQX3FJLTdyazRFX0ljdm1ZMklwT0pXZW5pUFZDZ3FKM01UY29XdXZQQ3dYaEd3RU1NVFhUQXJnZm0zNk05d3dGRmxOdw?oc=5",
-        "headline": "[뉴욕마켓워치] 프랑스 소요 사태에 쏠린 시선…채권↓달러↑주식 혼조",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/20 06:18",
-        "published_ts": 1792444695.0,
-        "tag": null,
-        "first_seen": 1792446323.5832865
       }
     ],
     "perpetual": [
@@ -2000,14 +2000,14 @@
         "first_seen": 1792466122.5179853
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbVpDMmVwVGZkbHFmMVNJam9XNkVBN3FTbGdVbElSUXpfN1BQa3l2SWY4U0FUYUx2YXNjZWM3bFM1a2VDQkdZZEFmUkhRb0Z4TEFCSjZfRFEwaUNRUE9QOHhTSmdyS1ZFaXlxcHBYWkQ5Wk01Z1VHQVhWWXBXUEtVaGxSS3JXRWVLUHZGZjlHRmlBV19RVm5aU3g2SnltNk5DbzgtU2g2c24xWlZua2NPbmdQSTRacDBBWEE?oc=5",
-        "headline": "스파이크의 게임 영상 릴 수와 행 수를 읽는 법",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQLXhkNzBvTlRjYXVQQU83V0daU1BIQ0RwR1FmXzhMclJYbEhzMlBYVW83MmpMTkQ2aVRJMVllZGJNZG5LblV6dFItdWg3NmNRVm5rTlNYQ0hfSmtkTHVRNU5ma196UmdBS0VQMlFDZjFRR29qaldwbDdZODlyeTNoVjFyTzBiSWhqQ04tLVpjRGw5NkJtVDNYRlhUNUtyblJaQkhiTHdOVFhzd2dESy1PeFhtYkJPcGtkUE5MbWk5NXB3eGMtanhUSDljZGYxQQ?oc=5",
+        "headline": "확률 수치를 단기 결과로 읽으면 안 되는 이유, 데블스 플랜 주사위 포커",
         "summary": "",
         "source": "Calgary Roughnecks",
-        "published": "10/20 07:06",
-        "published_ts": 1792447575.0,
+        "published": "10/20 07:24",
+        "published_ts": 1792448654.0,
         "tag": "JGB",
-        "first_seen": 1792470629.4423752
+        "first_seen": 1792481431.8091874
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 16:24:52",
+  "updated_at": "2026-10-20 16:30:54",
   "yields": [
     {
       "label": "3년",
-      "value": 3.877,
-      "chg_bp": 2.3,
+      "value": 3.84,
+      "chg_bp": -3.7,
       "series": [
-        4.053,
         4.063,
         4.035,
         4.056,
@@ -2439,15 +2438,15 @@
         3.883,
         3.867,
         3.854,
-        3.877
+        3.877,
+        3.84
       ]
     },
     {
       "label": "5년",
-      "value": 4.014,
-      "chg_bp": 2.6,
+      "value": 3.99,
+      "chg_bp": -2.4,
       "series": [
-        4.288,
         4.262,
         4.225,
         4.275,
@@ -2466,15 +2465,15 @@
         4.047,
         4.007,
         3.988,
-        4.014
+        4.014,
+        3.99
       ]
     },
     {
       "label": "10년",
-      "value": 4.205,
-      "chg_bp": 2.3,
+      "value": 4.176,
+      "chg_bp": -2.9,
       "series": [
-        4.547,
         4.506,
         4.466,
         4.457,
@@ -2493,15 +2492,15 @@
         4.261,
         4.193,
         4.182,
-        4.205
+        4.205,
+        4.176
       ]
     },
     {
       "label": "20년",
-      "value": 4.214,
-      "chg_bp": 0.8,
+      "value": 4.179,
+      "chg_bp": -3.5,
       "series": [
-        4.542,
         4.496,
         4.48,
         4.473,
@@ -2520,15 +2519,15 @@
         4.296,
         4.237,
         4.206,
-        4.214
+        4.214,
+        4.179
       ]
     },
     {
       "label": "30년",
-      "value": 4.276,
-      "chg_bp": 0.9,
+      "value": 4.264,
+      "chg_bp": -1.2,
       "series": [
-        4.692,
         4.607,
         4.573,
         4.597,
@@ -2547,7 +2546,8 @@
         4.338,
         4.289,
         4.267,
-        4.276
+        4.276,
+        4.264
       ]
     }
   ]
