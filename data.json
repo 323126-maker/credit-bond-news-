@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zeVFFcTc5UGszRm5FbHNERkNuRGNtRkVLNE9ZUV9nbnd3bzdKbl9ROW9zTzFsWjQ4YTZtUFNxWTFzemIwYnAyeldKLXZYeXRzcG5FbHVXdjR4ZDNFUm80dzhjcw?oc=5",
+        "headline": "英 FT \"사모펀드들, 일본에 이어 차세대 개척지로 한국 주목\"",
+        "summary": "",
+        "source": "더구루",
+        "published": "10/20 15:27",
+        "published_ts": 1792477653.0,
+        "tag": null,
+        "first_seen": 1792478721.6814895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacTFjUlNqZGVaMG9FbnZPaHJ6Wk5Rc1c4M2JRRHduN0RWcDl1VUhfaXhtT0lrUW1Tblh3QWNjZTFYOEVxU0trakVlRWRNcGtNV09BT1c4RndCdw?oc=5",
         "headline": "\"하이일드 총수익률 20여년 내 최고 수준\"…베어링운용, 우량 크레딧 선별 강조",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792429756.0,
         "tag": null,
         "first_seen": 1792439123.1949518
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVb2d5UmxtZW80c0ozQ0pOQmR5MzY5T1NFeV82cUxMTW5vS3VKb0Jxb3ViWDhvN0RRTHBnMGRmZnBTWUxuUDhjUFRRZnZ6aGVvTndVbHVYUlI3UQ?oc=5",
-        "headline": "美증시,AI관련 주식 저가 매수에 나스닥 반등",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/19 23:13",
-        "published_ts": 1792419183.0,
-        "tag": null,
-        "first_seen": 1792420229.1027694
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5U1A1VURoaUk0cldlQkZvUVdQM3FVRV93YjExaTg4ZWlYMW1CRE1nbHZxLUsyRTVscTJmRWFjNm95UE5ocnpwTVJhVXlOeHVQeHJOQS1IX0o4Rk4xbXpTVw?oc=5",
+        "headline": "[올댓차이나] 인민은행, 익일물 금리를 핵심 정책금리로 전환 추진",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/20 15:37",
+        "published_ts": 1792478245.0,
+        "tag": "JGB",
+        "first_seen": 1792478721.6814895
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb2xzNk1BWVJ1VzBCTGRSblA5X25NMG9JRlpSZF9tM0pzVG9ZcmJBV3d6dDl1bnh1VDFuamgtWmUzQ0J6cFpWc3VVVjRUUGl2WGt3VDFSc0dNQWc0dlhVUDBvZWxxYzdnSWs3U1gtdERkYmVZak5UNEJqU21LdGFxTWR4TTkydXFjSWpIRmxlNnVEN2VwZGdBc1RrU3o?oc=5",
+        "headline": "Yen jumps after JGB auction draws big demand, euro finds relief",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/20 15:24",
+        "published_ts": 1792477440.0,
+        "tag": "JGB",
+        "first_seen": 1792478721.6814895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9KRTA1V2FnVGd1aklhaGdhOGE3WU1zQWNNN1JqV1VMeGR4LUhCWUNtODgzaVpGNko2ME92bUJBYUVsSDNHb3ZPeHk0bHJKdGxWUHUzd3JaSHo4NUxJQlZHak1vTjdYcjBBX3RXeg?oc=5",
         "headline": "빚더미 앉은 美, 佛보다 버티는 비결…\"세계가 찾는 美국채의 힘\"",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1792477154.0,
         "tag": "Strategist",
         "first_seen": 1792477831.3951056
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUU9LWUptWnJlbmhrNkkxVlYtNC14MmsxUC1yVVZGeUgxSl9QRjNWX2FrbzFQQXU5Sl8tUzc2RXVGZlYyRjZscHg0TkVmc0ZmcWNSbUQ2RHpJeWZueWpYeUdyUnp2VUJrSWdaV1Y2ZGxSUEZHN0xkNlY4TWJfemdJckExd3dCSDk3RExUYTBzbUhIekdNbWhQRGVoOE50SWRPRTA3SHdSWDFsbll3VHNWMXJFQzZGZXlhWFgyX2NIeHZVMWs0WmM2cdIBzgFBVV95cUxPZEhMUjA1UktESHhBRnFXODN6UGhKejBmbG5qLUpYaC1ITlBRX0lpaXZsWWJhQTk3M1hQVXhxNEJ4SzI4NHR6RUZVeWdIeS1RNUZhaWN6Uk1YODRDZGp2X1dUNUI5SEFGOXBlVHlMcW82UVNQT2l0NHVmOFlnaWdnMDRLbkVIOV9sTWRYdmxFd0w2NzM3czRMMG1Vb1l2YmMtMHVrUFFhVlZYeVBEM1R1Y0hJVUl4RGhyRUE0OHRrWm40WlA0TjFHdGF1VU40Zw?oc=5",
+        "headline": "ROI-Markets' squeal is music to Fed ears — but still too faint: Mike Dolan",
+        "summary": "",
+        "source": "Devdiscourse",
+        "published": "10/20 15:00",
+        "published_ts": 1792476029.0,
+        "tag": "Global",
+        "first_seen": 1792478721.6814895
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtSUxCNFdqbGxQbzZLcWlmUURpSnI1QV9hUWNUV1M3dnpmc3M0S1lJQy11TW02U1JvME5pemhMcWJGRUlqcjlNSzRudEdoRzE0UmZEVHlrcG5YcTTSAWBBVV95cUxQYm9Ib2p0QkQ1RjI5TUM2SkhzZ19lV09Iblc5UTBFbVhMUWxtWG85dkJKR09QU3FYSy1pNGtLVWlrZnZ2TzFWamw2bjBDU1p6NTZqLTRvc1VWdWd5TWRVa0k?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1792444332.0,
         "tag": "Global",
         "first_seen": 1792463431.6386049
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZWt5VGxxQjZDaURYVGNBaWptSVFmek1oRHpXeWVfOTlHQkg1S2lvc0Vvb1NQMmhxSEg2WW5hMFo2UmhQNFBaY25TcFN3MXhoT21Ba3ZVYkVjS1JyMGJmUlFZdE8zekZNOU4xdW0zUF9idW1ERW9Yc1BjbWR3WnVwdkUtQ3U2Xzk1TnNXLTlfZWJLeU1xSURGdW1Qa253QzRjRHdmTzhUcU1XSGFoQVIwcnlGb21GSndvZGxxZUpJeERlVTgzZzAzMjNTYlMtUEJZaE9UOHpSVHZzYlM5?oc=5",
-        "headline": "언어를 바꾸면 달라지는 토토 크리스마스 이벤트 메뉴 표현",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/20 05:56",
-        "published_ts": 1792443397.0,
-        "tag": "JGB",
-        "first_seen": 1792463431.6386049
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGFncXJHNHVKZzJsYnBvaTJXVHJGOExqWHBqYlRxejZPVjJENjlfWWR2WVhpUVd0QTJfSFBiYkxPN3RJT1ZCOUptS3ZRaFRPNGhrZVRJcWZjNmd3SHl1WU1mWjYwdWctRWdJT3pNcmdLemk5UjNWSGNYdUdMcnpXN0ZMZXdXdTVRN1phMzlQLVVpUEVxTHo4MFhyLW1HVlZiMmh3SExsV1Y3dFJwLVNWeGltMHVVTXNrX2FMaDUzd3hLWlJxQzJwNHVoYXlpcnhJ?oc=5",
-        "headline": "Morgan Stanley IM says bond yields are rising for the right reasons, favours US and Japan",
-        "summary": "",
-        "source": "investingLive",
-        "published": "10/20 05:53",
-        "published_ts": 1792443189.0,
-        "tag": "JGB",
-        "first_seen": 1792445430.5231235
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE41bkFPN3JVM3JFUzlkSGNrSUVkdkdLbWxpQWdsRlhVdjR5QnNSR2FsVGJoUHZHbk9iajVzOWszR2xYb1Z6bndQdmFrSVZEd1ZQb2pabUZtRWJoY0RRN3VHTXZuamxybG9sUGpRWWtR?oc=5",
-        "headline": "임형도의 경제노트 (56회)",
-        "summary": "",
-        "source": "OBS경인TV",
-        "published": "10/20 05:47",
-        "published_ts": 1792442862.0,
-        "tag": "JGB",
-        "first_seen": 1792476038.4197493
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 15:30:53",
+  "updated_at": "2026-10-20 15:45:46",
   "yields": [
     {
       "label": "3년",
