@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11UTRkeUFaTHRMXzRVSUlfby05ZWEyb2wwNnlXYWptb3ctRzFQRjA4MnNRaEwzYmZJQlFRWEZzZmxDVm1jZUQzdG5TMHplMXg3eXk1U3NfSEwzdTdxbHc?oc=5",
+        "headline": "\"내년 크레딧 투자환경 개선…금리 변동성은 여전\"",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "10/20 09:16",
+        "published_ts": 1792455360.0,
+        "tag": null,
+        "first_seen": 1792456229.8329065
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVUJpOVlsUnhnZzJtdGo3Z2d3bVRaSDQ5NGRVQnBiV1VpSVExaE5zQXZ4a25lY1VnZjhxY1RWMnpQUWZ1TVh2bzA3eEFOQ0R2OXZITGZuaGNjbXFjVkZYb19fZE5LZjM2cUNNUkJ6cEdMdw?oc=5",
         "headline": "오라클 회사채 '정크' 추락 위기 두고 갑론을박",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792372679.0,
         "tag": null,
         "first_seen": 1792373428.6854403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVGkwS1l3MHNjbGpvem5oUm8tR1ZWZVF3N3R4eGx2N0Y5eDU3Q0ZKS3l1aHVNQkxkVjNrbWV1MEswWGdwOWhadlh2cHlZOU1fZHlkcFNTTDlOWWFULU9TbjduOUFJQ09iODdETzMzSFctbnI3aW9zeE9EM0l2M3lqc9IBgAFBVV95cUxPVGkwS1l3MHNjbGpvem5oUm8tR1ZWZVF3N3R4eGx2N0Y5eDU3Q0ZKS3l1aHVNQkxkVjNrbWV1MEswWGdwOWhadlh2cHlZOU1fZHlkcFNTTDlOWWFULU9TbjduOUFJQ09iODdETzMzSFctbnI3aW9zeE9EM0l2M3lqcw?oc=5",
-        "headline": "증시에 쏟아붓고 채권 보유기준은 '106조' 펑크 … 국채 금리 끌어올려 전국민 이자 폭탄",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "10/19 10:15",
-        "published_ts": 1792372559.0,
-        "tag": null,
-        "first_seen": 1792397721.8389862
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,26 @@
         "first_seen": 1792453524.0505242
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX1JDVUw2MjdNeS1Vb0Y2ZlpEN0Z0SlJBd0Fsd0NNcm92dzR1ZUdxbUdtVGZKMG1YQUNmNkF6RGxqbmJmMi1BSWpkSlpsQmlzSjFOQ3ZheThCR2l4UXRMRWduTDhNRzh1N0x0RVNoTkUtczNLS1BZdTJqUkJDQ1VjM1o0dUEteEdJVWpHYXBzdWdxVGVZTTZMdmFiTVFHbDU0MjNpTEdoOEljUlI2OHBlVE1SMDBFOEV1Sm56VS1xWU1MYm9NZFpkU2FtSERZVnNxMFZNdS1sYnhPU2xx?oc=5",
+        "headline": "Are bond market entry conditions more attractive than they have been in years?",
+        "summary": "",
+        "source": "Investment Executive",
+        "published": "10/20 08:25",
+        "published_ts": 1792452312.0,
+        "tag": "Global",
+        "first_seen": 1792456229.8329065
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYldvTnJIWi02SjVPQ3A5bnRzdm8tSHo0eWpxQmYxVlV0QzR1TnNoSUlwLUdSM1kxcEs0NzI4Ml9rUU9qX1VJTGdsOVdDTVZ6UjNDRzliZFpuRnFFUURxSEYxZnY3c2xaWmFLaWRhZXdQQzJoUkF4TFQ3UEx5cFVPc2lHVjhTSHQ3MTJZVzVxbHdEQkJKSUE?oc=5",
+        "headline": "Fed chief still 'scarred' by 2008 crisis",
+        "summary": "",
+        "source": "Bangkok Post",
+        "published": "10/20 08:09",
+        "published_ts": 1792451340.0,
+        "tag": "Fed",
+        "first_seen": 1792456229.8329065
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeHo0aWxKSDJuR3BEU1otTWh6UlR3ODM1OFFIMEQwc1E5YlJHdFp2NHBhWU53TmlaN1JlWFJhdkxsQ2Z4LUotTm1Pb2VsR1RJOGVHYlloR1JZM25Ka0YzTDdZTFZvX1FTT21aY2RVVWlNZ3pqMmJiODVpS0FocnNxNUNFUkVBVTh4UmJwZ2xKbTNkMVkxMkFOckFSMjhub0VPSHlzLUlRX2g0UDk5S1Rz?oc=5",
         "headline": "Gold prices today, October 20th: Falling as USD stabilizes and US bond yields remain high.",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792413053.0,
         "tag": "Global",
         "first_seen": 1792438232.1596942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRDJtZEd2bGFGTlJUeUZBSmFkZEx5YUxCOEJKMzNsUTQ0Ui1zM0FqWV9CZy1IWmNGS1J5azItUldpOEZGd240VFQzbVozNkUyWkZnaWI4eFJaazg1RzdoN1ZidVpBbnN6Q1VGRXd5cEtvaUhOZm9NVTNfNTdSV0NHMnZzelRDNVViRVZXNGtaRdIBlAFBVV95cUxQc2tNcExjNDZNSlladWxMUHJCUUtGcHBmR3ZjUERManBBQjVSWXN6dzUzUXFPMmoxbnZHSjhtWTViSVFYVlpHSzdKWm42NFNlSzJMTXZQa2IwUHBZZTJyZnZvek9sRmI1aXFuUmt4YzRKQzkzUVo1R002THNnYnlQWUxEZnh4TDU3UkUxeUZVVXJLTmJh?oc=5",
-        "headline": "AI Bonds Could Push Treasury Yields Higher",
-        "summary": "",
-        "source": "ETF Trends",
-        "published": "10/19 21:30",
-        "published_ts": 1792413035.0,
-        "tag": "Global",
-        "first_seen": 1792417525.4611263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaFAtWFZTNnJaUnRmOFdXVzNoUGRTQk5ueWdabXo1Z3R6cGdkY3NqeTZKLUpBQVF0eFo0UkY0Znp4UG80SHFmendGb1haSFNVeEMyRWFMbEU4Q0dobFgwMmtCLWFsbkd2X1dWbE9tNkpsQ3ZaNkZhc05NbFNLLVZZMGNwcUcxSUg0ZXpCemVOUXBvbFZ2TnlrQlF0MmItQTA4WHFzeHhyZ2dXWDQ5?oc=5",
-        "headline": "CoreWeave's Default Risk Is Soaring. Should AI Traders Worry?",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/19 21:16",
-        "published_ts": 1792412207.0,
-        "tag": "Global",
-        "first_seen": 1792413029.9393203
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 09:16:03",
+  "updated_at": "2026-10-20 09:30:53",
   "yields": [
     {
       "label": "3년",
