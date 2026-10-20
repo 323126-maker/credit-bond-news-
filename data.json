@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oVUJpOVlsUnhnZzJtdGo3Z2d3bVRaSDQ5NGRVQnBiV1VpSVExaE5zQXZ4a25lY1VnZjhxY1RWMnpQUWZ1TVh2bzA3eEFOQ0R2OXZITGZuaGNjbXFjVkZYb19fZE5LZjM2cUNNUkJ6cEdMdw?oc=5",
+        "headline": "오라클 회사채 '정크' 추락 위기 두고 갑론을박",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/20 08:41",
+        "published_ts": 1792453308.0,
+        "tag": null,
+        "first_seen": 1792454439.1317313
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1nUXlZdTY3MFh0M1RpTjBBNnRyZ2VLZkRSNmRTNDZyQXJiTXBVWVRlMUxIWWp3TUdOWElIOUxsNDE1b0k5SzhTcmpUTEtyajRFNHp5cHQzSHRQZU9vM1VGcWZRTVFuOWRIUnpqMG82RTU?oc=5",
         "headline": "[뉴욕증시] AI주 반등에 나스닥 1%대 상승 마감…금리 부담에 상승 폭 축소",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792372559.0,
         "tag": null,
         "first_seen": 1792397721.8389862
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tUXlBN3R5cndZYTZ2Y3o3bl9CX293QTlTdldOWDhnVmFEdWozTmZFZUdJM2ZtUElTTFdiXy1ycWpPQlBzdGswWmhfUlVGNS0xLV90YTRUSVZwVEV0cHhsUUdrb003dVR4TUVVSC1udVhxZw?oc=5",
-        "headline": "S&P500 선물, AI주 저가매수에 상승…美 국채금리 혼조",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/19 10:03",
-        "published_ts": 1792371829.0,
-        "tag": null,
-        "first_seen": 1792372522.9618154
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 08:45:50",
+  "updated_at": "2026-10-20 09:01:02",
   "yields": [
     {
       "label": "3년",
