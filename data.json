@@ -22,6 +22,16 @@
         "first_seen": 1792466122.5179853
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zaWxPR2hKQkF5Z0RwU3JWTmg5QWRiN08yNmpJVkw4bWFMVmhUUFBnVXJVa3JibHVPYWFHUGt0ZzZYYWhJVDcwQXljRWZrY190OTA0UmtHRkVKNGVf?oc=5",
+        "headline": "롯데카드, 자동차 할부채권으로 첫 유동화…1670억원 조달",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/20 11:12",
+        "published_ts": 1792462320.0,
+        "tag": null,
+        "first_seen": 1792467921.8017452
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XN3BMazZUYmFRQVpIaWw4QzRGR3AzbGRTX0NWTU11MGhONDRGbHl2NkRqQm1MR2JBTEp3VEhXTTJ5NXplR244dmZWcmptd0k5aWg4djdFTlM0T1dKTUJmbDhzRFJBV0Nw?oc=5",
         "headline": "같은 AA-인데 금리차 22bp…증권채 시장이 평가한 '몸값' 달랐다",
         "summary": "",
@@ -50,6 +60,16 @@
         "published_ts": 1792460358.0,
         "tag": null,
         "first_seen": 1792465236.514105
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE84OUZfb1RWMy1aa01OZGppNVRJQXBGSENkU01LWmZRUE9wUk9PeWtOQUVsZU1xVlBpRjhUNzd6QWRHQUFCWkdRWV92R3o2Y0tzVDRvTHBQcEdOYzUwTWhoekxQd2ZYbFNySGh5RzRiMA?oc=5",
+        "headline": "채권전문가 93% '22일 기준금리 동결'…시장금리 하락 전망 40%",
+        "summary": "",
+        "source": "비즈니스플러스",
+        "published": "10/20 10:28",
+        "published_ts": 1792459733.0,
+        "tag": null,
+        "first_seen": 1792467921.8017452
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1HZ1JDTDZCbzFEODVZNG40dXZSbTFqQUNOejFleGxqUVRwWE52TlA5bHBNNERjVExxQ0hWaW5WMi1CUmVjR2d5bmw1Zw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1792393852.0,
         "tag": null,
         "first_seen": 1792395033.1087503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZ3g0c3NqbzZmQ0xqQWFybUlVODJLLWZUTkJXTjZlRzJFOU0yR3Q2QWNhU0ZmS0JUQTdGRHRjOE1Nam5iUDMxS3hqYVN6MFMydGNVVGRGTGVzV3kxXzI1UDBtZm5CQ3U5Um9hYUNQNFJKNnBBVWNkRUw3RTZXeFBJd0U5bERHZFM4T0pScA?oc=5",
-        "headline": "오라클발 인공지능 빚 폭탄, 초침은 이미 돌아가고 있다",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "10/19 16:00",
-        "published_ts": 1792393200.0,
-        "tag": null,
-        "first_seen": 1792409429.9813359
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1ZjlaRlA2cEs1bEc3ZHFNZ1BFN1NfMVl2N05iZVlvMFVxSGdjQWlFcno2YmZsZnY1blpTZkdIem1TUFhneC00RXMxYUl6cklPOG5MdzI0aw?oc=5",
-        "headline": "두산그룹 박정원 '제2의 유동성 위기'는 없다 : CFO 10년차 맞는 김민철, 반도체·에너지 대규모 투자 완수 특명",
-        "summary": "",
-        "source": "허프포스트코리아",
-        "published": "10/19 15:49",
-        "published_ts": 1792392556.0,
-        "tag": null,
-        "first_seen": 1792397721.8389862
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-20 12:30:49",
+  "updated_at": "2026-10-20 12:45:45",
   "yields": [
     {
       "label": "3년",
