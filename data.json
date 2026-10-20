@@ -1680,6 +1680,16 @@
         "first_seen": 1792513832.5926664
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE4zT19zNEFIbEZzQ3JyUm1NZk8zTVdiV096Tm5OemkwRHZEdnJkWFNCM2FkOUYydDNlWW4tOWhOd3lLTWhJSjE4c0JpbUVmOEptR3B5Tzg3SGxHZEpWM3I3bjVsTk9zY25r?oc=5",
+        "headline": "US: 6-Week Bill Auction",
+        "summary": "",
+        "source": "CME Group",
+        "published": "10/21 00:30",
+        "published_ts": 1792510200.0,
+        "tag": "Fed",
+        "first_seen": 1792527326.1901658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQY1AySFZieWp2WW5VbXdRb0pvVkNXVzRuUENOZ3VLdFgzcWp5VEdQYVEyN2N6MkpabG1ST1lCSlo4Q0dSR0ZPakdoZGF2TlVsSDNRSkRRaFU5TGdLUmtCQzBUV1llWjFnMG04NWRoWTVUb3YxRUxiYmhxbi1udkpuSXhuWGE0NVF4alItV3RiQjFoWk51d3UtT3lyUmtuV21xT2lSVUZpd0pHRWVaTFNRRWM4ZmU5OHJabldCU0hqc2dOM0dCcmRLSVg4UHJLOW5kYUM4ZkFQMHpNTEpTVHp4dTJsd2ZmVGlXQ01zalAxVDdUNDM3WnRHMFhpamV3Y2JKdTNrMGxYZzQ?oc=5",
         "headline": "Citi's Nathan Sheets Warns Markets Could Misread The Fed — Sees Fiscal, AI Financing Worries Pushing Up Treasury Yields",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/20 18:50",
         "published_ts": 1792489810.0,
         "tag": "Strategist",
-        "first_seen": 1792490438.0231714
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFFSNTdNWGFmTXRqUnh2UHFBNGJNSVBQcklJZmgtb2xkMmdxTTd3UF9HSWYydzFfbGQxY3JYZ2RKdHlnTTI2YzJjY3djbHY0UEQ4TDlOUG9GQnEyMnVlb0dvVHU2ZXVzMjV3VWNhQUUxUnRRYThlbmk3T0txR1FnQVUzOTJjT2UwVVdKcU53WndqekZxSUxNN0JsTGFjMHpETUtPSWFn?oc=5",
-        "headline": "Will an AI credit storm sweep through global banks? JPMorgan assesses that CoreWeave exposure is manageable, while Goldman Sachs backs the returns on AI computing power.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "10/20 18:47",
-        "published_ts": 1792489668.0,
-        "tag": "Global",
         "first_seen": 1792490438.0231714
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 05:01:00",
+  "updated_at": "2026-10-21 05:15:54",
   "yields": [
     {
       "label": "3년",
