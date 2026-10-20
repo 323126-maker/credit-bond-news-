@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9qclVvQlZUbGNvb0tQallwRzk0MlhCai12eFlzNjJ1NlJqUUpzRWFPQWRncXFKeEZ4T2xtMkZaanh1R0h3VWtuYUtaMXlGVVVpbWRJSGhHWDcxNWxKYXVRX3FNTzI?oc=5",
+        "headline": "도이체 뵈르제, 강력한 3분기 실적 후 2026년 매출 전망 상향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/21 02:14",
+        "published_ts": 1792516440.0,
+        "tag": null,
+        "first_seen": 1792518324.2211387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1GdHdXdzRIS1RsZ0RnSlhIVW43ZmpVd0xaUzl2STE2SDVyaXJud0RQb3FQQXBBQ3ZxRDlKT1M4cGV5b1NVYmtUa1gyYUJkcXR1MFVid3oyZ2VsQjI4QUhrZ3hacm9Wdw?oc=5",
         "headline": "한화생명 국내 후순위채 최대 8000억원 발행 결의",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792296000.0,
         "tag": null,
         "first_seen": 1792308627.3932767
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBuRVl3ekdscnV0VV9KeVRqVG5jM3lqYWFTRFFSS0U4N01GbnVobGo5MEs3NGkwU29uUHUxU3ZQaGVoU2RCYTM0XzVKQlROMEQzODR4MmlzZWU?oc=5",
-        "headline": "앤트로픽 BB+ 등급…AI 투자 위험에 비트코인 주목",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "10/18 12:16",
-        "published_ts": 1792293412.0,
-        "tag": null,
-        "first_seen": 1792294227.9346628
       }
     ],
     "policy": [
@@ -1900,6 +1900,16 @@
         "first_seen": 1792498522.9743965
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUEU3a3MwbWdwYnlYQjZWSEkwUEY2Rl8ybzR5cmJTaE1UeS1JZjIxaGVzNFF6NkdCdmtNWkhvaUpZTVFFNnNBOFRGeVlOcWw0M19zNWlmdTlLQnVtVnJrQ0RaeHplRzYxMG1yVnRLaExHX3ZnZ1cwWVFtelhHemlrSE14ZEhYUUFYelVLNlByS1p1YTh2ZExDUUJTaXF0SXNuQWpIVFpqVXM3Wnhyb285NndRcGxmWnBHWEVJZlhRSFZibUU?oc=5",
+        "headline": "일본 엔화, 시장 방향성 탐색 속 158.50 부근 보합세",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "10/20 20:00",
+        "published_ts": 1792494016.0,
+        "tag": "JGB",
+        "first_seen": 1792518324.2211387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaUJZejBLbzdBODN3RmRXMXF4U0NsQXRpVXZSU2tRSFNhbF9Ta055UUZzUnlQWU55MTI2Y1dXd3h0RV9qWEpTemw2ckswRVRPeF9KR29namxETFJNc2ZLWlF1Q3hyWGFUemtlTGRfb2tvd0dXd0FMcDFPbWY3N0w1NVF0dTJKc3lrTEtoWHF1Zw?oc=5",
         "headline": "HSBC flags selectivity in data center financing as AI debt demand rises",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792487879.0,
         "tag": "Global",
         "first_seen": 1792490438.0231714
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BUlloX1ZPSm9TTkFBSFlyX2Z2WUhFZ1hHb1lrZTI2V1NtbWpxeXJraDVqUDZMVGk3dTY3SEpUODZEZVQ5RFBwRFRzc3dQcmFGOV9ORkwxN0F1R1dCMElFYWFmWm5kdGRxM18zSGozZUREV3B4X3A1aEtGMVphNzQ?oc=5",
-        "headline": "IMF: 일본은행은 금리 인상 속도를 높여야 할 수도 있다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/20 18:17",
-        "published_ts": 1792487856.0,
-        "tag": "JGB",
-        "first_seen": 1792491322.5414891
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 02:31:11",
+  "updated_at": "2026-10-21 02:45:56",
   "yields": [
     {
       "label": "3년",
