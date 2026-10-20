@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOUEVHc2lITGRZeFB4N0k2WG1TMUd4OHFFaVc4WHdaOU5MNGlNTnI1aGMxWHNsVFcwUHI2NldqRmpKdmlYS1FmbksyQzFmSjdlNFNWek5oU1pXX0NlLVUwSFlJUm1EcFd3UXpyUzlkNzJTc3JoVG12X0VZS0Q0aDJ1SzdtMEdnOVFvVVFDMDY1VHdlT3VqOENqZlduR19fVFhG?oc=5",
+        "headline": "PepsiCo Yields 4.2%. Can Tax-Free Municipal Bonds Beat It?",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/21 02:15",
+        "published_ts": 1792516500.0,
+        "tag": "Global",
+        "first_seen": 1792517432.216901
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUVpCSFVNSTdkS3VLSTI2ZFdZeVU0Wk5lNUxZaVZlU1c5dW9ZV3p5ZldrYTVpM0NHVy14TFFOai1wMXVIV3ZpMm5EcTVtbzVsQjgwUHRHN0hWTkpqLUs3UUtZaURxZkZkclRLMTBHVjcyeFQyTUhXRzhRckVyc0dQdDRieXJNbHBvaDQ0WGZyVmljdUIyRHY0?oc=5",
         "headline": "ByteTree Research Q3 2026 Quarterly Investor Letter",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792487856.0,
         "tag": "JGB",
         "first_seen": 1792491322.5414891
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRlcwVkxrak5HQ1FTQnVROTBObXhiNkxwdUVJR2NQbkpQS0hOTXY4VjZ0cEFUemIzT2dWUEs0YVJvV20yZnRjQmg5aXpvVk10c09aSVhPS3JTSnBEeHdsV05FWlFreGFBcFFWNUFFems0LTktekYtRDdDX0h3TGVjYjdsM3R5SU9DenFBT0J4NnZmY3hXbFE?oc=5",
-        "headline": "Corporate bonds are under pressure from rising interest rates and a surge in maturities.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/20 18:16",
-        "published_ts": 1792487777.0,
-        "tag": "Global",
-        "first_seen": 1792501238.6517622
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 02:15:51",
+  "updated_at": "2026-10-21 02:31:11",
   "yields": [
     {
       "label": "3년",
