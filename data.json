@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QT2FYWVppWTJYcGFjS25RamIweUxDLXRfNWwyNkw1eG1hN01jWVZiRVBqaEFzaV8yQm9NRWJ1elVsclNDXzRfZ29BMmpjSVdZQVNoMzFLS2tHY0R0?oc=5",
+        "headline": "[금리 리셋] ⑧ 코어위브 쇼크 속에 AI 회사채만 담는 ETF 등장",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/21 13:19",
+        "published_ts": 1792556374.0,
+        "tag": null,
+        "first_seen": 1792557031.750135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOY19BYV9GUk9pMnpVcGEzYUlEdHR4Zy1MSUV4NmFwaUhHdHE3ZVJydUxfdmVfU25NNThnY0N4NEh3d2FKSE9PTlRPU3pzSTBZbE40NW4xYk5XMXoweG1LOFhEcXk5aHp6bXNfc2pqRGxzZjlTVGp2d3k1YnFEWVZqNWZ3Q3MzR2JMajJvOFI3ZVF4d3pQeHBkUkM0Zmg3TFBRUklULWY0M2xlWk1ianVN?oc=5",
         "headline": "회사채 시장은 2027년 만기가 도래하는 채권 규모(276조 VND)로 인한 압박으로 인해 둔화세를 보이고 있다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792482077.0,
         "tag": null,
         "first_seen": 1792483234.8254366
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBoaWdwMGpuX1BuSjJpQml6Umhiem5vX2phdHJTMTRqbkt4X0g0UVRIZEMta0psVWlsZF9sTFFBaDRjSFA1Z1lqUUtlbUY5ZEZmWXFTUGNORVlzZw?oc=5",
-        "headline": "금통위 앞두고 동결 전망 우세…채권시장 심리 개선",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/20 16:18",
-        "published_ts": 1792480713.0,
-        "tag": null,
-        "first_seen": 1792486839.0281515
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 13:15:45",
+  "updated_at": "2026-10-21 13:30:57",
   "yields": [
     {
       "label": "3년",
