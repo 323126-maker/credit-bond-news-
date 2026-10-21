@@ -22,6 +22,26 @@
         "first_seen": 1792542629.9876294
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5IT0MzZUczQnVWc3F1dEpHS19IdFk5NXJPdENKdmh2anlXNGMzdkdIVjRCOWF5R2RVQndxc2UxbWV6UWF0V25UU3ozb2dyaF9DQjNaTTZZZHF5VzdIM19CSzg3WHRhRHEtSm1z?oc=5",
+        "headline": "롯데카드, 은행 신용 덧대 1,670억 원 자동차금융 첫 유동화",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/21 09:16",
+        "published_ts": 1792541760.0,
+        "tag": null,
+        "first_seen": 1792543523.0354125
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1HQjFZamlyQm5TanpoSW11UEk3RDh5RDVwd0JhdHR4MGpEZkFpOExiR0FRejNuV0lGYzNCT2VpMHk1U2N4N21ZX3Q3TXhSNFhQdWtzbUVhdlF1VEQ2Sjhqb2hMVk5qd25mTjRNUjZlbzk?oc=5",
+        "headline": "미국 이어 프랑스 국채금리도 폭등…이젠 고금리의 시간 |",
+        "summary": "",
+        "source": "세상을 바꾸는 시민언론 민들레",
+        "published": "10/21 08:06",
+        "published_ts": 1792537563.0,
+        "tag": null,
+        "first_seen": 1792543523.0354125
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HenB6ME12c0pRVF82VWNYa3VCVkVfNFdfUjFSLUdCaUpyLWw3UkF0MzNYWHQ3QXZXLVdnMDFETHVKakJIWTFSLU80d1R0S1pMQkZYSHVQdFpyWkc1?oc=5",
         "headline": "[채권/외환] 美 국채 금리·달러 동반 하락…AI 투자 불안에 고금리 우려 겹쳐",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792477653.0,
         "tag": null,
         "first_seen": 1792478721.6814895
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBacTFjUlNqZGVaMG9FbnZPaHJ6Wk5Rc1c4M2JRRHduN0RWcDl1VUhfaXhtT0lrUW1Tblh3QWNjZTFYOEVxU0trakVlRWRNcGtNV09BT1c4RndCdw?oc=5",
-        "headline": "\"하이일드 총수익률 20여년 내 최고 수준\"…베어링운용, 우량 크레딧 선별 강조",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/20 14:46",
-        "published_ts": 1792475203.0,
-        "tag": null,
-        "first_seen": 1792476038.4197493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13UEhfRjBYVERsMU5yZE5MR29ZVDNDR05uYjU4d2V5TWItRGFCMzNNVU5CYlY0YlpteVc3UXJjQVlEeEtQWk0xcl9tTnZaUUtCczFuei1HZGNlWlNpQU8tVDdwNDBLSGJHcWc?oc=5",
-        "headline": "중앙일보 인수 우협에 다우키움·CJ…신세계도 합류",
-        "summary": "",
-        "source": "대한데일리",
-        "published": "10/20 14:46",
-        "published_ts": 1792475197.0,
-        "tag": null,
-        "first_seen": 1792481431.8091874
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 09:30:58",
+  "updated_at": "2026-10-21 09:45:58",
   "yields": [
     {
       "label": "3년",
