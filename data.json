@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6dk1sWVdKX05EcVB0N0RjQl9zVnVPcUxrY29fNVc3a3N2Q3BYNy14Q2w2VVhRRk84SGk1ejladmk0T3dZa00ycGhsRzBpWVo1aEtLd1hMR2xQZDc0cng3Y0R1NXlKLW9rSVVxak9yU0RvUQ?oc=5",
+        "headline": "[뉴욕채권] 국채가 하락…막판 중동 불안감 자극 소식에 약세 압력↑",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/22 05:34",
+        "published_ts": 1792614860.0,
+        "tag": null,
+        "first_seen": 1792615525.2543344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTTRuTE9YdmRvSlFseFdzaDJ5Y1E4TEtscTU3WXFudEFzZjBWOEZMb1dMSTBpY080SGhuMkZ2LUR6TUdMakxwRDFibGU1blhkVHd6N0gzTGZBN2l0aDhyWnBfdV8ySkVhcnhKbmFBdUs?oc=5",
         "headline": "무디스, AI 수요 급증으로 TSMC 신용등급 Aa2로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792506189.0,
         "tag": null,
         "first_seen": 1792506631.2061281
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5HYVJUYmdROWVURm9nd19mQXE5SVYzSDRGbDN2a2ZtRXdlYjEyNjZWblROY2JxczU1N2k3TnN0NkUxRlk1LXg3QTV6MDJ2UTZwVFJZZ0xmUXZpX2xGM0JWcVpnRUxjc1pSTGhTUTM0UExaN2xKSHkwNGdfSFZ0Zw?oc=5",
-        "headline": "Oracle Bonds Face Downgrade Risks As AI Trade Fizzles Across Tech Sector",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "10/20 22:30",
-        "published_ts": 1792503000.0,
-        "tag": null,
-        "first_seen": 1792507524.0153785
       }
     ],
     "perpetual": [
@@ -1680,6 +1680,16 @@
         "first_seen": 1792599323.0679982
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxRUhvdk52RGVlQ3JNQVhuVXA5YzZZYlFkZzFXaXRIOFR3RDJEQUUwOEFBVFVPZXRiZjA1WEY2d2JFcVBoSmFHeVZraUZlQkNEN0hLNThNUmNBajRWbjRPX3ZnZGtXZjNp?oc=5",
+        "headline": "US: 4-Month Bill Auction",
+        "summary": "",
+        "source": "CME Group",
+        "published": "10/22 00:30",
+        "published_ts": 1792596600.0,
+        "tag": "Fed",
+        "first_seen": 1792615525.2543344
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNYWoxLXM1aWZZWERtZ3ZtYy1oV3lDbXYtaU9TTjFXLTlIdDl2ZEFKWnFrOVJ4OU1KTmN1UVFNaEhDaml0OHIwSzRCaVVVbGhqVkRmMHlUR1U3b0piQnQwaXAzUE1VMFRhNmlxbmV3ZmozaTgzallXb1JwY0k1X1hiTkJFWEZPdWdJS1pQeHBJcndUQjZ5bGV4QkFMNnNLdERJSl9NcUdZMzl4Q2NBT0VKZXFkVmcxcjFnLXBwaVVPY3NLbnF3Rk44RldYX2V6LUY0Vmp0Sl9DX2R4MjlIYUhhSXZ0QUV3VTlPRmhaclQxbWRJUmVtOGY5bWtFM0tpVzhNOW44TmhtQmNlVUxYY3ZIamdwUVk3Smlhd0hmNU9XbWhYUQ?oc=5",
         "headline": "The Government Spends About $5.5 Billion a Day More Than It Takes In. The Debt Has Doubled in 10 Years. Jaime Dimon This the Situation Could Get Much Worse.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792542393.0,
         "tag": "Global",
         "first_seen": 1792542629.9876294
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOEo4eF9BWTlPZWMzbUI2Unp6YmZIdHN0SC1CUmQ4anNEdHpmaGl3NTEtbXNNcWhpQ1dCaFR3bkRTNGZ4RDFjaDdFOWQxWkY0ei0yVGF3dWQ4NURuR1VkRXdRSl9GYmpLSk5ZeC1xNjB2dXRVb3ZqRzN3VzRIZG9GMjhscTFhMkFl?oc=5",
-        "headline": "Real estate bonds: High maturity pressure, high interest rates.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/21 09:26",
-        "published_ts": 1792542378.0,
-        "tag": "Global",
-        "first_seen": 1792550725.0142295
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 05:31:02",
+  "updated_at": "2026-10-22 05:45:53",
   "yields": [
     {
       "label": "3년",
