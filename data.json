@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA1UVpSUEk1QmhudkROV1VJc0NVWndzWDlkQUctRGxUUXJHZS1LanhVUFlxaVROcEZhak5DRU9FOFlCLUZDOFA3RmE3WFRXSUZlU0ZwdGtFcmZTUFUybm9MSzJ4OGM0LXJOSXB2QQ?oc=5",
+        "headline": "'금통위 D-1' 한은, 기준금리 '매파적 동결' 무게…11월 인상 신호 주목",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "10/21 14:48",
+        "published_ts": 1792561693.0,
+        "tag": null,
+        "first_seen": 1792562436.7765312
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5uUjdKaVlZTXdCdDRrdlVLY3YyYVU2VTFpazJCYVp6NlRqRkpFYkkzcmM0SmUyZ1Z0WTJuZUVGX3dRNm5sOW83UDZmRlcxSFlySjNHQg?oc=5",
         "headline": "금통위 앞두고 달리는 채권, ‘매파적 동결’도 버텨낼까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792357163.0,
         "tag": null,
         "first_seen": 1792385122.2501051
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2J4ZVlWaUNvNWtxbFRxOVdCN0c2VURSNHhSb0pVWk0tbTU5Z0FDN2JIVWc1ZDFxUTI1ZFhzYjY5UVpiR2JGQ3VVdmpMWGRUZE90ZmJDQV96c2dDZTFFMnVGaVFIMlVYc2VHd3RpUkpibHcwR2cydWh0TWFlcUVhUWdXQU0zbndS?oc=5",
-        "headline": "규칙이 적용되는 순서가 궁금한 유로 게임 차감",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 04:35",
-        "published_ts": 1792352115.0,
-        "tag": null,
-        "first_seen": 1792402230.0704827
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 14:45:46",
+  "updated_at": "2026-10-21 15:01:00",
   "yields": [
     {
       "label": "3년",
