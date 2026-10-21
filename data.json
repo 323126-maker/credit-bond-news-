@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWTNTZzR0TG9fMmllSHNqOXdhb2tGc1ZTcjlITjVaUHduZjhIZ1ExRjBnUThhWnpoVWlnSFphWjBWMWFzdGtkZzhXdjkzeVoyekhaeDhEQUFZcUdaQ3h0MHd0eTRUb2xycHBCV3ItNWYyUTNxVDFqRjRad3ZOMXJGdjVmMGdLZw?oc=5",
+        "headline": "Mohamed A. El-Erian: France surpasses UK in largest government bond yield surge since U.S.-Israel attacks on Iran",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "10/22 08:05",
+        "published_ts": 1792623908.0,
+        "tag": "Strategist",
+        "first_seen": 1792626322.6743207
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdHliZVZBdDlzblNGU0xFbnZuNmVZa0V2R2JfQ25XX3p4RlhFQ0Q1bDYyeUZ3Y25mRlB6Ym13dGNGSmF2alVIdEx4ZUtJSzdiUUF1dVVWWVAxaHg5ZlZsdjFKc2ZZZi1MaUE?oc=5",
         "headline": "日 금리 1.25%에도 엔저 지속…미·일 통화정책이 가른다",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792553287.0,
         "tag": "Fed",
         "first_seen": 1792553428.1878948
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOEpRWEFUdmxzMF91RGZQaFpEc2N1SEZsbDZIcEpvYS04ZHhJMnN6cWpBaUJSNHk2VHBmUl96ZEw5YjdFNEdRaDl3NXBrZnl3YkFFSDVNd3diQUpMU2pQSFpmMzQzcU5FNmRGVzBMZER0bG05RnU1RTNyb2pZWHJGb3VreFlHcEpsWC0xMHpYZjVaTzhNUlU0MG9Zbw?oc=5",
-        "headline": "오늘(2026년 10월 21일) 미국 달러 환율: 유로화와 일본 엔화의 추세와는 반대로 하락세로 전환하고 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/21 11:52",
-        "published_ts": 1792551167.0,
-        "tag": "JGB",
-        "first_seen": 1792557923.3500109
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 08:30:57",
+  "updated_at": "2026-10-22 08:45:49",
   "yields": [
     {
       "label": "3년",
