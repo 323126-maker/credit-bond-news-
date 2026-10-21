@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTTRuTE9YdmRvSlFseFdzaDJ5Y1E4TEtscTU3WXFudEFzZjBWOEZMb1dMSTBpY080SGhuMkZ2LUR6TUdMakxwRDFibGU1blhkVHd6N0gzTGZBN2l0aDhyWnBfdV8ySkVhcnhKbmFBdUs?oc=5",
+        "headline": "무디스, AI 수요 급증으로 TSMC 신용등급 Aa2로 상향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/22 00:46",
+        "published_ts": 1792597560.0,
+        "tag": null,
+        "first_seen": 1792598438.4151337
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WmxZOFBuUU1EWlVBbHA3SVctWHNsdnluWjFyTkp1ZlBPVHphaGdUUXRhVk4tMW5IN1h5MHQ5SUlNNzRGMEdKVG84TWhBbXowb3RHT25XaDB4TDd3UVBUOHdWVFVSX05UVFZwaXdEVXM?oc=5",
+        "headline": "S&P, 램 웨스턴 신용등급 ’BB’로 하향…부채 부담 지속",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/22 00:42",
+        "published_ts": 1792597320.0,
+        "tag": null,
+        "first_seen": 1792598438.4151337
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55SF94VV9Sc1lEWjVvUTB2UDQ5WlBPM3FDMElTVWY4T29ELUFaMlFvWDVBQXQyUGpKOW5wT0o5UjcyOHlPenlmUHJ1clhSNGozelZ2bXdVTlhwV01VdS0tbXJmNlpSUXk0UnU4S1FxR2g?oc=5",
         "headline": "[외환-마감] 수출 호조 속 네고물량에 저점 또 경신…2.90원↓",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792503000.0,
         "tag": null,
         "first_seen": 1792507524.0153785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9LaFZUWjRCOHAwVEVmZlItQ2RLdXRtUVRBSWp6Tkh6VjJnU3JKVUtucnJobkNwWmtNWTg0RU8zRjVpLTd1ZG1ZaU9vZnd3cGlVdTc5WndTTDJDM0dsbi1SdF93SHZxckNOdDQ2bE9YVFluT2szN2dJNw?oc=5",
-        "headline": "가상 크레딧 체험이 제공되나요? 무료 pc 리듬 게임 링크 이용 정보",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/20 22:25",
-        "published_ts": 1792502701.0,
-        "tag": null,
-        "first_seen": 1792512924.0092392
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOcW5aSmhrVjBobFc2blZNV25ieTh3WUpMS3FiZjZ3NDZiblVLXzFHNVRlUmIzTmIyZDRrb2V3V2Y2Wjg1aUxTVTNnODhySnVUVFhOTFRSeUZwTkR6a1htM3Z5TnRVNGI1b2VNSnE3ZUlqNEdoMzBLTVZ1LXBaV3FSYm1IZ2g3bzI4RnfSAY8BQVVfeXFMUHNqZEJMcmhPZWV5SHdNZllCSm5fSEk4OWltckFjN2xLSC1jblNKdXhvVVV4c1JNUmZiY2RUaC1JTVA0bVVxdHdsR01TcTdoc2JwVmZLZmRYSW83TXRWcHJQZFc4ei0yRko0X0ZzQ1VjLTNqcGNGTWdYYkNNaFBaemxUand6RGJhMDRoZjMzWFE?oc=5",
-        "headline": "부채에 대한 우려가 커지면서 오라클(ORCL) 주가가 공정가치보다 33% 낮을 수 있다",
-        "summary": "",
-        "source": "Simply Wall Street",
-        "published": "10/20 21:16",
-        "published_ts": 1792498602.0,
-        "tag": null,
-        "first_seen": 1792508440.0870268
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 00:45:46",
+  "updated_at": "2026-10-22 01:01:00",
   "yields": [
     {
       "label": "3년",
