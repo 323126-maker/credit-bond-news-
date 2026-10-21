@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5TVRiWW9XS1hfQjNvZXVHWmV5Zy1pZHA3d083dTRVVGxtUE9ULWt6V3NZUTZfZ1lDYTFWTy00UndieVF1YS1rZTV5U3h6WTBfbHlwdUxYZjUyVDJWZlhwZUo4UkhXU2c?oc=5",
+        "headline": "금통위 하루 앞두고 국고채 금리 하락…3년물 3.822% 마감",
+        "summary": "",
+        "source": "청년일보",
+        "published": "10/21 17:17",
+        "published_ts": 1792570634.0,
+        "tag": null,
+        "first_seen": 1792571431.6876519
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13Nm1HQ1MxZWd6Mkx2QjRuVFB0bUdqUGJUZWxIaXZtS0I0SVpsaUdmV2ZkQk14M01tVFhVb0FXRl9DLXBWMGtYX1BsS0ZnRU0zX2VUSUQxYWdJYWFlT3pF?oc=5",
         "headline": "삼전닉스, 채권시장에서도 '큰 손'…\"국고채도 대규모 매수\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792484496.0,
         "tag": null,
         "first_seen": 1792491322.5414891
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9CcDlrd0QzNnNsampkNVEtWlBRc2RzbUtkV3MyS0hndHYxajhfZTNlQlFnTkllZlVyN1pkazh2M3ZVRzdGQ19wRTJiTEZZSm9yektuWXVXQTBxWkJMOVRxMUhVV0ZBSjd0TzVLRS1n?oc=5",
-        "headline": "[채권마감] 20년물 4.2% 밑돌며 4개월만 최저, 주가 급락+스퀴즈성 매수",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/20 17:19",
-        "published_ts": 1792484340.0,
-        "tag": null,
-        "first_seen": 1792485031.5643284
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE15cjgydGIxZ1RnRFBKN3F1TTM3d1N1N3Y4Q0R4bUxqU25PSHQwVTlZQVZqMFpTSkQ4aWlLeGVSelBUU2xsVENLY09B?oc=5",
+        "headline": "JP모건 \"비트코인(BTC), 금·채권보다 15년간 연 수익률 우세\"",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "10/21 17:20",
+        "published_ts": 1792570800.0,
+        "tag": "Strategist",
+        "first_seen": 1792571431.6876519
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkd5cHJOVmRzNFFOTXpreFdiWENIdEdiVldveWhVUnlZdnFROWNDM2ZlY0FYd0IzeUh0OW1JTlRXYTEzMm9KbjhmWWRhdU5wQjdVM3FUZGNiQ3owVm9Ib2hVVG5ZaV96cVdSMFRvTFB1eE9KeHI2cUlKamdwM0J2TnBaYUR2WGFTUUVnc1htVVBqV3k5a3N3Y2drTEt2Z29BdE9QSnVQN1JEaUpEOEMwRE12SFNjU2pY?oc=5",
         "headline": "Why Treasury yields move together but become more volatile further out the curve",
         "summary": "",
@@ -1870,6 +1880,16 @@
         "first_seen": 1792515639.1788964
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQnpsUUJlMUlLRXRWRjA2VHRmWXdPQXFHNTQ0T3MyLVloQ2ZQVGxGNGZBeUdlQXhJMkJDaTEzWEF0dW40cU5haFdGZWRDNGprcExWQmtEcHEyV2lYaDAyMlhsQnBEczdablRBZWFpaFJ4VzhJZjBacmdVc0dlS05Xd1JaNy1TNndHODFQSGxOdVJhZTRsUUk5cXRQTDl4THRuN1pJcGR0cWRKSGhWLUxQQjEwN3pySGZEbnZsZkhZbHlJUQ?oc=5",
+        "headline": "AGNC Q3 2026 slides: book value falls 17% amid bond market stress",
+        "summary": "",
+        "source": "Investing.com Australia",
+        "published": "10/21 01:20",
+        "published_ts": 1792513251.0,
+        "tag": "Fed",
+        "first_seen": 1792571431.6876519
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1gwX1NHRWtrNTRhOUZUMlJWTU1zZFpCSFNBeWhUODdmWk0wMGFxdmVaV0otSVRlRi1fWXE4M3hrSUZmbGxvMkcwOTAtQjUycnJPNHJVZEIzS0tCYms5YWk4MG82SXI4MTJ6UWN4ZlI1VllqRlhEX2N2UVp2T0NWSjB3Y2U4UVZQSWp2TFg0bHFjUFcxVmZsZWNPOEVZU3JMdlE4dTh5RDFXaE54d2ZV?oc=5",
         "headline": "France, AI debt risks push investors toward safer ultralong JGBs",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1792506910.0,
         "tag": "Strategist",
         "first_seen": 1792508440.0870268
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLUY4cWZDeHQxMHA4MlBzb1NrNzlRNlVFU2ZxVlg2Ml9lZzJWZEpqNktaY2wtSUlIZkZBQUQtcjNvSHpSdmV0Qy1UNFRtbUttaU5NS1ZPUVBScjh4SnBSSnZiZjUxRWdhU3hCc2Q2TU5WZmNTQWxQUW5RWTlUbzhZQzlJcUdLa2pCZUJlOGg0YllUSndQZE8weGtaR3dyd3RPUXZ6cTZIZHoyLVVFMmNkVHdvQ3JBWms?oc=5",
-        "headline": "The S&P 500 Mirage: What Dalio, Damodaran & Burry See Beneath The Rally (NYSEARCA:SPY)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/20 23:23",
-        "published_ts": 1792506190.0,
-        "tag": "Global",
-        "first_seen": 1792506631.2061281
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNE9ZZVZUeExwMVdTQUg2Ym1KRWtXd19oTTFpNkliaGFtaXhEQXl6eDZWdFhYZ2l5bE4teWxEYWpCazNaanRCVWhFOVZidmdWTGFqUlJ2TmRiOGozQXQxZ2JuZ2NIckQ2ZlFKcnRNOG9sRkUzNDRtTUtSR1RTT0NwdFlsZHZNMXVwQlc2UG1B?oc=5",
-        "headline": "NZD/USD (NZDUSD) Surges on Oct 20: Was It the Dollar, Rates, or Data?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/20 23:20",
-        "published_ts": 1792506013.0,
-        "tag": "Fed",
-        "first_seen": 1792511124.2063768
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlei0xb3ZfV0h5T2NqQ003ZlFWQnYyOFItV3hNblZORDJIaUtSOFhYQkdMWFFFWk8wV280czltNHFKbzROYU93MTF6WkFBVWdy?oc=5",
+        "headline": "KB·신한지주, 3분기 실적 놓고 보험 경쟁 부각",
+        "summary": "",
+        "source": "톱데일리",
+        "published": "10/21 17:18",
+        "published_ts": 1792570680.0,
+        "tag": "신한지주",
+        "first_seen": 1792571431.6876519
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Kaks4ME5kREJlTl96aWRRbkhPNVZvRzFlNk5FNXcxbnlNTzIyeTRTenNyZVBFdTRDTU1TTFVBMmVYYWdxcDZNNUZEMnEyMmhNMjRTeHRyT3RUdGhjQ2RQbDRZaU41bG8?oc=5",
         "headline": "하나금융 신종자본증권 수요예측 흥행...4천억원까지 증액 검토",
@@ -2400,20 +2410,10 @@
         "published_ts": 1792307562.0,
         "tag": "삼성카드",
         "first_seen": 1792310433.6423478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBDMjI2Y09HMzNfUXk4TTVMZmFkRzBFRC1zR0NLaGQ5bGstLXJnLXZMOFNYSW5KMGxsd0hUMUx4WDJ1M1JXNmFPMjRRU0Z4NExBN1R0NnNpSW9KaGd5QjBXSXVpRmFqZFZTdVlB?oc=5",
-        "headline": "우량채 쏠림에 가려진 조달 양극화, 하위 등급 단기 차환 단절 위험 커진다",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/18 13:13",
-        "published_ts": 1792296780.0,
-        "tag": "신한지주",
-        "first_seen": 1792377030.4915607
       }
     ]
   },
-  "updated_at": "2026-10-21 17:15:47",
+  "updated_at": "2026-10-21 17:30:55",
   "yields": [
     {
       "label": "3년",
