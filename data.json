@@ -404,6 +404,26 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Kaks4ME5kREJlTl96aWRRbkhPNVZvRzFlNk5FNXcxbnlNTzIyeTRTenNyZVBFdTRDTU1TTFVBMmVYYWdxcDZNNUZEMnEyMmhNMjRTeHRyT3RUdGhjQ2RQbDRZaU41bG8?oc=5",
+        "headline": "하나금융 신종자본증권 수요예측 흥행...4천억원까지 증액 검토",
+        "summary": "",
+        "source": "청년일보",
+        "published": "10/21 16:56",
+        "published_ts": 1792569419.0,
+        "tag": null,
+        "first_seen": 1792569637.2613323
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYmVzODFvdy1kWXlfdU1SOFNKVHJZWmpMVEsxYWhJYng1WDVxcVktdWVYYjNwNHE0S1pEblNoM0diemFZeE9PVWtRdVVfUUpKMXgyMV9lY2hkaUp2Yy1n?oc=5",
+        "headline": "하나금융 신종자본증권 ‘흥행’…4000억 증액 저울질",
+        "summary": "",
+        "source": "스마트투데이",
+        "published": "10/21 16:48",
+        "published_ts": 1792568880.0,
+        "tag": null,
+        "first_seen": 1792569637.2613323
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVVR2QnJTYy1fcGw1SUJlWlBnc1o5SzI1SjdZdGhtVTUzQVhRb1h4VUYzdDA2RDZLdDQwOHdBTHNxRGhJMFBMczYybWdXdEFORGc?oc=5",
         "headline": "하나금융, 신종자본증권 수요예측에 5천150억원 몰려",
         "summary": "",
@@ -782,26 +802,6 @@
         "published_ts": 1792397754.0,
         "tag": null,
         "first_seen": 1792401321.6675024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPcFVpUnJhUWtSNHRqUFhSdmltcGwxYTl5eHlLNzZaU1BoOWFsUGpiYU1vWXhlaDlWYUJENjdFU2lGM0J6UmFza3lHUmgzc0hzYmtHejVDaFRxQQ?oc=5",
-        "headline": "블룸버그 \"하나증권, 달러 후순위채 가격 강세 이어질 것\"",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/19 15:41",
-        "published_ts": 1792392078.0,
-        "tag": null,
-        "first_seen": 1792392323.8021932
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNY2RrcjlXVXRpa09GY2REeXZqR3ZUc05tV3QwdzJpbXU5Wlh0TDJ4NEJsaDlfZExvNm5YT08xbEtnMjh5YTB1ak1RdkdObVNOdUhUOEZwcGcweE00YmVPNHBUeGlpNl9yTm5EU19vcVdKWlhQck5Fa2FQY0VtU1dTcExNZ3VoRHZobk1Jd1NNenp2SUVST2RVVk8zcF9GS0M3RXhISnRiQkZoNzFkS1VXb3Q0RFdDNUZz?oc=5",
-        "headline": "TNH 병원 그룹(TNH)은 2,200건의 사모채권을 발행하여 2,200억 VND를 조달할 계획입니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/19 15:23",
-        "published_ts": 1792390997.0,
-        "tag": null,
-        "first_seen": 1792395033.1087503
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkd5cHJOVmRzNFFOTXpreFdiWENIdEdiVldveWhVUnlZdnFROWNDM2ZlY0FYd0IzeUh0OW1JTlRXYTEzMm9KbjhmWWRhdU5wQjdVM3FUZGNiQ3owVm9Ib2hVVG5ZaV96cVdSMFRvTFB1eE9KeHI2cUlKamdwM0J2TnBaYUR2WGFTUUVnc1htVVBqV3k5a3N3Y2drTEt2Z29BdE9QSnVQN1JEaUpEOEMwRE12SFNjU2pY?oc=5",
+        "headline": "Why Treasury yields move together but become more volatile further out the curve",
+        "summary": "",
+        "source": "investingLive",
+        "published": "10/21 16:33",
+        "published_ts": 1792568035.0,
+        "tag": "Fed",
+        "first_seen": 1792569637.2613323
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNkp5YmRsMnRMcHVEOFJhZWZPMEMtZDdjUnBQa1J4Y0Y2ZVhmVHhqSjBQREdQV3gtY29EM25CTkNvdHlsTlY2akR6WDRZQVV1b1BEODNOWDFfaUhESmtYNVNTQVpvMDVSeWY4N3p6NnlZNUVabm91WFZCUXBRc2hpbTFuUXZpT0o4YWx2dUVTdEVmY21QSnZkNw?oc=5",
         "headline": "Vietnam corporate bond market slows as interest rates rise",
         "summary": "",
@@ -1998,19 +2008,29 @@
         "published_ts": 1792505477.0,
         "tag": "Global",
         "first_seen": 1792507524.0153785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQRk9kWVZKNU16YjZFeGRiWklNelFiU09hVFZyTEw1UEVuOUJXQUZqSUhsWE1nSEttYktjNzVWeF9fdUlGaFdoOTBiZUgwcW5uZGczdGRjR0xUTVdJODZNbnpNQTdYUWxSNElnUEg5dVhkd09oNHZfZGp4TlVxb25wazNlcE1rYWcwbU9rQ0pwRXBtb045UXhmSXZzMzNsLUwyV2JWRXlxUUp0UWh3ckIwQ0lPdE9oZFpYWEk2b2NyYUpqbXY2YlRhNXE5QVN4cURtV2ZaMEpRRlB2MXp5RWg0RXVXRktqUnB6c2oybQ?oc=5",
-        "headline": "France’s Fiscal Stress Isn’t Europe’s Next Debt Crisis",
-        "summary": "",
-        "source": "AllianceBernstein",
-        "published": "10/20 23:10",
-        "published_ts": 1792505411.0,
-        "tag": "Global",
-        "first_seen": 1792515639.1788964
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Kaks4ME5kREJlTl96aWRRbkhPNVZvRzFlNk5FNXcxbnlNTzIyeTRTenNyZVBFdTRDTU1TTFVBMmVYYWdxcDZNNUZEMnEyMmhNMjRTeHRyT3RUdGhjQ2RQbDRZaU41bG8?oc=5",
+        "headline": "하나금융 신종자본증권 수요예측 흥행...4천억원까지 증액 검토",
+        "summary": "",
+        "source": "청년일보",
+        "published": "10/21 16:56",
+        "published_ts": 1792569419.0,
+        "tag": "신한지주",
+        "first_seen": 1792569637.2613323
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hYmVzODFvdy1kWXlfdU1SOFNKVHJZWmpMVEsxYWhJYng1WDVxcVktdWVYYjNwNHE0S1pEblNoM0diemFZeE9PVWtRdVVfUUpKMXgyMV9lY2hkaUp2Yy1n?oc=5",
+        "headline": "하나금융 신종자본증권 ‘흥행’…4000억 증액 저울질",
+        "summary": "",
+        "source": "스마트투데이",
+        "published": "10/21 16:48",
+        "published_ts": 1792568880.0,
+        "tag": "신한지주",
+        "first_seen": 1792569637.2613323
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3UkFjMFBza25OS1JaZG9PakpfSlZraFJ4NnA4ZUNBckdubFFtakdNNjFZWXJ4TVhFaFJqbXcwQ0xsM2xVSVVfUmx0WnBMNFZBWlZUZGEtNDdKRVpWa2c0Mm51VUpnMG5h?oc=5",
         "headline": "ETF 악재 턴 이선훈 신한투자증권 대표…‘역대급 성적표’ 들고 연임 시험대로",
@@ -2390,30 +2410,10 @@
         "published_ts": 1792296780.0,
         "tag": "신한지주",
         "first_seen": 1792377030.4915607
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4zN1VHTjdybnFUbzV0ZEZZUWZLVWtkd3ppQ0I0S2ZzN3Mwb09UZ0xidUZmRFYyTWhURXNPamNUSlc2SnZfbkxYd25Bai0yLVRIMlFnNFRIVmFzUDBNREsyeGVGbw?oc=5",
-        "headline": "▒종합 경제정보 미디어 - 이데일리IR▒",
-        "summary": "",
-        "source": "ir.edaily.co.kr",
-        "published": "10/18 08:30",
-        "published_ts": 1792279806.0,
-        "tag": "신한지주",
-        "first_seen": 1792303234.682083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uZTdISkFza2hCeEg0cVdfWXR0MVIxMGJHLTVpYVA3U0hHTmk1Si1POEhEN0Y5UTJhRVEtQldzZkp6SUpPZ2Q5YS0zRkNGX3h5STJzcVllbWtGVFRxNWJDNFRJd3UxTTZCYTBabXZVb1FTUQ?oc=5",
-        "headline": "10월 막바지 회사채 발행 분주…NH證·롯데렌탈 수요예측",
-        "summary": "",
-        "source": "마켓인",
-        "published": "10/18 07:30",
-        "published_ts": 1792276203.0,
-        "tag": "신한지주",
-        "first_seen": 1792276979.2435322
       }
     ]
   },
-  "updated_at": "2026-10-21 16:45:46",
+  "updated_at": "2026-10-21 17:00:59",
   "yields": [
     {
       "label": "3년",
