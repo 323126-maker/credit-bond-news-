@@ -12,6 +12,16 @@
         "first_seen": 1792575922.9532914
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SX3Z3TGgyMS1GMjY1Nzg1MnkzeGMxRGpGRzNEeEpLUXIyYnZ6OVFiZm5ES1Z3Z20xYnBfcE82anJENEl1Z0E?oc=5",
+        "headline": "오스템임플란트, 1200억 규모 영구채 발행⋯재무건전성 강화",
+        "summary": "",
+        "source": "아이뉴스24",
+        "published": "10/21 18:15",
+        "published_ts": 1792574132.0,
+        "tag": null,
+        "first_seen": 1792581323.0437553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWkxOQktCelJqMzZJWTFTd0pfUmxGMldVVDhWbXJha2p6YzVsZGxsbTkxNDFDRGZENmMwVnhwelhIMmVVNG5rRy1kcG10UWJkMWYyZ21ycm51d9IBWEFVX3lxTE94WWV4Tl9Xc1JhRHZ0aU96MjRGZzFDblJOVTRHQXlTWE05QWNTcW44LVJSWkpob0Q1WUtQOGpmcWNCZzFtXzhBbm05U2xiZlFrMm5ULXhpZjE?oc=5",
         "headline": "BBB급 회사채 두 달 가까 0건…비우량채 시장 한파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792491879.0,
         "tag": null,
         "first_seen": 1792511124.2063768
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tMWpweEZabld1N3l0Qy1ZOHVOcG9RY1JFSWxvMTNBVnNjcFhJdXhtZUxmMHBSRVZpTzJVTVpoNFplOUd3QzBIbWJXMWU3bmJMaHBvcWc3YWRkWElNWG95UkFfLTRieXNPX21WeVRjSFI?oc=5",
-        "headline": "[채권-마감] 금리 하락…반도체주 하락에 안전 선호 심리",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/20 18:41",
-        "published_ts": 1792489279.0,
-        "tag": null,
-        "first_seen": 1792558839.9925938
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 20:01:01",
+  "updated_at": "2026-10-21 20:15:47",
   "yields": [
     {
       "label": "3년",
@@ -2440,33 +2440,6 @@
         3.877,
         3.84,
         3.822
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 3.965,
-      "chg_bp": -2.5,
-      "series": [
-        4.225,
-        4.275,
-        4.267,
-        4.22,
-        4.345,
-        4.276,
-        4.203,
-        4.2,
-        4.129,
-        4.117,
-        4.134,
-        4.158,
-        4.101,
-        4.03,
-        4.047,
-        4.007,
-        3.988,
-        4.014,
-        3.99,
-        3.965
       ]
     },
     {
