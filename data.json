@@ -1620,6 +1620,16 @@
         "first_seen": 1792580435.4734895
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNcWtzUFB3RkpBVHhpVDdtNDdaaTFVbWY4Mm1ITzJrYUxrb3Q2aHBXYXJ0ZThLRTVRcEdyc1BxLS16WFNrX1huQmplSlVmVzVBOTdyT3hSNWlfSnpaMXd3VktVZXg2YXNkejh1Nkl6c3o0TGJrZG5qSE00bGp5WjlkbzY4VzhndXNNSFUtZ1JTVWQzZjIwcnZnQ1Jfb2F1bnBPX2RuSFNMb056REFTY2FhaEpDX1haUlkweENNUWp5cjU3YWpIb3RnTlV6dDVJSGtRWHVzUTQ2ODlCRUFVcURrRXdiVGtuV3RhZ19IcUlFSVdNTU56X3BsZWNlZDBMQTJBelE?oc=5",
+        "headline": "Fed chair Warsh says price stability is key but shies away from signals about rates",
+        "summary": "",
+        "source": "Madison Courier",
+        "published": "10/21 19:43",
+        "published_ts": 1792579398.0,
+        "tag": "Fed",
+        "first_seen": 1792586723.1983654
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBsbW9kbU5QR0NSRGxtWXVCNk9pMDh0eUlma3dvYUNfaUtGWUhYNy1ZT0NOYXhjVDlYOHhmTkNIQ1loSmZNUzF6OFFyMy10Um4tZzZqRFVvSGRLMkZOT0hidV9Za0dzaVk?oc=5",
         "headline": "Japan plans to fund key policies while limiting bond issuance",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/21 01:15",
         "published_ts": 1792512900.0,
         "tag": "JGB",
-        "first_seen": 1792513832.5926664
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNS0J3Y0gzV1I1aEFmbVVOOGZLTHV6MzVScFB4ZU42Tm1ac0dsNzVuYzN5eERwNTUwT2JudHh6cm82LVlSVW5wejlqbmdVbFJEMFdZZzkxMGNJUUxhWXJfdVZSeTRBTV9jT3Y1bFlxeU9ZZHZwcEVfS1g3SEJjazZrOGhuMEt1eE9kT3JFd01IcGxCc25mNEctVA?oc=5",
-        "headline": "Kevin Warsh sends a strong warning sign on rates to Wall Street",
-        "summary": "",
-        "source": "TheStreet",
-        "published": "10/21 01:13",
-        "published_ts": 1792512780.0,
-        "tag": "Fed",
         "first_seen": 1792513832.5926664
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 21:30:55",
+  "updated_at": "2026-10-21 21:45:50",
   "yields": [
     {
       "label": "3년",
