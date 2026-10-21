@@ -272,6 +272,16 @@
         "first_seen": 1792511124.2063768
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tMWpweEZabld1N3l0Qy1ZOHVOcG9RY1JFSWxvMTNBVnNjcFhJdXhtZUxmMHBSRVZpTzJVTVpoNFplOUd3QzBIbWJXMWU3bmJMaHBvcWc3YWRkWElNWG95UkFfLTRieXNPX21WeVRjSFI?oc=5",
+        "headline": "[채권-마감] 금리 하락…반도체주 하락에 안전 선호 심리",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/20 18:41",
+        "published_ts": 1792489279.0,
+        "tag": null,
+        "first_seen": 1792558839.9925938
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ielRncGlwam1OeHYxVHRONWZxT1Fvdl84VDZoY29GMm5jS3ZyeVlLeXFnSFRsNDhzakkyXzVIUS1uYTZiX0hoSXdnZ0laVE40LTFzRGdQQVlNU1ZmUEc4TDhPa2JsQm5raDFyRXBxZGM?oc=5",
         "headline": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1792482810.0,
         "tag": null,
         "first_seen": 1792534523.3532639
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yY1NqMEp1RHFPOFJrSjdMNXM2bnNoMUpLRTdWaTNaUHFIYjRzRjZRMGlBVkViZ3hfbHZReURhSkcyR2ZIdS1pS2NXbVFheHFSaWdLVnN5em9ZNzg?oc=5",
-        "headline": "국고채 금리, 외인 순매수·증시 급락에 하락…위험회피 심리↑(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/20 16:48",
-        "published_ts": 1792482489.0,
-        "tag": null,
-        "first_seen": 1792483234.8254366
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5EZlZUNkxfRmF4d0dsQlphTFVsWl9nWUFhVlFUS3dNUTMzNXBjNUc5NVJ5dWVIdkt4YlFsMUI1TTNuVUdKMVphQmg4SFJNYlFpcmdkMmxfdWJLTHVfc2pmUnVJcmxObGFtbS12OE1sRTNVcEZWMHc?oc=5",
+        "headline": "오스템임플란트, 1200억 규모 자본성 채무증권 발행 \"재무건전성 강화\"",
+        "summary": "",
+        "source": "인포스탁데일리",
+        "published": "10/21 13:58",
+        "published_ts": 1792558705.0,
+        "tag": null,
+        "first_seen": 1792558839.9925938
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE45RFBEOGZ4OE1WWUl6d2FnTlV2ODlhS2ZzVExVZS1Pems0TWlKdDByckN1XzRnbTNkRm16Yy1aeTJlanNhckhqQnFYd1gyUzZNUHl0dkoxQk9qaHZ1R1V2bU4wdkFXSXRh0gFsQVVfeXFMUDMwVTk4bEhud1pDUnhDYTVEOFNZbTB4RDZaR3RUdV9VQ05lUUZqSEx4bDV2U09OM2xVbjBZQTh6eW1CVW1oa2p2MUl6anh1RlJnSHozQUhNdXJFN0lyTFZ6ZVZmbkJvTHFSVlZP?oc=5",
         "headline": "[신종자본증권 점검]⑤ 농협금융, 5년 연속 멈춘 발행…초점은 유상증자",
@@ -792,16 +802,6 @@
         "published_ts": 1792357200.0,
         "tag": null,
         "first_seen": 1792366211.9615839
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQU0zOEpaallVaXljVTJoVUN5emxxdG5temlzTExJekhzUkpIbUo0RDU2MlRpcHh4dExkX2NraEhxamNPX3ZsZ1R0VXRpc2x1bXB1VEhwS19xYnFvNGNoMGhnNmZWYUJuVV8wMF9XcUk?oc=5",
-        "headline": "초보자가 질문하기 쉬운 토토 프리미어12 규칙 모음",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 04:34",
-        "published_ts": 1792352089.0,
-        "tag": null,
-        "first_seen": 1792360832.5888135
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 13:45:44",
+  "updated_at": "2026-10-21 14:01:08",
   "yields": [
     {
       "label": "3년",
