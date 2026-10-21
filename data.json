@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YM3FoYnMyRXBTZHgwN1c3UktyOFoxSWtKbHM0emQzQnBjMURaOENwZm1KdTY2eDFTUlhEWmV4TV9OS2o0STdFbjZWT0RCdV81eVZCbUFIM3ExWVZmREE?oc=5",
+        "headline": "한은, 오늘 기준금리 3.00% 동결 유력…향후 경로 주목",
+        "summary": "",
+        "source": "동행미디어 시대",
+        "published": "10/22 06:00",
+        "published_ts": 1792616400.0,
+        "tag": null,
+        "first_seen": 1792618627.047979
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IMnJ4bDUwX21kd0hGYktqbzZVZVFtRWZhX2R1UkxJNFcybW9nLVJDcDlIYnY2dUM1RmhHZGh5YVd6T0RkclE4YllXUjg0Z1haNWdwYmF1OFJsd01QWFEyaGpqMHhFbjlLeURNRUp3TnJROEXSAXdBVV95cUxNcVVfYlAwMXU4YjBRREhlQUR3eVU1d2NOXzJhVUFDODhmdTNzVTk2M2x0aEstaEMwUEh2QXVYaXQ4ODh4ZDR3R2l4ZUVyZHJ2d2ZRM3V5eUxlZWFpcXRjczdaeU5rNGhiMEMxakRJM3UxWDlGSGtQWQ?oc=5",
         "headline": "IBK투자증권 “다음 금리 인상은 내년 2월…외환시장이 변수”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792370731.0,
         "tag": null,
         "first_seen": 1792386924.3124425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9NVDBMSTBnMmtqRjYxM29tY0g3dGxwT1diQS1YeWpHR3J2RmgtUlNaV0NGM05Lc1BpUDdtcWRrZVZ1NXBNcnExT0s1S3FRQ2xSOHBxaHdKY3A?oc=5",
-        "headline": "[애널픽] AI 투자 불안에 채권 뜬다...\"금리 반등은 매수 기회\"",
-        "summary": "",
-        "source": "뷰어스",
-        "published": "10/19 09:32",
-        "published_ts": 1792369955.0,
-        "tag": null,
-        "first_seen": 1792386034.4127936
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 06:31:00",
+  "updated_at": "2026-10-22 06:37:36",
   "yields": [
     {
       "label": "3년",
