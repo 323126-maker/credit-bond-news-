@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fVVR2QnJTYy1fcGw1SUJlWlBnc1o5SzI1SjdZdGhtVTUzQVhRb1h4VUYzdDA2RDZLdDQwOHdBTHNxRGhJMFBMczYybWdXdEFORGc?oc=5",
+        "headline": "하나금융, 신종자본증권 수요예측에 5천150억원 몰려",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/21 16:26",
+        "published_ts": 1792567582.0,
+        "tag": null,
+        "first_seen": 1792568723.4645529
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ybzBVb1U5M2VkSHQyVWFtTXpqZkNDc2tpdFJETV81Rm5yWGpkalV5VmZBV0ppblRtUDZEbEZjTGlzY0hJcExBWHN5bEtrUEhzVkR6aWJuanhqX3NOa25FQmxxRFVzVm1iLWFITjhR?oc=5",
         "headline": "전기차 관세 피한 중국 … 하이브리드차 EU 수출 반사효과",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792390997.0,
         "tag": null,
         "first_seen": 1792395033.1087503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5LLVdiUkFuNFJJbFpuY2JsU2xYVlNHcG8tN0tGa3N2ODh4VVo4dlphWXpBejhEMHo3aXJrLTNORXFwNWpCRml0WWxBVUlwQWZReF9J0gFTQVVfeXFMTkstV2JSQW40UklsWm5jYmxTbFhWU0dwby03S0Zrc3Y4OHhVWjh2WmFZekF6OEQwejdpcmstM05FcXA1akJGaXRZbEFVSXBBZlF4X0k?oc=5",
-        "headline": "앤트로픽, 후순위채 금리 10% 돌파…넉달만에 1.5%p 상승[마켓무버]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "10/19 14:23",
-        "published_ts": 1792387438.0,
-        "tag": null,
-        "first_seen": 1792393235.184709
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 16:31:34",
+  "updated_at": "2026-10-21 16:45:46",
   "yields": [
     {
       "label": "3년",
