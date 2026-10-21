@@ -22,6 +22,16 @@
         "first_seen": 1792574124.179938
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Vy1fQ2hKSDZtQW9aOWduakJTUVRUWFpJZkRnMndEWnBMZFFVNTBqNVo5NVBjclEzSC1YZTJFeFlCeWtRRk96QTRlTklvSl95SzMwRmxfRDVheUlZNnc0Mmt3b1NyOHhQ0gFrQVVfeXFMTTZlWHVMQ3NmZUFhN3dSWEVXa0xocHRfc0tTQXVGekhCZGRKR0VxaUhheEQ2SnRVV0dwQlFHdjNsSVR4ZkRrZU9NS2JIU2ZFa0J6cm41NHk2MTc1cW43Uk12d2g4Z1NqaDlRZ00?oc=5",
+        "headline": "[크레딧캐치]한수원, 배당 늘고 투자 이어져도···신용도 '견조'",
+        "summary": "",
+        "source": "현대경제신문",
+        "published": "10/21 17:38",
+        "published_ts": 1792571915.0,
+        "tag": null,
+        "first_seen": 1792578632.9945703
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBkVnh1Qi14M3RhWG8yQm0wR1drT3JXWV9kamgyZ1pxaldLbGlvMmhLeEV6SmxucUIxeVZwV0s3aVI5eEhURVdlenNXZlRENTFNeHloSGtVX3JvT3FvbXFFSUREeTlQQ3JVbmNKN0RmbjlRcnh1?oc=5",
         "headline": "[채권마감] 이틀째 강세 2년~10년금리 2개월 최저…외인 선물매수+바이백발 수급",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792489279.0,
         "tag": null,
         "first_seen": 1792558839.9925938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1ielRncGlwam1OeHYxVHRONWZxT1Fvdl84VDZoY29GMm5jS3ZyeVlLeXFnSFRsNDhzakkyXzVIUS1uYTZiX0hoSXdnZ0laVE40LTFzRGdQQVlNU1ZmUEc4TDhPa2JsQm5raDFyRXBxZGM?oc=5",
-        "headline": "[외환-마감] '네고·옵션 셀'에 3거래일 연속 연저점",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/20 18:32",
-        "published_ts": 1792488746.0,
-        "tag": null,
-        "first_seen": 1792489522.7193034
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 19:15:55",
+  "updated_at": "2026-10-21 19:30:57",
   "yields": [
     {
       "label": "3년",
