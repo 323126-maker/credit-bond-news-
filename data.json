@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcWk0X2gyLVdzM0JWNUkyOU1wUzI1NkJicDhCLVREVTBuWTRKRlJfMHZDR3VNdFh1UngxVms0Y2FMaEItYThqdUhERF9DNnBfV3d3eUZfaWpxSGczbXBCZDR1aEVLUE82elMyUGU5dnhUbkI4NHI2bUVGUFR0Q0FoUFY1V1dIS1BQbVA5VlpNcXB0Q0wxTFZ3b2RWeER0dVR0RURrUGE2NV9Bck9mWHpnQ1lGbTZqWjAxZXc?oc=5",
+        "headline": "Higher Bond Yields and the Outlook for Markets",
+        "summary": "",
+        "source": "Davy",
+        "published": "10/21 20:52",
+        "published_ts": 1792583537.0,
+        "tag": "Strategist",
+        "first_seen": 1792588330.5102196
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBlZ0tzVUUwaHJKVGxBVEJJU0FERU9BeFBHcEFIVFM1VW9zWnNFMl9SRTMxVzhlWGhoS0NIWXR5bWYzNTNCUzNNN3lWQURZZWhKQ0NkNVpCLUlJZEQ5Vng3X0l6aW11WlkwXzhrVGhqS3dGOTlmekE?oc=5",
         "headline": "Gold: Relief On The Horizon",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792513251.0,
         "tag": "Fed",
         "first_seen": 1792571431.6876519
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1gwX1NHRWtrNTRhOUZUMlJWTU1zZFpCSFNBeWhUODdmWk0wMGFxdmVaV0otSVRlRi1fWXE4M3hrSUZmbGxvMkcwOTAtQjUycnJPNHJVZEIzS0tCYms5YWk4MG82SXI4MTJ6UWN4ZlI1VllqRlhEX2N2UVp2T0NWSjB3Y2U4UVZQSWp2TFg0bHFjUFcxVmZsZWNPOEVZU3JMdlE4dTh5RDFXaE54d2ZV?oc=5",
-        "headline": "France, AI debt risks push investors toward safer ultralong JGBs",
-        "summary": "",
-        "source": "Nikkei Asia",
-        "published": "10/21 01:15",
-        "published_ts": 1792512900.0,
-        "tag": "JGB",
-        "first_seen": 1792513832.5926664
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 22:01:06",
+  "updated_at": "2026-10-21 22:12:36",
   "yields": [
     {
       "label": "3년",
