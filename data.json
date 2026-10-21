@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON2IwR2d0ekV0Q1MzV3U4UU5TVmQwMGNPZXVjVnJIY2NjMGVGRXVQSUNGbTB3YkVneURZNVlxVjdyZDRkRmtpYUdvOUZ5cWcxb2hPbG02dURkZW5TOFpIRkp5NktoUF9qcFR5OTYtZnpCakZYNEIwLTRJaDExZ2pLM2RvWmdURmFJVm5ISmtfS09xVEFXZk9iOXQteW55ZGlCZ3Q2MFpMY0J6b0R3UVBQUWNRSDA2dDNTMk90Qk5NLWY?oc=5",
+        "headline": "Treasury yields hold as brokers track October Fed outlook",
+        "summary": "",
+        "source": "www.mpamag.com",
+        "published": "10/22 02:44",
+        "published_ts": 1792604667.0,
+        "tag": "Fed",
+        "first_seen": 1792604724.0744874
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbW8xSWFVVncxdjI2T25xVDl1UFNQRElRcThYVnREV1Zvb3FEd1U0XzdYV210U21xMUpaakt6VmhoSDAwQm5uX1QzeFhHd0gyd21IZjhoUE9jcnJ3bGQ3MFkxdDI5MVFGMGVFX2ljb0tZc0NYMTZQbDJPTEZpS3hrYTZmbU1rWEdMc3JkdzFpQmxHX3pvRlJwRmk1YndDWktHRGxvVG8zRG5lRXNWNEFzU1BJVGJTUQ?oc=5",
+        "headline": "Argentina’s Bond Selloff Blindsides Bulls as Election Fears Grow",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/22 02:28",
+        "published_ts": 1792603726.0,
+        "tag": "Global",
+        "first_seen": 1792604724.0744874
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOamdlUVM2TmgxMWFkNnU0UUxRYVp3ZWxpb0luTFVqRTkxby1rLXA1VFVWX1gycEpwLTIzclgtYXVmWGlWSEx1ZU5JYlhwbU9EWHJ6bVdSTUJwcmFvTEZaWTExbHZBR1hmR1N5R3ctbjNVd3pFSWNsYmZwNVVHaGluUmVuSkVvelRKYlB1Y1ptZHVKOGJQUnRBN3N2X1RRUEVuUnc0?oc=5",
         "headline": "Taas-interes, atras-pera! $45B exits US money market funds despite Fed rate hike",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792527780.0,
         "tag": "Global",
         "first_seen": 1792529126.0311916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY2hxbkx4SVFHVlN6T2NISW1TYlZsdHl2WmlvYmJrekktVlBYX0VoTTJMdmVsaExmUzVQTmxjTkxQendnX1BEbUpHSS16UFdvajk1TG8zRFpreVlPdmhJcGZIajlublhVdzQzTENnV1ppUkFndEl2OXE4S2FQVUdlbkJ6cFB0QnZOZmJWemxRbjFTelVKRktRSTRXMTgyMm5aNF9ZTE9ucDBqYl9Fdi1FbjNfcEI?oc=5",
-        "headline": "The Government Can Set the Price of Rare Earths. It Cannot Set Their Value.",
-        "summary": "",
-        "source": "InvestorNews",
-        "published": "10/21 05:14",
-        "published_ts": 1792527297.0,
-        "tag": "Strategist",
-        "first_seen": 1792529126.0311916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ENDJjNy1hWnRDQlNNbWFiSWhlczBTMGJGaHp1Nnh1T1BQdlduZGlJcDNCQWZNcjB0LUJiVV9xdm5xR2JSdHc3OU5hWWtySXRWd185SzlvcFUtcW82Z0dYMTFnc0w5QnRfZUsweUcwNHQzYmNaOEE?oc=5",
-        "headline": "Gold Falls Below $4,150 as Stronger Dollar and Rising Treasury Yields Weigh; Analysts Warn of Further Near-Term Weakness",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/21 03:17",
-        "published_ts": 1792520220.0,
-        "tag": "Fed",
-        "first_seen": 1792542629.9876294
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 02:30:56",
+  "updated_at": "2026-10-22 02:45:50",
   "yields": [
     {
       "label": "3년",
