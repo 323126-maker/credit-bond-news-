@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0ySFEzbm9neEdHSXZJVGpDM1hrQjY0b0dqQkNRVzBGVkFxQWx2SzZvWVhXQzdIQWdYV0hOb2dpdC01X0M2YXhGOFE5SWR2MTBKNzRBS2JRdjdzV3dBSVhuMDc0VUhRU3pL?oc=5",
+        "headline": "채권시장에 찬물 끼얹나…한은 '매파 신호'에 금리 상승 경계",
+        "summary": "",
+        "source": "www.ebn.co.kr",
+        "published": "10/22 06:00",
+        "published_ts": 1792616400.0,
+        "tag": null,
+        "first_seen": 1792619124.3846996
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YM3FoYnMyRXBTZHgwN1c3UktyOFoxSWtKbHM0emQzQnBjMURaOENwZm1KdTY2eDFTUlhEWmV4TV9OS2o0STdFbjZWT0RCdV81eVZCbUFIM3ExWVZmREE?oc=5",
         "headline": "한은, 오늘 기준금리 3.00% 동결 유력…향후 경로 주목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792371168.0,
         "tag": null,
         "first_seen": 1792382435.2809558
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE80YmVhWHlEM0NncE1WM1hiSXdLbTAxNFJmelU5RXR4aVVKSHdKWUkxdXZOZG9mWG93OGhNenE5M01wcG9fRmpEY3JoaUpfbTF6U0xGMmtrd19rRnJCVThxUHlxS1Rtb2d0?oc=5",
-        "headline": "보너스 진행 막대가 있다면 보는 라이트닝 룰렛 수수료 표시 의미",
-        "summary": "",
-        "source": "Calgary Roughnecks",
-        "published": "10/19 09:45",
-        "published_ts": 1792370731.0,
-        "tag": null,
-        "first_seen": 1792386924.3124425
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 06:37:36",
+  "updated_at": "2026-10-22 06:45:59",
   "yields": [
     {
       "label": "3년",
