@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VbWRJQ0xaU09lRFg4dFpaSTUwS1h5Sl9xZWRTZWwyYjM5RjF2bV96SDBKRmVGTXJqamNxd1lVV3lTTHEtTXZ1RXdDbTdjdkZZZ2dmV0ZkcE9ibVlkMUU0am1CR3RBSDRRQ2VWdEIzTDk?oc=5",
+        "headline": "채권시장에 찬물 끼얹나…한은 ’매파 신호’에 금리 상승 경계 By EBN",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/22 07:32",
+        "published_ts": 1792621920.0,
+        "tag": null,
+        "first_seen": 1792623636.065387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB6dk1sWVdKX05EcVB0N0RjQl9zVnVPcUxrY29fNVc3a3N2Q3BYNy14Q2w2VVhRRk84SGk1ejladmk0T3dZa00ycGhsRzBpWVo1aEtLd1hMR2xQZDc0cng3Y0R1NXlKLW9rSVVxak9yU0RvUQ?oc=5",
         "headline": "[뉴욕채권] 국채가 하락…막판 중동 불안감 자극 소식에 약세 압력↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792506968.0,
         "tag": null,
         "first_seen": 1792507524.0153785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcXdBUmxZc2FDS1h0ZkNxZ0RPbm9oMWZKNDRMakNqMU9HalpRejV3Ni1mUlVhWjVtWUZNei16MDJkS1RRdllHVDdvSU9DX0V5OU9rQjRSbmxQa3daSlJLZmhpd3hVZFBsaklHTnotQnRJamEwQ19NLV9aQ2ViUU9wampZd0R5dENUSFM3Z1N2cw?oc=5",
-        "headline": "대주주 바뀌고 기준금리 올라…롯데렌탈 100bp 겨자먹기 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "10/20 23:23",
-        "published_ts": 1792506189.0,
-        "tag": null,
-        "first_seen": 1792506631.2061281
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdHliZVZBdDlzblNGU0xFbnZuNmVZa0V2R2JfQ25XX3p4RlhFQ0Q1bDYyeUZ3Y25mRlB6Ym13dGNGSmF2alVIdEx4ZUtJSzdiUUF1dVVWWVAxaHg5ZlZsdjFKc2ZZZi1MaUE?oc=5",
+        "headline": "日 금리 1.25%에도 엔저 지속…미·일 통화정책이 가른다",
+        "summary": "",
+        "source": "컨슈머타임스",
+        "published": "10/22 07:51",
+        "published_ts": 1792623091.0,
+        "tag": "JGB",
+        "first_seen": 1792623636.065387
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZmhmaGY4emNIR1hmVFhSREVBQmFJa29LLTF2NVBKV1kteldoblFobUtsak1FZk44c0pGUkJfbHZuYjRTOG1IbWtPb0UtN0VDUU5oSzhRRFlUQnM0bTdOWkhzQ2FGTUdDamNtQ0pXcG9GeFNkZHg0b0NTbzlVbkhUdkZZRXNMYURHOEtxaklTcndVY05ORVNR?oc=5",
         "headline": "Why Consider Actively Managed Investment-Grade ETFs?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792551167.0,
         "tag": "JGB",
         "first_seen": 1792557923.3500109
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWdPQjhMbjAxRVVBbTlHSDZYN1B2eXpJdGFJMWRTTm1jVXNBWmNOV3lzdDF2TGJfNU9RM2tJWW95SVpwUk9wdVZIWm9lTUdkUmFkNGlYWGdHODVBd0tyN0hKLUFldjZoRDJhLWdVbi1SRkxGdVhhb2diYWo5OFlSU3h2SU9TSzRGajZCb1NCRm94RGExc2gtVzh5MllHN0JZRGVwaw?oc=5",
-        "headline": "HSBC CEO warns not all data centres benefit from AI boom",
-        "summary": "",
-        "source": "디지털투데이",
-        "published": "10/21 11:11",
-        "published_ts": 1792548666.0,
-        "tag": "Strategist",
-        "first_seen": 1792550725.0142295
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 07:45:50",
+  "updated_at": "2026-10-22 08:01:02",
   "yields": [
     {
       "label": "3년",
