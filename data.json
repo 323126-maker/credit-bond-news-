@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDOVpJaU50QUlSV1pwWTRyZko3UDEtcGtxWEJ5NlNEYmVBZG40a25xUWVweHdMLUMxNDdyNU41Z0tMZVAyMllWSlRRNFZDVi15V3dz0gFTQVVfeXFMUEM5WklpTnRBSVJXWnBZNHJmSjdQMS1wa3FYQnk2U0RiZUFkbjRrbnFRZXB4d0wtQzE0N3I1TjVnS0xlUDIyWVZKVFE0VkNWLXlXd3M?oc=5",
+        "headline": "與정무위, ‘공익신고자 공개’ 오세훈 때리기…野는 “재정 빨대” 공세",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/21 15:20",
+        "published_ts": 1792563607.0,
+        "tag": null,
+        "first_seen": 1792566922.6969442
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lYmpXSFJVc19NSHZJTDRCUjJ5RnlZSGRQZ0lSS00zc0JlYWk4M0Vkc0Fxb3plQWJrTmVNUkV6NWhCeFZqNXlVWUNCRnVfZncwX3RSZmlyNm5HZHF0ODJ6QUFYSWRKUnhaM0pxNWxmMlhZT2ZNZGhlRGtqTdIBgAFBVV95cUxOWVNzaWp5RXM1UnBDdm5mSGpkNWlFTEQ3ZFh3WWtfQmFTeFBZdmtVR2ZvaEY3aEdQRkdBRXktMDNiYXl0aFFoS2V0RnRnTjdnYThya3RTRkN3eDJvSUFxV08wcFg0M3JkUjI2S3lJRXF0alc1VzBsRzVISGdoUHl3MQ?oc=5",
         "headline": "김어준-친여·반명 커뮤니티, '소방 빨대' 추미애 지키기 나섰다",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792301761.0,
         "tag": null,
         "first_seen": 1792305029.9888213
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHdVFqOHZ5NDhZRGhtcUdvRXpYOUkxLWxtakFtS2NIU0h4bnczaTNBcE1jNncyT2R6ejBXNzd3c3BQSEdQLWZSNUVibkNhU0c4WW9HU2dRQ1liZWo4UEE?oc=5",
-        "headline": "추미애 '재정 빨대' 발언 후폭풍...민주, 조희대 탄핵 추진",
-        "summary": "",
-        "source": "YTN",
-        "published": "10/18 12:45",
-        "published_ts": 1792295100.0,
-        "tag": null,
-        "first_seen": 1792296035.820045
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-21 16:01:01",
+  "updated_at": "2026-10-21 16:15:47",
   "yields": [
     {
       "label": "3년",
