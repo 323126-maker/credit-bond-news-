@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMGtzUGtaMXVTNWtfcThlZzFhNVFzdnV0aWR1NEQtc2lPVXFrd3NBNFVVbTh5d2tyWGV2bWRIVkRGMlp5SHhLVXAteTdQcHh1aVd6SjdING5KWXI3VnRUWXVEaFFWYl9VTUZ5NkZQOEFwam5vcVJSNzlodWFsNnVDQzFHTHhNVjhUZ2c?oc=5",
+        "headline": "Europe should not depend on falling U.S. yields, Mohamed A. El-Erian writes",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "10/22 20:05",
+        "published_ts": 1792667114.0,
+        "tag": "Strategist",
+        "first_seen": 1792669525.9375005
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJJWGJaYVVEUWhldDl4SjhWZUJrOVBnRVhlbExWb091SVVUUzhXSllsY3hfV01tZU9yVk5sS1hZUVA3QzdDX05RQUVpT00xemxnUjBHNDVIZGdRV01LOTVMcDlONXROMERJSnViOWZBdHBUdm5nS2dVSTZBcV9waTlTcVduOV9xQXFMby12MDVPNUJUZ09kbld4X2lucVZuSmJ5ZnJLUXVPSWc?oc=5",
         "headline": "Indonesian leader rejects market downgrade warning after stock market sell-off",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1792663224.0,
         "tag": "Global",
         "first_seen": 1792663530.0666027
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSUpRUnlTbWpjOC1xNXNMSGlSNExmZ21tejQxcjlKbmp5T1h5N29VWW1tN0ZwMXNUdDhPQ29IQS12T0trdTFCZlFKVnBpem94bTIzNVUtQkNJeXo3NzNqQko0cE11WGNfczNVUVdUYU9pcUxZN1ptY1Nia1ZUTThteEZISGJNc0p2cnlVZ09FeElycUxDc1lKWTBlel83MS1ia2pES2hPSFlnSUhlWXlBS0lQNWdWVklaTzZsTTRRekdrekhqZERrZ3JsMTB6SXlOdFE?oc=5",
+        "headline": "CAC 40 Today: Paris Rises to 7,956.70 as FED Chair Kevin Warsh Declined to Signal an October Rate Hike",
+        "summary": "",
+        "source": "BBN Times",
+        "published": "10/22 18:52",
+        "published_ts": 1792662760.0,
+        "tag": "Fed",
+        "first_seen": 1792669525.9375005
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCcGZzX2V2MmdrWXFfQ2xNc3BfSllEQ0VKZzJBb3ZzekZETmc0ekdMNTM5T1dRZi1KRVZKeWZlRm9GM2tBM2YtajhDcnVJeml4cWMwb2JMdXQyU3FTeHhUOVZ6clpSUTN2VjhDb29OZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792616147.0,
         "tag": "Global",
         "first_seen": 1792616435.9193902
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNV2s0WDNHc1RkblI5S3lJU2QyVWt5cG5JZl95YjVFazJ5UkhLdjNGQmE2MWNCRVV0ZGxUZmdHTmJKTURsd29meldFU19tMC1JWUxrOVFSeDBpSi1OdklXQzlkWXloZGZFTldzNzRJXzdBZ2hhcjAzblBLczBVcTN3d19tQVU5V285VjFGUnhLQ0NHdi1sdWtDVllCVDNXQUJlQTA0Yy1n?oc=5",
-        "headline": "How Likely Is A Recurrence Of The European Debt Crisis? – Analysis",
-        "summary": "",
-        "source": "Eurasia Review",
-        "published": "10/22 05:26",
-        "published_ts": 1792614419.0,
-        "tag": "Global",
-        "first_seen": 1792622722.6170065
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVzVGX29tUk1XRXdWdlVjV2JNaTBxMmltOHlvV3NobTlmRXBpMjd4bE9nSF96cVRWTGpNdWk3Mlh3UC1wekh5bk9sTlAwLVRYNzJfeUxTTnJLUmFRVHA1ZkFHTFFGTVRqUDI1RXFaMXpNV1RDcloxSEF5eGZ1dktlN3YwSlhkd2VxVTI1TzV3WFpJUVY4SWlWVGtn?oc=5",
-        "headline": "BlackRock sees historic opportunity in high-qua...",
-        "summary": "",
-        "source": "Pluang",
-        "published": "10/22 04:45",
-        "published_ts": 1792611922.0,
-        "tag": "Global",
-        "first_seen": 1792612838.2771566
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 20:30:55",
+  "updated_at": "2026-10-22 20:46:03",
   "yields": [
     {
       "label": "3년",
