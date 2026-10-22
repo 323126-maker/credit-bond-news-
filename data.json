@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0xVRlpnLTRRMENUS2stcV81RVkwM0RkX2FFbk1fakI1SG5OOEdjVjhlM1VVRlJIUEhGWU52SFRxWnZoSGZXMEhzS3dyN3NCMzQ5YVRwajd1bmVKWTFUMkhtdDZibC0zN2VkTkNBem5WUHJYU2s5TlZ3LUZXc2FfWkVYR2VnTFMyV3hGY1RTazg0ZUtRZzkza1BDbzZSSm1tYXBCZ3NyMHBaWjBjam9qUDln?oc=5",
+        "headline": "Disappointing 20-Year Treasury Auction Underscores Weakness In The Bond Market",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/23 01:36",
+        "published_ts": 1792686960.0,
+        "tag": "Strategist",
+        "first_seen": 1792688439.740414
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOd0lJbW85bWZ5Zm91Z2pZdVlBZGlQYUNMbVdGVy16bXNOQXNaT1lQMzEydW5Pb2F4RHVtbTRhb0tzd0xYWHZhTlRCdkRNSlB5UjFVTVZZd05tNFY0OGNkZnZENVJYcnhZVlRaSzhGNVlqdWw5bjZ1MlI0cXVabmRUSVFicVZ6NF9SVnc3Rl9hZHQ3SHVYbVFwZVA3TUxScU5aVndGQ0pOM0FXYnpZamtmV0Nua1pkeTdxN3QxeGV1NmFPOGVGSHNpVm9HVjdTRlI0ZHQ4M1prWV83ejJMUko1Q1g1UXc1Wmgya2ZWNXhMV2taaERCZlVDZERXVDJjUWFrOFZBakNXT0EwM2c?oc=5",
         "headline": "Average long-term US mortgage rate eases to 7.32% in first pullback since late August",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1792683385.0,
         "tag": "Global",
         "first_seen": 1792683924.3373342
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JS05QdjRzb2ZZT2FHVGZFUmJDVktER1FUckpUVGVNZWZjTENSRmNIcnR6ZXJiNXI2X0hTdThrTXl6NzJXQVJyY21pREctQnlGdUVQM0h0dkk3QmFHaGlwOThCUnFPaFB1TmwxX3QxN3c0dw?oc=5",
+        "headline": "달러-엔, 위험 회피 심리 확산에 급락…증시 하락 여파",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/23 00:03",
+        "published_ts": 1792681435.0,
+        "tag": "JGB",
+        "first_seen": 1792688439.740414
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HTWJLWEdRcmpMeGFJZUlDVjA5WEI3b1VxcjZRQUpZM3pFNGI3UUdXWVNNc243VDIwSkJROUxqdWlENDVxeEwwOHBwYzVnRXh0MWFxb0tMVm5qd3FkTDlPMDVnVzBsSkZDc0NXZ1hUSTZxSm8?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792639440.0,
         "tag": "JGB",
         "first_seen": 1792648835.0983813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNem5yMGZjbC02bEdzS09OeWxnV09kNVZYZWRBUHpCM3FCbWhDM2ZCTGhrVnBTWUlnMk1hSVpKWjc1RldoQXZLdWtLY3hESmUwb1phRHFPajd6SWFkSkRWemNlY01QbE5XQkttQkRkSDdBVWtnUnZKOVZvNGlsd0lhVHlvQWR1amZRMXpKTjBkYXhKNnN3cFF1VzRMdVUweHNxd2FtU2owUnNGSW1uSmZXaTE5V2lsZFQwcTRabG9SZlY1NzdF?oc=5",
-        "headline": "BlackRock Executive Spots Opportunities as High-Quality Credit Bonds Enter a Strategic Window",
-        "summary": "",
-        "source": "NAI500",
-        "published": "10/22 12:07",
-        "published_ts": 1792638434.0,
-        "tag": "Global",
-        "first_seen": 1792638924.8988445
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4xOXY1bVU0ak5xaGNQclA4bFpCNUNiT1ZCZjNpazlrYnZEVWVZYmhYMEtJSXVJQXZQS2J1WEdNYXRfX2hneHY4T2YwSTNsX0wzZXljb1hXRk5xak01eDZrd2pCLTU4QkRMeFY1eFo1andmWnEzRFE?oc=5",
-        "headline": "France's 10-Year Government Bond Yield Breaches 5%, Highest Since 2002",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/22 11:55",
-        "published_ts": 1792637700.0,
-        "tag": "Global",
-        "first_seen": 1792640724.8460891
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 01:45:49",
+  "updated_at": "2026-10-23 02:01:07",
   "yields": [
     {
       "label": "3년",
