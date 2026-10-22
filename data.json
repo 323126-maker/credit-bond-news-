@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBNT0x0Y1Z6RWJFXzMwRzlOeWhCUGR0TXFqTmgxcmFIZENuNi04OFZ6LUsxTmRWa3lxaWE4Zm83cTBVNzdWdVlpLWdMbml3Mng4RHpJQVJYU2d4NW5tdkpXRndNaXk?oc=5",
+        "headline": "한은 기준금리 '연 3.00%' 동결...국고채 금리, 혼조세 '3년물 1.8bp 상승·10년물은 하락'",
+        "summary": "",
+        "source": "베타뉴스",
+        "published": "10/22 20:22",
+        "published_ts": 1792668172.0,
+        "tag": null,
+        "first_seen": 1792668631.4973154
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1xU3lEdUNYTU0tYzNxSllmQzR3T3BCRWo3NkduUzA1UzlOSmdWWlEwVVZDSWJ4WUNfNXVTckdtYXU4c3N1M3N2cENqWmd1LWgxREQ3b2J3aDNjSkhKSkpBQ2FwMlrSAWhBVV95cUxNZkpyNjZ6dHY0eFJ6dlh2M25VV0Riam1jY2lobVVNTm4wYnRYRnpYT1NOeW9ZTlBtMTI5RXhYUXdiRjJZR00wcEtVTHRmMk5obFNCS1BYR2h4YXV5WHRmZjRETm5vN1BXbw?oc=5",
         "headline": "구윤철 前 경제부총리가 인천공항에서 '잘린' 이유 밝혀졌다!",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "뉴스핌",
         "published": "10/20 10:08",
         "published_ts": 1792458480.0,
-        "tag": null,
-        "first_seen": 1792458923.300827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9TU1M1UmVfYUJKbG9XckpmcThpQmJfUG8xOXExUlY0SlRsbUdDUmdvMVNvVDdfQnNsMGZ1LTZ0SkdoaGVKZDR2R081NVVyMEtteXdmMlRudkk2cWFxLWk0ekRfR08yeUZVY1hVbnBoY08?oc=5",
-        "headline": "금투협, 11월 채권시장 심리 개선…금리 하락 전망 21%→40% '껑충'",
-        "summary": "",
-        "source": "리드경제",
-        "published": "10/20 09:59",
-        "published_ts": 1792457982.0,
         "tag": null,
         "first_seen": 1792458923.300827
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 20:16:03",
+  "updated_at": "2026-10-22 20:30:55",
   "yields": [
     {
       "label": "3년",
