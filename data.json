@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGUUNua2VwYk50Ymd3ZnZ1enFVbDMzaWhraDFZZW04c2hpLUFobGtXb2FnbUpHdjRKa2c5RjJQV19keEFMLWFqdkQ0MkJSalVrbGVhX3dwT1g?oc=5",
+        "headline": "[메타에 발목 잡힌 업토버 ②] 메타 CDS 사상 최고…채권시장으로 번진 위험신호",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "10/23 08:12",
+        "published_ts": 1792710756.0,
+        "tag": null,
+        "first_seen": 1792712724.6482196
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWTNYZEtDNks3RXZ2eHdMUF9yMTJTc0p4eTMyd054ZFJNQXR3Nng3c2wzVWl1Ym8wTHdtNnY5b1ptcVRuaFhkeHZWenVJSlE2aW9rRXJjcDd4a2xfVXg3MGRPRXFkbUk?oc=5",
         "headline": "[장인화 포스코 3년 (上)] 영업이익 9조에서 1조 8270억…이익체력 어디로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792574132.0,
         "tag": null,
         "first_seen": 1792581323.0437553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UWkxOQktCelJqMzZJWTFTd0pfUmxGMldVVDhWbXJha2p6YzVsZGxsbTkxNDFDRGZENmMwVnhwelhIMmVVNG5rRy1kcG10UWJkMWYyZ21ycm51d9IBWEFVX3lxTE94WWV4Tl9Xc1JhRHZ0aU96MjRGZzFDblJOVTRHQXlTWE05QWNTcW44LVJSWkpob0Q1WUtQOGpmcWNCZzFtXzhBbm05U2xiZlFrMm5ULXhpZjE?oc=5",
-        "headline": "BBB급 회사채 두 달 가까 0건…비우량채 시장 한파",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/21 18:01",
-        "published_ts": 1792573299.0,
-        "tag": null,
-        "first_seen": 1792574124.179938
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1792710926.6716459
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkhmSEFiZXNGVkdETXNWWkhOdml5VzBfUUpsbWVkbjBGLV85OC1OOUdKUHNGd0RuUFU2cVdoRUlDTUxOUzQ2RXdfOWZVR1ZVcVlkMmZVWFpNa3dBWEJOM2t3MHZ2MDc0VXB6T2M3cHBRb3FzSmhlZHJuR081V3NuYw?oc=5",
+        "headline": "The Federal Reserve at a Time of Uncertainty",
+        "summary": "",
+        "source": "American Enterprise Institute - AEI",
+        "published": "10/23 07:17",
+        "published_ts": 1792707433.0,
+        "tag": "Fed",
+        "first_seen": 1792712724.6482196
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTkYtek5STGRlYjRVR0FvSDNsSXVrdWpkZnpGS2FwMDhBVFlodFJnWTB5eGZvOXdaVXVPd1lmMjFuOTZwY2d5Wm1nNkdFLUlGVDNIU2E0SFNVOTlReWlpTDVmWG4zNGQxbVFBYmotOWdNRlhnUUlIV1hTelhIeVYwWDFvemJJc2dwRjNqeVZ6djJoNnotVnVxajJJc1Q0ZWc?oc=5",
         "headline": "Rising rates are stressing out the riskiest companies",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792663224.0,
         "tag": "Global",
         "first_seen": 1792663530.0666027
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSUpRUnlTbWpjOC1xNXNMSGlSNExmZ21tejQxcjlKbmp5T1h5N29VWW1tN0ZwMXNUdDhPQ29IQS12T0trdTFCZlFKVnBpem94bTIzNVUtQkNJeXo3NzNqQko0cE11WGNfczNVUVdUYU9pcUxZN1ptY1Nia1ZUTThteEZISGJNc0p2cnlVZ09FeElycUxDc1lKWTBlel83MS1ia2pES2hPSFlnSUhlWXlBS0lQNWdWVklaTzZsTTRRekdrekhqZERrZ3JsMTB6SXlOdFE?oc=5",
-        "headline": "CAC 40 Today: Paris Rises to 7,956.70 as FED Chair Kevin Warsh Declined to Signal an October Rate Hike",
-        "summary": "",
-        "source": "BBN Times",
-        "published": "10/22 18:52",
-        "published_ts": 1792662760.0,
-        "tag": "Fed",
-        "first_seen": 1792669525.9375005
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 08:30:54",
+  "updated_at": "2026-10-23 08:45:48",
   "yields": [
     {
       "label": "3년",
