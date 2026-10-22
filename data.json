@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONXJKWUtFeFU4dmJnSV9nMVh5M1lUUDV0NF9KN3c0TnhWVldaSGdoYkF4N19DLS0tajMwWnZYemhqaGlUVjhlZTJkTHpDeVM4U0t0YjhIR2szU3JNSzNUc1N5Umdiak1YM1BiSEt3YXdRMTV1al9RcE1nOHZwLXdobXNwRjF6QTlzTTRWR1A3dzJFU1pDZUE?oc=5",
+        "headline": "French Bond Yields Surge, Stirring Euro Zone Debt Concerns",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "10/23 02:27",
+        "published_ts": 1792690069.0,
+        "tag": "Global",
+        "first_seen": 1792691125.5772226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPd0xVRlpnLTRRMENUS2stcV81RVkwM0RkX2FFbk1fakI1SG5OOEdjVjhlM1VVRlJIUEhGWU52SFRxWnZoSGZXMEhzS3dyN3NCMzQ5YVRwajd1bmVKWTFUMkhtdDZibC0zN2VkTkNBem5WUHJYU2s5TlZ3LUZXc2FfWkVYR2VnTFMyV3hGY1RTazg0ZUtRZzkza1BDbzZSSm1tYXBCZ3NyMHBaWjBjam9qUDln?oc=5",
         "headline": "Disappointing 20-Year Treasury Auction Underscores Weakness In The Bond Market",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1792683385.0,
         "tag": "Global",
         "first_seen": 1792683924.3373342
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbUgwLW1YcWVMeGdXUnVxTzIxci1OY29vbm4tcTRRMlk5REd3ejAyTzNkNjFZR3ItNDFUUUNiRF9sSXFkNm41VVZxaXhRek81ZVN3M3hIR2RvWHQ3WlhnZVJQU2lvUml5V2NKdVc3OGU2b0djQTN6X0NrRzQ0UDEtM1YxaUt4LXZXSDlQa1hvU3I5Z1Y2dUE?oc=5",
+        "headline": "Credit Markets Are Signaling Trouble Ahead In 2027",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/23 00:18",
+        "published_ts": 1792682326.0,
+        "tag": "Global",
+        "first_seen": 1792691125.5772226
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JS05QdjRzb2ZZT2FHVGZFUmJDVktER1FUckpUVGVNZWZjTENSRmNIcnR6ZXJiNXI2X0hTdThrTXl6NzJXQVJyY21pREctQnlGdUVQM0h0dkk3QmFHaGlwOThCUnFPaFB1TmwxX3QxN3c0dw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792640165.0,
         "tag": "Strategist",
         "first_seen": 1792648835.0983813
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNZGpFUV9TUU1mYzJWUjRrZjQyQjY2bFBoMF9PaGVjVTBmRzY5dDhmQVFycXJYZmJockUxd0RWU1JDb3M4U3FlQTFxNmc4WXphTDJCOUhUWDFnaGl5dHVKNE85SnQtU2twNWVoaUtQQV95U2RxT1JKTnlOS2J6ZW05dnZacHA3ZnkzOXVYVjU1ZzZEZTVRYjZrbU83bXpmUGgwZUlnQUx4UG56T2R4SEJ1U21qZmNmNkxhekZxT0thM1ZKaTlLZV9nQThyQWJnZw?oc=5",
-        "headline": "Foreign Investors Pull RM1.8 Billion From Malaysian Bonds In September Amid US Rate Hike",
-        "summary": "",
-        "source": "BusinessToday Malaysia",
-        "published": "10/22 12:34",
-        "published_ts": 1792640086.0,
-        "tag": "Fed",
-        "first_seen": 1792642524.6005185
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMmZrRFQydloteGdzLXpBOU85WHBOX2dzRFFRWEIxbDFrWXNlRS1DZy1tUlhtQWlZSUpjN0tNUTNzTlluZ05PT0xhZ2tlVlYzUFBOd0Q0NVFxRldCQzlPVVZ4UEk4eF9leVozb3VnYzNLcGJPYzNvSXh0T0ZSZjlVRS1vOHFUXzhTN1JCY21JbFluUWdCdzZSOWEzeE9UQQ?oc=5",
-        "headline": "Japan’s 10-Year Bond Yield Falls to 6-Week Low",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/22 12:33",
-        "published_ts": 1792639980.0,
-        "tag": "JGB",
-        "first_seen": 1792642524.6005185
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 02:30:59",
+  "updated_at": "2026-10-23 02:45:47",
   "yields": [
     {
       "label": "3년",
