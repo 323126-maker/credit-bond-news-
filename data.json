@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGphaHUtVm1kblAwY21ieEpqWksyZUJXT1prRzRFUGNxbFRqZkZBRXNXQzRUYTNfSGZENDJNaWN3c1p5YWJwenUyb3JBTlFLQlBLQ3l4Q1d2ZmFSZElpNTB2XzBfVjlxZTlzWFh5ZDYyLTNBSjdocTd3TUR6bHFsZ1BrSW8wR1ROTDYw?oc=5",
+        "headline": "Market Minute: France is in a bind. Is there a way out?",
+        "summary": "",
+        "source": "The Real Economy Blog",
+        "published": "10/22 19:00",
+        "published_ts": 1792663224.0,
+        "tag": "Global",
+        "first_seen": 1792663530.0666027
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBCcGZzX2V2MmdrWXFfQ2xNc3BfSllEQ0VKZzJBb3ZzekZETmc0ekdMNTM5T1dRZi1KRVZKeWZlRm9GM2tBM2YtajhDcnVJeml4cWMwb2JMdXQyU3FTeHhUOVZ6clpSUTN2VjhDb29OZw?oc=5",
         "headline": "AI Stocks Could Crash in 2027: 3 Ways to Protect Your Money",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792608540.0,
         "tag": "JGB",
         "first_seen": 1792658722.3134334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQUnFEcmFrNHFaOHNvckVUbjBqcXVJZzhRcVNDS3ppUkhxX2s5amhXVWNsM2ZPWllrQlpVQ2JzNFZUNlVGQTI2YVNPalFJbmkydTdROWQ3eHA5T3JLZTZuaGRVcmhBUEZoUHBSZm9EUmtWMlhHRGlJbmVqLWR1UlJWUTE4UzNvZ0JpdUo0OQ?oc=5",
-        "headline": "Where to find 5%, 6%, 7%, 8% bond yields now",
-        "summary": "",
-        "source": "Fidelity Investments",
-        "published": "10/22 03:44",
-        "published_ts": 1792608264.0,
-        "tag": "Global",
-        "first_seen": 1792609235.9372208
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 19:01:02",
+  "updated_at": "2026-10-22 19:05:56",
   "yields": [
     {
       "label": "3년",
