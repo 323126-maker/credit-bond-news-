@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2Y4Xy1KZXBNY1htcEVGelh0blNYMk8zNUJ5YnRFQVJob21WWXc5OFFpTGdVMW5sd0hKdjNhQnZLRXJsdTR4bXZOMk1WYk5BWXBvSDc2Q1J2Wmh2UlpvejBuOVdzVFRyT2hycWl0Z0RqUTRlZTF5dmo5aXNuRW5ubEtJNG9tcXdkNDRadnBtenFLNUQyWXc?oc=5",
+        "headline": "Markets Bet Warsh Holds Rates Steady, But He Won't Say So Himself",
+        "summary": "",
+        "source": "Startup Fortune",
+        "published": "10/22 21:26",
+        "published_ts": 1792671966.0,
+        "tag": "Fed",
+        "first_seen": 1792673125.7636292
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNMGtzUGtaMXVTNWtfcThlZzFhNVFzdnV0aWR1NEQtc2lPVXFrd3NBNFVVbTh5d2tyWGV2bWRIVkRGMlp5SHhLVXAteTdQcHh1aVd6SjdING5KWXI3VnRUWXVEaFFWYl9VTUZ5NkZQOEFwam5vcVJSNzlodWFsNnVDQzFHTHhNVjhUZ2c?oc=5",
         "headline": "Europe should not depend on falling U.S. yields, Mohamed A. El-Erian writes",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1792661160.0,
         "tag": "Strategist",
         "first_seen": 1792662324.417485
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ0NoNktZXzFVYXQ5UmxJLVRCd1RfYTNwNWM3ZU8tNzZaamhMdzdxR1VGclFTT2EwbU44emF6OVR2OU54VFpTNDNhdHJudFNidDNTZlJoeVNjaW5KUGdldkRJTld5MVVlYXpvUlYxemViYmhsU2Uwc3A5aTFBYzJmbm9UUGVHWjVPQ2RQbmdvUVFPSTFscTJhcVVMUEdzTGxLYkFXcg?oc=5",
+        "headline": "Why Small Caps Have Recently Traded Like A Bond Proxy",
+        "summary": "",
+        "source": "Real Investment Advice",
+        "published": "10/22 18:09",
+        "published_ts": 1792660193.0,
+        "tag": "Strategist",
+        "first_seen": 1792673125.7636292
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TbkRYSHR0U2xiWmUtNGQ5eWFlYzhubjZrNFg2YTdTMmd0ZkxiWF9kZTdiek8xeXplSENJLS1IQVlvOHFyRzZDbGU2eGk4TkNIWFE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792623681.0,
         "tag": "JGB",
         "first_seen": 1792656033.3253217
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wdHliZVZBdDlzblNGU0xFbnZuNmVZa0V2R2JfQ25XX3p4RlhFQ0Q1bDYyeUZ3Y25mRlB6Ym13dGNGSmF2alVIdEx4ZUtJSzdiUUF1dVVWWVAxaHg5ZlZsdjFKc2ZZZi1MaUE?oc=5",
-        "headline": "日 금리 1.25%에도 엔저 지속…미·일 통화정책이 가른다",
-        "summary": "",
-        "source": "컨슈머타임스",
-        "published": "10/22 07:51",
-        "published_ts": 1792623091.0,
-        "tag": "JGB",
-        "first_seen": 1792623636.065387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRVgxcDF1U3FhT0VtZ19VY1NvclVqTHA3ZDk5UGNFX3BodHJ2VVpRMEhpT3ZmNlRLYk5iZDBIMlU0WW51SjEwcmJsWE9EcXZsTlJBdFNKZ3dlSm9nUGRCM0g5SDFCRk9ERE03WWpPLUdndDNmVUdBZ1ZNYkNubzZsOV95Nzk4bWVKQjRrb1JHSXBkdXM3N1BwdXUybUF4di1hRTNQdEx3c0M?oc=5",
-        "headline": "CoreWeave’s market confidence erodes as bond yields spike and stock sinks",
-        "summary": "",
-        "source": "CNBC",
-        "published": "10/22 06:12",
-        "published_ts": 1792617149.0,
-        "tag": "Global",
-        "first_seen": 1792655125.3150241
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 21:31:06",
+  "updated_at": "2026-10-22 21:45:50",
   "yields": [
     {
       "label": "3년",
