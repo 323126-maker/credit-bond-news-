@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMll3bDRiR2RJeEctLWxkMk50azh0cHJhY1BmWlpkRnhDd1ZFSHRjNGNYMnEydFRYRWdFQWZ4TjNva1RVeC1rNzFZRjZmSjc3czlJRUQ2U3ZNVU5Od3lqRDBlYktHZjl6SXplZVAxOUVOMGc?oc=5",
+        "headline": "[포커스] 상반기 줄이고 하반기 채우고… KB금융, 신종자본증권 운용 전략",
+        "summary": "",
+        "source": "오늘경제",
+        "published": "10/22 19:00",
+        "published_ts": 1792663200.0,
+        "tag": null,
+        "first_seen": 1792664125.7327976
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WWGVsZVo3dXFzVlI1OHlEWl9HUlBDdVRUV1pJNUozZ2dlYndGNXlQdTNvRHpscXc2UlUwODlRbnZLYlVJRGxWdkdrYk1USDI5RndpWUhBYklyZXlsNDg3T2FyV1J6dzdBSlR0S2VPTnc2NW8?oc=5",
         "headline": "금호건설 살려야 승계도 산다, 박세창 신종자본증권 베팅 고육책 믿을 구석은 'LH 공공주택'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792460284.0,
         "tag": null,
         "first_seen": 1792475124.4215243
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12OHQ5U3JoVUF4ZldXNjVQQ2JpMHZWSEY0akk4S28xaTlsOEF5MU1xajRHX2RsYzZUYXdTUHFJYlJOcVZueFZFZVQ4Wmp0eHN3U2Jhekl3?oc=5",
-        "headline": "삼성생명, 금리상승기 해외조달 나선 이유",
-        "summary": "",
-        "source": "DealSite경제TV",
-        "published": "10/20 09:00",
-        "published_ts": 1792454423.0,
-        "tag": null,
-        "first_seen": 1792497638.2964401
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXY0Q1cwWl9VVno4dWdVLXpMeTZOUEpqalR0ZTRGRjg0THRkN0ZYQzN1cHA4cjdrUm51M0ROT1I0VEYzal9VTHl1MmpPaHZhQUoyNTdnb1JoMDRTYS1yMS1TVV9hRWVENmxCM3FjZjF4T1FSQkV2Wm91ZnQyd2U3ekJNTUU?oc=5",
+        "headline": "Europe’s bracing reality on US bond yields",
+        "summary": "",
+        "source": "Financial Times",
+        "published": "10/22 19:07",
+        "published_ts": 1792663651.0,
+        "tag": "Strategist",
+        "first_seen": 1792664125.7327976
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGphaHUtVm1kblAwY21ieEpqWksyZUJXT1prRzRFUGNxbFRqZkZBRXNXQzRUYTNfSGZENDJNaWN3c1p5YWJwenUyb3JBTlFLQlBLQ3l4Q1d2ZmFSZElpNTB2XzBfVjlxZTlzWFh5ZDYyLTNBSjdocTd3TUR6bHFsZ1BrSW8wR1ROTDYw?oc=5",
         "headline": "Market Minute: France is in a bind. Is there a way out?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792611204.0,
         "tag": "Fed",
         "first_seen": 1792645237.1876743
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHZDOWxUR21NQjhhQTlIUkozaC1nbDZ1ejBjREpyZlVHWU40ZHRiejFiX3hTLTJTVjBHNzA3SEVJaVpjQUxwNmFaT0I2dG1xdmMtRkJzeVhEMWhFaEhPaG9XRVpWb0pSMWgyYTZUSlUtX2dlZ2xid2N0V2NNbzJ0SXUzeXNCbU1zTFU0SFBhWjNETmp3VFhQblpXVEE5cmsyemhzNDBn?oc=5",
-        "headline": "일본 대형 은행들, 금리 인상에도 기업 자금 수요 증가세 – 설문조사",
-        "summary": "",
-        "source": "Mezha.net",
-        "published": "10/22 03:49",
-        "published_ts": 1792608540.0,
-        "tag": "JGB",
-        "first_seen": 1792658722.3134334
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 19:05:56",
+  "updated_at": "2026-10-22 19:15:52",
   "yields": [
     {
       "label": "3년",
