@@ -836,6 +836,16 @@
         "first_seen": 1792631722.4993355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBWLXJ6S0xZa2haZ1Y3OWJIRF80VGU2Wl91RjMzRF8wUkwwTFNDempqbmNZd0l5aEo1MzFKR3pCOVB0YjBOZktBcmNpRlA1Qk8tUWRDQXkwZHMtcXNoanp1VFFFUEM3QQ?oc=5",
+        "headline": "한국은행, 기준금리 3% 동결…11월 올리나",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "10/22 09:58",
+        "published_ts": 1792630730.0,
+        "tag": null,
+        "first_seen": 1792638038.0280924
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Ra0ZSb1NzNEdENjJ6R2ZhWF9DZFAyeVlaYlBPOXRUMkhISnFjTlh3OUdEeEJQTWs1TGFVdEJ0Z3g2dElLWjh5Q3FMbHFHbGUzeWtwX1otZktqY0k3OWNzeF9qaDI?oc=5",
         "headline": "한국은행, 기준금리 3% 동결…연속 인상 멈췄다",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1792401865.0,
         "tag": null,
         "first_seen": 1792402230.0704827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5VcVRWQi02Y2tiSGl5d3NfOWNhMFRjankzSE8tY2ZmUWRqVkJscGFyWW5lNkZHMHBCWGNKLXRud2liMGdQalJFaHRucUdXUXhtdHR5NGstbDFUTGppeGdpedIBeEFVX3lxTE1zVmdtOU5PR1d0SHBObXh5XzhVejkzSzBrZnNmem1UblptWmQxOXFiRWdZTzhqZ0xoUnc5QkRfSDRXa3dHcWtfYU5hUHFjclNoeXEtNFRaTDcwMUE5NHl6V3RweGcxZWRIUHNDWXFobUpveXNucnRBVA?oc=5",
-        "headline": "\"다카이치 엔저·고금리\" 비판에…日총리 \"엔화 신뢰 높일 것\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/19 17:56",
-        "published_ts": 1792400216.0,
-        "tag": null,
-        "first_seen": 1792401321.6675024
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9DUXk5Rzh5b0JCa0VHYkhfTDc1WWJEWlNSdUcteW00MFNtbnpEMWp3VTdadmROMFpEX0NmOXZ5c2RwMGpRQVA5c0d3c2tfUE92RUR4Rm1oUWdqbktoVE05UTVjUXlBWUJ4YV9lZkpEbmpVeGFE0gF0QVVfeXFMT0NReTlHOHlvQkJrRUdiSF9MNzVZYkRaU1J1Ry15bTQwU21uekQxandVN1p2ZE4wWkRfQ2Y5dnlzZHAwalFBUDlzR3dza19QT3ZFRHhGbWhRZ2puS2hUTTlRNWNReUFZQnhhX2VmSkRualV4YUQ?oc=5",
+        "headline": "인플레이션 옹호하는 트럼프…\"채권 투자자에 희생 떠넘기는 것\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/22 10:03",
+        "published_ts": 1792631030.0,
+        "tag": null,
+        "first_seen": 1792638038.0280924
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTG52a0UxcDhvOWlyVzdqZFMtZGZjT1o0dzZDRzR5RXdGbTdUeFY1WUh1ZS1ZUzEtYWlKS2pFcncyN2ZVd1N5emh3TVB3czFGZXc5elB3eVRKYURsSFhyZ3hkY180THFINHFXOUF1VDRKS3lubm5MZ0hGUjdydEtzX0xYZUI4QQ?oc=5",
         "headline": "\"與 나사 풀렸다\"… 김 대표 체제 두달, 커지는 쓴소리",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792331460.0,
         "tag": null,
         "first_seen": 1792340122.8499553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB0Q1djenZZV1ljYkpIYU4wa051dnQ3b3VVWDVKUlFtNTFpdnZ0SERZY1VzMDNCRG96dzJuaVJMNnYxRlZpVFRVX20xMXJXRmluV2xBZjVtMVhqdlpwVVMxQkI0WE1pNkdrckMwVUdjTi1JZWIw?oc=5",
-        "headline": "추미애 ‘소방 재정 빨대’ 발언, 민주당 악재 되나…“민심 떠날라” 부글",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/18 17:42",
-        "published_ts": 1792312920.0,
-        "tag": null,
-        "first_seen": 1792313121.8854327
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 11:45:47",
+  "updated_at": "2026-10-22 12:01:10",
   "yields": [
     {
       "label": "3년",
