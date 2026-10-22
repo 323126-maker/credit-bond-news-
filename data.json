@@ -42,6 +42,16 @@
         "first_seen": 1792615525.2543344
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBLOElvZlAyRFBPMFhydUZDOXJ2YzR2bVBqUTFBMUkzRmt4Ui1pMGVmeUV3bFJDdVNsSkFZeHZGVUloZzhaX3owbk5mYkpkUHBqLWdVS3lOd0VpbElPQ3ZRSGJMQUM5MmlM?oc=5",
+        "headline": "[채권마감] 2년~10년금리 2개월 최저",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/22 03:41",
+        "published_ts": 1792608093.0,
+        "tag": null,
+        "first_seen": 1792629921.5696836
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPNURYSU1NaUxCVVlmdm9yS1ZUQkRMNExVc21YVkJQOFhRcE9yRVNtdzg1YmtDY3FTeUJuNkR0VGh3b0UzRmtTUGpVMVZKT1hLTGx3ZjdkWGY2YWtmTWhnYWhsSlBVczk5SDlxOXNPSUFjaTFTSXRWRXcxVmxzemtkZXRXcF82cWREVFNfenc3eVo5OUhidHVKc1h3UXBLaTFrd1NhRVlVQ1NXeFlWNkhpZWlFd2s0R1JIOWVWdWQxRFBJNFRfYnJ1ejV1NGZOdXpP?oc=5",
         "headline": "투자자들, 美 회사채 발행 지속에 '안심'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792530000.0,
         "tag": null,
         "first_seen": 1792534523.3532639
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4xbFJURUZ2OHZOamhpdmFNU091QkhXWXRHcXhxQ2QzNXgweXUtQWdVRGwyMHlJNXBwclg2SzJPTDVMVGhhdUZjQWFuem5GdnBPcDhkTUFrQkNpblhJSG92MEp0aFA0V3lyb0FWOExQbHlxOHM?oc=5",
-        "headline": "웨더포드, 3분기 순이익 1억 2000만 달러…전년비 48% 증가",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "10/21 05:37",
-        "published_ts": 1792528677.0,
-        "tag": null,
-        "first_seen": 1792529126.0311916
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHo1eFFfYUVJcE12UmkxdDVUXzFXSzBQMXNBcDgyRFBHWnV5Z0NrOVdUZTRtbkNvenZLQXRCbUljakFjWHRsY2VpU2c5UUhaSXYwa2Fmc0ZIUjlac3FfQUpQdjk0RHpxTm1EdEs2Z2NTbktpcWVscVNGVXBwaUF0cGtRamZXTE56MjFsWS1fYzN0WTRVR2VCSGhzVmptNERKUklOanEyUlRTRFFCZ2JleVhOTl9kSnBsUWxR?oc=5",
+        "headline": "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
+        "summary": "",
+        "source": "investingLive",
+        "published": "10/22 09:26",
+        "published_ts": 1792628765.0,
+        "tag": "Strategist",
+        "first_seen": 1792629921.5696836
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMkxfdmItTU9aRHg0YnVxdzNaaTRjdGdKQnc2ZUdjOW5UWHd0NjlBSTVHZHNaUmNWUWx0UXREMzNRMk5nMzFaempxMW5wT2tIcjNaMEF4ejNhbTlZelNyZ2JxNmtzMDItUUcxUEFENm9Zczl6WFE?oc=5",
         "headline": "Brookings Proposes Overhaul That Could Shrink Fed's $6.8 Trillion Balance Sheet to Around $4.5 Trillion",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792564076.0,
         "tag": "JGB",
         "first_seen": 1792566035.687729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE81TjFUeDc1ME5IQWZON2g2cURKa25iTlhVZGNBOFlKOExiVE9FZFh3NE5aMi1oUEduU2lIS3JQdTNHdGZZanl6LVQ3aDdHQXpNR2xvOHpUYzFMZVNOM2VwS3ZmRkthVGs?oc=5",
-        "headline": "달러 지수 3주 최저치 근접, 아시아 외환 시장 약보합세…루피 강세 지속",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/21 14:18",
-        "published_ts": 1792559880.0,
-        "tag": "JGB",
-        "first_seen": 1792560627.5142727
       }
     ],
     "watchlist": [
@@ -2413,8 +2413,62 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 09:30:52",
+  "updated_at": "2026-10-22 09:46:03",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.822,
+      "chg_bp": -1.8,
+      "series": [
+        4.035,
+        4.056,
+        4.04,
+        4.006,
+        4.119,
+        4.076,
+        4.011,
+        4.01,
+        3.937,
+        3.933,
+        3.961,
+        3.983,
+        3.921,
+        3.857,
+        3.883,
+        3.867,
+        3.854,
+        3.877,
+        3.84,
+        3.822
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 3.965,
+      "chg_bp": -2.5,
+      "series": [
+        4.225,
+        4.275,
+        4.267,
+        4.22,
+        4.345,
+        4.276,
+        4.203,
+        4.2,
+        4.129,
+        4.117,
+        4.134,
+        4.158,
+        4.101,
+        4.03,
+        4.047,
+        4.007,
+        3.988,
+        4.014,
+        3.99,
+        3.965
+      ]
+    },
     {
       "label": "10년",
       "value": 4.16,
@@ -2440,6 +2494,33 @@
         4.205,
         4.176,
         4.16
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.197,
+      "chg_bp": 1.8,
+      "series": [
+        4.48,
+        4.473,
+        4.53,
+        4.461,
+        4.553,
+        4.513,
+        4.42,
+        4.424,
+        4.373,
+        4.393,
+        4.405,
+        4.404,
+        4.359,
+        4.293,
+        4.296,
+        4.237,
+        4.206,
+        4.214,
+        4.179,
+        4.197
       ]
     },
     {
