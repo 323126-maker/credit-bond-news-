@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVVNKblI4LWFRd3RXX19PQ3IzblJFODdtbFZZQ3F4R2lWeEVhdWRBYVdYb1ZXeFExNEZhQzdJbEVLbHh2RkdCM3ZjYXluUV8xUWQ5QlZOMFpsTGhpYXl6WmNLb1VtdTBtSE9EYVB6LUPSAXRBVV95cUxQVWVsUUxldTZnb0xOa0NidnlERXJIMmY0R2dUeUJGeEp6eE0xeExhS0RpNEd2U2h5SmNfZXNBNTBPa1pNbHNPMEg2eGMzYUV0eUhVZ2pWQmlqQ3JZc3dKZVZPY00zSjZmR21YN3FiTDdVSTdFWg?oc=5",
+        "headline": "[외환-마감] 금통위 소화 후 네고물량에 하락…저점 경신 5일째",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/22 18:12",
+        "published_ts": 1792660347.0,
+        "tag": null,
+        "first_seen": 1792661430.2598896
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZQzBIQUJIZXI4U25FV1BVbm1jcjk0UDBTSk9LeFp2V2xqb093LU95dGpodmlHMmgxWlVYRDZuenkyQVFwd2xQQkpyQXVMa3hRaEE?oc=5",
         "headline": "‘큰손’ SK하닉이 돌아왔다…운용사에 3조원 맡기며 채권시장 기대감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792556374.0,
         "tag": null,
         "first_seen": 1792557031.750135
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KNzczX0tlRlRfU3d5cXNXa3YyVkZJVk1GU2lLZDBzeU41TmFJR1JTdEp2akg2LVJQUEd3UE5rdTFRYXllVjRoZkhLaWNHZnBrSEw1QXlvZWZ6RnV0ME9uSkVwUVFDUlJUUDVpTHNYZmU?oc=5",
-        "headline": "프랑스 채권시장 충격에 이탈리아가 특히 취약한 이유",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/21 12:28",
-        "published_ts": 1792553307.0,
-        "tag": null,
-        "first_seen": 1792567831.6023314
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 18:15:48",
+  "updated_at": "2026-10-22 18:31:06",
   "yields": [
     {
       "label": "3년",
