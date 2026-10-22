@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRFlRbFplTUl6N1RRQlNPNEk1S3Q0RmNYd1IxYmMxbWdXMWV1QXpJSmdoR01ZUjJ3MnF3elpUaE9FMjJ6SlVnQngzRHctMlJKQkcxNGRxZzVmUDltNE9qRmhWVkswN2xDQl9Ud1VZb2ZRMFQyOUpFUnBGZ1NYdExkSWFyRVY4T0VaX0p0VVM3R1RDamZFNV90R1RDaUlmTDZuOFdTcThGbHZsU240aGNWYmc2RjExQzk5Sl9mSVNBOU5MLWZzQUtyY2tXZFdLUTRHb09peURjQVA?oc=5",
+        "headline": "Tradeweb Benefits From Long-Term Tailwinds as Bond Markets Become Increasingly Electronic",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "10/22 09:42",
+        "published_ts": 1792629728.0,
+        "tag": "Global",
+        "first_seen": 1792632629.6944122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONHo1eFFfYUVJcE12UmkxdDVUXzFXSzBQMXNBcDgyRFBHWnV5Z0NrOVdUZTRtbkNvenZLQXRCbUljakFjWHRsY2VpU2c5UUhaSXYwa2Fmc0ZIUjlac3FfQUpQdjk0RHpxTm1EdEs2Z2NTbktpcWVscVNGVXBwaUF0cGtRamZXTE56MjFsWS1fYzN0WTRVR2VCSGhzVmptNERKUklOanEyUlRTRFFCZ2JleVhOTl9kSnBsUWxR?oc=5",
         "headline": "Ray Dalio warns US bond bear market has a long way to go as debt supply swamps demand",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792564200.0,
         "tag": "Global",
         "first_seen": 1792570524.499883
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1CY1Y5aUx4cmR2ZGNPcWNZaHpxekhEcEk5V1lEa2xuXzE3QTRCOXhmbTVvd1JhVExocDNKb2ZjaXJkT1p0MHRBZ2F6cWdZTEh6cFh6bncyVUw4bmVGUVVmalVIbTQ0RXN3TmszcC1yem4zNHfSAXdBVV95cUxQcl9wcUZkNmV2b25pb3lobzdkZktIZzVXU1pBTDdfcmNBQnRONnZ0anNQdVdRNGg0a19fM3NrTVVXQmx3RG10R3M0d0EwSnhTY2pXOEdxVEptelhlZzlsNmU2ekhoX0FDdGpFb1V1OVkydHF0RkdiWQ?oc=5",
-        "headline": "엔저·고유가에 앞당겨진 일본 물가 목표…장기 디플레 탈출하나",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "10/21 15:27",
-        "published_ts": 1792564076.0,
-        "tag": "JGB",
-        "first_seen": 1792566035.687729
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 10:15:54",
+  "updated_at": "2026-10-22 10:30:57",
   "yields": [
     {
       "label": "3년",
