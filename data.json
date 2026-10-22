@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOTRxM2d4bjFoR3BTY2VhSU1rX3IyUjI5WmxOWjg4SU9XNEVwU0xIVkpoaGlRU2YzSS1oZ08xLVFxZWxXZERKQl9MSmVMRWdjSkdIbkhNbkUyc0dFemVOWDFWYzlETDhCYVJnWFhZdFRIV3hVcTM2ZFR2RjNqa2pXdHFDbVlYcHRab29GV3kta1Rna1BKaFFHWkJhQnQ3UG4xemFCRGVDWQ?oc=5",
+        "headline": "Japanese Yen surges as risk-off mood drives safe-haven demand",
+        "summary": "",
+        "source": "FXStreet",
+        "published": "10/23 00:55",
+        "published_ts": 1792684557.0,
+        "tag": "JGB",
+        "first_seen": 1792685723.966424
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORldGZFBnWFM0UnNpZTVWZE95SkdVdVFyVjhpU3E0Sl9ucFhTTXJsX3NWVkZvOWd6TmhJRVZOQjhKb1dES3B2YUFHT0hJdWZIdk9VaFhmS2xub0dOVWsxMUxCV2wwVTdkcFV0TzFQSUhkMURBQ1BIMHViUVNxUXYydG94ajVNNWNEQmpZZDZBYi0wYWpKYklaeUlIWnpLSFhIdnd6WGtaQk9JUG1fWVg0b2cxTGJxWWxFeFZz?oc=5",
         "headline": "Blackstone's Schwarzman says widening credit spreads a chance to capture higher returns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792636481.0,
         "tag": "JGB",
         "first_seen": 1792649724.432083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9YR0FMaTFIZDRnaVhHU1F4b1phQldfZGR0Wlg0Zjc2THJxRWRwb05rb041c2RlNmlMM3NZc2NMaHlxaUhIVUpNUXJUTmhzUEY0R2hUOV83X0lQbVRDME5SdThqemFubl9w?oc=5",
-        "headline": "A major episode of AI market turmoil",
-        "summary": "",
-        "source": "World Socialist Web Site",
-        "published": "10/22 11:20",
-        "published_ts": 1792635653.0,
-        "tag": "Global",
-        "first_seen": 1792636229.124929
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 01:01:07",
+  "updated_at": "2026-10-23 01:15:51",
   "yields": [
     {
       "label": "3년",
