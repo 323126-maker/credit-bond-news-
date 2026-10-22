@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdXJJWGJaYVVEUWhldDl4SjhWZUJrOVBnRVhlbExWb091SVVUUzhXSllsY3hfV01tZU9yVk5sS1hZUVA3QzdDX05RQUVpT00xemxnUjBHNDVIZGdRV01LOTVMcDlONXROMERJSnViOWZBdHBUdm5nS2dVSTZBcV9waTlTcVduOV9xQXFMby12MDVPNUJUZ09kbld4X2lucVZuSmJ5ZnJLUXVPSWc?oc=5",
+        "headline": "Indonesian leader rejects market downgrade warning after stock market sell-off",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/22 20:01",
+        "published_ts": 1792666918.0,
+        "tag": "Global",
+        "first_seen": 1792667725.0317168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWN5TzJiNG5XMFJvcTdNbUxMTHd2MllzY05iR0V4UklVV20wRTYtMlZ1YzVSQkwyZ2p5OFkxNFNTM19DVjhFZTI3UkdESFJkMm5CSFV5cXVqR0VkYk5jZzdiZ2c4VUEtcVJ2eFZHTjdDUVhnSVRzMVBodGQ2YkZmcF9vZXJfQQ?oc=5",
         "headline": "The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792611922.0,
         "tag": "Global",
         "first_seen": 1792612838.2771566
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbW8xSWFVVncxdjI2T25xVDl1UFNQRElRcThYVnREV1Zvb3FEd1U0XzdYV210U21xMUpaakt6VmhoSDAwQm5uX1QzeFhHd0gyd21IZjhoUE9jcnJ3bGQ3MFkxdDI5MVFGMGVFX2ljb0tZc0NYMTZQbDJPTEZpS3hrYTZmbU1rWEdMc3JkdzFpQmxHX3pvRlJwRmk1YndDWktHRGxvVG8zRG5lRXNWNEFzU1BJVGJTUQ?oc=5",
-        "headline": "Argentina’s Bond Selloff Blindsides Bulls as Vote Fears Grow",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/22 04:33",
-        "published_ts": 1792611215.0,
-        "tag": "Global",
-        "first_seen": 1792663237.7130911
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 20:01:14",
+  "updated_at": "2026-10-22 20:16:03",
   "yields": [
     {
       "label": "3년",
