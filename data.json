@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nWF9XQWlXc3pQQ0I4aGpZNF8wX3pjUXpFOFc4bmRiWFNkak9hMXRCQ19zbTYzT1Q2dW9DVG5LT3JBOHNmN1lUZGJmT2hWMFdZeEpNMkdCVzFMc2Jwdkl4Zzk0OTFKSUVWN1FwRTZRbFlnVXhFUUVWQ9IBfkFVX3lxTE5KdGtwa1c2bHhiLWNTSDZMa0hwdVNIVEkwSkNMNjB3RXUwMTB2d3JhSWY0cFh5LVNzZFV3VDJ2c05nRlNJVWpCUjE2MXFMZVJWNEpxNTFSV1pFYm54Nl9DZlpMT2pkQmVsd1NZUUc5Z0RuTWQyeGVlLXNsaVRUZw?oc=5",
+        "headline": "한은, 기준금리 3.00% 동결…두 차례 연속 인상 후 '숨고르기'",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/22 09:55",
+        "published_ts": 1792630524.0,
+        "tag": null,
+        "first_seen": 1792630835.238531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MjBUd2w2dFFvQnRGR2dTbTRjako3V0RXQVF4T19Jb1ZFRW9LVUM4QlV4TVJWVENvaTRPNWFCTnBXX0VXWkZXUk53dy1DUXNfaFQxeTltVW1lWlVFS1p2MV8wN1pfV2M?oc=5",
         "headline": "금통위, 기준금리 동결 전망 우세속에...11월 추가 인상론 '불변'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792386062.0,
         "tag": null,
         "first_seen": 1792386924.3124425
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qVkFUNlVuWUxCNGRleWt4YmpJNDN2d2xCdUNDZnhKclZzcjYxRUVXZnFjbjZIVk5EZFFHZ0tieU05UU1NRFd5RkJzV3RiZjBzalRQQlJmNi03YnJ4Qjc1V9IBeEFVX3lxTFBRXzgzVndSeDk0YzFSWlBMUGtSQWsxR1NGb0dxY3gybU4xemdtTXMzSnRZUUxzVzQ0YjZyWjdXaFdrYTlYX3NoSmtrRVlWTzl5SWluVVlfUVpHSnYyTnEzYkNESG1nd21hbGIyY2RNVnlNTC1KdERROQ?oc=5",
-        "headline": "나경원 \"프랑스, 무상복지에 붕괴…李정부도 첫 단추부터 빚\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/19 11:08",
-        "published_ts": 1792375717.0,
-        "tag": null,
-        "first_seen": 1792376121.0286355
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 09:46:03",
+  "updated_at": "2026-10-22 10:01:02",
   "yields": [
     {
       "label": "3년",
