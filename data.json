@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0w0NXU1eHdyMmdiRXpDUXI4WUxrQzFMSVN0eVdDbFFGSzRUbndrd2gyVjdRWGlZSDJlME1kaHgyMmk3eE1XaksyQ09qbXpnMGlzM2lGdjdQbkF4STNja1lnY2Y0cWNjWDZVdC1lb2Rtczczb2FUc3VxYXN4YzUzNXYwMXRfcTIxSGpQQndmRU1JeWxndEFEeWNyRlhOVkN6d09TUGFlQU5Odjc5NGpqR2pCZmE?oc=5",
+        "headline": "노르웨이 국부펀드, 채권 매도세로 264억 유로 손실 - 뉴스 및 통계",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "10/22 21:03",
+        "published_ts": 1792670627.0,
+        "tag": null,
+        "first_seen": 1792676728.8273563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMFR2cjhfWmpxU1FvMWFvNE9RY2pRMDFlUktrSVh6a3J6WldNSHNSZ1VmZTFvQ0tEVk12QnA3UEtuZFFRT1d6Vi1SeTlHLVFxM3BueEFqdGVyWTdfVllQcEFaV3c2SUZwbWpKeXNR?oc=5",
         "headline": "금통위 '매파적 동결'에 국고채 '혼조세' 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792559353.0,
         "tag": null,
         "first_seen": 1792559722.6075487
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBBRElKR2hNREp3YUtzZ0pCREM3aS11RzNMNkhhak9KS01WY2s4TlcyX3VKc3N1RWdMYkk0WWZ5TlVrZ0h5OURiQ20telNKLXpjdkZHamZHbzFIdGZqbUczVTRhZk1idkd6VFZuZV9SVEhmb00?oc=5",
-        "headline": "어떻게 하면 베트남에 외국인 투자를 유치할 수 있을까요?",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/21 14:08",
-        "published_ts": 1792559294.0,
-        "tag": null,
-        "first_seen": 1792561522.934951
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 22:31:05",
+  "updated_at": "2026-10-22 22:45:55",
   "yields": [
     {
       "label": "3년",
