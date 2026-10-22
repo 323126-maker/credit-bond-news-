@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9JTVVsSkw2X0lNRGJCOHY3bkl2R1NFckl2bTNtdThpQ25iazBpakVocFkyeWVyNF9EajZRWTlHSHNkZDZvbTJ1R3RNZGhvb0tVeHZLRWFOYUFhRUVsNkdaUmlTdWJTbHhIbXpoOU53QkI4NzQ?oc=5",
+        "headline": "포브라이트, 2500만 달러 규모 후순위채 전액 조기상환 결정",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/23 05:18",
+        "published_ts": 1792700330.0,
+        "tag": null,
+        "first_seen": 1792701030.4876432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0tMll3bDRiR2RJeEctLWxkMk50azh0cHJhY1BmWlpkRnhDd1ZFSHRjNGNYMnEydFRYRWdFQWZ4TjNva1RVeC1rNzFZRjZmSjc3czlJRUQ2U3ZNVU5Od3lqRDBlYktHZjl6SXplZVAxOUVOMGc?oc=5",
         "headline": "[포커스] 상반기 줄이고 하반기 채우고… KB금융, 신종자본증권 운용 전략",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792462896.0,
         "tag": null,
         "first_seen": 1792464322.7216518
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9aSm9TcDBOZHJCLUN1Z2dROTJFcnk5REhGTExWT1dyMzQwWFV3eHNHS1hUZkhfZDlSUTZYZ2RlMFNRNGk4cy1WalRESHp6aUs3RTVaMkNORG52elo5MnhxTXNB0gFiQVVfeXFMT1pKb1NwME5kckItQ3VnZ1E5MkVyeTlESEZMTFZPV3IzNDBYVXd4c0dLWFRmSF9kOVJRNlhnZGUwU1E0aThzLVZqVERIenppSzdFNVoyQ05EbnZ6WjkyeHFNc0E?oc=5",
-        "headline": "5000억 이어 3억달러…하나증권, 사업 확장 실탄 쌓는다",
-        "summary": "",
-        "source": "네이트뷰",
-        "published": "10/20 10:57",
-        "published_ts": 1792461420.0,
-        "tag": null,
-        "first_seen": 1792541724.2854798
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNc2dsRGxIakxVSzVrbWdOVll0QUJIUXlNekRaSWVFVzFXZ2prYlBxZlZPaXRsOFAyT00zNWJRT1BCQkhfc0J1UW1yMzA1SjdhZk5jdllmMU13eW9oODI4bFUyd2dPVnVJX1I1aF9TRENOMW5ZSDY5eHlMWTdCOGxIa05kTzdnQU9y0gGcAUFVX3lxTE82SVBsd1RNZGtlX21qMkhidkJYUFptdkNBZmRZa2RyMW5RbkdBX2R2RDRWQUs0OUJoMW1ibEtuOF8wbDZJdXlJUUMyMVppR19SMTVhSUtJR3VJV1Q2ZWdzcEZxUTUtMXdacHoydzJKUjRnY2Z4WE9tcDFrV3NucG1qelJ3ak5yRkxFbXZfZ1FkUm1FQ2hlczVrQm1KOQ?oc=5",
+        "headline": "AI spending fears and Mideast tensions slam Nasdaq, lift oil and defense",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "10/23 05:22",
+        "published_ts": 1792700520.0,
+        "tag": "Global",
+        "first_seen": 1792701030.4876432
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTWxDZDg5X0padGNvb2k2V2ZkX2tEWW9YWkdjeVdMZHNUTlg1MXY4TmUyTDZHdUhNTHFRNWRPRjc2VFlEN3RXTDhNSjhDYmRfTWZGXzdKYXdLejRHNGgwRVdNbmZRUkFhSm9GakxMek56UUZ2OUtqajd6NVkzRkR1VzBNWlo5VWp5NUFkX2phUjlSSFlndUlNNGxvUXlHSm1wMlpTbkRR?oc=5",
+        "headline": "S&P 500, Nasdaq end sharply lower as revived AI doubts ignite tech selloff",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/23 05:01",
+        "published_ts": 1792699266.0,
+        "tag": "Global",
+        "first_seen": 1792701030.4876432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84WEgtR0VhR0J4b1hQTVpJeS0yWlBsQlJKTU1zeGJNWkRvLUt3Y3ExeUhyNmxmX0dsdkxfM3N5YzN6OFl2SjVUOTJGUkNSQ2Q3QnhzRml6RFRuUjNzUnlwbUFZMUdGb2tkOG94eDc2UjIxREFvc2FudUVVR0VCd9IBgwFBVV95cUxPMEpSbmRldWxibTJQWWdCOGNnNEh3R2tyVmJ3T0s3a043Zmg0ZVZxcktnc3NsNGJJMHVkQXVua05lRWxseFppT2xCMWhtZjVyUXlReUVCWWgtaThYWVhUNmVmRHBQNzN2ckRQc3g0UjRFWEZyUmF4SGlldWhvOWd2TXZUaw?oc=5",
         "headline": "AI debt and French bonds face a stress test — why it may not be over",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792651020.0,
         "tag": "JGB",
         "first_seen": 1792651522.361505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcjc2Qnc1OUdYaTRkWFNLc1N4MGhZUEk0QWg5UXdkaDdyMF9qcjV2WUFPaW1JeU5oT3VZaTdPdHBpQUYxTy1fb3ctS3NUaWRuS0F3VlJaME9ZVXp2cFJIVEtIaXZUN01PaS1fRi0wQUtaN0VnMzdxMEh0cldyTHRFSVY2czE?oc=5",
-        "headline": "Global stocks tumble as oil prices rise",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/22 15:35",
-        "published_ts": 1792650945.0,
-        "tag": "Global",
-        "first_seen": 1792662324.417485
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02d2JOaU8zWmZ1emk5eG43c2hUbVdrWURuYXRZbUZUbTg5UXBXZTZlMG5jaUotenNlaGVyeW9ZOTNDdE85aURKUWRNUENlcnNZSHJWVTBDaFl1dUN3YjZmcVdYOEFVOW8?oc=5",
-        "headline": "日투자자, 해외 장기채 5주 연속 순매도…2022년 이후 최장",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/22 14:58",
-        "published_ts": 1792648713.0,
-        "tag": "JGB",
-        "first_seen": 1792650632.544363
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 05:15:46",
+  "updated_at": "2026-10-23 05:30:56",
   "yields": [
     {
       "label": "3년",
