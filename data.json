@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TeTVrNlEzWVVpei1mNUlOT2I2Vi01d2cwamRSZ1BWOHFtNFNqcFlNaGNJUXRuX3ZUcnZfLXFQTWtLZGJqeHJRMXlmM1hhdWRFMm9wT09xR0_SAVhBVV95cUxOU3k1azZRM1lVaXotZjVJTk9iNlYtNXdnMGpkUmdQVjhxbTRTanBZTWhjSVF0bl92VHJ2Xy1xUE1rS2RianhyUTF5ZjNYYXVkRTJvcE9PcUdP?oc=5",
+        "headline": "한은, 기준금리 동결…2연속 인상 뒤 속도 조절",
+        "summary": "",
+        "source": "아주경제",
+        "published": "10/22 10:08",
+        "published_ts": 1792631280.0,
+        "tag": null,
+        "first_seen": 1792635323.5987685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNllBcllHV1BJUndfTlMzZVVpNmdzRFRDVHlWOWtUTVZ6Q3ZSWTQ1Q2M1ZTNyOWZDWkxBdFVqWnVEN1U1ZWFwMGNkcUVraDZQVDAwblhJUFF0SlRTU0RSdg?oc=5",
         "headline": "한은, 기준금리 3.00% 동결…금리 인상 시계는 계속 돈다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792400216.0,
         "tag": null,
         "first_seen": 1792401321.6675024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5qaE1hd1QzVEhseElWcG5BRUZqcjZCWG9tX1BsV3VpbHBidzlUdnBQUTFqTGQzTmdlaG5pZXkwNnZsMUpZWWNTd015MEdkS1Y5UnNKc181UlU2enNjaTN4MDM0Qzk5WUNXZXA2el9mRHZjeUkt?oc=5",
-        "headline": "[채권마감] 랠리 사흘만에 브레이크, 주가 반등 영향",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/19 17:06",
-        "published_ts": 1792397160.0,
-        "tag": null,
-        "first_seen": 1792398630.2326043
       }
     ],
     "politics": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1792629921.5696836
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNQ2xCMEJVN2tiLS12Y2FTZVcxZEE1WmNkNjBBQ3JKSnN2ZDQ4Z3IzenlpajdVanlpLVhVaUFLY3lOSjFvVUpOekxMN1l2V1c3MmV3a1FDZUtxLWhQb0NLM2dsb0RMQkRkQjc5ekQ1aE5oQnpvYUx5NHg0djU1OGRma0M0UjRjSWdUTVFWQTN1SnFkTWtwaGxuVWNqeVVDbGdYQVRkVEdIRWtBSVhqeDhpeTV4RllrNU5KUzZPajU4ZFgtZEtVcHBJZzRTOA?oc=5",
+        "headline": "Bond Market Triggers Wall Street Risk Warnings As Long Yields Surge",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "10/22 09:04",
+        "published_ts": 1792627470.0,
+        "tag": "Fed",
+        "first_seen": 1792635323.5987685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMkxfdmItTU9aRHg0YnVxdzNaaTRjdGdKQnc2ZUdjOW5UWHd0NjlBSTVHZHNaUmNWUWx0UXREMzNRMk5nMzFaempxMW5wT2tIcjNaMEF4ejNhbTlZelNyZ2JxNmtzMDItUUcxUEFENm9Zczl6WFE?oc=5",
         "headline": "Brookings Proposes Overhaul That Could Shrink Fed's $6.8 Trillion Balance Sheet to Around $4.5 Trillion",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792570800.0,
         "tag": "Strategist",
         "first_seen": 1792571431.6876519
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVkd5cHJOVmRzNFFOTXpreFdiWENIdEdiVldveWhVUnlZdnFROWNDM2ZlY0FYd0IzeUh0OW1JTlRXYTEzMm9KbjhmWWRhdU5wQjdVM3FUZGNiQ3owVm9Ib2hVVG5ZaV96cVdSMFRvTFB1eE9KeHI2cUlKamdwM0J2TnBaYUR2WGFTUUVnc1htVVBqV3k5a3N3Y2drTEt2Z29BdE9QSnVQN1JEaUpEOEMwRE12SFNjU2pY?oc=5",
-        "headline": "Why Treasury yields move together but become more volatile further out the curve",
-        "summary": "",
-        "source": "investingLive",
-        "published": "10/21 16:33",
-        "published_ts": 1792568035.0,
-        "tag": "Fed",
-        "first_seen": 1792569637.2613323
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 11:01:00",
+  "updated_at": "2026-10-22 11:15:54",
   "yields": [
     {
       "label": "3년",
