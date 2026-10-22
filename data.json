@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSEN3VHBQRG1tX1dBdXRrTGhXd09nbENwVGh5bVl5WVhEQmZidHNqc3BsdFhSaE84cWdXblQ0T2xaaGhEN0tJcFc1V2cyOFVnVy1DM3VyR0d2MzZiRFJ2TXBiV2dxUVpHYXFnNDlLM2FNVjlvU1ZQRWRFRWE0bnpiSkp2alRSSVEyWlR5NEUtVlJpWkczTTZzQnF0RTdVR0hzUDF5N2hfZlZlZHNVUVNCUXhBZjJCLWlrd3N5SDkyZTNtYnBtVm9N?oc=5",
+        "headline": "September’s Bond Market Massacre Was Caused By Monetary Policy Malpractice",
+        "summary": "",
+        "source": "Forbes",
+        "published": "10/22 22:26",
+        "published_ts": 1792675569.0,
+        "tag": "Fed",
+        "first_seen": 1792680323.5791528
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNb2Y4Xy1KZXBNY1htcEVGelh0blNYMk8zNUJ5YnRFQVJob21WWXc5OFFpTGdVMW5sd0hKdjNhQnZLRXJsdTR4bXZOMk1WYk5BWXBvSDc2Q1J2Wmh2UlpvejBuOVdzVFRyT2hycWl0Z0RqUTRlZTF5dmo5aXNuRW5ubEtJNG9tcXdkNDRadnBtenFLNUQyWXc?oc=5",
         "headline": "Markets Bet Warsh Holds Rates Steady, But He Won't Say So Himself",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792627470.0,
         "tag": "Fed",
         "first_seen": 1792635323.5987685
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5RMkxfdmItTU9aRHg0YnVxdzNaaTRjdGdKQnc2ZUdjOW5UWHd0NjlBSTVHZHNaUmNWUWx0UXREMzNRMk5nMzFaempxMW5wT2tIcjNaMEF4ejNhbTlZelNyZ2JxNmtzMDItUUcxUEFENm9Zczl6WFE?oc=5",
-        "headline": "Brookings Proposes Overhaul That Could Shrink Fed's $6.8 Trillion Balance Sheet to Around $4.5 Trillion",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/22 08:55",
-        "published_ts": 1792626900.0,
-        "tag": "Fed",
-        "first_seen": 1792627235.566184
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-22 23:30:57",
+  "updated_at": "2026-10-22 23:45:50",
   "yields": [
     {
       "label": "3년",
