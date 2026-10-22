@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BNzNIZUlITzZISkppQWNNMkNsdVFBM25WdDBmVWltNXpZT3QxMkpkSDV6T2FyMFpoUjhSOUE3WmpzM01IMG5hcnJpREZ1dnZlNHpBZWEwZDREaFR6ZVExYjc2MEtIcVVwT1g2RTU0SGNkUQ?oc=5",
+        "headline": "[뉴욕채권] 국채가 초강세…메타發 우려 매수세 폭발에 10년물 5% 하회",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/23 05:02",
+        "published_ts": 1792699358.0,
+        "tag": null,
+        "first_seen": 1792700121.4908712
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0w0NXU1eHdyMmdiRXpDUXI4WUxrQzFMSVN0eVdDbFFGSzRUbndrd2gyVjdRWGlZSDJlME1kaHgyMmk3eE1XaksyQ09qbXpnMGlzM2lGdjdQbkF4STNja1lnY2Y0cWNjWDZVdC1lb2Rtczczb2FUc3VxYXN4YzUzNXYwMXRfcTIxSGpQQndmRU1JeWxndEFEeWNyRlhOVkN6d09TUGFlQU5Odjc5NGpqR2pCZmE?oc=5",
         "headline": "노르웨이 국부펀드, 채권 매도세로 264억 유로 손실 - 뉴스 및 통계",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792567345.0,
         "tag": null,
         "first_seen": 1792567831.6023314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1EUFVEMjVqdmhqT0E1dHBpbmNiY3dWZ1hPNWtWZ1BaLWZuNTRrTXRDbm1YNkZyVnZrQV9JMFNnZG1aT01DTjNTQW5Ca2l0ZV9ZaklRMFVPNEdGWk0telRIZ3VUQV9ZZWlHbWtJZE82dUdqZzQ?oc=5",
-        "headline": "하나증권 \"연말 채권시장 흔드는 금리 압박…금융권 단기 조달에 경고등\"",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "10/21 16:22",
-        "published_ts": 1792567326.0,
-        "tag": null,
-        "first_seen": 1792572324.3104906
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 05:01:01",
+  "updated_at": "2026-10-23 05:15:46",
   "yields": [
     {
       "label": "3년",
