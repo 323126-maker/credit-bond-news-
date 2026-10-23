@@ -1630,6 +1630,16 @@
         "first_seen": 1792755924.6861975
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTlEybEdMcEUxeVE1djB4ajAtTV9VemtnRjU2Q1ctYnNuRnZjUU1ZOHJ4MU1ZU0FGZ2FDU3gyVTcybXJlZ1RGVUZKU3dlTmNZdWd0Xzl3S2o1VGhzSHdyZVpON2k1bHEzWGhYMUQ1N3FlS2M2Y1J4eUZnQ1p6bHNPNTBiaHhJWVY1bVZ6bDM1Y05BWHJzSmNBVDZZdm1hMTdqUkVraV92UGNhNVVn?oc=5",
+        "headline": "AI Tech Fears Push Global Credit Spreads to 17-Month High",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/23 20:27",
+        "published_ts": 1792754848.0,
+        "tag": "Global",
+        "first_seen": 1792758631.037149
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGpvanZOMUFSSTdLdjVSQVNvMGl4NTAtemdtbEF1SWJ3WkFmUzZpYnhndjFnTW9FdnZNSzNRSkpfT1Z1cTNmSDlUbHZzRldWaFZuQ1Y1Q0pmSE9GZDNfWC1vbVdRRFVZdERZbXRxR3p3UnVRWmR4UTYteGNnMndsWlkzNDg2N1NNOWloSTZOWXQ3QQ?oc=5",
         "headline": "Local currency EM debt: the case for active management",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792722300.0,
         "tag": "Global",
         "first_seen": 1792736124.5465605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZWx4Q1NURmZta0daYk1GYjlyLU85clp6aWRqNjJpOXhfTWxyYnlmVDl0S0lJcFJNZURiVDlidE9hU0JwcUE0M2wyVC1QODBfQW1TVTBWWUtuOWJUUzFFMWQ2eGtiX2tJdV9idzJpVWtVYnhxRUJSTDdLakNiaUxkc3NzVWtOdTMtVWVjZGhBaFF3dFJ3NFBfRmRB?oc=5",
-        "headline": "Japan’s 10-Year Yield Drops on Haven Demand",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/23 11:18",
-        "published_ts": 1792721880.0,
-        "tag": "JGB",
-        "first_seen": 1792741523.3040934
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 21:15:49",
+  "updated_at": "2026-10-23 21:30:56",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.16,
         4.152,
         4.097
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.17,
-      "chg_bp": -4.0,
-      "series": [
-        4.53,
-        4.461,
-        4.553,
-        4.513,
-        4.42,
-        4.424,
-        4.373,
-        4.393,
-        4.405,
-        4.404,
-        4.359,
-        4.293,
-        4.296,
-        4.237,
-        4.206,
-        4.214,
-        4.179,
-        4.197,
-        4.21,
-        4.17
       ]
     },
     {
