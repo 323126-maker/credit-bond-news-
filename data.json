@@ -202,6 +202,16 @@
         "first_seen": 1792710926.6716459
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5WGpFaUR6YmJpQkVuNUFkeFYtWmJTSVNZVTZtcTZoOUoxSWhkMUpScDBLTnBQVnM5X3lWNk9tTE1OY1dvTGJORVh6eHBDbC0ybUNvcDRXclNVcEE5NXNpcFJ4WjJEaHBBc0lhbkpHcGRrQ1ZOb0JWZNIBeEFVX3lxTFA5WGpFaUR6YmJpQkVuNUFkeFYtWmJTSVNZVTZtcTZoOUoxSWhkMUpScDBLTnBQVnM5X3lWNk9tTE1OY1dvTGJORVh6eHBDbC0ybUNvcDRXclNVcEE5NXNpcFJ4WjJEaHBBc0lhbkpHcGRrQ1ZOb0JWZA?oc=5",
+        "headline": "[오늘의 증시]美 반도체지수 7%↓…약세 출발 속 낙폭 과대 인식 주목",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/23 07:31",
+        "published_ts": 1792708299.0,
+        "tag": null,
+        "first_seen": 1792749639.5380018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mNHdPMEpnbGtndG9xOEsyQVgydkMyVnBGRHJWbUZoUHhGSnY1WWNJRHIxUmNIZjhzdjRtdDRjRXpCT2JvdVZmZlNvWC1ranNpOUFUUkc1WXNtT1R5?oc=5",
         "headline": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792648800.0,
         "tag": null,
         "first_seen": 1792658722.3134334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0VnJBbzZfUXFmZk5LVXRMQVdmamJnSkNQQi0zc1B4MmVJejZNa2xCVjFGWV9OR01ZN2pvamEyMHE2c2VzREZJWEhESFRSckZKQXVyMDlNbmtXQQ?oc=5",
-        "headline": "\"만장일치 동결에도 긴축 끝 아니다\"…11월 금리인상 전망 [fn마켓워치]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/22 14:42",
-        "published_ts": 1792647768.0,
-        "tag": null,
-        "first_seen": 1792652434.1247206
       }
     ],
     "perpetual": [
@@ -1700,6 +1700,16 @@
         "first_seen": 1792741523.3040934
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZFlHYmVtZnhUMjRWR1FEelk0U0ZnN0Nkb1NUbEpGMjJtT1JjZDN3WUhlc3dob0djaklNV21Gd2hFRkpXbEhfalliYjNuSHRvbzltUWZfZWUzSm5UeGRSNnV2M2tNSDNVSHhZTFNrTEswdnVFeFIwVlkwVUoyVHQ0QXlpNVZsTVRjZ2RyZTA0YzdMbEhiU2c?oc=5",
+        "headline": "Average long-term US mortgage rate eases to 7.32%",
+        "summary": "",
+        "source": "Northwest Arkansas Democrat-Gazette",
+        "published": "10/23 15:40",
+        "published_ts": 1792737600.0,
+        "tag": "Fed",
+        "first_seen": 1792749639.5380018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1nR1VQWFdLMlNCZ3dwZ3lKTlVrSWUxSVJBd0Rza3BfZjFqb1VVNjZCZ2M4NmdpWkRDRFJLM19nWWVOXzBpWmJXcExQVzlRUE9uNUgyaVFZMTRzbnhEajIyWWZJczdPWkNY?oc=5",
         "headline": "日 9월 물가 2.1%…목표치 9개월만에 돌파",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792713292.0,
         "tag": "Global",
         "first_seen": 1792742437.600543
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6UUJUMzZxRk5oeWNGOE9ocmY0S0w4WEZQLXpvTGJrWTFZa3F0aTdFc0NRQ3IzX09hRUhaZ1lhazF5X0ZJSUxuRzZYUWZyYlZ4aWtTdHVQVGFSRjhxbExWU1NvNHhZai1zMEZ0LU8xZEU?oc=5",
-        "headline": "日銀, 금리 1.25% 동결 전망…시장선 12월 인상 가능성 80% By 알파경제 alphabiz",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/23 08:50",
-        "published_ts": 1792713000.0,
-        "tag": "JGB",
-        "first_seen": 1792747830.7014325
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 18:45:48",
+  "updated_at": "2026-10-23 19:01:04",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.16,
         4.152,
         4.097
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.17,
-      "chg_bp": -4.0,
-      "series": [
-        4.53,
-        4.461,
-        4.553,
-        4.513,
-        4.42,
-        4.424,
-        4.373,
-        4.393,
-        4.405,
-        4.404,
-        4.359,
-        4.293,
-        4.296,
-        4.237,
-        4.206,
-        4.214,
-        4.179,
-        4.197,
-        4.21,
-        4.17
       ]
     },
     {
