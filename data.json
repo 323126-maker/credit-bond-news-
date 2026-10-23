@@ -1630,6 +1630,16 @@
         "first_seen": 1792710926.6716459
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUVBnZzh6SEEza2Q2RGY2NW9HVWFpdXVuRkZpLXFGMjUzRnkwZi1aLXM2WExqOEo3T0RSaU54ZlRIc2FzTW9XNVdRdjc0QnNSOS1sX2N1bldfWnhUVk03blhtZnloRUlqdlRsT3V4bXJrVm5HS0J4TVhPeDR1QUNmWFd4bXJ4ZElIQWM2dmt3T0drdl9VUGdhY1lMeThlX1lObUppSEUwbUpsMnFuNkpNT04tREtHUQ?oc=5",
+        "headline": "AI issuance: When debt growth reshapes bond benchmarks",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/23 07:27",
+        "published_ts": 1792708034.0,
+        "tag": "Global",
+        "first_seen": 1792713638.273586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVkhmSEFiZXNGVkdETXNWWkhOdml5VzBfUUpsbWVkbjBGLV85OC1OOUdKUHNGd0RuUFU2cVdoRUlDTUxOUzQ2RXdfOWZVR1ZVcVlkMmZVWFpNa3dBWEJOM2t3MHZ2MDc0VXB6T2M3cHBRb3FzSmhlZHJuR081V3NuYw?oc=5",
         "headline": "The Federal Reserve at a Time of Uncertainty",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1792702720.0,
         "tag": "Strategist",
         "first_seen": 1792707322.0465806
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOEpwUUpvSnNUZXZmVXlpaWhNbFRvQUliV0hWMzNDN0FfQmtHN0d4UlVpVEZsdnhOQW1vWjVHYjRaSzF4YTRFWERiMENhRmU4NTdkM0xGUkdmQy1TczVHU2gwaUp2VjVZUDA0T0NaWjhCYWJMcEJ2RVRDdnFLNTY1UVlzSXA1YUhuZ25yREl4cnNhMWUxbmwzSFFuTU0tYWJGTUppQV96ODkzOW4tYXhHemZMdTRGZk5oT3c?oc=5",
+        "headline": "Fed: probably not but probably should – will that test the bond market’s patience?",
+        "summary": "",
+        "source": "AdviserVoice",
+        "published": "10/23 05:35",
+        "published_ts": 1792701303.0,
+        "tag": "Fed",
+        "first_seen": 1792713638.273586
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTmZ0N2NKUkl2dUkwcFhiTEZHbFZORzNnaHV2NGZBX0RzOHUxUDVtREh0VE1vQ2FIMkpmS3pZa2lmWm9veXlFS2JOblhrLURTSF8xQ2N1eWFVV01qMFF1ZER0RmFMcjJCdVZvZFcwNzgyX0swbktqZ3Y4NUQ3d2NqTTctYjU2ejJWOWFqQlVpR0dKTS15bTZn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792664026.0,
         "tag": "Global",
         "first_seen": 1792677643.492623
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXY0Q1cwWl9VVno4dWdVLXpMeTZOUEpqalR0ZTRGRjg0THRkN0ZYQzN1cHA4cjdrUm51M0ROT1I0VEYzal9VTHl1MmpPaHZhQUoyNTdnb1JoMDRTYS1yMS1TVV9hRWVENmxCM3FjZjF4T1FSQkV2Wm91ZnQyd2U3ekJNTUU?oc=5",
-        "headline": "Europe’s bracing reality on US bond yields",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "10/22 19:07",
-        "published_ts": 1792663651.0,
-        "tag": "Strategist",
-        "first_seen": 1792664125.7327976
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUGphaHUtVm1kblAwY21ieEpqWksyZUJXT1prRzRFUGNxbFRqZkZBRXNXQzRUYTNfSGZENDJNaWN3c1p5YWJwenUyb3JBTlFLQlBLQ3l4Q1d2ZmFSZElpNTB2XzBfVjlxZTlzWFh5ZDYyLTNBSjdocTd3TUR6bHFsZ1BrSW8wR1ROTDYw?oc=5",
-        "headline": "Market Minute: France is in a bind. Is there a way out?",
-        "summary": "",
-        "source": "The Real Economy Blog",
-        "published": "10/22 19:00",
-        "published_ts": 1792663224.0,
-        "tag": "Global",
-        "first_seen": 1792663530.0666027
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 08:45:48",
+  "updated_at": "2026-10-23 09:01:03",
   "yields": [
     {
       "label": "3년",
