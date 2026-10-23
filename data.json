@@ -1840,6 +1840,16 @@
         "first_seen": 1792748722.9232733
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
+        "headline": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "10/23 18:17",
+        "published_ts": 1792747031.0,
+        "tag": "Fed",
+        "first_seen": 1792782927.9781783
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB2TEVMMjFqSWt1SndtcVBvdkEyWWJQdG1fbThRemJjaEFjNkpmX1hjR09qaEh1SEcyTFU1R19YT3Q3MWh0RjczbGFqQnR0LVdqeDk0QXA1N2Z5ZTgzTFlvczdtQ0doYmo5dHhXSkNQQmtRYjltMmY0?oc=5",
         "headline": "France is flashing euro crisis signals. This time, the fault lines are different",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792736368.0,
         "tag": "JGB",
         "first_seen": 1792740630.9918206
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5QVmdPTW5MVGlZS0tSMTZ0ZzFHcE1LS3FDY0YyUVpRUXJMbHJEanVmd2VvcHB0cXIxeEs2U0JMRjcwcF9SSjRJVnV6Z3U1SFktV1k2NmFFVTJzYjg?oc=5",
-        "headline": "“뭔가 심상치 않다”…AI 공포에 전 세계 ‘안전자산 러시’ [머니+]",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "10/23 14:21",
-        "published_ts": 1792732899.0,
-        "tag": "JGB",
-        "first_seen": 1792737924.2985651
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 04:01:14",
+  "updated_at": "2026-10-24 04:15:56",
   "yields": [
     {
       "label": "3년",
