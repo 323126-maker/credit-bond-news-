@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTFZMTBtMzJodzF2R0MzRlBWUi1tNUVrZEpHQ2JxOFZfSHVsMmY2T05BQi1ZYmVGd1dIWUJsTENKX2VBaTF1UEwxblhmcnJWR0VLdEI4dGJGSWt2VzVtWWtkZjVYTVdHQVpHd09IM3gzbEZ4Y0l3eThRXzdBOWNESA?oc=5",
+        "headline": "17개월 전엔 관세, 지금은 AI…글로벌 신용시장 다시 긴장",
+        "summary": "",
+        "source": "이데일리",
+        "published": "10/24 03:30",
+        "published_ts": 1792780233.0,
+        "tag": null,
+        "first_seen": 1792781123.9283595
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNX1VCTGFIa3FPaWpTVEFyNnRFQmJ1Vk40UWxEaUE4S3BpdWRza2tkWFA5REY2X3FtcmtEVE1kTUpXTnJaVkhDZWVjVEp4YWlwd2hQTU9tTm1QUEVBelE?oc=5",
         "headline": "AI 거품 우려에 글로벌 위험 가산 이자 약 1년 반 만에 최고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792708080.0,
         "tag": null,
         "first_seen": 1792714524.5392451
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BNzNIZUlITzZISkppQWNNMkNsdVFBM25WdDBmVWltNXpZT3QxMkpkSDV6T2FyMFpoUjhSOUE3WmpzM01IMG5hcnJpREZ1dnZlNHpBZWEwZDREaFR6ZVExYjc2MEtIcVVwT1g2RTU0SGNkUQ?oc=5",
-        "headline": "[뉴욕채권] 국채가 초강세…메타發 우려 매수세 폭발에 10년물 5% 하회",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/23 05:02",
-        "published_ts": 1792699358.0,
-        "tag": null,
-        "first_seen": 1792700121.4908712
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1792780233.5996187
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMU9uaGVaQzdfUG5KbnZiUGRuMU54T2ZBb0ZaSHlfM2QtOWZwZXdidXEtVlpOQkFTVVFOcDVSQVFVZ1h3NlhidlljWlVzLU1jWVo0cnNNcnNRYlhYX1p5ZzdGcW4yMFdzYTBBYWYyREJ3S3NpZ3B5NmxjTzRXUmtOcW1B?oc=5",
+        "headline": "Above the Noise: Perspective on bubble fears",
+        "summary": "",
+        "source": "Invesco",
+        "published": "10/24 02:10",
+        "published_ts": 1792775445.0,
+        "tag": "Global",
+        "first_seen": 1792781123.9283595
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFdUY25acE5BeEozTC1TUC11SUROVWNZWWtHWi1PLUpxVXd6UzVaN29rb25WcVNoT0JCYTFPUmw1S3BKaTdsQS1BUVB2LWZ3ZW5kQ09WeDlyaTVkN0JpVW0xVVRTM2JpRXA3UnRmNDJOcC1UemgwWm53U3VTVGZ6dEI4RE43UVRPaHdQS28zeWRiaUpKbVZWX0Jwel9OdHp4MHFDcA?oc=5",
         "headline": "Fed Pause May Not Mean Rate Hikes Are Over",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792732899.0,
         "tag": "JGB",
         "first_seen": 1792737924.2985651
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ0xQOHNBcVl6Vm55Z3R3TGI1SnNJaUQ1eVdrQlg3Yk5yckVrdU8tbFRwTUZGNmJ3RmtBcHNfRXA0VFhhYkdpZ0RGX3FUQUlDaEQ4M0hNdll3N21vcnV3amFsMUV5UUJYWFRZR1EtM25UR18yelBNZ3B0YmlteUtYT3lTcC1yYlh0TXhGUXpjZ2RTMEJWVklsWFFuMUVFT2RiOU5LYnh5QXc5ZG13dkdReFhCUXl6Tlk?oc=5",
-        "headline": "Cognitive Credit Secures USD 40 Million Investment to Scale Specialist Data and AI",
-        "summary": "",
-        "source": "World Business Outlook",
-        "published": "10/23 14:14",
-        "published_ts": 1792732464.0,
-        "tag": "Global",
-        "first_seen": 1792746040.909338
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 03:30:56",
+  "updated_at": "2026-10-24 03:45:50",
   "yields": [
     {
       "label": "3년",
