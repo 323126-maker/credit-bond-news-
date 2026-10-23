@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laHdBZ3o4bnpNV1lKNUh2cVE3SFVkWm5lVkRLNWxWRU5pMWJRalVTeVFzR0FDNDVhTXRGejlYcDJtY1VZTUdKcFJVUlFOQnlEaWV0NXdwNU9HUzJlVFNzcnl0Y1lQM2Y5bzJUenRvMHg?oc=5",
+        "headline": "노르웨이 국부펀드, 3분기 채권시장 충격에 약 39조원 손실",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/23 09:53",
+        "published_ts": 1792716837.0,
+        "tag": null,
+        "first_seen": 1792718122.4426851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YRXlrbVd1LW1lZURJc3FwbXNMS3EyQXhzbWR5eWVMT29EUUxNdGVmaEpzWnZ4b1VDRFFkUU1NbkNmVV90d0pieXpQU1N3Qk5UekhfSG1JTnlPZ1RJV1JUNG53?oc=5",
         "headline": "국내 최초 리츠 AMC 코람코, 창립 25주년 맞았다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792602350.0,
         "tag": null,
         "first_seen": 1792651522.361505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9mTTRuTE9YdmRvSlFseFdzaDJ5Y1E4TEtscTU3WXFudEFzZjBWOEZMb1dMSTBpY080SGhuMkZ2LUR6TUdMakxwRDFibGU1blhkVHd6N0gzTGZBN2l0aDhyWnBfdV8ySkVhcnhKbmFBdUs?oc=5",
-        "headline": "무디스, AI 수요 급증으로 TSMC 신용등급 Aa2로 상향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/22 00:46",
-        "published_ts": 1792597560.0,
-        "tag": null,
-        "first_seen": 1792598438.4151337
       }
     ],
     "perpetual": [
@@ -1358,6 +1358,16 @@
         "first_seen": 1792596631.8939977
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5md1hEOVdndDdWWUZmSDRRSFItZ1VxRUhEQk1jX2U2YzRBQ1NYVUpkSEFfdVFCb2pUNkdrR2dSRVd2MUpqMzEzV1RXd1hoNXd6UnVNQlY4UHRhNXQ4RVE?oc=5",
+        "headline": "추미애·부승찬 '경고'...민주당 내 자성론 확산 [정치 ON]",
+        "summary": "",
+        "source": "YTN",
+        "published": "10/21 16:26",
+        "published_ts": 1792567560.0,
+        "tag": null,
+        "first_seen": 1792718122.4426851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDOVpJaU50QUlSV1pwWTRyZko3UDEtcGtxWEJ5NlNEYmVBZG40a25xUWVweHdMLUMxNDdyNU41Z0tMZVAyMllWSlRRNFZDVi15V3dz0gFTQVVfeXFMUEM5WklpTnRBSVJXWnBZNHJmSjdQMS1wa3FYQnk2U0RiZUFkbjRrbnFRZXB4d0wtQzE0N3I1TjVnS0xlUDIyWVZKVFE0VkNWLXlXd3M?oc=5",
         "headline": "與정무위, ‘공익신고자 공개’ 오세훈 때리기…野는 “재정 빨대” 공세",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792389224.0,
         "tag": null,
         "first_seen": 1792393235.184709
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LbEp5cVlLWjFHZGNpUkUxWE1xaUhHa3RmWkd6emJrTmQxSHhxXzhraFpyam5yS2JHd0ZWTFNxS19FeUVWcFNhZ1hKUGhqTmJqTG9MdmVRR29veFRVRDdEWmEwMmFWQUY1SVpWOA?oc=5",
-        "headline": "추미애 경기도지사 '소방 재정 빨대' 발언 파문… 여야 막론 정치권 비판 폭주",
-        "summary": "",
-        "source": "에브리뉴스 EveryNews",
-        "published": "10/19 13:18",
-        "published_ts": 1792383520.0,
-        "tag": null,
-        "first_seen": 1792391428.6291654
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 10:00:59",
+  "updated_at": "2026-10-23 10:15:49",
   "yields": [
     {
       "label": "3년",
