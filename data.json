@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNX1VCTGFIa3FPaWpTVEFyNnRFQmJ1Vk40UWxEaUE4S3BpdWRza2tkWFA5REY2X3FtcmtEVE1kTUpXTnJaVkhDZWVjVEp4YWlwd2hQTU9tTm1QUEVBelE?oc=5",
+        "headline": "AI 거품 우려에 글로벌 위험 가산 이자 약 1년 반 만에 최고",
+        "summary": "",
+        "source": "YTN",
+        "published": "10/24 01:24",
+        "published_ts": 1792772640.0,
+        "tag": null,
+        "first_seen": 1792773924.86697
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9LdVJwaUR5enB0T1EyQTVubUFwbkRCdG5GbDJ2SU9iWmtCNjFRcW1xY204WVYyMVFZQ2hKWXhEWWhCUDI2NWZ5SkFCaTVJUGhzUnc?oc=5",
         "headline": "AI 투자우려에 글로벌 신용스프레드 확대…17개월만에 최고치",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792699358.0,
         "tag": null,
         "first_seen": 1792700121.4908712
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85WHFTc2NZSnBqRE40UEVmNE5zaFdETEFDTjk1MWMtSWc5SE9SMUlJM29Rd1IxYTFXWk9NTnREZjJVVmE2YzUtbUEzbGQ3Uko3bEtxRnozcC1Iak0yWWVaQVkyRjMxb1h0R3FhMnYyWTlpNEUyTHc?oc=5",
-        "headline": "브레드 파이낸셜(BFH) 2026년 3분기 실적발표회: 대출 성장과 신용 개선",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "10/23 05:02",
-        "published_ts": 1792699345.0,
-        "tag": null,
-        "first_seen": 1792702838.15788
       }
     ],
     "perpetual": [
@@ -1258,6 +1258,16 @@
         "first_seen": 1792727123.710562
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBQQTNIYVBPN00tUjBiVkl0ajNnQUJoX1Z3UDJLNEdEN2poTmpwMTd5ZlZVNkY3UmpqMlVxMnlCNTNHM3RDZ3RNTHVtWmV5S3BkSXloWmpITTJUUEo0akhJbUdka1FoWnlsTDMxUGhuUGc3dVFHbGw5R1JvbUhSQQ?oc=5",
+        "headline": "특허 상표 등록 + 분쟁 대응",
+        "summary": "",
+        "source": "willawip.com",
+        "published": "10/23 09:00",
+        "published_ts": 1792713600.0,
+        "tag": null,
+        "first_seen": 1792773924.86697
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1PT0szR3pzYU11MHltRnp2bTRDRlA5LWM1VHBEVTA1VnNSak90ZmwyV0lOcF85Y0FfZXl6cGRnLTQ2Y1dRR01vOGp3RlpISXp2Q2FoTWZVTkVCSURJRm8xNno4clZsWWFOcmtkN2Fja3YyZDQwcmFzSmhKVzBDdw?oc=5",
         "headline": "[제도] 잠재성장률 반등 발언, 중소기업이 챙길 점검 포인트",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792465393.0,
         "tag": null,
         "first_seen": 1792470629.4423752
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1abUUzcFpZSFpLcmhSZVhKQW81YTBDMDN2akZqX1RDc0FPNVFvb2F2WmxLUVc1QzBtSm1iTXBIaU9SUTFNanVpNldaNDlaQ0VUSFFuX0d4bw?oc=5",
-        "headline": "민주당 김민석 '추미애 징계' 신중모드 : '뉴 이재명' 요구에도 저조한 민주당 지지율이 발목 잡는다",
-        "summary": "",
-        "source": "허프포스트코리아",
-        "published": "10/20 11:51",
-        "published_ts": 1792464665.0,
-        "tag": null,
-        "first_seen": 1792468836.3896704
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 01:30:58",
+  "updated_at": "2026-10-24 01:45:49",
   "yields": [
     {
       "label": "3년",
