@@ -22,6 +22,16 @@
         "first_seen": 1792710926.6716459
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mNHdPMEpnbGtndG9xOEsyQVgydkMyVnBGRHJWbUZoUHhGSnY1WWNJRHIxUmNIZjhzdjRtdDRjRXpCT2JvdVZmZlNvWC1ranNpOUFUUkc1WXNtT1R5?oc=5",
+        "headline": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/23 07:28",
+        "published_ts": 1792708080.0,
+        "tag": null,
+        "first_seen": 1792714524.5392451
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BNzNIZUlITzZISkppQWNNMkNsdVFBM25WdDBmVWltNXpZT3QxMkpkSDV6T2FyMFpoUjhSOUE3WmpzM01IMG5hcnJpREZ1dnZlNHpBZWEwZDREaFR6ZVExYjc2MEtIcVVwT1g2RTU0SGNkUQ?oc=5",
         "headline": "[뉴욕채권] 국채가 초강세…메타發 우려 매수세 폭발에 10년물 5% 하회",
         "summary": "",
@@ -120,6 +130,16 @@
         "published_ts": 1792660062.0,
         "tag": null,
         "first_seen": 1792660524.4297478
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zZEhZM2VTVEgwUmdRNEFQdFRVOXE3OWdPVnQ2Wkd5OHRGN18zd0NFSjFRdUIwWEt6YTJtYmlkd3VKbndfRUE?oc=5",
+        "headline": "\"우량 회사채 투자할 기회\"",
+        "summary": "",
+        "source": "매일경제",
+        "published": "10/22 17:44",
+        "published_ts": 1792658685.0,
+        "tag": null,
+        "first_seen": 1792714524.5392451
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41bnhwZXZ3dUlSUHRiRDR1Mnp0YXBTMTE1UnRWN0M1OV9WcENJaHlwdnVYVTdGU0ZSYkphRF9yYkNRNFNFaTBKREhWb1JoRlp2MDdSYTJyeHAyUl9HcndkNG1FZGF3ek9fSlZGN2J5b0h4Zw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1792597320.0,
         "tag": null,
         "first_seen": 1792598438.4151337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55SF94VV9Sc1lEWjVvUTB2UDQ5WlBPM3FDMElTVWY4T29ELUFaMlFvWDVBQXQyUGpKOW5wT0o5UjcyOHlPenlmUHJ1clhSNGozelZ2bXdVTlhwV01VdS0tbXJmNlpSUXk0UnU4S1FxR2g?oc=5",
-        "headline": "[외환-마감] 수출 호조 속 네고물량에 저점 또 경신…2.90원↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/21 18:36",
-        "published_ts": 1792575361.0,
-        "tag": null,
-        "first_seen": 1792575922.9532914
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SX3Z3TGgyMS1GMjY1Nzg1MnkzeGMxRGpGRzNEeEpLUXIyYnZ6OVFiZm5ES1Z3Z20xYnBfcE82anJENEl1Z0E?oc=5",
-        "headline": "오스템임플란트, 1200억 규모 영구채 발행⋯재무건전성 강화",
-        "summary": "",
-        "source": "아이뉴스24",
-        "published": "10/21 18:15",
-        "published_ts": 1792574132.0,
-        "tag": null,
-        "first_seen": 1792581323.0437553
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 09:01:03",
+  "updated_at": "2026-10-23 09:15:56",
   "yields": [
     {
       "label": "3년",
