@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1YRXlrbVd1LW1lZURJc3FwbXNMS3EyQXhzbWR5eWVMT29EUUxNdGVmaEpzWnZ4b1VDRFFkUU1NbkNmVV90d0pieXpQU1N3Qk5UekhfSG1JTnlPZ1RJV1JUNG53?oc=5",
+        "headline": "국내 최초 리츠 AMC 코람코, 창립 25주년 맞았다",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "10/23 09:29",
+        "published_ts": 1792715340.0,
+        "tag": null,
+        "first_seen": 1792716324.5222013
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGUUNua2VwYk50Ymd3ZnZ1enFVbDMzaWhraDFZZW04c2hpLUFobGtXb2FnbUpHdjRKa2c5RjJQV19keEFMLWFqdkQ0MkJSalVrbGVhX3dwT1g?oc=5",
         "headline": "[메타에 발목 잡힌 업토버 ②] 메타 CDS 사상 최고…채권시장으로 번진 위험신호",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "Investing.com 한국어",
         "published": "10/22 00:46",
         "published_ts": 1792597560.0,
-        "tag": null,
-        "first_seen": 1792598438.4151337
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90WmxZOFBuUU1EWlVBbHA3SVctWHNsdnluWjFyTkp1ZlBPVHphaGdUUXRhVk4tMW5IN1h5MHQ5SUlNNzRGMEdKVG84TWhBbXowb3RHT25XaDB4TDd3UVBUOHdWVFVSX05UVFZwaXdEVXM?oc=5",
-        "headline": "S&P, 램 웨스턴 신용등급 ’BB’로 하향…부채 부담 지속",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/22 00:42",
-        "published_ts": 1792597320.0,
         "tag": null,
         "first_seen": 1792598438.4151337
       }
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UUFJHcTBPTW1ObTBGLVM1QmpJeVR1TEtYWFBWQ0treDJYWTRwbWZyVVlFOUNtUWtiSHpUemIyN1BWMWgydlY2aElJUG1vN3ZMLVZVbzZsbjZnYVhDRVZpOU90ZWE2VmN3?oc=5",
+        "headline": "메리어트 본보이 삼성카드 출시",
+        "summary": "",
+        "source": "www.2news.co.kr",
+        "published": "10/23 09:26",
+        "published_ts": 1792715176.0,
+        "tag": "삼성카드",
+        "first_seen": 1792716324.5222013
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1DR01DVUFGdVNrMlktZ1BVUGw0ZjlYWThuUTIxSDgyU3QwSEUxdm1kT1UzUUlHNWxDR01hMVE4MHNaVUFqZnVtTnVidWFfNUVidi1SZjhKblpwMVplOUJsZXJTblg0N0JwREhYdVR3?oc=5",
         "headline": "[심층] 신한은행, 정보유출 사과 뒤 5700억 채권 팔며…'해당사항 없음'",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1792569801.0,
         "tag": "신한지주",
         "first_seen": 1792574124.179938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Kaks4ME5kREJlTl96aWRRbkhPNVZvRzFlNk5FNXcxbnlNTzIyeTRTenNyZVBFdTRDTU1TTFVBMmVYYWdxcDZNNUZEMnEyMmhNMjRTeHRyT3RUdGhjQ2RQbDRZaU41bG8?oc=5",
-        "headline": "하나금융 신종자본증권 수요예측 흥행...4천억원까지 증액 검토",
-        "summary": "",
-        "source": "청년일보",
-        "published": "10/21 16:56",
-        "published_ts": 1792569419.0,
-        "tag": "신한지주",
-        "first_seen": 1792569637.2613323
       }
     ]
   },
-  "updated_at": "2026-10-23 09:31:05",
+  "updated_at": "2026-10-23 09:45:50",
   "yields": [
     {
       "label": "3년",
