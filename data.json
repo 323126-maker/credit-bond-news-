@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1pWFNHd0Z4R1ZuVWhZQjdpTi1PYnRfZ0xwYzZXY2lrYTN3X0JJdFd3YXM3MkZZRkJlc1d4cTZSbUJaQk1Md0d5X19QaVp6T2JjR0c2WGRjS1cwcFVWeTFJeTc3Uk8wdE0?oc=5",
+        "headline": "무디스, 칠레 신용등급 A2 안정적 전망 유지",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/24 05:59",
+        "published_ts": 1792789140.0,
+        "tag": null,
+        "first_seen": 1792791030.388846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMk5NY3c4Zi1ZLV9KN1FSXzJQdlptTWg4SXpaQzJ6aWpjczFjblFNU0VsYjg2bm9VTjR1NXRDUmtrU2d6Z05xQXFhcw?oc=5",
         "headline": "위험회피 심리 확산…글로벌 회사채 스프레드 17개월 만에 최고 : 금융",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792710756.0,
         "tag": null,
         "first_seen": 1792712724.6482196
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5RWTNYZEtDNks3RXZ2eHdMUF9yMTJTc0p4eTMyd054ZFJNQXR3Nng3c2wzVWl1Ym8wTHdtNnY5b1ptcVRuaFhkeHZWenVJSlE2aW9rRXJjcDd4a2xfVXg3MGRPRXFkbUk?oc=5",
-        "headline": "[장인화 포스코 3년 (上)] 영업이익 9조에서 1조 8270억…이익체력 어디로",
-        "summary": "",
-        "source": "자본시장뉴스",
-        "published": "10/23 08:00",
-        "published_ts": 1792710000.0,
-        "tag": null,
-        "first_seen": 1792710926.6716459
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JUGhFOHZKclNONTlReU4wQzlGVFpWRjdXVUYwZW1uWkpSQmI3WlNJc2Q1LXVUYmd1UXlLZ3ZCRWFLU3JsRkVCVTF6MGdJUFZuX2c?oc=5",
+        "headline": "요즘 미국선 “아직도 AI 돈 안뺐어?”…대신 돈몰리는 ‘국밥’ 어디",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/24 06:09",
+        "published_ts": 1792789765.0,
+        "tag": "JGB",
+        "first_seen": 1792791030.388846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1g1MjJqM1A4WVk0SHlYMjhTTjRnZk1rdWZSeVh6QnBmbkhqeEFLMS1uQXN3OVB0VEhCMElnak05UFRLRkV2VVlmVno1YzAyOXFXbS1BanllLVRVUkI2eXI1LWRvcDd1M05nWGtLcmtwTHpjQWw0SkNDdkxhWkxiODNWek9CWmV4Mm81dTRHOTFfczJVYzRZ?oc=5",
         "headline": "What To Expect From Wednesday’s Federal Reserve Meeting",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792739492.0,
         "tag": "Strategist",
         "first_seen": 1792746923.4688504
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5La3lpYkprUXJTTjhfTEszMDE0QklOcGM4YTdvZ2hjOFNNN3VaMHhlT2VEc3h2ZHZnclEwQjlXTnlDaFpjZTVpMWx5QzRsem9IQWZhcjJtZllTUXVyUnBFNHcwMHNRSUJDY2gtd00xVHVRc0JD?oc=5",
-        "headline": "[도쿄환시] 달러-엔, 위험회피 속 하락 후 소폭 반등 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/23 15:54",
-        "published_ts": 1792738493.0,
-        "tag": "JGB",
-        "first_seen": 1792741523.3040934
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 06:23:34",
+  "updated_at": "2026-10-24 06:30:53",
   "yields": [
     {
       "label": "3년",
