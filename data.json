@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SdmR1NjJJX0xxMkZ3ckVMX1EtWGxiR3puVC1CdG1DNUpWMWsxQmZ5RkItVWQ1cFFJTGNJVE1YYUx6cnJyQ2JnNzMyX3N0d2pkOWxWREFicFRlUQ?oc=5",
+        "headline": "채권의 귀환...월가 기관들의 투자 전략은[박신영의 월가 아나토미]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/24 08:07",
+        "published_ts": 1792796875.0,
+        "tag": null,
+        "first_seen": 1792797323.742073
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAydHJ6dXB5d0NHZmpjRjdRTVpzSWJrWndSY0VYV0hSWGpNVE9TLXZDZEpQNWhxaExLWnl2Q2ZJaUtuYVNlb1lpN3k4MVZyT3lWcTNhVzBPZm1QeUszS2x5LXJ4U09Md0U?oc=5",
         "headline": "피치, 리투아니아 신용등급 ’A+’ 안정적 전망 유지",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792714482.0,
         "tag": null,
         "first_seen": 1792769432.3783271
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKZWdJNlZTa0ZnMGRHbWlaZS1PWFlmZVJnbFdPdzZBSGpOdmxBaFdhc080bzNHNkZMbmhhb1kwLU1lTzgxX3c?oc=5",
-        "headline": "[단독] 은행 포용금융 성적따라 출연금 20% 가감…과징금 감경도",
-        "summary": "",
-        "source": "매일경제",
-        "published": "10/23 08:47",
-        "published_ts": 1792712857.0,
-        "tag": null,
-        "first_seen": 1792719032.9381843
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gc0R4YkFtTkotVlFuR0oxUWhrRlp4TzhXNjhCdTljcVlSVFNiRUVfMFNlNnF6TUdrZ2hzS1ZLRTdhaXU0UElFTmh4cXpRaFhiaUdMSWhtU3ZtMHdoak5TWDJGRzBiSXFPajhldmhmMNIBc0FVX3lxTE9mNmYya3dSVGk5dmQyT3g4dmNTZ3Y4djdPcUVrcVZWR3NsYXBzTGFhb2p2WW93MTZlRG5SS1pIOGhQd2JMaG5HX1JwZW5yN3ZrWnF3MFNJWlk2bWx6UEVfN2FJLVlMQUVHdVAzWTdVSG9wc1k?oc=5",
+        "headline": "韓 이어 美·歐·日도 '동결' 유력…연말 '인상' 불씨 여전",
+        "summary": "",
+        "source": "뉴스웍스",
+        "published": "10/24 08:00",
+        "published_ts": 1792796400.0,
+        "tag": "JGB",
+        "first_seen": 1792797323.742073
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVk5nVVp2VnRGRjRqQ2F4NWF5eGh5UWlkNFEwTktFSFZOWDEyaEN3Ny0yNmRGWndrbG5jRkJWSlk2M0s2bFA4ZlkyY3ZXN0RSVUxGbV9CQWtDNmtnRTNDV2xoU3dLNFllcTNfU0lJeGs1YUtyLWtOS2Q0NWVnQmUtbzJjaF9iZ2c0MkcwdTMzZXhhZEktSFFKeFR2VldaSUhqeGp3d3pTWVA?oc=5",
         "headline": "Global investment-grade corporate bond spreads hit an 18-month high as the AI financing surge rattles credit markets",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "The Motley Fool",
         "published": "10/23 17:10",
         "published_ts": 1792743041.0,
-        "tag": "Fed",
-        "first_seen": 1792743325.4083014
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndW1iSkNSTjBzZzlabmNuNFNyMFRBaXA2cVNlWmExNks3SFZBc1ZRRjF5cHY5eW9FM2oyWU9JNzZwWk1PNWY3TEI5MGFRenVwenRGNXIybl9iekpPN2psb0pXU3J2R0wzREFPeHB3?oc=5",
-        "headline": "Take Five: AI trade meets the Fed",
-        "summary": "",
-        "source": "The Mighty 790 KFGO",
-        "published": "10/23 17:00",
-        "published_ts": 1792742434.0,
         "tag": "Fed",
         "first_seen": 1792743325.4083014
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 08:00:57",
+  "updated_at": "2026-10-24 08:15:48",
   "yields": [
     {
       "label": "3년",
