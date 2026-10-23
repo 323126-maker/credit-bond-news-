@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtSWowd2JJYXpNYXlKRnA3ZENTcFNGS1Z5RUI3d203dDh5MlZTeXh4SzY0ZVNxOFVRdVVmQzJqU0daeVJXdUxtZXlwZGZyRkdiODF3akkzWkg4NkZaai1PaVZNQTFVdk5qd3dhSE1welpTMHM?oc=5",
+        "headline": "프랑스 재정위기에 시위까지…日 투자자 이탈할까",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/23 09:20",
+        "published_ts": 1792714828.0,
+        "tag": "JGB",
+        "first_seen": 1792715438.125503
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTUl1aHlIelFoSnhiSkt0VmZBUWtyaGRKSEpwa25pWXBfQnJoZXFwNVJTaV9zakZaYTdOWEtFWGR5STk1amtVWFBnSjFlbFVONlFCN0NhN05RUkFDNnRuUDRTakZVeEJvMlhpRzFDelJQdFpPWjJ5dzgtQkMweWVBTHhkWVdKbWR1azJzNFpn?oc=5",
+        "headline": "Kospi Plummets 3.3% as U.S. AI Fears Roil Markets",
+        "summary": "",
+        "source": "조선일보",
+        "published": "10/23 09:11",
+        "published_ts": 1792714296.0,
+        "tag": "Global",
+        "first_seen": 1792715438.125503
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNEhRN2piNVV3UW5DSXR5VkNRZW5TV1hsUUlUUFNITUh1eFBMZWlOZXhIMFhkekhlaFdfTTRRM0RwUUlybmhublZCYV9id1BTdlgyWF9rUXB3bDk0NnJudzVBenB2QlVBTFV2T0NZREJkTGhOTEM4dWZsZXdrSXg3blZpREl0Q01DbVI2NWdZdG9HaFVxVXBKS09OTXVsMUVrZ0Jxa0JIc284X2NwMDB3?oc=5",
         "headline": "AI Selloff Gains Steam but Solid Market Action Beneath the Surface",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792666080.0,
         "tag": "Global",
         "first_seen": 1792670439.830008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdWN5TzJiNG5XMFJvcTdNbUxMTHd2MllzY05iR0V4UklVV20wRTYtMlZ1YzVSQkwyZ2p5OFkxNFNTM19DVjhFZTI3UkdESFJkMm5CSFV5cXVqR0VkYk5jZzdiZ2c4VUEtcVJ2eFZHTjdDUVhnSVRzMVBodGQ2YkZmcF9vZXJfQQ?oc=5",
-        "headline": "The Fed’s Dilemma: Can Markets Damp Inflation or Is Another Rate Hike Necessary?",
-        "summary": "",
-        "source": "Barron's",
-        "published": "10/22 19:30",
-        "published_ts": 1792665000.0,
-        "tag": "Fed",
-        "first_seen": 1792665922.4937797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVJnTHZVaFA1UnpFWUZmbDZQYmdOLVhxWElJRGwzLU5PTWVUUGdFOHdyUlRuTlRteGs5ekdyTHRVX3VKYjJrYWpFOFBUY2ljdFB3c1NsekltZERVZnhWd1RZV05ERFdIeXFjTXdOenB0a3ZJcWZpNFRUX0RWU0p6V2hXNGVqYm5ESWJ5a2ctUkdIdzdiNnc4T2MtX2VDNlFfaWJQT3B1ZXpxSmx2S1VxSzIxYWVZZnRyYkNj?oc=5",
-        "headline": "Redrawing the Asian income map",
-        "summary": "",
-        "source": "UBS",
-        "published": "10/22 19:13",
-        "published_ts": 1792664026.0,
-        "tag": "Global",
-        "first_seen": 1792677643.492623
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 09:15:56",
+  "updated_at": "2026-10-23 09:31:05",
   "yields": [
     {
       "label": "3년",
