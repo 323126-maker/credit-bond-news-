@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTV0x4bzBNaGdLcmYxcnhHZnBJcXM0MFlPZy1nelNPNE5ROVVfRzg5VU9JTFpsZ3hsWTdGbWN2amNzVVR6aEVZUkRGM0RZU0xCdlpTVFVoVEdsZ0ZnUlZFeXVuUmRMR3gxU01vaHMzYU0?oc=5",
+        "headline": "달러-원, 뉴욕장서 1,320원 중반대 거래",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/23 22:56",
+        "published_ts": 1792763787.0,
+        "tag": null,
+        "first_seen": 1792769432.3783271
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uVDBrVnltREZObTBUX1hOeW5wOGxVWHlRcWRtbExadWR5ZWRRbWpWVkdCcHNTN3pIeWFRREIxQmlCQXdWeGlaR2plcHZDYnYwSzdPN0hIdG0wckpvRmhZWHotVGhfM0l4MlR0U1RLZGdpWVlETzI4?oc=5",
         "headline": "＂AI 수요 차트 뚫는다＂더니…삼전·닉스 주가 추락한 이유 [딥시그널]",
         "summary": "",
@@ -272,6 +282,16 @@
         "first_seen": 1792716324.5222013
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9qUzVJSWZBWk1RWWRvWnFwZlptZWxhZ0g1dElQYzBuNWxubzdUODJyeGdPbVVLUlVaOUUyczRZVFJvcW5sUXdiY3lkaW9ZbjRZWDRNZXZ0Q294UWJJcEZ6TXpsQmVWdUZFd1ZzOFlhX2VqQlhRVE5R?oc=5",
+        "headline": "[외환] 기술주 급락에 상승 출발…네고에 상단 제한",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/23 09:14",
+        "published_ts": 1792714482.0,
+        "tag": null,
+        "first_seen": 1792769432.3783271
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKZWdJNlZTa0ZnMGRHbWlaZS1PWFlmZVJnbFdPdzZBSGpOdmxBaFdhc080bzNHNkZMbmhhb1kwLU1lTzgxX3c?oc=5",
         "headline": "[단독] 은행 포용금융 성적따라 출연금 20% 가감…과징금 감경도",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792673633.0,
         "tag": null,
         "first_seen": 1792706437.6641812
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT0w0NXU1eHdyMmdiRXpDUXI4WUxrQzFMSVN0eVdDbFFGSzRUbndrd2gyVjdRWGlZSDJlME1kaHgyMmk3eE1XaksyQ09qbXpnMGlzM2lGdjdQbkF4STNja1lnY2Y0cWNjWDZVdC1lb2Rtczczb2FUc3VxYXN4YzUzNXYwMXRfcTIxSGpQQndmRU1JeWxndEFEeWNyRlhOVkN6d09TUGFlQU5Odjc5NGpqR2pCZmE?oc=5",
-        "headline": "노르웨이 국부펀드, 채권 매도세로 264억 유로 손실 - 뉴스 및 통계",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "10/22 21:03",
-        "published_ts": 1792670627.0,
-        "tag": null,
-        "first_seen": 1792676728.8273563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UMFR2cjhfWmpxU1FvMWFvNE9RY2pRMDFlUktrSVh6a3J6WldNSHNSZ1VmZTFvQ0tEVk12QnA3UEtuZFFRT1d6Vi1SeTlHLVFxM3BueEFqdGVyWTdfVllQcEFaV3c2SUZwbWpKeXNR?oc=5",
-        "headline": "금통위 '매파적 동결'에 국고채 '혼조세' 마감",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "10/22 20:30",
-        "published_ts": 1792668647.0,
-        "tag": null,
-        "first_seen": 1792670439.830008
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 00:26:48",
+  "updated_at": "2026-10-24 00:30:58",
   "yields": [
     {
       "label": "3년",
