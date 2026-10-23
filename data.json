@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GNU1oMnJNRXlfTFRiaU5LaWRrc2tNQUhBOThuMmxwQTdKaWxGanUwakh0QTBKeGQzMmx2cDhCVm50U3BEQnA3aElXRm5FanlwZG5HSTlxQnFzeGhnRWN5cU5jSQ?oc=5",
+        "headline": "이재명 대통령 지지율 40%...더불어민주당 37%, 국민의힘 28%...한국갤럽 여론조사",
+        "summary": "",
+        "source": "시사뉴스",
+        "published": "10/23 12:35",
+        "published_ts": 1792726504.0,
+        "tag": null,
+        "first_seen": 1792727123.710562
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RSHRqN0lSb3Q0azRJaGV3WGxDbGN2NTVzMEJBNkhDNm9Od0VobFMtb25NQVRORV9RU3I5UlAzNG5UVF9qZWF3V1B2OA?oc=5",
         "headline": "이재명 '제미나이' 발언에 野 풍자 공방 : 정치",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792416187.0,
         "tag": null,
         "first_seen": 1792417525.4611263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5sN0hVSEYtRXMxZzhEX3AtRWJ2akRudVY0akJzLTkwUkJ2cEN3WDZDWVFIcTRFZUVKOTh5UkotS1BLcENOQWowT2w0dGRnUXFxNUNDTy0wS3VVT3lCNTBEdExhSnRpX0F5VVdPeDZWcnE?oc=5",
-        "headline": "추미애 지사 ‘소방 재정 빨대’ 논란의 핵심은",
-        "summary": "",
-        "source": "미디어오늘",
-        "published": "10/19 22:10",
-        "published_ts": 1792415400.0,
-        "tag": null,
-        "first_seen": 1792553428.1878948
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 12:30:53",
+  "updated_at": "2026-10-23 12:45:48",
   "yields": [
     {
       "label": "3년",
