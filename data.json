@@ -12,6 +12,16 @@
         "first_seen": 1792724442.999235
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5CUzF6VDk4Z1p6RGVGOXhLb0VydjRndl9IZlptWDdEd29SNTByaGowaFdVcWZJY2VjQWxBWWkwNE16Vm1qZ0ljT2hSd2JzelNJRWFVTExFVkdySXViV1pfZmsxMVNncFF1U0lF?oc=5",
+        "headline": "포용금융 평가체계, 은행권 잠재 부실 덮는 통로 되나",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/23 11:16",
+        "published_ts": 1792721760.0,
+        "tag": null,
+        "first_seen": 1792728037.0393982
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQUZYNW5xVmNKRm1oSVBXTV9YMVQ2aFVqM2hNTHQ0eTM3QXlwUVF6enlfRVY0R0duemFyQzVQTHF6SFMzMkQ1Q3k5RjNuRVhpWldLMy11X05CWEZlU3NFaEZndnlpLVJCSGc?oc=5",
         "headline": "중국, 나트륨이온 ESS 탄소크레딧 추진…그린메탄올 등 11종 방법론 공개",
         "summary": "",
@@ -30,6 +40,16 @@
         "published_ts": 1792720800.0,
         "tag": null,
         "first_seen": 1792721724.4629796
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UREFaVVp2Uk5JQkgza0F5SlpTYU1qbmt1TDFSYVBoY19OaUNCYUY2cjYtUnpaYUtVY053T2RKSjlSNjhUM01LN29HTDJ1SjZwdFJuT2o0X3E2VDJlU1R1Ng?oc=5",
+        "headline": "AI 투자 조정 두고 갈린 증권가 진단…“확장 사이클 마무리 경로” vs “성장통”",
+        "summary": "",
+        "source": "라온신문",
+        "published": "10/23 10:44",
+        "published_ts": 1792719851.0,
+        "tag": null,
+        "first_seen": 1792728037.0393982
       },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laHdBZ3o4bnpNV1lKNUh2cVE3SFVkWm5lVkRLNWxWRU5pMWJRalVTeVFzR0FDNDVhTXRGejlYcDJtY1VZTUdKcFJVUlFOQnlEaWV0NXdwNU9HUzJlVFNzcnl0Y1lQM2Y5bzJUenRvMHg?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1792621920.0,
         "tag": null,
         "first_seen": 1792623636.065387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE05SjBsVUJJdXFJLVJZbWVoRDdUcHg5a3hENDNiYjloaEd5aVZ1SFRVRzlnSUJRQVhJSWZTVWd1eHFRSl9UeWswMUVvaUdtb01ZeU9DalZvbkFnQ1R0Y1hHZEF0QkEza2ZZVHc?oc=5",
-        "headline": "대신증권, 자본 5조원 겨냥…더 빨리 불어난 단기차입",
-        "summary": "",
-        "source": "IB토마토",
-        "published": "10/22 06:00",
-        "published_ts": 1792616400.0,
-        "tag": null,
-        "first_seen": 1792645237.1876743
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE90QWdnbDBxTmJaVC1UQ1pRSHNFM3F6NlR4OGJLR0l2U2lfSUt3eHpFWFJFVWJUTk5GTWtJZGx0MDRjU3BvejlXUDhfaHBxUlFCTTJtWTItR1FNSGJoX2hKcGNHRk8za0ZyMHJhd0VlSWI5RG8?oc=5",
-        "headline": "카이저 알루미늄, 3분기 매출 12억 1500만 달러…전년 대비 44% 증가",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "10/22 05:45",
-        "published_ts": 1792615530.0,
-        "tag": null,
-        "first_seen": 1792638924.8988445
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 12:45:48",
+  "updated_at": "2026-10-23 13:00:59",
   "yields": [
     {
       "label": "3년",
