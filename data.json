@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBvQkd6SjlkbzYtNlRCZXVQaE1rWmZocm1mTnlzUFNuVlRzYjkxZE5hUUtwMWVkaHVaN3FUNTZ3X05TaUd4czk1MVhSWTdPaXRJUE02NTNZZ2czenotY1BvRzdLVHZxMlNrN0F3S1dpbEg?oc=5",
+        "headline": "S&P, 아르헨티나 회복세와 선단 확장 계획으로 Golar LNG를 B+로 상향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/23 22:19",
+        "published_ts": 1792761540.0,
+        "tag": null,
+        "first_seen": 1792762243.3555968
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yUkdKbkRJV01GSXFTMkFUNkRDeFRfSm9fUEExcHlkX0NSM0g4SExPY3lmdmlMMlFsb1F0b2ZfX0pwX3NsbGp3ZDVmQ25HVGtLUFlRMGtpWlZvM1U1SkpwQzFGUUxvN0F6ZTE4OEQ2WGg1Rk3SAXNBVV95cUxOMlJHSm5ESVdNRklxUzJBVDZEQ3hUX0pvX1BBMXB5ZF9DUjNIOEhMT2N5ZnZpTDJRbG9RdG9mX19KcF9zbGxqd2Q1ZkNuR1RrS1BZUTBraVpWbzNVNUpKcEMxRlFMbzdBemUxODhENlhoNUZN?oc=5",
         "headline": "중기형 IMA 4호 모집 나선 NH투자증권…1호 편입 자산은?",
         "summary": "",
@@ -382,24 +392,14 @@
         "first_seen": 1792698324.805636
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBkVVNKblI4LWFRd3RXX19PQ3IzblJFODdtbFZZQ3F4R2lWeEVhdWRBYVdYb1ZXeFExNEZhQzdJbEVLbHh2RkdCM3ZjYXluUV8xUWQ5QlZOMFpsTGhpYXl6WmNLb1VtdTBtSE9EYVB6LUPSAXRBVV95cUxQVWVsUUxldTZnb0xOa0NidnlERXJIMmY0R2dUeUJGeEp6eE0xeExhS0RpNEd2U2h5SmNfZXNBNTBPa1pNbHNPMEg2eGMzYUV0eUhVZ2pWQmlqQ3JZc3dKZVZPY00zSjZmR21YN3FiTDdVSTdFWg?oc=5",
-        "headline": "[외환-마감] 금통위 소화 후 네고물량에 하락…저점 경신 5일째",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRmFaVkVDRzZsWmpoYUI2X1lGc2xjd3liMlNqTWV1eFZZbE8tVmJWVmpENGp4TW84RDFhei1uRXhkY002SFhqTjc1SThhZ0dkQTFBUGozN2hFRkRQU3hNREJXdlZCM0lQTWd6cWNhcnY?oc=5",
+        "headline": "[채권-마감] 일방향 쏠림 없던 금통위…국고 3년 1.8bp↑10년 0.8bp↓",
         "summary": "",
         "source": "연합인포맥스",
-        "published": "10/22 18:12",
-        "published_ts": 1792660347.0,
+        "published": "10/22 18:55",
+        "published_ts": 1792662952.0,
         "tag": null,
-        "first_seen": 1792661430.2598896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZQzBIQUJIZXI4U25FV1BVbm1jcjk0UDBTSk9LeFp2V2xqb093LU95dGpodmlHMmgxWlVYRDZuenkyQVFwd2xQQkpyQXVMa3hRaEE?oc=5",
-        "headline": "‘큰손’ SK하닉이 돌아왔다…운용사에 3조원 맡기며 채권시장 기대감",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/22 18:07",
-        "published_ts": 1792660062.0,
-        "tag": null,
-        "first_seen": 1792660524.4297478
+        "first_seen": 1792762243.3555968
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 22:15:50",
+  "updated_at": "2026-10-23 22:31:10",
   "yields": [
     {
       "label": "3년",
