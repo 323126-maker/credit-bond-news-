@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMk5NY3c4Zi1ZLV9KN1FSXzJQdlptTWg4SXpaQzJ6aWpjczFjblFNU0VsYjg2bm9VTjR1NXRDUmtrU2d6Z05xQXFhcw?oc=5",
+        "headline": "위험회피 심리 확산…글로벌 회사채 스프레드 17개월 만에 최고 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/24 03:40",
+        "published_ts": 1792780800.0,
+        "tag": null,
+        "first_seen": 1792782041.2750118
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTFZMTBtMzJodzF2R0MzRlBWUi1tNUVrZEpHQ2JxOFZfSHVsMmY2T05BQi1ZYmVGd1dIWUJsTENKX2VBaTF1UEwxblhmcnJWR0VLdEI4dGJGSWt2VzVtWWtkZjVYTVdHQVpHd09IM3gzbEZ4Y0l3eThRXzdBOWNESA?oc=5",
         "headline": "17개월 전엔 관세, 지금은 AI…글로벌 신용시장 다시 긴장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792708299.0,
         "tag": null,
         "first_seen": 1792749639.5380018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9mNHdPMEpnbGtndG9xOEsyQVgydkMyVnBGRHJWbUZoUHhGSnY1WWNJRHIxUmNIZjhzdjRtdDRjRXpCT2JvdVZmZlNvWC1ranNpOUFUUkc1WXNtT1R5?oc=5",
-        "headline": "[채권/외환] AI 투자 불안에 美 국채 금리 급락…10년물 5% 아래로, 엔화도 강세",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/23 07:28",
-        "published_ts": 1792708080.0,
-        "tag": null,
-        "first_seen": 1792714524.5392451
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 03:45:50",
+  "updated_at": "2026-10-24 04:01:14",
   "yields": [
     {
       "label": "3년",
