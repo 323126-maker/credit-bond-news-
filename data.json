@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTjhXV00xQkNFQlBHZWdVN21QVFVmRW85YzNLZDEzWUpUdHZseFRRdlpxd3lKMFRGMVBUUVV0VUNCcHJTbi1pT082M2xwZDJEYk5uQ0RycEo3RDcyZkt4S1h6cw?oc=5",
+        "headline": "미래대응기금, 확장재정 논란 증폭…“성장 위한 것 맞나” [2026 국감]",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "10/23 19:04",
+        "published_ts": 1792749865.0,
+        "tag": null,
+        "first_seen": 1792750521.950307
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBEM2dzdERHdndOY2hDME0yb2dLa1FkX3FzQjhBUU02Rnd6S3dnb21QcU9RRHlvZHFQTVM1eEtHU2IydXky?oc=5",
         "headline": "추미애 경기도지사 ‘재정 빨대’ 발언으로 점화된 ‘반쪽짜리 국가직’ 논란",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792457585.0,
         "tag": null,
         "first_seen": 1792461560.6551402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HMHRHSk5XTHdkTkJLeHpGZWp3M2JHbTRBWlRWYTJWa3RNRzBSUFFXaWtXSUMtaTNISUNxY28xM2FvUWJ2LUtiQ1hZaTB1aU1lTHZTM0VGalVnTF9vNkQ1RGgyaXY2Y0pZR3V1TEhWZk5oR3lL?oc=5",
-        "headline": "[뷰리핑] 부승찬 “소방이 재정 쭉쭉” 발언 논란",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/20 09:29",
-        "published_ts": 1792456140.0,
-        "tag": null,
-        "first_seen": 1792483234.8254366
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 19:01:04",
+  "updated_at": "2026-10-23 19:15:45",
   "yields": [
     {
       "label": "3년",
@@ -2494,6 +2494,33 @@
         4.16,
         4.152,
         4.097
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.17,
+      "chg_bp": -4.0,
+      "series": [
+        4.53,
+        4.461,
+        4.553,
+        4.513,
+        4.42,
+        4.424,
+        4.373,
+        4.393,
+        4.405,
+        4.404,
+        4.359,
+        4.293,
+        4.296,
+        4.237,
+        4.206,
+        4.214,
+        4.179,
+        4.197,
+        4.21,
+        4.17
       ]
     },
     {
