@@ -22,6 +22,16 @@
         "first_seen": 1792760439.8662374
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9PSXhfcjRQdmptN2tqRnpaLTRIX2JDYnFoUGhDUk8zS2Ztd25ITUc0OEhJdG82ZUQxd2U4aHU5dkdXdzV1RmgtdEdLV19vVVRLa3dYNnZfRVBGcjFQOXVKeVVMcTNoN2IwUTRCVm5mS07SAXRBVV95cUxOb0h4UEpLNC0tQ240SmVTYm9TQVpweHVLUkQ0ZmVjaG1QVkw0REVkSEticVM2R3l2aGNnVExYak9PSzNLZ0JqRnU4eXByUDBqc096T3lVR1BGS0hVTDdyNWVDNkRuY2lyYmtxd0Zpa1JJbGhacQ?oc=5",
+        "headline": "IRS 금리 하락…주가 반등에 강세폭 축소",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/23 18:56",
+        "published_ts": 1792749377.0,
+        "tag": null,
+        "first_seen": 1792763127.323557
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5YaXo0VmMtU1Z0S0k0dGNUeWJBWGdqcW9JRVR1dU1Tb2w3MUMyNm9hd2FrY3BCdXJuMGJ6RkJHMDd5N1dYbWZLekc2dTNOTXFPS1FnYm9PaHkwOFllVi1wUmRFUzZXcTNlaVpYclZ6dUk?oc=5",
         "headline": "[채권-마감] 금리 하락폭 점차 축소…美 금리·주가 반등 영향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792663800.0,
         "tag": null,
         "first_seen": 1792698324.805636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBLRmFaVkVDRzZsWmpoYUI2X1lGc2xjd3liMlNqTWV1eFZZbE8tVmJWVmpENGp4TW84RDFhei1uRXhkY002SFhqTjc1SThhZ0dkQTFBUGozN2hFRkRQU3hNREJXdlZCM0lQTWd6cWNhcnY?oc=5",
-        "headline": "[채권-마감] 일방향 쏠림 없던 금통위…국고 3년 1.8bp↑10년 0.8bp↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/22 18:55",
-        "published_ts": 1792662952.0,
-        "tag": null,
-        "first_seen": 1792762243.3555968
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-23 22:31:10",
+  "updated_at": "2026-10-23 22:45:54",
   "yields": [
     {
       "label": "3년",
