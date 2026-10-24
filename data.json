@@ -132,6 +132,16 @@
         "first_seen": 1792791030.388846
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1hZkRTZkx6S0xKNEF4Zkx4LUozOHc0bWljWVZWVUhLRHZmU0l1ZFkzTGhRVzZfNDdUYUhtNjhMZUduMk9YQUdPTUliVnMtQUQ0OTRwc2hZTkN0OUlvU0tOeNIBYEFVX3lxTE1hZkRTZkx6S0xKNEF4Zkx4LUozOHc0bWljWVZWVUhLRHZmU0l1ZFkzTGhRVzZfNDdUYUhtNjhMZUduMk9YQUdPTUliVnMtQUQ0OTRwc2hZTkN0OUlvU0tOeA?oc=5",
+        "headline": "뉴욕증시, 중동확전 우려·유가 급등에 하락…다우 1.2%↓(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/24 05:55",
+        "published_ts": 1792788952.0,
+        "tag": null,
+        "first_seen": 1792835415.4059794
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcjU1MUFFNUlwMVlBRTlCS0lEb2k5TW9KZXdYenhKNjJydWl6QXp5SENnMlpvNU43ZHRjUmc5RTRDcWdsUkFHVk1XaUV2M2lmNnpRelI2UWljNHRTWTJhdXkxZ05QWkswcE41cjRna00yNlc5YnlKVGR4c1pQUEhsZm5fak4xa2RpSk52bUZrcjBVNHJpcl9hR2dRVTBTeUXSAZ8BQVVfeXFMTXI1NTFBRTVJcDFZQUU5QktJRG9pOU1vSmV3WHp4SjYycnVpekF6eUhDZzJabzVON2R0Y1JnOUU0Q3FnbFJBR1ZNV2lFdjNpZjZ6UXpSNlFpYzR0U1kyYXV5MWdOUFpLMHBONXI0Z2tNMjZXOWJ5SlRkeHNaUFBIbGZuX2pOMWtkaUpOdm1Ga3IwVTRyaXJfYUdnUVUwU3lF?oc=5",
         "headline": "애그니코 이글 마인즈(NYSE:AEM)는 신용등급 하향 조정 이후 저평가된 상태인가?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792739119.0,
         "tag": null,
         "first_seen": 1792760439.8662374
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9WcWx0NkNlak1OZlhIY2hoR21ZQ2JBdzNkeXRRbXRjYmRWZG9GOEJsbWFhcy1kanRzMXRJcnN3VGdDRlNFYmRyRzdqR0kzSS1EMHfSAVNBVV95cUxPa3IzYUFpeUZjc29fU2E5U0h5MzJKYkUtdkhHaEZscWMtUU1XUXhobjktYnZzU1U1c2wzQmJjZXBjQ2JiX3JkV010b3kxQ2ZkYzNFOA?oc=5",
-        "headline": "SKIET 품는 SK이노베이션, 1조 자금 조달 추진[시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "10/23 15:32",
-        "published_ts": 1792737141.0,
-        "tag": null,
-        "first_seen": 1792795525.0634012
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 18:45:46",
+  "updated_at": "2026-10-24 18:50:39",
   "yields": [
     {
       "label": "3년",
