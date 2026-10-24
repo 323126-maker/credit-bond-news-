@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0ydndDZ2ZFZVB4b05YMXk5UkY5ODJnUi1XT2wyRmdXM1NUc0tZbG9nbmV1V0JIM1dqeHo4SXVjdzBpUldyVDVfMExONU5ubm9TSUx2RDRtTENwQ0ZsYzQ5X1YxX2FKUHQ1UXfSAW5BVV95cUxOVU1Va1VoVnAtc2Jnd2Ewc2RHM200VlhjdlFPN3A5ZFNfR1ljamtaUS1NYVQxb295RFk1QmZKaWRpYUJZOTRKSTk3MVh1VGl3TU1iTkQ4TTRuaDBobHV5YThia05aUkNEUUZJSUJVdw?oc=5",
+        "headline": "때아닌 秋風에 민심도 우수수… 친명도 친청도 곤혹스럽다",
+        "summary": "",
+        "source": "주간조선",
+        "published": "10/24 09:00",
+        "published_ts": 1792800000.0,
+        "tag": null,
+        "first_seen": 1792811722.7540035
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9XTjhXV00xQkNFQlBHZWdVN21QVFVmRW85YzNLZDEzWUpUdHZseFRRdlpxd3lKMFRGMVBUUVV0VUNCcHJTbi1pT082M2xwZDJEYk5uQ0RycEo3RDcyZkt4S1h6cw?oc=5",
         "headline": "미래대응기금, 확장재정 논란 증폭…“성장 위한 것 맞나” [2026 국감]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792475973.0,
         "tag": null,
         "first_seen": 1792476922.8392503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kaDZwaGgtUjRnNEVRVlg5Rm5yc0VnTGpyZjM1ZXlQc2Z2NWJnelBaZEkzS3ZLNS1HQjNOaENwcEpadzgxbXRTY20zbDZxcDTSAWxBVV95cUxOcUNkWk1Qc21LSFQ5c1lySlEtR1RBSDMxODh5YWZJR3hxLWFBQzNYQ2dkUFg4eXZ2SDNsY1RadW9xMkd6RFJSOVkzWThGZEZ6ajVwM2QxMjNBQ0FhNEE5V0JwREg3MzRxU2R6RW8?oc=5",
-        "headline": "민주당, ‘소방 재정 발언’ 논란에 내부 기강 다잡기…한병도 “초심으로 돌아가야”:경찰연합신문",
-        "summary": "",
-        "source": "경찰연합신문",
-        "published": "10/20 14:35",
-        "published_ts": 1792474556.0,
-        "tag": null,
-        "first_seen": 1792485031.5643284
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 12:08:45",
+  "updated_at": "2026-10-24 12:15:44",
   "yields": [
     {
       "label": "3년",
