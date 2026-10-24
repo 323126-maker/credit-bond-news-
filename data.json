@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBZYzhlaE1KVE5EMktnT2FPRGpTME1aMkZvelozazlOcGtFNW1tWjRwUjdPdW1LVlpJOW8tcXQ4Tkk0OURYMUVGdDAyNG11OTBqVllqOFNEOVBjQQ?oc=5",
+        "headline": "뉴욕증시 ‘운명의 한 주’…금리·물가·AI 실적에 반등 달렸다",
+        "summary": "",
+        "source": "경북매일",
+        "published": "10/25 07:54",
+        "published_ts": 1792882440.0,
+        "tag": "JGB",
+        "first_seen": 1792882837.0408614
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9naXVsTDJ5VENyS2liT29CckVhQndvZDVkd2xMMHpZZGFPTFRfbGtrQnlNVWNKOUV1X0tUcVBueXI4SXRTanBpU2hVS0t6cmtYZHRlenpTZ19NaWZHaml6TWdiaE5ESm8?oc=5",
+        "headline": "뉴욕증시, FOMC·물가지표·빅테크 실적에 촉각...‘슈퍼 위크’ 변동성 주목",
+        "summary": "",
+        "source": "M이코노미뉴스",
+        "published": "10/25 07:53",
+        "published_ts": 1792882392.0,
+        "tag": "JGB",
+        "first_seen": 1792882837.0408614
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maHlzMkdxNTM2NkduMGtfX2JnUElsOVRjbDZEODlORk9QdGxxd3dkc2UteF9qWjVpeXVvMFhHd1RNems0czZldC1JOWk0N0FyMHhzZ3JsQXlrTjZOZXZ5MzFZLW13U0VTZFMwSTF0ZW8?oc=5",
         "headline": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792798767.0,
         "tag": "JGB",
         "first_seen": 1792820723.7478192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1Gc0R4YkFtTkotVlFuR0oxUWhrRlp4TzhXNjhCdTljcVlSVFNiRUVfMFNlNnF6TUdrZ2hzS1ZLRTdhaXU0UElFTmh4cXpRaFhiaUdMSWhtU3ZtMHdoak5TWDJGRzBiSXFPajhldmhmMNIBc0FVX3lxTE9mNmYya3dSVGk5dmQyT3g4dmNTZ3Y4djdPcUVrcVZWR3NsYXBzTGFhb2p2WW93MTZlRG5SS1pIOGhQd2JMaG5HX1JwZW5yN3ZrWnF3MFNJWlk2bWx6UEVfN2FJLVlMQUVHdVAzWTdVSG9wc1k?oc=5",
-        "headline": "韓 이어 美·歐·日도 '동결' 유력…연말 '인상' 불씨 여전",
-        "summary": "",
-        "source": "뉴스웍스",
-        "published": "10/24 08:00",
-        "published_ts": 1792796400.0,
-        "tag": "JGB",
-        "first_seen": 1792797323.742073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNM1dFNUpuUUhyOEQyQkNVX1hCLThjLV9OWlpxdnVLczY4RXZ5NFllMC1TZEpSUlN2cjlVX1VWbXRPTER0WGk1OW9LOG5mOGZkOXB6R0otejl2WkpHR3RYenFUeWo0MUdHV2dfbUxTT2NnOFpQMFY1ckVfTHI5S3FOV2Q4Vmx1SlNiYUJPWTIxOXFzQ0RGY0N1ekE1M3dCQjVsOUtoWHhiTDlMZ3A5dm4xVUJ4VUZpQUZWSmRjS2FvQk5hUGIw?oc=5",
-        "headline": "Anthony Scaramucci Discusses the 2028 Presidential Election",
-        "summary": "",
-        "source": "Barron's",
-        "published": "10/24 07:32",
-        "published_ts": 1792794760.0,
-        "tag": "Strategist",
-        "first_seen": 1792825238.7997215
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 07:46:01",
+  "updated_at": "2026-10-25 08:01:00",
   "yields": [
     {
       "label": "3년",
