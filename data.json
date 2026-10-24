@@ -32,6 +32,16 @@
         "first_seen": 1792801831.0140014
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVlNMMGZtQzNrX1pPb1hEaEE1QXQ0UDZiUXlfYmtSc3ozcG5WUU1yRzhMQVY2ZHFBQzJ0R3IxR0p6cHlaV2VHZnpEa0c4b3Q1TEE4cjZUXy16T1psOFB3bzZnVFEyMG5xOW5XaDltZUJHdWhlUmVtWG1oMURUVXQwODBXM0NDMTRX?oc=5",
+        "headline": "거리로 쏟아져 나온 파리 시민들…무디스, 佛 등급 지켰지만 채권 시장은 24년 만에 5% 뚫렸다",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "10/24 08:11",
+        "published_ts": 1792797069.0,
+        "tag": null,
+        "first_seen": 1792818923.8400934
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SdmR1NjJJX0xxMkZ3ckVMX1EtWGxiR3puVC1CdG1DNUpWMWsxQmZ5RkItVWQ1cFFJTGNJVE1YYUx6cnJyQ2JnNzMyX3N0d2pkOWxWREFicFRlUQ?oc=5",
         "headline": "채권의 귀환...월가 기관들의 투자 전략은[박신영의 월가 아나토미]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792720920.0,
         "tag": null,
         "first_seen": 1792757724.6248598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE4tQUZYNW5xVmNKRm1oSVBXTV9YMVQ2aFVqM2hNTHQ0eTM3QXlwUVF6enlfRVY0R0duemFyQzVQTHF6SFMzMkQ1Q3k5RjNuRVhpWldLMy11X05CWEZlU3NFaEZndnlpLVJCSGc?oc=5",
-        "headline": "중국, 나트륨이온 ESS 탄소크레딧 추진…그린메탄올 등 11종 방법론 공개",
-        "summary": "",
-        "source": "임팩트온",
-        "published": "10/23 11:00",
-        "published_ts": 1792720825.0,
-        "tag": null,
-        "first_seen": 1792721724.4629796
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsY3RRdjhqT0RMT2dMSXd4UFpBRk9xbF93UTYxU3pzNEhMek1FN0w1cTZHWERfYS1OeDBZN2lsQng1R0hjYzNJbXM3OFNGVTJRRUJTWDhoZkMzMnQ4YlFJel82UG90MkdVb3JFVHozTjdOamFyT3c?oc=5",
+        "headline": "SoftBank 5-Year CDS Surges to 432 Basis Points, a Four-Year High, as Masayoshi Son's AI Bet Draws Bond Market Warning",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/24 13:25",
+        "published_ts": 1792815900.0,
+        "tag": "Global",
+        "first_seen": 1792818923.8400934
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGJRQS1aYzlUaURMLTFWZGlfR0U1MllDV243c1g2TWtPZW1xM2FnOEVpcXFXZjE0TzlsNGJjcUtvbDdfbHZiTjRqWjdXbWxoWHZ2bHIyR1VCSTQyZ2MxbnZ3MWN2OS1keTczaE00ZTlzMEtXSXNiV2RFV05oRGIzWVFrdkJsdU5CM0s2NkY2aU03RW9JZ3I1WnlBV29UbXRyOUtuZUdkWQ?oc=5",
         "headline": "US Treasury yields face a foreign demand test as China and Japan cut exposure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792754848.0,
         "tag": "Global",
         "first_seen": 1792758631.037149
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdGpvanZOMUFSSTdLdjVSQVNvMGl4NTAtemdtbEF1SWJ3WkFmUzZpYnhndjFnTW9FdnZNSzNRSkpfT1Z1cTNmSDlUbHZzRldWaFZuQ1Y1Q0pmSE9GZDNfWC1vbVdRRFVZdERZbXRxR3p3UnVRWmR4UTYteGNnMndsWlkzNDg2N1NNOWloSTZOWXQ3QQ?oc=5",
-        "headline": "Local currency EM debt: the case for active management",
-        "summary": "",
-        "source": "RankiaPro",
-        "published": "10/23 19:49",
-        "published_ts": 1792752565.0,
-        "tag": "Global",
-        "first_seen": 1792757724.6248598
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 14:01:01",
+  "updated_at": "2026-10-24 14:15:51",
   "yields": [
     {
       "label": "3년",
