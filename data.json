@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE15QkJ3UXVqT25QTmU4ZGp2LTdlLXQxZUhzSGNnZTBlWGNNWTlraUtycE1BMVpBQ1ItWWxwZG1aOE5CWWNIR3pUV0VWamhZelB5YlFWb3VDZFJlOWRpZ0hDM2hYamg?oc=5",
+        "headline": "일본은행, AI 투자 거품·금융시장 충격 경고…“기대 꺾이면 금융권으로 위험 전이”",
+        "summary": "",
+        "source": "지이코노미",
+        "published": "10/25 07:03",
+        "published_ts": 1792879433.0,
+        "tag": null,
+        "first_seen": 1792880123.9226916
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wX1ZVbTl2T2dRdkd4ZlhHcTlwWkFtVVZLbjJCenQzWVVnVmpxOElvR0s0YXJkdXNNS0ZTVnNfbThJclZIWnNVUFlwaDFJSEZ6QXhqYVpEMA?oc=5",
         "headline": "무디스, 프랑스 신용등급 유지…시위에 몰린 마크롱 ‘안도의 한숨’",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792742102.0,
         "tag": null,
         "first_seen": 1792742437.600543
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9waFVNbUFPQXl0SUprdzh3Tm1hdE1kUjVNaFNGbElaemNiLWZvakxtVlotREdzRHdZWG9abmhKNU5UTmdNTmlkbFVzVmpZeTEtblE?oc=5",
-        "headline": "국고채 금리 일제히 하락…美 국채 강세 영향(종합)",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/23 16:50",
-        "published_ts": 1792741810.0,
-        "tag": null,
-        "first_seen": 1792745122.6225333
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maHlzMkdxNTM2NkduMGtfX2JnUElsOVRjbDZEODlORk9QdGxxd3dkc2UteF9qWjVpeXVvMFhHd1RNems0czZldC1JOWk0N0FyMHhzZ3JsQXlrTjZOZXZ5MzFZLW13U0VTZFMwSTF0ZW8?oc=5",
+        "headline": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/25 07:00",
+        "published_ts": 1792879210.0,
+        "tag": "JGB",
+        "first_seen": 1792880123.9226916
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10dWV6M0tOQnR3U1lONlc0ZUE0VWhiSV9kNTJOa1I3cEFrMU1vcDdUemtSZVRjNU9Lb2tEMUNrZlVnZUF4WXR2NjJPRTF0dENiejRETXVVOUNwZmZvTzlUdg?oc=5",
         "headline": "[10월4주 글로벌 증시 캘린더] FOMC·ECB·BOJ에 빅테크 실적까지…‘슈퍼위크’ 열린다",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/24 07:32",
         "published_ts": 1792794760.0,
         "tag": "Strategist",
-        "first_seen": 1792825238.7997215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYTJZN0VPbHljTkNfTlllNEtQTG8wZTZOeEV6UWdubVNQelJ3THRMcEpEZWtTSTVzVjhCUGtBZm9PS1F5SHRya1JlWHZvYllsTERKVnVoSTZ2c1FDVndzN3pVaHM5VmNicHBPSXpfZlZYYThUM0x0cGtQX2F6YTVCd3NnN0ZzWWNaZzlhaDliNV8yS000M1Nwczd1QWpMWE5IcUExbVNMb1JKNk1la2Z0OXRQUQ?oc=5",
-        "headline": "Cattle See Modest Buying Ahead of Bull Friendly Cattle on Feed Report",
-        "summary": "",
-        "source": "Barchart.com",
-        "published": "10/24 07:07",
-        "published_ts": 1792793260.0,
-        "tag": "Global",
         "first_seen": 1792825238.7997215
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 07:01:00",
+  "updated_at": "2026-10-25 07:15:45",
   "yields": [
     {
       "label": "3년",
