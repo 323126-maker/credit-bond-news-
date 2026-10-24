@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaGdkV3gxaDZHd2ZxRDVhaFlBdWtLNFJ3Y0c5MXZiWktESnRPNmJlTWczMVdRZ29JaUVHa0R2Mmdabm5NdXhyLWlYam5xaU54Ty1UdHphaVotVkx5RGo1a1hYUkpsS1IxSlhsd3ZJcGxkWEh0Q016YkJHS1J1Sk4xS1pub0tnTjlCbDdrWU5sTi14dXNrZDVOLTdkUnFxQkdvQ2Y5TFROY3JFcGVQbWtjYTlnUQ?oc=5",
+        "headline": "‘Total Meltdown’ in Riskiest Debt Unnerves Market: Credit Weekly",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/25 00:21",
+        "published_ts": 1792855295.0,
+        "tag": "Global",
+        "first_seen": 1792861238.3076081
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9md0ZCNzM4RVVHVHJYZlFSMHVIWnhIS3ZTajl2YmFBSFI0QjdqamptcmJqTml5X0JxVG90Y1VmZC0yb2UtTmVxWlV1QkJZVDBmSk9KQVVnYko4d0Vtemp6dmVLQUM2c1hyendkVkt3?oc=5",
+        "headline": "[김남현의 채권썰] 주가에서 유가·FOMC로 관심 한클릭 이동",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/24 23:18",
+        "published_ts": 1792851480.0,
+        "tag": "JGB",
+        "first_seen": 1792861238.3076081
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSThTTUxPRzFxTk54d2t3Nklxc3hsVGFTZkdZQjFXN1NmbmxPRXpOZ0FQeUhvTmtucmN3dDh3ZktKMUU3bTBLLXBfa2Nhd1NzTWdweXRCUDItT1pjbV9pWl9tMDk2SjVGM05SeEIzUGxDcHV2ZUZLR1ZYSWpSaWVXWnlhdHQ3ZTZOUlZKQzBRLVlwYzBrbmFGUVp4NFNTUHFQNlRyVmZaOXh2UFVkZmNwRWZvbjBHcDA?oc=5",
         "headline": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792786528.0,
         "tag": "Fed",
         "first_seen": 1792828837.5943797
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNVc0QzVpc1pOSEY5V3FySHMxbGlEa1JVMnFEazk2UDQ4MTlGV0FLcXJkeWxXdWtXV0U3N2k0YWl4YkstLTBNWkhUYTBtdEVxN0ZFMllsNXhTWFRncEhFZXBkQzRxWDlLbnY4TmZVTXRHZ3d3MnZpVG9DNUNKdHFTOFRTbnJHT3FXa0pFdThOX1FhS0pVWTFhSVJ6M3VGLXBrbFVYZkVoZl9UMVhwaFZv?oc=5",
-        "headline": "Trump Admin Can Detain Illegal Immigrants Without Bond Hearings: Appeals Court",
-        "summary": "",
-        "source": "NTD News",
-        "published": "10/24 04:59",
-        "published_ts": 1792785583.0,
-        "tag": "Strategist",
-        "first_seen": 1792791927.1520512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiUlVZRmEyWHF1andZbE5mUUV6TmFIX1VZZkVQd0RkbDJDRTlqMGVGRzg5ZV90QjV4dWU2Z012eWhpYkxyYkE3UDdJSFZWcXhnSjMyek5ycVViRVNQZmNtMGh5MF9VQmpTWGhXd1RCUUNGejZ3M0E?oc=5",
-        "headline": "Federal Reserve Votes Unanimously to Raise Rates 25 Basis Points to 3.75%-4.00%; Warsh Defies White House Pressure to Launch Tightening Cycle",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/24 04:35",
-        "published_ts": 1792784100.0,
-        "tag": "Fed",
-        "first_seen": 1792806325.2242184
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 01:45:49",
+  "updated_at": "2026-10-25 02:01:03",
   "yields": [
     {
       "label": "3년",
