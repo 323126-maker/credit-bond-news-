@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5wX1ZVbTl2T2dRdkd4ZlhHcTlwWkFtVVZLbjJCenQzWVVnVmpxOElvR0s0YXJkdXNNS0ZTVnNfbThJclZIWnNVUFlwaDFJSEZ6QXhqYVpEMA?oc=5",
+        "headline": "무디스, 프랑스 신용등급 유지…시위에 몰린 마크롱 ‘안도의 한숨’",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "10/24 21:59",
+        "published_ts": 1792846798.0,
+        "tag": null,
+        "first_seen": 1792859431.8702838
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOay1Ja3VtWUJjbGFKV0pWbFdmZUIwLXhfNmFoR1RaZE51MjZ0RTBWb0l3RXl1bWE4UTNXSWZRN1hDaWdUVi1SODh1UExwSHV5d21hWTBsbDEyd0nSAWBBVV95cUxQbk4xRld2Uk03dW9qUHQxdS1nc0RyaUFySnFYTkJBeThLM1NUQVVRdl9OT2s1d0tONHdubmhTNC0wTWdLQnRXRU8tSWJ6MEZYamUwSDlfeGZHVVk1NWRZVko?oc=5",
         "headline": "무디스, 시장 예상 깨고 프랑스 신용등급 Aa3 유지",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792741500.0,
         "tag": null,
         "first_seen": 1792744235.7228768
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jbTUydjBDT1BORUU5VkNCYzhmUEF5bUdVcnhtdlNVYk1qRVA2VEhqY0lLRm1GRVZfT3ZZa1dYTVFPV3NsNWgxZXNjU1ZZZHpFdktXSFZISjVNbkxXdFBwUTdNRzl5VDRaZ3dEOE1ocVE?oc=5",
-        "headline": "엘-에리언 \"美 국채, 오랜만에 전형적 안전자산 역할\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/23 16:09",
-        "published_ts": 1792739391.0,
-        "tag": null,
-        "first_seen": 1792756839.6936483
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 01:15:47",
+  "updated_at": "2026-10-25 01:30:56",
   "yields": [
     {
       "label": "3년",
