@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTGJRQS1aYzlUaURMLTFWZGlfR0U1MllDV243c1g2TWtPZW1xM2FnOEVpcXFXZjE0TzlsNGJjcUtvbDdfbHZiTjRqWjdXbWxoWHZ2bHIyR1VCSTQyZ2MxbnZ3MWN2OS1keTczaE00ZTlzMEtXSXNiV2RFV05oRGIzWVFrdkJsdU5CM0s2NkY2aU03RW9JZ3I1WnlBV29UbXRyOUtuZUdkWQ?oc=5",
+        "headline": "US Treasury yields face a foreign demand test as China and Japan cut exposure",
+        "summary": "",
+        "source": "Equiti Global",
+        "published": "10/24 10:01",
+        "published_ts": 1792803696.0,
+        "tag": "JGB",
+        "first_seen": 1792808123.0196352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZ054bGoxSEtmdlpXcG5aOFF6Zl92R1FxOC01V2psV2ZqUzl0aUlrOHM1OTlfaFpNY2JncXU4LTJJLWlPamx4M196cTlPRTdUZi1EckMyS25SQ1g3WVAxcGNPYnltcEtadkxPSGRiSUNiVlQ5RnREZl9ubXJiV3FTT3M1c08wSElIMFU1YVhpamfSAZgBQVVfeXFMTXE0clF4cFRMSmtja2s0Q0xlLUJBbVk2dFN2Mkl1UG1KQk10Q3NMVHJZYzFxTnd5SmpiRjRmaVY1LXpSaFBQeUZKalhFLWU2bXhtaHd6cldyUlZRMWk2Qjg1bXY2Ym5YVk41NjhlbkszbWlJYXNWemJwdG9iU2QtQjRiM0diaW9NVzh6dnRnNHBPc3N5Rm9CRGY?oc=5",
         "headline": "Global Credit Spreads Hit 17-Month High Amid AI Investment Worries",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792748400.0,
         "tag": "JGB",
         "first_seen": 1792748722.9232733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWDhMcEtDZmhoQnJMSVBVUzFaWVBqeUczRlRZekhZc1RpYWU0ajVLWlNscVRjQ2UzSS1ZVFRsd3BsazVuR2FtVG5PQVQwRW8zY1FhVzlJeE9SVWEtS1VnZzZROWR0dXdNTVQ1X2pMTDZkdjBleGE0akJRSVpKTXRaWTdfTUJhaktpOFRlaHY5UHdtLUZMOE5HMXR2YkpGODBDU1RoaHFlcGFzeEpJMnc?oc=5",
-        "headline": "US Federal Reserve to Raise Rates Twice More in 2026, Says Bank of America",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "10/23 18:17",
-        "published_ts": 1792747031.0,
-        "tag": "Fed",
-        "first_seen": 1792782927.9781783
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 11:01:01",
+  "updated_at": "2026-10-24 11:15:44",
   "yields": [
     {
       "label": "3년",
