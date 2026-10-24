@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9md0ZCNzM4RVVHVHJYZlFSMHVIWnhIS3ZTajl2YmFBSFI0QjdqamptcmJqTml5X0JxVG90Y1VmZC0yb2UtTmVxWlV1QkJZVDBmSk9KQVVnYko4d0Vtemp6dmVLQUM2c1hyendkVkt3?oc=5",
+        "headline": "[김남현의 채권썰] 주가에서 유가·FOMC로 관심 한클릭 이동",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/24 23:18",
+        "published_ts": 1792851480.0,
+        "tag": null,
+        "first_seen": 1792852230.4056919
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOLVV2bmE1OHhtelJtLW9VZTVqSmlETnU5RGtqaG1jV1I0MWk5TEw0M2p0XzNDRmJsd29LTnZUZnZSTFBjQnZEZF8teDMxd1p1QWlPWGNIdkkzRTlqemRBYld2RW8zOXBPRWFuZnhXZU1XaUVvanJCb1M0ZVk0c2FqMA?oc=5",
         "headline": "신현송 \"국채, 일정 물량 있어야 시장 작동…적정규모는 수용능력 따져야\"",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "서울파이낸스",
         "published": "10/20 11:31",
         "published_ts": 1792463493.0,
-        "tag": null,
-        "first_seen": 1792464322.7216518
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyYmFRVTV3MGxUdDdzVDdFTlRvMkxWZURXanJ1dXRvWWVUbm5ybElLVGhVLS1JaV9UUXVFeTNFQnhXMGVJU0JYM2s4Yy15NzQtX2lUdXViRkxVUkppMklV?oc=5",
-        "headline": "채권전문가 93% \"한은, 10월 금리 동결\"…인상론 더 줄었다",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "10/20 11:29",
-        "published_ts": 1792463362.0,
         "tag": null,
         "first_seen": 1792464322.7216518
       }
@@ -1680,6 +1680,16 @@
         "first_seen": 1792845030.150179
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmSzNva2ZiOFU1X0ZXR3o3Q05HU0lwak5xOWtOYk1OV3p2RWNHbEtCY0xRa0J0TWhIR3NMTnBZNnV0eDdtTGFOTG9ucjV1V3YxN21La0tRUHhuZXlfb1EyUk80LVpLZkZHZEU1cE9FZVI5YW52ZUE?oc=5",
+        "headline": "SpaceX's $40 Billion Debt Raise to Buy Nvidia Chips Hits Snag, Sounding AI Bond-Market Warning",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/24 17:35",
+        "published_ts": 1792830900.0,
+        "tag": "Global",
+        "first_seen": 1792852230.4056919
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPOXh5ajd6Y2hCYnRWYmpLOXBpdlU1Wmt2Q1VuSGpSUmNMQmF5ZU9EQUFBUGVCNGMtOWpwLXl0c212aUw4a2RqV1lZMGtwWlNfU2dLekN1MXNIcUVQWVhGc1BuRS1rWWNsQmZ1QjZEU2lEdGluVDhyWFB6RXJ1UUY1Z1ZueXpoWE9WV2V5eEthN0p5cGFwdm4xNF9UVVI2b0JNbnZhTUJrMUNIZFJBYmtrYUlEZUh1YXVlbEJnTVk3ZXdNMG94MTV1ckh3?oc=5",
         "headline": "President Donald Trump Just Threw Fed Chair Kevin Warsh Under the Bus, and Things Could Get Ugly for Wall Street",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792784100.0,
         "tag": "Fed",
         "first_seen": 1792806325.2242184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQR1g1MjJqM1A4WVk0SHlYMjhTTjRnZk1rdWZSeVh6QnBmbkhqeEFLMS1uQXN3OVB0VEhCMElnak05UFRLRkV2VVlmVno1YzAyOXFXbS1BanllLVRVUkI2eXI1LWRvcDd1M05nWGtLcmtwTHpjQWw0SkNDdkxhWkxiODNWek9CWmV4Mm81dTRHOTFfczJVYzRZ?oc=5",
-        "headline": "What To Expect From Wednesday’s Federal Reserve Meeting",
-        "summary": "",
-        "source": "Investopedia",
-        "published": "10/24 04:18",
-        "published_ts": 1792783121.0,
-        "tag": "Fed",
-        "first_seen": 1792785649.27596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-24 23:15:47",
+  "updated_at": "2026-10-24 23:30:56",
   "yields": [
     {
       "label": "3년",
