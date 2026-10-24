@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5ZmpxTk5uRy1ZRHFqa3Z2dTJ3ZnB4ajMxN3lBZ2pVek4zWE1oQUxFNVBFOUxtc29zVDFvTFY5YUFiSXAzUGxSQnF3X1YzeW9ydmVhWk5qVzhfbm5ZMFNkb9IBeEFVX3lxTE5DQklVOEp0bjRUN2NkQmc3ckpmMnlVRF9UWVpqUXRlQy14cnA1ZE9sQ0lrSWJ3b1hheEVGVFNEeFhSb0daTjhnLWkxUU5JM3lnVXNJd0FVR195THdBdjI5S0VqYmJma1RUXy00VmNIVVJ0WUJKQWRwVQ?oc=5",
+        "headline": "소방 재정 책임은?…李 \"지방사무\" 속 \"79% 국가사무\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/25 06:02",
+        "published_ts": 1792875720.0,
+        "tag": null,
+        "first_seen": 1792876527.414999
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaNy1aMDZrTHF0aXA5dHNlYWtKaUw4SFhKczZRRFRGcm8yR2h3Yy1BYmwyQzFDVXlOSExxT0ptWm9mblRKNEVqajJVbklyOVJWZUZSdTFyay00Ulp4WjZVenpqcUhna3hEQy1YTTE3NGtDOHE5R2lnNGNB?oc=5",
         "headline": "‘秋風’에 민심 우수수 떨어져도… 추미애 징계 못하는 與의 딜레마",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792544919.0,
         "tag": null,
         "first_seen": 1792545322.000161
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jYmJBOE01M2tmNHhMOHJBQ2piOWJ5MFh4WlZSay1FVU9LbVM5b1dXdkFLekVpMDRZMV94NjJ2UFF6d1FPOUdIX0E1T3BsdEZQZVFfeFlxbktzNVpGSmc?oc=5",
-        "headline": "추미애 사과했지만...부승찬 \"재정 쭉쭉\" 또 논란 [정치ON]",
-        "summary": "",
-        "source": "YTN",
-        "published": "10/20 16:38",
-        "published_ts": 1792481880.0,
-        "tag": null,
-        "first_seen": 1792724442.999235
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 06:01:03",
+  "updated_at": "2026-10-25 06:15:53",
   "yields": [
     {
       "label": "3년",
