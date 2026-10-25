@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRXlocGk3eTdQbVROUzN4dDlXdTBxTUZjUjBUVTN4VXJlb3ZOU2JZSk5OSGpkdXJDTTNTaEtER2NOR0F2ZVB4cW51cDJZMFRmMmhtUEU3MDNWMlVIMHZtRWlfVkN6TlRBUlpWMjVubllrcjhtTzl4UEwxZjhNX1FtWFpiVEJLSXY4b2NSRW02ODdPTG9HWU5xaF9nVnZaN0RrY1ZveHpMZE1rSkJTczNsd3c5ZUY0aEJlTzRzcTZ3Q2F5LXJsVXdLX1hxWQ?oc=5",
+        "headline": "CoreWeave Stock at Risk of Falling Below $50 as AI Bubble Index Jumps to 74",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "10/26 05:47",
+        "published_ts": 1792961241.0,
+        "tag": "Strategist",
+        "first_seen": 1792962041.0459304
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQazMybGViQVVvMFo1bnlidXJ1YnJHaGJValhXVFc0dVM5eUZXdG5lQ2g3UFRmaWhDOHpKdkdnUG9tNnlISV9YbjZJSW9JV3VPeEQwMXI2THlYVzlnOV9SYUpieF9nZnhEQ0R5aVhzMzJYY1Bwby1IUUNkclpodlN2U0p4YUFUNFNC?oc=5",
         "headline": "ECB, 프랑스 국채시장 개입할까…추가 금리 인상에도 제동",
         "summary": "",
@@ -1788,6 +1798,16 @@
         "published_ts": 1792919201.0,
         "tag": "Strategist",
         "first_seen": 1792919722.445641
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9tYThYZjdjQUs0X2xkMG1WLWJ2bWFGTVVqdllmSkxycXRaalg0dlUzWXA0RVZZRmlYdmU3bVdMWG5XaGdEeG40MHhBQUlDNzZDeVdpQg?oc=5",
+        "headline": "This Week’s Key Economic and Crypto Events: Fed Rate Decision Ahead",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "10/25 17:50",
+        "published_ts": 1792918231.0,
+        "tag": "Fed",
+        "first_seen": 1792962041.0459304
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBHb2FxVGd2eWpwMlpYeXJMcjFaQ1JhZHFiemxkYXJpT2VkYVJaQ3RZLVFXdGh5YWIydWJQa1V5aEdVRTlZNUtCT3EydjVRYUhidDZzeEg4aEU?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792879210.0,
         "tag": "JGB",
         "first_seen": 1792880123.9226916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10dWV6M0tOQnR3U1lONlc0ZUE0VWhiSV9kNTJOa1I3cEFrMU1vcDdUemtSZVRjNU9Lb2tEMUNrZlVnZUF4WXR2NjJPRTF0dENiejRETXVVOUNwZmZvTzlUdg?oc=5",
-        "headline": "[10월4주 글로벌 증시 캘린더] FOMC·ECB·BOJ에 빅테크 실적까지…‘슈퍼위크’ 열린다",
-        "summary": "",
-        "source": "https://www.theconnectmoney.com/",
-        "published": "10/25 06:47",
-        "published_ts": 1792878420.0,
-        "tag": "JGB",
-        "first_seen": 1792879238.2355185
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQSzc0SUdiYWFyNUJRMmJ0a3Nidk84ODdVR1B2WXNfVUtUUVZVTzdLSnpyWENDN2M0NzFvc1VQSWdzRUllRjVST1JDbW9ZYTVuX0FBQURzTWJCZ25jTUxZbkF1OF8wOVk5d19uY0JhUUZ6WnpoRnZ3R3doTWRhOExtSEF1V2VLQ1o5REVHSWdUVXduWG5OS0NtVmhVTGNiZWQzQmVyYnNzdGVwMm52YXRnWWJtckQzZkpnaGlwazBtdllZNUR2TlZzSUwwRk5ZenNZaEVTSnRR?oc=5",
-        "headline": "Kevin Warsh’s Jackson Hole Keynote: Forward Guidance Has ‘Outstayed’ Its Welcome, Leads Markets ‘Astray’",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/25 05:59",
-        "published_ts": 1792875581.0,
-        "tag": "Fed",
-        "first_seen": 1792953034.2426455
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 05:45:46",
+  "updated_at": "2026-10-26 06:01:05",
   "yields": [
     {
       "label": "3년",
