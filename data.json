@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1pOE5naS00dERPOHFKcHlIblVZdl9MMVVZWFB0cGxJLTFaeDhnd2d0QzRQdkRlcXZvd25xRmpqSDY2Um1LcG5wazFFR0xTQ05YRG01ZXlCeXrSAVhBVV95cUxNaThOZ2ktNHRETzhxSnB5SG5VWXZfTDFVWVhQdHBsSS0xWng4Z3dndEM0UHZEZXF2b3ducUZqakg2NlJtS3BucGsxRUdMU0NOWERtNWV5Qnl6?oc=5",
+        "headline": "AI 투자불안, 회사채 덮쳤다...글로벌 신용스프레드 17개월만에 최고치",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "10/26 04:28",
+        "published_ts": 1792956480.0,
+        "tag": null,
+        "first_seen": 1792960234.5176008
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXBaOVdBTGhwZWg4TDYyTmJ1QjRoWDNEY05TcmdxcUFGMDlxUUNnZkhkSDFNRF9wdlBGdFVRellLTVlvVWIwS3pLM2toT2J2MG1BVmwwV0FDVW5JVFhGemRhVTJiTnFyZVZXemdaVjB3eVlfR01Qd1F3a0tpMTBaQg?oc=5",
         "headline": "AI 투자 불안, 회사채시장 덮쳤다…韓 공사채 해외 발행 줄연기",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792785303.0,
         "tag": null,
         "first_seen": 1792793723.916918
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9XMk5NY3c4Zi1ZLV9KN1FSXzJQdlptTWg4SXpaQzJ6aWpjczFjblFNU0VsYjg2bm9VTjR1NXRDUmtrU2d6Z05xQXFhcw?oc=5",
-        "headline": "위험회피 심리 확산…글로벌 회사채 스프레드 17개월 만에 최고 : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "10/24 03:40",
-        "published_ts": 1792780800.0,
-        "tag": null,
-        "first_seen": 1792782041.2750118
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 05:15:48",
+  "updated_at": "2026-10-26 05:30:59",
   "yields": [
     {
       "label": "3년",
