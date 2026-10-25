@@ -242,6 +242,16 @@
         "first_seen": 1792894525.694928
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44ak5FRjJIUzZkaW1DM2dGQjJ1NUJZUTZhRUpJdE54UHdvYWNKNVFfUWhDZnI0MmwwM1JRSTRTb1JFb1FiSWhSZlAzaw?oc=5",
+        "headline": "국채선물 야간거래 혼조…10년물 8틱 오르고 3년물 내려 : 외환.금리.유가.선물.채권",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/24 11:38",
+        "published_ts": 1792809484.0,
+        "tag": null,
+        "first_seen": 1792950323.7487822
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFAzNzB5QWVvSW9reTRuTHhHZEtLVDJ4WDVIejYwdElhUUNhZl9yQlA5UkROcWpUZGJ5b0lseXVMYkEtRnpLSHltQkx5cGFPWTBKRFpDb0xISEdrVlhWdV9nVjdNNmw?oc=5",
         "headline": "AI 투자 거품 우려에 글로벌 회사채 신용스프레드 17개월 만에 최고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792780800.0,
         "tag": null,
         "first_seen": 1792782041.2750118
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbTFZMTBtMzJodzF2R0MzRlBWUi1tNUVrZEpHQ2JxOFZfSHVsMmY2T05BQi1ZYmVGd1dIWUJsTENKX2VBaTF1UEwxblhmcnJWR0VLdEI4dGJGSWt2VzVtWWtkZjVYTVdHQVpHd09IM3gzbEZ4Y0l3eThRXzdBOWNESA?oc=5",
-        "headline": "17개월 전엔 관세, 지금은 AI…글로벌 신용시장 다시 긴장",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/24 03:30",
-        "published_ts": 1792780233.0,
-        "tag": null,
-        "first_seen": 1792781123.9283595
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWG02eTZaS0FfODJIdm1uVnNlUEV4WE92cWxraDQzd2JBeEpyRjBHSVQ5d3lUNkRMdXFzSHJIaXgxTVNqT1pYcHE3bjNkMHZnN0pjNHFOVFc3a01OcTk0enBnMGlUTGZZQWF1Um9OcDBGWHNPSzZwbS1rOTM1U1ZEM2syX01UQ2xmblBwenVudk9KM3BZVF9kNmFWVnhpUTFMcTlWVi1MUUdySzd4UmlLMm9oOTA?oc=5",
+        "headline": "Big Tech Earnings, Fed Decision and Other Key Things to Watch this Week",
+        "summary": "",
+        "source": "Barchart.com",
+        "published": "10/26 02:00",
+        "published_ts": 1792947602.0,
+        "tag": "Global",
+        "first_seen": 1792950323.7487822
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVmUwX3I0dC1FcVZyUDZlMWFvdnEyS2NrdDhRTFh1amFmeWJMV3llNm1RRWp1YmlkeWZobUVVaWZpeGViTVk4dTJzakdxNFJ3RFhSQTZTVU5nd0lwUmR2R2pXTlRnSkVEQW5pVVZnREgyeEI0b3ZQejFETk1Pb2tyd0tBQkdMUXFQUGZZMWsyT090VDFBWHp5RnUxeTVSdXRqbDhRQldWcw?oc=5",
         "headline": "Hubbis Macro Corner: The Funding Test Behind AI Growth and Higher Bond Yields",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792869607.0,
         "tag": "Strategist",
         "first_seen": 1792873830.8878758
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5RMHUzb0huUDVoMHF6ZEpqRE1heTNnQWpxWXpjdmpCNzgyeUZVYWlqNldRazIyRldZQlV4M0RuS0VibUszaHV6SWl0NW1ldE1OaVQ1dGhia2xlSVRKRGc?oc=5",
-        "headline": "[주간 월가 레이더] AI 투자 8000억달러의 시험대⋯빅테크 실적·연준에 월가 운명 갈린다",
-        "summary": "",
-        "source": "포커스온경제",
-        "published": "10/25 04:09",
-        "published_ts": 1792868990.0,
-        "tag": "JGB",
-        "first_seen": 1792872923.6662111
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 02:30:57",
+  "updated_at": "2026-10-26 02:45:48",
   "yields": [
     {
       "label": "3년",
