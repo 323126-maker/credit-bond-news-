@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBCTjhVQnNXc1NlU3BuLTREbXZDS3lYNmVPcTFoNU1hU2xKZmU0UDUyMnkxbjJ3aTdTR0o1Sm9BSDRJRVFjUFg5VGdvZHRmNFlfX1Q4bV9STWJPTmRXbGFqN0Q2Mk1TMlNp?oc=5",
+        "headline": "산은·기은, 1조 규모 대출 출시 초읽기",
+        "summary": "",
+        "source": "https://www.2news.co.kr/",
+        "published": "10/25 12:08",
+        "published_ts": 1792897680.0,
+        "tag": null,
+        "first_seen": 1792927834.7084935
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZzF3WGdYdWtzX2VPN1BHd3lYN242REY4WHQwdW9ZcE9wWHlQRUNPUzVZWGF1dEtsd2sydTE2N1hheXFRdU5GbERtNVdhOWVfcGtqaVd6SjI5bU4yLUQtetIBYEFVX3lxTFBFZzF3WGdYdWtzX2VPN1BHd3lYN242REY4WHQwdW9ZcE9wWHlQRUNPUzVZWGF1dEtsd2sydTE2N1hheXFRdU5GbERtNVdhOWVfcGtqaVd6SjI5bU4yLUQteg?oc=5",
         "headline": "올해 부진 흐름 회사채 발행, 내년 회복 관건은?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792616400.0,
         "tag": null,
         "first_seen": 1792618627.047979
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5IMnJ4bDUwX21kd0hGYktqbzZVZVFtRWZhX2R1UkxJNFcybW9nLVJDcDlIYnY2dUM1RmhHZGh5YVd6T0RkclE4YllXUjg0Z1haNWdwYmF1OFJsd01QWFEyaGpqMHhFbjlLeURNRUp3TnJROEXSAXdBVV95cUxNcVVfYlAwMXU4YjBRREhlQUR3eVU1d2NOXzJhVUFDODhmdTNzVTk2M2x0aEstaEMwUEh2QXVYaXQ4ODh4ZDR3R2l4ZUVyZHJ2d2ZRM3V5eUxlZWFpcXRjczdaeU5rNGhiMEMxakRJM3UxWDlGSGtQWQ?oc=5",
-        "headline": "IBK투자증권 “다음 금리 인상은 내년 2월…외환시장이 변수”",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "10/21 16:18",
-        "published_ts": 1792567092.0,
-        "tag": null,
-        "first_seen": 1792567831.6023314
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 20:15:54",
+  "updated_at": "2026-10-25 20:31:03",
   "yields": [
     {
       "label": "3년",
