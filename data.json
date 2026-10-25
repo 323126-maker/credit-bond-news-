@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBFZzF3WGdYdWtzX2VPN1BHd3lYN242REY4WHQwdW9ZcE9wWHlQRUNPUzVZWGF1dEtsd2sydTE2N1hheXFRdU5GbERtNVdhOWVfcGtqaVd6SjI5bU4yLUQtetIBYEFVX3lxTFBFZzF3WGdYdWtzX2VPN1BHd3lYN242REY4WHQwdW9ZcE9wWHlQRUNPUzVZWGF1dEtsd2sydTE2N1hheXFRdU5GbERtNVdhOWVfcGtqaVd6SjI5bU4yLUQteg?oc=5",
+        "headline": "올해 부진 흐름 회사채 발행, 내년 회복 관건은?",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/25 12:01",
+        "published_ts": 1792897290.0,
+        "tag": null,
+        "first_seen": 1792925124.0209138
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE01N29RSndkY2lVcHZmaW5ROHBCWkVFdUsxSV9HYURjN2V1eDk3Yl9BTXNKTHRKT1dZQ3pBTkxZcmhRM1NDZTZpeGJ0MXRBQQ?oc=5",
         "headline": "산은-기은, 1조원 규모 무위험지표금리 대출 첫 출시…지표금리 개편 속도",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792567092.0,
         "tag": null,
         "first_seen": 1792567831.6023314
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mOEZTd3c2S1dLcWV2MFo4djBQSUxxSVFwc2FOX3lwSTBKNUpjbjQ2bE9oWDlUcWJneHYwZm1MYXVUZE4wX2xkQmJZQTRLVENraGxwcjVwWlnSAVhBVV95cUxNZjhGU3d3NktXS3FldjBaOHYwUElMcUlRcHNhTl95cEkwSjVKY240NmxPaFg5VHFiZ3h2MGZtTGF1VGROMF9sZEJiWUE0S1RDa2hscHI1cFpZ?oc=5",
-        "headline": "[김우철 칼럼] 빚 갚기는 바보짓인가",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/21 16:02",
-        "published_ts": 1792566154.0,
-        "tag": null,
-        "first_seen": 1792574124.179938
       }
     ],
     "politics": [
@@ -1216,6 +1216,16 @@
         "published_ts": 1792915200.0,
         "tag": null,
         "first_seen": 1792919722.445641
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Lcno1V2szS2s5Wmt5dGxyLWg5N0tldjNEME51SnJOMGY5Q3EzeHlENERKbDhFUVFTWEt4c2tSTjlPT1lZdVoxRmg5YkEtckJH?oc=5",
+        "headline": "이준석 “추미애, ‘이재명 방만 행적’ 말 못하니 애꿎은 소방만 도발”",
+        "summary": "",
+        "source": "문화일보",
+        "published": "10/25 16:58",
+        "published_ts": 1792915127.0,
+        "tag": null,
+        "first_seen": 1792925124.0209138
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RTBpMW5KWkFjcUZKS0U5RXRNTHNhUG9LUUc4cTdWMXpxLXQzZEJ0VVUxT25LTDJFZ3JuSE9qcWVBZ2tlRDR5Z2xDRXo0OEdzVnBNME1sNHBPUGV1c3Q1WtIBeEFVX3lxTFA2MXlPSUx2QXR4WnFDS1BJQi1yZ0FLbDh3Y0dWcmRfREh6V3FuYUNSVXBfb2V2VDN6U0h6eWVSWFZRbElkTnJzR0VUcUo1YS03YUxXbXZwcExpX1BfdGk4UlZZaWRvUW8xaktWTGxJTHFsNkg2ZXdROA?oc=5",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792597620.0,
         "tag": null,
         "first_seen": 1792629031.913598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRW13OWdoVm1PZlMwRHZiYUFvbmNlTktNS2R0b2dySUpaTHRZT291LXAyNEUwQVk3TzQwOXBZSkhrUFJwdXFld3RvMGpHcjkxYllSQWE4cnprMzM2d1JZMjRTOVVEQUU1cmFfQ1lFUHRFNHVZWmp3QmlHUGROc05lUmJONllwUQ?oc=5",
-        "headline": "[정치로] '재정 빨대' 발언 파장, 어디까지?",
-        "summary": "",
-        "source": "Tbc.co.kr",
-        "published": "10/21 20:57",
-        "published_ts": 1792583848.0,
-        "tag": null,
-        "first_seen": 1792721724.4629796
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 19:30:54",
+  "updated_at": "2026-10-25 19:45:45",
   "yields": [
     {
       "label": "3년",
