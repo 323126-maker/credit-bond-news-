@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zaHBGdjFzaU1fdmZQb1hRZkhrNTNUcWQyaXR5LTUyTFZGQmVHMnNlSnJFRXBDSUxBaEF4V0FuVktZdTBNNjY2eFpZSkJOMW5jR1l5NjlOSDfSAVRBVV95cUxQQV9LMWhfY3E1WkpuZHA5RXRPRlp0bFdIUkxkUkFrSkJLQW5ieUVsTm5aWTdjSElsUHlZUDhadXFIekw2cUk2Y3E3ZndPMjEtVHN4UTI?oc=5",
+        "headline": "秋 경기도지사 시작된 '소방재정' 설화… 사진으로 돌아보는 한 주의 기록 [한컷한주(週)]",
+        "summary": "",
+        "source": "세계일보",
+        "published": "10/25 07:41",
+        "published_ts": 1792881686.0,
+        "tag": null,
+        "first_seen": 1792886439.0992806
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA5ZmpxTk5uRy1ZRHFqa3Z2dTJ3ZnB4ajMxN3lBZ2pVek4zWE1oQUxFNVBFOUxtc29zVDFvTFY5YUFiSXAzUGxSQnF3X1YzeW9ydmVhWk5qVzhfbm5ZMFNkb9IBeEFVX3lxTE5DQklVOEp0bjRUN2NkQmc3ckpmMnlVRF9UWVpqUXRlQy14cnA1ZE9sQ0lrSWJ3b1hheEVGVFNEeFhSb0daTjhnLWkxUU5JM3lnVXNJd0FVR195THdBdjI5S0VqYmJma1RUXy00VmNIVVJ0WUJKQWRwVQ?oc=5",
         "headline": "소방 재정 책임은?…李 \"지방사무\" 속 \"79% 국가사무\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792546974.0,
         "tag": null,
         "first_seen": 1792547123.9627962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1rUW5kUEk1aUl4NmU2b1NReGQxSWFkd2ZyTEJ2ajRpd0FoaWpHbWZtU2ZHdXJxd1dncG4welA1UlZweXExanZtaV95NXVlSlZG?oc=5",
-        "headline": "민주 ‘경고’…‘소방재정 발언 논란’ 추미애·부승찬에",
-        "summary": "",
-        "source": "문화일보",
-        "published": "10/21 10:08",
-        "published_ts": 1792544919.0,
-        "tag": null,
-        "first_seen": 1792545322.000161
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-25 08:45:49",
+  "updated_at": "2026-10-25 09:01:05",
   "yields": [
     {
       "label": "3년",
