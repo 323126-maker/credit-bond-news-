@@ -52,6 +52,16 @@
         "first_seen": 1792902629.9774647
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5jMlRHV00xV3o0MTM1VnFHMGVKVmpadXd3emVqZ2ZGLW5GOWxWWGg2YlVxejA1ZEpFd1hFVmFRcERMWnNIcWl4RTQ0eFF3WTVSVHBkNmNpSGdVdFVwbzVnSkFhY3BVMFdsdTFyRA?oc=5",
+        "headline": "IBK기업은행, 5000억 규모 중소기업 '단기 유동성' 수혈",
+        "summary": "",
+        "source": "뉴스락",
+        "published": "10/25 12:00",
+        "published_ts": 1792897200.0,
+        "tag": null,
+        "first_seen": 1792943123.6567543
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1uVDV1bE9SazRUUjFfUzlLSENrREpERFROSWlpMWFGS0U1VEJFc0w1X0Vtcmt1aklGV19Db1NxVjZHaTc2bWxTNkM4ODB3aWw4TDlDbU1qNmt5SG95eTRaOEljNW8zY2lXRk5R?oc=5",
         "headline": "KCC 회사채 차환 늪, 5조 차입금에 단기 비중 55% 돌파",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792780233.0,
         "tag": null,
         "first_seen": 1792781123.9283595
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNX1VCTGFIa3FPaWpTVEFyNnRFQmJ1Vk40UWxEaUE4S3BpdWRza2tkWFA5REY2X3FtcmtEVE1kTUpXTnJaVkhDZWVjVEp4YWlwd2hQTU9tTm1QUEVBelE?oc=5",
-        "headline": "AI 거품 우려에 글로벌 위험 가산 이자 약 1년 반 만에 최고",
-        "summary": "",
-        "source": "YTN",
-        "published": "10/24 01:24",
-        "published_ts": 1792772640.0,
-        "tag": null,
-        "first_seen": 1792773924.86697
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA5ckZvR1pENGlPa1VaMVVicUhWREZCTFJVRll6bHg1aDVuZVlaWjNQOGNXM19LX21YT2M3WHFkUUlkVzNfS0xsRVVKaUxmWDBSOE9BQ3dvOGlWVEdwQ0k1aEdTTnJzTzRHYjR6NTdZYlFKTjdfaUhV0gF3QVVfeXFMUDlyRm9HWkQ0aU9rVVoxVWJxSFZERkJMUlVGWXpseDVoNW5lWVpaM1A4Y1czX0tfbVhPYzdYcWRRSWRXM19LTGxFVUppTGZYMFI4T0FDd284aVZUR3BDSTVoR1NOcnNPNEdiNHo1N1liUUpON19pSFU?oc=5",
+        "headline": "산은·기은, KOFR 기반 기업대출 1조원 공급",
+        "summary": "",
+        "source": "스트레이트뉴스",
+        "published": "10/25 21:19",
+        "published_ts": 1792930750.0,
+        "tag": null,
+        "first_seen": 1792943123.6567543
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE16LUQ3eWVuU014X1lFcF9RaGJ1Y1p6QTN4ZGNhb0JMVFh3SXhTNE0tM3BDVF85bHI3c2tiTzVDc09XcTZBaVF3aEJHejBUQV9kc2NRSEd2bzZ4YjByNVlmZ3pwOWhzMm1mdXp2b0NBOTg?oc=5",
         "headline": "[채권-주간] 들썩이는 유가와 3분기 GDP…매파 변수에 긴장",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792630219.0,
         "tag": null,
         "first_seen": 1792639828.0619872
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12MjBUd2w2dFFvQnRGR2dTbTRjako3V0RXQVF4T19Jb1ZFRW9LVUM4QlV4TVJWVENvaTRPNWFCTnBXX0VXWkZXUk53dy1DUXNfaFQxeTltVW1lWlVFS1p2MV8wN1pfV2M?oc=5",
-        "headline": "금통위, 기준금리 동결 전망 우세속에...11월 추가 인상론 '불변'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "10/22 08:00",
-        "published_ts": 1792623604.0,
-        "tag": null,
-        "first_seen": 1792624525.6867576
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 00:30:59",
+  "updated_at": "2026-10-26 00:45:48",
   "yields": [
     {
       "label": "3년",
