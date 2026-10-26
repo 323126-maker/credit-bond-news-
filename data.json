@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVdUlwUDZOdTlMQzVjZjNzQ0czbnZOZWdaSWFfVmVCZ1V1TlVOZENScDNNNzlnMURYeW1BV3pUS1djOXJYcWZBWXBCQTg1NDhDOW5YcEFheXl4LTg?oc=5",
+        "headline": "[ESG특집] 해외 ESG 규제·자본 이동의 '다음 스텝'과 한국 기업·금융에 미칠 파장",
+        "summary": "",
+        "source": "데일리연합",
+        "published": "10/26 15:40",
+        "published_ts": 1792996804.0,
+        "tag": null,
+        "first_seen": 1792997127.8107522
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPbTJhN3pFV0lBV0hCXzFSajhmTFhyLWdKcmlzRE1tZ0kwa0FFdU1sYlJjcmYtdVhoR3hKU3g2dnl3dGlIWU05RC10UVdOQ3BtRUZ6QXF3bWc5RkYtb01TMGlBNmo?oc=5",
         "headline": "돈줄 죄는 은행, 쌓이는 빚 부담… 중기·자영업 ‘연말 한파’ 온다",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1792841032.0,
         "tag": null,
         "first_seen": 1792842323.5015514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Ub1BGeEw3RzU1dWh4Q1JHMnhhRC1PWU91RUJ2WG5tZlQzSmpZOWVSUHFPWVdXdzhCejhBcWctQzhpek1FMEozZHh0ZjJZRm9jZW5ZZ1FhMVhJU2hTaFJGS2lNRFBUY081TmRFNk1kZXg1dEk20gF0QVVfeXFMT1RvUEZ4TDdHNTV1aHhDUkcyeGFELU9ZT3VFQnZYbm1mVDNKalk5ZVJQcU9ZV1d3OEJ6OEFxZy1DOGl6TUUwSjNkeHRmMllGb2NlbllnUWExWElTaFNoUkZLaU1EUFRjTzVOZEU2TWRleDV0STY?oc=5",
-        "headline": "무디스, 프랑스 신용등급 유지…재정위기 우려 여전",
-        "summary": "",
-        "source": "팩트인뉴스",
-        "published": "10/24 16:52",
-        "published_ts": 1792828350.0,
-        "tag": null,
-        "first_seen": 1792835122.4525685
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bjUtdEo0cGU2T1pIZGlsMm9Ua2o0aFdmTWR2N1ZEbWtaXzdwN2pfV2dsR0ZKdzJqVGJlUk9ZV09jUWRSWWdMX1JveG1qaHZrVmlqUjdYRnRlNnA2?oc=5",
+        "headline": "'11호 종투사' 노리는 교보·한화·우리…자본 3조원까지 추가 확충 과제",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/26 15:39",
+        "published_ts": 1792996740.0,
+        "tag": null,
+        "first_seen": 1792997127.8107522
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Qd2hoMG1nbkM5dlFHbDV4RS1CZ2FTUjlCNWFCRV9Gd0pibk01dFNSdGdlNGhZQjdCN1BoNzhjZHdGWm5qOU11YVBzSlNiT3RURHJIZkFn?oc=5",
         "headline": "증권사 최초 역사 쓴 하나증권…“첫 달러 신종자본…투자 실탄 채우고 성장판 확대”",
@@ -792,16 +802,6 @@
         "published_ts": 1792619400.0,
         "tag": null,
         "first_seen": 1792844123.4447312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1QMjJ5UXNzdlhIXy1yQWNoNHVZT1haQTBmbElDbi1kamRZZVZrVjczWU5YN2dCcmoxOEZvR3M2Z1FQWFJNRHo5dWtoLTRFVG1aUjBVM0thUmtEdHVqR1VPZ1dZNjA?oc=5",
-        "headline": "하나금융, 신종자본증권 수요 뜨거웠다…'모집액 1.9배 달성'",
-        "summary": "",
-        "source": "www.ppss.kr",
-        "published": "10/22 00:26",
-        "published_ts": 1792596384.0,
-        "tag": null,
-        "first_seen": 1792597524.84389
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 15:30:56",
+  "updated_at": "2026-10-26 15:45:50",
   "yields": [
     {
       "label": "3년",
