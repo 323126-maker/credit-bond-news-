@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CRHJXWThKRFd6MWxJeEtIUDJRSkJMUHhtZkk4V0xYM295dU9WT2xZeVNRWFhSQ2laMlRJOE5EcDR4M1hsZHM0WkxmZ2dPQlJsb0c5Qmw2Z1JZOThJOGt2MUtiQUthMmhCRWxnVHphUEc?oc=5",
+        "headline": "[프랑스 위기] 시위·채권시장에 낀 佛, 부채 해결할 수 있을까",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/26 11:00",
+        "published_ts": 1792980005.0,
+        "tag": null,
+        "first_seen": 1792980928.6114402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE00N19vYjk3bmNoMkNrOVZtWktmbVluY2toR01FajlHbU5aZnJwNFM2UmV5djdTa0RGTlBhbkFPN1o2TDNfXzE0RE5MNnY5NUplQ3RmWXh2dlNzR0ZTeWc?oc=5",
         "headline": "\"크레딧 스프레드, 연말 확대 뒤 1월 축소 반복\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792800919.0,
         "tag": null,
         "first_seen": 1792967432.9633121
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1sWDdPX2VrM0tWV1pkeGVwajFINkhKcHpPb0cxTHVjX1gtRDJDZVZTWUtwamxmU1RkZFp2bEVONDVLTV9qaHJQLURENzBHSE5fMzBCc3FqenZLR1QzWDN5ZHV5VThuVVdBTVln?oc=5",
-        "headline": "외화 조달 멈춰 세운 AI 수익성 의구심…수은 엔화채 연기",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/24 09:13",
-        "published_ts": 1792800780.0,
-        "tag": null,
-        "first_seen": 1792801831.0140014
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBxWlA4WmtQV29HR0Q0OVA1ZGxxNzJDNEZibDU2Y3B0alRuM2hGRk43ZHlIdlJNV1IxOV83Z3FoSUk0S0ZLV2dVS3JEbHROeGpL?oc=5",
+        "headline": "골드만삭스 \"엔화, AI발 시장 충격에 효과적 방어 수단\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "10/26 11:01",
+        "published_ts": 1792980102.0,
+        "tag": "JGB",
+        "first_seen": 1792980928.6114402
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFAxaDZKLWxwTmRLdFV2THpjclhWaTl2a3RqLXhBWTd1MUZxQWwzVmdlUzFCdTBWS0g0ZEhhbWNmTzdQbzg0UU5CMkxHVDhWTEVka29GUHFQWkFSQURsMmc0VXFwLTdpV1U?oc=5",
         "headline": "News by CNBC TV18 on TradingView, 2026-10-26 — cnbctv:2d881ff4f094b:0",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1792974486.0,
         "tag": "JGB",
         "first_seen": 1792975525.6380372
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOE9QRkdaQjNaVDIzalhla3d0NVNiU2tURXdvYlQwSnl5Yi1ZMldxZm5ZZGxTVmlLVUhlQVlxZWtMMHdtVWJqTGVSR3h3WFlJNW5RSGpkWWxWWjZLeGJSV3FyeVBMQXl1MTZub0lBdjV3b2w3NTVRSDdfMENIN3BQSFVRMUdQaFE?oc=5",
+        "headline": "JGB Yields Ticked Up As Traders Wait On BOJ And Fed",
+        "summary": "",
+        "source": "Finimize",
+        "published": "10/26 09:11",
+        "published_ts": 1792973496.0,
+        "tag": "JGB",
+        "first_seen": 1792980928.6114402
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRmR3MWZ1MUlGTTBuRExvT0xNWUhjQkNnM1YtYngtektPanp4YjFqVzZ1Wm5LZFpqdFZNMFg0RjNvN21jZjdrd3czOE53Z2ZucE5pQ3R4a1F0MFV4SXc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792929240.0,
         "tag": "Global",
         "first_seen": 1792941324.753479
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPdy1HX01HT25oaXppc0djVkNDUUZ3UGNhSk1lUVRGN1dYNWlPY1VMYm84ZWdIclIxVm1zV3lPWm5HbXJCREs4dngyVzJBdi1wT080MDh4RUZqQ3p6THliM2tzWW1TS3Z0S0xMLVMwV2hCU3Nla2tMakxaX1dvVlU0MXhsbXhRNHAxZ1QzOHMwSVpMcTVrbEZZanJiSE5oal82U2lmQ1F3SXR6cERLemhR?oc=5",
-        "headline": "Pimco investment fund and billionaire Bill Gross's deal that raked in $1.7 billion in a single day.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/25 20:37",
-        "published_ts": 1792928254.0,
-        "tag": "Strategist",
-        "first_seen": 1792935030.5737267
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM2s3aTlCUnVpUjEteXBOREdTaWYyTnpDanpmTUpxVnNsNE51WFhTNURZMUdIZHRJM29yaV9Mc0VnT0pNUGZFbVZDMHZXQ3MxbTVuU3BBZ3V5V1A4Q1ZtVE5GVnJOR19mWHJVNTJVZFVJR1I0SVp0aDVVNUpBTmJ4Sg?oc=5",
-        "headline": "AI 거품론에 엔화 반등했지만…엔저도 AI가 부추기는 역설",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/25 19:07",
-        "published_ts": 1792922851.0,
-        "tag": "JGB",
-        "first_seen": 1792923326.5569818
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 11:00:59",
+  "updated_at": "2026-10-26 11:15:52",
   "yields": [
     {
       "label": "3년",
