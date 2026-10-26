@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRm1fU2JleC1RMm9hMGVtTTAzNERWeEI0amVMWHRLZGdsOEV5b0xOdjZGM3dvSEdMQVVQaEkwb0R1TWZQREI1RHI5MA?oc=5",
+        "headline": "AI 투자에 美 회사채 발행 역대 최대...올해 1.76조 달러",
+        "summary": "",
+        "source": "아이뉴스24",
+        "published": "10/27 08:40",
+        "published_ts": 1793058040.0,
+        "tag": null,
+        "first_seen": 1793058326.0485857
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SR0NzdkFLV2R0dl9jeHNrNGVTRHpHelU3ajUtbUxaQUMxZmxVX1hFOFFQbThEMFk3blhaQVMzU0JLdTlEVnJBWEVKZkZqNGoxdVY0QnlYN25FSTBEc0V4OFdSVmtqNFlm0gFsQVVfeXFMTlJrMHpRdklxc3pVRl9ZMnBFQmd6UFoybDVJN1NwNGdleEJqZHdDbHVwbTh0Ymw5ZGwwU01UOE4xZExyX1UtVDBOR2tVeG9mbWZrM3Z0Qjh4dW5EZ3E0aTdwdVFwbnhZV3JwUGp1?oc=5",
+        "headline": "[허정수칼럼] 전문가도 당한 해외 리츠 투자",
+        "summary": "",
+        "source": "블로터",
+        "published": "10/27 08:30",
+        "published_ts": 1793057400.0,
+        "tag": null,
+        "first_seen": 1793058326.0485857
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWQkRwWnZXRVhzanFrYW1KU01ucFA2NkFnWjNHMVRJNURQUS1GMXBnS21Fbk9oZG9DYUZxWHZzeHgtMjJpZjY2eW5tc255VGg0LWV3Y2lDeFNrSjl5R2hadWZsZk9NOGFVdDdvSmU4WWczUQ?oc=5",
         "headline": "무디스 잔디 \"채권시장이 연준 역할 대신…추가 금리 인상 불필요\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792996804.0,
         "tag": null,
         "first_seen": 1792997127.8107522
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcXNxN0VWRTBEVERTejlCQ3lKN1FGVEFXZDREcXZzVGNTSURxWkhycDRKSld6U3BrcFo5ckR5RjBfRzF5UjJfY0FZWDN3RklhQ0JyQWdYUFRsZw?oc=5",
-        "headline": "코스피 1.46% 하락해 5469 마감…코스닥은 3.26%↓",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/26 15:37",
-        "published_ts": 1792996634.0,
-        "tag": null,
-        "first_seen": 1793002526.4736068
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPbTJhN3pFV0lBV0hCXzFSajhmTFhyLWdKcmlzRE1tZ0kwa0FFdU1sYlJjcmYtdVhoR3hKU3g2dnl3dGlIWU05RC10UVdOQ3BtRUZ6QXF3bWc5RkYtb01TMGlBNmo?oc=5",
-        "headline": "돈줄 죄는 은행, 쌓이는 빚 부담… 중기·자영업 ‘연말 한파’ 온다",
-        "summary": "",
-        "source": "매일일보",
-        "published": "10/26 14:41",
-        "published_ts": 1792993295.0,
-        "tag": null,
-        "first_seen": 1792994438.539521
       }
     ],
     "perpetual": [
@@ -1670,6 +1670,16 @@
         "first_seen": 1793053833.6526718
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdnRKeGJpLVNUc215YUUwSF9QNUQyMjhCUFN1cDVZSmtpMmJValJIWGJNNkRtSUhfNzZ6MVpDc2tZV0xQRjZMQ0JEOTN2eFE4bHNUMlhYbld4b25maG13cXdhNnQtcFpWQ2QyeDJ3RHBvVEhEejhMNnVxSEFGb01Yb0YtNDdMdklJLUF1LUwwaDR2czFwVTlwTmh2aDhkbU9vblpSbGFOY2U4S2FLU0VoUzV1TXZIM29PNGw3Zg?oc=5",
+        "headline": "Inside Citadel Securities: Technology, Scale and Execution",
+        "summary": "",
+        "source": "Citadel Securities",
+        "published": "10/27 06:30",
+        "published_ts": 1793050228.0,
+        "tag": "Global",
+        "first_seen": 1793058326.0485857
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SS3Y5RUdoN2VfZWhveW1IVUtydjJ6aXlERG5vMUNyOEZrTk5NT2RpRjUtS3RFcjFrc29CNVNLOWN2WC1rUTJTOWdaNE0wN0p2RHJucUVVNTNsdzlQUFcxUUQ2clpkS29RRFhHVnhlN3pGYnowX3UwMGxYUdIBe0FVX3lxTE5SS3Y5RUdoN2VfZWhveW1IVUtydjJ6aXlERG5vMUNyOEZrTk5NT2RpRjUtS3RFcjFrc29CNVNLOWN2WC1rUTJTOWdaNE0wN0p2RHJucUVVNTNsdzlQUFcxUUQ2clpkS29RRFhHVnhlN3pGYnowX3UwMGxYUQ?oc=5",
         "headline": "Former White House economic adviser on Fed rates: ‘Tough position’ for Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793029231.0,
         "tag": "Fed",
         "first_seen": 1793032234.0567982
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQUg5MG54d2NUSzFuSUtIODRNeVdrczFnOXZhMmhfem1Fc1lzdjlGNThiMXBoWkFJYzhQVWdSZDJjQlZEb0RWWFNaNVZGcU8xbVNsbm5KZXl5cnhiNFFoZ1A5ZTdrQkkwMW9lN2Mwc3hlTmx6Q0N4aHhSbUM2eUpZMTJITFI2cjgwR3hicDBhenlJWDlEbEhqSlEwNzNIamdoSUJTajlWcU4zSmVI?oc=5",
-        "headline": "Analysts forecast Brazil market plunge after Lula turnaround win",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/27 00:36",
-        "published_ts": 1793028996.0,
-        "tag": "Global",
-        "first_seen": 1793043032.1721106
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 08:30:55",
+  "updated_at": "2026-10-27 08:45:50",
   "yields": [
     {
       "label": "3년",
