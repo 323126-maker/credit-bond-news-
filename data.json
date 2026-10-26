@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qMWJWd2pOMmpJZ0RianZ4U21QVkJIdE9TU2dSbFItZ283X2FyTGllRnpoVHA0clJuOXBHal9TZ2oyTU1yS1ZyNnBpSTNQUk9FWTR5cEhkbnJUamcyUkR2OdIBeEFVX3lxTE5KUGdBQ1lUbm5pOUdkNHdVSG5nVXh3YVluNlBCVDFjdHRRbEpYRTZSOXh3OEZINWQ1Q01tQXcwbi1uN0dSU2ZCMEhhdENhYUthckU2Zy1DdFo3c1hWQlhhdGs1Y19aQkRvQ25JOWM0S1lWaGNMRjRicA?oc=5",
+        "headline": "[올댓차이나] 中 증시, 반락 개장 후 저가 매수 유입에 혼조 마감…창업판 1.71%↓",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/26 17:59",
+        "published_ts": 1793005171.0,
+        "tag": null,
+        "first_seen": 1793006126.5640848
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fcWxaOGxWY1pEaDBUbHA3SnVvaGRQSXVFczVjQWhWaDVPalNIQkhNMHpXRkMxZUxKaUJFVW1tZ0FxcTV2SGRLQlFQdGF3bTR4MkpESjR1TFNEcTBXZ2E1YnM2VmV1Q2w1MDA4?oc=5",
         "headline": "1조 원 실탄 쥔 우리투자증권, 신용등급 전망 ‘긍정적’ 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792891261.0,
         "tag": null,
         "first_seen": 1792898130.1513352
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50dG92M053Z01xYzNpZ3JNanZUWFpaVjZiWUdFNWphQ1UzZnNWeW9ERzF5VXVvRTNZOXZpWmJFWjZsUF9Tby1oZXRSQl9mbjFVVXR3ZlA4bC3SAVhBVV95cUxOdHRvdjNOd2dNcWMzaWdyTWp2VFhaWlY2YllHRTVqYUNVM2ZzVnlvREcxeVV1b0UzWTl2aVpiRVo2bFBfU28taGV0UkJfZm4xVVV0d2ZQOGwt?oc=5",
-        "headline": "벌어도 벌어도 더 커지는 AI 빚…빅테크 채권 300조 육박",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/25 09:58",
-        "published_ts": 1792889932.0,
-        "tag": null,
-        "first_seen": 1792892724.749708
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRmpIemZMampsNnRvQ2l0MzhWa3huOWk5SGNOSkdMZTN2Sk9lY01fN1NNdW5aS1ZSUG9ZTXRtdHU1MjRlTnlOT1JiQUp5c2NaS2NsUFM0Tm9Jem9yLTdqVThEVTVxUk5CWEtaZTduZTVCMEluakJxblNvcG1iMngxVVBrTGlDMHNGUndoR2R1NkRnemEwcEhVU3RwWGhTTUxpNk9yNUNkSms0T2l6dVpYZHFubGdwZllZbkdhZjNtbkFqSFNOWlNv?oc=5",
+        "headline": "Why the Fed may hold off on another rate hike despite high inflation",
+        "summary": "",
+        "source": "USA Today",
+        "published": "10/26 18:11",
+        "published_ts": 1793005890.0,
+        "tag": "Fed",
+        "first_seen": 1793006126.5640848
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcEtsX3dYS3FrMVR4SXg0eHp5dnp3TmF6NW1qWXZzMWpDbDNHTnduSGk5OUxDWXVFYU54ejJfQjV4VTlJWThOa0hIRVRfUVAycHBySk5TWXRjS05KS0k4cDZoMEdmeVRZbE90OWRtMUdSTnBrRzFiVUNTeDRtTmpOZFZndDA4U0JYMXFNYzd1UHRfOUlEUzI2SlhPb0ZlWDB6cjBZ?oc=5",
         "headline": "Asia-focused banks face capital squeeze due to inflation, bond turbulence",
         "summary": "",
@@ -1680,6 +1690,16 @@
         "first_seen": 1792999833.9825776
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
+        "headline": "Will the Fed raise interest rates this year? Divided economists weigh in",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "10/26 16:15",
+        "published_ts": 1792998939.0,
+        "tag": "Fed",
+        "first_seen": 1793006126.5640848
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9VenhYZkJyWlRtV3ZRWXUxMXFGNXctaHBFUk9uZHFVUjNIcWx3eUgtTmc0ZjkzcVlwOVQ0OUl5c2pVVzIzeVlfNk5LYzJ5V1dIUm55UldjTGFqdVJxM1ZwZ9IBeEFVX3lxTE82emczLS1VLWxRTTFZeDVBUFAzN25UM1JPeEUwVEpXcUZIM0w1a2NuVlVoeFdjR1NLdjRrODRCUUE2VWFzcXduWHNiS2RnTTZHS3NQLUk5aVMzUEpfeUdKVmVkSFdWWmVkcV8zcmJrU2hYaFNkWmxVVw?oc=5",
         "headline": "[올댓차이나] 위안화 1달러=6.66위안대…4년4개월 만에 최고치",
         "summary": "",
@@ -1688,6 +1708,16 @@
         "published_ts": 1792998903.0,
         "tag": "JGB",
         "first_seen": 1793004326.0801008
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRjFEVjN1SmJlcTJCNzZsUmdjX1RSN09NTnFIZHp1RjRoc01EaDc4RUlJU1VzZ3JLaFpvQ1N4OXdDRFk0WjNSLXY2NEQ1UEVQcHRCcGRvZlJxNUt3TlppRTNjd2E5MGxTb1lJZVc2Y0plRXZ6aVFMUjYtSjdZbEJrNExCWDJ4ai1ldDI5dWtoWXVGUnBfLVAzSFdLLXdzZ2ktRkNSTUg3SQ?oc=5",
+        "headline": "U.S. midterms: Ten questions investors should be asking",
+        "summary": "",
+        "source": "DWS Asset Management",
+        "published": "10/26 16:05",
+        "published_ts": 1792998330.0,
+        "tag": "Global",
+        "first_seen": 1793006126.5640848
       },
       {
         "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOMHhqVjRzQjVraGczazExdDdQVEZMa2IzZ2p4YmwwNEItZUdpX184RFNqZ3ZSUTk5UVctb3NxTGJLODB5ZkxkbkV4N01FaDJnM0FMZUJCMHlGREpRbjBGdFJvanFhcURCdmR0N3JMYjUta2hfdjBYamJVOXBRZ1hURkx5WlN4ckVQTGNYbU82ZHRSRE1KVTY5YzhGYVg0UlVPd3RhQmNvMWp4bW5YakFBVEpSVWcxckRFcV85VnN4NkI1R2lBMUltMV93UFNZU3hfdklEbzc5TTJXbWVZb0FJUEpQS0V6UXF1Q1VtaU5LZHhtWlNfSHFMWmFRRUQ2ajhrWng4RHgwSC1uTWtYMm9VZVI3aEk3SmczQmRZ0gGgAkFVX3lxTE05bmJQendVYnc2dW1YLW12b0lMeE5PT0VxOVZaQVR2cC0wVWcyTnpTMmZabW9ZSi1GeTdkUFhhSmpBWVRjcG8wUkJ0ZGx2bnB5bTNfdkYtTlEwd05nV3VIQmswejJiY1ZzMUlGcGc0WkFuYkFyQ044bXZIQWtKcVBFeUpBeEx5SHhqRFBWUkp5VGRKaGRKeDNhWkt1TENTQUVYYnlYWVp6UDRhMnBJOU9QbG9WQ2IyaloyLWhhVWpRdm1wTW5GSG5YWnBUU2xJNGNlaFJ1WXR5cHEzTkR0VDhMR0wyMzhFOWZNRnJaMjZGdDBPWmhYYVZsTzlVLUFsMHZCSjBTMV9Uc01mNS1fMm5hNktocG1odWdaVXAxYk90aA?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1792975490.0,
         "tag": "JGB",
         "first_seen": 1792978234.5243347
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORlN3cU4tVmdQVV9EUnlmZTlncU5WR0xwZlJyZ0tiMU5ja3ZnWEptSWNkdlo1cDdNSlNUY19ETjQtV3NHb1I3bzNpREE5aG56Q0hRMmx0TlE1TVFPcS1HV0FoMUNJbm9fQUtiOVFtS2xQekp1MmlVS25qWE1lbGQ0T05RT042VVZfR05zMkx1c2xIajRHRXhoSHdrNG90Zw?oc=5",
-        "headline": "오늘(10월 26일) 미국 달러 환율: 연준 회의를 앞두고 기준금리는 낮은 수준을 유지하고 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/26 09:28",
-        "published_ts": 1792974486.0,
-        "tag": "JGB",
-        "first_seen": 1792975525.6380372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNOE9QRkdaQjNaVDIzalhla3d0NVNiU2tURXdvYlQwSnl5Yi1ZMldxZm5ZZGxTVmlLVUhlQVlxZWtMMHdtVWJqTGVSR3h3WFlJNW5RSGpkWWxWWjZLeGJSV3FyeVBMQXl1MTZub0lBdjV3b2w3NTVRSDdfMENIN3BQSFVRMUdQaFE?oc=5",
-        "headline": "JGB Yields Ticked Up As Traders Wait On BOJ And Fed",
-        "summary": "",
-        "source": "Finimize",
-        "published": "10/26 09:11",
-        "published_ts": 1792973496.0,
-        "tag": "JGB",
-        "first_seen": 1792980928.6114402
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tblpoakd4SFgtUkpTb2J5U2czN0FMUWZYdHVvZFp0OV9qeWZMOXFtX3AxZ1JmeWhKRXdTTGdzbVYtNXdvUm40S3lYQkctaGdqWkkyaG1FZnFNS21jaXFQN2s1Vzd1NC1EZUhuOXI4bDRFeEhB?oc=5",
-        "headline": "[FOMC] 美 연준, 10월 '숨 고르기' 유력… 선거 뒤 12월 인상에 무게",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "10/26 08:48",
-        "published_ts": 1792972132.0,
-        "tag": "Fed",
-        "first_seen": 1792994438.539521
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 18:01:11",
+  "updated_at": "2026-10-26 18:15:49",
   "yields": [
     {
       "label": "3년",
