@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9VcVN5NTY5SlBCM2RJaFdjSXJiUzBoZS0tNnNyN1F6SkxtdTBZX1lNNnhLOXp4WHdhLTBQR1lNQ1pwdnFqbzBOdVMtQUZQTGN6RXk3UlBxeGJ1UDFGckZ4OHdfbUhEUFBBNE1nU3A5Uzhsdw?oc=5",
+        "headline": "외국인 국채선물 순매수에 국고채 금리 일제히 하락",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "10/26 16:58",
+        "published_ts": 1793001526.0,
+        "tag": null,
+        "first_seen": 1793002526.4736068
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13aWFxaXV3RF93bjVwMFdrbVhIOURlWDB1UVV0d0d1YWw5MEJIeGZ6UDZralF6dzJKS05aTWFESUhBLUtMSnRWcngxNGgxeFBNSzJQSWRMYzFpUnJwV1A4OTNWdkpsVVB2TmUtVVdZZXNNUQ?oc=5",
         "headline": "[채권-마감] 강세 플래트닝…GDP 하루 전에도 外人 폭풍매수",
         "summary": "",
@@ -30,6 +40,16 @@
         "published_ts": 1792996804.0,
         "tag": null,
         "first_seen": 1792997127.8107522
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5wcXNxN0VWRTBEVERTejlCQ3lKN1FGVEFXZDREcXZzVGNTSURxWkhycDRKSld6U3BrcFo5ckR5RjBfRzF5UjJfY0FZWDN3RklhQ0JyQWdYUFRsZw?oc=5",
+        "headline": "코스피 1.46% 하락해 5469 마감…코스닥은 3.26%↓",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/26 15:37",
+        "published_ts": 1792996634.0,
+        "tag": null,
+        "first_seen": 1793002526.4736068
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPbTJhN3pFV0lBV0hCXzFSajhmTFhyLWdKcmlzRE1tZ0kwa0FFdU1sYlJjcmYtdVhoR3hKU3g2dnl3dGlIWU05RC10UVdOQ3BtRUZ6QXF3bWc5RkYtb01TMGlBNmo?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1792886404.0,
         "tag": null,
         "first_seen": 1792890922.9285529
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOGdiUXRLOWZGUDRDTmNzb1M0cXFyeElrS25rYXdUZFFxZTlEeW5Sb3JwdmkzMmYxTGh2dlpzSV9DLTFkblRVQ1Q0RWFVeUMtZVE4V2pLV1dpeEpqdy1VZnFpSmNpWXRiQWhrcmp3WFF5V0tsYXV1RkZsU0txUk5iTC1yekh5VUxFcWtFUk1VNkJId1ZHS01DVzJMek5DVWJEVjlydF9vRUhzdw?oc=5",
-        "headline": "Nike Slips as Greater China Falls 26% and Converse Drops 28% in Q1",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "10/25 08:35",
-        "published_ts": 1792884903.0,
-        "tag": null,
-        "first_seen": 1792891829.9055917
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkbzNiVG9aTTRHMnplS2FJVUFMamJLS2dVZ2QzUEhHRmphVTR4ZlBMeGwwUlNnNHVLMER5NkVySFhKcWc4eUE1dFRPRm9DUFk1RVVRN3dqWVJUUGPSAVtBVV95cUxQZG8zYlRvWk00RzJ6ZUthSVVBTGpiS0tnVWdkM1BIR0ZqYVU0eGZQTHhsMFJTZzR1SzBEeTZFckhYSnFnOHlBNXRUT0ZvQ1BZNUVVUTd3allSVFBj?oc=5",
-        "headline": "제트블루 2031년물 채권단, 재무·법률 자문사 선임",
-        "summary": "",
-        "source": "토큰포스트",
-        "published": "10/25 07:11",
-        "published_ts": 1792879870.0,
-        "tag": null,
-        "first_seen": 1792940439.9431133
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 17:01:05",
+  "updated_at": "2026-10-26 17:15:49",
   "yields": [
     {
       "label": "3년",
