@@ -846,6 +846,16 @@
         "first_seen": 1792973727.0148234
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBkelVpMDQ3eVFQaXBtM2NjMFkzNVlta0tFdkZHSWpwT0JpLVdNQmZpUkl3OHFsVmFsWTlKLWhncURUWFBjTHBUaUVoYzNEUmxJM2VEY1B5VGdzZVZfTWdVWmh0TVVaRl9iRllr?oc=5",
+        "headline": "[로드뷰] 신현송 한은 총재 \"호황 때 쌓인 빚이 위기 부른다\"",
+        "summary": "",
+        "source": "뉴스로드",
+        "published": "10/26 07:37",
+        "published_ts": 1792967848.0,
+        "tag": null,
+        "first_seen": 1792998040.3688867
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
         "headline": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792648800.0,
         "tag": null,
         "first_seen": 1792658722.3134334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OOGZCN0RFRDlSbW5CNW13NjFCSzcxRUdiaG0wX2RfU2lzN2dSczlKYS1tNEk5a0NldmZXQUkzVVdsOG1LdDJPYURUV3llaWdmREZxME42RHd4YkHSAWBBVV95cUxPVTVSNjJTM3NGeDhLLXhnOWxCWXJkWXJvMWNReERIalZId3Y3ODgycVliX0dXRW5TOVdnXzdlaGgyTlZWWnE3blhHaC1VcDdudjNhTG9xTmFCcHJGelNLTW8?oc=5",
-        "headline": "한은 총재 \"금리 동결은 '호미질'의 결실…긴축기조 이어간다\"(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/22 13:20",
-        "published_ts": 1792642853.0,
-        "tag": null,
-        "first_seen": 1792891829.9055917
       }
     ],
     "politics": [
@@ -1216,6 +1216,16 @@
         "published_ts": 1792995376.0,
         "tag": null,
         "first_seen": 1792996231.912405
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTlBBRTRrVThPSlBINW0wVDdTbFNBQjk1alk5TEw5T2JMWTlPZjRBc3lPOWpIMHdTX2JFRmRucU93UkZYcThXUTNDNDZhVEhubXZSZHlJS0VpUDlMQ2dUU3JPWXNyNGlwbldrcTNR?oc=5",
+        "headline": "'미래대응기금 통제권', 청와대는 왜 기획처 손을 들었나",
+        "summary": "",
+        "source": "조달경제신문",
+        "published": "10/26 15:00",
+        "published_ts": 1792994400.0,
+        "tag": null,
+        "first_seen": 1792998040.3688867
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE84YXVxRjFValR0LUxod1pyMC1KR2ZzS2R0bXp3aGpUcU01Q0NXUmVuOHFjRm11MFVVbG91V3lWUEtFUk8zNVN0NFFiVWRtMnlWNENRZG9CRUxXQ2Ni?oc=5",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792662428.0,
         "tag": null,
         "first_seen": 1792743325.4083014
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2RmdkWnVjclV5cVI2TWp3aEIyYUpiYndBemIxT2l1ejhRN3U3VXprN3I5dzE5V2YtMXh2VExPWE9LcmdFVTZMSHBDVVoxZ2kycW1NdGdPbDU5SVhEc1NrZUhLMEE4M2JSWHVDWkpR?oc=5",
-        "headline": "이 대통령 “경제 도약 기회, 국민이 체감하도록 전력”…청년 일자리·내수에 재정 투입",
-        "summary": "",
-        "source": "하나뉴스",
-        "published": "10/22 18:23",
-        "published_ts": 1792660991.0,
-        "tag": null,
-        "first_seen": 1792678526.6862297
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 15:45:50",
+  "updated_at": "2026-10-26 16:01:03",
   "yields": [
     {
       "label": "3년",
