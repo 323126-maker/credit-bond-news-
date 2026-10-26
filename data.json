@@ -504,6 +504,16 @@
         "first_seen": 1792902629.9774647
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HOGJuNllEZVdVR1QwZDdzbW45UUFJZmpLUWFoc1BlTTFfeGJ2aENkbEwwc25ZLWY1eENhYkt4bU1GSEZZN3hGWlVVYXNKQmY5SUNJRkFLNEpEUm94OVAtZW0yaVlzSEU?oc=5",
+        "headline": "교보증권 3000억 원 증자…종투사 문턱 넘을까",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "10/24 15:30",
+        "published_ts": 1792823400.0,
+        "tag": null,
+        "first_seen": 1793031327.5636106
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5FbWNCLW1rQy04OGJaYzNNRXdKZm8yaE5KSkN3bjI3Ui1TRWJBS2hQYklDVURKd3BYR21yZVk5dWdnUF82ckhQREhqRTFITnhSUU5QZXNCQ3FReWRidzVqVWdmLW9CMEk?oc=5",
         "headline": "하나증권 3분기 순익 100억…금리 상승에 꺾였다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792634740.0,
         "tag": null,
         "first_seen": 1792637121.6491654
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE0xYmhveElhVVZrVXFGY2RhVHllMzZkNHJBTjJKWm1zX2lUb0VlOVZrOXo1VFVwYnVZb3ZwRHp5OFZBM2kwR0NPaVo5YzdsUUhyQkRZRXJDWE5tTWNBM2hmZ0Q5NkVEeUwtclZr?oc=5",
-        "headline": "오스템임플란트 1,200억 영구채 조달, 3년 뒤 9%대 금리 덫",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/22 10:45",
-        "published_ts": 1792633500.0,
-        "tag": null,
-        "first_seen": 1792887326.094209
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 01:01:27",
+  "updated_at": "2026-10-27 01:15:59",
   "yields": [
     {
       "label": "3년",
