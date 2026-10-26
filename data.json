@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1pSkl5MHp5dXBkVmRXajlkVlVBQlhHUXNBc3o2ZnVFS3FFTk8xQXA5cHB5QnFmcGRJNnNxOGozVjhPRlB6T1loc0h4NEMxX1R0dUQtWWpHR3o0UGFLT3BZ?oc=5",
+        "headline": "SK하이닉스, 40조 자사주 11월5일 소각",
+        "summary": "",
+        "source": "스마트투데이",
+        "published": "10/26 17:12",
+        "published_ts": 1793002320.0,
+        "tag": null,
+        "first_seen": 1793003434.4699664
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02bjUtdEo0cGU2T1pIZGlsMm9Ua2o0aFdmTWR2N1ZEbWtaXzdwN2pfV2dsR0ZKdzJqVGJlUk9ZV09jUWRSWWdMX1JveG1qaHZrVmlqUjdYRnRlNnA2?oc=5",
         "headline": "'11호 종투사' 노리는 교보·한화·우리…자본 3조원까지 추가 확충 과제",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792628130.0,
         "tag": null,
         "first_seen": 1792629031.913598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQMHhIMldKZHAybGwxbndIcWxGV0hqaUd0aEg3cllOdXFuMW1KQ00wODdrNUN4Nm81dGotWF9OTjBYTVV1aUNybEJlQnlMbnA4S2tFa3dwRE1qQkR0bTFhUkE4dm5QVDh5Qkp0cGVBT1hoXzdHbXdRRktZVGV4cWtpeA?oc=5",
-        "headline": "주가 급등에 전환권 꺼낸 금호건설, 영구CB 청구서는 3년 뒤",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "10/22 06:50",
-        "published_ts": 1792619400.0,
-        "tag": null,
-        "first_seen": 1792844123.4447312
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV0xGM1VsSlJGNW84UXNRRWJKMHNEM2lNbmdGcXd0VndsdTBtM2FkNWYwamJfbFRkWTRFUEVUeFE4R1BrekQ2dXNlWFRGenpBY1ZMTUpSenNpa3BFUnh4RVg0czZaVXBNUjN0YW1fcGFCdnkxSG5la21mNXMwNU5qNDJISEI3MDhKMl93OEpQN19DY1NvV2hjWXR6em13RmtlUjBFZG04N3VMYk9vZjZxOUpWYUw?oc=5",
+        "headline": "French bond selloff eases as country spared ratings downgrade",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "10/26 17:15",
+        "published_ts": 1793002539.0,
+        "tag": "Global",
+        "first_seen": 1793003434.4699664
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZldIeklTRzR0akMwbVpkU281TXFXbEJGRzhQUXppUVZVcGN4NlRqazRlSWJLWG4wZVotdm52RlZuZ2pjcnlXM3VqaUtvZktvXzFib3VNTUUxNDJQRDhpZXpYaERVUmhCQmppWjBzSzZEc1BpSUVvWWlUdEZZRDc4ZQ?oc=5",
+        "headline": "저평가 매수 기회?…'호주 2위' 연기금, 프랑스 국채 사들인 이유는",
+        "summary": "",
+        "source": "이데일리",
+        "published": "10/26 17:05",
+        "published_ts": 1793001940.0,
+        "tag": "JGB",
+        "first_seen": 1793003434.4699664
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9nRXJYX2c5eHNlNV9FTDVDeFRycElySVVfQnRkZVlGRElCMXJfZnhQZEhFb0JUQV94SlNiaVlSaHZ5N1pBZ1lSbDZjOE0tUVA3aDZsaWt4YVQ?oc=5",
         "headline": "U.S. Fed likely to opt for a “hawkish hold” amid inflation rebound and midterm-election pressure",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792970496.0,
         "tag": "JGB",
         "first_seen": 1792972840.7840252
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9VeXN3aWQ2WUZJaFh4U1Q1NHNHclp0UzVmTUlRME9iVk9BZUVOS19vWmh0aXFpbDVFTzRGLV95QTRqSUxUUjZQRnA3Mmt5VG5vS2dTaVFJaTUxSlgtWEpFUnF0bFZGc1p1Q1HSAWZBVV95cUxNWDlyQWN0R002dzRGTWhRWlY3SjZFVDE5TDF4US1nR1dYU0NUVmVCRndVMU5HcG9MaVItRFotMzIzVXdncDUySFFTaXNNTDdFVVJxZ0I2QnlXNXFBWnlMbzMzTmFTQWc?oc=5",
-        "headline": "[글로벌 마켓시황] FOMC에 빅테크 실적까지…선물 일제히 오름세",
-        "summary": "",
-        "source": "SBS 뉴스",
-        "published": "10/26 07:57",
-        "published_ts": 1792969038.0,
-        "tag": "Fed",
-        "first_seen": 1792996231.912405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HamtBelBFM2NnNm5TWFlHc1VFN2RKYTluRWtzSE9wVUt6dTR2VmdaLWpMNUlFbHRPWGhvU0xVY1RGUW4tdjFuVXBmUjlDNVlYbUFKYlEwLXRsS1NaV19weFdiOWI?oc=5",
-        "headline": "Rate 'Superweek' Begins... U.S., EU, and Japan Expected to Hold Rates",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "10/26 07:43",
-        "published_ts": 1792968219.0,
-        "tag": "Fed",
-        "first_seen": 1792970126.9311905
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 17:15:49",
+  "updated_at": "2026-10-26 17:30:56",
   "yields": [
     {
       "label": "3년",
