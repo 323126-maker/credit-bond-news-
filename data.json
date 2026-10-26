@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdkF4ZS01TmJ2RExyWnQ4UUpEa3NreTF2cHpiZkZyQVU1bVFXWVhTOEhKTTh3Sjk3Q3daX1Z0azg4MDJmRnBnVE1jbk5zbThzejlYc2tFZ0ZjVW1XanZMTFplRWJjakNBNnZoSlp2ZTLSAXRBVV95cUxOUU90M3gtSXlweDFkMVhWZ055M01lNldzMHB4WWQyQmYzT0xZdWplY2ttenUzemphb0thbFoyMXVzSTdCdzBPZ0sxeW1Yb045NE4tdVVrMWJvUWU0dW9yV0lpUDRjWEtiazR4WlF1SU43RmlJQQ?oc=5",
+        "headline": "내년 보험사 자본성 증권 콜옵션만 5.5조…고금리 압박 이겨낼까",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/26 08:45",
+        "published_ts": 1792971941.0,
+        "tag": null,
+        "first_seen": 1792972840.7840252
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPaTR4YTd1TnBuUWd6aE43MlpLd0RRRTc3T0tBTkNJSFdpUS11dk9jWUhRalBfSF9Rdm05TWw1aURrV196bUNvZHdTODM5dDY2T2tEdEM3bHZmZWVRZmVzTHF1dWRHRnc4T09RVUtYNWdIVVJWQUpJNmZ4eEQ5cG94OdIBlAFBVV95cUxNQ1hfTjhUYVo2SnZuU05vT0ctbl9PbHd5aHdGa2xjdXc0cWtvT2hKNXh1V2RWTkRfejBIRXRzRjNqOG1kX3BUS3FQeVI1SVZUVl9FaWZ0dnU3SlEtN2djRHNTR1JHb3RGSFhFaEh0ZzFzWDc5R3dSZ2hEVFpGUy1pV0pJSF9kTjBkY2VGU3BuVXl3djVQ?oc=5",
         "headline": "채권 발행이냐 현금 상환이냐… 보험사, 내년 6조원대 증권 조기 상환 고심 - 조선비즈",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1792569801.0,
         "tag": null,
         "first_seen": 1792574124.179938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5Kaks4ME5kREJlTl96aWRRbkhPNVZvRzFlNk5FNXcxbnlNTzIyeTRTenNyZVBFdTRDTU1TTFVBMmVYYWdxcDZNNUZEMnEyMmhNMjRTeHRyT3RUdGhjQ2RQbDRZaU41bG8?oc=5",
-        "headline": "하나금융 신종자본증권 수요예측 흥행...4천억원까지 증액 검토",
-        "summary": "",
-        "source": "청년일보",
-        "published": "10/21 16:56",
-        "published_ts": 1792569419.0,
-        "tag": null,
-        "first_seen": 1792569637.2613323
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
+        "headline": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리",
+        "summary": "",
+        "source": "뉴스후플러스",
+        "published": "10/26 07:30",
+        "published_ts": 1792967400.0,
+        "tag": null,
+        "first_seen": 1792972840.7840252
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rakxFNlNzWGUwdlZtNDRMMDV0azN6bkk5STVDWUpDWGZ2Q05jMXpsa0ZtM3k3Nm5lX3JTWmw5NGI0QjNkM0J6M2RvUmNDeEdha1E?oc=5",
         "headline": "[인터뷰] 이성호 NH증권 본부장 \"올해 채권금리 상승은 성장의 대가\"",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792631280.0,
         "tag": null,
         "first_seen": 1792635323.5987685
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rNllBcllHV1BJUndfTlMzZVVpNmdzRFRDVHlWOWtUTVZ6Q3ZSWTQ1Q2M1ZTNyOWZDWkxBdFVqWnVEN1U1ZWFwMGNkcUVraDZQVDAwblhJUFF0SlRTU0RSdg?oc=5",
-        "headline": "한은, 기준금리 3.00% 동결…금리 인상 시계는 계속 돈다",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "10/22 10:01",
-        "published_ts": 1792630899.0,
-        "tag": null,
-        "first_seen": 1792631722.4993355
       }
     ],
     "politics": [
@@ -1246,6 +1246,16 @@
         "published_ts": 1792915127.0,
         "tag": null,
         "first_seen": 1792925124.0209138
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuNGYzTTlrSjdEakJZTmh4azFRT1RUZmZjSUVuMEpzQUdXQVlqQ0dJS2dTUnVnWU9QQmQtWWpxdkZON2hubWFWZGtLaVlSNEdvQkU1Qms2ZlRpelRhcUE?oc=5",
+        "headline": "이준석, 추미애 “정치적 화형” 발언에 “‘추다르크’ 돼 보려 애꿎은 소방 도발”",
+        "summary": "",
+        "source": "주간경향",
+        "published": "10/25 15:18",
+        "published_ts": 1792909080.0,
+        "tag": null,
+        "first_seen": 1792972840.7840252
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11RTBpMW5KWkFjcUZKS0U5RXRNTHNhUG9LUUc4cTdWMXpxLXQzZEJ0VVUxT25LTDJFZ3JuSE9qcWVBZ2tlRDR5Z2xDRXo0OEdzVnBNME1sNHBPUGV1c3Q1WtIBeEFVX3lxTFA2MXlPSUx2QXR4WnFDS1BJQi1yZ0FLbDh3Y0dWcmRfREh6V3FuYUNSVXBfb2V2VDN6U0h6eWVSWFZRbElkTnJzR0VUcUo1YS03YUxXbXZwcExpX1BfdGk4UlZZaWRvUW8xaktWTGxJTHFsNkg2ZXdROA?oc=5",
@@ -1596,19 +1606,29 @@
         "published_ts": 1792640755.0,
         "tag": null,
         "first_seen": 1792645237.1876743
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jRFJYMHhWazZzSWZTbnd5cURta0lERFItaXdBNFpLSUs2bUpnbTg4cWZLQm1SUnlRUEtwQUx6NUg5SkI5eng1endiS0FRb2hRNkE?oc=5",
-        "headline": "[속보] 신현송 총재 “재정 지속가능성 생각해야…국회 심사 엄격히”",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/22 11:52",
-        "published_ts": 1792637520.0,
-        "tag": null,
-        "first_seen": 1792683035.138266
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRmR3MWZ1MUlGTTBuRExvT0xNWUhjQkNnM1YtYngtektPanp4YjFqVzZ1Wm5LZFpqdFZNMFg0RjNvN21jZjdrd3czOE53Z2ZucE5pQ3R4a1F0MFV4SXc?oc=5",
+        "headline": "“코스피 하단 5,200선까지 열어둬야…정유·해운주 선별 대응”",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "10/26 08:38",
+        "published_ts": 1792971480.0,
+        "tag": "JGB",
+        "first_seen": 1792972840.7840252
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqUFpXSXdMakxvRkxpamV5cXVGUjRfc0Y2eVlnQ3lhMmczdWFkbXpiOU9VYV8wRDR2S1dfYUozRmc0TVR6MFZuRVlfcGN0YURIZW1yR2tKRF9pQQ?oc=5",
+        "headline": "물가 뛰어도 금리 동결…미·유럽·일본 중앙은행 신중론",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/26 08:21",
+        "published_ts": 1792970496.0,
+        "tag": "JGB",
+        "first_seen": 1792972840.7840252
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1HamtBelBFM2NnNm5TWFlHc1VFN2RKYTluRWtzSE9wVUt6dTR2VmdaLWpMNUlFbHRPWGhvU0xVY1RGUW4tdjFuVXBmUjlDNVlYbUFKYlEwLXRsS1NaV19weFdiOWI?oc=5",
         "headline": "Rate 'Superweek' Begins... U.S., EU, and Japan Expected to Hold Rates",
@@ -1988,26 +2008,6 @@
         "published_ts": 1792891797.0,
         "tag": "Fed",
         "first_seen": 1792891829.9055917
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSTlUM1M2eFVDcUFjSEE4Z3U1SUtwRm53RDRxNHFkZm9iVHRwTndYSUZiLW82NDlBWENQcjZNM0Q4bzkxVF9kZnA3QnRzQjFNM1NaU1RoUnNGT3ktVkszdW1ydWoyZ2lrUjhueWc1S1NCekxvYVhXYW5NeFZHN2JZbWdnd0k5LXI5?oc=5",
-        "headline": "한 번 쉬고 12월 다시 올리나…美 연준 ‘긴축 속도’에 쏠린 눈",
-        "summary": "",
-        "source": "조선일보",
-        "published": "10/25 10:03",
-        "published_ts": 1792890180.0,
-        "tag": "Fed",
-        "first_seen": 1792890922.9285529
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1Nejhmcm9OcjdMNnNxMWhod3pxOUlRUG5YOWVZdjk2bFpFNWh3OXdPa3pSblRLaVpvNFRCZVJudmJtdHFSaTRRSW4wZk5VV2R1Z3FlUmhB?oc=5",
-        "headline": "주간 금시세(금값) 전망... 월가 분석가들이 진단한 이번 주 금가격 예측은",
-        "summary": "",
-        "source": "위키트리",
-        "published": "10/25 09:33",
-        "published_ts": 1792888380.0,
-        "tag": "JGB",
-        "first_seen": 1792889122.6311038
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 08:45:55",
+  "updated_at": "2026-10-26 09:01:05",
   "yields": [
     {
       "label": "3년",
