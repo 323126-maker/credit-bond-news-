@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxObjdBYVRGXzhpaEFvbXRkN1NSZXh0NnVCbllTRDJKNzFBMmxyTEd6MzdSbk9JT3cxY0g5MmEycVJYREE3MWxUQUh2ZHRIYlR4N200V3M2VXNpUnZmRHRyZGd6eHpKUjNFdlBHRU9WTDJ4STltWXR6ejZnTnVoZ0VNUkV6MV9MVHNCdEpwQ3JCa1E?oc=5",
+        "headline": "Treasury Yields Steady Ahead of Fed Decision",
+        "summary": "",
+        "source": "Briefs Finance",
+        "published": "10/27 03:44",
+        "published_ts": 1793040271.0,
+        "tag": "Fed",
+        "first_seen": 1793041243.0812564
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd2VvSTdkN3VVbDFDZ0hmLWFoRlVTbEVUR1c3NE5VRnpJcndvWTRDX1pGd19aYnB3SDdSV1FtQ2dVTWl0aWx2b0NmVzhtMWxJS1N4SWlCS2xqMExNZVQyVWxPbGRHd2F5dU52NUVWRERDYkNQTHpVZ0pScHpNWkRreWNJRWhjSG9I?oc=5",
         "headline": "유로화, 프랑스 국채 불안 완화에 엔화 대비 반등",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793017876.0,
         "tag": "Strategist",
         "first_seen": 1793026845.996691
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8tZ1pEX1hibVBoRzBmekdDZGpkSkZ2WV9jYWZJM21BVkptc3RSTGJsTHhma0hXLUN3cmNNZnhGSVN2NWprZFdWUS15b2xGN0ZqNGJEYkZnT2s1T0dOdHYxYXZCYkJTUHhKV2c?oc=5",
-        "headline": "BE6378159212 Bond Yield and Price — BONDSCOM:BE6378159212",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/26 21:21",
-        "published_ts": 1793017298.0,
-        "tag": "Global",
-        "first_seen": 1793022327.2565506
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 03:45:50",
+  "updated_at": "2026-10-27 04:01:10",
   "yields": [
     {
       "label": "3년",
