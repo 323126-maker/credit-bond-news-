@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5GLVJzeXE0RTJfOVJEYmpJcmdYcGRjZ3ZmYnZnZHhoYmV3OWN5U2N5MEVfM3NfUXBOem0xTHJQOHQ5VURHcVRuaWhOTFVmbmd3NmFrck14d1ExV01FV09oRGNFN1ZyRGxhaXc?oc=5",
+        "headline": "엔저에 일본 배당주 투자 매력 부각...세금·환율은 따져봐야",
+        "summary": "",
+        "source": "월요신문",
+        "published": "10/27 00:00",
+        "published_ts": 1793026800.0,
+        "tag": "JGB",
+        "first_seen": 1793027728.0887613
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaml5VG1XUmFJSVViUmw4dGlsRjF5Q3RtWWNmdmpIMzFTWXJQR0JHNEFVckQtUE5FUldfQjN0eWVPakhMNFFaM3I3NEV2YTZyQmloNFFkZzJzTF9IQmpnOFZvMm93MXcwSmpsb0lqd3I4U0xLUkFDYU9ydWVGR1pBb0NUZmdDT005UTVKQjNGUmVIVG1LM1JNX0tybEdXM1NiRnZXRWRzdkdpV2ZG?oc=5",
+        "headline": "Euro slips as traders await Fed and ECB monetary policy decisions",
+        "summary": "",
+        "source": "FXStreet",
+        "published": "10/26 23:53",
+        "published_ts": 1793026396.0,
+        "tag": "Fed",
+        "first_seen": 1793027728.0887613
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUHoxVFVPZDZQMWZYMFh0NUdpS1lFeHZjRzhNTXJpdFJvYVRBOXhySVg2NGFmYkluOEZGNjNZbDZWWll6VkxmQ2JBbThMR2pYZWlTNVA2Tmg3NWZpUHpkN0NZNnlUZGRZLWs5OXpxX0VPRlR2NDN3NlVMMUJDRHA3OUEzNlg3c2xZYnhTdnBJOUx5OUtoc3A3MzVCRS1ZLWhpSnk0Z2NvSG1qQTBhc25pS1dVeFUyOEtnNktrN2hPTGZ5TTRNWVE?oc=5",
         "headline": "Why 1 Early Investor Think SpaceX Could Become the World’s First $10 Trillion Company",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793008804.0,
         "tag": "Global",
         "first_seen": 1793021911.3732946
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMDN2QU9ONF9jVUh4ekxPeEhZTU04WjZGaDRMZ2h6al8yQXNCVGhGWkZTVmc1aG5fN1pYUEVtcTFDVjQtZThOUFVXdGFqU3UtZ3pJeEZtVU10X3VRWDRnUmlxdy01MnBYSlR0a1JOQ2FZYUM1eG42TzhnZ20zYzVRMVlQaFU2Mzg3dTZmbDNNV0cwTHhSS3BmSFlXWk1ON0ZyWEQ4cXo1b2pPT1I4RC1YY3ByZEwyUQ?oc=5",
-        "headline": "Fed Meeting Focus Turns to Warsh Messaging With December in Mind",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/26 19:00",
-        "published_ts": 1793008800.0,
-        "tag": "Fed",
-        "first_seen": 1793009724.2313986
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRE9TM2JhcnBjdEljamVzSFRhWnR4SVFZQmhjbGF4LWhhZXVvdk9YWEFUck90M3doLXNxMHBQMGx5ZzFpQjZ1UGFOREkxNC1IN2R6RVRNeXYzOHRMRV90RVBlcWU0cGhNVjZIdVpjTFJqMUY2MlhocmZTSEc4MW1hYVJNM1diUExGV1lvRXFTREwxazRNSHZGZ0R2U2JRLWRHMTdvY3ZNdjNlemxyalFvUlc4Y0E3NVFpb3RndzN2SHoyd05FSjZWdlJwel8tNzVLNDhFSlJUa1JHSE5aeWZGNnpwUlI?oc=5",
-        "headline": "As vote nears, Trump's AI gamble fuels economic uncertainty",
-        "summary": "",
-        "source": "Times West Virginian",
-        "published": "10/26 19:00",
-        "published_ts": 1793008800.0,
-        "tag": "Strategist",
-        "first_seen": 1793009724.2313986
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 00:01:12",
+  "updated_at": "2026-10-27 00:15:49",
   "yields": [
     {
       "label": "3년",
