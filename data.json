@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kM1BVZHJWUm5JQi1EdmNJa3J3eW14SUYtRDdhMHF1R3VrLTZTX1o4MEthNEJKU1oySGR6UVo2TUdjY1B6SHlKUUxOWlJYSC1lekxpRGd2R3lDaHEwQkdxeEhTV2Q2R1hZM0c5LUNGYndNcHZ5?oc=5",
+        "headline": "반도체 쇼크에 국고채 금리 급락…10년물 4.1% 밑으로",
+        "summary": "",
+        "source": "조세일보",
+        "published": "10/26 09:04",
+        "published_ts": 1792973073.0,
+        "tag": null,
+        "first_seen": 1792973727.0148234
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82SW14bEViOXZNOF9IejJabUV0ampkc3ZfZlA4b0hCTjN3TGgxMjE3SnRGR3JhLVFkVHNiVmJJckVCRDlzT3VrNEdTYXkycHVpaHFhQkF3RzlidlQ4RkV0N2pzYWRGRVBGcHhtcjZn?oc=5",
         "headline": "한국은행 기준금리 3% 동결…멈춘 정책금리, 뛰는 시장금리",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792631919.0,
         "tag": null,
         "first_seen": 1792753239.155157
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5TeTVrNlEzWVVpei1mNUlOT2I2Vi01d2cwamRSZ1BWOHFtNFNqcFlNaGNJUXRuX3ZUcnZfLXFQTWtLZGJqeHJRMXlmM1hhdWRFMm9wT09xR0_SAVhBVV95cUxOU3k1azZRM1lVaXotZjVJTk9iNlYtNXdnMGpkUmdQVjhxbTRTanBZTWhjSVF0bl92VHJ2Xy1xUE1rS2RianhyUTF5ZjNYYXVkRTJvcE9PcUdP?oc=5",
-        "headline": "한은, 기준금리 동결…2연속 인상 뒤 속도 조절",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/22 10:08",
-        "published_ts": 1792631280.0,
-        "tag": null,
-        "first_seen": 1792635323.5987685
       }
     ],
     "politics": [
@@ -1650,6 +1650,16 @@
         "first_seen": 1792967432.9633121
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNFowaHFFTTJPbV9Ic2NQOVZmSURPOFhYaDhOTGNrUnpTS1c3WDhWUnIzSkgxQzZQcU4wUTRFR2xZLXZDZGFZUTYydHdrTlV4aHVGWnk2VnhWSlVGbWF2bzFjNVltckpESGZBRmZ4U3JkUlIxOFk0NVRrQ0dxWGl4SEtTOFNYNVhhaXRpUWMyQ21KY1ZvUUxTNloxVQ?oc=5",
+        "headline": "Mohamed El-Erian Highlights Market Vulnerabilities Ahead of Key Rate Decisions",
+        "summary": "",
+        "source": "Sada Elbalad English",
+        "published": "10/26 07:23",
+        "published_ts": 1792967030.0,
+        "tag": "Strategist",
+        "first_seen": 1792973727.0148234
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHBwdE5Fb2pzWldYQkJlWmJ5aHR0eHhlbWlwcEdFTThubVF6cktTeDNUQThlbjd0azNGRkZCWkNBby1aQnRUZTVPQUtpQ0NOVHhfR1NRRlFuc0NTckVxTGkzT3BTSllfS3RMU1h1ZG5PMExVQXJzR0I3QWVxV0o0TTl6ekxVTjNCNEtsaFZLNWFRNUhsUkVxaEM5TmVqdmoyRjk5WkY4Y3Q?oc=5",
         "headline": "USD/CHF macro analysis: Yield divergence and carry dynamics",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792893360.0,
         "tag": "JGB",
         "first_seen": 1792894525.694928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNYUpOZEdEdUFFWXF3NE95OVRYSzVfWnBYNlFhT2p1NU1OdVgxVjFiNmFQT3RmOFYzckQxQUhYYm93RTV6TXYtZXNrZDFGWXEtZy1lbVpQWGFQNE1pRE81WEl2ellrVzNaMXFHVmFFdkJTbVFpTUdvZ25qOXFKZDZMTXBBNjVCOWZaQ2U1YjZjRnNJQnp3MFhUbnF6a0YyMVNWclg4?oc=5",
-        "headline": "Fed expected to hold rates steady days ahead of US midterms",
-        "summary": "",
-        "source": "RTL Today",
-        "published": "10/25 10:29",
-        "published_ts": 1792891797.0,
-        "tag": "Fed",
-        "first_seen": 1792891829.9055917
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 09:01:05",
+  "updated_at": "2026-10-26 09:15:47",
   "yields": [
     {
       "label": "3년",
