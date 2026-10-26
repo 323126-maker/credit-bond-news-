@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9odjFmTFZDbERUR19YdGlyUUV0Z0s3QVBBR3hvZnBQUkJManlqa3pxZDlOZ2JCbE9RcnhWdDJHMnZxZFVRbllWSkhWOXpZVFlD?oc=5",
+        "headline": "‘재정 빨대’ 사과한 추미애 “소방 재정에 대한 국가 책임 강화해야”",
+        "summary": "",
+        "source": "문화일보",
+        "published": "10/27 05:44",
+        "published_ts": 1793047495.0,
+        "tag": null,
+        "first_seen": 1793048440.7776742
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GTUFWSVBvNXdzeTlnVTVsTTRIQjRBWEdPdEdGZ1NzVXlZUXpFSTJPTlVNNGpDNHhBQmlHMEpqUmxtUWo1MUNBSmRKb1htWk9VZ1M5ME1vYy1STGFPcElDdE96UjdqLVp5amtJaHlGSmdpZ9IBckFVX3lxTE5GTUFWSVBvNXdzeTlnVTVsTTRIQjRBWEdPdEdGZ1NzVXlZUXpFSTJPTlVNNGpDNHhBQmlHMEpqUmxtUWo1MUNBSmRKb1htWk9VZ1M5ME1vYy1STGFPcElDdE96UjdqLVp5amtJaHlGSmdpZw?oc=5",
         "headline": "초광역특구법 폐기! 이재명 정부와 민주당 규탄 기자회견",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792684200.0,
         "tag": null,
         "first_seen": 1792686636.6930888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5weGJ0cUNQb1hpdlB0MHBLRkpKS0g3Mm1xQ1dyZjdjbTVfV1BUdnRXSEt2eFhLUlBRQk1BSW5TTjRNMG5naXpBdHVlaWpOUDBwRmI0S1JycVlQN2Z1X2w5ZDQ0dVAwUVJ4VGU0SWJCU2g5dW1iNjNj0gFmQVVfeXFMTjFCMWR4MmVGYVBVYmJjWUt5emcwUVhuTDBPU1RERnNQV2RtTlZENTJvRW5DSTVwRXhSOTJaVy1YSHhVOHpwRXY2blZiVjhxUktsTmpWVkV6aTBsMmhocldZX245Y2lB?oc=5",
-        "headline": "코스피 5500선 추락했는데…與대변인 “내년 1만피 갈것”",
-        "summary": "",
-        "source": "동아일보",
-        "published": "10/22 21:35",
-        "published_ts": 1792672500.0,
-        "tag": null,
-        "first_seen": 1792784723.4493532
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 05:45:50",
+  "updated_at": "2026-10-27 06:01:06",
   "yields": [
     {
       "label": "3년",
