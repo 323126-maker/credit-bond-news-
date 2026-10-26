@@ -1740,6 +1740,16 @@
         "first_seen": 1792989033.4656808
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN2NwbFFDLVhWTUJuTGZxYkI1YWtMOFNFM29UMndmRUp3V1RzM0wyeTdvS2dzalE3WFRKdUVvWTdpOXVzakNmajA1TFVkX1RmdG5xRmRWUm9pQ1lOMEYwM2tMQVY0emRfdjVWeks3QVBhdWNzVXd4dEN1TE5oc1Q2ZHpOUDE3NmM4bWE0Sk1mS3RSeF9CUUlqdjhkZmJiNFpRWUp3ZTRDb3ZHWkU?oc=5",
+        "headline": "Investors expect Brazilian stocks, currency to fall after Lula reelected",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/26 13:09",
+        "published_ts": 1792987740.0,
+        "tag": "Global",
+        "first_seen": 1793000727.2727716
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HWVpvTXRnSmI3a0l3M1BqbVhvZ01kWXdmUFRrZVE4TnZBNUZXb19ocVloWkVtcG42TV95d0xJelhjSG42dzhiUXFSU29rcUtnUFd4bDROTjQ3VWZybV9hbmY5ZVd0ZkRjODVuY2lR?oc=5",
         "headline": "日 다카이치 “리플레론자 아니다” 해명에도 美·시장 불신…소비세 감세가 시험대",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792967030.0,
         "tag": "Strategist",
         "first_seen": 1792973727.0148234
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdHBwdE5Fb2pzWldYQkJlWmJ5aHR0eHhlbWlwcEdFTThubVF6cktTeDNUQThlbjd0azNGRkZCWkNBby1aQnRUZTVPQUtpQ0NOVHhfR1NRRlFuc0NTckVxTGkzT3BTSllfS3RMU1h1ZG5PMExVQXJzR0I3QWVxV0o0TTl6ekxVTjNCNEtsaFZLNWFRNUhsUkVxaEM5TmVqdmoyRjk5WkY4Y3Q?oc=5",
-        "headline": "USD/CHF macro analysis: Yield divergence and carry dynamics",
-        "summary": "",
-        "source": "FXStreet",
-        "published": "10/26 07:04",
-        "published_ts": 1792965854.0,
-        "tag": "JGB",
-        "first_seen": 1792966525.37862
       }
     ],
     "watchlist": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 16:30:56",
+  "updated_at": "2026-10-26 16:45:50",
   "yields": [
     {
       "label": "3년",
-      "value": 3.803,
-      "chg_bp": -3.7,
+      "value": 3.789,
+      "chg_bp": -1.4,
       "series": [
-        4.04,
         4.006,
         4.119,
         4.076,
@@ -2439,15 +2438,15 @@
         3.84,
         3.822,
         3.84,
-        3.803
+        3.803,
+        3.789
       ]
     },
     {
       "label": "5년",
-      "value": 3.948,
-      "chg_bp": -3.5,
+      "value": 3.932,
+      "chg_bp": -1.6,
       "series": [
-        4.267,
         4.22,
         4.345,
         4.276,
@@ -2466,15 +2465,15 @@
         3.99,
         3.965,
         3.983,
-        3.948
+        3.948,
+        3.932
       ]
     },
     {
       "label": "10년",
-      "value": 4.097,
-      "chg_bp": -5.5,
+      "value": 4.074,
+      "chg_bp": -2.3,
       "series": [
-        4.461,
         4.392,
         4.539,
         4.476,
@@ -2493,15 +2492,15 @@
         4.176,
         4.16,
         4.152,
-        4.097
+        4.097,
+        4.074
       ]
     },
     {
       "label": "20년",
-      "value": 4.17,
-      "chg_bp": -4.0,
+      "value": 4.164,
+      "chg_bp": -0.6,
       "series": [
-        4.53,
         4.461,
         4.553,
         4.513,
@@ -2520,7 +2519,8 @@
         4.179,
         4.197,
         4.21,
-        4.17
+        4.17,
+        4.164
       ]
     },
     {
