@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE04RXZ4TGVMbVExYURJSzhrUVVWX2dlbThucjR1cGNtTjkwa2hOMW45MUE0R0xlUlNiUXhiMnBya29tU25xbzlyMmUxTGExUlB0TEtqdUZZYklLZlVrX0FmUmhiLS1DaTAwQmF6eFE0eUZIS03SAXdBVV95cUxQZFNGUDZEU3hjNVltaXRlSWhaTFJKQlRnanQ1dG1zLThtUGdXVlMtQ3NsZHZGRkpYSnFkR0V6cVp4bGV0VUVabDVfRUlUWnhfZGFBMWJQME5xVmlrdFNsYTRsT0VLOHExRWJ3ZGxralFMWkVfWE1WNA?oc=5",
+        "headline": "회사채 시장에 몰린 기업들…9월 발행액 28조원 돌파",
+        "summary": "",
+        "source": "스트레이트뉴스",
+        "published": "10/27 06:55",
+        "published_ts": 1793051732.0,
+        "tag": null,
+        "first_seen": 1793052043.9664383
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EVjNYbHBGUDBRVEMxeUxadHhkWUE3OHFYcm0ySzBRekxUeVlMZmh4TEh6NVQtNmJ1NEVLSFpvTDN4OUtlcVc4aUJPMjA5TXQyWk8zSWlXbVJ1dmI4SDFJTHowal9sMU9nLUlyV1VEaXhkeXPSAXdBVV95cUxPX1RmbndlQkEyUXRGNXA3MUhCX2xKMGFjTVdtZm1LS1JqOFd6U0FMdE16VFVGcjItOW1SZEV5QlB0UEswYXFSSkdYclcwR3NFclhueWVheGRkTnVSR0x3WkhTN3VPX2txcHNiWmNtX3pkNzNYeU12RQ?oc=5",
+        "headline": "금리 더 오르기 전에 자금 확보했나…회사채 발행 78% 늘었다",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "10/27 06:43",
+        "published_ts": 1793051039.0,
+        "tag": null,
+        "first_seen": 1793052043.9664383
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aaU9ITVVGeXMwSS1yWVNhbjdHdk9HNThWOUJlRzhiMDVVSFdUcUZWNGptQ2swMU1nWDVzYzlTaEppN3RzUVJOOVM1MTVBX01FaElUaGdkdDNUZ3BwVkRoWXU0bnZleTdFa2c?oc=5",
         "headline": "9월 기업 직접금융 조달 75% 증가…금리 안정세 속 회사채·단기자금 쏠림",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1792986884.0,
         "tag": null,
         "first_seen": 1792988127.758734
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB1dG9YYnNLdjkzVHNuVk95RmxYc1REbXoxR2VvZTR2U0Z5YS1vbEpIdDVCOWFNaE9kZjRjT0wzQW90ZXN4QTdoZHcwSWtqa2Q3eVNGV1R3SEk4bXJiLVhoUTFLU2IyYm91bmdqOHFNMVA?oc=5",
-        "headline": "연준, 12월 인상 의지 명쾌하게 밝힐까",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/26 12:49",
-        "published_ts": 1792986569.0,
-        "tag": null,
-        "first_seen": 1793020524.6442184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oNk04WTdJcWxJVG1aWDBkR0tmcVZkZUxvNkd6UUNmTTYwQlE3TTd2Mk00ZFpueEdIWDRCX0VIM2xMczZOXzAxT296VzNObGhaWnRuYV9nZzl6c2loeDZBb19uMXVfVy1iODRjVU4zUHTSAXRBVV95cUxOdUZ4S3pjOTRrU3dOVlczNHpiLVBEajkxTWk2TlU2UmFZYzd6RmIyQ3NjcDhlWXljcHduQU9zYkZmYUtvWk43b2tSLTBJcTRVUGU5ZnltNlVNbGg1UktWMVZVdk92VEdHMXY5TVJBOHdJeUVrWQ?oc=5",
-        "headline": "달러-원, 실수요·스무딩 경계에 상승 반전…0.60원↑",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/26 12:36",
-        "published_ts": 1792985798.0,
-        "tag": null,
-        "first_seen": 1793043032.1721106
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 06:45:56",
+  "updated_at": "2026-10-27 07:01:08",
   "yields": [
     {
       "label": "3년",
