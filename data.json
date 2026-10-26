@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iZ21jc3FFTW0wQUQ4SjhQN0ZoZ2ZaaVNtb1F3amJSRlMxTEtuUDlka1NIV25iYUlsRy1sbTZ4UlZSeFgwekM5ejRkcHRmU2IzYlFR?oc=5",
+        "headline": "240조 코리보 멈춘다…대출금리 기준 'KOFR'로 교체",
+        "summary": "",
+        "source": "경제타임스",
+        "published": "10/26 14:10",
+        "published_ts": 1792991416.0,
+        "tag": null,
+        "first_seen": 1792991724.476766
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5kM1BVZHJWUm5JQi1EdmNJa3J3eW14SUYtRDdhMHF1R3VrLTZTX1o4MEthNEJKU1oySGR6UVo2TUdjY1B6SHlKUUxOWlJYSC1lekxpRGd2R3lDaHEwQkdxeEhTV2Q2R1hZM0c5LUNGYndNcHZ5?oc=5",
         "headline": "반도체 쇼크에 국고채 금리 급락…10년물 4.1% 밑으로",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792637599.0,
         "tag": null,
         "first_seen": 1792890922.9285529
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1iQUNrWnVUOGNhLUVnSkZIVDNWOXR0ZllaTkdVMUU4dEJwS3NjQ1VkU04yTUlhMk1QakxXM3k4ckJyREp2aUFWN05IeG5yb3YzVndnbnhUUEYzeUVzb1ZBdG9IYVNQS09p?oc=5",
-        "headline": "금리 더 올려도 국채 쓸어담는 외국인…긴축보다 공급 부담 완화 베팅",
-        "summary": "",
-        "source": "www.ebn.co.kr",
-        "published": "10/22 10:18",
-        "published_ts": 1792631919.0,
-        "tag": null,
-        "first_seen": 1792753239.155157
       }
     ],
     "politics": [
@@ -1810,6 +1810,16 @@
         "first_seen": 1792980928.6114402
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQOENNM3IxVTZkUUhaR09mOWpYS04yeDFhQVpuT0NfMDZtUG1ma18tZzEyTTV2eVVSMFpDdC0zV1EtVy1ZZ1N3VGFMNHR6WlJBb2YyNUt4WWtubFVJVm1WV3YxdVRjR3hTTEhQU242eDdyTlphbUxSam12blVWWHBJSlRjV2doVlhFeWRN?oc=5",
+        "headline": "Hartnett Says China Becomes the Biggest Risk to Global Earnings: Enter the Dragon",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "10/26 08:39",
+        "published_ts": 1792971549.0,
+        "tag": "Global",
+        "first_seen": 1792991724.476766
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1LRmR3MWZ1MUlGTTBuRExvT0xNWUhjQkNnM1YtYngtektPanp4YjFqVzZ1Wm5LZFpqdFZNMFg0RjNvN21jZjdrd3czOE53Z2ZucE5pQ3R4a1F0MFV4SXc?oc=5",
         "headline": "“코스피 하단 5,200선까지 열어둬야…정유·해운주 선별 대응”",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "10/26 00:05",
         "published_ts": 1792940700.0,
         "tag": "JGB",
-        "first_seen": 1792941324.753479
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZW9LMWRyT2twSklnZmlGUkxQV3RHTzg1dDVXcVdRUWJuUHdqUWdjS1J6YXVNdEY4SDRXWXBhcnZ1VlhHTDNlck9ySXM4SlhvMTkwZVBYaHI0LWFBQ2lRdjVMdENfNHRwU0N4Yk9nTTJjM0RxcEhnMndDVDl3dS15QUIzejNORm1yWkQ3UWVqZGZXOWt3NnRxeTVKdE9Gbm9Ic2kzaTNBcVIyNE5xdzR6STFUcEg?oc=5",
-        "headline": "Warsh Tells Traders to Watch the Data. They Still Follow the Fed",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/26 00:00",
-        "published_ts": 1792940400.0,
-        "tag": "Fed",
         "first_seen": 1792941324.753479
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 14:01:03",
+  "updated_at": "2026-10-26 14:15:47",
   "yields": [
     {
       "label": "3년",
