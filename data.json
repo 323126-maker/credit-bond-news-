@@ -72,6 +72,16 @@
         "first_seen": 1793006126.5640848
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDWjhzYzNkNl9vUzhxblJqV3pMQWE5T1BDeDBtMzZDQzhfSkhDeHFqQW1KQWQ3UFluMC0wZkJGbnlEd1p1TGU1VVJVZV9KaFR3VFZBRWRhbDjSAVhBVV95cUxQQ1o4c2MzZDZfb1M4cW5Sald6TEFhOU9QQ3gwbTM2Q0M4X0pIQ3hxakFtSkFkN1BZbjAtMGZCRm55RHdadUxlNVVSVWVfSmhUd1RWQUVkYWw4?oc=5",
+        "headline": "코스피 하락에 국채금리 하락…3년물 8월 이후 최저",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "10/26 17:47",
+        "published_ts": 1793004420.0,
+        "tag": null,
+        "first_seen": 1793012440.0967672
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fcWxaOGxWY1pEaDBUbHA3SnVvaGRQSXVFczVjQWhWaDVPalNIQkhNMHpXRkMxZUxKaUJFVW1tZ0FxcTV2SGRLQlFQdGF3bTR4MkpESjR1TFNEcTBXZ2E1YnM2VmV1Q2w1MDA4?oc=5",
         "headline": "1조 원 실탄 쥔 우리투자증권, 신용등급 전망 ‘긍정적’ 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1792956480.0,
         "tag": null,
         "first_seen": 1792960234.5176008
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9jWExlc0tCXzQ0b0FqZ0JGeEVQOHdHbDhabWRBS0FDSjRoYklVeE1qRDRIOW52NnZZa01URDZNRDBqMV91Y1N4UW05dkdBbnU3c01Ja1N30gFWQVVfeXFMT2NYTGVzS0JfNDRvQWpnQkZ4RVA4d0dsOFptZEFLQUNKNGhiSVV4TWpENEg5bnY2dllrTVRENk1EMGoxX3VjU3hRbTl2R0FudTdzTUlrU3c?oc=5",
-        "headline": "AI 인프라 자금 조달·수익성, 신용시장 위험으로 지목",
-        "summary": "",
-        "source": "토큰포스트",
-        "published": "10/26 04:18",
-        "published_ts": 1792955913.0,
-        "tag": null,
-        "first_seen": 1792965933.582241
       }
     ],
     "perpetual": [
@@ -1710,6 +1710,16 @@
         "first_seen": 1793007926.4453151
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GTW5CQzk2Y2tLWDJ4V0dveF8xdGtkX2pWMUJVOVZmbld2V25FaWV2Y3RrR2VXWV84SmZBOF9fSHIzdjYyeXhVRkRCbjZHeHMzVm1PUnRhcjNEQQ?oc=5",
+        "headline": "물가 재상승 직면한 美연준, 금리 '매파적 동결' 유력",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "10/26 18:23",
+        "published_ts": 1793006605.0,
+        "tag": "Fed",
+        "first_seen": 1793012440.0967672
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYm41QzI2Qmh0Rm04WkkybGhJQzFFd3IyZWxJdTBXMkdSaE8zN0xJLWU1cDYxdWQ4ZnVKSnVCT1RVaDVJQ3NCVXp1RzAwSkE1cmVsSHQ3UE1ha1ZhOU1FdGEwOWc2OVYwOUlVSUtUUmdFNl9iZ19rVGt5SlhOcUxzWHp2a3FBZkR2NHlzdk1HVjMtbEZrbjFzRlF3?oc=5",
         "headline": "Canadian debt market: Key trends and insights: Q3 2026 report",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792990559.0,
         "tag": "JGB",
         "first_seen": 1792990839.1052923
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00eXRXUzdOR096UWxfcmYxTXV6TmNnWkpNbjZTS1ZjQzdlcGFxSlkxbTRkb1liUW01QWpoa3dMbVFmQWdSbkJQQmJjQ00xaVN1MDdqbUs2QlJ6Y0hwdmViUVZ4ZElVSkhzdUVBMXM4elJpZw?oc=5",
-        "headline": "From Crypto Roots to AI Selloff: Why CoreWeave Is Under Pressure",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "10/26 13:30",
-        "published_ts": 1792989000.0,
-        "tag": "Global",
-        "first_seen": 1792996231.912405
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 19:57:10",
+  "updated_at": "2026-10-26 20:01:04",
   "yields": [
     {
       "label": "3년",
