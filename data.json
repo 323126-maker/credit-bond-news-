@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1dNNHlXOXBBMUYydXlxQllqRmdsNlIyOHpTeENQWklEYl9UNzlVdVdBVGlkZU1NUUxJaU9Cby10Sk55LXFhMlpkY2FFenU1MldkOE5tNENwb05RT2RxRm5ocVZFSFRpWXV2SG80N1NYbVVKcWh3VnN5VXlLN1M1QQ?oc=5",
+        "headline": "신흥국 증시, 빅테크 실적 앞두고 약세…브라질 대선 후폭풍까지",
+        "summary": "",
+        "source": "이데일리",
+        "published": "10/26 13:55",
+        "published_ts": 1792990559.0,
+        "tag": "JGB",
+        "first_seen": 1792990839.1052923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQTVqRmphR2Q4aC0taDZxVlVwdk8tdHBQNm5sbFJMZ3p6TzFoOS1QMFVwR256b2pZd0ppWDdzdGtfQVZ1Y3BoYVQxS3ZvcXMtUjNITW1EcE5abTAtSlYwdEttRnl3ZHJmRC1FVlY4VXBYWmlGSmg3anBSQmZibXlLM19ZNjNyS21NaW4zU01iaDBZcjdKaVk4aG5OYlludDRxM2dQUzhhcEp2amlBdWVrVDdKSERuY2txeXBSdUdiV3k?oc=5",
         "headline": "\"Collapse\"! U.S. corporate bond market \"exceptionally pessimistic,\" Goldman Sachs admits it \"may not be bottoming out yet\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1792940400.0,
         "tag": "Fed",
         "first_seen": 1792941324.753479
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTm10RFY2QnpXbDF6YnZQOTc5THpxRlBheE9QSFNQcnFEU0ZfN0o5Mkp4ZlNkaW1kekFjOGdWdzdDQmVRa2xlNExQRXNnT1YwdXF0SjRwSU80T0w2bnVSeHYtemlZYkVEbHA4TG9jVThjcGJ1SS1rdHBsaS1wZ2dmeVFmUFdYLTJQOERQNXpB?oc=5",
-        "headline": "Federal Reserve to Hold Rates in October, December Hike Anticipated",
-        "summary": "",
-        "source": "조선일보",
-        "published": "10/25 23:55",
-        "published_ts": 1792940123.0,
-        "tag": "Fed",
-        "first_seen": 1792982726.6070564
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 13:58:54",
+  "updated_at": "2026-10-26 14:01:03",
   "yields": [
     {
       "label": "3년",
