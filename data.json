@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZl9NRnpPb3laN0tSUlB6NFUwekhQWkUyNG11ck5jQmxHZUxTZl82RzJoVmlLMzlQY2JCS1BuTC1mMDlZYjdXVHFFeTgxTXJ5eGJZazZOcGdLaDg4RFhvaDNidXhySlVzRFBTUmoyeTJ4YjYtMUR2M0RYT1M2WVZSRTIxYlNQQjk2RGJmWmRTMml5MEoyV1h5bHpSQ2dFaExzZVJmU1N3djBENFhM?oc=5",
+        "headline": "Week Ahead for FX, Bonds: Decisions From Fed, Other Central Banks in Focus",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/26 20:55",
+        "published_ts": 1793015737.0,
+        "tag": "Fed",
+        "first_seen": 1793016043.2824006
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBnTTN5d3BxY2dQTDd0SXNid2lvZGRnd3BjN1g2MXMzNW1xZTRMNUItNGJYSGU1eWJseC1ZeXd4TzE2eW1UamtxRlBLbXFPSVdpU1pR?oc=5",
+        "headline": "FTSE 100 rises as falling oil prices boost risk appetite",
+        "summary": "",
+        "source": "شبكة تواصل الإخبارية",
+        "published": "10/26 20:39",
+        "published_ts": 1793014765.0,
+        "tag": "Fed",
+        "first_seen": 1793016043.2824006
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZjh1X0Z1X2JoMUJjeUxwWFU2Z2RzWXhyLVZZVUU5WEF0bHh1NTFuZEVYUmVuRFBGX19qczRFYlllWWhmdHlscjhCanUxVVBOVVA5a01DN0psanVtSnZRVklWNVJtQ2NfYXU5SEw1REl5M2VMV29ZVUNyN3NPWHVwak5RRm5RbmlzYVJ6a2xCb3ZxSC1xeVZ2WEROM2VBYlFUY0xXX1pnWXQzcWRjMkdDYlYtWmQ?oc=5",
         "headline": "Is Money for AI Data Centers Drying Up? Here’s Who Could Come Out on Top.",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "10/26 16:01",
         "published_ts": 1792998060.0,
         "tag": "Global",
-        "first_seen": 1792998924.8985858
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBNc2NNaE51bnBhbEVNV0Y5cktFd1ZCRlQ0a2lVdHRjV2RuU19URUIyMV94LWEyZVNBemlPUzJQUGMxRU9jZHlBRFNDY1U4eEJKTjdBNmhvYTQxeHkwbWQ2UHpOSTRLcW5i0gFuQVVfeXFMUGsyeVpWOU9WRV8wSlFaYlR1a21HVFZXRGdkYmxkaXFsYTU2ZU5zRjZjVnR2ZFVXak5fQTlMa2NLcllyVXdBMEwxSHVNdzJaQURXZ2tBWUtkQ05oRGFCM3JUQTJtWk1KTjcyU3l4TkE?oc=5",
-        "headline": "미국·유럽·일본 금리 수퍼위크…동결 전망 속 누가 '매의 날개' 펼까",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "10/26 15:57",
-        "published_ts": 1792997839.0,
-        "tag": "JGB",
-        "first_seen": 1792998924.8985858
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAyUHlfNzU4MHhNbEJfVXZmQWZTY1NUcUpmOUxyNS14NDYxU01Jb2RpYm1ZT0Z0cGRiODZiR0ZHdW9PR2hpS2xKaFBtbWhFMVE5SXd0QklEdnBnSDFZSWtySWxGUGVrN2VlRUpRVHlReFhKdw?oc=5",
-        "headline": "[도쿄증시-마감] 닛케이, AI·반도체株 약세에 3거래일 연속 62,000선",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/26 15:47",
-        "published_ts": 1792997259.0,
-        "tag": "JGB",
         "first_seen": 1792998924.8985858
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-26 20:45:51",
+  "updated_at": "2026-10-26 21:01:08",
   "yields": [
     {
       "label": "3년",
