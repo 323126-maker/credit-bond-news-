@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95LUFhU3pFaU1vUDJnazBPZElwZEZQTXFDRXZYNndwQnBuZVdXQWNLRDNIU1NkUXl5R1duWjBYUlk5dlZmQUswaEs2MVRMVWp3c1J3ZkpfN0ZuQQ?oc=5",
+        "headline": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 요것만]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/27 23:26",
+        "published_ts": 1793111213.0,
+        "tag": null,
+        "first_seen": 1793111436.7626827
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50MDZQeWZlUXBxM1B6QUVwamRZUXJ1N3I2c2o5czNPRUZGOUZnbEwwQVYyTjdUWnUxeTNyS21KSzNjZzdfdm9TYzFWWmFobGFWU3Frbk5rdUpROVlyZFFtRXpQRklhMFJNMUlLUWNnUWw?oc=5",
+        "headline": "美 국채가 강세…이란 최고지도자 종전 의지에 유가 하락",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/27 23:03",
+        "published_ts": 1793109819.0,
+        "tag": null,
+        "first_seen": 1793111436.7626827
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tOGl0eWdzeUE5YjNJYmhzN1JDVEVTQUp2TWZueXFsOXhoYjJWSmk1c05ERW9NV2tnRFlHbnhpckxkS2lDYU9vQ2xRZ1JPaXZhTXVzWGtOR0dJVV83MHU4RGRDc3ZfMVhqS3dqUlhvYmg?oc=5",
         "headline": "달러-원, 뉴욕장서 1,320원 후반대 거래",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793058040.0,
         "tag": null,
         "first_seen": 1793058326.0485857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SR0NzdkFLV2R0dl9jeHNrNGVTRHpHelU3ajUtbUxaQUMxZmxVX1hFOFFQbThEMFk3blhaQVMzU0JLdTlEVnJBWEVKZkZqNGoxdVY0QnlYN25FSTBEc0V4OFdSVmtqNFlm0gFsQVVfeXFMTlJrMHpRdklxc3pVRl9ZMnBFQmd6UFoybDVJN1NwNGdleEJqZHdDbHVwbTh0Ymw5ZGwwU01UOE4xZExyX1UtVDBOR2tVeG9mbWZrM3Z0Qjh4dW5EZ3E0aTdwdVFwbnhZV3JwUGp1?oc=5",
-        "headline": "[허정수칼럼] 전문가도 당한 해외 리츠 투자",
-        "summary": "",
-        "source": "블로터",
-        "published": "10/27 08:30",
-        "published_ts": 1793057400.0,
-        "tag": null,
-        "first_seen": 1793058326.0485857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBlTkpjVzJ1U05QUmNCMldxZTFZOXduX2g1eDJNMTFnY29SbWpaLXlMcTVYVU5DRW81R292dDdjNlJDNkI2MlE4ZkJ6TzY0VVpJTlpqbG4xZ3kxRTh5OXRnYVR4T2RfUk5sVGJ4ajZqaWFOcWxa?oc=5",
-        "headline": "국채선물, 거래 부진 속 하락…10년물 21틱↓ |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/27 08:17",
-        "published_ts": 1793056636.0,
-        "tag": null,
-        "first_seen": 1793075432.4553106
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUFQ1MnctOG1CNDhGdTRQRkhJNHFzVEJqb25IeWNuc0lqaDdhTW5jYWhMdVBEcnZxVGQ2bXBWQ2VDTVp0LU9mNUFlNVdoa3BFUzhKeGd1aFJBbmJSVEhDZlhxeGVSTHFVaDBVT1FncjBZd3ZhdGduclBDWTdacmVVMGxBRVhBNWFkN0RYTEdlaFJ0R2oyS3hFT1pPTVdmVTZQd0tZRUVYQ0drSjZMQmNkZUlSQQ?oc=5",
+        "headline": "What to expect from the Federal Reserve's next rate decision",
+        "summary": "",
+        "source": "Euronews.com",
+        "published": "10/27 23:23",
+        "published_ts": 1793111010.0,
+        "tag": "Fed",
+        "first_seen": 1793111436.7626827
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLS1nRjZSSG05QS1BV3dnbGI2a1A0Ry1ESTZJQ3FtTF9hTWZMSEg1N3plZkdSNkF2aHotdmZVQWRFRGRHQUpiTDUwLXh6WDJwOWNoTHV6R3MzTVBkejBublVNUFZ6NjBuQU5XY1FGdWVYdV9SM1BHb2U2a2d2cTJGTGJweUlDLTJvM3lSZVJOV28zTmtRdFJ0VFgza3J0UE9Qc1E?oc=5",
         "headline": "AI Is Pushing Corporate Bond Sales to an All-Time Record",
         "summary": "",
@@ -1650,6 +1660,16 @@
         "first_seen": 1793107835.7823472
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ERnhLb0F0b1h4YlZRS3JZTTd0Z0hrRC1uN0x3Vld6QU9lWFhtX01ETzRNTFdDczI4VFFMaERyY2FIcERkNjFNTy0tTmRGMTNwYWtUb24xTERyRWZ6RC1HdVdVNVhVV2Vwa25hbDJpd05oekE?oc=5",
+        "headline": "XRP, 일본은행 회의 앞두고 시험대…1.26달러 지킬까",
+        "summary": "",
+        "source": "디지털투데이",
+        "published": "10/27 21:15",
+        "published_ts": 1793103300.0,
+        "tag": "JGB",
+        "first_seen": 1793111436.7626827
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBEOE9BX0VXaWkxdEtuWVZDTks0NURLSW05c0VxeEVCZmkycUMxLTR5V0dGRDJKX2JRRUhhZVNtaHFuUjNiblN0U1ZXY1VkTnczVlV2eWg0V3A0RGNqMWtoaUNIOGhzcFgyYUhDWUtmcTFqZDlMZzdCVndpWk42UQ?oc=5",
         "headline": "Bending Spoons Seeks $1.5 Billion in Debt to Fund Acquisitions",
         "summary": "",
@@ -1658,6 +1678,16 @@
         "published_ts": 1793102489.0,
         "tag": "Strategist",
         "first_seen": 1793108725.0736573
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSDRBVUVtOHhWbjltVWE2UFlDVVFfdkFVazdOVTBIQ0VuMllXYlN2LUNsX2tYdGtmZ3NJS2pqV2psX2lIM0FKMFNqVlY4ei1YOFlBVkluLXAtZ3VXVl9IdGQ0YmhrY0FMdG9VTHN3TkNtWnFpanZaTWdRcUZZQ0pBMmFKc0FhQ2I3ZmlUUHF0V0ZTWDZJS2d3UHAwaHQzY3pKWE9IYkc2bW5vVWtwdmxGTXZpMG5Yai1yaFIzdmpGdi1KdU55azY2T0dB?oc=5",
+        "headline": "Euro extends losing streak against US Dollar, Fed-ECB policy eyed",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "10/27 20:42",
+        "published_ts": 1793101356.0,
+        "tag": "Fed",
+        "first_seen": 1793111436.7626827
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbU5hNHFDMW95bzV3YmJZci1mVmNTenRycTRUb0JBN2NOQzltRF8tVWpIOFZlTUFXYXpyVDRyZ2ZoTFJlV21zVHRrLWhzSkg1azhkenZ3SUxHS2FWejh6YjBaYWZCWGtza0t4SmMwbjQxV2RBOC1rMlF4WnZmTVdxUkcwYVAzeTVpWkZTbnB2bS10dmhmSVpLRHN3ZjZQUWFQTzJ2Zm94eFduRnlpSl9SdGphcGNyZ9IBtgFBVV95cUxNbU5hNHFDMW95bzV3YmJZci1mVmNTenRycTRUb0JBN2NOQzltRF8tVWpIOFZlTUFXYXpyVDRyZ2ZoTFJlV21zVHRrLWhzSkg1azhkenZ3SUxHS2FWejh6YjBaYWZCWGtza0t4SmMwbjQxV2RBOC1rMlF4WnZmTVdxUkcwYVAzeTVpWkZTbnB2bS10dmhmSVpLRHN3ZjZQUWFQTzJ2Zm94eFduRnlpSl9SdGphcGNyZw?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793082125.0,
         "tag": "JGB",
         "first_seen": 1793082633.3862426
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oTklRQVQxSkQzT0RNc3phdVNDMTdjUFhZQTBocHhyT2dMcHBoeG5FazRxTEdBODN3MEdZYkdKZTdvSXAzUm9PS3VTYkhYYWJmYVZaczlwLU5BSzd0WVdwY2Uza0VWb3J0UDg0LWpFdnJYZ2NlVGtiXzd3?oc=5",
-        "headline": "FIIG sees rate cuts emerging in 2027",
-        "summary": "",
-        "source": "InvestorDaily",
-        "published": "10/27 15:17",
-        "published_ts": 1793081877.0,
-        "tag": "Global",
-        "first_seen": 1793082633.3862426
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-        "headline": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "10/27 15:03",
-        "published_ts": 1793081019.0,
-        "tag": "Global",
-        "first_seen": 1793095240.6744676
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXRQNEpCQVlSSmRqekFZam5aT2t5TVJyNlhOUnhPUlpxUnAzRUloQmlWaGtCWFFMYVhxcUo4Uk1aY3RCUDczRXd6Vnk1ZWl0WDNCRGxmU1pNZnRZVW9xcGZQQ25qLVZVOGNDcXlTdHNyNkJYZFBuNk0xSURPcFh6eW40WVhwNlU0TUU1Q2E1QjdMN2Vac1NCVkNCM3p0RHd6RDk3YkRTdTV2REJlR1N5U0hocV9YRzFwYW9KWE1QZG0yVVNvRmVxVQ?oc=5",
-        "headline": "In High Yield, Shorter May Be Smarter",
-        "summary": "",
-        "source": "AllianceBernstein",
-        "published": "10/27 14:56",
-        "published_ts": 1793080582.0,
-        "tag": "Global",
-        "first_seen": 1793089835.496364
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 23:15:53",
+  "updated_at": "2026-10-27 23:30:58",
   "yields": [
     {
       "label": "3년",
