@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPY0F6a0c5cVF2Z2tYMEM0ZFlXNGhjVTRrVWt4WjFBWFI1WFpDTjRuTG5CRWNkZzZscHhzWk0yVGVxNElXN0l4Q1NpSVFBWDlYZ3RtbnNqUGo3N2JWSXppZmRfdDR3aGZzMWZpOTdVSFUwVG1oR0ZzRFpsWnYxX0tSUFYxb0RxX3M1MlZRMV9NUDU2V3p3VjVxam5wSlVOSS1LZWpnQmYzV3RDdFJfTmpONXhNOHR1dVZ4UHk5dzVhMTNaY2VwM2RhQV92ZGg2Z2EwTTlEZXFBR29JT0NOX2lhSlg1SE8wRGdUSkEzV05HLTRrN245emRabEFla3lMZ3ZveUhLUmM3MXY2MG5Q?oc=5",
+        "headline": "Fed likely to wait on another rate hike as inflation pressures mount",
+        "summary": "",
+        "source": "KCBY",
+        "published": "10/28 02:22",
+        "published_ts": 1793121720.0,
+        "tag": "Fed",
+        "first_seen": 1793122238.1933534
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUGMwQ3Z0WE5Mb0tuUHVTMlFuV3NYbHpDeDhESWVOVWZDcnJ1OC1ib1ZzSG1UamU4bGFBcG5LZlhQMW55SEpmRml4MDF2c3pQQWppU2xLTUVLY2FxTnFJOW1PTTZIelpJQzh6Z2lTNA?oc=5",
         "headline": "JPMorgan CEO, 미국 주식·채권 5대 리스크 경고",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793086740.0,
         "tag": "Fed",
         "first_seen": 1793087126.3571572
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5IaW9iRkNXclB4X3FVSG9PVWh2eXBabVl1MmFaRGd6eGFhdm04ZWpER1BGYWFNaVhRN0xORW5MLWF2VVlBOWxDN29nNXF4b0l4ZWZXQm9aY2xvUjZNekVKdHFn?oc=5",
-        "headline": "USU49436AF2 Bond Yield and Price — FWB:USU49436AF2",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/27 16:24",
-        "published_ts": 1793085855.0,
-        "tag": "Global",
-        "first_seen": 1793093432.185076
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 02:15:58",
+  "updated_at": "2026-10-28 02:31:03",
   "yields": [
     {
       "label": "3년",
