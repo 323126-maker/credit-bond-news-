@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uREtWWjNBOWtISEdQa2xodTJDbURUV2FaeHNCamljTmtZREJCSmVESmRETmVncVZES3h1a09QZFlBbktXVDMzZmplYXVnX21hNTFRS2VrQ1ZTN2Q2a1VLalcyTmQ3X2FubW9xa09TVW0?oc=5",
+        "headline": "S&P, 재무 건전성 유지한 Boyd Gaming 신용등급 전망 ’긍정적’으로 상향",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "10/27 23:42",
+        "published_ts": 1793112120.0,
+        "tag": null,
+        "first_seen": 1793113244.611698
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95LUFhU3pFaU1vUDJnazBPZElwZEZQTXFDRXZYNndwQnBuZVdXQWNLRDNIU1NkUXl5R1duWjBYUlk5dlZmQUswaEs2MVRMVWp3c1J3ZkpfN0ZuQQ?oc=5",
         "headline": "\"팔란티어 지금 사라\"…\"국채보다 단기 우량 회사채\"[박신영의 개장전 요것만]",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1793111213.0,
         "tag": null,
         "first_seen": 1793111436.7626827
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpyVVVKb3N4NER5NWFqcm1EOHdMb3lBNGhqa085dHc3STk3cTVIM0ZMcXptMUMycnlmbzRObzFaSHBmR21QYlhIRE1RTGdPalE3V1dEdHYxb2pBMGtLcm9CSWJmRENvMExFQ3FzNmJDOFVGeEZSSTBuSV9tX1NGdFpiSjZib1ZlUU9TaG13?oc=5",
+        "headline": "테크콤뱅크가 피치로부터 신용등급 상향 조정을 받아 재무 상태가 강화되었습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/27 23:20",
+        "published_ts": 1793110857.0,
+        "tag": null,
+        "first_seen": 1793113244.611698
       },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50MDZQeWZlUXBxM1B6QUVwamRZUXJ1N3I2c2o5czNPRUZGOUZnbEwwQVYyTjdUWnUxeTNyS21KSzNjZzdfdm9TYzFWWmFobGFWU3Frbk5rdUpROVlyZFFtRXpQRklhMFJNMUlLUWNnUWw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1793061600.0,
         "tag": null,
         "first_seen": 1793067327.0206554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KMzRRNVRwd2tzWWZQLTd6X2NVbTFLLXlYX2FrNHVEU2FyUUpsUjJrNktLS2VqOXczRXF2MmZraTYyUVp0TzdlQzFDOGxaY2hJUm5mNjFYOE14X29lNXY4TDFrYmNzRHRNa09UYjhkMGtoUQ?oc=5",
-        "headline": "外人 국채선물 왜 사나…\"AI 트레이드 피로에 성장 둔화 헤지\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/27 08:43",
-        "published_ts": 1793058215.0,
-        "tag": null,
-        "first_seen": 1793081726.88155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNRm1fU2JleC1RMm9hMGVtTTAzNERWeEI0amVMWHRLZGdsOEV5b0xOdjZGM3dvSEdMQVVQaEkwb0R1TWZQREI1RHI5MA?oc=5",
-        "headline": "AI 투자에 美 회사채 발행 역대 최대...올해 1.76조 달러",
-        "summary": "",
-        "source": "아이뉴스24",
-        "published": "10/27 08:40",
-        "published_ts": 1793058040.0,
-        "tag": null,
-        "first_seen": 1793058326.0485857
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 23:45:54",
+  "updated_at": "2026-10-28 00:01:11",
   "yields": [
     {
       "label": "3년",
