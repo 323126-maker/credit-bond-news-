@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE8tOGl0eWdzeUE5YjNJYmhzN1JDVEVTQUp2TWZueXFsOXhoYjJWSmk1c05ERW9NV2tnRFlHbnhpckxkS2lDYU9vQ2xRZ1JPaXZhTXVzWGtOR0dJVV83MHU4RGRDc3ZfMVhqS3dqUlhvYmg?oc=5",
+        "headline": "달러-원, 뉴욕장서 1,320원 후반대 거래",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/27 22:57",
+        "published_ts": 1793109477.0,
+        "tag": null,
+        "first_seen": 1793110529.5007522
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWUVhWXJiRGJtQXZZNS0xX0tQbktPRnlLYWdmTlhBLS12TFZSSFdfSW45RUJVbm00WjRubmJyNW9FNFpLM0R1MDE1cmNjdHdxbWJ0N18tTlJNc3hqemo2UzVBOUdDZFZiaEZFX052cGFrRWlQTkVMaEZPTXhvMVZkNjAzN29CVFFJZUVqTWZJV0dOckdKZ1hnUUJhMVpaa1JBbVJRMncxdm8zRUZxQlR4RDMwZzRXbkJ6Mk1WbFhoYzE4UXh5dFBYMUlOcF9sUUE2d1JfWGVGaHdmRWtOekRXMVpUUmlBbWxwa2VYQXhVVEc3azlGWk9ieWdacm9ZTWFKcU9ZUV85Z3VNRUswenduNElmTWVDNEtNWWxzOG5FdWU3c3JWY3dmTjRJU1haTDRUdGpaTW13QWZGTlNfYVpqUmV3?oc=5",
+        "headline": "중앙일보, 부도 넉 달 전 홍정도 지주사에 대여금 늘려…480억 회생절차에 묶여",
+        "summary": "",
+        "source": "뉴스필드",
+        "published": "10/27 21:44",
+        "published_ts": 1793105060.0,
+        "tag": null,
+        "first_seen": 1793110529.5007522
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5iSWxWQ3F4RTdsM28tZ2RMRFZWd3dUZU14eGtLRVIzQTBYdDkwWFQ4TDBudTctSTVfTzMzNmh1XzVMM2kwS3RMR2xic0FMMkk1Mm5oelRvaDhxY3VUdUE?oc=5",
         "headline": "\"일생일대 투자 기회\"…수익률 미국 국채 넘어선 회사채 '쩐의 전쟁' [지금이뉴스]",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793056636.0,
         "tag": null,
         "first_seen": 1793075432.4553106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBwLUgzdXVOcEFXSGZWZE9QbDlmWkVleDdLemVZUzduRnhPWEloS2hULV9YazZVa1Rha01fWGVvVGFRZG4xMjd3eFp0SkRjY3dKNXJ2SGdzVEVzM3hHQTBjV3dCUFdTUDlvYy14cGp2a2U3d9IBckFVX3lxTFBwLUgzdXVOcEFXSGZWZE9QbDlmWkVleDdLemVZUzduRnhPWEloS2hULV9YazZVa1Rha01fWGVvVGFRZG4xMjd3eFp0SkRjY3dKNXJ2SGdzVEVzM3hHQTBjV3dCUFdTUDlvYy14cGp2a2U3dw?oc=5",
-        "headline": "KB국민은행 해킹 피해 119명→2210명…유출 항목 17개→39개",
-        "summary": "",
-        "source": "시티타임스 CityTimes",
-        "published": "10/27 08:03",
-        "published_ts": 1793055806.0,
-        "tag": null,
-        "first_seen": 1793061924.6950777
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1OeHY2cXdiQWx3VHFxRDlDTExsUzlDTGxIZmFnZVJhOFhGTWtYcEZFS2tqaTgxcTVMT2d6TFk4cXY5eWxFa0xjbWY2b2FMQ1l5M3hBZA?oc=5",
-        "headline": "빅테크 AI 차입 러시⋯美 우량 회사채 발행 1조7600억달러 ‘사상 최대’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/27 07:55",
-        "published_ts": 1793055300.0,
-        "tag": null,
-        "first_seen": 1793070926.3299656
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 23:01:04",
+  "updated_at": "2026-10-27 23:15:53",
   "yields": [
     {
       "label": "3년",
