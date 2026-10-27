@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JWHRqYmNZZ1N6eU05Z1VsSEZxOUQwRWFyN1hHcXpsQW5aRmdZa3BRTnJmSEYtQVhIVmZrYkZkUkN6X3pUUkpBb3c1QzlpOHBwUDdsbWpSLXNCVGlrT0hyd09TaS1rZHlKaVdoZHVxQ2zSAXRBVV95cUxPTFk5d2xxZ3J3T01qdmxQUm1ZOGszOVcyUGR2MXI2aTdtXzB4bHBEM2w4UkJtSi1GaEdSQnpkOUFCeUpoR1c4TFNDMU12S3A4WnFscldrTVlBaHFmeldUb3VKb2Y5UG8xa1BPazVfSGNTektSaA?oc=5",
+        "headline": "IRS 금리 5년물 중심으로 하락…外人 오퍼에 현물보다 강세",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/27 18:48",
+        "published_ts": 1793094500.0,
+        "tag": null,
+        "first_seen": 1793095240.6744676
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBsRlphbk04cnZ2a1Z0UmJLenFOMkd0RS1ONTFmOXdKOVYzM2licXREelh5MGdrd2VIY25Ea3djOXhQTWpMa3FOMFNNbS1xNkl4NEZUNEFTaHI3Zw?oc=5",
+        "headline": "곳간 털어 무상급식 강행하더니… 포퓰리즘 역풍 맞은 인니",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "10/27 18:44",
+        "published_ts": 1793094246.0,
+        "tag": null,
+        "first_seen": 1793095240.6744676
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CUWQ3ZVJRTmNmVkJlYWFvLW5mQWZ0QUxDNkhTY3RMeXJwR3I4MmRvZjJQbW96YzM5NzR0Tk9Weml2dUxpVk96Q0pmOUYzTXlxMzhzb1FFR19URmpkVWUyOHk3UVc4a1Vpd3NtVFJGSDA?oc=5",
         "headline": "[외환-마감] 팽팽한 수급에 1,320원 초중반대 횡보…0.60원↑",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793048400.0,
         "tag": null,
         "first_seen": 1793053833.6526718
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aaU9ITVVGeXMwSS1yWVNhbjdHdk9HNThWOUJlRzhiMDVVSFdUcUZWNGptQ2swMU1nWDVzYzlTaEppN3RzUVJOOVM1MTVBX01FaElUaGdkdDNUZ3BwVkRoWXU0bnZleTdFa2c?oc=5",
-        "headline": "9월 기업 직접금융 조달 75% 증가…금리 안정세 속 회사채·단기자금 쏠림",
-        "summary": "",
-        "source": "www.intn.co.kr",
-        "published": "10/27 06:00",
-        "published_ts": 1793048400.0,
-        "tag": null,
-        "first_seen": 1793051130.7806616
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4S1ZPaWREcnJJaDdXTjhxMGtwZVRabGxHVkEwWjFCN2JDczlXWVFVWEl4T1V0bVItelg1SFo1M2NRZ0hMYlVMaFFkN25PbGVsekNmUmJDS09vaVFBNUJJRWxoWURNLXRJZ1NKNWRjSC0?oc=5",
-        "headline": "S&P, 시놉시스 신용등급 ’BBB+’로 상향…AI 수요 수혜 기대",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/27 04:56",
-        "published_ts": 1793044560.0,
-        "tag": null,
-        "first_seen": 1793047525.2072852
       }
     ],
     "perpetual": [
@@ -1810,6 +1810,16 @@
         "first_seen": 1793082633.3862426
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
+        "headline": "Federal debt tops $40 trillion. Here's what it means for your wallet",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "10/27 15:03",
+        "published_ts": 1793081019.0,
+        "tag": "Global",
+        "first_seen": 1793095240.6744676
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeXRQNEpCQVlSSmRqekFZam5aT2t5TVJyNlhOUnhPUlpxUnAzRUloQmlWaGtCWFFMYVhxcUo4Uk1aY3RCUDczRXd6Vnk1ZWl0WDNCRGxmU1pNZnRZVW9xcGZQQ25qLVZVOGNDcXlTdHNyNkJYZFBuNk0xSURPcFh6eW40WVhwNlU0TUU1Q2E1QjdMN2Vac1NCVkNCM3p0RHd6RDk3YkRTdTV2REJlR1N5U0hocV9YRzFwYW9KWE1QZG0yVVNvRmVxVQ?oc=5",
         "headline": "In High Yield, Shorter May Be Smarter",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793070300.0,
         "tag": "Global",
         "first_seen": 1793070926.3299656
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPV25OM3NMU1BPTmVlRzJDY2VfckZLSXp6ckVsQTlQWUxidF9mand5TmlaZEMwamtSNGstVEdCZ3JrVmppZl9sSWlLSkstSm9Pc21mcV9PR2o4a3BPZTJGRE1sU3d4VVVNb05DNWpjZWlPYW5fWkg3T1g5TUZKQUJMOThfOF9pZw?oc=5",
-        "headline": "Fed expected to hold rates as investors brace for more hikes",
-        "summary": "",
-        "source": "Finance & Commerce",
-        "published": "10/27 11:51",
-        "published_ts": 1793069479.0,
-        "tag": "Fed",
-        "first_seen": 1793073640.430942
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 18:45:47",
+  "updated_at": "2026-10-27 19:01:13",
   "yields": [
     {
       "label": "3년",
