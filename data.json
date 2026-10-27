@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4YjlORnN6Z2t0Tll0RUJsaFotQm5mbWdrY3I2RllmaC11RlRKUnNhanBCek1jbkVjQjd3MWRzWHA4VFppRkd0bFV1YjZaY0dCMVBUbEtpeWtQVWVO?oc=5",
+        "headline": "[글로벌 특징주] HSBC·SC·DBS 실적 시즌 개막…금리 상승·인플레에 수익성 '빨간불'",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/27 09:46",
+        "published_ts": 1793061960.0,
+        "tag": "JGB",
+        "first_seen": 1793062240.7662125
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5lazBZTzczLVVFUjgxa2lRN2Y3RVRtbTZjLV81OVBJS2I0UnBGTXVtNENUeDVDT3pNLUxwcWQ3SFFha2hGY3FkdnlHQ2hNeVN6clBQTnMtOFc2YzZiTW9fWFBnRmNITFdSYld0XzVjQ2hOMEhTVGc?oc=5",
         "headline": "On the Eve of the Fed Decision: Moody's Economist Says the Bond Market Has Done the Work, Further Tightening Could Ground the Economy",
         "summary": "",
@@ -1950,6 +1960,16 @@
         "first_seen": 1793051130.7806616
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "10/27 01:40",
+        "published_ts": 1793032811.0,
+        "tag": "JGB",
+        "first_seen": 1793062240.7662125
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE02RmEyemxCRlZXQ2lXcVV6Nl9KUFRrRjNfb3MwUG56T01jNFBjZlJ3RDFsWmtHYzdrbDlIR1kwQlBRUmQ3NkdtWnhVUmw1NVV4U3E4OFBNNTM5R1lSWWdUWDBWY1MyaVBP?oc=5",
         "headline": "US: 6-Month Bill Auction",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793032044.0,
         "tag": "Global",
         "first_seen": 1793038528.0567336
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb0w5d2NUbzFTd1JRVkI5YlZnY1ZQVmNDQndsOUhwWUI4aGUtYnhuRUdYZlhjQmhQMmVpQVlBNDEyRTFmSGFHdTNZQkpxZUxIcmx6Si13SEo5VWVmQlE1LXY1aGhad2M5VFNXLW9JemEtcEd6bWdJcVc2M1hHSno3ZWV0NEt0VE5VRmZ0UENjNXQtTTdFY05maQ?oc=5",
-        "headline": "Higher Yields, Historic Flows, Solid Credit",
-        "summary": "",
-        "source": "VanEck",
-        "published": "10/27 01:25",
-        "published_ts": 1793031938.0,
-        "tag": "Global",
-        "first_seen": 1793035834.761554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLUdVT3hWM0wtb3lsUDVsaHM0TkxDTExMWDRsTWhtemJEc0JUemlFVGpVUzdQT0NhVjJiMU5RRUlrRzZ2SUpTZTNfemxPVGZXMDJUYWRUVHNSN1pHUWdVbFJZVGJTal91ckQ3WGRmQ0lWZ0ZzNGJFTEZON2tJa0VkS1JzeV9WcUpCUGdoN2R1UVVxck5LSlIyVnFPcm5aV2c?oc=5",
-        "headline": "Portfolio managers expect spike in defaults, wider spreads",
-        "summary": "",
-        "source": "Asset Securitization Report",
-        "published": "10/27 01:11",
-        "published_ts": 1793031060.0,
-        "tag": "Global",
-        "first_seen": 1793032234.0567982
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 09:45:49",
+  "updated_at": "2026-10-27 09:51:05",
   "yields": [
     {
       "label": "3년",
