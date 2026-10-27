@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBrNExPME55Nm54Y0lsa0drcmlPTHBaTmwxcXRZeW9maWpWdk9qS1hhQ0F6WXRRbXZIUC1YNG5CV0lzLS1Qa1d4MzU1aW50S0FzS0ZDUzRNUmZIUzBJd3FYSk1PMnNoclFRMVVR?oc=5",
+        "headline": "KB국민은행 인니법인, 달러 채권 발행 연기…MSCI 강등 우려",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/28 05:31",
+        "published_ts": 1793133060.0,
+        "tag": null,
+        "first_seen": 1793134841.692621
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE53YXAyZGFnUm85Z1pfVVAzNzNodUJBbjYxc2NQbUE5ZXRkcUNCSEhHTnNkRVZTUzAzdE5rTDhEOWsySWlscEoyWDZmaHBYczdxMk9wQmpXMWtYMTJTR3lhR190MnR3NzBkTUd1QU10VmVSZw?oc=5",
         "headline": "[뉴욕채권] 국채가 약보합…유가 하락 vs 美 지표 호조·FOMC 경계감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793076780.0,
         "tag": null,
         "first_seen": 1793078127.7231953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1qY3Judk1wVVFfazFXXy0tamVvNTNNeUdMUDluUnJZaUJOSEFiNjQ5QUVnSGxYV1drYlAyX21pUXluOEotekZ6dEQxMzFmNDA2SDBfb1VEQm9kcjlydGtGNExaaTNsNE0xel9j?oc=5",
-        "headline": "우리투자증권 등급 상향, 1조 수혈 넘을 독자 수익력에 달렸다",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/27 13:39",
-        "published_ts": 1793075940.0,
-        "tag": null,
-        "first_seen": 1793077238.1746683
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxON0R6M0ZfMGE3NGhuOS0yOHkwWDB4bm94YzBFY3FtUkVWYzg2ZHBwMEQyaFk0Tm9yVzZsUDhucFgtV2Z5dmdhNjYzZHNBTUhIcDRXUEhVaVpCY3RpSUpWMTdDanh5LW9tck05Sk9uaXI5S2NqbmZpU3BRaGhtVS1LWnpyU040ZTFKTDJPRm5hMTZSOVlBMlJqM2pRemdybnNxb2NCY0tmbVN3Nm5hNFpCM1lTNDdPMmMzWXg1b1Fwc1BzeW1BNHNtV21Jc2wxcVh6NC1ydElVOGpUcTlaTld6TGg2VFdoUQ?oc=5",
+        "headline": "Markets Have Already Priced in a Fed Rate Hold This Week. The Real Volatility Starts When Kevin Warsh Speaks.",
+        "summary": "",
+        "source": "Barchart.com",
+        "published": "10/28 05:51",
+        "published_ts": 1793134316.0,
+        "tag": "Fed",
+        "first_seen": 1793134841.692621
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fVlowSGVoc2prWGh2UVZmcW1Kbkg5aWlBV1ZnVkxYc2lxWHJ2VnNucE5zOXhVdWItUUhJQ1lBNGhSaU1CeGhzWWFiZGdza0VkUEl6VEFRLWdzblE0VFkxR3U5QmRuTEE?oc=5",
         "headline": "日 물가 상승 압력에 금리인상론 확산…미·일 통화정책에 글로벌 금융시장 촉각",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "The New York Times",
         "published": "10/27 18:03",
         "published_ts": 1793091827.0,
-        "tag": "Fed",
-        "first_seen": 1793092528.034074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOM0lwSlFXRjJ0TnJZZy00OTRjT1BCSUNYQmVycjhXemxTX0gzWjJMY2xDb2VnblRtbGRsMlQzWHJXWGJKdW9QbGprQ1VyZEZ1SmMxWDdqSXFnMmpXMUVIRVhnYks1Ml9OUTllc2tlN01EZ0Q3REZLVW5hTVV2Wno3eTl1MzhqRXpKeW1tdF9BeGhjV1BycmpFNF84TDVZaExsOEhEbU9aZw?oc=5",
-        "headline": "Fed Expected To Leave Interest Rates Unchanged With Midterms 1 Week Away",
-        "summary": "",
-        "source": "Realtor.com",
-        "published": "10/27 18:00",
-        "published_ts": 1793091600.0,
         "tag": "Fed",
         "first_seen": 1793092528.034074
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 05:45:50",
+  "updated_at": "2026-10-28 06:01:03",
   "yields": [
     {
       "label": "3년",
