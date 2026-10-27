@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQaHBXWUNVQ0ZmTnlKUE9MaTVpU3o1OGFUMGJVZnpYTlRieEpmNEN2Q29RZlgwWkgwWWYwZW5iZmxnMWJWaGFoc25nalpKeEJRQ2NlSjJMLTFXVy1DdUdTSjJtZ0VERkpUZXZxemNpWGxsN2Y3RWM4bm16ZTB0T2tqLWtQejJZdlJxSDV3dkdtc1NrcFJKbzM2N3ZiTmFkMVdUeTkwVUtuS1BMa0VHcGZnd254VnBsc2ZaRUN6YlZ5aHNnTWZkbHkzcTc4aVVxUGpwRkZwREdPY0Q3WTRsa1BZMlBxTWdjWFJ1ZEw3NFhjVFllS0RBaE1j?oc=5",
+        "headline": "Oracle Bonds Are Sliding as AI Debt Worries Grow. At 62, She Discovers the \"Safe\" Side of Her 401(k) Can Lose Money Too",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/27 20:09",
+        "published_ts": 1793099362.0,
+        "tag": "Global",
+        "first_seen": 1793099725.155997
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbXlNdmwxb0VMVlJoVzEteWlUWkNzcjREWXJLSFVLN0FoREJxVGtFa3J1cGlFVWdyajhRbENYUzBjczVwd2JWajU2aVVIR2FlN0NOMlY3LUtudlUtWFRDQ015R2dZdGM0cW1TeHJfZ21zaTlkRVJaeGN2djJYdkdaeFlQSEtyMFJHMDg3RlRxRm5seF9yeGFfQzJFcFpxSllMR0JsbFQwTnBkSm5Ldk1oUF9hQWFhMWtEZmdGYlRqUldjQ2xUeFZoOGdxVnBnSGtvcHA4bmFaSTVsdWRkN0paUHpycnV4Zw?oc=5",
         "headline": "The dollar is waiting for the Federal Reserve's decision Interest rates and bond yields shape its path",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "CNBC TV18",
         "published": "10/27 12:45",
         "published_ts": 1793072738.0,
-        "tag": "Global",
-        "first_seen": 1793073640.430942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa29TMjBOMWwwMjc4XzE3WERkSU9FMXFMc19EMl8taFBxXzQ0aFZZUUZ3TUFxaDVUajlkbkw4bk1wRk5md1cwZVVuSE1EUDJETExMV3hoa3c5aEFjeHpoZHFNVFJaWnAxbzdTYnpKajlsaVZLT3NsNmNBSFZETGw4Z0I2Sl96MGNRQ2NCd0xrQVg2SDlmeENXeV9TQUVJcTZpVjVmV0pTMERtQ2N2RUktOTdLVXRZa21GbTJLZmtzVV9FVmRrRmc?oc=5",
-        "headline": "Market Minute: Al stocks sell off, investors want results not spending, French bond markets",
-        "summary": "",
-        "source": "Morningstar Australia",
-        "published": "10/27 12:45",
-        "published_ts": 1793072700.0,
         "tag": "Global",
         "first_seen": 1793073640.430942
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 20:01:07",
+  "updated_at": "2026-10-27 20:15:45",
   "yields": [
     {
       "label": "3년",
