@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPLS1nRjZSSG05QS1BV3dnbGI2a1A0Ry1ESTZJQ3FtTF9hTWZMSEg1N3plZkdSNkF2aHotdmZVQWRFRGRHQUpiTDUwLXh6WDJwOWNoTHV6R3MzTVBkejBublVNUFZ6NjBuQU5XY1FGdWVYdV9SM1BHb2U2a2d2cTJGTGJweUlDLTJvM3lSZVJOV28zTmtRdFJ0VFgza3J0UE9Qc1E?oc=5",
+        "headline": "AI Is Pushing Corporate Bond Sales to an All-Time Record",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/27 21:53",
+        "published_ts": 1793105613.0,
+        "tag": "Strategist",
+        "first_seen": 1793106041.5753763
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQ0ZDaWVaaVp2MWRtckl0LWRqS2xMWFFVME0tbDRWQzNrMmIwbERfUTQtbW5vQXdkamNFS2lFek4yZF90R0J4angtdXFfSkRSandpa21CeHlmYzFXUlNYV0R4WnFNVkNsb2tPVXhSX0xVM3BTbkFCRFBKN3RhdE9Wc0w3NDBicWxGcDlqOGhDdU5MQUIweVYzaW5yTndpbEpxckJXdjVXRmFGWjQ4LWIwUzVaRVBDRmxPV2paNjB4dkE5LTg?oc=5",
         "headline": "Oppenheimer holds $150 CoreWeave target, sees bond selloff as overdone",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793079279.0,
         "tag": "Fed",
         "first_seen": 1793096132.2379062
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZmxvU2ZGbmg4UWh6MEFRSk5ocXlyUFlWUkNNWkZtMU9rYTNOWXp2RG4tNzMyekVXRDdURGJHVjQxdFBRVVl1ZEFadmtTVW41Sm5yNmpmU0ZZejVVbnNaWDdVdVFCYWJacU44MU00MVk2UzdGV2dWd2lXaEpMNUl0d0FwZ0hIVEVLcU80cnU1amVYODgzejc3OEs0UThzQlRUNHVHczNxUHp0UnFYMTFVdFJ5ZExSUVhlM1RYaDVVcEREZDE1ckxuZnVRamkyVzhQbVktSjA3bnJxQVpBYkJ1b2tOQ3lzUHRaTGFLZ085b09fYzNKWmJyZ1BVMXhYajZ0OHdvckhWdEJ4Vko3dEkweGJDZjhhUTA4WGFVbm9NbUZTX2tNR0t4VER2azNMY1da?oc=5",
-        "headline": "AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Louder. What Are the IMF, Ray Dalio and Wall Street Experts Seeing, and How Badly Could India Be Hit?",
-        "summary": "",
-        "source": "Inventiva",
-        "published": "10/27 14:22",
-        "published_ts": 1793078550.0,
-        "tag": "Strategist",
-        "first_seen": 1793085329.0665925
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-27 21:45:52",
+  "updated_at": "2026-10-27 22:01:07",
   "yields": [
     {
       "label": "3년",
@@ -2440,6 +2440,33 @@
         3.803,
         3.789,
         3.758
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 3.899,
+      "chg_bp": -3.3,
+      "series": [
+        4.345,
+        4.276,
+        4.203,
+        4.2,
+        4.129,
+        4.117,
+        4.134,
+        4.158,
+        4.101,
+        4.03,
+        4.047,
+        4.007,
+        3.988,
+        4.014,
+        3.99,
+        3.965,
+        3.983,
+        3.948,
+        3.932,
+        3.899
       ]
     },
     {
