@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9fVlowSGVoc2prWGh2UVZmcW1Kbkg5aWlBV1ZnVkxYc2lxWHJ2VnNucE5zOXhVdWItUUhJQ1lBNGhSaU1CeGhzWWFiZGdza0VkUEl6VEFRLWdzblE0VFkxR3U5QmRuTEE?oc=5",
+        "headline": "日 물가 상승 압력에 금리인상론 확산…미·일 통화정책에 글로벌 금융시장 촉각",
+        "summary": "",
+        "source": "지이코노미",
+        "published": "10/28 05:29",
+        "published_ts": 1793132961.0,
+        "tag": "JGB",
+        "first_seen": 1793133037.4129875
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmxYMWYwWlB4MmFvaXdNZ3hWRTQ0WDM4RU44emhwNTJ5a0JEQ0VFY05IbzlWQUQ0U2hKckFWbG5sOFotMDloeXViZ2hBU3FURzd3bjUydnRUVFNJZ0VyV3Y5SGxZbFFQWFQzSV9qbmI5ckRtM1I3a2ZmVi1PcDlhMU9yRXVGU0I0SmF5WjBZMTFEOUVWRzlQM20zcVN4ektxSFRkbktPaGR2UQ?oc=5",
         "headline": "Federal Reserve Chair Warsh Holds News Conference",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793091600.0,
         "tag": "Fed",
         "first_seen": 1793092528.034074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejJGUExoUmFJQzNVSlNZdjVZZGUyOHF5bVFDekZRQmVWb2M3cjdxeUYycXJWXzVreGF3V1RmSThtcWFzMExkcE5Nc3hsNFJadlYySVU2OFdBNllaNzlVWllVLWlmckhSN21kNll0bzdNYjUxalhrUFVrSHpIUEhRMm8zMjJnS2hKUTJzbkhHVGFZUnVzLXZPbC0weWkzUFpyY3FZOGhsNDk0aDRYQXF1eXdjZ1hiTFlYNjVJLW5wWWJYNkduVkJGUVlJTnJlcnByOVEzalA3T0xUdUlfX1lUVlAxbTVPenNiVWlmNklEQjVCYmxnb0xFVVpsUWJhOFV6ZnfSAYcCQVVfeXFMUDNud0xVaEhITFpDMjNqbEJ5TXktelEzSjN3TFFZZHhxbGRnS2tXU2d5VnNFZ0JJYlJNbjFfUGQxY3hRbkIyWllFbjFXbk1IMUNDa2FSVXlVaEU3OXZnM1ZMQmN5b3lOOTdrNm5aWE1pZGFMX1BXUjM1alBHN3lIc3k4Q1NUaWsxWUFpSXYwTzR3OFp0S25iZ3lJNVZ6aDBVeXNINjltZG1VM3hDaC1xLUJZSUROSUdkZ1JqR3drUURjbjJvZ1JyOUNqRC1zeDg5MWdLQW93RnNhRHFYZTBGTmpsS2RFVU95NzVfRGRQOXRjTi1wek1ndnIzMWwtMzZSZ21WVXVtcEU?oc=5",
-        "headline": "Global Market: Japan life insurers eye domestic bonds as foreign debt selling grows",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "10/27 17:53",
-        "published_ts": 1793091214.0,
-        "tag": "JGB",
-        "first_seen": 1793091643.730231
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 05:15:54",
+  "updated_at": "2026-10-28 05:31:01",
   "yields": [
     {
       "label": "3년",
