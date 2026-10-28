@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11LXROTGNDRjNfTG9EZkFLNTZYaGdOLWRFUzhENGJHdDM2d0xuMXBLa0pUNVFTdXhXSGEtWExEUVp4R1BMQ0ZNazZVcWlSdWp3Z2xOUEdkNHI5Y1lyb3RESHNEZ9IBaEFVX3lxTFA3ZGgtcDFMcnk4dm03UHpzUTZBMDFqb2tFa1NnaEN1QUtxdzlsNzI0WkdjWW1QT2x1TTg4WUxRSTlmOENBZkJKQzZrMXhEZHB5RTZJdHdDMGJmZTRQeVY2cU1TbDJqM2VL?oc=5",
+        "headline": "Looking for yield? This could be one of the best times in recent market history to buy corporate bonds",
+        "summary": "",
+        "source": "CNBC",
+        "published": "10/29 01:19",
+        "published_ts": 1793204369.0,
+        "tag": "Global",
+        "first_seen": 1793206847.9778743
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzR3bmdsbHV3c01KN3BacG9CVzloTjdjY2trY3hnRTBHM1U5eEE1T2FoeGNYRlZkRmVHMnE0UXlScVpqRjlvZVBZQjdGMkQybXRac3NaN1BwWDR3cjNiY2hSbmgtcGpZOFJhUnRtc0lodjZVSFFhWkZIUlk0TnJMbWc2VkFzZTVZTDNSY2RRRExuSkhYTTgzc2ZpOUlENmZvR1JNRzVn?oc=5",
         "headline": "Virtus Seix Investment Grade Q3 2026 Market Review And Outlook",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793175484.0,
         "tag": "Global",
         "first_seen": 1793178043.3600316
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPYVYyd21OTXRlajJtYjdlZXQzTGJCZElZVWNjdlVXb2RLeXJ2Z185Yi02Snc2cjltZUR5R3RjZTAzd0llOEZ2Nk5aN2pIYnFCNnVZTU15d3FGdUg4UGRwaEZmeGx6OU1MS20xOGJ1eUdWbm9sZHZMbmpibmNDX3U3SQ?oc=5",
-        "headline": "\"주식보다 대출이 돈 된다\"…닌텐도 지분 파는 日은행",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/28 17:16",
-        "published_ts": 1793175373.0,
-        "tag": "JGB",
-        "first_seen": 1793179834.9484892
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 01:46:03",
+  "updated_at": "2026-10-29 02:01:10",
   "yields": [
     {
       "label": "3년",
