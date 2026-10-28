@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZUE5cTNBVWQ1WEpBOWdaS0VraDIwUkVkRlFFNVc2d3FJYlVldGJub2pHUGtnbHA2LTdqUE84ZlJONzd0dGt5OEdsSlhCSEVCVXVfbHBXRVlQV0NSbEtMNUdjU0l6RHRCTnNlY0lnT3JnMHpaUi16bHN4T0d4X1hZNkpMdnlXbnN3ZkpncUxxZlFzUU1ZN0ZveVFwcnc0eFBXbERnUTRyaE9VOGdwR3FBMWgzM2NPRVhOVVE1Q0pwNWlPVVFCX3l3Vw?oc=5",
+        "headline": "테크콤뱅크(TCB)는 피치 레이팅스로부터 신용 등급이 BB로 상향 조정되었으며, 9개월간의 순이익은 22조 8천억 VND에 육박하고 있습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/28 12:32",
+        "published_ts": 1793158334.0,
+        "tag": null,
+        "first_seen": 1793159123.9394717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85R0JhSk1IMkdvX2U5R0Z1V28xM0tRbl9XX3BUWTJ1UV94WWJZTlUyN2hKVG8wMHY5R0l3cm1IR1hHeXFRRjhGR2wwTUhnSEk3bmoxZEVPaF9BdW5leVZGdnFldFlvVnJ1c0tzSXRxZV8?oc=5",
         "headline": "조단위 자금 들어온다…채권시장, 삼성전자 배당 주시하는 이유",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793086906.0,
         "tag": null,
         "first_seen": 1793090725.3310833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE02d3hNWW5zazVqUnA4YUJhVmtvblNSNldTejVzNEY3V0FKdks2YUhBNEdwYl8zLTJUaHRZOTJ1MmdValhKaDgyZG1VSlV1ZDF0dEdhTXBtdGMzbGFPT0V0Y2lCWXFIVUNLRUlTVWFjS2bSAXRBVV95cUxPcnlQNVQ0djFlR1FqMjJEM3dIcFhTSnJPOTVVT3Nid0RrYWVuczBuYkdYVV8wZGNVaF9MX1FhcVZodkJYQWNkSTZHTElCdGNneUl0akVDS2pkTHRzU19DZGx6dHhIMlVTbFB1Q1EydU9WYkNUNA?oc=5",
-        "headline": "주택금융공사, 20억 홍콩달러 규모 공사채 첫 발행",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/27 16:36",
-        "published_ts": 1793086576.0,
-        "tag": null,
-        "first_seen": 1793101526.2352636
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcU05Zk5jWTJFdWpiZl8wSXQ5MHdxLWU5TkVPT0pOZms0c1VxYW1WbGlZVHZIRXlPSXJmQ0lzOGpFOGxMS01CczRURjgwcml1bnV0XzZxU2FkUk9KeHlHSm4zNmJpX2RuNWZWZ3IyWTNNbnI3a2pyb0UyanBrWDNTcll4QUotcWwzYnIxX05Fbk5XRVRJNmdvQzZJV1lDN2NFVnFvaURHb3ozN3BKVGc2aXZ1UVJfZw?oc=5",
+        "headline": "Brazil ETFs stabilize after historic sell-off as the Lula trade unwinds",
+        "summary": "",
+        "source": "Citywire",
+        "published": "10/28 12:01",
+        "published_ts": 1793156478.0,
+        "tag": "Global",
+        "first_seen": 1793159123.9394717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtMjBYd3JqWDZXUzRiMW5ob0VSeWxHc0tFMXVMLUtUdllhVm96eUt3T1RvNUVNNVBSWTE1R3IzOGI5TmhYb3ZhZFJGV29uRGpaVmpPQ2pycmxjc2l4eTJxUTJnZnZYcWJscmMwaU1R?oc=5",
         "headline": "AI주 불안에 日·獨 국채로 몰리는 자금…일본 장기금리 2.8% 하회",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793103540.0,
         "tag": "Fed",
         "first_seen": 1793125833.8561351
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEZjTlN5RzBoUmYzU0xSRnRfOFZ0cXpMTmU3ZUd5dE9rdTlqSEd1cnB5N291S3dRZkJPWEdyaU5ORmpZMzhsczVIX1hyVHJTb1VRNFVrRXhDRUFHQ0lleGF4QXdpMHZoZFo4NFFuTDNnTVB4VXJJVDcwR3p2Z3FxYXZaUVJkcTZTNXVoam85c19uQWJSV212cU5heTNscXphQXVxMDk2MDhyRnE4U29NaDgxR2lJcVVIb0E?oc=5",
-        "headline": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/27 21:17",
-        "published_ts": 1793103420.0,
-        "tag": "Global",
-        "first_seen": 1793107835.7823472
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 12:30:56",
+  "updated_at": "2026-10-28 12:45:45",
   "yields": [
     {
       "label": "3년",
