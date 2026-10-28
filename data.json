@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRW5jdFh5OVBjSGN6Qjd2QVd1c200SldqSV9FcHk4NXVkRlZ0aC1kNkpDYlV5aEoybHF0aGFOOVVlaXJ0ajkyTTY2Z3lxd093bFVkaUV6VEpqQUdnOFVuSnF5ZXpibGdlZHVj?oc=5",
+        "headline": "LG엔솔·CJ제일제당 신용도 방어선 붕괴 위기",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/28 09:43",
+        "published_ts": 1793148180.0,
+        "tag": null,
+        "first_seen": 1793151923.3051581
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbWphVDBnWUV5ZDZ6a0F5LS1NRUNCYmRTekQ3OWQ0ZkY2QmxxRFdHWXNDSk9sS25IU0QzcG1nM1pUbjVJbWhYWGhPVGFKaElxaUtTTW93TjFzR1JhYjlMRFhXclFUR3dYQXN2WmpTdHY0ZEdlRF9HaUVBaHU3NlQ2WUNjRjMzTERlTHIwR011eHdRSy10dnBhemZEdUlic3dqSDZ2Q3oyZ3dzREo2aE8wUi1xdHZUZnZ4Z1NmbzdQTEdhNXE5TmxSSHpBaE9FRUE3ZlFtNEp2X25SeE5YTllINjN3Zk1wTWgzaEtMYVFrUGNMcEhBX19vTWNKR1FOd01McVlmYTlTLV9pc09hZVFQMy1obw?oc=5",
         "headline": "MSCI 효과 확산, BBKP 달러 채권 발행 연기하나?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793084129.0,
         "tag": null,
         "first_seen": 1793144725.0357404
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBjcXVXS3lDbGl3elhFQ25QSjJQaHRfeVhmOVpfaHZJdzA5VzZZc1BrdVEtc09Qa2tjcldFNmxSUFNHamhtXzktdWo4NWtYNTBrRnlfU0JvWWZmck1vakV2bC1mTFo3QlFYQ0tWMA?oc=5",
-        "headline": "[신상 ETF] 대기권도 못 벗어난 ‘스페이스X밸류체인’",
-        "summary": "",
-        "source": "뉴스웰",
-        "published": "10/27 15:52",
-        "published_ts": 1793083926.0,
-        "tag": null,
-        "first_seen": 1793084440.3984678
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 10:31:06",
+  "updated_at": "2026-10-28 10:45:45",
   "yields": [
     {
       "label": "3년",
