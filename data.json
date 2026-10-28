@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
+        "headline": "Fed Holds Rates, Says More Data Will Help Next Decision",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/29 03:00",
+        "published_ts": 1793210401.0,
+        "tag": "Fed",
+        "first_seen": 1793211326.407895
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaFVrbUhUeU9fZ2VSQVlOYVN4Rk1uMGtRTm5Zc3R1Yy02QjY1Z0hGYTZoSW1lOWlmSFF4MHNQSEFIZjdjZ1h5em5KNW5DOE4tRmRBeDRqOTg3T3NLYlEwN1gtWU5FUzlWUHAxNE5LdWZ0NGtpMm44M3EzcGQ3WDk3WnFFX3NfYl9N?oc=5",
+        "headline": "[김대호 인물] 케빈워시 연준 FOMC 의장 \"트럼프 키즈\"",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "10/29 03:00",
+        "published_ts": 1793210400.0,
+        "tag": "Fed",
+        "first_seen": 1793211326.407895
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOelF2d2Q0eFBiUVdpYUhwd1RVdEppajk2cDV4WEpPU0pmaWJyaC1SMUNraXd1ZFhMSmNtem1wUmRDMjk2QzVrWTZjRUR2eVdRZm1sZTVyMXZFNmxxVGhKVTg3VkRTVnZlUkFmSTVVX245SG5ibkdOdGtjclZ4aW9INE5DUkg4eVNXWUdvb1A1UHZnUUN1Y29fVDU3ME9fLXR6djJ3NjFtQzdlQ1FkZmF0TkpmUQ?oc=5",
         "headline": "Brookmont Catastrophic Bond ETF (ILS) Surpasses $150 Million in A",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793179751.0,
         "tag": "Global",
         "first_seen": 1793180727.0952795
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNblEzWWhhd29Pcm51emZVLUtkQ0FHb3FFYTBBRTlsTU9MN1lKQVl5eDVGUjJPYnpfTm8tV2JteFlEbVkxbV9WNHhvbHdUQ0JYOWk4YkVObXhrUlRDQ0ZLTHhNcUtCRVdRLVU5TXYyN2RLUVFRMHR5SklNMXB5eUt4RnNaZknSAYoBQVVfeXFMT19ETGtYNWFfbnVCbTdXTkoxYVBJN25Vd0xUeE1zVmxVVXlHbFhMUHZOX2Q1VGNKTmx4aTNUd0R2WVloQXF1Y2JLUHRzc0ZRaXRKRjY2UGo2R29ucndXc05LczJQQU9pekw1TmhfT0YzTm9pbEhuRUl1WHRrRThBSWJWTmxISEd3WHJB?oc=5",
-        "headline": "Treasury yields tick higher ahead of Federal Reserve interest rate decision",
-        "summary": "",
-        "source": "CNBC",
-        "published": "10/28 18:22",
-        "published_ts": 1793179346.0,
-        "tag": "Fed",
-        "first_seen": 1793193328.281379
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVTdHYXBUMEV4enBnVGx4aC1OeHZXZktKYklMcWEwQmZIMi13QzcyU1hQeC15bXpWVE95Zm9IbDRvbzRvS1QtV2JiZTFuMmlpR3FhSHRTeFM3Y2c3QjJ1amM1b0VxWEMyYlhNbUxMajlLeG9ETGRjeU5ubmFuODVNdHZzN0JkRXFMUWNTSlhR?oc=5",
-        "headline": "How AI has got the Fed in a bind",
-        "summary": "",
-        "source": "Politico",
-        "published": "10/28 18:00",
-        "published_ts": 1793178000.0,
-        "tag": "Fed",
-        "first_seen": 1793178926.9887717
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 03:01:06",
+  "updated_at": "2026-10-29 03:15:52",
   "yields": [
     {
       "label": "3년",
