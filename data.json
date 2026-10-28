@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRW1TTENWdHltLUVyRGRPem8wRWU5QWp1MnB3M3dab1FLMGU2T1JPV1JvQ29INHE3aTZxZ0hwWXVFU1gtMmllbUhLNmlKMGFySGs4ZTl4WnZPLWQyT1pnVklsUUs3aWZTWFR1ZjVYUkdPeklnYnVrOER4UG10WWlfa2tkTV9wODZqc2JSYUpURjl1Y0RzNE55dl9hLTdyaFRhSVBwTTA3NEhYMjJhdU84M3pIV3lnclhRR1czRkRkOA?oc=5",
+        "headline": "Fed Watchers Prep for Next Step in the Kevin Warsh ‘Discovery Process’",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/28 20:02",
+        "published_ts": 1793185357.0,
+        "tag": "Fed",
+        "first_seen": 1793186125.7967107
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMnVVNUJXcFd4aW40b2xROXJKM3JNSU9sbEtUUG5QM1lmLUw2SFdMZWFkNFF6MUc1UmdOSHBCZVRxX1puSDVneldybE9pOVp5WVd4YnN5WkN0YTRKQXB3WEpWNkJmM1FiT0hSQkNCakFlN0p5MV9laWV0STV6MHpxSE9Hc1RWcF8zbGhj?oc=5",
+        "headline": "Mohamed A. El-Erian: U.S.-friendly nations reduce Treasury purchases led by Asia",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "10/28 19:50",
+        "published_ts": 1793184625.0,
+        "tag": "Strategist",
+        "first_seen": 1793186125.7967107
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaFdWRTloMDg2N0V6REY0VE5wSVVFdDV5eUk0Y3BxX1lUVjF3Q1RCUENYRDBWTUVoZEJDeFgybE5DZUZWX216aHFsYVcwUFh0TnprVEZ2dnc5dUtDVGhjZC1xVmJwZllJME9GOEdJMU5NMzRndXZkUm94dWE5NHI4VVZ2VWN4Qy1lc3BDU2VkYmZ6Q1FVT3ppbWhNM2tWeUtXUFpuTW5FVUFxU3dJNDFBTVQtaDVHVENjUjVIcmR2S1JYQ3ZDUU91XzZrZzlfbVZKdGVNSWotMkw?oc=5",
         "headline": "Earnings call transcript: Nomura Holdings posts strong H1 2026 profit, shares rise",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793145600.0,
         "tag": "Fed",
         "first_seen": 1793182525.809795
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPR0paU09FYWlzUUpDbmRoemdPTXZkaHR1SV9BMjE1TjNVTE9XUGtxajVPU3J3elpBNUJnTHZHNEZWV2tiZExkczdleE1MSmc4Q25kaHJ1YzZGUEtvUlZHY1E5dmNvM3pUYzZ4WDcwblJnbnZoUmRCSzZIWjg5RC1sbnI1UkVMbnF6eUVRUU5BYzVYY252eDRrcjhyVk1tSkZ3M1JuM3JfWmN1ZHBqcm9rZ0owQQ?oc=5",
-        "headline": "Fed Expected to Hold Rates With Nod to December: Decision-Day Guide",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/28 08:00",
-        "published_ts": 1793142000.0,
-        "tag": "Fed",
-        "first_seen": 1793151032.4609323
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOaVBjd1JDWV92Z2IwX0tzMlJxQTNkZnlNaVktd096OUlfeG4xSmRTbEFVNTlCU0k3NG5GelpTRkx4dFV0THdRQjdSTHA1VFdjR0hHUG5kNEJxTkZ6WERPVGM1eUtFTEFuUzd5eDZoTmJRZXp5Mk1uQWczdXE0aFc1NldwRkJzQkxqRTRJLWhtekZhYVZ3NEI5RGREcEhsZVZQ?oc=5",
-        "headline": "Australian bond markets look beyond the next RBA rate move",
-        "summary": "",
-        "source": "AdviserVoice",
-        "published": "10/28 07:53",
-        "published_ts": 1793141585.0,
-        "tag": "Global",
-        "first_seen": 1793177125.9690807
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 20:01:06",
+  "updated_at": "2026-10-28 20:15:51",
   "yields": [
     {
       "label": "3년",
