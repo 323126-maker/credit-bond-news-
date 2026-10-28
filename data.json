@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW1qOFhCWGdnNXpiNnItcThlbG1YTzdjU2J6VGtWLUc2STU4cVAwSS0wSFZFdTlUTjZqQm5Lc1gteHBuTE1Sd25LOURKRV9zbENGbkNJd2o2RDBtekhoMlVsc2piUE4wdEtsWlQzcHFXZUMxN09DQ21YYnRMNUE2UXpQSQ?oc=5",
+        "headline": "최종금리 3.5% 각오하는 채권시장…AI 투자·내수 회복이 고금리 버팀목",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "10/29 07:01",
+        "published_ts": 1793224919.0,
+        "tag": null,
+        "first_seen": 1793225723.2285342
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QR1JNekFtTjhOX3pVYkkyeXJKcXBlRS0zN3A5UWlaQUs4QmVWeV9ZcmRGVEoxaGg0WmZYVFZ4WEtZSXV1R2M4MHJkcG8zdk8xMWxFbklWVmp1YWM5MmtBLTQ4a1p2T1B2akJEbWJ3dVTSAXRBVV95cUxPRWphdTItYUx3YzNrTVlqU3Q1bUFTUloySGU2UGFSeEFwWXNTTWRiVUs3X3A3UEhqSGdpZHUxT3RYcU9PYllhd0kwekpxT283RHlLczZPLXJFODJKVUZONW1fQkxZdVRsQkEzcVdCakxZM0lXeQ?oc=5",
         "headline": "금리 묶였지만 긴축은 계속…가계·기업 '이자 압박' 커진다",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792851480.0,
         "tag": null,
         "first_seen": 1792852230.4056919
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kMmlLU2ptVWd1XzBzZ1dTMG9yNC1aQTh1Z2RUbXJlZzl1ekJWNG5mTV9ZaEhORzNiR0lxdnAtNm54cUdfUFF1aURXekd6NFdhLWw0Ui1iU3ZjYW9rR05QRG1Hcy1FOU1FbWhFUGt3?oc=5",
-        "headline": "[경제, 알고 보면] 기준금리 동결됐는데 내 대출이자는 왜 오를까…'금리의 역설'",
-        "summary": "",
-        "source": "폴리뉴스 Polinews",
-        "published": "10/23 19:53",
-        "published_ts": 1792752820.0,
-        "tag": null,
-        "first_seen": 1792917927.1817963
       }
     ],
     "politics": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONHVUbnZmWGk0c0d4Rlh6aXpPUjJnNFgwR2hpNHZEUDNqZ0pQaWZrSlpBdjJRaHVGdjhoOGI4X1dMMjk1MXRKV21FcVFNb2VJZTR2YnkyZmE2VTQ3M25MbTRzWW1wX1o0N25iWkY1eUpmdk9NUmdsNlBMSXRvRk9ySXFkOUthLXgwVExXQlVkbDBna3NoeGJ0Qzk3cjBia0hLZS1NMHVOaEVxLW5sM2dLbGhnMA?oc=5",
+        "headline": "Japan Credit Risk Jumps Most Since 2022, Pressuring Bond Market",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/29 07:00",
+        "published_ts": 1793224800.0,
+        "tag": "Global",
+        "first_seen": 1793225723.2285342
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPT2picUVQd3dYWDhKUnVJWUlEbmFULTE2RUF5NlBYemZiSHQzejU3OS05d3FrbHJXRXI2clNabXhwQ1RMSkJxU0VVTy1GT3VBbDFWSmozLWl1V3dybzVBZFd2bGdnWUVQelNhQ3psMmpVQXlEOFNHZURtaDZQLTR2aHY1T2FkSk9KbklCQTV6eXA2Z3h3V05xQVVTRVo3ZkNua25RTEotVi1JR0U4MXNodExiUFBBTmZFOTBJd1h3?oc=5",
+        "headline": "Warsh says politics played no role in Fed's rate decision by group he is 'honored' to lead",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/29 06:56",
+        "published_ts": 1793224609.0,
+        "tag": "Fed",
+        "first_seen": 1793225723.2285342
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
         "headline": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
         "summary": "",
@@ -1630,6 +1650,16 @@
         "first_seen": 1793222127.3338325
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmaUNNdmhVYVlieXBaQ3NvM1dnOV9ESVdXZnlTVUZXUjdIYWZZNnJ0aXlmb1VkMGQxZDZRTFc3SVEzdnJXbTVwaV9yYlc2MXhjcmkwSEoxV1FOdlh4cEJCbDJCNG4wNGt5SXptMGlhd2RkR3dWR2c?oc=5",
+        "headline": "미국 연준, 금리 동결하며 '숨 고르기'...구글·MS 실적 희비 교차",
+        "summary": "",
+        "source": "YTN",
+        "published": "10/29 06:01",
+        "published_ts": 1793221260.0,
+        "tag": "Fed",
+        "first_seen": 1793225723.2285342
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYk9UNVZoSDFUZTVFRDZoM1BhNzNFbERFQlU2MFRFRWx0SUNyTDR6c1V4Um0tTVNSMm1fVXMyUXdIUHZ4QjZNWVcxTGpCWkdYdFlYNkd2SnI2bWlHUmdqcTB1dUNNTHpPejByUEMwVXNjMzlNVmN1RF81NXhlQ0gyZHVDYVNBNEZtc2VrWDlSLXNDOUdJMURTeC12RFU4c2ZrTWZzejJkVjdHVTZydTkwSmF5VQ?oc=5",
         "headline": "Global Fund Managers Grow Bullish on Japanese Government Bonds",
         "summary": "",
@@ -1638,6 +1668,16 @@
         "published_ts": 1793221200.0,
         "tag": "JGB",
         "first_seen": 1793223039.2608993
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNDQ0VqbFE0ZmQ4R0VOLVFwN2ZSVGFmTjBrb2JmOXJqRDN3S0Y3Wjc3Z3J5a0MycWJCMFRtbWJJcHFNM0xLZUJNYzRvNl82UVQtWDZJRGh1T24wZzBIUWR3SG9WY2lzTnJvRHJrd1FLQWs4VGNzNDhsTVBqQTVnakQ3cW5jek1PR0FONEpvbXZoUUpYUzUyYVRFczhfNlFQeFN4T2N3?oc=5",
+        "headline": "Fed Chairman Kevin Warsh’s Postmeeting Press Conference",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/29 05:59",
+        "published_ts": 1793221141.0,
+        "tag": "Fed",
+        "first_seen": 1793225723.2285342
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
@@ -1678,6 +1718,26 @@
         "published_ts": 1793219841.0,
         "tag": "Fed",
         "first_seen": 1793223039.2608993
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBGVkdETXROTlZPamRkaDE1V2RVUnVqX2xDZ3BzSkp6d2h3cTR0amZROW1yZnJrT2F3YzI3WnZUMDFRdDN3cW9fQ1JtUHh3WjJpUVBxbGZMbDlna2dM0gFcQVVfeXFMUEZWR0RNdE5OVk9qZGRoMTVXZFVSdWpfbENncHNKSnp3aHdxNHRqZlE5bXJmcmtPYXdjMjdadlQwMVF0M3dxb19DUm1QeHdaMmlRUHFsZkxsOWdrZ0w?oc=5",
+        "headline": "건들락, 유가 하락 없으면 12월 금리 인상 가능성 거론",
+        "summary": "",
+        "source": "토큰포스트",
+        "published": "10/29 05:36",
+        "published_ts": 1793219809.0,
+        "tag": "Strategist",
+        "first_seen": 1793225723.2285342
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd0xIblh0eWNPZFJ0Y0l0eURIX0lOZnRCeFY1ZmJ5ZWtwR29XMUFsR1ptY3RzWVBDVW5SaW44cW9XZEViNHJYUW80Q3hEdHJ3cnFpZ1M0UHhVbUx2aGdNSkJ3eTZ2Z2d1bjhKQzhrbGJsLW1VWlhaZGF6eVUwUHVSbWl0eWNPbUJ6UkVPdlg3MkRMTkozUVZMdlExc1VkZw?oc=5",
+        "headline": "Treasury market infrastructure: How it shapes corporate cash investing",
+        "summary": "",
+        "source": "Silicon Valley Bank",
+        "published": "10/29 05:31",
+        "published_ts": 1793219466.0,
+        "tag": "Fed",
+        "first_seen": 1793225723.2285342
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS1M1em1JalJCOTZOUlEtQ0ludGl3Q1p0b0VadWpMakN5NnFySkdBY0hnZktpRUZReHE5NzNwX1dUcGRxV0l2TTVKREdfLU5PeWhfa2ktSTZfTTRVNkZJVUR6Zmp0S2lUUUlHXzNpZXNOYW82WFBoZVNlZm5Fb0p5X1RIU3VsQ2xmVHBWcHFTZGtDUkVSSEZrYmpJTkJIYUNSX3hwalI3dVplU1RXendTS1gxcVU?oc=5",
@@ -1948,69 +2008,29 @@
         "published_ts": 1793214000.0,
         "tag": "Fed",
         "first_seen": 1793214300.2982717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNT2RuUmdvb3M4ajkzWnYyUTRCTWYtT2pVbVprQW9MdXhKS3pjYkY2R1RQV0F6Y2dlNGhnTW5sYzZSNlREMEZybnBYZXg4S05laHZoMHAyaU1xSjlnTVZUQ3JWRjM0WVppUTFUSG04RGZmemRRQmdPSm52MDhVMHp4VzFQZmo1N3BwdHFXTW5HWk9GSWxnTGFLdy1Sb1Z2ZU5NOHg5NjhhUnlQZDBMYXhkMF9QNm4zdlQ1M2NCRWg1ZzdMTUNpb3NDQ3hIZ25aSFdhNnZBdUtoeFNfXzZNeGlXRUxVRQ?oc=5",
-        "headline": "Fed Chair Kevin Warsh says third quarter GDP is above three percent",
-        "summary": "",
-        "source": "KVAL",
-        "published": "10/29 03:59",
-        "published_ts": 1793213978.0,
-        "tag": "Fed",
-        "first_seen": 1793214039.9713736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
-        "headline": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/29 03:56",
-        "published_ts": 1793213766.0,
-        "tag": "Fed",
-        "first_seen": 1793217643.8548884
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
-        "headline": "Fed votes in split decision to hold interest rates steady despite sticky inflation",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/29 03:42",
-        "published_ts": 1793212965.0,
-        "tag": "Fed",
-        "first_seen": 1793214300.2982717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14bUlvVUsweVhqV1N0VkswaEdCQ3RqQ2dCQ1VQYmhSOXVVeTFDQ3JwbnVkSU5WeVRDd0pDMkhnSnpPSjRMd0E?oc=5",
-        "headline": "美연준, 기준금리 동결…위원 2명은 인상 소수의견",
-        "summary": "",
-        "source": "매일경제",
-        "published": "10/29 03:37",
-        "published_ts": 1793212623.0,
-        "tag": "Fed",
-        "first_seen": 1793215834.3169959
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBnUWlXeko5eDVTX096ZUxvWUV4d3hwNW02WVZjenFrdkQ2Z2VYdktmMm4xMWFQRVN1Q1FRTE1scmlzNkJCaGc?oc=5",
-        "headline": "[속보] 美연준, 중간선거 앞 숨고르기…기준금리 3.75~4.00% 동결",
-        "summary": "",
-        "source": "매일경제",
-        "published": "10/29 03:20",
-        "published_ts": 1793211640.0,
-        "tag": "Fed",
-        "first_seen": 1793216724.1465602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS2xzS2M4a2hyV2RDRllWdE5XNDFabG5jMU1aZjVUbTBUOUwwYWdHc2QxdkNJWDhIZmliRG5DZXROOG5xZU1EbE0yQjMwTE4tXy1FTzFmbDhldEJ4LXBZY2VTeFE2QnZQMlJGb1F4b0ZoOVBxSmFmUzROVURXVENVVVNZNmFiU2J5aEhGUEVMWmQ0YlIwOWpKVUpHblNqdFgzM0tBR9IBqgFBVV95cUxPTVZHUkFpeXR2Qlg3OGxTXzdwb01zVTdCdWRXRWZmS1REMTdXZnJTdFo3NGc0X1NKV2NzQ3pNNUI3eGxvaFFHeDUzOV9iN0JpTWRuVURfaG9GcHNZYi1wZkJBTDczV3NabXNxb2RUclB1Q21QNU9RalE3YzBrVnY4bFctQWhQbi1PQ2NfOFFFdmwtbTVOSUt0aUlRajJOaXBSYTdBUkcwWHRXUQ?oc=5",
-        "headline": "Watch live: Warsh speaks after Fed votes to keep interest rates steady",
-        "summary": "",
-        "source": "The Hill",
-        "published": "10/29 03:19",
-        "published_ts": 1793211573.0,
-        "tag": "Fed",
-        "first_seen": 1793212237.0455732
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83OGF1NmE2VmVMY1lsNXJsUno2M3JDa0FkZXNiMnBIaGxBcFZwYjM0WXdHT0sySFlKSU5zeTVGZ3dqcDJjUVZxOTVBbWg5VDR4elpIbUZ1X19SOTFlLWY0U05uVWLSAWhBVV95cUxNRERBNy1YeGFYVjE2OHdGNGxOUDVVSkJqYnFUdGRsZlBXb3Z0dDBlT01wUHlQVko3cV81V3VQTTBjODVYbHlZVWRSbzk4NjFJM1lHYy1Bd0l3M3VZOVZtWDRsUU5oWTBrRg?oc=5",
+        "headline": "[신용등급의 이면⑮] 삼성중공업, 상반기 영업이익 82% 급증…순현금 체제 전환",
+        "summary": "",
+        "source": "경인방송 뉴스",
+        "published": "10/29 07:00",
+        "published_ts": 1793224800.0,
+        "tag": "삼성카드",
+        "first_seen": 1793225723.2285342
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ESmlEYnVULXMyM3BlLUtpYi1naW9QN1R3VFZ2Nk51MGw3aUNIa0NQMHVhTFpOMElBelFRNDNfSFdHQ0Q4NVpYRWV4RTNCc2JMMDlISnljOUNwanhVQ1ZicThTVnMyb2Js?oc=5",
+        "headline": "삼성생명도 6%대 자본조달…중소사 부담 커질까",
+        "summary": "",
+        "source": "보험매일",
+        "published": "10/29 06:55",
+        "published_ts": 1793224557.0,
+        "tag": "삼성카드",
+        "first_seen": 1793225723.2285342
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9salJwUHBaTEFaUzNkV2p5UFZOeGtSUENMTmpJQzFibXZXYVlDdjRQY2J2SG9qRks0UVlvQkg1Q1pWOVRlN0pvMkxvRkQ2Tnc?oc=5",
         "headline": "SK렌터카, 회사채 수요예측 4배 주문 확보…합병 후 투심 확인",
@@ -2390,30 +2410,10 @@
         "published_ts": 1792981281.0,
         "tag": "한국항공우주",
         "first_seen": 1792992634.2081542
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9JekF4OHhVd1lpWkxxR0FySmRNSDZJMlJkajJFYmxVeEd6V1d3eGV1TkpsRWtaZWJEbS05VzRrNm5ULTlMSmM5TDhkYzl4RkpnM1hvMlVVQnpiMlIwVHlqcTFkbkU0SGRxUHB1OXRRY9IBb0FVX3lxTE9JekF4OHhVd1lpWkxxR0FySmRNSDZJMlJkajJFYmxVeEd6V1d3eGV1TkpsRWtaZWJEbS05VzRrNm5ULTlMSmM5TDhkYzl4RkpnM1hvMlVVQnpiMlIwVHlqcTFkbkU0SGRxUHB1OXRRYw?oc=5",
-        "headline": "[증시전망대] 삼성·SK하이닉스, 추가 주주환원 카드 나오나…코스피 ‘빅 이벤트’ 앞두고 출렁",
-        "summary": "",
-        "source": "뉴스로드",
-        "published": "10/26 09:40",
-        "published_ts": 1792975233.0,
-        "tag": "삼성카드",
-        "first_seen": 1792977325.8802068
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5QWlo2R2RxMzJubGl2cHJ2V2FRTzhJMG5zeG1NcnZ3YVpNVHE1NVpMbzlrLTZoaFpuclZERWtxbzlsdXlEdFZ0R29lakxlV1MyQ2VjVm9ZNFl5VzEwcDVqQ1V2QWRhUF9sUWppVDY1TkY?oc=5",
-        "headline": "CJ올리브네트웍스, 첫 기업신용등급 A+ 획득… 비계열 매출 성장 주목",
-        "summary": "",
-        "source": "Korea IT Times",
-        "published": "10/26 09:37",
-        "published_ts": 1792975076.0,
-        "tag": "현대카드",
-        "first_seen": 1792975525.6380372
       }
     ]
   },
-  "updated_at": "2026-10-29 07:01:06",
+  "updated_at": "2026-10-29 07:15:48",
   "yields": [
     {
       "label": "3년",
