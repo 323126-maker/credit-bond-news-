@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1zaTZfQ25ENUs2aHNHU3hLMnBablBkVkNPeVFxMHo1MXJwa3ZTaEQ3a1lqVDR2UUtjdVl5eFV5akhOVkdOR2FlVnd2cVZCSUxNM2hSRlBadm04NmhBQ0o2Umhn?oc=5",
+        "headline": "미국 연준 금리 결정 앞두고 글로벌 금융시장 긴장…인플레이션에 달러 강세 지속",
+        "summary": "",
+        "source": "시사매거진",
+        "published": "10/28 11:48",
+        "published_ts": 1793155724.0,
+        "tag": null,
+        "first_seen": 1793156443.3912168
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ha0dzcC1ERk12LUxJbU5nb3hXLXhaUEVJVGUwTmhjaEMwSzJfREktNTVvVkNxSmwtR2V5M0VzbTJKdXhJOHFCaDh6OWs5R2xuMjVCZWNnYl8xZ0RjVk11SlczN3NUZXZV0gFsQVVfeXFMTnUyVTlTWjNUSi0zSjloXzItX3JNei1VYlB2U0x5WG03V0c3WFJjWDhhNEpDNWlrYlBKb1BRZ1ZCUHhzdlp4aWtibXdYUVlWLTRLaDBwRjNLLWc0N0hYX1o2aG9HZVNKTEVyYjdy?oc=5",
         "headline": "기준금리 0.5%p 뛸 때 주담대 1%p 급등…“5억 빌리면 이자만 연 480만원 늘어”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792730795.0,
         "tag": null,
         "first_seen": 1792770323.084642
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5LVVUU0drTUhubmtsR191a2VkVlBrbndHdzY3UFVLdGtrRUhCN1FyZDZ2WTVwX19naWhQRXVveEJXTFZEaGNITFQtMzJYTjVWM1VDZUQ3V2JaNTNkZVgyenU1OXlhZVpsZUpWeWQ5RXM?oc=5",
-        "headline": "'11월 추가인상·최종 3.50%로 모이는 뷰'…채권시장 매수 여력은",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/23 10:57",
-        "published_ts": 1792720630.0,
-        "tag": null,
-        "first_seen": 1792907122.4806612
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 11:45:52",
+  "updated_at": "2026-10-28 12:01:10",
   "yields": [
     {
       "label": "3년",
