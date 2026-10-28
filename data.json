@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yY2w4T1Z0Vk5YbndFdE5xcGx4M3MxYTdJUnRaR2ZKRUI0V1BNcG84NDdBUm80TWdhYUVIMGhhYTJmWEdvbnFmMGsyQlZ3akFxcnBmYTNYNHFNQdIBX0FVX3lxTFBDSmhsdEpwQVY3c255TVhrQVhCZG9uTEVteWh0NWZiRzFQRlhHSU1WX3lpRDFQYllVcEJVY3lmekQ0aFhjOHZwWllxY2dvSDZWNmZDU0k0bER6Znd6MEFn?oc=5",
+        "headline": "정의당 “이재명 대통령, 이주노동자 폄훼해놓고 언론에 화풀이 말라”",
+        "summary": "",
+        "source": "경향신문",
+        "published": "10/28 10:46",
+        "published_ts": 1793151960.0,
+        "tag": null,
+        "first_seen": 1793157331.49146
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQdIBckFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQQ?oc=5",
         "headline": "李대통령, 첨단산업 위한 '선도구매' 지원…\"대출-재정 '하이브리드\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792923907.0,
         "tag": null,
         "first_seen": 1792975525.6380372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPck04SjN4TGUxMnRNclNUeHVIcHNFb2QxSkw2VG51Q0Z6YkUyYzlPUFdlTlM2anlpbUlkcGZPZ3VEenFjdnNEaU1uT2dZcnUzRFYtNlBZd25fZWJFMVFDZ1JVZnVFRWdxY0M0U09tMWJJMGE2LU8tQUdUX0dnaFV6M25PQVJpSFg5NHBrbkhKZGdJUnc3R1NUdUhmdVIwY2p2dHc2dVh0TkRHZ9IBX0FVX3lxTE1ubTBQSWkyUkJ3akZvVjBZdnYxQmMySTZvNWdPRWx6TVc1TEJMc0hmZTBXNXNRU0QtTFhUSHdEbU9jTmJzdGVhRmFZSjZBT2JpZlk0cEZ5MFh5d000alYw?oc=5",
-        "headline": "‘조작기소 특검법’ 속도 내는 민주당···‘이재명 변호인’ 법무장관 후보에 ‘공소취소 논란’ 재점화 되나",
-        "summary": "",
-        "source": "경향신문",
-        "published": "10/25 18:38",
-        "published_ts": 1792921080.0,
-        "tag": null,
-        "first_seen": 1792929638.5055714
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 12:01:10",
+  "updated_at": "2026-10-28 12:15:57",
   "yields": [
     {
       "label": "3년",
