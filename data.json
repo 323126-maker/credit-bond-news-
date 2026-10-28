@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rcWkzTV9YbVRTdjJyQ0lJVUNKMklJQXFnZFAyVUpTYW83QnVQLWVON1hMcF9SU3FfS19KTEV3bGlxVUktRW5MYkhaN3lQZ3ctR1IyNmNEQVMyRXd1ak5wcklCSQ?oc=5",
+        "headline": "친환경 약속만으론 투자 못 끌어와…日 연구 K-GX에 ‘충고’",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "10/28 12:20",
+        "published_ts": 1793157642.0,
+        "tag": null,
+        "first_seen": 1793158232.921959
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0yY2w4T1Z0Vk5YbndFdE5xcGx4M3MxYTdJUnRaR2ZKRUI0V1BNcG84NDdBUm80TWdhYUVIMGhhYTJmWEdvbnFmMGsyQlZ3akFxcnBmYTNYNHFNQdIBX0FVX3lxTFBDSmhsdEpwQVY3c255TVhrQVhCZG9uTEVteWh0NWZiRzFQRlhHSU1WX3lpRDFQYllVcEJVY3lmekQ0aFhjOHZwWllxY2dvSDZWNmZDU0k0bER6Znd6MEFn?oc=5",
         "headline": "정의당 “이재명 대통령, 이주노동자 폄훼해놓고 언론에 화풀이 말라”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792954575.0,
         "tag": null,
         "first_seen": 1792959325.941032
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcHN2RFR3M2dVTTQ5emRrbkZEalViZUV3bHloVmQ3TF9IMEM4TmhGUjhOTllpdlNVTnNpNmxLelVhRU4xRG55SzFUaWpaLTJVaGtzanMtZko5ZmvSAWBBVV95cUxNYzh2WkpWc0tDRGpYQ0VjUlFSWDBlbEk2NkhHcGtTTC04VU9CckxqUWJtbnhRaHd4QzdHd2FHQ2pyT3lGaEhfMDQxaTRRTEtBWV83ZlF2MlliQlBUSmRPZHg?oc=5",
-        "headline": "쇼츠만 남기고 막내리는 국감…조희대·김현지 막판 공방 예고(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/25 19:25",
-        "published_ts": 1792923907.0,
-        "tag": null,
-        "first_seen": 1792975525.6380372
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 12:15:57",
+  "updated_at": "2026-10-28 12:30:56",
   "yields": [
     {
       "label": "3년",
