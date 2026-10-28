@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbWphVDBnWUV5ZDZ6a0F5LS1NRUNCYmRTekQ3OWQ0ZkY2QmxxRFdHWXNDSk9sS25IU0QzcG1nM1pUbjVJbWhYWGhPVGFKaElxaUtTTW93TjFzR1JhYjlMRFhXclFUR3dYQXN2WmpTdHY0ZEdlRF9HaUVBaHU3NlQ2WUNjRjMzTERlTHIwR011eHdRSy10dnBhemZEdUlic3dqSDZ2Q3oyZ3dzREo2aE8wUi1xdHZUZnZ4Z1NmbzdQTEdhNXE5TmxSSHpBaE9FRUE3ZlFtNEp2X25SeE5YTllINjN3Zk1wTWgzaEtMYVFrUGNMcEhBX19vTWNKR1FOd01McVlmYTlTLV9pc09hZVFQMy1obw?oc=5",
+        "headline": "MSCI 효과 확산, BBKP 달러 채권 발행 연기하나?",
+        "summary": "",
+        "source": "IDNFinancials",
+        "published": "10/28 09:40",
+        "published_ts": 1793148000.0,
+        "tag": null,
+        "first_seen": 1793148325.2734604
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE40MngwazJSa0dlV2ZPVlNFS2FpaEVrMXdoWGpwdDh4VnJpOGY5OE9obkR5Ni1ZV1RnU2VkMzU1RHhhS3RsdGxjWnN6cC05N19Bd0hmR0s5emhfUjh2eGhXdjBCWUhQdHlUOHdydw?oc=5",
+        "headline": "[심층] '금융거래 무관'이라던 KB국민은행…예금잔액·워크아웃 정보까지 2210명 털렸다",
+        "summary": "",
+        "source": "메디컬투데이",
+        "published": "10/28 08:10",
+        "published_ts": 1793142659.0,
+        "tag": null,
+        "first_seen": 1793148325.2734604
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IUzNKWVdrUTBXekNZSWhLdFFZUGpPa3oyMVFqMGYyS3ZqaGtrNUY2ekoyVUV6a1RpdXppMkdhajRSTGlzc2dUUnVwRkhWVXBLYnBKVVg0TG1CNkR2dzRkNw?oc=5",
         "headline": "[IB토마토]금융채, 연말 앞두고 수급 역풍…회사채보다 깊어진 약세",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793083865.0,
         "tag": null,
         "first_seen": 1793087126.3571572
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZFZWX3Z6ZlB2NUgwLVFPN2E1TXBBa05YaF9mQXJWLXVBcmMycXlRM2Ytd0JBbGg1NDgwZkJscjVaOHgweHFWbEcwRnZTVFVXbFNyNTRlakdkSGpBSXNRbkZzc2xaWm1oSG93V2ZDSDZrSHo3dVRFMGVlaUdaaW1BNQ?oc=5",
-        "headline": "[마켓인]무디스, 하나은행 캐나다법인 A1 등급 유지",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/27 15:21",
-        "published_ts": 1793082062.0,
-        "tag": null,
-        "first_seen": 1793085329.0665925
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1HWWRHZ2k0UGNHS2g4T2pScXYzSnprWTU0OU1sMndOOVYyakZkdkdzQmg1ajBwblRid19iQWVwRFJGNGJSdGRQLXJMeGtqM01DTmgzQzZCcEZPbFnSAWBBVV95cUxOQUVkcWMtQjJUU0g0N3NneERvWFBfblN4NGJ3cmdaTFk2TjZ0VGYydTRzZVBJUEluQU9NRFNncUhpczNGOTAxQWlaTlMxVTB4cnF4cURqQk1WYjJrYVB0QmU?oc=5",
-        "headline": "블랙록 채권책임자 \"AI 우량채권이 미 국채보다 매력적\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/27 15:00",
-        "published_ts": 1793080820.0,
-        "tag": null,
-        "first_seen": 1793081726.88155
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 09:30:58",
+  "updated_at": "2026-10-28 09:45:49",
   "yields": [
     {
       "label": "3년",
