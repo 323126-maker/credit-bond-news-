@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPVGdfejA5aVFDZWFSSTVqbFVIclozX3RhdkVHRzdLN3A1X2VsRi1XU2FJQzk4ME9GeEVwX0JqU0lBb3U5OWNsbGFZRFNVUFJ2YnJ3U2VYZ0t6dTlxWDd2M0p6VnQzVlpYZ3FpMjNPWkRWQTVxUzUtVWdJY3BjMlhXX2RKY0Zhb3ZLeGoyWkFlOHl1bnJvRnF4Q21ITnA0c3B4bU1zOEVfZlhId0RfdzI3QnJKRUJxQ3VrQVUwdDZ0ZUM1RDdYeEc1OUpRdFlEQ3VWZVNkTXYwYldkV2VZN0hVUDBpQTlUWkdNLUIzZ3JJX2kzbFRJamNCY0otbWs?oc=5",
+        "headline": "US stocks edge higher ahead of Federal Reserve decision on interest rates",
+        "summary": "",
+        "source": "Daily Jefferson County Union",
+        "published": "10/28 22:33",
+        "published_ts": 1793194438.0,
+        "tag": "Fed",
+        "first_seen": 1793196047.1991532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOWRXYXA5M0ZMNDloanJER3VnQUQ0QjdENmpWZVEzcE9hR1BvV1ZlZGd1MjVrMUpUczFtREtYMDl2MUl4cXl5RnA4Yl8zcnEwNi1jSEV1a3RlODBoUW13T3VxRE5WYTZvQU01a2JQWDdjRl9sQVYxOGZyQzdkMzdaX1llRlpteExmZm5DSWVySzQxYXVnRzQxdG1ya05SeEJJbDI4ZHZDb3Zib2dmSkN0SkZpWDZkWlpsMEVLZnlIYWk1WTU4a0JF0gHMAUFVX3lxTFBud0VFbDJnbWpqbmtTWTl6bTRWaFZYUGNiX3BNd3AwQUc1MzQtTlVPci1wYjVlSEEwZS1RZ2RLMXZ6SkNvdzVtV204WXhNNHZXSUFqWEYyai0xcS0zT1czWkpOcTIwdjV5R0pUYzBjX3FHN2JCM1gyWV9hbXloMGkxRVJiM2tmOHEwczJYMGcyT1BtRi0zcGwzbzdYT3ZhYkt3djZ6Ri1hSmNDelZVbW5TTW9EdnJBSkRQcG5yM3YzZWoyNXVTVm5KS1pEVQ?oc=5",
         "headline": "Healey brushes aside warnings over higher mortgages and presses ahead with a tax raid on banks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793164038.0,
         "tag": "Global",
         "first_seen": 1793166327.191461
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE50TlBCSmhjQWlTd3hlMlFRTTRPc0tuTlhuLVYzS2ZMWGlIU3Y0bDI4bHZzNVM3OXFmczZNazhBeXEybkVkN1BPOGpDRnItaGRhUUphUU5IaE5jdw?oc=5",
-        "headline": "Fiscal Populism and the Long Bill for U.S. Treasuries",
-        "summary": "",
-        "source": "https://economy.ac/",
-        "published": "10/28 13:51",
-        "published_ts": 1793163087.0,
-        "tag": "Strategist",
-        "first_seen": 1793167240.6287596
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 22:45:52",
+  "updated_at": "2026-10-28 23:01:11",
   "yields": [
     {
       "label": "3년",
