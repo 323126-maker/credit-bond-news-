@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeklJQzlQWERVWVZWX19KaFhwS1M2d3lUSmRxMkIxYjZ5UzBTZkJzOE85dmoyXzZ1cTZjOFZvVzZfWTQ5UU9ZM25qdFJOTGhBc1R6cTlnd2pFcjNlZjNZMXZobFMzbTZKYVUyYWp4cE8xQQ?oc=5",
+        "headline": "[증시-마감] 코스피, 반도체주 강세에 상승마감…10거래일 만에 6천선 복귀",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/28 15:51",
+        "published_ts": 1793170306.0,
+        "tag": null,
+        "first_seen": 1793174439.421661
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWxCck9oc3N2R3E2TVFHNmdMYXlWb2dfSk5KcFMwbWJIZFVyUUExMHZERWRtRWdTUHkzNkxhcHYtMU5GakV1RHhYUE5yM1Nnb0J6a244Qk1pOXlLS05uS1JTeC1DTEVlY2ExU1l1MlVwOWNQYjVTdTZVYjhwMVZaZk9LbWJ2TV9kclE?oc=5",
         "headline": "피치는 테크콤뱅크의 신용등급을 상향 조정하여 은행의 입지를 강화했습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793089992.0,
         "tag": null,
         "first_seen": 1793097929.0032554
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zc0ZsZXc1b0tHZ2dZMU5lbVFOZVRrOEJFSWR2QWdWRElKXzZKYWJhRTBLdDhobXAycXV1V3YxVjVrQndyeUF5TV8yNTZfS3RSMjFvWWVfYUxQOUlFM3dRamdnZlA?oc=5",
-        "headline": "국고채 금리, '일제히 하락'…3년물 3.758%로 마감",
-        "summary": "",
-        "source": "https://www.ppss.kr/",
-        "published": "10/27 17:31",
-        "published_ts": 1793089890.0,
-        "tag": null,
-        "first_seen": 1793090725.3310833
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wbWRvbS0zMWlRV0lGNmlJSEw5TEdiWi1oOWUwTDVoZmhhMzJrOEpJMHpaVUs2NkZoSmlXWVlQRm14YmJHLVlUdEt0dkthd0ZMMHVLcVFB?oc=5",
+        "headline": "한국, 올들어 美국채 238억달러 ‘역대 최대’ 순매도…일본도 순매수 99% 급감",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "10/28 16:35",
+        "published_ts": 1793172939.0,
+        "tag": "JGB",
+        "first_seen": 1793174439.421661
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGM0bXktaHFRcWJVZUxzMzc4bmJYbjI2RnMzd2VkZUdza2ROalRqQTVKN0lpUGFaUTJNZ01TOFVYSmpKXzNOb3VONDBqVG5CUUE3YmE4cUhmUHhLdFdDZmU4TEJOTTFuVF9veXRMV3NENlNISGRQTXhIbmNnMzJxZmFGcFF3SV9XQnBVWGdDWQ?oc=5",
         "headline": "Donald Kohn on Federal Reserve chairman Kevin Warsh's Jackson Hole hike speech",
         "summary": "",
@@ -1640,6 +1650,16 @@
         "first_seen": 1793171727.1463318
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUjV1VUkzUGlxUlF5cVA2VmtSSWlKQXhsdk1UQTFGdjJ6b0VNbkx3eDBQYzZKR3FtQ2ptd3ZoV1lxNzFXdlpuSldwZnVXZWJyWmJ6dWZUaEpfQUY4WVhqamZQdEc3QUVUVWlQeEpCSTd0Z0NmX2pHbGtVVXlxOUhsTXFGR0VobTNXbEV1bzd0YmdYZw?oc=5",
+        "headline": "Japan 10-Year Bond Yield Moves Higher",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/28 15:40",
+        "published_ts": 1793169600.0,
+        "tag": "JGB",
+        "first_seen": 1793174439.421661
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFV4UE5lSmR5LS1IdG9XZEZEM0dvRXRPOVRuaWNPQzQzZjFfUmsyZUY0NVZ2bzBWNHJFamlDcU1wZmV2OVVTSV85TjBQcHlmcllVSGQxYmhzdTViWExEa2cxRGxwbHJueUZUeGtlb0Iwd1d5aktMdjNzOUN1SU9fNl92akdKemYxUUN1ek1uclFKWFY0QUJXN1RVbU5yekUzOTY4YkZjdElSVVg2dWg2bmNJREdySGJValJhbUNpc0Q0bDNxRC1GLWloTmdYVGwwNWlHZVFiUHp0R04xdVVmUnpmMNIB6AFBVV95cUxQczMzcFlRbV94Y2dQTDhBdG1pc0JWOU1SSm1rQzZRLVJzMnhhUFZFdGo1TUxYc3NmZzFONGNRTjlMR3BkdExyZTNMN2s0SmQ0d2dVN3ktTkFub0I4VHk1cUVNeS0wN1kxMUlUOFNuOWxraDMzcU56dTdRZnBTRlZVQlVQRFpRbGVnaE84T2ZZU3JYY0VGOG45aFBQckdpY2lmWUR6TkZDY0xLTnp2SVdtMFo3NHpvQ0hsYUNGcVJrcUxLVER0OVFVcVI0TjlDeDlBakVmdjFXcmR5alg2eHZQVl85a0RjWUdL?oc=5",
         "headline": "Global Market: Japan bond yields rise as investors eye BOJ policy meeting",
         "summary": "",
@@ -1668,6 +1688,16 @@
         "published_ts": 1793166620.0,
         "tag": "Fed",
         "first_seen": 1793172631.7420652
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oazhreW02QkdPMDVHbjZIa1gxX0UwYVU5bksydXNibFB2ZE1laDZtZ2NkS0piTHZtVDhjdXhkbHFKZmEtQUhWSVR3dkltUEdoRXBtNW83X2R0QdIBYkFVX3lxTE5wbm0tV0lmM1BiYk50dHo4aGR5Zlp3cjQxcHRyYUgzSU9qZHZKWE0ybDBySGNSdGpyWG84SUZWdWVQQnliT3B6NjVETHZPV0w5ZXBlSUFNMmdVZUlKMzdreFhR?oc=5",
+        "headline": "Frankreichs Schuldenproblem: Nicht der Staatsbankrott kommt zuerst – sondern das Ende unbezahlbarer Versprechen",
+        "summary": "",
+        "source": "Xpert.Digital - Konrad Wolfenstein",
+        "published": "10/28 14:45",
+        "published_ts": 1793166303.0,
+        "tag": "Global",
+        "first_seen": 1793174439.421661
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNODdBMjYtUDRlUUh4NjZVQ29DUkVzZm9ZNVU3cElLQmpPMGdiT0p5aFRidWpHbWMtaGJpMk9Ob0lfSEFpVFFfVU9McXNEa181c2pfdEF4UWE0clkwS2tLVFpqRk1HVGtZN3I5cUhLVy1XU1NiWkVxUkZrREprZE9xc0FIeno3QVFHZEtPUUFUU3dhbGV5QXdmckFpS3U2S1Vmd0F4aGY4a2Q1NThGU0g3YTRKUFBmeUszbzk0TGFQUVUzN2s4NmkzUQ?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793129711.0,
         "tag": "Fed",
         "first_seen": 1793141124.1653862
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNjhieHZxVlFYR2loR2ZEQXNkbXcxWnZlTGNLS3hwM25lbGltRGp3OE5sbl9WU2NsYk1iRkNuU3diOVpRQ1pxOUJmZGlna05lY2FmZjF2QkZEMmdxRkVSTlVqYTdOM0xVUmd6N1pqdHdQR3VvRUUtOC1aeXVUTkZXZHhObFlLZjJzd3BrRTc1bU1lUF95ZjVJeEUyZGNOSk43bWJvbWEtM2xacjcxdnB4bllodnpPckFDWHBYSWg3c1Y1cEhCSGpQZGFpbU84NVk4QS1YN1ZlVlhrd9IB3wFBVV95cUxPbzRXVjdmalJxRDBmWnlIRFkxaGlSY3hBb0pvSFFvQzl4TENQNG9aM3JRT2xINmtkWUJWN2xqM3p4ZG9qRm83TzA2OFdrai1RdDBLaElqbWlIbnQwSnhFdzJWSEcySkQ4R3NjZVFNTnd5c3lFZHh1ZjQxUGN0XzhHeUZQTm1VdjJaUDhURHhNZXg5QVAwaXJvaG45cmE2Mnh6YUtlVkFMMkVpcS1tRE9rZTFzTnhJeTJvN3RTbVYtTTFqRGU1SVpyczQ2bVBwb2Iwc3NMNjQ4UmlMRjFqWWpR?oc=5",
-        "headline": "Shaktikanta Das pitches for bigger banks, deeper corporate bond market",
-        "summary": "",
-        "source": "Business Standard",
-        "published": "10/28 03:24",
-        "published_ts": 1793125492.0,
-        "tag": "Global",
-        "first_seen": 1793153730.2757733
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONmxYMWYwWlB4MmFvaXdNZ3hWRTQ0WDM4RU44emhwNTJ5a0JEQ0VFY05IbzlWQUQ0U2hKckFWbG5sOFotMDloeXViZ2hBU3FURzd3bjUydnRUVFNJZ0VyV3Y5SGxZbFFQWFQzSV9qbmI5ckRtM1I3a2ZmVi1PcDlhMU9yRXVGU0I0SmF5WjBZMTFEOUVWRzlQM20zcVN4ektxSFRkbktPaGR2UQ?oc=5",
-        "headline": "Federal Reserve Chair Warsh Holds News Conference",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "10/28 03:14",
-        "published_ts": 1793124873.0,
-        "tag": "Fed",
-        "first_seen": 1793125833.8561351
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSUFKR0pOamtOQmRNeVp2RFp4aGhLWG5jWlVTemV5YVNzbXVPNjdCQWhRNWxPeGNLTk43RndUcHUycFY0MER4cS1iOWo3czRzUV9wTDF0YWZtMmkxaGJkb0I4c25CUEJIanF1dXVjVjdkQkhaOFl2bnJFaDFTWXVHUmE0SngxU2s?oc=5",
-        "headline": "국제 금값 다시 4000달러 붕괴…달러 강세에 연준 금리 인상 경계",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "10/28 03:00",
-        "published_ts": 1793124000.0,
-        "tag": "JGB",
-        "first_seen": 1793129432.8445597
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 16:45:49",
+  "updated_at": "2026-10-28 17:01:04",
   "yields": [
     {
       "label": "3년",
