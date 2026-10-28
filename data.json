@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9TOFpLT3o0cTA0dHZ4dUFTR19iU1FKLWRGeW0zVUdzbUdlcThDRWoyVlBweGdqNHF5VW5iNm5SQlFEWTBjLS1MQTdNQXVUV2tTZWVuRWhaTHhXeTVDRFljMVVjVVVPb2lSd0E?oc=5",
+        "headline": "분양은 끝났지만 입주 못 해…'잔금 절벽'에 건설사·계약자 '발 동동'",
+        "summary": "",
+        "source": "nbn 시사경제",
+        "published": "10/28 10:53",
+        "published_ts": 1793152436.0,
+        "tag": null,
+        "first_seen": 1793152841.4702883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRW5jdFh5OVBjSGN6Qjd2QVd1c200SldqSV9FcHk4NXVkRlZ0aC1kNkpDYlV5aEoybHF0aGFOOVVlaXJ0ajkyTTY2Z3lxd093bFVkaUV6VEpqQUdnOFVuSnF5ZXpibGdlZHVj?oc=5",
         "headline": "LG엔솔·CJ제일제당 신용도 방어선 붕괴 위기",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793084151.0,
         "tag": null,
         "first_seen": 1793085329.0665925
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ha3BiWHFRdzZWMFNuWTYwLTdvTkd0dXE3NWFMOFBjTUtFRlVPRlA5cXptYmw3V05keVUtM3VjT05KS1F5SWlXZ1VHV1NrSzZRLTJyOVRSZUNFemRjXzdHZUFPVHV1dEZUUmpkV1I4bE01UQ?oc=5",
-        "headline": "[증시-마감] 앤트로픽이 되살린 반도체 투심…코스피 3%·코스닥 2%대 반등",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/27 15:55",
-        "published_ts": 1793084129.0,
-        "tag": null,
-        "first_seen": 1793144725.0357404
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQdIBckFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQQ?oc=5",
+        "headline": "李대통령, 첨단산업 위한 '선도구매' 지원…\"대출-재정 '하이브리드\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/28 09:30",
+        "published_ts": 1793147420.0,
+        "tag": null,
+        "first_seen": 1793152841.4702883
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HR3VjUHFxR1dKNllGelZ0RzdVR0pnclhYQnNDMmgzcy03cm1LcHEzMEE2YkFfQmVKNDVBZm82TkkxUmFUeGE2ekZUaWd3SVZlUUwxOEFodkF5TGRWODZncW1zWEt1RERJS19N?oc=5",
         "headline": "李 대통령, 외국인 노동자 발언 논란에 반박…“도움 안 된다고 한 적 없다”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792915200.0,
         "tag": null,
         "first_seen": 1792919722.445641
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9Lcno1V2szS2s5Wmt5dGxyLWg5N0tldjNEME51SnJOMGY5Q3EzeHlENERKbDhFUVFTWEt4c2tSTjlPT1lZdVoxRmg5YkEtckJH?oc=5",
-        "headline": "이준석 “추미애, ‘이재명 방만 행적’ 말 못하니 애꿎은 소방만 도발”",
-        "summary": "",
-        "source": "문화일보",
-        "published": "10/25 16:58",
-        "published_ts": 1792915127.0,
-        "tag": null,
-        "first_seen": 1792925124.0209138
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 10:45:45",
+  "updated_at": "2026-10-28 11:01:08",
   "yields": [
     {
       "label": "3년",
