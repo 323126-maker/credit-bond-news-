@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNODdBMjYtUDRlUUh4NjZVQ29DUkVzZm9ZNVU3cElLQmpPMGdiT0p5aFRidWpHbWMtaGJpMk9Ob0lfSEFpVFFfVU9McXNEa181c2pfdEF4UWE0clkwS2tLVFpqRk1HVGtZN3I5cUhLVy1XU1NiWkVxUkZrREprZE9xc0FIeno3QVFHZEtPUUFUU3dhbGV5QXdmckFpS3U2S1Vmd0F4aGY4a2Q1NThGU0g3YTRKUFBmeUszbzk0TGFQUVUzN2s4NmkzUQ?oc=5",
+        "headline": "PGIM’s Robert Tipp on sovereign stress from Paris to Washington",
+        "summary": "",
+        "source": "Investment Magazine",
+        "published": "10/28 14:07",
+        "published_ts": 1793164038.0,
+        "tag": "Global",
+        "first_seen": 1793166327.191461
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxb2xYR0ZGSHQ5OHA3Rjhsdkh1LXNhLWlpX3d2MmE2WEdmN2U2SDYtd2xLUlV2ZzEtck1NR0VMSDFVY21JTXhEUFItYnlBQTFtQk5qTHFqdmpjajli?oc=5",
         "headline": "[GAM]드러켄밀러가 선택한 나테라 ② 2027년 흑자 전환, 500달러 예고",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793113479.0,
         "tag": "Fed",
         "first_seen": 1793117727.048018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYzlCMFJjc0lNS3ptel9nczd1S1dsZ3dMUFVCTnhkZ25UVkRBOWd1T1g3WGpuVE5RcVo5dGtBRXNvTWNwQ1kwczZuWDV3R0xaLUNfZzlQdnc4a0V3SWg1VjlxV0R2OFlCTl9paGVXWE9yNWhnOGozaEFZMlhESmY4M2RMbXF5ckgta1VDSTNB?oc=5",
-        "headline": "Global Bond Issuance Faces A Slowdown As Rates Stay High",
-        "summary": "",
-        "source": "Finimize",
-        "published": "10/27 23:56",
-        "published_ts": 1793112987.0,
-        "tag": "Global",
-        "first_seen": 1793131238.4025087
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 14:30:59",
+  "updated_at": "2026-10-28 14:45:51",
   "yields": [
     {
       "label": "3년",
