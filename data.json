@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQcU5zUzdmLWRYNW5PSHBOMmUyVEdBTEZYSWVVclZTUG5IUDlvRkdjN1BIY1QtSFhjbFY0eGkyUnFaMU84V0JKZ2Rpbi1tSTdsNFZ4TzBhd1NvXzJRUXF3MWlCLXNLRVhiQjd0Wm1Yal9ELWVBNEY1OHM4Q0JmR2dJeEVOeTNpUUHSAZsBQVVfeXFMTU5DS1AyMjJWSFNwVlNNN09zTVRyN1NZbzh0a3ZXNlFYTEE2S1R4QWwxU3pWOTlPR2trQndHa3JwMWtwbVlEbzdPeEhkR3UybG1QbDlfVTZ6WW9CVnRKV1B4dFhBbkRpbjZVR05vampqcnFQRUNieHJndlBfZ3M4Y1pKdHJ3NjlnblpMWTdfeWxfYVkzeGpHNENMZ1k?oc=5",
+        "headline": "인도네시아 시장 불안에… KB국민은행 인니법인, 달러채 발행 계획 철회",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "10/28 17:00",
+        "published_ts": 1793174400.0,
+        "tag": null,
+        "first_seen": 1793175329.2907474
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeklJQzlQWERVWVZWX19KaFhwS1M2d3lUSmRxMkIxYjZ5UzBTZkJzOE85dmoyXzZ1cTZjOFZvVzZfWTQ5UU9ZM25qdFJOTGhBc1R6cTlnd2pFcjNlZjNZMXZobFMzbTZKYVUyYWp4cE8xQQ?oc=5",
         "headline": "[증시-마감] 코스피, 반도체주 강세에 상승마감…10거래일 만에 6천선 복귀",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793090867.0,
         "tag": null,
         "first_seen": 1793091643.730231
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CSDJ3SkFfUjhpSUdfT3FNSENnSFU4LUVaYzJLemQ4amNtSThZZ1g0ZV92Ulp4bjJzVElkVG5ZaU1sZEo3Q09IcXp0VEo2Q09BN29UUFpsMFN1bUFOSW9FSHgyQm5pVFRFWXZnNFIxTErSAXRBVV95cUxNWUVjbkZfcWNzMVJUTzNrc0tNeGxCSy1hSXEzX2V1Rk10RGdYMVphQ0tad2psNkh1SW9wbVlGZXBBaWxLVjM3WDZsai0tNm1RS0hPTXpIU2d6UUJkRjBTRC1FU0NpMkZTSjhGR05NS0lwRWJvWA?oc=5",
-        "headline": "외국인 매수세에 국고채 금리 줄하락…증시 급등에도 채권시장 강세",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "10/27 17:33",
-        "published_ts": 1793089992.0,
-        "tag": null,
-        "first_seen": 1793097929.0032554
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBMVzY3ZHlUXzR6b2JoTHJlTUZvc3g0M1M4VUhFM0tubkZSdE16M0RPbzhTYWdRUE8yeFZ4V1RNNlJacFF2eVhvTjdZYVJQaTRWZUhhZy1RUGRYZHJIWWs1eXhUelZWNmI3T0JmY2l3?oc=5",
+        "headline": "靑, 李 '외국인 노동자' 발언 논란에 \"기여 존중…내국인 고용도 늘려야\"",
+        "summary": "",
+        "source": "폴리뉴스 Polinews",
+        "published": "10/28 17:04",
+        "published_ts": 1793174670.0,
+        "tag": null,
+        "first_seen": 1793175329.2907474
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rcWkzTV9YbVRTdjJyQ0lJVUNKMklJQXFnZFAyVUpTYW83QnVQLWVON1hMcF9SU3FfS19KTEV3bGlxVUktRW5MYkhaN3lQZ3ctR1IyNmNEQVMyRXd1ak5wcklCSQ?oc=5",
         "headline": "친환경 약속만으론 투자 못 끌어와…日 연구 K-GX에 ‘충고’",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1792969919.0,
         "tag": null,
         "first_seen": 1792974640.307049
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ZMGpUWC00OVJUUy1PaHFNS25raEdXeS1MYjJuOTluU3Z2X1VPUTlWbk5TLURZNzg4RGE1eDAyd0VoaVRxaVdFWNIBZEFVX3lxTFBEQjdOYlhEMjFDRU1qMzU1QVVsUDZTdWwwY0RZSWJBMlhWTjhtbFFmaFV0cjZJZ1ZELWk0dHZ1MlIzbUpwTEo3eHJxcElLbDhoR3V4Vnh2VWNOWWRIZDhiVUw4TVA?oc=5",
-        "headline": "이준석 ˝추미애, 애꿎은 소방만 도발˝…소방 재정 발언 비판:중수청일보",
-        "summary": "",
-        "source": "중수청일보",
-        "published": "10/26 03:56",
-        "published_ts": 1792954575.0,
-        "tag": null,
-        "first_seen": 1792959325.941032
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSlFTd3dmOGJxRGoxVGZWRlEwR3JVV2FGR3NVN0xfZjlPcmZsS2EyRHVzaUxTclBHaUxsNVNBbjMxM3A2SHpqa25URzQzLTRVT1dFd1VRQTM5YUxxeDhUalB1eEJWSnZlbHQtLW5ySW1ESG1za1lYcHAxN3RWTTJwX9IBlAFBVV95cUxOTzM5VjJ0RUMwYkFNdm9aUm43UnBDVW00ak4zamRNRDlFUUcyQXZDMEdlSDZ4ZmxhS2FXb0RDTHFWeDNFZkljMGItSklmRm8xaF8zOEstZXNsSWphVm9ZbXdzRE9kM3d4dHFEb3BkR1dfYnhkbFVMdE1DamVuRXAtc3JaVHFvV2FKbEMwZjd3UE9YX05D?oc=5",
+        "headline": "KB Bank Indonesia cancels dollar bond plan as Indonesia risk spooks investors",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "10/28 17:00",
+        "published_ts": 1793174400.0,
+        "tag": "Global",
+        "first_seen": 1793175329.2907474
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wbWRvbS0zMWlRV0lGNmlJSEw5TEdiWi1oOWUwTDVoZmhhMzJrOEpJMHpaVUs2NkZoSmlXWVlQRm14YmJHLVlUdEt0dkthd0ZMMHVLcVFB?oc=5",
         "headline": "한국, 올들어 美국채 238억달러 ‘역대 최대’ 순매도…일본도 순매수 99% 급감",
@@ -1738,6 +1748,16 @@
         "published_ts": 1793160000.0,
         "tag": "Strategist",
         "first_seen": 1793163642.4830596
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTkRfNmJDR2wwYXBfSmQ1bnpOOG9LaS1nNjJGZC1LWjBwNHF5QmM3bjd1SHNoeDFkS0xuVjd3U0tTTmllOUxOcjI1dmQ0T0tSX2JtamQyUUs1cXpEYlRVaDFKYTFpQmdDbnRZNjlNZG94QWpWeERCRzQxU1FhaXZGUUs0dkg4WXU1U0RCcE9yVFlNVVZZaFg4V0hfeURGSF92Mk1N?oc=5",
+        "headline": "Federal Reserve Chair Warsh Holds News Conference",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "10/28 12:47",
+        "published_ts": 1793159254.0,
+        "tag": "Fed",
+        "first_seen": 1793175329.2907474
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcU05Zk5jWTJFdWpiZl8wSXQ5MHdxLWU5TkVPT0pOZms0c1VxYW1WbGlZVHZIRXlPSXJmQ0lzOGpFOGxMS01CczRURjgwcml1bnV0XzZxU2FkUk9KeHlHSm4zNmJpX2RuNWZWZ3IyWTNNbnI3a2pyb0UyanBrWDNTcll4QUotcWwzYnIxX05Fbk5XRVRJNmdvQzZJV1lDN2NFVnFvaURHb3ozN3BKVGc2aXZ1UVJfZw?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1793131695.0,
         "tag": "Fed",
         "first_seen": 1793135725.939396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZNHVhb2N1VHhYN2hEc1pibmFxYUpRc19YazNmd2t2S1UweGJLN0hra1F1S2JHNU1MeDd1VV94N3VleXRaMmxHX0ZZV0doNFFrUkVrY1pJMjFNSVdHSmt6SFBXeGZTU1Z4alp5emxrcW0zN1HSAXhBVV95cUxOVGR4c0JHMzVmajhYcHV6T3djck95TXROZGU4cmRobTJsZ3pRczlQcmVHZ3IzVkIwdTBjTnpwWGJnX0FnZVg2bWh1bGZqd20teXEzR3pZdWVjWXYzTmt4YXhfdnJUNlJYNHJlUFE0R2ZDTDVlSWJwcUc?oc=5",
-        "headline": "AI debt fears ease ahead of Oracle, Alphabet and Amazon updates. Here's what to watch.",
-        "summary": "",
-        "source": "CNBC",
-        "published": "10/28 04:57",
-        "published_ts": 1793131055.0,
-        "tag": "Global",
-        "first_seen": 1793135725.939396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUFNrS2xvcG5jaWYyYk5Wa1E1blZGeUgwY1doUFpDakFmcWJJdzBGdkVvX0R4RHZPRk50VUgyODQzTUNBd21Sa1JUUFB3ZDd4NHFUWmQ2Y2JGYnFfRjQtdXJlRWRTel9VTVVCeW1VMG5qSXRvYmJ0Y3ZDTmhLY0VpbWxkRU1LclJ6MVZIOG8xcTgzanVTZTNIWUxyYXgwVlV1VjhiSQ?oc=5",
-        "headline": "Bond investors are thinking less about the Fed and more about AI, deficits",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/28 04:35",
-        "published_ts": 1793129711.0,
-        "tag": "Fed",
-        "first_seen": 1793141124.1653862
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1peHlzUWl0eU9oczVTVFkxSnBDRTZxU3NmNkc0dlY5eHEydnp0LWJqT0RqMmJVbkN1UXdFakdEWmJkZjAzTzJMU3RtemMxdw?oc=5",
+        "headline": "현대카드, PLCC 파트너사와 'AI 데이터 동맹' 강화",
+        "summary": "",
+        "source": "전자신문",
+        "published": "10/28 17:00",
+        "published_ts": 1793174400.0,
+        "tag": "현대카드",
+        "first_seen": 1793175329.2907474
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqaFRYQUFsTzU4NzA2a0Y2aTBxTHRVeXZOUXc0RWN6eVRqakFrR05zNTQwQjRpaGRYd1FYNHJXZWJhZ0dRTTl0Y2hmQ3Y3TEdvRFlORkFhU2VTSG5HLUp4aA?oc=5",
         "headline": "기프트카드 최대 실적에 신용등급 A+...CJ올리브네트웍스 ‘겹경사’",
@@ -2400,20 +2410,10 @@
         "published_ts": 1792969561.0,
         "tag": "우리지주",
         "first_seen": 1792976441.5036368
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjUFdoVWdkVzFaLWVDWWx6YjFVcjBmdjlmNkZ0VE55TXFZMW5XZnRJYkJQeXZUOHVOX0tZdHR4M1huWlFSRU8yRk81Nm1lVmhVNTZ0d09ESF8tcW8wREJVa09wemlRZ3ht?oc=5",
-        "headline": "기준금리 동결에도 카드사 ‘긴장’…롯데·현대 등 8개사 연말 5.4조 차환 부담",
-        "summary": "",
-        "source": "CEO스코어데일리",
-        "published": "10/26 07:00",
-        "published_ts": 1792965600.0,
-        "tag": "삼성카드",
-        "first_seen": 1792965933.582241
       }
     ]
   },
-  "updated_at": "2026-10-28 17:01:04",
+  "updated_at": "2026-10-28 17:15:53",
   "yields": [
     {
       "label": "3년",
