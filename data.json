@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPbFV4UE5lSmR5LS1IdG9XZEZEM0dvRXRPOVRuaWNPQzQzZjFfUmsyZUY0NVZ2bzBWNHJFamlDcU1wZmV2OVVTSV85TjBQcHlmcllVSGQxYmhzdTViWExEa2cxRGxwbHJueUZUeGtlb0Iwd1d5aktMdjNzOUN1SU9fNl92akdKemYxUUN1ek1uclFKWFY0QUJXN1RVbU5yekUzOTY4YkZjdElSVVg2dWg2bmNJREdySGJValJhbUNpc0Q0bDNxRC1GLWloTmdYVGwwNWlHZVFiUHp0R04xdVVmUnpmMNIB6AFBVV95cUxQczMzcFlRbV94Y2dQTDhBdG1pc0JWOU1SSm1rQzZRLVJzMnhhUFZFdGo1TUxYc3NmZzFONGNRTjlMR3BkdExyZTNMN2s0SmQ0d2dVN3ktTkFub0I4VHk1cUVNeS0wN1kxMUlUOFNuOWxraDMzcU56dTdRZnBTRlZVQlVQRFpRbGVnaE84T2ZZU3JYY0VGOG45aFBQckdpY2lmWUR6TkZDY0xLTnp2SVdtMFo3NHpvQ0hsYUNGcVJrcUxLVER0OVFVcVI0TjlDeDlBakVmdjFXcmR5alg2eHZQVl85a0RjWUdL?oc=5",
+        "headline": "Global Market: Japan bond yields rise as investors eye BOJ policy meeting",
+        "summary": "",
+        "source": "The Economic Times",
+        "published": "10/28 15:25",
+        "published_ts": 1793168718.0,
+        "tag": "Fed",
+        "first_seen": 1793169923.9996555
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qNUZORUZuckN0a2t3bEJvVkVNMFNTblJsdWhZN0NMcllLbG1PTUszcXdDdWJBVFQ4X1lDa0pFemJBNlhBUWRSdURma19xcmpiUHA0NnpjVkxFZ0E?oc=5",
+        "headline": "“믿었던 한국마저”…美 국채 파는 동맹들, 트럼프 어쩌나 [이슈+]",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "10/28 15:21",
+        "published_ts": 1793168517.0,
+        "tag": "JGB",
+        "first_seen": 1793169923.9996555
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNODdBMjYtUDRlUUh4NjZVQ29DUkVzZm9ZNVU3cElLQmpPMGdiT0p5aFRidWpHbWMtaGJpMk9Ob0lfSEFpVFFfVU9McXNEa181c2pfdEF4UWE0clkwS2tLVFpqRk1HVGtZN3I5cUhLVy1XU1NiWkVxUkZrREprZE9xc0FIeno3QVFHZEtPUUFUU3dhbGV5QXdmckFpS3U2S1Vmd0F4aGY4a2Q1NThGU0g3YTRKUFBmeUszbzk0TGFQUVUzN2s4NmkzUQ?oc=5",
         "headline": "PGIM’s Robert Tipp on sovereign stress from Paris to Washington",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793117034.0,
         "tag": "Fed",
         "first_seen": 1793123126.4805276
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1MUGMwQ3Z0WE5Mb0tuUHVTMlFuV3NYbHpDeDhESWVOVWZDcnJ1OC1ib1ZzSG1UamU4bGFBcG5LZlhQMW55SEpmRml4MDF2c3pQQWppU2xLTUVLY2FxTnFJOW1PTTZIelpJQzh6Z2lTNA?oc=5",
-        "headline": "JPMorgan CEO, 미국 주식·채권 5대 리스크 경고",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "10/28 00:43",
-        "published_ts": 1793115788.0,
-        "tag": "Strategist",
-        "first_seen": 1793115925.9430666
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBNNG52bHYzNDFNUlp4U2hLeV9YVWUyOWx1c0RZMm45ZUFJa1R1bFliWmV4WmNoWkN2a1VNd0ttWnlXc285Y0w5VGhobGRaRGY0ZzZEZ2JNcXpfT09OalhnSDFjMnZfUUpGbUVr?oc=5",
-        "headline": "JPMorgan CEO Warns of 5 Risks Threatening US Stocks and Bonds",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "10/28 00:32",
-        "published_ts": 1793115120.0,
-        "tag": "Strategist",
-        "first_seen": 1793116852.2868593
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-28 15:38:38",
+  "updated_at": "2026-10-28 15:45:47",
   "yields": [
     {
       "label": "3년",
