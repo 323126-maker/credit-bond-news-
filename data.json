@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QR1JNekFtTjhOX3pVYkkyeXJKcXBlRS0zN3A5UWlaQUs4QmVWeV9ZcmRGVEoxaGg0WmZYVFZ4WEtZSXV1R2M4MHJkcG8zdk8xMWxFbklWVmp1YWM5MmtBLTQ4a1p2T1B2akJEbWJ3dVTSAXRBVV95cUxPRWphdTItYUx3YzNrTVlqU3Q1bUFTUloySGU2UGFSeEFwWXNTTWRiVUs3X3A3UEhqSGdpZHUxT3RYcU9PYllhd0kwekpxT283RHlLczZPLXJFODJKVUZONW1fQkxZdVRsQkEzcVdCakxZM0lXeQ?oc=5",
+        "headline": "금리 묶였지만 긴축은 계속…가계·기업 '이자 압박' 커진다",
+        "summary": "",
+        "source": "포인트데일리",
+        "published": "10/29 04:00",
+        "published_ts": 1793214000.0,
+        "tag": null,
+        "first_seen": 1793217643.8548884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrbmVtWXlaYS1uOUpVbWRYWEdsSGI3bmZiS1dqd3dBdXEyd2xzcWdqUDdtYktjX2xGS0lpWFBBcnVwbkMtYTJNU0JEcW9SeXhkekxtcEJSOG5HZmNkRnNCUA?oc=5",
         "headline": "채권시장, 12월 금리 인상 가능성 90% 전망",
         "summary": "",
@@ -242,6 +252,16 @@
         "first_seen": 1793152841.4702883
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VM2tPOUFNWnlKOE4tdVktampYaE05XzBBZ19neVpINkdCY2ZzTVRnZEZON21pcnBVdGJMQVdzWEM5cHZrWFI4YzBnVG9UcE9WSVI5TDFzREFrX3BQaHhlZHhPMzVLNlNabjE5VGs3MUI?oc=5",
+        "headline": "신한은행, 한국형 녹색채권 1천500억원 발행…태양광 지원",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/28 10:50",
+        "published_ts": 1793152226.0,
+        "tag": null,
+        "first_seen": 1793217643.8548884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpRW5jdFh5OVBjSGN6Qjd2QVd1c200SldqSV9FcHk4NXVkRlZ0aC1kNkpDYlV5aEoybHF0aGFOOVVlaXJ0ajkyTTY2Z3lxd093bFVkaUV6VEpqQUdnOFVuSnF5ZXpibGdlZHVj?oc=5",
         "headline": "LG엔솔·CJ제일제당 신용도 방어선 붕괴 위기",
         "summary": "",
@@ -378,26 +398,6 @@
         "source": "한국경제",
         "published": "10/27 23:26",
         "published_ts": 1793111213.0,
-        "tag": null,
-        "first_seen": 1793111436.7626827
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWFpyVVVKb3N4NER5NWFqcm1EOHdMb3lBNGhqa085dHc3STk3cTVIM0ZMcXptMUMycnlmbzRObzFaSHBmR21QYlhIRE1RTGdPalE3V1dEdHYxb2pBMGtLcm9CSWJmRENvMExFQ3FzNmJDOFVGeEZSSTBuSV9tX1NGdFpiSjZib1ZlUU9TaG13?oc=5",
-        "headline": "테크콤뱅크가 피치로부터 신용등급 상향 조정을 받아 재무 상태가 강화되었습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "10/27 23:20",
-        "published_ts": 1793110857.0,
-        "tag": null,
-        "first_seen": 1793113244.611698
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE50MDZQeWZlUXBxM1B6QUVwamRZUXJ1N3I2c2o5czNPRUZGOUZnbEwwQVYyTjdUWnUxeTNyS21KSzNjZzdfdm9TYzFWWmFobGFWU3Frbk5rdUpROVlyZFFtRXpQRklhMFJNMUlLUWNnUWw?oc=5",
-        "headline": "美 국채가 강세…이란 최고지도자 종전 의지에 유가 하락",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/27 23:03",
-        "published_ts": 1793109819.0,
         "tag": null,
         "first_seen": 1793111436.7626827
       }
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MN09fQVFNRnR5N0tUQXVQbE9ZcUNINlJuMlhzS1lJOU9qZzZHMllkUWNqTk9YWGQtQWRGTnpqUkV5Q1cyTlRTeXVZZUJ2Ym1oM1hsRkNIREZTc2VVWXVQazI3VFkyVi1wX2drUA?oc=5",
+        "headline": "Warsh Reshapes Fed Meeting Schedule Starting in 2027",
+        "summary": "",
+        "source": "SuaraGarut.ID",
+        "published": "10/29 04:45",
+        "published_ts": 1793216700.0,
+        "tag": "Strategist",
+        "first_seen": 1793217643.8548884
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFh1TkxQOUJnamMzRV9uLXlGa2RDRHNDZjFfaEhVQXhzSE9SaUREQ1BCX3B0Q3FNOHQ4MnJnTktkLTVSZmI4SFdrWE9QNk84Wm1qUVR1U2FsZWVJdTBjSENCblMwbmx0NVNsQzZPUFh2b3NNRDBMX2hjRmtJc1RSSlgwdDRrel85TExhcm5SNUlIUXNTemNTbVYyYUJVQWJtMUNXS2lUZWJRSzU1NDF0bE1abHFRcFJiM091NndZcmtXS19Ub0VSNmN1TVhkRXdvRWEwRVdTOUk?oc=5",
+        "headline": "Fed Chair Kevin Warsh Announces Interest Rates Will Remain Steady Amid Elevated Inflation",
+        "summary": "",
+        "source": "C-SPAN",
+        "published": "10/29 04:41",
+        "published_ts": 1793216466.0,
+        "tag": "Fed",
+        "first_seen": 1793217643.8548884
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmJkV2lUbklBWGZ4SWxMeTI5bnBTRnI2bWV2dmpqR2dGajFoeHM4cWRTSmxhMnV4YUZaMnI4TnAzQmJ0Y1RTUFhiaEoxWW9ZQWNjWlIycnZfWGpSZVF5ZU83MS1ZSW9tN1pyWHdIY1p1NjRCVFlaR0FaVlZoZWtMb0ZoSEFrX1NGbGtvNG9VbE9GY3NQakdrRTFJYjlyeG0zTWc?oc=5",
+        "headline": "Fed Holds Rates Amid Treasury Yield Surge",
+        "summary": "",
+        "source": "Bisnow",
+        "published": "10/29 04:32",
+        "published_ts": 1793215940.0,
+        "tag": "Fed",
+        "first_seen": 1793217643.8548884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWXZweHZKY05ycW5fSElpaGJ2OHZ5NUZYeWY2U1FNSXZqUHB4cDNzWGZPRDFFOG5ES2JYTnduX1NrbU43YWNOYWtsVkEwd0lrY2tOb29sZk9JTE9UbFVwN1dvWXloR1Z6RlhzQmF2U0ZrTTFmeVV0UzBUZWVfZ20xS0xYTlBWalFuNlZLQ0tHM2ZCZEJicnJ0V3NiM3RBUFcwNXRDZU0wbmRjNWJNdk1ZM3Y5amlVcnZQdkdGdnJuTFUzQjNtV3JqRlkwVzNxOC1nUFNDUWtjZzBRMGls?oc=5",
         "headline": "Fed Chair Kevin Warsh Slashes Rate-Setting Meetings From 8 to 6, Even as Inflation Accelerates to 3.7%",
         "summary": "",
@@ -1700,6 +1730,16 @@
         "first_seen": 1793214039.9713736
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmFaSnVIZ25QMm1nYTFDalFNWnhBNmRWc1VlV1RlTDhaT0IxSFVEc2pZVmFuay1UYUszVVpOc0pvTmFXZG42QmJpQW1fZnRLS0EtbGtzNjhtazl5OWttS05aVFROWG5ReVdHNGsxT0FYdVFOR0JpYVJ4YUpvbzN5U1FNY0RjTWgtcWFFUGVyNUVpbFhLNHEycXh0eWN0bDFNd09mY3B3?oc=5",
+        "headline": "Warsh Says FOMC Meeting Schedule Will Change as of Next Fall",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "10/29 03:56",
+        "published_ts": 1793213766.0,
+        "tag": "Fed",
+        "first_seen": 1793217643.8548884
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNTFNHanJ3MTBjVnBzMDd2NTFYRTR1azVJNmdJbXpiYm8wd0phUHZfcVNBWE1ySUwtSnJsVldzdGxoMXZTd09FR1pPV1EwV2N2YkROMVcxUENTRTNVd2NfQUdiM3JReWNhTTdDVjNMZ1diU0NxSEN2M1l1THVaNUo3emVBU0pSRHFZWE1JcHY1VkliTU9SRjB2VDdlTUJVSHZod1ZnZW1SeW53MWIyNDNDSWk5WW5IczBETFdjakhzdVNXNVdzNFFQTEtmQzNBek5wWmZjLWRxSmI2N09DZTJn?oc=5",
         "headline": "Fed votes in split decision to hold interest rates steady despite sticky inflation",
         "summary": "",
@@ -1788,6 +1828,16 @@
         "published_ts": 1793208871.0,
         "tag": "Global",
         "first_seen": 1793210441.1148548
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSTFwVlgyNU05Q1pQQnhSRnVyTllGMXhxYk9rTjdIYVNwdjJjN3NjRE9GVjdHOWJnUEV2TlBVU2Y5ZG1xdThELXNvN1Rud3NDcHhHd2Z5MlFxYlg0aFNtZ2x5WE90SDlteUtObG45dUR2TjdveXpwUjhHSUFNWXVRWmhuaDVYSzk4WTN6UmlNRmhJYlB6eU9ndU1HS3pTdnRjX3lrV0hsek5aXzU1NVA3bGRxNm1LV0lzVVNOS29HcFItRGJpalE?oc=5",
+        "headline": "WATCH LIVE: Fed Chair Kevin Warsh speaks as rates expected to hold steady",
+        "summary": "",
+        "source": "Washington Examiner",
+        "published": "10/29 02:30",
+        "published_ts": 1793208600.0,
+        "tag": "Fed",
+        "first_seen": 1793217643.8548884
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GYVhYbHduUlF2dUhvVEZ6bEVIZ0NuWTVmWWRyd0xBMEwtZGxhYTJSQXBQRTRCX19seE5WUjBaVGZCSmpfeTl0S0p1eTA3NEZia3hPcXppbXJwZw?oc=5",
@@ -1958,56 +2008,6 @@
         "published_ts": 1793193300.0,
         "tag": "Global",
         "first_seen": 1793194237.6405756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPQ3NaN3JBR1diV2l5MktMeG1tOGlLZkJrME9zSlQteTczVmpINDZIS0hNcXR1U0VoQjgzWlhMejVLSmdvU2RVeS1NVThMak0zNWptQ0lyZFZadmNlaWFfMG1Beno0ZjNsMmJCX1ZqOUZhVG1uRE82LS1rMkNHdXktQmJlRF9fY2ZiM1ljWHJRcGVkaEV6SHdMaG9rdEJCTTlqUkRfTWN1RC12ejhtdk00YTlmeDFtTnhJdTh2OXRqTlRoZFZ6bWtyRmNEY2dhQnB2aEc5XzdqdllCd2pqN1VsVW5MWG12bFVUd0dhNjlrcWJpOWlpaF82THpva2dGV21KTHdF?oc=5",
-        "headline": "Global debt \"bubble\" bursts from France - Markets tremble, capital flees to the US, and gold catches fire",
-        "summary": "",
-        "source": "Bankingnews",
-        "published": "10/28 22:01",
-        "published_ts": 1793192480.0,
-        "tag": "Global",
-        "first_seen": 1793196926.8625655
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9IdFNiYjFDVHVTUERjZ1JjYWVEdjIxQUJQVVdhQmFvZ05XSkhBQWhnb1hnNnJpMXN4SDhsN0RhQm5RMloyTnFEcVZ6bDl6SnBUWGttS1N6ZzB1d0Vo?oc=5",
-        "headline": "뉴욕증시 프리뷰, 주가 선물 상승…SK하이닉스 호실적에 반도체주 강세, 연준 결정 주시",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/28 21:53",
-        "published_ts": 1793191980.0,
-        "tag": "Fed",
-        "first_seen": 1793193328.281379
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5HZ3JvT1RlN1NvV0dIZ21OXzA2UnF5ZVdtS3hueXpIcWk3VlRxUjNrdTY3Y3Q4ZllyUEtPdG9ycllBMG9CQ2pxRVdaRTZqUnpHcVp6eWd4bw?oc=5",
-        "headline": "“Overinvestment Fears Turn Into Credit Concerns”: Debt-Fueled AI Data Centers Face Tests From Financing to Survival",
-        "summary": "",
-        "source": "https://economy.ac/",
-        "published": "10/28 21:22",
-        "published_ts": 1793190175.0,
-        "tag": "Global",
-        "first_seen": 1793200526.9363165
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNN3IyZkZRTDNZWTF4aU5iLVA3XzR5d3FKcmU5b2RmWUJEZnhod0VRMW9odmFqM0d6UkpXMW82VzRFUjYwZ19Tam42cVozYllyUWZOOFhGODdiUDJiaVZoYnNxdEtTZHFWSEpDVGZXNS1qblhzM0pBZGpOVnQ1b0hzbUNhWjFDUWtCdDB1MGlZYm51MjJlY0dEX1RYYjNHZFpGV2xVOTFhRS1xQ041Y09JRVh3ekM1S0dMeFpGNGpUbWtfT3dodUtoU2FuR1NRQlp0UE9fYnJqblc5bFdCMm0wT0k4OXJlS3YyVGZDY2U1TDg4dWV2dEdr?oc=5",
-        "headline": "The Fed is expected to hold rates steady. How will Warsh justify that in the face of higher inflation?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/28 21:20",
-        "published_ts": 1793190025.0,
-        "tag": "Fed",
-        "first_seen": 1793190636.1807745
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVXNINWZjeGlUa3JTVU5iUFpOdFhSRXFOY2stSW1oVDNMUTM2U2pYMnh0MmhOQ1pLaXZoSmhfTmpPRGFIdHhtY1VEYXhSb0lHWmZGZDJIUTQ3QV95UmVKOTFWUGRwT3A1UElLVlY4X3BXbDYwRzNlZ01oT1l6WVpYc0pMRQ?oc=5",
-        "headline": "Bond investors are getting more selective about AI",
-        "summary": "",
-        "source": "Mezha.net",
-        "published": "10/28 21:15",
-        "published_ts": 1793189704.0,
-        "tag": "Global",
-        "first_seen": 1793214925.79782
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 04:45:48",
+  "updated_at": "2026-10-29 05:01:07",
   "yields": [
     {
       "label": "3년",
