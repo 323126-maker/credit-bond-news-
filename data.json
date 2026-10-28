@@ -1800,6 +1800,16 @@
         "first_seen": 1793217643.8548884
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBkSEZ6SEt4aG45Y2hKVk5USHZIczNiV0pyR1hYdE9LMHc2UHlqMm5jM21vM0xhWjZVY1htZ2pVTGFTWWVmQWdEZkVHbHhod1Z1ZWV6a2VyUllyUFlT?oc=5",
+        "headline": "[종합2보] 미 연준, 기준금리 동결…워시 \"12월 회의 예단 안 한다\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/29 04:37",
+        "published_ts": 1793216220.0,
+        "tag": "Fed",
+        "first_seen": 1793223925.027195
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONmJkV2lUbklBWGZ4SWxMeTI5bnBTRnI2bWV2dmpqR2dGajFoeHM4cWRTSmxhMnV4YUZaMnI4TnAzQmJ0Y1RTUFhiaEoxWW9ZQWNjWlIycnZfWGpSZVF5ZU83MS1ZSW9tN1pyWHdIY1p1NjRCVFlaR0FaVlZoZWtMb0ZoSEFrX1NGbGtvNG9VbE9GY3NQakdrRTFJYjlyeG0zTWc?oc=5",
         "headline": "Fed Holds Rates Amid Treasury Yield Surge",
         "summary": "",
@@ -1858,6 +1868,16 @@
         "published_ts": 1793215253.0,
         "tag": "Fed",
         "first_seen": 1793216724.1465602
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTTF6SUlBSHB6MFZGS3B3cGhxODBEM1VDSkJUdW1JdVBYVHViTC0xYktmYXpqbUZBV1hoQ20xT3J0amJHZElHT3R4U1l5dF9LWUl4T3ZveEo3a3BwdUtFOEpYNHlacVd1RXFSRS16Mmp1aEJVWk1La3BiQ0pGZllIUmxkOHlVOERtM3lHODRJMHB2MFNrMXU5bXI1V0F2QjVWVVBYcGxRV001UWxoQzJ6a2kwNllsMnA3X3QyVUNn?oc=5",
+        "headline": "Experts say the Fed could still hike rates in December",
+        "summary": "",
+        "source": "Mortgage Professional America",
+        "published": "10/29 04:18",
+        "published_ts": 1793215125.0,
+        "tag": "Fed",
+        "first_seen": 1793223925.027195
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOX19Gb013NkFUZTN4UnBCMXN2c01YS1VvV2w3ekg1TEFPbVo3R0tXQmFQLWZfajljdTI1dTlRd2YyTDg1endBRGFNVW02X1hIS0FUdW5BaXZ1V193VE1MUXZoWHIzVWY4VlliYmpLQlBUdDZPdTUwNWh2bzE2ZzJYMUdjaEIyQnpRSG01d1AyQm5xZlFyU2c4TmJzZTFpei1mSE8ybUVETFQyLVh4WUV6RjNIRVF1dw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793211420.0,
         "tag": "Fed",
         "first_seen": 1793212237.0455732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNcFVkNXozVXFDZmYzRUlaajVOYzF5RnZNaHZ3d2QxWkRhbXJKeVY5a3k2cV9jRWd2YU5UcEpuODg1T3JxaDFsRFhHdzIwZ3hpNmd3elJ2alBFb3J1NU1MT3FodWhfcHpkV1dkXzlLNmVUaXFyT1BTNVdJbHhwOHhqWGVKZWFlZmduejd3YURDa2FOZDdaYlptNkVn?oc=5",
-        "headline": "Federal Reserve holds interest rates steady",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "10/29 03:12",
-        "published_ts": 1793211174.0,
-        "tag": "Fed",
-        "first_seen": 1793213126.4408398
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTNINnF3d0YzSWhxXzBuRUxDc2RycVdyV1FFVGFMcFMtdUZxVmx4RGQ5NDdJRmpRdlhMRlN4d1NTV1BFYVFXekxSQUhjRjBKWlNxTzNrb04xTmx5THJ1OVBZem1HWldlb2EzaWFsbmVNYUIxVWtqano5ZFJZanllZVJTYWNuYXVqRzFxMjRRSjVqaXBvWFQ5cTJiSElpWldqbjA5bXl6eEM?oc=5",
-        "headline": "Fed Holds Rates, Says More Data Will Help Next Decision",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/29 03:00",
-        "published_ts": 1793210401.0,
-        "tag": "Fed",
-        "first_seen": 1793211326.407895
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 06:31:02",
+  "updated_at": "2026-10-29 06:45:50",
   "yields": [
     {
       "label": "3년",
