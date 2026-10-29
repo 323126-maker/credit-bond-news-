@@ -92,6 +92,16 @@
         "first_seen": 1793275241.7088244
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yaXFHX3hUZ21jd092MDUxR3dJbUU4TzFVUWFUQU9WV3pKOVI5R0ZkUGNJcGszWUQzQmo5MU1yQ0ViV1h4T3VGdkFZdEdyWmFwckw5S1VibEFld1pBLUVhU244QQ?oc=5",
+        "headline": "저금리 시대 종말…‘고금리 뉴노멀’ 굳어지는 이유 [알경]",
+        "summary": "",
+        "source": "쿠키뉴스",
+        "published": "10/29 18:37",
+        "published_ts": 1793266626.0,
+        "tag": null,
+        "first_seen": 1793306723.7252553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rYURpZER5azd6aHBCUWxDbm55LWtEYVpNcGhucVo5U3kxZ2FqTlpGdFNJSUNxSHQzNnUtRE5aWVRIU2I0azhBTDg2OUZmRlVqa0Z6NEpLd1NZQQ?oc=5",
         "headline": "글로벌 채권시장 지배자, 전통 금융사 아닌 빅테크",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793226468.0,
         "tag": null,
         "first_seen": 1793236524.426857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVW1qOFhCWGdnNXpiNnItcThlbG1YTzdjU2J6VGtWLUc2STU4cVAwSS0wSFZFdTlUTjZqQm5Lc1gteHBuTE1Sd25LOURKRV9zbENGbkNJd2o2RDBtekhoMlVsc2piUE4wdEtsWlQzcHFXZUMxN09DQ21YYnRMNUE2UXpQSQ?oc=5",
-        "headline": "최종금리 3.5% 각오하는 채권시장…AI 투자·내수 회복이 고금리 버팀목",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "10/29 07:16",
-        "published_ts": 1793225807.0,
-        "tag": null,
-        "first_seen": 1793226632.435054
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEhZQVhpSzVydVJlanJEZTA4X0RIWXl6OHNCQ09mOUUtbUtsZEZPdzhOWU5hWTJKbHR0WW9RbkNVM2JHVmN0SW4xcnROZFlZSWRBSE05VElyd2pMS3lnTlc2Q3RuYlJqNUNnU2hBeXljb0p0R284NmZPeTV4NHJ5S1VEdGNBYzFCd0I5V0ljSFNTRjhvWk1WM0N1WUJPNWpTeGdJYWpUNA?oc=5",
+        "headline": "Historic drop for Alphabet's stock drags the US market lower",
+        "summary": "",
+        "source": "Barchart.com",
+        "published": "10/30 05:06",
+        "published_ts": 1793304390.0,
+        "tag": "Global",
+        "first_seen": 1793306723.7252553
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRl9CSVlDbFJwR1ZPUlhVM1hfSzZfMHh3Qkx3UTlVaHRNYUFESWI2cGNaazJyMkVpUHVOZDRhdmhDZXRFLWsySnpnMnJTdFpXeWMyb3kwNGRWbzJaWnFyUUF0clJOejdUaDNZa2hYeFRTOEgtYXlJZHY0RWhUODF1Z0YzeGdEM3FkMThkWnVCd2tVTEw0UkViYWtSVWlKcXpOMjdkUWtkczJ0TXhhV3lLMmo5UmZtRW5nRDU5dVlGaW4wbmdvSEZjdjQzRXdRUGdmdXBxYUthRkVIYmg0cWlwa3hYV2s?oc=5",
         "headline": "Warsh shakes up Fed's approach to setting interest rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793266305.0,
         "tag": "Fed",
         "first_seen": 1793305834.1067672
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCMWJFZ2NPX19nYWpldFAwMVA5dmpWa2w0VXRtX29ZZzJ1Q1JJMmYwYlZkVDNmYVpXb0ZiaE1paS1CbTRCd2xVX3NZTVZ3M2tET0haXzVEYWl5VFhGWVRPazVvQQ?oc=5",
-        "headline": "Bond funds in Singapore: How to choose for income, not just yield",
-        "summary": "",
-        "source": "Beansprout",
-        "published": "10/29 18:24",
-        "published_ts": 1793265864.0,
-        "tag": "Global",
-        "first_seen": 1793287833.7331197
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 05:35:04",
+  "updated_at": "2026-10-30 05:45:47",
   "yields": [
     {
       "label": "3년",
