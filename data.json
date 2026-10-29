@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2NxdnJvOXlnb0w4YkxFa1JNc1FyTlVnZi04OGszS0J2WHB4dUhuTkFsdUxwSW5jQXgtdEtkZzJVLV9BcGN4VXY4VzFBN0lQWHJZU3h2N01kbms2TGwtUmNjOXFfMTlpdjV3UTY1aThibFgwWVdCU1l2dHc0TGFfUVpVcWg0TUJJaHJGRjgxeVVBaURTd2ZVNHFXMTk3T3hDNUJsOW1EaUc5VzBadG9ReUozMTYtZlFCVUtpdWNCRHVlbkNLLU04cVpjUmNYZ21XRzhpRmlkaG4?oc=5",
+        "headline": "Mark Cuban Warns Hyperscaler Borrowing Could Create A \"Debt Bubble In The United States Of America\"",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/29 17:42",
+        "published_ts": 1793263353.0,
+        "tag": "Strategist",
+        "first_seen": 1793263521.4579825
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMkJielRWdnVHNGVKeVlfdzFzV0VKSVZpUnFFeGhQVWdRY0hvN2RxNWxHSkV6Xy1Sd1E4VkxqNHJoUHdxcUF5NGNyb1ROUXF6Z0ZyQng0YlptVlhnaWpUUVhTZlJLY1F0cFlSMjZUTkl4NUhwSjlNa0pkdlVKV3lXTU11dkZmWlg4RVU1MHpKRXZJeTlCckswNHE3TUxwRThNMzM0bXlvTXFxeFVYMk5OWA?oc=5",
+        "headline": "Macroscope | China’s industrial strength keeps it from ‘turning Japanese’",
+        "summary": "",
+        "source": "South China Morning Post",
+        "published": "10/29 17:30",
+        "published_ts": 1793262607.0,
+        "tag": "JGB",
+        "first_seen": 1793263521.4579825
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oTkl0bWJ0bVJXcnlaRWdJYkdVdTRkbVdnUXBuNjRKMlU5T3BRZk1Ba3hHbFBxRmhsQWE2N004Z0NBdTN5Z0dITTlrZTRUNEtkUHVLN0NzTDZxSm9PV2dabDlYNUtJQmlYY0s0WDhzS1hVdw?oc=5",
         "headline": "[재팬위크 2026] \"현실 직시할 때\"…高금리에 연기금 자산방어 나섰다",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793235768.0,
         "tag": "JGB",
         "first_seen": 1793243727.1735845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jeEVoWTZaeTBUZlMzSTE2eWpHMFZwRGxxNFJWX0FqX1VNQ0pKaXQ0ZTFFMTctbU5CMmlyOVZRejlheWxjUHJDTUQ2c2ZXOHlJdUNLamwxeUR1dnVRRXdXT0JadEJkNE85YVRQQjA4WWREZw?oc=5",
-        "headline": "한국은행 \"美 금리 동결에도 대외 리스크 상존…경계감 유지\"",
-        "summary": "",
-        "source": "프라임경제",
-        "published": "10/29 09:51",
-        "published_ts": 1793235064.0,
-        "tag": "JGB",
-        "first_seen": 1793235638.4871862
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNWxoTXNRX2Foa0szMnRIYW5UcHBDX3ZQMmNBNEdEWlhJN2w4Q2NWX0hTSi12cy0xeHZrZk1HN3F0dlFYWEphWkRmU2VrcDhxaXU2cFliQ1Q2YXVvX3ZiTWRHQmdLNDM3TW9ObDlDMDczU0pHZ0Q2Q2Y2LTFDeXl0elkxSjMxYXRjbFNrZXd1SUVDY3BESlJwSmJhak5MRnZnczhXV0RYNTE2SDJ3TjF5STI1MkhiaU5QeVd6RS1BRlRHV3RlMWF5N1RaNkRLenI5M3FiYXJrTW4?oc=5",
-        "headline": "Federal Reserve Holds Interest Rates Steady Ahead of Midterms. Here's What That Means for the Market.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "10/29 09:43",
-        "published_ts": 1793234580.0,
-        "tag": "Fed",
-        "first_seen": 1793246438.881747
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 17:30:56",
+  "updated_at": "2026-10-29 17:45:45",
   "yields": [
     {
       "label": "3년",
