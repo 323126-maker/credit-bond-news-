@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObi1uMjAtbVJ3SGx3YWFQc2NFQkFCS2JqNzFyRXVGT1hTVElreVY1SlAtcjFTb1hnSUpRNThSeXEtN3hOLURqWGl4ZFpRWDlZRTBMOUQ5R25oM0YtbjlFRThORGk4aF9OM2kwYjlsTUVORERybGpUQmE2cTMyVmt3R3NySjd2SzRlR3A4WVZB?oc=5",
+        "headline": "미지근한 동결, 회의 축소에 시장 \"연준 의지 안 보여\"…장기 국채 금리 상승",
+        "summary": "",
+        "source": "조선일보",
+        "published": "10/29 08:58",
+        "published_ts": 1793231880.0,
+        "tag": null,
+        "first_seen": 1793232927.860783
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdW5fZG1wR05mYjRlR0pzNS1qS2VVanlmLVUxbU1VY3ZlVEVlVE9pVTl0bHJGUkpLdkRuVld4ZmdIUlZsLVVtZFZObHVDUEVtWmpFVlQ3RzRwLXlyeWprWFk3azhuMmcwdmJ1OHo1WTR1czU2Y010aG1za0lOUExsTEZWYw?oc=5",
         "headline": "발행 주춤해진 한국물…美금리 급등에 역외 IB 규제까지",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792897200.0,
         "tag": null,
         "first_seen": 1792898130.1513352
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUHFlY2RWSXNLUGFLY3hYUE01THhSaWxFMnFqWHRRTlZDQlUyajM2QWU5NXY3MWJydnFGRVFnS0ZrN2YyeElBMklxaTNxT1ltdHNhZTZjY2kyUnJMMnA3S0wwVlNlYlVIUUl4NzRuWVRNRC1DU3VPR3NGYU9nU3JaS9IBgAFBVV95cUxNUHFlY2RWSXNLUGFLY3hYUE01THhSaWxFMnFqWHRRTlZDQlUyajM2QWU5NXY3MWJydnFGRVFnS0ZrN2YyeElBMklxaTNxT1ltdHNhZTZjY2kyUnJMMnA3S0wwVlNlYlVIUUl4NzRuWVRNRC1DU3VPR3NGYU9nU3JaSw?oc=5",
-        "headline": "AI發 美 국채금리 급락·佛 재정불안까지 … 한은 연내 추가 인상 '안갯속'",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "10/25 08:30",
-        "published_ts": 1792884600.0,
-        "tag": null,
-        "first_seen": 1792919722.445641
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 09:01:11",
+  "updated_at": "2026-10-29 09:15:53",
   "yields": [
     {
       "label": "3년",
