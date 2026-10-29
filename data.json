@@ -232,6 +232,16 @@
         "first_seen": 1793219435.7269928
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zbElQejl5el9IdzRDWVM0QmxCMi13eWNXd3FSTDc4RzdHV25oZHJ1aXhJQnNZMEV5WlBLcXktX3ktLTFNMGczOURPb1JPYmg0RGFHRG8tb2JkVHVSZnFYRlplZWdiVS1WcWMweWhhMFdsbEk?oc=5",
+        "headline": "워시 \"AI 투자도 금리 영향받아…韓경제 예상보다 면밀히 살펴\"",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/29 04:20",
+        "published_ts": 1793215232.0,
+        "tag": null,
+        "first_seen": 1793256324.4676573
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QR1JNekFtTjhOX3pVYkkyeXJKcXBlRS0zN3A5UWlaQUs4QmVWeV9ZcmRGVEoxaGg0WmZYVFZ4WEtZSXV1R2M4MHJkcG8zdk8xMWxFbklWVmp1YWM5MmtBLTQ4a1p2T1B2akJEbWJ3dVTSAXRBVV95cUxPRWphdTItYUx3YzNrTVlqU3Q1bUFTUloySGU2UGFSeEFwWXNTTWRiVUs3X3A3UEhqSGdpZHUxT3RYcU9PYllhd0kwekpxT283RHlLczZPLXJFODJKVUZONW1fQkxZdVRsQkEzcVdCakxZM0lXeQ?oc=5",
         "headline": "금리 묶였지만 긴축은 계속…가계·기업 '이자 압박' 커진다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793173383.0,
         "tag": null,
         "first_seen": 1793181650.8441415
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9oeklJQzlQWERVWVZWX19KaFhwS1M2d3lUSmRxMkIxYjZ5UzBTZkJzOE85dmoyXzZ1cTZjOFZvVzZfWTQ5UU9ZM25qdFJOTGhBc1R6cTlnd2pFcjNlZjNZMXZobFMzbTZKYVUyYWp4cE8xQQ?oc=5",
-        "headline": "[증시-마감] 코스피, 반도체주 강세에 상승마감…10거래일 만에 6천선 복귀",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/28 15:51",
-        "published_ts": 1793170306.0,
-        "tag": null,
-        "first_seen": 1793174439.421661
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0wSnZBWVpLV3lueUc5bmN2VEZPVzZ2WlN1LWxFaFg3LTV6M3pLTHozaVcxRTAxS3lFak82MHB1R0VoYmY4cUk3cnFzbWJuSHllTk9zcFZwQVlKeXRSbFBXQk54M3Q2Wk9abkg0WkdSMA?oc=5",
+        "headline": "Fed leaves rates steady as governor Lisa Cook dissents",
+        "summary": "",
+        "source": "Axios",
+        "published": "10/29 14:51",
+        "published_ts": 1793253080.0,
+        "tag": "Fed",
+        "first_seen": 1793256324.4676573
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmxiU1A1RExtZHYyQS1NNDZaTFoxRTl5NVpQSlczZTZnOEpCczlZaVhWNzJVUW1YVllJM1lBZ0d6NWFUeWhyanB2S2U1ZV9RZnJWaGJNMkpPY3l1MTQyWWNwQk9aVG41bks3X01ETHRDZ2p3UVhqNjFIX2hiTlMxcmFONmVJbTE0emhkVVZKMlFZUVd5ZE9BdGhmY3d0QQ?oc=5",
         "headline": "Japan bonds steady ahead of BOJ decision; strong auction lends support",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793231341.0,
         "tag": "Strategist",
         "first_seen": 1793241034.508907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB6RlF6dXY3WUhyNHV5X2VSV0xmazJWWmpRQlF2eDFyblpVOTgwVkh4aEwyY0R3R3FFeDJiNHZlMEtiWDlhS3JiVFJhcDJSU2d0cE5ZbXVuaFnSAVhBVV95cUxQekZRenV2N1lIcjR1eV9lUldMZmsyVlpqUUJRdngxcm5aVTk4MFZIeGhMMmNEd0dxRXgyYjR2ZTBLYlg5YUtyYlRSYXAyUlNndHBOWW11bmhZ?oc=5",
-        "headline": "[국제금융리포트] 美 금리 동결에도 긴축 경계…국채금리 5%대",
-        "summary": "",
-        "source": "아주경제",
-        "published": "10/29 08:41",
-        "published_ts": 1793230875.0,
-        "tag": "JGB",
-        "first_seen": 1793240126.0885742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 15:31:08",
+  "updated_at": "2026-10-29 15:45:46",
   "yields": [
     {
       "label": "3년",
