@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZHI4dXp0T3JfWTY5U2xFRzJRcm4wcUlhb1dkRG9ZOVMwQk4xNlFiTFloVGZRSUZGMVhCLTMwQlNXQVZMRUFvMTlPUXU4QlduNEZLcVkwYWtyYm5SdE5ISnV3bldOUzlDeUpMWER3c9IBc0FVX3lxTE1pdWV0aUI1OUgzWHBUZllzeVJQaHBlT2o2cndneFNwNVdudU9nUExIUHF3RS1nb2tPUVJ6WDJubVFTc25tN2NfWHdMbldiZFVfWEpiZENMSzl2VFhGTGVQbU1vcEJzV0ZxNTRBV2kxbU1MNUE?oc=5",
+        "headline": "개도국 탄소감축이 ‘돈’ 되는 시장, 한국이 함께 만든다",
+        "summary": "",
+        "source": "여성신문",
+        "published": "10/30 00:41",
+        "published_ts": 1793288468.0,
+        "tag": null,
+        "first_seen": 1793298634.1164525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjdZMUhJNEhUbGpDaV9QUG5jdnR3aWZDZ2kwS2hfSE9EZDk5TmtHSHpoU3hBam04X2RsX0JrSVJFZTc1RjExTkFmeXAtSG5leWJ2SXRoRWlFT2VRRWNkaXg2MUJOQ3g5cjE4N1RuUzZOeFk4YWhWYjhzQ3l6WVF4Ml8xaGd6c1JScjB2RkZId1gyREU?oc=5",
         "headline": "Credit Acceptance, 3분기 실적 발표 예정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793221800.0,
         "tag": null,
         "first_seen": 1793223039.2608993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9qMlpuZ2R6OVh3Z1BEY0d3WWpkcjhOYkxGNDBIcEkwc0pyc0VOdlJKX1YwRDBKa1RrWlVZZFlUUi0yTEo0QmdXYkJSU2RkMHhraDRNN0loSDFfbUF4el9iaFVNRVJOTGdOdVlxZ3BIMVLSAXRBVV95cUxQOXM4WEthWWdrb2FjQm4yNENrNXFORm93VEwzcmt2dHNpeUtpenhrV0xlUU5pTDh5Qm03VERiMUh1SC1jdXVmYmxzclVCcE9KbTdGc3kyNld6WlQxNFZCNEpQUFZSd2VmcUpNUGp1aUEyYVVEaw?oc=5",
-        "headline": "[뉴욕증시-1보] 워시의 인플레 낙관론…상승 마감",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/29 05:16",
-        "published_ts": 1793218605.0,
-        "tag": null,
-        "first_seen": 1793219435.7269928
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 03:15:52",
+  "updated_at": "2026-10-30 03:30:58",
   "yields": [
     {
       "label": "3년",
