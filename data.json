@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDFJcEVGS0pqZklUVWpmR0hBUDJkeDdLVXpUYTk0RGF1NTFLTlZoY2lOd1RyRWFDeC15WnhzZENqXzlNZThHMm5GSnQtSXhTMWRkTUZsdGlxX0szU2c3S2FyMUpqSDlxX0lVS2dqdnJTYjI4Z1NheHZINk8yRmxWQmxLcm1COUFESXhpS1VIYmRzSm1r?oc=5",
+        "headline": "Warsh: Interest Rates Affect AI Investment Despite Strong Demand - News and Statistics",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "10/30 03:20",
+        "published_ts": 1793298036.0,
+        "tag": "Fed",
+        "first_seen": 1793300439.0723364
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOG41Tjkzb2pVaDhzT1k1c25GbERKNU4xa0JjWVZsRzJwQkJBQy1OdnNVY1JqenNlUExFdEZTWWYyeTVxUGc5V2VIWkw4WE40VHdISV9OVG5LUVZmSTlZS0h0Zmp3d0xvbGtKVXpzRUNzektYWGk4b1NVcy1yNFBrYzJRUFRTR1VpbEFvZDlB?oc=5",
         "headline": "JGB Yields Hit Records: Why Japan's Bond Market Matters",
         "summary": "",
@@ -1820,6 +1830,16 @@
         "first_seen": 1793289642.2024107
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVJuYnVlbXcxRUh5eFpRclh5NlhPNkREaHcxaTg0RkpDSUliTk5fcnhIVkZudEh4eHhGeEJBMzhvS2JOWE1LdWwtbTBXdGp4VnRGRy14cXRWRzdxYUtHLWpWTmFMNTJvNlpGM0tyS2laZnlLelNBVUc2cWxZbXI2LUh2bUZIWGJXY1BSYTBEWTJiWE9JdGV6M0ZHZ0VyaVBSMnFYT3FEOA?oc=5",
+        "headline": "Here's What to Expect From J. M. Smucker’s Next Earnings Report",
+        "summary": "",
+        "source": "Barchart.com",
+        "published": "10/29 21:20",
+        "published_ts": 1793276448.0,
+        "tag": "Global",
+        "first_seen": 1793300439.0723364
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpZTnhMeHdRdnVwVXdPal80RVlON05GQTgwaGdzeEJNT0JIMHU2bFhaUV9ReTdrOUVRNDN0ckRPd3J1eU02NWlRUnVUVlQ1Rm1lcHJLTEZFM3lZSHdkSzhJcUJweXpUUTd0dXMxQlpXMGRrNkxwQ1lVQ3d4TTJ5TEh3NkYtVUJRWl8zWkNWaS1BZzRvZm5oU3hVU0Q3ZnhXVmlmNjViM1ZDS2g3UE51Qw?oc=5",
         "headline": "Fed Chair Kevin Warsh’s warning to AI investors: ‘Interest rates get in the cracks’",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793261997.0,
         "tag": "JGB",
         "first_seen": 1793268039.7202148
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQW9FY3FVME1RS19mRzRBZFBrNjJlS1NTUjZnV2lFWkVaT1hyeGIyTHFVaUtXZDlwZGw0STgzZy1SVGNBeWRwUlI3b3hWRHRjb25HS3A2R1Z6WG5oMDJ5RXRBMkRMQ1d0ampGQ3JsQVExbTFmUVF5LXF1bksyYm5qQV9CV0NrUkcyRkduaFEwUGpNUHJtdXFjdUtUQXJxRnRHTTNUdzBiNk1adw?oc=5",
-        "headline": "Mickey Kim: Are the’bond vigilantes’ finally riding into town?",
-        "summary": "",
-        "source": "Pendleton Times Post",
-        "published": "10/29 17:18",
-        "published_ts": 1793261931.0,
-        "tag": "Strategist",
-        "first_seen": 1793277033.5948226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAxdFRKSUMtX3Y5YmxDMVpjWnI4M2RCNVFZOUFnWWc5SnI5a1dNQ0R6S3kyRFNWbUtUTWNGRGJSY2ZtWFdLYzh6LTlXYnRYV09mQk1UbWduRG1QbWc3UGlfaFppMXhKUzUx?oc=5",
-        "headline": "US: 7-Yr Note Auction",
-        "summary": "",
-        "source": "CME Group",
-        "published": "10/29 17:14",
-        "published_ts": 1793261681.0,
-        "tag": "Fed",
-        "first_seen": 1793287833.7331197
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 03:45:52",
+  "updated_at": "2026-10-30 04:01:04",
   "yields": [
     {
       "label": "3년",
