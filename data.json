@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBQSUc4eFp0dVMtcmRGdmRtUzZzQnRjUTJBeG9aVHdYXzF3eGtTVzU5Y0w4ZHppTmRiMzJuRnREd0lydm5ZZ1VrSUxaT2dnc1JpdnJacGhoMU9QT2JHeWhvMUxXa1R5UlcwVElsODZTajlyODlwaDF5UWRVTUQ?oc=5",
+        "headline": "안전사고가 부른 신용위험…건설사 자금조달에 빨간불",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "10/29 13:36",
+        "published_ts": 1793248575.0,
+        "tag": null,
+        "first_seen": 1793250040.1870558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0waG5BX29yS1F0UmpSWG9rcjlPS0tIYVQ4S0FjV2VXV25YMU9XbldCdnlxV3dyQTZDWkFTRDM2ekRpUGlhT2tmWFg3SjVfTVgwNzM3ZEZqTXBsc3BHZnRPZUNMRF9ZdkpVVkE2aw?oc=5",
         "headline": "[주목 e-투자] \"탄소 줄이면 돈\" 탄소금융…\"배출권·녹색채권·전환금융\" 급성장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793160060.0,
         "tag": null,
         "first_seen": 1793161832.9304514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9jT3RyVHhCQVc2ZHAwQ1dDdGRRdk1vQkk1b3lwOTJxeXlYZUlsYnlVaVNKT1JuTVlubVFqQXo0X0JrOXNnRDh0cWlhSnVHMmxialVmN2dqbVZLZ0RkY3VaddIBeEFVX3lxTE8zQm9BWWtfS0N1a2NXTXBPY01naTVnUFZUdDcyelFRMTJhNUZVM0tSMEd2S3djRHQ3RDNYV0RkM3ZULVVFS0xYMDJDMW1MUXNXSFlmMURWN0luRGxuUl9rMEJ2OEtRVzlWZnhCS1Jkdm12SlhYZDRGQQ?oc=5",
-        "headline": "\"테크만 빼고\" 월가, AI 돈줄 조이자…연준 '금리 인상' 부담 덜까",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/28 13:00",
-        "published_ts": 1793160000.0,
-        "tag": null,
-        "first_seen": 1793160924.7530768
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1793249123.5536892
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzVqT01PUVBVRjZ1c25oWkRqMk5JVjY3VmZ0dEplRGdXVEdWbHYtYTZ2NjJqNzczbEUzWmdUd1ZyMlR3UmlQMEZkRk1RR1k3eWdVa3RNZXVqWDJHZ1VlMTRyd1RZX0l0ODVJVU4zQlBSWU51U2l6bjdONFBXMzdsZXJXTHRNZGtITm9ROVJzaWE4bmYyNTN3bnRrb080QQ?oc=5",
+        "headline": "Japan 10Y Yield Steadies Ahead of BOJ Decision",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/29 13:03",
+        "published_ts": 1793246580.0,
+        "tag": "JGB",
+        "first_seen": 1793250040.1870558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gc29GTEJHU1NmV2dfSXpkOXZKRm1zZWZ5bkZUeEkxenp1WmpLTUhlZW05REVhaDljcXZ2dmRWMmZWc2tjSElSSDRadUJwOURjbDFhN0VoQVhmMGhTV1ZhRW9udXh4T0YwSHp1LTZWNHg2ZWvSAXNBVV95cUxNRnNvRkxCR1NTZldnX0l6ZDl2SkZtc2VmeW5GVHhJMXp6dVpqS01IZWVtOURFYWg5Y3F2dnZkVjJmVnNrY0hJUkg0WnVCcDlEY2wxYTdFaEFYZjBoU1dWYUVvbnV4eE9GMEh6dS02VjR4NmVr?oc=5",
         "headline": "Fed '금리동결'..美국채금리 '혼조', 달러 '절하', 엔화 '보합'",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1793243530.0,
         "tag": "Global",
         "first_seen": 1793245524.3301468
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNZmxvU2ZGbmg4UWh6MEFRSk5ocXlyUFlWUkNNWkZtMU9rYTNOWXp2RG4tNzMyekVXRDdURGJHVjQxdFBRVVl1ZEFadmtTVW41Sm5yNmpmU0ZZejVVbnNaWDdVdVFCYWJacU44MU00MVk2UzdGV2dWd2lXaEpMNUl0d0FwZ0hIVEVLcU80cnU1amVYODgzejc3OEs0UThzQlRUNHVHczNxUHp0UnFYMTFVdFJ5ZExSUVhlM1RYaDVVcEREZDE1ckxuZnVRamkyVzhQbVktSjA3bnJxQVpBYkJ1b2tOQ3lzUHRaTGFLZ085b09fYzNKWmJyZ1BVMXhYajZ0OHdvckhWdEJ4Vko3dEkweGJDZjhhUTA4WGFVbm9NbUZTX2tNR0t4VER2azNMY1da?oc=5",
+        "headline": "AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Louder. What Are the IMF, Ray Dalio and Wall Street Experts Seeing, and How Badly Could India Be Hit?",
+        "summary": "",
+        "source": "Inventiva",
+        "published": "10/29 12:03",
+        "published_ts": 1793243034.0,
+        "tag": "Strategist",
+        "first_seen": 1793250040.1870558
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wTmpVYWp1VE1TeFZPMFBtR2V1bEktVlFIY29MZUtHam5SZDU5ckFmX3dzd1BkSFZQN2JjMmI4cTdOUUN2SjMyU1o1S1J2dy0xVE1mMVNiMjc0NGRJeW5VYl9WTnl3Y0k?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793227020.0,
         "tag": "Fed",
         "first_seen": 1793227525.4050176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUEZjTlN5RzBoUmYzU0xSRnRfOFZ0cXpMTmU3ZUd5dE9rdTlqSEd1cnB5N291S3dRZkJPWEdyaU5ORmpZMzhsczVIX1hyVHJTb1VRNFVrRXhDRUFHQ0lleGF4QXdpMHZoZFo4NFFuTDNnTVB4VXJJVDcwR3p2Z3FxYXZaUVJkcTZTNXVoam85c19uQWJSV212cU5heTNscXphQXVxMDk2MDhyRnE4U29NaDgxR2lJcVVIb0E?oc=5",
-        "headline": "A $300 Billion ‘Debt Wall’ Is Looming Over Private-Equity Backed Companies",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/29 07:34",
-        "published_ts": 1793226899.0,
-        "tag": "Global",
-        "first_seen": 1793227525.4050176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VWEdmWWxlMUhvdG4zdnFXVllmdDVfYjhFanFZNzFCSkNZZWVwOXRRR0xERlIyZmJyUmUwTDMtaXJwU2xDdEVaUnc1cUV1V1FBTTlvbWVqV2RsRjDSAWBBVV95cUxOTkZ5MWR2bWpiUHpwX0paRVgtd2Jya0xSNUZDLUhTOVB0dTdRYnJua196QU9SWTBrNUItNWw2ZkJubGtWMVE4MTFRZWxfUkE0SE9EU0NndmJUTUhhUTF3X24?oc=5",
-        "headline": "워시 \"한국 경제에 많은 관심\"…신현송 한은 총재와 인연도 언급",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/29 07:14",
-        "published_ts": 1793225678.0,
-        "tag": "Fed",
-        "first_seen": 1793226632.435054
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 13:45:48",
+  "updated_at": "2026-10-29 14:01:04",
   "yields": [
     {
       "label": "3년",
