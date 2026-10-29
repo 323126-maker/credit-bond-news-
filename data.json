@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYmw5bGExV25USkx4VURnUjJRdUd2NTNVSXU5M2M5MEd0THhHSWcyN1B4UWhtMGlzdkZka1hjNFB3UjgtMjhCXzFFVDNCUWdZOXJjYmdIRzI3QQ?oc=5",
+        "headline": "알파벳 13% 추락, 아마존·인텔 '어닝 쇼크'…채권 수요에 금리 급락 [김현석의 월스트리트나우]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/30 08:19",
+        "published_ts": 1793315983.0,
+        "tag": null,
+        "first_seen": 1793316634.5892687
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbk12VC1ObDl2UlJrRks4MEQ0UlVuY3U3RmNLWGoyZGZXdkhMOXBVdldfUi02Smx2SlpkSWlUSGtHdHNKT3ZCTnN3QkdMSm1VM3dGbW83R3J6V2VFdHBjQVBaMnpMdEx0alVIZWJR?oc=5",
         "headline": "마이크로소프트(MSFT.O), 9년 만에 35조원 美 회사채 발행…AI 투자 자금 조달",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793232900.0,
         "tag": null,
         "first_seen": 1793283325.8653975
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMHItczQ1T2g1cDk5RmJWMEtZeE9hd2R1cXEwV1czZjFpdlA2bUVjVm1zcEpfQTJUUEtTc1hoSVUxZUN3MlFFWllTa3MzWF9xbXlDWmpFMWNsdlB5U0ZDcndWeFBtN3Q2dWM2elR5ajN5ZTBzb21jVjRPN051SlpoZQ?oc=5",
-        "headline": "AI발 신용불안 일본 덮쳤다…기업 부도위험 4년 만에 최대폭 상승",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/29 09:14",
-        "published_ts": 1793232874.0,
-        "tag": null,
-        "first_seen": 1793233833.325822
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 08:15:55",
+  "updated_at": "2026-10-30 08:31:00",
   "yields": [
     {
       "label": "3년",
