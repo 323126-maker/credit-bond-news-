@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ia0ZsVmxwLTNBMEtiTDhnQTJJOTQ3VnFXZkczZ2tjQy1BNENVNjlSaDRiTVpmYXZpZEx1T3dpZmxzM1BYVl9Ea1g4aXFXc2Z2NFlIeEs0Y3VTeVZsQi1wR0lkTjM?oc=5",
+        "headline": "[기획] 미국 금리 동결 한국 증시에 호재로 작용하나",
+        "summary": "",
+        "source": "매일일보",
+        "published": "10/29 15:16",
+        "published_ts": 1793254598.0,
+        "tag": null,
+        "first_seen": 1793255434.6229963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52U011Q3FHRVhISWVvdnE1Ym8tbDRBUjdwNUZuYlZDa2xCaWNqM2NralZEaVZZWF84cmZWdmU0X3hzUFZjSVd1eDFnZVpHUVloaDRXTkhjRGpzWU1HN2l3Uw?oc=5",
         "headline": "美 금리 동결, 추가 인상 전망은 여전…한은·정부도 경계 유지",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792930750.0,
         "tag": null,
         "first_seen": 1792943123.6567543
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9zTlAxUy1hRG04SmpZcUhmdVg5STZhV2ZRU2UxNU1ndThfSTZ1UXpDa2lIOWREUks3U2N3aTUyRkRudndDSUR1R1V4WVVJbEZhUC1zTHpwQXkyYVNuSFhkeEphS1RrMVJzNEVFbnBhZ2ZXdDDSAXdBVV95cUxNYzNISWo2N0RTT0NHX0MySDk3NzdCNTBNTXlVSFBYTkhoWUVoYWFuRXdRckllNDVRbnVCY0ZLQ1I1WVN3UmpreU0yenFOck5qLTFzRjg3UGhBeGhLcGZNT1ZycnkzMXJkNElUUFVSU1ROczBpenlhZw?oc=5",
-        "headline": "KOFR 거래비중 목표 넘었다…기업대출 1조원으로 활용 확대",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "10/25 16:38",
-        "published_ts": 1792913899.0,
-        "tag": null,
-        "first_seen": 1792959325.941032
       }
     ],
     "politics": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1793250927.5101054
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNUlFvTVpQV2ppOXpNVVBPSkRwQ1p5MGpRMno3VFVjWloxSUswSHRWdjFyZnlnSG4xRVRuXzFiNmJkTVlNSG1EbzZGNkxtOUZWTlhYbWlyLXhhYWtmRnE0ekx2WGNxVlc5RFpMeG1tT2dldw?oc=5",
+        "headline": "[도쿄환시] 달러-엔 소폭 하락…FOMC 소화 후 BOJ 대기",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/29 13:48",
+        "published_ts": 1793249339.0,
+        "tag": "JGB",
+        "first_seen": 1793255434.6229963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjZvaDBDS19PbnRlQnlQd2hvTXZsbDFZZG9VTW10TEF1WHplU01ydHAxVXlsVUY1QkRQTjhIRlplWkgzcTJKQmZhUFM1X3laSTY3WEZmMzgyLWJoWnY1YjJVZ0NXVVFUV0NoS3lXcjNKcWV5bEEzZkJHSDNkdk0xM2hQV1pLbkhDZEp5MTc0UQ?oc=5",
         "headline": "Warsh changes something, but it’s not interest rates",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793230875.0,
         "tag": "JGB",
         "first_seen": 1793240126.0885742
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOc3k2UHRGbkFLQmRDN3h4WHJyQWoyWnkxOHVkY0JqNHRFSFBER25td3pVVEhJX0pRQnhXdzJiR2FnSG11cGpSYnlQeVRFSnFuTi1mVDNtSTRVOUVwWHVwN2E1SEhiRmVmMFVTcm5oaHl3Q1pLRHY3NUVmeTdEekk0UXVwOTBHREFkZTV1dVhuTG0wa2I1RDFndWFSQ2JEWGNqcjBDcnNLZXM3X280?oc=5",
-        "headline": "Fed's Warsh announces changes in how future FOMC meetings will go",
-        "summary": "",
-        "source": "Reuters",
-        "published": "10/29 08:32",
-        "published_ts": 1793230360.0,
-        "tag": "Fed",
-        "first_seen": 1793241929.3008194
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 15:16:00",
+  "updated_at": "2026-10-29 15:31:08",
   "yields": [
     {
       "label": "3년",
