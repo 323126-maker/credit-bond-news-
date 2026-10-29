@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wOVhSQTFBamdtU05lSHNzR0pyMXpZZ2trRnhvQmFiMzl6MUtoYzdHT2I2RlZYTUlqS0hrbkpSdS1jNkdqUW13WEJ5Mk51YnMwQ1NQLWpYSGkxVWpqQVJpZ0Y4SHhzaDZUOEJRMjc0ZFI?oc=5",
+        "headline": "[외환] 서울장 급등 뒤 비둘기 FOMC…9거래일만 1,340원대 마감",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/29 08:32",
+        "published_ts": 1793230321.0,
+        "tag": null,
+        "first_seen": 1793232041.7334716
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5JblhCZ2VhWjAtZDlHUEw2ZkJtTnBJc0pZVE9ZdzJRdV9Fb0E3TUZYZGRTRFJTT3RObElnR2VuZXdvc0pBNTlqUUJGM29ndXlnTmJBQzZYQXlTbWllS3B6YVRyS21CV3V4VXQwZkVWN3BFQQ?oc=5",
         "headline": "[노현우의 채권분석] 모처럼 나온 커브 신호…이번엔 다를까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793142659.0,
         "tag": null,
         "first_seen": 1793148325.2734604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IUzNKWVdrUTBXekNZSWhLdFFZUGpPa3oyMVFqMGYyS3ZqaGtrNUY2ekoyVUV6a1RpdXppMkdhajRSTGlzc2dUUnVwRkhWVXBLYnBKVVg0TG1CNkR2dzRkNw?oc=5",
-        "headline": "[IB토마토]금융채, 연말 앞두고 수급 역풍…회사채보다 깊어진 약세",
-        "summary": "",
-        "source": "뉴스토마토",
-        "published": "10/28 06:20",
-        "published_ts": 1793136000.0,
-        "tag": null,
-        "first_seen": 1793136632.5507936
       }
     ],
     "perpetual": [
@@ -1218,6 +1218,16 @@
         "first_seen": 1793223039.2608993
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9qN25mVzA5SzNPeHk5dGxZNWxfaUpHaUJ0bmZqYmdXbHpYN0Y3ZENlZm1UQzNGc3FQUzkxRlR0eHNNcnlpRm8zR3RIcw?oc=5",
+        "headline": "이재명 대통령, 외국인 노동자 발언 보도에 정정·사과 요구 : 정치",
+        "summary": "",
+        "source": "재경일보",
+        "published": "10/29 02:42",
+        "published_ts": 1793209320.0,
+        "tag": null,
+        "first_seen": 1793232041.7334716
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRS1jN3hXU3Nxa1NJRjFscDdDbkJDYVpZaGJNSzgtSU5iNnEyVWp6aEhJeWdDamxzVnh3U2lDVWFVT1l2TW0zZzZIQ0owY2xYbW0tV3lHdHcwSkEzV1JYcGZxMUdPc2JJS01rSDQ5YldVMG1Nb3dxN1k3UHJDWTZZMg?oc=5",
         "headline": "이재명 발언에 “외국인도 소중”…靑 해명에 빠진 돈 계산[청와대 머니워치]",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1792995376.0,
         "tag": null,
         "first_seen": 1792996231.912405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PTlBBRTRrVThPSlBINW0wVDdTbFNBQjk1alk5TEw5T2JMWTlPZjRBc3lPOWpIMHdTX2JFRmRucU93UkZYcThXUTNDNDZhVEhubXZSZHlJS0VpUDlMQ2dUU3JPWXNyNGlwbldrcTNR?oc=5",
-        "headline": "'미래대응기금 통제권', 청와대는 왜 기획처 손을 들었나",
-        "summary": "",
-        "source": "조달경제신문",
-        "published": "10/26 15:00",
-        "published_ts": 1792994400.0,
-        "tag": null,
-        "first_seen": 1792998040.3688867
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 08:45:51",
+  "updated_at": "2026-10-29 09:01:11",
   "yields": [
     {
       "label": "3년",
