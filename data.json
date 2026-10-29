@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVhkT00weEJ6bU9XWUtXUGpuaERIR3BkWTVIWmY0QmNwa2wwRmtOUEdxX0NIbVgwSWVpN1pRZzRUaGNCRDVReG9za1FvNG5hbFU1Y0RONVJPT2R0RnRFV1kyTUdlTWRWV2NNS0F1cERmYW14MmNIMFpuajNmQmZueWJvR21qSDRScnBRcl84cWg5Z08wVy1QYnNtTQ?oc=5",
+        "headline": "The 10-Year Treasury Yield Just Jumped Back Above 5%",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "10/29 23:37",
+        "published_ts": 1793284668.0,
+        "tag": "Strategist",
+        "first_seen": 1793285127.7908475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGtkSTVwSnhxTHJBQVV4Y1BINWxQQVRPNk1sU1RMSjg1ZkZOSW50bG4tQlBha2lLVXRUSmVVd0JMeEFfbWE2bGlUcE9qOGJfMVI1bXRmNmVGTzV6TnYyOVcxQW9MNWJoUGh3aTJraFRkcnZnenhDTU5abjhvZFNOYm9CdEFDUW1fdVVvQjVtNVUtN2JFU2sxaklpQTZsQlc5QnE1eXg4X2JHZDJQdkRyaQ?oc=5",
         "headline": "The Fed Is Cutting Back on Rate Votes for the First Time Since 1981",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1793273940.0,
         "tag": "Fed",
         "first_seen": 1793277033.5948226
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUozWWlwWnlpUFZjdWQ5MjRBWlVjZ2xQdFNpZzF1aGFySGlJaks3QWhiVlMwMGU5MnBrbTQ2M3dZcVRUbE1rOGxKU3MxLWNLaUJEaWdkQ1lWa1NBVHZ5ZGU0bjg5SV9ORThaeEFlbURmbXhkV2tjeHFFZkRma3ZDMG92UEJlWnFId0dRbi1VblZ6dDRuWE9BbmJtbGxXY1k?oc=5",
+        "headline": "Euro stable ahead of ECB decision; investors adjust Fed view",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "10/29 20:20",
+        "published_ts": 1793272817.0,
+        "tag": "Fed",
+        "first_seen": 1793285127.7908475
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlBLbGM0OFNtdmFTSjBjZ3JXbE5ubnFOSXRaSTV4NlJlSnJQSFhYTEVlc01lcm1OTlFzdEs0YzdGVlN0Sl9UemJjX0FoVXpIUnpFSTU0ZnFkQ2g2aXI1TzQ2RXhNYjh2ODNXcWFIZzdEd1NiV2pCcWk0S0VwMkJEbW1HdlJHLWJPU2p6TQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793247869.0,
         "tag": "Fed",
         "first_seen": 1793249123.5536892
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzVqT01PUVBVRjZ1c25oWkRqMk5JVjY3VmZ0dEplRGdXVEdWbHYtYTZ2NjJqNzczbEUzWmdUd1ZyMlR3UmlQMEZkRk1RR1k3eWdVa3RNZXVqWDJHZ1VlMTRyd1RZX0l0ODVJVU4zQlBSWU51U2l6bjdONFBXMzdsZXJXTHRNZGtITm9ROVJzaWE4bmYyNTN3bnRrb080QQ?oc=5",
-        "headline": "Japan 10Y Yield Steadies Ahead of BOJ Decision",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/29 13:03",
-        "published_ts": 1793246580.0,
-        "tag": "JGB",
-        "first_seen": 1793250040.1870558
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTE1BdGtmWVdsaDdsWktpYlk1d2lzWGN2OGdvc3VSNFZxcC1EZ0lWVHhuT1ZpOWphTHoxMzlVY2U2cWxKZDNIZVBhTkR4OXNzbW5fVG41SFZ1b0U1cHFtempLQzVQQmRuQmhpWVJXdy1mV2NxSERSZjZqVnJRZkRJR1diMFY1dkxT?oc=5",
-        "headline": "Fed Meeting Live Updates: Interest Rates Hold Steady Despite 'Elevated' Inflation",
-        "summary": "",
-        "source": "The New York Times",
-        "published": "10/29 12:58",
-        "published_ts": 1793246280.0,
-        "tag": "Fed",
-        "first_seen": 1793258126.2418275
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 23:31:01",
+  "updated_at": "2026-10-29 23:46:03",
   "yields": [
     {
       "label": "3년",
