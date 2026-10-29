@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOXVva3ZTOGhrVDZQeV9OSzZQcTJDS292VVRCRHBDdTNkRWhDQVhOYXBPeGl4TDdqaUxObEtjODhTc2swTk9KWHJpLVJib0V6YVZkNV96M2ZUci1FSl9jRThlbmkwcVZPekRXaEdScE9xYlVjQVFpcXFyRDlNMEQtV2VfUEhnejZzS0xnT2ZHbWJCT3R1NHpsbVhGVEpxNUhPNG5kYnRSN21peGdKcFM3LUNVS3d5dEppQ1RnRVAxRQ?oc=5",
+        "headline": "Warsh’s AI Optimism May Box Him In at the Fed",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "10/29 18:00",
+        "published_ts": 1793264415.0,
+        "tag": "Fed",
+        "first_seen": 1793265323.509865
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONFlmekxKd2RpdmVKX0c4R3hJRHNWQ01mMHlEM1ROd3RQY1pvcUdGTF9FYWpfQUFSRVJDZnk2ZFZmRGtXai04TGNNN1lwNm9Bc19nY3NUdV9aUzQzNHB5MUlubzF6SEJodmlSU25LZGFwZGc4Wlg3MTBnV05pbE5jV1N6OTA2Y0hwc2gxQmVTRi1fQdIBlwFBVV95cUxQb1c5ZXUtaXlMeGNSNVk0ZjJiV2pxTGVQekg3cGc0YUQ5Q2I4OVFVRGt6TWZHcVUxSFVYMEdBczhjM0trWVE4dlhzcTF4OWxmelBETzNpM1p0TEtucHg3eXhRRWFhLTFRQktfTTJHMGtrbG1BalNoQjUxeVd0enllUUhXa0JDUEFJNVJ6b1BaWjhJZHM2UmR3?oc=5",
+        "headline": "Analysis: Warsh is learning to wield the Fed's power without showing his hand",
+        "summary": "",
+        "source": "CNBC",
+        "published": "10/29 18:00",
+        "published_ts": 1793264401.0,
+        "tag": "Fed",
+        "first_seen": 1793265323.509865
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOS2NxdnJvOXlnb0w4YkxFa1JNc1FyTlVnZi04OGszS0J2WHB4dUhuTkFsdUxwSW5jQXgtdEtkZzJVLV9BcGN4VXY4VzFBN0lQWHJZU3h2N01kbms2TGwtUmNjOXFfMTlpdjV3UTY1aThibFgwWVdCU1l2dHc0TGFfUVpVcWg0TUJJaHJGRjgxeVVBaURTd2ZVNHFXMTk3T3hDNUJsOW1EaUc5VzBadG9ReUozMTYtZlFCVUtpdWNCRHVlbkNLLU04cVpjUmNYZ21XRzhpRmlkaG4?oc=5",
         "headline": "Mark Cuban Warns Hyperscaler Borrowing Could Create A \"Debt Bubble In The United States Of America\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793237047.0,
         "tag": "Strategist",
         "first_seen": 1793254524.9155962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHFVQ3M0cVNVbEljdlNSNm1aRWRWbmY5bERXZmVacjNyd2Z4QVUyQUVORjRuREkzbWZPLTFZRFVKbWx6anJ4RnF5S1FrMzkyQnZtdGszOE9LM3Z1a3pLNVJ6Rm5oV25pTVBubDdaZlJYOXNFX3pjRXAwRWN2ZUt1bUNIYjZfOEczNkVB?oc=5",
-        "headline": "Global fund managers grow bullish on Japanese government bonds",
-        "summary": "",
-        "source": "The Japan Times",
-        "published": "10/29 10:24",
-        "published_ts": 1793237040.0,
-        "tag": "JGB",
-        "first_seen": 1793245524.3301468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ycnIzcHpjakFjT1o1QW1TamI4MDkwSTdfZXhGNlgyWElfTUYyZnRTZDFBM3QyTm9ZYlJ3RjUxSFlUckhERXNBYkRPU080Y0hBQ1E3akNJanZSMGpVQlJLcNIBeEFVX3lxTE5oNTV1V09tcXBzM0RJdllDYWx4QTNUV29JM0xqemRET3FuSGhPRGhxQzJkLXlxRnJjZTRTckxiWGotQXhCaDh2eWhlMmxmMlh5c1Y0b0MtRFR3UzUzRDB5U2d3ZWdjN0JDSVFvbkY3SzJSVWJfRGxaNg?oc=5",
-        "headline": "엔화, 日 정책금리 발표 전 지분조정에 1달러=157엔대 후반 출발",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/29 10:08",
-        "published_ts": 1793236094.0,
-        "tag": "JGB",
-        "first_seen": 1793237432.0373197
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 18:01:05",
+  "updated_at": "2026-10-29 18:15:45",
   "yields": [
     {
       "label": "3년",
