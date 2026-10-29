@@ -826,6 +826,16 @@
         "first_seen": 1793272527.1039424
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5yYndNZ2NxN1JabEZNVkVhd09Ea0lfZkh0RmVWak5yUGF3LVRlX21XeHdEWDRHamYxVnJjU21PczlDQW81N2J5ZWs3aXItMUNNbElxTDFsN2FuZ9IBX0FVX3lxTE44eDl3WjR2eWhwMGVsTjZsSExveTk5dWNCamZQRlFkcS1QTGpiZXM1TXNfd21tZlBWNGNZTkxOMG9jb2gycVo5M09YZVRMVXh3c1JMZi1GVTlrNlVJb3R3?oc=5",
+        "headline": "은행 주담대 금리 14년만에 최고치···고정형은 처음 5% 돌파",
+        "summary": "",
+        "source": "경향신문",
+        "published": "10/29 16:42",
+        "published_ts": 1793259720.0,
+        "tag": null,
+        "first_seen": 1793293241.482287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ia0ZsVmxwLTNBMEtiTDhnQTJJOTQ3VnFXZkczZ2tjQy1BNENVNjlSaDRiTVpmYXZpZEx1T3dpZmxzM1BYVl9Ea1g4aXFXc2Z2NFlIeEs0Y3VTeVZsQi1wR0lkTjM?oc=5",
         "headline": "[기획] 미국 금리 동결 한국 증시에 호재로 작용하나",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1792965993.0,
         "tag": null,
         "first_seen": 1792970126.9311905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBjUFdoVWdkVzFaLWVDWWx6YjFVcjBmdjlmNkZ0VE55TXFZMW5XZnRJYkJQeXZUOHVOX0tZdHR4M1huWlFSRU8yRk81Nm1lVmhVNTZ0d09ESF8tcW8wREJVa09wemlRZ3ht?oc=5",
-        "headline": "기준금리 동결에도 카드사 ‘긴장’…롯데·현대 등 8개사 연말 5.4조 차환 부담",
-        "summary": "",
-        "source": "CEO스코어데일리",
-        "published": "10/26 07:00",
-        "published_ts": 1792965600.0,
-        "tag": null,
-        "first_seen": 1792965933.582241
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOOG41Tjkzb2pVaDhzT1k1c25GbERKNU4xa0JjWVZsRzJwQkJBQy1OdnNVY1JqenNlUExFdEZTWWYyeTVxUGc5V2VIWkw4WE40VHdISV9OVG5LUVZmSTlZS0h0Zmp3d0xvbGtKVXpzRUNzektYWGk4b1NVcy1yNFBrYzJRUFRTR1VpbEFvZDlB?oc=5",
+        "headline": "JGB Yields Hit Records: Why Japan's Bond Market Matters",
+        "summary": "",
+        "source": "Admirals",
+        "published": "10/30 02:00",
+        "published_ts": 1793293201.0,
+        "tag": "JGB",
+        "first_seen": 1793293241.482287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYnN0NnFtd1NaSXlKM3pqZURsLXprcGI5UUxoazhEMjdCbXplQTRiRTJVbFpQTWZIRWduYTZubUxDdGE2UmFlZGdMNVFSazkwR2FBWl96R1lzcDZYQUtlMThWbFVxYUs0MFhod3d6UUhUT296X0NGYW9mYlVWZGdsNkI2a1VLSmR6ZG9nUkMzLWRMNGxOdXZz?oc=5",
         "headline": "Mortgage rates hit lowest level in over a month in welcome news for homebuyers",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793257204.0,
         "tag": "Global",
         "first_seen": 1793262632.7605295
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNWtOaGlZeWg5WHJXZUk1eUJpREF2YkV5eGdHdDA1azg3MzRmSE1tdUtDM3kwOWdqM0QyWjZ3MFNYWk9WVzE0OG1NVXp0TFlHWk5NdTZabnJ4YXJ4T25uUW1Md3Vhd2wwZnJwWE9hQW9MeGd3Ync?oc=5",
-        "headline": "\"New Bond King\" Gundlach: The Fed Should Raise Rates but Won't Pull the Trigger; U.S. CPI to Return to the 4% Handle; AI Credit Flashing Pre-Subprime-Crisis Signals",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "10/29 15:55",
-        "published_ts": 1793256900.0,
-        "tag": "Strategist",
-        "first_seen": 1793260838.4320717
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 01:45:47",
+  "updated_at": "2026-10-30 02:01:04",
   "yields": [
     {
       "label": "3년",
