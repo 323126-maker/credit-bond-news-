@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNSjdZMUhJNEhUbGpDaV9QUG5jdnR3aWZDZ2kwS2hfSE9EZDk5TmtHSHpoU3hBam04X2RsX0JrSVJFZTc1RjExTkFmeXAtSG5leWJ2SXRoRWlFT2VRRWNkaXg2MUJOQ3g5cjE4N1RuUzZOeFk4YWhWYjhzQ3l6WVF4Ml8xaGd6c1JScjB2RkZId1gyREU?oc=5",
+        "headline": "Credit Acceptance, 3분기 실적 발표 예정",
+        "summary": "",
+        "source": "데일리바이트(DAILY BYTE)",
+        "published": "10/29 23:10",
+        "published_ts": 1793283018.0,
+        "tag": null,
+        "first_seen": 1793296839.910782
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9yNFBaTEx1YW9SQ0NITlFVdjNwb2lMSkRNYURnSnMtUVozTHBZTHJOQnJuZ0JYR09Tdl85OUVDVk00T0JJVEFsc0JTX2xYeDBWV0hYQUt6X3JzZ2JFUkFDdnExU25CZGZucllZMFRIVWwyUQ?oc=5",
         "headline": "\"AI 실탄 확보' 마이크로소프트, 9년 만에 회사채…최소 250억달러 조달\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793218605.0,
         "tag": null,
         "first_seen": 1793219435.7269928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zbElQejl5el9IdzRDWVM0QmxCMi13eWNXd3FSTDc4RzdHV25oZHJ1aXhJQnNZMEV5WlBLcXktX3ktLTFNMGczOURPb1JPYmg0RGFHRG8tb2JkVHVSZnFYRlplZWdiVS1WcWMweWhhMFdsbEk?oc=5",
-        "headline": "워시 \"AI 투자도 금리 영향받아…韓경제 예상보다 면밀히 살펴\"",
-        "summary": "",
-        "source": "마켓인",
-        "published": "10/29 04:20",
-        "published_ts": 1793215232.0,
-        "tag": null,
-        "first_seen": 1793256324.4676573
       }
     ],
     "perpetual": [
@@ -1218,6 +1218,16 @@
         "first_seen": 1793261726.019417
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xaXNLS1NSM1BPanRiZmFqLVBXZ0FjX2tJb1FNbHkzcktKa2tHc0pYYmJqcEFyeTBId2gyem5vY1J4bjNFRlpIajBtXzEweUVQWVFhbmxWX255dzl1ank2U3dfWjlra19EOWpRazJrdUk?oc=5",
+        "headline": "국채선물, 워시 비둘기 발언에 상승 출발…'밀사'에 방점",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/29 11:12",
+        "published_ts": 1793239967.0,
+        "tag": null,
+        "first_seen": 1793296839.910782
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OaTZqQ25uMWJrSWdCN3N2UFU5YV9iSXo0UF9yWXA3dnNuX29LT2JPVmVoeXRmSTNxdTZTUVVFenZDS1czRGU1NUdlX3RWTEgtemlNbm40R3hxMUZBWU1IYTJ0Wlp6ZlV3QWpaTW9nQTBYZw?oc=5",
         "headline": "국채선물, '비둘기' 워시 발언에 상승…10년물 8틱↑",
         "summary": "",
@@ -1594,16 +1604,6 @@
         "source": "뉴스1",
         "published": "10/27 10:25",
         "published_ts": 1793064322.0,
-        "tag": null,
-        "first_seen": 1793064635.7550178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzcDRtU3BsWi1aQUI4MDVabGlDNlRMMmF4U25GVzBQQlU2X2RxOFU2a0tTek5RNE42TDFjU0lINHRUaUxtNy1LQkd3SlJTRUk3eVlLRjdnYWI4a2tQLVFOMTV6eFlZSDdFMVhN?oc=5",
-        "headline": "이 대통령 “주택 착공 실적 최대한 높여야…재정 지원도 고려”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/27 10:24",
-        "published_ts": 1793064240.0,
         "tag": null,
         "first_seen": 1793064635.7550178
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 02:45:48",
+  "updated_at": "2026-10-30 03:01:17",
   "yields": [
     {
       "label": "3년",
