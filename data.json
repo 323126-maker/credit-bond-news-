@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOak8xZ0l6RzFVUnlOM0FBWUVXN2FKbU9zVWhPZFVjMFRYSHlSbVNaMjQ2Z2NPdnRZU19oWnpubi1BT09tOVBjcDVNNEdyQXIydkRwcEVheXFxOEhMc1lGMnV4RXdoekhuY29FQk5Xb3J6cjlxbDF0WmFJZGY4Smc3VjJKallfS2xvR0h2NUJXRjNrZGx1bUQ4?oc=5",
+        "headline": "\"글로벌 검증 탄소시장 출범…개도국 녹색투자 새 장 열어\"",
+        "summary": "",
+        "source": "조선일보",
+        "published": "10/29 21:01",
+        "published_ts": 1793275260.0,
+        "tag": null,
+        "first_seen": 1793276126.1393936
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQR3N3N01HekJITmVpOUNUM1dwLVdNanJVT1JXRmk1ZXVDZ0V0Q29MR05RM0V2Zzk4NFpvQmF1NEM5R0RSUG10Qk1PTk1ROHN6aUtiRG1DUXJUS3JGR3pUNHpGd1ZfeVctdHdPNF93dFp4elB4TkZXNVhCMmV1QmMwRmdmd0c0Zlc5RTJfMEJTRnNGUWxZMmUzSFBnUQ?oc=5",
         "headline": "VPBank의 생태계는 VPBank의 신용 등급 전망을 강화합니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793213084.0,
         "tag": null,
         "first_seen": 1793214039.9713736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mRExpV3ZaR3NyUDEwMmhUZW9WSWhDd3JnMDBSblktUi1HUkNqdm9oS3E3aU9YU0VMZFQ3NmF4WHlTZ0FuVExNTnZiUi1pbjhyQ1c1T2h3?oc=5",
-        "headline": "[김성재의 마켓 나우] 채권시장이 AI 투자 버블에 보내는 경고",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "10/29 00:06",
-        "published_ts": 1793199960.0,
-        "tag": null,
-        "first_seen": 1793222127.3338325
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFpZTnhMeHdRdnVwVXdPal80RVlON05GQTgwaGdzeEJNT0JIMHU2bFhaUV9ReTdrOUVRNDN0ckRPd3J1eU02NWlRUnVUVlQ1Rm1lcHJLTEZFM3lZSHdkSzhJcUJweXpUUTd0dXMxQlpXMGRrNkxwQ1lVQ3d4TTJ5TEh3NkYtVUJRWl8zWkNWaS1BZzRvZm5oU3hVU0Q3ZnhXVmlmNjViM1ZDS2g3UE51Qw?oc=5",
+        "headline": "Fed Chair Kevin Warsh’s warning to AI investors: ‘Interest rates get in the cracks’",
+        "summary": "",
+        "source": "Fortune",
+        "published": "10/29 21:08",
+        "published_ts": 1793275727.0,
+        "tag": "Fed",
+        "first_seen": 1793276126.1393936
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYlBLbGM0OFNtdmFTSjBjZ3JXbE5ubnFOSXRaSTV4NlJlSnJQSFhYTEVlc01lcm1OTlFzdEs0YzdGVlN0Sl9UemJjX0FoVXpIUnpFSTU0ZnFkQ2g2aXI1TzQ2RXhNYjh2ODNXcWFIZzdEd1NiV2pCcWk0S0VwMkJEbW1HdlJHLWJPU2p6TQ?oc=5",
         "headline": "S&P 500 averages 1.05% drop on Warsh's first 3 Fed Days",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793242958.0,
         "tag": "JGB",
         "first_seen": 1793243727.1735845
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xYkRQaVVvd1ZaU1RhV3pIaUdnYUFNTTQxZ3RUWnM4OGJ2VGNqbUprUklJRi1iMEFzOUxxODY0OE5oZ2lTUXBvVzlfb3poelFUajVVWmtRSWxxTXJK?oc=5",
-        "headline": "동결은 했지만 '비둘기'는 없었다…월가 \"12월 인상 사실상 기정사실\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/29 11:47",
-        "published_ts": 1793242020.0,
-        "tag": "Fed",
-        "first_seen": 1793242839.5371246
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 21:01:26",
+  "updated_at": "2026-10-29 21:15:51",
   "yields": [
     {
       "label": "3년",
