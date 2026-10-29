@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONE1QamwtQzFoU29pdVBJOGJYUVZROGxfZTRRMmhTQk9CMFZJUEo0X2xkNUxxcUREelphZmNvdGJCTVVxemRBckM3M2VieEFteGNCc0kxb1k1WHRIOUtJUlk3R0JHVG9qUlg4bWFncFRaSk9IUk9HVC1TbWYxcks2QzR2OUJ3SENM?oc=5",
+        "headline": "13년 만에 물가 2% 넘었다…일본은행, 금리 1.25% 동결",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "10/30 04:00",
+        "published_ts": 1793300400.0,
+        "tag": "JGB",
+        "first_seen": 1793301326.3911545
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVDFJcEVGS0pqZklUVWpmR0hBUDJkeDdLVXpUYTk0RGF1NTFLTlZoY2lOd1RyRWFDeC15WnhzZENqXzlNZThHMm5GSnQtSXhTMWRkTUZsdGlxX0szU2c3S2FyMUpqSDlxX0lVS2dqdnJTYjI4Z1NheHZINk8yRmxWQmxLcm1COUFESXhpS1VIYmRzSm1r?oc=5",
         "headline": "Warsh: Interest Rates Affect AI Investment Despite Strong Demand - News and Statistics",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793262607.0,
         "tag": "JGB",
         "first_seen": 1793263521.4579825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5VSFgwVThjNDBkeUlFc0R5cmV0MmFLTklOSWctRUxhV2FDVzlIaC1LM2NZbFB4QmZxY0h6eFVvTzBhbVQxVDl5akEzUlQwQlZqREVMd2pteFVhYVFQTkFuQTRfX2dyb0x2R3lzbEZjSVBHZw?oc=5",
-        "headline": "[亞증시-종합] 기술주 약세에 中·홍콩·臺 하락…日 상승",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/29 17:19",
-        "published_ts": 1793261997.0,
-        "tag": "JGB",
-        "first_seen": 1793268039.7202148
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 04:01:04",
+  "updated_at": "2026-10-30 04:16:03",
   "yields": [
     {
       "label": "3년",
