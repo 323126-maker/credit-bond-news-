@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPbF9GR2lXNExEVWlIMldlTk5QWXQyWTVIbHlzMnM1bTRhdUFzQ2NwQm9MYXdyaG92dlB1YTlJVW1ESG5iNmtkTDhnMG9IanBqeUJmOUQ2Sm45c3pHSzEtZ3lvZUxSRmNLc184eWhReTVvbEdhQ1AwTnF6akVFUlFyd2NJRFdIOWF6OHFISDAxZWMxOHFJcXJPRlp0RFVpZzB0MF9rNTh2TQ?oc=5",
+        "headline": "Fed highlights economic strength but muddies outlook for Treasuries",
+        "summary": "",
+        "source": "Reuters",
+        "published": "10/29 14:04",
+        "published_ts": 1793250240.0,
+        "tag": "Fed",
+        "first_seen": 1793250927.5101054
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjZvaDBDS19PbnRlQnlQd2hvTXZsbDFZZG9VTW10TEF1WHplU01ydHAxVXlsVUY1QkRQTjhIRlplWkgzcTJKQmZhUFM1X3laSTY3WEZmMzgyLWJoWnY1YjJVZ0NXVVFUV0NoS3lXcjNKcWV5bEEzZkJHSDNkdk0xM2hQV1pLbkhDZEp5MTc0UQ?oc=5",
         "headline": "Warsh changes something, but it’s not interest rates",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1793245440.0,
         "tag": "Strategist",
         "first_seen": 1793246438.881747
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNFE2VWo1OGpwaGlaaldfUHRhRTRYZXB1bjZqZmhaWmtlTDRHcjNaT3I3YnBVNkxSSkZBeDRYYmhpb1NCZURHYjQ4QjFzdGVGOFpFTDAyd29HQXRNTy0zQUtNXzEtUnRWZncweXEzRjRPYjB2WGQtc2VDUmxIalh2U1VxaXc4Z181djMxb0lOMU5VVjFVWjY1NEtzWVQ3MHcxWHFKU1hBVFJWZw?oc=5",
+        "headline": "GMO Bond Spread Jumps as Cyberattack Hits Credit Market",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "10/29 12:31",
+        "published_ts": 1793244663.0,
+        "tag": "Global",
+        "first_seen": 1793250927.5101054
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTVrZTROcVBlSHVaNlBmVUhvbC1uM3Z6Vmg3ZW1VdzZFYTN6cjVMbUFVR0RGV0d3S0VFcnRack4yLTBTRTRBdzBNQ3doNGVITzg5RS1ybW5RRXRxNHZ5dUhWbXM2WnVFRjFjR3RySXdqcDh3QVpBdWZRMEd6RHdId2pHQnB1aXVxbU5oRTJrSQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793228400.0,
         "tag": "Strategist",
         "first_seen": 1793236524.426857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQalM3ZU5iT01mN0R1cWVvSTJsZW9Kc0RobHMyTVlHZ0YyRU1HYzQ5LVpJZ3NGN2gtTlFXc3JIVnlDeFNxckE2U2M2VThMNHgtMVJYWEx4Q0F4VFJrcVNCRERLb2JGSnFDXzR6cVEyMzB0UVVRc3ZhU0ZFaFc1eUUteU5pM1NiV2pIYm8tcDNrU0VURlFoeVRqNjZCQ1JmNm9YWlZyYVBMNEJSVTEtQ1YxUUJBTGw?oc=5",
-        "headline": "Fed Holds Fire as Warsh Telegraphs More Hikes Without Saying It",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "10/29 07:44",
-        "published_ts": 1793227455.0,
-        "tag": "Fed",
-        "first_seen": 1793234725.706351
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9QN285d1d4WTZxNERGM0g3aDRGc3kyWFk0S295bzdWVjJEUTdpRkRhc2RmNVFYMC0tTWgzSHRYMlc0QWRIMmRtRGZud2FIVWxtZVBhZEoxcVlIZ293?oc=5",
-        "headline": "[채권/외환] 美 연준, 금리 동결에도 경제 평가 상향…장기 국채 금리 상승·달러 약세",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/29 07:37",
-        "published_ts": 1793227020.0,
-        "tag": "Fed",
-        "first_seen": 1793227525.4050176
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 14:01:04",
+  "updated_at": "2026-10-29 14:15:52",
   "yields": [
     {
       "label": "3년",
