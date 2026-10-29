@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5keEhyeGtXZHlUX0tlMTVBb09LTjhjdXRyeVJ3UnNlWHl0UzF5RmhZdHF4cnMtMmh2cG13UDYwQVRzTlZmazlOcGlGU2F5d0xjN25OcGVLM1M3c2Rj?oc=5",
+        "headline": "우리투자증권, 채권·연금 웨비나 개최",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/29 09:55",
+        "published_ts": 1793235300.0,
+        "tag": null,
+        "first_seen": 1793235638.4871862
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45YWdyb19YWUZkcVBLN2MyQnJFWUhBME9yRlF4RzBQTS1vMFV2T0U0OHBYaXhMRUIxUEYtUEtUMkRRaEdQTGozZ21jQzl5ZS1O?oc=5",
         "headline": "인플레이션은 누구를 부자로 만드는가",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793148180.0,
         "tag": null,
         "first_seen": 1793151923.3051581
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNbWphVDBnWUV5ZDZ6a0F5LS1NRUNCYmRTekQ3OWQ0ZkY2QmxxRFdHWXNDSk9sS25IU0QzcG1nM1pUbjVJbWhYWGhPVGFKaElxaUtTTW93TjFzR1JhYjlMRFhXclFUR3dYQXN2WmpTdHY0ZEdlRF9HaUVBaHU3NlQ2WUNjRjMzTERlTHIwR011eHdRSy10dnBhemZEdUlic3dqSDZ2Q3oyZ3dzREo2aE8wUi1xdHZUZnZ4Z1NmbzdQTEdhNXE5TmxSSHpBaE9FRUE3ZlFtNEp2X25SeE5YTllINjN3Zk1wTWgzaEtMYVFrUGNMcEhBX19vTWNKR1FOd01McVlmYTlTLV9pc09hZVFQMy1obw?oc=5",
-        "headline": "MSCI 효과 확산, BBKP 달러 채권 발행 연기하나?",
-        "summary": "",
-        "source": "IDNFinancials",
-        "published": "10/28 09:40",
-        "published_ts": 1793148000.0,
-        "tag": null,
-        "first_seen": 1793148325.2734604
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jeEVoWTZaeTBUZlMzSTE2eWpHMFZwRGxxNFJWX0FqX1VNQ0pKaXQ0ZTFFMTctbU5CMmlyOVZRejlheWxjUHJDTUQ2c2ZXOHlJdUNLamwxeUR1dnVRRXdXT0JadEJkNE85YVRQQjA4WWREZw?oc=5",
+        "headline": "한국은행 \"美 금리 동결에도 대외 리스크 상존…경계감 유지\"",
+        "summary": "",
+        "source": "프라임경제",
+        "published": "10/29 09:51",
+        "published_ts": 1793235064.0,
+        "tag": "JGB",
+        "first_seen": 1793235638.4871862
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tTkVKbEpmczU1VzV5RHdMcE1EQjExTUJPd1ljTG13SVh3TDE5aGVPblF0ekQ3Wmc2OG9MdFE4bllsR0wzOExtUjNFdWNBX3RmQktCYy1NaFpzalQ5Uy1YMNIBeEFVX3lxTE1SNy1EVDBESUV3eEdYQ0duMU82RUZJMG1NajMxT25DS2FmWGZDWEpwSEhjYkthcnM3TDJfUUI2U19LQzNueFpIU25nejZyN1cyS18zNnJ2cDA2dW5zLXh5MHd3c2l5SlNVQWtrVmd4M0xRdDh5QXFKYw?oc=5",
+        "headline": "일본은행, 오늘부터 금융정책결정회의…내일 금리 동결할 듯",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/29 09:35",
+        "published_ts": 1793234120.0,
+        "tag": "JGB",
+        "first_seen": 1793235638.4871862
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE00YjhLVnliOFk0SkZoXzV2TkRoSWVOenBlb2RzRFJrZ1NqVnppNGJoM0hTSmtvTnV5dmYzRmRvZktkVTI2RDZXdk1zX2J1WjhuYzhuM2xpYkVmdldS?oc=5",
+        "headline": "한은, 美 금리 동결에도 경계…\"美 중간선거 후 정책 불확실성 높다\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "10/29 09:32",
+        "published_ts": 1793233920.0,
+        "tag": "JGB",
+        "first_seen": 1793235638.4871862
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRFR0VVNwOVVOZGJZX3JKeU1GRkNoc19pSzBCRlpIR2ZFSTRrTE5BaTRXN3Ytb3daRGR5Y19xZWQ2QmtTemFITDZGNThpY3JxSmxIOGlLdmFkTEFfVVVOeFV6Z3dTMkR6VFlMOUZ1Z3BIZFl6cEJjVmkxeVNMNjdMUA?oc=5",
         "headline": "한은 \"미 중간선거 이후 정책 불확실성 높아\"",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793218837.0,
         "tag": "Strategist",
         "first_seen": 1793219435.7269928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBkZFVNUDJRUTNQRFNTcC1jMFBJNnlsdUVhS0NIM3VZNVVvZVNYT1JrX0c5V0ZiVnQ2S21teDVFZWE2cFdFdHdNMHdZZWJPVmZsdXo0S0tRdU40WE91WXdoRkRoMzFGYW5rMXFKbzdOZno1TjYxNlFjeEpfZw?oc=5",
-        "headline": "BlackRock's Fall 2026 Hedge Fund Outlook: Key Themes Are Dispersion, Innovation And Differentiation",
-        "summary": "",
-        "source": "Hedge Fund Alpha",
-        "published": "10/29 05:15",
-        "published_ts": 1793218527.0,
-        "tag": "Global",
-        "first_seen": 1793219435.7269928
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZ3FpRmZjWlZiSzhOV0F2SHZYMW1aVDhpNUNvLU5PT21TWmI4c1Iyd1FmMHlNWU1CRlpBMmVNVWk4VW1TYS02NWI3UWpobjhOOUZLaFFzc1ZFdURFUlF6TXAxTzhaTGdvVWNyY2lIb1JrazN6bl9sakpoS0VXaVVyQUtLUS1YWUl5LVEzdktqdDR2ZGRhNTJNZUdWMExzTUFwbHRPRk9ka3N5MnhxSUo5RTFMZ0hZeVFRNnpUeFFiTGVrUTNHbWZIR0M5Rk9XZFY0SFFQZ00tQjFydVlmamUxYzZ6Mmx5Z3FD?oc=5",
-        "headline": "Fed Chair Kevin Warsh Says Politics Played No Role in Keeping Rates Steady Ahead of Midterm Elections",
-        "summary": "",
-        "source": "C-SPAN",
-        "published": "10/29 05:11",
-        "published_ts": 1793218268.0,
-        "tag": "Fed",
-        "first_seen": 1793220327.5760303
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3RHhFanBCRG1fQkFJUDJuLVd0WFgtNWVlQTM0bERjRUdvcy1BTDVablo0ZTR5WURWNjgxSEEzT0tnZnRZbnNlWjdGbFRWa1pqUE5vVUJuZFN4dm9T?oc=5",
-        "headline": "워시 미 연준 의장 \"한국 경제 주시…신현송과 20년 지기\"",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "10/29 05:05",
-        "published_ts": 1793217900.0,
-        "tag": "Fed",
-        "first_seen": 1793218527.4225688
       }
     ],
     "watchlist": [
@@ -2070,6 +2070,16 @@
         "published_ts": 1793174400.0,
         "tag": "현대카드",
         "first_seen": 1793175329.2907474
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1DRWJrZGswS3NXbUktTmsyYXJSSWVtQ3pscVVWNlJUc29lUk5vc2F4SHY1XzF0d2ZURUF1Tk50QUdqR09uNzJQOUVGbUN3UVA4c2JNOQ?oc=5",
+        "headline": "[더밸류 브리핑] 오늘의 신한금융 소식…신한금융지주·신한은행· 신한라이프",
+        "summary": "",
+        "source": "더밸류뉴스",
+        "published": "10/28 15:34",
+        "published_ts": 1793169241.0,
+        "tag": "신한지주",
+        "first_seen": 1793235638.4871862
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqaFRYQUFsTzU4NzA2a0Y2aTBxTHRVeXZOUXc0RWN6eVRqakFrR05zNTQwQjRpaGRYd1FYNHJXZWJhZ0dRTTl0Y2hmQ3Y3TEdvRFlORkFhU2VTSG5HLUp4aA?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1792983640.0,
         "tag": "현대카드",
         "first_seen": 1792984527.6242769
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBRMktwaHlqX1RVRWZuQTFFOEJ3LVpUVFkyd2lvSG9xZkZ1UzFxazRmYldFT2k0WWFfVm9YUmNSZ05sOEZYaEg5U3BXcEVvcnpaUW02cEoyUEZIRWh5V2ZLQXliRG91bko4S29ZcV9vQUhfOFU?oc=5",
-        "headline": "[이슈] 카드론 금리 내렸는데 조달비용 또 올랐다...카드사 수익성 빨간불",
-        "summary": "",
-        "source": "오늘경제",
-        "published": "10/26 11:34",
-        "published_ts": 1792982053.0,
-        "tag": "현대카드",
-        "first_seen": 1792982726.6070564
       }
     ]
   },
-  "updated_at": "2026-10-29 09:45:48",
+  "updated_at": "2026-10-29 10:01:04",
   "yields": [
     {
       "label": "3년",
