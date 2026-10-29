@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjZvaDBDS19PbnRlQnlQd2hvTXZsbDFZZG9VTW10TEF1WHplU01ydHAxVXlsVUY1QkRQTjhIRlplWkgzcTJKQmZhUFM1X3laSTY3WEZmMzgyLWJoWnY1YjJVZ0NXVVFUV0NoS3lXcjNKcWV5bEEzZkJHSDNkdk0xM2hQV1pLbkhDZEp5MTc0UQ?oc=5",
+        "headline": "Warsh changes something, but it’s not interest rates",
+        "summary": "",
+        "source": "Morning Brew",
+        "published": "10/29 13:24",
+        "published_ts": 1793247869.0,
+        "tag": "Fed",
+        "first_seen": 1793249123.5536892
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gc29GTEJHU1NmV2dfSXpkOXZKRm1zZWZ5bkZUeEkxenp1WmpLTUhlZW05REVhaDljcXZ2dmRWMmZWc2tjSElSSDRadUJwOURjbDFhN0VoQVhmMGhTV1ZhRW9udXh4T0YwSHp1LTZWNHg2ZWvSAXNBVV95cUxNRnNvRkxCR1NTZldnX0l6ZDl2SkZtc2VmeW5GVHhJMXp6dVpqS01IZWVtOURFYWg5Y3F2dnZkVjJmVnNrY0hJUkg0WnVCcDlEY2wxYTdFaEFYZjBoU1dWYUVvbnV4eE9GMEh6dS02VjR4NmVr?oc=5",
+        "headline": "Fed '금리동결'..美국채금리 '혼조', 달러 '절하', 엔화 '보합'",
+        "summary": "",
+        "source": "초이스경제",
+        "published": "10/29 12:47",
+        "published_ts": 1793245643.0,
+        "tag": "Strategist",
+        "first_seen": 1793249123.5536892
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdWdBVEFPVW5rY3MzeHhFd2V5anR2d2dwamdaWlhpbUVaTUY1a2R6ekNsaThJTzc4NlJDNU9RUU1lNlBjcjhqZERsdHJkejJlMjdqeVZmWjB0YzZpVlJLbnNwUzhMcTA1elNnRWNmb2lnd0Jxb1huYlFZNl9aOG9jbkxRY3M?oc=5",
         "headline": "RBI Accepts Higher Treasury Bill Yields as Oil Shock and Liquidity Strains Intensify",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793225678.0,
         "tag": "Fed",
         "first_seen": 1793226632.435054
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9lWkJZMGR6eHZTTlV0bVJKX2RWY3hkQk1pbndXWi16TzdhMkptMUlUMmdiZXcwenYyekxOUFdPNDZsS1N1akZqVUdURkFhbVE3aGVWdEJIVGhBTjdSbnFlQzhPRk51bXY5cnh3aEJIRVM0SFU4?oc=5",
-        "headline": "Warsh Is Changing the Fed. Its Inflation Problem Remains.",
-        "summary": "",
-        "source": "Barron's",
-        "published": "10/29 07:09",
-        "published_ts": 1793225340.0,
-        "tag": "Fed",
-        "first_seen": 1793242839.5371246
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc01IVDhXeWdrcFpqTlFZWmVkYzFhanVEUnM2bkdPLVFZQi15LVJuVXBUR0xOLWhRR1JzN29pSXNjdHRyc0JlZnZldllfQWZKOUhVaFJUQUFqN1pJb2V1ekZTOF9LaDQ0MDFNUVM2c1FsUm9JMmkwbFVaekZWYmNURHpqaUJLX1Y2elVVclFfYzNjYmp6ZHIwR09SVjNLVGFkYUFSQ3V0dDU4Z3B3Z2R1S1NMb1ktZmdSVUZz?oc=5",
-        "headline": "Fed to cut back on rate-setting meetings, Fed chair Warsh says",
-        "summary": "",
-        "source": "KTUL",
-        "published": "10/29 07:02",
-        "published_ts": 1793224927.0,
-        "tag": "Fed",
-        "first_seen": 1793240126.0885742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 13:30:58",
+  "updated_at": "2026-10-29 13:45:48",
   "yields": [
     {
       "label": "3년",
