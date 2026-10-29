@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVnY4RkpLZGlvckk0TUFGU25KdnZaR0Q1ZjcyWGlxYnl1NHB6a29mdVNUY3FQaXpOMDZlS19CRVFuQWpQdkRfRy1ZTTZuMjFXTWxKdHdhUkNUUTFMS2pwNmxuaS1ibzZReVhvSWNRajVoUTkyUDQyMjNCaWVpbDBRYlFKeDZjZmpKdmxDVFZpTktJZ1NLczhicTkwRUloRFZhbnZnZFdoNE9vczhWczhkVzh6eEhuZWhueTd2OHFZNXI?oc=5",
+        "headline": "The average 30-year US mortgage rate dips to 7.24%, the lowest level in more than a month.",
+        "summary": "",
+        "source": "WRAL",
+        "published": "10/30 01:07",
+        "published_ts": 1793290038.0,
+        "tag": "Fed",
+        "first_seen": 1793290525.6445212
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55QVhra096VnNGVVZQUUMtN2hhWUMxdUtENUp0U3psOWxhOXR6RUtOLURfZUEwWVNINjlxY3Y2OVJXSnVOSUhrWFY2ZjFsd1Bw?oc=5",
         "headline": "일론 머스크, 드러켄밀러 하이퍼리퀴드 언급 게시물에 \"흥미롭다\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793256022.0,
         "tag": "JGB",
         "first_seen": 1793257239.3791935
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUJoQjRCb1dhSUw4X2tzQ2VsZHZ3eFh1bE1VLUxBaFZZWUJXYlc4ck1TSFhoMk5PRW5sT0g4SVVKTzhfbW1Uc0ZGLVJrQVEwRGN6Tnc2aFByYm1GTlFZTF92TWFDN1RUNWtGZUpRcTNYNG5Jd0JHV2M1X2ptY29QcDhUaHJCUDB1OEpaS2llUGp3ekhZdHdiVVhsZ0RtZS04bUd4Qi1acDBRdw?oc=5",
-        "headline": "Japan Bonds Steady As Strong Auction Offsets Rate Uncertainty",
-        "summary": "",
-        "source": "BusinessToday Malaysia",
-        "published": "10/29 15:37",
-        "published_ts": 1793255858.0,
-        "tag": "JGB",
-        "first_seen": 1793272527.1039424
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 01:01:09",
+  "updated_at": "2026-10-30 01:15:51",
   "yields": [
     {
       "label": "3년",
