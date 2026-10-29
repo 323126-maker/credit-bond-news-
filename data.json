@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWlRfbUM2SkVRVElrZWctelZGWWFORlU0ektUVDhnM2lFMDFVS2oyVXBVakNvVnpqNzV6RHBMdi1xZHZtYzktVVEyUFM4ZHV3QzFPajl1dEFiOWwtVFFWMGtWZlI3R3lJV3ZlQjBrQm9hM2ppcjB4cGVmS1JRNlFBUl9obGtsd3FXbWVYS3FVMS1OWFlSemNtWnoweEN3RDNzMU83Mlc1anBwb3ZxSlk2a3hVY0Y5MmlzZUFtdzNoMVdWSkw4RnRQZW55RUZlVTY5NkVUTF9fbmhZc00?oc=5",
+        "headline": "Microsoft to Issue First US Bond Since 2017: AAA Rating May Ease Market Concerns Over AI Financing Spree",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "10/29 23:44",
+        "published_ts": 1793285082.0,
+        "tag": "Global",
+        "first_seen": 1793286042.5571353
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNVhkT00weEJ6bU9XWUtXUGpuaERIR3BkWTVIWmY0QmNwa2wwRmtOUEdxX0NIbVgwSWVpN1pRZzRUaGNCRDVReG9za1FvNG5hbFU1Y0RONVJPT2R0RnRFV1kyTUdlTWRWV2NNS0F1cERmYW14MmNIMFpuajNmQmZueWJvR21qSDRScnBRcl84cWg5Z08wVy1QYnNtTQ?oc=5",
         "headline": "The 10-Year Treasury Yield Just Jumped Back Above 5%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793249339.0,
         "tag": "JGB",
         "first_seen": 1793255434.6229963
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjZvaDBDS19PbnRlQnlQd2hvTXZsbDFZZG9VTW10TEF1WHplU01ydHAxVXlsVUY1QkRQTjhIRlplWkgzcTJKQmZhUFM1X3laSTY3WEZmMzgyLWJoWnY1YjJVZ0NXVVFUV0NoS3lXcjNKcWV5bEEzZkJHSDNkdk0xM2hQV1pLbkhDZEp5MTc0UQ?oc=5",
-        "headline": "Warsh changes something, but it’s not interest rates",
-        "summary": "",
-        "source": "Morning Brew",
-        "published": "10/29 13:24",
-        "published_ts": 1793247869.0,
-        "tag": "Fed",
-        "first_seen": 1793249123.5536892
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 23:46:03",
+  "updated_at": "2026-10-30 00:01:13",
   "yields": [
     {
       "label": "3년",
