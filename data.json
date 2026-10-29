@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWTVrZTROcVBlSHVaNlBmVUhvbC1uM3Z6Vmg3ZW1VdzZFYTN6cjVMbUFVR0RGV0d3S0VFcnRack4yLTBTRTRBdzBNQ3doNGVITzg5RS1ybW5RRXRxNHZ5dUhWbXM2WnVFRjFjR3RySXdqcDh3QVpBdWZRMEd6RHdId2pHQnB1aXVxbU5oRTJrSQ?oc=5",
+        "headline": "Favoured Bond Markets Amid Fed Rate Hikes",
+        "summary": "",
+        "source": "BusinessToday Malaysia",
+        "published": "10/29 12:12",
+        "published_ts": 1793243530.0,
+        "tag": "Global",
+        "first_seen": 1793245524.3301468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wTmpVYWp1VE1TeFZPMFBtR2V1bEktVlFIY29MZUtHam5SZDU5ckFmX3dzd1BkSFZQN2JjMmI4cTdOUUN2SjMyU1o1S1J2dy0xVE1mMVNiMjc0NGRJeW5VYl9WTnl3Y0k?oc=5",
         "headline": "日銀, 13년만에 물가 2% 달성 인정 전망…12월 금리인상 힘 실린다",
         "summary": "",
@@ -1678,6 +1688,16 @@
         "published_ts": 1793237949.0,
         "tag": "Global",
         "first_seen": 1793239240.1937284
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOOHFVQ3M0cVNVbEljdlNSNm1aRWRWbmY5bERXZmVacjNyd2Z4QVUyQUVORjRuREkzbWZPLTFZRFVKbWx6anJ4RnF5S1FrMzkyQnZtdGszOE9LM3Z1a3pLNVJ6Rm5oV25pTVBubDdaZlJYOXNFX3pjRXAwRWN2ZUt1bUNIYjZfOEczNkVB?oc=5",
+        "headline": "Global fund managers grow bullish on Japanese government bonds",
+        "summary": "",
+        "source": "The Japan Times",
+        "published": "10/29 10:24",
+        "published_ts": 1793237040.0,
+        "tag": "JGB",
+        "first_seen": 1793245524.3301468
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8ycnIzcHpjakFjT1o1QW1TamI4MDkwSTdfZXhGNlgyWElfTUYyZnRTZDFBM3QyTm9ZYlJ3RjUxSFlUckhERXNBYkRPU080Y0hBQ1E3akNJanZSMGpVQlJLcNIBeEFVX3lxTE5oNTV1V09tcXBzM0RJdllDYWx4QTNUV29JM0xqemRET3FuSGhPRGhxQzJkLXlxRnJjZTRTckxiWGotQXhCaDh2eWhlMmxmMlh5c1Y0b0MtRFR3UzUzRDB5U2d3ZWdjN0JDSVFvbkY3SzJSVWJfRGxaNg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793224138.0,
         "tag": "Fed",
         "first_seen": 1793231124.9751945
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRUNlWElDTGpDVE1ZTGNKaERIbnpvVjNlbHViLU9kd2NaWjhkWWRNbE5tY0RyLTJpTmJyVnF1R1RSVzl2VVktVXJGQ1pvTGNDS0NBNm8tUmV5N1JKd0c1MTkySHFsbVdfMzhrUWszNG9UbHc1dG1MU2tGM3BFQlg2RU85blBMM0t2YXFCa3NTcUtwVl9VVDVDZHFJSm50ZGNCc3p1RDl4TzZTdndtX25V?oc=5",
-        "headline": "US Short-End Yields Fall After Warsh Signals Fewer Fed Meetings",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/29 06:39",
-        "published_ts": 1793223560.0,
-        "tag": "Fed",
-        "first_seen": 1793224838.2707868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHNDQ0VqbFE0ZmQ4R0VOLVFwN2ZSVGFmTjBrb2JmOXJqRDN3S0Y3Wjc3Z3J5a0MycWJCMFRtbWJJcHFNM0xLZUJNYzRvNl82UVQtWDZJRGh1T24wZzBIUWR3SG9WY2lzTnJvRHJrd1FLQWs4VGNzNDhsTVBqQTVnakQ3cW5jek1PR0FONEpvbXZoUUpYUzUyYVRFczhfNlFQeFN4T2N3?oc=5",
-        "headline": "Fed Chairman Kevin Warsh’s Postmeeting Press Conference",
-        "summary": "",
-        "source": "WSJ",
-        "published": "10/29 06:34",
-        "published_ts": 1793223240.0,
-        "tag": "Fed",
-        "first_seen": 1793243727.1735845
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-29 12:30:59",
+  "updated_at": "2026-10-29 12:45:46",
   "yields": [
     {
       "label": "3년",
