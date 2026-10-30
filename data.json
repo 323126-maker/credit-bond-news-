@@ -1850,6 +1850,16 @@
         "first_seen": 1793357125.5418687
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUnk1RVl5M29nTU9NUWJneExkR0pJRVNqajBGYkxDQWVZMTBWZG9qUjlGa2t2aDA3Zk81UThzQmgzcHl5RU5XRm9WalRYbzdJa1N3SURwNUZ4VnNXU1V6RXRVSTNFVldEOTB5WlcyRnVvSXRMSFhOOVJPYmVLd1JCbjdJX1RuSngtZE5N?oc=5",
+        "headline": "Kevin Warsh Confirmed as Fed Chair With Crypto Holdings on Record",
+        "summary": "",
+        "source": "CoinMarketCap",
+        "published": "10/30 19:23",
+        "published_ts": 1793355836.0,
+        "tag": "Fed",
+        "first_seen": 1793388633.8047187
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlVXMkZ3S3BFSnhKa2FuMXl2S3hTSm5naERDdXJPc3owSEJtNEd5Wkg0cE9mWlBxTzRlMWtIM0tPaEJjc2dmaFVESFQzUmw5QWNzNWlFWVVPZUY2TVpqYUIxdTB2WHhOQWlSWTlEeVdXZ29VeDh4RUY5RWFTQzhSd2p6MW45NHJOOVNZSTR2ak9DZ2h0RWxn?oc=5",
         "headline": "Commerzbank Says Treasury Yields Up as Technology Stocks Lead Broader Sell-Off, Brent Oil Gains",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793343726.0,
         "tag": "JGB",
         "first_seen": 1793349923.9599342
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBFaTlSU2tFUDBua0l4blNSTTNWTDN5VDJTX3ZZNDB5cTc5ekZqV2o2QUZjUTFjWC0wSFp0UjZJVERSRTdNRUFlY21PalByeVhfbUVJd1NXUWt0bDdFLWc?oc=5",
-        "headline": "일본은행 기준금리 동결…\"물가상승률 목표치 도달\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "10/30 16:02",
-        "published_ts": 1793343720.0,
-        "tag": "JGB",
-        "first_seen": 1793384126.4444325
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 04:15:55",
+  "updated_at": "2026-10-31 04:31:07",
   "yields": [
     {
       "label": "3년",
