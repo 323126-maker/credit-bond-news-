@@ -32,6 +32,16 @@
         "first_seen": 1793351729.2398667
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wcklmUnoxUWpaRXlXUjYxeW1hdjhEU0FIWVo2b3F6ZlQ3ZlVVRW5MV1MxTHRZTG5Xa0g3RDZOa2tFM010WmYtUk93Y0RCSHI0aFFsTURsUDVhV2N2WlJwNG93TWJIVGJ2?oc=5",
+        "headline": "MS, 회사채 시장 9년 만에 복귀…250억弗 발행",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/30 17:41",
+        "published_ts": 1793349671.0,
+        "tag": null,
+        "first_seen": 1793381435.034064
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZVJ5clQ1WGNQTVBqemVod1FJU0FYV2V5NzFPYUpBaTRrc09ySzNscDlBQkJfYVE2RjRIRzdmczJ0RHVobFFEREVRWTBwM1RSM0RpOVNjZ0d0M3QxUElwWG1RMG1zNVN6X3c?oc=5",
         "headline": "한국투자증권, 최대 5000억 회사채 추진…전액 차환에",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793266392.0,
         "tag": null,
         "first_seen": 1793272527.1039424
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JUWdyY2RBcV82eUZVMkpEVVBrYnI1bEdzRGdGYzdWQUdUNkN0YjA2MDJ3RzhfaC04NW5EWl80SlQwQmZvR2hMQW5fSmVPMDNYVzFpY05hTEtWQnpLSTV3azhrdGpoVGpyeFdIalVOVWZSWGlI?oc=5",
-        "headline": "[채권마감] 불스팁, 비둘기 연준+이형일 국발계 발언+외인 선물 매수",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/29 17:00",
-        "published_ts": 1793260800.0,
-        "tag": null,
-        "first_seen": 1793261726.019417
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 02:15:49",
+  "updated_at": "2026-10-31 02:30:56",
   "yields": [
     {
       "label": "3년",
