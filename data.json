@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BUDBHMjYxdzhhYXBkcHNxLUkxQlRDSWdvNHJlMVVUMUQ4N1VtMU5vVS1TNEFSSzFjSU9UTTNsWGpaTnlFSnE1a1dTSUZ6d1hLa3JWRW5qbUVTWUItQXQ5M1dONk5rOFQ2?oc=5",
+        "headline": "[채권시장 동향] 미 빅테크 실적 부진 여파…국고채 10년물 금리 7bp 이상 급락",
+        "summary": "",
+        "source": "CBC뉴스",
+        "published": "10/31 00:15",
+        "published_ts": 1793373300.0,
+        "tag": null,
+        "first_seen": 1793385926.6540308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tMWY1OGM4SndCQnZld0ptdDdoYjJnME5taUVQdzJyV3A4S21KLU9Pbzc2clI1ZDNsWUZiR1pKdzlneDdoZHRNNTh1UEJDOER0bmJMUlM5c3MyU1UwVlpCM1cyazg0YVVOekg3V01fZ28?oc=5",
         "headline": "[채권-마감] 강세 플래트닝…주가 급락·WGBI 수요 유입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793266626.0,
         "tag": null,
         "first_seen": 1793306723.7252553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9rYURpZER5azd6aHBCUWxDbm55LWtEYVpNcGhucVo5U3kxZ2FqTlpGdFNJSUNxSHQzNnUtRE5aWVRIU2I0azhBTDg2OUZmRlVqa0Z6NEpLd1NZQQ?oc=5",
-        "headline": "글로벌 채권시장 지배자, 전통 금융사 아닌 빅테크",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/29 18:33",
-        "published_ts": 1793266392.0,
-        "tag": null,
-        "first_seen": 1793272527.1039424
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcUxLSkU2YzZIYWt1bVpfaFBXcmlITXM2V1lfakFtcDFTeF90ZEktVGpUX1llY3VlVWNSZUNYNmVZVXN5Q2R4a3FiQ3R1ZHVIeWV4MFctNHVrc0dXcmlqYmdnTC1CMVh1TUlZdElBY0hBVG16blJvdWkyTnZjbEduUXZpc0ZqVGRGdFpXS0lmYzZWdW9raXY3UHFGT2RlUmcxRzFwcWwzWkxKbU9famc?oc=5",
+        "headline": "Form 4 TRANSAMERICA SERIES TRUST For: 30 October By Investing.com",
+        "summary": "",
+        "source": "Investing.com UK",
+        "published": "10/31 03:32",
+        "published_ts": 1793385120.0,
+        "tag": "Global",
+        "first_seen": 1793385926.6540308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblVtZktXRjdPbHJBWDM4WWJsV2RyMlhnOVFYRTZPc01udjZNZTVjeHdIN1dVY0w1M1NHbHpxNjV6Vm9jQ3FOUjBIaElyZEdSWWxycmNZdnJwNnBfdTJDc1FBMWVJZ19vR0s3Y1h2Uml2LThWc2NzQ2sxN3NnVzFEeGhvNnpPSElHSFRIQnJreHpCR2c3dnRQbEVYTDlJVjhzVVk3b1gxaFczMFhkb2NDSw?oc=5",
         "headline": "Nasdaq hits near three-month low as Amazon, Intel deepen AI capex concerns",
         "summary": "",
@@ -1758,6 +1768,16 @@
         "published_ts": 1793364064.0,
         "tag": "Global",
         "first_seen": 1793367036.5489154
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcWZBZWU2a25pTEhsWVFLcmtCWndXS2dSMzJTX0FwZW4wbzktV3RoeUpHNU02YzVqVHpFY0hPdlNaQXJMeWlnWlJ0WjRBcEhuRmZMblVKUzVKYURJbkE2bl80UTNVVy1BbTZia0wtQl9jU0pua1BNZWNrNWI3bVFFck14MHBZLW45MFU1UWtDNGpwNGliSEpRaV9PQUViMGpjNUhxMWlINzVuOFprd2Exd21sVmN4clZUSl9JSGh6MUZ5Tkk?oc=5",
+        "headline": "Dollar softens as tech selloff spurs bond bids; euro and yen steady",
+        "summary": "",
+        "source": "Investing.com India",
+        "published": "10/30 21:17",
+        "published_ts": 1793362630.0,
+        "tag": "Global",
+        "first_seen": 1793385926.6540308
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDFqOUJiSjFONndSbG5xanc4VWlEUjRfN0tQRkVtcUNsaUQ2MUxjTkVuM0FCQVFoWGU1bnd5Qk5qcHpBd2RTVVJZRVljMEdmMU5FRURHNGNpWE12aC0zUVVlT0tkSnMxYV80SVprVnNUYWhEYzNxQmtyT1FTOUdoV21EeURESzFCLVpEWTlScWNnQ3hvY3VxczdacXB5Q0xCRnEwWGwzbGhuSzg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793343540.0,
         "tag": "Global",
         "first_seen": 1793346324.267415
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTUJmdlQtbDAwSUFMVDd0X3EzeDBVUmpGTmRTc00xc0R2aHFBdG9MRm4xM0JRckpwTExRbndRYTBYSWRkaHZ5RExFMFVQLUVwUjdqZzBucnJmVnIwb1V3dFhzNzhiRU1XdGpxRGxoclVRd0t4dFJIUnFpa3JJbmxWWUxvZFdwODdBVzlGNlAzNVpJdTNidEptd0pfTk9kcHVNYWc?oc=5",
-        "headline": "Fidelity's Timmer Warns Rising Rates Can Hurt Stocks Unless Earnings Keep Pace",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/30 15:58",
-        "published_ts": 1793343480.0,
-        "tag": "Global",
-        "first_seen": 1793349033.6091352
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWXRsSS1nRkF5NXNvUXZVWHVyeHQ4SGI1UmFPd0xHNTJoNEM5LUotX1Mwbk5LQXlJWnZFU0x4NmYwYzdZVHR4Rktvd2ZJTDlXMmVGT19FOGVZamlDaGdBblJOUHZpU0dLVG5YZjV6MXo2VldQVkdVb0lwb1dMdzBEd3lWRGNRLW1qenVhZ0tabUNzRWpGWncyWEdKMzVIb2dvUVpfSw?oc=5",
-        "headline": "Alphabet Sell-Off Fails to Derail the Broader Market Rally",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "10/30 15:55",
-        "published_ts": 1793343327.0,
-        "tag": "Global",
-        "first_seen": 1793345432.9460294
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 03:15:54",
+  "updated_at": "2026-10-31 03:45:48",
   "yields": [
     {
       "label": "3년",
