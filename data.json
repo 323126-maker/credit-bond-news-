@@ -32,6 +32,16 @@
         "first_seen": 1793349923.9599342
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rb2ItZTNBdVVzSU9hNXQ1WGFzVnlscVVxSmRNZUJXN0F0QWNhMFJjLUpSd1R3eFJPTWYwM2Mxc2pyT0tubWhSVFVHRHRoQ0FNbm9qVXVNcXkyYUcwdFJNMHhRMFVrTnlfQ1YtMS1B?oc=5",
+        "headline": "MS '250억달러' 회사채 발행조건 확정",
+        "summary": "",
+        "source": "세이프머니",
+        "published": "10/30 16:59",
+        "published_ts": 1793347142.0,
+        "tag": null,
+        "first_seen": 1793354440.501186
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS2tSY3RHR2tldTF0ZmtvNjVndUkyNVc2Slk3dkRxRm14OThzUUpCZzU4enB2cE9VdWV0UWtKaDJ6SlpUamU2ekV1WWEzeVYwVW5IWDRMcmgzT1Y5NDUwRw?oc=5",
         "headline": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793260513.0,
         "tag": null,
         "first_seen": 1793261726.019417
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dXY2U2ljNGN1UGRtMzJRZnNMMkdPYW9DNlJ4YnpKRW4wY0lMZi03YXZQcDJva1hTdWJXTDFMMFNEczEtR3UzeEtkNmYxeV91?oc=5",
-        "headline": "SK하이닉스, '순현금 99조' 바탕 신용등급 AAA 넘본다",
-        "summary": "",
-        "source": "톱데일리",
-        "published": "10/29 15:18",
-        "published_ts": 1793254680.0,
-        "tag": null,
-        "first_seen": 1793268929.0726273
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOZUhRNlU1MnN6ckctcXhCVkRBVmZlY1o5TGM0NkMxNFFja3F5WVQ2ODNiell2MDYzRk9FVWE1VEVneGpGWnAtdEk5S0JSWkdkVXpEQUlCMllKc0pfYlUxTG1kMjcwRWpqeUFNVDZoWGVlc3ZWT2NwUXROZkdqN0c3a2JDY01QNXZrOEtvYjFvOGRCWkVDaGl5LTJ3cEZTVkxydkRtRG5n?oc=5",
+        "headline": "Fed Plans Fewer Rate-Setting Meetings and Less Guidance for Markets",
+        "summary": "",
+        "source": "Globest",
+        "published": "10/30 18:55",
+        "published_ts": 1793354132.0,
+        "tag": "Fed",
+        "first_seen": 1793354440.501186
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS2tSY3RHR2tldTF0ZmtvNjVndUkyNVc2Slk3dkRxRm14OThzUUpCZzU4enB2cE9VdWV0UWtKaDJ6SlpUamU2ekV1WWEzeVYwVW5IWDRMcmgzT1Y5NDUwRw?oc=5",
         "headline": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793322000.0,
         "tag": "JGB",
         "first_seen": 1793330125.311987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON2drNU1iSDJQdlR4VWtnTzlRTmlPbWxKNUNWRU5hZWdCM2xtLTdsVWwxdFlrbHBrOHJGbnRrekI0ZG12S3p3UHZQcS1lU2RKa2xXcnk2MWZwTVR2NkhGVnBWT0lFZG14VlhIaFBQQkZPd2k0cnZXWkFqRWVKVUs0eVhydzVJdy1vd2dpbUJueEZNbk1lQzA0UFFqTXY3aUhWLTV0aE1tMWpNOEVMb3d4MERnZFdia1h3bGp0YkpURlkwZ0ZLZVoyd0g5QzlOM1dVVG8yVHJlQkFSNFByOHlXSXplZjdzX242S193aA?oc=5",
-        "headline": "Warsh shakes up Fed's approach to setting interest rates",
-        "summary": "",
-        "source": "WSTM",
-        "published": "10/30 09:59",
-        "published_ts": 1793321953.0,
-        "tag": "Fed",
-        "first_seen": 1793342725.9113147
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 18:45:49",
+  "updated_at": "2026-10-30 19:01:03",
   "yields": [
     {
       "label": "3년",
