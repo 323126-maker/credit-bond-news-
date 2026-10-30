@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VEgtSldmQXU0TGlOaFdOcTZGNENPSjJ2ZURVLXNLMkNpaEVGb2lIQUZ3aWlVZUVLZFpHTFRTNy1TLXlscWtYdDlMUVNNS3RnSHg3elVlNVpXZ9IBWEFVX3lxTE5Tdk4yNFE1M2x0bUJ3ZjBadFFyZzdTc0c3cVZZQWtqX0RQbUpVVkhoOFNnQTBvbnNSUVpCOHcxa25DYjh0TDB5S0hWWXdHR0tFbnFLZkdnU2E?oc=5",
+        "headline": "日 BOJ, 금리 1.25% 동결…기조물가 2% 목표에 부합 판단",
+        "summary": "",
+        "source": "아주경제",
+        "published": "10/30 12:30",
+        "published_ts": 1793331055.0,
+        "tag": "JGB",
+        "first_seen": 1793331923.3189023
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oTEgwQW1VejU3d01YTUNHRGpqc0hFMDBXYTBxTGlaeU5DWHhFOUxlUVVCOVZGMWYxVk5YZ3pUclBWal9aZW9VTHJ5Y3Q1d3BxemVvb0pBMlM0Vng4N3NiMEV3UW9nNVRl0gFuQVVfeXFMT3JMWDh0SGRBMVlIR0ZwVktiNTdwejNKN0NCeC1aREZSckEyQVRIcUFQQi1aOVJ4R29VMmJqcVRWME16a1hlXzBrZ3JLOUxLaG5wd01rMEpFTzRFZU5qOFVoYTZmZmlhY0cwdUJjN0E?oc=5",
         "headline": "[속보] 일본은행 금리 동결…연 1.25%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793283240.0,
         "tag": "Fed",
         "first_seen": 1793286928.2946155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ19fSnJnTFJob24wbUVjZzlDZFRuUUVVNXVLUkh2MXBEZm5LUjMtY19OMnF6aDB6aDlOWmNaS182OHh1aWVoUUVOakxkbkxfdTVXWndROGF6bTZDMm9NMWpRSjJ0WEo4YTlCck9CdmF2SnQzaU05blY3Y3MxUTQzbXZ4dVJVaFRmYlBVNTdOaC1jSm5RTklqQmhkaU5UYzJta2dUUHg1cWhsZTNCelJLb3AzakJVQQ?oc=5",
-        "headline": "BofA Macro Traders Avoid Big Bets After Volatile Market Shakeout",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/29 23:07",
-        "published_ts": 1793282826.0,
-        "tag": "Global",
-        "first_seen": 1793299526.2795641
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 12:30:58",
+  "updated_at": "2026-10-30 12:45:47",
   "yields": [
     {
       "label": "3년",
