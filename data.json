@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82VE5TakZ4WnFHaktjSmhFUldxTDBuMU1ZTEtGOThrd0hzM1dnMGRfX1BhOVV1QUNTdGpWMnZsRVVJYU83RGFNY3FiXy1SSEpxT0plTF9WbC1VeXU0MjFrZlJPeEJfSjNPVWZDSmJYWlJwdw?oc=5",
+        "headline": "서던 퍼스트 뱅크셰어스, 9월말 주주지분 4억 6205만 달러…연말 대비 25.3% 증가",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/31 00:57",
+        "published_ts": 1793375832.0,
+        "tag": null,
+        "first_seen": 1793376925.0663083
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82TnBvd1lQOE5lX2NPNGNhWDZFUjEtMTg4MTVuNjVZT0lQLWIwRkY1RFAzdENFYmV6RnZ4cWZ1ODVTa1VMQTNkV1lENS0tdnhDekxjdkRFZHNoQQ?oc=5",
         "headline": "비우량 회사채, 8월 이후 발행 '0건'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792996740.0,
         "tag": null,
         "first_seen": 1792997127.8107522
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Qd2hoMG1nbkM5dlFHbDV4RS1CZ2FTUjlCNWFCRV9Gd0pibk01dFNSdGdlNGhZQjdCN1BoNzhjZHdGWm5qOU11YVBzSlNiT3RURHJIZkFn?oc=5",
-        "headline": "증권사 최초 역사 쓴 하나증권…“첫 달러 신종자본…투자 실탄 채우고 성장판 확대”",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "10/26 15:06",
-        "published_ts": 1792994810.0,
-        "tag": null,
-        "first_seen": 1792995328.493436
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 01:01:08",
+  "updated_at": "2026-10-31 01:15:47",
   "yields": [
     {
       "label": "3년",
