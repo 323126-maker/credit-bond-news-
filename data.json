@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBYUGNhRGg3OG9xaE5CLXNMV21LSXQtcHNhNHZzVWxncGg2a1hjUTVHakFfamNRdEF3MlRSZ2VHRTd6eWlsLTlaZE9FNGozZlZjbnc?oc=5",
+        "headline": "프랑스 대란에 AI 신용위험 덮쳐…미국 국채 매력 커지며 뭉칫돈 몰린다 [신환종의 채권&자산배분]",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/30 17:58",
+        "published_ts": 1793350723.0,
+        "tag": null,
+        "first_seen": 1793351729.2398667
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82TnBvd1lQOE5lX2NPNGNhWDZFUjEtMTg4MTVuNjVZT0lQLWIwRkY1RFAzdENFYmV6RnZ4cWZ1ODVTa1VMQTNkV1lENS0tdnhDekxjdkRFZHNoQQ?oc=5",
+        "headline": "비우량 회사채, 8월 이후 발행 '0건'",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/30 17:58",
+        "published_ts": 1793350698.0,
+        "tag": null,
+        "first_seen": 1793351729.2398667
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WbUc2TVdxVHJBLXhydlp6VDRBRWNKdURGdnBMNmpxeGZmTHZiRTZnZVJOdC1YbHloSFJYT0MzRWhVRng0bWhJLWV4RFpZYjlLZEt0ZQ?oc=5",
         "headline": "[채권마감] 10년금리 5개월만 최저, 주가 급락에 안전선호+WGBI 자금유입",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793254680.0,
         "tag": null,
         "first_seen": 1793268929.0726273
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9CaTBBdG5hZUhzV0p1RG1Lb1M4b1ZRV2FTX21fYkFIM2JiMTNsYTZQRHlVZ1liUktheXdxbmpoX1lJN29MSDZrMkw1U2RiNlVBWHo3V05iZTI4bTFkSnA2eVU0cnhlR2RtbmNr?oc=5",
-        "headline": "SK하이닉스, 신용평가 'AA+' 역대 최고…SK스퀘어도 동반 수혜",
-        "summary": "",
-        "source": "뉴스저널리즘",
-        "published": "10/29 14:46",
-        "published_ts": 1793252782.0,
-        "tag": null,
-        "first_seen": 1793254524.9155962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0puSUVKajgzTGU5Ylc5b3dyc0ZkeXZPTmJ4YlFfTVMyc2dJS1NNQ3kyVUh4bG9aMWl1eExid29mOVQ5cnZ6eDNrcHlQcnNjM0hPa3V0dmRaUlJkS0hMR1BHbk91aUtzT1dMc3VCTmFwWThQZTAzcGl0THJIQ1pOYg?oc=5",
-        "headline": "AI 거품 우려에도…글로벌 채권 발행 역대 최대 규모",
-        "summary": "",
-        "source": "이데일리",
-        "published": "10/29 13:49",
-        "published_ts": 1793249385.0,
-        "tag": null,
-        "first_seen": 1793259032.569786
       }
     ],
     "perpetual": [
@@ -432,6 +432,16 @@
         "published_ts": 1793311200.0,
         "tag": null,
         "first_seen": 1793313036.1266713
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5EOVV0SjZ2bkRVRTlFZWt2bkVob2toeG1NV3Z4M1FrTmlqNUF5Z3hMWUZfVXg4N2VRUjByNG1iNHFIbHI2OVFBY0pIaGloRkRlVmY3QlI1ZGhiTDVWZ3NraEFXQWhKTFg4MHA0NTBydS1XZFE?oc=5",
+        "headline": "조지아 뱅킹 컴퍼니, 나스닥 직접 상장…등록 주주 보통주 최대 707만 주 전매 등록",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/29 21:24",
+        "published_ts": 1793276648.0,
+        "tag": null,
+        "first_seen": 1793351729.2398667
       },
       {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ZTThOeWdoZHBmOWhYY21Jd0E5TEpCc3VIRDRYZktySEFpNTZEWndaNmtFcDRkcFRsNDFPYmZuWUptTlVYdjB4aHNSOVpZQWpkd01JVlEwUV94SkEwUkRlT1kyelhYaHM3TXNaaWhKRdIBckFVX3lxTFBMM0lPdG9PVENQVU9jNU9oUkRxLU1oT3NrbldnNlhoSld1NkxvNnlTY1NIbnN1U0R0UlBvaHI0bHZWd0hKdVkzaW1Ha2dvOUZiT3p1REZYNnNhaHFWUDV6S29tMVlaVFkySFd4NHVLSm8zZw?oc=5",
@@ -542,6 +552,16 @@
         "published_ts": 1793139040.0,
         "tag": null,
         "first_seen": 1793139325.40313
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBiYzgwVDBvaGcwQTFEZTRndkZoZVprOTdVR0dLVVpna0dNVFBrM0o3dW5TM3JZVVR5Vm9sZDBqeml4eV84WTZIZVBtdXNZSnNobGNfQUE3SmhZdFJqU1BXMExuaVhfaVJNRG1RTnpwSkhXbTg?oc=5",
+        "headline": "한미파이낸셜, 3분기 순이익 2368만 달러…전년 대비 7.4% 증가",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "10/28 05:26",
+        "published_ts": 1793132766.0,
+        "tag": null,
+        "first_seen": 1793351729.2398667
       },
       {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMllnbmFwZFBGYmtMMTlXdXNLd1o4NzF4TEYxX0M0b1N1aUJwdDNxYllMd3l5NjBaYnNhWXMxcEZvNU4xQTNkeVk5YUwwb1RSWjRDZ21WSXBBZG51WWFWU08tWldvc3ZSSGJvOHAxQjQ5UEZXU1BWVXlnc3MxZ2pmazFnRnZIelpacUJUeUpIeEktd3p3MUFlUE9DSDVRVTd2?oc=5",
@@ -782,26 +802,6 @@
         "published_ts": 1792982643.0,
         "tag": null,
         "first_seen": 1793012208.1126897
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0tcHhndlU4bm43V0ZsTzBmaDF0UDhfWVYtdFNEWFJBUVZoXzhqTElVZFdiVlJVTzk2NWwzNVA2NnFvLXQ0VlBBeWZFV0hEVmktN0tzaW1Rc1BjUnpBaFRsdWJpeVlPRlZJN2hwcmowTQ?oc=5",
-        "headline": "주주환원 10조 시대…4대 금융지주, 은행發 중간배당 릴레이",
-        "summary": "",
-        "source": "뉴스톱",
-        "published": "10/26 10:55",
-        "published_ts": 1792979715.0,
-        "tag": null,
-        "first_seen": 1792980038.8671894
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0wdkF4ZS01TmJ2RExyWnQ4UUpEa3NreTF2cHpiZkZyQVU1bVFXWVhTOEhKTTh3Sjk3Q3daX1Z0azg4MDJmRnBnVE1jbk5zbThzejlYc2tFZ0ZjVW1XanZMTFplRWJjakNBNnZoSlp2ZTLSAXRBVV95cUxOUU90M3gtSXlweDFkMVhWZ055M01lNldzMHB4WWQyQmYzT0xZdWplY2ttenUzemphb0thbFoyMXVzSTdCdzBPZ0sxeW1Yb045NE4tdVVrMWJvUWU0dW9yV0lpUDRjWEtiazR4WlF1SU43RmlJQQ?oc=5",
-        "headline": "내년 보험사 자본성 증권 콜옵션만 5.5조…고금리 압박 이겨낼까",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/26 08:45",
-        "published_ts": 1792971941.0,
-        "tag": null,
-        "first_seen": 1792972840.7840252
       }
     ],
     "policy": [
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMXFmMHRHOHdQMFBLQ2lzWnNjVlFId3VZdVNKc2dZMVIyOThCN1FMMGtISVAycnRMbGQ5Wk9RR0IxVWFBMGp3SWxJdEdra1FsTU1iLTZickZGQkZwRHp0VGR2WHlQRC1YMVNn?oc=5",
+        "headline": "삼성전자, 대만 '전지푸'와 결제 동맹…현지 모바일 지갑 공략",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/30 17:54",
+        "published_ts": 1793350440.0,
+        "tag": "삼성카드",
+        "first_seen": 1793351729.2398667
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE41WDNyX3VUV3J4VUxLbHBkOXhZODRMRWtQZzVOU2w2a25VQTh4djkyV0R0bHYyS3oyRVVLN2NZeHQ2dE9mcWpsR2NQRWZkNzdiWHJiMTZpYWRTMnlnVUZsSTdFcXU?oc=5",
         "headline": "라인저축은행 '금리인하요구권 심사 부실'..개선사항 조치",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793087624.0,
         "tag": "신한지주",
         "first_seen": 1793282442.5101125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE02QUtGWTJobVdUX3llU2dLQVlrdk5sNUt2VG9RVldXUFhkaWZvbFhZOW9xbXNGYTZxR054YjEwV05GWkduVjR6ODVMb1hNbFNMVFVCZHQ2cTB4NlRSdXFIVEhiWU92MXZ0SXJ5R1kzTDJFajd4UlJJZ051NA?oc=5",
-        "headline": "박창훈 신한카드 대표, 신용판매 확대·사업구조 재편에 삼성카드 제치고 순익 1위 탈환 [금융사 2026 3분기 실적]",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "10/27 16:49",
-        "published_ts": 1793087348.0,
-        "tag": "삼성카드",
-        "first_seen": 1793088038.9995234
       }
     ]
   },
-  "updated_at": "2026-10-30 18:01:06",
+  "updated_at": "2026-10-30 18:15:53",
   "yields": [
     {
       "label": "3년",
