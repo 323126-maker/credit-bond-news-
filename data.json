@@ -1620,6 +1620,16 @@
         "first_seen": 1793396725.3155236
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNkkzRWxlODVXM2hYZUNtZkpCWTdtRk5UWVEwR3pjR3o5VmVIa1RCV21hOUY3OW1TcXU4cFNaTmd2aGVCVmlIZE5yOEdURnVUbWJGa0wxek4yZjZGUUJzcmpLd3VfeFkyMmFudmFzbXUxMzRfZ0ZJWldBMVNfS2padDFhYzNmWjhPUXFoLUltZjhPb010cUdWQUZNWXBoLTFuM0ltT0x5VkNWRk0?oc=5",
+        "headline": "Wall Street drops to its worst day since June after the sell-off for tech stocks deepens",
+        "summary": "",
+        "source": "Barchart.com",
+        "published": "10/31 05:50",
+        "published_ts": 1793393410.0,
+        "tag": "Global",
+        "first_seen": 1793398524.319184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
         "headline": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793347173.0,
         "tag": "Global",
         "first_seen": 1793372443.1061049
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS2tSY3RHR2tldTF0ZmtvNjVndUkyNVc2Slk3dkRxRm14OThzUUpCZzU4enB2cE9VdWV0UWtKaDJ6SlpUamU2ekV1WWEzeVYwVW5IWDRMcmgzT1Y5NDUwRw?oc=5",
-        "headline": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/30 16:56",
-        "published_ts": 1793346994.0,
-        "tag": "JGB",
-        "first_seen": 1793350841.5867825
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 07:01:03",
+  "updated_at": "2026-10-31 07:15:49",
   "yields": [
     {
       "label": "3년",
