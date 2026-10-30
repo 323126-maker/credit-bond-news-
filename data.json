@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82TnBvd1lQOE5lX2NPNGNhWDZFUjEtMTg4MTVuNjVZT0lQLWIwRkY1RFAzdENFYmV6RnZ4cWZ1ODVTa1VMQTNkV1lENS0tdnhDekxjdkRFZHNoQQ?oc=5",
+        "headline": "비우량 회사채, 8월 이후 발행 '0건'",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/30 17:58",
+        "published_ts": 1793350698.0,
+        "tag": null,
+        "first_seen": 1793352633.838809
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hcGtqVmszQ3F4cjZFZVB4NXA1U0o5Rzk1ejVTOGZXelBySS1NaC1IcjNELXhwbG92VElwRmlmQUR4TGppeGl4cVRDVGFlVms3QVowOWRKNEs4WklGV3NXX09sUHU?oc=5",
         "headline": "KB금융, 신종자본증권 4000억원 발행 추진…올해 세 번째",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792994810.0,
         "tag": null,
         "first_seen": 1792995328.493436
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BcVlrcXhTbTJ3SGtxdTZYcG5lWGNGYXhFS0lMTXRsU3E5T3hrVWlyZnFjbXlFTzJoOVRDOHc1R21ZLXpST2poMmkxcU55em9zQVB1V3hlQzEySUpkbE9NaENiZUF6Zw?oc=5",
-        "headline": "iM증권, 2026년 신입사원 공채 시작…내달 8일까지 접수 가능",
-        "summary": "",
-        "source": "이슈에디코",
-        "published": "10/26 11:44",
-        "published_ts": 1792982643.0,
-        "tag": null,
-        "first_seen": 1793012208.1126897
       }
     ],
     "policy": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1793350841.5867825
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCMWJFZ2NPX19nYWpldFAwMVA5dmpWa2w0VXRtX29ZZzJ1Q1JJMmYwYlZkVDNmYVpXb0ZiaE1paS1CbTRCd2xVX3NZTVZ3M2tET0haXzVEYWl5VFhGWVRPazVvQQ?oc=5",
+        "headline": "Bond funds in Singapore: How to choose for income, not just yield",
+        "summary": "",
+        "source": "Beansprout",
+        "published": "10/30 16:14",
+        "published_ts": 1793344453.0,
+        "tag": "Global",
+        "first_seen": 1793352633.838809
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sa3BoZFJhbkt0T29IZFBDZEhqWjNQVzY5dEphQWdXU1djMDhiOWtmT2FpRkVfSGRiYnFPX1RmWDJnYmJBZjk4WFRJMFJSbjRsa3I5Q3ZIemFFUUxOMDZiZEsxZmxFaWw1?oc=5",
         "headline": "일본은행, 금리 1.25% 동결…추가 인상 예고",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793321953.0,
         "tag": "Fed",
         "first_seen": 1793342725.9113147
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DYUdvclRMNGdFeWFNRlpCTFN0bGhVSFM0MEc5WFNCYlFhWERucDVVbG94aG5IdVE2Q2FoUVNoc0NOSElXeDE2RUVVUldVRlNZNW9QNFpnejRYc3lyN19BeNIBeEFVX3lxTE1PSnA0c3pGdEdJRUVpbGZ0bWxLLVFHbUhIeFl0OVZwcGhwM0l2bndOX2Y2a3J2UFRPRzNFVUhET0dpdVI5aUdKREk1Zi1Ya1p3dzRqaHh0Z2gzRUhxSFZuendpdC1kNkVjSFZmclJXYXFkVkxnYzZVNw?oc=5",
-        "headline": "日증시, 美기술주 약세에 하락 출발…닛케이 0.49%↓",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/30 09:29",
-        "published_ts": 1793320189.0,
-        "tag": "JGB",
-        "first_seen": 1793321126.6191955
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 18:15:53",
+  "updated_at": "2026-10-30 18:30:57",
   "yields": [
     {
       "label": "3년",
