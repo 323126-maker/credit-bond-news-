@@ -1208,6 +1208,26 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mSWlBc0RvaEd6QTFVcHVWZUEwdlIzbkJKZE1DbHZ1NmVNVzVfVHNwVWNTSEJ3Yk4wN1dhTVVab1F5U0wxTGNSZm93eGhLc0dudm9hQlZ2dmZvUTBKUE16StIBYEFVX3lxTE9mSWlBc0RvaEd6QTFVcHVWZUEwdlIzbkJKZE1DbHZ1NmVNVzVfVHNwVWNTSEJ3Yk4wN1dhTVVab1F5U0wxTGNSZm93eGhLc0dudm9hQlZ2dmZvUTBKUE16Sg?oc=5",
+        "headline": "국힘 \"빚잔치\"·與 \"성장동력 확보\"…'내년도 정부 예산안' 공방",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/30 17:43",
+        "published_ts": 1793349781.0,
+        "tag": null,
+        "first_seen": 1793360726.3589447
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBVZ2d5MkN2MlRYaTJVemV4dGNjU0p2ZzA4bVVvUUZyZ0FPMFZldmxzQnRlYUhhVndoZGd3eHpjZnlSYURfNU9YZDBvQU5jZHNnMVI2NERMVmlmLVlzTy13QlBPVXNuVmQ4T21xRmhleVpTVUEtd2JBdtIBeEFVX3lxTFBVZ2d5MkN2MlRYaTJVemV4dGNjU0p2ZzA4bVVvUUZyZ0FPMFZldmxzQnRlYUhhVndoZGd3eHpjZnlSYURfNU9YZDBvQU5jZHNnMVI2NERMVmlmLVlzTy13QlBPVXNuVmQ4T21xRmhleVpTVUEtd2JBdg?oc=5",
+        "headline": "여야, 예결위서 미래대응기금 공방…\"청년 보호\" \"총선용 쌈짓돈\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "10/30 17:12",
+        "published_ts": 1793347939.0,
+        "tag": null,
+        "first_seen": 1793360726.3589447
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1KM3JheW1WZVlnUjg4d3hsei1uQmtvQXZMLXpvandXVDdnWllPR2Q4SGhoZ1pLd1kyNjRpSGdzc3lBbENmN0hiNmlsR2s2N21uUWY3REVSUTBkNi1VSk43LUdrWE4?oc=5",
         "headline": "'820조원' 예산 정국 돌입... 미래대응기금 등 쟁점",
         "summary": "",
@@ -1586,26 +1606,6 @@
         "published_ts": 1793078760.0,
         "tag": null,
         "first_seen": 1793079926.2811787
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0zeTRNMFFLc1hITkJZMi02UlJLUlk1OHZXMk1IRi1mQzdCWGxWbks4XzJHckdQdkttcUNIN0xzNEEwNDhHNXFRZjBROHpiOUd3cjU4?oc=5",
-        "headline": "이재명 대통령 \"주택 착공 늘리고 재정 지원도 고려\"… 집값·건설 경기에 어떤 영향 미칠까? 🏗️",
-        "summary": "",
-        "source": "뉴닉",
-        "published": "10/27 13:00",
-        "published_ts": 1793073627.0,
-        "tag": null,
-        "first_seen": 1793330125.311987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzcDRtU3BsWi1aQUI4MDVabGlDNlRMMmF4U25GVzBQQlU2X2RxOFU2a0tTek5RNE42TDFjU0lINHRUaUxtNy1LQkd3SlJTRUk3eVlLRjdnYWI4a2tQLVFOMTV6eFlZSDdFMVhN?oc=5",
-        "headline": "이 대통령 “주택 착공 실적 최대한 높여야…재정 지원도 고려”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "10/27 12:36",
-        "published_ts": 1793072160.0,
-        "tag": null,
-        "first_seen": 1793326525.8615606
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 20:31:10",
+  "updated_at": "2026-10-30 20:45:51",
   "yields": [
     {
       "label": "3년",
