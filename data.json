@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBCQk12VnVfV0JTMlVTUHZmNnBRd3V4dEVtX0NXNWZvaExZS1c1U3JPaE1XWDU3LWpSRlhaMVRrb1RHT2dMeF9Wc2lpVWZ0NzRsOHVlTnN0eUlwZkhhRzFTS19HNXlCSGRpSUpHd3pyakVWUUU?oc=5",
+        "headline": "AI 불안, 주식 넘어 회사채로…인텔·아마존 부도 대비 비용 최고",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/31 04:30",
+        "published_ts": 1793388623.0,
+        "tag": null,
+        "first_seen": 1793391325.9392433
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1BUDBHMjYxdzhhYXBkcHNxLUkxQlRDSWdvNHJlMVVUMUQ4N1VtMU5vVS1TNEFSSzFjSU9UTTNsWGpaTnlFSnE1a1dTSUZ6d1hLa3JWRW5qbUVTWUItQXQ5M1dONk5rOFQ2?oc=5",
         "headline": "[채권시장 동향] 미 빅테크 실적 부진 여파…국고채 10년물 금리 7bp 이상 급락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793266691.0,
         "tag": null,
         "first_seen": 1793275241.7088244
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4yaXFHX3hUZ21jd092MDUxR3dJbUU4TzFVUWFUQU9WV3pKOVI5R0ZkUGNJcGszWUQzQmo5MU1yQ0ViV1h4T3VGdkFZdEdyWmFwckw5S1VibEFld1pBLUVhU244QQ?oc=5",
-        "headline": "저금리 시대 종말…‘고금리 뉴노멀’ 굳어지는 이유 [알경]",
-        "summary": "",
-        "source": "쿠키뉴스",
-        "published": "10/29 18:37",
-        "published_ts": 1793266626.0,
-        "tag": null,
-        "first_seen": 1793306723.7252553
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 05:01:07",
+  "updated_at": "2026-10-31 05:15:50",
   "yields": [
     {
       "label": "3년",
