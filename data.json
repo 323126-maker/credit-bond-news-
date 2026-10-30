@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9MS2tSY3RHR2tldTF0ZmtvNjVndUkyNVc2Slk3dkRxRm14OThzUUpCZzU4enB2cE9VdWV0UWtKaDJ6SlpUamU2ekV1WWEzeVYwVW5IWDRMcmgzT1Y5NDUwRw?oc=5",
+        "headline": "국고채 금리 일제히 하락…위험회피 속 주요국 채권 강세(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "10/30 16:56",
+        "published_ts": 1793346994.0,
+        "tag": "JGB",
+        "first_seen": 1793350841.5867825
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaG1kb1dxekJabUk3czhacmlCWC1GV1N5WlkyaFZVekxHaUhsbUVIU0lLMXFHRk91ZnVBRUZCMkNWWmVMZGppbDJ1QXZTX05OdkJpNy1nVlQ0MzVyb3dONjNQcjVoU1ZsdDVwc1BuVnpUTk9TX1dMNnBJdVNtVHpkbjZCSDBrZTZlOEo5MFo5QV9WTnAxV2JySkVpWGh5alBYVTNBRlBJTUVYVjJ1Q2hwdDlyY2tJUmFJYjg4?oc=5",
+        "headline": "U.S. 10-Year Treasury Yield Falls Under 5% as French Turmoil Fuels Flight for Safety",
+        "summary": "",
+        "source": "WSJ",
+        "published": "10/30 16:42",
+        "published_ts": 1793346156.0,
+        "tag": "Global",
+        "first_seen": 1793350841.5867825
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sa3BoZFJhbkt0T29IZFBDZEhqWjNQVzY5dEphQWdXU1djMDhiOWtmT2FpRkVfSGRiYnFPX1RmWDJnYmJBZjk4WFRJMFJSbjRsa3I5Q3ZIemFFUUxOMDZiZEsxZmxFaWw1?oc=5",
         "headline": "일본은행, 금리 1.25% 동결…추가 인상 예고",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793320189.0,
         "tag": "JGB",
         "first_seen": 1793321126.6191955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQZDk3YVNuOXkySzdWcWtzS01kRnozbmRYRmttRUtxUkV6dXVXSnB3Z29RNlRMdjROQ2U1X0dSWEZ5WllTNGEwWjBuTHpLRlR3YkpmeFBRd044UU4ydDZ3eUhJak5TellKdDBPeGNpaEpwX2NJczN6ejhIcFd0RG9zZWR0ZmNyU1ZNYThQMUVCdHJmUjFEdlI0RGRMcm81Vk1yd2NrZVFvNVg1S2NmTk1MMVMzU1BNa18wOGdZaGhRSXpRMDFwX25YYjFBcWVuanYxYmZlMlYyVVhKZmkzTFE?oc=5",
-        "headline": "UBS Sees 40% Upside For AMZN Stock — AWS Margins Take Center Stage Ahead Of Earnings",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "10/30 09:19",
-        "published_ts": 1793319594.0,
-        "tag": "Strategist",
-        "first_seen": 1793320236.1493735
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQU9EQUtMX202OWM3TzVZY0lSOEVaSHBMemM2RFZ3TVlkM1BOeHlHbVAybmRWMEtQMHZ6T1lHQ0N2X0Q0MTNOYmNPamhXSFFPTERlcjUyeG9kMHMzb1FwbzlMUHhGX3dlTjc0dk92dHVNNkhKLTU4THNRbFgwM09GVklB?oc=5",
-        "headline": "CICC: The Financial裂缝 of AI \"Subprime\"",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "10/30 09:12",
-        "published_ts": 1793319120.0,
-        "tag": "Global",
-        "first_seen": 1793323834.839847
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 17:45:48",
+  "updated_at": "2026-10-30 18:01:06",
   "yields": [
     {
       "label": "3년",
