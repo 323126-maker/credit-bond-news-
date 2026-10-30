@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9JVGRac0FOQU9MbVJBLTNWTmQwaUJqd2ZVU2NDUVJkV3V3VXNxaF9XOGdYenBFZ1R2X0ZkMTA2RGthMmtUSWJZTUFucTNoZw?oc=5",
+        "headline": "정점식, 820조 예산안 정조준…“李대통령, 시정연설서 포퓰리즘 결별 선언해야”",
+        "summary": "",
+        "source": "전자신문",
+        "published": "10/30 09:51",
+        "published_ts": 1793321481.0,
+        "tag": null,
+        "first_seen": 1793322925.2211215
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9JUWdyY2RBcV82eUZVMkpEVVBrYnI1bEdzRGdGYzdWQUdUNkN0YjA2MDJ3RzhfaC04NW5EWl80SlQwQmZvR2hMQW5fSmVPMDNYVzFpY05hTEtWQnpLSTV3azhrdGpoVGpyeFdIalVOVWZSWGlI?oc=5",
         "headline": "[채권마감] 불스팁, 비둘기 연준+이형일 국발계 발언+외인 선물 매수",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793064550.0,
         "tag": null,
         "first_seen": 1793065524.3069959
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92N0tYQmdWUUtOcm1VdmxQVTdXN3k1Z1dpRm9SX3laaExvWkNINjQ0Y3FRQTNfM29LUWRMbVVQY2tQN2J0NGN3ZHFHNkNaUWd3SEc3Y3RWdndKSFlRVnRCVk5DaDgyUWRKeHJZTkdwUDRSNVot?oc=5",
-        "headline": "李대통령 \"주택 착공 최대한 높여야…필요시 국가적 신용·재정지원\"(종합) |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/27 10:28",
-        "published_ts": 1793064484.0,
-        "tag": null,
-        "first_seen": 1793069125.750566
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 10:01:09",
+  "updated_at": "2026-10-30 10:15:50",
   "yields": [
     {
       "label": "3년",
