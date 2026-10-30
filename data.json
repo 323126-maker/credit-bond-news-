@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBPNGtaMUpLVnNTc3JYYlZIN1k1THpkZV9mZEhFdGg1Y2NmMDUxQzVQVjNqNVVjbXltZjVvUnBObTNkckNLZzd1M0dYOG5nTm5pTVNiNk5QYmVXQQ?oc=5",
+        "headline": "MS, 9년 만에 회사채 시장 복귀…약 250억달러 발행 추진",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/30 09:53",
+        "published_ts": 1793321594.0,
+        "tag": null,
+        "first_seen": 1793322042.896581
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYmw5bGExV25USkx4VURnUjJRdUd2NTNVSXU5M2M5MEd0THhHSWcyN1B4UWhtMGlzdkZka1hjNFB3UjgtMjhCXzFFVDNCUWdZOXJjYmdIRzI3QQ?oc=5",
         "headline": "알파벳 13% 추락, 아마존·인텔 '어닝 쇼크'…채권 수요에 금리 급락 [김현석의 월스트리트나우]",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "브런치",
         "published": "10/29 09:43",
         "published_ts": 1793234600.0,
-        "tag": null,
-        "first_seen": 1793234725.706351
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5BdFBCcTNWN20xTlZnem9Zc3lCQkRzY09hMGRYUnhzajhYeG5QY0VQQ2VhN3lHNldrdkNveXpNempIYlhGZzRnaEduNElxMHdlSlc4MkMwRzlnd2Uxc3l6YUFaazVoSmZzV0dlSnBaSjc1Z002?oc=5",
-        "headline": "[분석] SK하이닉스·SK스퀘어 신용도 '긍정적' 동반상향…재무 건전성 입증",
-        "summary": "",
-        "source": "파이낸셜포스트",
-        "published": "10/29 09:38",
-        "published_ts": 1793234314.0,
         "tag": null,
         "first_seen": 1793234725.706351
       }
@@ -1640,6 +1640,16 @@
         "first_seen": 1793319328.510539
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9nU21nQWROSjhYN1ZuVU5qQURocVBvLUxCUVBCU0FOY1F2bkRiSEtGdmVTNTNLU00tMEFlSkdVeUJqa2NKVG03Y0hUa1hlZHJNaTRFZ0FZMi1YeF9nUXNGa0d1c1d2Y3pKWDVSY3R0eTktUQ?oc=5",
+        "headline": "[노현우의 채권분석] 3.90% 봤는데 3.70%가 보인다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/30 07:58",
+        "published_ts": 1793314717.0,
+        "tag": "JGB",
+        "first_seen": 1793322042.896581
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeXVGQ0JpWXI0Wm9HcVBmaFQ3Uy1jbkVQUmxjMXdUeWlFWVYwOGtDM281NHg1UHkxQVh6M1VtM09FMWVrUHFZZWhTR01QYWdBMC04SnpQSk9Ra2IzejBPcklIdi1TNlJFM3RMdFg3bnNNX184c3lrX1RpRE5IWndwT0VIWktuNzhxUmlxdFJGQnNwWVgteHM2REFybUlPUTE0OC1jVng4ZTRBQ20tbDlUa0VmRkhPVF96aDZvSWtzdGd6VWFOQTl5ekZKNkhKRVVQNUlFR3Zva19sQjdDeHNhVGFnZHcweVU?oc=5",
         "headline": "Federal Reserve keeps rates unchanged despite elevated inflation",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793273940.0,
         "tag": "Fed",
         "first_seen": 1793277033.5948226
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUozWWlwWnlpUFZjdWQ5MjRBWlVjZ2xQdFNpZzF1aGFySGlJaks3QWhiVlMwMGU5MnBrbTQ2M3dZcVRUbE1rOGxKU3MxLWNLaUJEaWdkQ1lWa1NBVHZ5ZGU0bjg5SV9ORThaeEFlbURmbXhkV2tjeHFFZkRma3ZDMG92UEJlWnFId0dRbi1VblZ6dDRuWE9BbmJtbGxXY1k?oc=5",
-        "headline": "Euro stable ahead of ECB decision; investors adjust Fed view",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "10/29 20:20",
-        "published_ts": 1793272817.0,
-        "tag": "Fed",
-        "first_seen": 1793285127.7908475
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 09:45:51",
+  "updated_at": "2026-10-30 10:01:09",
   "yields": [
     {
       "label": "3년",
