@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52aEpQNi1XUXFhU1l4RGJmSDlrbndIdUdjbE9haHgwdzlHM0pWYTBENVJIbGgtNnVZUl9nS0lFN3VhY3BTc1IzeHViV1ZXZXNsbzc2c3JjaC1EZw?oc=5",
+        "headline": "日銀 \"물가 목표 2% 도달\"...기준금리 1.25%로 유지",
+        "summary": "",
+        "source": "한국경제",
+        "published": "10/30 15:13",
+        "published_ts": 1793340785.0,
+        "tag": "JGB",
+        "first_seen": 1793341831.9767845
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9wSnVlV2hheWM5UEJiWHVTODBZdHJaU1lQRnpJRG5xREctZlZKdl9RQllVT291S0NYQUp3alBENmNKb253MTZwYmZzbHM2dUdjMlo3NHNJZ2VZRFVpSmlmXw?oc=5",
         "headline": "일본은행, 금리 동결…14년만에 '완화→인플레 억제' 전환(종합)",
         "summary": "",
@@ -1750,6 +1760,16 @@
         "first_seen": 1793332838.4184773
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5QZkN1eWVMZDliWkVIMWViM01QTnlDYWxLTjY2SXE2UElnV3MxcGlscDRCQU1GT0U5cUgzVlBVUmdXZ1RTYmF1ZjcyQlVEZUNOOXJiQ2c3T0U4YUM1QmFXcTZEa3BLaVJTUTdxb1FSYmo5NkxnT1E?oc=5",
+        "headline": "Yen Holds Near 157.8 as BOJ Stands Pat; AI Selloff Pushes Treasury Yields Down and Weighs on Dollar",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/30 12:35",
+        "published_ts": 1793331300.0,
+        "tag": "Global",
+        "first_seen": 1793341831.9767845
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VEgtSldmQXU0TGlOaFdOcTZGNENPSjJ2ZURVLXNLMkNpaEVGb2lIQUZ3aWlVZUVLZFpHTFRTNy1TLXlscWtYdDlMUVNNS3RnSHg3elVlNVpXZ9IBWEFVX3lxTE5Tdk4yNFE1M2x0bUJ3ZjBadFFyZzdTc0c3cVZZQWtqX0RQbUpVVkhoOFNnQTBvbnNSUVpCOHcxa25DYjh0TDB5S0hWWXdHR0tFbnFLZkdnU2E?oc=5",
         "headline": "日 BOJ, 금리 1.25% 동결…기조물가 2% 목표에 부합 판단",
         "summary": "",
@@ -1808,6 +1828,16 @@
         "published_ts": 1793329003.0,
         "tag": "Fed",
         "first_seen": 1793336440.6776497
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzlaR1RSYmUtR3o5RWZkTFlsVUNxYVgtYzQ5aFB2bjYzVGNoV1NkanY3X0d2Vm1YWkxpQWUycks2ekdmUkw1eV9lN1QwTjB1QXIxN2xtMHlETUcwd0pTR3ZQNkt3Z1BqV0pNd3J1S3c4bHBGQ2RJVFRFb0F3SmZNaGFNcEJqRU1wNGEzc2xCU1FRQjh4WjlrelFUamhmdnE3dGUyS2VNYUJOVTdnSGc1a1JfUDhTWUdIZFYxTkZxUWxEblYteWllRzBCSURMdFgteXJwcm9VUkFwTlNyd3FJMWYwczI?oc=5",
+        "headline": "유로화, 엔화 대비 완만한 하락…ECB·일본은행 통화정책 발표 앞두고 박스권 유지",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "10/30 11:09",
+        "published_ts": 1793326171.0,
+        "tag": "JGB",
+        "first_seen": 1793341831.9767845
       },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBlXzlhTkVrdXNHMGhjdm1LcjJLUzZNamhXMGxKZjdlTm5PUTJVZVJDQmQ0M3FrOFU2b2l0Vl91czNmNmpCQ0FkZ3V2MVpOS1ZTNmtUbUpnRENiVWE3MklPUC0tSTlGNGxCQ0xEMHc4QXc?oc=5",
@@ -1978,39 +2008,19 @@
         "published_ts": 1793308303.0,
         "tag": "Global",
         "first_seen": 1793331033.699855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEhZQVhpSzVydVJlanJEZTA4X0RIWXl6OHNCQ09mOUUtbUtsZEZPdzhOWU5hWTJKbHR0WW9RbkNVM2JHVmN0SW4xcnROZFlZSWRBSE05VElyd2pMS3lnTlc2Q3RuYlJqNUNnU2hBeXljb0p0R284NmZPeTV4NHJ5S1VEdGNBYzFCd0I5V0ljSFNTRjhvWk1WM0N1WUJPNWpTeGdJYWpUNA?oc=5",
-        "headline": "Historic drop for Alphabet's stock drags the US market lower",
-        "summary": "",
-        "source": "Barchart.com",
-        "published": "10/30 05:06",
-        "published_ts": 1793304390.0,
-        "tag": "Global",
-        "first_seen": 1793306723.7252553
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPRl9CSVlDbFJwR1ZPUlhVM1hfSzZfMHh3Qkx3UTlVaHRNYUFESWI2cGNaazJyMkVpUHVOZDRhdmhDZXRFLWsySnpnMnJTdFpXeWMyb3kwNGRWbzJaWnFyUUF0clJOejdUaDNZa2hYeFRTOEgtYXlJZHY0RWhUODF1Z0YzeGdEM3FkMThkWnVCd2tVTEw0UkViYWtSVWlKcXpOMjdkUWtkczJ0TXhhV3lLMmo5UmZtRW5nRDU5dVlGaW4wbmdvSEZjdjQzRXdRUGdmdXBxYUthRkVIYmg0cWlwa3hYV2s?oc=5",
-        "headline": "Warsh shakes up Fed's approach to setting interest rates",
-        "summary": "",
-        "source": "KATU",
-        "published": "10/30 05:02",
-        "published_ts": 1793304134.0,
-        "tag": "Fed",
-        "first_seen": 1793304924.7423775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZzdFbTR0Tm11V3ZMZkxaYTU0d2NuRW5SYmhHOWFqWjdTOVU2cUhoa3kyLUlTT2tvVXRKaHYwbnVLMkNqa2RUdF9QOEVFeHFEUnJwLXVubUh0VzBIWmZfSnZGbkVaOERxYmRfUzgwT2F6VWFMYk80Rlc4eTF4VEZnMVFuM2ktdm5EQldmVG5Sc3I2WWpaQUpjRnlESUFBdDhlM1F6MU5SU3k3TTVYMWZv?oc=5",
-        "headline": "Warsh’s ‘Forward Silence’ Risks Bigger Treasury Market Swings",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "10/30 04:23",
-        "published_ts": 1793301814.0,
-        "tag": "Fed",
-        "first_seen": 1793307638.9045167
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1sSTNETTVNUDU3RmNEcEk1R1FQVHhQaWNOSVl4b1VvQkMxX293VG5GdHVtSGZ6S2JidmNpQzhVY253aDQ2SjBHUHhYSFBtRHMxRWMwZGpGSGFvWm5NcFVtNnZhQWpVMzh2RlJfaHZ0RTfSAXRBVV95cUxOVUpyMHpQUFc1WUdBTGRlUzZRVmlfTjV1MEJ6VkR0d1h0MHAtZFcycm9MZ1NKdmJqOGVkZE1wa25RaFNmMnpxMVg2MGpDRDA1M25LR0tEb0hvY3NXSk5DMllLazBna0JMQTBNYS1uY1pCNWtQRQ?oc=5",
+        "headline": "[신한투자증권 인사 전망] 이선훈 첫 연임 심사…파생 승인 위반 3만6190건·현직 임원 5명 제재",
+        "summary": "",
+        "source": "뉴스클레임",
+        "published": "10/30 14:24",
+        "published_ts": 1793337887.0,
+        "tag": "신한지주",
+        "first_seen": 1793341831.9767845
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5CV19KRGpsbmd4bDhBeW9WNHI2TXc2ZWpqUWVmNzJFeFJPNEhZaXh0NlpkdmhYLTJraThWdkZsaFZvMWgzTWVPaFEwWkxxWWtsdnRPWVBZV0lCbzdTWHlyOHhWOExnWGxtMFoyU1JUZXRJSlE3VUlORXNFTC0?oc=5",
         "headline": "현대카드, 9월 신용카드업계 소비자 관심도 1위 우뚝…신한·삼성카드 순",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793075940.0,
         "tag": "우리지주",
         "first_seen": 1793077238.1746683
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Z3B6b3QxOE94WEtPWG9WaG9UN0xSQmhmTWkwYjBOUWdLUVh3d2otQ19aQzEzSDV5Ukx0SndtdEtOZlc0YWFLVUtrcmkzYmNkaHJiSUh5akJ2UWN6S1V3aUZSQTZTdy1hR3p3U0N6WQ?oc=5",
-        "headline": "삼성생명, 첫 ‘해외 신종자본증권’ 발행 완료…2조 규모",
-        "summary": "",
-        "source": "뉴스톱",
-        "published": "10/27 13:21",
-        "published_ts": 1793074915.0,
-        "tag": "삼성카드",
-        "first_seen": 1793097032.9364746
       }
     ]
   },
-  "updated_at": "2026-10-30 15:15:51",
+  "updated_at": "2026-10-30 15:30:56",
   "yields": [
     {
       "label": "3년",
@@ -2521,33 +2521,6 @@
         4.145,
         4.193,
         4.171
-      ]
-    },
-    {
-      "label": "30년",
-      "value": 4.212,
-      "chg_bp": -0.9,
-      "series": [
-        4.526,
-        4.538,
-        4.497,
-        4.51,
-        4.491,
-        4.448,
-        4.388,
-        4.323,
-        4.338,
-        4.289,
-        4.267,
-        4.276,
-        4.264,
-        4.251,
-        4.239,
-        4.189,
-        4.171,
-        4.151,
-        4.221,
-        4.212
       ]
     }
   ]
