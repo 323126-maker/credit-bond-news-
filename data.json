@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
+        "headline": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장",
+        "summary": "",
+        "source": "지이코노미",
+        "published": "10/31 05:33",
+        "published_ts": 1793392382.0,
+        "tag": null,
+        "first_seen": 1793394929.2208083
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WbUc2TVdxVHJBLXhydlp6VDRBRWNKdURGdnBMNmpxeGZmTHZiRTZnZVJOdC1YbHloSFJYT0MzRWhVRng0bWhJLWV4RFpZYjlLZEt0ZQ?oc=5",
         "headline": "[채권마감] 10년금리 5개월만 최저, 주가 급락에 안전선호+WGBI 자금유입",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793063729.0,
         "tag": null,
         "first_seen": 1793066438.0226138
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1KMzRRNVRwd2tzWWZQLTd6X2NVbTFLLXlYX2FrNHVEU2FyUUpsUjJrNktLS2VqOXczRXF2MmZraTYyUVp0TzdlQzFDOGxaY2hJUm5mNjFYOE14X29lNXY4TDFrYmNzRHRNa09UYjhkMGtoUQ?oc=5",
-        "headline": "外人 국채선물 왜 사나…\"AI 트레이드 피로에 성장 둔화 헤지\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/27 08:43",
-        "published_ts": 1793058215.0,
-        "tag": null,
-        "first_seen": 1793082633.3862426
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 06:01:03",
+  "updated_at": "2026-10-31 06:15:57",
   "yields": [
     {
       "label": "3년",
