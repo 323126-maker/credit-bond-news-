@@ -1650,6 +1650,16 @@
         "first_seen": 1793354440.501186
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDUFRITnhKMDBnaUpOdEIyTmwxZFQyeTVfYTY5VDhSa3RxbkNTT2pTdEJLOC1CbHJJRS1sVTNhNV9XdENsdkM1MHNGWTlvekZ2WlFMMFFCLTg2QWNFVU1DRUxFOTM4R1RiRW1FZThIVjhvcXZ5WUE?oc=5",
+        "headline": "Long-Dated Bond Yields Climb to Multi-Decade Highs, Wall Street Institutions Add Back Duration Assets",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "10/30 18:55",
+        "published_ts": 1793354100.0,
+        "tag": "JGB",
+        "first_seen": 1793358043.3941033
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNGtFaFdtNlpVTmEzS3hLWk1hNExBZXAyUE1ZdUkzcy1NTWZrSHFxV0V6SUdVSzJmREFqR0FSeTQxRF9rYTBRanRLa0JJTXRTMUI2WTVEOURsckZ0Y05WdTlJdjRiT1FyZDhKRmswNmphZmRBNDJaWllOREdKekd6SVYxWFBPMTEzSVp0UEMtQW5TQQ?oc=5",
         "headline": "Nouriel Roubini: Can bond vigilantes prevent the next debt crisis?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793326586.0,
         "tag": "Global",
         "first_seen": 1793347240.384187
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMzlaR1RSYmUtR3o5RWZkTFlsVUNxYVgtYzQ5aFB2bjYzVGNoV1NkanY3X0d2Vm1YWkxpQWUycks2ekdmUkw1eV9lN1QwTjB1QXIxN2xtMHlETUcwd0pTR3ZQNkt3Z1BqV0pNd3J1S3c4bHBGQ2RJVFRFb0F3SmZNaGFNcEJqRU1wNGEzc2xCU1FRQjh4WjlrelFUamhmdnE3dGUyS2VNYUJOVTdnSGc1a1JfUDhTWUdIZFYxTkZxUWxEblYteWllRzBCSURMdFgteXJwcm9VUkFwTlNyd3FJMWYwczI?oc=5",
-        "headline": "유로화, 엔화 대비 완만한 하락…ECB·일본은행 통화정책 발표 앞두고 박스권 유지",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "10/30 11:09",
-        "published_ts": 1793326171.0,
-        "tag": "JGB",
-        "first_seen": 1793341831.9767845
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 19:45:48",
+  "updated_at": "2026-10-30 20:01:09",
   "yields": [
     {
       "label": "3년",
