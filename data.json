@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAyblBUaTJNYllsNEZDNG1MRVRqUUVUcG5KanRJZVQtTkJBVXowaFplbXN2MjU4cnJQdTJLbS1aVmV6cXVwbVVPSTFtQVZqdFVNWkN4U0RyUFVNZVZGdGpsR1VyQm5kLUl1QmFSSWdpNNIBb0FVX3lxTFAyblBUaTJNYllsNEZDNG1MRVRqUUVUcG5KanRJZVQtTkJBVXowaFplbXN2MjU4cnJQdTJLbS1aVmV6cXVwbVVPSTFtQVZqdFVNWkN4U0RyUFVNZVZGdGpsR1VyQm5kLUl1QmFSSWdpNA?oc=5",
+        "headline": "KB손해보험, 보험장사 잘하고도 실적 뒷걸음…투자손실에 순익 11%↓",
+        "summary": "",
+        "source": "금융경제신문",
+        "published": "10/30 09:46",
+        "published_ts": 1793321205.0,
+        "tag": null,
+        "first_seen": 1793332838.4184773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRlVLUTFfM0tMSVFBTERkOENVeWdGTVlrb3FSSGhqODR3OEtWYXhFNmV4ZXl5SUZyR0U4RFhHTnhlb2I1SDZ2cHJ0N25ONWhLMGJPMmtud2ZEMFNsdXlfTnVKWDdCWjBzcGlv0gFUQVVfeXFMUEVLYmhGbkpKaklCUjZSRnF2SDBXVHpMY3k4ay1CWGZBVGE1dDZPcldmTGJ3eXZJTTN0eUJPNzU0T0FUUHdDNjhPcWJMbUhtXzZxQmpN?oc=5",
         "headline": "‘영구채인데 영구 없다’…신종자본증권의 역설 [공시 한 끗]",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1792890000.0,
         "tag": null,
         "first_seen": 1792902629.9774647
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9HOGJuNllEZVdVR1QwZDdzbW45UUFJZmpLUWFoc1BlTTFfeGJ2aENkbEwwc25ZLWY1eENhYkt4bU1GSEZZN3hGWlVVYXNKQmY5SUNJRkFLNEpEUm94OVAtZW0yaVlzSEU?oc=5",
-        "headline": "교보증권 3000억 원 증자…종투사 문턱 넘을까",
-        "summary": "",
-        "source": "자본시장뉴스",
-        "published": "10/24 15:30",
-        "published_ts": 1792823400.0,
-        "tag": null,
-        "first_seen": 1793031327.5636106
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tZDBuWUQ1RnJ5S0YzdUZmUmMtVlNQVjFLakQwdUtOVHhYQTlKdmNmdWxWaERMSTRyTWRwVDlXa0RIejVwZ2VURVgtRWEtYkJoUWxnaW1ibC1heW94eTlQbg?oc=5",
+        "headline": "일본은행, 금리 1.25% 동결…\"물가 2% 목표 사실상 달성\"(상보)",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "10/30 12:55",
+        "published_ts": 1793332502.0,
+        "tag": "JGB",
+        "first_seen": 1793332838.4184773
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsNEhqaER0NWpCSy04a3RaTVotSFBZYmFydXpFWkQ4SERVNE5HNUJ4cHRtLVhSMm5SY1pZazZaYmFndkZJUnVvSEpsSXJIZ3BTMnl2b1pqd1FjUWZobUVGeVhnWjJ1c3htWWZCQXlvUHlmdw?oc=5",
+        "headline": "BOJ, 기준금리 1.25%로 동결…9명 중 반대 1명(상보)",
+        "summary": "",
+        "source": "KB Think",
+        "published": "10/30 12:35",
+        "published_ts": 1793331303.0,
+        "tag": "JGB",
+        "first_seen": 1793332838.4184773
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE51VEgtSldmQXU0TGlOaFdOcTZGNENPSjJ2ZURVLXNLMkNpaEVGb2lIQUZ3aWlVZUVLZFpHTFRTNy1TLXlscWtYdDlMUVNNS3RnSHg3elVlNVpXZ9IBWEFVX3lxTE5Tdk4yNFE1M2x0bUJ3ZjBadFFyZzdTc0c3cVZZQWtqX0RQbUpVVkhoOFNnQTBvbnNSUVpCOHcxa25DYjh0TDB5S0hWWXdHR0tFbnFLZkdnU2E?oc=5",
         "headline": "日 BOJ, 금리 1.25% 동결…기조물가 2% 목표에 부합 판단",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793283879.0,
         "tag": "Fed",
         "first_seen": 1793307638.9045167
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGtkSTVwSnhxTHJBQVV4Y1BINWxQQVRPNk1sU1RMSjg1ZkZOSW50bG4tQlBha2lLVXRUSmVVd0JMeEFfbWE2bGlUcE9qOGJfMVI1bXRmNmVGTzV6TnYyOVcxQW9MNWJoUGh3aTJraFRkcnZnenhDTU5abjhvZFNOYm9CdEFDUW1fdVVvQjVtNVUtN2JFU2sxaklpQTZsQlc5QnE1eXg4X2JHZDJQdkRyaQ?oc=5",
-        "headline": "The Fed Is Cutting Back on Rate Votes for the First Time Since 1981",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "10/29 23:14",
-        "published_ts": 1793283286.0,
-        "tag": "Fed",
-        "first_seen": 1793283325.8653975
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcGNtQlZ6enBwWkhlM3dXTFA1dFRTbE5mX09zUk16T3FuX2lsdkFpeU44YjJXdHlRVDQyU1JYT1NxVEtYNFltUnJHVFdMNENyYjJiU3JMd2lUZmdGYkM4b3Z2YWExd2xnaFFBU0JXRUg4UmxFM3JTYjFCVnVGS08tOXRwcU9Wc3RkR1BBd05idldCMnlfVWc?oc=5",
-        "headline": "The Economy Could Be Growing Too Fast for Warsh",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "10/29 23:14",
-        "published_ts": 1793283240.0,
-        "tag": "Fed",
-        "first_seen": 1793286928.2946155
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-30 12:45:47",
+  "updated_at": "2026-10-30 13:01:03",
   "yields": [
     {
       "label": "3년",
