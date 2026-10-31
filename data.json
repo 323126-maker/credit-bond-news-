@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5SY254ekY3ZnZTZUdZdUFCNkZ5SGtjeENHRVd4RUZHNVRPSTVwZHpEYVV2SE9tbFBpdlB5VTNCY1drR3VPUUZNUmFad0JtcXdHVzVaRnhZdE1aTF82MVlSVGp3Z0FjZDdpZ2hBZDFDTW9PTzFUbDQ1ZkF6ONIBgAFBVV95cUxOaGlIZmtqcEpUM1RRRFFFbXljSkNTeGtWRF9oWkduVUZ2MFVqRWpRbHViNkVyc3VhWmRhUVhITlQ0TTFKX3FCT2t3cDVyTl9HaTdtRnJ5RHgySWd0MWVxQnI3cXVKZ19kTGNUMUtPU0o5OWFNQzdXcXJwYWNlSzFkbQ?oc=5",
+        "headline": "프랑스 신용등급 강등되나 … 피치, '부정적'으로 전망 낮춰",
+        "summary": "",
+        "source": "뉴데일리",
+        "published": "10/31 11:19",
+        "published_ts": 1793413140.0,
+        "tag": null,
+        "first_seen": 1793417434.532817
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rRmdPUkFLdWtiNFRwdDR3cnNXOWcycTFWYUFTRDcwdEF0cHdDUmFtTGVXVFNYVFpiSFBWaVhuMC1mQW5FSDhYem5YdEQ5eDZPcVFsWXFTT0pLanREbFdoNWtqSFYwbERaeHh1ZlJFbU0yUQ?oc=5",
         "headline": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793304456.0,
         "tag": null,
         "first_seen": 1793304924.7423775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0tVzg3VmRSZXhLSk5YdDAwRHFnakp3ZFZIS2dteDBGcm0ydXNXdHBnbTZMSWxkYjZGVEF6OGN1U013QUllU0hEbWt3emcxVkpsaXc3SWMzUElwNDF4T25CcdIBYEFVX3lxTE0tVzg3VmRSZXhLSk5YdDAwRHFnakp3ZFZIS2dteDBGcm0ydXNXdHBnbTZMSWxkYjZGVEF6OGN1U013QUllU0hEbWt3emcxVkpsaXc3SWMzUElwNDF4T25CcQ?oc=5",
-        "headline": "MS, AI투자 경쟁에 9년만에 회사채 33조원 발행…신용등급 AAA",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/30 04:58",
-        "published_ts": 1793303891.0,
-        "tag": null,
-        "first_seen": 1793308526.389161
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 12:15:51",
+  "updated_at": "2026-10-31 12:31:02",
   "yields": [
     {
       "label": "3년",
