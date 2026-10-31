@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YQWlGSkpfYXh2c0tCZ3RjaGFnRVBXRlk3VFVUMTJ5RUpndnBiUDI3amtwdEk4QmRHVVFRbk9UZ1BhSzhWMlBlVDJIOVFOejdhaHpzN0dRS0RQZGh3OTYzOFA0RVVDZw?oc=5",
+        "headline": "한화생명 후순위채 4000억원 수요예측 11월 3일",
+        "summary": "",
+        "source": "비건뉴스",
+        "published": "11/01 00:54",
+        "published_ts": 1793462043.0,
+        "tag": null,
+        "first_seen": 1793462439.4930468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8yOHdBV1psRC1YUUtweEsyM1pEdWRsN2w1VkcxZmp2SDA0c2JPUWJqTHZIY0gzakVscXdqa0hVVUFRbXVTQkV4YWRGT015NWZ5VmtHQmJ2RUtkdTE0VTMwUE9ZNllxcHZ6elRN?oc=5",
         "headline": "한화생명, 8,000억 원 후순위채 효과 자회사 출자에 증발",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793067180.0,
         "tag": null,
         "first_seen": 1793081726.88155
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE40SFZlR1g4Zi1EZVBDYXI0b3pNWjRGSTdGOVRBZ3NOMUZPRHQzdXBKUXRZX3BmOC1mam1ZY0lpVkI3a3ZraGtjNGFzal9GMGpwMDlfVw?oc=5",
-        "headline": "삼성생명, 해외 신종자본증권 2조원 발행…보험업계 역대 최대 규모",
-        "summary": "",
-        "source": "매일경제",
-        "published": "10/27 10:07",
-        "published_ts": 1793063246.0,
-        "tag": null,
-        "first_seen": 1793063728.3611002
       }
     ],
     "policy": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1BNGhkT3JlVk1JUjQ0Z1c2ZWZYUHpOeEkwTHgzcXJoTHU2aTFacF9KTlBtUmYtc0tsZHExOW16MXRUQm94MTIwWTg1TGJiUDlxUFFDTkd6U2tYRnZpTzYtRmRCMmlmQVNTT3ZWYXYxdzI?oc=5",
+        "headline": "이재명 대통령의 ‘한겨레 사과’ 요구, 어떻게 생각하십니까?",
+        "summary": "",
+        "source": "미디어오늘",
+        "published": "10/31 22:47",
+        "published_ts": 1793454451.0,
+        "tag": null,
+        "first_seen": 1793462439.4930468
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA0NnNoUFdVS0ZNcEhiVkFWV2JBYjdEYWlJUHlJd3I0akJOdHVnN2xwVGJYVDlrT3NMaFhmcHVQLTFldkNnUzNpbnpGcXFuYmRyUWN1Z1lZQVRVR0ZiT3BORl9pa1NCWlVnd091NXRB?oc=5",
         "headline": "정점식 \"정부여당 건전재정 노력 시 초당적 협력\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793113189.0,
         "tag": null,
         "first_seen": 1793222127.3338325
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE83QnExU2FxdHd3cXNmUFpRc3JBQ1p4dmg2dTluZUpJX0U5WGhxTURQWnRDeFBBOWVPZ1dqa01JX0pDNDBfS0VOTWNJWHNBWkJXME85RUx3enRDMGl2a201cnJmRQ?oc=5",
-        "headline": "이재명 대통령 “유럽의 현 상황 우리도 반면교사로 삼아야...근본적 원인은 저성장”",
-        "summary": "",
-        "source": "시사뉴스",
-        "published": "10/27 21:01",
-        "published_ts": 1793102462.0,
-        "tag": null,
-        "first_seen": 1793292325.414373
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 00:45:53",
+  "updated_at": "2026-11-01 01:01:13",
   "yields": [
     {
       "label": "3년",
