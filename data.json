@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBQMmluQkFTVFpPc2stbVJDZjFjaFlGVXkyT0w1ZExhUmZvaVhPRzI2QmVXeDVaY1lqZW85U3c3SGJDODlZcUNuU1JYejR0U20taEtpNG9BdEtoNWNqY0E1THFzdTNSWlJF0gFuQVVfeXFMT3l5TG1PajhsVW1xWDRQT1drek9XaWJIT0JhLVAtVGJBVXFWeWpFbjFqUG1tN1c3ZVVxNi1vcWU2MWdPdVBpME4tUjVyWGJ0YndQalZtXzJhclpUaDNIczg5T1VGRFRLNmp1cHJTUlE?oc=5",
+        "headline": "부채·적자·정치 분열까지…피치, 프랑스 신용등급 전망 '부정적' 하향",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "10/31 10:58",
+        "published_ts": 1793411912.0,
+        "tag": null,
+        "first_seen": 1793412041.1308298
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9rUGJWQ01xd0ZyOHRyQXNLQXgwVHBubG1iQ2NkQ1AwejdpZUhIWmhxcVFNNTQtV3JaWmgwaE9ULUhpS0JIS3Z4TjdmblZzaU5J?oc=5",
+        "headline": "S&P, 메타 신용전망 '부정적'으로 하향",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "10/31 10:49",
+        "published_ts": 1793411353.0,
+        "tag": null,
+        "first_seen": 1793412041.1308298
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55YVlKQk5FSUlnRlU1T3ZWR19PLTVISU51dnV5NDZGdm5JcWdheFBhdTFxSkNLWU5SY3cycEl3QUZOQWREU0J1eUNScXhGUVowMGN1UTJlZWJDUQ?oc=5",
         "headline": "\"빚 갚으려 또 빚낼 판\"…프랑스 신용등급에 '강등 경고등'",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793303797.0,
         "tag": null,
         "first_seen": 1793305834.1067672
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tYV9WRHVLeThYMEZPc2FiMm9mRlBhZGFfUGlqQ0c5OVdERzFMLUg3VjZ0NUVQektndWxfZ0NlajdXd1ZYVmFWUFJsaXNWS295R0hhSzNYU2LSAVhBVV95cUxNbWFfVkR1S3k4WDBGT3NhYjJvZkZQYWRhX1BpakNHOTlXREcxTC1IN1Y2dDVFUHpLZ3VsX2dDZWo3V3dWWFZhVlBSbGlzVktveUdIYUszWFNi?oc=5",
-        "headline": "[글로벌 비즈 브리핑] '어닝미스' 알파벳, 하루새 시총 670조원 증발 外",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "10/30 04:47",
-        "published_ts": 1793303220.0,
-        "tag": null,
-        "first_seen": 1793307638.9045167
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE85UUZlVHAxeEU1em40dnh1RnVHUVZGekI4SU45U0V4SmNIUEZvcnR0a2t1bE9tNURoaDdDSjN2OTdzUkNrdUk2dmZpTndQSXJPNFdrSllUb09LTU4zODJBQUZFdEZRZDI1N3Z3cjV2ZWg?oc=5",
-        "headline": "S&P, 기업 구조조정 계획으로 Navient 전망 ’부정적’으로 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "10/30 04:20",
-        "published_ts": 1793301600.0,
-        "tag": null,
-        "first_seen": 1793308526.389161
       }
     ],
     "perpetual": [
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9nM0duQnh1YlpMV2Y4OFBySEpLZGk3Y19ZMWVTMUFmQnRsNEhiSEhiVVFnSkZSYnVuc0gwZWUtWE5UVDhqOWJhcnkwcGdBUEFOTzRXYzluaUpHdVAzTWdfTURNYWJxT012eHg0?oc=5",
+        "headline": "재정 통제력 잃은 프랑스, 피치 신용등급 전망 ‘부정적’ 강등",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "10/31 10:42",
+        "published_ts": 1793410920.0,
+        "tag": "삼성카드",
+        "first_seen": 1793412041.1308298
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9XMXFmMHRHOHdQMFBLQ2lzWnNjVlFId3VZdVNKc2dZMVIyOThCN1FMMGtISVAycnRMbGQ5Wk9RR0IxVWFBMGp3SWxJdEdra1FsTU1iLTZickZGQkZwRHp0VGR2WHlQRC1YMVNn?oc=5",
         "headline": "삼성전자, 대만 '전지푸'와 결제 동맹…현지 모바일 지갑 공략",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793140200.0,
         "tag": "현대카드",
         "first_seen": 1793321126.6191955
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ac2FPWklLeTczX2Fac0RyLU5HNDh5VWZFb0pMUk9pdnF4TVFCUG54YTU4dndSTklvaXVCRlgwX3dQUFBXZ0lfbU9Hd2dET2dpNTVDREo1SHl3aFpZT1QtNlVIZ2hYcEJCeGZjR095MDlVcjFsaWdhZ9IBeEFVX3lxTE1ac2FPWklLeTczX2Fac0RyLU5HNDh5VWZFb0pMUk9pdnF4TVFCUG54YTU4dndSTklvaXVCRlgwX3dQUFBXZ0lfbU9Hd2dET2dpNTVDREo1SHl3aFpZT1QtNlVIZ2hYcEJCeGZjR095MDlVcjFsaWdhZw?oc=5",
-        "headline": "호텔 숙박권에 상위 멤버십까지…‘메리어트 본보이 더 프레스티지 삼성카드’",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/28 06:00",
-        "published_ts": 1793134800.0,
-        "tag": "삼성카드",
-        "first_seen": 1793137922.0783734
       }
     ]
   },
-  "updated_at": "2026-10-31 10:45:16",
+  "updated_at": "2026-10-31 11:01:04",
   "yields": [
     {
       "label": "3년",
