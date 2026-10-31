@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbDUwcHp2TERGU3I4ZElVdURDRjAzb0dPY1JVT3VOUGRTNEd6OXN6ZDlzZVkweEJ3aEhHdHljM3dzT0lnYXNUaHNFUE81c2JnSmNMNTlHcS1oUDVKX241NkVNeWFLWkRvN001T0JRajMwX3FvNXppUWhwWWQ3aVkweGl6YTVsdnNHMXYwVGdNYldEbENlb0x1WS10MUVMZW1fWnJoYWhBRUpxVUYybkZLNFdFSUJfSWFONk1YdjBn?oc=5",
+        "headline": "BKT: Agency Securities Provide Safety, But This Fund Needs To Cut The Distribution",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "10/31 23:15",
+        "published_ts": 1793456100.0,
+        "tag": "Global",
+        "first_seen": 1793457032.0004954
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOTg1a3F5SUp6ZzJPUjB2Yk5tTTh6dTR3WnFESEtqcjhiNlJKZTNMSUR0RzVucWFzU1RkYnRxVmQ2LW5uc2ZsY01tcDNVMEJHN1ZhMGE0S0lEeXlyRXpXbGs1UGFtS28yaldkb1hlTlNTZDFWcjVUc0lZZ0N0X2lsd2QtMTI4bmVTNWk1RjVISHpMUVJSOHpxVFNVUmxDMjRqSjRMcXFUSHlpdnZZVXAtMjVHajBjejh0Q3ZDcUc5QQ?oc=5",
         "headline": "4 Words From Fed Chair Kevin Warsh Should Have Wall Street and Investors Quaking in Their Boots",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1793448587.0,
         "tag": "Fed",
         "first_seen": 1793448925.0229964
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uYk1zS3drZ004cG9XX2REYllrblRLSmIzMy1pN1c1OHZMamV0VS1IRlVJZjUxYk44bEJ5VXlVSEIzUzkxNk5rNjVyV0VFbDdKUm9mLWJNbGJkT3pmOXk2b3dqb19PWmtucXlwTUpB0gFuQVVfeXFMTW5iTXNLd2tnTThwb1dfZERiWWtuVEtKYjMzLWk3VzU4dkxqZXRVLUhGVUlmNTFiTjhsQnlVeVVIQjNTOTE2Tms2NXJXRUVsN0pSb2YtYk1sYmRPemY5eTZvd2pvX09aa25xeXBNSkE?oc=5",
+        "headline": "미국 국채가 위험하다!",
+        "summary": "",
+        "source": "르몽드디플로마티크",
+        "published": "10/31 21:04",
+        "published_ts": 1793448253.0,
+        "tag": "JGB",
+        "first_seen": 1793457032.0004954
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUnFKV2Fpcnc3UDQ3SDdCZVVHVHIyTW1KU21TTEJoeTFSTnQ4QjM3Zm9ralJJUjdTV0hCeXliRVozbTljME9uSl8wOV92UlkzLUVMV243RXI4WVpnWWNhOF9WbkE2TF9FOHdzLVZ4ZDEzaDh3bTNGX0M3emxsYW1saHo4RDlrOGdXOUFZY2NWWQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793380500.0,
         "tag": "Global",
         "first_seen": 1793399285.6816854
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5aRTZLV0dXTmNtcE81UTFyRXEwRFZ1TExuV2h1VURQVnNhZFEtejlDYTZoSEhZOWxhbXBZdEJ3LWZFZWZwRzAwLWZ4WVIxRE9UaHNKLUYtQS0tSUJmUmtjbQ?oc=5",
-        "headline": "US3512TAB7 Bond Yield and Price — HAM:US3512TAB7",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/31 01:49",
-        "published_ts": 1793378979.0,
-        "tag": "Global",
-        "first_seen": 1793442633.9749377
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16R3U1YThjMkNwenRPelFXV3pCaXA1SzNEbnZfVjIzQ1ozZzdDQld2blRwZmtnRTk0MTRucmlBMzZiaW1RSnJPamZrcHFfaVNIenQ1V2FaVFNXM0tla2REaFZNQQ?oc=5",
-        "headline": "KEY6555957 Bond Yield and Price — FINRA:KEY6555957",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/31 01:46",
-        "published_ts": 1793378807.0,
-        "tag": "Global",
-        "first_seen": 1793448043.9988112
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 23:15:56",
+  "updated_at": "2026-10-31 23:30:56",
   "yields": [
     {
       "label": "3년",
