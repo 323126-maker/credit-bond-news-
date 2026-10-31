@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlMzanY0T2c3U2lLcEVINjU0aVAzbTNfMWQ3UVlkS0x1cXZjUTJ3UWZVOExsRTlOSU04U29BVnl2OFpTam9YUFVJZ3VlUkRnSVZsSkVvTWFsZFlzaXRZc1VzeDlCa2hoRkpjU2dkWHd5TnJIcnZra3JkWWRycDFBSTZaOWRvOXNTWl9Bd2MzZ3NLTkFkMFN1QVVLdTlQU1VOVUcyWk93?oc=5",
+        "headline": "비엣크레딧의 올해 첫 9개월간 세전 이익은 거의 100% 증가했으며, 부실 대출 비율은 8.2%로 상승했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "10/31 18:18",
+        "published_ts": 1793438320.0,
+        "tag": null,
+        "first_seen": 1793444440.5475023
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xQ0JYQXNod2laWFJfaW1hVzJRVzVva09HaE1DcU9aRkdzWnNkRXNWLWowVFVQUTJNLTl0aUZ6ZFQxdXJOZ2NuandtXzI4UlhlV0VzYXpsSUdad1N5SVZTY0tQTXNnS0RIY0tZR3BSZlE?oc=5",
         "headline": "11월엔 현금보다 주식·채권…AI 대형주·중단기채 '압축 투자'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793314800.0,
         "tag": null,
         "first_seen": 1793318445.2138805
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxbk12VC1ObDl2UlJrRks4MEQ0UlVuY3U3RmNLWGoyZGZXdkhMOXBVdldfUi02Smx2SlpkSWlUSGtHdHNKT3ZCTnN3QkdMSm1VM3dGbW83R3J6V2VFdHBjQVBaMnpMdEx0alVIZWJR?oc=5",
-        "headline": "마이크로소프트(MSFT.O), 9년 만에 35조원 美 회사채 발행…AI 투자 자금 조달",
-        "summary": "",
-        "source": "알파경제",
-        "published": "10/30 07:43",
-        "published_ts": 1793313828.0,
-        "tag": null,
-        "first_seen": 1793315728.2106214
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 19:45:49",
+  "updated_at": "2026-10-31 20:01:03",
   "yields": [
     {
       "label": "3년",
