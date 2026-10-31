@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PMlB3bXQtS2ItNHAxWDNHMEk3RmdUanlkSE9lQUt3VVFaOUp2dEtxZkFkSndQZ0ZrbGFRYWVpY3ZJZ1J5enNNaFFMUG1TSG1qenZGTw?oc=5",
+        "headline": "S&P, 메타 신용등급 전망 ‘부정적’ 하향⋯AI 투자 부담 반영",
+        "summary": "",
+        "source": "이투데이",
+        "published": "10/31 08:56",
+        "published_ts": 1793404560.0,
+        "tag": null,
+        "first_seen": 1793405727.1150234
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1lT1lOeFZHRV9KalkzTkxXanlUbnRuM2ZLRUhibVZrcTAxYjBneXJUbXZQMWxKSjEtbENuZHV6cG4tT2V3QmdELVVhcUU5YUZtWi1pRTA4WFVYTnhQTVczeHo2YzJHWDA?oc=5",
         "headline": "피치, 조지아 신용등급 전망 ’긍정적’으로 상향…외환보유고 사상 최대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793290740.0,
         "tag": null,
         "first_seen": 1793397638.9405065
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBVZHI4dXp0T3JfWTY5U2xFRzJRcm4wcUlhb1dkRG9ZOVMwQk4xNlFiTFloVGZRSUZGMVhCLTMwQlNXQVZMRUFvMTlPUXU4QlduNEZLcVkwYWtyYm5SdE5ISnV3bldOUzlDeUpMWER3c9IBc0FVX3lxTE1pdWV0aUI1OUgzWHBUZllzeVJQaHBlT2o2cndneFNwNVdudU9nUExIUHF3RS1nb2tPUVJ6WDJubVFTc25tN2NfWHdMbldiZFVfWEpiZENMSzl2VFhGTGVQbU1vcEJzV0ZxNTRBV2kxbU1MNUE?oc=5",
-        "headline": "개도국 탄소감축이 ‘돈’ 되는 시장, 한국이 함께 만든다",
-        "summary": "",
-        "source": "여성신문",
-        "published": "10/30 00:41",
-        "published_ts": 1793288468.0,
-        "tag": null,
-        "first_seen": 1793298634.1164525
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-10-31 09:01:06",
+  "updated_at": "2026-10-31 09:15:52",
   "yields": [
     {
       "label": "3년",
