@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMTdzaXV3U3pUZVVpZ28xeUd5d1U4c0huTDdnV1p1S2Ftb3FENHBzYXVJVFNncmhUd1NJRHBTNExZTUptLWs0QXpuQnNaTnNuemt6Q1k3b3k2RmctcDJrdG9DNEIwWWZKeHhzVEQydDBJdVN1aVFLejc1LXk1RFUyVFRkYmg2V2J1OUx4dFRWT2k1UXhYOFZV?oc=5",
+        "headline": "김의찬의 금리시장 동향",
+        "summary": "",
+        "source": "CME Group",
+        "published": "10/31 23:18",
+        "published_ts": 1793456339.0,
+        "tag": null,
+        "first_seen": 1793459724.5637717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTlMzanY0T2c3U2lLcEVINjU0aVAzbTNfMWQ3UVlkS0x1cXZjUTJ3UWZVOExsRTlOSU04U29BVnl2OFpTam9YUFVJZ3VlUkRnSVZsSkVvTWFsZFlzaXRZc1VzeDlCa2hoRkpjU2dkWHd5TnJIcnZra3JkWWRycDFBSTZaOWRvOXNTWl9Bd2MzZ3NLTkFkMFN1QVVLdTlQU1VOVUcyWk93?oc=5",
         "headline": "비엣크레딧의 올해 첫 9개월간 세전 이익은 거의 100% 증가했으며, 부실 대출 비율은 8.2%로 상승했습니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793315582.0,
         "tag": null,
         "first_seen": 1793317524.5179107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE4zeUJRQlJhQkdJdjFDWVBKQ2E3XzZkZnpBRHJDQWVPME9GX21DQlYxSktVOTJrUmNhYmRtOTE4RjNsLV91eHdkNVJPaGdKS3pQZFREZ1Vfd2VoT3lxRm04LXVvTU5hcGNCZlVYejdR?oc=5",
-        "headline": "[분석] 10월 FOMC 매파적 기조 유지..긴축 강도 유동적",
-        "summary": "",
-        "source": "알파경제",
-        "published": "10/30 08:00",
-        "published_ts": 1793314800.0,
-        "tag": null,
-        "first_seen": 1793318445.2138805
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 00:01:01",
+  "updated_at": "2026-11-01 00:15:49",
   "yields": [
     {
       "label": "3년",
