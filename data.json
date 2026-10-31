@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOT253dExsTEJsS1ZydjRsdlBaUzB4Z3p0NTZSY04zcGZvQmpVc00yOEJJRUxwYlN1c0VzWmRic1BFcWZQSkJkQUs5SjM2dEdvMjJGU1BaLXhGVWM0WG1wMmcwUEx4M0tqR3Z5RmkzM3pYRUdCZWVUdnBYMkdHSVp1Xw?oc=5",
+        "headline": "AI주 투자자, 회사채도 봐야…돈 빌리는 비용이 주가 흔든다",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/01 07:04",
+        "published_ts": 1793484243.0,
+        "tag": null,
+        "first_seen": 1793485834.2331536
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE90Yl9BWHZPVmRiNFhQY0JOUGxiZGxKemJSaXZDTjduR1ZLdzY4dWthYklpV1JFMGpUeFFJQ3ozYXVrUnhodjRGRTJSbGE0TVVHSHVzMWNPV29tMy1LeGs5dlc2a1hBOHhfQ2RRZHZHM0psWTEwTGhN0gF3QVVfeXFMT3RiX0FYdk9WZGI0WFBjQk5QbGJkbEp6YlJpdkNON25HVkt3Njh1a2FiSWlXUkUwalR4UUlDejNhdWtSeGh2NEZFMlJsYTRNVUdIdXMxY09Xb20zLUt4azl2VzZrWEE4eF9DZFFkdkczSmxZMTBMaE0?oc=5",
+        "headline": "빅테크 AI 투자 후폭풍… S&P, 메타 재무 부담에 경고등",
+        "summary": "",
+        "source": "핀포인트뉴스",
+        "published": "11/01 05:45",
+        "published_ts": 1793479539.0,
+        "tag": null,
+        "first_seen": 1793485834.2331536
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHdOVmdxUzFSXzE1eUx5WmFJM1ZYZVZHMkF6LUR4N0QwdkJTb1lZMTRLY0RTcHVRMFQ5dXBXdVBoVWhKVEk4MTFPeFhiaHg2VTBnSEhBNWhrZ0tTQjdnVHJVdE51UC1vdlloR1NkQTFRZl9Ra0xBRVRjanB0c3ZuVzZ3?oc=5",
         "headline": "VietCredit: 수익은 거의 두 배로 늘었지만, 부실채권도 급격히 증가했습니다.",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793318457.0,
         "tag": null,
         "first_seen": 1793331033.699855
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE14d3RodFY0WHZheXdocGVDZkU5WElEU1VVTVh2aW5KWkdiTndGeFl3N1hYYnd1MWlkU2JhUGFvdHFWTlBKQ29LOFN6SktfV1lEc1pQR2tKLVFKUTZCYXJJVFFkVnhwdGNlU2U4akU4YVg5SWNP?oc=5",
-        "headline": "[뉴욕마켓워치] AI 대탈출 시작되나…증시·달러↓채권↑ |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/30 08:28",
-        "published_ts": 1793316494.0,
-        "tag": null,
-        "first_seen": 1793326525.8615606
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mYmw5bGExV25USkx4VURnUjJRdUd2NTNVSXU5M2M5MEd0THhHSWcyN1B4UWhtMGlzdkZka1hjNFB3UjgtMjhCXzFFVDNCUWdZOXJjYmdIRzI3QQ?oc=5",
-        "headline": "알파벳 13% 추락, 아마존·인텔 '어닝 쇼크'…채권 수요에 금리 급락 [김현석의 월스트리트나우]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/30 08:19",
-        "published_ts": 1793315983.0,
-        "tag": null,
-        "first_seen": 1793316634.5892687
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 07:15:46",
+  "updated_at": "2026-11-01 07:30:57",
   "yields": [
     {
       "label": "3년",
