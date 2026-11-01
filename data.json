@@ -342,6 +342,16 @@
         "first_seen": 1793396725.3155236
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXby1vWmNKQXhLel9Xdms2MU9uci03QU5WT25iSjNVdDI1X1dhcjdNZWFpZHZVWDJibXBvRmRlc1VXNGRzN084WEh3SVFhN2g0c1J0S0UwWmJJVXYzMkRFNTA4WU1PTzFWMTVHZC1RWXU?oc=5",
+        "headline": "[외환-마감] '코스피 3%대 약세·네고 우위'에 하락…1,330원대 초중반",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "10/30 19:03",
+        "published_ts": 1793354580.0,
+        "tag": null,
+        "first_seen": 1793574927.2064087
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9tMWY1OGM4SndCQnZld0ptdDdoYjJnME5taUVQdzJyV3A4S21KLU9Pbzc2clI1ZDNsWUZiR1pKdzlneDdoZHRNNTh1UEJDOER0bmJMUlM5c3MyU1UwVlpCM1cyazg0YVVOekg3V01fZ28?oc=5",
         "headline": "[채권-마감] 강세 플래트닝…주가 급락·WGBI 수요 유입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793349524.0,
         "tag": null,
         "first_seen": 1793371528.147373
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WbUc2TVdxVHJBLXhydlp6VDRBRWNKdURGdnBMNmpxeGZmTHZiRTZnZVJOdC1YbHloSFJYT0MzRWhVRng0bWhJLWV4RFpZYjlLZEt0ZQ?oc=5",
-        "headline": "[채권마감] 10년금리 5개월만 최저, 주가 급락에 안전선호+WGBI 자금유입",
-        "summary": "",
-        "source": "이투데이",
-        "published": "10/30 17:35",
-        "published_ts": 1793349300.0,
-        "tag": null,
-        "first_seen": 1793349923.9599342
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVkphbi1JbkpNU1htVTU5TDJFajBlMHktbHlwb1lVdGE5LVN3ZlVoRkhIa1ptcDU4Y0hIajRJYnhnUHdaQ1Q2MjRCcTNhSFZLODFsbzNyMGt6V0QtMFRqWEdCVDkwWDhuWTJOdXF4WkxFX3I3VUNpdUNBV3d0OUtjeEJXRUtCWjEzVE1kampUbXEzampzQUh5eVNaNU1sQ2VWS3ZPVGR4V2lJdUJqbjRhdU5yZGhXQW03UDZwb196QVdfbzB5aUM1b0lPRTRtZ2M?oc=5",
+        "headline": "Kevin Warsh is managing US debt costs not inflation as interest rates risk topping GDP growth soon",
+        "summary": "",
+        "source": "Fortune",
+        "published": "11/02 08:07",
+        "published_ts": 1793574420.0,
+        "tag": "Fed",
+        "first_seen": 1793574927.2064087
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE04Q051QW5aYnQzeWZLVEJWX2pKMzJjYXRjMWxoVGsyZ21pUENaeHY3WlpVcS1xTzU4M0l0X0tlWE1WRElHOVhSQW4wLVFUMldva3NOa2dBRl96WjE0NnRzSTV6ZzFOOXZaZmhYMUg1Zw?oc=5",
+        "headline": "원·달러 환율, 1334.3원…달러, AI 투자 수익성 우려에 하락",
+        "summary": "",
+        "source": "조세일보",
+        "published": "11/02 07:52",
+        "published_ts": 1793573577.0,
+        "tag": "JGB",
+        "first_seen": 1793574927.2064087
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZERQdWJmSmFyRjh1SU9yOFpkc2NNWGNxMXhHeXl6U01nRXg1UjhlTEtzYldOVzJReE01OUh6SzRTWDk2TzhsbnhPME52Uk4ydGxBUHFtWjFlMFc4VWhVOTZnMktyRndGdklJMDFpVnphSVJVTVM1QVp5RjNEZlAyYkZOQ3RaY2h6Rml4anAwUkd4RmpLRXhfVUllQjAxWW0zNGk4VmxfWTNFMXA4dmdz?oc=5",
         "headline": "Jamie Dimon Says Washington Is Hooked on Spending. The Economy May Be Hooked, Too.",
         "summary": "",
@@ -1628,6 +1648,16 @@
         "published_ts": 1793569905.0,
         "tag": "Fed",
         "first_seen": 1793574042.3606753
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ubWpQbTZKRThpcnY0WmFGY0ZwQ3RlOUFpNUx3My1hZ3p2ay1Zc0dvbnh4RVRsRWVmOG9jSmltd2V3UXV6NVM5N2UwZDQ3NnkxUnltTUJDeVR3NjFqZVlFNUJ3WUJYR1NpdzNQM0UwaHgtS215aFE?oc=5",
+        "headline": "[뉴욕증시 28일] 연준 금리동결에 3대 주요지수 상승",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "11/02 06:20",
+        "published_ts": 1793568048.0,
+        "tag": "Fed",
+        "first_seen": 1793574927.2064087
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUpCUEczMllVd0lWU2plUnF5bEdwcmYwbTdnMmk3MGk3Znhybl83TW1oV1B2eXk3ZlpwUEhReFEwTjhWeV9ZRmQxRnQ0SlQ4dzI4TFZqQUZSRGx4SFk0YTF1LWxBeEllWkN6TWFOd0dFT2tKZ2E0Z1EwRG1RdFBvbDJwRlNtY3VWcGc?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793496644.0,
         "tag": "Global",
         "first_seen": 1793526325.8203082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVzNkbkZaREhNNjMzelRxX3hzekxtbVpnLV81ZmRzV1ZSLTFKRWNBb3ZZSE8tU1ZLWDJzQ252RGNNdU01NnU3Nm11UGhRcnpWaWdiT1RCS1ZkRGN4MGZrdUN1dENOTTk1eHFGdjAxRFRmT1VlcEpwN0htR3ExUlBuTm5NV0I0Zm5qbTNxcXZ3QVJnMzV5bW9TSThnUUoyaEV4QVdualRDVnFFWjBad0xvWERVSzdta0FKRjhpVVFXOFg3dkZKYVRoQWRfbw?oc=5",
-        "headline": "Bitcoin Pushes Past $67K After US Treasury Doubles Bond Buyback Operations, VanEck Sees Late-Stage Drawdown",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/01 10:25",
-        "published_ts": 1793496323.0,
-        "tag": "Strategist",
-        "first_seen": 1793526325.8203082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUdrLU9vZkRoOFExUXlJRGludFgyRzlhU3BPZVc1ZlM2Qlp2alJuRTloajJiMEpwZzhWQ0hnZFNPa0hjWFpienFmZTVtWmJ1V0RhaTY3aTNnVTBMVjBzSTY4NThwZnIwdEswa2dId2c4SjdYZlM3NlRqOVJpeTVjM01SZXk3MktlT1VBcHp2SUl1ZHNEVVpJd1lLUTBGcmJoajYwSGZOZHNBWlN2M2xPX3FXOUZ1UHhMdU1UWmRJWl90WDAydzB6YlBLYmQtNUZGVTBUaUg1MlhzUl9hUklKdXhWcmpVZ19yREYxbTVVZmVqb2J2MEY1dlJ0ZDViVFR4?oc=5",
-        "headline": "Why Did The Fed Hold Rates Steady? Experts Split On Whether It Should Have Hiked",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/01 09:09",
-        "published_ts": 1793491751.0,
-        "tag": "Strategist",
-        "first_seen": 1793521833.2182093
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNdUVfblgxWXFuMHhoMG1Jc1l6MjZnSm5NZ21kSDhpUm1uVTdKQzNSQms5TmFhSzhjc0VLd0FiUUZUcXNiT2FsLU9uYnZjMzFDQ0ZrdmFrVU85UUk5RFRKc2VHMVFDSllNZGI3QW94WldsZTJUcGtuRFM4cjRLZllpSHhFRUJUQ3dfY0ZfbzBCd1o4M3JJUGRkZG5pbGFCSnF6V2VaMmdqNmZIWU8tdFV3S3dKdmV3eHh6RmpHbE42RGNWNm92QzlSeDJwQmhmZzQ?oc=5",
-        "headline": "Kevin Warsh's Fed Messaging ‘Was Not Defensible’, Says Jeremy Siegel After FOMC Meeting",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/01 08:10",
-        "published_ts": 1793488248.0,
-        "tag": "Fed",
-        "first_seen": 1793547924.5866096
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 08:01:06",
+  "updated_at": "2026-11-02 08:15:54",
   "yields": [
     {
       "label": "3년",
