@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rRmdPUkFLdWtiNFRwdDR3cnNXOWcycTFWYUFTRDcwdEF0cHdDUmFtTGVXVFNYVFpiSFBWaVhuMC1mQW5FSDhYem5YdEQ5eDZPcVFsWXFTT0pLanREbFdoNWtqSFYwbERaeHh1ZlJFbU0yUQ?oc=5",
+        "headline": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
+        "summary": "",
+        "source": "마켓인",
+        "published": "10/31 11:02",
+        "published_ts": 1793412122.0,
+        "tag": null,
+        "first_seen": 1793496635.447221
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9sQUd2ZS1ZNXNjSDlOYjNoMWRiMF9wdjhha084a2RRNzhPOERjdXpSMlhwdC1tVTdjdlp1RGgtemhSaFdqYXp6WjJaQUc3dkFkNllxZXlLYjhManU3TDJxNTEtbWVOMDA?oc=5",
         "headline": "日銀, 기준금리 1.25% 동결에도 추가 인상 예고…엔화·글로벌 금융시장 긴장",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793079738.0,
         "tag": null,
         "first_seen": 1793080787.5154457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1FRUNLQnE0dGtLY29XYmJpa2loX2E5SlljQktGMXhHam9ZcDNra3NxN2Y5cUVLNlB6akkyV0tOMzZSMkhGc002R3pWVHdfZnNMRlhR?oc=5",
-        "headline": "주담대 금리 연 7% 턱밑까지, 변동·고정형 금리 차이 0.17%p로 좁혀진 이유는? 🏦💸",
-        "summary": "",
-        "source": "뉴닉",
-        "published": "10/27 10:15",
-        "published_ts": 1793063729.0,
-        "tag": null,
-        "first_seen": 1793066438.0226138
       }
     ],
     "politics": [
@@ -1800,6 +1800,16 @@
         "first_seen": 1793447125.4905782
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQzNWNlI3TVRzN2NzU2l3OTQ1NlpjY1p3MFZXbzZUdTFXWlgtRTBXY1NSRC1XZkxEN25ZcmU3b1UwaEhuXzdqQm9YQjBnZ2M0NFFxNUxldWZMMlc3SC1lc0xnRW1GeGgzcmgzUEd3MGpDSW5DTVRzSjh4UGJrY3lOZTR6U1owbEFUVVAyeEh3a2RIQmltQzhSMUNBS3R1MEx3enVQX3JSQVI1b1llMHZr?oc=5",
+        "headline": "A Fed pause, a confusing message, and a December dilemma",
+        "summary": "",
+        "source": "TradingView",
+        "published": "10/31 20:00",
+        "published_ts": 1793444400.0,
+        "tag": "Fed",
+        "first_seen": 1793496635.447221
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY04xU3ZaVHd0WjhEcGhTME1PS3BUeFZvYjVRM2ktZGNvQzZoVzBESkY1UVF2dVhQaG5FQ3pObFB5aU1RR2RKd2J1ZGt0NFBsdXVHZDN2SXUxSHFfSmZ0bnEyOEpsUHRaZG5BVlVINmdwalItbllNdURVdkZBbTlONzUyM0lBWjdCNTR1ZVVzNE00U3YyZ1hVUXQwUVlJUS1MbEtqdGJ3?oc=5",
         "headline": "GLD: The Global Economic Death Spiral Is Not A Black Swan Event (NYSEARCA:GLD)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793399580.0,
         "tag": "Global",
         "first_seen": 1793400326.529728
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0dlOE5TcWF5OUhqcWFZcnA0blA1bkZDTGlQRzZ6emhzc19QbTVac0RjaGdpVWN1eGMyQUN2Sm1uMWoxWE11aHZiWWFudXVvRm4zUDdraFVUMVJfaTF1NDVMUjlRRHdkQmVqTFZxcWMwdmVHMDI0c1U3WnpQajFIanVPSFYtbXByLWlReFhGQVU2bFZZazY4?oc=5",
-        "headline": "Elon Musk Says Neoclouds Face a \"Guppy Level\" Death. SpaceX Just Borrowed $40 Billion to Make Sure It Isn't One.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "10/31 07:30",
-        "published_ts": 1793399400.0,
-        "tag": "Global",
-        "first_seen": 1793494840.7044098
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 10:15:49",
+  "updated_at": "2026-11-01 10:30:57",
   "yields": [
     {
       "label": "3년",
