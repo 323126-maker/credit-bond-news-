@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1veXFTZWxIRlVvWml5M3FtaHRjN05RNXBmSzBUY2VnLUZVZEZyaTdMUGJRcU16TDlrenQwb1Z5bFIzcXdORFBrNEhjcDV4eGpFV0d2a3lISVdnYThEclNfRFltYzU4NVVCaGg1VGFZUzI?oc=5",
+        "headline": "[채권-주간] 증시 패닉에 연동된 채권시장…추가 강세 나올까",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/01 13:00",
+        "published_ts": 1793505602.0,
+        "tag": null,
+        "first_seen": 1793507440.0750303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rRmdPUkFLdWtiNFRwdDR3cnNXOWcycTFWYUFTRDcwdEF0cHdDUmFtTGVXVFNYVFpiSFBWaVhuMC1mQW5FSDhYem5YdEQ5eDZPcVFsWXFTT0pLanREbFdoNWtqSFYwbERaeHh1ZlJFbU0yUQ?oc=5",
         "headline": "국고채 넘어선 CP 금리…“경색 아닌 키맞추기”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793089140.0,
         "tag": null,
         "first_seen": 1793089835.496364
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PRnIyRTdyN0NMMGN2OV9LdkFCYUpQVjZUQjRKRkxmbkxwbF9DVG92aGloYUM2bWNRR3UwZjBlMWJOV3ZsX3NkTGVBTlhiRFRSQmdTRlR0eDBPZWw0clJfYjNxLTFGMHM?oc=5",
-        "headline": "국고채 금리 일제히 하락...코스피 3% 급등에도 외국인 매수세에 채권 강세",
-        "summary": "",
-        "source": "M이코노미뉴스",
-        "published": "10/27 17:06",
-        "published_ts": 1793088393.0,
-        "tag": null,
-        "first_seen": 1793091643.730231
       }
     ],
     "politics": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1793493929.1430755
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0FKT29SaTJucEhZYmZ1cG5XMS00dmx2aWlkbXg1Y0ROTEVTMXM2WVdXa25MVWtvYVBpcHVfN2RhS3k5SC13cVdfV3JqM0xEb19QQTNrM0ZHQzQwTHMyX1hESW9QTHNoZTdfaTFsZ2gwTGZGdXVNQVVJTTduVWxCOWFaUXM1d3BPcmZGeGNDc0xaR0pHdUROUVFEaTUxWmlZeFFPSV91UEhGNjdydFdkX2dWcGFUSjNfN1ZMUVNWQXhrdw?oc=5",
+        "headline": "Skydance CEO David Ellison Outlines 4 Goals For Merger Success, Company Targets $2B In First-Year Synergies",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "11/01 05:44",
+        "published_ts": 1793479467.0,
+        "tag": "Strategist",
+        "first_seen": 1793507440.0750303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaUxBQlVlUk1MZm15VklVZU5aZ0VaYzE2dVV3VUFKWjJSUFlmbGdsazlVTGM4UXJSNWpoY2FsRHpMelBtUmlvUnVFMWFLbWRHSlJmZ1U4ZWNEVktaTVBEZlJDbWt4ZnFYb2ViR3FuRENYWktrYjRZVV80UnZNaW5qcjhGVEN3ckllVUtfa0Q3cDhRTTlsZVFkZTloZHVpd2tpVW1rblZRdll2WkF6QldDT3d2Sy1vV1c4andOb2d0SWxnMW1icU1wVk0tSVV3Y3FX?oc=5",
         "headline": "Jamieson Greer Says US Trade Push Goes Beyond China As Allies Target Excess Capacity Across Asia",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793425621.0,
         "tag": "Global",
         "first_seen": 1793431835.5078795
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQejJyeHBIaldXQkJyQjI5Q2toQVZ3VDAyUEhDRWh2c1IxQzVoZUhNQlc1ZHRSak9WMnExN3F6akUtcFQyZm9rWDdxX2VOeE9CM2J0VXpsbHpNWkRuWUxlS2JBNE9ZZmtnSHN2d0lpd2FVNGVWTG9BSVAyTjNsTEI1dS1B?oc=5",
-        "headline": "The AI Credit Shock Is Spreading: The New Lines of Defence",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "10/31 14:15",
-        "published_ts": 1793423742.0,
-        "tag": "Global",
-        "first_seen": 1793453434.088275
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 13:15:49",
+  "updated_at": "2026-11-01 13:31:05",
   "yields": [
     {
       "label": "3년",
