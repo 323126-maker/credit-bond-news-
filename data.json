@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVzV4WVA5cndpcV9yUTh4RjcwYVhkMFB2RXBXd3otTE9Pam9nVmpka1lCRmdaQ0t4eV9iOFZqQmhjQXRpam9feTNnNG5tOTJJaEJ2SHpoV3lmUQ?oc=5",
+        "headline": "유럽 정크채권 수익률 21% 돌파…신용시장 충격 확산",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/02 08:08",
+        "published_ts": 1793574512.0,
+        "tag": null,
+        "first_seen": 1793575835.3758075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzlxdGdRbnJjUGxjZFVjbWFxMERjZV9FQ0lqOVZXTkdUcldtM0dlWnBUUlJ2elR3OXFPWXdsY25zQ2VvRENGM0Q0ZHhTR3lUSG4tc2xZZ0tvZExHLTlRZE1IcVdOMngxN3V0MUZhZ2E0QQ?oc=5",
         "headline": "흔들리는 숏스퀴즈에 빅테크 쇼크까지…그래도 증시 떠나면 안 되는 이유",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793349671.0,
         "tag": null,
         "first_seen": 1793381435.034064
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5pZVJ5clQ1WGNQTVBqemVod1FJU0FYV2V5NzFPYUpBaTRrc09ySzNscDlBQkJfYVE2RjRIRzdmczJ0RHVobFFEREVRWTBwM1RSM0RpOVNjZ0d0M3QxUElwWG1RMG1zNVN6X3c?oc=5",
-        "headline": "한국투자증권, 최대 5000억 회사채 추진…전액 차환에",
-        "summary": "",
-        "source": "IB토마토",
-        "published": "10/30 17:38",
-        "published_ts": 1793349524.0,
-        "tag": null,
-        "first_seen": 1793371528.147373
       }
     ],
     "perpetual": [
@@ -1830,6 +1830,16 @@
         "first_seen": 1793538037.3646717
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOYUdrLU9vZkRoOFExUXlJRGludFgyRzlhU3BPZVc1ZlM2Qlp2alJuRTloajJiMEpwZzhWQ0hnZFNPa0hjWFpienFmZTVtWmJ1V0RhaTY3aTNnVTBMVjBzSTY4NThwZnIwdEswa2dId2c4SjdYZlM3NlRqOVJpeTVjM01SZXk3MktlT1VBcHp2SUl1ZHNEVVpJd1lLUTBGcmJoajYwSGZOZHNBWlN2M2xPX3FXOUZ1UHhMdU1UWmRJWl90WDAydzB6YlBLYmQtNUZGVTBUaUg1MlhzUl9hUklKdXhWcmpVZ19yREYxbTVVZmVqb2J2MEY1dlJ0ZDViVFR4?oc=5",
+        "headline": "Why Did The Fed Hold Rates Steady? Experts Split On Whether It Should Have Hiked",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "11/01 20:02",
+        "published_ts": 1793530975.0,
+        "tag": "Strategist",
+        "first_seen": 1793575835.3758075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdm9yZ2hjVVVJZk95eTRNSG1BYW5aS2VtdnlaMmpqUGFSeUE2XzIzY0IwTlMxQ1R2c29nTUZIVjJZLXZVRHNYUVNuWmtFdDBKOEFCcVVleTZXNUpLOWs3VmRXQ0pfTUhmcjNHdjY2b2VRSWFrWmdUZ3I5M3ZKVkZaLTI0dXBpdXJZS3hBcnJSRlNLUEhqRXZzdUo1MkFHclVIdGJV?oc=5",
         "headline": "Chamath Palihapitiya Sounds The Alarm On AI's $400 Billion Debt Problem — And Why Treasury Investors Should Care",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793499442.0,
         "tag": "Global",
         "first_seen": 1793557835.9062467
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGdxazlJTGxNNFZTeW9zZ2lBaEFWak5Bb2h3ZDhfOFpJcGFXbVE4UGE5bnlwSWRMdEIzQUYtVFBfYXYwb0FtWTVPT0p6QjZUbktScmRQdXo2NnRZOGhTTzFDTkNLSzJLaFpoMjQ2Sl9vSjFNZVE3aU9KSERoMklRTm4xLUJZRlNy?oc=5",
-        "headline": "Goldilocks or a Bond Market Reckoning? Wall Street's 20% Valuation Reset",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "11/01 10:30",
-        "published_ts": 1793496644.0,
-        "tag": "Global",
-        "first_seen": 1793526325.8203082
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 08:15:54",
+  "updated_at": "2026-11-02 08:31:07",
   "yields": [
     {
       "label": "3년",
