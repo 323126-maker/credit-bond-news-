@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lb0JBUW1EcU1taEt2Z1lTLUx6UVdtbDR2U3lKaVpSTXhvdFdqRklLVm1fMFBCMVdkbk1sT0EwZlpNOHBOWDRmblBSaVI1dHVLa2ozRmJ2YTRmaUxueTlZaDhYcXgtb05IMXhCTWs0MEg0Zw?oc=5",
+        "headline": "미래에셋증권, 자체 기술로 디지털 채권 발행…NH투자증권, 국민연금 활용법 제시",
+        "summary": "",
+        "source": "웹이코노미",
+        "published": "11/02 08:34",
+        "published_ts": 1793576080.0,
+        "tag": null,
+        "first_seen": 1793576726.6531792
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZVzV4WVA5cndpcV9yUTh4RjcwYVhkMFB2RXBXd3otTE9Pam9nVmpka1lCRmdaQ0t4eV9iOFZqQmhjQXRpam9feTNnNG5tOTJJaEJ2SHpoV3lmUQ?oc=5",
         "headline": "유럽 정크채권 수익률 21% 돌파…신용시장 충격 확산",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793350698.0,
         "tag": null,
         "first_seen": 1793351729.2398667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8wcklmUnoxUWpaRXlXUjYxeW1hdjhEU0FIWVo2b3F6ZlQ3ZlVVRW5MV1MxTHRZTG5Xa0g3RDZOa2tFM010WmYtUk93Y0RCSHI0aFFsTURsUDVhV2N2WlJwNG93TWJIVGJ2?oc=5",
-        "headline": "MS, 회사채 시장 9년 만에 복귀…250억弗 발행",
-        "summary": "",
-        "source": "TradingView",
-        "published": "10/30 17:41",
-        "published_ts": 1793349671.0,
-        "tag": null,
-        "first_seen": 1793381435.034064
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 08:31:07",
+  "updated_at": "2026-11-02 08:46:00",
   "yields": [
     {
       "label": "3년",
