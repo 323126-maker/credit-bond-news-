@@ -424,6 +424,16 @@
         "first_seen": 1793492125.4981802
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNN3V6STZQY1hfSTJpT0d0RUtmekJvM1dBRHNsbHo4Y0RlMUxHZUhuN0F5b0RqemtnLWlrOGVJeS1iN29mX0lIa3UzZkVob3Q2b0NITU54ZlZKTjVGRDRJbHRlamN4Ny02dXB1N1k1aDRlbUZ2aC1kYmdGZ0EzRmJmUUxLdUo?oc=5",
+        "headline": "보험사 자본성증권 조기상환 내년 31건… 기본자본 킥스 새 규제 '걸림돌'",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/01 05:00",
+        "published_ts": 1793476800.0,
+        "tag": null,
+        "first_seen": 1793519128.640436
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YQWlGSkpfYXh2c0tCZ3RjaGFnRVBXRlk3VFVUMTJ5RUpndnBiUDI3amtwdEk4QmRHVVFRbk9UZ1BhSzhWMlBlVDJIOVFOejdhaHpzN0dRS0RQZGh3OTYzOFA0RVVDZw?oc=5",
         "headline": "한화생명 후순위채 4000억원 수요예측 11월 3일",
         "summary": "",
@@ -472,6 +482,16 @@
         "published_ts": 1793350698.0,
         "tag": null,
         "first_seen": 1793352633.838809
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ubkpPV0ZYM0xmVGlETF9TWUxBTjAwbFJFU0NhdXMyaUZ2eElGMS1fNENVd3ZZQ0pjMDFLTHg5Y1VYTW9tVnNIeUd6a1paSG8wSklJUHJtRHhOT1ZoaHhxUGxtTWlRNGMteV9pM9IBcEFVX3lxTFBBNHFlRm5pbWhsOXhYYzRHTWNfLW9WZ1hnWWgzWDZXSlpNd2k1UGROcjFzaWFuZTlwZGp6Z1U4aXFneHA5YmNuQWo0d0tiVjR2RTdiYWsxZjNIZ0loN09pS1FLVEtOem5XYjVfckFXYkE?oc=5",
+        "headline": "삼성생명 다이렉트, 11월 보장 자산 점검 이벤트 진행",
+        "summary": "",
+        "source": "뉴스케이프",
+        "published": "10/30 15:16",
+        "published_ts": 1793341007.0,
+        "tag": null,
+        "first_seen": 1793519128.640436
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hcGtqVmszQ3F4cjZFZVB4NXA1U0o5Rzk1ejVTOGZXelBySS1NaC1IcjNELXhwbG92VElwRmlmQUR4TGppeGl4cVRDVGFlVms3QVowOWRKNEs4WklGV3NXX09sUHU?oc=5",
@@ -782,26 +802,6 @@
         "published_ts": 1793076759.0,
         "tag": null,
         "first_seen": 1793080787.5154457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB0Z3B6b3QxOE94WEtPWG9WaG9UN0xSQmhmTWkwYjBOUWdLUVh3d2otQ19aQzEzSDV5Ukx0SndtdEtOZlc0YWFLVUtrcmkzYmNkaHJiSUh5akJ2UWN6S1V3aUZSQTZTdy1hR3p3U0N6WQ?oc=5",
-        "headline": "삼성생명, 첫 ‘해외 신종자본증권’ 발행 완료…2조 규모",
-        "summary": "",
-        "source": "뉴스톱",
-        "published": "10/27 13:21",
-        "published_ts": 1793074915.0,
-        "tag": null,
-        "first_seen": 1793075432.4553106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5vV3BGQ20zV1dMWFlfazFaRVFVNHJxWnZGNGp2QV9MbHJQemNKQ1J4ak5XYlU2YngxcHhmN0lveXItSTVlSU1scnRLaE5WbmRnZENFamJrRDZMakxKTlpQbWpJTFl1TGQ1N2RPM2I4U04?oc=5",
-        "headline": "달러채 신종자본증권 데뷔전 마친 삼성생명…보험사 외화조달 촉각",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/27 11:34",
-        "published_ts": 1793068458.0,
-        "tag": null,
-        "first_seen": 1793069125.750566
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 16:30:58",
+  "updated_at": "2026-11-01 16:45:51",
   "yields": [
     {
       "label": "3년",
