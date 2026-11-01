@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5sanZkeDNvSWxfYkpFNFhkSVBNREs2Z1F1Vm9jZmJWeTNnR3VRNlBnYWxEY1R4aUkyTTI3NGJ5ODlvYU9qRGhONVpIYXVGb3g0NXVKcHpMUk8wQkFzX2FtN28tQjVtWXpE?oc=5",
+        "headline": "미 연준, 금리 동결했지만… 12월엔 다시 올릴까?",
+        "summary": "",
+        "source": "금강일보",
+        "published": "11/02 02:10",
+        "published_ts": 1793553000.0,
+        "tag": "Fed",
+        "first_seen": 1793553325.2349122
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQTh2T0ZUUndUVjdhNGpfVm55LW9ZajNTYXM4bWpiTjVSSXlKckJEekdyOWtjM1d0NG5XWEJBTUZWWnE2aTNqNWpCaUt6blVOMDVvbnNuMmNTSDRiMFczRTRITG9qV2NGS3pON1VwX3VhQmVjLTVZZzJVSDZKdzQ?oc=5",
+        "headline": "The 19 People in the Room When the Fed Sets Interest Rates",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/02 01:12",
+        "published_ts": 1793549537.0,
+        "tag": "Fed",
+        "first_seen": 1793553325.2349122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiUlVZRmEyWHF1andZbE5mUUV6TmFIX1VZZkVQd0RkbDJDRTlqMGVGRzg5ZV90QjV4dWU2Z012eWhpYkxyYkE3UDdJSFZWcXhnSjMyek5ycVViRVNQZmNtMGh5MF9VQmpTWGhXd1RCUUNGejZ3M0E?oc=5",
         "headline": "Federal Reserve Votes Unanimously to Raise Rates 25 Basis Points to 3.75%-4.00%; Warsh Defies White House Pressure to Launch Tightening Cycle",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793463311.0,
         "tag": "Fed",
         "first_seen": 1793488531.0724452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE01S21USFVQY1diVW5TMHJaZGtWNzl2cElNUmNfMnhfNFN3ZU53c25ydUtBaU03X0RnZHYtV3JMOEs5Z0Z1SUNLRkRSNWxUWm9LZm9MRVdBanctRTZqbEZFaTg2OA?oc=5",
-        "headline": "WFC6555472 Bond Yield and Price — FINRA:WFC6555472",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/01 00:50",
-        "published_ts": 1793461852.0,
-        "tag": "Global",
-        "first_seen": 1793469639.090149
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDM4WGd0RW1BQkdQbC1wN1pUdGFOS3diN1pkS1NPbkJUcnJZblNIYzRDVk8zMlJVTXdacEtnVV9NdmZyVzRvY0UtdE5wRWtvR2JCNS0yb3pBaVFrT2RsX1FOOUU3MnhvVE9Kb3g0SmhTU3piczlKSFJmc1dqbXRRRXdPWWFJSEZCQXN6MjEyXzBoZFg2VXViQkFLQQ?oc=5",
-        "headline": "Is Wall Street Bullish or Bearish on Alphabet Stock?",
-        "summary": "",
-        "source": "Barchart.com",
-        "published": "11/01 00:22",
-        "published_ts": 1793460172.0,
-        "tag": "Global",
-        "first_seen": 1793532635.3588743
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 02:01:09",
+  "updated_at": "2026-11-02 02:15:50",
   "yields": [
     {
       "label": "3년",
