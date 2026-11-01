@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ka0FkNGlNb2dodEw2MWRQNUttajFzUW1WbGtTa2pFQmpuN3NRTGtJdXpRd2JUYkRFT2tqdVI1ZjFnOXlHSGtjbVlCXzVwMDdESG10NjZkWXRrZw?oc=5",
+        "headline": "회사채 '캡티브 영업' 제동…기업 조달금리 오르나 [fn마켓워치]",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/01 19:25",
+        "published_ts": 1793528733.0,
+        "tag": null,
+        "first_seen": 1793529032.7351823
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMXBaTDFsSHlzRW8xcDhZRk9RZ01fcVlHN3hxSzJzQkhlRENjLUgwMzY5WEF2Q1Z6UDR3b2Y0ZWlINk5HRlFwZHZ6dEVBTTFMQ0tBbUMyNXNiQQ?oc=5",
         "headline": "빅테크 회사채 폭락·신용등급 하락…AI 순환투자, 뿌리 흔들리나",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1793522614.0,
         "tag": null,
         "first_seen": 1793523640.2911766
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBIZHNWLUNPSkdBaldiRENIS21zSXBVTm1DaW1VS0N2OFhHeUM4d0UzSTg2VGVUaU56djVtZ2ZoVjdQVEZXdko2bHgzMm04ckRpZHdoY0FENTQ3czg1T2xvZFVpajA3TzNC0gFuQVVfeXFMUDNxUDZVTXlVZjM0NlFEYnluYWtXWS1YN1ZVOXBFeTgzMUR4REtqd18zSk9yYVJMRUQ3YTdyTTJzWV8yWDBEcmpTT1U2bTQxVk8tRzNUSjRNRzJhLUl6Q1dxQ1hUSzFNOVZoVFBXQmc?oc=5",
+        "headline": "美 AI 쇼크, 주가 급락이 끝 아닐 수도…금융시장 연쇄 충격 시나리오",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/01 17:22",
+        "published_ts": 1793521320.0,
+        "tag": null,
+        "first_seen": 1793529032.7351823
       },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3czNVbmxkTi0taTNrb1VodnZUc29RQ2ZlLTBha3BsR1dERkVPTm9xZkQwSFdGM3BWUzk4QVdIdWFxNTlGLWRwaU9kLWZzd0tzR29UUmhMQTMyZm5VcDA0VzBYVmM0NGluWTJaZjEzNnNxenM?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1793346994.0,
         "tag": null,
         "first_seen": 1793349923.9599342
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdlZ5aC1kLW9PakcteW1jSlV2eTJBOERYb0J5bzMxRS1rTHJwZ294SWNFbmtneG5Tem9vT0tTUnAtWjlreFRsb2pxMHk5ZFhLUUHSAVNBVV95cUxQcFYta25NMnVaM3A5d09rQUFha0Uzejc0Z3NRcTU2VEZTUnFfaDlqd0w2UVNBaVpVVnpLbFhXTmhWYzAtdkJFZ29tZVQtYkR4b0UyZw?oc=5",
-        "headline": "코스피 급락에도 원·달러 환율 하락…월말 네고에 1334.3원 마감 [김혜란의 FX]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "10/30 16:18",
-        "published_ts": 1793344687.0,
-        "tag": null,
-        "first_seen": 1793497523.7263176
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50YVZVU0dCSS1Hald6LTVtQWNtckgwSDJGSV9fYkQtMlRBQmkzVk81Rlo2SFR2bzlBZ1J3LWZfRGd3ZG1SWGtTT1VjUE51YUhGZDlUek5IVFFyVDRxeDZoOQ?oc=5",
-        "headline": "코스피, 외국인 매도 공세에 3% 급락 마감…5700선 후퇴",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "10/30 16:02",
-        "published_ts": 1793343761.0,
-        "tag": null,
-        "first_seen": 1793493929.1430755
       }
     ],
     "perpetual": [
@@ -1770,6 +1770,16 @@
         "first_seen": 1793506525.8485422
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3dLUUFNMzViNUhXazhObUV0b1laWVNQQjIxVWhDODZNV05Xd1ZOR2RsclZnakpEcEFzRUw2Q3g3MGFKV1JpdDI3blJkT1Zha1hCeWFCXzJROHdKZ2FDS2ZEV1lWRG90V291WE5pNk1nWmlqcEVVMUVJY3loa0tHM2p3OHFyRDBwOUV6YUVhT3J1eDlBeUxCUnJWTEREYjRlcjAtVkRUTUR5RDJwWEJzWHJSWDY?oc=5",
+        "headline": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+        "summary": "",
+        "source": "Nikkei Asia",
+        "published": "11/01 04:11",
+        "published_ts": 1793473860.0,
+        "tag": "JGB",
+        "first_seen": 1793529032.7351823
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQQUt6VjhuX0NTNTA1NlVXd2RPMWhRLWZ1WExoaF9fTzU3TVMzMlhBNlhUVGdqZU9SNjRtZjE5M2pfV3BjNGFLZUhrRnZzRWJKQXVZd1N2WXlYRXJDOUJPWmxBZy1IRzFTbFRIVWM1SXdXT0tzVjZoalcwR093MnZMNFgzVU9OWk1RTDdSbVJnLWdMcWhqS014QlFhMXZZWU53d2pENFpvc0RIZ04wUW5qV3F4R1VRQVRvUGxBUHY3RkdJelhkU1M0VUx6TnFNVURZZldYN2ttUzBTY0tBWHVEcA?oc=5",
         "headline": "S&P 500 Is Hovering At Record Highs: Is 9,000 Next Or Is A Pullback Coming First?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793444400.0,
         "tag": "Fed",
         "first_seen": 1793496635.447221
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOY04xU3ZaVHd0WjhEcGhTME1PS3BUeFZvYjVRM2ktZGNvQzZoVzBESkY1UVF2dVhQaG5FQ3pObFB5aU1RR2RKd2J1ZGt0NFBsdXVHZDN2SXUxSHFfSmZ0bnEyOEpsUHRaZG5BVlVINmdwalItbllNdURVdkZBbTlONzUyM0lBWjdCNTR1ZVVzNE00U3YyZ1hVUXQwUVlJUS1MbEtqdGJ3?oc=5",
-        "headline": "GLD: The Global Economic Death Spiral Is Not A Black Swan Event (NYSEARCA:GLD)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "10/31 19:49",
-        "published_ts": 1793443777.0,
-        "tag": "Global",
-        "first_seen": 1793484038.6529212
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 19:15:51",
+  "updated_at": "2026-11-01 19:30:55",
   "yields": [
     {
       "label": "3년",
