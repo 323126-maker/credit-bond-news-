@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQeEFycWh5VFBlU1I0VkNlQ0VBNkxVeHF1b1B2a3p0SENtQjIwME1fdWstLVZCUFp4Tnc5M0hDVFNfLTd1QXVYcGg2cjl3aHd4YzlXWDVVbmFBYl95SW5NNFl3VkkyV1N6OGpNcE55eDBXbHp0cWowcXFtRmxOT2w0a1RvamY3eG1UdlVwZmJ3NXdzRjNFeUhEU0hId3JPZkk1TEo2S3N5ekxTRWUyVFR5N3FnM0Z5VWw1VVhmSU13OVg1Q04tMjluUThJMlN6MGUtaTZpNmVKSUhTUk8yUTRnME5FdmRzOGJncTcxOQ?oc=5",
+        "headline": "발행 부담 vs 위험회피 매수…11월 채권시장 금리 향방은",
+        "summary": "",
+        "source": "데일리안",
+        "published": "11/01 15:33",
+        "published_ts": 1793514780.0,
+        "tag": null,
+        "first_seen": 1793516437.159043
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1veXFTZWxIRlVvWml5M3FtaHRjN05RNXBmSzBUY2VnLUZVZEZyaTdMUGJRcU16TDlrenQwb1Z5bFIzcXdORFBrNEhjcDV4eGpFV0d2a3lISVdnYThEclNfRFltYzU4NVVCaGg1VGFZUzI?oc=5",
         "headline": "[채권-주간] 증시 패닉에 연동된 채권시장…추가 강세 나올까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793342400.0,
         "tag": null,
         "first_seen": 1793343639.2700627
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE80YnE2eGk4S0tyYjNYc3RENW9Ub01SRTIzbldPdVkydG4yV0hyQVVhS2hpaEpadjZQd1NFVUdjNTFpS3N0S0pDdW0tWVEwSUpNZU9CclVKdkplYnpiYWRDekpWUWY2UVc5MlJtTzdPejRfYnhMVC00cdIBeEFVX3lxTE80YnE2eGk4S0tyYjNYc3RENW9Ub01SRTIzbldPdVkydG4yV0hyQVVhS2hpaEpadjZQd1NFVUdjNTFpS3N0S0pDdW0tWVEwSUpNZU9CclVKdkplYnpiYWRDekpWUWY2UVc5MlJtTzdPejRfYnhMVC00cQ?oc=5",
-        "headline": "MS도 AI 투자에 회사채…9년 만에 250억불 조달 계획",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "10/30 15:02",
-        "published_ts": 1793340158.0,
-        "tag": null,
-        "first_seen": 1793349923.9599342
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 15:45:48",
+  "updated_at": "2026-11-01 16:01:00",
   "yields": [
     {
       "label": "3년",
