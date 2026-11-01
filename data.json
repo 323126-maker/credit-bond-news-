@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MT1JtaVJ5dm5DaDVNdnhPRGhyZGhSSjlDSnN2OWN3THFJdGVDRFRPdmxNQXhEV3dwWlRINUVmajlUS2k0anhXMzNiSWVfclphN3psdHlqODVHLThjNUVDcHFFREZtajd4WXNubmRmMzloQQ?oc=5",
+        "headline": "한투증권·포스코퓨처엠 출격…AA급 우량채 발행 잇따라",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/01 09:00",
+        "published_ts": 1793491203.0,
+        "tag": null,
+        "first_seen": 1793492125.4981802
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1YLXBJMFFwdmlFcnpwM2ZKQ0NuWlFrb3lwZkNMbXc5Mi1nQktMZWVmYkp4NmRqVm9FRkNsTkxyTHMxdkJhemNaNGtMRndzVm1TRm1Pd0pqSEJQZw?oc=5",
         "headline": "AI 투자에 발목 잡힌 메타⋯S&P 신용등급 전망 ‘안정적→부정적’",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1793325113.0,
         "tag": null,
         "first_seen": 1793339124.363018
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5FRVlCbmFFQ21NbzN1Zi1XeFV5eGctdUxaS2tva3g5clluaDJuRHEyeFJ3UjNoNzl0RE5tRVhMYjdHRXZ1YWVQeTU2bTYxV3J5MGJYSDlrYnXSAVhBVV95cUxORUVZQm5hRUNtTW8zdWYtV3hVeXhnLXVMWktrb2t4OXJZbmgybkRxMnhSd1IzaDc5dERObUVYTGI3R0V2dWFlUHk1Nm02MVdyeTBiWEg5a2J1?oc=5",
-        "headline": "[숏폼] MS, 9년만에 회사채 시장 복귀 수요 4배 '폭발'",
-        "summary": "",
-        "source": "SBS Biz",
-        "published": "10/30 10:18",
-        "published_ts": 1793323080.0,
-        "tag": null,
-        "first_seen": 1793331033.699855
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MT1JtaVJ5dm5DaDVNdnhPRGhyZGhSSjlDSnN2OWN3THFJdGVDRFRPdmxNQXhEV3dwWlRINUVmajlUS2k0anhXMzNiSWVfclphN3psdHlqODVHLThjNUVDcHFFREZtajd4WXNubmRmMzloQQ?oc=5",
+        "headline": "한투증권·포스코퓨처엠 출격…AA급 우량채 발행 잇따라",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/01 09:00",
+        "published_ts": 1793491203.0,
+        "tag": null,
+        "first_seen": 1793492125.4981802
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9YQWlGSkpfYXh2c0tCZ3RjaGFnRVBXRlk3VFVUMTJ5RUpndnBiUDI3amtwdEk4QmRHVVFRbk9UZ1BhSzhWMlBlVDJIOVFOejdhaHpzN0dRS0RQZGh3OTYzOFA0RVVDZw?oc=5",
         "headline": "한화생명 후순위채 4000억원 수요예측 11월 3일",
@@ -792,16 +802,6 @@
         "published_ts": 1793067814.0,
         "tag": null,
         "first_seen": 1793068232.2606292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAxZU5nNGtlalFZdlZpa0VyWFkwWG5tWTRORkhmenlBeVRCNXg5QVdIeVR1emhBV0R1VTR3em0xUnQtSFM3SzZXY191YnlfMEZxVHdWZ04ydzM2WlJZb1gtTDVhVkE4M2NIUXFN?oc=5",
-        "headline": "삼성생명 2조 영구채 조달과 연 1,300억 이자의 짐",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/27 11:13",
-        "published_ts": 1793067180.0,
-        "tag": null,
-        "first_seen": 1793081726.88155
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 09:01:04",
+  "updated_at": "2026-11-01 09:15:48",
   "yields": [
     {
       "label": "3년",
