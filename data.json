@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPRXQ0NzRWV2ZGLVdOcC1LNzZCaURnVlhfN2Q1STNadVgzSXdxc1JPdElWajZTb0loZkdzaGZWLXlULWpmTmhwRUVXbzdLdHpqMWdEQ0VJVHJ5TTlqZElrRllXYUpGbnlUT04wOXJiRlozSTRkenphLU9ic2JVa1HSAX9BVV95cUxQT0V0NDc0VldmRi1XTnAtSzc2QmlEZ1ZYXzdkNUkzWnVYM0l3cXNST3RJVmo2U29JaGZHc2hmVi15VC1qZk5ocEVFV283S3R6ajFnRENFSVRyeU05amRJa0ZZV2FKRm55VE9OMDlyYkZaM0k0ZHp6YS1PYnNiVWtR?oc=5",
+        "headline": "'821조 예산전쟁' 시작된다…여야 \"미래 투자\"vs\"백지수표\" 격돌",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/01 13:20",
+        "published_ts": 1793506810.0,
+        "tag": null,
+        "first_seen": 1793512835.8562524
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5iZ0x3OE1ERTd0dlNfSFJNX2thZ3c0T05lUjVDRXhaMGNXd2RCSlNscHRYQ1N1NnRXQW1ITDZSMTRqeHZvMUl5dDRBV2FnZkVzU1lBcVZBUlJuQWRFLWxRQTg5RQ?oc=5",
         "headline": "李, 성장 성과 민생으로 연결 주문…“내수 개선에 총력”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793151960.0,
         "tag": null,
         "first_seen": 1793157331.49146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQdIBckFVX3lxTE1MN3ktRmlNZFRnX3pKS2N2c2tHdFljbE5xYlpWZXNvS1F6amFZeUdxY2NqTG95LWZXbW5Ycm4zb1p4RDROSHp6V3FvVkF3S3I3R2FlVXpKT0xTR0xHekQ3Q2JFR1lCQTdFbUJFbjQ5R0hYQQ?oc=5",
-        "headline": "李대통령, 첨단산업 위한 '선도구매' 지원…\"대출-재정 '하이브리드\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "10/28 09:30",
-        "published_ts": 1793147420.0,
-        "tag": null,
-        "first_seen": 1793152841.4702883
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 14:45:48",
+  "updated_at": "2026-11-01 15:01:00",
   "yields": [
     {
       "label": "3년",
