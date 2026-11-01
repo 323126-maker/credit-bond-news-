@@ -332,6 +332,16 @@
         "first_seen": 1793349923.9599342
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50YVZVU0dCSS1Hald6LTVtQWNtckgwSDJGSV9fYkQtMlRBQmkzVk81Rlo2SFR2bzlBZ1J3LWZfRGd3ZG1SWGtTT1VjUE51YUhGZDlUek5IVFFyVDRxeDZoOQ?oc=5",
+        "headline": "코스피, 외국인 매도 공세에 3% 급락 마감…5700선 후퇴",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "10/30 16:02",
+        "published_ts": 1793343761.0,
+        "tag": null,
+        "first_seen": 1793493929.1430755
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE10SFA4N1BremhFSUZqSk5RZm9wUzRjMFRsLTVTS0ljQXU3OXdmLU1BZXRuSUQ5M0xEc3lYOWxQb1VnOGg1X1Jmak9jUUVpNVRVV2NyTQ?oc=5",
         "headline": "[환율마감] 원·달러 이틀째 하락, WGBI 자금 유입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793326693.0,
         "tag": null,
         "first_seen": 1793340926.3510513
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0td0oyY09SbEFZdHFHR2tDNGxzcktnT0wybUhwTlhwTTB5SkxLbGF1cndkRFQxUVBwem8zQVZKdXg5QnZKd0xBd2RsaG9tNDdjMUtsbE1hQnU2eFdPUUZEMGUzYkRCOW0zZVVBVFBUOEpQdw?oc=5",
-        "headline": "'AI 투자, 금리에 민감하다'는 연준 의장에 반박 논리는",
-        "summary": "",
-        "source": "KB Think",
-        "published": "10/30 10:51",
-        "published_ts": 1793325113.0,
-        "tag": null,
-        "first_seen": 1793339124.363018
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9ubWpQbTZKRThpcnY0WmFGY0ZwQ3RlOUFpNUx3My1hZ3p2ay1Zc0dvbnh4RVRsRWVmOG9jSmltd2V3UXV6NVM5N2UwZDQ3NnkxUnltTUJDeVR3NjFqZVlFNUJ3WUJYR1NpdzNQM0UwaHgtS215aFE?oc=5",
+        "headline": "[뉴욕증시 28일] 연준 금리동결에 3대 주요지수 상승",
+        "summary": "",
+        "source": "미주조선일보",
+        "published": "11/01 06:43",
+        "published_ts": 1793482991.0,
+        "tag": "Fed",
+        "first_seen": 1793493929.1430755
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYmY5TEh5TnI2NXl3d3BCSl9kVUFONE8tWllDakJ6QmNsUlFRSFdNY0Fkak1vLV9TcTFTa0ZXLXAwY1hlR0FFbjdTakFqTUw1SEM2enJGT0ZNUDNUc01kOEI3bDVjR2s0cklWSFZDeGc5RWF2bDdKME41SlJpbHFQekRuSF8xX1J1aVQxRGhvSEZTcXBaak9FMll0Vi1VLTF3WmkzdXV2SGk3aml2Nkd4eG5sTWRIUHU0SmJDWU5ncTlWUQ?oc=5",
         "headline": "Why the sell-off in French bonds is a warning for global governments",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793398596.0,
         "tag": "JGB",
         "first_seen": 1793454677.5448132
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNT0dlOE5TcWF5OUhqcWFZcnA0blA1bkZDTGlQRzZ6emhzc19QbTVac0RjaGdpVWN1eGMyQUN2Sm1uMWoxWE11aHZiWWFudXVvRm4zUDdraFVUMVJfaTF1NDVMUjlRRHdkQmVqTFZxcWMwdmVHMDI0c1U3WnpQajFIanVPSFYtbXByLWlReFhGQVU2bFZZazY4?oc=5",
-        "headline": "Elon Musk Says Neoclouds Face a \"Guppy Level\" Death. SpaceX Just Borrowed $40 Billion to Make Sure It Isn't One.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "10/31 06:37",
-        "published_ts": 1793396237.0,
-        "tag": "Global",
-        "first_seen": 1793396725.3155236
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 09:30:59",
+  "updated_at": "2026-11-01 09:45:57",
   "yields": [
     {
       "label": "3년",
