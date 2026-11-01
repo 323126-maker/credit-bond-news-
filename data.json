@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVnVVMmpOX0duWm1USmZJZ3UwQTNnYWhaRXN2UUlIcE1wRnk1VlgwX3BRWDRjbERRWHN1Z1pRQnI1LTZSNk1vamlrTDRmYjhhUERFaVJWSmU2eW9qYldNetIBYEFVX3lxTE1zVnVVMmpOX0duWm1USmZJZ3UwQTNnYWhaRXN2UUlIcE1wRnk1VlgwX3BRWDRjbERRWHN1Z1pRQnI1LTZSNk1vamlrTDRmYjhhUERFaVJWSmU2eW9qYldNeg?oc=5",
+        "headline": "李대통령 \"다문화가정 지원 일부 문제 시정하는 게 차별은 아냐\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/01 15:57",
+        "published_ts": 1793516222.0,
+        "tag": null,
+        "first_seen": 1793522727.0765631
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBPRXQ0NzRWV2ZGLVdOcC1LNzZCaURnVlhfN2Q1STNadVgzSXdxc1JPdElWajZTb0loZkdzaGZWLXlULWpmTmhwRUVXbzdLdHpqMWdEQ0VJVHJ5TTlqZElrRllXYUpGbnlUT04wOXJiRlozSTRkenphLU9ic2JVa1HSAX9BVV95cUxQT0V0NDc0VldmRi1XTnAtSzc2QmlEZ1ZYXzdkNUkzWnVYM0l3cXNST3RJVmo2U29JaGZHc2hmVi15VC1qZk5ocEVFV283S3R6ajFnRENFSVRyeU05amRJa0ZZV2FKRm55VE9OMDlyYkZaM0k0ZHp6YS1PYnNiVWtR?oc=5",
         "headline": "'821조 예산전쟁' 시작된다…여야 \"미래 투자\"vs\"백지수표\" 격돌",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793157952.0,
         "tag": null,
         "first_seen": 1793176234.226131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1rcWkzTV9YbVRTdjJyQ0lJVUNKMklJQXFnZFAyVUpTYW83QnVQLWVON1hMcF9SU3FfS19KTEV3bGlxVUktRW5MYkhaN3lQZ3ctR1IyNmNEQVMyRXd1ak5wcklCSQ?oc=5",
-        "headline": "친환경 약속만으론 투자 못 끌어와…日 연구 K-GX에 ‘충고’",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "10/28 12:20",
-        "published_ts": 1793157642.0,
-        "tag": null,
-        "first_seen": 1793158232.921959
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 17:30:55",
+  "updated_at": "2026-11-01 17:45:51",
   "yields": [
     {
       "label": "3년",
