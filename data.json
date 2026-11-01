@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3dnWDFyWi1ObUxacmpBeTBEdGdIalhtSng5U3JReVY1anRBWEZqdXl4aEVDUjN1Z21WOFFjOGdJaGl1YzNVNmxFTXRwRWw4dEVvVjZXLWZJMGt4dzBFQzNkZHUwazNNelVBTXlocHBGNW5lckRBOTZoOGVwWjRITkN2QlBPcTdl?oc=5",
+        "headline": "\"AI 실탄, 日서 캔다\"… 외국 기업 엔화 채권 발행 '2.5조 엔' 사상 최대",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/02 05:50",
+        "published_ts": 1793566200.0,
+        "tag": null,
+        "first_seen": 1793566838.5967624
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9ka0FkNGlNb2dodEw2MWRQNUttajFzUW1WbGtTa2pFQmpuN3NRTGtJdXpRd2JUYkRFT2tqdVI1ZjFnOXlHSGtjbVlCXzVwMDdESG10NjZkWXRrZw?oc=5",
         "headline": "회사채 '캡티브 영업' 제동…기업 조달금리 오르나 [fn마켓워치]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793348697.0,
         "tag": null,
         "first_seen": 1793392237.2086372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rb2ItZTNBdVVzSU9hNXQ1WGFzVnlscVVxSmRNZUJXN0F0QWNhMFJjLUpSd1R3eFJPTWYwM2Mxc2pyT0tubWhSVFVHRHRoQ0FNbm9qVXVNcXkyYUcwdFJNMHhRMFVrTnlfQ1YtMS1B?oc=5",
-        "headline": "MS '250억달러' 회사채 발행조건 확정",
-        "summary": "",
-        "source": "세이프머니",
-        "published": "10/30 16:59",
-        "published_ts": 1793347142.0,
-        "tag": null,
-        "first_seen": 1793354440.501186
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 05:45:47",
+  "updated_at": "2026-11-02 06:01:02",
   "yields": [
     {
       "label": "3년",
