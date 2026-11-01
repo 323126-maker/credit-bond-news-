@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4td3ZVWE1YLTNicjVLMTZoTTFpNTVrcERQYzJvcmJ6X3MycFZhN04yUDUtWml5dlREZFNTYnh2VmVIUTdKOElsZVRuSEkzN00zVzBWS2ZiZzJMSlk5SnliT1llSWXSAWhBVV95cUxOREN5bFBTak1GVjAyQTRGa29MY2hYUnFoUUFHMng4cWVqYnlIZnZPcnRZN0VfZGhvbUJuRXZvcTlHN2RFSEdpWHdRa3F0Z0M1b2xTVlJ3dGt4SlYyM25jQVZYM1dpR28zag?oc=5",
+        "headline": "[삼성생명, 고금리 자본확충의 명암③] 삼성생명, K-ICS 208% 최고인데 조달금리도 최고…연 6.875% 득실 짚어보니",
+        "summary": "",
+        "source": "경인방송 뉴스",
+        "published": "11/02 06:30",
+        "published_ts": 1793568600.0,
+        "tag": null,
+        "first_seen": 1793569526.3131638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jcmN3T01QQkZuYW1WWTZGWnNMZ01yTUE5T0d1MG13WU1RSkk2OVZJZkZaZlVZVWlZOU9VWVROVUZpSHhiZXRyZWtOQmJ5VVZ0M3JiTmxnakI0LW9SX1hPZUJxT0g5UQ?oc=5",
         "headline": "국민은행, 3400억원 신종자본증권 발행 추진",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793089200.0,
         "tag": null,
         "first_seen": 1793333723.7758303
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tVlh6M2lJckVCZHdFbjF1MWVrZVUxQXdDNkVtTGVsOFhUUHZKUWg5TEhVRWR0VkxiYVQwanhfZ1hNYmhnNVUwcHY4cWhsNFluTVJPdUxfRXc3QQ?oc=5",
-        "headline": "KB손해보험, 내달 후순위채 최대 4000억 발행…자본확충 나선다 [fn마켓워치]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "10/27 17:11",
-        "published_ts": 1793088713.0,
-        "tag": null,
-        "first_seen": 1793088926.7591786
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 06:30:57",
+  "updated_at": "2026-11-02 06:45:57",
   "yields": [
     {
       "label": "3년",
