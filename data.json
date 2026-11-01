@@ -332,6 +332,16 @@
         "first_seen": 1793349923.9599342
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5pdlZ5aC1kLW9PakcteW1jSlV2eTJBOERYb0J5bzMxRS1rTHJwZ294SWNFbmtneG5Tem9vT0tTUnAtWjlreFRsb2pxMHk5ZFhLUUHSAVNBVV95cUxQcFYta25NMnVaM3A5d09rQUFha0Uzejc0Z3NRcTU2VEZTUnFfaDlqd0w2UVNBaVpVVnpLbFhXTmhWYzAtdkJFZ29tZVQtYkR4b0UyZw?oc=5",
+        "headline": "코스피 급락에도 원·달러 환율 하락…월말 네고에 1334.3원 마감 [김혜란의 FX]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "10/30 16:18",
+        "published_ts": 1793344687.0,
+        "tag": null,
+        "first_seen": 1793497523.7263176
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50YVZVU0dCSS1Hald6LTVtQWNtckgwSDJGSV9fYkQtMlRBQmkzVk81Rlo2SFR2bzlBZ1J3LWZfRGd3ZG1SWGtTT1VjUE51YUhGZDlUek5IVFFyVDRxeDZoOQ?oc=5",
         "headline": "코스피, 외국인 매도 공세에 3% 급락 마감…5700선 후퇴",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793332935.0,
         "tag": null,
         "first_seen": 1793337325.0013514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nRUxjRFktMVVBN3ZKdzljNk5uRThRQXFNeUw5VTRsVHVOcm5CckxFMUxvSE9aMzVZbDR1OEJzQnpvcEx1TThtazlQYjVXWDg5cUl3dVVfcF83VXhDa2Y1Ti1uc0cwNUV6Umc?oc=5",
-        "headline": "부국증권, 펀드 평가손실 500억…유동성 규제도 변수",
-        "summary": "",
-        "source": "IB토마토",
-        "published": "10/30 11:18",
-        "published_ts": 1793326693.0,
-        "tag": null,
-        "first_seen": 1793340926.3510513
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-01 10:30:57",
+  "updated_at": "2026-11-01 10:45:47",
   "yields": [
     {
       "label": "3년",
