@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Mb0JpejBtMlgwT3lNMnRkd3dlWnFVQmR2ZzJzbWZBc2M4azlTLXVMTnA2YzVBTnBsQmZ3RjhBRnZoY2NIejVCMjNsb0liSnJfSXJHeE00aG1OUG1ueFgyVlVHcVpxUVcwUWgyVzQ2X1c5QQ?oc=5",
+        "headline": "오라클, 증자·회사채로 200억달러 조달 추진…AI 인프라 투자 박차",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/02 22:37",
+        "published_ts": 1793626678.0,
+        "tag": null,
+        "first_seen": 1793628041.5470026
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RUFsMHdOSXZsd29lMHM2aEFWVEF0SEV5R2hUbU4yZ21kYjJhVklkNkVVbVQ0MXlSTFhnNDd4MUxMZ195UGlBZHdGVHVSUDM1UG1fZGtoeFFkeUNXaWd2aGV2aWxiVlR3czU1Szl6dmthRG00TEM4?oc=5",
         "headline": "＂70% 건설 밀릴수도＂…데이터센터 역풍 덮친 중간선거 [딥시그널]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793570460.0,
         "tag": null,
         "first_seen": 1793583924.2006028
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV3dnWDFyWi1ObUxacmpBeTBEdGdIalhtSng5U3JReVY1anRBWEZqdXl4aEVDUjN1Z21WOFFjOGdJaGl1YzNVNmxFTXRwRWw4dEVvVjZXLWZJMGt4dzBFQzNkZHUwazNNelVBTXlocHBGNW5lckRBOTZoOGVwWjRITkN2QlBPcTdl?oc=5",
-        "headline": "\"AI 실탄, 日서 캔다\"… 외국 기업 엔화 채권 발행 '2.5조 엔' 사상 최대",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "11/02 05:50",
-        "published_ts": 1793566200.0,
-        "tag": null,
-        "first_seen": 1793566838.5967624
       }
     ],
     "perpetual": [
@@ -1880,6 +1880,16 @@
         "first_seen": 1793605525.52533
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMkxUQmlFVW5HUS1uR3NkUXk3QzRfcGNvdTlqS1V4NERxMmhDeFBsZW1kSTBmeGdrbXl5WVMtdUE5VjgyandWbU41MjZibnVGMFFvUW9JTkx2dWMwWXY3bEFfZE5MSERKd2psSUdxc2JqNmFZRW1MWmxfdUtRV09hUnJMWWQzdw?oc=5",
+        "headline": "Japan extends transition bond push despite fossil-fuel reliance",
+        "summary": "",
+        "source": "The Japan Times",
+        "published": "11/02 16:09",
+        "published_ts": 1793603340.0,
+        "tag": "JGB",
+        "first_seen": 1793628041.5470026
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJkUmZZZ3R3RmtzNkIwYnpHdmd2dVVNSVBlS3RpWGNhcjFTYXZXbk42QmJPdHBDOTRYNnJRVkt6WEp5ZlBEd0w4ZGwybHo4QTVtVXk3YUpIdmVvaThNdnNZTXNJNlpIYTk3ODQ1LWVvMGxNaDZaLUNBZGJjMURXTURrZW1hRjJRcm9kMFNDbldkVlpLY2c?oc=5",
         "headline": "Trump Blinks as Big, Bad Bond Market Bares its Teeth: McGeever",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793596527.0,
         "tag": "Global",
         "first_seen": 1793597435.3881218
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc1VMQlF3OWRsamI3RF84QmNzTmNBa1FLbkQ1ckttMWxpRlFPeGZOdFotSnBDR0tTcnFEbHRkSW0walJKUHlfMEpfUFVrdjFVeXJpWHFuOWprYnlhUjhDVGR3bjZqSjJ0eDI3XzFWSm9UbmNrM0ZHaUZHR1NhM2FPUnplYUY?oc=5",
-        "headline": "AI mania can’t survive higher interest rates",
-        "summary": "",
-        "source": "Financial Times",
-        "published": "11/02 14:01",
-        "published_ts": 1793595679.0,
-        "tag": "Fed",
-        "first_seen": 1793603749.6818938
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 22:45:50",
+  "updated_at": "2026-11-02 23:01:09",
   "yields": [
     {
       "label": "3년",
