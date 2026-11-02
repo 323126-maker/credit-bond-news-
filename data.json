@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE82dENRRmtaRXBvYm1XRFA0SlFtX2FFeXBqNTBPZ1hLZVc3QVEtblVUWWpiMV9YOUI1eXRKUlRvY3ZWNVJwSTFtOEN0VEZKZ0dyR2ViRDN4X0M5eEk0?oc=5",
+        "headline": "[채권/외환] 이란 종전 협상 기대에 유가 급락…美 국채 금리·달러 동반 하락",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/03 06:25",
+        "published_ts": 1793654700.0,
+        "tag": null,
+        "first_seen": 1793655035.5614686
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1LbzJBV2hpbUFlLV9rU01TcnIwLXFKN1RsWEtrd0ZEaGtWU3ZCTW9fVzJFeTJGY0RSZUR4bHppRUdYTDFmU1MxenYzaFA3Q2M3bXJVT3VZZ0VyLUE?oc=5",
+        "headline": "“선거 터지기 전에 돈 빌리자”…오라클 등 17곳 몰린 美 회사채 시장의 그늘｜Global Money Club",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "11/03 04:47",
+        "published_ts": 1793648841.0,
+        "tag": null,
+        "first_seen": 1793655035.5614686
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOTBQWTYyR2pEQmtrSzBxbWMyWnQ2YVhIUGgwT0VhSlVocmpSR3gzZlRxLVFLb3JTa3JfZl9IN01ETFNQS3o1YUpwSHZQUFg1T1BGUlJfLVVGU3hkN0tEWDZIU2Y1ZnlCaFZvT29YZVNzRlZtM1FWc0ZwZmoyLXB3ZmNZS2J1bGlmZ25wWlM5VGpFY00?oc=5",
         "headline": "채권 시장은 높은 자본 비용과 만기가 도래하는 부채로 인해 압박을 받고 있습니다.",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1793578952.0,
         "tag": null,
         "first_seen": 1793584839.6756809
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBCVnFNVWpoVHZIR0hYaEJjV3NPYUd6WjU3OWpoTmw1MXZtbkg1UGVkdUxKZ0pCZEtrTThUanVmam5qb0pwcFdndDdHUnd5S214cVVaMnpzcVBsem56Q1hBQktpN1RlQzZ5UEE?oc=5",
-        "headline": "[부산소식] ASEAN+3 채권시장 포럼···해양·디지털금융 논의 등",
-        "summary": "",
-        "source": "서울파이낸스",
-        "published": "11/02 09:06",
-        "published_ts": 1793578001.0,
-        "tag": null,
-        "first_seen": 1793581249.1429057
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HelRqV2ZJZV9SRVFyY090U09QU2hKQVpoM2QwekY3Slg5MEVHN2R0Yk41RlF0S2VBVG0wLVlXUjNoaWVyZ0x1LTRvVVh3QzNmbWk1SVhyRXRQTU1XdXRYb2xERWIxYVVFcThmUm94RVZUUQ?oc=5",
-        "headline": "AI 투자 실탄 찾아 日로…엔화채 발행액 사상 최대",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/02 08:48",
-        "published_ts": 1793576898.0,
-        "tag": null,
-        "first_seen": 1793577640.738462
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 06:15:48",
+  "updated_at": "2026-11-03 06:31:00",
   "yields": [
     {
       "label": "3년",
