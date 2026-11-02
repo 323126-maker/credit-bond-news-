@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE40S3dkbkpyNGZQT1A5eVM5OEtNTDdQQzZrU0lGT3k3ZjA4djNhMzF0dnNxLTlwTEl0RjdPT1VKdl8zMENBSjllWVNnaDk4ZU5uMDctdUI0WUNQSV9FMjRWckExeHZMUUh1OG1wQmRMcnfSAXRBVV95cUxOcmhZWXVEWEdZcnRnaE5XRHZUNXFrODFNRXNHQkpQVndWUzZDNjh2VUEyMUEwU3FUbV9fc2JMSmxzZnFaWlVxSmtDSHozeXRfelF3dzBpY3VsUGJKT1pSVm5Kby0zNmRTUGdHZWhHRWdjOFozSQ?oc=5",
+        "headline": "IRS 금리 상대적 약세…주가 반등·CD금리 상승 등 영향",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/02 19:00",
+        "published_ts": 1793613618.0,
+        "tag": null,
+        "first_seen": 1793614528.6021523
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VG9nWW5IWGdlUTN3UUU3ZzY1dkRDQTJuS3ZKOWR2N3lIN01aUkNvOWpNdE84N0ZVYTgwMjdQQ01rd21yTnFTUlZXaEw2cUNROFhVZGp2Wko2QQ?oc=5",
         "headline": "유럽 '정크본드 쇼크'…재정위기 앞서 기업금융 위기 덮치나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793505602.0,
         "tag": null,
         "first_seen": 1793506525.8485422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1MS3pNdGdwUFRvV3VrcU9iYUt0T256TWNZUHlEOHUtOGdKcWhZa19ucmlfQklKOTlxcmoya3VyWmR6UFBBWEd3T3lDSmFUemhESDhkTEc1QnpmM2h6NHcxdmd6NGZidVVMUW9n?oc=5",
-        "headline": "포스코퓨처엠 우량채 양극화…차입금 부담에 가산금리 불가피",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/01 11:42",
-        "published_ts": 1793500920.0,
-        "tag": null,
-        "first_seen": 1793502039.5281522
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdzA5cUFTcjRkamd0aC1jM0diVkJfMERYQmlxeGRlSlVhVGlMdkpwQVBjOGhTb3p2YjZVM05Fc09hTUV2eGZxRnRkczZOU3RWX0FkRnczRDM2dnFSVDBDVzNzU2NhVFVuRlFhZkZoSmlVa2xqNWwyZy0yY3JPcHYteWktM0U2VXM?oc=5",
+        "headline": "Tech Selloff Tests AI Spending as Market Leadership Shifts",
+        "summary": "",
+        "source": "eToro",
+        "published": "11/02 19:00",
+        "published_ts": 1793613652.0,
+        "tag": "Global",
+        "first_seen": 1793614528.6021523
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSkFCcldfd2R1OEhxRzNiUDBJcUthYnNwcDF6aEJJdFp4V1VjZ2duM1hpZHhOOHhEZUVwWElMbWROTGtORFNaSmVqSFlTN3EyTk9WdEp3d1Y0amRfbi1MMHJYWktVWGV5cXNCclJ6Z2ZtUmxZa1ZkX282R3hKQWpoLVdVRkVCWG9LSHMtS1VaeGF1UmlpMXhXTldNZGtNdk55S2txMkNWNWs0aE9uZ1ZkM2tFVU1EWF9DUndKeGtYaUo?oc=5",
+        "headline": "CLOs: Relative Value Opportunities Emerge",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/02 18:50",
+        "published_ts": 1793613000.0,
+        "tag": "Global",
+        "first_seen": 1793614528.6021523
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGU4TjVLSlZYUHJHcUQ4cGQxMGF5WU43WllObHdLbVlObktwZDhrbUU2cUstUnA5di1reGEwdkt6bXJwTS1jVnFjX0syLVc1UmJHQ0ZJSlMzTnh3c21BUkZxWXZNZDJlc3BUY256S0NyWXN5MVhZaWd5MXpwTGVURVcxa1hycURqMzluMmM0cl82X3lBRDJZcU1aajB0UFZ4N2o3MTRrOGpyTENVUGlrWU12a1N1WlhsNmpvcw?oc=5",
         "headline": "2 Words From Fed Chair Kevin Warsh Are Echoing Through Wall Street and Unnerving Investors",
         "summary": "",
@@ -1987,26 +2007,6 @@
         "published": "11/02 09:47",
         "published_ts": 1793580459.0,
         "tag": "Global",
-        "first_seen": 1793581249.1429057
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9vWkZpa0hmNi1XZ1RFQnpYcTZYU29fSXZ0RUxDNEVZX1JmZldpa3h4eE1DSXdwXzdHUE9ZVjJiOEpmTjh6VFAwWTVyZDRMcEFGRWZiM3JnQ1F6cnBCWUE?oc=5",
-        "headline": "\"일본은행, 연말 추가 금리인상 전망…엔화 강세는 제한적\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "11/02 09:41",
-        "published_ts": 1793580060.0,
-        "tag": "JGB",
-        "first_seen": 1793580326.4182904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBwWW95TEY1SU9mRU1pSEstSHJyNFFXRWxVckNrTEZIbU1EbEREcGdPMHJfRUtHOUlGd1h6UU5ZYTdaRjdYdWMwc3BIclNEUFZtd0FhRWRpUDBual90Qmc?oc=5",
-        "headline": "환율, 1330원대 중반서 등락…美 기술주 조정·엔화 강세에 달러 약세",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "11/02 09:30",
-        "published_ts": 1793579423.0,
-        "tag": "JGB",
         "first_seen": 1793581249.1429057
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 19:01:28",
+  "updated_at": "2026-11-02 19:16:04",
   "yields": [
     {
       "label": "3년",
