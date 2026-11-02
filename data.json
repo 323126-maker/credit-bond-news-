@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFNxRWFsNzdoRmxta181UnIyVllGVGdtcDNFaDk0d1JTSFFBMDRtQ1FRWW94Zzg0MHpSY2NQQllKXzZtWTBKTzNaYjNwTEdyTm1URFk3RFE1Q3Iwa3dpZFA5QzJFNkZ6UjFVWThSRzlwZ0dlRV9NeDBvUTZVaE5GblBlZmwxNmFpN3dhYTY1WVh5T3l5NnhsVWFoN0pUOWxsNmMtZw?oc=5",
+        "headline": "John Hancock 2015 Lifetime Blend Portfolio Q3 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/03 01:32",
+        "published_ts": 1793637120.0,
+        "tag": "Global",
+        "first_seen": 1793637940.2141728
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZ0dhLTFWZnYtNkx2V0F3VC1GV19XNkExeVBzaHZaVnlWMWVnbnAyVDdjRlJaYVBvdGRHZEZZQUtYZGMxcHNRNHBtV25UbzVHUFpQRm9SM0FFRG5mYVZoMVNsVFBkTTdwRkliUklsSWVFa0tjWTNMOF8yUUNwRVRsUUtLZ05tcE43eEJCWWptX29yZ1JSSFlPamtCd3hVaTFwWDQ3SmFwd2ZORjljUi0wNF9FYjBFUlJPWkZHekhrMUY?oc=5",
         "headline": "These 9 Words From Kevin Warsh About Interest Rates Should Worry Every Investor",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1793635715.0,
         "tag": "Strategist",
         "first_seen": 1793637037.2488542
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbUFtUWRCd2YzdnA1RzhnQjRqaHNnZTM2UzRnVTBjYzFoY1N6Ri03UDNERW1tWlp5SVZ6c1hSQU9xdGJ3SFpXRGR0eTZTaXNfajNiRWMxMFBMajFBNXY1ekx4TGJuY3NRVmZJSkRRNHFydTVqbTdtMVJkcXFsTjFkTjRFRU5zcVNpWVM4ZFAzUWNtYjAzaTZEUEViSW96RDVmT29XUw?oc=5",
+        "headline": "Israeli military withdraws from West Bank city of Hebron after 10-day operation",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "11/03 00:47",
+        "published_ts": 1793634428.0,
+        "tag": "Fed",
+        "first_seen": 1793637940.2141728
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE83VkdGTk1JVHJPT3hQVjQxVDVxd2pDLUJvbzhNWW1TdUZqSFI4OGNPV2gzVC1oU0FSUG5kVWJsamEwWE02ZHhXdEFHSWhWdDVEc3F0cnR0WmhpekZOUEViUjllb1A?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793607228.0,
         "tag": "JGB",
         "first_seen": 1793612724.415208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVjR6cWlyQjBPZjU3ak00TEpDZFNzVHZlYUV1dkpzRF9jb09RZXRkcnV0bnRQM09FUlBhU2poNXdnbXdXb1U3LUExbEZ5NlYtSnlGRHc2c2E1bDYybV9YazZIOFl6bmpoZURzQ0NEOG9OVjRYOFJKNGxlSGowR1lqallBZThwekt4M1FoekdGbnlHVVJiaHVLZ050ZXRQVWJRUmhWMDRQMTJZSVMxNjUtUHBrRE0yaDE4eTY1WFBweWRJWUk?oc=5",
-        "headline": "Kevin Warsh Offered a Warning on Inflation. Here's What History Says Is Coming Next.",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "11/02 17:12",
-        "published_ts": 1793607120.0,
-        "tag": "Fed",
-        "first_seen": 1793607741.4624448
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNc3VqVE8zQ1pKQ1RyWUlzdmZ5OWo0M2FVTTc4Z0prbVVZUUs0QTJlNEkxZk12MDFuR04wbGZBQWdET3ljX3FvRWhVMnF4NjZhTkFDRkdvQmp3Z0xPTUZtMGVndWZnbDduR2RtRlJKdFJJZU41b0pwd0YtTjV4VzdzaUxYTzZMcTJpakpjaW1YbjEta1d4dENnSm9XQ1J4ZkRvX3Y2LXZzYjlHMlJyV0lyNThpaHA?oc=5",
-        "headline": "Brazil Shakeup Sounds Warning on Crowded Emerging-Market Trades",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "11/02 16:24",
-        "published_ts": 1793604240.0,
-        "tag": "Global",
-        "first_seen": 1793605525.52533
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 01:31:01",
+  "updated_at": "2026-11-03 01:46:12",
   "yields": [
     {
       "label": "3년",
