@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5TM0lsZXczeFpSSmNaODlEblJfZDdoUktWcXdtaDNkRW5TU2J6alVwY1ZaOXlxdk1INGZzdy1uaEs4M2h4ZHVMbGhIbzByYm5QM1BKTU1lTF9TVWU1?oc=5",
+        "headline": "[영국 특징주] BP, 캐스트롤 매각 완료…부채 상환 재원 60억달러 확보",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/03 01:04",
+        "published_ts": 1793635440.0,
+        "tag": null,
+        "first_seen": 1793636129.8961937
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhbWNfYkQ0Ui1lS1RHME5JQ2UycXU2UkhXeE4wb1hXbjVWNnY1X3VOZXhEdHJubzB3Qm1RSXB5MGhWV1hoQVRnd3pLLXRCMVZienZoSldHWmk2YWs1ZkZ0SHh2YjBjMW9UTDBneWlvTQ?oc=5",
         "headline": "실적 발표: Alinma Bank, 2026년 3분기 매출 예상 상회·순이익 예상 하회",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793262998.0,
         "tag": null,
         "first_seen": 1793267125.894111
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13YzdYQTRraVIwSmxoaF9hT2FkZmdXdVctb1FOM2Z0NXM2OE9nU3lNTW5TT1JkNnVtZWc0SURwbGZJMmJ1UVJ6XzBnbnBUZms?oc=5",
-        "headline": "KB금융, 신종자본증권 잇단 발행…자본비율 관리 총력",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "10/29 17:31",
-        "published_ts": 1793262701.0,
-        "tag": null,
-        "first_seen": 1793264441.4551988
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 01:01:28",
+  "updated_at": "2026-11-03 01:15:55",
   "yields": [
     {
       "label": "3년",
