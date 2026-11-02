@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMEo2dElkei1iLUo5VDlZakMxaUJuRlJiN3h6Z2t2blhJZVRfSU56Vm5MTUljbnJlUjRiWEl5SkZjajNaNHFubG1Iay1JNVJvMzlTV2ZkbjJfeFZzNU5DX200eTJfY3g2Smk1SUpxYlM4NTdFUXRydmFuRG9KUG1hQXFmZnBCT2lOWUpvejNHZzk0eHNXa2hLUDdBZ0lqbGt3THlIc1Z2OTc1NEE?oc=5",
+        "headline": "Oracle Curbs Borrowing as Credit Risk Eases, Microsoft Bonds Slip",
+        "summary": "",
+        "source": "Seoul Economic Daily",
+        "published": "11/03 06:44",
+        "published_ts": 1793655845.0,
+        "tag": "Global",
+        "first_seen": 1793657727.4217122
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMkJLaEk4YjZBRm44NTNfajA1SVhxNXBtN2YyNS1HWTZISlBCNG9fMUpkbHhuUjZITlpGZjB2NmppR2VtVXR3VUF2UjJZYlFfTXR5Z0FpM0lKd2FZdURSbTFQVktlMWJKeGRzV2FnbGlpUW8tcmw4M0phQUw0WE93ajJrbEMtLW9J?oc=5",
         "headline": "부채 118% 프랑스가 127% 美보다 위험한 이유 \"자기 돈 찍는 중앙은행이 없다\"",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1793625314.0,
         "tag": "Strategist",
         "first_seen": 1793651435.7903671
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzZvd2VDUjFid3Y0a1pyaW15ZThpNEJYTC13NURtYVdnT3FyYU5VU1JWNWFyTXo5Q0lIbnpLdVV0bzZqYnhoYmZ3SnFPQTNUSHlFNVNwM3VjVUNfcEczOTcwU3o0bk9fSEd0NDVQVld4M29ra2VnM3NqVDQ2NXU1UHhwaXpodmVMSWM3N19INXFpU0hvQk83NVZ0bTdGRGFjU3dvaW45X1c5N1Q3Rld1Z3RxQi1vMXpXLTU0cnVDcUo4dkFoWUE?oc=5",
-        "headline": "일본 엔화, 미 달러화의 완만한 약세에도 보합세",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/02 22:02",
-        "published_ts": 1793624574.0,
-        "tag": "JGB",
-        "first_seen": 1793640638.8589416
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNcExoLUFHa3U1c0FzbXctck9HUjVhd3RTZUF1UGswWmUycE9lN2lzV2xqT3lOb0ltUGp1TjRIaVRwUW9zOUVRY21hNU9RUG5vblZESTB1NnJKTnZSR3ktdUpKdG00VmRMSzRoalYtemVUVkRNR25MZEx2akE1SnZQRzlpTQ?oc=5",
+        "headline": "무이자에 풋도 없이…증권사 돈 넘치니 등장한 '대기업 맞춤 메자닌'",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "11/03 07:04",
+        "published_ts": 1793657085.0,
+        "tag": "한국항공우주",
+        "first_seen": 1793657727.4217122
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tQWRSWDMzQ28yNkJYR2xuV3Azd0M5bWg0VDRPbWFiMjBpOHg3OXljcmxNYVpXNHNpdkIxSGNkdXV1eW1QdE5JYkhiQnFUSng5em5RTGVVcmUxdw?oc=5",
         "headline": "유진기업, 14개월 만에 회사채 복귀…우리금융 지분 매각에도 금리 5.8% [fn마켓워치]",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793239183.0,
         "tag": "삼성카드",
         "first_seen": 1793419239.209432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kdGhaYjFJb285NURIM2g5QURSTFU0YmVacUs2NUdkMTNxS29CRU9yT2lsZEZoM3k5S1UyaEItWVNULTFBVWdwdTBfdHkwSmlBRGp5bVBBSlo?oc=5",
-        "headline": "1조원 수혈에도 순익 68% 급감...우리투자증권 '딜레마'",
-        "summary": "",
-        "source": "뷰어스",
-        "published": "10/29 10:12",
-        "published_ts": 1793236341.0,
-        "tag": "우리지주",
-        "first_seen": 1793236524.426857
       }
     ]
   },
-  "updated_at": "2026-11-03 07:01:05",
+  "updated_at": "2026-11-03 07:15:54",
   "yields": [
     {
       "label": "3년",
