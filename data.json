@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JSnVrTUw0dlU5WENLNXRSRGpvS1VwTklaN2NQOGZFY3lSUG03U2dJSGg1OHdNNmNadUpHeklqcmM1Rm5KRnl5MHhfV1VtNy1pLWlUTlZuU21oampiY3c?oc=5",
+        "headline": "\"구조적 인플레 위험에 저금리 시대 다시 맞기 어렵다\"",
+        "summary": "",
+        "source": "동행미디어 시대",
+        "published": "11/03 04:55",
+        "published_ts": 1793649300.0,
+        "tag": null,
+        "first_seen": 1793649641.9462833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNVMxNWQ5RmdVSTg3RVJSbERIdFZlanlYOVhFUDdlN0lZOVlkdl9LZWVLdWZ1QVF6LVZkN1ZmaWZZWnBCYnl6NVBkTGR5cjV1d2t1bVRra3Atd9IBVEFVX3lxTE1KNUo3UjFQNi1sUGR1ZnVQOUxzLVV3R2pIVXl1Rm90VjJyNHRCRmQwcXlobnV1TGtYSVdvVW1RdDhBVjZMTXJHRGlkeXZ1LU0yYUVMSA?oc=5",
         "headline": "금리 올라도 NIM은 뒷걸음…4대 은행 '조달비용 전쟁' 전망",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793259720.0,
         "tag": null,
         "first_seen": 1793293241.482287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ia0ZsVmxwLTNBMEtiTDhnQTJJOTQ3VnFXZkczZ2tjQy1BNENVNjlSaDRiTVpmYXZpZEx1T3dpZmxzM1BYVl9Ea1g4aXFXc2Z2NFlIeEs0Y3VTeVZsQi1wR0lkTjM?oc=5",
-        "headline": "[기획] 미국 금리 동결 한국 증시에 호재로 작용하나",
-        "summary": "",
-        "source": "매일일보",
-        "published": "10/29 15:16",
-        "published_ts": 1793254598.0,
-        "tag": null,
-        "first_seen": 1793255434.6229963
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR3ZQbzQxalFkZlhjZzJ4cGlkVWkwX2VqTU9ieVdqTkxIdmZlR0VYRVI5eTZMalJFR0VFVjBfcXBHZDN0T0Nnanh3b1NpYWFXRG52SG5ucjB6OXNLUFY0YlRBZzlOb2hzSjhwRGFUUExlMDQtbFVaOFpJaXRJN1Nwc1ZkSGRuRTFa?oc=5",
+        "headline": "엔화 157엔대 털썩…美 중간선거 후 유가 110달러 뇌관",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/03 04:54",
+        "published_ts": 1793649261.0,
+        "tag": "JGB",
+        "first_seen": 1793649641.9462833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZNTNuM0dnUjZqMmpLSnhYQlVHWVEtdlhzOGtEM2dWS09NTm5od3VhSktKNURYaTlRTG1tRjlUYnhVOHdlTW9pVXpZNER0Qm5lMmt0anFmTDZ2QmFrSUlEUFdjRkw?oc=5",
         "headline": "MSFT6559542 Bond Yield and Price — FINRA:MSFT6559542",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1793637906.0,
         "tag": "Strategist",
         "first_seen": 1793642441.7108757
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaXlCU3poVFFGMFhhbFhTZTd3azhBV1U4TklfTndRV2Z5cnZUS2wzSkJCUXpmQmVWRXhQU1o5dU13blltdkM3Z01FdS1OVmxibWY1UGZmNjladEI4Ry1NbVhhVnBIZVRUTjFnZHRFbFBSMWJJR2tadnJqajVBUVdtWDdiX0xWcDh2RE5lcHZTeVVYMjlPUE0tY2ZfYXVpOE42czJucXdB?oc=5",
+        "headline": "Fed chair’s new claim to fame: His racehorse Deterministic won a $2 million race",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "11/03 01:41",
+        "published_ts": 1793637666.0,
+        "tag": "Fed",
+        "first_seen": 1793649641.9462833
       },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFNxRWFsNzdoRmxta181UnIyVllGVGdtcDNFaDk0d1JTSFFBMDRtQ1FRWW94Zzg0MHpSY2NQQllKXzZtWTBKTzNaYjNwTEdyTm1URFk3RFE1Q3Iwa3dpZFA5QzJFNkZ6UjFVWThSRzlwZ0dlRV9NeDBvUTZVaE5GblBlZmwxNmFpN3dhYTY1WVh5T3l5NnhsVWFoN0pUOWxsNmMtZw?oc=5",
@@ -1950,6 +1970,16 @@
         "first_seen": 1793627128.5533812
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2ZHRG04eEtiZW5UdXUtVWc4TFBwZmpNckMtVTZrWTFsZzE1SGIwemIwZExWb1dtVFFhbGtKYVJmLWR4TnNSQjdObVBtbFJQYThjOXZtRmdrWGgzQ0JiNHNmeS1sMGNCMXg2X0hoNzcxU2I5eHc1Z21FVHVoOHdIWHRlUQ?oc=5",
+        "headline": "Japan’s Bond Yields Tick Up Ahead Of Key Auctions",
+        "summary": "",
+        "source": "Finimize",
+        "published": "11/02 21:10",
+        "published_ts": 1793621452.0,
+        "tag": "JGB",
+        "first_seen": 1793649641.9462833
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXZEZVR0eFFhajNmbHRXVldFdzBMWXlOWHo5WnhHcTJHR0t3bng5SEZNVERBU09IRW1Va0xMVVo0MlVGX3FxNHo1MTlVUHlDV0RGZ21FZVg5QjAzUGZ0MnA4UVpwWXBSdUsxTldiTHEzbEItRnVwdlVvSzM1LXJtdF9OWU94bXJnaEFMckdlRnZ6WElLeUlmYVpjUGlETzU4UkpXV2NSUFFPYmlC?oc=5",
         "headline": "Alphabet Kicks Off Sale of Its Second Euro Bond This Year",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793618749.0,
         "tag": "Fed",
         "first_seen": 1793627128.5533812
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlB2azc4N0lrZlFEUmF4S2l5NE42WjRjZGZMOWR0ZERTREoxUjd3Qm4tTE54ako0RVllQVAtWW5fY3ZXNFRmd3BCX0RjSE41S2xlODdtNFZ6d0FSWDl0Wms3MG9FOEh5c1FLQVJINDhZNmxaWm0tWkFwbjl5Tkd1N05NY0wwNG80TWJOVEVsVlY0UnZMcWdLakNyaFNfTm1aNUdEMTNhSnJkamNvSkl4Qk11NTlWODRJdE4zdGdpS2ZBamQyWVBHbV9WZDBBcERWTkUzajJ0em9kY0ZrMXp6Q0RQX012aGxQ?oc=5",
-        "headline": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff",
-        "summary": "",
-        "source": "The Star",
-        "published": "11/02 20:25",
-        "published_ts": 1793618700.0,
-        "tag": "Global",
-        "first_seen": 1793629836.366896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDlBeVhENjdmbEt3NFAtVmltQzZVUURZX2x4NzZCeExmSWlRTUkwTmxTb0JmMThVbHJIUXZtdXpNS2lUMFVjWm5scTA5Y1NZVGFMSF9ZVDNDMGZ0Qmw3R3V4Tk9MclFTOEJNS19oRTZEX2VnS3Bma1g1V2hpZEhoTVB4NEVCZGk0UmRCeW4yMA?oc=5",
-        "headline": "Why Fewer Fed Policy Meetings Could Spell Uncertainty for Stocks",
-        "summary": "",
-        "source": "Barron's",
-        "published": "11/02 20:00",
-        "published_ts": 1793617200.0,
-        "tag": "Fed",
-        "first_seen": 1793624445.742941
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQeDB5OFd5bTB6RGVseWhlZnoxOE5CSlc5d2RhcE9FRGpwalpIM3Bnc2hacWNIRndIV0o5VWp2SXhJQk1tMXVpaUdBOVpteXRzV3V0Qkw0MW9EVHpJNGRtZ0Z2cDk0SVp1SHM0MHJuaVQxWl93anZ0bE5neFJTM3ZoMmh5Tkw0WTMtMDlVYzcteGFGTWRhak1pNTVyN1BzeFNkbWJkclZ5WjVDRGFiaGdQbFJ4Sk5KNFhYWllPcnlXZFF6MkpoMlAyeTNMMUh6aEphaHpWXzRxWlQ5RExvdGtXSkJLN1dtbnNsaVhWbHpmRXJwZncya2VudXZUZnBYb0VncXc?oc=5",
-        "headline": "'Bond King' Jeffrey Gundlach Slams Anthropic’s Investment-Grade Rating Bid: ‘Any Rating Agency’ Giving It",
-        "summary": "",
-        "source": "Benzinga",
-        "published": "11/02 19:50",
-        "published_ts": 1793616648.0,
-        "tag": "Strategist",
-        "first_seen": 1793617242.0802042
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 04:45:51",
+  "updated_at": "2026-11-03 05:01:07",
   "yields": [
     {
       "label": "3년",
