@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1LWUFfOE1tby1pbVdhM29jc2prNTNLU0VsQlJlVHVoalFtV0tqbm01THg1WHd6NDN4Tm5DZ2hLYTNVOUx4NkxDYnZ3?oc=5",
+        "headline": "비트코인(BTC), 2년 연속 업토버 신화 실패...범인은 '인공지능'?",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "11/02 22:00",
+        "published_ts": 1793624400.0,
+        "tag": null,
+        "first_seen": 1793625330.3691287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAxdWpYSmVDSWxNd0RQV28talRXMlZ5S2NaRk5vQTRzaVhwcDJrOF95aEhmT2lVbmVVUjQyZDVDeE1mTDB0ZHliVDh2bVUtQmFFdWYzZWp5RFNzOWpTNmZpZnRLQXBlY2lPeU9Idm8zTEo?oc=5",
         "headline": "[亞증시-종합] 테크주 약세에 혼조 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793522614.0,
         "tag": null,
         "first_seen": 1793523640.2911766
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3N3BrOUtPeXdNcGIxN1NQa0cxTkxxd3FFcWhLdlJ2cGduZy1fM3p0WC1UZ3NRS0ZWdzV3MHFJRXhaMHFxSWhUT0dnUzdWb0VNbTEyRzNxNUlvdw?oc=5",
-        "headline": "\"돈이 마르기 시작했다\"…AI 열풍에 닥친 '초대형 위기'",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/01 17:41",
-        "published_ts": 1793522509.0,
-        "tag": null,
-        "first_seen": 1793558717.0743425
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJVZGVGZUpJa3NyR2x4anMzdWZNSFRBb2EzSzJ2V1FkekpKWkR0bFh4enlJbDBueTlLLUw2VWJTSzhNU05VdFdpdHNiTnRPd0d2TDU5RXZvVG45a1gyQUZWdmFJQlNDOXR3Y0h6QWZZekZ1eWRMc2lieko4NlBGQ0I0Y0VFdXAw?oc=5",
+        "headline": "Mohamed A. El-Erian: WTI crude falls below $100, Brent slips under $110 amid U.S.-Iran talks",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "11/02 21:35",
+        "published_ts": 1793622908.0,
+        "tag": "Strategist",
+        "first_seen": 1793625330.3691287
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQc21VUlFmOUtLWlY5TXFvMzktTEo4RlpMOXlCUnF0aE81Umdld1BPUmhWUW02dS1sNExRNGZDZDNMMDV1WXZhMExndEtWUlY1QUtxV2hsbW04anF3SzRWWFRRaVdZTDF1c3NQQWhxTkRiOTBIeF9fekp6aHlyZGhTbjRrajRXTnRlc3VBbThKZXluczZ2V1NabThWQ0xzT2xtbjhoYVhFZ1UxQzU2UWNVOTdGQlBGbGgtZHdnTmozVTVKX1NsbXZzWDlMdVJ6a0s1QVZld1lvWnNlX0pWVDVsWF9yMFdoWTNtS3Q4V0l3SjZBaHNOZUNyWGJ3?oc=5",
+        "headline": "As Washington Debates Economic Leadership, Fed Chair Kevin Warsh Shakes Markets With Rate Signals and Plans for Fewer Policy Meetings",
+        "summary": "",
+        "source": "Istituto Impariamo",
+        "published": "11/02 21:28",
+        "published_ts": 1793622507.0,
+        "tag": "Fed",
+        "first_seen": 1793625330.3691287
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPanJOVk1QWUFCWFBNcDhEdGdObkxfYWRxTGdDTy1lMk9zUWhsZEtkYjAtSlNweXhpSmVkSksxMy1vTjhSWEpLREJidG5VckVIUElPejRtUXN4eVltSUhlX2d5dElhV3FNSmV5X09fRklIeFJuQnhaZG1QaUN2OV9sQUdMSDlpczlkWEpoemxLTnc2VnJLSHI4SQ?oc=5",
+        "headline": "Man Group: Credit market’s margin for error has narrowed",
+        "summary": "",
+        "source": "Trustnet",
+        "published": "11/02 21:14",
+        "published_ts": 1793621687.0,
+        "tag": "Global",
+        "first_seen": 1793625330.3691287
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV0REbHBRYklYTTJrTFA2X3lBVFU1RzZvQVEwelNkV0pVWjRWa2c1aXVkYmRHaE81WnhXNnJzX3liem9GYXIxZFFmTGZxYkdUWDdmQmc0NmdHem1DWXBKdVpLSkxMT2llYXVUR1RiNTBseE9DRGExeEYwM2h2VlcwS0E0dFJUak5EZVA5dHBsNjlzaFhIekhubmw5Zw?oc=5",
         "headline": "A Corporate-Credit Heavy Fixed Income Fund With Appeal",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793592420.0,
         "tag": "Global",
         "first_seen": 1793592927.2504308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdVdEN1g2WWZ4MV90SHg0bjBnbF8yd0xkRlBwM1pHM0VVeFFVNko4eDB4MDhxMC1LamRHa0FZUkVyUmtfNThSQnJnNmQ1N3hIeEtpd2hVT3EwdmQ5T2VaSnlyWVA1VksyeGRRbXZEcWpCUzNDa0NRSzF1a0FZT2RpbG8tNVNMNlJfV2pkeG1IbnltcVQ2NnFBQzlKVW1LSmpKbG9HY3lrZ1MxeGF5Ty1hSk9YNXprbkk?oc=5",
-        "headline": "Hawkish US Fed, higher bond yields could test emerging market resilience: Fitch",
-        "summary": "",
-        "source": "Times of Oman",
-        "published": "11/02 12:56",
-        "published_ts": 1793591760.0,
-        "tag": "Fed",
-        "first_seen": 1793598323.6764874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQk8zWkJmVnJOdjVpck05cHJ5enF6NkVZN0JoUkl2cmgxRnlDOUtHTTZlTGU5T3NPbktESjJzQTB1clBYMU0yM3ptODdVeVM4NkZwMS1QLVJPTWV0N1RKRUp1THl6VjdvdGdWc1ZLSW4zX2xFcEdGT3E5MDhhbHFnNkhZcU5xdHpTWFMwMTExSXhQR2M?oc=5",
-        "headline": "Global cues, oil prices to drive market this week",
-        "summary": "",
-        "source": "The Shillong Times",
-        "published": "11/02 12:41",
-        "published_ts": 1793590913.0,
-        "tag": "Fed",
-        "first_seen": 1793605525.52533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3I0ZnhldThhaEwtNHlCcmpwaFA4NzBYa0JfMEc3X1c5Vnh1aGd2clUyWUtaYkRFck9sTWw3R3gwcXk5c3YxU1BjY1c1R0szYWFMUG03YTBlcDkzZmdqT3JiZ1Q5SmhIamNGRDZSR3lwdDg0WU10VXpEalpwa3c2dXFQR3N1djhmNTNCYktVVFZBUVhabGRuZl9YelNfVFlVTkxqWWxRbmdWQQ?oc=5",
-        "headline": "Japan's Finance Minister warns: U.S. midterm election results will not alter the Japan-U.S. consensus; the government will intervene in the event of excessive volatility in the foreign exchange market.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "11/02 12:07",
-        "published_ts": 1793588856.0,
-        "tag": "JGB",
-        "first_seen": 1793610938.7664876
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 22:01:15",
+  "updated_at": "2026-11-02 22:15:55",
   "yields": [
     {
       "label": "3년",
