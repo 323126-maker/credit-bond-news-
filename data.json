@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtWlJBN3ZCdDd1d3F0SXNjR0dENDdqZnVpMV9SMXNaa0pNTUhremRyYUhTSE9xV1AwUHRhWEhGcHhzSmpPWVZrSjA2WmtpZDRz0gFUQVVfeXFMUFhReTBNaXJwSlZvTmMzenEtdjloOFdnRzVFVzFmbHU1Q2dTb0toYUhLMkVYX0t5ZWRrNU43OXRLY0tYMUtSV1ZyWFpoZFlmSVNOR1It?oc=5",
+        "headline": "이재명, 조희대엔 “잘 계세요?”…야당엔 “말할 것 있으면 하라” [투데이 여의도 스케치]",
+        "summary": "",
+        "source": "세계일보",
+        "published": "11/03 07:00",
+        "published_ts": 1793656800.0,
+        "tag": null,
+        "first_seen": 1793661340.3930838
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5aaWVmeTZ3Sm5IVkJvT0hBX3dsMzNMdlVIWUhxX2lfRTBERDJDMXZUZElwdjFRMUJha1FMRW5GZWlYY2Y4Q3RlR0JDVWwzd0RVMzYyc041eGlsNjJwWjlPb0JEcllROEhC?oc=5",
         "headline": "이재명 대통령 시정연설, 민주당 박수 속 국민의힘 퇴장... 여야 갈등 심화",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1793579762.0,
         "tag": null,
         "first_seen": 1793583033.0871978
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9nenZXZDNjWnRnOG1tLS1jbDhYYnd0WXlyR2daN0UxTjY3WUY1LThPc05XVlZBNHpmbE1jWUJlX3czU0kyOURSMUhDT1BUVjJ4c2UxMjVSYlpJTWp2bWl6ajh0U1NTUHl5SzNnOXJta2x5WkNr?oc=5",
-        "headline": "국힘 \"미래대응기금, 히틀러식 재정수권법…재정건전성 지켜야\"",
-        "summary": "",
-        "source": "연합뉴스 한민족센터",
-        "published": "11/02 09:28",
-        "published_ts": 1793579300.0,
-        "tag": null,
-        "first_seen": 1793580326.4182904
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9HSVZtX2lEbFJVSEJVQ1hUVWhUVExIay1NVG5aSElrRUdiMXM0eUZhZGNBZXZJUEFSSDZ6SERYMWRUeUx6T2lrbTBHZ3ZNRm9FQi1YOGtON1Z3ZVE?oc=5",
+        "headline": "Credit pressures test bond rally as inflation complicates Fed policy outlook",
+        "summary": "",
+        "source": "Fox Business",
+        "published": "11/03 07:48",
+        "published_ts": 1793659739.0,
+        "tag": "Fed",
+        "first_seen": 1793661340.3930838
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjVKRTIxUnozRUZmdmwyaWM1bWR2c1F2MjM1RE1qUVFMaEpoNndrSUNydGI2SmRpWS0tRGVxWHQ2OUxNYTZiaUttQWZ3RllpOGdwdnc1b3RoLTlSYkxlRVlyQzJrMDFkSUMtOHcwTlMxUEJ5RDAwdHc1MUY1TGQ2ZzYwVUtoZk5NbXZlUFJQMVRRRFdIdzJNQkNZc3JTM2twNXFTbjdTUUVrUFk?oc=5",
         "headline": "Oracle Is Offering $10 Billion of High-Grade Dollar Bonds",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793627596.0,
         "tag": "Global",
         "first_seen": 1793631643.350432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlBCekZPcWpjcXJ5UjZXYWVhY0pqVUgyXzFVYUxqb3AyUk9HSGI1VGo1UG1mOFBKaTdwSGRKRm1XeW9CcTItOVk3WTJnWmt6QWpDWDh3Ui10X0pxdGR5T1Nzbi16VzdxM05HZUxjOFM0UEVrUmJkNmNLUEtUeG0wdnBfMjdQRkcwcUtYT0FxTWE1Q2pYOGk2SVpWWHdiWlM4dE4tU0NvX2hvVG8?oc=5",
-        "headline": "Oracle Credit Risk Eases on Borrowing Cap as Microsoft Bond Spreads Widen",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "11/02 22:50",
-        "published_ts": 1793627415.0,
-        "tag": "Global",
-        "first_seen": 1793628926.2602046
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 08:08:39",
+  "updated_at": "2026-11-03 08:16:00",
   "yields": [
     {
       "label": "3년",
