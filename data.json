@@ -172,6 +172,16 @@
         "first_seen": 1793596525.2031066
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5STVByNDhnQzB0YUFFZFpkZUlyZWRDSFc1LU9SajlOLXlvWC1icnZPdXBsM3lHckpSMDBicy10U1JKWnRJSXUzVEtIQXBoUkZtZ0E?oc=5",
+        "headline": "“내년 ETF 키워드는 ABC…AI·채권·가상자산 주목”",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "11/02 13:56",
+        "published_ts": 1793595365.0,
+        "tag": null,
+        "first_seen": 1793618126.9644184
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00dWExdEpfaURIc0NqWThUeW0zTHVKaDNYaUN5a2F6X294R3hnZWJMUFYycllBOUhaU3d1dzhrdXZOY2w1TGg3ZWlQR0JXZmplMzdBUDNqYXFXRm1oSkNIVzc5VmJKVHUwZkkzMEpWdDBsejRsMTI2VNIBeEFVX3lxTE00dWExdEpfaURIc0NqWThUeW0zTHVKaDNYaUN5a2F6X294R3hnZWJMUFYycllBOUhaU3d1dzhrdXZOY2w1TGg3ZWlQR0JXZmplMzdBUDNqYXFXRm1oSkNIVzc5VmJKVHUwZkkzMEpWdDBsejRsMTI2VA?oc=5",
         "headline": "정크본드 시장 덮친 투매…대형 헤지펀드도 '휘청'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793521320.0,
         "tag": null,
         "first_seen": 1793529032.7351823
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3czNVbmxkTi0taTNrb1VodnZUc29RQ2ZlLTBha3BsR1dERkVPTm9xZkQwSFdGM3BWUzk4QVdIdWFxNTlGLWRwaU9kLWZzd0tzR29UUmhMQTMyZm5VcDA0VzBYVmM0NGluWTJaZjEzNnNxenM?oc=5",
-        "headline": "AI 자금 쟁탈전 日채권시장까지…엔화채 발행 ''역대 최대'",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/01 16:11",
-        "published_ts": 1793517109.0,
-        "tag": null,
-        "first_seen": 1793518232.7549136
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 20:01:06",
+  "updated_at": "2026-11-02 20:15:51",
   "yields": [
     {
       "label": "3년",
