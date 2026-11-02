@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tQWRSWDMzQ28yNkJYR2xuV3Azd0M5bWg0VDRPbWFiMjBpOHg3OXljcmxNYVpXNHNpdkIxSGNkdXV1eW1QdE5JYkhiQnFUSng5em5RTGVVcmUxdw?oc=5",
+        "headline": "유진기업, 14개월 만에 회사채 복귀…우리금융 지분 매각에도 금리 5.8% [fn마켓워치]",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/02 16:00",
+        "published_ts": 1793602827.0,
+        "tag": null,
+        "first_seen": 1793604634.1645231
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fSjNjOXloOG5waHk3YkxMWmVyMURwWHlFYXJmZHdjS1Bndy1ydjZrTDZWWnFkbG1TbXoxV0h4THYxMm9TX2tBcWt0YXAxeUhoZ3pzd2RCSTN4TTVfTGpJZmt4Q0ZuWGlY?oc=5",
         "headline": "미 중간선거 관망세…AI 스타트업 자금줄 흔든다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793433600.0,
         "tag": null,
         "first_seen": 1793434526.2972422
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9wUDNUT21YSEF3QkpqZVlQaVU0S3hUbUhUX3lzdEhseGxYQmI1TUZlN3hBSDZKUnZDNWtOZk40UzZuWDN5Mk5CRXl3Q25zQkV5SWRJYUdRMmQyNV9aVmZHeE9zenVfSjlfb0tXVnNSNWs?oc=5",
-        "headline": "피치, 프랑스 신용등급 전망 '부정적'으로 하향",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "10/31 15:57",
-        "published_ts": 1793429869.0,
-        "tag": null,
-        "first_seen": 1793597435.3881218
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 16:16:13",
+  "updated_at": "2026-11-02 16:30:56",
   "yields": [
     {
       "label": "3년",
