@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhbWNfYkQ0Ui1lS1RHME5JQ2UycXU2UkhXeE4wb1hXbjVWNnY1X3VOZXhEdHJubzB3Qm1RSXB5MGhWV1hoQVRnd3pLLXRCMVZienZoSldHWmk2YWs1ZkZ0SHh2YjBjMW9UTDBneWlvTQ?oc=5",
+        "headline": "실적 발표: Alinma Bank, 2026년 3분기 매출 예상 상회·순이익 예상 하회",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/02 23:13",
+        "published_ts": 1793628780.0,
+        "tag": null,
+        "first_seen": 1793629836.366896
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1HZThNZHNxdU9HemJUQVpLUEwwQ3QtejZOWnhNOUlLWC1uSF9wOHQ1V19Vby1mQzhTMXZzUjlGalQ3bjRhZ2Z0SnNlbTRhcV9RMXVBNVFMaFFmTDd3OXI2eEJ3SUpWQWZpa3JhUkNKU3hNNFE?oc=5",
         "headline": "콜로니 뱅코프, 퍼스트 릴라이언스 뱅크쉐어스 합병 완료…신주 약 618만주·현금 약 3266만 달러 지급",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "딜사이트",
         "published": "10/29 17:31",
         "published_ts": 1793262701.0,
-        "tag": null,
-        "first_seen": 1793264441.4551988
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qR2pWWV9pVTZGRDhJd1N1dFVNLXgxMFMyVEItUVNIOWx2VWRKNU1qQXdSRW5pOThtRnM1NTNZMVY5RnZKUDAxSTJfYWZCYVE?oc=5",
-        "headline": "2년 만에 후순위채 발행하는 한화생명…증권도 지원사격",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "10/29 17:20",
-        "published_ts": 1793262040.0,
         "tag": null,
         "first_seen": 1793264441.4551988
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
+        "headline": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/02 23:13",
+        "published_ts": 1793628823.0,
+        "tag": "Global",
+        "first_seen": 1793629836.366896
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9rUGp0dkV4YjFkWHRtOFA3R1Bwc3ZzOHpWcFBxYUxkZmVka3V4MXVWSjR4ZzhranVvb1NzZXJVeHNFc3dXemsxenB1cWpnSGVjTzM0UVM0YUh0VVlkX25XUW1MSkI?oc=5",
         "headline": "Fed Sees Problem: Why Won’t It Act?",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1793628300.0,
         "tag": "Fed",
         "first_seen": 1793628926.2602046
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNS0pzS2lrcGVkNUNOSEM4NDF2NDZMOXJDSTdZYk5LdmFYY2lmYkFJZzNEYlV6NE14ZEk4eTlTNy1mNTZNRHFxUnJPai1GLVI3bmNCM0NfYjZ0c0UyNmYzTEVJN3MtN1prLU9PQ0ZrcnI1UzBMdENYRXByeEg1QmFEU3B3c0hLaDhXZXdsbHhhWGFySy1mV3N6TVJPT2dDLUtsZFUzcw?oc=5",
+        "headline": "Post-midterm geopolitical risks could create another buying opportunity: JPM",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/02 23:01",
+        "published_ts": 1793628117.0,
+        "tag": "Global",
+        "first_seen": 1793629836.366896
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSlBCekZPcWpjcXJ5UjZXYWVhY0pqVUgyXzFVYUxqb3AyUk9HSGI1VGo1UG1mOFBKaTdwSGRKRm1XeW9CcTItOVk3WTJnWmt6QWpDWDh3Ui10X0pxdGR5T1Nzbi16VzdxM05HZUxjOFM0UEVrUmJkNmNLUEtUeG0wdnBfMjdQRkcwcUtYT0FxTWE1Q2pYOGk2SVpWWHdiWlM4dE4tU0NvX2hvVG8?oc=5",
@@ -1718,6 +1738,16 @@
         "published_ts": 1793618749.0,
         "tag": "Fed",
         "first_seen": 1793627128.5533812
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNZlB2azc4N0lrZlFEUmF4S2l5NE42WjRjZGZMOWR0ZERTREoxUjd3Qm4tTE54ako0RVllQVAtWW5fY3ZXNFRmd3BCX0RjSE41S2xlODdtNFZ6d0FSWDl0Wms3MG9FOEh5c1FLQVJINDhZNmxaWm0tWkFwbjl5Tkd1N05NY0wwNG80TWJOVEVsVlY0UnZMcWdLakNyaFNfTm1aNUdEMTNhSnJkamNvSkl4Qk11NTlWODRJdE4zdGdpS2ZBamQyWVBHbV9WZDBBcERWTkUzajJ0em9kY0ZrMXp6Q0RQX012aGxQ?oc=5",
+        "headline": "Emerging markets - Asian forex slips ahead of inflation data, Korean stocks buck AI selloff",
+        "summary": "",
+        "source": "The Star",
+        "published": "11/02 20:25",
+        "published_ts": 1793618700.0,
+        "tag": "Global",
+        "first_seen": 1793629836.366896
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORDlBeVhENjdmbEt3NFAtVmltQzZVUURZX2x4NzZCeExmSWlRTUkwTmxTb0JmMThVbHJIUXZtdXpNS2lUMFVjWm5scTA5Y1NZVGFMSF9ZVDNDMGZ0Qmw3R3V4Tk9MclFTOEJNS19oRTZEX2VnS3Bma1g1V2hpZEhoTVB4NEVCZGk0UmRCeW4yMA?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793599372.0,
         "tag": "JGB",
         "first_seen": 1793600125.2513568
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0wQXhoVDB3YUlTNzZQbjVpUk0xdkljRTJWR2tHeXAtcDIxRHNWYmZMQ28td2xTRlFtRUMwcWNiUEpnVV85NW9MV2NQUV9qTE9ITnkyQWJiVGVjd3FfRHgzRksxeHU4RDNQN2wwOG9jTUlwZXg3?oc=5",
-        "headline": "If equities follow bonds, we’re in trouble",
-        "summary": "",
-        "source": "AOL.com",
-        "published": "11/02 15:00",
-        "published_ts": 1793599200.0,
-        "tag": "Fed",
-        "first_seen": 1793601923.834223
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YRUJ3T1JwdGp0VHdSQ3ltU2YzWF9VTTBCT1hIQXpNZlh4QzJIMnA3bEp4VThSYnlxeFVRaFhFQThQb3VucmN3UDhFZi0wMU1VcXZoeVZ6Z01DTDhjZ2JrUQ?oc=5",
-        "headline": "[환율 전망] 위험회피의 물결을 거꾸로 거슬러 오르는 원화",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/02 14:30",
-        "published_ts": 1793597453.0,
-        "tag": "JGB",
-        "first_seen": 1793598323.6764874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA4NmVYTzJ5Zjc1RlBSZ3ltT2RVa2VDUFRXamFjb2R6NHJGd216MkpHZUx1aHRaSXlkRHlzYktTSW9KbUtMa25hNjdxQUVNTU51MHpxWC1RZk5ETDMtSVBTMlJscnNzZHFpOEZpb0hVY1BpRUV2ZkZXWjJGOA?oc=5",
-        "headline": "“한 달 3500원 지원?”…日 저소득층 지원금, 대상 좁히면 6배",
-        "summary": "",
-        "source": "이데일리TV",
-        "published": "11/02 14:27",
-        "published_ts": 1793597220.0,
-        "tag": "JGB",
-        "first_seen": 1793609124.9876335
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 23:15:52",
+  "updated_at": "2026-11-02 23:31:01",
   "yields": [
     {
       "label": "3년",
