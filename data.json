@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUHJCTGk2YnV0b1hxdWpKUDJMSXlrRjd5OWxDaVpRN0xUODd5aC1DVDFPYy1PeW1DLU9VWWlHZ0ROMUU4M0VsVWpndTBqYWxWSVIxZTM4cXdxeGhkMjZfZWtBSDlXN0Zs?oc=5",
+        "headline": "이재명·장동혁, 162조 미래기금 정면충돌",
+        "summary": "",
+        "source": "OBC 뉴스",
+        "published": "11/03 00:18",
+        "published_ts": 1793632714.0,
+        "tag": null,
+        "first_seen": 1793640638.8589416
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QWUFoOUVnWTA1TGw5X3ZPV0ZtT1c5OVdfbTQxU29qdmNWcXdDSjFPQ3llT1k0QWkyUC1NRnlvblN2UUM3RENmaTRXM0VjYUw1LVhWLXRmZ1lZdw?oc=5",
         "headline": "투자·미래 강조한 李대통령…\"성장·분배 낡은 이분법적 논쟁 벗어나야\"",
         "summary": "",
@@ -1596,19 +1606,39 @@
         "published_ts": 1793539860.0,
         "tag": null,
         "first_seen": 1793590234.0491269
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zVnVVMmpOX0duWm1USmZJZ3UwQTNnYWhaRXN2UUlIcE1wRnk1VlgwX3BRWDRjbERRWHN1Z1pRQnI1LTZSNk1vamlrTDRmYjhhUERFaVJWSmU2eW9qYldNetIBYEFVX3lxTE1zVnVVMmpOX0duWm1USmZJZ3UwQTNnYWhaRXN2UUlIcE1wRnk1VlgwX3BRWDRjbERRWHN1Z1pRQnI1LTZSNk1vamlrTDRmYjhhUERFaVJWSmU2eW9qYldNeg?oc=5",
-        "headline": "李대통령 \"다문화가정 지원 일부 문제 시정하는 게 차별은 아냐\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/01 15:57",
-        "published_ts": 1793516222.0,
-        "tag": null,
-        "first_seen": 1793522727.0765631
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTFUtVnJvQU9ycWduVGRoX3pqa0hkRGZ6bFUydUVrSDA2TklvLWRKb2RYak02OXNGS0JUWGl0ekFiNHBiaHBnZ0w3d3NpVFVhOUt5ZDNjd3hWUjR3VXFjeVNGb0ZfZUhqc00tU0U3Z3RKQ3dnUENR?oc=5",
+        "headline": "Fed Chair Kevin Warsh is cutting the number of rate-setting votes",
+        "summary": "",
+        "source": "Quartz",
+        "published": "11/03 02:26",
+        "published_ts": 1793640397.0,
+        "tag": "Fed",
+        "first_seen": 1793640638.8589416
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON25lOVI3Z09kNU0xX0dCRk00ZWFLSDVORk5fRUNQcTY3M1dwSHRPTTJESnk3ZnpYZks1LUw3Y1BoZjBJOHotS0sxYUVLMDVqRk54V2RKZFhETnBfVmhXeWZfZkwzTjU3bzZMVTFNVlZoWHBQVm1fVXdGb2U1WjR6ZWpkaDV1aUllTEJENWFIVDdrUExIVWk4VzNyTmVtdmM?oc=5",
+        "headline": "The Fed Waits as Municipal Bonds Regain Their Defensive Role",
+        "summary": "",
+        "source": "AdvisorHub",
+        "published": "11/03 02:24",
+        "published_ts": 1793640249.0,
+        "tag": "Fed",
+        "first_seen": 1793640638.8589416
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5hOFdzd2tzRzc5dDhwU19ST1NRQmJULW9mUlExdDJWdjV1WGIxTDR5OE1mMldwbG1Ma3hFZG5LLVNTRlpXbmFQOGxMVW5tMzczWUo2SGlPeDVESDJKMEVEbHF1eVlWZ3psbnNsbHQ5MF8zS0t2a2ZpUHJn?oc=5",
+        "headline": "What Sparked Gold's Off Selloff? (NYSEARCA:GLD)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/03 02:17",
+        "published_ts": 1793639820.0,
+        "tag": "Global",
+        "first_seen": 1793640638.8589416
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNFNxRWFsNzdoRmxta181UnIyVllGVGdtcDNFaDk0d1JTSFFBMDRtQ1FRWW94Zzg0MHpSY2NQQllKXzZtWTBKTzNaYjNwTEdyTm1URFk3RFE1Q3Iwa3dpZFA5QzJFNkZ6UjFVWThSRzlwZ0dlRV9NeDBvUTZVaE5GblBlZmwxNmFpN3dhYTY1WVh5T3l5NnhsVWFoN0pUOWxsNmMtZw?oc=5",
         "headline": "John Hancock 2015 Lifetime Blend Portfolio Q3 2026 Commentary",
@@ -1628,6 +1658,26 @@
         "published_ts": 1793636700.0,
         "tag": "Fed",
         "first_seen": 1793637037.2488542
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "11/03 01:18",
+        "published_ts": 1793636283.0,
+        "tag": "JGB",
+        "first_seen": 1793640638.8589416
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSW9PMVJ2b0pybFA5R0VCVUd4X1hJQmNKQkdHMzZ0UEp3bFZPUGVEdF81NUszUFI5UHdORHdtWFZqQ21tZm13WjdYdlpFS2tvczhubG5jTlFWVlZvcUt2Yi1QVHd3VUhpMUN3SmV0d0MyWWYtQ2RJWlRIOGJsMFFiWURVbTNEeU12aXdCWm8zOTZsYmhJNzFfaDR4a1EtZHB2aU9xb0FUU3gyWnJPU0ZJNThGTEY1MTF6MndXeFI0NHdwUQ?oc=5",
+        "headline": "A lasting AI sell-off is one of the biggest risks to the economy, BofA warns",
+        "summary": "",
+        "source": "Yahoo Finance Singapore",
+        "published": "11/03 01:15",
+        "published_ts": 1793636146.0,
+        "tag": "Strategist",
+        "first_seen": 1793640638.8589416
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOckV1b1FYcElmZE90ZDg4dUlfTzJRUlFUM1VQbzdCOTlBSzVpdWtUSmVGUUt6ZUlaeWhQWkVuUmZXYThod1Mxa25wSjVZWmpSMU9CRmN0dGdUazJqMkM1aG9YcjUxaVllUmdrblB0aUVUYkwtTk9WWk5aeEp0bkZhX0pGQXVHNmYtaGFGa3IwdlVVYXk4WFJPVzdETjJSdEFhWUgzWHJkV0pQQQ?oc=5",
@@ -1768,6 +1818,16 @@
         "published_ts": 1793625761.0,
         "tag": "Global",
         "first_seen": 1793626239.132444
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMzZvd2VDUjFid3Y0a1pyaW15ZThpNEJYTC13NURtYVdnT3FyYU5VU1JWNWFyTXo5Q0lIbnpLdVV0bzZqYnhoYmZ3SnFPQTNUSHlFNVNwM3VjVUNfcEczOTcwU3o0bk9fSEd0NDVQVld4M29ra2VnM3NqVDQ2NXU1UHhwaXpodmVMSWM3N19INXFpU0hvQk83NVZ0bTdGRGFjU3dvaW45X1c5N1Q3Rld1Z3RxQi1vMXpXLTU0cnVDcUo4dkFoWUE?oc=5",
+        "headline": "일본 엔화, 미 달러화의 완만한 약세에도 보합세",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/02 22:02",
+        "published_ts": 1793624574.0,
+        "tag": "JGB",
+        "first_seen": 1793640638.8589416
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJVZGVGZUpJa3NyR2x4anMzdWZNSFRBb2EzSzJ2V1FkekpKWkR0bFh4enlJbDBueTlLLUw2VWJTSzhNU05VdFdpdHNiTnRPd0d2TDU5RXZvVG45a1gyQUZWdmFJQlNDOXR3Y0h6QWZZekZ1eWRMc2lieko4NlBGQ0I0Y0VFdXAw?oc=5",
@@ -1948,66 +2008,6 @@
         "published_ts": 1793613000.0,
         "tag": "Global",
         "first_seen": 1793614528.6021523
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPd0xZckVlRjg5NnlpV2VlRDRyQ0U5UXlNd295LUJSb2RVcmRIYzU5ZjA4dUxobHNHVEd1S1FOemY2N1dGdkV1MjZHQzZSSnlZVzZHUWdsV1dqUmI3MVJ2ZEczTVZaaFQtOU9YbkhZRGh1dmVvMWtiZjJlakp6QWZSWG9qUEkzc0Q3ZXBZLS04ZTc3VVhaajdUT0RiVngzdWpuM1J5Q3dzTnhTYWt5OHVvdS1qdk5weDNjWjBrMmpjVXNDUQ?oc=5",
-        "headline": "UK Markets Brief: Haleon Shares Crash, Bank of England Prepares to Raise Interest Rates",
-        "summary": "",
-        "source": "Morningstar",
-        "published": "11/02 18:46",
-        "published_ts": 1793612789.0,
-        "tag": "JGB",
-        "first_seen": 1793638854.7439609
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLVhudzFmamVhaHJtU3hSWXY2bUNIc2xkQUxkUFpZZl9jM3d1NjBIMzdsQXNxTFJlNVQtTGxWNmh3Wk1GM2JzelBpWjB1QUp1STJWOUZhZzAzOWlodTRBdGdzSmZXWGhlcnJQZzhGRjJBYUYzTE5oT1FzZmxTSmtoNFNJWTBjZ1V6NFhYdlo5M1gweEcwS254TQ?oc=5",
-        "headline": "주간 전망: 중간선거, 비농업 고용지표(NFP), 호주중앙은행(RBA) 금리 결정 및 애플 실적 발표",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/02 18:45",
-        "published_ts": 1793612737.0,
-        "tag": "JGB",
-        "first_seen": 1793620844.5706108
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNlVkUGdfSUlRVzQwSFpiNTJRaUxrc1ZUMHRDYi1MbGZKZ3lvek90ZkF0T0pZYU05Wi1oY2ZqUFVKem9OMzl4RFFydEl0R3REZklicERuYkw5UV85d3ZRZzZqdXJOMkdFek1nczNPZ3RINTJOWG9ILUJtUzlrUWZDdVRVX0F6M3dvWGNBRGZ4ZjEya3JZaFlITXBTUHF2ZXZKb0V2SGl6WDhTZE9XZFVhaXhBeThKLUZ1Y0xLR1h6dFFwZTRXU0p6Q0h6bjBkbk1oR2R6aFliZG1maG9vblREYUg3UDJIYjZBbFU2YWtEX0gtd9IB9wFBVV95cUxPVzk1WHBpNUd6SmZyNVhWOHljeFM3SGV2QXNkSkVNcVFDR3dGRXZ0T2IxMnZrQUhEb2VsYWE0b3dFdHFRQldiNDY4bjA3Rzd0Mks5V0xIUHpFMnhGbVdHUmVkZFFjMUZxZzdObXNFSU9aU3djc2VuZkxWMUc5YjFYYkxrb1hUUlU0WHg0bFh2alZBMmJaY3E5TG5ucmZqU244SWlpUlBwekJxMk5VNUtfWW9Qd1N3SlhKX05qd3pQUGxfUHp6LU95Vmt0R3hoZ2xWOUNaLWZ4Y1NrLV9KbGM2R3c2elNMaW4xSllCTGhydHlIVzNEcDZn?oc=5",
-        "headline": "Japan bond yields edge higher ahead of key JGB auctions; 10-year yield holds at 2.77%",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "11/02 18:42",
-        "published_ts": 1793612575.0,
-        "tag": "JGB",
-        "first_seen": 1793615445.5040786
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSGU4TjVLSlZYUHJHcUQ4cGQxMGF5WU43WllObHdLbVlObktwZDhrbUU2cUstUnA5di1reGEwdkt6bXJwTS1jVnFjX0syLVc1UmJHQ0ZJSlMzTnh3c21BUkZxWXZNZDJlc3BUY256S0NyWXN5MVhZaWd5MXpwTGVURVcxa1hycURqMzluMmM0cl82X3lBRDJZcU1aajB0UFZ4N2o3MTRrOGpyTENVUGlrWU12a1N1WlhsNmpvcw?oc=5",
-        "headline": "2 Words From Fed Chair Kevin Warsh Are Echoing Through Wall Street and Unnerving Investors",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "11/02 18:06",
-        "published_ts": 1793610360.0,
-        "tag": "Fed",
-        "first_seen": 1793611836.9577801
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE11YUJTWW9venZfbld4MjJBbjJoSFBVQzUwOFI3dEVUQUdxRDNWOHRUMGFobXlGSkVrNVoyYXRrS0Fibm96NEZ5bU0ydWZTQllvMU9haWVYSjh0M2wxQVZjWVVvWmpHdWlfY0dscUZWSjRMa3A4?oc=5",
-        "headline": "[도쿄증시-마감] 美 중간선거 앞두고 이틀 연속 하락…일부 기술주 매수세 유입 |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/02 18:04",
-        "published_ts": 1793610284.0,
-        "tag": "JGB",
-        "first_seen": 1793635255.7797387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUxHbmNvSk9mdGlUNW1pNEtTQzZTbk5ZVmd5Wjl5M2xuQVZvbElldnJZVGFYT2gtMlJKcGlsRWZjbzQ2MmRxWmtTc01KM1J4c2RGZ0NxUm95cU10ODJDZXY2NWRPTzlHVm1RcGJTYm15U3RyTU51UzgtbElDaFIybEZQcEt3NDByMml4X2Fkam8tMEZRdnNuQ29DMGdEd3BhZmlpbWhqOFJKR3lpYkNNbzlQOVFxT2IyNXJlU0swZjZ0QXpUUG9hOTBHVlU?oc=5",
-        "headline": "Partner Insight: Strategic Income: Navigating global fixed income through a multi-sector lens",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "11/02 18:00",
-        "published_ts": 1793610000.0,
-        "tag": "Global",
-        "first_seen": 1793610938.7664876
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 02:15:51",
+  "updated_at": "2026-11-03 02:31:03",
   "yields": [
     {
       "label": "3년",
