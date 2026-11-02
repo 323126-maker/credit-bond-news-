@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10V1RNeElnX3ZEMlphenlyeF9JU0pEOUpZYWtFZTA1VnVIM3R4MXpXVnoza3dRTzc1QjFIX0trSjBYLXJzZFgtYjAwZzR3ZkFBalh5RUI5SHNRYVB0VTEtckc1cWdyRmI2eUlHbm5iVDk?oc=5",
+        "headline": "미 달러화 약세…美·이란 종전 기대감에 국제유가 급락",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/02 23:54",
+        "published_ts": 1793631242.0,
+        "tag": null,
+        "first_seen": 1793632528.447311
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Mb0JpejBtMlgwT3lNMnRkd3dlWnFVQmR2ZzJzbWZBc2M4azlTLXVMTnA2YzVBTnBsQmZ3RjhBRnZoY2NIejVCMjNsb0liSnJfSXJHeE00aG1OUG1ueFgyVlVHcVpxUVcwUWgyVzQ2X1c5QQ?oc=5",
         "headline": "오라클, 증자·회사채로 200억달러 조달 추진…AI 인프라 투자 박차",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793574512.0,
         "tag": null,
         "first_seen": 1793575835.3758075
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE0zQzlxdGdRbnJjUGxjZFVjbWFxMERjZV9FQ0lqOVZXTkdUcldtM0dlWnBUUlJ2elR3OXFPWXdsY25zQ2VvRENGM0Q0ZHhTR3lUSG4tc2xZZ0tvZExHLTlRZE1IcVdOMngxN3V0MUZhZ2E0QQ?oc=5",
-        "headline": "흔들리는 숏스퀴즈에 빅테크 쇼크까지…그래도 증시 떠나면 안 되는 이유",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/02 07:18",
-        "published_ts": 1793571513.0,
-        "tag": null,
-        "first_seen": 1793574042.3606753
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9CNVMxNWQ5RmdVSTg3RVJSbERIdFZlanlYOVhFUDdlN0lZOVlkdl9LZWVLdWZ1QVF6LVZkN1ZmaWZZWnBCYnl6NVBkTGR5cjV1d2t1bVRra3Atd9IBVEFVX3lxTE1KNUo3UjFQNi1sUGR1ZnVQOUxzLVV3R2pIVXl1Rm90VjJyNHRCRmQwcXlobnV1TGtYSVdvVW1RdDhBVjZMTXJHRGlkeXZ1LU0yYUVMSA?oc=5",
+        "headline": "금리 올라도 NIM은 뒷걸음…4대 은행 '조달비용 전쟁' 전망",
+        "summary": "",
+        "source": "더팩트",
+        "published": "11/03 00:00",
+        "published_ts": 1793631602.0,
+        "tag": null,
+        "first_seen": 1793632528.447311
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2eWt2Z2hzTnFZTkNZRGJqVk9TWng4eFdRcDlta1NxdFVhSG5pRUw5LTNEZFoyU2J0VDZOQUR2aTJHVG1hMWdPZ0Q1QQ?oc=5",
         "headline": "국고채 금리 일제히 상승…3년물 연 3.740% : 금융",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793254598.0,
         "tag": null,
         "first_seen": 1793255434.6229963
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE52U011Q3FHRVhISWVvdnE1Ym8tbDRBUjdwNUZuYlZDa2xCaWNqM2NralZEaVZZWF84cmZWdmU0X3hzUFZjSVd1eDFnZVpHUVloaDRXTkhjRGpzWU1HN2l3Uw?oc=5",
-        "headline": "美 금리 동결, 추가 인상 전망은 여전…한은·정부도 경계 유지",
-        "summary": "",
-        "source": "메트로신문",
-        "published": "10/29 13:53",
-        "published_ts": 1793249632.0,
-        "tag": null,
-        "first_seen": 1793253640.8435357
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 00:01:09",
+  "updated_at": "2026-11-03 00:15:54",
   "yields": [
     {
       "label": "3년",
