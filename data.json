@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPb2RCUmJQTjQwbjVYRnRSRXFUUmM0TDRsLUtpQUpqZHJET0dfb3Q5R2cyMmx4bl9EdE1jZkc5WGppLVZ4aWdpMlY2dC0zNXVqcjBPVGJoaXR4OW8yRjUyalZwMnJGTVpOeW1tTDI1WEhmbUVaX2FtUDZmMWxvVENlMUhJY09VUmpyMWJCM0lPdTRDcXpPTzRhamJtdVhXU0h1elJxZmhXcllmNWpaVVlPeHRIUWV3VF9GVVotNlpIX0VvODVCLVRQblFOZF8yUEU?oc=5",
+        "headline": "JHI: Better Than An Index Fund, But Still Struggles To Deliver In Real Terms (NYSE:JHI)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/02 22:22",
+        "published_ts": 1793625761.0,
+        "tag": "Global",
+        "first_seen": 1793626239.132444
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPemJVZGVGZUpJa3NyR2x4anMzdWZNSFRBb2EzSzJ2V1FkekpKWkR0bFh4enlJbDBueTlLLUw2VWJTSzhNU05VdFdpdHNiTnRPd0d2TDU5RXZvVG45a1gyQUZWdmFJQlNDOXR3Y0h6QWZZekZ1eWRMc2lieko4NlBGQ0I0Y0VFdXAw?oc=5",
         "headline": "Mohamed A. El-Erian: WTI crude falls below $100, Brent slips under $110 amid U.S.-Iran talks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793595300.0,
         "tag": "JGB",
         "first_seen": 1793596525.2031066
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORS1GNnh5TF9oVzRQU0hyQmtCNWdlalBSQ041Tk5xbDQwWGU2SWozSFFjd0tmWmt6eklHZF80VHhJbmFCTko5RFFTdzJ4OURvSFBlMHFDbVhyMkdpU2tnSGF4ODZVcm01MlFiZkU0TFo0RnhxeExBSlBWeDdNUGdUWUdwcTdpQkVyajVwRDFLSVR1LUtLTXBwYXFsSzJiT3RicVd6d3FtTzNJSVBLQjVTN0Rsek7SAboBQVVfeXFMTnFXSjFQWXd6bXgtOExtcnFCekU0RDhfM1NSdFZBczExWVJvRzVLQVcxMVh1QTZ0MlpKSFc2SW5VRml0MHdURUFpX2pidzhJaGdIZWJWWUVZbUZ4cHhoSVRNNU96eTVoWjdPdVJ5RVBzLXZVbW9iamR0SEVqbi1lNk1BY1JfT0RVNmJvd3FvVGZyZW9WUTU0TDFxSjdCY1RnSVVBUW81LWdvX3hmR055NTlZT3JXX2ZHT1dB?oc=5",
-        "headline": "Ed Yardeni says AI sell-off is serious but not the start of a market rout",
-        "summary": "",
-        "source": "CNBC TV18",
-        "published": "11/02 13:07",
-        "published_ts": 1793592420.0,
-        "tag": "Global",
-        "first_seen": 1793592927.2504308
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 22:15:55",
+  "updated_at": "2026-11-02 22:31:04",
   "yields": [
     {
       "label": "3년",
