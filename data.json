@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORHd4d0x1ajNtbTNOWC1ZcEpTVW9PUkZ6OHhvR3V3YldZUWt5OVltbzdYOEZjYkQwWGRGWDAwVE9QdjZnNE9oN0dmUTVuUk9ubDIyX2Y4NkY5bTBtMHRvNDRueDJkTDR4cW9wNGxzMHZialdVUWluXzVkRW9jVWQ3dk8tRHM?oc=5",
+        "headline": "Want Dividend Dependability? This ETF Has It",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "11/03 05:37",
+        "published_ts": 1793651850.0,
+        "tag": "Global",
+        "first_seen": 1793652352.795987
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBmOWRvRzJ0ck1tU2s4MGlrZGZadzNxM0x3OFVzT3prdklWOUdsU0RRY25URmYweHRsTnZTZjJuVl9Pa2p1U0xtWVlXMUxDMXR1Sk50SGNVR0YweHlrS05GZGZob1ZPV05s?oc=5",
         "headline": "The great yen rebalancing",
         "summary": "",
@@ -1850,6 +1860,16 @@
         "first_seen": 1793631643.350432
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE84TEl0WXZGUkNjRktpMjczM0FhUm5nNkRDSDZCeDhwdkRNcWpjN196N1gxalhQbjFHVGVqTHFtM1NxUzZqVDJKa1dlVlQyRWJRYUJVc2VRVmdacWFWeGlUZ19ycTQwQmFzYUtHcWdBUElNdHVoaWc?oc=5",
+        "headline": "The Warsh Hawk-Dove Mystery Solved: Economist Says What the Fed Is Really Watching Is U.S. Treasury Yields",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/02 23:35",
+        "published_ts": 1793630100.0,
+        "tag": "Fed",
+        "first_seen": 1793652352.795987
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSm5nTThDOUxTZDlERFZrWjg0WllEVktOcXZOWGdDQWtvX3VIQXhaWGc5amxQMHdacndmRng1R3pnSko1ZnV5OExhbVVRVGh5c2RtYUw0dmNfODU1NklnbXp1dkx3ZHlpSTAtY01WOGY5SkpFTnRGaXo4OEZ0cVUweTl2bk1hTFFqbC1hM1I1MUVraXdhWVRoTWJkZjJGVDlmSmZEaEs4em0tVkhSUjdRMjlMaU5EQ2M?oc=5",
         "headline": "Alphabet kicks off €6 billion bond sale, tests appetite for tech debt",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793621596.0,
         "tag": "Global",
         "first_seen": 1793627128.5533812
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxON2ZHRG04eEtiZW5UdXUtVWc4TFBwZmpNckMtVTZrWTFsZzE1SGIwemIwZExWb1dtVFFhbGtKYVJmLWR4TnNSQjdObVBtbFJQYThjOXZtRmdrWGgzQ0JiNHNmeS1sMGNCMXg2X0hoNzcxU2I5eHc1Z21FVHVoOHdIWHRlUQ?oc=5",
-        "headline": "Japan’s Bond Yields Tick Up Ahead Of Key Auctions",
-        "summary": "",
-        "source": "Finimize",
-        "published": "11/02 21:10",
-        "published_ts": 1793621452.0,
-        "tag": "JGB",
-        "first_seen": 1793649641.9462833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXZEZVR0eFFhajNmbHRXVldFdzBMWXlOWHo5WnhHcTJHR0t3bng5SEZNVERBU09IRW1Va0xMVVo0MlVGX3FxNHo1MTlVUHlDV0RGZ21FZVg5QjAzUGZ0MnA4UVpwWXBSdUsxTldiTHEzbEItRnVwdlVvSzM1LXJtdF9OWU94bXJnaEFMckdlRnZ6WElLeUlmYVpjUGlETzU4UkpXV2NSUFFPYmlC?oc=5",
-        "headline": "Alphabet Kicks Off Sale of Its Second Euro Bond This Year",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "11/02 20:53",
-        "published_ts": 1793620435.0,
-        "tag": "Global",
-        "first_seen": 1793620844.5706108
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 05:31:02",
+  "updated_at": "2026-11-03 05:46:14",
   "yields": [
     {
       "label": "3년",
