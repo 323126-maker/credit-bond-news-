@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5EV2hBcVRXMDlMaXh0LUEzWDNuVzRHS3NaMU1Cak5SYnVvMzFLR195X1FEZ3FhZURvLThYR2lhRWRVdEhYWlFxNHBfTWdNTldCX25XZW42OGpvQnRRT01WQTNKVExMR3pwc2oyaHdGUQ?oc=5",
+        "headline": "우리투자증권, 증자 효과 대형 IB 거래로 연결…에코프로·오스템 2700억 원 단독 주관",
+        "summary": "",
+        "source": "이코노미사이언스",
+        "published": "11/02 13:35",
+        "published_ts": 1793594153.0,
+        "tag": null,
+        "first_seen": 1793594726.6484475
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA0ZWcwTnVJeUNBUkFqMWxIdXlIVHFUTXBfZXlNenkweUo5SjNCZWs3RlZzTjFtNF9sTW1DNmxZdl9FOVloYzR3QTZ0b3psc0ctLWJyaFcwQUVBOWZjWjAyNkFRbmxvYjRzRE9jQjVVVQ?oc=5",
         "headline": "자금 소요 커진 한화생명, 최대 8000억 후순위채 발행",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1793232996.0,
         "tag": null,
         "first_seen": 1793233833.325822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ESmlEYnVULXMyM3BlLUtpYi1naW9QN1R3VFZ2Nk51MGw3aUNIa0NQMHVhTFpOMElBelFRNDNfSFdHQ0Q4NVpYRWV4RTNCc2JMMDlISnljOUNwanhVQ1ZicThTVnMyb2Js?oc=5",
-        "headline": "삼성생명도 6%대 자본조달…중소사 부담 커질까",
-        "summary": "",
-        "source": "보험매일",
-        "published": "10/29 06:55",
-        "published_ts": 1793224557.0,
-        "tag": null,
-        "first_seen": 1793416527.2195082
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vNkxwNjFreXNidE9iRzZHcGs1NkhMMndsdW1tX09FN1pvc2dqSEExdGhNUGgybkh3N0o4anFCVWhiVm5mSUhxNnAwc09tS0xTQ2lIWjl0RGdQZw?oc=5",
+        "headline": "\"내년 돈의 흐름은 ABC\"…하나자산운용이 꼽은 2027년 투자처",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/02 13:32",
+        "published_ts": 1793593979.0,
+        "tag": null,
+        "first_seen": 1793594726.6484475
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55S1Itc0FJRUtkektIc1ZLY2RkdkdqSzBLX1pKVnVvNFRRSjQwZ0tUNWM3MUdXR3NVX2JWSURxaV9UU2R6SkRuOUtHY1BfeGExLUpaUGhQSXgwYUnSAWBBVV95cUxPN1VqT1h6d3BmXzN1Z2xNT0lmUjVaVXFQa3lIM0NTVGg1cFFOQjFxNzA0cEFFZFdXd0Y2dWFfaEp0d0JmYnBYRlBKYXIxTWFpdlZvU1NFNHZpVm1zWmp6YWs?oc=5",
         "headline": "인상 사이클인데 국채금리 너무 내렸나…\"주가조정 과잉반영\"",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793229424.0,
         "tag": null,
         "first_seen": 1793287833.7331197
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdW5fZG1wR05mYjRlR0pzNS1qS2VVanlmLVUxbU1VY3ZlVEVlVE9pVTl0bHJGUkpLdkRuVld4ZmdIUlZsLVVtZFZObHVDUEVtWmpFVlQ3RzRwLXlyeWprWFk3azhuMmcwdmJ1OHo1WTR1czU2Y010aG1za0lOUExsTEZWYw?oc=5",
-        "headline": "발행 주춤해진 한국물…美금리 급등에 역외 IB 규제까지",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "10/29 07:04",
-        "published_ts": 1793225047.0,
-        "tag": null,
-        "first_seen": 1793228442.773696
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-02 13:30:57",
+  "updated_at": "2026-11-02 13:45:50",
   "yields": [
     {
       "label": "3년",
