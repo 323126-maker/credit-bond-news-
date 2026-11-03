@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XNU1PZW03cmJvQzF0NDFQZ2VGZUFBMWZxZ0xNYzFtaXAzTS1CVEdGTFpFdHdta1E2NzhUT0psV1lPd0I0ZUxNMGd2R3k4R0UxZDYw?oc=5",
+        "headline": "코스피, 어제 뛰었으나 오늘 210P 추락…5600선 마감",
+        "summary": "",
+        "source": "경제타임스",
+        "published": "11/03 16:30",
+        "published_ts": 1793691017.0,
+        "tag": null,
+        "first_seen": 1793691926.9184227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBFd01nMkdfVVFsSUJpYXJDQ2F0cGR4eWZLaVRjMnhUZWQ3UHRoalFWMUhSY3d6amxwcUE0X3dxS0JnV3RKOTVhekIzOGdkUzZiUHR4SnpwbTVOUlFfa09jbjQ2ZmJJQlpkdklzYQ?oc=5",
         "headline": "[신상 ETF] ‘한미반도체’든 ‘IT’든 ETF 신경 쓸 겨를이 어딨어?",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793626678.0,
         "tag": null,
         "first_seen": 1793628041.5470026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE93RUFsMHdOSXZsd29lMHM2aEFWVEF0SEV5R2hUbU4yZ21kYjJhVklkNkVVbVQ0MXlSTFhnNDd4MUxMZ195UGlBZHdGVHVSUDM1UG1fZGtoeFFkeUNXaWd2aGV2aWxiVlR3czU1Szl6dmthRG00TEM4?oc=5",
-        "headline": "＂70% 건설 밀릴수도＂…데이터센터 역풍 덮친 중간선거 [딥시그널]",
-        "summary": "",
-        "source": "한국경제TV",
-        "published": "11/02 22:00",
-        "published_ts": 1793624400.0,
-        "tag": null,
-        "first_seen": 1793627128.5533812
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ZZTd1dGhaOHU5SDdJaGJnd08yVnlKaGZqVWlDNlZYNUp0TEhtV0JyRzhsd1RWT3hYUUtTX1JrVWZpNzFDMXlwcVdBcHpvRlFacFVZdVh6a3NtejdlUHNpYQ?oc=5",
+        "headline": "국힘, 이재명표 예산 '27조 칼날'…기금 104조 국채상환 요구",
+        "summary": "",
+        "source": "뉴스토마토",
+        "published": "11/03 16:34",
+        "published_ts": 1793691269.0,
+        "tag": null,
+        "first_seen": 1793691926.9184227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZEpyOW5vU2N3T1dramJZS3FPT3lHR0xpcHpacFEyZFB0Ym1vRFRQZEt5amxMZEhBTzUtczlpbkd5dzlndkJKNW15WmMtUmxJ?oc=5",
         "headline": "靑 달려간 114개 이주노동단체 “李 차별발언 위험”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793586520.0,
         "tag": null,
         "first_seen": 1793592927.2504308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45V19IeXFwdnpVQkQyZWYzOEhaWGdlRzViYW1xSHJNZkZvVzRqSkRpdXBhZjh6VmxlU3NaSzltSF9YWUxrNDBqS0g3UVE2Nlp0emxFby1mMHNVenNDMW1MLUtjWW5CeklOYzF5Y0d3?oc=5",
-        "headline": "野 “재판 재개” 발언에 시정연설 40초 중단…李 “계속 방해하는 얘기”",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "11/02 11:25",
-        "published_ts": 1793586359.0,
-        "tag": null,
-        "first_seen": 1793586647.9064188
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 16:31:00",
+  "updated_at": "2026-11-03 16:45:50",
   "yields": [
     {
       "label": "3년",
