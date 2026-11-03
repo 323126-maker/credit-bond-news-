@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50ZnlGTk5EMUZwSWhQc0FUZzdXakxRbWRxN2FHOV9YWkplX3dQM2pzSWstVlBSc29QZ2Q5Q1N2SXNFWHBSdjlPQk1hLTlrZUd4RkRlZUo5ZkpsanRhRjVpWWdMaWJHcUdt?oc=5",
+        "headline": "10월 물가 2.8%로 둔화했지만…국고채 금리 짓누르는 '서비스 물가'",
+        "summary": "",
+        "source": "www.ebn.co.kr",
+        "published": "11/03 11:50",
+        "published_ts": 1793674200.0,
+        "tag": null,
+        "first_seen": 1793674843.6421216
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0wS3V3V2RSMncwMXBkRERBNU1WRWI0UnpkcXZlVVBvcTVQMk5LUkZXV3BUUWczel94VktJTzVLYk9vNnFfY1psZndaTGdFbk1uZzNvMnVFblFodWtDd2lQUU02QW0?oc=5",
         "headline": "기업어음 금리 급등, '연말 단기자금 경색' 신호일까…채권시장 분석은?",
         "summary": "",
@@ -824,6 +834,16 @@
         "published_ts": 1793666859.0,
         "tag": null,
         "first_seen": 1793667642.523071
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Vd0tMM3dLVnZZWEpFSFpDSTYxN2FqNlY4MkN3ZHE1SUhtOFZuaVZzaENLUno5YVEwNWtUczktWC03ZWRiN25nalBWNmVIS3hvTGJTYUFmQkQ0UVRYci1fVC02cVQ0TmR5S3RzcXlnQ2NWQQ?oc=5",
+        "headline": "[노현우의 채권분석] 밀물이 들어오면 금리도 뜬다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/03 07:45",
+        "published_ts": 1793659532.0,
+        "tag": null,
+        "first_seen": 1793674843.6421216
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9uWklaTTNYY2gxSGcxNk84UUxrNlN3S0hyTGJMem9weE9aeUsyZlNIRHE3WmJvV3ZPVUdXZzBBN2hLU1M4T2lOLTJQbEp3U2Mt0gFUQVVfeXFMTXZWZEhXdHF3LVdLOEc0cjdBT1BDRkRtdjZ0RzlwR0poZ1ctbVhxTjV2Y2FuaENwM0hvZ1d4WU9CTXFaM2FEeU5nblRWV1N4TUdzYnhD?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1793287920.0,
         "tag": null,
         "first_seen": 1793289642.2024107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1c01MelNFNHFLWTVjVFpFa01Kd2xJSXpicnV4ZVBoZTcycFJPZF9vTzFvbDJ6UG9ZYlV1QUEzTnlXcG51RUVJd3FodkR3b1NYU3BTM2dUSEYydU3SAWBBVV95cUxQSVRSd2ZwWnRtSDNlZC1PSGxRc09jRmhXNm5oeDExd09oY3p4dzNkZEpoaFM3bTBUOHM2SV9aYWc2a0ZseFZLNUs0Q0gxejl2V1JBenE1V1ctVUJFQmZCOFk?oc=5",
-        "headline": "미 연준 이어 ECB도 금리 동결…\"인플레·경기둔화 위험 여전\"(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "10/30 00:15",
-        "published_ts": 1793286946.0,
-        "tag": null,
-        "first_seen": 1793304039.6061997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYN1o2eXV2V2JWOHBqeVBXX29KZmJpNmtTVG5JeVRoSkJ5cG45ZGFNb3JiRFR0a2NZZnVuaFBUUVZSWnJkaWp3a2pDUzVYbm4tVUZVNEpHNnlDY1I1Q0tPR3U2ZTdpel9kcnczd05OR0JOUQ?oc=5",
-        "headline": "다카이치 일본 총리, 예산 개혁·AX 전격 발표…\"추경 관행 끊고 AI로 인력난 돌파\"",
-        "summary": "",
-        "source": "newscenterkorea.com",
-        "published": "10/29 21:22",
-        "published_ts": 1793276550.0,
-        "tag": null,
-        "first_seen": 1793304924.7423775
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 11:45:50",
+  "updated_at": "2026-11-03 12:01:07",
   "yields": [
     {
       "label": "3년",
