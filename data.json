@@ -42,6 +42,16 @@
         "first_seen": 1793697331.5914106
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBicnN2ZWhqVkdBNHQ2VEUzaUFjWjJNTW9HV3lKQ3ZzREw5ZU9SLTYtaUUxOVNxb2F0OF9mRlV2bER3YzBSejZpTlNMUDBVWWdteFlVTGJ3MDU1bkJzbXlwaUZRQ0hjNExDUUU40gFuQVVfeXFMT2dhMzdOeDQzR2ZTaEQ0OVFuRDF4SnZKdWhnanpJLVhLRVhLbmszY01ZTmctX0dDVTdVTnpyQk9ZMjZOYy1SR2JvNDM5eXV5ZEczb2hya0ZkUkxsZktlRm5Ja0pZaWpsV0hjV1lHb1E?oc=5",
+        "headline": "퍼블릭 블록체인 빗장 풀릴까…토큰증권, 제도 시행 앞두고 업계 규제 완화 요구",
+        "summary": "",
+        "source": "파이낸셜투데이",
+        "published": "11/03 17:24",
+        "published_ts": 1793694253.0,
+        "tag": null,
+        "first_seen": 1793700039.9617047
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE40Mjd3Q1Fxc1dDaUdvS0ZjSFVPM1J6bk8wT2VBUEZPb290RlR2QnNITkxiWmc2LWtvaEsyQnNIY094UEFRYVh3aUdPY3ZsNmxVb3VWa3M3TmhCRjdzSklJRzJFUVlidC1z?oc=5",
         "headline": "코스피, 미 기술주 하락에 3.6% 급락 마감…코스닥도 4%↓",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1793660398.0,
         "tag": null,
         "first_seen": 1793672127.50009
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAwNmh2TFphcGlLYUZ4X1pPc2QxQTdkYm9UVWx2elZxcDhRcXNSd19ybmhOVTZpNXFvN3JvNUtCWi1TbDk1SVNIbFBTMHQ0MzdXalAwTmVvekRmMVFTOVVQOdIBYEFVX3lxTFAwNmh2TFphcGlLYUZ4X1pPc2QxQTdkYm9UVWx2elZxcDhRcXNSd19ybmhOVTZpNXFvN3JvNUtCWi1TbDk1SVNIbFBTMHQ0MzdXalAwTmVvekRmMVFTOVVQOQ?oc=5",
-        "headline": "뉴욕증시, 유가 급락에도 기술주 매도세 계속…나스닥 1.1%↓(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/03 07:38",
-        "published_ts": 1793659117.0,
-        "tag": null,
-        "first_seen": 1793691035.389407
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LYW41NDVncWZYSGJoam9lcEhxX05ZakNacVYteGYtVFZIY21QaXRFOS1MQW94dDlQZHhPUWpuS2FfRzlndU5IeE92X2FoX3dISVZTMEx3Ukp6NnpLb0kyZUhrYzN4QXhp?oc=5",
+        "headline": "한화생명, 후순위채 4000억 수요예측 '턱걸이'…금리 상단 5.3% 확정",
+        "summary": "",
+        "source": "보험매일",
+        "published": "11/03 18:34",
+        "published_ts": 1793698475.0,
+        "tag": null,
+        "first_seen": 1793700039.9617047
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNGcxazFIOWJndkgtWDdwOXlsQS10WktPNDF1ZmpvaF9vM1pHaFh0WHpHdmhDODVSNy1TWHNlZ2t6VHdMaUpGNFhZMVFsYm5WTGpnaGNBWjV3UXY3WjJPWVdzRnREV01EUFE?oc=5",
         "headline": "한국투자증권, 회사채 수요예측 1.8조 확보…한화생명 후순위채 5천억원",
@@ -792,16 +802,6 @@
         "published_ts": 1793350698.0,
         "tag": null,
         "first_seen": 1793352633.838809
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Kc3d2aF9wQnpxTmhFREpQSTJmRDhSVFNGUUR4SmV3WUNMUXNPLWdGNVRnZlVJQU1ldG00SEFPU0xRRkRPUGNacVB6VFBTZHd6VFNDZkxTbml3WlVZRU9TRlpvZzZDX24tZ1dWVjhVRC1DVDZ3dE1JTFdTLUo?oc=5",
-        "headline": "엄주성號 키움증권, 누적 영업익 1조8163억원…거래대금 감소에 분기 실적 주춤 [금융사 2026 3분기 실적]",
-        "summary": "",
-        "source": "금융신문",
-        "published": "10/30 16:40",
-        "published_ts": 1793346032.0,
-        "tag": null,
-        "first_seen": 1793520925.4930918
       }
     ],
     "policy": [
@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45UlVpLTRFUFl2eTRqUE03ZFJWZjhKZ1NVZlVlVWhGQzZZVzBtVWdDNlVFOElKcFctUzVvYXBjSVJTa043bXFrMGhlTEJ0d19NUHNORVJvLTZMcnRzZ2FlNFRvS0Z5SDZ1ZHpR?oc=5",
+        "headline": "5대 금융지주 증권사 희비…3분기 순이익 ‘부익부 빈익빈’ 심화",
+        "summary": "",
+        "source": "시사오늘",
+        "published": "11/03 16:50",
+        "published_ts": 1793692207.0,
+        "tag": "우리지주",
+        "first_seen": 1793700039.9617047
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1vOUk4VDBkOFRTQjM2Z1pTbXRmQS1vVl9QaVdsQ2tFY2ExeU9VcXVOenB3OWl2OVR3VzJVX2dSQjQ4REtHLWRRTjBaUk4xVkZpT2xKZkMtbFV6M3FLRUxPMFRWWHpRNXRuVEE?oc=5",
         "headline": "KB금융, 최대 4000억 자본증권…차환·자본 보강",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793327527.0,
         "tag": "신한지주",
         "first_seen": 1793392237.2086372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QTHd3bUY3X2p2OXRRRG01YzNMXzFRaXV0LTRtLUJvRWwxZ0Q5OHgxNWpVd0NJQU5sS2lPbW9PbFpOVHA3WTBzS1ZUZFVkM09qbi1EM3lTVDkxdHU5THI5MFlaQWxBX1FlbzRz?oc=5",
-        "headline": "2조 5,000억 원 조달한 LG화학, 40조 차입금 덜기 역부족",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "10/30 10:43",
-        "published_ts": 1793324580.0,
-        "tag": "삼성카드",
-        "first_seen": 1793368842.6784499
       }
     ]
   },
-  "updated_at": "2026-11-03 18:45:50",
+  "updated_at": "2026-11-03 19:01:04",
   "yields": [
     {
       "label": "3년",
