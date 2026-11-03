@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xS2RLbkJJUWx5NTZMLVlVSnBvREVkZWtyVDFlcDhNdWg0NjFZMExkUk00ZXRwWGRYYW9GRTk3NTJfU0VrUnY3QXd0WWhUZDRUc3VKbFNZVnJIWUxjTjlUMW9qNXJwS3hSSXEw?oc=5",
+        "headline": "[배종찬의 정치판도라]‘돼지’국민들 눈에는 대통령이 어떻게 보일까",
+        "summary": "",
+        "source": "뉴스피릿",
+        "published": "11/04 00:00",
+        "published_ts": 1793718000.0,
+        "tag": null,
+        "first_seen": 1793720728.5845413
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kc0lmTXQ3cXZ3Z3ZjZkRqay1KTy1IdTlNRUlLZ2d0UHQxUmFPUW83OENRbEFCdHI3M2JzX2hkU1pwdTZrMUVlZFllOEVZUk9feUd4bXY5cW1IdFFLdlAzX1p2NjM5QjR4UGxLbmszRkRUdw?oc=5",
         "headline": "이재명 대통령, 국채 순증가 96조3천억원 발언에 박수영 의원·박홍근 장관 입장 차이",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793588707.0,
         "tag": null,
         "first_seen": 1793593833.4005916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jUTE4NmJuVzl3akp4RDcya3NVY1ZJbGY5Y0o4SUhFOHVmM00zUVBMNEVyelduWVJvaThxWGhJRnZLUzNNWXFqczhvMGZDaGw3Uk9Sa2lVUWYwVGpxYmlCVHZzUzBQbDFwZUMyZFBzeGdiSnVIOGfSAXpBVV95cUxQZ3lUejRxTU9IWmVNYjdXaXdMcW05NElUbS1IMl8zUzU1NDl0RFVyeTRXbmlSb2JiTzVaYXo3bExlM2taNWNOa294alA4dDhXUUdpLXR2aHVvbnFDLXJudDZoRlhBN0VmZ093ZWxfVjRXSURwTGpQb2hGdw?oc=5",
-        "headline": "\"AI·지방·청년에 쏟아 붓는다\"… 李 \"역대 최대 820조 '대전환 예산' \"",
-        "summary": "",
-        "source": "그린포스트코리아",
-        "published": "11/02 11:47",
-        "published_ts": 1793587623.0,
-        "tag": null,
-        "first_seen": 1793592927.2504308
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 00:31:01",
+  "updated_at": "2026-11-04 00:45:54",
   "yields": [
     {
       "label": "3년",
