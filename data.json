@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GaHFfSC1qSlZTMVFXWWhjMUoyQkk3b2YxcGNtNHktT0plVmprcFlJX0l2SUNLMlZXSTJOR1lWenBMMVdUR0k1aUxSdUtncmVUYXZvT3JVLUhIQW11THZyLW16QmZHckcxWmFn?oc=5",
+        "headline": "AI 설비투자 빚으로 메우는 빅테크 가산금리 청구서 커진다",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/03 11:16",
+        "published_ts": 1793672160.0,
+        "tag": null,
+        "first_seen": 1793673925.2828305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcmt1WTExNHdvWnF6NEFfVGU2cE1KcloyVnVKTEQ3b05XSGdUMUp0LVJudkNsZ2MxVkZtR2NERU4xOVJ0Z0dqT3BpcUZ3RXBLMDFqcmtyN0Flb3hfVmhzYW0wOWJSME9FVjRuMHBrX0lmdw?oc=5",
         "headline": "채권 끊고 예금 가더니…SK하이닉스, 예금담보 ABCP로 돌아왔다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793608246.0,
         "tag": null,
         "first_seen": 1793609124.9876335
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdXAtTUxyUmhFRW94eHdTcVlZU0RSY2tQejA4eXpqSmNZR1hlakhqTlVYSUxrTU9UaFZHMG5IckliRlg3dDNVSElFaVF3ajhmNHhDNFlqeGpnejU3LWtYekprbmk1aDhvSXh1WFNCekkwQzJJTnFLVm8wQkp1SFRuOQ?oc=5",
-        "headline": "피치, 프랑스 전망 '부정적'으로…예정 없던 긴급 평가",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/02 17:09",
-        "published_ts": 1793606980.0,
-        "tag": null,
-        "first_seen": 1793662237.0876532
       }
     ],
     "perpetual": [
@@ -1218,6 +1218,16 @@
         "first_seen": 1793672127.50009
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qVmVtZmxWUE5kczZISXppdE9XWFEwSW1rWUhCS09tdHBELWJYaWZnOXlSNWhKWUY1QnZuVl9jOUtBYkhnNnJFOGpEYmgyWER4VXVKWjhGM1kwUmhkNTN6MDIwZENmVFl4RGRBd2lFdHB2QQ?oc=5",
+        "headline": "韓 신용등급 14년째 묶어둔 피치…이번엔 달라질까",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/03 10:02",
+        "published_ts": 1793667722.0,
+        "tag": null,
+        "first_seen": 1793673925.2828305
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYOGxwbFA5VENhTWlpUTEzaGJpekVCT3ExOFVlZjBXTS0wc3VmMGdwRWFza0dRaHZZaHgwUkJPeVo2b1VJTVp4akdfckZmME9DZlVWc1JSQjRBLXBOb2dFUzlTYXdHZ2RE0gFoQVVfeXFMUFg4bHBsUDlUQ2FNaWlRMTNoYml6RUJPcTE4VWVmMFdNLTBzdWYwZ3BFYXNrR1FodlloeDBSQk95WjZvVUlNWnhqR19yRmYwT0NmVVZzUlJCNEEtcE5vZ0VTOVNhd0dnZEQ?oc=5",
         "headline": "李대통령의 '7500자' 시정연설에 빠져있는 이것?",
         "summary": "",
@@ -1594,16 +1604,6 @@
         "source": "뉴스핌",
         "published": "11/02 11:02",
         "published_ts": 1793584952.0,
-        "tag": null,
-        "first_seen": 1793585726.6184356
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Oc0ZRSjdpX2JCS3VuNHpfSmtfNVVYWE9GZFZuSW1sTW1SN0RGaHpEeTl2dkFzMEZaNlpiWFA5SWFiWWFaVFBGTzc0blJadUl3NHE0Q1RFQjVjMUM1NVU2czJmQ0F2YVdrTmtzYjBpYjFVS1Mz?oc=5",
-        "headline": "국힘, “미래대응기금은 히틀러식 재정수권법”…821조 예산안 정조준",
-        "summary": "",
-        "source": "부산일보",
-        "published": "11/02 11:00",
-        "published_ts": 1793584849.0,
         "tag": null,
         "first_seen": 1793585726.6184356
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 11:30:57",
+  "updated_at": "2026-11-03 11:45:50",
   "yields": [
     {
       "label": "3년",
