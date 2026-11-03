@@ -484,6 +484,16 @@
         "first_seen": 1793693727.4154675
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA4Y3ZkUWxGWWQtU1hPTGpFVjlpZEhmY04xdm5lNVVLb0tlRmVtNWdOeTJzcjFydEVNTnhfS1V2UU5ZOUZGUFE?oc=5",
+        "headline": "한화생명, 4000억 후순위채 구상…\"차환 수요에 선제 대응\"",
+        "summary": "",
+        "source": "Daum",
+        "published": "11/03 16:15",
+        "published_ts": 1793690145.0,
+        "tag": null,
+        "first_seen": 1793716239.3307736
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WaW9GWXd5bm5KZDQtQXVNdzBTenZra0JQX1lQWU5kd1RWYUh4Z01jUkJrbXZPb09IQndyQm5yZ2t0SHoxTmE0LV9IZlllR3R6aTBxYk9B?oc=5",
         "headline": "자본규제 앞두고 보험사 후순위채 발행 급감…2년새 22건→2건",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793375832.0,
         "tag": null,
         "first_seen": 1793376925.0663083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82TnBvd1lQOE5lX2NPNGNhWDZFUjEtMTg4MTVuNjVZT0lQLWIwRkY1RFAzdENFYmV6RnZ4cWZ1ODVTa1VMQTNkV1lENS0tdnhDekxjdkRFZHNoQQ?oc=5",
-        "headline": "비우량 회사채, 8월 이후 발행 '0건'",
-        "summary": "",
-        "source": "한국경제",
-        "published": "10/30 17:58",
-        "published_ts": 1793350698.0,
-        "tag": null,
-        "first_seen": 1793352633.838809
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 23:15:54",
+  "updated_at": "2026-11-03 23:31:03",
   "yields": [
     {
       "label": "3년",
