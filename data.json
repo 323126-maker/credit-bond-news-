@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb3ZWdjRnQnV4QnBLZV8wTGF5ZVIyN1JKdnlXVFprYTBscnh0TEVwU1dnNDM5Q0ZMSTZWVGMxUHJybm5tdExNRTFER3hkWHRLM1NLWlpiN2dmb09obWpualZGQ3NsMXdTZmF1UEo3Q2psZnJmblRvNmJFVWp5Y1N6SWNXYVZQLThUT2tuNVdGMTBsdVMzX0hyN3RjQTFOYjRITktlY3pYUFJ5TGh6Yjh4MVRhVE4xcHBQZTh4OXFIVUU0S2tKekhlRC1PYw?oc=5",
+        "headline": "Fed’s Musalem Says Additional Firming of Monetary Policy Will Be Necessary, and Soon",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/03 21:09",
+        "published_ts": 1793707799.0,
+        "tag": "Fed",
+        "first_seen": 1793708127.4326034
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMEt5bkE2cUN0Q2ctYVJoSWIyWjJqcEFvNzR4cUowcjNzOGNyRVNMV0p6bjlfb01GVjFHNmtXTGZzSDMzdFFVSnZyMjlHcWJSbllyczdnWF9YOW5qQlBGWHhtRld1RU5ReEl1UFBNcGNOT1U4RVZvaEx3TkdSMUNKSlVhVQ?oc=5",
         "headline": "Japan fund sector review – a strong but narrow market",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793667859.0,
         "tag": "Global",
         "first_seen": 1793697331.5914106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOLXFseFBvQVM4RXJxdXNMdTJiMDU2R2luYklKUmREdFQ2NTJXcXFiSm5XcmVkMlFuUXgyZGlSQXhIaGV2Qk5NMWtfSjVXYUMycUFGWU1CeXdfZG94RU1RT21hRTMtSDkwWHdfb2lKLXlFZmVJUWxTMHR3QksyeE9GMkF1RnRzUmFvRHdSbUs3SVJxVDVlZjlFdHJEUnRtZ0t2ZlZxQS1uUjdnVGV6cTBmN1k3dnM3R0FSNks1UFJEMUkyNWNQWlljdUhGMA?oc=5",
-        "headline": "U.S. midterms unlikely to alter outlook for bond markets",
-        "summary": "",
-        "source": "The Globe and Mail",
-        "published": "11/03 09:59",
-        "published_ts": 1793667597.0,
-        "tag": "Global",
-        "first_seen": 1793668525.080777
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 21:01:07",
+  "updated_at": "2026-11-03 21:15:53",
   "yields": [
     {
       "label": "3년",
