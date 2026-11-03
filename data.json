@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1JTEw2dmV6QlZvclhnejBCQ1NyOVFKSXZVQXRidTdlQXM4VmdTMFBjY1ZrQnZOMmR3TVE1WEVRQm1QZzBMOVFIc0ptQTZwQi1IRzkzQjlkNjhIb1E2Unc?oc=5",
+        "headline": "\"크레딧 스프레드 소폭 확대…금리 상승 시마다 분할매수\"",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "11/03 09:03",
+        "published_ts": 1793664180.0,
+        "tag": null,
+        "first_seen": 1793664927.828654
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIX1RSckx4d2RRWGxNbjUwamFtMEl3X1lBREg0c0JVbXJFWVlPNExjSEVYTG1Yclc0SXRtUjdISlJfMEc0M3BfVlQ3bFBCSk5JM3pib3haZDZNOGdkVmNRX2FuLW9QVXQ3TVE?oc=5",
         "headline": "AI 투자에 회사채 발행 늘리는 빅테크들",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1793663816.0,
         "tag": null,
         "first_seen": 1793664042.5310795
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5THA1TnVhT1h0TmJDNFM1aUYyYXlqX3l2WmdUbVlDY0Q5MkN0ZWd6QlBucUlHaTJ5VktrSVhnVXAyOGJPdHdYa01NYXNVdw?oc=5",
+        "headline": "AI 투자에 돈 쏟는 빅테크…구글·메타, 수십조원 채권 발행 추진",
+        "summary": "",
+        "source": "전자신문",
+        "published": "11/03 08:51",
+        "published_ts": 1793663518.0,
+        "tag": null,
+        "first_seen": 1793664927.828654
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3Y2JEcUNsV0MxeHRWNVdZNFZxQThCcVVLX3E4VmFFcjRzd1gtbjYtRWo2X3kxUHFIUWpvdXhfalNTdVV6cDZybzlZa1kwcjNpc3lRLVRWQVBpZnFDMTdrVw?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1793597792.0,
         "tag": null,
         "first_seen": 1793599239.4168692
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9WUnU0VnJzVUJwMG0tWXQtNVZBUDVNaGdrckdycTBGWFo0SHFVMjFRS3NSUWFGQnNpaXFPUFMwRTdUX3FnUF9qZFpSNlAwSkZIRmV2NXdFa3I5akRLeGRQUWZzUUpYNXVnTE1VTDNGTmLSAXRBVV95cUxQTVprV1hiSW04UnRHLURybVBtOWdEbFVENEctUjd4UkFfUkJqSUVPSUkwQUp4c05LeTNvLTdkNkU1dFBkYjRGMkJmamotdm05ZFc5WE1wR1VZVUJESnNQd1Zyd2ZnY0FCQmxSR0RrakVGTm1lbQ?oc=5",
-        "headline": "주택금융공사, 11월 보금자리론 금리 0.10% 포인트 인상",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/02 14:29",
-        "published_ts": 1793597341.0,
-        "tag": null,
-        "first_seen": 1793648726.9314754
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5WS0gtRHo4RGZGTHdNNThNZU9HUDRKdGw4c051eUFLZnEyN1dJTldXSk8yUl9NN0hyYU1zTXdwbTBhTlB2aHpkQ0R5MVE2Y295dTNVLWFOSnFVOVdzQjcweXc4MlRIS05JUHJmc05rRFdJanM?oc=5",
-        "headline": "＂데이터센터 찬반 묻는다＂...美 중간선거 최대 관건은 [딥시그널]",
-        "summary": "",
-        "source": "한국경제TV",
-        "published": "11/02 14:28",
-        "published_ts": 1793597280.0,
-        "tag": null,
-        "first_seen": 1793607741.4624448
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 09:01:07",
+  "updated_at": "2026-11-03 09:15:52",
   "yields": [
     {
       "label": "3년",
