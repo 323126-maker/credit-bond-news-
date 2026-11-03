@@ -1660,6 +1660,16 @@
         "first_seen": 1793731534.5336578
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWNYcHhCM1p6VzFVR1E4QlZlV2FjRzVPS3FtYUdPZnBEaUhZYjFfS0ZQbmhWT0FsZWtnSWJ0QXJ6elN6cVNMSVR4dHBEa0RLay1qUS1neHZiY3BDTjUyTEoybENINHpyUlJHeGgzclpzN1RZZjkwbmt1clZuQXpodUlTSmJTZHVVZUtIS05SY3dIUjJNNnZYNGFZLWlWWnRkbWw1MF9R?oc=5",
+        "headline": "Billionaire Paul Singer Says Wall Street Faces “Obliteration”",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/04 02:07",
+        "published_ts": 1793725620.0,
+        "tag": "Strategist",
+        "first_seen": 1793736942.7271094
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10czZTeFItMGpwZDk1YS1nMXRKemhRSzlUM2pvX2NoQWJmR2VTR2F6aDRmelJWbVZXNEhyUWNzYWJiRTZTaFNydEdhc293OHdzZWhnRkIyOVRZSE51YnNFVzR5djRiTGdyYmJxRHQ3YUJFeWlOVnc?oc=5",
         "headline": "Real Cause of France's Government Bond Yield Surge: \"No Central Bank That Prints Its Own Money\"",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1793717346.0,
         "tag": "Global",
         "first_seen": 1793735136.7786639
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0RkZHhFX09zNUdhbGotOFJyMXg3UUJsSE9ISXBGd080bW1MekdIMkRMNHI2dHFVZkVFbG1LUkJJX3JkS24wYXJUdURSbzlseFQxOHZBdFp0YkJOMThfNFZHXzRvQXdJVzlHazBEYkxIcjU5XzBqUjNjOTNfZ1E0M0ZlMi1fN1NMWFV0NFYxWElCMUl2S3gwVA?oc=5",
+        "headline": "Paul Krugman says billions in AI borrowing will hit a 'Wile E. Coyote moment' as lenders get cold feet",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/03 23:00",
+        "published_ts": 1793714400.0,
+        "tag": "Strategist",
+        "first_seen": 1793736942.7271094
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRnA5S0hlcXVfc0h5V0dlanBjU2hJdm80cUE1eGEyQXhmb1R0WnNoOGF5LW1ySlFtMi1aaXEwQnZWbGxTV1RSSDQ0c19TN3AxN2VMV0l3SFBMRHN5S29Yc0pvOTFxSjNSUzhYWVh0ei10b0hxQk82azVIV21oWFVGSTgzUGxhVUU5aHhoWHZ3S2ZjbC1QWHNQd05IU0g4cE1xeDdSaFNvWG1kQkx1MXBQQVZ0MVFPU0JOS3RSR1Vn?oc=5",
@@ -1987,26 +2007,6 @@
         "published": "11/03 16:25",
         "published_ts": 1793690734.0,
         "tag": "JGB",
-        "first_seen": 1793698236.4816833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNOGtjdlNvdnZwR0MtSXlZV1pCbndFYUEyLWVSS1N4UkotNW9fTlBXbmlLaU04aXRUc2JIZmN6aTNRbjB4cjhOU2RMUG5keXloRnc5cVYydDIxNk5uUXJvM0RGRXpXRmlrcm5pNU5LdEhLRGRBWldldkJFczdDRVZULW1VNHppaHVTRUdpQzNVdnhwNDh3aXVBTG9MTzFwTkRjb21COHRGY1VQeTBlV2d0MjZoaGYxZHBpUFE?oc=5",
-        "headline": "The last increase: market clings to hope of interest rate peak",
-        "summary": "",
-        "source": "AFR",
-        "published": "11/03 16:21",
-        "published_ts": 1793690460.0,
-        "tag": "Fed",
-        "first_seen": 1793692801.527464
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTFZ6Zm1wcjVFRndla2IyUm80TWNhR0RtcWdicGNKS05LTGpWcjNya3pxSmtNT0txRVhQbXAyWXlSRmFEWkVhR2VGRmptVmpMTVl4b1NidUdmdFR5SjJpbDBibWxib1lZQ1pVTnBpNXZ2bTE4YTFlM29KZ1Znc1k4elJOcmFnY2s4bm9xSFphVC0tUHFGY3BESnc2V1dmNnczN0Jv?oc=5",
-        "headline": "Invesco Short Term Treasury ETF offers low dura...",
-        "summary": "",
-        "source": "Pluang",
-        "published": "11/03 16:05",
-        "published_ts": 1793689525.0,
-        "tag": "Fed",
         "first_seen": 1793698236.4816833
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 05:01:11",
+  "updated_at": "2026-11-04 05:16:08",
   "yields": [
     {
       "label": "3년",
