@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NaEN2am0zOFRnX28zc0RWTGJ0T1NybUZGcjk3TmRVd1VjMVBOZTdPaWZjTE92cEM2U3lKazRNQjBOR2REckVDRG90clRwdlJhNWU5dXV6ekJjOFVaQWtpcw?oc=5",
+        "headline": "[IB토마토](크레딧시그널)전북은행, 부실 늘었는데…충당금 방어력은 '뒷걸음'",
+        "summary": "",
+        "source": "뉴스토마토",
+        "published": "11/03 13:57",
+        "published_ts": 1793681852.0,
+        "tag": null,
+        "first_seen": 1793682925.6491199
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IWFdZelByODY2RkpVZEhrZjMtOWFEWkFrRUtHVzhNTXczbDVOcTFEQ0NLbmFXSEJ6aFZuMjB5dktrdVRVdDN1RnpDeUJEM190eEJTM0dTM0d1ZGtORFlXVUthMThjd29SR09v?oc=5",
         "headline": "피치, 프랑스 신용등급 전망 ‘부정적’ 하향…2028년 국가채무 GDP 124% 전망",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793612040.0,
         "tag": null,
         "first_seen": 1793655926.663503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91VG9nWW5IWGdlUTN3UUU3ZzY1dkRDQTJuS3ZKOWR2N3lIN01aUkNvOWpNdE84N0ZVYTgwMjdQQ01rd21yTnFTUlZXaEw2cUNROFhVZGp2Wko2QQ?oc=5",
-        "headline": "유럽 '정크본드 쇼크'…재정위기 앞서 기업금융 위기 덮치나",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/02 18:25",
-        "published_ts": 1793611517.0,
-        "tag": null,
-        "first_seen": 1793611836.9577801
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
+        "headline": "Global markets were already fragile. Big AI bets could break them",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/03 14:08",
+        "published_ts": 1793682480.0,
+        "tag": "Global",
+        "first_seen": 1793682925.6491199
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMlVnTlM1X3BlLWJFX0RXVWJFcUNsb19RYjNLU0EwTzMxTzFNUHpPZ0ZqNU1HN0poMU1BS2FvQ3ZycnRENk50QTdVaVU4Y3NSZWgxbnJ3M29yaGpJZXdUTkcxbGFDa1VkSlBtRnEwb1VoR2NHOE5HVkRsT2pIeTJ3c0p5WWM2YVpMVTcwWU1TT0RQT2x6YlZKYw?oc=5",
+        "headline": "AI Corporate Debt Booms, Pressuring European Bond Markets",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "11/03 14:05",
+        "published_ts": 1793682346.0,
+        "tag": "Global",
+        "first_seen": 1793682925.6491199
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5fY2pzNHFvVU1nRV9FWllHMlpRRHhab1BfWjNvVEJEZE9tVkc3NW5BLTlOc0U5QmhweEtUVDJaSEdTTjBwX1Z4U0lTZDdybGh1?oc=5",
+        "headline": "Asian shares fall as AI-linked sell-off deepens ahead of US midterm elections",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "11/03 14:02",
+        "published_ts": 1793682179.0,
+        "tag": "Global",
+        "first_seen": 1793682925.6491199
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xRFJJbXFQZmtQMVRsbzVXazFUSGVPdmFWbHpwVHRVYXRBX2VwSG1fMmZZU2xqbHV3TEpBM2Z3ZHYtaGd5SkZTM2N0aWZxYXdndmdrVQ?oc=5",
         "headline": "Gold Holds Near $3,950 an Ounce After Rebound on Hopes for US-Iran Peace Talks",
         "summary": "",
@@ -1978,36 +2008,6 @@
         "published_ts": 1793642400.0,
         "tag": "Global",
         "first_seen": 1793643326.6065707
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQczRJcmFkMTNQZk81NUYwT1pseTVsaDk1eGlSbHJDNHJUc19nVmZhajRlTUZrSnVSTDFiYXAzY3BubS1IZWNyeWZQZnItVjBoRC1iVHdqWVNwVEYyWUNpR0tKOWFqZmk3cnRPenhGOWUzN3YtMVRLQnZYdlFscGZxTW5SUmdOUmtHQ3NDTmJBcXJ1Qllaa1oxaTFCazU?oc=5",
-        "headline": "Fed Chair Warsh plans to reduce number of rate votes — CNBC",
-        "summary": "",
-        "source": "UA.NEWS",
-        "published": "11/03 02:46",
-        "published_ts": 1793641600.0,
-        "tag": "Fed",
-        "first_seen": 1793646039.6181347
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tTFUtVnJvQU9ycWduVGRoX3pqa0hkRGZ6bFUydUVrSDA2TklvLWRKb2RYak02OXNGS0JUWGl0ekFiNHBiaHBnZ0w3d3NpVFVhOUt5ZDNjd3hWUjR3VXFjeVNGb0ZfZUhqc00tU0U3Z3RKQ3dnUENR?oc=5",
-        "headline": "Fed Chair Kevin Warsh is cutting the number of rate-setting votes",
-        "summary": "",
-        "source": "Quartz",
-        "published": "11/03 02:26",
-        "published_ts": 1793640397.0,
-        "tag": "Fed",
-        "first_seen": 1793640638.8589416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxON25lOVI3Z09kNU0xX0dCRk00ZWFLSDVORk5fRUNQcTY3M1dwSHRPTTJESnk3ZnpYZks1LUw3Y1BoZjBJOHotS0sxYUVLMDVqRk54V2RKZFhETnBfVmhXeWZfZkwzTjU3bzZMVTFNVlZoWHBQVm1fVXdGb2U1WjR6ZWpkaDV1aUllTEJENWFIVDdrUExIVWk4VzNyTmVtdmM?oc=5",
-        "headline": "The Fed Waits as Municipal Bonds Regain Their Defensive Role",
-        "summary": "",
-        "source": "AdvisorHub",
-        "published": "11/03 02:24",
-        "published_ts": 1793640249.0,
-        "tag": "Fed",
-        "first_seen": 1793640638.8589416
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 14:01:05",
+  "updated_at": "2026-11-03 14:15:49",
   "yields": [
     {
       "label": "3년",
