@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TM1Z3cW42bmJOYkMyMV9HcDlwa2VZcHU5OUh2MlVIWnBycU9jREFfVXdjNmNMZHN4VFl2dktYaDhCNm9HUGZxMVNRVEZ1TUU3NmxpTTh0NzU0Zw?oc=5",
+        "headline": "[속보] 코스피, 3.59% 급락한 5648.79 마감…코스닥도 4.08%↓",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/03 15:35",
+        "published_ts": 1793687715.0,
+        "tag": null,
+        "first_seen": 1793689241.1595225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NaEN2am0zOFRnX28zc0RWTGJ0T1NybUZGcjk3TmRVd1VjMVBOZTdPaWZjTE92cEM2U3lKazRNQjBOR2REckVDRG90clRwdlJhNWU5dXV6ekJjOFVaQWtpcw?oc=5",
         "headline": "[IB토마토](크레딧시그널)전북은행, 부실 늘었는데…충당금 방어력은 '뒷걸음'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793613271.0,
         "tag": null,
         "first_seen": 1793673035.8893216
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNDZHU0RYTUpOOHNVRDMyQmRxSEJJOXJJMFhoaXNuZ2J3VndFOG1kZ3MzLVc3X3NVbDRTVzMydUpMaEI1UmRkRXRxQTFMNGViUVdvZExNdTlOTjZo?oc=5",
-        "headline": "부산 'ASEAN+3 채권시장 포럼' 개막…해운 탈탄소화·블루시티 논의",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "11/02 18:34",
-        "published_ts": 1793612040.0,
-        "tag": null,
-        "first_seen": 1793655926.663503
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEczRjc3FQNDVYUXBLZ0xDYXVoVTZHNy10S1Myd250aEp3LUJoRmxKajBIRERxU3RucDdMZUFqcExtZDBFcUhkQ0U4VTl1NmZwcEJGTDBBSFlwam1BcEhUaDM3UnBjdXltOXpVYjdpTUw3UQ?oc=5",
+        "headline": "\"日 금리 정상화에 해외자금 유턴…엔화 장기 약세 끝나간다\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/03 15:33",
+        "published_ts": 1793687604.0,
+        "tag": "JGB",
+        "first_seen": 1793689241.1595225
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPS3J0ZTJyaFZHR1V6RHBvNHEweERndnlqM0NiSkhDYU45TnZGZUJjdEFQcVhwR1R4akd0ckdldEdPREx3TWhSZEswWEdsZHcwbzZVV3h1bnhMTkJMTlFwSFltd0dlb1E1Y0RyWkxMVHNEcjFUek4xdW80dXkzVkhXNUVuYTlqT2JWcWYwdU4teEc3dHlBZ1RpQlUxYWFlRElmSktMbUo5dXdMZW1p?oc=5",
+        "headline": "Could the AI Investment Boom Trigger the Next Global Financial Crisis?",
+        "summary": "",
+        "source": "Modern Diplomacy",
+        "published": "11/03 15:19",
+        "published_ts": 1793686763.0,
+        "tag": "JGB",
+        "first_seen": 1793689241.1595225
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4eW5sWVB1ZlFxZjVTdkdKS2NQVDd4VGVkeWRSN1NmOFVEazg3aWR1aGYzb2RfbnN0LW84M2lhR2doa1BBdzNRclhWeExfQUJKVUd1T0Y0c3ZScjB1TjZtYg?oc=5",
+        "headline": "한·일 중앙은행이 짚은 AI 호황의 위험",
+        "summary": "",
+        "source": "메트로신문",
+        "published": "11/03 14:23",
+        "published_ts": 1793683383.0,
+        "tag": "JGB",
+        "first_seen": 1793689241.1595225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOcE4zc2x5OEJZU0pFUTJXWlF6V2c5TmZ2MmFxLW9QcHhMdFpUZ0tsNWtSTXYtUG5pckRUVTZBQnNGZkE4T1FhRHdESDRmejMzc2VOTjI3UGhjUEJiLUM1bUNHZU1qTWtMOEthVnp5QklOMDdkOWdVSk5DR0g1UFZ0ekJ5TTROejhJaXpRd1FTRVMyZlNIbG4zcA?oc=5",
         "headline": "Global markets were already fragile. Big AI bets could break them",
         "summary": "",
@@ -1860,6 +1890,16 @@
         "first_seen": 1793657727.4217122
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+        "headline": "Treasury Rates Today: November 2, 2026",
+        "summary": "",
+        "source": "Forbes",
+        "published": "11/03 06:29",
+        "published_ts": 1793654940.0,
+        "tag": "JGB",
+        "first_seen": 1793689241.1595225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPZDlya2ptUW1DQVhkd1NGUUhOYlNObGp5VDN5Rk92RWlRMHZlWHdhUWVfUlB2ZDVwSXlmaWs2RFF3cF9wU0hNZnJiUF93UFRfS2stR3NQbXliQTRWbWtyZTlwVFU1XzJkbVZSSDg3M1ItR01nOVc0TG1PSGVvN0d1YUxwekJUZkFHRVNZbDVUUQ?oc=5",
         "headline": "How AI Spending Is Reshaping Bond and Rates Markets",
         "summary": "",
@@ -1968,46 +2008,6 @@
         "published_ts": 1793649261.0,
         "tag": "JGB",
         "first_seen": 1793649641.9462833
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ZNTNuM0dnUjZqMmpLSnhYQlVHWVEtdlhzOGtEM2dWS09NTm5od3VhSktKNURYaTlRTG1tRjlUYnhVOHdlTW9pVXpZNER0Qm5lMmt0anFmTDZ2QmFrSUlEUFdjRkw?oc=5",
-        "headline": "MSFT6559542 Bond Yield and Price — FINRA:MSFT6559542",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/03 04:37",
-        "published_ts": 1793648235.0,
-        "tag": "Global",
-        "first_seen": 1793648726.9314754
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOY0xINEs2ZHZyTENtX2pfeEhpTF84emxNazJZT2tsUkxUQXRORHRQeDhFc0NHNXlhTnhRbENmVW1iWEZQR1NndzA4c2o1RElHXy1iTnRlbE1nemVvczZELU1nQld6RXRGdFZndEhJeVNfLTZGeWRycHVJRlhjTWE3eXB4VS1ob0JEdGduYVk5RThvNnQ4d2hNWkQyd1o0eEdUb2dzR0VCaTJZZUdEdWNydHhrNHp3MVFIMTBXNGpB?oc=5",
-        "headline": "Le Déluge: On the brink of a French fiscal crisis?",
-        "summary": "",
-        "source": "BNY",
-        "published": "11/03 04:18",
-        "published_ts": 1793647081.0,
-        "tag": "JGB",
-        "first_seen": 1793654126.6832898
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTXZEZVR0eFFhajNmbHRXVldFdzBMWXlOWHo5WnhHcTJHR0t3bng5SEZNVERBU09IRW1Va0xMVVo0MlVGX3FxNHo1MTlVUHlDV0RGZ21FZVg5QjAzUGZ0MnA4UVpwWXBSdUsxTldiTHEzbEItRnVwdlVvSzM1LXJtdF9OWU94bXJnaEFMckdlRnZ6WElLeUlmYVpjUGlETzU4UkpXV2NSUFFPYmlC?oc=5",
-        "headline": "Alphabet Is Paying Up for Euro Bonds in Test of AI Appetite",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/03 04:02",
-        "published_ts": 1793646123.0,
-        "tag": "Global",
-        "first_seen": 1793653241.3808408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPb05fRTBoNXJFU0RNcGRtUHVhbTlQM091bEl5dWNMUlB3MU9uMWpZb05CQlQ5TzBLVnF3aXZZcFZUbXBIdzVnYW5MWUZITjhtOU1kODVOSl9fZFRUclQ0THNVSzR4cXo1blNCRi04WHhQNlliaVoyWGktbVFQdWFsV05QQjBkNF9SYm1WQWFZSjFaMmM3RmFpUjJfdUwyUnU4aTgza01lYkk2cEdBZENUOVg5dHNndUtxbjUwUHA3R2FxdTYtTmxpWQ?oc=5",
-        "headline": "Bonds Are Down Again — Why Clients Should Rejoice!",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "11/03 03:02",
-        "published_ts": 1793642538.0,
-        "tag": "Global",
-        "first_seen": 1793643326.6065707
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 15:45:50",
+  "updated_at": "2026-11-03 16:01:03",
   "yields": [
     {
       "label": "3년",
