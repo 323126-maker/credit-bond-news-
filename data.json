@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfbndSQWNuTWRNeVY0cXdXVERuSHNsWjdWZlQ3WG9RZUc1bGswNGV4Z3BXd1FZMzV3QUQtUzNnQzVBdi1XcW81dGd4dW5rZXN1eE5KdF9WQ19aVW9WcTlwRtIBeEFVX3lxTE03RmQ0d2lCRWV0M1NnVkRfcGV6bXFNc0lnZ1R1MkVqMTdQYVhoUjl2ZXdhUXBNSy1aSFZRMElCcDhxTnZNbDB6by05NkpJaWE2Tmd4Y2g3djU2ZUxUZnFza0ZRZUhYX0p2YnRfbjZBTkNtdENDQXBKMA?oc=5",
+        "headline": "\"주식만 믿던 시대는 끝났다…채권과 자산 배분으로 눈 돌려야\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "11/04 00:00",
+        "published_ts": 1793718000.0,
+        "tag": null,
+        "first_seen": 1793718930.6157737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxeWs3c0k2S2oyNTc4TEJBWUJnbERHZUhQOHh2ajJVdFU1SWhnc1BZMWo2MlFhZm5LOUcwS2l2RlcwWWplZXpONERjZ0J5eEE0WktIb25WOEVtVVdlbUx2WS0tWUNHbERkWHY5SGdNajU?oc=5",
         "headline": "카타르 \"美-이란 합의 가능성 희망적\"",
         "summary": "",
@@ -342,6 +352,16 @@
         "first_seen": 1793668525.080777
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rUjdSTFIwWkNIdDFJZlJmeDhVdkZienRGc0Rfa3piTzdBbE9RUkVGQ2tUNUc1WlM3a3B0VDJGQkJaek9wbTFaaU5UR3lOVkpOeFVQTDZiZGRrTThVSVhXUFp6ZTJkRnlMeW8wVGI1dlM?oc=5",
+        "headline": "JP모건 \"美 중간선거, 민주당 압승 시 장기 금리 하락\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/03 09:49",
+        "published_ts": 1793666954.0,
+        "tag": null,
+        "first_seen": 1793718930.6157737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JU0VTc2QtdVNBZ3RtMlJSSGJ5NmtxTkV2VGl5THFMYnFqRzNkU3VOSVNNQ0cwUVZfZElPSmdNOGJ0SG92S0FlMkVpX3dtYzNOSWlLR1FqMnVnU2vSAWBBVV95cUxQbGp4dDhySlU3T0NXdGR1ZWJLaDhST3ZkTTNfamhFZXJXcURGX0lNNXBqVlhHdmF3VTBsTmd6WVJJWVRqVjZ4S3ZmMlBTN1ZpQ0RpME5HS1lwMDJwUWg4LXU?oc=5",
         "headline": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
         "summary": "",
@@ -378,26 +398,6 @@
         "source": "뉴스투데이",
         "published": "11/03 09:03",
         "published_ts": 1793664180.0,
-        "tag": null,
-        "first_seen": 1793664927.828654
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIX1RSckx4d2RRWGxNbjUwamFtMEl3X1lBREg0c0JVbXJFWVlPNExjSEVYTG1Yclc0SXRtUjdISlJfMEc0M3BfVlQ3bFBCSk5JM3pib3haZDZNOGdkVmNRX2FuLW9QVXQ3TVE?oc=5",
-        "headline": "AI 투자에 회사채 발행 늘리는 빅테크들",
-        "summary": "",
-        "source": "대한데일리",
-        "published": "11/03 08:56",
-        "published_ts": 1793663816.0,
-        "tag": null,
-        "first_seen": 1793664042.5310795
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB5THA1TnVhT1h0TmJDNFM1aUYyYXlqX3l2WmdUbVlDY0Q5MkN0ZWd6QlBucUlHaTJ5VktrSVhnVXAyOGJPdHdYa01NYXNVdw?oc=5",
-        "headline": "AI 투자에 돈 쏟는 빅테크…구글·메타, 수십조원 채권 발행 추진",
-        "summary": "",
-        "source": "전자신문",
-        "published": "11/03 08:51",
-        "published_ts": 1793663518.0,
         "tag": null,
         "first_seen": 1793664927.828654
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 00:01:19",
+  "updated_at": "2026-11-04 00:15:51",
   "yields": [
     {
       "label": "3년",
