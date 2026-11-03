@@ -312,6 +312,16 @@
         "first_seen": 1793614528.6021523
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9jaWwySEhaTWFUdnhEekx2TTNSbF9RM3Q4c2NfbWttRFVPZDdCX0YyQjBERDFCNmVLVnduV1Y3cFF6aXpTNHgwODVlQTdxTmpiU2JjcTBWUjVKUFN4NXBraG5FZV9zXy1iVkxNY2l1ZDk?oc=5",
+        "headline": "[채권-마감] 금리 반등…중동 협상 기대에 위험선호 강화",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/02 18:54",
+        "published_ts": 1793613271.0,
+        "tag": null,
+        "first_seen": 1793673035.8893216
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzNDZHU0RYTUpOOHNVRDMyQmRxSEJJOXJJMFhoaXNuZ2J3VndFOG1kZ3MzLVc3X3NVbDRTVzMydUpMaEI1UmRkRXRxQTFMNGViUVdvZExNdTlOTjZo?oc=5",
         "headline": "부산 'ASEAN+3 채권시장 포럼' 개막…해운 탈탄소화·블루시티 논의",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1793606980.0,
         "tag": null,
         "first_seen": 1793662237.0876532
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hWHR3X2ZpLTMxT25XTUVEd1JvRXVrVXBBVGZiVWdyc2JmWHZmZHQzOEdxTGNpVUlsYXFHa19XQ3dLUjZiSmdiaXhfdDFJMlIxdmx1dFJTVTFRS0U?oc=5",
-        "headline": "국고채 금리 일제히 상승…3년물 연 3.740%(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/02 16:55",
-        "published_ts": 1793606101.0,
-        "tag": null,
-        "first_seen": 1793607324.9793754
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WaW9GWXd5bm5KZDQtQXVNdzBTenZra0JQX1lQWU5kd1RWYUh4Z01jUkJrbXZPb09IQndyQm5yZ2t0SHoxTmE0LV9IZlllR3R6aTBxYk9B?oc=5",
+        "headline": "자본규제 앞두고 보험사 후순위채 발행 급감…2년새 22건→2건",
+        "summary": "",
+        "source": "헤럴드경제",
+        "published": "11/03 11:15",
+        "published_ts": 1793672111.0,
+        "tag": null,
+        "first_seen": 1793673035.8893216
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB1aUhLU3dhNnBnaWpaZjBicG1CTGZtZUZxa1hDUUMyZ0g0Q3JaUlQyY1RNZ3RpZGJLNVVxaFRaTFhSMV9ucXJFdF9HUGZSVDNYZzByZXRR?oc=5",
         "headline": "보험업계 후순위채 발행, 2년 새 22건→2건 급감 이유는?",
@@ -792,16 +802,6 @@
         "published_ts": 1793317900.0,
         "tag": null,
         "first_seen": 1793535324.004125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9QRlVLUTFfM0tMSVFBTERkOENVeWdGTVlrb3FSSGhqODR3OEtWYXhFNmV4ZXl5SUZyR0U4RFhHTnhlb2I1SDZ2cHJ0N25ONWhLMGJPMmtud2ZEMFNsdXlfTnVKWDdCWjBzcGlv0gFUQVVfeXFMUEVLYmhGbkpKaklCUjZSRnF2SDBXVHpMY3k4ay1CWGZBVGE1dDZPcldmTGJ3eXZJTTN0eUJPNzU0T0FUUHdDNjhPcWJMbUhtXzZxQmpN?oc=5",
-        "headline": "‘영구채인데 영구 없다’…신종자본증권의 역설 [공시 한 끗]",
-        "summary": "",
-        "source": "세계일보",
-        "published": "10/30 07:00",
-        "published_ts": 1793311200.0,
-        "tag": null,
-        "first_seen": 1793313036.1266713
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 11:15:53",
+  "updated_at": "2026-11-03 11:30:57",
   "yields": [
     {
       "label": "3년",
