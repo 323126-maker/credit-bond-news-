@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kc0lmTXQ3cXZ3Z3ZjZkRqay1KTy1IdTlNRUlLZ2d0UHQxUmFPUW83OENRbEFCdHI3M2JzX2hkU1pwdTZrMUVlZFllOEVZUk9feUd4bXY5cW1IdFFLdlAzX1p2NjM5QjR4UGxLbmszRkRUdw?oc=5",
+        "headline": "이재명 대통령, 국채 순증가 96조3천억원 발언에 박수영 의원·박홍근 장관 입장 차이",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "11/03 20:22",
+        "published_ts": 1793704936.0,
+        "tag": null,
+        "first_seen": 1793705438.9185321
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9TRTZPYlczNVBEcWtFV0RVS0ZNLTl3SHQ2N2tTSTJtUmF6MVBpb2dpNmFrVm1VQ2dKdmdZbG4yREF6V3NZLVlXZU5MZ0NKY1RmVHJIc2FTWmZuZw?oc=5",
         "headline": "李대통령 국채발언 놓고 공방…\"잘못 보고했나\"·\"줄어든 것 맞아\"(종합)",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793587623.0,
         "tag": null,
         "first_seen": 1793592927.2504308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81RzRmRGx1U0F0SVJBWGlsLUtpVVhOTW90eERuQkE3bmxHd0lmeHVjQWpqRUpqVjJWT1lMZEJvcVJWLW5tMUlGWTB6MHpNaWE2RDhkaG5IazMzbVExLThJWUdtRFhjSGRqTENwTUJB0gFzQVVfeXFMTmxlRS1GOW1WLXRRSFBUZldPQ2M2X3Nnck5oQWFybTAzQklrT2VkY3NRT3hiaTJrWXZVbmFyalM5RDVyZWdpa0dZZ2RHdUpyOFVhNEdaRUU5d09mY3JGem9wRktvckhpVXhoNjkxWnZlZDZlcw?oc=5",
-        "headline": "\"재판 재개하라\" 野 고성에 이 대통령 연설 중단… \"계속 방해하는 얘기\" 신경전",
-        "summary": "",
-        "source": "한국일보",
-        "published": "11/02 11:46",
-        "published_ts": 1793587560.0,
-        "tag": null,
-        "first_seen": 1793638854.7439609
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-03 20:15:52",
+  "updated_at": "2026-11-03 20:31:04",
   "yields": [
     {
       "label": "3년",
