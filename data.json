@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPd21XOEJld183eHBtT21WRWtWN0Q5OElCdXFHeVRHdlM4dGM0Q0Y4V2huMHN1UkNxNzBFOTZVT0dsZFlrZXFrclNlaTUtUEJTS2s2RmZqSzJ1YzFUN196UHRUNjBOTkIyX1p4T244b1JENk1GQVc0TGRrS1htd1gtcE1kanlqa1BNaTA0RXdPNF9scTBtYmEzYm5IV1pzXzhwMUNMMTJFX2ZweEk?oc=5",
+        "headline": "Tradeweb Government Bond Update – October 2026",
+        "summary": "",
+        "source": "Tradeweb",
+        "published": "11/05 06:22",
+        "published_ts": 1793827350.0,
+        "tag": "JGB",
+        "first_seen": 1793827835.7357383
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNendQOWJkUlBGcW1fVUczcE1fcWliMllGVVhpZTZHcjY4VjRzdmVGNWhHQmtKdlVxVWE5MjRXQ0tfbjdFZ0pJLVJ4a0dJRjV0bDFFX0x3Mjhza0wyM0hRazlGLWR0cFJBWFBtY3VacGJhclItUjhBY0xjb2ZmVEg4LVFEa3VtTE5oeTM3LW40TUpITFUyejhQdm1Dc2h1ekFOM19HMUE5N0VRdkNVNUs5RUd3UjNwUGtrcnFKTy1wYmEtbzFGNVBwNkdoamlaa1RNUXp4YmM0QzBmWUYtdTZzTmQwVWF4UFNyeEhzT0xFMV9jNnFXNUl5Zg?oc=5",
         "headline": "Swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793784648.0,
         "tag": "Fed",
         "first_seen": 1793808852.195984
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNLW9yTHZmSWtXdldQU3dsMjlxQkhUNXM1V2tnTmk1MkZMRkdZVWhmdW54QVJXZ2lIU1BNOFc3azNfMEJlX2dhc2dFSHpDR0tTUVlFYWZZdGlpeVM3NFRGcEQwdXl4QnlKZHNmRUNVSS1SelctSWk1TU43bVNVZFNuMk1teEJ4YUQ3MGtNSThObUZUc3FiT0gzNA?oc=5",
-        "headline": "Japan's Nikkei Trims Losses as Bond Yields Rise",
-        "summary": "",
-        "source": "Qatar news agency",
-        "published": "11/04 18:30",
-        "published_ts": 1793784604.0,
-        "tag": "JGB",
-        "first_seen": 1793785532.158707
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 06:15:48",
+  "updated_at": "2026-11-05 06:30:58",
   "yields": [
     {
       "label": "3년",
