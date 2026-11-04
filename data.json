@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQdENSaGFiTGNyODgtZHQxUTJkWU9VeUpfLW1KY2tvdElYU1FseE8tU0ZLM2ZXNnVlTE9NbV9kRDFfSkE3ZnFCcEtLN3cwTnh1cW0yVDZlc2t0YlRQSk9BTVU0WjE3dS1VY0pxV0szWGxUdw?oc=5",
+        "headline": "국고채만 달리던 채권시장…크레디트도 뒤늦게 따라간다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/04 08:43",
+        "published_ts": 1793749425.0,
+        "tag": null,
+        "first_seen": 1793750443.3794882
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01ajdqZW9nZXBBVTA0NV8yQ05rdFVjNzBUcXdYQlZSa3JPeGVfdmdjWHZpejhKbXpadC1BVlc3cTJTVFY0VzBzaE5tVHIzc09zWVZiNmVMNWZsS0JNWndOZm5nSFdSN04tenJ3NkhyNUVSQQ?oc=5",
         "headline": "[내년 보험 할인율] 신용위험 스프레드도 하한 설정…보수적 LP 적용",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793672160.0,
         "tag": null,
         "first_seen": 1793673925.2828305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqcmt1WTExNHdvWnF6NEFfVGU2cE1KcloyVnVKTEQ3b05XSGdUMUp0LVJudkNsZ2MxVkZtR2NERU4xOVJ0Z0dqT3BpcUZ3RXBLMDFqcmtyN0Flb3hfVmhzYW0wOWJSME9FVjRuMHBrX0lmdw?oc=5",
-        "headline": "채권 끊고 예금 가더니…SK하이닉스, 예금담보 ABCP로 돌아왔다",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/03 11:04",
-        "published_ts": 1793671461.0,
-        "tag": null,
-        "first_seen": 1793672127.50009
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 08:45:52",
+  "updated_at": "2026-11-04 09:01:09",
   "yields": [
     {
       "label": "3년",
