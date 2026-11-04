@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1bktxSU1XaVdvUC1MeUEwOWhFWWhMTUVSRlh0SlFaOFlmZl91anFXYmpGTmhEbG1QVTVnQnpTVnZaM0pib0xkWlJKU2NEUDZDdURmZ1NGX09hWHM?oc=5",
+        "headline": "경기도의회 여야 갈등 폭발…국힘 대표 '이재명·김동연' 소환에 민주당 전원 퇴장",
+        "summary": "",
+        "source": "경기일보",
+        "published": "11/04 11:34",
+        "published_ts": 1793759699.0,
+        "tag": null,
+        "first_seen": 1793760326.6180067
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4yTTVPSy1HMlY1dEtKbXd5MTFzVmw3RWtndnV0WnhGeHhwRU82RDFFNWNkYkhDMzdZTEVBZlUwM3NMVXEwUEdQWEpJQnBjb21LMUFVU0h3LWhTZDFi?oc=5",
         "headline": "李대통령 \"'집값 폭락 중' 말한 적 없어…'강남만 맞았다'도 가짜뉴스\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793593535.0,
         "tag": null,
         "first_seen": 1793603749.6818938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5rT2FlSUtlRVFnMWVRR24xaG5OQTVaaC1IR2IzWUFicE9SZFRUbDJaRVRPMXpGZmFBS3E0RVRSY3hDM2RIV3RpbzB1U3ZlUzZMRkRCNTBYQ2NtZ2xqanQzLVRxNlJMckpNaUVGVk9n?oc=5",
-        "headline": "821조 예산 전쟁 시작…여야, 민생 앞세워 재정 공방",
-        "summary": "",
-        "source": "뉴스후플러스",
-        "published": "11/02 13:08",
-        "published_ts": 1793592519.0,
-        "tag": null,
-        "first_seen": 1793593833.4005916
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 11:31:06",
+  "updated_at": "2026-11-04 11:45:52",
   "yields": [
     {
       "label": "3년",
