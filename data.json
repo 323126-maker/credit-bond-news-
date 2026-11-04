@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MRXRCTE9YaS01NWtnSUZfMXVZaHhEMk50OGFRUWdtZHAwWGxuSkt5cmR3a2NZTUNOZ3NaWHhjOHdhRHR6aHE1aU1wckp1SWVtaFNXRmFjVDFyT1ZsSHNiay10T28zQTNUdmNsM2NNN0XSAXRBVV95cUxPN29lcWIzX191dEphRTlkdWdxWEJKMXF4NUxFckZaRms1UW9uWEliMWRGN3VxX1g2eEkzZDlRYW9MempEeTJOTEVlTEduWEo5V0UtM3hPR1JjZ1hpd3lhWmxvblo3U3hpUGJLVVVubzdfcExjRA?oc=5",
+        "headline": "메타, 첫 유로채권 13.6조원 발행… 80조원 주문 몰려",
+        "summary": "",
+        "source": "IT조선",
+        "published": "11/05 06:30",
+        "published_ts": 1793827841.0,
+        "tag": null,
+        "first_seen": 1793830528.2373133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMdndRYy01TFVmQVpCbHA0QWZKeU9xRXhQUDVONUVSREVTNzVNTGtrQWtHeXRCWEtIdDFWN05qbnQxRUxsSlEtNWpSYmV0bVliMDlwSTNhMU1pcVFNaG9VUzBNUVRTb0dITnhkUWpBTmN5dw?oc=5",
         "headline": "[뉴욕채권] 국채가↑…선거發 종전 기대감 속 'AI 테마' 약화 우려",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793743369.0,
         "tag": null,
         "first_seen": 1793745927.85457
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXdfeG9DSFBzVWs2X3V4bGtFb2xhcm13WV9uRGJSeGZ1b0FFTHBkbXpHWVJZSlExbkJ1c1lnZmk5M3BRU3ZkVHJjbzdHZklPQlotNm1yUExDWGI1THBmSi1iTHFycDYtYndRVGhILUtSbmtXaW1UcUE2SlpOaUlmdjY5cw?oc=5",
-        "headline": "4년만의 회사채 순상환…2027년 연초효과도 희석 전망",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "11/04 07:02",
-        "published_ts": 1793743369.0,
-        "tag": null,
-        "first_seen": 1793744134.8761375
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1793827835.7357383
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5",
+        "headline": "Yen Carry Trade Unwind: Japan Inflation and US Stocks",
+        "summary": "",
+        "source": "Equiti Global",
+        "published": "11/05 06:17",
+        "published_ts": 1793827062.0,
+        "tag": "JGB",
+        "first_seen": 1793830528.2373133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNendQOWJkUlBGcW1fVUczcE1fcWliMllGVVhpZTZHcjY4VjRzdmVGNWhHQmtKdlVxVWE5MjRXQ0tfbjdFZ0pJLVJ4a0dJRjV0bDFFX0x3Mjhza0wyM0hRazlGLWR0cFJBWFBtY3VacGJhclItUjhBY0xjb2ZmVEg4LVFEa3VtTE5oeTM3LW40TUpITFUyejhQdm1Dc2h1ekFOM19HMUE5N0VRdkNVNUs5RUd3UjNwUGtrcnFKTy1wYmEtbzFGNVBwNkdoamlaa1RNUXp4YmM0QzBmWUYtdTZzTmQwVWF4UFNyeEhzT0xFMV9jNnFXNUl5Zg?oc=5",
         "headline": "Swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793788081.0,
         "tag": "JGB",
         "first_seen": 1793823326.0704832
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVGR0VFktTUx1akhUaVlQRXNoMktsSVdSWXp4R1FaU2hXLWdiWnpJaE13R1A4TDRqcEhyLUpNUXYyRmRMNGplTXdUV0t6bzZIakFwLUVsTmw4blZDa1czTkh4cE16VGVTR0x6ZTVYYm1HYlVEc2p3VUpPODk2c2oxbEhZX1BvQ2IyajNqNVc4QmdIdjk4dzNPb3lhM0dQUUlUMVY0ZUFJX2Rzbm_SAasBQVVfeXFMTVRkdFRZLU1MdWpIVGlZUEVzaDJLbElXUll6eEdRWlNoVy1nYlp6SWhNd0dQOEw0anBIci1KTVF2MkZkTDRqZU13VFdLem82SGpBcC1FbE5sOG5WQ2tXM05IeHBNelRlU0dMemU1WGJtR2JVRHNqd1VKTzg5NnNqMWxIWV9Qb0NiMmozajVXOEJnSHY5OHczT295YTNHUFFJVDFWNGVBSV9kc25v?oc=5",
-        "headline": "India's bond market puzzle is a test of credibility",
-        "summary": "",
-        "source": "Deccan Herald",
-        "published": "11/04 19:15",
-        "published_ts": 1793787355.0,
-        "tag": "Fed",
-        "first_seen": 1793792729.5632412
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 07:01:03",
+  "updated_at": "2026-11-05 07:15:56",
   "yields": [
     {
       "label": "3년",
