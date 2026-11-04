@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3BSU0xKdGN6aXpMaGczZzVENm5EWkdheUU0UGdmUkhyM2hkb3NQQkZFWFNtQnZoX1psdGNUTWlvTW5raGd5T3R4VjhwMExpVVI3SkF0dGJXRlcxTTdBNVRuZUdHeDFIZVlPdXdkdC1xUDNzbTVCZTB1MmlncmQ1YVhKSTRnbmNhMGY0aVIwNUp2d0hsem0wQmZZMXFhM1lRYklTRWFJVGNEajZv?oc=5",
+        "headline": "A 13.5% Monthly Dividend Trading At 90 Cents On The Dollar",
+        "summary": "",
+        "source": "Forbes",
+        "published": "11/05 04:04",
+        "published_ts": 1793819040.0,
+        "tag": "Strategist",
+        "first_seen": 1793819727.6045916
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MX0lObGgwbDEwZS1KQURIakRPRGQxZTJ3LVdyUzR5T0E5RlVCZDlsVVI5MlBrS2NtdzBTS2lfeklkVjBCMkNwcVpzOEd2bnZMTHo0TG03RUZnUDRWVGQtVW5WUjQxT3dOdnlfUmxxb1prS3pZQlE?oc=5",
         "headline": "Democrats Retake Senate, Blocking Trump's Plan to Reshape Federal Reserve Board",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793780467.0,
         "tag": "Global",
         "first_seen": 1793781043.2393062
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RaHE4TXVxZVY2SEQ1dU0tNWtnSEtpdFN0UUhtS2pvQWlNVll0UnJtTjcxSDZiR3d3ZlZVRXVneU9FQUJaNkhNS21hcTBlSy0wVEhmNlJNYW9WS2ZwZHFvMTcxVUw?oc=5",
-        "headline": "Storebrand AM raises global bond duration after AI sell-off",
-        "summary": "",
-        "source": "AMWatch",
-        "published": "11/04 16:57",
-        "published_ts": 1793779022.0,
-        "tag": "Global",
-        "first_seen": 1793780126.320024
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 04:01:14",
+  "updated_at": "2026-11-05 04:15:48",
   "yields": [
     {
       "label": "3년",
