@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9LcU1LamhXaF85bUM2aHNmZk5NYmY4RUFDTGNRU2JMbTJqV2h6RXBUdnlTU1ViMUlRYVhVNEtwbGI4OFFLdzQ1MG5vM3RuTnBWajMxMUxOM1dJZU5vbjQxYzF5U3lCYUcyV3Bv?oc=5",
+        "headline": "조 단위 몰린 증권채, 턱걸이 한화생명…자본의 질이 갈랐다",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/04 09:15",
+        "published_ts": 1793751300.0,
+        "tag": null,
+        "first_seen": 1793766634.0063858
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPR0c1UjE5NU96SFE3d1ZySS16dHl5MnN0RGVyc25wNmc1S0NhTENLS3N2UHMtOHFPVW4xNEFCWUtSRnJEX183V0dRRjI2dEV2SHN4OFI5Y0FzelJUNXJQcmd5Q0hsa2dWM2FHZmhmWktYZXk3Wm9WWHZ6eXdEbng4NGNvSVROOFXSAZsBQVVfeXFMUExTWlM1aTd2RHg4TlFyN0lpLXpUWUw4eXg3Vk01ZXRXa2UyOUd5bXBMTGJPZkwtNzVoQjNLYUUyOEpvc3M0YlJLdWFDUGxwcWFwMjVlNVFIdmZ4NGxQV0JiQ1A5cEZHcVdkMUlXWVlpVm0ySDNIT19ra1dZQmxOcGY3ZEoyQVZzZUFKVF9Ram9heXI1RXB2TDNkREE?oc=5",
         "headline": "한화투자증권 4000억 신종자본증권에 산업은행·DB손보 등 참여",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793462043.0,
         "tag": null,
         "first_seen": 1793462439.4930468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBibFVKMHI5WG4yQmsyc2VpdE9BdGt4STN5S2tKZDdWUDhmQVdzR1FmclgwMDFWQXlCMTlEMW1WSTZQVkMwOS1MSm5YZXFOdzZOLThwTEpmdmNEcm1sV1BhRjkyRkt2T0pp0gFsQVVfeXFMTV83bl9XTFdhc2dxenkwTWkzSjNzcHNKME1qQkdsckZMbFhxSzlsLXRLck1PenhKMXdrWjhCUFc4aUh2dWdLZ2Z2WmF4THJlZ3ViQTlhUTJ6ZjFwYVN5OUFEWFV3NS1ydjVRd3Y0?oc=5",
-        "headline": "토큰증권, 분산원장 요건 잃으면 일반 전자증권으로 직권 전환",
-        "summary": "",
-        "source": "블로터",
-        "published": "10/31 10:00",
-        "published_ts": 1793408400.0,
-        "tag": null,
-        "first_seen": 1793536235.695874
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 13:15:49",
+  "updated_at": "2026-11-04 13:30:59",
   "yields": [
     {
       "label": "3년",
