@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYWV6Y1F4NHBFTVlabWZXU2k1U2ZXbk5tTDQxRHQ5c3cyckFkc0MtWkk5eF9xUjhZSzUtTFlFTGRmVlFoRkhwYXAxTHBjWk83REd5VFY3QWJkNTFhU3NQNno4amZmX1pZUkNCY0xUejYtbEJ0THhtUnRaMlIweEVTVVhDa0U3LXBvVldGcDVIdlo4OUtBZFo1VmlqWTJubGVCMFZ2b3ZsWm9mZ2RzVlVhRHVB?oc=5",
+        "headline": "U.S. Treasury Yields Approach 5%: Robust Employment Data Ignites Intense Tug-of-War Between the U.S. Dollar and Gold",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "11/04 09:18",
+        "published_ts": 1793751531.0,
+        "tag": "Fed",
+        "first_seen": 1793752236.826594
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3c2ZMd3pnVkVhOUdPOWcyMjFzcGo2QktsbkU2TW9rLWpYVTh3MEtSazZNa19Pakk5WWRybW5Gek1aNERWUGhxNVRuZGphQnBoMkNXNGJtVFMtTXRkLWlSbFhOYlJZcUxMN2R4bm9B?oc=5",
         "headline": "미국 인플레 양극화…전체 물가 4.4% 상승에도 절사평균 2.2%...연준 금리 인상론·신중론 충돌",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793702230.0,
         "tag": "Global",
         "first_seen": 1793709035.1198232
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc0wxZEJodGFLVEFicm9zREkxNG1QcGgwUnk2a3lQTFNqYXJITUJjTzVkOTJfZzFET3l3LXUtVDVFSF80ZDdvVy1oNjkxU0hkTzh3YkJBMHZHZHdNOWZWVEF1cS0zcy1NSndsZ204ckd4b2R0VmlTLXNFWkhlXzR6UVRGQjJEYkg0Rjh3?oc=5",
-        "headline": "PTY: The Bull Case Has Fallen Short In 2026 (NYSE:PTY)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/03 19:35",
-        "published_ts": 1793702139.0,
-        "tag": "Global",
-        "first_seen": 1793703641.8498228
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 09:15:55",
+  "updated_at": "2026-11-04 09:31:01",
   "yields": [
     {
       "label": "3년",
