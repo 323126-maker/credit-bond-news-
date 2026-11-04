@@ -1660,6 +1660,16 @@
         "first_seen": 1793806238.0712628
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYlhDMlZTUXNYT21QZ3FGU2lYRFhwZFpBaVllUTJuRTFJVlFVb18wNmJGRzh2MW1ValFlb3VmNzRhSkpRRmVaOEhhTEI2a1lPRVFEMmZfYlc0emk2QlE4LUhFdEVuS0twaENBUDVNLUIzc0d4SEFjak9aM3k2UXF4WXpnYWw5alFOc1NIQkJqY3Zzdi1Rb0lYZFFNNVJXZ2traG56dlNGTnBTaGN6cWNZaEpmVQ?oc=5",
+        "headline": "닛케이 1.42% 하락한 62,188.63 마감, 장중 4.8% 급락서 회복…일본 국채 금리는 상승 - 뉴스 및 통계",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "11/04 22:10",
+        "published_ts": 1793797851.0,
+        "tag": "JGB",
+        "first_seen": 1793807128.430371
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZk0wcUlwME1fSkhNb2hHaTVqN05DRTRxVUZuTDJtTldPbi1oYWxicjNObU9TZHVpcFJvengtZ3NTRWpwS3hBVEZrYjNEeVFIdjRmYzBYdmtYUFFPZmtOZktyeDJKOU1XOUlWbVE5RlhqSFJYWTNYZmZQakxCa09fdnVSVXJHZFhES2ZJQVM2Rk8wNGtyaG05U1FjbTJYU19mVjdIazR3UUw0ZDNTc2hB?oc=5",
         "headline": "Nikkei Falls 1.42% to 62,188.63, Recovers From 4.8% Intraday Drop; JGB Yields Climb - News and Statistics",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793774964.0,
         "tag": "JGB",
         "first_seen": 1793777434.8895798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPY3QtRXpMblQ5WS1OcWZ0M3dIQXByTVp1OTNkaDFVZXR4SHdOZjhKWDBfMXVZdHZDam1oTHdoOWhQVUMtNUVKUVQyeHRDNGVmZzJRajhGR2ZsMTk4WjlqRGp1bXNwdmFzTmUwMV95aW8tN2tMUlcwanVSQ1lSSjV2OElPY01WS24teFBlMXZCZzhkQnhhMTZMa0NpSFk1SDk1OHl6ZS05aUxTX19PZEp6R21Zb0ltbWpPZUExdXA4Q01LV0lzeXlWdnNHN3hXUzhyWWYwWHFDZkRPNHlPVzFqaHpCa0tMRkE5ZGxGcQ?oc=5",
-        "headline": "Japanese Yen rebounds from three-week low as broad USD weakness and intervention risks offer support",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/04 15:31",
-        "published_ts": 1793773916.0,
-        "tag": "JGB",
-        "first_seen": 1793791835.48257
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 00:31:00",
+  "updated_at": "2026-11-05 00:45:53",
   "yields": [
     {
       "label": "3년",
