@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTGlHc3IzZTBCZFRvZnFVTjRPVUtCd1VXd1lwMnJPX2YtSGM0UjlzYTFldXFCUV91RzhqVjhPcGR6LS1aeVhobW92amV4ZGQtSFBRT0ZVQkU2Q0o0NmxwTdIBYEFVX3lxTE0yTGlHc3IzZTBCZFRvZnFVTjRPVUtCd1VXd1lwMnJPX2YtSGM0UjlzYTFldXFCUV91RzhqVjhPcGR6LS1aeVhobW92amV4ZGQtSFBRT0ZVQkU2Q0o0NmxwTQ?oc=5",
+        "headline": "메타, 20조원 회사채 발행 완료…목표의 4배 수요",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/04 08:50",
+        "published_ts": 1793749816.0,
+        "tag": null,
+        "first_seen": 1793751331.5012074
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQdENSaGFiTGNyODgtZHQxUTJkWU9VeUpfLW1KY2tvdElYU1FseE8tU0ZLM2ZXNnVlTE9NbV9kRDFfSkE3ZnFCcEtLN3cwTnh1cW0yVDZlc2t0YlRQSk9BTVU0WjE3dS1VY0pxV0szWGxUdw?oc=5",
         "headline": "국고채만 달리던 채권시장…크레디트도 뒤늦게 따라간다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793672402.0,
         "tag": null,
         "first_seen": 1793675730.9968247
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5GaHFfSC1qSlZTMVFXWWhjMUoyQkk3b2YxcGNtNHktT0plVmprcFlJX0l2SUNLMlZXSTJOR1lWenBMMVdUR0k1aUxSdUtncmVUYXZvT3JVLUhIQW11THZyLW16QmZHckcxWmFn?oc=5",
-        "headline": "AI 설비투자 빚으로 메우는 빅테크 가산금리 청구서 커진다",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/03 11:16",
-        "published_ts": 1793672160.0,
-        "tag": null,
-        "first_seen": 1793673925.2828305
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQdENSaGFiTGNyODgtZHQxUTJkWU9VeUpfLW1KY2tvdElYU1FseE8tU0ZLM2ZXNnVlTE9NbV9kRDFfSkE3ZnFCcEtLN3cwTnh1cW0yVDZlc2t0YlRQSk9BTVU0WjE3dS1VY0pxV0szWGxUdw?oc=5",
+        "headline": "국고채만 달리던 채권시장…크레디트도 뒤늦게 따라간다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/04 08:43",
+        "published_ts": 1793749425.0,
+        "tag": null,
+        "first_seen": 1793751331.5012074
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Q3RnN3VwYWp4UXNWRFdXNmlHYW5BcFM4SzF6OVI3dGdKUWNnRlpjWUxqUEhQN2g1N1ZkM09ETklkcEk2bjZVaHBhaHViWExHMjFjRHdHbnBkOFdyVVhEcmxFUVJtaTIzUVE?oc=5",
         "headline": "\"물가 잡혀도 금리 인상 압박\"...국고채 금리 고점론 '솔솔'",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793344920.0,
         "tag": null,
         "first_seen": 1793348124.2670085
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1EQkE3UUxmOU9JbEFlYUpzVXlKNVVFZnQ0NGlBanR6dFI1YXJiZzRMazdGcUNpRU5KVVRVYTlxYkZ6ZzRXNVIyRVZ2aklhOU1oMHlZOWtyRnBpcm04X1ExOURFUFFjdw?oc=5",
-        "headline": "[MD포커스] 연준 금리 동결에도 ‘매 vs 비둘기’ 이견…정부, 증시·채권 방어 태세",
-        "summary": "",
-        "source": "마이데일리",
-        "published": "10/30 15:14",
-        "published_ts": 1793340859.0,
-        "tag": null,
-        "first_seen": 1793342725.9113147
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 09:01:09",
+  "updated_at": "2026-11-04 09:15:55",
   "yields": [
     {
       "label": "3년",
