@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNendQOWJkUlBGcW1fVUczcE1fcWliMllGVVhpZTZHcjY4VjRzdmVGNWhHQmtKdlVxVWE5MjRXQ0tfbjdFZ0pJLVJ4a0dJRjV0bDFFX0x3Mjhza0wyM0hRazlGLWR0cFJBWFBtY3VacGJhclItUjhBY0xjb2ZmVEg4LVFEa3VtTE5oeTM3LW40TUpITFUyejhQdm1Dc2h1ekFOM19HMUE5N0VRdkNVNUs5RUd3UjNwUGtrcnFKTy1wYmEtbzFGNVBwNkdoamlaa1RNUXp4YmM0QzBmWUYtdTZzTmQwVWF4UFNyeEhzT0xFMV9jNnFXNUl5Zg?oc=5",
+        "headline": "Swearing-in ceremony for incoming Federal Reserve Chair Kevin Warsh",
+        "summary": "",
+        "source": "The Lufkin Daily News",
+        "published": "11/05 04:55",
+        "published_ts": 1793822153.0,
+        "tag": "Fed",
+        "first_seen": 1793824237.3670032
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON3BSU0xKdGN6aXpMaGczZzVENm5EWkdheUU0UGdmUkhyM2hkb3NQQkZFWFNtQnZoX1psdGNUTWlvTW5raGd5T3R4VjhwMExpVVI3SkF0dGJXRlcxTTdBNVRuZUdHeDFIZVlPdXdkdC1xUDNzbTVCZTB1MmlncmQ1YVhKSTRnbmNhMGY0aVIwNUp2d0hsem0wQmZZMXFhM1lRYklTRWFJVGNEajZv?oc=5",
         "headline": "A 13.5% Monthly Dividend Trading At 90 Cents On The Dollar",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793783449.0,
         "tag": "JGB",
         "first_seen": 1793787327.0566263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEdHbUFLVGg0UzA2ZnhIbmgwUUxKUC1DV3N2dG1TNVk1MkpLankxOFVXbnVnN0M0Um5oQUtHbHY0ZDBxRXBhVm5ZNUsxZ1hicV8wT093RjZvU1VaOUh3OGtRcDRZVnJETTc5MDlQdkotWTNFWHVzOEptbXpJaTB2aWgycWdsVGg0VldodlVn?oc=5",
-        "headline": "Ray Dalio says one AI risk is hiding in plain sight",
-        "summary": "",
-        "source": "TheStreet",
-        "published": "11/04 18:03",
-        "published_ts": 1793782980.0,
-        "tag": "Strategist",
-        "first_seen": 1793783728.1954668
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 05:15:55",
+  "updated_at": "2026-11-05 05:30:58",
   "yields": [
     {
       "label": "3년",
