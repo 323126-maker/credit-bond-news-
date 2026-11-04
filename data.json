@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBWek15MWtZT1ZaWVNadFZmWTJyTTdjdzR1WUF6amFUOUpGYjJ6SmFsd2NfeDZVMlpLSHlJaEg3d0tKVUxaanFNajQ5Wkd1cTNrbWd4dFUtVmdwRXN4NWc?oc=5",
+        "headline": "\"코스피 급락에 안전자산 선호…국채 장기물 강세 마감\"",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "11/04 09:47",
+        "published_ts": 1793753220.0,
+        "tag": null,
+        "first_seen": 1793754042.6283543
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yTGlHc3IzZTBCZFRvZnFVTjRPVUtCd1VXd1lwMnJPX2YtSGM0UjlzYTFldXFCUV91RzhqVjhPcGR6LS1aeVhobW92amV4ZGQtSFBRT0ZVQkU2Q0o0NmxwTdIBYEFVX3lxTE0yTGlHc3IzZTBCZFRvZnFVTjRPVUtCd1VXd1lwMnJPX2YtSGM0UjlzYTFldXFCUV91RzhqVjhPcGR6LS1aeVhobW92amV4ZGQtSFBRT0ZVQkU2Q0o0NmxwTQ?oc=5",
         "headline": "메타, 20조원 회사채 발행 완료…목표의 4배 수요",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793675317.0,
         "tag": null,
         "first_seen": 1793676638.7569888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5uTlN6UXVhSkM3TnJ3TFlxNGJjbVR4WFpxVDk2c2lPcXU2MHhhU3A0X3o3aFZDc3NCQm5KcXhkdjdiVTY4R29EY01VSUZpOTRxYW1jeFF0RUpYWlFkbkI1Nk50YzhyWWU0UTNYc0taS29RQQ?oc=5",
-        "headline": "서울채권시장 \"국고채 30년물 입찰, 강하게 이뤄져…엔드 수요 견조\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/03 11:51",
-        "published_ts": 1793674284.0,
-        "tag": null,
-        "first_seen": 1793682043.184425
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE90Tm5mOHhSX0QtMG5IVDlIT1oybVNmUThQYmdfWFN0YXVUUmpzV3U3WXBKbFBNRmtoa1VhNUJna2pnSmhZMVZYSmpwTUVSdlJSVS1kbFdOalZPY1ptT18xYW5oczhWMEJZ?oc=5",
+        "headline": "이재명 국채발언 두고 국회서 여야 공방",
+        "summary": "",
+        "source": "공감신문",
+        "published": "11/04 09:40",
+        "published_ts": 1793752808.0,
+        "tag": null,
+        "first_seen": 1793754042.6283543
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4xS2RLbkJJUWx5NTZMLVlVSnBvREVkZWtyVDFlcDhNdWg0NjFZMExkUk00ZXRwWGRYYW9GRTk3NTJfU0VrUnY3QXd0WWhUZDRUc3VKbFNZVnJIWUxjTjlUMW9qNXJwS3hSSXEw?oc=5",
         "headline": "[배종찬의 정치판도라]‘돼지’국민들 눈에는 대통령이 어떻게 보일까",
         "summary": "",
@@ -1594,16 +1604,6 @@
         "source": "굿모닝경제",
         "published": "11/02 12:17",
         "published_ts": 1793589450.0,
-        "tag": null,
-        "first_seen": 1793592927.2504308
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE85VWJ0S0tjNjU3Z1ZpVG9raUp0UEhlOFI0REtmRkQ4U0hKVWgzaWJ0XzVxVlpydkk3eVRTU2tfOXRsQ1o1MTN6V3AxclFoRWFFRTNDSl9KaF9BZmlPalE?oc=5",
-        "headline": "이재명 대통령 내년 예산안 시정연설 도중 야당 항의로 일시 중단…“정쟁보다 국민과 국가재정이 먼저”",
-        "summary": "",
-        "source": "4차산업행정뉴스",
-        "published": "11/02 12:12",
-        "published_ts": 1793589120.0,
         "tag": null,
         "first_seen": 1793592927.2504308
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 09:45:51",
+  "updated_at": "2026-11-04 10:01:07",
   "yields": [
     {
       "label": "3년",
