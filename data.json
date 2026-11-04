@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8xUnpxemwzNGczeFo4eEpYOVJvMkE0MXhmQWI5cnBkbkxnMVRjN0RrRmE3aW1OcWo5VTU0dkR5bmNXYW5BdXEtSktCT1E0UEdIOHNPdy1Uc0JVcXJtY0pab1NmRG44NU5NSWc?oc=5",
+        "headline": "하나카드, 순익 늘렸지만…조달금리·연체 부담 겹쳐",
+        "summary": "",
+        "source": "IB토마토",
+        "published": "11/04 18:14",
+        "published_ts": 1793783677.0,
+        "tag": null,
+        "first_seen": 1793784639.8826509
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ROG9VWEhXYnI2NGhUdnZaVUF4WVhyTVFlVlF5TzN4ekc5bFNLUlcxNURzZDRaQmwyV1JzU1B6a2VvYm5ueTQzZTFfWGRweEhoUEE?oc=5",
         "headline": "'400조원 실탄' 장착한 삼전닉스, 채권시장 큰손으로 급부상",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793696087.0,
         "tag": null,
         "first_seen": 1793713527.0075302
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92SkpQV2g4bURLVEI0aEROSzRGYmtBd0haY1V2UWs0NTN2Sk1vQUtaOURGWjZvTFl4SmJPM3o2RWtJR19BUEpBa3k5ZlJoUE1rbUVNSW1vMzVnampvS3hGSTNDZnRpNTZp?oc=5",
-        "headline": "'AI 실탄 확보' 나선 메타·오라클, 지분 희석·이자부담에 주가 하락",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/03 17:53",
-        "published_ts": 1793696017.0,
-        "tag": null,
-        "first_seen": 1793753127.0040975
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 18:15:50",
+  "updated_at": "2026-11-04 18:31:03",
   "yields": [
     {
       "label": "3년",
