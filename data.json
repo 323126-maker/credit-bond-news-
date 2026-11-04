@@ -1438,6 +1438,16 @@
         "first_seen": 1793691926.9184227
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBqaWlkSmhVdkx4cVNoWjVQR1piVVpyQXJJT2VITVBuVDBEQUVWN0dhdlozeDVPc1ZoQy1rbG9YZ05JdWJ6SU9XSFdyU2ljWWN4ZzMyaEFUWDhfVEVUWVZUS2NYUTRHME5tUTVvOA?oc=5",
+        "headline": "국힘 \"예산안 30조 깎겠다\"...미래기금 104조는 국채 감축용으로",
+        "summary": "",
+        "source": "인터넷타임즈",
+        "published": "11/03 12:56",
+        "published_ts": 1793678219.0,
+        "tag": null,
+        "first_seen": 1793811649.221101
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9VZEpyOW5vU2N3T1dramJZS3FPT3lHR0xpcHpacFEyZFB0Ym1vRFRQZEt5amxMZEhBTzUtczlpbkd5dzlndkJKNW15WmMtUmxJ?oc=5",
         "headline": "靑 달려간 114개 이주노동단체 “李 차별발언 위험”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793609927.0,
         "tag": null,
         "first_seen": 1793612724.415208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFAwMFppODRaQkJCWHhGU0ZZNW5pbjB5WWFtNXpXRFlaN2FLOUlfU0s4VWdFVjZUSHBwZzI0YnVocE1VX3ZxbkE?oc=5",
-        "headline": "국힘 항의에 … 李 \"할말 있으면 하라\" 맞불",
-        "summary": "",
-        "source": "매일경제",
-        "published": "11/02 17:35",
-        "published_ts": 1793608513.0,
-        "tag": null,
-        "first_seen": 1793616335.9330575
       }
     ],
     "global_bond": [
@@ -1788,6 +1788,16 @@
         "published_ts": 1793795083.0,
         "tag": "JGB",
         "first_seen": 1793795437.192867
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQVFBdkJQMmNWWEZteTJ6VHlQUDIydjk4UV96MGoxOHZvRnNxWmgyNy15SV9veUZJcGZDSzd4MW1iMWg1bVc1eGY0bkdLMFdtM3N4c1VGeG1rRTZDY2ppYnRYTnFzZlhJZE9Ldk43SGREVmloZHNpSmp4LVpEalpNRVhWVS1qbm5JTmJQaXU0XzRfaVFGVUE?oc=5",
+        "headline": "Bond market bounces as investors flee to safety amid concerns of a fiscal gridlock",
+        "summary": "",
+        "source": "Fortune",
+        "published": "11/04 21:16",
+        "published_ts": 1793794560.0,
+        "tag": "Strategist",
+        "first_seen": 1793811649.221101
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNcmNUUHIwVmpGUE5wYlJjU0RVRkhLREZ4SUktZExxX0tBcm5xdnowMHFaRDJQUjRQWGt2WUVaRGZQQnFsbjdVcTdpMEtMRE1VaWtWSjFUbFhoRUVsMkxDcUN0QV9mQ0YxMGo1ZkR6OEs3VWlPSmxkTW1oSXJLdWVJWTBFcFl2bVhjSVY5bXVsM2VJQ1NKZW9pTjRpT040ZUZPdEFWOXlqYVNtN3I1QlpzWVZRRVQzc3FqbU9Oc1R1TnNEZmk3LXZ1Unl3?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793777542.0,
         "tag": "Fed",
         "first_seen": 1793778330.1577933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNYVFTamUxaVZHNUpKbS1nbkh5N3pjdmFhdEc4OF9GdnZUZHhJSFZxZkJUc0EtRk1sdHV3QjktQ3ZBRlRrRWZaSEJMVE9ZUndWN3RWRVU4aDBwOHdDSGpqV2dYeVA4Z01vdndsdHpqNkFmQTMwX2FuTlY4SXNXZnN5NTdNNnl3cDVhNmJxRGtKQUx2dkVPMXd1Q3dTRjY1SXFiNFdkcGtWMXY4cXB3Y0VYQVFuMXBLOGJzMXNKZDVhbjhqMXVsVjNvX0ZpZ0VCcGV1Tmg1MWFONA?oc=5",
-        "headline": "Standard Chartered Explains Why Rising U.S. Stocks and Treasury Yields Could Benefit Risk-Sensitive Currencies",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "11/04 16:02",
-        "published_ts": 1793775766.0,
-        "tag": "Fed",
-        "first_seen": 1793783728.1954668
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 01:45:49",
+  "updated_at": "2026-11-05 02:01:10",
   "yields": [
     {
       "label": "3년",
