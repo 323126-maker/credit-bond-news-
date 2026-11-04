@@ -1630,6 +1630,16 @@
         "first_seen": 1793821524.936555
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZzN0NVZRRWVGTGRucWE0c2lMNmdFU3BGaS1kVlhzMDAyZUNRZjA1SWlORHJIWlotVXdWLVNqN3NMX3h3U2tISkRod0l5YXpDdzZLOWNhYmhPd2hPU3UzUE9wZmdEQ0VBWjRfZi15SmJsclVuS1lwZHcwakdPdk5pbW5ha1NhMm5SdUpBUmdDUzMxT3YxNWg3dlRHeUxjeGFPOV83bjUyNlY0ZktBSFF0Uw?oc=5",
+        "headline": "Treasuries Advance as Traders Eye US Votes, Refinancing Plans",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "11/05 03:17",
+        "published_ts": 1793816251.0,
+        "tag": "Fed",
+        "first_seen": 1793822448.0029948
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MX0lObGgwbDEwZS1KQURIakRPRGQxZTJ3LVdyUzR5T0E5RlVCZDlsVVI5MlBrS2NtdzBTS2lfeklkVjBCMkNwcVpzOEd2bnZMTHo0TG03RUZnUDRWVGQtVW5WUjQxT3dOdnlfUmxxb1prS3pZQlE?oc=5",
         "headline": "Democrats Retake Senate, Blocking Trump's Plan to Reshape Federal Reserve Board",
         "summary": "",
@@ -1718,6 +1728,16 @@
         "published_ts": 1793799769.0,
         "tag": "Fed",
         "first_seen": 1793801728.6427035
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcWE4czF4X2c4UWFZYTE5bHdQSTF3UWRWanRnRmlLeTcySWdXNWZOWFIyUldlMnNxczJFM01VZWpVLUdxeXo3bjZUYUpOaHVGQXBYRUZnSm5naUNsalJqZkZaSDRzR3pMMjRqaW4zQ2VJbExTeDdmZFhmdmxWUzlJNktBTG1wQUE4QkQ4eW9MYw?oc=5",
+        "headline": "Surging high-yield dispersion tests manager skill as IG stays calm",
+        "summary": "",
+        "source": "The DESK – Fixed Income Trading",
+        "published": "11/04 22:42",
+        "published_ts": 1793799722.0,
+        "tag": "Global",
+        "first_seen": 1793822448.0029948
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQW5YY3U3SFByTUp4RWNHTzhwQVJmTk5KcFItRzJrQ0JmNGJkZ0VjUnViUW5HX3J2UFVtejduSzlWOC04RFBocHE5VFkwTTBEc2tDcGV5VXBKX0J5M0kwcnBhNU1LR3RPOXdpM1c2cnRkNU5rbWJoQlpWTVE2am9RcU9aVXZtd2l6MVJ3eHQ4RGZ0alB0YWc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793781250.0,
         "tag": "Global",
         "first_seen": 1793789129.7566702
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeVZPMUVGX3pGUWlFQ2xoMkhwQ0ZEUndORVh3WDg2U2t3cUZELUVjMHFXYi1vcnNYckczWG5tbWI2SzJoWmFkcndGa3JmSHV4OElab29PME9Fai1DWUFxdkVsUGFmaTNYRjBCNm40a2xCSk1vNGNNQ1FyX0dqZTlIQ2MyaTZnZXZoTTlCcnE5U0ZwTk5lb25waDl0VVdxZUtHQU9lamU1MA?oc=5",
-        "headline": "Meta Draws $58 Billion in Orders for $15 Billion Bond Sale",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "11/04 17:26",
-        "published_ts": 1793780819.0,
-        "tag": "Global",
-        "first_seen": 1793782840.9185917
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Na0pTamF4M292M1hTSVhLOGk1aUhidFFYcVptRlBoU2xsQ3BQUlFlOVc4YnBtWi1EdW5vcUZSeENRNDJtNDBKY3VSWTM4Wm5OeDBuMHZuWVM2M1hrUHNPZVFxQkJ4U2Zpd3FhaWdwZi0ydw?oc=5",
-        "headline": "[亞증시-종합] 美블루웨이브 관측에 日·臺↓…中·홍콩↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/04 17:22",
-        "published_ts": 1793780524.0,
-        "tag": "JGB",
-        "first_seen": 1793781043.2393062
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 04:45:49",
+  "updated_at": "2026-11-05 05:01:12",
   "yields": [
     {
       "label": "3년",
