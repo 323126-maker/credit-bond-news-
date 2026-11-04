@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zVXRpSkppRFkzZEVrTUZWYU9WalFnenJNUFBSS0lWX2N1THFXWmV0X3kzR1Y5OWpNVW1VYnB5WG95aVYzNUx4S29YYVVURmZKNkpBM3RXVDFja0dCTTlvcE1McG9nQQ?oc=5",
+        "headline": "KB금융, 2700억원 신종자본증권 발행 결의",
+        "summary": "",
+        "source": "비건뉴스",
+        "published": "11/04 23:15",
+        "published_ts": 1793801750.0,
+        "tag": null,
+        "first_seen": 1793802635.4949267
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFByUHZ6MDBCY2RLT1FrVlIwYUFhTjlJRWJLZU5XRmYycmM4ZFBhdjlVUkZtUmNLYjU4NjRVT0V5WGF0RXM5TVo0Ylc2Sl90LXRBbkJwb2JmVnJMbXVoUjlpbGlVcXVuSnU4NFhveWN2Uk1vQ00?oc=5",
         "headline": "WEC 에너지 그룹, 20억 달러 규모 후순위채 발행 계약 체결",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "뷰어스",
         "published": "11/02 09:21",
         "published_ts": 1793578872.0,
-        "tag": null,
-        "first_seen": 1793579435.7006857
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE94TG5vVVoyZmtWV21ZbU1NMWxxYm5LR3YyNTNIYVp5WXRYX0F2MWZ4b3dpU19zNW9FSEYtc21PZElHSlN6MzVKNkpJY3M4U2tzcVJPc2d1Uy1fNEVsQ3dqYUpPam0?oc=5",
-        "headline": "우리투자증권, 구조화금융까지 단독 수임…증자 후 IB 보폭 확대",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "11/02 09:17",
-        "published_ts": 1793578665.0,
         "tag": null,
         "first_seen": 1793579435.7006857
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 23:15:52",
+  "updated_at": "2026-11-04 23:31:02",
   "yields": [
     {
       "label": "3년",
