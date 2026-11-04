@@ -1630,6 +1630,16 @@
         "first_seen": 1793785532.158707
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vTE12SWVOOXFGVGhWX01iTk9Gb2NLVEM3ZUFsa0FVLWlXa3RmQjJnTlBkMVlqVDBpYVRtSEFsTG5VbHFXVGJFS1d0Um5pWXp6R3I1OG4yQlpkRWdWN3FjZVJxeFlXNEZWU05j0gFvQVVfeXFMUDN4R0Q1aWJfTWVNR0RpQUQ4cjR6QTYtcmpQdmxBTE1DQVEtak5oYVR1ODR4TnN3bWVIZTBmelFvdG9zY3hsVDVRVUt3QlhPemNKTTFEMkFPWlcyTFpqMUl0bGpMOU1aa2NPNFJRYWw0?oc=5",
+        "headline": "美 중간선거 민주당 압승에 증시 출렁···코스피 5,680선 턱걸이",
+        "summary": "",
+        "source": "글로벌E",
+        "published": "11/04 18:10",
+        "published_ts": 1793783449.0,
+        "tag": "JGB",
+        "first_seen": 1793787327.0566263
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSEdHbUFLVGg0UzA2ZnhIbmgwUUxKUC1DV3N2dG1TNVk1MkpLankxOFVXbnVnN0M0Um5oQUtHbHY0ZDBxRXBhVm5ZNUsxZ1hicV8wT093RjZvU1VaOUh3OGtRcDRZVnJETTc5MDlQdkotWTNFWHVzOEptbXpJaTB2aWgycWdsVGg0VldodlVn?oc=5",
         "headline": "Ray Dalio says one AI risk is hiding in plain sight",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1793775600.0,
         "tag": "Global",
         "first_seen": 1793780126.320024
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+        "headline": "Federal Reserve raises interest rates for the 1st time since 2023",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "11/04 15:57",
+        "published_ts": 1793775465.0,
+        "tag": "Fed",
+        "first_seen": 1793787327.0566263
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ybjd1YUJjcC1WY0JJZUlSbm91cUJvU2loYUtPd3ltcDJDMEQyNXVOV0xPanZZWkNwam5ndk14a09IVTV6RW9oTmhyODA1cURCMV9lODBVNmx6QUpHVXZ4ZVlhT0k3cldSdjNfWl9TV3o2Zw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793737860.0,
         "tag": "Fed",
         "first_seen": 1793739643.8785257
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KQ3dRNlRsQlpab01pcjh3VFVucTBKOUV6eTM1REJYQy1SNTNJSW9jRHNIRGk0SkxkZ3k4Xzg1WTMyTGY1cmUxNUpEWTRlOEtpYWdUTi1xMVlnby13LWZfbFlpREp6eG5uSHdTQXp3Vm9abUFvZ2JnYmVn?oc=5",
-        "headline": "기자",
-        "summary": "",
-        "source": "동아일보",
-        "published": "11/04 05:20",
-        "published_ts": 1793737236.0,
-        "tag": "Fed",
-        "first_seen": 1793773835.2811806
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazZIZ2ZySDFXalR5U0dmZmlNbC1sYm5NZEpoS0RrbER2LWNwQ3M2eVVINnZ3NFBJSlRUcWo0WWFRV05FZ0MxUDlPMk96a084NGZYS1JTY2hfVFdsc05GbHVXbUlfYTRXYjBFV05JN2xCNGY2M3RtaFlYYVFxUzhCRjNwVTFza3g4ekZ1WjJBVmthRGt0anVDMWxOeWNIbUpmV0NSM01wcHBXT1XSAbABQVVfeXFMTVcyc09EUk9nZHJlYWJGTUcxMzRDZWZ1T29yWXh0YndBTnRsbHVoR0VXLXhLYmkycklDQXNwdVpIT1dDbThPaEhJZ3ZaTl9KcUZ6UFp3aHlJbjNzMk1aMWRRUGhYcFJvcUFwUDVOeEc4ZDE1NXpDeWE0MlVJZUJmNEQ2TEFCdU1EVlZQdFFDRHk5Yy12UkRsaFVQU1RNYXBJeHlaXzFGdk9BdGNYMVZHd2k?oc=5",
-        "headline": "Malaysian bond market on edge ahead of BNM policy meeting",
-        "summary": "",
-        "source": "NST Online",
-        "published": "11/04 05:09",
-        "published_ts": 1793736596.0,
-        "tag": "Global",
-        "first_seen": 1793776527.741576
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 19:01:16",
+  "updated_at": "2026-11-04 19:15:45",
   "yields": [
     {
       "label": "3년",
