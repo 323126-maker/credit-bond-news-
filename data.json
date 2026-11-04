@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4OE93cWdQdmNESUpkNUZIMkdLdDMtVGhWMl9qbkNuVGd2b1VmMERwQUliQW5mUVRDNFYxdUFQQnJwRldVWlhRQTBOM1BBRUdES1hxbmQteFMweE1SU3E2TUl0T0l5bkdzR2h5SnVVdl8wdTky?oc=5",
+        "headline": "[채권마감] 10년금리 6개월만 4% 하회 ‘미 중간선거 민주당 압승’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/04 17:12",
+        "published_ts": 1793779920.0,
+        "tag": null,
+        "first_seen": 1793780126.320024
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE92UC1vdEo4WGJjZUxhcW14WGplYWdZRkc4Ni1xV1kyN1ViOHpSSnJ5enB0dzgyT0U5azY4cXNDRmVlMkU4TnZ2b3p6SGRpbEY5OThBd25NaHhyOEZPLXJ6am5PbVgwZXJr0gFrQVVfeXFMTV9rR2ZBYzhhLTI1M0NDTzJqYXNqc1p4aGstTjJqOWNENUZGa3RDdm5CQTF5UFVydEJhNUpULUtMY2VwTnFCMnN4WmRfWEVub08zZGVQWXFLZnNNcHUwRkxqdGhjdldHdHQyS28?oc=5",
         "headline": "[크레딧캐치]KCC, 부채비율 100% 하회···순차입금 4조2000억원",
         "summary": "",
@@ -390,19 +400,29 @@
         "published_ts": 1793694120.0,
         "tag": null,
         "first_seen": 1793697331.5914106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XVS1SWDRrTllpVnNNWEctMUFlbGEyUmZ0V29xOGRxRk1kbjY2SVdsVE51SWZsTFA1TnIwWDloYU10dmZ6ejg5TGlTVy14R0RIVGhBQQ?oc=5",
-        "headline": "[채권마감] 10년~30년물 금리 6개월만 최저, 안전선호+입찰호조+외인 10선 매수",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/03 17:17",
-        "published_ts": 1793693820.0,
-        "tag": null,
-        "first_seen": 1793694637.1996326
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52MVVxMEtOakpkUWhQQkNHN3FuM1VDam1FQTZHWm05WnFCaHc1RGtKR3llaWpubG1ZNmZJaGlVYmROdW1xaXA3YmhYYXhGQkZFZWc?oc=5",
+        "headline": "KB금융, 신종자본증권 2700억원 모집에 4710억원 몰렸다",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "11/04 17:02",
+        "published_ts": 1793779334.0,
+        "tag": null,
+        "first_seen": 1793780126.320024
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9yd3ZIYmh3YTMwZEltbjBmdE1oQlhtcHV4VDhrdXNqM0tJbnhpYjdVYzl1U1FfSGZWNUszWlBRNnR2WEhhTnhPeW9fNjlmVFJiVVZfcnRzaHJtLWVFR2VBX3J2RFBha0pJT1NnNWNB0gFyQVVfeXFMUFpZaGU1dm9WMkNLaTRnQlFwcnAtN0tXUmp1cS0tZ2oxTnpRczlDMWx6NkI2aVBYRnlRR054QTBodjFWUU9ZWm5GWDJDUFh5OWp1RlBGOGlld2xxZDRBay1aWm5LLW5XRlNYM21Iek1uLW9R?oc=5",
+        "headline": "KB금융, 신종자본증권 수요예측서 4710억 원 확보…모집액 1.7배",
+        "summary": "",
+        "source": "팝콘뉴스",
+        "published": "11/04 16:55",
+        "published_ts": 1793778945.0,
+        "tag": null,
+        "first_seen": 1793780126.320024
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE81V3QxWEotanp0ODJwZ2ZCN1JCcTR2MG95cWJoYm02aTE0cDdoSXRvSVU1dVBpRkxTWTlXSnhJYzR6S0MyUlNfdTk2Z3d0Zjl6aVE?oc=5",
         "headline": "KB금융 2천700억 규모 신종자본증권 수요예측에 4천710억 몰려",
@@ -782,26 +802,6 @@
         "published_ts": 1793568600.0,
         "tag": null,
         "first_seen": 1793569526.3131638
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jcmN3T01QQkZuYW1WWTZGWnNMZ01yTUE5T0d1MG13WU1RSkk2OVZJZkZaZlVZVWlZOU9VWVROVUZpSHhiZXRyZWtOQmJ5VVZ0M3JiTmxnakI0LW9SX1hPZUJxT0g5UQ?oc=5",
-        "headline": "국민은행, 3400억원 신종자본증권 발행 추진",
-        "summary": "",
-        "source": "비건뉴스",
-        "published": "11/01 10:10",
-        "published_ts": 1793495457.0,
-        "tag": null,
-        "first_seen": 1793495725.3044534
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MT1JtaVJ5dm5DaDVNdnhPRGhyZGhSSjlDSnN2OWN3THFJdGVDRFRPdmxNQXhEV3dwWlRINUVmajlUS2k0anhXMzNiSWVfclphN3psdHlqODVHLThjNUVDcHFFREZtajd4WXNubmRmMzloQQ?oc=5",
-        "headline": "한투증권·포스코퓨처엠 출격…AA급 우량채 발행 잇따라",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/01 09:00",
-        "published_ts": 1793491203.0,
-        "tag": null,
-        "first_seen": 1793492125.4981802
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5RaHE4TXVxZVY2SEQ1dU0tNWtnSEtpdFN0UUhtS2pvQWlNVll0UnJtTjcxSDZiR3d3ZlZVRXVneU9FQUJaNkhNS21hcTBlSy0wVEhmNlJNYW9WS2ZwZHFvMTcxVUw?oc=5",
+        "headline": "Storebrand AM raises global bond duration after AI sell-off",
+        "summary": "",
+        "source": "AMWatch",
+        "published": "11/04 16:57",
+        "published_ts": 1793779022.0,
+        "tag": "Global",
+        "first_seen": 1793780126.320024
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZE5IV3lHTEN5a3AzUzhCVHQ4UGFsQWNNVHdaV2RCdnJ1d0hMMGdrMjJCRVNpallCSWJPTDVHUEdrVFcxcW51Mlg3VHAwdVNyTHlXM0hKYVJZYkh6a3VwbnR2SVZ5TWtzMmJpdkdvRHBhdUFXakxHQURfOEdLSVBFaWNFbi14Q0k?oc=5",
         "headline": "연준 의장은 짧은 경고로 월가에 큰 불안감을 안겨주었다.",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1793775672.0,
         "tag": "Global",
         "first_seen": 1793776527.741576
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80dlRIVEtZWUljYXBzNEU4TFA3Sk9sOGtvZzZYTm1Hb2VsRmFMZWl5eUxQTnNJd1VPd2NvRjd3YnBqbGtVdm9mNGY3Q0dVZ09RRVhVMUc4Wnh2Q2ZPcGJUTHNteGZQeVYzbko0ZGhDc2trLWxCblVmbEtB?oc=5",
+        "headline": "Quarterly Review",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/04 16:00",
+        "published_ts": 1793775600.0,
+        "tag": "Global",
+        "first_seen": 1793780126.320024
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ybjd1YUJjcC1WY0JJZUlSbm91cUJvU2loYUtPd3ltcDJDMEQyNXVOV0xPanZZWkNwam5ndk14a09IVTV6RW9oTmhyODA1cURCMV9lODBVNmx6QUpHVXZ4ZVlhT0k3cldSdjNfWl9TV3o2Zw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793726078.0,
         "tag": "Global",
         "first_seen": 1793731534.5336578
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOWNYcHhCM1p6VzFVR1E4QlZlV2FjRzVPS3FtYUdPZnBEaUhZYjFfS0ZQbmhWT0FsZWtnSWJ0QXJ6elN6cVNMSVR4dHBEa0RLay1qUS1neHZiY3BDTjUyTEoybENINHpyUlJHeGgzclpzN1RZZjkwbmt1clZuQXpodUlTSmJTZHVVZUtIS05SY3dIUjJNNnZYNGFZLWlWWnRkbWw1MF9R?oc=5",
-        "headline": "Billionaire Paul Singer Says Wall Street Faces “Obliteration”",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "11/04 02:07",
-        "published_ts": 1793725620.0,
-        "tag": "Strategist",
-        "first_seen": 1793736942.7271094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE10czZTeFItMGpwZDk1YS1nMXRKemhRSzlUM2pvX2NoQWJmR2VTR2F6aDRmelJWbVZXNEhyUWNzYWJiRTZTaFNydEdhc293OHdzZWhnRkIyOVRZSE51YnNFVzR5djRiTGdyYmJxRHQ3YUJFeWlOVnc?oc=5",
-        "headline": "Real Cause of France's Government Bond Yield Surge: \"No Central Bank That Prints Its Own Money\"",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/04 02:05",
-        "published_ts": 1793725500.0,
-        "tag": "JGB",
-        "first_seen": 1793728847.7965543
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 17:14:56",
+  "updated_at": "2026-11-04 17:15:50",
   "yields": [
     {
       "label": "3년",
