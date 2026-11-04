@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdkp0QllhLXhJSURNNS1INjdNbjZfRFpWdjFrWHRuc09GeTRFOWlEV0JrQ2tRaExoYTB0R2NFVUtNQVl4bmtuZ0FaUFU5cUtMc2FwWWN1amVNR2xFcjZBTGZwdi0xUGsyRFJOOFhpYUo1OWNrLXJZUkdyeE5QZ3dpcmtpV09faUpwejZHdm9NRGN3dTZxR1NhMkdFdHRtMVZqNUZ5ZTkwRDdiQVlMcGxMUy1B?oc=5",
+        "headline": "Election stiffens the Fed's guardrails, but independence risks remain",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/04 23:47",
+        "published_ts": 1793803663.0,
+        "tag": "Fed",
+        "first_seen": 1793804444.2630632
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVlAyUW03bFpvUEkyTTVaMmZfVjFYdmx5a2hUWjFEUC13NW1yMW81Y2pocC01emJhS3pmTjNyemFFRnByS0lkNHpVaVRoazhTZ0dibmlFQzhrdVpqMWloVUhieVR6RVMzWm9JXzNkSmhHdkRkbkxYTldTeWFITjNvcVN4M2VTVXRmOHQxb2pwM0w?oc=5",
         "headline": "Crypto market outlook after US midterms, will Bitcoin reclaim $80,000?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793771237.0,
         "tag": "JGB",
         "first_seen": 1793777434.8895798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1WS09kTzZyVlpkb2tvWmNDOFhTUTVncC1UWGRtOEpENko0RThZSGRqTU1JRG1WN2lLLTE4cDFKVHFoMjFodGVTaEZJbUxjVTdMZ0hBalNPYmMzLUM1azFKU9IBeEFVX3lxTE8wUHdRUDhxaUtucFZLMUJOUlBJOVRlS1RzQW9Zdjc1Nld1WnpKRlIzRzh6ZHJ6Y25IZm5LYkdOa1JPbVJObnhDTTVwNFdPS3dfdTFsdUM2RVNQMlNEcFZhX0hib1BfdDZJS0k3ZDE0R1hCQ2FMYlRpVg?oc=5",
-        "headline": "[美중간선거] '블루 쇼크' 덮쳤다…亞증시 폭락, 안전자산 쏠림(종합)",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "11/04 13:28",
-        "published_ts": 1793766510.0,
-        "tag": "JGB",
-        "first_seen": 1793767525.220321
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-04 23:45:51",
+  "updated_at": "2026-11-05 00:01:09",
   "yields": [
     {
       "label": "3년",
