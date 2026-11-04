@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ZUHF1R1Vja1hTLUpuelViWHpVdzhvd2c1Ykc0LXg1cFlPc3lmUHJmZVBmUWlwcTU5QkUyT2liLW1TQlNXS1NyTXExcVgxV1J6RmFjNGlyNTdpbmRjMWw1VWpybGI1WGo3ZTBKYg?oc=5",
+        "headline": "미국 민주당 상원 장악에 연준 독립성 강화 전망…워시 의장, 의회 압박 직면",
+        "summary": "",
+        "source": "파이낸스투데이",
+        "published": "11/05 07:35",
+        "published_ts": 1793831736.0,
+        "tag": "Fed",
+        "first_seen": 1793832327.6986747
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaHJIYVlYRExhblNyWUxnaVZ5VUI0aVBYeHFiMHdObkw2ZHZDRkJGNGtSai1oSVdaRE9Kd0tuYXQ3allISHZXdlhEd2xqeEtCNTYyWEtYcGdCUmE2YktyOTVwWWdRYXZoeHZCbHJFNUVJSnBPazI3bWQ5WE5xYWNQOURjdDFPeWZFUkp4YnNObDVnZjVseHl5cDBobUtoUdIBsgFBVV95cUxNRU1paUEwTEFuSzZ5R1VDcURHcWtqRk5fQWdSSzkwaFhUUk50ZTlQbHIxc1gydFZOc2s4YjIyYkIzVnFKdnJReEljVEJsZWVGUzA3Sko0cVZZeTFKemhPZFhIcGNHbjVMdjJjRlh6TVNvZ012OVZkZ3hTaVAzMFlpRGlyeUtxdFl1WXFoekFXRDg4N3U2dTlDSWgweUFOZnRIMXNfWDZQVEpQTVExVUQ5S0NB?oc=5",
         "headline": "상원 넘어가자 연준 인사도 막막…트럼프 금리 인하 압박 흔들리나",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793788120.0,
         "tag": "JGB",
         "first_seen": 1793828725.1716533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40c2VHZXEyYWdEdkd2a0J3ZHdaZm5HbEo3ZVVBLW9TVjV6WmswN0hnVktSX3FCaVllRENYRXF3ZGtxcjFIUVpoTnBxQl9GTi1zTllDWU10UnRkc2VDaDZWeGhud0JlNUR5OHBXSE0xVi1kS2ZY?oc=5",
-        "headline": "[亞증시-종합] 美블루웨이브 관측에 日·臺↓…中·홍콩↑ |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/04 19:28",
-        "published_ts": 1793788081.0,
-        "tag": "JGB",
-        "first_seen": 1793823326.0704832
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 07:31:00",
+  "updated_at": "2026-11-05 07:45:50",
   "yields": [
     {
       "label": "3년",
