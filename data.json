@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9vVFRhSUlaazQ2dTZqb1JVM2dUeGhHRUVWM2xWS2wwWWpmWmdmUWpJMHh1N3pyRjlRRWFGTDd4N29QQWZMUExMQVNfdGlRekNPSWZ0WXZtVER4QVlwVFpKeElDVQ?oc=5",
+        "headline": "Stock Quotes, Business News and Data from Stock Markets | MSN Money",
+        "summary": "",
+        "source": "MSN",
+        "published": "11/05 11:40",
+        "published_ts": 1793846415.0,
+        "tag": "Strategist",
+        "first_seen": 1793852127.054927
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtQXJzNGZuYlZwV0tQdzlEbkkxRWRSaTc0WjNLd0JfOG5VSjl0QzlHSy1veEgtZDN3OTN5aHhqUjVQV2NDaDA0ZHVqdW9LclZUQ1o4WnZaTk1JR1JwNlo5VDBRWnlzcW1xa0toeEY4SUxzaVJZLV83NXY3dG8?oc=5",
         "headline": "Sell on the Pop Prospects: November 4 Edition",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1793840832.0,
         "tag": "Strategist",
         "first_seen": 1793841328.0640163
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZjMzUFk4aTdmbGhqX2RuRmJjTl9KcFZtVDkwanFkY3ZURi1fN1dwYUpFdWhQLVZHN29GbjdlWjIzWWx1djFodkJIaXd2TmFiRXU5aFQwVGJTdjFCQzhkc2NTcFlJT1ktc3dBQnc4c2YwV05XeS1PZzkzVkkzNTZiYU1WZXFjS3d1bE1Ua3d2R3ZUSUtqZ09lbkpzbm1WU0pQU3JxUEo3SXpBMDRJNldXX1M0Y29RWHNHc0ZpcUpqRU9IcTZhM3d1NkJ6T3NtOUFweC1QSldjTU5RY3dBcU92bjlMWHZvdEVMbmFIWjAxdHc?oc=5",
+        "headline": "Fed Chair Kevin Warsh says third quarter GDP is above three percent",
+        "summary": "",
+        "source": "KRCR",
+        "published": "11/05 10:01",
+        "published_ts": 1793840506.0,
+        "tag": "Fed",
+        "first_seen": 1793852127.054927
       },
       {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR3ZQMm1VZHhKUnFja3lmd3hEd1FPbG05VS1fMVJKdk4tZmtfT0dlOGxxSUdYLVpieXIzZDN3eUxrVFZfMXZYbi02cEx2ajF4QmdvelNQWXlIaDl3Y0VHX2N3WTBNN2E1eTJsS0Jqd3J2bmNuTUNiM2M1NFA5ZEtDaWR5TnE2MTBSQnFwNHMyckxwTXRIc04wZ21WWTh0TW1tM3hZY0hBNjhSTVlTWEQ3eFZWalFZTzRwdzQxQw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793799320.0,
         "tag": "Strategist",
         "first_seen": 1793800843.4830287
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNakozc1d3cGp2aUQzMEozbmRCQWh0OURrRW1tTjRwNm5KUTYyaEtrQkJKZERMX3RvaG5lRVVickZ6WUh5cmtFbzdXYkNOY0d5Ukp6ZThlLXE2c1d4YkVpaTJieW5DWE9lOU1ueTJNNWtZMHg1cnRyMUJrT3VteHdDZUl5QV9wdkpRUURuSkx1ak0yZVpxZTdaLTBzRHl0RXRwTjl1VWVGNF96aWVtdzBpSw?oc=5",
-        "headline": "Polen Capital U.S. Opportunistic High Yield Composite Q3 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/04 22:17",
-        "published_ts": 1793798220.0,
-        "tag": "Global",
-        "first_seen": 1793806238.0712628
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5wS1gxWFIxampZaWdpV090bnJZRVhEWDFVNWF0S3F3TmgzY2FUYzhocUlPdWQ0aXpua08yVzFFWU5NTGltb0laYW9PSmt3ZDhH?oc=5",
-        "headline": "iShares iBoxx $ High Yield Corporate Bond ETF (HYG) Stock Price, News, Quote & History",
-        "summary": "",
-        "source": "Yahoo! Finance Canada",
-        "published": "11/04 22:15",
-        "published_ts": 1793798123.0,
-        "tag": "Global",
-        "first_seen": 1793843127.5034435
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 13:01:06",
+  "updated_at": "2026-11-05 13:15:50",
   "yields": [
     {
       "label": "3년",
