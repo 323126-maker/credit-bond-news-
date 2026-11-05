@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5uYzdCVC16XzVJSVVDLWNUakc3bHpfajJNbEwxUVItVFl1d1ozXzM1c0RPaVlOU2dKdzZWeUZ0dVhpRzEzTU9hY3ZlVUdBMEJJYTJoeEs1WlJDNDdNb1lLamNTWXk?oc=5",
+        "headline": "KB금융, 영구채 수요예측 흥행…올해 1조 돌파 눈앞",
+        "summary": "",
+        "source": "PRESS9",
+        "published": "11/05 14:00",
+        "published_ts": 1793854800.0,
+        "tag": null,
+        "first_seen": 1793855728.3942869
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92emZHU0ZOLXpJSGwxajVkZ2R1VnB4ZHVWSGs4cEJGbVJTUmQ4UWJzWUsyV253X3RVcEQ3TTVybDA0RlpyUm9EZXhrOWt6dDBkSzVXMFBrQjdpMmZscVF1N1pVME9ybzhwb3NERA?oc=5",
         "headline": "KB금융 신종자본증권에 완판 …모집액 대비 1.74배 수요",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793602619.0,
         "tag": null,
         "first_seen": 1793603749.6818938
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE93S2ZoREV6VFZNNG9RR3FTTnhmaDdfSG1VWjlPU1oyVU1Zb1NSSkQweFJkdkVHaFhBY29JS3NBZGR3QkNHSGNyRUdsTlNhdmx5Q2U3YmVLWFFmUGRYNlZBYTRyVUQ?oc=5",
-        "headline": "에코프로·오스템임플란트 2700억원 따낸 우리투자증권…구조화금융 보폭 확대",
-        "summary": "",
-        "source": "매일일보",
-        "published": "11/02 15:32",
-        "published_ts": 1793601150.0,
-        "tag": null,
-        "first_seen": 1793601923.834223
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 14:01:05",
+  "updated_at": "2026-11-05 14:15:51",
   "yields": [
     {
       "label": "3년",
