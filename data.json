@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzlWbUhLNmRudlA5Rnl1WEtrenNQYjFaeVhPV1FfVDRiRnlCNV93Q1RuQ3Z5bGwzRjlqd1RKWVFVODBWUVhQS2xLTFpIOGhVWnRFM1NLdlJycE9CdDZnSHpoVVNTVVVCWUVfRFItZ2VJX3pVNV9FT184eE5FLVoydQ?oc=5",
+        "headline": "[마켓인]한기평, HD건설기계 신용등급 ‘A+’로 상향",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/05 14:29",
+        "published_ts": 1793856542.0,
+        "tag": null,
+        "first_seen": 1793857529.139531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10VU5ZblZ3cVo2WkFsVERqWUFWdWU4YmJTVzdlc1FiZ3hoV0dEYlAzdFktendkVjhxZ1dRRU90TGdybGozUGJEbDJ3aG9kMUlQU1luekEweVVOVkVNcHBzelMwdjNLUXd6MC13?oc=5",
         "headline": "합병으로 A+ 등급 오른 에이치디건설기계, 중동 물류망 뚫어야",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793755966.0,
         "tag": null,
         "first_seen": 1793758526.2738633
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTGY3RGh6aUJlcEVyRlZmamZ6YXJ4TkE2YlhPbU9idmFhbHlpRDctWEFKUHp5aE9JaWdyZ1I4WnRuYTFXRkgtRms4MHMxYkpiV0l1dTVpY1NZRkJUaHJmWnRMRllpTUVKUEJqTmFtVUh0aHhDNWxETjlIYWRVS2xSOUhUVmR4N05YNjgtS1ZCQQ?oc=5",
-        "headline": "메타 신용등급 AA- 지켰지만…S&P가 전망 낮춘 까닭 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "11/04 10:30",
-        "published_ts": 1793755846.0,
-        "tag": null,
-        "first_seen": 1793756526.9081624
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTFNGUWdiR0Fzc3ZndUVhcnc2UUxjNUd1aGR0WHIxMjc2YWhteVpVUElSdy00MjFyR0RoSGQwZUJTZFo2a3UxM3FpZHlLQnNoejdZZmFQTWtpVV81cWNDci1JUno3V1cyXzRyeHRLT0ZobGxVZl9SRnB3U3BYS1I2OXcxZ08xdw?oc=5",
+        "headline": "JGB Yields Slid As Oil Fell And Treasuries Rallied",
+        "summary": "",
+        "source": "Finimize",
+        "published": "11/05 14:00",
+        "published_ts": 1793854845.0,
+        "tag": "JGB",
+        "first_seen": 1793857529.139531
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVMzdQdFVxb1g0S3RlOF9CSFVJVDZpVVVCUG5LcTllVnVWcWZpTENXNmlhY2RHWFZfUUU5R1BoMzVCRW5rVXB4MnM5ZjVkQXhxTnlELTJoUXowTUYxYklIVUhaZmo4Qy1rRGNjMWdjOHh5OGZsVmc?oc=5",
         "headline": "Blue Wave: Democrats sweep the US midterms – Market Outlook",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Crypto News",
         "published": "11/04 23:01",
         "published_ts": 1793800872.0,
-        "tag": "Fed",
-        "first_seen": 1793801728.6427035
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ1hnQmJGVUdITnN6UjkwVEZOeWxLSm11RFc5d0NzZkdWa2FJbnN6YWJMaHBGUDVWRWl4RW1XVFNDZEZUYnl2VU4wREtXYnRlYTVseXBUZFRRMG1pUFgyYWtEVjFZNFRVNi1TR29LaGtEZFhycWRSaE1YU296MHFWcHBlZmdhY0cxSU5MazNEVUdOM1RjMkYwdHBhNkFKbzhYVndwYkZ4SzBYODY4?oc=5",
-        "headline": "How Congressional control shapes US fiscal policy and financial markets",
-        "summary": "",
-        "source": "investingLive",
-        "published": "11/04 22:42",
-        "published_ts": 1793799769.0,
         "tag": "Fed",
         "first_seen": 1793801728.6427035
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 14:31:00",
+  "updated_at": "2026-11-05 14:45:50",
   "yields": [
     {
       "label": "3년",
