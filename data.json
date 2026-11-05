@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBIM0UyMGg5cmZiLUo3SE9mWEpHa1V3Zk51Z1lmb0RKUWtkLVhaM0c1THJPc0hfaTJnWWxWdkE0MWNPNUpJTWt2eXBWN1VkS3pVNGQtelFyZXVuRmN2c2ZLWkd0eGhjNGpQMURLSjFGaHA4Zzk0?oc=5",
+        "headline": "애플, 10조원 회사채 발행…주문 4배 몰려",
+        "summary": "",
+        "source": "연합뉴스 한민족센터",
+        "published": "11/06 07:54",
+        "published_ts": 1793919267.0,
+        "tag": null,
+        "first_seen": 1793919642.9454563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0wd1MxdzhUYnZuZXRUQ29ZUDRPSFNRT0QxM3VYTUxhWENBT3ZJNy1pckM5UEswMUN0NjVhSDZ3Z04xSzhOQUFhQS03Q1hYaXB4SkFuQ0tiQW1OMjY4WkYya1VPZnZtbnkz?oc=5",
         "headline": "DL케미칼, COO로 복귀한 김길수 사장 '사업 재편' 총대",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793820600.0,
         "tag": null,
         "first_seen": 1793867433.4745355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93RnhKRjhWZWtncjZTcGhMVTE5WVVkRlZuWmpuY2VsVzU2RkZzaHdjd3RkS0E5OU9zd2d0ZUNCOU9BYjBkajJVNExiMHpiTFJrZVpjMThlZmtkT0XSAWBBVV95cUxPUmFuMzF4ZzRScnh1MHBXTkQ0VUtISGVsLXdOZ1plYlV1RVpMT0dUSS1IRjVWVHRqRzAzLTJydkQwdTNPaG5yNmc1bE5XWmZRdWRFVDVGaGltaWVLenoxcUg?oc=5",
-        "headline": "메타, 달러채권 이어 첫 유로화 채권 13.6조원 발행 '영끌'",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/05 03:34",
-        "published_ts": 1793817273.0,
-        "tag": null,
-        "first_seen": 1793820637.606507
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 07:49:53",
+  "updated_at": "2026-11-06 08:01:07",
   "yields": [
     {
       "label": "3년",
