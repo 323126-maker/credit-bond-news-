@@ -1208,6 +1208,26 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpWEhfcTIySlBjX0RwQ1E5YzNnQjdSQmVLME5DR0R2N3U3dmUxOXhfak8tQXdCUzlUamlOdTNoSElWNXRGZjZXcFZwMVhCeVVzbWZyYTkxVjU2Q0p1QXFpYnhPeVY?oc=5",
+        "headline": "李대통령 \"성장 방식 대전환必…'국민 창업시대'로 나아가야\"",
+        "summary": "",
+        "source": "매일일보",
+        "published": "11/05 15:02",
+        "published_ts": 1793858552.0,
+        "tag": null,
+        "first_seen": 1793859327.9271793
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nT3RiSE8wRV9EQjJaQ2Vjdm8wSTZZNVVLa0tqdjdJTlZfclJ3aEd6UkJrLU1WZGk0M0ZVVUFwcmt2X2lFbTFEYVVleG1UcldZSjV0Q2xjd2RXWWRab3ZKQzlwS3J6Zk5rdjJOMFFFSjF4WWVXWFJMadIBeEFVX3lxTE1nT3RiSE8wRV9EQjJaQ2Vjdm8wSTZZNVVLa0tqdjdJTlZfclJ3aEd6UkJrLU1WZGk0M0ZVVUFwcmt2X2lFbTFEYVVleG1UcldZSjV0Q2xjd2RXWWRab3ZKQzlwS3J6Zk5rdjJOMFFFSjF4WWVXWFJMaQ?oc=5",
+        "headline": "이 대통령 \"창업사회 전환 필수…재정지원·규제혁신 등 국가역량 모을 것\"",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "11/05 14:20",
+        "published_ts": 1793856012.0,
+        "tag": null,
+        "first_seen": 1793859327.9271793
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBpMnVFSzZ5TTI5MDFVc0hxYVQtaUt0NDhVZkdaSUdkcjR3bXBxZlphcHRjNXA0aC0wUUEwbndFR2FoaGNfWllZZnM4ZC1rblFhNGlUYmVyeE40cmFmeXhzWjdCa0ZYWDlMS3hF0gFvQVVfeXFMTUstc0JxNmdXUzZIMkJ3bWpza0Rya0l6SW1LSjc1MEZYNkFENWVlRWRLRDd4T2lYNnNPMzNHRGwydnJKVE9kOU93NFFzLVBGNGRNV2IxYlJUellQb3h5NGNNYVhDaFc5cVU3a285eVVn?oc=5",
         "headline": "[정치pick] 李 대통령, 사이버보안 총괄기구 구성 지시···예방체계 강화",
         "summary": "",
@@ -1586,26 +1606,6 @@
         "published_ts": 1793655939.0,
         "tag": null,
         "first_seen": 1793656840.5673978
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5KLXlGaE5pZmRpVENRRW5EY1RoZEhTZUp1QmNpUXJCWnhwNkJHYzFXZEZUVmZ4ejA4dGhrQ1BNTmNXTWY2Y0hrU3BR?oc=5",
-        "headline": "나경원 의원, 과거의 자신은 어디에 두었나?",
-        "summary": "",
-        "source": "미디어이슈",
-        "published": "11/03 06:39",
-        "published_ts": 1793655567.0,
-        "tag": null,
-        "first_seen": 1793761242.9408264
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1ZUHJCTGk2YnV0b1hxdWpKUDJMSXlrRjd5OWxDaVpRN0xUODd5aC1DVDFPYy1PeW1DLU9VWWlHZ0ROMUU4M0VsVWpndTBqYWxWSVIxZTM4cXdxeGhkMjZfZWtBSDlXN0Zs?oc=5",
-        "headline": "이재명·장동혁, 162조 미래기금 정면충돌",
-        "summary": "",
-        "source": "OBC 뉴스",
-        "published": "11/03 00:18",
-        "published_ts": 1793632714.0,
-        "tag": null,
-        "first_seen": 1793640638.8589416
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 15:01:07",
+  "updated_at": "2026-11-05 15:15:48",
   "yields": [
     {
       "label": "3년",
