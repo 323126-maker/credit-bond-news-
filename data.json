@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Pam8zSnRydFlCcG8zXzhxc0NZZmlqdGcyQTJjcUxFcDRvMDZQMTlxUjByQUlvOXBoM3ZMMGFkN28tS2xFMVN4eV9NclJ3bDZXNXZsajNnc1NwWW5yWnpxQXUwY0hKU3dvNXZSSUdjNF9sdw?oc=5",
+        "headline": "[블루쓰나미 긴급진단] 채권시장 \"'4천피' 가면 11월 기준금리 인상불가할듯\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/06 08:29",
+        "published_ts": 1793921398.0,
+        "tag": null,
+        "first_seen": 1793922329.0016193
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51THRMaXFBRU5hQzc5SHhFSzBQRFAyalBTN19aWjhIVDdwRURxOXpRWmMzaGdXTmlmNVlOTnZmZmhFc0tfaTRSaS1YeDJhUEhkcTc0eWsyQmZVSEhrTXR1ZGJsM2Q3Y2JsLS1hNUFR?oc=5",
         "headline": "[채권마감] 국고3년-기준금리차 9개월래 최저 ‘미·이란 전쟁 직전으로 되돌림’",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793602911.0,
         "tag": null,
         "first_seen": 1793605525.52533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBtX0pLUnlZZjJ2RW03Ujdfb1NFNlBQUDBPaHkzYzhJMkcyMGE0aFdoWUltOVJqNVFJWmZENkxldDJkOTEwSGx1TERfRDhib0UxUFpJcU9JUFBYbGFWYkpabmRxOUp4V3dRUFFyU2ZqTWlYUVE?oc=5",
-        "headline": "4대 은행 저원가성 예금 줄고 부실채권 늘고, 수익성·건전성 압박에 대출 차주 부담 커진다",
-        "summary": "",
-        "source": "비즈니스포스트",
-        "published": "11/02 15:59",
-        "published_ts": 1793602776.0,
-        "tag": null,
-        "first_seen": 1793619924.1155028
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 08:31:04",
+  "updated_at": "2026-11-06 08:45:53",
   "yields": [
     {
       "label": "3년",
