@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBtQXJzNGZuYlZwV0tQdzlEbkkxRWRSaTc0WjNLd0JfOG5VSjl0QzlHSy1veEgtZDN3OTN5aHhqUjVQV2NDaDA0ZHVqdW9LclZUQ1o4WnZaTk1JR1JwNlo5VDBRWnlzcW1xa0toeEY4SUxzaVJZLV83NXY3dG8?oc=5",
+        "headline": "Sell on the Pop Prospects: November 4 Edition",
+        "summary": "",
+        "source": "ETF Database",
+        "published": "11/05 11:07",
+        "published_ts": 1793844474.0,
+        "tag": "Global",
+        "first_seen": 1793844928.9081566
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96MnVnSUJBWTBpNnpKWW43eTF3WTBla2hpaFg3U3VESFZEc010WE4yR2Fyb18yOXhtR0h4MHh1NlBvbERQTXBxdVFTb1hZUjVMZ29VNGtrY0N5aGQ2c2F4WnhDOVA4aGUxX2F3?oc=5",
         "headline": "[신간] 내 돈에 꼭 맞는 포트폴리오",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793797851.0,
         "tag": "JGB",
         "first_seen": 1793801728.6427035
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdTU0YkFMQjZ5OUc1MF9sUDNRYXdFdUZvRHdMNFkxLUtyUV91V3RsQ3JBa1hBazR3OENqYmFSVnMwY0RIdFB1Z3NHcWMtNHR1TWJVWEY1TnRMQnpVU2tsN25WamVXNFQ2SUN3R21RZXBId01tQkVGVmlaZ0RZV3pDakVHNWtPcllGeXlwUmZ5NElIdUNaVWlDajFONm9oa1oyRE4tQllSZFljeXd5MUNKRnJXelVNTGtMeGc?oc=5",
-        "headline": "Global asset manager Schroders brings emerging market bond fund to Solana",
-        "summary": "",
-        "source": "CoinDesk",
-        "published": "11/04 22:00",
-        "published_ts": 1793797200.0,
-        "tag": "Global",
-        "first_seen": 1793798129.082377
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 11:04:58",
+  "updated_at": "2026-11-05 11:15:57",
   "yields": [
     {
       "label": "3년",
