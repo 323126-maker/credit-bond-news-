@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVS1HeFZ2OUI3cmVvNGlfSnYySldYeWZ1N21NdXhTTkJfOGl4c3lvWFprUWVIVDdEdGpIVlRLYkJOWUVyRjBmU1V3M2lLdnE2NF85QkNvTkl0VGNCWlBfYjI0RlBROXBXNWxaWmtXN0ZvZXJsSll3ZGhQbUpVbXBGamh6YVBBbXJCQWF1U2xzUjVDZ3EydGc?oc=5",
+        "headline": "El-Erian Says Stock Market Is ‘Overdoing It’ On AI Fears As Nasdaq Enters Correction Territory",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/06 02:48",
+        "published_ts": 1793900898.0,
+        "tag": "Strategist",
+        "first_seen": 1793902529.6233554
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdnBockZtcFBiQ0o2WUtTanZqak9fRndhck1jcnprZGlzbVN3ZERlR1VnMmFFU3lhZ25aQ0d1WFZYZ2NrRTRfdjNmWDZRUU0xR3pqQUMwVXdBdnlmYzN1ZUQ2NWxzcmJya3NqWnlZOUZ4OE04SmFkT3B4WWg0OEVJT1JDdTdmSi1QVzktUFFR?oc=5",
         "headline": "30-Year Mortgage Falls to 7.18%, Third Weekly Decline",
         "summary": "",
@@ -1810,6 +1820,16 @@
         "first_seen": 1793881839.6797578
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5Fd29Eb3EwX2lFX0ZKSno0MVJBZEVTYnJkaTFOTkNVSjZPcDNrRTlnOGl1a0pyQVlZa1dMTUQwbTBSVFZFdGV0c2Q0dC1jbDg3aWZDWkVaRjBQcmdKZWYzY25ZT29RU2tocHc?oc=5",
+        "headline": "영란은행, 3년여 만에 첫 금리 인상…기준금리 4%로",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/05 21:05",
+        "published_ts": 1793880300.0,
+        "tag": "JGB",
+        "first_seen": 1793902529.6233554
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUXgwdTFyaGVJcF84dDdleC1PclZhWk9nOGZPUHl1VkU4dXFOTXBEaG1ZNHBMZTA2cFJqUzNxTm9ZSmhTVzlrS1VEQy1ZVHFtNV9EcWpVZ0pkNU80YlE5ZjNaSkpoUjhNb2QySk11dS1wa1VCX1diM3RSekwyVnBHZ3h1TnNCdVUwX09VTGplTzZvY1F4T1VCZXl1anpmY09HVUFPS0JpV3ljdFhVQ0pv?oc=5",
         "headline": "TCW Securitized Bond Fund Q3 2026 Commentary",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793870082.0,
         "tag": "Strategist",
         "first_seen": 1793898934.501957
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9zQTh2T0ZUUndUVjdhNGpfVm55LW9ZajNTYXM4bWpiTjVSSXlKckJEekdyOWtjM1d0NG5XWEJBTUZWWnE2aTNqNWpCaUt6blVOMDVvbnNuMmNTSDRiMFczRTRITG9qV2NGS3pON1VwX3VhQmVjLTVZZzJVSDZKdzQ?oc=5",
-        "headline": "The 19 People in the Room When the Fed Sets Interest Rates",
-        "summary": "",
-        "source": "WSJ",
-        "published": "11/05 18:14",
-        "published_ts": 1793870047.0,
-        "tag": "Fed",
-        "first_seen": 1793875528.4746706
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNERhRGl3WEg0VVdfNTJiRG5fS0RJRmVWOS1zVm4yYWJFb3RlaFlqSW5LN2xfV0cwdVZkbGI2d2gxcWJGV1JKdTZkY2hxTTJDOFhpZVZvRGM2Q3hFSEpCR2hvRFZudG1vMlNrMDVpUDF0Y0FqMms0R0hCeFFpNjltQ1ctRXBDTnJ6NFVjXzU0dEhyZ203bjA4ZUlvWDNTODRRVWRFT0NWdzhwRGR1NlljNnhRQUkwNDVsQXMtcUM5dHgwMFVMLXlLNlZ2b2dmVm05elJIeA?oc=5",
-        "headline": "The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "11/05 18:06",
-        "published_ts": 1793869560.0,
-        "tag": "Fed",
-        "first_seen": 1793871035.7296734
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 03:01:11",
+  "updated_at": "2026-11-06 03:15:51",
   "yields": [
     {
       "label": "3년",
