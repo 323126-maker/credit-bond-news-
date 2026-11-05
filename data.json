@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaVhvcFBPZ0tQcGtBdjB2Y0VrYVljRHdtN3hZRmRWVkE0ME8yRUJnb1JzbVFHN09PUDJLT0tRZllteU9aRl9ZVjJLaG95ZkV6STh1WWMxNkZfRGU0YjRwdHVvb0otODlCQVdCWGZkR1NTeV82X3hJY1pmLXY4cnh4VUFHUS05VE9oMzhESDY3WFlRY0pWNjlSdUVxWEJBVVJXYURvMXZfYw?oc=5",
+        "headline": "Guggenheim Core Bond Fund Q3 2026 Commentary (GIUSX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/05 18:15",
+        "published_ts": 1793870100.0,
+        "tag": "Global",
+        "first_seen": 1793871035.7296734
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQNERhRGl3WEg0VVdfNTJiRG5fS0RJRmVWOS1zVm4yYWJFb3RlaFlqSW5LN2xfV0cwdVZkbGI2d2gxcWJGV1JKdTZkY2hxTTJDOFhpZVZvRGM2Q3hFSEpCR2hvRFZudG1vMlNrMDVpUDF0Y0FqMms0R0hCeFFpNjltQ1ctRXBDTnJ6NFVjXzU0dEhyZ203bjA4ZUlvWDNTODRRVWRFT0NWdzhwRGR1NlljNnhRQUkwNDVsQXMtcUM5dHgwMFVMLXlLNlZ2b2dmVm05elJIeA?oc=5",
+        "headline": "The Federal Reserve's Initial November Inflation Forecast Has Arrived, and Things Are Getting Downright Ugly for Wall Street",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "11/05 18:06",
+        "published_ts": 1793869560.0,
+        "tag": "Fed",
+        "first_seen": 1793871035.7296734
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxONEsxMjRzZS1XTFN6eTNUamkxV3dKM0lsM2xzdF9uQkFjdm1ZZjFCU2pQMnpfbHBfUzJGMW9IRUZMN0pIR3hzOHBCSzRDVGp5NGVfeDZxbE9XRmJCM092ZXpkMklXWFZaSERkbkhfbEhzQjh1bG16Q1AyU19VOG0zWW5RbEUzaUdOSEkzREtCVjNxeWRHMFpMSks4Y1FNTVY0dWNvTGxpOVZhN01IeW81RnZ3ODNNb1FFRXVrUDRMTkprbXdDbUJSZDlzRTY?oc=5",
         "headline": "Europe’s Bond Sell-Off Has Reached Corporate Borrowers. What Does It Mean for Dealmaking?",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793827350.0,
         "tag": "JGB",
         "first_seen": 1793827835.7357383
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5",
-        "headline": "Yen Carry Trade Unwind: Japan Inflation and US Stocks",
-        "summary": "",
-        "source": "Equiti Global",
-        "published": "11/05 06:17",
-        "published_ts": 1793827062.0,
-        "tag": "JGB",
-        "first_seen": 1793830528.2373133
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KV0FvOGtaRC10Qlg0cWNEd3pHUkxkSGlGbmYzc0Y2VHZrUTItWjdoUmtwSnNILTJ3R0dxYVB2UzJxT2ZhckNya194V2h6YzF1RlBGNDVwQjFjSFY0M1E?oc=5",
-        "headline": "\"출렁이는 원화, 완충장치 강화를\"",
-        "summary": "",
-        "source": "동행미디어 시대",
-        "published": "11/05 06:00",
-        "published_ts": 1793826000.0,
-        "tag": "JGB",
-        "first_seen": 1793835935.9336362
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 18:23:53",
+  "updated_at": "2026-11-05 18:30:58",
   "yields": [
     {
       "label": "3년",
