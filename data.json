@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKYUhCcjRvOGVIbEtCV0haaWVUSHRZWFQxdXh0UW5QWVFTTnBQWjQ1QWhqMzBMM0Q4VENxVlViaWlVZklSTUlnWVBITUh6a2c2?oc=5",
+        "headline": "US Treasury borrows record US$839 bil in single week",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "11/06 01:09",
+        "published_ts": 1793894989.0,
+        "tag": "Strategist",
+        "first_seen": 1793896238.2867663
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpYzRyV2l0cERMX1FGUzNlel96WUVKSHRnWDN1cnM3dU9zM2pCMDU3OXNaZlJlSmlkNEU3UUQxNU5MUUpYaFhsVHBrZGNnVHZ1RWkyMWtNRHNYTE9GdnQ0MTgwakVPUEJkcE5RamE0M1JvNnhPeHlDMUx2QUphWHc?oc=5",
         "headline": "Is the US exorbitant privilege eroding?",
         "summary": "",
@@ -1960,6 +1970,16 @@
         "first_seen": 1793868328.5699804
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iUmY2VmVJcVJRdVBNLVRyS3J0VjIwRjlpVldDNkRUTWF1RjUwSjZ3OFZOeDdDdWhFcnUzTk5ucHM2c01QYXV2dlgxNnFaS19ocmxYcWRkVi04S05YTHA2SEJNekx5WGs3ajYyV3VPMDJNc1pT?oc=5",
+        "headline": "亞 국채금리 낙폭 확대…美선거 여파·유가 급락에 위험회피 |",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/05 17:25",
+        "published_ts": 1793867157.0,
+        "tag": "JGB",
+        "first_seen": 1793896238.2867663
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8wdjJfWkpmcG8zbGt1UmNWQ2Q4ZUppdHp3bms5Tkl6eUpPSS1xNnlJdTJ6cGZSRGRxQXdJdktQTnJJeExUNXVzWTktVFVzLWVlMndQblhIZ3JFSURteGs3OS1kOTRQZ2xaRFo1VzNBemxQVDcwcXYyNQ?oc=5",
         "headline": "Why Are Bond Yields Climbing?",
         "summary": "",
@@ -1986,26 +2006,6 @@
         "source": "Livemint",
         "published": "11/05 16:18",
         "published_ts": 1793863098.0,
-        "tag": "JGB",
-        "first_seen": 1793863834.0648477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYy03UGljOEJuMHdQWmpaZlZqakExWVVmbVFwR1NWbzJtZDdrX0JVQkp0RnpkNzdBc2ZwYjY2b1owQ09ZVUJQWmE5d3lsd0xycHdBLUFHeUZoTWIxYTU2VEdmNjNCMVBkOTBsaHpNNVhQbXpBVDBTS0JXQVFEUldDUlBhUGJ6U1lGdXQ0N1FuOElqXzZhWkJqWWV4bFp5UldxNFBOMVp2RmEzaVl6NVBHT0tjbUdWcmFjQzN2bWdzTG5wOGk2em1WMXkwVnhkMkhoNU5MSl9IZ2pncmttOXRjbzdRaXlBSlVjR3J0Qg?oc=5",
-        "headline": "일본은행 의사록: 위원들, 정책금리 인상 지속이 적절하다는 데 동의",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/05 16:11",
-        "published_ts": 1793862695.0,
-        "tag": "JGB",
-        "first_seen": 1793862927.2807004
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTExxMjJ0djJkQjNFX284alJGcW9KM2NKTUpadEw1enBQdGE1aFBaUGRoR1BlX3dyWDV3R2swaTVxb0VONjdyQlBJZFFRSnJWQVhSNjhkbUM2WFkzUXBwNmhPeHhZdmdPN09UOHlMSjhXb09sSWFJWDJmYlRraWVEeTdFWm93dGlvWFJNbHNRNC1idDdjZlpDRVExV3dQend5b3duSEJwU1A4X1gwYWdPRGxnUEtXMWJHbFFZVlRYdzBPVTBfOU83Y1ZQNUVMdV9Ha0xUaWZxZW5uUQ?oc=5",
-        "headline": "일본 엔화, 매파적 일본은행 의사록 공개 후 약세 미 달러 대비 강세 지속",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/05 15:27",
-        "published_ts": 1793860027.0,
         "tag": "JGB",
         "first_seen": 1793863834.0648477
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 01:01:14",
+  "updated_at": "2026-11-06 01:31:03",
   "yields": [
     {
       "label": "3년",
