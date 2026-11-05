@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQaHZhTTVhR1lPZXNFUTJWQ1p0WlcxRkh3dE9adGlRNE1XZTNPM2dVVm1FaElENTA0QWxnWDMyT3U3blFoQlJtSEV2ZzZWbl9UUXBGaUwwbzNfdw?oc=5",
+        "headline": "英 물가 치솟자…기준금리 연 4%로 인상",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/05 23:06",
+        "published_ts": 1793887606.0,
+        "tag": "JGB",
+        "first_seen": 1793888131.6106324
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcWpsN3gtTXpiX3g1V2JCVzNCcGJENTRUX1p6cHhHSjcyd0Q0N2pFTHpPYWhucWZKQU5ob2tIdTBfUHpMdFIxWHFiN19paGhYd2ZtbkZIcFVVZV94ZExXaUdBWFdmeTMwNXdSbTRUVzdPWHN0TTVlREdnWDRSVWZ0NktzSkx5X3M3Zmh0d0FmdHB6bVZXMkZTOHlRcWtkeFBvekFkTk53?oc=5",
         "headline": "Why Gold Crashed Below $4,000—and What the Fed’s Rate Pause Means for Gold and Silver",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793854845.0,
         "tag": "JGB",
         "first_seen": 1793857529.139531
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1iWk9hWnI5czdfNUxqWURUbnpWQ2lhUkd2RmVVN3FiV0dCTzhvZUZjWWRFT0FsZ2h0R21US1dEb3B2blpNdFNqV0UtUlloOTlNLUYwMm9IQ28xWlVK?oc=5",
-        "headline": "[일본 특징주] \"中, 소프트뱅크의 ABB 로봇 사업 인수 불허\" - FT",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "11/05 13:40",
-        "published_ts": 1793853600.0,
-        "tag": "JGB",
-        "first_seen": 1793875528.4746706
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-05 23:01:14",
+  "updated_at": "2026-11-05 23:15:54",
   "yields": [
     {
       "label": "3년",
