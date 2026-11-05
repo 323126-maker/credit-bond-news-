@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBpYzRyV2l0cERMX1FGUzNlel96WUVKSHRnWDN1cnM3dU9zM2pCMDU3OXNaZlJlSmlkNEU3UUQxNU5MUUpYaFhsVHBrZGNnVHZ1RWkyMWtNRHNYTE9GdnQ0MTgwakVPUEJkcE5RamE0M1JvNnhPeHlDMUx2QUphWHc?oc=5",
+        "headline": "Is the US exorbitant privilege eroding?",
+        "summary": "",
+        "source": "Brookings",
+        "published": "11/06 00:54",
+        "published_ts": 1793894065.0,
+        "tag": "JGB",
+        "first_seen": 1793894450.0829146
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlpIZGhleTRDb0c5VjA4VUVlclM2cm03VHh0UC00UjZ0U1E1VjJCOE9oWG9sR0ZyaEpsMGFZYmtIcVVSTTFiMUlSRVh0Q3RMS1JHSXdsd3dwUm11cVB2c1ZyM29talVXc3pMLXpES0FXVWJmYzJNWmNqQV9sQ2NpcjdISnNvbkIxZ2JaWEE0MG16aERpbS0yMWExY0RQb3E1Tm90VA?oc=5",
+        "headline": "How a Divided Congress Affects the Stock Market and Bond Yields",
+        "summary": "",
+        "source": "StoneX",
+        "published": "11/06 00:44",
+        "published_ts": 1793893497.0,
+        "tag": "Fed",
+        "first_seen": 1793894450.0829146
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtwVUlRTV9kWEhscjBBRXpHMEZFdTM2eU16VE1VV0NHQkdBZTNUN3hmdm81UnJYUUFZaFc5Qm4xa1lMTnRMR081U0FPS2g5ajczYVJRVVFkSjdCMzV6RXRmMmlmQ3lybHA1WHhsMDAtMHlDeVNnX2l4UnFsbERhSHRUYWZicFZo?oc=5",
         "headline": "A Divided Government Bodes Ill for the US Economy",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793860027.0,
         "tag": "JGB",
         "first_seen": 1793863834.0648477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Udjl0QjdkaDJwM1cxZEJ3YVlEOVl3OVpTUUtETTQteGxGTjllZ3luZHdMcTFXdnlUZnR3Sm44UDdUVGZGQXhDWE9DTklELUN0cFVKeFhXQ1prb0tWUjAyQ1owclltOG9rT3JN?oc=5",
-        "headline": "지금 일본 국채시장을 보는 이유 | 금리가 증시를 위협할 시점 William Shatner (lT5VHAUOFP)",
-        "summary": "",
-        "source": "Unisba Media",
-        "published": "11/05 15:23",
-        "published_ts": 1793859792.0,
-        "tag": "JGB",
-        "first_seen": 1793878236.0652409
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OeHptVFpBcnF2c0djYkM3cVdzOUtqclFaXzIxWG1QZE5zbUFLRVBKVEg3a003bmloMDh2UHBRcHMzU0ljYjRiZ0I0VEd6YzY5dXV5NC1kQmF1MUVudWhHdnQ2QzFGMUtPLUhJVjRkT1FZZw?oc=5",
-        "headline": "亞 국채금리 낙폭 확대…美선거 여파·유가 급락에 위험회피",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/05 15:18",
-        "published_ts": 1793859484.0,
-        "tag": "JGB",
-        "first_seen": 1793862043.6534884
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 00:45:58",
+  "updated_at": "2026-11-06 01:01:14",
   "yields": [
     {
       "label": "3년",
