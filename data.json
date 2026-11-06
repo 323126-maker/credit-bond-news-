@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VUjNlcXAwbGREa1U2ekhGcjFHMWFiNXAxT2REWUVGQjJ3bkx5WGFuVGtiUEdyREx4MUJrYW5pVHRadzZ1eEZDR3pUdTRJbEhiQ1N2Qm5IOEFmdV9YUHplRVJuYXhSVXY4NF9ISXloV08zLVk?oc=5",
+        "headline": "HSBC 홀딩스, 15억 달러 규모 영구 후순위 코코본드 발행…기존 코코본드 최대 10억 달러 공개매수",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "11/07 03:44",
+        "published_ts": 1793990667.0,
+        "tag": null,
+        "first_seen": 1793991647.1875963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03RGQ3LXh6a01vRWxPSk0yc3o4RG12N3FzQVJWVllDZ2FIaFNYUVZFU1N1ZVp2TldQandRbExMLVJvckpFRkVPOExPN0xDc3ZkZmhpc09GZk1acDhYVHhUY9IBb0FVX3lxTE9kMlB6dmhsRUZUWGJNa3lNRzVsX1RUNEtYWmZ4bnkySUVjVVJfT2hVbjRObW1NN2lITDl6OHdMRmtVM0F1OUNON18wa0NFRVR2dnMybnJrSUdOcVZMSk1lQ2VDRm5iTFVJSDhDR3BUWQ?oc=5",
         "headline": "한화생명, 후순위채 7800억 확정…자본건전성 선제 방어",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793692747.0,
         "tag": null,
         "first_seen": 1793694637.1996326
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40dlZ2b3hRLXNYSkc3UTBaUGViMWQzdTJ5TExYdER3MFlzaVpBVk1UUFBVVU9DMEdPUW4wSDNEbjBWSlJUMnp0dWU0dlRNVXRnMFYtaDZrMDTSAVhBVV95cUxONHZWdm94US1zWEpHN1EwWlBlYjFkM3UyeUxMWHREdzBZc2laQVZNVFBQVVVPQzBHT1FuMEgzRG4wVkpSVDJ6dHVlNHZUTVV0ZzBWLWg2azA0?oc=5",
-        "headline": "같은 날 회사채 발행 나선 한투證·한화생명…투자 수요 '온도차'",
-        "summary": "",
-        "source": "미디어펜",
-        "published": "11/03 16:53",
-        "published_ts": 1793692419.0,
-        "tag": null,
-        "first_seen": 1793721931.503054
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA1UWV2d3RaRTFNZlFLV2h4eWxEWFZveUV3YVBrYW9xLUtSWVVLc3VHM3luelZOWmJndDREYXpIN2hHOXQ3VTFfSTRmZGhPa1QtYUtlRjI4aEttU3R6Vnl3ZC1PNjJUaWN6RXV3eVlZSkt6dw?oc=5",
+        "headline": "The Return of Rising Rates",
+        "summary": "",
+        "source": "AdvisorHub",
+        "published": "11/07 03:47",
+        "published_ts": 1793990845.0,
+        "tag": "Fed",
+        "first_seen": 1793991647.1875963
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3Y0Vkk0TEoxQmJXc1NHbS1LcDJFS29qVVhoeTVPUDRIRWNpYmZ5Tzg0b1Ayb04xMGwxWGM3d3VIc2VGTVJLMF9MRTA5M3p3R1Z3ZEdTck5QU0p5c005S2RrcnpGR2ZTLVVUZUFuUkN3b1J5SjA2aTR3dUN4dHFfUEdUTFJaN3RfQ0gwbWZCOG95NVVyRHZnMDFR?oc=5",
+        "headline": "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
+        "summary": "",
+        "source": "STLtoday.com",
+        "published": "11/07 03:01",
+        "published_ts": 1793988060.0,
+        "tag": "Fed",
+        "first_seen": 1793991647.1875963
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPY0g1Wlg0bVFoVzN1MVhqOWt4YWlpVzJwdm8zNTRyWkVBVTRTZkJGTmk0bU9IWWg3OEN1NXVRalZESS1XVVFldWhOb25kRk1UV0J0amlHc2llRGdGVzNIdi1CWTlBZmxocXJMSzZPdHVPTWpfbi1ycXYxMlZFNGNHajZQSlhwOWFjMXV1QnNxSEdJZDBYOVhqLXZJNUZxZE11YVVuMmJxWkQyRDQ?oc=5",
         "headline": "AI rout sets off market alarm signals as traders brace for what's next",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793951010.0,
         "tag": "JGB",
         "first_seen": 1793984446.3488243
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV3FMM1lUbmRidGZGMnU0b0ROQWk3T2hJNk5ZRExQWXJJLUtxMkJDc3VFT2RZQTRsQ2s0OXBEaWhNZ1c2U2JHcEhkTnNfdXdtMkdDRGZGM0FtMXd3R1psbHNvSkhSTzZjOFZFODdlQXkxVWpkOFZoaUFhVlp5U2RZb0xYdncxVU1oTzZhV1Zlb1BnelpjY2ktdklKMlE4bnNtekNDbGw2bm9yRzRjOGJHOHFJNVRadk5CdTk3RDRFOXBFTXFWc0dMSm9xa001M2NLUG5uc2pjWFpmelNfdi13?oc=5",
-        "headline": "Japan bond yields hit multi-month lows as tech rout spurs flight to safety",
-        "summary": "",
-        "source": "Zawya",
-        "published": "11/06 16:36",
-        "published_ts": 1793950564.0,
-        "tag": "JGB",
-        "first_seen": 1793954727.4516957
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPLXRjT3RpZlBWbi1fNlp4ZmZzeElqZnFaM1BEbkVwb3ZER2ZSOXpuVDlzT0sxNS1OSFhEeUhPS0pxZktCRUZOOEpGQkZSZDQySnNWTTRkSHNXQXI4cmZud1FGR0lfSllUVGNraXVJcVZvWEUxZk0yMjlDbnBwODBuNnVFOVotN0owdlpEbmZpMWdBanBvek5fVkJ1LWMzRFk3LUFfRmJuS1dVSVpaOUp3Q3E2OHcxQkFTODg4Y1VhNXI1OFZRU2dMeE16UTBvRU9Nb1Z0SkRFUHVNNXozOThPc25uOEtoU0xpX0ZqRjF6SkVIR0tFbVZ6dVFBTUZqUdIBgwJBVV95cUxNUHZwN2dEYnV3RGx3TGVUNmhCVVZNcFJ0WFltY0xjODBiXzVvVzFYQjNaQVpFazJzdENmcXZfWXp2QmZCSGtEZXcwd3NyQ1RuemNsZzZIUXZsMkVaa3IxMnBaODZJWG5LdUpCXzh0XzBoLTdVNTNzX0N3WHpEUGh2SFJmbXk4Rk8yR2ktalFhdHRTZHY3V1dOWWxMdXBlX3lMTDJiR2NuLTd0cFJlMGs3dW5rbWpNVFdaRHN1UTUyZ2NiZF9sU0VhSjdHRG5XWExjVk5fM01SWnA5R29xUGhZejl5czZ1dmJNY083bmpDeHlzd3o1VVdzU3Y0MTVGT2lHTDM4?oc=5",
-        "headline": "Japanese government bond yields hit multi-month lows as tech selloff fuels safe-haven demand?",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "11/06 16:27",
-        "published_ts": 1793950055.0,
-        "tag": "JGB",
-        "first_seen": 1793953836.6617858
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 03:45:52",
+  "updated_at": "2026-11-07 04:01:07",
   "yields": [
     {
       "label": "3년",
