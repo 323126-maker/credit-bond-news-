@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8zTUltOXVMS0txNDBfWTZwUmw4N1VENXBrek5WZC02ai1CVkdyXzEyazN1Vl9OeXBkRzdHUUtkcUgxV29sZkJuczhpTXF5YkgwVlAzQmlvZk5FNFdYQjRj?oc=5",
+        "headline": "S&P, 네이버 신용등급 'A-' 유지…\"AI 데이터센터 투자에도 재무 안정적\"",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "11/06 15:03",
+        "published_ts": 1793945027.0,
+        "tag": null,
+        "first_seen": 1793946636.3211691
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Pbkh6ZmdTT2tYbEVSWXZEZFJ6dFNFeFBpVWVNX3JlYWhlRTJvRWh3RFBURTRTdVh3QVZyMUxKUVgxQjFqSE1CSTU2OW1hY0pBdkhjajBxV3RWS3RON2IxMEMyT0lITnQwV0FJ?oc=5",
         "headline": "부채 12조 원 안고도 신용등급 ‘A-’ 지킨 네이버 방어막",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "기독일보",
         "published": "11/05 10:06",
         "published_ts": 1793840770.0,
-        "tag": null,
-        "first_seen": 1793841328.0640163
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBJTXBBUzJHTk9yRTZwWHdpaHRSQlZ5M0haZlM3dkp4dWlNaE03RmNDLXBDSzJZeXFVSTAxWDFlRlJNZU1fRU9JNW9kTVRLc1UxNkJqX3FhNkFPSXPSAWBBVV95cUxQM2l3RkxwTl9kZzliNmc3emh6YlJaVmZEdTdyMy1BSnMyRlVUajJSQmVraWRvTGp2Z2NGSzVKc1hDbmRfd0szWmNRUXpxOEtub1E4YTVIWVEzdWV4eFJzTDI?oc=5",
-        "headline": "블루웨이브에 美 국채 강세…韓 채권시장 영향 주목",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/05 09:59",
-        "published_ts": 1793840377.0,
         "tag": null,
         "first_seen": 1793841328.0640163
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 15:15:49",
+  "updated_at": "2026-11-06 15:31:08",
   "yields": [
     {
       "label": "3년",
