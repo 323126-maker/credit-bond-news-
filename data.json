@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE80c0NEdmFYY3RrdXVVQnh2cUlNdmtELVZ4d0tsUmstcGpVYnFQeWlSTXFidHgtWmNLR2FPSEUyQ3dKV1JYRl9qNG1PaUdMY29SSk1BTW1jZWVYakxmb2pPeTB3dTIwS2hDc092akhSY2JQZw?oc=5",
+        "headline": "日 국채 금리, 위험회피에 급락…10년물 14.79bp↓(상보)",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/06 14:35",
+        "published_ts": 1793943356.0,
+        "tag": "JGB",
+        "first_seen": 1793945727.1939812
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTTQ5dWtsa2E0cUQ2Q05fMF83YjBmUF92anluQ0pQUmRMYldZTGhSVjJnaF9wU01tbHc0cHhhX0h1SE1aS0MwS24ybHRDTmJiTmhQSEFKLVVITUtaRHBMQnFyaEs4RER2al9rUktHVGpqN2tEem5ZRlRESGlOTWVYUldaMDhDdXJXdy1EeXVNY2FsOG0zaWtwNTc3cTBUWmJqaVNmTUp0X2U?oc=5",
         "headline": "SoftBank Leads Asia Bond Losses as AI Rout Spreads to Credit",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793896272.0,
         "tag": "Global",
         "first_seen": 1793906128.9937332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1JWc2lSWVZ2MWFOYlFFZXJOeEpQVDFWU0lDa3FDSVFTOHp3V1VpUnROMG9EUFVLZDhqNXBnZlk0dGd4SVF4WnhGUHo0bXc3STVGR0pLZ2I2TkhqdUZVSHZsT0tHcURDVENndWIxQURULUpUSjFlTTY4cjBnQXNpUG8yZWVwRVlCVzMxeGxiNGFTZTNO?oc=5",
-        "headline": "Form 497K Investment Managers Seri",
-        "summary": "",
-        "source": "StreetInsider",
-        "published": "11/06 01:20",
-        "published_ts": 1793895652.0,
-        "tag": "Global",
-        "first_seen": 1793917840.4855974
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 15:01:08",
+  "updated_at": "2026-11-06 15:15:49",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         4.001,
         3.968,
         3.887
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 3.985,
-      "chg_bp": -6.2,
-      "series": [
-        4.404,
-        4.359,
-        4.293,
-        4.296,
-        4.237,
-        4.206,
-        4.214,
-        4.179,
-        4.197,
-        4.21,
-        4.17,
-        4.164,
-        4.145,
-        4.193,
-        4.171,
-        4.106,
-        4.115,
-        4.08,
-        4.047,
-        3.985
       ]
     },
     {
