@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOOTNfLWhKbG1YQW94UmZzUGpiYlNJUlNhZWstcGdKNE9mVnRlWDhTcE1FSW9iZkpwTDI3S1R2QWNoTFhndEN4bFpwMXQwQ1paZDlNbXNxSlBRNVh5MlVKOVNKMHowZVNiN00xX2FfcHVyeFBIVzhaVF96azRNWE5VZ1VndXItWmdwelE?oc=5",
+        "headline": "Stocks plunge as election outcome and AI worries crush tech shares",
+        "summary": "",
+        "source": "NBC News",
+        "published": "11/07 00:56",
+        "published_ts": 1793980597.0,
+        "tag": "Global",
+        "first_seen": 1793980846.0488303
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNUGFsR3NwTHE4cUxCeHZvdUtObmZ2eTZjZmwwYzhJN29zOGRMWndORU9vbmd3cGdIa1dCUDZQbHBlX0cteDRLVlBoMUFIOGNxUlZMa3MyaXZMV29Va2xXLVJMVEk4QUVIME0zZFhwNkhyMFgzaHo2d3Y3N25NVFkyZm5oZUppR2VHd05tLU5MRFNnS19GZjE4?oc=5",
         "headline": "CDS market flashes warning on AI ratings downgrades",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793939400.0,
         "tag": "Strategist",
         "first_seen": 1793940331.32729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPazZIZ2ZySDFXalR5U0dmZmlNbC1sYm5NZEpoS0RrbER2LWNwQ3M2eVVINnZ3NFBJSlRUcWo0WWFRV05FZ0MxUDlPMk96a084NGZYS1JTY2hfVFdsc05GbHVXbUlfYTRXYjBFV05JN2xCNGY2M3RtaFlYYVFxUzhCRjNwVTFza3g4ekZ1WjJBVmthRGt0anVDMWxOeWNIbUpmV0NSM01wcHBXT1XSAbABQVVfeXFMTVcyc09EUk9nZHJlYWJGTUcxMzRDZWZ1T29yWXh0YndBTnRsbHVoR0VXLXhLYmkycklDQXNwdVpIT1dDbThPaEhJZ3ZaTl9KcUZ6UFp3aHlJbjNzMk1aMWRRUGhYcFJvcUFwUDVOeEc4ZDE1NXpDeWE0MlVJZUJmNEQ2TEFCdU1EVlZQdFFDRHk5Yy12UkRsaFVQU1RNYXBJeHlaXzFGdk9BdGNYMVZHd2k?oc=5",
-        "headline": "Malaysian bond market on edge ahead of BNM policy meeting",
-        "summary": "",
-        "source": "NST Online",
-        "published": "11/06 13:08",
-        "published_ts": 1793938136.0,
-        "tag": "Fed",
-        "first_seen": 1793976327.5785584
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 00:45:49",
+  "updated_at": "2026-11-07 01:01:08",
   "yields": [
     {
       "label": "3년",
