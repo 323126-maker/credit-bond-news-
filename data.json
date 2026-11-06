@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8tNUp1Nkt1SGpXbFRWd0U3dWhhV0h1QTdhenhtWGtMYnhEbUlaeTh4aUlwa1VsbWFIVWFqcm9EemFlTU5UcWhrTUIxaFRNMDE0MXRVcnluTlJKMmFNSEtzdGs5czNQb1I5UmlwTDhXbEw2Y2dVb0lyanZjQ3RSQQ?oc=5",
+        "headline": "Increasing signs of a bottom – Market Outlook",
+        "summary": "",
+        "source": "www.sc.com",
+        "published": "11/06 18:51",
+        "published_ts": 1793958707.0,
+        "tag": "Global",
+        "first_seen": 1793960768.1294067
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeUhpREp1aW9OdE1faWhHQkdZbUtUZEtmc0dJdVlFbUhJVTRUVFo2TktqUHlqNnpFdjBoMlJxMHBDTlNFSXM3MGdqcXRYWV9IVUJMcGs1Y2JoUWdSdGEyeDBoVktHVWttTXZ3VGlyUlhkZW9QU3dESmd2b01rdFhjZ2pPWWtsV0pQUk9YbGZCTVFOREJ2NXc?oc=5",
         "headline": "Fed Chair Kevin Warsh Is Planning to Break 45 Years of Precedent With a Stunning Change to Monetary Policy -- It Could Rattle Wall Street for Years to Come",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1793950055.0,
         "tag": "JGB",
         "first_seen": 1793953836.6617858
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNd1VaSGFpRTJkdDdLaWdCbHpUNURTM3NmX2RaRXltZEl2SXMwMUtLYkc0Qi1XajhGS2VEeU10N2JONEVoN1VuMXk2V0hkWDctSFljNDVneE5DWjJxTnd0MDlOTHAxbHhmSEduNHlUczRULW5XNEVFVDBOU3lOWGtSOFg5Y3plWmpPbi1mZk9zcGY3OGdmcGFZY19xNTl5SlBZZEpLNEl0UUlNdS1TOVIxUEZEemxTMGlOZ2N1V2pqU2RmR0E?oc=5",
+        "headline": "The upside of bond market volatility",
+        "summary": "",
+        "source": "UBS",
+        "published": "11/06 16:25",
+        "published_ts": 1793949956.0,
+        "tag": "Global",
+        "first_seen": 1793960768.1294067
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOX2RxUlFvNmxoUFFUd2pmeUk3MTJoSkNvTkxwOS1TUlNFd1hDZkNZZ0huMHIxQXhDeWtpWVdVcmJGcDQwdVcwMFJTaHg2Q040OTBCZm5Ja2doTnpQcTh1OFFSdDNucHFXVzFRR2EyTEJfa3BRWDFUY19lcFNNXzRmR2F2UEw4dlVOUW1xSnFqNmI1Wmtr?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1793916045.0,
         "tag": "Global",
         "first_seen": 1793918726.7424238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNaXktSFVCUzlLdXhmTGdNSnhJdzZfS3BCQ2lST0RmbVRmQVFVT09RUS1pdy1sTFFwWHh4dGZZdk0tcFk1S0xaMFJwM2pESlNfeTN4TDFvcDhpS3VYdVEwSmVsTTFJSlRkMFhIUmF5eUQ4MVZPc1o2elNHdVZqRnpzdXhzbF96Yi1DcEJqZGE5NUVha18yUjlYSnBB?oc=5",
-        "headline": "Precious Metal Selloff: Remember The All-Weather Portfolio (NYSEARCA:GLD)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/06 07:00",
-        "published_ts": 1793916023.0,
-        "tag": "Strategist",
-        "first_seen": 1793916927.944811
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE41ZTk4TExnR2RMZ0RvWVV6UFZwVHlpQWJsTV9ZV0sxX1pGSjFTV2ducHM3QTkwdngtV2k2SWtwVmdYSmRyZG8wQW9mZ1F3bzBLMjdNckJ1MTB2aFJaYUNMaFZwU3lzVFlXRURrWkM4MGdmZWxGOFgw?oc=5",
-        "headline": "Funding the Next Dollar: AI and the Marginal Supply of Capital",
-        "summary": "",
-        "source": "ETF Database",
-        "published": "11/06 06:40",
-        "published_ts": 1793914810.0,
-        "tag": "Global",
-        "first_seen": 1793916927.944811
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 19:15:50",
+  "updated_at": "2026-11-06 19:26:27",
   "yields": [
     {
       "label": "3년",
