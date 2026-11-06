@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YUlncEhldUh0bE9YR25tLUp4cDNvOEFCZGNLTjROaEp6bWtJcGVkU25YUjIwV25uVkQ5ajd6SWpETkVFMDNHYUhLU2M2c1g5V2JZeVpJSnNCODBQZzJMMnNYc0JaVEYwRG80dG8zRENkdw?oc=5",
+        "headline": "NB 뱅코프, 1억 달러 규모 후순위채 사모 발행 완료…초기 5년 7.50% 고정금리",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "11/07 06:21",
+        "published_ts": 1794000110.0,
+        "tag": null,
+        "first_seen": 1794000639.0453625
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VUjNlcXAwbGREa1U2ekhGcjFHMWFiNXAxT2REWUVGQjJ3bkx5WGFuVGtiUEdyREx4MUJrYW5pVHRadzZ1eEZDR3pUdTRJbEhiQ1N2Qm5IOEFmdV9YUHplRVJuYXhSVXY4NF9ISXloV08zLVk?oc=5",
         "headline": "HSBC 홀딩스, 15억 달러 규모 영구 후순위 코코본드 발행…기존 코코본드 최대 10억 달러 공개매수",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793693753.0,
         "tag": null,
         "first_seen": 1793697331.5914106
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9TTWR1ODdiZHVPQ0djU0NqSlBwZTNSaVkzZWl4SExfei14TW8zTU9FLXBhMHpOT2g0QnJOeHpGY1gzY1UyUzRCZGFTODJmdTg5UEHSAVNBVV95cUxNSGFMaFdBcVdHcGFaOW9yREdyVjc3WUotdTZCQVpmcUdPTDVZZVZPZGtYOWdSM2h1U2d6ZWw4Z0ZRVnJ3aEQ4c1JQVmo5Tzd1Sko1aw?oc=5",
-        "headline": "한투 회사채에 1.8조 돈뭉치…한화생명 후순위채도 완판 [시그널]",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/03 16:59",
-        "published_ts": 1793692747.0,
-        "tag": null,
-        "first_seen": 1793694637.1996326
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 06:15:50",
+  "updated_at": "2026-11-07 06:31:11",
   "yields": [
     {
       "label": "3년",
