@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE93V0tqbTNkMGlnazBNMTZ4TE84VHZWRnBhVUg3THdzMlowbENubFFGYkV6MF82WVFsanM3dmpXeFlpWW96bmxpcERNLVlzOE11NlV2cXVFNTB6VDRaZ0huZXVpcm9tZ1BQOTFYc1BBUDBKUQ?oc=5",
+        "headline": "\"KTB 외국인 투자자 잡는다\"…하나證 첫 亞설명회, 인바운드 본격화",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/06 09:44",
+        "published_ts": 1793925858.0,
+        "tag": null,
+        "first_seen": 1793943035.6121285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Pam8zSnRydFlCcG8zXzhxc0NZZmlqdGcyQTJjcUxFcDRvMDZQMTlxUjByQUlvOXBoM3ZMMGFkN28tS2xFMVN4eV9NclJ3bDZXNXZsajNnc1NwWW5yWnpxQXUwY0hKU3dvNXZSSUdjNF9sdw?oc=5",
         "headline": "[블루쓰나미 긴급진단] 채권시장 \"'4천피' 가면 11월 기준금리 인상불가할듯\"",
         "summary": "",
@@ -1192,16 +1202,6 @@
         "source": "한국경제",
         "published": "11/02 17:45",
         "published_ts": 1793609117.0,
-        "tag": null,
-        "first_seen": 1793610039.5244403
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RMmZUVy1TZS1Oek5GakFqd1dsbE5rOUYxdHdEemZfeGN0d2N2OEhCb0Z5bFVqX3hNOU1uenN2TVI4LUp6Wk1wWVBDbV9qSzViZUgzZ3VmYk5seklGb3o5ekNlaHNQSlN5bGhj?oc=5",
-        "headline": "[영상] “국채 왜 발행하나” 연설중 항의",
-        "summary": "",
-        "source": "뉴스피릿",
-        "published": "11/02 16:46",
-        "published_ts": 1793605611.0,
         "tag": null,
         "first_seen": 1793610039.5244403
       }
@@ -1700,6 +1700,16 @@
         "first_seen": 1793936726.7088747
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcTZYNGtkV0pONThjTHhjTkdYS0JYX1YtSlJISko4bVRPZDlUSzZaTmhRU0ZtQmtnZWFRQUkxRDhUWHR2akFsSkhSZmQxdVE4dURkRlJ4ekEtc1lFSTlTT3VaU1VRa0VKRjZFZkdZUWVpR3NNT1hfR1JhLVkxWHlLUDVZT04wMnJYTFMyX0haakxHcWdIdWg2SFVpNGF4eWFwNXV0eGZ3Q2ZDeTYzbGtyZXpGM05XNDVBb0U2dUtScEM?oc=5",
+        "headline": "Dollar lures bids for safety as AI rout grips Asian markets",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/06 10:24",
+        "published_ts": 1793928240.0,
+        "tag": "JGB",
+        "first_seen": 1793943035.6121285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBLX04yZlBfb1NzZ29mWURSY0ptdUVsVlZMZ1YwNGZYdF9VbkU0WmRoLTVhTE9IR0N0RFhfaXNyR1RmejRxYjExSS0tMGpiQ29zN3FDWkVpTGxSZThIMUNicVlIVjJLb3VJMm5ncHdadHNXcXJj?oc=5",
         "headline": "Democrats Secure Congressional Majorities, Reshaping Fed Appointment Dynamics",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793893497.0,
         "tag": "Fed",
         "first_seen": 1793894450.0829146
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMWtwVUlRTV9kWEhscjBBRXpHMEZFdTM2eU16VE1VV0NHQkdBZTNUN3hmdm81UnJYUUFZaFc5Qm4xa1lMTnRMR081U0FPS2g5ajczYVJRVVFkSjdCMzV6RXRmMmlmQ3lybHA1WHhsMDAtMHlDeVNnX2l4UnFsbERhSHRUYWZicFZo?oc=5",
-        "headline": "A Divided Government Bodes Ill for the US Economy",
-        "summary": "",
-        "source": "American Enterprise Institute - AEI",
-        "published": "11/06 00:36",
-        "published_ts": 1793892962.0,
-        "tag": "Fed",
-        "first_seen": 1793893534.4336367
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 14:15:54",
+  "updated_at": "2026-11-06 14:31:08",
   "yields": [
     {
       "label": "3년",
