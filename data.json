@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8xTWJPUXA1YkdGRFZZUnhTV0YwSlp2VDYtNTIwaEFsTDJMM0U1akJINWFKbjJNaURPOWpJWldGU2NOaXYyelV2VHpCa2k3NENVQjJrZUxTRUZKTHRpYzZsMdIBeEFVX3lxTE5QbVp3WUpIc2VKVHZzN2FXQlItVUNNYkwtaW9vUEpRd05xd1VSSDF2dkhrZEU2WUhRNnhqc1BueWJkdUNfU0VlVEhzR0N4SV9QS012Q3BoZXpXNGxsaGNXVXBtNDBDX3hpZUNYSzUxV25xdFpVVlpqSQ?oc=5",
+        "headline": "\"빅테크 신용 꺾이는데\"…네이버, 12조 AI 팩토리 짓고도 'A-' 지켰다",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "11/06 13:40",
+        "published_ts": 1793940004.0,
+        "tag": null,
+        "first_seen": 1793941243.0798888
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9WYXhDWGFWRmlNa3gwbTAwWXhqYkE3YkZDa0h0eTBYZlVhZTNFUTVTWHJhU05UcGVyN3JtM2M5Z3luYlJzNE9ISzdsN0tEOVBqSGxfZTgyQU1TUzM4OFFJblh1VlhDNVpVeTNr?oc=5",
         "headline": "AI 빚더미 피한 애플, 회사채에 42조 원 몰렸다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793838438.0,
         "tag": null,
         "first_seen": 1793839535.3218946
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5oMFRfT3BGeEFHMTlxMEF5OU5jMVVPQkNWNmJDWUtkc2dBMWJFeUxjeFpWVzQzN0lZWWpUR09rVzhBYmJoZTc1WUFSYmRDcVZYM1RCdmlvNWt5Rk0xZ1NBZ0luODJaRVpMUU53eVdIU295QQ?oc=5",
-        "headline": "\"은행채 발행 급증은 선제 조달…수신 이탈 제한되면 되돌림 강세 전망\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/05 08:56",
-        "published_ts": 1793836576.0,
-        "tag": null,
-        "first_seen": 1793842238.0852444
       }
     ],
     "perpetual": [
@@ -2022,6 +2022,16 @@
         "first_seen": 1793938526.998544
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9ha3NrMHFQMmJHMVFNbUpUSGZfTGtpSzltYnZhOVpEaU4xVm94aFBFeDhyTVZ2N3psaldNcjB2RnlCblZkOGFXYU5rdGRHcTJNY2FMU29EVEp1LU9YdFBOZ2R2bHowd9IBZkFVX3lxTE9ha3NrMHFQMmJHMVFNbUpUSGZfTGtpSzltYnZhOVpEaU4xVm94aFBFeDhyTVZ2N3psaldNcjB2RnlCblZkOGFXYU5rdGRHcTJNY2FMU29EVEp1LU9YdFBOZ2R2bHowdw?oc=5",
+        "headline": "비자 “한국인 ‘프리미엄 카드’ 소지자 日여행 결제액, 전년比 75% 증가”",
+        "summary": "",
+        "source": "동아일보",
+        "published": "11/06 12:20",
+        "published_ts": 1793935224.0,
+        "tag": "삼성카드",
+        "first_seen": 1793941243.0798888
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE82cTRJR1R4QW9OUWVBU3BoWGNqOXVGcjVqdk9kZlpNNkVNcWFFd3BpYm5FSFFhMkVZMFY2Sm00RTdhdm1MeXB2SlAtaGlEZzlfVUw5WEkyNjEzbnBCWDJoSHNpSXhBT1ItSmtYNktSMjlKdndndjNCadIBeEFVX3lxTE82cTRJR1R4QW9OUWVBU3BoWGNqOXVGcjVqdk9kZlpNNkVNcWFFd3BpYm5FSFFhMkVZMFY2Sm00RTdhdm1MeXB2SlAtaGlEZzlfVUw5WEkyNjEzbnBCWDJoSHNpSXhBT1ItSmtYNktSMjlKdndndjNCaQ?oc=5",
         "headline": "카드사 순익 10% 늘었지만…대손·조달비용 관리 '고심'",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793652180.0,
         "tag": "한국항공우주",
         "first_seen": 1793668525.080777
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wUXdlQTNCakR6Z1h3ZnlRMEFFR1JXT3dmeGdyUzBKeEZwejc1TjJ3WDlKNVAxS1dtejFqWlY1MXhlb2hHNmZ2MzUyZzNWeGFPUFYwVjlqbWM5NGxLTDl3UzQyRDBvM2VrQkZZ?oc=5",
-        "headline": "한화자산운용, 아부다비 증시에 韓 방산·제조업 ETF 최초 상장",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/03 05:43",
-        "published_ts": 1793652180.0,
-        "tag": "한국항공우주",
-        "first_seen": 1793664042.5310795
       }
     ]
   },
-  "updated_at": "2026-11-06 13:45:52",
+  "updated_at": "2026-11-06 14:01:04",
   "yields": [
     {
       "label": "3년",
