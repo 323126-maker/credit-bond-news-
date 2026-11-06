@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BSlppdWMwWXBRV0pDeE9mSWREWnd4YllwZFFhQUFrUzJKNjBkVW9FSmZPTkE3bjFteHF4Rk5TSEFfWVVibGoxUzNTSi1BcklIUU9N0gFTQVVfeXFMT0FKWml1YzBZcFFXSkN4T2ZJZERad3hiWXBkUWFBQWtTMko2MGRVb0VKZk9OQTduMW14cXhGTlNIQV9ZVWJsajFTM1NKLUFySUhRT00?oc=5",
+        "headline": "금감원, SK이노-SKIET 합병신고서 또 ‘퇴짜’…두번째 정정 요구",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/06 23:49",
+        "published_ts": 1793976572.0,
+        "tag": null,
+        "first_seen": 1793985328.855308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RjRMSU5IM21haTBxN29TcklWbXVsT25LWUhHa0ZFb3FhVEl2S3pwaS1vMUNfR3BDV3p1REg3WVFCc3hMWi1GYWtZd3JsdmIyekFsdUdVTXFkSldKVWxpaUQ1Qm1USHVlUkE?oc=5",
         "headline": "아틀란티쿠스, 관리 채권 71억 달러 도달하며 3분기 매출 60% 급증",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793860520.0,
         "tag": null,
         "first_seen": 1793899838.0601933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSzlWbUhLNmRudlA5Rnl1WEtrenNQYjFaeVhPV1FfVDRiRnlCNV93Q1RuQ3Z5bGwzRjlqd1RKWVFVODBWUVhQS2xLTFpIOGhVWnRFM1NLdlJycE9CdDZnSHpoVVNTVVVCWUVfRFItZ2VJX3pVNV9FT184eE5FLVoydQ?oc=5",
-        "headline": "[마켓인]한기평, HD건설기계 신용등급 ‘A+’로 상향",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/05 14:29",
-        "published_ts": 1793856542.0,
-        "tag": null,
-        "first_seen": 1793857529.139531
       }
     ],
     "perpetual": [
@@ -1820,6 +1820,16 @@
         "first_seen": 1793963727.4151366
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02QVpvTlhnUjlmMkJja3htMDIxOFpOVU9uSWFTeUVWcEpIdWNubVpBQ0U1akRkUkdObV9nVGxZdnV4cGl1SHV3NHVXWDZvbEh2dDBPVFhVc1BPSV9iQVhEQm9UR1dfQ2YzMHc4U2hSVUZ6QQ?oc=5",
+        "headline": "Bitcoin To $2 Million? First, a Reckoning at $30K",
+        "summary": "",
+        "source": "I/O Fund",
+        "published": "11/06 19:40",
+        "published_ts": 1793961601.0,
+        "tag": "Fed",
+        "first_seen": 1793985328.855308
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT1pJNkwzVkN5Y0xOWVJxZ3h5TGh4a1dXZ2xVMUdTeHJHd0otd25LUEYyY2I4Yk1saE4wNGZVZE5PT0Jlbm5naENBOXVKdF84dFVIUTlzbE11WmFvQkZfUnhCNDdaS3RPVlFVM3VtR0JlcFFYeENWV2NSV0RFaTh4V05taEstM1c4anNjSTNxVkE4S0JWQnBKT3cwYkVVaGk4UmxqbHBHbHJYdw?oc=5",
         "headline": "Janus Henderson Mortgage-Backed Securities ETF Q3 2026 Commentary (JMBS)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793948171.0,
         "tag": "Global",
         "first_seen": 1793949327.3252814
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9rXzhFb1JVVmJxUXhldHF1X0xmemRxanhkeDUtMUtLRElWaUhyU3Awd3VSeUFZTXZaaDlKci1sUVJfeDFieDM2S3VCZ2VsUkwzcDhzbGc1YlNUdE9jSGpCM3FjcDNSalAwRVNQZmo4czIxUTF4bGc?oc=5",
-        "headline": "Apple Raises $7.5 Billion in Bond Sale as Orders Hit 4x Offering, Diverging From AI-Burdened Big Tech",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/06 15:56",
-        "published_ts": 1793948160.0,
-        "tag": "Global",
-        "first_seen": 1793955646.0825984
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 02:01:11",
+  "updated_at": "2026-11-07 02:15:51",
   "yields": [
     {
       "label": "3년",
