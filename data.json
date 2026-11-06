@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE04RjRMSU5IM21haTBxN29TcklWbXVsT25LWUhHa0ZFb3FhVEl2S3pwaS1vMUNfR3BDV3p1REg3WVFCc3hMWi1GYWtZd3JsdmIyekFsdUdVTXFkSldKVWxpaUQ1Qm1USHVlUkE?oc=5",
+        "headline": "아틀란티쿠스, 관리 채권 71억 달러 도달하며 3분기 매출 60% 급증",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "11/06 21:03",
+        "published_ts": 1793966619.0,
+        "tag": null,
+        "first_seen": 1793968237.1319995
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBwR3k0aUZ3OGcxQWloeGVITUE2V0hHQ0RqSWtXNDFVczNtdFVxa1VGbTVqRWhWSVMzaGgzVFhiWHY4ZGp5VThaWkJZc19Bcy1Bc0t5NWQ3aDVXZmhjZ3lEVk5FT3FXWDJjclE?oc=5",
         "headline": "고려대 멀티 LLM 크레딧 한도 상향 … 학생 수요 발맞추나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793856542.0,
         "tag": null,
         "first_seen": 1793857529.139531
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNy1pa3hCSXNDQVlpQjBoZWtKQ1RvcjFkcXR1NU9NaXJoRkYtUHJMdzZZbVoxbG4tTHhfUHNhMDNqc2ZQbHAzWWp5S1g5Yk9QMFdIR2FzSFlwYThId1JNVloydkpvTFllQXlzYzNpSkJwRnVmS2hDVkZ5ZWFEOWEtc0Y1bw?oc=5",
-        "headline": "미래대응기금 104조 유입에 채권시장 기대반 우려반",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "11/05 13:44",
-        "published_ts": 1793853840.0,
-        "tag": null,
-        "first_seen": 1793917840.4855974
       }
     ],
     "perpetual": [
@@ -2000,14 +2000,14 @@
         "first_seen": 1793927726.7538254
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmJyTTlSNWdpa2E0WjU1VUdBOG5KNzVFem1CWVgwUHE3dVR4V3VXYjZBaTdZeE9Ndk80MDc4WVlHb0JjcmxEQXBfeEo0ZTRTWUFYWGJuaFBqUEJFX0NjVkxQUGdublYxVGo3UW5YM0hhbnd6a3ZXVnRIU2tBRXREenRUeVpfTW95ZmF0Q1VFM0FfdG41ZnJnUTE1a3N3Nkx2aHlqZ1luQVFoQmdsS24xSXpn?oc=5",
-        "headline": "Japan Bonds Rally as Global Risk-Off Move Boosts Haven Demand",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRGxvY0hWOTJpZG9Lak9kWEJQamVtSEV5d0FsNERCX25UVmNCOUxDMk4tOWtSZjBJZlY4dm9tN0NyWkJGU0RaV1Z5cDl2OFJPb1B4dGdMeENYcjlEdS1OMEh3NWFJellKZ2hURDhrV05VN0FZb3EzeTFpejZmWi1LWGh3T1pZdzRjd19SaHZaaUZvVDZVWUp1MmVVeDJGUThkY1MxVQ?oc=5",
+        "headline": "Investors dive for bonds as tech slump pounds stocks",
         "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/06 09:27",
-        "published_ts": 1793924820.0,
+        "source": "StreetInsider",
+        "published": "11/06 09:30",
+        "published_ts": 1793925054.0,
         "tag": "JGB",
-        "first_seen": 1793929530.1389778
+        "first_seen": 1793968237.1319995
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-06 21:15:51",
+  "updated_at": "2026-11-06 21:31:01",
   "yields": [
     {
       "label": "3년",
