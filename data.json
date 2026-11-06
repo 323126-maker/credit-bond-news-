@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iMG1NaWxWV2o1Sy03WDVpRGNqblZvN1BhcFZYdm9XU3dsVnE4Y0EteUhPR1haVzBZbzVsUnVtVFhtNDJ4Ri1uV3ZYdmUtaGJ0amp4UEY0ejdPX2JtZzJJM3h3UkFseFU?oc=5",
+        "headline": "S&P Global, 안도라 신용등급 ’A/A-1’로 상향 조정",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/07 06:55",
+        "published_ts": 1794002100.0,
+        "tag": null,
+        "first_seen": 1794003326.8622944
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB0VDZHYW42TEVLVS00bVZHU0hNTVNEV092VGNYenlQQWNPckhTMkhUYUZybGtJOHVsWk96Mnd4QzIyS2JqcHZCb1Q0Smw3UnJpamtvZkg5eE16aUJ5NUdJSmNnMElTdjg?oc=5",
         "headline": "S&P Global, 부채 급증과 정치적 교착으로 폴란드 전망 ’부정적’ 하향",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "한국경제",
         "published": "11/05 17:20",
         "published_ts": 1793866803.0,
-        "tag": null,
-        "first_seen": 1793867433.4745355
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBsemZCNWFKM0JiS24wNjVWV2pfOVRfQW1obWVyb2RMdGRtQUZTVzhsZFg1ek1XN0oweFRabXJRaUgwMndiZ2E3WUI4UXJodHdlMVRULS1vbUFDWTZwSjlPWkd0ZGZJaVVP0gFuQVVfeXFMT0FiczNzaThPNDZ1UW9oS2NpRzdtSFVuMnVZSkRMT3JGWlZud1BFamxNSWpRWHo4RndnWFFVQU9uNW91NUdWVnFzeUgxdUF1QnptckpObDAyb2xmdkxmQVQzR0FMcXJrYVA5MlR3R2c?oc=5",
-        "headline": "신용사건마다 '연좌제'…A3급 기업 악순환 끊으려면",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "11/05 17:20",
-        "published_ts": 1793866800.0,
         "tag": null,
         "first_seen": 1793867433.4745355
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 07:01:03",
+  "updated_at": "2026-11-07 07:15:51",
   "yields": [
     {
       "label": "3년",
