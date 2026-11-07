@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1VZUlhSWItWjV4Z0pBNVhTdGJxLXgza0Q5RlB0THBXNWwxeHBVMW9MSWhIQTdZZkhBbTJSSktUU3RncFVqSEdOUEV3YXkyTmxFRWlBRw?oc=5",
+        "headline": "[김남현의 채권썰] 블루웨이브에 내달린 채권, 미 물가도 버틸까",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/07 23:04",
+        "published_ts": 1794060240.0,
+        "tag": null,
+        "first_seen": 1794060928.1488135
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04eVVXd0J2Ty12eThuVWdrUUhmM0JTWHZGZzdIYk5Bb1Zxek9McDBnOGx5ZjgtMEJhb2tkRzM4UDE5QXRuaUZzZnJmWldscjRucWprM2t0bmJ1cm9pMjdOamhyaXR2VFQ4NjZCMnBn?oc=5",
         "headline": "한미 10년물 금리 차 1%포인트로 확대…외국인 채권 자금은 단기물만 이탈",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793669524.0,
         "tag": null,
         "first_seen": 1793670325.2943697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1JU0VTc2QtdVNBZ3RtMlJSSGJ5NmtxTkV2VGl5THFMYnFqRzNkU3VOSVNNQ0cwUVZfZElPSmdNOGJ0SG92S0FlMkVpX3dtYzNOSWlLR1FqMnVnU2vSAWBBVV95cUxQbGp4dDhySlU3T0NXdGR1ZWJLaDhST3ZkTTNfamhFZXJXcURGX0lNNXBqVlhHdmF3VTBsTmd6WVJJWVRqVjZ4S3ZmMlBTN1ZpQ0RpME5HS1lwMDJwUWg4LXU?oc=5",
-        "headline": "국채 금리 내릴 때 CP 금리 상승…연말 단기자금 경색 신호일까",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/03 09:47",
-        "published_ts": 1793666859.0,
-        "tag": null,
-        "first_seen": 1793667642.523071
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 23:01:07",
+  "updated_at": "2026-11-07 23:15:54",
   "yields": [
     {
       "label": "3년",
