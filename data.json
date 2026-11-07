@@ -1650,6 +1650,16 @@
         "first_seen": 1794024040.6578376
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRlN5QlA1SnVRTTg1SVA2Vzl1LTJRWko5Z2xJdmxCaURuYWhDTjhIWm5tU0RQOFdWTzhsTXVCZ3pkYXlCLUdHTTk1YmdCb3BYcUQyNGJvM01IOFhWakl0OVFNczI4UG8wMnNUOWRiNmZUU3NSUXVkRFdjQ2RTVy1scGQ1c0MtRGV2T2M3Ny1tYVNreGdTdGlyTTlZZTE3aG5rMVZzdjFxSWZRUktKQ0hIdzlSaTBFdVBDdjFmR0FTZFhDQVoxd21J?oc=5",
+        "headline": "2-Year Treasury Yield Drops 12 Basis Points to 4.46% After Jobs Data",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/07 12:08",
+        "published_ts": 1794020926.0,
+        "tag": "Fed",
+        "first_seen": 1794033037.3541584
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlIza1AwUWFoLWk4RUN2a3U2NDY5SmJiTlpOSHhXZzhwOFRvSjN6MU5LUHVkVjIwZlptcV82Z0ZZNDBRSHBVWWJFZklVVnlBNkRQLW5maUdQOFhpclE5Z0MxZkhqX0JPdi1EMUZHUlpRQko4dk9mOWFJbEgwekFkM2ViLWtUU25IS0FQUHk0ZHdyYjlKcmZiaGI3U2Nlejh4RFpUZkFrcWk5dHNsMVkyc08zTjJ4QnB1aTY2TW1TVU5Jd0tCTHc?oc=5",
         "headline": "10-Year Treasury Yield Slips to 4.84% Even as Fed Hike Bets Rise",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793971085.0,
         "tag": "Strategist",
         "first_seen": 1794016840.942202
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWUlZMU05bktiRzNTVEN6TTI4Wm5Ua044cGs4LUNldngzUkZpR1BabmVsX01IdnYzUWJ5cFQyMWJLdDBZa1piNE8xYW0tVE1zT1c0WlJ1Z2dBcnN0RU10RXRBS0pGZXlKNVRYallPQU9KNTduaXpDa29sX0tfd0VjQmRxUm5QZEFON0JMYkVZLTM3eTRydXF3cjRtWnVTNUcwaHlXS29WQ1lJN3c?oc=5",
-        "headline": "AI-driven stock sell-off spills into bond market, with SoftBank USD bonds leading the decline",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "11/06 22:07",
-        "published_ts": 1793970473.0,
-        "tag": "Global",
-        "first_seen": 1793973644.4395227
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 15:15:50",
+  "updated_at": "2026-11-07 15:31:01",
   "yields": [
     {
       "label": "3년",
