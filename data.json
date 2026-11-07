@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFBFLVJrQlJqMnNwLXpaUXZaX0RicUk1Z0U1OWZyOS14ZkJ2emRiaExxX0JDRU1lWUZMVk1ERVNocmFoZzBieFB0bU9tTXFJRnEyWnhJQmZJZ1dWUkZLeld2Yk1TU1RESC1DS1ZiMzA1VW5raXhMNkJhRE1wMU54d0pJbVdVT1k2aVJQdEV4R2NhOXZuSTVXUnYyQkI5ZWF6cGdoV0piVXlnX3BSeG1Nd3oyLXk0RS1TLTRncGIxbjNIejNLblc1YnpiMmJmdHM?oc=5",
+        "headline": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/08 00:26",
+        "published_ts": 1794065160.0,
+        "tag": "Fed",
+        "first_seen": 1794065435.083762
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBOQTNyU0tWLUlUbzFmWlhZUXdYWWhpdWFLOUJVX283VUQ0cnRWZ1Z0WTZWVnhWWnBMUDh3RllDQXhfYkZBYWk1cVB4QUlNSUFoUGRwUUtVVGlYWGpFR0cxZ0g2d2M4ZHR0dldn?oc=5",
         "headline": "Historic Blue Tsunami delivers major blow to Trump’s Fed ambitions",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793978316.0,
         "tag": "Fed",
         "first_seen": 1793982638.3726916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQWDFIbk9WbjNxemFsZ09CSDJHRlJPcHBKVlNoYlZYZ3dKb0xxRHNKR0hma0VhNDRtYUVoMlZIaVhQTWxXcVc1TnRxMjZuVmQtRF9QNzdGbzZncFI3NU1oRGlocHIwblk1WHhyUVZwcmphMmlfalI2em1Kd3lNanRROHRVbnYtYU5vb2dXTGRpZEl5aHREVkUxN0cydzJBTGY5?oc=5",
-        "headline": "Yen Carry Trade Unwind: Japan Inflation and US Stocks",
-        "summary": "",
-        "source": "Equiti Global",
-        "published": "11/07 00:09",
-        "published_ts": 1793977788.0,
-        "tag": "JGB",
-        "first_seen": 1794031243.7201061
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 00:27:20",
+  "updated_at": "2026-11-08 00:30:59",
   "yields": [
     {
       "label": "3년",
