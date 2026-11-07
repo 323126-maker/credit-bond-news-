@@ -876,6 +876,16 @@
         "first_seen": 1793867433.4745355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5PUHY0LXltV3NzWGQ1OGtydENvVmRrOVk2S3lab19lLU91WURyTTdHNjZMaHQxNi1JVmFuTE95LTFORktYdWh1OS1OQUo0T0E5VE4xLThlQTJBWFZnQXE2NkdBbWxZRUU?oc=5",
+        "headline": "“선거 끝나도 돈값은 높다”…금리는 어디로 [블루쓰나미 쇼크②]",
+        "summary": "",
+        "source": "한경매거진",
+        "published": "11/05 17:00",
+        "published_ts": 1793865600.0,
+        "tag": null,
+        "first_seen": 1794012328.6215923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BV1ZCWXYtd0JoVVZUQ3EtY2gyUG8xNDBaZ1lKc2cxVE5tLVltSHU3N09ZVW02OUM1VG9KTC1nY1FxUEpxdWRiRmJGNjdJTWtfcU1QTUs4Y3VYMUE?oc=5",
         "headline": "국고채 금리, 美 블루웨이브 파급 효과에 일제히 하락(종합)",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793631602.0,
         "tag": null,
         "first_seen": 1793632528.447311
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA2eWt2Z2hzTnFZTkNZRGJqVk9TWng4eFdRcDlta1NxdFVhSG5pRUw5LTNEZFoyU2J0VDZOQUR2aTJHVG1hMWdPZ0Q1QQ?oc=5",
-        "headline": "국고채 금리 일제히 상승…3년물 연 3.740% : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/02 18:45",
-        "published_ts": 1793612733.0,
-        "tag": null,
-        "first_seen": 1793613665.2450967
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlIza1AwUWFoLWk4RUN2a3U2NDY5SmJiTlpOSHhXZzhwOFRvSjN6MU5LUHVkVjIwZlptcV82Z0ZZNDBRSHBVWWJFZklVVnlBNkRQLW5maUdQOFhpclE5Z0MxZkhqX0JPdi1EMUZHUlpRQko4dk9mOWFJbEgwekFkM2ViLWtUU25IS0FQUHk0ZHdyYjlKcmZiaGI3U2Nlejh4RFpUZkFrcWk5dHNsMVkyc08zTjJ4QnB1aTY2TW1TVU5Jd0tCTHc?oc=5",
+        "headline": "10-Year Treasury Yield Slips to 4.84% Even as Fed Hike Bets Rise",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/07 09:11",
+        "published_ts": 1794010262.0,
+        "tag": "Fed",
+        "first_seen": 1794012328.6215923
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBYMlA3aTJ3ZVVadEVaMnc0bDcweC1fTzJ4YmJpWFV2UEFNa3pqY3k5YmVzVmlmUlBWdF8wdERKS2x6UEdlUnV6NzBOWm15Y05ncTZQby1hRUdDWXRSdUFBRjdRWnE5b011ajlBXzJxZENSWW5f?oc=5",
         "headline": "Increasing signs of a bottom – Market Outlook",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793961923.0,
         "tag": "Global",
         "first_seen": 1793988046.5220416
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQUkF4SjRtSFdwV01IX2VfYmZYcVZWTUlPVnJDWXFiX3hlSzlOcDhnYmgybUFoeXhKSGZPWV80VHNBWGJNT0VzWFR6UGhMbkhKN2dFRHdMdnBmb0s5b1U4YUg0NEo0UFRrWGhselpOZFQyb1hsWGl5dkgwaWFLbWI2T0hrNmdFeTBINy1Nd1lwc0hOU19COFdSandIaHJTSFZGcFR5MFZ0OFZGMnFIZ2RtV21xMkFGWThQemhj?oc=5",
-        "headline": "Average US 30-year mortgage rate falls to 7.18% this week, its third straight decline",
-        "summary": "",
-        "source": "Jamaica Gleaner",
-        "published": "11/06 19:45",
-        "published_ts": 1793961903.0,
-        "tag": "Fed",
-        "first_seen": 1793995243.8653746
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 09:31:00",
+  "updated_at": "2026-11-07 09:45:52",
   "yields": [
     {
       "label": "3년",
