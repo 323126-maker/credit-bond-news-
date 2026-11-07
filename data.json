@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04eVVXd0J2Ty12eThuVWdrUUhmM0JTWHZGZzdIYk5Bb1Zxek9McDBnOGx5ZjgtMEJhb2tkRzM4UDE5QXRuaUZzZnJmWldscjRucWprM2t0bmJ1cm9pMjdOamhyaXR2VFQ4NjZCMnBn?oc=5",
+        "headline": "한미 10년물 금리 차 1%포인트로 확대…외국인 채권 자금은 단기물만 이탈",
+        "summary": "",
+        "source": "이포커스",
+        "published": "11/07 22:33",
+        "published_ts": 1794058426.0,
+        "tag": null,
+        "first_seen": 1794059125.9549825
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b010OW5LWTRGUDNPbXU5RkdaUVhON3Vuc3M3QVdPelJldU9YZ3R5bzl4bkRRQjhyTTJweHctTEduQy1laEI3TzZVUS10akNXSE4xMS1GLVZEMHJGNnRCeG5aMDI3NkVidURj?oc=5",
         "headline": "국고채 하락 틈탄 크레디트 반짝 강세, 단기금리 급등에 발목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793666859.0,
         "tag": null,
         "first_seen": 1793667642.523071
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Vd0tMM3dLVnZZWEpFSFpDSTYxN2FqNlY4MkN3ZHE1SUhtOFZuaVZzaENLUno5YVEwNWtUczktWC03ZWRiN25nalBWNmVIS3hvTGJTYUFmQkQ0UVRYci1fVC02cVQ0TmR5S3RzcXlnQ2NWQQ?oc=5",
-        "headline": "[노현우의 채권분석] 밀물이 들어오면 금리도 뜬다",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/03 07:45",
-        "published_ts": 1793659532.0,
-        "tag": null,
-        "first_seen": 1793674843.6421216
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 22:30:59",
+  "updated_at": "2026-11-07 22:45:49",
   "yields": [
     {
       "label": "3년",
