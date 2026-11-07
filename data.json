@@ -1278,6 +1278,16 @@
         "first_seen": 1793880927.3078423
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54NGJyUkVuTmZ1MmZpbjl2cWVuZWhwRkZIN2hwUDFfWmo2bTJDWTRxU09pSzM1dXA0LXBvbXoxeWU3T3o0YUl1WEhqek85a0V2NlU5ZXcyOVZfdkk?oc=5",
+        "headline": "李대통령 “성장이 일자리로 못 이어져…국민 창업 시대로”",
+        "summary": "",
+        "source": "경기일보",
+        "published": "11/05 15:10",
+        "published_ts": 1793859038.0,
+        "tag": null,
+        "first_seen": 1794019527.7353203
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBpWEhfcTIySlBjX0RwQ1E5YzNnQjdSQmVLME5DR0R2N3U3dmUxOXhfak8tQXdCUzlUamlOdTNoSElWNXRGZjZXcFZwMVhCeVVzbWZyYTkxVjU2Q0p1QXFpYnhPeVY?oc=5",
         "headline": "李대통령 \"성장 방식 대전환必…'국민 창업시대'로 나아가야\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793697660.0,
         "tag": null,
         "first_seen": 1793699128.6939645
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE40ejZJM0JQSTV3LTB3X0JxQjZYTGZSLWtaZ19VdzVnb1gxWW5YTTUtMXRTSzU4N1hDRHBuM0hfelNxM2l2bEVFQU1TN1ROd0R4NDlXOUI5MUJ4SXhtcHpPT1V0UFp6dGxMa3BuV3pFTTZ3dw?oc=5",
-        "headline": "‘내년 국채 순증가분 거의 없다’는 대통령 시정연설…실제로는 96.3조",
-        "summary": "",
-        "source": "한겨레",
-        "published": "11/03 17:50",
-        "published_ts": 1793695800.0,
-        "tag": null,
-        "first_seen": 1793696447.053915
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 11:31:05",
+  "updated_at": "2026-11-07 11:45:51",
   "yields": [
     {
       "label": "3년",
