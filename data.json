@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN0h6NGhPQzBpZTdwV29ra0U5UUhycGhPb3FHT3JvUksyYTZFZjVPbVpBdURxeVMxM2dxS0Z1Y21XbVctWVY5Q3ltR09IOG9tNUdSMXZ5eUFHYUpaaWpaVGZoQzFvVnZOdUhEclJKVENTbVpNeFMwbC1pV1ppa3JhWjZMQzEtWkQ4UGlVWXJENXNWRGNEVEotZjBnMnJ6WFJzQWFTcnI1Wi1WZzAwXzRUdy1YMA?oc=5",
+        "headline": "Meta’s Bond Sale Shows New Reality for Tech Debt",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/08 05:00",
+        "published_ts": 1794081600.0,
+        "tag": "Global",
+        "first_seen": 1794082526.9160542
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObFBFLVJrQlJqMnNwLXpaUXZaX0RicUk1Z0U1OWZyOS14ZkJ2emRiaExxX0JDRU1lWUZMVk1ERVNocmFoZzBieFB0bU9tTXFJRnEyWnhJQmZJZ1dWUkZLeld2Yk1TU1RESC1DS1ZiMzA1VW5raXhMNkJhRE1wMU54d0pJbVdVT1k2aVJQdEV4R2NhOXZuSTVXUnYyQkI5ZWF6cGdoV0piVXlnX3BSeG1Nd3oyLXk0RS1TLTRncGIxbjNIejNLblc1YnpiMmJmdHM?oc=5",
         "headline": "Fed Chair Kevin Warsh Just Issued a 6-Word Warning That Could Spell Disaster for AI Stocks",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793981949.0,
         "tag": "Fed",
         "first_seen": 1793982638.3726916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0ZOTWluUmVyU1h5ajQ4c2RNYUt2LUttVmstaTRrT1lCRm9DNzZvVC0waW1ySEgtdTlkcXp4SEJaY00zOUpaVWItUi10eXRhci1VV0VpVjBXTzhrcmh5bjZ1bTZqS1ZudFV1V21IWTY2eGtkNS1Cb1gxdElkSXNURnln?oc=5",
-        "headline": "Polish Bond Yields Fall After US Midterms as 10-Year Hits 6.09%",
-        "summary": "",
-        "source": "CEO Magazyn",
-        "published": "11/07 00:59",
-        "published_ts": 1793980795.0,
-        "tag": "Global",
-        "first_seen": 1793995243.8653746
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 05:01:04",
+  "updated_at": "2026-11-08 05:15:50",
   "yields": [
     {
       "label": "3년",
