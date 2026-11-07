@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2l1NGpIajBzeDdqSkViR3dhWnpGblh1UDh2c2M4MWtjVTVreVJOb0k1b2Q5RkZhSlgzOExldVF0MkF5QW8zNHV3WGZ0V2F3WTlaeXBpYzlrREJJVkxkRHcxaUEwcmhJTFN0MWJkbDY4VWpMX0FzZ05MOUJ3V0xVclB1UDRRQl9zTWNQbHlDM2VUY3k0Ymd5cHRHSEh0MGt5akxLZkJQQ01qaDdaSG1ydGd2cFJOcHc?oc=5",
+        "headline": "CoreWeave's 2032 bond yields more than 16% as the cost of AI debt climbs from neoclouds to Nvidia",
+        "summary": "",
+        "source": "MLQ.ai",
+        "published": "11/07 18:49",
+        "published_ts": 1794044988.0,
+        "tag": "Global",
+        "first_seen": 1794046528.86005
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbG9MbHBnd3pBTGN5N25Pb3QwY3BnemYzUnJvdTJXUlVLLWlQQUJaenJTbnNybUFVVnpQVFB6cmpVNUh4MDJWOEpnQndZODZhWkVXMHlURUpkdWM3cHZ5RUhLZEw4d2lveEJCa2FDYVk5RzlTQXRWMGlmcXhodEs2Y1VfY2F6S3pxbXg5Sl9ZeUJGMTZvcHo5eF9kOUhsTFNXUzFwN0duQk9YUQ?oc=5",
         "headline": "US Treasury yields rose after the October jobs report exceeded expectations.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793973630.0,
         "tag": "Fed",
         "first_seen": 1793982638.3726916
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd09McDlIT0tVS3BYNEpfM3dVVGczUFlrRWZfMkJCQ21PSUwydXVLcjRVXzYzb0ZIUktIQzdSdFMtNzdaeklkVFVZTmo3aXF2eXhHQkk1WjdxWld6YkVKX3dYUDJ1bjZKQmVRY0NEbHR4cjdNYk81d1hKanY2alh1aGpxS0xld0NYLTdZa2dwcVN3a1lQTFBKbE5YU2Y2Z0c4VkxjVlNsX0ZnM2VGV1BLYUxNZEl2OWJIdzRvTHUtLWVkc0U3RGc2U2d0NmhGU1lxNGRvYTBpenJRU0JkVWpwdGkyV0ZtLWRBWGd3eXFLVEw?oc=5",
-        "headline": "One Oak Capital Management Examines Potential Bond Market Opportunities Ahead of 2026 Midterm Elections",
-        "summary": "",
-        "source": "PR Newswire",
-        "published": "11/06 22:36",
-        "published_ts": 1793972160.0,
-        "tag": "Fed",
-        "first_seen": 1793972726.8493774
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 19:01:06",
+  "updated_at": "2026-11-07 19:15:52",
   "yields": [
     {
       "label": "3년",
