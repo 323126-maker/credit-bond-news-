@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNU01PT1ZHR0IzZDRKNm8wdXBzcVFmUnp0aWEwZ2phM3ZocWtQR2o5ZktORHN3ZUVGNlZoYlhTNG11anhHMUNEWm8zYjBiYTNGelRrQ1JoZzFWNU9jdU5pZWtYaWMwWVk1RHdiVnRfMDhGZFJ4Z1VPbVhfZ3VyLUp4c0NmNGs5VDRBRGJ3dVlmMVo2Yk5tSHRQb2I2LU5lMW96b1pyeU80eTlhdFk?oc=5",
+        "headline": "베트남의 현지 통화 채권 시장은 2030년까지 아세안 지역에서 상위 3위 안에 들 수 있을 것으로 전망된다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/07 23:43",
+        "published_ts": 1794062597.0,
+        "tag": null,
+        "first_seen": 1794068125.7506227
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1oa1JGWFJMYlBPWnRrckhwb3VwcmNSbFhDdnNfZUE1T2YxM1B3R25XUDA4d0l1YnVYVURLdEI1STU2bEJ3M0M2czE1ZHV2RFZRMXo2Y1YtY0FMdk05YURMRFJSMHlVclJ2MjBqQTFheENNS1pKbFE?oc=5",
         "headline": "월가 거물의 경고와 거품 붕괴 신호탄 터진 글로벌 금융 시장 - 막대한 차입과 사모 부채가 얽힌 위험천만한 레버리지 폭탄 > 단기 콜옵션과 제로데이 투기판으로 변질된 뉴욕 증시의 민낯 |",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793912520.0,
         "tag": null,
         "first_seen": 1793913328.2013505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9jSThYa2R5QTZYZGF3Uk5CSk9PaU1HZlV0dkFFc0Z3dVFIWVdjWFJyTTl1cmZuWk9WUFpRZmkzNFc1VTRWNUpoQU54UDAzOXBNUGhTaVdQbDU5VlhsMklnd1ljcFptR0phblhPUG1fMmh5Zw?oc=5",
-        "headline": "[뉴욕채권] 단기물 급등 속 불 스팁…기술주 투매에 '12월 동결' 베팅↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/06 06:01",
-        "published_ts": 1793912480.0,
-        "tag": null,
-        "first_seen": 1793915128.5970047
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 01:01:07",
+  "updated_at": "2026-11-08 01:15:49",
   "yields": [
     {
       "label": "3년",
