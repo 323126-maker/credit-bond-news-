@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTDhSMWlrYXVuOHd1LWFpS2NtNlNfSXliVkg5NktCYTFKZ0xYNGpWVWFVQ3dSSTh6S0lrWUE1Z3NhbUlQdS1rM3ppWkJQNEJ3THFrbDg1UF9rZGFEd1FLS280eFA0MVZiSm84SEk0ajFOS1E?oc=5",
+        "headline": "AI 신용카드 이자 오른다...민주당 압승에 AI 채권 시장 긴장",
+        "summary": "",
+        "source": "디지털투데이",
+        "published": "11/08 08:30",
+        "published_ts": 1794094213.0,
+        "tag": null,
+        "first_seen": 1794095128.0829864
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGdlVJYkpGYU44blFQd0F4dkhuMlFfV1ZzVFV3emQ1UGVUVmtIMnNCbEVxZnRscVllbjBkWEw1V01Kc1hBaURDT3d1UHB6ZHZhSDM1bnctR2k?oc=5",
         "headline": "[두산에너빌리티의 2막①] 위기의 중공업은 왜 에너지로 돌아섰나",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793927640.0,
         "tag": null,
         "first_seen": 1793928638.0365286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5FbEtRSXFHXzdDQXlHdHgza0htQWNiM0ZMOC0ySEVhcVg1RTIzaWdFNm51YVFSZzNzSzJ6RjhzLUVNOGtGY0F6bl92UlhEWEpPYmxkZDBWSEJEZw?oc=5",
-        "headline": "애플, 75억달러 규모 회사채 발행…'AI 투자 열풍' 합류",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "11/06 10:07",
-        "published_ts": 1793927224.0,
-        "tag": null,
-        "first_seen": 1793927726.7538254
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 08:31:01",
+  "updated_at": "2026-11-08 08:45:52",
   "yields": [
     {
       "label": "3년",
