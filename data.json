@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncnlhSFM1VERlX0NVY1hFRm9wUVN2cDRFbU56SUc3bGkwcy1fdjF0TGk5TFBfTVM0bzgtaFJoWGRGZzFzaTNDRjYzLVBwZnp0UEQxN0FhakNOY05udHB5UXN6QjlPdzBFUXc?oc=5",
+        "headline": "S&P, 폴란드 신용등급 전망 ’부정적’ 하향…도만스키 장관, 대통령 거부권 탓",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/07 22:08",
+        "published_ts": 1794056880.0,
+        "tag": null,
+        "first_seen": 1794057325.5514755
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50b010OW5LWTRGUDNPbXU5RkdaUVhON3Vuc3M3QVdPelJldU9YZ3R5bzl4bkRRQjhyTTJweHctTEduQy1laEI3TzZVUS10akNXSE4xMS1GLVZEMHJGNnRCeG5aMDI3NkVidURj?oc=5",
         "headline": "국고채 하락 틈탄 크레디트 반짝 강세, 단기금리 급등에 발목",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793896800.0,
         "tag": null,
         "first_seen": 1794015928.1606848
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSjBiTFBuTnlCRmw1aXpwVUxDWm9JN0RrWFliNmJXLVQzdlF1dmd3UFpPNklTdEQxYm44WjV6YWVBa3ZLU2lVWEpobEY3TTlocE1RWkctamJERF9PSndjMDUyZi1SOVI0cTVSaldCUVJvSFlZdnNWMXhHNnkyMUxueUVGUG9Gb0ZmUk04aEg1RFRvWVdWYjcybWF3?oc=5",
-        "headline": "투명하고 지속 가능한 채권 시장을 발전시키기 위한 6가지 해결책.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/05 20:05",
-        "published_ts": 1793876735.0,
-        "tag": null,
-        "first_seen": 1793877327.7245493
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 22:01:11",
+  "updated_at": "2026-11-07 22:15:49",
   "yields": [
     {
       "label": "3년",
