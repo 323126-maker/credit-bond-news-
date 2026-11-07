@@ -494,6 +494,16 @@
         "first_seen": 1793934045.9809935
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9nUEgxN0JLcWVMNDA2VUkyQlVzX0Z6ZXV6NjFJdEtnV3RON2cyQkJEaDllaU5rZEFCcXp3Mml0c0VULXB1VzhUVFdhNjhmQ0dTLVdxVGwzcUR2eTR4dmgxRm5ud1BweFBrVnc?oc=5",
+        "headline": "폭스바겐, 고금리 하이브리드 채권 발행",
+        "summary": "",
+        "source": "시드원",
+        "published": "11/06 00:00",
+        "published_ts": 1793890800.0,
+        "tag": null,
+        "first_seen": 1794056445.1784928
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85U3paMkxqUGxvdkhuYmJSVm1HUDVLN0JFRmpqN0Z2bEJnS3hsZnFDdXRSOEdqTDFEekdySGlOWUMzWVV1RVIxV2JHbVhmamNSblNj0gFTQVVfeXFMTzlTeloyTGpQbG92SG5iYlJWbUdQNUs3QkVGamo3RnZsQmdLeGxmcUN1dFI4R2pMMUR6R3JIaU5ZQzNZVXVFUjFXYkdtWGZqY1JuU2M?oc=5",
         "headline": "롯데손보 해외부실 최대 2000억…“관리 가능한 수준”",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793695207.0,
         "tag": null,
         "first_seen": 1793696447.053915
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE42MkoyRUs5Ty1EcFpTVUoxVmUzZzJxZ29zaHFZVS1CZENQS25NaTViS0dubGVKaFVDV0VwS3JNUTlJMVJtSzFaS1YtdHpKOFNpbXdwS1d5cDVBUnM2TF91a3VTTmJxNmdwOGlhejQxSDE?oc=5",
-        "headline": "한화생명, 후순위채 수요예측서 모집액의 1.25배…금리는 희망밴드 상단",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/03 17:15",
-        "published_ts": 1793693753.0,
-        "tag": null,
-        "first_seen": 1793697331.5914106
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 21:45:51",
+  "updated_at": "2026-11-07 22:01:11",
   "yields": [
     {
       "label": "3년",
