@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5kYzJ3ZC1VSWVqby1jNVNvblBOZTNfWk5XNG1TZXVVTFB4TkVON3kzS3NaTnVYVFExX1U1LUJtT05KWmxPQ1dsSk9kX0pfY0ZMaFBtc25VODZ0bFNhanV1SEpEelRmMzJzTHpwUXJRNVllRk0?oc=5",
+        "headline": "Opinion | Trump just lost his ability to take control of this part of the U.S. economy",
+        "summary": "",
+        "source": "MS NOW",
+        "published": "11/07 20:00",
+        "published_ts": 1794049228.0,
+        "tag": "Fed",
+        "first_seen": 1794051036.7591193
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNb2l1NGpIajBzeDdqSkViR3dhWnpGblh1UDh2c2M4MWtjVTVreVJOb0k1b2Q5RkZhSlgzOExldVF0MkF5QW8zNHV3WGZ0V2F3WTlaeXBpYzlrREJJVkxkRHcxaUEwcmhJTFN0MWJkbDY4VWpMX0FzZ05MOUJ3V0xVclB1UDRRQl9zTWNQbHlDM2VUY3k0Ymd5cHRHSEh0MGt5akxLZkJQQ01qaDdaSG1ydGd2cFJOcHc?oc=5",
         "headline": "CoreWeave's 2032 bond yields more than 16% as the cost of AI debt climbs from neoclouds to Nvidia",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793973686.0,
         "tag": "Global",
         "first_seen": 1793983530.8833864
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYjZ1ZkZYWkRNaTlLOFFyWWNUNEUwbEVXOXZpajBEcmhpeG85WjVCLWZ6QnJHTDhGRUVnaG1jMDFmMnhnd2ppc1dhT01IN3IwWldNS1BRUXNMT2N5SFYzMnQ4R0VfekhhNk9vam9GVGVOajVTeGw0djJOWjFXTEVQZ2hsejQ2WXFwaEIwRFhROHZhckJZYnFtMk5wcEFOVXBsRk5B?oc=5",
-        "headline": "Fed rate decision October 2026: Is a December hike next?",
-        "summary": "",
-        "source": "Equiti Global",
-        "published": "11/06 23:00",
-        "published_ts": 1793973630.0,
-        "tag": "Fed",
-        "first_seen": 1793982638.3726916
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-07 20:15:50",
+  "updated_at": "2026-11-07 20:30:56",
   "yields": [
     {
       "label": "3년",
