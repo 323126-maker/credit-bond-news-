@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBGdlVJYkpGYU44blFQd0F4dkhuMlFfV1ZzVFV3emQ1UGVUVmtIMnNCbEVxZnRscVllbjBkWEw1V01Kc1hBaURDT3d1UHB6ZHZhSDM1bnctR2k?oc=5",
+        "headline": "[두산에너빌리티의 2막①] 위기의 중공업은 왜 에너지로 돌아섰나",
+        "summary": "",
+        "source": "뷰어스",
+        "published": "11/08 08:00",
+        "published_ts": 1794092437.0,
+        "tag": null,
+        "first_seen": 1794093327.462685
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaERpRjRHVlFuVDFmYkM3SURCLWdTM3F3aDZMZmpDQmZKNWo0TGFCbFRiM0ZVd2ZTWDFQUG9ObTBXX25WaDR5T2E2akp3UUFMeTBPN1UzU2o0dzVuMVlNeVlfeElDelV4Vm9ZYlpyYVdlaEHSAXdBVV95cUxOQUF2bkdhTFR2REI3TGg3X0pteGQxTTNrTFkyWHdQd1RqTGFqLThlanpiYmswc1VUa1RxVTJpaVhvdThDVzFpdDhmTklCZjk2UUlyOUJHcC1YSm04VEtvMWREVktCRHhRQlhIRWlhUDNGakl5a3pkdw?oc=5",
         "headline": "국고채 금리 급락에도 웃지 못하는 기관들… “지금 사자니 늦었다”",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793921323.0,
         "tag": null,
         "first_seen": 1793924130.1499636
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBPODVieFotY3hfTTFBYUo1M1dUZnRQS243VUNDeEphV2oxdWhpbVNzb25rMjB2OFRpMXl0RlhCWGtfdmNPak0tb1lCbFd5Y0tIT1kySlF6SkZoNGdYek1hZTgxMkNrV08xM1p4VFQyRndNNUXSAXdBVV95cUxOYnNEdW1xYlJUMzQ2UC1WYlpNd0N4QVVwUEMzejE4blFpYzY0eVdjLXJGV2NmTlpCdldGdFJHX193VHdLemc2STZiX0lKWDFxRnhscVhZNld4bjZNN3loWmtaSTdUWFZ4azAzT0g3eGk4bXBhelhCWQ?oc=5",
-        "headline": "애플, 회사채 75억달러 발행 흥행…주문 310억달러 몰렸다",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "11/06 08:08",
-        "published_ts": 1793920115.0,
-        "tag": null,
-        "first_seen": 1793921438.905739
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 08:01:05",
+  "updated_at": "2026-11-08 08:15:53",
   "yields": [
     {
       "label": "3년",
