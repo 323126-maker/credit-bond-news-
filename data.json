@@ -342,6 +342,16 @@
         "first_seen": 1793966445.2500384
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kZEdxdm9nekZiQ3BaVlBZR1NVLUkzd2FKd0lQSTR4V0Fxa09YU2FHQ2l0VE9maWlPQUNsOWZHSDRXc2FxaGhqVDBtQ0VRdGQ3M2FJdDI2QmlJanNROG1rLXJoZnc5bHJWcWF4enMwclI?oc=5",
+        "headline": "[채권-마감] 강세 스티프닝…반도체 주가 조정 지속",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/06 18:59",
+        "published_ts": 1793959170.0,
+        "tag": null,
+        "first_seen": 1794179728.1391225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRVnhDQkExNENtOEFxU0QwMllWUjRmRW1IZ1NPN1RRZ1ZlZnBYNmJMRVdKMnhpbkpIc3Q3dVlCZTRWOFpQelhXMFFiS3lMX2ExLUJRdS1GMUlESjhIc0M3MGM5UTZEcm5aQkNka0R4ZGg?oc=5",
         "headline": "[외환-마감] 한 달 만의 최고치에 '네고 와르르'…1,350원대서 숨돌리기",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793953800.0,
         "tag": null,
         "first_seen": 1794079837.3215785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRblNjTkhBT3JrTFhoUnUxRlEzR0ZzX2tNcFBVNWwzckhXbVpTZWwxaXdpQ3N1b2t3ZWlRbFJIUE1XSWVuejBTMnNWd2tCdFhsbW1yUA?oc=5",
-        "headline": "[채권마감] 3년금리 6개월만 최저 ‘주식 패닉에 안전선호’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/06 17:26",
-        "published_ts": 1793953560.0,
-        "tag": null,
-        "first_seen": 1793956529.351922
       }
     ],
     "perpetual": [
@@ -906,6 +906,16 @@
         "first_seen": 1794036634.214512
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41b3dKZ1FNOE5xLWNSQUJNTk1Ma3BNQTl4MXdqRlVLV1cwUmNUSkpzQmRVZ1lHQ18tc2JsYlk3SEFpaElqT1pDOTk1VjlBQXJpLThrelVEYktmZHfSAWBBVV95cUxQY2dZLWpBekhSTlRhWTZzZkp1dHVxeXdodnZmU2RKMVlBcV9uOUltQ3Ywdk1PMlNZYVd4anVLSG9VSktEb0dqRmUtTWVyQ1MwUzVDOUJ4VHV6RGJCYlhnSk0?oc=5",
+        "headline": "[인터뷰] 이윤희 삼성운용 채권본부장 \"빨라진 금리 하락…전략 재점검\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/07 10:34",
+        "published_ts": 1794015240.0,
+        "tag": null,
+        "first_seen": 1794179728.1391225
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA5ZWhreklQa0U0aUNUYzlWblJKdmJIQmd1dFFYRUhUM3pTeGpLQm9ZdTVwSjFDb05oWkFtcE42MHhTXzBSSmRBVEplN21VenZ5czRqMEZURFpmR2ZqWEZ0MkxUb3EyUVRMbmFKbnBLNA?oc=5",
         "headline": "호황 뒤에 올 청구서, 다음 세대에게 무엇을 남길 것인가 [미래논단]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793749666.0,
         "tag": null,
         "first_seen": 1793757642.0942533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQdENSaGFiTGNyODgtZHQxUTJkWU9VeUpfLW1KY2tvdElYU1FseE8tU0ZLM2ZXNnVlTE9NbV9kRDFfSkE3ZnFCcEtLN3cwTnh1cW0yVDZlc2t0YlRQSk9BTVU0WjE3dS1VY0pxV0szWGxUdw?oc=5",
-        "headline": "국고채만 달리던 채권시장…크레디트도 뒤늦게 따라간다",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/04 08:43",
-        "published_ts": 1793749425.0,
-        "tag": null,
-        "first_seen": 1793751331.5012074
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 08:01:10",
+  "updated_at": "2026-11-09 08:15:50",
   "yields": [
     {
       "label": "3년",
