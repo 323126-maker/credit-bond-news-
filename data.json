@@ -474,6 +474,16 @@
         "first_seen": 1793930443.7294583
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JWThPZWx1NmM4QmV1T012N1didE9BQ3pDZjVvcldCcXo5Z2VKQkk5ckpOTXlaczZCOFZ3N0ZSUnBGTHFFemRjeExOR213NXhRbUHSAVNBVV95cUxOYzVOYV9QLTVlOXNLZlAwOEZfRy1ZQjlZM2M0bmprWk4yZ3E2dXZmbmxXcVNMclk5V1dsY2lmWFYzclZSczJrN084cGs4dVdRYlFuMA?oc=5",
+        "headline": "도요타, 엔저·하이브리드 판매 호조에 연간 영업익 전망 33조로↑",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/06 10:00",
+        "published_ts": 1793926806.0,
+        "tag": null,
+        "first_seen": 1794096930.0127904
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52MDFzRjVDYUF5YVU0eE9uQV9nSGdVUl81NVd0eXhaMWp0QkJTZ0d4RWVXUXZMMHhjUkhva2ZEVXU2NjVzTjNzVG4tZU54QlhzeTJJ0gFTQVVfeXFMTnYwMXNGNUNhQXlhVTR4T25BX2dIZ1VSXzU1V3R5eFoxanRCQlNnR3hFZVdRdkwweGNSSG9rZkRVdTY2NXNOM3NUbi1lTnhCWHN5Mkk?oc=5",
         "headline": "신한, 롯데손보 정상화 자신...“해외부실 최대 2000억”",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1793696693.0,
         "tag": null,
         "first_seen": 1793953836.6617858
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBYNGcxazFIOWJndkgtWDdwOXlsQS10WktPNDF1ZmpvaF9vM1pHaFh0WHpHdmhDODVSNy1TWHNlZ2t6VHdMaUpGNFhZMVFsYm5WTGpnaGNBWjV3UXY3WjJPWVdzRnREV01EUFE?oc=5",
-        "headline": "한국투자증권, 회사채 수요예측 1.8조 확보…한화생명 후순위채 5천억원",
-        "summary": "",
-        "source": "청년일보",
-        "published": "11/03 17:46",
-        "published_ts": 1793695610.0,
-        "tag": null,
-        "first_seen": 1793696447.053915
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9UNFZsNUVjZFpyQUJ0RV9fbG1nM2VhTmRKaG1BUGxpVmtFa05VUy1XN0FDcUZGQ1QyRmNCTThkcjNVbkIzWFQ1LVZ2MG1EZElnOC1Oc042X0dMUkpLaXFNTjYtWEtZTHc?oc=5",
+        "headline": "[이호연의 D톡스] 美 ‘블루쓰나미’에 금리·유가 하락…한은 긴축 셈법 복잡",
+        "summary": "",
+        "source": "디지털데일리",
+        "published": "11/08 09:00",
+        "published_ts": 1794096000.0,
+        "tag": null,
+        "first_seen": 1794096930.0127904
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaERpRjRHVlFuVDFmYkM3SURCLWdTM3F3aDZMZmpDQmZKNWo0TGFCbFRiM0ZVd2ZTWDFQUG9ObTBXX25WaDR5T2E2akp3UUFMeTBPN1UzU2o0dzVuMVlNeVlfeElDelV4Vm9ZYlpyYVdlaEHSAXdBVV95cUxOQUF2bkdhTFR2REI3TGg3X0pteGQxTTNrTFkyWHdQd1RqTGFqLThlanpiYmswc1VUa1RxVTJpaVhvdThDVzFpdDhmTklCZjk2UUlyOUJHcC1YSm04VEtvMWREVktCRHhRQlhIRWlhUDNGakl5a3pkdw?oc=5",
         "headline": "국고채 금리 급락에도 웃지 못하는 기관들… “지금 사자니 늦었다”",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793694538.0,
         "tag": null,
         "first_seen": 1793699128.6939645
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1XVS1SWDRrTllpVnNNWEctMUFlbGEyUmZ0V29xOGRxRk1kbjY2SVdsVE51SWZsTFA1TnIwWDloYU10dmZ6ejg5TGlTVy14R0RIVGhBQQ?oc=5",
-        "headline": "[채권마감] 10년~30년물 금리 6개월만 최저, 안전선호+입찰호조+외인 10선 매수",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/03 17:17",
-        "published_ts": 1793693820.0,
-        "tag": null,
-        "first_seen": 1793694637.1996326
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 09:01:07",
+  "updated_at": "2026-11-08 09:16:02",
   "yields": [
     {
       "label": "3년",
