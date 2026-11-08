@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNHVtTGJ1b2l5SEQ0TjdUUDZZMGlOOHRGTGdQNDRkQXZtcUlsWXBIemcxU19CZldEcEVMSE9vdUFXVURBYk4wb2Nnd280bGMtUmdWV2lXWDlkeklSSlgxQjNnUmRMRnVaMjhKbnpfYTFlWXppUkNlTkZXeURXb2wyek5HLW1RMTdyM0FuX0ZOdVgya0JtTHJHU3hJdUt2ZEhiY2lwNW9RTUVmSVJieWpiYUhyNVpnUk5WdWJuYnN3?oc=5",
+        "headline": "Rates of bills, bonds may rise as market weighs economic risks",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "11/08 20:05",
+        "published_ts": 1794135917.0,
+        "tag": "Strategist",
+        "first_seen": 1794136526.8217103
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjNXMGFlX3pGcF9oVFRmZ2RWRmxVWEtRWXJ1ZXppaERKd2lyOWdsSnBlYTNSbFRWZmY1dmtVRElWYXRFVGpYTzRtcHVhdnZidTctajVPaXQ4YlM5TFBka3Q2eVppVFpieGZMMzFnMl9udFB6YTA5bUdPT3dQaFZHelgwRTUxQjA4RVpnbE9TX1M2WGpENTJPR2Y4YktTQ1U?oc=5",
         "headline": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794022680.0,
         "tag": "Global",
         "first_seen": 1794030326.8621912
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MR2lxVzYwN3JRV0NPYTlmRHU2bE5yUW9QVlBDcjh6cTlRQzJpYTB4aE5SamxYX2pjSXZ3Nml2MFNLS1dsdHNXT1cyY1gwRXJUSFo2d2lVNkFzXzNsMTJVRnlQRHFnWnNieV9rUjhwLVBRaThCSkE?oc=5",
-        "headline": "Japan's Retail Government Bonds on Record Pace as 1.25% Policy Rate Shifts Money Out of Deposits",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/07 12:35",
-        "published_ts": 1794022500.0,
-        "tag": "JGB",
-        "first_seen": 1794024040.6578376
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 20:01:04",
+  "updated_at": "2026-11-08 20:15:49",
   "yields": [
     {
       "label": "3년",
