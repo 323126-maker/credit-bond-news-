@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50T29NdzljWEZVT2toTlZmeUkwLXdBUkxVYnVxcGNTRFlrTVVWX1NybzhVLUdhdGNLSlhhR1dsb3cwSGhMYTVhNk5Od0RiWE5yZFRCTEZ5eXUyREF1U2d0UXl1MHFFMm5iWVhj?oc=5",
+        "headline": "2027년 회사채 72조 만기 폭탄, 비우량 기업 차환 뇌관",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/08 10:15",
+        "published_ts": 1794100500.0,
+        "tag": null,
+        "first_seen": 1794101434.7375765
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTDhSMWlrYXVuOHd1LWFpS2NtNlNfSXliVkg5NktCYTFKZ0xYNGpWVWFVQ3dSSTh6S0lrWUE1Z3NhbUlQdS1rM3ppWkJQNEJ3THFrbDg1UF9rZGFEd1FLS280eFA0MVZiSm84SEk0ajFOS1E?oc=5",
         "headline": "AI 신용카드 이자 오른다...민주당 압승에 AI 채권 시장 긴장",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793928540.0,
         "tag": null,
         "first_seen": 1793933125.492655
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5iamhjcV83MGtEa2hld0hEY1YxQlRGNlJrMlRwWWZUemF1RF9FLXdhQlU3MTFDbDRxVzJsVzlaUmk0TmNQZER6SVlrMkNXcnpwWUMwSjNNa3I5b1Zf?oc=5",
-        "headline": "크레딧시장 내 머스크 '주의보'...스페이스X CDS 프리미엄 사상최고",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "11/06 10:24",
-        "published_ts": 1793928240.0,
-        "tag": null,
-        "first_seen": 1793928638.0365286
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 10:15:49",
+  "updated_at": "2026-11-08 10:30:58",
   "yields": [
     {
       "label": "3년",
