@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbG9kZlo4VzNzM2ZiX1BHci1HV0RKWS1wc3ZfdFh6WUtYUlUzZHEwZ1Y2d3dyZlk1cUY1ZGFiUXBueWdhUFhrMDBhUzFqS1phb3RYdHpTR3dXVjBUOHpJSEpCUkFMZXdKRFozaUF1SDZDVWVIVUlrTUIwRXZmR2ZzUVNQMnNfdFByMWRmLTV5eXhXUEhxNHJDVWZPeXc5R1BnUE0wdlR3Z3c3NG1ZZU96VWk0cFA4bUhhM2FWMDNDSQ?oc=5",
+        "headline": "Anthropic’s $895 Billion AI Gamble Could Become Wall Street’s Next Debt Nightmare",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/09 01:20",
+        "published_ts": 1794154800.0,
+        "tag": "Strategist",
+        "first_seen": 1794155437.6002188
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXROWGJDQmFoMlFFVkZqUVZOZEtnZmtDcDAtZXZVZDZCamhEZmpRZ0lXbENmNlV6NDVtS19sWmxhMklBc2p6QXFLN2Z5YWlMRHhQWVdyMlpudVBJV3pfZ2M1d2F6Sk9mcnVxb3BTUng3NDhPbFlJMGx3Q2NKZzVrQ3N2TDJYaDBCbXJpbEtUbw?oc=5",
         "headline": "CoreWeave CDS Is 8x Nvidia’s 139bp as Credit Prices AI Risk",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794058194.0,
         "tag": "Strategist",
         "first_seen": 1794114042.6344588
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxON0o4TjhoWDFPVmxITDhzalVrTXdnWDRUcFd6SlQwdWdZWGtYb2l3dXBCdWlfRmxRY0JmMW9LX0stbWJFVGJfREt2c2ZQU0VjZF9vVEVwcjNPenE5emt3RjM2c0NWdGNpSzd6WU5qVFpmUW5HdFVubHFNQVY2MEw0RjRJWXNlVUxuMVRNQmZIRFktVGNwNDZOOVZZRFU5bTBhU3ZacDZadW9HVWc3OGdhTnQxWmtib2FkMjZhdXJaOVJnOG1nLVlERmV3NWNMZw?oc=5",
-        "headline": "Kevin Warsh Faces Fed Inflation Divide At Jackson Hole: Stephen Miran Says A Rate Hike Now Would Be ‘Really Strange'",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/07 22:16",
-        "published_ts": 1794057397.0,
-        "tag": "Fed",
-        "first_seen": 1794135642.0392742
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 01:15:54",
+  "updated_at": "2026-11-09 01:31:00",
   "yields": [
     {
       "label": "3년",
