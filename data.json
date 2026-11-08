@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE56cTlhR0EzX2VVcEp1elpBQk93cVBkN3hHeGN6a1lxUzliY0VFUVZyMWtIRHZFa3c5dTQ4OWpObktsNGhRSUFiNXdWWVZfcG93U3A5RHhUX09qQXk3S1dTTzg2dHhYMURIT0JReWRDeUFKU1FnaFE?oc=5",
+        "headline": "소방 등 2조 예산 투입...국힘 \"증시 폭락 책임져야\"",
+        "summary": "",
+        "source": "YTN",
+        "published": "11/08 22:52",
+        "published_ts": 1794145920.0,
+        "tag": null,
+        "first_seen": 1794151838.1925676
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNTVFYOUVZZVFpdld6Rm1PWWxCakM5YWxlempiSk11ZWczQ0RRSWp1SG9SdWxNVENmQ05jZkk0TzVibzFBSjR1Vjk5Nzh4T3lRNmdTbXRqQW16TWlWUHpaU9IBeEFVX3lxTE5oc0tYaVpCQTZUWG5XNVBORzJ1MmozNkpWRENUUkxfY0Vza2xhTDlxSlFFa2M4WEVrYzhLdzVfOENua24xMEJONE4tX3ZzVW5pd0NPUGlkZ2FFWVZQLVBqcEdhX0ZnWkdlamtrREgyNHNENzdFdmlHUw?oc=5",
         "headline": "국힘 \"미래대응기금, 李정부 쌈짓돈\"…소방지원엔 \"秋 망언 물타기\"(종합)",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793776264.0,
         "tag": null,
         "first_seen": 1793777434.8895798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXbzlTYzdGdWx1VjV2UVBxUzRSOXpfZkpRRjlNOEdIRV9scUhNSHRjXzFwaGk2Z2dCTnAzaVM0R01ZUm9HRW02dkJtek0wc3JCYmfSAVNBVV95cUxNZE1nZDc0RktEUDMyZnJmZkUxM05hU19LbjQ5elFfSGNUakt5RVdrR1NQQVVrOEZ4bFBxbjRxRGJYdkFJbko1bUFncVZMWDFRNDBJQQ?oc=5",
-        "headline": "추미애-국힘 대표의원, 도정질문서 재정위기 책임 공방",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/04 15:59",
-        "published_ts": 1793775588.0,
-        "tag": null,
-        "first_seen": 1793797242.7709446
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 00:15:51",
+  "updated_at": "2026-11-09 00:31:03",
   "yields": [
     {
       "label": "3년",
