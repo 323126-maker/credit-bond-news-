@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMjNXMGFlX3pGcF9oVFRmZ2RWRmxVWEtRWXJ1ZXppaERKd2lyOWdsSnBlYTNSbFRWZmY1dmtVRElWYXRFVGpYTzRtcHVhdnZidTctajVPaXQ4YlM5TFBka3Q2eVppVFpieGZMMzFnMl9udFB6YTA5bUdPT3dQaFZHelgwRTUxQjA4RVpnbE9TX1M2WGpENTJPR2Y4YktTQ1U?oc=5",
+        "headline": "Japan bond yields rise as oil gains stoke fresh inflation concerns",
+        "summary": "",
+        "source": "investingLive",
+        "published": "11/08 14:52",
+        "published_ts": 1794117142.0,
+        "tag": "JGB",
+        "first_seen": 1794129332.3064618
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl91MDloVUVTaUpaaTNhbnpXM3FRQjY4ZWV3c0tnMlBLVjRWX3J2djkzTldRd0J4UFI2ckhZaEttMmRaY0dLdnNtRkJYRDdTUzlHZ0NRTkJVU1Y4YllJampkX2hJRzg1dzUtUmFtRVhtdGpiN3ZfaVVDbURRNE5Yb3FyVGF6SEpTQVRvQzF3?oc=5",
         "headline": "Fed Holds Rates Steady in Warsh’s First Meeting as Chair",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794010262.0,
         "tag": "Fed",
         "first_seen": 1794012328.6215923
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNT3BIVjVaSjlJUG9ma2lQVkZDRjNmRlZLWU80MGhlUzB1YVFtRkxzY2FDcHQ4NlNIclliamVKQkM4RVVGRlkwZ2RkdGxUNWJTT0NaSEVMN2h0T1I4SVRydkpEM0xQZHpLS2lVRXVHSFA1dG45bGE0ajNsdVAzS0FDRzlxOTJGQmRWbHZjMjBzQmVScUFqejliaW1ESUU2alk4WkE?oc=5",
-        "headline": "National Opinion: Fed needs a better way to talk about interest rates",
-        "summary": "",
-        "source": "Chattanooga Times Free Press",
-        "published": "11/07 09:01",
-        "published_ts": 1794009660.0,
-        "tag": "Fed",
-        "first_seen": 1794028525.6913564
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 18:09:34",
+  "updated_at": "2026-11-08 18:15:56",
   "yields": [
     {
       "label": "3년",
