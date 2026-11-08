@@ -42,6 +42,16 @@
         "first_seen": 1794101434.7375765
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fNk55QjRxZ19STVQ2OG1DNFFMbHA2Smt2aVhpT3FIVjlwTmNRTFROX0NCSVJ2bVlaU0tCRmxUd0F1dXJuckNzbGpoUQ?oc=5",
+        "headline": "채권시장 반등에도 기관들 ‘추격 매수’ 놓고 고심 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/08 09:57",
+        "published_ts": 1794099420.0,
+        "tag": null,
+        "first_seen": 1794121243.3050199
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTDhSMWlrYXVuOHd1LWFpS2NtNlNfSXliVkg5NktCYTFKZ0xYNGpWVWFVQ3dSSTh6S0lrWUE1Z3NhbUlQdS1rM3ppWkJQNEJ3THFrbDg1UF9rZGFEd1FLS280eFA0MVZiSm84SEk0ajFOS1E?oc=5",
         "headline": "AI 신용카드 이자 오른다...민주당 압승에 AI 채권 시장 긴장",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "한국신용신문",
         "published": "11/06 13:15",
         "published_ts": 1793938500.0,
-        "tag": null,
-        "first_seen": 1793940331.32729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5fOUdMUk9UNTl5ck1Nam5iQnl3UGd4T0ZuLTFCUXl3T2t5N0t2RHRqcXdMdHprQXRLN3Z1cGFBNzlZekozeC1NREpPZTJXRzdDeHEyV3h6YmpPTzZLUy1uWml0QzlHcVlXU0tpMUhiQ1I?oc=5",
-        "headline": "주가 하락 엎친데 유가 하락 덮치나…채권시장 영향은",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/06 12:37",
-        "published_ts": 1793936237.0,
         "tag": null,
         "first_seen": 1793940331.32729
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 15:45:51",
+  "updated_at": "2026-11-08 16:01:04",
   "yields": [
     {
       "label": "3년",
