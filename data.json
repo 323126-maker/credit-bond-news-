@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQd09kX0Y1UTB4aVE5VGh3MkpUUzJCd0czRWtmTEJyZUN1UnVfM29QN1ItZWlLd3hhU3N2QlpJR0plZjRXV3NhRGI3UDNjcFpabHlka3F1ZXE0VkxWcGhpTVVkLTZRTHhNb3ViY0pyc3Q3TW1UUmc2X1c4cEFxUVhSMWRId3hzNUU?oc=5",
+        "headline": "메타, 美 중간선거 당일 150억달러 회사채 발행 승부수",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/09 03:00",
+        "published_ts": 1794160800.0,
+        "tag": null,
+        "first_seen": 1794161730.0681844
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB4UUNsNllHajNtTEwxZkFuYmVWVkIxeHhrbWFYUTZoNlROYzVTbWY1NHNFemEyM3RITnZ5c2d1VnozMGRYVzRvTlE5OTB2Z1lsbm9HU3htWHotWXVD?oc=5",
         "headline": "[미국 특징주] 메타, 선거일 '역발상' 회사채 발행… 빅테크 자금조달 새 국면",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793945027.0,
         "tag": null,
         "first_seen": 1793946636.3211691
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1Pbkh6ZmdTT2tYbEVSWXZEZFJ6dFNFeFBpVWVNX3JlYWhlRTJvRWh3RFBURTRTdVh3QVZyMUxKUVgxQjFqSE1CSTU2OW1hY0pBdkhjajBxV3RWS3RON2IxMEMyT0lITnQwV0FJ?oc=5",
-        "headline": "부채 12조 원 안고도 신용등급 ‘A-’ 지킨 네이버 방어막",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/06 14:45",
-        "published_ts": 1793943900.0,
-        "tag": null,
-        "first_seen": 1793944844.6380978
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 03:01:07",
+  "updated_at": "2026-11-09 03:15:51",
   "yields": [
     {
       "label": "3년",
