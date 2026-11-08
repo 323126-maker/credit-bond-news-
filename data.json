@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWl9ORXNDdEYzeVNsX240eGt0MHFPR2ZLeEgyeE5XNGdvdlNYNnd5WXBhTTJTM0hhSHlxdTJacnlWTjhPU0g1a1oyMWlUb0pZWXhuQzNUdUVnem5zc2NfdzNPSmFKSEl2Q0hoUFZfcVkyQTFLTmFvRXczN0hIYVpyLWpZTGlqeEZfbllWNHJxYw?oc=5",
+        "headline": "[오스템임플란트 M&A 그후] 미주법인에 1200억 수혈…기업가치 제고 포석 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "11/08 16:00",
+        "published_ts": 1794121211.0,
+        "tag": null,
+        "first_seen": 1794122128.4141214
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE56YUlncEhldUh0bE9YR25tLUp4cDNvOEFCZGNLTjROaEp6bWtJcGVkU25YUjIwV25uVkQ5ajd6SWpETkVFMDNHYUhLU2M2c1g5V2JZeVpJSnNCODBQZzJMMnNYc0JaVEYwRG80dG8zRENkdw?oc=5",
         "headline": "NB 뱅코프, 1억 달러 규모 후순위채 사모 발행 완료…초기 5년 7.50% 고정금리",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793746800.0,
         "tag": null,
         "first_seen": 1793747733.095559
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GUUFwbG93c2h3UmtjYlVYcThob3kwandyVnRfT3ZZVm1UNC0tcE5UOV9wNVJUT1lUczhIb0lLZVJFdEp6UlVRRlRuVnpWdXQyT0pyRUpUdFpicG9YN2IwTktZSVVlbE9JdGMzT2x5aw?oc=5",
-        "headline": "CMS Energy, 2057년 만기 후순위채 10억 달러 발행",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/04 02:43",
-        "published_ts": 1793727780.0,
-        "tag": null,
-        "first_seen": 1793744134.8761375
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 16:01:04",
+  "updated_at": "2026-11-08 16:15:48",
   "yields": [
     {
       "label": "3년",
