@@ -1860,6 +1860,16 @@
         "first_seen": 1794033037.3541584
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+        "headline": "Federal Reserve raises interest rates for the 1st time since 2023",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "11/07 11:06",
+        "published_ts": 1794017194.0,
+        "tag": "Fed",
+        "first_seen": 1794113127.5725007
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSlIza1AwUWFoLWk4RUN2a3U2NDY5SmJiTlpOSHhXZzhwOFRvSjN6MU5LUHVkVjIwZlptcV82Z0ZZNDBRSHBVWWJFZklVVnlBNkRQLW5maUdQOFhpclE5Z0MxZkhqX0JPdi1EMUZHUlpRQko4dk9mOWFJbEgwekFkM2ViLWtUU25IS0FQUHk0ZHdyYjlKcmZiaGI3U2Nlejh4RFpUZkFrcWk5dHNsMVkyc08zTjJ4QnB1aTY2TW1TVU5Jd0tCTHc?oc=5",
         "headline": "10-Year Treasury Yield Slips to 4.84% Even as Fed Hike Bets Rise",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793992533.0,
         "tag": "JGB",
         "first_seen": 1794036634.214512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB1bVpxZ0lhOGlsSFRmRUVwQ3M4NUR4dDZndDJpLVZBa2hxZHVpc0pSdmpYQlBWQ0sweHh5T19yeDhWamhZVEljckxDbVdBSWc3a1hDeG96b3VOYUlrUnhXNU94NlJRZ2d5c0hCZm90R1VmZkwxOXJKbFJ3?oc=5",
-        "headline": "Big Tech Bond Sales Drive US Issuance to Record | CEO Magazine Poland",
-        "summary": "",
-        "source": "CEO Magazyn",
-        "published": "11/07 04:09",
-        "published_ts": 1793992156.0,
-        "tag": "Global",
-        "first_seen": 1794013241.544774
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 13:31:10",
+  "updated_at": "2026-11-08 13:45:49",
   "yields": [
     {
       "label": "3년",
