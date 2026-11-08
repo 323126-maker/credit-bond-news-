@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zaHFlQ29nMmhNT2Q4VzE1VE1mU3BKcmJDblg3VEhwYi1Fd2lpam5KU0hKVEpSTEkwbWNnVnBxSF8xaWpDTUxsRU12TjFqajJXcmNEalZn?oc=5",
+        "headline": "주간 금시세(금값) 전망... 월가 분석가들이 진단한 이번 주 금가격 예측",
+        "summary": "",
+        "source": "위키트리",
+        "published": "11/08 09:25",
+        "published_ts": 1794097500.0,
+        "tag": "JGB",
+        "first_seen": 1794104127.2997725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0FIV3dQcjhTcmZ0cHh5THFGSVFGRjV3WFQtdnYxczNFamdMV3dyRHRXM0w1c2RoMmtvSl92Uk5CdmZ6dV8wSjczNG9qYkwwMlNkcmg5aFRBZXE5aFZYaktkTC0tQjRkNUg3M0N1RWstdjVZWk4wdWM1WWxBUktGbk1OWlVzNHVvUnpaVEhWNzcwclh3TzlLZXBn?oc=5",
         "headline": "Kevin Warsh changed something the Fed has not touched in decades",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1793988360.0,
         "tag": "Fed",
         "first_seen": 1794013241.544774
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ3Y0Vkk0TEoxQmJXc1NHbS1LcDJFS29qVVhoeTVPUDRIRWNpYmZ5Tzg0b1Ayb04xMGwxWGM3d3VIc2VGTVJLMF9MRTA5M3p3R1Z3ZEdTck5QU0p5c005S2RrcnpGR2ZTLVVUZUFuUkN3b1J5SjA2aTR3dUN4dHFfUEdUTFJaN3RfQ0gwbWZCOG95NVVyRHZnMDFR?oc=5",
-        "headline": "St. Louis Fed president says lowering inflation to 2% is a 'necessary condition'",
-        "summary": "",
-        "source": "STLtoday.com",
-        "published": "11/07 03:01",
-        "published_ts": 1793988060.0,
-        "tag": "Fed",
-        "first_seen": 1793991647.1875963
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-08 11:01:08",
+  "updated_at": "2026-11-08 11:15:54",
   "yields": [
     {
       "label": "3년",
