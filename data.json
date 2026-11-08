@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpOWlNajFZaGVlN2VRdW1sdVlxQTRBcUpKZGx5V0NXRERoc0U4RXA3RU8yUnVYUEs0dm5zOGZmU0EwMzlURDBPLVZJdmtwZFo1SDJtQkFVajRZYWpneHFXdFRMVmRzRE1BMDBZb2xya25QOUdYSU9QdmxyQnc?oc=5",
+        "headline": "[DQN] 국민 ‘고정채ʼ·하나 ‘변동채ʼ…4銀4色 채권 전략 [시중은행 채권전략]",
+        "summary": "",
+        "source": "금융신문",
+        "published": "11/09 00:00",
+        "published_ts": 1794150000.0,
+        "tag": null,
+        "first_seen": 1794150928.0698066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDbDBlR2lXOTFKWDJhdklSNzNITm85YlI3X2NWLXhaTFFHRzUydXpRaDhQOTJ6bDVoNkFwbjJHdllCdW1IZWo1WWtKTjVKRDZ5UlY5ZHFfNWp3clhxOFUtUS1ac19OUnBJNW9nU3NZNDJTdw?oc=5",
         "headline": "[채권-주간] AI 우려 어디까지…금통위 의사록도 강세 재료일까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793749425.0,
         "tag": null,
         "first_seen": 1793751331.5012074
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE16Q3RnN3VwYWp4UXNWRFdXNmlHYW5BcFM4SzF6OVI3dGdKUWNnRlpjWUxqUEhQN2g1N1ZkM09ETklkcEk2bjZVaHBhaHViWExHMjFjRHdHbnBkOFdyVVhEcmxFUVJtaTIzUVE?oc=5",
-        "headline": "\"물가 잡혀도 금리 인상 압박\"...국고채 금리 고점론 '솔솔'",
-        "summary": "",
-        "source": "청년일보",
-        "published": "11/04 08:00",
-        "published_ts": 1793746802.0,
-        "tag": null,
-        "first_seen": 1793747733.095559
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXROWGJDQmFoMlFFVkZqUVZOZEtnZmtDcDAtZXZVZDZCamhEZmpRZ0lXbENmNlV6NDVtS19sWmxhMklBc2p6QXFLN2Z5YWlMRHhQWVdyMlpudVBJV3pfZ2M1d2F6Sk9mcnVxb3BTUng3NDhPbFlJMGx3Q2NKZzVrQ3N2TDJYaDBCbXJpbEtUbw?oc=5",
+        "headline": "CoreWeave CDS Is 8x Nvidia’s 139bp as Credit Prices AI Risk",
+        "summary": "",
+        "source": "FourWeekMBA",
+        "published": "11/09 00:00",
+        "published_ts": 1794150000.0,
+        "tag": "Global",
+        "first_seen": 1794150928.0698066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcUw2SUwzSnluRG44dlExUlpaY0czc3hJa0VvT0NJTWhILWJ3R0gwX01tanZraWFOai1tclFDcmp5WEh6NDhKakhHN181bW5oYUJkTXlhZFVtWXUybXhjd29JNnBuVTZVd0JCYXExeEU3TjVaYlBYTlFlUWh3NjVDa19nbmd4Wkxnb0h4QTE1SXp5cnF3Q2x1QnRqR0dnSFNiUmpsSkozaktlZw?oc=5",
         "headline": "OCBC Sees US Treasury Yields At Lower Levels After Bond Rally",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794037200.0,
         "tag": "Fed",
         "first_seen": 1794126636.1176033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFR1QwSFgzR3B2TlVBbTVnWnJkUDlpTEsyNG94TFFkQkxxRXNyRl9FcVlndlVBX3RuTFpTTlhsc08tOWQwMTFJQzIyal9IZWN1RVBfSGl2bEllZmtpSEVaazlzeVhOLWdvMFJvcS1jOTF6MXVfa2Rxag?oc=5",
-        "headline": "Mega-Cap Default Risk Update",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/07 13:45",
-        "published_ts": 1794026700.0,
-        "tag": "Global",
-        "first_seen": 1794100529.55587
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 00:01:04",
+  "updated_at": "2026-11-09 00:15:51",
   "yields": [
     {
       "label": "3년",
