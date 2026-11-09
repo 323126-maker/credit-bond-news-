@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9XenhabTVhRVpWbDQ4eUFPY2pTMWFPRnVCU3dkY19ZV0FDUlpJSTJtRXhNeFNQa1ZtQWNyYjFHa3Y5ZElpVDN6Rk9QdjhWcjZvM24xc2VhRXBULTZORkNMR0ZkRVJiWWIyYjFmWjdyLTZ4NTk4Ml85X3JJYm0?oc=5",
+        "headline": "[DQN] 양종희號 KB금융, 신종자본증권으로 선순위채 상환···자본 체력 '강화' [Capital Quality Review]",
+        "summary": "",
+        "source": "금융신문",
+        "published": "11/09 11:10",
+        "published_ts": 1794190200.0,
+        "tag": null,
+        "first_seen": 1794190526.913744
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBzdlhERnJTdU10a2VBOTN2dnhaQ0ZNZFpPVGtqZTc5d0VfU3JvTmZnZmNqMHlsOTZGMmc5ZHRWNkhZNUtxQzhlZWkxaU1Ec0NrWEM3Ql9xR1R1SjJNRzVUNGZlcjRUTjFpV185eEFZTUfSAXBBVV95cUxQc3ZYREZyU3VNdGtlQTkzdnZ4WkNGTWRaT1RramU3OXdFX1Nyb05mZ2ZjajB5bDk2RjJnOWR0VjZIWTVLcUM4ZWVpMWlNRHNDa1hDN0JfcUdUdUoyTUc1VDRmZXI0VE4xaVdfOXhBWU1H?oc=5",
         "headline": "DB손보도 ‘반토막’…1.3조 신종 이자도 걸렸다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793778945.0,
         "tag": null,
         "first_seen": 1793780126.320024
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB3aFFnbHZXb0VBQXFESndwdmNzeTNlQS1iQl9CcHVWX2JiNUZvSUFtOURvb3JmM1ZST3FJdVVKQ3pBVHZwX3JjOTVuUVhwTmpKb292b2ljWUNmTzdVY0lmLdIBYEFVX3lxTFB3aFFnbHZXb0VBQXFESndwdmNzeTNlQS1iQl9CcHVWX2JiNUZvSUFtOURvb3JmM1ZST3FJdVVKQ3pBVHZwX3JjOTVuUVhwTmpKb292b2ljWUNmTzdVY0lmLQ?oc=5",
-        "headline": "KB금융 수요예측에 모집액 1.7배 몰려…포스코퓨처엠 4.5배(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/04 16:29",
-        "published_ts": 1793777376.0,
-        "tag": null,
-        "first_seen": 1793781925.446776
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 11:01:05",
+  "updated_at": "2026-11-09 11:15:49",
   "yields": [
     {
       "label": "3년",
