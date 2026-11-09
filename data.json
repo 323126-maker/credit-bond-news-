@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ0ZnZGR1ZG5BS0NZS1ZCMEdkTEJSZGs0WWVPMG1sbjJ3QjZUdlhNQzFVRU5BMkU1Q29FMnhaMnM4WTBsMGt1UWhFWWh4UW5KZWZwYVZVSE5ZOFlaMU0taGNrMGtmRTBPVTFMTTMxMTlCQ0lVTl9ZaExfTEFsLUFHVzJyQ25Rdk96c1pHVDBIdkg0N3dfUlE5bVV0OUNSVWRZRlFpVzFDdmN6cmw3bjVOdlgyb1pGNURUYUtrektfTkZGa1Z5Vmc?oc=5",
+        "headline": "Treasury yields rise as CPI data tests mortgage rate outlook",
+        "summary": "",
+        "source": "www.mpamag.com",
+        "published": "11/10 02:59",
+        "published_ts": 1794247142.0,
+        "tag": "Fed",
+        "first_seen": 1794247247.2915602
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR3JPVUxxa2IxRFp0ZVRHWDl3dEdPOERjV1E5TkNfMTZ4MXpGUUgyQVc4X19oRlRmN3RJWUtwVHFUeUh6dFE2Q0hYM2F3ZVR0R0l1TGRyZkpFY3IxdEFQNUJITTBuOHZQRms5Q0pWTC01dGFxc3pkTzUyN2dMNGctVFZsVVFnTk1hWVU4RXRyd3VDZWpmbUs4?oc=5",
+        "headline": "El-Erian: AI-Powered Economy Can’t Afford a Sudden Stop",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/10 02:34",
+        "published_ts": 1794245685.0,
+        "tag": "Strategist",
+        "first_seen": 1794247247.2915602
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRnZtWjdfb09JSzBrWW9iOFYxUUlTdzViYkVVaHFIaUpGN2RUWGNyaG9QYmJhS3RpdGkyakZBUDJ4SmpBbXdqLWctbDQ2R1Ixak54NWdBOVNKX2U5WUVLVFRSNlV0RWN3WTdLSmphMXVvQVd6ejN1S1BVZDk3QTZDbmdWYlFsYXM?oc=5",
         "headline": "Net Asset Value(s)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794211900.0,
         "tag": "JGB",
         "first_seen": 1794215743.547201
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBTZE9nV21aZm1pbjBySzJGbGlKdkE2dXBBbk5xWUhVVGlCV2pfTzVVd3lmSG5oTE4zN1p0bDlOb0djUE1XLWFVLUFQek5qRVg2Q3RHNkNUTVhkbllXd3pNZVliOGc1WUlNZDF3ZDVTamHSAXRBVV95cUxONGxZTmFSUF8zWUZGTmUyTC15Z0NuSTd6VGVodEdZR2FZa3E2dk9fYzE3Qi1INlRIQ3JPb2dwZ2pLQjZsbUNucFM5UDM0QU9QamQ3YkNLbURhVEo5UTBMR3E0M3JJeDhsSGhoUmZ1S1N4Y1BOaw?oc=5",
-        "headline": "구글 알파벳, 홍콩·싱가포르서 첫 채권 4조원 규모 발행 검토",
-        "summary": "",
-        "source": "IT조선",
-        "published": "11/09 17:03",
-        "published_ts": 1794211385.0,
-        "tag": "JGB",
-        "first_seen": 1794214846.937013
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdXZyU0ZocG1FMElKUWp2cFRfajB5ZmtsTkZOM0djRzRzaXU2UmV3MEZqV2xleU5wUTRERHVRb3AzZ1JXb0NlWDZQQUdadUg2d1lrSnRPRzRkWEEyOERoaXFpS2NFZVJNWGNXRkJrQV9XVlN4WkN2RUlEczdGUWkwemJDSlc?oc=5",
-        "headline": "FX Daily: Dollar rally needs more risk-off fuel",
-        "summary": "",
-        "source": "ing think",
-        "published": "11/09 16:58",
-        "published_ts": 1794211126.0,
-        "tag": "Global",
-        "first_seen": 1794213927.612455
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 02:45:52",
+  "updated_at": "2026-11-10 03:01:11",
   "yields": [
     {
       "label": "3년",
