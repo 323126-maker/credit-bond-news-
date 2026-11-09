@@ -192,6 +192,16 @@
         "first_seen": 1794212129.8411121
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZDZFallrM3JGWlNLUVBZNGpRcjZJelNxNGxfOXhmRFpKQ2MzRFhlOXlNXzJHMmVZclpTZTl6QmJ6OFRvSEZIZHUzblV2WkhfT0w5Ym8wZEN5VmNpU0JSa1kxcFVfUFZMSU1HMnI2UjBIa1c5NjBzZXZLNG1tR2hxTVZPcWFhN21xMjFxTWJiaw?oc=5",
+        "headline": "Meta Platforms Inc (META) 주식 움직였습니다 상승 4.93%에 11월9일: 변동 원인",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "11/09 15:17",
+        "published_ts": 1794205020.0,
+        "tag": null,
+        "first_seen": 1794238250.2287133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtV1pleV8xZFdsOUJqRmltelRTMlV5VFljSGRtMEVhMUdJa250NXQyY1pXUGJqTDJBT1ZzX1NMTXNOWWNDNEdPTkdWa3JzcHZTTUFwNFY5MFFlM3ZRaUZUYlVKSjVuZjl4dWZ3N0VWaEg?oc=5",
         "headline": "日 정부, 7월 30일 하루 8조엔 가까이 엔화 매수 개입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794118083.0,
         "tag": null,
         "first_seen": 1794189642.974716
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9vZlNpd19sRDUwME8tQjBwSjVTcEd3TXlLei1ycXpzeEp4YUZ1X1JPZXVPdGE1MUVCb1ZNbmtKSVZ3V3dOdlYxYlhnQkNwVFZUdjYyOXotSm1LczNhWHVETkM5aVI4Z1c5dTRIU2RSVU0?oc=5",
-        "headline": "\"월급도 밀리고 매대는 텅텅\"… 홈플러스, 자금난 악순환에 회생 '빨간불'",
-        "summary": "",
-        "source": "비즈중앙",
-        "published": "11/08 13:02",
-        "published_ts": 1794110527.0,
-        "tag": null,
-        "first_seen": 1794111326.8858345
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE05M0hCZjRZNm5lR00tNUtPMERjVjZHeTFvdEJqWnZnNnFmMlJfaU9xR3h0djl1bDI3MGNmT3RQX1ZJbm1LUGNpTlczdWZlTndPNnpLRUtVU0hHdjQtSXJsT0NCTVZmM09xUFZQWGI0RnBmOW1MRGc?oc=5",
+        "headline": "Goldman Sachs Sees U.S. Treasury Yields Settling Into 4.75%-5% Range as Global Bond Markets Stabilize",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/09 23:55",
+        "published_ts": 1794236100.0,
+        "tag": "Fed",
+        "first_seen": 1794238250.2287133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNYW8yOS1vRERaRThvT1lSYW5rdmF0WFJmN3FrTmlmNjZ5MG5rbzhKTThRd1Y4czRfWWo1Qi13cnRDdmpLZEZINll0eklaNDFxMlRtQTBUdTNhcjdubTJ3dXktaGhETlJfdHdvN2JRbWZKQWlkSkRGekFzZmRFaXBzMFNLSjRiTndOajJR?oc=5",
         "headline": "JAAA: Upgrading To A Hold Amidst Lower Risk",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794206449.0,
         "tag": "Fed",
         "first_seen": 1794206727.6784105
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTTFQT2NfY0FmSjNOVlFvdlJCV2NOdEc5Smk2cS1ITDQzclpDeFUtMTJxZ0dZRm84TTI1S0p5NkxLSmtZbzBSc3RFbEtLZFVKeEtHMG9ON1VDb3NRUElXTHpJWFFlWkVEMmoyNWFDUm9oS3U0V2YwNDRlUGdZZ21pZkZISjFBc0pkRTlqNWg3bXdQNTFTNnpGZG02d3V6QlhfSWU1TzFJY2RBbFgxYXNlcWt5bzFyQQ?oc=5",
-        "headline": "Alphabet Mulls Asia Bond Sale as AI Fears Fuel Global Volatility",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/09 15:37",
-        "published_ts": 1794206220.0,
-        "tag": "Global",
-        "first_seen": 1794208532.045158
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 00:15:55",
+  "updated_at": "2026-11-10 00:31:12",
   "yields": [
     {
       "label": "3년",
