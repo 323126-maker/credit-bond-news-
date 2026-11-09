@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzNCSWpqa2J6YkdObXVoSmhNeXBWZ01Rd3l5aWV0RHNSd2N6blN5NlByODVaSVRJSmdkWGc2RUtiNnYzTU5sS2htTnF2TkhYOTMyZDVOTWowZE15UHl4MkR3VkhZQWdWMnhFRzJRT2hON191bXBTQ2xLZjlTT3JzbUdCcHlFdGVzNkxLanRzUW5GY3ZuUEhSQjBrREp4d1FPT0NaUVpoSXI2OG1PMTlwSGthbl9SbG5ndkI5WV9PcVNPenRoLUJlNmpBdDZWaEZRZGVjU2xYNy04dkViM2hZ?oc=5",
+        "headline": "일본 엔화 강세… 매파적 일본은행 의사록, 12월 금리 인상 가능성 시사",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/09 20:59",
+        "published_ts": 1794225551.0,
+        "tag": "JGB",
+        "first_seen": 1794226530.236635
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOd2hNMXFEQlJDMkZBTUxlc1hNVk1rTERRNjN3Qmpxc0laZ0FidktTR1V6SV96RVdXNC1YVjhsZUFNb1VrQ3BFMkgtczBBT0R4eVNUM2hBTndGeVJubFY0Ml9GWC1jajBRQXJMekZQRkczVUF4ZVJ2RXJ6U3hDNHpMbmpzdnE2aEZqRzByLVZB?oc=5",
         "headline": "Tradeweb Government Bond Update - October 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794187560.0,
         "tag": "Global",
         "first_seen": 1794199528.780842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVjJ2dHJfT21WNzUyQWYtc3JQWDZzNWVGYjNGT1JmaGtDODR6dExfZEVQS2pHVjh6aHBJYjQ3WjNoQlVHd3dGQmpLS01HVXVS?oc=5",
-        "headline": "日, 사흘간 15조4000억엔 투입해 엔화 방어…美 공동 개입에 엔화 강세",
-        "summary": "",
-        "source": "블루밍비트",
-        "published": "11/09 10:07",
-        "published_ts": 1794186433.0,
-        "tag": "JGB",
-        "first_seen": 1794186932.2807271
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 21:01:07",
+  "updated_at": "2026-11-09 21:15:52",
   "yields": [
     {
       "label": "3년",
