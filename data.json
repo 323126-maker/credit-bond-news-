@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHFTQzFXMFlIUW9vUGZ3bGU2MEduUllLMURQWVNxVm13Sl84WTBYby1yb25qNUdFN29pWWFIWXYwdjEtMUZTeF9yQU1xdTRmVDhNNVlXbUJKYjB4cFBnU0YxLVFxZnNXdUtabGR6X0w5UkEyY3FUeXBvcmlCTkVieldrWEYzWEFITkRtMlVHSzdaRUx2bkxhanZPaGdvOHc2Um8yY3plMVktWDJuQ1Q0NElSTDFDZDNBTDhnUWln?oc=5",
+        "headline": "CoreWeave Borrowed at 9% Earlier This Year. Its Debt Now Yields 15% Going Into Tuesday’s Report",
+        "summary": "",
+        "source": "TIKR.com",
+        "published": "11/09 21:18",
+        "published_ts": 1794226681.0,
+        "tag": null,
+        "first_seen": 1794227438.353179
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1FZmR4S1Nncm5pMGxQREdDSDBxZUR1Y2JheXlSOHJxemc0VTd5MkxXVFpfeTQxZU1sampsYk1nZVpNZXR3NUIwRkxCVmtEZUl1ZXlFMnhtME9rbm9RZ19MQVFYVy0?oc=5",
         "headline": "예상 웃돈 美 고용에 채권시장 출렁…국고채 2년물 3.629%로 상승",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794096000.0,
         "tag": null,
         "first_seen": 1794183334.1082406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zTDhSMWlrYXVuOHd1LWFpS2NtNlNfSXliVkg5NktCYTFKZ0xYNGpWVWFVQ3dSSTh6S0lrWUE1Z3NhbUlQdS1rM3ppWkJQNEJ3THFrbDg1UF9rZGFEd1FLS280eFA0MVZiSm84SEk0ajFOS1E?oc=5",
-        "headline": "AI 신용카드 이자 오른다...민주당 압승에 AI 채권 시장 긴장",
-        "summary": "",
-        "source": "디지털투데이",
-        "published": "11/08 08:30",
-        "published_ts": 1794094213.0,
-        "tag": null,
-        "first_seen": 1794095128.0829864
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 21:15:52",
+  "updated_at": "2026-11-09 21:31:03",
   "yields": [
     {
       "label": "3년",
