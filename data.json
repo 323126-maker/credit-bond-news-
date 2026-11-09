@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWEVjU1pIUnRsTkEyMEFSNVVSbFN1bHlYTnNRcnY5N1NUbFZrY01VSUtqaUZObEFNZy1kTU94VU9FUkdxNzFBTEVSVUFwR2w4c2xIelMyZy1kSkFCY05nX21nbXpzVEF2MDdTNm9WMDhMVVhUZkQtVjF1bVdhSFJqM3lEX3Y0QS15WEE?oc=5",
+        "headline": "A $1 Billion Fund Dumps These 2 Stocks",
+        "summary": "",
+        "source": "TIKR.com",
+        "published": "11/10 01:17",
+        "published_ts": 1794241060.0,
+        "tag": null,
+        "first_seen": 1794241843.558691
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yR3MzcXRVRzJIYmlZeTQ5NEV5Ty1kQ083YWdQWW56T3hLdlVwTjlkcTNWN21oNDJWV3phS2ZlUmVzWTJWdFZ3RmtsSGplMWxZVnhHc3RSQ3FFOUd5UjRxMGlCN1MxUVRGcWY1NGMzdHLSAXRBVV95cUxOeXZqdUJWVVJHaklISXVDVW90UndMMXVxVWdTdXFYYjY5bjc4dXVBQmxUaFBaT0prNFpCM3dPQnFFeW9QWWt1T04tcGZyTFZ1SlR3cXhVNXFXY0VEMC1fOHNMM3JyU2ZpMFI4elZieWh3OUQzRg?oc=5",
         "headline": "달러-원, 야간거래서 12원 이상 급락…弱달러에 한때 1,344.00원",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794133840.0,
         "tag": null,
         "first_seen": 1794138327.344675
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE42ODg0NTVDV0wwWEFFdU13N184U3Myd2QyeVZKM2Y4UkdWN3llQ1NGaGF1eVU1UUFPZ0piWmpybl92U3FobXRZZTY1ZFFJNThsLXRlV2JXSlJoS0dxNS1QX2VpN3JoblBsMEE5OG5qcjhLZw?oc=5",
-        "headline": "‘무위험 자산’ 지위 내려놓은 프랑스 국채",
-        "summary": "",
-        "source": "한겨레",
-        "published": "11/08 18:04",
-        "published_ts": 1794128640.0,
-        "tag": null,
-        "first_seen": 1794128951.179722
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 01:15:57",
+  "updated_at": "2026-11-10 01:31:03",
   "yields": [
     {
       "label": "3년",
