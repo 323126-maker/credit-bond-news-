@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9sUDlTTGlKVHBQaE5SQ05QVHdfb25wZldydTdocF9ZUHdHTFVwNUJ6R1lGQWJydi1wOFBTUThEWndLcXdwYmVsM1hZZVdIaEc4RkRaUVlMNmU1Tno2MU5mbHJURC1FbzBibmE5RklFVdIBb0FVX3lxTE9sUDlTTGlKVHBQaE5SQ05QVHdfb25wZldydTdocF9ZUHdHTFVwNUJ6R1lGQWJydi1wOFBTUThEWndLcXdwYmVsM1hZZVdIaEc4RkRaUVlMNmU1Tno2MU5mbHJURC1FbzBibmE5RklFVQ?oc=5",
+        "headline": "저PBR 명단 오른 한화생명…배당 불확실성·자본건전성 과제",
+        "summary": "",
+        "source": "한스경제",
+        "published": "11/09 14:07",
+        "published_ts": 1794200861.0,
+        "tag": null,
+        "first_seen": 1794204042.9123523
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTlPeFlwYU9iMm5jWW9GYmQxcmU4eHhzOU81QkpyOWo0TmRZTGdIMkNxNGlxOVdTYU9FQkZ3LVRDZmNrVHpMc05hZmRKa0tBT1VKbjBrSm1hLTI2d0VUcWFmRHVCdVFZX1c1NlQxd0NDUHNRQXE0ZzlPeE45NWVVdA?oc=5",
         "headline": "[이지혜경제쇼YO]“채권 매수 타이밍 온다”...전문가가 콕 집은 ‘브라질 국채’도 주목",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793791145.0,
         "tag": null,
         "first_seen": 1793958332.312417
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zeXkzaUdMWTV1RUVOWU90bktuN1JReEFGQktVX1NvdDJXdVRCQnN5Y256VEQxSnlfcGExMFNBSXNGMzBIRm9uWkRvQ1lGaFNQY1l3czVjcFp0QQ?oc=5",
-        "headline": "금융권, 줄줄이 영구채 발행…하나·JB 이어 KB금융 추진",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/04 17:36",
-        "published_ts": 1793781389.0,
-        "tag": null,
-        "first_seen": 1793781925.446776
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 14:45:49",
+  "updated_at": "2026-11-09 15:01:05",
   "yields": [
     {
       "label": "3년",
