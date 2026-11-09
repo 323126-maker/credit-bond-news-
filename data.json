@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwMDN4bXN5Y2JoVGtOTGlIaDZHYmZFMFBtRzNOa1djamtSZzZtSGZtamRfRnB1M1YwVGlhdURGVFFxSTRzZUNKaE0xV3laYmRR?oc=5",
+        "headline": "李 “소방 재원 확보”… 쌈짓돈 되는 미래대응기금",
+        "summary": "",
+        "source": "문화일보",
+        "published": "11/09 12:10",
+        "published_ts": 1794193849.0,
+        "tag": null,
+        "first_seen": 1794194126.8656914
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWgxV3otTFp1c0dKLWtJTUVPUWhaZlgyX3NaLV8wcVlReGJycTRwV1I4alZHWjFEeGFXdUZMOEtMU2huT1REbEZxUGs1eElwc1p5cE82WmY4RFlHLTRLODJhZ1RqSkZvNmFtZVZKRFFlSDFuMGp6dUFTZEhaZW9YaQ?oc=5",
         "headline": "李 “대한민국 정부가 소방의 119”…소방 재정·처우 개선 약속",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793786857.0,
         "tag": null,
         "first_seen": 1793790927.7279756
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rYk5iTnE2Z3VSRXBETmlySV8xczNHWjV3RXRhVzhMVkJMQlh0VjB1Wk03Vld3UXlHNnluZDNZcmFWZ0JKc0JJbnBZWEZMTFdZcUNWYzhWNHAzQUpiUC1mWA?oc=5",
-        "headline": "[종합] 경기도의회 본회의서 맞선 방성환 국민의힘 대표의원·추미애 지사…재정난 공방에 더불어민주당 의원들 집단 퇴장",
-        "summary": "",
-        "source": "www.kkmnews.com",
-        "published": "11/04 18:45",
-        "published_ts": 1793785513.0,
-        "tag": null,
-        "first_seen": 1793786452.857823
       }
     ],
     "global_bond": [
@@ -1738,6 +1738,16 @@
         "published_ts": 1794176238.0,
         "tag": "JGB",
         "first_seen": 1794177926.3612814
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNaFdoeGhiLXk0OFdNM1NlZUF1dXh4YldHc295MGExZFVGZmdXRDBvR0NLNG01WERUWHJJZ2RJOHNKSGxhX1VaczVjNDB3WUdnRFBjTV80bjRrZnlZWVFHTWNFQzdBZEtsb1hOanQwWTg2M3UzdTVWdVV5c0YtcVBwalQ4Tmxiek1PNU1xbHJpVXhfUXA1VHRpdGNpRi1oXzF3cVNIeTRzODlBVlc5dnlYXzlyZFRjOElQQ2o3LW85NEt3ejRORS1WdFpxZnZManFLQVl2UkttOS1ZLUJ4UVJTRTY2WWtBeEdBcU9zRy1Zbw?oc=5",
+        "headline": "Fed move to raise rates was a 'serious' and 'responsible' decision: Warsh",
+        "summary": "",
+        "source": "KVII",
+        "published": "11/09 07:14",
+        "published_ts": 1794176090.0,
+        "tag": "Fed",
+        "first_seen": 1794194126.8656914
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBvcEVROW50UUtMR1drNUZDZ2dpYng0S3d5Nm04eEJRWEFfQW9tb1lkUHRlQlhIZmRJUk1adHkzZDN5NEFMaHVqb3Fvc0dQRWpoVndSTDBEYkRNYndmaTAtZ09xem5UbUQ4QUE?oc=5",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794133800.0,
         "tag": "Fed",
         "first_seen": 1794186043.9226677
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXZzYmVyYW9NTmIxS05mSVpnTC0wcUZEajlJM2Z1TENreU1WbGJnalhESHQyMjJwOU1tMTJqRnozRWxYeFhtLUN2UlhfX1lkVDJtRklid3BaUlJOYzRCR3NXV2hza0JRSEhxa3lncml1a2gxczVEYXQydmx5bHlJczNkUTduN2h5dldEUTFCLVVwaUxpdXlWY2k0Z09zUDhabWFJXy1QYzNNSDBz?oc=5",
-        "headline": "Following the sharp decline in U.S. technology stocks, Goldman Sachs stated that pressure from the supply of AI-related debt is accumulating in credit markets.",
-        "summary": "",
-        "source": "富途牛牛",
-        "published": "11/08 19:20",
-        "published_ts": 1794133257.0,
-        "tag": "Global",
-        "first_seen": 1794154528.2289581
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 12:03:44",
+  "updated_at": "2026-11-09 12:15:48",
   "yields": [
     {
       "label": "3년",
