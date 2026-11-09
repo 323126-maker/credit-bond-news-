@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM2FjX3U2Sll3OHZFWEN1MEpFZzBBdGtpcTE2MTQwQU13WDQwLWVVQkV2NVJNVnRWcURidWgzYlNBbzBSNU4yRjgxNVEzeXRxM3BzcmFrODJ4UnRvSzNKYmh1WHlwZkpGQ1dNRXF2aU9nV0JUclJsel83VkJoYU1TZnRCdFpHbHhhTVpCSUhlb0RJdWxDX0pLVnFUSVdLbHM4WmkxWFByTmVBZWFMV1ZCdU9qOXlrNHlWdHpJcFZiUlloX21TQ0dvTVZHUkV5Q20zejdIWUQ3WVZrUDlyX21GdXZFN00yc1VlNjR3amJET1NyLTRROGc?oc=5",
+        "headline": "El-Erian Says US Midterm Winners Face Market Test — Warns Against Stifling AI, Urges Fiscal Discipline",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "11/09 21:28",
+        "published_ts": 1794227297.0,
+        "tag": "Strategist",
+        "first_seen": 1794228330.4996445
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORnNhSmI3dFVDV3JLamJhV2JKODZpUW5SQzVCbE1tX3ZiZEhaU0RiRnBfQTJMTWUzSU9hV2JJcUVEV2N4Vy1pRTZBQmxzZ21MbjU2R0M1M3hUZUpwa2U5RlBWVjdKQ3JLcTQ1QTQ0YTIzZWF2dUtKNGtUZzBuOFllNHNnVnRIUEJIbXhVd254djZ4a3FiOUNBNFc4eWVhWWdGNUY2R05iZDk1b3lNNGExNUhpN2EtV2dCa3pOelQ3U1JEVWlYLVFZTHBrNWNmcDZjRU9B?oc=5",
+        "headline": "Alphabet Plans Up to $3 Billion Asia Bond Sale as AI Funding Pressure Draws Focus, Shares Rise Over 1% Pre-Market",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "11/09 21:14",
+        "published_ts": 1794226453.0,
+        "tag": "Global",
+        "first_seen": 1794228330.4996445
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNYzNCSWpqa2J6YkdObXVoSmhNeXBWZ01Rd3l5aWV0RHNSd2N6blN5NlByODVaSVRJSmdkWGc2RUtiNnYzTU5sS2htTnF2TkhYOTMyZDVOTWowZE15UHl4MkR3VkhZQWdWMnhFRzJRT2hON191bXBTQ2xLZjlTT3JzbUdCcHlFdGVzNkxLanRzUW5GY3ZuUEhSQjBrREp4d1FPT0NaUVpoSXI2OG1PMTlwSGthbl9SbG5ndkI5WV9PcVNPenRoLUJlNmpBdDZWaEZRZGVjU2xYNy04dkViM2hZ?oc=5",
         "headline": "일본 엔화 강세… 매파적 일본은행 의사록, 12월 금리 인상 가능성 시사",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794187872.0,
         "tag": "Fed",
         "first_seen": 1794188727.7978601
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB4Ukt0YUxpekZwNVRUb2xxNGx0TzMxN1RlWXhmS3V0VTJTMzJ6UFNhMXFaNE5rREhNUzJNMEUyTGM0Zy1uS0kwUmZpMTdwVHI3SElEV2M3R3FNbVhVS21OSC1GRQ?oc=5",
-        "headline": "라가르드 ECB 총재 \"유로존 인플레 당분간 고공행진\"…12월 추가 금리 인상 가능성",
-        "summary": "",
-        "source": "더구루",
-        "published": "11/09 10:29",
-        "published_ts": 1794187754.0,
-        "tag": "JGB",
-        "first_seen": 1794196844.3086
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBrcWVqUHlFVjlSUUpRaGMzRFpfUVpDaW1WeFZ4NXRlWmlIellwb1VUV1dWSzBlcDVpYVpFTzR0Tkhna0hWR2VDWExmdndBRFhJMi1Jd2RLMEJYQkxOUEtjcnhnX0ltTS1JNmljNFcxXy1kZ0czN1E?oc=5",
-        "headline": "CoreWeave Bond Yield Tops 16%, Sounding Alarm on AI Data Center Debt Risk",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/09 10:26",
-        "published_ts": 1794187560.0,
-        "tag": "Global",
-        "first_seen": 1794199528.780842
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 21:31:03",
+  "updated_at": "2026-11-09 21:45:51",
   "yields": [
     {
       "label": "3년",
