@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtVHJDWUhRM1I2UU9oclNEVXVBTzYtYTdtMmdJOWVUTTRCc1Y1eV9ja3ZjNWNxMkQ2SDJtdVlpRmNva2ZDdXhCNnhpT0ZlOGlCWFJwZHNqajFTTlnSAWBBVV95cUxQejVuVVZiV1FQMkEyc1VnNWpZSUVOeTFJeW9qYmVDbF9KTmsxR0o5VzNabWRQTXExdHc0RmlqMUhmU29YQjNkTHROZU5KWXpBVXRicWIxMEttbllja09YRzE?oc=5",
+        "headline": "SG \"미래대응기금, 채권시장에 중요한 수급…단기채·크레딧 지지\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/09 11:38",
+        "published_ts": 1794191902.0,
+        "tag": null,
+        "first_seen": 1794193403.0888314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRzA3bnV5NTgzaXpGczhyRXI2SnJlQjZOUkNzR2EzMHlhbG0ydER1b0tHRWt2MVdKcW4yck9MV0tmWUZDdVUtbHhWVDgxMUw4Yl95VjFkQ2JXb2ZHNmNWNmhCRGdCLW43U3pj?oc=5",
         "headline": "은행 유동성 방어에 CD 금리 급등∙∙∙한계 중소기업 직격탄",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1793957298.0,
         "tag": null,
         "first_seen": 1793986236.9166868
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE96Zzc3T3hOTi1UM25EcTdtRFF4S2FTaGhJb0xPWjNQbF9BRkRGYnVBdUs4bGd3MVpiZldKWm9wZmFNTTcyQVE2aUtjWHppUQ?oc=5",
-        "headline": "①'빚더미' 코어위브 채권값 폭락 … 스페이스X 부도 위험도 치솟아",
-        "summary": "",
-        "source": "매일경제",
-        "published": "11/06 17:45",
-        "published_ts": 1793954731.0,
-        "tag": null,
-        "first_seen": 1794167127.7350326
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcWgxV3otTFp1c0dKLWtJTUVPUWhaZlgyX3NaLV8wcVlReGJycTRwV1I4alZHWjFEeGFXdUZMOEtMU2huT1REbEZxUGs1eElwc1p5cE82WmY4RFlHLTRLODJhZ1RqSkZvNmFtZVZKRFFlSDFuMGp6dUFTZEhaZW9YaQ?oc=5",
+        "headline": "李 “대한민국 정부가 소방의 119”…소방 재정·처우 개선 약속",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/09 11:59",
+        "published_ts": 1794193148.0,
+        "tag": null,
+        "first_seen": 1794193403.0888314
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zN3UwbE5nQVlLeHNCcVFPdXBxa0E5VVFnWEpGU0RTR1ZVV3FCNndkTWJsZFJzM2p6UmhZZlh2WDQyZTE2SS0zOEg2bWpMVFlWQkxVcXk2X3k2UDRCdWpEWFRaMWNDTlRnVXUw?oc=5",
         "headline": "국민의힘 \"미래대응기금 동원해 소방재정 정치화…반드시 막아야\"",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793785513.0,
         "tag": null,
         "first_seen": 1793786452.857823
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9WN2dtNXJTYWZjMjBmdV90ck9sUEkwWlhhcGF4eGFxUHdTd1pvZUlwRVpreGVPM19SNm8wTDRxUzhqR1V4TURTVUNDZURLdkhWcmJGMjhQdDRSanJTSTF6Smx5bGt0dE9fbTExMGVnSTYwVmM?oc=5",
-        "headline": "이재명 대통령, 대통령 주도 개헌에 국민 수용성 낮음 지적",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "11/04 18:37",
-        "published_ts": 1793785068.0,
-        "tag": null,
-        "first_seen": 1793889044.6884582
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-09 12:01:06",
+  "updated_at": "2026-11-09 12:03:44",
   "yields": [
     {
       "label": "3년",
