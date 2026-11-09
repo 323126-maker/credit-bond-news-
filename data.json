@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1iTDNOZEliRHJtWjVYUE1VM1FCbnpOVXV1ekhNRUdwSzJURXVISEEzbWJnVldQOTBOWDVGZWQ3ZXZicFNDUE0wMHFBZktPbjZG?oc=5",
+        "headline": "블룸버그 환율 전망 1위 전문가 \"내년 엔·달러 환율 147엔까지 하락\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "11/10 07:55",
+        "published_ts": 1794264926.0,
+        "tag": "JGB",
+        "first_seen": 1794265246.5657146
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQmRpeGF4cXdnTUlSX3RvMzFCQnJ5SFROX1UwSFlHX0NUdUc5Sm9pZ2l6NUFyc1F1MkZiYUxvS0c2UVRFeWFkUnVZWlFuOVV0cFRfWVBYTHFweDdEbTROZHZmZHhIVkg0MDZLeXZGdGRDUy04c0NJMS1MNFJIZGtlWWdsT2RrcU82QjhhMl9EZ3VuU3Z6M3d1NktsclgzTmpnMzRN?oc=5",
         "headline": "CoreWeave faces earnings as neocloud debt, customers and politics all bite",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1794260130.0,
         "tag": "Global",
         "first_seen": 1794262526.729496
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQLTM5WHVzS0w1blZLX21WUXEwXzduZFVHNU9weXZLQjVHYlJtZ18xbHhNbTFDb1JpRkhoNkNRcjR4aHVERlpFQV9kYmppTDI2dHg5VVNDbjRnWldERS1HZHAxRlpXTFd3M3NIZHN0cVUySVNWNFVnZWplcWF3eGg3bFYxSDJtQQ?oc=5",
+        "headline": "What Do High Interest Rates Mean for Homebuyers?",
+        "summary": "",
+        "source": "Morningstar",
+        "published": "11/10 06:30",
+        "published_ts": 1794259805.0,
+        "tag": "Fed",
+        "first_seen": 1794265246.5657146
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMnJYS2VBOUc1Vk8xZmhJTklIYkRHR0c5NTVCZ2ZxcXBvWXJYTzJiSUZyMGFYM0VNV29IU0JGQjl2OC1FWlpUQndySDlRSGRjYUZFU3dCYm9TMUgyTDI4YTlrSjVGOHNYdzVGbHJlTkk0dXRqbUMtZi1SRVZNMnRicUF2NnZkckZFaHFGaTBVQXBNTk5RQjRLM21rUWtxY1BvenROdlhrVTJIWTJmOGxUN1hnanYwYS1oOXVwcGFpWEVlZjZraEoyRXBLN0pMTnpuUXN1VXI0T3QtNTNYSlBWQ2psQ05leDQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794222590.0,
         "tag": "Global",
         "first_seen": 1794251727.782505
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRjNhX01nUUw2YWh5SzJhZHF6MjZobGdRbG1MZ1NjbjdoNkM2cWw3aUllOXZxUmFGcjVsZkRlOUN4QTY4Tmp3ai1iZ2lfNmxJYlFSbW9iXzRJRWtxZkMtMHVST2VMXzFETGdSbmVKb0lrR3VHZERBQjR5MFhfTjZqelpESGZvbW9NSjQ1NA?oc=5",
-        "headline": "VIFC-HCMC는 일본 엔화 채권 발행을 통해 자본을 조달할 기회를 모색하고 있습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/09 20:06",
-        "published_ts": 1794222414.0,
-        "tag": "JGB",
-        "first_seen": 1794225643.8504918
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUktuREpUZjNlTWxZaER3aXVBUlJvazI5Q2d6STdNekNFVjk0UDYydFNlYS1zQzBlOFdzdk9waFZOeFBvLUhKUG5YOURmWE1xTkFvcFhqTmdTa3dvZ2NFTW12VW15XzA0MW9LWmlDb3BCTGc3ZllkWS1FMU9lbS1JbllDV0FhVGs3elh3azhtYWx0WkVpYnk2eDVSU1NtU2hZQXc4UUJJdkdELXNuVW1mZWJDLWFtZw?oc=5",
-        "headline": "Focus: Banks, investors grow wary of AI debt, spooked by market selloff",
-        "summary": "",
-        "source": "Reuters",
-        "published": "11/09 20:04",
-        "published_ts": 1794222283.0,
-        "tag": "Global",
-        "first_seen": 1794222927.8433588
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 07:45:52",
+  "updated_at": "2026-11-10 08:01:06",
   "yields": [
     {
       "label": "3년",
