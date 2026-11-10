@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXNBNlFUckZUc0tTX19ka1RlWG9yZ2RONXBuTmJtUTRMZjVhUGNXaHlWRUtjTklrZTBYWkp4dTg0dVd6cTBqRUtPdkZ3RG9Xb1VvVjl0WTBVc1pEM0hVZC1oN3NKcWdtQjBUbXA4Q0pQZ0NWSUkxSXVFWVRWSVB6NXZOY1NVYWlhT0xJNU1BdEg3ZHR6bmJtLUZVUDFYenA4TVNvMVdidw?oc=5",
+        "headline": "Japan’s 30-year bond sale sees weaker demand",
+        "summary": "",
+        "source": "The Star",
+        "published": "11/11 08:04",
+        "published_ts": 1794351853.0,
+        "tag": "JGB",
+        "first_seen": 1794352526.42575
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dlV0MUtGUWpsdENENUZUZG0zM1dtX2xHd3k1ZngwSU4wRE9Ca2thUW9sRFlGRG52dHlaNWtPUzU5T0VyYlcxVUhaQW9TTzZDTGFwcnNlMlBMa21RdjdLdlc4bTBRekNPaWVVeEpMa2ZqWndRUnFxd21VbFA?oc=5",
         "headline": "Fed Rate Hike Looms: How CPI Could Hit Credit Card And HELOC Debt",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794317103.0,
         "tag": "Fed",
         "first_seen": 1794324638.24526
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNzVuYmFYQTBvTThZSTVxQzRDQmUzWlk1UW11aHNIR1pRZ0thSTZSWnE2aTBQQUJIdmRPWUxjMU9fVEx5bHA5ZElxWkZ2OWdlYXlIN1BTeFRYN2lPM2NaeFBHM2l3Z1lsbGZYemVFc2FrUTJieUlCZ2JrUlFtRm5HUUdBT0NoQ0dRb3c?oc=5",
-        "headline": "AI's Borrowing Boom: What It Means For Bond Indices",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/10 21:48",
-        "published_ts": 1794314880.0,
-        "tag": "Global",
-        "first_seen": 1794315648.0900166
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 08:01:10",
+  "updated_at": "2026-11-11 08:15:49",
   "yields": [
     {
       "label": "3년",
