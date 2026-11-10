@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQY1FsbVRROWtqSWVrQWxNak5MWEpuVFJwcm5OT0F4Y3k3VjJEX1c1NGJrX1dBX2FaS3IwLUVrajVHWGRWUUFpSVEzSF9MelBJT2JfR18wUnFrVEwwSk9iakN6VTl3aktLYjdLNXplMzc5RWRkY0lQWFBpNUZoVXRxNmNrMnJVRjN6LUlJZGRfRGdWTXBpaG1MajlRa1pIcVFZcGc?oc=5",
+        "headline": "Is AI credit risk migrating upstream? CDS spreads of chip giants surpass cloud providers for the first time in three months",
+        "summary": "",
+        "source": "Moomoo",
+        "published": "11/10 19:01",
+        "published_ts": 1794304909.0,
+        "tag": "Global",
+        "first_seen": 1794305728.742732
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZi1fQW9wMUdvRTVweFJOd2RtNVVXTkJVTUFtRm03Y0ZlTmwwSFRVSUF0cWh4VlR3LWw5OHJfYm15SENoZGxnQ1VaSHRnVU50ZGEwaFRiUVVnNFRqOHIwcHE0Y1BrVmVXdHZhdHRpMnl1azBoU2NBNDNBZmdUVHpnRXlxakRfeTlhaW9QaG1aTzlWWWMtN19LaTB2WTVNTnI1RlhV?oc=5",
         "headline": "Japanese government bonds: An alternative to gilts?",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1794293096.0,
         "tag": "Fed",
         "first_seen": 1794294042.7606232
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5XNlhxOGZqZzVPUWxWM2Exd3ZOTm5pdXZTcFNvOG1RbEpVZEQ2MXZIVUcwd0Qxb0NBalNUbndRR0d3VUdiZjZWTkRSQlM0SzhB?oc=5",
+        "headline": "After the Storm: Can Bond Vigilantes Prevent the Next Debt Crisis?",
+        "summary": "",
+        "source": "The Edge Malaysia",
+        "published": "11/10 15:44",
+        "published_ts": 1794293074.0,
+        "tag": "Strategist",
+        "first_seen": 1794305728.742732
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oMjM3bTR5aHJEaEZXdTFJQzdLT2NIMG0tRVlTbWVjWDB4bUsyQktybHF2WlFtVm9RNVlwVXcyWXo2bjhEY2xyLTIzYXRJRmJtUnh2ckk5OFpFWk1jVG5qTE0zSFU1TUZtMG9qczlKLWhzd0JTVWc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794255960.0,
         "tag": "Global",
         "first_seen": 1794268846.188022
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNC1ZUHlCam4tSmJjaGpQTFVMRThaOUZmTkNxZWVycGtVUkt6RzhLYlFZSUJHbzM0ZlY1STE0TWMyUTI0UWt2UlViUU5pWXNBWXdSWkVaeDh6RWZ3NnJkQzBseDRYRzlqRXJ4QXA2VWdnTEwzWlZoaGx3UmJkVmVJN0JzcHJ0bjVUak16SGoyRE1Bdw?oc=5",
-        "headline": "What I Think of The Results of the U.S. Midterm Elections",
-        "summary": "",
-        "source": "LinkedIn",
-        "published": "11/10 04:24",
-        "published_ts": 1794252252.0,
-        "tag": "Strategist",
-        "first_seen": 1794256238.9752192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaDVsUlJ2dkNVN3Y5LTFVNWlEcy04Y0p3RDMwRTd3YUdCaGFFSndGZXdWUFNhR0VHaVVxUUd6bHcxU2dLRnVpRW90VS1iYzFlcmcydFlxTFBxM0k0Q29YZFk3S1NfUVRVUldVYTFHVXVZa0ZIQnFnOUZVTERKQmZ5QXBBMzNPMTZPTzQ3MHpQQQ?oc=5",
-        "headline": "Mitsubishi UFJ Financial Group Inc (MUFG) 주식 움직였습니다 상승 3.53%에 11월9일: 전체 분석",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "11/10 04:19",
-        "published_ts": 1794251971.0,
-        "tag": "JGB",
-        "first_seen": 1794252639.3386796
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 19:01:03",
+  "updated_at": "2026-11-10 19:15:52",
   "yields": [
     {
       "label": "3년",
