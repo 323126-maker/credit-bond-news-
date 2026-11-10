@@ -2012,6 +2012,16 @@
     ],
     "watchlist": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5rTzl1bWExbi1XTGpiaGF2dXdDVFRLdEVGcXQzTmJwNXRfSnV0c1hRWXNIZFZKVzMwOWxOc0xwNEpSX3RzOEZESWxScTg2MTJkcVF3OXdCRDVOWGVHOFUtcDdrYjlxM3dz?oc=5",
+        "headline": "高금리에 갈린 카드사 성적표…삼성 '선방'·우리·롯데 건전성 '부담'",
+        "summary": "",
+        "source": "뉴스포스트",
+        "published": "11/10 09:31",
+        "published_ts": 1794270714.0,
+        "tag": "삼성카드",
+        "first_seen": 1794271530.9220433
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAwak11N1NRMnNsSmFULV9tSl9uSTB0U3JORUFrcEJfNEQtSFhKY0ozLThnai0tRjVtb1ptRmRGYmJ0WU5CNHQzS0dQUlpPV3B5ZnJB?oc=5",
         "headline": "[현대카드 정태영 10년] ①정태영·정명이 현대커머셜 지분 과반 확보... 현대카드의 진짜 주인은 누구인가",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1793912400.0,
         "tag": "현대카드",
         "first_seen": 1793934045.9809935
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE50dTZEVUlGM25hbkE2cDE4UENlQjdEclpmUldiUGJiR2FjbHQzQWVXRXZYVlIwSUFIQzB5OVNqYVVJWlJ3YnpoSVVWRWd0Y0F2UVHSAVNBVV95cUxOdjAxc0Y1Q2FBeWFVNHhPbkFfZ0hnVVJfNTVXdHl4WjFqdEJCU2dHeEVlV1F2TDB4Y1JIb2tmRFV1NjY1c04zc1RuLWVOeEJYc3kySQ?oc=5",
-        "headline": "신한, 롯데손보 정상화 자신...“해외부실 최대 2000억”",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/06 06:00",
-        "published_ts": 1793912400.0,
-        "tag": "신한지주",
-        "first_seen": 1793913328.2013505
       }
     ]
   },
-  "updated_at": "2026-11-10 09:31:07",
+  "updated_at": "2026-11-10 09:45:52",
   "yields": [
     {
       "label": "3년",
@@ -2467,6 +2467,33 @@
         3.769,
         3.717,
         3.731
+      ]
+    },
+    {
+      "label": "10년",
+      "value": 3.863,
+      "chg_bp": 1.0,
+      "series": [
+        4.229,
+        4.261,
+        4.193,
+        4.182,
+        4.205,
+        4.176,
+        4.16,
+        4.152,
+        4.097,
+        4.074,
+        4.032,
+        4.108,
+        4.081,
+        4.008,
+        4.034,
+        4.001,
+        3.968,
+        3.887,
+        3.853,
+        3.863
       ]
     },
     {
