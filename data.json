@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5GWHp2bk9UV3FUeDJvbVdQRzh4c24ybUlWSE9lNVEtZmNrR1AwU1o2RnNSRTlRS0p5d240d0E0UzJjTmcwZEZpcC1YUWQ1blh2bU94NVRjYnBkUWJXQWY3Y21McVI?oc=5",
+        "headline": "덜 찍었는데 이자는 더…4대 금융, 영구채 이자 25%↑",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/11 07:38",
+        "published_ts": 1794350280.0,
+        "tag": null,
+        "first_seen": 1794350727.9245973
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUNnpETVVXZjBST2FYeTdHcUlHZDlRV0lQb25RVlZ1blk2VWtIQXh2a2pkTS00SWxkbzgxQ3NaZjhUTFVNT19Hd1hMdnozbVBwV0RWaGJ5MA?oc=5",
         "headline": "올해 마지막 금통위 앞두고 숨죽인 보험사…채권 평가손익·차환 비용 변수",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1793921640.0,
         "tag": null,
         "first_seen": 1794114928.0130577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52MDFzRjVDYUF5YVU0eE9uQV9nSGdVUl81NVd0eXhaMWp0QkJTZ0d4RWVXUXZMMHhjUkhva2ZEVXU2NjVzTjNzVG4tZU54QlhzeTJJ0gFTQVVfeXFMTnYwMXNGNUNhQXlhVTR4T25BX2dIZ1VSXzU1V3R5eFoxanRCQlNnR3hFZVdRdkwweGNSSG9rZkRVdTY2NXNOM3NUbi1lTnhCWHN5Mkk?oc=5",
-        "headline": "신한, 롯데손보 정상화 자신...“해외부실 최대 2000억”",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/06 06:00",
-        "published_ts": 1793912400.0,
-        "tag": null,
-        "first_seen": 1793955646.0825984
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 07:31:01",
+  "updated_at": "2026-11-11 07:45:47",
   "yields": [
     {
       "label": "3년",
