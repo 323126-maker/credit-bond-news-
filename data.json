@@ -1670,6 +1670,16 @@
         "first_seen": 1794328238.1498237
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORGZIcFNpUUtFUGhtalZRYTVyclhlR2JoQl9kYWRMUHBIbmNkTllSOENJQlgzOTVMMGNxN2N6VW9OamlicTZYbkFLbzdaLVhHekxhZzhzcmJPVzRMUUxzVTNVTnZ6QlozbGQwQXRMdHExQi01Z2VmWXBGdnhwSV96czh5SEEwb0FYd0FRQWRNUFVlUlNmNC1ycU8xMHVJd2lRUnBwZG93RzVqWEhCQ3o2d1BBU2JaQ2t4SWFiLTFyUzRjNnpCeXA4?oc=5",
+        "headline": "US stocks drift lower after a discouraging update on inflation",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "11/11 01:00",
+        "published_ts": 1794326440.0,
+        "tag": "Fed",
+        "first_seen": 1794332728.0031247
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWG1SZHNSX2x0dWRXSHdfYTFSNldVOF92aUplek1POEt3UnkxME45bExhVl9ma2NTMXRLUVk2Nl92OFVqdmxnVnhiOS1YaDVRQTNIQ2JndWsxeXZqN21EeHhMM3dtZUR4ZTNiNk5FTmZkbEVTZnRabjItUV91Mnlia0NrMzN5U3dKeE1BalM1WlVqWHpJRl9mNzdQTTJlQlh6U1g4?oc=5",
         "headline": "Spiking yields and falling stocks: Wall Street thinks hot inflation data clinched a rate hike next month",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794297951.0,
         "tag": "Global",
         "first_seen": 1794298529.5647676
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQmFKYTZZNmFmeTItR0dNM1dIc0x0aGdDeXJuSkh6R1QtdkNLRDZzVXZwOEJ5eS1vZkd6bkpLTTlHcXREbmZaS1ZXbDRSaTZXZTZJTlRyNTByWmJaTklNLW9jSWdCMS1HYURoYnZnRmZ1WWVOMlcwOXhqVGpQa2RlQXI1RUJfeDlPU0dIamdSSmtrNzFxUUIwdTcwalM1Qk1rZEplcGJxYUdHTDVCc3lmalFrSjA5SWdtWmd3YmVoc3JxVVNPaUtLdFJIbw?oc=5",
-        "headline": "Outlook: A Review of the Corporate, Agency and Municipal Sectors Given Tight Spreads and Record Issuance",
-        "summary": "",
-        "source": "Advisor Perspectives",
-        "published": "11/10 16:59",
-        "published_ts": 1794297569.0,
-        "tag": "Global",
-        "first_seen": 1794319249.6148474
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 02:30:58",
+  "updated_at": "2026-11-11 02:45:50",
   "yields": [
     {
       "label": "3년",
