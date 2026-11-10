@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SERVcGpYXzVHbDlsckhZbmJ1VTFTVHhySHBaZEtfZU85R3U2dUxacU8teFJJTzVDTmI2N3FsakNTZENJZFhnbG8wQ0doZjlOYzVoUjlBb0tVR1FsVTZwVlNNeWpjUERBbWZuWG91MnpTSE1J0gF0QVVfeXFMTnZIRFVwalhfNUdsOWxySFluYnVVMVNUeHJIcFpkS19lTzlHdTZ1TFpxTy14UklPNUNOYjY3cWxqQ1NkQ0lkWGdsbzBDR2hmOU5jNWhSOUFvS1VHUWxVNnBWU015amNQREFtZm5Yb3UyelNITUk?oc=5",
+        "headline": "코스피 급락에 외국인 채권 '8.5조원' 순매수…국고채 금리 전 구간 하락",
+        "summary": "",
+        "source": "주간한국",
+        "published": "11/10 23:23",
+        "published_ts": 1794320586.0,
+        "tag": null,
+        "first_seen": 1794336329.984439
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOT1NTelpZLVRiM00yTHgtYm5Rb1JHM0FYckg4RDZSdEMtLTFoQjhZZ2dHdnNWeWFaMS1FdFEtZWowZzFuQ1RYcVdmemQyZzZ1N0tUZnkyampCUlVYZVZmcFpzNlQyc2R4MFJ1d0dNUTJsOFpwcmtvTFhMLWw5THV3X1V3M3FRNDVlRzdPRHU2N1l5dTVINDNubXBjYWsyVkJIWm5RMFA3bnFTX1VTRnRNaGRJaGdKdVJMaG05WTloVVVRQVZIc3ZMVVJBM1pjeVhPb25LdVhFdjBXbDlhczNlczI0S1RrUHRFZV9DUXhCeGEteThwRDVPMGN4Yk5hVThYZ3c?oc=5",
         "headline": "국고채 금리 일제히 하락…10월 채권 발행 4.5조원 증가",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793867640.0,
         "tag": null,
         "first_seen": 1793868328.5699804
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ZTUxjRmh5QjdZZURTX1gtSVlyMWtBOVRNYUJwN0FPWnR3ZDROcHk5LXE1dXFuT1djQ0FGa0xwWWVfZlpwMFRyQWNzaGNGUklMdkFoeW9kNUlQZVl1OTVwcmt4MU1Zc3ZvM1ZpU0s0QmZDUVk?oc=5",
-        "headline": "국고채 금리, 미 중간선거·블루웨이브 영향으로 전일 대비 하락",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "11/05 17:16",
-        "published_ts": 1793866580.0,
-        "tag": null,
-        "first_seen": 1793867433.4745355
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 03:31:03",
+  "updated_at": "2026-11-11 03:45:54",
   "yields": [
     {
       "label": "3년",
