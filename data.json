@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NSmhfVWNiTTBPQjN6eC1zNXkxZGVMcWhpNTE1ZGZwRXVEbzdpM2lBXzl1SVQ3ektDZnpsNlJqcGhabnV2TnpYdW1tTGxrSjBlUjZrdFhlSWYwVERuTHdUdjN0TmVSR3pnWHBnckNIZVRVdw?oc=5",
+        "headline": "[뉴욕채권] CPI 상회·10년물 입찰 부진에 약세…10년물 금리 5% 돌파",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/11 05:55",
+        "published_ts": 1794344102.0,
+        "tag": null,
+        "first_seen": 1794346239.063492
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwVXd4cTRkR0w1TXZPOU45eVgtLUQxLU95N3JlbVB1elFxVXdtQjRvZXg0V3pUeVhvQ3dtZHZOa1UyNncycnRxeGdSdFJVZDBtanQ0MHV0Y1TSAVRBVV95cUxPQS0xa0RwdHY3OHRJb2NqLXJKdXZzWUtYdXd0Uk04amJqNWlaTHBiUDVmejIxRUxwYzFuV284S3A3YmVlcmRZQklxTXBuM2RsVS13NzM?oc=5",
         "headline": "190억 한남더힐 품은 지 반년 만에…옥주현이 마주한 300억 대출 잔혹사",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794269164.0,
         "tag": null,
         "first_seen": 1794270641.1598854
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1wTkxyQlQyMHZXbWZQOXFjQm1EbnZjWVgzbTlfVHdITmoySEhZN0dwVTFhLVJkX3dJMUhQSHZJVHBLWWl4b3BOcko4UUZSRDdPRWJPeVhsYlU0MklXM1lTTTl5Z2FaN1JiSklSTzUyUnlBQQ?oc=5",
-        "headline": "국채선물, 위험선호 분위기에 하락 출발",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/10 09:05",
-        "published_ts": 1794269144.0,
-        "tag": null,
-        "first_seen": 1794273325.7638555
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 06:15:53",
+  "updated_at": "2026-11-11 06:31:03",
   "yields": [
     {
       "label": "3년",
