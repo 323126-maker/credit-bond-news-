@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE82UGFzY1RYVWwxdXdKZFFGY2Y2b2JQN2RyYmJoTGttcFh3R3VyN3dWaDVaanhBMnBsNno2UGtZTjhUcjNkTGZ6bUM0bi1HTDhRUXY2YU9TcExOTFRFd3NjOUE3QnBXUWJQRmFXem4teWZZdw?oc=5",
+        "headline": "로베코 \"10년 美국채 5.5% 배제 못해…약세 모멘텀 반전 여지도\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/10 10:51",
+        "published_ts": 1794275504.0,
+        "tag": "JGB",
+        "first_seen": 1794276044.3399863
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFNvMUVHQk53b1RKdFF6SVFCVHMwSGFqNVFpeFppa2tBSkxsdWJITVoxSU56NktaYWFpeERmTlJCcWdxZ1loVFRhMFJha3RWZnRTU2ZYYzhGTkwtd3BKbUJRamJvMDkxUUJYdUpNM0JLRVBzWEpHbTZEaS12TlhUNGw3ZUFoVWNp?oc=5",
         "headline": "2026 Fall Private Wealth Outlook",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1794271620.0,
         "tag": "Fed",
         "first_seen": 1794272446.291031
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObGdKazB3cGVKLUR0VG45X1hQNEpxeVdwaVdUNEdSUl96YnlaQzRuSVgxa2F6NVE2dHU3SmRpOG5xNHdhT2pKS3RSOTdsbGxGYlVWMmxXQm9EUC1YQ1VudlVYeG5pLUJKbnRiczJDRVg2TXlJQlh0OE81dVNDLW1jdU1vT2tMZGRzV1VOeHR6TlVSbEFBTGNBMjh4Z2Zlc3VUei11SFkxcjI3U2EzS0llOEl1SnE?oc=5",
+        "headline": "Inflation Data to Test Limits of Treasury Rally After Haven Bid",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/10 09:46",
+        "published_ts": 1794271560.0,
+        "tag": "Fed",
+        "first_seen": 1794276044.3399863
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTHUyTUlzUTFJb19ZUUpxcjBxa05FU0xsOF9JT29SdkhtMVVBZ1FESTdmUENQLVg2RG4yQXVRUnRHTlZxNmlleUc3ZFpxb21CdURlSWktYU5leDdBRVE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794228347.0,
         "tag": "Fed",
         "first_seen": 1794233729.9382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5DeXhXTVNPcGNSeWZuSjM4blpVNnNVRWVIS2FFTWdVZHlJVVdsTE44dG5rY2J0YWdRVEc1TDlub1hWdml0YXlmRlF2R1hzZ3hIUWU0THJVN09JOHNKeE5faURjRWJmTEF5VXlGM0k5SnM0U3gxQmVyU2VR?oc=5",
-        "headline": "Berkshire Hathaway plans second yen bond offering of 2026",
-        "summary": "",
-        "source": "Quartz",
-        "published": "11/09 21:29",
-        "published_ts": 1794227347.0,
-        "tag": "JGB",
-        "first_seen": 1794229246.7290297
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOM2FjX3U2Sll3OHZFWEN1MEpFZzBBdGtpcTE2MTQwQU13WDQwLWVVQkV2NVJNVnRWcURidWgzYlNBbzBSNU4yRjgxNVEzeXRxM3BzcmFrODJ4UnRvSzNKYmh1WHlwZkpGQ1dNRXF2aU9nV0JUclJsel83VkJoYU1TZnRCdFpHbHhhTVpCSUhlb0RJdWxDX0pLVnFUSVdLbHM4WmkxWFByTmVBZWFMV1ZCdU9qOXlrNHlWdHpJcFZiUlloX21TQ0dvTVZHUkV5Q20zejdIWUQ3WVZrUDlyX21GdXZFN00yc1VlNjR3amJET1NyLTRROGc?oc=5",
-        "headline": "El-Erian Says US Midterm Winners Face Market Test — Warns Against Stifling AI, Urges Fiscal Discipline",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/09 21:28",
-        "published_ts": 1794227297.0,
-        "tag": "Strategist",
-        "first_seen": 1794228330.4996445
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 10:45:47",
+  "updated_at": "2026-11-10 11:01:07",
   "yields": [
     {
       "label": "3년",
