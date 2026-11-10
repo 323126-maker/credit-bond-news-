@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbWJPSlE5SmREZFdHV3JwV3FXVzRHdm1ObV9qeFRrS0JDZWZjazRjMTRnR0h0RmdVYXQ3RUFsNjh4TldwT3U4N3FwNXRuNWVtR2ZjX0FZVVhzSTVGRGVDVDZ1eERRaTN0NlFj?oc=5",
+        "headline": "빌려 사던 PEF → 빌려주는 PEF…크레딧 분사 러시의 속사정",
+        "summary": "",
+        "source": "www.numbers.co.kr",
+        "published": "11/10 09:06",
+        "published_ts": 1794269164.0,
+        "tag": null,
+        "first_seen": 1794270641.1598854
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aTTlOSk5zLXFGa2xJRWtGSmlpNTRYdzhfeVNVenVYYl9ocmp6dXNFV2xaTy1yMTNJMFlhdFFxMHV1b3VWdVV2OUlvOHVhS1IzVHhfNk8zTTBDYnFhRGNfM2FtM2szczh6bVVR?oc=5",
         "headline": "LG화학 2조 5,000억 지분 유동화, 27조 빚 덜기 역부족",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794184304.0,
         "tag": null,
         "first_seen": 1794199528.780842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4tRzA3bnV5NTgzaXpGczhyRXI2SnJlQjZOUkNzR2EzMHlhbG0ydER1b0tHRWt2MVdKcW4yck9MV0tmWUZDdVUtbHhWVDgxMUw4Yl95VjFkQ2JXb2ZHNmNWNmhCRGdCLW43U3pj?oc=5",
-        "headline": "은행 유동성 방어에 CD 금리 급등∙∙∙한계 중소기업 직격탄",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/09 09:13",
-        "published_ts": 1794183180.0,
-        "tag": null,
-        "first_seen": 1794184240.2909079
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 09:15:51",
+  "updated_at": "2026-11-10 09:31:07",
   "yields": [
     {
       "label": "3년",
@@ -2467,33 +2467,6 @@
         3.769,
         3.717,
         3.731
-      ]
-    },
-    {
-      "label": "10년",
-      "value": 3.863,
-      "chg_bp": 1.0,
-      "series": [
-        4.229,
-        4.261,
-        4.193,
-        4.182,
-        4.205,
-        4.176,
-        4.16,
-        4.152,
-        4.097,
-        4.074,
-        4.032,
-        4.108,
-        4.081,
-        4.008,
-        4.034,
-        4.001,
-        3.968,
-        3.887,
-        3.853,
-        3.863
       ]
     },
     {
