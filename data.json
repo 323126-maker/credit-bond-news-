@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9Eb21DRUVrQWZRazJGbW9UR0pYTmhFMmU4ZjlyYk0xTFJ5aE1jV3BmNjM0UzdjWHZzNUFwcjVsYkNIZ0IybmVvVmx3M0J5SE80LWJtQ3owTmx1X0ZTNGlrRlluWEYzSmtUQzJTOW1xdTJDQVk?oc=5",
+        "headline": "외국인, 韓채권 8.5조 순매수 전환…국고채 금리 '뚝'",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/10 13:45",
+        "published_ts": 1794285949.0,
+        "tag": null,
+        "first_seen": 1794288634.5352664
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPOWx4bVlILXpHX0tMOExaVGwza0xRY1VFcEh4a1pfSmgyZjlCTUpNM2tROU1hWDNvbkpucERTWHZYMFFQM19PNE5Ebml3dVRoX08tcW9tWHQ4bWR1TUpoZzllYXVjajBQR0lTM21yQmhEWktsZjc4WEh0R1N6aHRuRGw2aDVpZE5NaU9wVzdfajhuN2dvc2RfNDdoT1BxM0pzaFNtZnFmMFg1OTluVU9vOGtCNkg?oc=5",
         "headline": "홈크레딧 베트남은 채권 발행을 통해 4천억 VND를 추가 조달하는 동시에 1조 VND의 순이익을 달성했습니다.",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "연합인포맥스",
         "published": "11/09 18:09",
         "published_ts": 1794215360.0,
-        "tag": null,
-        "first_seen": 1794220317.432432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9OYjJ5ZmtyRldSNm9JMDVTS3dIN0J0MElnMThGUG5BeVZpMGh2RTN1ak5sOFZpaXl5UUN6WjBCS1hMaEE5NVA4WWhPT1RObzZPN0U5LW5vbXgwdmJuWkhoVUlnZnhVc0cwa0lIcFYwTnU?oc=5",
-        "headline": "[외환-마감] 쏟아진 네고에 다시 1,340원대로…9.50원↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/09 18:05",
-        "published_ts": 1794215142.0,
         "tag": null,
         "first_seen": 1794220317.432432
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 14:15:50",
+  "updated_at": "2026-11-10 14:30:58",
   "yields": [
     {
       "label": "3년",
