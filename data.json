@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPbHhIaWRzdk1aSzZmZHRVc2tnVzZkSFAzQjZtS3J3a2NwNnRKTTMwVXExRzk5cEVlQ3Ezd0xidEN0TmlCRjFlLWxtNU5VTDR0aVVZTDdZMGVDLXJLdHZEUXpTUTU3UHlYeUJaclV6Zmo0X0pwU3VJbFUxOVNOLU8zd2F6bHdLVFg1azBoWVFhVlNKWUc3dHptMEd0RFZQZ0lKZUNQTkEtaWJBV1k4SEhuaA?oc=5",
+        "headline": "Inflation remained elevated in October, cementing a Fed rate increase",
+        "summary": "",
+        "source": "Politico",
+        "published": "11/10 23:20",
+        "published_ts": 1794320400.0,
+        "tag": "Fed",
+        "first_seen": 1794321039.3614948
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTmZKTVpudjJ2UUdjV2wzTDQyNENaVWFUMjJnSkVUaDNjNElmNW5mSEFMY25rMmdJdnduakxsVy1YY3VjYzFVU2FMWWF2QlBIdDBQS0U4MlFxdzFvb3lMZkhrakd2MVRlc2pxeUJ1YkV3d0tXa3R4TXVIY2VaQzRnblhBeDhrcXo5R2tNb05Pb1BGRWktTkRpTTU4THBmZw?oc=5",
         "headline": "Hot inflation report puts Fed on track for December rate hike",
         "summary": "",
@@ -1690,6 +1700,16 @@
         "first_seen": 1794310236.865894
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUl1ZWlDZlNRcHRlbVdFQWw4bkp5OHEzM0F5b1BoYXpPNnAxLXEzY1Zfc2VONFA2MklueGhFeUltM0hLcTNFLVpUSFcyVWo5ckhXeEpveXNrM3FGM0NqLUZqaXMzSHQyaENfU1ZMbkNaNjVUOTZlUlNIMlRqYjZsQ2M1ZWw3UmZDbkR1dFBjdUtEVDRRcVh3OQ?oc=5",
+        "headline": "US CPI Spurs Rate Hike Bets; Stocks Dip, Dollar Jumps, Yields Up",
+        "summary": "",
+        "source": "Global Banking & Finance Review",
+        "published": "11/10 19:52",
+        "published_ts": 1794307964.0,
+        "tag": "Fed",
+        "first_seen": 1794321039.3614948
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMWRZU0pVdkJiU1J1MUdOX3Y5QVF1cHpRdG5zTndjOE4xaWhuVFVWSzFZem9zNHdFVjBhYk5TZFN1VEN2RnZfdF9UV21Za09HM2hZTGpMXzUzTG01ZzZ0QzFrNy1NZENQSEsyQjNCb1plSWtWX2lSQW9xSzZXbk5zelQ4S01mRmVqMU9NTzhHb3ZWbW9yUVdOMkhLemVTSmlUNGg5bFNXTjRiVmFYenVJekRkeXluZVNhVVZNYWdYMTc5MDM4NnV3RldkSW5hS2c?oc=5",
         "headline": "Fed's Waller backs a December rate hike and says a half-point move should be considered if core inflation runs hot",
         "summary": "",
@@ -1718,6 +1738,16 @@
         "published_ts": 1794304909.0,
         "tag": "Global",
         "first_seen": 1794305728.742732
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1hQ2VocEMwbF9sbmZmWDBNckVBUVVzQUU4bm9OZE50ZWhsUVhlQU9rMHJoYkZkXzZRVjdtbWR5VXFnYnJwMTg5VE8wRlVwMEhkakVJN0IyRGVrYXItUGtlWElCekdSZ2VnbmV5Mm1KZEl6UFHSAXNBVV95cUxNYUNlaHBDMGxfbG5mZlgwTXJFQVFVc0FFOG5vTmROdGVobFFYZUFPazByaGJGZF82UVY3bW1keVVxZ2JycDE4OVRPMEZVcDBIZGpFSTdCMkRla2FyLVBrZVhJQnpHUmdlZ25leTJtSmRJelBR?oc=5",
+        "headline": "신현송 한은 총재, BIS 핵심 위원회 의장 선임… 비미국·유럽권 최초",
+        "summary": "",
+        "source": "한국일보",
+        "published": "11/10 19:00",
+        "published_ts": 1794304800.0,
+        "tag": "JGB",
+        "first_seen": 1794321039.3614948
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNXVKNll2bkFUUU5EVDg4eTF6a3YwZ0pIS0d4bGFTdkItMkl3SkFCbGRiZFdzSmlidHZZN3I1YzF1VkVXYlM0dDJrRlRPeDRGYXp6cVBuRGVjbl9vNWxrdlRYLTl4NTRxMnRFcGtuOUROekFvUUsxdTE1R3IwWmRKRVlUVFpFTlY0WXNlWTZTa1hIdmV1?oc=5",
@@ -1978,36 +2008,6 @@
         "published_ts": 1794282646.0,
         "tag": "JGB",
         "first_seen": 1794283242.1227396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOWVFVeXNqektWa1lVRHVKbG5xUEtGNDh6dlFYT2l4dFhRSzVZZXJfeWYxeUtiZ1gwa1RiNFMwd1hjSDRHcXhoeWRsN1l2LXpiN09MalIyZ2wwZGlXVkxXU1JzY2ZwWEFJcjZqYmxfYmFkbDVOS0tLTWFWM1daNWRIMGlNeXdLVHIza0pXUWZoMA?oc=5",
-        "headline": "Thai Bond Sales Seen Topping 900B Baht in 2027 on AI Build",
-        "summary": "",
-        "source": "FourWeekMBA",
-        "published": "11/10 12:14",
-        "published_ts": 1794280486.0,
-        "tag": "Global",
-        "first_seen": 1794307528.6443048
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE45NndiREpDQ3lFZnctSFVpVjlVYXhQUG9mMEEzRVZaOVlOR3dmR3dqN1FrdldTeDgyT09YUFJhd2oxR0lpZTRFYVpFWlNpUl9uT0FtcGstb0RlX1NUclJtcjB1R1E?oc=5",
-        "headline": "\"Stock Market to Rebound in Second Half of Next Year... Semiconductor Cycle, Foreign Demand Key\"",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "11/10 12:10",
-        "published_ts": 1794280258.0,
-        "tag": "Global",
-        "first_seen": 1794280531.388178
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE94WkFXRHV6SVg3enAyd0tTdktabHVRaDh1RzRWWHdQOUIxSVNNcHlmNmdKT0JtMTBlQTVrdVp5aDE4cU1rblNobnQ4VVlsMmVyY19WX0xOUkRBTVMwZ2hIeHB6U3h1aU1rOEZrblZXRkJYVzI2?oc=5",
-        "headline": "Japan’s GPIF and the Yen Dilemma",
-        "summary": "",
-        "source": "IndraStra Global",
-        "published": "11/10 12:08",
-        "published_ts": 1794280080.0,
-        "tag": "JGB",
-        "first_seen": 1794280531.388178
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 23:15:53",
+  "updated_at": "2026-11-10 23:31:04",
   "yields": [
     {
       "label": "3년",
