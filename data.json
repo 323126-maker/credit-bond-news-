@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB2NnlCUmFNSXJCbUJDckVXbmVTMkdGalBMSVdPQXdPazRUMzVhMEhLWUQ4NE0xQ1ZNbzMxS2c5QVVCMEM2TzlPcVQ0NFBQeFI4Q1hrMQ?oc=5",
+        "headline": "[채권마감] 외국인에 멱살 잡힌 금리, 국고50년도 4% 하회",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/10 17:14",
+        "published_ts": 1794298440.0,
+        "tag": null,
+        "first_seen": 1794299439.8961082
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByM0JUVzJDWWVCQlkwWGtpQnJnbG83LUlYT3dtbWREb0ItVDJERjU1YkkwcVZuS3FBVndBenE0X05aX0xKMGtWSXRLOUNyZ19oMGJBSF8xZll0M0c4UUdkMzFqUHJPWHpPMlM0aHdzckJQdw?oc=5",
         "headline": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794229749.0,
         "tag": null,
         "first_seen": 1794230127.0951734
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUHFTQzFXMFlIUW9vUGZ3bGU2MEduUllLMURQWVNxVm13Sl84WTBYby1yb25qNUdFN29pWWFIWXYwdjEtMUZTeF9yQU1xdTRmVDhNNVlXbUJKYjB4cFBnU0YxLVFxZnNXdUtabGR6X0w5UkEyY3FUeXBvcmlCTkVieldrWEYzWEFITkRtMlVHSzdaRUx2bkxhanZPaGdvOHc2Um8yY3plMVktWDJuQ1Q0NElSTDFDZDNBTDhnUWln?oc=5",
-        "headline": "CoreWeave Borrowed at 9% Earlier This Year. Its Debt Now Yields 15% Going Into Tuesday’s Report",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "11/09 21:18",
-        "published_ts": 1794226681.0,
-        "tag": null,
-        "first_seen": 1794227438.353179
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 17:15:53",
+  "updated_at": "2026-11-10 17:30:59",
   "yields": [
     {
       "label": "3년",
