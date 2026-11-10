@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTWR3cTJQUWhlNzNPYlBPMXUtclRGOEwtM2NybG1SWC1QMjBVYWFyTVJITFJkSlFsZ3d4Z0t3aVZTQnZpRXFvdWxPeDMxMHlCeV82Vk5mTVBUNTdUOTBFei1qVVpjRUZwRXlwY1RGRHVWdw?oc=5",
+        "headline": "금융위 \"증시 변동성 관리...사이드카·고빈도매매 점검\"",
+        "summary": "",
+        "source": "디지털애셋",
+        "published": "11/10 17:40",
+        "published_ts": 1794300000.0,
+        "tag": null,
+        "first_seen": 1794300328.2694757
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9HWUZKUThybGliU01IcUxsekdLZ2YxNDdDMTgyU0NrUGtfRjZiVG9taVZjMU9EUE1ZLWRuYXBNQnZSSmxWNmlPTjZYSEc1cHZwbDJsT0dGdGNLVzRxUTdGWGpPYzd0eTZ4VWQtNW9qZ1dGNTZv?oc=5",
         "headline": "주가 급락에 한은 금리 인상 브레이크 걸릴까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793863965.0,
         "tag": null,
         "first_seen": 1793864730.8420725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81LWtreHNVdW5UTFZXZU9ZNVhrUUlwMVJFTE5HMk85bnRiWXZSdEdNNUxWSEFNZkx0RndwWXhEek5CbTlTclg2bXgxLUp1WlVNcUp1dzFKVW1VbFFlMUtSM1NpLVVyUmFYQS1fYnNrT1jSAXRBVV95cUxQSGJLZF9sN0YzYlhpODhoLUJadTNZSUkzUlRMOHZBRUV5aHgxUC1LZ0dXQlRjM2ctZFg2c0ZpNmhhYW5Fc1NfRDdqaERFN1lLc0FkWjRYSjMyUV9vMHQxanJMMG9FZkQwZ201VEU0UDRuMzVpNA?oc=5",
-        "headline": "美 중간선거 이후 금리·환율에 쏠린 눈…韓 금융시장 향방은",
-        "summary": "",
-        "source": "스포츠한국",
-        "published": "11/05 15:44",
-        "published_ts": 1793861064.0,
-        "tag": null,
-        "first_seen": 1793862043.6534884
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 17:30:59",
+  "updated_at": "2026-11-10 17:45:49",
   "yields": [
     {
       "label": "3년",
