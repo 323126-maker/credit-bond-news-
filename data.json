@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8xdHZvaDJvYnFzUENtNGlNbXpXdi1UOVpQeVRiU05KWEtVbjJ1akw1akpsLVBUcWVTWWdXMWhScmlWbTFlN1B4Rk5JOFV0RERuajFTZEVQdVlCS2JfbmxTYlJZVDI1Wnl2RUo1Sg?oc=5",
+        "headline": "[현장] \"내년 증시 하반기 안정화 기대…반도체·외국인 수급이 변수\"",
+        "summary": "",
+        "source": "뉴시안",
+        "published": "11/11 06:42",
+        "published_ts": 1794346975.0,
+        "tag": null,
+        "first_seen": 1794348046.1248097
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52SERVcGpYXzVHbDlsckhZbmJ1VTFTVHhySHBaZEtfZU85R3U2dUxacU8teFJJTzVDTmI2N3FsakNTZENJZFhnbG8wQ0doZjlOYzVoUjlBb0tVR1FsVTZwVlNNeWpjUERBbWZuWG91MnpTSE1J0gF0QVVfeXFMTnZIRFVwalhfNUdsOWxySFluYnVVMVNUeHJIcFpkS19lTzlHdTZ1TFpxTy14UklPNUNOYjY3cWxqQ1NkQ0lkWGdsbzBDR2hmOU5jNWhSOUFvS1VHUWxVNnBWU015amNQREFtZm5Yb3UyelNITUk?oc=5",
         "headline": "코스피 급락에 외국인 채권 '8.5조원' 순매수…국고채 금리 전 구간 하락",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793919600.0,
         "tag": null,
         "first_seen": 1793933125.492655
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51THRMaXFBRU5hQzc5SHhFSzBQRFAyalBTN19aWjhIVDdwRURxOXpRWmMzaGdXTmlmNVlOTnZmZmhFc0tfaTRSaS1YeDJhUEhkcTc0eWsyQmZVSEhrTXR1ZGJsM2Q3Y2JsLS1hNUFR?oc=5",
-        "headline": "[채권마감] 국고3년-기준금리차 9개월래 최저 ‘미·이란 전쟁 직전으로 되돌림’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/05 17:34",
-        "published_ts": 1793867640.0,
-        "tag": null,
-        "first_seen": 1793868328.5699804
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 06:45:55",
+  "updated_at": "2026-11-11 07:01:07",
   "yields": [
     {
       "label": "3년",
