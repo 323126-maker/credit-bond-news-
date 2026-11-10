@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQOEN2SVIzQmppcXREV0sxNE0tejFxYkt4VGpxemtVbVV4R0ZPTVFyVWV0azNTLUxCSkxUQWxxN1plZEpfZ1ZCRHUwNGhJV0k3c2owTWVRaEpfb3JMN09jV01jTkNJcmNidl9FTFhid1JsUmw4ZnVXSjVDRXZzWlM0NnRmRnEybjc5MG1Hb09KQXRsM1lFR0FVUThGVUZjdTZLd2lUZDl2WTB0UQ?oc=5",
+        "headline": "For Trump’s Fed Ambitions, a Democratic Senate Poses the Biggest Hurdle Yet",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/10 14:44",
+        "published_ts": 1794289480.0,
+        "tag": "Fed",
+        "first_seen": 1794289529.9787722
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcDNtUF9Td0VmVkZmWEc1OUZIdnJsYzc5dUpRM2hxOWJtSDFRSVJjcGJJOUxaSVRSZlpfcU5wQkVnRThzV0x3bkpHejlWTWJvbTZTVVQ3RVg5dEFnWlB6V2NYbEhBdkk4MFJIcXA2SndIbTdORzh1U0JfcTdMVUpqaw?oc=5",
+        "headline": "소득은 늘었는데 지갑 닫은 일본…9월 가계지출 6.8%↓",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/10 14:28",
+        "published_ts": 1794288501.0,
+        "tag": "JGB",
+        "first_seen": 1794289529.9787722
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaGgwRHFUc1RJZVY3QzV6OWl4QlBTcHdoaGppc0MtMzJLdDZ6dElValUxUW5icndQMWJmTFVldHdKMUNKOGJsSkJvREYzVWJNQ0xpQVhiVE5URW95aFZiSTVvb2hzZWp4WVU4aWJ5MHdUZHdCVXdvbnlHMFlFb2tkMzEzeHV5eDBibktqdE9BNlFiZC03ck9TMG9LcjVzZ2pRZW5XUXJhYV96WXdtMGd4Vk9lU2NIbXNGWkRHUU1DUXU0Zw?oc=5",
         "headline": "Japan 30-Year Bond Sale Sees Weaker Demand Than 12-Month Average",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794236700.0,
         "tag": "Global",
         "first_seen": 1794249068.2129533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
-        "headline": "Weekly market commentary",
-        "summary": "",
-        "source": "BlackRock",
-        "published": "11/10 00:02",
-        "published_ts": 1794236546.0,
-        "tag": "Global",
-        "first_seen": 1794239129.513365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZF9Jal8xdmV3R01oMkFQdWZKZ21EVDYzMk9teldCODFzR0lIOGRsZ0VIbjh0WTVrcXBERFVhcmlNWkVzcGpackpzWm0yZ3F2eGZoVjZiVHRXRVAyd2RuRWhkMHFFSy1kTjR1MnRKYTRYdVFDLXFKUFIyYjdTVWpxaVppNWdFRnpPczhWd3VxZ2V3eG1FdGp2RTJqOVdxYVFrckMtbEcwTXJ4NVo5Mm4xRFdoSXJpaFVY?oc=5",
-        "headline": "Bill Gross opens up on Asperger’s and the end of his reign",
-        "summary": "",
-        "source": "Citywire",
-        "published": "11/09 23:57",
-        "published_ts": 1794236234.0,
-        "tag": "Strategist",
-        "first_seen": 1794242730.4746642
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-10 14:30:58",
+  "updated_at": "2026-11-10 14:45:51",
   "yields": [
     {
       "label": "3년",
