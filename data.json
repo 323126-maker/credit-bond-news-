@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmdEdU04T1p2Yk5rZXNYbktTZTBjSzdUbFhlZElnRm1ET0RvVkM1SHJ1OFdBOEZlWW5lZDBhSmpMeVZZVDY5ekpwcjdqOEZyY3UxcnBpQ25qV3pOejQ3aHFBajdNUkxDNy1iRGU4aEw1cTZBWE9MWG5MZDVyQ3c3U3hwMS16N2FjYjRCNVBUa3Q2Nkx1SWU1UnZWUWl3UGlqWEJJLTJZYUVKZmpDVUpOc0ppWXZXYmdU?oc=5",
+        "headline": "A 50 basis points rate hike? Warsh’s Fed has a communication problem",
+        "summary": "",
+        "source": "The Globe and Mail",
+        "published": "11/11 23:25",
+        "published_ts": 1794407109.0,
+        "tag": "Fed",
+        "first_seen": 1794407435.4614897
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR2pYNFVkWHdXbzVpREpTZUN2Q0x3MktneUNyMnNHUVRuc0NvakJsNUZXeUdGTnc0akxfaTVFQnNYTnNyX2VhcUlNXzh2M2ZyUlh2RnJPTjVtLVFRR0g3VGNlSHBjYk0wZnJVZ0ZVelgzZWlieHlDREZ5WHU5c0FjLTZGdVlwLUltYVQ4dVF6emRuUkh3WGVIaE1pS3pGUTE2dVhyclFyUzA?oc=5",
+        "headline": "Fed Chair Kevin Warsh Reports Up to $900,000 in Pet-Care Investments",
+        "summary": "",
+        "source": "Quiver Quantitative",
+        "published": "11/11 23:07",
+        "published_ts": 1794406020.0,
+        "tag": "Fed",
+        "first_seen": 1794407435.4614897
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPY3hnM195bV9HQzJrQU9EQ2VpMkZKMU1ISDBTSW1tZV9meVp3ZmRGWnVtUHRTTWhqVHFCRGRfRXNQczlPZzlDekxucl9nMklKSm1IUlhNdW00Yzdra2VvZ2tHZzlwejNRZ0V6YjBMaS1RUGJNbC16V0FSTERjLWFtb1ZXdC10TUxsd0xMUXpQNkpKVXRLZnJ0NmgtOEJSaFJQa283M19UcVRUTS1aMDBQYldrU1I5RVRjU2ZkVmU5QVJ1eTBINnlHVWpfZzBSeXo5SjVocFF3?oc=5",
         "headline": "Warren Buffett's Berkshire Just Bought $600 Million in Lennar Stock as the Housing Market Weakens",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794363720.0,
         "tag": "JGB",
         "first_seen": 1794365125.9340434
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSU9raW8wam5mYkJnVUdDWWNoUFctY2NkY0txZDJsMEtmNVBwZ3VBd25tbDFBazNHS3ozNHBPWldBZzRpMHFfZUJUbnhZTFY2Q2p6TUdDMU0xOGw4MXVvN3ZHT3J2UXMycGRua1huV2M2SnZmZlhraVpEUDRFV3o1eTFiQUowOWp5dkl2V3RudEVvcU9YMDlXX19sWlFRcUxkekRPSzFGVnB6SUdjenN3b0hMdHhha0daZTBsUGVlVHpISTVXNXhqOXNEa2dPVnJ3ZGJNZTRmWkhNZHVkeTYw?oc=5",
-        "headline": "GOOGL Stock In Focus: Waymo Recalls Thousands Of US Robotaxis Over Navigation Issue",
-        "summary": "",
-        "source": "Stocktwits",
-        "published": "11/11 11:16",
-        "published_ts": 1794363411.0,
-        "tag": "Strategist",
-        "first_seen": 1794383125.6473842
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vc0xzTFJhbjg4ZlEzUFljUkxrQ2NqeXBwQ0Zpa0xGZzZRVDBKLXpoTl9xMDNubXFEdkRRd1Vjb2xneHhvQWI2Z193S1MxUXNzZTRSY2RIbVJhc0hPMnFCempDTnNrNmZzVDllaHlhNEZxZw?oc=5",
-        "headline": "美 금리 급등發 약세 속 코스피 반등·외국인 순매도…국고 3년 3.7%대",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/11 11:06",
-        "published_ts": 1794362762.0,
-        "tag": "JGB",
-        "first_seen": 1794371436.2063503
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 23:15:54",
+  "updated_at": "2026-11-11 23:31:00",
   "yields": [
     {
       "label": "3년",
