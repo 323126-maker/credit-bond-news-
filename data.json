@@ -2042,6 +2042,16 @@
         "first_seen": 1794392128.782026
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBGNjFDdll1dFFCc2FCNFpPZlFXQlpRMS1tQzlUNXczcU1BUHpXei1IVG5RNzFIT05RNktKTC1DdWJsSkhCQlk2cENJeXdTemFKdlozWkd0ZTlzbTJSTlBLTEI4QkZhTGNp0gFrQVVfeXFMUDYwMG5hZ2tTbFZzYTV4ZUVoZDBHc05DcEgzMEU2elpRU0xHcmV6NjhCbVlmaTRKOVlCV1ZjRkFNeERwSmlvcWdWUEV6U3U2QzFYYmlncE9rbHFRUjRkRk9FQlBwTmdYOC1IZHc?oc=5",
+        "headline": "Sh수협은행, 예금토큰 기반 해외송금 실증사업 참여",
+        "summary": "",
+        "source": "현대경제신문",
+        "published": "11/11 16:00",
+        "published_ts": 1794380458.0,
+        "tag": "수협은행",
+        "first_seen": 1794393034.3615677
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUEVja0JzcTZIcFZab0h0SGdrWXRQT2pLMUhjQmpGeGZYQ3Zqb1FnNlEzQzU4NnZyQzNyV1E5d01Fdms0V052TExnN1dRcXlzRnFobVVEOUVaVTg1bVV6cU9Wd2EyWk1x?oc=5",
         "headline": "수협은행 4차 행추위, 차기 은행장 선정 불발…내달 재협의",
         "summary": "",
@@ -2400,21 +2410,38 @@
         "published_ts": 1794210696.0,
         "tag": "삼성카드",
         "first_seen": 1794211245.0155542
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1iZ1dRSllYcjZDa0RIbF9jY0c3NUFZbGJNOXdNMlNoQ1RQM0JPcDFfbUR0bTRuSWxiS0ZmVW9kbnVtUGtCRXdVNVJkTXhxRl9Kdy1iQm0xN3hqaFAzdnBPU2FicFNhby1vQk9N?oc=5",
-        "headline": "고금리에 짓눌린 카드업계, 조달 역량이 실적 양극화 불렀다",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/09 16:43",
-        "published_ts": 1794210180.0,
-        "tag": "삼성카드",
-        "first_seen": 1794211245.0155542
       }
     ]
   },
-  "updated_at": "2026-11-11 19:15:51",
+  "updated_at": "2026-11-11 19:30:56",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.729,
+      "chg_bp": 9.6,
+      "series": [
+        3.867,
+        3.854,
+        3.877,
+        3.84,
+        3.822,
+        3.84,
+        3.803,
+        3.789,
+        3.758,
+        3.799,
+        3.766,
+        3.715,
+        3.74,
+        3.736,
+        3.714,
+        3.669,
+        3.613,
+        3.639,
+        3.633,
+        3.729
+      ]
+    },
     {
       "label": "5년",
       "value": 3.81,
