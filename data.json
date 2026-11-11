@@ -272,6 +272,16 @@
         "first_seen": 1794278727.4927802
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE50QVlnNjVGbjg0aFgwUzFzNzhrcEtqOHJhNFlZdmRYMTJId1hCa2JCRGVCXzJhenZ2N1RBR0xScjV3VU81M0loSzFhUnZESHNpX1Q1QW1VaFZHQjdxX1VJMlFhUUhvQWhzQ2RkXzVMVXZfdw?oc=5",
+        "headline": "흑자 내던 美 인수금융 합작사 접는다…한투증권, 해외 IB 사업 재편",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/10 11:18",
+        "published_ts": 1794277100.0,
+        "tag": null,
+        "first_seen": 1794355244.0253537
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96YUNTNTZvY1FSMXdrazJndWVNeVVLRThVSEFqWFpJekFrcVp6UHpNNUlxVFp3RlNIT2QyQmY3dEVZeGlPVE1SNDFxMjVEc0p1WEJqdUxOaFE1MEJ0QWxOc0RVSkV1MVRQSkw3eGdyVmI?oc=5",
         "headline": "주가 급락에 FRA 예측 최종금리도 3.25%로…채권시장 시각은",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794270817.0,
         "tag": null,
         "first_seen": 1794275126.6971478
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SbWJPSlE5SmREZFdHV3JwV3FXVzRHdm1ObV9qeFRrS0JDZWZjazRjMTRnR0h0RmdVYXQ3RUFsNjh4TldwT3U4N3FwNXRuNWVtR2ZjX0FZVVhzSTVGRGVDVDZ1eERRaTN0NlFj?oc=5",
-        "headline": "빌려 사던 PEF → 빌려주는 PEF…크레딧 분사 러시의 속사정",
-        "summary": "",
-        "source": "www.numbers.co.kr",
-        "published": "11/10 09:06",
-        "published_ts": 1794269164.0,
-        "tag": null,
-        "first_seen": 1794270641.1598854
       }
     ],
     "perpetual": [
@@ -1750,6 +1750,16 @@
         "first_seen": 1794333644.011207
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZXZVZUUwcmZDcnFVdXY5cXFmRC1HUDk3b3VBTGlmSUczTGgwQjNLSlV0V1kzZ0dpTjh6eFlTaXM1cE1Ca1ZnN2trejVXei02X091ZjZEOFJ6MS1rWkxteXFSdU94SjY5UWtvV0FzdkpaWF9KTGl4cENBTG8wTG9oVlkwd2ptNm9CME0ycmhtLURNNUlxcXlwV0dJUQ?oc=5",
+        "headline": "A Jumbo Rate Hike Debate is Brewing for the December Fed Meeting as Bond Yields Rip Higher on Hot Inflation Data",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/11 02:41",
+        "published_ts": 1794332487.0,
+        "tag": "Strategist",
+        "first_seen": 1794355244.0253537
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaW1acDFDUWdWS2Z2MTd0ZWdsY3BVVnFWNjMxdG9OeUpBMTJ3TkUzRFdydkMzUExKMjFOY0h2S1pSUXMzQnNqWmQzR2RNb2ZCekFpZHJvNFRvVWZ3SWtxRmROSlZDcHQxd29saU5PbWNfRWhMWVdwZHhDRmhaVkxMYkQ1MnBwVEpOb01EOGF3WDlnMjB3TVBr?oc=5",
         "headline": "Fed Officials Signal Possible Half-Point Rate Hike in December",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794318780.0,
         "tag": "Fed",
         "first_seen": 1794320131.8343987
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOLVJkUmZZZ3R3RmtzNkIwYnpHdmd2dVVNSVBlS3RpWGNhcjFTYXZXbk42QmJPdHBDOTRYNnJRVkt6WEp5ZlBEd0w4ZGwybHo4QTVtVXk3YUpIdmVvaThNdnNZTXNJNlpIYTk3ODQ1LWVvMGxNaDZaLUNBZGJjMURXTURrZW1hRjJRcm9kMFNDbldkVlpLY2c?oc=5",
-        "headline": "Trump Blinks as Big, Bad Bond Market Bares its Teeth: McGeever",
-        "summary": "",
-        "source": "EnergyNow.com",
-        "published": "11/10 22:44",
-        "published_ts": 1794318292.0,
-        "tag": "Fed",
-        "first_seen": 1794331836.1224282
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 08:45:54",
+  "updated_at": "2026-11-11 09:01:08",
   "yields": [
     {
       "label": "3년",
