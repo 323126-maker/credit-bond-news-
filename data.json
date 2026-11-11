@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ub3BTR0R5ZTByOURGcVloTjR0N0ZxODdfMEtFOUtMeG9NMXRLencweEhjQUYxNlBTSnEtT3pxNzhTb3JWRWFwNDcwb0J3M281Z0hfTGxwQTdhVWcwUnRmVTZRdGpybmp3ZEdXQUlRbkgxUQ?oc=5",
+        "headline": "[채권-마감] 美 금리 급등·공정위 PD 담합 제재 여파…3년물 9.6bp↑",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/11 17:08",
+        "published_ts": 1794384488.0,
+        "tag": null,
+        "first_seen": 1794384928.739307
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9mdkwyaHVPUGJFdU1qMGZ4NmFrb3NDYTlySk02azVQR25KWFZTajBta3prYWtJX3VibnUzRU1EM3dGZVhpbUFxd1pPSHFaYzA?oc=5",
         "headline": "HD건설기계, 합병 효과에 '엔진' 성장 가속…신용도 'A+' 안착",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794289143.0,
         "tag": null,
         "first_seen": 1794318328.0213535
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1la2dkazJzNjlHVnFqZml1TDZxbFE3RGdWb2xxZFdiSGk3LXBHRklTc1owUWRwVkNxWlVwTW5CUmphVEs2U29lRkZpWl9mbk1DRFN0bnlqbnNLdFF3NnY3azVnRDk5NnNieElhNk94NVJ1WVk5OTRn0gF3QVVfeXFMTWVrZ2RrMnM2OUdWcWpmaXVMNnFsUTdEZ1ZvbHFkV2JIaTctcEdGSVNzWjBRZHBWQ3FaVXBNbkJSamFUSzZTb2VGRmlaX2ZuTUNEU3RueWpuc0t0UXc2djdrNWdEOTk2c2J4SWE2T3g1UnVZWTk5NGc?oc=5",
-        "headline": "금융투자협회, '2026년 10월 장외채권시장 동향' 발표...채권 발행 91조원",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "11/10 14:10",
-        "published_ts": 1794287417.0,
-        "tag": null,
-        "first_seen": 1794290440.1055262
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nZmVqVVZ3c3pyNmhhVEFSeHUwcXN4VXVpUmJxZ2FhejdIWEgzV0ItSDNYcjR3TndpMTNkbnd5VE9CVXpxakZBOXp6a3VzdFNLbWdPVk9KT04?oc=5",
+        "headline": "Yen slides on U.S. rate-hike outlook, nearing 159 per dollar",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/11 16:33",
+        "published_ts": 1794382408.0,
+        "tag": "JGB",
+        "first_seen": 1794384928.739307
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLNm1ISDY5eUFiaGhrSG9ZeUtfMmF5dG1KbmRaV1d1VG9TOEtBZFI5UTNnUlhuWGJoTlZ6UlQ2N3pIM3g2NHc4bE5zRDJEVGZYcldIazdIQVhfUQ?oc=5",
         "headline": "美금리인상 전망에 엔화 가치 뚝..달러당 159엔 턱밑",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1794381236.0,
         "tag": "Fed",
         "first_seen": 1794382236.5634575
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV0x0ak5pTlFSejJaTk96eW5PRW9paVN2d3NTaWRtdlJvZWZtTFJtbzVNR0hOR3ZZX1NkcnVRZExPYjhuMW52WTVlaUUtNkdtVWRvdEF3NXNoOXVrZF82RV9uN3NnenVTREpVQXBVSU1uSEZ4OHpOR2p4ZGpQUklBVVM3VFZMQmc5T2xUMS1rYkFnTG8wYTJreUZPU2d3YXpkaUpEajJnYVNYVkhiOV9UaFRSeU1udUE?oc=5",
+        "headline": "COMMENTARY: Bond storm of 2026 may be passing, but Fed gusts linger",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/11 16:00",
+        "published_ts": 1794380400.0,
+        "tag": "Fed",
+        "first_seen": 1794384928.739307
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNFpBLVFiSmhuZGxNdjZ4WUE1eEZZVzlpcElqQ3FpX2hfRVVkaVdncm5Ic3J4TFdMVTVPODFqV1dYWTJORmx5c3lTMHg1ZUtiZml2ZUVOZm1WQnlCa2lKcUt3M0tjQUsyVVNxQlVySk5TbHRqZHczYVFDTnU0OGZjMjBBWUFqZ2JpNFNhb05nX01EU3dX?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1794336067.0,
         "tag": "Fed",
         "first_seen": 1794337244.932238
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOamZXX2dXT3BmY3J3eGdZVFBGdFZhZm5Obks2MDJhLWtJbjFLdjZOQUN5Z1JwemQ2MnBmckVhQjZxa3VfZ3BHYk8yR2FhaXJZVHlPTUhfVDZ2OWFPVzQtaTVKWjZ1eHZiS2tPUFhRN1RIS1JCTThoUjlrb3ROYlRLd2hDT0ZWbmNVRnBwUGxHQW9SODcyR3dUbEdrdlBOcGtRc2xQSWxoaHdXekZOTUFlLXJ1MDVPVkk?oc=5",
-        "headline": "Falling Oil Prices and Bond Yields Offer Investors Some Relief",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/11 03:38",
-        "published_ts": 1794335901.0,
-        "tag": "Global",
-        "first_seen": 1794339930.137626
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNlRhVE9iTjNnWVNSQnU4YlZJYTNyajB3T3Z5Yy1rRUdOSElpZFE2ZEpqa0pJRTQ1ZlQtZHo2c2FSUzJBcUtLdmg4NzZzYnBCcTNpVUh4Y0lUV2x6VTNyOFdsQzdNakVRbW85RGZ4WDcxclNjZDdzYVF3dGtLSldLNkNR?oc=5",
-        "headline": "'There's No Credit Limit, The Bill Never Comes' — Howard Marks Says America's 'Golden Credit Card' Now Costs $1 Trillion in Interest, More Than Defense",
-        "summary": "",
-        "source": "Yahoo Finance Singapore",
-        "published": "11/11 03:30",
-        "published_ts": 1794335409.0,
-        "tag": "Strategist",
-        "first_seen": 1794342641.0299244
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yTkliVjBPY3Q1S3NwOHNOaHUzMUxmeTBGWUV2akJEbXZITWtWSExNRHZrZnZTNkpPVk9FMFZaaVNkLVJaaGRrU3pkclRKMjhtSlFtd1JYQzVYbVlXUWNxd003cGJCZlAyNFhicV9jTVM?oc=5",
+        "headline": "경쟁력 입증한 KAI…KF-21 날개 달고 내년 전망도 '맑음'",
+        "summary": "",
+        "source": "1코노미뉴스",
+        "published": "11/11 17:09",
+        "published_ts": 1794384541.0,
+        "tag": "한국항공우주",
+        "first_seen": 1794384928.739307
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9oUEVja0JzcTZIcFZab0h0SGdrWXRQT2pLMUhjQmpGeGZYQ3Zqb1FnNlEzQzU4NnZyQzNyV1E5d01Fdms0V052TExnN1dRcXlzRnFobVVEOUVaVTg1bVV6cU9Wd2EyWk1x?oc=5",
         "headline": "수협은행 4차 행추위, 차기 은행장 선정 불발…내달 재협의",
@@ -2400,20 +2410,10 @@
         "published_ts": 1794188640.0,
         "tag": "삼성카드",
         "first_seen": 1794232845.0360532
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9RVjhDNVdKem5BNlFMbW1rcHZrSU1MOUVpZFYzUmQ3SGo0aUdOR0lwQ193V0VHaUFwaDVnMFloT25HeDAyS2ZhblRYeTRaZW53eHVRWmFLWUk3andjQW9nSndpZjdMU01zdG9Sc2tXZ9IBb0FVX3lxTE9RVjhDNVdKem5BNlFMbW1rcHZrSU1MOUVpZFYzUmQ3SGo0aUdOR0lwQ193V0VHaUFwaDVnMFloT25HeDAyS2ZhblRYeTRaZW53eHVRWmFLWUk3andjQW9nSndpZjdMU01zdG9Sc2tXZw?oc=5",
-        "headline": "네이버페이, 서민금융진흥원 ‘사람 살리는 금융’ 캠페인 동참",
-        "summary": "",
-        "source": "한스경제",
-        "published": "11/09 10:27",
-        "published_ts": 1794187640.0,
-        "tag": "현대카드",
-        "first_seen": 1794191433.1609013
       }
     ]
   },
-  "updated_at": "2026-11-11 17:01:05",
+  "updated_at": "2026-11-11 17:15:49",
   "yields": [
     {
       "label": "3년",
