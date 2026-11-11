@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYlJ2cXpmdkEtM0g5WXRmVFZVWTloWFRaNHQ0NG1pX05Oa0dUSkRSM2h1eVhfcjF3OXppNGEydVNoSFE1WDdSazFvS3dXV0pVbzVtb2FNYklkb3JQU2tndV9nOUhaNnJHR3BhcThmLVJsZzlYQjluSHFvTjFwZEJuUTZLcTFTN0UzTE9pR1BPU1BXSkthV3haVGdad0pWdzQyMzlHRDRkME5sSFJaSXliaEx3RUR0MDZyLVZNanBjdV9CdXRnNDNPcDZkcUVkTWhadXBrWUtQMXc?oc=5",
+        "headline": "Inflation jitters throw wrench into US Treasury auction amid jumbo hike fears",
+        "summary": "",
+        "source": "South China Morning Post",
+        "published": "11/11 16:13",
+        "published_ts": 1794381236.0,
+        "tag": "Fed",
+        "first_seen": 1794382236.5634575
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNUnhteHBPQ3RaYXMxMDdBT1hpdTA3S3A2b0NIWmNhUnAwMzR0RmhEYkQtLVhkX2pFMHQyejN2aGg4NWplbWY2ajFCTWdQRkNtaEdzMkVMY1hsM0ttM1djRFN3Z0lHQ3NnZ0N1UjZRLTdFbEZRZ0VxM2owc0ZOUlBSMXZnd3RfY1ZMMHZ2ckJsZXRZUHY1Vmo1QVZrQnA?oc=5",
         "headline": "Dollar Rises as Fed Warns of Inflation Risks and Rate Hike Bets Grow",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1794378607.0,
         "tag": "JGB",
         "first_seen": 1794379351.0907855
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VHVSSE9UNmhMakpLZVF1ZWd6WXdnN05fLWtOQ2oxQ21MQy1lc085SzZjWjRXV1hxWUNFMFRRU20zLU1hcGxKRnliUDdjQTdpTUcxMGNXNkU0UQ?oc=5",
+        "headline": "Japan’s 30-Year Bond Yield Rises to 3.865% After Recent Auction",
+        "summary": "",
+        "source": "www.tokenpost.com",
+        "published": "11/11 14:48",
+        "published_ts": 1794376099.0,
+        "tag": "JGB",
+        "first_seen": 1794382236.5634575
       },
       {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTy1Ca0R2cXFUQ202eVNOa1hNc21JQkRraWRXc3RMNzdrUUMtVDJKNUdKVjZPN2NiZ1h4TVB5S09QU1cyWkk5bkNpSDhBOWJtbGVhOVZGYU5aSEFuWU9jMUxBVnd1NUpfR1RaQ0QwWEpub3BudU1uUmlWbEFZV2RQMEVNMXA3bVlKMVYweEhOaGZuWG0zeG9Xalp6ZHo2UHRfak1OeGpLMnBTY0YtdW1F?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794332487.0,
         "tag": "Strategist",
         "first_seen": 1794355244.0253537
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaW1acDFDUWdWS2Z2MTd0ZWdsY3BVVnFWNjMxdG9OeUpBMTJ3TkUzRFdydkMzUExKMjFOY0h2S1pSUXMzQnNqWmQzR2RNb2ZCekFpZHJvNFRvVWZ3SWtxRmROSlZDcHQxd29saU5PbWNfRWhMWVdwZHhDRmhaVkxMYkQ1MnBwVEpOb01EOGF3WDlnMjB3TVBr?oc=5",
-        "headline": "Fed Officials Signal Possible Half-Point Rate Hike in December",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "11/11 02:31",
-        "published_ts": 1794331862.0,
-        "tag": "Fed",
-        "first_seen": 1794335437.6387775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOalJvYkZzQXhzZ2pHSFo5c2Jfb0VfZVpNNXpHZEE5dkxUM0lUYmdEeG1rbUNzV1JWbzNwMnBwSGNTeHZjS3p4TEVzTDBVSnNQbG5oUG1GTW82VVBsaXA4dTFHVnVkZUpJVFprQVhXbG9kZjUzTUgwaDFhMTYwYlBfTVJJakc2Q0h5eWc4Z1FEOTM1Y1lmUW56Qzd5SkY2cXhtZlFNb1NQVXpBOVJkc2JqTTduQ2dfQQ?oc=5",
-        "headline": "AI debt faces pressure as Democrats prepare to take over Congress",
-        "summary": "",
-        "source": "Reuters",
-        "published": "11/11 02:30",
-        "published_ts": 1794331828.0,
-        "tag": "Global",
-        "first_seen": 1794351645.0356877
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 16:15:55",
+  "updated_at": "2026-11-11 16:30:58",
   "yields": [
     {
       "label": "3년",
