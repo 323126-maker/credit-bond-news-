@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zbU9fbXNQWkJuRWxkWnhCd09KY1pKd2hyTjBZZWdNVkQ0WFhhSGxfS1JGQzRWVjFiVDdvZmRoMGNDdXN1bXR4RmdCdw?oc=5",
+        "headline": "채권시장 약세 전환…3년·10년물 금리 동반 상승 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/11 12:15",
+        "published_ts": 1794366910.0,
+        "tag": null,
+        "first_seen": 1794369641.8665092
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZDZQcmI4R3V4UU11bjduSXB3cllQTHFhSFNfa2wyMmJpdjBtY0c2QzFTdjdqcUN0UlMyT1dmaUllZ2RqVVhLSk4wanUxS3ltWm9LaTFpbEpvMmNXWklQVlF6RTNRaWRjeXY5TQ?oc=5",
         "headline": "AI 시장 불안 잠재운 코어위브 깜짝 실적",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "머니투데이",
         "published": "11/10 10:59",
         "published_ts": 1794275961.0,
-        "tag": null,
-        "first_seen": 1794276927.344493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9NRU44S0JLM3h4WW0zLWlPNTQ3Ny1XTlNtNmhMbEQzT0MyTE5MRHJPclNpb3FKRnJJb2puamF4WE5CN0N3eGhxTUI4cG00ODZZMFI4SVI0dHpNcFRaWkd3eWdaMGtJcENZbmc?oc=5",
-        "headline": "외국인 8.5조원 채권 순매수···10월 국고채 금리 일제히 하락",
-        "summary": "",
-        "source": "서울파이낸스",
-        "published": "11/10 10:45",
-        "published_ts": 1794275131.0,
         "tag": null,
         "first_seen": 1794276927.344493
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 12:45:51",
+  "updated_at": "2026-11-11 13:01:06",
   "yields": [
     {
       "label": "3년",
