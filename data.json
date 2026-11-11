@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9zYnFOcTJZeXE2RDFQbTdaTmI5Y1NMM01ZQWJEdm1HRkJaUjVyUUJ0WnlHNkdNd1IwWkI0QmlZR1o4bi1MekZPZnBjX2JiY1Jud1hrLUtuZGdIOFIzRlNuQnlUQUI0ZFJ6MExDS2lB?oc=5",
+        "headline": "[속보] 코어위브 실적 대박에 뉴욕증시 반등… 채권시장 휴장일",
+        "summary": "",
+        "source": "국제뉴스",
+        "published": "11/11 23:33",
+        "published_ts": 1794407631.0,
+        "tag": null,
+        "first_seen": 1794409544.235434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1COXNndkUxV3pCN3FzN0tBUzZMQm9iM2k2d2R1OGxHWHZrZHYyMUtaeWZQTHBkUzFheGs4NVpJWTRnRC1EaUw0QTBoNE9nTG9EcmN5bHkzcjItVnpRQlVqRl9HZ2tyaUVmMlV6Nnh3dzlyV2xyYVE?oc=5",
         "headline": "잘 알려지지 않은 코어위브 CEO 발언…CRWV 주가 15% 급등",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794304036.0,
         "tag": null,
         "first_seen": 1794403834.6324952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiblRNQWVreU8yenY2Zmt0WWhvNFB0WG94bXNCLXdUREtBMDNBZjZhN2k5NTgzVDEtU2hvYV9ieXpFeUhSa1QzSWxqVkdLck1DalNQbDVCTE1nNWNnZm0wcHE3LXFQNi1PZnJJSWNkTl_SAXRBVV95cUxQWGU1cVc3NjQyaG5nWmhZeEZpZjhueGhlS2RwakNqcmtSbFNfSWw2cF9aS3R2MVNoQ3hkX3BZZ2xRcEd3WENwS1JlMTdhLXQtdFFhWURmRWE2UVh4UE1ocDdpbWUwUnpDaHVrQzcySkxySk04UA?oc=5",
-        "headline": "[외환-마감] '리스크온+네고 쇄도'에 1,340원 하회 마감",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/10 18:09",
-        "published_ts": 1794301782.0,
-        "tag": null,
-        "first_seen": 1794302131.895451
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRUxRdWJLVVNOaVRBQmlQa3pVNXVEUGlBdEtMT3Z5QXJlcDJxTEJ1ZHFDV19jN1JfVnFPTXAtWFNYS2pjWGo4NUdkMGJlM0hCSi1PUW5kRG02c18zSEdYSV9hMi1DblFKQlI1R3JNN1hJRWlUa0dXWGl4eFRscVI5eVFEWEh2WmxJc0N6cnk3dFVYUF9lbHV4MU1CYmdyTHpTcFVZQkRZUWE3MHFSUkZvdl9hSncxSVpPbU5NcjFqcw?oc=5",
+        "headline": "US midterm election sell-off creates buying opportunities, according to Ashmore",
+        "summary": "",
+        "source": "Citywire",
+        "published": "11/12 00:04",
+        "published_ts": 1794409472.0,
+        "tag": "Global",
+        "first_seen": 1794409544.235434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMmdEdU04T1p2Yk5rZXNYbktTZTBjSzdUbFhlZElnRm1ET0RvVkM1SHJ1OFdBOEZlWW5lZDBhSmpMeVZZVDY5ekpwcjdqOEZyY3UxcnBpQ25qV3pOejQ3aHFBajdNUkxDNy1iRGU4aEw1cTZBWE9MWG5MZDVyQ3c3U3hwMS16N2FjYjRCNVBUa3Q2Nkx1SWU1UnZWUWl3UGlqWEJJLTJZYUVKZmpDVUpOc0ppWXZXYmdU?oc=5",
         "headline": "A 50 basis points rate hike? Warsh’s Fed has a communication problem",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794367318.0,
         "tag": "JGB",
         "first_seen": 1794367837.087101
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTzdVSldaU0ZGTlVQLUNpMV9EcXpjdnlkd05GaUVpa3lBbDFHaU5rRWp0QWlNNVZUMGQwOVZXZmJtdmUyTHJBc1lIT3dBSGRqMXRWNHNKT2FWNEpWV3VFTGQzOXhmaDgtZ3NDVkdRSFoyTy1kYlNsb3NxblNQVEVuaDR6ekQxNjBxc2R2ZnlsNDVTQUJBQTNENEFGSTFZcW5aelRjWERqdUlSbkxUUmZrWDNxRkNQejJPN0tIWmNRQWhqZF9zMHFmSHpoUDdEbzh0Zzl4R3MwR0ZxZmJCZi1aeTRB?oc=5",
-        "headline": "Emerging market bonds becoming more resilient to global shocks, less dependent on US dollar: Goldman Sachs",
-        "summary": "",
-        "source": "www.indiagazette.com",
-        "published": "11/11 11:33",
-        "published_ts": 1794364380.0,
-        "tag": "Global",
-        "first_seen": 1794408239.1009524
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 23:45:51",
+  "updated_at": "2026-11-12 00:06:09",
   "yields": [
     {
       "label": "3년",
