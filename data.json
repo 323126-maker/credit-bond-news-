@@ -42,6 +42,16 @@
         "first_seen": 1794386728.7515826
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1SbUdOVkFvVDI3MHJHVHlXbVJRNXhpVERpQVpVYVNYS3JfeEZSY3FOU004ZWpVbndjR2d0OXJkT0JrWngtOHRWOFFWZ19mZFUyVEhzZVl4S2RWTktxTnFfeWFKb09yRGEyQUZsQ0VmcHbSAXRBVV95cUxPbmkxZWZUY2xYTjgwLUNsaV9va1JUcDNPOWJBZ3plVE1BXzR0a0dMeGpSeDJNdExtOXlvOU5KQmUtT3I1WUsxTGRxa2xJVDZ2em1YelA2YnpwV1FoaWFpRUZzdDRpRGRuaXIxSVhVdVlNTGtDMA?oc=5",
+        "headline": "달러-원, 1,333.60원에 서울장 마감…종가 기준 8거래일만 최저",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/11 17:30",
+        "published_ts": 1794385853.0,
+        "tag": null,
+        "first_seen": 1794402927.5835817
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NnlvN0VFVG15Q3E5TkI0dGNfUEdIbDNxV1JuWi05VzY5ZlVGQWp6WUp0QW9Td0t5U1I0M2gyenJQT2NGQWlBUVJsbw?oc=5",
         "headline": "미국 10년물 5% 근접하자 국내 채권시장도 흔들려 : 금융",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794298440.0,
         "tag": null,
         "first_seen": 1794299439.8961082
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFByM0JUVzJDWWVCQlkwWGtpQnJnbG83LUlYT3dtbWREb0ItVDJERjU1YkkwcVZuS3FBVndBenE0X05aX0xKMGtWSXRLOUNyZ19oMGJBSF8xZll0M0c4UUdkMzFqUHJPWHpPMlM0aHdzckJQdw?oc=5",
-        "headline": "[채권-마감] 강세 플래트닝…증시 호조에도 外人 매수에 금리 하락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/10 16:47",
-        "published_ts": 1794296835.0,
-        "tag": null,
-        "first_seen": 1794297645.1558323
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 22:01:05",
+  "updated_at": "2026-11-11 22:15:48",
   "yields": [
     {
       "label": "3년",
