@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
+        "headline": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/11 11:22",
+        "published_ts": 1794363720.0,
+        "tag": "JGB",
+        "first_seen": 1794365125.9340434
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSnNHMkdlRkpReUsxX0VJYko3dWJZakRHUTIzMjRNd0hGUnZUV3FFOEVKNzRHRjY1bGk4aHBBQzAyNmpDV0lmWElpTFlENVNsbDkzck9fbFozTUgtWlZUblh1LWxFejRIVkh2ZnBoXzdrd2JjUW1kVVJUMUJDclVxY0d2RG4?oc=5",
         "headline": "Hot US Inflation Pushed Japan’s Bond Yields Higher",
         "summary": "",
@@ -1998,19 +2008,19 @@
         "published_ts": 1794322394.0,
         "tag": "Fed",
         "first_seen": 1794323730.0016427
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBVOXJQbEVQWDRwanR4aHZhWDJjMk1MdmFJcmVTWDdWSm1NNC1yYmd6d1lualcyVVVkZnluSkpwY0dzRWNFdC1zTzY0dE5IdlJiUGIxUA?oc=5",
-        "headline": "Treasury Yield 30 Years (^TYX) Charts, Data & News - Yahoo Finance",
-        "summary": "",
-        "source": "Yahoo! Finance Canada",
-        "published": "11/10 23:49",
-        "published_ts": 1794322168.0,
-        "tag": "Strategist",
-        "first_seen": 1794357930.4143136
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4zTlhNZGl2Si1XZlZybzA4Q1RkSzBBYUR1V0szVE5STkgxcEdYTU5pN3JBNk5ONC1nQWFSWm5LSWNLNHAzUGVSUFVYUnZELWtlYzI5VnZqWlFFQTNFR1dIOUxMRjHSAWhBVV95cUxPNmdOQURaSE5sWndPS3QycnZ5c3UtaWJsdy1aWWFEaFk1dzhJT3ZfVjkxcmtxVXlKRDU1bVZpMW90VU1XMHhSbmR1cmlQX1ZjUW5jNDRjelBhMzR0dHNZYmVoYXhJWXhPRA?oc=5",
+        "headline": "[카드사 건전성 진단④] 신한카드 ROA 1.0%로 하락…삼성카드와 수익성 격차 확대",
+        "summary": "",
+        "source": "경인방송 뉴스",
+        "published": "11/11 11:00",
+        "published_ts": 1794362400.0,
+        "tag": "삼성카드",
+        "first_seen": 1794365125.9340434
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hWmR2OFpFalVIajdvYjFDcmtPNUVQYzhiNnpUend5bDdnS2NUbWdRQ3d5NllNSHdyZzN5azJiTlUyQWFXNHNqS0pGXzlxLXNybW1vV0dhRF85VG1JV05UaWJZbEFrS05yN2Rr?oc=5",
         "headline": "롯데카드 ROA 0.3% '업계 꼴찌'…고금리 재부각에 조달·건전성 '이중 부담'",
@@ -2040,6 +2050,16 @@
         "published_ts": 1794356236.0,
         "tag": "우리지주",
         "first_seen": 1794357035.1309235
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTjhzNFlRSTUyQWxFcHFqMVpOWHUta2pkNVl0SkFvanhwNU1nWWx4ZE1KZjNIRTZhVkhieDNUS2lSTzNtQXNxQm5USGpidkpEVVdYWlloVTdjVzZsMTFWRlRCcVBNaTJ0MEthZldR?oc=5",
+        "headline": "은행권, 2027년 기업대출 중심 성장…순이익 25조원·주주환원 확대 전망",
+        "summary": "",
+        "source": "일요경제",
+        "published": "11/11 08:50",
+        "published_ts": 1794354614.0,
+        "tag": "신한지주",
+        "first_seen": 1794365125.9340434
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9GMmhYV2ZDRm9vdEVEVEpaSmJkLW9manc5VFRodDNvbHljdG1aeHVuano2aHAzU2dMZGNlTzNDVGM3YlBobTFFaHBSSk5LN1BjX2xqejNMVUxHbkVqNjQ0RFlkbw?oc=5",
@@ -2390,30 +2410,10 @@
         "published_ts": 1793971917.0,
         "tag": "우리지주",
         "first_seen": 1794182445.385829
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBqV1FORUM4M3ZvbVd2M052RmlpdEg5dkY4LTNvU1RnRjI2VkItd3hOeUt6RWh5cV95UUlOVHFzYlBZLWRUMWpVelBhY1ZwNXM?oc=5",
-        "headline": "우리투자증권, 공모채 시장 첫발…수요 확보차 금리밴드 늘려",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "11/06 18:49",
-        "published_ts": 1793958570.0,
-        "tag": "우리지주",
-        "first_seen": 1793973644.4395227
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1vNXRkTHhIY2FTa3BCR1pYLWJuN2p0NG5wRncxMkktbmRwZi1KQzY0UXk4ZHZwbWFDVHk1T1hTNFJDZEtveEF4OUsyRUxOQXc?oc=5",
-        "headline": "뉴스핌",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "11/06 17:21",
-        "published_ts": 1793953280.0,
-        "tag": "현대카드",
-        "first_seen": 1793958332.312417
       }
     ]
   },
-  "updated_at": "2026-11-11 11:31:00",
+  "updated_at": "2026-11-11 11:45:49",
   "yields": [
     {
       "label": "3년",
