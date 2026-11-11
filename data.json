@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUXExbHpGQmEtWXNjVTNiT1FTNUttSHBlVXlrRXloTFJ5V2w3U1FJdmxhWEw2blEwdlEtRldodC1yaUtWNzFuMGEweU5JUWhVbnlrek1aaG91SjBiSWszX1hQbWtkU01YX3lTOGVXcHNfR3FBRGFma0ZLRU5yWTgwWXI3ZjkzMGw0RDhSVXJpRHhCNEN5TlJhYmx3?oc=5",
+        "headline": "European bond trends show dispersion and volatility across segments, Mohamed A. El-Erian notes",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "11/11 20:55",
+        "published_ts": 1794398118.0,
+        "tag": "Strategist",
+        "first_seen": 1794399327.0419562
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWDdpYlkxYWsydmxCS2trYXpEY0hLTjZlMmNzR19qX0I0SnNzN2w1OHRBRFJiSDlCNDhHTXVEQzl2UFZwR1FHSXBYQWROMzZlSllycFlXblFBY1lOT3pWNmVPYTNReHhhZXNpSEo1SHBmdjhGa0dpTzJhMFRkOFItbnlpajFVYzZS?oc=5",
         "headline": "Inflation Bites Back: The Fed's Hawkish Reckoning Meets the $90 Billion AI IPO Test",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794352042.0,
         "tag": "Fed",
         "first_seen": 1794368728.1899512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeXNBNlFUckZUc0tTX19ka1RlWG9yZ2RONXBuTmJtUTRMZjVhUGNXaHlWRUtjTklrZTBYWkp4dTg0dVd6cTBqRUtPdkZ3RG9Xb1VvVjl0WTBVc1pEM0hVZC1oN3NKcWdtQjBUbXA4Q0pQZ0NWSUkxSXVFWVRWSVB6NXZOY1NVYWlhT0xJNU1BdEg3ZHR6bmJtLUZVUDFYenA4TVNvMVdidw?oc=5",
-        "headline": "Japan’s 30-year bond sale sees weaker demand",
-        "summary": "",
-        "source": "The Star",
-        "published": "11/11 08:04",
-        "published_ts": 1794351853.0,
-        "tag": "JGB",
-        "first_seen": 1794352526.42575
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 21:01:05",
+  "updated_at": "2026-11-11 21:15:51",
   "yields": [
     {
       "label": "3년",
