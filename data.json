@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2d4eFhWaFZuRXdnbFRHYjJ6angtaE5heFZpWmE3RS1hLUozM2gxYUNQRE04dDZoRktacS16MFlVYmdVc3g1eG5tMnF2R0ZEVW4xVWZJQVFqazluS0ktV015NzU0b3RuZ1Q0ODdadEpBLWFHa0xrMm82NGwyVHUtSlJXc3VwMFdPRWdsUVdfU1lSSHlzaUZNVml6YTFoZTRROFpRLTRKc3d1SGZnUEo2UWhvLW1Ha0xuUXF1enJsd25uc0Jva0otRm9jZ21EakFfM3hCUDRwWWU2aGh1S19MVW5DMA?oc=5",
+        "headline": "일본 제조업 경기심리 개선에 BOJ 자신감 강화…달러 강세에 엔화는 약세 압력 지속",
+        "summary": "",
+        "source": "VT Markets",
+        "published": "11/12 04:10",
+        "published_ts": 1794424233.0,
+        "tag": "JGB",
+        "first_seen": 1794424527.536797
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUxtZldRbUtOcFJNWnhKM2JJcm9IRzFwdTBDOWotTlEzR29oZGNNbXJBTkJ5aktqcjRYZDZxYzZrWU82cS1SVFl1SHVJYlo1aGRpMlRtMUNiTlpQdXFiT0NxaFRlUEhsV0tSeVNQejNhdG1QSVRLbzRJZWlmX2w4cDV0WlgzRXpTRGZkcFZMZmNKTWxNdjFfeERWajlYLWU3MEJfcmI0eXltZERGWHZBZnlsWlJTVXBvX1hQMmFpUjlIQzluMFE?oc=5",
+        "headline": "Inflation spreads across economy, putting pressure on Fed to accelerate rate hikes",
+        "summary": "",
+        "source": "KCBY",
+        "published": "11/12 04:00",
+        "published_ts": 1794423649.0,
+        "tag": "Fed",
+        "first_seen": 1794424527.536797
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVUJMUEFYakY0VURWU09ibHBpWDV4N25XNXQyeEg1WGNaYjB6YzBjcXI5N3QxZjFIOUt6N0cxSzhwVTJLeWN4WGkxbG9SSEcwSldXNGpHaWpFVzVsRlMzQXdxSUtwTWdKRkNWdUZ1WDB1aWdLTS1nNEl4WHhaMU9lS01xQnJnYXZsbnlxUWJ2TQ?oc=5",
         "headline": "Retail investors pile into corporate bonds as yields near 6%",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794378589.0,
         "tag": "JGB",
         "first_seen": 1794417327.3425102
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE01VHVSSE9UNmhMakpLZVF1ZWd6WXdnN05fLWtOQ2oxQ21MQy1lc085SzZjWjRXV1hxWUNFMFRRU20zLU1hcGxKRnliUDdjQTdpTUcxMGNXNkU0UQ?oc=5",
-        "headline": "Japan’s 30-Year Bond Yield Rises to 3.865% After Recent Auction",
-        "summary": "",
-        "source": "www.tokenpost.com",
-        "published": "11/11 14:48",
-        "published_ts": 1794376099.0,
-        "tag": "JGB",
-        "first_seen": 1794382236.5634575
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTy1Ca0R2cXFUQ202eVNOa1hNc21JQkRraWRXc3RMNzdrUUMtVDJKNUdKVjZPN2NiZ1h4TVB5S09QU1cyWkk5bkNpSDhBOWJtbGVhOVZGYU5aSEFuWU9jMUxBVnd1NUpfR1RaQ0QwWEpub3BudU1uUmlWbEFZV2RQMEVNMXA3bVlKMVYweEhOaGZuWG0zeG9Xalp6ZHo2UHRfak1OeGpLMnBTY0YtdW1F?oc=5",
-        "headline": "Japan Government Bond Yields Jump, Tracking Treasury Selloff",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/11 14:33",
-        "published_ts": 1794375180.0,
-        "tag": "JGB",
-        "first_seen": 1794375928.6601791
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 04:01:06",
+  "updated_at": "2026-11-12 04:15:51",
   "yields": [
     {
       "label": "3년",
