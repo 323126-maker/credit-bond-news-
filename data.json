@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82ZVE0M2RIX0RESU5hY2UxNXNmNlFXbDhzcFFfa2hua3dXRThfMmZoZThDX01waFc4U3hzYnBLYmhKNW1aTEwydWtaZkY0VG1odjZaYWhBTGRYUlJOeWxmR0hnM1I?oc=5",
+        "headline": "“AI 투자 열풍, 기업 실적으로 이어질까”…신한투자증권, 2027년 금융시장 전망",
+        "summary": "",
+        "source": "디지털데일리",
+        "published": "11/11 10:32",
+        "published_ts": 1794360758.0,
+        "tag": null,
+        "first_seen": 1794361529.6170182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55cW1oaFUzMUZ0TWJxS1ZYMWJOMW9kYXQ1RkFCUVBwalVGUTU1QmpfRUQxWmJzQ2p2V0I1OXhfeUx0YW1fdjhsTWh6d3JwSjVwQTNqUHZZV255d01CcXlYSVJBajFuajI2b3ZJelVHbEw?oc=5",
         "headline": "美 '재향군인의 날'로 채권시장 휴장…주식시장은 개장",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "한국신용신문",
         "published": "11/10 10:16",
         "published_ts": 1794273360.0,
-        "tag": null,
-        "first_seen": 1794274236.1697621
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yb0xra1ZxSW5VWFJtWUZaLVpWUURYV3FUNmlWcGNiX2Z1TUlBSGZ5d21oYmZiWHUzMlVaeWpYWXNSQmZEVm9BZ3ZVRGhCTTR6b3J4UW5BX1JEUjg2VWRETGlGeXJQa092b0k5Zl83c1Q1a3hz?oc=5",
-        "headline": "안전자산 선호·외국인 선물 매수…10월 국고채 금리 일제히 하락",
-        "summary": "",
-        "source": "조세일보",
-        "published": "11/10 10:14",
-        "published_ts": 1794273265.0,
         "tag": null,
         "first_seen": 1794274236.1697621
       }
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VV3pPOE5UUWpxVnU2VzlrR2V5UHF4bGc4SFliZXhrZEVfVjlEMDVZUlhHY2F5MXM2Y3g3Q0pRc0xPVDltbDZ2UHk5d3o3UGVzQ05qUW5pZ3ZZaWVC?oc=5",
+        "headline": "미 10년물 국채금리 장중 5% 돌파, 12월 빅스텝 가능성 14%",
+        "summary": "",
+        "source": "부산파이낸셜뉴스",
+        "published": "11/11 09:02",
+        "published_ts": 1794355320.0,
+        "tag": null,
+        "first_seen": 1794361529.6170182
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NRmZUbk9aSXo2aDNYbzVMUzlrd3hoZXN5YnMxZGdaWm9uYUdzcGJiQ0Y3TzJKa1Y3UC03RXA3OWo5OUt2dzZqYXhrTi10VEtfNGpJb3VsR3loUWNRT0FDSHRzOTREQV9fZTR0M0xGVVQ?oc=5",
         "headline": "이 대통령 “소방관은 작은 신… 안정적 재원 확보” 발언에 한국경제 “재원 마련 어떻게?”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793921640.0,
         "tag": null,
         "first_seen": 1794081644.152704
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15bzlHWG1HQkc2OGFjUjFLUjJIMWIzaE9BUWUtN2Q3V1dVd2dlSFpGMklmNWFYVHVhWkdINU95X0tvZk5mcTM0RHU4NzdPTFYyb1FPQV9jVUxBay0zVVktV2hEYw?oc=5",
-        "headline": "이재명 대통령 “성장이 일자리로 이어지지 못하는 현재 상황에서 창업 사회로 전환이 필수적”",
-        "summary": "",
-        "source": "시사뉴스",
-        "published": "11/05 22:55",
-        "published_ts": 1793886949.0,
-        "tag": null,
-        "first_seen": 1793887249.9361093
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 10:30:57",
+  "updated_at": "2026-11-11 10:45:56",
   "yields": [
     {
       "label": "3년",
