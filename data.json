@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE51a0FfZXNCdXNnbFk4ZkhqOFJJZ3lYaFlrMm1FQ1Y3ZTRfRC10eTJYYXA0amYzSDZOclljS1o2eTNrQjZ4aEJDMHZOWXluU3MyaE5lc2ZIRjhwOGtNNTRR?oc=5",
+        "headline": "신한투자증권, 2027 신한금융시장포럼 개최..\"성장 기대 넘어 수익성\"",
+        "summary": "",
+        "source": "스마트투데이",
+        "published": "11/11 09:02",
+        "published_ts": 1794355320.0,
+        "tag": null,
+        "first_seen": 1794355835.8520207
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mZzRneDhvOHhVRkVmbGRyWlFPRUVCaU1ZVE1MS1JiYjJYSVVZb21fR25iZlpjSDhMYk1jY2RqeWI0NUxKMHJSeXdPWUJOdnVVUnNmQmZKSUxfVFdqOWpVeGNzZnBrNmtU?oc=5",
+        "headline": "신한투자증권, 11~12일 '2027년 금융시장 포럼' 개최",
+        "summary": "",
+        "source": "뉴스포스트",
+        "published": "11/11 08:58",
+        "published_ts": 1794355111.0,
+        "tag": null,
+        "first_seen": 1794355835.8520207
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NSmhfVWNiTTBPQjN6eC1zNXkxZGVMcWhpNTE1ZGZwRXVEbzdpM2lBXzl1SVQ3ektDZnpsNlJqcGhabnV2TnpYdW1tTGxrSjBlUjZrdFhlSWYwVERuTHdUdjN0TmVSR3pnWHBnckNIZVRVdw?oc=5",
         "headline": "[뉴욕채권] CPI 상회·10년물 입찰 부진에 약세…10년물 금리 5% 돌파",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1794272400.0,
         "tag": null,
         "first_seen": 1794308445.4869473
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE56a1dYNVdfLVl0eU85NnllMXJqNHZsT3htYU1yYlRxMUtmcC03WUVpTnRwR0hhbE1lVG9VLS04NlpEdEVUSE51M18yaEFyLWpoblE?oc=5",
-        "headline": "'연말 장부마감' 우려 딛고 크레딧 강세…지속 여부 주목",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "11/10 09:33",
-        "published_ts": 1794270828.0,
-        "tag": null,
-        "first_seen": 1794274236.1697621
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LMmdZR2hSTXV0dU91MEpjTTZpdXNURjZxcVZmSlFxTmpYN09GMWM0clBxZUoxTllfYkxXakRJU2Z3cW1ieWYxa0cyQ1hfTzdLNTJzUG5HbWo3bjF2eXZtdU12U1U5d1RwM3FuQVpueFg?oc=5",
-        "headline": "채권시장에 91조원 몰렸다…외국인 매수 확대에 국고채 금리 하락",
-        "summary": "",
-        "source": "리드경제",
-        "published": "11/10 09:33",
-        "published_ts": 1794270817.0,
-        "tag": null,
-        "first_seen": 1794275126.6971478
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-11 09:01:08",
+  "updated_at": "2026-11-11 09:11:00",
   "yields": [
     {
       "label": "3년",
