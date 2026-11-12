@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY09Uem12bzNFaG1obDY5MmVoVkQ5bFR6T3pNa0RUVGNWNURqMHp4ejNVcE1rM3E1SDYwTXBkMUNCWkVwV20yQTVBLW5LTTlsVjkwLWJ5RFdWeXhZUHNJWFRuYXRPaDJSbUFtenZTWDJmSXJzNFNaOUtBQXRKRUdpSnN0TWR1LWZzRnpoanc0TzdmcHhjcHpFM3A1anBGcWtmd2h2WVN1ZVNsYnR2Rk80bGJfVnl0eFQ1MzFUMFhSNE0xZw?oc=5",
+        "headline": "The average US 30-year mortgage rate falls to 7.11% this week, its fourth straight decline",
+        "summary": "",
+        "source": "WRAL",
+        "published": "11/13 02:06",
+        "published_ts": 1794503201.0,
+        "tag": "Fed",
+        "first_seen": 1794503728.4176598
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPc1VIeldqM2NFRDJqV3JEc2pqaElDSEFHc0lqN2ZSNmxkNW5GTDBvbm1tR0RPdnFPUnVpaDdXWTNrMHJYaVFncmZuOW1YcGZMcGtsSXdjVkQtSWlCY3J3b2gwVGQtVVN3dGlfaEN3WEtxNVptNDJKNTBjcGRFc3ZiV0lpOHRReF9DZTNiZnQ3Mk5vZ0tDRks2YUZRcVFQUQ?oc=5",
+        "headline": "Why investors are rethinking their bond strategies",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/13 02:06",
+        "published_ts": 1794503188.0,
+        "tag": "Strategist",
+        "first_seen": 1794503728.4176598
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1pdUszeFVVUkgwVXBNSlNDMTdqSkI5VjFrdDAxa29xSjdVZ2dCRFdpWnZGdjlTdUxtUzNMbU1uM2RPRTVfVWF1OFVWZEhld0JfSlNN?oc=5",
         "headline": "Origin Materials, Inc. (ORGNW) Stock Price, News, Quote & History",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794433500.0,
         "tag": "Global",
         "first_seen": 1794483037.5221496
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQzBmb0t6NDZ6MjExcW9Hdk9DZUltRm5XNFdQWDAtdDJ6cWpwZVRseHVWM1RSbFZsMzV5X2xKM3cwREVnSm9rYWVCQVlaMHhOVGVzaGlTdWVzM2VDOHFuM3lIRGtqUzdjOFY5U3F2amZQOE52UEk0ZTFTYi1RbnVLU3I5VjRpckxnaFV1UEVEclJ3QnMtbkIyeFhnTWhobkE1bFpKYU5fRlByQ3M4VmZSdVZSMHhRNzBJS3d3aTJsYV9nbGxlWW1lcjVRdTI5Qk1RRGc?oc=5",
-        "headline": "TSX futures rise as CoreWeave outlook provides relief after bond market selloff",
-        "summary": "",
-        "source": "Investing.com",
-        "published": "11/12 05:04",
-        "published_ts": 1794427443.0,
-        "tag": "Global",
-        "first_seen": 1794501039.768288
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQN2d4eFhWaFZuRXdnbFRHYjJ6angtaE5heFZpWmE3RS1hLUozM2gxYUNQRE04dDZoRktacS16MFlVYmdVc3g1eG5tMnF2R0ZEVW4xVWZJQVFqazluS0ktV015NzU0b3RuZ1Q0ODdadEpBLWFHa0xrMm82NGwyVHUtSlJXc3VwMFdPRWdsUVdfU1lSSHlzaUZNVml6YTFoZTRROFpRLTRKc3d1SGZnUEo2UWhvLW1Ha0xuUXF1enJsd25uc0Jva0otRm9jZ21EakFfM3hCUDRwWWU2aGh1S19MVW5DMA?oc=5",
-        "headline": "일본 제조업 경기심리 개선에 BOJ 자신감 강화…달러 강세에 엔화는 약세 압력 지속",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/12 04:10",
-        "published_ts": 1794424233.0,
-        "tag": "JGB",
-        "first_seen": 1794424527.536797
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 02:01:15",
+  "updated_at": "2026-11-13 02:15:53",
   "yields": [
     {
       "label": "3년",
