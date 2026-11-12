@@ -72,6 +72,16 @@
         "first_seen": 1794447040.4186993
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1fR3JtSFQyNnRPbUhQRTNYT25MaEZZWjFPaFV2MXZiWFNpcE9tYlRRR3MwY1ZQVUpXLWNrSW1KOXNEN2tyS3pWbnlhSjU4eTBackExaVRQb3hGZDZjclJGOXNNV0xUTnRv?oc=5",
+        "headline": "[채권 브리핑] \"미 국채 금리 연 5% 재돌파\"… 국내 채권시장 강한 하방 압력",
+        "summary": "",
+        "source": "CBC뉴스",
+        "published": "11/12 10:00",
+        "published_ts": 1794445200.0,
+        "tag": null,
+        "first_seen": 1794467728.7623432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5taTBfaWdQOEFEdEtvRFhla2F4Rm1nSzQ2N3BqXzN6d3dWOFdjSEVVVjNmeWV4eHZ4OGROa1RZZVhfWDNPMkF1UFVPaFNpTWRkQ2xMTTU5WldKUXZvQTZYYkY0djhCS2NOSkR3ZlZIZUc?oc=5",
         "headline": "피치, 자산 건전성 우려로 블랙록 TCP 신용등급 ’BB-’로 하향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794361131.0,
         "tag": null,
         "first_seen": 1794362442.498713
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE82ZVE0M2RIX0RESU5hY2UxNXNmNlFXbDhzcFFfa2hua3dXRThfMmZoZThDX01waFc4U3hzYnBLYmhKNW1aTEwydWtaZkY0VG1odjZaYWhBTGRYUlJOeWxmR0hnM1I?oc=5",
-        "headline": "“AI 투자 열풍, 기업 실적으로 이어질까”…신한투자증권, 2027년 금융시장 전망",
-        "summary": "",
-        "source": "디지털데일리",
-        "published": "11/11 10:32",
-        "published_ts": 1794360758.0,
-        "tag": null,
-        "first_seen": 1794361529.6170182
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OQ2huSHRnQUJtNGdIdTVLQVdBV29ZZGxiS29maUZSM0R5UnF1NFJFRjM4V2R1VUs5OFNYYmtLN1NqX2JsRGRUQ295bW9jcThhS3ZuREZrLTJWSl9M?oc=5",
+        "headline": "李대통령 \"지방 성장이 곧 대한민국 성장…지방 재정 자율성 높여야\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/12 16:06",
+        "published_ts": 1794467160.0,
+        "tag": null,
+        "first_seen": 1794467728.7623432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE4tYUliNEtoZDVFZ0pKQjZ5dXlDTTBMWnlEcXJNMXA4M29MM01QSG9wY212UUZXeVZzNEZUZDBNYkltZm9hbkdOSXRKRlZzUUpQRDh6andsUGNIaWFuNE1Ca2RKVDR6WnRNcG9Fek5oTXN2Zw?oc=5",
         "headline": "[노트북을 열며] 민주당엔 '뚝심 있는 리더'가 필요하다",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1793935900.0,
         "tag": null,
         "first_seen": 1794118528.6625578
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40Yk5wOUNUM0JIcjJUN0NLcVZ5aXdlUVVGd1gtaUpJejQ5dG1jYzd1M0FpRUJyOFFPU0N0LV90aTBJTEtMQXoxNUdrMGcwZURsb0JSaHAteDdheTBNb2JqZFdlOXE5VDN5cEVZ0gFvQVVfeXFMTWk4elUwRnpDMXV5WFhKelFtUm5CWm1rbEpQSzBpeTUwbHhXQUpyanNoZGRjd1VXSkVjbU1tRHFyQ3AyOFdYdm41Z0tSWWhSaW1ENnhQRHJUM3BGN0pvUHZVZ3BSWkNLRTFsSHpEUlZr?oc=5",
-        "headline": "초과 세수 혼자 독식 각 보는 이재명 정권?...오세훈 “지방 지원 제한하는 재정놀부정권”",
-        "summary": "",
-        "source": "더퍼블릭",
-        "published": "11/06 11:58",
-        "published_ts": 1793933881.0,
-        "tag": null,
-        "first_seen": 1793958332.312417
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 16:01:09",
+  "updated_at": "2026-11-12 16:15:55",
   "yields": [
     {
       "label": "3년",
