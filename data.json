@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sbGNUSllTaDZaRUU1TUlrVFVuY1dic0VBOWkwNWMtWmozaHd6dzFfQXNVRlBjM1VweXNpVGQ5M2RMdG44aHhnVXVIMjAzZ09nTEtmVHRNSkZ4eFgwWEhiYzB4LUNFSEF1LWpVaTlmRUlRMldiZXVzcWJnNHphdm8?oc=5",
+        "headline": "Fed sets new meeting schedule for 2027, as foretold by Warsh",
+        "summary": "",
+        "source": "Bradenton Herald",
+        "published": "11/13 04:25",
+        "published_ts": 1794511508.0,
+        "tag": "Fed",
+        "first_seen": 1794511837.7268856
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbURIYjRJcWZ6Ym44WF9sZ2NXNDlfVGp2N1JxMXRGVmZsN1I4QmxRc3dqa3ZjWXhkNEpUYjl0RllkV1F0bG1FejJ6SFFPekNzX3NLakFn?oc=5",
         "headline": "ISEQ All Share (^ISEQ) Charts, Data & News - Yahoo Finance",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794459976.0,
         "tag": "JGB",
         "first_seen": 1794460527.0119953
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LVTNDd3lxNWd0c25LTy1PNm5tcUg5Qk5rUEZ1XzBDODFmQi1jUThMZVN2amlyNndXXzdYM2ROVjc4M1RfeG5BbGR5S2twV2FMb185VGFKUEgyOUdiTThJaERjdTlnRDNXSHA5WFRFUlR0amhD?oc=5",
-        "headline": "BOJ 아사다 위원 \"성급한 금리 인상 주의해야…경기 둔화 위험\" |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/12 13:13",
-        "published_ts": 1794456784.0,
-        "tag": "JGB",
-        "first_seen": 1794507825.5452242
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 04:16:02",
+  "updated_at": "2026-11-13 04:30:59",
   "yields": [
     {
       "label": "3년",
