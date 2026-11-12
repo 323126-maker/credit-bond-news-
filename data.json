@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXRmY2hqcTlNTnNtZWMyeVJHSy10VGt0Zm5GdS1yRHNKU3lfY2RUZnVnVmk4alB2WFNhUDF2cV9FcnZLTHA5VjFpWmhLYTlfTVRuYjdLVlpFODE4N1U4WW9ma1BRS21rZjNndjJ1MG1fU0tpdWZnWk1FMHRiT2xZRVdOVWYxUXJzWEdOYmJUeGRFRjR1ckhsdk4zcVA0d1Q4aTh6WEhDR0ItU083a2RGclE4VThOd0h1TklldUxLYUptYWdrY0pjZ3lJZ3VqUWtaX1Y1dF93?oc=5",
+        "headline": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "11/13 07:16",
+        "published_ts": 1794521760.0,
+        "tag": "Fed",
+        "first_seen": 1794522632.3083107
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZlSUdmdEZKRmFpYXZydE5TNlBrQWRuMU9HVXZiczJMVVhkeWdBN1lKbmtPaE9jNVNuM0c2MUNDM19oQmwzZzF3ZGRCZ3REaWNKbjNfMUdlYVBLWmluVzRDZEJnSTJvMXJTckI2LUJtY3lLQmhGLUx1SWRSejA3aHFfbjFPajd6Um9zMW94REhJY3JVZ2JILQ?oc=5",
         "headline": "The AI Bubble Burst Has Three Phases: We Are At Phase One (SP500)",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1794520800.0,
         "tag": "Global",
         "first_seen": 1794521729.9337604
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOT25WNlBhUFhDa0tJZWtrempIU1FZbnpKMUU5TWgxX2hoUUEwa3Y3azJUZXJUaFQ2OE53S0huQnBHMUFEWkRVbS15aXA2b3BLZmJ0akxpZW4yc1ZzSVlpU1E4Umpsb0h1S3FTTUhFR1ZTWkt1RkhaanVrbTVQUm5PTTFmTnFGVkllb1Z3X21jdkNJempnUFpOeTliY2h0clpWLXprTWFuR1ppUQ?oc=5",
+        "headline": "Jeffrey Gundlach Wants Out of AI’s ‘Blast Radius.’ Even the S&P 500 Is Too Close.",
+        "summary": "",
+        "source": "The Wealth Advisor",
+        "published": "11/13 06:58",
+        "published_ts": 1794520680.0,
+        "tag": "Strategist",
+        "first_seen": 1794522632.3083107
       },
       {
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGRtWDVueFlmdS02ZXlBS3FJU01rQ2pUMVV2azJhZWhuMDlnMkt6ZEZqaWxVUUNYcUlVT2JvVTZZbFFGY0gwU05jaXRFMDc1RU9laGFOTU9EZEVERlpIeENWUm9IS3UtUmpMVFlzYVE3TnR1elBSempfN2l3MUEyRVE2LXRUTkhHWmcyLUw4ZTF3aFBZa1B4TEFLR0k1Z1M4?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794479603.0,
         "tag": "Global",
         "first_seen": 1794494730.224289
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPck1oMVRhNUtZWWV4QkhhSDYtSnoyWm1qUTBMM2tEVTk1U1lPYzFxYjQ4YUVwMkdZSndlZlpRMUFaYWdtdmNoSHA2dnQ3ZVFQY2pwWmhwUEVGeV9aYVJ1V1Rfc01uVUtxaGJWRk51YXZTR2lnZ2pLUEVaaC1SSEtfb0JLcTZJcm1S?oc=5",
-        "headline": "The Credit Market Has Already Blinked: BofA Warns AI Equity Volatility Is Living on Borrowed Time",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "11/12 19:30",
-        "published_ts": 1794479448.0,
-        "tag": "Global",
-        "first_seen": 1794495644.7588642
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZBQkt4MEg1bjBiSlZZYVE2bjA1eV9VNkQwYUlrSE01VFZsXzFDbHkxLUk5OVBiaWJESjBpRVVJR2RGVHhvQ0pRTHB6WjQxQ2EyVHdJUHVQeE1fdE5KYU1jZFN4b2FMVFpEOXRycm1idnhBTTM4MjhmcFdrNVZZOS1Udk1OcHBsbkxPUDFYb0tyWjVoRVBMMkl3OW5tR3FJTFRSbnBEdVZaWmpTektwblJhT1BLZw?oc=5",
-        "headline": "Rising Yields Don’t Scare This Veteran Bond Manager. What She’s Buying Now",
-        "summary": "",
-        "source": "Barron's",
-        "published": "11/12 19:00",
-        "published_ts": 1794477600.0,
-        "tag": "Global",
-        "first_seen": 1794478279.0132189
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 07:15:54",
+  "updated_at": "2026-11-13 07:30:56",
   "yields": [
     {
       "label": "3년",
