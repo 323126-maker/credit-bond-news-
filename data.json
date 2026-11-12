@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWdLR0drek85UG54TlhJZjJEMWxSUzR5em1yM25XaXJqazlFaFVTc2diajlpZ0dNbHM2NmRjOEFhSlRJSGlHcWpyR1g4UDJpYzl4Y2NQblhBeVpmYktiQTdJRDJVeFVRWmkwazNqeU4wQ3pRd3Uyd25RZ1ZrTXJXeE9kYWV0R3pYdU5fS05FdklPdEoyRjNQclkwX3NVd9IBsgFBVV95cUxPckRZdUQzWnZfdF84b0poaGtDUkhRZ0dRVGRNeG9aNTBLLU81dlRKN3ZORER3ZUJUejZtb2hSVTRSUG9oeFdfcUQxVGJISGZzQmFsaHJRZFBQRFFtSFpBSEsweE1vWExsdkpEU0NRUXVTN253UnlHaXNfLUdzcXhNMVRIMHhxUlQzX2ljSjg2b2dBUV92TU53bWtieEVvcDh3ZmNpT0g3UGw2eVZJMmYyNG93?oc=5",
+        "headline": "‘금리 결정’ FOMC는 7번만 한다… 美 연준, 내년 일정 발표",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "11/13 07:51",
+        "published_ts": 1794523860.0,
+        "tag": "Fed",
+        "first_seen": 1794524439.8299458
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXRmY2hqcTlNTnNtZWMyeVJHSy10VGt0Zm5GdS1yRHNKU3lfY2RUZnVnVmk4alB2WFNhUDF2cV9FcnZLTHA5VjFpWmhLYTlfTVRuYjdLVlpFODE4N1U4WW9ma1BRS21rZjNndjJ1MG1fU0tpdWZnWk1FMHRiT2xZRVdOVWYxUXJzWEdOYmJUeGRFRjR1ckhsdk4zcVA0d1Q4aTh6WEhDR0ItU083a2RGclE4VThOd0h1TklldUxLYUptYWdrY0pjZ3lJZ3VqUWtaX1Y1dF93?oc=5",
         "headline": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794483913.0,
         "tag": "Strategist",
         "first_seen": 1794489332.8454208
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8zdUhDVW02VnZxZnZEYTVIRG5WeDNDWnBvUm02emNmbTZSWC1pSzFOWW54UkZLeHYzSDg3UnpJVF9XWTdqSko0WlEyMnZ4OHZJZGlxb2tVekdtVUxKVkJmekduTE1aaG9vT3c?oc=5",
-        "headline": "미국 선거에 출렁인 엔화…지금 환전할까",
-        "summary": "",
-        "source": "IB토마토",
-        "published": "11/12 20:05",
-        "published_ts": 1794481500.0,
-        "tag": "JGB",
-        "first_seen": 1794483037.5221496
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 07:45:54",
+  "updated_at": "2026-11-13 08:01:04",
   "yields": [
     {
       "label": "3년",
