@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGhOVHBVU1FoRWdvbngzdkJtU0J1N3BpdUJwaUl1SmRvcFNCdno0bzNIb2pVd2dfbS14emdBam41blJHa2VpaFdhazRhXzRrcThubGtJTnNjYmZuNW41Yi1vd1l0M1d6?oc=5",
+        "headline": "美 연준 '빅스텝' 경고에 물가 지표까지 부합…국채금리 급등, 한국은행 26일 결정 주목",
+        "summary": "",
+        "source": "시사프리즘",
+        "published": "11/12 08:27",
+        "published_ts": 1794439620.0,
+        "tag": null,
+        "first_seen": 1794483928.209947
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VXpyZmRhUFl3T2FpXzA5d3dkWGt1T1ZOd3NSamlmcjBCdkxyX2g0OTIydEV2NEpXdFB5SXlpMjNRRnRZTXZISGlKX3paTGNuampHYkxGSHZ3Yl9oZUJQazJPY2EwNERaRzFyWTBacGVjUQ?oc=5",
         "headline": "국고채 금리 급등…미국채 5% 위협에 채권시장 긴장",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793953560.0,
         "tag": null,
         "first_seen": 1793956529.351922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB4VVg0SlphUUVJTUdsMFhkc3NGUWNRM3U0aXNMMUFXVUZqV2ZfWmxsQS1YU0RkdndTYjd6aWR5YjVWQV9kYlhSdEV6bmxCMWNyVHo2VlFPN1ZNaWU1bWYydmRhTjNjS2FGN2lHTjVoV1NrZEFHWjBfaDRxONIBgAFBVV95cUxQb245dDNCTVg0RXd3SjZfZjVhSXZCd1FkaHlNUzZ6cGJ0UktvbUM5VVUxc1dHSE5iLXNpdFhicE91d1FBUWNiOWpieXROMWxQcmh6M05FMnVPbGRrZ1RXVnRtUGh3V0lFR3lPOTY4blNlalpGUzZTZE92bUNNZ1hFWg?oc=5",
-        "headline": "美 데이터센터 규제 쇼크에 국채금리 뚝 … 한은 '11월 인상' 브레이크 걸리나",
-        "summary": "",
-        "source": "뉴데일리",
-        "published": "11/06 17:00",
-        "published_ts": 1793952000.0,
-        "tag": null,
-        "first_seen": 1794094235.7153542
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 20:31:01",
+  "updated_at": "2026-11-12 20:45:51",
   "yields": [
     {
       "label": "3년",
