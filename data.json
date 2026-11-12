@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5sVk1nYmctTkpSZlJNelBLVEZCQmhUbFFWcXNZeUNEVUlzREhXQThQYnJNTUpCLUJRemU4SVdxU0dvYmNVZmxYUmRHTW0tQmJhRy1zSC1xRDnSAVhBVV95cUxObFZNZ2JnLU5KUmZSTXpQS1RGQkJoVGxRVnFzWXlDRFVJc0RIV0E4UGJyTU1KQi1CUXplOElXcVNHb2JjVWZsWFJkR01tLUJiYUctc0gtcUQ5?oc=5",
+        "headline": "국채금리 급등세 주춤…美 긴축 우려에 상승 압력 여전",
+        "summary": "",
+        "source": "아주경제",
+        "published": "11/12 17:10",
+        "published_ts": 1794471046.0,
+        "tag": null,
+        "first_seen": 1794486634.693558
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGhOVHBVU1FoRWdvbngzdkJtU0J1N3BpdUJwaUl1SmRvcFNCdno0bzNIb2pVd2dfbS14emdBam41blJHa2VpaFdhazRhXzRrcThubGtJTnNjYmZuNW41Yi1vd1l0M1d6?oc=5",
         "headline": "美 연준 '빅스텝' 경고에 물가 지표까지 부합…국채금리 급등, 한국은행 26일 결정 주목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1793971380.0,
         "tag": null,
         "first_seen": 1794087926.6392546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBRblNjTkhBT3JrTFhoUnUxRlEzR0ZzX2tNcFBVNWwzckhXbVpTZWwxaXdpQ3N1b2t3ZWlRbFJIUE1XSWVuejBTMnNWd2tCdFhsbW1yUA?oc=5",
-        "headline": "[채권마감] 3년금리 6개월만 최저 ‘주식 패닉에 안전선호’",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/06 17:26",
-        "published_ts": 1793953560.0,
-        "tag": null,
-        "first_seen": 1793956529.351922
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 21:15:50",
+  "updated_at": "2026-11-12 21:30:59",
   "yields": [
     {
       "label": "3년",
