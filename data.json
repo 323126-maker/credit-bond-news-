@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeF96NUF0YXZjbklwQXYxOVFrYWNLNEx4U0lGWDVtZ3ZKOTNqNVhDYkNtclYyVTRBR29qVEtoUjJDTUUwMjFYX1NiYTZMUGdxaXMyWHZRSmNxR1E4RDE0SVVsclBlOTlnOXllbHhDbm50OG5KVGthQlFZXzlySkRkYUZWNlczWE1qOTZpY2RFT2NJLWVJSHFwQk5TcXpVZVZUbWd5RGRPYTZsb2RiTjBFQmMtVmVZVXdaNm1peg?oc=5",
+        "headline": "Britt urges Senate to pass retirement investment options for public-sector workers",
+        "summary": "",
+        "source": "Alabama Political Reporter",
+        "published": "11/12 23:47",
+        "published_ts": 1794494835.0,
+        "tag": "Fed",
+        "first_seen": 1794495644.7588642
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZUtDWTlFZmZsS3F0b21OYk45MVp2RXRUMElJd1NsQ05yMF9tSGZGSk5STC1ESEVoOGdtRmVDckVUQk1CU2FHclF6b3F6Yk9nZExoYVd6N18zVW1yUFo5N3dMY3FJa2tWUmVWOExMQldRcGZOWjhBdjg0QmU5UWxVUGhuQkNUVEM2TmpUbDdB?oc=5",
         "headline": "Mohamed A. El-Erian: UK GDP grows 0.7% in third quarter, best in two and a half years",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1794479603.0,
         "tag": "Global",
         "first_seen": 1794494730.224289
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPck1oMVRhNUtZWWV4QkhhSDYtSnoyWm1qUTBMM2tEVTk1U1lPYzFxYjQ4YUVwMkdZSndlZlpRMUFaYWdtdmNoSHA2dnQ3ZVFQY2pwWmhwUEVGeV9aYVJ1V1Rfc01uVUtxaGJWRk51YXZTR2lnZ2pLUEVaaC1SSEtfb0JLcTZJcm1S?oc=5",
+        "headline": "The Credit Market Has Already Blinked: BofA Warns AI Equity Volatility Is Living on Borrowed Time",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "11/12 19:30",
+        "published_ts": 1794479448.0,
+        "tag": "Global",
+        "first_seen": 1794495644.7588642
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUjZBQkt4MEg1bjBiSlZZYVE2bjA1eV9VNkQwYUlrSE01VFZsXzFDbHkxLUk5OVBiaWJESjBpRVVJR2RGVHhvQ0pRTHB6WjQxQ2EyVHdJUHVQeE1fdE5KYU1jZFN4b2FMVFpEOXRycm1idnhBTTM4MjhmcFdrNVZZOS1Udk1OcHBsbkxPUDFYb0tyWjVoRVBMMkl3OW5tR3FJTFRSbnBEdVZaWmpTektwblJhT1BLZw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794414705.0,
         "tag": "Fed",
         "first_seen": 1794465037.2859697
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOERjcDdySmIxdzc3WmI0VDBUS0Z2ZzhueENYTGY0dUtjN2dxRGNWR3NLZENlU2ZWeU9pdjdMaENVdDllcTAxUlNza0FUeW93NDJFTmhDMnlYTkttenN2R0VUWjl4d00xUEVUNXNwUkFkeU9JYlJEOGFFeC1CUHlWdnVZb1NNUGFJLUFIX3NwSEVNaVFJaUVLeDhEQmlOVDg?oc=5",
-        "headline": "Aging Americans drive demand for US corporate bonds amid rising yields",
-        "summary": "",
-        "source": "Crypto Briefing",
-        "published": "11/12 01:29",
-        "published_ts": 1794414547.0,
-        "tag": "Fed",
-        "first_seen": 1794414640.2642689
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5hcl9reXlQOWNpU080X3FZZFBjbHdBRWZiWk9ad0hzZHdrUDhJTGxMUFo5N0NaTFgxR2NXTG56SDZkWnZWUlBYYjZUdzlfT1dRRDliOWNORUtVRU5QM1hVU3M3Smt1Z0E5SVkzQ2xvbVBxbDhlbUI5M0I3b0s?oc=5",
-        "headline": "Democrats Slam Fed Chair Kevin Warsh Over Secret Donald Trump Calls and Missing Calendar Records",
-        "summary": "",
-        "source": "Yahoo Lifestyle Canada",
-        "published": "11/12 00:56",
-        "published_ts": 1794412562.0,
-        "tag": "Fed",
-        "first_seen": 1794436238.8664715
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 23:45:58",
+  "updated_at": "2026-11-13 00:01:07",
   "yields": [
     {
       "label": "3년",
