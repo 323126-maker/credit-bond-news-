@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbURIYjRJcWZ6Ym44WF9sZ2NXNDlfVGp2N1JxMXRGVmZsN1I4QmxRc3dqa3ZjWXhkNEpUYjl0RllkV1F0bG1FejJ6SFFPekNzX3NLakFn?oc=5",
+        "headline": "ISEQ All Share (^ISEQ) Charts, Data & News - Yahoo Finance",
+        "summary": "",
+        "source": "Yahoo! Finance Canada",
+        "published": "11/13 03:44",
+        "published_ts": 1794509060.0,
+        "tag": "Strategist",
+        "first_seen": 1794510940.8369474
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOc083a0lkbUNVa3hrZGp5X1pJRGZid1dYb1VuaFJRZ0UyaTVoTW9sel91WTljcENERl9SZmZfVXRHNFdYNzFGQ2thRkYyMzM2N0ZMMFJUcG5tVUJjT0JLTmpnV3J6YVBxTEhJVS1xUEYyNVJHaFI5eFNlVGVxdThQUUoyNEhKeFg3bnNqOTM3bV90R2hjaEExRFlXZ3Nrc2ZNb2t0VVVVemoyWE5Scml3VlNkRGltVmRVYVVJdkZHSXRvLVZqaVhmQjlSZklfeWhieWlEVG5LdERrOW1xOFBCRFZqODhZUlA5bjNBZ0hPVlNFcGdsYnB0NG9leFYzLUdmbGlka1ZR?oc=5",
         "headline": "'If the race is there, you win it': CrowdStrike CEO and Mercedes F1 investor George Kurtz on driving phenom Kimi Antonelli",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794456784.0,
         "tag": "JGB",
         "first_seen": 1794507825.5452242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdEh2T3FXWENQbnZrcGFBd2E4TVhQc1hDVkh5ZDF2Y2RWMGxIY3JHMW1JZjNXRXI1SS1kbk4zZHd6cTBNTmVYRFVQekpJODdsMHlFa0hCUndfT3FoMEljYXdtUldSNWdsRkJseTJQTGJVSW9NNDVvSDVQakVtekpmSEpUU3F3Ym1iMXhEOVo5ZGt6ZzM2UUREOWdOa2JrX2pjM1hpaklHWEFjb2lsWjZoYUlicFdKVHp1WW5pTTdyZUs?oc=5",
-        "headline": "Japan 5-Year Bond Sale Sees Firmer Demand Than 12-Month Average",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/12 12:39",
-        "published_ts": 1794454740.0,
-        "tag": "JGB",
-        "first_seen": 1794460527.0119953
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 04:01:18",
+  "updated_at": "2026-11-13 04:16:02",
   "yields": [
     {
       "label": "3년",
