@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVk12Q0ZpOFZDZndjYTZNTjVuYWFhOEZDSGswejUwSEZONC0xemZBVldMZkFzdEFyR05HajR4bkRseGlJZmtBQ3BKMk9SSUlYbjl0UDF2dTBtQ3BsLU80VXhySi1WeXl5VVU3UDVyaUNLNHhHbUUzZkJ0bXdEQWU3OTd2T2hMbk9MclFIUF9ZWjJEN0sxbTlLcnJRNW5mXzh6eFVXMnFRV1JEaTVvTklpMVpmNA?oc=5",
+        "headline": "CoreWeave Bonds Rise After Strong Earnings Soothe Debt Anxiety",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/13 00:50",
+        "published_ts": 1794498604.0,
+        "tag": "Global",
+        "first_seen": 1794499242.5285296
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSFNyUTJxVFlCNFk0RmxfX3BvbWJRQXhVWGNQVjNFYkh6MzhiUFJGajNaVktSbE5MaklOODR0RW45TU5HaFJKLS1QTUhINEJ6Q0R3MDNVSkdDeHM3bmg1WlQ3ZHJWOXN0UzI5cUw4djE1SkwyQ0RORWkxbEh3bVdSVWRmSklMYzVhanB3?oc=5",
+        "headline": "Nomura Global Bond Fund Q3 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/13 00:40",
+        "published_ts": 1794498000.0,
+        "tag": "Global",
+        "first_seen": 1794499242.5285296
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeF96NUF0YXZjbklwQXYxOVFrYWNLNEx4U0lGWDVtZ3ZKOTNqNVhDYkNtclYyVTRBR29qVEtoUjJDTUUwMjFYX1NiYTZMUGdxaXMyWHZRSmNxR1E4RDE0SVVsclBlOTlnOXllbHhDbm50OG5KVGthQlFZXzlySkRkYUZWNlczWE1qOTZpY2RFT2NJLWVJSHFwQk5TcXpVZVZUbWd5RGRPYTZsb2RiTjBFQmMtVmVZVXdaNm1peg?oc=5",
         "headline": "Britt urges Senate to pass retirement investment options for public-sector workers",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794416726.0,
         "tag": "Global",
         "first_seen": 1794423642.2255123
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ1Zrc3o2Y0J6Rnk1MGt3WktrNC1XbGpOLXNRUklCT2I1OFBWdEJlTlhIOVhoNzJJMFdJWjR3NW1wZjd0MkJseWN2N1RmOXV5TW5SNFJGcC1tYWdjQVU5R3RoZE1wVlVYdHpRNUJuQXR3ZG13MUJ2NFhvQ2dUelc0bVBPbDlWVGQ4RnJVZ1ZBcW1fNmZXN3BwenE2d9IB0gFBVV95cUxQOThzMDN0LWU5VGJsdWQ2ZTk4aEZlNVVJbWM5b1paNlctUlRPd1l2QmRRTkRBU3RkOWVKU2tZMG54eE5FdW44NFNhYlctak1FWHByYnN5aUlsVUJkeXBFMGRrbmxqNzZsekRyNWNJM2VHVnJobi1DQ1E4UlhjM2Flc25Fa0E5cW54b2N1aUVfSXVMb2pnekRCWE4xWTFfb1BjeGtWek5yUnlpUDY2X3NMUFF6eDc0N0xPTXowRXhGbDktWWhBMTJ2ZFRVTkVGUlRhSEE?oc=5",
-        "headline": "Japan Treasury Sell-Off Raises Fears of Wider Global Market Turmoil",
-        "summary": "",
-        "source": "Coinpedia",
-        "published": "11/12 01:57",
-        "published_ts": 1794416245.0,
-        "tag": "Global",
-        "first_seen": 1794430846.6211772
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOa2hXVmxBejZuMktqMDMzbUNTcDA3ajBFdlE0MlpZc3AyU0ZPeHl0ZjJ3b3BhT2REdlRDVmRYWS05aFVhemtkZmVacFBnWFNXQlg5QjlmREo0VEdHRFFyTXNYR1FqV1VKUlhtVlNsT1ppUDRVQ0FVUTdGTW9FTXdVWWRVN0ZZMXpMNFo1dFBtMzJ4SzNRWHJkWnBlaGZId0x6dXJXSmU0ZW5tczhnc2pUM2Rn?oc=5",
-        "headline": "US Treasury Futures Retreat as Markets See More Fed Hikes",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/12 01:31",
-        "published_ts": 1794414705.0,
-        "tag": "Fed",
-        "first_seen": 1794465037.2859697
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 00:45:50",
+  "updated_at": "2026-11-13 01:01:04",
   "yields": [
     {
       "label": "3년",
