@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JeTdheDFLT1hJaEdTemFWZGNheWdsc290c05oMzIxQkZHeHZxR2NMZHVjZmhHQ0JqamxsNXZJb3BSd09UZVpENVVnUy1oY01TbFZGZl96cGxfaWo0NFVzbVdRSFdvSS04cXU4cUU1a0thUQ?oc=5",
+        "headline": "BOJ 아사다 위원 \"성급한 금리 인상 주의해야…경기 둔화 위험\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/12 11:09",
+        "published_ts": 1794449365.0,
+        "tag": "JGB",
+        "first_seen": 1794450599.9705856
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBRTFNzT3RId2xaSFlhQldhN0NnS1htYjZYY19yMGUtVXRYcVdRanZKMlV4UE9wdW85Q2llMDF1M0hFWVpja0lZSU4wN1VKZFlzdmdGRkhra1ZYZw?oc=5",
         "headline": "금리 2% 넘자 日 개인 국채 투자 사상 최대…7조달러 예금 이동하나",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794382408.0,
         "tag": "JGB",
         "first_seen": 1794384928.739307
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBLNm1ISDY5eUFiaGhrSG9ZeUtfMmF5dG1KbmRaV1d1VG9TOEtBZFI5UTNnUlhuWGJoTlZ6UlQ2N3pIM3g2NHc4bE5zRDJEVGZYcldIazdIQVhfUQ?oc=5",
-        "headline": "美금리인상 전망에 엔화 가치 뚝..달러당 159엔 턱밑",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "11/11 16:33",
-        "published_ts": 1794382408.0,
-        "tag": "JGB",
-        "first_seen": 1794383125.6473842
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 11:15:50",
+  "updated_at": "2026-11-12 11:30:25",
   "yields": [
     {
       "label": "3년",
