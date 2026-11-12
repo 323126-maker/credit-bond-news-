@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ma2ZlNmtBOTQ3QkN4SUJ4Mi1KejhjYjlJMWd1Q2hlRTE2ZTVNeG1uSnR4NUg4Yy1XMWhVVEpEWTRBN0p4N1RvTGhIV1JiRnFxUmtkSHZUTVVhWTNnUW4xdjU1YlRJeUtlaHZN?oc=5",
+        "headline": "회생 직전 4,000억 전단채 발행한 홈플러스, 책임은 투자자 몫",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/12 13:42",
+        "published_ts": 1794458520.0,
+        "tag": null,
+        "first_seen": 1794459641.3925538
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFByRjVtc29wNEFBWkwzT1AwejlYNTBNTGNWTkZMN042UVplTkN6YlpPMm44cUZpMWdEbTVXVFZGVjlYaDFuTk5FZUJ3QWpuWFNtaXE1NG1GS3B3QmtoSVRYOG9aWjFfckNEbHBsOUZoQkc?oc=5",
         "headline": "11월 11일 경제 뉴스 요약입니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794341693.0,
         "tag": null,
         "first_seen": 1794343531.2398038
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBZdFoyLWc2MEU1SzJRY1BadVFYM243Yk5KVVRVaHJZeWI5Q0YwRW5hTHJrX3dLdHpuaUctSTFNOFVOU3VGRk85TUdTS3pDT1I2Q2s1X21fN3FKWllHd0pjUDVDcVd6UEJsY1FaYTlrNHl3N09UWkE?oc=5",
-        "headline": "AI 위기 징후 일파만파 - 월가 큰손과 빅테크 내부자의 은밀한 대탈출 행렬이 시작됐다 -> 실적 없는 설비투자와 감당 못 할 감가상각비의 덫에 갇히다 |",
-        "summary": "",
-        "source": "데일리머니",
-        "published": "11/11 01:58",
-        "published_ts": 1794329915.0,
-        "tag": null,
-        "first_seen": 1794331836.1224282
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajhQQTBsY1JjRUR3YjBhX0ZmTGJoUnRsRGJxWWJ3ei1qM1hYWTA2OE1wamItU1hNU21VSkNGcU82bGpqZTBnc3o3OVpiMWV4aHN4cjNVVHh6M2VzWTcya1U2cGdrdjk4TXExTk1ORk5QSGNKNXo3S2dRWnRlUTZFc1JQQnc1bDJ6OUtqeWxPUW01MmEz?oc=5",
+        "headline": "Japan’s Bond Yields Slipped As Traders Waited On A Key Auction",
+        "summary": "",
+        "source": "Finimize",
+        "published": "11/12 12:05",
+        "published_ts": 1794452746.0,
+        "tag": "JGB",
+        "first_seen": 1794459641.3925538
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JeTdheDFLT1hJaEdTemFWZGNheWdsc290c05oMzIxQkZHeHZxR2NMZHVjZmhHQ0JqamxsNXZJb3BSd09UZVpENVVnUy1oY01TbFZGZl96cGxfaWo0NFVzbVdRSFdvSS04cXU4cUU1a0thUQ?oc=5",
         "headline": "BOJ 아사다 위원 \"성급한 금리 인상 주의해야…경기 둔화 위험\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794387960.0,
         "tag": "Fed",
         "first_seen": 1794390326.7248294
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQXFTRUFBV3FGYy1aRnNHSXNCOEZ3STZ6QldxalVURkx6eG5nZGxCaEx2MWpBazJ3YUxnNFB0TFdqWjEtbzUzSm1yVld0ZGVZajJNbDFRTVFWQnRURTAzSUF2Q1c1WkhIc29QNm8wUFFQSGN4MllTeWRPQTdKeGFZRDFSZEZUYUFqRjNzNl9POEFhRjZZT1dmc29JeEVEdERWOG1Hc1N3ZklWRjM1?oc=5",
-        "headline": "Rising expectations of Federal Reserve rate hikes trigger a wave of U.S. Treasury sell-offs; Japanese bonds follow suit as 10-year yields approach 2.8%.",
-        "summary": "",
-        "source": "Moomoo",
-        "published": "11/11 17:39",
-        "published_ts": 1794386388.0,
-        "tag": "JGB",
-        "first_seen": 1794427239.4873219
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 13:45:50",
+  "updated_at": "2026-11-12 14:01:04",
   "yields": [
     {
       "label": "3년",
