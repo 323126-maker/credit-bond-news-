@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVElMZC1uenpiOExRZlRSZ2k5cG9zMDZLZm1zYU1OYlFLWUhQMW1BSnBqU2ZacjBaUnlfeHcyY2dPUjB1RGYxN0stSDBTMU9zSUY3UzlzTUdhOTV6Rk0wWTlwWGw2YnlfQnNKQzZLUVBVSk1uOVpxZmdDdjdBZkFERE03c3UyYUNNcEdqSTJ4YWpvd2hyak0zMHRYdXRZSXZ0S1Z4cDA0RVN4bWQtVlZwczNxTQ?oc=5",
+        "headline": "주하이화파, 중국롄허신용평가 계약 종료…AAA 등급 철회 - 뉴스 및 통계",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "11/12 20:32",
+        "published_ts": 1794483171.0,
+        "tag": null,
+        "first_seen": 1794485726.8704033
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzJQaG9iOExKcDBqM0dTNUlLcTFoQ0ZQV2VaNUFHN3JvSUhieXNwOTBwTnJicVhLVG9seXY1UnN0Y3ZaY3VEbmpBcXdhMTlOUFRyR2JRNjZudTBCblNHRkZhRE16Vld5cUV3dlRDTGRwczU0T3dnaXdqNkRiRnRHMGM1ODRXcGdUM1Bhd3hudzQ2WHJLaTF6dHJEVzhVajQ3S0lsbA?oc=5",
         "headline": "회사채 시장에 대한 신뢰를 강화하고 장기적인 기반을 구축합니다.",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794366910.0,
         "tag": null,
         "first_seen": 1794369641.8665092
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE56ZDZQcmI4R3V4UU11bjduSXB3cllQTHFhSFNfa2wyMmJpdjBtY0c2QzFTdjdqcUN0UlMyT1dmaUllZ2RqVVhLSk4wanUxS3ltWm9LaTFpbEpvMmNXWklQVlF6RTNRaWRjeXY5TQ?oc=5",
-        "headline": "AI 시장 불안 잠재운 코어위브 깜짝 실적",
-        "summary": "",
-        "source": "중소기업신문",
-        "published": "11/11 11:16",
-        "published_ts": 1794363406.0,
-        "tag": null,
-        "first_seen": 1794364235.6910052
       }
     ],
     "perpetual": [
@@ -1730,6 +1730,16 @@
         "first_seen": 1794464127.5947614
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ndjBGZW02VHROd3Q4T0dtTjVSV1RnVlYtaVE1bDhGTXhGYlRiVWxreG5lNUZ0VDZfcjBINXEzZWktVS1LRUhhYWZYNWkwbmxUdTNrcS1XUGdRVzBZ0gFcQVVfeXFMT2d2MEZlbTZUdE53dDhPR21ONVJXVGdWVi1pUTVsOEZNeEZiVGJVbGt4bmU1RnRUNl9yMEg1cTNlaS1VLUtFSGFhZlg1aTBubFR1M2txLVdQZ1FXMFk?oc=5",
+        "headline": "일본 기업물가 7.1% 상승…수입물가도 24.8%",
+        "summary": "",
+        "source": "토큰포스트",
+        "published": "11/12 11:23",
+        "published_ts": 1794450224.0,
+        "tag": "JGB",
+        "first_seen": 1794485726.8704033
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9JeTdheDFLT1hJaEdTemFWZGNheWdsc290c05oMzIxQkZHeHZxR2NMZHVjZmhHQ0JqamxsNXZJb3BSd09UZVpENVVnUy1oY01TbFZGZl96cGxfaWo0NFVzbVdRSFdvSS04cXU4cUU1a0thUQ?oc=5",
         "headline": "BOJ 아사다 위원 \"성급한 금리 인상 주의해야…경기 둔화 위험\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794407566.0,
         "tag": "Global",
         "first_seen": 1794413786.9885972
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGU1cVhUTUxCbklhTTNxM0lzM3FOX0VudmFzLW1XUUlkMXN6cnNNUUNfeV9LQ3BBejYyNjBNdVFyVjVVUEpBTWxsWWd1UnZKczRYRDJacGttZnJITVRBN2V2TEVKQmJaMk5jSmxBUlhuV0NWVFNaZWtRSTJadGxrTjlScndVaFpFOGlkcQ?oc=5",
-        "headline": "Trump’s Chipghazi",
-        "summary": "",
-        "source": "The Bulwark",
-        "published": "11/11 23:25",
-        "published_ts": 1794407154.0,
-        "tag": "Fed",
-        "first_seen": 1794421838.7496474
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-12 21:01:09",
+  "updated_at": "2026-11-12 21:15:50",
   "yields": [
     {
       "label": "3년",
