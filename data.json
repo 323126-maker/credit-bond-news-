@@ -866,6 +866,16 @@
         "first_seen": 1794562244.5556235
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hdmN3R0ZfV2pQZG5SRG1uM0ZkczZyQkdQSmFhR2RDYTNxVkduU0VmU2tBVU5ZNmpLV3NSZUJmSFlmcFdWb2d5VEVVZS1Nb0RQd2pfUS0yWXNMUUNTUTVhS0xJYy1vQUQ2dURxRjExTWw?oc=5",
+        "headline": "11월엔 올린다지만 그다음은…금통위가 주목한 소비의 온도",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/12 10:40",
+        "published_ts": 1794447600.0,
+        "tag": null,
+        "first_seen": 1794576635.9270563
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
         "headline": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
         "summary": "",
@@ -924,6 +934,16 @@
         "published_ts": 1794361203.0,
         "tag": null,
         "first_seen": 1794362442.498713
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yVG9ObTJQNDVUTTVRdExBb00wYTZENEYtaFBWdjRlNWR2WW1SSXkwTDU4cUtjVmZPRUFNWlhlbnJZcFBnVE5WS3Q5WFBFaDRfQ1ZURUJLYVhYemk4b2NaeGNmMnhEbm9KdDBjeHhnc1hwVm8?oc=5",
+        "headline": "美물가 충격 비껴간 환율, 1330원대로 하락",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/11 10:34",
+        "published_ts": 1794360885.0,
+        "tag": null,
+        "first_seen": 1794576635.9270563
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB5TXR5aHFfQlBQdERnUHNNQjR4RDFNNlo1bHdGTldhS3I0T1VSMjNlNWpOYlV1ZzZNMGwxalBLYkhaaUV3NlZVZFZEMlR5d3RwSVB3Zk1uWWhOZllTNjRlX0Y3NU43eWlaMERGbXQtNy1Vdw?oc=5",
@@ -1184,26 +1204,6 @@
         "published_ts": 1794190389.0,
         "tag": null,
         "first_seen": 1794205836.7375576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtXzhmRVBxdkxzTnJ3SV9pR1NmYWoxR3BQbnd1RW8tLTltSG16U1JnX0VxOFJLYnllUWVHZ05ma1FWNUkxTjEyYXhscXo3anF5RUVwZXlrSDdYc3RzVS15cDBEenBPNHdILWlwX3BzbE9zUQ?oc=5",
-        "headline": "[한은은 지금] 로고프가 온다…김진일 금통위원과 토론도",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/09 09:46",
-        "published_ts": 1794185191.0,
-        "tag": null,
-        "first_seen": 1794187834.696724
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE50bGl2Q08tSUpqOTBESGlfdGgxZmZ3aU1MTnJuZGN4QzRJMkZpbXBLTTFITk1LVUJMY3hoVlVmUTlYYWQ4TFQ1TFRNYTV6N0xONGhZWGt4a0xyaUhzb1NyUmdXa1dNWU02?oc=5",
-        "headline": "[2027 자산지도] \"금리 고점에 채권 담고, 달러는 분산\"…타이밍이 수익 가른다",
-        "summary": "",
-        "source": "www.ebn.co.kr",
-        "published": "11/09 09:42",
-        "published_ts": 1794184924.0,
-        "tag": null,
-        "first_seen": 1794188727.7978601
       }
     ],
     "politics": [
@@ -2413,8 +2413,62 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 22:15:49",
+  "updated_at": "2026-11-13 22:30:59",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.759,
+      "chg_bp": 3.0,
+      "series": [
+        3.877,
+        3.84,
+        3.822,
+        3.84,
+        3.803,
+        3.789,
+        3.758,
+        3.799,
+        3.766,
+        3.715,
+        3.74,
+        3.736,
+        3.714,
+        3.669,
+        3.613,
+        3.639,
+        3.633,
+        3.729,
+        3.729,
+        3.759
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 3.841,
+      "chg_bp": 3.8,
+      "series": [
+        4.014,
+        3.99,
+        3.965,
+        3.983,
+        3.948,
+        3.932,
+        3.899,
+        3.949,
+        3.923,
+        3.865,
+        3.892,
+        3.87,
+        3.837,
+        3.769,
+        3.717,
+        3.731,
+        3.718,
+        3.81,
+        3.803,
+        3.841
+      ]
+    },
     {
       "label": "10년",
       "value": 4.001,
@@ -2440,6 +2494,33 @@
         3.95,
         3.937,
         4.001
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.104,
+      "chg_bp": 5.9,
+      "series": [
+        4.214,
+        4.179,
+        4.197,
+        4.21,
+        4.17,
+        4.164,
+        4.145,
+        4.193,
+        4.171,
+        4.106,
+        4.115,
+        4.08,
+        4.047,
+        3.985,
+        3.969,
+        3.98,
+        3.977,
+        4.043,
+        4.045,
+        4.104
       ]
     },
     {
