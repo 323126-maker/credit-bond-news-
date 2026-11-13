@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPbXFkQ243azV0T0lmLWZzVHJLU2NfVGhVZE82OVFLZEtIWjB2VGJTT1U4QTBXUEV5OHRpWC1aOGZ0aUw1N01kcWZCSVZfSlpZZXJlMDJXNEFzX0pxMWZZZkRfdmpMVV9FRjdveU1ua3FBYm9jOTh1ZzFRQVpyZHB0NW8ydnhfN3I5bnVranRxQ1gtNkdpYnoyRlA0WHRBMkF4ZDdKd19RNHp2d21LRXBxSVVGald3UmVnbm4tNlU0U0UwcHNrRjdObUZlZmVSd2ktTFg4YllWcG1BeUFtWGdWM0pDVUtzX1N6WGU4RzdTVXdQN1k1TnNCNzhtYkgxdzB1UmY3bk5fOHF0bjRjUklvSloxMUNuT2NpWk9fSWdQakZMQ01kQUE?oc=5",
+        "headline": "Mohamed El-Erian Warns Higher Rates ‘Will Increasingly Pressure Rate-Sensitive Sectors Like Housing’ as H",
+        "summary": "",
+        "source": "Benzinga",
+        "published": "11/13 20:22",
+        "published_ts": 1794568935.0,
+        "tag": "Strategist",
+        "first_seen": 1794569436.287726
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWkQ4OXhSU2NkMHBKdUJoR3UxSHZZdDcwX2lwRldpTVlTdWstUGdDMExnaDVjb1ItV2kyUlNGRnlNbS04ZDVWX1hrczMxOXRnTG9MWUxFRXBMNFc5UkYwMnpFOGZsTG1KcTB5dGdlckdHRmFrdERaT1VZWkJKU0JhMER4czlvUEJXQ0JxalhaWUxyQ0pfaHh6WHZlUW1GYVBpb3RxQXVUMVpzMGc4c0E?oc=5",
         "headline": "Fed's Warsh to take stock of AI revolution as US public grows wary",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1794568264.0,
         "tag": "Fed",
         "first_seen": 1794568535.0305939
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeU9jNzlZSFBxZlFTeUNKMjNfbE5pcHBGV2FqYUtGbFBIY2VZM0F5cUNxc2k0cUJBU3AwNWRudDBnZm8xNjBuS0pYSTBETjVOWHRlQ01kRzlsQlhqWE9MeGdMTVB5Z0RyeHkyanNBX0ljaG01V0VCeGtCUDRzX2xqODdvMkwwSldYRGp5Qm1DOEY?oc=5",
+        "headline": "Fed Chair Kevin Warsh Takes AI Questions To Silicon Valley",
+        "summary": "",
+        "source": "Finimize",
+        "published": "11/13 20:05",
+        "published_ts": 1794567908.0,
+        "tag": "Fed",
+        "first_seen": 1794569436.287726
       },
       {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yMHY0dTVzNUJHc3d4cFlZMDhXU2pMaFBsNnVmWERTcHpHRFJmWWJOV3NENTY4VzZfUDhzX2FxamU2MXJqZTJVeEFMd1RTbmtvMXNkT2J2c0VseTJfdHZjcF9LYldIeHFobmUtYzk2M0JYZnQ5OGI0THlrVC1aMlE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794510809.0,
         "tag": "Fed",
         "first_seen": 1794512729.1070266
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1QbURIYjRJcWZ6Ym44WF9sZ2NXNDlfVGp2N1JxMXRGVmZsN1I4QmxRc3dqa3ZjWXhkNEpUYjl0RllkV1F0bG1FejJ6SFFPekNzX3NLakFn?oc=5",
-        "headline": "ISEQ All Share (^ISEQ) Charts, Data & News - Yahoo Finance",
-        "summary": "",
-        "source": "Yahoo! Finance Canada",
-        "published": "11/13 03:44",
-        "published_ts": 1794509060.0,
-        "tag": "Strategist",
-        "first_seen": 1794510940.8369474
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbkpOR3BvekVzdjBuV0JBVXVvZndYdU5ZbWFGNG5fWUJrWE9pMlFSLWxDVzN1V21Idzl1TzU0R0xVOEFaclNvMEFUVHBiX3lYZDNPWGo0eVIxY3BYWG92SVJ1V201MWlSQ1NsOU9wTjlhOEJWWDVna1VYSThuMlZnUjdTZEVwdnJlZHlZSUF0WmFxRktRZm4zVDV0SndsUURXWEZGatIBqgFBVV95cUxQUzVaQUY3ZWFSX25nR2hnM1loNHJBd2RFbkJPY21rM1drMFJvTHlxU2VoUVlpcGhScU1sek5QRGNLalRFRHBZaVFISGY2ZXlhX0dsNmFkdDlrRV96M2prU2NFcFk5eDVyV3NBZ0dKclhiRlJ6dEw1NXBNUWxYOFdUNGhxLVphdjFscGtEQVczSDhHUVBDMmNRdmZEV2FTWmJLS0FOOEdVRTdVZw?oc=5",
-        "headline": "Home sales in the US are at their lowest level since 2016",
-        "summary": "",
-        "source": "Al Jazeera",
-        "published": "11/13 03:44",
-        "published_ts": 1794509055.0,
-        "tag": "Fed",
-        "first_seen": 1794518127.5670373
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 20:15:59",
+  "updated_at": "2026-11-13 20:31:01",
   "yields": [
     {
       "label": "3년",
