@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XY1I1M05ONk9lNGlWU2J4d084SHlGTHBYYzZ4WUlESXJoTkVOMTZ1ZkFHdm9TcS10MEJGN3JxaU5QdUktQWpuNGJvSHhvOGFCb0pCWGdOa05HQkk0TmN6aWEyWV9UTDdnRDhUMzRDb1I?oc=5",
+        "headline": "뱅가드 CEO \"채권시장 변동성 2027년 핵심 위험\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/13 09:54",
+        "published_ts": 1794531253.0,
+        "tag": null,
+        "first_seen": 1794531696.6203737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TX2l6Z1AtYUZUWUFSYnhybk1fZVd0SE5fUldyZWZXeGt5dGJ0QTB3dUNFZ0F1RmoxUEhoMnYybThoV19jS2RxWHl3SURDX2VKcUxLZ3VGSk1EUQ?oc=5",
         "headline": "AI 투자 열풍에 회사채 쏠림…빅테크 차입 비용 압박",
         "summary": "",
@@ -70,6 +80,16 @@
         "published_ts": 1794517500.0,
         "tag": null,
         "first_seen": 1794518127.5670373
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tQzhBMFpxRGFCZElycmc2V203eEdoN2I5MkhOaFB4U04tV1FwdDVqUWgzTmZ0QWJySEFFMTF0cEdZS0p0Vk4tRkxVdTg2YVFmNGxIYldIa1Jab2VmX014dTZLUGdoalBueVHSAW5BVV95cUxNMVVDWkM3Z3JNd2VwUDgySFVCMTFndnZpWW1COEhiU3ZZTERfa1R0aWlTaDQ4VnhvZVI4YmFxeEE4elNWeVdmVTJHY2lIcy1vU0VfMHM0VGtXWDRUQkNiUzBlekgxOVRvSWxORVFNUQ?oc=5",
+        "headline": "신용등급 AA→A로 탈락한 '신동빈의 롯데그룹' 지금은?",
+        "summary": "",
+        "source": "르몽드디플로마티크",
+        "published": "11/13 05:01",
+        "published_ts": 1794513695.0,
+        "tag": null,
+        "first_seen": 1794531696.6203737
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVElMZC1uenpiOExRZlRSZ2k5cG9zMDZLZm1zYU1OYlFLWUhQMW1BSnBqU2ZacjBaUnlfeHcyY2dPUjB1RGYxN0stSDBTMU9zSUY3UzlzTUdhOTV6Rk0wWTlwWGw2YnlfQnNKQzZLUVBVSk1uOVpxZmdDdjdBZkFERE03c3UyYUNNcEdqSTJ4YWpvd2hyak0zMHRYdXRZSXZ0S1Z4cDA0RVN4bWQtVlZwczNxTQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1794385853.0,
         "tag": null,
         "first_seen": 1794402927.5835817
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0NnlvN0VFVG15Q3E5TkI0dGNfUEdIbDNxV1JuWi05VzY5ZlVGQWp6WUp0QW9Td0t5U1I0M2gyenJQT2NGQWlBUVJsbw?oc=5",
-        "headline": "미국 10년물 5% 근접하자 국내 채권시장도 흔들려 : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/11 17:10",
-        "published_ts": 1794384617.0,
-        "tag": null,
-        "first_seen": 1794391238.4332614
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ub3BTR0R5ZTByOURGcVloTjR0N0ZxODdfMEtFOUtMeG9NMXRLencweEhjQUYxNlBTSnEtT3pxNzhTb3JWRWFwNDcwb0J3M281Z0hfTGxwQTdhVWcwUnRmVTZRdGpybmp3ZEdXQUlRbkgxUQ?oc=5",
-        "headline": "[채권-마감] 美 금리 급등·공정위 PD 담합 제재 여파…3년물 9.6bp↑",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/11 17:08",
-        "published_ts": 1794384488.0,
-        "tag": null,
-        "first_seen": 1794384928.739307
       }
     ],
     "perpetual": [
@@ -916,6 +916,16 @@
         "first_seen": 1794300328.2694757
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1iWTRYb0xwUzNQelJBUGI1WEhqd081ZDQyS2lKcXZFazFMcERIRk1ydlhVbFVCNERaNENfM3pvWmZWelk4a2JQejFKcjRSN2tiNV9aQmp4TmVaQTgwdTJNWVZKU25DdEUtVzV2Ql9VMzVrVUF60gF0QVVfeXFMTWJZNFhvTHBTM1B6UkFQYjVYSGp3TzVkNDJLaUpxdkVrMUxwREhGTXJ2WFVsVUI0RFo0Q18zem9aZlZ6WThrYlB6MUpyNFI3a2I1X1pCanhOZVpBODB1Mk1ZVkpTbkN0RS1XNXZCX1UzNWtVQXo?oc=5",
+        "headline": "금통위, 기준금리 3% 유지에도 추가 인상 가능성 열어둬",
+        "summary": "",
+        "source": "팩트인뉴스",
+        "published": "11/10 17:26",
+        "published_ts": 1794299209.0,
+        "tag": null,
+        "first_seen": 1794531696.6203737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBIYjVNbXlMWWV5TUNvaEVoUXlpcUdjLXJPTFJWemRDY2RKb3hsMU5DREZBdlZfYUZhVktXWTJCbW14NVdJY3ZHbGo4QVlJQUREVmNRaU5pVHdzOV9NU2pyRF9MYUZZSG1OWUpTY9IBcEFVX3lxTE1oZHJ5LWtYUzVYbHhBejhQZ3JiMnlVWXlrUzZqT1VZUXVfVEc0d2Q3MXN6bmZfQkROdVZlZVFnWDdTZU1CZndqTGdGSmFZWkxfSmpyZ29oVVh1bkxlUDlHRThmMTJVQzhFdG9TQllqTy0?oc=5",
         "headline": "[기획] 국채금리 9월 고점 지났나…내년 향방은",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794030240.0,
         "tag": null,
         "first_seen": 1794036634.214512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41b3dKZ1FNOE5xLWNSQUJNTk1Ma3BNQTl4MXdqRlVLV1cwUmNUSkpzQmRVZ1lHQ18tc2JsYlk3SEFpaElqT1pDOTk1VjlBQXJpLThrelVEYktmZHfSAWBBVV95cUxQY2dZLWpBekhSTlRhWTZzZkp1dHVxeXdodnZmU2RKMVlBcV9uOUltQ3Ywdk1PMlNZYVd4anVLSG9VSktEb0dqRmUtTWVyQ1MwUzVDOUJ4VHV6RGJCYlhnSk0?oc=5",
-        "headline": "[인터뷰] 이윤희 삼성운용 채권본부장 \"빨라진 금리 하락…전략 재점검\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/07 10:34",
-        "published_ts": 1794015240.0,
-        "tag": null,
-        "first_seen": 1794179728.1391225
       }
     ],
     "politics": [
@@ -2032,6 +2032,16 @@
         "first_seen": 1794519925.863276
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE0tQzhBMFpxRGFCZElycmc2V203eEdoN2I5MkhOaFB4U04tV1FwdDVqUWgzTmZ0QWJySEFFMTF0cEdZS0p0Vk4tRkxVdTg2YVFmNGxIYldIa1Jab2VmX014dTZLUGdoalBueVHSAW5BVV95cUxNMVVDWkM3Z3JNd2VwUDgySFVCMTFndnZpWW1COEhiU3ZZTERfa1R0aWlTaDQ4VnhvZVI4YmFxeEE4elNWeVdmVTJHY2lIcy1vU0VfMHM0VGtXWDRUQkNiUzBlekgxOVRvSWxORVFNUQ?oc=5",
+        "headline": "신용등급 AA→A로 탈락한 '신동빈의 롯데그룹' 지금은?",
+        "summary": "",
+        "source": "르몽드디플로마티크",
+        "published": "11/13 05:01",
+        "published_ts": 1794513695.0,
+        "tag": "신한지주",
+        "first_seen": 1794531696.6203737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBSNllCeTQtNWlvVnNVQVZWZjhvMWlsX3Z0NWVVZTdwVm5jZnlKMnp5NlFiVG01LTByQjNKX055dkNvZGJSVG9kNVpLeXR1UExxeHhES1lTX3c3b0RITy1XNE1GS0pkQXdVcUQ4Nw?oc=5",
         "headline": "우리금융, ESG평가 최고 S등급 유지 비결은...환경·사회 점수 꾸준히 상승",
         "summary": "",
@@ -2400,20 +2410,10 @@
         "published_ts": 1794356236.0,
         "tag": "우리지주",
         "first_seen": 1794357035.1309235
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9iTjhzNFlRSTUyQWxFcHFqMVpOWHUta2pkNVl0SkFvanhwNU1nWWx4ZE1KZjNIRTZhVkhieDNUS2lSTzNtQXNxQm5USGpidkpEVVdYWlloVTdjVzZsMTFWRlRCcVBNaTJ0MEthZldR?oc=5",
-        "headline": "은행권, 2027년 기업대출 중심 성장…순이익 25조원·주주환원 확대 전망",
-        "summary": "",
-        "source": "일요경제",
-        "published": "11/11 08:50",
-        "published_ts": 1794354614.0,
-        "tag": "신한지주",
-        "first_seen": 1794365125.9340434
       }
     ]
   },
-  "updated_at": "2026-11-13 09:46:10",
+  "updated_at": "2026-11-13 10:02:01",
   "yields": [
     {
       "label": "3년",
