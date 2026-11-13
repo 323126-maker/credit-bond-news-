@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NT0lOWmQ4X1ppU3I1dkczQzdpVG1iMWQ2NWRmME5veEdBYkhhbXFydEZvMkQxLXNSWGV0cWFMV0JJZmpETGpma3JSVG1lMXZzYlAxTmRRWUtUa0FoM1ppVkJackR3a2lwc0VfVTVxQm8?oc=5",
+        "headline": "공정위 PD 담합 제재 후 첫 국고채 입찰…서울채권시장 \"걱정보다 덜 약했다\"",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/13 16:37",
+        "published_ts": 1794555452.0,
+        "tag": null,
+        "first_seen": 1794556839.2290447
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRdIBb0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRQ?oc=5",
         "headline": "전투기는 하루아침에 날지 않는다… KAI의 성장 공식",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794405875.0,
         "tag": null,
         "first_seen": 1794406530.772066
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1OWUlkUVpyNTJldVRQQ2JqWnZJVzVTN05HWXlWT1ZlTVpOQWkteEV5U2ZxdTZ3TWtvN1ByNlR0eVFTbEQtcWhVUEh1MmxPSkhTSVJXeDQ5MnFGTTg?oc=5",
-        "headline": "코어위브 ‘깜짝 실적’…금리 공포 억누른 AI의 힘 [11/11 G브닝]｜Global Money Club",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "11/11 21:30",
-        "published_ts": 1794400227.0,
-        "tag": null,
-        "first_seen": 1794401125.511751
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9BMlZKYTNyY3hodkRRYWc4QWpIWEMwTDNfNktlQ2YxTTNhMkRLR2EyclFwRzh6ZW1BTEhhUUVkMUxua2FLdzdHT1ZWdEdFYWdwVTF0ag?oc=5",
+        "headline": "Japan Markets Brace for Possible Currency Intervention",
+        "summary": "",
+        "source": "News On Japan",
+        "published": "11/13 16:53",
+        "published_ts": 1794556398.0,
+        "tag": "JGB",
+        "first_seen": 1794556839.2290447
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1V1UXRER19ZQk9oak52OHd6SkY5ZmlJbHNyR2VkcW1hbU5LRk82d1pwV01XTkJMYWVHQ3pJWkk5ckltempweTR6QnpCNXFMdDY2MmExODdYbXN0SWhnSm1Bc2xhWFVfUG1TSjRDenZvOUg5VWFsY0RIbXRJN1lwQjZxbw?oc=5",
         "headline": "Aging Americans Drive Demand for US Corporate Bonds",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794502800.0,
         "tag": "Global",
         "first_seen": 1794507825.5452242
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ04zX2piUkJTU3dzU2FKQ0xzMTlXQWhuYmNZa0k2ZW9YS1Y1NFYyNkJIeDJNZThldHd4am9ROGo0dWNuUFhMQU5OWUtuUjc2Qm1MXzdFSFk1ZEo5RjBYWjhPQWtrUUpONDJucGlKTVByMTN1S0JudFNaZ0d1YkJyS3diWFh3X2FEVkZzbFFPRmJTUl9DVHVjdVNIMUl6bTBZ?oc=5",
-        "headline": "Corporate bond diversification: the case for Nordic unrated bonds",
-        "summary": "",
-        "source": "RankiaPro",
-        "published": "11/13 01:24",
-        "published_ts": 1794500680.0,
-        "tag": "Global",
-        "first_seen": 1794504634.4083023
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 16:45:48",
+  "updated_at": "2026-11-13 17:01:02",
   "yields": [
     {
       "label": "3년",
