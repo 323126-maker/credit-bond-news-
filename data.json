@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmZoNEduM2dRbXE2OGdRTDh0clhJLVRCMi04aWFVTXZzQTZpSFE5aXFuYk1UemI1el9KWmpjSWRUQjhrYV9Hbm5uellhQ0tENkxaYkxqMEZkM2laZ0VYcXMxdjRUZjBGX1dZcm1pS283ZEtkQ0xJQXBKQlNsUTBpbjNqeXpmUm5vVWpwUmtTNm1XNHJ6TmcydU02bFl0YWxEUVVjWg?oc=5",
+        "headline": "Jeffrey Gundlach: Why bond investors need a new playbook",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/14 01:22",
+        "published_ts": 1794586937.0,
+        "tag": "Strategist",
+        "first_seen": 1794588342.807759
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmZBTTBhYXpVY29JS2dYc0s4MVZzQVN4NUJXX2dRUjUyMVM2OFA4cWNKT0h4bkliZ2tjTkhaRkhSeElYenlOVUVkeGNiWXlYaVQ3QXZ2TTY0WXBXTGppZ2Q0V0VlSVRPZGd4eFJNdVE0WjV4OHk3U0JBcV9BLUdIS1VPZ0xtVUhUd3A4WHB6Nlp0cjE4WjhzNGRlQjhqVElCSVlYcC1WR0N2Ri1keTFSM19PRnFSdlBVV1JteHB1UDJ4Z0FWSi1LeG5n?oc=5",
         "headline": "Logan says Treasury market functioning 'very well,' Fed needs to strengthen support tools",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Seeking Alpha",
         "published": "11/13 07:05",
         "published_ts": 1794521102.0,
-        "tag": "Global",
-        "first_seen": 1794521729.9337604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeVV1NmM2S1RPeHZHRF83R1JQWm02a1hBalBRSHlLOUpEMnNDdUotVDJqZ0Z1Tk00TjhhQkhwTHc1SGJaa1NCUTRmanBQQlB1NnNZQkdOcjF0dXMxOWFzQ2Q0elFyRTRJWE9LQ1d1RF9aS1RkZU1ZS2U4ekZxNVJzNEVwak9YN0ZUeDVxR05fWFhmdXlZLWsydU1iQ19vaFlFZHdjVy1yRmtOQ0QzcEZSTE42bHdDbzdYb2c?oc=5",
-        "headline": "Have Bond Yields Reached a Point of No Return?",
-        "summary": "",
-        "source": "CME Group",
-        "published": "11/13 07:01",
-        "published_ts": 1794520907.0,
         "tag": "Global",
         "first_seen": 1794521729.9337604
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 01:30:55",
+  "updated_at": "2026-11-14 01:46:04",
   "yields": [
     {
       "label": "3년",
