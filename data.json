@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9SRzNpbzd5dHdmemg5Y1NVaENDLVphY0RoaDYtNDRVMXdFZEhqaWowcVI4S2xTU2JzYmZr?oc=5",
+        "headline": "Inflation Pressures And Fiscal Risks Shape Bond Markets - TalkMarkets",
+        "summary": "",
+        "source": "Howl.Link",
+        "published": "11/14 06:16",
+        "published_ts": 1794604560.0,
+        "tag": "Fed",
+        "first_seen": 1794605434.332508
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0wYjM1WU5ERlhXcldkbmEtemxmMjc4THFTS2N6T3lqX2s3cDdLQ1M0eFF3T0FON0Z3Z21nWkt0NUdEeExYUS1yMFJ6Nzc0MTV6VzJ6dGpCRXktMVFlY3NOREFOM1ZzR1JWLXhzLWw1WUVsNUI5U3B5Qg?oc=5",
         "headline": "7 Best Short-Term Bond ETFs",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794551333.0,
         "tag": "Global",
         "first_seen": 1794565834.3882005
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZF9DbHNFS3ZualNXeEc0bUpfQUJDbWpqanF3WmZDZS1UUE05QzlfTFluMUFBTUx0SUk1ZkczRXZUMS1IVHdVWExISnEwVTlDOEluSjJoMG1PNldUdFhmLUVaajZtMjB2S2N6ZUxQUlUyYXo4YzFDN2EtN0ZNUDBxaEhKdGpZNWxLSjhhNTFrMUtpWkd3MkRBbFlfMkhKNW9nVTFtWDVfM1pYa2Qtemc?oc=5",
-        "headline": "Japan Bonds Fall as Treasury Rout Extends on Fed-Hike Bets",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/13 12:11",
-        "published_ts": 1794539460.0,
-        "tag": "JGB",
-        "first_seen": 1794541123.8677657
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 06:15:52",
+  "updated_at": "2026-11-14 06:30:59",
   "yields": [
     {
       "label": "3년",
