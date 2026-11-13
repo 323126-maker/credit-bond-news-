@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaDdDTVRyQmFuME9xMm1Uakhyb2V1S0JINzhjVUlSWkV0X0I1M0p5UWFacFFreThUQy1ZeGJWSDZKX2tOdHhUTXhtN0RVenNIMUhXbkQ0SkwzRUxCUmRyZlI4dHR1RUhuVWUyOUVnM29YMXVzV1ZuNEMtNUdjZVdvTnRrQV80dw?oc=5",
+        "headline": "Fewer Fed Meetings Raise Stakes of Warsh’s Communications",
+        "summary": "",
+        "source": "The New York Times",
+        "published": "11/14 00:34",
+        "published_ts": 1794584097.0,
+        "tag": "Fed",
+        "first_seen": 1794584731.452947
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
         "headline": "Kevin Warsh Puts His Stamp on the Fed, One Canceled Rate Decision at a Time",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794520680.0,
         "tag": "Strategist",
         "first_seen": 1794522632.3083107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE80Tk1hVEtVZnRKYlZPRnVqT0VvTmYyNmp2eGdQS0NtU1EzRFZpdDd0RnNvejRyREJYa3UwdXVkWGpUZzMweE1nZHNEM1VoMldtRjBkYTJJTWRaN1d6Z2xSM0ZCZ2w5TEFEWmdDZWFJYkdRX193RHc?oc=5",
-        "headline": "Fed Overhauls 2027 Meeting Schedule, Cuts Rate Decisions to Seven a Year; October Slated for Strategy Talks",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/13 06:35",
-        "published_ts": 1794519300.0,
-        "tag": "Fed",
-        "first_seen": 1794537037.230825
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 00:31:56",
+  "updated_at": "2026-11-14 00:45:57",
   "yields": [
     {
       "label": "3년",
