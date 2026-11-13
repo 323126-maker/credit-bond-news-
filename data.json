@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
+        "headline": "Most top Fed officials blame AI for fueling inflation. Not Trump’s Fed chief.",
+        "summary": "",
+        "source": "The Washington Post",
+        "published": "11/13 19:08",
+        "published_ts": 1794564534.0,
+        "tag": "Fed",
+        "first_seen": 1794564928.1318913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTHdjTmRQdklkWGhJSTQwdkNhUUVITGJKZnZ3ODNKaGhrTEFBMEFtRTFPYTZQdEtoeENvN0FtTnhXMWt4NlY0UlBwWS1BOFlZdWdZNzQ0Znp1ZW9yLVBpSWwySjdEcHA1Q2NUbWpHNFdJUnpyTkZoRmQ1cENQWWhvaFNRRVhETlBzVi1MdHFKNzhJQ2h1T2h2X2NYb1ZSdUI1N2JXZldSTUJvcGllUHI3dEJkWjBmVTZuVUZxMFBhY2UwLVM4ek9OcEVpc3o?oc=5",
         "headline": "Fed Chair Kevin Warsh's Central Bank Reforms Come With a Significant Unintended Consequence",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794504840.0,
         "tag": "Fed",
         "first_seen": 1794518127.5670373
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMnJNcnQ2MDlrUWZ5V0JHYUdBUGhOdWd3ZW4tOWxScmhOZndzTFZEY3c3YUR3emo0Zzc1OEhpdVM5QUJ0Ni1ScnhXZURnbXVSUEZBQnFZMjlpMF9BWE5oODYxMnJKR0RjOHFWVDUtWU0weXQ4S3k4SEVmYXl5NktkU0JXY2NEVzNSNmEyODluNXpWM2ROZW0xaG5HTHdlUTVHVzZ0SGprcmhFOWVocS1OWnBBWW1iN3FycmtxZWVrVmhJQVE4VFJ3?oc=5",
-        "headline": "Why bond king Jeffrey Gundlach is steering clear of the AI 'blast radius'",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/13 02:17",
-        "published_ts": 1794503878.0,
-        "tag": "Strategist",
-        "first_seen": 1794504634.4083023
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 19:01:02",
+  "updated_at": "2026-11-13 19:15:56",
   "yields": [
     {
       "label": "3년",
