@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRdIBb0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRQ?oc=5",
+        "headline": "전투기는 하루아침에 날지 않는다… KAI의 성장 공식",
+        "summary": "",
+        "source": "시사위크",
+        "published": "11/13 15:54",
+        "published_ts": 1794552877.0,
+        "tag": null,
+        "first_seen": 1794555035.8821886
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRGZpdXM1MW1yNkdRdDJlUFhVSmk3a3VyaF81d3g1NjVFUFRpV0ZmOTRxVkd3YzdlTzFFOEhQWmRhX3AyUzJOMF8yNV9ZLXg0a0ZDMmg4c1RpcHdYb1VuNjVIWlRoNWFLQXFKcA?oc=5",
         "headline": "피치, 아태지역 가스공급업체 수익성 악화 전망",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794400227.0,
         "tag": null,
         "first_seen": 1794401125.511751
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE05VXpyZmRhUFl3T2FpXzA5d3dkWGt1T1ZOd3NSamlmcjBCdkxyX2g0OTIydEV2NEpXdFB5SXlpMjNRRnRZTXZISGlKX3paTGNuampHYkxGSHZ3Yl9oZUJQazJPY2EwNERaRzFyWTBacGVjUQ?oc=5",
-        "headline": "국고채 금리 급등…미국채 5% 위협에 채권시장 긴장",
-        "summary": "",
-        "source": "톱스타뉴스",
-        "published": "11/11 21:14",
-        "published_ts": 1794399283.0,
-        "tag": null,
-        "first_seen": 1794400236.725993
       }
     ],
     "perpetual": [
@@ -816,6 +816,16 @@
         "first_seen": 1794486634.693558
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9kTUp3azJjNmVWVVpsQ3JicDVfRWI4VGw5VU9GTy1nZ19IS3p6aEhPckV0X0FqUk1yYldrUjUybVdzczFoV3J6QVdpbTlzeGppTGNodUtlUWdBUHRxRFA4UjZlYzlVSWtNYlFiU2JEdHYyUQ?oc=5",
+        "headline": "이미 긴축적이라고?…한은 FCI 판단에 기준금리 경로 달라질까",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/12 09:25",
+        "published_ts": 1794443139.0,
+        "tag": null,
+        "first_seen": 1794555035.8821886
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGhOVHBVU1FoRWdvbngzdkJtU0J1N3BpdUJwaUl1SmRvcFNCdno0bzNIb2pVd2dfbS14emdBam41blJHa2VpaFdhazRhXzRrcThubGtJTnNjYmZuNW41Yi1vd1l0M1d6?oc=5",
         "headline": "美 연준 '빅스텝' 경고에 물가 지표까지 부합…국채금리 급등, 한국은행 26일 결정 주목",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794060240.0,
         "tag": null,
         "first_seen": 1794060928.1488135
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04eVVXd0J2Ty12eThuVWdrUUhmM0JTWHZGZzdIYk5Bb1Zxek9McDBnOGx5ZjgtMEJhb2tkRzM4UDE5QXRuaUZzZnJmWldscjRucWprM2t0bmJ1cm9pMjdOamhyaXR2VFQ4NjZCMnBn?oc=5",
-        "headline": "한미 10년물 금리 차 1%포인트로 확대…외국인 채권 자금은 단기물만 이탈",
-        "summary": "",
-        "source": "이포커스",
-        "published": "11/07 22:33",
-        "published_ts": 1794058426.0,
-        "tag": null,
-        "first_seen": 1794059125.9549825
       }
     ],
     "politics": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 16:15:53",
+  "updated_at": "2026-11-13 16:30:59",
   "yields": [
     {
       "label": "3년",
-      "value": 3.729,
-      "chg_bp": 0.0,
+      "value": 3.759,
+      "chg_bp": 3.0,
       "series": [
-        3.854,
         3.877,
         3.84,
         3.822,
@@ -2439,15 +2438,15 @@
         3.639,
         3.633,
         3.729,
-        3.729
+        3.729,
+        3.759
       ]
     },
     {
       "label": "5년",
-      "value": 3.803,
-      "chg_bp": -0.7,
+      "value": 3.841,
+      "chg_bp": 3.8,
       "series": [
-        3.988,
         4.014,
         3.99,
         3.965,
@@ -2466,15 +2465,15 @@
         3.731,
         3.718,
         3.81,
-        3.803
+        3.803,
+        3.841
       ]
     },
     {
       "label": "10년",
-      "value": 3.937,
-      "chg_bp": -1.3,
+      "value": 4.001,
+      "chg_bp": 6.4,
       "series": [
-        4.182,
         4.205,
         4.176,
         4.16,
@@ -2493,15 +2492,15 @@
         3.863,
         3.85,
         3.95,
-        3.937
+        3.937,
+        4.001
       ]
     },
     {
       "label": "20년",
-      "value": 4.045,
-      "chg_bp": 0.2,
+      "value": 4.104,
+      "chg_bp": 5.9,
       "series": [
-        4.206,
         4.214,
         4.179,
         4.197,
@@ -2520,15 +2519,15 @@
         3.98,
         3.977,
         4.043,
-        4.045
+        4.045,
+        4.104
       ]
     },
     {
       "label": "30년",
-      "value": 4.015,
-      "chg_bp": 0.0,
+      "value": 4.074,
+      "chg_bp": 5.9,
       "series": [
-        4.267,
         4.276,
         4.264,
         4.251,
@@ -2547,7 +2546,8 @@
         3.977,
         3.959,
         4.015,
-        4.015
+        4.015,
+        4.074
       ]
     }
   ]
