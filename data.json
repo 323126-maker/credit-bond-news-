@@ -282,6 +282,16 @@
         "first_seen": 1794465925.901083
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40aFg3d0dvdXJ0OFRJVUZMMEZRbkROZ0Mtb0ZTRkNjOXV5Y2ZOQ1dadVZRUUtFakU0YmE2cTZJZHNCYVRTTllCdGZrdmc4X2pUbWtqNDE2bkVvRjDSAWBBVV95cUxNMktaSHVvYjF3WU9LWVRDVjlQZUh0SUhRM19tYkpRQUZCdHVvRFZReXZmWjA5MEp3SmdiVG5tVk15ckVjUXY1MExfdVZRd2xyT21yMTA1VkV1TnEyVk5XMVA?oc=5",
+        "headline": "'토스' 비바리퍼블리카, 무디스로부터 첫 국제 신용등급 'Baa3' 획득",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/12 15:09",
+        "published_ts": 1794463772.0,
+        "tag": null,
+        "first_seen": 1794583895.7153177
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9Ma2ZlNmtBOTQ3QkN4SUJ4Mi1KejhjYjlJMWd1Q2hlRTE2ZTVNeG1uSnR4NUg4Yy1XMWhVVEpEWTRBN0p4N1RvTGhIV1JiRnFxUmtkSHZUTVVhWTNnUW4xdjU1YlRJeUtlaHZN?oc=5",
         "headline": "회생 직전 4,000억 전단채 발행한 홈플러스, 책임은 투자자 몫",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794427200.0,
         "tag": null,
         "first_seen": 1794432635.152132
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcjg1eDE0V2Y5dzdNcm1yV3ZpTEgxdkZGdHNnN0JqSmVlSE5lSUpWMjdENlhGdHl5QkFLRFFTemc5dHJrT2FXQXRRYVZ5dVQyUDNmeDQ3c3hxSU9fVHpRN2ZBblBTODhXZ1JKVlFlUjdmcHJzTlVJeVRXVnVzZGx1ZGJiNFNPUTN0LUZ1V3dJQ0NMSzRSd0RXV2V0a3ZhTGJERkRQVTlqYnQzb084Qi1XTWFnSXZFMGNCZ3dCc0FSUktsdkhyc25aWGk3clJPUQ?oc=5",
-        "headline": "인플레이션 충격과 채권 급락에 포트폴리오 위협… AI 기대감, 약세장 위험 직면",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/12 04:12",
-        "published_ts": 1794424352.0,
-        "tag": null,
-        "first_seen": 1794430846.6211772
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWWREYWtpWllac2NUdW9FOW1tdXZrTS1FclFzZnA4TEhkOEFJQ0liTEZZdElXbU5BUHMtTnNVME1zYUVpWHY5VXZmM0Z4YWRMY0U4YzVFdldTOEhEQUpSSnluaXNNM2VVVlQ0YnNXR0hUNHRhM1gwSWhtZXl3QlB2QXR5aUVXajZBTTlRdDhB?oc=5",
+        "headline": "Kevin Warsh Puts His Stamp on the Fed, One Canceled Rate Decision at a Time",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/14 00:02",
+        "published_ts": 1794582120.0,
+        "tag": "Fed",
+        "first_seen": 1794583895.7153177
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02aHJkSkRjOVRKNWV2NmFEZVFKSFpPaGVLdk16ZmlJTUZwcjhkSlNXdlozbzc3WC16S0d2X3NkV2dWUVA1X0oyNk1QbFF4M1gtN0lHbjc3ekZfeERrSGJ1Y3dJZ285SHNmOGIwNVh3WnVfcmQzNVE?oc=5",
         "headline": "Overseas Stock Markets for Friday, Nov. 13, 2026",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794519300.0,
         "tag": "Fed",
         "first_seen": 1794537037.230825
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1SbkRfUU9DeTN1d2VHeDdBSlA5cVF4ajdXWEIzV2VUaDRzc0FldHFhWjV3WHprc1B5YklhaEdRajY4VjhlM2ZQaDhCeWFNbU5yM3JBWWVRQTJqc3lL?oc=5",
-        "headline": "美연준 내년 10월엔 금리결정 없이 전략 논의만…연 8회→7회로 축소",
-        "summary": "",
-        "source": "서플 뉴스",
-        "published": "11/13 06:32",
-        "published_ts": 1794519144.0,
-        "tag": "Fed",
-        "first_seen": 1794527106.1334276
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 00:15:52",
+  "updated_at": "2026-11-14 00:31:56",
   "yields": [
     {
       "label": "3년",
