@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GNDNoSGk2QnNRX0FGTWFmTmFEU3loRmlpQ01uNGVUd2d0THcxZGw4SWZtRHJmNFY5eHEzSnNjeHNrUG1saU0zVllUQzFjN2h5eXJMVVMxZ2lUV2ZWRGRSTlZXWHlIclhtcWZFNTd6dmdiejFO?oc=5",
+        "headline": "[채권마감] 10년 금리 10일만 4%대 재진입, 유가·미 금리 급등",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/13 17:14",
+        "published_ts": 1794557640.0,
+        "tag": null,
+        "first_seen": 1794558634.3230362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NT0lOWmQ4X1ppU3I1dkczQzdpVG1iMWQ2NWRmME5veEdBYkhhbXFydEZvMkQxLXNSWGV0cWFMV0JJZmpETGpma3JSVG1lMXZzYlAxTmRRWUtUa0FoM1ppVkJackR3a2lwc0VfVTVxQm8?oc=5",
         "headline": "공정위 PD 담합 제재 후 첫 국고채 입찰…서울채권시장 \"걱정보다 덜 약했다\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794407631.0,
         "tag": null,
         "first_seen": 1794409544.235434
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1COXNndkUxV3pCN3FzN0tBUzZMQm9iM2k2d2R1OGxHWHZrZHYyMUtaeWZQTHBkUzFheGs4NVpJWTRnRC1EaUw0QTBoNE9nTG9EcmN5bHkzcjItVnpRQlVqRl9HZ2tyaUVmMlV6Nnh3dzlyV2xyYVE?oc=5",
-        "headline": "잘 알려지지 않은 코어위브 CEO 발언…CRWV 주가 15% 급등",
-        "summary": "",
-        "source": "BeInCrypto",
-        "published": "11/11 23:04",
-        "published_ts": 1794405875.0,
-        "tag": null,
-        "first_seen": 1794406530.772066
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1GNDNoSGk2QnNRX0FGTWFmTmFEU3loRmlpQ01uNGVUd2d0THcxZGw4SWZtRHJmNFY5eHEzSnNjeHNrUG1saU0zVllUQzFjN2h5eXJMVVMxZ2lUV2ZWRGRSTlZXWHlIclhtcWZFNTd6dmdiejFO?oc=5",
+        "headline": "[채권마감] 10년 금리 10일만 4%대 재진입, 유가·미 금리 급등",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/13 17:14",
+        "published_ts": 1794557640.0,
+        "tag": null,
+        "first_seen": 1794558634.3230362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1BNjU4azdVZDl6aVB0WVF5dmJIUHR5am5GVDBsMnNGcHFrUzk5R05XTkV2VGhoRE1oRmVtbGpmQ2Y0Sl84SDlHLU51R29GVEo3NGU0VWNpT09qZkl2QVAxTHdjVVhxQVJhQlE?oc=5",
         "headline": "사무금융노조 \"국고채 매입 원금에 1.6조 과징금 폭탄, 즉각 철회해야\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794096000.0,
         "tag": null,
         "first_seen": 1794096930.0127904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBmaERpRjRHVlFuVDFmYkM3SURCLWdTM3F3aDZMZmpDQmZKNWo0TGFCbFRiM0ZVd2ZTWDFQUG9ObTBXX25WaDR5T2E2akp3UUFMeTBPN1UzU2o0dzVuMVlNeVlfeElDelV4Vm9ZYlpyYVdlaEHSAXdBVV95cUxOQUF2bkdhTFR2REI3TGg3X0pteGQxTTNrTFkyWHdQd1RqTGFqLThlanpiYmswc1VUa1RxVTJpaVhvdThDVzFpdDhmTklCZjk2UUlyOUJHcC1YSm04VEtvMWREVktCRHhRQlhIRWlhUDNGakl5a3pkdw?oc=5",
-        "headline": "국고채 금리 급락에도 웃지 못하는 기관들… “지금 사자니 늦었다”",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "11/08 06:49",
-        "published_ts": 1794088140.0,
-        "tag": null,
-        "first_seen": 1794088840.4123824
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 17:15:48",
+  "updated_at": "2026-11-13 17:30:57",
   "yields": [
     {
       "label": "3년",
