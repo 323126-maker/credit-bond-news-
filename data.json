@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9qSHlFclp0MUliclFOM1FSQ21CRlBEdWZ0UHhtWFVJbHFiWHl5MzQ3ajVSeWR0MG5mZG9vc3lfVERhOXZXZ3VVTkpfcHhEdjlPY2o1Um5jNGVCYmpXeEVLMXpRYVVwcWJYaXZlb1NDSWtWQQ?oc=5",
+        "headline": "[뉴욕채권] 장기물 약세 속 베어 스팁…'깜놀' 없었던 PPI 효과 되돌림",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/14 06:19",
+        "published_ts": 1794604787.0,
+        "tag": null,
+        "first_seen": 1794607243.5962503
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3QmNWVXZGYnBDWERrZ0lBU09WRlhrWS0yaElqTlVRZGNJYzBaZ3UxNXo0YTRtelllS19xQlB5RjhDb3l0Q2JBVVN0RTdCWEtHbkh4LS1Wa0FqZzZORVN4TGpqSXFDRF9uYm1uc1AxbV8?oc=5",
         "headline": "S&P 글로벌, RTX 신용등급 A-로 상향…강한 수요·부채 감축 반영",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794435960.0,
         "tag": null,
         "first_seen": 1794437132.923185
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE01R2sxMS1hem4zSnBGbGhtN0lsZ3VNQUppakRxMUpBRl8zNFZLeGlxaGRMUEpFSXJkQlliWWJtYzFSbWFRdE82enRUbmxuSzRBVGZVVTRyVTI5NW5iNDJXUlBOSHVoSG1CRDJLNzBiZ1NtQQ?oc=5",
-        "headline": "모건스탠리, \"AI 채권 양극화 확산…투자등급 빅테크 매력 부각\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/12 07:14",
-        "published_ts": 1794435250.0,
-        "tag": null,
-        "first_seen": 1794526233.2774167
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 06:45:55",
+  "updated_at": "2026-11-14 07:01:06",
   "yields": [
     {
       "label": "3년",
