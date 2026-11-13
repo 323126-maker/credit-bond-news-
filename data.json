@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5",
+        "headline": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+        "summary": "",
+        "source": "The Hill",
+        "published": "11/14 07:44",
+        "published_ts": 1794609840.0,
+        "tag": "Fed",
+        "first_seen": 1794611738.9514892
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkhCU3k2eWJjeWgyenJiMnppSXBxdnVQRmZkLW9LZWR5UnVGMzB1X1h5TlpMbnl3R1d1TFJhLXJGNzZOTWxGVHRUM3Z0U2hrYVFvOHEwU0FLRlF3S3Jzb2FaMVd5R2tKZ1Y3WENjMmM5amlTLUUwUWU1QVpDeGYtMENqcEd0dXF2YmhqV3VEaEozTzY1QTRzb3lTbzR4akdTTDNtMUNLYy0?oc=5",
         "headline": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794556398.0,
         "tag": "JGB",
         "first_seen": 1794556839.2290447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPR1V1UXRER19ZQk9oak52OHd6SkY5ZmlJbHNyR2VkcW1hbU5LRk82d1pwV01XTkJMYWVHQ3pJWkk5ckltempweTR6QnpCNXFMdDY2MmExODdYbXN0SWhnSm1Bc2xhWFVfUG1TSjRDenZvOUg5VWFsY0RIbXRJN1lwQjZxbw?oc=5",
-        "headline": "Aging Americans Drive Demand for US Corporate Bonds",
-        "summary": "",
-        "source": "Serrari Group",
-        "published": "11/13 16:01",
-        "published_ts": 1794553286.0,
-        "tag": "Fed",
-        "first_seen": 1794554128.8903098
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 08:01:04",
+  "updated_at": "2026-11-14 08:16:03",
   "yields": [
     {
       "label": "3년",
