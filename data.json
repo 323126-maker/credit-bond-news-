@@ -896,6 +896,16 @@
         "first_seen": 1794400236.725993
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBIWWl3VzdfZVloUURzNDFnSlVvOFBNeUZfSV9OMmhzUnZMSkNZaW5IbnFCMmxXY3kzQTRGTl9IWmpESkduTVNLbmZBeUt4V05ONVU3aw?oc=5",
+        "headline": "[채권마감] 악재 쓰나미…10년금리 10bp 급등 ‘2개월만 최대폭’",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/11 17:41",
+        "published_ts": 1794386460.0,
+        "tag": null,
+        "first_seen": 1794575727.3224351
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBwQ3prbmJORFlGbk1IM1YyOFNDa2FxLS1udWl6cHpyaUctR3dYekg4Y3dGV2tPN1BscEF2MklqbTdRcUdMNFRMZWZqM1dUZXZPYm9HeEVVeTgtZkVySll5bFFhWFBNQdIBZkFVX3lxTFBwQ3prbmJORFlGbk1IM1YyOFNDa2FxLS1udWl6cHpyaUctR3dYekg4Y3dGV2tPN1BscEF2MklqbTdRcUdMNFRMZWZqM1dUZXZPYm9HeEVVeTgtZkVySll5bFFhWFBNQQ?oc=5",
         "headline": "美 물가 쇼크에 연준 ‘빅스텝’ 거론…한은도 금리 올릴 듯",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794184924.0,
         "tag": null,
         "first_seen": 1794188727.7978601
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3eFZqYnV0dGdnczBNdXlsUkNxV2hUQkIxWlZCc0VEaHVkWnhuVUszRnNSLWkyWTlYY1JHTVR4SXlQU3J4ZF9yQkRZQlNYbTFNbEZ1SlZXZmI3MUhGVkk3SkozaVZ6c1U?oc=5",
-        "headline": "NH투자증권 11월 기준금리 25bp 인상 전망",
-        "summary": "",
-        "source": "공감신문",
-        "published": "11/09 09:29",
-        "published_ts": 1794184195.0,
-        "tag": null,
-        "first_seen": 1794185128.5316327
       }
     ],
     "politics": [
@@ -2413,62 +2413,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-13 22:01:09",
+  "updated_at": "2026-11-13 22:15:49",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.759,
-      "chg_bp": 3.0,
-      "series": [
-        3.877,
-        3.84,
-        3.822,
-        3.84,
-        3.803,
-        3.789,
-        3.758,
-        3.799,
-        3.766,
-        3.715,
-        3.74,
-        3.736,
-        3.714,
-        3.669,
-        3.613,
-        3.639,
-        3.633,
-        3.729,
-        3.729,
-        3.759
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 3.841,
-      "chg_bp": 3.8,
-      "series": [
-        4.014,
-        3.99,
-        3.965,
-        3.983,
-        3.948,
-        3.932,
-        3.899,
-        3.949,
-        3.923,
-        3.865,
-        3.892,
-        3.87,
-        3.837,
-        3.769,
-        3.717,
-        3.731,
-        3.718,
-        3.81,
-        3.803,
-        3.841
-      ]
-    },
     {
       "label": "10년",
       "value": 4.001,
@@ -2494,33 +2440,6 @@
         3.95,
         3.937,
         4.001
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.104,
-      "chg_bp": 5.9,
-      "series": [
-        4.214,
-        4.179,
-        4.197,
-        4.21,
-        4.17,
-        4.164,
-        4.145,
-        4.193,
-        4.171,
-        4.106,
-        4.115,
-        4.08,
-        4.047,
-        3.985,
-        3.969,
-        3.98,
-        3.977,
-        4.043,
-        4.045,
-        4.104
       ]
     },
     {
