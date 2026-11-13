@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMmRXU1dBQlRlN2ZhNjhvUWVEVFlwa3VDcDQwRExpeUduUU9TM29yb0ZNS2tpWUJXa2RULThCNmh3eElON3JubzZwQ21KNGVhQ1dsalR0UV9vbFhTR09CdzBEb1NueDBjVzctc19aZnhLZUlMU2M2VzZ5enNtTENTYlNlYkRPbEJZT1pPQ1VjMkdmQTlrSGpKS1l3TUhjLVJ1M01lVUdoR21tMGVtMjBtVEN2djhXVjlpU3NKamlzem5WNktBUlkyLWExWUtETU5IbE91b3pxUlV3aWptdVE?oc=5",
+        "headline": "Billionaire Jeffrey Gundlach Calls the Stock Market a 'Hollow Tree' as Weakness Spreads Beyond Big Tech",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/14 01:49",
+        "published_ts": 1794588540.0,
+        "tag": "Strategist",
+        "first_seen": 1794589244.4920084
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUUpNejZDR2JHd3NfcUlXSllWSHJmWk1lajVYX21GV3p3ZnhFT1Q2SnZDT0cxdFJaU3VidVRONlloQm5rUkgxT2RpSE5yZWxWWDZOQ1N2N21wRlVkMDl3alA5cWpESF9XQ2lqZ3hjTllOMk1pcXRETDNMWXhjdklfOXhoc0pSXzdLWnRvRHhOQkY1YVNCdml4bkJfWWR4dUlU?oc=5",
+        "headline": "Kevin Warsh Is Giving Marc Andreessen the Fed’s Microphone Before December’s Rate Decision",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/14 01:42",
+        "published_ts": 1794588131.0,
+        "tag": "Fed",
+        "first_seen": 1794589244.4920084
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdmZoNEduM2dRbXE2OGdRTDh0clhJLVRCMi04aWFVTXZzQTZpSFE5aXFuYk1UemI1el9KWmpjSWRUQjhrYV9Hbm5uellhQ0tENkxaYkxqMEZkM2laZ0VYcXMxdjRUZjBGX1dZcm1pS283ZEtkQ0xJQXBKQlNsUTBpbjNqeXpmUm5vVWpwUmtTNm1XNHJ6TmcydU02bFl0YWxEUVVjWg?oc=5",
         "headline": "Jeffrey Gundlach: Why bond investors need a new playbook",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794522840.0,
         "tag": "Fed",
         "first_seen": 1794528042.9772866
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYXRmY2hqcTlNTnNtZWMyeVJHSy10VGt0Zm5GdS1yRHNKU3lfY2RUZnVnVmk4alB2WFNhUDF2cV9FcnZLTHA5VjFpWmhLYTlfTVRuYjdLVlpFODE4N1U4WW9ma1BRS21rZjNndjJ1MG1fU0tpdWZnWk1FMHRiT2xZRVdOVWYxUXJzWEdOYmJUeGRFRjR1ckhsdk4zcVA0d1Q4aTh6WEhDR0ItU083a2RGclE4VThOd0h1TklldUxLYUptYWdrY0pjZ3lJZ3VqUWtaX1Y1dF93?oc=5",
-        "headline": "Bond yields just saw their biggest surge since 2022 as expectations grow for more Fed rate hikes",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "11/13 07:16",
-        "published_ts": 1794521760.0,
-        "tag": "Fed",
-        "first_seen": 1794522632.3083107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLTZlSUdmdEZKRmFpYXZydE5TNlBrQWRuMU9HVXZiczJMVVhkeWdBN1lKbmtPaE9jNVNuM0c2MUNDM19oQmwzZzF3ZGRCZ3REaWNKbjNfMUdlYVBLWmluVzRDZEJnSTJvMXJTckI2LUJtY3lLQmhGLUx1SWRSejA3aHFfbjFPajd6Um9zMW94REhJY3JVZ2JILQ?oc=5",
-        "headline": "The AI Bubble Burst Has Three Phases: We Are At Phase One (SP500)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/13 07:05",
-        "published_ts": 1794521102.0,
-        "tag": "Global",
-        "first_seen": 1794521729.9337604
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 01:46:04",
+  "updated_at": "2026-11-14 02:01:09",
   "yields": [
     {
       "label": "3년",
