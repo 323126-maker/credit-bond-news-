@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RaE1FVWIzZTByOXZTOEdjNVc3MTBNOTJfOWVuSVZBd3RkVkkyaWh3RDlJUW5mMkRqWFh3WHY2RmdURGNhWHdiTWh6dEF5QVp1U0M5b3ZybGoyZlB4M1dobk1FVmNUUUFTdFAxTVllTQ?oc=5",
+        "headline": "Apollo Global Management, 6억 달러 규모 후순위채 발행",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/14 08:13",
+        "published_ts": 1794611580.0,
+        "tag": null,
+        "first_seen": 1794613536.5440955
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE13Wk04R3pMeFJDaFpLaTljeDluckpnLWpYZkE2ZExhTnNNQ3lDb0hTd1VRU0tUOTd2aTZmSTBBM1ZoYlBtLVR2ZXpENHk0X1pqcUxJOXhUdmNBX05lMi04STNhM3BaZHZxNDJFLTJISdIBb0FVX3lxTE13Wk04R3pMeFJDaFpLaTljeDluckpnLWpYZkE2ZExhTnNNQ3lDb0hTd1VRU0tUOTd2aTZmSTBBM1ZoYlBtLVR2ZXpENHk0X1pqcUxJOXhUdmNBX05lMi04STNhM3BaZHZxNDJFLTJISQ?oc=5",
         "headline": "KB금융, 3000억 차환의 셈법…조달금리 높여 자본건전성 강화",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794232672.0,
         "tag": null,
         "first_seen": 1794232845.0360532
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FMlJrWUYzekRzM1MxUlVoX2x5QjVwWjh4ZjlncExGQWpoWHdUVzBKX1dzNTQ4SlN0a0xLNTBrT2taNkptSkRQOVFvQ2h0MXozWDhlRUZDcW1HQk5HVnlLakNLMWhwdUFs?oc=5",
-        "headline": "삼성화재, 英캐노피우스 경영권 인수 추진…해외보험 공략 가속",
-        "summary": "",
-        "source": "보험매일",
-        "published": "11/09 20:24",
-        "published_ts": 1794223462.0,
-        "tag": null,
-        "first_seen": 1794246329.7901108
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 08:31:08",
+  "updated_at": "2026-11-14 08:46:00",
   "yields": [
     {
       "label": "3년",
