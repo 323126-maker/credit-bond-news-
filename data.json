@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUlVBWVZqVmNndjdRX014ZHJkMmw0bXBQblRVN3pLY0c5NmhOd3R2NmNCeHFQYUZnNEhsVkNJTjVyTno1RlBHWXVPbFdZZTYwdHFlN29yUTUwYkJUR1BfZDg4VGZNYU1tZC1JQTVYaUN4M2NZOEtHYmt3NWRuZVRWX3lUZi1KY2ZoVHN0M3RuRTNLWE1ZLWFtRlhpLTJxR1hxV0g4cGwwa2dPbEJmZlZzUQ?oc=5",
+        "headline": "Paper Makers Are Starting to Crumple as Rising Costs Bite",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/15 01:00",
+        "published_ts": 1794672002.0,
+        "tag": "Global",
+        "first_seen": 1794672926.3945053
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQYlZpSzBmc3ZtRzBFeXhOWXV1RTM1U18zZG5iYS1pU3d5dkdxaUFqRzVyQXdtWUVIQmxFUW90YkY2Q21sYTVRUnpPN29WSGxEUnlpWmdWaF8zT0toRzRsTklhdTZZajI3b0lxSDN4dExHaTdqQVduSC1HQlZraWZOMDNXWTVMOVpyYU1XRDIxaWlLMjBXakx1Y3ZWcWU3dW03QXFhZHc0ZWp0ekdyeVd5NWdHbUo0X3gyNkJxNHNYd2JqVl9JMlRQWXktaDZnSnoxSGwyUTA5bndOdTZBb1BsVA?oc=5",
         "headline": "The U.S. Just Posted a Record $404 Billion October Deficit. Ray Dalio's Warning Is Looking Even More Urgent",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794592898.0,
         "tag": "Global",
         "first_seen": 1794672041.1562388
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOYWx2S1gybU5lYjJCbEl5OXkyekl3YXdnd2RuWnJPQU9VODlSSnpLM1ZDeGVfT19LdEF4OThPMGZQM1NDNXloMzFGcjdmZDE4ZU90dDBuX2xsX2lUZTJjLU5HNEZCNnJJRFJQT0tmR2FwZVBXT1Q3cURtZHFTYTJtUDVOVHZESnNfWlBkZXdoT1pQXzNkYldpWklrdEZiRWxiVjJRaHNxOXpMVXhPOFR1ZERmc09uWXJEcWR1dUdKblUzQjdkTkM0?oc=5",
-        "headline": "The Fed chief said AI would tame inflation. His colleagues disagree.",
-        "summary": "",
-        "source": "The Washington Post",
-        "published": "11/14 03:00",
-        "published_ts": 1794592800.0,
-        "tag": "Fed",
-        "first_seen": 1794627040.3855288
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 01:01:01",
+  "updated_at": "2026-11-15 01:15:50",
   "yields": [
     {
       "label": "3년",
