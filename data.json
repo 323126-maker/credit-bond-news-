@@ -122,6 +122,16 @@
         "first_seen": 1794592854.3146043
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRnFza3A2MU1rWXYwb2ZBVlFza005cUtPcVlQa1l3Ylp4a0xsNUJMUGNYNU1hNHl0R21MV0Fma0NvSTRfaWFzR2xxQ2ExcGQwMXpXeUltT2pPMXlHM1hqMmF6R04xb3JmbGFnV2h4YTBaeU9oRjFEcmVMSmVVd1cycENxeUg1NUxjZjF1YmMxa0Q?oc=5",
+        "headline": "주식시장 업그레이드: 문은 열렸지만, 외국 자본의 유출을 막을 수 있는 것은 무엇일까?",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/13 20:58",
+        "published_ts": 1794571116.0,
+        "tag": null,
+        "first_seen": 1794690040.9219854
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5uQl9zQ093eUZaS1lXSVZOV2pzaTZrVjFiR0xpZ2c5UVdRa0prdTRVYlhFWWVtSVJWTXY1Y3FTOGE4WDdnR0J4Ri0weVR6V0xfNEFVSm54bzYyUktCNzRfanBLdnVPd3Y3MzluYUNtWS0?oc=5",
         "headline": "[외환-마감] 숏커버·결제에 다시 1,330원대 중반…\"美 PPI 주시\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794483171.0,
         "tag": null,
         "first_seen": 1794485726.8704033
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA1bmFCRS04eVhnWk9VdFh4TTh3eGJCenJuNnV2bEE4MGp2d3VyQUY2bjBfQ2paZFRteTVGNnpyS1hSS0w0QVg5NnEyNEFRQUxsSlhUOURYX1ltdU1ZblBWVzFCNUlpS3EwMDhPT1djZmVrNzQ?oc=5",
-        "headline": "인베스트코프 크레딧 BDC, BCP 인베스트먼트와 합병 계약…3분기 순손실 476만 달러",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "11/12 20:18",
-        "published_ts": 1794482333.0,
-        "tag": null,
-        "first_seen": 1794631528.6573622
       }
     ],
     "perpetual": [
@@ -1940,6 +1940,16 @@
         "first_seen": 1794628841.1212833
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9yck9yOUFWR0FpdE9oMU00NGZWMVVrb25MOWxBWmRuU3Ztc1FvdGJZZlBMXzZwUnpPQVp5Mlg4UzFwX2VZTG00SUFUa3p0VVoxRFZOY2M3V2N3R1ZlLXhCdVVpWHNKd2s?oc=5",
+        "headline": "Treasury Rates Today: November 13, 2026",
+        "summary": "",
+        "source": "Forbes",
+        "published": "11/14 06:23",
+        "published_ts": 1794604980.0,
+        "tag": "JGB",
+        "first_seen": 1794690040.9219854
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE9SRzNpbzd5dHdmemg5Y1NVaENDLVphY0RoaDYtNDRVMXdFZEhqaWowcVI4S2xTU2JzYmZr?oc=5",
         "headline": "Inflation Pressures And Fiscal Risks Shape Bond Markets - TalkMarkets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794599297.0,
         "tag": "Fed",
         "first_seen": 1794602727.152693
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLTFWZVBuel9CaExDd3Bja2l4bC1xNnNic0MyU29UZFd4YWxLTk9Jcjcwb0FFQ2k5dHZXeGZFVWViV20zeXkxZVJ6QmZtdldBQ2dLM2U4Mjh5TEdSTlh6dV9aQ0dxZC1leU80NjNYRnJpN3FFU1pETk1hNlBPaF8xb2tlRDR2UHQ0WVdqdklpZ1k?oc=5",
-        "headline": "모하메드 A. 엘에리안: 주가 상승 속 변동성에 시험대 오른 주식 시장과 경제",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "11/14 04:39",
-        "published_ts": 1794598783.0,
-        "tag": "Strategist",
-        "first_seen": 1794685524.9063156
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 05:45:47",
+  "updated_at": "2026-11-15 06:01:03",
   "yields": [
     {
       "label": "3년",
