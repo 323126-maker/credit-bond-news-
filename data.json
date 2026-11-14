@@ -152,6 +152,16 @@
         "first_seen": 1794555035.8821886
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XbUlYWWRIU29HN21uVDFNLTJ6c2tEYzE0SUdSWndJZlBzSG5uVXJZMmFZa3RzT0tveV9XVGRIOVNSbXlkNk1jWmtJVHhBVHAwdkJUcUlDT0ZJMjdCVElSOUxtRXBQWTdrUjc0SDQzQTXSAXRBVV95cUxQakkteUFndDg1RUdvbThDSm01Qm9uNmJ0YWp1b1Jrc21PZGxDZWFoeGRoNXN6UjZvbWtDa29GNGNiVnctN2NUQ1ZpaXFwVVpCbDhJMEE3WWk2ZkJYQTlWbWs0aE1qV0dpaExXbHlNN2FGcHRfcQ?oc=5",
+        "headline": "코스피, 0.98% 하락한 5,290.53 마감",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/13 15:36",
+        "published_ts": 1794551817.0,
+        "tag": null,
+        "first_seen": 1794649531.0401733
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vRGZpdXM1MW1yNkdRdDJlUFhVSmk3a3VyaF81d3g1NjVFUFRpV0ZmOTRxVkd3YzdlTzFFOEhQWmRhX3AyUzJOMF8yNV9ZLXg0a0ZDMmg4c1RpcHdYb1VuNjVIWlRoNWFLQXFKcA?oc=5",
         "headline": "피치, 아태지역 가스공급업체 수익성 악화 전망",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794469508.0,
         "tag": null,
         "first_seen": 1794471326.897996
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9reTZTX0NTOWd4b05LM2RrOUMzTWc4bUZjcU11Z3kyLS1BUk5qSFdlX2N5dXZkNFI2RVd6YS1TSXhFU1VMNGJyVDR0VUNYNnRfQ2F0WW5aWXNTTE9tTEJqc2QyT3NFdGprQ3pHWnREcFliaGx6THfSAXZBVV95cUxPa3k2U19DUzlneG9OSzNkazlDM01nOG1GY3FNdWd5Mi0tQVJOakhXZV9jeXV2ZDRSNkVXemEtU0l4RVNVTDRiclQ0dFVDWDZ0X0NhdFluWllzU0xPbUxCanNkMk9zRXRqa0N6R1p0RHBZYmhsekx3?oc=5",
-        "headline": "월가 큰손과 빅테크 내부자의 은밀한 대탈출 행렬이 시작됐다 - 실적 없는 설비투자와 감당 못 할 감가상각비의 덫에 갇히다",
-        "summary": "",
-        "source": "데일리머니",
-        "published": "11/12 16:41",
-        "published_ts": 1794469267.0,
-        "tag": null,
-        "first_seen": 1794474041.5052617
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 18:30:56",
+  "updated_at": "2026-11-14 18:45:53",
   "yields": [
     {
       "label": "3년",
