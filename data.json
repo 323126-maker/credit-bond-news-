@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOY0lWUTNMTnpyanJUcWctaTM1TjBEajVySEdCRG9FTVVtNmFJYkdULXo1cll5Yi1UbVZRVmg2UmZBZkJESG1pelM1NHluMG1OVVI5Z3hkamRIU0xFVVZvd1Q5Ymdma3J6MFRoVWNMUS1HZlhXaThDWG16aGh3Zllfd0dkUlJrTnE4bVhYY2QyNW9Ha3VvV3Flb2RoYVFwazZBUWM0?oc=5",
+        "headline": "Asian Bond Yields Rise on Growing Expectations for Fed Rate Hike",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/14 16:16",
+        "published_ts": 1794640602.0,
+        "tag": "JGB",
+        "first_seen": 1794641435.6055892
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3EzbUZLMzVNX1JTTVVjTVYwOVhoR0JQMXlRWjh3WjA3OGlfRkhvek43Qk90UW1jeWVDOWZMa2djT0JlSnhoRUh3SXBtbWpRQ1Q5SkNJbnVhZHR5X2NsWTFLT0w4TG4tOEdXQlBVdG91RGp1aWFtNkxJN3NZYktEN1dRWWU3LWQ3MTJ3SjNKejBkc1Zsb3JTV3Myd2t5SnZEeHRaZQ?oc=5",
         "headline": "Yen Slumps as Fed Rate-Hike Bets Boost Dollar",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794582120.0,
         "tag": "Fed",
         "first_seen": 1794583895.7153177
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02aHJkSkRjOVRKNWV2NmFEZVFKSFpPaGVLdk16ZmlJTUZwcjhkSlNXdlozbzc3WC16S0d2X3NkV2dWUVA1X0oyNk1QbFF4M1gtN0lHbjc3ekZfeERrSGJ1Y3dJZ285SHNmOGIwNVh3WnVfcmQzNVE?oc=5",
-        "headline": "Overseas Stock Markets for Friday, Nov. 13, 2026",
-        "summary": "",
-        "source": "STL.News",
-        "published": "11/13 23:54",
-        "published_ts": 1794581671.0,
-        "tag": "Fed",
-        "first_seen": 1794582043.914891
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 16:15:57",
+  "updated_at": "2026-11-14 16:30:57",
   "yields": [
     {
       "label": "3년",
