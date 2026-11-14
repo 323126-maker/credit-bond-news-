@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5SQnp3NTdyemxyYXhwbkFZTlNQTWdLejlQZ2ppTVZtVE92WV9MOXdremozVklZMUlMTjJnVmtlcmNGYmNDRlV0OFpmSnB5VEJkanFuOVM5QXY3NnpJZ1N2bmxfQWRZWE52b0lZeHBn?oc=5",
+        "headline": "비트코인 6만 5천 달러 아래로 하락… 시장 전반 분위기 살펴보니 (BTC, HTX, 24시간, 4.82%)",
+        "summary": "",
+        "source": "민심뉴스",
+        "published": "11/15 02:03",
+        "published_ts": 1794675795.0,
+        "tag": null,
+        "first_seen": 1794678331.8814871
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcGlNMWFQOF9hVkVoN0tCcVNib0ZTS1hoaXhZcy1Hd3ZScUxHZEVFSlVfS3lZNmRHVGF0NjdXSUlNNVVyRjI4WVd6Wlg3Y0xkbDRmQ0pBUjZmblU?oc=5",
         "headline": "美 금리 상승 압력에 국채 금리 반등 가능성…회사채 시장 단기 영향은 제한적",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794270828.0,
         "tag": null,
         "first_seen": 1794285035.4439476
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LMmdZR2hSTXV0dU91MEpjTTZpdXNURjZxcVZmSlFxTmpYN09GMWM0clBxZUoxTllfYkxXakRJU2Z3cW1ieWYxa0cyQ1hfTzdLNTJzUG5HbWo3bjF2eXZtdU12U1U5d1RwM3FuQVpueFg?oc=5",
-        "headline": "채권시장에 91조원 몰렸다…외국인 매수 확대에 국고채 금리 하락",
-        "summary": "",
-        "source": "리드경제",
-        "published": "11/10 09:33",
-        "published_ts": 1794270817.0,
-        "tag": null,
-        "first_seen": 1794275126.6971478
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 02:30:59",
+  "updated_at": "2026-11-15 02:45:54",
   "yields": [
     {
       "label": "3년",
@@ -2494,33 +2494,6 @@
         3.95,
         3.937,
         4.001
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.104,
-      "chg_bp": 5.9,
-      "series": [
-        4.214,
-        4.179,
-        4.197,
-        4.21,
-        4.17,
-        4.164,
-        4.145,
-        4.193,
-        4.171,
-        4.106,
-        4.115,
-        4.08,
-        4.047,
-        3.985,
-        3.969,
-        3.98,
-        3.977,
-        4.043,
-        4.045,
-        4.104
       ]
     },
     {
