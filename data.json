@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcGlNMWFQOF9hVkVoN0tCcVNib0ZTS1hoaXhZcy1Hd3ZScUxHZEVFSlVfS3lZNmRHVGF0NjdXSUlNNVVyRjI4WVd6Wlg3Y0xkbDRmQ0pBUjZmblU?oc=5",
+        "headline": "美 금리 상승 압력에 국채 금리 반등 가능성…회사채 시장 단기 영향은 제한적",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "11/14 15:00",
+        "published_ts": 1794636000.0,
+        "tag": null,
+        "first_seen": 1794645036.6547525
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5rSGQyYXFkckR3djFWSUpHTzRjXzJRa3c2RmRmMm04Q0tYMVFOa3BVb2tjSWFKUkFiaVpfVXI3TTJnOTZPSkQ2OHhfTUVyYWVjdENaTXlHQUsxSHlmR1BQcjZyMm5OYVBPWV9lWlAxakdyQQ?oc=5",
         "headline": "\"국고채 금리, 연내 저점 찍고 반등…추격 매수 신중해야\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794269257.0,
         "tag": null,
         "first_seen": 1794276927.344493
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBSTHUyTUlzUTFJb19ZUUpxcjBxa05FU0xsOF9JT29SdkhtMVVBZ1FESTdmUENQLVg2RG4yQXVRUnRHTlZxNmlleUc3ZFpxb21CdURlSWktYU5leDdBRVE?oc=5",
-        "headline": "\"내년 채권금리 하락 전망…인하 기대는 제한적\"",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "11/10 08:59",
-        "published_ts": 1794268740.0,
-        "tag": null,
-        "first_seen": 1794269730.1055295
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 17:15:58",
+  "updated_at": "2026-11-14 17:30:59",
   "yields": [
     {
       "label": "3년",
