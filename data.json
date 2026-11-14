@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNLWpTMjZJV0pUTjFxRTh5dE15Z05RNEhXalp0RlZzeDF6aW9rUnFUek9WbG1id2VvRndFdU0xNUk5WnozTGUzMGtWVXo1LUJ2LXlZU2hGRkhGMEJPU3VmbEpEVS1VU19LWkNacXZNRXRMdTJqWkdvNUNnTGNfNFJLVG9jWDV1V08ybGdGaTZwUlBzUEd4VjBWb09BQVLSAZwBQVVfeXFMTS1qUzI2SVdKVE4xcUU4eXRNeWdOUTRIV2padEZWc3gxemlva1JxVHpPVmxtYndlb0Z3RXVNMTVJOVp6M0xlMzBrVlV6NS1Cdi15WVNoRkZIRjBCT1N1ZmxKRFUtVVNfS1pDWnF2TUV0THUyalpHbzVDZ0xjXzRSS1RvY1g1dVdPMmxnRmk2cFJQc1BHeFYwVm9PQUFS?oc=5",
+        "headline": "퀄컴 주식 투자자들이 휴대폰 매출 전망 하향 조정에 대해 알아야 할 점",
+        "summary": "",
+        "source": "Simply Wall St",
+        "published": "11/14 22:29",
+        "published_ts": 1794662974.0,
+        "tag": null,
+        "first_seen": 1794668443.3799586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcGlNMWFQOF9hVkVoN0tCcVNib0ZTS1hoaXhZcy1Hd3ZScUxHZEVFSlVfS3lZNmRHVGF0NjdXSUlNNVVyRjI4WVd6Wlg3Y0xkbDRmQ0pBUjZmblU?oc=5",
         "headline": "美 금리 상승 압력에 국채 금리 반등 가능성…회사채 시장 단기 영향은 제한적",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794482333.0,
         "tag": null,
         "first_seen": 1794631528.6573622
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NTnhxVk9FczA4SS1fdzgxZ2dZZ1plXzRXY1VSRlZ0Vi1BYlkyaWMwNGluN0hQMVBvaEhvUHl2TTE2SVhwTVhGcEcydEZUOFpjN3pjenAyRnNKT1lOcWpNOQ?oc=5",
-        "headline": "네이버 “미 AI 기업과 2조원 데이터센터 공급 계약”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "11/12 19:31",
-        "published_ts": 1794479460.0,
-        "tag": null,
-        "first_seen": 1794638728.4602752
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 23:46:00",
+  "updated_at": "2026-11-15 00:01:07",
   "yields": [
     {
       "label": "3년",
