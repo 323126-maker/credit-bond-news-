@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3aHMzOUZXOEt0V1BlM0lqSldUTVd1TnRTZFp2WmRzUlM4TUlrNHI3b1FzUnB2LXd2SUJaaUhnam5PYXlqZ0kyNmYtT3hDYldiUE5HSGJPR1FRbjIwZi1BNURGRUVYZmRsZjlZZk5uS01Sdw?oc=5",
+        "headline": "\"내년 신용 스프레드, '반짝' 연초효과 뒤 약세 전망\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/14 07:50",
+        "published_ts": 1794610200.0,
+        "tag": null,
+        "first_seen": 1794615330.0333195
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5UTTJXcUZCSlRORUNPZ1BjX1pXMXI1YW5BTm12WHVJNTRNVWp0VHd4U1pheDlTSVJSdXkyb3EyZVBKTlMtdkRZZ19TVGE5Ri02ZVlWTl9QMEI4ZUJCbXpMMXpTLVhxQ0Nka2dXbFZ5UzQ0Zw?oc=5",
         "headline": "국채선물, 거래 감소 속 혼조…10년물 4틱↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794445200.0,
         "tag": null,
         "first_seen": 1794467728.7623432
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5taTBfaWdQOEFEdEtvRFhla2F4Rm1nSzQ2N3BqXzN6d3dWOFdjSEVVVjNmeWV4eHZ4OGROa1RZZVhfWDNPMkF1UFVPaFNpTWRkQ2xMTTU5WldKUXZvQTZYYkY0djhCS2NOSkR3ZlZIZUc?oc=5",
-        "headline": "피치, 자산 건전성 우려로 블랙록 TCP 신용등급 ’BB-’로 하향",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/12 07:29",
-        "published_ts": 1794436140.0,
-        "tag": null,
-        "first_seen": 1794464127.5947614
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-14 09:01:04",
+  "updated_at": "2026-11-14 09:15:54",
   "yields": [
     {
       "label": "3년",
