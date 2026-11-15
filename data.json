@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuQVk4ekRsSU9xQTBEdkZCckFZcDVPRDN1c3VQRC1SWjJEMmwzTWQ0bzlmODB3dnRtVm82eVZWNHVRbVlYdmxoUkJjOXJXUEhtcFJHeA?oc=5",
+        "headline": "20조 돌파한 시장…회사채 시장으로 선회하나 [PRS 후폭풍②]",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/16 05:00",
+        "published_ts": 1794772800.0,
+        "tag": null,
+        "first_seen": 1794773728.8276932
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oNTNoZWNsOENWUVVCVXlaUzFXZVNjRUpxMkdnc1cxTWpjeTg4Zkt2a0xEOXpJckZGQUhBOUQwQTgxOUVOblRtYnJkZWRrTlRRdC1zUGt0U05xY0VWb1E?oc=5",
         "headline": "[마켓인사이드] AI 투자의 위험은 주식시장이 아니라 신용시장에서 나타난다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794531566.0,
         "tag": null,
         "first_seen": 1794532525.418973
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9XY1I1M05ONk9lNGlWU2J4d084SHlGTHBYYzZ4WUlESXJoTkVOMTZ1ZkFHdm9TcS10MEJGN3JxaU5QdUktQWpuNGJvSHhvOGFCb0pCWGdOa05HQkk0TmN6aWEyWV9UTDdnRDhUMzRDb1I?oc=5",
-        "headline": "뱅가드 CEO \"채권시장 변동성 2027년 핵심 위험\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/13 09:54",
-        "published_ts": 1794531253.0,
-        "tag": null,
-        "first_seen": 1794531696.6203737
       }
     ],
     "perpetual": [
@@ -1218,6 +1218,16 @@
         "first_seen": 1794740440.1998723
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9pQ2VBMkZwdW5LdXAyajk1X1ExaEViT29PREZOMnRNSGhtVWJvR09aTGNHRW44VXdiVGNQdnRDTDhBLTNlTmRYU3pFeFlaQUh0ZExiN09OMkpfVWZDQjAwU1dhcHp1c1hNMWtJTlJSRU5FUVNTczBUQ9IBeEFVX3lxTE9pQ2VBMkZwdW5LdXAyajk1X1ExaEViT29PREZOMnRNSGhtVWJvR09aTGNHRW44VXdiVGNQdnRDTDhBLTNlTmRYU3pFeFlaQUh0ZExiN09OMkpfVWZDQjAwU1dhcHp1c1hNMWtJTlJSRU5FUVNTczBUQw?oc=5",
+        "headline": "이 대통령 \"개혁 이름 빌려 방해…선명성 대신 성과로 증명해야\"(종합)",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "11/15 15:38",
+        "published_ts": 1794724735.0,
+        "tag": null,
+        "first_seen": 1794773728.8276932
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQeTZfWUVTZm9qbW5wSGVaV1dJYWVqcWVsNGFrdEJhckdoYmdkVzVZVjNic3hrVVh1eXhocEpCbWVRMGdRYmUtcDJjREdiZW5zMjItZXhPTzZsSmY4dHM0S3BwN0Yya2hOYUZkRmdQUEc5Zw?oc=5",
         "headline": "李대통령 \"개혁 이름 빌려 개혁 방해, 용납 어려워\"…與 내부 갈등 겨냥했나",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1794215430.0,
         "tag": null,
         "first_seen": 1794216637.947079
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEb016WjFnS2lzNDRUZVd5eW1XRzQtRVU5SThHVGJVR2FUTlVGbHJsWW40LVpReUd4RzFmUmUtLTZ3VHowbUNvM25fSmR5VUNrdGp2Zi1wV2NmQQ?oc=5",
-        "headline": "李대통령 \"소방재정 지원\"…미래대응기금서 끌어쓰나",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/09 18:01",
-        "published_ts": 1794214887.0,
-        "tag": null,
-        "first_seen": 1794215743.547201
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 05:00:56",
+  "updated_at": "2026-11-16 05:16:07",
   "yields": [
     {
       "label": "3년",
