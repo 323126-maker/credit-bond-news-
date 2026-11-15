@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PTTRWbTVlOXptbU9SNmhlaGZmTVVzS1I2YjRyeENrWnBfZm9sWXBKQlVkNzFGbk13emE2VDZIN0g0Q3hnWG5JSlo2RDBzZVdYWkHSAVNBVV95cUxPS25UOUN3U3lGUHg5WGI3MTFHRHk3alZQWnZ6MkpEZ1ZpN1dBUWF1YS13MUhpczRxNFYyeEZYTnBqWThaR1JIWjlvYUFYdjg2T2pjbw?oc=5",
+        "headline": "삼전닉스도 관망세…엔비디아 실적·앤트로픽 IPO 영향 [이런국장 저런주식]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/16 08:35",
+        "published_ts": 1794785755.0,
+        "tag": "Fed",
+        "first_seen": 1794786326.6756692
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5",
         "headline": "Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794686413.0,
         "tag": "JGB",
         "first_seen": 1794687326.1412408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTzVYbEh2b3Y2SkVCTlRkZXpFWGhVTVNRdUFhWk9XMW1QbEl6X0NyMkdIVFJFQjNlUXd5QjNqeE14eUh0MW41bzYwUmpDemZSZ1BnOHJHRk8taUFtaE5hR0ROc2otbjBaTDJwUE5EbXNrQjlxcjZfSWdrZnNPOV96TWJMQlRNNXdUZUVvcFBVbzl1MlNtUHBCLS1kRWZKSERYOENCbGFCUFhnUUtNMUNF?oc=5",
-        "headline": "Juicy 6% Yields Gain Appeal After Nvidia Drama: Credit Weekly",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/15 05:00",
-        "published_ts": 1794686400.0,
-        "tag": "Global",
-        "first_seen": 1794688239.9835598
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 08:30:54",
+  "updated_at": "2026-11-16 08:45:46",
   "yields": [
     {
       "label": "3년",
