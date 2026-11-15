@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBzRXY4TjlvVXp0RHBIVVFVRnNnTWdRaXNrUFZ5X2hqc0tHX0RndDZDcnliSGJyaDRYMEJKdGxyaDQ0My1KdlZLV0hrdGN3Y1pCTU1j0gFTQVVfeXFMUHNFdjhOOW9VenREcEhVUVVGc2dNZ1Fpc2tQVnlfaGpzS0dfRGd0NkNyeWJIYnJoNFgwQkp0bHJoNDQzLUp2VktXSGt0Y3djWkJNTWM?oc=5",
+        "headline": "이재명 대통령 \"개혁 방해 용납 못해…선명성보다 성과로 증명해야\"",
+        "summary": "",
+        "source": "더팩트",
+        "published": "11/15 16:07",
+        "published_ts": 1794726420.0,
+        "tag": null,
+        "first_seen": 1794740440.1998723
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQeTZfWUVTZm9qbW5wSGVaV1dJYWVqcWVsNGFrdEJhckdoYmdkVzVZVjNic3hrVVh1eXhocEpCbWVRMGdRYmUtcDJjREdiZW5zMjItZXhPTzZsSmY4dHM0S3BwN0Yya2hOYUZkRmdQUEc5Zw?oc=5",
         "headline": "李대통령 \"개혁 이름 빌려 개혁 방해, 용납 어려워\"…與 내부 갈등 겨냥했나",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1794214800.0,
         "tag": null,
         "first_seen": 1794218481.6091902
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9COXFLRTItTm9OSkhPbW1PSkFpUkR1cGpZdDM2VmNCbkkxLW5hYk9vQUZNdzVYVnFpR2tKTm9Vd3NJWUhQWjZpUG9rWVJheWxMT25ZZ2lwMWg0cTZNeEtSdm1XT2JiaFE4anRabXZhMNIBb0FVX3lxTE9COXFLRTItTm9OSkhPbW1PSkFpUkR1cGpZdDM2VmNCbkkxLW5hYk9vQUZNdzVYVnFpR2tKTm9Vd3NJWUhQWjZpUG9rWVJheWxMT25ZZ2lwMWg0cTZNeEtSdm1XT2JiaFE4anRabXZhMA?oc=5",
-        "headline": "소방 재정 2조원 ‘어떻게 마련할까’",
-        "summary": "",
-        "source": "시사위크",
-        "published": "11/09 17:59",
-        "published_ts": 1794214775.0,
-        "tag": null,
-        "first_seen": 1794219327.1301832
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 19:45:55",
+  "updated_at": "2026-11-15 20:01:03",
   "yields": [
     {
       "label": "3년",
