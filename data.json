@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAxcFNHYlJxTURNSlVsTWJuekhOYURndG5VUU85ZzhRM25RTnJpMU1ncGI3R1dxMzVFR0tZSkZEbmVoOUM4Q2dwUHVxdTVMRXM3dXRF?oc=5",
+        "headline": "한은 기준금리, 26일 인상될까? 미국 연준 '빅스텝' 가능성에 긴장감 고조 📈",
+        "summary": "",
+        "source": "뉴닉",
+        "published": "11/15 20:26",
+        "published_ts": 1794741975.0,
+        "tag": null,
+        "first_seen": 1794753935.0128913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBlWHI0WWZMNkdiQnAyd0xubzNpenA0UTRpRHpNMUVZdVhkTFpJSUFOODhoNHFZMmI0UTM4SC1JMHRSbzlnUldYd1Nya0tpRlhJOFoxR3NpazU5SkJkY2d3QkMxamxlZTh1R05XdGJR?oc=5",
         "headline": "금리 올려? 얼마나? ‘가계대출 1200조’ 앞 복잡해진 한은 셈법 [주말 Q&A]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794300540.0,
         "tag": null,
         "first_seen": 1794301246.4708834
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WTWR3cTJQUWhlNzNPYlBPMXUtclRGOEwtM2NybG1SWC1QMjBVYWFyTVJITFJkSlFsZ3d4Z0t3aVZTQnZpRXFvdWxPeDMxMHlCeV82Vk5mTVBUNTdUOTBFei1qVVpjRUZwRXlwY1RGRHVWdw?oc=5",
-        "headline": "금융위 \"증시 변동성 관리...사이드카·고빈도매매 점검\"",
-        "summary": "",
-        "source": "디지털애셋",
-        "published": "11/10 17:40",
-        "published_ts": 1794300000.0,
-        "tag": null,
-        "first_seen": 1794300328.2694757
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 23:30:57",
+  "updated_at": "2026-11-15 23:46:01",
   "yields": [
     {
       "label": "3년",
