@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1oNTNoZWNsOENWUVVCVXlaUzFXZVNjRUpxMkdnc1cxTWpjeTg4Zkt2a0xEOXpJckZGQUhBOUQwQTgxOUVOblRtYnJkZWRrTlRRdC1zUGt0U05xY0VWb1E?oc=5",
+        "headline": "[마켓인사이드] AI 투자의 위험은 주식시장이 아니라 신용시장에서 나타난다",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "11/15 23:51",
+        "published_ts": 1794754260.0,
+        "tag": null,
+        "first_seen": 1794755725.6387877
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB4S3piSTNpVWVaSUJCdndQcHQwQ2pQczExSnFTcXNZdlp2RFhiSnQ0VFY3ZGJxaWdjWXQ4bEhyeDd4RjByVkpOTnRKRlZwYlRKYTBVOXYtYWd6eUlBR0doazJ2SHMtNkJKMVhUT1ZYQ3BZUQ?oc=5",
         "headline": "[뉴욕채권-주간] 인플레 위기감 짙어진 연준…'AI 테마' 향방도 주목",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794528675.0,
         "tag": null,
         "first_seen": 1794639642.4659934
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02QVVRV05Ha3ZVbGxuUUNUUmVDcDdhQmJ6QWhSSXRIWlR3aGd4bm9mTHZ5Qnd1WU1selN6Qk9Lb1VpYll6X1pVbjk0b0xnMlcxWWZ5bmtwdzJsOW5VandNUnpmQVlSVUlKR1paZldFaWVUUWow?oc=5",
-        "headline": "[뉴욕마켓워치] 결국 물러난 'AI 황제' 젠슨 황…주식·채권↓달러↑ |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/13 09:02",
-        "published_ts": 1794528133.0,
-        "tag": null,
-        "first_seen": 1794717927.1627991
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9qRlVaNGdobF9YUnBoSk9jVGJJbjZhTF9ma190RVR5RjJtckQ0RkRadko2N3dCZ2pxd010Wl90Yld2RXgwei1COW9OR2tUSVlwdVpqNmh2d3oyMTNPQV9xU3BR?oc=5",
+        "headline": "[나가이 시게토의 마켓 나우] 일본은행의 내년 정책금리 인상 전망",
+        "summary": "",
+        "source": "미주중앙일보",
+        "published": "11/16 00:04",
+        "published_ts": 1794755040.0,
+        "tag": "JGB",
+        "first_seen": 1794755725.6387877
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOOFNVZ2w0QWpFdjRuTENMaV9TY3dQODMybkpYdFRjeW1qNG5SQnJmdEhjNzRZM0dSZHFfVUFvR0FrZW04QW9EOFVnd3pETXF1VnZTU3Q3Xzk4YWxVY0Flc3JUQzdWdVQ4V3JoMTdXa1BNVWFXcHBzWUFyaDFhT2NsZU9SME9vOXFPSnBNNG54M2owNmp0NzBWOUhlckdXdHJ3UkE?oc=5",
         "headline": "Nvidia earnings collide with Fed's biggest AI challenge under Warsh",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1794737511.0,
         "tag": "Strategist",
         "first_seen": 1794738635.6662972
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE85cXlEM3dQUlhDeWplMV9RNGlYOFRhaVcydW5tVkl4MjE4TnJhcm5iek9RWEgtaW1SVTlJVk1fWmxuQVBTWkh6UjNSdUR0eF9iN25NZWwxTGd0ME40MGIzRmlXMERYRGc3X190RVRpRkF6eV9Nd2c?oc=5",
+        "headline": "Japan's Retail Government Bonds: Cashing Out After 1 Year Leaves Almost Zero Interest; Holding ¥5 Million for 2 Years Yields ¥86,458",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/15 16:25",
+        "published_ts": 1794727500.0,
+        "tag": "JGB",
+        "first_seen": 1794755725.6387877
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZaGdHaFV0aFpqZGwtTWwtRnFMd0dlSTdHdGFqdWM4R19yODZRUWFLV19DWVkydnp5cDhINWI5VG9kQ2FkZFpDdE1qQ2tlMzdPSFlCV0M5ZmRmTFIwVFhnT1RsU01qZU10X1RvR0VfQmJYUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794637554.0,
         "tag": "JGB",
         "first_seen": 1794639642.4659934
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWkhiWGZQQl9SaVJGTHRORkM0ZnVYNkhHVkdCMUFYNWVvVF9DQTVDXzJNYUxNMVVfWXVrd3l6SmZFbHE4eGlLSVo5VTdMV1Z6VWEwS0JOOFp0Yk9FemROZ0xGQTJuOHdJRWFoNE44ZkRPQXQ0dm1QdW95Mko4UGpjRGNCUlUxQ1o0NGpyMXV6X0xsTWxrT3VoNks4OXFsaG51UF82U1J3U1Q1X3Y3UkZyUnRoUGJtR0ZQRE9manVaRXd3ZnpDUEE?oc=5",
-        "headline": "John Hancock 2025 Lifetime Blend Portfolio Q3 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/14 15:05",
-        "published_ts": 1794636300.0,
-        "tag": "Global",
-        "first_seen": 1794636929.353577
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9tNFByWjdVNXFhMVZxQlZNOWlRdXVFSjJ6N0gxbDRfdnhEdTFtdVVzMkZVeDB4TGJkN2psbU5LeUxWSVBid3JoY1ZBQXRTajdBOEHSAVNBVV95cUxNWmZFWmc2T2Z4dXI0RGlLZ2hXaDdsZlVDS3pMd1p4Z1djM29HUlEyRWtHX1BkcWtKWmVBeEdVZjlWdW5Xb0N5ajFSckl4NGM5bV9vaw?oc=5",
-        "headline": "“일본 진짜 어떡하냐” 전문가들도 경고…돈 쏟아부어도 안 잡히는 엔화에 결국",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/14 13:50",
-        "published_ts": 1794631859.0,
-        "tag": "JGB",
-        "first_seen": 1794657646.722698
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 00:08:56",
+  "updated_at": "2026-11-16 00:15:49",
   "yields": [
     {
       "label": "3년",
