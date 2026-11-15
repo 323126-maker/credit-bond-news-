@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR2M2WWNCbWNucHk5OWtzVGhYbVIxbFNwbGJnYzVkMEdYTTk3dlo4SElPWXRqQjJrR3pQbjYxOFFwclpZa2xNQUxHRUpoVDI5Nm9HX2I1b092UDR4ajRKWnBHZl9mUWg3S2pDelUzTjA5ZWpNdGZWTzJlSVc4Sm5Sb3ZfX0w5aGFiNFlRZDd2cUJJRUxWVnpVbzBzUkJaMUs2bUF4TkhzaG1Bc1pNeDN6RWdRRWhTRnJs?oc=5",
+        "headline": "T-bill, bond rates likely mixed on Fed, BSP tightening view",
+        "summary": "",
+        "source": "BusinessWorld Online",
+        "published": "11/15 19:11",
+        "published_ts": 1794737511.0,
+        "tag": "Strategist",
+        "first_seen": 1794738635.6662972
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ZaGdHaFV0aFpqZGwtTWwtRnFMd0dlSTdHdGFqdWM4R19yODZRUWFLV19DWVkydnp5cDhINWI5VG9kQ2FkZFpDdE1qQ2tlMzdPSFlCV0M5ZmRmTFIwVFhnT1RsU01qZU10X1RvR0VfQmJYUQ?oc=5",
         "headline": "[뉴욕환시-주간] 매파 연준 속 맥 못추는 유로…日 '160엔' 개입 경계감",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1794724974.0,
         "tag": "JGB",
         "first_seen": 1794727835.1882758
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPNl91MDloVUVTaUpaaTNhbnpXM3FRQjY4ZWV3c0tnMlBLVjRWX3J2djkzTldRd0J4UFI2ckhZaEttMmRaY0dLdnNtRkJYRDdTUzlHZ0NRTkJVU1Y4YllJampkX2hJRzg1dzUtUmFtRVhtdGpiN3ZfaVVDbURRNE5Yb3FyVGF6SEpTQVRvQzF3?oc=5",
+        "headline": "Fed Holds Rates Steady in Warsh’s First Meeting as Chair",
+        "summary": "",
+        "source": "National Association of Wholesaler-Distributors",
+        "published": "11/15 13:54",
+        "published_ts": 1794718474.0,
+        "tag": "Fed",
+        "first_seen": 1794738635.6662972
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Zd3Rnb3U3dVZPV0F4VVQyOGRTVVA1eS1EYUVBZ0s0NXllclNLNXp4YllkWVF6OFN1UFY1eVo2aGx1Q3RfdGk1ZTgxQlJlYUhmam9hYmZXUnBzUU1kYUpvUzFyRXR2UXIyc0hOTm9aVy1iUQ?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794625859.0,
         "tag": "Global",
         "first_seen": 1794626126.7882621
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0weVFrTVk3Tjl6Z0VVdGwtLUV3cWVsMnFzTmtRMlRMTXR0c1pQUl9sd3otck1yNjh4WEdDeGdzaFdmU1ZNQWxMRjZtN252ZGhJclVXSlB5MUZCZUNlT2tZelNB?oc=5",
-        "headline": "[주末머니]\"美 국채금리 내년 초 고점…2028년 인하 대비 장기채 늘려라\"",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "11/14 11:47",
-        "published_ts": 1794624420.0,
-        "tag": "JGB",
-        "first_seen": 1794630635.7989452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0k0emhDaHBwckw4akg0RU5NRGxmSTVBX3RPUlZCcGV2WGpiZHVoMzd2YWstWFFNR2NObTgzRURmaVRSQW5tdDluRE1XOXJNRFB5VFVFOWZUN1hOdHRJV1R5dDNWSTZOT3F6NVE2Vl93LWlZRUxQZWVreTZaY0xzdmhDaXdRUHVSM0RTekJXbDlJYU1PMkRTanRKTWVGWTh2N2Rn?oc=5",
-        "headline": "The Weekly Spread: What Shaped US Treasury Yields And The Dollar This Week",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/14 11:21",
-        "published_ts": 1794622866.0,
-        "tag": "Global",
-        "first_seen": 1794643240.6575534
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-15 19:15:46",
+  "updated_at": "2026-11-15 19:31:02",
   "yields": [
     {
       "label": "3년",
