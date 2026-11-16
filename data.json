@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GXzdaSUdveHFlVEZtbXhYTFlFQlVSc0JkTnNnNzkxRU1jN1MtRkF2bWwwUGx6Z2NEam1GUW04TGh2YlY3R1lJRXFoSlA1Zw?oc=5",
+        "headline": "KB손해보험, 후순위채 발행한도 1조원 확보…'건전성 선제관리'",
+        "summary": "",
+        "source": "전자신문",
+        "published": "11/16 13:56",
+        "published_ts": 1794804970.0,
+        "tag": null,
+        "first_seen": 1794806129.294545
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VMFMzVTU2TzNLaDA0MFRQd3dBTnlGaUZQczREYVFudEg4YjZMU1FoaEhSZmtIZVMtVWpHZ2hMOElqZG9vTkFEUnB4aS1lbmlpSEREOUhPUy1QWll4T1ludW01RkVzY2ljTTNiaDF5Mk3SAXRBVV95cUxQZ1VfT0hadndiWmhRS0hhLU1pMExDM2lTYkxpcFYxb25QVnlZZ1l1RkIzUG1ZMDRCT0dJRHd4bkJWRlhyenZWc3kxNnZWREp1OHZFX2ZaZ1pKQVpKVi1sQ0VMN0V2UVFoOURrbHFmZXpSQzNhcQ?oc=5",
         "headline": "[진단_보험업계 ⑦교보생명보험] 연결 순익 증가에도 보험 본업 부진... 저축은행 인수에 자본건전성 부담 가중",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794462281.0,
         "tag": null,
         "first_seen": 1794541123.8677657
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBkRTlYTF9UTUZ4Z3JOTVhQM1l6ZzJleDQydGZrSVB5S3ZsdVZDOXA3dXZhZjc4a0U2Q09PRmhFUWN0aWNLMmlaUUJwc2NiUV9YMjBYTmEtcnBQN05Uc0E?oc=5",
-        "headline": "삼성생명, 3분기 누적 순익 2.7조…지난해 연간 실적 넘어(종합)",
-        "summary": "",
-        "source": "뉴스투데이",
-        "published": "11/12 14:29",
-        "published_ts": 1794461340.0,
-        "tag": null,
-        "first_seen": 1794609928.1273863
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA0LXprb1pBVlFZOUFUdGthMDgzQjlvWnhRaTUtOURfZjFhaEs3T3JTZlIwNFJkclhSSlRRblFhcFE5eUI2VTFvX09NYnRmV2xSS2UxaA?oc=5",
+        "headline": "Morgan Stanley Sees Global Stocks Rallying Next Year, Prefers Korean Equities to Taiwan",
+        "summary": "",
+        "source": "bloomingbit",
+        "published": "11/16 14:13",
+        "published_ts": 1794806000.0,
+        "tag": "Global",
+        "first_seen": 1794806129.294545
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFhlMk9GRllTSG1RUHVKUWNXeWMydDJ5cnZwZGJxNHdIQ0dZQjlpZ1FIYmZMSWJVNlBJUkZVNzB3bVMxRmtTRS1KeUFTbmlmRmlZX0htMVFxdHV6bjEtcFhxcnh4QWlGUkhTU09jMXcwaGxfRVd0emNJUkI0dFk3ZDJVM2Rub3FCNGxaaDNR?oc=5",
         "headline": "Fed's Rate Freeze Criticized; Bank of Korea Faces Scrutiny",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794727500.0,
         "tag": "JGB",
         "first_seen": 1794755725.6387877
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5lU2o5TVA4cWkybXJJUnFlU19vdjFvV1o3X1JXckNqU0pRZmRDNmhvaVpidzZwQkx2dHFKZll6T09tOEYzdFRZTS1GWDVqVG9mOWNiNmlGOFI1VmRiSWhqOVJB?oc=5",
-        "headline": "XS356775228 Bond Yield and Price — MUN:XS356775228",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/15 16:18",
-        "published_ts": 1794727087.0,
-        "tag": "Global",
-        "first_seen": 1794762040.8085034
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 14:01:09",
+  "updated_at": "2026-11-16 14:15:52",
   "yields": [
     {
       "label": "3년",
