@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NYzM5NVY4LWcyQ0FHS0pXcFF4Mmdyd0dNTER2ckRDN3dPaEpoU0VSWTRabkxGMHhaT1JMaFJ1WjdlY2paSFU5anVXaDlRcTJXNUd5VzVBYkpNZWQ1bFlZOFJCTFhzZlRYZ0NGc1V3?oc=5",
+        "headline": "은행 PB들 \"연말 자산관리, 수익률보다 유동성\"…예금 만기 분산·채권 분할 매수",
+        "summary": "",
+        "source": "폴리뉴스 Polinews",
+        "published": "11/16 10:13",
+        "published_ts": 1794791612.0,
+        "tag": null,
+        "first_seen": 1794792634.5325556
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WNUltZTBoUklhbjAwdHN1NnBsbWp2MnRzUjFrMkxOUXhTSWJGUk5JV3BpZ3ZTNW1mTTZNM1FpQ3Jyd1NaTEx5cWhJd1NSUlliamN4RXpGOTJ5UkY5Nm1sX2J4MU05dm4wVDRFQjR6TjdnQQ?oc=5",
         "headline": "크레디트 스프레드 한두 달 새 최저…연말에도 더 좁혀질까",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794555452.0,
         "tag": null,
         "first_seen": 1794556839.2290447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRdIBb0FVX3lxTFA3VkJBM2t3MlItTFB4UGJKUHRLdXJNalFleDgwTW1aUnFhcEF5OHdBc0FwTGdwd2hfMEFlRkl0dGRaV2haMW1BLXdOS2kxbEs4MEJ1Y2NtRlZ2SEtkeHB1TDdYZXgtUGNCWlhQeXlxRQ?oc=5",
-        "headline": "전투기는 하루아침에 날지 않는다… KAI의 성장 공식",
-        "summary": "",
-        "source": "시사위크",
-        "published": "11/13 15:54",
-        "published_ts": 1794552877.0,
-        "tag": null,
-        "first_seen": 1794555035.8821886
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOR0w3QnNOYVBGYjdBMGJDeml5RExhSzMzaGVTUEQ2eEdLNHhHQzRoV2thNUo4TkVGYmNfc3NsSGpVVVF2OWxCZ21CNzBMSGs0S3NuZ2Rla1d4WTR0RGJwcllfYnZ6dlR5ZGZXa3dMakUxZmNDWFExYk9HNTkyLTN6aWF0MlRRbzN4aUJUVnVCMk1fdlpVN1B0bE1QM3dkaENDNEwzaHRORFFjVDYw?oc=5",
+        "headline": "Gold edges higher as investors await Warsh remarks for rate signals",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/16 10:25",
+        "published_ts": 1794792300.0,
+        "tag": "Fed",
+        "first_seen": 1794792634.5325556
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOcmtkXzQxMXpKU0Nxb2NMMTdWWUVvMkJHVzFrTHRBQlNzR0t6TXJQcnREQmp1eTZzOFdxaldmcjJTaElIWFprQmR3LTJkbWViWTA4ZF9pT3ctblA1QVZGTE9VV2JvWUhvZ0s4MHlJdDVLYWwzWUZ3V1pyUWVBbmZvTUlhQXFoRmJ1LVN1X0tYZlUwWm5FVUF5endJX2VSWGtvVlY4?oc=5",
+        "headline": "Victory Investment Grade Convertible Fund Q3 2026 Commentary (SBFCX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/16 10:10",
+        "published_ts": 1794791400.0,
+        "tag": "Global",
+        "first_seen": 1794792634.5325556
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaERtTkl5dHB6SXdsYWFhM1haenptdjhpYmVhdHZ5RHdEN2s5cWprWDNvVkxTcG5lRTZvNGJ2T2UyUGtlUWpSZXl6V19PWXVoTW9qR1J5aHU0alhIMGNORDczdjVPdlVsVGYxV1U5YmVhZDdkN1pCR3N4UGM0VmJWNGVrNVZtZEpFTTUyNnJPdXAyZGhqUUFpVGRkMFJWUzBfTVhR?oc=5",
         "headline": "Touchstone Ares Credit Opportunities Fund Q3 2026 Commentary (TMARX)",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1794789900.0,
         "tag": "Global",
         "first_seen": 1794790850.162571
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLVEzLXhWMVFyT2NNQlB0R29hTGVmaHl5blRjNXEyQUo1eHBxSml0eGl3NUF2LTV3Zld5SWJfNk5PWFlhNnp0bXBrd0tPSnFiLVJXaHYwd3JMaVFQMFlXQ2c2MzFJRGc4TFJibmVsX2FwMnV2SDhudDM0Z2xad0syVThDZHgzeEV2NG1ZUEpJYUc3b2ljS3Mzd0gwcTRIcUhBWlpHaE1xRmEybEdwbVR3ZHNBNVZOWkFuVGdEZS1FR2Nocy05bGw2S2diYlFrWkZtUjVKWkRoVQ?oc=5",
+        "headline": "This Week: Nvidia Earnings, Anthropic’s Nasdaq Listing, and Fed Minutes in Focus",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/16 09:01",
+        "published_ts": 1794787260.0,
+        "tag": "Fed",
+        "first_seen": 1794792634.5325556
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1PTTRWbTVlOXptbU9SNmhlaGZmTVVzS1I2YjRyeENrWnBfZm9sWXBKQlVkNzFGbk13emE2VDZIN0g0Q3hnWG5JSlo2RDBzZVdYWkHSAVNBVV95cUxPS25UOUN3U3lGUHg5WGI3MTFHRHk3alZQWnZ6MkpEZ1ZpN1dBUWF1YS13MUhpczRxNFYyeEZYTnBqWThaR1JIWjlvYUFYdjg2T2pjbw?oc=5",
@@ -1748,6 +1778,16 @@
         "published_ts": 1794751380.0,
         "tag": "Fed",
         "first_seen": 1794753034.0070777
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50Zk5wT0hKdjdTdGhWaTlrOEdaeWhGenNxNHB4Zzc0TDZaSnIzMDdRUjhJbXFHZXR3YWktVnJoZmN3SnVoWXlEbjdyOHNMeTB6VDAxaWlXejJ0TDk2aWNtOEJmc2dIcDRTaWZvNDlQSFNVeVZISWVNV1pPMHg?oc=5",
+        "headline": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+        "summary": "",
+        "source": "CryptoSlate",
+        "published": "11/15 21:50",
+        "published_ts": 1794747056.0,
+        "tag": "Fed",
+        "first_seen": 1794792634.5325556
       },
       {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1794703080.0,
         "tag": "JGB",
         "first_seen": 1794719729.2036223
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNalR1VmFTVjdGQXRncVpCWDVlR0J1dEpnWFlKUnJMZFlnWnVVQXc5Z1hsaG9nOXN6RkVBNDF3a1g1bUNDeENON29EWjNWR1R0V0lVTjBVaV9HbzlvMXBidXZLRGsxal9hUjdQaW9TaW1VTXg1dkdtSWgxRW9FS0VoN05R?oc=5",
-        "headline": "지금 일본 국채시장을 보는 이유 | 금리가 증시를 위협할 시점 Toiture Darlex (Ea2VVQsuHo)",
-        "summary": "",
-        "source": "Unisba Media",
-        "published": "11/15 08:45",
-        "published_ts": 1794699933.0,
-        "tag": "JGB",
-        "first_seen": 1794713436.9209874
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSnJxbWd1akpPdk9mSEktMi0xczZ6R2EtRmJrNkpKQnhXOGNJYU9fbnB5Q0lOem1oVmtEeHNfMmtkWVdfcTJudkpvVjR5VjRlQy15VE53WUhwMFVnaFI1bThaaW1vTW96Z0dpamVTR01lVXF0Ymh5cDJtejNEZmpvbmZuTFg2aE9V?oc=5",
-        "headline": "미국 국채 싹 다 팔아치우나…일본, 2200조 자금 회수 시작 Martin Clunes (ZqAw8W2Jr5)",
-        "summary": "",
-        "source": "Unisba Media",
-        "published": "11/15 07:29",
-        "published_ts": 1794695388.0,
-        "tag": "JGB",
-        "first_seen": 1794710728.5834317
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OdEV5LXBlVS14TzNJbzV2WU1IQkxXT29ia29zdU5qSm9wUlNZTy04WFJwbnRlQlJnQWhhTkdfcEstbW1JNzZxYzhvM2xaazVIeE44YVVKdENsdFlFSlY0ZdIBYEFVX3lxTE9OdEV5LXBlVS14TzNJbzV2WU1IQkxXT29ia29zdU5qSm9wUlNZTy04WFJwbnRlQlJnQWhhTkdfcEstbW1JNzZxYzhvM2xaazVIeE44YVVKdENsdFlFSlY0ZQ?oc=5",
-        "headline": "[뉴욕증시-주간전망] 엔비디아 실적에 앤트로픽 상장…'AI 빅위크'",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/15 07:00",
-        "published_ts": 1794693600.0,
-        "tag": "Fed",
-        "first_seen": 1794739533.3349352
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWjFSck5ITU9FeHZwS3BZejBxVkpEX2hBd0FqaF9IM1ZESnUxbEJSVnF1QzFIM2RTS0FXYi1CMHVuUGk0MF9pcXhwT1R2R2ZDV2RfRVZHcG84emR3Q25CSkxaSnZ4OGpnX1Q3WWpMXzlISElCS1dhRDYyZnRvVm5KdFk0ZC1HUkE1dzctTXJmZEFTZ2NvZThubWxMNzcxSkJCb3RtcGlrQ2VBT3ZFUFdqWGdINA?oc=5",
-        "headline": "Mohamed El-Erian: Global Markets Face Sharp Volatility as Investors Await Federal Reserve Signals",
-        "summary": "",
-        "source": "Sada Elbalad English",
-        "published": "11/15 06:45",
-        "published_ts": 1794692706.0,
-        "tag": "Strategist",
-        "first_seen": 1794702643.3297005
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 10:23:15",
+  "updated_at": "2026-11-16 10:30:53",
   "yields": [
     {
       "label": "3년",
