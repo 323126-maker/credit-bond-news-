@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQWxhSndRSHRSdEJXcm1fQ1gtc0wwRGZJM1lobnREeE5zMVM1UC1TXzA3ajI4bXVsVVlNZE1EWng0Y0ppTElHd3Jfd1cwQy1WYk5ZaDM2TVhTWHIxTlVzN2U4a0VIZ1FDTG1UTWJXZTh4RHlNLV9MLXdCQTM0NWl6amhfdHA5bFFDVEpLYXNnb1ktaWxPRGlhamNXbjR1OG5YLUN2N2pjbVNqQQ?oc=5",
+        "headline": "COMMENTARY: Warsh's honeymoon period is over",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/16 23:02",
+        "published_ts": 1794837748.0,
+        "tag": "Fed",
+        "first_seen": 1794838546.1501598
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelpWcTU0aEotYU9uU2JJYjhJRTVlU29aaElmOGNISnptSEFiQW9FV0tjZ2RPeDNYQWhhRnQ2c2pDR3BBMUM5VjU0dmpGZmdnYUJ5Qmx5ZWNSTGo2S0dVRmZfV1VBSDYtcHp4dC1MVzU1Umg5S3lsX2d4WjAzX2lNazQ5RGZHS0JfV3NEdGtNTnhyZjBadEl1eWtvTWxfNDA?oc=5",
+        "headline": "Is Crypto in Trouble? The Fed, ETF Outflows, and US Politics",
+        "summary": "",
+        "source": "CryptoRank",
+        "published": "11/16 22:33",
+        "published_ts": 1794835980.0,
+        "tag": "Fed",
+        "first_seen": 1794838546.1501598
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB3YXJpemtMOS1tcEVDRk14VXRLaTYzMkJFWEN4Uk9CUzBxVDVFbmRsUG5CMUk4SG5JS0xZeVZlMDdXWW91UjFkVXNRendnTkFCYVVZNnpPaFpCSHpkS28wZVlna1M4Vjgtc0JLNw?oc=5",
         "headline": "Morning Bid: Tech’s telltale week",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794813357.0,
         "tag": "Fed",
         "first_seen": 1794814234.0802822
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3kwSEI2S2ROSFR0TUJIYzJhMjBwaTV3TGhDV3FxOVMydTVFODhVYVdtV3cyaVh2N2h3Q3FRSy1nRzBva05MS1lCTU5jOU5UN2ItcEFvOGM0REw4LUYtYXRTSF9ZRkI2X0xQZWo5dWVMYTlxWXNDMFVtWkxPNnIxSTRFNWoxcW9iVTNaVE5KU09JaU9nYjltdHM1bXlSQTk5aHdkZE53ZnpxR0JCMldWa3E4TDJWRzhCNGhMbHd5OWk0UG5OZGdER1hzU242MnYtWV9yd2FZTGF4aW9GMlIwXzFFVFIwSDN0bDBVRjVSSUxEUQ?oc=5",
-        "headline": "FOMC Meeting December 9th, Bond Market Annual Returns, The Fallout From Nvidia And The Midterm Elections",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/16 16:05",
-        "published_ts": 1794812700.0,
-        "tag": "Global",
-        "first_seen": 1794813329.7437332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm9wa01XQW1lUktTdS1MaUp0am5FV2dwcUI3NW9lTHRFV3RtQ2NYQXdyYXBrbDBnRDR4YnFsYVE0RUdKSXdtTkw0TE1oUlAxN2N3cHhBMVdFNE5nclY5UDRRbTVZaE9sQnowaFZCLVNXUV80ZzVnbXNudktfbWl4NkJEdUZyM0dUVzRNSDVycjFWZzhoc2I3NTJCUmF4SDE2aHVwNmV5TFhvaXl6?oc=5",
-        "headline": "Fundswire article",
-        "summary": "",
-        "source": "Trustnet",
-        "published": "11/16 16:02",
-        "published_ts": 1794812521.0,
-        "tag": "Global",
-        "first_seen": 1794813329.7437332
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 23:01:04",
+  "updated_at": "2026-11-16 23:16:06",
   "yields": [
     {
       "label": "3년",
