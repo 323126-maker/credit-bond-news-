@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPcjNueEswWnBSTkpyclZQV1l3dEtfQ0VJS2pjR09LNHZoMVdibklodHNHUFJ0Tktwd0tGMVN4R2RUR1l6dFBBUTlRSlFxamFaNTNfeWQ5TTIxSG9IbXFaRmdWT1RPYnU5YjRJRENyWFlUSVhfLXROVzAwYVVuWGVRVEp4VkctQl9FSWRzR2VDRjhTRm5ITEJ0SDRYT3FTWU5zb2NuNWFpLWFwLTJrajVIVkgtcm5DYmF6UkFLcE5ETXFHYkFSdFlDbEVtTUM4OWVVOC1aRlhkM0FNdks4dmp3TnhYNW95Rnd3VUR6VEZYMGVSMHV6SWs0U0p2MVBZclVGWlZtcEJnei1EUzBmT1luNks2NW1FRFVRTHhiZ192Z2g?oc=5",
+        "headline": "Fed's Kevin Warsh to hear from tech leaders on SI's impact on jobs, economy",
+        "summary": "",
+        "source": "WSMH",
+        "published": "11/17 01:50",
+        "published_ts": 1794847851.0,
+        "tag": "Fed",
+        "first_seen": 1794848457.346686
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
+        "headline": "Fed Chair Kevin Warsh Talks AI Today. How the Tech Could Affect Interest Rates.",
+        "summary": "",
+        "source": "Barron's",
+        "published": "11/17 01:30",
+        "published_ts": 1794846600.0,
+        "tag": "Fed",
+        "first_seen": 1794848457.346686
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaFl3Nk1ZTndKLU9tbHkyY1Z4RkhQTnN2VWw4aXdWOWdNbGtEZGVsXy1UVGwyNDVpY1RGTG80OVhyWXI1UXZpWEQzODBHSGRYTS1hdlZxOE5yOWZkVzNia1ppWkdyVVdxVXlxenFoVlc0WDkyc0Rsb3lIbDJVUjJUMUVrZ2NDb0pCNTlqRy0tMTBZZEE?oc=5",
         "headline": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794820469.0,
         "tag": "Global",
         "first_seen": 1794832236.690587
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iejhPcUpibG9XQmtmem9FLW1FekdUWVp0NkdFaTRHMmgxazJWQ01zdlYwMi05dE4wclJvRS1rSzRibzRxWTJyTGdXeWlwWHJtYlNn?oc=5",
-        "headline": "Exclusive Interview with Former Federal Reserve Vice Chairman Kohn: The Higher Hidden Cost of the Fed Holding Interest Rates Unraised",
-        "summary": "",
-        "source": "36Kr",
-        "published": "11/16 18:11",
-        "published_ts": 1794820304.0,
-        "tag": "Fed",
-        "first_seen": 1794821447.0700972
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxObXNWSTBrcmFmZklFMGd4N3RMeDBvUEJNYl96cXVNMFFrQ2NmOXR6S0Zaa2RDOGc5UGJwVjd2bkVVUWZuODdWNlRhMFhVbC1oVVg0a0ctWDdxcVJIcU9Ga0lEcXhLbHZwdDNGaldmaWtQNkRpU3kyaUluYlJJTllWVkhmSlBYamlPNjllYzVHMnp3V0FVbmZHdkNZOXJqcVpxZ2dyZXBjVjB6alIzRjZ0MFlhYWZOcEU2WmFpbWtfS2RDU0UtN3p3U2ZhVXZSNTRfRHF1QjF4UW9VUG5oa3MxTA?oc=5",
-        "headline": "Betashares Geared Long US Treasury Bond Currency Hedged Complex ETF (ASX:GGFD): How Gearing Changes Treasury Risk",
-        "summary": "",
-        "source": "Kalkine",
-        "published": "11/16 18:08",
-        "published_ts": 1794820080.0,
-        "tag": "Global",
-        "first_seen": 1794826842.5358129
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 01:46:02",
+  "updated_at": "2026-11-17 02:01:22",
   "yields": [
     {
       "label": "3년",
