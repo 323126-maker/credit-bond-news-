@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5LakJCcXQyeEtGbFhfbnNENE5KdWtWX1dVYnNjR0EyU2R1aWlfQUo4R3lvdTJ6TEtMZnhWNDJDckRHUV9HLTdkZXR4dUtNWDZzQzZhZGRnSkh3NmxuM09XOFZ0bmhtQW9ieURDNlFIemk?oc=5",
+        "headline": "S&P, Celsius Holdings 전망 ’긍정적’으로 상향…레버리지 1.7배로 하락",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/17 07:38",
+        "published_ts": 1794868680.0,
+        "tag": null,
+        "first_seen": 1794869127.06323
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hUzRNSVROeDd2NDN1T1p2dnNQbUZqR1lwNWxVZHliQjJGdW5HVUZNRFBSUVpTem9kMzh3ZE5uLWR5em54YnRHNGtNTzczSXVkUW9zbmt1alZqaHkxTEN5aXJZZzFtenBvcHNmMXRPNHozZw?oc=5",
         "headline": "국채선물, 美 기술주 급락에 상승…'거래 급증' 3년물 4틱↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794780060.0,
         "tag": null,
         "first_seen": 1794780927.9470224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBuQVk4ekRsSU9xQTBEdkZCckFZcDVPRDN1c3VQRC1SWjJEMmwzTWQ0bzlmODB3dnRtVm82eVZWNHVRbVlYdmxoUkJjOXJXUEhtcFJHeA?oc=5",
-        "headline": "20조 돌파한 시장…회사채 시장으로 선회하나 [PRS 후폭풍②]",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/16 05:00",
-        "published_ts": 1794772800.0,
-        "tag": null,
-        "first_seen": 1794773728.8276932
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1794868234.6727896
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb1IxWERCQnUxYUVCbXB5NUs1WnREUkxraFR4UHZ4cnp4ODVEdFdmelEzejNMNkdaa1k0TkF2UWtrN0ZwaFFyTS1GME5veEY3N2FNbzFWZ2tkTlVWUTV3MWhweWdNVTNKb1BZSnI1S05PQjJDNmJQcEJhSmgzN0tLUnZUNE5uTHNuR0xxa2trMU9rTk9DcGtTY1hOT1JWUjg?oc=5",
+        "headline": "Warsh says Fed examining whether AI will boost or jolt US economy",
+        "summary": "",
+        "source": "CFO Dive",
+        "published": "11/17 06:38",
+        "published_ts": 1794865087.0,
+        "tag": "Fed",
+        "first_seen": 1794869127.06323
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29BVU9nZnZzQlctVXprcU5DV2dPYklndHM1aTFMWktWRlVpQ080bmtJUW1pSjVSamhRSENSWVM0SHZhWWxwQV9FZThuaU9vRVdFOUttNDRtRUxJOFRkOWJ2d0xxbFczQi15cVd6S3J0U2xLODRXUGRuTTZ4V2I4ckJqRUlkTzk1ZENqVk42V1dJazFSdFI1Ymx0VlM?oc=5",
         "headline": "Productivity and Jobs Task Force Conference",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "11/16 23:25",
         "published_ts": 1794839100.0,
         "tag": "Global",
-        "first_seen": 1794840339.6089284
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMjdMejBQc1dTZW1ucmpPWW1JVEtqbTNCNDNOTTk0ZVRBblo3OEF6NzRWamh4VF9JTGJ0UWdBZXJCclNiVUZyWXVWU09zaU5UVll4N2YxeHFMRm1lVC1HdlIxN2NTckJaaXJDLXRoUlZ0eWg2alRnRFQxaXUzT2k3Z0d2LXRpV3FZMlkxYVkxb1U0TXM3STJn?oc=5",
-        "headline": "Dollar at 19-Month High Ahead of Fed Chair Warsh Remarks; Yen Near Two-Month Lows - News and Statistics",
-        "summary": "",
-        "source": "IndexBox",
-        "published": "11/16 23:21",
-        "published_ts": 1794838884.0,
-        "tag": "Fed",
         "first_seen": 1794840339.6089284
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 07:30:58",
+  "updated_at": "2026-11-17 07:45:52",
   "yields": [
     {
       "label": "3년",
