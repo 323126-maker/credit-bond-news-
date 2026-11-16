@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9PM3RpUEJKbENmYWhhalFZb3JsekI4QXU0Z3BGMkhMVTlVRUN4elRYTW1YdUNtb01TMG5LS29ZcUlfMjJSQ2s2VFdKRQ?oc=5",
+        "headline": "워시 연준 의장 “AI 없이 미국 초강대국 유지 어렵다” : 경제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/17 06:17",
+        "published_ts": 1794863820.0,
+        "tag": "Fed",
+        "first_seen": 1794866452.7246935
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNckpDUXJzbGl2dzlseFhCcU1qMjhHSV9ScGxGeWJGRXoxWG5pY1JqT2lOREpZTUJHdUIwajhvdXk4SlJSU2hIbFhMX0Q3ZnlFNGY4bVRYbV9YbXRWRE9wb256NVNRcGNOY1NXZ1QyYW93bmxzcXItbGs2QUxBLVRzMHFxUUFtQjVPdnEyM3ZDOXVxOWItQVFXV00zeDRCRXpLcm1OWURvaW4zYi1TaDJSa2NXLUtYRkFHelZZOU5fVEc?oc=5",
         "headline": "Portfolio regime change?",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1794862800.0,
         "tag": "JGB",
         "first_seen": 1794863733.4724224
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5qdUI4anR4a3BGZU8ySEdicnBydTRLaEhzU1Q3NGhVMnQxd0gyQ3F4NTRydXN3MmVfSWpyVUtORUVlRWJBMDZaX203djZTQ2szNllNY2NudVJvX2ZaY3NJT0ViaklxWFpQemc?oc=5",
+        "headline": "US384802AG91 Bond Yield and Price — BONDSCOM:US384802AG91",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/17 05:49",
+        "published_ts": 1794862168.0,
+        "tag": "Global",
+        "first_seen": 1794866452.7246935
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SbjB2X29aTE1NN1dEendZcGpkNXplZWtwem5SUFBtWldjbTkzWHpCS3BaWTFvbFo5VmFUUUMtOHh2bm9odlVLN0l1dHdOWXdWcTc3X1dzMGh2QkpITlZQUGZobw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794837748.0,
         "tag": "Fed",
         "first_seen": 1794838546.1501598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNelpWcTU0aEotYU9uU2JJYjhJRTVlU29aaElmOGNISnptSEFiQW9FV0tjZ2RPeDNYQWhhRnQ2c2pDR3BBMUM5VjU0dmpGZmdnYUJ5Qmx5ZWNSTGo2S0dVRmZfV1VBSDYtcHp4dC1MVzU1Umg5S3lsX2d4WjAzX2lNazQ5RGZHS0JfV3NEdGtNTnhyZjBadEl1eWtvTWxfNDA?oc=5",
-        "headline": "Is Crypto in Trouble? The Fed, ETF Outflows, and US Politics",
-        "summary": "",
-        "source": "CryptoRank",
-        "published": "11/16 22:33",
-        "published_ts": 1794835980.0,
-        "tag": "Fed",
-        "first_seen": 1794838546.1501598
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29BVU9nZnZzQlctVXprcU5DV2dPYklndHM1aTFMWktWRlVpQ080bmtJUW1pSjVSamhRSENSWVM0SHZhWWxwQV9FZThuaU9vRVdFOUttNDRtRUxJOFRkOWJ2d0xxbFczQi15cVd6S3J0U2xLODRXUGRuTTZ4V2I4ckJqRUlkTzk1ZENqVk42V1dJazFSdFI1Ymx0VlM?oc=5",
-        "headline": "Productivity and Jobs Task Force Conference",
-        "summary": "",
-        "source": "Federal Reserve Bank of San Francisco",
-        "published": "11/16 22:31",
-        "published_ts": 1794835908.0,
-        "tag": "Fed",
-        "first_seen": 1794855654.071669
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 06:46:01",
+  "updated_at": "2026-11-17 07:01:19",
   "yields": [
     {
       "label": "3년",
