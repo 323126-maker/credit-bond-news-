@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBkXzBtV2FhTHhaWTl4R2JXWkdMNWpvOG9RSHpSNDg4MWRmaVgwVFZmSTNRY1NZb3NCOTRqVXJOakpQNUQzM2Vkb0EwT3JnOHJra1E?oc=5",
+        "headline": "AI가 美 회사채 시장 키운다…내년 발행액 사상 최대 전망",
+        "summary": "",
+        "source": "노컷뉴스",
+        "published": "11/16 11:24",
+        "published_ts": 1794795882.0,
+        "tag": null,
+        "first_seen": 1794797132.8166902
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOd0xtME9jYnhjU3NWRU1aWWd1Nm5TVnpnQWR6TDIzWWJvb055NEtCd1BBdmJTbkxPa2xjamZEcXlRY2RpdElkUWxxWQ?oc=5",
         "headline": "AI 투자 불붙자 미국 회사채 발행 내년 또 최대 : 금융",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794557640.0,
         "tag": null,
         "first_seen": 1794558634.3230362
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WSG1IZmNtMlRZajhNZmlLZ2JCbWxLWTR3STNOOVRNMGt4YVE1cFJQSFZzaEZXT3czLWYxT0QtXzJpWUFPZUR1bzJJb2l3Y0NER0w2NmVhQ0JXazA?oc=5",
-        "headline": "국고채 금리 상승…10년물, 열흘만에 다시 4%대로(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/13 16:53",
-        "published_ts": 1794556427.0,
-        "tag": null,
-        "first_seen": 1794663035.703123
       }
     ],
     "perpetual": [
@@ -1640,6 +1640,16 @@
         "first_seen": 1794794447.9897423
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNMVNxZjdMUWpxX0k5UFljV1NLWVhkTW5lMnE0SVVsRjlVNml3N1BCWmt2NTgwV0RGZkNYam1yQ1N3MXRjUHJLME5jZmY0dERCNGo4Rl9rZjdKZldwajhnbmlTQ25PRzE4WndhUEFoS29fZmFDWVczMUZfRFRRa21MektCU0luRGJiNllsTnZiRmZHVUN1R0kwTlJsM2dCN2hlYzJyOXk0bUZRX29XajFHRkhubzk?oc=5",
+        "headline": "US-Iran deal uncertainty to weigh on rupee and bonds; Fed, RBI rate paths eyed",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/16 10:32",
+        "published_ts": 1794792720.0,
+        "tag": "Fed",
+        "first_seen": 1794797132.8166902
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGUHE0Rm9vaWlFcGp5QlExY3ktLTV1Wng4N3ZQRkdHdnJlazFmc1NXbUJzMWpOaVphUERxS0FfcXBVT2YzNDVxbDJTSG1DYW9vSnV4aHU2WjVqWFZDRzhHbWxHanFWenUzTTN5TVBOc2JRNVZxSXc?oc=5",
         "headline": "After US Treasury Yields Surge Past 5%, Wall Street Zeroes In on Warsh's Remarks Tonight and October Meeting Minutes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794710340.0,
         "tag": "JGB",
         "first_seen": 1794734126.6257606
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdFY0N0Vac0JBRjVrS1ExSHAxRWlieTVnX29nd3ZnbFliU2U0UWV2QThZQmdDQkZCdVEybEJsaEc4MEhCZ3dVVXMwUmZkWDR2VWp1YUk4T1E4cjNVeXIyVzkwUEZBaXVBVGFvbXhRd0xfeFpTZjFWaml4MlpkRExKUkZOREVtN1gyVWI4SWJ5b1JwTkl1c2F1LU50Y0NXVmp2M0lUQmtGaw?oc=5",
-        "headline": "investingLive Asia-Pacific market news: Fed hike bets ripple through Asia",
-        "summary": "",
-        "source": "investingLive",
-        "published": "11/15 10:56",
-        "published_ts": 1794707800.0,
-        "tag": "JGB",
-        "first_seen": 1794734350.958627
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 11:30:59",
+  "updated_at": "2026-11-16 11:45:59",
   "yields": [
     {
       "label": "3년",
