@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRTdYYXpvaXhEWFFlaXFLUF9qZFBpUmhQNmJxZk45TVBPeFFfQWs2Zl9fU19lZlVCbG9XTjc5QW1kbWR3SVVLb1Q3RGlZLXdtSDZqQVhnVkZ3eTU5ckxIbUFrcXZRLVlHYUdkeTNuWlhDQ21HRzFoNWdmMmJoTDhGWQ?oc=5",
+        "headline": "[37th SRE][Survey]‘한발 빠른’ 나신평, 신뢰도 3년 만에 2위",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/17 08:35",
+        "published_ts": 1794872104.0,
+        "tag": null,
+        "first_seen": 1794872738.652132
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zV0E0bENwTzJkT3pXYVZlWUN5bFhreXZCWGNzTEFQUVZyTjBGc3B4V2diV0c0YVBvRm1ubFhrRGtkQXpGMEJvUTZobHFra2xsbHpraW9EclpfckZ4anlEbg?oc=5",
         "headline": "RTX 신용등급 'A-'로 상향… 미 방산 5사 중 GD 'A' 최고, 보잉은 'BBB-'",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1794786286.0,
         "tag": null,
         "first_seen": 1794787249.713116
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMTjF4WkE2TFlhX0EzVGVlS1hoamstNnVFNklfWEpnbk42ZkFoZWVvNVY3eUY5alExcXJOcUo5NnljUVpBdjRIeDhfbWdSUjFIWThCOU1VbjFSUEdHSTVqR1RENjFTOHc4N3RfbnlLOXljZw?oc=5",
-        "headline": "BofA \"美 10년 금리 4.5% 아래로 내릴 때까지 위험 회피\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/16 08:28",
-        "published_ts": 1794785318.0,
-        "tag": null,
-        "first_seen": 1794834055.3885145
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE93QnFuN1JNVjBoTnhKbFJDSk9CVzZFdnNKOHBXQ3hZT3o0RGdVTUUzRW5ZTHRxSUZoWW13b2RUd0p0S1NkNkZmRzg1bzRRYTFNOWJBdVlfX21PNVk?oc=5",
+        "headline": "상장 LCC 4사, 3Q 반등에도 재무 회복 ‘온도 차’…환율 착시 뒤 차환·정비·스텝업 부담",
+        "summary": "",
+        "source": "에너지경제신문",
+        "published": "11/17 08:40",
+        "published_ts": 1794872406.0,
+        "tag": null,
+        "first_seen": 1794872738.652132
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yTXZGZXhQX29PTWZSeHZESjVodWstNnd4cExtVW42RjhxR2FVUzVDRGVYY2F1bHBJTWpxQnBpc3prNFFjVGdOY1FWSFlnOGRKSGFVdWE5dXhwQnVSdWZJS0VCSkZaODhxQ2x3dnI4YnLSAXRBVV95cUxOTDcxbFpWVllEXzZZMF92RFFBU2JUVUhyZ0lNQUQtNUZMRkZ4VkV0TW9mdk95ajgyTzJVdEh6S0VhVTFHc09weUNZQzJUOTZ3YVFuM2VKSjJqanhyQmQ5ZWItblVBMVBGRndtUmVmX3ZWcEVXaw?oc=5",
         "headline": "자본성증권 문 열어두는 보험사…KB손보 후순위채 1조원 설정",
@@ -792,16 +802,6 @@
         "published_ts": 1794548400.0,
         "tag": null,
         "first_seen": 1794804334.5347602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNV2xEc1MtMEhIS1c3MWpoNE9IS215Wll4bTFDSXlkSEFoeXJjT2N2N2VRTnF4VU1hV1NHRl9EZlpoRUpOb2FUV0dPZU1HdkRRbnd3Z3ducUJrOWJJYWVVYWlsalBpMnltdzhkRVQ1cHNVS195WUR1XzRRdF9IWDloRFJlRWVLckZEcjdERW84UQ?oc=5",
-        "headline": "삼성생명, M&A '가속페달'…\"이익 5분의 1 해외서 번다\" : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "11/13 13:32",
-        "published_ts": 1794544320.0,
-        "tag": null,
-        "first_seen": 1794634232.8837433
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 08:30:58",
+  "updated_at": "2026-11-17 08:46:05",
   "yields": [
     {
       "label": "3년",
