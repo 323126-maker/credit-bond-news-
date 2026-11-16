@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBOd0xtME9jYnhjU3NWRU1aWWd1Nm5TVnpnQWR6TDIzWWJvb055NEtCd1BBdmJTbkxPa2xjamZEcXlRY2RpdElkUWxxWQ?oc=5",
+        "headline": "AI 투자 불붙자 미국 회사채 발행 내년 또 최대 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/16 10:34",
+        "published_ts": 1794792840.0,
+        "tag": null,
+        "first_seen": 1794794447.9897423
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9NYzM5NVY4LWcyQ0FHS0pXcFF4Mmdyd0dNTER2ckRDN3dPaEpoU0VSWTRabkxGMHhaT1JMaFJ1WjdlY2paSFU5anVXaDlRcTJXNUd5VzVBYkpNZWQ1bFlZOFJCTFhzZlRYZ0NGc1V3?oc=5",
         "headline": "은행 PB들 \"연말 자산관리, 수익률보다 유동성\"…예금 만기 분산·채권 분할 매수",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794556427.0,
         "tag": null,
         "first_seen": 1794663035.703123
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NT0lOWmQ4X1ppU3I1dkczQzdpVG1iMWQ2NWRmME5veEdBYkhhbXFydEZvMkQxLXNSWGV0cWFMV0JJZmpETGpma3JSVG1lMXZzYlAxTmRRWUtUa0FoM1ppVkJackR3a2lwc0VfVTVxQm8?oc=5",
-        "headline": "공정위 PD 담합 제재 후 첫 국고채 입찰…서울채권시장 \"걱정보다 덜 약했다\"",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/13 16:37",
-        "published_ts": 1794555452.0,
-        "tag": null,
-        "first_seen": 1794556839.2290447
       }
     ],
     "perpetual": [
@@ -1318,6 +1318,16 @@
         "first_seen": 1794731443.2071903
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE04cTZ5UktjcjJLbFVKWlBiaTZ3enlLUFF3dXdRLTFTNWtRYk8wbHZXVl9fQ21leDdqMDJlaHZaXzYycDl3aWtsa2VPUVB6Rmp3YjQ0REhCYkVzbHkzWmx0LWtHOA?oc=5",
+        "headline": "김민석, “더불어민주당 최민희 최고위원 ‘윤석열 탄핵에 (이재명) 대통령도 반대’” 보도에 감찰조사 지시",
+        "summary": "",
+        "source": "시사뉴스",
+        "published": "11/13 15:05",
+        "published_ts": 1794549942.0,
+        "tag": null,
+        "first_seen": 1794794447.9897423
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wOHBpcHhJVVJKcDZmdjhVdDNmWVhRbGQ1X2J4RE0xSkltbmVOSGJ0Q0NSNnZoWVpUVml3VHFZbjJFbkJTLWF2emY4eGZqbmI1NXpYR0hKTlNadEk?oc=5",
         "headline": "바람 잘 날 없는 민주당…최민희 잇단 설화에 김민석 감찰 지시",
         "summary": "",
@@ -1596,19 +1606,29 @@
         "published_ts": 1794322005.0,
         "tag": null,
         "first_seen": 1794324638.24526
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE5saUVCUnJBc0N2OVdkYzBsTDVpekoxVEZxa1MzRWRPM2NQRjI5dEgxUHIzdVByZkJTU2piYWtnNkdWVENk?oc=5",
-        "headline": "이재명의 예산안, 누구의 미래를 위해 돈을 쓰나",
-        "summary": "",
-        "source": "노동자 연대",
-        "published": "11/10 20:08",
-        "published_ts": 1794308926.0,
-        "tag": null,
-        "first_seen": 1794359731.5224805
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjlad1NGMFpoMkJHRXFLQmEtdTNCV2xSYXpvSnkxaUVKQlRoa1pOUHUyc3gycE5peFVhaUlYUm9oSHpfU0tWSF9VSWc5RGV6b1FBRlhnOTROcFhVZGprMjVlS0prNTh5TEw3WkFfVkpCZUdnY1N1V25Yd2ZJWERacjFhNTdweURkSmJKRDFTQnEyYzY1V3Vfb3hFN3NZdw?oc=5",
+        "headline": "日, 3분기 GDP 연율 -0.1%… 소비 위축·원유 수입 부담에 발목",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "11/16 10:49",
+        "published_ts": 1794793740.0,
+        "tag": "JGB",
+        "first_seen": 1794794447.9897423
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZUhHNk42ZEdzV00wc0daaGFhdXF3NDRHRXo1eExabVdWVlpqOG91dHcwckVsMlF6RUJDeXkzRW1hYVBQNU9MV1JGZFZ2X2tQM0k5ZG5neXIzcWdoYkU3dE0xZURqcUhDVW5FNW5Kb0pwa0ZadnNLV3JrVGlnNUZ5akVqYXlPUTF1di1WbHNSN0o1Q01YV1Y0YnF2VHprQ1dKWlVXSlNNRzFsZzF4VTdXR1A5ZEczVkVDNTY5akdVUFQ?oc=5",
+        "headline": "Gold slips toward $3,876 ahead of Warsh as Fed speakers line up behind tighter policy",
+        "summary": "",
+        "source": "investingLive",
+        "published": "11/16 10:42",
+        "published_ts": 1794793345.0,
+        "tag": "Fed",
+        "first_seen": 1794794447.9897423
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBGUHE0Rm9vaWlFcGp5QlExY3ktLTV1Wng4N3ZQRkdHdnJlazFmc1NXbUJzMWpOaVphUERxS0FfcXBVT2YzNDVxbDJTSG1DYW9vSnV4aHU2WjVqWFZDRzhHbWxHanFWenUzTTN5TVBOc2JRNVZxSXc?oc=5",
         "headline": "After US Treasury Yields Surge Past 5%, Wall Street Zeroes In on Warsh's Remarks Tonight and October Meeting Minutes",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794706240.0,
         "tag": "Fed",
         "first_seen": 1794707125.1331446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeGZWZEpFTUk2U2RYR3VQTFJGZFh6b2p0bEQ3azVKaGtFUnNWd2VBRHdRY2tEV3Fkd000Y3BjekNUeVYwNnptZ0RsdnlDYkVCT1MtYzVuTU5JOE05Zkx6akxaelNva2NOUW10ejJsel9HLUtfMXgzQ2Y3ZTk0dW5RclFtNlBmdVZvOVhUcm5KTG9rbGhyU2l1ZlRJXzJfbmIx?oc=5",
-        "headline": "오늘(11월 15일) 미국 달러 환율: 미국 달러는 3주 연속 상승세를 기록했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/15 10:14",
-        "published_ts": 1794705296.0,
-        "tag": "JGB",
-        "first_seen": 1794741325.5942023
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0UxcE1HNUxRVVMwYWd0NS1OMkJvNFZXZHd5VFdrZXVKbVEyTURITGFtX1BMbnZXTHFvMmlKSHJqd1NCRTZMRkwtM0RhWXU0OEU1NTVsRmNyREJDeDN6UmFUc3JkMTA2azVHQjNocFY3Z0xwMVl1R2R6UzNZcUZzVkYyUV9qbU1EbmlWZzRVbU82dw?oc=5",
-        "headline": "Ethereum Falls 10.37% In Selloff By Investing.com",
-        "summary": "",
-        "source": "Investing.com India",
-        "published": "11/15 10:08",
-        "published_ts": 1794704930.0,
-        "tag": "Global",
-        "first_seen": 1794717927.1627991
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 10:45:49",
+  "updated_at": "2026-11-16 11:01:12",
   "yields": [
     {
       "label": "3년",
