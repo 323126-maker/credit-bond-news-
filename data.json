@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90U1NDbDNrWEVsRTdTQjZlS21pY0Q1eFNVZG53ZW9lenJQdzlHcFBBdVdVcVl5VGRpMGtjVUwwdnl1alA5MU9ReFdvSjFmQXduTXJIRHEzY3BjNnPSAWBBVV95cUxNcnFKbWV0andPWmdZQXpVc096X0VqNkN0Q0hlVDRKSUkzYmMwZUx6RDdodUZKOVJIclVndGVjSzhzUUpGQmRVSWVZSVlfZGZBRFVWaUVzbjJhZHZDcmRQSmY?oc=5",
+        "headline": "공정위 과징금에도 국고채 10년물 입찰 호조…\"12월 공급축소 대비\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/16 14:06",
+        "published_ts": 1794805610.0,
+        "tag": null,
+        "first_seen": 1794807936.8728771
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YSS1oMF9Uc2N2ckkzbXRXYmlTNjhZSXV4eDN4WGJxYkZLVUpZNDZTYm84dzlKTUVJNUdPZ1JoRTFCTFFOZXdiZWVtVlB1Y1o1dmR3OQ?oc=5",
         "headline": "2027 크레딧전망, 긴축 종료 기대에 강세 모색",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794360885.0,
         "tag": null,
         "first_seen": 1794576635.9270563
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wNk5hYk1hUnpQamd2TENxVW90Y1NBSTVhTURta1piUmxnM3RTYVFFQ1JLQklabmhrWlVWSTlYQUFsZFFmNUMwMGVlM2tTUkVmNEZnYl8zWGhha2hXdUh0WXQ0WDBDcTZJb014VkVR0gFwQVVfeXFMTU85aFVSWDNpeHJTOGpYQTBTTi13NWUyZDhQdkhwanVvZUhLMUNFY21sOTZWY3RlakVYSlBQY2g0Y3RYMU1OVzBmRG5oMHoxbEdmSlB4azlJbGhRN0dBNl9Lc2dQZFdDenQ2ODJFMWtuUw?oc=5",
-        "headline": "안전자산 쏠림·외국인 8.5조 순매수…국채 금리 끌어내렸다",
-        "summary": "",
-        "source": "내외뉴스통신",
-        "published": "11/11 09:29",
-        "published_ts": 1794356974.0,
-        "tag": null,
-        "first_seen": 1794610842.855396
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 14:30:56",
+  "updated_at": "2026-11-16 14:45:56",
   "yields": [
     {
       "label": "3년",
