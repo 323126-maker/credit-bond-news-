@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE43UkJTOFVWcW5iWHlFaHRPdUdVN29BU3lTaEVhaVp5NnoxVXVGRnpCTHRqM05rRFdDMjJrclJwb0NwbjlXRFZXYkh6Vkw1OVJvVWd1dHhYcEJfem5DcFNsVnVldl9RWE9pbGpMeklDVXdSUFU?oc=5",
+        "headline": "서저리 파트너스, 12억 2500만 달러 선순위채 보유자 동의 요청 개시…합병 대비 채권 계약 변경 추진",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "11/16 21:56",
+        "published_ts": 1794833762.0,
+        "tag": null,
+        "first_seen": 1794835837.4842951
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CcGxkbmRBSFJiemlVNEZmU01NemE1WUF1M1FueXBaTnptX1hKWmRnOWkxeW9jcG1US0NIa0FyeTZoQlJLZFNsbFgxUTZWcW52Q3g1cloyZkxEU2YzRC05WlBIU2lydTd6ZUxsZ1BCenhXQQ?oc=5",
         "headline": "미 국채가 강세…유가 하락 속 기술주 약세發 안전자산 선호",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794706231.0,
         "tag": null,
         "first_seen": 1794734350.958627
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9kcEtZeWN1RTJoOHF1d0xRN0FGUzMtaG1SMWlmOWEtYk9FMGQtbVJFMWF2bVhjdXk0RzhhUm11Wm1ncnhKOFFpbGRlcjY5LVFCeW1PZlRwTERNNklFWjIxVGc0aU9RMU1oeW1B?oc=5",
-        "headline": "무디스 韓 재정 호평 이면의 반도체 편중 리스크",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/15 10:16",
-        "published_ts": 1794705360.0,
-        "tag": null,
-        "first_seen": 1794707125.1331446
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTzJ1aWVHd3dxOXlURjdVNG1vVml4NnMyUDVRaGpkMjdTclN2a3oxNG5MN0xFQTFEQjJ3R0dCRTU4YkF6cGxZRHdCUjl6Ml9zekNpVWhiUEMxUU5UX0ZZ0gFfQVVfeXFMUDJPMnVpZUd3d3E5eVRGN1U0bW9WaXg2czJQNVFoamQyN1NyU3ZrejE0bkw3TEVBMURCMndHR0JFNThiQXpwbFlEd0JSOXoyX3N6Q2lVaGJQQzFRTlRfRlk?oc=5",
+        "headline": "미 국채 금리·유가 반등…불확실성 확대",
+        "summary": "",
+        "source": "경향신문",
+        "published": "11/16 20:38",
+        "published_ts": 1794829080.0,
+        "tag": null,
+        "first_seen": 1794835837.4842951
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeGNhS0lVZUI4Q25KSWNpdEVXSDdndXQ5ald3RERtN0pYUWUtczRjNEpCeDQtNDZHRWZJcXExQ29PbUJMWElRT2hCekJ1MDlXY2h6S25CcGswN0VxbUVZbTk5UXVYbGRnUkNJSVpyakpIdmZUUHhldTdLUnRUTmFLbg?oc=5",
         "headline": "반도체 호황 낙수효과 없었다…다른 업종엔 금리부담만 가중",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794443139.0,
         "tag": null,
         "first_seen": 1794555035.8821886
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wRGhOVHBVU1FoRWdvbngzdkJtU0J1N3BpdUJwaUl1SmRvcFNCdno0bzNIb2pVd2dfbS14emdBam41blJHa2VpaFdhazRhXzRrcThubGtJTnNjYmZuNW41Yi1vd1l0M1d6?oc=5",
-        "headline": "美 연준 '빅스텝' 경고에 물가 지표까지 부합…국채금리 급등, 한국은행 26일 결정 주목",
-        "summary": "",
-        "source": "시사프리즘",
-        "published": "11/12 08:27",
-        "published_ts": 1794439620.0,
-        "tag": null,
-        "first_seen": 1794483928.209947
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 22:16:00",
+  "updated_at": "2026-11-16 22:31:03",
   "yields": [
     {
       "label": "3년",
@@ -2440,33 +2440,6 @@
         3.729,
         3.759,
         3.743
-      ]
-    },
-    {
-      "label": "5년",
-      "value": 3.83,
-      "chg_bp": -1.1,
-      "series": [
-        3.99,
-        3.965,
-        3.983,
-        3.948,
-        3.932,
-        3.899,
-        3.949,
-        3.923,
-        3.865,
-        3.892,
-        3.87,
-        3.837,
-        3.769,
-        3.717,
-        3.731,
-        3.718,
-        3.81,
-        3.803,
-        3.841,
-        3.83
       ]
     },
     {
