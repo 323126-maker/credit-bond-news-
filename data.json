@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAxX2l4V3BYWlNFWExpTU5ZUk91eU5fUnZzcEpaRTdrT0EyUjlqYThBTTQtenRSdHIyaXFJNFZrMjdJSG40dUxxdnJCN2h5am50X2FzQXRZcFI2NW5LOVFpUC1KdnJwUnFudUZubHF3TW1xaTA?oc=5",
+        "headline": "뱅크 오브 NT 버터필드 앤드 선, 2036년 만기 후순위채 발행 추진…CIBC 카리브해 인수 자금 조달 목적",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "11/16 22:37",
+        "published_ts": 1794836238.0,
+        "tag": null,
+        "first_seen": 1794836732.416409
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKc1ZDX1lkVzZEZnpEOC12NmJvbVNJYThVRnlLWVNQZWZJaGk5NS1FdTlFYV80WGI1TnpNNGo0c2E5OWdiZ2ZyOWR6LU9lSHdYM19QMlE1LXnSAVhBVV95cUxQSnNWQ19ZZFc2RGZ6RDgtdjZib21TSWE4VUZ5S1lTUGVmSWhpOTUtRXU5RWFfNFhiNU56TTRqNHNhOTlnYmdmcjlkei1PZUh3WDNfUDJRNS15?oc=5",
         "headline": "JTBC, 올림픽 중계권 계약 결국 해지…회생절차 속 재무 부담 덜어",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794528354.0,
         "tag": null,
         "first_seen": 1794743134.128616
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4xOUE1cW1NakRZZFVKWkt5UUxYZkh4cGF3cEpDOXppbWVSNWZvSFUtMnFXeEMyVTVmUkxXeGdxeHQ5dUNmR3A2TWxGd1dKVFF1RHFoWnE2Vms2QjdyejREc19ybW1jTWs?oc=5",
-        "headline": "삼성화재, 2.3조 英보험사 인수에 K-ICS 최대 25%p 하락…'사모대출·풋옵션' 변수",
-        "summary": "",
-        "source": "녹색경제신문",
-        "published": "11/13 08:57",
-        "published_ts": 1794527827.0,
-        "tag": null,
-        "first_seen": 1794608137.4785328
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 22:31:03",
+  "updated_at": "2026-11-16 22:45:51",
   "yields": [
     {
       "label": "3년",
@@ -2440,6 +2440,33 @@
         3.729,
         3.759,
         3.743
+      ]
+    },
+    {
+      "label": "5년",
+      "value": 3.83,
+      "chg_bp": -1.1,
+      "series": [
+        3.99,
+        3.965,
+        3.983,
+        3.948,
+        3.932,
+        3.899,
+        3.949,
+        3.923,
+        3.865,
+        3.892,
+        3.87,
+        3.837,
+        3.769,
+        3.717,
+        3.731,
+        3.718,
+        3.81,
+        3.803,
+        3.841,
+        3.83
       ]
     },
     {
