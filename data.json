@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTXR6QW9aZlpZYjktQUxSZ3BtZ2dTM1o0emItSDFxY0N0X01MQ1JxanNpUTV2MFJkLWw3MXd3NjdLQWJ0Yi0xOVp3ZFgxa0FLQ0hveFhIYUlkbGVsVjZQTWEtR2p1bEZqeTJUUVJGaDljNXNI?oc=5",
+        "headline": "담합 과징금 후 첫 10년물 입찰 ‘양호’…연말에도 채권 매수세 견조",
+        "summary": "",
+        "source": "www.edaily.co.kr",
+        "published": "11/16 15:53",
+        "published_ts": 1794812033.0,
+        "tag": null,
+        "first_seen": 1794813329.7437332
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40R3hTTmFUSi01VmpIZmprOFRkSUtJWXN6X3dNRFQ3WmJqd2pfUjFLMTlfbjFvUFhUU19EbkRJdFFsT1ZEclRZRVhyLXIzRG1XZ1hKUW9PZW45cVlxRVRMcmhSVHRlaEJpQWtnWmJCM1pOYlFtTVU4?oc=5",
         "headline": "롯데, 돈 되는 계열사 팔아 빚 막는다…바이오에는 다시 수천억 투자",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1794808615.0,
         "tag": null,
         "first_seen": 1794810634.8038394
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBIY3Q1cW5uQUNUenF6MkVYUzk4ZEVfTk9zUjBvYlNHbVhZUTZtRFlIMWRUYjI2LTJJMFN3Q1MtRnFJWlpWTVJWdHhhd2tWem8xV0xv0gFTQVVfeXFMUEhjdDVxbm5BQ1R6cXoyRVhTOThkRV9OT3NSMG9iU0dtWFlRNm1EWUgxZFRiMjYtMkkwU3dDUy1GcUlaWlZNUlZ0eGF3a1Z6bzFXTG8?oc=5",
+        "headline": "IBM, 10년 만에 9000억원 규모 엔화채 발행…달러채 보다 ‘후한 금리’[마켓무버]",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/16 14:33",
+        "published_ts": 1794807222.0,
+        "tag": null,
+        "first_seen": 1794813329.7437332
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YSS1oMF9Uc2N2ckkzbXRXYmlTNjhZSXV4eDN4WGJxYkZLVUpZNDZTYm84dzlKTUVJNUdPZ1JoRTFCTFFOZXdiZWVtVlB1Y1o1dmR3OQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1794604787.0,
         "tag": null,
         "first_seen": 1794607243.5962503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA3QmNWVXZGYnBDWERrZ0lBU09WRlhrWS0yaElqTlVRZGNJYzBaZ3UxNXo0YTRtelllS19xQlB5RjhDb3l0Q2JBVVN0RTdCWEtHbkh4LS1Wa0FqZzZORVN4TGpqSXFDRF9uYm1uc1AxbV8?oc=5",
-        "headline": "S&P 글로벌, RTX 신용등급 A-로 상향…강한 수요·부채 감축 반영",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/14 02:25",
-        "published_ts": 1794590700.0,
-        "tag": null,
-        "first_seen": 1794591037.6656203
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVnh1R3RlV1k0b2ZNYVdRNEFVNjhTcXM0YTIzY1YtSVdRZHVnblM1QkltbkE4QVNtR1R4TXY0VkdSUzN0Nm12cE43XzFsUEdLOXFrbWNmSnQtWmtVOXRTLVVrY19qZ2hic0RfTFFDVDFjRkY2UnhFakI3RzFGZVBxUmNpclVSQmN4WDV2TA?oc=5",
-        "headline": "A $15 Billion Fund Just Bought These 3 Stocks",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "11/13 23:28",
-        "published_ts": 1794580136.0,
-        "tag": null,
-        "first_seen": 1794592854.3146043
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,36 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3kwSEI2S2ROSFR0TUJIYzJhMjBwaTV3TGhDV3FxOVMydTVFODhVYVdtV3cyaVh2N2h3Q3FRSy1nRzBva05MS1lCTU5jOU5UN2ItcEFvOGM0REw4LUYtYXRTSF9ZRkI2X0xQZWo5dWVMYTlxWXNDMFVtWkxPNnIxSTRFNWoxcW9iVTNaVE5KU09JaU9nYjltdHM1bXlSQTk5aHdkZE53ZnpxR0JCMldWa3E4TDJWRzhCNGhMbHd5OWk0UG5OZGdER1hzU242MnYtWV9yd2FZTGF4aW9GMlIwXzFFVFIwSDN0bDBVRjVSSUxEUQ?oc=5",
+        "headline": "FOMC Meeting December 9th, Bond Market Annual Returns, The Fallout From Nvidia And The Midterm Elections",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/16 16:05",
+        "published_ts": 1794812700.0,
+        "tag": "Global",
+        "first_seen": 1794813329.7437332
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNm9wa01XQW1lUktTdS1MaUp0am5FV2dwcUI3NW9lTHRFV3RtQ2NYQXdyYXBrbDBnRDR4YnFsYVE0RUdKSXdtTkw0TE1oUlAxN2N3cHhBMVdFNE5nclY5UDRRbTVZaE9sQnowaFZCLVNXUV80ZzVnbXNudktfbWl4NkJEdUZyM0dUVzRNSDVycjFWZzhoc2I3NTJCUmF4SDE2aHVwNmV5TFhvaXl6?oc=5",
+        "headline": "Fundswire article",
+        "summary": "",
+        "source": "Trustnet",
+        "published": "11/16 16:02",
+        "published_ts": 1794812521.0,
+        "tag": "Global",
+        "first_seen": 1794813329.7437332
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFbjJHWkJWek5raEs3VmFvdjNlQUZrNUxkWG9XR2NyeFVsd0NDTTFRNWpnWnJuX1BrclpjR1ZDOC0xQ1kxOTdEY2tzNUdGYWU3M0J3eURoSzJ6MXRpYkVwY2NHbDVWeDZLV2Jndnh3a00xNG9XMGc?oc=5",
+        "headline": "South Korean Card Issuers Shut Out Sub-500 Credit Borrowers for Two Straight Months as Revolving Rates Near 20% Cap",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/16 15:55",
+        "published_ts": 1794812100.0,
+        "tag": "Global",
+        "first_seen": 1794813329.7437332
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91Q1BkTlgxOWFQVlRwRFkxdEYyVTJjQmJhcmZWUXZDdXZ5SUhicmxEVlRuLVNXT1lsU1djSUZIS2psRloyMkk1NFROaEVqY1I5NHVaWjVFd0syVmFFRTNHUE1lbTBDNVFjQVJ1WDk3bnE?oc=5",
         "headline": "[도쿄증시-마감] AI·반도체주 매도세에 닛케이 6만선 하회",
         "summary": "",
@@ -1618,6 +1648,16 @@
         "published_ts": 1794811466.0,
         "tag": "JGB",
         "first_seen": 1794812455.3798914
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNWWxYZmFBSkNla2NJYmxBYWZKcDBjQWxHaHFwbEZJbkpPQy1CRUdvS1dKN0EyR0FROTA3ZEsxLVFjUFF1MC02Z2E3YTFUSEFwSWMtY3o0TGlTRVFHNUlmbnlRSTNEc1NzTkJmMkJiV2RkWGotNUsyMUdnaGtkQTY1dnp2UHBGMUhCUkRSN2sxTFlta29sZDdrZXIwd1B2dnlhZnc4M3M0WU5IUGdtNVpFNGF1ekdhWnBuOFhndkE1UUE0akVSNXQ1amxlOFU3aTE1ZXc4T3E2QlJtajBuZGhDX0FkUHQzQ0JNYVBfbjNKQnU?oc=5",
+        "headline": "Why Trust, Not Tariffs, Will Define ASEAN's Competitiveness: Tariffs redirect trade; trust decides where capital takes root",
+        "summary": "",
+        "source": "International Banker",
+        "published": "11/16 15:00",
+        "published_ts": 1794808801.0,
+        "tag": "Global",
+        "first_seen": 1794813329.7437332
       },
       {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVjd3dERWenBhZUpMVkU0bE5hSzhoZGhocWJvRHE1NWxpVFhjbXdpc3k0VFF2T3RVemRxUm0yTmtFTFZzX0FvNHIxMll4V190bVBqWTd1MWgyLS1ySVBNOV9NX2dNRlFjZ2Y5OVVCb1BlT2phUmxJWFhFQmE0dDR0MVlGMVQwdlNlWjJtWWxvYzU0UlJYbzZ4UmFHUmswbFk?oc=5",
@@ -1968,46 +2008,6 @@
         "published_ts": 1794751380.0,
         "tag": "Fed",
         "first_seen": 1794753034.0070777
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5Y0R0Mk42cjluXzlreC02WUlXeWg2SUl5ZHlIWTRFd09zZWFxUFBOV3dNWC1UeWlSMG0zalNaR3hzODA1T1E?oc=5",
-        "headline": "10화 일본은 왜 국채를 블록체인에 올리려 하는가 - 2부",
-        "summary": "",
-        "source": "브런치",
-        "published": "11/15 22:22",
-        "published_ts": 1794748936.0,
-        "tag": "JGB",
-        "first_seen": 1794793528.5509605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE50Zk5wT0hKdjdTdGhWaTlrOEdaeWhGenNxNHB4Zzc0TDZaSnIzMDdRUjhJbXFHZXR3YWktVnJoZmN3SnVoWXlEbjdyOHNMeTB6VDAxaWlXejJ0TDk2aWNtOEJmc2dIcDRTaWZvNDlQSFNVeVZISWVNV1pPMHg?oc=5",
-        "headline": "The Fed could rescue bond markets and still make life harder for Bitcoin",
-        "summary": "",
-        "source": "CryptoSlate",
-        "published": "11/15 21:50",
-        "published_ts": 1794747056.0,
-        "tag": "Fed",
-        "first_seen": 1794792634.5325556
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ3daeDNPVnBBam5nRFZiZEltR3lUUU1iUGFLakhvVmJoLVBEbWhiUHRRcnlLcnFjMGtqWEdoOWVEd21QNlpfdzdGc0dhczNQcENxbnNpeHNyMTZtR1FkaEx6aG1RYVNuWGhKSHpFa0Z0R2RYbVNxWlhjbzNmN1RNNDE4d2hCS1h2YWtuWFhrRTJiSzhlNWUtMXZLVGg?oc=5",
-        "headline": "How Will the Market React to a Potential Fed Rate Hike in December? Here's What History Suggests.",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/15 21:22",
-        "published_ts": 1794745320.0,
-        "tag": "Fed",
-        "first_seen": 1794781832.2758722
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZjgtbmtXaFNaWGtQVEZkRHY0NGRoTTJSMzJnNThZZi0xelNhM0wwTDJBWS1QQUNZelhZQ3VJWVJvdlpxYlNJZTNIUkFZMjgyTGZFQ1BESTJMeEhPUUY1SktmOGJzUWJRaWNOV2l0UVBHV1l5S2RGSmdqTmFVa2R5NWFreTRJeU8tSTQyRUI3Z1NFZ3NDaVAyTTlDdk9ENEVTOVZuTVBSNGNWUll6c24w?oc=5",
-        "headline": "Billionaire Stanley Druckenmiller Has Become a High-Profile Backer of Hyperliquid. Should You Follow His Lead and Buy HYPE?",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/15 21:03",
-        "published_ts": 1794744180.0,
-        "tag": "Strategist",
-        "first_seen": 1794746726.6173594
       }
     ],
     "watchlist": [
@@ -2050,6 +2050,16 @@
         "published_ts": 1794628800.0,
         "tag": "우리지주",
         "first_seen": 1794629725.7100081
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1XQTZuNlZQeVROTG9EMkJFekZ5blRKemJDaGpVT1p1YVhhcWVxdkNMdmt2VWZNcDhXTVZRY3dOQXc1bk9jSDJJYTNlUm9PQ1hPZWE2cnlNZUZydk9UM3VOYndOZkJyOTNraTBFZW1QZmg?oc=5",
+        "headline": "\"실적·자본 두 토끼 잡았다\"... 정진완 우리은행장, 1년 연임 성공",
+        "summary": "",
+        "source": "시장경제신문",
+        "published": "11/13 18:41",
+        "published_ts": 1794562879.0,
+        "tag": "우리지주",
+        "first_seen": 1794813329.7437332
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwZlNQMGUwWDFFbC05LXM0Y0RIWURfWFR3YWlXR0RsMkUyYkJxVWJBaGFvNHNzSGZ3NzdpLUt4TGNERzAyOFpjMTRiS0lVZW9Vd2ZRakJ2bEZoU1N6bGZLcHlhUQ?oc=5",
@@ -2400,20 +2410,10 @@
         "published_ts": 1794468387.0,
         "tag": "삼성카드",
         "first_seen": 1794472234.4832919
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tZzAwdVRZSEM1cUlFUTgtdTJqQmdlNUY1Y3lPRDhEaXM2MEVjY0pGMTZFMWoxd0JPWGJRcEt3bVRHVTFyNlJxajRPWFZqTVJocUdBMjRER3d5dnRtanRpdnQ2TdIBbEFVX3lxTFAxVmRlREpaRGNUa2Qwa1hMeUNPTU9tZWlib0xyTEh3MTNnUE9hWDhTZjRvMV83akxqOWFQZmdNQy0wMmRuRnI5aUJnY0xiN01rV0FkT1hnNFUzU0pQVVA5a3o4WTRvYl92Q1QwUg?oc=5",
-        "headline": "홈플러스 전단채 피해자들 “하나증권, 없는 신용보강 있다고 안내”",
-        "summary": "",
-        "source": "소셜밸류",
-        "published": "11/12 14:56",
-        "published_ts": 1794462973.0,
-        "tag": "현대카드",
-        "first_seen": 1794483037.5221496
       }
     ]
   },
-  "updated_at": "2026-11-16 16:01:15",
+  "updated_at": "2026-11-16 16:15:56",
   "yields": [
     {
       "label": "3년",
