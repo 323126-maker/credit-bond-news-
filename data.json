@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWDh1NWdmUzBGYjIxWVJNQU1EUXF4X0tFMzRLSXVJamoyR1JWc3c3MXhZc05uWHNCUTNWXzFCZlBqMXlPeXRvak8yQ0Q0R3hndFFGZklMT2hxTWV5bnFlcVNyTDFwM0JyeVhhZEY1TjhuMWpWQzIwSzI5eFlMWTRJM0J2MFJfNGFCaDRiSjRPcUlrbDF0OWhlRnZhS3VBOFVJY1ZLX3Rmb21GSGtRNk9oNEFOZ2lqbDVTOFZuUkNuRkRpTWR1WUNXaW42dThkNTdCUzBKUi1UdGhra09RcEE4TWp4dnU?oc=5",
+        "headline": "US Equity Investors to Monitor Anthropic's IPO, Nvidia's Quarterly Results, Fed Chair Kevin Warsh's Policy Lean This Week",
+        "summary": "",
+        "source": "marketscreener.com",
+        "published": "11/16 20:39",
+        "published_ts": 1794829186.0,
+        "tag": "Fed",
+        "first_seen": 1794829531.408608
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOakFfaGtLSWl2UVZXRkt1S0pnaDZmWC1lQnFhejhhMlVwUThfOG80RkQyUWtzMTlHRW16bTZWQTNlLUZTaEZuelBDQ2Jwa1p3bzBnNV9QTzFtMGxjWHdzT3poOXdBSnBwUGJHZlpqcDVpRHJKUTd1NmNCWkZqcWxZOS1OYkNTeGdCd0xyZUVjNFBjSGM?oc=5",
         "headline": "Analysis-AI selloff has investors scrambling to measure their true exposure",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794803771.0,
         "tag": "JGB",
         "first_seen": 1794817841.6329026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTk54ZG1FU0l2Z0huRTVVakpEbDNlVDAzdHRFdkUtd2IwaWVELUNyS1JzYTNfdWlLSGd5WVRrc2phX1gyYUZObEh0T0xkcUtmWVcxaWctN0NXYXBlX2NjN3Z5VVRLbnVmbGRkdGdMaXc4TWxyZ3EzdzNJcGJSZG1LMlh3X0xqektNMzFuUTY2ZXBEbFVZMkE?oc=5",
-        "headline": "Mohamed El-Erian Warns Higher Rates ‘Will Increasingly Pressure Rate-Sensitive Sectors Like Housing’ as Heather Long Says Market Is in ‘Dramatic Slump’",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/16 13:30",
-        "published_ts": 1794803400.0,
-        "tag": "Strategist",
-        "first_seen": 1794808847.2253404
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-16 20:31:06",
+  "updated_at": "2026-11-16 20:45:54",
   "yields": [
     {
       "label": "3년",
