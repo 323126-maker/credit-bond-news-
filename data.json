@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxPN3VHc1pFRVF4WHdBRTlFQVBuaVZSQWM2T2otTmxNekxXbWVCNmRyU3RvYk1Fb0pMSlE5VXZVcTI2TmJmT0tHd3Z1Y01qSWFZd0RWYk40TjhXNlVyWDNSNFZyZjhneGgyemZMNXMzV0pRYVV1aGlReGZUMERuVWtyNVR0eDhrUEhGdHVabWV6WEltV3ZNSUdFR253dXZmeXgtUXA4SlNxTGx2WFVIa1dzZjFmTHRDLXFGWDFTUTFYRkoxZGpKeWRHSTJ6QlQ4RkFCUmo4czVWT1ZEbGdPcnJNV2djTmo1aFRDbzhRM1Z2NU5NZGw2RXZWZkZiNjV2TUlKaGxZWjdGM0V0V3V1c0xmVnAxSUFEeG9Tb3hDeXBQQ19oU21lakxwejh6SFJkLVgybnlBc01MeDNVRnZLaTlfTlBPUExlOWdGZWpqaVFJeWRScmViNUFz?oc=5",
+        "headline": "\"The Biggest Competition For Capital I Have Seen in 50 years in Finance,\" Larry Fink Sounds The Alarm As Public Worldwide Debt Hits $110 Trillion, While $13 Trillion Of Corporate Debt Must Be Refinanced In The Next 5 Years",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/17 00:57",
+        "published_ts": 1794844620.0,
+        "tag": "Global",
+        "first_seen": 1794844856.81586
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8td1FYaVVhbUhvcmNIOHgzYlNtUUxjZ21IaGdlQzNUS3ZUbkg2amNQNlQ0blYxNVFkLXlVU0NyVmJ6OGx2TDJlU2NtUTZRZUFrRndWV1Z4Xy0?oc=5",
         "headline": "Commentary | Portfolio regime change? - Economy - Business",
         "summary": "",
@@ -1658,6 +1668,16 @@
         "published_ts": 1794838884.0,
         "tag": "Fed",
         "first_seen": 1794840339.6089284
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORWJEb09jQjVVNFd1OTMwLXhuQWdKa3dKQzRpNWJvTUF3MVd5ZXJvZnVfb1F2bDlLYXVZVk1ocmlOSlVoN01NS3ZPSEo2bGNpTngzdl9ubzhETHJSQ3NBV1ZTcVZ1bng3YkFkS2x5TzhNMm82T3BGcnJkTmswTk4zeVhGNVE5WkQ5SFRqUFgtcmRfc1UtWXloV3ZlNlJZaUVtN1phQXdnQUdlcFh6MjFjbQ?oc=5",
+        "headline": "Colombia’s Bond Borrowing Spree Defies Emerging-Market Slump",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "11/16 23:15",
+        "published_ts": 1794838555.0,
+        "tag": "Global",
+        "first_seen": 1794844856.81586
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOa2dVN3ZVMWViWHJDUDdLdXgtMkduMUZKMUFOdlBqN0lZdk1DMGl2MVlnLVFpRmRReFRoc214SWpaVTlxa3RGcjNEOEFvV3d5OGN1X2xSajhuaGd6VUtBUGlXUXp3N3Fqa2hNOXBmcnQ3cU84WURIck9Rd0I1UllxYVlJaGRZbG9WYlo0WFY4Yk5CRHQ2TU9Sanppbmg0Z2toN0tId2ZQb2ZGOTFTREhwcHNUcmx1S0E?oc=5",
@@ -1987,26 +2007,6 @@
         "published": "11/16 17:24",
         "published_ts": 1794817480.0,
         "tag": "JGB",
-        "first_seen": 1794818727.895799
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPX0ZXcnd2akVKYklCWi04NU9nTVYxWlNXRmxxUXlnVXpjZEFZSTM3azFnaTlMRk5USFpQWDN4WUNuekRrYWk4MGFaLUQtTl84akp1T0oxZTJjbGR0Tlh0N0FhdElGdWhkd1VtT1FEcThsYW96N2F6dlhZSENEeVlCcXhFa3c4RDdqSjZqUnFqRkNNSElZRUlQMFliMHU5WXpybFppYVo3bi1adw?oc=5",
-        "headline": "Partner Insight: Short duration shines as bond markets sell off",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "11/16 17:21",
-        "published_ts": 1794817275.0,
-        "tag": "Global",
-        "first_seen": 1794817841.6329026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOaFZIQmhjLXdrcDBDdVkwVzRfMHJLSFhCc3czUjI1andRTjlxWXp6aTNBaTREOGc3dFNwUFF4WFdmaDlsV0U1MHJqRlRmYzV3aHNDUW1RVEZLeWZwZVI0eW1qUzE5SWlFZmNKSy04RVluLVhnMjBtSjdvZmItZGJ5c0RRakhNbjhTZkpPY3JyNFozUVV5ODAwYjUwZUZmd292SVR3SFRxRkdBVHFfRHNEbGdLYTljNlQ1QVEyVG83b29Mck1pMUQxWTdaRWNtVlc4WGt2X3JWcDJmenk2VzNUQk5fTFdhcTFsdVZRcDg3dHBlb01NNmliZy1DTdIBgAJBVV95cUxPeTJWM25CelhDSjlieTEydGpRVVE4TUdoWVlvR3pHWG40bGNIOXdmdEpEdnBkRUdSdFowOW0wSHhNVzJPR2Z4Ny0wVVF6RmpwUWZfb1FsVmQyWloxTmdZNi1MTEdXeWtJcnAtSkJzZkNISE5pX2xtdmhnVkJLeUg5N3FJZ2drQ0ZYMmx1ZkdzN0o4VXdfTlJVOU0tTmdwYlZXdW9PMU9VZFhKOVpCQ3RUbnJzalJPb25HT243Tk1HRTg5enJ6NEd0cGtOdWxseEQ5M3pUY2Y2UzN0SXEwTFlrMElUMlFJOFVZano2ZUZwc0F6eGI4c2sxVFZUU3d5Qmtr?oc=5",
-        "headline": "Federal Reserve's Susan Collins sees ‘gradual’ hikes in interest rate to curb inflation, manage economy",
-        "summary": "",
-        "source": "Livemint",
-        "published": "11/16 17:19",
-        "published_ts": 1794817188.0,
-        "tag": "Fed",
         "first_seen": 1794818727.895799
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 00:46:03",
+  "updated_at": "2026-11-17 01:01:17",
   "yields": [
     {
       "label": "3년",
