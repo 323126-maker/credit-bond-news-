@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EbjhJWU8wRVRSbjA2dlo3VkpLN2Q3ZkRlY0NKRlFQT01vZGpYcEgzYUVZcEtzWkhWbmltNWdqVUU1R0ZXU1NFVWduTjNiRTlJQ290Z1JHWGk1UDYwTGdHQ3hJVDhEYlE?oc=5",
+        "headline": "DB증권 3분기 영업이익 급감…영업비용이 더 늘었다",
+        "summary": "",
+        "source": "자본시장뉴스",
+        "published": "11/17 12:30",
+        "published_ts": 1794886200.0,
+        "tag": null,
+        "first_seen": 1794887127.106993
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9oc0x6SlJTQ2QtSXVNcGFyRnpiTE1Yal9OVDZxejR4T1dubVZQWXc3RzRBdVliU0dsbVN0YmhuME9hMk5wS21NQmQ0OVNfYkRCTE54ZndxT2pETm85Q1A3SFloa2lTOWlxMmdLZNIBbEFVX3lxTE9oc0x6SlJTQ2QtSXVNcGFyRnpiTE1Yal9OVDZxejR4T1dubVZQWXc3RzRBdVliU0dsbVN0YmhuME9hMk5wS21NQmQ0OVNfYkRCTE54ZndxT2pETm85Q1A3SFloa2lTOWlxMmdLZA?oc=5",
         "headline": "트리니티항공, 외형 성장에도 적자 늪…유류비 '발목'",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794556458.0,
         "tag": null,
         "first_seen": 1794580235.1067998
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1HVE02VWE0UXgxVE1Ib1JUa2ZQNkhnS3hIVDAxM1BHcV84cGNkLUhSS3p1aW52Vkxad09oMUZMY1owZUtXajYtQUVkZmR0RVBWWDNjck9wTdIBU0FVX3lxTE5iWTJDaTFjLXE0MElGclNKVl9pdjdud3F2ZUkxOGlaWVR3X1MzR051T0NLaW9mMzZZdkw0VF9JeUZnMTk2a1phdHgxNUhBTEVCcTgw?oc=5",
-        "headline": "실적 반등 이끈 조완석 금호건설 대표…다음 과제는 재무 부담 축소",
-        "summary": "",
-        "source": "KPI뉴스",
-        "published": "11/13 16:49",
-        "published_ts": 1794556177.0,
-        "tag": null,
-        "first_seen": 1794691834.731325
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 12:31:15",
+  "updated_at": "2026-11-17 12:45:52",
   "yields": [
     {
       "label": "3년",
