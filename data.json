@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa29BVU9nZnZzQlctVXprcU5DV2dPYklndHM1aTFMWktWRlVpQ080bmtJUW1pSjVSamhRSENSWVM0SHZhWWxwQV9FZThuaU9vRVdFOUttNDRtRUxJOFRkOWJ2d0xxbFczQi15cVd6S3J0U2xLODRXUGRuTTZ4V2I4ckJqRUlkTzk1ZENqVk42V1dJazFSdFI1Ymx0VlM?oc=5",
+        "headline": "Productivity and Jobs Task Force Conference",
+        "summary": "",
+        "source": "Federal Reserve Bank of San Francisco",
+        "published": "11/17 17:44",
+        "published_ts": 1794905089.0,
+        "tag": "Fed",
+        "first_seen": 1794905135.5617485
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE41a3R6LTV1Q256enNmWml1X2twZnNnb2Vib1YtTUZFXzJMOXpoemRqRTdndDB2OFFzV1pWUVRfTTkyNGNnTFhBSEtBSjRWUlFHcm1xNTlGRWdXNHpka1lwOWpGRmYyVjBfdi1HVlNTX3lxUQ?oc=5",
         "headline": "[亞증시-종합] 엔비디아 실적 경계감 등에 일제히 하락",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794865087.0,
         "tag": "Fed",
         "first_seen": 1794869127.06323
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9sQlRqYkVVZmRaNWZ4WnRKcnRONnA0a2FaM2RHd0RPVk5RT29rajJaX2VmUURRWlNNSUFGeFRWYVg5MWhGTndqeEpjcWNnTnNydVHSAVNBVV95cUxOdGdvRjU2RmcwT2RoQXVXUGpHV1hLWGFHa1dvZGhtS1p5dm5KUzZjUmd0b1pBOHdKMXlzSGQwZGdxOThJdjAtRVNLTFFuMjRHMUp3Yw?oc=5",
-        "headline": "워시 “AI 기대 못 미치면 주가 하락, 경기 둔화, 실업률 상승”",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/17 06:30",
-        "published_ts": 1794864609.0,
-        "tag": "Fed",
-        "first_seen": 1794882650.298437
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 17:30:58",
+  "updated_at": "2026-11-17 17:45:55",
   "yields": [
     {
       "label": "3년",
