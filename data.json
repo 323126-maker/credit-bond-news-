@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85MU5VX2JPeXBlT2p5cTY3Wjc0WV9jaHpnckFHVDNlWDhpdlJZSXdrdExTdFRmeEd0MzVDSW5KWDFPUUVQOUc1WFVnNjYwVGYtT1pEcDlMamRrUQ?oc=5",
+        "headline": "이보다 더 좋을 순 없다. 금리 정점 가능성",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/17 15:35",
+        "published_ts": 1794897322.0,
+        "tag": null,
+        "first_seen": 1794897928.061294
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TVEzcW9welRnazlUT2swbUp4bFlHOF9ibVV0WEIxQTlkbkhtUF9fTTBabF9DZENSYWVYSGpSZHRVSVJsV2F1N09jcG5YSi15VHRXU084OUs3MHQ1UGd0ZXRpalVSME9ZT1pKbVJOc0dJa3c?oc=5",
         "headline": "롯데건설 오일근 2년차 과제는 현금창출력 입증, 재무개선에도 한 풀 꺾인 실적은 부담",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794812033.0,
         "tag": null,
         "first_seen": 1794813329.7437332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE01eHlMR1Mzb3g1aFN6N0hCZ1dMZENTVm1kUDJWZGtjQVBURWJUVURNWE04OGtNOHNYOVFSTFhJeU5hLThUOXhvZmY0cW5DUHlBZjlYUHVISGdGcE93ZzZqcjRkR0lwMjRqMlU3V0lB0gFyQVVfeXFMT1NjWEFBUXdteFZRbmVEMHA0RFdwMDFyUmhQa1BIUDBvTjVzeXdrQ2tRdUp3M3BiZTNmcEhMaVZiWmowMXM0Rjc1ejczRWpHTG9SMUNSTDY1alBqMjJGbkpOMHh5UVRlX2lzOVpkV292VTNR?oc=5",
-        "headline": "서울리스크글로벌 거래량 1,157,213주…10.81% 상승 마감",
-        "summary": "",
-        "source": "잡포스트",
-        "published": "11/16 15:45",
-        "published_ts": 1794811548.0,
-        "tag": null,
-        "first_seen": 1794815794.7917
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 15:31:10",
+  "updated_at": "2026-11-17 15:45:56",
   "yields": [
     {
       "label": "3년",
