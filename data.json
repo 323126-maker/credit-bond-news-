@@ -816,6 +816,16 @@
         "first_seen": 1794919533.4747536
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mRzRaNW95RFRIRkd0akYxZW5sRlVKa3ZzTVB2WlBEcW1yVFNkUHZDQ28tVmlHcldjUUdQdDRraW1Zd24wUUVzN0xMYzZmZ01vaXc?oc=5",
+        "headline": "주식 다 제쳤다 … ETF 수익률 1위는 채권",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "11/17 17:35",
+        "published_ts": 1794904505.0,
+        "tag": null,
+        "first_seen": 1794926735.9263988
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMWw0Ny1wblNEYXJRSk10WmlKMldzUk13U3dGbldMWTZDNEUzU2Z3bVJIMkFKQmdoVDNKTjZzQ2laUUlmSWxyUTBnZ0MwRGkzZ3poZE0wWW1aMXo3bENRMFYyTXVfeHFhVjdtSkxqRVRSYTlR?oc=5",
         "headline": "[채권마감] 보합권서 커브만 스팁, 외국인 선물 수급 연동",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794555391.0,
         "tag": null,
         "first_seen": 1794555928.858406
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE53WUozSWtFSkJFczhTNkRSLXdNRlQ4NnIwV0tHNXFHbThYNFBCSWswbWx2OWh5Qm43SS1TWHVHaDN1WEY5aFk0VHhHQWJFNnlEQlc3Sk1QanlfLUFtdTJjQzRRZHNBNVZ4?oc=5",
-        "headline": "국고채 담합 과징금 1.6조에 증권노조 반발…\"징벌적 제재 철회해야\"",
-        "summary": "",
-        "source": "www.ebn.co.kr",
-        "published": "11/13 14:39",
-        "published_ts": 1794548355.0,
-        "tag": null,
-        "first_seen": 1794709843.3883624
       }
     ],
     "politics": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1794925836.447791
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSllWRnVaX29SeDdQRmRlamtSRF9Eb2RmSmdQN2VCQnRzeVZlSWQtLThPZ0Y4NnhyUHJQX2cwVXlnRW1VSlhDczM3SUw2M3V4cDZtVUtfNHk4UmJfTmhrMmNWdXVrV0gxbnhkWVF0cmRJT3lzVmtUUUdwdk4yZFlQNDVMZXJBQndSNUxQb0FpMnI2VkdkVC1iSVFBMHM4WjFw?oc=5",
+        "headline": "Bitcoin falls below $65K amid high US Treasury yields and Fed policy uncertainty.",
+        "summary": "",
+        "source": "Pluang",
+        "published": "11/17 23:07",
+        "published_ts": 1794924468.0,
+        "tag": "Fed",
+        "first_seen": 1794926735.9263988
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRllnZllXUWltdzZVQzQ4Y0o4V1B5OTJPMVFfVEJJSWFQY3FPM3lHY2pZbDRyT3dCeEg2aTdEUmRsUG9VSmNZLXc3a1RmNTVDcksxZnJIM1l4TVhEczM4aHhDazl6THhELVpsaW1OczB5R2FmR05xZ2Z1NGJ2dDBzWDdZQm5TcTVhMWI4QQ?oc=5",
         "headline": "Mohamed A. El-Erian: Upside surprises in U.S. retail sales measures point to resilient consumer",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794884779.0,
         "tag": "Global",
         "first_seen": 1794890738.27646
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY29SVUROSUdtQm5IUEZVRS1lel9OazFMY0dJNTF2cWlobUdpaEVlcl9qcXNIRTQ0MUF2eGZUQVRaaWRmLTN3Qkl5aVF4SFZEMDZ5S3dMcDNTN0kyMVZfME5lVk1jNzZ0Z3lBRXB6MVpma0ZuMnBJZW9acmpNTW9ReHJwdFVWY1BCY25TM2Zn?oc=5",
-        "headline": "Japan’s Superlong Bond Yields Rose As Buyers Stepped Back",
-        "summary": "",
-        "source": "Finimize",
-        "published": "11/17 11:44",
-        "published_ts": 1794883487.0,
-        "tag": "JGB",
-        "first_seen": 1794923130.3850737
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 23:31:01",
+  "updated_at": "2026-11-17 23:45:59",
   "yields": [
     {
       "label": "3년",
