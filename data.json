@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84bXpzVDFsVEJUZ3FWcV9VTTdvRWVUNFdRNUFLM1FfS1AyNllaTFVseDJaVWhjQlFGUk9reTBPcEMwcWQ4Rm9RdmQ2U0F0bVhVbHo4MGhhWjljbDBVSUlNMGVEZkZlLVk3VmFYcg?oc=5",
+        "headline": "美 연준 의장 “AI, 경제성장 견인하거나 실망 안길 수도”…고용·증시 충격 경고",
+        "summary": "",
+        "source": "파이낸스투데이",
+        "published": "11/17 13:24",
+        "published_ts": 1794889473.0,
+        "tag": "Fed",
+        "first_seen": 1794889849.028766
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaFQwSHp4eHdFV1N5NnJ0UmdSb21KV01MdW9sQWtyWWUwbUZITTg1bjNNcmdHRDhaaktORjJpOGoySGxOVEdZSERkWHpyMzRrQmtfX0dVSTFvXzNPXzNaOGs1dE9HTzBKaGw4WXltMnZheG9VWFR6aGpZNUV6RFRRRlhkUFJxa2Nmc3o2Q1RDQzY5SW42T0lmaXZDN0dWSW9LdG9HeGpWbUk?oc=5",
+        "headline": "Investors increase holdings of Japanese bonds — The Japan Times",
+        "summary": "",
+        "source": "UA.NEWS",
+        "published": "11/17 13:01",
+        "published_ts": 1794888084.0,
+        "tag": "JGB",
+        "first_seen": 1794889849.028766
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1pWEw0UWFBNENEZnNwRnI2Z3hTb3p0RFdtZjJWUGFiSElqS0JkN2VOd3FheWZQU2pPVlJaUEZveTR6VE5qTHJkaU9BRDRGVjMzN3dlYTVSd3l3ckRzbFpVMWRtRHpHeFZvT2FuRG93?oc=5",
         "headline": "Fed Chair Kevin Warsh warned that AI could trigger job losses or a stock bust if it disappoints",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794857715.0,
         "tag": "Fed",
         "first_seen": 1794859241.366904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPcHdOczVVbVFPLUNVbGtXQjhqRmNnMWN3eVlUOG5vRFpnM05ScWdkakZQTWhCTTh3T0JKcFlXN2k3d3ZEemxqbGRBUDZkTGtxMUg0SzlvRGxGUS1aWHNEVldEQ1dRVFU2RXVRdlhjZ3ZLRmN2Z3VkMjlTOUs2M0Z1MElIZklXT1dJejUtVTdxc3hXSFc5VXFhOWotQl9HV2ZKdEtfaDhZc2ZLWGRhQV9XVC1vb0REOW5IYmxF?oc=5",
-        "headline": "AI selloff has investors scrambling to measure their true exposure",
-        "summary": "",
-        "source": "Reuters",
-        "published": "11/17 04:16",
-        "published_ts": 1794856580.0,
-        "tag": "Global",
-        "first_seen": 1794868234.6727896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdmllZnB5SlpWaUlIOXdVY2FFU0VjeS1LTEtCaTM1bndDS1BwVWhuN0paZXlIemFCa0E5MDFDcVR1R3VMMFdYUlhndzZZRjFNeVFqM21oeUJKbDg5Mk1LbGcyZXlEMEZuWWUxb2xpX3ZxQXpjWnNBSU9xVHY2S011UVNPLWJGVzFuelJ6a0llR1JURDI5TXRpUlFDS2o4Wlg4al84bEZQQWxlbFRPWU85aEZDdkNBdjgwV2c?oc=5",
-        "headline": "Weitz Ultra Short Government Fund Q3 2026 Commentary (Mutual Fund:SAFEX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/17 03:52",
-        "published_ts": 1794855120.0,
-        "tag": "Fed",
-        "first_seen": 1794855654.071669
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 13:15:51",
+  "updated_at": "2026-11-17 13:31:13",
   "yields": [
     {
       "label": "3년",
