@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenp6UnFrXzlxLVFnLUdzT0s3OFAwREo0R1BsYXI3cjduRzFxNndIRFdPa1JjaE80cEN1VUxmMEFuVzVmaEY0Z2NCX0tkcXZQaERPbUpWbURkRnZQQTlVLXJ0cU1mVV9RaktRUmM2YlpZUlhfelQ0alJRcDZhc0NSdDVtT3BjbjA?oc=5",
+        "headline": "[비하인드 뉴스] \"소방은 재정 빨대\" 추미애 발언 후폭풍…경기도 해명",
+        "summary": "",
+        "source": "JTBC",
+        "published": "11/17 17:11",
+        "published_ts": 1794903096.0,
+        "tag": null,
+        "first_seen": 1794921326.6706176
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aem9sTHpFZHlpU1Q4bUZneU9EZFdzbnlVZF9jV0VPOFlpZkx6Zm81dTQzYXNNMDdibXNPSnlqT1M3YVNSX1A2aHJXbGtDRlozT0NIeVIzMXNaU0JYTFRjYVNlOGlVTmM3cW1SZ1RqZlpRRW8?oc=5",
         "headline": "장동혁 \"개혁 탈 씌운 망국 정책에 국민 등 돌려\"…이 대통령 개혁 발언 정면 비판",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1794410700.0,
         "tag": null,
         "first_seen": 1794463243.2154293
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5VV3pPOE5UUWpxVnU2VzlrR2V5UHF4bGc4SFliZXhrZEVfVjlEMDVZUlhHY2F5MXM2Y3g3Q0pRc0xPVDltbDZ2UHk5d3o3UGVzQ05qUW5pZ3ZZaWVC?oc=5",
-        "headline": "미 10년물 국채금리 장중 5% 돌파, 12월 빅스텝 가능성 14%",
-        "summary": "",
-        "source": "부산파이낸셜뉴스",
-        "published": "11/11 09:02",
-        "published_ts": 1794355320.0,
-        "tag": null,
-        "first_seen": 1794361529.6170182
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 22:01:11",
+  "updated_at": "2026-11-17 22:15:50",
   "yields": [
     {
       "label": "3년",
