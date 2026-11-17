@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNam5ZX1YxcHBUMFI2aUh6NWlPXzg2WTU1bUN3RXhzRkkxeVhEVUsxM2pXZDBPVXVEUTlyV0NqTEg1blVxbmtyRzZ2ZUNvdGRXWlVmNXZRZVczdl9vcWdpaUk1UjR2LWxpTzZUUjVKYnhGQXM3emE0M1U5UklXNFI5eQ?oc=5",
+        "headline": "[37th SRE][Best Report]‘다시 찾아온 금리 상승기’",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/17 11:11",
+        "published_ts": 1794881465.0,
+        "tag": "JGB",
+        "first_seen": 1794883528.3559327
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZU9uV2NFTmNlUVVBaVJVNTI3V28xZlFqcFNGZGNzMFRqbWlvSkh0bkU1bi1EMTZLdkROTmtxS0kxMGx5WTFZUmxxczBDcFZFN2t4WnFVa2FKTkdkeHdIR0RpZ3p1cTFmZncwOTBlUG5lU0loVlIyTmNpVHI3dlZmYjJsdHlDU2otZkExYzNvRDUwSkdIRmdxUzVFSzM5UGdrbmZ1Z2FvT1hfNk1BaHc?oc=5",
         "headline": "Japan delays its first 2-year floating-rate JGB: what it says about BOJ bets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794852420.0,
         "tag": "Fed",
         "first_seen": 1794853835.672365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQUF80Vjl6WXY4cERrTWV1cnpkRFB1dUNNVDNDUEJuZFJVVVFPYzZJcnJDQXYtazZFTndNV0wyVEQ0UHN0ZExjYld1cG9RWDF3T0o5MEpHZ3VvSUYzYzdiRjQ1SEtEZmVyVnM1NnZKdFRVby1mQkxnVk5sdjB1Y0JiUHhyUWpkdzBi?oc=5",
-        "headline": "Fed Chair Kevin Warsh Speaks Live Today on AI and Tech",
-        "summary": "",
-        "source": "Barron's",
-        "published": "11/17 02:30",
-        "published_ts": 1794850200.0,
-        "tag": "Fed",
-        "first_seen": 1794880262.0072985
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 11:31:21",
+  "updated_at": "2026-11-17 11:45:53",
   "yields": [
     {
       "label": "3년",
