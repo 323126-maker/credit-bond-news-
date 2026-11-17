@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jUmdKZzJucTBRSWlYTHFKTWJpcWtOYVR2cjZLZFJwMlV4RFpNMDBaeUVYWkRoWTBLdEcxZmhCRDcwSUtOSzFTRElYVHprRUxxY0dTdlFoOHB1XzRZdVE?oc=5",
+        "headline": "[ESG특집] CIP의 10억달러 에너지전환 크레딧펀드 출범이 한국 산업·금융에 던지는 과제",
+        "summary": "",
+        "source": "데일리연합",
+        "published": "11/17 22:30",
+        "published_ts": 1794922203.0,
+        "tag": null,
+        "first_seen": 1794923130.3850737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE8tVzN0UGJ5Q0JtVHhWN3pESnF0d2t1NGlrNDhSbmdSU18zU2NiUHctZVJ6LVB0OEFZZGpDclRWTW1iSVN6SHRxakp2R0FTSWY3UFhDNEZiZHpMVFA1ZmtsYzhQUURWNnRjYkdTakw1NnpCYW8?oc=5",
         "headline": "휴마나, 15억 달러 한도 채권 공개매수 마감…6개 시리즈 전량·2031년물 23.74% 안분 매입",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794841250.0,
         "tag": null,
         "first_seen": 1794853835.672365
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMzhlcGpDOFhjV0dVZE1JR2JmSGZpWWJoNG9IQWhzazZuanI1TzBfekRvWkN3TkNSMXIwNVRXTmVtU2dkVGJGVUp0VER2akhOOGR1dHBVLVdCOVBjMjZTWVoyNXBfME5JbzJnSjVNRWRxSXVCRnlIckFlQU9ybHJnUGEwWVVtNnFfb2lyTkJLU25TdG4yb3U3bg?oc=5",
-        "headline": "Better Dividend Stock for Retirees: ONEOK vs. Kinetik",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "11/16 23:49",
-        "published_ts": 1794840558.0,
-        "tag": null,
-        "first_seen": 1794847542.2357113
       }
     ],
     "perpetual": [
@@ -1960,6 +1960,16 @@
         "first_seen": 1794890738.27646
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY29SVUROSUdtQm5IUEZVRS1lel9OazFMY0dJNTF2cWlobUdpaEVlcl9qcXNIRTQ0MUF2eGZUQVRaaWRmLTN3Qkl5aVF4SFZEMDZ5S3dMcDNTN0kyMVZfME5lVk1jNzZ0Z3lBRXB6MVpma0ZuMnBJZW9acmpNTW9ReHJwdFVWY1BCY25TM2Zn?oc=5",
+        "headline": "Japan’s Superlong Bond Yields Rose As Buyers Stepped Back",
+        "summary": "",
+        "source": "Finimize",
+        "published": "11/17 11:44",
+        "published_ts": 1794883487.0,
+        "tag": "JGB",
+        "first_seen": 1794923130.3850737
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNam5ZX1YxcHBUMFI2aUh6NWlPXzg2WTU1bUN3RXhzRkkxeVhEVUsxM2pXZDBPVXVEUTlyV0NqTEg1blVxbmtyRzZ2ZUNvdGRXWlVmNXZRZVczdl9vcWdpaUk1UjR2LWxpTzZUUjVKYnhGQXM3emE0M1U5UklXNFI5eQ?oc=5",
         "headline": "[37th SRE][Best Report]‘다시 찾아온 금리 상승기’",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794879083.0,
         "tag": "JGB",
         "first_seen": 1794879927.3360837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNR2NrRDdoQ1MwS0paZFliV01BelV0MS1tQkNMSEdJYmYweWctanpzZU5hMllmVUtjQWR2cXBPSVhFeFluSFlMbi1ZVTg1ZS1TYzRMam81MFlRbWxockRRN2RpeEk2OGhpYWVXUVpsX3lvcUx4QUFERERGQVdkeVRndHJNeExJTU9DLS1GRW9GTW0?oc=5",
-        "headline": "Tracker: The Federal Reserve’s Balance Sheet Assets",
-        "summary": "",
-        "source": "The American Action Forum",
-        "published": "11/17 10:28",
-        "published_ts": 1794878912.0,
-        "tag": "Fed",
-        "first_seen": 1794886248.7154396
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 22:31:00",
+  "updated_at": "2026-11-17 22:45:50",
   "yields": [
     {
       "label": "3년",
