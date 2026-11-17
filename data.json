@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB3X0xCS0pzbmlkc1BWWHN4bjd5VVdRcEZSa0UxOEtxcGF1YzZkQkVIV1ltSGpMbkFoejRCSUZmTk5NaWxLMGY2SkJiS294bEVzT3NpZ3dGRlhhc080?oc=5",
+        "headline": "[GAM] 데이터센터 채권 조달 여건 계속 악화…QTS 사모채 8분의 1 축소 발행",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/17 16:47",
+        "published_ts": 1794901620.0,
+        "tag": null,
+        "first_seen": 1794902455.912951
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1iZEJ6cjJXZ3I5cWhyOGc5QUxMeThfYXVPM0N3eVFiNkl5ZnVGa3dXdktIa1BJZ0hlTzMtaThmREJXbGc0V2VmQ1Q0MWxIT003R1FIbDFUbVMyUm1Nc2RDSnBRWmE1S2I0WlNyTA?oc=5",
         "headline": "[신상 ETF] 한국 채권은 웃고, 미국 초대형주는 울고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794813565.0,
         "tag": null,
         "first_seen": 1794817841.6329026
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9kNEhtaXN2ZEE2M29tOWNtdENYdEdLUktHYmdKbXhVSjZxVE80TzNXT1k2TzlTM3gwMEJRTG9RYXdtT2ZNQ1NpSlV6c3h0NlE?oc=5",
-        "headline": "코스피, 3.59% 급락한 5100선 마감...장 초반 상승분 반납",
-        "summary": "",
-        "source": "사이렌스",
-        "published": "11/16 16:17",
-        "published_ts": 1794813428.0,
-        "tag": null,
-        "first_seen": 1794819644.7772605
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-17 16:45:55",
+  "updated_at": "2026-11-17 17:01:22",
   "yields": [
     {
       "label": "3년",
