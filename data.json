@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMnZCb3k2NFJjWWpyV3paakFqTFl5WjV2VHdYbWIzWS1XTHd5ZWxMdVJLTUExZ2RPaEZxYVd6Q3pCTEpoR1VnWDhQbkpMQnJxQk5oNFotN0ZWOEZFQTE2eXgtbUJ2RlZuQTJvSUE4SFFRUkE2R3R1Q0kwVXFKNUsxeXNpSkQ5UWNFY3otbWpTYTVrZWdNRzd4M0NmOWwwYUhmSzAzTXpaSGs3WWNUanVZSWVTZzhlODd0TGhRSmcwTC0xSlJtbllDUjVOX09Ycmo1a2hlTVZaZw?oc=5",
+        "headline": "일본 엔화, 낙폭 축소 지속하나 10월 거래 범위 밑에서 상승 제한",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/19 05:21",
+        "published_ts": 1795033315.0,
+        "tag": "JGB",
+        "first_seen": 1795035640.1393204
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVy15WmRpeFUycWVWbE1HRVpMU1BpOVdJRjg3ejhQWHctckJmOGR2TEthcXhLb2dOcWRITUhMS09qNzh1SjU1NjlJR2xHLVNIeDQ3dkRtMjFHbjF4b1dtTS1CUkFUcDlyZ1BZRWhibHpZQlh3cW5nSm03WXBwRGtXa1F3?oc=5",
         "headline": "Levy Sees Still Strong Demand Justifying Two More Fed Rate Hikes",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794989291.0,
         "tag": "JGB",
         "first_seen": 1794996043.0013504
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTVBpR1gxUWNUaXRZdlAyVjhwTEpLdjNaQ3FXWWktOWF4ZXRGLVdRWWo0a1Q5NzlPZE1vQ0JmblJoUmV0b3R1UGRfbnlJS1MydlpjTHdUTGlHa25RX2VUdTVWQkhOenozWFdfNE9wRWpNR1pyZHRHMHRTamZjOE53a3ZIemNab0RienVpR0xFSm14Q2dXYmtEeTdGaw?oc=5",
-        "headline": "Traditional portfolio diversification approaches no longer fit current economic forces, Mohamed A. El-Erian argues",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "11/18 16:40",
-        "published_ts": 1794987622.0,
-        "tag": "Strategist",
-        "first_seen": 1794988840.8043005
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 05:45:48",
+  "updated_at": "2026-11-19 06:01:04",
   "yields": [
     {
       "label": "3년",
