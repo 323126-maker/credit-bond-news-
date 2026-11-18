@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KVjNOeU5ScjJTRkJ2TFZ3NlNZeFFvOXk5Yi1GRnFDdzNEUWl6QmJRWjlEVm1idzZySnVLLWhvNlZwVnlpOTI4OWo2NTRRR3c0SVZacGh0aTh3ZE3SAWBBVV95cUxPbzVsby1QRFVwcVdyb2x0czNoZFdCTXRUZjN5TndnZExYdXNxbGxlOUFHajNtWXVJWXJ3cEhjM0JMT2hlT3M2aFZDODdtaGpHVV9tZUFOaFpiT0VzOFhJY0I?oc=5",
+        "headline": "연말 DB형 퇴직연금 배분 어디로…한투증권 \"크레딧 수급에 변수\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/18 11:04",
+        "published_ts": 1794967484.0,
+        "tag": null,
+        "first_seen": 1794969045.3343725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12ajFFcnJiY1NyNVI1UmVJaXktZDNReEo3T0FpZWVwWFV6dHU0Ml9HQkNXREtoWEVaNFlZTS1XSnhORE9xenVwMkRtYXZnZ0xhdlR5dHAtT2ZwU3U1TGQyUlNfRWZDLXJ2?oc=5",
         "headline": "우리투자증권, 남기천 체제 유지 '청신호'…실적·신용 순항",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1794881404.0,
         "tag": null,
         "first_seen": 1794882650.298437
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE93cU5QeVhfbU01T3R2QnlMa1RVbUMxX3lMMWF5RTJsbE0tZWFfTWZpOEtHUnBxalhwbjNLc1FCWV9Fc19wX2s3WDF2M3o3bjRpVGtLWEJnUTRRMTRycVI0cXA2VEVla2ZyY0E?oc=5",
-        "headline": "KB국민은행, 마진·규제 부담에도…재무체력 견조",
-        "summary": "",
-        "source": "IB토마토",
-        "published": "11/17 11:03",
-        "published_ts": 1794881032.0,
-        "tag": null,
-        "first_seen": 1794892538.234138
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQXhhdDJBMWM4M2xjcjc4cmR5T04xY3pLbEJPcm4tMGVaaHBBb3BURHBzM2Y3dExxak9rRHFXcWR3a0NpUXNzbGhHNDhsN1BwQ3NHTndsajRLQTNxc2ZJLXQtamNvZzF4dnRhNjF4M2FXUlh2UWh1ZVRfdDBFeldrTkhrYw?oc=5",
+        "headline": "한투의 '무리수'로 끝난 KDB생명 인수전…후순위채 투자 요구에 '제동'",
+        "summary": "",
+        "source": "인베스트조선",
+        "published": "11/18 11:25",
+        "published_ts": 1794968700.0,
+        "tag": null,
+        "first_seen": 1794969045.3343725
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTS1HTTQ5eGdkUE1aYTEzOUd1UzI2Z0ppSzBlb0Y5OU9KOEF1S25RVjRoWDdQV19WZzZqT3JzQlVJaVhCdkh2UzNjaVJkSWI3cmttMm1tc1NGMTJXUnR3bExwQzE0NWo1?oc=5",
         "headline": "KDB생명 매각 또 결렬…'1조 자본확충' 누가 부담하나 '쟁점'(종합)",
@@ -792,16 +802,6 @@
         "published_ts": 1794788340.0,
         "tag": null,
         "first_seen": 1794789936.2102993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9kZ184Wm9scnB6ZlgtdVRMam9IbktmZXBNLVVyb3cxYUxDM0VLUGRxbFRVMXFSTjJ6SFNHYnB1eGRjelV6bDFfeTRPcUlzTnl2NEdVSTFzbWtBcEpPM1JLOVpaZDZzVnFaQkFReg?oc=5",
-        "headline": "한화, 자회사 부진 딛고 4분기 반등 기대…기업가치 재평가 '주목'",
-        "summary": "",
-        "source": "프라임경제",
-        "published": "11/16 08:56",
-        "published_ts": 1794786995.0,
-        "tag": null,
-        "first_seen": 1794801641.0138252
       }
     ],
     "policy": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdnQtWjdxbGs2dVN5V25zUHFPeDlQelZvamVYb2Y5Q2JpOUhZcVBKaHBFMTJFWlFtUXNYWGF3ZElmdURNYVhKak5lUUNINHFYc1h5cFFZT0dZU2JkUTBoaXNsUDFzM1F6ZHpHaF9GTW9HZUhUZE1pY0RJdndPYVJHZHBCbnNmMWJyT1pUSTBwS2h2WWdLQ2lpTEhVcjQtUzd0aHpTQ3BBZXRnQ19mQTZlTGhmUkkzdw?oc=5",
+        "headline": "Booming Hyperscaler Issuance Set To Raise Bond Market Volatility, Fitch",
+        "summary": "",
+        "source": "BusinessToday Malaysia",
+        "published": "11/18 11:16",
+        "published_ts": 1794968172.0,
+        "tag": "Global",
+        "first_seen": 1794969045.3343725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNVWdnS21yZUdxX05tcjBmeWxBbHkxeEVrWG5DLXVoeFctRXByQ3ZaN2dHSi1Mb3J6elFHcnNBMEotWUFpdExVbkhrVUpDazRkNkw0eHZnekJ2b0UzNjRxcGdOS1prZXpodzAtUnp4SXFaQlh5MDd0VmdxdmhWYzNuUTNxeFY4YVVHUDhvOURUWGE1aE1ndzZsa3VwSFRiYkRNdS02d0hOeGllOV9CSFVXal9DZnJfQzF4a1J4LXlkZWt2RHhoaFFpQWJ3bU1lTUhzbjFyQ3RUVVc3RV8tRXRJbm5ZcU15SEw2QzBCSXgycFhkVjQ?oc=5",
         "headline": "Bonds are paying their way again | 2027 Global Market Outlook",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794923340.0,
         "tag": "Fed",
         "first_seen": 1794951045.2989922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMVp6RlBJeEtMUUtxSlhrMVM3Vm9jMDhta0JPa1JfVmdfS1UyS0xRcWFuM0pvOWFKYUZfd2JwTFZhbndoQVNLRGpTUHkxeTBCbXktN2o3VUxSSE1iZFZyaEhjbDVtSU9aSkVJY1Y5QkJhLVZLWXhzYlIyQTVDNlFONGdodnpKVzZy?oc=5",
-        "headline": "European Commission Raises Poland’s 2027 Inflation Forecast to 4.4%",
-        "summary": "",
-        "source": "CEO Magazyn",
-        "published": "11/17 22:30",
-        "published_ts": 1794922210.0,
-        "tag": "Global",
-        "first_seen": 1794937528.9622543
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-18 11:15:52",
+  "updated_at": "2026-11-18 11:31:06",
   "yields": [
     {
       "label": "3년",
