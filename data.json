@@ -372,6 +372,16 @@
         "first_seen": 1794930337.58816
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUjRMOWlMSm1LTV9BUXJnUWZNdTY3T3FXd0JvYzRLdWJQOHRlNWxuUUtfaHpKaXlvbDc2QTVLcWc3dGNGQXMwUklxNlNaS3ZzUDlNM0hwYnA1di1FaXZDMVlIR1JhWlhSdV9qanZIeFZoYWwxQkFyWWF5cXBUeXZteg?oc=5",
+        "headline": "[37th SRE][Survey]한신평, 등급 조정 잦았지만 신뢰성은 물음표…\"큰손 종목엔 소극적\"",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/17 10:30",
+        "published_ts": 1794879019.0,
+        "tag": null,
+        "first_seen": 1794963640.3439908
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5WQWtXX2QzaFlxX2xoN3VUb3MyZWdmVTRyeDFfSzlBdE1aVEwxajJydkhINzR0RGZ2eGUxTE1Rb2ZPY2FFekZMZy1B?oc=5",
         "headline": "AI 주식, 고점서 -30%...피델리티 \"채권 이용한 방어, 오래 못 간다\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794877802.0,
         "tag": null,
         "first_seen": 1794880855.7520175
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONWVINzBHRGpjYXVmZmVMNjJSMmVLWnNPSGxqbExfWUdvbUtybmh6Ml9SUmtweG1pUVhhR0g1QkpkZzRRdU1wYXFFbmV0SC1USUtyWm56enA2UjFsQi1PQUFmOFM3SGtsVzl3dTJJYnN6Rk9lejFianppZE01RHR3Ug?oc=5",
-        "headline": "[37th SRE][Survey]’레고랜드 악몽 재연' 한신평, 꼴찌 추락…한기평 5년 연속 1위 쾌거",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/17 10:00",
-        "published_ts": 1794877208.0,
-        "tag": null,
-        "first_seen": 1794878139.8984663
       }
     ],
     "perpetual": [
@@ -1620,6 +1620,16 @@
         "first_seen": 1794960049.3240573
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXdFBXVUstUzFlS0FITVRKM0NRbVFRMmlMTUJWbGNURG1UbWNkaU9CRHJZYkoxUWdWYkdWUmxRYVVCWTRYWE93YkZiM2JpbWZJ?oc=5",
+        "headline": "워시 美연준 의장 “AI 없이 초강대국 못돼”",
+        "summary": "",
+        "source": "문화일보",
+        "published": "11/18 08:23",
+        "published_ts": 1794957796.0,
+        "tag": "Fed",
+        "first_seen": 1794963640.3439908
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZUJDcjF0WHJMNFdpaERpX1FsN1dVUmM4Sno1ZWN6Z0hTTFZRa3hIUFkzUzZ5Nlp4YV9GUEFJejB2UG1XMnhlNzJzemlweGN0Rk9RQld5S0JDQUIzVXRCdGNxb19CRVdZbENNdU95dzlFbnhxb3Q4V2d2bnBQV2w4LXhGZG5mZ1pFU3haWk9EQQ?oc=5",
         "headline": "Why floating-rate loans have appeal now",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794916808.0,
         "tag": "Strategist",
         "first_seen": 1794922238.507589
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQemg0YmpqVzcxdndYQ18ySGRwTU91TmZ0RUxyNERVbURyazh6Q19iWms3RWMwR203X2prSEFwZHNmVFZNUGJ0LUUtTXZ0UXVmeWQ1ZDduSlh1VDJSZmF3S3VpZzhtb3YxcG9xVk9tZkFzQ2p4RHdPRXVqYS1TdXZFZmJQdUthdGktWkdkbzBuTlRzbDE4TDd1a0tEWm5NX2ZxV3U5eg?oc=5",
-        "headline": "John Hancock 2030 Lifetime Blend Portfolio Q3 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/17 20:40",
-        "published_ts": 1794915600.0,
-        "tag": "Global",
-        "first_seen": 1794915941.7287178
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-18 09:45:51",
+  "updated_at": "2026-11-18 10:01:04",
   "yields": [
     {
       "label": "3년",
