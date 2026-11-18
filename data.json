@@ -524,6 +524,16 @@
         "first_seen": 1794960938.943938
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1PLTFRQm9DTFVyNmFqNjRXaUIxank1ZWdoTVh5T3pEcExHTmRaSHNIQ3E0ZEhLenRrbnprY1FrcFJEWWZ3Zk80UHdpRVBBNzQ?oc=5",
+        "headline": "[DCM 레이더] 1.6조 빚낸 농협금융…강호동 수사에 어깨 무거운 이찬우",
+        "summary": "",
+        "source": "딜사이트",
+        "published": "11/18 08:19",
+        "published_ts": 1794957566.0,
+        "tag": null,
+        "first_seen": 1794987928.4428406
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZY28yMVc1Yms5Ul90amJhcjdHaDJXcm1yZzlUUmJFT1dnNTYxbDg5eHFnTk1RdVBldTJHOEFNMnRXdk5VOUdRdjRFSHVTLUNPYnF5ZHoyTFc3ajQwOE54bVM2M2lBX0dTVjhOa0NaY0ZGUkE?oc=5",
         "headline": "퍼스트 시티즌스 뱅크셰어스, 총 12억 5000만 달러 선·후순위채 공모 발행",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794799262.0,
         "tag": null,
         "first_seen": 1794825937.0710604
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90dE9WRFlVOHZFUzl3S3M3UjNEOVk1Q0h5UDFQRnlmSXVDMTB6UUF2bEVucC1CeFJ6UDc3SkVNbkozdkRfZnJQTFVkUlR0aC0xNzI5dm93?oc=5",
-        "headline": "보험사 본업 개선하고 해외 실적 효과로 3분기 방어",
-        "summary": "",
-        "source": "헤럴드경제",
-        "published": "11/16 09:53",
-        "published_ts": 1794790426.0,
-        "tag": null,
-        "first_seen": 1794815794.7917
       }
     ],
     "policy": [
@@ -2413,14 +2413,13 @@
       }
     ]
   },
-  "updated_at": "2026-11-18 16:31:09",
+  "updated_at": "2026-11-18 16:45:51",
   "yields": [
     {
       "label": "3년",
-      "value": 3.725,
-      "chg_bp": -1.8,
+      "value": 3.736,
+      "chg_bp": 1.1,
       "series": [
-        3.822,
         3.84,
         3.803,
         3.789,
@@ -2439,15 +2438,15 @@
         3.729,
         3.759,
         3.743,
-        3.725
+        3.725,
+        3.736
       ]
     },
     {
       "label": "5년",
-      "value": 3.825,
-      "chg_bp": -0.5,
+      "value": 3.839,
+      "chg_bp": 1.4,
       "series": [
-        3.965,
         3.983,
         3.948,
         3.932,
@@ -2466,15 +2465,15 @@
         3.803,
         3.841,
         3.83,
-        3.825
+        3.825,
+        3.839
       ]
     },
     {
       "label": "10년",
-      "value": 3.966,
-      "chg_bp": -1.5,
+      "value": 3.975,
+      "chg_bp": 0.9,
       "series": [
-        4.16,
         4.152,
         4.097,
         4.074,
@@ -2493,15 +2492,15 @@
         3.937,
         4.001,
         3.981,
-        3.966
+        3.966,
+        3.975
       ]
     },
     {
       "label": "20년",
-      "value": 4.083,
-      "chg_bp": 0.6,
+      "value": 4.086,
+      "chg_bp": 0.3,
       "series": [
-        4.197,
         4.21,
         4.17,
         4.164,
@@ -2520,15 +2519,15 @@
         4.045,
         4.104,
         4.077,
-        4.083
+        4.083,
+        4.086
       ]
     },
     {
       "label": "30년",
-      "value": 4.055,
+      "value": 4.06,
       "chg_bp": 0.5,
       "series": [
-        4.251,
         4.239,
         4.189,
         4.171,
@@ -2547,7 +2546,8 @@
         4.015,
         4.074,
         4.05,
-        4.055
+        4.055,
+        4.06
       ]
     }
   ]
