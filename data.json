@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObjdHczdSTmdjLWlTQy1rZkoxOVJIS0VzREo2R1NXTEVSS3ZpWUhfOThPV0N0eEcxb3VZMGk0NkJDOWtrM090VWlkQkppNnBETVQyQXFPUmVUNGJFbnI1TmltaW1DTlViMkpSWmZqeHc4QTZOdmFJdV9KajFEbm16VTRUSkpOeXBqcWVESTVTWnRxTmNrQUlOMG15dm5YMFdIaUMtcVhvMnhVOEdJNEw5ZHhB?oc=5",
+        "headline": "Credit Selloff Lures Bargain Hunters to ‘Stock Picker’s Market’",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/19 00:58",
+        "published_ts": 1795017490.0,
+        "tag": "Global",
+        "first_seen": 1795018530.3649528
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUjc2UmFxdGdxUm9WaTJBclRXUHRRSHV4bzlGMlJYMjNZNjZtT0Z3NE5pNG00eG5oN0ZuRnZCSzJHeTk1OWI0MkZmVVRKVkdoTjg4a2owUG1VdDh2RktXUXZFV08xMFpKeE1VbXNlLU1NTXRQSWJWalViR2tnWVJ2S0JneUhOVjU1YTZ3eEVmclUtS1M5MkpiYThkQnk0SEMzYjdYcXJhaHp4WDA?oc=5",
+        "headline": "BOJ Signals More Rate Hikes: Japan's Monetary Policy Enters a New Phase",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "11/19 00:54",
+        "published_ts": 1795017240.0,
+        "tag": "JGB",
+        "first_seen": 1795018530.3649528
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3JNYS1JcXJNTHJDZTdxQ1VINnBPRjZYLTB2MEFXeWpSSDZnb1l0bERiamhNYV83OEIyczVyNnVlZGlySy1leERTc3VWVDVIamVoUHp0dWlVRDlqS2lQb0dqazhRSUNoQW1OejlMSWRvVUE1a28xbVowdm9GM2Y4VFlhaE4wRThXNDB6cTBUMzhzSERfeTVXTUY5SHJsbi0wbUFtQQ?oc=5",
         "headline": "American Century High-Yield Municipal Fund Q3 2026 Commentary (Mutual Fund:ABHYX)",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1794977802.0,
         "tag": "Strategist",
         "first_seen": 1794984326.720131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTXJaWEpIY2RKUThtMGhYUlg5WWdOenpjcloxeUNkaHZIM1ZJeUVsN2FfRFBoUjBfWVBVUEhEVmFZT08yZ1ZHa1FVQWZaanhyZS1jRDRKa09GcEJtemR2d0xxSXh2V1dNdmlwUG13WlRqZTItMWNucWNoWlBZNHRaam1ZMXU5VkFxYldRTm1hYmE?oc=5",
-        "headline": "Voya Intermediate Bond Fund Q3 2026 Commentary (IICIX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/18 13:45",
-        "published_ts": 1794977100.0,
-        "tag": "Global",
-        "first_seen": 1794980731.3443468
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1PdWhyMjY1S1lnTlYtNGdudl84Y2ZJOW8tTWFWb2l4ZE1xOUtNZF9fR0hOM19qendJbWFZYTgxOUE4QUJMalduU3V1WDFMVFdEOGxTWkR4WUJGdTlSR05WcHAyRE5NNkJuTWUxSXpkMm1xdw?oc=5",
-        "headline": "日 국채 20년물 입찰서 응찰률 3.64배…12개월 평균 하회(상보)",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/18 13:32",
-        "published_ts": 1794976346.0,
-        "tag": "JGB",
-        "first_seen": 1794977127.7299778
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 01:01:08",
+  "updated_at": "2026-11-19 01:15:55",
   "yields": [
     {
       "label": "3년",
