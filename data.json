@@ -52,6 +52,16 @@
         "first_seen": 1794990646.538033
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9EcUctWjVySWJDeXhvNFFFdUVUdnFZbVJYaVk0NnNRVnk3TGJZYnJaWXNJMnpJc0F1OEk4V3dxN0RaY3pkRElvVWk5ZWdSSHZleWFwZU9xWGNrb001ZlBqakJ5NGYyWlREWUdndWdqc1Y?oc=5",
+        "headline": "[도쿄환시] 달러-엔, 159.6엔대 찍고 하락 전환",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/18 16:26",
+        "published_ts": 1794986789.0,
+        "tag": null,
+        "first_seen": 1795000529.4681194
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBvaE94TXBHRUFvVnhSVDlJVkxUblRDN2NGRHgtU3lKSUZ4UzVHNS15OHhVVHNCNkRWWXpLNXNPMHZhX1JHbDlab3FOb3JkU09DbVE?oc=5",
         "headline": "신한투자증권 ‘라이트 상품’ 판매 5000억원 돌파…출시 4개월 만 성과",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794916800.0,
         "tag": null,
         "first_seen": 1794962727.3113747
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWWlZUDl6NXFoeU5SNFg0MU43MzVtdTV1dS13c2NoTzRFMW8xdzhPcEUwbkFvNm5EYnl2Vm51SnJNRWZVWENfdVpmOEM5enlEaUpRRXAwNmg5Vlg3SHdOQ3Z3ckJWTV80OHFiVkRidGhRWjJhNjI2ME5UVFpjU2pIeHRPbjE1TV9DOWx4ZHplcUFJUmZFcUJXYVRDcEtxUXdROEZVam1wQUdMVXR6bEJIUA?oc=5",
-        "headline": "SACOMBANK는 조직 구조 효율화를 완료함으로써 새로운 발전 여정의 첫 번째 이정표를 세웠습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/17 19:06",
-        "published_ts": 1794910019.0,
-        "tag": null,
-        "first_seen": 1794910527.4242213
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSFdSUlpBamYyanJkQVpPd1h0R3ZpMzNKQmNlaWdfclEzblc3bHpvemJRNlpCdVhHaTZGLU5abUxMUGVQNF9rdDZTU1h3TmpjYnMzRjczbC0xa0ZCekVwRXAxZXk1WWZrNUs2eVhGbTRDZnJaalZJM3V0eEFIWHhLSVVWOUlZajA?oc=5",
+        "headline": "The Bearish Trifecta That Could Slam Markets",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "11/18 20:01",
+        "published_ts": 1794999679.0,
+        "tag": "Fed",
+        "first_seen": 1795000529.4681194
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02djNWVzVQYklpcUxyNmM5Z1prWnZRaHdtRXZGMWQxcXVSbUhoYy1pY3dLZ2VzZVp1ZDNqMFFuSDdfZ0FoMncwV3NPQUd0cGxmQTllbnljY2Q4TUFlckIxOTVZT2phWUoxVi1LLUUzd2dmb1FkZHVaZ0RqczZiUVU?oc=5",
         "headline": "일본은행 총재는 금리 인상에 대해 뭐라고 말했나요?",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "11/18 05:36",
         "published_ts": 1794947772.0,
         "tag": "Strategist",
-        "first_seen": 1794948333.8157094
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUw4MVJsNzdNSXNGaGstUi1iX2xTMnFuWlo2R3B5VGpPRTNySzdsdmNBckRBa3ZMcGZQRkVOYVpzVlhJdC1vQWViUFZCU25fekdxZnpmMGxleFNiSjJhT01mTHZlbXJJYS05amRnaVdfd016Y2JVbk9HSmJJUEttRXczc2lEeUt1T0xBRldEdXdiWjFuMTlnekxXQVJYTXl3bk5zZ3FlOEozUXZ6Y1pHZnRTS3AxdXlf?oc=5",
-        "headline": "5 High-Yield Muni ETFs to Load Up on Now for 2027 for Tax-Free Income",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "11/18 05:30",
-        "published_ts": 1794947400.0,
-        "tag": "Global",
         "first_seen": 1794948333.8157094
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-18 20:01:16",
+  "updated_at": "2026-11-18 20:15:48",
   "yields": [
     {
       "label": "3년",
