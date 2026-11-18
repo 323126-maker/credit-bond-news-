@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wVzgwWHJYUE11Ujk4eHVJQkx5UktTNUlCcUFiUldtY3lWbi1aZlMwYXNpcWhBOThRNUhiamFvUng0X1dHVnBfS1dCZ0NoU1JVOGQzQUs2alBnWFhtSHVWMFdFbFprTEF5?oc=5",
+        "headline": "[ 국고채금리 ] 코스피 반등하자 채권 금리도 하방 압력 딛고 '턴어라운드'… 3년물 연 3.736% 기록",
+        "summary": "",
+        "source": "CBC뉴스",
+        "published": "11/19 00:15",
+        "published_ts": 1795014900.0,
+        "tag": null,
+        "first_seen": 1795015847.5114696
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRQThHcVBOVlRRN2VRSTdxR2RuLVZzcS02Q1FJcmhFV1R5LVg2NkJ5QWZGbVYxX3d2YmNqcGI5SW9CZG5ISGVrVG9yc2s5YVRhNEk0bVZFbVZzTHZtSzVIYmhOTkY0emhwYkNQZUJIT1A?oc=5",
+        "headline": "미 달러화 강세…엔비디아 실적 호조發 기술주 반등",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/18 23:48",
+        "published_ts": 1795013304.0,
+        "tag": null,
+        "first_seen": 1795015847.5114696
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXl2dTlVd2Eza0w3M3lFWkg1NzFSUUc4SGNpOEY0V21xTjA1WlRxV2FrQkJfVGlla2lzcDJ2TndMOEYwTGwxZGpyc1hFMzVEZ3VRX09CcWw0dDFHajBzdS1WUThQN0dWVG42bEg0WjA0d1I0c014eWFwcGlqWlVDVmluVVJZOWpBQ1FTQXdJUE0xaVFBTXZNV1VSc1hlZHZhNFZVenNHZE1WZE9f?oc=5",
         "headline": "홈크레딧 베트남이 채권 발행을 통해 추가 자금을 조달하면서 부채 규모가 33조 VND를 넘어섰습니다.",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1794945603.0,
         "tag": null,
         "first_seen": 1794946528.6666484
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9GNVE5a0JUQzdGTElIQ3VvQ2E1enpnZHd6a0R4RUYzOUpGM0FSUHlsOG0wY2VpZm42OXlTdF9IdjFsMEtRbnFQVzhPVQ?oc=5",
-        "headline": "LG·SK 등 대기업 회사채 12조 순상환 : 기업·산업",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/18 00:01",
-        "published_ts": 1794927660.0,
-        "tag": null,
-        "first_seen": 1794950127.2148063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1jUmdKZzJucTBRSWlYTHFKTWJpcWtOYVR2cjZLZFJwMlV4RFpNMDBaeUVYWkRoWTBLdEcxZmhCRDcwSUtOSzFTRElYVHprRUxxY0dTdlFoOHB1XzRZdVE?oc=5",
-        "headline": "[ESG특집] CIP의 10억달러 에너지전환 크레딧펀드 출범이 한국 산업·금융에 던지는 과제",
-        "summary": "",
-        "source": "데일리연합",
-        "published": "11/17 22:30",
-        "published_ts": 1794922203.0,
-        "tag": null,
-        "first_seen": 1794923130.3850737
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3anprRGRfRVBzb0tGeHRMazV1cmw4Q09ZekFtdVZyOGVrZjQtOVZlTUxhUlZ0MmdKNUJXT2ZhbGhHTUoyRHFBQlcwY01pX0dPR1JNYms2MElNQQ?oc=5",
+        "headline": "The rating game — Will Anthropic wind up IG or junk?",
+        "summary": "",
+        "source": "9fin",
+        "published": "11/19 00:12",
+        "published_ts": 1795014774.0,
+        "tag": "Strategist",
+        "first_seen": 1795015847.5114696
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZy1mS2tHOW9DV0ZXelgwc2M5RTNLQmd5bWUyZWtZSFktcWFuYnlHVWhpYnpfS1JwYmJIVVhKNElxc3YwNzkzZlpYbk14MG1qbTFNS29mWEtLLXlxd2doallJLW1yd19sbzlpTUpJeDd0cGRXbUMxdVNCeG1xM3dvOGdrZVlyVC1HZUc0aFV5alJtUVB6eXpHZUgxdmZHN296TlFNTEFVS09lUTBON0xyUEFuRnlRZ0c4VFctMFM1RDRUZ1FIYWFoNFhEeUo1Sm9SNGlvQXE2Zw?oc=5",
         "headline": "Billionaire Investor Stanley Druckenmiller Got Out of AI Chip Stocks in Time. Is It Time to Get Back In?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794974551.0,
         "tag": "JGB",
         "first_seen": 1794976243.2033792
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQWHY5UnQwN3l1YkhsSExtUG95b29kYjhtbk5nTm04elVEZC10WDhYRmpGdm1yMXlJeWIyNWY1ME1fZW4zVDluUS1kRWdFSFVJVlE2enpkSkJnUzh6MFByQ2pLT3AxU0FhQzlwc2lzSFlERkVvbnBTMmRTcS1PdV9hWnk5UXR5TDNGbm9mdGFQWlRCT3QxLVV2NmowSUpnUWlTclZmT0NHX0FJRmdrOHVib1lPVQ?oc=5",
-        "headline": "Japan 20-Year Bond Sale Draws Weak Demand Amid Global Volatility",
-        "summary": "",
-        "source": "Bloomberg",
-        "published": "11/18 12:58",
-        "published_ts": 1794974280.0,
-        "tag": "JGB",
-        "first_seen": 1794985249.1343546
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 00:15:52",
+  "updated_at": "2026-11-19 00:31:12",
   "yields": [
     {
       "label": "3년",
