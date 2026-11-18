@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9lWTFNWi1QNXRTLUlOQ2RuOWxrWnozb002ZEpndF9pZGNtR1pTOExJNFRuWUcya1RkQUlmOEd6aU9hY3FYdGlqUy1HQkd5ai1VSC1DZWE5LXVxZGxtaGRVZHNVRG5JVUdCaHc?oc=5",
+        "headline": "산은, 한국금융지주와 KDB생명 매각 협상 결렬",
+        "summary": "",
+        "source": "서울파이낸스",
+        "published": "11/18 09:54",
+        "published_ts": 1794963256.0,
+        "tag": null,
+        "first_seen": 1794964536.714474
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wa0t4YnM3Rjh1U0JQYVpfbWRKeVA5WG5VMGhBU2RFWm9Cd2kxVkN2NTFVX0g5RzREckREelVPaE9lTXVQck5obXNkOTFQeF8zRW5xdnJjd2RkVHRHdG5HUFd1ZVBZUUl5bmV5dkZ3a3dPWi1yRUE?oc=5",
         "headline": "삼성생명, 삼성전자 주가 하락 반영… 목표가↓-NH",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794618846.0,
         "tag": null,
         "first_seen": 1794619836.7326772
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tMjFBZTRTR1BKZkc2cmUySUEzVENhWTdqVnhwOHRURDZ6S2NqX2VSY3hCWHBQZ1JndkR0M0NBZDZFbGVHNndyNGN0SjJ0eG5GendPUWtUNlBHajE3elByR3JlZzZqdTljV2dUYnNvYw?oc=5",
-        "headline": "엔브리지, 2057년 만기 후순위채 11억 달러 발행 완료",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/14 08:26",
-        "published_ts": 1794612360.0,
-        "tag": null,
-        "first_seen": 1794620726.9608796
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-18 10:01:04",
+  "updated_at": "2026-11-18 10:15:57",
   "yields": [
     {
       "label": "3년",
