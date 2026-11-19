@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1xN1Y5a3I1a0k3RGZydmdveEpWVmJxTXVkdEItemRrUHpOYkVNMGkwdFI1eUpybmFLVmtfNk5jWWFEQ3BPRVdJRHlxZnBTNFBTaEFIbzBBR0l6ZHVkMElqMjh4Q1RkUQ?oc=5",
+        "headline": "선라이프파이낸셜, 5억 캐나다달러 후순위채 상환",
+        "summary": "",
+        "source": "비건뉴스",
+        "published": "11/20 01:29",
+        "published_ts": 1795105778.0,
+        "tag": null,
+        "first_seen": 1795106844.886533
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuSjlnWmloY3k2RzVocGVlQThXYXlTeVFjWnR3Vl9aeDJrdkl2M1h2dHI3SmZWYmpGZGJhcFBtYks2cS15SVdSVW9SLUJnQTdQVEsyX0lLQWotN3ZnOTFsaUtLeTBSODhwS2lYRlVTa0Zfa0cxNEJwbkREOXU?oc=5",
         "headline": "[DCM] 국민은행, 총자본비율 '4대은행 최저'…3000억 영구채로 자본확충",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794836238.0,
         "tag": null,
         "first_seen": 1794836732.416409
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9jV1MybFVtVFRUbnpsTTBRbkhSaEVOSml4OHU2Q3M5Q2JfcUg4cEd3QWg5c3J2bjllQ2NzYWN3MklBajdlREpIcE91NDMyNjA?oc=5",
-        "headline": "효성화학, 금리 부담 가중…7% CP 대신 사모채 선택",
-        "summary": "",
-        "source": "딜사이트",
-        "published": "11/16 20:11",
-        "published_ts": 1794827513.0,
-        "tag": null,
-        "first_seen": 1794843051.162273
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 01:30:55",
+  "updated_at": "2026-11-20 01:47:48",
   "yields": [
     {
       "label": "3년",
