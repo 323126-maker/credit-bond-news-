@@ -414,6 +414,16 @@
         "first_seen": 1795077925.04266
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4S2xOOTJ0Wl9KU2V3dThsVW83U2g3RVRZVkxrR2lkb0lPWDZISS1mbXllb3AtZ2NfT3FDVTlSNk5YX2Z3UnRzLVdCU00zNHVIRzQzYkRPOU9DaGgx?oc=5",
+        "headline": "[일본 특징주] 라쿠텐, 고객정보 유출 파문에 채권 가산금리 급등",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/19 12:33",
+        "published_ts": 1795059180.0,
+        "tag": null,
+        "first_seen": 1795095925.10608
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lSk05bEpob211X2tKUkZ4VEVvR1NCWnpicmZvVDFxakhQcHpPaW0zOUlyaXpjV1hSSkVRUWdTeXlsRFN5XzVEeU1KU2lZSENVem5XdTJNdFpuVy1ReDY5X0J5ZUZqXzlqbWU1OHZ1MA?oc=5",
         "headline": "Pinnacle Financial, 은행 후순위채 6억 달러 발행",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794825961.0,
         "tag": null,
         "first_seen": 1794834055.3885145
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE54dzluNWRMd1VySGcxeHBVaklLb3g3MzQyMFZEbEs5MDV0QnV2OWVlNE9NejlMUkd2bHhkSGFHbnozTHhsNGNpYjVXdHpPZDI4LTNWVVBJd1JacXBvdkY0UQ?oc=5",
-        "headline": "[IB토마토]풀무원, 자본성증권 갚느라 빚 늘려…부채비율 350% 돌파",
-        "summary": "",
-        "source": "뉴스토마토",
-        "published": "11/16 17:31",
-        "published_ts": 1794817900.0,
-        "tag": null,
-        "first_seen": 1794819644.7772605
       }
     ],
     "policy": [
@@ -1670,6 +1670,16 @@
         "first_seen": 1795086044.151057
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWDhxb3VFclo0dHFUdUo4bGpVMUkwbm81LW9sR2lrLUk4TEo5WEc0Qnl0SGJsWHJLa2hEY3VyZGtwY3NJMDVVN0NZRWd0SlpSVHp4Yk40YjRmWUZpbExnZkR4TEQ5ZVNkTGd2OFRoN2ZwWlVxZmtVTU5ITGhKUHRwdkNkOFZzdk1lS0huZXB4cC1tU3JudmRtOG8tSzdjV0kyeU00?oc=5",
+        "headline": "Columbia Balanced Fund Q3 2026 Commentary (CBALX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/19 18:45",
+        "published_ts": 1795081500.0,
+        "tag": "Global",
+        "first_seen": 1795095925.10608
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJCamdiWEJuUzQ2RGN2OHNXNklIZmN3bjkxaVluQXdPcVpQQWRzaFFGMy1zWFZXOGp6SVhIOFdLTkhocUoyMVlaeWI5ay01YnJOaDZ0czRyS0s0MzRrNUlSRHpBVFZFdFVMb0U1THI1ZDdnVjc1UWV3VGFhUGpJOTRqQnR4S1EybmJidQ?oc=5",
         "headline": "Fidelity Total Bond Fund Q3 2026 Commentary (FTBFX)",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Seeking Alpha",
         "published": "11/19 04:29",
         "published_ts": 1795030140.0,
-        "tag": "Global",
-        "first_seen": 1795031126.3420942
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEdWVmhaNVVyeEJfMnRlSVJRdjRqOUhsb0g5a3UtbGlOOVVtS05jTFZGRUF1MURDak5fMENiTFFiYmd5UkRMeGhGUnRVaHBta2lYdXVSQkN3UlVkTXVQOERfRzBXdDZjMDluVTVmMTlfYXhiX0E4SHVFRHcwcnZvUTlzRjlqb3QwMzZxeWlGdTZmWWRPcUVmZlRlMGVCNmM?oc=5",
-        "headline": "Janus Henderson Securitized Income ETF Q3 2026 Commentary (NYSEARCA:JSI)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/19 04:18",
-        "published_ts": 1795029480.0,
         "tag": "Global",
         "first_seen": 1795031126.3420942
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 22:30:53",
+  "updated_at": "2026-11-19 22:45:49",
   "yields": [
     {
       "label": "3년",
