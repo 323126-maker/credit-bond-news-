@@ -2332,6 +2332,16 @@
         "first_seen": 1794867342.0105882
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUm5zdnFGRTE1NUh6ak5sVlZiRGJDVnhEdDlSUl9WTTc2VHBZN2RnQTJlQmN5NV9ScDQtSEc0ZzFrZ3g3aXgwaWJWT2FEX01QbV9IZzlQanBYYVl6T2RhSl9xYmt4Z3NZdXN6XzRUSkdaR01rMkVMWV9yTUljR0VTTGk2dlk2NU5NNW8ybjlZQQ?oc=5",
+        "headline": "5대 금융지주 증권사 3Q 희비…NH 선방·KB 과징금에 순손실 : 네이버 블로그",
+        "summary": "",
+        "source": "Naver Blog",
+        "published": "11/16 22:36",
+        "published_ts": 1794836190.0,
+        "tag": "우리지주",
+        "first_seen": 1795077033.861517
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6MEV0QlA3RE5EdkFJbGZORHA4Qjl4bmU2R2owUWlKZThtUlVYZDk1WUtjeDd5WHY0cXdHNUVtd1JVcy1oM2wxUTcwZGdOVnIwemFMV2NneGNiWU1ybjAxbmw2ekkycjNndXltRjZ5YW16UklzUXM0OWVOUDA?oc=5",
         "headline": "한양증권, 사옥 매각익 반영 3분기 누적순익 584억원…DCM 채권 실적 꾸준 [금융사 2026 3분기 실적]",
         "summary": "",
@@ -2400,27 +2410,16 @@
         "published_ts": 1794562879.0,
         "tag": "우리지주",
         "first_seen": 1794813329.7437332
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwZlNQMGUwWDFFbC05LXM0Y0RIWURfWFR3YWlXR0RsMkUyYkJxVWJBaGFvNHNzSGZ3NzdpLUt4TGNERzAyOFpjMTRiS0lVZW9Vd2ZRakJ2bEZoU1N6bGZLcHlhUQ?oc=5",
-        "headline": "정진완 우리은행장, 연임 성공…‘2+1년’ 승계원칙 적용",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "11/13 18:32",
-        "published_ts": 1794562354.0,
-        "tag": "우리지주",
-        "first_seen": 1794563161.5195704
       }
     ]
   },
-  "updated_at": "2026-11-19 17:15:46",
+  "updated_at": "2026-11-19 17:30:56",
   "yields": [
     {
       "label": "3년",
-      "value": 3.736,
-      "chg_bp": 1.1,
+      "value": 3.716,
+      "chg_bp": -2.0,
       "series": [
-        3.84,
         3.803,
         3.789,
         3.758,
@@ -2439,15 +2438,15 @@
         3.759,
         3.743,
         3.725,
-        3.736
+        3.736,
+        3.716
       ]
     },
     {
       "label": "5년",
-      "value": 3.839,
-      "chg_bp": 1.4,
+      "value": 3.812,
+      "chg_bp": -2.7,
       "series": [
-        3.983,
         3.948,
         3.932,
         3.899,
@@ -2466,15 +2465,15 @@
         3.841,
         3.83,
         3.825,
-        3.839
+        3.839,
+        3.812
       ]
     },
     {
       "label": "10년",
-      "value": 3.975,
-      "chg_bp": 0.9,
+      "value": 3.942,
+      "chg_bp": -3.3,
       "series": [
-        4.152,
         4.097,
         4.074,
         4.032,
@@ -2493,15 +2492,15 @@
         4.001,
         3.981,
         3.966,
-        3.975
+        3.975,
+        3.942
       ]
     },
     {
       "label": "20년",
-      "value": 4.086,
-      "chg_bp": 0.3,
+      "value": 4.06,
+      "chg_bp": -2.6,
       "series": [
-        4.21,
         4.17,
         4.164,
         4.145,
@@ -2520,15 +2519,15 @@
         4.104,
         4.077,
         4.083,
-        4.086
+        4.086,
+        4.06
       ]
     },
     {
       "label": "30년",
-      "value": 4.06,
-      "chg_bp": 0.5,
+      "value": 4.031,
+      "chg_bp": -2.9,
       "series": [
-        4.239,
         4.189,
         4.171,
         4.151,
@@ -2547,7 +2546,8 @@
         4.074,
         4.05,
         4.055,
-        4.06
+        4.06,
+        4.031
       ]
     }
   ]
