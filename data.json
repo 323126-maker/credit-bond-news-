@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQdGRMc0x2SllJRzJ4YWlQN0NPYmNaMU9ZelRCZWVCSVBNQWtiUHpJWVMwd2R3cy1IQzNnNFRKR2tBMDh3MXV3QzR5cFF0ZmVRV1hqQTJ3X0lkU2I3UVFBQ0QxTnpoWGtVQUFLSGQ2YkUxdk9SSnhib0xlUDNFd0xPRWRZaXdQY2t3LUhDU2FaZ1huNHl0RTN3RlR0ejNpcEdGT3BjVDNLN1ZVNXdYeFpSdFNLSUp1MUhubUhhcDMwNmtOa1dKanNWMDhsYnBZWFJWMmI2dXZCdDNuNVhTWGc3MWFhZTFFLXhjTUxtVnhoWW1RTFBVTllHSkNRUGFsa1g4LWJUcFc4SjZDZGlQTWF4NnhBcHo2cnpmQk9tbVllSXkyQkJVQ2dMckF0RUIwclAzSkRFRmd6dTlobjE1MGVfQ3BqRHoySVhVODRzNWxxbEFvRXBSa1IzcjNKTWRqVjJDT1lGZWlQSWlhanlLRktKNzRjNGpfUExESWZxSk1PVE5IdS1ZQTIyR0VaMnhKOUFpRlNXeHE5aVEtMzk1RHo0?oc=5",
+        "headline": "Fed Chair Kevin Warsh Vowed to Hit the Fed's 2% Inflation Target After October's Rate Hold, Even as JPMorgan Warns Democratic Control of the Senate Could Make Him a One-Term Chair. Here's Why That Political Risk Matters for Markets.",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "11/19 12:15",
+        "published_ts": 1795058100.0,
+        "tag": "Fed",
+        "first_seen": 1795059036.434211
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaE9xcGY1Tk1GRXFlUjNhV1JXMzJ3QjIweEdXVUhGLVhCcGdWdkppVlRrcFhsakpXTXIyT3R5aWV4dmt0a2NBLTZ0NEl1OXR4QUU2TVdGTjFDOWVycVVjYXFpQ3FPeUVkYndDWjhaQlU3QVlNY1ZIRDFXeE5oSl9EY3dJYWhveWJFWmVpWHVseS0tdGM?oc=5",
         "headline": "CoreWeave's McBee says GPUs beat buying back its 15% yield debt",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795002751.0,
         "tag": "JGB",
         "first_seen": 1795007729.1199245
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQWJoUzdJbWMwX21ueUs0VlY4dGE0SkRHMF9pMjBwczRTOXpPTmxOdVZvU1kyWHJfQXIzTkFubHo2b0l6Q3VJS29BRzVveFk1VVBQZUZHMi0tTTVfWVJTR1FhbEMtdy10eEJHTUxtZGd3TENLYkhiazdqWDl0ZWNGdVljLUdzVGJUc3RkZlFETGZNeFRlWUhaT3pqWU1oUFRUWXZQQ3h0SUdrQjBiS1oyeWVJN0VxMjZkMGk0UUJ4cFRKTGRhYTgya0VIWVZldjlucHZhTndfVUxJWTQtZ0EyMg?oc=5",
-        "headline": "The Fed is tightening, the economy is slowing — and that’s the perfect setup to buy bonds, this trader argues",
-        "summary": "",
-        "source": "MarketWatch",
-        "published": "11/18 20:38",
-        "published_ts": 1795001880.0,
-        "tag": "Fed",
-        "first_seen": 1795030235.7794678
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 12:15:48",
+  "updated_at": "2026-11-19 12:30:56",
   "yields": [
     {
       "label": "3년",
