@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJCamdiWEJuUzQ2RGN2OHNXNklIZmN3bjkxaVluQXdPcVpQQWRzaFFGMy1zWFZXOGp6SVhIOFdLTkhocUoyMVlaeWI5ay01YnJOaDZ0czRyS0s0MzRrNUlSRHpBVFZFdFVMb0U1THI1ZDdnVjc1UWV3VGFhUGpJOTRqQnR4S1EybmJidQ?oc=5",
+        "headline": "Fidelity Total Bond Fund Q3 2026 Commentary (FTBFX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/19 18:25",
+        "published_ts": 1795080300.0,
+        "tag": "Global",
+        "first_seen": 1795082441.2756429
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaElDb0hYUnpvd3dGcEpCOU1rTS1vcTFSNktYYkpfcGVndTRzaE5mY3NnYVpKd1hDbEprajJJanBYNElVdi1KUDhQMDg4dHFhc01sS0VucExjS19JajB3OE03SFkxdG1MSFlQZV9PNGhWOGtMMUNqNkpfOFhvcUFpNEpnd1ZCZTRWT3Nadm1hOUhzQVJWNVE2MG9rTVQ0MF9HVW9nVUwtWQ?oc=5",
         "headline": "FPA New Income Fund Q3 2026 Commentary (FPNIX)",
         "summary": "",
@@ -1788,6 +1798,16 @@
         "published_ts": 1795048729.0,
         "tag": "Strategist",
         "first_seen": 1795055438.8763387
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmFSV011TGtwenBCMnZDa2xIQnJhTEZaS21HbWktMG9zWGE2UE9uQl9LLVZ6REN2ZVlYZ1RDcjNLTVQxV0FpUDJ2eThzWDh5eU5hTXFlMmludEhZM3lTSlhPSmU1emVCRnRqZEljYkllZFNCOWNlQWxhY0thenZMeldFTzRoemIwV3hiNU5Jb2Y?oc=5",
+        "headline": "JGBs Edge Higher Amid Mixed Developments",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/19 09:38",
+        "published_ts": 1795048680.0,
+        "tag": "JGB",
+        "first_seen": 1795082441.2756429
       },
       {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVI1LVVoeHJ0SVhCdkluZ2tiSnA5NmcxcVlkR2FCQVVVdW1tUEktbXNZcXdOMXR4U1c2X0pONDk1NW5YWEt6SWhKRndUQkRfekk1Y1FtTS03YTZPWlgySmRyNnFaWE8xRFZhTU1tMEVsQWRYTUhkOW9Db3g3V3RaWjcxSThKUV9sa29CSkxWVmg3SDBsbUlyVHlDSjhvYktmNHZRbUVwaC1ub2xRSDhlNTdwaWRINlhGMUx1NkVxQ2Raa0NFLTJsM2tTYi1rek5QaDJmdnktMzJBYzlSNkVhWg?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795016160.0,
         "tag": "Global",
         "first_seen": 1795016730.708881
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOSHBGcEtaVllFWndoUUZMSy0zTUJ0YU1nalRGRnZReGJHZDlKYWlvSmhnNHp6UXdmVDRjaG4zeDFTUWk5TENHNHZhalRZcHFpS0d0bkJWaXdBNW9GTWU5U3h5eXlVVm81QlVsRkN3NXR2all5NE1nUTNRODJvem5VVDZjWGpGXy1adHZ0eTF5RlRIbGdl?oc=5",
-        "headline": "Fed Chair Kevin Warsh Sees Two AI Futures: Productivity Boom or Painful Market Reversal and Job Losses",
-        "summary": "",
-        "source": "Yahoo Finance",
-        "published": "11/19 00:30",
-        "published_ts": 1795015805.0,
-        "tag": "Fed",
-        "first_seen": 1795041925.0584397
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNHNBVlY0LWFJdDVVcFhrREJUWWdLaFdFX0dwNlRIdTZnckM2VGl3a293eURCaTZIekZWZFN4Y2pqbnQxeHdXU1BRTzlZR1MzS0RQTkh6bVpIOVFJcURUd3k1VmM5cDVUaDhoSXZ2SGFCeW9aNUZWSk8wcVFSRUxVNVJQcHVlVmcyanQ5S0xmNWY1YmNBVWlnNDQ2TFJMNUFLN2NyX19wUDk4NllTZ29ZYXE1QUxxUzU5?oc=5",
-        "headline": "Garanti Faktoring Bill to Start Trading on Debt Securities Market",
-        "summary": "",
-        "source": "TipRanks",
-        "published": "11/19 00:15",
-        "published_ts": 1795014954.0,
-        "tag": "Strategist",
-        "first_seen": 1795057241.2153492
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 18:53:47",
+  "updated_at": "2026-11-19 19:01:03",
   "yields": [
     {
       "label": "3년",
