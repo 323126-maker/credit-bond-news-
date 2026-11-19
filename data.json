@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBaQ1BlZ3p0WUdVNjRneUpmcnVpdEtiTU1KemVPUmpJR0JtZWxlMTRTTTlyXzAzUVlpUVBLWWVDV0VWTWlNWXRXWVdpdDZkUEkyQkRpdk1SbmRrcWk5YTIzVG4yQVJ0SFlmakc5MVRLU0tzSF95OUtmMnp6OTlHdHc?oc=5",
+        "headline": "자체 토큰 담보로 유동성 절반 빼내…SKY 창업자의 대규모 대출, 신뢰 위기 촉발",
+        "summary": "",
+        "source": "PANews",
+        "published": "11/19 20:04",
+        "published_ts": 1795086277.0,
+        "tag": null,
+        "first_seen": 1795090527.9076514
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oT2xkWHItYmpfS2E2Qk4wSmNfMFpxYklPZUJabUlINlhRU3JRY3h4eEJ3M18tV1ZxS3FrdkVBM3RkbjBqYVFhWDJmV3c1TElYUW1xZG9DY3ZqSDFDX2xBNUxlTk9MN3o1NGR4UWNxWDQ?oc=5",
         "headline": "[채권-마감] 外人 순매수·호주금리 급락에 강세…3년물 2bp↓",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "이데일리",
         "published": "11/18 13:00",
         "published_ts": 1794974454.0,
-        "tag": null,
-        "first_seen": 1794975331.9870431
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcmo0ZDJEN2djb0tieGlTbGhJRmhRZmd5WllyMk82N3JCQVhSbnBtb3BYUXNOMXl0bERHdWdGS1ZUeERWRzZMSGlmN1AzZFdUdFV1aWNmcjF4ZHdJRWhjVGlvOUQ4Y1NXVTNjdG95YmRKTU42RlZINWgxN005b3RpWA?oc=5",
-        "headline": "[37th SRE][Editor's Note] 누구를 위한 신용등급인가",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/18 13:00",
-        "published_ts": 1794974409.0,
         "tag": null,
         "first_seen": 1794975331.9870431
       }
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WZ2lCbHVNZC1vUlVRTHFXQnNfUm9lQ1oxdUlEOXh2WnBod3VVdUN3WERRYkFFNVlKTzBYTVR2dlVjdlpwWnFtX3dROGE0UjVwZkxBNzVZMDNrTTJzZ1NxWUgyMnJDZWxKRHpCeVl3?oc=5",
+        "headline": "예금 줄고 시장조달 늘린 기업銀…‘양날의 검’ 될까",
+        "summary": "",
+        "source": "아시아투데이",
+        "published": "11/19 18:06",
+        "published_ts": 1795079186.0,
+        "tag": null,
+        "first_seen": 1795090527.9076514
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdWh1c3dPTGtBLWFySFYxR0tsYnFhVm9TaFp5NlRFalJBSFZzb0dPeWdlUEVkOThHRVdGOUhocE9KZ01YRzYyRVlndFNNNUNuWFhmQlhHRDJlQi10Y2kwctIBYEFVX3lxTFBsdWh1c3dPTGtBLWFySFYxR0tsYnFhVm9TaFp5NlRFalJBSFZzb0dPeWdlUEVkOThHRVdGOUhocE9KZ01YRzYyRVlndFNNNUNuWFhmQlhHRDJlQi10Y2kwcg?oc=5",
         "headline": "증시·금리 불안에 MMF '역대최대' 300조 육박…반도체머니도",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794671671.0,
         "tag": null,
         "first_seen": 1794704449.8475866
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XcGlNMWFQOF9hVkVoN0tCcVNib0ZTS1hoaXhZcy1Hd3ZScUxHZEVFSlVfS3lZNmRHVGF0NjdXSUlNNVVyRjI4WVd6Wlg3Y0xkbDRmQ0pBUjZmblU?oc=5",
-        "headline": "美 금리 상승 압력에 국채 금리 반등 가능성…회사채 시장 단기 영향은 제한적",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "11/14 15:00",
-        "published_ts": 1794636000.0,
-        "tag": null,
-        "first_seen": 1794645036.6547525
       }
     ],
     "politics": [
@@ -2413,8 +2413,35 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 21:01:05",
+  "updated_at": "2026-11-19 21:15:47",
   "yields": [
+    {
+      "label": "3년",
+      "value": 3.716,
+      "chg_bp": -2.0,
+      "series": [
+        3.803,
+        3.789,
+        3.758,
+        3.799,
+        3.766,
+        3.715,
+        3.74,
+        3.736,
+        3.714,
+        3.669,
+        3.613,
+        3.639,
+        3.633,
+        3.729,
+        3.729,
+        3.759,
+        3.743,
+        3.725,
+        3.736,
+        3.716
+      ]
+    },
     {
       "label": "5년",
       "value": 3.812,
