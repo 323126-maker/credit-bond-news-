@@ -1980,6 +1980,16 @@
         "first_seen": 1795072526.622372
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOV01YN2ZyUDZPamd2cXRnNVpaODhrWHhYVmFvdkZlNnp0aFdkWDM3TllVcmtDMURWWXZyNnFvdGVoc2xmZG9WM2VDdXZTQnpOTk1JekRvSHNQZjRidDc4d2ctLVhGVXZ4VDJQZTVmVFJmUFF2TktpV3U0UEZEcW1NaGFPdFJibFJLYWFkb0ZlNkk2TUhHUnN1aE8xU3BjVVRUSTdKaExKR1RjYlBfYlBVa1hmb1NrdWtF0gG4AUFVX3lxTE5XTVg3ZnJQNk9qZ3ZxdGc1Wlo4OGtYeFhWYW92RmU2enRoV2RYMzdOWVVya0MxRFZZdnI2cW90ZWhzbGZkb1YzZUN1dlNCek5OTUl6RG9Ic1BmNGJ0Nzh3Zy0tWEZVdnhUMlBlNWZUUmZQUXZOS2lXdTRQRkRxbU1oYU90UmJsUkthYWRvRmU2STZNSEdSc3VoTzFTcGNVVFRJN0poTEpHVGNiUF9iUFVrWGZvU2t1a0U?oc=5",
+        "headline": "Japan trims US Treasuries to near 2-year low as France, China also sell",
+        "summary": "",
+        "source": "South China Morning Post",
+        "published": "11/19 14:00",
+        "published_ts": 1795064425.0,
+        "tag": "JGB",
+        "first_seen": 1795120234.8862658
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWldOczVMaE9DS2M5YnY5RExZVzA1aXliNl80dXVINWRKZTBqWFZITzZEMXhNYUJOVG5pTVJDdXlmdFo5d29UcUZwOWxER3oxVFZRWGlqR3ZPYmd2YVp3RjZSTi1FTkhQTXFFanhjeW5RTXU4WW9MQWdJVHdvZ0NKNUhxYlBkSEx5TlItR1owd0Q1WHFxMDlQYktBQ3p1ZEhDVlpqdA?oc=5",
         "headline": "The AI boom’s critical next phase",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795062878.0,
         "tag": "JGB",
         "first_seen": 1795065328.020249
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8tbFNYT1RXR0FGR0NGRENJbDNWUUdyRHdIemlsTWtFTnZoREg5emU4bEFnOVRHQ2xPNzhKZGMxcURtUTNzSE9hdGhJWWRyRXNSYUdYR0lsNHNxS1BZaGxuUXV6Rk5sdW8?oc=5",
-        "headline": "달러, 매파적 연준 신호에 19개월 최고치…호주 달러는 급락",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/19 13:15",
-        "published_ts": 1795061700.0,
-        "tag": "JGB",
-        "first_seen": 1795071644.2086942
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 05:15:50",
+  "updated_at": "2026-11-20 05:31:00",
   "yields": [
     {
       "label": "3년",
