@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQLXFTMTNiUktDR24wWlJzQTQ4M0pJa09Qd3VSYlFLamd6ZVBNcEdhMkx2bVB1MV9qOVZHeUYwYTNWdENvTHFVTkRvVTlBTFpMWnRuWHBRMXl1Yk82bmpENXRWdUJmZ25vSTBNb0E0cTZ6c2NoRjBYTVRibHRScS01Z3RwbnVWV2RUSkVUVGFoc0c3Yzdyc2pEMUNMc0Z0Y3loYmJKcWdVZE5zc3F1Sy16NnpVQzlkWU4tTzZzVTR2X1FNZ2FaSGNaY2ZkUkwwUFMzcmViYzBCQld6Z0RqM0hqNFd0ZTM?oc=5",
+        "headline": "The Fed Just Warned About a Hidden $3 Trillion AI Risk. Here’s How It Can Spread Beyond Tech Stocks",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/20 00:43",
+        "published_ts": 1795102980.0,
+        "tag": "Strategist",
+        "first_seen": 1795104927.1532638
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkRiLTBTcExsclpRM2dTU05kRGx6SklUcDVqMEhlVmg0a1JWcGgyVHNEdnlKWWZqWXNscFptYThlVEZ3amRVSjdEWHhoTFNfbG80c3ZoLVdWeVFMeEJTRkZuUWdBNUJoT2U0aUY0RC1iQXVrSUhERGoydzhQYjNwb3NlRktNRHZNZ3dOWHlyV2YtVW01amRab3NYd01FN1hxVDhR?oc=5",
         "headline": "T. ROWE PRICE EXPANDS CAPITAL APPRECIATION SUITE WITH NEW FIXED INCOME EXCHANGE TRADED FUND",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795048729.0,
         "tag": "Strategist",
         "first_seen": 1795055438.8763387
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVmFSV011TGtwenBCMnZDa2xIQnJhTEZaS21HbWktMG9zWGE2UE9uQl9LLVZ6REN2ZVlYZ1RDcjNLTVQxV0FpUDJ2eThzWDh5eU5hTXFlMmludEhZM3lTSlhPSmU1emVCRnRqZEljYkllZFNCOWNlQWxhY0thenZMeldFTzRoemIwV3hiNU5Jb2Y?oc=5",
-        "headline": "JGBs Edge Higher Amid Mixed Developments",
-        "summary": "",
-        "source": "WSJ",
-        "published": "11/19 09:38",
-        "published_ts": 1795048680.0,
-        "tag": "JGB",
-        "first_seen": 1795082441.2756429
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 01:01:10",
+  "updated_at": "2026-11-20 01:15:46",
   "yields": [
     {
       "label": "3년",
