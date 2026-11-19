@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZVhSUVU1WFBTTmZqaEVGcFJadEtwTUZNRUpuSlB4SkVocUlmall3MG5QLUNObUdxb0lyTlcxa1d6M2I4U1JKT1JVWVk4amQ0d3JQdzItZHdFSGFHUmY5S3A2RE04WTZOZDNrcE9tRUFBZw?oc=5",
+        "headline": "CRH, 아코사 채권 10억 달러 공개매수·교환 조기 응모 결과 발표…최대 99.57% 참여",
+        "summary": "",
+        "source": "데이터투자",
+        "published": "11/20 02:45",
+        "published_ts": 1795110355.0,
+        "tag": null,
+        "first_seen": 1795111245.4750335
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jRXQ3SjhyelI5YjBoU1BpVWI2ZFlCamtkRHdqY0J2Skl6QUhRVXRYSWl3NHdZOUhqek00VE1fY0Y0SEF6a1FFSVZwbDIzNk8wSG1QcWhCZmY3U0U?oc=5",
         "headline": "알파벳, 6개월 만에 또 캐나다 채권시장 노크…최소 4조6700억원 조달 추진｜Global Money Club",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794989538.0,
         "tag": null,
         "first_seen": 1795013141.8224323
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9PNU9GaU01V2tZRklyTGpJRkRCZ0g2QUhkcXEyUjJTSndoYkowTDg1b2dHLUdWXzRKTkNhY1NJTkZVMGdUXzZxd29NQlU2MmZacWxKV1UtRERMVV9abHNRaE1VemJKOHU5dzV3?oc=5",
-        "headline": "회사채 신용등급 상향 하향의 2.8배∙∙∙투자등급 부도 2건은 한계",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/18 17:05",
-        "published_ts": 1794989100.0,
-        "tag": null,
-        "first_seen": 1794990646.538033
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 02:45:48",
+  "updated_at": "2026-11-20 03:01:06",
   "yields": [
     {
       "label": "3년",
