@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuSjlnWmloY3k2RzVocGVlQThXYXlTeVFjWnR3Vl9aeDJrdkl2M1h2dHI3SmZWYmpGZGJhcFBtYks2cS15SVdSVW9SLUJnQTdQVEsyX0lLQWotN3ZnOTFsaUtLeTBSODhwS2lYRlVTa0Zfa0cxNEJwbkREOXU?oc=5",
+        "headline": "[DCM] 국민은행, 총자본비율 '4대은행 최저'…3000억 영구채로 자본확충",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "11/19 17:32",
+        "published_ts": 1795077146.0,
+        "tag": null,
+        "first_seen": 1795077925.04266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lSk05bEpob211X2tKUkZ4VEVvR1NCWnpicmZvVDFxakhQcHpPaW0zOUlyaXpjV1hSSkVRUWdTeXlsRFN5XzVEeU1KU2lZSENVem5XdTJNdFpuVy1ReDY5X0J5ZUZqXzlqbWU1OHZ1MA?oc=5",
         "headline": "Pinnacle Financial, 은행 후순위채 6억 달러 발행",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794817900.0,
         "tag": null,
         "first_seen": 1794819644.7772605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1YVGxOYkN2dWR2N3hjLUVNM3FMWURNOVdfcENQQVB5ZjVJNk5jdFhpZXVpUTNYeFNFcDNLQURLRl9jYzJveGdMTXQ2WlpBZFVvSXYyOFowRnE2T0NESC0tQm5xMDYxcGRWYllJaDNB?oc=5",
-        "headline": "한화생명 3분기 ‘어닝쇼크’…대규모 적자에도 실적 정상화 기대 나올 것인가",
-        "summary": "",
-        "source": "S저널",
-        "published": "11/16 16:22",
-        "published_ts": 1794813773.0,
-        "tag": null,
-        "first_seen": 1794827738.7084737
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 17:30:56",
+  "updated_at": "2026-11-19 17:45:47",
   "yields": [
     {
       "label": "3년",
