@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OUW1IVEx4Y01BdklwalZwRnM3QkptYXFRVUhmUzVlN3kySlNPclMzaHNwSG9PUldxdVplZ2gwUUd0RXd5VjBVNkxBQWd6MWVjSlNaemhlUlpIQTU5TTRKZmNRaUwyb3UyNFBmR09ZZFkyQQ?oc=5",
+        "headline": "[인터뷰] \"Q 늘면 최종금리 의미 없다\"…명목GDP 먼저 본 구루의 조언",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/19 09:00",
+        "published_ts": 1795046400.0,
+        "tag": null,
+        "first_seen": 1795047328.2153687
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5icWVBMlF3b2ZRMVU4RGg2aUdCTzZFV1JGNnlPLUdCaVg4aFY4RU85SXlWZ0pza3FqUlo0ZDJPUVpvM1VXVVVRbloxQjhaVjdPRGNOeGhLdm5CeE1aRFVfQUUtaDlZa3M2bUcxdUR1ZHJrQQ?oc=5",
         "headline": "'매파 금통위 예상되는데'…IRS에 녹아있는 금리 전망은 요지부동",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794615426.0,
         "tag": null,
         "first_seen": 1794789936.2102993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB3aHMzOUZXOEt0V1BlM0lqSldUTVd1TnRTZFp2WmRzUlM4TUlrNHI3b1FzUnB2LXd2SUJaaUhnam5PYXlqZ0kyNmYtT3hDYldiUE5HSGJPR1FRbjIwZi1BNURGRUVYZmRsZjlZZk5uS01Sdw?oc=5",
-        "headline": "\"내년 신용 스프레드, '반짝' 연초효과 뒤 약세 전망\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/14 07:50",
-        "published_ts": 1794610200.0,
-        "tag": null,
-        "first_seen": 1794730530.2973015
       }
     ],
     "politics": [
@@ -1790,6 +1790,16 @@
         "first_seen": 1795018530.3649528
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5zVnN2cmYyU2xHS0dXNTRtcTBTa2k0Skc5a1lBRnFjZklHdXZRZEdCZHVYZnlibndfTHllRFM1V2R3Ri1mZEZOdDV4LThpS0xhWWFxYjlRQnBhZ0dtcG9SeFJVVjVnX3pxZzJUMEl2bl96eGlx?oc=5",
+        "headline": "Tech leaders tell Fed chairman Warsh how AI could transform the economy",
+        "summary": "",
+        "source": "Axios",
+        "published": "11/19 00:36",
+        "published_ts": 1795016173.0,
+        "tag": "Fed",
+        "first_seen": 1795047328.2153687
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU3JNYS1JcXJNTHJDZTdxQ1VINnBPRjZYLTB2MEFXeWpSSDZnb1l0bERiamhNYV83OEIyczVyNnVlZGlySy1leERTc3VWVDVIamVoUHp0dWlVRDlqS2lQb0dqazhRSUNoQW1OejlMSWRvVUE1a28xbVowdm9GM2Y4VFlhaE4wRThXNDB6cTBUMzhzSERfeTVXTUY5SHJsbi0wbUFtQQ?oc=5",
         "headline": "American Century High-Yield Municipal Fund Q3 2026 Commentary (Mutual Fund:ABHYX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1794999679.0,
         "tag": "Fed",
         "first_seen": 1795000529.4681194
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNMklFVkpPS3laZ2x3SFF0R0FfUGtRdW54Z0FvcnBrWVVodjlTZzVoc3JyZ24xcU4tXzlrMUYzSE1SRzJGcjVtWDJZbFlDMnd3aWVzVU9JdDg4Q3NOM1FCS0dmcFMtLVpmaWRiVWpSWjZuZXZ6Wk93cU01MDF3Rm5BOWIzakFFRUgxc3RKRXRQSE1yQVRSN0JKeWQ3b2lITFZOU3JQQTVNZnRXTVFrekVpQmNKZXhScGs?oc=5",
-        "headline": "우에다 일본은행 총재: 물가상승률을 2% 부근에서 유지하는 것이 중요",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/18 19:38",
-        "published_ts": 1794998297.0,
-        "tag": "JGB",
-        "first_seen": 1795004128.3512177
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 09:01:07",
+  "updated_at": "2026-11-19 09:15:50",
   "yields": [
     {
       "label": "3년",
