@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1lSk05bEpob211X2tKUkZ4VEVvR1NCWnpicmZvVDFxakhQcHpPaW0zOUlyaXpjV1hSSkVRUWdTeXlsRFN5XzVEeU1KU2lZSENVem5XdTJNdFpuVy1ReDY5X0J5ZUZqXzlqbWU1OHZ1MA?oc=5",
+        "headline": "Pinnacle Financial, 은행 후순위채 6억 달러 발행",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/19 07:13",
+        "published_ts": 1795039980.0,
+        "tag": null,
+        "first_seen": 1795064442.017698
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qdTZ0V3BuQ0lpenVGZXhIUmtmam9TRkFnUnNaT0Y1SzVfbnhvU25rMjg2Qko5d2VxZVFCblVjVzRKLUFGaXoyNnNhdmtJX0hRLWw1QU8xNFRDc0pLMFJ6UHd2djFlOFNLNXRXX0F30gFyQVVfeXFMTUNGbkNJQlFEc1FqazhrY3hRMThmRVdrNm52REZKM0o2eTkzdUpFZEd1S0pqVnJoM1ZaOFFGQ3N5aFVDLW1vcE5lckFlblR1S0JMYkxvSXdYZzdUMElWWlZqNWxlWTdVOVVoajk3Y3RxUkpB?oc=5",
         "headline": "회생·워크아웃 결합 ‘하이브리드 구조조정’ 첫 성공",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1794813773.0,
         "tag": null,
         "first_seen": 1794827738.7084737
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40VmdkclphRTM5TzBvVEVnd191UnVWR2ptd1FjWmJXYlg1NGtYd29qb25qSE1zUm90VTY2ZGxLYXM5LS1LZFJGR2tDc2Z6V2pScWZSMXJxZVJ1NXg2TVR0bWU4UWFOSmpPWkVlSkFnZzk0dU5nZHVv0gF3QVVfeXFMTjRWZ2RyWmFFMzlPMG9URWd3X3VSdVZHam13UWNaYldiWDU0a1h3b2pvbmpITXNSb3RVNjZkbEthczktLUtkUkZHa0NzZnpXalJxZlIxcnFlUnU1eDZNVHRtZThRYU5Kak9aRWVKQWdnOTR1TmdkdW8?oc=5",
-        "headline": "KB캐피탈, 3분기 순익 1년 새 8%↓…대손준비금 반영 이익 37% 줄어",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "11/16 15:38",
-        "published_ts": 1794811102.0,
-        "tag": null,
-        "first_seen": 1794819644.7772605
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4taF9wRFVRQUwxUThTa3VFVzAtM0wyeTF6V3NNTVR1RjNNbkJvSFF5S1hiZHpWSVhzd01HRk92Zm52SGJYUkw5X1JfQ2k3Q2ZxalBVb01JUEdaWURPeDEw?oc=5",
+        "headline": "[금융이슈] 美 연준, 다시 금리 올리나…12월 빅스텝 공포에 세계 금융시장 긴장",
+        "summary": "",
+        "source": "CEONEWS",
+        "published": "11/19 10:37",
+        "published_ts": 1795052220.0,
+        "tag": null,
+        "first_seen": 1795064442.017698
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OUW1IVEx4Y01BdklwalZwRnM3QkptYXFRVUhmUzVlN3kySlNPclMzaHNwSG9PUldxdVplZ2gwUUd0RXd5VjBVNkxBQWd6MWVjSlNaemhlUlpIQTU5TTRKZmNRaUwyb3UyNFBmR09ZZFkyQQ?oc=5",
         "headline": "[인터뷰] \"Q 늘면 최종금리 의미 없다\"…명목GDP 먼저 본 구루의 조언",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794623180.0,
         "tag": null,
         "first_seen": 1794647726.5765996
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xYXNBUWRXOG1IdDBXc1VjS2FhbU1KemdKbC04UC01VnR2Wm8ydGxtcWNfaGNxWHVFcWRqV1ZuNGZoQkxjRnR0MGVYVlJjM3pEZXRtRGFzTjk2bVh2eml4b2pEbw?oc=5",
-        "headline": "“美 금리 동결이 더 위험”…채권전문가 9월 인상 보는 이유",
-        "summary": "",
-        "source": "쿠키뉴스",
-        "published": "11/14 09:17",
-        "published_ts": 1794615426.0,
-        "tag": null,
-        "first_seen": 1794789936.2102993
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 13:45:47",
+  "updated_at": "2026-11-19 14:01:05",
   "yields": [
     {
       "label": "3년",
