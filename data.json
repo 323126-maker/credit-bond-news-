@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQeXl4MzBhN1lPYVFkR2FTdGk5eEFKQjI1X0h0cmFqSVRyekZWbFY2SGRtTDF3UWJoRTE4Z0dQT2gzZ2lHbV8ydzhSUk5DWklDTGdmZWFvWU12YTFsTUtzMUl1aEtSNmhRQ0pFa2tLT3JqT0hreDlNUFZWc3ZKaFdqenNzMk5sT3J4cHJKSUV0VkM5ZEowLThRdU9kQmVRZnVDNFhsTQ?oc=5",
+        "headline": "2027년 부동산 시장 전망: 새로운 경기 순환의 기회와 함께 공급 압박이 가중될 전망.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/19 16:36",
+        "published_ts": 1795073805.0,
+        "tag": null,
+        "first_seen": 1795073926.70374
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KNWJjcEgxUW9iTmQzN1g1cjNhZ2JhOVY0bGFsdmR1WWRJbUZvWXhKX3RzQ3ZHUGZpT2tCN1pXQjRCTGNPNUVMWXNhaU05SlE4MWc?oc=5",
         "headline": "증시·금리 불안에 MMF '역대최대' 300조 육박…반도체머니도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794970800.0,
         "tag": null,
         "first_seen": 1794984326.720131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5RZUM3bmtWcHhlNEVHYnpIeHg2QkswR1dzM2pGTHQyclg3TUpXWnh0ZFUwekhfSk1DSHVqWEJCMll5cm1IVUpVZWstX1kzaFdpS3VJUURwVEh0dHBqY2pabjhlNjlQNGdpQlc4?oc=5",
-        "headline": "역대 최고 한계기업 비중, 연말 기촉법 일몰 앞두고 신용위험 고조",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/18 11:45",
-        "published_ts": 1794969900.0,
-        "tag": null,
-        "first_seen": 1794992959.3515775
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 16:31:01",
+  "updated_at": "2026-11-19 16:39:09",
   "yields": [
     {
       "label": "3년",
