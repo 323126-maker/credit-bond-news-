@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaE9xcGY1Tk1GRXFlUjNhV1JXMzJ3QjIweEdXVUhGLVhCcGdWdkppVlRrcFhsakpXTXIyT3R5aWV4dmt0a2NBLTZ0NEl1OXR4QUU2TVdGTjFDOWVycVVjYXFpQ3FPeUVkYndDWjhaQlU3QVlNY1ZIRDFXeE5oSl9EY3dJYWhveWJFWmVpWHVseS0tdGM?oc=5",
+        "headline": "CoreWeave's McBee says GPUs beat buying back its 15% yield debt",
+        "summary": "",
+        "source": "Startup Fortune",
+        "published": "11/19 11:25",
+        "published_ts": 1795055122.0,
+        "tag": "Global",
+        "first_seen": 1795056326.5232532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96QjJSbEVjRzFZcHhIclZnci1DWVN5b2x3bFJraHBkSldnS0U2ZDNTOE5jbk41NnhwYlYwQ1FZUFlLekR5VDdyRkpVX2NTWmtVWmFqeWl5WUY?oc=5",
         "headline": "Japan bond yields surge to 3.75%, hiding a quiet Bitcoin trap",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795000438.0,
         "tag": "Global",
         "first_seen": 1795006844.2548487
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-        "headline": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "11/18 20:06",
-        "published_ts": 1794999972.0,
-        "tag": "Global",
-        "first_seen": 1795005931.4687316
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 11:31:06",
+  "updated_at": "2026-11-19 11:45:51",
   "yields": [
     {
       "label": "3년",
