@@ -52,6 +52,16 @@
         "first_seen": 1795080636.0608904
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1tcmpnRUdqTUREV1dwSEgxTk0yMk5jNEJvTWpEWThGWUZkckRZZVFTd04xRnNSa1NNYzlJTGtjbWZra0tUSmNjSFZCbDFVc2ZMa21jSUR6UUdrUzkzaGtNYk15dzRYaHREcWwtV2hKbW4?oc=5",
+        "headline": "교직원공제회, 9월 말 운용수익률 8.9%…주식·채권 13.5%",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/19 15:46",
+        "published_ts": 1795070810.0,
+        "tag": null,
+        "first_seen": 1795091446.1200528
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KNWJjcEgxUW9iTmQzN1g1cjNhZ2JhOVY0bGFsdmR1WWRJbUZvWXhKX3RzQ3ZHUGZpT2tCN1pXQjRCTGNPNUVMWXNhaU05SlE4MWc?oc=5",
         "headline": "증시·금리 불안에 MMF '역대최대' 300조 육박…반도체머니도",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1794974561.0,
         "tag": null,
         "first_seen": 1795019450.2695704
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX1djX3pBc04tbjJ6c3lRcGtvMG9lOVc4YnVLbEdkU3RZSTNhS00xQ0ZTNmZmU0h4Zy1fcTByZUo5bnljemdxVmZOUG9Qak5zUVM5SDVvUjYwcndWYW1IMm8yVmhGeVZzekhSTnRKMG5CcDM4RnNqTG91cDduX0g2Xw?oc=5",
-        "headline": "[37th SRE][기고]2027년은 기회의 해",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/18 13:00",
-        "published_ts": 1794974454.0,
-        "tag": null,
-        "first_seen": 1794975331.9870431
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY1FldjdFN0pCaGV2VWFaMGp6NEh6RUFNaG5icWxBeDgyclZIbzlZd0s3ajNqRGQxMGFpLUFJWDY1Nl9ZdDR4NDZqOUhCSlJWNlM5Y2xsaEhKbE42V2xpQ0Q2Sjl1c3E5b1h1ZGlXaW9yUEdFbmRTQzJNa3BFNEN3SHNISjdsMC1jU3hGeDNhWHXSAZABQVVfeXFMTmNRZXY3RTdKQmhldlVhWjBqejRIekVBTWhuYnFsQXg4MnJWSG85WXdLN2ozakRkMTBhaS1BSVg2NTZfWXQ0eDQ2ajlIQkpSVjZTOWNsbGhISmxONldsaUNENko5dXNxOW9YdWRpV2lvclBHRW5kU0MyTWtwRTRDd0hzSEo3bDAtY1N4RngzYVh1?oc=5",
+        "headline": "Japan 10-year bond yield drops to 2.855% | Tap to know more | Inshorts",
+        "summary": "",
+        "source": "Inshorts",
+        "published": "11/19 20:28",
+        "published_ts": 1795087726.0,
+        "tag": "JGB",
+        "first_seen": 1795091446.1200528
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUk9HUTNMVXI5RTUwSTBXeVZ4NnJFaFNXR0VCeEt0X053YW0tcENUVXJraW9nM3BOa3d3WDM4aEd3MVd5QVJQWm83d052cF93b1dhT1JtdFpCZjdueGRCSHhFanB5ZEtKSGZYNzdXMEhRM0gtanJZQW01VnBVT0thQy0xZDdlTXI1UEd3cy1WSHlkMFpMcXNESzhJcWhyeHNSdWxqSE1SRVMtSmhGSUhFWGVzSDJJUktieW1HZnVKbmV5bmtWeVQ4?oc=5",
         "headline": "Navigating global high yield through a systematic ETF approach",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "Kitco",
         "published": "11/19 03:22",
         "published_ts": 1795026169.0,
-        "tag": "Global",
-        "first_seen": 1795046442.395778
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9hUVAyNFlBRy1sOE1KUXNHMERjR1NZR2V5RjlhekpjdW5pOEQ5U2hReTZiZWQ5RTFrRTBBU210Uk9YczNfaFhRb3F0ZDJiMGhka2p4a1FBek1ldWwz?oc=5",
-        "headline": "The US Dollar Index recovers \"Liberation Day\" losses as Federal Reserve rate-hike expectations continue to build.",
-        "summary": "",
-        "source": "深潮TechFlow",
-        "published": "11/19 02:55",
-        "published_ts": 1795024504.0,
         "tag": "Global",
         "first_seen": 1795046442.395778
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-19 21:15:47",
+  "updated_at": "2026-11-19 21:31:06",
   "yields": [
     {
       "label": "3년",
