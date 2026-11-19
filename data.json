@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZkRiLTBTcExsclpRM2dTU05kRGx6SklUcDVqMEhlVmg0a1JWcGgyVHNEdnlKWWZqWXNscFptYThlVEZ3amRVSjdEWHhoTFNfbG80c3ZoLVdWeVFMeEJTRkZuUWdBNUJoT2U0aUY0RC1iQXVrSUhERGoydzhQYjNwb3NlRktNRHZNZ3dOWHlyV2YtVW01amRab3NYd01FN1hxVDhR?oc=5",
+        "headline": "T. ROWE PRICE EXPANDS CAPITAL APPRECIATION SUITE WITH NEW FIXED INCOME EXCHANGE TRADED FUND",
+        "summary": "",
+        "source": "Quantisnow",
+        "published": "11/20 00:10",
+        "published_ts": 1795101040.0,
+        "tag": "Global",
+        "first_seen": 1795101328.4961393
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZWpkNVdWSGRsYU5qbDdLOVFRajROYlRhUmpFUnh3bHVhU3pJWHdRQy1IbG9sejhaWEZicmF2YjhuYWdaVFlzUnhzSzZNTlY5TnpDSTZyakYxTkIzRXFITGpsczBVRmQ3RWZxem5oNHJENjNrOEc0SXdrbGg4X0Q3RFJJQ2NOYTFoUGZEZ2QyZUViY3NadkVrUjhfM190cDgwUE5IbzZWc01mYnV1d3c?oc=5",
+        "headline": "2026 Semiconductor Stock Selloff: The Long-Term Outlook",
+        "summary": "",
+        "source": "VanEck",
+        "published": "11/19 23:04",
+        "published_ts": 1795097054.0,
+        "tag": "Global",
+        "first_seen": 1795101328.4961393
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUXY2VWdlS1F1amhzdkVlSUlNeUJiS3FhQUdwNHJOMEtzNGxSaHItY2Z5SzVYOGJNNUJwdWNpUkxQYnJ6WVBYcWlJZTVTLUVVZUVfZkVlVWNFYU40djNrZ0d3YzdCMHJ4WGNiMmtQQk54X1JpM1V2bHRHMUFZVUFxMEdVdHZ0V2JVcEdsVWZJbDZKTmpBbFk1cWhWeng?oc=5",
         "headline": "Unless you’re building a data center or have a side hustle, you’re significantly worse off than last year, according to the Fed",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795045200.0,
         "tag": "JGB",
         "first_seen": 1795099535.185075
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQVI1LVVoeHJ0SVhCdkluZ2tiSnA5NmcxcVlkR2FCQVVVdW1tUEktbXNZcXdOMXR4U1c2X0pONDk1NW5YWEt6SWhKRndUQkRfekk1Y1FtTS03YTZPWlgySmRyNnFaWE8xRFZhTU1tMEVsQWRYTUhkOW9Db3g3V3RaWjcxSThKUV9sa29CSkxWVmg3SDBsbUlyVHlDSjhvYktmNHZRbUVwaC1ub2xRSDhlNTdwaWRINlhGMUx1NkVxQ2Raa0NFLTJsM2tTYi1rek5QaDJmdnktMzJBYzlSNkVhWg?oc=5",
-        "headline": "Federal Reserve policymakers concerned about financial system risks, minutes show",
-        "summary": "",
-        "source": "The Business Times",
-        "published": "11/19 07:20",
-        "published_ts": 1795040400.0,
-        "tag": "Fed",
-        "first_seen": 1795041034.8636215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vRmhIbVlRZWQwUzRYX3ZtQklZNVFxWHNGVXFXa2F4ei1JNzJLU1M5bnk3Rk1RMVQxNDdnMDVpbkp2UEtiM1NwOWI3dUFPMmU4UVFUNVlHckt0LUtMdGs4R3hLRF9qTTJPeXc?oc=5",
-        "headline": "원화는 강세, 엔화는 약세··· 두 통화는 왜 갈라섰나",
-        "summary": "",
-        "source": "시사IN",
-        "published": "11/19 07:05",
-        "published_ts": 1795039544.0,
-        "tag": "JGB",
-        "first_seen": 1795044639.0482178
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 00:01:10",
+  "updated_at": "2026-11-20 00:15:53",
   "yields": [
     {
       "label": "3년",
