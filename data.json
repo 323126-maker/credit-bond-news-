@@ -92,6 +92,16 @@
         "first_seen": 1795168838.8186324
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1xQkVTbk9GVFhYdEtPYUc2RDVmRjRUaU1KTTh6VGh6R3ZrT05ObU1BSW9Xb2tpLVhGdGZKWklFNFBTVzFsLVBKbjhxeWFOVUpQSW5J?oc=5",
+        "headline": "外人, 10월 증권 18.6조 회수…주식 팔고 채권 샀다",
+        "summary": "",
+        "source": "경제타임스",
+        "published": "11/20 13:05",
+        "published_ts": 1795147538.0,
+        "tag": null,
+        "first_seen": 1795170636.448917
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13MUNQUFREVDYwZUlKM2FGaE5VUTY4WWtWdjdkMS10VDB3VUt6NDk1ZjlRcHkyNm14QVoxNTdUZXVHdElIMXNxSTRFQQ?oc=5",
         "headline": "채권시장 강세 이어져…3년물 금리 4.7bp 하락 : 금융",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795070810.0,
         "tag": null,
         "first_seen": 1795091446.1200528
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9KNWJjcEgxUW9iTmQzN1g1cjNhZ2JhOVY0bGFsdmR1WWRJbUZvWXhKX3RzQ3ZHUGZpT2tCN1pXQjRCTGNPNUVMWXNhaU05SlE4MWc?oc=5",
-        "headline": "증시·금리 불안에 MMF '역대최대' 300조 육박…반도체머니도",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "11/19 14:33",
-        "published_ts": 1795066396.0,
-        "tag": null,
-        "first_seen": 1795068928.3343706
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 19:15:45",
+  "updated_at": "2026-11-20 19:30:59",
   "yields": [
     {
       "label": "3년",
