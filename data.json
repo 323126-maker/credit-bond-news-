@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTRIWGpFZDk4T1pEdERkdlRDS3dLSkIxajNHQkpxTTA5YmEtYldyUGdOZFhzZzB2dkxUQzFmdVcwTU9FYXI2eTd2NnlYWS1ON0V2NVVBX05GTEdxeWp1dEhOOFctOWc2aGRpN0NuVjhXZmc2YloxdlBhNTBJZk1YNXlfeXZ4RFFNWTdfU25zazBaMHViSWI1cWZHeGs3Nkg5T2NUb251eHQ?oc=5",
+        "headline": "Why did Anthropic’s IPO fail to boost the AI trade, and what comes next?",
+        "summary": "",
+        "source": "Invezz",
+        "published": "11/20 19:34",
+        "published_ts": 1795170860.0,
+        "tag": "Strategist",
+        "first_seen": 1795171527.918162
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSnVhMkIzWDRGaWFIWktfczZyZnQ2ZFZVTzMwT181dkhCOFRtdGJucXpZTVV0cVRCOFV2OFpSRXp0V242YXp5MUpsWkZoNDdCbkVyRWlsZnRDeVhrcFk2MldiVE4tWVZpZDdjTnA2Q3lxd3o3bnFmOGpTb0p1Q2tyaDdjRDBSYkdyb3ctOEF1S2F1cUxobnM0LXRR?oc=5",
+        "headline": "Japan's bank shares slide even as Ueda vows more rate rises",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/20 18:51",
+        "published_ts": 1795168283.0,
+        "tag": "JGB",
+        "first_seen": 1795171527.918162
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOG1IS05pTVFpdHhXS25CZWRGOGsyQW1HNHk5WjZpd1BscWozWmxqNG9aZVg2b3MyMnpSRU5yNGExMHh5bXM3enhPNVpjVHZrUzEwSkdNdktwbnNwTmZRUXJmS0VMZ0o4NmsyMEdpVU5nSFhaSlE?oc=5",
         "headline": "US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795123385.0,
         "tag": "Global",
         "first_seen": 1795168838.8186324
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTFBxa3FZNlMxSEp4R2lYS1UxWTl5LWs4Ykw3NC13OERHSjFIcEVJNU5Bb3ZoS216WUZaeWZB?oc=5",
-        "headline": "Gold Down, Silver Down: No Reason To Panic",
-        "summary": "",
-        "source": "Howl.Link",
-        "published": "11/20 06:03",
-        "published_ts": 1795122180.0,
-        "tag": "Strategist",
-        "first_seen": 1795129240.3724334
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTkxieVRmNXlDQTlrTjd5eHZWUThQZFR0U3NUeXVnMlY1dFVwdmpaVFl5aVo3REh2ZVhEOW1Bd28zdVZla29KMllCeVhBZzd5SWszbW1EOEkzc0FkMGJwX1hYeUhaaWFHZ1g1Z09ZNjZ2V21CS3V0dEw1S2RjOXR1X2tmaUxOclNWbXZ6N3d6VmZOUi1OYXJ0dmhxa0tmRV9hRmN0WXAtVDFISnZ6Sk1EY01NUEpYRFZQOUN3eG1nYXNZRFE0XzFtbjctSEZUSmNu?oc=5",
-        "headline": "Bitcoin price ignores Anthropic debut as ANT share price dips below $100",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/20 03:06",
-        "published_ts": 1795111610.0,
-        "tag": "Strategist",
-        "first_seen": 1795113936.8915505
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 19:30:59",
+  "updated_at": "2026-11-20 19:45:50",
   "yields": [
     {
       "label": "3년",
@@ -2521,33 +2521,6 @@
         4.086,
         4.06,
         4.024
-      ]
-    },
-    {
-      "label": "30년",
-      "value": 4.0,
-      "chg_bp": -3.1,
-      "series": [
-        4.171,
-        4.151,
-        4.221,
-        4.212,
-        4.124,
-        4.131,
-        4.089,
-        4.053,
-        3.998,
-        3.971,
-        3.977,
-        3.959,
-        4.015,
-        4.015,
-        4.074,
-        4.05,
-        4.055,
-        4.06,
-        4.031,
-        4.0
       ]
     }
   ]
