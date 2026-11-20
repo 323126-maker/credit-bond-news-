@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5TSmduVnBTNTR2aXRlcEFFbXhKOFNCWTlxZFdkQjNxM3dGRUE4dXdiRzZ1dG5YU1RLMjJiMzlQbmdkRC16VmRrcm5JZW80V2k3UVdJaWtmX1dxNXY1SklLVFBOdjc?oc=5",
+        "headline": "TradFi News | Global Stocks Post Longest Losing Streak Since 2023 as AI Selloff Pushes Emerging Markets Into Bear Territory",
+        "summary": "",
+        "source": "Binance",
+        "published": "11/21 01:48",
+        "published_ts": 1795193330.0,
+        "tag": "Global",
+        "first_seen": 1795194042.1064909
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNxX2phSE9oamJzRXBONTd2TkdlSW9ONUdBUEJkZ2V6eEdBNV83LXE2VWxnMWVRdmRnMG1NUXoxS2RfOHp5c2p2b0cyejZsbkVsRC1fSmpQSVFPOXV1NzRZaXBrbUpGdng5YURURVI0WFVlbjZaVFVoRmZyUk53cW9BVV9IYmpTRW4zWTBnZzFRb0VsNUE?oc=5",
         "headline": "Lazard’s New ETF Targets Monthly Income With Junk Bonds",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795160678.0,
         "tag": "Strategist",
         "first_seen": 1795161641.1516612
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMmpXdkVjTzE3a2E4Z0xSVFpHTW1ycl9JZ0IwT29nb3F0LUd3ekhTb2c1TUJNVEdXWGF4ekhLNmF5MkNwQm0yMTVDcTI5T1ZORVBNeFZ0VWpQQTFQRXU4cjNIdW9Bam1pMEo4S21RVjM2dC03UXRESlF5QVZmZ3AyckZnVW9rQVZtemltbVpIWHVRbElrWXk3YzBQUS1iS05mUkdicXY4b202dDhfUmdwRFJDUHdhNFV0dWp4ZjJXZ2ZCQ0RWM3BmUTNrcDNOVXZpZ1c4ZQ?oc=5",
-        "headline": "Gold heads for its worst week in eight months as the dollar nears a 19-month high and bond yields fall on the AI rout",
-        "summary": "",
-        "source": "MLQ.ai",
-        "published": "11/20 15:58",
-        "published_ts": 1795157918.0,
-        "tag": "JGB",
-        "first_seen": 1795160726.22952
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 01:45:49",
+  "updated_at": "2026-11-21 02:01:07",
   "yields": [
     {
       "label": "3년",
