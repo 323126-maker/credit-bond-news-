@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YNHJ2MUNMb2ZFSFRmdklxWWwzUnlYN3BBNUcxUkVadXVpSXBPc3lzc0xna1IyOHRuRm5hdXhGa0NIaWQxZGFLN2hPMVY4cXI0c0hheGZqblNWT2_SAWBBVV95cUxOQURYOUllSmJRLXRFM3ZaSFpXQjlEbkNZZTRfbk5wdEluZFlkY1hBLS1pSlhLLUZsVk1DSXR3WG5WU2VxX3lmOVRwS1Bra2xrSnFMc0xvOFhKYXBoSEdwSGs?oc=5",
+        "headline": "알파벳, 캐나다서 회사채 발행해 5조6천억원 조달",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/20 09:51",
+        "published_ts": 1795135912.0,
+        "tag": null,
+        "first_seen": 1795136440.2072186
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qQmFZTk84NFlJRHFoT05xSG9DczJXenpEQnRHLXZhMk13cmlxeWhMMTBSWmdEeW1TN3c1cFozRlpQR3RBeDlTdnl4XzNvZ2dHb20xVFdZMk05RWZsaVBMVERaRDVVSEVlZ2FUek40T2I?oc=5",
         "headline": "[외환] 계속되는 강달러…1,330원 중반대 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795036388.0,
         "tag": null,
         "first_seen": 1795054525.5863643
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9xTFBvVGZuZ2hXU2tnalhqcjFVZDhwX1kwblFHVU1TZHQ3eE5PaElBclhOb3F3OFhfVkcyUmEwRldEZmRvUDgzTHVsU01LMEpCamp4dUpqdVdpYVIwS2xDVHBhMzRmQ25xMTRRYW1fXy0?oc=5",
-        "headline": "美 국채, 안전 선호 우위…월러 '빅스텝론'엔 무덤덤",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/19 01:51",
-        "published_ts": 1795020661.0,
-        "tag": null,
-        "first_seen": 1795105835.1165907
       }
     ],
     "perpetual": [
@@ -462,6 +462,16 @@
         "published_ts": 1795039980.0,
         "tag": null,
         "first_seen": 1795064442.017698
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1SZWxGckRMZFI2LUVPUkJ4TXF0ZmFXQjMtelZ1dEYzN2Jsdl9fRFY1WDI5SjdSc3U2eGZXWnE3OVRqTGFJRkhCSHpHX2t1ckU?oc=5",
+        "headline": "[GS글로벌 톺아보기] GS엔텍, 모회사 지원 아래 1000억 조달…정상화 분수령",
+        "summary": "",
+        "source": "딜사이트",
+        "published": "11/19 07:00",
+        "published_ts": 1795039200.0,
+        "tag": null,
+        "first_seen": 1795136440.2072186
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5qdTZ0V3BuQ0lpenVGZXhIUmtmam9TRkFnUnNaT0Y1SzVfbnhvU25rMjg2Qko5d2VxZVFCblVjVzRKLUFGaXoyNnNhdmtJX0hRLWw1QU8xNFRDc0pLMFJ6UHd2djFlOFNLNXRXX0F30gFyQVVfeXFMTUNGbkNJQlFEc1FqazhrY3hRMThmRVdrNm52REZKM0o2eTkzdUpFZEd1S0pqVnJoM1ZaOFFGQ3N5aFVDLW1vcE5lckFlblR1S0JMYkxvSXdYZzdUMElWWlZqNWxlWTdVOVVoajk3Y3RxUkpB?oc=5",
@@ -792,16 +802,6 @@
         "published_ts": 1794866620.0,
         "tag": null,
         "first_seen": 1794870042.3163254
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ZTTBjbkJBakMtc2ZTaDh4aGhhRjh4V1dBM1ViM0lFQlpTXzJsdWhhN2xTZ21BeGtWV0FqZnBvMzJQUi1pazhFRFR4Nkc0V3RWLVF0SkNKNEFtUWR4SDZFWUdRUXRTckJt?oc=5",
-        "headline": "우리투자증권, 고금리 속 '공모채 발행' 조달구조 다변화",
-        "summary": "",
-        "source": "FETV",
-        "published": "11/17 07:00",
-        "published_ts": 1794866400.0,
-        "tag": null,
-        "first_seen": 1794867342.0105882
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 09:45:46",
+  "updated_at": "2026-11-20 10:01:04",
   "yields": [
     {
       "label": "3년",
