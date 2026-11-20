@@ -12,6 +12,16 @@
         "first_seen": 1795179645.3742023
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9zN00zQlA0TUR1czBkWlRhMV82cThYTk1xRmtFQmhZREJkM0t0OFNxQ0YxbDh5bFFVOXdpeVQxTHhnd2tKSkl3YXctZmlXanZHQUhtVlAyS2RxT3BsVnlRa0VUeDNWS1Z4bk1aWmo1QkE?oc=5",
+        "headline": "[외환-마감] 주식 폭락에도 환율은 '태풍의 눈'…1,330원대 중후반",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/20 18:27",
+        "published_ts": 1795166847.0,
+        "tag": null,
+        "first_seen": 1795185038.6318345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zS0dobGw3LXNuWFY0Zzk4cUhfVHl2djIzMmpHLUpfZkRlVUotMmw2dW15UnhnZjM2YmttbDdjdmoyM194elh2WmNMV1l1OVk5cVVpcFBMbEw1QlJnQnczdDhlbWEzdlV3akhfQ1QzNkRyWlE?oc=5",
         "headline": "RFP만 쌓이고 돈은 안 풀렸다…16bp 벌어진 회사채, 기관 집행은 내년으로",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795077120.0,
         "tag": null,
         "first_seen": 1795140040.5210843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9icTZnLTN0dzNEdlkyZWoxcDQ3bDBxY0tVZWp4OEVVMWZWbjdLZkpsb09Jb1hnNGJEXzlySlpKVG9ZdHFoR1JsVXZLNGgxSU5qLS04UkUxNFB4NWo0a201aXNELVd4TmdObDZZS0NRb1I2Zw?oc=5",
-        "headline": "재경부, 11월 국고채 모집방식 비경쟁인수 발행 미실시",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/19 17:02",
-        "published_ts": 1795075364.0,
-        "tag": null,
-        "first_seen": 1795133725.1941473
       }
     ],
     "perpetual": [
@@ -1740,6 +1740,16 @@
         "first_seen": 1795171527.918162
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPNTQyUzZMd1owWF9Lek1hbDY5WGV5NzB5U1RROWJUaDZLX2djODlpN1BFSWZISTdFRlU2MGR3UUxHNXA2MVBVS2VmWnltUTJyLVpueXdGcEN2ZzBSTS1NLXVISXduWF90NEpLajB1MDJtWi1CMk8zLWxtTWd1aFVvNWpoaHIybVdMTFFjcWxHRTZkNlBJNm1keWNvX3BXN3FqQTZraTc3UWJ6UHlGb1NLTWNDLWY2cU5TRWxuSXBPMzRhcFZnX05IU1ZFMWdEbVg3bDdLeHpKVEJENDFlVEMzcjlBSDU?oc=5",
+        "headline": "일본 엔화 소폭 상승…CPI 발표로 일본은행 12월 금리 인상 기대 강화",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/20 18:37",
+        "published_ts": 1795167449.0,
+        "tag": "JGB",
+        "first_seen": 1795185038.6318345
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOG1IS05pTVFpdHhXS25CZWRGOGsyQW1HNHk5WjZpd1BscWozWmxqNG9aZVg2b3MyMnpSRU5yNGExMHh5bXM3enhPNVpjVHZrUzEwSkdNdktwbnNwTmZRUXJmS0VMZ0o4NmsyMEdpVU5nSFhaSlE?oc=5",
         "headline": "US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795141321.0,
         "tag": "JGB",
         "first_seen": 1795153523.7429292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5uYlBtb1Y2ME9iV0xRZS01cWFpRGNnS1MwNlpValVLcGhDOGw5cGdnOWZkeTVDZVRab0pQTTBtQXZxVkh3aXg3Tm1CUVZPLS11RzNRRHNGV0I4SXl0R3NFakRpb0FzZkxWbjU3dDlKRWFocTQ?oc=5",
-        "headline": "日 10월 CPI 2.2%↑…12월 금리 인상 가능성 커져",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/20 11:14",
-        "published_ts": 1795140895.0,
-        "tag": "JGB",
-        "first_seen": 1795149033.4620821
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 23:15:58",
+  "updated_at": "2026-11-20 23:31:01",
   "yields": [
     {
       "label": "3년",
