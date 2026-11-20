@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE13MUNQUFREVDYwZUlKM2FGaE5VUTY4WWtWdjdkMS10VDB3VUt6NDk1ZjlRcHkyNm14QVoxNTdUZXVHdElIMXNxSTRFQQ?oc=5",
+        "headline": "채권시장 강세 이어져…3년물 금리 4.7bp 하락 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/20 12:06",
+        "published_ts": 1795143966.0,
+        "tag": null,
+        "first_seen": 1795146333.7127633
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydkp0TUhPU0JRTXhqWlhaZWhqNkJDbjlnMnN6QUYwNGJZTHNIVEJDNmFhcDNjR3BmUFBjU1E2eXBlMldqWDlteENiZE9DUnpHcXk5VjV1T1hCR0FxeExhZGludE9RU0dWQUVn?oc=5",
         "headline": "알파벳 5.6조원 캐나다채 조달…美 달러 쏠림 피한다",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795044900.0,
         "tag": null,
         "first_seen": 1795048235.979384
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XMFg3MF9QSVp6T1RhRHJFYUZtSXhXa1Rja3doZk50MHRxMkowdWQyckFrTDhVcFlSR3FHT2wtZ1FBT0dtUmR3SUxWNzUyalZYZGhLZW5VVzhlRk80TFl3VEd3?oc=5",
-        "headline": "IIT 재정 전망 하향 조정… 학생 수 감소•부채 부담 가중",
-        "summary": "",
-        "source": "미주중앙일보",
-        "published": "11/19 08:22",
-        "published_ts": 1795044120.0,
-        "tag": null,
-        "first_seen": 1795142735.1821728
       }
     ],
     "perpetual": [
@@ -1660,6 +1660,16 @@
         "first_seen": 1795142735.1821728
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVU9DZ2JhV3U3WjQ0S3h5NWNkNzFZekU4aDMwRXJJU0VCOGpjS0tZRFdzUHdpV2dDcmxfSmxrV1JmSlo3bzIxSXhNd1A0UjJZbVBJeFc5NEdEY3BMaEs4cEM2YmVnOUo3MzVDSmtFc0hmR0M4UzYtc2lKUndrR0V4RDNlSnFCbEt6R242ZVlNalB2U09PQnFnZTNrR2tINEZTUWZ5cHZxcEg1RUtXTGhwOFRmQlpWUGVwMVA3eGhyRUhZWk02dXM1QkVXMGwzdDg3aHN5MHlxNkQ3Mk1idVE4Y3JUVHF6eFpoblVLeGptdDJvRnF2dnNBcFJMX3FTdXRPenZMODhB?oc=5",
+        "headline": "All Eyes On Kevin Warsh’s Jackson Hole Speech As Bond Market Shrugs Off Buyback Support From Treasury Last Week",
+        "summary": "",
+        "source": "Stocktwits",
+        "published": "11/20 09:44",
+        "published_ts": 1795135473.0,
+        "tag": "Strategist",
+        "first_seen": 1795146333.7127633
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ObVVyZnAzMHRnaFBhUlhZdXpET1ZJV1NhNFFkeEVUdnJiMy1HM3NnbzRXeVV3MHNtckl2T2NiTTBrcjE0cUlBYlJGYldBNlE4d2dURUEwZTBBTjI1dl9Bd1lLT2o1U0VVVU5IRzJZdnFUcks5bVlMNQ?oc=5",
         "headline": "Fed's Paulson backs further rate hikes, says shared understanding beats guidance",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795087134.0,
         "tag": "Global",
         "first_seen": 1795105835.1165907
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcWN3eGt5Z0lCXzRpUU1JOVJHMmF5RmZhQXE2YXFwYlR4dzBpYTZFM2xBdEtMY09iRmJJcHd2eGxnN0ZkclNEWWlBVUhmWVdYZktSYUF2M1c5QVhCS0ZVTDNHNjNuSFFYSHdoYnp4M0ZrNHN2MXRwb25vWmZxLUhQZ09vWHlaWWgwODV2Xw?oc=5",
-        "headline": "NMR: SEC Form 6-K filed by Nomura Holdings Inc ADR",
-        "summary": "",
-        "source": "Quantisnow",
-        "published": "11/19 20:15",
-        "published_ts": 1795086911.0,
-        "tag": "Global",
-        "first_seen": 1795130126.6098258
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 12:30:56",
+  "updated_at": "2026-11-20 12:46:04",
   "yields": [
     {
       "label": "3년",
