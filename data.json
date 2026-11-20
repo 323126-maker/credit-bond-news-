@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FdG15S3NFdzVOakFLRGRNSHdKTGw5bXZNc3dNVkw3dm1DOUpyRzl3ZUFET3FTSy1qM2xPNUY4Q3FpSHhZcFRIQ1hQZnU3ak9SeXdfNWZYLTZrZkU4VGdxeGJOMTFBQl84dUNOOXRtUjVkLTN4?oc=5",
+        "headline": "[채권마감] 3년금리 10일만 3.6%대 재진입, 증시 불안에 안전선호",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/20 17:27",
+        "published_ts": 1795163220.0,
+        "tag": null,
+        "first_seen": 1795163435.890338
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5WSnRkOHFLWXZOUmg5UXppYktGMmt4T1NRQTdkaDA5SVBrQmxvWk5fVU81UHp6eUNiZU4wM18wNzU0TE9qRDBNTVRsMTlINFNjNXdqanVCdmpST2puLUNJeG1xX1hMZ0I4WW5R?oc=5",
         "headline": "LG화학, 신용등급 'AA'로 강등…35조 빚더미에 中 공급과잉 이중고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795054203.0,
         "tag": null,
         "first_seen": 1795054525.5863643
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMWZsY0FkQ0Y4a3BlcGhtc0V6LU1yMXNIaVBtTmlJckhjMWZ5VDY1QlJRZEY2YmtNTko2MlRhcFBMSGRzVGlQS2w4ekRjVTFqcWVUeS1TRGtqbm9kUHJIb1otdWVqNklLZllvazFwbXU3QQ?oc=5",
-        "headline": "[2027 증시전망] SK證 \"코스피 목표 8,800P…AI생산성 개선시 1만피\"",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/19 11:04",
-        "published_ts": 1795053872.0,
-        "tag": null,
-        "first_seen": 1795137329.0738919
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 17:15:46",
+  "updated_at": "2026-11-20 17:30:56",
   "yields": [
     {
       "label": "3년",
