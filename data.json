@@ -32,6 +32,16 @@
         "first_seen": 1795166126.9208355
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUVNybkY1REd2MVdXYnp6aVlwRXJray1kSENBMG5tTllNTDVScXVVSjQ2dlNBdlA0Ukl0RjM2SUF1TnFjekhsNTFSNEFJOVA2N1ZEZXM3LU9ZcE1rUEZleC04dk12N25nQlZOWEczcDMtdw?oc=5",
+        "headline": "[채권-마감] 주가 조정에 금리 급락…국고 3년·10년 3.7%·3.9% 하회",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/20 16:55",
+        "published_ts": 1795161341.0,
+        "tag": null,
+        "first_seen": 1795167035.3833516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBNanBYNkw1SEpFOV9uMURqdnkyVWRDalI0VU82SjVVTlJFSU1FUVpxR1VJRWdhY001Q3BYd2RmNXhzNE9mbExneGlzWjladFg2MXJacG5tQjJhYVBlTXZiZ2tvQW95Y1RnWUl6OTF1NDRxZw?oc=5",
         "headline": "[도쿄증시-마감] 닛케이, 앤트로픽발 기술주 매도에 4월 이후 종가 최저치",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795061734.0,
         "tag": null,
         "first_seen": 1795065328.020249
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9VRHlUT01tOUpaUXFCRzR0Qm1CZG1HTWdiUS0wWEc5Ny1MYndLbnJ0aUZ1S1UxcnFUVFBKZlZNdGVqazF3NzNvcUp3MA?oc=5",
-        "headline": "채권시장 안정세…10년물 금리 1.9bp 내려 : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/19 12:01",
-        "published_ts": 1795057293.0,
-        "tag": null,
-        "first_seen": 1795059924.1688883
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUkpZUzJvVnR6Y0VQQnh3SzhJOUFnRFloY2RrR0E5Y01oMVhpcHZiSlBBMlhvR0Vwa0Z6Rnc4R1lRcnJVUUFEenQ0VWktTkw3LUs2VmlVaXg0N0JUdDFiVlRwcF9WbWh3OTZ0ZS1qNDB2TkJLaDF1QUVWNHVYeExTekVGanc0X3BfWDNtNTVIT1lneFNk?oc=5",
+        "headline": "Bond Sales Hit €2 Trillion Europe Record as AI Surge Takes Hold",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/20 17:30",
+        "published_ts": 1795163446.0,
+        "tag": "Global",
+        "first_seen": 1795167035.3833516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSjRXV1V1em90UnZ6Y0h4UmU0bFZBLUFSR2llZEJRMVNFZzVJVi1LN3BRN2c0VUkyNUxfLUpNZnBZVnJPRWsyQm9lcGRKZnFSVTlyRWFGa3ZhSFlhSTljSHNheXJYOU9Gb3RBRXFCUmdOZGlDaVAxUWxGQkhTcEhBWl80cDRvWmk5bXlGSUhR?oc=5",
         "headline": "French Senate opens 2027 budget review as 49.3 looms",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795105751.0,
         "tag": "Global",
         "first_seen": 1795128328.4582107
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObVZwSTg4c0ZDNzdTSndsTjJLdHZQZHkxNW4zcXVrcTE3YnNSaHktbXZ0LXpveVRYVnBFTU1JaFBOQmNDR19GYkd6aW84a2dpOHNNU1VHQ3dHa014eUpGb1BKRVdrbEJLTE5lRUZpZDNOWnF4SkFRTUdCQjZZWG51UnFRUllrM29uR1ZTSWJNS0QySFFLU2lod2pfOGhCLWNwcm5kUHdJLXE4OEFsRG1LWW1oRQ?oc=5",
-        "headline": "Gold sell-off tests rally as stronger dollar and rate-hike fears weigh",
-        "summary": "",
-        "source": "thenational.co.za",
-        "published": "11/20 01:00",
-        "published_ts": 1795104000.0,
-        "tag": "Global",
-        "first_seen": 1795105835.1165907
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 18:15:49",
+  "updated_at": "2026-11-20 18:30:58",
   "yields": [
     {
       "label": "3년",
