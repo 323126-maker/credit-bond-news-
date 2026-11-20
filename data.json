@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNekF6X1VUVm5KTE5hU0RhalZsdlgtWm54ODQxeXVvQmVKSG11S3BSRk9TbXR3QTkyOXY0LVF6dktORXRTaXQwVEVPOURZSllRWk5wMXNMemViaU81YzhLRVM5UktXLVZVUVBKbjh2WUZiYTRYQ0RyVk5VZ1ZzdmFOeEFESVFVbVhGRzJMT3Vn?oc=5",
+        "headline": "BlackRock Inc (BLK) 주식 마감했습니다 하락 3.00%에 11월20일: 변동을 뒷받침하는 사실",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "11/21 06:17",
+        "published_ts": 1795209450.0,
+        "tag": null,
+        "first_seen": 1795210235.7177432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZ3p5SUFMQWRMYUVCdEdEWlN3bTgydUxpUTRkaDZVWkM5RmpDVVM1ZlZpdUJ0cUFDenhtVVQydHRObWhILUZMRDk5a283UC1wZE5mQWF4NlNIOGgwT2FSMHdEWVB1NlkxZG45TV9YOHo5alBZdy00OFc0V19JSkxYU1Npdmh1RjV0NUZuS3Y0QQ?oc=5",
         "headline": "[DCM 레이더] 업황 부진에 차입부담 지속…SK지오센트릭 발행 릴레이 : 네이버 블로그",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795086277.0,
         "tag": null,
         "first_seen": 1795090527.9076514
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5oT2xkWHItYmpfS2E2Qk4wSmNfMFpxYklPZUJabUlINlhRU3JRY3h4eEJ3M18tV1ZxS3FrdkVBM3RkbjBqYVFhWDJmV3c1TElYUW1xZG9DY3ZqSDFDX2xBNUxlTk9MN3o1NGR4UWNxWDQ?oc=5",
-        "headline": "[채권-마감] 外人 순매수·호주금리 급락에 강세…3년물 2bp↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/19 19:44",
-        "published_ts": 1795085052.0,
-        "tag": null,
-        "first_seen": 1795086044.151057
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KZ05SMEdTYUpVUzM4VFhyNEtsSDBrR1NqOHhjeVFkaTg3eWFENWlsMnlVb2JTcDJxM1FINHZsV1pnVzNCTWE5RFFmWU5sMHZQbEFSS0ZtOG9hXzhLQ1lMdnpVZk1EMVhrYWw5QnIxUjZfUnhnUFBucFln?oc=5",
+        "headline": "PragmaGO Raises PLN 83.2 Million as Corporate Bonds Hold Firm",
+        "summary": "",
+        "source": "CEO Magazyn",
+        "published": "11/21 04:32",
+        "published_ts": 1795203166.0,
+        "tag": "Global",
+        "first_seen": 1795210235.7177432
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcXlrMXRSSklDUVdOYXMwYnNBdk1PeXZpcVRwUFY4MDdfR0IzLXdZVGQzX1ZsbzViOXE0ZmdYSjVUWXB2QnY1bVdLMWRmUUx6d3NLUXZBVHl0M0Y4dkJtSnRIR0pjekFtRHJlMXd0X1pvZzZBeVhSNnRaUWJOVHczcU1RbUxQS1NEajhtSV80R0dqNWNZY3lxUGpjbjFmcXc3Z1lhSHhiV2RqNm9r?oc=5",
         "headline": "The Fed is too busy fighting inflation to rescue the stock market",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795172413.0,
         "tag": "Global",
         "first_seen": 1795181436.7553678
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdTRIWGpFZDk4T1pEdERkdlRDS3dLSkIxajNHQkpxTTA5YmEtYldyUGdOZFhzZzB2dkxUQzFmdVcwTU9FYXI2eTd2NnlYWS1ON0V2NVVBX05GTEdxeWp1dEhOOFctOWc2aGRpN0NuVjhXZmc2YloxdlBhNTBJZk1YNXlfeXZ4RFFNWTdfU25zazBaMHViSWI1cWZHeGs3Nkg5T2NUb251eHQ?oc=5",
-        "headline": "Why did Anthropic’s IPO fail to boost the AI trade, and what comes next?",
-        "summary": "",
-        "source": "Invezz",
-        "published": "11/20 19:34",
-        "published_ts": 1795170860.0,
-        "tag": "Strategist",
-        "first_seen": 1795171527.918162
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 06:15:51",
+  "updated_at": "2026-11-21 06:30:55",
   "yields": [
     {
       "label": "3년",
