@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBaS2QyMnlVUU9haG11alZJUTBucEpRTWczMHRTRVZxNlMzZ2syVE15Q05vODc2bjJVRTJrUjlKUl9HWkpXNThwY3lTUUJxbGFvekF4cVNnME94dDdPVnRIemhaX0gyMDQ?oc=5",
+        "headline": "[MMF역대최대] 한 달 새 28조 원 넘게 불어난 법인 자금… 금리·증시 불안 속 반도체 머니까지 몰린 이유",
+        "summary": "",
+        "source": "CBC뉴스",
+        "published": "11/20 08:55",
+        "published_ts": 1795132500.0,
+        "tag": null,
+        "first_seen": 1795132842.1883113
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBWdi13Uldvam1WZ2JDRjZYbE00RmhHcW1ic1VTeURzVDZQYl8yUVcyV0RmcnpON3BqclJpdk1QSjBzcW5rZHNsbHlyR3VkaUFmdi1JSmVaRnVWQXFrWnVKNFpibVctWWpqSzRvcGR2dzZjUQ?oc=5",
         "headline": "국채선물, 美 증시 급락에 상승…10년물 18틱↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795011817.0,
         "tag": null,
         "first_seen": 1795014927.1140692
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA4YUFIMkpGYjFkLXB6enhUUzZMWUFnVllfMWN2LWNPOENDSHRXOGZOMUNjLXhFSGpzYTdyV2FWMFVmd3V2ZDdiYWkyVW1jcklUeVF1RUJaeGJreVNuak5ZaEdNajFKaVZkeWVMVktrNlM?oc=5",
-        "headline": "신한투자증권 'Light 상품', 누적 판매액 5천억 돌파",
-        "summary": "",
-        "source": "코리아리포트",
-        "published": "11/18 22:24",
-        "published_ts": 1795008274.0,
-        "tag": null,
-        "first_seen": 1795027530.4402716
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 08:45:51",
+  "updated_at": "2026-11-20 09:01:07",
   "yields": [
     {
       "label": "3년",
