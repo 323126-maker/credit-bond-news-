@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydkp0TUhPU0JRTXhqWlhaZWhqNkJDbjlnMnN6QUYwNGJZTHNIVEJDNmFhcDNjR3BmUFBjU1E2eXBlMldqWDlteENiZE9DUnpHcXk5VjV1T1hCR0FxeExhZGludE9RU0dWQUVn?oc=5",
+        "headline": "알파벳 5.6조원 캐나다채 조달…美 달러 쏠림 피한다",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/20 10:45",
+        "published_ts": 1795139100.0,
+        "tag": null,
+        "first_seen": 1795144525.7451355
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5YNHJ2MUNMb2ZFSFRmdklxWWwzUnlYN3BBNUcxUkVadXVpSXBPc3lzc0xna1IyOHRuRm5hdXhGa0NIaWQxZGFLN2hPMVY4cXI0c0hheGZqblNWT2_SAWBBVV95cUxOQURYOUllSmJRLXRFM3ZaSFpXQjlEbkNZZTRfbk5wdEluZFlkY1hBLS1pSlhLLUZsVk1DSXR3WG5WU2VxX3lmOVRwS1Bra2xrSnFMc0xvOFhKYXBoSEdwSGs?oc=5",
         "headline": "알파벳, 캐나다서 회사채 발행해 5조6천억원 조달",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795044120.0,
         "tag": null,
         "first_seen": 1795142735.1821728
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hbF91NURzcDNmaGcwMncwOTdPNHlPVXVMLXlkM0d2MmhRS0NCYUx5em5QSS1BLVhkREw2aGxMZjlSN2dGOUZ1OTByWDJyX2ZYR0VRbFlxTlNwZ0k?oc=5",
-        "headline": "무디스, 엔비디아 신용등급 전망 ‘긍정적→안정적’ 하향｜Global Money Club",
-        "summary": "",
-        "source": "중앙일보",
-        "published": "11/19 08:08",
-        "published_ts": 1795043292.0,
-        "tag": null,
-        "first_seen": 1795043733.9448888
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 12:01:11",
+  "updated_at": "2026-11-20 12:15:49",
   "yields": [
     {
       "label": "3년",
