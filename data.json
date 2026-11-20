@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rN3RoVG5icWZKZG5kZXNhdklQX2tmVHNpSUJCNEZpWjZzazlVaUI1WFpWVUg4cGp1LTlvYmVFdUY5dmFTOHZ0U1ZudnFPMHZlSmpGQWJNcVVja2Ridkg5V05NSjU4czUxaDZwb211RVVJeknSAXNBVV95cUxPazd0aFRuYnFmSmRuZGVzYXZJUF9rZlRzaUlCQjRGaVo2c2s5VWlCNVhaVlVIOHBqdS05b2JlRXVGOXZhUzh2dFNWbnZxTzB2ZUpqRkFiTXFVY2tkYnZIOVdOTUo1OHM1MWg2cG9tdUVVSXpJ?oc=5",
+        "headline": "뉴욕에선...美국채금리 '뚝', 달러 '숨고르기', 엔화 '급절상'",
+        "summary": "",
+        "source": "초이스경제",
+        "published": "11/21 07:23",
+        "published_ts": 1795213425.0,
+        "tag": "JGB",
+        "first_seen": 1795216526.8846087
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1KZ05SMEdTYUpVUzM4VFhyNEtsSDBrR1NqOHhjeVFkaTg3eWFENWlsMnlVb2JTcDJxM1FINHZsV1pnVzNCTWE5RFFmWU5sMHZQbEFSS0ZtOG9hXzhLQ1lMdnpVZk1EMVhrYWw5QnIxUjZfUnhnUFBucFln?oc=5",
         "headline": "PragmaGO Raises PLN 83.2 Million as Corporate Bonds Hold Firm",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795174020.0,
         "tag": "Global",
         "first_seen": 1795188636.5603046
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNdE9jUmIyRHlFSHpUY2V1ODVfNnFvbTBOSUF6ejY1eFNzQVFyWERaSWJqb3RkYW0wQUtwZDBCMnJzWlJQbVVobkpwRGR6MW1iaFJ5SDVpVzM0a2NHWFZESmRUdDRFT1RGS2NUeUp6N3dwZWFiWVdIdTUwdUpIY3hLUVFfcjQ2a1N2a3JFS1hiaUFhS3NOSzhUcHd1a19iZnVmY1dlWmMxS25RQzBYZXg0NEFWTk1oUk40TEtQd3k4dmxmZ2tiRnJqcGV6cUhfNTl5Mjg4REVqU3htVWh1aTZKanE4Q1M?oc=5",
-        "headline": "Treasury Bills vs. High-Yield Savings: Which Actually Pays Retirees More After Taxes?",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "11/20 20:12",
-        "published_ts": 1795173120.0,
-        "tag": "Strategist",
-        "first_seen": 1795181436.7553678
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 08:01:08",
+  "updated_at": "2026-11-21 08:15:48",
   "yields": [
     {
       "label": "3년",
