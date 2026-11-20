@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWVRRRC1ESkVtRVZJU085MWVRVW80Sng4SnMtZFBsWEhIQ1VtNk1EalA1bEN3cVlobjBmb0kxanFkUkJhTkNyWmVMb3pXaFVYY1RXSlo5XzM1NVU4b3NuWFNpandyMnlWY2dwOXJHZERjS05nUVlCQ2JIT1VMOVcyTw?oc=5",
+        "headline": "Performance Insights - November 2026",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/21 03:43",
+        "published_ts": 1795200180.0,
+        "tag": "Global",
+        "first_seen": 1795200327.4769263
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcy1fREl3bW9EVFgyVk1rb2tZRlZnMGhyaUxqMU9EWVBXV1RNYTdjWjNuc1MzM1ZMTmRsd3BLWlZpWUJ2TktibHI0ZDFXaFI5ZnRpVkVzSjI3WXVCSTdLbkdZWW96S2Vha0NvVHFaVTQ3XzUzaU1UT0t2V0hYWm9ydkI2UG56YWZQMlBOcmI1dEUyUDUyX2ludmQ4MlVFdjY2aEoxRDBTTUItcTFUSGQ0UkU3R1dMZw?oc=5",
         "headline": "Argentina Hit Hard by Global Turmoil as Bonds Slip Into Distress",
         "summary": "",
@@ -1688,6 +1698,16 @@
         "published_ts": 1795193330.0,
         "tag": "Global",
         "first_seen": 1795194042.1064909
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdGRtWDVueFlmdS02ZXlBS3FJU01rQ2pUMVV2azJhZWhuMDlnMkt6ZEZqaWxVUUNYcUlVT2JvVTZZbFFGY0gwU05jaXRFMDc1RU9laGFOTU9EZEVERlpIeENWUm9IS3UtUmpMVFlzYVE3TnR1elBSempfN2l3MUEyRVE2LXRUTkhHWmcyLUw4ZTF3aFBZa1B4TEFLR0k1Z1M4?oc=5",
+        "headline": "Bitcoin Falls Below $77K as Fed's Warsh Delivers Hawkish Jackson Hole Speech",
+        "summary": "",
+        "source": "CoinMarketCap",
+        "published": "11/21 01:15",
+        "published_ts": 1795191348.0,
+        "tag": "Fed",
+        "first_seen": 1795200327.4769263
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNxX2phSE9oamJzRXBONTd2TkdlSW9ONUdBUEJkZ2V6eEdBNV83LXE2VWxnMWVRdmRnMG1NUXoxS2RfOHp5c2p2b0cyejZsbkVsRC1fSmpQSVFPOXV1NzRZaXBrbUpGdng5YURURVI0WFVlbjZaVFVoRmZyUk53cW9BVV9IYmpTRW4zWTBnZzFRb0VsNUE?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795166700.0,
         "tag": "Global",
         "first_seen": 1795168838.8186324
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQanpoM2llMG1ndEJWcjN6QTV3TmxqdzdRcU1BbEhiNS00N04xbTVQT1hVM01YU0NkanhVU0hrd0lhd19kRFhZZG1tUjhpRERHQjdtTGxob3RUV014N1JLNDVuMFZkRXdXcDBJTzRSckN0WktzQlBvaE40dnJTOVFPWXV1dUNPY3p4ME9RdFNNZU1nZXM4dlNPQkRpWnROWTBsQkxaV2VTXzV3ZkNiWmF2S21QZ0lJV05CSHc?oc=5",
-        "headline": "Euro zone bond yields fall as AI stock selloff boosts safe havens",
-        "summary": "",
-        "source": "marketscreener.com",
-        "published": "11/20 18:21",
-        "published_ts": 1795166500.0,
-        "tag": "Global",
-        "first_seen": 1795176927.3652568
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1mWEp4ZFQ3Mm5xVXBnajJySjJEYklOelVkT1VqUnEtLTRiM2sxaW5LRG1oLUlOT2ZwanRYWFRxNTVVTnhZcmhrZlNrN2t0Qkpvb21sX2MxRnFaZw?oc=5",
-        "headline": "인텔, 1.8나노급 파운드리 수주 [한경 프리미엄9 TODAY]",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/20 18:03",
-        "published_ts": 1795165412.0,
-        "tag": "Strategist",
-        "first_seen": 1795172442.6448212
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 03:30:57",
+  "updated_at": "2026-11-21 03:45:47",
   "yields": [
     {
       "label": "3년",
