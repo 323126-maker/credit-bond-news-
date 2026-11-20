@@ -282,6 +282,16 @@
         "first_seen": 1795054525.5863643
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WMWZsY0FkQ0Y4a3BlcGhtc0V6LU1yMXNIaVBtTmlJckhjMWZ5VDY1QlJRZEY2YmtNTko2MlRhcFBMSGRzVGlQS2w4ekRjVTFqcWVUeS1TRGtqbm9kUHJIb1otdWVqNklLZllvazFwbXU3QQ?oc=5",
+        "headline": "[2027 증시전망] SK證 \"코스피 목표 8,800P…AI생산성 개선시 1만피\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/19 11:04",
+        "published_ts": 1795053872.0,
+        "tag": null,
+        "first_seen": 1795137329.0738919
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE10bi1SS1ZJZzN2c0hUcTlSc3ZFRUROaS1pbUZJLTVmbTljMzVETXhSMkJEVkdmVnBBdE9lV3hUcGZ4MmNRY3dOZG9iX1pFdEdPLWJ6MTZIMk5VLVZWTzktTHlWUmdDcU5QZHc?oc=5",
         "headline": "미래에셋캐피탈, PF 줄이고 부실 회수…건전성 방어",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795038475.0,
         "tag": null,
         "first_seen": 1795043733.9448888
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5xNW9LeWVueVI4NGdlVV9OMEY5SGoxOEVwNVR5RnVac1FNdlVZUjl4aUNWWnJRNFdhemZOc0dIV0tfSU9sY2VYcjZ5enJ6ek83RjlwVkU0RWdWc19sRWdiR2lZSXZrNVhMaWRBUmhOeWVlQQ?oc=5",
-        "headline": "[뉴욕채권] 국채가 혼조…'빅스텝' 또 언급한 월러 vs 유가 하락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/19 06:13",
-        "published_ts": 1795036388.0,
-        "tag": null,
-        "first_seen": 1795054525.5863643
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBWakx6NEpud25rNlpqUmVDM2dTbGFUbjZRUDVuOE5Ib01KVkVUNWJLYWMxemVlYVZiODhDVWJobHJRcGRRRDk1enR4Vmw4QjFyRUZEazEydUtvZ9IBWEFVX3lxTFBoaDA5Y3Y1OXVSeVJpVDNaWVBKcjdBOGRTM0J6YUlyMzU3ZzM0N29JdlZWNncxZ0w5LVdwVHUxd2w3RFBEYm1kelJTUHNwNU80anBvQ1dMLU4?oc=5",
+        "headline": "[국제금융리포트] AI 수익성 우려·금융권 해킹에 美 증시 급락",
+        "summary": "",
+        "source": "아주경제",
+        "published": "11/20 08:32",
+        "published_ts": 1795131162.0,
+        "tag": "JGB",
+        "first_seen": 1795137329.0738919
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQXzFXaDRvWm50VDJ1Zm5GWEF5SUY4aG5Da093ejBpbjRRTHQ1OEtzby1uVDN3RWZzSDhwTHptNVpzcEdhdWx3eDd2RzNTN3BQdkltSHkwQzVVRVo2ZmhMUG9PVkNYY2hQX3Q4NldBY09HMVZFRHl5aUI1cU9DcDdrOHBXNFNjcVg0cmJXY1JmMA?oc=5",
         "headline": "Opinion | Anthropic’s IPO is worth celebrating. So is the Fed’s caution.",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795080300.0,
         "tag": "Global",
         "first_seen": 1795082441.2756429
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPMld3WWdCSEs5X2lkSjdwcmFkQ05fQTVTRUFCdXNheTFNLTNGMVJmU05XbUFfa3NXc1kwQnBuRXljQkJiSFQ1T1c1N1dLX2FhZG1JcU9sYmtEbkJLaGhaM3p1RWF1ZWViRmJiMlhBcU5qRFVVb0hfUXM1dDhFSHJyNWZjVGx4VWpxeEdvR3ZJODBfc2c5Y2lSS3M4Z0JHNHZudEp1cnBaR0dPZUNqXzhMd2hBNi1TMkJ6UmFneWd3clctR21ESThhUmtEdjk2Y3oz?oc=5",
-        "headline": "Unlocking euro corporate bonds with active ETFs",
-        "summary": "",
-        "source": "BNY",
-        "published": "11/19 18:18",
-        "published_ts": 1795079894.0,
-        "tag": "Global",
-        "first_seen": 1795083327.1722114
       }
     ],
     "watchlist": [
@@ -2413,35 +2413,8 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 10:01:04",
+  "updated_at": "2026-11-20 10:15:52",
   "yields": [
-    {
-      "label": "3년",
-      "value": 3.716,
-      "chg_bp": -2.0,
-      "series": [
-        3.803,
-        3.789,
-        3.758,
-        3.799,
-        3.766,
-        3.715,
-        3.74,
-        3.736,
-        3.714,
-        3.669,
-        3.613,
-        3.639,
-        3.633,
-        3.729,
-        3.729,
-        3.759,
-        3.743,
-        3.725,
-        3.736,
-        3.716
-      ]
-    },
     {
       "label": "5년",
       "value": 3.812,
