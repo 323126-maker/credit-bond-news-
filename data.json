@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNxX2phSE9oamJzRXBONTd2TkdlSW9ONUdBUEJkZ2V6eEdBNV83LXE2VWxnMWVRdmRnMG1NUXoxS2RfOHp5c2p2b0cyejZsbkVsRC1fSmpQSVFPOXV1NzRZaXBrbUpGdng5YURURVI0WFVlbjZaVFVoRmZyUk53cW9BVV9IYmpTRW4zWTBnZzFRb0VsNUE?oc=5",
+        "headline": "Lazard’s New ETF Targets Monthly Income With Junk Bonds",
+        "summary": "",
+        "source": "MarketBeat",
+        "published": "11/21 01:06",
+        "published_ts": 1795190781.0,
+        "tag": "Global",
+        "first_seen": 1795192247.4403896
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
         "headline": "The snowballing selloff in global markets",
         "summary": "",
@@ -1830,6 +1840,16 @@
         "first_seen": 1795185038.6318345
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBLenkzRHR2cnQwLVFSSFBrY2RhT0ZNbk1UZzdRSmFyQVhSa1UwN0w0WThGQ19aNGNOcnQ4YzhBRGkxZXFucjZpa2ZkMGwwcTRGNjMwQ2JFVmFoTVp0Q2Etdks2YmpWNU9JaTRSYi1TYw?oc=5",
+        "headline": "Policymakers want rate hike but disagree on pace",
+        "summary": "",
+        "source": "Axios",
+        "published": "11/20 18:26",
+        "published_ts": 1795166810.0,
+        "tag": "Fed",
+        "first_seen": 1795192247.4403896
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1kOG1IS05pTVFpdHhXS25CZWRGOGsyQW1HNHk5WjZpd1BscWozWmxqNG9aZVg2b3MyMnpSRU5yNGExMHh5bXM3enhPNVpjVHZrUzEwSkdNdktwbnNwTmZRUXJmS0VMZ0o4NmsyMEdpVU5nSFhaSlE?oc=5",
         "headline": "US Stocks, Corporate Bonds, Copper and Oil Flash Warning in Unison as US Economic Boom May Be Nearing Its End",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795156244.0,
         "tag": "Fed",
         "first_seen": 1795177835.8128605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUjg4R05QVFRvRWdRWnduM0JWQUppRS10UVN4TW9jbWUtV0ZNTHdXRUhSeTQ2LU5CdW5IcFlnM2tYeVBmbkd3VGJrdU1VOW9NRVp1aXlOSmVnR1VXQmVrS1JmdFoxci1WV2R6dVBzbmlsZEJ0bEpfTmRsTmw5TE1fS2pkVHlYVFo2bXY2NFFaWjlkVUxWZk92YkZwajR4WS1hTEg1ZlhmOEs5OG94anhULQ?oc=5",
-        "headline": "Global bond yields plunge as AI rout triggers flight to safety",
-        "summary": "",
-        "source": "Investing.com UK",
-        "published": "11/20 15:16",
-        "published_ts": 1795155360.0,
-        "tag": "Global",
-        "first_seen": 1795156233.1347384
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA3ZVdMbDN2c1pHTG1GRXQ0a0tRWVg0UzBBM1lNZXBCTm41ZDl5T0VaaDVteVdzTzFHUHNoVUYyckVvTU1nUWh2ckdJTTBzLWNhWHl5cXQ3c0VIT2xzc0pOT2hDWVpjd0E?oc=5",
-        "headline": "AI 충격에 글로벌 국채 금리 급락…안전자산 선호 강화",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/20 15:15",
-        "published_ts": 1795155300.0,
-        "tag": "JGB",
-        "first_seen": 1795169725.5523376
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 01:15:50",
+  "updated_at": "2026-11-21 01:31:11",
   "yields": [
     {
       "label": "3년",
