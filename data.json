@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McG9OMXFLSU5VMFNBSThrbG1Nd2l5RjBva3djNHNiM3Nqenp5al9vTUcwSlN3NnBwdkJha3RWYmdzbVhnWXoyMXFSUG0tZmwtRTY0N1k0enpHRi1BMF9fMTM4VHgwNENqVlhjOHlBam9nSmJi?oc=5",
+        "headline": "JP모건 “미 기준금리 내년 3월까지 3번 연속 인상 전망”",
+        "summary": "",
+        "source": "부산일보",
+        "published": "11/20 15:07",
+        "published_ts": 1795154841.0,
+        "tag": "Fed",
+        "first_seen": 1795155326.7508206
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pS3JZekRHckdRa0ZmRHowZ1k1ZmJOa2Q0SjBnVjc4cGpHTVh2cE5vaHNlZVBNenhjSXZVV0hMRkFkOFdIeGZ1bEl3Sy1aMjhXU0oySk1Ec2g5ODlzbGpMR252QjJOUENGay12R0otaTEzeGJoV3FJ?oc=5",
         "headline": "일본 엔화, 오늘 왜 상승하나?",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795095600.0,
         "tag": "Fed",
         "first_seen": 1795096843.7751215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPS2lONnZJbFVOY0VSQ085V1ZkNkRtbjU4SWRELW1wZU4yS09jcjM3TUU1NGE2Snp6MGI4LVdEcC13MFdQVE1vTmZyaXRrTDIwbmg4cWd6UG1YcEt5djFJMU5vaGxWYVAtRHd5cFF6aU16c016QWN5dVNyWXFIWnZmOE5pdWxJcWhNTkQyWC1BNEtVXzZY?oc=5",
-        "headline": "The AI Selloff May Be Over. Here Are 3 Reasons Why (NASDAQ:QQQ)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/19 22:34",
-        "published_ts": 1795095249.0,
-        "tag": "Global",
-        "first_seen": 1795097734.890746
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-20 15:00:58",
+  "updated_at": "2026-11-20 15:15:51",
   "yields": [
     {
       "label": "3년",
