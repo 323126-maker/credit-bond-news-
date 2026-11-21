@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOY1hJb3JkSTFDbFhjbGM1ZjkzMkY5UVljOEVmZmZkaWkzaXAxYnhtekVwRzdwV0tLd0EtczhScE5FSTBtNHFUWlMxaTNBTmdZMDBXZ0FKS1BudUlRQ2p1d1RWS0lDSlctVmJEY0hsdHhsQXpDVi1SbnF4R0JGVS10SXJVakJBWHRsRE04UlJIM1FGdUQzLW5sM3FxRklXMWZk?oc=5",
+        "headline": "T-Bills Are Beating the Nasdaq, S&P 500 and Dow This Year",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/22 04:22",
+        "published_ts": 1795288920.0,
+        "tag": "Strategist",
+        "first_seen": 1795289433.7694569
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEVNQnpIdnRqYkplZjAyb3ZDeUVpeDBQMFB6TWlWSm1Ka3lMLUUtZm1hczJIeldVN2ZxeWNnbEJtUUVPTWlJYXlNLVZVcFRsS3lpVmY1RVR0T2ljMHZvWUhzNnpnV0Z1aUJLODhWc2lPQ0dhSEJoaXZzemZCUjNKTS14RWlqaVVI?oc=5",
         "headline": "美 달러 강세 주춤…엔화 반등에 美·日 금리차 주목",
         "summary": "",
@@ -1996,16 +2006,6 @@
         "source": "The Daily News | Texas' Oldest Newspaper",
         "published": "11/21 02:34",
         "published_ts": 1795196042.0,
-        "tag": "Fed",
-        "first_seen": 1795196736.0753794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNV0pwMURCc1diYXRGTmtCaC0tNnZac3RIMEtTT1BCMGxpZ093OTRFdVJpRGx4TW5YRENNTWxpN0dYLTZpQ0ZXOC1sby1jNUtYbVNseHFWN2J3MGFuQjNwa3lOR2F4S1JicENRMzQ1ZWlDMkRyRzk5eG5IcVFpQXkyS0kzYU15a1RCWXNwWERBVFRmbUFZbE80WHhKUmVoejA?oc=5",
-        "headline": "Fed's Cook says rate hikes needed to lower high inflation",
-        "summary": "",
-        "source": "Reuters",
-        "published": "11/21 02:19",
-        "published_ts": 1795195183.0,
         "tag": "Fed",
         "first_seen": 1795196736.0753794
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 04:15:52",
+  "updated_at": "2026-11-22 04:30:55",
   "yields": [
     {
       "label": "3년",
