@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyYl90OUFvRjBRRXBSUDJhLVFfZnQ2dVhiZmpPckV0d0FPeExkTFRLNC1kSWhNSTJRZjNxSkxabTIyckRpNHNQQ3BNenQ2SlUtT0E?oc=5",
+        "headline": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "11/21 08:36",
+        "published_ts": 1795217768.0,
+        "tag": null,
+        "first_seen": 1795221925.5786867
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OVRlMXRCeVJWSnltU2dvVGxvaUZJdm94cU9rR0RSUEhaTXFmSDNLUXYwZkhKWVBRSmRieGJPTU5seVlpeDhNSVhGV2pwbWo0aVRpY0xMRk4xTmxod2VfNXo4REd6YW1NRGI3SF9YUUdxQQ?oc=5",
         "headline": "\"듀레이션보다는 커브\"…노무라, 2·10년 스티프너 전략 제시",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794805610.0,
         "tag": null,
         "first_seen": 1794807936.8728771
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YSS1oMF9Uc2N2ckkzbXRXYmlTNjhZSXV4eDN4WGJxYkZLVUpZNDZTYm84dzlKTUVJNUdPZ1JoRTFCTFFOZXdiZWVtVlB1Y1o1dmR3OQ?oc=5",
-        "headline": "2027 크레딧전망, 긴축 종료 기대에 강세 모색",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/16 13:49",
-        "published_ts": 1794804540.0,
-        "tag": null,
-        "first_seen": 1794805247.069418
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 09:30:54",
+  "updated_at": "2026-11-21 09:45:52",
   "yields": [
     {
       "label": "3년",
