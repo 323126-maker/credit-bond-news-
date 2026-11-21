@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE00OVRlMXRCeVJWSnltU2dvVGxvaUZJdm94cU9rR0RSUEhaTXFmSDNLUXYwZkhKWVBRSmRieGJPTU5seVlpeDhNSVhGV2pwbWo0aVRpY0xMRk4xTmxod2VfNXo4REd6YW1NRGI3SF9YUUdxQQ?oc=5",
+        "headline": "\"듀레이션보다는 커브\"…노무라, 2·10년 스티프너 전략 제시",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/21 07:50",
+        "published_ts": 1795215001.0,
+        "tag": null,
+        "first_seen": 1795219241.0621226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8tYVJ6S2dIb2U3elliQndkWExKb21TNHl3bUVLT0JSSDA1SXNKS05Qa1R1RE52LWN3Nmc3UGpOamNvdEh4MDR1NEJ0ZDFVb3pyNENLcw?oc=5",
         "headline": "[채권마감] 3년금리 10일만 3.6%대 재진입, 증시 불안에 안전선호",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794804540.0,
         "tag": null,
         "first_seen": 1794805247.069418
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5SZWhXT0xYNWRJYmZtRVhwSHNibkx6TzNnQU12SEpGWllqQ0NRaWlTOHpjbmNKVFo5LVdZbnJzMGEwUGNxb3VZRl9jeVc5a2pzby1OSDVRRlgxcjlwOWdEX3FINFlBcFhS?oc=5",
-        "headline": "[경제 전망] 금융연, 2027년 확장적 재정정책에 따른 회복세 확대 전망",
-        "summary": "",
-        "source": "시사캐스트",
-        "published": "11/16 09:42",
-        "published_ts": 1794789763.0,
-        "tag": null,
-        "first_seen": 1794793528.5509605
       }
     ],
     "politics": [
@@ -1830,6 +1830,16 @@
         "first_seen": 1795193125.1758118
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOa1NWYW9SWjVCSjFzdnRzM0xDc2xBUE1ZQVVTck81dS1Vd0x6WG5Hdk9SYmRBX2NtRlpfNkFscUNkUzFfTDhUNmJXYXpkMnhOdnAzX092dUpkLVpIa1VEemsyR0dMM3g0SXViMVRETURnRXpaQ0xFM1A4QU9yRnN6bkJnSEowS3pxSUFNSG5Ra0tINWN1alN6cHhqc0o?oc=5",
+        "headline": "Dollar Pressured by Lower Bond Yields",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/21 00:34",
+        "published_ts": 1795188850.0,
+        "tag": "Strategist",
+        "first_seen": 1795219241.0621226
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84ZFFzbDlRd0J6aHAxMkFGQUl6R2swRWt1ZTFUNWhNZlB1Q3VTMFlIcWNUUWpvZGY4TjdodG9qYkw5eVZiaENISVhjZlVQNy1RRjZ2QktKOER1d3lNOUxyOTc3aThONVdUU3VmX19fMnl2ZmpZeG1idEFGR1BkMlk?oc=5",
         "headline": "The snowballing selloff in global markets",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795174402.0,
         "tag": "JGB",
         "first_seen": 1795206638.684904
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRmlSZDA3dEs3UFFwUXMwMnpNbndUTTRVazNPVlVIZG9oeGYyVjRyN2I4S1NLVGdDV2pXdl9WZE9BRVJEQ2MzT1FMWjcydllNLUstTnVVaFRaQ1EwSE4tS3VGOWlmOWNQdlJrSXBIVlFBVVZFcDVKQXZuaGExSU03RGQxRkRsU0dkX09XX0w4M2N0S04ySnZRLWRSd3FwUDUzbWVSNE1YTUJoa0dSOGd2d3pvWnc?oc=5",
-        "headline": "Emerging-Market Stocks Set for Bear Market on AI-Led Tech Slide",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/20 20:31",
-        "published_ts": 1795174306.0,
-        "tag": "Global",
-        "first_seen": 1795176927.3652568
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 08:45:48",
+  "updated_at": "2026-11-21 09:01:00",
   "yields": [
     {
       "label": "3년",
