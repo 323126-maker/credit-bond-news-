@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcFprN20yT2lFMFIzaWk0bGVwVVUtcGNqU3FjRUVWZmFadmhna29PZENuS1V3aURlUUFBbFlXbE1ZZWVTR0c3V1ZEdFlXZDBXZ3V3YjJnMDEtdjZkalB4bUI5LUNqUkdjUXVRd1dITnlzN1dlaGZYcjNzdUs0YjQ2djRGWWlTNmpELXJaalhGUEhFOEU5WG51eWtWTlJLYnphSzg0NGVyRHJobTA?oc=5",
+        "headline": "Europe’s Wary Creditors Start to Fret About Modulaire",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/22 01:00",
+        "published_ts": 1795276802.0,
+        "tag": "Global",
+        "first_seen": 1795277725.8586197
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YVjRCRzlMZG9BQk92bEpDaGRGR2FnZHJjUkduZnhrMXBlRjUzc2lsOU9qd1ZhSWJwV1JvVXdtRjlJTHAyazJXT0Q0d3JQN2RJN2M4em5jb1ZGdlFNN0h1TlRSQVNhWEdUbjIxMmdHYTkzQ01oZzNJQWQ5SQ?oc=5",
         "headline": "U.S. Stock Market Weekly Update Ending Nov. 20, 2026",
         "summary": "",
@@ -1778,6 +1788,16 @@
         "published_ts": 1795210701.0,
         "tag": "Global",
         "first_seen": 1795220134.315057
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbUNDTVpMQVkzdU96NHhTY1k2eGFsY20tcUlDWUI4TWdXVTk0UHNDWUFzcTZEbXZKeFAxUHUtYURvdmRDOGdpSmdrbWs0bUhyclNPVlVVWGtJWmFWemlXWGs2S0puR3AycHJ2Qnln?oc=5",
+        "headline": "XS3573954370 Bond Yield and Price — LUXSE:XS3573954370",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/21 06:17",
+        "published_ts": 1795209432.0,
+        "tag": "Global",
+        "first_seen": 1795277725.8586197
       },
       {
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRG9IUU54VUZMQ2RpSTB3TkROZjBkTjQ4YThwdmFDcWNHUXdDaFR0LUxHWHFQcVNKbFhNVkFlRnhoQkQ2ZUdNQm1XWERJd3l2QkNIYW9qektKLVFWdnh4cU43bkdwRjQ5NEIya19fOUZTcGV2NHZEVWNTTVJhNVFUWUJ2Umh4emtKYnc3UVFoX2EwTzNEaW54SzlCTWNpdw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795191348.0,
         "tag": "Fed",
         "first_seen": 1795200327.4769263
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeVNxX2phSE9oamJzRXBONTd2TkdlSW9ONUdBUEJkZ2V6eEdBNV83LXE2VWxnMWVRdmRnMG1NUXoxS2RfOHp5c2p2b0cyejZsbkVsRC1fSmpQSVFPOXV1NzRZaXBrbUpGdng5YURURVI0WFVlbjZaVFVoRmZyUk53cW9BVV9IYmpTRW4zWTBnZzFRb0VsNUE?oc=5",
-        "headline": "Lazard’s New ETF Targets Monthly Income With Junk Bonds",
-        "summary": "",
-        "source": "MarketBeat",
-        "published": "11/21 01:06",
-        "published_ts": 1795190781.0,
-        "tag": "Global",
-        "first_seen": 1795192247.4403896
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZktCbDQ5OS02blVLeUppMFBYTGdTVHpvTTdMbG1TQ3pOU0ZFYnpGdmlmd0xoRWUxVWd6Y1ZjNndEM0V4blpKUW03UGtFSnQ0RWdRY0U4SDJSUmVVYUloNXlEU2pSU3hXcDlOZENfVFBqTHdubFVRbGxwRmZDSVFZQlA1TllYRkRTZDY3X3FicUNvZWh4NFFIWFlrWWgybkpVYkZiZDU1ZGJaZ0I5MXNoQUwtRG0?oc=5",
-        "headline": "Mortgage myths, interest rates and student loans: NerdWallet’s Kate Wood explains",
-        "summary": "",
-        "source": "HousingWire",
-        "published": "11/21 01:04",
-        "published_ts": 1795190647.0,
-        "tag": "Fed",
-        "first_seen": 1795209327.087346
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 01:01:01",
+  "updated_at": "2026-11-22 01:15:45",
   "yields": [
     {
       "label": "3년",
