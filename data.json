@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aNlZoNmRqQmQ3MHBTSWZRMVlwTmF4aURLazFUTXVNdWEyX0dSUWw4M08zOGNEVzlUaWktbF9Mcl8wY0Z6QTZpc2tiLXh6a3lqX0hvaHNHZUpmX041Xy0tMkZuWDd0TjcxWFFqZHRFSE43SEJvQlFYYtIBfkFVX3lxTFBaY2dubjRsOHh4enpDTWREODRaUnNfSU95TC1QQVUwNUlZOUpaelVLZnZSc3AyUlhUREhOM1l4UTlOelJoNVNvMEpHQnlkRkhxMXliVlpwUEVSd0tqNVNKbXJlU2ZDNnR5TXk3S1dvUjZnTFNlcU5CVTQwZGZhQQ?oc=5",
+        "headline": "전문가 10명 전원 \"11월 금리인상…내년 3.5%까지 올린다\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/22 06:00",
+        "published_ts": 1795294800.0,
+        "tag": null,
+        "first_seen": 1795295725.7574034
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE13aU1NU1YxRWFGOFFaa1UxVUFDUUlMNmpoSTlJeHozbHdYZmxfejItT1k0Wko2bGZRWkdBWWowWUUtYTl1OUYwV3BqcXZJbTJwTTlKWGc0REc4TUV4dUVWVW1fa1hTNjZkUmxmNXc5V2hhZw?oc=5",
         "headline": "[김남현의 채권썰] 조정장 진입한 주가 vs 인상 예고된 금통위",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794823623.0,
         "tag": null,
         "first_seen": 1794825034.760184
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaDkyMkM0RVcyUVNqQzZWaXUzbllOS2pIbmdLMFVQLVBIT0s3OU5pUDZPakI1NWxDdkJLa1hzZE40SjZlLWd2YWNVWE9NM2NidkFKdzNyTVUtV2JmbXhMNEVKU2g4ZlRGVDVWLUpMekRmazJsN1A0aVhBMG9lME5OS1RUcVI1TWFUMEdCaVAzdDlDcnhaNTNlRkstdHBGdmF6T3ByMVBnX05aaHRo0gFfQVVfeXFMTVY5QzNRM1Q1UVJ0V0VUQTZDbEtrQWxaOUJQdFZNWS1jOEZZb3gyMkVzaExHUXBSdy1ZdG5YQV9ubW45bHpmbzRhUm85Nm5aRWdZZ3ZXaldybnk0TmJnNVk?oc=5",
-        "headline": "‘블루쓰나미’ 후 급락한 미 국채 금리와 유가, 다시 슬금슬금 오른다",
-        "summary": "",
-        "source": "경향신문",
-        "published": "11/16 17:34",
-        "published_ts": 1794818040.0,
-        "tag": null,
-        "first_seen": 1794818727.895799
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 06:01:00",
+  "updated_at": "2026-11-22 06:15:48",
   "yields": [
     {
       "label": "3년",
