@@ -22,6 +22,16 @@
         "first_seen": 1795225756.944667
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IdEtnRk94djJMSHhRNHRZZzZzSGM2QjA4UUpRVWs3S1ZWT2NJVXNuSWlZeUNfRUMzYTdWelZIUXZONUhaMndPdWxkUGgtVnI1MWFZVE16VGhDVUs0YU9QWFBURGpGbHdhN0d1U3VOckc?oc=5",
+        "headline": "[뉴욕마켓워치] 나스닥, 코로나 이후 최악의 한주…증시 패닉 속 채권↑달러↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/21 09:04",
+        "published_ts": 1795219498.0,
+        "tag": null,
+        "first_seen": 1795238124.7725244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15UXhheElCS2JoODQ3dVkxbU93Z0N6NUdQVTE5dnh0SmNiZnFKV29rU0VnRUJydkhjbTZsVDVnYnF1dW5aekpqS3RucE5sUUtrM3NSY19WN3RTekUxeUtac1p5YXl0Z2s?oc=5",
         "headline": "무디스, 헝가리 국가신용등급 Baa2 확인…전망 ’안정적’ 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795114800.0,
         "tag": null,
         "first_seen": 1795138233.4156296
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2ZVhSUVU1WFBTTmZqaEVGcFJadEtwTUZNRUpuSlB4SkVocUlmall3MG5QLUNObUdxb0lyTlcxa1d6M2I4U1JKT1JVWVk4amQ0d3JQdzItZHdFSGFHUmY5S3A2RE04WTZOZDNrcE9tRUFBZw?oc=5",
-        "headline": "CRH, 아코사 채권 10억 달러 공개매수·교환 조기 응모 결과 발표…최대 99.57% 참여",
-        "summary": "",
-        "source": "데이터투자",
-        "published": "11/20 02:45",
-        "published_ts": 1795110355.0,
-        "tag": null,
-        "first_seen": 1795111245.4750335
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5RNFVqQktBeVkzV3BVSFNITDU0RElTWlpDOWtsUjN6Y2FUdXB2VW9LdWJESTA2ckpFbi1JRkh6NVI3X212WUY3bnJFWjJSNlZuVzcyWmlWSXlTYmRDWlRieENKRU9uM3FEaWc?oc=5",
+        "headline": "트럼프 “금리 내려야”…연준에 직격탄, GDP 20% 성장 주장",
+        "summary": "",
+        "source": "OBC 뉴스",
+        "published": "11/21 12:54",
+        "published_ts": 1795233277.0,
+        "tag": "Fed",
+        "first_seen": 1795238124.7725244
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WOVNuM0tYdnJLMzIwVU9lTHVGa3NLWlFwWGVaN3NNbl81YVhoZXE5RE9HRHdZejFVREpEdUgxM3JHYzdOUmppU1J1OUgyRFJYbEQyUGw1bUQ?oc=5",
         "headline": "[AI 버블 공포] 소나기는 피하라 vs 딥 매수 나설 때",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795176545.0,
         "tag": "Strategist",
         "first_seen": 1795177835.8128605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9uNl9ud1Y1cGViNDJ1M0lvem04X3RxSm0yNjdVa1F6d0RJRllhZHg1VUQxaTRGVnZCcHFGM3o5c3RzM3BUR2FJbHJFaFB3dy1LR0VxM3lydnpKZEQ1UTZVN2NfdnBiMWlyNnF0TlBKV1BJOEhIYW9SSWdISHF5UQ?oc=5",
-        "headline": "Junk bond stress builds at the bottom as CCC spreads widen and CoreWeave debt trades at distressed levels",
-        "summary": "",
-        "source": "CEO경제신문",
-        "published": "11/20 20:45",
-        "published_ts": 1795175100.0,
-        "tag": "Global",
-        "first_seen": 1795185925.3508704
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 14:01:02",
+  "updated_at": "2026-11-21 14:15:48",
   "yields": [
     {
       "label": "3년",
