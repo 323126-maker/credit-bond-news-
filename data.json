@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuakdTbGp2U2Zoc3ZGcWdzQU9KSUJTZVJDcWNKYnhCYUdBY1A5WnlUdGZZb3Zacko1bmplMTdoV3FOUWN3Umlxd215SEpaZ2tTTmx2el9udVNLUQ?oc=5",
+        "headline": "“사상 최대 IPO가 쏘아 올린 유동성 발작”…앤트로픽 쇼크와 AI 거품론의 진실",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/21 21:22",
+        "published_ts": 1795263776.0,
+        "tag": null,
+        "first_seen": 1795264233.7893379
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFA2OWlEM0NZUlVmNGVIdlRscWotWkRQQ0NWOVU3MXBYZXVmb0ZzRXJxLUt0ek0yZ3FfdGZsbzFzTzRNbWtTRTM0VnpSdU45Sm1U?oc=5",
         "headline": "AI 버블 붕괴 신호탄인가, 숨 고르기인가…유동성 한계 부딪힌 미국 증시",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795132500.0,
         "tag": null,
         "first_seen": 1795132842.1883113
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHdFdnZ1Y2doLTh5ZGZEcUk2UzhnbTJYUWVzZXQ1NDFvVnc4WUE3RG1kb0RzOEVMd1k1a0xBZkxFTXh4OE9PNGpVSDJndlpVV2pCOXk3SUFpV0VEZjNRUVBGNnJHc2lIMEJMeVMxZHF1aDF1LXBwR1FYWjkzZnp1cllCYnhHcHF0?oc=5",
-        "headline": "[시황발자국] 11월 20일(금) 장전 시황 : 앤트로픽 상장 첫날 +17% 마감 뒤 AI주 차익실현 출회…나스닥 -2.25% 하락 속 업종별 차별화 대응 전략",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "11/20 07:51",
-        "published_ts": 1795128660.0,
-        "tag": null,
-        "first_seen": 1795176927.3652568
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 21:15:44",
+  "updated_at": "2026-11-21 21:30:56",
   "yields": [
     {
       "label": "3년",
