@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1WOVNuM0tYdnJLMzIwVU9lTHVGa3NLWlFwWGVaN3NNbl81YVhoZXE5RE9HRHdZejFVREpEdUgxM3JHYzdOUmppU1J1OUgyRFJYbEQyUGw1bUQ?oc=5",
+        "headline": "[AI 버블 공포] 소나기는 피하라 vs 딥 매수 나설 때",
+        "summary": "",
+        "source": "블록미디어",
+        "published": "11/21 09:19",
+        "published_ts": 1795220361.0,
+        "tag": "Strategist",
+        "first_seen": 1795221035.2231338
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rN3RoVG5icWZKZG5kZXNhdklQX2tmVHNpSUJCNEZpWjZzazlVaUI1WFpWVUg4cGp1LTlvYmVFdUY5dmFTOHZ0U1ZudnFPMHZlSmpGQWJNcVVja2Ridkg5V05NSjU4czUxaDZwb211RVVJeknSAXNBVV95cUxPazd0aFRuYnFmSmRuZGVzYXZJUF9rZlRzaUlCQjRGaVo2c2s5VWlCNVhaVlVIOHBqdS05b2JlRXVGOXZhUzh2dFNWbnZxTzB2ZUpqRkFiTXFVY2tkYnZIOVdOTUo1OHM1MWg2cG9tdUVVSXpJ?oc=5",
         "headline": "뉴욕에선...美국채금리 '뚝', 달러 '숨고르기', 엔화 '급절상'",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795174798.0,
         "tag": "Global",
         "first_seen": 1795182335.623564
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5jSVd4SnlNY2tUR1g1dVg1d2dJb1ItTnhnMWxsWHdqanBYdC0wM0V6Q3VsMVVuSkZhOHprcmJwWVk4clRYak5TOEdnLTVxUjg4N2tBNEdKWkx6WHplSFoweTJORnJXWVBvZk5V?oc=5",
-        "headline": "Treasury Yields Fall as Investors Seek Safe Haven Assets",
-        "summary": "",
-        "source": "Demokratis.co.id",
-        "published": "11/20 20:34",
-        "published_ts": 1795174483.0,
-        "tag": "Fed",
-        "first_seen": 1795196736.0753794
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-21 09:15:53",
+  "updated_at": "2026-11-21 09:30:54",
   "yields": [
     {
       "label": "3년",
