@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQVQyTm9kRmJraWxMTkhZaXVudDRRZEpmTnVoek5BYkdZV0pSdDVBeEJHd0NpZGNlZEFiRUFhMFdDVWtqNTlnaS1kVGRlc081MkhxOW11VEY3RGcwNWFmbEpNVHNFLUNuMDBLV2tiR1BQZw?oc=5",
+        "headline": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간'",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/22 16:05",
+        "published_ts": 1795331117.0,
+        "tag": null,
+        "first_seen": 1795338925.173775
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1ldGstQ2Mxd3BXMWZKZ19xV2oxNnU4SVE2Y2UyX0lGa1o3RlpmMVpOSmJyQ0oxZmxtbDBraklGRG9zeGxrVkg1cThR?oc=5",
+        "headline": "엔비디아 14% 급락한 날…‘440억 달러’ 채권 조건 확정",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "11/22 15:51",
+        "published_ts": 1795330268.0,
+        "tag": null,
+        "first_seen": 1795338925.173775
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1X19NV2s0azB2VF9WUklFRFlaNWdVMXMtS25kWi12ZEhhNmxtdkdSdHdlWmJfUXN5SEJscjIyWGN2U1NqbUFvRWxKWGlvQm5qRzNYY3kwSkNOVXd1V212cXdGM1dTVFpO?oc=5",
         "headline": "코스피 상승분 77%가 반도체 두 기업 몫…자본시장 쏠림에 기업금융 부담까지",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795157439.0,
         "tag": null,
         "first_seen": 1795158926.1998343
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTThxNnRrQV9pdktjVFdTQmVhR0xfMnVsTWF5TnhZOXZVNTZKZ0xHNzZCaUVkQ25QNXQ4c1JFVnpRV3pJSFRBY3hCaXpJZE1BYmo3RzkyTGg2Zw?oc=5",
-        "headline": "[속보] 또 '검은 금요일'…코스피·코스닥 5%대 급락 마감",
-        "summary": "",
-        "source": "한국경제",
-        "published": "11/20 15:34",
-        "published_ts": 1795156488.0,
-        "tag": null,
-        "first_seen": 1795318232.7282166
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43OExxTmRxOVBnalM2cGRXVm5HMnRSUkhFUmhuUU00dkEzQ1dBRXJJRGhTZG9XYi13bkthcHdzUDdYdEZSamdLcHhNODNHWFNPNGJoSUo2dDNrbUg5S0VRNE84LXgwbDZtZmdMY09MTnJSQQ?oc=5",
-        "headline": "고금리에 신용도 악화까지 ‘이중고’…23개사 등급 하향 경고등",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/20 15:09",
-        "published_ts": 1795154948.0,
-        "tag": null,
-        "first_seen": 1795160726.22952
       }
     ],
     "perpetual": [
@@ -1558,16 +1558,6 @@
         "first_seen": 1794474927.780803
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YWXhxTGo4SXpTM2tsbThkUVR1cHF4Y2puNUJNVGdLZU96bFBJR3M2ZzA4VU9sUFRDVFNUc216TTB3RmltM3VqZmtvLVI3b3hDX0wzY2JXTVljV1FWSUpSWnNTOTZTdXQta2c?oc=5",
-        "headline": "李 대통령 \"지방정부 재정 운용, 자율성 확대해야\"",
-        "summary": "",
-        "source": "월요신문",
-        "published": "11/12 17:57",
-        "published_ts": 1794473840.0,
-        "tag": null,
-        "first_seen": 1794474041.5052617
-      },
-      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5BdXk5VmV3LWZGdGU1UWZCZ3NJbFZpZkt4dDA1OUh6Q09oR1ZaNEZXck9nOVBIOFV5YVo2SE55RzcxczRCYmFDRDFQR3JfR00ycWg0UFhHOFROWDJMWDB0eHdodXRya0lpTHRZY0ZVRXpsUdIBckFVX3lxTE5BdXk5VmV3LWZGdGU1UWZCZ3NJbFZpZkt4dDA1OUh6Q09oR1ZaNEZXck9nOVBIOFV5YVo2SE55RzcxczRCYmFDRDFQR3JfR00ycWg0UFhHOFROWDJMWDB0eHdodXRya0lpTHRZY0ZVRXpsUQ?oc=5",
         "headline": "李대통령 \"지방재정 운용, 자율성 높여야…일반교부세 산정 비율 복잡\"",
         "summary": "",
@@ -1588,6 +1578,16 @@
         "published_ts": 1795333200.0,
         "tag": "Strategist",
         "first_seen": 1795333524.3246968
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wM3dVSUlPNWg1MGUyamQyUGR1NUhPQ013RkttbG9OT25vb1RZZ1JzSEhwa3gwa21kMDBQWVN4bkVOWTdWandjT2xaS1NYT0h3NUtrVzVSQnhrRkRmQ1BJ?oc=5",
+        "headline": "A5GS64 Bond Yield and Price — GETTEX:A5GS64",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/22 15:52",
+        "published_ts": 1795330376.0,
+        "tag": "Global",
+        "first_seen": 1795338925.173775
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5YV3N0NGFyX1Q0dXlXcG90U2xvRTFNVWgxTlV5N3JybFl3c1JFVUgwdFdKdGdvWkRrTzlvUFlqQ0c4bFhBMUJiWUhNYUtUdWM2Rk43eTFCam9vYWk3WGEwNVlHZmVqOVVJVVM3Q0xIMFVaQWtkRUE?oc=5",
@@ -1968,16 +1968,6 @@
         "published_ts": 1795220127.0,
         "tag": "Global",
         "first_seen": 1795273240.448576
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOSUNFM0dSUFVSU0o2aTc5SzJxd0NLY3hFVHdoUTdXUV9vcnVEdHF1TEdGeE8yRUhHaUMySGlJWTRkLXdEQ0I5NDdVWmIwNnJFNkNtVEYtNHhOM0VsdHN4amZqejFJclhBcktJblZoZ25VX3g0LURTdVJFZXVWbkFJaDQ0TkJpVEstcmlRV0xoSE02Nm1VWlc2aGdCNnhIdw?oc=5",
-        "headline": "Global stocks tumble as tech shares lead selloff and bond yields slide",
-        "summary": "",
-        "source": "SSBCrack",
-        "published": "11/21 08:51",
-        "published_ts": 1795218675.0,
-        "tag": "Global",
-        "first_seen": 1795246249.0237322
       }
     ],
     "watchlist": [
@@ -2383,7 +2373,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 18:01:01",
+  "updated_at": "2026-11-22 18:15:45",
   "yields": [
     {
       "label": "3년",
