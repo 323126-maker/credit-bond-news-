@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hbTY0dDA5bWFDQmwwVnVSYzFIX3F1d1RYRm13U2ZwS01RNzluRTZwSEc0R1hSVW5KWnFLNEhiZ21nUDJSb3NHSjJEQlJRUzd2WFdWOXMyUGkwbUVERGo0WlZQSWQtSFd0Y0phT3d3?oc=5",
+        "headline": "고려아연 배당금은 YPC에 쌓이는데…영풍은 배당 대신 금융자산 매각",
+        "summary": "",
+        "source": "데일리브리프",
+        "published": "11/22 17:04",
+        "published_ts": 1795334646.0,
+        "tag": null,
+        "first_seen": 1795335325.9632177
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eXFhYTlOU0poNWJWTUw3djFncnE5QkRLVTZaM3M5MFJHTmM2Q1k4UGxWMHZoWHlNNVJzWF83c0FTZUF6MnpjSmx3ZkN5ME0zdjdfRExR?oc=5",
         "headline": "영풍, 자회사 YPC서 배당 수령 없어…금융자산 팔아 현금 확보",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "이데일리",
         "published": "11/18 10:30",
         "published_ts": 1794965405.0,
-        "tag": null,
-        "first_seen": 1794965981.0745342
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9udGV1LW9uSFBzcDhnb2lsUm9nLXF6TmtKOUpESVpNUmNnb1FvMEhzMWtGSW5VWHhKSWdxdFF2WW9lbDhxWmg1YTdsOEZQNy02MGxtUjhDSWY3ZjgtOXdSQmMyMVhWMDc3RnZrdnZEMUgydw?oc=5",
-        "headline": "빚으로 빚을 덮는 자본성 증권의 민낯",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/18 10:30",
-        "published_ts": 1794965402.0,
         "tag": null,
         "first_seen": 1794965981.0745342
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 17:00:59",
+  "updated_at": "2026-11-22 17:15:47",
   "yields": [
     {
       "label": "3년",
