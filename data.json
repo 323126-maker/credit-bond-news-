@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5YeTBVT3gyZmEtRHZLVVh1bWx2eFRnekcteVNLNml4c1Y3V3dzVk5BV1BEc0NLcXFLb0lmcS1TZTJOcGt6Qlh3V2llVXhSVjBST1HSAVNBVV95cUxNc2lCaEVaM3NBZzNoYWprYlZiQ2prdG1PRHdUa0dWSXRZWktrNUNUVThMRV8zNkRwRjNFc0FhNV9UYzZYTjVBakdmZ3hmLUNxX3dOcw?oc=5",
+        "headline": "[사설] 증시 급락에 증안펀드 준비…단계별 위기 대응 빈틈 없어야",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/23 00:00",
+        "published_ts": 1795359600.0,
+        "tag": null,
+        "first_seen": 1795362326.3006938
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNXo0bm94VUVOTHBQVXBHRlJBa1Vja3NWZ0wzTE5Ba3JTdVdnMHpGMWJvbUFTWFIyVWxoMkVsVWhkN1ZTZUVMbkx3aTF1cmV6Q2fSAVNBVV95cUxOUUtCenZGNHFOeG8taG1KRFQ0WDRBMF9JcEwyOEdweFdKenl6Y0VwZklBeXp2eDVldHhOdnVKUFFFQkpWYjRRcV9XOU5wTzN3MzNfNA?oc=5",
         "headline": "전문가 90% “이달 금리 0.25%P 인상”",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794904505.0,
         "tag": null,
         "first_seen": 1794926735.9263988
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBfMWw0Ny1wblNEYXJRSk10WmlKMldzUk13U3dGbldMWTZDNEUzU2Z3bVJIMkFKQmdoVDNKTjZzQ2laUUlmSWxyUTBnZ0MwRGkzZ3poZE0wWW1aMXo3bENRMFYyTXVfeHFhVjdtSkxqRVRSYTlR?oc=5",
-        "headline": "[채권마감] 보합권서 커브만 스팁, 외국인 선물 수급 연동",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/17 17:18",
-        "published_ts": 1794903480.0,
-        "tag": null,
-        "first_seen": 1794904234.8624878
       }
     ],
     "politics": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 00:30:57",
+  "updated_at": "2026-11-23 00:45:48",
   "yields": [
     {
       "label": "3년",
