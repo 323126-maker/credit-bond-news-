@@ -192,6 +192,16 @@
         "first_seen": 1795261524.7747388
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jemdmU1hVcnNiX2pVb1FIV0lmSXJMbnNlWG1UTDFlVEVmT2pBU2dpMkRCdmhWekwxNHZScm0tb3J3QjNqbU0tOFZRYm1BM0dSbld1R0pJbUJrT3FoN1QtX2xGamdWQVVlYTNfSU5nRjhJaHhpR0HSAXtBVV95cUxObGp2ZlcydU15OXhSTGVIYVg4R256Vmp5SGhhYVFaa05PUWd3NnVIT0hOem1PUHN5VmZBX1lOeGpCOUhqQnM1M3Y5Nm96ZE9MZ1VtUDY2QXlnN3pzWUJlQzMwcENQcDNucERLS2h4azROZXNfb0RkTmxneUk?oc=5",
+        "headline": "\"미국, 매력적인 시장 될 것\"… AI 타고 내년도 달러 강세",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/21 20:28",
+        "published_ts": 1795260524.0,
+        "tag": null,
+        "first_seen": 1795374039.8556492
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoR1JKaE5maDZ1SmN5NEMwXzA3akJ1NWFuZDRhbk5xQnQ2ekFrczFoOWhBZWtoQkdWQjVkZWFTZEJ2Y0dMZ1hhcTJsQlVRSU1Fd1JQb2tKU2ZfVU5MamlrV01iRXdCNTN2SU9aMnRn?oc=5",
         "headline": "비트코인 강세장 지연, AI 버블 붕괴와 유동성 압박이 원인일까? (+BTC, AI, 유동성, 금리)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795165864.0,
         "tag": null,
         "first_seen": 1795168838.8186324
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1FdG15S3NFdzVOakFLRGRNSHdKTGw5bXZNc3dNVkw3dm1DOUpyRzl3ZUFET3FTSy1qM2xPNUY4Q3FpSHhZcFRIQ1hQZnU3ak9SeXdfNWZYLTZrZkU4VGdxeGJOMTFBQl84dUNOOXRtUjVkLTN4?oc=5",
-        "headline": "[채권마감] 3년금리 10일만 3.6%대 재진입, 증시 불안에 안전선호",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/20 17:27",
-        "published_ts": 1795163220.0,
-        "tag": null,
-        "first_seen": 1795163435.890338
       }
     ],
     "perpetual": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 03:45:48",
+  "updated_at": "2026-11-23 04:00:58",
   "yields": [
     {
       "label": "3년",
