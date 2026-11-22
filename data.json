@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0trNUhxLWhCNzdfRnpZWEhEODZaTGJfcDhxSWZhQ1JzOF9oVUpnRFIxUFdjVXBMWmt3UWtiQW1laHppVXpuNGJvdzJYUWFtQlg3M0JYc3NDNlV4b2IybTdneWx4Wm5xNUVNYTlLWm1pcDNtWEdvTVJGZFhKSGJYUg?oc=5",
+        "headline": "“AI 신용 재평가, 위기 아닌 옥석 가리기”",
+        "summary": "",
+        "source": "이데일리",
+        "published": "11/22 22:56",
+        "published_ts": 1795355771.0,
+        "tag": null,
+        "first_seen": 1795358725.4184933
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rbGVmVktNM0ZpNUZuMUxKMVZsM3hfeWU2ZVQ5UE5EOVhxSlQxTmJ6MXJHeEVLRXhSM3hlWFJnaDMtanozSy1kQ1c3TklBNm8?oc=5",
         "headline": "[속보] 정부, 미 증시 급락 국내 여파 우려에 '증시안정펀드' 가동 준비",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795163220.0,
         "tag": null,
         "first_seen": 1795163435.890338
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52MHZDWnhzU2dBRXFJZlNNWDk3cWllTjdBWTEwb3VwSnZFOGt1S1l4QlFCeFNTdjNfbHlJcmZ6VG0tbnhZY3JCRkhBVXdIWGlQdi1tQU1YM0k1YjMtYV9wMnVveDgyY2hrWGgw?oc=5",
-        "headline": "알스톰, 상반기 영업이익률 -4%…독일 생산 차질 여파",
-        "summary": "",
-        "source": "철도경제신문",
-        "published": "11/20 17:20",
-        "published_ts": 1795162809.0,
-        "tag": null,
-        "first_seen": 1795313726.5765135
       }
     ],
     "perpetual": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 23:30:53",
+  "updated_at": "2026-11-22 23:45:47",
   "yields": [
     {
       "label": "3년",
