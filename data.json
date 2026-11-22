@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWc2llQ0NQLWZTYjVtVU5OV1JrTjIwdThaNGFUOUd4a3NESG45ZkhpWktYT05TaDhSUHdDdEdqM0syUTFxY3hDMk1XQ085ZDRoZ3B4WA?oc=5",
+        "headline": "국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "11/23 06:05",
+        "published_ts": 1795381500.0,
+        "tag": null,
+        "first_seen": 1795382127.2094018
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeTJQOHZJQm1tRWtHYndHZGcxN29fTnlyYkRqMk04Y2VaRV9Tb1ZXNGplOHNrSEppb1dpTV9QSXFfM09XeFd0NmZ6WW5tNmRzUlFnb01udUhTX0NUalRZdjVlcnNrOThvcXJGTVgya3RHSVZVZUtRMkhqeTVMYXVtMFRVdlIyTUZmeUZaM0dB?oc=5",
         "headline": "26일 올해 마지막 금통위… 금리 ‘3.25%’로 인상 전망",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794967465.0,
         "tag": null,
         "first_seen": 1794968128.172974
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9hQWNRbUJmZW5sSndpdGtJZWJfMGlfbGpJbm9EaWdRWmFkdGZWcHJrS1c4NHd3SHR2TmNpNzkwMmVncWd6XzNlQW1MYndNYzBNMDY5UHBCYmlxckx1OTZtUVllc0NUVXVfNzF1TDB6SjhCdw?oc=5",
-        "headline": "원화 강세에도 금리 더 올리나…환율 안정 이후 한은 선택은",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/18 08:34",
-        "published_ts": 1794958444.0,
-        "tag": null,
-        "first_seen": 1794960049.3240573
       }
     ],
     "politics": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 06:01:03",
+  "updated_at": "2026-11-23 06:15:50",
   "yields": [
     {
       "label": "3년",
