@@ -1560,6 +1560,16 @@
         "first_seen": 1795345238.890649
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+        "headline": "Federal Reserve raises interest rates for the 1st time since 2023",
+        "summary": "",
+        "source": "ABC News - Breaking News, Latest News and Videos",
+        "published": "11/22 19:28",
+        "published_ts": 1795343300.0,
+        "tag": "Fed",
+        "first_seen": 1795347925.2935789
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZDRFTUl6aWZjNUlPaV9QcDdnRlFRSWV2QmpNM3gwZ1FkdHNHN1VOT1NCMG5teGM2aU4wUzFIX3pWQjlFVVdyaXI1NUF6UDJmbmt3TFlZZ0t2ZVdHWmhsejZfanM4Z2E4ME11V2FTb0N5ckpBQXZwaXIycmpBb2RSMU1lWXBMZ1hqb0U3VUI1SnF5bEF0ZTVxT19PdnB2MXJ0SWVXOWkyZFN1Y0JCZGc?oc=5",
         "headline": "Bitcoin Price Falls Below 77K as Global Bond Yields Hit Multi-Decade Highs",
         "summary": "",
@@ -1938,16 +1948,6 @@
         "published_ts": 1795226269.0,
         "tag": "JGB",
         "first_seen": 1795247125.0411215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9sNFdoS3pCZ0hQYzU4c3VCem0wWXFhS2tIdXJhc2JjZ2VTZjZjSFdsMnlfd0ozdEEyZ05FZDh0TzlYODNKT3F0bE5OX2dDTnJaUWNnbQ?oc=5",
-        "headline": "Global Stocks Slide as AI Funding Race Fuels Share, Bond Supply Glut",
-        "summary": "",
-        "source": "bloomingbit",
-        "published": "11/21 10:51",
-        "published_ts": 1795225864.0,
-        "tag": "Global",
-        "first_seen": 1795249832.9939284
       }
     ],
     "watchlist": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 20:30:54",
+  "updated_at": "2026-11-22 20:45:46",
   "yields": [
     {
       "label": "3년",
