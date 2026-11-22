@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBWUjEwdkR0UnR2OWlORHRtdWRjVlQ5ZXhsTXgxakZpU29WZnA0T0Z2MXpVazQzWDcyVFFVd1pRbHk4enFzTmNNbjZYN0ZKUDFzTHNmRVpLaVg5U29XMXZLWl84N3RPSkVI?oc=5",
+        "headline": "26일 금통위 금리 결정…보험사 자본건전성 '촉각'",
+        "summary": "",
+        "source": "보험매일",
+        "published": "11/22 09:56",
+        "published_ts": 1795308992.0,
+        "tag": null,
+        "first_seen": 1795309241.3322146
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aNlZoNmRqQmQ3MHBTSWZRMVlwTmF4aURLazFUTXVNdWEyX0dSUWw4M08zOGNEVzlUaWktbF9Mcl8wY0Z6QTZpc2tiLXh6a3lqX0hvaHNHZUpmX041Xy0tMkZuWDd0TjcxWFFqZHRFSE43SEJvQlFYYtIBfkFVX3lxTFBaY2dubjRsOHh4enpDTWREODRaUnNfSU95TC1QQVUwNUlZOUpaelVLZnZSc3AyUlhUREhOM1l4UTlOelJoNVNvMEpHQnlkRkhxMXliVlpwUEVSd0tqNVNKbXJlU2ZDNnR5TXk3S1dvUjZnTFNlcU5CVTQwZGZhQQ?oc=5",
         "headline": "전문가 10명 전원 \"11월 금리인상…내년 3.5%까지 올린다\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794862808.0,
         "tag": null,
         "first_seen": 1794863733.4724224
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFAyTzJ1aWVHd3dxOXlURjdVNG1vVml4NnMyUDVRaGpkMjdTclN2a3oxNG5MN0xFQTFEQjJ3R0dCRTU4YkF6cGxZRHdCUjl6Ml9zekNpVWhiUEMxUU5UX0ZZ0gFfQVVfeXFMUDJPMnVpZUd3d3E5eVRGN1U0bW9WaXg2czJQNVFoamQyN1NyU3ZrejE0bkw3TEVBMURCMndHR0JFNThiQXpwbFlEd0JSOXoyX3N6Q2lVaGJQQzFRTlRfRlk?oc=5",
-        "headline": "미 국채 금리·유가 반등…불확실성 확대",
-        "summary": "",
-        "source": "경향신문",
-        "published": "11/16 20:38",
-        "published_ts": 1794829080.0,
-        "tag": null,
-        "first_seen": 1794835837.4842951
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 09:45:57",
+  "updated_at": "2026-11-22 10:01:02",
   "yields": [
     {
       "label": "3년",
