@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNnR3VzdKZXdVeFNLRmlvRjBFUHhBUDh6WTZ6ZHBsWVlnM1BJLW9EX2szY0VwWU9RRERTRmdIQWtJYTdTSjVLd0hCR28xQ0p0Vm9pYVdTb2lhZFU3YnFudjlnWmFXc1E1NVBUeHZJNDc?oc=5",
+        "headline": "[채권-주간] 기술주 투매가 밀어붙인 강세…금통위가 브레이크 걸까",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/22 13:00",
+        "published_ts": 1795320002.0,
+        "tag": null,
+        "first_seen": 1795321833.1652172
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeFR1bVdOdmJ5RHlwRzBVaTdLVlBnVF93QVg2d0JtVlRDTmdXcG1lY1pFOU9JOVo4UzFFbi1PdUJ1b0JkcnVhRnVxemc0RXRPVkxqMnJyMXJ4d1dQTnhYamRVQzVEWDJuN3NrQnAxTDI?oc=5",
         "headline": "[외환-주간] 금통위·美 PCE가 온다…AI발 위험회피 어디까지",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794882150.0,
         "tag": null,
         "first_seen": 1794882650.298437
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE11V29xWTdESnFXSlRSTC04RnROMG9wOTdlR3V6XzY4YmZPdFhOUUpYeExqTWlQLUx6aFExZ0swQ21UWUtCRjhRS194TXpuX2YtRlZQSUpWVUxtNVA2OWtSdXNxZ2tlbzN4d0M2UDYzSDdNZw?oc=5",
-        "headline": "11월 금통위 앞두고 소비호전 증거 없네…추가 긴축속도 영향 줄까",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/17 09:39",
-        "published_ts": 1794875983.0,
-        "tag": null,
-        "first_seen": 1794877249.6818492
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeFR1bVdOdmJ5RHlwRzBVaTdLVlBnVF93QVg2d0JtVlRDTmdXcG1lY1pFOU9JOVo4UzFFbi1PdUJ1b0JkcnVhRnVxemc0RXRPVkxqMnJyMXJ4d1dQTnhYamRVQzVEWDJuN3NrQnAxTDI?oc=5",
+        "headline": "[외환-주간] 금통위·美 PCE가 온다…AI발 위험회피 어디까지",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/22 13:00",
+        "published_ts": 1795320002.0,
+        "tag": "JGB",
+        "first_seen": 1795321833.1652172
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGeDhLb24wUWE1aG83cUlqN2dwWlpvSWR1Uzhoal9NeGZ5a0JoV1oxV0NOS1A4Mm8zZ08tMkRDbWpEN0JIZFo3ZVRWZmdPYW8?oc=5",
         "headline": "Economist and best-selling author Robert Kiyosaki, author of \"Rich Dad, Poor Dad,\" draws attention f..",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795209607.0,
         "tag": "Global",
         "first_seen": 1795312503.5707095
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9rbUNDTVpMQVkzdU96NHhTY1k2eGFsY20tcUlDWUI4TWdXVTk0UHNDWUFzcTZEbXZKeFAxUHUtYURvdmRDOGdpSmdrbWs0bUhyclNPVlVVWGtJWmFWemlXWGs2S0puR3AycHJ2Qnln?oc=5",
-        "headline": "XS3573954370 Bond Yield and Price — LUXSE:XS3573954370",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/21 06:17",
-        "published_ts": 1795209432.0,
-        "tag": "Global",
-        "first_seen": 1795277725.8586197
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 13:15:46",
+  "updated_at": "2026-11-22 13:30:54",
   "yields": [
     {
       "label": "3년",
