@@ -1550,6 +1550,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQXR0MDQ2S2FndGw4Q3RWVXJJMHd4QzZQS2ZKN1VrdHp4V1BFenFXUHNfZU9UbXRXcURfZW8tTUNpOG1qZHZQNUJyS1YwYkJSMjRXaklnS2ZqRXFZTElHVVI1WGV3MWoxZDdMR0VyWERJTjNQMlU5N2RIcXRKdkRqOUh6M3BXcFpkTUliZE5oeDMwTUJqd3doa2ZGSDV2SFU2VjZ6MW9hVFZuSVgzWnJXTzlDNjZXdXQ1czVUbjVGZHVzLXJEQ29sNlBkMm1yYW5CQ0E?oc=5",
+        "headline": "Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/23 05:00",
+        "published_ts": 1795377600.0,
+        "tag": "Fed",
+        "first_seen": 1795379432.222266
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDhWVVJjQy1QV1RmRGM3UzQ3Ny13LTZoTm1PM01rQmlDR1d4eW5RaG1KVmJyQUdWNE8yZGFYb0RYWTVYMDExMzByTGd4UDUydWhzdENtQWdEUFNseTI1VmhFcDFLaVZkNm43a1haa0JMazRtbXB5ekl6UDcxZDRiUGpLcjczak9yNDhaWmo3TEJQdGFB0gGaAUFVX3lxTE5kbkZGa1lTUUNHbDJFMFY5cDhGYkFUMzcyTmR1OG1TODlicEtFV1J6VzBIek12OTNKVS1sVzBsa3lyTWtfMGVLbU42X0ZRcTBzTEJRXzdpYi16czZ4SzFhcGJtMXlVMnk3d28zZTY1SUVJTU9vak11SUlEWElobWJ3MXhiUEJRU1VuOThqcWtLX0pLX3NCSnhjSHc?oc=5",
         "headline": "Everyday Economics: The stock selloff could hit spending",
         "summary": "",
@@ -1938,16 +1948,6 @@
         "published_ts": 1795287310.0,
         "tag": "Strategist",
         "first_seen": 1795350632.9554112
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONEVNQnpIdnRqYkplZjAyb3ZDeUVpeDBQMFB6TWlWSm1Ka3lMLUUtZm1hczJIeldVN2ZxeWNnbEJtUUVPTWlJYXlNLVZVcFRsS3lpVmY1RVR0T2ljMHZvWUhzNnpnV0Z1aUJLODhWc2lPQ0dhSEJoaXZzemZCUjNKTS14RWlqaVVI?oc=5",
-        "headline": "美 달러 강세 주춤…엔화 반등에 美·日 금리차 주목",
-        "summary": "",
-        "source": "글로벌이코노믹",
-        "published": "11/22 03:00",
-        "published_ts": 1795284000.0,
-        "tag": "JGB",
-        "first_seen": 1795284932.1507244
       }
     ],
     "watchlist": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 05:15:45",
+  "updated_at": "2026-11-23 05:30:54",
   "yields": [
     {
       "label": "3년",
