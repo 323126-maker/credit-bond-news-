@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1xZXIwa1JtSjBkODFvODdoVXVmMU1XQW8yOXBFdlQzOXI0enA3NFJFVlZHWXdFRmZhSE12TTVHLXJRM0RmWXJTdHhDaURkSFB6UUdncUpqY2txYkNZb1F2M25Uc3pSeUtaaEEw0gFvQVVfeXFMTVlrQ0RVMEpXUzdzWk1pekJsN1BSNjhUczRmd2RCZVdQMFI4UGdyVG1vYWhoUzJfZXJkRjJaT2RWSzZqSTB5eUdCNm9tS1BvQy12Y0ltRnhOSzJjMHpjYTVqUW9IajZnRllCcmFjZmdJ?oc=5",
+        "headline": "무디스, 일본 생명보험사 자본건전성 유지 전망",
+        "summary": "",
+        "source": "한국보험신문",
+        "published": "11/23 00:00",
+        "published_ts": 1795359600.0,
+        "tag": null,
+        "first_seen": 1795360533.9689374
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Fb25Ed2JyNGt6NEVsbGZZMTU0bGt4d3JQaHk2QzQzel9EdW1TQVNtNWUxYThUb1hyeTRLSGpTWmhIcUxtU0loTnZ6eE1ETktCZ3c5T29uTkEwS256UXRpdkVnNEF2dw?oc=5",
         "headline": "롯데케미칼, 합작사 신종자본증권에 5000억원 자금보충",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794967984.0,
         "tag": null,
         "first_seen": 1794969936.8422775
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jTS1HTTQ5eGdkUE1aYTEzOUd1UzI2Z0ppSzBlb0Y5OU9KOEF1S25RVjRoWDdQV19WZzZqT3JzQlVJaVhCdkh2UzNjaVJkSWI3cmttMm1tc1NGMTJXUnR3bExwQzE0NWo1?oc=5",
-        "headline": "KDB생명 매각 또 결렬…'1조 자본확충' 누가 부담하나 '쟁점'(종합)",
-        "summary": "",
-        "source": "보험매일",
-        "published": "11/18 11:02",
-        "published_ts": 1794967373.0,
-        "tag": null,
-        "first_seen": 1794968128.172974
       }
     ],
     "policy": [
@@ -1550,6 +1550,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUDBjaU1xV3dSblktazRjcWl1My13c2E2SGFXM3JqZ0hOUm1faWJnWk9rM2RJUy1WQ0JGZ1V0V0pNWVN0UWNUNTZTOGlqdjdfdzB4Ykozem1aSUNrR0pKUWlCZlVoOXRIV0l4SG9rUjdyaHlEdU1kRUJuZ1l2b3BSTmVWRjloOWdiRDRYcVJ2MmQ1LV96QnZyUXJDaTExTjRobFJTWHUzMDBxazZqeXUxTjJrUy1IVzJSVXRr?oc=5",
+        "headline": "Both Kevin Warsh And His Critics Mistake Rising Prices For Inflation",
+        "summary": "",
+        "source": "Forbes",
+        "published": "11/23 00:00",
+        "published_ts": 1795359600.0,
+        "tag": "Fed",
+        "first_seen": 1795360533.9689374
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWNBdUxFWGJWVjBXbE1NeExCdXlJc0tKSm9oalo4Q3VPSk5yNFFwVGdsYnRKWk51c183VVBSTFBvOWttTWlIQzZtV1BNOTdIUFViRVJSVVlIRHp5cUpjZW9zd0ZZV0FDQWVMREZaMUg4WlN1MFVzWkJTb1JoYkdDTkNwZnR3VXNjaXR3?oc=5",
         "headline": "GLOBAL MARKET CALL: Stocks Are Cheaper Everywhere",
         "summary": "",
@@ -1938,16 +1948,6 @@
         "published_ts": 1795254277.0,
         "tag": "Fed",
         "first_seen": 1795256125.131729
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE96eU9NbVpYcWstenFWQ1g0cmxad1owbUh6Q0JHQ2xyaUlMNDBwUUgzUTBUc1ZNUEpQRlotbG9jck9LRlVadG1pbS1CYm9sQWZjaHlOcm1XeTZMb3hmRUU2SA?oc=5",
-        "headline": "[11월4주 글로벌 증시 캘린더] 한은 금통위·미국 PCE·GDP…추수감사절 휴장 변수",
-        "summary": "",
-        "source": "https://www.theconnectmoney.com/",
-        "published": "11/21 18:04",
-        "published_ts": 1795251840.0,
-        "tag": "JGB",
-        "first_seen": 1795262438.2771378
       }
     ],
     "watchlist": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 00:01:04",
+  "updated_at": "2026-11-23 00:15:55",
   "yields": [
     {
       "label": "3년",
