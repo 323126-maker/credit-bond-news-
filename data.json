@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA1X19NV2s0azB2VF9WUklFRFlaNWdVMXMtS25kWi12ZEhhNmxtdkdSdHdlWmJfUXN5SEJscjIyWGN2U1NqbUFvRWxKWGlvQm5qRzNYY3kwSkNOVXd1V212cXdGM1dTVFpO?oc=5",
+        "headline": "코스피 상승분 77%가 반도체 두 기업 몫…자본시장 쏠림에 기업금융 부담까지",
+        "summary": "",
+        "source": "시사프리즘",
+        "published": "11/22 15:48",
+        "published_ts": 1795330138.0,
+        "tag": null,
+        "first_seen": 1795334439.9405725
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQUxrTmpTMGd1a0RITXUxQ0hQUTU5enA4bGF1RnRhZlMxTWp0dXYzSTRrU0NsOFJLckVsX2lyaHN6TlBIQXo2cXlGelVuTXpENDFPTTBxeVo0UmY3MlE1UG1vY2huYmVNYUkwbDF0ZEJFZjIxLWJmTm1pWE84RnBlSWplWnhaZ3NkUW5oUGRoVGZOOWltY05NQVhfZw?oc=5",
         "headline": "연말 마지막 달에 접어들면서 기업 채권 상환에 대한 압박이 커지고 있습니다.",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1795320343.0,
         "tag": null,
         "first_seen": 1795328128.270975
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE04Qy1LdURaUWx2ZDQ3WjNmd2RlX1BOdEJnTTRRODhwYmQwbVBqR3BPRWxsUEFTal91c1lNMi1KTlFfWUZTV1RYTVZ6WU5xTHpvNVN2UXdzS0xvNWtyN1VsZ2hXWEMtcUpYSUNIOQ?oc=5",
+        "headline": "국내 ESG채권 발행 16.5% 증가…공공기관·은행 쏠림은 심화",
+        "summary": "",
+        "source": "ER 이코노믹리뷰",
+        "published": "11/22 10:32",
+        "published_ts": 1795311178.0,
+        "tag": null,
+        "first_seen": 1795334439.9405725
       },
       {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwczBCa2pXaFJoYVo0a1o2TkRSTFd1eDNRdW5SeFpzQW45d2lkd2Vxd1RNTWM1S29rV0xvc0xmdFlmNjhKaVJnSEQ5WmNjR21LRUNpVzRpRy0yT0MyLXZmVUV1NzVyRENVRHFJ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1795154948.0,
         "tag": null,
         "first_seen": 1795160726.22952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5MTjE3R1pUS2EySnR1ZURUM0l6Ti1xS3FrVnFvNUpxbE1TWXYwdXc2TEhUUXlUS3pBRkpKbnd1b25UZ2k4ek1YcTUxLWZVX1RVS1FFNjFNeVFsRlJnbVFxRzcyY2ZZODJuU2FlZg?oc=5",
-        "headline": "글로벌 지속가능채권 시장 ‘쑥쑥’…한국형 녹색채권 발행도 50조 시대",
-        "summary": "",
-        "source": "ESG경제",
-        "published": "11/20 14:50",
-        "published_ts": 1795153829.0,
-        "tag": null,
-        "first_seen": 1795176046.2941701
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE42c0dmZGNtZ1NVZ2RaeWtqWTlfaTZTcG9ycktUbzNCRjFaejAwczVwOEpWOW1CQzVSWUdyTHI4NU01Q2QzcVcxMnRGLXJiTnVHLWdOZEF0TFlZN1gwRE9TRXdDWVI?oc=5",
-        "headline": "10월 국내 주식 26조 팔아치운 외국인...채권엔 7.4조 순투자",
-        "summary": "",
-        "source": "매일일보",
-        "published": "11/20 14:42",
-        "published_ts": 1795153344.0,
-        "tag": null,
-        "first_seen": 1795239036.6174212
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 16:45:45",
+  "updated_at": "2026-11-22 17:00:59",
   "yields": [
     {
       "label": "3년",
