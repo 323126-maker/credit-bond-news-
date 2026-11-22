@@ -172,6 +172,16 @@
         "first_seen": 1795214726.2643175
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55NzlORU9XMU9uYjRHM1BOckJLQUFBcFhUaG1CYzZucG1HSmM2M3U5NFhib3UzRVlYOGhrUDFXeFFEUlE1U0JOQ2dqNGFpMklrNm5hdWd3NThNRUXSAWBBVV95cUxNd2lwaXpNaTRHSmRuVnNudzRuRUMzakxmbXhhWkhYU1c0SWlHWkNtQkR4Qi16TUZJOTE3YUdaUVFxcjZKOUNGSVRWeTMwbVhYRnl1ckFnM1NKaVRGZnFIUmk?oc=5",
+        "headline": "나스닥, 기술주 매도에 5.3% 폭락…다우·S&P500도 조정 진입(종합)",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/21 07:22",
+        "published_ts": 1795213338.0,
+        "tag": null,
+        "first_seen": 1795329035.7850893
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE91clBDcU5fYWdlUEpZdEJuZnhkUUNLdHhSZXZXZ1hXV2xHbHRhMXdUbVMyalU1X1JXdWUwcG9VWlZndlpoRXNYWGFEY1JRS3pZX3ctVWNHOEVMclB2aXNPcW5CVHdwTXVxN2VPdmxXWk4?oc=5",
         "headline": "S&P, 마진 확대·광고 수익화 개선으로 스냅 신용등급 ’BB’로 상향",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795152453.0,
         "tag": null,
         "first_seen": 1795160726.22952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PTTNDdUJvbG1seHkwVkNVcUxpYTAxQ19UU1R6MGllbGZzMlNSaHVfRUoweEhDeGpmdXV4R0d3Yi1Fd2V4aTFGbDQ5Z2h3eF9QRnZDYU9ZWUdJc2NCaEkxekNwQ0xMYTRBMjkzcDdZLVo?oc=5",
-        "headline": "SK하이닉스, 메모리 중심 서버 랙 '마스' 시연",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/20 13:32",
-        "published_ts": 1795149179.0,
-        "tag": null,
-        "first_seen": 1795168838.8186324
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 15:15:48",
+  "updated_at": "2026-11-22 15:30:53",
   "yields": [
     {
       "label": "3년",
