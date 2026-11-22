@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZamF4LWdXSjFqNEN1LXo0S0ZBZ2ZMRzdPR2xOYkFXVmVwNXdSbV94NXRNaW5mSXRBUS1INmFnX09sS1lHZGFPSWMtRkZkdw?oc=5",
+        "headline": "5년 연속 적자 영풍, 자회사 배당 막히자 자산 매각으로 유동성 수혈하나",
+        "summary": "",
+        "source": "전자신문",
+        "published": "11/22 09:00",
+        "published_ts": 1795305600.0,
+        "tag": null,
+        "first_seen": 1795306529.5108073
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUXVmYkFhQVQxRkNIZEdVMUF4aGVidWRlQWQ1MW5IZHFpc0dSOGhhTlhTWmlwM0NENHo2alF1SDUzT29tRFlfdmhUT0daMnNNNXM5SWVIdGZkdWFJdVRlWDNlVkk?oc=5",
         "headline": "“고려아연 의결권 지키려 만든 YPC”…영풍 금융자산 흡수하며 역할 확대",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1794963256.0,
         "tag": null,
         "first_seen": 1794964536.714474
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wa0t4YnM3Rjh1U0JQYVpfbWRKeVA5WG5VMGhBU2RFWm9Cd2kxVkN2NTFVX0g5RzREckREelVPaE9lTXVQck5obXNkOTFQeF8zRW5xdnJjd2RkVHRHdG5HUFd1ZVBZUUl5bmV5dkZ3a3dPWi1yRUE?oc=5",
-        "headline": "삼성생명, 삼성전자 주가 하락 반영… 목표가↓-NH",
-        "summary": "",
-        "source": "인포스탁데일리",
-        "published": "11/18 09:33",
-        "published_ts": 1794962008.0,
-        "tag": null,
-        "first_seen": 1794962727.3113747
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 09:01:02",
+  "updated_at": "2026-11-22 09:15:50",
   "yields": [
     {
       "label": "3년",
