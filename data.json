@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3eXFhYTlOU0poNWJWTUw3djFncnE5QkRLVTZaM3M5MFJHTmM2Q1k4UGxWMHZoWHlNNVJzWF83c0FTZUF6MnpjSmx3ZkN5ME0zdjdfRExR?oc=5",
+        "headline": "영풍, 자회사 YPC서 배당 수령 없어…금융자산 팔아 현금 확보",
+        "summary": "",
+        "source": "지디넷코리아",
+        "published": "11/22 12:30",
+        "published_ts": 1795318201.0,
+        "tag": null,
+        "first_seen": 1795319124.6840446
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE95aFplWTVzSnREb2h5RnNBX1k3MkJ6WTFaUVNpY2hWQWxOUlBMX3N4bW1zdWMzQ1J2T0RwQlVQcnRQZldDa1ZaQlJYN0Y0UG1xR0pybmNYN3YwX3FoZk5aODVERW82LW5Id0tQUmNMcmhtWUJhODlVZGxwcl8wWlU?oc=5",
         "headline": "영풍, 고려아연 배당수익 YPC로 이전…배당 대신 자산 매각",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "마켓인",
         "published": "11/18 10:30",
         "published_ts": 1794965402.0,
-        "tag": null,
-        "first_seen": 1794965981.0745342
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9kM01HMHVyc1FJUmNWaUREZ3VMMlEwZmt0dEtUc2o0akQ2eHF0eEVaZHpMN0dUMEpWV1VCVnJ3REdDT3RaU1FadzJDQktobTVGR0dMaDRIcGJyLXJDcTU5M0UwUGpJQlBOay1VU3RhUmpoeUU?oc=5",
-        "headline": "KDB생명, M&A 또 무산…증자 규모 두고 산은-한투지주 협상 결렬",
-        "summary": "",
-        "source": "대한경제",
-        "published": "11/18 10:23",
-        "published_ts": 1794965031.0,
         "tag": null,
         "first_seen": 1794965981.0745342
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 12:30:55",
+  "updated_at": "2026-11-22 12:45:47",
   "yields": [
     {
       "label": "3년",
