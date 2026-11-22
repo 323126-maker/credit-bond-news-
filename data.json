@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGU5ZnlnMnByNjFxbXVhblN0MGdXNGcyVktSRTdQM1o1YkRzUVl5ZUo0c0FpaV9RMV9YZnNEWExyb25oaDhFWjdnWUhNTlNzTGhjNElMQ1lVdjdoNGZCcDVkbjdHVDhsVEdpZTh1N3o0VV9ld2tma2dmbWx2TGhNaW94Q3c?oc=5",
+        "headline": "Vinhomes는 채권 발행을 통해 3조 VND를 추가로 조달하고자 합니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/22 18:44",
+        "published_ts": 1795340653.0,
+        "tag": null,
+        "first_seen": 1795342525.807665
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9hbTY0dDA5bWFDQmwwVnVSYzFIX3F1d1RYRm13U2ZwS01RNzluRTZwSEc0R1hSVW5KWnFLNEhiZ21nUDJSb3NHSjJEQlJRUzd2WFdWOXMyUGkwbUVERGo0WlZQSWQtSFd0Y0phT3d3?oc=5",
         "headline": "고려아연 배당금은 YPC에 쌓이는데…영풍은 배당 대신 금융자산 매각",
         "summary": "",
@@ -792,19 +802,19 @@
         "published_ts": 1794965671.0,
         "tag": null,
         "first_seen": 1794966327.7334452
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTlowanNVTHRoVmxBanlQUms4RDhYNklXWWhrZ3V3d3VtZjU0Ni1acUl5MUtnb1JRTTdRWDQxSnBHVG55RTFOVTJBZ2pjYzZwazQ5ZHRNRnVtSjZaZ2w1M040V3JfQ1dxc0hPT0Rwc3ZfSHNuZVNkb0gwNlN3QnFoWQ?oc=5",
-        "headline": "[37th SRE][Issue]제이알·중앙 사태에 위축된 BBB급 시장",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/18 10:30",
-        "published_ts": 1794965405.0,
-        "tag": null,
-        "first_seen": 1794965981.0745342
       }
     ],
     "policy": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xNXo0bm94VUVOTHBQVXBHRlJBa1Vja3NWZ0wzTE5Ba3JTdVdnMHpGMWJvbUFTWFIyVWxoMkVsVWhkN1ZTZUVMbkx3aTF1cmV6Q2fSAVNBVV95cUxOUUtCenZGNHFOeG8taG1KRFQ0WDRBMF9JcEwyOEdweFdKenl6Y0VwZklBeXp2eDVldHhOdnVKUFFFQkpWYjRRcV9XOU5wTzN3MzNfNA?oc=5",
+        "headline": "전문가 90% “이달 금리 0.25%P 인상”",
+        "summary": "",
+        "source": "서울경제",
+        "published": "11/22 17:46",
+        "published_ts": 1795337183.0,
+        "tag": null,
+        "first_seen": 1795342525.807665
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRVZSMld5Q2NLV1FKZFhhYVRrb3hIZjVzTzgyZzJNVXZVZlZGWUFIZjZFZ3Q3OVUtS3BsQ29ETXh3TTRWb0VrTHJBOXJkejZJ?oc=5",
         "headline": "원·달러 환율, 연말 1380원 전망…외국인 주식 매도·美 긴축 변수",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794901963.0,
         "tag": null,
         "first_seen": 1794906927.4602587
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBJYkVRZWtjZlgydzB0T0NmRlpsMTFLMmJMYzdwYjE5ejljbmtYekZONUl6Y3J1Q24wUDRWSXFTT2NWcWRoNlJFU2ZFbGkxVy1WWnZrNGNuU3czYzBLVm9BNVdsbkpSVE90c1QzSg?oc=5",
-        "headline": "원·달러 환율 상·하단 제약…좁은 박스권 등락 반복",
-        "summary": "",
-        "source": "위클리서울",
-        "published": "11/17 15:35",
-        "published_ts": 1794897346.0,
-        "tag": null,
-        "first_seen": 1794925836.447791
       }
     ],
     "politics": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 19:01:00",
+  "updated_at": "2026-11-22 19:15:45",
   "yields": [
     {
       "label": "3년",
