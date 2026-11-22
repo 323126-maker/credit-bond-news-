@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBLRVZSMld5Q2NLV1FKZFhhYVRrb3hIZjVzTzgyZzJNVXZVZlZGWUFIZjZFZ3Q3OVUtS3BsQ29ETXh3TTRWb0VrTHJBOXJkejZJ?oc=5",
+        "headline": "원·달러 환율, 연말 1380원 전망…외국인 주식 매도·美 긴축 변수",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "11/22 17:35",
+        "published_ts": 1795336524.0,
+        "tag": null,
+        "first_seen": 1795337125.0961564
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xNnR3VzdKZXdVeFNLRmlvRjBFUHhBUDh6WTZ6ZHBsWVlnM1BJLW9EX2szY0VwWU9RRERTRmdIQWtJYTdTSjVLd0hCR28xQ0p0Vm9pYVdTb2lhZFU3YnFudjlnWmFXc1E1NVBUeHZJNDc?oc=5",
         "headline": "[채권-주간] 기술주 투매가 밀어붙인 강세…금통위가 브레이크 걸까",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1794897346.0,
         "tag": null,
         "first_seen": 1794925836.447791
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1mNnQ1ZUpZUEdkNjBZMkVhcnVtQl9KaFBXcE1mdVVTemtlVmpkcDNnR2o1MDZSdFVCQnRrbHhDTG82QzE2RnY3VXJ1WQ?oc=5",
-        "headline": "채권시장 약세 전환…3년물 금리 연 3.757% : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/17 11:54",
-        "published_ts": 1794884096.0,
-        "tag": null,
-        "first_seen": 1794924042.246158
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 17:30:54",
+  "updated_at": "2026-11-22 17:45:47",
   "yields": [
     {
       "label": "3년",
