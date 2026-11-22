@@ -202,6 +202,16 @@
         "first_seen": 1795374039.8556492
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9CSTdKTjdXS3VidzU0b2NYYnNkME5ETzRhbmMtOVhhdnZfT2l2TGRpT1I1akdTdXhRMHBNQlJCT2J6TWRBdWlzWHBn?oc=5",
+        "headline": "알파벳(GOOGL) 5.6조 채권…‘2066년 만기’ 6%",
+        "summary": "",
+        "source": "코인리더스",
+        "published": "11/21 15:52",
+        "published_ts": 1795243977.0,
+        "tag": null,
+        "first_seen": 1795384839.9812717
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoR1JKaE5maDZ1SmN5NEMwXzA3akJ1NWFuZDRhbk5xQnQ2ekFrczFoOWhBZWtoQkdWQjVkZWFTZEJ2Y0dMZ1hhcTJsQlVRSU1Fd1JQb2tKU2ZfVU5MamlrV01iRXdCNTN2SU9aMnRn?oc=5",
         "headline": "비트코인 강세장 지연, AI 버블 붕괴와 유동성 압박이 원인일까? (+BTC, AI, 유동성, 금리)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795166847.0,
         "tag": null,
         "first_seen": 1795185038.6318345
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5zS0dobGw3LXNuWFY0Zzk4cUhfVHl2djIzMmpHLUpfZkRlVUotMmw2dW15UnhnZjM2YmttbDdjdmoyM194elh2WmNMV1l1OVk5cVVpcFBMbEw1QlJnQnczdDhlbWEzdlV3akhfQ1QzNkRyWlE?oc=5",
-        "headline": "RFP만 쌓이고 돈은 안 풀렸다…16bp 벌어진 회사채, 기관 집행은 내년으로",
-        "summary": "",
-        "source": "마켓인",
-        "published": "11/20 18:11",
-        "published_ts": 1795165864.0,
-        "tag": null,
-        "first_seen": 1795168838.8186324
       }
     ],
     "perpetual": [
@@ -1536,16 +1536,6 @@
         "published_ts": 1794519600.0,
         "tag": null,
         "first_seen": 1794520841.3213012
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ScktidjlmMFU1a3JaRk1oZlZkM3k2UkxiVENOeFMxaV9QdzdBWkY5SU5PMjdHU1RLclhwcXRRU1ZIdXFpSzhKMUZzLTd2dHBSYU0tYTNBb0ZJVlJHSXZ4NERGNkFzd2VEZ2gteGtaTllrb0U?oc=5",
-        "headline": "이 대통령 “지방재정 경직성 너무 높아…재량·자율성 넓혀야”",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "11/12 20:10",
-        "published_ts": 1794481855.0,
-        "tag": null,
-        "first_seen": 1794519925.863276
       }
     ],
     "global_bond": [
@@ -2353,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 06:45:45",
+  "updated_at": "2026-11-23 07:01:05",
   "yields": [
     {
       "label": "3년",
