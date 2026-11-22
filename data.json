@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAwczBCa2pXaFJoYVo0a1o2TkRSTFd1eDNRdW5SeFpzQW45d2lkd2Vxd1RNTWM1S29rV0xvc0xmdFlmNjhKaVJnSEQ5WmNjR21LRUNpVzRpRy0yT0MyLXZmVUV1NzVyRENVRHFJ?oc=5",
+        "headline": "무디스 \"차입비용 상승\" 경고…삼성·SK도 원화채로 유턴",
+        "summary": "",
+        "source": "한국신용신문",
+        "published": "11/22 10:17",
+        "published_ts": 1795310220.0,
+        "tag": null,
+        "first_seen": 1795311034.0480075
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuakdTbGp2U2Zoc3ZGcWdzQU9KSUJTZVJDcWNKYnhCYUdBY1A5WnlUdGZZb3Zacko1bmplMTdoV3FOUWN3Umlxd215SEpaZ2tTTmx2el9udVNLUQ?oc=5",
         "headline": "“사상 최대 IPO가 쏘아 올린 유동성 발작”…앤트로픽 쇼크와 AI 거품론의 진실",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795133966.0,
         "tag": null,
         "first_seen": 1795134645.6049492
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFYThlb0lOMXI2azZ2Z3NNUEJySTlSdHRwLVhjUkxuQWo2NGRLd3pYVW0wcHdaSWlOS29BV3RnbkZ2YkRaYnNHaHBlLTRla3g2cV9TVTZDS1duYWxSUDFNandQUTlSelFWRElWcnZyamJhUQ?oc=5",
-        "headline": "국채선물, 위험회피 반영해 상승 출발…코스피 급락",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/20 09:13",
-        "published_ts": 1795133581.0,
-        "tag": null,
-        "first_seen": 1795141833.9661844
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 10:15:58",
+  "updated_at": "2026-11-22 10:30:56",
   "yields": [
     {
       "label": "3년",
