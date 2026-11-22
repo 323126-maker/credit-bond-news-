@@ -42,6 +42,16 @@
         "first_seen": 1795312842.1696231
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPLUJEaUxIOHduaUtvS2pVcmhwLTZuWENWTTFVbXltMUJBZXpTZk03bG1DcnNuR1g4LTZBeFZ1NE5HVU5WYXBNTEFHY3VCM3RsYWVlb0R4VTBhbnprM000Q1RPLU5ZZE10UjdTai04RGlzXzd3Y2FMMmJNdWVxR1hBcjd2OW51ZVZlX3FEVGdHcnAydXZhVnU0dw?oc=5",
+        "headline": "미 증시, 엔비디아 급락에 6개월래 최저",
+        "summary": "",
+        "source": "데일리바이트(DAILY BYTE)",
+        "published": "11/22 01:55",
+        "published_ts": 1795280110.0,
+        "tag": null,
+        "first_seen": 1795318232.7282166
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBuakdTbGp2U2Zoc3ZGcWdzQU9KSUJTZVJDcWNKYnhCYUdBY1A5WnlUdGZZb3Zacko1bmplMTdoV3FOUWN3Umlxd215SEpaZ2tTTmx2el9udVNLUQ?oc=5",
         "headline": "“사상 최대 IPO가 쏘아 올린 유동성 발작”…앤트로픽 쇼크와 AI 거품론의 진실",
         "summary": "",
@@ -302,6 +312,16 @@
         "first_seen": 1795158926.1998343
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HTThxNnRrQV9pdktjVFdTQmVhR0xfMnVsTWF5TnhZOXZVNTZKZ0xHNzZCaUVkQ25QNXQ4c1JFVnpRV3pJSFRBY3hCaXpJZE1BYmo3RzkyTGg2Zw?oc=5",
+        "headline": "[속보] 또 '검은 금요일'…코스피·코스닥 5%대 급락 마감",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/20 15:34",
+        "published_ts": 1795156488.0,
+        "tag": null,
+        "first_seen": 1795318232.7282166
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE43OExxTmRxOVBnalM2cGRXVm5HMnRSUkhFUmhuUU00dkEzQ1dBRXJJRGhTZG9XYi13bkthcHdzUDdYdEZSamdLcHhNODNHWFNPNGJoSUo2dDNrbUg5S0VRNE84LXgwbDZtZmdMY09MTnJSQQ?oc=5",
         "headline": "고금리에 신용도 악화까지 ‘이중고’…23개사 등급 하향 경고등",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795143165.0,
         "tag": null,
         "first_seen": 1795164325.4789083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaN1pSbzkta1MxalYwN1JUZU1XZ3RUX2E2Vld2WVhTZE9taWZTeGRpVEpTNzJzX3A2NWFXX0Jqc3BPaW9hejlvX3oyZXZoYmF2TGdXMkxJZUZyb09Ob2NNODAtQjBNS3JFd1ZPX1pkRTVUdw?oc=5",
-        "headline": "코스피 4%대 급락·대외금리 내림세…국고 3년 4.9bp↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/20 11:22",
-        "published_ts": 1795141321.0,
-        "tag": null,
-        "first_seen": 1795149033.4620821
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ydkp0TUhPU0JRTXhqWlhaZWhqNkJDbjlnMnN6QUYwNGJZTHNIVEJDNmFhcDNjR3BmUFBjU1E2eXBlMldqWDlteENiZE9DUnpHcXk5VjV1T1hCR0FxeExhZGludE9RU0dWQUVn?oc=5",
-        "headline": "알파벳 5.6조원 캐나다채 조달…美 달러 쏠림 피한다",
-        "summary": "",
-        "source": "한국신용신문",
-        "published": "11/20 10:45",
-        "published_ts": 1795139100.0,
-        "tag": null,
-        "first_seen": 1795144525.7451355
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-22 12:15:45",
+  "updated_at": "2026-11-22 12:30:55",
   "yields": [
     {
       "label": "3년",
