@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBodzlmVTR1YWVkeGYyMFF0VGxHLWlHekd5bEFuWWgxbWtrd2w5VXRGMUFhd2oyemNlcENoT1JsMlVJZzhNdkxDcVlBNTBDYjgwOThHWTVER0N4amFlcHlQSS1scjVMdFFLQkdJ?oc=5",
+        "headline": "국고채 금리 4% 고착화 우려…내년 국채 차환 110조·이자비용 35조 '재정 비상'",
+        "summary": "",
+        "source": "충청시사신문",
+        "published": "11/23 08:52",
+        "published_ts": 1795391559.0,
+        "tag": null,
+        "first_seen": 1795392927.3157408
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE90RlpEQnVhS0hVNC1qbmtSYWJKRlE0ZlJ5YmJRNzduUjE1a1NFWFFCODhuajNoZW5iOGNJX1pMckJNTzVudVJTREo1b0x2Q2pHM3NKZDVEM1NOMjVvclRyNzljR0NoRmZQWGtV?oc=5",
+        "headline": "국채 발행 10조 줄여도 금리 4%…정부 이자 부담 35조 넘는다.",
+        "summary": "",
+        "source": "현대경제",
+        "published": "11/23 08:50",
+        "published_ts": 1795391451.0,
+        "tag": null,
+        "first_seen": 1795392927.3157408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNjJqYnlwZGVheWxsYmlUWE9KeVNfVFQ4aXlnRGI4Ny1zR0FfX3A5XzdDSmRJYWFJal9iZVpHN3RCMnlWQ2N0X1lZcEdfY2NpY0HSAVNBVV95cUxQdVBNSTViLTVPZkUyQktfUC1NOFlXVzJ2VVFlM1hBOUtCRTVqbzI2SmI3N3BxUVgzVHAydG9YM1YxTnZWQkg0UnVEZkl0UlBoYUt2WQ?oc=5",
         "headline": "전문가 90% “이달 금리 인상”…최종금리 3.75% 전망도 [Pick코노미]",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1795044402.0,
         "tag": null,
         "first_seen": 1795046442.395778
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA3LU0yVkZrcXZtTHVfTWp6LXpKMWdaa0tCemQzeWs5X0JqVk80OUhSQWYzazJWQW1tODVSMmJOWTllTjk5bFYzZ1RhY3NEYTN0YVRSZw?oc=5",
-        "headline": "채권금리 내렸는데 대출 이자 준거금리인 코픽스는 왜 올랐을까",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/18 15:15",
-        "published_ts": 1794982500.0,
-        "tag": null,
-        "first_seen": 1794983435.320255
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5MUjBjcjZCQVNCUUpTdHZnSGlaLUpQaW45ZFlKZGpBOVF5NHozMVFhM0o2aXVseUpROXkxSTk5UkZtNDU5UXgydTlsUUExazFhUXBTNHFNcUVXS3Y1OXRBeTcweFVmQU5jdGcwZThVNTEwbzcy?oc=5",
-        "headline": "한은, 11월 금리 올리고 추가 인상 시사할까…채권시장 ‘긴장’",
-        "summary": "",
-        "source": "조세일보",
-        "published": "11/18 13:02",
-        "published_ts": 1794974561.0,
-        "tag": null,
-        "first_seen": 1794975331.9870431
       }
     ],
     "politics": [
@@ -2333,7 +2333,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 09:01:08",
+  "updated_at": "2026-11-23 09:15:51",
   "yields": [
     {
       "label": "3년",
