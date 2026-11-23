@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeDJLdVhhZXpDTGNYZmhneGtXV1M3MHo2M0lMU3ZuLVNDNHVRWGVGcFBFWVNSRUEtYThLMmY2STVETUZJdlJHUERMNHNJdXZvQUQydzUxZmxNZ3ZnMzVUNU15M1JPZFhwTUVnRUdFM2ZWVnFrNU1IVWM3TVp4dXBUYTVn0gGWAUFVX3lxTFBVZkJUQXp5Y1NiUUNqQUF3S0p3dlJCLWZGbUtnUFlHRi1PM3lkeHNxU3JSVmg1b1pyc1Ytc1VnRWtqVWRkOGNOZU9OaGlpWUxZeWJUcmwtelVHQ2hKUGNjYkdVSjZLaUR3am5QMEJ2NGxOUXhVczhzN3F2UHBGdm9VN0ZzMVhXVjMwNlNmMnQzZzJrSENPdw?oc=5",
+        "headline": "‘화려한 IPO’ 앤트로픽, 채권은 정크본드 등급 우려",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "11/23 17:43",
+        "published_ts": 1795423380.0,
+        "tag": null,
+        "first_seen": 1795424444.2783408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9weW9PbldsWkdNSmJLZWwxNk12dEdCRmJKaWtpTld2aHZnb2xnc1Vtd3VTMmlOenJ3WndmMlBzcUk2T2R5MVVwSGxKa3JzeGw4QnBieS1SNnRFSjU4MkZuc1lrOXdIOGJ3VE1ON0JsNV_SAXRBVV95cUxQdTFtazFwQ3pXOWoyTzRYMFFwNXdBLTU1SGJuWVQ1YWtEVVp5bDU0ZFE0TjU1bFB3QkxJUk1QTElnS25oSUIyYUlxOHlMX1Yzbk50YW9lNzRHMmJUT3diR2pHQWE1ZFdOS0U3NG5VRlFJV0JSTw?oc=5",
         "headline": "달러-원, 증시 급락에 1,345.90원 서울장 마감…10거래일만 최고",
         "summary": "",
@@ -20,6 +30,16 @@
         "published_ts": 1795422289.0,
         "tag": null,
         "first_seen": 1795422647.049846
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mVk1qOXA5d0FSbE1XSXNYdDNCanJjaWttODQtelZCUnQ3V1hBRG5lVjBONHBhQk9CazJESlM3VjJHSmhiT0NwTjVIM1FXS1BZRk1lRk1mV1JzRFZQaWg0OHVuWVpKeExQaGFYbg?oc=5",
+        "headline": "SK, 연말 3000억 회사채 발행 추진…12월 900억 만기 도래",
+        "summary": "",
+        "source": "메디컬투데이",
+        "published": "11/23 17:06",
+        "published_ts": 1795421206.0,
+        "tag": null,
+        "first_seen": 1795424444.2783408
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEajB6b3d1TUswMkZMb0pIcmgzc21mWW9tT0NOREd6WXMzWTdteGgySU4wV2VuNHg0N2hoRDR3dkNfM2dhLWRYYndYbjFvVEctUVpxbmUzcUdMZjZORXNCMFgyUHVtdFEzSi1xbXlzTkhrUQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1795364027.0,
         "tag": null,
         "first_seen": 1795393833.6734803
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNV0trNUhxLWhCNzdfRnpZWEhEODZaTGJfcDhxSWZhQ1JzOF9oVUpnRFIxUFdjVXBMWmt3UWtiQW1laHppVXpuNGJvdzJYUWFtQlg3M0JYc3NDNlV4b2IybTdneWx4Wm5xNUVNYTlLWm1pcDNtWEdvTVJGZFhKSGJYUg?oc=5",
-        "headline": "“AI 신용 재평가, 위기 아닌 옥석 가리기”",
-        "summary": "",
-        "source": "이데일리",
-        "published": "11/22 22:56",
-        "published_ts": 1795355771.0,
-        "tag": null,
-        "first_seen": 1795358725.4184933
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5rbGVmVktNM0ZpNUZuMUxKMVZsM3hfeWU2ZVQ5UE5EOVhxSlQxTmJ6MXJHeEVLRXhSM3hlWFJnaDMtanozSy1kQ1c3TklBNm8?oc=5",
-        "headline": "[속보] 정부, 미 증시 급락 국내 여파 우려에 '증시안정펀드' 가동 준비",
-        "summary": "",
-        "source": "사이렌스",
-        "published": "11/22 20:31",
-        "published_ts": 1795347083.0,
-        "tag": null,
-        "first_seen": 1795350632.9554112
       }
     ],
     "perpetual": [
@@ -1550,6 +1550,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IOHZERC1GRW5JNmZpMzJCVTZWVzVlMHlYT2VnN2hCZkdpLVA0OGgycFV2UjhCVVAtQTVBSmVXSHVXU3pkSVlvTTVoWWk3NHJkTnpYN2ZFcGtjV3JDdEdoNTJkeHhFZ01RV2ltbFFRRmZRby1YYzNBYlp30gGOAUFVX3lxTE50TE5jbWtuR1l6Y09KaXpDWFRPRlp1TnRCc2Z1czVDQXdzTGZqLVAtLTJ1ZWVvMnBoQXNoUW1xLVhNbUhsa1F3ekxKVDlyTFEyeTRpNDRXWlo1ZnZOTmYzMzJWeEVrQ3B6OE55Ukh2ZHF1UXo2dHJRNzlEMXNMNjJLQkFqQTNfeEJHQ09VaGc?oc=5",
+        "headline": "Anthropic could face junk-bond rating over losses and spending commitments",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "11/23 17:44",
+        "published_ts": 1795423440.0,
+        "tag": "Global",
+        "first_seen": 1795424444.2783408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBEajB6b3d1TUswMkZMb0pIcmgzc21mWW9tT0NOREd6WXMzWTdteGgySU4wV2VuNHg0N2hoRDR3dkNfM2dhLWRYYndYbjFvVEctUVpxbmUzcUdMZjZORXNCMFgyUHVtdFEzSi1xbXlzTkhrUQ?oc=5",
         "headline": "[채권-마감] 금리 하락…AI 투자 우려에 주가 조정 지속",
         "summary": "",
@@ -1608,6 +1618,16 @@
         "published_ts": 1795411380.0,
         "tag": "JGB",
         "first_seen": 1795412732.6148405
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFBvbXRvSGx3SFlvbHBjbnJPQXFwU0x5YzdmTjgyY3lSbE5DaVJsaFZTdkVMbXdIS3I2RkVZNmM5dGlLcUlVb3c4cjcxMWtlSDhtM0hDcV9iSU5ITlJZT0RLd1JuZnRqd0ctMXRsWUExUnpsbUdwZnRtVkliWDNmOXhnYWFDVm1ielMyUkNpaUExUQ?oc=5",
+        "headline": "CII urges raising foreign investment limit in PSU banks to 49%",
+        "summary": "",
+        "source": "FlipItMoney",
+        "published": "11/23 14:01",
+        "published_ts": 1795410066.0,
+        "tag": "Global",
+        "first_seen": 1795424444.2783408
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2pCU3U1MXltdV9LU19WQmlLdE5Uc083VXVNUjBLZlVHS1hWVWxhZXZnZEt0WENBM3pTcDlVUFg1TGg2c1VSbm9wcEdZeUIxQlN6ckZoX2lsT0RwWWlQOXRyZ3dCQmE4Tk5Gd2hlQ1pJVE9yZ09sbVgydXoweEpLSFptd1NXZkktdjFsMWM4MllvTHYzbEdKRnJtRXVTU1NaRGdCeG5kNTZwVlNZN0tjWTJpNHRvQmdIUUNz?oc=5",
@@ -1830,6 +1850,16 @@
         "first_seen": 1795366840.114133
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMDczenh5ZUYyZ3M5bjdUWHlMVlFOTU44SnRhcVBFR1JkcXZEOXNUSU96VHo5VXBBWFR5QjRxTFc3YzNUbUVNQWZLSjJBdTJNLWd5WFRfb09RZWl5NVhmbDdzSWtUYmZ2S0VCV2tHRU9FTmRTUVNPRXF3NmxxYWNsWDk0Z0FLWmxaVHpQdHJMMjM5XzVDd3RaVy1STDNQNjV2c3R4TEFqXzhObHpFQmFUUlNPX0pTZ3M2UHVZV0ZzYVl6N01qTFpKQ3BnOVc5SXJud3V3?oc=5",
+        "headline": "SpaceX (SPCX) Fell Despite Investment-Grade Ratings — Why the $20B Bond Deal Matters",
+        "summary": "",
+        "source": "TradingKey",
+        "published": "11/23 01:33",
+        "published_ts": 1795365209.0,
+        "tag": "Global",
+        "first_seen": 1795424444.2783408
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVThuUUUzUVhQUzZ6OGFISkNZcTM2dmZ3am5XVG5nRjdNemRfa00tUGRuYVVSd2xkVkxfUkNEMnlHQUNkdk1rQ3Zlal91VTZkeUJNVkIxSTRJbGlzeVI1QlczbFFmbVd1UDlsRTY5UkxPeVBOWnJvLUJKYkV2Mmg4QXk2QQ?oc=5",
         "headline": "From Hawkish Risk to Risk-Off: The Bond Market's Next Big Test",
         "summary": "",
@@ -1918,39 +1948,19 @@
         "published_ts": 1795348131.0,
         "tag": "Global",
         "first_seen": 1795352445.2756433
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUlZ6NVc0X2lrSlRrdnY5MnlLRzdTT050dGg1ZzI0b1hTeVl0OWJGX3JLQ0p4anZDQ05UZzBXLUJRNHZkckVKQ2xPSWlKTndWcEhVY0VYTFE5ZHBuYWZzQmoyM2M1WjNUaDhzRDcyUnFRVVRBeHVCSk16a1dfeHhHdzIwTQ?oc=5",
-        "headline": "14,000 new condos, too few buyers: Metro Vancouver’s glut would take about 5 years to clear at this year’s sales pace",
-        "summary": "",
-        "source": "Money.ca",
-        "published": "11/22 20:30",
-        "published_ts": 1795347018.0,
-        "tag": "Strategist",
-        "first_seen": 1795367725.8539531
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX3NMLXhhYU1lOVVLWU9sY0k0SDUyQnEwMG9SZ1RzNHZobTIyYk9KWGJlOGhic3FKdlQ2NXlIVDF6SW1oRlNWZlY2NHlNLWlnNGoybzAwLWlkV3V1Q1ZtM21KS2FLTy02NEF6VjY4UmFNc2hYa21mRURlSkJYZWxtc1R3VmRYZFlKNUU3NzZiMkZGNGJZcG1xZUNCN0RQNkRndEVPb9IBqgFBVV95cUxOU1FSZ3pWOURaQUxBS296TzBtRFFGclJXTnpLYWwzZXU1Q01kcVZUczBxUDAwR3FaYmFZdzlXUWM2T0Q3TDVldm9nSVY4OERYRUtkdm5sdndPSU1ETU1yc3BuMEpXLTd2VFFZRTVQcWdMZFdEZ0EzYjhTS200RFBkZy1jbE01WVhVbEgyX1Z2dXc4MWxmbXd6cl9pSlp2TDRldkdkS2hwOVE0Zw?oc=5",
-        "headline": "Will the Fed raise interest rates this year? Divided economists weigh in",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "11/22 20:25",
-        "published_ts": 1795346752.0,
-        "tag": "Fed",
-        "first_seen": 1795349727.7685218
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWEZ5Z0dFSEdOa1hHTWxEb0UwMWZCVnlhd1hUTjBDMXcxVWZ5NzhqVWsyTDUzMEsyRjVrQWNqRGRCNG1NLW5RcndqVnMteDFDaEdfX3dnM01XVTBENVRzYk92VURER050XzhndVRGNEJST1d5Qkp0cXc5UmJTMm5EOGprOTRYdzZrN1M2RGI4S1FZOUFreU5qTUxkTQ?oc=5",
-        "headline": "Philippine Treasury bill, bond yields may rise as retail dollar bond offer drains liquidity",
-        "summary": "",
-        "source": "Traders Union",
-        "published": "11/22 19:41",
-        "published_ts": 1795344085.0,
-        "tag": "Strategist",
-        "first_seen": 1795345238.890649
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5QZGV5OW1WM0RRQi1VTU4zdEZyTUxWYTh6dllxanlyeU1qMXlLZTUwVDNPVTE0S3JXSVVuWEJXaUU0QnBnUXRVZ2hnZw?oc=5",
+        "headline": "롯데카드, 회사채 발행 때 해킹 위험 빠뜨려 10억 과징금 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/23 17:31",
+        "published_ts": 1795422702.0,
+        "tag": "삼성카드",
+        "first_seen": 1795424444.2783408
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE96R0VPVDZCenlXcjg0MXVZUVdCVHdPYmE0T2E0UGJXdWFCb0tNdm9OT21tckZHdHNtU01lYnV4UlVMTXg3ejRfV09ZaGhHUzl6ZVllQ3M1ZEtkWnducy1vRmpraUM?oc=5",
         "headline": "롯데, 롯데월드타워 담보 해지…롯데케미칼 회사채 8000억원 상환",
@@ -2340,20 +2350,10 @@
         "published_ts": 1794986577.0,
         "tag": "삼성카드",
         "first_seen": 1794987045.7760844
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE84akNHVENqekRySjNYY1FuVEFrQ0lMUGZnR0RDS2VVdXM5bjltaURIRS1KenJ4VWRQTXdoYmhxUXBpZjJBRnFPekozQ1RqOGxQNU5VN9IBVEFVX3lxTE84akNHVENqekRySjNYY1FuVEFrQ0lMUGZnR0RDS2VVdXM5bjltaURIRS1KenJ4VWRQTXdoYmhxUXBpZjJBRnFPekozQ1RqOGxQNU5VNw?oc=5",
-        "headline": "임기 만료 앞둔 남기천 우리투자證 대표, 첫 연임 변수는",
-        "summary": "",
-        "source": "더팩트",
-        "published": "11/18 16:14",
-        "published_ts": 1794986040.0,
-        "tag": "우리지주",
-        "first_seen": 1794992959.3515775
       }
     ]
   },
-  "updated_at": "2026-11-23 17:45:55",
+  "updated_at": "2026-11-23 18:01:05",
   "yields": [
     {
       "label": "3년",
