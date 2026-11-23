@@ -816,6 +816,16 @@
         "first_seen": 1795410043.8258307
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE90NEZQRDRzZkxmR2J0SEhhdXZzTkNMc0JiMFdveS1yeHROQlBHVEFKMEgwTFZqNHZuNDBCNzVvSnA2VzZ4dWFNa2l0NA?oc=5",
+        "headline": "AI 충격에 코스피 5% 급락…채권시장으로 번진 안전자산 선호 : 금융",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/23 12:12",
+        "published_ts": 1795403533.0,
+        "tag": null,
+        "first_seen": 1795414533.8821762
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9feVR2X05aWWhvRnVGbWZMcmQzSmp2Q3B1Z1NGS3dzYWNXXzd2RDNmTGxLeGFNaUVkQXlZSnlha1lTaTlHV1ZBSzlELWZNemoyeFlLeHBYelVFa2NFVlItcVc4bWRseEpodkZnUEhyWG1FZw?oc=5",
         "headline": "국채선물, 위험 회피 심리에 상승 출발…코스피 3%대 하락",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795066396.0,
         "tag": null,
         "first_seen": 1795076126.6139882
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBHVzVsMTRvV0lRa19qdXgzbFFKT0VUX05UdmFYS0hUcXZNNHdXc3JuWWZXelJLSFprYUw3RUpvakhzamM0LUV5VG80OEY0NlczTkd4OWY2b3h0RFNYQjRxakVrS1FoLXBZMVdjTE5QWk4?oc=5",
-        "headline": "美 추가 인상 경고에도 10년물 금리는 하락…국고채 시장 엇갈린 신호 By EBN",
-        "summary": "",
-        "source": "Investing.com 한국어",
-        "published": "11/19 11:19",
-        "published_ts": 1795054740.0,
-        "tag": null,
-        "first_seen": 1795159848.112108
       }
     ],
     "politics": [
@@ -1509,6 +1509,16 @@
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPblU4RU1GSktQb3NSWWNncXdrQ3VTWkkybFpNMzltWmZsT1lXb25YSHVhMmVORk01Z3Q3T1pZUERJQ202Sk9FOXBUSGNfZmF5ZXJ2UFNFX3N3NFRna1RFamZoSEduOHN1STZvbnI4ZHF4aW1ZWktpWW5kb01RQjBlOFd2dVdhWExQTGhMYW1SNVlFWTNfN2JRVEVlTUczMzUy?oc=5",
+        "headline": "AI debt supply could undershoot expectations, easing bond pressure",
+        "summary": "",
+        "source": "InvestorDaily",
+        "published": "11/23 15:01",
+        "published_ts": 1795413706.0,
+        "tag": "Global",
+        "first_seen": 1795414533.8821762
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA0clZHTVVRb2lwZk5NelQ2TDlfdTU2Z2N1eXpDYjh1UmdpdlNVem0xUlpHWlFrdjFRVjloZHY5Rk44VEJPUlJsekJvWnZfdndzTjZF0gFYQVVfeXFMTmQ0UzNIRG9ybTBJamxOQ3dZNXdhQVBCTnJ1bU9sSHpialZIMkFubG1aSjc3QlBKZExHU1hMeXRqQ2Q4UG1qNFpteWJNZWtzOWdNWWQ3RHRwUQ?oc=5",
         "headline": "韓, 獨, 伊 등 39개국서 중국차 점유율 日 앞질러",
@@ -1898,16 +1908,6 @@
         "published_ts": 1795333200.0,
         "tag": "Strategist",
         "first_seen": 1795333524.3246968
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5wM3dVSUlPNWg1MGUyamQyUGR1NUhPQ013RkttbG9OT25vb1RZZ1JzSEhwa3gwa21kMDBQWVN4bkVOWTdWandjT2xaS1NYT0h3NUtrVzVSQnhrRkRmQ1BJ?oc=5",
-        "headline": "A5GS64 Bond Yield and Price — GETTEX:A5GS64",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/22 15:52",
-        "published_ts": 1795330376.0,
-        "tag": "Global",
-        "first_seen": 1795338925.173775
       }
     ],
     "watchlist": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 15:01:04",
+  "updated_at": "2026-11-23 15:15:54",
   "yields": [
     {
       "label": "3년",
@@ -2394,33 +2394,6 @@
         3.975,
         3.942,
         3.857
-      ]
-    },
-    {
-      "label": "20년",
-      "value": 4.024,
-      "chg_bp": -3.6,
-      "series": [
-        4.164,
-        4.145,
-        4.193,
-        4.171,
-        4.106,
-        4.115,
-        4.08,
-        4.047,
-        3.985,
-        3.969,
-        3.98,
-        3.977,
-        4.043,
-        4.045,
-        4.104,
-        4.077,
-        4.083,
-        4.086,
-        4.06,
-        4.024
       ]
     },
     {
