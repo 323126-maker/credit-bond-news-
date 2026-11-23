@@ -1550,6 +1550,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05Z1dqeXpFR09kbGJVN0JEeDhKeHJPT0g1WTJXUjBwWm5ZVDVza0pCMmRQVFNLVFVMbVhXY2c4LTRaYkZRQ1BJbXoyM2p4TE9xWHRGN0dIZjlrZVREckhqS1JtU1FmUQ?oc=5",
+        "headline": "VIX Surges to 35.9 as Fed Stress Gauge Signals Normal Conditions",
+        "summary": "",
+        "source": "Demokratis.co.id",
+        "published": "11/24 00:10",
+        "published_ts": 1795446658.0,
+        "tag": "Fed",
+        "first_seen": 1795446926.8136003
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB6NmNvR3UxdElOZlFITzBJLWNteERVOXR3aExWQk5GUXY4VmJLUGxGQlpEYjZaQ3hORFFKSkVzX3hfaEFSUnZONjlRdHdoMzF0aTFDYVFtbDRwWjdWMTBzZ1VOUHFFUkk?oc=5",
+        "headline": "VIX Signals Market Panic as Fed Stress Gauge Remains Normal",
+        "summary": "",
+        "source": "cwibc.co.id",
+        "published": "11/23 23:54",
+        "published_ts": 1795445691.0,
+        "tag": "Fed",
+        "first_seen": 1795446926.8136003
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPd25UZkFCNGZLcjZwMFQ1dE9UeU1qU1NGaFZacDM4ZmtGSGxZR2l0cDdZekpKS29mOWZOUVF6dThsSVRraVVtWmZETkVFWnUxZ19yaWVKU3dic1hMS0FnRWlmWWsyd2U2NGltUWk3MFBSc0VjNTVmeEIxa2JadC1zRUhSNGFJdndP?oc=5",
         "headline": "소비세 감세 우선에 방위비 조정 부상…여당 내 국방·재정 이견",
         "summary": "",
@@ -1928,26 +1948,6 @@
         "published_ts": 1795411380.0,
         "tag": "JGB",
         "first_seen": 1795412732.6148405
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdFBvbXRvSGx3SFlvbHBjbnJPQXFwU0x5YzdmTjgyY3lSbE5DaVJsaFZTdkVMbXdIS3I2RkVZNmM5dGlLcUlVb3c4cjcxMWtlSDhtM0hDcV9iSU5ITlJZT0RLd1JuZnRqd0ctMXRsWUExUnpsbUdwZnRtVkliWDNmOXhnYWFDVm1ielMyUkNpaUExUQ?oc=5",
-        "headline": "CII urges raising foreign investment limit in PSU banks to 49%",
-        "summary": "",
-        "source": "FlipItMoney",
-        "published": "11/23 14:01",
-        "published_ts": 1795410066.0,
-        "tag": "Global",
-        "first_seen": 1795424444.2783408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQU2pCU3U1MXltdV9LU19WQmlLdE5Uc083VXVNUjBLZlVHS1hWVWxhZXZnZEt0WENBM3pTcDlVUFg1TGg2c1VSbm9wcEdZeUIxQlN6ckZoX2lsT0RwWWlQOXRyZ3dCQmE4Tk5Gd2hlQ1pJVE9yZ09sbVgydXoweEpLSFptd1NXZkktdjFsMWM4MllvTHYzbEdKRnJtRXVTU1NaRGdCeG5kNTZwVlNZN0tjWTJpNHRvQmdIUUNz?oc=5",
-        "headline": "Malaysia’s Bond Market Braces for Policy Reset as BNM Decision Looms Amid Global Uncertainty",
-        "summary": "",
-        "source": "Vocal",
-        "published": "11/23 13:40",
-        "published_ts": 1795408852.0,
-        "tag": "Fed",
-        "first_seen": 1795410043.8258307
       }
     ],
     "watchlist": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 00:01:17",
+  "updated_at": "2026-11-24 00:15:50",
   "yields": [
     {
       "label": "3년",
