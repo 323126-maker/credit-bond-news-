@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1OVZ3bWJSLV9rdHVGaTh0UnJLMjVWbklKd1FqSTNhRDJ0OFo0TmNBVU9Vd19hOFhQNEpDck9sOHlBVHIyR3dPM1BaQmE2NVZFaEdJ0gFYQVVfeXFMTURDdGkyX1ZCTGIwQVVvckhsMFE5dFROODcxUXJXT2Z3S3UyVlhSUXplZTcyYmJYNkcwR0dDdFZtQ28xN1JNck53endHcFNrbGNnVmttQkZiYg?oc=5",
+        "headline": "월가 앤트로픽 회사채는 정크등급",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "11/24 04:30",
+        "published_ts": 1795462200.0,
+        "tag": null,
+        "first_seen": 1795463129.297798
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mWDFGRGZ2V1Awd1BYWkdvTkxmdlhGUHhmVnJqT0pycFN6SXhHWHozbXZqWUtQSS10eXc2YkVjZEg4VVJnM0UxNmNvbnZCZWs3WWNDcWxMZnVJQQ?oc=5",
         "headline": "엔비디아 CEO 복귀에 회사채 시장 반등…부도위험 지표 급락 [젠슨 황 CEO 복귀]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795403533.0,
         "tag": null,
         "first_seen": 1795405532.1827111
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCMnYwNW04UHhYVE9HaEVudF92Vi0tMEl4b2ZpVWRkclZJZHZmRExLd2Vnc3dzbXcteWlfNE9PQ1phRjFyQ2FycWxMaHdLanRlLTlJd2NlRHRvZ3o0YVBrVdIBeEFVX3lxTE0wNXZHM0VmMlBlNlNwdkltYVY5eDBTc2hYazVWZTBiTVc2ZnlQUEp5YWZLVWlfTHNtam1xLVFmNGROS2pKQlVYTXZXZmNTTHpNR3pseFdJb1pjSW0tSFJsVkd1X2lPMVBQMWVWYmhTb2lOMXpPSGNlNA?oc=5",
-        "headline": "리서치센터장 긴급진단…\"지금 팔 때 아냐…역대급 저평가 반등 무게\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "11/23 11:58",
-        "published_ts": 1795402681.0,
-        "tag": null,
-        "first_seen": 1795407327.3722231
       }
     ],
     "perpetual": [
@@ -1526,16 +1526,6 @@
         "published_ts": 1794532459.0,
         "tag": null,
         "first_seen": 1794733240.6996512
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMk5NU3Nxc3lmbEwwb21sX2YxZE1kangwaXQ2YlpHUVMxRGxwZXZTZFJsazRVc2FnN3pjcUM4aVYwY1Y1WG5NRVZCNmtHN2Q5emVjTmEtUXVvbU9pLUtKQVRxdGJNUjVIUmZRckRQRElQbjNiUWxMMlBqQjRqNHQ4Sndtc04yUldpZS1TOTNSR3hTbC1YcDdsM2hLSnhqeFk?oc=5",
-        "headline": "[제도] 자본시장 개혁 주문, 왜 '수석보좌관회의'에서 나왔나",
-        "summary": "",
-        "source": "willawip.com",
-        "published": "11/13 09:00",
-        "published_ts": 1794528000.0,
-        "tag": null,
-        "first_seen": 1794598246.1738186
       }
     ],
     "global_bond": [
@@ -2343,7 +2333,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 04:30:57",
+  "updated_at": "2026-11-24 04:45:49",
   "yields": [
     {
       "label": "3년",
