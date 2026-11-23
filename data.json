@@ -1550,6 +1550,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5HNTdLeGdOd1hVNDhpbnF1YWYtdEZNX2xOWFpMbTVMaVFqVHNpcWNNb1lKRGp3MUdzUTYzX19SZHJkRTlWRTVRTENobXgxX0JwSm9DQg?oc=5",
+        "headline": "Japan Markets Face Crucial Week After Historic Stock Selloff",
+        "summary": "",
+        "source": "News On Japan",
+        "published": "11/23 23:25",
+        "published_ts": 1795443959.0,
+        "tag": "JGB",
+        "first_seen": 1795444235.9219215
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZEZ4UWVGRGZtTGFxaUNDek8xTFFTOFg2Qk5kem1GRkRnaVdUMmludDgwSkFfYkhrMU9ITlVwQVNicll3bG5rMnpnM1N5MjFWbm1KckZtSTBROHpHdjlpczFMbVBnTlItLXIzaENKWXItdUk1VTdxMmZBZE5NbWZiLTdLTkJnYno1MkRUQndWY1JYNTJqUjlOWkVxb1VXSmdQekpzLTI2NDBPRTZBYkRhRE5Bc0RpUQ?oc=5",
         "headline": "An 11.1% REIT Yield Looks Tempting. The Dividend Risk Tells Another Story",
         "summary": "",
@@ -1938,16 +1948,6 @@
         "published_ts": 1795406072.0,
         "tag": "JGB",
         "first_seen": 1795417239.6045952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQV09vZkRveVVRbExEYVlBdmUyM1drVVFzUmd1TVBjSkpPUU1DUzFheWZpNmQyVnJVX1ZsbXVUalFidkJseXdDRGthdERRMWdSNFpGamZzX2FLX3RwdDNHRi1jaUZhSDVxeTVjN2tibnBXNFZ2QjczeVBhYlYtUTc5bnlKZEpsWURpbVY0ZmkzZkpTTmg5cVE?oc=5",
-        "headline": "Anthropic IPO and Bitcoin Price Drop: What the Evidence Shows",
-        "summary": "",
-        "source": "KuCoin",
-        "published": "11/23 12:44",
-        "published_ts": 1795405469.0,
-        "tag": "Fed",
-        "first_seen": 1795405532.1827111
       }
     ],
     "watchlist": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 23:15:51",
+  "updated_at": "2026-11-23 23:31:01",
   "yields": [
     {
       "label": "3년",
