@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mWDFGRGZ2V1Awd1BYWkdvTkxmdlhGUHhmVnJqT0pycFN6SXhHWHozbXZqWUtQSS10eXc2YkVjZEg4VVJnM0UxNmNvbnZCZWs3WWNDcWxMZnVJQQ?oc=5",
+        "headline": "엔비디아 CEO 복귀에 회사채 시장 반등…부도위험 지표 급락 [젠슨 황 CEO 복귀]",
+        "summary": "",
+        "source": "한국경제",
+        "published": "11/24 01:32",
+        "published_ts": 1795451568.0,
+        "tag": null,
+        "first_seen": 1795452325.7929084
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CaFlPV0EybUE4WnJ4MlFuMHFadVhXZU1VcGRNN2xpcElmWU9tNHFiLUJZcWtnSjJ4bWRHaHcyWW5kNUEzMjFZM01XdkliQ0xKSGN4Q0hJZWhTM290V1FudVQyQ2F3a3YwWDFLcUR2dTc?oc=5",
         "headline": "유로존 11월 종합 PMI 51.7…獨·프랑스 격차 벌어져",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795402543.0,
         "tag": null,
         "first_seen": 1795434333.0977063
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOLVFQcGpyMVdqaFI3SV9LYnpxX2NsbGpBZk5Qc1RxM0hVb21sM0hTRUxtODFaOGZLczlsbTFaZktRNGZIQ1FxR2hKZ3gtWU53c0dVeFh1UkFDV0NjSnNTLWN1dGVrOUdqWWxqeFdoV19IeFhhOGJlM0s3eWxEcEhrZkh2MjRRbEotRUlpV1dsU0hPNTY5d0hzOEt3UW4xQkVvV2lnRVZ3?oc=5",
-        "headline": "간략히 살펴보기, 11월 23일: 미국 증시 폭락, 듀크 회장 회사 새 소식.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/23 11:30",
-        "published_ts": 1795401016.0,
-        "tag": null,
-        "first_seen": 1795404632.9637244
       }
     ],
     "perpetual": [
@@ -1540,6 +1540,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFJ5QUJ2bHBBZDJGNXNPSVFleGFodkU2TS1wRl9ILVVIVlBxcHhOaFV0cE9IN2F5U2VKNmNLbFE4YWxPNlZBWXpCSkZfUVloc0RDZ0lxQzhDLThMR0tPSjZfZzVPTzNGNTlqWWhidGhabm5XN3E1OUJsWl9mYXRGa01GbWpNV2dQYlp4dGVn?oc=5",
+        "headline": "Markets Expert Rebecca Walser Delivers Outlook for Remainder of 2026",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/24 00:45",
+        "published_ts": 1795448734.0,
+        "tag": "Fed",
+        "first_seen": 1795452325.7929084
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNekJQQWJ5WVd4RGx1ejNqenBtQjBqRXFqem1ablZfdjdReEJfQzNucjAyNTRlQlVKTURoZkY0cW4yWnhpaU5samtRcEpnNlVFNHF1ajd5dV9uTlV5OWtoQnhlV3N1TGVmWWt0OXgtWmxBSzNNcllaajNIU2R6WU4wY2VXd3M1RW9I?oc=5",
+        "headline": "StockBrokers.com’s Jess Inskip on What Needs to Happen to Calm Market Choppiness",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/24 00:45",
+        "published_ts": 1795448734.0,
+        "tag": "Fed",
+        "first_seen": 1795452325.7929084
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1hYmJVWUVNQVU1d0JtUnRYcjQtSDg2Z2xNeF9RV1o1Yno4TnFWQXdXZ2lZMHRnVHlqZTRHOGNTX3FOa2ZYUHd4cDM1U01sdnh6X0JWT01KODVpRTUtdnM5b1M0YTRYalhCOVE?oc=5",
         "headline": "Xu Gao: China Has Too Little Debt, Not Too Much",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1795443868.0,
         "tag": "Global",
         "first_seen": 1795450526.9678488
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOFhNMzB2bFdZZXM0anhlQ3BxSHBjMFhhTG4zd2ZTVjFwdkdmWkxURG9GVzIwUmRxNm1Lcm5HRy1OLTFZMG5aRUd5TmZXWkpCcjNiaWp6Y2p6TlFwVTF2WFpLdWNCUEJ1WTB2a19GV3M4MnBvR0tZVUFYMDE0Z3dBbmVISlNnbzBYMl9fUVUtTHR0RTdhazZ5X3VqcnQtcS1tSGZCeG04OTFNdUFXZ3ZPRUFXem5nQTI3YTktYkp30gG-AUFVX3lxTE84WE0zMHZsV1llczRqeGVDcHFIcGMwWGFMbjN3ZlNWMXB2R2ZaTFREb0ZXMjBSZHE2bUtybkdHLU4tMVkwblpFR3lOZldaSkJyM2JpanpjanpOUXBVMXZYWkt1Y0JQQnVZMHZrX0ZXczgycG9HS1lVQVgwMTRnd0FuZUhKU2dvMFgyX19RVS1MdHRFN2FrNnlfdWpydC1xLW1IZkJ4bTg5MU11QVdndk9FQVd6bmdBMjdhOS1iSnc?oc=5",
+        "headline": "Indonesia central bank says MSCI talks with Prabowo support rupiah | Gulf Times",
+        "summary": "",
+        "source": "Gulf Times",
+        "published": "11/23 23:22",
+        "published_ts": 1795443720.0,
+        "tag": "Strategist",
+        "first_seen": 1795452325.7929084
       },
       {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVFlzSWhwbU5RWXkzYy1zeEJORjl0XzJMZnZsTndjRzNvZXVXOFBrcUZmemNLWmlDa0ljZklPUE80TmVlUllkS0lkeDlaMkZ5Z2g2dkhNSUREcmtleFhmcEhGZjdramd1RFF1OXFFelJxeWpqOXZKVWstSVVHSzdPZnRJWUhzRElVRnNHYzl6TkZiT3gwU3doZnZoM1JIVzQ?oc=5",
@@ -1908,36 +1938,6 @@
         "published_ts": 1795423440.0,
         "tag": "Global",
         "first_seen": 1795424444.2783408
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNXpZU1BXZFBTR0hkZU9paDRmX3ZiVGtEVjIwSHRKUTVNWkpxN2RyZjdzaE9xT1F4LUpDTC1YS196S2pSbGRGUTYwX000X3JSV1R4WUJ0SU1TVHlMYXotQ2NmbV9xc0RYRXlzWEUzM1djMTRMdDl0S3czYXNOQ1BQaNIBlAFBVV95cUxPc3ViWDNuanRVNWMwckIxWEtENmVfRUlRMFMybE45ejl3RmhHN2Ffc0lMU3VIQm53SDJ2ZktvQm1CZUZZb25QNjBsRXlyb2ZpNkVHVWNGZzhUNW4zSE03Vld6eFdpRzhHU1dDNm9NLW1QaGNsYUxrdUV3R3lrOUZDN3k1UEZLVEQ1OWhBTEtKNU1oVHBY?oc=5",
-        "headline": "KOSPI plunges on AI fears as broader financial markets remain calm",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "11/23 17:37",
-        "published_ts": 1795423020.0,
-        "tag": "Global",
-        "first_seen": 1795450526.9678488
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0MHR1cUVRdGo4VjdNSEJKNEVvR1ZUU3BVRWxEZFRNYjZUam9NdVFWVl9LRENGSkZRbnd0MjNjUy0xU2oyZU5uNXk5NWF6TXhNeDRDYVotV0UwZ9IBWEFVX3lxTE8tdEdubmhGMmVNbEhDd05PRHd1UHRucmVCclhvMmp6eXE2Rk1fLXRLMjdwdVlCYVdmRTUyRk5weHZUZHlmRldpMlhqV0g5d3V4WWV2SGlxTzg?oc=5",
-        "headline": "다카이치의 예산 딜레마, 소비세 감세 우선에 방위비 증액 제동…5년간 170조원 규모",
-        "summary": "",
-        "source": "아주경제",
-        "published": "11/23 17:13",
-        "published_ts": 1795421580.0,
-        "tag": "JGB",
-        "first_seen": 1795426233.7103446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMGtzSS0teXFzX2RPQmg1WHliSENqSHdxcjUtWDNhTGNEdWhxZURWVUdyUTNHb250TU9mOUpSUnBZVExPdU95NmtpcjMwMGNwS1JZVklDVWUwejllNGFtUEo3Zks0REhUODB2Qml6ZXZBc0xJbWZFclVOdlpiVVNVanhndkJpUmozS1RCVThmalZZSk1hOE9jRW5hNmt4a1ZHaXlhYnF5ZXB3Q2JNaWpXMW16dy1pR08zbDFEdnpXX0VrYmdNcGxJ?oc=5",
-        "headline": "Partner Insight: Income Update - Compelling Yields Drive Long-Term Opportunities",
-        "summary": "",
-        "source": "Investment Week",
-        "published": "11/23 17:11",
-        "published_ts": 1795421506.0,
-        "tag": "Global",
-        "first_seen": 1795435242.44556
       }
     ],
     "watchlist": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 01:31:00",
+  "updated_at": "2026-11-24 01:45:47",
   "yields": [
     {
       "label": "3년",
