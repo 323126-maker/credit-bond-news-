@@ -222,6 +222,16 @@
         "first_seen": 1795344325.8114798
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE05aFhWRjYya2ZubUlRWlVoNUdYRlNBREh3ZDRQbG1YV2E3MlJubVRlTnM2b0llZVVPdjJIb2VNMlNiZEdEMFI1djRn?oc=5",
+        "headline": "MS, AI 투자 위해 250억달러 회사채 발행 추진…주문 4배 몰려 > 시애틀 뉴스/핫이슈",
+        "summary": "",
+        "source": "SeattleN",
+        "published": "11/22 16:08",
+        "published_ts": 1795331331.0,
+        "tag": null,
+        "first_seen": 1795406440.4965532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBhQVQyTm9kRmJraWxMTkhZaXVudDRRZEpmTnVoek5BYkdZV0pSdDVBeEJHd0NpZGNlZEFiRUFhMFdDVWtqNTlnaS1kVGRlc081MkhxOW11VEY3RGcwNWFmbEpNVHNFLUNuMDBLV2tiR1BQZw?oc=5",
         "headline": "[뉴욕채권-주간] 연준 긴축 증시가 대신 해주나…다가오는 '침묵 기간'",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795243977.0,
         "tag": null,
         "first_seen": 1795384839.9812717
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBoR1JKaE5maDZ1SmN5NEMwXzA3akJ1NWFuZDRhbk5xQnQ2ekFrczFoOWhBZWtoQkdWQjVkZWFTZEJ2Y0dMZ1hhcTJsQlVRSU1Fd1JQb2tKU2ZfVU5MamlrV01iRXdCNTN2SU9aMnRn?oc=5",
-        "headline": "비트코인 강세장 지연, AI 버블 붕괴와 유동성 압박이 원인일까? (+BTC, AI, 유동성, 금리)",
-        "summary": "",
-        "source": "민심뉴스",
-        "published": "11/21 14:29",
-        "published_ts": 1795238959.0,
-        "tag": null,
-        "first_seen": 1795240847.563944
       }
     ],
     "perpetual": [
@@ -836,6 +836,16 @@
         "first_seen": 1795392927.3157408
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fTm9XMi1md1ZsbjZxb2lUX3NmMXFMVThNQUVpTWZjaG96eXM4ZDlXdW44VVR4dmFBU1czZ0d3Y0M2LXkwcHpoRE9GTW9URlB4TFhmbDdsR0t5REdrenQyd0VzaVYtM2c5YXdDUlpR?oc=5",
+        "headline": "[오늘 증시 전망] 코스피 4,800선 후퇴…23일 외국인 매도세 진정 여부가 반등 관건",
+        "summary": "",
+        "source": "업코리아",
+        "published": "11/23 07:48",
+        "published_ts": 1795387682.0,
+        "tag": null,
+        "first_seen": 1795406440.4965532
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1DNjJqYnlwZGVheWxsYmlUWE9KeVNfVFQ4aXlnRGI4Ny1zR0FfX3A5XzdDSmRJYWFJal9iZVpHN3RCMnlWQ2N0X1lZcEdfY2NpY0HSAVNBVV95cUxQdVBNSTViLTVPZkUyQktfUC1NOFlXVzJ2VVFlM1hBOUtCRTVqbzI2SmI3N3BxUVgzVHAydG9YM1YxTnZWQkg0UnVEZkl0UlBoYUt2WQ?oc=5",
         "headline": "전문가 90% “이달 금리 인상”…최종금리 3.75% 전망도 [Pick코노미]",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795052220.0,
         "tag": null,
         "first_seen": 1795064442.017698
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9OUW1IVEx4Y01BdklwalZwRnM3QkptYXFRVUhmUzVlN3kySlNPclMzaHNwSG9PUldxdVplZ2gwUUd0RXd5VjBVNkxBQWd6MWVjSlNaemhlUlpIQTU5TTRKZmNRaUwyb3UyNFBmR09ZZFkyQQ?oc=5",
-        "headline": "[인터뷰] \"Q 늘면 최종금리 의미 없다\"…명목GDP 먼저 본 구루의 조언",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/19 09:00",
-        "published_ts": 1795046400.0,
-        "tag": null,
-        "first_seen": 1795047328.2153687
       }
     ],
     "politics": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 12:45:53",
+  "updated_at": "2026-11-23 13:01:02",
   "yields": [
     {
       "label": "3년",
