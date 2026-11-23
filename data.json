@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObjI0YWVzQ1E3NGwtRG83b3RkajdyUHdEenFXcEszUUNwSnlnb2RGTUVBcFJtNnBpM3J3YVR3YmlaN1k2VlNiX2QtXzVjeXpBS1E2ZWJqTGNON3BHRUwyRERyQS1PUlNsdFNsR2c2ck1fNkE1NXVlSG5JWF9zeV8tWHVWaXBvakdN0gGcAUFVX3lxTE9YNmVWWF9jXzE4NE5rNlB6cjI3eE5GNG51aGVjb29zbUQycFBNb2xCWXg2UHZ0Mi04a1FTTkNyTk5wNFRSbUlYM2dSY1lLc09HT3FRam40OWd3dHIxenl2bGdyb1hNVFZQV1lFVENVY2E5TUdzMDBmdHcxY2syODYtdTdERTFfT0ZWMTdTMUpJRXQyc2tLaEZqQzJuMQ?oc=5",
+        "headline": "KB證 “AI 매도세, 내년 1월에 진정…채권 매수세 돌아오면 주식도 반등”",
+        "summary": "",
+        "source": "Chosunbiz",
+        "published": "11/23 08:52",
+        "published_ts": 1795391520.0,
+        "tag": null,
+        "first_seen": 1795392047.8718817
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAwcTV2Y3dadWowZkJJU09URUxNbUFFY25WX3FMNXFMS1NLVW1xbUdxUXZWX3RNZk1vYndqQzFsSm83M0hZY0o0QWpza3BYY1RhUUVaR0JObkk4bzYteUlsZUxmVQ?oc=5",
         "headline": "골드만삭스, 스페이스X 320억 달러 채권 발행 지원…AI 반도체 조달 위한 새 금융모델 제시",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795190816.0,
         "tag": null,
         "first_seen": 1795191328.737631
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1fam1rNE01WUZPSkpCRTQ2M3pRdmhUaWMxa2gtTWN1b3NKeUx3VndHSGQ4S0YwSlRyVTVyc3lOeFN4RDZCd1NncmVMLW5XeDFBUlFvM1FkLUp4WGY2azl5Nkg3aElYN0lqUFZNYTZKNEc?oc=5",
-        "headline": "미 달러화, 낙폭 축소…AI 거품 우려에 안전자산 선호",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/20 23:27",
-        "published_ts": 1795184836.0,
-        "tag": null,
-        "first_seen": 1795185925.3508704
       }
     ],
     "perpetual": [
@@ -2333,7 +2333,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 08:45:43",
+  "updated_at": "2026-11-23 09:01:08",
   "yields": [
     {
       "label": "3년",
