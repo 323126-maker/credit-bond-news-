@@ -806,6 +806,26 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdFhRanJpYVZueVpONUFvQTk5V0ZSdURCSHUzTjQzelNtWU4xdERldElqVDF5TGtyeHBOOV84RVJCS0FVVGtQLU5ZQ3BVUVdiNDF2bFVwcWU5SWp1N2JleUJ1dTZxTGlZaWpWdllVOXI?oc=5",
+        "headline": "한은 11월 기준금리 3.25%로 인상 유력…전문가 14명 전원 ‘인상’ 전망",
+        "summary": "",
+        "source": "www.thedailyeconomy.kr",
+        "published": "11/23 17:52",
+        "published_ts": 1795423942.0,
+        "tag": null,
+        "first_seen": 1795441527.1916177
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA5SGtMLWNOSXpkUkRHYmd5YlowR1hJVW5tVldSaVNULVVVNEhoZ09vU01PREY1MHJkV2ZrSkFZSjJJQ05OQ0JrZExmWDhoWkZSeU9STVlNSnQxaGxmM05ma1ZsMWNyc1Y40gFrQVVfeXFMTjlwM1FseklHZzk2amhheTNCTE5jQkVIeDkxcVhUTjBRZk9MekRPN3dUOWRNNWdkNGNueGJXT1JCczlydkJtTHVEMmNicERackN6QTFzTlpfd09Cc1F1em9lNE82MXNpeHFZSlE?oc=5",
+        "headline": "한은 추가 금리인상 '촉각'···보험업계, ALM·건전성 관리 '부담'",
+        "summary": "",
+        "source": "현대경제신문",
+        "published": "11/23 17:19",
+        "published_ts": 1795421986.0,
+        "tag": null,
+        "first_seen": 1795441527.1916177
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVlZXZU1xb0djUUt4Qm5ZdDlxRWhHUlNtckZ2UG1FZW1helBCa0N6SXJaNGFPZktUX0FiUm0tRmdXNjFpV3dnM2t0bkpMOE53NmJDWHc0Y0hVdVVib2hVSnVqM1NLbm1QdmViQmZqb1FGWm5IbTVVeEppUTVpTGw5dQ?oc=5",
         "headline": "증안펀드 가동 준비에 한은 역할은…금리 결정에도 영향 줄까",
         "summary": "",
@@ -1184,26 +1204,6 @@
         "published_ts": 1795078072.0,
         "tag": null,
         "first_seen": 1795164325.4789083
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE4yWHdfRHc4NlRGNl9DLUdSdlZHb242R19ES3pIdnloVjRYVGJPV2NmMjROZEFFWVRHZjhPajE0Mnktc3ROMnhDRms1ak5yUEdUdWg4RzdpYVJWcEdSc3pUNlhjdFhJWVBGZEkxOQ?oc=5",
-        "headline": "카드업계, 3분기 순익 7.5% 증가 '착시'… 고금리·대손 부담에 4분기 '먹구름'",
-        "summary": "",
-        "source": "뉴스락",
-        "published": "11/19 17:37",
-        "published_ts": 1795077445.0,
-        "tag": null,
-        "first_seen": 1795113035.380732
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xS1otb0NwVFVVdHZmX000SFRkVDZ4ZU9HYkdVa0dKel9VMEs4dUdHSXNkTDVuU2xILWZXSEliZTV0Q0NFN1dhb0xIb3FXanhKM1NJT2ZtSV81RWtyUGc?oc=5",
-        "headline": "②빚 1200조 시대, 주담대 금리↑...차주도 은행도 ‘한숨’ [머니+]",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "11/19 16:29",
-        "published_ts": 1795073389.0,
-        "tag": null,
-        "first_seen": 1795159848.112108
       }
     ],
     "politics": [
@@ -2353,7 +2353,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 22:30:54",
+  "updated_at": "2026-11-23 22:45:50",
   "yields": [
     {
       "label": "3년",
