@@ -1510,6 +1510,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwUnEtSW9aMm1XbmJuWVc2Z0tHTGI1dWpETmIxNTR4c2UyMG1pUFpqQUYtaGwxZVowVkNqTUw1YndCRzlPem5lQzVWbDFyd1pGZjRMVUdlX1M2VDDSAWBBVV95cUxNOC16Vkw2ZFJlRlBHQmhCNmtBcmw4LVYwbElPOWhRTnNNUDNBM3Z2cktVSmZyMjJJbEExZHBGYXhpam5IMDFURFJLbUVpMDhkOFZPdHJVSHFNNEpya2pCRTk?oc=5",
+        "headline": "\"과매도 구간…코스피 4,200선까지 열어둬야\" 리서치센터장 긴급진단",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/23 11:32",
+        "published_ts": 1795401155.0,
+        "tag": "JGB",
+        "first_seen": 1795401931.906522
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1MM09Xb2RoekVTWEtIVldFTHR6WmdicWpJbUF1YmRYc3hRQlc1YUppcmZBRFVjZ2Rka0VTQjlmUm82a1ZWcHJ4T3Vndk1Mcm1LaTU1Nmdtano2M3RVQWd4ZFljOGxpTnJjanpNYlVJSk1HUQ?oc=5",
         "headline": "코스피 최악은 면했다 판단에 금리 일부 되돌려…국고 3년 1.9bp↓",
         "summary": "",
@@ -1898,16 +1908,6 @@
         "published_ts": 1795311180.0,
         "tag": "Strategist",
         "first_seen": 1795311933.52853
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOa0I0amtwSzIxMmtrbnBsaks2bUpRN0ZkTmNIVVh0RDB0c0w4c0pYRFJreHFuOHNRVVMwd1dITnFMU0ltRXdTTkluc2ZRbUV4OVNNUU02ZmhjRm54V09mZkZHbGJxTlpqYTVCb29uZmtrZzhhLVAzMmlyMFlKMzlVQkpxeGhJQmdnX01oSTY1THQ5YkZycDhKRl9sX0pBRU8x?oc=5",
-        "headline": "오늘(11월 22일) 미국 달러 환율: 미국 달러는 4주 연속 상승세를 기록했습니다.",
-        "summary": "",
-        "source": "Vietnam.vn",
-        "published": "11/22 09:49",
-        "published_ts": 1795308542.0,
-        "tag": "JGB",
-        "first_seen": 1795317327.224871
       }
     ],
     "watchlist": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 11:30:53",
+  "updated_at": "2026-11-23 11:45:50",
   "yields": [
     {
       "label": "3년",
