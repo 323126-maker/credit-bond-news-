@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA0czZxdU92ZGItYm9jZnFfQTdKMkdBdHh0c1dnNXZsakxJbS1UZDFOb2RyOUxCd3otTjZmQzBqRmVuZnhZdDh2T25nRVVPLXQ1UENaeG9JZTNOZw?oc=5",
+        "headline": "증시 급락에 증안펀드 카드 꺼낸 정부…한투證 \"추가 매도보다 보유 전략 유리\"",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/23 15:17",
+        "published_ts": 1795414636.0,
+        "tag": null,
+        "first_seen": 1795415433.5057633
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9heGFmVXZ6cnpSU2x3QkZtWUlvU1VvS1Z6c0hkdGtZVXpMV182U0JhRzFjS1o1WWctaUg3V2lpNnNVclBWUW00RDh4ZEotYnRnRG9oMlV0cDVzNGt6N1VhcWt5UQ?oc=5",
         "headline": "역대급으로 증가하는 세수, 국채상환 or 미래투자?",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795069005.0,
         "tag": null,
         "first_seen": 1795152635.4412215
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBsdWh1c3dPTGtBLWFySFYxR0tsYnFhVm9TaFp5NlRFalJBSFZzb0dPeWdlUEVkOThHRVdGOUhocE9KZ01YRzYyRVlndFNNNUNuWFhmQlhHRDJlQi10Y2kwctIBYEFVX3lxTFBsdWh1c3dPTGtBLWFySFYxR0tsYnFhVm9TaFp5NlRFalJBSFZzb0dPeWdlUEVkOThHRVdGOUhocE9KZ01YRzYyRVlndFNNNUNuWFhmQlhHRDJlQi10Y2kwcg?oc=5",
-        "headline": "증시·금리 불안에 MMF '역대최대' 300조 육박…반도체머니도",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/19 14:33",
-        "published_ts": 1795066396.0,
-        "tag": null,
-        "first_seen": 1795076126.6139882
       }
     ],
     "politics": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 15:15:54",
+  "updated_at": "2026-11-23 15:30:55",
   "yields": [
     {
       "label": "3년",
@@ -2394,6 +2394,33 @@
         3.975,
         3.942,
         3.857
+      ]
+    },
+    {
+      "label": "20년",
+      "value": 4.024,
+      "chg_bp": -3.6,
+      "series": [
+        4.164,
+        4.145,
+        4.193,
+        4.171,
+        4.106,
+        4.115,
+        4.08,
+        4.047,
+        3.985,
+        3.969,
+        3.98,
+        3.977,
+        4.043,
+        4.045,
+        4.104,
+        4.077,
+        4.083,
+        4.086,
+        4.06,
+        4.024
       ]
     },
     {
