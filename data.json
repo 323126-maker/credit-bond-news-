@@ -1540,6 +1540,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQLWJDTjBBalYwVHVpc0VxV1BwRE1xeUt1RWlLQ1VJdnJQRXNnb3p6MnFNbjRBV0s0TnlldW4wSVIycFRQeVNISWJ3VV9wMWdjX1ZndE1Tc24tNzc0anNYWjl0SVBsRDhSa0dVTWlyVVYxX0w5b2JhTFB0Tm9Vb2FwYVZubTU1SVJlcy0zMEpXOEM4ZlhiSU1QazdVQVlldw?oc=5",
+        "headline": "Weekly market commentary",
+        "summary": "",
+        "source": "BlackRock",
+        "published": "11/24 01:26",
+        "published_ts": 1795451180.0,
+        "tag": "Global",
+        "first_seen": 1795454125.4891572
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1pWV0lfOF8zZElEaDFHenE4UFdzMWRPcDVuZ3lHUGRTd0RBcnRuYjNQZ05MYmRpd3FMNkRlMkNmRnIxd2piTlVhdTJZeEJIZ2NEYUNUeUViLXhCeERhOC1PSnhmYkVpWVJmcmxBWXhNQkYzc2cwVi1hNWk2aGNnRXVsQ01qLWozS3NGMFRyUW5RY29IbWJuMw?oc=5",
         "headline": "US Treasury Yields Keep Equity Valuations Under Pressure",
         "summary": "",
@@ -1548,6 +1558,16 @@
         "published_ts": 1795449600.0,
         "tag": "Fed",
         "first_seen": 1795453245.7131107
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenRTUGVfVUgxZlhPY3lWeUVEUC1jTGtwUTZqNVNEWjk5Zkw3VE9fM0ZGLWh6MFNjTGF5Z0xOOUt0bkNfclZUY0RJQUdObEh5OUU5MDNfNFdFNFRwdVptT19FNWNQTlhuVXBBZ0hpSzh0cU5PRHhIcmhJSi1zMWRpalA3OUNRSTdzTTZfVjlmbzl2blQ5LUFZb2Rnb0ppYUtoNGtGaGM5d09pMDB4RThj?oc=5",
+        "headline": "Credit Heads ‘Swivel’ as Huang Return Ignites Tech Debt Rally",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/24 00:56",
+        "published_ts": 1795449377.0,
+        "tag": "Global",
+        "first_seen": 1795454125.4891572
       },
       {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFJ5QUJ2bHBBZDJGNXNPSVFleGFodkU2TS1wRl9ILVVIVlBxcHhOaFV0cE9IN2F5U2VKNmNLbFE4YWxPNlZBWXpCSkZfUVloc0RDZ0lxQzhDLThMR0tPSjZfZzVPTzNGNTlqWWhidGhabm5XN3E1OUJsWl9mYXRGa01GbWpNV2dQYlp4dGVn?oc=5",
@@ -1718,6 +1738,16 @@
         "published_ts": 1795436040.0,
         "tag": "JGB",
         "first_seen": 1795436430.217589
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiS19rZG14VHJacmJ6OG5rUmR2aHVfdzQ1bW1WY1ZER0lXZEhVbWpWQm5yTlRCVFdYVEhnMHhkV0QxRHVjb2NhMzBOcXVGX29tOW1mSGotbVRkMktTeVJjdHlzX2U5SGxNQUNQQ2R1Y0k1QQ?oc=5",
+        "headline": "Daily Navigator- 23/11/2026 – Market Outlook",
+        "summary": "",
+        "source": "www.sc.com",
+        "published": "11/23 21:08",
+        "published_ts": 1795435696.0,
+        "tag": "Global",
+        "first_seen": 1795454125.4891572
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNOHFBMkJiSGZxTTE0NVN6VDhSUkFDNHFlbm5vR2xDbmh1eUIzNFpUdnpialE3V0psNlA1OUdLSmUwZkRtU3NIX09FSXBXd0NlS3RycU1xSXRMZzR6LTVsVU1NY1hsMXkxZkJoSkhZZDVWODdnV0M4RXJYa2VUU3dDMkVYNGl1TVVSV0VoRDRyRkdlZ3g1ZTR6eFJmOTRhT1hKRFZReFYxUzkzWjFsNXpUUmx5T0ZBa0tXOWVUcmxWMHdnUQ?oc=5",
@@ -1908,36 +1938,6 @@
         "published_ts": 1795426039.0,
         "tag": "Global",
         "first_seen": 1795447833.563394
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZTA1Y0FKTnhFNWxxTzViSk9HZ2ZrUlhtS3VOYkpUa2VOVzdtSUpXYkNVNDNsVDhoc0hhRXQ0VlR0ZkYtM190NlNjcEZkSDViMjlISW5GT0JfSmVmZVdWNWV4LVBzdlhodlhNQ0lsN205b2xYRGxTVDRLZ0ltWmZJQTM2YUxNem9FQzN0dXJRcjJtb0hwendYMFF6cw?oc=5",
-        "headline": "Anthropic Aces IPO but Faces Junk Rating in Bond Market",
-        "summary": "",
-        "source": "Seoul Economic Daily",
-        "published": "11/23 18:20",
-        "published_ts": 1795425655.0,
-        "tag": "Global",
-        "first_seen": 1795439727.0733447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdVdHRUhYdnZkRlBObTBTanZjY3d6ZExLYWRuQ2c3eXZfaVJyMjBWRm9uM0Q2VGZ6enVBRGgtUjN2aGM5am9ESE5MV3VoRWU3d0dRT2luUzhKNjJ1Umg2SkJxNC12UFRtbW0xSGZsLXhnMXNqWmhpSTR6b2hibjVTN21XNF9mNWhBQlBhU0M4cUdiVldQQlFESy1WOXZGOVUtSjFBYXBLbzYwa1Y1ZHpSTnhueFdnN3dNQXc?oc=5",
-        "headline": "Fed Chair Kevin Warsh and the FOMC Have a New Concern, and It Has Nothing to Do With Trumpflation",
-        "summary": "",
-        "source": "The Motley Fool",
-        "published": "11/23 18:06",
-        "published_ts": 1795424762.0,
-        "tag": "Fed",
-        "first_seen": 1795426233.7103446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00enJwdVV1VDc4OEt1VE5ucWJ3TTRLTFJTMHNBXzlyYU43bVhQbU42VmNTYVdfbS12cTFCVnZ5MmRva0dSanVDV3FRUzBVd3B6cjlaY19MaHNaZndCODBKNVAxX25GckRL?oc=5",
-        "headline": "7 Market Correction Warning Signs and How To Interpret Them",
-        "summary": "",
-        "source": "EBC Financial Group",
-        "published": "11/23 18:03",
-        "published_ts": 1795424580.0,
-        "tag": "Global",
-        "first_seen": 1795439727.0733447
       }
     ],
     "watchlist": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 02:01:05",
+  "updated_at": "2026-11-24 02:15:48",
   "yields": [
     {
       "label": "3년",
