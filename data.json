@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9mM2NEOVhZaUs0T2pVTHFvRXN4UGt6ODQ5ZlhOaTJOcFp2VHlMUWk4Y1R0M0huUjM3SGJhVWVqcVEzWTdtNXVfYS1KeW8xX3E1RkpkcmFzYXk2Zw?oc=5",
+        "headline": "[단독] SK, 연말 3000억 회사채 발행 추진…올해 조달액 1조 육박 [fn마켓워치]",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/23 11:22",
+        "published_ts": 1795400556.0,
+        "tag": null,
+        "first_seen": 1795403727.0379229
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBFQnpyYWxHZVYtcWRFajlsTk5QWmdrUTVvSlBIRGdFazlvcjhqRU5sNHZEaHdsOUJHbzJsZ1psd2dCOW1uZXA0M2x2Y3o2aFFudk5mMWQ4UDJhWVlxVFhVV2FpQ19Cd2lsdTRZ?oc=5",
+        "headline": "롯데카드, 사모채 1000억원 조달…신용도 관리 과제",
+        "summary": "",
+        "source": "뉴스저널리즘",
+        "published": "11/23 11:17",
+        "published_ts": 1795400267.0,
+        "tag": null,
+        "first_seen": 1795403727.0379229
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9QaWJpRHdoY0NRV3A4bnlNRVFILW40MlF4MXlWbU5oQUl1ZEJWRmpobnlKVFN3NklReGJ0SzRnY0lBMWJYcG8yWFBoOXEwVlVWVkVQZ21SSmFXekRKbmd6eXBZQlRSUjJxcTNpajhOaw?oc=5",
         "headline": "칩 사고 전기 연결하는 사이 현금 바닥…머스크, 내년 AI 업계 유동성 위기 전망",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795228200.0,
         "tag": null,
         "first_seen": 1795251639.8328962
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUbHREa3RsTl8zZS0yWWFFWWJ6QzVXdWRsYjBwSGJraG91X0hBQklPdUZ5N1g4Q04yQXZSMWdNTGpFRGZqVWhaRnIycE14ZFZlNG82TkNZTnZ0X00?oc=5",
-        "headline": "“내가 경고했잖아”…AI株 폭락에 금융시장 패닉, ‘빅쇼트’가 옳았나 [머니+]",
-        "summary": "",
-        "source": "에너지경제신문",
-        "published": "11/21 10:46",
-        "published_ts": 1795225569.0,
-        "tag": null,
-        "first_seen": 1795225756.944667
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1IdEtnRk94djJMSHhRNHRZZzZzSGM2QjA4UUpRVWs3S1ZWT2NJVXNuSWlZeUNfRUMzYTdWelZIUXZONUhaMndPdWxkUGgtVnI1MWFZVE16VGhDVUs0YU9QWFBURGpGbHdhN0d1U3VOckc?oc=5",
-        "headline": "[뉴욕마켓워치] 나스닥, 코로나 이후 최악의 한주…증시 패닉 속 채권↑달러↓",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/21 09:04",
-        "published_ts": 1795219498.0,
-        "tag": null,
-        "first_seen": 1795238124.7725244
       }
     ],
     "perpetual": [
@@ -2313,7 +2313,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-23 12:05:18",
+  "updated_at": "2026-11-23 12:15:49",
   "yields": [
     {
       "label": "3년",
