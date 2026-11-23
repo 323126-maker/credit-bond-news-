@@ -1540,6 +1540,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNY1pWV0lfOF8zZElEaDFHenE4UFdzMWRPcDVuZ3lHUGRTd0RBcnRuYjNQZ05MYmRpd3FMNkRlMkNmRnIxd2piTlVhdTJZeEJIZ2NEYUNUeUViLXhCeERhOC1PSnhmYkVpWVJmcmxBWXhNQkYzc2cwVi1hNWk2aGNnRXVsQ01qLWozS3NGMFRyUW5RY29IbWJuMw?oc=5",
+        "headline": "US Treasury Yields Keep Equity Valuations Under Pressure",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "11/24 01:00",
+        "published_ts": 1795449600.0,
+        "tag": "Fed",
+        "first_seen": 1795453245.7131107
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcFJ5QUJ2bHBBZDJGNXNPSVFleGFodkU2TS1wRl9ILVVIVlBxcHhOaFV0cE9IN2F5U2VKNmNLbFE4YWxPNlZBWXpCSkZfUVloc0RDZ0lxQzhDLThMR0tPSjZfZzVPTzNGNTlqWWhidGhabm5XN3E1OUJsWl9mYXRGa01GbWpNV2dQYlp4dGVn?oc=5",
         "headline": "Markets Expert Rebecca Walser Delivers Outlook for Remainder of 2026",
         "summary": "",
@@ -1770,6 +1780,16 @@
         "first_seen": 1795432533.0512958
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQk15YmxGMURLcVVCejEyYTkwRWZNQTktcW5TX1lXZm5CUHRwczdrM0hGSUdjX081NW9yYl84ZnFOZksybGFfY0xkWG9YOGp3NlZaWnk4aUhtNkJ4SWJFS3BoR1ZwdXh2OGRZeG9ZTjhIeFhLYXRqcWwwS1dwM21zZ0JOYjRWYW81dno3cmZucFdiRU91dnNkbA?oc=5",
+        "headline": "U.S. Treasury yields rise as Wall Street rebound lifts rate outlook focus",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "11/23 19:54",
+        "published_ts": 1795431265.0,
+        "tag": "Fed",
+        "first_seen": 1795453245.7131107
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPMzJ3Zl91TjFvZjFLR1R0NkNCWTlRRUh4ODJpd25SSm9Dc0doYlR6NUZ6VkxCUUlJdEwyRXRvMlJKMkhVT0U0Wmg2blg1VHI1dkJZRXlNTVUxempmTVFKYTJIdFdVTU1ZeDMyZHpnLVFrYkxEV1V4UkZxZkZ3dmNfTG52N2tTMDZOQjdyLWNTUEV0Nk5WZ0J6TVNibzlRMXVTdER2MWNIZFA0V1pVeVRsWWJiOXZKdy1r?oc=5",
         "headline": "Societe Generale maps out its 2027 investment strategy",
         "summary": "",
@@ -1918,26 +1938,6 @@
         "published_ts": 1795424580.0,
         "tag": "Global",
         "first_seen": 1795439727.0733447
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFB0YkdPQnE2OS00Q2ZpNWdmOTltSmRfUkJaeXBnZlhRR0dxcTNteXlzOHVBX0tpaVFMUVM2TGl3MTNwRVp5M2MwR0lBSGhJTEtlM0dTcFU3MFlGY25jR2JMM2dCUFlPelNrb2xMY0djTzVYdw?oc=5",
-        "headline": "Daily Navigator- 23/11/2026 – Market Outlook",
-        "summary": "",
-        "source": "www.sc.com",
-        "published": "11/23 17:59",
-        "published_ts": 1795424357.0,
-        "tag": "Global",
-        "first_seen": 1795438845.5859318
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1IOHZERC1GRW5JNmZpMzJCVTZWVzVlMHlYT2VnN2hCZkdpLVA0OGgycFV2UjhCVVAtQTVBSmVXSHVXU3pkSVlvTTVoWWk3NHJkTnpYN2ZFcGtjV3JDdEdoNTJkeHhFZ01RV2ltbFFRRmZRby1YYzNBYlp30gGOAUFVX3lxTE50TE5jbWtuR1l6Y09KaXpDWFRPRlp1TnRCc2Z1czVDQXdzTGZqLVAtLTJ1ZWVvMnBoQXNoUW1xLVhNbUhsa1F3ekxKVDlyTFEyeTRpNDRXWlo1ZnZOTmYzMzJWeEVrQ3B6OE55Ukh2ZHF1UXo2dHJRNzlEMXNMNjJLQkFqQTNfeEJHQ09VaGc?oc=5",
-        "headline": "Anthropic could face junk-bond rating over losses and spending commitments",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "11/23 17:44",
-        "published_ts": 1795423440.0,
-        "tag": "Global",
-        "first_seen": 1795424444.2783408
       }
     ],
     "watchlist": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 01:45:47",
+  "updated_at": "2026-11-24 02:01:05",
   "yields": [
     {
       "label": "3년",
