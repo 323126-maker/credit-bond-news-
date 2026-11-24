@@ -2,6 +2,36 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5lbHpXRnAzbml6c2k1NTl6WV8zY0J0UFhocm0ycExBemhSREI4YnVkbUJuenNkdWpnLU1rS25yckRWRWYtcnhjanVud2VNVGdOZmJV0gFYQVVfeXFMTUJPbm1EVl9HT1BSM3pRSVotZkJkdk1KQzlMdnpWUE1jalZFOTVuVXplYnRRelB0SGxHd08xZ1dTTm40V3AySHZoMVVGY2U4UUFWMDlmRGNlSQ?oc=5",
+        "headline": "'AI중앙은행'이 복귀했다…회사채 시장 강세·신용불안 지수 하락",
+        "summary": "",
+        "source": "SBS Biz",
+        "published": "11/24 10:35",
+        "published_ts": 1795484100.0,
+        "tag": null,
+        "first_seen": 1795484725.5462382
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SZjRiSVl0WFlMcXo0SGJCQ2ZnRlZzcGNVb2RvendzT3BvUEd1M0V5cEFFVXg0XzVHMVVyQkczYVozckVnS2xWZHhCQWY2NDlhTjBjWEtlbkwtaUnSAWBBVV95cUxQeGo1TGdZeGdrT1dEaUxqWGlOT0N3NkdQZnI3N3hzaFBLOGc4Y3dnbmxTM0YydzlrSlJWX2E2c2VSOExCTF9SZDFJM3VZcjQ4STFBY05fSWRPcWlKbVdiZ2c?oc=5",
+        "headline": "연말에도 크레딧 매수세…은행채·여전채 상대적 강세",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/24 10:22",
+        "published_ts": 1795483377.0,
+        "tag": null,
+        "first_seen": 1795484725.5462382
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE44NWw3SHJfSVc4eEpZcnRtTF9SSzU1Wk0ydUNGZkRqZTdhWkU3UXI4QWFBTlNFblppNmRFS1hhYjNXaW5tUUR5Z2Q4dw?oc=5",
+        "headline": "젠슨 황 복귀에 유럽·미국 회사채 시장 동반 강세 : 국제",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/24 10:16",
+        "published_ts": 1795482960.0,
+        "tag": null,
+        "first_seen": 1795484725.5462382
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHb3hQaThiZ0J6cjBfcFdCOHI3OHJrcURFR0w3c2xCdmpKcFFoZnJPMjJ1OC01X1ZWUkhuTkhoRjVqZVVLMnZQVkxlWDJvR3VMUVVHTzU1bnhuTHhaR0RBVkJzbnliM0ZE?oc=5",
         "headline": "젠슨 황 복귀에 글로벌 회사채 시장도 반등…기업 신용위험 완화",
         "summary": "",
@@ -60,6 +90,16 @@
         "published_ts": 1795478718.0,
         "tag": null,
         "first_seen": 1795479064.5704374
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84cWcwOGx6cUlsNTJXUGdoLWhpRjNDaGI2cllfVjA3NWdjTHVyS0NhTTlZX2l2aThOb3NidFMweDhtT1JvcjlsdUgtR0I3NkMtRWFDM0V2NkJwdG1tUURZOXBKdENNS3Z0ZFRseVFQVzAtZw?oc=5",
+        "headline": "젠슨황 복귀에 변동성 더 커진 코스피…금통위 앞둔 채권시장, 증시만 본다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/24 08:33",
+        "published_ts": 1795476827.0,
+        "tag": null,
+        "first_seen": 1795484725.5462382
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VLXRCZC1TSENQaUY2ZUE0WXF4Uzh2Sy1tUnd4SkpwMHpJTnhCNHI0MVFZT09vMmpKNG9xZnBoQjhmNUNocndIdkg4c3NGSFZRQXEwZlVYZ0FLdk9sTkJfZ0w5aERfNksybEdRTEZR?oc=5",
@@ -360,46 +400,6 @@
         "published_ts": 1795419595.0,
         "tag": null,
         "first_seen": 1795426233.7103446
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOOEMtM2ZYamItY1o4c3hJSFpXa1hzTk9BVUREaWhIVGFpQl9GRHVYRlE0Yy11SW9JVzRzQXdXSHQwTXFCMGRRbTJoSjRJZzI1R3Z3SXI3UUlSd28tQl9seVp1VlVlaDJUc2I0UXlERVVzUHkxLUh5QnU3X1E4YlFhTXZELUJvVGptQldMNGxZbUJVMXZ2bDZ0cld0aHMyX3BINkFsTldsMGlWSnlPZ01TYS1XaHhzQnBKWnI3eTA0RXBOWV9GSXljV2xhaHJEeWhLMTlteXFHejJRR3JDbGRnSkxn?oc=5",
-        "headline": "달러 강세에 주요 통화 약세…엔화 크로스 하락·금속류는 추가 조정 압력",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/23 16:39",
-        "published_ts": 1795419594.0,
-        "tag": null,
-        "first_seen": 1795419924.2838142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSlpEblJLMjhhVFpvU2QxY0VvLVZzTXRMcmNDemxtaU0wWjFnUTFoNTBIcFVUZDltdTc5RFBXLWQ5Xzgyb1pSdHpqQURVbWdPeTBjS2xvcUkwc2piQmwwZzRMYnF5UkN2ZjAweGJPWldJeFBpZHZrM2d2ZnNwdFVpWVpXOW16NFdodFZoandmU2hmWlJHUU4xY3Q2eGxWRHRwRFEwMWtVeUhVR01GUXkyZGhOU2tKQjhKbDhrNWJsOUt0WUZhUzFwRQ?oc=5",
-        "headline": "나스닥 4.6% 급락…엔비디아 조사 압박·미 국채금리 상승에 AI주 동반 하락",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/23 16:39",
-        "published_ts": 1795419592.0,
-        "tag": null,
-        "first_seen": 1795419924.2838142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxORXByLVJuLTN6bkF6cWVLWEd1bWJRQnQweDRqOEFkRV8yeG55azVBWmhESEg5dWN6S0dSMTg4WnlfUHNzRzczV3d6UWxVc1c5Yk5fLW9iT2NPQUtxVEV4b19RQjN5b0xPLUNTQXhvUHBJZFZuQllKRnVrMkQyVlkyaTEyMEFFWXBKMkRiSU8zOWpEMHBHdUFGdGswM3pQNkRRUzg1ZVZKVGp6OFlNQUstY3dNSlJKNkF0cU85ZmxEcmZwMjNqUWJ0bXEyMmk?oc=5",
-        "headline": "매파적 연준에 달러 4주 연속 상승세…달러지수 104.60 저항선 시험",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/23 16:37",
-        "published_ts": 1795419476.0,
-        "tag": null,
-        "first_seen": 1795423534.9254546
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVU2bk9YNVA3NzFCZEx6VWxtRFFlZkI1N2Z1cWZNQkFiRDJIeGtIOHR5Vjl6QW8zcU5HR2NqT0pwMm9Ed3Q4ejFUcE81Mk5PaUIxSjl0VzlzMHBDQldpenRnMGZJemdlbWYtaG9zSGdaYy1LM0ZfaVJNWTRwRnpqWVBPMmkxYjdMazE4UGNrb2htZ0p0VllwRmkxaDIwZ0VtX2FYSDdyakk2dWJMaE9UbWw4LTFIZ2RCdDhwWkh3OHdneTlaOFJoZGFCQ1l4ZEI0?oc=5",
-        "headline": "파운드화, 12개월 저점 부근서 주춤…소매판매 반등 효과 소멸 속 연준 금리 전망에 시선",
-        "summary": "",
-        "source": "VT Markets",
-        "published": "11/23 16:37",
-        "published_ts": 1795419470.0,
-        "tag": null,
-        "first_seen": 1795419924.2838142
       }
     ],
     "perpetual": [
@@ -826,6 +826,16 @@
         "first_seen": 1795480233.5856485
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE84cWcwOGx6cUlsNTJXUGdoLWhpRjNDaGI2cllfVjA3NWdjTHVyS0NhTTlZX2l2aThOb3NidFMweDhtT1JvcjlsdUgtR0I3NkMtRWFDM0V2NkJwdG1tUURZOXBKdENNS3Z0ZFRseVFQVzAtZw?oc=5",
+        "headline": "젠슨황 복귀에 변동성 더 커진 코스피…금통위 앞둔 채권시장, 증시만 본다",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/24 08:33",
+        "published_ts": 1795476827.0,
+        "tag": null,
+        "first_seen": 1795484725.5462382
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxMXgwT0s4ek1RTFJIR1ctZUJpLVZYTXBsaFNQQmh4X1dfSF9JVktmbmZqN29HU0h6dHVLdDN6cEdaQ05aeEczbGFuUGE1Rk1tMG9lbS1RVENLUUNZUjBkTVlkcDI0NXlpS250SGxBOFFydw?oc=5",
         "headline": "[노현우의 채권분석] 외국인 델타가 무거워 보이는 날",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795141321.0,
         "tag": null,
         "first_seen": 1795302038.8440602
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5nXy1OcXRFVk9lQ2tTcTVWNlJsZUpYRk92Mi1MSjd3SktFcUJzVGhTS19GejJ5Z2JVaXpGUm00LU9ad2RSOFdIT0VzdWEtemVzUFJoWG1UT1Y3d3p6UC1paWhMRGtHQ0FoZXFiUlZEdkNnTld0?oc=5",
-        "headline": "높은 성장에도 소비·물가 안 오른다…外人 매수 뒤엔 '2차 파급 회의론' |",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/20 10:19",
-        "published_ts": 1795137541.0,
-        "tag": null,
-        "first_seen": 1795147240.289333
       }
     ],
     "politics": [
@@ -1539,6 +1539,26 @@
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Kb0JuMWpfcnhrMnA1ZFlrQlA5QnJONUNPNW1EYjJhVXFQeGFSRmRzQ3pLZjJpZ2pTS3Q1RjJyX1p0M0xUN1VCOXR6TXhrdVVZWGtndVQ2RXNzdFNHM0p1SjJn?oc=5",
+        "headline": "US and European Corporate Bond Markets Rally on Jensen Huang's Return : Global : JKN",
+        "summary": "",
+        "source": "재경일보",
+        "published": "11/24 10:35",
+        "published_ts": 1795484104.0,
+        "tag": "Global",
+        "first_seen": 1795484725.5462382
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZnlOTHR3V1JKVkp3dTZPME9RdDZVcVVTdmNlVmcwZlNFWnRHUG95Qm1Pc3lHdXctUWRrdzZiMkpHbXdsX0FOb3hzaUNTX2RoZGFVaG9qSVVtSXhDUlBCUHRSTXgzZkRaNmEzbkJuX3UwUHZHWldjWVBsa1U3UmhkX25lNEVyYkpmbE9ubG94d2JIaks1TktjbEtDUmV3Wllpd3NyR1hnU0ZMV0xGbzdhR0h0WmFzZU9PeUxXZzJHX2hDeDE1Z0hjQ3Y5NGxmZzJmMElITHpJazkxZWZPOUNuRlp1eDN5aFhCNVQ5anRKbw?oc=5",
+        "headline": "Fed Rate Hike Bets Build Ahead Of December Meet: Fed’s John Williams Says Inflation Still ‘Too High’",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/24 10:09",
+        "published_ts": 1795482540.0,
+        "tag": "Strategist",
+        "first_seen": 1795484725.5462382
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zT1Q1c1FDcGpUQS1QcUlnT0syb0laQTAyTmdvalJoVE5sbk9qLWxVdWdQYS00aHhFbnpscnVmaWNCYzRySXpzOTNramxMS0YyXzMyWmFadlhUNUxjbDM3WGJfVGU?oc=5",
         "headline": "Earnings Outlook Is Solid, But... Liquidity Is Weighing on U.S. Stocks",
@@ -1918,26 +1938,6 @@
         "published_ts": 1795441680.0,
         "tag": "Global",
         "first_seen": 1795442443.270122
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQkcza3RUQnFYVldHYmpiT1BZcHpXWS1RaExvZVBReVFBc1AyZjktNjROX2I4N3NZSUx5R0lpWE9NbkV6OC11MGpJQmJKWS0yWGlVb2t0Y2hmRmlQRWlOSWdoUXZMYUFfWmJnYjhjZ0VhbFRUSnd5eVFiYjllLW00N3BOUQ?oc=5",
-        "headline": "Fixed Maturity, Plenty to think about",
-        "summary": "",
-        "source": "bondvigilantes.com",
-        "published": "11/23 22:27",
-        "published_ts": 1795440443.0,
-        "tag": "Global",
-        "first_seen": 1795440634.2973058
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMDBfbjFFamRyOXhQcThCUzZEcGRkQmpTQ2dnQlFCQ0ptYnVoR3VDcUJjUjMzaUNwd0VFUDVJejBRRmMwdndqeTh2ajB3Ums5QXd4aDRwak82U3FnS0hQLV9CeG81NWhabVI0UVpuNW9MZDNlTzdKNDBQME5zQy1NclljSGZ5a3JKWmVsUjBB?oc=5",
-        "headline": "Gold rebounds after steepest weekly decline in eight months",
-        "summary": "",
-        "source": "PRESS Insider",
-        "published": "11/23 22:25",
-        "published_ts": 1795440354.0,
-        "tag": "Fed",
-        "first_seen": 1795440634.2973058
       }
     ],
     "watchlist": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 10:30:53",
+  "updated_at": "2026-11-24 10:45:48",
   "yields": [
     {
       "label": "3년",
