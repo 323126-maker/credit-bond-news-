@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOb0dyS21qSnFSZmlFaVNNVmJCQ215TzE3bmxlZnpqVkU0U3FEdnV4YWQ1NzBzRTVGb3VqRVRiejhvWTNRc2tIX2JsTWVBVEZheFMyTzYxTGVqM3NEMlhlYWpHd2s5N1B2NjFJZG1rcGV4NVVUbGxmN3lYWEhFTjlhSw?oc=5",
+        "headline": "증시 주춤하자 크레딧에 몰린 기관, 회사채 투자 괜찮을까요",
+        "summary": "",
+        "source": "네이버 프리미엄콘텐츠",
+        "published": "11/25 06:50",
+        "published_ts": 1795557000.0,
+        "tag": null,
+        "first_seen": 1795557645.8118722
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcEdQZUhENkxwY3FkcVNVMjFFZGpkWm0wSmI5Wkc4c3pnOUVpSGtDY0l2SnVzT1VqelU2S1hFakVqRl9ERURaSmpIMFFuR1dKV3kyVDhmNnpIQTJnT29uYVNwcW9Ua1FPMDB6dklaZ28?oc=5",
         "headline": "S&P, PROG Holdings 전망 ’안정적’으로 상향…빠른 부채 감축 효과",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795482960.0,
         "tag": null,
         "first_seen": 1795484725.5462382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBHb3hQaThiZ0J6cjBfcFdCOHI3OHJrcURFR0w3c2xCdmpKcFFoZnJPMjJ1OC01X1ZWUkhuTkhoRjVqZVVLMnZQVkxlWDJvR3VMUVVHTzU1bnhuTHhaR0RBVkJzbnliM0ZE?oc=5",
-        "headline": "젠슨 황 복귀에 글로벌 회사채 시장도 반등…기업 신용위험 완화",
-        "summary": "",
-        "source": "www.ebn.co.kr",
-        "published": "11/24 09:58",
-        "published_ts": 1795481910.0,
-        "tag": null,
-        "first_seen": 1795482945.3951635
       }
     ],
     "perpetual": [
@@ -1630,6 +1630,16 @@
         "first_seen": 1795556726.6682148
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NUVQ3QnZWNzVOTERjb1BmTDJlT2h2OU5IMDRWLWhvOWVydFpST2NXd3g0TzFoN1d2dkVYQlNhQXBqeU9hYU1LaVpvQWhDUEtNN2djNWItVDQ?oc=5",
+        "headline": "Questions? We've Got Answers: Addressing Issues Impacting the Economic and Financial Outlook",
+        "summary": "",
+        "source": "TD Economics",
+        "published": "11/25 05:52",
+        "published_ts": 1795553573.0,
+        "tag": "Global",
+        "first_seen": 1795557645.8118722
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtdGs5VXY0MGp5a09MTVBSTmFGbUNJcHBkaVdjSXBzeFJ6R3JJSG45ZzZ2SDhRbldsSC1tUVcxeGIxNDhaX2JCVlR3c2pLcUtyLURWbF9hTERjOFc3REdQaDdBNkQ5Y0h4MVQ2TlRRUy1FdDR6emc?oc=5",
         "headline": "Treasury Yields Hold Steady as AI Stock Rally Cools; 10-Year Slips to 4.906%",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795514400.0,
         "tag": "Fed",
         "first_seen": 1795516234.0008044
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NUzM3MXJ2ZEpaUFh2c1FYRndiQnlKN0JpSlQyRmZqenBLRW5scGNFeGJkQzJWa0FNRTJCSHN2Mko1LXNaOW8yYThtZU5CTFY4TE9hNl9hbXpHcGNzZGxV?oc=5",
-        "headline": "Outlook 2027: Raising the bar",
-        "summary": "",
-        "source": "www.allianzgi.com",
-        "published": "11/24 18:50",
-        "published_ts": 1795513815.0,
-        "tag": "Global",
-        "first_seen": 1795514439.5775108
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 06:45:49",
+  "updated_at": "2026-11-25 07:01:10",
   "yields": [
     {
       "label": "3년",
