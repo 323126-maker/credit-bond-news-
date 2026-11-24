@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
+        "headline": "채권시장 종사자 54%, 한은 금리 인상 예상",
+        "summary": "",
+        "source": "코리아리포트",
+        "published": "11/25 00:32",
+        "published_ts": 1795534351.0,
+        "tag": null,
+        "first_seen": 1795535128.493694
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5wNElNd0VqdHZoVG5Eay1tdjdOSUMzX3EwVE4zYkRJcTdWVUZ0NWNMQTJBb240bHJxQjJVempTN1JaalFNUDExVzB4RGc5NXNJSHhRTDQ2cXNDQXB3cW16QnNsSHVEYmliV3VkYzVlaVhmQlRZ0gF0QVVfeXFMTnA0SU13RWp0dmhUbkRrLW12N05JQzNfcTBUTjNiRElxN1ZVRnQ1Y0xBMkFvbjRscnFCMlV6alM3UlpqUU1QMTFXMHhEZzk1c0lIeFFMNDZxc0NBcHdxbXpCc2xIdURiaWJXdWRjNWVpWGZCVFk?oc=5",
         "headline": "FX스와프, '젠슨 황' 복귀發 위험선호 회복에 상승…단기물부터 강세",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795312380.0,
         "tag": null,
         "first_seen": 1795312842.1696231
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSHhIbVg3bmRfMGE0R19qN3gtU0xGSGVtakpCaWlTWXh6UU5RckZxVWxEaUd1MVg0T3FsNXVzNl9iZjRKVnR2dlpuZlVma2kxWkphU1I3YkladXJGa09GVWFVNk9PcFc1TW1Oa05ldHLSAXRBVV95cUxPVWV6UHNLdElPTWVEc0dwZmFFWVlBYU5xUV80MnhEX21FMWU0ei1TY2o1VGg5dlhWaDBrVFpITERQZDE0X2xxM01fZ1ZITnBpYjFZT1J4TW5LSmFubTVibFFqTGNuOWF1TjR3c0Rhc3JidjNCSQ?oc=5",
-        "headline": "AI 투자 불안에 글로벌 증시 급락…코스피 이번 주도 약세 전망",
-        "summary": "",
-        "source": "산경투데이",
-        "published": "11/22 10:04",
-        "published_ts": 1795309490.0,
-        "tag": null,
-        "first_seen": 1795310136.2977293
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 00:31:02",
+  "updated_at": "2026-11-25 00:45:48",
   "yields": [
     {
       "label": "3년",
