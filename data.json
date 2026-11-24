@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tOFVSUHlFLUpRcF9seEJ3UGhlakRHMmN4RWxOWE5tTmFEaFFqbUpnMXZkajVyamhOV05zUWhjaTh5NGlpa0FYOGRxVWZQWk1ucFhpdVUzOWV3U05kVGdr?oc=5",
+        "headline": "채권전문가 54% \"한은, 11월 금리 인상\"…동결론 뒤집혔다",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "11/24 11:38",
+        "published_ts": 1795487918.0,
+        "tag": null,
+        "first_seen": 1795488327.8397224
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE51bm1XTUhFZzNCZzh2aWZsblI0RkZzTUJZcy03eVhPV0ExYUlFX2JlZ21tX3B3QWZmY3N5X3RzZTZuS1JMRkNPYWdFd1FpMUcwd2RxQ1ItN0NkUnJFV0J4elY5MlJtcG5fWE1Vd2F0OV_SAXRBVV95cUxQcFNUZzM3NTNlM3VaTF9kbFM5eVBNbXpoMGlXZXV0OWhmMzhlMm9WLUQ3eFpaSHcybVI1REN4WnJHVEEtcXllZFd2SjRNOFRuXzdlb0N0UTdxSG82Nm1yVjdQNHpBTHZvT2tQRlFrQ3Q3OWpoaA?oc=5",
         "headline": "얼어붙은 채권시장…\"이번주 기준금리 인상 유력\"",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795221600.0,
         "tag": null,
         "first_seen": 1795255238.6517131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAyYl90OUFvRjBRRXBSUDJhLVFfZnQ2dVhiZmpPckV0d0FPeExkTFRLNC1kSWhNSTJRZjNxSkxabTIyckRpNHNQQ3BNenQ2SlUtT0E?oc=5",
-        "headline": "[다음주 경제] 숨 고르기 한 기준금리, 인상할까…한은 성장률 전망은",
-        "summary": "",
-        "source": "매일경제 마켓",
-        "published": "11/21 08:36",
-        "published_ts": 1795217768.0,
-        "tag": null,
-        "first_seen": 1795221925.5786867
       }
     ],
     "politics": [
@@ -2363,7 +2363,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 11:30:59",
+  "updated_at": "2026-11-24 11:45:48",
   "yields": [
     {
       "label": "3년",
