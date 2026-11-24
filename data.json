@@ -52,6 +52,16 @@
         "first_seen": 1795541435.7800138
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
+        "headline": "채권시장 종사자 54%, 한은 금리 인상 예상",
+        "summary": "",
+        "source": "코리아리포트",
+        "published": "11/25 00:32",
+        "published_ts": 1795534351.0,
+        "tag": null,
+        "first_seen": 1795556726.6682148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oTnBvb3dVT0lCd1BaSUFIbjQyaGxUZ0NUOHcxMjNadVJiSzhJMk1pdVZIM29oMGN6bXZVUTE3eTloX2RGSGhlZm5EZ3lURGNFejlvaFpOWS1ZN1VNTldPaHRIdkRyVG1qX0pWMzFPZ3U?oc=5",
         "headline": "달러-원, 뉴욕장서 1,340원 초반대 거래",
         "summary": "",
@@ -390,19 +400,19 @@
         "published_ts": 1795481910.0,
         "tag": null,
         "first_seen": 1795482945.3951635
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBBc3h3SmpqeFlTMk9VdFhfalExeVVZQVNKV1VBVHM5LTVkcGZyVjlZcGU0dTdSdTE1SVBBMFgzZjh3YzhDdEo2Z2Q5YmVpQUppT2V5ZXBEYkxCS3PSAWBBVV95cUxPcXotajM3dXNjTWJYbi1IYVdNY2VVbTVweUhCNlUwRjdKLUxaaG9HWm9HVThwNnBKOUdjRnl5Y1dyR28xVkZCYTRVYV82MmlnNHoyMlpLdEFhRnpRX1ppYzE?oc=5",
-        "headline": "젠슨황 복귀에 AI 회사채 시장 강세·신용불안 지수 하락",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/24 09:44",
-        "published_ts": 1795481055.0,
-        "tag": null,
-        "first_seen": 1795482038.9539099
       }
     ],
     "perpetual": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBJZXk4M0pTRklNdUFtYkY1YllrNkhTOEVBM0I1ZmV3WkktazVJdXluV1Bxc3NwZHJpRHFpempYa2trV01aWW43c3JVWGtVdEkyYXNNTjFfWkFYbkR3SGRnR3dxWVNPLVlEZFBlRnc2bTFhSmRRcmJZR05Tc0c?oc=5",
+        "headline": "[DCM] KB손보, 후순위채 3000억 발행…CSM 감소·자본관리 변수",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "11/25 06:30",
+        "published_ts": 1795555800.0,
+        "tag": null,
+        "first_seen": 1795556726.6682148
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBVUUFqUWpNWmt2NW11VFowcUl1bkpYU0NoX2x6eVhxY2d0QklIVlhUbDNRaXFvWHEyWEpiM1Rhbk04UmZWYjdrV3gyWFlyb2s1QWxHVXM5VFFZQ0ZXVDJTVFVKekZQX2h3?oc=5",
         "headline": "SK가스, 신종자본증권 상환에 2000억원 단기차입",
@@ -792,16 +802,6 @@
         "published_ts": 1795073820.0,
         "tag": null,
         "first_seen": 1795103127.62278
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA4S2xOOTJ0Wl9KU2V3dThsVW83U2g3RVRZVkxrR2lkb0lPWDZISS1mbXllb3AtZ2NfT3FDVTlSNk5YX2Z3UnRzLVdCU00zNHVIRzQzYkRPOU9DaGgx?oc=5",
-        "headline": "[일본 특징주] 라쿠텐, 고객정보 유출 파문에 채권 가산금리 급등",
-        "summary": "",
-        "source": "뉴스핌",
-        "published": "11/19 12:33",
-        "published_ts": 1795059180.0,
-        "tag": null,
-        "first_seen": 1795095925.10608
       }
     ],
     "policy": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5nS1FDUS1xNTd6cWFBUE9JbUxkUnZUSnJFck82RHlqeEZOVTBUenpqYWJHbjd0VldkNEI4b3NFalZXTXhRTVFpQ042V2FVQ0g2SXNHeUlYOU1yQnVDWE5FaDFFUWNIUXB3UFpzbm9PcDNNb0Vrc19wV0RKZ2ZwWjjSAYQBQVVfeXFMUERIbXJUSm81dUY0YV9wRlo2YkpfNTBtY3JCOGFsSFM1ODBzU1ltLVFnaHZyRkhmZURkY3dCX1RKVjc3MUd0RVZGR0dtZFZFZjc0LTczZmIwVm1sTjBsaUNZSEo5MEhTWXdMcXU2aHVXTHNRWXJLZnd6VUU0cmxEUHdHZGRp?oc=5",
+        "headline": "AI debt markets shudder as Nvidia's top \"banker\" returns",
+        "summary": "",
+        "source": "CNBC",
+        "published": "11/25 06:38",
+        "published_ts": 1795556283.0,
+        "tag": "Global",
+        "first_seen": 1795556726.6682148
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTks3ZzVpZ2RhN2hxV1hPSlJ2T3c2ZGZrVWtKRktucmtOR3QtaWNHQ2drajdHQS1wT3BQbTJzQnBDZmhWaTgwZU1kWUxvd0w4YUVPdGVwTlZjWnNLT2tib053VjJCTno3dVZvM1Q5SGktcUp6QVV4cVotOGd5bVRSQ1AxOHBGUjViMVVCQ05KNHRLSlpxNENRM25KYTZUYnJlUHc5bnhYUzVwdnRfNmxxdmxR?oc=5",
+        "headline": "Bond Traders Rush to Hedge Risk of Fed Hikes Stalling Economy",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/25 06:30",
+        "published_ts": 1795555800.0,
+        "tag": "Fed",
+        "first_seen": 1795556726.6682148
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBtdGs5VXY0MGp5a09MTVBSTmFGbUNJcHBkaVdjSXBzeFJ6R3JJSG45ZzZ2SDhRbldsSC1tUVcxeGIxNDhaX2JCVlR3c2pLcUtyLURWbF9hTERjOFc3REdQaDdBNkQ5Y0h4MVQ2TlRRUy1FdDR6emc?oc=5",
         "headline": "Treasury Yields Hold Steady as AI Stock Rally Cools; 10-Year Slips to 4.906%",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795513815.0,
         "tag": "Global",
         "first_seen": 1795514439.5775108
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPWWU1SmJxZXJZUHY2VW14NWRVN0ZyVjBiWmpnWVBoWC02c3pLVGRJcGdfU0xGVHdNS2MwejJQbkxlbDloVTZzVVdQNU5kM3Uxa2JsaklsaWFBTlZIQ0RleWFrQ0lXa1R3anFUeVlVWVFEcWpyb0MxdzhWNzRwbmh1T3UyM3RwLWlPRmhpSW5jam80ZkxFUWg3dlhiNjZoUFU0MXdJ?oc=5",
-        "headline": "PULS: A Reasonable Place To Park Your Cash (NYSEARCA:PULS)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/24 18:41",
-        "published_ts": 1795513285.0,
-        "tag": "Global",
-        "first_seen": 1795516234.0008044
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOYVAxWTBMNFZWRzgxUXZnRUVEVllqRXJiWTlIOGJmSmZlMGFIazlKNWZNUzVtajVaVkU0YThIeGpTS2IwYTVKSGFBR2lQV0FJaXMweGdweTJnYTl5cnU5T0pLa1gxLVNWUG1PNGFBTWxQUEdib3RpUWVRcUM4ektFeFMtdUlDb3pqdXB3YTdhdzZVLU01OG9RVTc0QmlvSHdENFFJTEp4MjVlWnQ5U1hHTDlyTFpVQnBka3B2VDJrSjVlYTZZSmdTOGs1SFpDbTVsb1JBRjZHYzhUOFlfY0xERHk2YjRXaUxGVXVHanltNE5KVF8xZlhRcHlBNERIYmwwdnVvZE1OT1dRWDMyXzRONlB6ckEydFFxLXpMWm5Xb04?oc=5",
-        "headline": "Federal Reserve Chairman Kevin Warsh during a conference on the economic impacts of new technologies",
-        "summary": "",
-        "source": "The Daily News | Texas' Oldest Newspaper",
-        "published": "11/24 18:10",
-        "published_ts": 1795511445.0,
-        "tag": "Fed",
-        "first_seen": 1795511729.3202732
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 06:31:01",
+  "updated_at": "2026-11-25 06:45:49",
   "yields": [
     {
       "label": "3년",
