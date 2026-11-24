@@ -1540,6 +1540,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1zT1Q1c1FDcGpUQS1QcUlnT0syb0laQTAyTmdvalJoVE5sbk9qLWxVdWdQYS00aHhFbnpscnVmaWNCYzRySXpzOTNramxMS0YyXzMyWmFadlhUNUxjbDM3WGJfVGU?oc=5",
+        "headline": "Earnings Outlook Is Solid, But... Liquidity Is Weighing on U.S. Stocks",
+        "summary": "",
+        "source": "아시아경제",
+        "published": "11/24 09:53",
+        "published_ts": 1795481580.0,
+        "tag": "Global",
+        "first_seen": 1795483832.4223938
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOamhQcGtONXo1SHNRdHRjWHRPZ3gzaHJCUTdNbW1BdUJ3ZUhLTjZ6X1F2dVo3SDdmZHZlWFIwMHVOX3RSZ3lFaE9vRzFDdUE0YlhFbXVTOWxuM2J3dkVwYjE0VE5JV0ZIaHNVLVp3d1dIMGxlX3JvVTNkNnRsRldmeUsyVk9IYldqbTFsU3RZUXpWclpybnhaei1CU2U5WDdQb1ZfcHpZdm5TdldRUlVfMVNnV0dDMG56eWRfNEhCbw?oc=5",
         "headline": "US Stock Selloff Revives Question of a Fed ‘Put,’ This Time Under Warsh",
         "summary": "",
@@ -1928,16 +1938,6 @@
         "published_ts": 1795440354.0,
         "tag": "Fed",
         "first_seen": 1795440634.2973058
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0zWFpsQ0xndFBVeFkxakVrWDVZUFpwNmRSdk9jLWQ3WTlUYXhBOWtnTjE1RXhaN0xPMEQyZGFfd1pRVTlYOF9hZg?oc=5",
-        "headline": "Top Tokenized ETFs by Market Cap",
-        "summary": "",
-        "source": "CoinGecko",
-        "published": "11/23 22:22",
-        "published_ts": 1795440175.0,
-        "tag": "Global",
-        "first_seen": 1795469435.4757018
       }
     ],
     "watchlist": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 10:16:09",
+  "updated_at": "2026-11-24 10:30:53",
   "yields": [
     {
       "label": "3년",
