@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnTl9xU0s1T2xaRTBwSXp2cTEzbUF2N243MHZTSnlBeFN5eXI0aFh6TDRKY3g5TFpIRThxRFlYWnV0c19qN25iNHpOU2lEc1BGNUQ0cGt5N1Q0Z1RHdUl2Y3NITEdQN25sVmZNRF9n?oc=5",
+        "headline": "[월드 e 브리핑] 미 국채 2년물 금리 4.66%…12월 인상 확률 98%",
+        "summary": "",
+        "source": "OBS경인TV",
+        "published": "11/24 20:44",
+        "published_ts": 1795520660.0,
+        "tag": "JGB",
+        "first_seen": 1795521642.9159083
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4wM2VLNGhsQWVSbUN2Tzhzb1NablB5TW5NbXBsRjd2UHJ5eDNWaGhNVGNuU3FkNzlockVLRms5ZUM5RmNvR1haUkc4WGNqYXBzeUE4d2RnRXk?oc=5",
         "headline": "Contradictions",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795489937.0,
         "tag": "JGB",
         "first_seen": 1795498237.5119882
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzNPVkcydjV2dGZWakRDckhfV3lNVGNseHhKOGQyeWF3WXJ3WFpDMUtjZ0k2ZEdxd0hqb0gtdTN4RkJYQ0cwU0ZwaHhfa2JJbEJXNDVrQk9qZGQzaXA5M2Z1VVQ0LWZiMng5SzcxRV9HdGx4dXVtX1lPOVVCc2ViVkFMVlcwT3I0T0xJRTh1ZlQ4Q3pOQk1NeUNlTTdiUWl2alpTcUV2RnhJUUE1dkE?oc=5",
-        "headline": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/24 12:07",
-        "published_ts": 1795489620.0,
-        "tag": "JGB",
-        "first_seen": 1795491035.3132133
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 20:45:57",
+  "updated_at": "2026-11-24 21:01:02",
   "yields": [
     {
       "label": "3년",
