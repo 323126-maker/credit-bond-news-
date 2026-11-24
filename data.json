@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9sajh1QW5BRUNTZEVwZnk2Q1dDZzc3Q3RiX09BejVVOFphYVJoMGU1NWxMd2pRV2ZrNWNMV1gta3JtM25ZWFFpcDFSdVNocTdSTTRqQmJ1WTRUd1dxQXkxclVQQWpmTTltcDhCdk9SLTB5Z9IBckFVX3lxTE9sajh1QW5BRUNTZEVwZnk2Q1dDZzc3Q3RiX09BejVVOFphYVJoMGU1NWxMd2pRV2ZrNWNMV1gta3JtM25ZWFFpcDFSdVNocTdSTTRqQmJ1WTRUd1dxQXkxclVQQWpmTTltcDhCdk9SLTB5Zw?oc=5",
+        "headline": "李대통령 \"부동산 폭등·폭락 모두 대비해놔야\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/25 03:40",
+        "published_ts": 1795545600.0,
+        "tag": null,
+        "first_seen": 1795555836.692134
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xYnJ5Um1vOGxYa2FkdThxT0diRUh5N1ItVGNHMWxTQkVobnc5SWxmcjdtZTZWenhFNTIxVzJzYzlQTmVKQ08wTW84eUNhcVpXeTRFVjljSQ?oc=5",
         "headline": "정부 ‘국민 삶의 질 지표’ 개발… “경제 양극화 해소 집중”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1794856262.0,
         "tag": null,
         "first_seen": 1794949255.2365506
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1aem9sTHpFZHlpU1Q4bUZneU9EZFdzbnlVZF9jV0VPOFlpZkx6Zm81dTQzYXNNMDdibXNPSnlqT1M3YVNSX1A2aHJXbGtDRlozT0NIeVIzMXNaU0JYTFRjYVNlOGlVTmM3cW1SZ1RqZlpRRW8?oc=5",
-        "headline": "장동혁 \"개혁 탈 씌운 망국 정책에 국민 등 돌려\"…이 대통령 개혁 발언 정면 비판",
-        "summary": "",
-        "source": "스페셜타임스",
-        "published": "11/16 15:09",
-        "published_ts": 1794809389.0,
-        "tag": null,
-        "first_seen": 1794810634.8038394
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 06:15:54",
+  "updated_at": "2026-11-25 06:31:01",
   "yields": [
     {
       "label": "3년",
