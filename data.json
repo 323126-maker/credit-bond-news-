@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CaWZPaDhFUFlDVjNLdkw5c2k1dmtZUUlmNGF1WWJrUU91N0dFa1M3b2RJa01lVDI5dl9SSXdPbjRhbkkxQkM2YWs1dWU2d3VMR1hHb0R0dGdVYlAtWmtwOFVMVVNEa093R2twX3VfX3M3QQ?oc=5",
+        "headline": "젠슨 황 복귀에 AI 신용시장 다시 '흔들'…코어위브 채권금리 17% 돌파",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/25 08:00",
+        "published_ts": 1795561239.0,
+        "tag": null,
+        "first_seen": 1795562128.094392
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVHFlRkhJTHJWNWFEeXBSemplN2c2RnVVMmxGU3JzRzJRVTM3d3REWjVZa3RpWVdMR0JFcGRuWmZtaFMxcFNZc3VyTlA3SmtXSUpKR2V6clNPbWpWTHhpdzI3d1NfMkhrTUhFa2Y2N0FVekFNZWJOc0pGNnJLOFMzZHpzWEwwampz?oc=5",
         "headline": "[시황발자국] 11월 25일(수) 장전 시황 : 젠슨 황 복귀 랠리 하루 만에 AI 차익실현…필라델피아 반도체 -7.88% 하락 속 미국 '과잉생산 관세' 발표 임박 대응 전략",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795483770.0,
         "tag": null,
         "first_seen": 1795485639.8434312
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MbnNvcThYSGhGRFpuQnQ3eDY1M19KZEVraHk2TXFzSnkxR29JMlMzaHBxNU5aN3BWWnpGV1U5em5OcWo5a2l2b0ZlYVh4TXF6LXM0MDh4SkswTlpDRnBRRmZsS0xtY2Yz?oc=5",
-        "headline": "[채권마감] 장기금리 폭등 ‘2년반만",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/24 10:25",
-        "published_ts": 1795483521.0,
-        "tag": null,
-        "first_seen": 1795495528.2481732
       }
     ],
     "perpetual": [
@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE95MjZib3FHa0k4UVp2bXh6eXFOME93Si1EUkItcGJZWFVsV21TbURKN2t5ak83MF9kQ1B4ZzVEQ05HeTdVNXRsY21sN1FyS1JyZGtUbFRjV08xYUZ0NU9QLWE1djRGbnh3XzFJcXJqS1BmZw?oc=5",
+        "headline": "[11월 금통위 D-1] 채권시장 시나리오는",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/25 07:55",
+        "published_ts": 1795560902.0,
+        "tag": null,
+        "first_seen": 1795562128.094392
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1vZ2ZreFYyQTJlZ3pfN3MxcFNSYkxOdmVnS19BSHR0ZkNUZlRvMUZNMlN4M0JRNG9uYlpuTHAxX1Z4RHRMR0pFR0xMSUhMcHBPLXpsNGdod183Mk0wXzhTZDl0MWQtcmt2TkJzMDl0a2w?oc=5",
         "headline": "채권시장 종사자 54%, 한은 금리 인상 예상",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795320002.0,
         "tag": null,
         "first_seen": 1795321833.1652172
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0xeFR1bVdOdmJ5RHlwRzBVaTdLVlBnVF93QVg2d0JtVlRDTmdXcG1lY1pFOU9JOVo4UzFFbi1PdUJ1b0JkcnVhRnVxemc0RXRPVkxqMnJyMXJ4d1dQTnhYamRVQzVEWDJuN3NrQnAxTDI?oc=5",
-        "headline": "[외환-주간] 금통위·美 PCE가 온다…AI발 위험회피 어디까지",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/22 13:00",
-        "published_ts": 1795320002.0,
-        "tag": null,
-        "first_seen": 1795320927.1070383
       }
     ],
     "politics": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 08:01:03",
+  "updated_at": "2026-11-25 08:16:03",
   "yields": [
     {
       "label": "3년",
