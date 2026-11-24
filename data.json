@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0MXBBTUxFMk1laWo4bFFoRXd1WlpjWEduSTkyUkZteTNwTlNaTGJhSDJuU2lkZ01TU25HdmZIT3NTRk1tbExHdENfQkVMS19pTlZ2STBjSHlSeU1relE?oc=5",
+        "headline": "\"미 회사채 스프레드 바닥권…하위 등급은 경계\"",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "11/24 09:36",
+        "published_ts": 1795480560.0,
+        "tag": null,
+        "first_seen": 1795481125.2549396
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE40RkIyUUZrQXpiN3Fabkt1OGY5SERUNGtDTkJxLUEzMjRSNXMtdElLcEVhREd0STlTQkZ1WVE1V28zQi1XQml0Vmpoa21Pc1ZyS2JpeEloaThJT3JnSVlTempFdlFtZjTSAWtBVV95cUxQREgxZ2ZDREtMNDJmMldPaVo2SEpHZXZlYzZYS2lQellTbHJIdWpzellsUmVYaVZZT09sclZ0a2wxa3pBN19kdERIdGpsNzVvYTR3Z1NIVllSOXhYNW1XdTBIempkLUhKakNnMA?oc=5",
+        "headline": "김동춘 LG화학 사장, 석화 사업재편안 연내 제출…신용등급 연동 차입금 1조1,546억 '조기상환' 위험",
+        "summary": "",
+        "source": "CEO저널",
+        "published": "11/24 09:28",
+        "published_ts": 1795480112.0,
+        "tag": null,
+        "first_seen": 1795481125.2549396
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1MNmQtZDlCaWtpZUNCc0NaUUpNMDB5MUtucE84UGtlaXNuVGR1eDV0STZjSUl4QXd5MkJTRVpHLTdiWVY4a3JKbXJ3NVNVVUxFQ3FqNjBzTmpwRlIxSGc?oc=5",
         "headline": "\"가계대출 증가세 둔화…은행 연체율 반등 경계\"",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795418834.0,
         "tag": null,
         "first_seen": 1795419924.2838142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5YRHlwWE5GbG1NVV9WMW1Wci1VQ1VLSy1aLTcxVFJQZTZiWV9yZVk3SG90VWpzS1c2Y2YtR0g4VmstRWNpUlo1WFpDblB3OGRtUmtsV2hFMVBtOWZYRklCRQ?oc=5",
-        "headline": "월가, 앤스로픽 회사채 '정크등급' 전망…9000억달러 투자 부담",
-        "summary": "",
-        "source": "아시아경제",
-        "published": "11/23 16:27",
-        "published_ts": 1795418830.0,
-        "tag": null,
-        "first_seen": 1795419924.2838142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5VTDBiSVJoMHVxTFRZN3p5UzVISGRlTlpWc0tFd2xadFdqUmVYVWtmOE1VaDdGRVdnbVBIRFgyRGF2OXhWU1lXcGlGelRKNDQ?oc=5",
-        "headline": "[속보] 코스피 4700선 떡걸이 마감…3.31% 하락",
-        "summary": "",
-        "source": "사이렌스",
-        "published": "11/23 16:06",
-        "published_ts": 1795417614.0,
-        "tag": null,
-        "first_seen": 1795418125.1368446
       }
     ],
     "perpetual": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 09:30:57",
+  "updated_at": "2026-11-24 09:45:54",
   "yields": [
     {
       "label": "3년",
