@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JMjdZeU9ubjlPdUpNSExhaTFyUnpEOWxDU1RHM2RXSUgteG4wMUxLdUJJNmloSXVVXzdnZFA1NjgwVWxoN0lVazdvbEVkanFtb0lVVzB3MXlmVTQ?oc=5",
+        "headline": "‘젠슨 황 복귀’ 반등 하루 만에 반납…코어위브 회사채 사상 최저 추락｜Global Money Club",
+        "summary": "",
+        "source": "중앙일보",
+        "published": "11/25 05:02",
+        "published_ts": 1795550561.0,
+        "tag": null,
+        "first_seen": 1795551336.9403846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WGp4U2VWNXpxNVZBZzNXZnZaM085a0JjRFVjaWNEYkhzTUFwQTlpVDJFdHN2NHZVYlB3bjY5VjFUUW9aTU5hbkJvaFNvRG1pWi1XS2RCNXlOMnpLMEUyamNuTm5oWEVoRnZzbHhOcTc?oc=5",
         "headline": "美 국채가, 전반적 강세…증시 하락에 안전 선호↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795480112.0,
         "tag": null,
         "first_seen": 1795481125.2549396
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa18yd1V1YkgyZXkwVkRFd2haU3pCa3h0Q00zNnVZSXpGYzRrLVJsdzJsbHk5Vi1UcFoyVDRETXFna05KZG43OXRqcXNIMWtTN3pZcTczZFRpNXU0UXFrMV9NSDlQdzc0TTlRcnFRbXdiMjBNemlXS1lmOFo3N0ZjQktNNzBwYTJsWGU4RXo2bw?oc=5",
-        "headline": "중앙일보 사는 다우기술…회사채로 최대 2000억 장전 : 네이버 블로그",
-        "summary": "",
-        "source": "Naver Blog",
-        "published": "11/24 09:22",
-        "published_ts": 1795479720.0,
-        "tag": null,
-        "first_seen": 1795515325.2250104
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOTRZSFRLQ3JrbXV4NkpTd0tiQzhvR0VhQjYxczJkYTZmaGpqTEF5REhhMlBOX2htNlJyaHRqd3N6ZlhJVXJTYTlZRmZpc0cwWi04eURsVHhpbnFTZG1yWlY1NkRicEZ6aUJwTW9XbHU5R2tpNVlDaHA3aEpoRmlrSWktNA?oc=5",
+        "headline": "Trump pushed Nvidia to reinstate Jensen Huang",
+        "summary": "",
+        "source": "Money.ca",
+        "published": "11/25 05:00",
+        "published_ts": 1795550438.0,
+        "tag": "Strategist",
+        "first_seen": 1795551336.9403846
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTGoxVGp0RzhKMzBvTVlvQ2ZFV2hKNWxOU2RJUGFLY3dJRnpZSHFsTXpYYXF6RVdmQkJVdFNiTFdSVWh1QnZpdXZybjFrVWVuWWJwYno2QWtpQVhxSS1FQ1pOREV4RUIwUlJKYS1raE5CN0R3QUxRTlZmMG5sNzVPemcxVDZpSkl1cmxBMXItUUlkemZpbkxwLTNqTUZGWUZtbFdNaXZfVlRkbTA2?oc=5",
         "headline": "The AI debt market isn’t convinced the worst is over for investors",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795508969.0,
         "tag": "JGB",
         "first_seen": 1795512643.8284674
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5fYjlaamtGYXNNc0ZRY3NnUkpFaTZBMS1UOGU1Qk43bnhJd1pOc2RwWE9ab1YyOFdRZ1lwMjlBeEFjMkYyRkZYY0xrWE5qWHAwOHhuSmo5cnJxa3h4SzFlRy1VRkFlekppLU1TTjhqT1JFdw?oc=5",
-        "headline": "[亞증시-종합] 젠슨 황 복귀에 日·臺↑…中 혼조·홍콩↓",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/24 17:15",
-        "published_ts": 1795508136.0,
-        "tag": "JGB",
-        "first_seen": 1795510843.114891
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 05:02:28",
+  "updated_at": "2026-11-25 05:15:57",
   "yields": [
     {
       "label": "3년",
