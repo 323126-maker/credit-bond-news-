@@ -12,6 +12,16 @@
         "first_seen": 1795531526.826799
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE13Y2RCT04wWGUyUnBTT2ZrQ1ZEQ25nZDZIZ3BZaHlQOGVTQmRUVm5mX3NVb2ZZYUFtdENkSTFBY2cySFZSMDNraVp3?oc=5",
+        "headline": "무디스, 젠슨황 없는 엔비디아 신용등급 전망 '긍정적→안정적' 하향 > 시애틀 뉴스/핫이슈",
+        "summary": "",
+        "source": "SeattleN",
+        "published": "11/24 21:30",
+        "published_ts": 1795523423.0,
+        "tag": null,
+        "first_seen": 1795537838.37798
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTEFJNm5hbFpwcC11SDBEUUFJSy0tdkc2QWljLW84eGljbzMwbG5EZ0QzMzdVM3lKaTZVX2lpQVZQbG95Z0hkckFraHhUMlk?oc=5",
         "headline": "'젠슨 황 주가'...코스피 6.3% 급반등 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795476827.0,
         "tag": null,
         "first_seen": 1795484725.5462382
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBBNEU1Ny1YWUFTUjIzZ1NuVllnckZ1dF9hZ3QtMXJqN3gyUGg2ZWFNZW41N3ZDdHlBYVFZaXRZQk4tVUZneXRFMjU2RkZFQ1pkUmhFU20zTzJwRTNUS2ZMaWI3bkxlSVVPTFVmNNIBcEFVX3lxTE9GVjg4TUg3MG11ZVBmXzBZb05nVEoyTGtLOG9DUW5zaS05bUJmMWxTYm1SQmN1c0lydnJNYUNOYnZHNURxa1ROYW5pWFFGWXJqS2JBcUFSVzc2d2lEZUljTWllMHYwOGtwTi1OeHd2bkg?oc=5",
-        "headline": "[크레딧뷰어] LG화학, 신용등급 하향 딛고 미래소재 승부",
-        "summary": "",
-        "source": "한국금융경제신문",
-        "published": "11/24 07:51",
-        "published_ts": 1795474270.0,
-        "tag": null,
-        "first_seen": 1795520726.052451
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5",
+        "headline": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
+        "summary": "",
+        "source": "24/7 Wall St.",
+        "published": "11/25 01:22",
+        "published_ts": 1795537320.0,
+        "tag": "Strategist",
+        "first_seen": 1795537838.37798
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcDh5TEJxM3hablo3M0xIeS1PZloxcGlNQ3pMXzBSdVcwTDJvaWRxMjlnNXlxc24zMHh1Slh0VlFmdWp5MlNpUTZRR29sTExrcEJBbXp1MGlBa3FZaDBGek9qYVFFMXc0R2RqOXVYZGZycEhmblBVd19nMDFNeTBudUVJTHRwQzhGN0tBd0hGUE9IN1dOeVJQMlhPVV9vcDhUQTdWLU54SmVRZzBVaDAtLUVhaw?oc=5",
+        "headline": "Japanese Yen attracts safe-haven flows as US tariff concerns resurface",
+        "summary": "",
+        "source": "FXStreet",
+        "published": "11/25 01:15",
+        "published_ts": 1795536921.0,
+        "tag": "JGB",
+        "first_seen": 1795537838.37798
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb2NxOUJueUJ5Tks3SHJQQ0pSQjdvSEc0TE95SHRhT2Rlb0JOZ3FmU2JBbkEyMXVESkY5V2loOFlXaGRHYmdYS1NJRk5xNWM5UWxlaUlsaGZrUjRseW9CTnBzVHpwVXRTRHJ1OFc0RzRIRTZNS2lvbXhlNzZFNHkwMEpEb0lFRHFnSTlKZnllb3ZhS1BJUlp3aTAza3ZqeVEtZHhaYng5aDE2OS1IdnF3ZEQzUlB5OHlVSWc?oc=5",
         "headline": "Bessent Warns the Fed Could Be Making a \"Policy Mistake\" if It Over-Tightens",
         "summary": "",
@@ -1618,6 +1638,16 @@
         "published_ts": 1795536420.0,
         "tag": "Fed",
         "first_seen": 1795536936.4127846
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZE9STENzUWZSbmgwWVdTNVZqWG52SDJNX2g3LW91OWhJZUFzREc5bVFBdy1mbU5renAzWG1HYXlsUmpNTDBfNF9MZzJXUXQtZTR1N3M4a0puYV9Qb0Fla2NQVTNLcXVUUjBFRFRpemNfRlp4MFVlckt6XzFWVnpHalNoYmVUOU0?oc=5",
+        "headline": "Risk Appetite Collapses: Wall Street's 2027 Outlook — The Bull Market Needs a Different Playbook",
+        "summary": "",
+        "source": "The Dark Side Of The Boom",
+        "published": "11/25 00:31",
+        "published_ts": 1795534283.0,
+        "tag": "Global",
+        "first_seen": 1795537838.37798
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BLUV2RWh0MzlseGcyeGdXV0MzalZUdEVjMUEtVlh5eHdqckMydng5ZV9ScVExQjRKNklTbmgwX1AwTFBQYW1BRWdsVEJXaDVfY2J2VlpkdTBoZnBhZ0dkNNIBeEFVX3lxTE9ZUlBCY1lBam1KTXAwYkR0VzdOcTc5cDVWRE94bnk2OGxxY1BWZW1vNG9qdHhVX281cmtEbnVyaWpEb0dCWngzM3l4R3RqSTJYNHQzZ2dwVXIwZlZrUEJrcXZpeGhqQ0NVeDRwNzFiUlBsV0wwZTJDMQ?oc=5",
@@ -1970,44 +2000,14 @@
         "first_seen": 1795508127.2007217
       },
       {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NRWI2Y3hGcl9mYU5tSmZ1TEpjR3FUazd5SHUwaFdGZWswYWdzeGR6VV9hZms0RzZIYXFCbzB4STVNNXFXYzJ1MnN2RTJaS0hNOFoyVjB0bHZlVjlrVGRfYVF6VUFoc3g2WnNFSDlJSlZiRkQtQ3c?oc=5",
-        "headline": "KOSPI Down 48% From Peak: Bank of Korea Weighs Rate Hike as Stocks Crater",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB3UHdOOHU1RUhrbmE5NjZXYkk5ZzhGZE5jWUQ1Y3hqVmZkTlN3dFlyeDYzVHhGdThaTGxOTnp0Q1BpSUo0VE1GdTh5VmRlRFRMbWNnclRUVQ?oc=5",
+        "headline": "“From a Junk Bond Sell-Off to France’s Fiscal Troubles”: Turmoil Deepens in European Bond Markets, Raising Fears of Another Eurozone Debt Crisis",
         "summary": "",
-        "source": "finance.biggo.com",
-        "published": "11/24 16:05",
-        "published_ts": 1795503900.0,
+        "source": "https://economy.ac/",
+        "published": "11/24 16:20",
+        "published_ts": 1795504811.0,
         "tag": "Global",
-        "first_seen": 1795504532.3046794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNWlRoNVNhSlA1MnA2cTVrblhmMFZqWnVHU0JDQmFnRGF5NmtFODdVUVhDODRDc2V3YmozS2hzZ0JORFoyWFhoNU5fc0tILXViclZWaUdRMXZEd2w5OWRvYVVUd2FVZUNxdG9mVjBzNG9zQmNXamdtbW1iYnBnMl9wdVp4elpxaG40ZTlTWjlVWHlZaXJ1Zmk1UDNETHNzdXhtRGNjTkVVSHJZdEJrZHZyTENlRE56aG5PZmpablBRdkhXbzlsc0xObEl5TVpvR1VjMkFDZDBRNHYyQjA1eEZwNEhuSk9paDJRNUpCQm1zSHByUDA?oc=5",
-        "headline": "CIO Dr. Alyce Su: Follow the $1.6 Trillion AI Capital Trail to Identify the Next Generation of AI Beneficiaries",
-        "summary": "",
-        "source": "24-7 Press Release Newswire",
-        "published": "11/24 16:03",
-        "published_ts": 1795503799.0,
-        "tag": "Global",
-        "first_seen": 1795526128.3809993
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE8yZlBsOEllM3ZhOUVpcmV6d0FMdjdTOFY2RU8xNmJXbU40WkptWVZyMzRiWlRqX3U1WkkyTEZBNnU4bFoxcmk1anhyZmxkam01QmpGYjNpQkJZUlZ6S0loNFEzZDNoWU5HTlVuag?oc=5",
-        "headline": "Staple food prices surge as conflicts spread",
-        "summary": "",
-        "source": "GIS Reports",
-        "published": "11/24 16:00",
-        "published_ts": 1795503600.0,
-        "tag": "Global",
-        "first_seen": 1795504532.3046794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5md3JDSjBVSDJWRUUtOW5BQVkxbzFmM1NGRzBmaVZrZ1BmalNyZjdlejVvQWhsTEpXNHZuWmh6MmdSN0pka1NnTlNfcktUSmU2cGgxWXhSbi1hVG1HaFBzSEt6RzdXOGEzQ2FBVVVtZ3Rzdw?oc=5",
-        "headline": "[도쿄증시-마감] 닛케이, 젠슨황 복귀 영향에 4% 가까이 급등",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/24 15:42",
-        "published_ts": 1795502563.0,
-        "tag": "JGB",
-        "first_seen": 1795503640.47926
+        "first_seen": 1795537838.37798
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 01:15:57",
+  "updated_at": "2026-11-25 01:31:02",
   "yields": [
     {
       "label": "3년",
