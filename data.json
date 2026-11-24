@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zei12aWV5NVBXWXVUX3pkYjdDWEttaDRWbnB5dDJYdGZFN1h0OHUwV1RKWEpUdjIzWngwTkxJYVljNVZJcVcyaFROZ1JNSEl2a3U4Rk1rZkZhUEHSAWBBVV95cUxQWmhZdTBjZ3JRRDBhbXZ4d1lGR0FacXVsMXFRY1VPR0lCMGhmYWRMMm5fRi1PR1dZWEcxbl9mMDY3cHRqTEhOVTI3NGEwZVk4RWR0clBBenI3MTVxVXZ3VS0?oc=5",
+        "headline": "채권시장 참여자 54% \"11월 금통위서 기준금리 인상 예상\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/24 11:39",
+        "published_ts": 1795487990.0,
+        "tag": null,
+        "first_seen": 1795489242.895381
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tOFVSUHlFLUpRcF9seEJ3UGhlakRHMmN4RWxOWE5tTmFEaFFqbUpnMXZkajVyamhOV05zUWhjaTh5NGlpa0FYOGRxVWZQWk1ucFhpdVUzOWV3U05kVGdr?oc=5",
         "headline": "채권전문가 54% \"한은, 11월 금리 인상\"…동결론 뒤집혔다",
         "summary": "",
@@ -1194,19 +1204,29 @@
         "published_ts": 1795223017.0,
         "tag": null,
         "first_seen": 1795227335.5581257
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YVmxmakRDNGxHVmYzY21rVEJtaFRaREc5bnZHT3NPQ0dndHExUzlmME5ZX0lQQ2g1ZmV0UDY1V3Y0NHY2VHY5NVVSSHp2SkVXT0JacHRVN29TMkNiY1NBcG9XODMzbHNWZWJCb3BTZUt0TU1Ray0teGJqRl91QQ?oc=5",
-        "headline": "11월 23~27일 한국·미국 증시 주요 일정｜미국 PCE·한국 금통위·델 AI 서버 실적까지",
-        "summary": "",
-        "source": "네이버 프리미엄콘텐츠",
-        "published": "11/21 09:40",
-        "published_ts": 1795221600.0,
-        "tag": null,
-        "first_seen": 1795255238.6517131
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5QZ3l2VW1TSnBuVzVnRUI5WW9MTC00NG1yR2VKTVdHYVIyQ2RFVGVPakI1TENHU1ByRnlDbDFPVEFILW5nMUhoM29CTmcyOVBFM002Q3RyMHBQcVZMaEg2SXlFWUpkYmZmNWU1S0VDS1FQQQ?oc=5",
+        "headline": "'경제성장전략' 다시 '경제정책방향'으로 바뀐다…민생·양극화 대응 방점",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/24 11:52",
+        "published_ts": 1795488770.0,
+        "tag": null,
+        "first_seen": 1795489242.895381
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHN1d0dmVlaHlFeW1sdnVWMEJ5M0xLZUZjbnVCM0tRaGlFM0lqNkpCWVh4clF1dXVmamF6V3hyTU1NeXhxc25haGduNGhVM185UlBSWS1nMS1vQ03SAWBBVV95cUxQZEY1ZnNSY0pabUN5dDROXzNSYmxKV29zVUh6Wng4b25hV19zWjNsdmhMWmR2SUVLeDNNODl6UlIyUzFJUkpxZXFyV2psVHFlbndTZERNSVRvNlZkSmZBa28?oc=5",
+        "headline": "정부 \"내년 국민 삶의 질 지표 개발…예산·정책과 적극 연계\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/24 11:40",
+        "published_ts": 1795488023.0,
+        "tag": null,
+        "first_seen": 1795489242.895381
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1aWGpZWHZ6TktaOHFOQUhPUGdYSkNXdl9CWFptLXpWYWoyZTV3b1dvZ0MyTThiVnpyRmdSa1NTblVaVm1aSVBwd1dLcjRiQlFYR195UGk2WFN0TUpkQ0NkVkJoSFJCdUVmaWx1akxxdFc2Zw?oc=5",
         "headline": "李대통령 \"국고채 담합 과징금 적다\"…1.6조 폭탄 맞은 금융권 '소송 딜레마'",
@@ -2363,7 +2383,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 11:45:48",
+  "updated_at": "2026-11-24 12:01:06",
   "yields": [
     {
       "label": "3년",
