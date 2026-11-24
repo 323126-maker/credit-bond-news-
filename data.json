@@ -12,6 +12,16 @@
         "first_seen": 1795540524.9081013
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbnZZbVhBaTRhYnRNa0hyX1ZIejdqQm1XMXJvU18wajVZcVYtbXI3YzFhZU9VMWd1S1otN3NsTi01UjFycU1LX3RLZllKeE1LVHJvYjdoaEEtWUdKQ1Q4SG9MTkJQbVNueUg3cWh2OWU4UUpEcHZUWlE3bzVZUGE4UU1FQlN0QllUMC1SSk1VWEFvMGJIVFR2TTFZZXlnR3FQeThhSnBBNGVRQmZQamZ4bmVsRU4xVkt5TU1NM1N2a0tQNkU?oc=5",
+        "headline": "피치, 세계 국채 신용등급 전망 중립 유지…성장이 부채 비용 상승 상쇄 - 뉴스 및 통계",
+        "summary": "",
+        "source": "IndexBox",
+        "published": "11/25 00:40",
+        "published_ts": 1795534844.0,
+        "tag": null,
+        "first_seen": 1795541435.7800138
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oTnBvb3dVT0lCd1BaSUFIbjQyaGxUZ0NUOHcxMjNadVJiSzhJMk1pdVZIM29oMGN6bXZVUTE3eTloX2RGSGhlZm5EZ3lURGNFejlvaFpOWS1ZN1VNTldPaHRIdkRyVG1qX0pWMzFPZ3U?oc=5",
         "headline": "달러-원, 뉴욕장서 1,340원 초반대 거래",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795479120.0,
         "tag": null,
         "first_seen": 1795479325.6723065
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9EU2hRR0EyVF9VYU9wMXJyWnVTRmZjQmwtcTZBT2FnNWlxbm9kZ0xMR0pYTW5tYVlfVmUxTVVDcmlWaFpYR0JTcjY2eVJ3dTAtYnhJTndubW1NRy1TV3I1RklaTW04NlU?oc=5",
-        "headline": "[개장 전 주요공시] 삼부토건, 330억으로 빚 갚고 회생 졸업 신청 외",
-        "summary": "",
-        "source": "자본시장뉴스",
-        "published": "11/24 09:05",
-        "published_ts": 1795478718.0,
-        "tag": null,
-        "first_seen": 1795479064.5704374
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ1dXYzN6Szhsb29qdERBcEpsVXNXMzdFUHFlMDk2R1BqYmNlbVhyMXFSRUFpdlRCNmo0bVNhVUJMMEltakdPN1N0dUdCX01BOWdXRV9XeXhWaGpCdnFZWEhzZzFwMDhWWllMU0t0SGhMNkkyc0t3VmZHbjhKZVhtdVhPUEttaGJtTFVKSTFBdDF4clVIVEVTM01OOUV0MTR6b1NiZkR4cUlVeTJJWEFkV1pmTEFjeW5Bd1E?oc=5",
+        "headline": "What The Bond Market Is Saying About The Stock Market Correction",
+        "summary": "",
+        "source": "Forbes",
+        "published": "11/25 02:10",
+        "published_ts": 1795540204.0,
+        "tag": "Global",
+        "first_seen": 1795541435.7800138
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5",
         "headline": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
         "summary": "",
@@ -1738,6 +1748,16 @@
         "published_ts": 1795522841.0,
         "tag": "JGB",
         "first_seen": 1795525244.0470562
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRDlsc2oteHlHNU5ZcHZLdFlCeWZpREFteFJKSzJPODR1S2tMajRaX3RkZWd5NkRtRU9rS2ZReDZRdGtQVHVwa0dVcnAzQTR4YWF5WFctbTNRS3JOaUFaQnhObDdnSy1tTERwaFh1OUR5RU5ha21sSU1BV0hIdGhJUWp6WDNMZXRoWTlQaVJKMkVrQQ?oc=5",
+        "headline": "Rate Reset Stings: Japan's Top Life Insurers Log ¥1.2T Bond-sale Losses as They Rotate into Higher Yields",
+        "summary": "",
+        "source": "Briefs Finance",
+        "published": "11/24 21:00",
+        "published_ts": 1795521600.0,
+        "tag": "JGB",
+        "first_seen": 1795541435.7800138
       },
       {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBnTl9xU0s1T2xaRTBwSXp2cTEzbUF2N243MHZTSnlBeFN5eXI0aFh6TDRKY3g5TFpIRThxRFlYWnV0c19qN25iNHpOU2lEc1BGNUQ0cGt5N1Q0Z1RHdUl2Y3NITEdQN25sVmZNRF9n?oc=5",
@@ -1986,26 +2006,6 @@
         "source": "KB Think",
         "published": "11/24 16:57",
         "published_ts": 1795507038.0,
-        "tag": "JGB",
-        "first_seen": 1795507239.708331
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtUW9uTTllZjZiQ29ZaWZzaVppTlpNb2d3NWhCbzZ4SlJoUWIzOWVfcVhNUjRsa1pvYWRudmtTWHVOMF9paFlSWHk4emtJOFN3a1BWTlhpNWk?oc=5",
-        "headline": "AI Reshapes Financial Markets... Data Center PF Shrinks as Semiconductor Financing Reaches 490 Trillion Won [fn Market Watch]",
-        "summary": "",
-        "source": "파이낸셜뉴스",
-        "published": "11/24 16:55",
-        "published_ts": 1795506957.0,
-        "tag": "Global",
-        "first_seen": 1795510843.114891
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9YcEFYU21oV1pfU2V6MUFqdzJtVHNCZGtwN2gwRHNnS05PUEdmWjB4VnNwU0czQjIwWFNQTzB0RjM5VHhsVXh4TXdob0paRWEwcDRQZg?oc=5",
-        "headline": "[더밸류 브리핑] 오늘의 금투협 소식...12월 채권심리 악화·일본자산운용협회 협력",
-        "summary": "",
-        "source": "더밸류뉴스",
-        "published": "11/24 16:54",
-        "published_ts": 1795506859.0,
         "tag": "JGB",
         "first_seen": 1795507239.708331
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 02:15:49",
+  "updated_at": "2026-11-25 02:31:00",
   "yields": [
     {
       "label": "3년",
