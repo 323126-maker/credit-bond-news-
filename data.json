@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oTnBvb3dVT0lCd1BaSUFIbjQyaGxUZ0NUOHcxMjNadVJiSzhJMk1pdVZIM29oMGN6bXZVUTE3eTloX2RGSGhlZm5EZ3lURGNFejlvaFpOWS1ZN1VNTldPaHRIdkRyVG1qX0pWMzFPZ3U?oc=5",
+        "headline": "달러-원, 뉴욕장서 1,340원 초반대 거래",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/24 23:36",
+        "published_ts": 1795531014.0,
+        "tag": null,
+        "first_seen": 1795531526.826799
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTEFJNm5hbFpwcC11SDBEUUFJSy0tdkc2QWljLW84eGljbzMwbG5EZ0QzMzdVM3lKaTZVX2lpQVZQbG95Z0hkckFraHhUMlk?oc=5",
         "headline": "'젠슨 황 주가'...코스피 6.3% 급반등 마감",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795474270.0,
         "tag": null,
         "first_seen": 1795520726.052451
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1VLXRCZC1TSENQaUY2ZUE0WXF4Uzh2Sy1tUnd4SkpwMHpJTnhCNHI0MVFZT09vMmpKNG9xZnBoQjhmNUNocndIdkg4c3NGSFZRQXEwZlVYZ0FLdk9sTkJfZ0w5aERfNksybEdRTEZR?oc=5",
-        "headline": "AI 경쟁에 돈 쏟아붓는 앤트로픽(ANT.O)…채권시장에선 '재무 위험' 부각",
-        "summary": "",
-        "source": "알파경제",
-        "published": "11/24 07:44",
-        "published_ts": 1795473842.0,
-        "tag": null,
-        "first_seen": 1795475727.3849528
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 23:30:58",
+  "updated_at": "2026-11-24 23:45:51",
   "yields": [
     {
       "label": "3년",
