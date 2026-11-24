@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBCeXdIcmVIREFSRTJmMmdDcW5LLXRDUlpaeTVUS0J1NU1YRmlla3BMU0xmYlFfMG9MbDJNLS1OZUJpZ1lUM3B1YTlqcy1sUWNEbkFDSmlMQkJmejNTMUlOVE9BN0JaREJwUVl4a0pqQ0o2QQ?oc=5",
+        "headline": "[채권마감] 10년-3년 장단기금리차 1년8개월만 최저",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/24 17:24",
+        "published_ts": 1795508640.0,
+        "tag": null,
+        "first_seen": 1795509033.7335458
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9WSTNKWnkwdUJOVmJwQ0VFNEc2RkREa2Vnd0V3SnlZYUhOZ1FHMGxCX0xMR2xSQXZHeDhlZ1ZHY2pQNVRaNFBSeFY5c1BOcXFPdWpKcEc0eV91NHRFRmtUQXFrb3BBMUd4QldGb3lIWndfUQ?oc=5",
+        "headline": "국고채 금리 혼조 마감…외국인 선물 매수에 장기물 하락",
+        "summary": "",
+        "source": "스페셜타임스",
+        "published": "11/24 17:12",
+        "published_ts": 1795507968.0,
+        "tag": null,
+        "first_seen": 1795509033.7335458
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQdnVkQ2ctWl9wLVIwTWxGTi1CSGxVbkU3XzRWSno2QnAzSFB2Rm91bFYycEFudFlvQ2dQcHNsNFVtODFzVmhGY2ZzaEt4MHJiUGtDUlhERkh3bkU?oc=5",
         "headline": "국고채 금리 혼조세…코스피 상승 속 외인 선물 매수(종합)",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795428006.0,
         "tag": null,
         "first_seen": 1795499135.0136986
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBiczJGcG9pelpZYTNaQ0FweEI2a0NxbFpJd1M4V0s5d056MGlPRGs4QnQ2TFJyWXh2eDdOeWRqdnQ5bGFqTkFSU3RSSUZHcXhtdnY4dWs5OExxQ3BnWGd6OVY5WmJ1dlh1Z0E?oc=5",
-        "headline": "3년 만기 국고채 금리 일제히 하락…연 3.623%로 마감",
-        "summary": "",
-        "source": "SBS 뉴스",
-        "published": "11/23 18:42",
-        "published_ts": 1795426979.0,
-        "tag": null,
-        "first_seen": 1795498237.5119882
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ZEpoUkY1YmpVMVBMR2NJYzFRWmdjOFZCUFd0Q3p6SkxBVE9ZaDQ5S29CSzlWQ3V5cGlXeEIwTEZ4bC1ubHNDQTYwcS1oZlA2TnfSAVNBVV95cUxQQ0tzNVVBWnl5Nzlfd1d3LVozakV2QkNwc3EzZFVmdW9aYWtIamxScGVydEtmblhHVUhCTk04cmQ0MzJUOGtHT2VCdkR1VUZ0YmFGWQ?oc=5",
-        "headline": "IPO 성공한 앤트로픽…회사채 시장은 ‘정크본드’ 전망",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/23 18:20",
-        "published_ts": 1795425655.0,
-        "tag": null,
-        "first_seen": 1795438845.5859318
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONVNEcklBQ0ctUm5Sc29BM3dkUExwdWk3dlhYY1BRd1ptczhtbEdub0MtZXoxNmU3WGU2STYzQ1RGYzNxX1Y3eDZrTjZkakZ1czFCTGFZamwyd21sbEVkYVA0bGpVQVNpY3d3YTJWVTNBb1JCZ2oyZHl2NUlZU2d1dXdkbw?oc=5",
+        "headline": "Schroders shares latest multi-asset investment views",
+        "summary": "",
+        "source": "IFA Magazine",
+        "published": "11/24 17:15",
+        "published_ts": 1795508100.0,
+        "tag": "Global",
+        "first_seen": 1795509033.7335458
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9xRTBwN1psakh2TEJBQnV1WXdBZW03UkdRa0x1Zml6SmZUbUh5QnBzUGc4eUlSS2drcVQycU5xWjJKX0RORkcyclZwTFhmWW1BTVBKOEtva29GWUNpemJ0LVczMUtrbzhWMFhWQw?oc=5",
         "headline": "[11월 4주차] 금리(IR) 전망",
         "summary": "",
@@ -1698,6 +1708,16 @@
         "published_ts": 1795496112.0,
         "tag": "JGB",
         "first_seen": 1795496447.9115849
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZHlvYnhRbW9lUElIUUR4bnJSWUVBaEJhcl8yZHVmWHYtNlBjcHlBQk5uTTNNenloU1YwMVFzSUZqaWl3anZnR2R2RlR6MlQ4YTNqb0Y0TUdsUGgtUjdvenRkYS1fTVJIcVZhRE04UkRYSWZhUnlEcDV4TnNHMFRHU1pSQXFqN0Vybk1nQVRqVDdYeTg1MEY1RGR4MGZSMHN5STRQVnduS1NlVlA5RV9Xekw2Yjc?oc=5",
+        "headline": "Treasuries Advance as Cheaper Oil Alleviates Inflation Concerns",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/24 13:42",
+        "published_ts": 1795495320.0,
+        "tag": "Fed",
+        "first_seen": 1795509033.7335458
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nZ2xYRHB0dmdFTjhEc0NHNUdON0pwczhVX2hJdjdTMzYwdFhTSkJwRTlHamdKN3hmdDVhSXJEY3VkZ28wVk5XVDN5a1FoSmdEekNyeE03LW4wZw?oc=5",
@@ -1988,29 +2008,19 @@
         "published_ts": 1795464973.0,
         "tag": "JGB",
         "first_seen": 1795465833.2673662
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9WaHpaaUlLTFVZZS1mMHVLYnpsbUpRYlJKYVFrUWNoYm1lYlc3c01aalNwN3BWNjFXMHpyME5ZUlB1UXFHQ2U4MUgxX0dqaTRWZHpBRA?oc=5",
-        "headline": "모기지 금리 7%에 거래 16년래 최저 … 美 집값이 경제에 보내는 신호는?",
-        "summary": "",
-        "source": "매일경제",
-        "published": "11/24 05:00",
-        "published_ts": 1795464000.0,
-        "tag": "JGB",
-        "first_seen": 1795470325.3567922
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcTNBWkU4bUcyVXBJREpxeTctZXpZNUthRUtjWXc5bTA1S0ZSOE1HQzh1YkctUUNSTTZJQWNzVHllMjBkLWY3WmFNSlZJVjBxM0lzMUNkekEwaVhHZGJxbUU0VWdoYU5DaDJZSGNIdTFJd1VkaFRoZzRjS0dnVDVWVGVZWThCb2ZicklkRFdxS1M1cVZUbnUzUmlBMWV2cUN2dkdBMF9KSXdvcDFyRGtPS0Rudkg?oc=5",
-        "headline": "Brazil’s Real Hits 19-Month Low as Post-Election Selloff Deepens",
-        "summary": "",
-        "source": "Bloomberg.com",
-        "published": "11/24 04:26",
-        "published_ts": 1795462006.0,
-        "tag": "Global",
-        "first_seen": 1795469435.4757018
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBnU2dNZHNSMWFnMG1UcTJGdzU0ZmwyenRFNngyeWl0Z3poVDBicHdUZ0lYNWswMENFck9NbTE5QlduRlBVcFBUSmVTeFhSMGgwYjA2czNhek4yZF9XNkJzbnJkelBsWVJMYVY1WnZfSVdkVS1qU3l6SjBUbzE?oc=5",
+        "headline": "[프로필] 정항기 코오롱글로벌 대표, 금융·건설 재무 전문가",
+        "summary": "",
+        "source": "한국금융신문",
+        "published": "11/24 17:20",
+        "published_ts": 1795508400.0,
+        "tag": "현대카드",
+        "first_seen": 1795509033.7335458
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5aVG1CUHE1bFdJWmxJSVFmamx6TXJZUnVEbHBSTElrSWhMX1UwbDhNNUJaWUI1ZE5XMVQ2QWpqWTk5cmwtVnIyZ202ZUNVMl8wSWtXTkdmbDdVWFpBeFI2YW9sOGJtMWlwcmc?oc=5",
         "headline": "실적 회복 이끈 이선훈 신한투자증권 대표···연임 관건은 '신뢰 회복'",
@@ -2400,20 +2410,10 @@
         "published_ts": 1795212006.0,
         "tag": "현대카드",
         "first_seen": 1795212927.6589139
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9sQjhEM2N3a21tSEp5LXNpdFVScE5mMmZSSHlPQk00anNXdlZ2TUFrM1AyNS1PbzVzTVEzbURpV0tmYTh5THlPWWZQaVVTU092cE9jckU5ZlBTdkdBRTc3TEEwdHBwRE1GV2dKY29YTFFlWW8?oc=5",
-        "headline": "카드론 마진 ‘압박’…카드학회 \"카드채 만기 분산·결제 수익원 확대해야\"",
-        "summary": "",
-        "source": "핀포인트뉴스",
-        "published": "11/20 15:58",
-        "published_ts": 1795157930.0,
-        "tag": "삼성카드",
-        "first_seen": 1795161641.1516612
       }
     ]
   },
-  "updated_at": "2026-11-24 17:15:47",
+  "updated_at": "2026-11-24 17:30:55",
   "yields": [
     {
       "label": "3년",
