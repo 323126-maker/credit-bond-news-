@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFAxMXgwT0s4ek1RTFJIR1ctZUJpLVZYTXBsaFNQQmh4X1dfSF9JVktmbmZqN29HU0h6dHVLdDN6cEdaQ05aeEczbGFuUGE1Rk1tMG9lbS1RVENLUUNZUjBkTVlkcDI0NXlpS250SGxBOFFydw?oc=5",
+        "headline": "[노현우의 채권분석] 외국인 델타가 무거워 보이는 날",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/24 08:03",
+        "published_ts": 1795475020.0,
+        "tag": null,
+        "first_seen": 1795478442.2593555
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1NdFhRanJpYVZueVpONUFvQTk5V0ZSdURCSHUzTjQzelNtWU4xdERldElqVDF5TGtyeHBOOV84RVJCS0FVVGtQLU5ZQ3BVUVdiNDF2bFVwcWU5SWp1N2JleUJ1dTZxTGlZaWpWdllVOXI?oc=5",
         "headline": "한은 11월 기준금리 3.25%로 인상 유력…전문가 14명 전원 ‘인상’ 전망",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795100400.0,
         "tag": null,
         "first_seen": 1795104048.892736
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WZ2lCbHVNZC1vUlVRTHFXQnNfUm9lQ1oxdUlEOXh2WnBod3VVdUN3WERRYkFFNVlKTzBYTVR2dlVjdlpwWnFtX3dROGE0UjVwZkxBNzVZMDNrTTJzZ1NxWUgyMnJDZWxKRHpCeVl3?oc=5",
-        "headline": "예금 줄고 시장조달 늘린 기업銀…‘양날의 검’ 될까",
-        "summary": "",
-        "source": "아시아투데이",
-        "published": "11/19 18:06",
-        "published_ts": 1795079186.0,
-        "tag": null,
-        "first_seen": 1795090527.9076514
       }
     ],
     "politics": [
@@ -2343,7 +2343,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 08:45:46",
+  "updated_at": "2026-11-24 09:01:06",
   "yields": [
     {
       "label": "3년",
