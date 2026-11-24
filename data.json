@@ -1580,6 +1580,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWxkbEJnQ3pvbllyNUt2OC1HQ1ZLUWxFa3Q1SGtaemRyYXlPbjYzYXI5R09FVXJ5S2IyYVZ0MTJuZk5qNjB3WGJDTmFfT2NKcHc0WHU0LWczUDVHTC1ab1AxaHJycFltTlU4V3dyZ2RnRVg4R2M0V2E1WmFvTHhRZFlhd0M5T3RjT1RCM0NCM3RTeWxncXN2XzhocmVzVXVrYlowYQ?oc=5",
+        "headline": "John Hancock 2045 Lifetime Blend Portfolio Q3 2026 Commentary (JHBEX)",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/24 12:25",
+        "published_ts": 1795490700.0,
+        "tag": "Global",
+        "first_seen": 1795491035.3132133
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNzNPVkcydjV2dGZWakRDckhfV3lNVGNseHhKOGQyeWF3WXJ3WFpDMUtjZ0k2ZEdxd0hqb0gtdTN4RkJYQ0cwU0ZwaHhfa2JJbEJXNDVrQk9qZGQzaXA5M2Z1VVQ0LWZiMng5SzcxRV9HdGx4dXVtX1lPOVVCc2ViVkFMVlcwT3I0T0xJRTh1ZlQ4Q3pOQk1NeUNlTTdiUWl2alpTcUV2RnhJUUE1dkE?oc=5",
+        "headline": "Japanese Bonds Rally Across Curve as Domestic Stocks Surge",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/24 12:07",
+        "published_ts": 1795489620.0,
+        "tag": "JGB",
+        "first_seen": 1795491035.3132133
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9raWUtSFdiaVdsS0ZDSTBCZnJROHNub0RRTWotYVpGTUlfRm40R0psYWhLSHlzME5IMThELThvdE9FX2RBU19xRnFOM0ZqWXhyZ0FOOTYybURoMmhPYmUwRGtQMldEY2M?oc=5",
         "headline": "‘젠슨 황 귀환’에 전 세계 증시 들썩…“AI 불확실성 해소” vs “신용위험 여전”",
         "summary": "",
@@ -1958,26 +1978,6 @@
         "published_ts": 1795444547.0,
         "tag": "JGB",
         "first_seen": 1795446046.174073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQY2hNZmRpa1ZLYmFOdEcyd09ySUJZeEdRbWtZNXVDa2NOMDlVZGdCS05qaVlHcGhKbEhZMlh0V3IyVHp5TExqSzY4dVNNZ0xHSl9ERUVPOXVuenI5THJzQm5yMEEzRVRyQTZEaXN4RVJFeklyVmgweFM0QS1sRExaWmpuVnNCZw?oc=5",
-        "headline": "Credit Finally Cracks — The Junk Bond Market Joins the Wall Street Liquidation",
-        "summary": "",
-        "source": "The Dark Side Of The Boom",
-        "published": "11/23 23:31",
-        "published_ts": 1795444312.0,
-        "tag": "Global",
-        "first_seen": 1795446046.174073
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHpkd2hUd3pNcXktSS0xcTc1OUhFbEtiRjFuM3poUF8yTkVxclp6SjVUX1ZqWXJ4VWVocjEwSmRmYlI0V3dQVUF1Y1pWTEJzNi1MR3g0SXdVOFFNZ01Lb0hEenR0SjJXX0czazVhTjhqdmJUbG9fQXByVERoZDZmdzgwUGcySEVYZGhvMzl2WWpwRjIyN1pjMTRR?oc=5",
-        "headline": "The Fourth Correction In Four Years Is A Buying Opportunity",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/23 23:30",
-        "published_ts": 1795444250.0,
-        "tag": "Global",
-        "first_seen": 1795445124.9318182
       }
     ],
     "watchlist": [
@@ -2383,7 +2383,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-24 12:15:50",
+  "updated_at": "2026-11-24 12:30:57",
   "yields": [
     {
       "label": "3년",
