@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9sSHBDdXluWktBcXdzWTRsX2FUNHR2SmJyQXZydXhsSEZFUTVkYkJBVzc4R013WTMwbTlidGF5MlYzdFF2MTh0ekdabElXem1keHl4Zm9BRDNnb1Nk?oc=5",
+        "headline": "[일본 특징주] 라쿠텐, 1500억엔 회사채 발행 철회에 CDS 급등",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/25 12:56",
+        "published_ts": 1795578960.0,
+        "tag": null,
+        "first_seen": 1795579249.1252306
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5iQkozbDRXTG5pNDgxSmV2LUJGbjltZi0zSU9LcW1SLWtHSXdOb2Z5U0U0eWphMnY0dHlYUXJRdC1FTUd0SEZHSm40OHJQMUJ3TURWQW80dUhTYW41S0xzOUozTU1oQjdjRHc?oc=5",
         "headline": "EU, 중국 하이브리드 수입 막자…BYD는 프랑스 공장 인수 나섰다",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1795105778.0,
         "tag": null,
         "first_seen": 1795106844.886533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBuSjlnWmloY3k2RzVocGVlQThXYXlTeVFjWnR3Vl9aeDJrdkl2M1h2dHI3SmZWYmpGZGJhcFBtYks2cS15SVdSVW9SLUJnQTdQVEsyX0lLQWotN3ZnOTFsaUtLeTBSODhwS2lYRlVTa0Zfa0cxNEJwbkREOXU?oc=5",
-        "headline": "[DCM] 국민은행, 총자본비율 '4대은행 최저'…3000억 영구채로 자본확충",
-        "summary": "",
-        "source": "한국금융신문",
-        "published": "11/19 17:32",
-        "published_ts": 1795077146.0,
-        "tag": null,
-        "first_seen": 1795077925.04266
       }
     ],
     "policy": [
@@ -1760,6 +1760,16 @@
         "first_seen": 1795563927.824269
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE51X3dxb0ZUVC1JQTQ2LW5kYU5maU1ScWxxQm1XWm9hMmFEYTE4SmVuLUJ0eDNheF9nS3ZNT3EwUm5UZHA0QnR1dGk4ZEl3Y0N4S2xaeDJ1QUJtOUczU09DNUU0dEFqeUt6Sng2Q09rOHVfZGJZQy14WUxHMUJTQQ?oc=5",
+        "headline": "오늘(11월 25일) 미국 달러 환율: 미국 달러는 상승 추세를 반전시키며 하락했습니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/25 08:35",
+        "published_ts": 1795563340.0,
+        "tag": "JGB",
+        "first_seen": 1795579249.1252306
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTnlvRkNKamxqb1V5WWl3bHB4MGo5MUxmdE9QMnNocktPc3ozNTVlTnhCUHk3elZkUG1CZDViQmxwcEJkNHl1X3hDRkxqbmZLRDVyNmhGQlhSckhGdFZmY2kySjBGbnJuUTYwTy1RQ3ltTDFBd29Ed2Y0OGtTc0Rjcw?oc=5",
         "headline": "日 금리 1993년 이후 최고 2% 가나…\"내년 중반까지 세 번 더\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795537500.0,
         "tag": "Global",
         "first_seen": 1795545035.4281952
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmVYUnNOZlhpNlA4OF9NWlNSbkFURmU5bm5kSjU4UDlHc1F2UXR5NXZKQTQ0Z1N5MGVISm52NnRNSWNvSUhvd1NmOUFrb0VoanJaOTdGcEpXZkxyYk9RLVc2U3ZpLTZWWHNPTFF6SXd6WUVQanNoZFZ3TzFUUWdYNXAwR0lxTXA2dUJQUFZ0VHZKTk5WRjBVSDJ6SGptT1I5dEVNSnJqeXE?oc=5",
-        "headline": "The Fed Just Said AI May Be a Major Threat to the U.S. Economy",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "11/25 01:22",
-        "published_ts": 1795537320.0,
-        "tag": "Strategist",
-        "first_seen": 1795537838.37798
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 12:45:52",
+  "updated_at": "2026-11-25 13:01:11",
   "yields": [
     {
       "label": "3년",
