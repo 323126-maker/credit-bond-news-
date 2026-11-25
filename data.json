@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXB0cWtCbnhtNWhRSmtXa0ZiV202VHp1UklGdWpNbWpUTGlxZmtkSy1HR2VDRUlVVEFJcE9fMTRaY1NJZFhLX2I2c1hOOUJmTWItS1lzX3AwYUpRQnp5WFEwRlotWDVRR3h2UTFVZzdRRWJFdWZSS0hoV2FCdmQ3bUtsUHlHYk5WRWR6bXBfSHlwT00zbGlIcVBYbzBielJnZnZRUk5VZEJCNERlVERsRWFXR25PR3luWHJhSURoaTVlbjVI?oc=5",
+        "headline": "Victory Tax Exempt Intermediate-Term Fund Q3 2026 Commentary",
+        "summary": "",
+        "source": "Seeking Alpha",
+        "published": "11/26 04:20",
+        "published_ts": 1795634400.0,
+        "tag": "Global",
+        "first_seen": 1795635937.7054913
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQME1DZHA3Z2xzbFRfdDg0WjNOZktfaTRSUHNwQ013U0NDNHYzY3VpNV95NDZHX2p3YVFNU0lpM19iQW12dTJiSkhaWmZEZUkwZHB0TU0xcWt0OXNvS1BTR2x4czRHaHc2QWJwd1REVzE4eEdDNTVQbWJHamNqMEw2aEdzY3Zuemk2WkMwX2hyUlJxSnFHX1Y2eEV1dVVRZDV5WTZycUhEdml1ZEJEUHlyV1FPNlY?oc=5",
+        "headline": "Stocks Meltdown Spills Into Unlikely Market, Sinking Carry Trade",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "11/26 03:29",
+        "published_ts": 1795631342.0,
+        "tag": "Global",
+        "first_seen": 1795635937.7054913
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVUstSnBNcHB3cDMzT0hCUGJUck85OFJ6WHFWamVlcGtNQXdTd1k2SnFJbnAtZ0R6dnRhd1Jaa0dTd1lLNVFWMWYzU0F5Z3k5Mi1oNzk1RjhmdzY1eXo3Nk1uWE5Rc1N1N3VJ?oc=5",
         "headline": "일본은행 12월 금리 인상 전망 우세…로이터 설문 86% \"1.50%로 올릴 것\", 우에다 \"계속 인상해야\"",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795602241.0,
         "tag": "Fed",
         "first_seen": 1795628727.9080684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNa28zb0c3OXVMQUwtV0Z2V3pKaU1BWUVmRmx0dWFGcTdUQmJQMnJaRE1lUHFKc1loLWVodzlaRExqNW9kRzl1dmo3cjVsdEIzandNNU9qWXBSRlFwT015enA3Mmw0dVNYU1VNSTV6VmtNV25ad0pRUzRqMWI3THhVaDRFdGpLTFE5bGxBS3FZLTRyVHJ2em1FUWNXT0t0UVhvaXd0bmRQRVNLRTIyQ1pnbFJlU1Jfem15eEFGdWhWUENTRVI2ZklUbTRZRVR3RlRTU1dvOQ?oc=5",
-        "headline": "AI credit risk mounts as CDS spreads for Oracle, CoreWeave hit record levels",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/25 19:04",
-        "published_ts": 1795601078.0,
-        "tag": "Global",
-        "first_seen": 1795602636.1048725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-        "headline": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "11/25 19:03",
-        "published_ts": 1795601015.0,
-        "tag": "Global",
-        "first_seen": 1795607128.8771641
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 04:30:59",
+  "updated_at": "2026-11-26 04:46:00",
   "yields": [
     {
       "label": "3년",
