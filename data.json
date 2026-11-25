@@ -72,6 +72,16 @@
         "first_seen": 1795573838.3252614
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1zNUlLczRVVFF1Vm5QV3JnZHBkNTFlQW00WXB1Rl9sVm5qX2JfdHFZUWlfMV9WSlVUdXlCTUxnUUpBejNhNkN3UGE0MG5teW5lMVNyb3pacWVfLTF6aGZkVFQ5TzFJMll50gFrQVVfeXFMT2YwWkFNUzMwWTBIUkVPVFBCR3RzbmdRcnhIaUpHYVZvOE5jSHpBSldjS3FUMWlyU1ZkcXp1TmpEcWNFVHctNFFfd2k5UXdaYklXd1FBT3N6R3ZrMHp2QXBqdWxXM09xVmc3YjA?oc=5",
+        "headline": "[크레딧캐치]한화오션, 상선 호조에 현금창출력 확대",
+        "summary": "",
+        "source": "현대경제신문",
+        "published": "11/25 11:00",
+        "published_ts": 1795572012.0,
+        "tag": null,
+        "first_seen": 1795587329.7805886
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5xQUJoZU4xVHBHQVFWZTV2WTB4MUtha08wOXJLYVh1U0hpYktrZUtzV0dXWE1pUW13elBoZGc0eWFRNGJ3cTl5aFd5U3RUekRPWnEwVlB0dEgzd3VxMWxmbTBwdHllWml6VUFn?oc=5",
         "headline": "HD현대오일뱅크 신용등급 전망 상향…3분기 영업익 3.7조",
         "summary": "",
@@ -120,6 +130,16 @@
         "published_ts": 1795568033.0,
         "tag": null,
         "first_seen": 1795569327.54387
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB2cWllMS1EMkVMSmlVOVVlb2xDdE5WMW16SUNlN0gtMFZFYXhHU1IyRERSemVkOFBVN0lnSEdkYjhwUjEzdTNjNVdzM2VQUFhiVUNGMkozbjhMMUZuckE?oc=5",
+        "headline": "코어위브 채권, 사상 최저치 추락…엔비디아發 반등분 모두 반납",
+        "summary": "",
+        "source": "더구루",
+        "published": "11/25 09:06",
+        "published_ts": 1795565180.0,
+        "tag": null,
+        "first_seen": 1795587329.7805886
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5CaWZPaDhFUFlDVjNLdkw5c2k1dmtZUUlmNGF1WWJrUU91N0dFa1M3b2RJa01lVDI5dl9SSXdPbjRhbkkxQkM2YWs1dWU2d3VMR1hHb0R0dGdVYlAtWmtwOFVMVVNEa093R2twX3VfX3M3QQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1795506075.0,
         "tag": null,
         "first_seen": 1795507239.708331
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLakZoRk9FVUdFcmZ6NDFFWjRIQmFRWHdBUE4yWnNhQldTOWFxWjR6TlJlRFN2ekViSXhQYlpzNGhhSlkxQVVwd0tXSlIzR0tzS0VmSDNzNXdQZV82UTNNY9IBeEFVX3lxTE85aXhiWi1jMi1MUEowTkRjZG1CTDV3N1RNRHRmakhiT3o0STV3c0JjTHVPb0ctNmx5REFKdWwxSmpPTXNQanRTdzlnMjhYWnhHZ19rZW5qajRsNzJLcW1CenZQbzlnLVlwS2l5WlUxVmV3NXR6dFByMQ?oc=5",
-        "headline": "한기평, 한화오션 신용등급 'A' 상향…\"수익성 개선 지속\"",
-        "summary": "",
-        "source": "뉴시스",
-        "published": "11/24 16:15",
-        "published_ts": 1795504551.0,
-        "tag": null,
-        "first_seen": 1795507239.708331
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kUzRsamJ5d3dmYUEzR1lWaUIxLU83RFFUcXdmUjJrcVF5cVVudjBrbmNDeWlIYU1Ld3I1M2tTWUJzWGswYjFZTzV1SFZZTjBieVlvNzRiaWZCVVlBQm1qem81TGJ5cmw4?oc=5",
-        "headline": "한화오션, 돈 버는 힘 달라졌다...한기평 신용등급 'A'로 상향",
-        "summary": "",
-        "source": "www.ebn.co.kr",
-        "published": "11/24 15:49",
-        "published_ts": 1795502966.0,
-        "tag": null,
-        "first_seen": 1795503640.47926
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 15:01:07",
+  "updated_at": "2026-11-25 15:15:53",
   "yields": [
     {
       "label": "3년",
