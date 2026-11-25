@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB1NWhZQldQYXBWRjc2dmh1V1ZURS1DSTE4WFNKZlNLd2VuVXJ3N1FEa3ZHY1RZYzRRcEhlYWNWSjVFUzBFZ2RWWVF4OTZ4SDlJNlNqNzNJTXIxVGVwRGRFa3IxcW0?oc=5",
+        "headline": "한은, 오늘 기준금리 3.25% 인상 유력…가계대출 금리 5% 시대에 커지는 이자 부담",
+        "summary": "",
+        "source": "지이코노미",
+        "published": "11/26 07:13",
+        "published_ts": 1795644822.0,
+        "tag": null,
+        "first_seen": 1795645845.4882228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBjSTVsTVNhSXBzQzhPYkxLZFlSUEEzYl9VRmFPcWZWRDJpYTNHZzZPNlVleDYwNkNxcmluM3JYcWhrdUVJNU1XdmlVT0JYWHpES3c?oc=5",
         "headline": "코스피 6% 폭락하자 채권시장으로?…금통위 전날 국고채 금리 일제히 하락",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795381800.0,
         "tag": null,
         "first_seen": 1795383034.7872787
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBWc2llQ0NQLWZTYjVtVU5OV1JrTjIwdThaNGFUOUd4a3NESG45ZkhpWktYT05TaDhSUHdDdEdqM0syUTFxY3hDMk1XQ085ZDRoZ3B4WA?oc=5",
-        "headline": "국고채 발행 10조 줄여도 장기금리 4% 안팎…정부 조달 부담↑",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "11/23 06:05",
-        "published_ts": 1795381500.0,
-        "tag": null,
-        "first_seen": 1795382127.2094018
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1IZVpQSC1vQ1dNbEpoeHF0MXdMaXZXMy1jNzg2cGZzNGZLdUMxMGtDSHlCdHA1YkdoM2d2MzF4VUVzRTV1RXlqNk1aNTRmM1VFeXM4Y1lnNW1pQXl2?oc=5",
+        "headline": "[채권/외환] 美 국채 수익률·달러 동반 하락…AI주 급락에 안전자산 선호",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/26 07:27",
+        "published_ts": 1795645620.0,
+        "tag": "JGB",
+        "first_seen": 1795645845.4882228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazJiUF9iTDU4Wk5jdGxyRkxsX3V4Rjl6ZlFmNGROR0VfMmZNNXJfSUJiUEw2WkFCa2JxRXpHdTJ1bUdQSGUzX3FiOGRxdTFvTGFJZ19RbzBncTZuSXZVRWtiZFRLYTAxRGQydWpSMFdyeERZRWt1WUtiUTRsZHlxLTc3SHZBYnBuSThYUXNRMGM3MTJOTHM1WFRjRF83YnMwZHBkUkJlMHZMUQ?oc=5",
         "headline": "China’s low interest rate comes with high stakes",
         "summary": "",
@@ -1708,6 +1718,16 @@
         "published_ts": 1795626288.0,
         "tag": "Strategist",
         "first_seen": 1795644038.5451396
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFdBa09BUFRidnFKcTFWQkJCb1R2Smh3ZjJ0NkdvMFE1WkdEUklRdzUyZmhFWHgyUHRIS3prWmJQRFlYNGpLSHJ6OThoZVEyWmVDV0NxRTZHblh2cXc4Q0l4MkZXRm83amRNc1l3Qk95UHZJeFpfUENWNTdlLW9sakhBV013cGJicjYxU0pkMlQ4M0tWcTh3dVg5dVJhMzlF?oc=5",
+        "headline": "World stocks tumble as Trump tariffs rattle markets, AI rally fades",
+        "summary": "",
+        "source": "Yahoo Finance",
+        "published": "11/26 01:52",
+        "published_ts": 1795625533.0,
+        "tag": "Global",
+        "first_seen": 1795645845.4882228
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORGVYTmpUeWhmYUNmYzBaWjlES0t0b3N0dTFoNEsxVlk5TklPNXVYZ1BaU05HSnJxTDdOOHNPOU1DWVpnY3oxbUtxLXBISjlOYWs4V1VWZnNub3lkaEkybWo0czRNdzFJc2pGT2NERDFUSkJ1a3lOY2JJM2pEaUZ3VnpJaHNqeE95SkRDYUg5RmVwRDlyTlBnNzZXQXhnd24yYnl6ajlMWGIxNHp6bHhZbmk2dw?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795605726.0,
         "tag": "Global",
         "first_seen": 1795613435.183863
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVmRBQkxZSXpYOVpBMDFXWVQxSllKRXNYY2JfMUR4YVdLQTJKTlU3ZGMyXzFTdDBTMWlIelFPNFREck9tREhGczRxaWliTTB3UzRtX2Z0M1p2MEZmdnNla1ZrbS1OY1F5T2hmaFNTbURjOVFFVWpOWFJWY0w1V3pHd042bHNEbWpZYUpXX0UyQ2lnWFZTeVBmOFN4OFc5WlYzN25STU5pXzEtUmgyeHc?oc=5",
-        "headline": "Luna IM CIO: The absolute return fund we cut in bond selloff",
-        "summary": "",
-        "source": "Citywire",
-        "published": "11/25 20:13",
-        "published_ts": 1795605211.0,
-        "tag": "Global",
-        "first_seen": 1795605327.848459
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNbVQycm92ckdFbFJwM2oyS3ZiT19BM0VzWVdlek9ZTWtMTFN6M2ZQcUlYM1lJLWFwT195MFFhVjhpVFhaSFVMcElLeVQzMGJEWER0LVVxdXpkdk1DdjBtQ0Fod0dLYWpjUWtOMDZyZlpManVUNnl5Y2t3eVptVnhVTGVrZ09PVm9VLUg2akdjUW5FY1ZZLUdlTVZJRTV3cVZJVkFNQmVMcC1OOUFObWhwVlRKMVlwZm1tRkF4QzV2czUxdFZoek8taUs4SS1GMmxtSk9oZXoyb0xNaExtZ2ljWDRNVXBSNTc2Q1hyLUN6NGZ2ZWpFa1Q3N05vZDgxbGVzSExvQ2E2ZW82Y1RRQV9jTnJzQ0Z2SWFEYms3eThONm5GRzdkUEh2VUp3?oc=5",
-        "headline": "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he says.",
-        "summary": "",
-        "source": "MSN",
-        "published": "11/25 20:02",
-        "published_ts": 1795604550.0,
-        "tag": "Fed",
-        "first_seen": 1795632326.9084225
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 07:15:49",
+  "updated_at": "2026-11-26 07:31:07",
   "yields": [
     {
       "label": "3년",
