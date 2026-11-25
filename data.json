@@ -1630,6 +1630,16 @@
         "first_seen": 1795626046.703561
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHVXc3dPVXJJdWVwUFhJZE4tSmNWVTNKclBqMjdWUXZ1TFQtS2FOZEpXbDdWNXBuY205SWVIc0xyVGtobElKMlRRMUpHc0VWSE9iZl9yeUlSOV8wN2h4LUNTN08wZnAwajNFdjlaai03RTM5bFE?oc=5",
+        "headline": "Oracle Shares Plunge 8% as CDS Hits Record 356bp, AI Debt Fears Spread",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/26 01:35",
+        "published_ts": 1795624500.0,
+        "tag": "Global",
+        "first_seen": 1795627846.3941283
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObW9hNjBvVjhXY1BtazNJdlZlbnZwQ2FudHFrWEJndEM2Tkl3eUJIUm56XzVPWXlzVDgwVGptY1ZtVnctYUI0bzdraGV4X29fVW9BVGtQNW1pMFRCYzNtaDN4UFFWYlBIa3FTenhnSk9ZRkpuc0U3c1lTNGNMNXN5dlhfZGpQU1pzeWhLNUZfNDhndEcyYUdXSmRtNXlOaVJzMjVLQlYwNEhrNlhLT2tyYjZfdnJzWWk0ZTZMSmtjbFo?oc=5",
         "headline": "일본 엔화, 양호한 미국 경제지표에도 보합세 유지",
         "summary": "",
@@ -1638,6 +1648,16 @@
         "published_ts": 1795624478.0,
         "tag": "JGB",
         "first_seen": 1795625133.1917443
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFJ2XzF4Wm83ZnloT1JsNUd0VEwyM2lKUXRKNkk4aHd0QmIxcGNOUEhwR09qTHZrN1J4aGw0SFZuVWxWQnRReGY3OVAzM2UwQXg2U3Z0V3REbEFfa1lOdTh6R1E0Z0UxOG5Qd3M2bWNRSkI5LU5Qdi01RHNnc0dZa0R0TVJCZlY4LTdUT29FbWpIdUtZTTRCSUV2bkx0THBtUTlpelJ3bVBDQ0lwelJiZDZneDhLdw?oc=5",
+        "headline": "Oracle, CoreWeave Face Stark Warning From Credit Markets",
+        "summary": "",
+        "source": "TradingView",
+        "published": "11/26 01:29",
+        "published_ts": 1795624162.0,
+        "tag": "Global",
+        "first_seen": 1795627846.3941283
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTZQS0ppN1VXOHdocHVkYXIzVVVkWTZVMF9QNlNnRWt2ZFlWSU1MUjFVd3JHTVk3aVJUc1lxdkZJWnE4clo2VDBOdDRONjNMTEF6VS1PdjlMMl9jdF9YWUQtUlJ3OTUyMS16cUtEWFdPUVpXd0NxRTNzUXZQVWlKNG1rcUM5VEhad2Fn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795594500.0,
         "tag": "Global",
         "first_seen": 1795602636.1048725
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQdlFlQjhyTjNvVmIzeEtpV1lGcHZiQzQ0eUo4V0hCMklvbERvb3dHZ3lrckJ4dHFiYVoxQ2tIWFJzUkloMHA3NE9WN1RHX3FTbkt2QXZpaEZSNzl3WnJhbTVnbWFpcmp1RTVkbEF6bVo2LXhVcmN6VHFzLVZWYWdmbnB2VUMxTnJSQjlwX21zMUsycWZTaFpOTzQzVS1sUG8?oc=5",
-        "headline": "Federated Hermes backs US stocks despite democratic congress win",
-        "summary": "",
-        "source": "InvestorDaily",
-        "published": "11/25 16:46",
-        "published_ts": 1795592765.0,
-        "tag": "Global",
-        "first_seen": 1795596333.3640013
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE81LUxPaS1Qb0dHZGJqSTg2UjBQZGZLX05LandNQUQtNnZaN0RCYVhmanRkSktBLXpfSUZoSUpxN2ZvYkx4Vy1oREZSYjRaNXFJNG1wcjNWUnVhZGoyRW5CVkdaOEloUHQycDVv?oc=5",
-        "headline": "AI Concerns Resurface? ORCL, GOOGL, SPCX, CRWV Credit Default Swap Spreads Hit Records As NVDA, ANT Tumble",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/25 15:56",
-        "published_ts": 1795589760.0,
-        "tag": "Global",
-        "first_seen": 1795591833.2068286
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 02:15:51",
+  "updated_at": "2026-11-26 02:31:07",
   "yields": [
     {
       "label": "3년",
