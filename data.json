@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZTZQS0ppN1VXOHdocHVkYXIzVVVkWTZVMF9QNlNnRWt2ZFlWSU1MUjFVd3JHTVk3aVJUc1lxdkZJWnE4clo2VDBOdDRONjNMTEF6VS1PdjlMMl9jdF9YWUQtUlJ3OTUyMS16cUtEWFdPUVpXd0NxRTNzUXZQVWlKNG1rcUM5VEhad2Fn?oc=5",
+        "headline": "Jeffrey Gundlach notes sharp losses for private equity players in 2026",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "11/26 01:25",
+        "published_ts": 1795623932.0,
+        "tag": "Strategist",
+        "first_seen": 1795624234.7186296
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
+        "headline": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
+        "summary": "",
+        "source": "Reuters",
+        "published": "11/26 01:09",
+        "published_ts": 1795622989.0,
+        "tag": "Global",
+        "first_seen": 1795624234.7186296
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUZ2M01uTHpPbDc5NzZUUTRrZFltZnlxZTUxYjNWZmttM08xRmZNSDJTTTdqcndRcTBvZi1Jd2tVTDV0SmZxWHk3YVlRcThmQ1ZubUdzcmwwS0U4bUE5WHRqT0Rpc2VrMEh2eW8tTHpYWXFxd1l4dzNob0tibE5BX3FaOVRDYXR0ano3NnQ5UndqeHBpSTd2U3ByNTFKYnc0M1loTUhOU19tY2kzT1RGWlhNaXk?oc=5",
         "headline": "DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795586220.0,
         "tag": "JGB",
         "first_seen": 1795617034.6648192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvc3NYTUZLQTlmejkzV1JUNUtocncxM2NkY1locHd3MUZRS21GamJiMXluSHVvM0UtdWw1TUUtWlRrTUxXcWxod04za0RjWmp0TTRkUHl1cVVZMHlwQ2d6MzlxTzV4bFlNWjMzdGVkSDN3NHE4TV8tRHY0ZFk1ejjSAZMBQVVfeXFMUDRGd2xrUHA0RUtUSTN4ejIzaWVEbDZMTzNGZkZyUzhzQThrMUwzVVJDRjUyMTNqUUpEaExzbml3Si16SU1OVml0QUdZMkMwS3dEQkFJOXVQd0ZqRTRmeGhwUk9xUlRfb05RT2c5TTgxcjNTV19LWEc0ZHRBclZOdFRDZ3ZsdzRZdVBKeWI5bzdpU2lj?oc=5",
-        "headline": "Korean bond yields fall as investors seek safety ahead of expected rate hike",
-        "summary": "",
-        "source": "Chosunbiz",
-        "published": "11/25 14:57",
-        "published_ts": 1795586220.0,
-        "tag": "JGB",
-        "first_seen": 1795590039.7477458
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPY0FNV1FyWE8wVkxVem9fOGtPeUMyZTAxQm5ja2F6NkxRWDF3d05wc2tTYWJZVUZjYldvVU1pRzBZYVItSWI5SXl4Y1R0TzJSc2VnbTVCTmhCSUg1d2hfM2R2TlRzX04tVWRPbEllVlRLcFhncm9qak9uajBMdTV5amVVSXhuU3A0NElYbWtBV1U?oc=5",
-        "headline": "The market has already hiked rates by 100 basis points on the Fed’s behalf, yet Wall Street may struggle to wait for a…",
-        "summary": "",
-        "source": "深潮TechFlow",
-        "published": "11/25 14:53",
-        "published_ts": 1795585982.0,
-        "tag": "Fed",
-        "first_seen": 1795594530.0555654
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 01:15:52",
+  "updated_at": "2026-11-26 01:30:59",
   "yields": [
     {
       "label": "3년",
