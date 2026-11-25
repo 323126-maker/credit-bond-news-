@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcEpGcWxDX3JwQmFQaG1lVjNVQk50X3hSaGp2OGhfVjBPQ0dWb3pUbU4wLWk3azlwckNjUWdCZ1c0LXdjREs4bTJZYjg3SGlvUU1kSWtoUy1WM3ZMbWpIZExMVnRabE5IUkZkMUhXMTEzX2tqMkM4ZTN0eGNVdGRQODlrZUs3dmEzUjJWYWVldUtZU2JPaEpZZmRjcGZCS0RsOU1Kd2hRQW1Gdw?oc=5",
+        "headline": "Nasdaq Faces Fresh AI-Led Sell-Off as Technology Stocks Lose Momentum",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "11/25 23:37",
+        "published_ts": 1795617420.0,
+        "tag": "Global",
+        "first_seen": 1795618848.616971
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1B4TDZyaEhLQkJzSm8tVWo1ZTZpNEFzS2JxMGJ3cUVqYzFyTVFqSTlDTWhhZEhtbktOZHZmQ2FMNVdHX21mdnAteWI5VTdPazZmaS1PaXl2ajBVTGgzUnBQVk9vWkxrYVBNdzg5dE9hRlNibnNPN0lXaVVreWUzQ2pnSHV1eWIz?oc=5",
         "headline": "美 10월 PCE 물가 3.8%로 가속…연준 추가 금리 인상 불가피할 듯",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795583400.0,
         "tag": "Global",
         "first_seen": 1795583726.442019
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdGpoNDZjOERRci1XODhKZU1oR3VaMnJTV0k5MW1XT1JYOFZFSzM1UG1FRWNxQmpBSEhBd2dIMXZoeFJEVWk5TFQtNllyY1hEQ2UwVHd5T1NxbWVMOWVUUnk1aWR1QUh5Smh5cUs2aXU3OVV2WHc3TVRoNjlMSHlKZE1FTUtaemoyVDJ1MS12VUR3UEtrZnNBNDNuaWxfckw2MFlXTDlkSHQ?oc=5",
-        "headline": "Oil Prices Fall to Three-Month Lows as Supply Outlook Eases, Treasury Yields Ease",
-        "summary": "",
-        "source": "Tekedia",
-        "published": "11/25 14:03",
-        "published_ts": 1795583030.0,
-        "tag": "Fed",
-        "first_seen": 1795602636.1048725
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 23:45:53",
+  "updated_at": "2026-11-26 00:01:15",
   "yields": [
     {
       "label": "3년",
