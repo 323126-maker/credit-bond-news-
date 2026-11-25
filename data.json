@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRHRnaGo3MzF2aGpjMWFmZEpyQmZyZExaT1RiczNBd2FnOEQ5S1pWMVpEc18wX2lmR2RTbjlGeXIyVkVnczhGSnpPMDFmUjVqMVBqZTY5Y0FfNGtTblZ3SWJJaHdHdnpWVElVSnFkendZaUt4WkRHNnZLWVZkSkZTVUNzUTRicVNzWGZ3X1I0T1B2b0JhRDRkM2ZuQ2ZidTZSX0ZQa3d1UG41QXdhbDIw?oc=5",
+        "headline": "Market tightening equals 100 basis points of Fed hikes; a policy shift is unlikely.",
+        "summary": "",
+        "source": "KuCoin",
+        "published": "11/25 11:03",
+        "published_ts": 1795572214.0,
+        "tag": "Fed",
+        "first_seen": 1795572932.0411985
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9SZFhFNHN0NTdKNTZIbWo5U2tCT2xYME9aRmY5dE40dDM5YnlGTjExZFdyZUlDeUNMcU5tbnVhSk1FYU93eEY2M2hKXzhqRWo5Tjh0M0pabmFfQy1SNGtvdVFveGdOTFF3N0YwbkN5eWZSQQ?oc=5",
+        "headline": "피치 \"연준 12월 인상 뒤 내년 동결…채권 금리, 올해 고점보다 완화\"",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/25 10:59",
+        "published_ts": 1795571953.0,
+        "tag": "JGB",
+        "first_seen": 1795572932.0411985
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kalpRQjhTU0p3eGh1UnBFV3YzSG9NMGFxTFRQOTR6MEJfZW42MUhHSl9fVUFabi1SM182dDRPeFNldFF1ckx6a0FWSm5PRE81Rk5VTFp0VlpXZkwwUGZBd08xdw?oc=5",
         "headline": "XS3524267419 Bond Yield and Price — SWB:XS3524267419",
         "summary": "",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795532400.0,
         "tag": "Strategist",
         "first_seen": 1795533330.0503592
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPWFdqclJCOE9ZRFFMc3A0N1dfTGk5UGtnV3JxWnM1Nzd6aWMtd00tZlFwelBzelRxbWpJQ2s4MWgzQjl5Vmx5TjdSd0NCRXJHTnFTczRGbzdrTDZKZEU2czhpOVlrdlRDeHBIY0twUDM5Mk1LdUxCeXAtUlFCd3JzRV8xdDhLbmh1M0lqS25ZX0xfTmh2NUdDaDhnckQ3TnhSamY5UzZzc1c5c1JUWFFueEpBZWhBa3lRVGs1bFVXRE54T0p1WExaU0NEbHNSaWZDek5fWFhzakZZamh3MEVxcE45SGlZVWs4R2ttWmhrOXNkRzJ4Szh0Wg?oc=5",
-        "headline": "The average US 30-year mortgage rate rises to 7.28% this week, ending a four-week slide",
-        "summary": "",
-        "source": "journal-news.net",
-        "published": "11/24 23:49",
-        "published_ts": 1795531740.0,
-        "tag": "Fed",
-        "first_seen": 1795534236.6114905
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMjVQUXpFMUxSb192d0NMZms0cTE3M2lmS1VGZjAxWG85UHFjQjFDdmx0ZEs0bWZyOUFmbVZudVhycGNEVWMxc2NjUnpIMGRrVHhabjU4ckw5bFBmcjYtdnFUd3ViUk1BODdZMHRTVlV0ODFuSHZzd3pPLUhTTjNfOXUwNkhlRDlweVVTampKYmpDeU1iQnRrdnpQUG1ueWhVbVcybV9uNlRmTzd3NG5iekVBMEpjSWJ1Y1otQmJyV0ZJUXZRZ1dMWnRGRUItVW9zRVBn?oc=5",
-        "headline": "Billionaire Bill Ackman Just Warned the Fed Could Trigger a Recession on December 9. Here’s How",
-        "summary": "",
-        "source": "24/7 Wall St.",
-        "published": "11/24 23:47",
-        "published_ts": 1795531620.0,
-        "tag": "Strategist",
-        "first_seen": 1795532441.8615003
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 11:01:05",
+  "updated_at": "2026-11-25 11:15:52",
   "yields": [
     {
       "label": "3년",
