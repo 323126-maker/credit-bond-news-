@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1B4TDZyaEhLQkJzSm8tVWo1ZTZpNEFzS2JxMGJ3cUVqYzFyTVFqSTlDTWhhZEhtbktOZHZmQ2FMNVdHX21mdnAteWI5VTdPazZmaS1PaXl2ajBVTGgzUnBQVk9vWkxrYVBNdzg5dE9hRlNibnNPN0lXaVVreWUzQ2pnSHV1eWIz?oc=5",
+        "headline": "美 10월 PCE 물가 3.8%로 가속…연준 추가 금리 인상 불가피할 듯",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/25 22:51",
+        "published_ts": 1795614709.0,
+        "tag": "Fed",
+        "first_seen": 1795615243.2452626
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmNzTmVtcnFqd3lCVGw3QXlhYUlvckxJM2IzUUJ1cmQxUnhON1RXY19Od3RSblFLSmxDTnVROHBjcl9FTmJZZl9Xb2RqcTM4NmJSRkE1Y3RIV0JwWVI2cmJFUE1xYmxPeHlnQURlUFlPbHZBYjdLcGwtLVFTSTZJcW9IRzdoUVJFd0ljZ0JtbkNxVzJONmdB?oc=5",
         "headline": "TCW MetWest High Yield Bond Fund Q3 2026 Commentary (MWHIX)",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795581915.0,
         "tag": "JGB",
         "first_seen": 1795585526.6316803
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1WVXZ5Q3UxNG9pQl9JelhrbDJ1Yi13QmtnZmc0SVlYSzZpTHljYTZFVlZSNTM4WDk1TlA4T3dvU01WSUpPWFJOTWFuNDRLY0VPbmxyczNPQUlZdWNRa3NISng5aXZVMEVlVGFsaXJFYWJJVlRRMnhoWGJB?oc=5",
-        "headline": "India Bond Market Outlook 2026: How RBI Rates, Inflation and Crude Oil Affect Bond Yields",
-        "summary": "",
-        "source": "Alice Blue",
-        "published": "11/25 13:38",
-        "published_ts": 1795581507.0,
-        "tag": "Global",
-        "first_seen": 1795608042.660909
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 22:45:51",
+  "updated_at": "2026-11-25 23:01:07",
   "yields": [
     {
       "label": "3년",
