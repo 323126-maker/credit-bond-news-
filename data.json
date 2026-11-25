@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oVUstSnBNcHB3cDMzT0hCUGJUck85OFJ6WHFWamVlcGtNQXdTd1k2SnFJbnAtZ0R6dnRhd1Jaa0dTd1lLNVFWMWYzU0F5Z3k5Mi1oNzk1RjhmdzY1eXo3Nk1uWE5Rc1N1N3VJ?oc=5",
+        "headline": "일본은행 12월 금리 인상 전망 우세…로이터 설문 86% \"1.50%로 올릴 것\", 우에다 \"계속 인상해야\"",
+        "summary": "",
+        "source": "ISSUE ON (이슈온)",
+        "published": "11/26 03:13",
+        "published_ts": 1795630391.0,
+        "tag": "JGB",
+        "first_seen": 1795631436.648357
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQTTJCVDBpODFYcjdmWW1uY25jNUV1YUtER1ozVlZDOGVUQzFPekFNLVkySy1fckRZSXNxbDVMdFJ6S1RULXNPaExGRDd1MzRsSFpFQzV4bVBqLXRGYWtlMDdHT2xYY2hUWnIwc2N1dHpOVkZXOFk2QVFYanFhVE1mRUVUb2F3Z3o5LWVHdDFKV1FKS2FQenlFbUhGaFQ3R1BwaThkYmNIenBqRm1jZ2ZXZGhQSU5OY3ZwaFpHOGtsT1h4RUt6Mjk1a2ZyeG1fcFZDeXdsMmRpaXRrY05tS0xUSDVuQ2dnODJIczhpOUw5SVFJTjRLb2FiWDFJeEdyNVk?oc=5",
         "headline": "The average US 30-year mortgage rate eases to 7.21%, not far from 2026 high",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795596917.0,
         "tag": "JGB",
         "first_seen": 1795629641.9225125
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5FRFVOajU3V0dUc042Y0NPaWRXVEtxcDBvcDFfZnh6S2RFbU14eF81SlhJWGhyUTczaEtWdXF4UUp3NXhDV25yT3ln?oc=5",
-        "headline": "애크먼 \"연준, 물가 2% 고집하다 세계경제 망친다…3%로 올려라\" > 시애틀 뉴스/핫이슈",
-        "summary": "",
-        "source": "SeattleN",
-        "published": "11/25 17:48",
-        "published_ts": 1795596531.0,
-        "tag": "Fed",
-        "first_seen": 1795602636.1048725
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 03:15:48",
+  "updated_at": "2026-11-26 03:30:59",
   "yields": [
     {
       "label": "3년",
