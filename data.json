@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5aZm9OdDFZdEpfWGhRU2lvQ2ZRVlRpNTZFcnVsT3ZIU2IzajU5Uml6UG81Y3hWTTVtZjJZNldrTG9RamphNVNmTHJhQ0toU3ZVZTNMbXdIYXpLNkRPTFpEWkNQZGQydjgwR0FTZ1NR?oc=5",
+        "headline": "[전망] 한화생명, 투자손익 변동성 완화가 관건",
+        "summary": "",
+        "source": "알파경제",
+        "published": "11/26 05:30",
+        "published_ts": 1795638600.0,
+        "tag": null,
+        "first_seen": 1795641329.6106203
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1LVXRnaXc0eERkeC1nQTNGdng0emVjeHJjOW1BTUNnazMxVFVzMG5QY3ZQQjBXR3FiNVFZV3ZydG9NUjVDOFZFTFoyTlF6Tzg2OVFKLW5qNlVYYjJEcUJpQzcwbFhIQjVKMFg4?oc=5",
         "headline": "후순위채 발행 나선 KB손보, 킥스 비율 끌어올린다",
         "summary": "",
@@ -790,16 +800,6 @@
         "source": "경기일보",
         "published": "11/21 10:16",
         "published_ts": 1795223764.0,
-        "tag": null,
-        "first_seen": 1795255238.6517131
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBjaVNlcUdfVVpnVGpTa0hIaExDOWt3dXExTHIxMk5HRW5wMWJaNkswSXNTMXdOM1E5QlJJMkRSRjVBMUpYblNHYXY5cFBrQWhER2FqOEtmOGJ5aDFMXy0wMm9mSXI?oc=5",
-        "headline": "고려아연 배당 YPC로 넘어갔는데…영풍, 금융자산 팔아 현금 확보",
-        "summary": "",
-        "source": "서울경제TV",
-        "published": "11/21 08:30",
-        "published_ts": 1795217425.0,
         "tag": null,
         "first_seen": 1795255238.6517131
       }
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbS1TelBzU0JCcFBfdVJzYVQxd1pZcDVnOEZfV1NEVXN4V1VpUDJ1UXNjZTg5ODl5bGpVOE1tRkkta0FtMzJ5WjJhbHN1ZE0yMm5NMUl2Y3lvM1VXM0UwanBTTUh4WEcyUUNJSVJTeGVqLVBHbGNmaG5oVy1XWDhPa1FLVTlzRnhRdF9WVzQ2ZWFmaDVDdENVcWg0YVVjZHQ0ekJIWXh0Z3FLTWtPNDktRw?oc=5",
+        "headline": "AI Debt Risks Intensify! Credit Default Risk Indicators for CoreWeave and NVIDIA Hit All-Time Highs",
+        "summary": "",
+        "source": "富途牛牛",
+        "published": "11/26 06:02",
+        "published_ts": 1795640545.0,
+        "tag": "Global",
+        "first_seen": 1795641329.6106203
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYXB0cWtCbnhtNWhRSmtXa0ZiV202VHp1UklGdWpNbWpUTGlxZmtkSy1HR2VDRUlVVEFJcE9fMTRaY1NJZFhLX2I2c1hOOUJmTWItS1lzX3AwYUpRQnp5WFEwRlotWDVRR3h2UTFVZzdRRWJFdWZSS0hoV2FCdmQ3bUtsUHlHYk5WRWR6bXBfSHlwT00zbGlIcVBYbzBielJnZnZRUk5VZEJCNERlVERsRWFXR25PR3luWHJhSURoaTVlbjVI?oc=5",
         "headline": "Victory Tax Exempt Intermediate-Term Fund Q3 2026 Commentary",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795602715.0,
         "tag": "JGB",
         "first_seen": 1795630526.0506997
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0td3BTdHByMEw1OGVHNE1OUWQzV0gyWmt0ME9YcDhMU3BWNHk1QVhpYV8ydGIyY1VEUzBycnhfNkw1TDNOcERRbW5WV2xNMjVPMFhDdE5EbGh3aE1nT3hxSnowLU53N2t5V0VHNFB3RWs?oc=5",
-        "headline": "美연준에 트럼프 외풍 막아줄 민주당…워시엔 새로운 압박 등장 > 시애틀 뉴스/핫이슈",
-        "summary": "",
-        "source": "SeattleN",
-        "published": "11/25 19:24",
-        "published_ts": 1795602241.0,
-        "tag": "Fed",
-        "first_seen": 1795628727.9080684
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 06:01:09",
+  "updated_at": "2026-11-26 06:15:50",
   "yields": [
     {
       "label": "3년",
