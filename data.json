@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNUZ2M01uTHpPbDc5NzZUUTRrZFltZnlxZTUxYjNWZmttM08xRmZNSDJTTTdqcndRcTBvZi1Jd2tVTDV0SmZxWHk3YVlRcThmQ1ZubUdzcmwwS0U4bUE5WHRqT0Rpc2VrMEh2eW8tTHpYWXFxd1l4dzNob0tibE5BX3FaOVRDYXR0ano3NnQ5UndqeHBpSTd2U3ByNTFKYnc0M1loTUhOU19tY2kzT1RGWlhNaXk?oc=5",
+        "headline": "DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff",
+        "summary": "",
+        "source": "Bloomberg",
+        "published": "11/26 00:27",
+        "published_ts": 1795620471.0,
+        "tag": "Global",
+        "first_seen": 1795621539.4021063
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0FteDN6REwzTU1UeHdTY3RXOHNJSE5kME5LSTJkTWpGZUV3X2FOV2VHdUxEMlJDZS0tM1F5Y042SURjdkRfalJHSE5IbVBWQm1ELXJxaXlSYkZJUU1QeUhUM0Ezc2RiZ1dQeHB1R0hEN3BPcjd2dW9JT1RDdDhnZGhBbnppZTFBVGthc3Atb1RaWDBYRE01NFFnLUpFS1h1eFpzaDl1MA?oc=5",
         "headline": "Strengthening the resilience and liquidity of the US Treasury market",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1795614709.0,
         "tag": "Fed",
         "first_seen": 1795615243.2452626
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQal9nY1lVLTVCZkVabWJ1cUR4U0RuaTlLQU9jSW5kbmVIZDFQUUdfNmxMM0xVTThPTWowWFB3WUhzWDU2ajVwMVQtU1hfLWtaNkp6SU90ejBsMEEtdFZjeDVmbnQ2dlZQbGJSUFhhdk0yTHB6OTNNbWM3ZmNzUFpUUVJPVU5WdEY5dGl6SnpnLU51LVl2aFdYR0dlX3ZHRkd5WmZ1dGxRTEI3NVNVZ256NTJPZ3hkTjhkSy02ZXQ2ZUVmZjJlcXY0TXVLQkhjYzA?oc=5",
+        "headline": "What Balance-Sheet Quality Filters Steady Schroder Sterling Corporate Bond Fund Z Inc?",
+        "summary": "",
+        "source": "kalkine.co.uk",
+        "published": "11/25 21:55",
+        "published_ts": 1795611300.0,
+        "tag": "Global",
+        "first_seen": 1795621539.4021063
       },
       {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVmNzTmVtcnFqd3lCVGw3QXlhYUlvckxJM2IzUUJ1cmQxUnhON1RXY19Od3RSblFLSmxDTnVROHBjcl9FTmJZZl9Xb2RqcTM4NmJSRkE1Y3RIV0JwWVI2cmJFUE1xYmxPeHlnQURlUFlPbHZBYjdLcGwtLVFTSTZJcW9IRzdoUVJFd0ljZ0JtbkNxVzJONmdB?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795585800.0,
         "tag": "JGB",
         "first_seen": 1795609834.8392677
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9SYm9MSVlnSC1vWTNLbUtXbEZEWFFwWk5mUVlHaUdBSEJ3bHBjbnEwdXZYTkJXVDRlb2tiQ2xjeXBQUGhoUGFRVXdBb1BlSHg1Y0xhV1B5M2M2Smt3d281RnpYeENJTGZ5dm9CUmVNX05Lc2N3WWpLeQ?oc=5",
-        "headline": "시장이 일본은행의 금리 인상 경로를 재평가함에 따라 일본 국채 수익률 곡선이 가팔라지고 있다",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/25 14:45",
-        "published_ts": 1795585513.0,
-        "tag": "JGB",
-        "first_seen": 1795608926.6051846
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQUd0XzcyT0puSU55SUg4QTVHeFhhMXlYaEN5ZHE1b3V1UlVjQkJzSDdabGtWcTNWRTc3VW1CeXBMZnVjVFVaeHhScDVHNFhHcUNJNWprdDk0N2NLQ0JFVzBaRk5PeXRnak5mV29BTzZQQmhLYWllTDVMZ2NfajJsbVcyc3pOOU1NemZJbWNzX0FuUGJsVlBQZGIxRnI3Zw?oc=5",
-        "headline": "Columbia Select Corporate Income Fund Q3 2026 Commentary (SRINX)",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/25 14:40",
-        "published_ts": 1795585200.0,
-        "tag": "Global",
-        "first_seen": 1795586439.1947799
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 00:31:07",
+  "updated_at": "2026-11-26 00:46:05",
   "yields": [
     {
       "label": "3년",
