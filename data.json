@@ -312,6 +312,16 @@
         "first_seen": 1795558529.719369
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE41aUU1NVItRTNmVUlPazJScjQ3TzY4V3hmWko5X3pYZUg2QWZTdXBhdTNSLUlRaWNvWEMtZThoTTNSM1JRZ2JxbEtoaXJlX0NNV3FZbTJ3R2ExT29XWkVVVW9fYk5XZFUtTDN4bkQ0eDQ?oc=5",
+        "headline": "한은 다시 긴축 나서나…채권시장 전문가 54% \"11월 기준금리 인상\" By EBN",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/25 05:42",
+        "published_ts": 1795552940.0,
+        "tag": null,
+        "first_seen": 1795599036.5111291
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5PcEdQZUhENkxwY3FkcVNVMjFFZGpkWm0wSmI5Wkc4c3pnOUVpSGtDY0l2SnVzT1VqelU2S1hFakVqRl9ERURaSmpIMFFuR1dKV3kyVDhmNnpIQTJnT29uYVNwcW9Ua1FPMDB6dklaZ28?oc=5",
         "headline": "S&P, PROG Holdings 전망 ’안정적’으로 상향…빠른 부채 감축 효과",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795523423.0,
         "tag": null,
         "first_seen": 1795537838.37798
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBZTEFJNm5hbFpwcC11SDBEUUFJSy0tdkc2QWljLW84eGljbzMwbG5EZ0QzMzdVM3lKaTZVX2lpQVZQbG95Z0hkckFraHhUMlk?oc=5",
-        "headline": "'젠슨 황 주가'...코스피 6.3% 급반등 마감",
-        "summary": "",
-        "source": "사이렌스",
-        "published": "11/24 20:48",
-        "published_ts": 1795520915.0,
-        "tag": null,
-        "first_seen": 1795527034.5593374
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQmIxVkVNcUhjNmNHMjZDMnQ0SHppWkV6R1ozNWMtVzhVMzFEUDZ5RFNkUVM4SkZsb2p3U2VhVzNMS2J3TEcyMU9zY19uNUJTOHIwV0ZOYkxxbnhKM1J3Y0swLThZT05wV3BZN3V0dXltaVpoR2dWeVlfV2MtbDB6bUJjQmd6QTBRQlBN?oc=5",
+        "headline": "11월 25일 오전 국제 금융 및 통화 시장의 동향입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/25 17:34",
+        "published_ts": 1795595655.0,
+        "tag": "JGB",
+        "first_seen": 1795599036.5111291
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE96d0JXLTdnX2NDeEVMRm9Pemp4NFZFbkNmdTIwYU9ZRm9GU2tyNWxNMDJIVDdIR3ZJTzFUcXlJS0NMXzFrak1NVm9PbVc2RTNiLVpwMHhFMEhNNGNNVTJRTFpnQTNvTUlnMHZ3bm9ZdjloZw?oc=5",
         "headline": "[亞증시-종합] 리스크 오프 심리 확산",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795564200.0,
         "tag": "Global",
         "first_seen": 1795564841.722071
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOaGZWTl9BVVFRY091THZvQldaOVpkUnNSdnZJTml1ODJVWEpKQWstWlRGcnhYZDhWMGRPdHVEbjJCVDR0TWU5Q1ZFc3UyMTVQSEs1LVZWOWtZN1A4eWItcXpLMWQ0NDZLWExvY1VubW9qbkdUb19COWNueGRyM1Q0Ui1wYkdFTUdXUkN2bG9lNWV5U3lMblpOYU9VUklna1JHdTVhclVBYTF4TUdlNTJiSS1MQ2hPWmY0ZU9mTkd5SFpvSFd2aE5mZnZzcnk?oc=5",
-        "headline": "호주달러, RBA의 중대 시험대 될 인플레이션 지표 발표 앞두고 0.6600선 회복",
-        "summary": "",
-        "source": "www.tmgm.com",
-        "published": "11/25 08:42",
-        "published_ts": 1795563772.0,
-        "tag": "JGB",
-        "first_seen": 1795589135.8242438
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-25 18:15:57",
+  "updated_at": "2026-11-25 18:31:04",
   "yields": [
     {
       "label": "3년",
