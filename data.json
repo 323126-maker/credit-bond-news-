@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPWHE2MkZ2NFRQdzk2OW1NekhLeWhsWkI1Z2prZlVXa1Qzb29XRVREUFZ5aHFWQ05TNU12bmxVZGpXUWtrVnk4c2J4SWdja25SYWFmRnhjMVdpZk45aGd1SXNTV1prME9lalNCQUE2LWZvUDJ0aUYyRFFqWXVCV1RSVS1zaTZRS0ZobGNoOGl3NkJ5OUZxdnRHOUx6NDlsbHdxajUtNWxLX292d1B2VTZSZTFnenVCOUVqV3dqUlBoamhQOXpRempZS2p3RVBhdHhycjhqOUh6UzVPNUptN09rT25DLUtDZ0VHWF9ELWdvQWxNbHZNUGs4cUJTWkh2WFJzYVpZd0FycTQzbG9uUmhN?oc=5",
+        "headline": "BOJ, 더 빠른 금리 인상 필요… 12월 가능할까?",
+        "summary": "",
+        "source": "IDNFinancials",
+        "published": "11/26 20:20",
+        "published_ts": 1795692000.0,
+        "tag": "JGB",
+        "first_seen": 1795692637.8084362
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1TMUNRRDFwVGJjSFZVWWlZTzNDaXRUSTNUZUJENUdKb3BIUVZrYmNqRTIyak5HOTJmdEY3TkNHNW9QV2ZsbUF6YmpZcDdBeXVxZnR6VEdvSFRPVF9nRzI1V2EtZmUzbnJUTnd2ekIxQlJpLVN1RUE?oc=5",
         "headline": "Dalio Warns Assets Could Halve in Worst Case, Urges Traditional Portfolios to Hold a Steady 10-15% in Gold",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795662269.0,
         "tag": "JGB",
         "first_seen": 1795665641.2084095
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5",
-        "headline": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January",
-        "summary": "",
-        "source": "Businesskorea",
-        "published": "11/26 11:53",
-        "published_ts": 1795661605.0,
-        "tag": "Fed",
-        "first_seen": 1795662928.1290405
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 20:15:54",
+  "updated_at": "2026-11-26 20:31:00",
   "yields": [
     {
       "label": "3년",
