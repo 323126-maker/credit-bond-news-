@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVnVGeUVYOUZZbURKeHd1YVpFTjN6Z2gwUU43aHNXWE1hbV9xajRQZm1oS0h6MndFMVlYR3dZZ0VGNzVKQmstY0xfQ0w5Nmtqb0huS2VyV04yaGNlSE1JUTY3dE1JT3hMQW4tQzRpc3gxUFhRb3VkaDVvZGtHT0ctU2FxbzlYQlFSMW1ybDBBMUcxMjJKSi1zUU5RZldxYWJIc2ZTTzIwZElQa1lkVlM3TkthUkNVSDJ5N2hSVXU2OWZ6LTM2bFFFQVFhOHdpU0Njb0NsaGxCbVVvTzBaa2s4WGpB?oc=5",
+        "headline": "회사채 담보 관리: 새로운 법률이 증권 회사와 상업 은행의 경쟁 구도를 재정립합니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/26 20:40",
+        "published_ts": 1795693215.0,
+        "tag": null,
+        "first_seen": 1795698043.548789
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zb3hTZWVWellESlJYdEVlcXhRRGhiS1lQalh1VVh2RnJ3YjY2VURyb3VBaU9BWTJ5ZUVZNnBmVkxjLWMzbkphVmFJYkZrcDVNLVhFS1VVNVpRUWsxSDdZZHFuLTFHdw?oc=5",
         "headline": "오라클, AI 인프라 확장의 그늘…채권시장서 재무 건전성 우려 고조",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795597200.0,
         "tag": null,
         "first_seen": 1795598135.8876927
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwcV84cUJKQnQ5b2N1OU1IcUp5dzQyYWdrNVAxMTREa25iNFpVbGRFMGphMVd6S0Q5S250eWFqcEptQkpYdWc?oc=5",
-        "headline": "HD현대오일뱅크, 석화 부담 덜었다 '신용등급 상향' 청신호",
-        "summary": "",
-        "source": "Daum",
-        "published": "11/25 17:55",
-        "published_ts": 1795596923.0,
-        "tag": null,
-        "first_seen": 1795662928.1290405
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 21:45:53",
+  "updated_at": "2026-11-26 22:01:05",
   "yields": [
     {
       "label": "3년",
