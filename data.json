@@ -272,6 +272,16 @@
         "first_seen": 1795598135.8876927
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwcV84cUJKQnQ5b2N1OU1IcUp5dzQyYWdrNVAxMTREa25iNFpVbGRFMGphMVd6S0Q5S250eWFqcEptQkpYdWc?oc=5",
+        "headline": "HD현대오일뱅크, 석화 부담 덜었다 '신용등급 상향' 청신호",
+        "summary": "",
+        "source": "Daum",
+        "published": "11/25 17:55",
+        "published_ts": 1795596923.0,
+        "tag": null,
+        "first_seen": 1795662928.1290405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9VYWlEdGtGcG41alU2TDFNQXU3NXlPNVJKbFQ3SVdoOVh6dDFvcHk5QXFrT19rVVZkRnUxYThYTl9XX01ITC1FeG12eVJHaTNmeXJhTFQ5ZDFYWmRCbUd2T2hCNWJ6SDh6eXln?oc=5",
         "headline": "빚 26조 쌓인 LG화학, 신평 3사 모두 신용등급 'AA' 강등",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795590771.0,
         "tag": null,
         "first_seen": 1795591833.2068286
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0xa21XdkVGZmpLS084RlgwR0RGX2RZX2MxLUdiSFFnOGlWRXF3WExXN1pVNzc4M1hMeDhxLXBiQkRqRjFHMG9vclJYMTBzbjVqOU9DZ0NibUE5U2VWdlVwakprSzM?oc=5",
-        "headline": "젠슨 황 복귀에도 증시 급락… 네오클라우드 자금경색 때문",
-        "summary": "",
-        "source": "주간동아",
-        "published": "11/25 16:10",
-        "published_ts": 1795590616.0,
-        "tag": null,
-        "first_seen": 1795592725.970083
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5",
+        "headline": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January",
+        "summary": "",
+        "source": "Businesskorea",
+        "published": "11/26 11:53",
+        "published_ts": 1795661605.0,
+        "tag": "Fed",
+        "first_seen": 1795662928.1290405
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5EM2QxWFkweng0dDd5ODFKWVFEcjJrVHVMQlpMY3pmSk1xYWtpdGtVektGbWVNcW9RcXEyMWlmWnlEOXJkaGhBMzNSV2ZPLWhaY0w1d0s2TDJHSzNiWktCd2EzOUFoWnJJRzJMN0hEN2jSAXRBVV95cUxPeEFWZHR4SGxTY2FrTEdlaVN0U3R1cndScWV0bDNiMG1heGh0MUxVWF9OYVhtNG13cnZ1YTl6a1ZEdkY5Rm5TZUUtUTFRRUdkdTdLZmdqWTc3d0QyUUI0Q0VaaElNa2VDMXBqR2ZZVEMtMzNqZQ?oc=5",
         "headline": "한은, 기준금리 연 3.25%로 0.25%p 인상... 석 달 만 긴축 재개",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795622714.0,
         "tag": "JGB",
         "first_seen": 1795649433.8646343
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdC1BUk14VEtGdmlSUVRqUi1BUnMtTVR6OGpSLUk1Q0tHWndXOE9zRHE1MmVKQlZCU25EeGtXZEl1aUhQU1FFSnNQVjQ3b1BkYUp5QXR1REJtdFEwSDdDUVRyWWg5SkhiMjQyMHpFdVFFRDlkdy04UHRLTTNRd1lmY0Z1cFZQcWxlU2dETEtKSXIybjhQczVZdHRQRWt3WlhXd2tFQ3M1RnpMNy01bzZMSzRsU25Hd0tUSjBoZEl3?oc=5",
-        "headline": "암호화폐 롱 & 쇼트: 비트코인 투자자들이 일본을 계속 무시할 수 없는 이유",
-        "summary": "",
-        "source": "CoinDesk",
-        "published": "11/26 00:59",
-        "published_ts": 1795622384.0,
-        "tag": "JGB",
-        "first_seen": 1795646635.3134723
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 12:01:04",
+  "updated_at": "2026-11-26 12:15:52",
   "yields": [
     {
       "label": "3년",
