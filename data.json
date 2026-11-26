@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJN1hIMmRvaWwwZmhBYThiVTVTQVBQVmpZaHhVckFEb0pQeHZ5RVRrMjV3cDVTX25KN283TV9WakxFajctNnlveUYtWUFDOV92RGVLUEZaOFdxM2dMZFF5UmxOX1dTT2RBMEE?oc=5",
+        "headline": "이 대통령, 미래산업 투자 속도 주문…“기업 성공 이익 재투자할 체계 마련”",
+        "summary": "",
+        "source": "한국연예스포츠신문",
+        "published": "11/26 23:17",
+        "published_ts": 1795702620.0,
+        "tag": null,
+        "first_seen": 1795703436.5870228
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9sOVc3b0l1T3lyTktqTjZGaHJIQlQtTGRkam1WeUxkdkZyRnhJQ1FuTHNGTTZrTnZMTnpLQ2YxZ0k2OUVQZlhORjE0cmN4N1R3SlFpTi13?oc=5",
         "headline": "李 “7대 SEED 프로젝트 관련 위험성 없는 규제 과감히 풀어달라”",
         "summary": "",
@@ -1596,16 +1606,6 @@
         "published_ts": 1795418195.0,
         "tag": null,
         "first_seen": 1795419924.2838142
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5GdVJYQnhHZGV0WmxjaU1rek5IYWZaX2o1Rzg4R19ianJ1YkQ5a2dJaGJJMDZqV0k4YkxsWmJiUVBabzRjOFJBOUNjbWVDOEpmU1pCRzB3R2NxN1B3Zl9KRHNtSFlsc19TTXN4VXFRUGswUdIBckFVX3lxTE5GdVJYQnhHZGV0WmxjaU1rek5IYWZaX2o1Rzg4R19ianJ1YkQ5a2dJaGJJMDZqV0k4YkxsWmJiUVBabzRjOFJBOUNjbWVDOEpmU1pCRzB3R2NxN1B3Zl9KRHNtSFlsc19TTXN4VXFRUGswUQ?oc=5",
-        "headline": "靑 류덕현 \"증시 외생적 충격 일시적일 수도…비관적으로 보지 않는다\"",
-        "summary": "",
-        "source": "머니투데이",
-        "published": "11/23 15:15",
-        "published_ts": 1795414543.0,
-        "tag": null,
-        "first_seen": 1795419035.6131694
       }
     ],
     "global_bond": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 23:24:36",
+  "updated_at": "2026-11-26 23:31:03",
   "yields": [
     {
       "label": "3년",
