@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE50Tm5KZUxfNlF3QlExZEJiX1NEMkc1NkpTNXpsR21kUFM1YnZkdExxUjZHRUtTRzFLNjNjRnZkTF9USUc1YngtQ1lwSEJxYjR0VW5keUs2RDhxQ3llOEE?oc=5",
+        "headline": "[N2 포커스] 기준금리 인상 앞두고 내렸던 은행채 금리…조달비용 다시 오르나",
+        "summary": "",
+        "source": "뉴스투데이",
+        "published": "11/27 06:41",
+        "published_ts": 1795729301.0,
+        "tag": null,
+        "first_seen": 1795730445.6224806
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5hdjFnWDZOX0RpYUJ3NV9CN3ByMVVFdUZxVndxSTJwaTR3ZWFiaEU2eVNLUUVMVVQwOGU2djZlQ1VTWUVhQzJzZGdtd3FwTzREckltVjVmSW90c190OGRTejdoRmI?oc=5",
         "headline": "'금리 인상·매파적 점도표' 국고채 금리 대체로 상승...3년물 연 3.622%",
         "summary": "",
@@ -1194,16 +1204,6 @@
         "published_ts": 1795481513.0,
         "tag": null,
         "first_seen": 1795482038.9539099
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1VRk5SWHBwTVREVC1JdzB0R0J0QTlJb3JQTzF5QXVjZWp5a3VXRkRRbGN2WTZkejJYdm1iekhIUVU0a05sR0NEN1VwMU45Q0x0?oc=5",
-        "headline": "국제유가 하락세에도 국채금리는 높은 수준… 물가상승 압력 장기화 가능성",
-        "summary": "",
-        "source": "문화일보",
-        "published": "11/24 09:16",
-        "published_ts": 1795479410.0,
-        "tag": null,
-        "first_seen": 1795480233.5856485
       }
     ],
     "politics": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUWFXU3Q0UUhCLUhuNWtvWFFoaUxlaG9PbTBJQkVJblA3SkFzS3lGaHFDUmJIOTNsMmtrel9DQjBiNm1sZVhja1B1Q29VR3pOOWtaUE9SSXRJZmx0alhBc2tFcXdsZEk5RzlmN21WbmFDWUJPMUtGQ0tMamdNWFRIWGhFT2hxWFBBY2dNc3RpS1VkOU5XWWpMOUpfSEllbWxhTHAwSVhkTkJHV3VYcFJvTGNCX0h1TU5sRzA0UkVEZGhIaDJLZUpGMXRCMA?oc=5",
+        "headline": "엔화가 160.00을 밑도는 가운데 도쿄 물가상승률 3%로 급등 전망",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/27 06:50",
+        "published_ts": 1795729840.0,
+        "tag": "JGB",
+        "first_seen": 1795730445.6224806
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUFp5c3B2YVBzTXBqY2RrLVZVNU54Sk9fb3F3cWNnU25mQnN4dU1yZ2FlR1k5Y19hVUpJOG0wcUdOUW1EVDhXb1p1MXNXZUhPdzdfZ2d4Q0lWNTNTX0ZqaGhpT01nWFUwLVpqTm1TSnVkOU4wLU9tVy1FSTYxdFFZUGZVQTAyX0hr?oc=5",
         "headline": "27조 쏟고도 160엔 위기…엔 매수 비웃는 달러 독주",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795676135.0,
         "tag": "Global",
         "first_seen": 1795680042.294837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1jOHhDS3pHZUIweTN3bEhCaU42QXFNSElHeG53cXI3MWtuRXZHTWExRnl3enp1d0dMZVJWRXRnRUptQmxYMjhjWHEyTjJOcjgxYlg5THFUdEtkT3IxcEFmdUVvYmx0Wk9rYTR2N2g2b0lTUQ?oc=5",
-        "headline": "[도쿄증시-마감] AI·반도체주 매수세 속 막판 상승폭 축소",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/26 15:53",
-        "published_ts": 1795675999.0,
-        "tag": "JGB",
-        "first_seen": 1795677329.3660247
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 06:45:54",
+  "updated_at": "2026-11-27 07:01:08",
   "yields": [
     {
       "label": "3년",
