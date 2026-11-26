@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZFBLckJLd2FzNDVqcTgwOEhVUUJfV0pMSHlwNHFKTzE0OG05VVBxeDVGVjMzZGhVb1NxWkdvdDZ6MzA1OUh0UzIycWxjUmxQdXI1ckEtOWl3bjBjbFZLVTZCRDZCTDJGb1RNcEp3Ykg1dVdZZkJOejg3aXpQT1NZT0x5VlNhSzVS?oc=5",
+        "headline": "일본은행 매파의 2% 금리 경고…물가 상방에 속도전 주문",
+        "summary": "",
+        "source": "글로벌이코노믹",
+        "published": "11/26 13:33",
+        "published_ts": 1795667623.0,
+        "tag": "JGB",
+        "first_seen": 1795668324.95384
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaHVmdzJYaWNYcTF6SVA0Uk5FTlBHTmdiNHhrb3JrSGRUZzlNMVdxaUJ2NEt5ZWphRFBvdjFNaXJsVU9OZ2VTVlRlVUFBaGVJSFp2c3dKRmEwWjdFTndLTHJHMkVJMEhaeEZJd2E1djlsdjB1RFczNW1BOHVLTUxSQQ?oc=5",
         "headline": "日 생보사 환헤지 43% '역대 최저'…엔화 방어에 역풍",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795625042.0,
         "tag": "Global",
         "first_seen": 1795626046.703561
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5JTHVXc3dPVXJJdWVwUFhJZE4tSmNWVTNKclBqMjdWUXZ1TFQtS2FOZEpXbDdWNXBuY205SWVIc0xyVGtobElKMlRRMUpHc0VWSE9iZl9yeUlSOV8wN2h4LUNTN08wZnAwajNFdjlaai03RTM5bFE?oc=5",
-        "headline": "Oracle Shares Plunge 8% as CDS Hits Record 356bp, AI Debt Fears Spread",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/26 01:35",
-        "published_ts": 1795624500.0,
-        "tag": "Global",
-        "first_seen": 1795627846.3941283
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 13:31:00",
+  "updated_at": "2026-11-26 13:45:49",
   "yields": [
     {
       "label": "3년",
