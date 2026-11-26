@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQV0JLRW8xVnYyOWotdjFRRmVvY2NxcXhETm02VHIwdDZNRUVpenN2Um81Ni1ia1BRdVhhWFdKbkN5MThJZTl2X3VBWDZRSVVYWUFMcHRWTDk4WTltNWFJdVZadWhUZnBjeDhpU3ZmNG42VGwzUWhNNHAyNFo5Z0M0ZmlsR25yZmc1?oc=5",
+        "headline": "Bond markets signal on inflation and Fed policy, Lance Roberts notes",
+        "summary": "",
+        "source": "Traders Union",
+        "published": "11/26 12:05",
+        "published_ts": 1795662313.0,
+        "tag": "Fed",
+        "first_seen": 1795664727.5260267
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WbkJJUTlZY29IUU1hWnFPTWpVUDlMcW9ualVYczFmdDNzSzFfcmxSc2lkV09yakxwMnV6TTFPTmxPcllnNDF1aE92TFBiekluUVhEa3FCTHJJM0tEV0ZHVFNQTXAtWEhlSlZGeUpGVk1GWFBN?oc=5",
         "headline": "U.S. Core PCE Inflation Hits 3.3%, Fed Seen Raising Rates in December and January",
         "summary": "",
@@ -1668,6 +1678,16 @@
         "published_ts": 1795657380.0,
         "tag": "Strategist",
         "first_seen": 1795658443.4500794
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5Rak84TTVmR0g4UU9XWml2R0hVTzlCRVJfbmxFVEZaa1Q2N0gzcVM3VjlQRG1xcFp4aWdFM3UzN1ZTLUl1bFlKVTBwUi1xOEx2OWRaMGQtQ2I3TTVNZUV5Z1hQNThZQTlGQ3lVcmZsQjZKZw?oc=5",
+        "headline": "BOJ 위원 \"정책금리, 중립 수준까지 조기에 올려야\"(상보)",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/26 10:33",
+        "published_ts": 1795656826.0,
+        "tag": "JGB",
+        "first_seen": 1795664727.5260267
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZGp1dXNTRVF6OVViYV9FcjMtRzBLU3VMWE9XRWtPQl9SZkpkN3RfNmF5UXVNbUhpQnZvLUo3NlFxcTNNRFhDRkYzbENvQXZ3UE5lN01XR0dWbmN5QUprN3RqZjNfaXFUNmYyckxYRFExNG02blRySV9pWGZDRllDcGtqWXJzWFdKOVZVYlZoMDBwSWVmMUhpUi1CaHpvWnB5WXY1ODNzZWRoaXM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795623830.0,
         "tag": "Global",
         "first_seen": 1795628727.9080684
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdUdBTGhVT2V5cDcydUZMX2NTdTkxVDBJSHdCMUgwNXBibGhQc28zdktpLXA2dGVUYzRzV3hpMld1U29KempSNUswd2dNYVdITlFxV2NycEkwbnlpZkdPSDNicVRKM3NCU2l0M0hoWU13UTZkbTAtX2JFempxaUtFbjdTZGMxT2lXM2g3dkR4cy1UYnVfZ09kOWpTNGxtUEZZOTRPaXhENlZ6OGt2ZF94d0RCVjdOSldfc0E?oc=5",
-        "headline": "Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St",
-        "summary": "",
-        "source": "Reuters",
-        "published": "11/26 01:09",
-        "published_ts": 1795622989.0,
-        "tag": "Global",
-        "first_seen": 1795624234.7186296
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWk11Y0pvbncyT0tVYjFuTjZBUTZvQ21qTWliUkJPRXpGV1F6cDZPbmVTN1RvTG1Ta0ZzVzYweW9CU3A0S1U4Q05KUkVvWVFWQU4zRk9OZ3lNRzZtTjFBdlhhd3FwMVFmM0xYRWVKdkw1XzJJaFk1aFk2WG43aDhXcF9tM1lJckY0cXBOaG9EN0JJNmt3SkpIbTVSXzlkc2FocWVQNWJRR25Oek1TOV8xU2NuYzZZT2ktNjZMMHNBbFVmbzFQdlRVRzhmUVg0UjF4TVZNX3d1MXY?oc=5",
-        "headline": "Bitcoin investors urged to watch Japan's monetary policy as the BOJ tightens",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/26 01:05",
-        "published_ts": 1795622714.0,
-        "tag": "JGB",
-        "first_seen": 1795649433.8646343
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 12:30:55",
+  "updated_at": "2026-11-26 12:45:51",
   "yields": [
     {
       "label": "3년",
