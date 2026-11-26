@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oOUpIUnNZOUFta1RIR3RweTlYM0EwVmhsVWlzOFJMSjRnVUtONXNwbnlGYWhpSkpMR3JrYkp3aDFGNzJxbmgwMjRocVJLOGxC?oc=5",
+        "headline": "S&P, 엔비디아 신용등급 강등 검토…\"이사회 독립성 우려\"",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "11/26 17:05",
+        "published_ts": 1795680348.0,
+        "tag": null,
+        "first_seen": 1795681847.503066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hYnJGNGVaVktEdVNwTmxXRVdxbjFaQms2TGN5bFVyUXNoZFpqQXV4bFU4NlgyNWxoQm5ELVllZzNzOVhLdGxhYTFUaEYyY0NyQkhBTk1xQVNKWl9TWVUwT181NjN4NEpIcHJsN2VaYlJmZw?oc=5",
         "headline": "[채권-마감] '점도표·성장률' 생각보다 매파적…국고 3년 3.9bp↑",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795594201.0,
         "tag": null,
         "first_seen": 1795617034.6648192
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE43aDR2R2l1eEpfbUkwcFhTR0wyb2FmV3d4SHp1R0hBMEJyWjEwSjlncC1LZ0dTVEtabk5zVHNqSlFZZy1WTVlLQnJjSQ?oc=5",
-        "headline": "채권시장 훈풍에 국고채 금리 일제히 내려 : 금융",
-        "summary": "",
-        "source": "재경일보",
-        "published": "11/25 16:51",
-        "published_ts": 1795593108.0,
-        "tag": null,
-        "first_seen": 1795594530.0555654
       }
     ],
     "perpetual": [
@@ -1208,6 +1208,46 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9ORHZtdTlyd3VQZFBNa2VLb2F0STBFTUdrV2VEd1dFNUJEZnBFanFnWFp1MHFHX2M2d0Z5ZlByV3ZTc2VsOWpTUWNLSUtWdHRrU3d2MjVNdmFXOGlt?oc=5",
+        "headline": "李대통령 \"정부 지원받아 성공한 기업, 이익 독차지 안 돼\"…'성과공유형' 재정지원 주문",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/26 17:25",
+        "published_ts": 1795681500.0,
+        "tag": null,
+        "first_seen": 1795681847.503066
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1TEdGejhYVkVMZlE4TDUyVFlYdUVIUWNKRGxMbXhPbzJhOEdxaktUR3JhRlJ5RlFwSzdEVF81S1lxNWlvZWU1MGNzZ3Nob2NGeGozdl9uYnpsWUw3dnFrZ2VaVkJRS3VXdGh3dNIBckFVX3lxTE1nSjFVVldwaGNvZkV0UURydGotSkRyUV9ZZjd1b2JPYk41dlZTVFRRbXdqZmJvSi1yaWhhM3VvYWdJWUJONU9EdFczRVA1a1RoQ3AwNEM0OF9OOVhLX2VuQmZVOEVIRWp3cERPTVV3cjRjdw?oc=5",
+        "headline": "李대통령 \"정부 지원받아 성공한 기업들, 재투자 가능 시스템 만들어야\"",
+        "summary": "",
+        "source": "머니투데이",
+        "published": "11/26 17:23",
+        "published_ts": 1795681419.0,
+        "tag": null,
+        "first_seen": 1795681847.503066
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FeW1xcHY1TFNOd2RHYWY5cXhrSFBMR2h1SHpRNmw2cWotT2tsdi1DOXBtbUR6WVdaLXlOaUVadjJ4RmVwT1FoanFORHh6UFhpR1RxcVZ6dlpqYXM?oc=5",
+        "headline": "李대통령 \"오늘 한 걸음이 훗날 천걸음…7대 시드 규제 과감히 풀어야\"(종합)",
+        "summary": "",
+        "source": "뉴스1",
+        "published": "11/26 17:21",
+        "published_ts": 1795681265.0,
+        "tag": null,
+        "first_seen": 1795681847.503066
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ydlFDc2ljRlF6NHA1eXZyUHlyck8yTGtDYjNDMDBvVWw0N0J4YVpwUTVvazh1cnBKTTJtZlIyYTU0NzdFekctQVZUS0hjNE1MUk5nOExlUTVLd9IBWEFVX3lxTE1DZ1h2LVRfRWxfdi1ZZEhQVWpYanF5a2RCSU4zMmxwSWZvRmZrT1U5eTFGLWF4X0VDcGNjNXVYaXNPZ0JXdWZFVkR2Q0RCSTVaWVc4X3UtSHM?oc=5",
+        "headline": "李대통령 정부 지원 성공 기업, 이익 독차지 안 돼…재투자 시스템 마련",
+        "summary": "",
+        "source": "아주경제",
+        "published": "11/26 17:11",
+        "published_ts": 1795680669.0,
+        "tag": null,
+        "first_seen": 1795681847.503066
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBiR2VsOXBlX1AtUTBHMHNkNmFZc0dhQlN3RlBuWU9YYlZmYWIzVkxYTkxFYUxJampKU3BXbmVINk9Ma3NYMGluR25zeUdRTE5LdDYzcDI2QmFZZVQ5b3ZORE11R0xmeDFjeUdzQnNyNjk?oc=5",
         "headline": "이재명 대통령 “공적주택 연평균 24만호 공급”…2030년까지 주거안전망 대폭 확충",
         "summary": "",
@@ -1566,49 +1606,29 @@
         "published_ts": 1795171860.0,
         "tag": null,
         "first_seen": 1795172442.6448212
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1CeDBOTl9LVkxiYXRJeGxjaWNJZ2sxY2NTTmJwQk91a2RmV0xvRmNYZjB4aC1rX2dHMUwzN1pTNGVXWUZUX1p0RHVPallFeFBodWlPR0p2WDFVZkFJSm1ZNFJ4RDBZd1ZXellma2R1c3NUZw?oc=5",
-        "headline": "국회예산정책처 “소방 인건비 부족분, 국비로 메우면 연 3~7조 필요”",
-        "summary": "",
-        "source": "한겨레",
-        "published": "11/20 14:39",
-        "published_ts": 1795153140.0,
-        "tag": null,
-        "first_seen": 1795153523.7429292
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFA0LWxwbTVsc0FFWUJ5ZHJwNmJpR3FaWHJleGplS2dVVWV1NlAxd1gyNF93bk5HMGdRNTNVaHZLRXBTajlOcjRxT2Q3aw?oc=5",
-        "headline": "이재명 대통령, 수석보좌관회의 발언",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "11/20 14:28",
-        "published_ts": 1795152515.0,
-        "tag": null,
-        "first_seen": 1795177835.8128605
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wU1lXdGctbm9ULVBVZm1XYVpoM1FURHhNdm4tZ1poSVd1UHBKRlNacXIyZ2g2VzhNNFFib2VKT1BxX2dLczFCeW95OENBRnV6WnBwZnFXYzZoUC1PRjhEQ3hOV2pyXy0tVThzVzZB?oc=5",
-        "headline": "증평군의회 민광준 의원, 재정위기 대응-공직 활력 제고 촉구",
-        "summary": "",
-        "source": "국제뉴스",
-        "published": "11/20 10:44",
-        "published_ts": 1795139055.0,
-        "tag": null,
-        "first_seen": 1795140040.5210843
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9ZYUQ2eTRwbjA5WDhQMk9DczFKQW1PaWppcnZzVGxocDUtUEhZOWdmSms5ek1Ic3dMQWlRTWNIbXBsNzVYZjREbmZMbkcwTzBicjFr?oc=5",
-        "headline": "침묵 깬 정청래 \"최민희 징계 반대, 김민석 해당행위\"…명청대전 재점화",
-        "summary": "",
-        "source": "네이트",
-        "published": "11/19 04:32",
-        "published_ts": 1795030320.0,
-        "tag": null,
-        "first_seen": 1795283124.6286306
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbVBWT3VYb2FBV29vdHRnSHRSQXpkVVh4eEhueXd2SUVzTzQwR0xjWGx2ZXRSbEZSRjF0dl9BcFUycDhZT2ZVYVlrRGdhZUFTQUQ2Ng?oc=5",
+        "headline": "AI주 저가 매수세에 아시아 증시 상승⋯닛케이 0.8%↑",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/26 17:11",
+        "published_ts": 1795680660.0,
+        "tag": "JGB",
+        "first_seen": 1795681847.503066
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYS1QdmdPV24wR3puUkJmeUlfVWk1WjJsLUxvaXZNajRqeUNFamVHTEdqUThzQlFsVDdLXzllOFdPcGJuT3ZxZFc0UHAyYjh6ckoxRjF5b0YyYnBnWWtBc2JGMHlzTU11WXEtZmJ6ZkxJTE5sZGRfc0tuNVpnZjliYm9fQTJCdw?oc=5",
+        "headline": "30-year rate slips, but stays atop 7%",
+        "summary": "",
+        "source": "Northwest Arkansas Democrat-Gazette",
+        "published": "11/26 16:48",
+        "published_ts": 1795679280.0,
+        "tag": "Fed",
+        "first_seen": 1795681847.503066
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUlVTQ1RnZ1FGOFp6N2VDZE1zdVByRGdtcy1ZbEhTX3JIcWhrZTRhYVVkdzNiUFJtVWJPb2ZOUnVMZzFTWkNDZS1Db0RnQWJtajdPU2ozelJnYTNKWTFWbjBZQlZXTDlSdTdUQ25tcDJadXhHRXRvdWRVRVBPRlluMWlXU3RpRUhhSWxUMmdYYVZxMVlhU3NUQW9zNDEyUmNqaDZpUDF5M05iOUpuWWJtUkdZX2ZCTU9Xem90bDNJWEg?oc=5",
         "headline": "10-Year Treasury Futures Stabilize Ahead of CPI: Is Bond Selloff Losing Momentum?",
@@ -1988,29 +2008,19 @@
         "published_ts": 1795655081.0,
         "tag": "Global",
         "first_seen": 1795658443.4500794
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAyVjQ5a2pZQkZiQnFEQTRnVFRjVkxkVVVjNVNSZHhfdEdxcWZpOE94Q01tbGxTaS1EMzhLQmE4cWRUUTJfN1JVV3V0bk5sVTM1SkotTTR5cnk1dEHSAWBBVV95cUxPc21aSGtsRkhCWk5qcUN0V1o3SUFxNXFhRTlHMjVtMkdUVG1CZENjdHRqcFk2UXRBNkdIUjVWYWFXU0l0S3ZUYWw1eHpFVWZHMGFIM0NtZXJJN2FpTzUtcV8?oc=5",
-        "headline": "반도체 호황·물가 부담에…한은, 기준금리 3.25%로 인상(종합)",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/26 09:52",
-        "published_ts": 1795654332.0,
-        "tag": "JGB",
-        "first_seen": 1795654840.9921095
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PR3NYY3pocEltSjZtY1pGS01JQ0M5Z25Cbnh5aGxMY3c0ajl0ZDlHcjRTRUxDYlplYzVsNFZ4QWllc2hIYzN4NUtkS0NlZlcwbVRjZlZTR3Fsa0tWbjMtWGltTkNKQzZKc2V3UWRIbm5nTTFv0gF0QVVfeXFMT1BSbHpoQ2hIa214MlBta2hoVHNGYnFpamlIX3Jua04wd2thYzdSWUVITFVXNUR5cEhNVl9lSFhQdWZ0NUNDYXVnWVN0b1FsZDZ6aXJuaXhBbzU4WUYyd25UNmdOekYxTXd6Ul84Y3dkUWwwX0Y?oc=5",
-        "headline": "[속보] 한은, 기준금리 3.25%로 인상‥내년 성장률 전망치도 4.1%로 상향 조정",
-        "summary": "",
-        "source": "MBC 뉴스",
-        "published": "11/26 09:51",
-        "published_ts": 1795654269.0,
-        "tag": "JGB",
-        "first_seen": 1795659327.6594386
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jX2lLRWpJRlNseHpfcTBJUFJremJPLURscWtsVl9uM05YcjhSRVJ3eGNTaTMwZDdFeHhpS0g4Z3hXaEhQS1k0SEl0aUZOUGlYUlRqUFZ6Vkk5VWZJNjZsX0lhdm16VG5H0gFsQVVfeXFMTk52eFlqUE1BUWU0X0RkTVlKX2czcVFleklKdVdod3FKWFRiLUJZNHltMVB3dEZ2YVlET2F2UmVZcUdwRDdxb0FJMXJYcTVDMEJOSUVyVTN3ZTJmd1ZUMlNObG83S09VVjM4enpR?oc=5",
+        "headline": "농협금융, 우량고객 직접 육성…신용도 개선 땐 은행으로 모시기",
+        "summary": "",
+        "source": "블로터",
+        "published": "11/26 17:15",
+        "published_ts": 1795680918.0,
+        "tag": "삼성카드",
+        "first_seen": 1795681847.503066
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ycC1aTldQYTVuWENLM1A5UzhjTkx6WTEyOTByNVV4d3R0cVRsY3hUOUl3a0hrc2g3RzZFV2xvb3BCLVh4bWhFTVpuM2tCZHN1Ry15ZXFCNWhGWmMwQUhlV3BHVzhBS25EZ2VOeUdJT3RMNTdt?oc=5",
         "headline": "카드·캐피탈서 은행으로…NH농협은행, 새로운 포용금융 모델 제시",
@@ -2400,20 +2410,10 @@
         "published_ts": 1795574457.0,
         "tag": "현대카드",
         "first_seen": 1795575641.593043
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ZcHpMLXdHVHBMZF8zQ0RyWGJsTDVyZDVtaDF6TEFRQThPM2hRdzJIRzduNW9YLXlEOGFtdnQteTJjV3J4cWhUeHIyaVpFVDRMV3IwUXZ5bjVQdFVoZ1hGdUJ5MkxTZEZtWWRwUU5ENWjSAXRBVV95cUxQQTJ3bE1nS18xVmFyOS1tYkFqaDJ4RTg1enNTNDRjUy1WekVsS0ZxZmpNd3NWaUtfd1ZnZW9uZ1R4YmJfeFg1R3JPdUJkMVhldGVUTExNa0tQQ3U4bEtRU2FoVTBGeXliVHV1bTI1dk1KMjJhdQ?oc=5",
-        "headline": "다올자산운용, 현대차·삼성·LG 로봇주 30개 압축한 채권혼합형 펀드 출시",
-        "summary": "",
-        "source": "우먼타임스",
-        "published": "11/25 11:39",
-        "published_ts": 1795574393.0,
-        "tag": "삼성카드",
-        "first_seen": 1795581034.7205515
       }
     ]
   },
-  "updated_at": "2026-11-26 17:15:54",
+  "updated_at": "2026-11-26 17:31:08",
   "yields": [
     {
       "label": "3년",
