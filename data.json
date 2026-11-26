@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdkI0VTF5emlYUWxtcXhYUXowQlFua1ZzNXlGWjYtUjFuSFJtQlFTR1lLSkN6RzNSSXNLbWttcXAySVRVbVZuSDN2MXRoWmFRTGlldUVWcldIWmd4ZmxEd3BOeVRwQmJ5b2V0UEQ2UjA4TkdJQWhDMmoxeU1iaTdrdWdYS3o2TVFVUzIyangwSEV6UHYyQzZ4ZE5VUjJmbHJyZ3J6NE82NTV5U3Z2UTJiMlBzMUdRV3N2TVNhRXRHUTdLS0lqN0ljQ1VjbHVhZjc5?oc=5",
+        "headline": "Mackenzie Investments Widens Corporate Bond Fund Mandate and Updates Sustainable Investing Policy",
+        "summary": "",
+        "source": "kalkine.ca",
+        "published": "11/26 22:35",
+        "published_ts": 1795700158.0,
+        "tag": "Global",
+        "first_seen": 1795700727.2991977
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMGRZTVNIc1loWXpVYkE3TDZldGRxUTQ5MnBIVWpQVEJaSGJ1N1hJSUlsZGRFM3E4VE5PVVhWTnhGRFBQYXJKT3V0YVdZQkh2OG9jUUhPdU9SSnJrTFYxd2k5SlI2RW85S20weVlkSndCd1dIZjVPbGYwazBFaEM5dHQ0ZzNYNjU2ZG0wN00zZWVRZUJBMFc2ODB5ZEM?oc=5",
         "headline": "BankThink A sovereign debt crisis in the US would quickly go global",
         "summary": "",
@@ -1618,6 +1628,16 @@
         "published_ts": 1795696200.0,
         "tag": "Global",
         "first_seen": 1795697133.0743163
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaTJjSVUzbHRwMXpCOVhoY01vdVZwU3JDTk8wUUNkNUhwblRoOTFFQ3lyT1JlRzFHX2ViNDB6WHFZb0dkOVNad1ZyMVZIOHJ0dTFnQ1JTdzY1UXEwY254UTZHTnh2QVk1d1doaldVWWNvNEhxRTVuck9FckpOWDJSMVpVUXVmSFMt?oc=5",
+        "headline": "Capital Market Outlook 2027",
+        "summary": "",
+        "source": "Deutsche Bank AG",
+        "published": "11/26 21:16",
+        "published_ts": 1795695364.0,
+        "tag": "Global",
+        "first_seen": 1795700727.2991977
       },
       {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSndRcFItdUUwVWZwdDZUOUxlUmpRVHBuUUNwT08wZzVZck1MNWhueWdNSUc5TmRJTTFCOEVhX2lKUWZkWEdybmNhTGctejJmTEZ6bzl2T0U3VzIzdFQtZE5oT191bVJ1OV90YTBRcWlyX0FnQjIxQnF4VHhRcmRhelRLelJyajhn?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795664027.0,
         "tag": "JGB",
         "first_seen": 1795687242.8070278
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lUkNXaTdHTk5RdU9nVWRlZ2hTSDlad0drZGdraXIyU1U0a3QyRnR4ZEdGRmhLQnhnaFM5SzhjNmQxZXZPSWtXOHE4QUJqQzkyV29CekY5cG5NUQ?oc=5",
-        "headline": "You’ve put money into SRS. How bond ETFs can help build a more resilient portfolio",
-        "summary": "",
-        "source": "Beansprout",
-        "published": "11/26 12:24",
-        "published_ts": 1795663444.0,
-        "tag": "Global",
-        "first_seen": 1795680928.6883705
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5SUUZRcjNlQ09BOUg2SGtobXdUczBQblVKcmpMNVBLbU1EdG5SSGdsX3UtSEJSYzhtdW50V0I3dzlmeUFvWVczY2Y2ck44aGRyU1JWdmZrak50azJUU204Rw?oc=5",
-        "headline": "Lance Roberts (@lanceroberts)",
-        "summary": "",
-        "source": "Substack",
-        "published": "11/26 12:17",
-        "published_ts": 1795663056.0,
-        "tag": "Fed",
-        "first_seen": 1795669238.9967911
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-26 22:30:57",
+  "updated_at": "2026-11-26 22:45:47",
   "yields": [
     {
       "label": "3년",
