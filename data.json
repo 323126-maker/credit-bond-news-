@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBvMUs5OS1BeF9mTFpXVThZNF9BQUhCTlJVdXlfQXZBNE1kX0ExUnFGSmVXZHZLOWxCSE9qOWtxY0tuOXVjdFUwRjdSQ3ZuTnZYNG11Yw?oc=5",
+        "headline": "무디스, 네이버 신용등급 ‘A3’ 유지…“AI 데이터센터 투자 부담 감내 가능”",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/27 18:09",
+        "published_ts": 1795770540.0,
+        "tag": null,
+        "first_seen": 1795771836.672979
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1WZ0Jvak1vekExMTZsRnF5akFLNGo1cHZYeHNYMGc2ZF91cUpkX0M2ZDRNV2M3QnIyMDR3LUVRUmFhR2NkU0w3TWZfekZ1eGlWWnJPSDRGTnZiU1ZwMF93ZWxuMElyQzdYbVFHSWFYdVg0anhH?oc=5",
         "headline": "[채권마감] 장단기금리차 1년9개월만 최저, 금통위 여진+증시 랠리",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795660140.0,
         "tag": null,
         "first_seen": 1795770928.5422533
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBJeFFyWjh5VVlEcl95YjE1X0tPR2V2YzdQbWtOSnZiV1YwQjJBVWJKc1czdWlDQnpfUTZ4Ynl6QnZ1ODFXOGRjVkYxLVk0N0lvS2M4Uk5rNHIwSzJ1aW9XQzRnYw?oc=5",
-        "headline": "美 코어위브·엔비디아 신용위험 사상 최고…AI 투자 수익성 우려에 빅테크 부채 시장 '흔들'",
-        "summary": "",
-        "source": "더구루",
-        "published": "11/26 10:53",
-        "published_ts": 1795657994.0,
-        "tag": null,
-        "first_seen": 1795658443.4500794
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,26 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUg1YVppVWdNdWJHUW4ydXQ4N01DY1UzcXJpcVZLZW1UeENuRHR2bm5uaW1FV3YwWUFzNVQzcWp6Njh2QXlpNnV2d3lrYlRZeHU1ZUhaQ1lyVGlqZnRIcHh6NmdZRlM1S09VYVRhTXI3TTU2NUtaUlAxNW5ZbEZCZlFwR19YWTU4ckx5b2E5eWlROWJtcWdFWVdKRnhIeE9qTlZjTzM0R3M4dlRSeHpkRVktN09LLUU3bjNBcjU2QjVRUQ?oc=5",
+        "headline": "일본 엔화: 시장 개입 위험과 일본은행의 금리 인상 전망 – OCBC",
+        "summary": "",
+        "source": "www.tmgm.com",
+        "published": "11/27 18:22",
+        "published_ts": 1795771367.0,
+        "tag": "JGB",
+        "first_seen": 1795771836.672979
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNUQ2dWl3MjU3dV9qUnRabE1faktrMmlwaXkzZXRGRVJyVnN3dU11d0RTenNteGJrSElPX1YzUURpMW5NN0dBelJrSkxtalItMkh2MnlRbldJa1RGQm1MNzktZjdaeE9NekMzVHJnTFd6akg5VWFYcTFLOHFxcXFMQ2hoTzJyV1JWbmZSckFTQjhtalhGWnAyOWRaVFBsd1hpaEp5UkhMRURSQXBJQk56RlRFMGtDNFJHZTFtcG1YY0lYUks4STNwd1Azbw?oc=5",
+        "headline": "The Latest Interest Rate Forecast Is In, and It Spells Trouble for a Historically Expensive AI-Driven Bull Market",
+        "summary": "",
+        "source": "The Motley Fool",
+        "published": "11/27 18:06",
+        "published_ts": 1795770362.0,
+        "tag": "Fed",
+        "first_seen": 1795771836.672979
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMXlOMDBxcHNSZk02TmVoWXVSOEtPUWEtRTBFMWxOcU1Wejd4WTktOUhibzB2elFCbVlHeTBWeGZCeFRibHZhWnlVX29NcG9jaXg4bjhkOE1DR2I3cVNoZksyVFI1c0J1TUJGLWEwT201LTdVTWc?oc=5",
         "headline": "Warsh's AI-Era \"Greenspan Moment\" Hard to Replicate: With Real Rates Near Zero, a Sharp Hike May Come First",
         "summary": "",
@@ -1988,29 +2008,19 @@
         "published_ts": 1795722097.0,
         "tag": "Strategist",
         "first_seen": 1795723241.83614
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ25sd1hlcGlCVEU2X0w3SDJUQWVVV0ZpTnBzdThUZUVLblZ4aURpOTlobm84XzI3U042OS1VeWNudWxlQ3RXME80bXU4VldEM2pucW1HZDZQcUNwMkZoWGUtNEJYbklxYnJZX1RScUhuMDFQYmtSUnBUcS1xVGVNaEhBRWFnMHF2X0ZWMU1EX2lmSEdxV1k4RU83eXgxd1hrWnd5dVF4OXhDdUtUQ0lrZGhfUzJnd3ItWlJmWTdJd0lDMXM?oc=5",
-        "headline": "Fed rate hike odds rise to almost 100%: can AI selloff force a rethink?",
-        "summary": "",
-        "source": "TradingView",
-        "published": "11/27 03:12",
-        "published_ts": 1795716770.0,
-        "tag": "Fed",
-        "first_seen": 1795724124.684504
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPY0ZxQzFWdUZnWEdMeFFScDdLYVpfRkZpNEZidkdtWHIybHdNemE1c3RudTdwbWtnbHJnZmd6cHNvLUNXU1ZkRzA3NE1LeVJnYll5NmpqeTNRdGZ0a0c5R3F0bVhOWk4wS0M1bUpTNFk5S0hCWHRNY0lBREdsb0l0VlFmV0VnaDFRRm1kOFlXb3p1WTNQ0gGaAUFVX3lxTE9sZ3Fpb1FscnNRVVZGRmdQd0JIZ0tNaV9KZjFjSzVFb3ZCTWVEVDF4bHM5SmFtZk4tYkpDRXM1XzRhaHVFTTJxeWRfdFQ0SWZfSlVVd1E3RnJlRktMMS1jb2htSDYxTkpLemZ2VDluZUZmZ0xnS2ZkdU81WXdEeWQ1dUJUOGZxNkx0T0V5Ql9sZHgzRzN6aGdmcVE?oc=5",
-        "headline": "Federal debt tops $40 trillion. Here's what it means for your wallet",
-        "summary": "",
-        "source": "ABC News - Breaking News, Latest News and Videos",
-        "published": "11/27 02:52",
-        "published_ts": 1795715539.0,
-        "tag": "Global",
-        "first_seen": 1795745724.9458873
       }
     ],
     "watchlist": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KVTFXTUljUG1URU10OGw4WFFRc3czUnJxTFpDa0x2eDNuUVRWbWNxZUd5NnY4eHUzRkV6UjEyemg3OWpiRVBVMmVzWGY3Nm9rQ1UxMGxRZ1pzbTVhUFVMT3BoYw?oc=5",
+        "headline": "우리금융 자회사 CEO 인사 살펴보니…7곳은 연속성, 4곳은 전문성",
+        "summary": "",
+        "source": "조세금융신문",
+        "published": "11/27 18:14",
+        "published_ts": 1795770870.0,
+        "tag": "우리지주",
+        "first_seen": 1795771836.672979
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FQkFZeVh0dHhGSGlITU01LUlaT2hRaWt0c19DWnhuT3cxS2lMUVk1dXZaUmVCZTFIOERNWFFxQXpXT1hfNnBuWERDWWlnV1JFajJqVC1iY0hwZGtnWTVZNmphUkMtNzQ00gFsQVVfeXFMT3hHaWl1YWlwNFpYVFQxemJQdEx5OEU3OW5IWnd2YzVhd2dZaGhIS2tBS1FIVUdEQ3ZmWGN0N3JIaGVlcEk3ajJqbmduUmllQ0tRLVdfSkFQOFotVmpSZzRHOUFLTHNkQmFoME5x?oc=5",
         "headline": "롯데케미칼, 신용등급 AA→A 강등...사업 재편에도 차입부담 여전",
@@ -2400,20 +2410,10 @@
         "published_ts": 1795668376.0,
         "tag": "우리지주",
         "first_seen": 1795690844.508249
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5RldnVFZoYVV6SjRFYjJCZ3Q2QWV2N1FLUlBpMk4xampxOFRHT2lyRE5aRVczMWdlamxBbnNCb3kyTVdSc2J1UkcwR016NnVxcFV0NF9CUnVCOFRyUlUxdW9VZjBBZzhlaE1kMUJIVVlkLWh40gF0QVVfeXFMUHlGV2dUVmhhVXpKNEViMkJndDZBZXY3UUtSUGkyTjFqanE4VEdPaXJETlpFVzMxZ2VqbEFuc0JveTJNV1JzYnVSRzBHTXo2dXFwVXQ0X0JSdUI4VHJSVTF1b1VmMEFnOGVoTWQxQkhVWWQtaHg?oc=5",
-        "headline": "[진단_카드업계 ⑤현대카드] 실적 성장 속 신용비용·리볼빙 증가…금융소비자 보호·노사관계 과제",
-        "summary": "",
-        "source": "뉴스워커",
-        "published": "11/26 13:30",
-        "published_ts": 1795667405.0,
-        "tag": "현대카드",
-        "first_seen": 1795676441.1052952
       }
     ]
   },
-  "updated_at": "2026-11-27 18:15:50",
+  "updated_at": "2026-11-27 18:30:58",
   "yields": [
     {
       "label": "3년",
