@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuc2RZMi1KcUFQUDl5R2xoZmx0eS1ESVJjMVU0NXVoRXVITGZXYmZJZFBzeFNvYnRTRGx4cUNHVVRhZHA3Rnc?oc=5",
+        "headline": "한화토탈에너지스, 국내외 신용등급 잇단 하향…경영 정상화 과제 부상",
+        "summary": "",
+        "source": "뉴스충청인",
+        "published": "11/27 08:58",
+        "published_ts": 1795737480.0,
+        "tag": null,
+        "first_seen": 1795738531.9385352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JMVBCeEUwcnlKczFTT29zYzRMUkxWTDZkOHdpLWNhT2U4M3g3RXZmcGwzVnk0UFRwZm1adWYwRzhXTVloVmhiSzEtZ0lLXzhWLWhXMUUwaHJTQQ?oc=5",
         "headline": "Fed vs 시장, 누가 먼저 물러서나 [빈난새의 빈틈없이 마켓]",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795640858.0,
         "tag": null,
         "first_seen": 1795646635.3134723
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE82Q3RrU3ZCMHNQUHM5eVVTc0kyY0VlQ0dZclBTLXYzLXBPMWxQT09aQm83SGZyMVR5WTJjTnNyaTVFSGdzT3NIN0l6U0RQWDIxSHpDUTRhODZEX3NKNGhCWkdVUQ?oc=5",
-        "headline": "S&P, 엔비디아 신용등급 강등 검토…\"경영·지배구조 평가 악화\"",
-        "summary": "",
-        "source": "조세금융신문",
-        "published": "11/26 05:44",
-        "published_ts": 1795639488.0,
-        "tag": null,
-        "first_seen": 1795650326.2071586
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YM1ptN1BwQ3BoRFQwS3hjUGZZYTlMMHZvdkZSVWI5MTk4WWE3aDdwQkF5ckFhanJpczBLZzIwZnB1VGJiQW1RLThmMFJSUnYwazNpNThEeTFZZ9IBWEFVX3lxTE5WQUxnOGZUMXNDanh3OFg4NHFFYUUxRW1pRU1HSXRfSlpHRGpGaUdPV1Z3NldETFE3bllrYjB4SW5KUmVhSjNwVlloLTBVY2I3S3M4eXJtVGc?oc=5",
+        "headline": "[국제금융리포트] 美, 대중국 관세에 물가 상승 가능성…0.3% 높아질 듯",
+        "summary": "",
+        "source": "아주경제",
+        "published": "11/27 08:51",
+        "published_ts": 1795737069.0,
+        "tag": "JGB",
+        "first_seen": 1795738531.9385352
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWmM4bkVVMHItTmU0ck9Gd3BJVDFDZ3FxN0Rjb05tWU14Y3ctOXRYajRRUGdqT0FwRERzdHBlcW1MTGhSb00ta25UU3NzX3FLVVNLbldOVVVIMGFHYURaNDVvNWh5TnFsRDVESUNiQjlIZ0hraWxEQUplaS0?oc=5",
         "headline": "미국 GDP 4.3%로 수정 | 26 11월 2026",
         "summary": "",
@@ -1997,16 +2007,6 @@
         "published": "11/26 16:18",
         "published_ts": 1795677500.0,
         "tag": "Fed",
-        "first_seen": 1795678234.7800617
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZE1XRHg1VXhGbUsyamhPUmE2ZjhDRDBVem4zZnJNX0F2RU9tME9ILVMyV195YVN5QmxBUFpCWU9GcUxvOUtqS1o2SkRCanZySTY4UUJsRGlselY2VWFYeFBsd05JZjZmb3FKX2tSZ0lHbHJBSjhLR0VtZUg2RjB2ZHBpVWN1LTE3SC1JWVBlYVlrWTQySzkyLThLWkZLa1ZoMTNIN3c1bllIbmdOU25OQVF3MA?oc=5",
-        "headline": "Janus Henderson Flexible Bond Fund Q3 2026 Commentary",
-        "summary": "",
-        "source": "Seeking Alpha",
-        "published": "11/26 16:15",
-        "published_ts": 1795677300.0,
-        "tag": "Global",
         "first_seen": 1795678234.7800617
       }
     ],
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 09:01:06",
+  "updated_at": "2026-11-27 09:15:51",
   "yields": [
     {
       "label": "3년",
