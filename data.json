@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YMFpDeXBwd2s1R0VGTThiNlpQNEpBM3pQTEVLWHJDenduZUhWUzFYZXBXVTZMSzNaNDByZjk0RklOblJEb1dSeWpIWjVKZjRkSm9SYlF3UQ?oc=5",
+        "headline": "SoftBank Default Risk Hits Four-Year High, Raising Alarm Over Debt-Funded AI Investment",
+        "summary": "",
+        "source": "https://economy.ac/",
+        "published": "11/27 11:14",
+        "published_ts": 1795745665.0,
+        "tag": "Global",
+        "first_seen": 1795746635.601693
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBaSHZnS2tHTUVSc0k3TGZzakJvSkZVWlBDUFpHNDE2cEVVMkdVelZLMXJzRENac2ttYVZWZHZZWFlNSG1LZ2phR1JsWEMyWEIyWmdzdG5RYUQxRDM0TnRteFZ6Zm5zX2VScktzWHVkaUlhUQ?oc=5",
         "headline": "\"데코스 차기 ECB 총재, 비둘기파지만 실용주의자\"",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795679358.0,
         "tag": "Global",
         "first_seen": 1795683644.0676372
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTzJYTGZmbVk0M1l6VDJqbDdTRF9kellGckI1SHpkR0IwY2dORjVLT0tNVHpadHZSdEdZM2hwM3ZUN0hjOEhOVDFweUFvNkI2R3llRjJZRUxrc2VVUjczWUdVd0lka003eGg2WkRQX0pvd3NGeEJmbG5BemJLYVNRaUdpS3c5T0ZTclBZcnpXbXZraTJ4aE4tSFdYWFRDcE1nVWlYRGhVSDRXSTZOeDY1MDNEdmlnSnd5UmRhR19Va1gwVzdOcVBqSXpJcjZrdmlfc1E5YlhJcHBxNjdMOWxQaHhnYXlJckJ3enIzaThCSW03RTZJSFYwX3AxeGppcFZTaXVaN1l1X2phNU3SAYQCQVVfeXFMUDAtSDJWODllckxVUHloR3gxWXY4TktvYWJkWlh0cy1Vb21CTG12THZiWWV2a284YkVHWWFPbk5wQ01fQmI0M1cycHRHTjBaQmZIcEluRTRtc0NCNEdseFBDcHB6S3NzalNGX2dSNnZXOFdsdU5pU2lTUks3Q1JONUQ4SXhlMDhka1JOcGRjUmhqY3BFWmcyUGZOcDJxN0pDVTVvMUdqTl9VcHp2X0ZucWJjMUFyLXA1bFRWLXN0cnBsVTJVeVJOUzMydUhsTWl5b1MxbS12ZTNqWFFpLUlrOWczX25Ldk43UEszVnNBU1RIUmJ3WkF1OTJYSVpmQ1lGMFdfb2s?oc=5",
-        "headline": "Japan bond yields rise as BOJ rate hike bets strengthen; Tamura comments in focus",
-        "summary": "",
-        "source": "The Economic Times",
-        "published": "11/26 16:48",
-        "published_ts": 1795679303.0,
-        "tag": "JGB",
-        "first_seen": 1795686332.5136166
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 11:15:47",
+  "updated_at": "2026-11-27 11:31:10",
   "yields": [
     {
       "label": "3년",
