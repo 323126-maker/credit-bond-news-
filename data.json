@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1md0NCTHhpLWM1S3RHTmZGSW5DMVdYNzFVazVWRUd5YXdBUlVtMWgtY3BrLTFNMWZzYnJzaTJIYnktZEdPWnRiZGRMZDFUdmhtUUNFZDA4VFhUM1ExbDh2TVdzYmlwLUpGcmJqUjB3?oc=5",
+        "headline": "S&P, 스리랑카 신용등급 상향 조정",
+        "summary": "",
+        "source": "국제뉴스",
+        "published": "11/28 01:17",
+        "published_ts": 1795796234.0,
+        "tag": null,
+        "first_seen": 1795797035.7446449
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0yUG9tNEo4ZUhWc2duVDZLXzZjWW84TTY5bUpyYVdsMVRxXzVMNS1NcnQ4aFpGTTgyWGFSb1hvbnNlSG5mX1VnNE1QaDFTcTllemR5U2I4ZGxjVkxaeUVTS0QyZE4ydjdFWHJhaDlfcDM?oc=5",
         "headline": "ECB 정책위원 \"향후 몇 개월간 추가 인상 필요할 가능성 커\"",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795686314.0,
         "tag": null,
         "first_seen": 1795794334.6415503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBITlpXSExaSnR1TlFROW1QOHBZR2lmbHg4ZWFTWHJPTVlZTm5mWjVWNE10QVY2ME1aQno1Q2M4NDR6OEtpM01scm9vOVV0OFEtMExTV1U5UzAyMXBrWUlwQjdnWkU1QVlwNVhvTFZQVUM?oc=5",
-        "headline": "[외환-마감] 금통위보다 '양방향 수급'에 방향 상실…1,340원대 초중반",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/26 18:39",
-        "published_ts": 1795685977.0,
-        "tag": null,
-        "first_seen": 1795687242.8070278
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 01:15:58",
+  "updated_at": "2026-11-28 01:30:59",
   "yields": [
     {
       "label": "3년",
