@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE44NmFPMVZWdkhOeVlaOHJYWlJqSHJQdl85OG9CQTZsQmFHSWdDXzVtTmEzemVTRjVjT1dKVEJma1pZLUFrdFVEY3k1elo2V2NmSURvREt6M0JlQ0FmS0lScmtqVGl6VmNKOVpFLW9SdFBpZw?oc=5",
+        "headline": "[뉴욕채권] 블프 환호한 증시에 10년물 금리 8.8bp 상승",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/28 04:23",
+        "published_ts": 1795807386.0,
+        "tag": null,
+        "first_seen": 1795807836.892851
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1md0NCTHhpLWM1S3RHTmZGSW5DMVdYNzFVazVWRUd5YXdBUlVtMWgtY3BrLTFNMWZzYnJzaTJIYnktZEdPWnRiZGRMZDFUdmhtUUNFZDA4VFhUM1ExbDh2TVdzYmlwLUpGcmJqUjB3?oc=5",
         "headline": "S&P, 스리랑카 신용등급 상향 조정",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795693215.0,
         "tag": null,
         "first_seen": 1795698043.548789
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zb3hTZWVWellESlJYdEVlcXhRRGhiS1lQalh1VVh2RnJ3YjY2VURyb3VBaU9BWTJ5ZUVZNnBmVkxjLWMzbkphVmFJYkZrcDVNLVhFS1VVNVpRUWsxSDdZZHFuLTFHdw?oc=5",
-        "headline": "오라클, AI 인프라 확장의 그늘…채권시장서 재무 건전성 우려 고조",
-        "summary": "",
-        "source": "제민일보",
-        "published": "11/26 19:20",
-        "published_ts": 1795688438.0,
-        "tag": null,
-        "first_seen": 1795690844.508249
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 04:15:49",
+  "updated_at": "2026-11-28 04:30:59",
   "yields": [
     {
       "label": "3년",
