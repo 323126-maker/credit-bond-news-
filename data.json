@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5hQ2k5S3NpLURYZmlDZFN3NUQyTk9WVGxTcG81aEU2bWVMeV85V3Z5bVNESkR2TXhxajE4NFV2dWdYa04tSm9XS016MXpzNkoyV1VObkhPdkN3WV9PV3h0Q0o0VzlGb1pkcnZfNkliNklGQQ?oc=5",
+        "headline": "통화긴축에도 회사채 금리는 6개월 최저수준...연초효과는 ‘속도’가 변수",
+        "summary": "",
+        "source": "마켓인",
+        "published": "11/27 09:08",
+        "published_ts": 1795738100.0,
+        "tag": null,
+        "first_seen": 1795739436.7707837
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuc2RZMi1KcUFQUDl5R2xoZmx0eS1ESVJjMVU0NXVoRXVITGZXYmZJZFBzeFNvYnRTRGx4cUNHVVRhZHA3Rnc?oc=5",
         "headline": "한화토탈에너지스, 국내외 신용등급 잇단 하향…경영 정상화 과제 부상",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795641804.0,
         "tag": null,
         "first_seen": 1795651243.3300428
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1kalhhOS14bk9uTF8xUy1fZzFQcTYwaUlEbjB3TVpyODZWZjVzaE5GTFpTVzZ6enJBMXNxcHZIMG9CTVhxSmNkR3M0S2ZSc2EyRUxhVEpYQ2twaC13NmZTNkpDLWV2RjJYVDZTUTNBVXRGZw?oc=5",
-        "headline": "[뉴욕채권] 불 플랫…기술주 급락에 랠리 후 강세폭 크게 축소",
-        "summary": "",
-        "source": "KB Think",
-        "published": "11/26 06:07",
-        "published_ts": 1795640858.0,
-        "tag": null,
-        "first_seen": 1795646635.3134723
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 09:15:51",
+  "updated_at": "2026-11-27 09:30:56",
   "yields": [
     {
       "label": "3년",
