@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMdUQ5QmxqQ1FBVlZpOHJVczVDZEVHQjBJS3E3R1pUR05sTzNqekl4MEd2eExoMm5FdHBuRWJSSVFlbXhFLWVSZXJ4bXhhaEZJ?oc=5",
+        "headline": "내년 핵심은 '중장기채'…다시 주목 받는 채권 [한입에 쏙]",
+        "summary": "",
+        "source": "블루밍비트",
+        "published": "11/28 07:12",
+        "published_ts": 1795817579.0,
+        "tag": null,
+        "first_seen": 1795819531.842057
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqV2MzZ2Y4ZDFhdHkzZk5NWlZjVkN2aGt4dlZHY3A2ZHRuT3VTa2g5Z3VaUmFHVXpYT3ZZU0RKaWdNb3lSUm82dUg4Ry1LcjZlTXB5Y1EwM3kteE9YTmZCVktpWWRrOUZFRnRIUGpMZVVEUQ?oc=5",
         "headline": "S&P, 프랑스 신용등급 전망 '부정적' 하향…재정 건전화 경고(상보)",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795704755.0,
         "tag": null,
         "first_seen": 1795779035.455477
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFAzRXN6d3c1N05NVDdmS0ZPMHBLS2UwTk5mb2U0LVd0eGxtS1RCa1pCQWF2UldrdUZFdTV5QUFnd01fTnpwWThhdFNhaTRyUUxOalZ2ei02QTA4TXZQeEIwOGl6SVlWazRT?oc=5",
-        "headline": "[채권마감] 악재 쓰나미…10년금리 10",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/26 22:12",
-        "published_ts": 1795698768.0,
-        "tag": null,
-        "first_seen": 1795736733.36953
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 07:38:39",
+  "updated_at": "2026-11-28 07:45:53",
   "yields": [
     {
       "label": "3년",
