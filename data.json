@@ -1208,6 +1208,16 @@
     ],
     "politics": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBEVUF5UW4zVUZmanBmUTA1MHJVeWF0R2xhaFptXzhrTXp1ZXZqR3JrWDd3Z1B1b3ptaU9CTlg5NGRyTUh5cXh6eElsSW9Jb2xES1p1azRINENPZFE1Z21NaNIBYEFVX3lxTFBEVUF5UW4zVUZmanBmUTA1MHJVeWF0R2xhaFptXzhrTXp1ZXZqR3JrWDd3Z1B1b3ptaU9CTlg5NGRyTUh5cXh6eElsSW9Jb2xES1p1azRINENPZFE1Z21NaA?oc=5",
+        "headline": "靑재정보좌관 \"미래대비가 '빚 중독'인가…IMF도 미래기금 환영\"",
+        "summary": "",
+        "source": "연합뉴스",
+        "published": "11/27 11:24",
+        "published_ts": 1795746289.0,
+        "tag": null,
+        "first_seen": 1795749335.3162696
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qSVI3R1V3bTU2WmRRbjJQcDY2dTlDYzhuOFNTaVJNcGx2VFlkVlVnTWJiNXNvLWp0YlJKYWJhc0pqUHNqdzhZVzg4V2dYd21YSm9uYS1wYW91NnhKQy1rbmJOQXJPUU9nUG9F?oc=5",
         "headline": "‘104조 미래대응기금’ 빚 중독 논란… 청와대 “사라지는 돈 아닌 국가자산”",
         "summary": "",
@@ -1596,19 +1606,19 @@
         "published_ts": 1795485960.0,
         "tag": null,
         "first_seen": 1795486537.3169785
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWck05dGkxRDUxMWY1NFBZakNtT1JsQ2N6dEtQVndESVhHMF9oVWZrUFRPd1JIMmpBaDlTdl9fdUctTjhBWWhhYk5vSQ?oc=5",
-        "headline": "질문하는 이재명 대통령",
-        "summary": "",
-        "source": "뉴스1",
-        "published": "11/24 10:41",
-        "published_ts": 1795484480.0,
-        "tag": null,
-        "first_seen": 1795493725.1467443
       }
     ],
     "global_bond": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
+        "headline": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
+        "summary": "",
+        "source": "WSJ",
+        "published": "11/27 11:16",
+        "published_ts": 1795745760.0,
+        "tag": "JGB",
+        "first_seen": 1795749335.3162696
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9YMFpDeXBwd2s1R0VGTThiNlpQNEpBM3pQTEVLWHJDenduZUhWUzFYZXBXVTZMSzNaNDByZjk0RklOblJEb1dSeWpIWjVKZjRkSm9SYlF3UQ?oc=5",
         "headline": "SoftBank Default Risk Hits Four-Year High, Raising Alarm Over Debt-Funded AI Investment",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795680660.0,
         "tag": "JGB",
         "first_seen": 1795681847.503066
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOU29HbS1CMTRVbHFYQ2dCeG1adzZHMDJyUDdlblliVENScEdQSFctZHF5QnBUNEhxRjFMSmhYNF9vQ3JDbUJQTzk3XzF4VDBCQ3JmT3pWVEFaODZKMmVScFNIQTE5dUFEcGhLMFpjT1lGc25YN0RSSEwteTg3T29zWUdTZW4ybXFLM0Utc2JPMzNwbTlzcFo1dEpJU3dqbFpqQU05bm82VDlhTnowamNmdnNHVWE3aTBmMXc?oc=5",
-        "headline": "Who Pays The Bill? In Bond Markets, It Depends On To Whom You Lend",
-        "summary": "",
-        "source": "Wealth Briefing",
-        "published": "11/26 16:49",
-        "published_ts": 1795679358.0,
-        "tag": "Global",
-        "first_seen": 1795683644.0676372
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 12:01:08",
+  "updated_at": "2026-11-27 12:15:56",
   "yields": [
     {
       "label": "3년",
