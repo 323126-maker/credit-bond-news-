@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtQ3ZPUDQ0aEdzNm1xa2xqU0c5aUZaMkZWRFhYbnFfRlJlZWhrbkJUSkN4U0lGRTBFb3NlUXowRGM0T0h3YVZJbjFNVmRYMjg2ZkFnVDlubC1HQWdOakItZHpiSDlxeWFLNm9ZZWcwdUcwZjFj?oc=5",
+        "headline": "S&P, 프랑스 신용등급 전망 ‘부정적’ 하향⋯빅3 신평사 모두 강등 가능성 열어",
+        "summary": "",
+        "source": "이투데이",
+        "published": "11/28 08:35",
+        "published_ts": 1795822500.0,
+        "tag": null,
+        "first_seen": 1795823126.0273502
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBMdUQ5QmxqQ1FBVlZpOHJVczVDZEVHQjBJS3E3R1pUR05sTzNqekl4MEd2eExoMm5FdHBuRWJSSVFlbXhFLWVSZXJ4bXhhaEZJ?oc=5",
         "headline": "내년 핵심은 '중장기채'…다시 주목 받는 채권 [한입에 쏙]",
         "summary": "",
@@ -10,6 +20,16 @@
         "published_ts": 1795817579.0,
         "tag": null,
         "first_seen": 1795819531.842057
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5WUFpsOEZuYTBJV0NqOXRjTjl2ZmxsS3dfTi1JZ183VV9YNVJPYml0MUFmZm5IWTZyS290MTFxYVlNMEFrcEkteEx5SW9iRUx0SG12RkRzSUYybzlfLWJNcnhORTY5azZIazlhRW94X1Nmdw?oc=5",
+        "headline": "[뉴욕마켓워치] 블프엔 AI주 쇼핑…주식·달러↑채권↓",
+        "summary": "",
+        "source": "KB Think",
+        "published": "11/28 06:52",
+        "published_ts": 1795816333.0,
+        "tag": null,
+        "first_seen": 1795823126.0273502
       },
       {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBqV2MzZ2Y4ZDFhdHkzZk5NWlZjVkN2aGt4dlZHY3A2ZHRuT3VTa2g5Z3VaUmFHVXpYT3ZZU0RKaWdNb3lSUm82dUg4Ry1LcjZlTXB5Y1EwM3kteE9YTmZCVktpWWRrOUZFRnRIUGpMZVVEUQ?oc=5",
@@ -380,26 +400,6 @@
         "published_ts": 1795715642.0,
         "tag": null,
         "first_seen": 1795742128.4584305
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2ZERUctM2VsckpoTGpWM0ZOQnBlYmxWei1wMkRqSi1MX1RJb2R1U25xcWxLYTVhT3dDbzNJN2pOTVdySkZYSWMzVy1XVmJSVEl5V3BPdC0tVkoxRXZ4azF1REliQ213QjJGX3I0ZlFTYXhicmltQjhsSHFoT1FJbkJXNmR3dFRnNjFRam12YlNzMGx2VHByN0UxMnZqallNQy1MZmNEZlRLUE5CMHgxQw?oc=5",
-        "headline": "“It’s Dead”: Applied Digital Has $11 Billion Riding on CoreWeave’s Record Credit Stress",
-        "summary": "",
-        "source": "TIKR.com",
-        "published": "11/27 00:24",
-        "published_ts": 1795706692.0,
-        "tag": null,
-        "first_seen": 1795707035.6524887
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqSWZobXk3cUVDdUdxamhwREpDbG9nTjlla2t5cXRMeFZyMVZiZ3Y3WDd4TU1ENTN0aUFOUUp2cklTeEdrOHBvdjhFVEMzTU5udHVuZGtjalBnX01hcnFXb0QzLXZFOTYwWWo1UlZ0dDJkVlNQSGZ6cTFB?oc=5",
-        "headline": "엔비디아 주가: 황 복귀 후 무디스 Aa1 유지, S&P AA 크레딧워치 부정적",
-        "summary": "",
-        "source": "FinanceFeeds",
-        "published": "11/27 00:22",
-        "published_ts": 1795706543.0,
-        "tag": null,
-        "first_seen": 1795791644.9838066
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 08:30:58",
+  "updated_at": "2026-11-28 08:45:45",
   "yields": [
     {
       "label": "3년",
