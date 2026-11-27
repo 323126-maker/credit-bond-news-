@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBNWkEyZk5VemROaWlyUVFEbGtTWUtCYVZNMmZzbFE3ay1zV0VfTmE5VV9LM3FmVDFFMDZpMW5oczByR1lXdzJhWHlPdzVqS1Vya01mel9VdGVtaGd6?oc=5",
+        "headline": "韓 장기금리, 美·G7보다 더 뛰었다…예정처 \"국채 수급 부담 지속\"",
+        "summary": "",
+        "source": "뉴스핌",
+        "published": "11/27 14:08",
+        "published_ts": 1795756080.0,
+        "tag": "JGB",
+        "first_seen": 1795756538.1571627
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPY09laG1mUWszalBJSzg5UWJLX09IcGtzZGk5cmg1NHNjaG45alBBd01ta2p1dzFSMkZhcjNfM3ZSUnZGbzBzemRkUVVWY0N5dktqbU9RQ1lRbGEtaHdNckE3am4tcmh1RHE4S1NwS2tEM05mVWpub0JFTEQtLTJoWlBHOGJCV2tfQ015d1JjSDU3ZEZVUHFpV2tzNmxXdDhhalB1akROVFJrMkNpVHlJLUZqS2RpQmZmYkVrYUIyNTNERnlt?oc=5",
         "headline": "Warsh's 2018 dilemma returns as an AI stock rout meets a Fed bent on taming inflation",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795684289.0,
         "tag": "Strategist",
         "first_seen": 1795743041.2357237
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0yS1dNclo5UUU4NFhMS29xMnN0U3dka25UMElBNnFZODlaWHFqWEg2YnFUY3ZvMHFsR1A3cFRpb1U2VlM1ckVxdFNGYjZuUGlfZWFlQkdMNlRDbTg2Z3NUMndLWF9jV3NXQVF4c21vSWt0d1M4?oc=5",
-        "headline": "한은 긴축 고삐 더 죈다… 기준금리 3.25%로 인상",
-        "summary": "",
-        "source": "부산일보",
-        "published": "11/26 18:10",
-        "published_ts": 1795684254.0,
-        "tag": "JGB",
-        "first_seen": 1795686332.5136166
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 14:08:22",
+  "updated_at": "2026-11-27 14:15:58",
   "yields": [
     {
       "label": "3년",
