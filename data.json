@@ -2,6 +2,26 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9hOVRxRjFVclgyVHJNMk10SnNESE15YnRVNEEzSVlqWUstcnpYeDVJQ0IzaEYzclAycHNZLTBjaF9QaUdJYVkwb25nOElraEl5ajlOcVNESlh0TTNOQVExZi1leGdxMF9oTW1iamVKNDnSAXRBVV95cUxOdVBGR01Ha1NmNGZCbWU5U3RhXzRlem5kdm9UTFFVSFk3ZGltT045M1JJeDJhcXBOVHJZOTFEMWRwWXZjaDExSjc1RlE5b19VcnNJbk93TDk3bFVmNjVqY1gwOUNsSFIwYlBxazNDRmlZdThMTg?oc=5",
+        "headline": "FX스와프, 혼조세…결제일 해 넘긴 1개월물 하락",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/27 19:00",
+        "published_ts": 1795773610.0,
+        "tag": null,
+        "first_seen": 1795774526.5310516
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UEo3MW1lVjNSMXVqdk8wOFVyaFk0UUkwWUpzNnFvdjNKZy14VHNCZG1xWVFCZTVSUEphTWZXOThzMjhXV2lGVk5OWXZobmsyY1dpbnE5Ukd4bktVck1EX2Z3T3VOLTQ?oc=5",
+        "headline": "AI발 안전자산 선호에 급등한 글로벌 채권, 주간 상승 마감 앞둬",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/27 18:59",
+        "published_ts": 1795773540.0,
+        "tag": null,
+        "first_seen": 1795774526.5310516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE4xYmwtRFJuaC02Nkt1T18zb05qbUVWNHYwai1DUEpYUkhkM2JSeEJvd3VKM0xZOEFwanBEOUctOGZWQ240cmRVMlNoOXRuNmxDRmhMMUVhMjUwcDJsWk9DYUVzOHRTZndjbDk2YzJzb1g?oc=5",
         "headline": "[외환-마감] 삼전 30조원 배당일에도 하락…'무거운 네고'에 1,330원대로",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795667186.0,
         "tag": null,
         "first_seen": 1795673726.3418818
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9DeFBkWml3czF1NS1QX3JNeERMekE5eUpFcm9nZTZ2OGJ1ZTRNMklIeDE3LUx3RW5ydlY4VVdFN0E4TWhmcWo2UXNn?oc=5",
-        "headline": "빅테크 AI 자금줄 막히나...채권 시장 \"쓴 만큼 벌었는지 증명하라\"",
-        "summary": "",
-        "source": "코인리더스",
-        "published": "11/26 11:50",
-        "published_ts": 1795661400.0,
-        "tag": null,
-        "first_seen": 1795662041.7425606
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBKN2M0UzJLNlNfSW5MVzV1UmhqaUZDNm5NWW9mTUI1aG8xVktySGprNExHdnpIRHo1eUkwS2E1SEJaUkxKM3hkWHpFSXViMzMxeENGOFRvVHA?oc=5",
-        "headline": "스카이 프로토콜, stUSDS 출금 위기에 2500만USDS 긴급 이전 추진",
-        "summary": "",
-        "source": "블록미디어",
-        "published": "11/26 11:45",
-        "published_ts": 1795661119.0,
-        "tag": null,
-        "first_seen": 1795662041.7425606
       }
     ],
     "perpetual": [
@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE16UEo3MW1lVjNSMXVqdk8wOFVyaFk0UUkwWUpzNnFvdjNKZy14VHNCZG1xWVFCZTVSUEphTWZXOThzMjhXV2lGVk5OWXZobmsyY1dpbnE5Ukd4bktVck1EX2Z3T3VOLTQ?oc=5",
+        "headline": "AI발 안전자산 선호에 급등한 글로벌 채권, 주간 상승 마감 앞둬",
+        "summary": "",
+        "source": "Investing.com 한국어",
+        "published": "11/27 18:59",
+        "published_ts": 1795773540.0,
+        "tag": "JGB",
+        "first_seen": 1795774526.5310516
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaUg1YVppVWdNdWJHUW4ydXQ4N01DY1UzcXJpcVZLZW1UeENuRHR2bm5uaW1FV3YwWUFzNVQzcWp6Njh2QXlpNnV2d3lrYlRZeHU1ZUhaQ1lyVGlqZnRIcHh6NmdZRlM1S09VYVRhTXI3TTU2NUtaUlAxNW5ZbEZCZlFwR19YWTU4ckx5b2E5eWlROWJtcWdFWVdKRnhIeE9qTlZjTzM0R3M4dlRSeHpkRVktN09LLUU3bjNBcjU2QjVRUQ?oc=5",
         "headline": "일본 엔화: 시장 개입 위험과 일본은행의 금리 인상 전망 – OCBC",
         "summary": "",
@@ -1628,6 +1638,16 @@
         "published_ts": 1795770362.0,
         "tag": "Fed",
         "first_seen": 1795771836.672979
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPVDQwU0dMSUV4bUNQRVE4bllQZlZnRmkxaVp1djgtMjNIQ2ZqZW80SE1TV0dUd0hBdkFOMWY2OGtRdlBMX2VlQ1Jnb2NzX0VjdURMVExuY0FjWFFIOVhuMjBtWW1nMlQtQmowenhjdm1GUFdZdmhfSVBBM3lzNTZRejF6UmFkZm1yejZB?oc=5",
+        "headline": "11월 27일 오전 국제 금융 및 통화 시장의 동향입니다.",
+        "summary": "",
+        "source": "Vietnam.vn",
+        "published": "11/27 18:02",
+        "published_ts": 1795770154.0,
+        "tag": "JGB",
+        "first_seen": 1795774526.5310516
       },
       {
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9LMXlOMDBxcHNSZk02TmVoWXVSOEtPUWEtRTBFMWxOcU1Wejd4WTktOUhibzB2elFCbVlHeTBWeGZCeFRibHZhWnlVX29NcG9jaXg4bjhkOE1DR2I3cVNoZksyVFI1c0J1TUJGLWEwT201LTdVTWc?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795726800.0,
         "tag": "JGB",
         "first_seen": 1795728634.8484497
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLUdmWXhMQTdjRGRLWVZ0SUJFZmZyLVRLUjlpQzFzU3FWRUd2MlhhQnpDVWJQUW95MzNhUjhsOENUT0lORi1vNVN0NW0tRDI0dE5Kbkw0Q0UxTHFpcTg4NEVkY01zZWtxXzdjZ1l6cEItenNTeUJhNzVXZ2h6ZW5yMHQwalpVSWZuM1lJdFFFbjFTVVVmR3R0VWR1cXFaUjl1elRFMG53U1ZSSGZaVTJKemFIWUJoY0s3OHNycFhKbkNYa1I4Y0w2T2o0YmU4NlhMR1hYeEloOG9mdmZI?oc=5",
-        "headline": "Global Stocks Rebound on Thanksgiving as US Futures Point to Higher Friday Open: Can the Rally Continue?",
-        "summary": "",
-        "source": "TradingKey",
-        "published": "11/27 05:58",
-        "published_ts": 1795726723.0,
-        "tag": "Global",
-        "first_seen": 1795745724.9458873
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR2RSbUxfYXUxbTBnTXNyWWFlLUpDZWRkREdZMFJETTRIcHd6MjRweEZiamdicW4xbVFQY2tBemdfa3QyeFBjQTZCc29sMVpTV25SQVRtdjU5RWtFZVJMaDhWVWRqMGoxU0tuNktzT05GUGUwa1hpdnVtdEJnS2ZYbTRUZnQybzVvTmFPVUpvWHZlanR6bzRaZk1iNWNUeldiSFlXTmwxX3RfYnY3VXc?oc=5",
-        "headline": "European stocks surge, S&P 500 futures finish higher in Thanksgiving trading",
-        "summary": "",
-        "source": "investingLive",
-        "published": "11/27 04:41",
-        "published_ts": 1795722097.0,
-        "tag": "Strategist",
-        "first_seen": 1795723241.83614
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 19:08:38",
+  "updated_at": "2026-11-27 19:15:47",
   "yields": [
     {
       "label": "3년",
