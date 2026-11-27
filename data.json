@@ -1610,6 +1610,16 @@
     ],
     "global_bond": [
       {
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wWVN5UGV4S3p3UWM2NW1WZWs5SnktOVdZX25nalp1RmxuanlqOHZRS3RXTTBLT2ZmZXJwNW41dHFwYTVOUEJ1eVQ4d1VOaUI1YWhqWWtWTEh2S3gxdU9TWkZUb0RPYWUwZ1BpMmlpR256SnNWd2c?oc=5",
+        "headline": "Japan's Tokyu Sets 2.456% Coupon on 5-Year Retail Bond, Up 1.446 Points From Previous Issue",
+        "summary": "",
+        "source": "BigGo Finance",
+        "published": "11/27 12:36",
+        "published_ts": 1795750560.0,
+        "tag": "JGB",
+        "first_seen": 1795751126.7689092
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMy1aZXhiVjBaS2RzMmxBdmx2Nk9zekJRT1dpWDlvOVZ1M05QNllocHRpSDZ4OXZIM1dEMWdyekpjMHgzVk9zOWd0b3dsU3J6b0lyaURkSElnV1p3bTBkZ1hQT2d1TnlYRHNXTk1tQ0FCcGp3eXlMSU9IZGxCamhGZE5mRHVfOXJOZW5wUTVDa2ptOU80OE93ODMyQmFyQ3JMTnJKN2FmWk12QQ?oc=5",
         "headline": "Short-Term JGB Yields Rise on Elevated Tokyo Inflation Data",
         "summary": "",
@@ -1998,16 +2008,6 @@
         "published_ts": 1795683446.0,
         "tag": "Strategist",
         "first_seen": 1795719646.5432763
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FbVBWT3VYb2FBV29vdHRnSHRSQXpkVVh4eEhueXd2SUVzTzQwR0xjWGx2ZXRSbEZSRjF0dl9BcFUycDhZT2ZVYVlrRGdhZUFTQUQ2Ng?oc=5",
-        "headline": "AI주 저가 매수세에 아시아 증시 상승⋯닛케이 0.8%↑",
-        "summary": "",
-        "source": "이투데이",
-        "published": "11/26 17:11",
-        "published_ts": 1795680660.0,
-        "tag": "JGB",
-        "first_seen": 1795681847.503066
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 12:31:04",
+  "updated_at": "2026-11-27 12:45:49",
   "yields": [
     {
       "label": "3년",
