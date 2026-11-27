@@ -806,6 +806,16 @@
     ],
     "policy": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82Ql9PM0NfS0FwdzU3WW5zWGtGTzFLbVc0aXRqUkpmbm9nam5DSHVtQjFyMEdxbWFVUHZDaDNGOWhYVWJwQ2NfUDMyZU9GckxHbFE?oc=5",
+        "headline": "한은 기준금리 올린 날 무슨 일이?…국고채 만기별로 희비 엇갈린 이유",
+        "summary": "",
+        "source": "매일경제 마켓",
+        "published": "11/27 15:03",
+        "published_ts": 1795759432.0,
+        "tag": null,
+        "first_seen": 1795761040.177976
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBpMnRqcHY2WENLN3hQbkR2R2Z4UXlwc2g2LUpvVkZKNnM0dG5xel9BTFJUUmFELWhEYW5FM2VKcmVvMllOT29Xd0lqMC1BZlZXQmh1eWU0dTYxblZpUHZIYlVmYVowYkZWemtaS2d5RkNhQQ?oc=5",
         "headline": "한은은 반도체를 믿고…채권시장은 한은을 믿지 못하고",
         "summary": "",
@@ -1194,19 +1204,19 @@
         "published_ts": 1795486284.0,
         "tag": null,
         "first_seen": 1795487436.2809467
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1KXy1WaFUtZXQ0dmd4eEZyLWxMQnRRaG1ydGRzc0wwM2FpbjJMYkNfMFdUSkxBZWZQNDdkNjNtUHE1RmotcDhFcFdMbkNuTDNXdzNnd05iVWRUS3dMRm80NG1rVzhNS1dORFUwdkZ1YWU?oc=5",
-        "headline": "금투협, 채권시장 전문가 54% “11월 기준금리 인상 전망”",
-        "summary": "",
-        "source": "리드경제",
-        "published": "11/24 11:05",
-        "published_ts": 1795485901.0,
-        "tag": null,
-        "first_seen": 1795486537.3169785
       }
     ],
     "politics": [
+      {
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5mQWpXeFl2dlRCbWZVM08tZ1RIdmdpY3FkUTdxQ2t6ZElMN3dzT3Y4RVItQ182dkxjbHV1MldpZmhBenNoUkZJR0JmQUdWcXYya0lnUDBobkNBQ1c4NE92TDVxcmplUkVIZWdWckZ5NW9PbE9pa1Z1UUN3?oc=5",
+        "headline": "李대통령, '성과공유형 재정지원' 추진 필요성 거듭 강조... \"욕먹어도 할 일 해야\"",
+        "summary": "",
+        "source": "로이슈",
+        "published": "11/27 15:06",
+        "published_ts": 1795759587.0,
+        "tag": null,
+        "first_seen": 1795761040.177976
+      },
       {
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9XNi1xcEpObUdoMUVxbk1BMzV3STF3aEpULXhQUXR4UGJrSU9CNHNDZW5sVzVGVzF6elZmTjVibzZqWExuUS1DUC1oR29RLV9keGZCZDBqMnpPbXVnaUZ1S2ZVV0ZHejg0c3JXTG5ubTQtcTA?oc=5",
         "headline": "이재명 \"연 50조원 R&D 성과 국가 환수 장치 필요\" \"지원과 투자의 중간 형태\"",
@@ -1594,16 +1604,6 @@
         "source": "KB Think",
         "published": "11/24 11:52",
         "published_ts": 1795488770.0,
-        "tag": null,
-        "first_seen": 1795489242.895381
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHN1d0dmVlaHlFeW1sdnVWMEJ5M0xLZUZjbnVCM0tRaGlFM0lqNkpCWVh4clF1dXVmamF6V3hyTU1NeXhxc25haGduNGhVM185UlBSWS1nMS1vQ03SAWBBVV95cUxQZEY1ZnNSY0pabUN5dDROXzNSYmxKV29zVUh6Wng4b25hV19zWjNsdmhMWmR2SUVLeDNNODl6UlIyUzFJUkpxZXFyV2psVHFlbndTZERNSVRvNlZkSmZBa28?oc=5",
-        "headline": "정부 \"내년 국민 삶의 질 지표 개발…예산·정책과 적극 연계\"",
-        "summary": "",
-        "source": "연합뉴스",
-        "published": "11/24 11:40",
-        "published_ts": 1795488023.0,
         "tag": null,
         "first_seen": 1795489242.895381
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-27 15:15:54",
+  "updated_at": "2026-11-27 15:31:01",
   "yields": [
     {
       "label": "3년",
