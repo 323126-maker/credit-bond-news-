@@ -404,6 +404,16 @@
     ],
     "perpetual": [
       {
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVY2JqUklwNUluN3JpQVd3Ylk3cDNVUmdJZE1GcXYyNDV6aTk4Q2djdXVRVHIxQ29hblBCR01VdkFZYW1WSTV5a3VfaEx3NWlmY25rWmlQQlB6Z3Boamk4NzVqYThPcy0tNWlV0gFrQVVfeXFMUFVjYmpSSXA1SW43cmlBV3diWTdwM1VSZ0lkTUZxdjI0NXppOThDZ2N1dVFUcjFDb2FuUEJHTVV2QVlhbVZJNXlrdV9oTHc1aWZjbmtaaVBCUHpncGhqaTg3NWphOE9zLS01aVU?oc=5",
+        "headline": "내년 보험사 기본자본 50% 규제…주주환원 여력 갈린다",
+        "summary": "",
+        "source": "경제투데이",
+        "published": "11/28 02:24",
+        "published_ts": 1795800254.0,
+        "tag": null,
+        "first_seen": 1795806044.6861088
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBDR0gwNURJR04xTDdLOWQ5N3pQODFNWXVJdkR2Z1dLR1hzYXVvaWRtaVkzNVZwUjBrdnJlZHdmUHllWHhNb1NyUU9QOEFDU25wTmtaOUtCVFdfRlZ5LXZYRWdHVll3UQ?oc=5",
         "headline": "트리니티항공, 소노에 30년간 수수료 154억9000만원",
         "summary": "",
@@ -792,16 +802,6 @@
         "published_ts": 1795578960.0,
         "tag": null,
         "first_seen": 1795579249.1252306
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVFVJYzZNaWNYVThJMUdTNkJadFo5TGVLNXQzbnVUX1l1bklLdFh4WUxSb3VsUnFneWY5dHNjcjJYUXRBX1BTVmdGNWFWMFNaZzhscG5MaDhHcWwtYjFzatIBb0FVX3lxTE80SkNiMlpmX0I1NTlvY0VGQUk0a2FWeVNIZkkzNDFJQXVrUG5zN1RKWVgtMWJraHlHYW5iUWdrTEl5NWN5TTQzTlR5Sy1pTUpFenZqZmVZN2VjV3NQUnlhenlMZjF4UzVfdTlxSkpkZw?oc=5",
-        "headline": "HD현대오일뱅크·롯데케미칼, 석화 재편에 재무 부담 줄였지만…금융지원은 계속",
-        "summary": "",
-        "source": "토요경제",
-        "published": "11/25 12:46",
-        "published_ts": 1795578381.0,
-        "tag": null,
-        "first_seen": 1795606233.7713292
       }
     ],
     "policy": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 03:45:51",
+  "updated_at": "2026-11-28 04:01:09",
   "yields": [
     {
       "label": "3년",
