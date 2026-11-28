@@ -1630,6 +1630,16 @@
         "first_seen": 1795820438.8193498
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1WSk1SMEVJUWVGN1RIVTEtSThObVFxbkFHTE9ySmdyRUx4NjJMNWsta3lOaFBOVFF5eUEtN0lVaXc5QlFiTEdiQVZYSQ?oc=5",
+        "headline": "Stock Market News - Bond Market - Currencies Markets",
+        "summary": "",
+        "source": "MarketWatch",
+        "published": "11/28 07:03",
+        "published_ts": 1795817002.0,
+        "tag": "Global",
+        "first_seen": 1795825835.5812852
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNR0t1Vl9qTmp4cW5NQUVLUDhpd1hjd0JKNGk1SzFNR09oQm83V1VaVlBuRmNKMTFHbGl4YURlT2p0YjZDam91Ui1qc2pOOUpSSE9jU3VfVXFtM2xFUXJ2bmFLZ2ZFZ214cVMtUnp0SXVBX0J0WkVxbE9LQVdqWktYaGJMYXE0WE8wSXhGaGVUY2RJbXViUUV0bA?oc=5",
         "headline": "Slow and Steady Could Win the Fed’s Next Hiking Cycle",
         "summary": "",
@@ -1648,6 +1658,16 @@
         "published_ts": 1795810653.0,
         "tag": "JGB",
         "first_seen": 1795811437.2427616
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ0taN3E4cG1RcDA0QnJMVnZWY3k0cExiNHlSRDJ5YVRZNlN1UlpLczR1Y0xtaFpyZnZwT2NLQlFqQjV0WGNVZ2V2a2ZBWnB1XzRoZm1oQmJ0cEFsRFIwdzdRd1dUdjdRVDlYb1pIaXZ1RmlVNF9DRHJ6OXd5VjNWLS1tRHZ1V19rQWVZWGZ0SDhHQnU3VnhkSDZMcm5mUE5teXktQUU4cHhWX0pTQ2gzdzF3?oc=5",
+        "headline": "Treasuries Retreat as Gains in Equities Sap Demand for Havens",
+        "summary": "",
+        "source": "Bloomberg.com",
+        "published": "11/28 04:05",
+        "published_ts": 1795806349.0,
+        "tag": "Fed",
+        "first_seen": 1795825835.5812852
       },
       {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRnRxUHZWNVpJTWVOcEx3cHpRNzlaQi1ZVmVJd2gtRHJwUkQxdjF6S3JiZlBWR1NUSjZfZWZjdmlLYkd4WnoxbVBpa2piRVA3MGxoZjhrcU5aRDk5ZTJpYjIzdHl5cVdvUG5IQzhZbjFhbGxCSFlyOEV0WTlna1NJSFpBWVJjZ2NPOWJydGlaUC1vak1Ick1BMHlXMDJZOTdJWkdqYWNIbVFzOE1ZOUVEWV84VlM?oc=5",
@@ -1988,26 +2008,6 @@
         "published_ts": 1795766063.0,
         "tag": "Fed",
         "first_seen": 1795813240.5798912
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzNnNxZXRsSVFtTGJUQ19BRGMzcE9MOG9YR3N6UzVBTGhkZ0thX0xKVmxsTzBQTXZDVXRYNm1JeFVMN0o0U2s2Z0l5MkI0eUJfTDRmSnNoVDUtd04tMVVBcWR5aGoxbFBGQVVMU1ZPWGdlUnlVUVE?oc=5",
-        "headline": "AI Compute Provider CoreWeave's Credit Woes Trigger Health Check Across Taiwan Stock Supply Chain",
-        "summary": "",
-        "source": "BigGo Finance",
-        "published": "11/27 16:52",
-        "published_ts": 1795765929.0,
-        "tag": "Global",
-        "first_seen": 1795794334.6415503
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ONGxRaGRPbXBRSzkxbnJfc2pMRS1ycHFSME9qVERIamJVcFc5VU41WlA0cUMyb3VMWmZIN1FZQW1IVjNXWkhCdzYzSE9zZHZkUWF2eHgya1hUSXkzTGpCTFdNNWdEYU0tdWRaNlZBTmtfUFNBOTZOaw?oc=5",
-        "headline": "What are the main events for today?",
-        "summary": "",
-        "source": "investingLive",
-        "published": "11/27 16:36",
-        "published_ts": 1795765000.0,
-        "tag": "Strategist",
-        "first_seen": 1795765525.2484443
       }
     ],
     "watchlist": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 09:15:54",
+  "updated_at": "2026-11-28 09:30:58",
   "yields": [
     {
       "label": "3년",
