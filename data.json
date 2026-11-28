@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMnNvWlI1dWpHcGRqSkxSSlEtVFpBTTBlWUJFd2dySnFTRjNvZndUQzd1Q0NTelp6SUJQeDBscEw4cXBwMmdzMll0LVFacVlXcDQ5MWljSG1reENKeXRRZGhjZGUtcFhkNW1MMldxZS04aWRXaHJ5eG1SZGlVcUZLTncwcmk0QmNDdW80eUlOSE8zNnJRYXVEWWhBajNlZw?oc=5",
+        "headline": "S&P, 프랑스 신용 등급 전망 ‘부정적’…재정 적자·정치 갈등 우려",
+        "summary": "",
+        "source": "조선일보",
+        "published": "11/28 09:40",
+        "published_ts": 1795826400.0,
+        "tag": null,
+        "first_seen": 1795827639.5427296
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQzJtNlpQb3FLUTBQaXpWc1REdFFtRlFuMENXZFhmTU9Lb0s4cFNYQkVJNVQ4Y2wyYVQ0UWdvVkJvekk2NVZLbnZPcmpOZ2lJSk9GbmRacGpoY3RkT3RRTHZ3?oc=5",
         "headline": "프랑스 신용등급, 전망 \"안정적\"에서 \"부정적\"으로",
         "summary": "",
@@ -388,16 +398,6 @@
         "source": "이데일리",
         "published": "11/27 07:01",
         "published_ts": 1795730462.0,
-        "tag": null,
-        "first_seen": 1795731325.9939961
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZDZjMUZ1bkxoaUxBSVh6ci1rM3ZNcTlqVExCTl9pdWc0SFdGS3lrVktBV0VRZ3ZuN3VyV255QnFteml1el92UTY5VjBMTTRTUm9LMTRaVEY5Z2ZNbTdZZ1pEMzB4MXdSNmdVQm9OdVRsUE5VaW5MZDZraHMtUmpNRlRZYw?oc=5",
-        "headline": "예금도 주식도 채권도 싫다, 법인 MMF '사상 최대'…운용사는 마진 '빈수레'",
-        "summary": "",
-        "source": "인베스트조선",
-        "published": "11/27 07:00",
-        "published_ts": 1795730432.0,
         "tag": null,
         "first_seen": 1795731325.9939961
       }
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 09:45:47",
+  "updated_at": "2026-11-28 10:01:03",
   "yields": [
     {
       "label": "3년",
