@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RlZCREtadkQ1R0RtVjFvQ2JqYjRlSVdSQm9ZQlB6MGZNNjNaSklXRjNHLV9XX2VfbkJSVXlmbUFkZmtvOVlNV3ZoZl9VaHU0dF8tRFRJY2Y5Zw?oc=5",
+        "headline": "S&P, 佛 신용등급 전망 '부정적' 하향…추가 강등 경고",
+        "summary": "",
+        "source": "파이낸셜뉴스",
+        "published": "11/28 10:51",
+        "published_ts": 1795830688.0,
+        "tag": null,
+        "first_seen": 1795832131.1580203
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16dGpwcVd6RkQwZVJYbklJTlVEcHRueGZmVG5HSXFsVXc2MkRqREJxNWp5VVRyUjBlZVo4VVZHaUlNRUk2WmpPd1d3U09mTGNYVEtvWTNIV2ItNnhfVFZOaXpDMUY?oc=5",
         "headline": "S&P, 프랑스 등급 전망 부정적으로 하향...국가신용등급 ‘A+ 유지",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795733469.0,
         "tag": null,
         "first_seen": 1795734042.2096634
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBERDc0dFdUTjN0X0N3d0Z3a0dEN3lpYjdqWEhJb1loVGVtYmpDOHVYb0FtOGJZZTBrWFhaMGs4c2hya0NYRjU2STVTWWNxMnR1aFRuLW9fTmV0OUMycEhJMmFIUmtXNVRzVmVuczBR0gFyQVVfeXFMUGUwYVMxVmhaeHlUamQ3a2NHaVJfaDVWRm5mVExHUThaNVBlQlpIaDBLMEtuSldSaDZpdVdEQ1VEYzdXN3hhRVBGZVR1QU9FSnB3SjFmc3pVcDlhenhLT3ZrWktic0FyemV6MG93ZUxsZDVB?oc=5",
-        "headline": "숨 고른 월가, 추수감사절 맞아 26일 주식·채권시장 전면 휴장...연휴 끝자락 유동성 축소 주목 [뉴욕증시]",
-        "summary": "",
-        "source": "시티타임스 CityTimes",
-        "published": "11/27 07:27",
-        "published_ts": 1795732072.0,
-        "tag": null,
-        "first_seen": 1795805126.7369976
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 11:01:12",
+  "updated_at": "2026-11-28 11:15:53",
   "yields": [
     {
       "label": "3년",
