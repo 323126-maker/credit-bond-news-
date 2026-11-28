@@ -72,6 +72,26 @@
         "first_seen": 1795826725.3362353
       },
       {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB3VU1zUUhzUFdoUmppUHFNUXB5eXBBY0U0UTVOWGd4bWY3U2hrUEJIci1kVkUxTjlIbEZQa1EtanFfWm0yQWFsRmMwQ2c1Z255cTdLV1hCeXhMT21mUGtQaE1sOVhrdFdUQ1VObVlrRHDSAXRBVV95cUxNbXhrRXhwOGVlMWVqQTd4VThCYkZLZTRvTk8wZlZkNzd4bk9ZT3k4U0gyT2JvOHFXVkNmSVV2aDUtOVJqenBidzZERE9NQmJJdEhFTU1aYVRyQ1pCT1RSUHRESy15b3N1R0xHbjY3TzJoSWQzaw?oc=5",
+        "headline": "NDF, 1,333.80/1,334.20원…2.85원↓",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/28 09:29",
+        "published_ts": 1795825763.0,
+        "tag": null,
+        "first_seen": 1795843836.700524
+      },
+      {
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBsUkFlMlVyVjR2TWZEMm5QcjQ1ZFRLcDJjOVNxMXZaTzBaRGNzQlJwZ3IwR0ExdTJ0eklpbFdrVTRNSXY2b1ZmRUY5cEJia3FWSlU3SWdLV1dTd3pHZzhvd0ZEcWZKUFpMNzJ6eVBxdDjSAXRBVV95cUxQNzl1UVUzQ3gwQ2lrNV93dVVnVVZIWDZ6Z3VIRXlRRDd3WkdMaHhJUzM1WTBmRGw2VGQ0OVNDb2EzMlJEeGVnN1ZRWGh1c2dOdXk1RlVkX3JUY2xRSGFrS294bWVFZWQ5WGRrYnV2cnRCQXEtTA?oc=5",
+        "headline": "[외환] 글로벌 달러 강세에도 하락…얇은 장서 월말 네고",
+        "summary": "",
+        "source": "연합인포맥스",
+        "published": "11/28 09:27",
+        "published_ts": 1795825674.0,
+        "tag": null,
+        "first_seen": 1795843836.700524
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBFZkRNN0NoSmlxMGFLRkV0V01TV3Rlbjc2SF9TTWJySUctTmhzRFY1Z3JDNFJiZHE2dDBHaDhoSVlwN0tab3hVX1VtYjB6VVpIanlDbjhlNUVHSTBaZWlZNWJ3UjVhUWZYaW9JYVNvT1BHQdIBckFVX3lxTFBFZkRNN0NoSmlxMGFLRkV0V01TV3Rlbjc2SF9TTWJySUctTmhzRFY1Z3JDNFJiZHE2dDBHaDhoSVlwN0tab3hVX1VtYjB6VVpIanlDbjhlNUVHSTBaZWlZNWJ3UjVhUWZYaW9JYVNvT1BHQQ?oc=5",
         "headline": "뉴욕증시, 블프 저가매수에 일제히 반등…나스닥 2.31%·필라델피아 반도체 4.69% 급등",
         "summary": "",
@@ -380,26 +400,6 @@
         "published_ts": 1795745146.0,
         "tag": null,
         "first_seen": 1795752926.715298
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9mUE1kaHpCQmZUSlpSaXdNa2EwemRxd01NV2lZQzBRbkdmclJGTDliTHl0THpyRDJYNFZDbEJVVVNFQXkxdkZtWS1BVVlyWXU1WUHSAVNBVV95cUxPT3dzOHBwcWxHczFuMFRSMkF3Vm1hWTNmSXU5V0dVdlR4a3VRUU1QREVXbXhkb0s4NjBnaUZIbUo4aVAtNDEzWXd2NlZ4YmItSkNIVQ?oc=5",
-        "headline": "엔비디아 신용등급 하향 위기…CDS 프리미엄 사상 최고",
-        "summary": "",
-        "source": "서울경제",
-        "published": "11/27 10:00",
-        "published_ts": 1795741200.0,
-        "tag": null,
-        "first_seen": 1795777248.242191
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9sQXJ4N2ZzdS1mLW9CeDZlZ2RDU2NwTWR0RUFUVmxTUkliMVMxTi1wNEFSOGNPOXIzQkVzWWlrWWthYWFobHpXREE1T0RfNEJDYTJoQy1sSkxZX2JLSkw2Sjg4NXVlVzVfbDZJdGhZR0M?oc=5",
-        "headline": "한은은 반도체를 믿고…채권시장은 한은을 믿지 못하고",
-        "summary": "",
-        "source": "연합인포맥스",
-        "published": "11/27 09:48",
-        "published_ts": 1795740480.0,
-        "tag": null,
-        "first_seen": 1795741241.4737866
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 14:15:49",
+  "updated_at": "2026-11-28 14:31:00",
   "yields": [
     {
       "label": "3년",
