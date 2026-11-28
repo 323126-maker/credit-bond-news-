@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rd2txOF9XM2N2Z1JDemUxckhyYlFOZ0p3UG42cTJaOC1vejNzaE9mZVg3Vkw3b1M4WElmZjZHUWgzdWo3ZGJ5NUlJNmYwaTNhd25qcHl3SHFjT1NVcTI5MF9Qb25pRnFuclp6MUhBSQ?oc=5",
+        "headline": "적자·부채·경기둔화 겹친 프랑스…S&P, 신용등급 전망 '부정적' 하향",
+        "summary": "",
+        "source": "조세일보",
+        "published": "11/28 12:50",
+        "published_ts": 1795837834.0,
+        "tag": null,
+        "first_seen": 1795838441.4673285
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1RlZCREtadkQ1R0RtVjFvQ2JqYjRlSVdSQm9ZQlB6MGZNNjNaSklXRjNHLV9XX2VfbkJSVXlmbUFkZmtvOVlNV3ZoZl9VaHU0dF8tRFRJY2Y5Zw?oc=5",
         "headline": "S&P, 佛 신용등급 전망 '부정적' 하향…추가 강등 경고",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795738100.0,
         "tag": null,
         "first_seen": 1795739436.7707837
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBuc2RZMi1KcUFQUDl5R2xoZmx0eS1ESVJjMVU0NXVoRXVITGZXYmZJZFBzeFNvYnRTRGx4cUNHVVRhZHA3Rnc?oc=5",
-        "headline": "한화토탈에너지스, 국내외 신용등급 잇단 하향…경영 정상화 과제 부상",
-        "summary": "",
-        "source": "뉴스충청인",
-        "published": "11/27 08:58",
-        "published_ts": 1795737480.0,
-        "tag": null,
-        "first_seen": 1795738531.9385352
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 12:45:52",
+  "updated_at": "2026-11-28 13:01:07",
   "yields": [
     {
       "label": "3년",
