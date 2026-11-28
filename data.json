@@ -2,6 +2,16 @@
   "categories": {
     "credit_issue": [
       {
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zQzJtNlpQb3FLUTBQaXpWc1REdFFtRlFuMENXZFhmTU9Lb0s4cFNYQkVJNVQ4Y2wyYVQ0UWdvVkJvekk2NVZLbnZPcmpOZ2lJSk9GbmRacGpoY3RkT3RRTHZ3?oc=5",
+        "headline": "프랑스 신용등급, 전망 \"안정적\"에서 \"부정적\"으로",
+        "summary": "",
+        "source": "뉴시스",
+        "published": "11/28 09:33",
+        "published_ts": 1795825982.0,
+        "tag": null,
+        "first_seen": 1795826725.3362353
+      },
+      {
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBtQ3ZPUDQ0aEdzNm1xa2xqU0c5aUZaMkZWRFhYbnFfRlJlZWhrbkJUSkN4U0lGRTBFb3NlUXowRGM0T0h3YVZJbjFNVmRYMjg2ZkFnVDlubC1HQWdOakItZHpiSDlxeWFLNm9ZZWcwdUcwZjFj?oc=5",
         "headline": "S&P, 프랑스 신용등급 전망 ‘부정적’ 하향⋯빅3 신평사 모두 강등 가능성 열어",
         "summary": "",
@@ -390,16 +400,6 @@
         "published_ts": 1795730432.0,
         "tag": null,
         "first_seen": 1795731325.9939961
-      },
-      {
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOUy0yVFgzXzhWc0hrY0o3RVNlRG9CV1FZTW40aGhyNEdwREFUa0pzZUh0YUtWX1FycTNSc1BNR1NzN1FoX19QMl9Sdi0zQ2h5UHNWMkoyYXFOUng5ZGltaU9FcG1qRGkwWW5EdVhMU2FRM2dkMDFwRThZNUlUVEhZMDRNQmgwUWdHdHBaMWl6ZWl5cno0Sm1nTDJ0UTFQS1BUVGdaOGthOUs2ZjBfLUJUVGxDOG1TYVhXb0xrUHJsdnktN2FBa3hhNlRaejFkNUN1MG5tWm94dGdBS0xNUFdwQzNTZnJqQVJlZFQ2NWZlWlJ2ZWdGUUYtRjVlY2sxQVhKRkRMb3A2UHg2NVRJNjBBTXFxSmJYaTF3UVZOX01POEJ0dlQwWmZFMGhaWEI4eUhIMDNzTXFnamwxVXgwVWhlamRNQ1ZNR3pTOVo1aGN3?oc=5",
-        "headline": "블랙록 CIO “8% 회사채 수익률, 주식 기대수익에 정면 도전”",
-        "summary": "",
-        "source": "Yellow.com",
-        "published": "11/27 02:54",
-        "published_ts": 1795715642.0,
-        "tag": null,
-        "first_seen": 1795742128.4584305
       }
     ],
     "perpetual": [
@@ -2413,7 +2413,7 @@
       }
     ]
   },
-  "updated_at": "2026-11-28 09:30:58",
+  "updated_at": "2026-11-28 09:45:47",
   "yields": [
     {
       "label": "3년",
